@@ -1,625 +1,1153 @@
-<!--The following is the downloaded HTML source of the parkseed.com privacy policy that was archived on 2001-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011031151529id_/http%3A//www.parkseed.com/webapp/commerce/command/ExecMacro/psPrivacy.d2w/report) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parkseed.com privacy policy that was archived on 2005-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050402010249id_/http%3A//www.parkseed.com/gardening/Park/dept/PrivacyPolicy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd"><html><head><title>Park's Gardens: Flowers and Vegetables! </title>
+<meta name="Keywords" content="Park Seed, Park Seed Company History, Park Seed Company, George W. Park, George Park, Greenwood, flower, vegetable, seeds, bulbs, plants, garden, gardeners, herbs, fruits, Park">
+<meta name="Description" content="For over 132 years, Park has maintained the highest standards of excellence in products and service. This, we believe, has been the source of Park's growth in the past and will continue to be in the future. Through quality catalogs, quality products and a pledge to service that is Always Dependable, Park helps gardeners grow more beautiful flowers and tastier vegetables.">
+	<link rel="stylesheet" href="Park/parks.css" type="text/css">
+	<script language="JavaScript">
 
-<title>Park Seed:  Park’s Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="The information we learn from our customers helps us personalize and continually improve your on-line gardening experience with ParkSeed.com. We understand your concerns regarding the exchange and use of personal information over the Internet. At Park Seed Company, it is our policy to protect your personal information.">
-<meta name="keywords" content="ParkSeed.com, parkseed.com, park seed, Park Seed, Parkseeds, parkseeds, policy, Privacy Policy, Park Seed Company">
-
-
-<style type="text/css"><!--
-.clsBannerFont { FONT-SIZE: 12px; COLOR: black; FONT-WEIGHT: normal;}
-.clsBannerFontBold { FONT-SIZE: 12px; COLOR: black; FONT-WEIGHT: bold;}
-.clsBannerFontSmall { FONT-SIZE: 10px; FONT-WEIGHT: normal;}
-.clsBannerFontSmallBold { FONT-SIZE: 10px; FONT-WEIGHT: bold;}
--->
-</style>
-<script type="text/javascript" language="javascript">
-<!--
-var bookmarkurl="http://www.parkseed.com"
-var bookmarktitle="Park Seed - America's Favorite Gardening Headquarters Since 1868!"
-function addbookmark() {
-if ( document.all)
-window.external.AddFavorite(bookmarkurl,bookmarktitle)
+// cookies disabled popup
+function cookiesOn() {
+	var testCookieName = "testcookie2";
+	document.cookie=testCookieName+"=TEST";
+	return (getCookie(testCookieName) != null);
 }
-// -->
+if(!cookiesOn()) { //if cookies are disabled on client's browser
+	window.open("PopUpDisplayView?catalogId=10101&storeId=10101&langId=-1&mainPage=cookieinfo&titleText=Please Note!", "CookiesBlockedPopUp", "width=500,height=500,menubar=no,scrollbars=no,status=no");
+}
+
+// Session Timeout PopUp
+
+/*var minutes = 10;
+startTimingPage();*/
+
+function getCookie(NameOfCookie) {
+	if (document.cookie.length > 0) { 
+		var begin = document.cookie.indexOf(NameOfCookie+"="); 
+		if (begin != -1) { 
+			begin += NameOfCookie.length+1; 
+			var end = document.cookie.indexOf(";", begin);
+			if (end == -1) end = document.cookie.length;
+			return unescape(document.cookie.substring(begin, end));
+		} 
+	}
+	return null;
+}
+
+function setCookie(NameOfCookie, value, expiredays) {
+	var ExpireDate = new Date ();
+	ExpireDate.setTime(ExpireDate.getTime() + (expiredays * 24 * 3600 * 1000));
+	document.cookie = NameOfCookie + "=" + escape(value) + ((expiredays == null) ? "" : "; expires=" + ExpireDate.toGMTString());
+}
+
+function delCookie (NameOfCookie) {
+	if (getCookie(NameOfCookie)) {
+		document.cookie = NameOfCookie + ";=expires=Thu, 01-Jan-70 00:00:01 GMT";
+	}
+}
+
+function AlertUser() {
+	var urlStr = "PopUpDisplayView?catalogId=10101&storeId=10101&langId=-1&mainPage=sessiontimeoutpopup";
+	var featuresStr = "width=510,height=540,menubar=no,scrollbars=no,status=no";
+	var popup = window.open(urlStr, "ParkSeedSessionAlert", featuresStr);
+	if (popup.opener == null)
+    	popup.opener = window;
+}
+
+/*function startTimingPage() {
+	setTimeout("AlertUser()", minutes * 60 * 1000);
+}*/
+
+
+// Items in cart PopUp
+
+function openNewWindow() {
+	document.cookie = window.name + "=close";
+	if (event.clientX < 0 && event.clientY < 0) {
+		if (!anyOpenParkWindows()) {
+			var urlStr = "PopUpDisplayView?catalogId=10101&storeId=10101&langId=-1&mainPage=openCart_popup&titleText=Cart Reminder!";
+			var featuresStr = "width=510,height=500,menubar=no,scrollbars=no,status=no";
+			window.open(urlStr, "ParkSeedPopUp", featuresStr);
+			delCookie("Entry");
+		}
+	}
+}
+
+function anyOpenParkWindows() {
+	var cookies = getWindowCookies();
+	for (var i=0; i<cookies.length; i++) {
+		if (cookies[i] == "open") {
+			return true;
+		}
+	}
+	return false;
+}
+
+function getWindowCookies() {
+	var dc = document.cookie;
+	var prefix = "WINDOW";
+	var begin = "0";
+	var cookies = new Array(10);
+	for (var i=0; i<10; i++) {
+		cookies[i] = "close";
+	}
+
+	for (var i=0; i<10 && begin >= 0; i++) {
+		begin = dc.indexOf(prefix, begin);
+		if (begin != -1) {
+			var end = document.cookie.indexOf(";", begin);
+			if (end == -1) {
+				end = dc.length;
+			}
+			cookies[i] = unescape(dc.substring(begin + prefix.length + 15, end));
+			begin = end;
+		}
+	}
+	return cookies;
+}
+
+function loadEntryPopup() {
+	var url = "PopUpDisplayView?catalogId=10101&storeId=10101&langId=-1&mainPage=firstpopup";
+	var settings="width=404,height=324,screenX=100,screenY=100";
+	var entry = getCookie("Entry");
+	if(entry == null || entry != "Yes") {
+		window.open(url, "EntryPopup", settings);
+		setCookie("Entry", "Yes", 1);
+	}
+}
+
+if (window.name == "") {
+	window.name = "WINDOW" + Math.random();
+	window.name = window.name.substring(0, 20);
+}
+document.cookie = window.name + "=open";
+
+var submitted = 0;
+function LockButton() {
+	if ( ! submitted ) { 
+    	submitted = 1;
+        return true;           
+    } else {
+       	alert("Form already submitted, please be patient.  Press OK to continue!");
+       	return false;
+    }
+}
+
+function emailPresent(form) {
+	var valid = true;
+	if(form["email1"].value == "") {
+		valid = false;
+		alert("You must provide an email address.");
+	}
+	return valid;
+}
+
+function preloadimages(){
+	var pic1= new Image(); 
+  	pic1.src="/web_images/Park//dev/processing.gif";
+}
+
 </script>
-</head>
-<body bgcolor="#ffffff" marginheight="0" topmargin="0" link="#006600" alink="#009900" vlink="#cc3366">
+	</head>
+	<!--  will load entry popup when inside body tag onLoad="loadEntryPopup()" -->
+	<body onunload="openNewWindow()" onload="preloadimages()">
+	<!-- SiteCatalyst code version: G.7. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript">
+<!-- /* You may give each page an identifying name, server, and channel on the next lines. */ 
+var s_pageName="PrivacyPolicy"
+var s_channel="PrivacyPolicy"
+/*var s_server=""
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+var s_prop6=""
+var s_prop7=""
+var s_prop8=""
+var s_prop9=""
+var s_prop10=""*/
+/* E-commerce Variables */
+
+/*var s_campaign=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5=""
+var s_eVar6=""
+var s_eVar7=""
+var s_eVar8=""
+var s_eVar9=""
+var s_eVar10=""*/
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/ //--></script>
+<script language="JavaScript" src="//www.parkseed.com/webapp/wcs/stores/servlet/GlobalJS/s_code_remote.js"></script> 
+<!-- End SiteCatalyst code version: G.7. --> 
+	
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="604">
-<tbody><tr>
-<td><img src="/images/topbanner/toplogo.gif" width="249" height="40" alt="Park Seed"></td>
-<td colspan="2" align="right" valign="middle">		
+
+
+
+
+
+	
+	
+		
+	
+
+	
+
+<table id="Table_01" width="664" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td>
+			<img id="pkheadtop" src="/web_images/Park/topbanner/pkheadtop.gif" width="245" height="42" alt=""></td>
+		<td width="419" height="42" align="right">
+
+
+
+
+
+
+
 	<table cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td colspan="4" bgcolor="#66CC33" height="2"><img alt="" src="/images/spacer.gif" width="2" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="1" bgcolor="#66CC33"><img alt="" src="/images/spacer.gif" width="2" height="2" border="0"></td>
-			<td colspan="1" bgcolor="#FFFFFF"><img alt="" src="/images/topbanner/mtcart.gif" width="30" height="30" border="0"></td>
- 			<td colspan="1" bgcolor="#FFFFFF" class="clsBannerFont"><span class="clsBannerFontBold">&nbsp;Your 100% Secure Shopping Cart &nbsp;</span><br>&nbsp;# of items in cart: 0 &nbsp;&nbsp;Total: $ 0.00 &nbsp;&nbsp;&nbsp;</td>
-			<td colspan="1" bgcolor="#66CC33"><img alt="" src="/images/spacer.gif" width="2" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="4" bgcolor="#66CC33" height="2"><img alt="" src="/images/spacer.gif" width="2" height="2" border="0"></td>
-		</tr>
-	</tbody></table>
+	<tbody><tr><td colspan="4" height="2" class=""><img alt="" src="/web_images/Park/topbanner/spacer.gif" width="2" height="2" border="0"></td></tr>
+	<tr>
+	<td class=""><img alt="" src="/web_images/Park/topbanner/spacer.gif" width="2" height="2" border="0"></td>
+				
+	<td bgcolor="#ffffff" class="smShopCart" align="center">
+	&nbsp;You have <b>0</b> items in your cart!&nbsp;&nbsp;Total: $0.00<br>
+	&nbsp;<a href="ViewCart?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;PrevMainPage=PrivacyPolicy">View Cart</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;<a href="StoreCatalogDisplay?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;mainPage=LoginForm">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="StoreCatalogDisplay?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;mainPage=orderstatus">Order Status</a>&nbsp;
 	</td>
-</tr>
-<tr>
-<td><img src="/images/topbanner/midlogo.gif" width="249" height="32" alt="gardening"></td>
-<td><img src="/images/topbanner/tagline.gif" width="180" height="32" alt="flowers"></td>
-<td align="center" rowspan="3" background="/images/topbanner/membersbg.gif" width="175" height="113">
-	<form method="post" action="http://www.parkseed.com/webapp/commerce/command/Logon">
-<input type="hidden" name="url" value="http://www.parkseed.com/Home">
-<input type="hidden" name="merchant_rn" value="541">
-<b>Members Login </b><br>
-username
-<input type="text" name="name" size="8" maxlength="24"><br>
-password
-<input type="password" name="password" size="5">
-<input type="image" border="0" src="/images/goltgn.gif" align="absmiddle"><br>
-<font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/RegisterForm">New&nbsp;User</a>&nbsp;|
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psForgotPassword.d2w/report">Forgot&nbsp;Password</a><br></font>
-</form>
-
+	<td class="" width="2"><img alt="" src="/web_images/Park/topbanner/spacer.gif" width="2" height="2" border="0"></td>
+	</tr>
+	<tr><td colspan="4" class="" height="2"><img alt="" src="/web_images/Park/topbanner/spacer.gif" width="2" height="2" border="0"></td></tr>
+	</tbody></table> 
 </td>
-</tr>
-<tr><td><img src="/images/topbanner/bottomlogo.gif" width="249" height="36" alt="seeds"></td><td><img src="/images/topbanner/1800num.gif" width="180" height="36"></td></tr>
-<tr><td colspan="2">
-<table border="0" cellpadding="0" cellspacing="0" width="429">
-<tbody><tr>
-<td> <a href="http://www.parkseed.com/Home"><img alt="Home Page" src="/images/topbanner/tabstore_on.gif" width="111" height="22" border="0"></a></td>
-<td> <a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psWebSpecials.d2w/report"><img alt="Web Specials" src="/images/topbanner/tabspec_off.gif" width="106" height="22" border="0"></a></td>
-<td> <a href="http://www.parkseed.com/Catalog"><img alt="Free Catalogs" src="/images/topbanner/tabfreecat_off.gif" width="106" height="22" border="0"></a></td>
-<td> <a href="http://www.parkseed.com/Community"><img alt="Community" src="/images/topbanner/tabcomm_off.gif" width="106" height="22" border="0"></a></td>
-</tr>
-<tr>
-<td colspan="4"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/all"><img src="/images/topbanner/prodlink.gif" border="0" alt="Products" height="23" width="90"></a><a href="http://www.parkseed.com/QuickOrder"><img src="/images/topbanner/quiclink.gif" border="0" alt="Quick Order" height="23" width="148"></a><a href="http://www.parkseed.com/OrderStatus"><img src="/images/topbanner/statlink.gif" border="0" alt="Order Status" height="23" width="117"></a><a href="http://www.parkseed.com/Home"><img src="/images/topbanner/homelink.gif" border="0" alt="Home Page" height="23" width="74"></a></td>
-</tr>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img id="pkheadbottom" src="/web_images/Park/topbanner/pkheadbottom.gif" width="664" height="62" border="0" alt="" usemap="#newmap"></td>
+	</tr>
 </tbody></table>
-</td>
-</tr>
-</tbody></table>	 <table border="0" cellpadding="0" cellspacing="0" width="604">
-<tbody><tr>
+
+ 
 
 
-<!-- BEGIN NAVBAR -->
-<td><img src="/images/spacer.gif" width="5" height="1"></td>
-<td bgcolor="#66CC33"><img src="/images/spacer.gif" width="2" height="1"></td>
-<td valign="top" bgcolor="#CCFF99"><img src="/images/spacer.gif" width="120" height="1"></td>
-<td bgcolor="#66CC33"><img src="/images/spacer.gif" width="2" height="1"></td>
-<td><img src="/images/spacer.gif" width="5" height="1"></td>
-<td valign="top"><img src="/images/spacer.gif" width="324" height="1"></td>
-<td><img src="/images/spacer.gif" width="5" height="1"></td>
-<td valign="top"><img src="/images/spacer.gif" width="140" height="1"></td>
-</tr>
-<tr valign="top">
-<td><img src="/images/spacer.gif" width="5" height="5"></td>
-<td bgcolor="#66CC33"><img src="/images/spacer.gif" width="2" height="5"></td>
-<td bgcolor="#CCFF99">
-<table width="120" border="0" cellpadding="5" cellspacing="0">
-<tbody><tr bgcolor="#FFFFFF">
-<td valign="top" align="center">
-<form action="http://www.parkseed.com/webapp/commerce/command/PSENewsletterSignup" method="POST">
-<input type="hidden" name="ENewsletter" value="X">
-<input type="hidden" name="PROCESS" value="Subscribe">
-<input type="hidden" name="merchant_rn" value="541">
-<input name="url" type="hidden" value="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psNewsletter.d2w/ThankYou">
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psNewsletter.d2w/NewsletterRequest"><img src="/images/newslet.gif" width="105" height="79" hspace="0" border="0" alt="Newsletter"></a><br>
-<font size="2">
-your e-mail here:<br>
-<input type="text" name="saemail1" value="" size="10">
-<input type="image" name="go" src="/images/gowt.gif" border="0" id="gobut" alt="go" width="21" height="20">
-</font>
-</form>
-<!-- newsletter signup --></td>
-</tr>
-<tr>
-<td valign="top" align="center" bgcolor="#66CC33"><font size="2" face="Arial, Helvetica, sans-serif"><b>Search</b></font></td>
-</tr>
-<!-- search area -->
-<tr>
-<td valign="top" align="center" bgcolor="#CCFF99">
-<font size="2">
-<form id="search" name="search" method="post" action="http://207.49.18.145/servlet/psDoSearch">
-<input type="hidden" name="merchant_rn" value="541">
-<input type="text" name="searchstring" value="" size="10">
-<input type="image" name="go" src="/images/goltgn.gif" border="0" align="absmiddle" id="gobut" alt="go" width="21" height="20"><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psSearchADV.d2w/FIRST">Advanced&nbsp;Search</a>
-<input type="hidden" name="merchant_rn" value="541">
-</form>
-</font>
-</td>
-</tr>
-<!-- search area -->
-<tr>
-<td valign="top" align="center" bgcolor="#66CC33"><font face="Arial, Helvetica, sans-serif" size="2"><b>Highlights</b></font></td>
-</tr>
-<tr>
-<td valign="top" bgcolor="#CCFF99"> <font size="2">
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psWebSpecials.d2w/Report">Web Specials</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psNewFromPark.d2w/topten">New From Park</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psLongTopTen.d2w/Top10">Top&nbsp;10&nbsp;Bestsellers</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psGiftCertificates.d2w/GiftCert">Gift Certificates</a>
-</font></td>
-</tr>
-<tr>
-<td valign="top" align="center" bgcolor="#66CC33"><font face="Arial, Helvetica, sans-serif" size="2"><b>Products</b></font></td>
-</tr>
-<tr>
-<td valign="top" bgcolor="#CCFF99"> <font size="2">
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=Annual+Seed">Annual Seed</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=Annual+Plants">Annual Plants</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=Perennial+Seed">Perennial Seed</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=Perennial+Plants">Perennial Plants</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=Vegetables">Vegetables</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=Herbs">Herbs</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=Fruits">Fruits</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=BulbsTubers">Bulbs &amp; Tubers</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=Shrubs">Shrubs</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=Roses">Roses</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=SeedStarters">Seed-Starters</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=541&amp;cat=GardenSupplies">Garden Supplies</a>
-</font> </td>
-</tr>
-<tr>
-<td valign="top" align="center" bgcolor="#66CC33"><font face="Arial, Helvetica, sans-serif" size="2"><b>Content</b></font></td>
-</tr>
-<tr>
-<td valign="top" bgcolor="#CCFF99"><font size="2">
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psQuickOrder.d2w/report">Quick Order</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psTipofDay.d2w/report">Garden Tips</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psNewsletter.d2w/NewsletterRequest">Newsletters</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCatalogRequest.d2w/CatalogRequest">Free Catalog</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=guarantee">Our Guarantee</a><br>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=seedsinspace">Seeds In Space</a>
-&nbsp;&nbsp;<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psKnowZone.d2w/Map?merchant_rn=541">Zone
-Map</a>
-</font> </td>
-</tr>
-<tr>
-<td valign="top" align="center" bgcolor="#66CC33"><font size="2" face="Arial, Helvetica, sans-serif"><b>Free
-Gift</b></font></td>
-</tr>
-<tr>
-<td valign="top" align="center" bgcolor="#FFFFFF">
-<font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psReferAFriend.d2w/Start?merchant_rn=541"><img src="/images/refer.gif" width="105" height="60" border="0" alt="Refer a Friend to Park Seed and You Both Get a Free Gift!"></a>
-<form method="post" action="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psReferAFriend.d2w/Start">
-<input type="hidden" name="merchant_rn" value="541">
-your e-mail here: <br>
-<input type="text" name="youremail" value="" size="10">
-<br>
-friend's e-mail here: <br>
-<input type="text" name="friendemail" size="8">
-<input type="image" src="/images/gowt.gif" name="Submit2" value="Submit" border="0" width="21" height="20" align="middle" alt="go!">
-<br>
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psReferAFriend.d2w/Start?merchant_rn=541">Free
-Gift for Both!</a>
-</form>
-</font>
-</td>
-</tr>
-<tr bgcolor="#66CC33">
-<td valign="top" align="center"><img src="/images/spacer.gif" width="1" height="1"></td>
-</tr>
-</tbody></table>
-</td>
-<td bgcolor="#66CC33"><img src="/images/spacer.gif" width="2" height="5"></td>
-<td><img src="/images/spacer.gif" width="5" height="5"></td>
+	
+	<map name="newmap" id="newmap">
+<area shape="rect" alt="" coords="186,31,303,48" href="http://www.parkseed.com/gardening/Park/dept/newSubUnsub">
+<area shape="rect" alt="Catalog Quick Order" coords="514,31,659,50" href="http://www.parkseed.com/gardening/Park/dept/newQuickOrder">
+<area shape="rect" alt="Web Specials" coords="409,31,505,50" href="http://www.parkseed.com/gardening/Park/dept/webspecials">
+<area shape="rect" alt="Free Catalog" coords="311,31,403,50" href="http://www.parkseed.com/gardening/Park/dept/CatalogRequest">
+<area shape="rect" alt="Home" coords="126,31,181,49" href="http://www.parkseed.com/gardening/Park/dept/page1">
+<area shape="rect" alt="Supplies and Gifts" coords="514,3,658,24" href="http://www.parkseed.com/gardening/Park/dept/homesupplies">
+<area shape="rect" alt="Seed Starting" coords="377,2,510,26" href="http://www.parkseed.com/gardening/Park/dept/gateseedstarters">
+<area shape="rect" alt="Bulbs" coords="304,2,368,25" href="http://www.parkseed.com/gardening/Park/dept/homebulbs">
+<area shape="rect" alt="Plants" coords="223,4,292,24" href="http://www.parkseed.com/gardening/Park/dept/homeplants">
+<area shape="rect" alt="Seeds" coords="148,4,214,24" href="http://www.parkseed.com/gardening/Park/dept/homeseeds">
+</map>
 
-	<td valign="top" width="324">
-<!-- BEGIN BODY -->
+
+
+
+	<table border="0" cellpadding="0" cellspacing="0" width="664">
+	  <tbody><tr>
+		<td width="130" height="5"><img src="/web_images/Park/misc/spacer.gif" width="130" height="5"></td>
+		<td width="15" height="5"><img src="/web_images/Park/misc/spacer.gif" width="15" height="5"></td>
+		<td width="364" height="5"><img src="/web_images/Park/misc/spacer.gif" width="364" height="5"></td>
+		<td width="15" height="5"><img src="/web_images/Park/misc/spacer.gif" width="15" height="5"></td>
+		<td width="140" height="5"><img src="/web_images/Park/misc/spacer.gif" width="140" height="5"></td>
+	  </tr>
+
+	  <tr valign="top">
+		<td width="130" rowspan="2" align="center" class="bodyText">
+
+
+
+
+
+
+
+
+
+
+	<!-- Newsletter Signup -->
+	<table width="130" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffff99">
+	  <tbody><tr><td colspan="3"><a href="http://www.parkseed.com/gardening/Park/dept/newSubUnsub"><img src="/web_images/Park/dev/boxtop_temp.gif" width="130" height="40" alt="FREE Park Newsletter" title="FREE Park Newsletter" border="0"></a></td></tr>
+	  <tr><td width="1" class="parkSaleRed"><spacer type="block" width="1" height="10"></spacer></td>
+		<td>
+		
+			<table width="128" border="0" cellpadding="6" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="center" bgcolor="#ffffff">
+				<form action="StoreCatalogDisplay">
+		<input type="hidden" name="storeId" value="10101">
+		<input type="hidden" name="catalogId" value="10101">
+		<input type="hidden" name="langId" value="-1">
+		<input type="hidden" name="mainPage" value="newSubUnsub">
+				your e-mail here:<br>
+				<input type="text" name="email1" size="10" maxlength="45">
+				<input type="image" name="go" src="/web_images/Park/dev/go.gif" border="0" id="gobut" alt="go" width="21" height="20"><br>
+				<a href="http://www.parkseed.com/gardening/Park/dept/newSubUnsub">Click Here For Info</a>
+				</form></td>
+				
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="parkSaleRed"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="3" height="1" class="parkSaleRed"></td></tr>
+	</tbody></table> 
+
+
+	<!-- Search -->
+
+	<br>
+	<table width="130" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+	  <td colspan="3" width="121">
+			<table width="130" border="0" cellpadding="0" cellspacing="0" bgcolor="#336600">
+				<tbody><tr>
+					<td width="121" height="26" rowspan="2" bgcolor="#336600" class="parkLeftNav">&nbsp;&nbsp;Search</td>
+					<td>
+						<img src="/web_images/Park/dev/sliver.gif" width="9" height="9"></td>
+				</tr>
+				<tr>
+					<td width="9" height="17" bgcolor="#336600"></td>
+				</tr>
+			</tbody></table>  
+	  </td>  
+	  </tr>
+	  
+	  <tr><td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="10"></spacer></td>
+		<td>
+		
+			<table width="128" border="0" cellpadding="6" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="center" bgcolor="#ccffcc">
+
+
+				
+
+
+
+
+
+
+
+<form action="StoreCatalogDisplay" method="get">
+<input type="hidden" name="storeId" value="10101">
+<input type="hidden" name="catalogId" value="10101">
+<input type="hidden" name="langId" value="-1">
+<input type="text" name="SearchText" value="" size="10">
+
+<input type="hidden" name="mainPage" value="textsearchresults">
+<input type="hidden" name="RequestType" value="NewRequest">
+<input type="image" name="go" src="/web_images/Park/navigation/go.gif" border="0" align="absmiddle" value="submit" alt="go" width="21" height="20">
+</form>
+
+				</td>
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="3" height="1" class="parkDarkGreen"></td></tr>
+	 
+	</tbody></table> 
+
+
+
+	<!-- Highlights -->
+	<br>
+	<table width="130" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+	  <td colspan="3" width="121">
+			<table width="130" border="0" cellpadding="0" cellspacing="0" bgcolor="#336600">
+				<tbody><tr>
+					<td width="121" height="26" rowspan="2" bgcolor="#336600" class="parkLeftNav">&nbsp;&nbsp;Highlights</td>
+					<td>
+						<img src="/web_images/Park/dev/sliver.gif" width="9" height="9"></td>
+				</tr>
+				<tr>
+					<td width="9" height="17" bgcolor="#336600"></td>
+				</tr>
+			</tbody></table>  
+	  </td>  
+	  </tr>
+	  
+	  <tr><td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="10"></spacer></td>
+		<td>
+		
+			<table width="128" border="0" cellpadding="6" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="left" bgcolor="#ccffcc">
+			<!-- <a href="http://www.parkseed.com/gardening/Park/dept/flowerday">Flower Day</a><br> -->
+			<a href="http://www.parkseed.com/gardening/Park/dept/webspecials">Web Specials</a><br>
+			<a href="http://www.parkseed.com/gardening/Park/dept/newproducts">New Items</a><br>
+			<a href="http://www.parkseed.com/gardening/Park/dept/exclusiveproducts">Park Exclusives</a><br>
+			<a href="http://www.parkseed.com/gardening/Park/dept/toptenpage">Top 10 Bestsellers</a><br>
+			<a href="http://www.parkseed.com/gardening/Park/dept/karensgarden">Karen's Favorites</a><br>
+			<a href="http://www.parkseed.com/gardening/Park/dept/giftcertificate">Gift Certificates</a><br>
+			<a href="http://www.parkseed.com/gardening/Park/NV.mainPage.gatepage/NV.gate.seedgems">Hard-To-Find Seeds</a>
+			 <!--<a href="http://www.parkseed.com/gardening/Park/dept/clearance">Garden Outlet</a> -->
+				</td>
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="3" height="1" class="parkDarkGreen"></td></tr>
+	</tbody></table> 
+
+
+
+
+	<!-- Products/Departments -->
+
+	<br>
+	<table width="130" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+	  <td colspan="3" width="121">
+			<table width="130" border="0" cellpadding="0" cellspacing="0" bgcolor="#336600">
+				<tbody><tr>
+					<td width="121" height="26" rowspan="2" bgcolor="#336600" class="parkLeftNav">&nbsp;&nbsp;Departments</td>
+					<td>
+						<img src="/web_images/Park/dev/sliver.gif" width="9" height="9"></td>
+				</tr>
+				<tr>
+					<td width="9" height="17" bgcolor="#336600"></td>
+				</tr>
+			</tbody></table>  
+	  </td>  
+	  </tr>
+	  
+	  <tr><td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="10"></spacer></td>
+		<td>
+		
+			<table width="128" border="0" cellpadding="6" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="left" bgcolor="#ccffcc">
+	<a href="http://www.parkseed.com/gardening/Park/dept/gateannuals">Annuals</a><br>
+	<!-- <a href="http://www.parkseed.com/gardening/Park/dept/gatebargains">Bargains & Bulk Seed</a><br> -->
+	<a href="http://www.parkseed.com/gardening/Park/dept/homebulbs">Bulbs</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/gatecollections">Collections</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/gatecontainer">Container Plants</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/gateeasycare">Easy-Care</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/gateflowers">Flowers</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/gatefruits">Fruits</a><br>
+
+	<!-- <a href="http://www.parkseed.com/gardening/Park/dept/homegifts">Gifts</a><br> -->
+	 <a href="http://www.parkseed.com/gardening/Park/dept/gategroundcovers">Ground Covers</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/gateherbs">Herbs</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/gatehouseplants">Indoor Gardens</a><br>
+	 <a href="http://www.parkseed.com/gardening/Park/dept/gateperennials">Perennials</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/homeplants">Plants</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/gateroses">Roses &amp; Companions</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/homeseeds">Seeds</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/gateseedstarters">Seed Starting</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/seedtape">Seed Tape</a><br>
+	 <a href="http://www.parkseed.com/gardening/Park/dept/gateshrubstrees">Shrubs and Trees</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/homesupplies">Supplies &amp; Gifts</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/gatevegetables">Vegetables</a><br>
+	<a href="http://www.parkseed.com/gardening/Park/dept/gatevines">Vines and Climbers</a><br>
+				</td>
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="3" height="1" class="parkDarkGreen"></td></tr>
+	</tbody></table> 
+
+	<!-- About Us -->
+
+	<br>
+	<table width="130" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+	  <td colspan="3" width="121">
+			<table width="130" border="0" cellpadding="0" cellspacing="0" bgcolor="#336600">
+				<tbody><tr>
+					<td width="121" height="26" rowspan="2" bgcolor="#336600" class="parkLeftNav">&nbsp;&nbsp;About Us</td>
+					<td>
+						<img src="/web_images/Park/dev/sliver.gif" width="9" height="9"></td>
+				</tr>
+				<tr>
+					<td width="9" height="17" bgcolor="#336600"></td>
+				</tr>
+			</tbody></table>  
+	  </td>  
+	  </tr>
+	  
+	  <tr><td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="10"></spacer></td>
+		<td>
+		
+			<table width="128" border="0" cellpadding="6" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="left" bgcolor="#ccffcc">
+		  <a href="StoreCatalogDisplay?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;mainPage=newQuickOrder&amp;numberItems=6">Catalog Quick Order</a><br>
+		  <a href="http://www.parkseed.com/gardening/Park/dept/CatalogRequest">FREE Catalog</a><br>
+		  <a href="http://www.parkseed.com/gardening/Park/dept/newSubUnsub">FREE e-Newsletter</a><br>
+		  <a href="http://www.parkseed.com/gardening/Park/dept/guarantee">Our Guarantee</a><br>
+		  <a href="http://www.parkseed.com/gardening/Park/dept/directions">Directions To Park</a><br>
+
+		  <!-- Seeds In Space<br>
+		  Customer Comments<br> -->
+		  <a href="http://www.parkseed.com/gardening/Park/dept/zonemap">Zone Map</a><br>
+		
+				</td>
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="3" height="1" class="parkDarkGreen"></td></tr>
+	</tbody></table> 
+
+	<!-- Refer-A-Friend -->
+
+	<br>
+	<table width="130" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+	  <td colspan="3" width="121">
+			<table width="130" border="0" cellpadding="0" cellspacing="0" bgcolor="#336600">
+				<tbody><tr>
+					<td width="121" height="26" rowspan="2" bgcolor="#336600" class="parkLeftNav">&nbsp;&nbsp;Refer A Friend</td>
+					<td>
+						<img src="/web_images/Park/dev/sliver.gif" width="9" height="9"></td>
+				</tr>
+				<tr>
+					<td width="9" height="17" bgcolor="#336600"></td>
+				</tr>
+			</tbody></table>  
+	  </td>  
+	  </tr>
+	  
+	  <tr><td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="10"></spacer></td>
+		<td>
+		
+			<table width="128" border="0" cellpadding="6" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="left" bgcolor="#ccffcc">
+			<form method="post" action="StoreCatalogDisplay">
+			<input type="hidden" name="storeId" value="10101"> 
+			<input type="hidden" name="catalogId" value="10101">
+			<input type="hidden" name="langId" value="-1">
+			<input type="hidden" name="mainPage" value="referafriend">
+			your e-mail here: <br>
+			<input type="text" name="youremail" value="" size="10" maxlength="45"><br>
+			friend's e-mail here: <br>
+			<input type="text" name="friendsemail" size="8" maxlength="45">
+			<input type="image" src="/web_images/Park/dev/gogreen.gif" name="Submit2" value="Submit" border="0" width="21" height="20" align="middle" alt="go!"><br>
+			<a href="http://www.parkseed.com/gardening/Park/dept/bonusinfo">Free Gift for Both!</a>
+			</form>
+				</td>
+			  </tr>
+			</tbody></table>
+		</td>
+		<td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="3" height="1" class="parkDarkGreen"></td></tr>
+	</tbody></table> 
+
+	<!-- hard coded left side plugs-->
+
+
+
+
+			
+
+
+
+
+
+
+			<center>
+
+					<p class="bannerText">
+					<a href="http://www.parkseed.com/gardening/Park/GP.soilfertilizer">
+					<img src="/web_images/Park/anibanner/SoilFertPlug_Left.gif" width="130" height="160" border="0" alt="Park's New Growing Mixes and Fertilizers!" class="diff"><br>
+					Click here now for Park's New Growing Mixes and Fertilizers!
+					</a></p>
+
+
+					<p class="bannerText">
+					<a href="http://www.parkseed.com/gardening/Park/GP.whoppervegetables">
+					<img src="/web_images/Park/anibanner/WhopperVegPlug_Left.gif" width="130" height="160" border="0" alt="Park's Whopper Vegetables" class="diff"><br>
+					Click here now for Park's Whopper Vegetables!
+					</a></p>
+
+
+		</center>
+
+</td>
+		<td width="15" rowspan="2"><img src="/web_images/Park/misc/spacer.gif" width="1" height="1"></td>
+		<td width="364" class="bodyText">
+
+		
 
 		
 
 
-	
-	
-	
-		 
-
-	 
-	 
-		<!-- BANNER -->
-	<p align="center">
-
-<img alt="" src="/images/spacer.gif" width="1" height="8"><br><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=5184"><img src="/images/banners/ani5184.gif" alt="Click here for Lettuce Improved Master Chef Blend" width="315" height="50" border="0"><br><font size="1">Click here now for Lettuce Improved Master Chef Blend</font></a>
-	</p>
-
-	 
-	 
 
 
-<table width="310" border="0" cellpadding="0">
-<tbody><tr>
-<td><font face="Times New Roman, Times, serif" size="2"><b>PARKSEED.COM'S
-PRIVACY POLICY</b> <br>
-Thank you for visiting our website! This website ("parkseed.com") is owned
-by George W. Park Seed Company, Inc. ("Park Seed"). It is our policy to
-protect your personal information and to use it in accordance with this
-Privacy Policy. Please take a few moments to review our Privacy Policy.<br>
-<i><b><br>
-Information Collection and Use</b></i><br>
-Park Seed asks you to provide certain personally identifiable information
-in order to use certain "Password Required" features and functions of the
-website. By providing such information, you consent to our collection and
-use of it, as described in this Privacy Policy. <br>
-<br>
-The information you provide may include information provided during the
-registration process, including contact information, such as your name,
-address and email address, and financial information, such as a credit card
-number, if you order products or services through the website. This information
-will be used to process your order and if necessary, to contact you regarding
-the status of your order. <br>
-<br>
-Information that you provide is the property of George W. Park Seed Company,
-Inc. All of the information that you provide may be used by Park Seed to
-better serve you. Park Seed may also use this information to contact you
-about new specials, catalogs, products and other opportunities. Ways we
-use information include: <br>
-<br>
-You can contact Park Seed directly with questions or comments regarding
-the services by using the parkseed.com contact <a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psContact.d2w/report">
-inquiry form</a>. This contact inquiry form asks you for certain identifying
-information so that Park Seed may respond to your inquiry. <br>
-<br>
-Park Seed may use your contact information to get in touch with you regarding
-the status of your registration or any orders you may place. You may also
-be contacted by us regarding additional services and features or requesting
-your feedback about your experience with parkseed.com. <br>
-<br>
-Parkseed.com may provide you with bulletin boards and chat rooms for your
-use. In the event you voluntarily disclose personally identifiable information
-using such services, that information, along with any content in your communication
-or post, can be collected, correlated and used by third parties. This may
-result in unsolicited messages from third parties. Such activities are beyond
-the control of Park Seed. Park Seed does not assume any duty to monitor
-or review the contents of any bulletin board or chat room.<br>
-<br>
-Where technically feasible, the domain names of visitors to parkseed.com
-are automatically recognized by our server. Park Seed may use this information
-to track the number of visitors to the parkseed.com website and to see which
-pages and services on parkseed.com are visited most often.<br>
-<br>
-The parkseed.com optional on-line survey generally asks for demographic
-information like your gender, age, etc. to help us get to know you and better
-understand your gardening needs. This data is used to personalize your experience
-at parkseed.com by displaying content according to your preferences. We
-hope this will enhance your experience with the parkseed.com site.<br>
-<br>
-Park Seed may provide links on parkseed.com to other sites of interest.
-Park Seed does not review or endorse the content of these sites or guarantee
-that they will abide by this Privacy Policy. Your use of such linked sites
-is subject to the terms and conditions and privacy policies of the providers
-of those sites. We encourage our users to be aware when they leave our website
-and to read the privacy statements of each website that collects identifying
-information.<br>
-<br>
-Please note that your use of the parkseed.com website and services is subject
-to Parkseed.com's <a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=billofrights">Terms
-and Conditions. <br>
-</a><br>
-<i><b>Sharing Your Information</b></i><br>
-Park Seed recognizes that gardeners may want products other than the high-quality
-seeds, plants, bulbs and accessories that we offer. Therefore, from time
-to time, Park Seed may make customer information available to other reputable
-companies whose products or services we think you might find interesting.
-Please remember that, although Park Seed endeavors to select only reputable
-companies who share our commitment to customer privacy, we are in no way
-responsible for the actions or policies of these other organizations.
-If you do not want to share your information with
-such other companies, <a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psPrivacy.d2w/optout">click here now</a>.<br>
-<b><i><br>
-Other Uses of Information</i></b><br>
-The only other instances in which Park Seed discloses your identifying information
-to third parties are:<br>
-when it is required by law; when it is necessary to distribute materials
-that you request; and when you expressly request that your information be
-disclosed.<br>
-<br>
-<i><b>Business Transfers </b></i><br>
-We may buy or sell operating divisions, companies or other business assets
-or be acquired by another company. In such transactions, customer information
-generally is one of the transferred business assets.<br>
-<br>
-<i><b>Use of Cookies</b></i> <br>
-The use of cookies enables Park Seed to enhance your visits to the parkseed.com
-website. Cookies enable parkseed.com systems to recognize your browser and
-provide features that are tailored to your gardening needs. For example,
-cookies enable us to record the items in your shopping cart. Park Seed uses
-this information to monitor product sales which help us to plan future offerings.<br>
-<br>
-<b><i> Accessing and Updating Your Information</i></b> <br>
-You can always choose not to provide information, to opt-out of receiving
-communications from us or to update your information at any time. Parkseed.com
-gives users the following options: <br>
-<br>
-1. Use the "Change Preferences" feature after entering your member name
-and password to receive access to your account page. At this location, you
-can subscribe or unsubscribe from our e-mail newsletters and you can update
-any information that you have provided to us. <br>
-<br>
-2. Click on the "Unsubscribe" link included at the bottom of each of our
-e-mails and follow the instructions on the web page.<br>
-<br>
-3. Send an e-mail to our friendly Customer Service representatives at <a href="mailto:info@parkseed.com">info@parkseed.com</a>.
-<br>
-<br>
-4. Call our Customer Service representatives toll free at (800) 213-0076.<br>
-<br>
-5. Drop us a line. Send mail to the following postal address: Park Seed
-Company, 1 Parkton Avenue, Greenwood, SC 29647<br>
-<br>
-<i><b>Security Measures </b></i><br>
-We work hard to protect the security of your information by using Secure
-Socket Layer (SSL) technology, the current standard for secure transactions
-over the Internet. There are some simple measures that you can take to promote
-protection of your information. First, to help protect the security of your
-account, do not share your password with others. Also, remember to “log-off”
-after using any of our on-line services when you have finished using the
-website. While Park Seed strives to protect your information by using SSL
-and through measures to protect our system, such security cannot be ensured.
-Consequently, Park Seed does not ensure or warrant the security of information
-you transmit, and you do so at your own risk.<br>
-<br>
-<b><font face="Times New Roman, Times, serif" size="2">Encryption</font></b><p></p><p class="title_level1"><b><font face="Times New Roman, Times, serif" size="2">What is Encryption?</font></b></p><p class="para"><font face="Times New Roman, Times, serif" size="2">
-Encryption is a process by which we use software to scramble sensitive information while it is in transit to Park Seed.
-</font></p><p class="para"><font face="Times New Roman, Times, serif" size="2">
-Please take a moment to read about the steps that we have taken to help protect your information and make your online transmissions safer. We also invite you to review the steps you can take to help protect yourself further.
-</font></p>
-<p class="title_level1"><b><font face="Times New Roman, Times, serif" size="2">How Does Encryption Work?</font></b></p><p class="para"><font face="Times New Roman, Times, serif" size="2">
-Encryption is based on a key that has two different parts. The public part and the private part. The public part of the key is distributed to those you want to communicate with. The private part is for the recipient's use only.
-</font></p><p class="para"><font face="Times New Roman, Times, serif" size="2">
-When you send personal information to Parkseed.com, you use Park Seed's public key to encrypt your personal information. That means, if at any point during the transmission your information is intercepted, it is scrambled and very difficult to decrypt. Once Park Seed receives your encrypted personal information, we use the private part of our key to decode it.
-</font></p>
-<p class="title_level1"><b><font face="Times New Roman, Times, serif" size="2">What Kind of Encryption Software Does Park Seed Use?</font></b></p><p class="para"><font face="Times New Roman, Times, serif" size="2">
-Park Seed currently uses the industry-standard SSL (Secure Sockets Layer) encryption. But we continue to keep up with the current technologies in order to provide the best security for our customers.
-</font></p>
-<p class="title_level1"><b><font face="Times New Roman, Times, serif" size="2">What Information Does Park Seed Encrypt?</font></b></p><p class="para"><font face="Times New Roman, Times, serif" size="2">
-Park Seed encrypts all personal information you give us when you place an order online. Remember, if you feel uncomfortable providing any of this information online, please feel free to call one of our representatives at <br>1-800-845-3369.
-</font></p>
-<p class="title_level1"><b><font face="Times New Roman, Times, serif" size="2">How Safe is Encryption Really?</font></b></p><p class="para"><font face="Times New Roman, Times, serif" size="2">Providing encrypted information online is as safe as doing it over the phone.</font></p>
-<i><b>Privacy Policy Changes</b></i><br>
-Parkseed.com may update this Privacy Policy from time to time to better
-serve you. We encourage you to review this Privacy Policy periodically.
-<br>
-<br>
-<i><b>For Further Information</b></i> <br>
-If you choose to visit parkseed.com, your visit and any dispute over privacy
-is subject to this Privacy Policy. If you have questions or comments concerning
-this Privacy Policy, you may contact us at: <br>
-Park Seed Company, 1 Parkton Avenue, Greenwood, SC 29647 Phone: (800) 845-3369
-Fax: (864) 941-4506 E-mail: <a href="mailto:curator@parkseed.com">curator@parkseed.com</a></font></td>
-</tr>
-</tbody></table>
-	
-	
-	
-		
+
+
+			<center>
+
+				
+
+				
+
+					<p class="bannerText">
+					<a href="http://www.parkseed.com/gardening/Park/PD.5625/NV.scChannel.Banner Item 5625">
+					<img src="/web_images/Park/anibanner/animaracamix.gif" width="315" height="50" border="0" alt="Pepper Maraca Mix" class="diff"><br>
+					Click here now for Pepper Maraca Mix
+					</a></p>
+
+
+		</center>
+
+
+		<p></p><div align="right" class="bodyText"><a href="StorePrintDisplay?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;mainPage=PrivacyPolicy">Click here for print-friendly page</a>.</div><br>
+
 		
 
-	 
-	 
-		<!-- BANNER -->
-	<p align="center">
-
-<img alt="" src="/images/spacer.gif" width="1" height="8"><br><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=5232"><img src="/images/banners/ani5232.gif" alt="Click here now for Pea Sugar Lace!" width="315" height="50" border="0"><br><font size="1">Click here now for Pea Sugar Lace</font></a>
-	</p>
-
-	 
-	 
 
 
 
 
-</td><td width="5" bgcolor="#ffffff"><img alt="" src="/images/spacer.gif" width="5" height="5"></td>
-<td width="140" valign="top" align="center" bgcolor="#ffffff"><img alt="" src="/images/spacer.gif" height="1" width="140"><br>
-<!-- Bookmark -->
-<table width="140" border="0" cellspacing="0" cellpadding="0" height="74">
-<tbody><tr align="center" valign="top">
-<td><font face="Times New Roman, Times, serif" size="1">Wednesday, October 31 </font></td>
-</tr>
 
-<tr><td><img src="/images/spacer.gif" width="50" height="5" border="0"></td></tr>
-<tr align="center" valign="top">
-<td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psBookmark.d2w/report" onclick="addbookmark()">Bookmark this site</a></font></b></td>
-</tr>
-<tr><td><img src="/images/spacer.gif" width="50" height="5" border="0"></td></tr>
 
-<!-- Personalize Site -->
 
-<tr><td><center>
-<form action="http://www.parkseed.com/webapp/commerce/command/PSKnowZone" method="post">
-<input type="hidden" name="merchant_rn" value="541">
-<input type="hidden" name="url" value="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psKnowZone.d2w/Success">
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<b><font color="996666">Personalize this site</font></b></font><br>
-<b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="996666">Enter zip code:</font></b><br>
-<input type="text" name="ZIP" size="5" maxlength="5">
-<input type="image" src="/images/gowt.gif" name="gozip" width="21" height="20" border="0">
-</form>
-</center>
-</td>
-</tr>
-</tbody></table>
 
-<!-- OFFER BOX -->
-<table width="140" border="1" cellspacing="0" cellpadding="0" bordercolor="#FF3300">
-<tbody><tr>	<td>
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psBonus.d2w/report"><img src="/images/bonus/bonus0110e.gif" width="136" height="165" border="0" alt="Bonus Offer with your Internet Order"></a><br>
-<table width="135" border="0" cellspacing="0" cellpadding="5">
-<tbody><tr>	<td valign="top" align="center">
-<font size="2">Order $100 or more and get <b>10% off your order</b>!
+
+
+	<!-- Main content starts here -->
+
+	<p align="center"><img src="/web_images/Park/dev/headPrivacy.gif" alt="Privacy Policy" height="35" width="350"></p>
+
+
+
+	<p class="headerText">PARKSEED.COM'S PRIVACY POLICY</p>
+
+	<p>Thank you for visiting our website! This website ("parkseed.com") is owned
+	by George W. Park Seed Company, Inc. ("Park Seed"). It is our policy to
+	protect your personal information and to use it in accordance with this
+	Privacy Policy. Please take a few moments to review our Privacy Policy.
+
+	</p><p><span class="privacyHead">Information Collection and Use<br></span>
+	Park Seed asks you to provide certain personally identifiable information
+	in order to use certain "Password Required" features and functions of the
+	website. By providing such information, you consent to our collection and
+	use of it, as described in this Privacy Policy. 
+
+	</p><p>The information you provide may include information provided during the
+	registration process, including contact information, such as your name,
+	address and email address, and financial information, such as a credit card
+	number, if you order products or services through the website. This information
+	will be used to process your order and if necessary, to contact you regarding
+	the status of your order. 
+
+	</p><p>Information that you provide is the property of George W. Park Seed Company,
+	Inc. All of the information that you provide may be used by Park Seed to
+	better serve you. Park Seed may also use this information to contact you
+	about new specials, catalogs, products and other opportunities. Ways we
+	use information include: 
+
+	</p><p>You can contact Park Seed directly with questions or comments regarding
+	the services by using the parkseed.com <a href="StoreCatalogDisplay?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;mainPage=feedbackform">contact 
+	inquiry form</a>. This contact inquiry form asks you for certain identifying
+	information so that Park Seed may respond to your inquiry. 
+
+	</p><p>Park Seed may use your contact information to get in touch with you regarding
+	the status of your registration or any orders you may place. You may also
+	be contacted by us regarding additional services and features or requesting
+	your feedback about your experience with parkseed.com. 
+
+	</p><p>Parkseed.com may provide you with bulletin boards and chat rooms for your
+	use. In the event you voluntarily disclose personally identifiable information
+	using such services, that information, along with any content in your communication
+	or post, can be collected, correlated and used by third parties. This may
+	result in unsolicited messages from third parties. Such activities are beyond
+	the control of Park Seed. Park Seed does not assume any duty to monitor
+	or review the contents of any bulletin board or chat room.
+
+	</p><p>Where technically feasible, the domain names of visitors to parkseed.com
+	are automatically recognized by our server. Park Seed may use this information
+	to track the number of visitors to the parkseed.com website and to see which
+	pages and services on parkseed.com are visited most often.
+
+	</p><p>The parkseed.com optional on-line survey generally asks for demographic
+	information like your gender, age, etc. to help us get to know you and better
+	understand your gardening needs. This data is used to personalize your experience
+	at parkseed.com by displaying content according to your preferences. We
+	hope this will enhance your experience with the parkseed.com site.
+
+	</p><p>Park Seed may provide links on parkseed.com to other sites of interest.
+	Park Seed does not review or endorse the content of these sites or guarantee
+	that they will abide by this Privacy Policy. Your use of such linked sites
+	is subject to the terms and conditions and privacy policies of the providers
+	of those sites. We encourage our users to be aware when they leave our website
+	and to read the privacy statements of each website that collects identifying
+	information.
+
+	</p><p>Please note that your use of the parkseed.com website and services is subject
+	to Parkseed.com's <a href="StoreCatalogDisplay?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;mainPage=billofrights">Terms
+	and Conditions.</a> 
+
+	</p><p><span class="privacyHead">Sharing Your Information<br></span>
+	Park Seed recognizes that gardeners may want products other than the high-quality
+	seeds, plants, bulbs and accessories that we offer. Therefore, from time
+	to time, Park Seed may make customer information available to other reputable
+	companies whose products or services we think you might find interesting.
+	Please remember that, although Park Seed endeavors to select only reputable
+	companies who share our commitment to customer privacy, we are in no way
+	responsible for the actions or policies of these other organizations.
+	If you do not want to share your information with
+	such other companies, <a href="StoreCatalogDisplay?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;mainPage=optoutmail">click here now</a>.
+
+	</p><p><span class="privacyHead">Other Uses of Information<br></span>
+	The only other instances in which Park Seed discloses your identifying information
+	to third parties are:<br>
+	when it is required by law; when it is necessary to distribute materials
+	that you request; and when you expressly request that your information be
+	disclosed.<br>
+	
+
+	</p><p><span class="privacyHead">Business Transfers <br></span>
+	We may buy or sell operating divisions, companies or other business assets
+	or be acquired by another company. In such transactions, customer information
+	generally is one of the transferred business assets.
+
+	</p><p><span class="privacyHead">Use of Cookies</span> <br>
+	The use of cookies enables Park Seed to enhance your visits to the parkseed.com
+	website. Cookies enable parkseed.com systems to recognize your browser and
+	provide features that are tailored to your gardening needs. For example,
+	cookies enable us to record the items in your shopping cart. Park Seed uses
+	this information to monitor product sales which help us to plan future offerings.
+
+	</p><p><span class="privacyHead"> Accessing and Updating Your Information</span> <br>
+	You can always choose not to provide information, to opt-out of receiving
+	communications from us or to update your information at any time. Parkseed.com
+	gives users the following options: 
+
+	</p><ol>
+		<li>Use the "Change Preferences" feature after entering your member name
+	and password to receive access to your account page. At this location, you
+	can subscribe or unsubscribe from our e-mail newsletters and you can update
+	any information that you have provided to us. 
+		</li><li>Click on the "Unsubscribe" link included at the bottom of each of our
+	e-mails and follow the instructions on the web page.
+		</li><li>Send an e-mail to our friendly Customer Service representatives at <a href="mailto:info@parkscs.com">info@parkscs.com</a>.
+		</li><li>Call our Customer Service representatives toll free at (800) 213-0076.
+		</li><li>Drop us a line. Send mail to the following postal address: Park Seed
+	Company, 1 Parkton Avenue, Greenwood, SC 29647
+	</li></ol>
+
+	<p><span class="privacyHead">Security Measures <br></span>
+	We work hard to protect the security of your information by using Secure
+	Socket Layer (SSL) technology, the current standard for secure transactions
+	over the Internet. There are some simple measures that you can take to promote
+	protection of your information. First, to help protect the security of your
+	account, do not share your password with others. Also, remember to “log-off”
+	after using any of our on-line services when you have finished using the
+	website. While Park Seed strives to protect your information by using SSL
+	and through measures to protect our system, such security cannot be ensured.
+	Consequently, Park Seed does not ensure or warrant the security of information
+	you transmit, and you do so at your own risk.
+
+	</p><p class="headerText">Encryption</p>
+
+	<p><b>What is Encryption?</b>
+
+	</p><p>Encryption is a process by which we use software to scramble sensitive information while it is in transit to Park Seed.
+
+	</p><p>Please take a moment to read about the steps that we have taken to help protect your information and make your online transmissions safer. We also invite you to review the steps you can take to help protect yourself further.
+
+	</p><p><b>How Does Encryption Work?</b>
+
+	</p><p>Encryption is based on a key that has two different parts. The public part and the private part. The public part of the key is distributed to those you want to communicate with. The private part is for the recipient's use only.
+
+	</p><p>When you send personal information to Parkseed.com, you use Park Seed's public key to encrypt your personal information. That means, if at any point during the transmission your information is intercepted, it is scrambled and very difficult to decrypt. Once Park Seed receives your encrypted personal information, we use the private part of our key to decode it.
+
+	</p><p><b>What Kind of Encryption Software Does Park Seed Use?</b>
+
+	</p><p>Park Seed currently uses the industry-standard SSL (Secure Sockets Layer) encryption. But we continue to keep up with the current technologies in order to provide the best security for our customers.
+
+	</p><p><b>What Information Does Park Seed Encrypt?</b>
+
+	</p><p>Park Seed encrypts all personal information you give us when you place an order online. Remember, if you feel uncomfortable providing any of this information online, please feel free to call one of our representatives at <br>1-800-845-3369.
+
+
+	</p><p><b>How Safe is Encryption Really?</b>
+
+	</p><p>Providing encrypted information online is as safe as doing it over the phone.
+
+	</p><p><span class="privacyHead">Privacy Policy Changes<br></span>
+	Parkseed.com may update this Privacy Policy from time to time to better
+	serve you. We encourage you to review this Privacy Policy periodically.
+
+	</p><p><span class="privacyHead">For Further Information</span> <br>
+	If you choose to visit parkseed.com, your visit and any dispute over privacy
+	is subject to this Privacy Policy. If you have questions or comments concerning
+	this Privacy Policy, you may contact us at: <br>
+	Park Seed Company, 1 Parkton Avenue, Greenwood, SC 29647 Phone: (800) 845-3369
+	Fax: (864) 941-4506 E-mail: <a href="mailto:curator@parkscs.com">curator@parkscs.com</a>
+	<br><br>
+
+
+		</p></td>
+		<td width="15" rowspan="2"><img src="/web_images/Park/misc/spacer.gif" width="1" height="1"></td>
+		<td width="140" rowspan="2" align="center" class="bodyText">
+
+
+
+
+
+
+
+
+
+
+
+	<!-- display today's date - table is just for spacing -->
+	<table border="0" cellpadding="0&quot;" cellspacing="0"><tbody><tr><td class="todayText">Friday, April 01<br>
+	<img src="/web_images/Park/misc/spacer.gif" width="1" height="2"></td></tr></tbody></table>
+
+	<!-- Bonus Box -->
+
+	
+
+
+
+
+
+
+
+			<table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffff99">  <tbody><tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;mainPage=bonusinfo"><img src="/web_images/Park/bonus/parkbonus0503d.gif" width="140" height="145" alt="Bonus!" title="Get a Bonus with your Internet Order!" border="0"></a></td></tr>  <tr><td width="1" class="parkSaleRed"><spacer type="block" width="1" height="3"></spacer></td>	<td>			<table width="138" border="0" cellpadding="0" cellspacing="0" valign="top" align="center">		  <tbody><tr>			<td valign="top" class="todayText" align="center">Get 3 Free Mesa Verde Iceplants with your $75+ order!<br><a href="StoreCatalogDisplay?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;mainPage=bonusinfo">Click Here For Info.</a><br>			<img src="/web_images/Park/misc/spacer.gif" width="20" height="5">			</td>		  </tr>		</tbody></table>		</td>	<td width="1" class="parkSaleRed"><spacer type="block" width="1" height="1"></spacer></td>  </tr>  <tr><td colspan="3" height="1" class="parkSaleRed"></td></tr></tbody></table>
+
 <br>
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psBonus.d2w/report"> Click for details.</a><br>
-</font>
+	<!-- Product Quick Facts & Side Cart -->
+
+
+			<!-- Tips/News -->
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- News -->
+
+	<table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffff99">
+	  <tbody><tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10066&amp;storeId=10101&amp;langId=-1&amp;mainPage=news&amp;keywords=MAINMAIN"><img src="/web_images/Park/dev/boxtop_newsicon.gif" width="140" height="43" alt="Garden News" title="Garden News From Park!" border="0"></a></td></tr>
+	  <tr><td width="1" class="parkSaleRed"><spacer type="block" width="1" height="10"></spacer></td>
+		<td>
+		
+			<table width="138" border="0" cellpadding="6" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="center">
+				<a href="StoreCatalogDisplay?catalogId=10066&amp;storeId=10101&amp;langId=-1&amp;mainPage=news&amp;keywords=MAINMAIN">
+				Get Your Caladiums Here!</a>
+				</td>
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="parkSaleRed"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="3" height="1" class="parkSaleRed"></td></tr>
+	</tbody></table> 
+
+
+	<!-- end news -->
+ <br>
+
+			<!-- Top Ten Seellers -->
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffff99">
+	  	<tbody><tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;mainPage=toptenpage&amp;ListLocation=Main"><img src="/web_images/Park/dev/boxtop_bestsellers.gif" width="140" height="43" alt="Park's Top Ten Bestsellers" title="Park's Top Ten Bestsellers" border="0"></a></td></tr>
+	 	<tr>
+		<td width="1" height="3" class="parkSaleRed"><spacer type="block" width="1" height="3"></spacer></td>
+		<td width="138"><spacer type="block" width="138" height="1"></spacer></td>
+		<td width="1" class="parkSaleRed"><spacer type="block" width="1" height="1"></spacer></td>
+	 	</tr>
+	  	<tr><td class="parkSaleRed"><spacer type="block" width="1" height="1"></spacer></td>
+		<td>
+		<!-- nested table for spacing -->
+		<table width="132" border="0" cellspacing="1" cellpadding="1" align="center" class="bodyText">
+
+				<tbody><tr>
+				<td valign="top" align="right">1.&nbsp;</td>
+				<td valign="top" align="left"><a href="http://www.parkseed.com/gardening/Park/PD.5380/CH.Top Ten Main">Tomato Park's  Whopper<tm> Cr Improved, VFFNT Hybrid</tm></a></td>
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">2.&nbsp;</td>
+				<td valign="top" align="left"><a href="http://www.parkseed.com/gardening/Park/PD.46438/CH.Top Ten Main">Thuja Green Giant</a></td>
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">3.&nbsp;</td>
+				<td valign="top" align="left"><a href="http://www.parkseed.com/gardening/Park/PD.44842/CH.Top Ten Main">Fragrant Corkscrew Vine</a></td>
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">4.&nbsp;</td>
+				<td valign="top" align="left"><a href="http://www.parkseed.com/gardening/Park/PD.6529/CH.Top Ten Main">Park's Original 60-cell Bio Dome Seed Starter</a></td>
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">5.&nbsp;</td>
+				<td valign="top" align="left"><a href="http://www.parkseed.com/gardening/Park/PD.90284/CH.Top Ten Main">Petunia Dolce Collection</a></td>
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">6.&nbsp;</td>
+				<td valign="top" align="left"><a href="http://www.parkseed.com/gardening/Park/PD.9221/CH.Top Ten Main">Algoflash All-Purpose Fertilizer</a></td>
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">7.&nbsp;</td>
+				<td valign="top" align="left"><a href="http://www.parkseed.com/gardening/Park/PD.90295/CH.Top Ten Main">Exclusive Tomato Trio Collection</a></td>
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">8.&nbsp;</td>
+				<td valign="top" align="left"><a href="http://www.parkseed.com/gardening/Park/PD.42009/CH.Top Ten Main">Strawberry Plants (25) &amp; 2 Growin' Bags</a></td>
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">9.&nbsp;</td>
+				<td valign="top" align="left"><a href="http://www.parkseed.com/gardening/Park/PD.48239/CH.Top Ten Main">Blueberry Sunshine Blue</a></td>
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">10.&nbsp;</td>
+				<td valign="top" align="left"><a href="http://www.parkseed.com/gardening/Park/PD.47704/CH.Top Ten Main">Gaillardia Fanfare PPAF</a></td>
+				</tr>
+
+		</tbody></table>
+		<!-- end nested top ten table -->
+
+		</td>
+		<td width="1" class="parkSaleRed"><spacer type="block" width="1" height="1"></spacer></td>
+	  	</tr>
+	  	<tr>
+		<td width="1" height="2" class="parkSaleRed"><spacer type="block" width="1" height="2"></spacer></td>
+		<td width="138" height="2"><spacer type="block" width="138" height="2"></spacer></td>
+		<td width="1" height="2" class="parkSaleRed"><spacer type="block" width="1" height="2"></spacer></td>
+	  	</tr>
+	  	<tr class="parkSaleRed"><td colspan="3" height="1"><spacer type="block" width="1" height="1"></spacer></td></tr>
+		</tbody></table>
+	<br>  
+
+			<!-- Zip/Zone Calc -->
+			<table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffff99">
+		  	<tbody><tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10066&amp;storeId=10101&amp;langId=-1&amp;mainPage=zonemap">
+			<img src="/web_images/Park/dev/boxtop_zone.gif" width="140" height="43" alt="Zone Calculator" title="Know Your Growing Zone!" border="0"></a></td></tr>
+		  	<tr>
+			<td width="1" height="3" class="parkDarkGreen"><spacer type="block" width="1" height="3"></spacer></td>
+			<td width="138"><spacer type="block" width="138" height="1"></spacer></td>
+			<td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="1"></spacer></td>
+		  	</tr>
+		  	<tr><td class="parkDarkGreen"><spacer type="block" width="1" height="10"></spacer></td>
+			<td>
+			
+			<table width="138" border="0" cellpadding="6" cellspacing="0" align="center" bgcolor="">
+			<tbody><tr>
+			<td valign="top" class="bodyText" align="center" bgcolor="#ffff99">
+			<a href="StoreCatalogDisplay?catalogId=10066&amp;storeId=10101&amp;langId=-1&amp;mainPage=zonemap">Click here now to learn about your growing zone.</a>
+			</td></tr>
+			</tbody></table>
+			</td>
+			<td width="1" class="parkDarkGreen"><spacer type="block" width="1" height="1"></spacer></td>
+		  	</tr>
+		  	<tr><td colspan="3" height="1" class="parkDarkGreen"></td></tr>
+			</tbody></table>
+
+			<!-- hard coded right side plugs-->
+
+			
+
+			
+
+
+
+
+
+
+			<center>
+
+					<p class="bannerText">
+					<a href="http://www.parkseed.com/gardening/Park/GP.whopperflowers">
+					<img src="/web_images/Park/anibanner/WhopperFlowerPlug_Right.gif" width="140" height="150" border="0" alt="Park's Whopper Flowers" class="diff"><br>
+					Click here now for Park's Whopper Flowers
+					</a></p>
+
+
+					<p class="bannerText">
+					<a href="http://www.parkseed.com/gardening/Park/GP.aasnewwinners">
+					<img src="/web_images/Park/anibanner/AASPlug_Right.gif" width="140" height="150" border="0" alt="all 2005 AAS winners!" class="diff"><br>
+					Click here now for all 2005 AAS winners!
+					</a></p>
+
+
+					<p class="bannerText">
+					<a href="http://www.parkseed.com/gardening/Park/GP.biodome">
+					<img src="/web_images/Park/anibanner/BioDomePlug_Right.gif" width="140" height="150" border="0" alt="for Park's Bio Domes" class="diff"><br>
+					Click here now for for Park's Bio Domes
+					</a></p>
+
+
+		</center>
+
 </td>
-</tr>
-</tbody></table>
+	  </tr>
+	<tr valign="bottom"><td align="center">
+	
+
+	
+
+
+
+
+
+
+	<img src="/web_images/Park/misc/spacer.gif" width="1" height="4">
+	
+
+
+
+
+
+
+			<center>
+
+				
+
+					<p class="bannerText">
+					<a href="http://www.parkseed.com/gardening/Park/PD.0894/NV.scChannel.Banner Item 0894">
+					<img src="/web_images/Park/anibanner/ani0894.gif" width="315" height="50" border="0" alt="Sunflower Van Gough" class="diff"><br>
+					Click here now for Sunflower Van Gough
+					</a></p>
+
+
+		</center>
+
+
+	</td></tr>
+	  <tr>
+		<td colspan="5" height="5"><img src="/web_images/Park/misc/spacer.gif" width="1" height="4"></td>
+	  </tr>
+	  <tr>
+		<td colspan="5" align="center" class="bodyText">
+
+
+
+
+
+
+
+<!-- ImageReady Slices (small_footer_new5.psd) -->
+<img src="/web_images/Park/dev/small_footer_new5.gif" width="664" height="82" border="0" usemap="#small_footer_new5_Map">
+<map name="small_footer_new5_Map">
+<area shape="rect" alt="Supplies and Gifts" coords="524,29,659,48" href="http://www.parkseed.com/gardening/Park/dept/homesupplies">
+<area shape="rect" alt="Seed Starting" coords="392,27,514,48" href="http://www.parkseed.com/gardening/Park/dept/gateseedstarters">
+<area shape="rect" alt="Bulbs" coords="187,27,263,49" href="http://www.parkseed.com/gardening/Park/dept/homebulbs">
+<area shape="rect" alt="Plants" coords="100,29,172,49" href="http://www.parkseed.com/gardening/Park/dept/homeplants">
+<area shape="rect" alt="Seeds" coords="6,27,82,48" href="http://www.parkseed.com/gardening/Park/dept/homeseeds">
+<area shape="rect" alt="Home" coords="285,4,381,72" href="http://www.parkseed.com/gardening/Park/dept/page1">
+<area shape="rect" alt="Catalog Quick Order" coords="502,51,654,75" href="http://www.parkseed.com/gardening/Park/dept/newQuickOrder">
+<area shape="rect" alt="Web Specials" coords="387,49,490,73" href="http://www.parkseed.com/gardening/Park/dept/webspecials">
+<area shape="rect" alt="View Cart" coords="196,49,269,73" href="ViewCart?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;PrevMainPage=prod2working">
+<area shape="rect" alt="Free Catalog" coords="75,49,181,73" href="http://www.parkseed.com/gardening/Park/dept/CatalogRequest">
+<area shape="rect" alt="Home" coords="0,50,64,74" href="http://www.parkseed.com/gardening/Park/dept/page1">
+</map>
+
+
+
+
+
+<!-- ImageReady Slices (small_footer.psd)
+<center><IMG SRC="/web_images/Park/dev/small_footer.gif" WIDTH=664 HEIGHT=82 BORDER=0 USEMAP="#small_footer_Map"></center>
+<MAP NAME="small_footer_Map">
+<AREA SHAPE="rect" ALT="" COORDS="576,28,636,50" HREF="http://www.parkseed.com/gardening/Park/dept/homegifts">
+<AREA SHAPE="rect" ALT="" COORDS="393,28,555,48" HREF="http://www.parkseed.com/gardening/Park/dept/homesupplies">
+<AREA SHAPE="rect" ALT="" COORDS="201,28,256,48" HREF="http://www.parkseed.com/gardening/Park/dept/homebulbs">
+<AREA SHAPE="rect" ALT="" COORDS="110,29,172,48" HREF="http://www.parkseed.com/gardening/Park/dept/homeplants">
+<AREA SHAPE="rect" ALT="" COORDS="22,28,85,46" HREF="http://www.parkseed.com/gardening/Park/dept/homeseeds">
+<AREA SHAPE="rect" ALT="Home" COORDS="285,6,381,77" HREF="http://www.parkseed.com/gardening/Park/dept/page1">
+<AREA SHAPE="rect" ALT="Catalog Quick Order" COORDS="497,49,649,73" HREF="http://www.parkseed.com/gardening/Park/dept/newQuickOrder">
+<AREA SHAPE="rect" ALT="Web Specials" COORDS="382,49,490,73" HREF="http://www.parkseed.com/gardening/Park/dept/webspecials">
+<AREA SHAPE="rect" ALT="View Cart" COORDS="196,49,277,73" HREF="ViewCart?catalogId=10101&storeId=10101&langId=-1&PrevMainPage=prod2working">
+<AREA SHAPE="rect" ALT="Free Catalog" COORDS="81,49,187,73" HREF="http://www.parkseed.com/gardening/Park/dept/CatalogRequest">
+<AREA SHAPE="rect" ALT="Home" COORDS="11,49,75,73" HREF="http://www.parkseed.com/gardening/Park/dept/page1">
+</MAP> -->
+<!-- End ImageReady Slices -->
+
+ 
+	   <a href="http://www.parkseed.com/gardening/Park/dept/page1">Home</a> |
+	   <a href="http://www.parkseed.com/gardening/Park/dept/CatalogRequest">Free Catalog</a> |
+	   <a href="ViewCart?catalogId=10101&amp;storeId=10101&amp;langId=-1&amp;PrevMainPage=prod2working">View Cart</a> |
+	   <a href="http://www.parkseed.com/gardening/Park/dept/webspecials">Web Specials</a> |
+	   <a href="http://www.parkseed.com/gardening/Park/dept/newQuickOrder">Catalog Quick Order</a><br>
+
+
+	   <a href="http://www.parkseed.com/gardening/Park/dept/billofrights">Customer Bill-of-Rights</a> |
+	   <a href="http://www.parkseed.com/gardening/Park/dept/shipinfo">Shipping Policies</a> |
+	   <!-- <a href="StoreCheckoutDisplay?catalogId=10101&storeId=10101&langId=-1&mainPage=sitemap">Site Map</a> | -->
+	   <a href="http://www.parkseed.com/gardening/Park/dept/PrivacyPolicy">Our Privacy Statement</a> |
+	   <a href="http://www.parkseed.com/gardening/Park/dept/feedbackform">Contact Us</a><br><br>
+
+      <b>Park Seed Company, The Best Flowers &amp; Vegetables</b><br>
+      Park Seed Company | 1 Parkton Ave | Greenwood, SC 29647<br>
+      800-213-0076 &nbsp;&nbsp;&nbsp;www.parkseed.com<br>
+      <a href="http://www.parkseed.com/gardening/Park/dept/billofrights">Copyright 1997-2005, Geo. W. Park Seed Co., Inc.</a><br>
+      <a href="mailto:info@parkscs.com">info@parkscs.com</a> 
 </td>
-</tr>
-</tbody></table>
-<p>
-<!-- NEWS O DAY -->
-</p><p align="center"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psNewsBody.d2w/report">
-<img src="/images/newsoday.gif" width="140" height="70" border="0" alt="Read the current News from the Garden!"></a></p>
-
-<!-- TOP TEN -->
-<table width="140" border="1" cellspacing="0" cellpadding="0" bordercolor="#996666">
-	<tbody><tr><td colspan="3" height="2" align="center" bgcolor="#FFFFD0">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psLongTopTen.d2w/Top10?AREA=Main"><img src="/images/toptenmain.gif" border="0" width="135" height="46" alt="TopTen"></a><br>
-	<table width="130" border="0" cellspacing="1" cellpadding="1">
-
-<tbody><tr>	<td valign="top" align="right"><font size="2">1.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=6529">Bio Dome Seed Starter</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">2.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=3310">Morning Glory Mt. Fuji</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">3.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=5380">Park's  Tomato Whopper™</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">4.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=90135">Park's Picks Zinnia</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">5.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=0639">Cosmos Cosmic  Yellow</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">6.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=5339">Beefy Boy Tomato</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">7.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=0638">Cosmos Cosmic Orange</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">8.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=9244">Frost Protector Teepee</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">9.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=2990">Coleus Palisandra</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">10.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=0894">Sunflower Van Gogh</a></font></td></tr>
-
-
-
-</tbody></table>
-
-</td>
-
-
-</tr>
-
-</tbody></table><p>
-
-
-
-
-<table width="140" border="1" cellspacing="0" cellpadding="0" bordercolor="#996666">
-<tbody><tr>
-<td align="center" bgcolor="#FFFFFF"><a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psKnowZone.d2w/report?merchant_rn=541"><img src="/images/zone.gif" width="121" height="126" border="0" alt="KnowZone"></a><br>
-<table width="134" border="0" cellspacing="0" cellpadding="1">
-<tbody><tr><td valign="top" align="center">
-<form method="POST" action="http://www.parkseed.com/webapp/commerce/command/PSKnowZone">
-<b>Zone Calculator</b><br>Enter Zip Code: <br>
-<input type="hidden" name="merchant_rn" value="541" size="5">
-<input type="hidden" name="url" value="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psKnowZone.d2w/Success" size="5">
-<input type="text" name="ZIP" value="" size="5" maxlength="5">
-<input type="image" src="/images/gowt.gif" align="absmiddle" alt="go!" border="0" width="21" height="20">
-</form>
-
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psKnowZone.d2w/Map?merchant_rn=541"><font face="Times New Roman, Times, serif" size="2">Browse another Zone</font></a>
-</td></tr></tbody></table>
-</td>
-</tr>
-</tbody></table>
-
-
-</p></td></tr>
-<!-- BEGIN FOOTER -->
-<!-- ROW 3 COLSPAN 2 -->
-
-<tr><td colspan="8" align="center">
-
-<p><br><font size="-1">
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psNewsletter.d2w/NewsletterRequest">Free Newsletter</a> |
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psStoreHome.d2w/report">Online Store</a> |
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psWebSpecials.d2w/report">Web Specials</a> |
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCatalogRequest.d2w/CatalogRequest">Free Catalog</a> |
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psCommunityHome.d2w/report">Community</a><br>
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=billofrights">Customer Bill-of-Rights</a> |
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=shipping">Shipping Policies</a> |
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psSiteInfo.d2w/Map">Site Map</a> |
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psPrivacy.d2w/report">Our Privacy Statement</a> |
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psContact.d2w/report">Contact Us</a>
-<br><img alt="logo" src="/images/logo.gif" width="115" height="38"><br>
-<b>The Best Flowers and Vegetables</b><br>
-Park Seed Company | 1 Parkton Ave | Greenwood, SC 29649<br>
-800-213-0076&nbsp;&nbsp;&nbsp;www.parkseed.com<br>
-<a href="mailto:info@parkseed.com">info@parkseed.com</a><br>
-<a href="http://www.parkseed.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=billofrights">Copyright 2000-2001, Geo. W. Park Seed Co.</a></font>
-</p></td></tr></tbody></table>
-<!-- END TABLE 1 -->
-
+	  </tr>
+
+	</tbody></table>
+	
+	
 </body></html>
