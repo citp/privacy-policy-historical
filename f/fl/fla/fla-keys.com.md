@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2001-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011016032301id_/http%3A//www.fla-keys.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408103110id_/http%3A//www.fla-keys.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# The Florida Keys and Key West
+# The Official Tourism Council Web Site for the Florida Keys! Key Largo, Islamorada, Marathon, Lower Keys, Key West
 
+|  [ ](http://www.fla-keys.com/drive.htm) |  [ ](http://www.fla-keys.com/fishing/index.htm) |  [ ](http://www.fla-keys.com/ecotourism/index.htm) |  [ ](http://www.fla-keys.com/diving/index.htm) |  [ ](http://floridakeys.net/tdccalendarnew.cfm) |  [ ](http://www.fla-keys.com/culture/index.htm) |  [ ](http://www.fla-keys.com/index.htm) |   
+---|---|---|---|---|---|---|---  
 |   
----  
+---|---  
+  
+[ ](http://fla-keys.com/)  
 [ ](http://www.fla-keys.com/keylargo/index.htm)  
 [ ](http://www.fla-keys.com/islamorada/index.htm)  
 [ ](http://www.fla-keys.com/marathon/index.htm)  
 [ ](http://www.fla-keys.com/lowerkeys/index.htm)  
-[ ](http://www.fla-keys.com/keywest/index.htm)  
-[ ](http://www.fla-keys.com/visitorindex.htm)  
-   
-|  |   
----|---  
-  
-**Welcome to the Florida Keys  
+[ ](http://www.fla-keys.com/keywest/index.htm) | 
+
+**  
 Privacy Policy**
 
 (as of June 20, 2001)
@@ -53,7 +53,7 @@ In order to better describe how information is collected and disseminated, pleas
 
 > > REQUESTS FOR ADDITIONAL INFORMATION (just email address)
 >> 
->> ELECTRONIC NEWSLETTERS - only opt-in email
+>> ELECTRONIC NEWSLETTERS - only opt-in email, the newsletters and the subscribers are the property of FloridaKeys.com.
 >> 
 >> SURVEYS (OPT-IN)
 >>
@@ -127,30 +127,12 @@ _**
 >>> 
 >>> If you have questions about this Privacy Policy or anything else about Fla-Keys.com, you can contact us at the following email address: [webeditor@Fla-Keys.com](mailto:webeditor@Fla-Keys.com)
 > 
-> [**Back to the Florida Keys and Key West Home Page**](http://fla-keys.com/visitorindex.htm)
+> **[Back to the Florida Keys and Key West Home Page](http://www.fla-keys.com/index.htm)**
 
-**F l o r i d a    K e y s   **• **  G e n e r a l   I n f o r m a t i o n**  
-  
----  
-  
-**[Welcome](http://www.fla-keys.com/welcome2.htm)**
-
-| 
-
-**[Travel Trade](http://www.fla-keys.com/traveltrade/index.htm)**
-
-| 
-
-**[Videos](http://www.fla-keys.com/videos/index.htm)**  
-  
-**[Maps](http://www.fla-keys.com/maps/index.htm)** | **[Press/Media](http://www.fla-keys.com/media/index.htm)** | **[Getting Here](http://www.fla-keys.com/gettinghere.htm)**  
-**[Weather](http://www.fla-keys.com/weather.htm)** | **[Your Comments](http://www.fla-keys.com/comments.htm)** | **[Live Web Cams](http://www.fla-keys.com/keywestcam.htm)**  
-  
-[](http://floridakeys.com/info)
-
-| 
-
-**This site designed and hosted by FloridaKeys.com  
+|   
+[ ](http://www.floridakeys.com/info) |  **This site designed and hosted by[FloridaKeys.com](http://floridakeys.com/info)  
 All Pages Copyright © FloridaKeys.com. All rights reserved.**  
+---|---  
   
----|---
+   
+| 
