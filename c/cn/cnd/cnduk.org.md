@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the cnduk.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnduk.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/pp.html) for the most accurate reproduction.*
 
 # CND - Privacy Statement
 
 |   
 ---  
-[Home](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/index.html)  
-[About CND](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/about.html)  
-[Join CND](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/join.html)  
-[Campaigns](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/campaign/cpgn.html)  
-[Events Diary](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/diary.html)  
-[CND Shop](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/shop/shop.html)  
-[Press](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/press/press.html)  
-[Briefings & Information](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/binfo/bri.html)  
-[Education](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/ed/ped.html)  
-[Jobs](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/jobs/job.html)  
-[Useful Links](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/links.html)  
-[CND Contacts](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/ctc/ctc.html)  
-[Sitemap](https://web.archive.org/web/20040606011818id_/http%3A//www.cnduk.org/pages/map.html)  
+[Home](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/index.html)  
+[About CND](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/about.html)  
+[Join CND](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/join.html)  
+[Campaigns](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/campaign/cpgn.html)  
+[Events Diary](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/diary.html)  
+[CND Shop](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/shop/shop.html)  
+[Press](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/press/press.html)  
+[Briefings & Information](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/binfo/bri.html)  
+[Education](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/ed/ped.html)  
+[Jobs](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/jobs/job.html)  
+[Useful Links](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/links.html)  
+[CND Contacts](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/ctc/ctc.html)  
+[Sitemap](https://web.archive.org/web/20050404010450id_/http%3A//www.cnduk.org/pages/map.html)  
   |   
 
 
