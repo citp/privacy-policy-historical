@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602080139id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202030813id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
 
 # BottomLineSecrets.com Web site Privacy Policy
 
@@ -7,9 +7,11 @@
 _ _  
 [](https://digitalid.verisign.com/as2/a6bae7b539d7d430bd9b3dd24cb2907d)
 
-Effective: January 2002
+Effective October 2003
 
-Thank you for visiting BottomLineSecrets.com, part of the family of Boardroom Inc. publications. This privacy policy ("Policy") applies to all Boardroom Inc. Web sites, including but not limited to Boardroom.com, BottomLinePersonal.com, BottomLineHealth.com, BottomLineTomorrow.com and I-Power.com (collectively, the "Web sites"). This Policy explains what information Boardroom, Inc. ("Boardroom" or "we") collects on the Web sites and how such information is used. By visiting any of the Web sites, you signify your acceptance of this Policy.
+Updated to include Daily Health News
+
+Thank you for visiting BottomLineSecrets.com, part of the family of Boardroom Inc. publications. This privacy policy ("Policy") applies to all Boardroom Inc. Web sites, including but not limited to Boardroom.com, BottomLinePersonal.com, BottomLineHealth.com, BottomLineTomorrow.com, BottomLinePress.com and I-Power.com (collectively, the "Web sites"). This Policy explains what information Boardroom, Inc. ("Boardroom" or "we") collects on the Web sites and how such information is used. By visiting any of the Web sites, you signify your acceptance of this Policy.
 
 Boardroom reserves the right to change the terms of this Policy at any time. Any changes will become effective as soon as we publish notice of them. We may publish notice by any reasonable means, including by e-mail or by posting notice on our Web sites.
 
@@ -38,13 +40,17 @@ If for some reason you would prefer not to take advantage of the benefits made p
 
 
 
-Weekly Newsletters
+Weekly Bottom Line Secrets Newsletters
 
 For those who [specifically request it](http://store.bottomlinesecrets.com/cust_service/email.html), we send a weekly E-mail letter with specially selected tips of the week and information about what's new on the Web sites and in the pages of our publications. We also send occasional e-mail letters for special events, such as holidays, to those who have requested our e-mail letter. If you do not want to receive this E-mail in the future, please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/email_unsub.html). Please understand that processing this request may take a few days and you may receive newsletters during this time. We appreciate your understanding during this process.
 
+Daily Health News Newsletters
+
+For those who [specifically request it](http://www.bottomlinesecrets.com/e2/e2_signup.html), we send an E-mail letter at least three days each week with newly written and edited material about health and wellness specifically produced for Daily Health News. Additionally, one time each week we send an email that gives readers the opportunity to preview a specific Boardroom product that helps people enrich the quality of their lives. We also send occasional e-mail letters for special events, such as holidays, to those who have requested our e-mail letter. If you do not want to receive this E-mail in the future, please let us know by filling out [this form](http://www.bottomlinesecrets.com/e2/e2_unsub.html). Please understand that processing this request may take a few days and you may receive newsletters during this time. We appreciate your understanding during this process.
+
 Boardroom Special Offers
 
-For those who [specifically request it](http://store.bottomlinesecrets.com/cust_service/email.html), we occasionally e-mail special offers from Boardroom and from third parties. If you do not want to receive these special offers by e-mail from Boardroom in the future, please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/email_prefs.html). Please understand that processing this request may take a few days and you may receive offers during this time. We appreciate your understanding during this process.
+For those who [specifically request it](http://www.bottomlinesecrets.com/cust_service/email_prefs.html), we occasionally e-mail special offers from Boardroom and from third parties. If you do not want to receive these special offers by e-mail from Boardroom in the future, please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/email_prefs.html). Please understand that processing this request may take a few days and you may receive offers during this time. We appreciate your understanding during this process.
 
 If you supply us with your postal address on-line, or if you are a print subscriber, you may receive periodic postal mailings from us with information about new products and services or upcoming events. If you do not wish to receive such postal mailings, please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/privacy_no_mail.html). Please understand that processing this request may take a few days and you may receive postal mailings during this time. We appreciate your understanding during this process.
 
@@ -79,7 +85,7 @@ Our Web sites are not directed nor targeted to, nor intended for use by, childre
 
 Security
 
-Boardroom takes reasonable precautions to safeguard information transmitted between users and the Web Sites. [](https://digitalid.verisign.com/as2/be44de656a17577d392827412cb29e08)Certain pages of the Web sites, including those that offer users the opportunity to provide credit card information for purchases, use Secured Socket Layers encryption. However, due to the inherent nature of the Internet as an open communications network, we can not guarantee that communications between you and Boardroom and information stored on our servers will be free from unauthorized access. Users understand and acknowledge this risk when communicating with, and providing information to, the Site. 
+Boardroom takes reasonable precautions to safeguard information transmitted between users and the Web Sites. [](https://digitalid.verisign.com/as2/a6bae7b539d7d430bd9b3dd24cb2907d)Certain pages of the Web sites, including those that offer users the opportunity to provide credit card information for purchases, use Secured Socket Layers encryption. However, due to the inherent nature of the Internet as an open communications network, we can not guarantee that communications between you and Boardroom and information stored on our servers will be free from unauthorized access. Users understand and acknowledge this risk when communicating with, and providing information to, the Site. 
 
 Transfer of Information in Business Transactions
 
