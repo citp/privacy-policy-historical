@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordclub.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603191154id_/http%3A//oxfordclub.com/1article.cfm%3FID%3D3000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordclub.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208174418id_/http%3A//oxfordclub.com/1article.cfm%3FID%3D3000) for the most accurate reproduction.*
 
 # OxfordClub.com - Privacy, Prosperity, Tradition
 
@@ -43,7 +43,3 @@ You must submit a name to submit a message to the Chat Room, but it does not hav
 We cannot be held responsible for any claims made in our Chat Room.
 
 * * *
-
-[](http://www.baltimore.bbb.org/nis/newsearch2.asp?ID=1&strBCode=00110000&ComID=0011000020002292&ComName=Oxford+Club)  
-Member Since 1992  
-Better Business Bureau of Greater Maryland, Inc. 
