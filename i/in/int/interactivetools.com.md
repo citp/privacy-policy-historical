@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602230203id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208073508id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
 
 # interactivetools.com - Privacy Policy
 
