@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthboards.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605032042id_/http%3A//www.healthboards.com/hbprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthboards.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216013930id_/http%3A//www.healthboards.com/hbprivacy.htm) for the most accurate reproduction.*
 
 # HealthBoards.com Privacy Policy
 
