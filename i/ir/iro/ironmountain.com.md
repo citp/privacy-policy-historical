@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210012702id_/http%3A//www.ironmountain.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609161429id_/http%3A//www.ironmountain.com/privacy/index.asp) for the most accurate reproduction.*
 
 # Iron Mountain - Privacy Statement
 
@@ -78,5 +78,5 @@ Iron Mountain does not want to collect personal information from minors (childre
 
 If you have questions concerning this Policy, please contact our **Director of Privacy** at **1-800-935-6966, ext. 4932 (if calling from within the USA) or 617-535-4932 (if calling from outside the USA)** or via e-mail at **[global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com)** or by writing to **Director of Privacy, Iron Mountain, 745 Atlantic Avenue, Boston, MA 02111, U.S.A.**
 
-    [_Copyright©2001-2002 Iron Mountain Incorporated._ All Rights Reserved.](https://web.archive.org/privacy/copyright.asp)  
-Iron Mountain Headquarters | 745 Atlantic Avenue | Boston, MA 02111 USA | (800) 899-IRON
+    [ _Copyright©2001-2003 Iron Mountain Incorporated._ All Rights Reserved. ](https://web.archive.org/privacy/copyright.asp) [ _User terms_ ](https://web.archive.org/userterms/)   
+Iron Mountain Headquarters | 745 Atlantic Avenue | Boston, MA 02111 USA | (800) 899-IRON 
