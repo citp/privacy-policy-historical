@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rjf.com privacy policy that was archived on 2003-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031006001258id_/http%3A//www.rjf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rjf.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603183104id_/http%3A//www.rjf.com/privacy.htm) for the most accurate reproduction.*
 
 # Raymond James Financial - Internet Privacy Statement for www.RaymondJames.com
 
@@ -18,4 +18,4 @@ The Raymond James Internet Privacy Statement applies to U.S. clients and Web sit
 
 Raymond James Financial may change this privacy statement at any time. Any changes or updates will be effective immediately upon posting to this site.
 
-Copyright © 2003 Raymond James Financial, Inc. All rights reserved.
+Copyright © 2004 Raymond James Financial, Inc. All rights reserved.
