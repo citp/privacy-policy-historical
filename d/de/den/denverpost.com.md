@@ -1,41 +1,69 @@
-> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215101538id_/http%3A//www.denverpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202163427id_/http%3A//www.denverpost.com/privacy) for the most accurate reproduction.*
 
 # DenverPost.com - PRIVACY POLICY
 
-|   
-| [ABOUT US/HELP](https://web.archive.org/Stories/0,1413,36%257E22%257E,00.html)  
+| [NEWS](https://web.archive.org/Stories/0,1413,36%257E53%257E,00.html)  
 ---  
-[ARCHIVES](https://web.archive.org/Stories/0,1413,36%257E25%257E,00.html)  
-[BOOKS](https://web.archive.org/Stories/0,1413,36%257E26%257E,00.html)  
 [BUSINESS](https://web.archive.org/Stories/0,1413,36%257E33%257E,00.html)  
-[CLASSIFIEDS](http://post-newsclassified.com/)  
-[COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E198%257E,00.html)  
-[COMMUNITY](http://www.post-newscommunity.com/)  
-[CONTACT US](https://web.archive.org/Stories/0,1413,36%257E39%257E,00.html)  
-[DISCUSSION](http://talk.denverpost.com/webx/cgi-bin/WebX)  
-[DPO BY E-MAIL](https://web.archive.org/Stories/0,1413,36%257E183%257E,00.html)  
+[COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E57%257E,00.html)  
+[FRONT PAGE](https://web.archive.org/Stories/0,1413,36%257E23827%257E,00.html)  
+[LOCAL NEWS](https://web.archive.org/Stories/0,1413,36%257E53%257E,00.html)  
+[NATION/WORLD](https://web.archive.org/Stories/0,1413,36%257E11676%257E,00.html)  
+[OBITUARIES](https://web.archive.org/Stories/0,1413,36%257E11777%257E,00.html)  
+[SEASON TO SHARE](https://web.archive.org/Stories/0,1413,36%257E10169%257E,00.html)  
+[SPECIAL REPORTS](https://web.archive.org/Stories/0,1413,36%257E28977%257E,00.html)  
+[WEATHER](http://wp.myweather.net/wp/?pub=denv068352&page=main&loc=kapa)  
+    
+[FEATURES](https://web.archive.org/Stories/0,1413,36%257E28996%257E,00.html)  
+[BOOKS](https://web.archive.org/Stories/0,1413,36%257E26%257E,00.html)  
 [ENTERTAINMENT](https://web.archive.org/Stories/0,1413,36%257E78%257E,00.html)  
 [FOOD/DINING](https://web.archive.org/Stories/0,1413,36%257E40%257E,00.html)  
-[FRONT PAGE](https://web.archive.org/Stories/0,1413,36%257E23827%257E,00.html)  
+[HEALTH](http://denverpost.healthology.com/)  
 [LIFESTYLES](https://web.archive.org/Stories/0,1413,36%257E45%257E,00.html)  
-[NATION/WORLD](http://customwire.ap.org/dynamic/fronts/HOME)  
-[NEWS](https://web.archive.org/Stories/0,1413,36%257E53%257E,00.html)  
-[NEWSPAPER ADS](http://www.post-newsadsearch.com/)  
-[OBITUARIES](http://www.legacy.com/denver)  
-[OPINION](https://web.archive.org/Stories/0,1413,36%257E73%257E,00.html)  
-[SEAS. TO SHARE](https://web.archive.org/Stories/0,1413,36%257E10169%257E,00.html)  
-[SPORTS](https://web.archive.org/Stories/0,1413,36%257E76%257E,00.html)  
+[MOVIES](https://web.archive.org/Stories/0,1413,36%257E82%257E,00.html)  
 [TRAVEL](https://web.archive.org/Stories/0,1413,36%257E77%257E,00.html)  
-[WAR ON TERROR](https://web.archive.org/Stories/0,1413,36%257E6439%257E,00.html)  
-[WEATHER](http://www.weatherpoint.com/denverpost/)  
-[DPO HOME](https://web.archive.org/Stories/0,1413,36%257E11%257E,00.html)  
-  
-|    
-Tuesday, December 03, 2002 
+[TV LISTINGS](http://tvlistings.zap2it.com/partners/index.asp?partner_id=dpo)  
+    
+[OPINION](https://web.archive.org/Stories/0,1413,36%257E73%257E,00.html)  
+[COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E74%257E,00.html)  
+[EDITORIALS](https://web.archive.org/Stories/0,1413,36%257E417%257E,00.html)  
+[LETTERS](https://web.archive.org/Stories/0,1413,36%257E416%257E,00.html)  
+[PERSPECTIVE](https://web.archive.org/Stories/0,1413,36%257E75%257E,00.html)  
+[KEEFE CARTOON](https://web.archive.org/Stories/0,1413,36%257E161%257E,00.html)  
+    
+[SPORTS](https://web.archive.org/Stories/0,1413,36%257E76%257E,00.html)  
+[AVALANCHE / NHL](https://web.archive.org/Stories/0,1413,36%257E84%257E,00.html)  
+[BRONCOS / NFL](https://web.archive.org/Stories/0,1413,36%257E86%257E,00.html)  
+[COLLEGES](https://web.archive.org/Stories/0,1413,36%257E87%257E,00.html)  
+[COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E101%257E,00.html)  
+[NUGGETS / NBA](https://web.archive.org/Stories/0,1413,36%257E90%257E,00.html)  
+[PREPS](https://web.archive.org/Stories/0,1413,36%257E92%257E,00.html)  
+[ROCKIES / MLB](https://web.archive.org/Stories/0,1413,36%257E96%257E,00.html)  
+[SCORES](http://www.sportsnetwork.com/default.asp?c=denverpost&page=regional/scores/live/denverpost.htm)  
+[OTHER SPORTS](https://web.archive.org/Stories/0,1413,36%257E93%257E,00.html)  
+    
+[SERVICES](https://web.archive.org/Stories/0,1413,36%257E22%257E,00.html)  
+[ARCHIVES](https://web.archive.org/Stories/0,1413,36%257E25%257E,00.html)  
+[CONTACT US](https://web.archive.org/Stories/0,1413,36%257E39%257E,00.html)  
+[ABOUT US/HELP](https://web.archive.org/Stories/0,1413,36%257E22%257E,00.html)  
+[E-MAIL NEWS](https://web.archive.org/Stories/0,1413,36%257E183%257E,00.html)  
+[SUBSCRIBE](https://www.securepostnews.com/subscribe/default.asp?source=dpo)  
+    
+[ADVERTISING](http://www.post-newsmarketplace.com/)  
+[AUTOS ](http://www.postnewsautos.com/)  
+[HOMES ](http://www.postnewsrealestate.com/)  
+[JOBS](http://www.postnewsjobs.com/)  
+[MARKETPLACE](http://www.post-newsmarketplace.com/)  
+[MEMORIALS](http://www.legacy.com/denver)  
+[NEWSPAPER ADS](http://www.post-newsadsearch.com/)  
+[WEDDINGS](http://www.post-newsweddings.com/)  
+[YELLOW PAGES](http://www.postnewsyellowpages.com/)  
+    
+[HOME](https://web.archive.org/Stories/0,1413,36%257E11%257E,00.html)  
+  |   | 
 
-|   
----  
-  
+Privacy Policy
+
 The Denver Post Corp. is committed to protecting the privacy of our customers. The following statement discloses our information gathering and dissemination practices for the denverpost.com Web site.
 
 **
@@ -108,5 +136,5 @@ Denver, Colorado 80202
 
 E-Mail: [tengdahl@denverpost.com](mailto:tengdahl@denverpost.com)
 
-  
-
+**Go to Section**   
+|   |   |  |   |   | 
