@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austarnet.com.au privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207062430id_/http%3A//www.austarnet.com.au/portal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austarnet.com.au privacy policy that was archived on 2003-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030208011836id_/http%3A//www.austarnet.com.au/portal/privacy.asp) for the most accurate reproduction.*
 
 # AUSTARnet: privacy
 
@@ -50,3 +50,5 @@ email address: privacy@austar.com.au
 Austar Entertainment Pty Ltd   
 ABN 93 068 104 530   
 Issued October 2001 
+
+For details on the use of information gathered on the Austar network, please refer to the [Austar Portal Terms of Use](https://web.archive.org/includes/copyright.asp)
