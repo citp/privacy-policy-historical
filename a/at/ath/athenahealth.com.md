@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the athenahealth.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212204153id_/http%3A//www.athenahealth.com/pages/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athenahealth.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210173456id_/http%3A//www.athenahealth.com/home/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # athenahealth: Privacy Policy
 
-  
-**Privacy Policy**  
+Privacy Policy  
   
 athenahealth, Inc. respects the privacy of our on-line visitors and has constructed and administers this web site accordingly. athenahealth may use "cookie" technology with respect to this site, but makes such use only to obtain non-personal information from on-line visitors. This information will be used only as necessary to permit functionality of the web site or to enhance the user's on-line experience. For example, we may track the number of visitors using portions or features of the site in order to improve the site and the manner in which it is used and to develop new features. 
 
