@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmath.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/privacy.htm) for the most accurate reproduction.*
 
 # Coolmath.com -
 
@@ -24,7 +24,7 @@ Remember, always check with your parent or guardian when surfing the net!
 
 **
 
-**Be sure to check out our tips for[safe surfing](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/safesurfing.htm)!** **PARENTS NOTICE
+**Be sure to check out our tips for[safe surfing](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/safesurfing.htm)!** **PARENTS NOTICE
 
 It is important for you to talk with your child about using the Internet safely. Here are just a few things to keep in mind when talking to your kids about the Internet:  
 * Remind your child to never give out his or her full name, address, or phone number without your permission.  
@@ -33,7 +33,7 @@ It is important for you to talk with your child about using the Internet safely.
 
 **
 
-**Be sure to visit our tips for[safe surfing](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/safesurfing.htm) with your child and discuss the importance of this with your child.**
+**Be sure to visit our tips for[safe surfing](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/safesurfing.htm) with your child and discuss the importance of this with your child.**
 
 **We will not condition a child's participation in a certain activity on the site on the child's providing more personal information than is necessary in order to allow such participation.**
 
@@ -45,8 +45,8 @@ It is important for you to talk with your child about using the Internet safely.
 
 **Note: This policy is subject to change at any time. When it does, the changes will be posted on this page. Your continued use of the Coolmath family of sites, indicates that you accept the terms spelled out in this policy.**
 
-| [home](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/home.htm) | [about us](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/aboutus.htm) | [awards](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/kudos.htm) | [media kit](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/mediakit/index.html) | [press kit](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/presskit/index.html) | [link to us](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/linktous.htm) | [what's new](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/new.htm) |  
-| [safe surfing](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/safesurfing.htm) | [privacy policy](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/privacy.htm) | [terms of use](https://web.archive.org/web/20020407141342id_/http%3A//www.coolmath.com/termsofuse.htm) |
+| [home](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/home.htm) | [about us](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/aboutus.htm) | [awards](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/kudos.htm) | [media kit](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/mediakit/index.html) | [press kit](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/presskit/index.html) | [link to us](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/linktous.htm) | [what's new](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/new.htm) |  
+| [safe surfing](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/safesurfing.htm) | [privacy policy](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/privacy.htm) | [terms of use](https://web.archive.org/web/20021207084430id_/http%3A//www.coolmath.com/termsofuse.htm) |
 
 **Thanks for visiting Coolmath.com  
 © 1997-2002 Coolmath.com, Inc.**
