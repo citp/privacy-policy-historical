@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806224706id_/http%3A//www.informatica.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308132056id_/http%3A//www.informatica.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Company: Privacy Policy
 
@@ -16,7 +16,7 @@ The Web site invites you to register with us on-line, by providing information t
 
 Informatica Corporation  
 Attn: Privacy   
-2100 Seaport Blvd  
+100 Cardinal Way  
 Redwood City, CA 94063  
 U.S.A.
 
@@ -52,7 +52,7 @@ You have the right to ask Informatica about the information we hold about you. I
 
 Informatica Corporation  
 Attn: Privacy   
-2100 Seaport Blvd  
+100 Cardinal Way  
 Redwood City, CA 94063 U.S.A.  
 Fax: 650-385-5500  
 [privacy@informatica.com](mailto:privacy@informatica.com)
@@ -65,4 +65,4 @@ In addition, if you have registered on my.informatica.com, you may log onto such
 
 This policy may be amended at any time, so please check back periodically. If you wish to be informed about any such change, please send an e-mail message [privacy@informatica.com](mailto:privacy@informatica.com)  with the subject line “PRIVACY POLICY UPDATES.”
 
-Privacy policy last updated: July 14, 2004
+Privacy policy last updated: January 5, 2005
