@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401214646id_/http%3A//www.hancockbank.com/home/home_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204035051id_/http%3A//hancockbank.com/home/home_privacy.asp) for the most accurate reproduction.*
 
 # Hancock Bank Privacy Policy
 
@@ -9,7 +9,7 @@
 
 __**PRIVACY POLICY NOTICE**__
 
-For over a century, we at Hancock Holding Company, Inc. have forged customer relationships built on strength, stability, integrity, and service. Hancock Holding Company is made up of a number of affiliated companies including Hancock Bank, Hancock Bank of Louisiana, Hancock Investments, Inc., Hancock Mortgage Company, Hancock Insurance Company, Harrison Life Insurance Company, and Harrison Finance Company (the "Affiliates" or "Hancock"), that work together in bringing you products and services to meet your financial needs. In choosing to do business with Hancock, you entrust us with financial information that is personally identifiable to you and not otherwise publicly available ("Confidential Information"). We honor your trust by protecting the privacy and security of Confidential Information that you and others share with us. We believe you should know how we collect, use and safeguard such personal information and what your options are as a valued customer of one of America’s strongest, safest full-service financial institutions. This Privacy Policy shall replace and supersede any previous privacy notices or policies of Hancock or other provisions relating to privacy matters.
+For over a century, we at Hancock Holding Company, Inc. have forged customer relationships built on strength, stability, integrity, and service. Hancock Holding Company is made up of a number of affiliated companies including Hancock Bank, Hancock Bank of Louisiana, Hancock Bank of Florida, Hancock Investments, Inc., Hancock Mortgage Company, Hancock Insurance Company, Harrison Life Insurance Company, Harrison Finance Company, and Magna Insurance Company (the "Affiliates" or "Hancock"), that work together in bringing you products and services to meet your financial needs. In choosing to do business with Hancock, you entrust us with financial information that is personally identifiable to you and not otherwise publicly available ("Confidential Information"). We honor your trust by protecting the privacy and security of Confidential Information that you and others share with us. We believe you should know how we collect, use and safeguard such personal information and what your options are as a valued customer of one of America’s strongest, safest full-service financial institutions. This Privacy Policy shall replace and supersede any previous privacy notices or policies of Hancock or other provisions relating to privacy matters.
 
 **_Collecting And Using Confidential Information To Serve Your Needs_**
 
@@ -37,7 +37,7 @@ Hancock primarily shares Confidential Information about you so that we may provi
 
 **_Sharing Information Within Hancock_**
 
-In order to provide you with greater access to financial products and services, Hancock shares Confidential Information between Affiliates within our corporate family, which includes financial service providers such as Hancock Bank and Hancock Bank of Louisiana, Hancock Mortgage Company, Hancock Investments, Inc., Hancock Insurance Company, Harrison Life Insurance Company, and Harrison Finance Company. To this end, Hancock may share amongst these Affiliates all the Confidential Information that we collect as more fully explained in that section titled "Collecting and Using Confidential Information To Service Your Needs." However, you can opt out of Hancock’s sharing some, but not all, Confidential Information with our Affiliates as discussed in greater detail later in this notice.
+In order to provide you with greater access to financial products and services, Hancock shares Confidential Information between Affiliates within our corporate family, which includes financial service providers such as Hancock Bank and Hancock Bank of Louisiana, Hancock Bank of Florida, Hancock Mortgage Company, Hancock Investments, Inc., Hancock Insurance Company, Harrison Life Insurance Company, Harrison Finance Company, and Magna Insurance Company. To this end, Hancock may share amongst these Affiliates all the Confidential Information that we collect as more fully explained in that section titled "Collecting and Using Confidential Information To Service Your Needs." However, you can opt out of Hancock’s sharing some, but not all, Confidential Information with our Affiliates as discussed in greater detail later in this notice.
 
 **_Sharing Information Outside Hancock_**
 
@@ -72,7 +72,16 @@ Affiliates within our corporate family that may receive this information include
 
 If you prefer that we do not share this information with our Affiliates, you may opt out of this sharing, that is, you may direct us not to share this information by calling us toll free at 1-888-416-4502. Also, you may write us at Hancock Bank, Attn: Privacy Officer, Post Office Box 4019, Gulfport, MS 39502 and provide us with your name, address and social security number.
 
+_Hancock will honor your opt-out request within a reasonable time and thereafter will not share this information with our Affiliates. However, when we receive your opt-out request a marketing program may already be underway and you may receive a marketing offer from an Affiliate resulting from information shared prior to Hancock receiving your opt-out request._
+
 Note: Your direction to opt out only covers certain information about you that we might otherwise share with our Affiliates. Even if you opt out, we may share other information about you with our Affiliates as permitted by law, such as information related to your transactions or other experiences with us. 
+
+**_Impact of An Opt-Out On Direct Marketing_**
+
+Hancock will also consider your decision to opt-out as a request not to receive future marketing offers from us by direct mail, telephone, and/or e-mail. Even if you opt-out, you will continue to be contacted as necessary to service your account, be contacted by your account representative, and receive marketing information included with your regular account mailings and statements.
+
+  
+
 
 **_Joint Customers_**
 
@@ -80,11 +89,31 @@ If two or more customers jointly obtain a financial product or service from us (
 
 Please note that third parties may obtain information about you from sources other than and independent of Hancock, such as from credit reporting agencies or public documents or records. Mailings and other solicitations based on such information are outside of Hancock’s control.
 
+**_How To Reduce Direct Marketing From Other Companies_**  
+If you want to remove your name from many national direct mail ists, send your name and address to:
+
+_DMA Mail Preference Service  
+P.O. Box 643   
+Carmel, NY 10512 _
+
+If you want to reduce the number of telephone solicitations from many national marketers, send your name, address, and telephone number to: 
+
+_DMA Telephone Preference Service  
+P.O. Box 1559  
+Carmel, NY 10512_
+
+This Privacy Policy applies to all companies within the Hancock Holding Company Family unless a Hancock company provides notice that a separate privacy policy applies to that company.
+
+  
+
+
 **_Hancock Holding Company Family_**
 
 Hancock Bank, [www.hancockbank.com](http://www.hancockbank.com/)
 
 Hancock Bank of Louisiana
+
+Hancock Bank of Florida
 
 Hancock Investments, Inc.
 
@@ -95,6 +124,8 @@ Hancock Insurance Company
 Harrison Life Insurance Company
 
 Harrison Finance Company
+
+Magna Insurance Company
 
 **_Web Site Privacy_**
 
@@ -131,7 +162,7 @@ A cookie is a small piece of information about an Internet session that may be c
 
 
 
-* **Except for Online Banking-HandyNet.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20040401214646id_/http%3A//www.hancockbank.com/banking/faq_online.html) for more information regarding the use of Cookies with Online Banking. 
+* **Except for Online Banking-HandyNet.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20041204035051id_/http%3A//hancockbank.com/banking/faq_online.html) for more information regarding the use of Cookies with Online Banking. 
 
 ** Use of Information Collected **  
 Hancock Bank uses the information collected from visitors to its Web sites to address the specific needs of those visitors and to provide better customer service, including the provision of the latest information regarding Hancock Bank products. The information collected also is used to provide a record of communications between Hancock Bank and its Web site visitors and to comply with any applicable legal and/or regulatory requirements. 
@@ -143,7 +174,7 @@ Certain Hancock Bank employees will be provided with a visitor's information in 
 Keeping your account information accurate and up-to-date is very important. If you ever find that our records are incomplete, inaccurate or not current, please call the telephone number on your account statement or email [customer service](mailto:%20service@hancockbank.com). We will correct the information as quickly as possible. 
 
 **Visitors**  
-Visitors having specific questions regarding any information may e-mail Hancock Bank at [service@hancockbank.com](mailto:service@hancockbank.com) or use the web site's [Feedback/Information Request Form](https://secure.hancockbank.com/banking/info.html).
+Visitors having specific questions regarding any information may e-mail Hancock Bank at [service@hancockbank.com.](mailto:service@hancockbank.com)
 
 |  |    
   
@@ -174,4 +205,4 @@ Visitors having specific questions regarding any information may e-mail Hancock 
   
   
   
-[Click Here](https://web.archive.org/home/ob_poll.asp)
+[Click Here](https://web.archive.org/web/20041204035051id_/http%3A//hancockbank.com/home/ob_poll.asp)
