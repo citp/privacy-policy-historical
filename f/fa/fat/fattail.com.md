@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fattail.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013125930id_/http%3A//www.fattail.com/Public/Privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fattail.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305191755id_/http%3A//www.fattail.com/Public/Privacy/privacy.htm) for the most accurate reproduction.*
 
 # FatTail Inc.
 
