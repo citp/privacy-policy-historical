@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031043521id_/http%3A//teletextholidays.co.uk/privacy.asp%3Farea%3Dgeneral) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604031029id_/http%3A//teletextholidays.co.uk/privacy.asp%3Farea%3Doverseas) for the most accurate reproduction.*
 
 # Teletext Holidays
 
-Teletext is committed to protecting your right to privacy and ensuring your enjoyment of our website. This Privacy Policy covers Teletext's use of any personal information you provide us with when using any part of the Teletext website and also any data that we share with our business partners. It does not apply to your use of the Internet outside of the Teletext website and we would advise that you review third party policies when using other websites. 
+Teletext is committed to protecting your right to privacy and ensuring your enjoyment of our website. This Privacy Policy covers Teletext's use of any personal information you provide us with when using any part of the Teletext website and also any data that we share with our business partners and other carefully selected third parties. It does not apply to your use of the Internet outside of the Teletext website and we would advise that you review third party policies when using other websites. 
 
 **What information do we collect about you?**
 
-Teletext collects personal information about you during the registration process for the My Teletext facility and when you register for certain other services on the Teletext pages. We may also collect specific information from other parts of the Teletext website, for example, when you enter into competitions. 
+Teletext collects personal information about you during the registration process for the My Teletext facility and when you register for certain other services on the Teletext pages. We may also collect specific information from other parts of the Teletext website, for example, when you enter competitions. 
 
 Details we collect include your name, address, date of birth, e-mail address, home telephone number and mobile telephone number. 
 
 **Who do we share information with and disclose information to?**
 
-The information you provide us with is held on Teletext computers based in the UK. It is collected to improve the service we offer to you by helping us to: customise any content and advertising you see, fulfil any requests you make on the website, and to allow us to notify you of any special offers or new products that we think may be of interest. 
+The information you provide us with is held on Teletext computers based in the UK. It is collected to improve the service we offer to you by helping us to: customise any content and advertising you see, fulfil any requests you make on the website, and to allow us to notify you of any special offers or new products that we think may be of interest. This may involve transferring data outside the European Economic Area. 
 
-We may disclose the information we collect about you to Teletext associates and carefully selected third parties. If you do not wish your details to be used for Teletext marketing purposes and/or passed on to third parties, then please tick the appropriate box on the registration or contact us by [email](mailto:webmaster@teletext.co.uk). 
+We may disclose the information we collect about you to Teletext associates and carefully selected third parties (both inside and outside the European Economic Area) to provide you with information on goods and services which may be of interest to you. If you do not wish your details to be used by Teletext or our associates and/or passed on to third parties, then please tick the appropriate box on the registration or contact us by [email](mailto:webmaster@teletext.co.uk). 
 
 **Use of Cookies**
 
-A cookie is a small text file which will be stored on your computer so that the Teletext website will recognise you when you revisit the website and show you information you have previously customised. We use cookies to provide a better service to you. All personal information will be held on our secure web servers [in the UK] and will not be available to other companies not associated with Teletext. 
+A cookie is a small text file which will be stored on your computer so that the Teletext website will recognise you when you revisit the website and show you information you have previously customised. We use cookies to provide a better service to you. All personal information will be held on our secure web servers in the UK and will not be available to other companies not associated with Teletext. 
 
 **Security**
 
