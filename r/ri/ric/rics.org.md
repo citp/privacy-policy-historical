@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rics.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606034413id_/http%3A//www.rics.org/global/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rics.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204131409id_/http%3A//rics.org/global/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
