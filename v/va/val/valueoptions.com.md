@@ -1,47 +1,24 @@
-> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622064822id_/http%3A//valueoptions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206091029id_/http%3A//www.valueoptions.com/privacy.htm) for the most accurate reproduction.*
 
-# ValueOptions.com Privacy Statement
+# Untitled Document
 
-**
-
-  
-ValueOptions.com Privacy Statement
-
-**
-
-| Link to [**ValueOptions Notice of Privacy Practices**](https://web.archive.org/web/20030622064822id_/http%3A//valueoptions.com/news/releases&news/privacy_policy.htm) |
+[**ValueOptions Notice of Privacy Practices**](https://web.archive.org/web/20031206091029id_/http%3A//www.valueoptions.com/newsroom/privacy_policy.htm)
 
 This Web site offered by ValueOptions, Inc. (the "ValueOptions site") is designed to help you learn more about getting help with life issues that are sensitive, emotional and often private. We respect your personal privacy and provide this informational statement so that you may better understand how we may collect and use aggregate and personal information about you. This Privacy Statement describes ValueOptions privacy and security practices for this Web site.
 
-**
-
-Your acceptance of these terms
-
-**
+**Your acceptance of these terms**
 
 By using this site, you signify your acceptance of the terms of the ValueOptions Privacy Statement. If you do not agree to the terms of this Privacy Statement, please do not use the ValueOptions site and exit the site immediately. Your continued use of the ValueOptions site following the posting of changes to these terms will mean that you accept those changes. 
 
-**
-
-Your IP address
-
-**
+**Your IP address**
 
 For each visitor to the ValueOptions site, ValueOptions servers automatically collect information about which pages are visited and the IP address or domain name ( _e.g._ , valueoptions.com) of visitors. We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is used to help identify you and to gather general demographic information.
 
-**
-
-Cookies
-
-**
+**Cookies**
 
 ValueOptions may place a "cookie" on the browser of your computer. Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. The use of cookies is common in the Internet industry, and many major web sites use them to provide useful features to their customers. The cookie itself does not contain any personally identifying information, but may be used to tell when your computer has contacted the ValueOptions site. ValueOptions uses the information for editorial purposes and for other purposes, such as delivery of features and advertisements, so that ValueOptions can customize delivery of information specific to your interests without compromising privacy. For example, we may use cookies to save your password so you don't have to re-enter it each time you visit our site.
 
-**
-
-Disclosing Information
-
-**
+**Disclosing Information**
 
 ValueOptions is the sole owner of the information collected from you on the ValueOptions site. We will not sell, share, rent, lease, trade or otherwise provide this information to independent third parties in ways different from what is disclosed in this Privacy Statement.
 
@@ -53,51 +30,27 @@ ValueOptions may disclose account information in special cases (i) to comply wit
 
 In the event that ValueOptions, or any component of ValueOptions' operations, is merged with, or is acquired by, another entity, then any such successor or acquiring entity may become the successor to our obligations with respect to the personal information that you have provided to ValueOptions, which would be necessary for the entity to effectively continue ValueOptions' business. By using the ValueOptions site, you consent to any such use of your personal information by such an entity assuming control of ValueOptions' operations as a result of a merger, purchase of ValueOptions assets, or liquidation of ValueOptions in bankruptcy or insolvency.
 
-**
-
-Links
-
-**
+**Links**
 
 This site contains links to other sites. ValueOptions is not responsible for the privacy practices or the content of such Web sites, including any sites that may indicate a special relationship or partnership with ValueOptions (such as co-branded pages and "powered by" relationships). ValueOptions does not disclose unique identifiers to those responsible for the linked sites. The linked sites, however, may collect personal information from you that is not subject to ValueOptions' control. To ensure protection of your privacy, always review the privacy policies of the sites you visit by linking from our Web site.
 
-**
-
-Our partner sites
-
-**
+**Our partner sites**
 
 Some of the services accessible to you from the ValueOptions site are actually performed by our partners. For example, eligibility inquiries are done through LifeNet on the LifescapePro site (http://www.lifescapepro.com). You can tell whether you are on the ValueOptions site or a partner site by checking the Internet address (URL) in your browser window. When you are on our partner sites, you are governed by our partner's privacy policy.
 
-**
-
-Security
-
-**
+**Security**
 
 This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. 
 
-**
-
-Your role in protecting your privacy
-
-**
+**Your role in protecting your privacy**
 
 If you share a terminal with others, you may want to consider establishing an anonymous e-mail account. In this way, e-mails that your receive from ValueOptions, which may reflect behavioral health issues of interest to you, cannot be linked to you. If you access ValueOptions.com through an e-mail account or Internet access system maintained by your employer, please note that it is possible that your employer may monitor your e-mail communications and Internet use.
 
-**
-
-Notification of changes
-
-**
+**Notification of changes**
 
 This Privacy Statement may be revised over time as new features are added to the Web site or as Internet security and privacy standards evolve. We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Statement each time you use the ValueOptions site, in case you missed our notice of changes to the Privacy Statement. 
 
-**
-
-Contacting us
-
-**
+**Contacting us**
 
 If you have any questions about this Privacy Statement, the practices of the ValueOptions site or your dealings with ValueOptions, you can contact us at: 
 
@@ -105,8 +58,6 @@ ValueOptions
 12369 Sunrise Valley Drive, Suite C  
 Reston, VA 20191
 
-Revised: December 28, 2000 
+Revised: September 2003
 
-| Link to [**ValueOptions Notice of Privacy Practices**](https://web.archive.org/web/20030622064822id_/http%3A//valueoptions.com/news/releases&news/privacy_policy.htm) |
-
-Privacy Statement 
+[**ValueOptions Notice of Privacy Practices**](https://web.archive.org/web/20031206091029id_/http%3A//www.valueoptions.com/newsroom/privacy_policy.htm)
