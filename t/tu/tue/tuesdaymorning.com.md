@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuesdaymorning.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204215226id_/http%3A//www.tuesdaymorning.com/ci/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuesdaymorning.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205023420id_/http%3A//www.tuesdaymorning.com/ci/privacy.asp) for the most accurate reproduction.*
 
 # Tuesday Morning
 
@@ -45,7 +45,7 @@ Back to Top
 
 **How do I remove my information from email, phone, and postal mailing lists?**
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us about our products and services via email or postal mail, you may unsubscribe at any time by visiting our [eTreasures Preference Center ](http://reg.cheetahmail.com/regp?aid=254972159&n=3)or simply respond to one of our email messages with “unsubscribe” in the subject line. 
+We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us about our products and services via email or postal mail, you may unsubscribe at any time by visiting our [eTreasures Preference Center ](http://etreasures.tuesdaymorning.com/)or simply respond to one of our email messages with “unsubscribe” in the subject line. 
 
 Please note, however, that unsubscribe requests may take up to six (6) weeks to be effective. In addition, if you ask us to remove your name and address from our email or postal mailing list, we maintain your name in a "do not mail" file for a period of time to ensure that we honor your request and can refer to the timeframe in which you directed this action. 
 
