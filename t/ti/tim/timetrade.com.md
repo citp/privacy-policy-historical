@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609142033id_/http%3A//www.timetrade.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417164606id_/http%3A//www.timetrade.com/privacy.asp) for the most accurate reproduction.*
 
 # TimeTrade Systems Inc - Legal Notices
 
