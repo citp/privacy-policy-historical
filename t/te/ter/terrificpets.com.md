@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the terrificpets.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605154922id_/http%3A//www.terrificpets.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrificpets.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207042146id_/http%3A//www.terrificpets.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Dogs - Cats - TerrificPets
+# Dogs - Cats - Horses - TerrificPets.com
 
 ### Privacy Policy
 
