@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602180313id_/http%3A//www.labtestsonline.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202142447id_/http%3A//labtestsonline.org/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
