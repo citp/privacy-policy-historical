@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229052935id_/http%3A//alltel.com/legal/privacy_stmt.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403104834id_/http%3A//alltel.com/legal/privacy_stmt.html) for the most accurate reproduction.*
 
 # ALLTEL Privacy Policy states that we limit the information collected about you to what is needed for conducting business and offering products and services that might be of interest to you.
 
