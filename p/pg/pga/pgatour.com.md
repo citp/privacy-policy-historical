@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205020355id_/http%3A//pgatour.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405014202id_/http%3A//pgatour.com/info/privacy) for the most accurate reproduction.*
 
 # PGATOUR.COM - Privacy Policy for PGATOUR.COM
 
@@ -174,4 +174,4 @@ Fort Lauderdale, Florida 33309 **
 Return to Top
 
    
-  |  |   |  [](http://www.michelob.com/) [](http://www.pgatour.com/tournaments/info/r)
+  |  |   |  [](http://www.titleist.com/) [](http://www.pgatour.com/tournaments/info/r)
