@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovingyou.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201195100id_/http%3A//www.lovingyou.com/info/content.shtml%3FID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovingyou.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004063017id_/http%3A//www.lovingyou.com/info/content.shtml%3FID%3Dprivacy) for the most accurate reproduction.*
 
 # Lovingyou.com: Love, Romance and Relationship Resources
 
@@ -44,9 +44,11 @@ We make chat rooms, forums, message boards, and news groups available to our use
 Children should always ask a parent for permission before sending personal information to anyone online. Lovingyou.com, Inc. does not share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age. In addition, Lovingyou.com, Inc. will not send any direct e-mail offers to users who indicate they are under the age of 13.
 
 **Cookies**  
-Lovingyou.com, Inc. places advertising on our sites that originates from outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, a cookie may be assigned by the advertiser. Lovingyou.com, Inc. does not control these cookies. 
+We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
 
-This site uses the services of Adtegrity.com for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Adtegrity.com collects and stores anonymous data typically through the use of cookies. To learn more about Adtegrity.com, including their privacy policy, go to <http://www.adtegrity.com/privacy.asp>.
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](https://web.archive.org/web/20021004063017id_/http%3A//www.lovingyou.com/info/www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies’ privacy policies
+
+This site also uses the services of Adtegrity.com for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Adtegrity.com collects and stores anonymous data typically through the use of cookies. To learn more about Adtegrity.com, including their privacy policy, go to <http://www.adtegrity.com/privacy.asp>.
 
 **Limitations**  
 Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
