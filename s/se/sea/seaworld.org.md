@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seaworld.org privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609160056id_/http%3A//seaworld.org/terms_of_use.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seaworld.org privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015234752id_/http%3A//www.seaworld.org/terms_of_use.htm) for the most accurate reproduction.*
 
 # SeaWorld/Busch Gardens Animal Information Database - Legal Statement
 
