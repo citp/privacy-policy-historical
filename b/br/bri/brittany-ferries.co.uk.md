@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brittany-ferries.co.uk privacy policy that was archived on 2003-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030406070624id_/http%3A//www.brittany-ferries.co.uk/index.cfm%3Farticleid%3D688) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brittany-ferries.co.uk privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209151427id_/http%3A//www.brittany-ferries.co.uk/index.cfm%3Farticleid%3D688) for the most accurate reproduction.*
 
-# Brittany Ferries - Security & Privacy
+# Ferry and Holiday service to France and Spain - Brittany Ferries - Security & Privacy
 
 Security & Privacy
 
