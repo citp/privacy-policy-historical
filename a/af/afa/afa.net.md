@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205033315id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610145939id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
 
 # AFA - American Family Association - Privacy Statement
 
