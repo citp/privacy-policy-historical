@@ -1,40 +1,59 @@
-> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2000-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000419152122id_/http%3A//michiganbulb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601105702id_/http%3A//michiganbulb.com/article_disp.asp%3Fai%3D131) for the most accurate reproduction.*
 
-# Michigan Bulb Company Privacy Statement
+# Michigan Bulb Co.
 
-**Privacy Policy:**
+|  **Michigan Bulb Co. Privacy Policy**  
+This is the web site of Michigan Bulb Co.
 
-November 23, 1999
+Our postal address:  
+Reservation Center  
+PO Box 4180  
+Lawrenceburg IN 47025-4180 
 
-Michigan Bulb Company has been a member of the Foster & Gallagher Horticulture Group since 1992. Foster & Gallagher, Inc. is a leading direct marketing company in the United States and Canada, providing quality products and services to millions of customers by direct mail, catalog, online stores, publications and other media.
+We can be reached via e-mail at service@michiganbulb.com
 
-The Michigan Bulb Company mailing address is:  
-Michigan Bulb Company  
-1950 Waldorf NW  
-Grand Rapids, MI 49550
+Telephone: 812.539.2496 
 
-Comments about our Privacy Policy may be sent by e-mail to **[customerservice@michiganbulb.com](mailto:customerservice@michiganbulb.com)**. We can also be reached by telephone at: 1-616-735-2100.
+For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
 
-When you visit our site, our server automatically recognizes the address of your Internet Service Provider (ISP) and, in some cases, your domain name. We cannot identify you individually from your screen name if you are using America Online or one of the other major online services. Our server also identifies your browser, your browser version, the operating system you are using, the pages you visit at our site and the Uniform Resource Locator (URL) of where you were on the internet if you clicked a link to www.michiganbulb.com.
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-We intend to continue improving the content and function of our site. For this reason, we gather the information mentioned above so that we can provide content of interest to you and a site that functions correctly on your computer system.
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes.
 
-If you place an order or request a catalog from us online, and do not indicate otherwise, we will add your e-mail address to the list of people who receive e-mail notification of special offers and other communications from us from time to time. We will also keep your e-mail address on file so we can contact you about your order. If you send e-mail to us, we will ask you, in our reply, if you would like to be added to our e-mail address list. You will not be added to our e-mail address list without your permission. We may, in the future, share your e-mail address with other businesses or organizations that have products or services we feel may be of interest to you.
+With respect to cookies: We use cookies to store visitors' preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-If you should change your mind and decide that you do not wish to receive e-mail from us or do not wish us to share your e-mail address with others, you may let us know by e-mail, send us a letter or give us a call.
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
-If you give us your telephone number online, we may call you about your order. If you would rather we not call you and communicate by e-mail only, please let us know by e-mail, send us a letter or give us a call. We will make every effort to comply with your request.
+The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. To learn more about our marketing partner, click here.
 
-Other information that may be requested of you includes: your name, address, city, state, zip code, the name(s) and full address(es) of your recipients and their phone number, also at times a gift message and your requested delivery date. Also, we collect your comments so we can better serve you in the future. Of course for orders, your items, the quantity of each item and bank card number with its expiration date is collected.
+If you do not want to receive e-mail from us in the future or if you do not wish to receive the above-mentioned mailings, please let us know by sending e-mail to us at the above address, or calling us at the above telephone number, or writing to us at the above address.
 
-We are committed to data security and the accuracy of our information (see **[Our Security Policy](https://web.archive.org/web/20000419152122id_/http%3A//michiganbulb.com/security.html)** ) received from domestic and foreign visitors to our site. Likewise, your recipient(s)' information is never shared with third parties. In addition, none of your information is merged with outside data for marketing purposes.
+In addition, you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending e-mail to us at the above address, or calling us at the above telephone number, or writing to us at the above address. If you prefer we do not share your name and address with marketing partners, please email us at service@michiganbulb.com.
 
-We do ask that you please review the acknowledgment of your request that you will receive to insure the accuracy of the information submitted to us. As noted earlier, your information is never shared with any third party when you let us know by e-mail, letter, phone or the do not solicit option on each location where we are collecting information. The only exception in response to your specific request for merchandise or information. It should be noted that if you do allow us to share information, the other companies may be governed by different privacy policies.
+If you agreed to receive email from our marketing partners, we will share with them your email address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your e-mail address if you have opted in by checking the box on the registration page. Additionally, each email our partners send you will include a description of the simple opt out process to enable you to stop receiving future e-mail.
 
-If you would like to receive a copy of your personal information on file, please e-mail us with the following information: e-mail address you use for correspondence with Michigan Bulb Company, Last Name, Zip code and your Account/Order number if available. After we receive your e-mail, we will process your request and advise you on how to make any corrections.
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
-If you have any questions, concerns, or comments about our privacy policies or practices, we would like to know what they are so we can address them. Please contact us at 1-616-735-2100.
+Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
-We may change our Privacy Policy at any time. Please return to this page every so often and let us know if you would like us to make changes in the way our Privacy Policy applies to you.
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-Enjoy your visit to Michigan Bulb. We hope you find what you are looking for.
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward.
+
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us e-mail at the above address, calling us at the above telephone number, writing us at the above address.
+
+Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them.
+
+Consumers can access this information by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
+
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, unique identifiers.
+
+Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
+
+With respect to security: When we transfer and receive certain types of sensitive information such as credit card information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau.
+
+| 
