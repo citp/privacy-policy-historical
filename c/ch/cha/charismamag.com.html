@@ -1,10 +1,68 @@
-<!--The following is the downloaded HTML source of the charismamag.com privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603230219id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the charismamag.com privacy policy that was archived on 2002-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602142932id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Strang Communications Online</title>
 
 <script language="JavaScript" src="http://www.strang.com/popups/strangpopup.js"></script>
+
+ <script language="JavaScript"> 
+ function simpleDialog(msg_header,msg) { 
+ features = 
+    'toolbar=no,location=no,directories=no,status=no,menubar=no,' +
+    'scrollbars=no,resizable=no,width=400,height=300,left = 312,top = 234' 
+ dlg = window.open ("","Dialog",features) 
+ dlg.document.write ("<BODY bgColor='white' text='black'>")
+ dlg.document.write ("<H2><font face='arial,helvetica' color='#000000'>",msg_header,"</font></H2><hr noshade>") 
+ dlg.document.write ("<font size='2'  face='arial,helvetica' color='#000000'>",msg,"</font>") 
+ dlg.document.write ("<hr noshade><br><FORM><CENTER>") 
+ dlg.document.write ("<INPUT type='button' value='Close Window' onClick = 'self.close()'>") 
+ dlg.document.write ("</CENTER></FORM>") 
+ } 
+ 
+ function verify(f){
+        var completed;
+        var completed = true;
+        var msg;
+		var toggle  
+		alert (f.modify_account.value);
+		alert (f.modify_account.selected);
+		alert (f.subscribe.value);
+		alert (f.subscribe.selected);
+		if ((f.subscribe.value=="Subscribe") || (f.modify_account.value=="Modify Account")){
+alert (f.modify_account.value);
+		alert (f.subscribe.value.value);
+		//if (f.useemail[0].checked==true){
+    		toggle='NO' 		
+            for (var i = 0; i < f.elements.length; i++){
+        	   	   //alert( f.elements[i].name);
+        	   	   //alert( f.elements[i].value);
+
+			   if (f.elements[i].name == "selected_group[]"){
+			   //if (f.elements[i].name == "selected_demographic[]"){
+        	   	   //alert( f.elements[i].name);
+        	   	   //alert( f.elements[i].value);
+        		   if( f.elements[i].checked) toggle = 'YES'
+        	   }
+        	}   
+      		if (toggle == 'NO'){
+                msg = "__________________________________________________\n\n";
+                msg += "Please select at least one newsletter before submitting\n";
+				//msg += "Please select at least one interest before submitting\n";
+                msg +="__________________________________________________\n\n";		   
+    			alert(msg);
+    		   return false;
+    		}else{
+    		   return true;
+    		}
+		//}else{
+		//	return true;
+		}	                                 
+		
+    
+}
+ 
+ </script>
 
 <style type="text/css">	<!--
 	.plain  {
@@ -96,10 +154,10 @@
 
 	<a href="http://www.christianretailing.com" target="_top" class="roll">Christian Retailing</a>&nbsp;|&nbsp;
 
-	<a href="http://www.inspirationalgiftware.com" target="_top" class="roll">Inspirational Giftware</a>&nbsp;|&nbsp;
 
 	<a href="http://www.charismanews.com" target="_top" class="roll">Charisma News Service</a>&nbsp;|&nbsp;
 
+<a href="http://www.siloampress.com" target="_top" class="roll">Charisma HealthTalk</a>&nbsp;|&nbsp;
 	<a href="http://www.christianlife.com" target="_top" class="roll">ChristianLife.com</a>&nbsp;|&nbsp;
 	
 	<a href="http://www.casacreacion.com" target="_top" class="roll">Casa Creación</a>&nbsp;|
@@ -117,7 +175,16 @@
 <tbody><tr>
     <td width="150" align="center" bgcolor="#001073"><img src="https://secure.strang.com/strang.com/images/logo.gif" width="150" height="67" border="0" alt=""></td>
     <td width="625" bgcolor="#001073" colspan="2" align="center">
-	<a href="http://www.strang.com/cgi-bin/ads.pl?banner=tccm" target="_blank"><img src="https://secure.strang.com/strang.com/banners/tccm2.gif" height="60" width="468" alt="" border="0"></a>
+
+<!-- START ADCYCLE SSI MEDIA CODE for Strang Communications Main Sites -->
+<script language="javascript">
+<!-- /* © 2001 AdCycle.com All Rights Reserved.*/ 
+document.cookie="i1=56:72:1:1023028969:823|||||||||||||||||||||||||||||||||||; path=/; expires=Tue, 02-Jul-2002 14:42:49 GMT";
+// -->
+</script>
+<!-- START ADCYCLE  HTML CODE --><a href="http://banners.strang.com/adclick.cgi?cid=56&amp;mid=72&amp;gid=7&amp;id=823" target="_blank"><img src="https://secure.strang.com/strang.com/banners/kami_banner5.gif" width="468" height="60" border="0" alt=""></a><br><!-- END ADCYCLE HTML CODE -->
+
+<!-- END ADCYCLE CODE -->
 	</td>
 </tr>
 <tr>
@@ -144,9 +211,13 @@ Newsletters</a><br>
 <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0">
 			<a href="http://www.strang.com/offer.htm" class="menu">Subscribe Online</a><br>
 			
+<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0">
+                        <a href="http://www.strang.com/bulksubs.html" class="menu">Bulk Subscriptions</a><br>
+
 <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> 
  			<a href="http://www.christianlife.com/chat" class="menu">Chat Now!</a><br>
-			
+
+
 <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> 
  			<a href="http://forums.strang.com" class="menu">Interactive Forums</a><br>		
 			
@@ -174,7 +245,11 @@ Newsletters</a><br>
 </tr>
 <tr>
     <td colspan="2" bgcolor="#99CCCC">
-	  <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="mailto:custsvc@strang.com" class="menu">Contact Us</a><br>
+	
+	  <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://www.strang.com/faq/" class="menu">FAQ</a><br>
+				
+
+<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="mailto:custsvc@strang.com" class="menu">Contact Us</a><br>
 
 
 <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> 
@@ -215,40 +290,23 @@ Newsletters</a><br>
 <tbody><tr>
 	<td align="center" valign="middle" style="background-color: Black;"><font color="#FFFFFF" style="font-family: Arial,
 Helvetica, sans-serif; font-size: 8pt; font-weight: bold;">SPECIAL EVENTS</font></td>
-	</tr><tr><td align="center" bgcolor="#2B66A2" ;=""><p><font color="#FFFFFF" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;">Updated as of <br> June 3, 2001</font></p></td></tr>
+	</tr><tr><td align="center" bgcolor="#2B66A2" ;=""><p><font color="#FFFFFF" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;">Updated as of <br> June 2, 2002</font></p></td></tr>
 	<tr>
 	<td style="background-color: #FEFEEB;"><font color="#000000" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt;">
 
-<!-- <b>New Man Chat Event</b><br>
-with Jay Bakker, son of Jim and Tammy Faye<br>
-May 14,  9 p.m. - 10 p.m. EDT<br>
-Topic: Reaching people the church has forgotten about<br>
-<a href="http://www.newmanmagazine.com/chat/"><font color="#FF0000">Chat Now</font></a>
-<br><br> -->
-
-<!-- <b>Charisma Chat Event</b><br>
-with Ray Comfort, founder of Living Waters evangelism ministry in Bellflower, Calif.<br>
-May 15,  9 p.m. - 10 p.m. EDT<br>
-Topic: Join Comfort to learn more about evangelism and "Hell's Best-Kept Secret."<br>
-<a href="http://www.charismamag.com/chat/"><font color="#FF0000">Chat Now</font></a>
-<br><br> -->
-
-<b>New Man Event 2001</b><br>
-Sponsored by New Man magazine<br>
-August 17-18, 2001<br>
-Peabody Hotel<br>
-International Drive<br>
-Orlando, FL<br>
-<a href="http://www.newmanmag.com/newman2001/"><font color="#FF0000">More Information
+<b>2002 CharismaLife Children's Ministry Conference</b><br>
+September 19-21, 2002<br>
+The New Marriott Conference Center<br>
+Lake Mary, Florida (Orlando)<br>
+<a href="http://cl.strang.com/conference/"><font color="#FF0000">More Information
 </font></a>
 <br><br>
 
-<b>CharismaLife Regional
-Conferences 2001</b><br>
-2001 Schedule
-Various Locations
-Nationwide<br>
-<a href="http://www.charismalife.com/services/conferences.htm"><font color="#FF0000">More Information
+<b>Women's Conference 2003</b><br>
+April 24-26, 2003<br>
+2003 Ocean Center Arena<br>
+Daytona Beach, Florida<br>
+<a href="http://www.spiritledwoman.com/womensconference/"><font color="#FF0000">More Information
 </font></a>
 
 </font></td></tr></tbody></table>
@@ -262,7 +320,7 @@ Nationwide<br>
 
 <div class="Section1">
 <font face="Arial,Helvetica">
-<h2>Privacy Statement</h2></font>
+<h2>Privacy Policy</h2></font>
 <p class="MsoNormal"><span style="font-size:10.0pt;font-family:Arial,Helvetica">At Strang
 Communications, we are committed to protecting your privacy. We use the
 information we collect about you to send you information about the latest
@@ -290,13 +348,17 @@ will we use it?</span></b> <span style="font-size:10.0pt;font-family:Arial,Helve
      mso-list:l1 level1 lfo3;tab-stops:list .5in"><span style="font-size:10.0pt;
      font-family:Arial,Helvetica">Us or our partners may also use the information collected to
      occasionally notify you about special promotions, events and products
-     updates, services and special offers you may find valuable. You must "opt-in" at <a href="http://www.strang.com.account.php">http://www.strang.com.account.php</a> in order to receive this information via email from our partners .</span>
+     updates, services and special offers you may find valuable. You must "opt-in" at <a href="http://www.strang.com/account.php">http://www.strang.com/account.php</a> in order to receive
+this information via email from our partners, but you will always receive special promotions,
+events and products
+     updates, services and special offers from us.</span>
      </li>
  <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
      mso-list:l1 level1 lfo3;tab-stops:list .5in"><span style="font-size:10.0pt;
      font-family:Arial,Helvetica">We do not sell your personal information to others.
      However, we do rent our customer list of subscribers from our print
-     magazine versions and offer our email lists availble to our partners of those subscriber whos have "opt-in." We may provide aggregate statistics about our
+     magazine versions and offer our email lists availble to our partners of those subscribers who have
+"opt-in." We may provide aggregate statistics about our
      customers, traffic patterns, and related demographic information to
      our partners, but these statistics will include no
      personally identifying information.</span></li>
@@ -492,35 +554,16 @@ disclose it. You will not receive these updates by snail mail or email.</span><b
 <br>
  </td>
  <td width="10"></td>
-   <td width="150" align="center" valign="top" bgcolor="#FFFFFF">
-   <a href="http://www.newmanmag.com/newman2001/"><img src="http://www.strang.com/images/nmad.gif" width="150" height="103" border="0" alt="NewMan 2001"></a><br>
+   <td width="150" align="center" valign="top" bgcolor="#FFFFFF"><br>
 <a href="http://www.strang.com/offer.htm"><img src="http://www.strang.com/images/giveget.gif" width="150" height="100" alt="" border="0"></a>
+<br><br>
+<a href="http://cbw.strang.com/specialdetails.pl?spec=1&amp;Source=CNSITE">
+ <img src="http://www.strang.com/images/chbooks.gif" width="150" alt="Save 73% Off Books" border="0"></a><br><br>
 
-<table border="0" bgcolor="#FCCE43" cellpadding="3" cellspacing="2" width="150"><tbody><tr><td align="center" valign="middle" style="background-color: Black;"><img src="http://www.charismalife.com/images/newslogo.gif" height="91" width="145" border="0" alt=""><br><font color="#FFFFFF" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;">RECENT NEWS</font></td></tr><tr><td align="left" valign="top" bgcolor="#FEFEEB"><b><font style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;"><a href="http://www.charismanews.com/news.cgi?a=602&amp;t=news.html">Court's Decision Enables Church to Overcome Babylon (New York)</a><br><font size="1"><i>May 30, 2001</i></font><br><br><a href="http://www.charismanews.com/news.cgi?a=601&amp;t=news.html">Young Missionaries Cross Racial Lines to Impact Inner City</a><br><font size="1"><i>May 29, 2001</i></font><br><br><a href="http://www.charismanews.com/news.cgi?a=600&amp;t=news.html">Missionaries Tell of High Cost of Spreading the Gospel</a><br><font size="1"><i>May 25, 2001</i></font><br><br><a href="http://www.charismanews.com/news.cgi?a=599&amp;t=news.html">Campaign Aims to Put 'Thou Shalt Not Kill' in Schools</a><br><font size="1"><i>May 24, 2001</i></font><br><br><a href="http://www.charismanews.com/news.cgi?a=598&amp;t=news.html">Shock Rocker Marilyn Manson Inspired by Faith Healer</a><br><font size="1"><i>May 23, 2001</i></font><br><br><a href="http://www.charismanews.com/news.cgi?a=597&amp;t=news.html">More Americans Experience God by Going Online </a><br><font size="1"><i>May 22, 2001</i></font><br><br></font></b></td></tr></tbody></table>
-
-
+<br><a href="http://www.strang.com/bulksubs.html"><img src="http://www.charismamag.com/images/funds.gif" height="100" width="150" border="0"></a><br>
 <br>
-<table border="0" bgcolor="#FCCE43" cellpadding="3" cellspacing="2" width="155">
-<tbody><tr>
-	<td align="center" valign="middle" style="background-color: Black;"><font color="#FFFFFF" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;">FROM THE PAGES OF. . .</font></td>
-	</tr><tr><td align="center" bgcolor="#2B66A2"><p><font color="#FFFFFF" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;">June 3, 2001</font></p></td></tr>
-	<tr>
-	<td style="background-color: #FEFEEB;"><font color="#000000" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt;">
-<table border="0" width="100%"><tbody><tr><td></td></tr><tr><td><a href="http://www.charismamag.com"><img src="http://www.charismamag.com/issues/cm601/cm601.gif" border="0" width="58" align="left"></a><font size="1" face="arial,helvetica"><b><a href="http://www.charismamag.com/issues/articledisplay.pl?&amp;d=cm60111&amp;MonthID=cm601">Stand In the Gap</a></b><br> When you pray for someone else, you are engaging in heaven's supernatural rescue mission. Here's how you can become an effective advocate for others in prayer.</font>
-<br><br>
-</td></tr><tr><td><a href="http://www.newmanmag.com"><img src="http://www.newmanmag.com/issues/nm501/nm501.gif" border="0" width="58" align="left"></a><font size="1" face="arial,helvetica"><b><a href="http://www.newmanmag.com/issues/articledisplay.pl?&amp;d=nm5018&amp;MonthID=nm501">Look Stronger, Feel Younger, Serve Him Longer!</a></b><br> </font>
-<br><br>
-</td></tr><tr><td><a href="http://www.ministriestoday.com"><img src="http://www.ministriestoday.com/issues/mt501/mt501.gif" border="0" width="58" align="left"></a><font size="1" face="arial,helvetica"><b><a href="http://www.ministriestoday.com/issues/articledisplay.pl?&amp;d=mt5011&amp;MonthID=mt501">Why People Leave The Church</a></b><br> It is unavoidable--people will leave your church, sometimes for valid reasons,</font>
-<br><br>
-</td></tr><tr><td><a href="http://www.vidacristiana.com"><img src="http://www.vidacristiana.com/issues/vc501/vc501.gif" border="0" width="58" align="left"></a><font size="1" face="arial,helvetica"><b><a href="http://www.vidacristiana.com/issues/articledisplay.pl?&amp;d=vc50111&amp;MonthID=vc501">Aires de Jabes</a></b><br> </font>
-<br><br>
-</td></tr><tr><td><a href="http://www.spiritledwoman.com"><img src="http://www.spiritledwoman.com/issues/slw601/slw601.gif" border="0" width="58" align="left"></a><font size="1" face="arial,helvetica"><b><a href="http://www.spiritledwoman.com/issues/articledisplay.pl?&amp;d=slw6011&amp;MonthID=slw601">A Balm In Gilead</a></b><br> </font>
-<br><br>
-</td></tr></tbody></table>
 
-</font></td></tr></tbody></table>
-<br>
-	<!-- ### END BODY HERE ### -->
+
 </td>
 </tr>
 </tbody></table>
@@ -531,6 +574,7 @@ disclose it. You will not receive these updates by snail mail or email.</span><b
 </tr>
 </tbody></table>
 </div>
+
 
 
 
