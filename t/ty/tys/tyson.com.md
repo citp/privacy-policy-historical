@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214141909id_/http%3A//tyson.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/privacy.asp) for the most accurate reproduction.*
 
 # Tyson Foods, Inc.: Privacy Policy
 
@@ -9,13 +9,13 @@
 [](https://web.archive.org/international/default.asp)  
 [](https://web.archive.org/cares/default.asp)  
 [](https://web.archive.org/investorrel/default.asp)  
-[](https://web.archive.org/web/20011214141909id_/http%3A//tyson.com/projectaplus/default.asp)  
+[](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/projectaplus/default.asp)  
 [](https://web.archive.org/corporate/default.asp)  
 [](https://web.archive.org/corporate/joinus/default.asp)  
-[](https://web.archive.org/web/20011214141909id_/http%3A//tyson.com/contactus.asp)  
+[](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/contactus.asp)  
 |  | 
 
-[Contact Us](https://web.archive.org/web/20011214141909id_/http%3A//tyson.com/contactus.asp) | Privacy Policy | [Disclaimer](https://web.archive.org/web/20011214141909id_/http%3A//tyson.com/disclaimer.asp) | [Information on Sponsorship and Donation Requests](https://web.archive.org/web/20011214141909id_/http%3A//tyson.com/sponsor.asp)  
+[Contact Us](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/contactus.asp) | Privacy Policy | [Disclaimer](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/disclaimer.asp) | [Information on Sponsorship and Donation Requests](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/sponsor.asp)  
 
 
 * * *
