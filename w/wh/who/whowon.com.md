@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whowon.com privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612161046id_/http%3A//whowon.com/whowonprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whowon.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204021100id_/http%3A//www.whowon.com/whowonprivacy.asp) for the most accurate reproduction.*
 
-# WhoWon.com Leaders In Motorsports Marketing
+# WhoWon.com Privacy Policy
 
   
 
@@ -19,7 +19,7 @@ Our web server tracks and collects general information about your visit to our w
 
 This data helps us to customize our website to better meet your on-line needs, so we may request and store the following types of specific information: your name, company name, street address, city, county, state, country, province, telephone numbers and e-mail addresses. This personally identifiable information is only collected when voluntarily submitted by a visitor in one of our on-line information or e-mail correspondence forms.
 
-WhoWon.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
+This site, WhoWon.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
 
 **C. Storage and Access** :
 
@@ -30,8 +30,6 @@ All personal information you provide to WhoWon.com is secured on our server with
 Because WhoWon.com considers the individual information we maintain to be confidential, our policy is to disclose no personal information to third parties unless release is required by law or is pertinent to judicial or government investigations or proceedings.
 
 We reserve the right to change this policy at any time by notifying visitors of the existence of the new privacy policy.
-
-* * *
 
   
 
