@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomelibrary.org privacy policy that was archived on 1999-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991222225639id_/http%3A//www.awesomelibrary.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomelibrary.org privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610224333id_/http%3A//www.awesomelibrary.org/privacy.html) for the most accurate reproduction.*
 
 # About the Awesome Library
 
