@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the sciencedaily.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623092249id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencedaily.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206195706id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
 
 # ScienceDaily: Our Privacy Policy
-
-  
-  
-
 
 Most web sites collect some sort of information about their visitors in order to gather statistics about how many visitors they get each month, what are the most and least popular pages on the web site, where there may be problems in serving certain pages to visitors, etc. In an effort to answer questions such as these, Science _Daily_ also collects certain basic information about its visitors. 
 
@@ -24,4 +20,8 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 If you wish not to have Science _Daily_ keep any records of your visit to our site, even though it is our policy not to personally identify individual users but only to gather overall cumulative information about our visitors, then we suggest that you use an anonymous web browsing service such as [Anonymizer.com](http://www.anonymizer.com/). Such services typically hide all information about particular users from web sites, which log visits from the anonymizing service instead of the users' own computers. 
 
-If you have any questions about our privacy policy, please contact Dan Hogan, editor of Science _Daily_ , at [editor@sciencedaily.com](mailto:editor@sciencedaily.com).
+If you have any questions about our privacy policy, please contact Dan Hogan, editor of Science _Daily_ , at [editor@sciencedaily.com](mailto:editor@sciencedaily.com).  
+  
+---  
+  
+Can't find it? Try searching Science _Daily_ or the entire web with:
