@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bose.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206190021id_/http%3A//www.bose.com/c_care/security/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bose.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603211757id_/http%3A//bose.com/c_care/security/policy) for the most accurate reproduction.*
 
 # Bose®: Customer Care, Privacy Statement
 
