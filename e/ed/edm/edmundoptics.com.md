@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edmundoptics.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402153944id_/http%3A//www.edmundoptics.com/Buy/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmundoptics.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401131938id_/http%3A//www.edmundoptics.com/Buy/Privacy.cfm) for the most accurate reproduction.*
 
 # Edmund Optics: Privacy Policy
 
-|  **Privacy Policy**
+**Privacy Policy**
 
 Edmund Industrial Optics, a subsidiary of Edmund Optics, Inc., recognizes the importance of your privacy. To ensure that your needs with regard to this are being met, please take a few moments to familiarize yourself with our policy. 
 
@@ -30,7 +30,7 @@ We also will disclose information concerning you when we believe in good faith t
 
 **Opt-Out Policies**
 
-If you do not want to receive e-mail, postal mailings or telephone calls from Edmund Industrial Optics in the future, please let us know by sending us an e-mail, calling us or writing us. Please specify what type of communication you don't want to receive and we will be sure to remove your name from our marketing list and those we share with others from the date we process your notice. 
+If you do not want to receive e-mail, postal mailings or telephone calls from Edmund Industrial Optics in the future, please let us know by sending us an e-mail or writing us. Please specify what type of communication you don't want to receive and we will be sure to remove your name from our marketing list and those we share with others from the date we process your notice. 
 
 Database Director  
 Edmund Industrial Optics  
@@ -67,5 +67,3 @@ Barrington, NJ 08007
 Phone: 800-363-1992  
 Fax: 856-573-6295  
 Email: [sales@edmundoptics.com](mailto:sales@edmundoptics.com)
-
-| 
