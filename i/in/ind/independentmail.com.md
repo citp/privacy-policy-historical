@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203093053id_/http%3A//www.independentmail.com/and/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610085727id_/http%3A//www.independentmail.com/and/privacy_policy) for the most accurate reproduction.*
 
 # Anderson Independent Mail: Privacy Policy
 
   
 Privacy Policy
 
- **June 24, 2003**
+ **June 25, 2003**
 
 IndependentMail.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Anderson Online we intend to give you as much control as possible over your personal information. 
 
