@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204172108id_/http%3A//erenterplan.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606171254id_/http%3A//www.erenterplan.com/privacy.asp) for the most accurate reproduction.*
 
 # eRenterPlan.com - Insurance for Apartment Residents.
 
