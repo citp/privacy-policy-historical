@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210013435id_/http%3A//www.unitedutilities.com/index.asp%3FSection%3DContextual_nav%26SubSection%3Dcopyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622080352id_/http%3A//www.unitedutilities.com/index.asp%3FSection%3DContextual_nav%26SubSection%3Dcopyright) for the most accurate reproduction.*
 
 # United Utilities : Copyright
 
