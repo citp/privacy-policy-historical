@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csc.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406031209id_/http%3A//www.csc.com/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csc.com privacy policy that was archived on 2002-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021124050547id_/http%3A//www.csc.com/privacy/index.shtml) for the most accurate reproduction.*
 
 # CSC: Privacy Policy
 
