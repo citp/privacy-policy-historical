@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trails-end.com privacy policy that was archived on 2000-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000416021536id_/http%3A//www.trails-end.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails-end.com privacy policy that was archived on 2001-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010125060300id_/http%3A//trails-end.com/html/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
