@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top40-charts.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082906id_/http%3A//top40-charts.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top40-charts.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207220241id_/http%3A//top40-charts.com/about/privacy.php) for the most accurate reproduction.*
 
-# Top40-Charts.com About - 35 Top 20 & Top 40 Music Charts from 24 Countries
+# About @ Top40-Charts.com - 35 Top 20 & Top 40 Music Charts from 24 Countries
 
 TOP40-CHARTS.COM PRIVACY STATEMENT 
 
