@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the tsohost.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403170448id_/http%3A//www.2ya.com/privacy_policy.php) for the most accurate reproduction.*
+
+# 2Ya.com Domain Name Registration and Services
+
+2Ya's policy is to respect and protect the privacy of our users. 2Ya will not disclose your personal information to third parties without your consent. 
+
+2Ya shares aggregate information about our users with advertisers, business partners, sponsors and other third parties. For example, we will say 2Ya's members consist of x percent females and y percent males. This data is used to target content and advertising. 
+
+Our site uses an online ordering system which enables clients to register domain names online, as well as access other products or services offered by 2Ya. 
+
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Any credit card or other sensitive information you enter is transmitted via SSL, a very strong encryption technology which is the Internet standard for safety and security. The importance of security for all personally identifiable information associated with our members is of utmost concern to us. We exercise great care in providing a secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. 
+
+As a result, while we strive to protect your personal information, 2Ya.com can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+
+Your credit card number is not stored on our server. Unlike many other services, we have chosen not to take up such practices. Your browser transmits it to our server through a 128-bit secure-socket layer. It then passes immediately through a secure gateway to our credit card processor who's entire business and infrastructure is dedicated to securely processing and handling credit card information. We only store the last 4 digits of your card so that you can recognize it later should you wish to choose to use the same card in future purchases or domain renewals. In such cases, we submit a transaction request to our credit card processor with the last 4 digits of your card number. They match it to the complete card information stored on their secure credit card servers. If you do not wish to store this information, you can simply clear out the billing info in your 2Ya account and we will transmit a request to remove all credit card data. Using this method of e-commerce is actually more secure. You will never need to type in your credit card number and transmit from your browser or through our server unless you should choose to use a new card number. 
+
+2Ya may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) 2Ya rights or property, other 2Ya users, or anyone else that could be harmed by such activities. 2Ya may disclose user information when we believe in good faith that the law requires it. 
