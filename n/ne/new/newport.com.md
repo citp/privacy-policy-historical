@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210021634id_/http%3A//www.newport.com/About_Us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622054849id_/http%3A//www.newport.com/About_Us/Privacy_Policy) for the most accurate reproduction.*
 
 # Newport | About Us | Privacy Policy
 
