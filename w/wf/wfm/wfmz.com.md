@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603071333id_/http%3A//www.wfmz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204194247id_/http%3A//www.wfmz.com/privacy.html) for the most accurate reproduction.*
 
 # WFMZ Online Privacy Statement
 
@@ -37,7 +37,7 @@ This site offers several services for which registration is required.  These in
 
 A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. WFMZ uses a cookie when you register for Stormcenter Update information, when you participate in one of our online surveys, and at other times.
 
-The Stormcenter Update cookie allows you to get your information faster, without having to enter your login and password each time you check for updates.  You may [CLICK HERE](https://web.archive.org/web/20020603071333id_/http%3A//www.wfmz.com/stormcenter/cookie.html) to learn about the Stormcenter Update cookie.
+The Stormcenter Update cookie allows you to get your information faster, without having to enter your login and password each time you check for updates.  You may [CLICK HERE](https://web.archive.org/web/20021204194247id_/http%3A//www.wfmz.com/stormcenter/cookie.html) to learn about the Stormcenter Update cookie.
 
 **Correct / update policy**
 
