@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202030421id_/http%3A//basenotes.net/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604074057id_/http%3A//www.basenotes.net/info/privacy.html) for the most accurate reproduction.*
 
-# Basenotes.com: Privacy Policy
+# Basenotes: Privacy Policy
 
-**Basenotes** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Basenotes ](http://www.basenotes.com/)
+**Basenotes** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Basenotes ](http://www.basenotes.net/)
 
 ####  Information Automatically Logged 
 
@@ -57,4 +57,6 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[ info@basenotes.com ](mailto:info@basenotes.com)
+[ info@basenotes.com ](mailto:info@basenotes.com)  
+  
+<�!-- #BeginLibraryItem "/Library/basemenu03.lbi" --><�div align="center"> <�table border="0" width="100%" cellspacing="0" cellpadding="0"> <�tr bgcolor="006600"> <�td width="11%"><�a href="/info/feedback.html"><�img src="/images/FBACK.gif" width="88" height="23" border="0" alt="feedback"><�/a><�/td> <�td width="74%"> <�div align="center"><�font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><�a href="/info/about.html"><�font color="#FFFFFF">about<�/font><�/a><�font color="#FFFFFF"> | <�a href="/info/credits.html"><�font color="#FFFFFF">credits<�/font><�/a> | <�a href="/info/feedback.html"><�font color="#FFFFFF">contact us<�/font><�/a> | <�a href="/info/thx.html"><�font color="#FFFFFF">thanks <�/font><�/a> | <�a href="/info/newsletter.html"><�font color="#FFFFFF">newsletter<�/font><�br> <�/a><�a href="/media/advertise/index.html"><�font color="#FFFFFF">advertise on this site<�/font><�/a> |<�/font><�/font><�font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"> <�a href="/media/index.html"><�font color="#FFFFFF">media info<�/font><�/a> |<�a href="/info/product.html"><�font color="#FFFFFF">info for manufacturers<�/font><�/a><�/font><�/div> <�/td> <�td width="15%"> <�div align="right"><�a href="#top"><�img src="/images/top.gif" width="38" height="23" border="0" alt="top"><�/a><�/div> <�/td> <�/tr> <�/table><�/div><�p> <�p align="center"><�font size="1" face="Verdana, Arial, Helvetica, sans-serif">This site is &copy; <�a href="/info/copyright.html">copyright<�/a> 1999-2004 Basenotes. Please read our <�a href="/info/disclaimer.html">disclaimer<�/a> and <�a href="/info/privacy.html">privacy policy<�/a>.<�/font> <�/p> <�!-- #EndLibraryItem -->
