@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koat.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520063912id_/http%3A//www.hearstargyle.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koat.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208132400id_/http%3A//www.hearstargyle.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
