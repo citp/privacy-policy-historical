@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402203959id_/http%3A//www.smm.org/aboutus/Notices/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209035556id_/http%3A//www.smm.org/aboutus/Notices/Privacy.php) for the most accurate reproduction.*
 
 # Information Privacy Statement
 
-Last updated October 24, 2000 
+Last updated June 24, 2002
 
 **Contact Information**   
 Science Museum of Minnesota   
@@ -22,6 +22,7 @@ Personal Information Collected by the Museum Online
 Other Information Collected by the Museum Online   
 The Science Museum Adult Computer Education Center   
 Cookies   
+Web Ticketing Services Provided by TM Vista   
 SSL Encryption   
 Children's Privacy on the Web   
 Use of Information  
@@ -77,6 +78,11 @@ Cookies are alphanumeric identifiers that are transferred to your computer's har
 
 back to top
 
+**Web Ticketing Services Provided by TM Vista**  
+Advanced reservation services on the World Wide Web are provided by VISTA Ticketing/museumtix.com. When a web user chooses this option for ticket reservations, his or her Web browser is linked to the museumtix.com site. Users on the museumtix.com site are subject to that site's privacy policies. Please refer to the [museumtix.com](http://www.museumtix.com/) site for detailed information. 
+
+back to top
+
 **SSL Encryption**  
 The Science Museum currently uses Secure Socket Layering (SSL) to encrypt certain types of sensitive information, such as financial information, while that data travels over the Internet. 
 
@@ -87,7 +93,7 @@ The Science Museum encourages families to visit the museum's Web site together a
 
 In compliance with the Children's Online Privacy Protection Act, we do our best to delete any information we inadvertently collect from children under the age of 13 who visit our Web site as soon as we gain actual knowledge of its existence. If you learn or suspect that your child has provided personal information to the Science Museum during one of his or her visits to our Web site, please contact the Membership or Development Office or, if your child visited the ACEC site, please call the ACEC directly. 
 
-To learn more about how to protect your child's privacy on the Web, please see "A Parent's Guide to Online Privacy" from the Center for Media Education at <http://www.kidzprivacy.org./>
+To learn more about how to protect your child's privacy on the Web, please see "A Parent's Guide to Online Privacy" from the Center for Media Education at <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/>
 
 back to top
 
