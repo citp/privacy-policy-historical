@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aviationcareer.com privacy policy that was archived on 2002-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020302085726id_/http%3A//aviationcareer.com/policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviationcareer.com privacy policy that was archived on 2002-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021105140858id_/http%3A//aviationcareer.com/policy/index.cfm) for the most accurate reproduction.*
 
 # Aviation Career Magazine - Privacy Policy
 
-_**World Employment Database. Inc.**_ has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for www.aviationcareer.net. 
+_**AviationCareer.net**_ has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for www.aviationcareer.net. 
 
 Our site's registration forms require users to give us contact information (such as their email address). We use this contact information from the registration forms to transmit our weekly newsletter, and also to send the users other relevant information. This information may be also used to contact the user if that becomes necessary. We may also collect demographic information in order to allow us to refine our website and newsletter to better serve our audience. Any information provided is at the users' own option. 
 
@@ -18,7 +18,7 @@ If for some reason you would rather not take advantage of the benefits made poss
 
 **Opt-In**
 
-E-mails sent from AviationCareer.net will only be sent to addresses of individuals who have requested to receive them, or to addresses of individuals who have registered at other websites within the WED Inc. family and have expressed a desire to receive aviation employment related information. 
+E-mails sent from AviationCareer.net will only be sent to addresses of individuals who have requested to receive them, or to addresses of individuals who have registered at other websites within the AviationCareer.net family and have expressed a desire to receive aviation employment related information. 
 
 **Opt-out**
 
@@ -36,8 +36,8 @@ This site makes chat rooms and bulletin boards available to its users, or provid
 
 If you have any questions about this privacy statement, the practices of the website, or your dealings with the website, you can contact:
 
-World Employment Database, Inc.   
-P.O. Box 550010   
+AviationCareer.net  
+P.O. Box 550070   
 Ft Lauderdale, FL 33355   
 Phone: 954-472-6684   
 Or e-mail to [editor@aviationcareer.net](mailto:editor@aviationcareer.net)
