@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217190041id_/http%3A//www.drugfree.org/Templates/About_Us_Article.asp%3Fws%3DPDFA%26vol%3D1%26grp%3DAbout%2Bus%26cat%3DLegal%26top%3DPrivacy%2BPolicy%26tit%3DPartnership%2Bfor%2Ba%2BDrug%252DFree%2BAmerica%253Cbr%253EPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618234756id_/http%3A//drugfree.org/Templates/About_Us_Article.asp%3Fws%3DPDFA%26vol%3D1%26grp%3DAbout%2Bus%26cat%3DLegal%26top%3DPrivacy%2BPolicy%26tit%3DPartnership%2Bfor%2Ba%2BDrug%252DFree%2BAmerica%253Cbr%253EPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # About us- Legal- Partnership for a Drug-Free America<br>Privacy Policy
 
