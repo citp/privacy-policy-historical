@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the saturn.com privacy policy that was archived on 2003-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604141644id_/http%3A//www.saturn.com/site_info/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saturn.com privacy policy that was archived on 2003-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031008091153id_/http%3A//saturn.com/site_info/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns:xalan="http://xml.apache.org/xalan"><head>
                 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -20,7 +20,7 @@
                 <table border="0" cellpadding="0" cellspacing="0" width="750">
                         <tbody><tr>
                                 <td>
-	<!-- $Id: top_nav.jsp,v 1.46.2.1 2003/04/15 22:36:06 rkennedy Exp $ -->
+	<!-- $Id: top_nav.jsp,v 1.49 2003/08/07 19:20:42 jlebeau Exp $ -->
 
 <style type="text/css">
 <!--
@@ -95,8 +95,103 @@ li
 
 <script language="JavaScript" type="text/javascript" src="/includes/top_nav.js"></script>
 
+
 		<table border="0" cellspacing="0" cellpadding="0">
-		<form name="topnavSearch" action="http://search.saturn.com/compass" method="GET" target="_top"></form>
+	<script language="JavaScript">
+	<!-- Hide Script
+	function VersionBrowser(Netscape, Explorer)
+	{
+			if ((navigator.appVersion.substring(0,3) >= Netscape && navigator.appName == 'Netscape') ||
+				(navigator.appVersion.substring(0,3) >= Explorer && navigator.appName.substring(0,9) == 'Microsoft'
+	))
+			{
+					return true;
+			}
+			else
+			{
+					return false;
+			}
+	}
+	
+	function countLetters(form)
+	{
+			var query = form.query.value;
+	
+			if (query.length == 0)
+			{
+					// Likely to be no words at all
+					form.query.value = '* ';
+					return(true);
+			}
+			else
+			{
+					return(true);
+			}
+	
+	}
+	
+	function checkForm(form)
+	{
+			x=countWords(form);
+			y=countLetters(form);
+	
+			if (VersionBrowser(3.0,4.0))
+			{
+					if (y==true)
+					{
+							if(x==true)
+							{
+									return(true);
+							}
+							else if (x==false)
+							{
+									msg = "For better results it is recommended that\n"+
+									"you describe your interest using a sentence.\n"+
+									"Click on OK to continue,\nor click on cancel to enter more text.\n";
+							}
+					}
+					else
+					{
+							return(true);
+					}
+			}
+			else
+			{
+					return(true);
+			}
+	}
+	
+	function countWords(form)
+	{
+			var query = form.query.value;
+	
+			var found=0;
+			var i;
+	
+			for (i=0; i<query.length;i++)
+			{
+					x=query.charAt(i);
+					if (x==" ")
+					{
+							found++;
+					}
+			}
+			if (found<1)
+			{
+					return false;
+			}
+			else
+			{
+					return true;
+			}
+	}
+		<!-- Variable for refresh handling-->
+		refresh= null;
+	
+	// ...finished Script hiding -->
+	</script>
+<form action="/Scripts/SearchServer.exe" method="GET" name="searchserver" target="_top"></form>
+	<input type="HIDDEN" name="method" value="mainQuery">
 			<tbody><tr valign="top">
 				<td><a href="/" target="_top"><img src="/images/top_nav/main-logo.gif" alt="Saturn" width="54" height="64" border="0"></a><br></td>
 				<td valign="top">
@@ -105,28 +200,34 @@ li
 						<td colspan="8" valign="top"><img src="/images/spacer.gif" width="1" height="10" border="0" alt=""><br></td>
 					</tr>
 					<tr>
-						<td><a href="/models/" onmouseover="imgOn('models');showtopnav('models')" onmouseout="imgOff('models')" target="_top"><img name="models" src="/images/top_nav/models-off.gif" width="63" height="20" border="0" alt="Models"></a><br></td>
-						<td><a href="/shop_and_buy/" onmouseover="imgOn('shopandbuy');showtopnav('shopandbuy')" onmouseout="imgOff('shopandbuy')" target="_top"><img name="shopandbuy" src="/images/top_nav/shopandbuy-off.gif" width="94" height="20" border="0" alt="Shop and Buy"></a><br></td>
-						<td><a href="/company/" onmouseover="imgOn('differentcompany');showtopnav('differentcompany')" onmouseout="imgOff('differentcompany')" target="_top"><img name="differentcompany" src="/images/top_nav/differentcompany-off.gif" width="111" height="20" border="0" alt="The Difference"></a><br></td>
-						<td><a href="/mysaturn/" onmouseover="imgOn('mysaturn');showtopnav('mysaturn')" onmouseout="imgOff('mysaturn')" target="_top"><img name="mysaturn" src="/images/top_nav/mysaturn-off.gif" width="85" height="20" border="0" alt="My Saturn"></a><br></td>
-						<td><a href="/talk_to_us/" onmouseover="imgOn('talktous');showtopnav('talktous')" onmouseout="imgOff('talktous')" target="_top"><img name="talktous" src="/images/top_nav/talktous-off.gif" width="80" height="20" border="0" alt="Talk to Us"></a><br></td>
-						<td><a href="/site_info/" onmouseover="imgOn('siteinfo');showtopnav('siteinfo')" target="_top"><img name="siteinfo" src="/images/top_nav/siteinfo-on.gif" width="85" height="20" border="0" alt="Site Info"></a><img src="/images/spacer.gif" width="30" height="1" border="0" alt=""><br></td>
+						<td valign="top"><a href="/models/" onmouseover="imgOn('models');showtopnav('models')" onmouseout="imgOff('models')" target="_top"><img name="models" src="/images/top_nav/models-off.gif" width="63" height="20" border="0" alt="Models"></a><br></td>
+						<td valign="top"><a href="/shop_and_buy/" onmouseover="imgOn('shopandbuy');showtopnav('shopandbuy')" onmouseout="imgOff('shopandbuy')" target="_top"><img name="shopandbuy" src="/images/top_nav/shopandbuy-off.gif" width="94" height="20" border="0" alt="Shop and Buy"></a><br></td>
+						<td valign="top"><a href="/company/" onmouseover="imgOn('differentcompany');showtopnav('differentcompany')" onmouseout="imgOff('differentcompany')" target="_top"><img name="differentcompany" src="/images/top_nav/differentcompany-off.gif" width="111" height="20" border="0" alt="The Difference"></a><br></td>
+						<td valign="top"><a href="/mysaturn/" onmouseover="imgOn('mysaturn');showtopnav('mysaturn')" onmouseout="imgOff('mysaturn')" target="_top"><img name="mysaturn" src="/images/top_nav/mysaturn-off.gif" width="85" height="20" border="0" alt="My Saturn"></a><br></td>
+						<td valign="top"><a href="/talk_to_us/" onmouseover="imgOn('talktous');showtopnav('talktous')" onmouseout="imgOff('talktous')" target="_top"><img name="talktous" src="/images/top_nav/talktous-off.gif" width="80" height="20" border="0" alt="Talk to Us"></a><br></td>
+						<td valign="top"><a href="/site_info/" onmouseover="imgOn('siteinfo');showtopnav('siteinfo')" target="_top"><img name="siteinfo" src="/images/top_nav/siteinfo-on.gif" width="85" height="20" border="0" alt="Site Info"></a><img src="/images/spacer.gif" width="30" height="1" border="0" alt=""><br></td>
 						<td align="right" valign="top">
-						<input type="text" name="scope" value="search" size="8" style="width: 75px; font-family: verdana; font-size: 8pt; background-color: #F0F0F0" onfocus="this.select()">
-						<input type="hidden" name="ui" value="sr">
-						<input type="hidden" name="page" value="1">
-						<input type="hidden" name="chunk-size" value="5">
-						<input type="hidden" name="view-template" value="saturn">
-						</td>
-						<td><a href="javascript:document.topnavSearch.submit()" target="_top"><input type="image" name="go" src="/images/top_nav/go_button.gif" width="39" height="23" hspace="3" border="0"></a><br></td>
+<input type="text" name="query" size="8" maxlength="30" value="search" style="width: 75px; font-family: verdana; font-size: 8pt; background-color: #F0F0F0"></td>
+						<td>
+							<input type="image" value="Query" onclick="return checkForm(this.form);" src="/images/top_nav/go_button.gif" width="39" height="23" hspace="3" border="0"></td>
 					</tr>
 				</tbody></table>
 				
 				    <img src="/images/spacer.gif" width="1" height="1" border="0" alt=""><img width="693" height="27" border="0" alt="" usemap="#site-info" src="/images/top_nav/site-info/privacy-policy-on.gif">
 				
 				</td>
-			</tr>
-		
+			</tr>							
+								<!--ATNMY_DATABASESELECTOR-->
+
+							<input type="hidden" name="numresults" value="-1">
+							<input type="hidden" name="querythreshold" value="10">
+							<input type="hidden" name="batchhits" value="5">
+		<input type="HIDDEN" name="refresh" value="">
+                <input type="HIDDEN" name="QuerySummaryCB" value="querysummary">
+		<script>
+		document.searchserver.refresh.value=refresh;
+		</script>
+
 		</tbody></table>
 
 
@@ -282,7 +383,7 @@ document.write('<im'+'g src="http://192.168.112.2O7.net/b/ss/gmsaturn/1/F.3-fb/s
 +'&server='+escape(s_wd.s_server?s_wd.s_server:(s_wd.server?s_wd.server:''))
 +'&ch='+escape(s_wd.s_channel?s_wd.s_channel:(s_wd.channel?s_wd.channel:''))
 +'&[AQE]" height="1" width="1" border="0" />')
-//--></script><img name="s_i_gmsaturn" height="1" width="1" border="0" src="https://102.112.2O7.net/b/ss/gmsaturn/1/G.2-XPd-S/s22940001636990?[AQB]&amp;ndh=1&amp;t=31/0/2020%2018%3A17%3A10%205%200&amp;g=https%3A//web.archive.org/web/20030604141644id_/http%3A//saturn.com/site_info/privacy_policy/&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
+//--></script><img name="s_i_gmsaturn" height="1" width="1" border="0" src="https://102.112.2O7.net/b/ss/gmsaturn/1/G.2-XPd-S/s24282023335170?[AQB]&amp;ndh=1&amp;t=31/0/2020%2018%3A17%3A16%205%200&amp;g=https%3A//web.archive.org/web/20031008091153id_/http%3A//saturn.com/site_info/privacy_policy/&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
 src="http://192.168.112.2O7.net/b/ss/gmsaturn/1/F.3-XELvs"
