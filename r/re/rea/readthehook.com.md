@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readthehook.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606033428id_/http%3A//readthehook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readthehook.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204050920id_/http%3A//www.readthehook.com/privacy.html) for the most accurate reproduction.*
 
-# The HooK: FAQ
+# The Privacy Policyin the Hook newspaper of Charlottesville
 
 >> [Back to The HooK front page  
 ](https://web.archive.org/)
