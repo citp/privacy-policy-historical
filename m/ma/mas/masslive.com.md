@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masslive.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207093838id_/http%3A//www.masslive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masslive.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603000024id_/http%3A//masslive.com/privacypolicy) for the most accurate reproduction.*
 
 # MassLive.com: Privacy Policy
 
@@ -62,7 +62,7 @@ Privacy Policy Coordinator
 41 Taylor Street  
 Springfield, MA 01103 
 
-|  | [](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.masslive.com/showcase/sliding.ssf/NQS/626573008/SponsorRight/default/empty.gif/64316564656561633366643266353130)   
+|  | [](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.masslive.com/showcase/sliding.ssf/NQS/589270424/SponsorRight/default/empty.gif/64316564656562303430626536613130)   
   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
@@ -72,7 +72,11 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.masslive.com/privacypolicy/index.ssf/NQS/241045311/Tile1/MASSLIVE/BERTDODGE02MA02/bertdodge_ramitT2.gif/64316564656561633366643266353130)   
+[](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.masslive.com/privacypolicy/index.ssf/NQS/1986369152/Tile1/MASSLIVE/SKAWSKIFARMS01MA04/skawski_190tileA.gif/64316564656562303430626536613130)   
+| **FROM OUR ADVERTISERS**  
+---  
+>> Find [Massachusetts Lawyers](http://www.massachusettslawyers.com/) \- [Personal Injury](http://www.personalinjuryattorney.com/), [Auto Accidents](http://www.caraccidentlawyers.net/), [Zicam](http://www.zicamsideeffects.com/), [Welding Rods](http://www.welding-rods-lawsuits.com/), [Social Security  Disability](http://www.disabilitybenefits.com/social_security_consultation.asp), [Massachusetts Attorneys](http://www.massachusettslawyers.net/), [Construction Accidents](http://www.industrial-accidents.info/), [Medical Malpractice](http://www.personal-injury.com/), [Welder](http://www.counselseek.com/WeldingRodsinjury.asp), [Parkinson’s](http://www.personal-injury.com/practice_areas.asp?ID=137&Practice=Parkinsons_Disease), [Cerebral Palsy](http://www.cerebral-palsy-help.com/), [SSDI](http://www.disabilitybenefits.com/), [Wrongful Death](http://www.wrongful-death.com/)   
+>>  [NEW! Find religious services in the Religious Directory.](http://ads1.advance.net/RealMedia/ads/click_lx.ads/www.masslive.com/privacypolicy/index.ssf/NQS/1668799629/TxtLink2/MASSLIVE/REPUBLICAN18MA01/RepubReligousLink.html/64316564656562303430626536613130?1668799629)  
   
   
 
