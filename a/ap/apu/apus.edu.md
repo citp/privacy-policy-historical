@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apus.edu privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205155044id_/http%3A//www.apus.edu/APUS/navigation/global/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apus.edu privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405041908id_/http%3A//www.apus.edu/APUS/navigation/global/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - APUS
 
