@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxsteel.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020131112id_/http%3A//maxsteel.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxsteel.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603150535id_/http%3A//maxsteel.com/policy.asp) for the most accurate reproduction.*
 
 # Mattel, Inc. Website Policies
 
