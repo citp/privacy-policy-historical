@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2002-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020208111354id_/http%3A//www.davedraper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211045644id_/http%3A//www.davedraper.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IronOnline Privacy Policy
 
@@ -58,12 +58,9 @@ If you have any questions about this privacy statement, the practices of this si
 
 Laree Draper Dave Draper's IronOnline P. O. Box 1335 Aptos, CA 95001 831-466-9182
 
-[What's New](https://web.archive.org/iron-online-whats-new.html) | [Online Store](http://davedraper.com/Merchant2/merchant.mv?Screen=SFNT&Store_Code=DDI) | [Weekly Columns](https://web.archive.org/dave-draper-columns.html) | [Photo Archive](https://web.archive.org/photo-archive-intro.html) | [Weight Training](https://web.archive.org/weight-training-tips-contents.html)   
-[General Nutrition](https://web.archive.org/nutrition-contents.html) | [Draper History](https://web.archive.org/bodybuilding-history-contents.html) | [Protein Information](https://web.archive.org/irononline-group-contents.html) | [Mag Cover Shots](https://web.archive.org/mag-cover-archive.html) | [Magazine Articles](https://web.archive.org/mag-muscle-contents.html)  
-[ Bodybuilding Q&A](https://web.archive.org/bodybuilding-questions-online.html) | [Bomber Talk](https://web.archive.org/draper-bomber-talk.html) | [Workout FAQs](https://web.archive.org/workout-faqs.html) | [Discussion Group](https://web.archive.org/irononline-group-contents.html) | [Santa Cruz Local](https://web.archive.org/santa-cruz-local-contents.html)   
-[Muscle Links](https://web.archive.org/muscle-links-new.html) | [World Gym Listing](https://web.archive.org/world-gym-list.html) | [Privacy Policy](https://web.archive.org/privacy-policy.html) | [Contact IronOnline](https://web.archive.org/contact-irononline.html) | [Site Map](https://web.archive.org/irononline-sitemap.html) [ ](https://web.archive.org/privacy-policy.html)
+[What's New](https://web.archive.org/iron-online-whats-new.html) | [Online Store](http://davedraper.com/Merchant2/merchant.mv?Screen=SFNT&Store_Code=DDI) | [Weekly Columns](https://web.archive.org/dave-draper-columns.html) | [Photo Archive](https://web.archive.org/photo-archive-intro.html) | [Weight Training](https://web.archive.org/weight-training-tips-contents.html) | [General Nutrition](https://web.archive.org/nutrition-contents.html) | [Draper History](https://web.archive.org/bodybuilding-history-contents.html) | [Discussion Group](https://web.archive.org/irononline-group-contents.html) | [Mag Cover Shots](https://web.archive.org/mag-cover-archive.html) | [Magazine Articles](https://web.archive.org/mag-muscle-contents.html) |[ Bodybuilding Q&A](https://web.archive.org/bodybuilding-questions-online.html) | [Bomber Talk](https://web.archive.org/draper-bomber-talk.html) | [Workout FAQs](https://web.archive.org/workout-faqs.html) | [World Gym Listing](https://web.archive.org/world-gym-list.html) | [Santa Cruz Local](https://web.archive.org/santa-cruz-local-contents.html) | [Muscle Links](https://web.archive.org/muscle-links-new.html) | [Need More Help?](https://web.archive.org/irononline-email-faqs.html) |[Site Map](https://web.archive.org/irononline-sitemap.html) | [Contact IronOnline](https://web.archive.org/contact-irononline.html) |[ Privacy Policy](https://web.archive.org/privacy-policy.html)
 
-_Contact Dave via email:[dave@davedraper.com](mailto:dave@davedraper.com)  
-All IronOnline pages copyright© 1999, 2000, 2001, 2002  
+  _  
+All IronOnline pages copyright© 1999, 2000, 2001, 2002, 2003  
 Dave Draper  
 All rights reserved._
