@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southbendtribune.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202152457id_/http%3A//www.southbendtribune.com/sbtprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbendtribune.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605065140id_/http%3A//www.southbendtribune.com/sbtprivacy.html) for the most accurate reproduction.*
 
 # South Bend Tribune Online Edition Privacy Policy
 
@@ -26,4 +26,4 @@ In some cases, we may automatically (i.e. not via registration) collect informat
 When you view our site, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. 
 
 **Concerns/More Information**  
-Please contact us with any concerns or questions. E-mail [ehirschler@sbtinfo.com](mailto:ehirschler@sbtinfo.com). 
+Please contact us with any concerns or questions. E-mail [jmarsh@sbtinfo.com](mailto:jmarsh@sbtinfo.com). 
