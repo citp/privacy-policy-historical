@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406033311id_/http%3A//www.oldnational.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012224423id_/http%3A//www.oldnational.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,7 +79,7 @@ ONB Finance Company, Inc.
 Rev.  12/01   
 Copyright © 2001 Old National Bancorp; All Rights Reserved
 
-[Download a pdf version of Old National's Privacy Policy](https://web.archive.org/web/20020406033311id_/http%3A//www.oldnational.com/privpol1201.pdf)
+[Download a pdf version of Old National's Privacy Policy](https://web.archive.org/web/20021012224423id_/http%3A//www.oldnational.com/privpol1201.pdf)
 
 ** pdf versions will save to your hard drive and are viewable with Acrobat Reader. If you do not have Acrobat you can download it [here free:
 
