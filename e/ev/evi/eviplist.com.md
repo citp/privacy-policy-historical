@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eviplist.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607061353id_/http%3A//64.176.242.234/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eviplist.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205070257id_/http%3A//64.176.242.234/privacy.html) for the most accurate reproduction.*
 
 # eVIPlist.com - Your exclusive VIP pass to the hottest parties & events
 
