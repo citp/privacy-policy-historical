@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.sa.gov.au privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002024556id_/http%3A//www.sa.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.sa.gov.au privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206203108id_/http%3A//www.sa.gov.au/privacy.html) for the most accurate reproduction.*
 
 # South Australia Central - Privacy Statement
 
@@ -22,7 +22,7 @@ Privacy Statement
 This statement sets out SA Central's policies relating to the privacy of your personal information.
 
 SA Central is operated in compliance with the South Australian Government's Information Privacy Principles, a copy of which can be obtained at:  
-<http://www.archives.sa.gov.au/services/public/privacy_index.html>.
+<http://www.premcab.sa.gov.au/pdf/circulars/Privacy.pdf>.
 
 The SA Central web site collects the following information from users: 
 
