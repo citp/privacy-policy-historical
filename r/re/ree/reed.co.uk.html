@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reed.co.uk privacy policy that was archived on 2002-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207214719id_/http%3A//www.reed.co.uk/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reed.co.uk privacy policy that was archived on 2003-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030618164930id_/http%3A//www.reed.co.uk/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -62,8 +62,8 @@
 		getTodaysDate()
 	//-->
 	</script></b> 
-	| <b>113,639
-</b> jobs online | <b>31,232
+	| <b>119,587
+</b> jobs online | <b>40,129
 </b> recruiters</div></td>
 	
 </tr>
@@ -71,9 +71,7 @@
 
 <!-- Main Layout Table -->
 
-%&gt;
-	
-<a href="#top" class="submitButton">back to top&nbsp;<img src="/images/core/buttonUp.gif" border="0" align="absmiddle"></a><table width="770" border="0" cellpadding="0" cellspacing="0">
+<table width="770" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 	<td width="146" valign="top">
 	
@@ -102,6 +100,7 @@
 <option value="92">Leisure/Tourism</option>
 <option value="168">Manufact/Production</option>
 <option value="18">Marketing/Advert/PR</option>
+<option value="1546">Pharmaceuticals</option>
 <option value="146">Prop/Constr/Trades</option>
 <option value="27">Purchasing</option>
 <option value="90">Retail</option>
@@ -126,7 +125,6 @@
 <option value="29">----Essex</option>
 <option value="31">----Hampshire</option>
 <option value="33">----Hertfordshire</option>
-<option value="200">----Isle of Wight</option>
 <option value="34">----Kent</option>
 <option value="141">----London &amp; M25</option>
 <option value="38">-----London</option>
@@ -136,12 +134,12 @@
 <option value="149">------North London</option>
 <option value="155">------South London</option>
 <option value="166">------West London</option>
+<option value="200">----Isle of Wight</option>
 <option value="41">----Middlesex</option>
 <option value="51">----Oxfordshire</option>
 <option value="61">----Surrey</option>
 <option value="65">----West Sussex</option>
 <option value="156">---South West</option>
-<option value="204">----Bath</option>
 <option value="15">----Bristol</option>
 <option value="20">----Cornwall</option>
 <option value="23">----Devon</option>
@@ -156,7 +154,7 @@
 <option value="148">---North East</option>
 <option value="26">----Durham</option>
 <option value="49">----Northumberland</option>
-<option value="62">----Teeside</option>
+<option value="62">----Teesside</option>
 <option value="63">----Tyne &amp; Wear</option>
 <option value="150">---North West</option>
 <option value="19">----Cheshire</option>
@@ -200,12 +198,57 @@
 <option value="18">-Channel Islands</option>
 <option value="171">-Isle of Man</option>
 <option value="5">Ireland</option>
+<option value="206">-Midlands</option>
+<option value="212">--Kildare</option>
+<option value="213">--Laois</option>
+<option value="214">--Longford</option>
+<option value="215">--Meath</option>
+<option value="216">--Offaly</option>
+<option value="217">--Westmeath</option>
+<option value="218">--Wicklow</option>
+<option value="207">-North East</option>
+<option value="219">--Cavan</option>
+<option value="220">--Louth</option>
+<option value="221">--Monaghan</option>
+<option value="208">-North West</option>
+<option value="222">--Donegal</option>
 <option value="202">--Galway</option>
+<option value="223">--Leitrim</option>
+<option value="224">--Sligo</option>
+<option value="209">-South East</option>
+<option value="225">--Carlow</option>
 <option value="25">--Dublin</option>
+<option value="226">--Kilkenny</option>
+<option value="227">--Waterford</option>
+<option value="228">--Wexford</option>
+<option value="210">-South West</option>
 <option value="201">--Cork</option>
+<option value="229">--Kerry</option>
 <option value="203">--Limerick</option>
+<option value="230">--Tipperary</option>
+<option value="211">-West</option>
+<option value="231">--Clare</option>
+<option value="232">--Mayo</option>
+<option value="233">--Roscommon</option>
 <option value="6">Europe</option>
-<option value="172">-Europe excl. UK</option>
+<option value="172">-Europe Exc. UK</option>
+<option value="237">--Austria</option>
+<option value="238">--Belgium</option>
+<option value="239">--Denmark</option>
+<option value="240">--Finland</option>
+<option value="241">--France</option>
+<option value="242">--Germany</option>
+<option value="243">--Greece</option>
+<option value="244">--Italy</option>
+<option value="245">--Luxembourg</option>
+<option value="246">--Netherlands</option>
+<option value="247">--Portugal</option>
+<option value="248">--Spain</option>
+<option value="249">--Sweden</option>
+<option value="251">Australia</option>
+<option value="252">Canada</option>
+<option value="253">New Zealand</option>
+<option value="254">South Africa</option>
 <option value="69">Rest of World</option>
 
 </select><br><select name="JobType" class="menuForm" onchange="JobType_OnChange('');">
@@ -254,6 +297,19 @@
 			case '':
 				break;
 			case '2':
+				salaryCombo.options.length = 10;
+salaryCombo.options[0] = new Option('Pay Rate...', ':', false, false);
+salaryCombo.options[1] = new Option('£4 - £5 per hr', '7800.00:9750.00', false, false);
+salaryCombo.options[2] = new Option('£5 - £7.50 per hr', '9750.00:14625.00', false, false);
+salaryCombo.options[3] = new Option('£7.50 - £10 per hr', '14625.00:19500.00', false, false);
+salaryCombo.options[4] = new Option('£10 - £12.50 per hr', '19500.00:24375.00', false, false);
+salaryCombo.options[5] = new Option('£12.50 - £15 per hr', '24375.00:29250.00', false, false);
+salaryCombo.options[6] = new Option('£15 - £20 per hr', '29250.00:39000.00', false, false);
+salaryCombo.options[7] = new Option('£20 - £25 per hr', '39000.00:48750.00', false, false);
+salaryCombo.options[8] = new Option('£25 - £30 per hr', '48750.00:58500.00', false, false);
+salaryCombo.options[9] = new Option('£30+ per hr', '58500.00:', false, false);
+
+				break;
 			case '4':
 				salaryCombo.options.length = 10;
 salaryCombo.options[0] = new Option('Pay Rate...', ':', false, false);
@@ -321,8 +377,8 @@ salaryCombo.options[9] = new Option('£100,000 +', '100000.00:', false, false);
 		{
 			if (maxSal == "")
 			{
-				// £30+ ph (58500.00) needs to map to 75-100k
-				var avgSal = (minSal == "58500.00") ? 80000 : parseFloat(minSal);
+				// £30+ ph (58500.00) and £35+ ph (68250.00) need to map to 75-100k
+				var avgSal = (minSal == "68250.00" || minSal == "58500.00") ? 80000 : parseFloat(minSal);
 			}
 			else
 			{
@@ -449,7 +505,7 @@ salaryCombo.options[9] = new Option('£100,000 +', '100000.00:', false, false);
 		
 		if (blnValid==false)
 		{
-			alert('In order to search for jobs on reed.co.uk you must select some search criteria');
+			alert('In order to search for jobs you must select some search criteria');
 		}
 		else
 		{
@@ -487,39 +543,39 @@ salaryCombo.options[9] = new Option('£100,000 +', '100000.00:', false, false);
 				<td><img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="1"></td>
 			</tr>
 			<tr class="navTable">
-				<td class="bgColorMid"><ilayer height="35px"><layer visibility="show"><span onclick="dropit2(dropmenu0,-3);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=sectors" onclick="if(document.layers) return dropit(event, 'document.dropmenu0')" class="navContent">Featured Sectors</a></span></layer></ilayer><br><ilayer height="35px"><layer visibility="show"><span onclick="dropit2(dropmenu1,16);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=specialisms" onclick="if(document.layers) return dropit(event, 'document.dropmenu1')" class="navContent">Specialist Interests</a></span></layer></ilayer><br><ilayer height="35px">
+				<td class="bgColorMid"><ilayer height="35px"><layer visibility="show"><span onclick="dropit2(dropmenu0,-3);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=sectors" onclick="if(document.layers) return dropit(event, 'document.dropmenu0')" class="navContent">Featured Sectors</a></span></layer></ilayer><br><ilayer height="35px"><layer visibility="show"><span onclick="dropit2(dropmenu1,16);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=specialisms" onclick="if(document.layers) return dropit(event, 'document.dropmenu1')" class="navContent">Specialist Interests</a></span></layer></ilayer><br><ilayer height="35px"><layer visibility="show"><span onclick="dropit2(dropmenu2,35);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=featuredClients" onclick="if(document.layers) return dropit(event, 'document.dropmenu2')" class="navContent">Featured Clients</a></span></layer></ilayer><br><ilayer height="35px"><layer visibility="show"><span onclick="dropit2(dropmenu3,54);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=research" onclick="if(document.layers) return dropit(event, 'document.dropmenu3')" class="navContent">Research</a></span></layer></ilayer><br><ilayer height="35px">
 <layer visibility="show">
-<span onclick="dropit2(dropmenu2,35);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=careerTools" onclick="if(document.layers) return dropit(event, 'document.dropmenu2')" class="navContent">Career Tools</a></span>
+<span onclick="dropit2(dropmenu4,73);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=careerTools" onclick="if(document.layers) return dropit(event, 'document.dropmenu4')" class="navContent">Career Tools</a></span>
 </layer>
 </ilayer><br>
 
 <ilayer height="35px">
 <layer visibility="show">
-<span onclick="dropit2(dropmenu3,54);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=forAgencies" onclick="if(document.layers) return dropit(event, 'document.dropmenu3')" class="navContent">For Agencies</a></span>
+<span onclick="dropit2(dropmenu5,92);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=forAgencies" onclick="if(document.layers) return dropit(event, 'document.dropmenu5')" class="navContent">For Agencies</a></span>
 </layer>
 </ilayer><br>
 
 <ilayer height="35px">
 <layer visibility="show">
-<span onclick="dropit2(dropmenu4,73);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=forEmployers" onclick="if(document.layers) return dropit(event, 'document.dropmenu4')" class="navContent">For Employers</a></span>
+<span onclick="dropit2(dropmenu6,111);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=forEmployers" onclick="if(document.layers) return dropit(event, 'document.dropmenu6')" class="navContent">For Employers</a></span>
 </layer>
 </ilayer><br>
 
 <ilayer height="35px">
 <layer visibility="show">
-<span onclick="dropit2(dropmenu5,92);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=companyInformation" onclick="if(document.layers) return dropit(event, 'document.dropmenu5')" class="navContent">About Reed</a></span>
+<span onclick="dropit2(dropmenu7,130);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=companyInformation" onclick="if(document.layers) return dropit(event, 'document.dropmenu7')" class="navContent">About Reed</a></span>
 </layer>
 </ilayer><br>
 
 <ilayer height="35px">
 <layer visibility="show">
-<span onclick="dropit2(dropmenu6,111);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=contactInformation" onclick="if(document.layers) return dropit(event, 'document.dropmenu6')" class="navContent">Contact Information</a></span>
+<span onclick="dropit2(dropmenu8,149);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=contactInformation" onclick="if(document.layers) return dropit(event, 'document.dropmenu8')" class="navContent">Contact Information</a></span>
 </layer>
 </ilayer><br>
 
 <ilayer height="35px">
 <layer visibility="show">
-<span onclick="dropit2(dropmenu7,130);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=help" onclick="if(document.layers) return dropit(event, 'document.dropmenu7')" class="navContent">Help</a></span>
+<span onclick="dropit2(dropmenu9,168);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=help" onclick="if(document.layers) return dropit(event, 'document.dropmenu9')" class="navContent">Help</a></span>
 </layer>
 </ilayer>
 </td>
@@ -529,11 +585,11 @@ salaryCombo.options[9] = new Option('£100,000 +', '100000.00:', false, false);
 			</tr>
 			</tbody></table>
 			
-			<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">	
-						<tbody><tr class="navTable"><td class="bgColorDark" height="18"><span class="navHeader">Tempted by temping?</span></td></tr>
+			<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><!-- <table width="146" border="0" cellpadding ="0" cellspacing="0">	
+						<tr class="navTable"><td class="bgColorDark" height="18"><span class="navHeader">Tempted by temping?</span></td></tr>
 						<tr><td><img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="1"></td></tr>
 						<tr class="navTable"><td class="bgColorMid"><span class="menuNotLink">You should be! Find a temp job which makes the most of your skills and experience&nbsp;<a href="/temping/"><img src="http://www.reed.co.uk/images/core/buttonRight.gif" align="absmiddle" border="0"></a></span></td></tr>
-						<tr class="navTable"><td class="bgColorMid"><img src="http://www.reed.co.uk/images/core/menuCutoff.gif" class="antiNavTable"></td></tr>	</tbody></table></td>
+						<tr class="navTable"><td class="bgColorMid"><img src="http://www.reed.co.uk/images/core/menuCutoff.gif" class="antiNavTable"></td></tr>	</table> --></td>
 	<td valign="top" class="contentCell"><!-- Content start -->	<h4>Reed Online Privacy Policy</h4>
 	<b>Why do we have a privacy policy? </b>
 	<br><a href="#reed">Reed</a> is committed to privacy for everyone who accesses the site.  Under the <a href="#protection">Data Protection Acts</a> of 1984 and 1998, we must comply with certain regulations which are designed to ensure that any <a href="#data">data</a> you provide to us is processed with due care and attention.
@@ -566,36 +622,36 @@ salaryCombo.options[9] = new Option('£100,000 +', '100000.00:', false, false);
 
 	<h4>Terminology</h4>
 
-	<a name="aggregate"><b>Aggregate</b> - this is when all data is collected and processed as a total to enable us to look at such information as demographic and geographic trends, so that we can try to produce a better service in the future.
+	<a name="aggregate"><b>Aggregate</b></a> - this is when all data is collected and processed as a total to enable us to look at such information as demographic and geographic trends, so that we can try to produce a better service in the future.
 	
-	</a><p><a name="aggregate"></a><a name="archiving"><b>Archiving</b> - this is the process where candidate users are asked if they want their personal data to remain on the reed.co.uk database. If a user does not indicate that they wish their details to be retained, their record is deleted from the database.  This means that the candidate will not be able to sign in to reed.co.uk and also means that their details will not be accessible by any recruiters using reed.co.uk. Please note this process is carried out in accordance with the Employment Agencies Act and the Data Protection Act.
+	<p><a name="archiving"><b>Archiving</b></a> - this is the process where candidate users are asked if they want their personal data to remain on the reed.co.uk database. If a user does not indicate that they wish their details to be retained, their record is deleted from the database.  This means that the candidate will not be able to sign in to reed.co.uk and also means that their details will not be accessible by any recruiters using reed.co.uk. Please note this process is carried out in accordance with the Employment Agencies Act and the Data Protection Act.
 
 	
-	</a></p><p><a name="data"><b>Data</b> - information which is being processed by equipment operating automatically in response to instructions given for that purpose, is recorded with the intention that it should be processed by means of such equipment, is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system or forms part of an accessible record.   
+	</p><p><a name="data"><b>Data</b></a> - information which is being processed by equipment operating automatically in response to instructions given for that purpose, is recorded with the intention that it should be processed by means of such equipment, is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system or forms part of an accessible record.   
 	
-	</a></p><p><a name="protection"><b>Data Protection Acts 1984 and 1998</b> - these are the Acts of Parliament which set out principles relating to the use of data to ensure that the rights of the person who is the subject of the data are protected under the law.   
+	</p><p><a name="protection"><b>Data Protection Acts 1984 and 1998</b></a> - these are the Acts of Parliament which set out principles relating to the use of data to ensure that the rights of the person who is the subject of the data are protected under the law.   
 	
-	</a></p><p><a name="personal"><b>Personal data</b> - data which relates to a living individual who can be identified from those data, or from those data and other information which is in the possession of, or is likely to come into the possession of, Reed.   
+	</p><p><a name="personal"><b>Personal data</b></a> - data which relates to a living individual who can be identified from those data, or from those data and other information which is in the possession of, or is likely to come into the possession of, Reed.   
 	
-	</a></p><p><a name="personal"><b>Privacy policy</b> - this is a statement by Reed which explains the ways that we try to protect our users' privacy.
+	</p><p><b>Privacy policy</b> - this is a statement by Reed which explains the ways that we try to protect our users' privacy.
 	
-	</a></p><p><a name="recruitment"><b>Recruitment process</b> - the process of gaining employment and advertising for and recruiting new staff and the ongoing administrative process involved once a user has gained employment or recruited new staff.
+	</p><p><a name="recruitment"><b>Recruitment process</b></a> - the process of gaining employment and recruiting new staff and the ongoing administrative process involved once a user has gained employment or recruited new staff.
 	
-	</a></p><p><a name="reed"><b>Reed</b> - Reed Executive plc and its subsidiary/associated companies.
+	</p><p><a name="reed"><b>Reed</b></a> - Reed Executive plc and its subsidiary/associated companies.
 	
-	</a></p><p><a name="sensitive"><b>Sensitive personal data</b> - personal data consisting of information as to the racial or ethnic origin of the data subject, political opinions, religious beliefs or other beliefs of a similar nature, membership of a trade union, physical or mental health or condition, sexual life, the commission or alleged commission of any offence or any proceedings related to any offence.
+	</p><p><a name="sensitive"><b>Sensitive personal data</b></a> - personal data consisting of information as to the racial or ethnic origin of the data subject, political opinions, religious beliefs or other beliefs of a similar nature, membership of a trade union, physical or mental health or condition, sexual life, the commission or alleged commission of any offence or any proceedings related to any offence.
 	
-	</a></p><p><a name="third"><b>Third Parties</b> - these are companies and people other than Reed and the group of companies of which it is part.  
+	</p><p><a name="third"><b>Third Parties</b></a> - these are companies and people other than Reed and the group of companies of which it is part.  
 	
-	</a></p><p><a name="users"><b>Users</b> - people who use our website and register their details with us for the purposes of recruitment, either to gain employment or for the purposes of advertising and recruiting new staff. 
+	</p><p><a name="users"><b>Users</b></a> - people who use our website and register their details with us for the purposes of recruitment, either to gain employment or for the purposes of recruiting new staff. 
 	
-	<br></a><a href="#top">back to top</a>
+	<br><a href="#top">back to top</a>
 	
 	</p><p><br>If you have any queries about our privacy policy, please use the form below to get in touch with us.
 	
 	
 </p><form method="post" action="/cgi-bin/enquiryFormHandler.asp">
-	<table cellpadding="0" cellspacing="0" border="0" align="center" width="450">
+	<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
 	
 		<input type="hidden" name="Form_Code" value="reed.co.uk"> <input type="hidden" name="Priority" value="B">
 		<tbody><tr>
@@ -643,17 +699,18 @@ salaryCombo.options[9] = new Option('£100,000 +', '100000.00:', false, false);
 		</tr>
 		<tr>
 			<td colspan="2" align="right">
-				<textarea name="Query_Content" rows="8" cols="53"></textarea>
+				<textarea name="Query_Content" rows="8" cols="47"></textarea>
 				<br>
 				<input type="submit" value="submit">
 			</td>
 		</tr>
 	</tbody></table>
-	&lt;%'</form></td></tr><tr><td><a href="/cgi-bin/systemInfo.asp">System Info</a></td></tr>
+	
+</form>
 
-	 
+	<a href="#top" class="submitButton">back to top&nbsp;<img src="/images/core/buttonUp.gif" border="0" align="absmiddle"></a> 
 
-	<!-- Content end --><tr><td width="146" valign="top">
+	<!-- Content end --></td><td width="146" valign="top">
 	
 	<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">
 	<form action="/cgi-bin/login.asp" method="post" name="signIn"></form>
@@ -696,35 +753,65 @@ salaryCombo.options[9] = new Option('£100,000 +', '100000.00:', false, false);
 	<!-- Specialist Info -->
 	<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr class="navTable">
-		<td class="bgColorDark" height="18"><span class="navHeader">Featured Sectors</span></td>
+		<td class="bgColorDark" height="18"><span class="navHeader">Tempted by temping?</span></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="1"></td>
+		<td><img src="/images/core/miscSpacer.gif"></td>
 	</tr>
 	<tr class="navTable">
-		<td class="bgColorMid"><a href="http://www.reed.co.uk/finance/" class="navContent">Accountancy &amp; Banking</a><br>
-		<a href="http://www.reed.co.uk/admin/" class="navContent">Admin, PA &amp; Secretarial</a><br>
-		<a href="http://www.reed.co.uk/catering/" class="navContent">Catering &amp; Hospitality</a><br>
-		<a href="http://www.reed.co.uk/education/" class="navContent">Education</a><br>
-		<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="4"><br><a href="http://www.reed.co.uk/engineering/" class="navConClose">Engineering, Property &amp; Construction</a><br>
-		<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="3"><br><a href="http://www.reed.co.uk/graduates/" class="navContent">Graduates</a><br>
-		<a href="http://www.reed.co.uk/health/" class="navContent">Health &amp; Social Care</a><br>
-		<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="4"><br><a href="http://www.reed.co.uk/recruitment/" class="navConClose">HR, Recruitment &amp; Training</a><br>
-		<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="7"><br><a href="http://www.reed.co.uk/insurance/" class="navConClose">Insurance &amp; Financial Services</a><br>
-		<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="3"><br><a href="http://www.reed.co.uk/it/" class="navContent">IT &amp; Comms</a><br>
-		<a href="http://www.reed.co.uk/legal/" class="navContent">Legal</a><br>
-		<a href="http://www.reed.co.uk/marketing/" class="navContent">Marketing &amp; PR</a><br>
-		<a href="http://www.reed.co.uk/sales/" class="navContent">Sales</a>
-		</td>
+		<td class="bgColorMid"><span class="cellNotLink">Find a temp job which makes the most of your skills and experience <a href="/cgi-bin/banner_tracker.asp?name=TEMPINGHompageRightLink&amp;url=/temping/"><img src="/images/core/buttonRight.gif" alt="Information" align="texttop" border="0"></a></span></td>
 	</tr>
 	<tr class="navTable">
-		<td class="bgColorMid"><img src="http://www.reed.co.uk/images/core/menuCutoff.gif" class="antiNavTable"></td>
+		<td class="bgColorMid"><img src="/images/core/menuCutoff.gif" class="antiNavTable"></td>
+	</tr>
+	</tbody></table>
+		<img src="/images/core/miscSpacer.gif"><table width="146" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr class="navTable">
+		<td class="bgColorDark" height="18"><span class="navHeader">Public Sector</span></td>
+	</tr>
+	<tr>
+		<td><img src="/images/core/miscSpacer.gif"></td>
+	</tr>
+	<tr class="navTable">
+		<td class="bgColorMid"><span class="cellNotLink">Do you want to work in the UK's fastest growing sector? <a href="/cgi-bin/banner_tracker.asp?name=PUBLICHompageRightLink&amp;url=/public/"><img src="/images/core/buttonRight.gif" alt="Information" align="texttop" border="0"></a></span></td>
+	</tr>
+	<tr class="navTable">
+		<td class="bgColorMid"><img src="/images/core/menuCutoff.gif" class="antiNavTable"></td>
+	</tr>
+	</tbody></table>
+	<img src="/images/core/miscSpacer.gif"><table width="146" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr class="navTable">
+		<td class="bgColorDark" height="18"><span class="navHeader">CV Builder</span></td>
+	</tr>
+	<tr>
+		<td><img src="/images/core/miscSpacer.gif" height="1"></td>
+	</tr>
+	<tr class="navTable">
+		<td class="bgColorMid"><span class="cellNotLink">If you need a new CV, why not use our free CV builder... <a href="javascript:toolbarOnWindow('/cgi-bin/banner_tracker.asp?name=CVBuilderHompageRightLink&amp;url=/cgi-bin/cvBuilder.asp','','650','490');"><img src="/images/core/buttonRight.gif" alt="Information" align="texttop" border="0"><br></a></span></td>
+	</tr>
+	<tr class="navTable">
+		<td class="bgColorMid"><img src="/images/core/menuCutoff.gif" class="antiNavTable"></td>
+	</tr>
+	</tbody></table>
+	<img src="/images/core/miscSpacer.gif"><table width="146" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr class="navTable">
+		<td class="bgColorDark" height="18"><span class="navHeader">Freecruitment</span></td>
+	</tr>
+	<tr>
+		<td><img src="/images/core/miscSpacer.gif"></td>
+	</tr>
+	<tr class="navTable">
+		<td class="bgColorMid"><span class="cellNotLink">Completely free online recruitment: post your jobs on reed.co.uk<br>now <a href="/cgi-bin/banner_tracker.asp?name=FREECRUITMENTHompageRightLink&amp;url=/freecruitment/"><img src="/images/core/buttonRight.gif" alt="Information" align="texttop" border="0"></a><br></span></td>
+	</tr>
+	<tr class="navTable">
+		<td class="bgColorMid"><img src="/images/core/menuCutoff.gif" class="antiNavTable"></td>
 	</tr>
 	</tbody></table>
 <!-- End Specialist Info -->
-<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0"><tbody><tr class="navTable"><td class="bgColorDark" height="18"><span class="navHeader">Freecruitment</span></td></tr><tr><td><img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="1"></td></tr><tr class="navTable"><td class="bgColorMid"><div class="menuNotLink">It's free to recruit through reed.co.uk</div><div align="right"><a href="/freecruitment/" class="submitButton">Recruit now<span style="text-decoration:none;">&nbsp;</span><img src="http://www.reed.co.uk/images/core/buttonRight.gif" align="absmiddle" border="0" hspace="1"></a></div></td></tr><tr class="navTable"><td class="bgColorMid"><img src="http://www.reed.co.uk/images/core/menuCutoff.gif" class="antiNavTable"></td></tr></tbody></table></td>
+</td>
 </tr>
 </tbody></table></center>
+
 
 
 
@@ -756,6 +843,7 @@ for (i=0;i<menu3.length;i++)
 document.write(menu3[i])
 </script>
 </div>
+
 <div id="dropmenu4" style="position:absolute; width:148; visibility:hidden; HEIGHT: 0px; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
 <script language="JavaScript1.2">
 if (document.all)
@@ -784,7 +872,21 @@ for (i=0;i<menu7.length;i++)
 document.write(menu7[i])
 </script>
 </div>
+<div id="dropmenu8" style="position:absolute; width:148; visibility:hidden; HEIGHT: 0px; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
+<script language="JavaScript1.2">
+if (document.all)
+for (i=0;i<menu8.length;i++)
+document.write(menu8[i])
+</script>
+</div>
+<div id="dropmenu9" style="position:absolute; width:148; visibility:hidden; HEIGHT: 0px; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
+<script language="JavaScript1.2">
+if (document.all)
+for (i=0;i<menu9.length;i++)
+document.write(menu9[i])
+</script>
+</div>
 
 <!-- End of Page -->
 
-<!-- REEDWWW1 --></body></html>
+<!-- REEDWWW3 --></body></html>
