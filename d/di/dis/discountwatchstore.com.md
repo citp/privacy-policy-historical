@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountwatchstore.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605132257id_/http%3A//discountwatchstore.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountwatchstore.com privacy policy that was archived on 2004-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040812020740id_/http%3A//www.discountwatchstore.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
