@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603114215id_/http%3A//www.birthdayinabox.com/lobby.asp%3FupperRight%3D%252FUpperRightImages%252Fmother%255Fdaughter%252Ejpg%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010060330id_/http%3A//www.birthdayinabox.com/lobby.asp%3FupperRight%3D%252FUpperRightImages%252Fbubble%255Fkids%252Ejpg%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Children's Birthday Party Supplies & Theme Party Favors
 
