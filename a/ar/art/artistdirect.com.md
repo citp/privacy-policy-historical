@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203010528id_/http%3A//network.artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603201337id_/http%3A//network.artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
 
 # Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTIST direct Network
 
@@ -7,7 +7,7 @@
 **Privacy Policy Overview**  
 We understand your need to maintain your privacy when using the Internet for your communication, shopping, exploration, and play. To make sure you understand our approach to online privacy issues, you MUST read this Privacy Policy and our Terms of Use as a condition to using the ARTISTdirect Network.
 
-We ask you for your personal information when you sign up for our mailing list, when you make a purchase, download music, participate in any community features, or enter a contest or sweepstakes. We also may ask you various questions about your interests or preferences. We use this information to personalize the Site for you, to inform you about or offer you new features or services customized to your preferences, for marketing purposes, to contact you about your purchases, or to notify you if you have won a prize or contest. 
+We ask you for your personal information when you sign up for our mailing list, when you make a purchase, download music, participate in any community features, access ticket pre-sales or enter a contest or sweepstakes. We also may ask you various questions about your interests or preferences. We use this information to personalize the Site for you, to inform you about or offer you new features or services customized to your preferences, for marketing purposes, to contact you about your purchases, or to notify you if you have won a prize or contest. 
 
 We'll give you the choice whether to receive email or other contact from us and from any of the companies we work with, and we give you the opportunity to unsubscribe from receiving unwanted communications (click here for instructions.) Also, we provide the opportunity for you to update and/or correct information we have about you (click here for instructions.) 
 
