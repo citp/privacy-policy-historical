@@ -1,0 +1,28 @@
+> *The following text is extracted and transformed from the drfuhrman.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603094115id_/http%3A//drfuhrman.com/privacy.html) for the most accurate reproduction.*
+
+# DrFuhrman Online - Privacy
+
+#### Privacy Policy 
+
+DrFuhrman.com respects your privacy and follows these guidelines for your information. 
+
+**Security:**   On the Internet, we use secure lines and technology -- secure server software (SSL) -- to ensure the security and safety of your information and your credit card transaction.   Your privacy is protected. 
+
+**Cookies:**   In our Member Support Center , we use cookies to recognize members, grant you privileges in the Member Center and Store, and track usage.   Your information is for the use of DrFuhrman.com and we do not sell your information to third parties. 
+
+We do not sell any information on visitors to DrFuhrman.com to third parties.   Any usage tracking is for internal use only for further development of DrFuhrman.com.  
+
+**E-mail:**   If you sign up for our mailing list, are a member of our Member Support Center , or subscribe to our newsletters or services, you will receive emails from us.   Emails permit us to contact you about your account.   If you prefer not to receive email communication, please call us at 908-237-2195 or email us at [techsupport@drfuhrman.com ](mailto:techsupport@drfuhrman.com), and arrange for your communication preferences.  
+
+**Links and Affiliates:**   Please refer to the individual policies of any links and affiliates found on DrFuhrman.com.   Every website has different guidelines, and DrFuhrman.com is not responsible for the content or the policies of websites to which it may link. 
+
+**Forums:**   The Member Forums in the Member Support Center , while part of a “Member-only” community, are message boards that become accessible and public once you post your messages.    DrFuhrman.com cannot be responsible for removing any information you have posted.   If you provide email or other information that results in unwanted email or contacts, DrFuhrman.com cannot be responsible for that.    
+
+**Legal Protection and Compliance:**   If we are required by law or if we believe, in good faith, that we need to disclose personal information to protect the misuse of DrFuhrman.com or the accounts of our customers, we may disclose personal information to the proper authorities. 
+
+**Changes:**   Please refer to this policy for any future changes, as developments on the Internet frequently evolve and we would like to keep you up-to-date. 
+
+If you have any questions, please contact info@drfuhrman.com. 
+
+  
+November 15, 2003 
