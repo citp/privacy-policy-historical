@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211617id_/http%3A//www.equifax.com/universal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410211754id_/http%3A//www.equifax.com/universal/privacy.shtml) for the most accurate reproduction.*
 
 # Equifax Corporate
 
@@ -155,7 +155,7 @@ Further information on the BBBOnLine Privacy Seal is available at [http://www.bb
 Return to Top
 
 **Equifax and the Online Privacy Alliance**  
-Equifax is also a member of the Online Privacy Alliance (OPA) ([www.privacyalliance.org](https://web.archive.org/web/20021204211617id_/http%3A//www.equifax.com/universal/www.privacyalliance.org)). Equifax and OPA support self-regulatory initiatives that create an environment of trust and that foster the protection of individuals' privacy online and in electronic commerce.
+Equifax is also a member of the Online Privacy Alliance (OPA) ([www.privacyalliance.org](https://web.archive.org/web/20030410211754id_/http%3A//www.equifax.com/universal/www.privacyalliance.org)). Equifax and OPA support self-regulatory initiatives that create an environment of trust and that foster the protection of individuals' privacy online and in electronic commerce.
 
 **USE OF COOKIES**
 
