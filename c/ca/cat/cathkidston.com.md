@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cathkidston.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604052309id_/http%3A//www.cathkidston.com/ppolicy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cathkidston.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206192515id_/http%3A//www.cathkidston.com/ppolicy.phtml) for the most accurate reproduction.*
 
 # 
 
@@ -14,4 +14,4 @@ A cookie is a piece of information that is stored on your computer's hard drive 
 
 Customer Feedback and Complaints 
 
-We welcome your questions and comments about privacy issues please e-mail [info@cathkidston.co.uk](mailto:info@cathkidston.co.uk)
+We welcome your questions and comments about privacy issues please e-mail [webmaster@cathkidston.co.uk](mailto:webmaster@cathkidston.co.uk)
