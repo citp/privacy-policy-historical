@@ -1,99 +1,34 @@
-> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405164155id_/http%3A//destinationcrm.com/dcrm_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2002-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021110210201id_/http%3A//www.infotoday.com/privacy.htm) for the most accurate reproduction.*
 
-# destinationCRM - Privacy
+# Information Today, Inc. - Privacy Policy
 
-** **
+The various Information Today, Inc. Web sites: Information Today, Inc. **[(www.infotoday.com)](http://www.infotoday.com/)** , Literary Market Place **[(www.literarymarketplace.com)](http://www.literarymarketplace.com/)** , Library Resource Guide **[(www.libraryresource.com)](http://www.libraryresource.com/)** , Fulltext Sources Online **[(www.fso-online.com)](http://www.fso-online.com/)** , Destination CRM **[(www.destinationcrm.com)](http://www.destinationcrm.com/)** , and the Information Today Online Store **[(store.yahoo.com/infotoday/)](http://store.yahoo.com/infotoday/)** sites are maintained by Information Today, Inc., 143 Old Marlton Pike, Medford, NJ 08055. Send comments or suggestions about these sites to: **[webmaster@infotoday.com](mailto:webmaster@infotoday.com)**. 
 
-This privacy statement informs all visitors of our dedication to them and to their privacy. Our statement consists of: 
+For each visitor to our Web sites, we log the I.P. address of the computer the visitor is using to view our Web pages, as well as the referring URL, but not the visitor's e-mail address.  We collect information on what pages they access or visit, and information that is volunteered by visitors, such as survey information.  This automatically collected information is used for internal review, used to improve the content of our Web site, and then discarded.  It is not shared with other organizations for commercial purposes. 
 
-  * What identifiable information we gather/track about you on this web site
-  * What we do with personally identifiable information we gather/track on this web site 
-  * Whether any of your personally identifiable information will be shared with any third party 
-  * Questions regarding this statement should be directed to the destinationCRM webmaster [webmaster@destinationcrm.com](mailto:webmaster@destinationcrm.com)
+We only collect personal information that is willingly provided by visitors to our Web sites.  The Information Today Online Store Web site (hosted by Yahoo!) collects information about customers, including credit card and contact information, and provides it to Information Today, Inc., which is solely responsible for its use.  We only use that information to complete a transaction requested by a customer. 
 
+Every transaction conducted at the Information Today Online Store Web site is encrypted for the customers' protection.  The Yahoo! privacy policy is available at **<http://docs.yahoo.com/info/privacy/>**.    
+ 
 
+**_Cookies_**
 
-  
-**destinationCRM General Privacy Principles**  
+The Information Today, Inc., Library Resource Guide, and FSO-Online Web sites do not currently use cookies. 
 
-_destinationCRM and Your Privacy_
+The Literary Market Place Web site uses cookies to maintain user sessions and log out users after a specific length of time. 
 
-destinationCRM is committed to protecting your personal information and respecting your privacy. Our goal is to give you as much control and information about your personal information and how we use it in the course of our business. We want to be a leader in providing comprehensive privacy information to our customers.
+As part of offering and providing customizable and personalized services, the Information Today Online Store Web site uses cookies to store and sometimes track information about customers. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. For more information about the use of cookies on the Information Today Online Store Web site, see **<http://docs.yahoo.com/info/privacy/#cookies>**.    
+ 
 
-In general, you can visit destinationCRM on the Web without telling us who you are or revealing any information about yourself. destinationCRM will never sell or rent your email address to outside parties without your consent (noted by Opting-In) unless compelled by law or court order to do so. With your permission, destinationCRM and its co-branded partners may send you e-mail regarding Industry news and information, new products in the CRM field, special events, and/or special features and offers involving third parties. But we do not disclose your email to such third parties. Please continue reading to learn how our privacy policy applies when you purchase third party products on our web site and on co-branded sites.
+**_Mailing Lists_**
 
-**destinationCRM Privacy Statement**
+When you request information from us, register for an electronic newsletter, or make a purchase from our online store, we may include your name in our e-mail mailing lists.  We use this information for marketing and promotional purposes to occasionally notify you of Information Today, Inc. products and services we think will interest you. We may also share this information with companies we believe will extend you offers of interest. 
 
-_What Information We Gather and Track_
+If you don't wish to receive such notifications and offers, you can request to be removed from our mailing lists. ( **See below.** )
 
-There are times when we may need to collect information from you through our Web site. This generally involves filling out forms so you can become a member, to view special materials on the site, or order third-party products from destinationCRM's and its co-branded web sites. When you become a member, we require you to fill out a form with your name, title, company, company size, field, postal address, and email address. During this process, you are given the opportunity to decline further e-mail notification of important news and events from destinationCRM and its co-branded sites. In addition, you can remove yourself from the mailing list at any time by going here: [Unsubscribe](https://web.archive.org/web/20020405164155id_/http%3A//destinationcrm.com/dcrm_rg_unsubscribe.asp)
-
-When you submit an order on-line, your credit card number is submitted with encryption to the credit institution for normal, routine processing. destinationCRM does not share credit history or credit card information with other companies or third parties, unless compelled by law or court order to do so.
-
-_What We Do With the Information We Gather and Track_
-
-The personally identifiable information gathered from the forms filled out on our web site is:
-
-  * Used to provide you with information about Industry news, special events, and/or special features and offers suited for you and your field 
-  * Used to improve the destinationCRM.Com service 
-  * Used to allow you to purchase and download products 
-  * Used to gather broad demographic information about user trends
-  * Used to provide you with information regarding your print subscription
-  * Shared with other reputable organizations for marketing purposes (postal mailing addresses only unless otherwise specified by you)
-
-
+We will seek to advise any companies or other third parties to whom we provide e-mail mailing list information to follow similar privacy policies. However, we cannot assume any responsibility for any actions or policies of these third parties. 
 
   
-destinationCRM uses various methods to collect certain other kinds of information, including:
+**_Removal from Mailing Lists_**
 
-  * Cookies
-  * Referrers
-  * IP addresses
-  * System information
-
-
-
-With the exception of cookies, which can optionally store information that you may enter in forms on our web site as described below, none of these methods can personally identify you. A cookie is an element of data that a web site such as destinationCRM can send to your browser, which then you may or may not choose to store it on your system. It is used to provide you with a tailored user experience.
-
-Some destinationCRM pages use cookies. Cookies are used to better personalize the content, banners, and promotions that you and other users will see. We may use the information to research and understand how our users' habits in the aggregate are similar or different so that we can enhance your experience on destinationCRM's sites. With your consent, cookies can optionally store information from forms that you fill out on our site so that next time you visit, you do not have to reenter this information. For example, this would allow you to enter your city so that next time you visit, you can automatically see local content from your area. We treat any personally identifiable information with the same confidentiality as when you purchase something on our Web site. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept or reject it.
-
-destinationCRM does not require that you accept cookies. **  
-**  
-A _referrer_ is the information passed along by a Web browser that references the Web URL you linked from, and is automatically gathered by our Web server. This information is used by destinationCRM to identify broad demographic trends that may be used to provide information tailored to your interests. 
-
-  
-You will not be personally identified from this information. ****  
-_IP addresses_ are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer so that data (such as the Web pages you request) can be sent to you. Our Web server automatically gathers your IP.
-
-destinationCRM will not use your IP address to attempt to identify your personal information. 
-
-  
-The _system information_ we gather includes time, type of Web browser being used, the operating system/platform, and CPU speed. This information is sent automatically by your Web browser when you are connected to a Web site and is used by destinationCRM only for broad demographic statistics.
-
-This information is used by destinationCRM in identifying broad demographic trends and may be used to provide information appropriate for your computer system.
-
-  
-You will not be personally identified from this information.
-
-destinationCRM contains links to other Web sites. However, destinationCRM is not responsible for the privacy practices or the content of such Web sites. 
-
-**What Sites This Covers**
-
-Information collected at Appcenter is co-owned by destinationCRM, MINDMatrix, Mimeo and our other co-branded partners. This information is collected and used as described above by destinationCRM. It cannot be used by our co-branded partners without our permission and your consent at the time of registration; it may then only be used in the ways described above. 
-
-_What We Do with Information Gathered When You Acquire Third Party-Products_
-
-destinationCRM will never sell, rent, or disclose to non-co-branded third parties our users' personally identifiable information collected from the destinationCRM membership form or gathered on a promotional offer at the destinationCRM Web site. If you purchase a product or service developed or owned by a third party, destinationCRM may provide to the product owner or licensor the same information you provide to us.
-
-**Contacting Us About Privacy**
-
-If you have any questions about this privacy statement, or our Web sites, you may contact us at: 
-
-Privacy Policy  
-destinationCRM.com   
-Line56 Media  
-10940 Wilshire Blvd. STE 600  
-Los Angeles, CA 90024  
-Phone (310) 443-4226
-
-  
+Request to be removed from mailing lists maintained by Information Today, Inc. via e-mail (to **[custserv@infotoday.com](mailto:custserv@infotoday.com)** ), telephone (609-654-6266), fax (609-654-4309), or in writing (Information Today, Inc., 143 Old Marlton Pike, Medford, NJ 08055-8750). 
