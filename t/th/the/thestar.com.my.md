@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thestar.com.my privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410040531id_/http%3A//thestar.com.my/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestar.com.my privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217231213id_/http%3A//thestar.com.my/info/privacy.asp) for the most accurate reproduction.*
 
-# thestar.com.my: Privacy Statement
+# The Star Online: Privacy Statement
 
-**Privacy Statement for thestar.com.my**
+**Privacy Statement for The Star Online**
 
-Star Publications (Malaysia) Bhd (co. no. 10894-D) has, through its subsidiary I.STAR Sdn Bhd (co. no. 422871-T) created this privacy statement to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, thestar.com.my. 
+Star Publications (Malaysia) Bhd (co. no. 10894-D) has, through its subsidiary I.STAR Sdn Bhd (co. no. 422871-T) created this privacy statement to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, The Star Online. 
 
-**Information collected by thestar.com.my**  
+**Information collected by The Star Online**  
 Our Web servers do not automatically recognise specific information about individual users on our site. In addition, our servers do not automatically record information regarding a user's e-mail address unless the user supplies it. 
 
 We use cookies so that you don't have to re-enter your login information each time you visit our site. 
@@ -21,16 +21,17 @@ The user-supplied information collected through the registration process, survey
 This site makes chat rooms, forums, and/or message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We respect freedom of speech and request that users respect one another in exercising said freedom. 
 
 **General**  
-This site contains links to other sites. thestar.com.my is not responsible for the privacy practices or the content of such sites. thestar.com.my has also established relationships with partners but such relationships are generally technical in nature, or content collaborations. If any partner has access to any information entered by users in our database, this fact shall be disclosed to the user upon initiating the registration process. Users who feel they do not wish their information to be shared by anyone other than thestar.com.my may then opt out of completing the registration. 
+This site contains links to other sites. The Star Online is not responsible for the privacy practices or the content of such sites. The Star Online has also established relationships with partners but such relationships are generally technical in nature, or content collaborations. If any partner has access to any information entered by users in our database, this fact shall be disclosed to the user upon initiating the registration process. Users who feel they do not wish their information to be shared by anyone other than The Star Online may then opt out of completing the registration. 
 
 **Security**  
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. When a user is asked to provide his/her credit card information, we provide a secure environment through our partners' systems (using industry standard SSL or SET protocols) for this purpose. 
 
-**Contacting thestar.com.my**  
+**Contacting The Star Online**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you may contact: 
 
 _I.STAR Sdn Bhd  
-13 Jalan 13/6  
-46200 Petaling Jaya  
+Level 7 Menara Star  
+15 Jln 16/11  
+46350 Petaling Jaya  
 MALAYSIA  
 _ [feedback@thestar.com.my](mailto:feedback@thestar.com.my)
