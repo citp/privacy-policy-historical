@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecasinoreports.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205051114id_/http%3A//www.onlinecasinoreports.com/news_terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecasinoreports.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192051id_/http%3A//www.onlinecasinoreports.com/news_terms.asp) for the most accurate reproduction.*
 
 # Online Casino Reports - CONDITIONS OF USE STATEMENT and PRIVACY POLICY
 
