@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the legacytexas.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211213537id_/http%3A//www.legacytexas.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacytexas.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609165636id_/http%3A//legacytexas.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Legacy Bank of Texas                       \--> [Printer Friendly Version](https://web.archive.org/web/20031211213537id_/http%3A//www.legacytexas.com/printPrivacyPolicy.aspx)  
+### Legacy Bank of Texas                       \--> [Printer Friendly Version](https://web.archive.org/web/20040609165636id_/http%3A//legacytexas.com/printPrivacyPolicy.aspx)  
 Privacy Information 
 
 [Click here to access the  
 Bank's Overall Privacy Policy  
-and the Texas complaint process ](https://web.archive.org/web/20031211213537id_/http%3A//www.legacytexas.com/legacybank/PDF/bankprivacydisc0311.pdf)
+and the Texas complaint process ](https://web.archive.org/web/20040609165636id_/http%3A//legacytexas.com/legacybank/PDF/bankprivacydisc0311.pdf)
 
 Internet Privacy Statement
 
