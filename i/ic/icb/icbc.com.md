@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2001-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010216151139id_/http%3A//www.icbc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207211048id_/http%3A//www.icbc.com/privacy.html) for the most accurate reproduction.*
 
 # ICBC.COM Privacy Statement
 
   | 
 
-******Privacy Statement**
+**** Privacy Statement 
 
 Your privacy is important to us. This privacy statement describes the information we collect via the ICBC Web site (www.icbc.com), how we collect and use that information and how we protect your privacy. 
 
@@ -12,7 +12,7 @@ What personal information we collect
 
   * We do not collect personal information unless our Web site visitors volunteer it.
   * When you respond to games on our site, we may collect personal information such as your name and e-mail address.
-  * When you complete online applications for jobs, or enter our online surveys or contests, we may collect personal information such as your name, address and e-mail address.
+  * When you complete online transactions, job applications, or enter our online surveys or contests, we may collect personal information such as your name, address and e-mail address.
   * When you voluntarily send us electronic mail, we collect your email address and your message so that we may reply to you.
   * We do not place any cookies on your computer.
 
@@ -28,18 +28,15 @@ What session information we collect
 
 How we protect and use the personal information that we collect 
 
-  * Collection, use, disclosure and retention of information complies with the provisions of the _Freedom of Information and Protection of Privacy Act_. Collected information is used only by authorized ICBC staff to fulfil the purpose for which it was originally collected. 
+  * ICBC's collection, use, disclosure and retention of information complies with the provisions of the _Freedom of Information and Protection of Privacy Act_. Collected information is used only by authorized ICBC staff to fulfil the purpose for which it was originally collected, or other purposes which will be described in the transaction you are completing. 
   * We will not sell or trade any personally identifiable information that may be collected from our Web site and will not disclose such information to third parties except as authorized by law. 
-  * If you submit personally identifiable information when you are entering games on our site, this information becomes accessible only to authorized ICBC staff. We keep your e-mail address only so that we can inform you of additions to, or new releases of, the game. 
-  * When you respond to online applications for jobs, or enter surveys or contests on our site, the information you provide is used only by authorized ICBC staff to fulfil the purpose for which it was collected. 
   * When you send us electronic mail via our Web site, your message is stored as business correspondence accessible only to authorized ICBC Web site staff. 
 
 
 
-Cautions 
+Caution
 
-  * When you post a message to a discussion group on our site (e.g., the Road Safety Forum) using your true e-mail address rather than a pseudonym, be aware that your e-mail address may be collected and used by other users of our Forum. This may result in unsolicited messages from others. 
-  * Additionally, the e-mail you send to us is not encrypted. Your e-mail may be intercepted by other Internet users, without your knowledge or permission, while in transit to us. Therefore you should not e-mail us information that you consider confidential. 
+  * E-mail you send to us is not encrypted. Your e-mail may be intercepted by other Internet users, without your knowledge or permission, while in transit to us. Therefore you should not e-mail us information that you consider confidential. 
 
 
 
