@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002231741id_/http%3A//www.newyorklife.com/NYL2/Group/0%2C1232%2C10564%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623084756id_/http%3A//newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
 
 # New York Life Privacy Policy
 
@@ -49,12 +49,16 @@ We may share your personal information within the New York Life Family or with n
 
 
 
-If you are a customer of the New York Life Family, and you use any of our service areas to change your accounts or account information, we will handle that information in accordance with our Customer Privacy Policy, which you can access by [clicking here.](https://web.archive.org/NYL2/Article/0,1234,11102,00.html)
+If you are a customer of the New York Life Family, and you use any of our service areas to change your accounts or account information, we will handle that information in accordance with our Customer Privacy Policy, which you can access by [clicking here.](https://web.archive.org/cda/0,3254,11102,00.html)
 
 We will follow the privacy law in your state if that law is different than the policy described in this notice.
 
 Keeping Up-To-Date With Our Privacy Policy  
-This privacy policy takes effect April 1, 2001. We reserve the right to change our privacy policy. You can always review the current privacy policy from the front page of the site, www.newyorklife.com. 
+This privacy policy takes effect April 1, 2001. We reserve the right to change our privacy policy. You can always review the current privacy policy from the front page of the site, [www.newyorklife.com](https://web.archive.org/cda/0,3254,12101,00.html), or you can contact us for a copy by writing to: 
+
+New York Life  
+P.O. Box 6916  
+Cleveland, OH 44101 
 
 * The New York Life Family of Companies (also referred to as "the New York Life Family," "we," "our," or "us" throughout this notice) currently includes the following affiliates and funds: 
 
@@ -69,4 +73,4 @@ MainStay Funds | NYLIFE Securities INC.
 MainStay Shareholders Services LLC | NYLIM Service Company LLC  
 MainStay VP Series Fund, Inc. | NYLINK Insurance Agencies  
   
-If you would like more detailed information about this site's privacy practices, please [click here.](https://web.archive.org/NYL2/Article/0,1234,11092,00.html)
+If you would like more detailed information about this site's privacy practices, please [click here.](https://web.archive.org/cda/0,3254,11092,00.html)
