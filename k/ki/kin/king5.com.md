@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the king5.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612163844id_/http%3A//www.king5.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the king5.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204102554id_/http%3A//www.king5.com/registration/privacy.html) for the most accurate reproduction.*
 
 # KING5.com | News for Seattle, Washington | Privacy Policy
+
+[](https://web.archive.org/newslinks/)
+
+[](https://web.archive.org/onking5.html)
+
+[](http://www.nwsource.com/)
 
 | 
 
@@ -99,7 +105,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure.  You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1.                  Enter (or click) [http://signin. **KING5**.com](http://signin.king5.com/) in your browser.
+1.                  Enter (or click) <http://www.king5.com/sharedcontent/registration/membercenter.jsp> in your browser.
 
 2.                  Sign in by entering your e-mail address and password.  Your account information will then be displayed.
 
@@ -123,10 +129,6 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 | 
 
-Advertising 
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.king5.com/news/aboutus/506505586/Position4/default/empty.gif/7a2f4868396c347a7a4a5141417a556c?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.king5.com/news/aboutus/1205882366/Position1/default/empty.gif/7a2f486f6556347936433841422b7241?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.king5.com/news/aboutus/7230851/Position4/default/empty.gif/7a2f486f6556347936433841422b7241?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.king5.com/news/aboutus/432373647/Position5/default/empty.gif/7a2f486f6556347936433841422b7241?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.king5.com/news/aboutus/493548770/Position5/default/empty.gif/7a2f4868396c347a7a4a5141417a556c?x)
