@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602195437id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204225741id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
 
 # Laplink Software Inc. Privacy Policy
+
+back to previous page
+
+Laplink Software Inc. and your privacy
 
   * What personal information do we collect from Web site visitors?
   * What happens to the information we collect?
@@ -24,7 +28,7 @@ The type of information that we request in these online forms includes your name
 
 **What happens to the information we collect?**
 
-The information that you provide to us when you register to download free trial software or register a product is stored with a unique identifying number. The information contained in your personal profile is not provided to anyone outside of Laplink Software Inc. nor is it shared with our designated agents. All of the information you provide during e-commerce transactions is stored by [Digital River](http://drhome.digitalriver.com/live/drv_00pvs_000.shtml) on a secure server which encrypts all of your personal information, including your name, address and credit card number.
+The information that you provide to us when you register to download free trial software or register a product is stored with a unique identifying number. The information contained in your personal profile is not provided to anyone outside of Laplink Software Inc. nor is it shared with our designated agents. All of the information you provide during e-commerce transactions is stored by [our commerce partners](http://www.element5.com/) on a secure server which encrypts all of your personal information, including your name, address and credit card number.
 
 Laplink Software Inc. occasionally uses the information that customers provide to send announcements about new Laplink products and services. 
 
@@ -38,7 +42,7 @@ We absolutely never provide your e-mail address or telephone number to anyone ou
 
 At Laplink Software Inc, we understand and respect your concerns about privacy. Our corporate security policy is so important to us that we include a policy overview in every employee’s orientation. Access to our customer database is restricted to only those employees who have a specific need for access to that data to do their job. And even then, access to the customer data is password protected. Each quarter, we review and update our Web security. In addition to safeguarding the privacy of any information you give us as you visit our site, Laplink Software Inc. has entered into partnerships with other companies that care just as deeply about your privacy concerns.
 
-Laplink Software Inc. does not handle financial transactions via the Web, so it has no need for streaming encryption products. Laplink Software Inc. works with a third party, Digital River, to serve as a trusted intermediary to handle e-commerce transactions with our customers. Digital River handles e-commerce on a secure server which encrypts all of our customers’ personal information. To learn more about how Digital River manages the privacy of information in conjunction with these e-commerce transactions, please see their complete [privacy statement](http://drhome.digitalriver.com/live/drv_00pvs_000.shtml).
+Laplink Software Inc. does not handle financial transactions via the Web, so it has no need for streaming encryption products. Laplink Software Inc. works with a third party to serve as a trusted intermediary to handle e-commerce transactions with our customers. Our commerce partners handles e-commerce on a secure server which encrypts all of our customers’ personal information. To learn more about how our commerce partners manages the privacy of information in conjunction with these e-commerce transactions, please see their complete [privacy statement](http://www.element5.com/privacy.html).
 
 **Freedom of choice: "opting-out"**
 
