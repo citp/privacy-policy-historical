@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the findmyhosting.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202074754id_/http%3A//www.findmyhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyhosting.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603223127id_/http%3A//www.findmyhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-FindMyHosting.com created a privacy policy (described herein) to show our dedication and commitment to the privacy of the users of our website. Please read the following to gain an understanding of our privacy policy. If you have any questions whatsoever regarding this policy, please fill out the following [contact form](https://web.archive.org/web/20021202074754id_/http%3A//www.findmyhosting.com/contact.htm) and a FindMyHosting.com representative will respond to your query as soon as possible.
+FindMyHosting.com created a privacy policy (described herein) to show our dedication and commitment to the privacy of the users of our website. Please read the following to gain an understanding of our privacy policy. If you have any questions whatsoever regarding this policy, please fill out the following [contact form](https://web.archive.org/web/20030603223127id_/http%3A//www.findmyhosting.com/contact.htm) and a FindMyHosting.com representative will respond to your query as soon as possible.
 
-FindMyHosting.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this policy. At FindMyHosting.com.com we do not collect any personal information whatsoever, unless you choose to share such information (through Correspondence, see below). If you do choose to share personal information via some form of correspondence, such information will not be shared, sold, or rented to others whatsoever.
+FindMyHosting.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this policy. At FindMyHosting.com.com we do not collect any personal information whatsoever, unless you choose to share such information. If you do choose to share personal information via some form of correspondence, such information will not be shared, sold, or rented to others whatsoever.
 
 **Correspondence**
 
 If you correspond with us via E-mail, we may gather the information in a file specific to you. We only collect the information that you provide to us. We will not sell, share, or rent the information that you share with us to others. Like many other websites, FindMyHosting.com collects information about users' utilization and navigation of our site. This information helps us to design our site to better suit our users' needs. 
+
+If you request quotes from hosts then your name and email will be shared only with 10 web hosting companies who will then contact you. This information wiill not be shared with any other parties.
 
 **Does the FindMyHosting.com website use cookies? If so, how are cookies used on the website?**
 
