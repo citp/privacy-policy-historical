@@ -1,51 +1,140 @@
-> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520013414id_/http%3A//www.sybase.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218111244id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
 
-# Public Relation - Contact List
+# Sybase Inc. Privacy Policy
 
-This statement discloses the privacy practices for [www.sybase.com](https://web.archive.org/) and other Internet sites owned and operated by Sybase, Inc. Sybase wants to demonstrate its commitment to your privacy and this policy statement informs you about what personal information is gathered and tracked from this Web Site and how that information is used. 
+**Sybase Privacy Policy**
 
-## Information Gathered at our Sites
+This statement discloses the privacy practices for [www.sybase.com](http://www.sybase.com/) owned and operated by Sybase, Inc.   Sybase, Inc. abides by the principles within the Safe Harbor Program framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-Sybase collects personally-identifying information provided through optional, voluntary registration on several of our sites. These include: 
+Sybase is a member of the TRUSTe program and is strongly committed to protecting your privacy online. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent.
 
-  1. trial, evaluation and beta download registration, 
-  2. event registration, 
-  3. support and education registration, 
-  4. online purchases 
-  5. contest registration 
-  6. subscription registration for sites that require subscription 
+If you have questions or concerns regarding this statement, you should first contact the Sybase Web Marketing team by email at [privacy@sybase.com](mailto:privacy@sybase.com) . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with Sybase to resolve any concerns you may have with the Sybase.com/MySybase Web site (English version).
+
+Please read the following privacy policy to understand how your personal information will be treated as you take advantage of our offerings. Sybase may update this privacy policy periodically. A notice will be displayed in the News section on the Sybase.com home page whenever any material changes occur. 
+
+The purpose of this Sybase privacy policy is to inform you, as a welcome visitor, what kinds of information we may gather from you when you visit [www.sybase.com](http://www.sybase.com/). We also want to tell you how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
+
+Finally, please note that this policy applies only to [www.sybase.com](http://www.sybase.com/) and not to other companies' or organizations' Web sites to which we link. This Web site does contain links to other sites. Please note that when you click on one of these links, you are clicking to another Web site. Sybase is not responsible for the privacy practices or content of such Web sites. 
+
+We encourage you to read the privacy statements of these sites as their privacy statement may differ from ours. Please keep in mind that some of the products or services mentioned specifically in this policy might not be available on all of our international Sybase sites at this time. 
+
+By creating an account with MySybase, or by registering for events, promotions, training classes, product evaluations etc., you thereby grant your consent to the processing of your personal data in accordance with this policy.
+
+[ ](https://www.truste.org/validate/2334)
+
+**This policy will let you know:**
+
+1\. What personally identifiable information is collected from you;   
+2\. What cookies are and how they are used;   
+3\. With whom your information may be shared;   
+4\. How Sybase uses the personally identifiable information that has been collected;   
+5\. Which 'opt out' options you have as a www.sybase.com user;   
+6\. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information;   
+7\. To whom should questions regarding this disclosure statement be directed   
+8\. How you can access, delete or deactivate MySybase account information and personal profile
+
+**** 1\. What personally identifiable information does Sybase collect from you? ****
+
+Certain activities on our Web site require the collection of personally identifiable information. Typically, we will collect only your name, company name, email address and other contact information such as phone and fax numbers. When you make a purchase, we will also collect your credit card and shipping information. 
+
+We may also ask you for your interests and preferences to customize your future visits to our Web site. Sybase collects information in several ways from different parts of the Sybase.com Web site. These include: 
+
+1\. Trial, evaluation and beta download registration   
+2\. Event registration   
+3\. Support registration   
+4\. Education registration   
+5\. Online purchases   
+6\. Contest registration   
+7\. Subscription registration for sites that require subscription   
+8\. Contact us   
+9\. MySybase registration 
+
+If you choose not to provide the information we request, you can still visit most of Sybase Web site, but you may be unable to access certain options, offers, downloads, and services. 
+
+Any newsgroup that begins with Sybase.public or Powersoft.public is a newsgroup that is actively monitored by Sybase. Disclosing personally identifiable information online through chat rooms, forums, and message boards makes the information submitted public information. Such disclosure may increase your chance of receiving "spam" or unsolicited mail. Be extra careful and use your discretion when disclosing information online. 
+
+**** 2\. What cookies are and how they are used
+
+What are cookies? Cookies are used for setting a key on a user's browser that links him/her to the current state of their Web session. Their purpose is to let us know when you visit our site, where you visit in the site, and save preferences you set. Your browser can be set to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. If you choose not to accept cookies, you may not have access to certain functionality on our site. Site functionality requiring a login will utilize cookies. As a result, if you would like to visit the logged in portion of the sybase.com site, you will need to accept cookies. 
+
+We want to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you. We know that a lot of people have concerns about cookies, but in talking with many of our users we feel that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers and future customers, so we respect these concerns.
+
+Sybase also tracks IP addresses of Web sites from which you may visit www.sybase.com to analyze the data for trends and statistics reporting. Sybase does not associate your IP address to any of your user information when you browse www.sybase.com and are not logged into MySybase, the personalized area of the Web site.
+
+**** 3\. With whom your information may be shared
+
+** Service Providers**  
+We sometimes hire companies (Service providers) to provide services on our behalf. Service providers may provide mailing and event registration information or technical support information to you. We will only provide such service providers the information they need to deliver the services and they are prohibited from using that information for any other purpose. 
+
+On occasion, Sybase uses Web site framing techniques, linking you to another service provider's Web site that retains the look and feel and navigation of www.sybase.com. This practice is used simply to aid you to easily navigate back to www.sybase.com. When framing occurs, the URL in your browser's toolbar will no longer display the www.sybase.com address, but the Web site address of the service provider in question.
+
+** Companies Offering Promotions **  
+From time to time, a Sybase business partner may wish to offer promotions. Sybase and its partners may engage in events or provide bundled products. In those instances, we will share your information with that partner. Such promotions such as joint seminars and sales promotions, jointly developed products, and joint announcements will always reference the partners involved. Both Sybase and its partner(s) will have access to information submitted by users who have expressed interest in marketing promotions. While we carefully choose our partners, we do advise you to review the privacy policies of these partners as well. If you receive a communication from a Sybase partner and wish to opt out of any subsequent partner communications, please contact that partner directly. 
+
+** Intermediaries**   
+We may also share your information with intermediaries such as credit card companies or banks. Intermediaries serve solely as links in the distribution chain, and do not store, retain, or use the information other than to process a transaction. 
+
+** Legal Obligations**   
+We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site. 
+
+4\. How does Sybase use the personally identifiable information that has been collected?
+
+Sybase uses personally identifiable information in a limited number of ways. We use the information to complete transactions and to communicate back to you updates on services, products and promotions that we think, based upon your profile, that you would find of particular interest. 
+
+We may, from time to time, send you communications regarding our products and services. You may at any time opt-out from receiving electronic communications as explained below. We do not sell user information to anyone. 
+
+**** 5\. Which 'opt out' options do you have as a **** [ www.sybase.com](http://www.sybase.com/) **** user?
+
+From the MySybase portion of the site, we provide Web site visitors with the opportunity to opt-out of receiving electronic notifications from www.sybase.com at the point where we request information about you. 
+
+**During registration for a MySybase or eShop account, you can opt out from the following:**
+
+  * receiving our electronic newsletters or email notifications
+
+  * receiving order confirmation when purchasing from eShop 
 
 
 
-For contests, the information gathered in the entry form is used to verify the entrant's identity, to send the entrant an email notification that their entry has been received, and to contact winners and/or prize recipients. Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event. 
 
-We also track the IP address of the clients from which people visit us and analyze this data for trends and statistics, but the individual users remain anonymous. 
+** Sybase gives you the following options for removing yourself from future electronic communications at any time:  **
 
-If you choose not to provide the information we request, you can still visit most of Sybase, Inc. web sites, but you may be unable to access certain options, offers, downloads and services. Personal information gathered at Sybase, Inc. web sites may be shared with third parties, such as Sybase partners, or for specific contest awards. 
+You can access <http://crm.sybase.com/sybase/www/emailcenter.jsp> to add your name and email to the Sybase email suppression list. You may opt out of all future electronic communications; or alternatively, opt in to receive specific electronic communications for areas of interest. Please note: using this address will remove your contact information from general Sybase electronic communication; it will not delete your MySybase account. 
 
-## Use of Cookies
+If you have subscribed to one of our electronic newsletters ( i.news), you can choose to unsubscribe yourself at any time by following the specific instructions found at the footer of the electronic newsletter. 
 
-What are cookies? Cookies are small pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Their purpose is to let us know when you visit our site and save preferences you set. Your browser can be set to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you. 
+** However, there are a few circumstances where you will receive email information from us relating to a product or service you requested. You will not be able to choose to opt out of these mailings since they are an essential part of the service you have chosen. These include:**
 
-We want to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you. We know that a lot of people have concerns about cookies, but in talking with many of our users we feel that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers and future customers, so we respect these concerns. 
+  * confirmation upon registration of a MySybase account (as well as replies to specific requests by you for edit/forgot password)
 
-## Opt-Out
+  * specific requests initiated by you using online feedback
 
-Sybase provides web site visitors the opportunity to opt-out of receiving communications from us at the point where we request information about you. During registration, you can choose not to receive our electronic newsletters nor E-Mail. 
+  * event, seminar, teleseminar and/or training registrations
 
-## Correct/update policy
+  * critical product information (End of Life notices, EBF or defects)
 
-Sybase, Inc. provides you with an opportunity to correct or change the information collected during registration for any site (see above). The instructions for doing this can be found in our [Support site](http://support.sybase.com/). Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have any questions about how our support services work can contact us at [our Support Feedback page](http://support.sybase.com/pub/webmaster_feedback.html). 
+  * specific contest information outlined in contest rules
 
-Sybase, Inc. gives you the following options for removing yourself from future communications: 
-
-  1. Sybase Email Center: <http://webprsrv.sybase.com/tsamit/email_center.stm>
-  2. If you have subscribed to one of our electronic newsletters ([i.news](https://web.archive.org/web/20000520013414id_/http%3A//www.sybase.com/i.news/)), you can choose to unsubscribe yourself at any time by following the specific instructions found at the footer of the electronic newsletter. 
+  * technical support cases you logged online 
 
 
 
-## Your Acceptance of These Terms
 
-By using this site, you signify your assent to the Sybase, Inc. Privacy Policy. If you do not agree to this policy, please do not use our sites. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the Sybase, Inc. web sites following the posting of changes to these terms will mean you accept those changes. The Sybase site contains links to other sites. Sybase, Inc. is not responsible for the privacy practices or the content of such websites. 
+**** 6\. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
 
- 
+Your account and personal information are password-protected so that you and only you have access to this information. You may edit your personal information by using your ID and password. Although we cannot ensure or warrant the security of any information you transmit to us or collected from our online products or services, Sybase has taken strong measures to protect the security of this information and to ensure that your choices for its intended use are honored. We continue to make every effort to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Data quality and the security of customer information is communicated throughout the organization as part of HR & IT policy. Access to customer data is limited to individuals within the Sybase Customer Service and Data Quality teams. Credit Card information is only kept in e-shop and our internal customer order entry system. In the internal data entry system, the data field is encrypted. Sybase secures data in e-shop by not letting individuals besides the order administrators have access to the information. Our Web security is monitored by our security team continuously.
+
+**** 7\. To whom should questions regarding this privacy statement be directed 
+
+Questions regarding this policy should be directed to [privacy@sybase.com](mailto:privacy@sybase.com). We will strive to respond to your requests within 3 business days. 
+
+Or you can mail or fax to:   
+C/O Web Marketing   
+6475 Christie Ave.   
+Emeryville, CA 94608, United States of America   
+Fax No.: 001 510 922 0391 
+
+8\. How can you access, delete or deactivate MySybase account information and personal profile?
+
+At any time, Sybase provides you with an opportunity to correct or change the information collected during registration for MySybase. This can be done in the edit profile areas of MySybase. Users may change this information at any time and as often as necessary.
+
+Also, you can contact [portal_helpdesk@sybase.com](mailto:portal_helpdesk@sybase.com) to access or edit your information if you have trouble accessing your account, or request to have your MySybase account deactivated. If you do not have a MySybase account, you can still contact [portal_helpdesk@sybase.com](mailto:portal_helpdesk@sybase.com) with questions on your online registrations. It may take up to 10 business days to complete deactivation of your MySybase account.
