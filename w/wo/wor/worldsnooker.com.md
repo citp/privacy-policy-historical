@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the worldsnooker.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208070221id_/http%3A//www.worldsnooker.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsnooker.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405215216id_/http%3A//www.worldsnooker.com/privacy.htm) for the most accurate reproduction.*
 
-# World Snooker Association | Competitions
+# World Snooker Privacy
 
-  
 **The World Professional Billiards and Snooker Association Limited ("World Snooker" "WS")**
 
 **Privacy Policy**
 
   
-This document forms part of the World Snooker [Terms and Conditions of Use](https://web.archive.org/web/20041208070221id_/http%3A//www.worldsnooker.com/terms/terms.asp) for the [http://www.worldsnooker.com](http://www.worldsnooker.com/) website (the "Site") and should be read in conjunction with it. Terms and expressions used in this document but not otherwise defined shall have the same meanings as set out in the World Snooker Terms and Conditions of Use.
+This document forms part of the [World Snooker Terms and Conditions of Use](https://web.archive.org/termsandconditions.htm) for the [http://www.worldsnooker.com](http://www.worldsnooker.com/) website (the "Site") and should be read in conjunction with it. Terms and expressions used in this document but not otherwise defined shall have the same meanings as set out in the World Snooker Terms and Conditions of Use.
 
   
 Introduction
@@ -27,7 +26,7 @@ If you complete the Online Contact Form or send us an email we will use the Pers
   
 Occasionally we may use your Personal Information we may notify you about important changes to the Site, new services we will be providing, events or articles or other information we think will be of interest to you. We may also use the Personal Information for marketing purposes and market research. This will help us improve our services and the content of the Site.
 
-If you do not want to receive information from us as described above or wish us to delete or amend Personal Information you have submitted through the Site please send an e-mail to us at info@worldsnooker.com or contact us at: Ground Floor, Albert House, 111-117 Victoria Street, Bristol BS1 6AX.
+If you do not want to receive information from us as described above or wish us to delete or amend Personal Information you have submitted through the Site please send an e-mail to us at [info@worldsnooker.com](mailto:info@worldsnooker.com) or contact us at: Ground Floor, Albert House, 111-117 Victoria Street, Bristol BS1 6AX.
 
   
 Non-Personally-Identifiable Information collected automatically
@@ -36,14 +35,14 @@ We may collect information about you that is not personally identifiable, such a
 
 When you visit our site, we automatically log your IP address. This is the unique address that identifies your computer on the internet and which is automatically recognised by our web server. We use IP addresses to help us administer the Site and to collect data for broad research use. Where possible we link IP addresses to personally identifiable information that helps us evaluate how we might be able to improve our service.
 
-When you view the Site we may store some information on your computer. This information will be in the form of a "Cookie". "Cookies" are small pieces of information that are stored on your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to tailor the Site or advertisement to reflect your interests and preferences. Most web browsers automatically accept cookies, but you can usually change your browser to prevent all Cookies or receive a warning before a Cookie is stored.
+When you view the Site we may store some information on your computer. This information will be in the form of a "Cookie". "Cookies" are small pieces of information that are stored on your browser on your computer’s hard drive. Our cookies do not contain any personally identifying information, but they do enable us to tailor the Site or advertisement to reflect your interests and preferences. Most web browsers automatically accept cookies, but you can usually change your browser to prevent all Cookies or receive a warning before a Cookie is stored.
 
   
 Protection of Personal Information
 
 As required by the UK Data Protection Legislation, we follow strict security measures in the storage and disclosure of Personal Information to prevent unauthorised access.
 
-We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us, you may do so at any time by contacting us at info@worldsnooker.com or at the address referred to above.
+We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us, you may do so at any time by contacting us at [info@worldsnooker.com](mailto:info@worldsnooker.com) or at the address referred to above.
 
   
 Disclosure
@@ -66,4 +65,5 @@ Our Site may contain chat rooms, forums, message boards, and/or news groups for 
   
 Effect
 
-In the event of any inconsistency between the terms of this document and the World Snooker Terms and Conditions of Use the World Snooker Terms and Conditions of Use shall prevail.
+In the event of any inconsistency between the terms of this document and the World Snooker Terms and Conditions of Use the World Snooker Terms and Conditions of Use shall prevail.  
+
