@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806220834id_/http%3A//www.resellerratings.com/statement.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603181842id_/http%3A//www.resellerratings.com/statement.pl) for the most accurate reproduction.*
 
 # ResellerRatings.com - Customer reviews of online retailers
 
