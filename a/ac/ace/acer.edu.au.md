@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604164721id_/http%3A//www.acer.edu.au/global/disclaimers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204152112id_/http%3A//www.acer.edu.au/global/disclaimers.html) for the most accurate reproduction.*
 
 # ACER - Australian Council for Educational Research
 
@@ -160,7 +160,7 @@ Back to top
 Credits:
 
 This site was designed and developed inhouse by the ACER IT Department  
-[Click here to contact the webmaster. ](mailto:maresch@acer.edu.au)
+[Click here to contact the webmaster. ](mailto:webmaster@acer.edu.au)
 
 The following software is used to develop and maintain our website:
 
