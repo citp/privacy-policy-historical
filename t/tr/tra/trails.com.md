@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606034543id_/http%3A//www.trails.com/explore/privacy.asp%3Fmscssid%3DLGLHS7237BEF9PNSA5DXSE7PS1AAFP7A) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205011002id_/http%3A//www.trails.com/explore/privacy.asp%3Fmscssid%3DS7MFS1FWELB49NA27SF1S37NBXKB1JP6) for the most accurate reproduction.*
 
 # Trails.com
 
@@ -10,7 +10,7 @@ This Privacy Statement describes how Trails.com collects and uses information ab
 
  ****
 
-We request and collect information that personally identifies you or allows us to contact you when you register to use the Site and in other instances, (e.g., a Site user survey, order submission, and promotions). Such information may include your name, e-mail alias, user identification password and other information collected by our cookies (described below) (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. Trails.com, the service providers for this Site, and any vendor providing products or services through the Site, use your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves, and to enforce or investigate contracts formed at the Site and claims regarding them. You may correct or update your Personal Information by sending e-mail to [explore@trails.com](mailto:explore@trails.com).
+We request and collect information that personally identifies you or allows us to contact you when you register to use the Site and in other instances, (e.g., a Site user survey, order submission, and promotions). Such information may include your name, e-mail alias, user identification password and other information collected by our cookies (described below) (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. Trails.com, the service providers for this Site, and any vendor providing products or services through the Site, use your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves, and to enforce or investigate contracts formed at the Site and claims regarding them. You may correct or update your Personal Information by sending e-mail to [store@trails.com](mailto:store@trails.com).
 
 **
 
@@ -26,7 +26,7 @@ Personal Information Used for Promotional Purposes
 
 **
 
-We may send you information from time to time about Trails.com promotional offerings and we may share your Personal Information with third parties who wish to send you promotional offerings. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from Trails.com by sending e-mail to [explore@trails.com](mailto:explore@trails.com) and, for third party promotional offerings, by contacting the source of that promotional offering.
+We may send you information from time to time about Trails.com promotional offerings and we may share your Personal Information with third parties who wish to send you promotional offerings. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from Trails.com by sending e-mail to [store@trails.com](mailto:store@trails.com) and, for third party promotional offerings, by contacting the source of that promotional offering.
 
 **
 
@@ -66,4 +66,4 @@ Questions, Comments, Concerns
 
 **
 
-If you have any questions or comments about our use of Personal Information, please contact us at [explore@trails.com](mailto:explore@trails.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information.
+If you have any questions or comments about our use of Personal Information, please contact us at [store@trails.com](mailto:store@trails.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information.
