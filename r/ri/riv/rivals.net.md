@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivals.net privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217220159id_/http%3A//www.rivals.net/default.asp%3Fsid%3D0%26p%3D51%26blip%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivals.net privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307231332id_/http%3A//www.rivals.net/default.asp%3Fsid%3D0%26p%3D51%26blip%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Rivals.net
 
