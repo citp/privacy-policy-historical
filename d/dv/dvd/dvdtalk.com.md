@@ -1,60 +1,63 @@
-> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602214125id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204233601id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for DVD Talk
 
-|    
-**DVD TALK FORUM**  
+[](http://www.dvdtalk.com/)
+
+| **DVD & MOVIE REVIEWS**  
 ---  
+  
+[All Reviews](http://www.dvdtalk.com/reviews/index.php)
+
+  
+  
+  
+**DVD TALK FORUM**  
 **Forum Area:**  
-**DVD TALK SITE**  
-• [DVD Release List](http://www.dvdtalk.com/bargain.html)  
+**REVIEWS & COLUMNS**  
 • [DVD Reviews](http://www.dvdtalk.com/reviews/index.php)  
-• [DVD Savant](http://www.dvdtalk.com/dvdsavant/spec.html)  
+• [Theatrical Reviews](http://www.dvdtalk.com/reviews/list.php?reviewType=Theatrical)  
+• [Video Game Reviews](http://www.dvdtalk.com/reviews/games/list.php)  
+• [Adult DVD Reviews](http://www.dvdtalk.com/reviews/list.php?reviewType=Adult+DVD+Video)  
+• [DVD Interviews](http://www.dvdtalk.com/dvdinterviews.html)
+
+• [The Aisle View](http://www.aisleview.com/index.html)  
+• [The Blue Room](http://www.dvdtalk.com/adult/index.html)  
+• [Cinema Gotham](http://www.dvdtalk.com/cinemagotham/index.html)  
 • [CineSchlock-O-Rama](http://www.dvdtalk.com/cineschlock/index.html)  
-• [DVD Talk Forum](http://www.dvdtalk.com/forum.html)  
-• [DVD Talk Price Search](http://www.dvdtalk.com/price.html)  
-• [DVD Talk Chat](http://www.dvdtalk.com/chat.html)  
-• **[DVD Talk Newsletter](http://www.dvdtalk.com/subscrbe.html)**  
+• [DVD Savant](http://www.dvdtalk.com/dvdsavant/index.html)  
+  
 **SHOP**  
+• [Adult DVD Empire](http://www.adultdvdempire.com/index.asp?partner_id=59826076)  
 • [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/dvdtalk) ([DVD](http://www.amazon.com/exec/obidos/redirect?tag=dvdtalk&path=subst/video/dvd/dvd.html))  
-• [Best Buy](http://service.bfast.com/bfast/click?bfmid=30991737&siteid=38641856=&bfpage=global468x60)  
-• [Buy.com](http://click.linksynergy.com/fs-bin/stat?id=cZdGXyuEAtc&offerid=13541.10000006&type=3&subid=0)  
-• [CD Now](http://www.cdnow.com/from=cr-2225175-1)  
+• [Buy.com](http://click.linksynergy.com/fs-bin/click?id=cZdGXyuEAtc&offerid=37803.10000207&type=3&subid=0)  
+• [DeepDiscountCD](http://www.deepdiscountcd.com/index.cfm?goto=home&referral=dvdtalk)  
 • [DeepDiscountDVD](http://www.deepdiscountdvd.com/redirect.cfm?referral=dvdtalkedt&goto=home)  
 • [DVD Empire](http://www.dvdempire.com/index.asp?partner_id=49648684)  
-• [DVD Overnight](http://www.dvdovernight.com/)  
-• [FiveStarDVD (Adult)](http://www.fivestardvd.com/home.asp?source=1005)  
+• [DVD Overnight](http://www.dvdovernight.com/index.asp?affil_id=PF2U4JP0)  
+• [DVD Planet](http://service.bfast.com/bfast/click?bfmid=26864318&siteid=30217318&bfpage=home)  
+• [Ebay](http://www.qksrv.net/click-280928-1643272)  
 • [Half.com](http://www.qksrv.net/click-280928-167876)  
 • [HKFlix.com](http://www.hkflix.com/xq/asp/aid.007782/qx/home.htm)  
-• [Movie Poster Store](http://www.dvdtalk.com/posters.html)  
+• [HTMarket.com](http://www.htmarket.com/)  
 • **[Complete List of Stores](http://www.dvdtalk.com/support.html)**  
-**DVD REVIEWS**  
-  
-[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=31&layout=multi&id=2209)
-
-Search reviews:  
-  
-  
-• [New DVD Reviews](http://www.dvdtalk.com/reviews/index.php)  
-• [Collector's Series Award](http://www.dvdtalk.com/reviews/list.php?adviceStart=1&adviceEnd=1&orderBy=Date&reviewType=DVD+Video&NReviews=50)  
-  
 **DVD RESOURCE**  
+• [DVD Talk Forum](http://www.dvdtalk.com/forum/index.php)  
+• [DVD Price Search](http://www.dvdtalk.com/price.html)  
 • [Store Ratings](http://www.dvdtalk.com/store.html)  
 • [Customer Service #'s](http://www.dvdtalk.com/csr.html)  
 • [DVD FAQ](http://www.dvdtalk.com/faq.html)  
 • [Regional Encoding Info](http://www.dvdtalk.com/rce.html)  
+• [Search Toolbar](http://www.dvdtalk.com/dvdtalkinanutshell.html)  
 • [Links](http://www.dvdtalk.com/links.html)  
 **DVDTALK INFO**  
 • [About DVD Talk](http://www.dvdtalk.com/welcome.html)  
 • [Advertise](http://www.dvdtalk.com/ad.html)  
 • [Contribute](http://www.dvdtalk.com/contribute.html)  
 • [Tell A Friend](http://www.dvdtalk.com/recommend.html)  
-• [Newsletter SUBSCRIBE](http://www.dvdtalk.com/subscribe.html)  
-• [Join DVD Talk Forum](http://www.dvdtalk.com/forum/register.php)  
-**SEARCH**  
+• [Newsletter Subscribe](http://www.dvdtalk.com/subscribe.html)  
+• [Join DVD Talk Forum](http://www.dvdtalk.com/forum/register.php) [](http://bilbo.counted.com/7/23448/)  
   
-  
-[](http://bilbo.counted.com/7/23448/)  
   
 **DVD TALK   
 Coupons**   
@@ -88,11 +91,19 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 ## Choice/Opt-Out
 
-We use Gorilla Nation, DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [Click here](http://www.networkadvertising.org/optout_nonppii.asp)
+We use Fast Click, Tribal Fusion and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [Click here](http://www.networkadvertising.org/optout_nonppii.asp)
 
 ## Third Party Cookies 
 
-In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation, Double Click or their affiliates, or individual advertisers may place or recognize a unique "cookie" on your browser. 
+In the course of serving advertisements to this site, any of our third-party ad server: Fast Click and Tribal Fusion or their affiliates, or individual advertisers may place or recognize a unique "cookie" on your browser. 
+
+## Correct/Update
+
+This site gives users the following options for changing and modifying information previously provided. 
+
+## DVD Talk Nutshell Toolbar
+
+The DVD Talk Nutshell Toolbar is designed for utility and as such does not require you to disclose your personal information to download and use it. The Toolbar does not monitor or individually track your usage, is in no way Spyware and should not interfere in any way with your searches (ie no pop-ups, unders, co-opted links, etc). The only tracking information used by the DVD Talk Nutshell Toolbar are the affiliate links at several of the listed retailers. This is designed to give DVD Talk credit for sales generated by the Toolbar and not for any other purpose. 
 
 ## Correct/Update
 
@@ -104,10 +115,4 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Geoffrey Kleinman Kleinman.com Inc. 8872 SW 82nd Ave Portland, OR 97223 talk@dvdtalk.com |  | **Special Offers**  
----  
-  
-[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=4&layout=multi&id=1748)  
-  
-  
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Geoffrey Kleinman Kleinman.com Inc. 8872 SW 82nd Ave Portland, OR 97223 talk@dvdtalk.com | 
