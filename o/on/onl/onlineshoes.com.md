@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineshoes.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205013609id_/http%3A//www.onlineshoes.com/info.asp%3Finfo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineshoes.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609180212id_/http%3A//www.onlineshoes.com/info.asp%3Finfo%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
