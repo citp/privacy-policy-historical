@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the solarviews.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520055345id_/http%3A//solarviews.com/eng/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarviews.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207053100id_/http%3A//solarviews.com/eng/privacy.htm) for the most accurate reproduction.*
 
 # Views of the Solar System Privacy Statement
+
+**DOUBLECLICK & SONAR BANNERS** This website uses a third party advertising network (Sonar, specifically) to serve up some of the ads you see on various pages. In addition to our privacy policy, they have their own privacy policy regarding what information is tracked using their system. If you'd like more information about their information gathering practices and "opt-out" procedures please [click here:](http://www.sonar.com/content/privacy.htm)
 
 **Privacy Statement**  
 
