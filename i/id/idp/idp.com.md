@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401225745id_/http%3A//www.idp.com/information/article21.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204225749id_/http%3A//www.idp.com/information/article21.asp) for the most accurate reproduction.*
 
 # IDP Portal - Privacy Policy
 
   * Privacy Policy
   * Protecting Personal Information
   * Information that the company holds
+  * Web site tracking
   * Use and Disclosure of Personal Information 
   * Security of Personal Information
   * Right of Access by the Individual
@@ -30,6 +31,40 @@ In the normal course of business activities, the company will collect personal i
 Personal information may include an individual's name, address, date of birth, contact details, occupation, and professional memberships.
 
 Sensitive information includes details of an individual's racial or ethnic origin, religious beliefs, and health information. The company must obtain the consent of the person to collect and use that information.
+
+## Web site traffic tracking
+
+Idp uses an independent company, Red Sheriff ([www.redsheriff.com](http://www.redsheriff.com/) ) to measure and analyse its internet usage to ensure the site meets its objectives with advertisers and users. Individual privacy is protected but idp global gains insights on how make the site more useful for advertisers as well as our users. Red Sheriff is a leader in the internet industry in interactive measurement technologies and market research. Its tracking collects broadly aggregated statistics on: 
+
+  * The number of page views (or page impressions) that occur on an idp site; 
+  * The number of unique visitors; 
+  * How long these unique visitors (on average) spend on an idp site; and 
+  * Common entry and exit points to idp sites. 
+
+
+
+The grouped Red Sheriff statistics are made available to educational and other potential advertisers for the purpose of conducting comparisons with other competitive sites. 
+
+Pages on idp sites may be coded with the Red Measure software. This uses either Javascript or a Java Applet*, on the source of the web page. This software stores a "cookie" in the browser, that contains a unique identifier. This enables Red Sheriff to track the number of unique visitors to idp sites. This information is collected and aggregated by Red Sheriff, and in no way does this unique identifier identify a user personally. idp does not and will not marry any data collected by Red Sheriff with any personal information collected by idp. 
+
+If necessary, users can view the content on the web site and disable aspects of its tracking. Red Sheriff’s software code cannot be disabled entirely as the code takes into account all web-browser configurations, including the disabling of Java and Javascript. But, if cookies are disabled in your browser, then Red Sheriff cannot track you as a unique visitor, and will consider you as a new visitor each time you browse a new page on the Network. 
+
+### Disabling Cookies in Netscape and Internet Explorer (IE)
+
+If you use Netscape browser, go to the Edit -> Preferences -> Advanced menu. Change your cookie configuration.
+
+Disabling Microsoft’s Internet Explorer depends on which version you use. To check for your version, click Help -> About Internet Explorer 
+
+In the latest version IE 6.0, go to the Tools -> Internet Options -> Privacy menu. You then select how the browser accepts cookies, based on the source of the cookie, and whether the source has a "privacy policy." There are also features for the advanced user for greater control over cookies. 
+
+In IE 5.0, go Tools -> Internet Options -> Security. Choose the security level for four different browsing conditions: Internet Sites, Local Sites, "Trusted" Sites, and Restricted Sites. If you select "Internet," and click on Custom Level, a dialog box enables you to either accept all, warn before accepting, or reject all cookies. 
+
+With IE 4.0, go View -> Internet Options ->Advanced menu. Again, as with IE5, you can accept all, warn before accepting, or reject all. 
+
+To learn more about Red Sheriff's privacy policy, [click here](http://www.redsheriff.com/uk/6.0.0.htm).   
+
+
+*The use of Javascript and/or Java Applet depends on which browser you use. Typically Internet Explorer users with Version 4 or above will use the Javascript method. Netscape users, or users whose browser does not support Javascript 1.1, will use a Java Applet method.
 
 ## Use and Disclosure of Personal Information 
 
