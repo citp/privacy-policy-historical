@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wotol.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811171944id_/http%3A//www.wotol.com/uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wotol.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205001117id_/http%3A//wotol.com/uk/privacy.asp) for the most accurate reproduction.*
 
 # Wotol
 
@@ -26,21 +26,17 @@ Textile, Garment, Home furnishing, Machinery, Others:
 ---  
 |  |  |  |   
   
-  
-**Next auction**  
-**Very large** auction. three factories the same day! One **air jet weaving** factory and two **printing and finisshing** factories.   
-Venue: Lyon - France  
-15 May 2003  
+Consult or post auctions  
 
 
-> [ **For more info**](https://web.archive.org/uk/auction/auction.asp)  
+> [ **For more info**](https://web.archive.org/auction)  
   
 ---  
 |  |  |  |   
   
-Consult or post your tenders 
+Consult or post tenders 
 
-> [ **Click here**](https://web.archive.org/uk/tenders/tenders.asp)  
+> [ **Click here**](https://web.archive.org/auction)  
   
   
 | 
