@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowershopnetwork.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202174407id_/http%3A//www.flowershopnetwork.com/pages/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowershopnetwork.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607025910id_/http%3A//www.flowershopnetwork.com/pages/policies.php) for the most accurate reproduction.*
 
 # Flower Shop Network Privacy Policy
 
@@ -11,6 +11,9 @@
 Lisa of Marietta, GA is the winner of the December 1st drawing.  
   
   
+[Flower Tips](https://web.archive.org/pages/tips/)  
+---  
+Supply detailed information when ordering flowers.  
   
   
   
