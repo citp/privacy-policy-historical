@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymlp.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608071350id_/http%3A//www.ymlp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymlp.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206040939id_/http%3A//www.ymlp.com/privacy.html) for the most accurate reproduction.*
 
 # Your Mailinglist Provider
 
@@ -23,4 +23,4 @@ Cookies are used in the online control panel to authenticate users. We use these
 **What is our position on unsolicited email (spam)?**
 
 YourMailinglistProvider has a strict anti-spam policy.   
-For more information about this, take a look at our [anti spam policy](https://web.archive.org/web/20030608071350id_/http%3A//www.ymlp.com/antispam.html).
+For more information about this, take a look at our [anti spam policy](https://web.archive.org/web/20031206040939id_/http%3A//www.ymlp.com/antispam.html).
