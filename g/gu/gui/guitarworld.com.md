@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the guitarworld.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010094011id_/http%3A//www.guitarworld.com/0100/framesets/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarworld.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404041909id_/http%3A//www.guitarworld.com/privacy.html) for the most accurate reproduction.*
 
-# Guitar World | Privacy Policy
+# PRIVACY POLICY
+
+[](https://web.archive.org/subscribe) | 
 
 Future Network USA believes that you should control the dissemination of the personally identifiable information that you provide when using the www.guitarworld.com web site ("the Site"). Please review this policy carefully to understand how we will treat the personally identifiable information that you give to us.
 
