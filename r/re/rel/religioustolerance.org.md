@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the religioustolerance.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205051025id_/http%3A//religioustolerance.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religioustolerance.org privacy policy that was archived on 2004-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040409135546id_/http%3A//religioustolerance.org/privacy.htm) for the most accurate reproduction.*
 
 # OCRT Privacy statement
 
@@ -28,6 +28,10 @@ If you have any concerns, please [Email us.](mailto:ocrt@religioustolerance.org?
 
 The only information that we share is on our web site for all to see:
 
+**Click below to Visit one of our Sponsors:**
+
+This essay continues below.
+
 ### External links from our web site:
 
 ### Incoming E-mails:
@@ -40,7 +44,7 @@ About one out of every thousand E-mails contains a thought provoking theological
 
 ### Child visitors:
 
-A [poll of our readers](https://web.archive.org/web/20031205051025id_/http%3A//religioustolerance.org/poll_dat.htm) has indicated that 0.2% are under 13 years of age. The _Children's Online Privacy Protection Act_ became effective in the U.S. on 2000-APR-21. **2** It requires compliance from commercial web sites which:
+A [poll of our readers](https://web.archive.org/web/20040409135546id_/http%3A//religioustolerance.org/poll_dat.htm) has indicated that 0.2% are under 13 years of age. The _Children's Online Privacy Protection Act_ became effective in the U.S. on 2000-APR-21. **2** It requires compliance from commercial web sites which:
 
 We do not believe that our site qualifies under either of these criteria.
 
@@ -77,4 +81,4 @@ Voice: (613) 547-6600. Our office is staffed at irregular times. We are in the E
 Latest update: 2003-JUN-16  
 Author: B.A. Robinson**
 
-#### [ ](https://web.archive.org/web/20031205051025id_/http%3A//religioustolerance.org/welcome.htm#new) [ ](https://web.archive.org/web/20031205051025id_/http%3A//religioustolerance.org/search.htm) [ ](https://web.archive.org/web/20031205051025id_/http%3A//religioustolerance.org/toc.htm) [ ](https://web.archive.org/web/20031205051025id_/http%3A//religioustolerance.org/mail.htm) [ ](https://web.archive.org/web/20031205051025id_/http%3A//religioustolerance.org/help.htm) 
+#### [ ](https://web.archive.org/web/20040409135546id_/http%3A//religioustolerance.org/welcome.htm#new) [ ](https://web.archive.org/web/20040409135546id_/http%3A//religioustolerance.org/search.htm) [ ](https://web.archive.org/web/20040409135546id_/http%3A//religioustolerance.org/toc.htm) [ ](https://web.archive.org/web/20040409135546id_/http%3A//religioustolerance.org/mail.htm) [ ](https://web.archive.org/web/20040409135546id_/http%3A//religioustolerance.org/help.htm) 
