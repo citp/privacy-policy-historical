@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603163032id_/http%3A//www.job.com/info.cfm%3Fi%3Dprivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094216id_/http%3A//www.job.com/info.cfm%3Fi%3Dprivacy.cfm) for the most accurate reproduction.*
 
-# Job.com: Free Resume Posting and Job Searching
+# Job.com - Gear for your Career!
 
 **Job.com's Privacy Information - Overview**
 
