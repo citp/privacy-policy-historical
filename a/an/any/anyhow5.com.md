@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyhow5.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603031651id_/http%3A//www.anyhow5.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyhow5.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214064450id_/http%3A//www.anyhow5.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy policy - anyhow5 will not sell, transfer, assign or rent our customer or user information to any third party .
 
