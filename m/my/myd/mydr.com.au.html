@@ -1,57 +1,22 @@
-<!--The following is the downloaded HTML source of the mydr.com.au privacy policy that was archived on 2000-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001204052100id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydr.com.au privacy policy that was archived on 2001-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010606145948id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
 <title>myDr Privacy Policy</title>
 <link rel="stylesheet" href="/styles/mydr.css" type="text/css">
 
-<script language="JavaScript">
+<script language="JavaScript" type="text/javascript">
 <!--
-// Roll Over Stuff
+
 if (document.images) {
-		
-	pic1over = new Image(159,31);
-	pic2over = new Image(159,31);
-	pic3over = new Image(159,47);
-	pic4over = new Image(159,29);
-	pic5over = new Image(159,29);
-	pic6over = new Image(159,29);
-	pic7over = new Image(159,32);
-	pic8over = new Image(159,33);
 	pic9over = new Image(75,26);
-		
-	pic1over.src = "/images/nav/regist_o.gif";
-	pic2over.src = "/images/nav/topics_o.gif";
-	pic3over.src = "/images/nav/hlthprof_o.gif";
-	pic4over.src = "/images/nav/medifind_o.gif";
-	pic5over.src = "/images/nav/drugs_o.gif";
-	pic6over.src = "/images/nav/support_o.gif";
-	pic7over.src = "/images/nav/expert_o.gif";
-	pic8over.src = "/images/more_o.gif";
 	pic9over.src = "/images/form/search_o.gif";	
-	
-	pic1out = new Image(159,31);
-	pic2out = new Image(159,31);
-	pic3out = new Image(159,47);
-	pic4out = new Image(159,29);
-	pic5out = new Image(159,29);
-	pic6out = new Image(159,29);
-	pic7out = new Image(159,32);
-	pic8out = new Image(159,33);
 	pic9out = new Image(75,26);
-		
-	pic1out.src = "/images/nav/regist.gif";
-	pic2out.src = "/images/nav/topics.gif";
-	pic3out.src = "/images/nav/hlthprof.gif";
-	pic4out.src = "/images/nav/medifind.gif";
-	pic5out.src = "/images/nav/drugs.gif";
-	pic6out.src = "/images/nav/support.gif";
-	pic7out.src = "/images/nav/expert.gif";
-	pic8out.src = "/images/more.gif";
 	pic9out.src = "/images/form/search.gif";	
 }
 
+// Roll Over Stuff
 function rollOver(img, target) {
 	if (document.images) {
 		document[target].src = eval(img + "over.src");
@@ -83,78 +48,7 @@ function isblank(s)
 		// This if the function that perfroms from validation. It will be invoked from the
 		// from onSubmit event handler. The handler should return whatever value this function returns
 		//
-function verify(f)
-{
-	var msg;
-	var empty_fields="";
-	var errors ="";
-			
-		// Loop throught the elements of the form, looking for all text and textarea elements that
-		// don't have an "optional" properety defined
-		// Then check for fields taht are empty and make a list of them
-		// Also, if any of these elements have a min or max poreperty defined then veriy that they are
-		// and that they are in the right range
-		// put toghter error esaged based on the problems found
-		
-		for( var i=0; i<f.length; i++)
-		{
-			var e = f.elements[i];
-			if (((e.type == "text") || (e.type == "textarea")) && !e.optional)
-			{
-				// fisrt check to see if the field is empty
-				if ((e.value == null) || (e.value == "" ) || isblank(e.value))
-				{
-					empty_fields += "\n             " + e.name;
-					continue;
-				}
-				
-				// now check for field that are supposed to be numeric
-				if (e.numeric || (e.min != null) || (e.max != null))
-				{
-					//alert(e.value);
-					var v = parseFloat(e.value);
-					if (isNaN(v) || 
-						(( e.min != null) && (v < e.min)) ||
-						(( e.max != null) && (v > e.max)))
-						{
-							errors += "- the field " + e.name + " must be a number";
-						 if (e.min != null)
-							errors += "- that is greater than " + e.min;
-						 if (e.max != null && e.min != null)
-							errors += "- that is less than " + e.max;
-						 else if (e.max != null)
-							errors += "- that is less than " + e.max;
-							errors += ".\n";
-				}
-			}
-		}
-	}
-						
-	// now. if there was any errors, display the messages and return false
-	// otherwise return true and submit the form
-	
-	if(!empty_fields && !errors) 
-	   {
-		return true;}
-	   
-	msg = "__________________________________________________________\n\n"
-	msg +=" The function was not performed because there were errors in the\n";
-	msg +=" values that were entered for submission.\n";
-	msg +="__________________________________________________________\n\n"
-	
-	if (empty_fields)
-	{
-		msg += " - The following required fields are empty:"
-			+ empty_fields + "\n";
-		if (errors)
-			msg += "\n";
-	}
-	
-		msg += errors;
-		alert(msg);
-		return false;
-}
-// End Form Validation Functions
+
 
 // ************ Start POPHELPJS Include ************
 
@@ -162,10 +56,10 @@ function verify(f)
 //	Help pop up code
 //######################
 //	defaults
-		FixedWidth = 640
-		PopW = 500
-		PopH = 300
-		YOffset = 200;
+	FixedWidth = 640
+	PopW = 500
+	PopH = 300
+	YOffset = 200;
 	var BrName = navigator.appName;
 
 	// PopPath = "PopUps/"
@@ -185,110 +79,53 @@ function PopUp(URL) {
 	if (BrName == "Netscape"){
 		XOffset=XOffset+parent.screenX;
 		YOffset=YOffset+parent.screenY;
-		PopWindow = window.open(URL,"","status=no,width=" + PopW + ",height=" + PopH + ",screenX=" + XOffset + ",screenY=" + YOffset + ",top=" + YOffset + ",left=" + XOffset + ",scrollbars=yes,resizable=yes,border=no,setHotKeys=no,menubar=no,locationbar=no,")
-		PopWindow.opener = self;
-		PopWindow.focus;
-		PopDone = 1
 	}
 	if (BrName == "Microsoft Internet Explorer"){
 		XOffset = screen.availHeight/3;
 		YOffset =screen.availWidth/3;
-		PopWindow = window.open(URL,"","status=no,width=" + PopW + ",height=" + PopH + ",screenX=" + XOffset + ",screenY=" + YOffset + ",top=" + YOffset + ",left=" + XOffset + ", scrollbars=yes,resizable=yes,border=no,setHotKeys=no,menubar=no,locationbar=no")
-		PopWindow.opener = self;
-		PopWindow.focus;
-		PopDone = 1
 	}
+	PopWindow = window.open(URL,"","status=no,width=" + PopW + ",height=" + PopH + ",screenX=" + XOffset + ",screenY=" + YOffset + ",top=" + YOffset + ",left=" + XOffset + ", scrollbars=yes,resizable=yes,border=no,setHotKeys=no,menubar=no,locationbar=no")
+	PopWindow.opener = self;
+	PopWindow.focus;
+	PopDone = 1
 }
 
 //######################
-//	Dr MimiWeb pop up code
+//	Media pop up code
 //######################
-//	defaults
-		PrintFixedWidth = 640
-		PrintPopW = 690
-		PrintPopH = 480
-		PrintYOffset = 50;
-	var PrintBrName = navigator.appName;
-	PrintPopPath = "Printweb/"
-	PrintPopFile = "asp"
-	PrintPopDone = 0
-//######################
-function PrintPopUp(PrintURL)
-	{
-	if(PrintPopDone ==1){PrintPopWindow.close();}
-	PrintXOffset = (PrintFixedWidth - PrintPopW )/2; 
-	PrintURL = PrintPopPath  + PrintURL + "." + PrintPopFile 
+function PopUpMedia(Type,ID,PopW,PopH) {
+	if (PopW == null) {PopW = 200;}
+	if (PopH == null) {PopH = 200;}
+
+	if(PopDone == 1)
+		{PopWindow.focus; 
+		 PopDone = 0;
+		}
+	XOffset = (FixedWidth - PopW )/2; 
 	
-	if (PrintBrName == "Netscape")
-			{PrintXOffset=PrintXOffset+parent.screenX;PrintYOffset=PrintYOffset+parent.screenY;
-			PrintPopWindow = window.open(PrintURL,"","status=yes,width=" + PrintPopW + ",height=" + PrintPopH + ",screenX=" + PrintXOffset + ",screenY=" + PrintYOffset + ",top=" + PrintYOffset + ",left=" + PrintXOffset + ", resizable=no,border=no,setHotKeys=no,statusbar=no,menubar=no,locationbar=no,")
-			PrintPopWindow.opener = self;
-			PrintPopWindow.focus;
-			PrintPopDone = 1
-			}
-	if (BrName == "Microsoft Internet Explorer"){
-			XOffset = screen.availHeight/3;
-			YOffset =screen.availWidth/3;
-			PrintPopWindow = window.open(PrintURL,"","status=yes,width=" + PrintPopW + ",height=" + PrintPopH + ",screenX=" + PrintXOffset + ",screenY=" + PrintYOffset + ",top=" + PrintYOffset + ",left=" + PrintXOffset + ", scrollbars=auto,resizable=no,border=no,setHotKeys=no,statusbar=no,menubar=no,locationbar=no,")
-			PrintPopWindow.opener = self;
-			PrintPopWindow.focus;
-			PrintPopDone = 1
-			}
+	URL='/mediadisplay.asp?id=' + ID + '&Type=' + Type;
+	if (BrName == "Netscape"){
+		XOffset=XOffset+parent.screenX;
+		YOffset=YOffset+parent.screenY;
 	}
-
-
-
-//######################
-//	Dr PrinterFriendly pop up code
-//######################
-//	defaults
-		PrintFixedWidth = 640
-		PrintPopW = 635
-		PrintPopH = 480
-		PrintYOffset = 50;
-	var PrintBrName = navigator.appName;
-	PrintPopPath = ""
-	PrintPopFile = ""
-	PrintPopDone = 0
-//######################
-//######################
-function PrintPop(PrintURL)
-	{
-	if(PrintPopDone ==1){PrintPopWindow.close();}
-	PrintXOffset = (PrintFixedWidth - PrintPopW )/2; 
-	
-	if (PrintBrName == "Netscape")
-			{PrintXOffset=PrintXOffset+parent.screenX;PrintYOffset=PrintYOffset+parent.screenY;
-			PrintPopWindow = window.open(PrintURL,"","width=" + PrintPopW + ",height=" + PrintPopH + ",screenX=" + PrintXOffset + ",screenY=" + PrintYOffset + ",top=" + PrintYOffset + ",left=" + PrintXOffset + ", resizable=no,border=no,setHotKeys=no,statusbar=no,menubar=no,locationbar=no, Scrollbars=yes")
-			PrintPopWindow.opener = self;
-			PrintPopWindow.focus;
-			PrintPopDone = 1
-			}
 	if (BrName == "Microsoft Internet Explorer"){
-			XOffset = screen.availHeight/3;
-			YOffset =screen.availWidth/3;
-			PrintPopWindow = window.open(PrintURL,"","width=" + PrintPopW + ",height=" + PrintPopH + ",screenX=" + PrintXOffset + ",screenY=" + PrintYOffset + ",top=" + PrintYOffset + ",left=" + PrintXOffset + ", resizable=no,border=no,setHotKeys=no,statusbar=no,menubar=no,locationbar=no, Scrollbars=yes")
-			PrintPopWindow.opener = self;
-			PrintPopWindow.focus;
-			PrintPopDone = 1
-			}
+		XOffset = screen.availHeight/3;
+		YOffset =screen.availWidth/3;
 	}
-	
-	
-	
-
-
+	PopWindow = window.open(URL,"","status=no,width=" + PopW + ",height=" + PopH + ",screenX=" + XOffset + ",screenY=" + YOffset + ",top=" + YOffset + ",left=" + XOffset + ", scrollbars=no,resizable=yes,border=no,setHotKeys=no,menubar=no,locationbar=no")
+	PopWindow.opener = self;
+	PopWindow.focus;
+	PopDone = 1
+}
 
 //######################
 //	Login pop up code
 //######################
 //	defaults
-// steveD altered LFW and LPW from 400 and 350 respectively
-// steveP set them back to make them work
-		LoginFixedWidth = 640
-		LoginPopW = 320
-		LoginPopH = 180
-		LoginYOffset = 200;
+	LoginFixedWidth = 640
+	LoginPopW = 320
+	LoginPopH = 180
+	LoginYOffset = 200;
 	var LoginBrName = navigator.appName;
 	LoginPopPath = "/Login/"
 	LoginPopFile = "asp"
@@ -296,7 +133,7 @@ function PrintPop(PrintURL)
 //######################
 function LoginPopUp(LoginURL) {
 
-	if(LoginPopDone ==1) {	
+	if(LoginPopDone ==1) {
 		LoginPopWindow.focus;
 		LoginPopDone = 0;
 	}
@@ -304,51 +141,61 @@ function LoginPopUp(LoginURL) {
 	LoginXOffset = (LoginFixedWidth - LoginPopW )/2; 
 	LoginURL = LoginPopPath  + LoginURL + "." + LoginPopFile 
 	
-	//alert(LoginURL);
-	// the position of the popup window will be the same for the help 
-	// and will be based on the position of the netscpae broswer
 	if (LoginBrName == "Netscape") {
 		LoginXOffset=LoginXOffset+parent.screenX;LoginYOffset=LoginYOffset+parent.screenY;
-		//alert(LoginXOffset + ", " + LoginYOffset);
-		LoginPopWindow = window.open(LoginURL,"","status=no,width=" + LoginPopW + ",height=" + LoginPopH + ",screenX=" + LoginXOffset + ",screenY=" + LoginYOffset + ",top=" + LoginYOffset + ",left=" + LoginXOffset + ", scrollbars=auto,resizable=yes,border=no,setHotKeys=no,statusbar=no,menubar=no,locationbar=no")
-		LoginPopWindow.opener = self;
-		LoginPopWindow.focus;
-		LoginPopDone = 1
 	}
-	// the position of the popup login will be based on the clients 
-	// screen resolution and will position somewhere near the centre of the screen
-	// position is independant of browser size or position.
-	// this is because Microsoft has no way to reference the parent browsers curretn x,y position
 	
 	if (BrName == "Microsoft Internet Explorer") {
 		LoginXOffset = screen.availHeight/2;
 		LoginYOffset =screen.availWidth/3;
-		//alert(LoginXOffset + ", " + LoginYOffset);
-		LoginPopWindow = window.open(LoginURL,"","status=no,width=" + LoginPopW + ",height=" + LoginPopH + ",screenX=" + LoginXOffset + ",screenY=" + LoginYOffset + ",top=" + LoginYOffset + ",left=" + LoginXOffset + ", scrollbars=auto,resizable=no,border=no,setHotKeys=no,statusbar=no,menubar=no,locationbar=no")
-		LoginPopWindow.opener = self;
-		LoginPopWindow.focus;
-		LoginPopDone = 1
 	}
+	LoginPopWindow = window.open(LoginURL,"","status=no,width=" + LoginPopW + ",height=" + LoginPopH + ",screenX=" + LoginXOffset + ",screenY=" + LoginYOffset + ",top=" + LoginYOffset + ",left=" + LoginXOffset + ", scrollbars=auto,resizable=no,border=no,setHotKeys=no,statusbar=no,menubar=no,locationbar=no")
+	LoginPopWindow.opener = self;
+	LoginPopWindow.focus;
+	LoginPopDone = 1
 }
+
+//######################
+//	Dr MimiWeb pop up code
+//######################
+//	defaults
+var MiniWebWindow = null;
 
 function MiniWebPopup(PopupURL)
 {
-	MiniWebWindow = window.open(PopupURL, "", "status=yes,width=700,height=500,screenX=20,screenY=20,top=20,left=20,scrollbars=yes,resizable=yes")
-	//MiniWebWindow.opener = self;
-	MiniWebWindow.focus;
+	if (MiniWebWindow == null)
+	{
+		MiniWebWindow = window.open(PopupURL, "MiniWeb", "status=yes,width=700,height=500,screenX=20,screenY=20,top=20,left=20,scrollbars=yes,resizable=yes")
+		//MiniWebWindow.opener = self;
+	}
+	else
+	{
+		if (MiniWebWindow.closed)
+		{
+			// Reopen the window if needed
+			MiniWebWindow = window.open(PopupURL, "MiniWeb", "status=yes,width=700,height=500,screenX=20,screenY=20,top=20,left=20,scrollbars=yes,resizable=yes")
+		}
+		else
+		{
+			//reset what the page is to see.
+			MiniWebWindow.location = PopupURL;
+		}
+	}	
+	MiniWebWindow.focus();
+	//alert("Finished after focus")
 }
 //************ End POPHELPJS Include ************
 //-->
 </script>	
 
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+
 </head>
-
 <body topmargin="0" marginwidth="0" marginheight="0" leftmargin="0" rightmargin="0" bgcolor="#FFFFFF">
-
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="190"><img src="/images/logo.jpg" border="0" width="190" height="124" alt="myDr.com.au"></td>
+    <td width="190"><a href="/"><img src="/images/logo.jpg" border="0" width="190" height="124" alt="myDr.com.au"></a></td>
     <td background="/images/bg/orange.jpg" width="15%">&nbsp;</td>
     <td width="100%"> 
 	  <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/images/bg/top.jpg">
@@ -361,26 +208,25 @@ function MiniWebPopup(PopupURL)
               <tr> 
                 <td valign="top"> 
 
-                  <table border="0" bordercolor="red" cellspacing="0" cellpadding="0" width="100%" background="/images/spacer.gif">
-                    <tbody><tr> 
-                      <td width="100%">&nbsp;</td>
-                      <td width="15"><img src="/images/tab1.gif" width="15" height="21"></td>
-                      <td bgcolor="#000099" nowrap=""><a class="link" href="/practice/"><font color="#FFFFFF" size="0">PROFESSIONALS</font></a></td>
-                      <td width="28"><img src="/images/tab2.gif" width="28" height="21"></td>
-                      <td bgcolor="#FF9900" nowrap=""><a class="link" href="javascript:LoginPopUp('userLogin');"><font color="#FFFFFF" size="0">myDr MEMBERS</font></a></td>
-                      <td width="27"><img src="/images/tab3.gif" width="27" height="21"></td>
-                      <td bgcolor="#000066" nowrap=""><a class="link" href="/whyregister.asp"><font color="#FFFFFF" size="0">JOIN myDr</font></a></td>
-                      <td width="16"><img src="/images/tab4.gif" width="16" height="21"></td>
-                    </tr>
-                  </tbody></table>
+                 <table border="0" bordercolor="red" cellspacing="0" cellpadding="0" width="100%" background="/images/spacer.gif">
+                   <tbody><tr> 
+                    <td width="100%">&nbsp;</td>
+                    <td width="15"><img src="/images/tab1.gif" width="15" height="21" alt=""></td>
+                    <td bgcolor="#000099" nowrap=""><a class="link" href="/practice/"><font color="#FFFFFF" size="-4">Professionals' Site Builder</font></a></td>
+                    <td width="28"><img src="/images/tab2.gif" width="28" height="21" alt=""></td>
+                    <td bgcolor="#FF9900" nowrap=""><a class="link" href="javascript:LoginPopUp('userLogin');"><font color="#FFFFFF" size="-4">myDr Members' Login</font></a></td>
+                    <td width="27"><img src="/images/tab3_redone.gif" width="14" height="21" alt=""></td>
+                  
+                   </tr>
+                </tbody></table>
 
-                  <table width="350" border="0" cellspacing="0" cellpadding="0">
+                 <table width="350" border="0" cellspacing="0" cellpadding="0">
                     <tbody><tr>
-                      <td><img src="/images/spacer.gif" width="350" height="2"></td>
+                      <td><img src="/images/spacer.gif" width="350" height="2" alt=""></td>
                     </tr>
                   </tbody></table>
                 </td>
-                <td align="right" width="35%" background="/images/bg/bl_stretch.gif"><img src="/images/rgt_blu.jpg" border="0" width="165" height="39"></td>
+                <td align="right" width="35%" background="/images/bg/bl_stretch.gif"><img src="/images/rgt_blu.jpg" border="0" width="165" height="39" alt=""></td>
               </tr>
             </tbody></table>
           </td>
@@ -395,237 +241,468 @@ function MiniWebPopup(PopupURL)
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr valign="top"> 
-    <td width="166" align="right"> <img src="/images/spacer.gif" width="166" height="5"><br>
-	<!-- ************ Start NAV Include ************ //-->
+    <td width="166" align="right">
+		<img src="/images/spacer.gif" width="166" height="40"><br>
+		
 
-	<!-----------------------------------------------------------------------------------		Author:			Ernie Van Veen		Date Created:	1 August 2000		Description:	Facilitate a 'popout' menu system similar to the Start menu						on the Windows Task Bar.  Uses DHTML, and addresses the 						requirements of either NS or IE browsers after detecting the						browser type, version and platform.  Browsers that do not handle						DHTML are presented with a static menu bar.						-----------------------------------------------------------------		Modified by:	[name]		Date Modified:	[date]		Reason:			[text]		Modifications:	[text]		------------------------------------------------------------------------------------>
+<!-- Javascript for rollover on the go button -->
+<script language="Javascript" type="text/javascript">
+<!-- 
+picAout = new Image(30,14);
+picAover = new Image(30,14);
 
-	<!--- Start DHTML Menu Code --->
+picAout.src = "/images/nav/go.gif";
+picAover.src = "/images/nav/go_o.gif";
+
+function rollOver2(img, target) {
+	if (document.images) {
+		document[target].src = eval(img + "over.src");
+	}
+}
+function rollOut2(img, target) {
+	if (document.images) {
+		document[target].src = eval(img + "out.src");
+	}
+}
+//-->
+</script>
+
+<script language="Javascript" type="text/javascript">
+<!--
+function Quicksubmit(type) {
 	
-		<!-----------------------------------------------------------------------------			The following include tests to ensure that the browser is capable			of handling dhtml, and if it is, tests whether the flavour is IE or NS,			and then passes the result on in the var 'b_status'.		------------------------------------------------------------------------------>
-		
-		
-		
-		<!--- if the browser is Netscape, get the Netscape javascript, else get the IE js --->
-		
-		
-		<!--- preload all of the images to facilitate rollovers for the main menu options --->
-		<script language="javascript">
-		
-			ask_an_expert_on = new Image();
-			ask_an_expert_off = new Image();
-			healthsearch_on = new Image();
-			healthsearch_off = new Image();
-			drugs_on = new Image();
-			drugs_off = new Image();
-			health_professionals_on = new Image();
-			health_professionals_off = new Image();
-			medical_topics_on = new Image();
-			medical_topics_off = new Image();
-			myhealthfile_on = new Image();
-			myhealthfile_off = new Image();
-			news_n_features_on = new Image();
-			news_n_features_off = new Image();
-			support_groups_on = new Image();
-			support_groups_off = new Image();
-			homepage_on = new Image();
-			homepage_off = new Image();
-			
-			homepage_on.src = '/images/nav/homepage_o.gif';
-			homepage_off.src = '/images/nav/homepage.gif';
-			ask_an_expert_on.src = '/images/nav/expert_o.gif';
-			ask_an_expert_off.src = '/images/nav/expert.gif';
-			healthsearch_on.src = '/images/nav/healthsearch_o.gif';
-			healthsearch_off.src = '/images/nav/healthsearch.gif';
-			drugs_on.src = '/images/nav/drugs_o.gif';
-			drugs_off.src = '/images/nav/drugs.gif';
-			health_professionals_on.src = '/images/nav/hlthprof_o.gif';
-			health_professionals_off.src = '/images/nav/hlthprof.gif';
-			medical_topics_on.src = '/images/nav/topics_o.gif';
-			medical_topics_off.src = '/images/nav/topics.gif';
-			myhealthfile_on.src = '/images/nav/healthfile_o.gif';
-			myhealthfile_off.src = '/images/nav/healthfile.gif';
-			support_groups_on.src = '/images/nav/support_o.gif';
-			support_groups_off.src = '/images/nav/support.gif';
-			
-			//the following two functions perform image rollover tasks
-			function imgOn(imgName)
-			{
-				if (document.images)
-				{
-					document[imgName].src = eval(imgName + "_on.src");
-				}
-			}
-
-			function imgOff(imgName) 
-			{
-				if (document.images)
-				{
-					document[imgName].src = eval(imgName + "_off.src");
-				}
-			}
-		</script>
-		
-		
-		
-		
-		<!------------------------------------------------------------------------------------------			The following menu options are designed to present differently in each of three 			possible cases: b_status=IE, b_status=NS, b_status=static or unknown. The IE and			NS options simply display code required to make the DHTML menus work in each of			the browsers as required.  The other options (static and unknown) present the			menus for browsers that do not handle DHTML.		------------------------------------------------------------------------------------------->
-		
-		<!--- Medical Topics Menu Popout Options --->
-		
-		
-			<p>		
-			<a href="/" onmouseover="imgOn('homepage');" onmouseout="imgOff('homepage');"><img name="homepage" src="/images/nav/homepage.gif" border="0" alt="Back to myDr HomePage"></a><br>
-			<a href="/myHealthFile/myHealthFile.asp" onmouseover="imgOn('myhealthfile');" onmouseout="imgOff('myhealthfile');"><img name="myhealthfile" src="/images/nav/healthfile.gif" border="0" alt="View your personal myDr Healthlinks and folders"></a><br>
-			<a href="/Healthsearch/search.asp" onmouseover="imgOn('healthsearch');" onmouseout="imgOff('healthsearch');"><img name="healthsearch" src="/images/nav/healthsearch.gif" border="0" alt="Click here to search for comprehensive health information"></a><br>
-			<img name="medical_topics_" src="/images/nav/topics.gif" alt="Choose a topic to find a selection of health updates" border="0"><br>
-						
-		
-		
-				<table border="0" cellpadding="0" cellspacing="0" class="navTable" bgcolor="#FEE9D6" width="158">
-
-
-					<tbody><tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=womens%60health" class="tlblink" target="_top">&nbsp;Womens'&nbsp;Health</a>&nbsp;</td>
-					</tr>
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=mens%60health" class="tlblink" target="_top">&nbsp;Mens'&nbsp;Health</a>&nbsp;</td>
-					</tr>					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=kids%60%26teens%60health" class="tlblink" target="_top">&nbsp;Kids'&nbsp;&amp;&nbsp;Teens'&nbsp;Health</a>&nbsp;</td>
-					</tr>				
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=seniors%60health" class="tlblink" target="_top">&nbsp;Seniors'&nbsp;Health</a>&nbsp;</td>
-					</tr>				
-
-					<tr>
-						<td colspan="2" bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="5" width="1" border="0"></td>
-					</tr>					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=addiction" class="tlblink" target="_top">&nbsp;Addiction</a>&nbsp;</td>
-					</tr>					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=allergy%26asthma" class="tlblink" target="_top">&nbsp;Allergy&nbsp;&amp;&nbsp;Asthma</a>&nbsp;</td>
-					</tr>					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=arthritis" class="tlblink" target="_top">&nbsp;Arthritis</a>&nbsp;</td>
-					</tr>					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=babies%26pregnancy" class="tlblink" target="_top">&nbsp;Babies&nbsp;&amp;&nbsp;Pregnancy</a>&nbsp;</td>
-					</tr>				
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=cancer" class="tlblink" target="_top">&nbsp;Cancer</a>&nbsp;</td>
-					</tr>					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=complementarymedicine" class="tlblink" target="_top">&nbsp;Complementary&nbsp;Medicine</a>&nbsp;</td>
-					</tr>				
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=diabetes" class="tlblink" target="_top">&nbsp;Diabetes</a>&nbsp;</td>
-					</tr>					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=FirstAid%26SelfCare" class="tlblink" target="_top">&nbsp;First&nbsp;Aid&nbsp;&amp;&nbsp;Self&nbsp;Care</a>&nbsp;</td>
-					</tr>				
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=heart%26bloodpressure" class="tlblink" target="_top">&nbsp;Heart&nbsp;&amp;&nbsp;Blood&nbsp;Pressure</a>&nbsp;</td>
-					</tr>					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=mentalhealth" class="tlblink" target="_top">&nbsp;Mental&nbsp;Health</a>&nbsp;</td>
-					</tr>				
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=nutrition%26weight" class="tlblink" target="_top">&nbsp;Nutrition&nbsp;&amp;&nbsp;Weight</a>&nbsp;</td>
-					</tr>					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=sexualhealth" class="tlblink" target="_top">&nbsp;Sexual&nbsp;Health</a>&nbsp;</td>
-					</tr>					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=skin%26hair" class="tlblink" target="_top">&nbsp;Skin&nbsp;&amp;&nbsp;Hair</a>&nbsp;</td>
-					</tr>				
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=sport%26fitness" class="tlblink" target="_top">&nbsp;Sport&nbsp;&amp;&nbsp;Fitness</a>&nbsp;</td>
-					</tr>					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/default.asp?Section=travelhealth" class="tlblink" target="_top">&nbsp;Travel&nbsp;Health</a>&nbsp;</td>
-					</tr>
-				</tbody></table>		
-		
-		
-			
-			
-		<!--- IE Health Professionals Popout Menu Options --->
-		
-		
-			<img src="/images/nav/hlthprof.gif" alt="Find a health professional in your area" border="0" name="health_professionals_"><br>
-
-		
-				<table border="0" cellpadding="0" cellspacing="0" class="navTable" bgcolor="#FEE9D6" width="158">
-					<tbody><tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/hcp/hcp.asp?mode=GP" class="tlbLink" target="_top">General&nbsp;Practitioner</a>&nbsp;</td>
-					</tr>
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/hcp/hcp.asp?mode=Specialist" class="tlbLink" target="_top">Specialist</a>&nbsp;</td>
-					</tr>
-					
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/hcp/hcp.asp?mode=Physiotherapists" class="tlbLink" target="_top">Physiotherapist</a>&nbsp;</td>
-					</tr>
-				
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/hcp/hcp.asp?mode=Pharmacist" class="tlbLink" target="_top">Pharmacist</a>&nbsp;</td>
-					</tr>
-				
-				
-					<tr>
-						<td bgcolor="#FEE9D6"><img src="/images/nav/1x1.gif" height="15" width="1" border="0"></td>
-						<td>&nbsp;<a href="/hcp/hcp.asp?mode=Other" class="tlbLink" target="_top">Other&nbsp;Health&nbsp;Professional</a>&nbsp;</td>
-					</tr>
-				
-				</tbody></table>
-		
-		
-		
-			<a href="/support/support.asp" onmouseover="imgOn('support_groups');" onmouseout="imgOff('support_groups');"><img name="support_groups" src="/images/nav/support.gif" alt="Find a health support group" border="0"></a><br>
-			<a href="/drugs/drugs.asp" onmouseover="imgOn('drugs');" onmouseout="imgOff('drugs');"><img name="drugs" src="/images/nav/drugs.gif" alt="Find information about medications" border="0"></a><br>
-		
-		
-
-			
-		<!--- Main Menu Options for DHTML in NS or IE --->
-		
-		
-	<!--- End DHTML Menu Code --->
+	var status = "yes";
 	
-<!-- ************ End Nav Include ************ //-->
+	var localRegEx = /\s/;
+		
+	kw = document.quicksearchform.inputtext.value;
+	
+	if (kw == "" || kw.length < 3)
+	{
+		alert("Please enter at least one keyword of at least three (non-space) characters.");
+		document.quicksearchform.inputtext.focus()
+		status = "no";
+	}	
 
-    </p></td>
+	if (status == "no")
+	{
+		if (type == "form")
+		{
+			return false;
+		}
+	}
+	else 
+		{
+			searchType = document.quicksearchform.list2.options[document.quicksearchform.list2.selectedIndex].value;
+			if (searchType == 'A') { // Article Search
+				document.quicksearchform.action = "/Healthsearch/search_results.asp";
+				document.quicksearchform.keywords.value = document.quicksearchform.inputtext.value;
+				document.quicksearchform.submit();
+			} else if (searchType == 'M') { // Medication Search
+				document.quicksearchform.action = "/drugs/mediresults.asp";
+				document.quicksearchform.drugName.value = document.quicksearchform.inputtext.value;
+				document.quicksearchform.submit();
+			} else if (searchType == 'S') { // support Group Search
+				document.quicksearchform.action = "/support/support_results.asp";
+				document.quicksearchform.elements[1].value = document.quicksearchform.inputtext.value;
+				document.quicksearchform.submit();
+			}
+			return true;
+		}		
+				
+}
+//-->
+</script>
+
+
+<table bgcolor="white" cellspacing="0" border="0" bordercolor="white" cellpadding="0" width="166">
+	<tbody><tr>
+		<td>
+			<img src="/images/spacer.gif" width="4" alt="">
+		</td>
+		<td>
+
+<table class="menuhead" cellspacing="0" border="0" bordercolor="red" cellpadding="4" width="162">
+
+
+	<tbody><tr>
+		<td style="color:#000066;font-size:2" onmouseover="this.style.color='blue';this.style.cursor='hand';" onmouseout="this.style.color='#000066';" onclick="window.location='/';">
+			<a href="/"><font color="#000066" size="2"><b>&nbsp;<u><em>myDr</em> HomePage <br></u></b></font></a>
+		</td>
+	</tr>
+
+
+	<tr bgcolor="White">
+		<td height="3">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0"> <!-- Don NOT remove the onsubmit from this form -->
+				<form name="quicksearchform" action="/healthsearch/search_results.asp" method="post" onsubmit="return Quicksubmit('form');"></form>
+					<tbody><tr>
+						<td>														
+							<input type="hidden" name="state" value="0">						
+							<input type="hidden" name="title">							
+							<input type="hidden" name="keywords">
+							<input type="hidden" name="drugName">
+							<input type="hidden" name="kwtype" value="exact">
+							<input type="hidden" name="gender" value="">
+							<input type="hidden" name="age_group" value="">
+							<input type="hidden" name="content_type" value="all">     
+							<input type="hidden" name="srchtype" value="full">
+
+							<font color="#000066"><b>Quick Search</b><br></font>	             
+							<font size="-6">all</font>&nbsp;&nbsp;<select name="list2" size="1">
+									<option selected="" style="font-size:8" value="A">Articles
+									</option><option style="font-size:8" value="M">Medications
+									</option><option style="font-size:8" value="S">Support Groups
+								   </option></select>
+							
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom">
+							<font size="-6">for</font>&nbsp;<input type="text" maxlength="20" size="8" name="inputtext">
+							<a href="javascript:Quicksubmit('button');" onmouseover="rollOver('picA', 'picA');" onmouseout="rollOut('picA', 'picA');"><img src="/images/nav/go.gif" border="0" alt="Click Here To Start Your Search" name="picA" width="30" height="14"></a>
+                        </td>      
+					</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td class="menuseperator">
+		</td>
+	</tr>
+</tbody></table>
+
+
+<!--static-->
+<table bgcolor="#e8edf9" cellspacing="0" border="0" bordercolor="white" cellpadding="2" width="162">
+	<tbody><tr bgcolor="#c5d3f0">
+		<td>
+			<img src="/images/nav/orangearrow1.gif" alt="">&nbsp;<font color="#000066"><b><i>myDr</i> Searches</b></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/Healthsearch/search.asp"><u>Health Information Search</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/drugs/drugs.asp"><u>Medications Search</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/support/support.asp"><u>Health Support Group</u></a><br>&nbsp;<a href="/support/support.asp"><u>Search</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/news/news_search.asp"><u>News Search</u></a>
+		</td>
+	</tr>	
+	<tr>
+		<td class="menuseperator">
+		</td>
+	</tr>	
+	<tr bgcolor="#c5d3f0">
+
+		<td>
+			<img src="/images/nav/orangearrow1.gif" alt="">&nbsp;<font color="#000066"><b>Health Professional<br>&nbsp;&nbsp;&nbsp;Search</b></font>
+		</td>
+	</tr>	
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/hcp/hcp.asp?mode=GP"><u>Find a GP</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/hcp/hcp.asp?mode=Specialist"><u>Find a Specialist</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/hcp/hcp.asp?mode=Pharmacist"><u>Find a Pharmacist</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/hcp/hcp.asp?mode=Physiotherapists"><u>Find a Physiotherapist</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/hcp/hcp.asp?mode=Other"><u>Find a Podiatrist</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td class="menuseperator">
+		</td>
+	</tr>	
+	<tr bgcolor="#c5d3f0">
+		<td>
+			<img src="/images/nav/orangearrow1.gif" alt="">&nbsp;<font color="#000066"><b>myHealth Tool Kit</b></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/tools/quiz2.asp"><u>Arthritis Quick Quiz: how much do you know?</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+
+			&nbsp;<a href="/tools/pregnancy.asp"><u>Baby Due Date Calculator</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/tools/bodymass.asp"><u>Body Mass Index (BMI)</u></a><br>&nbsp;<a href="/tools/bodymass.asp"><u>Calculator</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/tools/heartrate.asp"><u>Heart Rate Calculator</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/tools/weight.asp"><u>Ideal Weight Calculator</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/tools/quiz.asp"><u>Nutrition Quiz</u></a>
+		</td>
+	</tr>	
+	<tr>
+		<td style="color:blue">
+			&nbsp;<a href="/tools/osteoporosis-quiz.asp"><u>Osteoporosis Quiz</u></a> 
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+
+			&nbsp;<a href="/tools/smoking.asp"><u>Smoking Cost Calculator:</u></a> &nbsp;<a href="/tools/smoking.asp"><u>how much do you spend?</u></a>
+		</td>
+	</tr>	
+	<tr>
+		<td class="menuseperator">
+		</td>
+	</tr>	
+	<tr bgcolor="#c5d3f0">
+		<td>
+			<img src="/images/nav/orangearrow1.gif" alt="">&nbsp;<font color="#000066"><b>Medical Dictionary</b></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">			
+			&nbsp;<a href="/tools/Dictionary.asp"><u>Search The Online Medical Dictionary</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td class="menuseperator">
+		</td>
+	</tr>	
+	<tr bgcolor="#c5d3f0">
+		<td>
+			<img src="/images/nav/orangearrow1.gif" alt="">&nbsp;<font color="#000066"><b><i>myDr</i> Members</b></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="javascript:LoginPopUp('userLogin');"><u>myDr Members' Login</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/myHealthFile/myHealthFile.asp"><u>Access myHealth File</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/whyregister.asp"><u>Free Membership:</u></a><br>&nbsp;<a href="/whyregister.asp"><u>Join Here</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td class="menuseperator">
+		</td>
+	</tr>	
+	<tr bgcolor="#c5d3f0">
+		<td>
+			<img src="/images/nav/orangearrow1.gif" alt="">&nbsp;<font color="#000066"><b>Health Professionals<br>&nbsp;&nbsp;&nbsp;Only</b></font>
+		</td>
+	</tr>		
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/practice/"><u>Access Your Web Site</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td class="menuseperator">
+		</td>
+	</tr>	
+	<tr bgcolor="#c5d3f0">
+		<td>
+			<img src="/images/nav/orangearrow1.gif" alt="">&nbsp;<font color="#000066"><b><i>myDr</i> Health Centres</b></font>
+		</td>
+	</tr>	
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=addictions"><u>Addictions&nbsp;Centre</u></a>
+		</td>
+	</tr>					
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=allergy"><u>Allergy&nbsp;Centre</u></a>
+		</td>
+	</tr>					
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=arthritis"><u>Arthritis&nbsp;Centre</u></a>
+		</td>
+	</tr>					
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=asthma"><u>Asthma&nbsp;Centre</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=babies%26pregnancy"><u>Babies&nbsp;&amp;&nbsp;Pregnancy</u></a><br>&nbsp;<a href="/default.asp?Section=babies%26pregnancy"><u>Centre</u></a>
+		</td>
+	</tr>				
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=cancercare"><u>Cancer&nbsp;Care&nbsp;Centre</u></a>
+		</td>
+	</tr>					
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=complementarymedicine"><u>Complementary&nbsp;Medicine</u></a><br>&nbsp;<a href=""><u>Centre</u></a>
+		</td>
+	</tr>				
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=diabetes"><u>Diabetes&nbsp;Centre</u></a>
+		</td>
+	</tr>					
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=firstaid%26self-care"><u>First&nbsp;Aid&nbsp;&amp;&nbsp;Self-Care&nbsp;Centre</u></a>
+		</td>
+	</tr>								
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=hearthealth"><u>Heart&nbsp;&amp;&nbsp;Stroke&nbsp;Centre</u></a>
+		</td>
+	</tr>					
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=kids%60%26teens%60health"><u>Kids'&nbsp;&amp;&nbsp;Teens'&nbsp;Health</u></a><br>&nbsp;<a href="/default.asp?Section=kids%60%26teens%60health"><u>Centre</u></a>
+		</td>
+	</tr>				
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=mens%60health"><u>Mens'&nbsp;Health&nbsp;Centre</u></a>
+		</td>
+	</tr>					
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=mentalhealth"><u>Mental&nbsp;Health&nbsp;Centre</u></a>
+		</td>
+	</tr>				
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=nutrition%26weight"><u>Nutrition&nbsp;&amp;&nbsp;Weight&nbsp;Centre</u></a>
+		</td>
+	</tr>					
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=seniors%60health"><u>Seniors'&nbsp;Health&nbsp;Centre</u></a>
+		</td>
+	</tr>					
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=sexualhealth"><u>Sexual&nbsp;Health&nbsp;Centre</u></a>
+		</td>
+	</tr>					
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=skin%26hair"><u>Skin&nbsp;&amp;&nbsp;Hair&nbsp;Health&nbsp;Centre</u></a>
+		</td>
+	</tr>					
+	<tr>
+		<td style="color:blue">
+			
+			&nbsp;<a href="/default.asp?Section=Sport%26fitness"><u>Sport&nbsp;&amp;&nbsp;Fitness&nbsp;Centre</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			&nbsp;<a href="/default.asp?Section=travelhealth"><u>Travel&nbsp;Health&nbsp;Centre</u></a>
+		</td>
+	</tr>
+	<tr>
+		<td style="color:blue">
+			&nbsp;<a href="/default.asp?Section=womens%60health"><u>Womens'&nbsp;Health&nbsp;Centre</u></a>
+		</td>
+	</tr>				
+</tbody></table>
+
+
+
+	</td>
+</tr>
+</tbody></table>
+</td>
+
+    
     <td width="24" background="/images/bg/line_lft.gif">&nbsp;</td>
     <td width="100%">			
 
 
 <!-- # include virtual="/includes/serverutils/table_row_green.inc" -->
-			<form action="feedback_results2.asp" method="post" name="feedback" onsubmit="return verify(this);">
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
 					<td valign="top">
@@ -634,7 +711,7 @@ function MiniWebPopup(PopupURL)
 						As a visitor to <i>myDr</i>, you are interested in knowing more about your health or the health of someone close to you. We understand that your health is a very personal matter and that providing personal information is an act of trust that we take seriously. We recognise the importance of your privacy and respect your right to control how your personal information is collected and used.
 						</p>
 						<p>
-						<i>myDr</i> is owned by atmedica Pty Ltd, an Havas MediMedia company, in partnership with Vivendi.  <i>myDr</i> complies with the standards set by HealthInsite—a Federal Government accreditation initiative designed to provide Quality Assurance for health information on the Internet. <i>myDr</i> is committed to complying with the voluntary National Principles for the Fair Handling of Personal Information (NPPs) developed by the Australian Federal Privacy Commissioner. We will also comply with any laws introduced to strengthen protection for consumers’ privacy.
+						<i>myDr</i> is a project of atmedica and MediMedia Australia, a Vivendi Universal Publishing Company. <i>myDr</i> complies with the standards set by HealthInsite—a Federal Government accreditation initiative designed to provide Quality Assurance for health information on the Internet. <i>myDr</i> is committed to complying with the voluntary National Principles for the Fair Handling of Personal Information (NPPs) developed by the Australian Federal Privacy Commissioner. We will also comply with any laws introduced to strengthen protection for consumers’ privacy.
 						</p>
 						<p>
 						Please read this Privacy Policy carefully before you submit any information through <i>myDr</i> as usage of this Web site is conditional on your agreeing to be bound by this policy. If you have any questions, or would like to provide feedback, please feel free to contact us on the number or address listed below. 
@@ -690,171 +767,120 @@ function MiniWebPopup(PopupURL)
 
 						<h2>Future Changes</h2>
 						<p>
-						mrDr will continue to evolve as we introduce new services and features to our Web site. Because of this, from time to time, our policies will be reviewed and may be revised. <i>myDr</i> reserves the right to change its privacy policy at any time and notify you by posting an updated version of the policy on the Web site. If you object to any changes, you may discontinue your use of the services. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.
+						<i>myDr</i> will continue to evolve as we introduce new services and features to our Web site. Because of this, from time to time, our policies will be reviewed and may be revised. <i>myDr</i> reserves the right to change its privacy policy at any time and notify you by posting an updated version of the policy on the Web site. If you object to any changes, you may discontinue your use of the services. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.
 						</p>
 
-						Last revised:  5/10/00.
+						Last revised:  27/04/2001.
 					</td>
 				</tr>
 			</tbody></table>
 			<br clear="all">
-			<input type="hidden" name="to" value="feedback@mydr.com.au">
-			<input type="hidden" name="subject" value="Comments from a user, feedback form on www.mydr.com.au">
-			</form>
-			
 
 	<br>
 </td>
-<td width="30" background="/images/bg/line_rgt.gif"><img src="/images/blue_lne.gif" width="30" height="73"> 
+<td width="30" background="/images/bg/line_rgt.gif"><img src="/images/blue_lne.gif" width="30" height="73" alt=""> 
 </td>
 <td width="135" align="center"> 
- 	  <table width="135" border="0" cellspacing="0" cellpadding="0" background="/images/bg/blue_rgt.jpg">
+
+	  <table width="135px" border="0" cellspacing="0" cellpadding="0" background="/images/bg/blue_rgt.jpg">
         <tbody><tr align="center"> 
-          <td>
-           <br>
-            <br>
-			<table width="121" border="0" cellspacing="0" cellpadding="4" background="/images/spacer.gif"> 
-              <tbody><tr align="center"> 
-                <td bgcolor="#FF9900">  
-                  <p><font color="#FFFFFF"><b>LATEST NEWS</b></font></p> 
-                  </td>
-              </tr>
-            </tbody></table>
-            
+          <td height="50pt">	
+		  <br>
+          </td>
+        </tr>		
+      </tbody></table>
+	  <table class="DefaultRHS" cellpadding="5px" cellspacing="0"><tbody><tr>
+<td class="DefaultRHSHeader">
+Award Winner!
+</td>
+</tr><tr>
+<td class="DefaultRHS">
+<img border="0" align="center" src="/content/images/categories/generic/logo116pix.gif"><br><br><a href="/default.asp?article=3109"><i>myDr</i> wins prestigious award</a><br>
+<br>
+<br>
+</td>
+</tr><tr>
+<td class="DefaultRHSHeader">
+Health Tool Kit
+</td>
+</tr><tr>
+<td class="DefaultRHS">
+<img src="/images/Related/Health_tool_kit.JPG"><br><br><a href="/tools/default.asp">Open the <i>myDr</i> health tool kit</a><br> for a quick and easy health assessment.
+<br>
+<br>
+</td>
+</tr><tr>
+<td class="DefaultRHSHeader">
+FREE!
+</td>
+</tr><tr>
+<td class="DefaultRHS">
+<img src="/images/Related/myDrCommunity.JPG"><br><br><a href="/whyregister.asp">Become a <i>myDr</i> member</a><br> Join the <i>myDr</i> community to use our member-only services, including myHealthfile.
+<br>
+<br>
+</td>
+</tr><tr>
+<td class="DefaultRHSHeader">
+myHealthfile
+</td>
+</tr><tr>
+<td class="DefaultRHS">
+<img src="/images/Related/MyHealthfile.JPG"><br><br><a href="/myHealthfile/myHealthfile.asp">Access your personal healthfile</a><br> Create your personal health record online. Keep articles of interest, keep a record of your medication, record your doctor's contact details and more
+<br>
+<br>
+</td>
+</tr><tr>
+<td class="DefaultRHSHeader">
+Medical Dictionary
+</td>
+</tr><tr>
+<td class="DefaultRHS">
+<img src="/images/tools/Dictionary2.JPG" width="80px" height="60px"><br><br><a href="/tools/dictionary.asp">Search the Online Medical Dictionary</a><br> to find the meaning of complex medical terms.
+<br>
+<br>
+</td>
+</tr><tr>
+<td class="DefaultRHSHeader">
+Medication Information
+</td>
+</tr><tr>
+<td class="DefaultRHS">
+<img src="/images/Related/Medication.JPG"><br><br><a href="/drugs/drugs.asp">Find medication information here</a><br> All medication information is provided by MIMS, supplier of drug information to doctors for 30 years.
+<br>
+<br>
+</td>
+</tr><tr>
+<td class="DefaultRHSHeader">
+Remember
+</td>
+</tr><tr>
+<td class="DefaultRHS">
+<img alt="remember myDr can't replace your doctor" src="/images/related/CantReplace.jpg" width="120px" height="90px">
+<br>
+<br>
+</td>
+</tr></tbody></table>
+	  <table width="135px" border="0" cellspacing="0" cellpadding="0">
+	  	<tbody><tr align="center"> 
+          <td height="50pt">	
+			  <div class="healthInsiteLogo"><br><br>Our site has been approved by the HealthInsite Editorial Board
+to be a HealthInsite information partner site<br><br clear="all"><a href="http://www.healthinsite.gov.au/" target="_blank"><img src="/images/hislogo.gif" border="0" width="82" height="50" alt="Health Insite"></a><br></div>	
           </td>
         </tr>
-      </tbody></table>
-      <table width="121" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFCC99" bordercolor="1">
-        <tbody><tr> 
-		  <td>
-			<img src="/images/spacer.gif" width="1">
-		  </td>
-          <td class="feature">
-			<table>
-				<tbody><tr>
-					<td width="5" valign="top">
-						<img src="/images/relatedspot.gif">
-					</td>
-					<td>
-						<a href="/default.asp?article=2572"><font color="#00000">Common pesticide linked to Parkinson's Disease</font></a><br>
-					</td>
-				</tr>
-				<tr>
-					<td width="5" valign="top">
-						<img src="/images/relatedspot.gif">
-					</td>
-					<td>
-						<a href="/default.asp?article=2565"><font color="#00000">Role of infections in heart attacks</font></a><br>
-					</td>
-				</tr>
-				<tr>
-					<td width="5" valign="top">
-						<img src="/images/relatedspot.gif">
-					</td>
-					<td>
-						<a href="/default.asp?article=2566"><font color="#00000">Antidepressant use rises in Australia</font></a><br>
-					</td>
-				</tr>
-				<tr>
-					<td width="5" valign="top">
-						<img src="/images/relatedspot.gif">
-					</td>
-					<td>
-						<a href="/default.asp?article=2567"><font color="#00000">French warned to expect increase in cases of vCJD</font></a><br>
-					</td>
-				</tr>
-				<tr>
-					<td width="5" valign="top">
-						<img src="/images/relatedspot.gif">
-					</td>
-					<td>
-						<a href="/default.asp?article=2568"><font color="#00000">Products with PPA carry warnings in Australia, says TGA</font></a><br>
-					</td>
-				</tr>
-				<tr>
-					<td width="5" valign="top">
-						<img src="/images/relatedspot.gif">
-					</td>
-					<td>
-						<a href="/default.asp?article=2569"><font color="#00000">Researchers warn on dietary supplements containing ephedra</font></a><br>
-					</td>
-				</tr>
-			</tbody></table>
-           </td>
-        </tr>
-        <tr align="center" height="18"> 
-           <td bgcolor="#FF9900" colspan="2"> 
-             <font size="1" color="#FFFFFF"><b>SPECIAL FEATURES</b></font><br clear="all">
-             </td>
-        </tr>
-        <tr>      
-		  <td>
-			<img src="/images/spacer.gif" width="5">
-		  </td>
-          <td class="feature">
-			<table>
-				<tbody><tr>
-					<td width="5" valign="top">
-						<img src="/images/relatedspot.gif">
-					</td>
-					<td>
-						<a href="/default.asp?article=2563"><font color="#00000">Creutzfeld Jakob Disease - do we need to worry?</font></a>
-					</td>
-				</tr>
-				<tr>
-					<td width="5" valign="top">
-						<img src="/images/relatedspot.gif">
-					</td>
-					<td>
-						<a href="/default.asp?article=2564"><font color="#00000">St John's Wort - weed or medicine?</font></a><br>
-					</td>
-				</tr>
-			</tbody></table>
-
-           </td>
-        </tr>
-        <tr>
-		  <td colspan="2">
-		  <a href="/healthsearch/search.asp"><img src="/images/related/hsclickthru.gif" border="0"></a>
-		  </td>
-		</tr>
-	    <tr>
-		  <td colspan="2">
-		  <a href="/hcp/hcp.asp?mode=GP"><img src="/images/related/webclickthru.gif" border="0"></a>
-		  </td>
-		</tr>        
-		<tr>
-		  <td bgcolor="#FFCC99" colspan="2"><img src="/images/spacer.gif" height="4" width="1" border="0"></td>
-		</tr>
-        <tr height="18">
-		  <td align="center" bgcolor="#FF9900" colspan="2" valign="center">
-		  <font size="1" color="#FFFFFF"><b>REMEMBER</b></font>
-          </td>
-        </tr>
-        <tr> 
-		  <td>&nbsp;</td>
-		  <td>
-		  <i>myDr</i> can't replace your doctor
-		  </td>
-		</tr>
-		<tr>
-		<td height="2"></td>
-		</tr>
-		
-      </tbody></table>
+	  </tbody></table>
 	  
+	  	       
+
+
 	  
-
-
-
 
 </td>
   </tr>
   <tr> 
     <td width="166">&nbsp;</td>
-    <td width="24" align="left" valign="top"><img src="/images/bot_lft.gif" width="24" height="27" alt=" "></td>
-    <td width="100%" background="/images/bg/bot_lne.gif"><img src="/images/spacer.gif" width="354" height="2"></td>
-    <td width="30"><img src="/images/bot_rgt.gif" width="30" height="27" alt=" "></td>
+    <td width="24" align="left" valign="top"><img src="/images/bot_lft.gif" width="24" height="27" alt=""></td>
+    <td width="100%" background="/images/bg/bot_lne.gif"><img src="/images/spacer.gif" width="354" height="2" alt=""></td>
+    <td width="30"><img src="/images/bot_rgt.gif" width="30" height="27" alt=""></td>
     <td width="135">&nbsp;</td>
   </tr>
   <tr>
@@ -893,18 +919,17 @@ function MiniWebPopup(PopupURL)
 	</script>
 	-->
 	<br><br>
-	This page last updated : Friday, 1 December 2000<br>
-	© Copyright <i>myDr</i> 2000.</font>
+	This page last updated : Wednesday, 6 June 2001<br>
+	© Copyright <i>myDr</i> 2001.</font>
 	</center>
+	
 	<p></p>
 	</td>
 	<td colspan="2" align="center" valign="top">
-	<img src="/images/spacer.gif" height="65"><br clear="all">
-	<font size="-7">Approved <br> HealthInsite Website</font><br><br clear="all">
-	<a href="http://www.healthinsite.gov.au/" target="_blank"><img src="/images/hislogo.gif" border="0" width="95" height="57" alt="Health Insite"></a><br>
+	<img src="/images/spacer.gif" height="65" alt=""><br clear="all">
 	</td>
-	
-</tr></tbody></table>
+</tr>	
+</tbody></table>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
