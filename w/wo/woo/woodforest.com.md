@@ -1,8 +1,28 @@
-> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209103200id_/http%3A//www.woodforest.com/disclosures/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607150953id_/http%3A//www.woodforest.com/privacy/default.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Woodforest National Bank-Online Banking
 
-### **Overview**
+  
+[](https://www.woodforest.com/ibank/)  
+[Apply Now](https://web.archive.org/web/20020607150953id_/http%3A//www.woodforest.com/online_banking/applyNow.asp)        
+[Find Out More](https://web.archive.org/web/20020607150953id_/http%3A//www.woodforest.com/online_banking/default.htm)   
+|  |   
+---|---  
+| [Privacy Policy](https://web.archive.org/web/20020607150953id_/http%3A//www.woodforest.com/privacy/default.htm)  
+| [Online Banking Disclosure](https://web.archive.org/web/20020607150953id_/http%3A//www.woodforest.com/privacy/online_disclosure.htm)  
+| [Security Policy](https://web.archive.org/web/20020607150953id_/http%3A//www.woodforest.com/privacy/securityPolicy.htm)  
+  |    
+|   
+  
+   
+
+  
+|  |    
+
+
+Privacy Policy
+
+Overview
 
 Woodforest National Bank recognizes that customer information is confidential and personal. As an organization, our management team takes specific steps to ensure the privacy of information about you and your account is protected. As an organization in the financial services industry, we recognize that privacy is critical, and the sensitivity to protecting information is continually growing with the expansion of electronic commerce. You may count on us to protect your information with a high level of security and appropriate discretion.
 
@@ -14,23 +34,19 @@ Woodforest National Bank has established in-depth security standards and procedu
 
 On certain occasions, customer information may be provided to a third-party which has provided an appropriate reason to request such information. The third party receiving such information must adhere to the privacy principles that cover such information regarding confidentiality. Information disclosures to an independent third party regarding personal, confidential information or other personally identifiable data for that entity’s specific usage is not allowed except where the exchange occurs with a reputable information reporting agency. Information exchanges with reporting agencies is deemed important to maximize the accuracy and detail of information reported. In certain situations, information is provided as detailed in the following specific situations:
 
-> 1.  Customer requests it;
-> 
-> 2.  Per request of customer, data are provided to help complete a customer-approved transaction;
-> 
-> 3.  Disclosure is required by/per law (e.g., court order, investigation, or fraudulent investigation);
-> 
-> 4.  Customer has been informed, and has had the opportunity to approve/decline in prior written communication, the possibility of disclosure of information for marketing or similar purposes.
+  1. Customer requests it;
+  2. Per request of customer, data are provided to help complete a customer-approved transaction;
+  3. Disclosure is required by/per law (e.g., court order, investigation, or fraudulent investigation);
+  4. Customer has been informed, and has had the opportunity to approve/decline in prior written communication, the possibility of disclosure of information for marketing or similar purposes.
 
-###   **Statement of Data Protection Principles**
 
- ****
 
-****
+Statement of Data Protection Principles
+
   * We will not sell or provide personal information to third parties for independent use.
   * If we collect information about you from someone else, we will make sure you know we have done so, as soon as and wherever possible
   * We will only collect information which is necessary for performing bank business on your behalf
-  * When and where practical, we will collect personal information directly from you
+  * When and where practical, we will collect personal information directly from you 
   * We shall only use or disclose that information about you that is consistent with your directions and expectations, or is in the public interest (general banking loan and/or account relationship(s) and your performance per pre-agreed upon terms and/or conditions)
   * We will ensure that information about you is accurate when we collect or use it, to the best of our capabilities
   * We will keep information secure
@@ -39,6 +55,14 @@ On certain occasions, customer information may be provided to a third-party whic
 
 
 
-If at any time you have a concern about your information security, you may contact us through e-mail at [info@woodforest.com](mailto:info@woodforest.com), call our institution at 713-455-7000, or write us at Woodforest National Bank, Information Privacy, P.O. Box 24459, Houston, TX 77015. 
+If at any time you have a concern about your information security, you may contact us through [e-mail](mailto:info@woodforest.com) at [info@woodforest.com](mailto:info@woodforest.com), call our institution at 713-455-7000, or write us at   
+Woodforest National Bank  
+Information Privacy  
+P.O. Box 24459  
+Houston, TX 77015.
 
-[Top](https://web.archive.org/web/20001209103200id_/http%3A//www.woodforest.com/disclosures/privacy.htm#top)
+  
+  
+
+
+|                                                                                                                                                                                                           
