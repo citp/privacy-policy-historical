@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,18 +30,18 @@ Great Western Bank
 P. O. Box 4070  
 Omaha, NE 68104-0070  
 (402) 551-4310 or (800) 952-2015  
-E-Mail: [pcbank@radiks.net](mailto:pcbank@radiks.net) Untitled Document
+E-Mail: [pcbank@radiks.net](mailto:pcbank@radiks.net)
 
 **In Omaha phone: 1-402-551-4310, outside Omaha phone: 1-800-952-2039  
-Email: [pcbank@radiks.net](mailto:pcbank@radiks.net)**
+Email: [pcbank@greatwesternbank.com](mailto:pcbank@greatwesternbank.com)**
 
   
-[Deposits](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/deposits.html)| [Internet Banking](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/ibank.html) | [ Credit Cards ](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/credit.html) | [Investments](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/investments.html)| [Loans](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/lending.html)| [ Current Rates](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/rates.html)  
-[Trust Services](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/trusts.html) | [XpressPhone Banking ](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/phone.html)| [Employment](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/jobs.html) | [Email](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/mailus.html)   
-[Financial Calculators](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/fincalc.html) |[ Privacy Policy ](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/privacy.html) | [Online Accounts](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/app.html)| [ Online Brokerage](http://www.amerivestinc.com/)  
-[ Newsletters](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/newsletters.html)| [About Us](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/aboutgwb.html) | [ Great Western Bank Home ](https://web.archive.org/web/20001205084500id_/http%3A//www.greatwesternbank.com/Welcome.html)
+[Deposits](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/deposits.html)| [Internet Banking](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/ibank.html) | [ Credit Cards ](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/credit.html) | [Investments](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/investments.html)| [Loans](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/lending.html)| [ Current Rates](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/rates.html)  
+[Trust Services](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/trusts.html) | [XpressPhone Banking ](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/phone.html)| [Employment](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/jobs.html) | [Email](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/mailus.html)   
+[Financial Calculators](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/fincalc.html) |[ Privacy Policy ](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/privacy.html) | [Online Accounts](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/app.html)| [ Online Brokerage](http://www.amerivestinc.com/)  
+[ Newsletters](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/newsletters.html)| [About Us](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/aboutgwb.html) | [ Great Western Bank Home ](https://web.archive.org/web/20010619071548id_/http%3A//www.greatwesternbank.com/Welcome.html)
 
 * * *
 
-© 1996-2000 Great Western Bank  
-Site Design: [ACTON](http://www.acton.com/)
+© 1996-2001 Great Western Bank  
+Site Design: [ACTONet](http://www.acton.com/ACTONet)
