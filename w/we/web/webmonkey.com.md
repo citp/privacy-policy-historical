@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the webmonkey.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206073404id_/http%3A//www.lycos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmonkey.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628075458id_/http%3A//www.lycos.com/privacy) for the most accurate reproduction.*
 
 # Lycos Privacy Policy
 
-**Lycos Network Privacy Policy** | [](https://www.truste.org/validate/410)  
+| | | | Privacy Policy  
+---  
+  
+ **Lycos Network Privacy Policy** [](https://www.truste.org/ivalidate.php?url=www.lycos.com)  
 **TRUSTe  
-Certification** | Lycos is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization with a mission to build trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because Lycos wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed and audited for compliance by TRUSTe. The TRUSTe program covers only information that is collected through the Lycos Network, and does not cover information that may be collected through software downloaded from the network.   
+Certification** | Lycos is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization with a mission to build trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because Lycos wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed and audited for compliance by TRUSTe. The TRUSTe program covers only information that is collected through the Lycos Network, and does not cover information that may be collected through software downloaded from the network.  
 ---|---  
   
 Welcome to the Lycos Network, owned and produced by Lycos, Inc. and its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "Lycos"). All Products and Services on the Lycos Network (as defined in our [Terms and Conditions](https://web.archive.org/legal/legal.asp)) are made available subject to this Privacy Policy. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable to any individual Lycos Network Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout the Lycos Network near the bottom of most pages. If you become an inactive user, we will adhere to the policies and practices as described in this Privacy Policy, which may be revised from time to time. 
@@ -24,7 +27,9 @@ the information that is collected?
   8. What types of security procedures are in place to protect  
 against the loss, misuse or alteration of your information?
   9. How does the Lycos Network comply with the Children's Online Privacy Protection Act (COPPA)?
-  10. What can you do to better protect yourself on the Internet?
+  10. What are the policies concerning software downloads?
+  11. What is Get Relevant?
+  12. What you can do to better protect yourself on the Internet?
 
 Our goal is to become your favorite Internet destination by providing the information, services, and product offerings that are most relevant to you. To achieve this goal, the Lycos Network must collect information so we can understand what makes you different from its millions of other unique users. While you are not required to register for any services on the Lycos Network, some Products and Services may not function properly or may not be accessible unless you do. 
 
@@ -155,7 +160,7 @@ The Children's Online Privacy Protection Act (COPPA) of 1998 provides safeguards
 
 Parents can learn more about the Lycos Family Membership and obtain detailed answers about our compliance with COPPA by clicking [here](https://web.archive.org/privacy/coppa.asp). 
 
-**Know the risks.**  
+Lycos may make certain software available for download. This software may be created by Lycos or by third party licensors. The software may be programmed to access our servers and/or third party servers in order for the software to operate and in order to check for program upgrades or enhancements. From time to time, new files may be added to your computer in order to upgrade the software or add new functionality to it. These changes may occur without notice to you. If at any time you wish to uninstall the software program, you may do so by following the instructions that accompany the software. Use of the software will be governed by a separate license agreement.  Get Relevant is a service offered by Lycos to connect users with advertisers that may be of interest to them. Here is how it works: Lycos receives advertisements from various advertisers and distributes them to participating third-party Web sites. A user of a participating Web site will see the advertisement during the process of registering for that site. If the user opts in to receive information from the advertiser, the registration information that the user supplied to the participating Web site will be conveyed to Lycos, which will in turn distribute it to the relevant advertiser. Prior to disclosing the information to the advertiser, Lycos will send a confirming email to the user and give the user an opportunity to opt out from receiving email from the advertiser. The particpating Web site and the advertiser will act in accordance with their own privacy policies and practices and not those of the Lycos Network. At any time, a user may access and update the personal information on file with GetRelevant by visiting the URL <http://o3.getrelevant.com/pUpdate> and following the instructions found there.  **Know the risks.**  
 Meeting new people in an online community (chat room, forum, newsgroup, message board, Web page, etc.) is one of the best things about the Internet, but you should always be careful about disclosing personal information such as an actual name, member name, email address, and so on. This information may be collected and used by others within the online community to send unsolicited email messages from other parties, outside the Lycos Network. Some of the messages you receive may be useful to you, but some may not. In an effort to curtail unsolicited email, Lycos blocks certain email addresses and domains from sending messages to email addresses at our domains. 
 
 **Educate yourself.**  
@@ -235,4 +240,4 @@ If you do not receive acknowledgment of your inquiry or your inquiry has not bee
 
 The Lycos Network will update this policy from time to time so please check back periodically. When such changes occur, you will see the word "Updated" next to the Privacy Policy link on the front page of each site on the Lycos Network. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will prominently post such changes prior to implementing them. 
 
-Last updated August 18, 2003. 
+Last updated March 19, 2004. 
