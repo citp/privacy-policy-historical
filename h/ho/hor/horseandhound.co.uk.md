@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horseandhound.co.uk privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209084954id_/http%3A//www.countrylife.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseandhound.co.uk privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604021352id_/http%3A//www.countrylife.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
