@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesaurus.com privacy policy that was archived on 2002-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021001144700id_/http%3A//www.thesaurus.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesaurus.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416025049id_/http%3A//thesaurus.reference.com/help/privacy.html) for the most accurate reproduction.*
 
-# Thesaurus.com/Privacy Statement
+# Thesaurus.com/Privacy Policy
 
 ## Privacy Policy
 
@@ -10,15 +10,16 @@ We do not share your personal information, including your e-mail address, with o
 
 We do not send unsolicited e-mail. If you are receiving e-mail from us, it is because at some point you, or someone with access to your e-mail account, requested it. You can always opt out of any e-mail we send you simply by following the instructions that appear at the bottom of the e-mail message in question. If you are receiving e-mail from us in response to an inquiry you made, you can rest assured that we will use your e-mail address for no purpose other than to respond to your inquiry.
 
-We use your [IP address](http://www.dictionary.com/search?q=IP%20address) to help diagnose problems with our server, and to administer our Web site. Your IP address may also be used to gather broad demographic information.
+We use your [IP address](https://web.archive.org/go/http://dictionary.reference.com/search?q=IP%20address) to help diagnose problems with our server, and to administer our Web site. Your IP address may also be used to gather broad demographic information.
 
 This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
 
-Thesaurus.com shares only aggregate information with its affiliates, advertisers and business partners. We do not share any information about specific visitors. For example, we may tell potential advertisers that we have a certain number of subscribers to our [Word of the Day mailing list](http://www.dictionary.com/wordoftheday/list/), but we would never tell them that _you personally_ are a subscriber.
+Thesaurus.com shares only aggregate information with its affiliates, advertisers and business partners. We do not share any information about specific visitors. For example, we may give potential advertisers information that applies to all users of Thesaurus.com generally, but we would never tell them anything about _you personally_.
 
-We use [cookies](http://www.dictionary.com/search?q=cookie) for various purposes, including: 
+We use [cookies](https://web.archive.org/go/http://dictionary.reference.com/search?q=cookie) for various purposes, including: 
 
   * to control ad delivery (for example, to limit the number of pop-up ads you see)
+  * to indicate your subscription status (to check whether or not you are signed in as a subscriber)
   * to customize and enhance your experience
 
 
@@ -33,7 +34,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ## Children's Guidelines
 
-This Web site meets the guidelines of [TRUSTe's](http://www.truste.org/) Children's program.  
+This Web site meets the guidelines of [TRUSTe's](https://web.archive.org/go/http://www.truste.org/) Children's program.  
  **Thesaurus.com DOES NOT** :
 
   * collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes
@@ -48,16 +49,14 @@ This Web site meets the guidelines of [TRUSTe's](http://www.truste.org/) Childre
 
 We use outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Here is a list of advertising networks with whom we have relationships: 
 
-  * [Advertising.com](http://www.advertising.com/)
-  * [Be Free](http://www.befree.com/)
-  * [ClickAgents](http://clickagents.com/)
-  * [Commission Junction](http://www.commissionjunction.com/)
-  * [CPA Bank](http://www.cpabank.com/)
-  * [Fastclick](http://www.fastclick.com/)
-  * [LinkShare](http://www.linkshare.com/)
-  * [QuinStreet](http://www.quinstreet.com/)
-  * [Rydium](http://www.rydium.com/)
-  * [Tribal Fusion](http://www.tribalfusion.com/)
+  * [Advertising.com](https://web.archive.org/go/http://www.advertising.com/)
+  * [Be Free](https://web.archive.org/go/http://www.befree.com/)
+  * [ClickAgents](https://web.archive.org/go/http://clickagents.com/)
+  * [Commission Junction](https://web.archive.org/go/http://www.commissionjunction.com/)
+  * [Fastclick](https://web.archive.org/go/http://www.fastclick.com/)
+  * [LinkShare](https://web.archive.org/go/http://www.linkshare.com/)
+  * [QuinStreet](https://web.archive.org/go/http://www.quinstreet.com/)
+  * [Tribal Fusion](https://web.archive.org/go/http://www.tribalfusion.com/)
 
 
 
@@ -73,7 +72,21 @@ If you have any questions about this privacy statement, the practices of this si
 >  Attn: Customer Service  
 >  13428 Maxella Avenue #236  
 >  Marina del Rey, CA 90292  
->  [webmaster@thesaurus.com](http://www.thesaurus.com/help/forms/webmaster.html?Privacy%20Policy)
+>  [E-mail](https://web.archive.org/help/contact.html)
 
-| ADVERTISEMENT  
+|  | [**93% Satisfaction**](https://web.archive.org/go/http://achieve.phoenix.edu/banners.asp?revkey=3587)  
+See why thousands of professionals in your field advance their careers with University of Phoenix.  
+---  
+Sponsored Link  
+  
+[**Free College Money**](https://web.archive.org/go/http://www.fastweb.com/ib/dictionary-2f)  
+Use FastWeb's free scholarship search to find information on more than 600,000 scholarships!  
+---  
+Sponsored Link  
+  
+[**Unlimited Nationwide Calling**](https://web.archive.org/go/https://www.simpleservice.biz/register/simpleservice/wotdw3)  
+Flat Fee $49.95/mo. - No Contracts - Call Anyone, Anytime - No Hidden Fees - Activated In Minutes!  
+---  
+Sponsored Link  
+  
 
