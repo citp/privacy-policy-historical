@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linux.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603233125id_/http%3A//www.linux.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linux.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018153923id_/http%3A//linux.com/privacy.phtml) for the most accurate reproduction.*
 
 # Linux.com :: Privacy Policy
 
