@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofoklahoma.com privacy policy that was archived on 2003-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030227125437id_/http%3A//bankofoklahoma.com/privacy_bok.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofoklahoma.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204200017id_/http%3A//bankofoklahoma.com/privacy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -64,7 +64,7 @@ Keeping your account information accurate and up to date is very important. If y
 
 **VI.   __BOKF FAMILY OF COMPANIES__**
 
-The following is a list, as of April 1, 2001, of the subsidiaries to which this policy applies:
+The following is a list, as of July 1, 2002, of the subsidiaries to which this policy applies:
 
 **Brokerage and Investments**
 
