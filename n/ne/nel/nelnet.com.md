@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nelnet.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601091022id_/http%3A//www.nelnet.net/Shared_Includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelnet.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203022438id_/http%3A//www.nelnet.net/Shared_Includes/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
