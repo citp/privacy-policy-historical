@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the state.nd.us privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091119id_/http%3A//discovernd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nd.us privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618160035id_/http%3A//www.discovernd.com/privacy.html) for the most accurate reproduction.*
 
 # DiscoverND - North Dakota's Official Site for Services offered from State Government
 
 |   
 ---  
-[](https://web.archive.org/about/)  
-[](https://web.archive.org/business/)  
-[](https://web.archive.org/education/)  
-[](https://web.archive.org/employment/)  
-[](https://web.archive.org/government/)  
-[](https://web.archive.org/egovernment.html)  
-[](https://web.archive.org/healthsafety/)  
-[](https://web.archive.org/law/)  
-[](https://web.archive.org/living/)  
-[](https://web.archive.org/visiting/)  
+[](https://web.archive.org/about/)|   
+[](https://web.archive.org/business/)|   
+[](https://web.archive.org/education/)|   
+[](https://web.archive.org/employment/)|   
+[](https://web.archive.org/government/)|   
+[](https://web.archive.org/egovernment.html)|   
+[](https://web.archive.org/healthsafety/)|   
+[](https://web.archive.org/law/)|   
+[](https://web.archive.org/living/)|   
+[](https://web.archive.org/visiting/)|   
   
 | » Privacy Policy  
 ---  
