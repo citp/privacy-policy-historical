@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iafd.com privacy policy that was archived on 2001-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010801234253id_/http%3A//iafd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iafd.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630090315id_/http%3A//iafd.com/privacy.asp) for the most accurate reproduction.*
 
-# iafd: internet adult film database
+# iafd : internet adult film database
 
 [rame.net](http://www.rame.net/) : [iafd](http://www.iafd.com/) : privacy info
 
