@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creampiethais.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209114456id_/http%3A//creampiethais.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creampiethais.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309011239id_/http%3A//creampiethais.com/privacy) for the most accurate reproduction.*
 
 # Creampie Thais
 
@@ -14,4 +14,4 @@ The information we collect is used for internal review and is then discarded, us
 
 Please be aware that, as part of the Services, Ghost Pro Inc. provides links to Web sites operated by third parties, and is not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. 
 
-CCBill and iBill are our credit card processors. Ghost Pro Inc., does not store or maintain any credit or personal information. All information is stored at CCBill's or iBill's highly secure sites. For more information, take a look at [CCBill's Privacy Policy](https://about.ccbill.com/html_forms/privacy_policy-english.html) and [iBill's Privacy Policy](https://ibill.com/About/Legal.cfm#Privacy)
+CCBill, iBill and Paycom are our credit card processors. Ghost Pro Inc., does not store or maintain any credit or personal information. All information is stored at CCBill's, iBill's or Paycom's highly secure sites. For more information, take a look at [CCBill's Privacy Policy](https://about.ccbill.com/html_forms/privacy_policy-english.html) , [iBill's Privacy Policy](https://ibill.com/About/Legal.cfm#Privacy) or [Paycom's Privacy Policy](https://paycom.net/privacy.html)
