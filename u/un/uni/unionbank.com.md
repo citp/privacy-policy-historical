@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the unionbank.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605101342id_/http%3A//www.uboc.com/about/main/0%2C3250%2C2485_2873%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unionbank.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011191847id_/http%3A//www.uboc.com/about/main/0%2C3250%2C2485_2873%2C00.html) for the most accurate reproduction.*
 
 # Union Bank of California - Privacy & Security
 
 |  | Company Information  
 ---|---  
-| [Career Opportunities](http://www-prd-s2.uboc.com/about/main/0,,2485_3464,00.html)  
-| [Community Reinvestment](http://www-prd-s2.uboc.com/about/main/0,,2485_3453,00.html)  
-| [Company Profile](http://www-prd-s2.uboc.com/about/main/0,,2485_2779,00.html)  
-| [Investor Relations](http://www-prd-s2.uboc.com/about/main/0,,2485_2847,00.html)  
-| [Newsroom](http://www-prd-s2.uboc.com/about/main/0,,2485_2815,00.html)  
+| [Career Opportunities](http://www.uboc.com/about/main/0,,2485_3464,00.html)  
+| [Community Reinvestment](http://www.uboc.com/about/main/0,,2485_3453,00.html)  
+| [Company Profile](http://www.uboc.com/about/main/0,,2485_2779,00.html)  
+| [Investor Relations](http://www.uboc.com/about/main/0,,2485_2847,00.html)  
+| [Newsroom](http://www.uboc.com/about/main/0,,2485_2815,00.html)  
   |   |   |   |   |   |    
 |  |   
 ---|---  
@@ -16,17 +16,19 @@
 ---|---  
 | Union Bank of California Web Security  
 | What you should know about Identity Theft  
-| What you should know about fraudulent emails ("Phishing" or "Spoofing")  
+| What you should know about fraudulent emails (  
 | Fraud prevention tip: The Nigerian Advance Fee Scheme  
 | Fraud prevention tip: The Canadian Lottery Scam  
   
 UnionBanCal Corporation Online Privacy Policy for Consumers  
   
+Effective September, 2004
+
 Protecting consumer customer information on the Internet in the same way we protect it in all other ways we interact with you - at banking offices, via ATMs, and by telephone - is of the highest importance to us.
 
-The UnionBanCal Corporation family of companies is made up of a number of different companies that provide a wide range of products and services such as loans, deposits, investments and insurance.  These companies, which share common ownership, include Union Bank of California, N. A., UBOC Investment Services, Inc., and HighMark Capital Management, Inc., among others ("we", "our, "us" or "affiliates").  We have a long-standing policy of protecting customer information.
+The UnionBanCal Corporation family of companies is made up of a number of different companies that provide a wide range of products and services such as loans, deposits, investments and insurance.  These companies, which share common ownership, include Union Bank of California, N. A., UBOC Investment Services, Inc., and HighMark Capital Management, Inc., among others ("we", "our", "us" or "affiliates").  We have a long-standing policy of protecting customer information.
 
-Our privacy policy applies to private financial information ("non-public personal information") that has been provided to us by, or that we learned from other sources about, our customers, former customers and individuals who contact us about becoming customers ("you" or "your").  This policy applies not only to transactions you conduct on-line, but also to information you provide us through written files, by telephone, and/or when you send us E-mail.  We are providing this statement of our privacy policy to you as required by law.
+Our privacy policy applies to private financial information ("non-public personal information") that has been provided to us by, or that we learned from other sources about, our customers, former customers and individuals who contact us about becoming customers ("you" or "your").  This policy applies not only to transactions you conduct online, but also to information you provide us through written files, by telephone, and/or when you send us E-mail.  We are providing this statement of our privacy policy to you as required by law.
 
 You can visit our Web site(s) without providing us with any personal information about yourself to find out about our products and services, to learn about our history and about career opportunities we have available.
 
@@ -87,12 +89,12 @@ In response to an inquiry about sufficient funds to cover a check you have writt
 Disclosure of Certain Information Within the UnionBanCal Corporation Family of Companies  
 The UnionBanCal Corporation family of companies work together to help you achieve your financial goals.  We may share certain information about you among our subsidiaries and affiliated companies in order to process and service your transactions, as well as to offer you additional financial products and services that may be of interest or value to you.
 
-In order to evaluate your needs and to introduce you to additional financial services, we are permitted to share among our family of companies identification information about you, such as name, address and telephone number, as well as information about your transactions, account history or other experience with us.  This "experience information" sharing can save you time and money and make it easier for you to do business with us.  For example, if you have an account with one of our companies and would like to open an account with another of our companies, we may share information about your transactions and accounts.  This may prevent you from having to furnish the same information multiple times.
+In order to evaluate your needs and to introduce you to additional financial services, we may share among our family of companies identification information about you, such as your name, address and telephone number, as well as information about your transactions, account history or other experience with us.  This "experience information" sharing can save you time and money and make it easier for you to do business with us.  For example, if you have an account with one of our companies and would like to open an account with another of our companies, we may share information about your transactions and accounts.  This may prevent you from having to furnish the same information multiple times.
 
 In addition, we may also share among our family of companies "non-experience information" about you.  Non-experience information is information that is not related to our transactions or other experience with you.  We may receive non-experience information about you from applications and other forms or from outside sources such as credit reporting agencies.
 
 Limiting Certain Information Disclosed Within the UnionBanCal Corporation Family of Companies  
-Under the Fair Credit Reporting Act, you may advise us that you do not want us to share non-experience information, as described in the Disclosure of Certain Information Within the UnionBanCal Corporation Family of Companies section above, among our family of companies. The process of advising us that you do not want us to share non-experience information about you is called "opt-out".
+Under the federal Fair Credit Reporting Act, you may advise us that you do not want us to share non-experience information, as described in the Disclosure of Certain Information Within the UnionBanCal Corporation Family of Companies section above, among our family of companies. The process of advising us that you do not want us to share non-experience information about you is called "opt-out".
 
 **If you wish to opt-out of disclosure of non-experience information among our family of companies, please tell us either by writing to Union Bank of California, Attn: Opt-out, P. O. Box 512380, Los Angeles, CA   90051-2380, or calling 800-238-4486 and selecting option "0" and then option "3", or sending an E-mail through Contact Us at** [**www.uboc.com**](http://www.uboc.com/) **.   Please provide your full name and street address; account type(s), such as checking, savings, and/or home equity loan; account number(s); and telephone number on your request.  In the event of joint account relationships, one party may opt-out on behalf of all joint accountholders.  Please note that your request will apply only to non-experience information, and may take up to 30 days to process.  Once your request has been processed, it will remain in effect for the life of the account(s) unless you revoke it.**
 
@@ -100,27 +102,28 @@ Whether or not you choose to opt-out, in the normal course of conducting busines
 
 Even if you choose to opt-out, you will continue to receive statements, statement inserts and other account information, but you may not receive special offers from our subsidiaries and affiliated companies that could be of value to you.  In addition, this choice does not apply to our efforts to market other financial products and services to you -- we may continue to disclose non-public personal information to non-affiliated third parties outside of our family of companies, as described in the Disclosure of Non-Public Personal Information to Non-Affiliated Third Parties section above.
 
+**Additional Rights**  
+You may have additional privacy protections under some state laws. For example, certain state laws may restrict the types of information we may disclose about you, limit the parties with whom we may share such information, or require us to provide you with additional notices or opt-out rights.  Our policy is to comply with applicable state laws before disclosing non-public personal information about you.
+
 Our Employees' Access to and Use of Customer Information  
 Each of our employees has responsibility for maintaining the confidentiality of customer information.  We require all of our employees to agree in writing to protect the confidentiality of customer information and to use it only for our business purposes.  Our policy is to prohibit employees from accessing your personal information unless there is a business reason to do so.  Internal access and sharing of information about you within our various service units occurs to evaluate, structure and facilitate the services you have requested or to inform you of other financial services that may be of interest to you.  We train our employees to recognize the importance of customer confidentiality.  Employees who violate these standards are subject to disciplinary measures.
 
 Our Security Procedures  
 We also take other steps to safeguard customer information by maintaining physical, electronic, and procedural safeguards that comply with federal standards to guard your non-public personal information.  For more information on our Web banking security, read about our web security below.
 
-Maintaining the Accuracy of Customer Information  
-We have procedures to see that customer information is maintained in a commercially reasonable manner so that it is accurate, current, and complete.  We also have procedures to see that requests to correct inaccurate or incomplete information are acted upon in a timely manner.  We maintain security standards and procedures to help prevent unauthorized access to confidential customer information, and we regularly review, test and update our technology and procedures to improve the security and accuracy of such information.  We investigate your inquiries about information received from us (or from a credit bureau reflecting information we have provided) that you believe to be inaccurate and we take steps to correct information we determine to be incorrect.
+**Maintaining the Accuracy of Customer Information**  
+We have procedures in place to help us to maintain the accuracy of the personally identifiable information that we collect. Please contact us at 800-238-4486 if you believe that our information about you is incomplete, out-of-date, or incorrect.  If you are an on-line banking customer, log on to the on-the-Web service and select the secure “Contact Us” from the Customer Service page to change your address.  In your e-mail message, include your new address. To change your e-mail address, log on to the on-the-Web service, select “Customize”, and follow the instructions.
 
-Maintaining Confidentiality in Our Business Relationships with Other Companies  
-From time to time we contract with other businesses to perform specific services in support of our products.  When it is necessary to provide confidential customer information to a third party, we require each business that we select to agree to adhere to the same privacy standards, laws and regulations that apply to us.  That is, we require such third parties to agree to safeguard non-public personal information regarding our customers in accordance with our own privacy policies.
-
+**Maintaining Confidentiality in Our Business Relationships with Other Companies  
+**From time to time we contract with other businesses to perform specific services in support of our products.  When it is necessary to provide confidential customer information to a third party, we require each business that we select to safeguard non-public personal information regarding our customers in accordance with this Privacy Policy.  
+  
 Cookies  
 Solely for the purpose of providing improved service, we will occasionally use a "cookie".  A cookie is a small bit of information given to your browser by a web site, which can later be retrieved.  A cookie is a way for a web site to recognize whether or not you have visited the site before.  The cookie cannot be read by a web site other than the one that "set" the cookie.  We use cookies for administrative purposes, such as online banking session management, or where you are able to customize the information you see.  Recording cookies at such points makes your online experience easier and more personal. Most cookies last only through a single session, or visit.  They do not read your hard drive or contain any information that you have not already explicitly revealed.  None will contain information that will enable anyone to contact you via telephone or E-mail.  Your web browser can be set to inform you when cookies are set or to prevent them from being set.  However, if you elect to prevent cookies from being set, some web banking functions may not work properly.
 
 Children's Privacy  
 Our web site is directed to a general audience. We do not knowingly solicit or collect personal information from children on our site.
 
-This policy applies to consumers.  We reserve the right to make changes to this policy at any time, and will notify you if we do so.
-
-(Rev. 11/2003)  
+This policy applies to consumers.  We reserve the right to make changes to this policy at any time, and will notify you if we do so.  
   
 back to top  
   
@@ -253,7 +256,7 @@ back to top
   
   
   
-What you should know about fraudulent emails ("Phishing" or "Spoofing")  
+What you should know about fraudulent emails (  
   
   * "Phishing" or "Spoofing" is when unsolicited emails appear to be coming from a bank, insurance company, retailers or a regulatory agency, but they are not.
   * The fraudulent emails require that the recipient "verify" certain information to prevent account suspension, cancellation, interest withholding or some other urgent matter.
