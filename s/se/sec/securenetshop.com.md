@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securenetshop.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210143213id_/http%3A//www.securenetshop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securenetshop.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622051950id_/http%3A//securenetshop.com/privacy.htm) for the most accurate reproduction.*
 
 # SecureNetShop
 
