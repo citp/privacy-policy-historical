@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techweb.com privacy policy that was archived on 1999-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990825074144id_/http%3A//www.cmpnet.com/delivery/privacy.html%3Fls%3DtechwebHomePrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techweb.com privacy policy that was archived on 2000-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000510042351id_/http%3A//www.cmpnet.com/delivery/privacy.html%3Fls%3DtechwebHomePrivacy) for the most accurate reproduction.*
 
 # CMPnet's Privacy Policy
 
