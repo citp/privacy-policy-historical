@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401220424id_/http%3A//www.gamezone.com/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606224050id_/http%3A//www.gamezone.com/privacy/privacy.htm) for the most accurate reproduction.*
 
-# GameZone.com - PC Privacy Policy
+# GameZone's Privacy Policy
 
     
 **GAMEZONE ONLINE PRIVACY STATEMENT**
@@ -42,13 +42,13 @@
 >> Free Giveaway Contest Rules: [ http://www.gamezone.com/winfree/ContestRules.htm](http://www.gamezone.com/winfree/ContestRules.htm)  
 >  Ultra-Link Contest Rules: [ http://www.gamezone.com/linkcontest/LinkContestRules.htm](http://www.gamezone.com/linkcontest/LinkContestRules.htm)
 > 
-> **GameShop**
->
->> All orders placed through GameZone's GameShop are processed by our affiliate, Beyond.com and are, therefore, subject to the terms and conditions of Beyond.com. Please refer to the following pages for Beyond.com's Customer Support information and Privacy Policy:
->> 
->> Customer Support: [ http://www.beyond.com/support/](http://www.beyond.com/support/)  
->  Privacy Policy: [ http://www.beyond.com/support/privacy.htm](http://www.beyond.com/support/privacy.htm)  
+> **GameZone GameShop**
 > 
+> GameZone and GameStop.com have teamed up to bring you a new one stop shop for all your gaming needs. From PC to Consoles, Accessories to Strategy Guides, DVD to Toys, you can find it all in the GameZone GameShop.
+> 
+> When shopping in the GameShop, you will be placing items into your GameShop shopping cart and checking out. Thats where GameStop.com comes in. We've partnered with GameStop.com to handle and ship your order(s). GameStop.com will help you with any questions, comments and/or concerns regarding your order(s).
+> 
+> [ http://www.gzgameshop.com/gs/sites/gz/help/corp_info.asp](http://www.gzgameshop.com/gs/sites/gz/help/corp_info.asp)
 > 
 > **Advertising**
 >
@@ -88,8 +88,8 @@
 > 
 > WebMaster  
 >  GameZone Online  
->  37655 Pembroke  
->  Livonia, MI 48152  
+>  P.O. Box 530638  
+>  Livonia, MI 48153  
 >  [webmaster@gamezone.com](mailto:webmaster@gamezone.com)  
 >    
 > 
