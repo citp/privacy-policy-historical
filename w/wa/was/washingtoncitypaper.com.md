@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtoncitypaper.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602234852id_/http%3A//washingtoncitypaper.com/etc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtoncitypaper.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013225601id_/http%3A//washingtoncitypaper.com/etc/privacy.html) for the most accurate reproduction.*
 
 # Washington City Paper Privacy Policy
 
