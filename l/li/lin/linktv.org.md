@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linktv.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192916id_/http%3A//linktv.org/about/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linktv.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204134921id_/http%3A//www.linktv.org/about/privacy.php3) for the most accurate reproduction.*
 
 # Link TV - Privacy and Security
 
