@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the encyclopedia-titanica.org privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211131707id_/http%3A//www.encyclopedia-titanica.org/admin/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encyclopedia-titanica.org privacy policy that was archived on 2004-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040814190203id_/http%3A//www.encyclopedia-titanica.org/admin/privacy.shtml) for the most accurate reproduction.*
 
 # Encyclopedia Titanica: Privacy Policy
 
-[](https://web.archive.org/web/20031211131707id_/http%3A//www.encyclopedia-titanica.org/admin/index.php)  
-|  |   
----|---|---  
-  
 ## Privacy Policy
 
 This pages explains what information might be gathered about you when you visit encyclopedia-titanica.org. 
