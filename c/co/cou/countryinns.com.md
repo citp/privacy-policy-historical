@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602170447id_/http%3A//www.countryinns.com/CHI/Footer/Privacy/0%2C3067%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217221352id_/http%3A//www.countryinns.com/CHI/Footer/Privacy.jsp) for the most accurate reproduction.*
 
 # Country Inns & Suites - Privacy Policy
 
 |  |  |  |  |  |   
 |   
-  |  |  |   
+|  |  |   
 ---  
   |  |   |  **Privacy Philosophy**   
 We want to make your experience online satisfying and safe. We want to provide you with the means to control your privacy and give you a way to voice questions or concerns you may have. 
@@ -37,6 +37,6 @@ By using this site, you agree to our Privacy Policy. We may also change the Poli
 ---|---|---  
   |   
 |  |   
-|  | [](http://www.radisson.com/) | [](http://www.tgifridays.com/) |  |   
----|---|---|---|---  
+|  | [](http://www.radisson.com/) | [](http://www.parkhtls.com/) | [](http://www.tgifridays.com/) |  |   
+---|---|---|---|---|---  
 | 
