@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603192446id_/http%3A//www.ebookers.com/helpandinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214072539id_/http%3A//www.ebookers.com/helpandinfo/privacy.html%3FVERSION%3DIE%26LANG%3DAA%26CURRENCY%3DIEP) for the most accurate reproduction.*
 
 # ebookers.com - Privacy Statement
 
-**Privacy Statement for ebookers.com**[](https://www.truste.org/validate/4363)
+**Privacy Statement for ebookers.com**
 
-ebookers.com plc is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organisation whose mission is to build users trust and confidence in the Internet by promoting the use of fair information practices. 
-
-Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
+Because we are totally commited to your privacy, we are disclosing our information, privacy practices. By disclosing this privacy policy we are revealing to you:
 
   * What personally identifiable information of yours or third party personally identification is collected from you through the web site.
   * The organization collecting the information.
@@ -25,8 +23,6 @@ ebookers.com plc
 34-42 Woburn Place  
 London W1CH 0TA  
 [webmaster@ebookers.com](mailto:webmaster@ebookers.com)
-
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 The following discloses our information gathering and dissemination practices for this website: www.ebookers.com. 
 
@@ -60,23 +56,20 @@ When you reserve or purchase travel services through ebookers.com, we provide in
 We do not sell customer names or other private profile information to third parties and have no intention of doing so in the future. Occasionally, ebookers.com will hire a third party to act on our behalf for projects such as market research surveys and contest entry processing and will provide information to these third parties specifically for use in connection with these projects. The information we provide to such third parties is protected by a confidentiality agreement and is to be used solely for completing the specific project. 
 
 **Cookies**  
-We at ebookers.com are constantly researching the latest in technology to ensure that we are able to give you the most effective, informative and enjoyable experience on our site. An integral part of this is the use of permanent cookies. A cookie is a small text file that our site may send to your hard drive when you are logged on to the ebookers site. When you next visit ebookers, our site may request the retrieval of one of these cookies, and the information received will personalise our content, offers and services to suit your individual travel preferences. 
+We at ebookers.com are constantly researching the latest in technology to ensure that we are able to give you the most effective, informative and enjoyable experience on our site. An integral part of this is the use of permanent cookies. A cookie is a small text file that our site may send to your hard drive when you are logged on to the ebookers site. When you next visit ebookers, our site may request the retrieval of one of these cookies, and the information received will personalise our content, offers and services to suit your individual travel preferences.
 
 If you want to know when our site is using a cookie from your hard drive, you can set your browser to send you an alert. If you prefer to use our site without utilising cookies, you can set your browser to not accept them at all, however, they will make your life easier. Many web sites are employing this cookie technology and cookies are never to be used to store information of a private nature, such as credit card numbers. Also, you can be assured that the information stored in any cookies initiated by ebookers cannot be accessed by any other web sites. 
 
-ebookers.com works with a third party to serve ads on our site. These ads may contain cookies. This policy only covers the use of cookies by ebookers.com and does not cover the use of cookies by any advertisers. ebookers.com does not have control, nor access to the information contained in its advertisers' cookies. To find out more about how DoubleClick, Inc. manages the privacy of information in conjunction with serving ads on this site go to [www.doubleclick.net](http://www.doubleclick.net/us/corporate/privacy/)
+For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy)
 
-For more information about DoubleClick cookies and how to "opt-out",   
-please see [www.doubleclick.net](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp)
-
- **Links**
+**Links**
 
 This web site contains links to other websites. Please note that when you click on one of these links, you are ‘clicking’ to another website. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours **  
 **
 
   
 **Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Socket Layers (SSL) technology to ensure the privacy of the information provided to us both in the flights booking engine and in the order forms. By default, all debit/credit card details are transmitted in an encrypted form; however, we offer the option to transmit them in an unencrypted form for users whose browsers do not support SSL. We also operate behind a firewall to ensure there is no unauthorised access to our systems.   
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Socket Layers (SSL) technology to ensure the privacy of the information provided to us both in the flights booking engine and in the order forms. At no time are the customers debit/credit card details transmitted un-encrypted over the Internet. We also operate behind a firewall to ensure there is no unauthorised access to our systems.   
 [More information about online security](https://web.archive.org/helpandinfo/security.html)
 
 To change information in your user profile visit.   [http://www.ebookers.com/myebooker](https://web.archive.org/myebooker/index.html)
