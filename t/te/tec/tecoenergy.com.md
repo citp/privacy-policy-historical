@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tecoenergy.com privacy policy that was archived on 2000-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000525232217id_/http%3A//www.tecoenergy.com/energy/ENPrvcyPlcy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecoenergy.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204094800id_/http%3A//www.tecoenergy.com/energy/ENPrvcyPlcy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -17,7 +17,3 @@ P.O. Box 111
 Tampa, FL 33601-0111
 
 We can be reached via [e-mail](mailto:malubitz@tecoenergy.com?subject=Privacy%20Policy).
-
-* * *
-
-[TECO Energy](https://web.archive.org/web/20000525232217id_/http%3A//www.tecoenergy.com/TECOEnergy.html), [Bosek, Gibson and Associates](https://web.archive.org/web/20000525232217id_/http%3A//www.tecoenergy.com/bosek.html), [Peoples Gas](https://web.archive.org/web/20000525232217id_/http%3A//www.tecoenergy.com/PeoplesGas.html), [Tampa Electric](https://web.archive.org/web/20000525232217id_/http%3A//www.tecoenergy.com/TampaElectric.html), [TECO Coal](https://web.archive.org/web/20000525232217id_/http%3A//www.tecoenergy.com/coal.html), [TECO Coalbed Methane](https://web.archive.org/web/20000525232217id_/http%3A//www.tecoenergy.com/energy/ENSbsdrs.html#TCBMethane), [TECO Power Services](https://web.archive.org/web/20000525232217id_/http%3A//www.tecoenergy.com/tps.html), [TECO Properties](https://web.archive.org/web/20000525232217id_/http%3A//www.tecoenergy.com/energy/ENSbsdrs.html#TProperties), [TECO Transport](https://web.archive.org/web/20000525232217id_/http%3A//www.tecoenergy.com/ttt.html)
