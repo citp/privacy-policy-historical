@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialoutpost.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605094623id_/http%3A//tutorialoutpost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialoutpost.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204021453id_/http%3A//www.tutorialoutpost.com/privacy.php) for the most accurate reproduction.*
 
 # Tutorial Outpost - Photoshop Tutorials, Flash Tutorials, 3D Studio Max Tutorials
 
