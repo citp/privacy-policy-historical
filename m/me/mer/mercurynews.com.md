@@ -1,108 +1,83 @@
-> *The following text is extracted and transformed from the mercurynews.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621082131id_/http%3A//www.mercurycenter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercurynews.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209114235id_/http%3A//mercurynews.com/mld/mercurynews/contact_us/terms_of_use) for the most accurate reproduction.*
 
-# Passport
+# Privacy Policy & Terms of Use -- MercuryNews.com
 
-[Mercury Center](http://www.mercurycenter.com/) is a part of the [Real Cities Network (RCN)](http://www.realcities.com/), a national network of Web sites in the United States. Mercury Center, along with the Real Cities Network, is committed to protecting your privacy. The following FAQ for both Mercury Center and the entire Real Cities Network should answer most of your important questions. However, if you still have concerns, please send email to [sjm_passport_feedback@realcities.com](mailto:sjm_passport_feedback@realcities.com).
+Go to Terms of Use 
 
-In order to provide convenient and personalized service to our Web site visitors, Mercury Center uses a variety of systems to collect and store customer information. You can take advantage of these systems by signing up for a Passport. As a Passport holder, you will enjoy a growing range of interactive features, including community sites, free email, chat rooms, shopping guide, email news dispatches, valuable promotions and sweepstakes, premium content, and more. 
+**Privacy Policy**
 
-In addition to improving your online experience, knowing a bit more about you allows _us_ to display advertising to you in a more intelligent fashion.  Targeted advertisements are probably more interesting for you, and they are definitely more productive for our advertisers. 
+All Knight Ridder owned sites, including this site, are covered by the policies herein. Knight Ridder Digital (KRD) is part of the Real Cities Network (or "RCN"), a national network of Internet sites serving geographic and common interest communities across the United States. RCN affiliates each have their own Terms of Use and Privacy Policies. Please review all affiliate's policies to understand the privacy terms applicable on their sites. You can view the sites included in the Real Cities Network at [http://www.realcities.com](http://www.realcities.com/). 
 
-For all these reasons, Passports are an exciting development for Real Cities sites. We understand how important your privacy is to you, and we hope that the following answers will reassure you that the information you have given us will not be misused. 
+**When does KRD collect my personally identifiable information?**
 
-**Frequently Asked Questions about PRIVACY and related issues:**
+When you register for one of KRD's sites, or for services on any of our sites, we collect personally identifying information from you. During registration you are asked to provide your email address and some demographic information including such items as your gender, year of birth, and address. The more information you provide, the better we are able to customize our services and your experience to suit your needs and preferences. In addition to registration, we may collect personally identifiable information from you when you enter contests and sweepstakes (which may be done in conjunction with site registration), participate in promotions and special programs, register for premium or customized services, make a purchase at one of our merchants or partners, subscribe to one of our print papers or magazines, or download a software product or plug-in. 
 
-  * Does Mercury Center ask for personal information?
-  * What other information does Mercury Center collect?
-  * How Does Mercury Center use the information it collects?
-  * How does Mercury Center target advertising?
-  * Will Mercury Center disclose any of my personal information?
-  * Will Mercury Center use my information for direct mailings?
-  * Does Mercury Center use cookies and "IP Addresses"?
-  * Does Mercury Center collect credit card information or other billing data?
-  * Can I get rid of my Mercury Center Passport?
-  * What else should I know about my privacy?
-  * Want more information? Click here for helpful links....
+If you are making a purchase or enrolling in a premium service for which there is a fee, we, or a 3rd party working in partnership with us, will collect your credit card, billing address, and other verifying information. In addition, we may collect personally identifiable information from you when you provide content to us for display or use on one or more KRD sites, including but not limited to, when you participate in user surveys, post messages to bulletin boards or chat areas, submit personals or other classified listings, build a home page, report a problem with one of our sites or services, or submit a letter to the editor. 
 
- 
+**How is my personally identifiable information used?**
 
-**Does Mercury Center ask for personal information?**   
-Yes. A Real Cities Passport consists of four basic elements: a login name, a password, an email address, and a postal code.  Over time, however, your Passport will grow with you. For example, when we introduce the ability to share Passport information, you may wish to create a public profile in order to let other Passport holders get to know you better. When we introduce interactive features, such as personalized news or classified agents, you will be able to add these preferences to your Passport as well, so you don't have to keep retyping them. Also, any time you take advantage of special promotions or sweepstakes for Passport holders, we will add any additional data collected to your Passport record. 
+Our main goal is to provide you with a customized and more relevant experience on KRD sites. We review our users' preferences, demographics, traffic patterns, and other information in aggregate so that we can better understand who our audience is, and what it is you want. Tracking user preferences also helps us serve you more relevant advertising. Please note that we do not share your personally identifying information with the advertiser. 
 
-Back to questions | Top  
+We use a third party to serve ads when you visit our site. This third party ad server may use certain information about your visit to our site in order to provide advertisements about goods and services that may be of interest to you, but they are not allowed to collect or use personally identifiable information about you for their own purposes. 
 
+All credit card information is transmitted in an encrypted form, using SSL (secure socket layer) encryption, the industry-standard. Although, we use all reasonable efforts to safeguard the privacy of your personal information, transmissions made by means of the Internet cannot be made absolutely secure. KRD assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties. 
 
-**What other information does Mercury Center collect?**   
-In order to determine what the most popular areas of our site are, Mercury Center also keeps track of on-site traffic, i.e. page views and ad impressions. Over time, in order to anticipate your needs and to improve the product, we may link these usage patterns with individual customers or groups of customers. 
+The email address provided by you at registration, or as updated, may be used by Knight Ridder and its affiliated entities, including KRD, to contact you for any reason, including: (1) Your account status (including an email confirmation of registration), (2) Major changes to the website, the Terms of Use and Privacy Policy, (3) Participation in user surveys, asking for feedback on the website and (4) notifying you of existing or prospective products and services offered by us or our advertisers and partners. This information helps us to improve our website, and any information we obtain will not be shared with third parties, except in aggregate form. The information provided by you at registration may be used by Knight Ridder and its affiliated entities, including KRD to contact you with special offers and promotions. 
 
-Back to questions | Top  
+Please check the registration screens applicable to the service, promotion, or product offering for which you are signing up for specific instructions on how to update your user profile and/or opt out of receiving offers and mailings. Also, please remember that third party vendors also sell products and services on KRD sites, and their policies may differ from ours. 
 
+**What other information does KRD collect and how is it used?**
 
-**How does Mercury Center use this information?**   
-Mercury Center uses customer information in non-intrusive, common sense ways. First, storing user identity and preference information allows Mercury Center to greet you when you return to the site as well as to keep track of your onsite preferences, such as Email News subscriptions. Second, Mercury Center writers and product managers review our customer information in aggregate in order to better understand who our audience is and what you want. Finally, tracking customer information allows us to sell targeted advertising. While we may not always get it right, we think that you will be more interested in banner ads that have something to do with your news interests and/or home Zip Code. Targeted ads are also far more efficient for advertisers. This is especially good because advertising dollars pay the bills and allow us to provide Mercury Center to you for free. 
+**Cookies.** KRD uses cookies to store and track your preferences to provide you with a more personalized user experience. A cookie is a message that is sent to your browser from a Web server and stored on your computer's hard drive. Most Internet sites use cookies. You can set your browser preferences to reject all cookies but then you will not be able to participate in most customized services, and you may be required to repeatedly log in to participate in various services, promotions, or product offerings. Cookies make your experience easier by saving your preferences and passwords. We also use cookies that contain no personal information at all. These cookies, help us estimate our audience size, determine which areas of KRD sites are the most popular, and serve targeted advertising. Third party advertisers and our ad server may set and access their cookies on your computer in accordance with their own privacy policies. If you would like more information about the use of cookies by our third party ad server and your ability to opt out of receiving cookies from this third party, please click here: <http://www.doubleclick.net/us/corporate/privacy>
 
-Back to questions | Top  
+**IP Address.** KRD may also collect IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g. how many visitors logged in to a KRD site). An IP address is a number that is assigned to your computer automatically when you use the Internet. When you visit a particular KRD web page, our servers log your IP address. Your IP address is not linked to anything personally identifiable. 
 
+**Who does KRD share information with?**
 
-**How does Mercury Center target advertising?**   
-When a Passport holder makes use of one of our services, such as a dispatches of sports stories delivered via email, we "remember" that the user is interested in sports. Then, when an advertiser wants to reach an audience of sports fans, we simply serve the advertisements to those users who we have been flagged as sports fans. Alternatively, if a local grocery market wants to inform its customers of an upcoming sale, we can display that advertisement to Passport holders with relevant Zip Codes. It is important to note that in such cases it is our policy NOT to share the details of your Passport information with the advertiser. We act as the middleman between you and the companies that want to reach you. 
+User information is shared within KRD in order to provide you with a more integrated and customized user experience. We will not disclose your personally identifiable information to third parties except (1) to the extent necessary to provide you with a requested product or service, or (2) in order to provide targeted promotional offers during the registration process. If you do not accept any of the offers, your information will not be retained by our registration offers partner. 
 
-Back to questions | Top  
+To the extent you are notified of uses of your personal information which are different from those described in this Policy Statement during your enrollment in any particular service, sweepstakes, contest or promotion, the uses of which you are specifically notified will govern that service, sweepstakes, contest or promotion. 
 
+**What are my options to control the use of my personal information?**
 
-**Will Mercury Center disclose any of my personal information?**   
-Mercury Center will disclose personal information in some limited circumstances. When Mercury Center intends to disclose information, the purpose will be explained to you beforehand:  
-\- From time to time, Mercury Center will run sweepstakes or promotions for Passport holders. In most cases, you will be required to provide additional information on in order to participate in the event, and some of this data may be provided to the sponsor of the promotion. Of course, we will explain the nature of the promotion, and you will always have the option not to participate in it. Also, you will not be signed up without your express consent.  
-\- Mercury Center does disclose aggregated user statistics (for example, 55% of our users come from the Southwest) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. However, aggregate data is not traceable to a specific user.  
-\- When Mercury Center decides to integrate 3rd party services which depend upon customer information, such as online email or personalized stock quotes, we may share some elements of our customer records (such as an email address) with the third party. Such partners, as well as Internet sites and services accessible through Mercury Center, may have separate privacy and data collection practices, independent of Mercury Center. It is our policy to notify you of any differences between their policies and our own. However, Mercury Center has no responsibility or liability for these independent policies or the actions of non-affiliated third parties.  
-\- It is important to note that although Mercury Center will use all reasonable efforts to safeguard the privacy of your personal information, transmissions made by means of the Internet cannot be made absolutely secure. Mercury Center will have no liability for disclosure of data due to errors in transmission or unauthorized acts of third parties.  
-\- Finally, Mercury Center will cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. 
+Most browsers can be configured to reject cookies or alert you when cookies are being sent. Keep in mind that if you refuse cookies, it is possible that some portions of KRD sites may not function exactly as intended. 
 
-Back to questions | Top  
+**What else should I know about my privacy?**
 
+You should be aware that if you voluntarily disclose personal information online in a public area, that information may be collected and used by others. We do not control the actions of our visitors and registered users. If you disclose personal information in a chat room, forum, on your home page, or any other publicly accessible place on KRD sites, you do so at your own risk and you understand that your submitted information may be collected and used by others to send you unsolicited messages, advertisements, or for other purposes. 
 
-**Will Mercury Center use my information for direct mailings?**   
-Only with your permission. With your express consent, we will send you information about our products and services, or other products and services we feel may be of interest to you. Only Mercury Center (or agents working on behalf of Mercury Center) will send you these direct mailings. At any time you can easily update your Passport such that you no longer receive such offers and mailings. 
+Please remember that protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any password you use to register, and you should always be careful and responsible whenever disclosing information online. 
 
-Back to questions | Top  
+**PRIVACY PROTECTION FOR CHILDREN.** In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to KRD sites to persons under the age of thirteen (13). If KRD later learns that any registered user is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to KRD sites. We feel strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis. 
 
+Acceptance of Privacy Policy. By using KRD sites and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of KRD sites. We reserve the right, to modify this Privacy Statement at any time. Your continued use of any portion of KRD sites following notification or posting of such changes, will constitute your accept of those changes. If you have questions or concerns about our specific policies, please contact us through our [feedback form](https://web.archive.org/web/20041209114235id_/http://www.mercurynews.com/mld/mercurynews/contact_us/feedback/). 
 
-**Does Mercury Center use Cookies and IP Addresses?**   
-Yes. If you choose "Automatic Login" when you sign up for a Passport, Mercury Center stores a scrambled version of your Passport login name in a permanent "Cookie" file on your hard drive so that we can remember who you are from one visit to the next. If you do not choose "Automatic Login", we will use a temporary Cookie after you log in (which expires after each visit) to keep track of you as you move from page to page during a given visit to our site. Without these Cookies, it is impossible for us to provide any level of personalized service or to target advertising. In addition, some of our sites and advertising systems may set additional cookies which contain no personal information whatsoever. 
+**Want more information? Check out these helpful links...**
 
-In order to enable automatic log in as well as fast entry to our various services, Passport keeps three key data elements in your Cookie: your Passport Login Name, Zip Code, and Email Address. To protect your privacy, each cookie is scrambled using a proprietary encryption algorithm. Think of these Cookies as "claim checks". Like a coat room clerk, we use the Cookie to help us keep track of your information on our systems. To anyone other than us, the information stored in your Cookies is meaningless. 
+[Electronic Frontier Foundation](http://www.eff.org/) \- a civil liberties organization working to protect your rights online. 
 
-You might wonder if another Web site or online user would be able to steal your Passport login name from your cookie? The answer is no. Only Mercury Center or other Real Cities sites can read the information about your Passport Login Name. Due to the design of Web servers and browsers, no other Web site has access to your Mercury Center Cookie and vice versa. However, if you have chosen Automatic Login, anyone who sits down at your computer can log on to the site using your Passport information. 
+[Electronic Privacy Information Center](http://www.epic.org/) \- established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure. 
 
-Mercury Center may also collect IP addresses for the purposes of system administration and to report aggregate information to our advertisers. 
+[Privacy Issues Page](http://www.cdt.org/) \- from the Center for Democracy and Technology (CDT). 
 
-Back to questions | Top  
+[Cookie Central](http://www.cookiecentral.com/) \-- dedicated to provide full information upon Internet Cookies. 
 
+* * *
 
-**Does Mercury Center collect credit card information or other billing data?**   
-Signing up for a Mercury Center Passport is free, as are most of the services that come with the Passport. In the future, we may add new features and services which will carry a charge. If you are interested in making use of these, you may be asked to supply credit card information or other billing data. In such case, Mercury Center will provide a secure means of transferring the sensitive data back and forth across the Internet. 
+**Terms of Use**
 
-Back to questions | Top  
+We welcome you to our site. We ask that you review these Terms of Use, which are intended to constitute a binding license agreement that conditions your use of this site ("Agreement"). We have tried to avoid unnecessary legal verbiage. Our goal is to protect our rights in order to provide you with access to the free content available at this site. If you do not wish to be bound by this Agreement after you have read it, please leave the site. If you remain on this site, or return thereafter, you agree to be bound by this Agreement. 
 
+**1\. Responsible conduct.** You agree to act responsibly at this site and to treat other visitors with respect. 
 
-**Can I get rid of my Real Cities Passport?**   
-Yes. If you want us to disable your Passport or remove it from our records, you may notify us by sending email to [sjm_passport_feedback@realcities.com](mailto:sjm_passport_feedback@realcities.com). Please include your Passport Login Name. We will send you an email to confirm your request. When you have responded, we will remove your information from our database. 
+**2\. Limited License/ Copyright and Intellectual Property Law Restrictions.** Except for public domain material, the content on this site is protected by intellectual property laws, including U.S. copyright laws. You are hereby granted a non-exclusive license to use the material at this site ("Content") while connected to this site (including, where available, to email individual stories to friends directly from this site). You are also granted a limited license to print one copy of any Content posted at the site, but only for your personal use. Except as expressly provided above, all rights are reserved. Among other things, except to the extent required for the limited purpose of reviewing material on our site, electronic reproduction, adaptation, distribution, performance or display is prohibited. Changes to or deletion of author attribution or copyright notices are prohibited. Commercial use of any of the Content is strictly prohibited. Use of any of our trademarks as metatags on other web sites also is strictly prohibited. You may not display this website in frames (or any of the Content via in-line links) without our express written permission, which may be requested by contacting us through our feedback form. You may, however, establish ordinary links to our site without our written permission. 
 
-Back to questions | Top  
+**3\. Links.** We may provide links from our site to other sites as a convenience to our visitors. We have no control over linked sites and make no representations about any content or material available at these locations. Links are not intended to imply sponsorship, affiliation or endorsement. 
 
+**4.** **Discussion Boards and other self-publishing 3rd party products.** Although we do not have any obligation to monitor these services, or this self-published content, we reserve the right at all times to remove any information or materials that are unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane, indecent or otherwise objectionable to us in our sole discretion and to disclose any information necessary to satisfy the law, regulation, or government request. We also reserve the right to permanently block any user who violates these terms and conditions. 
 
-**What else should I know about my privacy?**   
-Please remember that the protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of your Passport password, and you should always be careful and responsible whenever disclosing information online. 
+**5\. DISCLAIMER OF WARRANTIES.** YOU EXPRESSLY AGREE THAT USE OF THIS WEB SITE IS AT YOUR SOLE RISK. THERE IS NO WARRANTY THAT YOUR ACCESS TO OR USE OF THIS SITE WILL BE UNINTERRUPTED OR ERROR FREE; OR THAT ANY PARTICULAR RESULTS MAY BE OBTAINED BY USE OF THIS SITE. THIS SITE IS MADE AVAILABLE ON AN "AS IS" BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHERWISE, OTHER THAN THOSE WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION, OR MODIFICATION UNDER THE LAWS APPLICABLE TO THIS AGREEMENT. NEITHER WE NOR ANY OTHER PERSON OR ENTITY PROVIDING CONTENT VIA THIS SITE SHALL BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES. 
 
-Back to questions | Top  
+**6\. Modifications/ Termination.** The terms of this agreement will not be modified on an individual basis. You agree that we may modify the terms of this Agreement (or discontinue this site) in our sole discretion, without advance notice, and that your right to access this site is conditioned on an ongoing basis with your compliance with the then-current version of these Terms and Conditions. You should therefore visit this page frequently. 
 
-
-**Want more information? Click here for helpful links....**
-
-  * [Electronic Frontier Foundation](http://www.eff.org/) \- a civil liberties organization working to protect your rights online.
-  * [Electronic Privacy Information Center](http://www.epic.org/) \- established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure.
-  * [Privacy Issues Page](http://www.cdt.org/) \- from the Center for Democracy and Technology (CDT).
-  * [Cookie Central](http://www.cookiecentral.com/) \-- dedicated to provide full information upon Internet Cookies.
-  * [The EPIC Cookies Page](http://www.epic.org/privacy/cookies/default.html) \- links, news, and explanations.
-
-
+**7\. Jurisdiction.** This Web site is hosted on servers located in the United States and is intended to be viewed by residents of the United States. In the event of any dispute arising out of or relating to this site, you agree that the exclusive venue for litigating disputes shall be in state or federal court in San Jose, California. 
