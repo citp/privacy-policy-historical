@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the machinerytrader.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207013934id_/http%3A//www.machinerytrader.com/info/privacy.asp%3Fguid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinerytrader.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205212353id_/http%3A//www.machinerytrader.com/info/privacy.aspx%3Fguid%3D) for the most accurate reproduction.*
 
-# Machinery Trader Privacy Policy
+# Sandhills Publishing Privacy Policy
 
 Sandhills Publishing understands the concerns people have about privacy and safety while using the Internet. This Privacy Policy explains what information we gather from visitors, how we use that information, and the steps we take to protect your privacy. | 1. | Sandhills Publishing collects information from visitors through voluntary site registration, voluntary submission of information when purchasing products or completing an online employment application, and through the voluntary acceptance of cookies. Sandhills Publishing will not collect information from you if you do not want us to collect it.  
 ---|---  
