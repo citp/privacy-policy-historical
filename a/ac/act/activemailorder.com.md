@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activemailorder.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626234801id_/http%3A//www.activemailorder.com/Active/privacy.aspx%3Fj%7E%26SID%3D4VWSWHVZBIVWG61UB0WUCG3YAUQO8V8K) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activemailorder.com privacy policy that was archived on 2004-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041026093556id_/http%3A//www.activemailorder.com/Active/privacy.aspx%3Fj%7E%26SID%3D4VW8EPND8BB9JVMUEMJNNCFSRSXPS0L8) for the most accurate reproduction.*
 
 # Privacy and Terms Policy
 
@@ -49,4 +49,4 @@ Ontario, California 91761
 800-588-3911  
 Outside the US call:  
 909-673-7777  
-[info@activemailorder.com](https://web.archive.org/web/20040626234801id_/http%3A//www.activemailorder.com/Active/info@activemailorder.com)
+[info@activemailorder.com](https://web.archive.org/web/20041026093556id_/http%3A//www.activemailorder.com/Active/info@activemailorder.com)
