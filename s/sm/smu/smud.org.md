@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606173607id_/http%3A//smud.org/legal/general.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204110634id_/http%3A//www.smud.org/legal/general.html) for the most accurate reproduction.*
 
 # Sacramento Municipal Utility District | Privacy Statement
 
@@ -34,7 +34,7 @@ Some materials are used in this site by permission from third parties. All third
 
 ###### Infringement
 
-If you believe any material on this Web site infringes a copyright, trademark, or service mark that you own or are authorized to protect, please notify us immediately. Send a "Notice of Infringement" to [smackey@smud.org](mailto:smackey@smud.org) and fax a confirming copy to 1-916-732-6577. The Digital Millennium Copyright Act, 17 U.S.C. Section 512 ©(3)(A) specifies required information.
+If you believe any material on this Web site infringes a copyright, trademark, or service mark that you own or are authorized to protect, please notify us immediately. Send a "Notice of Infringement" to [smackey@smud.org](mailto:smackey@smud.org) and fax a confirming copy to 1-916-732-6577. The Digital Millennium Copyright Act, 17 U.S.C. Section 512 �(3)(A) specifies required information.
 
 ### Disclaimer
 
@@ -130,7 +130,7 @@ Identity of the requesting parent will be verified by SMUD using your account nu
 
 Cookies may be used for remembering user input on interactive pages, such as games.
 
-SMUD [Children's Online Privacy Policy](https://web.archive.org/web/20040606173607id_/http%3A//smud.org/legal/children.html).
+SMUD [Children's Online Privacy Policy](https://web.archive.org/web/20041204110634id_/http%3A//www.smud.org/legal/children.html).
 
 ### Security statement
 
