@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the f-secure.com privacy policy that was archived on 2003-08-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030810041619id_/http%3A//www.f-secure.com/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the f-secure.com privacy policy that was archived on 2004-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607034446id_/http%3A//www.f-secure.com/privacy_policy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
@@ -11,138 +11,16 @@
 <body bgcolor="white" link="#0033cc" marginheight="4" topmargin="4">
 
 <center>
-<meta name="KEYWORDS" lang="en" content="Anti-Virus, AntiVirus, Computer Virus, Virus Protection, Cryptography, Firewalls, Encryption, SSH, Data Security, Managed Security, Wireless Security, Wireless Protection, Network, Policy, Management, Detection, Attack, Protecting, Protection, Data Security, Breaches, Vulnerabilities, VPN, Malware, Worms, Trojans, DoS, DDoS, Scanning, Zombie, Hacker, Cracker, Whacker, Hoax, SmartCard, 3DES, DES, Blowfish, , Orion, AVP, IPSec, Authentication">
-<meta name="description" content="F-Secure provides  Security Software, Anti-Virus (AntiVirus) and Cryptography Centralized Policy Management, Wireless Security, Network Security,  Virtual Private Networks"> 
-<!--// KEYWORDS: Anti-Virus, AntiVirus, Computer Virus, Virus Protection, Cryptography, Firewalls, Encryption, SSH, Data Security, Managed Security, Wireless Security, Wireless Protection, Network, Policy, Management, Detection, Attack, Protecting, Protection, Data Security, Breaches, Vulnerabilities, VPN, Malware, Worms, Trojans, DoS, DDoS, Scanning, Zombie, Hacker, Cracker, Whacker, Hoax, SmartCard, 3DES, DES, Blowfish, , Orion, AVP, IPSec, Authentication //-->
-<!--// DESCRIPTION: Anti-Virus, AntiVirus, Virus, Cryptography, Firewalls, Encryption, SSH, AES, Security, Managed, Wireless, Network, Policy, Management, Detection, Attack, Solutions, Protecting, Protection, DataSecurity, Breaches, Vulnerabilities, VPN, Malware, Worms, Trojans, DoS, DDoS, Scanning, Zombie, Hacker, Cracker, Whacker, Hoax, PKI, SmartCard, 3DES, DES, Blowfish, , Orion, AVP, IPSec, Authentication //-->
 
 
 
 
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 
-<script language="JavaScript" type="text/javascript">
-<!--
-
-var requiredVersion = 5;  
-var useRedirect = false;  
-
-
-
-var flash2Installed = false;    // boolean. true if flash 2 is installed
-var flash3Installed = false;    // boolean. true if flash 3 is installed
-var flash4Installed = false;    // boolean. true if flash 4 is installed
-var flash5Installed = false;    // boolean. true if flash 5 is installed
-var flash6Installed = false;    // boolean. true if flash 6 is installed
-var maxVersion = 6;             // highest version we can actually detect
-var actualVersion = 0;          // version the user really has
-var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
-var jsVersion = 1.0;            // the version of javascript supported
-
-// -->
-</script>
-
-<script language="JavaScript1.1" type="text/javascript">
-<!--
-
-// Check the browser...we're looking for ie/win
-var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;    // true if we're on ie
-var isWin = (navigator.appVersion.indexOf("Windows") != -1) ? true : false; // true if we're on windows
-
-// This is a js1.1 code block, so make note that js1.1 is supported.
-jsVersion = 1.1;
-
-// Write vbscript detection on ie win. IE on Windows doesn't support regular
-// JavaScript plugins array detection.
-if(isIE && isWin){
-  document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
-  document.write('on error resume next \n');
-  document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
-  document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
-  document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
-  document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');  
-  document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');  
-  document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
-}
-// -->
-</script>
-
-<script language="JavaScript" type="text/javascript">
-<!--
-
-
-function detectFlash() {  
-  // If navigator.plugins exists...
-  if (navigator.plugins) {
-    // ...then check for flash 2 or flash 3+.
-    if (navigator.plugins["Shockwave Flash 2.0"]
-        || navigator.plugins["Shockwave Flash"]) {
-
-      // Some version of Flash was found. Time to figure out which.
-      
-      // Set convenient references to flash 2 and the plugin description.
-      var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-      var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
-
-
-      // alert("Flash plugin description: " + flashDescription);
-      
-     var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
-     
-
-      flash2Installed = flashVersion == 2;    
-      flash3Installed = flashVersion == 3;
-      flash4Installed = flashVersion == 4;
-      flash5Installed = flashVersion == 5;
-      flash6Installed = flashVersion >= 6;
-    }
-  }
-  
-  for (var i = 2; i <= maxVersion; i++) {  
-    if (eval("flash" + i + "Installed") == true) actualVersion = i;
-  }
-  
-  if(navigator.userAgent.indexOf("WebTV") != -1) actualVersion = 3;  
-  
-  // alert("version detected: " + actualVersion);
-
-
- if (actualVersion >= requiredVersion) {
-    // ...then we'll redirect them to the flash page, unless we've
-    // been told not to redirect.
-    if (useRedirect) {
-      // Need javascript1.1 to do location.replace
-      if(jsVersion > 1.0) {
-        // It's safe to use replace(). Good...we won't break the back button.
-        window.location.replace(flashPage);  
-      } else {
-        // JavaScript version is too old, so use .location to load
-        // the flash page.
-        window.location = flashPage;
-      }
-    }
-    
-    // If we got here, we didn't redirect. So we make a note that we should
-    // write out the object/embed tags later.
-    hasRightVersion = true;                
-  } else {  
-    // The user doesn't have a new enough version.
-    // If the redirection option is on, load the appropriate alternate page.
-    if (useRedirect) {
-      // Do the same .replace() call only if js1.1+ is available.
-      if(jsVersion > 1.0) {
-        window.location.replace((actualVersion >= 2) ? upgradePage : noFlashPage);
-      } else {
-        window.location = (actualVersion >= 2) ? upgradePage : noFlashPage;
-      }
-    }
-  }
-}
-
-
-detectFlash();  // call our detector now that it's safely loaded.  
-  
-// -->
-</script>
+<link rel="SHORTCUT ICON" href="/images/f-secure.ico">
+<title>F-Secure: Be Sure</title>
+<script language="JavaScript" src="/navigation/js/main_menu_new.js"></script><style><!--.mTD,.mTD A {white-space:nowrap;color:#FFFFFF;font-weight:normal;}.mTD,.mTD A:Link {color:#FFFFFF}.mTD A:Visited {color:#FFFFFF}.mTD,.mTD A:Active,.mTD A:Link,.mTD A:Visited,.mTD A:Hover{font-weight:normal;font-size:13px;font-family:arial;text-decoration:none;position:relative;}.SUBmTD,.SUBmTD A { white-space:nowrap;color:#FFFFFF;font-weight:normal;}.SUBmTD,.SUBmTD A:Link {color:#FFFFFF}.SUBmTD A:Visited {color:#FFFFFF }.SUBmTD,.SUBmTD A:Active,.SUBmTD A:Link,.SUBmTD A:Visited,.SUBmTD A:Hover{font-weight:normal;font-size:12px;font-family:arial;text-decoration:none;}.roman {font-size:14px; color:#0000cc; background-color:white; font-family:times new roman; }//--></style><style media="print">.printhide {display:none;}</style>
+<link href="/navigation/css/fsecure.css" rel="styleSheet" type="text/css">
 
 
 
@@ -150,36 +28,7 @@ detectFlash();  // call our detector now that it's safely loaded.
 
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="725" height="82" background="/images/new-header.slogan.backgr.gif">
-<tbody><tr><td colspan="2"><script language="JavaScript" type="text/javascript">
-<!--
-// In this section we set up the content to be placed dynamically on the page.
-// Customize movie tags and alternate html content below.
 
-if (!useRedirect) {    // if dynamic embedding is turned on
-  if(hasRightVersion) {  // if we've detected an acceptable version
-    var oeTags = '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="getav" width="725" height="83">'
-+ '<param name="movie" value="/images/getav.swf">'
-+ ' <param name="quality" value="high">'
-+ ' <param name="bgcolor" value="#6600CC">'
-+ ' <embed name="trial" src="/images/getav.swf" quality="high" bgcolor="#6600CC" width="725" height="82" type="application/x-shockwave-flash">'
-+ '</embed></object>';
-
-    document.write(oeTags);   // embed the flash movie
-  } else {  // flash is too old or we can't detect the plugin
-    // NOTE: height, width are required!
-    var alternateContent = '<a href="/"><IMG SRC="/images/new-header.slogan.cam.gif" HEIGHT="82" WIDTH="725" usemap="#camap"  border="0"></a>';
-   
-
-    document.write(alternateContent);  // insert non-flash content
-  }
-}
-
-// -->
-</script><a href="/"><img src="/images/new-header.slogan.cam.gif" height="82" width="725" usemap="#camap" border="0"></a>
-<noscript>
-<a href="/"><IMG SRC="/images/new-header.slogan.cam.gif" HEIGHT="82" WIDTH="725" usemap="#camap" border="0"></a>
-</noscript></td></tr></tbody></table>
 
 <map name="main-navigation">
 <area shape="RECT" coords="2,1,81,19" href="/solutions/">
@@ -192,17 +41,46 @@ if (!useRedirect) {    // if dynamic embedding is turned on
 <area shape="RECT" coords="602,0,676,19" href="/partners/">
 <area shape="default" href="#">
 </map>
-<table border="0" cellpadding="0" cellspacing="0" width="725"><tbody><tr><td><a href="/"><img src="/images/navbar.gif" name="anchor" border="0" width="725" height="20" align="ABSMIDDLE" usemap="#main-navigation"></a></td></tr></tbody></table>
 
-<map name="camap">
-<area shape="RECT" coords="548,3,722,79" href="/get/av/">
-<area shape="RECT" coords="0,3,358,80" href="/">
-<area shape="default" href="/">
-</map>
 
-             			
+<table border="0" cellpadding="0" cellspacing="0" width="725">
+<tbody><tr valign="top">
+<td colspan="2">
+<table border="0" cellpadding="2" cellspacing="0" width="725"><tbody><tr><td width="500">
+<a href="/"><img src="/images/fsc_logo.jpg" alt="F-Secure Logo - Be Sure" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash4/cabs/swflash.cab#version=4,0,0,0" id="westop" width="250" height="81">
+  <param name="movie" value="/images/westop.swf">
+  <param name="quality" value="high">
+  <param name="bgcolor" value="#FFFFFF">
+  <embed name="westop" src="/images/westop.swf" quality="high" bgcolor="#FFFFFF" width="250" height="81" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+  
+</object>
+
+</td><td align="right" valign="bottom">
+<form action="http://www.Europe.F-Secure.com/cgi-bin/jumper/mainjumper.cgi" enctype="x-www-form-encoded" method="POST">
+<select name="toselect" style="font-family: Arial,Verdana,Geneva; font-size: 8pt;" onchange="top.location.href=this.options[this.selectedIndex].value">
+<option selected="">Global Sites
+</option><option value="http://www.f-secure.com/">Global
+</option><option value="http://www.f-secure.fi/">Finland
+</option><option value="http://www.f-secure.se/">Sweden
+</option><option value="http://www.f-secure.de/">Germany
+</option><option value="http://www.f-secure.fr/france/">France
+</option><option value="http://www.f-secure.co.jp/">Japan
+</option></select><noscript><input TYPE="submit" VALUE="Go"></form>
+</noscript><br><a href="http://www.f-secure.co.jp/"><img src="/images/japanese.gif" alt="Japanese" align="right" border="0"></a></form></td>
+<td align="right" valign="bottom">
+<form action="http://cgi.f-secure.com/cgi-bin/search.cgi" method="get" id="form1" name="form1">
+<input type="text" name="q" size="8" style="font-family: Arial,Verdana,Geneva; font-size: 8pt; width: 82px">
+ <br><input type="image" src="/images/search-go.gif" alt="search" align="right" border="0" value="submit">
+ </form>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="725"><tbody><tr><td><a href="/"><img src="/images/navbar-new.gif" name="anchor" border="0" width="725" height="19" usemap="#main-navigation"></a></td></tr></tbody></table>
+
+
+</td></tr></tbody></table>
 <script type="text/javascript" language="javascript1.2" src="/resources/menu.js"></script><script language="javascript1.2" type="text/javascript" src="/resources/menu_moz.js"></script>
 <table border="0" cellpadding="0" cellspacing="0" width="725">
+</table><table border="0" cellpadding="0" cellspacing="0" width="725">
 <tbody><tr valign="top">
 <td nowrap="" width="588">
 <table width="525" border="0" cellspacing="0" cellpadding="8">
@@ -320,48 +198,13 @@ F-Secure will not sell, rent, or lease your personally identifiable information 
 <tr>
 <td width="136">
 
-<table border="0" cellpadding="0" cellspacing="0" width="135">
-<tbody><tr>
-<td></td>
-<td><img height="1" width="1" src="/images/search_spacer.gif"></td>
-<td></td></tr>
-<tr>
-<td></td>
-<td colspan="2"><img src="/images/search.gif" border="0"></td></tr>
-<tr>
-<td><img src="/images/search_spacer.gif" width="8" height="1" border="0"></td>
-<td>
-<center>
- 
-<input type="text" name="q" size="8" style="font-family: Arial,Verdana,Geneva; font-size: 8pt; width: 82px"></center></td>
-<td align="right"><input type="image" name="search" src="/images/search_go.gif" width="35" height="22" border="0"></td></tr></tbody></table>
-<img border="0" height="1" width="136" src="/images/dotted_line.gif"><br>
-<form action="http://www.Europe.F-Secure.com/cgi-bin/jumper/mainjumper.cgi" enctype="x-www-form-encoded" method="POST">
-<img src="/images/select.gif" border="0"><br>
-
-&nbsp;&nbsp;&nbsp;<select name="toselect" style="font-family: Arial,Verdana,Geneva; font-size: 8pt;" onchange="top.location.href=this.options[this.selectedIndex].value">
-<option selected="">Languages
-</option><option value="http://www.f-secure.com/">English
-</option><option value="http://www.f-secure.fi/">Suomi
-</option><option value="http://www.f-secure.se/">Svenska
-</option><option value="http://www.f-secure.de/">Deutsch
-</option><option value="http://www.f-secure.fr/france/">Français
-</option><option value="http://www.f-secure.co.jp/">Japanese
-</option></select><noscript><input TYPE="submit" VALUE="Go"></form>
-</noscript>
-</form></td></tr>
-<tr>
-<td width="136">
-<a href="http://www.f-secure.co.jp/">
-<img src="/images/bottom_spacer3.gif" width="136" height="20" border="0"></a></td></tr></tbody></table>
-
 </td></tr></tbody></table>
 
 
 
 
-</center>
+
 <p>
 
 
-</p></body></html>
+</p></td></tr></tbody></table></center></body></html>
