@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211843id_/http%3A//www.bankatlantic.com/qaprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624150049id_/http%3A//www.bankatlantic.com/qaprivacy.asp) for the most accurate reproduction.*
 
 # BankAtlantic Online Privacy Policy
 
@@ -47,7 +47,7 @@ If you do not wish to receive cookies, you can set your browser to alert you of 
 
  Customer data is stored in encrypted format in our Internet Banking database, and is transmitted in that encrypted format within the network.  Should you forget your password you will need to call our customer care department toll-free at 1-800-741-1700 so that it may be reset for you.
 
-For specific details regarding BankAtlantic’s policy on the sharing of information, please refer to our Privacy Policy.   For more detailed information on our Security Policy, please _[click here](https://web.archive.org/web/20021204211843id_/http%3A//www.bankatlantic.com/security.asp)_.
+For specific details regarding BankAtlantic’s policy on the sharing of information, please refer to our Privacy Policy.   For more detailed information on our Security Policy, please _[click here](https://web.archive.org/web/20030624150049id_/http%3A//www.bankatlantic.com/security.asp)_.
 
  **Back To Menu**
 
@@ -63,9 +63,9 @@ You can contact BankAtlantic for any questions or suggestions you have via E-mai
 
 (please note that this will be a non encrypted transmission, therefore do not include any confidential account information), our BankAtlantic Bankmail (this will be an encrypted secure transmission within our Internet Banking platform), or by calling us toll-free at 1-800-741-1700. **   **
 
-BankAtlantic has been certified by members of the Council of Better Business Bureau’s BBB _Online_ ® and VeriSignTM to help promote the principles of disclosure and informed consent on the Internet. For more information regarding privacy you can visit the following sites: 
+BankAtlantic has been certified by members of the Council of VeriSignTM to help promote the principles of disclosure and informed consent on the Internet. For more information regarding privacy you can visit the following sites: 
 
-  1.   2.   3.  **The Federal Trade Commission**    
+  1.   2.  **The Federal Trade Commission**    
 ([http://www.ftc.gov](http://www.ftc.gov/)) offers an overview of privacy protection. 
 
 
