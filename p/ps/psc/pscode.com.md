@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pscode.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619025118id_/http%3A//pscode.com/xq/ASP/lngWId.-1/qx/vb/scripts/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pscode.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114244id_/http%3A//pscode.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
 
 # visual basic, vb, active server pages (ASP),java, javscript,c, c++, c__ , vbscript,active server pages, ASP, vbscript,SQL, database, informix, oracle, SQL Server,Perl, CGI,Delphi, PHP,Free source code for the taking. Over a million lines of programs.
 
@@ -16,7 +16,7 @@ Planet Source Code uses cookies to improve your Web browsing experience. When yo
 
 _**Email addresses and Demographic Information given to Planet Source Code**_
 
-Users who sign up for and use advanced features of Planet Source Code, such as code submission, voting, Code of the Day, and submitting feedback will be asked for additional information including email address and possibly demographic information. BECAUSE WE PROTECT OUR USERS FROM SPAMMERS, Planet Source Code DOES NOT SELL THIS INFORMATION TO EXTERNAL COMPANIES. Email addresses are used purely to verify the user's true identity and prevent fraud, while demographic information is used purely for the purpose of targeting ads and measuring their effectiveness on behalf of Planet Source Code clients and customers. 
+Users who sign up for and use advanced features of Planet Source Code, such as code submission, voting, Code of the Day, and submitting feedback will be asked for additional information including email address and possibly demographic information. We will not market this information to other companies unless you give us permission to do so. Email addresses are used to verify the user's true identity and prevent fraud, while demographic information is used for the purpose of targeting ads and measuring their effectiveness on behalf of Planet Source Code clients and customers. If a user signs up for an opt-in email list, they will always be given the opportunity to opt out of it at any time, using a link at the bottom of the email.
 
 _**3rd Party Measurement Services **_   
 Planet Source Code works with several third parties that serve ads to this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.
@@ -26,6 +26,8 @@ Often, they will employ a third-party measurement service other than Planet Sour
 To find out more about how Double-click manages the privacy of information in conjunction with serving ads on this site and to know your choices about not having this information used by DoubleClick, please go to 
 
 <http://www.sonar.com/naiprivacy>.This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+
+This site uses the services of Adtegrity for the serving and/or targeting of ads, promotions and other marketing messages. Adtegrity.com's Privacy Policy can be found at <http://www.adtegrity.com/privacy.asp>. 
 
  If you have questions regarding other third party measurement services and their respective methods of information collection, please contact  [privacy@Planet-Source-Code.com](mailto:privacy@Planet-Source-Code.com). 
 
