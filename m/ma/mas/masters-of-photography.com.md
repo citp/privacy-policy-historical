@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masters-of-photography.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204160456id_/http%3A//www.masters-of-photography.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masters-of-photography.com privacy policy that was archived on 2005-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050209010252id_/http%3A//www.masters-of-photography.com/privacy.html) for the most accurate reproduction.*
 
 # Masters of Photography: Privacy Policy
 
