@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blognation.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206202634id_/http%3A//www.tnl.net/who/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blognation.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403115513id_/http%3A//www.tnl.net/who/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
