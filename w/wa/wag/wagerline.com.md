@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630180310id_/http%3A//wagerline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204112038id_/http%3A//wagerline.com/privacy.asp) for the most accurate reproduction.*
 
 # Wagerline.com - FREE Real-time Scores, Odds, & Contest for All Major Sports
 
