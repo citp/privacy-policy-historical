@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliantenergy.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602231550id_/http%3A//www.alliantenergy.com/stellent/groups/public/documents/pub/blaze_000067.hcsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliantenergy.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208225208id_/http%3A//www.alliantenergy.com/stellent/groups/public/documents/pub/blaze_000067.hcsp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@ At Alliant Energy, we are committed to protecting your privacy. **We do not sell
 
 When you visit 
 
-_[any Alliant Energy Web site](https://web.archive.org/stellent/groups/public/documents/pub/au_011236.hcsp#TopOfPage)_
+_[any Alliant Energy Web site](https://web.archive.org/stellent/groups/public/documents/pub/au_ms_012553.hcsp#TopOfPage)_
 
 , our Web servers recognize only the name of your Internet service provider. We use this information to maintain the reliability and usability of our Web sites.
 
