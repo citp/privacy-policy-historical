@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202083700id_/http%3A//www.mail.com/mailcom/privacypolicy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606213024id_/http%3A//mymail.mail.com/templates/common/us/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](https://web.archive.org/?dest=start_welcome)
 
-|   
----  
-|  | 
+|  |  | 
 
 | [](https://www.truste.org/validate/4596)The TRUSTe seal verifies that Mail.com is a member of the TRUSTe Program and the company and this privacy statement are in compliance with TRUSTe's privacy principles.  
 ---  
@@ -44,9 +42,9 @@ When you **register** for an account:
 
 2.  Provide industry-standard security to protect your personal information while it is in our possession. If you use your credit card to pay for premium services, then your credit card information will be encrypted using SSL technology and will be stored on secure servers.
 
-3.  Give you access to review and edit your personal and demographic information while it is in our possession. If you already have an account with us, [Click Here](http://www.mail.com/mailcom/index.jhtml?dest=welcome) to change your information now.
+3.  Give you access to review and edit your personal and demographic information while it is in our possession. If you already have an account with us, [Click Here](http://www.mail.com/) to change your information now.
 
-4.  Send you service announcements notifying you of any new products or updates to the service. We may use your alternate e-mail address and home address to ensure that you receive important information about your account or information you have requested.
+4.  Send you service announcements notifying you of any new products or updates to the service. We may use your alternate E-mail address and home address to ensure that you receive important information about your account or information you have requested.
 
 5.  Give you the choice of "opting in" to receive third party mailings.
 
@@ -88,7 +86,7 @@ We may also transfer personally identifiable information to a buyer of all or pa
 * * *  
   
 ---  
-_**Cookies**_ : Our Web site uses cookies for the purpose of identifying you uniquely. This allows us to pre-populate your e-mail address on the login page and to distinguish between your mail session and that of the many other people using our service. Cookies also ensure that you view relevant ad banners on our Web site when you log in. Our web-based mail service will not function unless your browser is set to accept cookies.  
+_**Cookies**_ : Our Web site uses cookies for the purpose of identifying you uniquely. This allows us to pre-populate your E-mail address on the login page and to distinguish between your mail session and that of the many other people using our service. Cookies also ensure that you view relevant ad banners on our Web site when you log in. Our web-based mail service will not function unless your browser is set to accept cookies.  
   
 * * *  
   
