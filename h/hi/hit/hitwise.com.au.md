@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwise.com.au privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwise.com.au privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/privacy.html) for the most accurate reproduction.*
 
 # Hitwise Australia - real-time competitive intelligence
 
@@ -7,16 +7,16 @@ Hitwise is strongly committed to your privacy rights. Hitwise's Privacy Statemen
 
 The Statement is broken down into several key areas for your benefit:
 
-[**What personally identifiable information is collected?**](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/privacy.html#1)   
-[**Other information routinely gathered by Hitwise**](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/privacy.html#2)   
-[**Are Cookies and Log files used?**](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/privacy.html#3)   
-[**Does Hitwise disclose information to Third Parties?**](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/privacy.html#4)   
-[**Links to Third Party Sites**](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/privacy.html#5)   
-[**Can I change or delete information secured?**](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/privacy.html#6)   
-[**Choices available for Collection and Use**](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/privacy.html#7)   
-[**Children's Online Privacy Protection**](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/privacy.html#8)   
-[**Legal nature of this Privacy Statement**](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/privacy.html#9)   
-[**Contact our Privacy Office**](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/privacy.html#10)
+[**What personally identifiable information is collected?**](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/privacy.html#1)   
+[**Other information routinely gathered by Hitwise**](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/privacy.html#2)   
+[**Are Cookies and Log files used?**](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/privacy.html#3)   
+[**Does Hitwise disclose information to Third Parties?**](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/privacy.html#4)   
+[**Links to Third Party Sites**](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/privacy.html#5)   
+[**Can I change or delete information secured?**](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/privacy.html#6)   
+[**Choices available for Collection and Use**](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/privacy.html#7)   
+[**Children's Online Privacy Protection**](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/privacy.html#8)   
+[**Legal nature of this Privacy Statement**](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/privacy.html#9)   
+[**Contact our Privacy Office**](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/privacy.html#10)
 
  **What personally identifiable information is collected?**   
 Hitwise collects information in a fair and lawful manner for a number of purposes. For the purposes of both identification and billing, Hitwise may collect details from subscribers (or clients) that include name, address, e-mail address, fax and telephone numbers. Other demographic information may be collected for the purpose of in-house direct marketing campaigns, in accordance with relevant Australian Legislation. A subscriber (or client) may however, choose to opt out of such campaigns through contacting the Privacy Manager at [privacy@hitwise.com](mailto:privacy@hitwise.com). 
@@ -25,7 +25,7 @@ Hitwise collects information in a fair and lawful manner for a number of purpose
 Hitwise also collects data from a number of Australian ISPs. This is done in a fair and lawful manner, as outlined in our ISP Partner Program. The data collected includes, for every domain visited the number of page impressions served, hits, user sessions and average time spent by users of the ISP. Data collected from ISP's does not include any personally identifiable information that can be traced to an individual's internet usage. Information from ISP's, subscribers and clients is only retained by Hitwise if it is necessary for the functioning of its services. Disposal of information occurs when required by law, or when there is no longer a reason to retain it. 
 
 **Are Cookies and Log files used?**   
-In some circumstances, Hitwise uses cookies to enhance the functionality of the site and offer improved services to its clients. A cookie is a piece of text that can be entered into the memory of a computer, and is used to identify a client. Cookies are also used to store registration details so that the client is no longer required to re-enter these details on subsequent visits. In addition, Hitwise uses cookies to indicate the number of computers used by each client to log-in to Hitwise, to prevent abuse of the system and logins ([See Conditions of Use](https://web.archive.org/web/20021216005336id_/http%3A//www.hitwise.com.au/ss/conditions.html)). Hitwise also collects information on IP addresses and web browsers used by our clients for the same reasons mentioned above. 
+In some circumstances, Hitwise uses cookies to enhance the functionality of the site and offer improved services to its clients. A cookie is a piece of text that can be entered into the memory of a computer, and is used to identify a client. Cookies are also used to store registration details so that the client is no longer required to re-enter these details on subsequent visits. In addition, Hitwise uses cookies to indicate the number of computers used by each client to log-in to Hitwise, to prevent abuse of the system and logins ([See Conditions of Use](https://web.archive.org/web/20030618095416id_/http%3A//www.hitwise.com.au/ss/conditions.html)). Hitwise also collects information on IP addresses and web browsers used by our clients for the same reasons mentioned above. 
 
 **Does Hitwise disclose information to Third Parties?**   
 Hitwise does not share information with any Third Parties, and takes every care to ensure the security of information held. The company name(s) of Hitwise clients may be divulged to appropriate parties. Hitwise does not collect or compile personally identifiable information for the dissemination or sale to outside parties for consumer marketing purposes. Hitwise reserves the right to make mention of other users of the Hitwise service only if the inquiring party is from the same organisation. 
