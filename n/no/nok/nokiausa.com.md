@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000749id_/http%3A//www.nokiausa.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608153711id_/http%3A//www.nokiausa.com/privacypolicy) for the most accurate reproduction.*
 
 # NokiaUSA: Privacy Policy
 
@@ -8,9 +8,9 @@ Your privacy is important to Nokia. This Privacy Policy (this "Policy") disclose
 
 BY ACCESSING THIS SITE, YOU AGREE TO THE TERMS OF THIS POLICY. IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DISCONTINUE YOUR USE OF THIS SITE.
 
-This Policy includes the following sections:
+This Policy includes the following sections:  
 
-  
+
 Applicability of Policy  
 This Policy is applicable to the following and only the following Nokia Inc. (Nokia) U.S. operated web sites:   
 www.NokiaUSA.com;  
