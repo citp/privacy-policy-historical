@@ -1,16 +1,33 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208102318id_/http%3A//www1.ibackup.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604092800id_/http%3A//www.ibackup.com/policy.htm) for the most accurate reproduction.*
 
 # IBackup
 
-**Browser Based Applications:**  
+  |  | 
+
+|  | **Browser Based Applications:**  
 ---  
-Pro Softnet Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.ibackup.com. 
+Pro Softnet Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.ibackup.com.
 
-Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. 
+**1\. What is IBackup and why is my information needed?**
 
-This site contains links to other sites. **www.ibackup.com** is not responsible for the privacy practices or the content of such Web sites. 
+IBackup.com provides the registered user Online Backup, Online Storage, Sharing and Collaboration services over Internet. Pro Softnet Corp. makes the IBackup.com service available under a number of different subscription plans. Because IBackup is Web based, it requires the use of first and last names, a password, a valid email address and a valid credit card to process payment for service. Therefore, at a minimum, we require such necessary information during the registration process.
 
-**Pro Softnet has taken a decision not to display any advertising banners at any section of IBackup's website from 07/17/2000.**  
+**2\. What information does IBackup gather and how is it used?  
+**  
+Because of the nature of our product, we must collect personal information from users during the registration process, including first and last names, a valid credit card to process payment for service, an email address and a password. Your email address may be used to send you periodic  
+information about IBackup and related products, but only upon your express consent. Because of our commitment to present the best possible product to all our users, we track the category of services selected by our individual users as well as all information pertaining to user satisfaction. To ensure the quality of our product, we reserve the right to maintain evaluation and feedback records indefinitely.
+
+SESSION RECORDS: To maintain our quality of service and to assist in the analysis of product performance, we may also gather data on connection information, including the timing and size of all packets sent over the Internet during a session. The gathered information is used only to ensure the highest quality experience possible at IBackup.
+
+SURVEYS: In addition to required member information, we may conduct surveys and ask users to volunteer demographic information to be used on an aggregate basis for internal market research, joint research projects with outside companies involved in product development. We use such information to better focus our product and personalize the scope of services offered to each individual user.  
+**  
+3\. With whom does IBackup share the information?  
+**  
+We do not voluntarily share personally identifiable information with any third party without the user's express consent or unless compelled by applicable state and federal laws. IBackup does not control the practices of our affiliates. If you have questions about how affiliates use the information gathered when you link to them, please read their privacy policies.
+
+This site contains links to other sites. Pro Softnet Corp. is not responsible for the privacy practices or the content of such Web sites.  
+  
+  
    
 **Choice/Opt-Out**  
   
@@ -24,14 +41,16 @@ You can go to **MyIBackup** option after a successful login and uncheck the opti
    
 **Security**  
   
-Your Password should never be shared with anyone unless you intend to do collaborative work with others who need read/write access to your files . When we receive certain types of sensitive information such as financial information, we redirect visitors to the secure portion of our site using industry standard SSL . This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The user data is password protected. However, Pro Softnet Corp. is not responsible for any loss of data upon using this service. 
+  
+Your Password should never be shared with anyone unless you intend to do collaborative work with others who need read/write access to your files . When we receive certain types of sensitive information such as financial information, we redirect visitors to the secure portion of our site using industry standard SSL . This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The user data is password protected. 
 
-For details, please see [Terms of Service](https://web.archive.org/terms.htm)
+For details, please see [Terms of Service](https://web.archive.org/terms.htm).
 
 IBackup uses **cookies** for user session tracking. The **cookies** are used solely for identifying user sessions and do not store any personal information regarding the user.   
   
    
 **Correct/Update**  
+  
   
 This site gives users the following options for changing and modifying information previously provided. 
 
