@@ -1,24 +1,23 @@
-> *The following text is extracted and transformed from the firstcitizens.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204033535id_/http%3A//firstcitizens.com/privacy_security/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitizens.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603041611id_/http%3A//www.firstcitizens.com/privacy_security/privacy_statement) for the most accurate reproduction.*
 
 # First Citizens Bank | Privacy and Security | Privacy Statement
 
-Privacy Statement — June 2003
+Privacy Statement — March 2004
 
 IMPORTANT INFORMATION ABOUT PRIVACY
 
 This notice is provided on behalf of the following companies, each of which is owned or controlled by First Citizens BancShares, Inc., a financial holding company: 
 
 First-Citizens Bank & Trust Company  
-Atlantic States Bank  
-IronStone Bank*  
+IronStone Bank  
 First Citizens Bank, National Association  
 First Citizens Investor Services, Inc.  
+IronStone Securities, Inc.  
 Triangle Life Insurance Company  
-American Guaranty Insurance Company
+American Guaranty Insurance Company  
+Neuse Financial Services, Inc. 
 
-* A division of Atlantic States Bank
-
-We Value Your Trust. Trust is the foundation of our relationship with you. You have selected us to provide financial products and services because you trust us to act with integrity, to process your financial transactions and administer your accounts accurately, to handle information about you responsibly and to preserve the confidentiality of your financial affairs. We strive every day to earn your trust and confidence. 
+We Value Your Trust. Trust is the foundation of our relationship with you. You have selected us to provide financial products and services because you trust us to act with integrity, to process your financial transactions and administer your accounts accurately, to handle information about you responsibly and to preserve the confidentiality of your financial affairs. We strive every day to earn your trust and confidence.
 
 We recognize and respect your privacy expectations and are committed to protecting your privacy rights. At the outset, we want to assure you that: 
 
@@ -31,7 +30,7 @@ We recognize and respect your privacy expectations and are committed to protecti
 
 
 
-About This Notice. This notice summarizes our consumer privacy policies and practices and certain rights you have under the federal Fair Credit Reporting Act. Our consumer privacy policies and practices protect the confidentiality of information about individuals who obtain financial products or services from us primarily for personal, family or household purposes. They apply with equal force to both current and former customers. When we use the term "information" in this notice, we mean information about you that is not publicly available. The policies and practices described in this notice do not apply to or protect information about you that is publicly available, information about business entities or information about individuals who obtain financial products or services for business, commercial or agricultural purposes. We have included examples in this notice of information we collect, how we use it, with whom we share it and what we do to protect it. The examples we use are for the purpose of illustration only—you should not consider them to be a comprehensive description of our privacy practices. This notice does not apply to your relationships with other financial service providers (such as other banks, mortgage brokers, independent insurance agencies, insurance companies or mutual funds). Their privacy policies will govern how they collect, use and disclose personal information about you. 
+About This Notice. This notice summarizes our consumer privacy policies and practices and certain rights you have under the federal Fair Credit Reporting Act. Our consumer privacy policies and practices protect the confidentiality of information about individuals who obtain financial products or services from us primarily for personal, family or household purposes. They apply with equal force to both current and former customers. When we use the term “information” in this notice, we mean information about you that is not publicly available. The policies and practices described in this notice do not apply to or protect information about you that is publicly available, information about business entities or information about individuals who obtain financial products or services for business, commercial or agricultural purposes. We have included examples in this notice of information we collect, how we use it, with whom we share it and what we do to protect it. The examples we use are for the purpose of illustration only – you should not consider them to be a comprehensive description of our privacy practices. This notice does not apply to your relationships with other financial service providers (such as other banks, mortgage brokers, independent insurance agencies, insurance companies or mutual funds). Their privacy policies will govern how they collect, use and disclose personal information about you.
 
 We Collect and Use Information Responsibly. We collect and use information about you to administer our business and provide you with high quality financial products and services. We collect information about you from a variety of sources, including: 
 
@@ -54,9 +53,9 @@ In addition, we maintain physical, electronic and procedural safeguards that com
 
 Information Sharing.
 
-With Related Companies to Serve You Better. We call the companies that are related to us by common ownership or control our "affiliates." Our affiliates are all financial service providers, including banks, credit card companies, securities broker-dealers and insurance companies. When we are permitted to share information about you with our affiliates, we can serve you more efficiently, make it easier for you to do business with us and offer you a wider variety of financial products and services. For example, if you open an account with us and want to open an account with our affiliate, you may not have to furnish application information twice. 
+With Related Companies to Serve You Better. We call the companies that are related to us by common ownership or control our “affiliates.” Our affiliates are all financial service providers, including banks, credit card companies, securities broker-dealers and insurance companies. When we are permitted to share information about you with our affiliates, we can serve you more efficiently, make it easier for you to do business with us and offer you a wider variety of financial products and services. For example, if you open an account with us and want to open an account with our affiliate, you may not have to furnish application information twice. 
 
-We are permitted by federal law to share certain types of information about you with our affiliates, including identification information and information about your transactions and experiences with us. In addition, unless you tell us not to, we may share other information about you with our affiliates that we call "eligibility information." We use eligibility information to determine your eligibility for our products and services. Eligibility information may include, for example: 
+We are permitted by federal law to share certain types of information about you with our affiliates, including identification information and information about your transactions and experiences with us. In addition, unless you tell us not to, we may share other information about you with our affiliates that we call “eligibility information.” We use eligibility information to determine your eligibility for our products and services. Eligibility information may include, for example: 
 
   * Information we obtain from your applications, personal financial statements or other forms, such as your income, employment and marital status;
 
@@ -75,7 +74,7 @@ If you prefer that we refrain from sharing eligibility information about you wit
 
 Note: We are required by law to send a summary of our consumer privacy policies and practices to you each year for as long as you remain our customer. If you tell us not to share eligibility information about you with our affiliates, we will honor your instructions until we receive instructions from you to the contrary. You do not need to notify us each time you receive a copy of our privacy notice.
 
-With Companies that Work with Us to Serve You Better. We may use outside companies to assist us in processing your transactions, maintaining and servicing your accounts and insurance products and in the day-to-day conduct of our business. For example, other companies perform specialized support services for us when they imprint checks, provide data processing support, process payments or assist us in our marketing efforts. In addition, we may enter into joint marketing agreements with other financial institutions to offer you a wider variety of financial products and services. We may disclose any of the information we collect to companies that perform services (including marketing services) for us and to other financial institutions with which we have joint marketing agreements. However, when we do so, the company's right to use and redisclose the information we provide is limited by law or contract. 
+With Companies that Work with Us to Serve You Better. We may use outside companies to assist us in processing your transactions, maintaining and servicing your accounts and insurance products and in the day-to-day conduct of our business. For example, other companies perform specialized support services for us when they imprint checks, provide data processing support, process payments or assist us in our marketing efforts. In addition, we may enter into joint marketing agreements with other financial institutions to offer you a wider variety of financial products and services. We may disclose any of the information we collect to companies that perform services (including marketing services) for us and to other financial institutions with which we have joint marketing agreements. However, when we do so, the company’s right to use and redisclose the information we provide is limited by law or contract. 
 
 In Other Situations. We do not otherwise disclose information about you without your consent except as required or permitted by law. For example, we are permitted or required to disclose information about you to process your transactions and maintain and service your accounts with us and the insurance products you purchase from or through us, to report our experiences with you to credit bureaus in accordance with well-established banking practices and the federal Fair Credit Reporting Act, to protect against fraud or loss, or to respond to a subpoena or court order. 
 
@@ -89,7 +88,7 @@ If you believe we have incorrectly reported information about you or your accoun
 
 Other Privacy Protections. You may have additional privacy rights under the laws of some states, and we may be required to send you additional notices or disclosures. We will comply with all applicable state and federal laws that protect the privacy of information about you. 
 
-Questions. If you have any questions regarding our privacy policies and practices, please call us toll free at 877-654-2320 or write to us at: Compliance Department-RWN21, P.O. Box 27131, Raleigh, NC 27611-7131. If you prefer, you may send us an e-mail through our websites. Please indicate "Privacy" as the subject of your communication. Thank you for doing business with us. 
+Questions. If you have any questions regarding our privacy policies and practices, please call us toll free at 877-654-2320 or write to us at: Compliance Department-RWN21, P.O. Box 27131, Raleigh, NC 27611-7131. If you prefer, you may send us an e-mail through our websites. Please indicate “Privacy” as the subject of your communication. Thank you for doing business with us. 
 
 Because we want to be sure all of our consumer customers receive this notice, we provide it in a variety of forms and with many of our account statements. As a result, you may receive multiple notices from us.
 
