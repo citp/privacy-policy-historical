@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesnetwork.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212220428id_/http%3A//yesnetwork.com/utility/index.cfm%3Fcont_id%3D98747%26page_type%3Dwide) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesnetwork.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621092232id_/http%3A//www.yesnetwork.com/utility/index.cfm%3Fcont_id%3D98747%26page_type%3Dwide) for the most accurate reproduction.*
 
 # YESNetwork.com -
 
