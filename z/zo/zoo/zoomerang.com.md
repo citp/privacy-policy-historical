@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606135522id_/http%3A//zoomerang.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2003-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031010171841id_/http%3A//www.zoomerang.com/privacy/privacy.htm) for the most accurate reproduction.*
 
-# Zoomerang | Privacy / Security
+# Zoomerang | Product Information
 
   
+Zoomerang is a survey clearinghouse. We do not censor the questions or messages in the surveys or the invitations to take surveys that third parties may propound, nor do we censor the responses you may provide. The sender of a survey is solely responsible for the subject matter and contents of the survey invitation and survey in which you participate, and you are solely responsible for the contents of your response.
 
+According to Zoomerang's Terms of Agreement, survey senders promise that they have an ongoing business or personal relationship or they've obtained consent to send emails to survey recipients. Questions? Please click the support link at the top left hand side of the page. 
 
 Zoomerang is committed to its policy of protecting the privacy and confidential information of Members, who register to build and deploy surveys and who from time to time might purchase services offered by Zoomerang, and Panelists, who register to respond to and answer surveys. 
 
@@ -33,7 +35,7 @@ Zoomerang stores personal information of Members and Panelists in secure databas
 
 _Can I Delete Personally Identifiable Information on the site?_
 
-You can notify us at any time to remove your registration information from our database by emailing us at [customerservice@zoomerang.com](mailto:customerservice@zoomerang.com). If you do that, we will not keep any personally identifiable records concerning you unless required to do so by law. However, if you make this request you will be unable to access or use the account you previously created and its associated content without going through the registration process again. In addition, Zoomerang cannot retrieve any personally identifiable information Panelists may have disclosed to Members in responding to surveys. 
+You can notify us at any time to remove your registration information from our database by clicking on the support link at the top left hand side of the page and requesting us to remove your registration. If you do that, we will not keep any personally identifiable records concerning you unless required to do so by law. However, if you make this request you will be unable to access or use the account you previously created and its associated content without going through the registration process again. In addition, Zoomerang cannot retrieve any personally identifiable information Panelists may have disclosed to Members in responding to surveys. 
 
 _What Does Zoomerang Do With Survey Responses?_
 
@@ -45,9 +47,6 @@ No. When you enter email information for your survey recipients or establish ema
 
 _Changes to this Privacy Policy_
 
-If Zoomerang wishes to change this policy, it will publish changes on this Web site before those changes will take effect. Zoomerang will also notify users of changes to this policy via electronic mail. As always, if you do not agree with Zoomerang's privacy policy, you have the option of requesting that we delete your personally identifiable information from the site. For more information policies, see our terms of agreement. 
+If Zoomerang wishes to change this policy, it will publish changes on this Web site before those changes will take effect. Zoomerang will also notify users of changes to this policy via electronic mail. As always, if you do not agree with Zoomerang's privacy policy, you have the option of requesting that we delete your personally identifiable information from the site. For more information policies, see our Terms of Agreement. 
 
-|  | [](https://web.archive.org/web/20020606135522id_/http%3A//zoomerang.com/join/member-subscriber.zgi)  
-[](https://web.archive.org/web/20020606135522id_/http%3A//zoomerang.com/about/index.html)  
-[](https://web.archive.org/web/20020606135522id_/http%3A//zoomerang.com/privacy/index.html)  
-[](https://web.archive.org/web/20020606135522id_/http%3A//zoomerang.com/support/index.zgi)
+|  |  
