@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2000-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000605235334id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205015000id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
 
 # SuperKids Privacy Policy.
 
@@ -12,7 +12,7 @@
   [math worksheets](https://web.archive.org/aweb/tools/math/)   
   [vocabulary builders](https://web.archive.org/aweb/tools/words/)   
   [hangman](https://web.archive.org/aweb/tools/words/hangman/)   
-  [checkers, etc.](https://web.archive.org/aweb/tools/logic/) [**feature articles**](https://web.archive.org/aweb/pages/features/feature1.html) [](https://web.archive.org/aweb/ads/affinia/track.cgi?goto~http://ppn.affinia.com/go/1189610/927350) [**marketplace**](https://web.archive.org/store/amazon/books/)  
+  [checkers, etc.](https://web.archive.org/aweb/tools/logic/) [**feature articles**](https://web.archive.org/aweb/pages/features/feature1.html) [**marketplace**](https://web.archive.org/store/amazon/books/)  
   [reading corner](https://web.archive.org/store/amazon/books/)  
   [movie corner](https://web.archive.org/store/amazon/video/) [**SuperKids**](https://web.archive.org/)  
   [about SuperKids](https://web.archive.org/aweb/pages/aboutsks.html)  
@@ -31,7 +31,10 @@ A cookie is a small message that may be written to your hard drive by some Web s
 
 SuperKids does not use any cookies to track or identify visitors to our site. Cookies appear in only two places on SuperKids: 
 
-  * Some advertisers on SuperKids use cookies to limit the number of times they show a particular ad banner to each computer. These cookies are associated with the ad banners only, and are never transmitted back to SuperKids. SuperKids works with a third party, Flycast, that serves some of these ads. To find out how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html> . 
+  * Advertisers. This site, SuperKids, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+
+Some advertisers on SuperKids use cookies to limit the number of times they show a particular ad banner to each computer. These cookies are associated with the ad banners only, and are never transmitted back to SuperKids. 
+
   * Several of the Logic Games on SuperKids' site use cookies to keep track of where a user is in a game. For example, in the [Hangman Game for The United States](https://web.archive.org/aweb/tools/words/hangman/states.sht), the page uses cookies to keep track of which states have been played, to avoid premature repetition. No user information is transmitted back to SuperKids. 
 
 
