@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202031959id_/http%3A//smarthinking.com/static/pub_common/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605230420id_/http%3A//www.smarthinking.com/static/pub_common/privacy.cfm) for the most accurate reproduction.*
 
 # 
 
