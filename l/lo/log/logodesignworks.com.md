@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logodesignworks.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609234844id_/http%3A//logodesignworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignworks.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206202541id_/http%3A//www.logodesignworks.com/privacy.htm) for the most accurate reproduction.*
 
-# Logo Design Works :: Privacy Policy
+# Site Privacy Information
 
 **Privacy Policy**
 
@@ -22,4 +22,6 @@ We publish a newsletter (ezine) and would NEVER sell or share my subscriber's em
 
 In case of any changes to our privacy policy, We will post those changes to this privacy statement.
 
-We are committed to resolving disputes within 24-48 hours. If any problems arise, users may contact us by email or chat found in the [contact](https://web.archive.org/web/20040609234844id_/http%3A//logodesignworks.com/contact.htm) page.
+We are committed to resolving disputes within 24-48 hours. If any problems arise, users may contact us by email or chat found in the [contact](https://web.archive.org/web/20041206202541id_/http%3A//OLD_LDW/contact.htm) page.
+
+[See S..Pam Alerts](https://web.archive.org/web/20041206202541id_/http%3A//www.logodesignworks.com/alerts.htm)
