@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oldfriends.co.nz privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607214536id_/http%3A//www.oldfriends.co.nz/oldfriends/helpdocs/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldfriends.co.nz privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013023956id_/http%3A//www.oldfriends.co.nz/oldfriends/helpdocs/privacy_policy.asp) for the most accurate reproduction.*
 
-# Old Friends - Catch up with old schoolmates, workmates and more!
+# OldFriends.co.nz - Find your old friends! - School Reunions - New Zealand
 
 OldFriends has created this privacy statement in order to demonstrate our firm commitment to privacy. This document discloses our information gathering and usage practices. For additional information about OldFriends, please review our [Terms and Conditions](https://web.archive.org/oldfriends/helpdocs/terms_and_conditions.asp). 
 
@@ -12,7 +12,7 @@ We release account and other personal information only when we believe release i
 **Email**  
 It is the policy of OldFriends to send our members email from time to time. It is also our policy to immediately remove any member from our mailing list upon the member's request. In addition, OldFriends may send a monthly newsletter to members. Newsletters will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list. 
 
-We do use email as a means of receiving feedback from our members, and we encourage you to [email us](https://web.archive.org/web/20020607214536id_/http%3A//www.oldfriends.co.nz/oldfriends/helpdocs/contact_us.asp) with your questions or comments. 
+We do use email as a means of receiving feedback from our members, and we encourage you to [email us](https://web.archive.org/web/20021013023956id_/http%3A//www.oldfriends.co.nz/oldfriends/helpdocs/contact_us.asp) with your questions or comments. 
 
 **Emailing Tools**  
 OldFriends provides facilities throughout the site to refer a friend to OldFriends. We do not permanently store, sell, or rent these email messages or the email addresses. 
