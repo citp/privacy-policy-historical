@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zdnet.com.au privacy policy that was archived on 2001-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011218000149id_/http%3A//www.zdnet.com.au/services/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zdnet.com.au privacy policy that was archived on 2002-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020609141436id_/http%3A//www.zdnet.com.au/services/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>ZDNet Australia: Services</title>
@@ -9,377 +9,33 @@
 <script language="javascript" src="http://www.careerone.com.au/js/setLocation.js"></script> 
 </head>
 <body bgcolor="#ffffff" link="#000099" vlink="#000099" alink="#0066cc" marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
-<script src="http://www.cnet.com/nonpage/surveys/SrcSiteSurvey/290.js"></script>
+
 <table width="610" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr><td valign="top" align="left">
 
 <!-- TOP NAV & HEADER -->
-<script language="JavaScript">
-<!--
-
-is = new BrowserCheck()	// create the browser object
-var timerID  		// timer for menus vanish delay
-var placeDiv = new Array(6)
-var contentDiv = new Array(6)
-
-// global vars for X,Y coords
-var arrX = new Array(6)
-var arrY = new Array(6)
-
-function reveal(contentDiv, intShow){
-
-	// shows one menu element and hides the others 	
-	if (document.getElementById) {
-		placeDiv[0] = document.getElementById('placeMenu1Div')
-		placeDiv[1] = document.getElementById('placeMenu2Div')
-		placeDiv[2] = document.getElementById('placeMenu3Div')
-		placeDiv[3] = document.getElementById('placeMenu4Div')
-		placeDiv[4] = document.getElementById('placeMenu5Div')
-		placeDiv[5] = document.getElementById('placeMenu6Div')
-		placeDiv[6] = document.getElementById('placeMenu7Div')
-		placeDiv[7] = document.getElementById('placeMenu8Div')
-                placeDiv[8] = document.getElementById('placeMenu9Div')
-                
-          
-		//initializing menu content DIVs.
-		contentDiv[0] = document.getElementById('menu1Div')
-		contentDiv[1] = document.getElementById('menu2Div')
-		contentDiv[2] = document.getElementById('menu3Div')
-		contentDiv[3] = document.getElementById('menu4Div')
-		contentDiv[4] = document.getElementById('menu5Div')
-		contentDiv[5] = document.getElementById('menu6Div')
-		contentDiv[6] = document.getElementById('menu7Div')
-		contentDiv[7] = document.getElementById('menu8Div')
-                contentDiv[8] = document.getElementById('menu9Div')
-                
-	
-		// get X,Y (IE method. NS6 adopted. not W3C)
-		for (i=0; i < placeDiv.length; i++){
-			arrX[i] = placeDiv[i].offsetLeft;	
-			arrY[i] = placeDiv[i].offsetTop;
-		}
-		
-		// tweak X,Y coords	
-		for (i=0; i < arrX.length; i++){
-			tweakCoords(i);
-		}
-					
-		// move content divs to place holder divs
-		for (i=0; i < arrX.length; i++){
-			contentDiv[i].style.left = arrX[i];
-			contentDiv[i].style.top = arrY[i];
-		}
-		
-		// do the magic act
-		for (i=0; i < contentDiv.length; i++){
-			if (intShow == i){
-				contentDiv[i].style.visibility = "visible";
-			} else {
-				contentDiv[i].style.visibility = "hidden";
-			}
-		}
-	}
-	
-}
-
-function HideMenu(menu){
-	if (menu) {
-		menu.style.visibility = "hidden";
-	}
-}
-
-function setTimer(menu) {
-	if (menu){
-		navActive = menu;
-		timerID = setTimeout('HideMenu(navActive)', 100);
-	}
-}
-
-function stopTimer() {
-    window.clearTimeout(timerID);
-}
-
-function tweakCoords(i){
-
-	// Y = UP/DOWN
-	// X = LEFT/RIGHT
-	// fixing lame browser rendered differences.
-	if (is.ie5 || is.ie55){
-		arrY[i] = arrY[i]+15
-	}
-	
-	if (is.ns5){
-		arrY[i] = arrY[i]+5
-		//arrX[i] = arrX[i]+10
-	}
-	
-	// hack for last menus (cuz they cant be on top of the enriched advertorial!)
-	if (i == contentDiv.length-1){
-		arrX[i] = arrX[i]-220
-	}
-	if (i == contentDiv.length-2){
-		arrX[i] = arrX[i]-122
-	}
-}
-
-function BrowserCheck() {
-	var b = navigator.appName
-	if (b=="Netscape") this.b = "ns"
-	else if (b=="Microsoft Internet Explorer") this.b = "ie"
-	else this.b = b
-	this.version = navigator.appVersion
-	this.v = parseInt(this.version)
-	this.ns = (this.b=="ns" && this.v>=4)
-	this.ns4 = (this.b=="ns" && this.v==4)
-	this.ns5 = (this.b=="ns" && this.v==5)
-	this.ie = (this.b=="ie" && this.v>=4)
-	this.ie4 = (this.version.indexOf('MSIE 4')>0)
-	this.ie5 = (this.version.indexOf('MSIE 5.0')>0)
-	this.ie55 = (this.version.indexOf('MSIE 5.5')>0)
-	this.min = (this.ns||this.ie)
-}
-	
-//-->
-</script>
-
-
-<style type="text/css">
-<!--
-
-A.popnav { COLOR: #000099; FONT-SIZE: 11px; face: "arial,helvetica" }
-A.popnav:hover { COLOR: #ff0000 }
-A.popnav:active { COLOR: #000099 }
-
-.headlinesDiv	{ background-color:#BEE5FB; border-width:0px; padding:5px; }
-.adDiv		{ background-color:#FFFFFF; border-color:black;	border-style:solid; border-top-width:1px; border-bottom-width:0px; border-left-width:0px; 
-
-border-right-width:0px; padding: 5px;	}
-.popMenu	{ position:absolute; visibility:hidden; z-index: 10; width:300; background-color:#0099ff; border-color:black; border-style:solid; 
-
-border-width:1px; }
-
-#placeMenu1Div { position:absolute;}
-#placeMenu2Div {position:absolute;}
-#placeMenu3Div {position:absolute;}
-#placeMenu4Div {position:absolute;}
-#placeMenu5Div {position:absolute;}
-#placeMenu6Div {position:absolute;}
-#placeMenu7Div {position:absolute;}
-#placeMenu8Div {position:absolute;}
-#placeMenu9Div {position:absolute;}
-#placeMenu10Div {position:absolute;}
--->
-</style>
-<!-- ZDnet menu -->
-
-
-
-<div id="menu1Div" class="popMenu" onmouseover="stopTimer()" onmouseout="setTimer(contentDiv[0])">
-  <div class="headlinesDiv"><a href="http://www.zdnet.com.au/"><font face="arial,helvetica" size="2" color="#000099">
-<b>ZDNet</b></font></a><br>
-<font size="2" face="arial,helvetica" color="#000000">
-<a class="popnav" href="/newstech/">News &amp; Technology</a>,
-<a class="popnav" href="/reviews/">Reviews</a>,
-<a class="popnav" href="/developer/">Developer</a>,
-<a class="popnav" href="/downloads/">Downloads</a>,
-<a class="popnav" href="/jobs/">Jobs</a>,
-<a class="popnav" href="/gamespot/">Gamespot</a>,
-</font>
-<img src="/graphics/clear.gif" width="1" height="5"><br>
-  </div>
-  <div class="adDiv" align="center"><a href="http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20">
-  <img src="http://ad.au.doubleclick.net/ad/N733.ZDNet.com/B47699;sz=275x20" border="0" height="20" width="275"></a></div>
-</div>
-
-<!-- news tech menu -->
-<div id="menu2Div" class="popMenu" onmouseover="stopTimer()" onmouseout="setTimer(contentDiv[1])">
-<div class="headlinesDiv"><a href="/newstech/"><font face="arial,helvetica" size="2" color="#000099">
-<b>News &amp; Technology</b></font></a><br>
-<font size="2" face="arial,helvetica" color="#000000">
-<a class="popnav" href="/newstech/">Page One</a>, 
-<a class="popnav" href="/newstech/ebusiness/">Ebusiness</a>, 
-<a class="popnav" href="/newstech/security/">Security</a>, 
-<a class="popnav" href="/newstech/hr/">HR</a>,
-<a class="popnav" href="/newstech/communications/">Communications</a>,
-<a class="popnav" href="/newstech/os/">OS</a>,
-<a class="popnav" href="/newstech/enterprise/">Enterprise</a>,
-<a class="popnav" href="/newstech/special/">Special Reports</a>,
-<a class="popnav" href="/supercentre/broadband/">Broadband</a>,
-<a class="popnav" href="/newstech/archive/">Archives</a>
-</font>
-<img src="/graphics/clear.gif" width="1" height="5"><br>
-</div>
-<div class="adDiv" align="center"><a href="http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20">
-<img src="http://ad.au.doubleclick.net/ad/N733.ZDNet.com/B47699;sz=275x20" border="0" height="20" width="275"></a>
-</div>
-</div>
-
-<!-- shopping menu -->
-<div id="menu3Div" class="popMenu" onmouseover="stopTimer()" onmouseout="setTimer(contentDiv[2])">
-  <div class="headlinesDiv"><a href="http://chkpt.zdnet.com/chkpt/aushop1/http://www.zdnet.com.au/shopping"><font face="arial,helvetica" size="2" color="#000099">
-<b>Shopping</b></font></a><br>
-<font size="2" face="arial,helvetica" color="#000000">
-<a class="popnav" href="http://chkpt.zdnet.com/chkpt/aushop1/http://www.zdnet.com.au/shopping/subcat/cat/Computer_Components">Computer Components</a>,
-<a class="popnav" href="http://chkpt.zdnet.com/chkpt/aushop1/http://www.zdnet.com.au/shopping/subcat/cat/Mobile_Phones">Mobile Phones</a>, 
-<a class="popnav" href="http://chkpt.zdnet.com/chkpt/aushop1/http://www.zdnet.com.au/shopping/subcat/cat/Notebook_PCs">Notebooks</a>, 
-<a class="popnav" href="http://chkpt.zdnet.com/chkpt/aushop1/http://www.zdnet.com.au/shopping/subcat/cat/Handhelds">Handhelds</a>, 
-<a class="popnav" href="http://chkpt.zdnet.com/chkpt/aushop1/http://www.zdnet.com.au/shopping/subcat/cat/Desktop_PCs__AND__Servers">Desktops</a></font>
-    <img src="/graphics/clear.gif" width="1" height="5"><br>
-  </div>
-  <div class="adDiv" align="center"><a href="http://chkpt.zdnet.com/chkpt/audelldd/http://www.zdnet.com.au/shopping/promos/dell"><img src="/special/ads/dropads/graphics/dell01.gif" border="0" height="20" width="275"></a></div>
-</div>
-
-<!-- reviews menu -->
-<div id="menu4Div" class="popMenu" onmouseover="stopTimer()" onmouseout="setTimer(contentDiv[3])">
-  <div class="headlinesDiv"><a href="/products/"><font face="arial,helvetica" size="2" color="#000099">
-<b>Reviews</b></font></a><br>
-<font size="2" face="arial,helvetica" color="#000000">
-<a class="popnav" href="/reviews/coolgear/pda/">PDA</a>,
-<a class="popnav" href="/reviews/coolgear/">Cool Gear</a>, 
-<a class="popnav" href="/reviews/software/">Software</a>, 
-<a class="popnav" href="/reviews/computers/">Computer Systems</a>, 
-<a class="popnav" href="/reviews/computers/desktops">Desktops</a>, 
-<a class="popnav" href="/reviews/computers/notebooks">Notebooks</a>, 
-<a class="popnav" href="/reviews/supercentre/mobilephone/">Mobile Phones</a></font>
-    <img src="/graphics/clear.gif" width="1" height="5"><br>
-  </div>
-  <div class="adDiv" align="center"><a href="http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20">
-  <img src="http://ad.au.doubleclick.net/ad/N733.ZDNet.com/B47699;sz=275x20" border="0" height="20" width="275"></a></div>
-</div>
-
-<!-- jobs menu -->
-<div id="menu5Div" class="popMenu" onmouseover="stopTimer()" onmouseout="setTimer(contentDiv[4])" style="z-index: 10"> 
-  <div class="headlinesDiv"><a href="/jobs/"><font face="arial,helvetica" size="2" color="#000099">
-<b>Tech Jobs</b></font></a><br>
-<font size="2" face="arial,helvetica" color="#000000">
-<a class="popnav" href="/jobs/search.htm">Search</a>, 
-<a class="popnav" href="/jobs/resources/">Resources</a>, 
-<a class="popnav" href="/jobs/features/">Features</a></font>
-    <img src="/graphics/clear.gif" width="1" height="5"><br>
-  </div>
-  <div class="adDiv" align="center"><a href="http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20"><img src="http://ad.au.doubleclick.net/ad/N733.ZDNet.com/B47699;sz=275x20" border="0" height="20" width="275"></a></div>
-</div>
-
-<!-- Mobile Phones menu -->
-<div id="menu6Div" class="popMenu" onmouseover="stopTimer()" onmouseout="setTimer(contentDiv[5])">
-  <div class="headlinesDiv"><a href="http://chkpt.zdnet.com/chkpt/aumobile1/http://www.zdnet.com.au/reviews/supercentre/mobilephone"><font face="arial,helvetica" size="2" color="#000099">
-<b>Mobile Phones</b></font></a><br>
-<font size="2" face="arial,helvetica" color="#000000">
-<a class="popnav" href="http://www.zdnet.com.au/reviews/supercentre/mobilephone/manf/ericsson.htm">Ericsson</a>, 
-<a class="popnav" href="http://www.zdnet.com.au/reviews/supercentre/mobilephone/manf/mitsubishi.htm">Mitsubishi</a>, 
-<a class="popnav" href="http://www.zdnet.com.au/reviews/supercentre/mobilephone/manf/motorola.htm">Motorola</a>,
-<a class="popnav" href="http://www.zdnet.com.au/reviews/supercentre/mobilephone/manf/siemens.htm">Siemens</a>,
-<a class="popnav" href="http://www.zdnet.com.au/reviews/supercentre/mobilephone/manf/nokia.htm">Nokia</a>,
-<a class="popnav" href="http://www.zdnet.com.au/reviews/supercentre/mobilephone/manf/philips.htm">Philips</a><br></font>
-  <img src="/graphics/clear.gif" width="1" height="5"><br>
-  </div>
-  <div class="adDiv" align="center"><a href="http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20">
-  <img src="http://ad.au.doubleclick.net/ad/N733.ZDNet.com/B47699;sz=275x20" border="0" height="20" width="275"></a></div>
-</div>
-
-<!-- Developer menu -->
-<div id="menu7Div" class="popMenu" onmouseover="stopTimer()" onmouseout="setTimer(contentDiv[6])">
-  <div class="headlinesDiv"><a href="/developer/"><font face="arial,helvetica" size="2" color="#000099">
-<b>Developer</b></font></a><br>
-<font size="2" face="arial,helvetica" color="#000000">
-<a class="popnav" href="/developer/html/">HTML</a>, 
-<a class="popnav" href="/developer/multimedia/">Multimedia</a>, 
-<a class="popnav" href="/developer/javascript/">Javascript</a>,
-<a class="popnav" href="/developer/xml/">XML</a>,
-<a class="popnav" href="/developer/taglibrary/">Tag Library</a>,
-<a class="popnav" href="/webhead/">Web Head</a><br></font>
-<img src="/graphics/clear.gif" width="1" height="5"><br>
-  </div>
-  <div class="adDiv" align="center"><a href="http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20">
-  <img src="http://ad.au.doubleclick.net/ad/N733.ZDNet.com/B47699;sz=275x20" border="0" height="20" width="275"></a></div>
-</div>
-
-<!-- Downloads menu -->
-<div id="menu8Div" class="popMenu" onmouseover="stopTimer()" onmouseout="setTimer(contentDiv[9])">
-  <div class="headlinesDiv"><a href="/downloads/"><font face="arial,helvetica" size="2" color="#000099">
-  <b>Downloads</b></font></a><br>
-<font size="2" face="arial,helvetica" color="#000000">
-<a class="popnav" href="/downloads/pc.htm">PC</a>, 
-<a class="popnav" href="/downloads/mac.htm">Mac</a>, 
-<a class="popnav" href="/downloads/linux.htm">Linux</a>, 
-<a class="popnav" href="/downloads/pda.htm">Handhelds</a>,
-<a class="popnav" href="/downloads/subcat/?CAT=PC_SC_Games">Games</a>,
-<a class="popnav" href="/downloads/subcat/?CAT=PC_SC_Multimedia_AND_Design">Graphics &amp; Multimedia</a>,
-<a class="popnav" href="/downloads/subcat/?CAT=PC_SC_Business_AND_Finance">Business</a><br></font>
-    <img src="/graphics/clear.gif" width="1" height="5"><br>
-  </div>
-  <div class="adDiv" align="center"><a href="http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20">
-  <img src="http://ad.au.doubleclick.net/ad/N733.ZDNet.com/B47699;sz=275x20" border="0" height="20" width="275"></a></div>
-</div>
-
-<!-- gamespot menu -->
-<div id="menu9Div" class="popMenu" onmouseover="stopTimer()" onmouseout="setTimer(contentDiv[8])">
-  <div class="headlinesDiv"><a href="/downloads/"><font face="arial,helvetica" size="2" color="#000099">
-  <b>Gamespot</b></font></a><br>
-<font size="2" face="arial,helvetica" color="#000000">
-<a class="popnav" href="/gamespot/news/">News</a>, 
-<a class="popnav" href="/gamespot/reviews/">Reviews</a>, 
-<a class="popnav" href="/gamespot/previews/">Previews</a>, 
-<a class="popnav" href="/gamespot/hints/">Hints &amp; Tips</a>, 
-<a class="popnav" href="/gamespot/services/release/">Release Dates</a><br></font>
-    <img src="/graphics/clear.gif" width="1" height="5"><br>
-  </div>
-  <div class="adDiv" align="center"><a href="http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20">
-  <img src="http://ad.au.doubleclick.net/ad/N733.ZDNet.com/B47699;sz=275x20" border="0" height="20" width="275"></a></div>
-</div>
-
-<!-- begin topnav -->
-<!-- TOP NAV -->
 <table width="610" border="0" cellpadding="2" cellspacing="0" bgcolor="#333333">
-<tbody><tr><td align="center" valign="middle">
-
-<!-- zdnet -->
-<span id="placeMenu1Div" style="top: 7px; visibility: hidden"></span> 
-<a href="http://www.zdnet.com.au/" class="topbar" onmouseover="reveal(contentDiv, 0)" onmouseout="setTimer(contentDiv[0])"> 
-<b>ZDNet</b></a><span class="tsep">&nbsp;|&nbsp;</span> 
-
-<!-- News -->
-<span id="placeMenu2Div" style="top: 7px; visibility: hidden"></span> 
-<a href="http://www.zdnet.com.au/newstech/" class="topbar" onmouseover="reveal(contentDiv, 1)" onmouseout="setTimer(contentDiv[1])"> 
-<b>News &amp; Technology</b></a><span class="tsep">&nbsp;|&nbsp;</span> 
-
-<!-- shopping -->
-<span id="placeMenu3Div" style="top: 7px; visibility: hidden"></span> 
-<a href="http://chkpt.zdnet.com/chkpt/aushop1/http://www.zdnet.com.au/shopping" class="topbar" onmouseover="reveal(contentDiv, 2)" onmouseout="setTimer(contentDiv[2])"> 
-<b>Shopping</b></a><span class="tsep">&nbsp;|&nbsp;</span> 
-
-<!-- reviews -->
-<span id="placeMenu4Div" style="top: 7px; visibility: hidden"></span> 
-<a href="http://www.zdnet.com.au/reviews/" class="topbar" onmouseover="reveal(contentDiv, 3)" onmouseout="setTimer(contentDiv[3])"> 
-<b>Reviews</b></a><span class="tsep">&nbsp;|&nbsp;</span> 
-
-<!-- jobs -->
-<span id="placeMenu5Div" style="top: 7px; visibility: hidden"></span> 
-<a href="http://www.zdnet.com.au/jobs/" class="topbar" onmouseover="reveal(contentDiv, 4)" onmouseout="setTimer(contentDiv[4])"> 
-<b>Jobs</b></a><span class="tsep">&nbsp;|&nbsp;</span> 
-
-<!-- mobilephone -->
-<span id="placeMenu6Div" style="top: 7px; visibility: hidden"></span> 
-<a href="http://chkpt.zdnet.com/chkpt/aumobile1/http://www.zdnet.com.au/reviews/supercentre/mobilephone" class="topbar" onmouseover="reveal(contentDiv, 5)" onmouseout="setTimer(contentDiv[5])"> 
-<b>Mobile Phones</b></a><span class="tsep">&nbsp;|&nbsp;</span> 
-
-<!-- developer -->
-<span id="placeMenu7Div" style="top: 7px; visibility: hidden"></span> 
-<a href="http://www.zdnet.com.au/developer/" class="topbar" onmouseover="reveal(contentDiv, 6)" onmouseout="setTimer(contentDiv[6])"> 
-<b>Developer</b></a><span class="tsep">&nbsp;|&nbsp;</span> 
-
-<!-- downloads -->
-<span id="placeMenu8Div" style="top: 7px; visibility: hidden"></span> 
-<a href="http://www.zdnet.com.au/downloads/" class="topbar" onmouseover="reveal(contentDiv, 7)" onmouseout="setTimer(contentDiv[7])"> 
-<b>Downloads</b></a><span class="tsep">&nbsp;|&nbsp;</span> 
-
-<!-- gamespot -->
-<span id="placeMenu9Div" style="top: 7px; visibility: hidden"></span> 
-<a href="http://www.zdnet.com.au/gamespot/" class="topbar" onmouseover="reveal(contentDiv, 8)" onmouseout="setTimer(contentDiv[8])"> 
-<b>GameSpot</b></a>
+<tbody><tr><td align="center">
+<a href="http://www.zdnet.com.au/" class="topbar">
+<b>ZDNet</b></a><span class="tsep">&nbsp;|&nbsp;</span>
+<a href="http://www.zdnet.com.au/newstech/" class="topbar">
+<b>News &amp; Technology</b></a><span class="tsep">&nbsp;|&nbsp;</span>
+<a href="http://www.zdnet.com.au/itmanager/" class="topbar">
+<b>IT Manager</b></a><span class="tsep">&nbsp;|&nbsp;</span>
+<a href="http://www.zdnet.com.au/shopping/" class="topbar">
+<b>Shopping</b></a><span class="tsep">&nbsp;|&nbsp;</span>
+<a href="http://www.zdnet.com.au/reviews/" class="topbar">
+<b>Reviews</b></a><span class="tsep">&nbsp;|&nbsp;</span>
+<a href="http://www.zdnet.com.au/jobs/" class="topbar">
+<b>Jobs</b></a><span class="tsep">&nbsp;|&nbsp;</span>
+<a href="http://www.zdnet.com.au/builder/" class="topbar">
+<b>Builder</b></a><span class="tsep">&nbsp;|&nbsp;</span>
+<a href="http://www.zdnet.com.au/downloads/" class="topbar">
+<b>Downloads</b></a><span class="tsep">&nbsp;|&nbsp;</span>
+<a href="http://www.gamespot.com.au/" class="topbar">
+<b>Gamespot</b></a>
 </td></tr>
 </tbody></table>
-
 <!-- Masthead -->
 <table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#003399">
 <tbody><tr><td align="LEFT" valign="BOTTOM">
@@ -389,9 +45,9 @@ border-width:1px; }
 <tbody><tr><td align="left">
 <span class="spacer4">&nbsp;</span><br>
 <font color="#FFFFFF" size="-2">
-&nbsp; • <a href="http://chkpt.zdnet.com/chkpt/aupl1/http://www.zdnet.com.au/shopping/" class="topright">Shopping</a><br>
-&nbsp; • <a href="http://chkpt.zdnet.com/chkpt/aupl2/http://www.zdnet.com.au/shopping/promos/dell" class="topright">Dell - Hot Offers</a><br>
-&nbsp; • <a href="http://chkpt.zdnet.com/chkpt/aupl3/http://www.zdnet.com.au/downloads/" class="topright">Free Downloads</a><br>
+&nbsp; • <a href="http://chkpt.zdnet.com/chkpt/aupl1/http://www.zdnet.com.au/newstech/enterprise/" class="topright">Enterprise</a><br>
+&nbsp; • <a href="http://chkpt.zdnet.com/chkpt/aupl2/http://www.zdnet.com.au/newsletters" class="topright">TechMails</a><br>
+&nbsp; • <a href="http://chkpt.zdnet.com/chkpt/aupl3/http://www.zdnet.com.au/newstech/enterprise/story/0,2000025001,20265477,00.htm" class="topright">XP Makeover</a><br>
 </font>
 </td></tr>
 </tbody></table>
@@ -418,26 +74,30 @@ border-width:1px; }
 <a href="http://chkpt.zdnet.com/chkpt/ausu1/http://www.zdnet.com.au/newsletters/"><b>Free Newsletters!</b></a></font></td>
 </tr>
 
-<tr><td colspan="2">
-<font face="arial, helvetica" color="#333333" size="2">&nbsp;•&nbsp;
-<a href="http://chkpt.zdnet.com/chkpt/ausu2/http://www.zdnet.com.au/newsletters/announce/"><b>Free Discounts!</b></a></font></td>
+<tr><td colspan="2"><font face="arial, helvetica" color="#333333" size="2">&nbsp;•&nbsp;
+<a href="http://chkpt.zdnet.com/chkpt/ausu2/https://secure.zdnet.com.au/technologyandbusiness/subs/cd60.htm"><b>Free CD!</b></a></font></td>
 </tr>
 
 <tr><td colspan="2">
 <font face="arial, helvetica" color="#333333" size="2">&nbsp;•&nbsp;
-<a href="http://chkpt.zdnet.com/chkpt/ausu3/http://my.zdnet.com.au/"><b>MyZDNet</b></a></font></td>
-</tr>
-
-
-
-<tr><td colspan="2">
-<font face="arial, helvetica" color="#333333" size="2">&nbsp;•&nbsp;
-<a href="http://chkpt.zdnet.com/chkpt/ausu5/http://www.zdnet.com.au/technologyandbusiness/subs/"><b>Subscribe-T&amp;B</b></a></font></td>
+<a href="http://chkpt.zdnet.com/chkpt/ausu3/http://www.zdnet.com.au/technologyandbusiness/subs/"><b>Subscribe-T&amp;B</b></a></font></td>
 </tr>
 
 <tr><td colspan="2">
 <font face="arial, helvetica" color="#333333" size="2">&nbsp;•&nbsp;
-<a href="http://chkpt.zdnet.com/chkpt/ausu6/http://www.2bzd.com/zdnet/au/user/default.htm"><b>Unified Messaging</b></a></font></td>
+<a href="http://chkpt.zdnet.com/chkpt/ausu4/http://www.zdnet.com.au/newsletters"><b>TechMails</b></a></font></td>
+</tr>
+
+<tr>
+<td colspan="2"><font face="arial, helvetica" color="#333333" size="2">&nbsp;•&nbsp;
+<a href="http://chkpt.zdnet.com/chkpt/ausu5/http://www.zdnet.com.au/itmanager/register"><b>Join IT Manager<br>
+</b></a></font></td>
+</tr>
+
+<tr>
+<td colspan="2"><font face="arial, helvetica" color="#333333" size="2">&nbsp;•&nbsp;
+<a href="http://chkpt.zdnet.com/chkpt/ausu6/http://www.zdnet.com.au/builder/register"><b>Join Builder<br>
+</b></a></font></td>
 </tr>
 
 <tr><td colspan="2"><br></td></tr>
@@ -448,7 +108,7 @@ border-width:1px; }
 
 <tr>
 <td colspan="2"><font face="arial, helvetica" color="#333333" size="2">&nbsp;•&nbsp;
-<a href="http://chkpt.zdnet.com/chkpt/aucomp1/http://www.zdnet.com.au/shopping/promos/dell"><b>Dell Bargains!<br>
+<a href="http://chkpt.zdnet.com/chkpt/aucomp1/http://www.zdnet.com.au/shopping/desktops/"><b>Desktops<br>
 </b></a></font></td>
 </tr>
 
@@ -466,9 +126,10 @@ border-width:1px; }
 
 <tr>
 <td colspan="2"><font face="arial, helvetica" color="#333333" size="2">&nbsp;•&nbsp;
-<a href="http://chkpt.zdnet.com/chkpt/aucomp4/http://www.zdnet.com.au/shopping/promos/dell"><b>Dell Hot Offers!<br>
+<a href="http://chkpt.zdnet.com/chkpt/aucomp4/http://www.ringtones.com.au/zdnet/index.jsp"><b>Mobile Ringtones<br>
 </b></a></font></td>
 </tr>
+
 
 <tr>
 <td colspan="2"><br></td>
@@ -479,12 +140,12 @@ border-width:1px; }
 </td></tr>
 
 <tr><td colspan="2" align="center">
-<font face="arial, helvetica" color="#333333" size="2"><b><a href="http://chkpt.zdnet.com/chkpt/auhl1/http://www.zdnet.com.au/newstech/security">Security</a> • 
-<a href="http://chkpt.zdnet.com/chkpt/auhl2/http://www.zdnet.com.au/developer/dhtml/index.htm">DHTML</a></b></font>
+<font face="arial, helvetica" color="#333333" size="2"><b><a href="http://chkpt.zdnet.com/chkpt/auhl1/http://www.zdnet.com.au/newstech/enterprise/">Enterprise</a> • 
+<a href="http://chkpt.zdnet.com/chkpt/auhl2/http://www.zdnet.com.au/microsites/philips/">WIN!</a></b></font>
 </td></tr>
 
 <tr><td colspan="2" align="center">
-<font face="arial, helvetica" color="#333333" size="2"><b><a href="http://chkpt.zdnet.com/chkpt/auhl3/http://www.zdnet.com.au/downloads/pc/1000010010.htm">Santa's Secret Valley</a></b></font>
+<font face="arial, helvetica" color="#333333" size="2"><b><a href="http://chkpt.zdnet.com/chkpt/auhl3/http://www.zdnet.com.au/builder">New - Builder!</a></b></font>
 </td></tr></tbody></table></td></tr>
 
 <tr><td>&nbsp;</td></tr>
@@ -493,14 +154,14 @@ border-width:1px; }
 <table width="148" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr align="center"><td>
 <!-- SKYSCRAPER AD -->
-<iframe src="http://ad.au.doubleclick.net/adi/tower.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=148x400;tile=1;ptile=3;ord=1384664923?" name="tower" width="148" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+<iframe src="http://ad.au.doubleclick.net/adi/tower.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=148x400;tile=1;ptile=3;ord=2027216958?" name="tower" width="148" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
 
-<SCRIPT language="JavaScript1.1" SRC="http://ad.au.doubleclick.net/adj/tower.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=148x400;tile=1;ptile=3;ord=1384664923?">
+<SCRIPT language="JavaScript1.1" SRC="http://ad.au.doubleclick.net/adj/tower.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=148x400;tile=1;ptile=3;ord=2027216958?">
 </SCRIPT>
 
 <noscript>
-<a href="http://ad.au.doubleclick.net/jump/tower.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=148x400;tile=1;ptile=3;ord=1384664923?">
-<IMG SRC="http://ad.au.doubleclick.net/ad/tower.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=148x400;tile=1;ptile=3;ord=1384664923?" border=0 width="148" height="400"></a>
+<a href="http://ad.au.doubleclick.net/jump/tower.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=148x400;tile=1;ptile=3;ord=2027216958?">
+<IMG SRC="http://ad.au.doubleclick.net/ad/tower.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=148x400;tile=1;ptile=3;ord=2027216958?" border=0 width="148" height="400"></a>
 </noscript>
 </iframe>
 <!-- /SKYSCRAPER AD -->
@@ -535,13 +196,13 @@ border-width:1px; }
 <span class="spacer4">&nbsp;</span><br>
 
 <!-- start contest ad -->
-<iframe src="http://ad.au.doubleclick.net/adi/contest.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=100x60;tile=1;ptile=1;ord=1384664923?" name="comp" width="100" height="60" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-<SCRIPT language="JavaScript1.1" SRC="http://ad.au.doubleclick.net/adj/contest.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=100x60;tile=1;ptile=1;ord=1384664923?">
+<iframe src="http://ad.au.doubleclick.net/adi/contest.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=100x60;tile=1;ptile=1;ord=2027216958?" name="comp" width="100" height="60" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+<SCRIPT language="JavaScript1.1" SRC="http://ad.au.doubleclick.net/adj/contest.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=100x60;tile=1;ptile=1;ord=2027216958?">
 </SCRIPT>
 
 <noscript>
-<a href="http://ad.au.doubleclick.net/jump/contest.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=100x60;tile=1;ptile=1;ord=1384664923?">
-<img src="http://ad.au.doubleclick.net/ad/contest.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=100x60;tile=1;ptile=1;ord=1384664923?" border=0  width="100" height="60"></a>
+<a href="http://ad.au.doubleclick.net/jump/contest.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=100x60;tile=1;ptile=1;ord=2027216958?">
+<img src="http://ad.au.doubleclick.net/ad/contest.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=100x60;tile=1;ptile=1;ord=2027216958?" border=0  width="100" height="60"></a>
 </noscript>
 </iframe>
 <!-- end contest ad -->
@@ -551,13 +212,13 @@ border-width:1px; }
 <td align="center" valign="top">
 <span class="spacer4">&nbsp;</span><br>
 <!-- start banner ad -->
-<iframe src="http://ad.au.doubleclick.net/adi/banners.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=468x60;tile=1;ptile=2;ord=1384664923?" name="banner" width="468" height="60" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-<SCRIPT language="JavaScript1.1" SRC="http://ad.au.doubleclick.net/adj/banners.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=468x60;tile=1;ptile=2;ord=1384664923?">
+<iframe src="http://ad.au.doubleclick.net/adi/banners.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=468x60;tile=1;ptile=2;ord=2027216958?" name="banner" width="468" height="60" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+<SCRIPT language="JavaScript1.1" SRC="http://ad.au.doubleclick.net/adj/banners.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=468x60;tile=1;ptile=2;ord=2027216958?">
 </SCRIPT>
 
 <noscript>
-<a href="http://ad.au.doubleclick.net/jump/banners.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=468x60;tile=1;ptile=2;ord=1384664923?">
-<IMG SRC="http://ad.au.doubleclick.net/ad/banners.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=468x60;tile=1;ptile=2;ord=1384664923?" border=0 width="468" height="60"></a>
+<a href="http://ad.au.doubleclick.net/jump/banners.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=468x60;tile=1;ptile=2;ord=2027216958?">
+<IMG SRC="http://ad.au.doubleclick.net/ad/banners.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=468x60;tile=1;ptile=2;ord=2027216958?" border=0 width="468" height="60"></a>
 </noscript>
 </iframe>
 <!-- end banner ad -->
@@ -571,12 +232,12 @@ border-width:1px; }
 <font face="verdana, arial" size="1">
 &nbsp;
 <a href="http://chkpt.zdnet.com/chkpt/auql1/http://www.zdnet.com.au/jobs/">Jobs</a> •
-<a href="http://chkpt.zdnet.com/chkpt/auql2/http://www.zdnet.com.au/technologyandbusiness/subs/">Subscribe - T&amp;B!</a> • 
-<a href="http://chkpt.zdnet.com/chkpt/auql3/http://www.zdnet.com.au/shopping/promos/dell">Dell Hot Offers!</a> • 
-<a href="http://chkpt.zdnet.com/chkpt/auql4/http://www.zdnet.com.au/downloads/mac/1000004682.htm">Xmas Fun Time</a> •
-<a href="http://chkpt.zdnet.com/chkpt/auql5/http://www.2bzd.com/zdnet/au/user/default.htm">FREE UMS</a> •
-<a href="http://chkpt.zdnet.com/chkpt/auql6/http://www.ringtones.com.au/zdnet/index.jsp">Mobile Ringtones</a> •
-<a href="http://chkpt.zdnet.com/chkpt/auql7/http://chkpt.zdnet.com/chkpt/auql7/http://www.zdnet.com.au/developer">Scripts!</a> 
+<a href="http://chkpt.zdnet.com/chkpt/auql2/https://secure.zdnet.com.au/technologyandbusiness/subs/cd60a.htm?ref=mayad">FREE CD!</a> • 
+<a href="http://chkpt.zdnet.com/chkpt/auql3/http://www.zdnet.com.au/microsites/philips/">Win with Philips!</a> • 
+<a href="http://chkpt.zdnet.com/chkpt/auql4/http://www.zdnet.com.au/newstech/enterprise/"><b>Enterprise</b></a> •
+<a href="http://chkpt.zdnet.com/chkpt/auql5/http://www.zdnet.com.au/newstech/enterprise/story/0,2000025001,20265594,00.htm"><b>Intel CIO talks tech</b></a> •
+<a href="http://chkpt.zdnet.com/chkpt/auql6/http://www.zdnet.com.au/itmanager/register/techmail.htm">TechMails</a> •
+<a href="http://chkpt.zdnet.com/chkpt/auql7/http://www.zdnet.com.au/newstech/enterprise/story/0,2000025001,20265477,00.htm">XP Makeover</a> 
 
 </font>
 </td></tr></tbody></table>
@@ -690,13 +351,13 @@ border-width:1px; }
 
 
 <!-- LEFT NAV AD -->
-<iframe src="http://ad.au.doubleclick.net/adi/buttons.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=125x125;tile=1;ord=1384664923?" name="frame1" width="125" height="125" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-<SCRIPT language="JavaScript1.1" SRC="http://ad.au.doubleclick.net/adj/buttons.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=125x125;tile=1;ord=1384664923?">
+<iframe src="http://ad.au.doubleclick.net/adi/buttons.zdnet.com.au/services/privacy;sect=services;ssect=privacy;sz=125x125;tile=1;ord=2027216958?" name="frame1" width="125" height="125" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+<SCRIPT language="JavaScript1.1" SRC="http://ad.au.doubleclick.net/adj/buttons.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=125x125;tile=1;ord=2027216958?">
 </SCRIPT>
 
 <noscript>
-<a href="http://ad.au.doubleclick.net/jump/buttons.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=125x125;tile=1;ord=1384664923?">
-<IMG SRC="http://ad.au.doubleclick.net/ad/buttons.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=125x125;tile=1;ord=1384664923?" border=0 width="125" height="125"></a>
+<a href="http://ad.au.doubleclick.net/jump/buttons.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=125x125;tile=1;ord=2027216958?">
+<IMG SRC="http://ad.au.doubleclick.net/ad/buttons.zdnet.com.au/services/privacy;abr=!ie;sect=services;ssect=privacy;sz=125x125;tile=1;ord=2027216958?" border=0 width="125" height="125"></a>
 </noscript>
 </iframe>
 <!-- /LEFT NAV AD -->
@@ -758,42 +419,40 @@ This statement sets out:<br>
 </tr>
 <!--START SPONSORED LINKS-->
 <tr>
-	<td align="right" class="spdeck">HOT OFFER!&nbsp;</td>
-	<td class="spurl">&nbsp;<a href="http://ad.au.doubleclick.net/click;3658188;0-0;0;6244863;5523-500|356;0|0|0;;%3fhttp%3a%2f%2fad.au.doubleclick.net/clk;3583165;6627094;q?http://www.dell.com.au/redirect/zdnet/offer16/"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">Dell Inspiron Notebook, mobile Intel Pentium III from $4,399!</font></a></td></tr>
-<tr>
-	<td align="right" class="spdeck">Web Hosting&nbsp;</td>
-	<td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/ausl6/http://www.au.tophosts.com/traffic/zdnet2.html"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">AU.TopHosts.com is Australia's largest web hosting resource site!</font></a></td></tr>
-
+<td align="right" width="15%" class="m1">Starting at $1&nbsp;</td>
+<td width="85%" class="m1">&nbsp;<a href="http://ad.au.doubleclick.net/clk;4267920;7271696;t?http://www.sold.com.au/bigbrandsale">Computers, Digital Cameras, Printers,  the best deals in the Big Brand Sale</a></td>
+</tr>
 
 <tr>
-	<td align="right" class="spdeck">SUN!&nbsp;</td>
-	<td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/ausl5/http://suned.sun.com/AU/javawlcoffer"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">Become Sun Certified Java proffesional for $500</font></a></td></tr>
-
-
-<tr>
-                <td align="right" class="spdeck">eBay&nbsp;</td>
-	<td class="spurl">&nbsp;<a href="http://ad.au.doubleclick.net/clk;3362057;6330167;d?http://cgi.ebay.com.au/aw-cgi/eBayISAPI.dll?RedirectEnter&amp;partner=31742&amp;loc=http://listings.ebay.com.au/lp/plistings/list/all/category161/index.html"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">Need a faster PC, bigger monitor or just more memory? Find a huge range at great prices</font></a></td></tr>
-
-
-
-            
-                 <tr><td align="right" class="spdeck">Smith Family&nbsp;</td>
-	<td class="spurl">&nbsp;<a href="http://ad.au.doubleclick.net/clk;3619145;6656489;y?http://www.smithfamily.org.au/christmas/"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">Give a Christmas gift that will last a lifetime. Donate today</font></a></td></tr>
+<td align="right" class="spdeck">Spend Less&nbsp;</td>
+<td class="spurl">&nbsp;<a href="http://ad.au.doubleclick.net/clk;4258368;7223876;w?http://www.oracle.com/global/au/start/spendless/intro.html?src=1210759&amp;Act=4">Choose the Oracle9i Database over SQL*Server and save up to $100,000</a></td>
+</tr>
 
 <tr>
-                
-
-
-
-</tr><tr>
-	<td align="right" class="spdeck">FREE UMS&nbsp;</td>
-	<td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/ausl4/http://www.zdnet.com.au/promos/2bzd"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">Combine your voicemail, email &amp; faxes into 1 Inbox with ZDNet's FREE messaging service!</font></a></td></tr>
+<td align="right" class="spdeck">Free Trial&nbsp;</td>
+<td class="spurl">&nbsp;<a href="http://ad.au.doubleclick.net/clk;4210954;7109651;f?http://www.surfcontrol.com/go/banner">Download the leading Web and Email filtering software, FREE 30 Day Trial</a></td>
+</tr>
 <tr>
-	<td align="right" class="spdeck">USABILITY&nbsp;</td>
-	<td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/ausl5/http://www.performancetechnologies.com"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">Performance Technologies - Get your site right with usability and technical testing</font></a></td></tr>
+<td align="right" class="spdeck">I.T. Liquidation&nbsp;</td>
+<td class="spurl">&nbsp;<a href="http://ad.au.doubleclick.net/clk;4267920;7232419;j?http://www.sold.com.au/bigbrandsale">Best Brand Notebooks from $1 - click here to find out more</a></td>
+</tr>
+<tr>
+<td align="right" class="spdeck">Check it Out!&nbsp;</td>
+<td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/ausl3/http://www.dvdrw.philips.com/">Philips DVDR1000 The first DVD player that also records</a></td>
+</tr>
+<tr>
+<td align="right" class="spdeck">Oracle9i&nbsp;</td>
+<td class="spurl">&nbsp;<a href="http://ad.au.doubleclick.net/clk;4248954;7213562;n?http://www.oracle.com/global/au/start/9iASInstall/intro.html?src=1210674&amp;Act=16">NEW Oracle9i Application Server J2EE Developer Edition now available FREE!</a></td>
+</tr>
+<tr>
+<td align="right" width="15%" class="m1">Buy Now&nbsp;</td>
+<td width="85%" class="m1">&nbsp;<a href="http://ad.au.doubleclick.net/clk;4293175;7249629;v?http://austore.dell.com.au/dellstore/enter.asp?c=au&amp;s=bsd&amp;l=en&amp;prog_id=67745">DELL Dimension 4500S - Configure and buy yours online now - from $1699</a></td>
+</tr>
 
-	
-
+<tr>
+<td align="right" class="spdeck">Last chance!&nbsp;</td>
+<td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/ausl4/http://www.zdnet.com.au/microsites/philips/">Enter before June 26 to win a Philips DVD Recorder!</a></td>
+</tr>
 
 <!--END SPONSORED LINKS-->
 <tr>
@@ -807,46 +466,64 @@ This statement sets out:<br>
 <tr><td colspan="2">
 <img src="/graphics/clear.gif" width="1" height="1" alt=""></td>
 </tr>
+
 <tr>
+    <td align="right" class="spdeck">NEW&nbsp;</td>
+ <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl1/http://www.zdnet.com.au/builder/"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">ZDNet Australia introduces Australia's own Builder.com - Beyond the code</font></a></td>
+
+
+</tr><tr>
+    <td align="right" class="spdeck">VIRUS ALERT&nbsp;</td>
+ <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl3/http://www.zdnet.com.au/newstech/enterprise/story/0,2000025001,20265801,00.htm"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">Platform-hopping virus poses new threat</font></a></td>
+</tr><tr>
+
+
+</tr><tr>
+ <td align="right" class="spdeck">WINNERS&nbsp;</td>
+ <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl2/http://www.zdnet.com.au/newstech/enterprise/story/0,2000025001,20265663,00.htm"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">The best 'mock' World Cup 2002 site developers</font></a></td>
+ </tr>
+<tr>
+  <td align="right" class="spdeck">NEW!!!&nbsp;</td>
+  <td align="left" class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl9/http://www.zdnet.com.au/itmanager"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">An online service purpose-built for IT Managers!!</font></a></td> 
+
+
+</tr><tr>
  <td align="right" class="spdeck">SHOP NOW!&nbsp;</td>
- <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl1/http://www.zdnet.com.au/shopping/"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">ZDNet shopping - find buying advice and reviews on the latest Computing Products!</font></a></td>
+ <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl1/http://www.zdnet.com.au/shopping/desktops/"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">ZDNet shopping - find buying advice and reviews on the latest Computing Products!</font></a></td>
  </tr>
+
+
+<tr><td align="right" class="spdeck">TECH JOBS&nbsp;</td>
+ <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl3/http://www.zdnet.com.au/jobs/index.htm"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">ZDNet Tech Jobs brings you the latest I.T. vacancies as well as expert career advice</font></a><br> 
+    </td></tr>
+
+
 <tr>
- <td align="right" class="spdeck">WINDOWS XP!&nbsp;</td>
- <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl2/http://www.zdnet.com.au/microsites/winxp/"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">Click here for the latest news and reviews on Windows XP!</font></a></td>
+ <td align="right" class="spdeck">Mobile Phones&nbsp;</td>
+ <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl2/http://www.zdnet.com.au/reviews/supercentre/mobilephone"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">The ZDNet Mobile Phone Supercentre - All the latest products! All your favourite brands! </font></a></td>
  </tr>
+
+
+
 <tr>
     <td align="right" class="spdeck">RINGTONES&nbsp;</td>
  <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl3/http://www.ringtones.com.au/zdnet/index.jsp"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">Click here to download Ringtones, Logos &amp; Picture Messages!</font></a></td>
 </tr><tr>
+
  
-
 </tr><tr>
-    <td align="right" class="spdeck">Reviews&nbsp;</td>
- <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl2/http://www.zdnet.com.au/reviews"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">ZDNet delivers more news and reviews covering the latest technology than ever before.</font></a></td>
-</tr><tr>
- <td align="right" class="spdeck">TECH JOBS&nbsp;</td>
- <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl3/http://www.zdnet.com.au/jobs/index.htm"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">ZDNet Tech Jobs brings you the latest I.T. vacancies as well as expert career advice</font></a><br> 
-    </td></tr>
-<tr>
+  <td align="right" class="spdeck">FREE CD!&nbsp;</td>
+  <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl5/https://secure.zdnet.com.au/technologyandbusiness/subs/cd60a.htm?ref=mayad"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">FREE CD worth over $150 - Click here!</font></a></td>
+    </tr>
     
-</tr><tr>
-  <td align="right" class="spdeck">FREE TRIAL!&nbsp;</td>
-  <td class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl5/http://www.zdnet.com.au/technologyandbusiness/subs/trial.htm"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">Click here for a FREE trial to Technology &amp; Business!</font></a></td>
+    
 
 
-</tr>  
-  <tr><td align="right" class="spdeck">SPECIAL!&nbsp;</td>
-  <td align="left" class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl7/http://www.zdnet.com.au/newstech/communications/story/0,2000024993,20261808,00.htm"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">Special Report - Riding the 3rd wave: 3G Mobile Technology</font></a></td>
-</tr> 
-
-  <tr><td align="right" class="spdeck">Downloads&nbsp;</td>
-  <td align="left" class="spurl">&nbsp;<a href="http://chkpt.zdnet.com/chkpt/aufl8/http://www.zdnet.com.au/downloads/"><font face="Geneva, Verdana, Arial" size="-2" color="#333399">FREE PC, MAC, LINUX &amp; HANDHELD downloads for all your computing needs!!</font></a></td>
 
 
 <!--END FEATURED LINKS-->
 
-</tr><tr>
+<tr>
 		<td colspan="2"><span class="spacer6">&nbsp;</span></td>
 	</tr>
 
@@ -874,7 +551,7 @@ This statement sets out:<br>
 
 <br>
  <a href="http://www.zdnet.com.au/reviews/supercentre/mobilephone/" class="topbar">Mobile Phones</a> |
-<a href="http://www.zdnet.com.au/developer/" class="topbar"><b>Developer</b></a> |
+<a href="http://www.zdnet.com.au/builder/" class="topbar"><b>Builder</b></a> |
 <a href="http://www.zdnet.com.au/swlib/" class="topbar"><b>Downloads</b></a> |
 <a href="http://www.gamespot.com.au/" class="topbar"><b>GameSpot</b></a><br>
 </font></td>
@@ -904,10 +581,14 @@ ZDNet Logo is service mark of CNET Networks, Inc.<br></font>
 </td>
 <td>
 <!-- serve clear gif -->
-<img src="http://gserv.zdnet.com/clear/www.zdnet.com.au.gif?1384664923" height="0" width="0">
+<img src="http://gserv.zdnet.com/clear/www.zdnet.com.au.gif?2027216958" height="0" width="0">
 <!-- end serve clear gif -->
+
+
+
 </td>
 </tr>
 </tbody></table>
+
 
 </body></html>
