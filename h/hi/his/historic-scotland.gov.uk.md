@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the historic-scotland.gov.uk privacy policy that was archived on 2002-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020526211251id_/http%3A//www.historic-scotland.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historic-scotland.gov.uk privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207033523id_/http%3A//www.historic-scotland.gov.uk/privacy) for the most accurate reproduction.*
 
 # Historic Scotland - Privacy Policy
 
   
-Any personal data collected through this website will be treated as confidential in line with the principles of the [Data Protection Act 1998](http://www.hmso.gov.uk/acts/acts1998/19980029.htm).
+Historic Scotland recognises the importance of protecting the privacy of users of this website. Any personal data collected through this website will be treated as confidential in line with the principles of the [Data Protection Act 1998](http://www.hmso.gov.uk/acts/acts1998/19980029.htm).
 
   
 Historic Scotland seeks to ensure that the information published on its web site is up to date and accurate. However, the information on the website does not constitute legal or professional advice and Historic Scotland cannot accept any liability for actions arising from its use. Historic Scotland cannot be held responsible for the contents of any pages referenced by an external link. 
