@@ -1,8 +1,13 @@
-<!--The following is the downloaded HTML source of the t-mobile.com privacy policy that was archived on 2002-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021202074048id_/http%3A//www.t-mobile.com/info/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the t-mobile.com privacy policy that was archived on 2003-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603160204id_/http%3A//www.t-mobile.com/info/legal/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>T-Mobile - Legal: Privacy Policy</title>
+<meta name="PUBLISHER" content="T-Mobile USA"> 
+<meta name="LANGUAGE" content="English">
+<meta name="COPYRIGHT" content="2003">  
+<meta name="ROBOTS" content="index, follow"> 
+
 
 <link rel="stylesheet" type="text/css" href="/masthead/css/masthead.css">
 <style type="text/css"><!-- @import url(/masthead/css/menus.css); --></style>
@@ -10,16 +15,23 @@
 <link rel="stylesheet" type="text/css" href="/css/footer.css">
 <script type="text/javascript">
 <!--
-function popUp(url, width, height) {
+function popUp(url, width, height, left, top, toolbar) {
 	var intWidth=568;
 	var intHeight=400;
+	var intLeft=30;
+	var intTop=45;
+	var intTool=0;
 	if(width > 0) intWidth = width;
 	if(height > 0) intHeight = height;
-	var winPopUp = window.open(url,'popup','width=' + intWidth + ',height=' + intHeight + ',scrollbars,resizable,left=30,top=45');
+	if(left > 0) intLeft = left;
+	if(top > 0) intTop = top;
+	if(toolbar < 2) intTool = toolbar;
+	var winPopUp = window.open(url,'popup','width=' + intWidth + ',height=' + intHeight + ',left=' + intLeft + ',top=' + intTop + ',toolbar=' + intTool + ',scrollbars=1,resizable=1');
     if(typeof window.focus != 'undefined') javascript: winPopUp.focus();
 }
 //-->
 </script>
+
 
 </head>
 <body marginwidth="0" marginheight="0">
@@ -128,18 +140,17 @@ function dcs_1_1C(dcs_URI,dcs_QRY,dcs_EXT)
 	var dCurrent = new Date();
 	var P = "";
 	P+="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://dcs.t-mobile.com/dcs.gif?";
-	//P+="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://10.1.38.44/dcs.gif?";
 	P+="dcsuri="+escape(dcs_URI);
 	P+="&dcsqry="+escape(dcs_QRY);
 	if ((window.document.referrer != "") && (window.document.referrer != "-"))
 	{
 		if (!(navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) < 4) )
 		{
-			P+="&dcsref="+window.document.referrer;
+			P+="&dcsref="+escape(window.document.referrer);
 		}
 	}
 	P+=dcs_EXT;
-	//P +="&dcssip=yourdomain";  //For Static Cross domain tracking, replace 'yourdomain' and remove the leading '//'.
+	//P +="&dcssip=t-mobile.com";  //For Static Cross domain tracking, replace 'yourdomain' and remove the leading '//'.
 	P+="&dcssip="+escape(window.document.domain);
 	P+="&WT.ti="+escape(document.title); 
 	P+="&dcsdat="+escape(dCurrent.getTime());
@@ -158,10 +169,9 @@ var dcsQRY=window.location.search;
 var dcsEXT="";
 dcs_1_1C(dcsURI,dcsQRY,dcsEXT);
 //-->
-</script><img border="0" name="DCSIMG" width="1" height="1" src="https://dcs.t-mobile.com/dcs.gif?dcsuri=/web/20021202074048id_/http%253A//www.t-mobile.com/info/legal/privacy.asp&amp;dcsqry=&amp;dcssip=web.archive.org&amp;WT.ti=T-Mobile%20-%20Legal%3A%20Privacy%20Policy&amp;dcsdat=1580473744163">
+</script><img border="0" name="DCSIMG" width="1" height="1" src="https://dcs.t-mobile.com/dcs.gif?dcsuri=/web/20030603160204id_/http%253A//www.t-mobile.com/info/legal/privacy.asp&amp;dcsqry=&amp;dcssip=web.archive.org&amp;WT.ti=T-Mobile%20-%20Legal%3A%20Privacy%20Policy&amp;dcsdat=1580473749811">
 <noscript>
 <IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcs.t-mobile.com/njs.gif?dcsuri=/nojavascript">
-<!--<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://10.1.38.44/njs.gif?dcsuri=/nojavascript">-->
 </noscript>
 <!-- END OF Data Collection Server TAG -->	
 
