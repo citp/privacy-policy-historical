@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204173744id_/http%3A//www.manchester.gov.uk/site/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403233757id_/http%3A//www.manchester.gov.uk/site/privacy.htm) for the most accurate reproduction.*
 
 # Manchester City Council - Website Privacy Statement
 
@@ -39,7 +39,7 @@ MANCHESTER
 M60 2LA
 
 tel: 0161 234 4415  
-email: [l.evans@notes.manchester.gov.uk](mailto:l.evans@notes.manchester.gov.uk)
+email: [l.evans@manchester.gov.uk](mailto:l.evans@manchester.gov.uk)
 
 Requests to access data collected by this web site may also be made to the Information Compliance Officer. If you remain dissatisfied after raising an issue about this policy and / or a request to access personal information collected from you on this site, you may also contact:
 
