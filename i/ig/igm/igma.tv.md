@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igma.tv privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203213726id_/http%3A//igma.tv/sub_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igma.tv privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605102801id_/http%3A//www.igma.tv/sub_privacy.html) for the most accurate reproduction.*
 
 # Welcome to iGMA.tv : The Corporate Website of GMA Network Inc.
 
@@ -7,9 +7,9 @@
 |  |   
 
 
-  * [About iGMA.tv](https://web.archive.org/web/20031203213726id_/http%3A//igma.tv/sub_about.html)
-  * [Contact Info](https://web.archive.org/web/20031203213726id_/http%3A//igma.tv/sub_contact.html)
-  * [User Agreement](https://web.archive.org/web/20031203213726id_/http%3A//igma.tv/sub_agreement.html)
+  * [About iGMA.tv](https://web.archive.org/web/20040605102801id_/http%3A//www.igma.tv/sub_about.html)
+  * [Contact Info](https://web.archive.org/web/20040605102801id_/http%3A//www.igma.tv/sub_contact.html)
+  * [User Agreement](https://web.archive.org/web/20040605102801id_/http%3A//www.igma.tv/sub_agreement.html)
   * **Privacy Policy**
 
 | 
