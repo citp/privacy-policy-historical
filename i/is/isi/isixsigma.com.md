@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606212915id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204024758id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
 
 # iSixSigma Privacy Policy
 
@@ -33,10 +33,10 @@ iSixSigma will not sell or rent your personally identifiable information to anyo
 
 
  **Cookies**  
-iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20040606212915id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
+iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20041204024758id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
 
  **Your Ability to Edit and Delete Your Account Information**  
-iSixSigma gives you the ability to edit your iSixSigma Account Information and preferences at any time. You may request deletion of your iSixSigma account by sending an email to [Account-Remove@iSixSigma.com](mailto:Account-Remove@iSixSigma.com).
+iSixSigma gives you the ability to edit your iSixSigma Account Information and preferences at any time. You may request deletion of your iSixSigma account by notifying iSixSigma using our [contact form](https://web.archive.org/web/20041204024758id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi). All account inquiries will be verified via return email.
 
  **Security**  
 Your iSixSigma Account Information is protected for your privacy and security.
@@ -45,23 +45,29 @@ Your iSixSigma Account Information is protected for your privacy and security.
 iSixSigma may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
 **Questions or Suggestions**  
-If you have questions or suggestions complete a [feedback form](http://www.isixsigma.com/contactus/) or send an email to [PrivacyPolicy@iSixSigma.com](mailto:PrivacyPolicy@iSixSigma.com).
+If you have questions or suggestions complete our [feedback form](https://web.archive.org/web/20041204024758id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi).
 
   
 [**"The Bottom Line" Links**](http://www.isixsigma.com/adsales/ad-opps.asp#bottomline)  
 ---  
   
-| **BMG**
+| 
+
+BMG
 
 * * *
 
- **WORLD CLASS  
-SIX SIGMA SOLUTIONS!**
+NEW Webinars Weekly
 
-| Upcoming public courses:  
-BLACK BELT – Sept 7, Orlando    GREEN BELT – July 19, Seattle  
-EXEC OVERVIEW – June 24, Atlanta    MULTIPLE Advanced Classes  
----|---  
+| | 
+
+Boost Six Sigma Results with BMG’s Powerful Technology Products
+
+ProjX (Project Tracking)  /  eLearning  /  eHandbook  /  Six Sigma Wizard
+
+LIVE Demos!  FREE and informative, click for details and schedule  
+  
+---|---|---  
   
 | 
 
@@ -72,7 +78,11 @@ Juran Institute, Inc.
 Six Sigma Success  
 Starts Here
 
-| Juran Institute is pleased to sponsor the WCBF conference **"Successfully Implementing Six Sigma in Financial Services" on June 23-24 in New York City**. Knowledgeable speakers within the finance arena have been carefully selected to offer a balanced perspective of how Six Sigma is being deployed across the spectrum of financial organizations. For more information and to register, _click here_.  
+| At Juran Institute, we continue to build upon the tradition of excellence  
+established by our founder, Dr. Joseph M. Juran. For nearly a quarter of a  
+century, beginning with our first client, Motorola, Juran Institute has led  
+the way in enabling organizations to achieve sustainable breakthrough results  
+by implementing innovative technologies such as Six Sigma.  
 ---|---  
   
 | **SixNet Intelligence System**
@@ -99,9 +109,26 @@ Design for Six Sigma Experts
 
 Leaders in Thinking for six sigma consulting, training and coaching.
 
-::: We wrote The Book - Implementing Six Sigma, 2nd ed ::: [Learn More>](http://www.isixsigma.com/ads/redirect.asp?id=1582&r=http://www.isixsigma.com/uagree/privacy.asp)  
+::: We wrote The Book - Implementing Six Sigma, 2nd ed ::: [Learn More>](http://www.isixsigma.com/ads/redirect.asp?id=1941&r=)  
   
 ---|---  
+  
+| 
+
+ iGrafx® 
+
+|  | 
+
+ **
+
+Try iGrafx® Process™ 2003 for Six Sigma free! Download a free whitepaper.
+
+**
+
+Identify evaluate and deliver high-impact Six Sigma  
+projects sooner & with more certainty.  
+  
+---|---|---  
   
 | 
 
@@ -146,20 +173,19 @@ training at affordable prices. Take advantage of these certification opportuniti
   
 ---|---  
   
-| 
+|    |   |    |   | 
 
-LAUNSBY CONSULTING
+The LEADING Project Management Solution   
+for Six Sigma – and Beyond.TM
 
-* * *
+  |    | 
 
-Practical,  
-Hands-on Training
+POWERSTEERING ®
 
-| **DFSS Black Belt Certification**  
-Get certified in only 2 weeks. Starts May 2004  
- **Six Sigma Insight Software**  
-Software tools for DFSS and Six Sigma  
----|---  
+S O F T W A R E, I N C.   
+www.powersteeringsoftware.com 
+
+|     
+---|---|---|---|---|---|---|---  
   
-  
-|  [Free Website Content!](https://web.archive.org/syndicate/)
+|  [iSixSigma Print Magazine](https://web.archive.org/magazine/default.asp?ref=adisside)
