@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603171920id_/http%3A//www.colapublib.org/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004174851id_/http%3A//colapublib.org/disclaim.html) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer
 
@@ -72,4 +72,4 @@ Disclaimer of Liability:
 
 With respect to information available from this web page, neither the County of Los Angeles Public Library nor any of its employees make any warranty, express or implied, including the warranty of merchantability and fitness for a particular purpose, or assume any liability or responsibility for the accuracy, completeness, or usefulness of such information.
 
-Revised 08/01 
+Revised 06/02 
