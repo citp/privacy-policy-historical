@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602194907id_/http%3A//www.nwcn.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213232759id_/http%3A//www.nwcn.com/registration/privacy.html) for the most accurate reproduction.*
 
 # NWCN.com | News for NW Cable News | Terms of Service
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/1083465548/Left/default/empty.gif/7a2f486f655634306659454144567035?x)
+[](https://web.archive.org/about/viewerlink/)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/392062623/Left1/default/empty.gif/7a2f486f655634306659454144567035?x)
+[](https://web.archive.org/about/onnwcn.html)
+
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/174224585/Left/default/empty.gif/7a2f4868346c343066594d4144705a68?x)
+
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/988224251/Left1/default/empty.gif/7a2f4868346c343066594d4144705a68?x)
+
+[](http://www.nwsource.com/)
 
 | 
 
@@ -100,7 +106,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure.  You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1.                  Enter (or click) [http://signin. **NWCN**.com](http://signin.nwcn.com/) in your browser.
+1.                  Enter (or click) <http://www.nwcn.com/sharedcontent/registration/membercenter.jsp> in your browser.
 
 2.                  Sign in by entering your e-mail address and password.  Your account information will then be displayed.
 
@@ -124,10 +130,6 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 | 
 
-Advertising 
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/321090010/Position4/default/empty.gif/7a2f4868346c343066594d4144705a68?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/463160200/Position1/default/empty.gif/7a2f486f655634306659454144567035?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/379154038/Position4/default/empty.gif/7a2f486f655634306659454144567035?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/1312169935/Position5/default/empty.gif/7a2f486f655634306659454144567035?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/1907707043/Position5/default/empty.gif/7a2f4868346c343066594d4144705a68?x)
