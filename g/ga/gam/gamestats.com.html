@@ -1,0 +1,498 @@
+<!--The following is the downloaded HTML source of the gamestats.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203022430id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.-->
+
+<html><head>
+<script language="JavaScript">
+<!--
+browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )))
+function doSwap(imgNum,imgSrc) {
+ if(browser) {
+   document.images[imgNum].src = imgSrc;
+ }
+}
+// -->
+</script>
+<meta name="ROBOTS" content="NOARCHIVE">
+<link rel="stylesheet" type="text/css" href="http://media.ign.com//corp/stylesheet.css">
+<script language="JavaScript">
+<!-- 
+var Random;  //needs to be global for later use
+// send to a friend
+function stf() {
+  var id = "1";
+  var n = "1";
+  var u = document.location;
+  var stfurl = "http://cgi.affiliation.com/x/stf.cgi?n=" + n + "&id=" + id + "&u=" + u;
+  var newWindow = window.open(stfurl,"","status,height=500,width=450");
+}
+// handy urlEncoder -- used by regprotect
+function urlEncode(inStr) {
+inStr = new String(inStr);
+outStr=' '; //not '' for a NS bug!
+for (i=0; i < inStr.length; i++) {
+aChar=inStr.substring (i, i+1);
+switch(aChar){
+case '%': outStr += "%25"; break; case ',': outStr += "%2C"; break;
+case '/': outStr += "%2F"; break; case ':': outStr += "%3A"; break;
+case '~': outStr += "%7E"; break; case '!': outStr += "%21"; break;
+case '"': outStr += "%22"; break; case '#': outStr += "%23"; break;
+case '$': outStr += "%24"; break; case "'": outStr += "%27"; break;
+case '`': outStr += "%60"; break; case '^': outStr += "%5E"; break;
+case '&': outStr += "%26"; break; case '(': outStr += "%28"; break;
+case ')': outStr += "%29"; break; case '+': outStr += "%2B"; break;
+case '{': outStr += "%7B"; break; case '|': outStr += "%7C"; break;
+case '}': outStr += "%7D"; break; case ';': outStr += "%3B"; break;
+case '<': outStr += "%3C"; break; case '=': outStr += "%3D"; break;
+case '>': outStr += "%3E"; break; case '?': outStr += "%3F"; break;
+case '[': outStr += "%5B"; break; case '\\': outStr += "%5C"; break;
+case ']': outStr += "%5D"; break; case ' ': outStr += "+"; break;
+default: outStr += aChar;
+}
+}
+return outStr.substring(1, outStr.length);
+}
+// retrieve cookie data
+function getCookieData(label) {
+	var labelLen = label.length;
+	var cLen = document.cookie.length;
+	var i = 0;
+	while (i < cLen) {
+		var j = i + labelLen;
+		if (document.cookie.substring(i,i+3) == "ATA") {
+			// we don't want the ATABeacon cookie
+			i += 4;
+		}
+		if (document.cookie.substring(i,j) == label) {
+			var cEnd = document.cookie.indexOf(";",j);
+			if (cEnd == -1) {
+				cEnd = document.cookie.length;
+			}
+			return unescape(document.cookie.substring(j,cEnd));
+		}
+		i++;
+	}
+	return "";
+}
+// check Registration
+function checkRegistration() {
+	theTime = new Date();
+	Random = theTime.getTime();
+	if (getCookieData('Beacon').substring(1,4) == "reg") {
+		valuereturned = true;
+	} else {
+		valuereturned = false;
+	}
+	return valuereturned;
+}
+// get the User's name from the Beacon cookie
+function getUserName() {
+   var cookie = getCookieData('Beacon');
+   var cookieArray = cookie.split('.');
+   var username = cookieArray[2];
+   return (username);
+}
+// submit a login form
+function login() {
+  document.login_form.action.value = "login";
+  document.login_form.network.value = "1";
+  document.login_form.submit();
+}
+//checks to see how long ago mail was checked -- IGN ONLY
+function checkDelay() {  	
+	timeNow = new Date();
+	mailFlag = getCookieData("MailFlag=");
+	yesOrNo = mailFlag.split("+") [0];
+	checkTime = mailFlag.split("+") [1];
+	theDifference = timeNow.getTime() - checkTime;
+	if (Math.abs(theDifference) < 300000) {
+		if (yesOrNo == "2") {
+			return "yes";
+		}
+		if (yesOrNo == "1") {
+			return "no";
+		}
+	} else {
+		return "check";
+	}
+}
+// end JavaScript Hide -->
+</script>
+<!-- begin tool bar javascript --><script language="JavaScript" src="http://scripts.snowball.com/scripts/tb_nw_ign.js"></script>
+<!-- end tool bar javascript -->
+<!-- begin lock Icon javascript --><script language="JavaScript" src="http://scripts.snowball.com/scripts/locked_pages.js"></script>
+<!-- end lock Icon javascript -->
+<!--IPOPJAVASCRIPT-->
+<script language="Javascript">
+	function popitup(upurl) {
+		var newWindow = window.open(upurl,"","status,resizeable,scrollbars,height=600,width=450")
+	}
+	</script>
+<title>IGN Privacy Policy</title>
+</head>
+<body bgcolor="#FFFFFF" background="http://media.ign.com//corp/image/background.gif" text="#000000" topmargin="0" marginheight="0" leftmargin="0" marginwidth="0" link="#000000" alink="#000000" vlink="#000000" onload="doLockCheck();">
+<script language="JavaScript">
+<!--
+if (location.href.indexOf('ignsorry') > 0){
+	snowToolBar(false);
+} else {
+	snowToolBar();
+}
+//-->
+</script>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td width="100%" colspan="4" background="http://media.ign.com//corp/image/header_bg.gif">
+			<!-- begin: header table -->		
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td><img src="http://media.ign.com//corp/image/header.gif" width="606" height="80" alt="" usemap="#header_map" border="0"><map name="header_map"><area alt="Click to go back to front page" coords="23,0,103,79" href="http://corp.ign.com/"><area alt="See IGN.com's front page" coords="190,62,255,76" href="http://www.ign.com/"><area alt="Sign up or customize your settings" coords="257,62,314,76" href="http://my.ign.com/my/sb"><area alt="See what's new on Insider" coords="316,62,391,76" href="http://insider.ign.com/"><area alt="Go to the IGN Gamestore" coords="393,62,470,76" href="http://my.ign.com/my/sb?uoaction=sendToStore&amp;ch=058&amp;loc=2000&amp;dst=http%3A//gamestore.ign.com/gs/sites/ign/home_store.asp%3Faffid%3D6500"><area alt="Your IGNmail account" coords="472,62,541,76" href="http://my.ign.com/my/sb?action=email&amp;network=1"></map></td>
+<td align="center" valign="top" background="http://media.ign.com//corp/image/header_ad_bg.gif">
+<img src="http://media.ign.com/ign/image/pixy.gif" width="144" height="2">
+</td>
+</tr>
+</tbody></table>
+<!-- end: header table -->		
+		</td>
+	</tr>
+	<tr>
+<!-- begin: table column width pixies -->
+		<td width="126"><img src="http://media.ign.com//corp/image/logo_2.gif" width="126" height="7" alt="" border="0"></td>
+		<td width="480"><img src="http://media.ign.com//corp/image/pixy.gif" width="480" height="7"></td>
+		<td width="184"><img src="http://media.ign.com//corp/image/pixy.gif" width="184" height="7"></td>
+		<td width="100%" rowspan="2">&nbsp;</td>	
+<!-- end: table column width pixies -->
+	</tr>
+	<tr>
+		<td width="126" valign="top">	
+<!-- begin: navigation 1 -->
+<img src="http://media.ign.com//corp/image/logo_3.gif" width="126" height="37" alt="" border="0">
+<script language="JavaScript"> 
+<!-- 
+function js_replace(s,text,by) {
+// Replaces text with by in string
+    var sLength = s.length;
+    var txtLength = text.length;
+    if ((sLength == 0) || (txtLength == 0)) return s;
+    var i = s.indexOf(text);
+    if ((!i) && (text != s.substring(0,txtLength))) return s;
+    if (i == -1) return s;
+    var newstr = s.substring(0,i) + by;
+    if (i+txtLength < sLength) {
+        newstr += js_replace(s.substring(i+txtLength,sLength),text,by);
+    }
+    return newstr;
+}
+document.writeln("<div class=login><center>");
+if (checkRegistration()) {
+	uName = getUserName();
+	uDelay = checkDelay();
+ 	document.writeln("<b>Welcome<br>"+uName+"</b><br><span class=login_small><a href=\"http://my.ign.com/my/sb?paction=logout&network=1&cb=" + Random + "\">Logout?</a></span>");
+} else {
+	// have to do this so the user won't get redirected back to teaser page after logging in as an insider....
+	var window_loc = "" + window.location;
+	if (window_loc.indexOf("/teasers/")>-1) {
+	window_loc = js_replace(window_loc,".html","p1.html");
+	window_loc = js_replace(window_loc,"/teasers/","/articles/");
+        }
+	window_loc = js_replace(window_loc,"/teaser.html","/index.html");
+ 	document.writeln("<b><a href=\"http://my.ign.com/my/sb?paction=relogin&params=%23action%23protect%23location%23"+ urlEncode(window_loc) +"\" class=\"login\">Log In Here</a></b>");
+}
+document.writeln("</center></div>");
+//-->
+</script><div class="login"><center>
+<b><a href="http://my.ign.com/my/sb?paction=relogin&amp;params=%23action%23protect%23location%23https%3A%2F%2Fweb.archive.org%2Fweb%2F20031203022430id_%2Fhttp%253A%2F%2Fcorp.ign.com%2Fprivacy.html" class="login">Log In Here</a></b>
+</center></div>
+
+<img src="http://media.ign.com//corp/image/menu_corp.gif" width="126" height="46" alt="" border="0">
+<!-- BEGIN FORM INSERT -->
+<table width="126" cellspacing="0" cellpadding="0">
+<form method="get" name="loginsearch" onsubmit="return SearchIGN(loginsearch)"></form>
+<input type="hidden" name="col" value="ign">
+<tbody><tr><td width="126" valign="TOP">
+<!-- SEARCH -->
+<center>
+<div class="login">
+<input type="text" name="qry" value="" maxlength="1991" size="10">
+<input type="image" src="http://media.ign.com//corp/image/search.gif" border="0" value="" name="searcgimage1">
+<br></div>
+</center>
+</td></tr>
+
+</tbody></table>
+<!-- END FORM INSERT -->
+<div class="nav">
+<a href="http://corp.ign.com/" target="_top">Corporate&nbsp;Home</a><br>
+<a href="http://corp.ign.com/corp_staff.html" target="_top">IGN&nbsp;Team</a><br>
+<a href="http://corp.ign.com/press.html" target="_top">News&nbsp;Releases</a><br>
+<a href="http://corp.ign.com/ad.html" target="_top">Advertise</a><br>
+<a href="http://corp.ign.com/ignhelp.html" target="_top">FAQs&nbsp;&amp;&nbsp;Help</a><br>
+<a href="http://corp.ign.com/corp_contact.html" target="_top">Contact&nbsp;Us</a><br>
+</div>
+<img src="http://media.ign.com//corp/image/menu_channels.gif" width="126" height="46" alt="" border="0">
+<div class="nav">
+</div>
+<!-- end: navigation 1 -->
+<!-- begin: navigation 2 -->
+<!-- begin: Channels -->
+<!-- begin: Games -->
+<div class="nav">
+<a href="http://pc.ign.com/">PC&nbsp;Games</a><br>
+<a href="http://ps2.ign.com/">PlayStation&nbsp;2</a><br>
+<a href="http://xbox.ign.com/">Xbox</a><br>
+<a href="http://cube.ign.com/">GameCube</a><br>
+<a href="http://pocket.ign.com/">Game&nbsp;Boy</a><br>
+<a href="http://wireless.ign.com/">Wireless</a><br>
+<a href="http://ngage.ign.com/">N-Gage</a><br>
+</div>
+<br>
+<div class="nav">
+<a href="http://www.ign.com/help.html">Game Help</a><br>
+</div>
+<div class="inav">
+<a href="http://codes.ign.com/">Cheats&nbsp;&amp;&nbsp;Codes</a><br>
+<a href="http://faqs.ign.com/">FAQs</a><br>
+<a href="http://guides.ign.com/">Guides</a><br>
+</div>
+<br>
+<div class="nav">
+<a href="http://downloads.ign.com/">PC Downloads</a><br>
+</div>
+<div class="inav">
+<a href="http://downloads.ign.com/type/demos.html">·Demos</a><br>
+<a href="http://downloads.ign.com/type/mods.html">·Mods</a><br>
+<a href="http://downloads.ign.com/type/patches.html">·Patches</a><br>
+</div>
+<br>
+<div class="nav">
+<a href="http://insider.ign.com/">IGN&nbsp;Insider</a>
+</div>
+<div class="inav">
+<a href="http://insider.ign.com/about.html" target="_blank">·Insider&nbsp;Benefits</a><br>
+<a href="http://insider.ign.com/videos.html">·Video Features</a><br>
+</div><br>
+<div class="nav">
+<a href="http://entertainment.ign.com/">Entertainment</a><br>
+</div>
+<div class="inav">
+<a href="http://cars.ign.com/">·Cars</a><br>
+<a href="http://dvd.ign.com/">·DVD</a><br>
+<a href="http://formen.ign.com/">·ForMen</a><br>
+<a href="http://gear.ign.com/">·Gear</a><br>
+<a href="http://filmforce.ign.com/">·Movies</a><br>
+<a href="http://music.ign.com/">·Music</a><br>
+<a href="http://sports.ign.com/">·Sports</a><br>
+<br>
+</div>
+<div class="nav">
+<a href="http://games.ign.com/">Games</a><br>
+</div>
+<div class="inav">
+<a href="http://dreamcast.ign.com/">·Dreamcast</a><br>
+<a href="http://pocket.ign.com/">·Game&nbsp;Boy</a><br>
+<a href="http://cube.ign.com/">·GameCube</a><br>
+<a href="http://mac.ign.com/">·Mac&nbsp;Games</a><br>
+<a href="http://ngage.ign.com/">·N-Gage</a><br>
+<a href="http://ign64.ign.com/">·Nintendo&nbsp;64</a><br>
+<a href="http://pc.ign.com/">·PC&nbsp;Games</a><br>
+<a href="http://psx.ign.com/">·PlayStation</a><br>
+<a href="http://ps2.ign.com/">·PlayStation&nbsp;2</a><br>
+<a href="http://play.ign.com/">·Web&nbsp;Games</a><br>
+<a href="http://wireless.ign.com">·Wireless</a><br>
+<a href="http://xbox.ign.com/">·Xbox</a><br>
+<a href="http://wire.ign.com/">·Newswire</a><br>
+<a href="http://ve3d.ign.com/">·VE3D</a><br>
+<a href="http://vault.ign.com/">·Vault&nbsp;Home</a><br>
+<a href="http://actionvault.ign.com/">·Action&nbsp;Vault</a><br>
+<a href="http://rpgvault.ign.com/">·RPG&nbsp;Vault</a><br>
+</div>
+<br>
+<div class="nav">
+<a href="http://my.ign.com/my/sb">My.IGN</a><br>
+</div>
+<div class="inav">
+<a href="http://my.ign.com/my/sb?action=email&amp;network=1 ">·Email</a><br>
+<a href="http://users.ign.com/my/sb?uoaction=showMainPage">·User&nbsp;Pages</a><br>
+<a href="http://my.ign.com/my/sb?action=viewUserGameList&amp;ownedGames=y">·My.Collection</a><br>
+<a href="http://my.ign.com/my/sb?action=viewUserGameList&amp;ownedGames=n">·My.Wishlist</a><br>
+<a href="http://my.ign.com/my/sb?action=myNewsletter&amp;network=1">·Newsletters</a><br>
+<a href="http://my.ign.com/my/sb?action=myProfile&amp;network=1">·Edit&nbsp;Account</a><br>
+</div>
+<div class="nav">
+<a href="http://boards.ign.com/">Boards</a><br>
+<a href="http://chat.ign.com/">Chat</a><br>
+<a href="http://sweepstakes.ign.com">Win&nbsp;Stuff</a><br>
+</div>
+<img src="http://media.ign.com//corp/image/menu_nav_2.gif" width="126" height="46" alt="" border="0">
+<!-- begin: Shopping -->
+<div class="nav">
+<a href="http://my.ign.com/my/sb?uoaction=sendToStore&amp;ch=058&amp;loc=2041&amp;dst=http%3A//gamestore.ign.com/gs/sites/ign/home_store.asp%3Faffid%3D6500">Main Store</a><br>
+<a href="http://my.ign.com/my/sb?uoaction=sendToStore&amp;ch=058&amp;loc=2042&amp;dst=http%3A//gamestore.ign.com/gs/sites/ign/cube_store.asp%3Faffid%3D6500">Cube</a><br>
+<a href="http://my.ign.com/my/sb?uoaction=sendToStore&amp;ch=058&amp;loc=2043&amp;dst=http%3A//gamestore.ign.com/gs/sites/ign/gba_store.asp%3Faffid%3D6500">GBA</a><br>
+<a href="http://my.ign.com/my/sb?uoaction=sendToStore&amp;ch=058&amp;loc=2044&amp;dst=http%3A//gamestore.ign.com/gs/sites/ign/pc_store.asp%3Faffid%3D6500">PC</a><br>
+<a href="http://my.ign.com/my/sb?uoaction=sendToStore&amp;ch=058&amp;loc=2045&amp;dst=http%3A//gamestore.ign.com/gs/sites/ign/ps2_store.asp%3Faffid%3D6500">PS2</a><br>
+<a href="http://my.ign.com/my/sb?uoaction=sendToStore&amp;ch=058&amp;loc=2046&amp;dst=http%3A//gamestore.ign.com/gs/sites/ign/xbox_store.asp%3Faffid%3D6500">Xbox</a><br>
+<a href="http://my.ign.com/my/sb?uoaction=sendToStore&amp;ch=058&amp;loc=2047&amp;dst=http%3A//gamestore.ign.com/gs/sites/ign/preowned_store.asp%3Faffid%3D6500">Preowned</a><br>
+<a href="http://my.ign.com/my/sb?uoaction=sendToStore&amp;ch=058&amp;loc=2048&amp;dst=http%3A//gamestore.ign.com/gs/sites/ign/dvdtoys_store.asp%3Faffid%3D6500">DVD &amp; Toys</a><br>
+</div>
+<!-- end: Shopping -->
+<p><br>&nbsp;<br>
+			<!-- end: navigation 2 -->
+		</p></td>
+<td width="480" valign="top"> 
+<center>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="100%" align="center">
+<table border="0"><tbody><tr><td width="468">
+</td></tr></tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="20" cellspacing="0" border="0" width="450"><tbody><tr><td>
+<p>
+</p><p>
+</p><center><b><font size="+1">Privacy Policy</font></b></center>
+<br>
+<br>
+<p align="left">
+<b>Updated October 23, 2003</b>
+<br>
+<br>
+<b>Our Approach to Privacy. </b>
+IGN respects your privacy. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of IGN Entertainment, Inc.<br>
+<br>
+This Privacy Policy applies to the web sites owned by IGN Entertainment, Inc. including IGN.com, VaultNetwork.com, GameSages.com and TeamXbox.com. We refer to these web sites as the <b>IGN Sites.</b><br>
+<br>
+While the IGN Sites offer different combinations of services and tools from one site to another, this policy states IGN's company-wide Privacy Policy with regard to data-collection practices.<br>
+<br>
+By registering as a member of an IGN Site, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.<br>
+<br><font color="#003399"><b>	Overview of our Policy</b></font><br>
+<br>
+<b>The security of personal information is a high priority at IGN.</b> We maintain these web sites and all associated data with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. No computer system or information can ever be fully protected against every possible hazard. But IGN is committed to providing reasonable and appropriate security controls to protect our web sites and their information against foreseeable hazards.<br>
+<br>
+ The information you provide helps us, and our partners (including our service providers, advertisers and other partners) make the IGN Sites more fun and useful for you. It also enables us to provide you updates about our services and special offers from our partners. When you become a registered member of one of our sites, you may receive email or postal mail from IGN and our partners.<br>
+<br>
+Please keep in mind that whenever you voluntarily disclose personal information in public areas of an IGN Site, such as the member home pages and message boards, your information can be viewed and possibly used by others. We advise users not to disclose information that can be used to contact the user ("Personally Identifiable information") that they do not wish for others to obtain, such as full name, home address, or phone number.<br>
+<br><font color="#003399"><b>Changes to this Policy</b></font><br>
+<br> 
+This Privacy Policy will always be available to users on this page for you to read. We will update this privacy and fair information practices policy to reflect new features, services and options, as well as any other changes with regard to the use of personal information. Users will be notified by a notice on the IGN Site of any significant update to our Privacy Policy. By registering as a member of an IGN Site, you agree to accept this Privacy Policy and are aware that our policy may change over time. Continued use of the IGN Sites or other IGN services will signify that you agree to these changes. <br>
+<br><font color="#003399"><b>	About Children</b></font><br>
+<br>   
+The IGN Sites are not directed to children under the age of 13. The IGN Sites prohibit registration by and will not knowingly collect personally identifiable information from anyone under 13. This requirement will be posted at points of data collection within the IGN Sites, such as registration for services.<br>
+<br>
+<b>Note to Parents. </b>If you have any concerns about the IGN Sites or its related services, please contact us via our online form, available at <a href="http://www.ign.com/email.html">http://www.ign.com/email.html</a>.<br>
+<br><font color="#003399"><b>	Information Collection and Use</b></font><br>
+<br>
+Below are more details about the information the IGN Sites gather from you and how we use it.<br>
+<br>
+<b>A. Email Newsletters. </b>IGN offers email newsletters. Only registered users will be able to receive newsletters.  We will use your email address only to send you the newsletter(s)<b><i><font color="#ff0000"> </font></i></b>that you signed up for. If you want to update your email address or stop receiving our newsletter, follow the procedures to unsubscribe at the bottom of any newsletter we send you or simply visit <a href="http://my.ign.com">http://my.ign.com</a> to update your profile.<br>
+<br><b>B. Membership Information. </b> When you register for membership on one of our sites, we ask for information about you and your interests. We do this so we can better understand what you like and tailor the site to suit you better. At a minimum, we require your name, birth date, gender, email address and zip code. The more information you volunteer, the more we can tailor the site and promotions to your interests.
+</p><ul>
+<ul>
+<li>
+<div align="left"><b>Service Providers.</b> We also offer our members other services provided by third parties such as free email and free userpages, among others. When you register for membership on an IGN Site or activate a service by clicking on a particular service link (i.e. email) on our sites, you may be automatically registered to receive the free services we offer and some of your Personally Identifiable Information may be transferred from IGN to those third-party service providers. By becoming a member, you authorize us and our third-party service providers to send you email updates and information about promotions and special offers. We take care to require that our third-party service providers only use our member’s data as necessary to provide the particular service and to give you updates on that service provider’s products and services. 
+</div>
+</li>
+<br>
+<li>
+<div align="left"><b>Co-registration with Other Sites. </b>As a member, we offer you the ability to co-register with select third-party partner sites. In some instances where IGN provides co-registration, the co-registration partners allow you to opt-out of their membership. If you choose to co-register with our partners and accept their terms of service, then you are automatically registered as a member of their select web sites and your Personally Identifiable Information is transferred to those organizations. As a result, you may<b><i><font color="#ff0000"></font></i></b>receive information from one of these web sites as any of their members would. We advise you to review their privacy and data collection policies for further information. In order to cancel your membership with any of these partners you will need to go directly to the partner's site. </div>
+</li>
+<br>
+<li>
+<div align="left"><b>Advertisers.</b>  By becoming a member, you authorize IGN to share your Personally Identifiable Information with our advertisers. Our advertisers may use your Personally Identifiable Information to send you, via email or postal mail, advertisements or other notices, and it is possible that your information may be shared with others.
+</div></li>
+</ul>
+</ul>
+<b>C. Email Updates to Members</b>. If you so elect at registration, the IGN Sites will periodically send you promotional email about services offered by the IGN Sites, our partners and advertisers. If you want to update your email address or stop receiving these types of promotional emails, please follow the procedures to unsubscribe at the bottom of any email we send you or simply visit <a href="http://my.ign.com">http://my.ign.com</a> to update your profile.<br>
+<br>
+The IGN Sites may contact you regarding account status, changes to the user agreement, and to confirm registration. <br> 
+<br>
+<b>D. Promotions. </b>We may ask you for Personally Identifiable Information at other times, including, but not limited to, when you enter sweepstakes, contests or promotions sponsored by a third party. If you choose to enter sweepstakes, contests or promotions of this nature, we may share your Personally Identifiable Information with the third party so they can contact you. The third party may use that information to send you advertisements or other notices, and it is possible that your information may be shared with others.<br>
+<br>
+<b>E. Surveys and User Research.</b> IGN conducts email and web-delivered surveys from time to time, as well as instant polls, to gather information about our audience. It is important to remember that taking these surveys and polls is entirely optional. You have no obligation to respond to them. We share only the aggregate results of these surveys, not individual data, with  our advertisers and partners to help them better understand our services and monitor the reach of their advertising on our service. We also store some of the information that our users provide in these surveys to help us understand your interests and to make the site more useful for you.<br>
+<br>
+ <b>F. Use of Cookies.</b> On the Internet, a "cookie" is a piece of information (a file) that a Web site transfers to a user's computer for record-keeping purposes. The use of cookies is common on the Internet. The process we use to serve advertisements and to track use of our site involves cookies. Cookies help IGN and our advertising service (discussed below) track the frequency and placement of advertisements. Cookies also enable us to measure aggregate, or total usage and traffic to our site and to specific offerings. This aids us in producing content that best meets our users' preferences. In order to implement new services, we may use other types of cookies as well. We also may use cookies to understand better what parts of our site you like best. We may use that information to display advertisements that we think will be of particular interest to you. You may configure your browser to reject cookies, but this may interfere with some functionality of the IGN Sites. To find out more about changing your browser to reject cookies, we suggest the EPIC Cookies Page <b>[<a href="http://www.epic.org/privacy/internet/cookies" target="new">http://www.epic.org/privacy/internet/cookies</a>].</b><br> 
+<br>
+ <b>G. Sites You Visit. </b>As you access our Affiliate Sites and browse around the IGN Sites, IGN may store information about which pages and which Affiliate Sites you visit and other information presented in your browser's URL address line. IGN will use this information  to help determine what our users are most interested in.<br>
+<br>
+<b>H. Other Third Parties.</b> IGN may share non-personal, aggregate, or summary, information regarding our users with other third parties not mentioned in this policy. This kind of information does not identify you individually.<br>
+<br>
+<b>I. Merger or Acquisition.</b> In the event of a merger, acquisition, reorganization, sale of all or substantially all of its assets, or the sale of an individual website owned by IGN, IGN may transfer your Personally Identifiable Information to a third party as a part of such merger, acquisition, reorganization, or sale.<br>
+<br>
+<b>J. Legal Authorities.</b> The IGN Sites may also disclose Personally Identifiable Information in cases when we have reason to believe that it is necessary to identify someone who may be violating IGN's <a href="http://corp.ign.com/user_agreement.html">User Agreement</a> or may be causing injury to IGN's rights or property, other users, or anyone else. The IGN Sites may disclose Personally Identifiable Information of our users to government authorities at our discretion.
+<br>     
+<br><font color="#003399"><b>	Access to Other Sites Through IGN</b><br></font><br>
+<b>Our Affiliates Sites.</b> You should be aware that when you are on an IGN Site, you will have the opportunity to visit, or link to, other sites associated with IGN. These sites are identified as our "Affiliates" and/or - "Partner Sites" These sites are not owned or operated by IGN, but are part of a larger network of sites with which the IGN Sites share content and advertising opportunities. We do not share Personally Identifiable Information of our members with these Affiliate Sites.<br>
+<br>
+<b>Linking to Other Sites.</b> You may also visit independent web sites, not operated by IGN, that are connected to our network for our users. Such sites are operated by external, third-party service providers. Some of these sites will have their own separate membership processes and privacy policies. The IGN Sites do not control sites that are operated by others and so cannot be responsible for the information practices of these sites. Other sites may set their own cookies, collect data or solicit personal information. It is always a good idea to check the Privacy Policy and Terms of Use of any site before offering any of your personal information.<br>
+<br><font color="#003399"><b>	Security</b></font><br><br> The IGN Sites use diligent efforts to protect the security and integrity of the information you provide to us once it is received on our systems. However, when you submit information about yourself to the IGN Sites over the Internet, the information may travel over many systems that are not under the control of IGN. We take the protection of user data very seriously and to that end provide extra assurances that your information will not be intercepted. In the case of shopping pages, for example, the credit card information you submit is protected by secure servers.<br>
+<br><font color="#003399"><b>	Updating Your Information</b></font><br>
+<br>
+To update your account information such as your city or interests, please use the "Edit profile page" at the IGN Site on which you are registered. <br>
+<br><font color="#003399"><b>	Cancellations</b></font>
+<ul>
+<ul>
+<br>
+<li>
+<div align="left"><b>Canceling Newsletters</b>. You may cancel participation in email newsletters by following the instructions at the bottom of each newsletter.</div>
+</li>
+<br>
+<li>
+<div align="left"><b>Email updates and special offers:</b> You may cancel participation in the email announcements by following the instructions at the bottom of each email.</div>
+</li>
+</ul>
+</ul>
+<font color="#003399"><b>	Still Have Questions?</b></font><br>
+<br> 
+If you have any other questions about the IGN Privacy Policy, please contact us via our online form, available at <a href="http://www.ign.com/email.html">http://www.ign.com/email.html</a> or write to us at: <br><br>
+          <dir><dir>  
+              <b>
+              IGN
+              <br>Attn: Customer Service
+              </b> 
+              <br>3240 Bayshore Blvd. <br>
+                Brisbane, CA 94005<br><br>
+</dir></dir>
+                *Be sure to include the specific IGN Site to which you are a member.
+<br><br><img src="http://atax.ign.com/image-ng/network=ign&amp;site=all&amp;size=1x1&amp;name=ATAtracker&amp;a=&amp;r=none?1070418269990" width="1" height="1">
+<!---Ad IDs:  ---->
+
+
+<!-- begin: community box -->
+<br clear="all">
+<div class="sitetools">
+<a href="javascript:void(stf())" onmouseover="javascript:window.status='Send this page to a friend!';return true" onmouseout="javascript:window.status='';return true">Send this page to a friend</a>
+</div>
+<!-- end: community box -->
+<br>
+<br><br>
+			<!-- begin: snowball copyright -->
+<script language="JavaScript">
+<!--
+snowFooter();
+//-->
+</script>
+			<!-- end: snowball copyright -->
+</td>
+<td width="184" valign="top" align="center">
+<!-- begin: right column ads --> 
+<table border="0" cellpadding="0" cellspacing="0" width="184">
+  <tbody><tr>
+    <td width="184" align="center">
+<!-- OUTER WRAPPER TABLE FOR RIGHT COLUMN -->
+<!-- BEGIN EBAY -->
+<!-- END EBAY -->
+<!-- /OUTER WRAPPER TABLE FOR RIGHT COLUMN -->
+	</td>
+  </tr> 
+</tbody></table>
+<!-- end: right column ads --> 
+</td></tr></tbody></table>
+<noscript>
+<img src="http://adserver.ign.com/image-ng/network=ign&site=all&size=1x1&name=ATAtracker?" height=1 width=1>
+</noscript>
+<p>&nbsp;
+
+
+<!-- 
+--><!-- page generation time: 109ms --></p></center></td></tr></tbody></table></body></html>
