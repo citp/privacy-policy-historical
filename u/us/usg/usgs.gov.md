@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217183030id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604001427id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
@@ -22,7 +22,7 @@ The USGS web site which referred you to this document conforms to the general U.
 
 Like most web servers on the Internet, our servers collect and store all of the information that your web browser sends when it requests a web page, including:
 
-  * the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet. For example, your host computer's name is crawl1-public.alexa.com and its numerical address is 209.247.40.104; 
+  * the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet. For example, your host computer's name is (none) and its numerical address is 66.28.250.176; 
   * the date and time you accessed our site; 
   * the Internet address of the web page that you came from (for this visit that address is (none)); 
   * the page you requested from our site and the number of characters sent to your computer; and 
