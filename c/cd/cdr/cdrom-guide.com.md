@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrom-guide.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203012242id_/http%3A//www.cdrom-guide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrom-guide.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624043637id_/http%3A//www.cdrom-guide.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for CdRom-Guide.com
 
