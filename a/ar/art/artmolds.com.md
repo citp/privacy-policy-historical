@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204013555id_/http%3A//artmolds.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611215937id_/http%3A//www.artmolds.com/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy for ArtMolds Sculpture Studio
+# Lifecast Belly and Bodycasting Kits, Supplies and Videos
+
+**Privacy Policy**
 
 This is the web site of **ArtMolds Sculpture Studio LLC** operating as **Life-casting.com.**
 
 Our postal address is  
-**18 Bank Street**  
-**Summit NJ 07901**  
+ **18 Bank Street**  
+ **Summit NJ 07901**  
 We can be reached via e-mail at [info@artmolds.com](mailto:info@artmolds.com)  
 or you can reach us by telephone at 908 273-5401
 
