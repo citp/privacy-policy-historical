@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605031150id_/http%3A//www.eff.org/onsite.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203074609id_/http%3A//www.eff.org/policy/privacy.html) for the most accurate reproduction.*
 
 # EFF Privacy Policy (May 22, 2002)
 
@@ -30,7 +30,7 @@ There are a number of ways to subscribe to the EFF Action Center, including subm
 
 When you subscribe to the EFF Action Center, we collect your name, email address, city, state, postal code, and country of residence. If you opt in, we will use your email address to send you updates and alerts on protecting your rights in the digital world, so you may take action, such as contacting your representative in Congress or attending an event. 
 
-You may remove your name from our email list at any time by sending a request to [alerts@action.eff.org](http://www.eff.org/alerts@action.eff.org). 
+You may remove your name from our email list at any time by sending a request to [alerts@action.eff.org](http://www.eff.org/policy/alerts@action.eff.org). 
 
 We do not use "cookies" on this site unless you decide to click on "Remember Me" or other similar functionality. 
 
