@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paragonsports.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216072521id_/http%3A//www.paragonsports.com/paragon/customer_service.asp%3Fmscsid%3D%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paragonsports.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605154951id_/http%3A//www.paragonsports.com/paragon/customer_service.asp%3Fmscsid%3D%23privacy) for the most accurate reproduction.*
 
 # Paragon Sports: New Yorks Finest Sports Specialty Store, Sports, Gear, Clothing
 
@@ -18,7 +18,7 @@ Paragon Sports values its customers and respects their privacy. When obtaining i
 
 Additionally, this information assists us in providing you with the highest level of customer service. You may review, change, or update your information at anytime. We do not exchange, trade or sell any information you provide us. We collect customer information solely in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. If our information practices change in the future, we will let you know by posting the policy changes on our Web site and/or by communicating directly with you. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.
 
-Any questions on our privacy policy can be answered directed to by calling Customer Service at 800-961-3030 or 212-255-8036 extension 271. You can e-mail us at [info@paragonsports.com](mailto:info@paragonsports.com)
+Any questions on our privacy policy can be answered by calling Customer Service at 800-961-3030 or 212-255-8036 extension 237. You can e-mail us at [info@paragonsports.com](mailto:info@paragonsports.com)
 
   
 Cookies
