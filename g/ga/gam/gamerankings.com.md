@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerankings.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605034257id_/http%3A//www.gamerankings.com/itemrankings/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerankings.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207214424id_/http%3A//www.gamerankings.com/itemrankings/privacy.asp) for the most accurate reproduction.*
 
 # Game Rankings - The Game Review Database
 
