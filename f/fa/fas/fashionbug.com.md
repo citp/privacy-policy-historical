@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbug.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210025428id_/http%3A//fashionbug.charmingshoppes.com/custsvc/fb/priv_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbug.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605052454id_/http%3A//fashionbug.charmingshoppes.com/custsvc/fb/priv_security.asp) for the most accurate reproduction.*
 
 # Fashion Bug—fun, fashionable and affordable styles for women of all ages. The latest styles for work, dress or play featuring Plus sizes 14/16-30/32, Misses Sizes 6-16 and Junior Sizes.
 
@@ -30,7 +30,7 @@ top
 
 Mailing Lists
 
-When you register with CSI or participate in a contest or promotion online through this Site you may choose to receive e-mails or postal mail from us regarding our company, our corporate information, our products, services, contests, and promotions. From time to time, we may also send you e-mails to help us learn more about your online preferences. To find out how to remove yourself from a mailing list, [click here](https://web.archive.org/web/20021210025428id_/http%3A//fashionbug.charmingshoppes.com/custsvc/fb/faq.asp#maillist).  
+When you register with CSI or participate in a contest or promotion online through this Site you may choose to receive e-mails or postal mail from us regarding our company, our corporate information, our products, services, contests, and promotions. From time to time, we may also send you e-mails to help us learn more about your online preferences. To find out how to remove yourself from a mailing list, [click here](https://web.archive.org/web/20030605052454id_/http%3A//fashionbug.charmingshoppes.com/custsvc/fb/faq.asp#maillist).  
 top
 
 How Do We Disclose or Share Information With Unrelated Third Parties?
