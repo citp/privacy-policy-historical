@@ -1,19 +1,23 @@
-> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602110859id_/http%3A//nextstudent.com/Mission/Privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609232333id_/http%3A//www.nextstudent.com/about_NextStudent/privacy.asp) for the most accurate reproduction.*
 
-# Federal Education Loans, Scholarship, and Loan Consolidation... lower your monthly loan payments for FREE
+# Student Loans and Federal Loan Consolidation - NextStudent.com
 
-**Your Privacy**
+At NextStudent, your privacy is assured. We respect your right to privacy and recognize our obligation to keep information about you secure and confidential. We do not collect any nonpublic personal information about you unless you expressly authorize us to collect such information, such as when you submit a loan application to us. This information may include your name, address, telephone number, Social Security Number, and certain personal financial information such as student loan account balances, payment history, account usage and similar information relating to your transactions with NextStudent, and is used only to facilitate the performance of our services. We may share this information with other companies in the NextStudent family of companies, our servicers, originating agents, processing agents, and third party agents, to effectively and efficiently process or administer your loan. 
 
-At NextStudent, we are committed to respecting your privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. That's why we have put a policy in place to protect your personal information. You may always visit our site and browse without giving us any personal information. Please read on for more details about our privacy practices.
+We do not collect individual information about visitors to our Web site, however, we do use standard software to collect combined, aggregate information for the strict purpose of analyzing this Web site's traffic and usage. This allows us to better understand how many people access our site and which pages are most popular. 
 
- **What information does NextStudent collect? How do we use it?**
+NextStudent abides by federal law and the guidelines established by the Federal Trade Commission regarding youth privacy. Therefore, we will not knowingly collect any personal information from or allow the registration of young people under the age of 13. If we become aware that we have inadvertently collected personal information from a person under the age of 13, we will promptly take all reasonable steps to delete the data from our system. 
 
-At times we may request that you voluntarily supply us with personal information. Generally this information is requested when you search for scholarships or apply for student loans. If you choose to give us personal information via the Internet, we intend to let you know how we will use such information. 
+NextStudent will not share your personal information with nonaffiliated, third parties except as required or permitted by federal law or regulation. For example, we may share your personal information with schools, lenders, agencies of the United States government and their agents, credit-reporting agencies, and with third-party servicing organizations. These third parties are required to use your personal information for its intended purpose only. 
 
-For scholarship search, the information you choose to provide is used to define your personal profile. The search tool uses your personal profile to find the scholarships that are most appropriate for you. Your personal information will **not** be sold or distributed _unless you request student loan information._
+NextStudent will always protect the personal information you share with us. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. All personal information you provide online is encrypted using SSL, or 128-bit encryption technology; the internet standard for secure communication online. NextStudent stores all personal information internally in a controlled, secure environment where only those NextStudent employees with a business reason to access your personal information are authorized to do so. 
 
-Should you have an interest in student loans and complete the loan pre-qualification section, a reputable and competitive student loan lender will contact you or your parents. You are in no way obligated to borrow from this lender by completing the loan section information. This is simply a time-saver in finding you an experienced and qualified student loan lender and to answer any questions you may have. 
+If you have any questions or comments in connection with this privacy policy, please contact us at: 
 
-We intend to continue improving the content and function of NextStudent.com. For this reason, we monitor customer traffic patterns and site usage to help us improve the design and layout of our web site and provide content of interest to you.
+## Customer Privacy
 
- **We hope you enjoy using NextStudent.com!**
+NextStudent  
+11225 North 28th Drive, Suite A-202  
+Phoenix, Arizona 85029  
+Phone: (800) 658-6801  
+Website: [www.nextstudent.com ](http://www.nextstudent.com/)
