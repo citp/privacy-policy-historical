@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsubmit.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207084215id_/http%3A//localsubmit.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsubmit.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611093804id_/http%3A//www.localsubmit.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -21,9 +21,9 @@
 > 
 > **Guarantee**
 > 
-> LocalSubmit will submit your site to the search engines, but we cannot guarantee that your site will be indexed if you order the Basic Submission Service. Getting indexed or not depends on multiple factors: your site, your meta tags, your content, search engine issues, ... Please, be patient, it can take 6 - 15 weeks to get indexed. Consider to order our [Traffic Booster](https://web.archive.org/web/20031207084215id_/http%3A//localsubmit.com/traffic_booster.htm) or [Hand Submission Service](https://web.archive.org/web/20031207084215id_/http%3A//localsubmit.com/hand.htm) to get guaranteed listing.   
+> LocalSubmit will submit your site to the search engines, but we cannot guarantee that your site will be indexed if you order the Basic Submission Service. Getting indexed or not depends on multiple factors: your site, your meta tags, your content, search engine issues, ... Please, be patient, it can take 6 - 15 weeks to get indexed.  
 >  We offer you **a 90 days money back guarantee** if you find that we have not done what we have promised. In order to receive the 90 days money back guarantee you have to follow our free advice and free guidelines concerning the optimization of your website. During your subscription period you may contact us as many times as needed to receive free optimization advice.  
->  Fees to Altavista, Inktomi, Askjeeves, Lycos are not refundable. In case of a refund submission and optimization services will be undone.  
+>  In case of a refund submission and optimization services will be undone.  
 >  **Traffic Booster** : By ordering this package you grant us access to your web server or you agree to upload the pages yourself. You allow us to change the HTML-code of your pages. There is no money back guarantee if for some reason the pages cannot be uploaded to the server, if you change the code of the pages, if you use techniques not allowed by search engines (cloaking, redirects, spamming,...), if your site is already banned from the search engine listings, if you or your hosting company prevent search engines from spidering your site, for any delays on your part. If you are not sure, please ask advice before ordering.
 > 
 > **Note: We don't submit sites with adult content, warez sites, sites that promote illegal products or that contain illegal content, ...! We have the right to refuse to submit such websites.**
