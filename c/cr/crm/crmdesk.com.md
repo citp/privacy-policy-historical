@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crmdesk.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412164607id_/http%3A//www.crmdesk.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crmdesk.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202202426id_/http%3A//www.crmdesk.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Web-based Help Desk, Customer Service and Online Support Software - CRMdesk - Privacy Statement
 
