@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603173614id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202070023id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
 
 # Melbourne IT
 
@@ -81,7 +81,7 @@ Back to Top
 
 You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. The procedure to do this is explained on the Help Centre on our website at [http://www.inww.com/help](http://www.inww.com/help/). 
 
-If you believe that Melbourne IT may hold other personal information about you which is inaccurate, please contact us by using [this web form](https://web.archive.org/web/20020603173614id_/http://www.melbourneit.com.au/privacy/comment.php) and we will take reasonable steps to ensure that it is corrected. 
+If you believe that Melbourne IT may hold other personal information about you which is inaccurate, please contact us by using [this web form](https://web.archive.org/web/20021202070023id_/http://www.melbourneit.com.au/privacy/comment.php) and we will take reasonable steps to ensure that it is corrected. 
 
 **Security**  
 Back to Top
@@ -102,4 +102,4 @@ Melbourne IT may make changes to its privacy policy from time to time. You shoul
 **Further information or queries**  
 Back to Top
 
-If you have any queries or comments, or would like more information concerning Melbourne IT's privacy policy, please contact us by using [this web form](https://web.archive.org/web/20020603173614id_/http://www.melbourneit.com.au/privacy/comment.php). 
+If you have any queries or comments, or would like more information concerning Melbourne IT's privacy policy, please contact us by using [this web form](https://web.archive.org/web/20021202070023id_/http://www.melbourneit.com.au/privacy/comment.php). 
