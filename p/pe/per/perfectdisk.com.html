@@ -1,0 +1,425 @@
+<!--The following is the downloaded HTML source of the perfectdisk.com privacy policy that was archived on 2000-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001206100100id_/http%3A//www.raxco.com/company/privacy.cfm) for the most accurate reproduction.-->
+
+<html><head>
+	<title>Raxco:Privacy Statement.</title>
+
+
+
+
+
+<style>
+     <!--
+    a {text-decoration: none}
+
+	H1 
+	{ font-size:16pt; 
+	  font-family: Tahoma, Arial, Helvetica; 
+	  color: #CC0033
+	}
+	H2 
+	{ font-size:12pt; 
+	  font-family: Arial, Helvetica; 
+	  color: #CC0033
+	}
+	H3 
+	{ font-size: 12pt; 
+	  font-family: Arial, Helvetica; 
+	  color: #CC0033
+	}
+	H4 
+	{ font-size: 8pt; 
+	  font-family: Arial, Helvetica; 
+	}
+	Body 
+	{ font-size: 10pt; 
+	  font-family: Arial, Helvetica;
+	}
+	P 
+	{ font-size: 10pt; 
+	  font-family: Arial, Helvetica;
+	}
+	li 
+	{ font-size: 10pt; 
+	  font-family: Arial, Helvetica;
+	}
+	td 
+	{ font-size: 10pt; 
+	  font-family: Arial, Helvetica;
+	}
+	.footer
+	{ font-size: 8pt;
+	  font-family: Arial, Helvetica;
+	}
+
+                            -->
+</style>
+
+<script language="JavaScript">
+<!--
+
+
+
+function CheckQuantity(thisField)
+	{
+	    if  (!_CF_checkinteger(thisField.value))
+	        {
+	        if  (!_CF_onError(thisField, thisField.value, "Please enter a valid quantity."))
+	            {
+	            	return false; 
+	            }
+	        }
+		   return true;
+	}
+
+
+function _CF_checkinteger(object_value)
+    {
+	// check to be sure it is positive
+	if (object_value < 1)
+		return false;
+
+    //Returns true if value is a number or is NULL
+    //otherwise returns false	
+
+    if (object_value.length == 0)
+        return true;
+
+    //Returns true if value is an integer defined as
+    //   having an optional leading + or -.
+    //   otherwise containing only the characters 0-9.
+	var decimal_format = ".";
+	var check_char;
+
+    //The first character can be + -  blank or a digit.
+	check_char = object_value.indexOf(decimal_format)
+    //Was it a decimal?
+    if (check_char < 1)
+	return _CF_checknumber(object_value);
+    else
+	return false;
+    }
+
+
+
+function _CF_checknumber(object_value)
+    {	
+    //Returns true if value is a number or is NULL
+    //otherwise returns false	
+    if (object_value.length == 0)
+        return true;
+
+    //Returns true if value is a number defined as
+    //   having an optional leading + or -.
+    //   having at most 1 decimal point.
+    //   otherwise containing only the characters 0-9.
+	var start_format = " .+-0123456789";
+	var number_format = " .0123456789";
+	var check_char;
+	var decimal = false;
+	var trailing_blank = false;
+	var digits = false;
+
+    //The first character can be + - .  blank or a digit.
+	check_char = start_format.indexOf(object_value.charAt(0))
+    //Was it a decimal?
+	if (check_char == 1)
+	    decimal = true;
+	else if (check_char < 1)
+		return false;
+        
+	//Remaining characters can be only . or a digit, but only one decimal.
+	for (var i = 1; i < object_value.length; i++)
+	{
+		check_char = number_format.indexOf(object_value.charAt(i))
+		if (check_char < 0)
+			return false;
+		else if (check_char == 1)
+		{
+			if (decimal)		// Second decimal.
+				return false;
+			else
+				decimal = true;
+		}
+		else if (check_char == 0)
+		{
+			if (decimal || digits)	
+				trailing_blank = true;
+        // ignore leading blanks
+
+		}
+	        else if (trailing_blank)
+			return false;
+		else
+			digits = true;
+	}	
+    //All tests passed, so...
+    return true
+    }
+
+function _CF_onError(form_object, object_value, error_message)
+    {
+	alert(error_message);
+		form_object.value = 1;
+		document.cart.submit();
+       	return false;	
+    }
+//-->
+</script>
+
+
+<script language="JavaScript">
+ <!--
+jmp = new MakeStringArray(21);
+jmp[0] = "http://www.raxco.com/Products/perfectdisk2k";
+jmp[1] = "http://www.raxco.com/products/winnt_products.cfm";
+jmp[2] = "http://www.raxco.com/Products/perfectdisk2k";
+jmp[3] = "http://www.raxco.com/Products/pd2kexch";
+jmp[4] = "http://www.raxco.com/Products/repairdiskmanager";
+jmp[5] = "http://www.raxco.com/Products/personalworksaver";
+jmp[6] = "http://www.raxco.com/Products/instant";
+jmp[7] = "http://www.raxco.com/Products/diskstate";
+jmp[8] = "http://www.raxco.com/Products/openvms_products.cfm";
+jmp[9] = "http://www.raxco.com/Products/performancesuite";
+jmp[10] = "http://www.raxco.com/Products/RaxcoSupport";
+jmp[11] = "http://www.raxco.com";
+jmp[12] = "http://www.raxco.com/new/news_articles.cfm";
+jmp[13] = "http://www.raxco.com/new/press_releases.cfm";
+jmp[14] = "http://www.raxco.com/New/company_events.cfm";
+jmp[15] = "http://www.raxco.com/Products/y2k.cfm";
+jmp[16] = "http://www.raxco.com/scripts/register.asp";
+jmp[17] = "http://www.raxco.com/support";
+jmp[18] = "http://www.raxco.com/support/windows";
+jmp[19] = "http://www.raxco.com/support/vms";
+jmp[20] = "http://www.raxco.com/worldwide/";
+
+function MakeStringArray(n) 
+  {
+        this.length = n
+        for (var i = 0; i<=n; i++) {
+             this[i] = new String()
+                                   }
+        return this
+  }
+
+ function jump() {
+        pick = document.raxfind.raxfinder.selectedIndex;
+        parent.location = jmp[pick];
+  }
+
+ //-->
+</script>
+
+
+
+
+	<meta name="description" content="As a world leader in providing cutting edge software 
+	solutions, Raxco is highly qualified to help you get the most out of your OpenVMS and 
+	Windows Operating Systems.">
+	
+
+
+
+	<meta name="Keywords" content="Products, defragment, fragmentation, System Resource Management, SRM, PerfectDisk, PerfectDisk NT, PDNT, instaNT, instaNT PRO, enterprise, Remotely Possible, EventAdmin, MultiReg, KeyVision, ER Disk, Virtuosity, Performance Suite, RaxcoSupport, PerfectCache, PerfectFile, PerfectTune, UltraDisk, Contrl, Instructor, Attend, Calout, Window, Framer, RTMon, CarbonCopy, Year 2000, Y2K, workstation, server, SMART Placement, performance, administrator, optimize, RAID, secure, security, license, FAT, NTFS, hardware, software, disk, OpenVMS, Windows, Alpha, VAX, support, workstation, server, download, reseller, register, registration, FAQ, update, service, forum, remote, scheduling, Service Pack, evaluation, registry, ODBC, audit, SQL Server, password, demonstration, Raxco Software, Raxco">
+
+
+
+
+<!-- company yes -->
+
+
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#006699" vlink="#996633" alink="#000000" background="http://www.raxco.com/pics/homebackground.gif">
+
+<table border="0" width="600" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	
+	
+	<td width="472" valign="TOP">
+				
+		
+
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+  <tbody><tr><!-- Shim row, height 1. --> 
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="116" height="1" border="0"></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="15" height="1" border="0"></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="120" height="1" border="0"></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="33" height="1" border="0"></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="60" height="1" border="0"></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="104" height="1" border="0"></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="74" height="1" border="0"></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="69" height="1" border="0"></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="9" height="1" border="0"></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr><!-- row 1 --> 
+    <td rowspan="3" colspan="3"><img name="homelogo2" src="http://www.raxco.com/pics/homelogo2.gif" width="207" height="49" border="0"></td>
+    <td rowspan="5"><img name="midbar" src="http://www.raxco.com/pics/midbar.gif" width="33" height="121" border="0"></td>
+    <td colspan="5">&nbsp;</td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="1" height="24" border="0"></td>
+  </tr>
+  <tr><!-- row 2 --> 
+    <td><a href="http://www.raxco.com/index.cfm"><img name="home" src="http://www.raxco.com/pics/home.gif" width="60" height="22" border="0"></a></td>
+    <td><a href="http://www.raxco.com/company/contact.cfm"><img name="contact" src="http://www.raxco.com/pics/contact.gif" width="104" height="22" border="0"></a></td>
+    <td><a href="http://www.raxco.com/findit/sitemap.cfm"><img name="sitemap" src="http://www.raxco.com/pics/site-map.gif" width="74" height="22" border="0"></a></td>
+    <td><a href="http://www.raxco.com/findit/search/index.cfm"><img name="search" src="http://www.raxco.com/pics/search.gif" width="69" height="22" border="0"></a></td>
+    <td>&nbsp;</td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="1" height="22" border="0"></td>
+  </tr>
+  <tr><!-- row 3 --> 
+    <td rowspan="3" colspan="5" align="right"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="3" color="#666666"><b> 
+        </b></font></div>
+    </td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="1" height="9" border="0"></td>
+  </tr>
+  <tr><!-- row 4 --> 
+    <td colspan="3" valign="bottom"> 
+      <form name="raxfind">
+  <select name="raxfinder">
+          <option>PerfectDisk 2000</option>
+          <option>Windows Products</option>
+          <option>-- PerfectDisk 2000</option>
+          <option>-- PerfectDisk 2000 for Exchange</option>
+          <option>-- RepairDisk Manager</option>
+          <option>-- Personal WorkSaver</option>
+          <option>-- instaNT</option>
+          <option>-- DiskState</option>
+          <option>OpenVMS Products</option>
+          <option>-- Performance Suite</option>
+          <option>-- RaxcoSupport Suite</option>
+          <option>Raxco Home</option>
+          <option>News</option>
+          <option>Press</option>
+          <option>Events</option>
+          <option>Y2K</option>
+          <option>Product Registration</option>
+          <option>Customer Center</option>
+          <option>-- Windows Product Support</option>
+          <option>-- OpenVMS Product Support</option>
+          <option>Raxco Software Worldwide</option>
+        </select>&nbsp;<input type="BUTTON" value="Go" onclick="jump();"></form>
+    </td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="1" height="47" border="0"></td>
+  </tr>
+  <tr><!-- row 5 --> 
+    <td colspan="3"><img name="bar1" src="http://www.raxco.com/pics/bar1.gif" width="251" height="19" border="0"></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="1" height="19" border="0"></td>
+  </tr>
+  <tr><!-- row 6 --> 
+    <td valign="top" align="right">
+      
+<h4><font face="Arial, Helvetica, sans-serif" size="2"><b>
+
+	<a href="http://www.raxco.com/it-executives">IT Executives</a><br>
+	<img src="http://www.raxco.com/pics/dot_yellow.gif" width="110" height="2" vspace="1"><br>
+
+	<a href="http://www.raxco.com/it-professionals">IT Professionals</a><br>
+	<img src="http://www.raxco.com/pics/dot_yellow.gif" width="110" height="2" vspace="1"><br>
+        
+	<a href="http://www.raxco.com/support">Customer Center</a><br>
+	<img src="http://www.raxco.com/pics/dot_yellow.gif" width="110" height="2" vspace="1"><br>
+
+	<a href="http://www.raxco.com/products">Raxco Products</a><br>
+	<img src="http://www.raxco.com/pics/dot_yellow.gif" width="110" height="2" vspace="1"><br>
+        
+	<a href="http://www.raxco.com/partners">Partner Center</a><br>
+	<img src="http://www.raxco.com/pics/dot_yellow.gif" width="110" height="2" vspace="1"><br>
+
+	<a href="http://www.raxco.com/Products/buyit">Buy Now</a><br>
+	<img src="http://www.raxco.com/pics/dot_yellow.gif" width="110" height="2" vspace="1"><br>
+
+        <a href="http://www.raxco.com/Products/downloadit">Free Downloads</a><br>
+        <img src="http://www.raxco.com/pics/dot_yellow.gif" width="110" height="2" vspace="1"><br>
+
+        <a href="http://www.raxco.com/new/index.cfm">Press Room</a><br>
+        <img src="http://www.raxco.com/pics/dot_yellow.gif" width="110" height="2" vspace="1"><br>
+
+        <a href="http://www.raxco.com/company">About Raxco</a><br>
+        <img src="http://www.raxco.com/pics/dot_yellow.gif" width="110" height="2" vspace="1"><br>
+
+        <a href="http://www.raxco.com/company/careers.cfm">Careers</a><br>
+        <img src="http://www.raxco.com/pics/dot_yellow.gif" width="110" height="2" vspace="1"><br>
+
+        <a href="http://www.raxco.com/worldwide">International</a> <br>
+	  <img src="http://www.raxco.com/pics/dot_yellow.gif" width="110" height="2" vspace="1"><br>
+
+        <a href="http://www.raxco.com/products/productpreview">Product Preview</a> <br>
+
+
+       </b></font></h4><p></p>
+      </td>
+    <td valign="top"><img name="vertbar" src="http://www.raxco.com/pics/vertbar-extended.gif" width="15" height="400" border="0"></td>
+<td colspan="7" valign="top" align="left"> 
+		
+
+
+
+
+    
+ 
+
+<h1>Privacy Policy Statement</h1>
+This is the Web site of Raxco Software, Inc. Your privacy is important to us. To better protect your privacy, 
+we provide this notice explaining our online information practices in connection with this Web site and the choices 
+you can make about the way your information is collected and used at this Web site. We can be reached by mail at our 
+postal address (6 Montgomery Village Avenue, Suite 500, Gaithersburg, MD 20871), by e-mail (info@raxco.com), or by telephone (301.527.0803 or 800.836.3844). 
+<p>
+For each visitor to this Web site, our Web server automatically recognizes the consumer's domain name, but generally not the e-mail address. We collect the e-mail addresses of those who communicate with us via e-mail and aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations. We also may collect various types of personally identifiable information that is submitted to us via the Web site. Such information may include name, address, e-mail address, telephone number, fax number, and registration-related information, as well as information about your interests in and use of various programs and services. 
+</p><p>
+We also may collect certain non-personally identifiable information when you visit many of our Web pages, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 2000 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+</p><p>
+We may use the information you provide about yourself to communicate with you, fulfill your requests for products, programs, and services, to respond to your inquiries about our offerings, and to offer you other programs or services that we believe may be of interest to you. 
+</p><p>
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our Web site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you programs or services. 
+</p><p>
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. 
+</p><p>
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above-listed e-mail address. Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above listed address.
+</p><p>
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically for updates to this Privacy Policy. 
+</p><p>
+Consumers can access the information that we have collected from them online and request correction of factual inaccuracies in this information by e-mailing us at the above address and/or following such other procedures as we may post to this Web site from time to time. 
+</p><p>
+With respect to security: we have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our Web site. However, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
+</p><p>
+If you feel that this Web site is not following its stated information policy, you may contact us at the above-listed addresses or phone number.
+
+
+
+
+
+
+	<title>Raxco:Privacy Statement.</title>
+
+     
+      </p></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="1" height="213" border="0"></td>
+  </tr>
+  <tr><!-- row 8 --> 
+    <td colspan="9" align="center"><font face="Tahoma, Arial, Helvetica, sans-serif" color="#666666" size="1"><b>Copyright 
+      © 2000 Raxco Software. All Rights Reserved.</b></font></td>
+    <td><img src="http://www.raxco.com/pics/shim.gif" width="1" height="73" border="0"></td>
+  </tr>
+  <tr><!-- row 9 --> 
+    <td colspan="9" align="center"><font face="Tahoma, Arial, Helvetica, sans-serif" color="#666666" size="1">
+<b><a href="http://www.raxco.com/company/privacy.cfm">Privacy Policy</a></b></font></td>
+  </tr>
+
+</tbody></table>
+
+
+
+
+		
+	</td>
+</tr>
+
+</tbody></table>
+
+
+
+
+
+
+</body></html>
