@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205054136id_/http%3A//upmystreet.com/aboutus/rubric/%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2004-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040212214842id_/http%3A//www.upmystreet.com/aboutus/rubric/%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # UpMyStreet Small print: Privacy policy
 
