@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the santamariatimes.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413042734id_/http%3A//www.santamariatimes.com/about_pccn/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santamariatimes.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202020115id_/http%3A//www.santamariatimes.com/policies/privacy) for the most accurate reproduction.*
 
-# Puliter Central Coast Newspapers - Privacy Policy
+# SantaMariaTimes.com
 
-**PRIVACY POLICY **
+Privacy Policy
 
 Pulitzer Central Coast Newspapers and other services may require you to supply personal information, including your name, e-mail address, physical address and/or other data that enables the recipient to personally identify you during the registration process for subscription to the site or services offered in this site. However, Pulitzer Central Coast Newspapers does not obligate you to supply other personally identifiable information.
 
@@ -16,6 +16,6 @@ Moreover, you should be aware that when you voluntarily disclose personal inform
 
 Following registration, Pulitzer Central Coast Newspapers or our third-party services may employ "cookies" to recognize a subscriber and his or her access privileges on the site and to track site usage. "Cookies" are small text files a web site can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. You should be aware that Pulitzer Central Coast Newspapers cannot control the use of cookies or the resulting information by advertisers or third parties.
 
-**Pulitzer Central Coast Newspapers is not responsible for the content or the privacy policies of Linked Sites. **
+Pulitzer Central Coast Newspapers is not responsible for the content or the privacy policies of Linked Sites.
 
 Pulitzer Central Coast Newspapers reserves the right to change this policy at any time by notifying you of a new privacy statement. You are responsible for regularly reviewing the privacy statements.
