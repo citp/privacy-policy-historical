@@ -1,318 +1,552 @@
-<!--The following is the downloaded HTML source of the wyndham.com privacy policy that was archived on 2002-09-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020916152402id_/http%3A//www.wyndham.com/privacy_policy/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wyndham.com privacy policy that was archived on 2003-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030411131236id_/http%3A//www.wyndham.com/infocontent/privacystatement/info.wnt) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-  <title>Wyndham Hotels &amp; Resorts - Privacy Policy</title>
-  <meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-  <link href="scripts/wyndham.css" rel="stylesheet" type="text/css">
-  <script language="JavaScript" src="scripts/common.js"></script>
-  <script language="JavaScript" src="scripts/error.js"></script>
+<title>
+Wyndham Hotels &amp; Resorts - Privacy Policy
+</title>
 
-  <meta content="MSHTML 5.00.2920.0" name="GENERATOR">
+
+
+
+<link href="/resources/css/wyndham.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="/resources/javascript/common.js">
+</script>
+<script language="JavaScript" src="/resources/javascript/error.js">
+</script>
+
 </head>
 
 
-<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-<!--
-  --Recognized ByRequest Members, who are NOT signed in should be served header_r.inc;  when they sign in, they should be served header_in.inc.
-  --Recognized ByRequest Members, who are corporate and are
-  NOT signed in should be served header_r_corp.inc; when they sign in, they should be
-  served header_in_corp.
-  --Visitors should be served header_nr.inc; when nonrecognized ByRequest members sign in,
-  they should be served header_in.inc.
-  --><!-- HEADER TABLE -->
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" alink="#FF6600">
+
+<table width="740" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>
+
+
+
+<!-- HEADER TABLE -->
 <script language="JavaScript" type="text/javascript">
 <!--
 // setting focus on the first item that was invalid on the form
 var focusItemGS = "";
 var bgColorArrayGS = new Array(); // array for changing background color of invalid items
 var arrayCounterGS = 0;
+var helpPath = this.window.location.pathname; //variable for help feature
 
 function setFocusGS(itemGS) {
-	if (focusItemGS == "") focusItemGS = itemGS;
+    if (focusItemGS == "") focusItemGS = itemGS;
 }
 // Begin form validation
-function validateSearchForm(form)	{
-	if ((document.getElementById) || (document.all)) {
-		for (var loop=0; loop < bgColorArrayGS.length; loop++) {
-			var path = eval("document.headerSearch." + bgColorArrayGS[loop] + ".style");
-			path.backgroundColor = '#FFFFFF';
-		}
-		for (var loop=0; loop < bgColorArrayGS.length; loop++) {
-			bgColorArrayGS[loop] = "";
-		}
-	}
+function validateSearchForm(form)   {
+    if ((document.getElementById) || (document.all)) {
+        for (var loop=0; loop < bgColorArrayGS.length; loop++) {
+            var path = eval("document.headerSearch." + bgColorArrayGS[loop] + ".style");
+            path.backgroundColor = '#FFFFFF';
+        }
+        for (var loop=0; loop < bgColorArrayGS.length; loop++) {
+            bgColorArrayGS[loop] = "";
+        }
+    }
 
 
-		var output = "";
+        var output = "";
 
-		if (!validateAlphaNum(form.searchWord.value,1,30)) {
-				output += "* Search word or phrase\n";
-				setFocusGS(form.searchWord);
-				if ((document.getElementById) || (document.all)) {
-					bgColorArrayGS[arrayCounterGS] = "searchWord";
-					arrayCounterGS += 1;
-				}
-			}
+        if (!validateAlphaNum(form.searchWord.value,1,30)) {
+                output += "* Search word or phrase\n";
+                setFocusGS(form.searchWord);
+                if ((document.getElementById) || (document.all)) {
+                    bgColorArrayGS[arrayCounterGS] = "searchWord";
+                    arrayCounterGS += 1;
+                }
+            }
 
-		//final validation error message
-		if (output != "")
-			{
-				alert("The following information was missing or incorrect:\n\n"+output);
-				focusItemGS.focus();
-				focusItemGS = "";
-				if ((document.getElementById) || (document.all)) {
-					bgColorArrayGS.length = arrayCounterGS;
-					arrayCounterGS = 0;
+        //final validation error message
+        if (output != "")
+            {
+                alert("The following information was missing or incorrect:\n\n"+output);
+                focusItemGS.focus();
+                focusItemGS = "";
+                if ((document.getElementById) || (document.all)) {
+                    bgColorArrayGS.length = arrayCounterGS;
+                    arrayCounterGS = 0;
 
-					//loop through to change background color of incorrect items
-					for (var loop=0; loop < bgColorArrayGS.length; loop++) {
-						var path = eval("document.headerSearch." + bgColorArrayGS[loop] + ".style");
-						path.backgroundColor = '#FFFFCC';
-					}
-				}
-				return false;
-			}
+                    //loop through to change background color of incorrect items
+                    for (var loop=0; loop < bgColorArrayGS.length; loop++) {
+                        var path = eval("document.headerSearch." + bgColorArrayGS[loop] + ".style");
+                        path.backgroundColor = '#FFFFCC';
+                    }
+                }
+                return false;
+            }
 
-		return true;
-	}
+        return true;
+    }
 //  End form validation
+
+//Begin function for setting default option in dropdown context sensitive
+function dropDownDefault() {
+
+  var path = this.window.location.pathname;
+  var arrpath=path.split("/");
+  var cur=arrpath[1];
+//  window.alert("inside selectit and cur is : " + cur);
+  switch (cur){
+
+     case "locator": cur="site";break;
+     case "wbr": cur="wbr";break;
+     case "meetingsandweddings": cur="meetings";break;
+     case "destinationsandinterests": cur="destinationsandinterests";break;
+     case "wotw": cur = "wotw";break;
+     //case "hotels": cur = "thishotel"; break;
+     case "corporate": cur = "corporate";break;
+     //case "help": cur = "help";  break;
+     default: cur="site";
+ }
+
+
+// window.alert("cur after switching is :  " + cur);
+ for (i=0;i < document.headerSearch.searchContext.length;i++) {
+
+//   window.alert(document.headerSearch.searchContext.options[i].value);
+
+   if (cur == document.headerSearch.searchContext.options[i].value) {
+//      window.alert("matched");
+        document.headerSearch.searchContext.options[i].defaultSelected = true;
+
+   } else {
+        document.headerSearch.searchContext.options[i].defaultSelected = false;
+   }
+
+ }
+ document.headerSearch.reset();
+
+}
+
+// end of context sensitive dropdown
+
 // -->
 </script>
 
-<table border="0" cellpadding="0" cellspacing="0" width="740">
-  <tbody>
-  <tr>
-    <td class="nav" valign="top" width="170" rowspan="4"><a href="http://www.wyndham.com"><img title="Wyndham Hotels and Resorts" height="64" alt="Wyndham Hotels and Resorts" src="images/wyndham_logo.gif" width="170" border="0"></a></td>
-    <td><img height="5" src="images/spacer.gif" width="2"></td></tr>
-  <tr>
-    <td class="nav" valign="center"><img height="14" alt="" src="images/arrow_single.gif" width="11" align="absMiddle" border="0"><a href="https://www.wyndham-byrequest.com/WBR/commerce/login.jsp">Sign In</a><img height="1" src="images/spacer.gif" width="10"><a href="https://www.wyndham-byrequest.com/WBR/application/commercewf?origin=main.jsp&amp;event=link(joinWBR)">Join
-      Wyndham ByRequest</a><span class="sm"><sup>SM</sup></span></td>
-    <td valign="top" align="right">
-    <form name="searchForm01" method="post" action="http://www.wyndham.com/sitesearch.cfm">
-
-<img alt="Search" src="images/global_search_label.gif" align="absMiddle" vspace="2" border="0" width="40" height="14">
-        <input size="10" name="sp_q">
-<a href="#" onclick="document.forms['searchForm01'].submit()" onmouseover="document.images['searchGo'].src='images/go_in_box_on.gif'" onmouseout="document.images['searchGo'].src='images/go_in_box.gif'">
-<img src="images/go_in_box.gif" width="36" height="17" border="0" name="searchGo">
-</a>
-    </form></td></tr>
-  <tr>
-    <td class="welcome" valign="top" height="8">&nbsp;</td>
-    <td class="welcome" valign="top" height="8"></td></tr>
-  <tr>
-    <td class="nav" valign="top" height="16">&nbsp;</td>
-    <td class="nav" valign="top" align="right" height="16"><a href="http://www.wyndham.com/contactus.cfm">Contact
-      Wyndham</a><img height="1" src="images/spacer.gif" width="10"><a href="http://www.wyndham.com">Home</a></td></tr></tbody></table><!-- /HEADER TABLE --><!-- GLOBAL NAV TABLE -->
-<table cellspacing="0" cellpadding="0" width="740" border="0">
-  <tbody>
-  <tr>
-    <td><a onmouseover="setImg('nav_rr',IMGOVER)" onclick="setImg('nav_rr',IMGON);" onmouseout="setImg('nav_rr',IMGOFF)" href="http://www.wyndham.com/Rates_Reservations/make_reservation.cfm"><img title="Rates and Reservations" height="32" alt="Rates and Reservations" src="images/nav_rr_off.gif" width="107" border="0" name="nav_rr"></a><a onmouseover="setImg('nav_locate',IMGOVER)" onclick="setImg('nav_locate',IMGON);" onmouseout="setImg('nav_locate',IMGOFF)" href="http://www.wyndham.com/Hotel_Locator/hotellocator.cfm"><img title="Hotel and Resort Locator" height="32" alt="Hotel and Resort Locator" src="images/nav_locate_off.gif" width="105" border="0" name="nav_locate"></a><a onmouseover="setImg('nav_byr',IMGOVER)" onclick="setImg('nav_byr',IMGON);" onmouseout="setImg('nav_byr',IMGOFF)" href="https://www.wyndham-byrequest.com/WBR/index.jsp"><img title="Wyndham ByRequest" height="32" alt="Wyndham ByRequest" src="images/nav_byr_off.gif" width="106" border="0" name="nav_byr"></a><a onmouseover="setImg('nav_so',IMGOVER)" onclick="setImg('nav_so',IMGON);" onmouseout="setImg('nav_so',IMGOFF)" href="http://www.wyndham.com/specials/index.html"><img title="Special Offers" height="32" alt="Special Offers" src="images/nav_so_off.gif" width="105" border="0" name="nav_so"></a><a onmouseover="setImg('nav_mw',IMGOVER)" onclick="setImg('nav_mw',IMGON);" onmouseout="setImg('nav_mw',IMGOFF)" href="http://www.wyndham.com/meetingsandweddings/meetings.cfm"><img title="Meetings and Weddings" height="32" alt="Meetings and Weddings" src="images/nav_mw_off.gif" width="106" border="0" name="nav_mw"></a><a onmouseover="setImg('nav_di',IMGOVER)" onclick="setImg('nav_di',IMGON);" onmouseout="setImg('nav_di',IMGOFF)" href="http://www.wyndham.com/AboutWyndham/resorts.cfm"><img title="Destinations and Interests" height="32" alt="Destinations and Interests" src="images/nav_di_off.gif" width="106" border="0" name="nav_di"></a><a onmouseover="setImg('nav_wotw',IMGOVER)" onclick="setImg('nav_wotw',IMGON);" onmouseout="setImg('nav_wotw',IMGOFF)" href="http://www.wyndham.com/WOTW/default.cfm"><img title="Women On Their Way" height="32" alt="Women On Their Way" src="images/nav_wotw_off.gif" width="105" border="0" name="nav_wotw"></a></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="740">
-  <tbody>
-  <tr><!-- LEFT NAV -->
-    <td valign="top" width="145"><!-- left nav nested table -->
-      <table border="0" cellpadding="0" cellspacing="0" width="145">
-        <tbody>
-        <tr>
-          <td width="10"><img height="10" src="images/spacer.gif" width="10"></td>
-          <td width="5"><img height="1" src="images/spacer.gif" width="5"></td>
-          <td width="5"><img height="1" src="images/spacer.gif" width="5"></td>
-          <td width="125"><img height="1" src="images/spacer.gif" width="125"></td></tr>
-<!-- //////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////
-///////////			 left nav starts here  					///////////
-///////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////// -->
-        <tr>
-          <td><img height="1" src="images/spacer.gif" width="10"></td>
-          <td class="leftnavhdr" colspan="3" valign="top">Privacy Policy</td></tr></tbody></table><!-- left nav nested table --></td><!-- /LEFT NAV --><!-- GUTTER -->
-<!-- //////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////
-///////////			 left nav ends here						///////////
-///////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////// -->
-    <td width="10"><img height="1" src="images/spacer.gif" width="10"></td><!-- /GUTTER --><!-- INNER CONTENT -->
-    <td valign="top"><!-- inner content nested header table -->
-      <table border="0" cellpadding="0" cellspacing="0" width="585">
-        <tbody>
-        <tr>
-          <td valign="top"><img height="5" src="images/spacer.gif" width="2"></td></tr>
-<!-- //////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////
-///////////			 terms of use banner starts here		///////////
-///////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////// -->
-        <tr>
-          <td valign="top"><!-- TAG 16.07--><img alt="Terms of Use" border="0" height="27" src="images/small-header.gif" width="585"><!-- /TAG 16.07--></td></tr></tbody></table><!-- /inner content nested header table --><!-- inner content nested table -->
-      <table border="0" cellpadding="0" cellspacing="0" width="585">
-        <tbody>
-        <tr>
-          <td><img height="15" src="images/spacer.gif" width="2"></td></tr>
-<!-- //////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////
-///////////			 		header 1 starts here  			///////////
-///////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////// -->
-        <tr>
-          <td class="hdrmedium"><!-- TAG 16.08-->Wyndham International, Inc. Privacy Policy<!-- /TAG 16.08--></td></tr>
-        <tr>
-          <td><img height="5" src="images/spacer.gif" width="1"></td></tr>
-        <tr>
-          <td bgcolor="#ff6633"><img height="1" src="images/spacer.gif" width="1"></td></tr>
-        <tr>
-          <td><img height="10" src="images/spacer.gif" width="1"></td></tr>
-<!-- //////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////
-///////////			 text for header 1 starts here  		///////////
-///////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////// -->
-        <tr>
-          <td class="copymedium"><!-- TAG 16.08-->This site is owned and operated by Wyndham
-            International, Inc. Here at Wyndham International, we recognize that many visitors to
-            our Site are concerned about both the information they provide to us and how we treat
-            that information. So we've developed the Privacy Policy described below.
-			We may update or change the Privacy Policy from time to time, so please check in
-			occasionally.<br><br>
-			If you have any questions about our Privacy Policy, you can contact us at:<br>
-			Wyndham International, Inc.<br>
-			1950 Stemmons Freeway<br>
-			Suite 6001<br>
-			Dallas, Texas 75207<br>
-			Attention: Corporate-Legal Department<br>
-			1-214-863-1000<br>
-			Our office is open from 9 a.m. - 5 p.m. Central Time, Monday through Friday. Please feel
-			free to email us anytime by visiting our email box at webmaster@Wyndham.com. We'll be
-			happy to answer your questions or hear your concerns.
- 			<!-- /TAG 16.08--></td></tr>
-        <tr>
-          <td><img height="25" src="images/spacer.gif" width="2"></td></tr>
-<!-- //////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////
-///////////			 		header 2 starts here  			///////////
-///////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////// -->
-        <tr>
-          <td class="hdrmedium"><!-- TAG 16.08-->Our Policy<!-- /TAG 16.08--></td></tr>
-        <tr>
-          <td><img height="5" src="images/spacer.gif" width="1"></td></tr>
-        <tr>
-          <td bgcolor="#ff6633"><img height="1" src="images/spacer.gif" width="1"></td></tr>
-        <tr>
-          <td><img height="10" src="images/spacer.gif" width="1"></td></tr>
-<!-- //////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////
-///////////			 text for header 2 starts here  		///////////
-///////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////// -->
-        <tr>
-          <td class="copymedium"><!-- TAG 16.08-->Wyndham International respects the privacy of every individual who
-visits our Site or responds to our interactive advertisements. At our
-Site, we don't collect personally-identifiable information from
-individuals unless they provide it to us voluntarily and knowingly. We
-don't require you to register or provide information to us in order to
-view our Site. If you register in order to use various features of our
-Site, we use the information you supply for the purpose of providing the
-services you've requested. If you agreed to follow-up contacts by us or
-asked us to be put on our mailing list when you registered, we may also
-contact you from time to time. You can always change your preference for
-follow-up contacts just by emailing us at any time. We don't share any
-personal information you give us with anyone outside of Wyndham
-International. <br><br>
 
 
-			In the email section of our Site, we ask for some personally
-identifiable information, such as your name, address and phone number.
-We use this information only if we need to contact you directly because
-our attempts to contact you by email were unsuccessful. We don't share
-your personal information with anyone outside of Wyndham International.
-We don't use your email address for any purpose other than responding to
-the message you've sent. Wyndham International does not intend to
-collect any personally identifiable information from individuals under
-thirteen years of age. Where appropriate, we will specifically instruct
-children not to submit such information on our websites or
-advertisements. If a child has provided us with personally identifiable
-information, a parent or guardian of that child may contact us at the
-email address or address listed in this Privacy Statement if they would
-like this information deleted from our records and we will use
-reasonable efforts to delete the child's information from our databases. <br><br>
 
 
-			Our Site sometimes includes notices of promotions we are conducting, and
-we may permit you to enter electronically in some cases. If that occurs,
-we will use the information you provide for the purpose of conducting
-the promotion (e.g., to contact you if you're a winner). We don't share
-the information you give us with anyone outside of Wyndham
-International. <br><br>
 
 
-Wyndham treats all customer information as confidential and regularly
-monitors access to such information and its use within Wyndham by its
-employees to ensure that level of privacy described in this Policy is
-maintained. Wyndham has also adopted security measures intended to
-prevent an unauthorized third party such as a hacker from gaining access
-to Wyndham data bases.&nbsp;
-		<!-- /TAG 16.08--></td></tr>
-        <tr>
-          <td><img height="25" src="images/spacer.gif" width="2"></td></tr>
-<!-- //////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////
-///////////			 		header 3 starts here  			///////////
-///////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////// -->
-        <tr>
-          <td class="hdrmedium"><!-- TAG 16.08-->Cookies<!-- /TAG 16.08--></td></tr>
-        <tr>
-          <td><img height="5" src="images/spacer.gif" width="1"></td></tr>
-        <tr>
-          <td bgcolor="#ff6633"><img height="1" src="images/spacer.gif" width="1"></td></tr>
-        <tr>
-          <td><img height="10" src="images/spacer.gif" width="1"></td></tr>
-<!-- //////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////
-///////////			 	text for header 3 starts here  		///////////
-///////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////// -->
-        <tr>
-          <td class="copymedium"><!-- TAG 16.08-->Like most companies, we use "cookie" technology on our Site. When you
-log in, the cookie tells us whether you've visited us before or are a
-new visitor. The cookie doesn't track any personal information about you
-or provide us with any way to contact you, and the cookie doesn't
-extract any information from your computer. <br><br>
+<table width="740" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
 
-Wyndham International uses pixels, or transparent GIF files, to help
-manage online advertising. These GIF files are provided by our ad
-management partner, DoubleClick. These files enable DoubleClick to
-recognize a unique cookie on your Web browser, which in turn enables us
-to learn which advertisements bring users to our website. The cookie was
-placed by us, or by another advertiser who works with DoubleClick. With
-both cookies and Spotlight technology, the information that we collect
-and share is anonymous and not personally identifiable. It does not
-contain your name, address, telephone number, or email address.&nbsp; For
-more information about DoubleClick, including information about how to
-opt out of these technologies, go to <a href="http://www.doubleclick.net/us/corporate/privacy" target="_blank">http://www.doubleclick.net/us/corporate/privacy</a><br><br>
-<!-- /TAG 16.08--></td></tr>
-        <tr>
-          <td><img height="25" src="images/spacer.gif" width="2"></td></tr></tbody></table><!-- /inner content nested table --></td><!-- /INNER CONTENT --></tr></tbody></table><!-- /BODY TABLE --><!-- This file will need some logic so that the Text for the current page
-will be be a link --><!-- FOOTER TABLE -->
-<table cellspacing="0" cellpadding="0" width="740" border="0">
-  <tbody>
-  <tr>
-    <td><img height="30" src="images/spacer.gif" width="1"></td></tr>
-  <tr>
-    <td bgcolor="#999999"><img height="3" src="images/spacer.gif" width="740"></td></tr>
-  <tr>
-    <td><img height="2" src="images/spacer.gif" width="1"></td></tr>
-  <tr>
-    <td bgcolor="#000000"><img height="1" src="images/spacer.gif" width="740"></td></tr>
-  <tr>
-    <td><img height="5" src="images/spacer.gif" width="1"></td></tr>
-  <tr>
-    <td class="nav" style="TEXT-ALIGN: center" align="middle"><a href="http://www.wyndham.com/AboutWyndham/subscriptions.cfm">E-Mail
-      Subscriptions</a><img height="1" src="images/spacer.gif" width="27"><a href="http://www.wyndham.com/Corporate/default.cfm">Corporate
-      Information</a><img height="1" src="images/spacer.gif" width="27"><a href="http://www.wyndham-recruiting.com/">Employment
-      Opportunities</a><img height="1" src="images/spacer.gif" width="27"><a href="http://www.wyndham.com/corporate/franchise.cfm">Franchise
-      Opportunities</a><img height="1" src="images/spacer.gif" width="27"><br><img height="3" src="" width="1"><br>©&nbsp;2002
-      Wyndham International<img height="1" src="images/spacer.gif" width="27"><a href="http://www.wyndham.com/Privacy_Policy/">Privacy
-      Policy</a><img height="1" src="images/spacer.gif" width="27"><a href="http://www.wyndham.com/resorts/Terms/default.asp">Terms of Use</a><br><br></td></tr></tbody></table><!-- /FOOTER TABLE -->
+    
+
+    
+        <td rowspan="5" valign="top" class="nav" width="170"><a href="/main.wnt"><img src="/resources/images/wyndham_logo.gif" name="logo" width="170" height="64" alt="Wyndham Hotels and Resorts" title="Wyndham Hotels and Resorts" border="0"></a></td>
+    
+   <!-- <td colspan="2" width="570"><img src="/resources/images/spacer.gif" width="2" height="5"></td> -->
+</tr>
+
+
+<tr><td><table cellspacing="0" cellpadding="0" width="570" border="0"><tbody><tr>
+
+    
+        <td valign="top" class="nav"><img src="/resources/images/arrow_single.gif" width="11" height="14" alt="" border="0" align="absmiddle"><a href="/wbr/signin.wnt?event=globalSignIn">Sign In</a><img src="/resources/images/spacer.gif" width="10" height="1"><a href="/wbrvisitor/join/join.wnt">Join Wyndham ByRequest<sup>SM</sup></a></td>
+    
+    
+    
+    
+
+    	<td align="LEFT" valign="top" class="nav">&nbsp;</td>
+
+        <td valign="top" align="right" style="text-align: right;"><form name="headerSearch" action="/search/main.wnt" method="post"><img src="/resources/images/search.gif" title="Search" alt="Search" border="0" align="absmiddle" vspace="2">
+
+        <input type="hidden" name="searchContext" value="site">
+        <input type="text" value="" name="searchWord" size="10" maxlength="30"><img src="/resources/images/spacer.gif" width="5" height="1"><a href="javascript:if (validateSearchForm(document.headerSearch)) document.headerSearch.submit();" onmouseover="document.images['HeaderGo'].src='/resources/images/go_header_over.gif';" onmouseout="document.images['HeaderGo'].src='/resources/images/go_header_off.gif';"><img src="/resources/images/go_header_off.gif" align="absmiddle" alt="Go" name="HeaderGo" title="Go" border="0" vspace="2"></a></form></td>
+
+    
+
+</tr></tbody></table></td></tr>
+
+
+<tr><td><table cellspacing="0" cellpadding="0" width="570" border="0"><tbody><tr>
+		
+
+        <td class="nav" valign="top" width="250" align="left">
+		
+        <script language="JavaScript" type="text/javascript" src="/resources/javascript/header0001.js">
+		</script><a href="https://web.archive.org/web/20030412182931/http://www.wyndhamvacations.com"><img src="/resources/images/tile0001.gif" width="180" height="32" border="0" alt=""></a>
+		
+       </td>
+
+        
+
+             <td width="320" align="right" class="nav" valign="bottom" style="text-align: right;">
+        
+        
+        
+
+        
+
+        
+
+        	<img src="/resources/images/spacer.gif" width="10" height="1"><a href="/emailsubscriptions/main.wnt">E-Mail Subscriptions</a>
+            <img src="/resources/images/spacer.gif" width="10" height="1"><a href="/contact/contact.wnt">Contact Wyndham</a><img src="/resources/images/spacer.gif" width="10" height="1"><a href="javascript:openWindow('http://www.wyndham.com/help/main.jsp?url='+helpPath);">Help</a><img src="/resources/images/spacer.gif" width="10" height="1"><a href="/main.wnt">Home</a></td>
+        
+
+
+    
+</tr></tbody></table></td></tr>
+<tr>
+    
+    <td colspan="2" valign="top"><img src="/resources/images/spacer.gif" width="2" height="5"></td>
+</tr> 
+</tbody></table>
+<!-- /HEADER TABLE -->
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+
+
+   	<!-- GLOBAL NAV TABLE -->
+<script language="JavaScript" src="/resources/javascript/common.js"></script>
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+    <td><a href="/rates/main.wnt" onmouseover="setImg('nav_rr',IMGOVER)" onmouseout="setImg('nav_rr',IMGOFF)" onclick="setImg('nav_rr',IMGON);"><img name="nav_rr" src="/resources/images/nav_rr_off.gif" width="107" height="32" alt="Rates and Reservations" title="Rates and Reservations" border="0"></a><a href="/locator/main.wnt" onmouseover="setImg('nav_locate',IMGOVER)" onmouseout="setImg('nav_locate',IMGOFF)" onclick="setImg('nav_locate',IMGON);"><img name="nav_locate" src="/resources/images/nav_locate_off.gif" width="105" height="32" alt="Hotel and Resort Locator" title="Hotel and Resort Locator" border="0"></a><a href="/wbr/member_page.wnt" onmouseover="setImg('nav_byr',IMGOVER)" onmouseout="setImg('nav_byr',IMGOFF)" onclick="setImg('nav_byr',IMGON);"><img name="nav_byr" src="/resources/images/nav_byr_off.gif" width="106" height="32" alt="Wyndham ByRequest" title="Wyndham ByRequest" border="0"></a><a href="/specialoffers/main.wnt" onmouseover="setImg('nav_so',IMGOVER)" onmouseout="setImg('nav_so',IMGOFF)" onclick="setImg('nav_so',IMGON);"><img name="nav_so" src="/resources/images/nav_so_off.gif" width="105" height="32" alt="Special Offers" title="Special Offers" border="0"></a><a href="/meetingsandweddings/main.wnt" onmouseover="setImg('nav_mw',IMGOVER)" onmouseout="setImg('nav_mw',IMGOFF)" onclick="setImg('nav_mw',IMGON);"><img name="nav_mw" src="/resources/images/nav_mw_off.gif" width="106" height="32" alt="Meetings and Weddings" title="Meetings and Weddings" border="0"></a><a href="/destinationsandinterests/main.wnt" onmouseover="setImg('nav_di',IMGOVER)" onmouseout="setImg('nav_di',IMGOFF)" onclick="setImg('nav_di',IMGON);"><img name="nav_di" src="/resources/images/nav_di_off.gif" width="106" height="32" alt="Destinations and Interests" title="Destinations and Interests" border="0"></a><a href="/wotw/main.wnt" onmouseover="setImg('nav_wotw',IMGOVER)" onmouseout="setImg('nav_wotw',IMGOFF)" onclick="setImg('nav_wotw',IMGON);"><img name="nav_wotw" src="/resources/images/nav_wotw_off.gif" width="105" height="32" alt="Women On Their Way" title="Women On Their Way" border="0"></a></td>
+</tr>
+</tbody></table>
+<!-- /GLOBAL NAV TABLE -->
+   	
+  
+   
+   
+   
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<!-- BODY TABLE -->
+<!-- Add logic for home page -->
+<table width="740" border="0" cellspacing="0" cellpadding="0">
+
+    <tbody><tr>
+    <td width="145">
+    </td>
+    <td width="10">
+    </td>
+    <td width="585">
+    </td>
+    </tr>
+
+
+    <tr>
+
+        <td valign="top" width="145"><table width="145" border="0"><tbody><tr>
+        <td width="10"><img src="/resources/images/spacer.gif" width="10" height="20"></td>
+        <td valign="bottom" class="leftnavhdr"><!-- Insert dynamic navigation tag is removed -->Privacy Policy
+        </td></tr></tbody></table></td>
+        <!-- GUTTER -->
+        <td width="10"><img src="/resources/images/spacer.gif" width="10" height="1"></td>
+    <!-- /GUTTER -->
+
+            <!-- page content -->
+
+            <td>
+            
+
+
+
+<!-- Begin include content.html via tag includeContent -->
+
+
+
+
+<!-- INNER CONTENT -->
+	</td><td valign="top" width="585">
+	<!-- inner content nested one-column body table -->
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="5"></td>
+	</tr>
+	<!-- TAG 16.04-->
+	<tr>
+		<td valign="top"><img src="/cms_content/infocontent/privacystatement/images/hdr_privacy_policy.gif" width="585" height="27" alt="Privacy Policy" border="0"></td>
+	</tr>
+	<!-- /TAG 16.04-->
+	
+	
+	
+   
+	
+		
+	
+	
+	<!-- TAG 16.05 required-->
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="25"></td>
+	</tr>
+	
+	<tr>
+		<td valign="top" class="hdrmedium">
+		Wyndham International, Inc. Privacy Policy
+		</td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="5"></td>
+	</tr>
+	<tr>
+		<td valign="top" bgcolor="#FF6633"><img src="/resources/images/spacer.gif" width="2" height="1"></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="10"></td>
+	</tr>
+	
+	
+	
+	<tr>
+		<td class="copymedium">
+		
+			<p>This site is owned and operated by Wyndham International, Inc. Here at Wyndham International, we recognize that many visitors to our Site are concerned about both the information they provide to us and how we treat that information. So we've developed the Privacy Policy described below. We may update or change the Privacy Policy from time to time, so please check in occasionally.
+</p><p>
+If you have any questions about our Privacy Policy, you can contact us at:
+Wyndham International, Inc.
+</p><p>
+</p><center><b>1950 Stemmons Freeway
+<br>Suite 6001
+<br>Dallas, Texas 75207
+<br>Attention: Corporate-Legal Department
+<br>214-863-1000
+</b></center><p></p><p>
+Our office is open from 9 a.m. - 5 p.m. Central Time, Monday through Friday. Please feel free to e-mail us anytime at webmaster@wyndham.com. We'll be happy to answer your questions or hear your concerns.
+</p>
+			
+		
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	
+	<!-- TAG 16.05 required-->
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="25"></td>
+	</tr>
+	
+	<tr>
+		<td valign="top" class="hdrmedium">
+		Our Policy
+		</td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="5"></td>
+	</tr>
+	<tr>
+		<td valign="top" bgcolor="#FF6633"><img src="/resources/images/spacer.gif" width="2" height="1"></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="10"></td>
+	</tr>
+	
+	
+	
+	<tr>
+		<td class="copymedium">
+		
+			<p>Wyndham International respects the privacy of every individual who visits our Site or responds to our interactive advertisements. At our Site, we don't collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. We don't require you to register or provide information to us in order to view our Site. If you register in order to use various features of our Site, we use the information you supply for the purpose of providing the services you've requested. If you agreed to follow-up contacts by us or asked us to be put on our mailing list when you registered, we may contact you from time to time. You can always change your preference for follow-up contacts just by e-mailing us at any time. We don't share any personal information you give us with anyone outside of Wyndham International. 
+</p><p>
+In the e-mail section of our Site, we ask for some personally identifiable information, such as your name, address and phone number. We use this information only if we need to contact you directly because our attempts to contact you by e-mail were unsuccessful. We don't share your personal information with anyone outside of Wyndham International. We don't use your e-mail address for any purpose other than responding to the message you've sent. Wyndham International does not intend to collect any personally identifiable information from individuals under thirteen years of age. Where appropriate, we will specifically instruct children not to submit such information on our Web sites or advertisements. If a child has provided us with personally identifiable information, a parent or guardian of that child may contact us at the e-mail address or mailing address listed in this Privacy Statement if he or she would like this information deleted from our records and we will use reasonable efforts to delete the child's information from our databases. 
+</p><p>
+Our Site sometimes includes notices of promotions we are conducting, and we may permit you to enter electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (e.g., to contact you if you're a winner). We don't share the information you give us with anyone outside of Wyndham International. 
+</p><p>
+Wyndham treats all customer information as confidential and regularly monitors access to such information and its use within Wyndham by its employees to ensure that the level of privacy described in this Policy is maintained. Wyndham has also adopted security measures intended to prevent an unauthorized third party, such as a hacker, from gaining access to Wyndham databases. 
+</p>
+			
+		
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	
+	<!-- TAG 16.05 required-->
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="25"></td>
+	</tr>
+	
+	<tr>
+		<td valign="top" class="hdrmedium">
+		Cookies
+		</td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="5"></td>
+	</tr>
+	<tr>
+		<td valign="top" bgcolor="#FF6633"><img src="/resources/images/spacer.gif" width="2" height="1"></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="10"></td>
+	</tr>
+	
+	
+	
+	<tr>
+		<td class="copymedium">
+		
+			Like most companies, we use "cookie" technology on our Site. When you log in, the cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't track any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. <p></p>
+
+<p>Wyndham International uses pixels, or transparent GIF files, to help manage
+online advertising. These GIF files are provided by our ad management
+partner, Bluestreak. These files enable Bluestreak to recognize a unique
+cookie on your Web browser, which in turn enables us to learn which
+advertisements bring users to our Web site. The cookie was placed by us, or
+by another advertiser who works with Bluestreak. Bluestreak cookies are
+identified only by a numeric ID code, and are never correlated to personally
+identifiable information (your name, address, telephone number, or e-mail
+address).  This information is not specific to an individual user, and is
+used in the aggregate. It should be noted that while cookies reside in a
+browser until they are deleted, Bluestreak only tracks pertinent
+advertising-related user behavior (ex: some users visited a Web site after
+viewing an ad). For more information about Bluestreak,
+including information about how to opt out of these technologies, go to
+<a href="http://bluestreak.com/aboutus_privacypolicy.htm" target="new">http://bluestreak.com/aboutus_privacypolicy.htm</a>.</p>
+
+<p>Wyndham Web pages may contain electronic images known as Web beacons - sometimes called single-pixel GIFs - that allow Wyndham to count users who have visited those pages. Web beacons do not access or capture your personal information; they are a technique we use to compile aggregated statistics about Wyndham Web site usage. You may find more information about Web beacons at the <a href="http://www.networkadvertising.org/" target="new">Network Advertising Initiative</a>.
+
+
+
+			
+		
+		</p></td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	
+	<!-- TAG 16.05 required-->
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="25"></td>
+	</tr>
+	
+	<tr>
+		<td valign="top" class="hdrmedium">
+		Credit Card Security
+		</td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="5"></td>
+	</tr>
+	<tr>
+		<td valign="top" bgcolor="#FF6633"><img src="/resources/images/spacer.gif" width="2" height="1"></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="/resources/images/spacer.gif" width="2" height="10"></td>
+	</tr>
+	
+	
+	
+	<tr>
+		<td class="copymedium">
+		
+			Wyndham values your security and privacy with all online transactions. Wyndham uses secure socket layer (SSL) to protect your personal information. SSL is the industry standard for secure commerce transactions. It prevents your personal information from being read by someone else as it travels across the Internet. All of your personal information is encrypted, including credit card number, name and address.
+
+			
+		
+		</td>
+	</tr>
+	
+	
+	
+	
+	
+	
+	<!-- /TAG 16.05 required-->
+	
+	
+	</tbody></table>
+	<!-- /inner content nested table -->
+</td>
+<!-- /INNER CONTENT -->
+
+ 
+
+
+<!-- End include content.html via tag includeContent -->
+
+
+            
+            <!-- /page content -->
+
+    
+    </tr>
+
+</tbody></table>
+</td>
+</tr>
+
+<!-- /BODY TABLE -->
+
+<tr>
+<td>
+
+
+
+
+
+<!-- This file will need some logic so that the Text for the current page
+will be be a link -->
+<!-- FOOTER TABLE -->
+<table width="740" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+    <td><img src="/resources/images/spacer.gif" width="1" height="30"></td>
+</tr>
+<tr>
+    <td bgcolor="#999999"><img src="/resources/images/spacer.gif" width="740" height="3"></td>
+</tr>
+<tr>
+    <td><img src="/resources/images/spacer.gif" width="1" height="2"></td>
+</tr>
+<tr>
+    <td bgcolor="#000000"><img src="/resources/images/spacer.gif" width="740" height="1"></td>
+</tr>
+<tr>
+    <td><img src="/resources/images/spacer.gif" width="1" height="5"></td>
+</tr>
+<tr>
+    <td class="nav" align="center" style="text-align: center;"><a href="http://www.wyndhampromotions.com/store&#10;">Wyndham Store</a><img src="/resources/images/spacer.gif" width="27" height="1"><a href="/corporate/main.wnt">Corporate Information</a><img src="/resources/images/spacer.gif" width="27" height="1"><a href="http://www.wyndham-recruiting.com/">Employment Opportunities</a><img src="/resources/images/spacer.gif" width="27" height="1"><a href="/corporate/franchise/main.wnt">Franchise Opportunities</a><img src="/resources/images/spacer.gif" width="27" height="1"><a href="/travelagents/main.wnt">Travel Agent Services</a><br><img src="/resources/images/spacer.gif" width="1" height="3"><br>©2003 Wyndham International<img src="/resources/images/spacer.gif" width="13" height="1"><a href="/hoteldir/main.wnt">Wyndham Hotels &amp; Resorts®</a><img src="/resources/images/spacer.gif" width="13" height="1"><a href="/infocontent/privacystatement/info.wnt">Privacy Policy</a><img src="/resources/images/spacer.gif" width="13" height="1"><a href="/infocontent/terms/info.wnt">Terms of Use</a><br><br><a href="/hotels/hotels_for_indexing.jsp"></a></td>
+</tr>
+</tbody></table>
+
+<!--wcap04.wyndham.com-->
+
+
+
+
+<!-- /FOOTER TABLE -->
+</td>
+</tr>
+
+
+</tbody></table>
+
+
+
+
+
+
 </body></html>
