@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202165306id_/http%3A//www.milonic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215909id_/http%3A//www.milonic.com/privacy.php) for the most accurate reproduction.*
 
 # Milonic Solutions Privacy Policy
 
@@ -31,7 +31,7 @@ We may disclose your information if necessary to protect our legal rights or if 
 We use "cookies" to help create a more effective and convenient site experience. By showing us how and when visitors use the site, "cookies" help us determine which areas are popular and which are not. Many improvements and updates to the site are based on data such as total number of visitors and pages viewed. Milonic Solutions does not store any sensitive information in a cookie other than name, email address & web site URL. 
 
 **_CHOICE TO OPT-OUT_**  
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the user. If you would like to opt-out send email to privacy@milonic.com
+Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the user. If you would like to opt-out send email to [privacy@milonic.com](mailto:mmprivacy@milonic.com)
 
 **_OTHER SITES_**  
 This site contains links to other sites. Milonic Solutions is not responsible for the privacy practices or the content of such Web sites.
@@ -40,7 +40,7 @@ This site contains links to other sites. Milonic Solutions is not responsible fo
 By using our site, you agree to this Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. We may change it by posting a new version on our site at any time.
 
 _**REVIEWING PERSONAL DATA**_  
-You can review and validate the information, that we have collected about you by sending email to privacy@milonic.com and requesting a review on your personal data. 
+You can review and validate the information, that we have collected about you by sending email to [privacy@milonic.com](mailto:mmprivacy@milonic.com) and requesting a review on your personal data. 
 
 **_CONTACTING THE WEB SITE_**  
-If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site, you can contact: info@milonic.com
+If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site, you can contact: [info@milonic.com](mailto:mminfo@milonic.com)
