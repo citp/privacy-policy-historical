@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldbar.net privacy policy that was archived on 2000-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000526045044id_/http%3A//goldbar.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldbar.net privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214224700id_/http%3A//www.goldbar.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ This is the website of Goldbar Enterprises™
 Our postal address is:
 
 1858 Pleasantville Rd.  
-Suite 126 PMB  
+Suite 126  
 Briarcliff Manor, NY 10510-1038
 
 We can be reached via email at: **[webmaster@goldbar.net](mailto:webmaster@goldbar.net)**  
@@ -20,13 +20,13 @@ or via fax at: **(212)898-9048**
 For each visitor to our website, our web server automatically recognizes only information regarding their domain not their email address.
 
 Goldbar Enterprises™ maintains a list of "opt-in" subscribers to our newsletter, "The Marketers Resource Weekly". If at any time subscribers decide they no longer wish to receive our newsletter, they may cancel their subscription by contacting us at:  
-[mrw-leave@rentastore.net](mailto:mrw-leave@rentastore.net)
+[webmaster@goldbar.net](mailto:webmaster@goldbar.net?subject=unsubscribe)
 
 Goldbar Enterprises™ maintains a database of contact information (name, postal address, phone number, and email address) for members of our Affiliate Program for the purpose of notifying them about changes or updates to the program.
 
 Goldbar Enterprises™ collects the email addresses of those who communicate with us via email for the purpose of entering into joint ventures, and those who have expressed an interest in our products or services.
 
-Goldbar Enterprises™ utilizes the email addresses we collect to contact parties for followup and marketing purposes. Goldbar Enterprises™ does not share or rent our email or mailing list information with any third parties including other companies or marketers.
+Goldbar Enterprises™ utilizes the email addresses we collect to contact parties for followup and marketing purposes. Goldbar Enterprises™ does not share our email or mailing list information with any third parties including other companies or marketers.
 
 If you do not want to receive email from us in the future, please let us know by sending an email to us at [webmaster@goldbar.net](mailto:webmaster@goldbar.net) telling us that you no longer wish to receive email from our company.
 
@@ -39,10 +39,10 @@ Please always provide us with your exact name, postal address and/or email addre
 Goldbar Enterprises™ will, however, disclose certain information to third parties when it is necessary for the processing of a complaint or if such release is required by law.
 
 **Goldbar Enterprises™  
-1858 Pleasantville Rd. Ste 126 PMB  
+1858 Pleasantville Rd. Ste 126  
 Briarcliff Manor, NY 10510-1038  
 Phone: (212)898-9048  
 Fax: (212)898-9048  
 [webmaster@goldbar.net](mailto:webmaster@goldbar.net)**
 
-**Copyright ©1999, 2000 Goldbar Enterprises™**
+**Copyright ©1999 - 2001 Goldbar Enterprises™**
