@@ -1,27 +1,116 @@
-> *The following text is extracted and transformed from the hawaiianairlines.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207093835id_/http%3A//www.hawaiianair.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawaiianairlines.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211050253id_/http%3A//hawaiianairlines.com/about/privacy.asp) for the most accurate reproduction.*
 
-# About Hawaiian Airlines, Wings of the Islands
+# Hawaiian Airlines : Privacy Policy
 
-Hawaiian Airlines is aware of your right to privacy. When you visit the Hawaiian Airlines web site, you can be confident that any information shared with us will always be treated confidentially and will not be disclosed to anyone outside of Hawaiian Airlines or its Preferred Partners. 
+|   
+  
+  
 
-**E-mail Addresses:**  
-The e-mail addresses provided to Hawaiian Airlines or HawaiianMiles will not be shared with any third parties, except as described below. If you wish to subscribe or unsubscribe from any of Hawaiian Airlines mailing lists or need more information about the mailing list, please call us toll-free at 877-HA-MILES (426-4537). 
 
-**Why Our Responses to Your E-Mail May Be Slow:**   
-We want to provide you with the best possible Customer Service by responding to your concerns and questions in a timely manner. At the moment, due to the high volume of e-mail requests for information, our ability to respond to e-mail in a manner consistent with our service goals is not yet up to speed. If you feel you have not received a response to your inquiry on a timely basis please feel free to write us at the address below. 
+**Last Updated: November 29, 2004**
 
-Hawaiian Airlines -Customer Service   
-Honolulu International Airport  
-P.O. Box 30008  
-Honolulu, HI 96820-0008 
+Hawaiian Airlines respects the importance of protecting your personal information. Please read this Privacy Statement carefully so that you understand what personally-identifiable information we collect through HawaiianAir.com and what we do with that information. 
 
-**Your Hawaiian Airlines PIN (Personal Identification Number):**   
-Your Hawaiian Airlines Membership number is unique to your account and used to identify you and your transactions for record purposes. In addition, you have a personal PIN number that serves as your personal password to your account and is designed to protect your account from unauthorized use. Hawaiian Airlines will not be responsible for any lost, stolen, or otherwise disclosed PIN numbers. Additionally, Hawaiian Airlines will not replace or reinstate any flight credits or HawaiianMiles, partner miles, or program awards that are generated or redeemed by unauthorized PIN use. Accordingly, your PIN number should be guarded and not provided to anyone. 
+  
 
-**Billing Information for Ticketless Travel (E-Tickets) Online:**   
-Any information provided to purchase Tickets or E-Tickets Online (including billing name, billing address, telephone number, fax number, and travel details of the reservation) will not be shared with anyone outside of Hawaiian Airlines nor to any third party, except as described below. Payment information (credit card numbers and expiration dates) is also treated confidentially and will not be shared with anyone outside of the financial institutions used to process payments. 
 
-**Hawaiian Airlines and HawaiianMiles Special Offers:**   
-Hawaiian Airlines may use the name and address information or the e-mail address you provide to send you special offers that we feel may be interesting and useful for you. In some instances, we may provide Customer lists to our Preferred Partners so you can receive special offers or ways to earn HawaiianMiles awards more quickly. Hawaiian Airlines requires our Preferred Partners to ensure safeguards are always in place to protect the privacy of any information we share. We try to be careful in our selection of these Partners to ensure your privacy and the value of their offers. If you wish to be excluded from any such special offers, or have your e-mail address unsubscribed from any electronic offers please contact us toll-free at 877-HA-MILES (426-4537). 
+**THE INFORMATION WE COLLECT**
 
-You should be aware that we require the same safeguards for the information received over the Internet as we do for customer information received by telephone and mail. Only Hawaiian Airlines or our approved Preferred Partners will send you special offers. 
+**Personally-Identifiable Information.**  
+When you book with Hawaiian Airlines, or use HawaiianAir.com to make an online travel reservation, you may be asked by Hawaiian Airlines or an agent on behalf of Hawaiian Airlines to provide certain personally-identifiable information such as your name, billing address, email address, telephone numbers, credit card number, billing information, dietary requirements and health information relevant to your travel. We will also collect the names and email addresses of any companions who will be traveling on the reservation that you create. This information is used by Hawaiian Airlines and its vendors to process and confirm your reservation, issue boarding passes and tickets, bill you for the services you purchase, notify you of any flight changes and cancellations, and notify you and your travel companions of opportunities to enroll in our HawaiianMiles program and of discounted air travel offers and other special offers that we think may be of interest. By providing personally-identifiable information to Hawaiian Airlines you consent to the collection of information provided by you or on your behalf, and to the use and disclosure of that information in accordance with this Privacy Policy. 
+
+  
+
+
+**HawaiianMiles Member Enrollment Information.**  
+When you enroll in our HawaiianMiles program, we collect certain personally-identifiable information such as your name, address, email address, phone numbers, and date of birth. When you enroll, you will also have an opportunity to sign up for Hawaiian Airlines email updates about special discounted air fares, travel specials, Hawaiian Airlines Visa® credit and check card programs, and HawaiianMiles Preferred Partner programs. The information you provide when you enroll is used to establish your HawaiianMiles account and to ensure that you receive appropriate mileage credit for travel purchases and purchases of qualifying products and services from participating Preferred Partners. We will also use this information to communicate with you about your account status, to send you any updates you request and to notify you of special offers and promotions we think may be of interest to you.
+
+On occasion, we may provide contact information for our HawaiianMiles members to certain Preferred Partners so that they can notify you of special offers and ways to earn travel awards through HawaiianMiles. We select our Preferred Partners carefully and require them to establish safeguards to protect the privacy of our customers and the confidentiality of the information we share. If you wish to unsubscribe your email address from the lists that we and our Preferred Partners use to send promotional email offers to HawaiianMiles members, please contact us toll-free at 877-HA-MILES (426-4537). You can also modify your email preferences at any time and subscribe to or unsubscribe from any promotional email update services that we offer by logging into your “My HawaiianMiles” account and accessing our “Email Update/Account Info” page. 
+
+**HawaiianMiles Airlines Passwords and PINs (Personal Identification Numbers).**  
+When you enroll in HawaiianMiles via the Internet, you will be asked to select a password and PIN number. You will also be asked to record the answer to a secret security question that can be used to obtain a temporary password in the event that you forget your password in the future. Your password and PIN are intended to protect your account information from future unauthorized access. Hawaiian Airlines will not be responsible for any lost, stolen, or otherwise disclosed passwords or PINs. Additionally, Hawaiian Airlines will not replace or reinstate any flight credits or HawaiianMiles, partner miles, or program awards that are generated or redeemed through the unauthorized use of your PIN or password. Accordingly, you should guard your password and PIN carefully and not provided them to anyone. 
+
+**Travel Companion and Stored Credit Card Information.**  
+If you enroll in HawaiianMiles, you can choose to establish a personal profile that stores information about your travel companions and the credit cards that you use to book your travel arrangements. This is an optional service and is provided for your convenience. You are not required to store any information in your profile about your travel companions or credit cards to become a HawaiianMiles member or to use our website to make online reservations. However, if you choose to store this information in your profile, you generally will be able to complete the online reservation process more quickly. We use the information you store in your personal profile to pre-populate certain data fields in the online forms we use during the reservation process (so as to eliminate the need for you to retype the same information multiple times), to perform a variety of booking functions, and to bill you for the services that you purchase. When you store travel companion information in your profile, you will be asked to enter the first and last names of your travel companions, information about their age and frequent flyer program enrollment status and account numbers. To store credit card information in your profile, we ask for your credit card type, card number, expiration date, billing address(es) and a credit card “nickname” (e.g., “My Platinum Visa Card”) that you can use to quickly recognize your account. Credit card information is stored in an encrypted form. (See “Security” below for more details regarding our encryption practices.) You can modify, update or delete stored travel companion or credit card information in your profile at any time by logging into your “My HawaiianMiles” account and accessing the “Update a Companion” and/or “Credit Card Info” pages. 
+
+**Group Travel Information.**  
+If you use our website to inquire about the availability of special group fares for wedding parties, organizations, event attendees or other special interest groups, we will ask you to provide certain contact information, including your name, address, email address, and phone and fax numbers, as well as certain details about your organization, wedding or other planned event related to your group air travel needs. We may also ask you to describe any special requests or requirements that you or anyone in your group may have in connection with your group travel plans. We will use this information to evaluate your group air travel needs and to contact you with a fare quote and flight availability information. 
+
+**Travel Agent Registration Information.**  
+If you are a travel agent, you can use our website to register to receive email alerts and other notifications about special fares, commissions and other news. To register for these updates, we will request your ARC/CLIA number and your contact information, including your name, telephone and fax numbers, address, and email address. We will also request information about the nature of your agency, as well as the volume of sales that your agency has generated for Hawaiian Airlines. This information is used to send you the notifications you request and to help us design offers and incentives that are appropriate for you and your agency. 
+
+**Sweepstakes and Other Promotions.**  
+From time to time, we may offer sweepstakes or other promotions on our website. If you enter a sweepstakes or promotional contest, we'll ask you to provide information about yourself (such as your name, address, and email address). Among other things, we'll need this information to contact you if you win and announce the identities of the winners. We may also use this information for marketing purposes. We may share this information with co-sponsors, shipping or fulfillment companies or other third-party service providers who are responsible for some aspects of administering our promotions, such as conducting drawings and/or delivering prizes to winners. If you don't want us to collect the information requested in the contest or sweepstakes registration form, please do not enter the contest or sweepstakes. 
+
+**Email.**  
+Whether or not you enroll in HawaiianMiles, you may be invited to sign up to receive email updates regarding the availability of discounted fares and special offers from Hawaiian and our Preferred Partners. When you register for these email updates, we will collect your email address, zip/postal code and the name of the country where you reside. We will also ask you to select from a menu the types of offers that you wish to receive. We hope that you will find any email updates that you receive to be interesting and valuable. However, it is easy to unsubscribe from any email update service that you request. Each email update you receive will contain instructions on how to unsubscribe from future offers by using a reply email address or hyperlink to an email preferences page on our website. 
+
+**Information Collected Using Cookies.**  
+To help us tailor our website to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a cookie, a very small text file, on our visitors’ hard drives. The cookie contains an ID number that allows us to track the pages you've visited within our website. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. When you access your HawaiianMiles account, we also use a session cookie to authenticate your login information. This cookie will remain on your hard drive until you close your browser window or terminate your user session so that you can enjoy the personalized features of our website without having to reenter your password and PIN. The “help” function on most web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. If you don't accept cookies, you may not be able to take full advantage of various personalized features on our site that are available to other visitors. 
+
+**Information Collected Using Web Tracking and Ad Targeting Technologies.**  
+Hawaiian uses the services of web analytic firms such as WebSideStory® and Atlas DMT™ (formerly Avenue A) to collect and analyze information about user patterns on our website, primarily through the use of cookies and a technology device, commonly known as a Web beacon or an action tag, which we place on various pages within our website. Our web beacons do not collect, gather, monitor or share any personally-identifiable information about our website visitors. Like cookies, the web beacons employed on our site are just tools that we and vendors acting on our behalf use to compile and analyze anonymous information about website usage. We use this information to improve the administration of our website and to provide our visitors with information tailored to their needs. The services provided by Atlas DMT also include serving and targeting some of the advertisements, promotions and other marketing information that you see on the pages of our website. Atlas DMT uses anonymous information about your visits to our website and other websites in order to provide advertisements about goods and services of interest to you. If you would like to learn more about Atlas DMT’s information gathering practices, privacy policy and “opt-out” procedures, please“[click here.](http://www.atlasdmt.com/privacy/anonymous.asp)” If you would like more information about WebSideStory’s information gathering practices, privacy policy and “opt out” procedures, please “[click here.](http://www.websidestory.com/privacy/overview.html)” 
+
+**Browser Level Information.**  
+Our web servers automatically collect limited information about your computer configuration and browsing activity when you visit our site, including the type of browser software that you use, the operating system you're running, the resolution of your computer monitor, the speed of your Internet connection, the website that referred you to our site and/or the search terms you entered into a search engine to reach our site, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) This information is collected and stored in anonymous form and is not linked to your personally-identifiable information. We use this information to make our website as useful as we can for as many users as possible. 
+
+  
+
+
+**DISCLOSURES OF INFORMATION**
+
+**HawaiianMiles Preferred Partners.**  
+As noted above, if you are a HawaiianMiles member, we may share your contact information, including your email address, with our Preferred Partners so that they can notify you of special offers and opportunities to earn miles and awards through the HawaiianMiles program. If you wish to remove your email address from the email lists used by Hawaiian Airlines and our Preferred Partners to send special offers relating to the HawaiianMiles program please contact us toll-free at 877-HA-MILES (426-4537). 
+
+**Third-Party Travel Service Providers.**  
+If you use the “concierge” services offered through our website to book or purchase travel, entertainment or dining services, event tickets, accommodations or other services provided by third parties, information about you, including contact and billing information, will be provided to the applicable third-party service providers to ensure the successful fulfillment of your transaction. 
+
+**Vendors, Contractors and Agents.**  
+Hawaiian Airlines routinely enters into contracts with various vendors, contractors and agents to help us operate our website, process and analyze information on our behalf, conduct other aspects of our business, improve the services that we provide to you, or to offer you convenience services designed to improve your air travel experience with our airline. Some of these vendors, contractors and agents may be given access to personally-identifiable information that we collect from our customers and website visitors to the extent that we deem such access to be necessary or useful for these companies to perform services for Hawaiian Airlines or our customers. 
+
+**Governmental and Law Enforcement Agencies.**  
+Hawaiian Airlines may disclose any personally-identifiable information it collects (whether online or through offline sources) with or without notice to the affected individuals, if required to do so by law or court order, or if requested by a governmental or law enforcement authority in any country, or if such information is sought pursuant to a subpoena or other legal process. 
+
+**Disclosures of Anonymous Information.**  
+We may share anonymous, aggregated information about all of our customers and users with third parties. 
+
+**Other Disclosures.**  
+Hawaiian may also disclose any personally-identifiable information that we collect to perform charge verifications, to report or collect debts owed, or to protect the rights, security or property of Hawaiian, our customers, or others. In the event that Hawaiian Airlines or substantially all of our assets are acquired by another company, the information that we collect from our customers and website visitors would be included among the transferred assets. 
+
+**Cross-Border Transfers of Personally-Identifiable Information.**  
+Hawaiian Airlines has widespread International operations. Accordingly, any or all of the disclosures of personally-identifiable information described in the Privacy Statement may involve the transfer of your information across national and international borders to individuals and organizations located outside of the country where your information was collected. For example, we may transfer your information to any Hawaiian Airlines' office worldwide, and to Hawaiian Airlines' vendors, contractors, agents and third-party travel providers overseas. 
+
+  
+
+
+**SECURITY**
+
+The personally-identifiable information we gather on our website is stored within HawaiianAir.com-controlled databases (or databases operated on our behalf) on servers maintained in protected environments. Passwords and any credit card information you provide to us online are secured for transmission over the Internet using industry-standard secure socket layer (SSL) encryption technology. Prior to being stored, passwords are encrypted using a one-way hash algorithm, and credit card numbers are encrypted using the symmetric algorithm Triple Data Encryption Standard (TripleDES). Although these security measures are robust, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. 
+
+  
+
+
+**UPDATING PERSONALLY-IDENTIFIABLE INFORMATION**
+
+Hawaiian Airlins endeavors to ensure that personally-identifiable information it holds is accurate and up-to-date. You may seek to update your personally-identifiable information held by Hawaiian Airlines by contacting Hawaiian Airlines toll free at 877-HA-MILES (426-4537). 
+
+  
+
+
+**ACCESS TO PERSONALLY-IDENTIFIABLE INFORMATION**
+
+To make a request to access any personally-identifiable information about you that Hawaiian Airlines holds, you should contact Hawaiian Airlines at PO Box 3008, Honolulu, HI 96820. Hawaiian Airlines may require you to verify your identity and to specify what information you require. Hawaiian Airlines reserves the right to charge a fee to cover the cost of verifying applications and locating, retrieving, reviewing and copying any material requested. There are certain circumstances in which Hawaiian Airlines will refuse a request for access to personally-indentifiable information, including if the request would have an unreasonable impact on the privacy of others. If Hawaiian Airlines refuses your request for access to your personally-identifiable information, Hawaiian Airlines will provide reasons for the refusal. Hawaiian Airlines will also provide reasons for a refusal to correct your personal information. 
+
+  
+
+
+**LINKS**
+
+Our website contains links to other sites. Please be aware that we are not responsible for the content of those sites or for the privacy practices of their owners. We encourage you to read the privacy statements of each site that collects information from you. This Privacy Statement applies solely to information collected by Hawaiian Airlines on HawaiianAir.com. 
+
+  
+
+
+**CHANGES TO THIS PRIVACY STATEMENT**
+
+The Web is an evolving medium. We reserve the right to modify this Privacy Statement at any time without notice. If we change our Privacy Statement at some point in the future, we’ll post the amended statement on this website and will update the effective date of this Privacy Statement to reflect the effective date of the amendment. Any changes will apply to all information collected by Hawaiian Airlines, including previously-collected information. If you have any questions about this Privacy Statement, please contact us at [**webmaster@hawaiianair.com**](mailto:webmaster@hawaiianair.com). 
