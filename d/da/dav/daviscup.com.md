@@ -1,19 +1,34 @@
-> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604102035id_/http%3A//www.daviscup.com/scripts/dcpage.dll%3Fpid%3D525%26org%3D530%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212013422id_/http%3A//www.daviscup.com/dc1/525.shtm) for the most accurate reproduction.*
 
-# Welcome to the Official Davis Cup website
+# Welcome to the Official Davis Cup Website
 
-|   
+| World Group:    
+---  
+[FRA - USA ](https://web.archive.org/dc1/Teams100002988.shtm)  
+[RUS - ARG ](https://web.archive.org/dc1/Teams100002989.shtm)  
+Qualifying Round:    
+[AUS - IND ](https://web.archive.org/dc1/Teams100003009.shtm)  
+[ZIM - BEL ](https://web.archive.org/dc1/Teams100003010.shtm)  
+[BRA - CAN ](https://web.archive.org/dc1/Teams100003011.shtm)  
+[GER - VEN ](https://web.archive.org/dc1/Teams100003012.shtm)  
+[GBR - THA ](https://web.archive.org/dc1/Teams100003013.shtm)  
+[FIN - NED ](https://web.archive.org/dc1/Teams100003014.shtm)  
+[SVK - ROM ](https://web.archive.org/dc1/Teams100003015.shtm)  
+[MAR - SUI ](https://web.archive.org/dc1/Teams100003016.shtm)  
+[Zonal Groups ](https://web.archive.org/dc1/260.shtm)  
+[Team Search ](https://web.archive.org/dc1/230.shtm)  
+[Player Search ](https://web.archive.org/dc1/235.shtm)  
 ---  
 | [](https://web.archive.org/) |  |   
 |  |  |  |  |  |  |  |  |   
-  | Semifinals 2002 |  |  |  |  |  |  |  |    
+  | an ITF event |  |  |  |  |  |  |  |    
 |  |  |  |  |  |  |  |  |   
 |  |   |   |   |   |   |   
 ---|---|---|---|---|---|---  
 |   |  
 
   > Privacy Policy  
-> [Terms & Conditions](https://web.archive.org/scripts/dcpage.dll?pid=530&)
+> [Terms & Conditions](https://web.archive.org/dc1/530.shtm)
 
 |   | 
 
@@ -69,7 +84,7 @@ A cookie is a piece of information that is stored on your computer's hard drive 
 |   |   |   | < Top |   |   
 |   |   |   |   |   |   
 |  |  |  |  |  |   
-|   | [](https://web.archive.org/dc1/545.shtm) | [](https://web.archive.org/dc1/550.shtm) |   |   
-Davis Cup is an [](http://www.itftennis.com/) event. © Copyright 2002 by ITF Licensing (UK) Ltd.. All rights reserved. No portion of daviscup.com may be duplicated, redistributed or manipulated in any form. By accessing any information beyond this page, you agree to abide by the daviscup.com [Privacy Policy](https://web.archive.org/dc1/525.shtm) and [Terms and Conditions](https://web.archive.org/dc1/530.shtm). |    
+|   | [](https://web.archive.org/scripts/dcpage.dll?pid=545&) | [](https://web.archive.org/scripts/dcpage.dll?pid=550&) |   |   
+Davis Cup is an [](http://www.itftennis.com/) event. © Copyright 2002 by ITF Licensing (UK) Ltd.. All rights reserved. No portion of daviscup.com may be duplicated, redistributed or manipulated in any form. By accessing any information beyond this page, you agree to abide by the daviscup.com [Privacy Policy](https://web.archive.org/web/20021212013422id_/http%3A//www.daviscup.com/scripts/dcpage.dll?pid=525&org=530&) and [Terms and Conditions](https://web.archive.org/web/20021212013422id_/http%3A//www.daviscup.com/scripts/dcpage.dll?pid=530&org=525&). |    
 ---|---|---|---|---|---  
   |   |   |   |   |  
