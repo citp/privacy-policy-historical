@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2000-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001009162619id_/http%3A//www.baja.com/dialog/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604053227id_/http%3A//www.baja.com/dialog/privacy.html) for the most accurate reproduction.*
 
 # baja.com / our privacy policy
 
 **Privacy Statement** _please read **.**_         [no quiero](http://www.baja.com/)
 
-This privacy statement is applicable to **baja.com** , baja.com.mx,  
-bajacalifornia.com, bajaindex.com, searchbaja.com and busca.com  
+This privacy statement is applicable to **baja.com** and its  
+aliases: bajacalifornia.com, bajacaliforniasur.com and baja.com.mx  
 
 
 **baja.com** does not collect personally identifiable information about individuals  
