@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the submit.biz privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204103958id_/http%3A//www.submit.biz/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submit.biz privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403222215id_/http%3A//www.submit.biz/privacy.shtml) for the most accurate reproduction.*
 
-# search engine promotion by Submit.biz
+# web promotion by submit.biz
 
-Web Promotion, Submit.biz and Worldwide Marketing strongly believes in protecting consumer privacy. This statement describes the privacy practices for the Worldwide-Marketing Web sites: 
+Submit.biz and Worldwide Marketing strongly believes in protecting consumer privacy. This statement describes the privacy practices for the Worldwide-Marketing Web sites: 
 
-If you have questions or concerns regarding this statement, [ mail@worldwidemarketing.co.uk](mailto:mail@worldwidemarketing.co.uk)
+If you have questions or concerns regarding this statement, [ click here](mailto:admin@submit.biz?subject=Questions)
 
 **1\. What information do we gather and track, and what do we do with it?**
 
@@ -55,17 +55,17 @@ We provide the following options for changing and updating information you previ
 
   * Contact us using the contact form or email us with your new details. 
   * Send a letter to our postal address:  
-Dept. Submit.biz  
+Dept. submit.biz  
 Worldwide Marketing  
-70 Eastern Avenue  
-Pinner  
-Middlesex  
-HA5 1NJ  
+Silver Birches  
+Bendarroch Road  
+Ottery St Mary  
+EX11 1TS  
 England. 
-  * Call us on: (44) 0845 644 6510  
-Fax us on: (44) 0870 7 620 450    
+  * Call us on: (44) 0845 058 0561 - lo-call rate number  
+Fax us on: (44) 0870 737 9182    
 Hours of Business (GMT time zone)  
-Mon - Fri: 9:30am till 6:30pm
+Mon - Fri: 9:30am till 5:30pm
   * We will make any amendments requested within approximately 10 working days of their receipt. 
 
 
@@ -74,11 +74,11 @@ Mon - Fri: 9:30am till 6:30pm
 
 This web site is operated by:  
 Worldwide Marketing  
-70 Eastern Avenue  
-Pinner  
-Middlesex  
-HA5 1NJ  
-England  
+Silver Birches  
+Bendarroch Road  
+Ottery St Mary  
+EX11 1TS  
+England.  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with our company, please do not hesitate to contact us using our contact form, email us or write to the above address, please include the web site address. You can also use this address if you wish to request from Worldwide-Marketing a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
 
 
