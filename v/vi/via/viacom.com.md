@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viacom.com privacy policy that was archived on 1998-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19981203032559id_/http%3A//www.viacom.com/privacy.tin) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viacom.com privacy policy that was archived on 2000-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000511060219id_/http%3A//www.viacom.com/privacy.tin) for the most accurate reproduction.*
 
 # Privacy Policy
 
