@@ -1,0 +1,519 @@
+<!--The following is the downloaded HTML source of the americanfidelity.com privacy policy that was archived on 2003-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031212093303id_/http%3A//www.americanfidelity.com/privacypolicy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><script language="Javascript">
+	NumberCheck = "0123456789"
+	doubleCheck = "0123456789."
+	StrCheck = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+	SpaceCheck = " "
+	OtherCheck = "<,>.?/:;{[}[|\!@#$%^&*()_-+="
+	UserCheck = ".@_-"
+	
+if (document.layers) {
+  visible = 'show';
+  hidden = 'hide';
+} else if (document.all) {
+  visible = 'visible';
+  hidden = 'hidden';
+} else {
+  //	alert('no layers or all found');
+}
+
+function popUp(url) {
+  sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=600,height=450');
+  self.name = "mainWin"; 
+}
+
+//<!--
+function EndSession() {
+	if (confirm("Do you want to end this session?"))
+		window.location= "https://secure.web-loans.com/security/securelo.asp";
+}
+
+function setFocus(iname) {
+	if (iname!='')
+		document.forms[0].elements[iname].focus();
+}
+
+function SetIncome(IncomeType,Income) {
+	if (IncomeType.selectedIndex == 0)
+		Income.value = formatNum(Income.value / 12,2);
+	else if (IncomeType.selectedIndex ==1)
+		Income.value = formatNum(Income.value,2);
+	else if (IncomeType.selectedIndex == 2)
+		Income.value = formatNum(Income.value * 54 /12, 2);
+	IncomeType.selectedIndex = 1;	 
+}
+
+function formatNum (expr, decplaces) {
+  return parseInt(expr)
+}
+
+function goQualify(form) {
+	window.location.href="/loancenter/qualify";
+}
+
+function ChangeCriteria() {
+	window.location.href="psummary.asp";
+}
+
+function parseAmount(form) {
+}
+
+function redirect(location) {
+	window.location.href=location;
+}
+
+function goNext(nextpage) {
+	if (nextpage != "")
+	document.forms[0].NextPage.value= nextpage;
+	document.forms[0].submit()
+}
+
+function goBack() {
+	history.back();
+}
+
+function ChangeFlag(form) {
+	form.Changed.value	=	1;
+}	
+
+function IsEmptyValue(form)
+{
+	var form=document.forms[0]
+	for (i=0 ; i < form.elements.length;i++) {	
+		if (form.elements[i].type=="text") {
+			if ((form.elements[i].value =="") || (form.elements[i].value <0))	{
+				form.elements[i].focus()
+				form.elements[i].value=0;
+				alert("The values must be greater than 0!" );
+				return true;
+				break;
+			}		
+		}
+	}
+	return false;
+}
+
+
+function CheckZero(field) {
+	if (parseInt(field.value)==0) {
+		field.value = 0;
+	}
+}
+
+function numFormat(field) {
+	var lFind;
+	var szBuf = field.value;
+
+	lFind = szBuf.indexOf("k",0);
+	if (lFind !=-1) {
+	}
+	field.value=szBuf;
+	fvalue = parseFloat(cleanNumber(szBuf)); //kick out $ , %; returns a numerical value equal to the number or Nan
+	if (0 > fvalue) {
+		field.value= 0;
+		alert("You may have entered an invalid value. Please try again.")
+		field.focus();
+		return 0;
+	}
+	if (isNaN(fvalue)) {
+		field.value= '';
+		field.value = 0;
+	} else {
+		field.value = fvalue;
+	}
+	return 1;
+}
+
+function numFormat1(field) {
+	dbCheck(field, NumberCheck);
+}
+
+function cleanNumber(strNum) {
+	if (!strNum) return strNum;
+	strNum = replace(strNum, '$', '', 0);
+	strNum = replace(strNum, ',', '', 0);
+	strNum = replace(strNum, '%', '', 0);	
+	return strNum;
+}
+
+function replace(szBuf, szFind, szReplace, lStart) {
+	var lFind = 0;
+	if (!lStart) lStart = 0;
+	
+	while (lFind != -1) {
+		lFind = szBuf.indexOf(szFind, lStart);
+		if (lFind != 0 &&(lFind == '' || lFind == null)) lFind = -1;
+		if (lFind != -1) {
+			szBuf = szBuf.substring(0,lFind) + szReplace + szBuf.substring(lFind + szFind.length);
+			lStart = lFind + szReplace.length;
+		}
+	}
+	return szBuf;
+}
+
+
+function validateInputValue(field) {
+	if (field.value == "") {
+		field.focus();
+		document.forms[0].Valid.value=0;
+		return 0;
+	}
+	fvalue = parseInt(cleanNumber(field.value));
+	if (isNaN(fvalue) || field.value <= 0) {
+		field.focus();
+		document.forms[0].Valid.value=0;
+		return 0;
+	}
+	field.value = fvalue;
+	document.forms[0].Valid.value=1;
+	return 1;
+}
+
+function OpenWin(page,width,height) {
+	var test;
+	window.open(page,"","resizeable,width=" + width + ",height=" + height + ",scrollbars");
+}
+//-->
+
+function trim(str) {
+	if (str.length==0) {return "";} 
+	while (str.charAt(0)==" ")
+	     {str=str.substring(1,str.length);} 
+	while (str.charAt(str.length-1)==" ")
+	     {str=str.substring(0,str.length-1);}
+  return str;      
+}
+
+function IsNumeric(str) {
+	str = document.forms[0].elements[str].value;
+	str=trim(str);
+	var ch, i
+  for ( i=0; i < str.length; i++) {
+		ch = str.substring(i, i+1)
+		if( ch < "0" || ch > "9")
+		  return;
+  }
+  return true;
+}        
+
+function SubmitForm() {
+	form = document.forms[0];
+	form.submit();
+}
+
+function Submit(nextpage) {
+	if (ValidateSubmit()) {
+		form = document.forms[0];
+		form.NextPage.value=nextpage;
+		form.submit();
+	}	
+}
+
+function SubmitAndLogoff() {
+	if (ValidateForm()) {
+		if (confirm("Clicking 'OK' will save the information on \nthis page and log you out of the system.\n\nTo return to the loan application, click 'Cancel'.")) {	
+			form = document.forms[0];
+			form.logoff.value = 1;
+			form.submit();
+		}	
+	}	
+}
+
+function SubmitApp(sNextPage) {
+	var d = document.ApplyLoan;	
+
+	if (ValidateForm()) {
+		if (confirm("The loan application has additional screens.\nClicking 'OK' will immediately submit your application to be reviewed.\n\nTo continue filling out the loan application, click the 'Cancel' button.")) {
+			d.NextPage.value = sNextPage;
+			SubmitMe();
+		}
+	}
+}
+
+function SubmitApp2(sNextPage) {
+	var d = document.ApplyLoan;	
+
+	if (ValidateForm()) {
+		d.NextPage.value = sNextPage;
+		SubmitMe();
+	}
+}
+
+function ValidateSubmit() {	
+	var cntpage = document.ApplyLoan.cntpage.value;
+	if(cntpage == "qual_input") {
+		dbCheck(document.ApplyLoan.Income, doubleCheck);
+		dbCheck(document.ApplyLoan.Debt, doubleCheck);
+		dbCheck(document.ApplyLoan.Interest, doubleCheck);
+		dbCheck(document.ApplyLoan.Term, doubleCheck);
+		dbCheck(document.ApplyLoan.UserDownPaymentPct, doubleCheck);
+		dbCheck(document.ApplyLoan.PropertyTax, doubleCheck);
+		dbCheck(document.ApplyLoan.PropertyIns, doubleCheck);
+		if((document.ApplyLoan.Income.value == 0)||(document.ApplyLoan.Income.value == ""))	{
+			alert('Please fill in your Total Monthly Income before continuing.');
+			document.ApplyLoan.Income.focus();
+			return false;
+		}	
+		if((document.ApplyLoan.Debt.value == ""))	{
+			document.ApplyLoan.Debt.value == 0;	//put 0 to directly if empty
+		}	
+		if((document.ApplyLoan.Interest.value == 0)||(document.ApplyLoan.Interest.value == ""))	{
+			alert('Please fill in an Interest Rate before continuing.');
+			document.ApplyLoan.Interest.focus();
+			return false;
+		}	
+		if((document.ApplyLoan.Term.value == 0)||(document.ApplyLoan.Term.value == ""))	{
+			alert('Please fill in a Loan Term before continuing.');
+			document.ApplyLoan.Term.focus();
+			return false;
+		}	
+		if((document.ApplyLoan.UserDownPaymentPct.value == 0)||(document.ApplyLoan.UserDownPaymentPct.value == ""))	{
+			alert('Please fill in a Down Payment % before continuing.');
+			document.ApplyLoan.UserDownPaymentPct.focus();
+			return false;
+		}	
+		if((document.ApplyLoan.Income.value - document.ApplyLoan.Debt.value) <= 0) {
+			alert('Your Monthly Debt Payments are not allowed to be greater than your Monthly Income.');
+			document.ApplyLoan.Debt.focus();
+			return false;
+		}
+		if(document.ApplyLoan.Interest.value >= 100) {
+			alert('Interest Rate should be between 0 and 100!');
+			document.ApplyLoan.Interest.focus();
+			return false;
+		}
+		if(document.ApplyLoan.Term.value > 40) {
+			alert('Term in Years is too long!');
+			document.ApplyLoan.Term.focus();
+			return false;
+		}
+		if(document.ApplyLoan.UserDownPaymentPct.value >= 100) {
+			alert('Down Payment % should be between 0 and 100!');
+			document.ApplyLoan.UserDownPaymentPct.focus();
+			return false;
+		}
+	}
+	return true;
+}
+
+function EmailTest(Ctrl, msg) {
+	atsign = 0;  dot = 0;  valid = true;
+  for (i=0; i < Ctrl.value.length; i++) {
+    letter = Ctrl.value.charAt(i);
+    if(letter == "@") { atsign++; }
+    if(letter == ".") { dot++; }
+    if(letter == "'") { valid=false; }
+    if(letter == ",") { valid=false; }
+ 	}
+  if(atsign != 1){ valid = false; }
+  if(dot == 0){ valid = false; }
+  if(Ctrl.value.length < 5) { valid = false; }
+  if(valid == false) {
+  	alert("Please enter a valid e-mail address for the borrower");
+  	document.ApplyLoan.bemail[0].focus();
+		return false;
+	} else {
+  	return true;
+  }
+}
+
+function dbCheck(Ctrl, strCheck) {
+	newstr = "";
+	for (i=0; i<Ctrl.value.length; i++)	{
+		letter = Ctrl.value.charAt(i);
+		if(isValid(letter, strCheck)) {
+			newstr = newstr + letter
+		}
+	}
+	Ctrl.value = newstr
+}
+
+function isInvalidOfUser(User, strCheck) {
+	for (i=0; i<User.length; i++) {
+		letter = User.charAt(i);
+		if(!(isValid(letter, strCheck))) {
+			return true;
+		}
+	}
+	return false;	
+}
+
+function isValid(letter, strCheck) {
+	valid = true;
+	if(strCheck.indexOf(letter, 0) == -1)	{
+		valid = false;
+	}
+	return(valid)
+}
+
+function PopUpURL() {
+	window.open('https://digitalid.verisign.com/as2/bb6dd4bb92b28d7caa3590337f5566f0');
+	return;
+}
+
+function calcincome(FrmObj) {
+	var IncomeTotal
+	for(i=0;i<4;i++) {
+		Ivalue = document.ApplyLoan.L113[i].value;
+		if(isNaN(Ivalue))	{
+			Ivalue = 0;
+		}
+		Ivalue = parseFloat(Ivalue);
+		IncomeTotal += Ivalue;
+		alert(IncomeTotal);
+	}	
+	FrmObj.value = IncomeTotal;
+}
+
+function reveal(menu, parent) {
+  if (document.layers) {
+    daMenu = document.layers[menu];
+		daMenup = document.layers[parent];
+  } else if (document.all) {
+    daMenu = document.all(menu).style;
+		daMenup = document.all(parent).style;
+  }
+  if (daMenu.visibility == visible) {
+    daMenu.visibility = hidden;
+		daMenup.visibility = visible;
+  } else {
+    daMenu.visibility = visible;
+		daMenup.visibility = hidden;
+  }
+  valid = false;
+  return valid;
+}
+
+function GoNav(page) {
+	window.location = page
+}
+
+function update_frame(myoptions) {
+	destination = myoptions[myoptions.selectedIndex].value;
+	if (destination == "null") {
+		return true;
+	}
+	window.open(destination, '_top');
+	myoptions.selectedIndex = 0;
+	return true;
+}
+
+function logoff() {
+	var agree
+	agree = confirm('Are you sure you wish to logoff?');
+	if(agree == true)	{
+		alert('Thank you for applying.\n\nYour sessions has been terminated.');
+		window.location.href = "http://www.hpgonline.com";
+		return agree;	
+	} else {
+		alert('Ok, you have not been logged off.');
+		return agree;	
+	}
+}
+
+</script>
+
+
+
+<title>American Fidelity, Inc. - Resources</title>
+<link rel="STYLESHEET" type="text/css" href="../images/5/scripts/styles.css">
+<script src="../images/5/scripts/top.js"></script>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0">
+
+<!----------------------------- MAIN NAV HERE -------------------------------------->
+<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="650">
+  <tbody><tr>
+    <td align="center">
+      <table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="650">
+			   <tbody><tr>
+				   <td>
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td valign="center" align="left">
+<img src="/files/0/4/04e96f50f0d4fd4cc46de61ad158b30e/11370-banner.gif"><br>
+</td></tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td valign="TOP" width="61">
+<table width="612" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><img src="/images/5/top/left.gif" width="93" height="56"></td>
+<td><a href="http://www.americanfidelity.com"><img border="0" src="/images/5/top/home-x.gif"></a></td>
+<td><a href="http://www.americanfidelity.com/loancenter/default.asp"><img border="0" src="/images/5/top/loan.gif" onmouseover="change('loan','on')" onmouseout="change('loan','off')" name="loan"></a></td>
+<td><a href="http://www.americanfidelity.com/prod_serv/default.asp"><img border="0" src="/images/5/top/products.gif" onmouseover="change('products','on')" onmouseout="change('products','off')" name="products"></a></td>
+<td><a href="http://www.americanfidelity.com/company/default.asp"><img border="0" src="/images/5/top/about.gif" onmouseover="change('about','on')" onmouseout="change('about','off')" name="about"></a></td>
+<td><a href="http://www.americanfidelity.com/faq/default.asp"><img border="0" src="/images/5/top/faq.gif" onmouseover="change('faq','on')" onmouseout="change('faq','off')" name="faq"></a></td>
+<td><a href="http://www.americanfidelity.com/resources/default.asp"><img border="0" src="/images/5/top/resources.gif" onmouseover="change('resources','on')" onmouseout="change('resources','off')" name="resources"></a></td>
+<td><img src="/images/5/top/right.gif" width="31" height="56"></td></tr></tbody></table>
+</td></tr></tbody></table>
+<!----------------------------- MAIN NAV ENDS -------------------------------------->
+
+<table border="0" cellpadding="0" cellspacing="0" width="612">
+<tbody><tr>
+
+<!----------------------------- LEFT NAV HERE -------------------------------------->
+<td valign="TOP" width="156" background="/images/5/x-dot.gif"><table width="156" border="0" cellpadding="0" cellspacing="0"> <tbody><tr><td><img src="/images/5/left/top.gif" width="156" height="86"></td></tr> <tr><td><a href="https://secure.web-loans.com/loancenter/apply/secure.asp?p=7&amp;u=www.americanfidelity.com"><img src="/images/5/left/myaccount.gif" width="92" height="22" border="0"></a><a href="https://secure.web-loans.com/loancenter/apply/secure.asp?p=7&amp;u=www.americanfidelity.com"><img src="/images/5/left/login.gif" width="64" height="22" border="0"></a></td></tr> <tr><td><img src="/images/5/left/space.gif" width="156" height="6"></td></tr> <tr><td>   <a href="https://secure.web-loans.com/loancenter/apply/secure.asp?u=www.americanfidelity.com">     <img src="/images/5/left/applynow.gif" width="156" height="23" border="0">   </a> </td></tr> <tr><td><img src="/images/5/left/space.gif" width="156" height="9"></td></tr> <tr><td>   <a href="https://secure.web-loans.com/loancenter/apply/secure.asp?p=2&amp;u=www.americanfidelity.com">     <img src="/images/5/left/contactus.gif" width="156" height="23" border="0">   </a> </td></tr> <tr><td><img src="/images/5/left/space.gif" width="156" height="9"></td></tr> <tr><td align="center"><table width="134" border="1" bordercolor="#9B9BBD" bordercolordark="#BBBBBB" cellpadding="8" cellspacing="0"><tbody><tr><td background="/images/5/x-box.gif" valign="middle" align="left" class="tinyprint"><!-- BEGIN BOTTOM GRID CONTENT -->December 11, 2003<br><br>FIXED<br>5.625% 30 yr.<br>(APR 5.871%)<br><br>5.250% 30 yr. (2.041 discount points)<br>(APR 5.511%)<br><br>4.875% 15 yr.<br>(APR 5.133%)<br><br>4.500% 15 yr. (2.186 discount points) <br>(APR 4.773%)<br><br>(All rates are based on 100,000 loan amount, 70% maximum cash-out refinancing, 95% maximum rate/term refinancing or purchasing, on single family residences only. Discount point buydowns are quoted for 15 day locks. Rates may vary with term changes.)<br><br>ARM<br>3.125% 1 yr.<br>4.000% 3 yr.<br>4.500% 5 yr.<br>5.000% 7 yr.<br><br>JUMBO<br>5.875% 30 yr. Fixed<br>5.250% 15 yr. Fixed<br><br>FHA &amp; VA<br>5.625% 30 yr. Fixed<br>5.000% 15 yr. Fixed<br><br>Short term rate trends (1-2 weeks) Rising<br>Long term rate trends (2-6 weeks) Rising<br><br>Rates can change at anytime of the day.<br>Rates good for specified day only!<!-- END BOTTOM GRID CONTENT --></td></tr></tbody></table></td></tr></tbody></table></td>
+<!----------------------------- LEFT NAV ENDS -------------------------------------->
+
+<td valign="TOP" width="456">
+<!----------------------------- MAIN CONTENT HERE -------------------------------------->
+
+<table width="456" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td rowspan="5">
+			<img src="../images/x.gif" width="15"></td>
+		<td height="15">
+			<img src="../images/x.gif" width="428" height="15"></td>
+		<td rowspan="5">
+			<img src="../images/x.gif" width="13"></td>
+	</tr>
+	<tr>
+		<td><!-- HEADER IMAGE HERE -->
+			<img src="../images/5/main/lc-privacypolicy.gif" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td height="15">
+			<img src="../images/x.gif" width="428" height="15"></td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<img src="../images/x.gif" width="1" height="438" align="right">
+			<!-- MAIN CONTENT HERE -->
+			<span class="content">
+    1.  We collect nonpublic personal information about you from the following sources:<br><br>-  Information we receive from you on applications or other forms;<br><br>-  Information about your transactions with us, our affiliates, or others; and<br><br>-  Information we receive from a consumer reporting agency. <br><br>2.  We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law.<br><br>3.  We may share all the information that we collect, as described above, with our affiliates.  By sharing this information, we can better serve your financial needs.  If you do not wish for us to share this information with our affiliates you may contact us.  <br><br>4.  We may disclose the following information to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements:<br><br>-  Information we receive from you on applications or other forms, such as your name, address, social security number, assets, and income;<br><br>-  Information about your transactions with us, our affiliates, or others, such as your account balance, payment history, and parties to transactions; <br><br>-  Information we receive from a consumer reporting agency, such as your creditworthiness and credit history.<br><br>5.  We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you.  We maintain physical, electronic, and procedural safeguards that comply with federal regulations in order to guard your nonpublic personal information.
+			</span>
+			<br> 
+			<!-- MAIN CONTENT ENDS --></td>
+	</tr>
+	<tr>
+		<td class="footer">
+			<img src="../images/x.gif" width="428" height="1"><br>
+			<p align="center">American Fidelity, Inc.<br><a href="Mailto:underwriting@americanfidelity.com" class="footer">underwriting@americanfidelity.com</a><br>888.926.5626<br><a href="/privacypolicy.asp">Privacy Policy</a></p><p align="center"><img src="/images/ehllogo.gif"></p>
+			</td>
+	</tr>
+</tbody></table>
+
+<!----------------------------- MAIN CONTENT ENDS -------------------------------------->
+</td>
+</tr>
+
+</tbody></table>
+
+						</td>
+					</tr>
+				</tbody></table>
+
+			</td>
+		</tr>
+	</tbody></table>
+
+
+<map name="myaccount">
+<area alt="" coords="15,2,90,18" href="https://secure.web-loans.com/loancenter/apply/secure.asp?p=7&amp;u=www.americanfidelity.com">
+<area alt="" coords="96,2,141,18" href="https://secure.web-loans.com/loancenter/apply/secure.asp?p=6&amp;u=www.americanfidelity.com">
+</map>
+
+
+
+</body></html>
