@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the datematch.com privacy policy that was archived on 2002-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021216001601id_/http%3A//www.datematch.com/home.php%3Fshow%3Dprivacy%26ref%3D/home.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the datematch.com privacy policy that was archived on 2003-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621001945id_/http%3A//www.datematch.com/home.php%3Fshow%3Dprivacy%26ref%3D/home.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -95,6 +95,7 @@ function PopNewWindowNoScrollStatus (url, width, height, windowName) {
 
 function Help (topic) { h = PopNewWindow ("help.php?topic="+topic, 500, 400, "help"); }
 function Chat () { h = PopNewWindow ("chat/index.php", 600, 465, "chat"); }
+function ChatNew () { h = PopNewWindow ("chat.php", 600, 465, "chat"); }
 function AddImageReminder () { h = PopNewWindowNoScroll ("members/add.image.reminder.html", 400, 400, "addimagereminder"); }
 
 function SaveSearch (url) { h = PopNewWindowNoScroll ("search.save.php?uri="+url, 300, 200, "ssr"); }
@@ -143,6 +144,52 @@ function PointToDiv (div, text, color1, color2) {
 function PointToLogin () {
 	PointToDiv ('lgn', 'Login form is located in upper right corner.\n\nPlease enter your username and password\nand click Login button', "#ff0000", "#fff0c7");
 	}
+
+function StartChat () {
+			isMac = (navigator.appVersion.indexOf("Mac")!=-1) ? true : false;
+			IEmac = ((document.all)&&(isMac)) ? true : false;
+			IEwin = ((document.all)&&(navigator.appVersion.indexOf("MSIE")!=-1) && !isMac) ? true : false;
+			NS = (navigator.appName.indexOf("Netscape")!=-1) ? true : false;
+		
+			document.writeln("<APPLET NAME='DigiChat' CODEBASE='http://host6.digichat.com/DigiChat/DigiClasses/' "); 
+			document.writeln("CODE='com.diginet.digichat.client.DigiChatApplet' "); 
+			document.writeln("HEIGHT=100 WIDTH=200 ALIGN='MIDDLE' ");
+
+			if (isMac) {
+				document.writeln("ARCHIVE=Client_Mac.jar MAYSCRIPT>");			
+			}
+			else if (!isMac)
+			{
+				if (IEwin)
+				{
+					document.writeln("ARCHIVE=Client_Plugin.jar MAYSCRIPT>");
+					document.write(" <PARAM NAME=cabbase value=Client_IE.cab>");
+					document.write(" <PARAM NAME=useslibrary value=DigiChat Applet>");
+					document.write(" <PARAM NAME=namespace value=Digi-Net>");
+					document.write(" <PARAM NAME=useslibrarycodebase value=Client_IE.cab>");
+					document.write(" <PARAM NAME=useslibraryversion value=4,0,1,0>");
+				}
+				else if (NS)
+					document.writeln("ARCHIVE='Client_NS.jar' MAYSCRIPT>");
+			}
+	
+			document.write(" <PARAM NAME=MenuItem1 VALUE=Datematch>");
+			document.write(" <PARAM NAME=MenuLocation1 VALUE=http://www.datematch.com>");
+
+			document.write(" <PARAM NAME=siteID VALUE=9078>");
+			document.write(" <PARAM NAME=background VALUE=FFFFFF>");
+			document.write(" <PARAM NAME=signed VALUE=true>");
+			document.write(" <PARAM NAME=textcolor VALUE=000000>");
+			document.write(" Datematch Chat requires a Java Compatible web browser to run. ");
+
+			document.write(" <PARAM NAME=nickname value=''>");
+			document.write(" <PARAM NAME=gender value=''>");
+			document.write(" <PARAM NAME=age value=''>");
+			document.write(" <PARAM NAME=url value='http://www.datematch.com/members.view.php?member='>");
+
+			document.write(" </APPLET>");
+}
+
 //-->
 </script>
 
@@ -203,6 +250,9 @@ if (typeof(ROIID) + '' != 'undefined')
 
 	<center>
 	<table width="760" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="border:1 solid black;">
+<!--
+<tr><td colspan=5 height=30  bgcolor="#F7AC05"><img src="http://datematch.com/_templates/default/gfx/__season.jpg" width=759 height=80></td></tr>
+-->	
 		<!-- header -->
 		<tbody><tr valign="top">
 			<!-- leva kolona -->
@@ -240,7 +290,7 @@ if (typeof(ROIID) + '' != 'undefined')
 		<a href="home.php?show=privacy&amp;ref=/home.php" onmouseover="window.status='Privacy statement'; return true;" onmouseout="window.status=''; return true;">Privacy</a> |
 		<a href="home.php?show=terms&amp;ref=/home.php" onmouseover="window.status='Terms'; return true;" onmouseout="window.status=''; return true;">Terms</a> |
 		<a href="home.php?show=contact&amp;ref=/home.php" onmouseover="window.status='contact us'; return true;" onmouseout="window.status=''; return true;">Contact</a> |
-		<a href="affiliates.php" onmouseover="window.status='join our affiliate program and start earning money'; return true;" onmouseout="window.status=''; return true;">Affiliates</a> |
+		<a href="http://www.datinggold.com" onmouseover="window.status='join our affiliate program and start earning money'; return true;" onmouseout="window.status=''; return true;">Affiliates</a> |
 		<a href="javascript:Help('home');" onmouseover="window.status='display help'; return true;" onmouseout="window.status=''; return true;">Help</a>
 </div>		&nbsp;<br>
 		</td></tr>
@@ -332,49 +382,57 @@ Datematch.com ensures a secure Privacy Program. This statement discloses the pri
 	</tbody></table>
 
 
+<!--BEGIN ROI TRACKING Code-->
+<script language="javascript" src="http://roi.gotoast.com/roi/track.asp?ROIID=836971871022"></script>
+<script language="javascript">
+<!--
+if (typeof(ROIID) + '' != 'undefined') { TrackEvent('LandingPage', 0); }
+//-->
+</script>
+<!--END ROI TRACKING Code-->
 
 
 
+</td>
+<!-- KRAJ leva kolona -->
 
-		</td>
-		<!-- KRAJ leva kolona -->
+<!-- divider -->
+<td width="5" background="http://datematch.com/_templates/default/gfx/dots.vertical1.gif"><img src="http://datematch.com/_templates/default/gfx/ifc.top.divider.gif" width="4" height="28" alt="" border="0"><br></td>
 
-		<!-- divider -->
-		<td width="5" background="http://datematch.com/_templates/default/gfx/dots.vertical1.gif"><img src="http://datematch.com/_templates/default/gfx/ifc.top.divider.gif" width="4" height="28" alt="" border="0"><br></td>
-
-		<!-- desna kolona -->
-		<td width="235">
-									<img src="http://datematch.com/_templates/default/gfx/ifc.form.login.title.gif" width="235" height="34" alt="" border="0"><br>
-				<form name="login" method="post" action="http://datematch.com/members.login.php" style="margin: 0;">
+<!-- desna kolona -->
+<td width="235">
+			<img src="http://datematch.com/_templates/default/gfx/ifc.form.login.title.gif" width="235" height="34" alt="" border="0"><br>
+		<form name="login" method="post" action="http://datematch.com/members.login.php" style="margin: 0;">
+					<input type="hidden" name="ref" value="/home.php">
 					<table width="235" cellspacing="0" cellpadding="2" border="0" bgcolor="#FFF0C7" id="lgn" style="background:#fff0c7;">
-						<tbody><tr>
-						</tr><tr><td colspan="3" align="center" class="s">
-							Please note username and password are <a href="#" title="That means &quot;Member&quot; is not equal &quot;MEMBER&quot; or &quot;member&quot;">CASE SENSITIVE</a>!<br>
-							</td>
-						</tr>
-						<tr><td width="60">username</td>
-							<td><input type="text" name="auth_username" size="13" maxlength="15" value="" style="background: #ffffff;" tabindex="1"></td>
-							<td rowspan="2"><input type="image" name="action" src="http://datematch.com/_templates/default/gfx/btn.login.gif" tabindex="3"></td></tr>
-						<tr><td>password</td>
-							<td><input type="password" name="auth_password" size="13" maxlength="15" value="" style="background: #ffffff;" tabindex="2"></td></tr>
-						<tr><td colspan="3" align="center">
-							<a href="members.lost.password.php">Lost Password?</a>
-							</td></tr>
-					</tbody></table>
-				</form>
-				<img src="http://datematch.com/_templates/default/gfx/ifc.form.login.end.gif" width="235" height="10" alt="" border="0"><br>
+				<tbody><tr>
+				</tr><tr><td colspan="3" align="center" class="s">
+					Please note username and password are <a href="#" title="That means &quot;Member&quot; is not equal &quot;MEMBER&quot; or &quot;member&quot;">CASE SENSITIVE</a>!<br>
+					</td>
+				</tr>
+				<tr><td width="60">username</td>
+					<td><input type="text" name="auth_username" size="13" maxlength="15" value="" style="background: #ffffff;" tabindex="1"></td>
+					<td rowspan="2"><input type="image" name="action" src="http://datematch.com/_templates/default/gfx/btn.login.gif" tabindex="3"></td></tr>
+				<tr><td>password</td>
+					<td><input type="password" name="auth_password" size="13" maxlength="15" value="" style="background: #ffffff;" tabindex="2"></td></tr>
+				<tr><td colspan="3" align="center">
+					<a href="members.lost.password.php">Lost Password?</a>
+					</td></tr>
+			</tbody></table>
+		</form>
+		<img src="http://datematch.com/_templates/default/gfx/ifc.form.login.end.gif" width="235" height="10" alt="" border="0"><br>
 
+	
+
+	<table>
+		<tbody><tr valign="top">
+			<td>
 			
-		
-			<table>
-				<tbody><tr valign="top">
-					<td>
-					
 
 			<p>
 		</p><center>
-		There are <b>50808</b> members<br><br>
-		<!--	<b>4</b> of them are online<br> -->
+		There are <b>80499</b> members<br><br>
+		<!--	<b>8</b> of them are online<br> -->
 		</center>
 		
 			<table cellpadding="0" cellspacing="0" bgcolor="#F9DD94">
@@ -405,12 +463,12 @@ Datematch.com ensures a secure Privacy Program. This statement discloses the pri
 	
 		
 	
-					
-										</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<!-- KRAJ desna kolona -->
+			
+						</td>
+		</tr>
+	</tbody></table>
+</td>
+<!-- KRAJ desna kolona -->
 
 <!-- END header -->
 		</tr>
@@ -419,8 +477,8 @@ Datematch.com ensures a secure Privacy Program. This statement discloses the pri
 		Copyright © 2002 www.DateMatch.com. All rights Reserved.
 	</td>
 	<td class="s">
-	Sunday, December 15, 2002 [16:05:07]<br>
-	PST<br>
+	Friday, June 20, 2003 [17:13:37]<br>
+	PDT<br>
 	</td>
 	</tr></tbody></table>
 </center>
