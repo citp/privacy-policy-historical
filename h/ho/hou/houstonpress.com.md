@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003030115id_/http%3A//www.houstonpress.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605151730id_/http%3A//houstonpress.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Houston Press | houstonpress.com | About
+# Houston Press | houstonpress.com | About The Alternative Houston connection for events, event listings, music reviews, CD reviews, and all of the latest alternative news from the Houston area.
 
 ****
 
