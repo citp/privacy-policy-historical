@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the barcelona.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208085629id_/http%3A//www.barcelona.com/barcelona/Jahia/pid/148) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcelona.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403190923id_/http%3A//www.barcelona.com/barcelona/Jahia/pid/148) for the most accurate reproduction.*
 
 # Barcelona.com Barcelona Spain hotels, apartments, Travel and City Guide - Privacy Statement
 
-|  |      [Contact us](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/contact/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+|  |      [Contact us](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/contact/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
 ---|---  
-|      [Partners](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/partners/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
-|      [Press](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/press-releases/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
-|      [Privacy Statement](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/pricavy-statement/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
-|      [Advertising](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/Publicidad-en-Barcelona/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+|      [Partners](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/partners/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
+|      [Press](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/press-releases/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
+|      [Privacy Statement](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/pricavy-statement/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
+|      [Advertising](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/Publicidad-en-Barcelona/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
 |   
   
-|    [Bookings](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/cache/offonce/pid/2;jsessionid=F09903BC20BE59240C48324242955C05)  
+|    [Bookings](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/cache/offonce/pid/2;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
 ---|---  
-|    [City Info](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/cache/offonce/pid/120;jsessionid=F09903BC20BE59240C48324242955C05)  
-|    [Useful](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/practica-useful/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
-|    [Catalonia](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/catalonia/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
-|    [About us](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
-|    [Goodies](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/services/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
-|    [Guía Local](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/guia-local-barcelona/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+|    [City Info](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/cache/offonce/pid/120;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
+|    [Useful](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/practica-useful/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
+|    [Catalonia](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/catalonia/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
+|    [About us](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
+|    [Goodies](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/services/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
+|    [Guía Local](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/guia-local-barcelona/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
 | 
 
   
   Privacy Statement  
-  [Home](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)    [About us](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)    [Privacy State...](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/pricavy-statement/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+  [Home](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)    [About us](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)    [Privacy State...](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/pricavy-statement/cache/offonce;jsessionid=EE9A06AA395C3177E5F88A54FC9187CE)  
 
 
 ### Privacy Statement
@@ -93,7 +93,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 |  |  |   
 ---|---|---  
   
-|  |  Partners   
+|  |  Sponsored links   
 ---  
   
-
+[](http://php.barcelona.com/ads/adclick.php?n=a8fe75eb)
