@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603191819id_/http%3A//www.sa.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002024556id_/http%3A//www.sa.gov.au/privacy.html) for the most accurate reproduction.*
 
 # South Australia Central - Privacy Statement
 
