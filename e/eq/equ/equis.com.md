@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equis.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605084958id_/http%3A//www.equis.com/Company/Legal/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equis.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207151528id_/http%3A//www.equis.com/Company/Legal/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
