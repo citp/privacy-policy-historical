@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splcenter.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206195943id_/http%3A//www.splcenter.org/center/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splcenter.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403212043id_/http%3A//www.splcenter.org/center/privacy.jsp) for the most accurate reproduction.*
 
 # SPLCenter.org: Privacy Policy
 
@@ -51,12 +51,7 @@ The Center collects the personal information that supporters provide. After some
 
 The Center shares donor information with business partners as required in the usual course of business. For example, the Center may use a vendor to assist in the generation and distribution of written communications to donors. 
 
-The Center makes its membership list available to other organizations whose information it believes may be of interest to its supporters. If you are a Center supporter and do not want your information used in this way, simply send a request, including your name and address, by writing to: 
-
-> Privacy Coordinator  
->  Southern Poverty Law Center  
->  400 Washington Avenue  
->  Montgomery, AL 36104 
+The Center makes its membership list available to reputable charities and businesses whose information we believe may be of interest to our members. Our ability to share your name with other entities will help build our supporter base. Sharing our list with others is the most cost-efficient way to find new supporters. We hope you agree. The option is yours. If you do not want your name used in this fashion, please let us know. You may contact us via this website by using our [contact form.](https://web.archive.org/center/contact.jsp) Please include your full name and address with your request. 
 
   
 **RECIPIENTS OF CENTER PUBLICATIONS**  
