@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forumco.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413010037id_/http%3A//www.forumco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumco.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205074259id_/http%3A//forumco.com/privacy.html) for the most accurate reproduction.*
 
 # ForumCo Privacy Statement
 
