@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienskin.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208092755id_/http%3A//www.alienskin.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienskin.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621170313id_/http%3A//www.alienskin.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # About Us [privacy policy]
 
@@ -19,7 +19,7 @@ When you order from our online store, you are given the choice of receiving furt
 We will never make any contact information obtained from Web orders available to anyone else. 
 
 **When you download demo and/or public beta software**  
-If you download a demo or a public beta version of one of our software products before the full version is made available, we will request your email address. When the full version of your software is available, we will email you once to inform you of the product release. After contacting you, we discard your email address. 
+If you download a demo or a public beta version of one of our products, we will request your email address. We will send you a reminder that you are using a demo or a public beta version and add you to our email announcement list. To have your name removed from our mailing list, simply reply to the email with the word "Remove" in the subject line. 
 
 **When you register with us**  
 If you buy one of our products elsewhere and register with us, either online or by sending in your registration card, we will keep your registration code along with your contact information: name, address, phone, email and platform. 
@@ -42,4 +42,4 @@ Mail: 1111 Haynes Street, Suite 113
 Raleigh, NC 27604 
 
 
-[last modified: 8/4/2002] 
+[last modified: 6/12/2003] 
