@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundspike.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811085159id_/http%3A//soundspike.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundspike.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603003247id_/http%3A//soundspike.com/privacy.php) for the most accurate reproduction.*
 
 # SoundSpike - the music and tour information source
 
