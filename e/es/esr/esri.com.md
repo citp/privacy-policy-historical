@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207110000id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409083847id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
 
-# ESRI Web Site Privacy Statement
+# ESRI Web Site Privacy Policy
 
-ESRI respects the privacy of every individual who visits our Web sites or responds to our interactive advertisements. This Privacy Statement outlines the information ESRI collects via its various Web sites and how we use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit ESRI's Web sites or respond to our advertisements.
+ESRI respects the privacy of every individual who visits our Web sites or responds to our interactive advertisements. This Privacy Policy outlines the information ESRI collects via its various Web sites and how we use that information. This policy statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit ESRI's Web sites or respond to our advertisements.
 
 ### Personally Identifiable Information
 
