@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenlightsearch.com privacy policy that was archived on 2004-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040511203837id_/http%3A//greenlightsearch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenlightsearch.com privacy policy that was archived on 2004-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040811221142id_/http%3A//greenlightsearch.com/privacy.htm) for the most accurate reproduction.*
 
 # greenlightsearch.com - Search - Shopping and more...
 
