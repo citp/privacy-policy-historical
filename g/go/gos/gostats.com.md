@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gostats.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601143354id_/http%3A//gostats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gostats.com privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214001707id_/http%3A//gostats.com/privacy.html) for the most accurate reproduction.*
 
 # GoStats Privacy Statement
 
@@ -53,7 +53,7 @@ If our registration/order form asks users to enter sensitive information (such a
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.
 
-If you have any questions about the security at our website, you can send an email to security@gostats.com.
+If you have any questions about the security at our website, you can send an email to support@gostats.com.
 
 **  
 Special Offers  
