@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vcuhealth.org privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407060826id_/http%3A//www.vcuhealth.org/webprivate.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcuhealth.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204215412id_/http%3A//www.vcuhealth.org/webprivate.html) for the most accurate reproduction.*
 
-# Virginia Commonwealth University Health System: Health and Patient Care
+# Virginia Commonwealth University Health System, MCV Hospitals and Physicians: Web Privacy Statement
 
 The following discloses the information gathering and dissemination practices of official Virginia Commonwealth University Health System (VCUHS) web pages (defined as an Institutional Web Page in the [**VCU Web Publishing Guidelines**](http://www.vcu.edu/guidelines/)) and is in accordance with the following statement. 
 
@@ -49,5 +49,3 @@ This site contains links to external (non-VCU Health System) web sites.  VCU He
 **Contacting Us**
 
 If you have additional questions or concerns about our privacy policies, please send Email to the VCU Health System Webmaster at [**vcuhs@hsc.vcu.edu**](mailto:vcuhs@hsc.vcu.edu). If you wish to review or change information gathered about you via an official VCU Health System web site, you may contact the VCU Health System Webmaster who will assist you in locating the person responsible for that site so that you may make your request for that review or change directly with them.
-
- 
