@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604181614id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2002-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021124154238id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.*
 
 # iHigh.com -- The High School Internet Network
 
@@ -59,7 +59,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. You may change your contact information (such as email, address, or phone number), or demographic information (such as school name, title, or student body size). 
 
-  1. Log on to [go.ihigh.com](https://web.archive.org/web/20020604181614id_/http%3A//www.ihigh.com/go.ihigh.com) and click on "Help." 
+  1. Log on to [go.ihigh.com](https://web.archive.org/web/20021124154238id_/http%3A//www.ihigh.com/go.ihigh.com) and click on "Help." 
 
 
 
