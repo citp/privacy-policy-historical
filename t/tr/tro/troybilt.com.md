@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troybilt.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201181720id_/http%3A//troybilt.mtdproducts.com%3A8080/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troybilt.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207150731id_/http%3A//www.troybilt.com/Privacy.jsp) for the most accurate reproduction.*
 
 # . : TROY-BILT: .
 
@@ -54,4 +54,4 @@ Webmaster
 MTD Products Inc  
 P. O. Box 368022  
 Cleveland, OH 44136-9722  
-(330) 273-2600 
+(330) 225-2600 
