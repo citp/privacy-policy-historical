@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the phoenixpubliclibrary.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204032443id_/http%3A//www.phoenixpubliclibrary.org/eprivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixpubliclibrary.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605120207id_/http%3A//www.phoenixpubliclibrary.org/eprivacy.jsp) for the most accurate reproduction.*
 
 # Phoenix Public Library - www.phxlib.org
 
 **Collection of Personal Information**
 
   1. Statistical Information: This information is used by the Phoenix Public Library for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of Phoenix Public Library web sites. This can include: IP address, browser type, domain names, access times, and referring web site addresses. 
-  2. Personally Identifiable Information: The Phoenix Public Library may collect personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Information collected at one of the Phoenix Public Library web sites may be shared within the Phoenix Public Library family of web sites. The Phoenix Public Library collects only that data necessary to provide the services you have requested.  
-
+  2. Personally Identifiable Information: The Phoenix Public Library may collect personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Information collected at one of the Phoenix Public Library web sites may be shared within the Phoenix Public Library family of web sites. The Phoenix Public Library collects only that data necessary to provide the services you have requested.
+  3. **Email a Friend (Event Calendar)** : If you use the Phoenix Public Library's "Email a Friend" feature (in the online calendar) none of the requested email addresses will be retained on our web site or used in any way by the Phoenix Public Library, except for the sole purpose of emailing the event information to the supplied email address. 
 
 _Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through other web sites, chat rooms, online communities or other public online forums, this information may be collected and used by others._
 
