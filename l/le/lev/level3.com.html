@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the level3.com privacy policy that was archived on 2003-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204201946id_/http%3A//level3.com/762.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the level3.com privacy policy that was archived on 2004-02-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/762.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -435,6 +435,230 @@
 
 	</script>
 
+	
+
+	<script language="JavaScript">
+
+<!-- Begin
+
+var interval = 10; // delay between rotating images (in seconds)
+
+var random_display = 1; // 0 = no, 1 = yes
+
+interval *= 1000;
+
+
+
+var image_index = 0;
+
+image_list = new Array();
+
+image_list[image_index++] = new imageItem("http://www.level3.com/userimages/DotCom/en_US/images/3voip.gif");
+
+image_list[image_index++] = new imageItem("http://www.level3.com/userimages/DotCom/en_US/images/3tone_spot.gif");
+
+var number_of_image = image_list.length;
+
+
+
+var image_index2 = 0;
+
+image_list2 = new Array();
+
+image_list2[image_index2++] = new //imageItem("http://www.level3.com/userimages/DotCom/en_US/images/3hub_ad.jpg");
+
+imageItem("http://www.level3.com/userimages/DotCom/en_US/images/3plus.gif");
+
+image_list2[image_index2++] = new imageItem("http://www.level3.com/userimages/DotCom/en_US/images/3cmodem.jpg");
+
+var number_of_image2 = image_list2.length;
+
+
+
+
+
+function imageItem(image_location) {
+
+this.image_item = new Image();
+
+this.image_item.src = image_location;
+
+}
+
+
+
+function get_ImageItemLocation(imageObj) {
+
+return(imageObj.image_item.src)
+
+}
+
+
+
+function generate(x, y) {
+
+var range = y - x + 1;
+
+return Math.floor(Math.random() * range) + x;
+
+}
+
+
+
+function getNextImage() {
+
+if (random_display) {
+
+image_index = generate(0, number_of_image-1);
+
+}
+
+
+
+else {
+
+image_index = (image_index+1) % number_of_image;
+
+}
+
+var new_image = get_ImageItemLocation(image_list[image_index]);
+
+return(new_image);
+
+}
+
+function rotateImage(place) {
+
+var new_image = getNextImage();
+
+document[place].src = new_image;
+
+var recur_call = "rotateImage('"+place+"')";
+
+setTimeout(recur_call, interval);
+
+}
+
+
+
+
+
+function rotateImage2(place) {
+
+var new_image2 = getNextImage2();
+
+document[place].src = new_image2;
+
+var recur_call = "rotateImage2('"+place+"')";
+
+setTimeout(recur_call, interval);
+
+}
+
+
+
+
+
+function getNextImage2() {
+
+	if (random_display) {
+
+	image_index2 = generate(0, number_of_image2-1);
+
+	}
+
+
+
+	else {
+
+	image_index2 = (image_index2+1) % number_of_image2;
+
+	}
+
+
+
+	var new_image2 = get_ImageItemLocation(image_list2[image_index2]);
+
+	return(new_image2);
+
+}
+
+
+
+//dynamically updates the href to match the image
+
+function createLink() {
+
+	if (document.images['rImage'].src == "http://www.level3.com/userimages/DotCom/en_US/images/3voip.gif")
+
+	{
+
+		if (N6) {openWin("http://www.level3.com/2192.html","name","")} else {
+
+		document.all['rLink'].href="http://www.level3.com/2192.html"
+
+		}
+
+	}
+
+	else if (document.images['rImage'].src == "http://www.level3.com/userimages/DotCom/en_US/images/3tone_spot.gif")
+
+	{
+
+		if (N6) {openWin("http://www.level3.com/2191.html","name","")} else {
+
+		document.all['rLink'].href="http://www.level3.com/2191.html"
+
+		}
+
+	}
+
+}
+
+
+
+
+
+
+
+function createLink2() {
+
+	if (document.images['rImage2'].src == "http://www.level3.com/userimages/DotCom/en_US/images/3plus.gif")
+
+	{
+
+		if (N6) {openWin("http://www.level3.com/userimages/dotcom/microsites/3plus","name2","")} else {
+
+		document.all['rLink2'].href="http://www.level3.com/userimages/dotcom/microsites/3plus"
+
+		}
+
+	}
+
+	else if (document.images['rImage2'].src == "http://www.level3.com/userimages/DotCom/en_US/images/3cmodem.jpg")
+
+	{
+
+		if (N6) {openWin("http://www.level3.com/userimages/dotcom/microsites/colopromo3/","name2","")} else {
+
+		document.all['rLink2'].href="http://www.level3.com/userimages/dotcom/microsites/colopromo3/"
+
+		}
+
+	}
+
+}
+
+
+
+//  End -->
+
+</script>
+
+	
+
+	
+
 </head>
 
 
@@ -581,7 +805,9 @@
 
 <td align="center">
 
-<a class="dotcomhref" href="570.html" target="_self">Product Information Query</a>
+<a class="dotcomhref" onclick="openWin( 'http://www.level3.com/mail/productleads.html', 'productleads', 'width=580,height=400,scrollbar=0,toolbars=0' )" href="javascript:void(0)">
+
+Service Information Request Form</a>
 
 </td>
 
@@ -667,7 +893,7 @@
 
 <td align="center">
 
-<a class="dotcomhref" href="577.html" target="_self">The Level 3 Network</a>
+<a class="dotcomhref" href="673.html" target="_self">The Level 3 Network</a>
 
 </td>
 
@@ -871,7 +1097,7 @@
 
 	<td width="160" rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.level3.com"><img src="images/logo.gif" width="107" height="31" border="0"></a></td>
 
-	<td width="98"><a href="1546.html" onmouseover="show('lyr_products');On('products');Off('technical');Off('support');Off('ordering');Off('corporate');Off('investors');Off('career');hide('lyr_technical');hide('lyr_support');hide('lyr_ordering');hide('lyr_corporate');hide('lyr_investors');hide('lyr_career')"><img src="userimages/dotcom/en_US/images/nav/nav_productsOff.gif" border="0" name="products"></a></td>
+	<td width="98"><a href="672.html" onmouseover="show('lyr_products');On('products');Off('technical');Off('support');Off('ordering');Off('corporate');Off('investors');Off('career');hide('lyr_technical');hide('lyr_support');hide('lyr_ordering');hide('lyr_corporate');hide('lyr_investors');hide('lyr_career')"><img src="userimages/dotcom/en_US/images/nav/nav_productsOff.gif" border="0" name="products"></a></td>
 
 	<td width="15" rowspan="2">&nbsp;</td>
 
@@ -879,7 +1105,9 @@
 
 	<td width="15" rowspan="2">&nbsp;</td>
 
-	<td width="98"><a href="570.html" onmouseover="show('lyr_ordering');On('ordering');Off('products');Off('support');Off('technical');Off('corporate');Off('investors');Off('career');hide('lyr_products');hide('lyr_support');hide('lyr_technical');hide('lyr_corporate');hide('lyr_investors');hide('lyr_career')"><img src="userimages/dotcom/en_US/images/nav/nav_orderingOff.gif" border="0" name="ordering"></a></td>
+	<td width="98">
+
+	<a onclick="openWin( 'http://www.level3.com/mail/productleads.html', 'productleads', 'width=580,height=400,scrollbar=0,toolbars=0' )" href="javascript:void(0)" onmouseover="show('lyr_ordering');On('ordering');Off('products');Off('support');Off('technical');Off('corporate');Off('investors');Off('career');hide('lyr_products');hide('lyr_support');hide('lyr_technical');hide('lyr_corporate');hide('lyr_investors');hide('lyr_career')"><img src="userimages/dotcom/en_US/images/nav/nav_orderingOff.gif" border="0" name="ordering"></a></td>
 
 	<td width="15" rowspan="2">&nbsp;</td>
 
@@ -893,7 +1121,7 @@
 
 	<tr>
 
-	<td><a href="576.html" onmouseover="show('lyr_corporate');On('corporate');Off('products');Off('support');Off('ordering');Off('investors');Off('career');Off('technical');hide('lyr_products');hide('lyr_support');hide('lyr_ordering');hide('lyr_investors');hide('lyr_career');hide('lyr_technical')"><img src="https://web.archive.org/web/20031204201946id_/http%3A//level3.com/userimages/dotcom/en_US/images/nav/nav_corporateOn.gif" border="0" name="corporate"></a></td>
+	<td><a href="576.html" onmouseover="show('lyr_corporate');On('corporate');Off('products');Off('support');Off('ordering');Off('investors');Off('career');Off('technical');hide('lyr_products');hide('lyr_support');hide('lyr_ordering');hide('lyr_investors');hide('lyr_career');hide('lyr_technical')"><img src="https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/userimages/dotcom/en_US/images/nav/nav_corporateOn.gif" border="0" name="corporate"></a></td>
 
 	<td><a href="581.html" onmouseover="show('lyr_investors');On('investors');Off('products');Off('support');Off('ordering');Off('corporate');Off('career');Off('technical');hide('lyr_products');hide('lyr_support');hide('lyr_ordering');hide('lyr_corporate');hide('lyr_career');hide('lyr_technical')"><img src="userimages/dotcom/en_US/images/nav/nav_investorsOff.gif" border="0" name="investors"></a></td>
 
@@ -1007,7 +1235,7 @@
 
 								<td width="170"><a href="549.html" class="dotcomsubNAV">
 
-								<font style="FONT-SIZE: 12px">Products</font></a></td>
+								<font style="FONT-SIZE: 12px">Service Brochures</font></a></td>
 
 							
 
@@ -1633,7 +1861,7 @@
 
 					
 
-					<a href="590.html" target="blank"><img alt="" src="userimages/ACFAC7.gif" border="0"></a>
+					<a href="" target="blank"><img alt="" src="userimages/ACFAC7.gif" border="0"></a>
 
 					
 
@@ -1851,7 +2079,7 @@
 
 	<tbody><tr>
 
-	<td width="341" align="center" class="footerTD" bgcolor="#666666">© 2003 by Level 3 Communications, Inc. All rights reserved.</td>
+	<td width="341" align="center" class="footerTD" bgcolor="#666666">© 1999-2004 by Level 3 Communications, Inc. All rights reserved.</td>
 
 	<td width="2"><img src="images/foot_divider.gif"></td>
 
