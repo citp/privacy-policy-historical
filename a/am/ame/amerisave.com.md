@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerisave.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217162147id_/http%3A//www.amerisave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerisave.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210203956id_/http%3A//www.amerisave.com/privacy.html) for the most accurate reproduction.*
 
 # Amerisave - Best Rates. Lowest Fees. Guaranteed.
 
