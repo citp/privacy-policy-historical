@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the importatlanta.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605091852id_/http%3A//www.importatlanta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importatlanta.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204122607id_/http%3A//www.importatlanta.com/privacy.html) for the most accurate reproduction.*
 
 # IA Privacy Policy
 
@@ -7,7 +7,7 @@
   
 **
 
-[](http://www.batlground.com/)
+[](http://www.balancedperformance.com/)
 
 **
 
@@ -32,15 +32,15 @@ This is a free forum, everyone has opinions.
 
 Importatlanta.com is Privately owned and operated.   
 Site Maitained By [5pointStudios.com  
-](http://www.5pointstudios.com%20/)Site Hosted By [Es-hosting.com](http://www.es-hosting.com/client/step_one.php)  
-Message Board Provided ByVBULLTIN and  
+](http://www.5pointstudios.com%20/)Site Hosted By [WireSix.com](http://www.wiresix.com/)  
+Message Board Provided By vBULLETIN and  
 maintained by Importatlanta.com's Moderators and Administrators.  
 2001- 2004  
 Reagards,  
 Julio Morillo  
 Founder/Owner
 
-[about us](https://web.archive.org/web/20040605091852id_/http%3A//www.importatlanta.com/about_us.htm) | [privacy statement](https://web.archive.org/web/20040605091852id_/http%3A//www.importatlanta.com/privacy.html) | [street team ](https://web.archive.org/web/20040605091852id_/http%3A//www.importatlanta.com/st_team.htm) | [contact us  
-](https://web.archive.org/web/20040605091852id_/http%3A//www.importatlanta.com/contact_us.htm)Copyright Import Atlanta/Importatlanta.com 2001-2004 This, or any file, may not be published, broadcast or otherwise distributed without the prior written permission of ImportAtlanta.com  
-Site is maintained by [5pointStudios.com](http://www.5pointstudios.com/) & hosted by [Es-hosting.com](http://www.es-hosting.com/)  
+[about us](https://web.archive.org/web/20041204122607id_/http%3A//www.importatlanta.com/about_us.htm) | [privacy statement](https://web.archive.org/web/20041204122607id_/http%3A//www.importatlanta.com/privacy.html) | [street team ](https://web.archive.org/web/20041204122607id_/http%3A//www.importatlanta.com/st_team.htm) | [contact us  
+](https://web.archive.org/web/20041204122607id_/http%3A//www.importatlanta.com/contact_us.htm)Copyright Import Atlanta/Importatlanta.com 2001-2004 This, or any file, may not be published, broadcast or otherwise distributed without the prior written permission of ImportAtlanta.com  
+Site is maintained by [5pointStudios.com](http://www.5pointstudios.com/) & hosted by [WireSix.com](http://www.wiresix.com/)  
 Best if viewed at 1024 x 768 resolution. 
