@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the deluxe.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204003700id_/http%3A//www.deluxe.com/deluxe.cfm%3Fpage%3D022-000-B00.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deluxe.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603114315id_/http%3A//www.deluxe.com/deluxe.cfm%3Fpage%3D022-000-B00.htm) for the most accurate reproduction.*
 
 # Deluxe - checks, personal & business, bank and credit union products & services
 
 Deluxe Web sites are directed or intended for US residents only. This policy is effective 08/31/00 and applies to all consumer identifiable information Deluxe obtains when a consumer visits our Web site(s). 
 
 **CONSUMER PRIVACY STATEMENT FOR DELUXE CORPORATION AND ITS SUBSIDIARIES ("DELUXE")**   
-Protecting privacy is not new to Deluxe Corporation. Deluxe has a long history of recognizing and protecting the privacy of consumers. With the advent of the Internet, Deluxe is committed to protecting your privacy and utilizing technology that gives you the most powerful, safe, on-line experience available. We want to assure you that when Deluxe asks for consumer information, it's done with the goal of improving our relationship. Deluxe and its subsidiaries participate in and comply with the Better Business Bureau's (BBB) Privacy Program. More information on the BBB and their Privacy Program is available at [ www.bbbonline.org](https://web.archive.org/web/20001204003700id_/http%3A//www.deluxe.com/deluxe.cfm?page=http://www.bbbonline.org). The following statement will help you understand how we collect, use and safeguard information you provide through our Web sites. 
+Protecting privacy is not new to Deluxe Corporation. Deluxe has a long history of recognizing and protecting the privacy of consumers. With the advent of the Internet, Deluxe is committed to protecting your privacy and utilizing technology that gives you the most powerful, safe, on-line experience available. We want to assure you that when Deluxe asks for consumer information, it's done with the goal of improving our relationship. Deluxe and its subsidiaries participate in and comply with the Better Business Bureau's (BBB) Privacy Program. More information on the BBB and their Privacy Program is available at [ www.bbbonline.org](https://web.archive.org/web/20010603114315id_/http%3A//www.deluxe.com/deluxe.cfm?page=http://www.bbbonline.org). The following statement will help you understand how we collect, use and safeguard information you provide through our Web sites. 
 
 This policy is effective 08/31/00 and applies to all consumer identifiable information Deluxe obtains when a consumer visits our Web site(s). 
 
@@ -49,10 +49,13 @@ Our Web sites are directed at adult consumers and guests. However, children may 
 Deluxe is not responsible for the content or information practices employed by sites linked to or from our Web sites. In most cases links to non-Deluxe Web sites are provided solely as pointers to information on topics that may be useful to the users of the Deluxe’s Web sites. 
 
 **Enforcement**   
-Periodically, our operations and business practices are reviewed for compliance with corporation policies and procedures governing the confidentiality of information. These reviews are conducted by internal staff, internal auditors who report directly to the Deluxe Board of Directors, external auditing and accounting firms and government regulators. Included in these self-assessments and examinations are reviews of the controls and safeguards related to consumer privacy described in our [Information Practices Policy](https://web.archive.org/web/20001204003700id_/http%3A//www.deluxe.com/deluxe.cfm?page=001-008-A00.htm). 
+Periodically, our operations and business practices are reviewed for compliance with corporation policies and procedures governing the confidentiality of information. These reviews are conducted by internal staff, internal auditors who report directly to the Deluxe Board of Directors, external auditing and accounting firms and government regulators. Included in these self-assessments and examinations are reviews of the controls and safeguards related to consumer privacy described in our Information Practices Policy. 
 
 **Your Acceptance of These Terms**   
 By using Deluxe’s Web sites, you consent to the Consumer Privacy Statement for Deluxe Corporation and its subsidiaries. If you do not agree with this policy, please do not use our site. We reserve the right, at our discretion, to change, modify, add or remove portions from this policy at any time. Your continued use of Deluxe's Web sites following the posting of changes to these terms means you accept these changes. 
+
+**Our Ongoing Commitment Under the[Gramm-Leach-Bliley Act](https://web.archive.org/web/20010603114315id_/http%3A//www.deluxe.com/deluxe.cfm?page=013-000-A00.htm#GLBAct)**   
+Deluxe is continuing to work with its clients and customers to make sure that consumer data is used appropriately and within the scope of applicable laws. 
 
 **Contacting Deluxe**   
 _Direct Marketing_   
