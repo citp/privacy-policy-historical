@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612113245id_/http%3A//bestday.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204035846id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,9 +28,10 @@ Contact Data
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Colleen Flaherty  
 Viajes Beda S.A. de C.V.   
 Blvd. Kukulcán Km. 5.5 Edif.A Local 1   
 Sótano Hotel Gran Caribe Real  
-Z.H. Cancún Q.Roo México C.P. 77500  
-colfla@bestday.com
+Z.H. Cancún Q.Roo México C.P. 77500
+
+[_Contact Us_ ](https://web.archive.org/ContactUs)  
+
