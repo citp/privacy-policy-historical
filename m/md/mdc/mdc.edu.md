@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the mdc.edu privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622121840id_/http%3A//www3.mdcc.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdc.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202190959id_/http%3A//www.mdc.edu/privacy) for the most accurate reproduction.*
 
-# M-DCC -- Privacy Policy
+# M-DCC Privacy
 
-####   
-M-DCC Internet Privacy Policy
+#### MDC Internet Privacy Policy
 
-Thank you for visiting Miami-Dade Community College's website. Your privacy is very important to us. Simply stated, our policy is not to collect personal information about you when you visit our website unless you affirmatively choose to make such information available to us. 
+Thank you for visiting Miami-Dade College's website. Your privacy is very important to us. Simply stated, our policy is not to collect personal information about you when you visit our website unless you affirmatively choose to make such information available to us. 
 
 When you visit our website, our web server automatically recognizes only the Internet domain and IP address from which you accessed our website. This information does not result in the identification of your personal e-mail address or other personal information. 
 
@@ -15,15 +14,6 @@ If you choose to share personal information with us - by sending us a message, o
 
 If we are required to disclose information about you by law, we will make every effort to notify you of the disclosure in advance. 
 
-If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to e-mail us at [webmaster@mdcc.edu](mailto:webmaster@mdcc.edu).
+If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to e-mail us at [webmaster@mdc.edu](mailto:webmaster@mdcc.edu).
 
-* * *
-
-[Home](https://web.archive.org/) | [About Miami-Dade](https://web.archive.org/about) | [Website Directory](https://web.archive.org/directory) | [Academic Programs](https://web.archive.org/programs)[  
-Student Info Services](http://sis.mdcc.edu/) | [Questions & Answers](https://web.archive.org/faq) | [Distance Education](https://web.archive.org/distance_education)
-
-* * *
-
-Copyright © 2003 Miami-Dade Community College. All Rights Reserved.  
-Questions? Visit our [ Contacts Page](https://web.archive.org/contacts) • Send [Feedback](mailto:webmaster@mdcc.edu) • M-DCC [Mission Statement](https://web.archive.org/mission)  
-
+ 
