@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryder.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218002712id_/http%3A//www.ryder.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryder.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402225015id_/http%3A//www.ryder.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Ryder.com > Privacy Policy
 
@@ -12,5 +12,3 @@ Information that is collected through forms on our website may be used by us to 
 If a visitor registers his/her name, address, e-mail address and/or additional contact information on the Ryder website to request marketing materials, that request is fulfilled by an outside company which only uses your information for these purposes. If you object to such use for any reason, you may stop this use either by e-mail request or in a letter. Additionally, if you would like marketing materials sent to you without going through the outside company, please inform us and they will be sent to you from Ryder headquarters. 
 
 By using this site, you signify your assent to Ryder's Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes. 
-
-The webmaster for Ryder.com can be reached via e-mail at [webmaster@ryder.com](mailto:webmaster@ryder.com), or by telephone at 305-500-3420 
