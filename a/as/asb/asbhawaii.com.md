@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asbhawaii.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604000227id_/http%3A//www.asbhawaii.com/footer/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asbhawaii.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207220952id_/http%3A//www.asbhawaii.com/footer/privacy.htm) for the most accurate reproduction.*
 
 # ASB Hawaii - Privacy Policy
 
@@ -37,7 +37,7 @@ American Savings may share all five of the categories of your Personal Informati
 
 LIMITING OUR SHARING OF PERSONAL INFORMATION 
 
-If you do not want us to share your Personal Information obtained from your applications, consumer reports or from other outside sources with our affiliates, please tell us of this request by calling 627-6900 (toll free 1-800-272-2566) or dropping off the ["Opt-out" form](https://web.archive.org/web/20020604000227id_/http%3A//www.asbhawaii.com/footer/Privacy%20Opt-Out%20Form.pdf) at any American Savings branch. If you previously opted out and wish to continue your opt out, you do not need to do anything. If you are a joint accountholder, we will treat your request for us not to share that Personal Information with our affiliates as applying only to you and not to other joint accountholders, unless you inform us that your instruction applies to all of the joint accountholders, or all of the other joint accountholders individually or jointly request us not to share that Personal Information with our affiliates. Please note that it may take two to four weeks to make your request fully effective and you will still be contacted as necessary to service your accounts or receive marketing information on existing or new American Savings products and services.
+If you do not want us to share your Personal Information obtained from your applications, consumer reports or from other outside sources with our affiliates, please tell us of this request by calling 627-6900 (toll free 1-800-272-2566) or dropping off the ["Opt-out" form](https://web.archive.org/web/20021207220952id_/http%3A//www.asbhawaii.com/footer/Privacy%20Opt-Out%20Form.pdf) at any American Savings branch. If you previously opted out and wish to continue your opt out, you do not need to do anything. If you are a joint accountholder, we will treat your request for us not to share that Personal Information with our affiliates as applying only to you and not to other joint accountholders, unless you inform us that your instruction applies to all of the joint accountholders, or all of the other joint accountholders individually or jointly request us not to share that Personal Information with our affiliates. Please note that it may take two to four weeks to make your request fully effective and you will still be contacted as necessary to service your accounts or receive marketing information on existing or new American Savings products and services.
 
 If you don't have the Adobe Acrobat Reader, you can get it here:[](http://www.adobe.com/products/acrobat/readstep.html)[  
 ](http://www.adobe.com/products/acrobat/readstep.html)
@@ -46,7 +46,7 @@ CHANGES TO OUR PRIVACY POLICY
 
 We will provide you with our Privacy Policy annually, so long as you maintain an on-going customer relationship with us. 
 
-If you have any questions that are not answered in this section please [contact us](https://web.archive.org/web/20020604000227id_/http%3A//www.asbhawaii.com/info/contact/index.htm).   
+If you have any questions that are not answered in this section please [contact us](https://web.archive.org/web/20021207220952id_/http%3A//www.asbhawaii.com/info/contact/index.htm).   
 
 
   
