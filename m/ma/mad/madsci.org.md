@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606170932id_/http%3A//www.madsci.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2001-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010809180732id_/http%3A//www.madsci.org/info/privacy.html) for the most accurate reproduction.*
 
 # MadSci Privacy Policy
 
@@ -45,7 +45,7 @@ We store this information in our monthly log files and use it for the following:
 
 More information about Internet Privacy can be found at the [ US Federal Trade Commission](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html). 
 
-If you have further questions concerning this policy, please contact us at [webadmin@www.madsci.org](https://web.archive.org/web/20010606170932id_/http%3A//www.madsci.org/info/webadmin@www.madsci.org). Our snail mail address is: 
+If you have further questions concerning this policy, please contact us at [webadmin@www.madsci.org](https://web.archive.org/web/20010809180732id_/http%3A//www.madsci.org/info/webadmin@www.madsci.org). Our snail mail address is: 
     
     
     	  MadSci Network
