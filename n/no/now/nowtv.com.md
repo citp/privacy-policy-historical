@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210101814id_/http%3A//www.nowtv.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810130900id_/http%3A//nowtv.com/privacy.htm) for the most accurate reproduction.*
 
 # NowTV - Privacy Policy
 
@@ -22,5 +22,5 @@ Advertisers
 
 * * *
 
-[Home](https://web.archive.org/web/20021210101814id_/http%3A//www.nowtv.com/index.htm)  
+[Home](https://web.archive.org/web/20030628113550id_/http%3A//nowtv.com/index.htm)  
 [skrenek@NowTV.com](mailto:%20skrenek@NowTV.com) Copyright 2002, **NowTV, Inc.**
