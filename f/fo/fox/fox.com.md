@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402131650id_/http%3A//www.fox.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204215758id_/http%3A//www.fox.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
 
 # FOX Broadcasting Company: Privacy Policy
 
@@ -88,5 +88,7 @@ Fax:
 
 (310) 369-8733   
   
-Please note that participation in certain activities on our web sites(s) may be limited if PII is not submitted by the visitor.   
+Please note that participation in certain activities on our web sites(s) may be limited if PII is not submitted by the visitor. 
+
+July 29, 2002  
 
