@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatorcountry.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401160441id_/http%3A//www.gatorcountry.com/privacy.php%3Fmenu%3D15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorcountry.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812141618id_/http%3A//www.gatorcountry.com/privacy.php%3Fmenu%3D15) for the most accurate reproduction.*
 
 # Florida Gator Country - FLORIDA GATORS - GATORCOUNTRY.COM -- The #1 Florida Gator fan site since 1996!
 
