@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201231535id_/http%3A//www.cyberciti.biz/corp/cyber.php%3Fpfrm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602180558id_/http%3A//www.cyberciti.biz/corp/cyber.php%3Fpfrm%3Dprivacy) for the most accurate reproduction.*
 
 # Cyberciti Computer
 
