@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207045845id_/http%3A//www.directionsmag.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207121431id_/http%3A//www.directionsmag.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Directions Magazine Web Site Privacy Statement - Directions Magazine
 
