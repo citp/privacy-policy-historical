@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402014313id_/http%3A//www.tes.co.uk/site_information/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211215503id_/http%3A//www.tes.co.uk/site_information/privacy_policy.asp) for the most accurate reproduction.*
 
 # Times Educational Supplement - TES
 
@@ -20,7 +20,7 @@ in the TES](https://web.archive.org/site_information/whos_who.asp)
   
 | [Sitemap](https://web.archive.org/site_information/sitemap.asp)  
   
-|   
+|  |   
 ---  
 |  |  |  |   
 ---|---|---|---  
@@ -56,4 +56,12 @@ Our website uses ad servers (such as Doubleclick) to serve the advertisments tha
 |  |   
 |  |  |   
 |  |   
-| 
+|   
+
+
+|  |  |  |  |   
+---|---|---|---|---  
+|  |  |     |  |  |   
+|  |  |  |   
+  
+[](https://web.archive.org/search/advanced_search.asp)
