@@ -1,50 +1,92 @@
-> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605025141id_/http%3A//fox.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204184537id_/http%3A//fox.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
 
 # FOX Broadcasting Company: Privacy Policy
 
-By using this site, you agree to the Privacy Policy of FOX Broadcasting Company. If you do not agree to the Policy, please do not use this site. FOX Broadcasting Company reviews its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please write to us at FOX Broadcasting Company, Print Advertising Department, 10201 West Pico Blvd., Los Angeles, California 90035, USA, or email us at [foxcom@fox.com](mailto:foxcom@fox.com).
+FOX Broadcasting Company ("FBC") is part of the News America Group, which has adopted a set of [Privacy Principles](http://newscorp.com/privacy.html) applicable to all its U.S.-based companies. FBC has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. and abroad.
 
-FOX Broadcasting Company, which operates the Internet site located at www.fox.com, recognizes the importance of protecting the privacy of personally identifiable information collected about visitors to our sites. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our sites. Personally identifiable information about visitors to our sites is collected only when knowingly and voluntarily submitted. We may collect certain non-personal information to optimize our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites.
+FBC does not knowingly collect PII from children under 13 years of age.
 
-In those instances when we do collect personally identifiable information, the following policies apply:
+From time to time FBC may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. Therefore, you should review it periodically so that you are up to date on our most current policies and practices.
 
-**Notice**
+_**COLLECTION:** COLLECTION OF PII BY FBC_
 
-FOX Broadcasting Company will notify you when we are collecting personally identifiable information about you and how we intend to use it. For example, we may need to collect such information to provide you with information or a product you requested, in connection with contest entry forms or for billing purposes, or in connection with community postings such as chat and bulletin boards.
+_General_. FBC collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, chats or bulletin boards; to submit suggestions to us; or because you want us to furnish you with products, services or information. On those occasions when we obtain PII from a third party, we use only reputable sources of such information.
 
-Sometimes FOX Broadcasting Company engages in activities with business partners and sponsors with whom personal information is jointly collected or shared. We will try to make it clear at the time of collection who is asking for and/or sharing your information. In situations where your information will be shared, it is recommended that you also review the privacy policy of our business partner or sponsor.
+_Cookies_. Cookies are small bits of information that the Internet sites operated by FBC place on the hard drive of your computer. FBC uses cookies to identify your Internet browser and to determine whether you have installed the enabling software needed to access certain material on our web site(s). However, FBC does not use cookies to collect or otherwise record any type of PII provided by or about any FBC web site visitor. 
 
-**Use and Security**
+Third party advertisements displayed on Internet site(s) by FBC may also contain cookies. FBC does not control these advertiser cookies and visitors to our web site(s) should check the privacy policy of the advertiser to see whether and how it uses cookies.
 
-Personally identifiable information that visitors submit to our sites is used only for the purpose for which it is submitted unless we disclose other uses in this Privacy Policy or at the time of collection. Such other uses may include sending you information or materials we think you will find interesting, or sharing the information with FOX Broadcasting Company's advertisers and reputable business partners. However, at the time of collection, you will have the option of instructing us not to send you additional information or share your personal information with third parties. FOX Broadcasting Company is not responsible for the privacy policies or practices of our business partners.
+On occasion, FBC may use cookies to relate your use of our web site(s) to personally identifiable information you have submitted to us. For example, if you've asked us to send you information about our upcoming products or promotions, cookie information may allow us to limit the materials we send you to items we know you will find interesting, based on your prior online activities and preferences. However, if FBC wishes to coordinate personal and cookie information in this manner, we will obtain your express prior consent (i.e., "opt in").
 
-FOX Broadcasting Company may use reputable third parties to manage activities available on our sites including, but not limited to, sweepstakes, contests, statistical analysis or chats. These parties may have access to personally identifiable information submitted by visitors who participate in those activities. Similarly, we may contract with third parties to handle the fulfillment of subscriptions or requests for information you submit to our sites, such as sending you a newsletter. In most instances, FOX Broadcasting Company instructs these third parties to use personally identifiable information only for the specific purpose for which it is collected, and not to sell, market or transfer such information to other entities. If FOX Broadcasting Company obtains personal information that has been collected from you by a third party, including our business partners, this Privacy Policy nonetheless governs FOX Broadcasting Company's use of that information.
+You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you may not have access to certain features on FBC's web site(s).
 
-Please remember that any information posted on bulletin boards and/or communicated in chat areas becomes public information. You should use caution when sharing information, as any of it can be collected and used by people you may not know. Users under the age of 18 should be particularly careful not to divulge any personal information. While FOX Broadcasting Company strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board and you do so at your own risk.
+_**NOTICE:** FBC WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES_
 
-FOX Broadcasting Company may use personally identifiable information in aggregate form to make our sites better and more responsive to the needs of our visitors. This statistical compilation and analysis of information may also be used by FOX Broadcasting Company or provided to others, in aggregate, for marketing, advertising or research purposes.
+When FBC collects PII from you, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses FBC will make of the information. 
 
-If at any time after submitting your personal information to our sites you would no longer like to receive information from us, simply follow the "unsubscribe" directions at the end of any email communication you receive.
+This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your personal information (See "Use" below). However, at the time your PII is collected, FBC will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies (See "Choice" below). 
 
-FOX Broadcasting Company does not knowingly collect personally identifiable information from children under the age of 13.
+Sometimes we collect personally identifiable information from consumers in manual format, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.
 
-Personal information may be disclosed in special situations where FOX Broadcasting Company has reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with FOX Broadcasting Company's rights, property, users, or anyone else who could be harmed by such activities. Also, FOX Broadcasting Company may reveal information when we believe in good faith that the law requires it.
+FBC's web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with an FBC logo, even though they are not operated or maintained by FBC. FBC's web site(s) also carry advertisements from other companies as well as advertisements placed by national Internet ad agencies. Although we choose our business partners and advertisers carefully, FBC is not responsible for the privacy practices of web sites operated by third parties that are linked to our site(s) or for the privacy practices of third party or so-called national advertisers. Once you've left an FBC site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
 
-FOX Broadcasting Company maintains appropriate safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our sites, and periodically reviews and updates its security measures in light of current technologies. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. Although FOX Broadcasting Company strives to protect your personal information, we cannot ensure or warranty the security of any information you may transmit to us or from our online products and services. This is done so at your own risk. Once we do receive your transmission, however, we make our best effort to ensure its security on our systems. When credit card information is transmitted, industry standard encryption is used.
+FBC's web site(s) may also be linked to sites operated by our business partners or by other companies that are part of the News America Group. Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
 
-**Cookies**
+_**CHOICE:** FBC WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII_
 
-Cookies are data that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, including those operated by FOX Broadcasting Company, can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. FOX Broadcasting Company does not save passwords or credit card information within Cookies, nor are our Cookies programs that can cause damage to a user's systems or files. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services.
+FBC will provide you with the opportunity to choose whether your PII may be used for purposes different from the purpose for which it was submitted. You will also be able to choose whether your information is shared with companies that are not affiliated with FBC (i.e., not part of the News America Group of companies).
 
-**Links to Third Party and Co-Branded Sites**
+_**USE:** FBC'S USE OF PII_
 
-FOX Broadcasting Company has established relationships with reputable business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites, such as [www.foxmarketwire.com](http://www.foxmarketwire.com/) or sites dedicated to online shopping, may be "co-branded" with a FOX Broadcasting Company logo (i.e., Fox, Fox Sports or Fox News); however, these sites are not operated or maintained by FOX Broadcasting Company. These sites may collect personal information from you that may be shared with FOX Broadcasting Company. As noted above, this Privacy Policy will apply to any personal information we obtain in this manner.
+FBC will use your PII in a manner that is consistent with this Policy and only for the purpose for which it is submitted, unless other uses are disclosed at the time of collection and you allow us to use your information in these other ways. In most instances, FBC will delete PII from its records as soon as possible; for example, sweepstakes entry information will be retained only until a winner is selected or for as long as the law requires.
 
-FOX Broadcasting Company chooses its advertisers and business partners carefully. However, FOX Broadcasting Company is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by FOX Broadcasting Company of the content, policies or practices of such third party sites. Once you have left a FOX Broadcasting Company site via such a link, you should check the applicable privacy policy of the third party site.
+FBC may share your PII with companies that are affiliated with us (i.e., part of the News America Group of companies). FBC may also share your PII with companies that are not affiliated with FBC, but would like to send you information about their products and services, such as sponsors of promotions, sweepstakes or programs that appear on the FOX Network. However, you will always have the opportunity to instruct us not to share your information with unaffiliated third parties.
 
-FOX Broadcasting Company sites may also be linked to Web sites operated by companies affiliated with FOX Broadcasting Company. Visitors to those sites should refer to their separate privacy policies and practices.
+FBC employees, agents and contractors must have a legitimate business reason to obtain access to your PII. Outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses) must comply with FBC's instructions with respect to PII, and may only use PII to provide FBC with a specific service and not for any other purpose.
 
-May 7th, 2001  
-[foxcom@fox.com](mailto:foxcom@fox.com)  
-(c) 2001, FOX Broadcasting Company.  
-All rights reserved. Fox is a registered trademark of Twentieth Century Fox Film Corporation.
+If FBC obtains PII from a third party, such as a business partner, our subsequent use of this information is governed by this Policy.
+
+FBC may be required to disclose PII to comply with legal requirements, such as a court order, and to protect the safety and security of visitors to our web site(s).
+
+_**SECURITY:** FBC PROTECTS THE SECURITY OF PII_
+
+FBC uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, FBC uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete.
+
+  
+_**ACCESS, REMEDIES AND COMPLIANCE:** HOW TO ACCESS, CORRECT OR DELETE YOUR PII AND HOW TO CONTACT FBC ABOUT PRIVACY CONERNS_
+
+Whenever possible, visitors to FBC may review the PII we maintain about them in our records. We will not be able to provide such access to PII that we plan to delete from our records as soon as we are allowed to by law. We will also take reasonable steps to correct any PII a visitor informs us is incorrect. 
+
+If you would like to communicate to us about this Privacy Policy or FBC's collection and use of your PII, to review, correct or delete your PII, or to stop all future communication from us, please contact FBC's Privacy Officer, Ms. Carolyn Gray at:
+
+|   
+---|---  
+  
+Email: 
+
+| 
+
+[privacy@fox.com](mailto:privacy@fox.com)  
+  
+Mail: 
+
+| 
+
+10201 West Pico Boulevard  
+Bldg. 100, 3220  
+Los Angeles, CA 90035   
+  
+Phone: 
+
+| 
+
+(310) 369-3716   
+  
+Fax: 
+
+| 
+
+(310) 369-8733   
+  
+Please note that participation in certain activities on our web sites(s) may be limited if PII is not submitted by the visitor.   
+
