@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224040238id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306114649id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
 
 # PE.com | Inland Southern California | Registration | Privacy
 
@@ -119,11 +119,11 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/460354212/Position1/default/empty.gif/7a2f486a615635546571494144454738?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/813850152/Position1/default/empty.gif/7a2f486a6156347972526f41424a304c?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/343069697/Position4/default/empty.gif/7a2f486a615635546571494144454738?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/1230106648/Position4/default/empty.gif/7a2f486a6156347972526f41424a304c?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/561251300/Position5/default/empty.gif/7a2f486a615635546571494144454738?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/122585999/Position5/default/empty.gif/7a2f486a6156347972526f41424a304c?x)
 
 ##### adcenter
 
