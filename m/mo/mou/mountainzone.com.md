@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainzone.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203122100id_/http%3A//www.mountainzone.com/html/privacy_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainzone.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408055321id_/http%3A//www.mountainzone.com/html/privacy_1.html) for the most accurate reproduction.*
 
 # Privacy on MountainZone.com
 
@@ -56,9 +56,9 @@ We will not communicate with the recipient unless they have contacted us separat
 
 We may also use your email address to notify you of new programs and events that we think you will find of interest (unless you request not to receive information when you send the postcard).
 
- ****Go to[part 2](https://web.archive.org/web/20001203122100id_/http%3A//www.mountainzone.com/html/privacy_2.html)**
+ ****Go to[part 2](https://web.archive.org/web/20010408055321id_/http%3A//www.mountainzone.com/html/privacy_2.html)**
 
-**Go to mountainzone.com > [Home Page](https://web.archive.org/web/20001203122100id_/http%3A//www.mountainzone.com/index.html)**
+**Go to mountainzone.com > [Home Page](https://web.archive.org/web/20010408055321id_/http%3A//www.mountainzone.com/index.html)**
 
 ** ****  
 ---|---
