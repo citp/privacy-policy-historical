@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodandwine.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017223850id_/http%3A//www.amexpub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodandwine.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412200657id_/http%3A//www.amexpub.com/privacy) for the most accurate reproduction.*
 
 # American Express Publishing Privacy Statement
 
@@ -20,13 +20,13 @@ Protecting your privacy is important to us. We hope the following statement will
 
 **Security**
 
-When you send confidential data to us on an American Express Publishing website, we require that a "secure session" first be established using Secure Socket Layer (SSL). For further information about SSL, and the safety and confidentiality of personal data transmissions over the Internet, please read our [Security Q&A.](https://web.archive.org/web/20021017223850id_/http://www.amexpub.com/privacy/security.html)
+When you send confidential data to us on an American Express Publishing website, we require that a "secure session" first be established using Secure Socket Layer (SSL). For further information about SSL, and the safety and confidentiality of personal data transmissions over the Internet, please read our [Security Q&A.](https://web.archive.org/web/20030412200657id_/http://www.amexpub.com/privacy/security.html)
 
 **Information Collection**
 
 When you **browse** any American Express Publishing website, you do so anonymously. Personal information -- including your E-mail address -- is _not_ collected. We may, however, request that you **voluntarily** supply us with personal information, including your E-mail address, for purposes such as correspondence, site registration, making a purchase, or participating in online surveys.
 
-Like many other commercial websites, American Express Publishing websites may utilize a standard technology called a "cookie" to collect information about how our site is used. Please read [About Cookies](https://web.archive.org/web/20021017223850id_/http://www.amexpub.com/privacy/cookies.html) for more information.
+Like many other commercial websites, American Express Publishing websites may utilize a standard technology called a "cookie" to collect information about how our site is used. Please read [About Cookies](https://web.archive.org/web/20030412200657id_/http://www.amexpub.com/privacy/cookies.html) for more information.
 
 **Information Use**
 
