@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianceleb.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211135633id_/http%3A//www.indianceleb.com/ourprivacyvow.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianceleb.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607234717id_/http%3A//indianceleb.com/ourprivacyvow.html) for the most accurate reproduction.*
 
 # IndianCeleb Privacy Vow
 
