@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blink.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621081300id_/http%3A//www.blink.com/Dispatch%3Fpage%3DAbout%26args%3D1%26arg0%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blink.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008172136id_/http%3A//www.blink.com/footer/Privacy.jsp) for the most accurate reproduction.*
 
-# Blink and Your Privacy
+# Blink Rewards
 
 **Blink Privacy Policy**
 
@@ -62,7 +62,7 @@ _Note that unsubscribing from one e-mail list does not automatically unsubscribe
 
 **Access to Information**
 
-If you want to review, correct or change your Member account information, please go to the [Update Info](https://web.archive.org/go?page=MyAccount&args=1&arg0=general) section of the Site, and follow the appropriate instructions (you may have to log-in first). 
+If you want to review, correct or change your Member account information, please go to the [Update Info](https://web.archive.org/myaccount?e=2) section of the Site, and follow the appropriate instructions (you may have to log-in first). 
 
 **Third Party Services**
 
@@ -92,15 +92,13 @@ By providing PII and other information to Blink.com, Members and users of the Si
 
 In its sole discretion, Blink.com may transfer, sell or assign information collected on or about Members and/or users of the Site, including without limitation, PII and other Member provided information, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of Blink.com. 
 
-**Terminate Account** Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Blink.com. Accounts may be terminated by [CLICKING HERE](https://web.archive.org/go?page=MyAccount&args=1&arg0=disable&doneurl=%2Fgo%3Fpage%3DMyAccount%26args%3D1%26arg0%3Ddisable) and following the applicable instructions, or by emailing Blink.com customer service at [support@blink.com](mailto:support@blink.com). All inquiries concerning the use of Member PII by a third party must be communicated to that third party, and not to Blink.com. 
+**Terminate Account** Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Blink.com. Accounts may be terminated by [CLICKING HERE](https://web.archive.org/myaccount?e=5) and following the applicable instructions, or by emailing Blink.com customer service at [Contact us](https://web.archive.org/footer/ContactUs.jsp). All inquiries concerning the use of Member PII by a third party must be communicated to that third party, and not to Blink.com. 
 
 **Changes to this Policy**
 
 Blink.com may, from time to time, amend this Policy, in whole or part, in its sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy on the Site. Depending on the nature of the change, Blink.com may announce the change (1) on the home page of the Site, or (2) provide such notice via e-mail to Members. By continuing to use the Site following any changes or by remaining a Member, you will be deemed to have agreed to such changes. 
 
-Presented by:  
+Presented by  
 Blink.com, Inc.  
 15260 Ventura Blvd., Suite 2000  
-Sherman Oaks, CA 91403  
-[support@blink.com](mailto:support@blink.com)  
-
+Sherman Oaks, CA 91403 
