@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203103100id_/http%3A//www.whiteflowerfarm.com/aboutus/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604180110id_/http%3A//www.whiteflowerfarm.com/aboutus/security.asp) for the most accurate reproduction.*
 
 # White Flower Farm Quality, Guaranteed
 
