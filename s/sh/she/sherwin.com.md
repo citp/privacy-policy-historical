@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sherwin.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209182759id_/http%3A//www.sherwin.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherwin.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601101721id_/http%3A//sherwin.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Sherwin-Williams |
 
 **THE SHERWIN-WILLIAMS COMPANY PRIVACY POLICY**
 
-Your right to privacy is very important. The Sherwin-Williams Company ("Sherwin-Williams") recognizes that when you choose to provide us with information about yourself, you trust us to act responsibly. That's why we have prepared this Privacy Policy to describe the types of personal and non-personal information we collect through our various Web sites (collectively, "Web Sites"), how we use such information, and to whom and under what circumstances we disclose such information. Below is a summary of our Privacy Policy. By using our Web Sites, you signify your assent to this Privacy Policy and to the Web Sites' [Terms of Use](https://web.archive.org/web/20021209182759id_/http%3A//www.sherwin.com/legal/default.asp). If you do not agree to the terms of this Privacy Policy or our Web Sites' Terms of Use, please do not use our Web Sites. 
+Your right to privacy is very important. The Sherwin-Williams Company ("Sherwin-Williams") recognizes that when you choose to provide us with information about yourself, you trust us to act responsibly. That's why we have prepared this Privacy Policy to describe the types of personal and non-personal information we collect through our various Web sites (collectively, "Web Sites"), how we use such information, and to whom and under what circumstances we disclose such information. Below is a summary of our Privacy Policy. By using our Web Sites, you signify your assent to this Privacy Policy and to the Web Sites' [Terms of Use](https://web.archive.org/web/20030601101721id_/http%3A//sherwin.com/legal/default.asp). If you do not agree to the terms of this Privacy Policy or our Web Sites' Terms of Use, please do not use our Web Sites. 
 
 **WHAT INFORMATION DO WE COLLECT?**
 
