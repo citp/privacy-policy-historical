@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reebok.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223164518id_/http%3A//www.reebok.com/useng/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reebok.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303001704id_/http%3A//www.reebok.com/useng/legal/privacy.htm) for the most accurate reproduction.*
 
 # Reebok
 
