@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webmasterquest.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811224405id_/http%3A//www.webmasterquest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterquest.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603083946id_/http%3A//www.webmasterquest.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for WebmasterQuest
 
 | 
 
-[](https://web.archive.org/click.php?ButtonID=1)
+[](https://web.archive.org/click.php?ButtonID=2)
 
   
 |  | 
