@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014165122id_/http%3A//kipp.org/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402211952id_/http%3A//www.kipp.org/global/privacy.html) for the most accurate reproduction.*
 
 # KIPP > Privacy Policy
 
