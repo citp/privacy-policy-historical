@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004082834id_/http%3A//www.woodforest.com/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622052034id_/http%3A//www.woodforest.com/privacy/default.htm) for the most accurate reproduction.*
 
 # Woodforest National Bank-Online Banking
 
   
-[](https://www.woodforest.com/ibank/)  
-[Apply Now](https://web.archive.org/web/20021004082834id_/http%3A//www.woodforest.com/online_banking/applyNow.asp)        
-[Find Out More](https://web.archive.org/web/20021004082834id_/http%3A//www.woodforest.com/online_banking/default.htm)   
+[](https://www1.woodforest.com/ibank/)  
+[Apply Now](https://web.archive.org/web/20030622052034id_/http%3A//www.woodforest.com/online_banking/applyNow.asp)        
+[Find Out More](https://web.archive.org/web/20030622052034id_/http%3A//www.woodforest.com/online_banking/default.htm)   
 |  |   
 ---|---  
-| [Privacy Policy](https://web.archive.org/web/20021004082834id_/http%3A//www.woodforest.com/privacy/default.htm)  
-| [Online Banking Disclosure](https://web.archive.org/web/20021004082834id_/http%3A//www.woodforest.com/privacy/online_disclosure.htm)  
-| [Security Policy](https://web.archive.org/web/20021004082834id_/http%3A//www.woodforest.com/privacy/securityPolicy.htm)  
+| [Privacy Policy](https://web.archive.org/web/20030622052034id_/http%3A//www.woodforest.com/privacy/default.htm)  
+| [Online Banking Disclosure](https://web.archive.org/web/20030622052034id_/http%3A//www.woodforest.com/privacy/online_disclosure.htm)  
+| [Security Policy](https://web.archive.org/web/20030622052034id_/http%3A//www.woodforest.com/privacy/securityPolicy.htm)  
+| [Privacy Notice](https://web.archive.org/web/20030622052034id_/http%3A//www.woodforest.com/privacy/PrivacyNotice.htm)  
   |    
 |   
   
