@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401231308id_/http%3A//presidentialserviceawards.gov/tg/siteinfo/dspPrivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015084949id_/http%3A//www.presidentialserviceawards.gov/tg/siteinfo/dspPrivacy.cfm) for the most accurate reproduction.*
 
-# President's Volunteer Service Award: For Volunteers: Record of Service
+# President's Volunteer Service Award
 
 President’s Volunteer Service Award (the "PVSA WEB SITE") has adopted and implemented this privacy policy as part of our commitment to protecting your personal information from misuse. While this policy focuses on online collection of information related to your interaction with the PVSA WEB SITE's website (the "website"), it applies to the PVSA WEB SITE's collection policies in general. 
 
