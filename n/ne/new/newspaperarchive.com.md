@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607202611id_/http%3A//newspaperarchive.com/Support/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206043022id_/http%3A//newspaperarchive.com/Support/Privacy.asp) for the most accurate reproduction.*
 
 # NewspaperArchive.com - Search old newspapers
 
