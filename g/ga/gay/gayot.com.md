@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604015854id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017054257id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Gayot.com: About Us
 
@@ -33,6 +33,12 @@ Personal information collected by Gayot is stored and maintained in secure opera
 
 **Third Party Web Sites**   
 Gayot links to third-party websites. These linked sites are not under the control of Gayot and are not affiliated with Gayot. Gayot cannot be responsible for the contents of any linked site or the contents of any link contained in a linked site. 
+
+**WebTrends Live  
+**WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendslive.com/wtl_system/privacy_policy.htm).  
+  
+**Content Disclaimer**  
+Gayot.com makes every effort to ensure the accuracy of information provided on all of our websites ([www.gayot.com](http://www.gayot.com/), [www.novusvinum.com](http://www.novusvinum.com/), [www.thefoodpaper.com](http://www.thefoodpaper.com/), [www.qualiteas.com](http://www.qualiteas.com/) and [www.chateaugayot.com](http://www.chateaugayot.com/)). However, Gayot does not assume, and hereby disclaims, any liability for any loss or damage brought about by errors, omissions, misleading information or the use or reliability of information presented on these websites, even if such errors occurred unintentionally, as a result of negligence or any other cause.
 
 **Gayot Privacy Policy Changes**  
 If Gayot changes its privacy policy, these changes will be posted here so that you will always know what information Gayot gathers, how Gayot might use that information, and whether Gayot will disclose it to anyone. If Gayot makes any material change concerning how your personally identifiable information is used, then, in addition to including such revision in this privacy statement, Gayot will post a notice on the Gayot site that a change to the privacy policy has taken place. You are expected to review this Agreement periodically to ensure familiarity with the most current version. 
