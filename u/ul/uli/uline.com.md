@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uline.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607142139id_/http%3A//www.uline.com/PolicyPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uline.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014153802id_/http%3A//www.uline.com/PolicyPrivacy.asp) for the most accurate reproduction.*
 
 # Uline: Privacy Policy
 
