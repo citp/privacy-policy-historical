@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602135732id_/http%3A//www.filemaker.com/legal/notice_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205153314id_/http%3A//www.filemaker.com/legal/notice_privacy.html) for the most accurate reproduction.*
 
 # FileMaker Inc.
 
@@ -11,7 +11,7 @@ Protecting your privacy is important to FileMaker. We strive to keep your person
 **We collect information about you in several ways. For example, we might ask for your contact information when you correspond with us, call us to make a purchase or request service, register to attend a seminar, or participate in an online survey. In addition, when you register a new FileMaker product, sign up for FileMaker services, or ask to be included in an email mailing list, we collect and store the information you provide in a secure database. 
 
 **When We Disclose Personal Information  
-**Because FileMaker is a global company, your personal information may be shared with other FileMaker business units around the world. They will protect your personal information in accordance with the FileMaker Customer Privacy Policy. FileMaker may occasionally share your personal contact information with carefully selected companies, to keep you informed about related products and services. If you do not want to receive promotional information from FileMaker or these companies, contact [FileMaker Customer Assistance](https://web.archive.org/web/20020602135732id_/http%3A//www.filemaker.com/company/contact.html#customerassistance) to update your personal contact preferences. 
+**Because FileMaker is a global company, your personal information may be shared with other FileMaker business units around the world. They will protect your personal information in accordance with the FileMaker Customer Privacy Policy. FileMaker may occasionally share your personal contact information with carefully selected companies, to keep you informed about related products and services. If you do not want to receive promotional information from FileMaker or these companies, contact [FileMaker Customer Assistance](https://web.archive.org/web/20021205153314id_/http%3A//www.filemaker.com/company/contact.html#customerassistance) to update your personal contact preferences. 
 
 FileMaker works with other companies that help us provide FileMaker products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with FileMaker's policies. 
 
@@ -23,7 +23,7 @@ At times we may be required by law or legal process to disclose your personal in
 The FileMaker Store uses industry-standard Secure Sockets Layer (SSL) encryption on all web pages where personal information is required. To make purchases from the FileMaker Store, you must use an SSL-enabled browser such as Netscape Navigator 4.0 or later, or Internet Explorer 4.0 or later. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet. 
 
 **Access to Your Personal Information**  
-You have access to the information we have about you. To review and update your personal information, contact [FileMaker Customer Assistance](https://web.archive.org/web/20020602135732id_/http%3A//www.filemaker.com/company/contact.html#customerassistance). 
+You have access to the information we have about you. To review and update your personal information, contact [FileMaker Customer Assistance](https://web.archive.org/web/20021205153314id_/http%3A//www.filemaker.com/company/contact.html#customerassistance). 
 
 **Collecting Other Personal Information**  
 When you browse FileMaker's website, you are able to do so anonymously. Generally, we don't collect personal information when you browse -- not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using. 
