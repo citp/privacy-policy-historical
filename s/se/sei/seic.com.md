@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seic.com privacy policy that was archived on 2003-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031230151207id_/http%3A//www2.seic.com/docs/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seic.com privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620091554id_/http%3A//www2.seic.com/docs/privacyPolicy.asp) for the most accurate reproduction.*
 
 # 
 
