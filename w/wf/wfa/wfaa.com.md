@@ -1,49 +1,88 @@
-> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2000-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000919103318id_/http%3A//wfaa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2001-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011106021917id_/http%3A//wfaa.com/privacy) for the most accurate reproduction.*
 
 # WFAA.COM
 
-| **BELO INTERACTIVE PRIVACY POLICY** **
+|  |  **PRIVACY POLICY**
 
-This Privacy Policy discloses the general privacy practices for www.belointeractive.com and www.wfaa.com.
+This Privacy Policy discloses the general privacy practices for the Belo Interactive web sites, including www.wfaa.com. Belo Interactive, Inc. is a subsidiary of Belo Corp. ("Belo Interactive"). 
 
-**  
-Belo Interactive is committed to respecting the privacy rights of visitors to any of the Belo Interactive web sites. While visiting Belo Interactive web sites (collectively, the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site. To further the protection of your Personal Information, Belo Interactive has adopted a set of information management guidelines (outlined below) which serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. Please see the Effective Date stated at the conclusion of this Policy.
+Belo Interactive is committed to respecting your privacy rights when visiting any Belo Interactive web site, such as this one. To protect your Personal Information, Belo Interactive has created the guidelines outlined below. Understanding that Internet technologies are rapidly evolving, any changes to this policy will be promptly posted on this page, with an updated "effective date" posted at the end of this policy. 
 
 **Information Collected:**
 
-**What are Cookies?**  
-There is a technology called "cookies" which can be used to provide you with tailored information from a web site. A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The Site can only access the information from a cookie sent by the Site. We cannot access other cookies sent by other web sites or the information contained therein. Additionally, we cannot learn your email address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically submit that information to us, for example, through our registration system, by entering a sweepstakes or promotion, etc.
+While visiting any of the Belo Interactive web sites (collectively, the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site. Such Personal Information may include, but is not limited to, your name, phone number, street address and e-mail address. On any page that collects Personal Information, we will specifically describe what information is required in order to provide you with the product or service or enter you in the promotion you have requested, as well as respond to your inquiry or comment. 
 
-**Why do the Belo Sites use cookies?  
-**Belo Interactive uses cookies to track usage of the Site and further customize your experience when you are visiting the Site. By tracking usage, we can best determine what features of the Site best serve the users. We never give out information to others about individual usage. However, we do provide our advertisers with aggregate information about our users, such as "2,000 people viewed your ad today."
+**What are Cookies?** A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The Site can only access the information from a cookie sent by the Site. We cannot access other cookies sent by other web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, by entering a sweepstakes or promotion, etc. 
 
-**May I decline to accept a cookie?  
-**On those pages of the Site that do not require registration, you may decline to accept cookies sent by the Site by selecting an option on your browser to reject cookies. However, some portions of the Site may require registration in order to access those areas. In such case, we ask that you register and provide us with basic information on our registration page. Cookies enable our server to know that you are a registered user; therefore, our registration system requires that you accept the cookies from the Sites. Other sites linked to the Site may also send cookies; however we do not control such activities.
+**Why does the Site use cookies?** Belo Interactive uses cookies to track usage of the Site and further personalize your experience when you are visiting the Site. By tracking usage, we can best determine what features of the Site best serve the users. 
 
-**What benefits do I receive from cookies?**  
-Overall, the use of cookies helps to give you a customized experience at the Site. Through the use of cookies, we’ll know what’s working and what’s not. That information is then used to keep our Site fresh and relevant to you the user. Cookies also allow you to avoid retyping your user id each time you access the Site, as well as personalize any online services we provide to you.
+**What benefits do I receive from cookies?** Overall, the use of cookies helps to give you a more personalized experience at the Site. The information is used to keep our Site fresh and relevant to you the user. Cookies also allow you to avoid retyping your e-mail address and password each time you access the Site. 
 
-**What happens with the information collected in a cookie?  
-**We use an advertising server developed by a third party to display ads on the Site. Some of these ads may contain cookies that are set by third parties (i.e. advertising agencies or advertising clients). We do not have access to these cookies or any information that they may contain; please contact the advertiser for more information on these cookies.  
-**  
-IP Addresses:** Belo Interactive does log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes.
+**May I decline to accept a cookie?** You may decline to accept cookies sent by the Site by selecting an option on your browser to reject cookies. However, some portions of the Site may require registration in order to access those areas. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user; and will eliminate the need for you to log in each time you access our Site. In addition, our registration system may require that you accept the cookies from the Site in order to access that portion of the Site. 
+
+We use an advertising server developed by a third party to display ads on the Site. Some of these ads may contain cookies that are set by third parties (i.e. advertising agencies or advertising clients). We do not have access to these cookies or any information that they may contain; please contact the advertiser for more information on these cookies. Other sites linked to the Site may also send cookies; however we do not control such activities. 
+
+What happens with the information collected in a cookie? The information stored in a cookie is used to identify you to our server, to allow us to personalize your experience on the Site, and to serve content and communications that may be of interest to you. 
+
+IP Addresses: Belo Interactive does log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage. 
 
 **Use of Personal Information**
 
-Belo Interactive may match aggregated user information with third party data. Also, Belo Interactive discloses aggregated user statistics in order to describe our services to potential advertisers, partners and other third parties, and for other lawful purposes. Additionally, Belo Interactive will use reasonable efforts to ensure that only our employees with a "need to know" will have access to your information. We do not release personal information about you as an individual to third parties.
+We believe in protecting your privacy, and will not share Personal Information with third parties outside of Belo Corp. except as described in this Privacy Policy. We believe that we can enhance your experience on our Site with the information you share with us. We use Personal Information about you to improve our advertising and marketing efforts, to statistically analyze Site usage, to improve our content and product offerings and to personalize the Site's content, layout, and services. We may also use your Personal Information, such as your e-mail address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected or respond to your comments and suggestions. 
 
-It should be noted, however, that this Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, personal ads, or the like, or through other web sites throughout the Internet, different policies may apply. Since Belo Interactive does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of that third party, and Belo Interactive shall not be responsible for the use or dissemination of your private information by that third party. Therefore, we encourage you to ask questions before you disclose your personal information to others.
+Belo Interactive may match specific and/or aggregated Personal Information with third party data to provide you with product and content offerings that interest you and improve our advertising and marketing efforts. Belo Interactive also may disclose aggregated user statistics in order to describe our services to potential advertisers, partners, other third parties, our affiliate companies, and for other lawful purposes. For example, we provide our advertisers with aggregate information about our users, such as "2,000 people viewed your ad today." 
+
+As part of your experience on our Site, you may receive communications from us related to products and services that might interest you. While we believe these services will enhance your experience at our Site, you will at all times be able to opt out from receiving these communications, either by specifically opting out of these services or by deleting your profile from our database. 
+
+We have today, and will in the future have, arrangements with third party service providers, such as credit card processors, shipping companies and fulfillment services. When you sign up for a service we offer on the Site, we may be required to share Personal Information with that service provider in order to provide the service. These third party providers are not permitted to retain or use Personal Information for any purpose unrelated to providing the service. 
+
+Belo Interactive may also offer other services as a part of our Site (e.g., car buying service, personalized finance and weather information alerts, contests, sweepstakes and other promotions with unaffiliated third parties). If you choose to use these optional services or opportunities, we may provide some of your Personal Information to third parties, such as service providers and other parties assisting us in providing the service. We will not do so without telling you how we will use that information, and you can avoid having us make such disclosures by choosing not to use these services or features of the Site. 
+
+We reserve the right to disclose Personal Information when needed to comply with the law or a legal process, cooperate with investigations of purported unlawful activities, to identify persons violating the law, or in connection with the sale of part or all of Belo Interactive's or its affiliate's stock or assets. 
+
+**Party Collecting the Information**
+
+This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, personal ads, or the like, through third party services or promotions offered on or through the Site or through other web sites throughout the Internet, different policies may apply and Belo Interactive shall not be responsible for the use or dissemination of such information. 
+
+Our Sites may operate as part of a larger group of sites, and may carry co-branded pages. In addition, other sites may use the Site's or Belo Interactive's name. Since Belo Interactive does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of such third parties, and Belo Interactive shall not be responsible for the use or dissemination of your private information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your Personal Information to others. 
 
 **Links to Other Materials**
 
-If any link is offered connecting you to a third party web site, it is as an accommodation to the respective third party site owner and without charge. Third party sites linked to and from the Site are not necessarily under the control of Belo Interactive. Belo Interactive shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. Belo Interactive does not necessarily endorse companies (or related products or services) to or from which the Site is linked. If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk. Belo Interactive hereby disclaims any rights to trademarks, service marks, trade names, logos, copyrights, patents, domain names or other intellectual property interests of third parties.
+Third party sites linked to and from the Site are not necessarily under the control of Belo Interactive. Belo Interactive shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. Belo Interactive does not necessarily endorse companies (or related products or services) to or from which the Site is linked. If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk. Belo Interactive hereby disclaims any rights to trademarks, service marks, trade names, logos, copyrights, patents, domain names or other intellectual property interests of third parties. 
 
-**Children’s Privacy**
+_**Children's Privacy** _
 
-Belo Interactive cares about the safety of children and their use of the Internet. Therefore, in accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.  
-**  
-Effective Date and Changes  
-**  
-This Privacy Policy is effective as of April 11, 2000. Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes.  
+_Belo Interactive cares about the safety of children and their use of the Internet. Therefore, in accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical._ **Opting-Out**
+
+We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features or services on the Site, you can choose whether to share optional Personal Information in connection with the feature or service. If you receive communications from us that you prefer not to receive, you may opt out from receiving these communications, either by specifically indicating this preference in a communication to us or by deleting your registration profile from our database. 
+
+You may also "opt-out" altogether from providing Personal Information to us by not registering on the Site and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database. To do so, please follow the process described below. 
+
+Certain portions of the Site and certain services provided on the Site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you. 
+
+**Reviewing, Changing and Deleting Your Personal Information**
+
+You may access all of the Personal Information that we collect from you online and maintain by using the procedure that follows. We use this procedure to better safeguard your Personal Information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+You may also at any time choose to change or delete your profile from our database using this procedure. You should know that as a result of deregistration, certain areas of our Site may no longer be accessible to you. 
+
+  * 1\. Enter (or click) http://signin.wfaa.com in your browser. 
+  * 2\. Sign in by entering your e-mail address and password. Your account information will then be displayed. 
+  * 3\. Modify your information and submit the form.
+
+
+
+**Security**
+
+Belo Interactive maintains industry standard safeguards to ensure the security, integrity and privacy of the Personal Information that you provide to Belo Interactive. 
+
+**Contacting Us**
+
+If you have any questions or comments about our Privacy Policy, please e-mail us at helpcenter@bimail4.belointeractive.com. 
+
+**Effective Date and Changes**
+
+This Privacy Policy is effective as of May 21, 2001. Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes.   
+  
   
 ---|---
