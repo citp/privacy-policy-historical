@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kindercare.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205080356id_/http%3A//www.kindercare.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kindercare.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223141052id_/http%3A//www.kindercare.com/privacy.php3) for the most accurate reproduction.*
 
 # KinderCare Learning Centers - KinderCare Privacy Policy
 
