@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607222619id_/http%3A//www.jcpportraits.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208090459id_/http%3A//www.jcpportraits.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # JCPenney Portrait Studios - Terms of Use and Privacy Policy
 
 ## JCPenney Portraits Privacy Policy
 
-[Terms and Conditions](https://web.archive.org/web/20020607222619id_/http%3A//www.jcpportraits.com/html/terms.shtml#Terms) | [Security](https://web.archive.org/web/20020607222619id_/http%3A//www.jcpportraits.com/html/terms.shtml#Security) | [ Copyright Notice](https://web.archive.org/web/20020607222619id_/http%3A//www.jcpportraits.com/html/terms2.shtml#Copyright) |   
-[ Disclaimers](https://web.archive.org/web/20020607222619id_/http%3A//www.jcpportraits.com/html/terms2.shtml#DISCLAIMERS) | [ Limitation of Liability](https://web.archive.org/web/20020607222619id_/http%3A//www.jcpportraits.com/html/terms3.shtml#LIMITATION) | [Privacy](https://web.archive.org/web/20020607222619id_/http%3A//www.jcpportraits.com/html/privacy.shtml)
+[Terms and Conditions](https://web.archive.org/web/20021208090459id_/http%3A//www.jcpportraits.com/html/terms.shtml#Terms) | [Security](https://web.archive.org/web/20021208090459id_/http%3A//www.jcpportraits.com/html/terms.shtml#Security) | [ Copyright Notice](https://web.archive.org/web/20021208090459id_/http%3A//www.jcpportraits.com/html/terms2.shtml#Copyright) |   
+[ Disclaimers](https://web.archive.org/web/20021208090459id_/http%3A//www.jcpportraits.com/html/terms2.shtml#DISCLAIMERS) | [ Limitation of Liability](https://web.archive.org/web/20021208090459id_/http%3A//www.jcpportraits.com/html/terms3.shtml#LIMITATION) | [Privacy](https://web.archive.org/web/20021208090459id_/http%3A//www.jcpportraits.com/html/privacy.shtml)
 
-**What information is collected at jcpportraits.com? How is it used?**
+**What information is collected at jcpenneyportraits.com? How is it used?**
 
-Your personal information. At jcpportraits.com, we only collect personally identifiable information about you to the extent you specifically provide it to us. This includes, for example, the information you provide when you place an order, register for a service, respond to a survey or enter a contest or sweepstakes online. We use this information you share with us
+Your personal information. At jcpenneyportraits.com, we only collect personally identifiable information about you to the extent you specifically provide it to us. This includes, for example, the information you provide when you place an order, register for a service, respond to a survey or enter a contest or sweepstakes online. We use this information you share with us
 
 | 
 
@@ -32,17 +32,17 @@ We may share this information among JCPenney Company, Inc., Lifetouch Inc. and t
 
 In addition, there may be some other, limited circumstances in which we may share or transfer the information in our databases, for example, to respond to judicial process, to comply with state, federal or local laws, to protect the security or integrity of our databases or Web site, to take precautions against liability, in the event of a corporate reorganization or, to the extent required by law, to provide information to law enforcement agencies.
 
-**Other information about you**. In addition to personal information you provide us, jcpportraits.com uses technology that lets us know what type of browser you are using, the Website from which you enter jcpportraits.com, and the pages you view as you tour our site. This technology does not identify you personally - it simply helps us compile statistics about our visitors and their use of our site. We use these statistics and share them with third parties to improve our Website design and content and in connection with marketing programs.
+**Other information about you**. In addition to personal information you provide us, jcpenneyportraits.com uses technology that lets us know what type of browser you are using, the Website from which you enter jcpenneyportraits.com, and the pages you view as you tour our site. This technology does not identify you personally - it simply helps us compile statistics about our visitors and their use of our site. We use these statistics and share them with third parties to improve our Website design and content and in connection with marketing programs.
 
 **
 
-If you do not wish to receive promotional information as a result of using the jcpportraits.com Website, what should you do?
+If you do not wish to receive promotional information as a result of using the jcpenneyportraits.com Website, what should you do?
 
 **
 
 Our goal is to inform you about our products and services, including special promotions and coupons. We may contact you by mail or e-mail or telephone to inform you of offers. However, if you are contacted and do not wish to receive further information or contacts, use the means by which you were contacted to indicate you do not want further promotional information or contacts. If contacted by mail, return the mail to sender. If contacted by e-mail, reply to the e-mail sender. If telephoned, notify the person telephoning you that you do not want additional contacts.
 
-If you would prefer not to receive promotional information as a result of using the jcpportraits.com Website, we will do our best to remove yourfrom our marketing programs. We will act promptly to honor your request. However, even if we remove your from use in our marketing programs, you may still receive offers and other promotional materials from JCPenney Company and Lifetouch businesses and their partners, outside vendors or service providers if they obtained yourbefore it was removed or from a source other than jcpportraits.com.
+If you would prefer not to receive promotional information as a result of using the jcpenneyportraits.com Website, we will do our best to remove yourfrom our marketing programs. We will act promptly to honor your request. However, even if we remove your from use in our marketing programs, you may still receive offers and other promotional materials from JCPenney Company and Lifetouch businesses and their partners, outside vendors or service providers if they obtained yourbefore it was removed or from a source other than jcpenneyportraits.com.
 
 **
 
@@ -50,7 +50,7 @@ Children
 
 **
 
-Jcpportraits.com does not knowingly collect personally identifiable information from children under the age of 13. If a child has provided jcpportraits.com with personally identifiable information, we ask that a parent or guardian contact jcpportraits.com in writing at 11000 Viking Drive, Suite 400, Eden Prairie, MN 55344, Attention: Legal Department and we will do our best to delete the information from our files.
+jcpenneyportraits.com does not knowingly collect personally identifiable information from children under the age of 13. If a child has provided jcpenneyportraits.com with personally identifiable information, we ask that a parent or guardian contact jcpenneyportraits.com in writing at 11000 Viking Drive, Suite 400, Eden Prairie, MN 55344, Attention: Legal Department and we will do our best to delete the information from our files.
 
 **
 
@@ -66,6 +66,6 @@ Your consent
 
 **
 
-By using the jcpportraits.com Website, you consent to our use of guest information as described in this Online Privacy Policy. As we implement new technology and introduce new services, we will update our Online Privacy Policy, so we encourage you to review it often. We reserve the right to change our Privacy Policy at any time without advance notice. Should any new policy go into effect, we will post it on this site, and the policy will apply to all information collected.
+By using the jcpenneyportraits.com Website, you consent to our use of guest information as described in this Online Privacy Policy. As we implement new technology and introduce new services, we will update our Online Privacy Policy, so we encourage you to review it often. We reserve the right to change our Privacy Policy at any time without advance notice. Should any new policy go into effect, we will post it on this site, and the policy will apply to all information collected.
 
 Revised October 20, 2000
