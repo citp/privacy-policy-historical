@@ -1,0 +1,416 @@
+<!--The following is the downloaded HTML source of the soundfeelings.com privacy policy that was archived on 1999-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19991222143022id_/http%3A//soundfeelings.com/about/privacy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 FINAL//EN"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="Author" content="Howard Richman">
+<meta name="Generator" content="NetObjects Fusion 4.0 for Windows">
+<title>Sound Feelings - Privacy Policy</title>
+<meta name="Robots" content="noindex,follow">
+<meta name="Resource-type" content="document">
+<meta name="Distribution" content="local">
+<meta name="Copyright" content="Copyright c 1998, 1999 Sound Feelings Publishing, Reseda, California, All Rights Reserved"> 
+<meta name="Rating" content="general">
+<meta http-equiv="Content-Language" content="en">
+<meta http-equiv="Reply-To" content="howardrichman@soundfeelings.com"> 
+<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot;
+ by &quot;howardrichman@soundfeelings.com&quot; for 
+&quot;http://www.soundfeelings.com&quot; on
+ &quot;1997.06.28T23:20-0500&quot; r (n 0 s 0 v 0 l 0))">
+<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; l gen true
+for &quot;http://www.soundfeelings.com/&quot; r (SS~~000 1 SS~~002 1 SS~~005 1))">   
+
+
+
+<script>
+<!-- Hide Script
+   if (top.location != self.location) 
+   {top.location = self.location}
+//End Hide Script-->
+</script>
+
+
+
+
+<script language="JavaScript">
+//<!-- 
+
+// _get_name()
+// Returns: String - Browser's name
+//          One of: "Netscape" - Netscape Navigator
+//                  "MSIE"     - Microsoft Internet Explorer
+//                  appName    - Other browser's navigator.appName property
+
+function _get_name() {
+    if (navigator.appName.substring(0,8) == "Netscape") return "Netscape";
+    else if (navigator.appName.substring(0,9) == "Microsoft") return "MSIE";
+    else return navigator.appName;
+}
+
+// _get_version()
+// Returns: Float - 1000 times the browser's version number
+
+function _get_version() {
+    if (_get_name() == "MSIE") {
+	verLocate = navigator.appVersion.indexOf("MSIE") + 5;
+	return Math.round(parseFloat(navigator.appVersion.substring(verLocate, verLocate + 4)) * 1000);
+    }  
+    else {
+	return Math.round(parseFloat(navigator.appVersion) * 1000);
+    }
+}
+
+// _get_os()
+// Returns: String - Operating System that browser is designed for/running on
+//          One of: "Win95"   - Windows 95
+//                  "Win31"   - Windows 3.1
+//                  "WinNT"   - Windows NT
+//                  "Mac"     - Macintosh
+//                  "Unix"    - Unix/X11
+//                  "Unknown" - Other OS 
+
+function _get_os() {
+    if (navigator.appVersion.indexOf("Win95") > 0) return "Win95";
+    else if (navigator.appVersion.indexOf("Windows 95") > 0) return "Win95";
+    else if (navigator.appVersion.indexOf("Win16") > 0) return "Win31";
+    else if (navigator.appVersion.indexOf("Windows 3.1") > 0) return "Win31";
+    else if (navigator.appVersion.indexOf("WinNT") > 0) return "WinNT";
+    else if (navigator.appVersion.indexOf("Windows NT") > 0) return "WinNT";
+    else if (navigator.appVersion.indexOf("Mac") > 0) return "Mac";
+    else if (navigator.appVersion.indexOf("X11") > 0) return "Unix";
+    else return "Unknown";
+}
+
+// _get_browser()
+// Returns: Object - Browser information
+//         
+//          Properties: name - Browser's name
+//                      One of: "Netscape" - Netscape Navigator
+//                              "MSIE"     - Microsoft Internet Explorer
+//                              appName    - Other browser's navigator.appName
+//                                           property
+//                      version - 1000 times the browser's version number
+//                      os - Operating System browser is running on or 
+//                           designed for
+//                      One of: "Win95"   - Windows 95
+//                              "Win31"   - Windows 3.1
+//                              "WinNT"   - Windows NT
+//                              "Mac"     - Macintosh
+//                              "Unix"    - Unix/X11
+//                              "Unknown" - Other OS
+
+
+function _get_browser() {
+    var browser = new Object();
+    browser.name = _get_name();
+    browser.version = _get_version();
+    browser.os = _get_os();
+    return browser;
+}
+
+var browser=_get_browser();
+
+//--> 
+</script>
+
+<script language="JavaScript">
+//<!--
+var selected='';
+
+function mouseOver(img) {
+   if ((selected != img) & (img != '')) {
+      document.images[img].src = '/images/'+img+'ButMO.gif';
+   }
+}
+
+function mouseOut(img) {
+   if ((selected != img) & (img != '')) {
+      document.images[img].src = '/images/'+img+'But.gif';
+   }
+}
+
+function doClick(img) {
+   currentSelection = selected;
+   selected = img;
+   mouseOut(currentSelection);
+   document.images[img].src = '/images/'+img+'ButCL.gif';
+}
+
+function writeHorImage(img, target, alt) {
+	if (document.location.toString().indexOf(target) == -1) { 
+	if (((browser.version >= 3000) && (browser.name == "Netscape")) || ((browser.version >= 4000) && (browser.name == "MSIE"))) {
+		document.write('<TD VALIGN=BOTTOM CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=RIGHT NOWRAP><A HREF="'+target+'" HREF="" onMouseOver="mouseOver(\''+img+'\');" onMouseOut="mouseOut(\''+img+'\');" onClick="doClick(\''+img+'\');">');
+		document.write('<IMG WIDTH=108 HEIGHT=20 BORDER=0 NAME="'+img+'" SRC="/images/'+img+'But.gif" ALT="'+alt+'"></a></td>');
+	}
+	else {
+		document.write('<TD VALIGN=BOTTOM CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=RIGHT NOWRAP><A HREF="'+target+'"><IMG WIDTH=108 HEIGHT=20 BORDER=0 SRC="/images/'+img+'But.gif" ALT="'+alt+'"></a></td>');
+	}
+	}
+	else {
+		document.write('<TD VALIGN=BOTTOM CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=RIGHT NOWRAP><A HREF="'+target+'"><IMG WIDTH=108 HEIGHT=20 BORDER=0 SRC="/images/'+img+'ButCL.gif" ALT="'+alt+'"></a></td>');
+	}
+}
+
+function writeVertImage(img, target, alt) {
+	if (document.location.toString().indexOf(target) == -1) { 
+	if (((browser.version >= 3000) && (browser.name == "Netscape")) || ((browser.version >= 4000) && (browser.name == "MSIE"))) {
+		document.write('<A HREF="'+target+'" HREF="" onMouseOver="mouseOver(\''+img+'\');" onMouseOut="mouseOut(\''+img+'\');" onClick="doClick(\''+img+'\');">');
+		document.write('<IMG WIDTH=108 HEIGHT=20 BORDER=0 NAME="'+img+'" SRC="/images/'+img+'But.gif" ALT="'+alt+'"></a><BR>');
+	}
+	else {
+		document.write('<A HREF="'+target+'"><IMG WIDTH=108 HEIGHT=20 BORDER=0 SRC="/images/'+img+'But.gif" ALT="'+alt+'"></a><BR>');
+	}
+	}
+	else {
+		document.write('<A HREF="'+target+'"><IMG WIDTH=108 HEIGHT=20 BORDER=0 SRC="/images/'+img+'ButCL.gif" ALT="'+alt+'"></a><BR>');
+	}
+}
+
+
+//-->
+</script>
+
+</head>
+<body bgcolor="#FFFFFF" link="#0000FF" vlink="#800080" text="#000000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+    <noscript>
+<TD VALIGN=BOTTOM CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=RIGHT NOWRAP><A HREF="/index.html">
+<IMG WIDTH=108 HEIGHT=20 BORDER=0 SRC="/images/HomeBut.gif" ALT="Home"></a></td>
+<TD VALIGN=BOTTOM CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=RIGHT NOWRAP><A HREF="/about/">
+<IMG WIDTH=108 HEIGHT=20 BORDER=0 SRC="/images/AboutUsBut.gif" ALT="About Us"></a></td>
+<TD VALIGN=BOTTOM CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=RIGHT NOWRAP><A HREF="/contact.htm">
+<IMG WIDTH=108 HEIGHT=20 BORDER=0 SRC="/images/ContactUsBut.gif" ALT="Contact Us"></a></td>
+<TD VALIGN=BOTTOM CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=RIGHT NOWRAP><A HREF="/free/">
+<IMG WIDTH=108 HEIGHT=20 BORDER=0 SRC="/images/FreeBut.gif" ALT="Free "></a></td>
+<TD VALIGN=BOTTOM CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=RIGHT NOWRAP><A HREF="/products/">
+<IMG WIDTH=108 HEIGHT=20 BORDER=0 SRC="/images/ProductsBut.gif" ALT="Products"></a></td>
+</noscript><table cellpadding="0" cellspacing="0" border="0" hspace="8">
+<tbody><tr><td height="9"></td></tr>
+<tr cellpadding="0" cellspacing="0" border="0" nowrap="" valign="BOTTOM">
+<td rowspan="2" width="7"></td>
+<script language="JavaScript">
+//<!--
+	writeHorImage("Home","/index.html","Home");
+	writeHorImage("AboutUs","/about/","About Us");
+	writeHorImage("ContactUs","/contact.htm","Contact Us");
+	writeHorImage("Free","/free/","Free");
+	writeHorImage("Products","/products/","Products");
+//-->
+</script><td valign="BOTTOM" cellpadding="0" cellspacing="0" border="0" align="RIGHT" nowrap=""><a href="/index.html" onmouseover="mouseOver('Home');" onmouseout="mouseOut('Home');" onclick="doClick('Home');"><img width="108" height="20" border="0" name="Home" src="/images/HomeBut.gif" alt="Home"></a></td><td valign="BOTTOM" cellpadding="0" cellspacing="0" border="0" align="RIGHT" nowrap=""><a href="/about/"><img width="108" height="20" border="0" src="/images/AboutUsButCL.gif" alt="About Us"></a></td><td valign="BOTTOM" cellpadding="0" cellspacing="0" border="0" align="RIGHT" nowrap=""><a href="/contact.htm" onmouseover="mouseOver('ContactUs');" onmouseout="mouseOut('ContactUs');" onclick="doClick('ContactUs');"><img width="108" height="20" border="0" name="ContactUs" src="/images/ContactUsBut.gif" alt="Contact Us"></a></td><td valign="BOTTOM" cellpadding="0" cellspacing="0" border="0" align="RIGHT" nowrap=""><a href="/free/" onmouseover="mouseOver('Free');" onmouseout="mouseOut('Free');" onclick="doClick('Free');"><img width="108" height="20" border="0" name="Free" src="/images/FreeBut.gif" alt="Free"></a></td><td valign="BOTTOM" cellpadding="0" cellspacing="0" border="0" align="RIGHT" nowrap=""><a href="/products/" onmouseover="mouseOver('Products');" onmouseout="mouseOut('Products');" onclick="doClick('Products');"><img width="108" height="20" border="0" name="Products" src="/images/ProductsBut.gif" alt="Products"></a></td>
+
+</tr>
+
+<tr cellpadding="0" cellspacing="0" border="0" nowrap="">
+<td align="LEFT" cellpadding="0" cellspacing="0" border="0" colspan="4" valign="BOTTOM">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td height="10"></td></tr></tbody></table>
+<a href="http://www.soundfeelings.com"><img border="0" width="271" height="79" src="/images/SFLogoH.gif" alt="Sound Feelings logo"></a>
+</td>
+<td align="RIGHT" cellpadding="0" cellspacing="0" border="0" valign="TOP">
+
+</td>
+</tr>
+
+</tbody></table>
+
+
+    <table border="0" cellspacing="0" cellpadding="0" width="545">
+        <tbody><tr valign="TOP" align="LEFT">
+            <td width="7" height="51"><img src="../clearpixel.gif" width="7" height="1" border="0"></td>
+            <td width="538"><img src="../clearpixel.gif" width="538" height="1" border="0"></td>
+        </tr>
+        <tr valign="TOP" align="LEFT">
+            <td></td>
+            <td width="538"><p></p><h1 align="CENTER"><font face="Times New Roman, Times, Times Roman, Times NewRoman">Privacy Policy</font></h1>&nbsp;<p><b><font size="+1" face="Times New Roman, Times, Times Roman, Times NewRoman">
+                What Private Information do we Collect?</font></b>
+                </p><ul>
+                    <ul>
+                        <ul>
+                            <font face="Times New Roman, Times, Times Roman, Times NewRoman"></font><p><font face="Times New Roman, Times, Times Roman, Times NewRoman">To ease your mind, by just clicking on our site, absolutely no information is tracked or collected about you. However, when<br>you write, phone, fax or 
+                            email us, or when you place an order, we take your information. This allows us to reply to your<br>questions or comments, to process and fulfill your orders and to notify you of your order status. In these cases we would
+                            <br>need your name, e-mail address, mailing address, telephone numbers credit card number and expiration date. </font>
+                        </p></ul>
+                    </ul>
+                </ul>
+                <p><b><font size="+1" face="Times New Roman, Times, Times Roman, Times NewRoman">Who Sees This Information? </font></b>
+                </p><ul>
+                    <ul>
+                        <ul>
+                            <font face="Times New Roman, Times, Times Roman, Times NewRoman"></font><p><font face="Times New Roman, Times, Times Roman, Times NewRoman">Only us! Sound Feelings will <b>NEVER</b> sell, trade or rent your personal information to others, for any purpose, whatsoever.</font>
+                        </p></ul>
+                    </ul>
+                </ul>
+                <p><b><font size="+1" face="Times New Roman, Times, Times Roman, Times NewRoman">What Do We Do With This Information?</font></b>
+                </p><ul>
+                    <ul>
+                        <ul>
+                            <font face="Times New Roman, Times, Times Roman, Times NewRoman"></font><p><font face="Times New Roman, Times, Times Roman, Times NewRoman">We use your contact information to occasionally keep you informed of new products. That’s all..</font>
+                        </p></ul>
+                    </ul>
+                </ul>
+                <p><b><font size="+1" face="Times New Roman, Times, Times Roman, Times NewRoman">What About “Cookies?”</font></b>
+                </p><ul>
+                    <ul>
+                        <ul>
+                            <font face="Times New Roman, Times, Times Roman, Times NewRoman"></font><p><font face="Times New Roman, Times, Times Roman, Times NewRoman">A cookie is a small file stored on your computer by a website to give you a unique ID. Cookies help make it easier for you to use our site, and they 
+                            help us process your order. A cookie generated by our site contains no information about you. It contains only a numeric ID that, for example, is needed to access our online shopping cart. In this way, the cookie keeps 
+                            track of your selections and lets you continue shopping where you left off without losing any of the items in your cart.</font>
+                        </p></ul>
+                    </ul>
+                </ul>
+                <p><b><font size="+1" face="Times New Roman, Times, Times Roman, Times NewRoman">How Can I be Removed From Your Mailing List? </font></b>
+                </p><ul>
+                    <ul>
+                        <ul>
+                            <font face="Times New Roman, Times, Times Roman, Times NewRoman"><p>Let us know if you would prefer not to receive any materials from us in the future. You may contact us below: </p></font><p><font face="Times New Roman, Times, Times Roman, Times NewRoman">Customer Service <br>Sound Feelings 
+                            <br>7616 Lindley Ave <br>Reseda, CA 91335 <br>U.S.A. <br>Tel: 818-757-0600 <br>Fax: 818-757-0834 <br>email: </font><a href="mailto:comments@soundfeelings.com"><font face="Times New Roman, Times, Times Roman, Times NewRoman">comments@soundfeelings.com</font></a><font face="Times New Roman, Times, Times Roman, Times NewRoman"> </font></p><p><font face="Times New Roman, Times, Times Roman, Times NewRoman">Please also see our </font><a href="../about/security.htm"><font face="Times New Roman, Times, Times Roman, Times NewRoman">Security Statement</font></a><font face="Times New Roman, Times, Times Roman, Times NewRoman">.</font></p><p><font face="Times New Roman, Times, Times Roman, Times NewRoman">&nbsp;</font>
+                        </p></ul>
+                    </ul>
+                </ul>
+            </td>
+        </tr>
+    </tbody></table>
+    <table border="0" cellspacing="0" cellpadding="0" width="525">
+        <tbody><tr valign="TOP" align="LEFT">
+            <td width="25" height="2"><img src="../clearpixel.gif" width="25" height="1" border="0"></td>
+            <td width="500"><img src="../clearpixel.gif" width="500" height="1" border="0"></td>
+        </tr>
+        <tr valign="TOP" align="LEFT">
+            <td></td>
+            <td width="500"><p align="CENTER"><a href="../index.html"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Home</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">
+                &nbsp;&nbsp;&nbsp;&nbsp; </font><a href="../about/index.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">About Us</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">
+                &nbsp;&nbsp;&nbsp; </font><a href="../contact.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Contact Us</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">
+                &nbsp;&nbsp;&nbsp; </font><a href="../free/index.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Free</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">
+                &nbsp;&nbsp;&nbsp; </font><a href="../products/index.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Products</font></a></p></td>
+        </tr>
+    </tbody></table>
+    <table border="0" cellspacing="0" cellpadding="0" width="527">
+        <tbody><tr valign="TOP" align="LEFT">
+            <td width="25" height="3"><img src="../clearpixel.gif" width="25" height="1" border="0"></td>
+            <td width="502"><img src="../clearpixel.gif" width="502" height="1" border="0"></td>
+        </tr>
+        <tr valign="TOP" align="LEFT">
+            <td></td>
+            <td width="502"><p align="CENTER"><a href="../about/links/index.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Links</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">
+                &nbsp;&nbsp;&nbsp; </font><a href="../about/privacy.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Privacy Policy</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">
+                &nbsp;&nbsp;&nbsp; </font><a href="../about/security.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Security Statement</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">&nbsp;&nbsp;&nbsp; </font><a href="../about/sitemap.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Site Map</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">&nbsp;&nbsp;&nbsp; </font><a href="../about/awards.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Awards</font></a></p></td>
+        </tr>
+    </tbody></table>
+    <table border="0" cellspacing="0" cellpadding="0" width="527">
+        <tbody><tr valign="TOP" align="LEFT">
+            <td width="25" height="1"><img src="../clearpixel.gif" width="25" height="1" border="0"></td>
+            <td width="502"><img src="../clearpixel.gif" width="502" height="1" border="0"></td>
+        </tr>
+        <tr valign="TOP" align="LEFT">
+            <td></td>
+            <td width="502"><p align="CENTER"><a href="../products/questions.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Q&amp;A</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">
+                &nbsp;&nbsp;&nbsp; </font><a href="../products/testimonials/index.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Testimonials</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">&nbsp;&nbsp;&nbsp; </font><a href="../products/disclaimers.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Disclaimers</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">&nbsp;&nbsp;&nbsp; </font><a href="../products/guarantee.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Guarantee</font></a><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">&nbsp;&nbsp;&nbsp; </font><a href="../products/orders/index.htm"><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Order Now!</font></a></p></td>
+        </tr>
+    </tbody></table>
+    <table cellpadding="0" cellspacing="0" border="0" width="516">
+        <tbody><tr valign="TOP" align="LEFT">
+            <td>
+                <table border="0" cellspacing="0" cellpadding="0" width="116">
+                    <tbody><tr valign="TOP" align="LEFT">
+                        <td width="24" height="17"><img src="../clearpixel.gif" width="24" height="1" border="0"></td>
+                        <td width="1"><img src="../clearpixel.gif" width="1" height="1" border="0"></td>
+                        <td width="1"><img src="../clearpixel.gif" width="1" height="1" border="0"></td>
+                        <td width="82"><img src="../clearpixel.gif" width="82" height="1" border="0"></td>
+                        <td width="7"><img src="../clearpixel.gif" width="7" height="1" border="0"></td>
+                        <td width="1"><img src="../clearpixel.gif" width="1" height="1" border="0"></td>
+                    </tr>
+                    <tr valign="TOP" align="LEFT">
+                        <td colspan="3" height="29"></td>
+                        <td width="90" colspan="3" align="LEFT" valign="TOP"><a href="http://www.amazon.com/exec/obidos/redirect-home/soundfeelingspub"><img id="Picture12" height="29" width="90" src="../images/90X29-w-logo.gif" border="0" alt="In Association with Amazon.com"></a></td>
+                    </tr>
+                    <tr valign="TOP" align="LEFT">
+                        <td colspan="6" height="15"></td>
+                    </tr>
+                    <tr valign="TOP" align="LEFT">
+                        <td colspan="2" height="29"></td>
+                        <td width="83" colspan="2" align="LEFT" valign="TOP"><a href="http://www.rsac.org"><img id="Picture2" height="29" width="83" src="../images/rsaclabel.gif" border="0" alt="RSACi Rating Authorization"></a></td>
+                        <td colspan="2"></td>
+                    </tr>
+                    <tr valign="TOP" align="LEFT">
+                        <td colspan="6" height="3"></td>
+                    </tr>
+                    <tr valign="TOP" align="LEFT">
+                        <td></td>
+                        <td width="91" colspan="4"><p><img src="/images/AboutUsButMO.gif" width="1" height="1">
+<img src="/images/ContactUsButMO.gif" width="1" height="1">
+<img src="/images/FreeButMO.gif" width="1" height="1">
+<img src="/images/GuaranteeButMO.gif" width="1" height="1">
+<img src="/images/HomeButMO.gif" width="1" height="1">
+<img src="/images/OrderNowButMO.gif" width="1" height="1">
+<img src="/images/ProductsButMO.gif" width="1" height="1">
+<img src="/images/Q_AButMO.gif" width="1" height="1">
+<img src="/images/TestimonialsButMO.gif" width="1" height="1">
+
+
+&nbsp;</p></td>
+                        <td></td>
+                    </tr>
+                </tbody></table>
+            </td>
+            <td>
+                <table border="0" cellspacing="0" cellpadding="0" width="400">
+                    <tbody><tr valign="TOP" align="LEFT">
+                        <td width="2" height="4"><img src="../clearpixel.gif" width="2" height="1" border="0"></td>
+                        <td></td>
+                        <td width="11"><img src="../clearpixel.gif" width="11" height="1" border="0"></td>
+                        <td></td>
+                        <td width="26"><img src="../clearpixel.gif" width="26" height="1" border="0"></td>
+                        <td></td>
+                    </tr>
+                    <tr valign="TOP" align="LEFT">
+                        <td colspan="5" height="36"></td>
+                        <td width="103" rowspan="5" align="LEFT" valign="TOP"><a href="http://www.medinex.com"><img id="Picture10" height="104" width="103" src="../images/medinex_seal.gif" border="0" alt="Medinex Certification"></a></td>
+                    </tr>
+                    <tr valign="TOP" align="LEFT">
+                        <td colspan="3" height="21"></td>
+                        <td width="150" rowspan="3" align="LEFT" valign="TOP"><a href="http://208.8.12.151/pereport.cfm?key=10402"><img id="Picture11" height="65" width="150" src="../images/monitor6.gif" border="0" alt="Public Eye Certification"></a></td>
+                        <td></td>
+                    </tr>
+                    <tr valign="TOP" align="LEFT">
+                        <td height="34"></td>
+                        <td width="108" align="LEFT" valign="TOP"><a href="http://www.safesurf.com/"><img id="Picture13" height="34" width="108" src="../images/ssurf.gif" border="0" alt="SafeSurf Rating System"></a></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr valign="TOP" align="LEFT">
+                        <td colspan="3" height="10"></td>
+                        <td></td>
+                    </tr>
+                    <tr valign="TOP" align="LEFT">
+                        <td colspan="5" height="3"></td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+    <table border="0" cellspacing="0" cellpadding="0" width="544">
+        <tbody><tr valign="TOP" align="LEFT">
+            <td width="7" height="5"><img src="../clearpixel.gif" width="7" height="1" border="0"></td>
+            <td></td>
+        </tr>
+        <tr valign="TOP" align="LEFT">
+            <td height="30"></td>
+            <td width="537" valign="MIDDLE"><hr id="HRRule2" width="537" size="0"></td>
+        </tr>
+    </tbody></table>
+    <table border="0" cellspacing="0" cellpadding="0" width="544">
+        <tbody><tr valign="TOP" align="LEFT">
+            <td width="7" height="5"><img src="../clearpixel.gif" width="7" height="1" border="0"></td>
+            <td width="537"><img src="../clearpixel.gif" width="537" height="1" border="0"></td>
+        </tr>
+        <tr valign="TOP" align="LEFT">
+            <td></td>
+            <td width="537"><p><a href="../about/copyright.htm"><i><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Copyright</font></i></a><i><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">
+                 © 1998, 1999 Sound Feelings Publishing, Reseda, Cailifornia, All Rights Reserved.<br>URL: </font></i><a href="http://www.soundfeelings.com"><i><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">
+                http://www.soundfeelings.com</font></i></a><i><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">&nbsp;&nbsp; Tel: +1-818-757-0600<br>Website created by </font></i><a href="../about/howard_richman/index.htm">
+                <i><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">Howard Richman</font></i></a><i><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman"> with </font></i><a href="../about/index.htm#SpecialThanks"><i><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">special thanks</font></i></a><i><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman"><br>
+                Website maintained by </font></i><a href="mailto:webmaster@soundfeelings.com"><i><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman">webmaster@soundfeelings.com</font></i></a><i><font size="-1" face="Times New Roman, Times, Times Roman, Times NewRoman"><br>Last updated Saturday, September 18, 1999</font></i></p></td>
+        </tr>
+    </tbody></table>
+
+
+ </body></html>
