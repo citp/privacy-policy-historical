@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601210625id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034832id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
 
-# Learn more about Bar-None!
+# Learn more about Bar None!
 
   
 Our website is reliably hosted by **pair Networks** , [yours should be too](http://promote.pair.com/direct.pl?barnonedrinks.com).  
