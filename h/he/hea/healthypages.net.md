@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the healthypages.net privacy policy that was archived on 2004-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040812104449id_/http%3A//www.healthypages.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypages.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184745id_/http%3A//www.healthypages.net/privacy.asp) for the most accurate reproduction.*
 
 # Healthypages complementary health and healing resources
 
 **PRIVACY POLICY**
 
-Prime Impact Events & Media (Ltd) is the sole owner of the information collected on healthypages.co.uk.   
-Prime Impact Events & Media (Ltd) collects information from our users at several different points on our Web site.
+Touch IT Solutions is the sole owner of the information collected on healthypages.co.uk.   
+Touch IT Solutions collects information from our users at several different points on our Web site.
 
 **Registration**  
 In order to use this Web site, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. 
@@ -75,10 +75,10 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 In the event healthypages.co.uk goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. 
 
 Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at: info@healthypages.net We also offer an opt-out mechanism on the Newsletter Subscriptions/management page or the user may contact us at: Tel: +44 1206 500999 Email: info@healthypages.net or by post to:  
-Healthypages, Prime Impact Events & Media, PO Box 3718, Fordham Heath, Colchester, Essex CO3 9UB. UK.
+Healthypages, Touch IT Solutions, First Floor Offices, 29 Crouch Street, Colchester, Essex  CO3 3EN. UK.
 
 **Links**  
-This Web site contains links to other sites. Please be aware that we, Prime Impact Events & Media (Ltd), are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This Web site contains links to other sites. Please be aware that we, Touch IT Solutions, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Surveys & Competitions**  
 From time-to-time our site requests information from users via surveys or competitions. Participation in these surveys or competitions is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as Postcodes). Contact information will be used (shared with the competitions [survey] sponsors to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. 
@@ -99,7 +99,7 @@ While we use SSL encryption to protect sensitive information online, we also do 
 If users have any questions about the security at our Web site, users can send an email to admin@healthypages.net
 
 **Correcting/Updating/Deleting/Deactivating Personal Information**  
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the member information page for the particular service that they are wanting to update/delete or by emailing our Customer Support at info@healthypages.net or by: Tel: +44 1206 500999 or by post to: Healthypages, Prime Impact Events & Media, PO Box 3718, Fordham Heath, Colchester, Essex CO3 9UB. UK.
+If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the member information page for the particular service that they are wanting to update/delete or by emailing our Customer Support at info@healthypages.net or by: Tel: +44 1206 500999 or by post to: Healthypages, Touch IT Solutions, PO Box 3718, Fordham Heath, Colchester, Essex CO3 9UB. UK.
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
@@ -112,5 +112,5 @@ If users have any questions or suggestions regarding our privacy policy, please 
 Phone: 44 1206 500999  
 Fax: 44 1206 500888  
 Email: info@healthypages.co.uk  
-Postal Address: Healthypages, Prime Impact Events & Media, PO Box 3718, Fordham Heath, Colchester, Essex CO3 9UB. UK.  
+Postal Address: Healthypages, Touch IT Solutions, First Floor Offices, 29 Crouch Street, Colchester, Essex  CO3 3EN. UK.  
 Web site URL: http://www.healthypages.co.uk
