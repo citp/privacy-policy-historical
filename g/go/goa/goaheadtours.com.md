@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213224019id_/http%3A//www.goaheadtours.com/master/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204081410id_/http%3A//goaheadtours.com/master/info/privacy.asp) for the most accurate reproduction.*
 
 # Go Ahead Vacations
 
