@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellmark.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203180300id_/http%3A//www.wellmark.com/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellmark.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607070523id_/http%3A//www.wellmark.com/home/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Wellmark
 
@@ -9,7 +9,7 @@ This is the Web site of Wellmark, Inc. We understand that our customers and Web 
 In general, you can visit wellmark.com without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous. The information we collect and analyze is used to improve our service to you.
 
 **Choice**  
-The are times, however, when we may collect personal information from you. It is our intent to inform you before we do that and to tell you what we intend to do with the information. You will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information.
+There are times, however, when we may collect personal information from you. It is our intent to inform you before we do that and to tell you what we intend to do with the information. You will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information.
 
 **Accuracy**  
 We do our best to maintain the accuracy of personal information you supply to us; we are working on tools that will allow you to review and update your information in the future.
