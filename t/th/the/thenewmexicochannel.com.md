@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the thenewmexicochannel.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405153936id_/http%3A//www.thenewmexicochannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewmexicochannel.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206070222id_/http%3A//www.thenewmexicochannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheNewMexicoChannel.com - News
+
+  
+
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.TheNewMexicoChannel.com](http://www.thenewmexicochannel.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
 
@@ -51,3 +54,14 @@ Mendota Heights, MN 55120
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
 Last Revised 11/03 
+
+| | 
+
+|   
+---  
+  
+[](http://thenewmexicochannel.premiumweather.com/info/?c=IBS-newstory-11-17-04)
+
+How will the weather affect you? Know for sure. Monitor storms, animate your forecast, create personal alerts! [Try it now! ](http://thenewmexicochannel.premiumweather.com/info/?c=IBS-newstory-11-17-04)or [Log in here.](http://thenewmexicochannel.premiumweather.com/)  
+  
+
