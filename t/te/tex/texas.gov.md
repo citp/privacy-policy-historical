@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texas.gov privacy policy that was archived on 2000-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000611022319id_/http%3A//www.state.tx.us/Siteinfo/privpol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texas.gov privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207234600id_/http%3A//www.state.tx.us/Siteinfo/privpol.html) for the most accurate reproduction.*
 
 # State of Texas Web Site -
 
