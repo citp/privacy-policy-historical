@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krishna.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602214509id_/http%3A//krishna.com/newsite/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krishna.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805120132id_/http%3A//www.krishna.com/newsite/privacy.html) for the most accurate reproduction.*
 
 # Krishna.com Privacy Policy
 
@@ -58,6 +58,6 @@ P.O. Box 430
 Alachua, FL 32616  
 USA
 
-For additional information, please also read our [Terms](https://web.archive.org/web/20040602214509id_/http%3A//krishna.com/newsite/terms.html) for using Krishna.com.
+For additional information, please also read our [Terms](https://web.archive.org/web/20040805120132id_/http%3A//www.krishna.com/newsite/terms.html) for using Krishna.com.
 
 [Back to Krishna.com...](http://www.krishna.com/)
