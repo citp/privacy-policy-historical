@@ -1,7 +1,45 @@
-> *The following text is extracted and transformed from the marketleap.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201062132id_/http%3A//marketleap.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketleap.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
 
 # Marketleap Privacy Policy - About Us
 
+|   | [](http://www.marketleap.com/)  
+---|---  
+| 
+
+| **[Marketleap Report Archives](https://web.archive.org/web/20020607144548id_/http%3A//report/default.htm)**  
+---  
+**[ Star Wars - Why Fight the Force?](http://www.marketleap.com/report/ml_report_29.htm)  
+**Volume II, Episode X, May 21, 2002
+
+**[Digital Marketing - A Deeper Slice: Digging Into What Search Engine Marketing is Really About](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/report/ml_report_28.htm)**  
+Volume II, Issue #9, April 30, 2002
+
+**[Intrusive, Confusing & Just Plain Rude - Pop Under Downloads & Ooqa Ooqa](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/report/ml_report_27.htm)**  
+Volume II, Issue #8, April 12, 2002
+
+[**Tracing the Web Across America**](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/report/ml_report_26.htm)  
+Volume II, Issue #7, Sector 9, April 3rd, 2002
+
+**[From Purge to Surge: How customer service completes the marketing cycle online](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/report/ml_report_25.htm)**  
+Volume II, Issue #6 - March 26th, 2002
+
+**[Digital Marketing vs. Online Advertising: Breaking waves for marketers to catch](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/report/ml_report_24.htm)**  
+Volume II, Issue #5 - March 19th, 2002
+
+**[Telling Good Stories: How the AI online campaign kicked viral marketing over the fence to us all](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/report/ml_report_23.htm)**  
+Volume II, Issue #4 - March 14th, 2002
+
+**[Brand on the Run: Delivering Promises Sustains Brand, Not Impressions](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/report/ml_report_22.htm)**  
+Volume II, Issue #3 - March 5th, 2002
+
+**[Poetry, Ghosts from Microsoft, and Marketing Hot Air: _or How the Giant Trips Loosely Through the Valley_](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/report/ml_report_21.htm)**  
+Volume II, Issue #2 - February 26th, 2002
+
+**[_More Marketleap Report_](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/report/default.htm)**  
+  
+|     
+**Marketleap Privacy Policy**  
+---  
 Marketleap is a leading provider of advertising technology solutions that protects Internet users’ privacy. Our architecture was designed in anticipation of privacy concerns, and was engineered from the ground up to be compliant with the world’s most stringent privacy standards. For this reason, we do not maintain, share or sell any personally identifiable data or anonymous user profile information.
 
 We have always contended that the significant portion of the focus of online advertising campaigns should be on the advertiser’s business information rather than reliance on a viewer’s profile. Our company utilizes proprietary technology  that can dynamically configure ad messages based on an advertiser’s internal data, such as pricing and inventory levels, for the products or services they are promoting online. As a result of this focus, we use non-personally identifiable information provided by the Web sites, pursuant to their privacy policies, about their viewers’ general demographics and interests in order to target appropriate advertising to the sites.
@@ -41,4 +79,15 @@ Our clients must ensure that they will comply with all laws and regulations conc
 
 
 
-For more information, please send mail to [info@marketleap.com](mailto:info@marketleap.com) 
+For more information, please send mail to [info@marketleap.com](mailto:info@marketleap.com)   
+  
+* * *
+
+### **[Privacy Policy](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/aboutus/privacy_policy.htm)**
+
+[ ](http://www.marketleap.com/)
+
+**© 1999-2002 Marketleap.com, Inc. All Rights Reserved | [Index](https://web.archive.org/web/20020607144548id_/http%3A//marketleap.com/index.htm)  
+****359 Texas Street | San Francisco, CA   94107 | 866** **.421.3796**
+
+* * *
