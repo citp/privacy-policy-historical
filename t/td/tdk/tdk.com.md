@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tdk.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218113412id_/http%3A//tdk.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdk.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609125947id_/http%3A//tdk.com/corp/privacy.html) for the most accurate reproduction.*
 
-# TDK : TDK USA Corp
+# TDK USA Corporation - Privacy Statement
 
 **Privacy Statement Version 2.1  
 Last Updated August 2001**
@@ -75,4 +75,4 @@ Garden City, NY 11530
 1-800-835-8273   
 [customer.support@tec.TDK.com](mailto:customer.support@tec.tdk.com)
 
-[HOME](https://web.archive.org/web/20011218113412id_/http%3A//tdk.com/corp/index.html)
+[HOME](https://web.archive.org/web/20020609125947id_/http%3A//tdk.com/corp/index.html)
