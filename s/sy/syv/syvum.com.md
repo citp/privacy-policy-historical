@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211044id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605161809id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Syvum Privacy Policy
 
@@ -54,7 +54,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 ### COMMITMENT 
 
-We are committed to privacy. Personal data privacy is a new and evolving area, and Syvum is evolving to meet these demands. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please contact us at [info@syvum.com](mailto:info@syvum.com). We will address any issue to the best of our abilities. 
+We are committed to privacy. Personal data privacy is a new and evolving area, and Syvum is evolving to meet these demands. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please [contact us](https://web.archive.org/contact.html). We will address any issue to the best of our abilities. 
 
 By using this site, you signify your assent to the Syvum Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the Syvum Web Site following the posting of changes to these terms will mean you accept those changes. 
 
