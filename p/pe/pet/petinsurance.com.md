@@ -1,84 +1,74 @@
-> *The following text is extracted and transformed from the petinsurance.com privacy policy that was archived on 2002-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020804063125id_/http%3A//www.petinsurance.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petinsurance.com privacy policy that was archived on 2003-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031218215850id_/http%3A//www.petinsurance.com/privacy.cfm) for the most accurate reproduction.*
 
 # Veterinary Pet Insurance
 
-National Casualty Company (NCC) values you as a customer and respects your right to privacy. We recognize that you purchase our products and services because you trust that we will stand behind our promises. In turn, we pledge our commitment to treating your information responsibly. The companies listed below have established the following policies to assure you that we are committed to protecting your privacy. 
+| 
 
-**How do we protect the confidentiality and security of your information?**  
-We maintain physical, electronic and procedural safeguards to ensure your personal information is treated responsibly and in accordance with our privacy policy. We also restrict access to your personal information within our organization to those employees who need to know that information to provide products or services to you, or to conduct NCC business. Employees who have access to customer information are educated to use it only for legitimate business purposes. Third party business partners who have access to personal information are legally bound not to disclose it or reuse it in any way. Additionally, we safeguard customer information in accordance with applicable data security regulations. 
+Privacy Policy
 
-**What personal information do we collect about you?**  
-We collect personal information about you from the following sources: 
+We comply with the GLB privacy act as governed by federal law. For you convenience we have provided our privacy policy in conjunction with our national underwriter National Casualty Company and their property/casualty division Scottsdale Insurance Company.
 
-  * Information we receive from you on applications and other forms;  
+Privacy Statement
 
-  * Information about your transactions with us, our affiliates, or others; and  
+We value you as a customer and respect your right to privacy. We know that you purchase our products and services be-cause you trust that we will stand behind our promises. We pledge our commitment to treat your information responsibly. We created this privacy policy to show you that we are working hard to protect your privacy.
 
-  * Depending upon the product or services you are requesting, information we receive from consumer reporting agencies, medical providers, or others.  
+How do we protect the confidentiality and security of your information? We use physical and technical safeguards to protect your information. We restrict access to your information to those who need it to perform their jobs. Third-party business partners are bound by law to use the information only for our purposes. They may not disclose it or use it in any other way. We comply with all data security laws.
 
+What personal information do we collect about you? We collect personal information about you from different sources. 
 
-  
-**What categories of information do we disclose and to whom?**  
-We do not sell your personal information to anyone. We may disclose the following information to entities that perform marketing and administrative services on our behalf or as required or permitted by law for legal, regulatory or other purposes:  
-
-
-  * Information we receive from you on applications or other forms, such as your name, address, beneficiaries, Social Security number, family member information, assets, income, and property locations and values.  
-
-  * Information about your transactions with us, our affiliates, or others, such as your account balance, policy coverage, payment history, the premium you pay, the shares you purchase, preferences, claims information, and the method of your purchase.  
-
-  * If required for the products you select, information we receive from consumer reporting agencies and other sources, such as your creditworthiness, motor vehicle and driver data, medical and employment information, loss history reports, and additional driver data.   
-
-
-  
-Because we do not sell your personal information or share it, except for the reasons described in the examples above, there is no need for an opt-out process in the NCC privacy system. 
-
-**Is your medical information confidential?**  
-While we sometimes must collect medical information to provide you a product or to pay a claim, we do not use or share it, internally or externally, for any purpose except the following: 
-
-  * underwriting insurance;  
-
-  * administering your policy, account, or claim;  
-
-  * as required or permitted by law; or  
-
-  * as otherwise authorized by you.  
-
-
-  
-**Questions?**  
-We value our customers and want you to understand how we use the information we collect. Please contact us if you have any questions about our privacy policy. 
-
-  * We will provide you access to your personal information that we control and can reasonably retrieve. In accordance with our procedures, you must provide the following:  
+  * We collect information you send us on applications and forms. 
+  * We collect information from your transactions with us, our sister companies, or others. 
+  * Based on the product or services requested, we may collect information from a consumer reporting agency or a medical provider. 
 
 
 
-  1. All policy numbers for which you want information.  
+What types of information do we disclose and to whom? We do not sell your information to anyone. We may disclose this information to a business that carries out services and marketing for us. We may disclose your information as required or permitted by law. We may disclose your information for a legal or regulatory purpose. These include the following types of information: 
 
-  2. Please sign your request and have your signature notarized to ensure the identity of the person requesting the information.  
-
-  3. Although we do not currently intend to charge a fee to cover the cost in providing you with a copy of this information, we do reserve the right to implement a reasonable fee in the future.  
-
-  4. You may request that we correct your personal information in our files. Please note that NCC does not control information given to us by third parties; you will need to contact the third party to correct any information it gave us.  
-
-
-
-  * You may request the name and address of the consumer reporting agency from which we have obtained a report on you, if any. You may request that the consumer reporting agency provide you with a copy of the report it makes.  
+  * Information we receive from you on applications or other forms. This may include your name, address, beneficiaries, Social Security number, and family member information. This may also include assets, income, and the property ad-dress and value. 
+  * This may include information from your transactions with our sister companies, or us. It may include your account bal-ance, policy coverage, and payment history. It may also include premium paid, preferences, shares you purchase, claims, and purchase method. 
+  * This may include information we receive from a consumer-reporting agency or other reporting agencies. It may in-clude, your credit report, motor vehicle and driver data. It may also include medical and employment data, loss history reports, and other driver data. These depend on the products you select. 
+  * We may disclose information to companies that perform marketing services on our behalf. As permitted by law, we may disclose some information to other financial institutions with which we have joint marketing agreements. 
 
 
 
+We do not sell your personal information. We do not share it, except for the reasons described above. Therefore, there is no need for an opt-out process.
 
-Please submit any inquiries to us at: 
+How do we use your medical information? We sometimes must collect medical information to provide you a product or to pay a claim. We do not use or share it, in-ternally or externally, for any purpose except the following: 
 
+  * underwriting insurance, 
+  * administering your policy, account, or claim, 
+  * as required or permitted by law, or 
+  * as otherwise authorized by you. 
+
+
+
+Questions?
+
+We value our customers and want you to understand how we use the information we collect. Please contact us if you have any questions about our privacy policy.
+
+We will provide you a copy of your personal information that we control and can reasonably retrieve. To access your in-formation, you must provide the following: 
+
+  1. All policy numbers you want to access. 
+  2. Please sign your request and have your signature notarized. This ensures the identity of the person requesting the information. 
+  3. We do not currently charge a fee to cover the cost of providing you with a copy of this information. However, we do reserve the right to charge a small fee in the future. 
+  4. You may request that we correct your personal information in our files. Please note that we do not control information provided by third parties. So, you will need to contact the third party to correct any information from them. 
+  5. Sometimes we obtain your consumer or credit report. If so, you may request the credit-reporting agency's name and address. You may ask the agency to give you a copy of your report. 
+
+
+
+Please submit any inquiries to us at:  
 Scottsdale Insurance Company  
 Attn.: Compliance Manager  
 P.O. Box 4110  
-Scottsdale, Arizona 85261-4110 Please include in all correspondence, your name, current address, policy number, and agent name/ number (if known). For changes to information that we control, such as your name and address, please contact your agent. 
+Scottsdale, Arizona 85261-4110
 
-This privacy statement describes our privacy practices for both current and former customers. We will provide one copy of this notice to joint policy or contract holders; please share this information with every one covered by your policy or contract. Upon your request, we will send additional copies of this statement. 
+This privacy statement describes our privacy practices for both current and former customers. We will provide one copy of this notice to joint policy or contract holders; please share this information with everyone covered by your policy or con-tract. If you request, we will send more copies of this statement.
 
-**Thank you for choosing us.  
-We look forward to building a lifetime relationship with you. **   
+Thank you for choosing us.
+
+We look forward to building a lifetime relationship with you.
+
+DVM Insurance Agency  
 Scottsdale Insurance Company  
-National Casualty Company
-
-December 17, 2001 
+National Casualty Company  
+| 
