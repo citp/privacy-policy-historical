@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622092958id_/http%3A//sikids.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206051600id_/http%3A//www.sikids.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Time Warner Children’s Privacy Notice
 
@@ -50,7 +50,7 @@ III. _Collection of Information by Third-Party Sites and Sponsors_
 
 Our site contains links to other sites whose information practices may be different from ours. Visitors should consult the other sites' privacy notices as the sites are not covered by our privacy policy. 
 
-This Time Warner site sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that children voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Warner does not control the third-party sponsors' use of this information. [Click here](https://web.archive.org/web/20000622092958id_/http%3A//sikids.com/privacy/thirdparty.html) for a list of names and contact information of outside third parties that may collect and maintain personally identifiable information as a result of their participation in these activities. 
+This Time Warner site sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that children voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Warner does not control the third-party sponsors' use of this information. [Click here](https://web.archive.org/web/20001206051600id_/http%3A//www.sikids.com/privacy/thirdparty.html) for a list of names and contact information of outside third parties that may collect and maintain personally identifiable information as a result of their participation in these activities. 
 
 **
 
@@ -60,11 +60,11 @@ IV. _Cookies_
 
 Sikids.com uses a software technology called "cookies." Cookies are small text files that we place in visitors’ computer browsers to store their preferences. Cookies themselves does not contain any personally identifiable information. Although cookies could enable us to relate a visitor’s use of this Web site to personal information ( _e.g.,_ e-mail address) that a visitor has provided, we do not do so for this site. 
 
-**
+This Web site uses a reputable third party to serve the advertisements that you see on the pages of this web site. Although they do not collect personally identifiable information from this site, they do use cookies. If you would like to know more about the information gathering practices of our third party ad server, please [click here](http://www.engage.com/privacy/). ****
 
-V. _Security_
+**V. _Security_**
 
- __**__
+ ** __**__
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
