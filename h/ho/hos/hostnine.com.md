@@ -1,0 +1,44 @@
+> *The following text is extracted and transformed from the hostnine.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607200936id_/http%3A//hostnine.com/privacy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+**Privacy Policy:**
+
+**A Special Note About Children.**   
+Children are not eligible to use our services and we ask that minors (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with your parents or guardians. 
+
+**Information We Collect.** Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier. In general, you can browse our site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information, shipping information and other personal information as indicated on the forms throughout our site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature. 
+
+Under some circumstances we may require some additional financial information, such as, but not limited to: if you are registering using an email account at a free email service, or registering to sell on our site. We use your financial information, including credit card information to verify your name, address, and other information, as well as to bill you for your use of our services. 
+
+We automatically track certain information based upon your behavior on our site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand and serve you and our community. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address. 
+
+You may encounter "cookies" or other similar devices on certain pages of our site that are placed by third parties. For example, if you view a web page created by a user, there may be a "cookie" placed within that web page. We do not control the use of cookies by third parties. 
+
+If you establish a credit account with us to pay the fees we charge, we collect some additional information, including a billing address, a credit card number and a credit card expiration date and tracking information from checks or money orders. 
+
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file specific to you. 
+
+**Our Use of Your Information.**   
+We use your information to facilitate the services you request. We use information in the file we maintain about you, and other information we obtain from your current and past activities on the site, to resolve disputes, troubleshoot problems and enforce our Acceptable Use Policy. 
+
+You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize our site's content, layout, and services. These uses improve our site and better tailor it to meet your needs. 
+
+You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications on the notification preferences page. You may make changes to your notification preferences at any time. 
+
+Our Disclosure of Your Information.   
+Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your information that they collect from our site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed. 
+
+External Service Providers. There are a number of services offered by external service providers that help you use our site (e.g., co-branded sites, listing agents, escrow, authentication, mediation). If you choose to use these optional services, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. We may, for your convenience, provide some of your personally identifiable information to the external service provider offering such services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services. The use of such information by the co-brand and affiliated web sites is limited by their applicable privacy policies. 
+
+Internal Service Providers. We may use internal service providers to facilitate our services (e.g., search, discussion boards, surveys) and therefore we may provide some of your personally identifiable information directly to them. In some instances, the internal service provider may collect information directly from you (such as the situation where we ask a internal service provider to conduct a survey for us). In these cases, you will be notified of the involvement of the internal service provider, and all information disclosures you make will be strictly optional. In all cases, these internal service providers' use of information we supply them is restricted by confidentiality agreements. If you provide additional information to an internal service provider directly, then their use of your information is governed by their applicable privacy policy. 
+
+Legal Requests. We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability. 
+
+Control of Your Password. You are responsible for all actions taken with your User ID and password, including fees. Therefore we do not recommend that you disclose your password to any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. 
+
+Conflict of Terms.   
+It is our goal to make our privacy practices easy to understand. We have created easy-to-read summaries, privacy principles, a privacy chart and, are working on privacy enhancing technology to help summarize our full privacy policy. If you have questions about any part of this summary or if you would like more detailed information, we encourage you to review our full privacy policy. 
+
+Notice.   
+We may amend this Privacy Policy at any time by posting the amend terms on our site. All amended terms shall automatically be effective 30 days after they are initially posted on our site. In addition, we will notify you in accordance with your Notification Preferences. 
