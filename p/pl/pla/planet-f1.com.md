@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the planet-f1.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402040015id_/http%3A//www.planet-f1.com/Site_Information/Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-f1.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204124228id_/http%3A//planet-f1.com/home/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Formula One news, fun, results and features from Planet-F1.com
 
-  
-****
+## TEAMtalk Media Group Network Privacy Policy
 
-1\. Planet-F1 has a firm commitment to privacy.
+1\. ukbetting plc incorporating Sporting Life UK Limited, TEAMtalk Media Group Limited, Rivals Digital Media and sites within the company's TEAMtalk Media Group Network strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.P>
 
 2\. We may use your IP address to help diagnose problems with our server and to administer our website. Your IP address may be used to help identify you and to gather broad demographic information. We will not provide or sell user-specific demographic information to any other person or business. We will only share this information on an aggregate basis. 
 
