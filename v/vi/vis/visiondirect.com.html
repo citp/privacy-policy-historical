@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visiondirect.com privacy policy that was archived on 2003-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030601101702id_/http%3A//www.visiondirect.com/scripts/policies.asp%3Fcur%3D1%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visiondirect.com privacy policy that was archived on 2003-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031211140841id_/http%3A//www.visiondirect.com/scripts/policies.asp/cur%3D1%23privacy) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Company Policies</title>
@@ -165,7 +165,67 @@ function SubmitTopNav(form, directString)
 
 		}
 	//-->
-	</script><script>
+	</script>
+<script language="javascript">
+var cc		// cookie value sent to RxCoupon 
+
+
+function getCookie(name) {
+        var cookieFound = 0;
+        var start = 0;
+        var end = 0;
+        var CookieString = document.cookie;			// get cookie
+
+        var i = 0;
+        
+        while (i <= CookieString.length) {
+                start = i;
+                end = start + name.length;
+                if (CookieString.substring(start,end) == name) {
+                        cookieFound = true;
+                        break;
+                }
+                i++;
+        }
+
+        if (cookieFound) {
+                start = end + 1;
+                end = document.cookie.indexOf(";",start);
+                if (end < start)
+                        end = document.cookie.length;
+                return document.cookie.substring(start,end);
+        }
+
+        return "";
+}
+
+function setCookie(name, value, expires, path, domain, secure) {
+
+  var curCookie = name + "=" + escape(value) +
+      ((expires) ? "; expires=" + expires.toGMTString() : "") +
+      ((path) ? "; path=" + path : "") +
+      ((domain) ? "; domain=" + domain : "") +
+      ((secure) ? "; secure" : "");
+      
+  document.cookie = curCookie;
+}
+
+
+function getCookieValue()
+{
+	var a
+	var expiration = new Date()
+	expiration.setTime(expiration.getTime() + 60000)
+		
+	a = getCookie("VD_PageLoad")
+	a++
+
+	setCookie("VD_PageLoad", a, expiration, "/scripts/")
+	cc = a
+}
+</script>
+
+<script>
 <!--
 	function open_window(url, h)
 	{
@@ -179,18 +239,16 @@ function SubmitTopNav(form, directString)
 // -->
 </script>
 
-
 		<!--Contact lenses and more at the lowest prices on the internet.  All major brands available.  Delivered direct to your door. Secure on-line ordering from www.visiondirect.com-->
 		<meta name="robots" content="index, follow">
 		<meta name="classification" content="shopping, mail order, health, contact lenses">
 		<meta name="description" content="Save up to 70% on contact lenses at VisionDirect.com!">
 		<meta name="keywords" content="contact lens, contact, colored contact, bausch lomb, discount contact lens, acuvue, contact lense, johnson johnson, colored contact lens, eye contact, vision direct, cheap contact lens, cheap contact, color contact lens, discount contact, visiondirect.com, contact lens online, acuvue 2, ciba vision, freshlook contact, toric contact lens, freshlook, acuvue contact lens, contact lens sale, contact online, buy contact lens, cooper vision, lens, focus contact lens, contac lens, contact lens order, focus daily, encore, ciba, eyes, acuvue contact, focus contact, ocular science, contact lens Canada, vision, coopervision, freshlook color blend, buy contact, America best contact,  freshlook colors, contact lens freshlook, purchase contact lens, toric lens">		
-		<meta name="keywords" content="contact lenses, CONTACT LENSES, contact lens, acuvue, focus, freshlook, color, disposable, bifocal, toric, eyewear, lense, contacts, vision direct,">
+		<meta name="keywords" content="contact lenses, contacts, contact lens, discount contact lens, acuvue, acuvue 2, color contacts, colored contacts, acuvue toric, freshlook colors, freshlook, vial lenses, toric lenses, ciba vision, b&amp;l, bausch and lomb, johnson and johnson, surevues, bifocals, focus monthy, biomedics, focus night and day, focus daily, visiondirect, vision direct, visondirect.com, www.visiondirect.com, encore, daily disposable, monthly disposable, fresh look, proclear, proclear compatibles, optical store, gas permeable, rgp, coloured, newvues">
 		<meta name="revisit-after" content="15 days">
 		<meta name="resource-type" content="document">
 		<meta name="distribution" content="global">		
-	
-
+		
 	<link rel="stylesheet" type="text/css" href="/scripts/inc/styles.css"></head>
 	
 	<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" text="#000000" alink="#003399" link="#003399" vlink="#003399">
@@ -200,20 +258,18 @@ function SubmitTopNav(form, directString)
 <table width="772" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
 		<td align="left" valign="top"><img src="/images/img-pixelwedge.gif" alt="" width="7" height="2" border="0"></td>
-		
-		<td align="left" valign="top"><a href="/scripts/default.asp/cur=1"><img src="/images/img-Logo.jpg" alt="www.visiondirect.com" width="229" height="74" border="0"></a></td>
-		<td align="left" valign="top">
+		<td align="left" valign="top"><a href="/scripts/default.asp/cur=1"><img src="/images/img-Logo.jpg" alt="www.visiondirect.com" height="74" border="0"></a></td>
+		<td align="right" valign="top">
 			<!-- This table must not exceed 536 pixels -->
-			<table width="536" cellspacing="0" cellpadding="0" border="0">
+			<table cellspacing="0" cellpadding="0" border="0">
 				<tbody><tr>
 					<td height="44">
-						<img src="/images/Select_Currency.gif" alt="Select Currency" border="0"><a onmouseover="imgOn('usd')" onmouseout="imgOn('usd')" href="/scripts/policies.asp/cur=1"><img src="/images/currency/usd-over.gif" border="0" name="usd" alt="US Dollar"></a><a onmouseover="imgOn('cad');imgOff('usd');" onmouseout="imgOff('cad');imgOn('usd');" href="/scripts/policies.asp/cur=4"><img src="/images/currency/cad.gif" border="0" name="cad" alt="Canadain Dollar"></a><a onmouseover="imgOn('gbp');imgOff('usd');" onmouseout="imgOff('gbp');imgOn('usd');" href="/scripts/policies.asp/cur=5"><img src="/images/currency/gbp.gif" border="0" name="gbp" alt="Great British Pound"></a><a onmouseover="imgOn('eur');imgOff('usd');" onmouseout="imgOff('eur');imgOn('usd');" href="/scripts/policies.asp/cur=6"><img src="/images/currency/eur.gif" border="0" name="eur" alt="Euro"></a><img src="/images/Select_Currency2.gif" alt="Select Currency" border="0">
-					</td>
-					<td align="left" valign="top"><img src="/images/img-pixelwedge.gif" alt="" width="20" height="2" border="0"></td>
-					<td align="left" valign="top"><a href="http://www.visiondirect.com/spanish/scripts/" onmouseover="imgOn('img16')" onmouseout="imgOff('img16')"><img src="/images/butt-espanol.gif" name="img16" alt="Espanol" border="0"></a><a href="/scripts/myAccount.asp/cur=1" onmouseover="imgOn('img12')" onmouseout="imgOff('img12')"><img src="/images/butt-Reorders.gif" name="img12" alt="Reorders" border="0"></a><a href="/scripts/myAccount.asp/cur=1" onmouseover="imgOn('img13')" onmouseout="imgOff('img13')"><img src="/images/butt-OrderStatus.gif" name="img13" alt="My Account" border="0"></a><a href="/scripts/mainBasket.asp/cur=1" onmouseover="imgOn('img14')" onmouseout="imgOff('img14')"><img src="/images/butt-Checkout.gif" name="img14" alt="Checkout" border="0"></a><a href="/scripts/help.asp/cur=1" onmouseover="imgOn('img15')" onmouseout="imgOff('img15')"><img src="/images/butt-Help.gif" name="img15" alt="Help" border="0"><img src="/images/img-pixelwedge.gif" width="8" height="2" alt="" border="0"></a></td>
+						<img src="/images/Select_Currency.gif" alt="Select Currency" border="0"><a onmouseover="imgOn('usd')" onmouseout="imgOn('usd')" href="/scripts/policies.asp/cur=1"><img src="/images/currency/usd-over.gif" border="0" name="usd" alt="US Dollar"></a><a onmouseover="imgOn('cad');imgOff('usd');" onmouseout="imgOff('cad');imgOn('usd');" href="/scripts/policies.asp/cur=4"><img src="/images/currency/cad.gif" border="0" name="cad" alt="Canadian Dollar"></a><a onmouseover="imgOn('gbp');imgOff('usd');" onmouseout="imgOff('gbp');imgOn('usd');" href="/scripts/policies.asp/cur=5"><img src="/images/currency/gbp.gif" border="0" name="gbp" alt="Great British Pound"></a><a onmouseover="imgOn('eur');imgOff('usd');" onmouseout="imgOff('eur');imgOn('usd');" href="/scripts/policies.asp/cur=6"><img src="/images/currency/eur.gif" border="0" name="eur" alt="Euro"></a><img src="/images/Select_Currency2.gif" alt="Select Currency" border="0"></td>
+					<td align="left" valign="top"><img src="/images/img-pixelwedge.gif" alt="" width="10" height="2" border="0"></td>
+					<td align="left" valign="top"><a href="http://www.visiondirect.com/spanish/scripts/" onmouseover="imgOn('img16')" onmouseout="imgOff('img16')"><img src="/images/butt-espanol.gif" name="img16" alt="Espanol" border="0"></a><a href="/scripts/myAccount.asp/cur=1" onmouseover="imgOn('img12')" onmouseout="imgOff('img12')"><img src="/images/butt-Reorders.gif" name="img12" alt="Reorders" border="0"></a><a href="/scripts/myAccount.asp/cur=1" onmouseover="imgOn('img13')" onmouseout="imgOff('img13')"><img src="/images/butt-OrderStatus.gif" name="img13" alt="My Account" border="0"></a><a href="/scripts/mainBasket.asp/cur=1" onmouseover="imgOn('img14')" onmouseout="imgOff('img14')"><img src="/images/butt-Checkout.gif" name="img14" alt="Checkout" border="0"></a><a href="/scripts/help.asp/cur=1" onmouseover="imgOn('img15')" onmouseout="imgOff('img15')"><img src="/images/butt-Help.gif" name="img15" alt="Help" border="0"></a></td>
 				</tr>
 				<tr>
-					<td colspan="3"><a href="/scripts/default.asp/cur=1" onmouseover="imgOn('img1')" onmouseout="imgOff('img1')"><img src="/images/butt-tab1.gif" name="img1" alt="Home" border="0"></a><a href="/scripts/ProductSearch.asp/search=acuvue/cur=1" onmouseover="imgOn('img2')" onmouseout="imgOff('img2')"><img src="/images/butt-tab2.gif" name="img2" alt="Acuvue" border="0"></a><a href="/scripts/ProductSearch.asp/search=freshlook/cur=1" onmouseover="imgOn('img3')" onmouseout="imgOff('img3')"><img src="/images/butt-tab3.gif" name="img3" alt="Freshlook" border="0"></a><a href="/scripts/ProductSearch.asp/search=focus/cur=1" onmouseover="imgOn('img4')" onmouseout="imgOff('img4')"><img src="/images/butt-tab4.gif" name="img4" alt="Focus" border="0"></a><a href="/scripts/ProductSearch.asp/search=optima/cur=1" onmouseover="imgOn('img5')" onmouseout="imgOff('img5')"><img src="/images/butt-tab5.gif" name="img5" alt="Optima" border="0"></a><a href="/scripts/ProductGroup.asp/deptID=10/cm_catID=deptID10dropdown/cur=1" onmouseover="imgOn('img6')" onmouseout="imgOff('img6')"><img src="/images/butt-tab6.gif" name="img6" alt="Dailies" border="0"></a><a href="/scripts/ProductGroup.asp/deptID=49/cm_catID=deptID49dropdown/cur=1" onmouseover="imgOn('img7')" onmouseout="imgOff('img7')"><img src="/images/butt-tab7.gif" name="img7" alt="Colors" border="0"></a></td></tr>
+					<td colspan="3" align="right"><a href="/scripts/default.asp/cur=1" onmouseover="imgOn('img1')" onmouseout="imgOff('img1')"><img src="/images/butt-tab1.gif" name="img1" alt="Home" border="0"></a><a href="/scripts/ProductGroup.asp/deptID=79/cm_catID=deptID79toptab/cur=1" onmouseover="imgOn('img2')" onmouseout="imgOff('img2')"><img src="/images/butt-tab2.gif" name="img2" alt="Acuvue" border="0"></a><a href="/scripts/ProductGroup.asp/deptID=76/cm_catID=deptID76toptab/cur=1" onmouseover="imgOn('img3')" onmouseout="imgOff('img3')"><img src="/images/butt-tab3.gif" name="img3" alt="Freshlook" border="0"></a><a href="/scripts/ProductGroup.asp/deptID=82/cm_catID=deptID82toptab/cur=1" onmouseover="imgOn('img4')" onmouseout="imgOff('img4')"><img src="/images/butt-tab4.gif" name="img4" alt="Focus" border="0"></a><a href="/scripts/ProductGroup.asp/deptID=10/cm_catID=deptID10toptab/cur=1" onmouseover="imgOn('img6')" onmouseout="imgOff('img6')"><img src="/images/butt-tab6.gif" name="img6" alt="Dailies" border="0"></a><a href="/scripts/ProductGroup.asp/deptID=49/cm_catID=deptID49toptab/cur=1" onmouseover="imgOn('img7')" onmouseout="imgOff('img7')"><img src="/images/butt-tab7.gif" name="img7" alt="Colors" border="0"></a></td></tr>
 			</tbody></table>			
 		</td>
 	</tr>
@@ -223,11 +279,14 @@ function SubmitTopNav(form, directString)
 		<form name="TopNavForm" method="post" action="/scripts/policies.asp/cur=1"></form>
 		<input name="topFormOn" type="hidden" value="on">
 			<td align="right" valign="top" background="/images/img-TopBarBG.gif">
-				<table align="right" cellspacing="0" cellpadding="0" border="0" background="">
+				<table width="772" align="right" cellspacing="0" cellpadding="0" border="0" background="">
 					<tbody><tr>
+						<td align="left"> &nbsp; &nbsp; &nbsp; <a href="javascript:" onclick="window.open('/scripts/freeShipping.asp','myPoints','WIDTH=300,HEIGHT=300');" style="text-decoration:none;"><img src="/images/freeshippingLink.gif" border="0"></a></td>
 						<td align="right"><img align="middle" src="/images/img-Search.gif" alt="Search" border="0"></td>
 						<td valign="middle"><input type="text" maxlength="20" size="10" name="searchField" height="29" value="">&nbsp;&nbsp;<input type="image" name="searchButton" align="middle" src="/images/img-go.gif" alt="Go" border="0"> &nbsp; &nbsp;
-							<select name="selectlenses" size="1" onchange="javascript:SubmitTopNav(TopNavForm,'cur=1')">
+
+							<select name="selectlenses" size="1" onchange="javascript:SubmitTopNav(TopNavForm,'cur=1');">
+														
 							<option selected="">Select Contact Lenses</option>
 							<option value="/scripts/default.asp">-------------</option>
 							<option value="/scripts/productList.asp">Contact Lens List A to Z</option>
@@ -247,7 +306,7 @@ function SubmitTopNav(form, directString)
 		
 			<option value="/scripts/productLens.asp?prodID=157&amp;cm_catID=dropdown">Acuvue Toric</option>
 		
-			<option value="/scripts/productLens.asp?prodID=158&amp;cm_catID=dropdown">Bausch and Lomb 2 Week</option>
+			<option value="/scripts/productLens.asp?prodID=158&amp;cm_catID=dropdown">Bausch &amp; Lomb 2 Week</option>
 		
 			<option value="/scripts/productLens.asp?prodID=473&amp;cm_catID=dropdown">Biomedics 1 Day</option>
 		
@@ -323,8 +382,6 @@ function SubmitTopNav(form, directString)
 		
 			<option value="/scripts/productGroup.asp?deptID=4&amp;cm_catID=deptID4dropdown">Vial Lenses</option>
 				
-		
-		
 						</select>
 					</td><td valign="middle">&nbsp;</td>
 					<td valign="middle"><img src="/images/img-TopBarCap.gif" alt="" width="9" height="29" align="middle" border="0"></td>
@@ -417,7 +474,7 @@ function SubmitTopNav(form, directString)
     </tr>
     <tr>
       <td bgcolor="#FFFFFF">
-		<span class="navItems"><a class="nodec" href="https://www.visiondirect.com/scripts/login.asp/cur=1">Login</a> / <a class="nodec" href="http://www.visiondirect.com/scripts/logout.asp">Logout</a><br></span>
+		<span class="navItems"><a class="nodec" href="https://www.visiondirect.com/scripts/login.asp/cur=1">Login</a> / <a class="nodec" href="http://www.visiondirect.com/scripts/logout.asp/cur=1">Logout</a><br></span>
         <span class="navItems"><a class="nodec" href="/scripts/help.asp/cur=1">Customer Service</a><br></span>
         <span class="navItems"><a class="nodec" href="/scripts/myAccount.asp/cur=1">My Account</a><br></span>
 		<span class="navItems"><a class="nodec" href="/scripts/help.asp/cur=1">Contact Us</a><br></span>
@@ -489,14 +546,33 @@ function SubmitTopNav(form, directString)
 		<br><br>
 	<p></p>
 
-			<!-- LANGUAGE BAR START -->
-			<table width="100%" cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>			
-					<td valign="middle"><a href="/scripts/ProductGroup.asp/deptID=49/cur=1"><img src="/images/butt-BottbarColorlens.gif" alt="Color Lenses" border="0"></a></td>
-					<td valign="middle"><a href="/scripts/ProductGroup.asp/deptID=9/cur=1"><img src="/images/butt-BottbarIcase.gif" alt="icases" border="0"></a></td>
-					<td valign="middle"><a href="/scripts/ProductLens.asp/ProdID=449/cur=1"><img src="/images/butt-BottbarKeyring.gif" alt="Keyring Readers" border="0"></a></td>					
-				</tr>
-			</tbody></table>
+			<!-- LANGUAGE BAR START -->					
+
+      <table height="106" cellspacing="0" cellpadding="0" width="566" border="0">
+        <tbody>
+        <tr>
+          <td valign="top">
+            <table cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td rowspan="2"><a href="/scripts/ProductLens.asp/ProdID=48/cur=1/freshlooks=1"><img src="/images/vd_freshlook2_face1_3.jpg" width="102" height="112" border="0"></a></td>
+                <td valign="top"><a href="/scripts/ProductLens.asp/ProdID=48/cur=1/freshlooks=1"><img src="/images/vd_freshlook2_logo_3.jpg" width="114" height="34" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><a href="/scripts/ProductLens.asp/ProdID=48/cur=1/freshlooks=1"><img height="78" src="/images/vd_freshlook2_lens1_3.jpg" width="114" border="0"></a></td>
+              </tr></tbody></table></td>
+          <td></td>
+          <td width="175" height="106" valign="top"><a href="/scripts/visionRewards.asp/cur=1"><img src="/images/footer_rewards_3.jpg" width="176" height="112" border="0"></a></td>
+          <td></td>
+          <td width="174" height="106" valign="top">
+			<table cellspacing="0" cellpadding="0" border="0">
+			  <tbody><tr>
+		  		<td><a href="/scripts/ProductLens.asp/ProdID=449/cur=1/keyring=1"><img src="/images/keyring_readers_3.jpg" width="174" height="59" border="0"></a></td></tr>
+		  	  <tr>
+		  	  	<td><a href="/scripts/ProductGroup.asp/deptID=9/cur=1/ eyecase=1"><img src="/images/lens_cases1_3.jpg" width="174" height="52" border="0"></a></td>
+		  	  </tr></tbody></table></td>
+        </tr></tbody></table>
+
+
 			<!-- language bar end -->
 			<img src="/images/img-pixelwedge.gif" width="2" height="8" alt="" border="0"><br>
 			<!-- DISCLAIMER START -->
@@ -509,9 +585,13 @@ function SubmitTopNav(form, directString)
 						<img src="/images/img-pixelwedge.gif" alt="" width="2" height="12" border="0"><br>
 						<span class="disclaimer">
 							Site operated by Vision Direct Inc.<br>International Vision Direct is a registered Trade Name of Vision Direct Inc.<br>© 1998 - 2003 International Vision Direct Corp. All Rights Reserved<br>	<br>
+							<a href="/scripts/affiliate.asp/cur=1"><font color="darkblue">Affiliate Program</font></a>
+							&nbsp;|&nbsp;
 							<a href="/scripts/copyright.asp/cur=1"><font color="darkblue">Copyright and Legal Disclaimer</font></a>
 							&nbsp;|&nbsp;
 							<a href="/scripts/policies.asp/cur=1#privacy"><font color="darkblue">Privacy Policy</font></a>
+							&nbsp;|&nbsp;
+							<a href="/scripts/sitemap.asp/cur=1"><font color="darkblue">Site Map</font></a>
 						</span>
 					</td>
 				</tr>
@@ -534,10 +614,8 @@ function SubmitTopNav(form, directString)
 			
 				cmCreatePageviewTag('Company Policies');			
 					
-		</script>		
+		</script><img width="1" height="1" src="https://data.coremetrics.com/eluminate?tid%3D1%26ci%3D90013819%26vn2%3De3.1%26pi%3DCompany%2520Policies%26vn1%3De3.1%26rnd%3D795571%26ul%3Dhttps%253A//web.archive.org/web/20031211140841id_/http%25253A//www.visiondirect.com/scripts/policies.asp/cur%25253D1%252523privacy%26ts%3DYes%26tp%3DYes">		
 <!-- END COREMETRICS INCLUDE -->	
-
-
 
 
 
