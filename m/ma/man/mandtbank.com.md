@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004162505id_/http%3A//www.mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612051027id_/http%3A//mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
 
 # M&T Bank : Customer Service
 
@@ -6,7 +6,7 @@ _Customer Service_
 
  **M &T Bank Corporation’s Consumer Information Policy**
 
-At M&T, we are committed to safeguarding your financial information and maintaining your privacy. That has always been a priority for us. So we have policies and procedures in place to ensure that your financial information is protected and used responsibly.
+At M&T, we are committed to safeguarding your financial information and maintaining your privacy. That has always been a priority for us. We have policies and procedures in place to ensure that your financial information is protected and used responsibly.
 
 Those policies and procedures are detailed here in our "privacy policy." Please take a few moments to review it, then simply keep it for your records.
 
@@ -94,7 +94,7 @@ At M&T, we understand how important it is to protect your personal and financial
 
 Within M&T, we educate our employees about the importance of confidentiality and privacy, and we train them in related policies and procedures. We also take appropriate disciplinary measures whenever necessary to enforce these rules.
 
-Due to the unique nature of Internet transactions, M&T has additional safeguards and procedures in place to protect your personal and financial information on the Internet. For more details, [please click here](https://web.archive.org/web/20031004162505id_/http%3A//www.mandtbank.com/customerservice/Internet_privacy.cfm).
+Due to the unique nature of Internet transactions, M&T has additional safeguards and procedures in place to protect your personal and financial information on the Internet. For more details, [please click here](https://web.archive.org/web/20040612051027id_/http%3A//mandtbank.com/customerservice/Internet_privacy.cfm).
 
 _Back to Top_
 
@@ -128,14 +128,9 @@ c/o Direct Marketing Association
 P.O. Box 9008  
 Farmingdale, NY 11735-9008 
 
-To reduce the number of _telemarketing calls_ you receive from other companies, write to:
+To reduce the number of _telemarketing calls_ you receive from other companies, you can register with the FTC's National Do Not Call registry at [www.donotcall.gov](http://www.donotcall.gov/), or by calling 1-888-382-1222.
 
-Telephone Preference Service  
-c/o Direct Marketing Association  
-P.O. Box 9014  
-Farmingdale, NY 11735-9014
-
-As we’ve explained in this policy, M&T is committed to safeguarding your personal information, and strictly controls the information that is collected, accessed and disclosed. However, you can also choose to limit information that is shared within the M&T family of companies and/or outside it, except for information permitted to be disclosed by law.
+As we’ve explained in this www.donotcall.gov policy, M&T is committed to safeguarding your personal information, and strictly controls the information that is collected, accessed and disclosed. However, you can also choose to limit information that is shared within the M&T family of companies and/or outside it, except for information permitted to be disclosed by law.
 
 **_Companies Outside the M &T Family_**
 
