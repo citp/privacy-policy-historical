@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the server.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605134923id_/http%3A//server.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the server.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208041202id_/http%3A//server.com/about/privacy.html) for the most accurate reproduction.*
 
-# Server.Com :: Privacy Policy
-
-### Server.Com Privacy Policy
+# Server.com Privacy Policy
 
 Server.com recognizes that its customers need to know Server.com will respect and protect the privacy of information placed in a Server.com WebApp or GroupApp. This document describes how Server.com safeguards your privacy and treats personal information. We understand that for you to take full advantage of the benefits of this interactive medium, we must do what we can to ensure that your privacy is secure.
 
@@ -35,7 +33,3 @@ We encourage our partners to clearly post their own privacy policies. Be sure to
 4\. We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements for this Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.sonar.com/content/privacy.htm) and [here](http://www.adtegrity.com/privacy.asp). 
 
 If you'd like to comment on or have questions about our privacy policy, have a concern or policy violation you wish to report, or wish to change or delete the customer information you submitted to Server.com, please contact Customer Support at support@Server.com or by calling (617) 249-0756.
-
-  
-Copyright © [Server Corporation](http://server.com/). All Rights Reserved.  
-[Terms of Service](https://web.archive.org/about/tos.html)
