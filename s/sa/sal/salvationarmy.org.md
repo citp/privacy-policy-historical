@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvationarmy.org privacy policy that was archived on 2000-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001022133313id_/http%3A//www.salvationarmy.org/webmain.nsf/sub/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvationarmy.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604135430id_/http%3A//www.salvationarmy.org/webmain.nsf/sub/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -19,9 +19,9 @@ Please note that if you voluntarily disclose personal information online, for ex
 
 Certain sections of our website are password protected and therefore require registration. These passwords are the responsibility of the user and should be kept secret.
 
-If you have any requests concerning your personal information or any queries with regard to these practices, please contact us by e-mail at 
+If you have any requests concerning your personal information or any queries with regard to these practices, please contact us using the following page:
 
-[registration@salvationarmy.org](mailto:registration@salvationarmy.org)
+<http://www.salvationarmy.org/sawebmail.nsf/comment1>
 
 As this website is UK based, your rights under the UK's Data Protection Act 1998 are provided for on the registration page. 
 
@@ -43,9 +43,9 @@ Firstly, go to the registration page and update your account:
 
 [www.salvationarmy.org/registration.nsf/update?openform](https://web.archive.org/registration.nsf/update?openform)
 
-If that does not resolve the issue, then e-mail us at:
+If that does not resolve the issue, then contact us using the following page:
 
-[registration@salvationarmy.org](mailto:registration@salvationarmy.org)
+<http://www.salvationarmy.org/sawebmail.nsf/comment1>
 
 **How does the Salvation Army use my information?**
 
