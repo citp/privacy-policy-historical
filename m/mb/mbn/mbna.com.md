@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208201251id_/http%3A//www.mbna.com/direct/home_nav_foot_privacy_r.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619145906id_/http%3A//www.mbna.com/direct/home_nav_foot_privacy_r.html) for the most accurate reproduction.*
 
 # MBNA.com - MBNA.com Privacy
 
@@ -104,7 +104,7 @@ MBNA will not share credit eligibility information about Vermont residents withi
 
 **Updates and Additional Information**
 
-This notice replaces any previous notices from MBNA about the privacy, security, and protection of information. For additional information regarding our Internet privacy practices, and to view the current version of this privacy notice, go to [www.mbna.com/privacy.html](https://web.archive.org/web/20031208161559id_/http://www.mbna.com/privacy.html). You may have other privacy protections under state laws. We may amend this privacy notice at any time. We will inform you of changes as required by law.
+This notice replaces any previous notices from MBNA about the privacy, security, and protection of information. For additional information regarding our Internet privacy practices, and to view the current version of this privacy notice, go to [www.mbna.com/privacy.html](https://web.archive.org/web/20040619210432id_/http://www.mbna.com/privacy.html). You may have other privacy protections under state laws. We may amend this privacy notice at any time. We will inform you of changes as required by law.
 
 **Tips to Protect Your Information**
 
@@ -167,7 +167,7 @@ Some MBNA Web sites may use a feature of your Internet browser called a cookie. 
 
 **Advertising Services**
 
-MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimize, and measure the effectiveness of our online banner advertising programs. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [ click here](https://web.archive.org/web/20031208161559id_/http://www.mbna.com/advertising_services.html).
+MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimize, and measure the effectiveness of our online banner advertising programs. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [ click here](https://web.archive.org/web/20040619210432id_/http://www.mbna.com/advertising_services.html).
 
 MBNA’s banner advertisements and online applications may contain small graphics with tags in them. These tags are not personally identifiable and work in conjunction with these cookies. These tags allow us to measure the effectiveness and response rates of our advertising.
 
