@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventuregamers.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602194032id_/http%3A//www.adventuregamers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuregamers.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012055519id_/http%3A//www.adventuregamers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Adventure Gamers
 
@@ -9,23 +9,20 @@
 
 |   | **sections**  
 ---|---  
-| **[News](https://web.archive.org/web/20040602194032id_/http%3A//www.adventuregamers.com/newsarchives.php)**  
-| **[Reviews](https://web.archive.org/web/20040602194032id_/http%3A//www.adventuregamers.com/reviews.php)**  
-| **[Previews](https://web.archive.org/web/20040602194032id_/http%3A//www.adventuregamers.com/previews.php)**  
-| **[Features](https://web.archive.org/web/20040602194032id_/http%3A//www.adventuregamers.com/features.php)**  
-| **[Interviews](https://web.archive.org/web/20040602194032id_/http%3A//www.adventuregamers.com/interviews.php)**  
-| **[Underground](https://web.archive.org/web/20040602194032id_/http%3A//www.adventuregamers.com/underground/index.php)**  
-| **[Contests](https://web.archive.org/web/20040602194032id_/http%3A//www.adventuregamers.com/contests.php)**  
+| **[News](https://web.archive.org/newsarchives.php)**  
+| **[Reviews](https://web.archive.org/reviews.php)**  
+| **[Previews](https://web.archive.org/previews.php)**  
+| **[Features](https://web.archive.org/features.php)**  
+| **[Interviews](https://web.archive.org/interviews.php)**  
+| **[Underground](https://web.archive.org/underground/index.php)**  
+| **[Contests](https://web.archive.org/contests.php)**  
 | **[Forums](http://forums.adventuregamers.com/)**  
-| **[Mailing List](https://web.archive.org/web/20040602194032id_/http%3A//www.adventuregamers.com/subscribe.php)**  
-| **[Links](https://web.archive.org/web/20040602194032id_/http%3A//www.adventuregamers.com/links.php)**  
-| **[About Us](https://web.archive.org/web/20040602194032id_/http%3A//www.adventuregamers.com/about/index.php)**  
+| **[Mailing List](https://web.archive.org/subscribe.php)**  
+| **[Links](https://web.archive.org/links.php)**  
+| **[About Us](https://web.archive.org/about/index.php)**  
   
-  | **site search**  
----|---  
-|   
   
-[](http://adventuregamers.com/phpadsnew/adclick.php?bannerid=43&zoneid=1&source=&dest=http%3A%2F%2Fwww.moonpod.com%2F%3Frid%3D19)
+
 
 | 
 
