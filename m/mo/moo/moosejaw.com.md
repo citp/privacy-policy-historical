@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the moosejaw.com privacy policy that was archived on 2000-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000903065629id_/http%3A//www.moosejaw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moosejaw.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603163208id_/http%3A//moosejaw.com/privacy) for the most accurate reproduction.*
 
 # Privacy
+
+**Customer Information Privacy Policy**
+
+Moosejaw will not sell, share, trade or give away any personal information that it receives regarding its customers.
 
 At Moosejaw.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
 
@@ -19,7 +23,7 @@ When you place orders or access your account information, we offer the use of a 
 
 **How does Moosejaw.com allow customers to update or change the information it collects?**
 
-You may update or change information related to your Moosejaw.com account by sending an [e-mail](https://web.archive.org/web/20000903065629id_/http://www.moosejaw.com/contact/) to us.
+You may update or change information related to your Moosejaw.com account by sending an [e-mail](https://web.archive.org/web/20010603163208id_/http://moosejaw.com/contact/) to us.
 
 **In summary...**
 
@@ -31,4 +35,4 @@ By using our Web site, you consent to the collection and use of this information
 
 **Tell us what you think**
 
-Moosejaw.com welcomes your questions and comments about privacy. If you have any questions, please [contact](https://web.archive.org/web/20000903065629id_/http://www.moosejaw.com/contact/) us.
+Moosejaw.com welcomes your questions and comments about privacy. If you have any questions, please [contact](https://web.archive.org/web/20010603163208id_/http://moosejaw.com/contact/) us.
