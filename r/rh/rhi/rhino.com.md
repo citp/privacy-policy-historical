@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhino.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606121230id_/http%3A//rhino.com/privacy/index.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhino.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010035311id_/http%3A//www.rhino.com/privacy/index.lasso) for the most accurate reproduction.*
 
 # Privacy Policy - Rhino
 
