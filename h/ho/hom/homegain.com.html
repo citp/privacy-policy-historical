@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homegain.com privacy policy that was archived on 2000-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205020900id_/http%3A//homegain.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homegain.com privacy policy that was archived on 2001-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604010257id_/http%3A//homegain.com/privacy) for the most accurate reproduction.-->
 
 <html><head><script language="javascript">
 
@@ -20,8 +20,6 @@ function closeWindow()
     window.close();
 }
 
- window.name = "_main";
-
 </script>
 
   
@@ -29,11 +27,118 @@ function closeWindow()
 
 
 
-<title>HomeGain -- Home valuations, find real estate agents, sell your home</title>
+<title>
+HomeGain -- Home valuations, find real estate agents, sell your home
+</title>
 <meta http-equiv="KEYWORDS" content="homegain, home sales, real estate agents, house price, find agent, sell home, home valuation, house sales, real estate agent, sell house, find agents">
 <meta http-equiv="DESCRIPTION" content="Find out what your home is worth, screen to select the right real estate agent, evaluate important financial decisions.">
-
+<meta http-equiv="Pragma" content="no-cache">
 <script language="javascript">
+<!--
+function checkSubmit(form)
+  {
+  // alert('checking form');
+  //   if(form.already_submitted.value == 1) return false;
+  //   else 
+  //     {
+  //     form.already_submitted.value = 1;
+  //     return true;
+  //     }
+  return true;
+  }
+
+function submitForm(form_name, form_action)
+  {
+  var this_form = eval("document." + form_name);
+  if(form_action == "continue") this_form.continue_x.value = 1;
+  if(form_action == "done") this_form.done_x.value = 1;
+  if(form_action == "justtest") this_form.justtest_x.value = 1;
+  this_form.submit();
+  }
+
+function startProcessing()
+  {
+  // alert('Processing.  Please wait.');
+  if (document.forms.proc_form) document.forms.proc_form.form_proc.value = "Processing... Please wait.";
+  addNotch(1);
+  // Initialize all notches after the first to clear
+  document.images.block1.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block2.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block3.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block4.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block5.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block6.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block7.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block8.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block9.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block10.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block11.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block12.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block13.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block14.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block15.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block16.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block17.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block18.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block19.src='http://208.185.107.201/i/clearpixel.gif';
+  document.images.block20.src='http://208.185.107.201/i/clearpixel.gif';
+  return false;
+  }
+
+function addNotch(notch_number)
+  {
+  eval('document.images.block' + notch_number + '.src="http://208.185.107.201/i/navypixel.gif"');
+  if(document.images.processing) document.images.processing.src='http://208.185.107.201/i/processing.gif';
+  var new_number = parseInt(notch_number) + 1;
+  if(new_number < 20) var the_timeout = setTimeout('addNotch("' + new_number + '")', 500);
+  else var the_timeout = setTimeout('startProcessing()', 1000);
+  }
+
+
+function HG_preloadImages() 
+  {
+  // Don't bother if there's no document.images
+  if (document.images) 
+    {
+    if (typeof(document.HG) == 'undefined') 
+      {
+      document.HG = new Object();
+      }
+    document.HG.loadedImages = new Array();
+    // Loop through all the arguments.
+    var argLength = HG_preloadImages.arguments.length;
+    for(arg=0;arg<argLength;arg++) 
+      {
+      // For each arg, create a new image.
+      document.HG.loadedImages[arg] = new Image();
+      // Then set the source of that image to the current argument.
+      document.HG.loadedImages[arg].src = HG_preloadImages.arguments[arg];
+      }
+    }
+  }
+
+function preloadImages() 
+  {
+  // Don't bother if there's no document.images
+  if (document.images) 
+    {
+    if (typeof(document.HG) == 'undefined') 
+      {
+      document.HG = new Object();
+      }
+    document.HG.loadedImages = new Array();
+    // Loop through all the arguments.
+    var argLength = preloadImages.arguments.length;
+    for(arg=0;arg<argLength;arg++) 
+      {
+      // For each arg, create a new image.
+      document.HG.loadedImages[arg] = new Image();
+      // Then set the source of that image to the current argument.
+      document.HG.loadedImages[arg].src = preloadImages.arguments[arg];
+      }
+    }
+  }
+
 
 function newwin(url,w,h)
 {
@@ -43,7 +148,7 @@ function newwin(url,w,h)
     }
     else
     {
-        window.open(url,"_blank","status=0,scrollbars=1,resizable=0,toolbar=0,location=0,width="+w+",height="+h);
+        window.open(url,"_blank","status=0,scrollbars=1,resizable=1,toolbar=0,location=0,width="+w+",height="+h);
     }
 }
 
@@ -52,9 +157,10 @@ function closeWindow()
     window.close();
 }
 
- window.name = "_main";
-
+// -->
 </script>
+
+
 <script language="javascript">
 
  function enterLivePerson(aname, gname, re, name) {
@@ -72,7 +178,7 @@ function closeWindow()
 
 </style> 
 </head>
-<body bgcolor="White" text="#000000" link="Blue" alink="Red" vlink="Purple" leftmargin="0" rightmargin="0" topmargin="0">
+<body bgcolor="White" text="#000000" link="Blue" alink="Red" vlink="Purple" leftmargin="0" rightmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 
 
 
@@ -99,18 +205,48 @@ function openBrWindow(theURL,winName,features) { //v2.0
 <table width="800" border="0" cellspacing="0" cellpadding="0" bgcolor="White" valign="middle">
 <!-- header starts here -->
   <tbody><tr bgcolor="White">
-    <td valign="bottom">&nbsp;&nbsp;&nbsp;<a href="/index_html?mi=o"><img src="http://www.homegain.com/images/hg_logo3_new.gif" alt="HomeGain.com" height="45" width="254" vspace="5" border="0"></a></td>
-    <td width="438" bgcolor="White" align="left" valign="bottom"><img src="http://www.homegain.com/images/topbar3_new.gif" alt="You'll be sold" height="22" width="131" vspace="8" border="0"></td>
+    <td valign="bottom">&nbsp;&nbsp;&nbsp;<a href="/index_html?mi=o"><img src="http://208.185.107.201/i/hg_logo3_new.gif" alt="HomeGain.com" height="45" width="254" vspace="5" border="0"></a></td>
+    <td width="438" bgcolor="White" align="left" valign="bottom"><img src="http://208.185.107.201/i/topbar3_new.gif" alt="You'll be sold" height="22" width="131" vspace="8" border="0"></td>
 <!-- Beginning of CSIM -->
 <!-- End of CSIM -->
-    <td bgcolor="White" valign="middle">	<a href="javascript:openBrWindow('/help/popup/yahoo','yahoo','scrollbars=no,width=300,height=440')"><img src="http://www.homegain.com/images/topad.gif" alt="topad" height="51" width="278" border="0"></a>
+    <td bgcolor="White" valign="middle">
+<script language="javascript">
+<!--
+ function enterLivePerson(aname, gname, re, name) {
+   window.name = "lp_parent";
+   var url = "http://homegain.client.liveperson.net/user.asp?aname=" + aname + "&gname=" + gname + "&RE=" + re + "&name=" + name;
+   var hWnd = window.open(url,"live_person","width=300,height=350,resizable=yes,scrollbars=yes");
+   if (hWnd != null) { if (hWnd.opener == null) { hWnd.opener = self; window.name = "home"; hWnd.location.href=url; } }
+ }
+// -->
+</script>
+
+<table cellspacing="0" cellpadding="0" border="0" width="278">
+  <tbody><tr>
+    <td align="right" valign="middle" width="278">
+      <table cellpadding="0" cellspacing="0" border="0" width="218">
+	  <tbody><tr>
+          <td rowspan="3" valign="middle" width="61"><img src="http://208.185.107.201/i/need_help.gif" alt="Need Help Icon" height="26" width="61" border="0"></td>
+                                          <td width="157"><a href="help/help_buyer?mi=h2" alt="Help for buyers"><img src="http://208.185.107.201/i/need_help_buyers.gif" alt="Buyer Help" height="18" width="157" border="0"></a></td>
+              </tr>
+              <tr>
+                <td width="157"><a href="help/help_seller?mi=h2" alt="Buyer help"><img src="http://208.185.107.201/i/need_help_sellers.gif" alt="Seller help" height="18" width="157" border="0"></a></td>
+              </tr>
+              <tr>
+                <td width="157"><a href="javascript:newwin('/showhint?mod=',650,350)" alt="Forgot your password?"><img src="http://208.185.107.201/i/need_help_forgot_password.gif" alt="Forgot your password?" height="18" width="157" border="0"></a></td>
+                                 </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+	<!-- <a href="javascript:openBrWindow('/help/popup/yahoo','yahoo','scrollbars=no,width=300,height=440')"><img src="http://208.185.107.201/i/topad.gif" alt="topad" height="51" width="278" border="0"> -->
 </td>
   </tr>
 <tr bgcolor="#FDDA7E">
     <td colspan="3">
      <table width="100%" border="0" cellpadding="0" cellspacing="0">
       <tbody><tr>
-       <td width="83%"><img src="http://www.homegain.com/images/clear_g.gif" alt="clear_g" height="1" width="1"><font face="arial, helvetica, sans serif" size="-2"></font></td>
+       <td width="83%"><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="1"><font face="arial, helvetica, sans serif" size="-2"></font></td>
        <td width="*" align="center"><font color="#0e4564" face="arial, helvetica, sans serif" size="-2">
 <script>
 <!-- Begin
@@ -154,77 +290,73 @@ document.write(date + ", " + year + "</center>");
 
 <tbody><tr valign="top" height="100%">
 	<td height="100%" bgcolor="#0E4564" rowspan="2">
-	<table width="125" border="0" cellspacing="0" height="100" cellpadding="0" align="left" bgcolor="#003366">
-  <tbody><tr bgcolor="#0E4564" height="100%" valign="top"> 
+	<table width="125" border="0" cellspacing="0" height="100" cellpadding="0" align="left" bgcolor="#0E4564">
+  <tbody><tr> 
     <td> 
-      <table valign="top" bgcolor="#0E4564" width="125" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr bgcolor="#0E4564">
-          <td align="center"><img src="http://www.homegain.com/images/clearpixel.gif" height="5" width="125" border="0"></td>
+      <table valign="top" width="125" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td align="center"><img src="http://208.185.107.201/i/clearpixel.gif" height="5" width="125" border="0"></td>
         </tr>
-        <tr bgcolor="#0E4564">
+        <tr>
           <td align="left">
-          		              <a href="/login"><img src="http://www.homegain.com/images/nav_logon2.gif" alt="Members Log On" height="20" width="120" border="0"></a><br>
+          		              <a href="/login"><img src="http://208.185.107.201/i/nav_logon2.gif" alt="Members Log On" height="20" width="120" border="0"></a><br>
               <center>
               <a href="/client/signup"><font color="#FF9900" face="Arial, Helvetica, Sans-serif" size="1">First-time site visitors</font></a><br><br>
               </center>
                                 </td>
         </tr>
-
-<!--
-              <tr>
-                <td align="center"><img src="http://www.homegain.com/images/clearpixel.gif" height="15" width="125" border="0"></td>
-              </tr>
--->
-            </tbody></table>
-
-
-            <!-- START GIFT BASKET -->
-            <table border="0" width="125">
-                                                    <!-- USER IS LOGGED IN AS NON-AGENT -->     
+      </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<!-- START GIFT BASKET -->
+      <table border="0" width="125">
+                                                    <!-- USER IS LOGGED IN AS CONSUMER (SELLER OR BUYER) -->     
                 <tbody><tr>
                   <td valign="top">
-                    <a href="/gb_free_gift_description?ht=gift_icon"><img src="http://www.homegain.com/images/gift.gif" alt="Get $100 FREE Gift" height="30" width="28" border="0"></a>
+                    <a href="/gb_free_gift_description?ht=gift_icon"><img src="http://208.185.107.201/i/gift.gif" alt="Get $100 FREE Gift" height="30" width="28" border="0"></a>
                   </td>
                   <td valign="top">
                     <font face="Arial, Helvetica, Sans-serif" size="1" color="#FF9900">
-                      Selected an Agent from HomeGain?
-                    <a href="/gb_free_gift_description?ht=gift_text"><font color="#FF9900">Get $100 and a free gift!</font></a>
+                      Buy or sell a home using a HomeGain agent, and
+                    <a href="/gb_free_gift_description?ht=gift_text"><font color="#FF9900">get $100 and a free gift!</font></a>
                     </font>
                   </td>
                 </tr>
-                                                  <tr>
-                <td colspan="2">
-                  &nbsp;
-                </td>
-              </tr>
-
-            </tbody></table>
-            <!-- END GIFT BASKET -->
-
-
+                                            <tr>
+          <td>
+            &nbsp;
+          </td>
+        </tr>
+      </tbody></table>
+<!-- END GIFT BASKET -->
+    </td>
+  </tr>
+  <tr>
+    <td>
       <!-- nav bar menu starts here --> 
-
-                      
+                
                                                                                                                          
                         
                                           
                                                                          
 <table width="125" border="0" cellspacing="0" cellpadding="0" align="center">
     <tbody><tr>
-	<td><img src="http://www.homegain.com/images/clear_g.gif" alt="clear_g" height="1" width="125"></td>	
+	<td><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="125"></td>	
     </tr>
 
 
              <tr>
-        <td><a href="/index_html?mi=o"><img src="http://www.homegain.com/images/n_home.gif" height="19" width="125" border="0"></a></td>
+        <td><a href="/index_html?mi=o"><img src="http://208.185.107.201/i/n_home.gif" height="19" width="125" border="0"></a></td>
     </tr>
     <tr bgcolor="#CCCCCC">
-	<td><img src="http://www.homegain.com/images/clear_g.gif" alt="clear_g" height="1" width="125" border="0"></td>	
+	<td><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="125" border="0"></td>	
     </tr> 
 
 
               <tr>
-      <td><a href="/control_center"><img src="http://www.homegain.com/images/n_control.gif" height="19" width="125" border="0"></a></td>
+      <td><a href="/control_center"><img src="http://208.185.107.201/i/n_control.gif" height="19" width="125" border="0"></a></td>
  </tr>
 
  
@@ -234,50 +366,67 @@ document.write(date + ", " + year + "</center>");
 <!--cut 25-->
 
     <tr>
-	<td><img src="http://www.homegain.com/images/clear_g.gif" alt="clear_g" height="1" width="125"></td>	
+	<td><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="125"></td>	
     </tr>
 
 
+               <tr>
+    <td><a href="/homescout?mi=s"><img src="http://208.185.107.201/i/n_find_a_home.gif" height="19" width="125" border="0"></a></td>
+  </tr>
+  <tr>
+    <td><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="125"></td>	
+  </tr>
+
                   <tr>
-          <td><a href="http://quickenloans.quicken.com/default.asp?source=homegain_con.Hflatlogo"><img src="http://www.homegain.com/images/n_mortgagecenter.gif" height="19" width="125" border="0"></a></td>
+          <td><a href="http://quickenloans.quicken.com/default.asp?source=homegain_con.Hflatlogo"><img src="http://208.185.107.201/i/n_mortgagecenter.gif" height="19" width="125" border="0"></a></td>
      </tr>
      <tr bgcolor="#CCCCCC">
-	  <td><img src="http://www.homegain.com/images/clear_g.gif" alt="clear_g" height="1" width="125" border="0"></td>	
+	  <td><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="125" border="0"></td>	
      </tr> 
                   <tr>
-           <td><a href="/moving?mi=v"><img src="http://www.homegain.com/images/n_movingcenter.gif" height="19" width="125" border="0"></a></td>
+           <td><a href="/moving?mi=v"><img src="http://208.185.107.201/i/n_movingcenter.gif" height="19" width="125" border="0"></a></td>
      </tr>
      <tr bgcolor="#CCCCCC">
-	   <td><img src="http://www.homegain.com/images/clear_g.gif" alt="clear_g" height="1" width="125" border="0"></td>	
+	   <td><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="125" border="0"></td>	
      </tr>
                   <tr>
-        <td><a href="/client/new_user_seller?mi=ts"><img src="http://www.homegain.com/images/n_tools.gif" height="19" width="125" border="0"></a></td>
+           <td><a href="/improvement/index_html?mi=p"><img src="http://208.185.107.201/i/n_homeimprove.gif" height="31" width="125" border="0"></a></td>
+     </tr>
+     <tr bgcolor="#CCCCCC">
+	   <td><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="125" border="0"></td>	
+     </tr>
+                  <tr>
+        <td><a href="/client/new_user_seller?mi=ts"><img src="http://208.185.107.201/i/n_tools.gif" height="19" width="125" border="0"></a></td>
      </tr>  
      <tr>
-	<td><img src="http://www.homegain.com/images/clear_g.gif" alt="clear_g" height="1" width="125" border="0"></td>	
+	<td><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="125" border="0"></td>	
      </tr>
 
                  <tr>
-        <td><font size="1" face="Verdana,Arial, Helvetica" color="#FE9901">
+        <td><font size="1" face="Arial, Helvetica, sans-serif" color="#FE9901">
         <b><a style="color:#FE9901;text-decoration:none;" href="/library/sellerlib?mi=ls">
-        <font size="1" face="Verdana,Arial, Helvetica" color="#ff9900"><b><img src="http://www.homegain.com/images/n_library.gif" height="19" width="125" border="0"></b></font></a></b></font></td>	
+        <font size="1" face="Arial, Helvetica,sans-serif" color="#ff9900"><b><img src="http://208.185.107.201/i/n_library.gif" height="19" width="125" border="0"></b></font></a></b></font></td>	
     </tr>
     <tr>
-	<td><img src="http://www.homegain.com/images/clear_g.gif" alt="clear_g" height="1" width="125" border="0"></td>	
+	<td><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="125" border="0"></td>	
     </tr>
                  <tr>
-        <td><a href="/about_hg/aboutbusiness?mi=ao"><img src="http://www.homegain.com/images/n_about.gif" height="19" width="125" border="0"></a></td>
+        <td><a href="/about_hg/aboutbusiness?mi=ao"><img src="http://208.185.107.201/i/n_about.gif" height="19" width="125" border="0"></a></td>
     </tr>
 
-                 <tr>
-	<td><img src="http://www.homegain.com/images/clear_g.gif" alt="clear_g" height="1" width="125"></td>	
+             
+
+         
+    <tr>
+	<td><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="125"></td>	
     </tr>
     <tr>
-        <td><font size="1" face="Verdana,Arial, Helvetica" color="#FE9901">
-	        <b><a href="/help/help_seller?mi=h1"><img src="http://www.homegain.com/images/n_help.gif" height="19" width="125" border="0"></a></b></font></td>
+        <td><font size="1" face="Arial, Helvetica, sans-serif" color="#FE9901">
+	        <b><a href="/help/help_seller?mi=h1"><img src="http://208.185.107.201/i/n_help.gif" height="19" width="125" border="0"></a></b></font></td>
     </tr>
+
     <tr>
-	<td><img src="http://www.homegain.com/images/clear_g.gif" alt="clear_g" height="1" width="125"></td>	
+	<td><img src="http://208.185.107.201/i/clear_g.gif" alt="clear_g" height="1" width="125"></td>	
     </tr>
     </tbody></table>
 
@@ -285,64 +434,11 @@ document.write(date + ", " + year + "</center>");
 
 	
      <!-- nav bar ends here --> 
-
-<!-- hide 
-
-<table width="125" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td align=center> 
-<!dtml-call "REQUEST.set('mynum',_.whrandom.randint(100000,999999))">
-<!dtml-if AUTHENTICATED_USER>
-  <!dtml-with "AUTHENTICATED_USER">
-		<!dtml-if isAgent>
-<A HREF="http://ad.doubleclick.net/jump/agent.dart/agebutton2;sz=120x60;ord=[<!dtml-var mynum>]?">
-<IMG SRC="http://ad.doubleclick.net/ad/agent.dart/agebutton2;sz=120x60;ord=[<!dtml-var mynum>]?" border=0></A>
-                <!dtml-else>
-<A HREF="http://ad.doubleclick.net/jump/consumer.dart/conbutton2;sz=120x60;ord=[<!dtml-var mynum>]?">
-<IMG SRC="http://ad.doubleclick.net/ad/consumer.dart/conbutton2;sz=120x60;ord=[<!dtml-var mynum>]?" border=0></A>
-		<!/dtml-if>
-                <!/dtml-with>
-                 <!dtml-else>
-<A HREF="http://ad.doubleclick.net/jump/consumer.dart/conbutton2;sz=120x60;ord=[<!dtml-var mynum>]?">
-<IMG SRC="http://ad.doubleclick.net/ad/consumer.dart/conbutton2;sz=120x60;ord=[<!dtml-var mynum>]?" border=0></A>
-                <!/dtml-if>
-</td>
-        </tr>
-        <tr> 
-          <td>&nbsp; 
-            
-          </td>
-        </tr>
-        <tr> 
-          <td align=center> 
-<!dtml-if AUTHENTICATED_USER>
-  <!dtml-with "AUTHENTICATED_USER">
-		<!dtml-if isAgent>
-<A HREF="http://ad.doubleclick.net/jump/agent.dart/agebutton1;sz=120x60;ord=[<!dtml-var mynum>]?">
-<IMG SRC="http://ad.doubleclick.net/ad/agent.dart/agebutton1;sz=120x60;ord=[<!dtml-var mynum>]?" border=0></A>
-                <!dtml-else>
-<A HREF="http://ad.doubleclick.net/jump/consumer.dart/conbutton1;sz=120x60;ord=[<!dtml-var mynum>]?">
-<IMG SRC="http://ad.doubleclick.net/ad/consumer.dart/conbutton1;sz=120x60;ord=[<!dtml-var mynum>]?" border=0></A>
-		<!/dtml-if>
-                <!/dtml-with>
-                <!dtml-else>
-<A HREF="http://ad.doubleclick.net/jump/consumer.dart/conbutton1;sz=120x60;ord=[<!dtml-var mynum>]?">
-<IMG SRC="http://ad.doubleclick.net/ad/consumer.dart/conbutton1;sz=120x60;ord=[<!dtml-var mynum>]?" border=0></A>
-                <!/dtml-if>
-          </td>
-        </tr>
-      </table>
--->
-
-</td>
-</tr>
-
-<tr>
-	<td bgcolor="#0E4564" height="100%">&nbsp;</td></tr>
-
+    </td>
+  </tr>
+  <tr>
+    <td height="100%"><img src="http://208.185.107.201/i/clearpixel.gif" alt="HomeGain" height="1" width="125" border="0"></td>
+  </tr>
 </tbody></table></td>
 	<td width="100%" height="100%">
 
@@ -358,22 +454,21 @@ document.write(date + ", " + year + "</center>");
 
 
 
-
-
-
-
-  <table width="533" border="0" cellspacing="0" cellpadding="0">
+    <table width="533" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> <!--nav curve--> 
-    <td colspan="2" valign="top" height="75"><img src="http://www.homegain.com/images/nav_curve3.gif" alt="nav_curve3" height="36" width="36" border="0"></td>
     <!--header image--> 
-    <td colspan="3">&nbsp;</td>
+    <td><img src="http://208.185.107.201/i/nav_curve3.gif" alt="nav_curve3" height="36" width="36" border="0"></td>
   </tr>
   </tbody></table>
-<table width="533" border="0" cellspacing="0" cellpadding="0">
+  <table width="533" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> <!--nav curve--> 
-    <td colspan="2">&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
     <!--header image-->     
-    <td colspan="3" valign="bottom" height="75"><img src="http://www.homegain.com/images/h_priv_pol.gif" alt="h_priv_pol" height="54" width="492" border="0"></td>
+    <td colspan="2" valign="bottom" height="54">
+      <font face="Arial,helvetica,sans-serif" size="5" color="#003366"><b>
+        Privacy Policy
+      </b></font>
+    </td>
   </tr>
 
   <tr>
@@ -451,8 +546,13 @@ Any related account and personal information maintained by HomeGain.com is done 
 </p><p>
 <b>E-mail at HomeGain.com</b><br>
 E-mail is an important communication channel for our online customers. E-mails sent automatically to agents or sellers through the function of the Control Center are kept anonymous. On occasion, we may use your e-mail address to send you communications with information about service and product information that we believe may be of interest to you. If you do not want to receive such unsolicited communications from HomeGain.com, simply contact us at <a href="mailto:info@homegain.com">info@homegain.com</a>. 
+</p><p>
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. This company may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. Please click here for more information on <a href="http://www.doubleclick.net/naiprivacy">DoubleClick and its privacy policy</a>, information collected in the process ofdelivering an ad to you and your choices regarding delivery of targeted ad campaigns. 
+</p><p>
 </p></font><p><font face="Arial, Helvetica, sans-serif" size="2">
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Please click here for more information on DoubleClick and its <a href="http://www.doubleclick.net/privacy_policy/">privacy policy</a>, information collected in the process of delivering an ad to you and your choices regarding delivery of targeted ad campaigns.
+<b>Third Party Cookies</b>
+<br>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 <!-- END PRIVACY POLICY -->
                                       </font>
 		    </p></td>
@@ -473,28 +573,20 @@ The ads appearing on this Web site are delivered to you by DoubleClick, our Web 
 	<tr valign="top" align="left">
 		<td width="530" align="left" colspan="2">
 		<br><br>
-                <table cellspacing="0" cellpadding="0" border="0" width="530">
+                <table cellspacing="0" cellpadding="0" border="0" width="100%">
   <!-- copyright starts here --> 
-  <tbody><tr valign="bottom" align="center">  
-  <td width="530" align="center"> 
-      <font face="Arial, Helvetica, sans-serif" size="2">
-	
-	<a href="/privacy"><font size="1">Privacy Policy</font></a>&nbsp;
-	<a href="/terms"><font size="1">Terms of Use</font></a>&nbsp;
-	<a href="/housing"><font size="1">Fair Housing</font></a>&nbsp;
-	<a href="/about_hg/affiliate_program?mi=af"><font size="1">Affiliate Program</font></a>&nbsp;
-        <a href="/about_hg/media?mi=ae"><font size="1">Newsroom</font></a>&nbsp;
-        <a href="/about_hg/contact_us?mi=ac"><font size="1">Contact Us</font></a>&nbsp;
-	<a href="/acl_users/logout"><font size="1">Logout</font></a>&nbsp;
-	
-
-	<br>
-	<a style="color:#000000"><font face="Arial, Helvetica, sans-serif" size="1">Copyright©</font></a>
-	<font face="Arial, Helvetica, sans-serif" size="1"> 2000</font>
-	<font face="Arial, Helvetica, sans-serif" size="1"> HomeGain.com, Inc. is a Licensed <a href="/broker">Real Estate Broker</a></font> 
-</font>
-    </td>
-  
+  <tbody><tr valign="bottom">
+    <td width="36"><img src="http://208.185.107.201/i/clearpixel.gif" alt="HomeGain" height="1" width="36" border="0"></td>
+    <td width="504" align="center"><font face="Arial, Helvetica, sans-serif" size="1">
+      <a href="/privacy">Privacy Policy</a>&nbsp;
+    	<a href="/terms">Terms of Use</a>&nbsp;
+    	<a href="/housing">Fair Housing</a>&nbsp;
+      <a href="/about_hg/advertising?mi=aa">Advertise</a>&nbsp;
+      <a href="/about_hg/affiliate_program?mi=af">Affiliate Program</a>&nbsp;
+      <a href="/about_hg/media?mi=ae">Newsroom</a>&nbsp;
+      <a href="/about_hg/contact_us?mi=ac">Contact Us</a>&nbsp;
+    	<a href="/acl_users/logout">Logout</a>&nbsp;
+	    <br><a style="color:#000000"><font face="Arial, Helvetica, sans-serif" size="1">Copyright&nbsp;©</font></a> 2000 HomeGain.com, Inc. is a Licensed <a href="/broker">Real Estate Broker</a></font></td>
   </tr>
   <!-- copyright ends here --> 
 <!-- {'status': '200 OK'} -->
@@ -505,6 +597,18 @@ The ads appearing on this Web site are delivered to you by DoubleClick, our Web 
 	</tbody></table>
      
     
+
+  
+
+
+<script language="JavaScript">
+<!--
+function openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+// -->
+</script>
+
 
 
 
