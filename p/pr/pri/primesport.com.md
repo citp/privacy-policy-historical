@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the primesport.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622133525id_/http%3A//www.primesport.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primesport.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208162102id_/http%3A//www.primesport.com/policies.asp) for the most accurate reproduction.*
 
-# PrimeSport
+# PrimeSport - Privacy Policy
 
 Policies Governing Use of This Website and Our Services
 
@@ -117,11 +117,9 @@ PrimeSport International is in **no way affiliated** with any box office or offi
 If you have any questions about the above Terms and Conditions, please contact: 
 
 PrimeSport International   
-501-F Johnson Ferry Rd, Suite 300  
-Marietta, Georgia 30068  
-Tel : 1-800-591-9198   
-Or 1-770-321-2422   
-Fax : 1-770-321-2414
+9464 Wilshire Boulevard  
+Beverly Hills, CA 90212  
+Tel : 1-800-591-9198 
 
 Back To Top
 
