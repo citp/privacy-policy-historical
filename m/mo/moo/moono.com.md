@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moono.com privacy policy that was archived on 2003-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030827161408id_/http%3A//www.moono.com/index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moono.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602234118id_/http%3A//www.moono.com/index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Moono.com - celebrity celebrities pictures music free movies stars pics actress models celebs
+# Moono.com - Ultimate Entertainment Source for movies, gossip, music, lyrics, wallpaper, celebrities, jokes, pictures and more.
 
 We take your right to privacy seriously. This Policy discloses the privacy practices for this website (the "Site"). In reviewing this Policy, you can expect to be notified of: what personally identifiable information of yours is collected; the organization collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind and efficacy of security procedures that are in place to protect the loss, misuse or alteration of information under the licensee's control; and your ability to access, correct, and/or delete information you previously provided. 
 
