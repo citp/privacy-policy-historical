@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402235404id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211105218id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
