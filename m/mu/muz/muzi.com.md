@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muzi.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607233605id_/http%3A//home.muzi.com/info/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzi.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017052456id_/http%3A//home.muzi.com/info/policy/privacy.html) for the most accurate reproduction.*
 
 # MuziNet Privacy Policy
 
