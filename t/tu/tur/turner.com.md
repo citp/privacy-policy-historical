@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607214229id_/http%3A//turner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213214400id_/http%3A//www.turner.com/privacy.html) for the most accurate reproduction.*
 
 # Turner Broadcasting System, Inc. - Privacy Policy
 
@@ -56,7 +56,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 **How You can Access or Correct Information**
 
-For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please click here. 
+For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](http://turner.com/legal/correct.html). 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
