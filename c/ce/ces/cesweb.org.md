@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208103305id_/http%3A//www.cesweb.org/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603173328id_/http%3A//www.cesweb.org/privacy/default.asp) for the most accurate reproduction.*
 
-# 2003 International CES: Privacy Policy
+# 2004 International CES: Privacy Policy
+
+  
+
+
+[](http://www.ce.org/)
 
   
   
   
-
-
-[](http://www.ce.org/)  
-
-
+  
 |  |    
 
 
@@ -66,16 +67,18 @@ Should you have other questions or concerns about these privacy policies, please
 ---  
 | 
 
-International CES
+Save the date!
+
+2004 International CES
 
 **  
-January 9-12, 2003  
-Las Vegas, Nevada **
-
+January 8-11, 2004  
+Las Vegas, Nevada**   
   
-_  Coming in -6231 days!_  
+**[Registration](https://web.archive.org/registration/)**   
+  
+  
+  
   |    Search CESweb  
      
-  
-_    Questions?_   
-   [We've got answers.](https://web.archive.org/help/default.asp)
+
