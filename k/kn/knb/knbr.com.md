@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knbr.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409175331id_/http%3A//knbr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knbr.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215045740id_/http%3A//knbr.com/privacy.html) for the most accurate reproduction.*
 
 # KNBR 680 The Sports Leader
 
