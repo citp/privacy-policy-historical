@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberal.org.au privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012090346id_/http%3A//www.liberal.org.au/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberal.org.au privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401103438id_/http%3A//www.liberal.org.au/legal/privacy.htm) for the most accurate reproduction.*
 
 # Liberal Party of Australia - Privacy
 
@@ -22,9 +22,9 @@ When users visit this website, the The Liberal Party of Australia server makes a
 
 
 
-The Liberal Party of Australia staff analyse these records regularly to improve the website"s relevance and value. 
+The Liberal Party of Australia staff analyse these records regularly to improve the website’s relevance and value. 
 
-The Liberal Party of Australia may maintain email lists to keep users informed about areas of specific interest. The Liberal Party of Australia will only provide such information to users as they have consented to receive. The Liberal Party of Australia does not sell, rent, loan, trade, or lease the addresses on these lists to any third party. Users may ask to be removed from these lists at any time. The Liberal Party of Australia may use a feature of your browser (żcookiesî) to assign a unique user ID. Cookies by themselves cannot be used to identify you - they only identify your computer to the The Liberal Party of Australia server when you visit the The Liberal Party of Australia website. 
+The Liberal Party of Australia may maintain email lists to keep users informed about areas of specific interest. The Liberal Party of Australia will only provide such information to users as they have consented to receive. The Liberal Party of Australia does not sell, rent, loan, trade, or lease the addresses on these lists to any third party. Users may ask to be removed from these lists at any time. The Liberal Party of Australia may use a feature of your browser (“cookies”) to assign a unique user ID. Cookies by themselves cannot be used to identify you - they only identify your computer to the The Liberal Party of Australia server when you visit the The Liberal Party of Australia website. 
 
 |    
 
