@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609171321id_/http%3A//www.scholarships.com/PrivacyPolicy.Asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202022248id_/http%3A//www.scholarships.com/PrivacyPolicy.Asp) for the most accurate reproduction.*
 
 # Scholarships.com free college scholarship search & financial aid resource
 
@@ -17,7 +17,7 @@ Scholarships.com maintains high standards for the protection of your privacy ove
 
 The only information Scholarships.com obtains about individual visitors to our website is information supplied voluntarily by the visitor. Our website's personal profile questionnaire requires users to volunteer contact information (name and address for example), and demographic information (zip code, age, or income level). We ask if we may make information about you available to our select list of marketing partners (Opt-In/Opt-Out). Scholarships.com is very careful in selecting its marketing partners. We work with reputable, leading companies and organizations that provide products and services that are useful and of interest to students and parents. Marketing partners may be providers of services for direct marketing applications including lookup and reference, data enhancement, suppression and validation. Marketing partners will never be companies or organizations involved with pornography, tobacco or other industries we find to be objectionable or potentially harmful. Though we are selective with whom we partner, we do not control the practices of our marketing partners. 
 
-You may review or update any of your maintained personally identifiable information by visiting [ My Profile](https://web.archive.org/web/20030609171321id_/http%3A//www.scholarships.com/Register.asp?destination=ProfileSummary.asp&pagename=ProfileSummary).   
+You may review or update any of your maintained personally identifiable information by visiting [ My Profile](https://web.archive.org/web/20031202022248id_/http%3A//www.scholarships.com/Register.asp?destination=ProfileSummary.asp&pagename=ProfileSummary).   
 At any time, you may also ask to review or update any of your maintained personally identifiable information by contacting us at: [ privacy@scholarships.com.](mailto:privacy@scholarships.com) To protect the security and integrity of your information, we will also take reasonable steps to verify your identity before providing access or correction. 
 
 **Opt-In/Opt-Out**  
