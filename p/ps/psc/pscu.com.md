@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pscu.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209040854id_/http%3A//www.pscu.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pscu.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609182527id_/http%3A//www.pscu.com/about/privacy.html) for the most accurate reproduction.*
 
 # ComputerUser.com Privacy Statement
 
@@ -12,9 +12,11 @@
 
   
   
-  |  [Click here](https://web.archive.org/clickthru/click.php?ct=20) to view our   
-Training Directory  
-  |  [Click here](https://web.archive.org/clickthru/click.php?ct=12) for regional   
+  |  [Click here](https://web.archive.org/clickthru/click.php?ct=20) to view our  
+Computer Training Directory  
+  |  [Click here](http://www.cpu-net.com/) For Your Local[ Internet Service Provider ](http://www.cpu-net.com/)  
+  |  [Click here](https://web.archive.org/clickthru/click.php?ct=12)  
+for regional  
 magazine advertising information  
 | C U R R E N T   P O L L  
 ---|---  
