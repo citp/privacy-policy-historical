@@ -1,41 +1,121 @@
-> *The following text is extracted and transformed from the arzoo.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203044100id_/http%3A//www.arzoo.com/arzoo/com/arzoo/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arzoo.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607170059id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
 
-# Arzoo
+# Yahoo! Privacy
 
-**Personal Information.** "Personal Information" is information that would by itself allow someone to identify or contact you, including, for example, your full name, street address, telephone number, credit card number, Social Security number, or email address. Personal Information does not include information that, by itself, does not permit the identification of individuals.
+| **More about Yahoo! Privacy**  
+---  
+|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
+[Find them here](https://web.archive.org/privacy/us/all.html).   
+**Assistance**  
+· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
+· | [Help](http://help.yahoo.com/help/us/privacy/)  
+· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
+· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
+· | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
+**Special Topics**  
+· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
+· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
+· | [more...](https://web.archive.org/privacy/us/all.html)  
+**Privacy Links**  
+· | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
+· | [Yahoo! Category: Privacy](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
+· | [Yahoo! Search: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
+· | [Yahoo! Category: Security](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
+· | [Federal Trade Commission](http://www.ftc.gov/)  
+  
+* * *  
+  
+  | 
 
-**Consent and Changes to this Policy.** When you visit Arzoo.com or use any of its features (collectively, the "Service") you agree to be bound by the [Terms of Use](https://web.archive.org/web/20001203044100id_/http%3A//www.arzoo.com/arzoo/com/arzoo/about/terms.jsp). This Privacy Policy is incorporated into, and subject to, the Terms of Use. The capitalized terms in this policy have the meaning given them in the Terms of Use. We may amend this Privacy Policy at any time by notifying you of the changes via the email address you provide to Arzoo or by posting the amended policy on the Service.
+[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-**Scope.** This Privacy Policy addresses Arzoo's use and disclosure of Personal Information collected through the Service and explains generally how non-personal information may be collected and used. Other entities (including websites we may link to, services we may co-brand, and companies that may serve advertisements on the Service) may collect Personal Information from you and have their own policies and practices regarding the use of such information. We do not control such policies and practices.
+**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
 
-| 
+**What This Privacy Policy Covers**  
 
-  1. **What Personal Information is Collected.**
-    * **Non-Registered Users.** When you visit Arzoo as a non-registered user, our servers automatically collect the following information: (a) the domain name of the Internet service provider you use to access the Internet (for example, aol.com); (b) the date and time you access the Service; (c) the pages you visit on the Service; (d) the domain name of the website from which you linked directly to Arzoo; (e) the domain name of any websites to which you link directly from Arzoo; (f) your IP address; and (g) other information regarding your activity on the Service. None of this information is Personal Information because it does not, by itself, enable Arzoo to personally identify you. 
-    * **Registered Users.** If you become an registered user by registering with the Service, we may collect Personal Information when you: (a) register to use the Service; (b) submit or make changes to your Public Profile or Private Account; (c) submit Content to Arzoo, including questions and answers; (d) fill out Arzoo on-line forms requiring Personal Information; (e) seek payment from Arzoo for Content you have submitted; (f) send email messages to us; and (g) visit various places throughout the Service where we may request that you provide, at your option, your name, address, email address, telephone number, credit card number, social security number, or other Personal Information.
 
-We may collect information about your activities while using the Service, including the same information collected from Non-Registered Users (see Section 1.1 above) automatically through our servers or through a feature on your browser known as a "cookie." Cookies are small pieces of information stored on your hard drive. Cookies may make your Internet experience quicker and more convenient. For example, cookies may allow your password to be stored on your computer without having to re-enter it each time you visit a website where you are already a registered user. In addition, cookies may allow us to better understand how you use our site, which in turn helps us tailor the Service in ways that reflect your preferences. This practice is common among websites. For more information about cookies, please visit [www.cookiecentral.com](http://www.cookiecentral.com/).
+  * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. 
 
-We may also use cookies or similar technologies, or our third party contractors may do so, to collect information used to tailor the advertising delivered to you. This practice is common in Internet advertising. The information collected in this manner may contain Personal Information. If our third party contractors (such as companies that serve ads on the Service) collect this information, then such information is subject to that company's privacy policy and is not addressed or controlled by this policy. Most browsers allow you to configure your preferences to notify you when cookies are being placed on your hard drive and to reject all cookies if you choose to do so. 
+**Information Collection and Use**
 
-Finally, if we receive a complaint or other communication from a third party about you, it may contain Personal Information about you that we may collect in a file for appropriate handling.
+      **General**  
 
-  2. **Who is Collecting Personal Information?** Arzoo, Inc., which owns and operates the Service, collects Personal Information on the Service. Our mailing address is 41688 Christy Street, Fremont, California 94538, and our customer service email address is [service@Arzoo.com](mailto:service@Arzoo.com). In addition, any company that serves ads that appear on the Service may collect Personal Information (as noted above) when Members view banner ads or click through such ads on the Service. The use and disclosure of such information is not within the scope of this privacy policy.
-  3. **How We Use Personal Information and Disclose it to Third Parties.**
-    * **Our Use of your Personal Information.** We use Personal Information about you to improve our marketing and promotional efforts, to analyze site usage, to improve our content and service offerings and to customize our site's content, layout, and services. We believe these uses allow us to enhance our site and better tailor it to meet our users' needs. For example, we may use your Personal Information: (a) to contact you; (b) to make payments to you and otherwise administer your Arzoo account; (c) to personalize the site in accordance with your requests, your interests; (d) to determine what advertisements and/or promotions are displayed on the pages of the Service you view; and (e) to display to users of the Service information you provide to Arzoo as part of your Public Profile.
 
-When you request payment from Arzoo, you will have to provide us with your Social Security number or taxpayer identification number and other Personal Information so we can properly report the payment to the U.S. Internal Revenue Service. We will use and disclose your Social Security number or taxpayer identification number to the relevant government entity only to comply with applicable tax laws. 
+  * Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](https://web.archive.org/privacy/us/promo/details.html). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
+  * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
+  * Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
+  * Yahoo! automatically receives and records information on our server logs from your browser, including your [ IP address](https://web.archive.org/privacy/us/ip/details.html), Yahoo! [ cookie](https://web.archive.org/privacy/us/cookies/details.html) information, and the page you request. 
+  * Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
-    * **Disclosure of your Personal Information.** You should note that Personal Information that you voluntarily disclose to Arzoo for use in your Public Profile, during question-and-answer sessions with other Users, or as part of any Content you submit to public areas of the Service will be displayed publicly on the Service. You should be careful about the information you choose to disclose in these instances given that this information is available to anyone who is using the Service.
+      **Children**  
 
-As noted earlier, third party ad-serving companies may place cookies on your computer in the process of serving ads to you, and they may monitor such cookies. Any information collected through such cookies is subject to the disclosure policies and practices of the ad-serving companies. We may also use third parties to host and store data on non-Arzoo servers. If such data contains Personal Information, such third parties will be under an obligation to keep such Personal Information confidential and not disclose it to any third parties in violation of Arzoo's privacy policy. 
 
-We may use your Personal Information and any other information we obtain from your current and past activities on the Service to resolve disputes, troubleshoot problems, prevent fraud and enforce our Terms of Use.
+  * When a child under age 13 attempts to register with Yahoo!, we ask that he or she have a parent or guardian create a [ Yahoo! Family Account](https://web.archive.org/privacy/us/family/details.html) to obtain parental permission. 
+  * Yahoo! will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
+  * Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
 
-Arzoo may share non-personal aggregate or summary information regarding its users with partners or other third parties. In addition, due to circumstances beyond our control we cannot absolutely guarantee that your Personal Information will not be disclosed to any third parties. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Further, in the unlikely event of a governmental investigation, you authorize us to disclose information about you to law enforcement or other government officials as we believe necessary.
+**Information Sharing and Disclosure**  
 
-  4. **Choices you have regarding Arzoo's Collection, Use, and Disclosure of Personal Information.** You can limit the collection and use of different elements of your Personal Information by not participating in those activities in which we collect Personal Information. You may choose to discontinue the collection of your Personal Information by discontinuing your use of the Service. Please note that if you provide any information to parties other than Arzoo (including without limitation other Users), this privacy policy will not apply to such parties' use or disclosure of the Personal Information you disclose to them. We encourage you to investigate and ask questions before disclosing information to third parties. 
-  5. **How to Correct, Update and Delete Personal Information Collected by Arzoo.** You can access and update your Public Profile and Private Account information by going to the Edit My Public Profile or Update My Private Account Page on [arzoo](http://www.arzoo.com/) and following the instructions on those pages. If you wish to delete your Personal Information, you may do so by requesting that we terminate your membership by writing us at [service@arzoo.com](mailto:service@arzoo.com). Upon such a request, Arzoo will terminate your membership and delete your registration and profile information. However, even if Arzoo deletes your registration information from its current database, your Personal Information may still be stored on other databases (including those kept for archival purposes and those of third parties to whom we disclosed information pursuant to this policy). In addition, your Personal Information that is publicly available on the Service may remain publicly available on the Service after we delete your registration and profile information. 
-  6. **Our Security Procedures.** We use industry-standard efforts such as commercial encryption programs to protect communications of certain sensitive information you submit to Arzoo (such as your credit card number or social security number, if you submit this information) and we use firewalls to safeguard the confidentiality of your Personal Information that resides on our servers; however, please be aware that perfect security does not exist on the Internet.
+
+  * Yahoo! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
+    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes; 
+    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
+    * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
+    * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+    * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+
+**Cookies**  
+
+
+  * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
+  * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
+  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/pixels/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
+
+**Your Ability to Edit and Delete Your Account Information and Preferences**
+
+      **General**  
+
+
+  * You can edit your [ Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.intl=us&.done=privacy.yahoo.com/privacy/us), including your [ marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
+  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt-out of receiving them. 
+  * You can delete your Yahoo! account by visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
+
+      **Children**  
+
+
+  * Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
+  * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
+
+**Confidentiality and Security**  
+
+
+  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+  * Your Yahoo! Account Information is password-protected. 
+  * In certain areas Yahoo! uses industry-standard SSL-encryption to protect data transmissions. 
+
+**Changes to this Privacy Policy**  
+
+
+  * Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
+
+**Questions and Suggestions**  
+
+
+  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/users_watchdog.html), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
+  * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
+
+Yahoo! Inc.  
+Customer Care - Privacy Policy Issues  
+701 First Avenue  
+Sunnyvale, CA 94089  
+(408) 349-5070  
+
+
 
 
