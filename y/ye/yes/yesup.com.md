@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesup.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218225824id_/http%3A//www.yesup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesup.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601191629id_/http%3A//yesup.com/privacy.php) for the most accurate reproduction.*
 
 # YesUp.com Music Search
 
