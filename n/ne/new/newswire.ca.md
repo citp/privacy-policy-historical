@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newswire.ca privacy policy that was archived on 2000-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001026075434id_/http%3A//www.newswire.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswire.ca privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608051208id_/http%3A//www.newswire.ca/privacy.html) for the most accurate reproduction.*
 
 # CNW Resource Center
 
@@ -12,7 +12,7 @@ news events
 Free annual  
 report service
 
-[](https://web.archive.org/services/mindfuleye)
+[](https://web.archive.org/services/mindfuleye/)
 
 New!  
 Real-time  
@@ -31,7 +31,7 @@ online
 Electronic photo  
 archive
 
-[](https://web.archive.org/earnings/)  
+[](https://web.archive.org/earnings/index.html)  
 Daily listing  
 of Canadian  
 earnings
