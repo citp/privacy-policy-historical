@@ -1,6 +1,28 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013092912id_/http%3A//www.cdrinfo.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626171627id_/http%3A//cdrinfo.com/Sections/Privacy/Home.asp) for the most accurate reproduction.*
 
 # CDR-Info, The Recording Authority
+
+**[Old News](https://web.archive.org/Sections/News/OlderNews.asp)  
+[Burner's Corner](https://web.archive.org/Sections/BurnersCorner/Home.asp)  
+[CD Copy ](https://web.archive.org/Sections/CdCopy/Home.asp)  
+[CD Covers](https://web.archive.org/Sections/CdCovers/Home.asp)  
+[Links](https://web.archive.org/Sections/Links/Home.asp)  
+[Jobs](https://web.archive.org/Sections/Jobs/Home.asp)   
+[About](https://web.archive.org/Sections/About/Home.asp) **   
+
+
+* * *
+
+* * *
+
+**[Web4Friends](http://www.web4friends.com/)[  
+CD Covers](http://www.cdcovers.cc/)[  
+Covers Archive](http://www.coversarchive.com/)  
+[Music Remedy](http://www.musicremedy.com/)  
+[Clone.CD](http://clone.cd/phpBB/)   
+[ ](http://www.afterdawn.com/ "AfterDawn.com - DVD rippers, MP3 news, DivX codecs, software download and more") [ ](http://www.cd-rw.org/ "cd-rw.org - The CD-R and MP3 knowledge base")   
+[ ](http://www.cdr-zone.com/ "CDR-Zone.COM")   
+** | 
 
 **Privacy Statement for CDRInfo.COM **
 
@@ -28,3 +50,13 @@ To find out more about how [AdTegrity](http://www.adtegrity.com/) manages the pr
 _John Makos  
 CDR Info.COM  
 [johnm@cdrinfo.com](mailto:johnm@cdrinfo.com)_
+
+[](mailto:marketing@cdrinfo.com?Subject=Advertise)
+
+|  _**  
+**_  
+None available  
+  
+[ ](https://web.archive.org/hardware/)  
+  
+
