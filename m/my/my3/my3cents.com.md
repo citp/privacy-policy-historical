@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204023001id_/http%3A//my3cents.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305045747id_/http%3A//www.my3cents.com/privacy.cgi) for the most accurate reproduction.*
 
 # My3cents.com - Let your voice be heard! Consumer Reviews, Complaints and more...
 
