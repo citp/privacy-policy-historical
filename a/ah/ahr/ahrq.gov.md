@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152333id_/http%3A//ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206034100id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
 
 # AHRQ Privacy Policy Notice
 
 * * *
 
-_**Thank you for visiting the Agency for Healthcare Research and Quality (AHRQ) Web site and for reviewing our Privacy Policy.**_
+**Thank you for visiting the Agency for Healthcare Research and Quality (AHRQ) Web site and for reviewing our Privacy Policy.**
 
 This Web site is maintained as a public service to provide information on healthcare research and quality from our Agency, a component of the U.S. Department of Health and Human Services. 
 
