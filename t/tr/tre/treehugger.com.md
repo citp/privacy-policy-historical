@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the treehugger.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213035520id_/http%3A//www.treehugger.com/files/2004/07/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treehugger.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405183513id_/http%3A//www.treehugger.com/files/2004/07/privacy_policy.php) for the most accurate reproduction.*
 
 # Treehugger: Privacy Policy
 
 ### Privacy Policy
 
-## July 30, 2004
+## July 30, 2004 12:55 PM - 
 
 **TreeHugger.com Privacy Statement**
 
