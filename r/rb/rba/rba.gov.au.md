@@ -1,17 +1,32 @@
-> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816032215id_/http%3A//www.rba.gov.au/disclaimer.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605233257id_/http%3A//www.rba.gov.au/PrivacyStatement) for the most accurate reproduction.*
 
-# RBA Disclaimer and Privacy Statement
+# RBA: Privacy Statement
 
-## DISCLAIMER
+The Reserve Bank of Australia (RBA) is committed to respecting the privacy of visitors to its website. This statement sets out the Bank's current practices concerning information collection and dissemination through this website.
 
-By accessing the information presented in this medium, each user releases the Reserve Bank of Australia to the full extent permitted by law from any and all claims relating to the usage of material or information made available through the system. In no event shall the Reserve Bank of Australia be liable for any incidental or consequential damages resulting from the use of the material. In particular and without limit to the generality of the above, information provided in the publications of the Reserve Bank of Australia is considered to be true and correct at the time of publication. Changes in circumstances after time of publication may affect the accuracy of this information and the Reserve Bank of Australia gives no assurance as to the accuracy of any information or advice contained therein.
+### What information do we collect when you visit our site?
 
-In addition to information provided by the Reserve Bank of Australia, links are provided to external Internet sites. These external information sites are outside the control of the Reserve Bank of Australia and it is the responsibility of Internet users to make their own decisions about the accuracy, currency, reliability and correctness of the information contained therein.
+When you connect to our website, our service provider (ISP) makes a record of your connection but we do not collect any information that identifies you personally or gives details on your use of the site. In particular, the RBA does not use "cookies" to get information on you or your use of our site. (A "cookie" is a file that could be placed on your hard drive by a website without your knowledge to allow it to monitor how the site is used). We would inform you before any "cookies" were used by posting any changes to this policy on this page.
 
-## PRIVACY STATEMENT
+Information from ISP logs will only be disclosed if the RBA is required by law to do so.
 
-This is a "cookie"-free site. Our service provider (ISP) makes a record of your visit and logs the following information for statistical purposes - the user's network address, the user's top level domain name (eg .com, .gov, .au, .uk, etc), the date and time of the visit to the site, the pages accessed and documents downloaded, the previous site visited and the type of browser used. No attempt will be made to identify users or their browser activities outside our site except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the ISP's logs.
+### What happens if you send us an e-mail?
 
-We will record your e-mail address only if you send us a message. It will be used only for the purpose for which you have provided it and will not be added to a mailing list unless you tell us to do so. We will not use your e-mail address for any other purpose and will not disclose it, without your consent.
+We will record your e-mail address or other personal details only if you send us a message, purchase a publication or subscription, or apply for registration as a public user of the Bank's archives. Please note that any mail - electronic or paper - might become part of the records of the RBA.
 
-#### Read our Disclaimer
+If you are submitting personal or other information over the internet please note that, while all attempts are made to ensure security of information transmitted to this site, there is a possibility that information you send could be seen by a third party while it is in transit.
+
+Your personal details will be used only for the purpose for which you have provided them. They will not be added to a mailing list unless you authorise us to do so and we will not disclose them without your consent. Information that you may provide is used by the RBA to respond to your needs and enquiries and to help us improve the website.
+
+### What about links to other sites?
+
+This website contains many links to other sites as an additional tool to help us meet your needs. The RBA, however, is not responsible for the privacy policies or the content of these sites. Our [Disclaimer](https://web.archive.org/Disclaimer/index.html) provides further information.
+
+### How can you contact us about privacy matters or the website generally?
+
+If you have any queries about the RBA's privacy policy and practices or other matters you can contact us on [rbainfo@rba.gov.au](mailto:rbainfo@rba.gov.au) or write to: 
+
+Head of Information Department  
+Reserve Bank of Australia  
+GPO Box 3947  
+Sydney NSW 2001
