@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404122150id_/http%3A//educationcity.com/servlet/dispatch/expertcity/privacy.tmpl%3FSessionInfo%3D0/0/null) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212192127id_/http%3A//www.educationcity.com/servlet/dispatch/expertcity/privacy.tmpl%3FSessionInfo%3D0/0/null) for the most accurate reproduction.*
 
 # Expertcity, Inc.: privacy policy
 
@@ -31,7 +31,7 @@ This privacy statement discloses the privacy practices for Expertcity, a site ho
   
 **4.** | **How does Expertcity protect my information from loss, misuse or alteration?**  
   
-**5.** | **How does Expertcity's privacy policy relate to the GoToMyPC and DesktopStreaming privacy policies?**  
+**5.** | **How does Expertcity's privacy policy relate to the GoToMyPC and GoToAssist privacy policies?**  
   
 **6.** | **Whom can I ask if I have additional questions?**  
   
@@ -66,9 +66,9 @@ Back to top
 Expertcity uses industry standard protocols to safeguard the confidentiality of personally identifiable information, including secure sockets layer (SSL) encryption and firewalls. Nevertheless, we remind you that no security measure is perfect.  
   
 Back to top   
-**5\. How does Expertcity's privacy policy relate to the GoToMyPC and DesktopStreaming privacy policies?**  
+**5\. How does Expertcity's privacy policy relate to the GoToMyPC and GoToAssist privacy policies?**  
   
-Expertcity (www.expertcity.com) provides a link to GoToMyPC (www.gotomypc.com) and to DesktopStreaming (www.desktopstreaming.com). Anytime you click on one of these links and are transported, you should be aware that Expertcity's privacy policy differs from those of GoToMyPC and DesktopStreaming.  
+Expertcity (www.expertcity.com) provides a link to GoToMyPC (www.gotomypc.com) and to GoToAssist (www.GoToAssist.com). Anytime you click on one of these links and are transported, you should be aware that Expertcity's privacy policy differs from those of GoToMyPC and GoToAssist.  
   
 Back to top   
 **6\. Whom can I ask if I have additional questions?**  
