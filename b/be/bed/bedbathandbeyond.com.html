@@ -1,8 +1,54 @@
-<!--The following is the downloaded HTML source of the bedbathandbeyond.com privacy policy that was archived on 2003-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207053730id_/http%3A//www.bedbathandbeyond.com/rdprivPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bedbathandbeyond.com privacy policy that was archived on 2004-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040629083156id_/http%3A//www.bedbathandbeyond.com/rdprivPolicy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="Javascript">
 <!--
+function init()
+{
+	;
+}
+
+function onOpen()
+{
+	if ( window.focus )
+		window.focus();
+}
+
+var windowpic = null;
+var windowpic2 = null;
+
+
+
+function GetCookie( name )
+{
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+
+	while (i < clen)
+	{
+		var j = i + alen;
+		if ( document.cookie.substring( i, j ) == arg )
+			return getCookieVal ( j );
+		i = document.cookie.indexOf(" ", i ) + 1;
+		if ( i == 0 )
+			break;
+	}
+
+	return null;
+}
+
+function getCookieVal( offset )
+{
+	var endstr = document.cookie.indexOf ( ";", offset );
+
+	if ( endstr == -1 )
+		endstr = document.cookie.length;
+
+	return unescape( document.cookie.substring( offset, endstr ) );
+}
+
 function getURLArgs()
 {
 	var url;
@@ -41,238 +87,82 @@ function getURLArgs()
 	}
 	else
 		sArgs = "?order_num=-1&";
-		
+
 	return sArgs;
-}
-
-function getURLRetArgs()
-{
-	var urlParts = new Array();
-	var query = new Array();
-	var param = new Array();
-	var sArgs = "";
-	var i = 0;
-
-	urlParts = document.URL.split( "?" );
-	if ( urlParts.length > 1 && urlParts[1].indexOf('=') > -1 )
-	{
-		query = urlParts[1].split( "&" );
-		while( i < query.length )
-		{
-			param = query[i].split( "=" );
-			if ( ( "RN:SKU:KSKU:VendorId:SGFN:SECTIONID:thePage:DEPT:LIMIT:SSTR:COLOR".indexOf(param[0]) > -1 ) && param[1] )
-			{
-				if ( sArgs != "" )
-					sArgs += "&";
-				sArgs += query[i];
-			}
-			i++;
-		}
-	}
-	return sArgs;
-}
-
-function getPageName()
-{
-	var sUrlParts = new Array();
-	var sPageName = "";
-
-	sUrlParts = document.URL.split( "?" );
-	sPageName = sUrlParts[0].split( "/" );
-	sPageName = sPageName[ sPageName.length - 1 ];
-	if ( sPageName.length == 0 )
-		sPageName = "default.asp";
-	return sPageName;
 }
 
 function go()
 {
-	var	sstr = "";
-	sstr = document.searchit.SSTR.value;
+	var sSearchText = document.search_prod.search.value;
 
-//################### ENABLE BTS PRODUCT SEARCH - START
 	var BTSmodeArgs = "";
-	if ( document.searchit.section.value == '4' )
-	{
-		
-			BTSmodeArgs = "BTSmode=true";
-		
-	}
-//################### ENABLE BTS PRODUCT SEARCH - END
-	while (sstr.substring(0,1) == ' ')
-		sstr = sstr.substring(1);
-	while (sstr.substring(sstr.length-1,sstr.length) == ' ')
-		sstr = sstr.substring(0,sstr.length-1);
-	document.searchit.SSTR.value = sstr
-	var	len = sstr.length;
-	var	strOut = "";
-	var	i = 0;
-	var	j = 0;
+	if ( document.search_prod.section.value == '3' )
+		BTSmodeArgs = "BTSmode=true&";
+
+	while ( sSearchText.substring( 0, 1 ) == ' ')
+		sSearchText = sSearchText.substring( 1 );
+
+	while ( sSearchText.substring( sSearchText.length-1, sSearchText.length ) == ' ' )
+		sSearchText = sSearchText.substring( 0, sSearchText.length-1 );
+
+	document.search_prod.search.value = sSearchText
+	var len = sSearchText.length;
+	var strOut = "";
+	var i = 0;
+	var j = 0;
 	while (i < len)
 	{
-		j = sstr.indexOf(" ",i);
+		j = sSearchText.indexOf( " ",i );
 		if (j > i)
 		{
-			strOut += sstr.substring(i,j)+"+";
-			i = j+1;
+			strOut += sSearchText.substring( i, j ) + "+";
+			i = j + 1;
 		}
 		else
 		{
-			strOut += sstr.substring(i,len);
+			strOut += sSearchText.substring( i, len );
 			i = len;
 		}
 	}
 		window.location = "searchSKU.asp"+getURLArgs()+"SSTR="+strOut+"&"+BTSmodeArgs;
-	
+
 	return false;
 }
-
-var windowpic = null;
-var windowpic2 = null ;
-
-function GetCookie ( name )
-{
-	var arg = name + "=";
-	var alen = arg.length;
-	var clen = document.cookie.length;
-	var i = 0;
-	
-	while (i < clen)
-	{
-		var j = i + alen;
-		if (document.cookie.substring( i, j ) == arg )
-			return getCookieVal ( j );
-		i = document.cookie.indexOf(" ", i ) + 1;
-		if ( i == 0 )
-			break;
-	}
-
-	return null;
-}
-
-function getCookieVal( offset )
-{
-	var endstr = document.cookie.indexOf ( ";", offset );
-	
-	if ( endstr == -1 )
-		endstr = document.cookie.length;
-	
-	return unescape( document.cookie.substring( offset, endstr ) );
-}
-
-var cookieFirstName = null;
-if ( !( cookieFirstName = GetCookie("firstName") ) ) 
-	cookieFirstName = "";
-		
-var cookieStoreNum = null;
-if ( !( cookieStoreNum = GetCookie("store%5Fnumber") ) ) 
-	cookieStoreNum = "";
-
-function init()
-{
-}
-
-function OpenViewWindow( go_there, width, height,scbar,tbar )
-{
-	// mainCleanup();
-	if(isNaN(width)) width=390 ;
-	if(isNaN(height)) height=427 ;
-	if(scbar != "yes") scbar="no" ;
-	if(tbar != "yes") tbar ="no" ;
-
-	var bars = "menubar=no,toolbar=no" ;
-	if( tbar == "yes" ) bars = "menubar=yes,toolbar=yes" ;
-
-	var strwindow = "toolbar=no,width=" + width + ",height=" + height + ",directories=no,status=no,scrollbars="+scbar+"," + bars + ",resizable=yes";
-	if (navigator.appName == "Microsoft Internet Explorer")
-	{
-		strwindow = "toolbar=no,width=" + (width-10) + ",height=" + (height-5) + ",directories=no,status=no,scrollbars="+scbar+"," + bars + ",resizable=yes";
-	} 
-	if (window.screen)
-	{
-		var aw = screen.availWidth - 30;
-		var ah = screen.availHeight - 50;
-		var nwidth = width;
-		var nheight = height;
-		strwindow = "width=" + nwidth + ",height=" +nheight + strwindow;
-		strwindow += ",left=" + ( ( aw - nwidth) / 2);
-		var nTop = (ah - nheight) / 2;
-		if (nTop < 0 )
-			nTop = 0;
-		strwindow += ",top=" + nTop;
-	}
-	windowpic = window.open(go_there, "wwchild", strwindow);
-}
-
-function OpenAboutWindow( go_there, width, height,scbar,tbar )
-{
-	if(isNaN(width)) width=390 ;
-	if(isNaN(height)) height=427 ;
-	if(scbar != "yes") scbar="no" ;
-	if(tbar != "yes") tbar ="no" ;
-
-	var bars = "menubar=no,toolbar=no";
-	if( tbar == "yes" )
-	{
-		bars = "menubar=yes,toolbar=yes";
-	}
-	var strwindow = "toolbar=no,width=" + width + ",height=" + height + ",directories=no,status=no,scrollbars="+scbar+"," + bars + ",resizable=yes";
-	if (navigator.appName == "Microsoft Internet Explorer")
-	{
-		strwindow = "toolbar=no,width=" + (width-10) + ",height=" + (height-5) + ",directories=no,status=no,scrollbars="+scbar+"," + bars + ",resizable=yes";
-	}
-	if (window.screen)
-	{
-		var aw = screen.availWidth - 30;
-		var ah = screen.availHeight - 50;
-		var nwidth = width;
-		var nheight = height;
-		strwindow = "width=" + nwidth + ",height=" +nheight + strwindow;
-		strwindow += ",left=" + ( ( aw - nwidth) / 2);
-		var nTop = (ah - nheight) / 2;
-		if (nTop < 0 )
-			nTop = 0;
-	        strwindow += ",top=" + nTop;
-	}
-	windowpic2 = window.open(go_there, "wwchild", strwindow);
-}
-
-
 //-->
 </script>
 
 
 
-<!-- Copyright © 1999-2000 Bed, Bath and Beyond. All Rights Reserved. -->
 <meta name="description" content="Bed, Bath and Beyond">
-  <meta name="keywords" content="Bed, Bath and Beyond, Housewares, home decor, bedding, kitchen, bath, dining, electrics, storage, cleaning">
+<meta name="keywords" content="Bed, Bath and Beyond, Housewares, home decor, bedding, kitchen, bath, dining, electrics, storage, cleaning">
+<title>Bed Bath &amp; Beyond Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Bed Bath &amp; Beyond Privacy</title>
-<style type="text/css">
-	.menu {COLOR: white; BACKGROUND-COLOR: #000066; width:200px; position: absolute; BORDER-LEFT: white 2px solid; BORDER-TOP: white 2px solid; }
-	.menup {BACKGROUND-COLOR: #999999; HEIGHT: 17px; text-decoration: none; COLOR: white; FONT-FAMILY: arial; position: absolute; FONT-SIZE: 12px; LETTER-SPACING: 1px; PADDING-LEFT: 6px; PADDING-TOP: 0px; WIDTH: 196px; }
-	.menupA {text-indent: 10px; FONT: bold 12px /16px arial; COLOR:white; text-decoration: none;}
-	.menu3 {COLOR: white; BACKGROUND-COLOR: #FF6666; width:200px; position: absolute; BORDER-LEFT: white 2px solid; BORDER-TOP: white 2px solid; }
-	.menu A.{COLOR:white; text-decoration: none; FONT-FAMILY:arial; }
-	.menup3 {BACKGROUND-COLOR: #CC3300; HEIGHT: 18px; text-decoration: none; COLOR: white; FONT-FAMILY: arial; position: absolute; FONT-SIZE: 12px; FONT-WEIGHT: bold; LETTER-SPACING: 1px; PADDING-LEFT: 6px; PADDING-TOP: 1px; WIDTH: 196px; }
-</style>
 
 <script language="Javascript">
 <!--
+// JavaScript Written  at R/GA Interactive 
 
-	var	tNavOn = new Array(10);
-	var	tNavOff = new Array(10);
+// hide dropdowns menu for first and second item on dhtml menu
+var selectArr = new Array(); // stores id numbers of menu items that hide the 2nd select
+var selCount = 0; // counts number of menu items that hide the 2nd select
+
+var nav1 = 10; //Bedding;	 rtmenuIDs[1]=10;	name of 1st nav, 1st select hidden if rolled over
+var nav2 = 1; //Gifts	;rtmenuIDs[0]=1;	 name of 2nd nav, 1st select hidden if rolled over
+//var nav3 = 11; // Solids; smallMenuLine(11,2,2,16,"Solids"); Second level first line, select hidden if rolled over
+
+
 	var	n;
 	var	lit = -1;
 	var	imglit = "";
 	var	allloaded = false;
 	if (document.images) {
-		for (n = 0; n < 10; n++) {
-			tNavOn[n] = new Image();
-			tNavOff[n] = new Image();
-			tNavOn[n].src = ""+"/img/leftTab"+n+"_3_on.gif";
-			tNavOff[n].src = ""+"/img/leftTab"+n+"_3.gif";
-		}
+		//arrow images
+		var theArrow = new Image();
+		var theArrow_on = new Image();
+		
+		theArrow_on.src = "/img/arrow.gif";
+		theArrow.src ="/img/arrow_on.gif";
+		
 		allloaded = true;
 	}
 
@@ -285,19 +175,19 @@ function OpenAboutWindow( go_there, width, height,scbar,tbar )
 		lit = -1;
 	}
 
-	function img_act(imgName,n) {
+
+	function showArrow(arrName,on) {
 		if (allloaded) {
-			if (lit != n) {
-				clearLit(n);
-				document [imgName].src = tNavOn[n].src;
+		//arrow function
+			if (on) {
+				//true- white double arrow image
+				document [arrName].src = theArrow_on.src;
+			
+			} else  {
+				//false - blue double arrow image
+				document [arrName].src = theArrow.src;
+
 			}
-			cancelClearTime();
-			lit = n;
-			imglit = imgName;
-		}
-	}
-	function img_inact(imgName,n) {
-		if (allloaded) {
 		}
 	}
 
@@ -313,219 +203,277 @@ function cancelClearTime() {
 //-->
 </script>
 
+<script language="JavaScript1.2" src="js/leftnav_preload.js;pvd598f40c658b5f29"></script>
+
+<script language="JavaScript1.2" src="js/common.js;pv37ba519c05e9ed55"></script>
+<link rel="stylesheet" href="css/ns4.css;pve3f73abf4d1f3d6a" type="text/css"><style type="text/css">@import url(css/main.css); /*IE and NN6x styles*/</style>
 </head>
-<body bgcolor="#330099" onload="init();fcnf();" link="#CC3300" vlink="#CC3300" alink="#CC3300" topmargin="10" leftmargin="3" marginwidth="3">
+<body onload="init();fcnf();" bgcolor="#ffffff" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+
 <script>
 function handle()
 {
 	return true;
 }
 window.onerror=handle;
-</script><script defer="" src="http://a644.g.akamai.net/f/644/67/3h/hints.netflame.cc/service/script/www.bedbathandbeyond.com"></script>
-<div id="allel">
-<table cellpadding="0" cellspacing="0" border="0">
+</script>
+
+<script defer="" src="http://a644.g.akamai.net/f/644/67/3h/hints.netflame.cc/service/script/www.bedbathandbeyond.com"></script>
+
+<table cellspacing="0" cellpadding="0" border="0" width="779"><form name="search_prod" action="" method="post" onsubmit="return go()"></form>
 	<tbody><tr>
-		<td colspan="2" align="left" valign="middle">
-			<table cellpadding="0" cellspacing="0" border="0">
+		<td width="311" valign="top">
+			<table cellspacing="0" cellpadding="0" border="0">
 				<tbody><tr>
-					<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="35" height="1"></td>
-					<td><a href="default.asp?order_num=-1&amp;"><img src="/img/bbblogo.gif;pv7ba972d6a6f42e69" width="154" height="48" border="0" alt="Bed Bath &amp; Beyond" title="Bed Bath &amp; Beyond"></a></td>
-					<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="10" height="1"></td><td><img src="/img/vBarWhite.gif;pvb2332b3bc8fb4943" width="1" height="48" border="0"></td>
-							<td align="center" width="163" valign="middle">
-								<font size="2" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white">
-<script language="Javascript">
-	if ( cookieFirstName )
-		document.write( 'Welcome&nbsp;' + cookieFirstName + '&nbsp;to bedbathandbeyond.com<div><font size=1 face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white">if you are not&nbsp;' + cookieFirstName + '&nbsp;click&nbsp;<a href=login.asp' + getURLArgs() + 'loginType=quick&ret=' + getPageName() + '&retarg=' + getURLRetArgs().replace(/=/g,"%3D").replace(/&/g,"%26") + '><span style="color: #FFF">here</span></a></font></div>' );
-	else
-		document.write( 'Hi! Welcome to bedbathandbeyond.com' );
-</script>Hi! Welcome to bedbathandbeyond.com
-								</font>
-							</td>
-						<td><img src="/img/vBarWhite.gif;pvb2332b3bc8fb4943" width="1" height="48" border="0"></td>
-						<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="10" height="1"></td>
-						<td align="center" valign="middle">
-							<table cellpadding="0" cellspacing="0" border="0" width="170">
-								<form action="" name="searchit" onsubmit="return go()"></form>
-								
-								<input type="HIDDEN" name="section" value="3">
-								<input type="HIDDEN" name="order_num" value="-1">
-								<input type="HIDDEN" name="WRN" value="-1">
-								<input type="HIDDEN" name="MC" value="-1">
-								<input type="HIDDEN" name="DOIT" value="YES">
+					<td colspan="2"><input type="hidden" name="version" value="Version 2.013"><img src="/img/i.gif;pv616174fc9be30970" width="1" height="30" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="/img/i.gif;pv616174fc9be30970" width="10" height="1" alt="" border="0"></td>
+					<td><a href="default.asp?order_num=-1&amp;"><img src="/img/logo_bbb.gif;pv84670c5531850942" alt="BED BATH &amp; BEYOND" title="BED BATH &amp; BEYOND" width="311" height="22" border="0"></a></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td width="468" valign="top" align="right">
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td>
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td><img src="/img/i.gif;pv616174fc9be30970" width="1" height="1" alt="" border="0"></td>
+								<td bgcolor="#DCD8C0"><img src="/img/i.gif;pv616174fc9be30970" width="134" height="1" alt="" border="0"></td>
+								<td bgcolor="#5782BB"><img src="/img/i.gif;pv616174fc9be30970" width="230" height="1" alt="" border="0"></td>
+							</tr>
+							<tr>
+								<td><img src="/img/i.gif;pv616174fc9be30970" width="1" height="34" alt="" border="0"></td>
+								<td valign="middle" bgcolor="#DCD8C0"><a href="http://www.bedbathandbeyond.com/searchByBrand.asp?order_num=-1&amp;"><img src="/img/i.gif;pv616174fc9be30970" width="11" height="1" alt="" border="0"><img src="/img/btn_browsebybrand.gif;pv4980f8d757aa5180" alt="Browse by Brand" title="Browse by Brand" width="112" height="21" border="0"></a></td>
+								<td valign="middle" bgcolor="#2D76AB">
+									<table cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr>
+											<td><img src="/img/i.gif;pv616174fc9be30970" width="10" height="1" alt="" border="0"></td>
+											<td><input type="text" style="width: 150px" size="10" name="search" value=" your keyword" onfocus="this.select();"></td>
+											<td><img src="/img/i.gif;pv616174fc9be30970" width="7" height="1" alt="" border="0"></td>
+											<td><input type="image" src="/img/btn_search.gif" width="49" height="17" alt="SEARCH" title="SEARCH" border="0" id="SEARCH" name="SEARCH"></td>
+											<input type="hidden" name="section" value="1">
+											<input type="hidden" name="DOIT" value="YES">
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td bgcolor="#DCD8C0" rowspan="3"><img src="/img/i.gif;pv616174fc9be30970" width="2" height="1" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="/img/i.gif;pv616174fc9be30970" width="1" height="10" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td>
+						<table cellspacing="0" cellpadding="0" border="0" width="100%">
+							
 								<tbody><tr>
-									<td><font size="2" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white"><b>PRODUCT FINDER</b></font></td>
+									<td><img src="/img/i.gif;pv616174fc9be30970" width="1" height="21" alt="" border="0"><a href="https://www.bedbathandbeyond.com/trackOrders.asp?order_num=-1&amp;"><img src="/img/globalicon_trackorders.gif;pve3bae1fcbcab138c" width="23" height="21" alt="Track orders" title="Track orders" border="0"></a></td>
+									<td>&nbsp;<a href="https://www.bedbathandbeyond.com/trackOrders.asp?order_num=-1&amp;" class="blue">Track orders</a></td>
+									<td><img src="/img/i.gif;pv616174fc9be30970" width="10" height="21" alt="" border="0"><a href="http://www.bedbathandbeyond.com/showCart.asp?order_num=-1&amp;retloc=PolicyPrivacy%2Easp&amp;retarg=&amp;"><img src="/img/globalicon_cart.gif;pvfbe945eb6694ee1e" width="19" height="21" alt="Cart" title="Cart" border="0"></a></td>
+									<td>&nbsp;<a href="http://www.bedbathandbeyond.com/showCart.asp?order_num=-1&amp;retloc=PolicyPrivacy%2Easp&amp;retarg=&amp;" class="blue">Cart</a></td>
+									<td><img src="/img/i.gif;pv616174fc9be30970" width="10" height="21" alt="" border="0"><a href="store_loc.asp?order_num=-1&amp;"><img src="/img/globalicon_storelocator.gif;pvc5b4e15b387c90cc" width="18" height="21" alt="Store locator" title="Store locator" border="0"></a></td>
+									<td>&nbsp;<a href="store_loc.asp?order_num=-1&amp;" class="blue">Store locator</a></td>
+									<td><img src="/img/i.gif;pv616174fc9be30970" width="10" height="25" alt="" border="0"></td>
+									<td><a href="login.asp?order_num=-1&amp;"><img src="/img/globalicon_myaccount.gif;pvc82f0ebc2d4c9f57" width="11" height="21" alt="My Account" title="My Account" border="0"></a></td>
+									<td>&nbsp;<a href="login.asp?order_num=-1&amp;" class="blue">My account</a></td>
+									<td><img src="/img/i.gif;pv616174fc9be30970" width="5" height="1" alt="" border="0"></td>
 								</tr>
-								<tr>
-									<td><nobr><input type="text" size="15" value="" name="SSTR" style="WIDTH=130px"><img src="/img/i.gif;pvfde3684a1568e8f5" width="8" height="18"><a href="javascript:go()"><img src="/img/Go.gif;pv5dbbec34cd0f11c6" width="35" height="14" border="0" alt="Go" title="Go"></a></nobr></td>
-								</tr>
-								
-							</tbody></table>
-						</td><td><img src="/img/i.gif;pvfde3684a1568e8f5" width="10" height="1"></td>
-						<td><img src="/img/vBarWhite.gif;pvb2332b3bc8fb4943" width="1" height="48" border="0"></td>
-						<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="10" height="1"></td>
-					<td width="36"><a href="shopguide.asp?order_num=-1&amp;retloc=privPolicy%2Easp&amp;args="><img src="/img/prguide_icon.gif;pv85901ab7c1e2062f" width="36" height="48" alt="product guides" title="product guides" border="0"></a></td>
-					<td width="10"><img src="/img/i.gif;pvfde3684a1568e8f5" width="9" height="1"></td>
-					<td width="43"><a href="showCart.asp?order_num=-1&amp;retloc=privPolicy%2Easp&amp;retarg="><img src="/img/iconCart.gif;pv203c1f3982a79bf9" width="43" height="48" alt="shopping cart" title="shopping cart" border="0"></a></td>
-					<td width="10"><img src="/img/i.gif;pvfde3684a1568e8f5" width="9" height="1"></td>
-					<td width="34"><a href="exitWedMode.asp?order_num=-1&amp;DST=store_loc&amp;ret=privPolicy.asp"><img src="/img/iconLocator.gif;pva367dfce8b16a42c" width="34" height="48" alt="store locator" title="store locator" border="0"></a></td>
-					<td width="10"><img src="/img/i.gif;pvfde3684a1568e8f5" width="9" height="1"></td>
-					<td width="39"><a href="exitWedMode.asp?order_num=-1&amp;DST=login&amp;ret=privPolicy%2Easp&amp;args="><img src="/Img/iconAccount.gif;pv67fbe44d44d3a0a6" width="39" height="48" alt="your account" title="your account" border="0"></a></td>
+						</tbody></table>
+					</td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
-	<tr>
-		<td colspan="2"><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="5"></td>
-	</tr><tr>
-			<td width="95"><img src="/img/btn_submenuNone.gif;pv5ee70bb045a273e5" width="95" height="25" border="0">
-			</td><td>
-				<table border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr valign="bottom">
-						<td width="167"><a href="default.asp?order_num=-1&amp;"><img src="/img/topTab0.gif;pv79fe508fa7c2bb4a" width="167" height="25" alt="shop online" title="shop online" border="0"></a></td>
-						<td width="188"><a href="wedd.asp?order_num=-1&amp;"><img src="/img/topTab1.gif;pv3a2fd707ba2f3dbf" width="188" height="25" alt="bridal &amp; gift registry" title="bridal &amp; gift registry" border="0"></a></td>
-						<td width="169"><a href="services.asp?order_num=-1&amp;"><img src="/img/topTab2selected.gif;pv1cbaf3713b628e92" width="169" height="25" alt="service &amp; beyond" title="service &amp; beyond" border="0"></a></td><td width="148"><a href="BTSHome.asp?order_num=-1&amp;"><img src="/img/topTab3.gif;pv3ef935fe1858c792" width="148" height="25" alt="shop for college" title="shop for college" border="0"></a></td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-	
-	<tr>
-<td width="95" valign="top" align="right">
-			<table width="95" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a href="login.asp?order_num=-1&amp;" onmouseover="doIMouseOver(13,0,-1);img_act('n0',0)" onmouseout="img_inact('n0',0); setClearTime()"><img name="n0" src="/img/leftTab0_3.gif;pve68bf01d87b43b8b" width="95" border="0" alt="your account" title="your account"></a></td></tr><tr><td><a href="contact_us.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n1',1)" onmouseout="img_inact('n1',1); setClearTime()"><img name="n1" src="/img/leftTab1_3.gif;pvff4645d6cc367c21" width="95" border="0" alt="contact us" title="contact us"></a></td></tr><tr><td><a href="store_loc.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n2',2)" onmouseout="img_inact('n2',2); setClearTime()"><img name="n2" src="/img/leftTab2_3.gif;pv0ff268da6fe6a947" width="95" border="0" alt="store locator" title="store locator"></a></td></tr><tr><td><a href="corpsales.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n3',3)" onmouseout="img_inact('n3',3); setClearTime()"><img name="n3" src="/img/leftTab3_3.gif;pv599af4f29470d8a6" width="95" border="0" alt="corporate sales" title="corporate sales"></a></td></tr><tr><td><a href="shopguide.asp?order_num=-1&amp;" onmouseover="doIMouseOver(14,0,-1);img_act('n4',4)" onmouseout="img_inact('n4',4); setClearTime()"><img name="n4" src="/img/leftTab4_3.gif;pva4929a4fb089cade" width="95" border="0" alt="shopping guides" title="shopping guides"></a></td></tr><tr><td><a href="privPolicy.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);clearLit(5)" onmouseout="setClearTime()"><img name="n5" src="/img/leftTab5_3_on.gif;pv10a760eb28e63591" width="95" border="0" alt="privacy" title="privacy"></a></td></tr><tr><td><a href="returns.asp?order_num=-1&amp;" onmouseover="doIMouseOver(21,0,-1);img_act('n6',6)" onmouseout="img_inact('n6',6); setClearTime()"><img name="n6" src="/img/leftTab6_3.gif;pv3904e7562e436642" width="95" border="0" alt="shipping &amp; policies" title="shipping &amp; policies"></a></td></tr><tr><td><a href="giftCert.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n7',7)" onmouseout="img_inact('n7',7); setClearTime()"><img name="n7" src="/img/leftTab7_3.gif;pvd45a1c53baf48ebd" width="95" border="0" alt="gift cards" title="gift cards"></a></td></tr><tr><td><a href="javascript:OpenAboutWindow('about_us.asp',498,427,'yes','yes');" onmouseover="doIMouseOver(-1,0,-1);img_act('n8',8)" onmouseout="img_inact('n8',8); setClearTime()"><img name="n8" src="/img/leftTab8_3.gif;pva76648a5519b7a60" width="95" border="0" alt="about us" title="about us"></a></td></tr><tr><td><a href="careers.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n9',9)" onmouseout="img_inact('n9',9); setClearTime()"><img name="n9" src="/img/leftTab9_3.gif;pvf9c8186df251e423" width="95" border="0" alt="careers" title="careers"></a></td></tr>
-			</tbody></table>
-		</td>
-		<td width="672" colspan="4" bgcolor="white" valign="top">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td colspan="2"><img src="/img/i.gif;pvfde3684a1568e8f5" width="38" height="41"></td>
-  </tr>
-  <tr> 
-    <td>&nbsp;</td>
-    <td>
-      <table border="0" cellspacing="0" cellpadding="0">
-         <tbody><tr> 
-           <td width="600"><font size="5" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="#000080"><b>Privacy</b></font></td>
-           <td width="17">&nbsp;</td>
-         </tr>
-		  <tr>
-			<td valign="top"><img src="Img/gray.gif;pv55d04e96bf744c5f" height="1" width="600"></td>
-			<td>&nbsp;</td>
-		  </tr>         
-     </tbody></table>
-    </td>
-   </tr> 
-    <tr><td width="25" valign="top" height="365"><img src="/img/i.gif;pvfde3684a1568e8f5" width="28" height="100"></td>
-    <td width="617" valign="top" height="365"> 
-      <table border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="617"> 
-<font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif">At Bed Bath &amp;	Beyond we are committed	to protecting 
-the privacy of our customers,	which is why we	do not sell, rent, or loan 
-any personal	identifiable information regarding our customers to	any	third
- party.  We hope the policy below will	answer all of your questions regarding 
- how we treat	information	gathered from visitors to bedbathandbeyond.com.	 
- Feel free to e-mail us	at 
- <a href="mailto:customer.service@bedbath.com">customer.service@bedbath.com</a> 
- with any questions you might have.
-<br>
-<font size="3" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="#000080"><br><b>What Information We Collect</b><br><br><font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="black">
-In order to process your order efficiently, we collect the following information: name, 
-billing address, shipping address, e-mail address, phone number, and credit card number 
-("Personal  Information") when you place an order with us.  This information is used solely
-by Bed Bath &amp; Beyond and is stored in a secure environment.  Under certain circumstances
-we do also collect the user's IP address, but only when we suspect that credit card fraud
-may have occurred. We also periodically conduct surveys of visitors to our Web site.  This
-helps us better understand what our customers would like to see from us.  We use this information for 
-internal marketing research purposes.  We may contact a visitor who responded to a survey 
-for more information, but only if that visitor has told us that they don't mind being 
-contacted.
-<br>
-<font size="3" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="#000080"><br><b>Use of Information that You Provide</b><br><br><font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="black">
-At Bed Bath &amp; Beyond we collect Personal Information only for the purposes of 
-fulfilling orders, providing a high level of customer service, gaining knowledge 
-internally regarding what our customers want and mailing circulars and special offers
-from Bed Bath &amp; Beyond.  We do not give or sell Personal Information to any other party, except to those of our employees and agents whom we rely on to handle this 
-information on our behalf in accordance with the above purposes and except to Upromise, a college savings program run by a third party.  You can learn more about Upromise
-by <a href="Upromise.asp?order_num=-1&amp;">clicking here</a>. In connection with our participation in Upromise, we provide Upromise with non-identifiable transaction information, which includes credit card information, but no other Personal Information.  This enables Upromise to provide the benefits of its program to those of our customers who have chosen to participate.<br>
-<br>
-If at any time you do not want to receive offers and/or circulars from us, you can always
-remove yourself from our mailing list by sending an e-mail to <a href="mailto:customer.service@bedbath.com">customer.service@bedbath.com</a>, indicating "NO SNAIL MAIL"
-in the subject line along with your name, address and zip code. 
-<br>
-<font size="3" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="#000080"><br><b>Opt-out E-mail policy</b><br><br><font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="black">
-We ask that you tell us when you do not wish to receive periodic e-mails from us. We will
-only send e-mail for customer service purposes and to those visitors who have indicated 
-that they wish to receive other types of e-mail from us. If at any time you wish to stop 
-receiving e-mail from us at any time, you can always remove your name from our mailing list 
-by sending an e-mail to <a href="mailto:customer.service@bedbath.com">customer.service@bedbath.com</a> stating 
-that you wish to unsubscribe and indicating in the subject line of the e-mail "NO E-MAIL".
-<br>
-<font size="3" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="#000080"><br><b>Security of the Information You Provide</b><br><br><font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="black">
-Among our top priorities is keeping your Personal Information secure.  We use  
-Secure Sockets Layer (SSL) technology, which provides the highest level of security 
-currently available for secure transactions, to encrypt all of your Personal Information 
-before it is transmitted to us.  Encrypted information cannot be read or recorded as it 
-travels over the Internet. You can tell you are sending information securely by the 
-unbroken key icon or closed lock icon that should appear at the bottom of your 
-internet browser's window (depending on what browser you use).  These icons will appear 
-when you are placing an order on our Web site.  In addition, you will see our site 
-address change slightly, from http: to https: indicating a secure server connection is 
-being used.
-<br><br>
-Additionally, access to your Personal Information is provided only to our employees 
-and agents who have a need to know such information for the purpose of fulfilling your 
-order and offering our high level of customer service.  The computers that store your 
-Personal Information are located in a separate facility which employs the latest in 
-firewall and security technology.  
-<br><br>
-If you prefer not to disclose your credit card information online, you can always place 
-your order by calling 1-800-GO&nbsp;BEYOND®&nbsp;(1-800-462-3966) or visiting one of our many stores.  
-Click <a href="store_loc.asp?order_num=-1&amp;">here</a> to locate the store nearest you and to receive 
-driving directions.
-<br>
-<font size="3" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="#000080"><br><b>Use of Cookies</b><br><br><font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="black">
-We use cookies to provide our customers with streamlined ordering
-and other useful features. Cookies are pieces of information that are stored
-by your 	browser on your computer's hard drive. Cookies make Web surfing
-easier for you by saving your customer identification information while you're
-at our site. The use of cookies has become an industry standard used by
-most major Web sites. Most Web browsers automatically accept cookies, but you
-can usually change your browser to prevent that. Please continue to
-review our privacy policy from time to time so that you are aware of our
-current policy with respect to cookies.
-<br>
-<font size="3" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="#000080"><br><b>Bridal Registry Information</b><br><br><font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="black">
-Please be aware that bridal registry information is treated in a slightly
-different manner than as outlined above. The main difference between bridal registry 
-users and other users of our Web site is that in the case of bridal registry users, 
-certain information collected is shared with advertisers, but only on an aggregate
-basis which does not identify any Personal Information which could be linked to you. Additionally, bridal registry users
-may receive additional e-mail communications from us, such as a registry welcome e-mail, 
-optional bi-weekly and fortnightly  e-mails to guests, monthly newsletters to
-registrants, purchase confirmation e-mail when ordering, and follow-up contact
-to registrants, 30 days after the wedding. IP addresses (i.e., the Internet number associated with your specific computer) are 
-used to help diagnose problems with our wedding registry computer, to administer our wedding registry portion of our
-Web site, and to help identify you to your shopping basket. Finally, cookies are used as part of our wedding registry service to
-save your registry number and password on your computer so that you won't have to enter this information every time you return
-to your registry.
+</tbody></table>
 
-<br>
-<font size="3" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="#000080"><br><b>Your Acceptance of these Terms</b><br><br><font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="black">
-By using our Web site, you agree to accept the Bed Bath &amp; Beyond privacy policy.  
-Make sure you read this policy carefully, because if you do choose to use our Web site, 
-you automatically agree to this policy.  If you do not agree to this policy, please do 
-not use our Web site.  We reserve the right, at our discretion, to change, modify, add, 
-or remove portions of this policy at any time.  Please check this page periodically for 
-changes.  Your continued use of our Web site following the posting of changes to these 
-terms will mean you accept those changes.
-<br><br>
-<font size="-2" face="Geneva, Arial, Verdana, Helvetica, sans-serif">© 1999-2003 Bed Bath &amp; Beyond and its subsidiaries. All rights 
-reserved.</font>
-          </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
+<!-- end header -->
+
+<!--tabs on top-->
+<table cellspacing="0" cellpadding="0" border="0" width="779">
+	<tbody><tr>
+		<td colspan="4"><img src="/img/i.gif;pv616174fc9be30970" width="1" height="10" alt="" border="0"></td>
+		<td bgcolor="#DCD8C0" rowspan="2"><img src="/img/i.gif;pv616174fc9be30970" width="2" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		
+			<td><img src="/img/i.gif;pv616174fc9be30970" width="137" height="1" alt="" border="0"></td>
+		
+		<td><a href="default.asp?order_num=-1&amp;"><img src="/img/tab_shop_on.gif;pv2b58844d8f955f60" alt="SHOP" title="SHOP" width="129" height="34" border="0"></a></td>
+		<td><a href="regHome.asp?order_num=-1&amp;"><img src="/img/tab_bridal_off.gif;pv565aafbba0426acb" alt="BRIDAL &amp; GIFT REGISTRY" title="BRIDAL &amp; GIFT REGISTRY" width="252" height="34" border="0"></a></td>
+		<td><a href="btsHome.asp?order_num=-1&amp;"><img src="/img/tab_shopforcollege_off.gif;pvb06d6c51ac6f3a72" alt="SHOP FOR COLLEGE" title="SHOP FOR COLLEGE" width="259" height="34" border="0"></a></td>
+	</tr>
+</tbody></table>
+<!-- end tabs -->
+
+<table cellspacing="0" cellpadding="0" border="0" width="779">
+	<tbody><tr>
+		<td background="/img/lnav_bg.gif;pvc03b82c0e95b74c4" valign="top">
+			<table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr><td><a href="entGiftSearch.asp?order_num=-1&amp;RN=583&amp;" onmouseover="doIMouseOver(1,0,-1);rollOver('gifts');" onmouseout="rollOff('gifts');setClearTime()" gifts')"=""><img name="gifts" src="/img/lnav_1gifts_off.gif;pvac5e679a699efa60" width="137" height="22" border="0" alt="Gifts" title="Gifts"></a></td></tr>
+			<tr><td><a href="nodePage.asp?order_num=-1&amp;RN=14&amp;" onmouseover="doIMouseOver(10,0,-1);rollOver('bedding');" onmouseout="rollOff('bedding');setClearTime()" bedding')"=""><img name="bedding" src="/img/lnav_1bedding_off.gif;pv5d3e2db166641751" width="137" height="22" border="0" alt="Bedding" title="Bedding"></a></td></tr>
+			<tr><td><a href="nodePage.asp?order_num=-1&amp;RN=1&amp;" onmouseover="doIMouseOver(14,0,-1);rollOver('bath');" onmouseout="rollOff('bath');setClearTime()" bath')"=""><img name="bath" src="/img/lnav_1bath_off.gif;pv60718503c1767ca8" width="137" height="22" border="0" alt="Bath" title="Bath"></a></td></tr>
+			<tr><td><a href="nodePage.asp?order_num=-1&amp;RN=102&amp;" onmouseover="doIMouseOver(19,0,-1);rollOver('kitchen');" onmouseout="rollOff('kitchen');setClearTime()" kitchen')"=""><img name="kitchen" src="/img/lnav_1kitchen_off.gif;pv1a5a0004cfff796b" width="137" height="22" border="0" alt="Kitchen" title="Kitchen"></a></td></tr>
+			<tr><td><a href="nodePage.asp?order_num=-1&amp;RN=55&amp;" onmouseover="doIMouseOver(29,0,-1);rollOver('dining');" onmouseout="rollOff('dining');setClearTime()" dining')"=""><img name="dining" src="/img/lnav_1dining_off.gif;pv96595acb1f790591" width="137" height="22" border="0" alt="Dining" title="Dining"></a></td></tr>
+			<tr><td><a href="nodePage.asp?order_num=-1&amp;RN=83&amp;" onmouseover="doIMouseOver(38,0,-1);rollOver('homedecor');" onmouseout="rollOff('homedecor');setClearTime()" homedecor')"=""><img name="homedecor" src="/img/lnav_1homedecor_off.gif;pvb3bc6d4be5431121" width="137" height="22" border="0" alt="Home Decor" title="Home Decor"></a></td></tr>
+			<tr><td><a href="nodePage.asp?order_num=-1&amp;RN=67&amp;" onmouseover="doIMouseOver(42,0,-1);rollOver('electrics');" onmouseout="rollOff('electrics');setClearTime()" electrics')"=""><img name="electrics" src="/img/lnav_1electrics_off.gif;pvbff2ecf17666cc33" width="137" height="22" border="0" alt="Electrics" title="Electrics"></a></td></tr>
+			<tr><td><a href="nodePage.asp?order_num=-1&amp;RN=48&amp;" onmouseover="doIMouseOver(43,0,-1);rollOver('storagecleaning');" onmouseout="rollOff('storagecleaning');setClearTime()" storagecleaning')"=""><img name="storagecleaning" src="/img/lnav_1storagecleaning_off.gif;pv4f927ccca1a40cd4" width="137" height="22" border="0" alt="Storage &amp; Cleaning" title="Storage &amp; Cleaning"></a></td></tr>
+			<tr><td><a href="nodePage.asp?order_num=-1&amp;RN=119&amp;" onmouseover="doIMouseOver(46,0,-1);rollOver('seasonal');" onmouseout="rollOff('seasonal');setClearTime()" seasonal')"=""><img name="seasonal" src="/img/lnav_1seasonal_off.gif;pvf704b774f5e1eeba" width="137" height="22" border="0" alt="Seasonal" title="Seasonal"></a></td></tr>
+			<tr><td><a href="nodePage.asp?order_num=-1&amp;RN=488&amp;" onmouseover="doIMouseOver(52,0,-1);rollOver('specialtyshops');" onmouseout="rollOff('specialtyshops');setClearTime()" specialtyshops')"=""><img name="specialtyshops" src="/img/lnav_1specialtyshops_off.gif;pv50b0aed4d85dfa4f" width="137" height="22" border="0" alt="Specialty Shops" title="Specialty Shops"></a></td></tr>
+			
+				<tr><td bgcolor="#DCD8C0"><img src="/img/i.gif;pv616174fc9be30970" width="1" height="1" alt="" border="0"></td></tr>
+				<tr><td><a href="Redirect_GiftCards.asp?order_num=-1&amp;"><img src="/img/callout_giftcards.gif;pvf0ed7ab78c104ae1" width="137" height="77" alt="GIFTCARDS" title="GIFTCARDS" border="0"></a></td></tr>
+				<tr><td bgcolor="#DCD8C0" background="/img/i.gif;pv616174fc9be30970"><img src="/img/i.gif;pv616174fc9be30970" width="2" height="2" alt="" border="0"></td></tr>
+			</tbody></table>
+		<!-- end left nav -->
+		</td>
+		<td align="left" valign="top">
+
+<center>
+
+<table cellpadding="0" cellspacing="0" border="0">
+  	<tbody><tr>
+		<td bgcolor="#DCD8C0"><img src="img/i.gif;pv616174fc9be30970" width="19" height="2" border="0"></td>
+		<td bgcolor="#DCD8C0"><img src="img/i.gif;pv616174fc9be30970" width="602" height="2" border="0"></td>
+		<td bgcolor="#DCD8C0"><img src="img/i.gif;pv616174fc9be30970" width="19" height="2" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#F0EFE5"><img src="img/i.gif;pv616174fc9be30970" width="19" height="1" border="0"></td>
+		<td bgcolor="#F0EFE5">
+		
+		<img src="/img/hdr_Privacy.gif;pv98716ad99fafc79a" height="50" border="0" alt="Privacy Policy" title="Privacy Policy"></td>
+		<td bgcolor="#F0EFE5"><img src="img/i.gif;pv616174fc9be30970" width="19" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#DCD8C0" colspan="3"><img src="img/i.gif;pv616174fc9be30970" width="1" height="14" border="0"></td>
+	</tr>
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><img src="img/i.gif;pv616174fc9be30970" width="1" height="24"></td>
+	</tr>
+	<tr> 
+		<td width="600"> 
+			<p>At Bed Bath &amp; Beyond we are committed to protecting 
+			the privacy of our customers,	which is why we	do not sell, rent, or loan 
+			any personal	identifiable information regarding our customers to	any	third
+			party.  We hope the policy below will	answer all of your questions regarding 
+			how we treat	information	gathered from visitors to bedbathandbeyond.com.	 
+			Feel free to e-mail us	at 
+			<a href="mailto:customer.service@bedbath.com">customer.service@bedbath.com</a> 
+			with any questions you might have.</p>
+
+			<p><span class="ftheadline"><b>What Information We Collect</b></span></p>
+			<p>In order to process your order efficiently, we collect the following information: name, 
+			billing address, shipping address, e-mail address, phone number, and credit card number 
+			("Personal  Information") when you place an order with us.  This information is used solely
+			by Bed Bath &amp; Beyond and is stored in a secure environment.  Under certain circumstances
+			we do also collect the user's IP address, but only when we suspect that credit card fraud
+			may have occurred. We also periodically conduct surveys of visitors to our Web site.  This
+			helps us better understand what our customers would like to see from us.  We use this information for 
+			internal marketing research purposes.  We may contact a visitor who responded to a survey 
+			for more information, but only if that visitor has told us that they don't mind being 
+			contacted.</p>
+
+			<p><span class="ftheadline"><b>Use of Information that You Provide</b></span></p>
+			<p>At Bed Bath &amp; Beyond we collect Personal Information only for the purposes of 
+			fulfilling orders, providing a high level of customer service, gaining knowledge 
+			internally regarding what our customers want and mailing circulars and special offers 
+			from Bed Bath &amp; Beyond.  We do not give or sell Personal Information to any other 
+			party, except to those of our employees and agents whom we rely on to handle this 
+			information on our behalf in accordance with the above purposes and except to Upromise, a college 
+			savings program run by a third party and ClubMom, a national membership 
+			organization for moms. You can learn more about Upromise by <a href="Upromise.asp?order_num=-1&amp;" class="blue">clicking here</a>.  
+			You can learn more about ClubMom by <a href="ClubMom.asp?order_num=-1&amp;" class="blue">clicking here</a>.  In connection with our 
+			participation in Upromise and ClubMom, we provide Upromise and ClubMom with non-identifiable transaction 
+			information, which includes credit card information, but no other Personal Information. This enables Upromise 
+			and ClubMom to provide the benefits of its program to those of our customers who have chosen to participate.
+			<br><br>
+			If at any time you do not want to receive offers and/or circulars from us, you can always
+			remove yourself from our mailing list by sending an e-mail to <a href="mailto:customer.service@bedbath.com">customer.service@bedbath.com</a>, indicating "NO SNAIL MAIL"
+			in the subject line along with your name, address and zip code. </p>
+
+			<p><span class="ftheadline"><b>Opt-out E-mail policy</b></span></p>
+			<p>We ask that you tell us when you do not wish to receive periodic e-mails from us. We will
+			only send e-mail for customer service purposes and to those visitors who have indicated 
+			that they wish to receive other types of e-mail from us. If at any time you wish to stop 
+			receiving e-mail from us at any time, you can always remove your name from our mailing list 
+			by sending an e-mail to <a href="mailto:customer.service@bedbath.com">customer.service@bedbath.com</a> stating 
+			that you wish to unsubscribe and indicating in the subject line of the e-mail "NO E-MAIL".</p>
+
+			<p><span class="ftheadline"><b>Security of the Information You Provide</b></span></p>			
+			<p>Among our top priorities is keeping your Personal Information secure.  We use  
+			Secure Sockets Layer (SSL) technology, which provides the highest level of security 
+			currently available for secure transactions, to encrypt all of your Personal Information 
+			before it is transmitted to us.  Encrypted information cannot be read or recorded as it 
+			travels over the Internet. You can tell you are sending information securely by the 
+			unbroken key icon or closed lock icon that should appear at the bottom of your 
+			internet browser's window (depending on what browser you use).  These icons will appear 
+			when you are placing an order on our Web site.  In addition, you will see our site 
+			address change slightly, from http: to https: indicating a secure server connection is 
+			being used.
+			<br><br>
+			Additionally, access to your Personal Information is provided only to our employees 
+			and agents who have a need to know such information for the purpose of fulfilling your 
+			order and offering our high level of customer service.  The computers that store your 
+			Personal Information are located in a separate facility which employs the latest in 
+			firewall and security technology.  
+			<br><br>
+			If you prefer not to disclose your credit card information online, you can always place 
+			your order by calling 1-800-GO&nbsp;BEYOND®&nbsp;(1-800-462-3966) or visiting one of our many stores.  
+			Click <a href="store_loc.asp?order_num=-1&amp;" class="blue">here</a> to locate the store nearest you and to receive 
+			driving directions.</p>
+
+			<p><span class="ftheadline"><b>Use of Cookies</b></span></p>			
+			<p>We use cookies to provide our customers with streamlined ordering
+			and other useful features. Cookies are pieces of information that are stored
+			by your 	browser on your computer's hard drive. Cookies make Web surfing
+			easier for you by saving your customer identification information while you're
+			at our site. The use of cookies has become an industry standard used by
+			most major Web sites. Most Web browsers automatically accept cookies, but you
+			can usually change your browser to prevent that. Please continue to
+			review our privacy policy from time to time so that you are aware of our
+			current policy with respect to cookies.</p>
+
+			<p><span class="ftheadline"><b>Bridal Registry Information</b></span></p>						
+			<p>Please be aware that bridal registry information is treated in a slightly
+			different manner than as outlined above. The main difference between bridal registry 
+			users and other users of our Web site is that in the case of bridal registry users, 
+			certain information collected is shared with advertisers, but only on an aggregate
+			basis which does not identify any Personal Information which could be linked to you. Additionally, bridal registry users
+			may receive additional e-mail communications from us, such as a registry welcome e-mail, 
+			optional bi-weekly and fortnightly  e-mails to guests, monthly newsletters to
+			registrants, purchase confirmation e-mail when ordering, and follow-up contact
+			to registrants, 30 days after the wedding. IP addresses (i.e., the Internet number associated with your specific computer) are 
+			used to help diagnose problems with our wedding registry computer, to administer our wedding registry portion of our
+			Web site, and to help identify you to your shopping basket. In addition, cookies are used as part of our wedding registry
+			service to save your registry number and password on your computer so that you won't have to enter this information every
+			time you return to your registry. Finally, by registering with Bed Bath &amp; Beyond and opting to make your registry
+			available online, your registry information, but NOT your Personal Information, will be available to search engines and
+			spiders that are not affiliated with Bed Bath &amp; Beyond.</p>
+
+			<p><span class="ftheadline"><b>Your Acceptance of these Terms</b></span></p>									
+			<p>By using our Web site, you agree to accept the Bed Bath &amp; Beyond privacy policy.  
+			Make sure you read this policy carefully, because if you do choose to use our Web site, 
+			you automatically agree to this policy.  If you do not agree to this policy, please do 
+			not use our Web site.  We reserve the right, at our discretion, to change, modify, add, 
+			or remove portions of this policy at any time.  Please check this page periodically for 
+			changes.  Your continued use of our Web site following the posting of changes to these 
+			terms will mean you accept those changes.
+			<br><br>
+			<b>Policy Effective Date:  This policy became effective in November, 1999 and was most recently changed in April, 2004.</b>
+			
+			<br><br>
+			© 1999-2004 Bed Bath &amp; Beyond and its subsidiaries. All rights reserved.</p>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="img/i.gif;pv616174fc9be30970" width="1" height="20"></td>
+	</tr>
 </tbody></table>
 <script language="JavaScript">
 <!--
@@ -549,49 +497,104 @@ function OpenVisaWindow()
 }
 //-->
 </script>
-</td></tr>
-	<tr>
-		<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
-		<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
+</center></td><td bgcolor="#DCD8C0"><img src="/img/i.gif;pv616174fc9be30970" width="2" height="1" alt="" border="0"></td></tr>
+</tbody></table>
+<table cellspacing="0" cellpadding="0" border="0" width="779">
+	<tbody><tr>
+		<td bgcolor="#DCD8C0" colspan="8"><img src="/img/i.gif;pv616174fc9be30970" width="1" height="2" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
-		<td align="center">
-			<font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white"><a href="rdDefault.asp?order_num=-1&amp;"><span style="color: white">Home</span></a> |
-			<a href="rdLogin.asp?order_num=-1&amp;"><span style="color: white">Your Account</span></a> |
-			<a href="rdAPolicyShipping.asp?order_num=-1&amp;"><span style="color: white">Shipping</span></a> |
-			<a href="rdAPolicyReturns.asp?order_num=-1&amp;"><span style="color: white">Returns</span></a> |
-			<a href="rdShopGuide.asp?order_num=-1&amp;"><span style="color: white">How to Shop</span></a> |
-			<a href="rdGlossary.asp?order_num=-1&amp;"><span style="color: white">Glossary</span></a> |
-			<a href="rdGiftCert.asp?order_num=-1&amp;"><span style="color: white">Gift Cards</span></a></font>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
-		<td align="center">
-			<font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white"><a href="rdContactUs.asp?order_num=-1&amp;"><span style="color: white">Contact us</span></a> |
-			<a href="rdprivPolicy.asp?order_num=-1&amp;"><span style="color: white">Security &amp; Privacy</span></a> |
-			<a href="rdAPolicyLegal.asp?order_num=-1&amp;"><span style="color: white">Legal Notices</span></a> |<a href="javascript:OpenViewWindow('about_us.asp',498,427,'yes','yes');"><span style="color: white">About us</span></a> |<a href="javascript:OpenViewWindow('about_us.asp',498,427,'yes','yes');"><span style="color: white">Investor Relations</span></a> |
-			<a href="rdCareers.asp?order_num=-1&amp;"><span style="color: white">Careers</span></a></font>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2"><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
-		<td align="center">
-			<table cellpadding="0" cellspacing="0" border="0">
+		<td valign="top">
+			<table cellspacing="0" cellpadding="0" border="0">
+			<form name="optIn" action="/policyPrivacy.asp?order_num=-1&amp;" method="post"></form>
 				<tbody><tr>
-					<td><a href="javascript:OpenViewWindow('guarantee.asp',462,440,'yes','no');"><img src="/img/guarIcon.gif;pvd0672a652ea5f1cb" width="85" height="24" alt="Bed Bath and Beyond Guarantee" title="Bed Bath and Beyond Guarantee" border="0"></a>&nbsp;&nbsp;
-					</td>
-					<td valign="top"><font size="-2" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white">©1999-2003 Bed Bath &amp; Beyond Inc. and its subsidiaries. All rights reserved.</font>
+					<td><img src="/img/ftr_getspecialoffers.gif;pv6b74f6b8d8d21900" alt="GET SPECIAL OFFERS BY EMAIL" title="GET SPECIAL OFFERS BY EMAIL" width="240" height="26" border="0"></td>
+				</tr>
+				<tr>
+					<td background="/img/bkg_at.gif;pv7a00ab629d49401a" valign="top" height="74" width="240">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<input type="hidden" name="email_signup" size="10" value="aBcD123">
+								<td valign="top" background="" rowspan="2"><img src="/img/i.gif;pv616174fc9be30970" width="12" height="53" border="0"></td>
+								<td valign="top" background="">
+									<input type="text" style="width: 150px" size="10" name="email_addr" value="your email" onfocus="this.select();"><br>
+									<font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif"></font>
+								</td>
+								<td valign="top" background=""><img src="/img/i.gif;pv616174fc9be30970" width="7" height="1" border="0"></td>
+								<td valign="top" background=""><img src="/img/i.gif;pv616174fc9be30970" width="1" height="2" alt="" border="0"><br><input type="image" name="SUBMIT" src="/img/btn_submit.gif" width="49" height="17" alt="SUBMIT" title="SUBMIT" border="0"></td>
+							</tr>
+							<tr>
+								<td colspan="4" background="" valign="top"><a href="rdPolicyPrivacy.asp?order_num=-1&amp;" class="blue">Privacy policy</a></td>
+							</tr>
+						</tbody></table>
 					</td>
 				</tr>
 			</tbody></table>
 		</td>
+		<td bgcolor="#F4EDE1" valign="top">
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td valign="top" colspan="3"><img src="/img/ftr_shoppinginfo.gif;pve08f12c129908cdf" alt="SHOPPING INFO" title="SHOPPING INFO" width="259" height="19" border="0"></td>
+				</tr>
+				<tr>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif;pv616174fc9be30970" width="8" height="1" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif;pv616174fc9be30970" width="126" height="1" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif;pv616174fc9be30970" width="125" height="1" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td valign="top" background="" bgcolor="#F4EDE1"><img src="/img/i.gif;pv616174fc9be30970" width="6" height="59" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1" valign="top"><a href="rdPolicyReturns.asp?order_num=-1&amp;" class="blue">Easy returns</a><br><a href="rdPolicyShipping.asp?order_num=-1&amp;" class="blue">Shipping &amp; policies</a><br><a href="rdGiftCert.asp?order_num=-1&amp;" class="blue">Gift cards</a><br><a href="rdPolicyLegal.asp?order_num=-1&amp;" class="blue">Legal Notices</a></td>
+					<td bgcolor="#F4EDE1" valign="top"><a href="rdProductGuides.asp?order_num=-1&amp;" class="blue">Product guides</a><br><a href="rdClubMom.asp?order_num=-1&amp;" class="blue">ClubMom</a><br><a href="rdUPromise.asp?order_num=-1&amp;" class="blue">Upromise™<span class="tiny"><br>Save for College</span></a></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td bgcolor="#DCD8C0"><img src="/img/i.gif;pv616174fc9be30970" width="2" height="1" alt="" border="0"></td>
+		<td bgcolor="#F4EDE1" valign="top">
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td valign="top" colspan="2"><img src="/img/ftr_help.gif;pv62e69b22c5e8a64c" alt="HELP" title="HELP" width="130" height="19" border="0"></td>
+				</tr>
+				<tr>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif;pv616174fc9be30970" width="8" height="1" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif;pv616174fc9be30970" width="122" height="1" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td valign="top" background="" bgcolor="#F4EDE1"><img src="/img/i.gif;pv616174fc9be30970" width="8" height="59" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1" valign="top"><a href="rdContactUs.asp?order_num=-1&amp;" class="blue">Contact us</a><br><a href="rdFAQS.asp?order_num=-1&amp;" class="blue">FAQs</a><br><a href="rdGlossary.asp?order_num=-1&amp;" class="blue">Glossary</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td bgcolor="#DCD8C0"><img src="/img/i.gif;pv616174fc9be30970" width="2" height="1" alt="" border="0"></td>
+		<td bgcolor="#F4EDE1" valign="top">
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td valign="top" colspan="2"><img src="/img/ftr_corporate.gif;pvdf5c6f2c1aa40820" alt="CORPORATE" title="CORPORATE" width="130" height="19" border="0"></td>
+				</tr>
+				<tr>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif;pv616174fc9be30970" width="9" height="1" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif;pv616174fc9be30970" width="121" height="1" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td valign="top" background="" bgcolor="#F4EDE1"><img src="/img/i.gif;pv616174fc9be30970" width="9" height="59" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1" valign="top"><a href="rdCorpSales.asp?order_num=-1&amp;" class="blue">Corporate sales</a><br>
+					<a href="javascript:OpenViewWindow('about_us.asp',498,427,'yes','yes');" class="blue">Investor relations</a><br><a href="rdCareers.asp?order_num=-1&amp;" class="blue">Careers</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td bgcolor="#F4EDE1"><img src="/img/i.gif;pv616174fc9be30970" width="14" height="1" alt="" border="0"></td><td bgcolor="#DCD8C0"><img src="/img/i.gif;pv616174fc9be30970" width="2" height="1" alt="" border="0"></td>
 	</tr>
-</tbody></table></div>
+</tbody></table>
+<table cellspacing="0" cellpadding="0" border="0" width="779">
+	<tbody><tr>
+		<td colspan="2" bgcolor="#DCD8C0"><img src="/img/i.gif;pv616174fc9be30970" width="1" height="5" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#DCD8C0" valign="top" align="right">100% Satisfaction Guaranteed. You can <a href="rdPolicyReturns.asp?order_num=-1&amp;" class="blue">return</a> anything bought online either through the mail or at any store.<br>Help is always available at 1-800-GO BEYOND® (1-800-462-3966)<br><br>©1999-2004 Bed Bath &amp; Beyond Inc. and its subsidiaries. All rights reserved.</td>
+		<td bgcolor="#DCD8C0"><img src="/img/i.gif;pv616174fc9be30970" width="14" height="70" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+
+
 
 
 </body></html>
