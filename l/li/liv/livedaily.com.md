@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204232252id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603040215id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
 
 # liveDaily
 
@@ -9,31 +9,31 @@ Search |
 ---  
 On Sale Soon |   
   
-Get a sneak peak at who's going on tour soon.
+Get a sneak peek at who's going on tour soon.
 
 [more>](http://www.livedaily.com/onsalesoon.html)  
 |   
 [](https://web.archive.org/onsalesoon.html) |   
 |   
-| [ Barenaked Ladies](http://www.livedaily.com/onsalesoon.html#BarenakedLadies)  
+| [ Aretha Franklin](http://www.livedaily.com/onsalesoon.html#ArethaFranklin)  
 |   
-| [ Bette Midler](http://www.livedaily.com/onsalesoon.html#BetteMidler)  
+| [ Jack Johnson](http://www.livedaily.com/onsalesoon.html#JackJohnson)  
 |   
-| [ Simple Plan](http://www.livedaily.com/onsalesoon.html#SimplePlan)  
+| [ Diana Krall](http://www.livedaily.com/onsalesoon.html#DianaKrall)  
 |   
-| [ George Strait](http://www.livedaily.com/onsalesoon.html#GeorgeStrait)  
+| [ Harry Connick, Jr.](http://www.livedaily.com/onsalesoon.html#HarryConnick,Jr.)  
 |   
-| [ Hilary Duff](http://www.livedaily.com/onsalesoon.html#HilaryDuff)  
+| [ Boz Scaggs](http://www.livedaily.com/onsalesoon.html#BozScaggs)  
 |   
-| [ Hall and Oates](http://www.livedaily.com/onsalesoon.html#HallandOates)  
+| [ Incubus](http://www.livedaily.com/onsalesoon.html#Incubus)  
 |   
-| [ Amy Grant](http://www.livedaily.com/onsalesoon.html#AmyGrant)  
+| [ Toby Keith](http://www.livedaily.com/onsalesoon.html#TobyKeith)  
 |   
-| [ Willie Nelson](http://www.livedaily.com/onsalesoon.html#WillieNelson)  
+| [ Journey](http://www.livedaily.com/onsalesoon.html#Journey)  
 |   
-| [ Prairie Home Companion](http://www.livedaily.com/onsalesoon.html#PrairieHomeCompanion)  
+| [ Tony Bennett](http://www.livedaily.com/onsalesoon.html#TonyBennett)  
 |   
-| [ Alan Jackson](http://www.livedaily.com/onsalesoon.html#AlanJackson)  
+| [ Martina McBride](http://www.livedaily.com/onsalesoon.html#MartinaMcBride)  
 |   
 | [see more](http://www.livedaily.com/onsalesoon.html)  
 |   
@@ -92,7 +92,7 @@ West Hollywood, CA 90069
   
 |  |   
   
-[FAQ](https://web.archive.org/faq.html) | [ticketAlert](https://web.archive.org/faq.html) | [Contact Us](mailto:feedback@livedaily.com) | [Advertise With Us](mailto:ads@livedaily.com) | [Privacy Policy](https://web.archive.org/privacy.html)  
-[Content Syndication](http://www.livedaily.com/rss/)
+[FAQ](https://web.archive.org/faq.html) | [liveDaily newsletter](http://www.ticketmaster.com/member/?brand=livedaily) | [ticketAlert](https://web.archive.org/faq.html) | [Contact Us](mailto:feedback@livedaily.com) | [Advertise With Us](mailto:ads@livedaily.com)  
+[Privacy Policy](https://web.archive.org/privacy.html) | [Content Syndication](http://www.livedaily.com/rss/)
 
-© 1998 - 2003 Ticketmaster. All rights reserved.
+© 1998 - 2004 Ticketmaster. All rights reserved. 
