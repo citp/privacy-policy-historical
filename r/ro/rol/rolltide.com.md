@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the rolltide.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215170846id_/http%3A//rolltide.com/Home/5253.asp) for the most accurate reproduction.*
+
+# RollTide.com | University of Alabama Official Athletic Site
+
+  
+  
+
+
+The University of Alabama respects your privacy and collects no personally identifiable information about you unless you affirmatively choose to make such information available to us. The University does not actively share personal information about Web site visitors. Personal information provided by visitors, such as e-mail addresses or information submitted via online forms, is used by the University to assist individual visitors as necessary. This assistance may involve redirecting an inquiry or comment to another University individual or unit better suited to provide resolution.
+
+The University analyzes its Web server log files to collect summary information about visitors to its Web site. This information is analyzed to generate summary statistics for purposes such as guiding design considerations, determining successful site segments, and determining problem areas. However, because The University of Alabama is a public institution, some information collected from The University of Alabama’s Web site may be subject to the Alabama Open Records Act, or in some instances the University may be compelled by law to release information gathered from University of Alabama Web servers. Some Web servers at The University of Alabama may adopt different privacy statements as their specific needs require that differ from this statement.
+
+The University of Alabama is a research institution. At anytime there are numerous online surveys being conducted on the University of Alabama Web site. Confidential information gathered in these online surveys is used only for the research purpose indicated in the survey. Unless otherwise noted on the specified survey, your answers are confidential and individual responses will not be shared with other parties unless required by law. Aggregate data from surveys may be shared with external third parties.
+
+The University of Alabama also complies with the Family Educational Rights and Privacy Act ("FERPA"), which prohibits the release of educational records without student permission. For more details on FERPA, currently enrolled students should consult the University of Alabama Student Handbook or the University’s Office of Academic Records and University Registrar.
+
+Please direct any questions about this privacy statement, the practices of any University of Alabama Web site, or your use of this Web site to the Office of Web Communications.
