@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingweb.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405052417id_/http%3A//www.accountingweb.com/help/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingweb.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202032207id_/http%3A//www.accountingweb.com/help/help_privacy.html) for the most accurate reproduction.*
 
 # AccountingWEB Privacy Policy
 
@@ -34,12 +34,10 @@ In order to receive our email alerts, users have to complete a registration form
 Occasionally we request information from users on our order forms. Users have to provide contact information (such as name and delivery address) and financial information (such as credit card number and expiration date). This information is used for billing purposes and to fulfill customer orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
 
 **Cookies**  
-A cookie is a small text file written to a user’s hard drive that contains information about the user. The cookies do not contain any personal information about users. Once the user closes his or her browser, the cookie simply terminates. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalize a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site.
-
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+A cookie is a small text file written to a user’s hard drive that contains the User ID. The cookies do not contain any personal information about users. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site although functionality will be impaired.
 
 **Log Files**  
-We use IP addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.
 
 **Links**  
 This web site contains links to other sites. Please be aware that AccountingWEB is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of these third party sites. This privacy statement applies solely to information collected by this Web site.
