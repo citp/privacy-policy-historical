@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 511.org privacy policy that was archived on 2004-08-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040802224814id_/http%3A//511.org/copyright_items/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 511.org privacy policy that was archived on 2005-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050308025341id_/http%3A//www.511.org/copyright_items/privacy.asp) for the most accurate reproduction.-->
 
 <html><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -33,12 +33,65 @@ function MM_swapImage() { //v3.0
 }
 //-->
 </script>
+<!-- SURVEY BEGIN -->
+<script language="JavaScript"> 
+function SetCookie (name, value) {  
+var argv = SetCookie.arguments;  
+var argc = SetCookie.arguments.length;  
+var expires = (argc > 2) ? argv[2] : null;  
+var path = (argc > 3) ? argv[3] : null;  
+var domain = (argc > 4) ? argv[4] : null;  
+var secure = (argc > 5) ? argv[5] : false;  
+document.cookie = name + "=" + escape (value) + 
+((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
+((path == null) ? "" : ("; path=" + path)) +  
+((domain == null) ? "" : ("; domain=" + domain)) +    
+((secure == true) ? "; secure" : "");
+}
+</script> 
+<script language="JavaScript"> 
+
+function getCookie(name) {
+  var dc = document.cookie;
+  var prefix = name + "=";
+  var begin = dc.indexOf("; " + prefix);
+  if (begin == -1) {
+    begin = dc.indexOf(prefix);
+    if (begin != 0) return null;
+  } else
+    begin += 2;
+  var end = document.cookie.indexOf(";", begin);
+  if (end == -1)
+    end = dc.length;
+  return unescape(dc.substring(begin + prefix.length, end));
+}
+
+</script>
+
+<script language="JAVASCRIPT" type="TEXT/JAVASCRIPT">
+<!--
+
+function popMon(url) {
+
+var survey = getCookie("surveyDone");
+
+if (!survey){
+var invokePopup=true;
+settings="width=50, height=50, top=1500, left=1500, titlebar=yes, menubar=no, toolbar=no, location=no, directories=no, resizable=yes, scrollbars=no, status=no";
+	monwin=window.open(url, 'monwin', settings);
+	self.focus();
+	}
+}
+// -->
+</script>
+
+<!-- SURVEY END -->
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
 <meta name="keywords" content="bay area, transportation, traffic, transit, public transportation, busses, trains, ferries, bicycling, ridematching, ride-matching, carpooling, vanpooling, driving times, carpool lanes, park and ride, transit providers, transit schedules, popular destinations, ridesharing, rideshare">
 <meta name="description" content="Your Bay Area Travel guide: a guide to transportation of all kinds throughout the Bay Area, including traffic, transit, bicycling and ridesharing. Go to 511.org to plan your next trip within the Bay Area.">
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('../images/home_top_transit-over.jpg','../images/home_top_traffic-over.jpg','../images/home_top_rideshare-over.jpg','../images/home_top_bicycling-over.jpg')">
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('../images/home_top_transit-over.jpg','../images/home_top_traffic-over.jpg','../images/home_top_rideshare-over.jpg','../images/home_top_bicycling-over.jpg%27),popMon(%27monitor.html');">
 <table width="760" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td rowspan="3" valign="top" bgcolor="#FFF5CC"><a href="http://www.511.org"><img src="../images/511_home_logo.gif" alt="511 Logo" width="120" height="94" border="0"></a><br>
@@ -66,6 +119,9 @@ function MM_swapImage() { //v3.0
 		   <td bgcolor="#FFDF66" id="globalnav"><a href="http://www.translink.org">TransLink®</a></td>
 				</tr>
 				<tr> 
+		   <td bgcolor="#FFDF66" id="globalnav"><a href="../airports/default.asp">Airports</a></td>
+				</tr>
+				<tr> 
 		   <td bgcolor="#FFDF66" id="globalnav"><a href="http://www.citycarshare.org/">City CarShare</a></td>
 				</tr>
 				<tr> 
@@ -75,7 +131,13 @@ function MM_swapImage() { //v3.0
 					<td bgcolor="#FFDF66" id="globalnav"><a href="../global_items/global_info.asp">About 511</a></td>
 				</tr>
 				<tr>
-					<td bgcolor="#FFDF66" id="globalnav"><a href="../toolbox/default.asp">511 Toolbox</a></td>
+					<td bgcolor="#FFDF66" id="globalnav"><a href="../global_items/faqs.asp">FAQs</a></td>
+				</tr>
+				<tr>
+					<td bgcolor="#FFDF66" id="globalnav"><a href="../global_items/registration.asp">Registration </a></td>
+				</tr>
+				<tr>
+					<td bgcolor="#FFDF66" id="globalnav"><a href="../toolbox/default.asp">511 Brand Toolbox</a></td>
 				</tr>
 				<tr>
 					<td bgcolor="#FFDF66" id="globalnav"><a href="../global_items/global_mtc.asp">About MTC</a></td>
@@ -85,6 +147,9 @@ function MM_swapImage() { //v3.0
 				</tr>
 				<tr>
 					<td bgcolor="#FFDF66" id="globalnav"><a href="../global_items/global_tell.asp">Tell a Friend</a></td>
+				</tr>
+				<tr>
+					<td bgcolor="#FFDF66" id="globalnav"><a href="http://www.sacregion511.org/" target="_blank">Sacramento 511</a></td>
 				</tr>
 				<tr>
 					<td bgcolor="#FFDF66" id="globalnav"><a href="accessibility.asp">Accessibility</a></td>
