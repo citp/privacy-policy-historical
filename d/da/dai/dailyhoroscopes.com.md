@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyhoroscopes.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607041413id_/http%3A//www.dailyhoroscopes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhoroscopes.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605062425id_/http%3A//www.dailyhoroscopes.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement for Daily Horoscopes
 
 **Privacy Statement for  
 C & D Byrd Enterprises, Inc.  
@@ -9,14 +9,14 @@ C & D Byrd Enterprises, Inc.
 Privacy Statement for:
 
 [www.cdbyrd.com](http://www.cdbyrd.com/)  
-[www.dailyhoroscopes.com](http://www.dailyhoroscopes.com/)  
+[www.dailyhoroscopes.com](http://www.dailyhoroscopes.com/)   
 [www.psychicadvice.com](http://www.psychicadvice.com/)  
-[www.dajuana.com](http://www.dajuana.com/)  
+[www.dajuana.com](http://www.dajuana.com/)   
 [www.psychicgames.com](http://www.psychicgames.com/)  
-[www.mystispetforum.com](http://www.mystispetforum.com/)  
+[www.mystispetforum.com](http://www.mystispetforum.com/)   
  
 
-Questions should be sent by email to [privacy](mailto:claude@cdbyrd.net?SUBJECT=CDB%20-%20Privacy) or by postal to:  
+Questions should be sent by email to [privacy](mailto:claude@cdbyrd.net?SUBJECT=CDB%20-%20Privacy) or by postal to:   
 C & D Byrd Enterprises, Inc.  
 P. O. Box 3459  
 Cedar Hill, Texas 75106-3459
@@ -75,10 +75,10 @@ C & D Byrd utilizes the security protocols of UNIX.  This site employs strict s
 
 **Change/Modify**
 
-This site gives users the following options for changing and modifying information previously provided. Please email claude@cdbyrd.net.
+This site gives users the following options for changing and modifying information previously provided. Please email [claude@cdbyrd.net](mailto:claude@cdbyrd.net?SUBJECT=CDB%20-%20Privacy).
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement the practices of this site, or your dealings with this Web site, you can contact:  Claude Byrd at claude@cdbyrd.net. 
+If you have any questions about this privacy statement the practices of this site, or your dealings with this Web site, you can contact:  Claude Byrd at [claude@cdbyrd.net](mailto:claude@cdbyrd.net?SUBJECT=CDB%20-%20Privacy). 
 
-We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm).
+We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site.  These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm).
