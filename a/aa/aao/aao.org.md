@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aao.org privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520090020id_/http%3A//www.aao.org/legal.html%23Privacy%2520Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aao.org privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202124100id_/http%3A//www.eyenet.org/legal.html%23Privacy%2520Statement) for the most accurate reproduction.*
 
 # Copyright and Disclaimer
 
@@ -27,12 +27,12 @@ Other product and company names mentioned here might be the trademarks of their 
 ## Additional Information for _EyeNet Magazine_
 
 **Copyright  
-**©1999, American Academy of Ophthalmology, Inc.Ž All rights reserved. No part of this publication may be reproduced without written permission from the publisher. Letters to the editor and other unsolicited material are assumed intended for publication and are subject to editorial review, acceptance and editing. 
+**©1999, American Academy of Ophthalmology, Inc.® All rights reserved. No part of this publication may be reproduced without written permission from the publisher. Letters to the editor and other unsolicited material are assumed intended for publication and are subject to editorial review, acceptance and editing. 
 
 **Disclaimer**  
 The ideas and opinions expressed in EyeNet are those of the authors, and do not necessarily reflect any position of the editors, the publisher or the American Academy of Ophthalmology. Because this publication provides information on the latest developments in ophthalmology, articles may include information on drug or device applications that are not considered community standard, or that reflect indications not included in approved FDA labeling. Such ideas are provided as information and education only so that practitioners may be aware of alternative methods of the practice of medicine. Information in this publication should not be considered endorsement, promotion or in any other way encouragement for the use of any particular procedure, technique, device or product. EyeNet, its editors, the publisher or the Academy in no event will be liable for any injury and/or damages arising out of any decision made or action taken or not taken in reliance on information contained herein. 
 
-## **Privacy Statement**  
+## **Privacy Statement**   
 
 
   * We only use information collected on EyeNet.org for Academy purposes and do not distribute this information to third parties. 
@@ -57,6 +57,24 @@ Our site incorporates forms for customers to request information, products, and 
 
 EyeNet.org online surveys ask users and members for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. 
 
+## Academy E-mail Privacy Policy
+
+The Academy will protect your e-mail address from inappropriate use.  If the Academy determines the use of your e-mail address is of benefit to its members and/or their patients, the Academy may, with the approval of its Executive Vice President, provide your e-mail address to a third party.
+
+**_Policies Governing the Use of Academy E-mail Addresses_**
+
+The Academy's Executive Vice President may grant permission to use Academy e-mail addresses to organizations, firms or individuals who agree to comply with the following conditions:
+
+  1. The Academy determines if the use of e-mail addresses is of benefit to its members and/or their patients.
+  2. The content of every e-mail correspondence is subject to advance approval by the Academy.  A sample of each intended e-mail correspondence must be reviewed and approved by the Academy.
+  3. Each set of Academy e-mail addresses will be used only once and only for the purpose approved by the Academy.
+  4. An entity other than the Academy cannot use Academy e-mail addresses to create or update its own database.  The e-mail address list is the property of the Academy and may not be duplicated.
+  5. Use of Academy e-mail addresses does not imply Academy endorsement, and no implication of endorsement will be made in any correspondence.
+  6. Academy e-mail addresses will not be made available for any communication on drugs, medical equipment or devices involving the offer of a rebate, discount, or other remuneration, which in the sole discretion of the Academy may be illegal or unethical.
+  7. Academy e-mail addresses will not be made available for any communication that would tend to mislead, misinform, or deceive.
+
+
+
 ## Member Forums
 
 EyeNet.org incorporates a member only forum.  
@@ -70,9 +88,10 @@ This website has security measures in place to protect the loss, misuse and alte
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-David Bolman  
 American Academy of Ophthalmology  
+
+
+Website Services  
 655 Beach Street  
-San Francisco, CA  
-94109  
-[dbolman@aao.org](mailto:dbolman@aao.org)
+San Francisco, CA 94109  
+[webmaster@aao.org](mailto:webmaster@aao.org)
