@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychtests.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615002058id_/http%3A//www.queendom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychtests.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207023100id_/http%3A//www.queendom.com/privacy.html) for the most accurate reproduction.*
 
 # Body-Mind QueenDom: Privacy policy
 
@@ -47,10 +47,11 @@ Enter your e-mail:
 [](http://www.queendom.com/psychometrics/index.html)   
 [Download tests](http://www.queendom.com/testorders/index.html "Download the evaluation copy or order software version of Cyberia's tests.")   
 [Statistical Info](http://www.queendom.com/psychometrics/index.html "Psychometric properties of Cyberia's tests.")   
-[FAQ about tests](http://www.queendom.com/contact.html "Frequently asked questions about Cyberia's tests.")  
+[FAQs about tests](http://www.queendom.com/contact.html#testsquizzes "Frequently asked questions about Cyberia's tests.")  
 [](http://www.queendom.com/about.html)   
-[FAQ](http://www.queendom.com/faq.html "Frequently asked questions about Body-Mind QueenDom and Cyberia's tests")   
-[Contact](http://www.queendom.com/contact.html "Contact information")   
+[FAQs](http://www.queendom.com/contact.html#faqs "Frequently asked questions about Body-Mind QueenDom and Cyberia's tests")   
+[Contact Form](http://www.queendom.com/contact.html#contactform "Contact information")   
+[Corporate Contacts](http://www.queendom.com/about.html "Corporate contact information")   
 [GuestBook](http://www.queendom.com/guestbook.html "QueenDom's GuestBook")   
 [PressRoom](http://www.queendom.com/pressroom/index.html "See Queendom's press releases, background and contact info and learn about services offered to members of the media.")   
 [Advertising](http://www.queendom.com/mediakit/index.html "The MediaKit contains information of interest to advertisers.")  
@@ -93,7 +94,7 @@ QueenDom.com never sends unsolicited e-mail, nor do we send any spam.
 |  **Advertisers and other sites**  
 ---  
   
-QueenDom.Com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>
+QueenDom.Com works with a third party that serves ads to this site. To find out more about how manages the privacy of information in conjunction with serving ads on this site, please go to <http://www..com/about_us/about-privacy.html>
 
 QueenDom.com does not control the cookies that may be assigned by advertisers or networks when you click on a banner. 
 
