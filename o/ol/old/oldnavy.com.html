@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oldnavy.com privacy policy that was archived on 2000-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001025045044id_/http%3A//www.oldnavy.com/html/customercare/cc_privacy.asp%3F%3A%3Dl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oldnavy.com privacy policy that was archived on 2001-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010417024802id_/http%3A//www.oldnavy.com/html/customercare/cc_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Customer Service - Customer Privacy Policy</title>
@@ -28,6 +28,7 @@ if (br == "n3") {
 	Babyon = new Image();
 	Babyon.src = "/assets/common/cmn_hdr_sbnv_baby_on.gif";
 	Gifton = new Image();
+	//Gifton.src = "/assets/common/ongg_gifts_nav_on.gif";
 	Gifton.src = "/assets/common/cmn_hdr_sbnv_gift_on.gif";
 	Mensoff = new Image();
 	Mensoff.src = "/assets/common/cmn_hdr_sbnv_mens_off.gif";
@@ -40,6 +41,7 @@ if (br == "n3") {
 	Babyoff = new Image();
 	Babyoff.src = "/assets/common/cmn_hdr_sbnv_baby_off.gif";
 	Giftoff = new Image();
+	//Giftoff.src = "/assets/common/ongg_gifts_nav_off.gif";
 	Giftoff.src = "/assets/common/cmn_hdr_sbnv_gift_off.gif";
 }
 
@@ -60,21 +62,29 @@ function imgOff(imgName) {
 
 </script><script language="javascript">
 <!--
+ns = (document.layers)? true:false
+ie = (document.all)? true:false
+
 function writestyle(platform) {
-	if (platform == "mac") {
+	if (platform == "macns") {
 		document.write("<link rel='stylesheet' type='text/css' href='/css/on_2.css'>")
+	}
+	else if (platform == "macie") {
+		document.write("<link rel='stylesheet' type='text/css' href='/css/on_3.css'>")
 	}
 	else if (platform == "pc") {
 		document.write("<link rel='stylesheet' type='text/css' href='/css/on_1.css'>")
 	}
 }
 
-if (navigator.appVersion.indexOf("Mac") != -1 ) {
-	writestyle("mac")
-}
-else { 
+if ((navigator.appVersion.indexOf("Mac") != -1) && (ns)) {
+	writestyle("macns")
+} else if ((navigator.appVersion.indexOf("Mac") != -1) && (ie)) {
+	writestyle("macie")
+} else { 
 	writestyle("pc")
 }
+
 //-->
 </script><link rel="stylesheet" type="text/css" href="/css/on_1.css">
 
@@ -142,8 +152,12 @@ alert("error reading javascript")
 <!--- begin topdeptnav --->
 <table border="0" width="600" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="151"><a href="/asp/home.asp?wdid=0"><img src="/assets/common/common_header_subnav_home.gif" width="151" height="70" border="0" alt="Home"></a></td>
-    <td width="449"><a href="/asp/Dept.asp?wdid=100" onmouseover="imgOn('Mens')" onmouseout="imgOff('Mens')"><img border="0" src="/assets/common/cmn_hdr_sbnv_mens_off.gif" alt="Men's" name="Mens" width="59" height="70"></a><a href="/asp/Dept.asp?wdid=200" onmouseover="imgOn('Womens')" onmouseout="imgOff('Womens')"><img border="0" src="/assets/common/cmn_hdr_sbnv_womens_off.gif" alt="Women's" name="Womens" width="81" height="70"></a><a href="/asp/Dept.asp?wdid=400" onmouseover="imgOn('Boys')" onmouseout="imgOff('Boys')"><img border="0" src="/assets/common/cmn_hdr_sbnv_boys_off.gif" alt="boys" name="Boys" width="70" height="70"></a><a href="/asp/Dept.asp?wdid=300" onmouseover="imgOn('Girls')" onmouseout="imgOff('Girls')"><img border="0" src="/assets/common/cmn_hdr_sbnv_girls_off.gif" alt="Girls" name="Girls" width="80" height="70"></a><a href="/asp/Dept.asp?wdid=500" onmouseover="imgOn('Baby')" onmouseout="imgOff('Baby')"><img border="0" src="/assets/common/cmn_hdr_sbnv_baby_off.gif" alt="Baby" name="Baby" width="88" height="70"></a><a href="/asp/product_purchase.asp?wdid=600&amp;wpid=6302" onmouseover="imgOn('Gift')" onmouseout="imgOff('Gift')"><img border="0" src="/assets/common/cmn_hdr_sbnv_gift_off.gif" alt="GiftCard" name="Gift" width="71" height="70"></a></td>
+    <td width="151"><script language="javascript">
+<!--
+document.write("<a href='http://" + window.location.hostname + "/asp/home.html?wdid=0'><img src='/assets/common/common_header_subnav_home.gif' width='151' height='70' border='0' alt='Home'></a>")
+//-->
+</script><a href="http://web.archive.org/asp/home.html?wdid=0"><img src="/assets/common/common_header_subnav_home.gif" width="151" height="70" border="0" alt="Home"></a></td>
+    <td width="449"><a href="/asp/Dept.asp?wdid=100" onmouseover="imgOn('Mens')" onmouseout="imgOff('Mens')"><img border="0" src="/assets/common/cmn_hdr_sbnv_mens_off.gif" alt="Men's" name="Mens" width="59" height="70"></a><a href="/asp/Dept.asp?wdid=200" onmouseover="imgOn('Womens')" onmouseout="imgOff('Womens')"><img border="0" src="/assets/common/cmn_hdr_sbnv_womens_off.gif" alt="Women's" name="Womens" width="81" height="70"></a><a href="/asp/Dept.asp?wdid=400" onmouseover="imgOn('Boys')" onmouseout="imgOff('Boys')"><img border="0" src="/assets/common/cmn_hdr_sbnv_boys_off.gif" alt="boys" name="Boys" width="70" height="70"></a><a href="/asp/Dept.asp?wdid=300" onmouseover="imgOn('Girls')" onmouseout="imgOff('Girls')"><img border="0" src="/assets/common/cmn_hdr_sbnv_girls_off.gif" alt="Girls" name="Girls" width="80" height="70"></a><a href="/asp/Dept.asp?wdid=500" onmouseover="imgOn('Baby')" onmouseout="imgOff('Baby')"><img border="0" src="/assets/common/cmn_hdr_sbnv_baby_off.gif" alt="Baby" name="Baby" width="88" height="70"></a><!--<a href="/asp/shops/shop_default_giftguide.asp" onmouseover="imgOn('Gift')" onmouseout="imgOff('Gift')"><img border="0" src="/assets/common/cmn_hdr_sbnv_gift_off.gif" alt="Gifts" name="Gift"></a>--><a href="/asp/shops/shop_default_giftguide.asp" onmouseover="imgOn('Gift')" onmouseout="imgOff('Gift')"><img border="0" src="/assets/common/cmn_hdr_sbnv_gift_off.gif" alt="Gifts" name="Gift" width="71" height="70"></a></td>
   </tr>
 </tbody></table>
 <!--- end topdeptnav --->
@@ -176,7 +190,7 @@ alert("error reading javascript")
 <td width="584" bgcolor="#ffffff">
 
 <table border="0" width="584" cellpadding="0" cellspacing="0">
-	<tbody><tr><td><img src="/html/customercare/images/service_header.gif" alt="Customer Care" border="0" height="45" width="584"></td></tr>
+	<tbody><tr><td><img src="/assets/customercare/service_header.gif" alt="Customer Care" border="0" height="45" width="584"></td></tr>
 </tbody></table>
 
 <table border="0" width="584" cellpadding="5" cellspacing="0">
@@ -185,9 +199,10 @@ alert("error reading javascript")
 		<td width="154" valign="top" align="left" rowspan="3">
 <a href="/html/customercare/cc_tracking.asp"><span class="small">Tracking Your Order</span></a><br>
 <a href="/html/customercare/cc_payment.asp"><span class="small">Payment Options</span></a><br>
-<a href="/html/customercare/cc_returns.asp"><span class="small">Returns &amp; Exchanges</span></a><br>
+<a href="/html/customercare/cc_returns.asp"><span class="small">Returns, Exchanges &amp; Changes</span></a><br>
 <a class="red">Privacy Policy</a><br>
 <a href="/html/customercare/cc_childrens.asp"><span class="small">Children's Privacy Policy</span></a><br>
+<a href="/html/customercare/cc_myinfo.asp"><span class="small">About My Info</span></a><br>
 <a href="/html/customercare/cc_shipping.asp"><span class="small">Shipping &amp; Handling</span></a><br>
 <a href="/html/customercare/cc_prices.asp"><span class="small">Prices, Limits &amp; Taxes</span></a><br>
 <a href="/html/customercare/cc_screenreader.asp"><span class="small">Using a Screen Reader</span></a><br>
@@ -196,7 +211,7 @@ alert("error reading javascript")
 
 		<td width="400" valign="top">
       <p><a class="header-red">Our Commitment to 
-      Privacy (Effective 4/21/00)</a>
+      Privacy (Revised 3/29/01)</a>
       </p><p>Old Navy values its customers and 
       respects their privacy. We collect customer information in an effort to 
       improve our customers' shopping experience and to communicate with our 
@@ -283,16 +298,24 @@ alert("error reading javascript")
       our stores. We may acquire customer names and mailing addresses for select 
       postal mailings from third parties.<br></p>
       <p align="right"><img alt="arrow" border="0" height="8" src="/assets/common/arr_s_up_w.gif" width="8" valign="bottom">&nbsp;<a href="#top">top of page</a></p>
-      <p><a name="howisitused"></a><a class="red-c">How does Old Navy use my information?</a><br><when you="" make="" a="" purchase="" from="" old="" navy="" online,="" we="" use="" the="" information="" provide="" us="" to="" process="" your="" order.="" will="" also="" send="" email="" messages="" confirming="" that="" order="" has="" been="" received="" and="" let="" know="" when="" it="" shipped.="" additionally,="" may="" need="" contact="" via="" phone,="" postal="" mail,="" or="" if="" have="" other="" questions="" regarding="" online="" over="" notices="" about="" our="" products,="" services,="" contests,="" promotions="" through="" mail.="" <p="">
+      <p><a name="howisitused"></a><a class="red-c">How does Old Navy use my information?</a><br>
+<!-- 	  When you make a purchase from old navy online, we use the information you provide us to 
+      process your order. we will also send you email messages confirming that 
+      your order has been received and to let you know when it has been shipped. 
+      additionally, we may need to contact you via phone, postal mail, or email 
+      if we have other questions regarding your order. if you purchase from us 
+      online or over the phone, we may also send you notices about our products, 
+      services, contests, and promotions through postal mail. <p> -->
+	  
 	  When you register with Old Navy -- online, over the 
-      phone, or at one of our retail stores -- you may choose to receive email 
-      messages from us regarding our products, services, contests, and 
+      phone, or at one of our retail stores -- or participate in a contest, promotion or survey 
+	  you may choose whether or not to receive email messages from us regarding our products, services, contests, and 
       promotions. We will then use the information you give us to communicate 
       with you about our products, services, contests, and promotions. From time 
       to time, we may also send you email messages to help us learn more about 
       your shopping preferences. In addition, we maintain a record of your 
       product interests and purchases to help us improve our site design and 
-      your shopping experience. </when></p>
+      your shopping experience. </p>
 <p>
      To serve you better, we may combine information you give us online and 
       in our stores, as well as information about your product interests and 
@@ -480,10 +503,11 @@ alert("error reading javascript")
 <tr><td colspan="3" height="8"><img height="8" src="/assets/common/tealblue.gif" width="2"></td></tr></tbody></table><!-- end teal table --><table border="0" width="600" cellpadding="3" cellspacing="0">
   <tbody><tr>
     <td align="center" class="white">
-	    <a class="white" href="/asp/home.asp?wdid=0"><span class="white">Home</span></a><span class="white"> | </span>
+	    <a class="white" href="/asp/home.html?wdid=0"><span class="white">Home</span></a><span class="white"> | </span>
 		<a class="white" href="/asp/Profile_Index.asp"><span class="white">My Info</span></a><span class="white"> | </span>
 		<a class="white" href="http://www.vicinity.com/oldnavy/startprx.hm"><span class="white">Store Locator</span></a><span class="white"> | </span>
 		<a class="white" href="/html/customercare/cc_default.asp"><span class="white">Customer Care</span></a><span class="white"> | </span>
+		<a class="white" href="/asp/on_acct_center_main.asp"><span class="white">Old Navy Account Credit Card</span></a><span class="white"> | </span>	
 		<a class="white" href="/asp/Shopping_Bag.asp"><span class="white">Shopping Bag</span></a></td>
   </tr>
   <tr>
@@ -493,17 +517,19 @@ alert("error reading javascript")
 		<a class="white" href="/asp/dept.asp?wdid=400"><span class="white">Boys</span></a><span class="white"> | </span>
 		<a class="white" href="/asp/dept.asp?wdid=300"><span class="white">Girls</span></a><span class="white"> | </span>
 		<a class="white" href="/asp/dept.asp?wdid=500"><span class="white">Baby</span></a><span class="white"> | </span>
-		<a class="white" href="/asp/product_purchase.asp?wdid=600&amp;wpid=6302"><span class="white">GiftCard</span></a></td>
+		<a class="white" href="/asp/shops/shop_default_giftguide.asp"><span class="white">Gifts</span></a>
+		<!--<a class="white" href="/asp/product_purchase.asp?wdid=600&wpid=6302"><span class="white">GiftCard</span></a>--></td>
   </tr>
   <tr>
     <td align="center" class="white">
 	    <a class="white" href="/html/fungames/fungames_default.asp"><span class="white">Fun &amp; Games</span></a><span class="white"> | </span>
 		<a class="white" href="/html/abouton/abouton_default.asp"><span class="white">About Old Navy</span></a><span class="white"> | </span>
+		<a class="white" href="/html/affiliates/invitation.asp"><span class="white">Affiliate Program</span></a><span class="white"> | </span>		
 		<a class="white" href="/html/customercare/sitemap.asp"><span class="white">Site Map</span></a></td>
   </tr>
   <tr>
     <td align="center" class="white">
-	    <a class="white" href="/html/customercare/cc_privacy.asp"><span class="white">Privacy Policy</span></a><span class="white"> | </span>
+	    <a class="white" href="/html/customercare/cc_privacy.asp"><span class="footer-yellow">Privacy Policy</span></a><span class="white"> | </span>
 		<a class="white" href="/html/abouton/termsandconditions.asp"><span class="white">Terms and Conditions</span></a></td>
   </tr>
   </tbody></table>
