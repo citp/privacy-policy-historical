@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603123735id_/http%3A//www.ccavenue.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012091858id_/http%3A//www.ccavenue.com/privacy.jsp) for the most accurate reproduction.*
 
-# CCAvenue :: India Payment Gateway - How it works ?.
+# CCAvenue :: Payment Gateway India - How it works ?.
 
 This Privacy Policy covers CCAvenue.com's treatment of personally identifiable information collected from Sub-Merchants who use the CCAvenue.compayment gateway services, as well as consumer information that we acquire in the course ofour business. This Policy also covers the treatment of personally identifiable information thatCCavenue.com's back end technology providers / partners may share with it.
 
