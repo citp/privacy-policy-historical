@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416003038id_/http%3A//www.birthdaycards.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203214759id_/http%3A//www.birthdaycards.com/privacy.shtml) for the most accurate reproduction.*
 
-# Birthday Cards .com - Birthday cards, and more!
+# <!--TITLE-->
 
   
 
@@ -41,9 +41,16 @@
 > 
 > If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-[Support](http://www.birthdaycards.com/support.shtml) \- [Cards](http://www.birthdaycards.com/cat.mod) \- [About](http://www.birthdaycards.com/about.shtml) \- [Contact](http://www.birthdaycards.com/contact.shtml) \- [Artists](http://www.birthdaycards.com/artists.shtml) \- [Terms of Use](http://www.birthdaycards.com/terms.shtml) \- [Privacy](http://www.birthdaycards.com/privacy.shtml)
+[Support](http://www.birthdaycards.com/support.shtml) \- [Cards](http://www.birthdaycards.com/cat.mod) \- [About](http://www.birthdaycards.com/about.shtml) \- [Contact](http://www.birthdaycards.com/contact.shtml) \- [Artists](http://www.birthdaycards.com/artists.shtml) \- [Terms of Use](http://www.birthdaycards.com/terms.shtml) \- [Privacy](http://www.birthdaycards.com/privacy.shtml) \- [Remove](http://www.birthdaycards.com/remove.mod)
 
-(C) Copyright 2001,2002,2003 Birthday Cards .com, Inc.   
+(C) Copyright 2001,2002,2003 Birthday Cards .com, Inc. 
+
+  
+BC Network:  [Hanukkah .com](http://www.hanukkah.com/?BC) \- [Holiday Greetings .com](http://www.holidaygreetings.com/?BC) \- [Christmas Carol .com](http://www.christmascarol.com/?BC) \- [Stocking Stuffer .com](http://www.stockingstuffer.com/?BC)  
+[Labor Day .com](http://www.laborday.com/?BC) \- [Columbus Day .com](http://www.columbusday.com/?BC) \- [Veterans Day .com](http://www.veteransday.com/?BC) \- [St Valentines Day .com](http://www.stvalentinesday.com/?BC)  
+[goClick .com PPC Search](http://www.goclick.com/?AID=21249) \- [Virtual-Free-Greeting-Card.com](http://www.virtual-free-greeting-card.com/?BC)
+
+  
 100% FREE Birthday Cards, Holiday Cards, Greeting Cards, Virtual Cards, Romantic Cards, Holiday Greetings, Birthday Greetings, Virtual Greetings, eCards, e-cards, e-Greetings, Love Cards, Anniversary Cards at Birthday Cards.com. 
 
 [](http://www.cardmasters-top50.com/topsites/main.cgi?ID=256)   [](http://www.supertop100.com/aff.prg?greeting,193)
