@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thelion.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201174128id_/http%3A//www.thelion.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelion.com privacy policy that was archived on 2003-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030629194925id_/http%3A//thelion.com/home/privacy.html) for the most accurate reproduction.*
 
 # TheLion.com Trader's Network
 
-**To find out more about how oneFN manages the privacy of information in conjunction with serving ads on this site, please go to[http://www.onefn.net/privacy.php](https://web.archive.org/web/20021201174128id_/http%3A//www.thelion.com/home/%3Cfont%20size=%222%22%20face=%22Arial,%20Helvetica,%20sans-serif%22%3E%3Cb%3E%3Cfont%20color=%22#000099%22%3Ehttp://www.onefn.net/privacy.php%3C/font%3E%3C/b%3E%3C/font%3E).**
+**To find out more about how oneFN manages the privacy of information in conjunction with serving ads on this site, please go to[http://www.onefn.net/privacy.php](https://web.archive.org/web/20030629194925id_/http%3A//thelion.com/home/%3Cfont%20size=%222%22%20face=%22Arial,%20Helvetica,%20sans-serif%22%3E%3Cb%3E%3Cfont%20color=%22#000099%22%3Ehttp://www.onefn.net/privacy.php%3C/font%3E%3C/b%3E%3C/font%3E).**
 
 **Protecting Your Personal Privacy**   
 _TheLion.com_ is strongly committed to protecting and respecting the privacy of its users. The purpose of this privacy statement is to assure you that when visiting _TheLion.com_ , we would never sell or compromise your personal information before gaining your permission. Please read the following to fully understand how _TheLion.com_ is committed in making our members feel comfortable with submitting personal information on our website. This statement discloses the privacy practices for the entire website. If you have any questions or concerns regarding this statement, feel free to contact [privacy@thelion-inc.com](mailto:privacy@thelion-inc.com)
