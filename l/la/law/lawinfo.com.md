@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the lawinfo.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603213846id_/http%3A//www.lawinfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawinfo.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211120727id_/http%3A//lawinfo.com/privacy.html) for the most accurate reproduction.*
 
 # Lawyers, Attorneys, Free Legal Forms & Legal Advice
-
-   | 
-
-**LawInfo.com / LawSmart.com Privacy Policy**  
-  
----|---  
-    |     
-  
-
 
 At LawInfo.com and LawSmart.com we respect your privacy. Our policy is to allow users to access the information on our site anonymously. We do not collect, sell or provide any personally identifiable information regarding you or other users, unless you voluntarily provide that information to us for that purpose. We do not place cookies in your browser. 
 
