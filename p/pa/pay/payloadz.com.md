@@ -1,8 +1,33 @@
-> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409043356id_/http%3A//www.payloadz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204020id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
 
-# PayLoadz | Digital Download Delivery
+# PayLoadz - Sell Digital Goods with PayPal
 
   
+| "I am very pleased with PayLoadz service. I wrote my first eBook recently and was trying to find the best way to offer it for sale, I started looking at PayPal and that led me to PayLoadz. I honestly wasn't sure about PayLoadz to start with, but then I watched the video of the Digital Goods Presentation found on your homepage and that convinced me to give it a try. When someone places an order I don't have to do a thing. I get my notice of funds deposited into my PayPal account, an email is sent to my customer with their download link and everything is taken care of automatically. I definitely intend on using PayLoadz for future projects. 
+
+Thank you for providing a much needed service!"  
+  
+---  
+From: [**Robyn Wright**](http://sweepbook.netfirms.com/)  
+  
+  
+
+
+Take a moment to tell us how we can make this service better.
+
+**EMail**  
+  
+**Comments or Suggestions:**  
+  
+
+
+  
+
+
+ Digital Goods Presentation
+
+  |  **Privacy**
+
 This site is owned and operated by Superfreaker Studios, LLC . At Superfreaker Studios, LLC, we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
@@ -54,8 +79,8 @@ OPT-OUT POLICY
 We give users options wherever necessary and practical. Such choices include:  
 · Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
 
-YOUR CONSENT 
-
-  
+YOUR CONSENT   
 By using this site, you consent to the collection and use of this information by Superfreaker Studios, LLC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. **  
 **
+
+|   | 
