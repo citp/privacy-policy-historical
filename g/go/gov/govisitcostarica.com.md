@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204225429id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404053342id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy for Go Visit Costa Rica
 
