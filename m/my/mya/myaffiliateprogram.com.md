@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the myaffiliateprogram.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203170300id_/http%3A//myaffiliateprogram.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myaffiliateprogram.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603123948id_/http%3A//myaffiliateprogram.com/privacy.asp) for the most accurate reproduction.*
 
-# My Affiliate Program Privacy Statement
+# My Affiliate Program Software, Kowabunga Technologies Privacy Statement
 
 **My Affiliate Program™ Privacy Statement**  
 
 
-Read our Confidentiality Statement by [clicking here](https://web.archive.org/confidentiality.asp). (Our Confidentiality Statement outlines our policies when interacting with our Clients' Files)
+Read our Confidentiality Statement by [clicking here](https://web.archive.org/web/20010603123948id_/http%3A//myaffiliateprogram.com/confidentiality.asp). (Our Confidentiality Statement outlines our policies when interacting with our Clients' Files)
 
 **Privacy Statement for KowaBunga! Technologies  
 ** **We respect you and we hold your personal information private.**
