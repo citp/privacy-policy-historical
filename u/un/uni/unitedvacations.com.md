@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedvacations.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602232849id_/http%3A//unitedvacations.com/rese/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedvacations.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207033455id_/http%3A//www.unitedvacations.com/rese/help/privacy.asp) for the most accurate reproduction.*
 
 # United Vacations - Welcome! - Vacation Packages to Europe London Paris Las Vegas California Hawaii Walt Disney World Florida Canada ski vacation package
 
