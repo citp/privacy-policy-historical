@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gourmet.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202070300id_/http%3A//www.epicurious.com/h_help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmet.com privacy policy that was archived on 2001-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010609192824id_/http%3A//www.epicurious.com/h_help/privacy.html) for the most accurate reproduction.*
 
-# EPICURIOUS FOOD: PRIVACY POLICY
+# EPICURIOUS: PRIVACY POLICY
 
-Epicurious Food is produced by CondéNet. This policy covers all sites produced by CondéNet, including Epicurious, Phys.com, Concierge.com, Vogue.com, Mademoiselle.com, Glamour.com, Swoon.com, and all Condé Nast magazine subscription sites. This policy does not cover information collected on sites linked from CondéNet sites.
+Epicurious.com is produced by CondéNet. This policy covers all sites produced by CondéNet, including CondeNet.com, Epicurious.com, Concierge.com, STYLE.com, Mademoiselle.com, Glamour.com, Swoon.com, and all Condé Nast magazine subscription sites. This policy does not cover information collected on sites linked from CondéNet sites.
 
 CondéNet sites are committed to bringing you information that's tailored to your individual needs and, at the same time, to protecting your privacy. The following is a summary of the various ways we treat the information you provide us while using our sites.
 
