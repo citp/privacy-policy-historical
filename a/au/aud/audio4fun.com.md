@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2001-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011207044410id_/http%3A//www.audio4fun.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207123836id_/http%3A//www.audio4fun.com/privacy.htm) for the most accurate reproduction.*
 
 # Avnex Ltd - Privacy Policy
 
