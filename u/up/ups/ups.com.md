@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the ups.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184618id_/http%3A//www.ups.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ups.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214014121id_/http%3A//www.ups.com/about/privacy.html) for the most accurate reproduction.*
 
 # UPS Privacy Policy
 
-|   |   
+| [](https://web.archive.org/about/about.html)  
+---  
+| [UPS Privacy Policy](https://web.archive.org/about/privacy.html)  
+| [UPS Code of Business Conduct](https://web.archive.org/about/code_cond.html)  
+|   
+  |   
 |   |  Protection of Customer Information  
 ---|---  
   |  Shipment Information  
@@ -31,7 +36,7 @@ Top of Page
 
 **SHIPMENT INFORMATION**  
   
-Information, including personal information (name, address and phone number), provided as part of a shipping transaction represents a record of that business transaction and cannot be altered after the transaction is complete except as provided in the UPS Terms and Conditions. The UPS Terms and Conditions are available at [www.ups.com](http://www.ups.com/) in the Service Guide section and at local UPS offices. 
+Information, including personal information (name, address and phone number), provided as part of a shipping transaction represents a record of that business transaction and cannot be altered after the transaction is complete except as provided in the UPS Terms and Conditions. The UPS Terms and Conditions are available at [www.ups.com](http://www.ups.com/index.html) in the Service Guide section and at local UPS offices. 
 
 Although we make reasonable efforts to limit access to our facilities and vehicles to authorized personnel, we are not responsible for maintaining the confidentiality of information that is printed and placed in plain view on a package or letter. 
 
@@ -72,7 +77,7 @@ Users can visit most areas of the UPS Web site without revealing who they are or
 ---|---  
    
   |   | **MY UPS.COM**   
-Visitors to our site can, if they choose, participate in the interactive functions available at MY UPS.COM. Participants are required to complete a registration form. This form includes information such as name, address, phone number and e-mail address. We use the information from the registration form to enhance our services and better meet the needs and preferences of our customers. With approval, we may also send information to registered users about UPS products, services and system changes that we think may be of interest. We allow users to choose to discontinue (opt-out) from receiving information from UPS at any time by editing their Profile at [www.ups.com](http://www.ups.com/). 
+Visitors to our site can, if they choose, participate in the interactive functions available at MY UPS.COM. Participants are required to complete a registration form. This form includes information such as name, address, phone number and e-mail address. We use the information from the registration form to enhance our services and better meet the needs and preferences of our customers. With approval, we may also send information to registered users about UPS products, services and system changes that we think may be of interest. We allow users to choose to discontinue (opt-out) from receiving information from UPS at any time by editing their Profile at [www.ups.com](http://www.ups.com/index.html). 
 
 MY UPS.COM also includes an Address Book that allows users to enter the names and addresses of the people to whom they frequently ship packages or letters. Use of the Address Book is optional. It is provided as a convenience so that users will not have to re-enter frequently used address information. The address information provided is stored in a secure manner on UPS systems. While it is stored in the Address Book, we will carefully protect the confidentiality of this information. It will not be used for any purpose other than the original intent (i.e. speeding up user shipping activities). 
 
