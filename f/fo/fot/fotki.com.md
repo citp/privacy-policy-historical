@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotki.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206093942id_/http%3A//signup.fotki.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotki.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411133232id_/http%3A//signup.fotki.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fotki.com - photo sharing and photo printing service
 
