@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-link.co.uk privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205163351id_/http%3A//www.city-link.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-link.co.uk privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307191141id_/http%3A//www.city-link.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Initial City Link Privacy Policy
 
