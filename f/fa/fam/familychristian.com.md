@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602182252id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206091907id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy & Security - FamilyChristian.com
 
@@ -40,7 +40,7 @@ While we at FamilyChristian.com consider online security a priority, we cannot p
 **Choice/Opt-out**   
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [**info@familychristian.com**](mailto:info@familychristian.com). 
+  1. You can send email to [**info@fcsdirect.familychristian.com**](mailto:info@fcsdirect.familychristian.com). 
   2. You can call the following telephone number: 616-554-8700 
 
 
@@ -48,7 +48,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 **Correct/ Update**   
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Email [**info@familychristian.com**](mailto:info@familychristian.com). 
+  1. Email [**info@fcsdirect.familychristian.com**](mailto:info@fcsdirect.familychristian.com). 
   2. Call the following telephone number: 616-554-8700 
 
 
@@ -59,7 +59,7 @@ If you have any questions about this Privacy and Security Statement, the practic
 > Familychristian.com  
 >  5300 Patterson Ave SE - A3  
 >  Grand Rapids, MI 49530  
->  [**info@familychristian.com**](mailto:info@familychristian.com)
+>  [**info@fcsdirect.familychristian.com**](mailto:info@fcsdirect.familychristian.com)
 
 **Use of Web Site**   
 This website is intended for use only by individuals who are 13 years of age or older. If you are not at least 13 years of age, do not submit any information to this site. 
