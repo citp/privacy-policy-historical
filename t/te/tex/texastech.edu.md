@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the texastech.edu privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607220757id_/http%3A//www.texastech.edu/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texastech.edu privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607182135id_/http%3A//www.texastech.edu/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement-- Texas Tech University System, Lubbock, Texas
-
-texas tech university system privacy policy  
-[  
-](http://www.art.ttu.edu/artdept/lndmrk.html)
-
 
 Texas Tech University System maintains its web sites as an information resource and service for the public, and this privacy policy applies to all pages of this site that are maintained by TEXAS TECH UNIVERSITY or TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER (pages containing www.texastech.edu, www.ttu.edu, or www.ttuhsc.edu).
 
@@ -47,4 +42,8 @@ For site management functions, information is collected for analysis and statist
 
 Questions about this privacy policy may be directed to the respective Webmaster for each site (www.texastech.edu, www.ttu.edu, or www.ttuhsc.edu).
 
-privacy policy
+Copyright 2000 Texas Tech University.  
+All Rights Reserved.  
+Maintained by: Office of News and Publications  
+Contact: [Joey Hernandez](mailto:joey.hernandez@ttu.edu)  
+Updated: June 21, 2001
