@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602171833id_/http%3A//allrecipes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002102440id_/http%3A//www.allrecipes.com/privacy.asp%3Flnkid%3D159) for the most accurate reproduction.*
 
 # All Recipes | Privacy Policy
 
@@ -110,14 +110,6 @@ In the course of serving advertisements to this site, our third-party advertiser
 **IV. Web Beacons**  
 Certain of the pages of our site contain "web beacons" (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and web bugs). These web beacons do not affect the appearance of a page but allow third parties to obtain the following information: the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. Allrecipes does not control or monitor the use of the information collected by third parties through the web beacons placed on the Allrecipes.com Web site. 
 
-**V. DoubleClick**   
-DoubleClick is a third-party advertising company we partner with to display the advertisements on our site. These advertisements also contain "cookies." "Cookies" received with DoubleClick's banner ads are collected by DoubleClick and used to provide broad demographic information for better advertisement targeting. Privacy issues surrounding DoubleClick's use of certain non-personally identifiable user information by its technology are discussed in DoubleClick's privacy policy, and are the sole responsibility of DoubleClick. That policy can be viewed on DoubleClick's [Privacy Policy page](http://www.doubleclick.net:8080/privacy_policy/). 
-
-TOP
-
-**VI. Sonar Network**   
-Sonar, a division of DoubleClick, is another third-party advertising company that we partner with to deliver ads to you. In the course of delivering an ad, Sonar Network collects certain non-personally identifiable information about you. Sonar's collection and use of your information is the responsibility of Sonar. For more information about their information gathering practices and "opt-out" procedure of Sonar Network, please click here: Sonar's [Privacy Policy page](http://www.sonar.com/naiprivacy). 
-
 [TOP](https://web.archive.org/privacy.asp#top)
 
 **VII. Log Files**   
@@ -150,7 +142,7 @@ By using our Websites, you consent to the collection and use of your information
 If you have any questions about this privacy statement, the practices of this site, or your dealings with Allrecipes.com, please contact us at [thestaff@allrecipes.com](mailto:thestaff@allrecipes.com) or use the following address:   
   
 **Allrecipes.com**  
-524 Dexter Avenue North  
+400 Mercer Street, Suite 302  
 Seattle, WA 98109  
 USA
 
