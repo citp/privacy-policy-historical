@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehomeownerquote.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204223751id_/http%3A//freehomeownerquote.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehomeownerquote.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401235758id_/http%3A//www.freehomeownerquote.com/privacy.htm) for the most accurate reproduction.*
 
 # FreeQuoteDomain.com: Privacy Policy
 
@@ -16,4 +16,4 @@ We use Web site browser software tools such as cookies and Web server logs to ga
 
 Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site's visitor capacity. We do not use these technologies to capture your individual e-mail address or any personally identifying information about you. 
 
-Please [contact us](https://web.archive.org/web/20031204223751id_/http%3A//freehomeownerquote.com/contact.htm) if you have any questions about our privacy policy. 
+Please [contact us](https://web.archive.org/web/20040401235758id_/http%3A//www.freehomeownerquote.com/contact.htm) if you have any questions about our privacy policy. 
