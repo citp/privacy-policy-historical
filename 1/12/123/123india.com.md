@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123india.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004163816id_/http%3A//www2.123india.com/p/p/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123india.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630044224id_/http%3A//123india.com/p/p/pp) for the most accurate reproduction.*
 
 # 123India.com Privacy Policy
 
@@ -37,7 +37,7 @@ As part of offering and providing customizable and personalized services, 123Ind
 
 
 
-**Third Party Cookies :** Advertising networks that serve ads onto 123India.com may also use their own cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+**Third Party Cookies :** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
   * **How does 123India.com use my information?**
 
@@ -45,7 +45,9 @@ As part of offering and providing customizable and personalized services, 123Ind
 
 123India.com does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. 123India.com may share this aggregated data with advertisers or business partners. 
 
-**Third Party Advertising** : The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click here - [ http://www.doubleclick.net/us/corporate/privacy.](http://www.doubleclick.net/us/corporate/privacy/)
+**Third Party Advertising** : We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <http://www.maxonline.com/privacy_policy/index.php>
+
+For Privacy Policy on Ads served by the [Adtegirity Network](http://www.adtegrity.com/) please click here <http://www.adtegrity.com/privacy.asp>
 
   * **Who is collecting information?**
 
