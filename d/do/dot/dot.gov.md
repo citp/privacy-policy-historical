@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dot.gov privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207011504id_/http%3A//www.dot.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dot.gov privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325092517id_/http%3A//www.dot.gov/privacy.html) for the most accurate reproduction.*
 
 # U.S. Department of Transportation / Privacy Policy
 
   
- [Home](https://web.archive.org/web/20041207011504id_/http%3A//www.dot.gov/index.cfm) > Privacy Policy  
+ [Home](https://web.archive.org/web/20050325092517id_/http%3A//www.dot.gov/index.cfm) > Privacy Policy  
 
 
 **  
@@ -102,9 +102,9 @@ Each _Privacy Act Notice_ will also notify you of the following:
 
 
 
-Click here to view our [Privacy Act Notices](http://cio.ost.dot.gov/policy/records.html)
+Click here to view our [Privacy Act Notices](http://cio.ost.dot.gov/DOT/OST/Documents/files/records.html)
 
-Click here to view our [Privacy Impact Assessments](https://web.archive.org/web/20041207011504id_/http%3A//www.dot.gov/pia.html)
+Click here to view our [Privacy Impact Assessments](https://web.archive.org/web/20050325092517id_/http%3A//www.dot.gov/pia.html)
 
 **How do you find out more about, or comment on, our privacy practices?**  
 For more information on our privacy practices, or for comments and concerns, please contact our Privacy Officer at: 
