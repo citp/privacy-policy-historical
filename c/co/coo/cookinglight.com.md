@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookinglight.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214164109id_/http%3A//cookinglight.com/customerservice/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookinglight.com privacy policy that was archived on 2002-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020127091237id_/http%3A//www.cookinglight.com/customerservice/privacy_policy.asp) for the most accurate reproduction.*
 
 # Cooking Light - Privacy Policy
 
@@ -61,4 +61,4 @@ The site you are visiting is one of the Time Warner general audience sites. For 
 
 **How to Contact Us**
 
-If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20011214164109id_/http%3A//cookinglight.com/community/contact_cl.asp) . 
+If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20020127091237id_/http%3A//www.cookinglight.com/community/contact_cl.asp) . 
