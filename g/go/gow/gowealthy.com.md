@@ -1,56 +1,12 @@
-> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608201222id_/http%3A//www.gowealthy.com/html/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203094045id_/http%3A//www.gowealthy.com/html/policy.htm) for the most accurate reproduction.*
 
-# W E L C O M E to Gowealthy.com
+# Gowealthy.com - your gateway to the offshore
 
-|   
----  
-| 
+  
+[](https://www.truste.org/validate/13867) | **GOWEALTHY.COM - PRIVACY STATEMENT**  
+---|---  
+**Gowealthy is committed to respecting and protecting your personal privacy. Our Privacy Policy is succinctly explained below. You can get additional details by clicking on the highlighted links. Also, please note that we strictly follow the COPPA guidanceclick to know more**
 
-|   
----  
-|  ****  
----  
-**Company Formation**  
-  
-Set up offshore companies in various offshore centers in Hong Kong, Gibraltar, Belize, Costa Rica, BVI, Delaware, Dominica, Panama, and Isle of Man.  
-  
-**Offshore Bank Account & Credit Card**  
-  
-Open offshore bank accounts in Latvia, Panama, Belize, Dominica etc. and International brands of credit debit card, ATM cash cards, and Virtual cards.  
-  
-**Incorporation of Banks & Gaming/Casino Licenses**  
-  
-Acquire Casino Licenses from Antigua, Anjouan, Dominica, Belize and Gibraltar… and Incorporate Banks and Insurance companies in Dominica, Anjouan Antigua, Cayman Island, Gibraltar, and Nauru.  
-  
-**Second Citizenship & Passport**  
-  
-Acquiring a second citizenship and passports from Panama, St Kitts and Nevis, Dominica, Costa Rica….and more…  
-  
-   
-   
-   
-   
-**Gowealthy Link Directory**  
-[ View Link Directrory ](http://www.gowealthy.com/scripts/linkdirectory.asp)  
-[Add your Links Free!](http://www.gowealthy.com/scripts/linkdirectoryform.asp)  
-   
-  
-|  |    
-| [](https://www.truste.org/validate/13867) | **GOWEALTHY.COM'S PRIVACY STATEMENT** |   
----|---|---  
-**Gowealthy is committed to respecting and protecting your personal privacy. Our Privacy Policy is succinctly explained below. You can get additional details by clicking on the highlighted links. Also, please note that we strictly follow the COPPA guidanceclick to know more**   
-  
-Gowealthy.com, provided by Triumph Assets Holding Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [www.gowealthy.com](http://www.gowealthy.com/). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
-  
-1. What information Gowealthy collects from our site and how we use it?  
-2. What information third party may collect through the Web site.  
-3. With whom this information may be shared.  
-4. How gowealthy communicates through its members.  
-5\.  The users choices regarding collection, use and distribution of the information.  
-6\.  The security measures are in place to protect the loss, misuse or alteration of information under Gowealthy control.  
-7\.  How will the users be notified if Gowealthy change this privacy policy?  
-8. How user can correct any inaccuracies in the information.  
-9\. Compliance with Children's Online Privacy Protection Act (COPPA)  
 10\. Public Forum Disclaimer  
 
 
@@ -59,20 +15,18 @@ Gowealthy.com, provided by Triumph Assets Holding Ltd. is a licensee of the TRUS
 **Your Questions or Suggestions Regarding This Privacy Policy :  
 **If users have any questions, concern or suggestions regarding our privacy policy, please contact us at 
 
-**     Email :** [policy@gowealthy.com](mailto:policy@gowealthy.com)  
-**     Fax :** 1- 413- 235- 6397  
-**     Address:**  
-           Site Administrator  
-           Triumph Assets Holding Limited,  
-           PO Box No 8325, Sharjah,   
-           U.A.E.   
-**  
-** If you do not receive a satisfactory response, then please contact TRUSTe, an independent privacy organization that will contact us on your behalf.
+> **Email :** [policy@gowealthy.com](mailto:policy@gowealthy.com)  
+>  **Fax :** 1- 928- 441- 7539  
+>  **Address:**
+>
+>> Site Administrator  
+>  Triumph Assets Holding Limited,  
+>  PO Box No 8325, Sharjah,   
+>  U.A.E. 
+
+If you do not receive a satisfactory response, then please contact TRUSTe, an independent privacy organization that will contact us on your behalf.
 
 If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html)](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
-
-  
-
 
 * * *
 
@@ -181,57 +135,50 @@ top
 
   
 **7\. How will the users be notified if Gowealthy change this privacy policy?**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.   
-  
-top  
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
+top
 
 * * *
 
   
 **8\. How user can correct any inaccuracies in the information?**  
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the member interface page or by emailing our Customer Support at [member@gowealthy.com](mailto:member@gowealthy.com)   
-  
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the member interface page or by emailing our Customer Support at [member@gowealthy.com](mailto:member@gowealthy.com)
+
 top
 
 * * *
 
   
 **9\. Compliance with Children's Online Privacy Protection Act COPPA**  
-We comply with the recently passed Children's Online Privacy Protection Act (COPPA) and we do not collect information or provide membership to children below 13 years of age. Gowealthy does not knowingly solicit information from children or knowingly market its services to children. Gowealthy does not request or collects any kind of information from children below 13 years.   
-  
+We comply with the recently passed Children's Online Privacy Protection Act (COPPA) and we do not collect information or provide membership to children below 13 years of age. Gowealthy does not knowingly solicit information from children or knowingly market its services to children. Gowealthy does not request or collects any kind of information from children below 13 years. 
+
 top
 
 * * *
 
   
 **10\. Public Forums Disclaimer**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.   
-  
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+
 top
 
 * * *
 
   
 **Your Questions or Suggestions Regarding This Privacy Policy.**  
-If users have any questions, concern or suggestions regarding our privacy policy, please contact us at:  
-**     Email :** admin@gowealthy.com  
-**     Fax :** 1- 413- 235- 6397 / 1- 928- 441- 7539  
-**     Address:**  
-           Site Administrator  
-           Triumph Assets Holding Limited  
-           PO Box No 8325, Sharjah,   
-           U.A.E.   
+If users have any questions, concern or suggestions regarding our privacy policy, please contact us at:
+
+> **Email :** admin@gowealthy.com  
+>  **Fax :** 1- 928- 441- 7539  
+>  **Address:**
+>
+>> Site Administrator  
+>  Triumph Assets Holding Limited  
+>  PO Box No 8325, Sharjah,   
+>  U.A.E. 
+
 If you do not receive a satisfactory response, then please contact TRUSTe, an independent privacy organization that will contact us on your behalf.  
-If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html)](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. top  
-[  
-Disclaimer](http://www.gowealthy.com/html/Disclaimer.htm)  [](http://www.truste.org/watchdog.html) [ ](http://www.gowealthy.com/html/policy.htm)  [Privacy Policy](http://www.gowealthy.com/html/policy.htm)
+If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html)](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
-[Home](http://www.gowealthy.com/)|[Member Services](http://www.gowealthy.com/scripts/hmzone.asp)|[Banking](http://www.gowealthy.com/scripts/hbanking.asp)|[Investments](http://www.gowealthy.com/scripts/hinvestment.asp)|[Credit & Debit Cards](http://www.gowealthy.com/scripts/hcards.asp)|[Travel](http://www.gowealthy.com/scripts/htravel.asp)|[Entertainment](http://www.gowealthy.com/scripts/hentertainment.asp)|[News](http://www.iofc.net/gowealthy/news2.asp)  
-[Join as Associate](http://www.gowealthy.com/scripts/eval_associate.asp)[|Become A member](http://www.gowealthy.com/scripts/eval_member.asp)|[World Map](http://www.gowealthy.com/scripts/worldmap.asp)|[World Stock Markets](http://www.gowealthy.com/scripts/stockmarket.asp)|[World Embassies](http://www.gowealthy.com/scripts/embassy.asp)|[Advertise with us](http://www.gowealthy.com/html/Advertise.htm)  
-[Link to us](http://www.gowealthy.com/scripts/linkdirectoryform.asp)|[Int'l Property Listing](http://www.gowealthy.com/html/realestate/realestate.htm)|[Translate](http://www.gowealthy.com/html/translate.htm)|[Feedback](http://www.gowealthy.com/scripts/feedback.asp)|[Contact Us](http://www.gowealthy.com/html/contactus.htm)
-
-Gowealthy.com © Gowealthy.com Ltd. All rights reserved. For any queries on the site contact the 
-
-[_site administrator_](mailto:webmaster@gowealthy.com)  
-This site is best viewed in 800X600 resolution. Gowealthy recommends the use of Netscape 4x or Internet Explorer 5x or higher for optimal performance.
+top
