@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipfindlocator.com privacy policy that was archived on 2002-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020213220249id_/http%3A//www.zipfindlocator.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipfindlocator.com privacy policy that was archived on 2002-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021221124846id_/http%3A//zipfindlocator.com/privacy.htm) for the most accurate reproduction.*
 
 # ZIP Code Dealer Locator Software System - Bridger Systems Privacy Disclosure
 
