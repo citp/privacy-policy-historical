@@ -1,39 +1,21 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611211941id_/http%3A//www.cesweb.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009212324id_/http%3A//www.cesweb.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # 2005 International CES: Privacy Policy
 
 |   
 [](http://www.ce.org/)  
-  
-|  |   | 
+|  |  |    
+
 
 Privacy Policy  
 
 
-CESweb Privacy Statement: Our Commitment to You  
-  
+CESweb Privacy Statement: Our Commitment to You   
 
 
 Our commitment to privacy
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To ensure this notice is easy to find, it is available on our homepage and at every point where personal identification is requested.   
-  
-
-
-The information we collect
-
-This notice applies to all information collected or submitted on the www.CESweb.org website. On some pages, you can order products, register for events, make requests and/or ask to receive materials. The types of personal information collected on these pages include: 
-
-| Name |    | Fax Number  
----|---|---  
-Business Title |    | Credit/Debit Card Information  
-Company Name(s) |    | Products Manufactured  
-Address |    | Store Front Information  
-Company Type |    | Company's Gross Annual Sales  
-E-mail Address |    | Buying Influence  
-Phone Number |    |   
-  
-  
+Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To ensure this notice is easy to find, it is available on our homepage and at every point where personal identification is requested.    
 
 
 The way we use information
@@ -49,20 +31,19 @@ As a service to exhibitors, partners and sponsors, we make CES attendee/guests m
 Cookies  
 A cookie is a piece of data stored on the user’s computer and is tied to information about the user. (Usage of a cookie is in no way linked to any personal information while on our site.) We use both session ID cookies and persistent cookies. For the session ID cookie, once you close your browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. CES uses cookies to gather information about your visits and to help customize your experience while on our website. If cookies are disabled on your browser, you will still be able to access our website. 
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose any information that could be used to identify those individuals.   
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose any information that could be used to identify those individuals. 
+
   
 
 
 Our commitment to data security
 
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.   
-  
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.    
 
 
 Our commitment to children's privacy
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under the age of 13, and no part of our website is structured to attract anyone under the age of 13.   
-  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under the age of 13, and no part of our website is structured to attract anyone under the age of 13.    
 
 
 How you can access or correct your information
@@ -71,12 +52,13 @@ If you are a registered exhibitor, you can access and amend your information onl
 
 You may correct factual errors in your personal information by sending us a request that illustrates the error. 
 
-To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access or making corrections.   
+To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access or making corrections. 
+
   
 
 
 How to contact us
 
-Should you have other questions or concerns about these privacy policies, please contact CES Customer Service at [CESinfo@CE.org](mailto:CESinfo@CE.org), by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675.
+Should you have other questions or concerns about these privacy policies, please contact CES Customer Service at [CESinfo@CE.org](mailto:CESinfo@CE.org), by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675. 
 
- 
+| 
