@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voicenation.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609073209id_/http%3A//www.voicenation.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicenation.com privacy policy that was archived on 2003-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031011030828id_/http%3A//voicenation.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
