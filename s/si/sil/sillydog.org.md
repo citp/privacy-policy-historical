@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the sillydog.org privacy policy that was archived on 2001-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010712073040id_/http%3A//sillydog.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sillydog.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604065232id_/http%3A//sillydog.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy- Silly Dog 701
-
-  
-
 
 In short
 
@@ -17,7 +14,7 @@ This site is owned and operated by Antony Shen. Your privacy on the Internet is 
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-INFORMATION Silly Dog 701 GATHERS AND TRACKS
+INFORMATION **Silly Dog 701** GATHERS AND TRACKS
 
 **Silly Dog 701** gathers two types of information about users:
 
@@ -33,15 +30,15 @@ We offer the following free services, which require some type of voluntary submi
 
 1\. Electronic newsletters (Dispatches)
 
-(The service of electronic newsletters is not yet implemented.) We will offer a free electronic newsletter to users. **Silly Dog 701** gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
+_(The service of electronic newsletters is not yet implemented.)_ We will offer a free electronic newsletter to users. **Silly Dog 701** gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
 
 2\. Message boards/forums
 
-Users of the site's Message Boards and Forums such as [Netscape Browser Archive Forum](https://web.archive.org/forum) does not require to register any user information. Name is needed for posting message, however, under no circumstances we insist you to provide full name and nothing more than email address would be asked to provide. E-mail address might be provided at your preference, if you wish to take extra features (if any). 
+Users of the site's Message Boards and Forums such as [Netscape Browser Archive Forum](https://web.archive.org/forum) does not require to register any user information. Name is needed for posting message, however, under no circumstances we insist you to provide full name and nothing more than email address would be asked to provide. E-mail address might be provided at your preference, if you wish to take extra features. 
 
 3\. "E-mail this to a friend" Service
 
-(The service of "E-mail this to a friedn" is not you implemented.) Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
+_(The service of "E-mail this to a friedn" is not yet implemented.)_ Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
 4\. Polling
 
