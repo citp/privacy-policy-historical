@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the floridajobs.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204522id_/http%3A//www.myflorida.com/myflorida/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridajobs.org privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801144744id_/http%3A//www.myflorida.com/myflorida/privacy.html) for the most accurate reproduction.*
 
-# MyFlorida.com
+# MyFlorida.com - Privacy Statement
 
 Thank you for visiting the MyFlorida.com™ Web site. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit the MyFlorida.com™ Web site, unless you affirmatively choose to make such information available to us. 
 
