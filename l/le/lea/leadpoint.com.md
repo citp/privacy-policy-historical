@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadpoint.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204062145id_/http%3A//leadpoint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadpoint.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306124352id_/http%3A//leadpoint.com/privacy.html) for the most accurate reproduction.*
 
 # LeadPoint
 
@@ -37,7 +37,7 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 VII. CONTACT US  
 For more information or if you have questions or concerns regarding the LeadPoint Privacy Policy, please send an email to legal@leadpoint.com or you can send correspondence to the following address:   
 Privacy, LeadPoint, Inc.,   
-1158 26th Street, Suite 279,  
-Santa Monica, CA 90403.
+11661 San Vicente Blvd., Suite 800  
+Los Angeles, CA 90049
 
-Updated August 27, 2004
+Updated February 24, 2005
