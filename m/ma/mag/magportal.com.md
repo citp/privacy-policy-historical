@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413085747id_/http%3A//www.magportal.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603004216id_/http%3A//magportal.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (MagPortal.com)
 
-**Location: ******| [Help](https://web.archive.org/help/) / Privacy Policy  
----|---  
 Hot Hot Neuron LLC respects your privacy and we have drafted this document to try to address any concerns that you may have about the information we collect and how it is used on MagPortal.com. Hot Neuron LLC may revise this Privacy Policy at any time without notice. It is your responsibility to check this policy periodically. 
 
 _Last revised: $Date: 2002/09/10 19:32:18 $_
@@ -36,7 +34,3 @@ We may provide aggregated statistics about the users of MagPortal.com to third p
 You should keep your password secret and be extremely cautious when using shared computers. Be sure to [remove the MagPortal.com cookie](https://web.archive.org/cgi-bin/myacct.cgi?a=r) from any public computer you use and exit the browser to ensure that nobody else can access your personal information. 
 
 Please be aware that whenever data is transmitted or stored there is always some risk of theft or misuse. 
-
-[Help](https://web.archive.org/help/)   [Home](https://web.archive.org/)   [Site Map](https://web.archive.org/sitemap.html)   [Privacy Policy](https://web.archive.org/help/privacy.html)   [Terms of Use](https://web.archive.org/help/terms.html)   [Contact Us](https://web.archive.org/help/contact.html)   [Advertise](https://web.archive.org/help/custom/advertise.html) Copyright © 2003 Hot Neuron LLC. All Rights Reserved.  
-MagPortal.com is a registered service mark of Hot Neuron LLC.  
-Hot Neuron is a service mark of Hot Neuron LLC.
