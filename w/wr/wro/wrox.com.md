@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrox.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205043659id_/http%3A//www.wrox.com/WileyCDA/Section/id-105117.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrox.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207015508id_/http%3A//www.wrox.com/WileyCDA/Section/id-105117.html) for the most accurate reproduction.*
 
 # Wrox::Privacy Policy
 
