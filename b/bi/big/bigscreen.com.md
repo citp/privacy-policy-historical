@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208172423id_/http%3A//www.bigscreen.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401194717id_/http%3A//www.bigscreen.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # The BigScreen Cinema Guide - Privacy Policy
 
@@ -44,6 +44,6 @@ In the course of serving advertisements to this site, our third-party advertiser
 'ACADEMY AWARDS®' and 'OSCAR®' are the registered trademarks and service marks of the [Academy of Motion Picture Arts and Sciences](http://www.oscars.org/).
 
   
-The BigScreen Cinema Guide is a service of [SVJ Designs LLC](http://www.svjdesigns.com/). All graphics, layout, and structure of this service (unless otherwise specified) are Copyright © 1995-2003, SVJ Designs. The BigScreen Cinema Guide is a trademark of SVJ Designs. All rights reserved. Web hosting and bandwidth provided by CoreComm. | Powered by  
+The BigScreen Cinema Guide is a service of [SVJ Designs LLC](http://www.svjdesigns.com/). All graphics, layout, and structure of this service (unless otherwise specified) are Copyright © 1995-2004, SVJ Designs. The BigScreen Cinema Guide is a trademark of SVJ Designs. All rights reserved. Web hosting and bandwidth provided by CoreComm. | Powered by  
 [](http://home.voyager.net/web/business/webhost/index.html)  
 ---|---
