@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onehanesplace.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603184447id_/http%3A//www.onehanesplace.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehanesplace.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203002412id_/http%3A//www.onehanesplace.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
 
 # OneHanesPlace Lingerie, Hosiery, Casual Clothes !
 
