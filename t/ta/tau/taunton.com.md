@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taunton.com privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203180700id_/http%3A//taunton.com/admin/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taunton.com privacy policy that was archived on 2001-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010802032756id_/http%3A//taunton.com/admin/privacypolicy.htm) for the most accurate reproduction.*
 
 # The Taunton Press - Privacy Policy
 
@@ -9,7 +9,7 @@
 The Taunton Press strives to treat everyone fairly, honestly, and with respect.   All personal information - including customer transactions, Web site registrations, and e-mail correspondence, is always handled with the utmost discretion. The policies described here apply to **taunton.com, tauntonplus.com,** and other Web sites owned and operated by Taunton New Media, Inc.
 
 **Receiving mailings from The Taunton Press**  
-Once you enter your name, address and other information in the The Taunton Press Web site (i.e., submitting an order, registering for  TauntonPLUS, etc.) you may receive regular postal mailings about other related products from The Taunton Press. If you do not wish to receive this information, click here to go to the [Privacy Options Form](https://web.archive.org/web/20010203180700id_/http%3A//taunton.com/admin/submailings.htm) in our Online Subscriber Services area.
+Once you enter your name, address and other information in the The Taunton Press Web site (i.e., submitting an order, registering for  TauntonPLUS, etc.) you may receive regular postal mailings about other related products from The Taunton Press. If you do not wish to receive this information, click here to go to the [Privacy Options Form](https://web.archive.org/web/20010802032756id_/http%3A//taunton.com/admin/submailings.htm) in our Online Subscriber Services area.
 
 **Receiving e-mail from The Taunton Press**  
 There are several places on the Web site where we ask for a visitor's e-mail address.  We use e-mail to send customers an order confirmation for purchases made at the Web site.  These are sent automatically as a customer service.  When a customer sends us an e-mail about a particular customer service question, we will respond via e-mail. 
@@ -17,7 +17,7 @@ There are several places on the Web site where we ask for a visitor's e-mail add
 We also offer e-mail updates  about "What's New" at The Taunton Press or TauntonPLUS.  These e-mail bulletins are sent only to those TauntonPlus members who request them.  If you do not want to receive these e-mail bulletins from us in the future, please click here to  change your [TauntonPlus member profile](http://www.taunton.com/tplus/admin/entrylog.htm).
 
 **Sharing Names**  
-From time to time, we may make the list of The Taunton Press customer names and postal addresses available to socially responsible companies whose products or services we feel might be of some interest to you.  If you do not wish to be on this mailing list, please click here to go to the [Privacy Options Form](https://web.archive.org/web/20010203180700id_/http%3A//taunton.com/admin/submailings.htm). 
+From time to time, we may make the list of The Taunton Press customer names and postal addresses available to socially responsible companies whose products or services we feel might be of some interest to you.  If you do not wish to be on this mailing list, please click here to go to the [Privacy Options Form](https://web.archive.org/web/20010802032756id_/http%3A//taunton.com/admin/submailings.htm). 
 
 We do not make the list of The Taunton Press customer/member e-mail addresses available to any other companies.
 
