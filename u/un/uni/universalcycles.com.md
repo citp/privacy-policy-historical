@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalcycles.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405212822id_/http%3A//www.universalcycles.com/rulesprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalcycles.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205065639id_/http%3A//universalcycles.com/rulesprivacy.htm) for the most accurate reproduction.*
 
 # New Page 2
 
