@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607040936id_/http%3A//www.epam.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803001720id_/http%3A//www.epam.com/privacy.htm) for the most accurate reproduction.*
 
 # EPAM - offshore software development from Russia, software services outsourcing
 
 |   
 
 
-Print version [](https://web.archive.org/web/20040607040936id_/http%3A//www.epam.com/privacy-pv.htm)
+Print version [](https://web.archive.org/web/20040803001720id_/http%3A//www.epam.com/privacy-pv.htm)
 
 |  |  |  |   
 [Home](http://www.epam.com/) / Privacy Policy
