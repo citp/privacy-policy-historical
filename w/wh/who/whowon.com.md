@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whowon.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204021100id_/http%3A//www.whowon.com/whowonprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whowon.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603184715id_/http%3A//whowon.com/whowonprivacy.asp) for the most accurate reproduction.*
 
 # WhoWon.com Privacy Policy
 
@@ -28,6 +28,8 @@ All personal information you provide to WhoWon.com is secured on our server with
 **D. Disclosure** :
 
 Because WhoWon.com considers the individual information we maintain to be confidential, our policy is to disclose no personal information to third parties unless release is required by law or is pertinent to judicial or government investigations or proceedings.
+
+WhoWon.com will occasionally carbon-copy form submissions to WhoWon.com in order to evaluate visitor demographics and police possible piracy.
 
 We reserve the right to change this policy at any time by notifying visitors of the existence of the new privacy policy.
 
