@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the filedonkey.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603181658id_/http%3A//www.filedonkey.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filedonkey.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801184234id_/http%3A//www.filedonkey.com/pp.html) for the most accurate reproduction.*
 
 # FileDonkey - edonkey search engine
 
 We are surfer friendly!   
 This website and directly linked websites contain no excessive consoles or other dirty tricks. 
 
-[](https://web.archive.org/web/20030603181658id_/http%3A//www.filedonkey.com/index.html)
+[](https://web.archive.org/web/20030801184234id_/http%3A//www.filedonkey.com/index.html)
 
 > **Privacy Policy v1.12 for www.fileDonkey.com**
 > 
@@ -41,7 +41,7 @@ This website and directly linked websites contain no excessive consoles or other
 >   
   
 (c) 2002,2003 Filedonkey   
-Hardware rev3.1, Website rev3.2, Crawler v4.3, Database rev5.1   
+Hardware rev3.1, Website rev3.3, Crawler v4.3, Database rev5.2   
 Best viewed with your favorite browser.   
 Powered by 230V.   
 All trademarks and copyrights on this page are owned by their respective owners.   
