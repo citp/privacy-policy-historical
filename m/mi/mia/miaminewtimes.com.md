@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405122532id_/http%3A//miaminewtimes.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004003157id_/http%3A//www.miaminewtimes.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Miami New Times | miaminewtimes.com | About
 
