@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsfactor.com privacy policy that was archived on 2002-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021120213910id_/http%3A//www.newsfactor.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfactor.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603164713id_/http%3A//newsfactor.com/privacy.shtml) for the most accurate reproduction.*
 
 # NewsFactor Network - Tech News
 
@@ -45,19 +45,15 @@ Please Note: We request that all editorial and PR matters be handled [here](http
 |  | 
 
 []()  
-| **Real-Time  
-Technology News  
-Updated Every  
-5 Minutes  
-24 Hours a Day**  
+| **The Internet's  
+E-Business and  
+Technology  
+News Network**  
 ---  
 [**NewsFactor.com**](http://www.newsfactor.com/)  
-[**E-Commerce Times**](http://www.ecommercetimes.com/)  
-[**TechNewsWorld**](http://www.technewsworld.com/)  
 [**CRMDaily.com**](http://www.crmdaily.com/)  
-[**CRM Buyer**](http://www.crmbuyer.com/)  
+[**CIO Today**](http://www.ciotoday.com/)  
 [**Sci-Tech**](http://sci.newsfactor.com/)  
-[**Linux Insider**](http://www.linuxinsider.com/)  
 [**WirelessNewsFactor**](http://wirelessnewsfactor.com/)  
 [**osOpinion**](http://www.osopinion.com/)  
 [**TechExtreme**](http://www.techextreme.com/)  
@@ -66,7 +62,7 @@ Updated Every
 []()
 
 |    
-**November 20, 2002**   
+**June 03, 2003**   
   
   
   
