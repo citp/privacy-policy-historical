@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the operasoftware.com privacy policy that was archived on 2001-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010426143924id_/http%3A//www.operasoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operasoftware.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031073427id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Opera - Privacy
 
-The Opera browser offers you excellent features for the protection of your privacy and security when using Opera in the internet environment. Opera Software has also created this privacy statement in order to demonstrate our firm commitment to privacy. This document refers to three distinct areas. Please note that personally-identifying information that is collected directly by Opera Software is not shared with any other parties. 
+The Opera browser offers you excellent features for the protection of your privacy and security when using Opera in the internet environment. Opera Software has also created this privacy statement in order to demonstrate our firm commitment to privacy. This document refers to three distinct areas. Please note that personally-identifying information that is collected directly by Opera Software is not shared with any other parties.
 
   * Privacy in the Opera 5 browser
-  * Privacy on our websites
+  * Privacy on our web sites
   * Privacy of customer data
 
 
 
 ## Privacy in the Opera 5 browser
 
-See the following documents for privacy information regarding advertising in the Opera 5 browser: 
+See the following documents for privacy information regarding advertising in the Opera 5 browser:
 
-  * Overview: [Privacy, Security, and Advertising in Opera 5](https://web.archive.org/web/20010426143924id_/http://www.operasoftware.com/privacy/adinfo.html)
-  * Technical details: [Advertising Implementation in Opera 5](https://web.archive.org/web/20010426143924id_/http://www.operasoftware.com/opera5/ads.html)
+  * Overview: [Privacy, Security, and Advertising in Opera 5](https://web.archive.org/web/20011031073427id_/http://www.opera.com/privacy/adinfo.html)
+  * Technical details: [Advertising Implementation in Opera 5](https://web.archive.org/web/20011031073427id_/http://www.opera.com/opera5/ads.html)
 
 
 
-With Opera 5 is the introduction of an advertising banner window in the program interface. Opera Software has taken much care in the development so that user privacy and security are not compromised. No personally-identifying information is collected or shared, and providing ad profile information in the browser is strictly optional. The Opera user's web usage is not tracked. What is recorded and shared with the advertising service provider is the user's interaction with the relative banner advertising. The company which provides advertising services is [Cydoor](http://www.cydoor.com/). For more information see the above links. 
+With Opera 5 is the introduction of an advertising banner window in the program interface. Opera Software has taken much care in the development so that user privacy and security are not compromised. No personally-identifying information is collected or shared, and providing ad profile information in the browser is strictly optional. The Opera user's web usage is not tracked. What is recorded and shared with the advertising service provider is the user's interaction with the relative banner advertising. The company which provides advertising services is [Cydoor](http://www.cydoor.com/). For more information see the above links.
 
 ## Privacy on our websites
 
-The following statement discloses the information gathering and dissemination practices for [Opera.com](http://www.opera.com/), [Opera.no](http://www.opera.no/), and [OperaSoftware.com](http://www.operasoftware.com/). This privacy statement does not include privacy information for the websites [MyOpera](http://www.myopera.com/) or [OperaMail](http://www.operamail.com/). Please consult the privacy statements of [MyOpera](http://www.myopera.com/?req=root&lang=en&sqlrec=privacy_policy) or [OperaMail](https://web.archive.org/web/20010426143924id_/http://www.operasoftware.com/operamail/privacy.html) for information regarding their privacy policies.
+The following statement discloses the information gathering and dissemination practices for [Opera.com](http://www.opera.com/), [Opera.no](http://www.opera.no/), and [OperaSoftware.com](http://www.operasoftware.com/). This privacy statement does not include privacy information for the websites [MyOpera](http://www.myopera.com/) or [OperaMail](http://www.operamail.com/). Please consult the privacy statements of [MyOpera](http://www.myopera.com/?req=root&lang=en&sqlrec=privacy_policy) or [OperaMail](https://web.archive.org/web/20011031073427id_/http://www.opera.com/operamail/privacy.html) for information regarding their privacy policies.
 
 ### Collection of Data
 
@@ -65,7 +65,7 @@ Opera Software strictly protects the security of your personal information withi
 
 ### Children's Guidelines
 
-OperaSoftware provides interactive environments on the Internet to enable members to express themselves and share their ideas and interests by creating and participating in discussion-based virtual communities. Opera.com, OperaSoftware.com and Opera.no make no guarantees that children can not enter these sites and present both on line and off line contact information without parental consent or notification. Further, there is no guarantee that children will not post such information in a public forum. Therefore,we encourage children to include their parents in the registration process, and we encourage parents to read this privacy statement before allowing their children on line.
+OperaSoftware provides interactive environments on the Internet to enable members to express themselves and share their ideas and interests by creating and participating in discussion-based virtual communities. Opera.com, OperaSoftware.com and Opera.no make no guarantees that children can not enter these sites and present both on line and off line contact information without parental consent or notification. Further, there is no guarantee that children will not post such information in a public forum. Therefore, we encourage children to include their parents in the registration process, and we encourage parents to read this privacy statement before allowing their children on line.
 
 ### Choice/Opt-Out
 
@@ -74,6 +74,12 @@ Opera.com, OperaSoftware.com, and Opera.no provide users the opportunity to opt-
   * Visitors can send e-mail to [list-admin@opera.com](mailto:list-admin@opera.com)
   * Visitors can visit the following URL: <http://www.opera.com/cgi-bin/mailman/listinfo>
   * Visitors can send mail to the following postal address: 
+
+Opera Software ASA  
+Waldemar Thranesgt. 86b  
+N-0175 OSLO  
+Norway 
+
   * Visitors can call the following telephone number: +47 24 16 40 00
 
 
@@ -84,6 +90,12 @@ This site gives users the following options for changing and modifying informati
 
   * Visitors can use this **[form.](http://www.opera.com/upgrade/reg_mail35.html)**
   * Visitors can send mail to the following postal address: 
+
+Opera Software ASA  
+Waldemar Thranesgt. 98b  
+N-0175 OSLO  
+Norway 
+
   * Visitors can call the following telephone number: +47 24 16 40 00
 
 
@@ -92,7 +104,7 @@ This site gives users the following options for changing and modifying informati
 
 In order to process the purchases of licenses for copies of our software, certain information is necessarily collected by Opera Software. We retain records of licensed users of our software, and these records may contain any or all of the following information: names, addresses, phone numbers, credit card numbers, or other relative identifying information. We do not sell or share this information with other parties. We do not sell or share this information with our advertising partners or advertising agencies.
 
-If a customer places a request for customer service, the information that may be collected is: email address, name, phone number, correspondence records, and technical information such as system hardware, operating system, and the version of Opera being used. This information is voluntarily given by the customer, and is used by Opera Software only for the purpose of assisting the customer with his or her problems. This information is not used for any other purpose. Information collected by our customer service department is not shared nor it is sold to other parties. We do not sell or share this information with our advertising partners or advertising agencies. 
+If a customer places a request for customer service, the information that may be collected is: email address, name, phone number, correspondence records, and technical information such as system hardware, operating system, and the version of Opera being used. This information is voluntarily given by the customer, and is used by Opera Software only for the purpose of assisting the customer with his or her problems. This information is not used for any other purpose. Information collected by our customer service department is not shared nor it is sold to other parties. We do not sell or share this information with our advertising partners or advertising agencies.
 
 ## Questions?
 
