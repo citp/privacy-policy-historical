@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601204422id_/http%3A//www.funeducation.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202234037id_/http%3A//www.funeducation.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -73,5 +73,5 @@ If at any time you believe that we have not followed the this Privacy Policy, yo
 **CORRECTING AND UPDATING YOUR INFORMATION**  
 If you would like to revise the information provided to us, or feel that what we currently have on record is incorrect, you may update the information by emailing us at [support@funeducation.com](mailto:support@funeducation.com). 
 
-[Company](http://www.funeducation.com/company/) | [Privacy Statement](http://www.funeducation.com/company/privacy/) | [Legal Info](http://www.funeducation.com/company/legal/) | [Support](http://www.funeducation.com/support/) | [ Affiliates](http://www.funeducation.com/affiliates/) |  [Contact Us](http://www.funeducation.com/support/contacts/)  
+[Our Company](http://www.funeducation.com/company/) | [ Privacy](http://www.funeducation.com/company/privacy/) | [Terms of Use](http://www.funeducation.com/company/legal/) | [Support](http://www.funeducation.com/support/) | [ Affiliates](http://www.funeducation.com/affiliates/) |  [Contact Us](http://www.funeducation.com/support/contacts/)  
 © 2000-2003 FunEducation, Inc.  All Rights Reserved.
