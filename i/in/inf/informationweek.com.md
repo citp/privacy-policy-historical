@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informationweek.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217084000id_/http%3A//www.cmpnet.com/delivery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informationweek.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606171759id_/http%3A//www.cmpnet.com/delivery/privacy.html) for the most accurate reproduction.*
 
 # CMPnet's Privacy Policy
 
