@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202015737id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611014354id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
 
 # bakersfield.com | Privacy Policy
 
 SEARCH
 
+|  |   
+  
+---|---  
+|   
+  
 NEWS
 
 29 EYEWITNESS NEWS
@@ -17,8 +22,6 @@ CLASSIFIEDS
 SUBSCRIBER SERVICES
 
 THE CALIFORNIAN
-
-| 
 
   
 
