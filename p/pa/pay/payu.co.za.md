@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payu.co.za privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206234008id_/http%3A//www.payu.co.za/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payu.co.za privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204055347id_/http%3A//www.payu.co.za/privacypolicy.php) for the most accurate reproduction.*
 
 # Pay As You Use Internet
 
