@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606020714id_/http%3A//www.webbyawards.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215153730id_/http%3A//www.webbyawards.com/main/privacy.html) for the most accurate reproduction.*
 
 # The Webby Awards: Privacy Policy
 
@@ -32,7 +32,7 @@ The Webby Awards Web site has been licensed to display the BetterWebSM Seal. In 
 
 |   
   
-The Webby Awards and The International Academy of Digital Arts and Sciences are committed to protecting your privacy. We understand that the information we collect about you is your information, and we intend to keep it that way. Concerned about security? Read our policy [here](https://web.archive.org/web/20020606020714id_/http%3A//www.webbyawards.com/main/security.html). 
+The Webby Awards and The International Academy of Digital Arts and Sciences are committed to protecting your privacy. We understand that the information we collect about you is your information, and we intend to keep it that way. Concerned about security? Read our policy [here](https://web.archive.org/web/20021215153730id_/http%3A//www.webbyawards.com/main/security.html). 
 
 ## What information do we collect? How do we use it?
 
