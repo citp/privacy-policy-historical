@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verabradley.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212134428id_/http%3A//verabradley.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verabradley.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802010403id_/http%3A//www.verabradley.com/privacy.html) for the most accurate reproduction.*
 
 # Vera Bradley - Privacy Statement
 
