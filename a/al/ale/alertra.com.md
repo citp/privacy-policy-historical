@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212114144id_/http%3A//alertra.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308061120id_/http%3A//www.alertra.com/help.php%3Fcontext%3DPRIVACY%26nopop%3DY) for the most accurate reproduction.*
 
 # Alertra Web Site Monitoring
-
-**Privacy Statement**
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site. 
 
@@ -24,7 +22,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 This site gives users the option of changing and modifying information previously provided. You can change account settings on your account information form. 
 
 **Information Automatically Logged**  
-We log your IP address while you are visiting our site so we can understand how to improve our site's navigation, etc. We do not associate your IP address with your account, it remains anonymous. Once we have analyzed the IP address information it is deleted.
+We log your IP address while you are visiting our site so we can understand how to improve our site's navigation, etc. If you log into a user account on our site, we save your IP address with your user record to help protect ourselves from fraudulent use. 
 
 **Cookies**  
 When you log in to your account we send your browser one cookie containing a session key. The session key is used for no other purpose than to allow you to navigate our site, and to automatically log you in when you return. The cookie expires when you click "Logout" on the menu. We will delete the corresponding session record from our server if you leave it active without visiting for more than 30 days.
