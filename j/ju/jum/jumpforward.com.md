@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpforward.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210082155id_/http%3A//www.jumpforward.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpforward.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601171423id_/http%3A//www.jumpforward.com/privacy.html) for the most accurate reproduction.*
 
 # JumpForward.com - Innovative Hosting Solutions
 
@@ -13,6 +13,6 @@ Our servers collect standard non-identifying information about visits to the sit
 
 If you have provided personal and/or company identifying information via e-mail or a form on our site, the information will only be used to communicate with you to handle your requests. It will never be sold or transferred to other parties.
 
-If you have any questions or concerns about this policy [contact us](https://web.archive.org/web/20021210082155id_/http%3A//www.jumpforward.com/contact.html).   
+If you have any questions or concerns about this policy [contact us](https://web.archive.org/web/20030601171423id_/http%3A//www.jumpforward.com/contact.html).   
   
 We are committed to protecting your privacy.
