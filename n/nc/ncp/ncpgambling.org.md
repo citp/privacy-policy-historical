@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncpgambling.org privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405142112id_/http%3A//ncpgambling.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncpgambling.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206065133id_/http%3A//www.ncpgambling.org/privacy_policy) for the most accurate reproduction.*
 
 # National Council on Problem Gambling - Privacy Policy
 
