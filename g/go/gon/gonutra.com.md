@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonutra.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208080100id_/http%3A//www.gonutra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonutra.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410003206id_/http%3A//www.gonutra.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -24,7 +24,7 @@ our customers. The customer's contact information is used to get in touch
 with the visitor when necessary. Financial information that is collected is  
 used to bill the user for products and services.
  
-**Please see our information Disclaimer, [[link to Disclaimer](https://web.archive.org/web/20001208080100id_/http%3A//www.gonutra.com/disclaimer.html)]**
+**Please see our information Disclaimer, [[link to Disclaimer](https://web.archive.org/web/20010410003206id_/http%3A//www.gonutra.com/disclaimer.html)]**
  
 **Security**
 This site has security measures in place to protect the loss, misuse and  
@@ -50,4 +50,4 @@ information previously provided.
 2\. send mail to the following postal address:   
 \---P.O. Box 212 Cedar Knolls, NJ 07927  
 3\. call the following telephone number: ---908-889-6760  
-4\. send a fax: ---973-569-9573
+4\. send a fax: ---908-889-6761
