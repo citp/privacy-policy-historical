@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phs.org privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411201258id_/http%3A//www.phs.org/admin/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phs.org privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010230503id_/http%3A//phs.org/admin/privacy.shtml) for the most accurate reproduction.*
 
 # Presbyterian Privacy Policy
 
