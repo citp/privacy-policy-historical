@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the marines.mil privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228234156id_/http%3A//www.usmc.mil/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marines.mil privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171418id_/http%3A//www.marines.mil/privacy) for the most accurate reproduction.*
 
 # 
 
 Accessibility:
 
-We continually work to ensure this website is accessible to all visitors. If you find a problem that prevents access, contact us by sending an email to the webmaster at [webmaster@hqmc.usmc.mil](mailto:webmaster@hqmc.usmc.mil). Send ONLY access or technical concerns. General questions should be directed to the nearest [Public Affairs Office](http://www.usmc.mil/pa).
+We continually work to ensure this website is accessible to all visitors. If you find a problem that prevents access, contact us by sending an email to the webmaster at [webmaster@hqmc.usmc.mil](mailto:webmaster@hqmc.usmc.mil). Send ONLY access or technical concerns. General questions should be directed to the nearest [Public Affairs Office](http://www.marines.mil/pa).
 
 Privacy:
 
-1\. This is an official Marine Corps website, and is provided as a public service by the [Marine Corps Division of Public Affairs](http://www.usmc.mil/pa).
+1\. This is an official Marine Corps website, and is provided as a public service by the [Marine Corps Division of Public Affairs](http://www.marines.mil/pa).
 
 2\. Information presented on this site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested. 
 
