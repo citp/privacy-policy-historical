@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217164547id_/http%3A//lake-link.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604073940id_/http%3A//lake-link.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Lake-Link.com Online Privacy Policy
 
 |  |    
-Lake-Link.com is committed to safeguarding your privacy online. Set forth below are the guidelines we use for protecting the information you provide us during a visit to Lake-Link.com (the "Site"). This Privacy Policy applies only to our domestic web site and not to sites that may be linked to ours. You should refer to those sites' own privacy policies to learn how they collect and use information about you. Information submitted solely in a business capacity is not covered by this policy.   
+Lake-Link.com is committed to safeguarding your privacy online. Set forth below are the guidelines we use for protecting the information you provide us during a visit to Lake-Link.com (the "Site").   
   
+This Privacy Policy applies only to our domestic web site and not to sites that may be linked to ours. You should refer to those sites' own privacy policies to learn how they collect and use information about you. Information submitted solely in a business capacity is not covered by this policy. 
+
 Information We Collect
 
   1. Browser Information: When you visit the Site, we use cookies to collect non-personally identifiable information about you, such as your IP address. An IP address is a number that is automatically assigned to your computer whenever you surf the Internet. 
@@ -42,6 +44,6 @@ If you have any questions about our Site or this Privacy Policy, please send us 
   
 [](http://www.supertop100.com/aff.prg?fishing,311)
 
-|  [Home](https://web.archive.org/ "Home")  |  [Lake Finder](https://web.archive.org/lakes/ "Lake Finder")  |  [Angler's Page](https://web.archive.org/anglers/ "Angler's Page")  |  [Fish Reports](https://web.archive.org/fishreports/ "Fish Reports")   
-[Msg Board](https://web.archive.org/messageboard/ "Msg Board")  |  [Hunting Board](https://web.archive.org/huntingboard/ "Hunting Board")  |  [Trading Post](https://web.archive.org/tradingpost/ "Trading Post")  |  [Businesses](https://web.archive.org/businesses/ "Businesses")  |  [Messenger](https://web.archive.org/messenger/ "Messenger")  |  [Shop](https://web.archive.org/store/ "Shop")   
+|  [Home](https://web.archive.org/ "Home")  |  [Lake Finder](https://web.archive.org/lakes/ "Lake Finder")  |  [Angler's Page](https://web.archive.org/anglers/ "Angler's Page")  |  [Fish Reports](https://web.archive.org/boards/index.cfm/1/ "Fish Reports")   
+[Msg Board](https://web.archive.org/boards/index.cfm/2/ "Msg Board")  |  [Hunting Board](https://web.archive.org/boards/index.cfm/3/ "Hunting Board")  |  [Trading Post](https://web.archive.org/tradingpost/ "Trading Post")  |  [Businesses](https://web.archive.org/businesses/ "Businesses")  |  [Messenger](https://web.archive.org/messenger/ "Messenger")  |  [Shop](https://web.archive.org/store/ "Shop")   
 [Tell A Friend About Lake-Link.com! ](https://web.archive.org/info/tellafriend.cfm "Tell A Friend About Lake-Link.com")[ ](https://web.archive.org/info/tellafriend.cfm "Tell A Friend About Lake-Link.com")
