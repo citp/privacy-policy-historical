@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctiva.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008133051id_/http%3A//www.auctiva.com//Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctiva.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611154717id_/http%3A//www.auctiva.com//Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Auctiva Privacy
 
