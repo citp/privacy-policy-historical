@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the 101inks.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604041107id_/http%3A//www.101inks.com/privacy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101inks.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217012530id_/http%3A//www.101inks.com/privacy1.asp) for the most accurate reproduction.*
 
 # 101inks
 
-101inks.com understands our customers' concerns regarding the privacy of the information they share with us. We hold our customers, and the information they share with us, in the highest regard. Maintaining your privacy is critical to us. We will not sell, share, or rent your information to others in any ways different from those disclosed in this statement. Please take a moment to read our Privacy Policy for a better understanding of the measures we take to protect you and the information you share with us.  
-**  
-  Why we collect information ?**  
+**  Why we collect information ?**  
 Customizing the experience
 
 101inks.com collects information to:
