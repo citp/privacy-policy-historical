@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208123807id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405235723id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
 
 # Forestry Commission - Privacy Policy
 
-## Privacy policy  
-
+**Privacy policy**
 
 This page explains how the Forestry Commission, uses any information you give to us through our website, and the ways in which we protect your privacy. 
 
