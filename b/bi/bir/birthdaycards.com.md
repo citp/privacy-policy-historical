@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207124906id_/http%3A//www.birthdaycards.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416003038id_/http%3A//www.birthdaycards.com/privacy.shtml) for the most accurate reproduction.*
 
 # Birthday Cards .com - Birthday cards, and more!
 
@@ -41,9 +41,9 @@
 > 
 > If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-[Support](https://web.archive.org/support.shtml) \- [Cards](https://web.archive.org/cat.mod) \- [About](https://web.archive.org/about.shtml) \- [Contact](https://web.archive.org/contact.shtml) \- [Artists](https://web.archive.org/artists.shtml) \- [Terms of Use](https://web.archive.org/terms.shtml) \- [Privacy](https://web.archive.org/privacy.shtml)
+[Support](http://www.birthdaycards.com/support.shtml) \- [Cards](http://www.birthdaycards.com/cat.mod) \- [About](http://www.birthdaycards.com/about.shtml) \- [Contact](http://www.birthdaycards.com/contact.shtml) \- [Artists](http://www.birthdaycards.com/artists.shtml) \- [Terms of Use](http://www.birthdaycards.com/terms.shtml) \- [Privacy](http://www.birthdaycards.com/privacy.shtml)
 
-(C) Copyright 2001 Birthday Cards .com, Inc.   
+(C) Copyright 2001,2002,2003 Birthday Cards .com, Inc.   
 100% FREE Birthday Cards, Holiday Cards, Greeting Cards, Virtual Cards, Romantic Cards, Holiday Greetings, Birthday Greetings, Virtual Greetings, eCards, e-cards, e-Greetings, Love Cards, Anniversary Cards at Birthday Cards.com. 
 
-[](http://www.cardmasters-top50.com/topsites/main.cgi?ID=256)
+[](http://www.cardmasters-top50.com/topsites/main.cgi?ID=256)   [](http://www.supertop100.com/aff.prg?greeting,193)
