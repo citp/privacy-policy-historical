@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the genkienglish.net privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206095120id_/http%3A//genkienglish.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genkienglish.net privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604160631id_/http%3A//www.genkienglish.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-  
 We are always striving to make Genki English the best we can! We take the privacy of our viewers seriously and have hence added this privacy statement to the site.
 
-The information collected by Genki English falls into 6 basic categories:
+The information collected by Genki English falls into these  basic categories:
 
 **1\. Email addresses used for distribution of the Genki English newsletters.**
 
@@ -17,31 +16,27 @@ We collect information that is needed by our courier in Japan, Sagawa Kyubin, fo
 
 **3 Personal data collected for products to be delivered  outside Japan.**
 
-This information is collected by our Credit Card handlers, CCnow (http://www.ccnow.com). Customer's names and addresses are then forwarded to Genki English. We at Genki English never see your credit card information.
+This information is collected by our Credit Card handlers, CCnow ([http://www.ccnow.com](http://www.ccnow.com/)). Customer's names and addresses are then forwarded to Genki English. We at Genki English never see your credit card information.
 
- **4\. Information for persons interested in working for Altia Central**
+**4 Personal data collected for delivery of RIC Picture Books  
+**  
+This refers to the page we have on the website where people can purchase RIC's picture books. Please [click here](https://web.archive.org/web/20040604160631id_/http%3A//www.genkienglish.net/ricpicturebooks.htm) to view the page. This information is held by Genki English and is also forwarded onto RIC Publishing for order processing. Only Information submitted via the form on this page is passed onto RIC.
 
-This refers to the page we have on the website where people can apply for information about the Altia Central ALT programme. Please [click here](https://web.archive.org/web/20031206095120id_/http%3A//genkienglish.net/altiacentral.htm) to view the page. This information is held by Genki English and is also forwarded onto Altia Central. Only Information submitted via the form on this page is passed onto Altia Central.
+ **5\. Information for persons interested in working for Altia Central**
 
- **5\. Information for persons interested in our "Kids English" series.**
+ **6\. Information for persons interested in our "Kids English" series.**
 
-This refers to the Japanese page we have on the website where people can apply for information about our Kids English series. Please [click here](https://web.archive.org/web/20031206095120id_/http%3A//genkienglish.net/kidsenglishj.htm) to view the page. This information is held by Genki English and is also forwarded onto the publisher SSI Corporation. Only Information submitted via the form on this page is pased onto SSI corporation.
+This refers to the Japanese page we have on the website where people can apply for information about our Kids English series. Please [click here](https://web.archive.org/web/20040604160631id_/http%3A//www.genkienglish.net/kidsenglishj.htm) to view the page. This information is held by Genki English and is also forwarded onto the publisher SSI Corporation. Only Information submitted via the form on this page is passed onto SSI corporation.
+
+**  
+7\. Information collected for our "Members' Area**
+
+This refers to the page we have on the website where purchasers of our CDs may download extra bonus material. Please [click here](https://web.archive.org/web/20040604160631id_/http%3A//www.genkienglish.net/members.htm) to view the page. Your username and password will be emailed once to the address supplied. If passwords or usernames have to be changed for security reasons in the future we may contact you again in the future to inform you of this. No other use will be made of the information supplied and no information will be passed onto any other parties.
 
 We carefully control the links to other sites, however we cannot accept responsibility for content that is not part of Genki English. Similarly, you may occasionally see advertisements on these pages and these are not always for companies  connected with Genki English. 
 
 As with anything else on this site, if you have any further questions or comments then please [contact me.  
-](https://web.archive.org/web/20031206095120id_/http%3A//genkienglish.net/contact.htm)  
+](https://web.archive.org/web/20040604160631id_/http%3A//www.genkienglish.net/contact.htm)  
 Be genki,
 
 Richard
-
-  
-
-
-* * *
-
-Copyright (C) 1999/2004 by [ Richard Graham](https://web.archive.org/web/20031206095120id_/http%3A//genkienglish.net/selfintro.htm)
-
-* * *
-
-www.GenkiEnglish.com
