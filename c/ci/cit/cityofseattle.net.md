@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2004-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040403185208id_/http%3A//cityofseattle.net/pan/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2004-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041018075843id_/http%3A//www.cityofseattle.net/pan/privacypol.htm) for the most accurate reproduction.*
 
-# City of Seattle Online Privacy Policy
+# City of Seattle's Official Web Site
 
-**Section A. Introduction**
+#### On-Line Privacy and Security Policy
 
-This policy addresses collection, use and security of and access to information that may be obtained through use of the City of Seattle's web site (<http://www.cityofseattle.net/>). It is provided for informational purposes only. The information presented here is not meant to be a contract of any type, either express or implied, and should not be treated as such by site visitors. The information in this statement and/or the policies described here may change at any time, without prior notice to any visitor.
+Department of Information Technology  
+July 12, 2001
+
+Section A. Introduction
+
+This policy addresses collection, use and security of and access to information that may be obtained through use of the City of Seattle's web site (<http://www.seattle.gov/>). It is provided for informational purposes only. The information presented here is not meant to be a contract of any type, either express or implied, and should not be treated as such by site visitors. The information in this statement and/or the policies described here may change at any time, without prior notice to any visitor.
 
 This notice covers the following topics: 
 
@@ -20,7 +25,7 @@ This notice covers the following topics:
 
 
 
-**Section B. Information Collected and How it is Used**
+Section B. Information Collected and How it is Used
 
 **Information collected if you only browse this site.**
 
@@ -59,7 +64,7 @@ Information provided for a transaction is used only for the purpose of completin
 
 The City does not sell, rent or otherwise distribute visitor's information, including electronic mail addresses, to any outside company or organization, unless legally required to do so. This applies to information that may be collected on the City's site and on that of any third party with whom the City contracts to provide Internet related services.
 
-**Section C. Personal Information and Choice**
+Section C. Personal Information and Choice
 
 You may choose whether to provide personal information on-line.
 
@@ -73,7 +78,7 @@ If you believe that your personal information is being used for a purpose other 
 
 Users are cautioned that the collection of personal information requested from or volunteered by children on-line or by email will be treated the same as information given by an adult, and may be subject to public access.
 
-**Section D. Public Access to Information**
+Section D. Public Access to Information
 
 In the State Of Washington, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by City government. At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Both state and federal laws provide exceptions.
 
@@ -81,23 +86,23 @@ RCW 42.17.260(9) prohibits the commercial use of lists of individuals' informati
 
 In the event of a conflict between this Privacy Notice and the Public Records Act or other law governing the disclosure of records, the Public Records Act or other applicable law will control.
 
-**Section E. Review and Correction of Personally Identifiable Information**
+Section E. Review and Correction of Personally Identifiable Information
 
 You can review any personally identifiable information that you have chosen to provide us by using the information in the Contact Information section at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting a request that credibly shows the inaccuracy. We will take reasonable steps to verify your identity before granting access or making corrections.
 
-**Section F. Use of Cookies and Applets**
+Section F. Use of Cookies and Applets
 
 "Cookies" are simple text files stored on your computer by your web browser. The City does not currently use cookies on its web site. However, because cookies can be used to customize your browsing experience and confirm the integrity of an online transaction, the City may decide to use them in the future. If the decision is made to use cookies, they will not contain personally identifiable information or otherwise compromise your privacy or security.
 
 Applets are tools downloaded to your computer to work with the software you have. Applets are intended to enhance your browsing experience by enabling you to view information in a unique manner or enable access to information that your computer would otherwise be unable to access without the applet. The City does not currently use applets. If the decision is made to utilize applets users of the City's web site would not be required to use them. 
 
-**Section G. Security**
+Section G. Security
 
 The City has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information it maintains, including but not limited to authentication, monitoring, auditing, and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire operating environment as part of its continuing commitment to risk management. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession.
 
 This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the City's web site.
 
-**Section H. Electronic Commerce**
+Section H. Electronic Commerce
 
 Increasingly, you have the option to do business with the City over the Web including making electronic payments for goods and services. Such transactions are allowed only under tightly controlled circumstances, where there are appropriate technological and other safeguards in place to protect financial and other sensitive data. 
 
@@ -107,22 +112,26 @@ The design of the electronic commerce systems supported on the City's web site i
 
 The provision of this information shall not be construed in any way as giving business, legal, or other advice, or warranting as fail-proof, the security of information provided via the City's web site.
 
-**Section I. Disclaimer**
+Section I. Disclaimer
 
 The City's web site has many links to other web sites. These include links to web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the City's web site and this Privacy Notice will not apply. When you link to another web site, you are subject to the privacy policy of that new site. Visitors linking to another site are encouraged to examine the privacy policy of that site.
 
 Neither the City, nor any department, officer, or employee of the City warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at his/her own risk.
 
-**Section J. Contact Information**
+Section J. Contact Information
 
 The City is made up of several departments. Each department is responsible for the applications it develops including applications that may gather personally identifying information that you volunteer.
 
 To access your personally identifiable information collected, if any, or request correction of factual errors in your personally identifiable information, contact the Department that requests the information. Contact information can be found on the department's web page and on the City's Citizen Information Guide, <http://www.seattle.gov/citizenservice/infoguide.htm>
 
 To offer comments about the information presented in this Privacy Notice, you can contact:  
-**By e-mail:** [Sam.Foucault@ci.seattle.wa.us](mailto:Sam.Foucault@ci.seattle.wa.us)  
+**By e-mail:** [Sam.Foucault@seattlegov](mailto:Sam.Foucault@seattle.gov)  
 **By telephone:** (206) 684-5952  
 **By fax:** (206) 684-0911  
 **By mail:** Sam Foucault  
+             PO Box 94709  
              700 5th Ave, Suite 2700  
-             Seattle, WA 98104-5065 
+             Seattle, WA 98124-4709 
+
+  
+
