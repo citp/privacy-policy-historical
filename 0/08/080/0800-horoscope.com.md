@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2000-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000608014341id_/http%3A//0800-horoscope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202191400id_/http%3A//www.0800-horoscope.com/privacy.html) for the most accurate reproduction.*
 
 # 0800-horoscope - Privacy Statement
 
@@ -37,7 +37,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
   1. You can send email to [unsubscribe@0800-horoscope.com](mailto:unsubscribe@0800-horoscope.com)
-  2. You can visit the following URL: [http://www.0800-horoscope.com/newsletter.html](https://web.archive.org/web/20000608014341id_/http%3A//0800-horoscope.com/newsletter.html)
+  2. You can visit the following URL: [http://www.0800-horoscope.com/newsletter.html](https://web.archive.org/web/20001202191400id_/http%3A//www.0800-horoscope.com/newsletter.html)
   3. You can send mail to the following postal address:  Euregio.Net AG, Wirtzfeld 140, 4760 Büllingen, Belgium 
 
 
