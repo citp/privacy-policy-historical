@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbtoystore.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207183201id_/http%3A//www.bbtoystore.com/Merchant2/merchant.mvc%3FScreen%3DCTGY%26Category_Code%3DCS_privacy%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbtoystore.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303202948id_/http%3A//www.bbtoystore.com/Merchant2/merchant.mvc%3FScreen%3DCTGY%26Category_Code%3DCS_privacy%23privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: www.bbtoystore.com
 
