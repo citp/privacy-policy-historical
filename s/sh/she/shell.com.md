@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602080906id_/http%3A//www.shell.com/royal-en/privacy/0%2C5025%2Cprivacy%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031191146id_/http%3A//www.shell.com/royal-en/privacy/0%2C5025%2Cprivacy%2C00.html) for the most accurate reproduction.*
 
 # 
 
