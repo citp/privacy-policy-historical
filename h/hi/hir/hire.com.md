@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hire.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602190041id_/http%3A//www.hire.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hire.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024328id_/http%3A//www.hire.com/company/privacy.html) for the most accurate reproduction.*
 
 # Hire.com - Company: Overview
 
@@ -86,7 +86,7 @@ You can choose to electronically forward a job description to someone else by cl
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. During the career section registration process, you have the option to provide a password for your account. General hiring managers use authentication methods to access general searchable data about registrants. Access to the information obtained via registration forms on our site is monitored according to CERT advisories and CERT-recommended pro-active steps are taken to insure the system security.
 
 **Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us. Users may change this information any time and as often as necessary (<http://careers.hire.com/>). You may set your career profile to not receive future communications or to no longer receive our service by logging into your account, selecting the preferences option and deselecting the Notification and Correspondence boxes respectively. A confirmation email of your changes will be sent to you. For registration via our online comments or demonstration requests, please contact us for removal from the list through our Contact Us web page.
+Our site provides users the opportunity to opt-out of receiving communications from us. Users may change this information any time and as often as necessary ([http://careers.hire.com/](https://web.archive.org/careers/frameset.htm)). You may set your career profile to not receive future communications or to no longer receive our service by logging into your account, selecting the preferences option and deselecting the Notification and Correspondence boxes respectively. A confirmation email of your changes will be sent to you. For registration via our online comments or demonstration requests, please contact us for removal from the list through our Contact Us web page.
 
 **Correct/Update**  
 Users may correct/update their career site registration profile, preferences and any submitted resume at any time and as often as necessary at (http://careers.hire.com/). A confirmation email of your changes will be sent to you. To remove your information from our system, please send email to careers-service@hire.com and request removal.
