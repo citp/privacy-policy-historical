@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604092859id_/http%3A//lessonplanspage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207060609id_/http%3A//www.lessonplanspage.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for The Lesson Plans Page
 
