@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tsnn.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209045935id_/http%3A//www2.tsnn.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsnn.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604064854id_/http%3A//www.tsnn.com/privacy.cfm) for the most accurate reproduction.*
 
-# TSNN.com-the ultimate tradeshow resource - Privacy Policy
+# TSNN - The Ultimate Trade Show, Exposition, and Exhibitor Resource - Privacy Policy
 
 TSNN.com is strongly committed to protecting the privacy of members and their products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for conducting business transactions while ensuring that critical business information is protected. 
 
