@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603230151id_/http%3A//www.eddiebauer.com/siteinfo/eb_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215032id_/http%3A//www.eddiebauer.com/siteinfo/eb_security.asp%3Flp%3DM1) for the most accurate reproduction.*
 
-# Eddie Bauer Online Store
+# Eddie Bauer Since 1920
 
 In 1920, Eddie Bauer wrote his business creed, a statement explaining the services he’d provide for his customers. We still follow this same creed today: "To give you such outstanding quality, value, service and guarantee that we may be worthy of your high esteem." Here at Eddie Bauer, we take this promise seriously and we firmly believe in your privacy and the security of your personal information. We are committed to using any information you give us in a responsible manner. You’re very important to us and we want to provide you a safe and secure online experience.
 
