@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xwr.pw privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204010223id_/http%3A//www.pwregistry.pw/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xwr.pw privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306185919id_/http%3A//www.pwregistry.pw/privacy.php) for the most accurate reproduction.*
 
 # PW - Policy Council - Governing the Management of the PW Domain
 
