@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linktv.org privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208172514id_/http%3A//www.linktv.org/about/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linktv.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192916id_/http%3A//linktv.org/about/privacy.php3) for the most accurate reproduction.*
 
 # Link TV - Privacy and Security
 
@@ -42,10 +42,10 @@ This site has security measures in place to protect the loss, misuse and alterat
 **Contact Information**
 
 _1.Choice/Opt-Out_  
-This site gives users the following options for removing their information from our database to not receive future communications: Send email to [webmaster@worldLinkTV.org](mailto:webmaster@worldLinkTV.org)
+This site gives users the following options for removing their information from our database to not receive future communications: Send email to [webmaster@LinkTV.org](mailto:webmaster@LinkTV.org)
 
 _2.Correct/Update_  
-This site gives users the following options for changing and modifying information previously provided: Email: [webmaster@worldLinkTV.org](mailto:webmaster@worldLinkTV.org)
+This site gives users the following options for changing and modifying information previously provided: Email: [webmaster@LinkTV.org](mailto:webmaster@LinkTV.org)
 
 **More Info**
 
