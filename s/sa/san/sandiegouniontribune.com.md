@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiegouniontribune.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202024210id_/http%3A//www.signonsandiego.com/about/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiegouniontribune.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010154412id_/http%3A//www.signonsandiego.com/about/privacy/index.html) for the most accurate reproduction.*
 
 # SignOnSanDiego.com > About us > Privacy Policy
 
