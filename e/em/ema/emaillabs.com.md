@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emaillabs.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205102544id_/http%3A//www.emaillabs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaillabs.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605055246id_/http%3A//emaillabs.com/privacypolicy.html) for the most accurate reproduction.*
 
-# EmailLabs - Advanced Email Campaign Technology
+# Privacy policy - EmailLabs - Uptilt
 
 |   
 ---  
