@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2004-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/762.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/762.html) for the most accurate reproduction.*
 
 # Level 3 Communications, Inc. - Privacy Policy
 
-  |  |        **PRIVACY POLICY**  
+  |  |        **Privacy Policy**  
 ---  
   
-|  | [ Service Brochures](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/549.html)  
+|  | [ Service Brochures](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/549.html)  
 ---|---  
-| [ Support](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/550.html)  
-| [ Sales Inquiries](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/551.html)  
-| [ Technical](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/552.html)  
-| [ Corporate](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/553.html)  
-| [ Investors](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/554.html)  
-| [ Careers](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/555.html)  
-| [ Site Map](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/654.html)  
-| [ Privacy Policy](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/762.html)  
-| [ Acceptable Use Policy](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/764.html)  
-| [ Designation of Agent](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/770.html)  
-| [ Legal Conditions, Terms of Use](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/774.html)  
+| [ Support](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/550.html)  
+| [ Corporate](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/553.html)  
+| [ Investors](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/554.html)  
+| [ Careers](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/555.html)  
+| [ Site Map](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/654.html)  
+| [ Privacy Policy](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/762.html)  
+| [ Acceptable Use Policy](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/764.html)  
+| [ Designation of Agent](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/770.html)  
+| [ Legal Conditions, Terms of Use, and Tariffs](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/774.html)  
   
   
 |  |  | **Level 3 Online Privacy Policy**     
@@ -163,10 +161,6 @@ Level 3
   
   
   
-[
-
-](https://web.archive.org/web/20040217100116id_/http%3A//www.level3.com/559.html)
-
-[]()  
+[](http://www.level3.com/559.html)  
   
  
