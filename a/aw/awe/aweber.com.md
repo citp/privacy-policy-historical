@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626093012id_/http%3A//www.aweber.com/privacy.htm%3Fid%3D201265) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204014300id_/http%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for AWeber Systems, Inc.
 
@@ -26,19 +26,19 @@ All AWeber Affiliate information, including address, phone number, e-mail addres
 |   
 **\- Testimonials -**
 
-"Thanks for your outstanding customer service! 
+So far I have nothing but total praise for your service. Once I got past the initial hesitancy - the sort you get when dealing with any new service - everything was so straightforward and easy.
 
-We implemented your system at the end of July, here we are Sept 27th and we are writing business to the tune of 
+Let me add a further big thank you for your customer support team. **I've made about four calls and every one has been answered pleasantly and very satisfactorily.**
 
-_$1,000_
+Yep, I like the service.
 
-a day thanks to AWeber Systems. A first class product together with first class customer service deserves a mention."  
-  
-_**\-- Stephen Parnell**_  
-_**Development Director**_  
-_**Mortgage Reserve Corporation**_
+  * \- John Cliff
+  * \- Mind Technologies Ltd (UK)
+  * \- 08/08/2003
 
-[Click here](https://web.archive.org/web/20040626093012id_/http%3A//www.aweber.com/testimonials.htm) to read more testimonials for AWeber Systems!  
+
+
+[Click here](https://web.archive.org/web/20041204014300id_/http%3A//www.aweber.com/testimonials.htm) to read more testimonials for AWeber Systems!  
   
 
 
