@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moveandstay.com privacy policy that was archived on 2001-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011006152729id_/http%3A//moveandstay.com/contact_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moveandstay.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601144242id_/http%3A//moveandstay.com/contact_privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Information Policy - Moveandstay.com
 
