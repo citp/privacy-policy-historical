@@ -1,27 +1,6 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605161351id_/http%3A//www.epals.com/privacy/index_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210144931id_/http%3A//www.epals.com/privacy) for the most accurate reproduction.*
 
 # ePALS Classroom Exchange Privacy Policy
-
-| [**Products and  
-Services**](https://web.archive.org/solutions/index_en.html)  
----  
-Put ePALS expertise to work for you.  
-[**Communication  
-Tools**](https://web.archive.org/tools/)  
-Get in touch and stay in touch with ePALS' tools.  
-[**Teaching with  
-ePALS**](https://web.archive.org/teaching/)  
-Making education and ePALS easier for you.  
-[**Events**](https://web.archive.org/events/)  
-Current happenings and memorable moments.  
-[**Support**](https://web.archive.org/support/)  
-Help materials and ePALS Support.  
-[**About ePALS**](https://web.archive.org/about/)  
-FAQ, media, awards, partners and more...  
-  
-  
-|    **ePALS Classroom Exchange  
-Privacy Policy**
 
 [](https://www.truste.org/validate/6371)
 
@@ -41,7 +20,7 @@ Members can register in two ways - either directly or through an educator or par
 
 Members who register themselves are asked to fill out a form that requests some basic information. Student members are asked for their first name; members registering as parents, educators or higher education students are asked to provide a last name as well. All members are required to choose a username and password. We require the member's birthdate and country in order to determine if parental consent is required and what protocols to follow in order to obtain that consent. If the member's given age is under 13 years, we require the member to provide us with the email address of their parent or guardian. This email address is used to obtain consent from that parent or guardian before the registration process can continue.
 
-For those users who are under 13 years of age, the self pre-registration process stops here. An email is sent to the child's parent or guardian, requesting that they consent to their child becoming a member of ePALS. ([Click here to view the notification message sent to parents](https://web.archive.org/privacy/parent_email_en.html).) We do not activate the username, open an email account, send a newsletter or otherwise permit the child to become a member until we have received verifiable parental consent. If we do not receive consent within 30 days, we delete all of the information we collected from the child (including the parental contact information).
+For those users who are under 13 years of age, the self pre-registration process stops here. An email is sent to the child's parent or guardian, requesting that they consent to their child becoming a member of ePALS. ([Click here to view the notification message sent to parents](https://web.archive.org/privacy/parent_email.tpl).) We do not activate the username, open an email account, send a newsletter or otherwise permit the child to become a member until we have received verifiable parental consent. If we do not receive consent within 30 days, we delete all of the information we collected from the child (including the parental contact information).
 
 Parents can provide consent for their children to use ePALS either by telephone, fax, or postal mail. Complete instructions are provided in the parental consent form available at [http://www.epals.com/privacy/forms/](https://web.archive.org/privacy/forms/). To provide consent by telephone, parents can call toll free from North America: 1-888-450-2332, or direct: 1-613-562-2332 and follow the instructions given. To provide consent by fax or post, parents should fill out the parental consent form, sign it and either fax it toll free from North America to 1-888-201-2332 (direct to 1-613-562-4768) or mail it to:
 
@@ -158,4 +137,4 @@ Canada
 K1N 7G1   
 Tel.: (613) 562-9847  
 Fax: (613)562-4768   
-Email: [support@epals.com](mailto:support@epals.com) | 
+Email: [support@epals.com](mailto:support@epals.com)
