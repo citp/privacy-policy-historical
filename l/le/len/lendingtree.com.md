@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205122347id_/http%3A//www.lendingtree.com/stm/aboutlt/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614073636id_/http%3A//www.lendingtree.com/stm/aboutlt/privacy/privacy.asp) for the most accurate reproduction.*
 
 # LendingTree -- Privacy Policy
 
@@ -28,7 +28,6 @@ If you have questions or concerns regarding this statement, you should first con
   *  **Technical information we collect.** In order for us to ensure that we are providing the best possible consumer experience on a LendingTree Web site, we collect and track certain user information. More details…
   *  **Information from surveys.** You may complete a survey from LendingTree online. Participation in surveys is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details…
   *  **Information from the "Contact Us" section of a LendingTree Web site.** You may contact LendingTree through the "Contact Us" feature. Participation in this area is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details…
-  *  **Information we collect when you are a member of the LendingTree Privileges.** LendingTree and our authorized Privileges partners may collect information from you through our membership center. Participation in this area is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details…
   *  **Information gathered from Lenders.** The "Lenders" section of our Web sites contain information for Lenders who wish to join The LendingTree Network or license our Lend-XSM technology. More details…
   *  **Information gathered from Real Estate brokers.** The "Real Estate Network" section of our Web sites contain information for Real Estate brokers who wish to join the LendingTree Realty Services Network. More details…
   *  **Information gathered from the "Affiliates" section of a LendingTree Web site.** The "Affiliates" section contains information for affiliates who wish to join the LendingTree Affiliate Program and advertise LendingTree's service on their site. If you would like to be an affiliate, you may submit an application containing personal information such as your name, e-mail address, telephone number and address. If you use LendingTree's service through an affiliate site, under no circumstances will an affiliate ever see your information. More details…
@@ -78,19 +77,22 @@ LendingTree also utilizes Web Logs to track aggregate information about how our 
 
 If you come to the LendingTree web site from an online banner ad, an anonymous identification number may be passed to our site. This information cannot be used to gather any personally identifiable information about you. It will only allow us to track the overall effectiveness of our online advertising campaigns. Our partners in this program are listed below, along with links to their sites to access privacy policies and opt-out information.
 
-Advertising.com: 
+Commission Junction: 
 
-<http://www.advertising.com/privacy_policy.htm>
-
-Commission Junction: <http://www.cj.com/privacy.jsp>
+<http://www.cj.com/privacy.jsp>
 
 BeFree: <http://www.befree.com/privacy.htm>
 
 Yahoo: <http://privacy.yahoo.com/privacy/us/>
 
+MSN: [http://privacy.msn.com](http://privacy.msn.com/)
+
+AtlasDMT: <http://www.atlasdmt.com/privacy/general.asp>
+
+AOL: <http://www.aol.com/info/privacy.adp>
+
   * **Information from surveys.** Every survey presented to you will include specific instructions regarding how your information may be shared. By clicking the "Submit" button at the end of the survey, you authorize LendingTree to share your data in the manner outlined on the survey.
   * **Information from the "Contact Us" section of a LendingTree Web site.** In the "Contact Us" form, we may ask you for personally identifiable information such as your name, mailing address, email address, etc. This information will not be sold to any person or organization. However, your information may be shared with other parties relevant to your transaction to help resolve any issues you report to us.
-  * **Information we collect when you use LendingTree Privileges.** When you use our Privileges program, we may ask you for personally identifiable information such as your name, mailing address, email address, etc. The LendingTree Privileges is produced with partners who will only use the information to provide the Privileges services and benefits. This information will not be sold or shared with any person or organization for marketing purposes.
   * **Information gathered from Lenders.** If you are a Lender and you submit one or both of the forms requesting more information, your name and other identifying information will not be sold or shared with any person or organization. Your e-mail address or telephone number may be used by authorized LendingTree employees to contact you concerning your request.
   * **Information gathered from Real Estate brokers.** If you are a Real Estate broker and you submit the form requesting more information, your name and other identifying information will not be sold or shared with any person or organization. Your e-mail address or telephone number may be used by authorized LendingTree employees to contact you concerning your request.
   * **Information gathered from the "Affiliates" section of a LendingTree Web site.** Information submitted through the "Affiliate" section of our Web sites will be shared with BeFree, our affiliate software provider. BeFree provides the software that enables LendingTree to develop and manage our LendingTree Affiliate Program. LendingTree and BeFree do not sell or share your information with any other person or organization. You can review BeFree's privacy policy at their website [[http://www.befree.com/privacy.htm]](http://www.befree.com/privacy.htm)
@@ -130,7 +132,7 @@ If you have questions or concerns regarding this statement, you should first con
 If we make a change to our Privacy Policy in the future that will affect how we treat your information, we will notify you of the change. In that case, your ability to opt out of the new policy will be determined by applicable laws and we will include that information in our notification. If the change impacts how we use your information, we will notify you even if you have requested that we not contact you.
 
 **This Privacy Policy was last updated on  
-August 21, 2003**
+May 06, 2004**
 
 Download this document in Adobe Acrobat (PDF) format. 
 
