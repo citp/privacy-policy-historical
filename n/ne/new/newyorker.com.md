@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorker.com privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219172912id_/http%3A//newyorker.com/site/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorker.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603160625id_/http%3A//newyorker.com/site/privacypolicy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines: NewYorker.com Privacy Policy
 
