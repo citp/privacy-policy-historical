@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badpuppy.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617054651id_/http%3A//www.badpuppy.com/copyright/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badpuppy.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215012900id_/http%3A//badpuppy.com/copyright/privacystatement.asp) for the most accurate reproduction.*
 
 # Badpuppy.com - Privacy Statement
 
@@ -65,5 +65,5 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact William G PinyonBadpuppy Enterprises, Inc414 High Point DriveCocoa, FL 32926rivers@badpuppy.com [© 1995-2000 BEI](http://www.badpuppy.com/copyright)  
-Serving the Gay and Lesbian community since May 17, 1995
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact William G PinyonBadpuppy Enterprises, Inc414 High Point DriveCocoa, FL 32926rivers@badpuppy.com © 1995-2000 BEI  
+Continuously online since May 17, 1995
