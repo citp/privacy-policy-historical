@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalonebowl.com privacy policy that was archived on 2004-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040223010633id_/http%3A//sports.espn.go.com/espn/capitalone/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalonebowl.com privacy policy that was archived on 2004-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041129024316id_/http%3A//sports.espn.go.com/espn/capitalone/privacy) for the most accurate reproduction.*
 
 # Safeguarding your privacy
 
