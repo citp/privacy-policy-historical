@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603185731id_/http%3A//www.smud.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216191212id_/http%3A//www.smud.org/info/privacy.html) for the most accurate reproduction.*
 
 # SMUD information
 
-> **TERMS OF USE  
-**By using this site, user acknowledges and accepts all terms of use outlined herein. User understands unauthorized attempts to upload or change information on this web site is prohibited under the [ Computer Fraud and Abuse Act of 1986](http://www.scccd.cc.ca.us/pages/use_pol/cfaa1986.html).
+> **TERMS OF USE**
 
-**COPYRIGHT  
-General**The Communication & Advertising Services department of Sacramento Municipal Utility District (SMUD) produces and maintains this web site as a public service. Information on this web site is considered public information, but may not be copied or distributed without prior permission except:
+By using this site, user acknowledges and accepts all terms of use outlined herein. User understands unauthorized attempts to upload or change information on this web site is prohibited under the [ Computer Fraud and Abuse Act of 1986](http://www.scccd.cc.ca.us/pages/use_pol/cfaa1986.html).
+
+**COPYRIGHT**
+
+**General** The Communication & Advertising Services department of Sacramento Municipal Utility District (SMUD) produces and maintains this web site as a public service. Information on this web site is considered public information, but may not be copied or distributed without prior permission except:
 
 1\. where specific information or material is identified as available for distribution;
 
-2\. 
-
-where a single copy of the information is downloaded or printed for personal use;
+2\. where a single copy of the information is downloaded or printed for personal use;
 
 3\. under "fair use" provisions of applicable law.
 
@@ -23,7 +23,7 @@ Use or modification of materials or information for commercial or profit making 
 
 Sacramento Municipal Utility District reserves all rights for these registered service marks: The Power To Do MoreSM, GreenergySM, and Community SolarSM.
 
-Sacramento Municipal Utility District reserves all rights in use of the District [logo](https://web.archive.org/web/20010603185731id_/http%3A//www.smud.org/images/logo1.gif)
+Sacramento Municipal Utility District reserves all rights in use of the District [logo](https://web.archive.org/web/20011216191212id_/http%3A//www.smud.org/images/logo1.gif)
 
 **THIRD PARTY MATERIALS **
 
@@ -55,13 +55,13 @@ Collected information includes your internet service provider address, your brow
 
 **Information that can be used to identify individual users**
 
-Sensitive customer information will never be stored on our web server or in [cookies](https://web.archive.org/web/20010603185731id_/http%3A//www.smud.org/info/cookie.html). Customer information will only be used for SMUD purposes and will be treated with the same security precautions as data gathered by other means (i.e., telephone, written forms, mail-in information, etc.). Information will **not** be given to outside entities, such as contractors, direct marketers, or other non-SMUD public or private sector organizations.
+Sensitive customer information will never be stored on our web server or in [cookies](https://web.archive.org/web/20011216191212id_/http%3A//www.smud.org/info/cookie.html). _**Generally**_ **,** customer information will only be used for SMUD purposes and will be treated with the same security precautions as data gathered by other means (i.e., telephone, written forms, mail-in information, etc.). **_As a general rule_** information will **not** be given to outside entities, such as contractors, direct marketers, or other non-SMUD public or private sector organizations **_except when we have your permission or under special circumstances,_ **such as when we believe in good faith that the law requires it or in the good faith belief that such action is necessary to (i) protect and defend the rights and property of SMUD and (ii) act in an emergency to protect the personal safety of our customers or the public.
 
 1\. **Registration forms** for Energy & Technology Center classes, sign-up for specific SMUD programs, or requests for specific information may request a user to submit their name, phone number, fax number, street address, e-mail address, account number, or other information that can be used to identify that individual.
 
 2\. **Customer contests** may require specific information that can be used to identify that individual.
 
-3\. This site may use ****[cookies](https://web.archive.org/web/20010603185731id_/http%3A//www.smud.org/info/cookie.html) to deliver personalized content, remember your entries on interactive pages, surveys, or passwords. 
+3\. This site may use ****[cookies](https://web.archive.org/web/20011216191212id_/http%3A//www.smud.org/info/cookie.html) to deliver personalized content, remember your entries on interactive pages, surveys, or passwords. 
 
 4. **E-mail addresses** will only be used to respond to specific customer requests.
 
@@ -71,7 +71,7 @@ Users have the opportunity to **opt-out** of receiving communications from SMUD 
 
 > Wanda Hardy  
 >  Sacramento Municipal Utility District  
->  P.O. Box 15830 MS-B104  
+>  P.O. Box 15830 MS-A306  
 >  Sacramento, CA 95852-1830  
   
 ---|---  
@@ -102,7 +102,7 @@ Currently, this web site does not collect personal information from children und
 > 
 > **Fax: (916) 732-6229.**
 
-Students 13 years of age and older may request information or register to attend SMUD's Science on Saturday or Summer Science classes in the Energy & Technology Center through [this web site](https://web.archive.org/web/20010603185731id_/http%3A//www.smud.org/education/classes/summer.html). Collected information may be used to correspond with the student, and may include: 
+Students 13 years of age and older may request information or register to attend SMUD's Science on Saturday or Summer Science classes in the Energy & Technology Center through [this web site](https://web.archive.org/web/20011216191212id_/http%3A//www.smud.org/education/classes/summer.html). Collected information may be used to correspond with the student, and may include: 
 
   
 **Name**
@@ -112,6 +112,9 @@ Students 13 years of age and older may request information or register to attend
 **Phone number**
 
 **E-mail address**
+
+  
+
 
 Information may be used by SMUD to insure successful participation in the activity and to track schools participating in SMUD educational programs, and may include:
 
@@ -150,7 +153,7 @@ Parents can review their child's personal information, ask to have it deleted an
 
 |  Wanda Hardy  
 Sacramento Municipal Utility District  
-P.O. Box 15830 MS-B104  
+P.O. Box 15830 MS-A306  
 Sacramento, CA 95852-1830   
 ---|---  
   
@@ -165,12 +168,51 @@ E-mail:
   
 Identity of the requesting parent will be verified by SMUD using your account number by e-mail, phone call, or written letter.
 
-[Cookies](https://web.archive.org/web/20010603185731id_/http%3A//www.smud.org/info/cookie.html) may be used for remembering user input on interactive pages, such as games.
+[Cookies](https://web.archive.org/web/20011216191212id_/http%3A//www.smud.org/info/cookie.html) may be used for remembering user input on interactive pages, such as games.
 
-[SMUD privacy statement for children](https://web.archive.org/web/20010603185731id_/http%3A//www.smud.org/info/child_privacy.html)
+[SMUD privacy statement for children](https://web.archive.org/web/20011216191212id_/http%3A//www.smud.org/info/child_privacy.html)
 
+**SECURITY STATEMENT**
+
+The Sacramento Municipal Utility District has created this security statement in order to demonstrate our firm commitment to security.
+
+This site has security measures in place to protect the loss, misuse, and alteration of the information under its control. 
+
+**SSL security is implemented at any stage of the information gather process that requires personal information. **
+
+**Secure Socket Layer,** SSL is a security protocol used for securing communications on the web. This protocol was originally developed by Netscape Communications and has now become an industry standard. 
+
+A  **protocol** is a set of rules or procedures.
+
+SSL technology takes a message and runs it through a set of steps that "scramble" the message. This is done so that the message cannot be read while it is being transferred. 
+
+This "scrambling" is called **Encryption**. When the message is received by the intended recipient, SSL unscrambles the message, checks that it came from the correct sender [ **"Server Authentication"** ] and then verifies that it has not been tampered with [ **"Message Integrity** "].
+
+Your browser will give an indication that SSL security is being used by showing some sort of icon in the status bar area (e.g., a blue key or a closed lock icon) of your screen. See your browser's documentation for more information.
+
+If you have any questions about this security statement or the practices of this site, you can contact:
+
+| 
+
+> Wanda Hardy  
+>  Sacramento Municipal Utility District  
+>  P.O. Box 15830 MS-A306  
+>  Sacramento, CA 95852-1830  
+  
+---|---  
+  
+Phone:  
+E-mail: 
+
+| 
+
+> 916.732-5135  
+>  [whardy@smud.org ](mailto:whardy@smud.org%20)  
+  
 **POLICY UPDATES**
 
 Changes to SMUD legal notices and web policies will be posted on this page.
 
-**ACCESSIBILITY** It is intended that all information on this web site be accessible to all visitors. If you use a voice browser you may request a text version of PDF files and the Greenergysm Power Content label. Send requests for text files and report other page formatting problems to [whardy@smud.org](mailto:whardy@smud.org).
+**ACCESSIBILITY**
+
+It is intended that all information on this web site be accessible to all visitors. If you use a voice browser you may request a text version of PDF files and the Greenergysm Power Content label. Send requests for text files and report other page formatting problems to [whardy@smud.org](mailto:whardy@smud.org).
