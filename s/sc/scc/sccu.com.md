@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sccu.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606033215id_/http%3A//www.sccu.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sccu.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205112055id_/http%3A//www.sccu.com/privacy.asp) for the most accurate reproduction.*
 
 # SCCU.COM - Privacy Policy
 
@@ -19,6 +19,6 @@ We do not disclose any non-public personal information about our members and for
 We may disclose information about you and our former members to the following types of third parties: 
 
 Financial service providers, such as those that provide quality assurance, mortgage, securities, and insurance services.
-We may disclose all of the information that we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. To protect our members' privacy, we only work with companies that agree to maintain strong confidentiality protections and limit the use of the information we provide. We do not permit these companies to sell to other third parties the information we provide to them. 
+We may disclose all of the information that we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. To protect our members' privacy, we only work with companies that agree to maintain strong confidentiality protections and limit the use of the information we provide. We do not permit these companies to sell or distribute to other third parties the information we provide to them. 
 
 We restrict access to information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal and state laws and regulations to guard your information. 
