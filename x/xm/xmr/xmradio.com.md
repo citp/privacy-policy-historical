@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmradio.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204112952id_/http%3A//xmradio.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmradio.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204173048id_/http%3A//www.xmradio.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # XM Radio - Privacy Policy
 
@@ -37,6 +37,8 @@ Our website may contain links to other websites. We are not responsible for the 
 **DO WE COLLECT INFORMATION ABOUT CHILDREN?**
 
 You must be at least eighteen years old to register online for our services, games, contests and promotions. If you are a minor (under the age of eighteen), please do not submit any personally identifiable information to us. 
+
+We don't knowingly collect, maintain, or use personal information from our websites about children under age 13. If a child who we know to be under age 13 sends personal information to us online, we will only use that information to respond directly to that child, notify parents, or seek parental consent. 
 
 **HOW SECURE IS THE WEBSITE?**
 
