@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the upromise.com privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603032630id_/http%3A//www.upromise.com/corp/privacy.html%3Fcx%3Df) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upromise.com privacy policy that was archived on 2004-08-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040804182023id_/http%3A//www.upromise.com/corp/privacy.html%3Fcx%3Df) for the most accurate reproduction.-->
 
 <html><head>
 <title>Upromise - Privacy Statement and Principles</title>
@@ -30,9 +30,9 @@ var usrUsername=usr.substring(0,pipe1);
 var usrShopID=usr.substring(pipe1+1,pipe2);
 var usrFirstName=usr.substring(pipe2+1,pipe3);
 }
-var joinLink = '<a href="/secure/8000.do?cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree15.gif" alt="JOIN FREE" vspace=0 hspace=10 border=0 align=absmiddle></a>';
-var loginLink = '<a href="/displayServlet?su=8300&cx=l0"><img src="http://im.upromise.com/images/nav/l0-login.gif" alt="Login" vspace=0 hspace=10 border=0 align=absmiddle></a>';
-var logoutLink = '<a href="/displayServlet?su=8107&cx=l0"><img src="http://im.upromise.com/images/nav/l0-logout.gif" alt="Logout" vspace=0 hspace=10 border=0 align=absmiddle></a>';
+var joinLink = '<a href="/secure/8000.do?cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree17.gif" alt="JOIN FREE" border="0" align="absmiddle"></a>';
+var loginLink = '<a href="/displayServlet?su=8300&cx=l0"><img src="http://im.upromise.com/images/nav/l0-login17.gif" alt="Login" border="0" align="absmiddle"></a>';
+var logoutLink = '<a href="/displayServlet?su=8107&cx=l0"><img src="http://im.upromise.com/images/nav/l0-logout17.gif" alt="Logout" border="0" align="absmiddle"></a>';
 var mode = getCookie("mode");
 var modeLink = joinLink + loginLink;
 if (isUsr) { modeLink = loginLink; }
@@ -93,34 +93,38 @@ if ((sx > 0) && (sx + 4 < thisUrl.length)) {
 <table width="760" border="0" cellspacing="0" cellpadding="0" class="areal0">
   <tbody><tr class="areal0">
      <td align="left" valign="top" width="9"><img src="http://im.upromise.com/images/nav/l0-leftcorner.gif" width="9" height="9"></td>
-     <td align="left" valign="middle" nowrap="" width="260" height="49"><a href="/index.html?cx=l0"><img src="http://im.upromise.com/images/nav/l0-uplogo15.gif" width="149" height="39" border="0"><script language="JavaScript" type="text/javascript">if (getCookie("aol") != null) {document.write('<img src="http://im.upromise.com/images/nav/l0-aollogo15.gif" width="95" height="39" border="0">')}</script></a></td>
-     <td align="left" class="smalltext"><script language="JavaScript1.1">
-     if (isUsr) {
-     	var displayFirstName;
-      	var now = new Date();
-     	displayFirstName = (usrFirstName!=null&&usrFirstName.length>1)?usrFirstName:usrUsername;
-     	document.write("Welcome, <b>" +	displayFirstName + "</b>.");
-     	if (mode < 1) {
-             document.write("<span class=\"smalltext\"> " +
-             "(Not " + displayFirstName + "? " +
-             "Click <a href=\"/secure/8101.0.do\">here</a>.)</span>");
-         }
-     } else {
-     	document.write("Welcome, <b>Guest</b>.");
-     }
-     </script>Welcome, <b>Guest</b>.</td>
-     <td align="right" nowrap="" class="smalltext">
-<script language="JavaScript">document.write(modeLink);</script><a href="/secure/8000.do?cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree15.gif" alt="JOIN FREE" vspace="0" hspace="10" border="0" align="absmiddle"></a><a href="/displayServlet?su=8300&amp;cx=l0"><img src="http://im.upromise.com/images/nav/l0-login.gif" alt="Login" vspace="0" hspace="10" border="0" align="absmiddle"></a>
-<noscript><a href="/displayServlet?su=8300&cx=l0">Login</a> / <a href="/displayServlet?su=8107&cx=l0">Logout</a></noscript>
-<a href="/content/faq/index.html?cx=l0"><img src="http://im.upromise.com/images/nav/l0-help.gif" border="0" width="38" align="absmiddle" hspace="20" height="12"></a>
-    </td>
-    <td align="right" valign="top"><img src="http://im.upromise.com/images/nav/l0-rightcorner.gif" width="9" height="9"></td>
+     <td align="left" valign="middle" nowrap="" width="260" height="49"><a href="/index.html?cx=l0"><img src="http://im.upromise.com/images/nav/l0-uplogo15.gif" width="149" height="39" border="0"><script language="Javascript1.1" type="text/javascript">if (getCookie("aol") != null) {document.write('<img src="http://im.upromise.com/images/nav/l0-aollogo15.gif" width="95" height="39" border="0">')}</script></a></td>
+     <td align="right">
+      <table align="right" border="0" cellspacing="0" cellpadding="0" class="areal0">
+       <tbody><tr>
+        <td><script language="JavaScript1.1" type="text/javascript">
+        if (isUsr) {
+        	var displayFirstName;
+         	var now = new Date();
+        	displayFirstName = (usrFirstName!=null&&usrFirstName.length>1)?usrFirstName:usrUsername;
+        	document.write("Welcome,&nbsp;<b>" +	displayFirstName + "</b>. ");
+        	if (mode < 1) {
+                document.write("(Not&nbsp;" + displayFirstName + "?&nbsp;" +
+                "Click&nbsp;<a href=\"/secure/8101.0.do\">here</a>.)</span>");
+            }
+        } else {
+        	document.write("Welcome, <b>Guest</b>.");
+        }
+        </script>Welcome, <b>Guest</b>.</td>
+	<td>&nbsp;|&nbsp;<a href="/index.html?cx=l0">Home</a>&nbsp;|&nbsp;<a href="/content/faq/index.html?cx=l0">Help</a></td>
+        <td id="l0buttons">
+	 <script language="JavaScript1.1" type="text/javascript">document.write(modeLink);</script><a href="/secure/8000.do?cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree17.gif" alt="JOIN FREE" border="0" align="absmiddle"></a><a href="/displayServlet?su=8300&amp;cx=l0"><img src="http://im.upromise.com/images/nav/l0-login17.gif" alt="Login" border="0" align="absmiddle"></a>
+	 <noscript><a href="/displayServlet?su=8300&cx=l0">Login</a> / <a href="/displayServlet?su=8107&cx=l0">Logout</a></noscript>
+	</td>
+       </tr>
+      </tbody></table>
+     </td>
+     <td align="right" valign="top"><img src="http://im.upromise.com/images/nav/l0-rightcorner.gif" width="9" height="9"></td>
   </tr>
 </tbody></table>
-<img src="http://im.upromise.com/images/nav/l1-new.gif" style="position:absolute;left:462px;top:51px" width="37" height="13">
 <table width="760" border="0" cellspacing="0" cellpadding="0" class="areal1">
 <tbody><tr class="areal1">
-<td colspan="4" valign="bottom"><a href="/displayServlet?su=8300&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-myact.gif" alt="My Account" border="0"></a><a href="/8720.do?cx=l1"><img src="http://im.upromise.com/images/nav/l1-hiw.gif" alt="How It Works" border="0"></a><a href="/8650.do?cx=l1"><img src="http://im.upromise.com/images/nav/l1-family.gif" border="0" alt="Family &amp; Friends"></a><img src="http://im.upromise.com/images/1.gif" width="16" height="1" alt="" border="0"><a href="/nspage?su=8277&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-grocery.gif" alt="Grocery &amp; Drug" border="0"></a><a href="/nspage?su=8210&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-stores.gif" alt="Stores &amp; Services" border="0"></a><a href="/dining"><img src="http://im.upromise.com/images/nav/l1-rest.gif" alt="Dining" border="0"></a><a href="/9850.do?cx=l1"><img src="http://im.upromise.com/images/nav/l1-travel.gif" alt="Travel" border="0"></a><a href="/nspage?su=8230&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-olm.gif" alt="Online Shopping" border="0"></a><img src="http://im.upromise.com/images/1.gif" width="16" height="1" alt="" border="0"><a href="/content/savingsplans/index.html?cx=l1"><img src="http://im.upromise.com/images/nav/l1-529.gif" alt="529 Plans" border="0"></a><a href="/content/loans/loans.htm?cx=l1"><img src="http://im.upromise.com/images/nav/l1-loans.gif" alt="Student Loans" border="0"></a></td>
+<td colspan="4" valign="bottom"><a href="/displayServlet?su=8300&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-myact.gif" alt="My Account" border="0"></a><a href="/8720.do?cx=l1"><img src="http://im.upromise.com/images/nav/l1-hiw.gif" alt="How It Works" border="0"></a><a href="/8650.do?cx=l1"><img src="http://im.upromise.com/images/nav/l1-family.gif" border="0" alt="Family &amp; Friends"></a><img src="http://im.upromise.com/images/1.gif" width="16" height="1" alt="" border="0"><a href="/nspage?su=8277&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-grocery.gif" alt="Grocery &amp; Drug" border="0"></a><a href="/nspage?su=8210&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-stores.gif" alt="Stores &amp; Services" border="0"></a><a href="/dining"><img src="http://im.upromise.com/images/nav/l1-rest.gif" alt="Dining" border="0"></a><a href="/9850.do?cx=l1"><img src="http://im.upromise.com/images/nav/l1-travel.gif" alt="Travel" border="0"></a><a href="/shop?&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-olm.gif" alt="Online Shopping" border="0"></a><img src="http://im.upromise.com/images/1.gif" width="16" height="1" alt="" border="0"><a href="/8846.do?cx=l1"><img src="http://im.upromise.com/images/nav/l1-529.gif" alt="529 Plans" border="0"></a><a href="/content/loans/loans.htm?cx=l1"><img src="http://im.upromise.com/images/nav/l1-loans.gif" alt="Student Loans" border="0"></a></td>
 </tr>
 </tbody></table>
 <table width="760" border="0" cellspacing="0" cellpadding="0" class="areal2">
@@ -192,7 +196,7 @@ if ((sx > 0) && (sx + 4 < thisUrl.length)) {
      <a href="#secure">Security</a><br>
      </td>
      <td class="text" align="left">
-     <br>
+     Last Updated: June 20, 2004
      <br>
      <br>
      <br>
@@ -262,9 +266,11 @@ if ((sx > 0) && (sx + 4 < thisUrl.length)) {
   	<a name="cookies"></a><p><b>Use of Cookies and other Technologies</b><br><br>
   	Our web servers place and read "cookies" on our site's visitors' computers for a variety of purposes. Cookies are small data files that are stored on an Internet user's computer by a web server. One important use of cookies is to help identify you while you are logged in to the Upromise site. Consequently, if your browser does not accept session cookies, you will be unable to enroll or log in to our service using our site. You will, however, be able to browse our site as a visitor. The information Upromise collects from cookies and web server logs is used to administer the web service and customize information you receive when visiting our site. Upromise may also use and share aggregate information from cookies and web server logs to analyze and improve our web service offerings.  This information does not identify individual visitors or customers.
   	
-  	</p><p class="text">We, certain third parties who host portions of our web site, and certain advertising affiliates or others employ small pieces of code known as "web beacons" or "clear gifs" that, on an anonymous basis, count users that have visited a page that contains these web beacons.  We use web beacons to help us better manage content on our site and to determine which content is effective.  In addition, third party advertising affiliates and others may use web beacons to help us track the effectiveness of our advertisements placed on third party web sites.   Web beacons on our site our not used to collect personally identifiable information about our customers, and the limited information they do collect is not tied to our customers' personally identifiable information.  Finally, we use web beacons in our HTML-based emails to let us know which emails have been opened by recipients so that we may gauge the effectiveness of our communications.  If you would like to opt-out of these emails, please see "Choices Regarding the Receipt of Marketing Messages."
+  	</p><p class="text">As is true of most web sites, we gather certain information automatically and store it in log files.  This information includes the internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  We use this information to analyze trends, to administer our web site, to track users' movements around the web site and to gather demographic information about our user base as a whole.
   	
-  	</p><p class="text">As is true of most web sites, we gather certain information automatically and store it in log files.  This information includes the internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  We use this information, which does not identify individual users, to analyze trends, to administer our web site, to track users' movements around the web site and to gather demographic information about our user base as a whole.  This automatically-collected data is not linked to customers' personally identifiable information.  In addition, we occasionally employ third-party tracking services that use cookies and/or web beacons to track non-personally identifiable information about visitors to our site in the aggregate to analyze trends and the effectiveness of our web site.
+  	</p><p class="text">We, certain third parties who host portions of our web site, and certain advertising affiliates or others employ cookies and/or small pieces of code known as "web beacons" or "clear gifs" that, on an anonymous basis, count users that have visited a page that contains these web beacons.  We use web beacons to help us better manage content on our site and to determine which content is effective.  In addition, third party advertising affiliates and others may use web beacons to help us track the effectiveness of our advertisements placed on third party web sites.   Web beacons on our site are not used to collect personally identifiable information about our customers. Finally, we use web beacons in our HTML-based emails to let us know which emails have been opened by recipients so that we may gauge the effectiveness of our communications.  If you would like to opt-out of these emails, please see "Choices Regarding the Receipt of Marketing Messages."<br><br>
+  	If you have chosen to receive marketing messages from us about our products and services, we may use information from our log files, cookies or web beacons to help us make those communications more useful or interesting to you.<br><br>
+  	<i>We also contract with Coremetrics, a third-party service provider, which uses these technologies to assist us in tracking site usage.  As a result of your accessing our site, Coremetrics may on our behalf collect information about you.  This service allows us to better provide our product or service to you.  Coremetrics does not have the right to use the information they receive beyond what is necessary to assist us.  For further information, including how to opt out, consult Coremetrics' privacy policies at: <a href="http://www.coremetrics.com/info_eluminate2.html" target="_blank">www.coremetrics.com/info_eluminate2.html</a></i>.
   	
   	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
   	
@@ -351,9 +357,7 @@ if ((sx > 0) && (sx + 4 < thisUrl.length)) {
   	If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please </a><a href="/nspage?su=8105">contact us</a> by email or at Upromise, Inc., Customer Care - Privacy Policy Issues, 117 Kendrick Street, Needham, MA 02494.
   	
   	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
-  	
-  	<p>Last Updated: April 28, 2004<br>
-    </p></td>
+    </td>
   
    </tr>
   </tbody></table>
@@ -406,6 +410,20 @@ if ((sx > 0) && (sx + 4 < thisUrl.length)) {
   <td width="1"><img src="http://im.upromise.com/images/1.gif" width="1" height="10" alt="" border="0"></td>
  </tr>
 </tbody></table>
+<!-- BEGIN COREMETRICS SUPPORT (html version) -->
+<script language="JavaScript1.1" type="text/javascript" src="http://im.upromise.com/js/coremetrics/eluminate.js"></script>
+<script language="JavaScript1.1" type="text/javascript">var cmJv="1.1";</script>
+<script language="JavaScript1.2" type="text/javascript">var cmJv="1.2";</script>
+<script language="JavaScript1.3" type="text/javascript">var cmJv="1.3";</script>
+<script language="JavaScript1.4" type="text/javascript">var cmJv="1.4";</script>
+<script language="JavaScript1.5" type="text/javascript">var cmJv="1.5";</script>
+<script language="JavaScript1.1" type="text/javascript" src="http://im.upromise.com/js/coremetrics/techprops.js"></script>
+<script language="JavaScript1.1" type="text/javascript" src="http://im.upromise.com/js/coremetrics/cmdatatagutils.inc"></script>
+<script language="JavaScript1.1" type="text/javascript" src="/js/coremetrics/setEnv.js"></script>
+<script language="JavaScript1.1" type="text/javascript">
+ cmCreateDefaultTechPropsTag();
+</script>
+<!-- END COREMETRICS -->
 
 
 <!--<%=com.upromise.app.util.WebUtil.getJSPDataAsXML(fsirequest, true)%>-->
