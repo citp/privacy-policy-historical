@@ -1,85 +1,84 @@
-> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613183007id_/http%3A//www.dogomania.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203163800id_/http%3A//www.dogomania.com/privacy.shtml) for the most accurate reproduction.*
 
-# Dog-O-Mania - The biggest dogs related search engine & resource
+# Dog-O-Mania - The biggest dogs related search engine & resource: Privacy policy
 
-[](http://www.dogomania.com/)
+[](http://www.dogomania.com/index.shtml)
 
-**Search:**  
-\- [Add a page](http://www.dogomania.com/addurl.html)  
-\- [Search options](http://www.dogomania.com/features.html)  
-\- [Search box](http://www.dogomania.com/searchbox.html)  
-\- [System statistics](http://www.dogomania.com/stats.htm)
+**Main menu:**  
+\- [Feedback](http://www.dogomania.com/contact.shtml)  
+\- [Advertising](http://www.dogomania.com/advertising.shtml) New!  
+\- [Privacy policy](http://www.dogomania.com/privacy.shtml)  
+\- [Survey](http://38.148.250.3/cgi-win/client.exe?readers,welcome,ad5378a,1001) New!  
+\- [News](http://www.dogomania.com/news/)  
+\- [Newsletter](http://www.dogomania.com/newsletter.shtml)  
+\- [Awards](http://www.dogomania.com/awards/awards.shtml) New!
 
 **Breeds:**  
-\- [Breeds](http://www.dogomania.com/breeds.htm)  
-\- [Gallery](http://www.dogomania.com/gallery.html)  
-\- [Standards](http://www.dogomania.com/standards.html)  
-\- [Breeders](http://www.dogomania.com/breeders.html)
+\- [Breeds](http://www.dogomania.com/breeds.shtml)  
+\- [Breeders](http://www.dogomania.com/gallery/breeders/) New!  
+\- [Gallery](http://www.dogomania.com/gallery/breeds/) New!  
+\- [Standards](http://www.dogomania.com/standards.shtml)  
 
-**Dog Names:**  
-\- [Names](http://www.dogomania.com/dog_names.html)  
-\- [Submit a name](http://www.dogomania.com/addname.html)
 
-**Dog Resources:**  
-\- [News](http://www.dogomania.com/news/)  
-\- [Articles](http://www.dogomania.com/articles.htm)  
-\- [Stories](http://www.dogomania.com/stories.html)  
-\- [Poetry](http://www.dogomania.com/poetry.html)  
-\- [ Postcards](http://www.dogomania.com/postcards.html)  
-\- [ Web graphics](http://www.dogomania.com/webgraphisc.html)  
-\- [ Windows themes](http://www.dogomania.com/winthemes.html)  
-\- [ Screen savers](http://www.dogomania.com/screensavers.html)  
-\- [ Download](http://www.dogomania.com/download.html)
+**Names:**  
+\- [20000 dog names](http://www.dogomania.com/dog_names.shtml)  
+\- [Submit a name](http://www.dogomania.com/addname.shtml)
 
-**Dog Shows:**  
-\- [Search](http://www.dogomania.com/shows.html)  
-\- [Add a dog show](http://www.dogomania.com/addshow.html)  
-\- [Kennel clubs](http://www.dogomania.com/kennels.html)  
-\- [Titles](http://www.dogomania.com/titles.html)
+**Shows:**  
+\- [Search engine](http://www.dogomania.com/shows.shtml)  
+\- [Add a dog show](http://www.dogomania.com/addshow.shtml)  
+\- [Kennel clubs](http://www.dogomania.com/kennels.shtml) New!  
+\- [Entry forms](http://www.dogomania.com/entry_forms.shtml) New!  
+\- [Titles](http://www.dogomania.com/titles.shtml)
 
-**Free Services:**  
-\- [ FREE homepage](http://www.dogomania.com/freehome.html)  
-\- [ Mini sites](http://www.dogomania.com/addbreeder.html)  
-\- [ Free Email](http://mail.dogomania.com/)
+**Discussions:**  
+\- [Read forum](http://www.dogomania.com/forum/list.php?f=2)  
+\- [New topic](http://www.dogomania.com/forum/post.php?f=2)  
+\- [Search](http://www.dogomania.com/forum/search.php?f=2)
 
-**Top 100 Dog Sites:**  
+**Resources:**  
+\- [Stories](http://www.dogomania.com/stories.shtml) New!  
+\- [Poetry](http://www.dogomania.com/poetry.shtml) New!  
+\- [Art](http://www.dogomania.com/art.shtml)[](http://www.dogomania.com/gallery/breeds/) New!  
+\- [Postcards](http://www.dogomania.com/postcards.shtml)  
+\- [Graphics](http://www.dogomania.com/webgraphics.shtml) New!  
+\- [Windows themes](http://www.dogomania.com/winthemes.shtml)  
+\- [Screen savers](http://www.dogomania.com/screensavers.shtml)  
+\- [Software](http://www.dogomania.com/download.shtml)
+
+**Top 100:**  
 \- [Visit Top Sites](http://www.dogomania.com/topsites/)  
-\- [Sign up!](http://www.dogomania.com/topsites/signup.html)  
-\- [Members login](http://www.dogomania.com/topsites/login.html)
+\- [Sign up!](http://www.dogomania.com/signup.shtml)  
+\- [Members login](http://www.dogomania.com/login.shtml)
 
-**Online Shop:**  
-\- [Books & videos](http://www.dogomania.com/shop/shop.htm)  
-\- [Reflectors for dogs](http://www.dogomania.com/shop/shop-col.htm)  
-\- [Dog toys](http://www.dogomania.com/shop/shop2.htm)  
-\- [And more...](http://www.dogomania.com/shop/shop3.htm)
+**Rescues:**  
+\- [Shelters](http://www.dogomania.com/shelters.shtml)  
+\- [Available/wanted](http://www.dogomania.com/dogs-in-need.shtml)  
+\- [Lost/Found](http://www.dogomania.com/dogs-in-need.shtml)
 
-**Forums:**  
-\- [Web board](http://www.dogomania.com/wwwboard/)  
-\- [Forums archive](http://www.dogomania.com/messages/)  
-\- [Post new message](http://www.dogomania.com/wwwboard/)  
-\- [FAQ](http://www.dogomania.com/wwwboard/faq.html)
+**Online Shops:**  
+\- [Free classified ads](http://www.dogomania.com/ads.shtml)  
+\- [Books](http://www.dogomania.com/category/Books/)  
+\- [Videos](http://www.dogomania.com/category/Books/Video)  
+\- [Reflectors for dogs](http://www.dogomania.com/shop/shop-col.shtml)  
+\- [Dog stuff](http://www.dogomania.com/shop/shop.shtml)
 
-**Dog Rescues:**  
-\- [Rescue Groups](http://www.dogomania.com/rescues.html)  
-\- [Shelters](http://www.dogomania.com/shelters.html)  
-\- [Rescue Dogs](http://www.dogomania.com/dogs-in-need.html)  
-\- [Dogs wanted](http://www.dogomania.com/dogs-in-need.html)  
-\- [Lost/Found](http://www.dogomania.com/dogs-in-need.html)
+**Webmasters:**  
+\- [Add your page](http://www.dogomania.com/addurl.shtml)  
+\- [Add picture](http://www.dogomania.com/addphoto.shtml)  
+\- [Search box](http://www.dogomania.com/searchbox.shtml)  
+\- [Link to us](http://www.dogomania.com/banners.shtml)  
+\- [Free homepages](http://home.dogomania.com/)  
+\- [Free mini sites](http://www.dogomania.com/addbreeder.shtml)  
+\- [Free Email](http://mail.dogomania.com/)  
+\- [Free CGI scripts](http://www.m4d.com/)
 
-**Classified Ads:**  
-\- [Read ads](http://www.dogomania.com/ads.html)  
-\- [Post your ad](http://www.dogomania.com/addads.html)
+[](http://service.bfast.com/bfast/click?bfmid=5327311&siteid=36098077&bfpage=dogs)
 
-**\--------**  
-\- [Privacy statement](http://www.dogomania.com/privacy.html)  
-\- [Advertising](http://www.dogomania.com/advertising.htm)  
-\- [Banners](http://www.dogomania.com/banners.html)  
-\- [Disclaimer](http://www.dogomania.com/disclaimer.html)  
-\- [Feedback](http://www.dogomania.com/contact.html)  
-\- [Site awards](http://www.dogomania.com/awards/awards.htm)  
-\- [Newsletter](http://www.dogomania.com/newsletter.html)
+[](http://www.rsac.org/)   
 
-| 
+
+|  [ ](http://ad.doubleclick.net/jump/vpn000555.about.com/shopping;svc=;site=onlineshopping;chan=shopping;syn=vpn000555;pos=slot1;sz=468x60;ord=781648715420755.2)
 
 **Privacy Statement for Dog-O-Mania:**
 
@@ -119,4 +118,5 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Dog-O-Mania M4D.COM [dogs@m4d.com](http://www.dogomania.com/contact.html)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Margo Peron  
+Dog-O-Mania M4D.COM [dogs@m4d.com](http://www.dogomania.com/contact.shtml)
