@@ -1,22 +1,17 @@
-> *The following text is extracted and transformed from the rush.edu privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622113956id_/http%3A//www.rush.edu/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rush.edu privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008165220id_/http%3A//www.rush.edu/general/privacy.html) for the most accurate reproduction.*
 
-# Mission statement and disclaimer for Rush-Presbyterian-St. Luke's Medical Center
+# Privacy Statement for Rush University Medical Center
 
-Rush-Presbyterian-St. Luke’s Medical Center Web Privacy Policy 
-
-Rush-Presbyterian-St. Luke’s Medical Center ("Rush") is committed to protecting the privacy of all visitors to our Web site and to being a trusted source of online health information. (See also our [Notice of Privacy Practices](http://www.rush.edu/patients/pdfs/PrivacyPractice.pdf) for patients.) This policy describes how we handle information obtained from users in the course of a visit to the Rush Web site: www.rush.edu. Please contact the Web administrator {webadm@rush.edu} with any questions or concerns about this statement. Or write to: 
+Rush University Medical Center ("Rush") is committed to protecting the privacy of all visitors to our Web site and to being a trusted source of online health information. (See also our [Notice of Privacy Practices](https://web.archive.org/patients/pdfs/PrivacyPractice.pdf) for patients.) This policy describes how we handle information obtained from users in the course of a visit to the Rush Web site: www.rush.edu. Please contact the Web administrator {[webadm@rush.edu](mailto:webadm@rush.edu)} with any questions or concerns about this statement. Or write to: 
 
 Web Administrator  
-Office of Marketing and Communications  
-Rush-Presbyterian-St. Luke’s Medical Center  
+Rush University Medical Center  
 1700 W. Van Buren, Suite 250  
 Chicago, IL 60612  
 
 
 Links from the Rush Web Site  
 This policy pertains only to the Web site www.rush.edu. This Web site does contain links to other sites. Rush exercises no authority over third-party sites that users may link to from our site; each of these sites maintains its own independent privacy and data collection policies and procedures. Rush assumes no responsibility or liability for these independent methods or actions and is not responsible for the policies or procedures of destination sites. Nor does Rush assume responsibility for the privacy policies or procedures of any site that links users to the Rush site. We encourage users to be aware when they leave our site and to read the privacy statements of each Web site that collects personally identifiable information. 
-
-Rush has contracted with HEALTH _vision_ to make the LaurusHealth library of consumer health information available to its Web users. This information is stored on HEALTH _vision_ servers. HEALTHVision maintains its own policy and procedures for safeguarding the confidentiality of any personally identifiable information it may gather. [Read HEALTH _vision’s_ privacy policy.](http://www.healthvision.com/Policies/Priv_pol.htm)
 
 Information Collection and Sharing  
 Rush is the sole owner of information collected through the Web site www.rush.edu. We do not collect any personally identifiable information unless users voluntarily supply it as part of a request for service or information. That information is used only to implement the requested activity. We do not share personally identifiable information collected through our site with any third parties without the specific consent of the user except as provided below. (See "Security" and "Third-Party Intermediaries.") 
