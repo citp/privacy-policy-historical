@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602081457id_/http%3A//www.uspto.gov/web/doc/privact.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208034519id_/http%3A//www.uspto.gov/web/doc/privact.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -25,13 +25,13 @@ Here is how we handle information about your visit to our website:
 
 > We are especially concerned about protecting the privacy of children. We hope parents and teachers are involved in children’s Internet explorations. We respect the need to protect the identity of any children who participate in an Internet exhibition of their work. We do not request any information from children on the Kids Pages. We do, however, encourage them to participate in contests, but such participation is carried out through postal mail. [Click here ](http://www.uspto.gov/web/offices/ac/ahrpa/opa/kids/kidcontest.html) for more details on contest rules and regulations. 
 
-**Use of Cookies on TEAS:**
+**Use of Cookies on TEAS and OEMS:**
 
-> We use memory resident cookies on our TEAS system to maintain browser session integrity. No personal information is gathered and it is not stored on your hard drive. When you exit our site, the cookie terminates. 
+> We use memory resident cookies on our TEAS and OEMS systems to maintain browser session integrity. No personal information is gathered and it is not stored on your hard drive. When you exit our site, the cookie terminates. 
 
 _Last updated: August 16, 2000_
 
   
 **[HOME](http://www.uspto.gov/) | [INDEX](http://www.uspto.gov/web/navaids/siteindx.htm) | [SEARCH](http://www.uspto.gov/web/menu/search.html) | [SYSTEM STATUS](http://www.uspto.gov/helpdesk/status/status.htm) | [BUSINESS CENTER](http://www.uspto.gov/ebc/indexebc.html) | [NEWS&NOTICES](http://www.uspto.gov/web/offices/ac/ahrpa/opa/index.html) | [CONTACT US](http://www.uspto.gov/web/menu/feedback.html) | [PRIVACY STATEMENT](http://www.uspto.gov/web/doc/privact.htm) **
 
-_Last Modified: 01/30/2020 06:43:31_
+_Last Modified: 01/30/2020 06:43:32_
