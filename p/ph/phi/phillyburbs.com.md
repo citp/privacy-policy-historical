@@ -1,31 +1,37 @@
-> *The following text is extracted and transformed from the phillyburbs.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206094231id_/http%3A//www.phillyburbs.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillyburbs.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603180334id_/http%3A//www.phillyburbs.com/pb-dyn/page.cfm%3Fname%3Dprivacy) for the most accurate reproduction.*
 
-# phillyBurbs.com | Privacy Statement
+# phillyBurbs.com | Privacy
 
-**Thank you for visiting phillyBurbs.com.**
+  | 
 
-This formally states how we (phillyBurbs.com, Calkins Media,Inc., the Intelligencer Record, the Bucks County Courier Times and the Burlington County Times) will handle information we learn about you from your visit to our website. The information we receive depends upon what you do when visiting our site.
+[Home](http://www.phillyburbs.com/) / Privacy
 
-**If you visit our site to read or download information, such as news stories or other information:**
+* * *
 
-We collect and store only the following information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain); the date and time you access our site; the zip code of your ISP and the state of it's origin.
+**Privacy policy**
 
-When we say 'the time you visited,' you are represented only as a tallied generic user - we would not know that you are Joe or Jane Smith, living at 224 Elm Street.
+ **In a nutshell, in plain English**  
+Quite simply, phillyBurbs.com collects information about you so that we can enhance your experience on our Web site. We want to deliver news and information that's important to you.
 
-We also collect user-specific information, such as computer operating system (for example Macintosh, Windows 95, WindowsNT); internet browser (for example, Netscape Navigator 3.0, Internet Explorer 4.0). This information is gathered to better develop and design tools useable by a the widest number of visiting browsers.
+We will not sell your information, so you won't be getting a ton of spam just because you give us some information.
 
-We also use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
+Of course, we cannot be held responsible for information you give to Web sites that you go to from phillyBurbs. You should check their privacy policies, too.
 
-**If you identify yourself by sending an E-mail:**
+ **What does phillyBurbs collect? How will you use it?**  
+On you first visit to phillyBurbs, we ask for some basic demographic information. We collect this information about you so that we can enhance your experience on our Web site. We want to deliver news and information that's important to you. So we ask for your ZIP code or other information so we can customize your experience. We may also ask you for other information at other times - such as when you enter a contest or participate in a promotion, when you post an online ad, when you participate in our message boards, or when you order products from us. Whenever you provide personally identifiable infomration to us, we will make an effort to link to this privacy policy.
 
-You also may decide to send us personally-identifying information, for example, in an electronic mail message containing a complaint, or starting or ending home delivery of the newspapers. For this kind of service, street addresses and telephone numbers are neccessary to provide quality service.
+Web servers for phillyBurbs automatically collect certain non-personally identifiable information, such as which pages each user visits and the domain name (e.g., msn.com) of visitors. This information is used for various purposed including internal review, to tailor information to individual visitors, and for traffic audits. We also provide this information (as well as information from third-party market researchers) about our users in an aggregated, anonymous basis to our advertisers and potential advertisers.
 
-None of the information provided will be sold to other direct-mail companies, nor will it be made available to peoples or organizations outside of the Calkins Media company. Gathered information will be used to return e-mail to our readers or respond to specific queries, but only if they desire this service.
+PhillyBurbs places a "cookie" on the computer of our users to store and sometimes track information about you. A cookie can be used to tell when your computer has contacted a Web site; we may also use this information for editorial purposes such as measuring traffic patterns (i.e. cookies can ensure that you don't see the same ad too many times in a session and that you do not have to re-enter your registration information during your visit). We may also use cookies to track your progress and number of entries in some of our promotions and contests. Advertising service vendors that serve ads into our site may also use their own cookies. You may opt out of the cookies delivered by phillyBurbs by changing the setting on your browser. Be aware that this will disable all cookies delivered to your browser, not just the one delivered by phillyBurbs.
 
-We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us.
+ **What about information I find on phillyBurbs?**  
+We don't mind if you share stories from our sites with friends and family, or if you copy them for your personal or educational use. However, all of the materials within phillyBurbs.com are copyrighted either to the originating newspaper (the Bucks County Courier Times, the Intelligencer Record or the Burlington County Times) or to Calkins Media, Inc., so we would appreciate it if you don't republish this information without our express written consent. Other publishing mediums include, but are not limited to, web sites, databases, newspapers, magazines, newsletters, radio or television.
 
-While all of the newspapers within Calkins Media, Inc. are family-owned, family oriented publications, we cannot guarantee that materials that are referenced outside of our sites hold themselves to the same standard. We strongly encourage parents to use the Internet with their children to avoid potentially hazardous materials.
+**What about information The Associated Press?  
+** From the AP: "Associated Press text, photo, graphic, audio and/or video material shall not be published, broadcast, rewritten for broadcast or publication or redistributed directly or indirectly in any medium. Neither these AP materials nor any portion thereof may be stored in a computer except for personal and non-commercial use. The AP will not be held liable for any delays, inaccuracies, errors or omissions therefrom or in the transmission or delivery of all or any part thereof or for any damages arising from any of the foregoing." 
 
-We don't mind if you share stories from our sites with friends and family, or if you copy them for your personal or educational use. However, all of the materials within these sites (www.phillyBurbs.com, www.phillyburbs.com/couriertimes, www.phillyburbs.com/intelligencerrecord and www.phillyburbs.com/burlingtoncountytimes) are copyrighted either to the originating newspaper (the Bucks County Courier Times, the Intelligencer Record or the Burlington County Times) or to Calkins Media, Inc, so we would appreciate it if you don't republish this information without our express written consent. Other publishing mediums include, but are not limited to, web sites, databases, newspapers, magazines, newsletters, radio or television.
+**I still don't get it or I have more questions.**  
+Contact Executive Editor Karl Smith by phone (215.269.5061) or [e-mail](mailto:ksmith@phillyburbs.com).  
 
-If you have concerns, questions or requests regarding this privacy statement, or inquiries related to republication rights, please contact [Karl Smith](mailto:ksmith@phillyburbs.com), Editor. 
+
+|  
