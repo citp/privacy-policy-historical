@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2003-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031226074134id_/http%3A//www.democrats.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630073115id_/http%3A//www.democrats.org/privacy.html) for the most accurate reproduction.*
 
 # DNC: Privacy Policy
 
