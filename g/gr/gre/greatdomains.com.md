@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatdomains.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613212350id_/http%3A//www.greatdomains.com/support/prvstatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdomains.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201030806id_/http%3A//www.greatdomains.com/support/prvstatement.asp) for the most accurate reproduction.*
 
-# GreatDomains.com - The Internet's #1 Domain Name, Website, and Internet-based business brokerage service.
+# The Internet's #1 Domain Name Marketplace
 
 PRIVACY POLICY
 
