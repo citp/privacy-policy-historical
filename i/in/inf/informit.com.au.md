@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625222502id_/http%3A//www.training.rmit.edu.au/rmit_training_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009030541id_/http%3A//www.training.rmit.edu.au/rmit_training_privacy_policy.pdf) for the most accurate reproduction.*
 
 # RMIT TRAINING SECURITY & PRIVACY POLICY
 
@@ -21,9 +21,9 @@ advised us in writing that you do not wish to receive this information. You can 
 your personal information at anytime to update or correct the information we hold on you by
 email, post or phone as detailed below. Your personal information will not be disclosed to a third
 party without your permission. All requests for access to personal information should be made by
-writing to RMIT Training, PO Box 12058, A’Beckett St, Melbourne 8006, or by emailing us at
+writing to RMIT Training, PO Box 12058, A’Beckett Street, Melbourne 8006, or by emailing us at
 privacy.training@rmit.edu.au or phoning 1800 067 117. For a detailed version of our privacy
-policy, please visit www.training.rmit.edu.au
+policy, please visit www.rmittraining.com
 Security
 RMIT Training has taken all appropriate measures to prevent unauthorised access to, improper
 use and the inaccuracy of your personal information. For example, we use password protection
@@ -34,12 +34,12 @@ RMIT Training will on its own initiative, or at your request, replenish, rectify
 incomplete, inaccurate or outdated personal data.
 To edit your personal details on the Short Courses or Single Courses database log into:
 http://cbs.rmit.edu.au/book.php3 or call 1800 067 117
+
+
 To edit your personal details on New Career Connections log into:
-http://www.careerconnections.com.au or call 9925 8179
+http://www.careerconnections.com.au or call 9925 8195
 If you come across any incorrect or outdated information on our websites please contact:
 privacy.training@rmit.edu.au or call 9925 8179
-
-
 "Cookies"
 From time to time, we may place information on your computer to allow us to identify you. This
 information is commonly known as "cookies". By showing how and when our visitors use this
