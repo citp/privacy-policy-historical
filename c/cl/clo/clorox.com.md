@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clorox.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605031214id_/http%3A//www.clorox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clorox.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806020122id_/http%3A//www.clorox.com/privacy.html) for the most accurate reproduction.*
 
 # The Clorox Company | Privacy Policy
 
