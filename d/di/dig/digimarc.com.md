@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208143115id_/http%3A//digimarc.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607100059id_/http%3A//www.digimarc.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Digimarc Privacy Statement
 
@@ -61,6 +61,6 @@ Personally Identifiable Information and/or Third Party Personally Identifiable I
 
 Digimarc reserves the right to change its privacy policy. If we change our privacy practices, the changes will not relate to previously collected data. If we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-Copyright 2003 , Digimarc Corporation, 19801 SW 72nd Avenue, Suite 100, Tualatin, Oregon 97062.  
+Copyright 2004 , Digimarc Corporation, 19801 SW 72nd Avenue, Suite 100, Tualatin, Oregon 97062.  
 **PRIVACY POLICY UPDATED 04/29/2002**  
 
