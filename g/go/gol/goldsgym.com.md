@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldsgym.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211183207id_/http%3A//goldsgym.com/main/FVG/gotoCommunityPage.asp%3FcommunityName%3DOther%26pageName%3D%253FotherURL%253D%252FGolds%252Fother%252FprivacyPolicy%252Easp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsgym.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608215749id_/http%3A//goldsgym.com/main/FVG/gotoCommunityPage.asp%3FcommunityName%3DOther%26pageName%3D%253FotherURL%253D%252FGolds%252Fother%252FprivacyPolicy%252Easp) for the most accurate reproduction.*
 
 # Gold's Gym: Communities
 
