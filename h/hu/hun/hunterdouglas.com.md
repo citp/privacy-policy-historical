@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunterdouglas.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202113108id_/http%3A//www.hunterdouglas.com/about/hd_about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunterdouglas.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202072412id_/http%3A//www.hunterdouglas.com/about/hd_about_privacy.html) for the most accurate reproduction.*
 
 # Hunter Douglas - Privacy Policy
 
@@ -43,6 +43,10 @@ General Counsel
 
  **Hunter Douglas, Inc.**  
 2 Park Way, Upper Saddle River, NJ 07458  
-1-201-327-8200 (Phone) 1-201-327-5749 (Fax)  
-[geoffrey.parnass@hunterdouglas.com](mailto:geoffrey.parnass@hunterdouglas.com?subject=Privacy%20Policy%20Question)  
-
+1-201-327-8200 (Phone) 1-201-327-5749 (Fax)   
+  
+  
+[Home](https://web.archive.org/web/20021202072412id_/http%3A//www.hunterdouglas.com/index.asp) > About Hunter Douglas > Privacy Policy   
+  
+©2002 Hunter Douglas. All rights reserved. See [Privacy Policy.](https://web.archive.org/web/20021202072412id_/http%3A//www.hunterdouglas.com/about/hd_about_privacy.html) See [Copyright Information.](https://web.archive.org/web/20021202072412id_/http%3A//www.hunterdouglas.com/about/hd_about_copyright.html)  
+©2002 Styleclick Inc. All rights reserved.
