@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phs.org privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010230503id_/http%3A//phs.org/admin/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phs.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306142313id_/http%3A//www.phs.org/admin/privacy.shtml) for the most accurate reproduction.*
 
 # Presbyterian Privacy Policy
 
@@ -65,6 +65,6 @@ Presbyterian Healthcare Services maintains the PHS website. If you have question
 P.O. Box 26666  
 Albuquerque, NM 87125-6666  
 E-mail: [info@phs.org](mailto:info@phs.org)  
-Telephone: (505) 923-8612
+Telephone: (505) 923-5678
 
-041103
+030405
