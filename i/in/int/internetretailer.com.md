@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 1999-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991009111333id_/http%3A//www.internetretailer.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215043800id_/http%3A//www.internetretailer.com/html/privacy.htm) for the most accurate reproduction.*
 
 # Internet Retailer
 
