@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingprod.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408235143id_/http%3A//privacy.yahoo.com/privacy/us/geo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingprod.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054123id_/http%3A//privacy.yahoo.com/privacy/us/geo) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
@@ -73,8 +73,7 @@
 
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-  * Your Yahoo! Account Information is password-protected. 
-  * In certain areas Yahoo! uses industry-standard SSL-encryption to protect data transmissions. 
+  * To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://privacy.yahoo.com/privacy/us/security/details.html). 
 
 **Changes to this Privacy Policy**  
 
