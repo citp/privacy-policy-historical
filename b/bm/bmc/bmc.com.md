@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205233918id_/http%3A//www.bmc.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082400id_/http%3A//bmc.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy/Security Policy
+# Privacy Policy
 
 Your privacy is important to us. When you provide information to us via our web site, we protect it according to this policy. If you have any questions, please don't hesitate to let us know. 
 
@@ -12,7 +12,7 @@ We collect various data at certain registration or subscription locations on our
 
 ### Use or Disclosure of Information
 
-BMC Software maintains several email lists to keep interested parties informed about our company, events, products, support and more. Users may voluntarily request to join our mailing lists by signing up or opting in through a [form](http://enews.bmc.com/BMC/bmc_prefs.epl) on our web site. We do not sell the addresses on our list, but we may make available information to specific business partners or sponsors. To be removed from a BMC Software email list, follow the "unsubscribe" instructions on emails from BMC Software. 
+BMC Software maintains several email lists to keep interested parties informed about our company, events, products, support and more. Users may voluntarily request to join our mailing lists by signing up or opting in through a [form](http://www.bmc.com/subscribe) on our web site. We do not sell the addresses on our list, but we may make available information to specific business partners or sponsors. To be removed from a BMC Software email list, follow the "unsubscribe" instructions on emails from BMC Software. 
 
 When you choose to submit personal information to BMC Software, BMC Software and its affiliates may transfer, process and store the information in countries in which BMC Software and its affiliates maintain offices, including the United States. The United States does not regulate data protection in the same manner as other countries, including the Member States of the European Union. Accordingly, the personal data that you submit to BMC Software may be transferred to, processed, or stored in countries where the data protection laws are different than those of your country of residence. 
 
