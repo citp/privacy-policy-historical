@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209025624id_/http%3A//www.matrixdirect.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207141218id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
 
-# Matrix Direct Insurance Services
+# privacy
 
-**PRIVACY POLICY**
+**Privacy Policy**
 
 **Information Collection and Use**
 
@@ -95,5 +95,4 @@ Suite #200
 San Diego, CA 92123   
 858-309-3000   
 Fax: 858-309-3002 **  
-Email: info@matrixdirect.com   
-
+**Email: info@matrixdirect.com**
