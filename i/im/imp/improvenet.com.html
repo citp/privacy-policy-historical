@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the improvenet.com privacy policy that was archived on 2004-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205015930id_/http%3A//www.improvenet.com/AboutUs/secure/truste/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the improvenet.com privacy policy that was archived on 2005-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404093747id_/http%3A//www.improvenet.com/HomeOwner/secure/truste/index.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Improvenet Inc. : Home Owner</title>
@@ -15,32 +15,41 @@
 <a name="_top"></a>
 <table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td><a href="/index.html"><img src="/AboutUs/images/improvenetlogo.gif" width="138" height="60" alt="Home Page" border="0"></a><img src="/AboutUs/images/punchline.gif" width="148" height="60" alt="Build :: Connect :: Grow"></td>
+<td><a href="/index.html"><img src="/art/improvenetlogo.gif" width="138" height="60" alt="Home Page" border="0"></a><img src="/Homeowner/images/punchline.gif" width="148" height="60" alt="Build :: Connect :: Grow"></td>
 <td class"litebg"="" colspan="3"><br>
       
       <img src="/imagesNew/FindContractor.gif" border="0" width="468" height="60" usemap="#Map">
-</td>
+    </td>
 
 </tr>
 </tbody></table>
 <table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td><img src="/AboutUs/images/divider_up.gif" width="780" height="22"></td>
+<td><img src="/images/home/tan-divider3.gif" width="780" height="22"></td>
 </tr>
 </tbody></table>
 <table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td>
-<form name="HeaderSiteSearchForm" method="post" onsubmit="return SiteSearchAboutUs();">
+<form name="HeaderSiteSearchForm" method="post" onsubmit="return SiteSearch();">
 <table><tbody><tr><td valign="middle">
-<img src="/AboutUs/images/siteserach.gif" width="67" height="12">
+<img src="/Homeowner/images/siteserach.gif" width="67" height="12">
 <input type="text" name="txtSearch" onfocus="this.style.backgroundColor='#BBDDEE';" onblur="this.style.backgroundColor='#FFFFFF';">
 </td><td valign="top">
-<a href="javascript:SiteSearchAboutUs();"><img src="/AboutUs/images/button_go.gif" width="26" height="23" alt="Go!!" border="0"></a>
+<a href="javascript:SiteSearch();"><img src="/Homeowner/images/button_go.gif" width="26" height="23" alt="Go!!" border="0"></a>
 </td></tr></tbody></table>
 </form>
 </td>
-<td class="text" align="right"><b><a id="registerLink" href="/AboutUs/user.html" class="headerLink">Register</a>  |  <a id="loginLink" href="/AboutUs/UserLogin.html" class="headerLink">Login</a>  | <a href="/products/" class="headerlink">Services</a> | <a id="aboutusLink" href="/AboutUs/index.html" class="headerLink">About Us</a>  |  <a id="contactusLink" href="/AboutUs/contactus.html" class="headerLink">Contact Us</a>   |  <a id="homeLink" href="/index.html" class="headerLink">Home</a></b></td>
+<td class="text" align="right">
+<b><a id="registerLink" href="/Affiliate.html" class="headerLink">Join Affiliates</a> | 
+<a id="registerLink" href="/Homeowner/MyImproveNet/index.html" class="headerLink">Register</a>  |  
+<a id="loginLink" href="/Homeowner/MyImproveNet/index.html" class="headerLink">Login</a> | 
+<a id="ProductLink" href="/Products/index.html" class="headerLink">Services</a> | 
+<a id="aboutusLink" href="/AboutUs/index.html" class="headerLink">About Us</a>  |  
+<a id="contactusLink" href="/AboutUs/contactus.html" class="headerLink">Contact Us</a>   |  
+<a id="homeLink" href="/index.html" class="headerLink">Home</a><br>
+
+</b></td>
 </tr>
 </tbody></table>
 <map name="Map"> 
@@ -54,9 +63,9 @@
 </map>
 
 <script language="javascript">
-function SiteSearchAboutUs() {
+function SiteSearch() {
 var doc=document.HeaderSiteSearchForm;
-doc.action="/AboutUs/SiteSearch.html";
+doc.action="/Homeowner/SiteSearch.html";
 doc.submit();
 return true;
 }
@@ -66,17 +75,18 @@ return true;
 <table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <!--- Left Portion of Page -->
-<td valign="top" background="/imagesNew/bg_gray.gif">
+<td valign="top" bgcolor="#ECECD3">
+
 <script language="JavaScript">
 function SubmitCategory(tradeVal){
 var doc=document.SubmitCategoryForm;
 	if (doc.ProjectCategory.value==""){
 	return false;
 	}
-	switch(tradeVal) 
+	switch(tradeVal)
 	{
-		case "1013": 
-			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_kitchen/Find-A-Contractor.html?trade="+tradeVal;	 
+		case "1013":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_kitchen/Find-A-Contractor.html?trade="+tradeVal;
 			break
 		case "1253":
 			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_roofing/Find-A-Contractor.html?trade="+tradeVal ;
@@ -102,6 +112,21 @@ var doc=document.SubmitCategoryForm;
 		case "1019":
 			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_cabinets/Find-A-Contractor.html?trade="+tradeVal ;
 			break
+		case "1135":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_garage/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		case "1124":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_floor/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		case "1169":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_landscaping/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		case "1254":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_siding/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		case "1643":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_window_fashions/Find-A-Contractor.html?trade="+tradeVal ;
+			break
 		default:
 			FACUrl = "http://affiliate.improvenet.com/IMPV_HO/Find-A-Contractor.html?trade="+tradeVal ;
 		break
@@ -110,94 +135,87 @@ var doc=document.SubmitCategoryForm;
 	doc.submit();
 	return true;
 
-}	
+}
 </script>
 <table cellpadding="0" cellspacing="0"><tbody><tr>
-<td width="159" bgcolor="#FFFFFF"><a href="/AboutUs/index.html"><img src="/AboutUs/images/aboutus.jpg" width="159" height="128" border="0" alt="About Us"></a></td>
+<td width="159" bgcolor="#FFFFFF"><a href="/HomeOwner/index.html"><img src="/Homeowner/images/home_homeowners.jpg" width="159" height="128" border="0" alt="Homeowners"></a></td>
 </tr>
 <tr>
-<td background="/AboutUs/images/bg_gray.gif" width="159" valign="top">
-
-
+<td bgcolor="#ECECD3" width="159" class="text" valign="top">
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td background="/AboutUs/images/bg_gray.gif" width="159" align="center">
+<td bbgcolor="#ECECD3" width="159" align="center">
+<!-- new -->
 
       <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr>
-          <td class="textb" width="159" align="center"> 
+          <td class="textb" width="159" align="center">
             <table width="100%" border="0" cellpadding="0" cellspacing="1">
-              <tbody><tr> 
-                <td bgcolor="#CCCCCC" class="textb" width="154" align="center"> 
+              <tbody><tr>
+                <td bgcolor="#ECECD3" class="textb" width="154" align="center">
 		<form name="SubmitCategoryForm" method="post" action="/HomeOwner/Services/FindContractor/index.html">
-                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="125" height="18">
-                      <param name="movie" value="/findacontractor.swf">
-                      <param name="quality" value="high">
-                      <embed src="/findacontractor.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="125" height="18">
-                       
-                    </object><br>
-		&nbsp;<select name="ProjectCategory" onchange="SubmitCategory(this.value);" style="width:140px">
-			<option value="" selected="">Select a Category</option>
-			<option value="1489">Air Conditioning
-		        </option><option value="1014">Appliance Repair
-		        </option><option value="1490">Architect		
-		        </option><option value="1008">Basements
-		        </option><option value="1012">Bathroom
-		        </option><option value="1019">Cabinets
-		        </option><option value="1020">Carpentry
-		        </option><option value="-1">Carpet Cleaning
-		        </option><option value="1027">Cleaning
-		        </option><option value="1034">Closets and Storage
-		        </option><option value="1038">Countertops
-		        </option><option value="1519">Home Building
-		        </option><option value="1044">Decks
-		        </option><option value="1045">Demolition/Disposal
-		        </option><option value="1491">Designer
-		        </option><option value="1048">Plastering
-		        </option><option value="1056">Electrical
-		        </option><option value="1090">Excavation
-		        </option><option value="1098">Fans/Ventilation
-		        </option><option value="1104">Fencing
-		        </option><option value="1114">Fireplace
-		        </option><option value="1124">Floor Coverings
-		        </option><option value="1133">Foundations
-		        </option><option value="1134">Framing Systems
-		        </option><option value="1135">Outbuildings
-		        </option><option value="1144">Glass and Screens
-		        </option><option value="1155">Gutters/Sheet Metal
-		        </option><option value="1018">Heating/Ventilation
-		        </option><option value="-1">Home Builders
-		        </option><option value="1159">Home Security
-		        </option><option value="-1">Home Warranty
-		        </option><option value="1165">Inspection
-		        </option><option value="1168">Insulation
-		        </option><option value="-1">Insurance
-		        </option><option value="1013">Kitchen Remodeling
-		        </option><option value="1169">Landscaping
-		        </option><option value="-1">Lawn
-		        </option><option value="-1">Lawn Care
-		        </option><option value="-1">Lenders
-		        </option><option value="-1">Maid Service
-		        </option><option value="1180">Marine
-		        </option><option value="1184">Masonry &amp; Stucco
-		        </option><option value="1191">Odd-Jobs
-		        </option><option value="1201">Painting
-		        </option><option value="1211">Paving and Patios
-		        </option><option value="1224">Pest Control
-		        </option><option value="1227">Plumbing
-		        </option><option value="1238">Pools and Spas
-		        <!--<OPTION VALUE="-1">REALTORS&reg;
-		        <OPTION VALUE="-1">Real Estate -->
-		        </option><option value="1002">Remodeling
-		        </option><option value="1253">Roofing
-		        </option><option value="1254">Siding/Residing
-		        </option><option value="1262">Sunrooms
-		        </option><option value="-1">Termite
-		        </option><option value="1267">Tile and Stone
-		        </option><option value="-1">Tree &amp; Shrub
-		        </option><option value="1274">Waterproofing
-		        </option><option value="1277">Windows and Doors
-		</option></select>
+                    <img src="/images/home/findacontractor.gif" border="0" height="18" width="125"><br>
+		&nbsp;<select name="ProjectCategory" class="text" onchange="SubmitCategory(this.value);" style="width:140px;font-size:10px">
+			<option value="" selected="">Select A Category</option>
+							<option value="1640">ADA Retrofitting </option>
+							<option value="1489">Air Conditioning</option>
+							<option value="1014">Appliance Install/Repair</option>
+							<option value="1490">Architect</option>
+							<option value="1008">Attics and Basements</option>
+							<option value="1012">Bathroom Remodeling</option>
+							<option value="1019">Cabinets</option>
+							<option value="1020">Carpentry</option>
+							<option value="1027">Cleaning</option>
+							<option value="1034">Closets and Storage</option>
+							<option value="1038">Countertops</option>
+							<option value="1519">Custom Home Building</option>
+							<option value="1044">Decks</option>
+							<option value="1045">Demolition and Disposal</option>
+							<option value="1491">Designer</option>
+							<option value="1646">Design-Build Services</option>
+							<option value="1048">Drywall and Plastering</option>
+							<option value="1056">Electrical</option>
+							<option value="1071">Environmental/Disaster Services</option>
+							<option value="1090">Excavation</option>
+							<option value="1098">Fans and Ventilation</option>
+							<option value="1104">Fencing/Perimeter Walls</option>
+							<option value="1114">Fireplace</option>
+							<option value="1124">Flooring</option>
+							<option value="1133">Foundations/Retaining Walls</option>
+							<option value="1134">Framing Systems</option>
+							<option value="1135">Garages/Carports</option>
+							<option value="1144">Glass and Screens</option>
+							<option value="1155">Gutters/Sheet Metal</option>
+							<option value="1018">Heating and Ventilation</option>
+							<option value="1642">Home Entertainment</option>
+							<option value="1644">Home Networking</option>
+							<option value="1156">Home Security</option>
+							<option value="1639">Hot Tubs/Spas</option>
+							<option value="1165">Inspection and Appraisal</option>
+							<option value="1168">Insulation/Weather Stripping</option>
+							<option value="1013">Kitchen Remodeling</option>
+							<option value="1169">Landscaping</option>
+							<option value="1180">Marine</option>
+							<option value="1184">Masonry &amp; Stucco</option>
+							<option value="1641">Mold Removal</option>
+							<option value="1191">Odd-Jobs</option>
+							<option value="1648">Outbuildings/Storage Shed </option>
+							<option value="1201">Painting and Wallcovering</option>
+							<option value="1211">Paving and Patios</option>
+							<option value="1224">Pest Control</option>
+							<option value="1227">Plumbing</option>
+							<option value="1238">Pools</option>
+							<option value="1645">Radon Gas Testing</option>
+							<option value="1002">Remodeling/Room Additions</option>
+							<option value="1253">Roofing</option>
+							<option value="1254">Siding/Residing</option>
+							<option value="1262">Sunrooms</option>
+							<option value="1267">Tile and Stone</option>
+							<option value="1647">Water Damage Repair</option>
+							<option value="1274">Waterproofing</option>
+							<option value="1277">Windows and Doors</option>
+							<option value="1643">Window Fashions</option>
+		</select>
                   </form>
                 </td>
               </tr>
@@ -206,14 +224,19 @@ var doc=document.SubmitCategoryForm;
 </tr>
 </tbody></table>
 
-<!--
+<!-- end New-->
+
+
+
+<!-- Old
+
 <form name="SubmitCategoryForm" method="post" action="/HomeOwner/Services/FindContractor/index.html">
-<img src="/AboutUs/images/trans.gif" width="1" height="20"><b>Find a Contractor</b><br>
-&nbsp; <select name="ProjectCategory"  onchange="SubmitCategory(this.value);" style="width:138px">
-				<option value="" selected>- Select a Category - </option>
+<img src="/Homeowner/images/trans.gif" width="1" height="20"><b>Find a Contractor</b><br>
+&nbsp;<select name="ProjectCategory"  onchange="SubmitCategory(this.value);" style="width:140px">
+				<option value="" selected>Select a Category</option>
 				<OPTION VALUE="1489">Air Conditioning
         <OPTION VALUE="1014">Appliance Repair
-        <OPTION VALUE="1490">Architect		
+        <OPTION VALUE="1490">Architect
         <OPTION VALUE="1008">Basements
         <OPTION VALUE="1012">Bathroom
         <OPTION VALUE="1019">Cabinets
@@ -240,7 +263,7 @@ var doc=document.SubmitCategoryForm;
         <OPTION VALUE="1155">Gutters/Sheet Metal
         <OPTION VALUE="1018">Heating/Ventilation
         <OPTION VALUE="-1">Home Builders
-        <OPTION VALUE="1156">Home Security
+        <OPTION VALUE="1159">Home Security
         <OPTION VALUE="-1">Home Warranty
         <OPTION VALUE="1165">Inspection
         <OPTION VALUE="1168">Insulation
@@ -273,86 +296,152 @@ var doc=document.SubmitCategoryForm;
 </select>
 </form>
 -->
+
 </td>
 </tr>
 </tbody></table>
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 
 <tbody><tr>
-<td background="/imagesnew/bg_darkgray.gif" height="16px"><img src="/imagesNew/whitedot.gif" hspace="3"> <a href="/AboutUs/corporatemission.html" style="font-family: Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF">Mission</a>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/HomeOwner/Services/index.html" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Services</a>
 
 
 </td>
 </tr>
 <tr>
-<td class="text"><img src="art/trans.gif" width="1" height="7"></td>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
 </tr>
 
 
 <tr>
-<td background="/imagesnew/bg_darkgray.gif" height="16px"><img src="/imagesNew/whitedot.gif" hspace="3"> <a href="/AboutUs/managementteam.html" style="font-family: Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF">Management Team</a>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/HomeOwner/ProjectTools/index.html" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Project Tools</a>
 
 
 </td>
 </tr>
 <tr>
-<td class="text"><img src="art/trans.gif" width="1" height="7"></td>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
 </tr>
 
 
 <tr>
-<td background="/imagesnew/bg_darkgray.gif" height="16px"><img src="/imagesNew/whitedot.gif" hspace="3"> <a href="/AboutUs/corporatehistory.html" style="font-family: Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF">Corporate History</a>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/HomeOwner/AdviceandResources/index.html" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Advice &amp; Resources</a>
 
 
 </td>
 </tr>
 <tr>
-<td class="text"><img src="art/trans.gif" width="1" height="7"></td>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
 </tr>
 
 
 <tr>
-<td background="/imagesnew/bg_darkgray.gif" height="16px"><img src="/imagesNew/whitedot.gif" hspace="3"> <a href="/AboutUs/pressroom/index.html" style="font-family: Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF">Press Room</a>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/HomeOwner/DesignandProductIdeas/index.html" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Design &amp; Product Ideas</a>
 
 
 </td>
 </tr>
 <tr>
-<td class="text"><img src="art/trans.gif" width="1" height="7"></td>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
 </tr>
 
 
 <tr>
-<td background="/imagesnew/bg_darkgray.gif" height="16px"><img src="/imagesNew/whitedot.gif" hspace="3"> <a href="/AboutUs/forinvestors/index.html" style="font-family: Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF">Investor Relations</a>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/HomeOwner/MyImproveNet/index.html" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">My ImproveNet</a>
 
 
 </td>
 </tr>
 <tr>
-<td class="text"><img src="art/trans.gif" width="1" height="7"></td>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
 </tr>
 
 
 <tr>
-<td background="/imagesnew/bg_darkgray.gif" height="16px"><img src="/imagesNew/whitedot.gif" hspace="3"> <a href="/AboutUs/ourpartners.html" style="font-family: Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF">Our Partners</a>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/HomeOwner/BathroomRemodeling/index.html" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Bathroom Remodeling</a>
 
 
 </td>
 </tr>
 <tr>
-<td class="text"><img src="art/trans.gif" width="1" height="7"></td>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
 </tr>
 
 
 <tr>
-<td background="/imagesnew/bg_darkgray.gif" height="16px"><img src="/imagesNew/whitedot.gif" hspace="3"> <a href="/AboutUs/jobs@improvenet/index.html" style="font-family: Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF">Jobs</a>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/HomeOwner/KitchenRemodeling/index.html" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Kitchen Remodeling</a>
 
 
 </td>
 </tr>
 <tr>
-<td class="text"><img src="art/trans.gif" width="1" height="7"></td>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/HomeOwner/PoolCenter/index.html" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Pool Center</a>
+
+
+</td>
+</tr>
+<tr>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/Homeowner/HotTub-SpaCenter/" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Hot Tub and Spa Center</a>
+
+
+</td>
+</tr>
+<tr>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/Homeowner/CustomHomeBuilding/" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Custom Home Building</a>
+
+
+</td>
+</tr>
+<tr>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/homeowner/lightingcenter/" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Lighting Center</a>
+
+
+</td>
+</tr>
+<tr>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/HomeOwner/RoofingCenter/" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Roofing Center</a>
+
+
+</td>
+</tr>
+<tr>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#C0C0A9" height="16px">&nbsp;• <a href="/homeowner/windowfashions/" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">Window Fashions</a>
+
+
+</td>
+</tr>
+<tr>
+<td class="text" bgcolor="#ECECD3"><img src="art/trans.gif" width="1" height="7"></td>
 </tr>
 
 
@@ -367,252 +456,274 @@ var doc=document.SubmitCategoryForm;
 
 <td>
 
-
 <!-- PAGE CONTENT BEGINS HERE -->
-<table cellpadding="0" cellspacing="0">
+<table cellspacing="0" cellpadding="0">
 <tbody><tr><td valign="top">
-<img src="images/hd_privacypolicy.gif" width="461" height="53" alt="" border="0">
+<img src="/Homeowner/images/hd_privacy_ho.gif" width="462" height="53" alt="" border="0">
 </td></tr>
-</tbody></table>
+<tr>
+<td style="padding:5px;">
 
-<p>
 <table width="115" align="left">
 <tbody><tr>
 <td align="center">
-<a href="https://www.truste.org/validate/2495" target="blank"><img src="images/ClickSeal.gif" width="91" height="73" border="0" alt="TRUSTe: Click to Verify" align="left" hspace="6"></a>
+<a href="http://www.truste.org/ivalidate.php?url=www.improvenet.com&amp;sealid=101" target="blank"><img src="images/ClickSeal.gif" width="91" height="73" border="0" alt="TRUSTe: Click to Verify" align="left" hspace="6"></a>
 </td>
 </tr><tr>
 <td align="center">
-<a href="https://www.truste.org/validate/2495" target="blank">Click Here for Verification</a>
+<a href="http://www.truste.org/ivalidate.php?url=www.improvenet.com&amp;sealid=101" target="blank">Click Here for Verification</a>
 </td>
 </tr>
 </tbody></table>
 
-</p><h3>TRUSTe Licensee</h3>
+<h3>TRUSTe Licensee</h3>
 
-       <p> ImproveNet Inc. is a licensee of the TRUSTe Privacy Program. This statement 
-        discloses the privacy practices for the ImproveNet website. When you visit 
-        a website displaying the TRUSTe trustmark, you can expect to be notified 
-        of the following: what personally identifiable information of yours is 
-        collected; what organization is collecting the information; how the information 
-        is used; with whom the information may be shared; what choices are available 
-        to you regarding collection, use, and distribution of the information; 
-        what kind of security procedures are in place to protect the loss, misuse, 
-        or alteration of information under the company's control; and how you 
-        can correct any inaccuracies in the information. 
-		
-        
-</p><p>Questions regarding this statement should be directed to the Marketing department 
-  by emailing <a href="mailto:inquiry@ImproveNet.com">inquiry@ImproveNet.com</a>, 
-  mailing to 10799 N. 90th Street, Suite# 200, Scottsdale, AZ 85260, U.S.A., 
-  or calling us at 480.346.0000. If the website has not responded to your inquiry 
-  or your inquiry has not been satisfactorily addressed, please contact TRUSTe 
-  (<a href="http://www.truste.org/users/watchdog.html" target="blank">http://www.truste.org/users/watchdog.html</a>). 
-  To return to the website, please use the "Back" button on your browser. 
-</p><h4>&nbsp;What 
-          is a privacy statement and why do you publish one?</h4>  
-		  <p>
-          A privacy statement 
-          explains how a website collects information about its users. It also 
-          describes the ways in which it uses this information. 
-        </p><p>ImproveNet is publishing 
-          this statement so that you, our customers, will understand the premium 
-          we place on your patronage. This site uses SSL (Secure Sockets Layer), 
-          which is an industry standard protocol used for secure transmission 
-          of data across the Internet. SSL protects against the loss, misuse, 
-          and alteration of the information under our control. We know that you 
-          place your trust in us when you give us your personal information. In 
-          return, we want to disclose exactly how we plan to safeguard this data. 
-          
-        </p><h4>&nbsp;What information do you collect about your users?</h4>  
-        <p>Different parts 
-          of the ImproveNet website prompt you for different types of information. 
-          For example, while we might ask you for just your name and contact information 
-          to use our message boards, we ask for a credit card number if you request 
-          a contract review. 
-		 </p><p>Depending on the 
-          services you use on our site (or the surveys you respond to or the contests 
-          your enter), you might be asked to give us any of the following types 
-          of information:  
-        </p><p class="padded">
-          your name<br>
-          your email address <br>
-          your phone number <br>
-          your zip code<br>
-          your home-remodeling interests<br>
-          the timing of your projects<br>
-          your credit card number<br>
-          </p> 
-        <p>Also, although 
-          you do not submit certain information to us directly, we use programs 
-          called "cookies" to detect and record your IP address, which is the 
-          virtual address of the computer you use to access the Internet. This 
-          numerical information helps us understand a few other facts about you, 
-          such as the type of computer and software you are using, the Internet 
-          Service Provider you use to connect to the Internet, and other broad 
-          demographic facts. 
-        </p><h4>&nbsp;What 
-          do you do with the information you gather?</h4> 
-        <p>ImproveNet never sells or 
-		  gives your information to any list management firms. Most of the advertisers 
-		  on our site are also not permitted to receive your personal information, although 
-		  we may report aggregate data to them, such as the total number of jobs we’ve 
-		  received by job type, etc.
+ImproveNet Inc. is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the ImproveNet website. When you visit a website 
+displaying the TRUSTe trustmark, you can expect to be notified of the following: what personally identifiable information of yours is collected; what organization is 
+collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use, and 
+distribution of the information; what kind of security procedures are in place to protect the loss, misuse, or alteration of information under the company's control; and 
+how you can correct any inaccuracies in the information. 
+<br><br>
+Questions regarding this statement should be directed to the Marketing department by emailing <a href="mailto:inquiry@ImproveNet.com">inquiry@ImproveNet.com</a>, 
+mailing to 10799 N. 90th Street, Suite# 200, Scottsdale, AZ 85260, U.S.A., or calling us at 480.346.0000. If the website has not responded to your inquiry or your inquiry 
+has not been satisfactorily addressed, please contact TRUSTe (<a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_new">http://www.truste.org/consumers/watchdog_complaint.php</a>). 
+To return to the website, please use the "Back" button on your browser. 
+<br><br>
+<b>What is a privacy statement and why do you publish one?</b><br>
+A privacy statement explains how a website collects information about its users. It also describes the ways in which it uses this information. 
+<br><br>
+ImproveNet is publishing this statement so that you, our customers, will understand the premium we place on your patronage. This site uses SSL (Secure Sockets Layer), 
+which is an industry standard protocol used for secure transmission of data across the Internet. SSL protects against the loss, misuse, and alteration of the information 
+under our control. We know that you place your trust in us when you give us your personal information. In return, we want to disclose exactly how we plan to safeguard 
+this data. 
+<br><br>
+<b>What information do you collect about your users?</b><br>
+Different parts of the ImproveNet website prompt you for different types of information. For example, while we might ask you for just your name and contact information 
+to use our message boards, we ask for a credit card number if you request a contract review. 
+<br><br>
+Depending on the services you use on our site (or the surveys you respond to or the contests your enter), you might be asked to give us any of the following types of 
+information:
+<ul type="square" style="margin-top:3px;margin-bottom:0px;"> 
+	<li>your name</li>
+	<li>your email address</li> 
+	<li>your phone number</li>
+	<li>your zip code</li>
+	<li>your home-remodeling interests</li>
+	<li>the timing of your projects</li>
+	<li>your credit card number</li>
+</ul>
+<br><br>
+Also, although you do not submit certain information to us directly, we use programs called "cookies" to detect and record your IP address, which is the virtual address of 
+the computer you use to access the Internet. This numerical information helps us understand a few other facts about you, such as the type of computer and software you 
+are using, the Internet Service Provider you use to connect to the Internet, and other broad demographic facts. 
+<br><br>
+<b>What do you do with the information you gather?</b><br>
+ImproveNet never sells or gives your information to any list management firms. Most of the advertisers on our site are also not permitted to receive your personal 
+information, although we may report aggregate data to them, such as the total number of jobs we’ve received by job type, etc. 
+<br><br>
+The exception is advertisers that use our “Find a Contractor” service on their own sites. If you ask one of our advertisers to find a professional where the search process 
+is Powered by ImproveNet, the information you provide about that particular job is shared by ImproveNet and that advertiser. ImproveNet will not share that information 
+with any other advertiser or any list firm. You will need to check the advertiser’s privacy statement regarding its policies. 
+<br><br>
+When you register to find a contractor, architect, or designer, your information is given out ONLY to those professionals interested in bidding on your project. We give you 
+a list and contact information of the professionals to whom we have given your personal information (never more than four professionals). Your information is also used 
+by us to track progress on your project and to get feedback from you on the professional you chose.
+<br><br>
+We share Personally Identifiable Information with third parties.  From time to time in our email correspondence with you, we will provide you the 
+opportunity to receive information on home improvement related products and services from outside third parties who have a contractual affiliation with 
+ImproveNet.  In the event that you elect to receive such information by affirmatively OPTING IN in your response to the email for information from a 
+particular outside third party, then ImproveNet will deliver your Personally Identifiable Information to such third party.  The outside third parties that 
+have a contractual affiliation with us have agreed to use your Personally Identifiable Information only for the specific purpose of providing to you the 
+home improvement products and services named in the email.  However, we can make no assurances that the Personally Identifiable Information is not 
+used in some other manner.  Please refer to each third party’s website for its policy regarding the use of Personally Identifiable Information it receives.
+<br><br>  
+<b>Ways We Use Your Information</b><br>
+Here are some examples of the ways we use your information: 
+<br><br>
+We use your IP address to help diagnose problems with our server, to administer our website, and to make sure that you don't see the same advertisements over and 
+over again. 
+<br><br>
+<b>Cookies</b><br>
+A "cookie" file is a data file that we write to your hard drive when you visit us. With this cookie we are able to track every time you come to our site and keep track of 
+your preferences, login, and password. This information helps us serve content specific to you in a form you prefer. Cookies are also used to prepopulate forms you 
+request on our site. We do link the information we store in cookies to personally identifiable information you submit while on our site. 
+If you prefer not to be "cookied," you can disable this function from your web browser. 
+<br><br>
+<b>Log Files</b><br>
 
-		</p><p>The exception is 
-          advertisers who are also business partners that use our “Find a Contractor” 
-          service on their own sites. If you ask one of our partners to find a 
-          professional where the search process is Powered by ImproveNet, the 
-          information you provide about that particular job is shared by ImproveNet 
-          and that partner. ImproveNet will not share that information with any 
-          other advertiser or any list firm. You will need to check the partner’s 
-          privacy statement regarding its policies. 
-        </p><p>When you register 
-          to find a contractor, architect, or designer, your information is given 
-          out ONLY to those professionals interested in bidding on your project. 
-          We give you a list and contact information of the professionals to whom 
-          we have given your personal information (never more than four professionals). 
-          Your information is also used by us to track progress on your project 
-          and to get feedback from you on the professional you chose. 
-        </p><p>Here are some examples 
-          of the ways we use your information: 
-        </p><p>We use your IP 
-          address to help diagnose problems with our server, to administer our 
-          website, and to make sure that you don't see the same advertisements 
-          over and over again. 
-        </p><p>A "cookie" file 
-          is a data file that we write to your hard drive when you visit us. With 
-          this cookie we are able to track every time you come to our site and 
-          keep track of your preferences, login, and password. This information 
-          helps us serve content specific to you in a form you prefer. Cookies 
-          are also used to prepopulate forms you request on our site. If you prefer 
-          not to be "cookied," you can disable this function from your web browser. 
-         
-        </p><p>We use customer 
-          contact information from the registration form to send you tailored 
-          information about interests that you have indicated and promotional 
-          material from some of our partners. Your contact information is also 
-          used to contact you when necessary, such as informing you of updates 
-          to our site and alerting you to special offers from us or our advertisers. 
-          (Users may opt out of receiving future mailings, if they wish to.) 
-        </p><p>When you register 
-          on our site, your information will give you access to various features 
-          of our site. When your register to Find a Contractor, Architect, or 
-          Designer, we use your information to contact you to audit the quality 
-          of the work done and match your job with our highest-rated prescreened 
-          professionals. Your information is only shared with those professionals 
-          interested in doing your project (never more than four). 
-        </p><p>Our site uses billing 
-          information (like credit card numbers) only to bill a user for products 
-          and services he or she orders.
-		</p><p>If we are going to use your personally identifiable information in a manner different from
-		  that stated at the time of collection we will notify you via email.  You will have a choice
-		  as to whether or not we use your information in this different manner.  In addition, if we 
-		  make any material changes in our privacy practices that do not affect user information
-		  already stored in our database, we will post a prominent notice on our web site notifying
-		  users of the change.  In some cases where we post the notice we will also email users, who have
-		  opted to receive communication from us, notifying them of the changes in our privacy practices.
-		  
-        </p><h4>&nbsp;Other 
-          Privacy Caveats</h4>
-        <p>Here are a couple 
-          of other things we thought you'd like to know:
-        </p><p>This site contains 
-          links to other sites. ImproveNet cannot take responsibility for the 
-          privacy practices or the content of the sites we link to. 
-        </p><p>This site makes 
-          message boards available to its users. Please remember that any information 
-          that is disclosed in these areas becomes public information and you 
-          should exercise caution when deciding to disclose your personal information 
-          in such a forum.
-		</p><p>We also enable users to email pages of our web site to third parties.  We may send 
-		  a one time email to the third party inviting them to register on our web site.  This email
-		  will contain a link to unsubscribe.  No further emails will be sent unless they OPT IN to recieve 
-		  email from us.
-		
-        </p><h4>&nbsp;Choice/Opt 
-          Out and Correct/Update</h4>
-        <p>Our site provides 
-          users the opportunity to opt out of receiving communications from us 
-          and our partners. <i>We offer this in our first status check email to 
-          you as well as all subsequent emails</i>.
-        </p><p>You can also ask 
-          us to remove, change, or modify your information from our databases 
-          in one of the following ways:
-		  
-</p><ul>
-  <li>Send email to inquiry@improvenet.com 
-  </li><li>Send U.S. mail to 10799 N. 90th Street, Suite# 200, Scottsdale, AZ 85260, 
-    U.S.A.<br>
-  </li><li>Call the following telephone number: 480.346.0000
-  </li><li>You can also unsubscribe to the emails by clicking on "Reply." 
-</li></ul>
-         
-        <h4>&nbsp;Contacting 
-          the Website </h4>
-        <p>If you have any 
-          questions about this privacy statement, the practices of this site, 
-          or your dealings with this site, please feel free to contact us! You 
-          can reach us in any of the following ways: 
-      </p><ul>
-	  <li>Send email to inquiry@improvenet.com
-      </li><li>Send U.S. mail to 10799 N. 90th Street, Suite# 200, Scottsdale, AZ 85260
-      </li><li>Call the following telephone number: 480.346.0000.
-	  </li></ul>
-	  
+As is true of most Web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) 
+addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  
+<br><br>
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site 
+and to gather demographic information about our user base as a whole.  
+<br><br>
+We do not link this automatically-collected data to personally identifiable information.  
+<br><br>
+We use customer contact information from the registration form to send you tailored information about interests that you have indicated and promotional material from 
+some of our affiliates. Your contact information is also used to contact you when necessary, such as informing you of updates to our site and alerting you to special 
+offers from us or our advertisers. (Users may opt out of receiving future mailings, if they wish to.) 
+<br><br>
+When you register on our site, your information will give you access to various features of our site. When your register to Find a Contractor, Architect, or Designer, we 
+use your information to contact you to audit the quality of the work done and match your job with our highest-rated prescreened professionals. Your information is only 
+shared with those professionals interested in doing your project (never more than four). 
+<br><br>
+Our site uses billing information (like credit card numbers) only to bill a user for products and services he or she orders. 
+<br><br>
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a 
+choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user 
+information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we 
+will also email users, who have opted to receive communication from us, notifying them of the changes in our privacy practices. 
+<br><br>
+<b>Other Privacy Caveats</b><br>
+Here are a couple of other things we thought you'd like to know: 
+<br><br>
+This site contains links to other sites. ImproveNet cannot take responsibility for the privacy practices or the content of the sites we link to. 
+<br><br>
+This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should 
+exercise caution when deciding to disclose your personal information in such a forum. 
+<br><br>
+We also enable users to email pages of our web site to third parties. We may send a one time email to the third party inviting them to register on our web site. This email 
+will contain a link to unsubscribe. No further emails will be sent unless they OPT IN to receive email from us. 
+<br><br>
+<b>Choice/Opt Out and Correct/Update</b><br>
+Our site provides users the opportunity to opt out of receiving communications from us and our affiliates including emails, newsletters and promotional communications. 
+<i>We offer this in our first status check email to you as well as all subsequent emails.</i>  If you no longer wish to receive our emails, newsletters or 
+promotional communications, you may opt-out of receiving them by following the instructions included in each email, newsletter or promotional 
+communication or by emailing us at <a href="mailto:inquiry@improvenet.com">inquiry@improvenet.com</a>.
+<br><br>
+You can also ask us to remove, change, or modify your information from our databases in one of the following ways: 
+<ul type="square" style="margin-top:3px;margin-bottom:0px;">
+	<li>Send email to <a href="mailto:inquiry@improvenet.com">inquiry@improvenet.com</a></li> 
+	<li>Send U.S. mail to 10799 N. 90th Street, Suite# 200, Scottsdale, AZ 85260, U.S.A.</li>
+	<li>Call the following telephone number: 480.346.0000</li> 
+	<li>You can also unsubscribe to the emails by clicking on "Reply."</li> 
+</ul>
+<br><br>
+<b>Legal Disclaimer</b><br>
+<i>We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our 
+rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.</i>
+<br><br>
+<b>Contacting the Website </b><br>
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, please feel free to contact us! You can reach us in any of 
+the following ways: 
+<ul type="square" style="margin-top:3px;margin-bottom:0px;">
+	<li>Send email to <a href="mailto:inquiry@improvenet.com">inquiry@improvenet.com</a></li> 
+	<li>Send U.S. mail to 10799 N. 90th Street, Suite# 200, Scottsdale, AZ 85260</li>  
+	<li>Call the following telephone number: 480.346.0000.</li> 
+</ul> 	  
 	  <br>
 	  <br>
-          
-<!-- PAGE CONTENT ENDS HERE -->
-
+Updated: 03/28/05
+<br><br>
+</td>
+</tr>
+</tbody></table>
 
 </td>
 
 <!--- Right Portion of Page -->
-<td valign="top" background="/imagesNew/bg_gray.gif">
-<table cellpadding="0" cellspacing="0"><tbody><tr>
-<td bgcolor="#FFFFFF">
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="159" height="128">
- <param name="movie" value="/AboutUs/rightbanner.swf"> <param name="quality" value="high"> <param name="bgcolor" value="#FFFFFF"> <embed src="/AboutUs/rightbanner.swf" quality="high" bgcolor="#FFFFFF" width="159" height="128" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
-</object>
-</td>
-</tr>
+<td valign="top" bgcolor="#ECECD3">
 
-<tr>
-<td background="/AboutUs/images/bg_gray.gif" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td><a href="/AboutUs/howhomeownersrateus.html"><img src="/AboutUs/images/aboutus_1.gif" width="159" border="0" alt=""></a></td>
-</tr>
-<tr>
-<td><img src="/AboutUs/images/trans.gif" width="1" height="12"></td>
-</tr>
-<tr>
-<td><a href="/Contractor/HowItWorks/contractor_testimonials.html"><img src="/AboutUs/images/aboutus_2.gif" width="159" height="16" alt="" border="0"></a></td>
-</tr>
-<tr>
-<td><img src="/AboutUs/images/trans.gif" width="1" height="12"></td>
-</tr>
-<tr>
-<td><a href="/Manufacturer/index.html"><img src="/AboutUs/images/aboutus_3.gif" width="159" height="42" alt="" border="0"></a></td>
-</tr>
-<tr>
-<td><img src="/AboutUs/images/trans.gif" width="1" height="12"></td>
-</tr>
-<tr>
-<td><a href="/Distributor/index.html"><img src="/AboutUs/images/aboutus_4.gif" width="159" height="31" alt="" border="0"></a></td>
-</tr>
-<tr>
-<td><img src="/AboutUs/images/trans.gif" width="1" height="12"></td>
-</tr>
-<tr><td>
-<a href="/AboutUs/pressroom/index.html"><img src="/AboutUs/images/sidebar_moneymagazine.gif" width="159" height="359" alt="" border="0"></a>
-</td></tr>
-
-</tbody></table>
-
-</td>
-</tr>
-</tbody></table>
+	<table cellpadding="0" cellspacing="0"><tbody><tr>
+	<td bgcolor="#FFFFFF"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="159" height="128"><param name="movie" value="/Homeowner/rightbanner.swf"> <param name="quality" value="high"> <param name="bgcolor" value="#FFFFFF"> <embed src="rightbanner.swf" quality="high" bgcolor="#FFFFFF" width="159" height="128" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></td>
+	</tr>
+	<tr>
+	<td bgcolor="#ECECD3" valign="top">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr><td height="60" align="center">
+	<a href="/Affiliate.html"><img src="/images/homeowners1.gif" width="159" height="60" alt="" border="0"></a>
+	</td></tr>
+	<tr>
+		<td bgcolor="#C0C0A9" height="16px">
+			&nbsp;• <a href="/HomeOwner/MyImproveNet/registerMain.html" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">My Profile</a>
+		</td>
+	</tr>	
+	<tr>
+	<td><img src="/Homeowner/images/trans.gif" width="1" height="12"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#C0C0A9" height="16px">
+			&nbsp;• <a href="/HomeOwner/projecttools/estimators/common/Ce_list.html" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">My Estimators</a>
+		</td>
+	</tr>
+	<tr>
+	<td><img src="/Homeowner/images/trans.gif" width="1" height="12"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#C0C0A9" height="16px">
+			&nbsp;• <a href="HomeOwner/projecttools/estimators/common/Ce_list.html" style="font-family:Trebuchet MS,Verdana, Arial, Helvetica, sans-serif; font-size: 12px;color:#000000" onmouseover="this.style.color='#cc0202'" onmouseout="this.style.color='#000000'">My Idea File</a>
+		</td>
+	</tr>
+	<tr>
+	</tr></tbody></table>
+	<div align="center"><br>
+	        <form name="formr" method="post" action="index.html"> 
+	          <img src="/art/freenewsletter1.gif" width="122" height="42" alt="FREE NEWSLETTER - Sign up here !!!"><br>
+	          Sign up for our email newsletter to receive <br>
+	          home improvement <br>
+	          offers and tips<br>
+	          <input type="text" name="email_newsletter" size="17" class="text">
+	          <a href="#" onclick="DoProcess(); return false"><img src="/art/go.gif" width="22" height="17" alt="Go" border="0" align="absmiddle"></a><br>
+	          <span class="textnew">(Please enter your <br>
+	          email ID above and Click <br>
+	          on "Go" to subscribe<br>
+	          to our newsletter) </span> 
+	        </form>
+	        
+	      </div>
+	      
+	<!--<a href="/Homeowner/MyImprovenet/Index.html"><img src="/Homeowner/images/promo_homeowners.gif" width="159" height="178" alt="" border="0"></a> -->
+	</td>
+	</tr>
+	
+	</tbody></table>
+	<script>
+	function validEmail(str) {
+			var at="@"
+			var dot="."
+			var lat=str.indexOf(at)
+			var lstr=str.length
+			var ldot=str.indexOf(dot)
+			if (str.indexOf(at)==-1){
+			     return false
+			}
+	
+			if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+			    showMessage("Invalid E-mail ID :"+str)
+			   return false
+			}
+	
+			if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+			      return false
+			}
+	
+			 if (str.indexOf(at,(lat+1))!=-1){
+			       return false
+			 }
+	
+			 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+			       return false
+			 }
+	
+			 if (str.indexOf(dot,(lat+2))==-1){
+			       return false
+			 }
+			 else{
+			  return true					
+			  }
+		}
+	
+	
+	function DoProcess(){
+	if (validEmail(document.formr.email_newsletter.value)==false){
+	alert ("Please enter a valid email address!")
+	return false;
+	}
+	document.formr.submit()
+	}	
+	
+	 
+	</script>
 
 
 </td></tr></tbody></table>
@@ -622,18 +733,19 @@ var doc=document.SubmitCategoryForm;
 <!--
 function ShowUserAgreement()
 {
-	window.open('/AboutUs/UserAgreement.html','','status=yes,scrollbars=yes,resizable=yes');
+	window.open('/Homeowner/UserAgreement.html','','status=yes,scrollbars=yes,resizable=yes');
 }
 
 //-->
 </script>
 
-<table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="780" border="0" align="center" cellpadding="3" cellspacing="0">
 <tbody><tr>
-<td background="/AboutUs/images/bg_blue.gif" width="149" align="center"><a href="/AboutUs/secure/truste/index.html"><img src="/AboutUs/images/truste.gif" width="70" height="25" border="0"></a></td>
-<td background="/AboutUs/images/bg_blue.gif" align="center" class="text"><a href="/AboutUs/secure/truste/index.html" class="text">Privacy Policy</a>	 |  <a href="/AboutUs/sitemap/index.html" class="text">Site Map</a>	|  <a href="/AboutUs/UserAgreement.html" class="text">User Agreement</a><br>
-  © Copyright 1996-2004 ImproveNet, Inc. ALL RIGHTS RESERVED</td>
-<td background="/AboutUs/images/bg_blue.gif" width="149" align="center"><a href="/AboutUs/secure/verisign/index.html"><img src="/AboutUs/images/verisign.gif" width="70" height="25" border="0"></a></td>
+<td bgcolor="#C0C0A9" width="130" align="center"><a href="/HomeOwner/secure/truste/index.html"><img src="/Homeowner/images/truste2.gif" width="116" height="31" border="0"></a></td>
+<td bgcolor="#C0C0A9" align="center" class="text">Partner Sites: <a href="http://www.improvenetpro.com">ImproveNetPRO</a> | <a href="http://www.1800Contractor.com">1-800-CONTRACTOR</a> | <a href="http://www.adservepro.com">AdServePRO</a><br>
+	<a href="/HomeOwner/secure/truste/index.html" class="text">Privacy Policy</a>	 |  <a href="/HomeOwner/sitemap/index.html" class="text">Site Map</a>	|  <a href="javascript:ShowUserAgreement()" class="text">User Agreement</a> | <a href="/Affiliate.html" class="text">Join Affiliates</a><br>
+  © 1996-2005 ALL RIGHTS RESERVED, ImproveNet, Inc. (Publicly Traded as IMPV)</td>
+<td bgcolor="#C0C0A9" width="130" align="center"><a href="/HomeOwner/secure/verisign/index.html"><img src="/Homeowner/images/verisign.gif" width="70" height="25" border="0"></a></td>
 </tr>
 </tbody></table>
 
