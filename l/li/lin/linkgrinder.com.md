@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2002-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021223094453id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603183844id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
 
-# Gnutella Grinder - Free Engine for Fast Searching of Shared Files on the Gnutella Peer to Peer Network - Find what you want FAST! Gnutella, MP3, DIVX, Shareware, Music, Movies, Film, Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, Cool Links Toys Ethics Hardware Magazines Institutes Real Estate Cool Links Booksellers Diseases and Conditions
+# Gnutella Grinder - Free Engine for Fast Searching of Shared Files on the Gnutella Peer to Peer Network - Find what you want FAST! Gnutella, MP3, DIVX, Shareware, Music, Movies, Film, Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, News and Media Psychology Maps Research Journals Archaeology Multimedia Design Arts Law Media
 
 | 
 
