@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2001-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010626065553id_/http%3A//www.iht.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215454id_/http%3A//www.iht.com/privacy.htm) for the most accurate reproduction.*
 
 # IHT: Privacy
 
@@ -22,12 +22,13 @@
 [Europe](https://web.archive.org/europe.htm)  
   
 **Publishing Partners**  
-[Asahi Shimbun, FAZ, Ha'aretz, Italy Daily, JAI and Kathimerini](https://web.archive.org/global.htm)  
+[The Daily Star, Frankfurter Allgemeine Zeitung, Ha'aretz, Italy Daily, JoongAng Ilbo and Kathimerini](https://web.archive.org/global.htm)  
 **Services**  
 [Currency Converter](https://web.archive.org/cgi-bin/cgconvert.cgi)  
 [Weather](https://web.archive.org/weather.htm)  
 [Sponsored Sections](https://web.archive.org/sponsored/index.htm)  
 [Classifieds](https://web.archive.org/classifieds.htm)  
+[Help](https://web.archive.org/help.htm)  
 **Search**  
   
 [Advanced Search](https://web.archive.org/advancedsearch.htm)  
@@ -48,7 +49,7 @@ Why do we collect ANY data on our users? Like many web sites, we collect non-per
 
   * to personalize our service for individuals or groups of users 
 
-In this statement, we let you know all of the ways that we collect data on our users, and how we use that data. If you have any questions or concerns, please e-mail us at [help@ihtweb.com](mailto:help@ihtweb.com). 
+In this statement, we let you know all of the ways that we collect data on our users, and how we use that data. If you have any questions or concerns, please e-mail us at [webhelp@iht.com](mailto:webhelp@iht.com). 
 
 **Log Files**
 
@@ -58,17 +59,19 @@ When we share log file information with our advertisers, partners, or anyone els
 
 **Cookies**
 
-We use "cookies" to allow you to customize certain aspects of the site, to measure overall traffic patterns on our site and to provide our advertisers with targeted advertising opportunities. 
+We use "cookies" to allow you to customize certain aspects of the site and to measure overall traffic patterns on our site. For example, cookies can tell us which sections of iht.com are most popular with our users. Cookies served by iht.com do not gather demographic information about our users. 
 
 (A cookie is a small piece of information that our web servers send to your browser and that is stored on your computer. That small piece of information allows our computers to say, "Aha. We have seen this person before," and it also allows our computers to remember things about your past interaction with the site, like, "This person told us that they like to see the weather in Celsius, not Fahrenheit.") 
 
-A little bit more about how we use cookies in conjunction with advertising: The IHT uses DoubleClick to deliver its online ads. Like other online advertising vendors, DoubleClick uses cookies in order to, among other things, to determine automatically whether you have seen a particular advertisement before and avoid sending you duplicate advertisements. It also enables DoubleClick to serve you advertisements tailored to things you have shown interest in based on other sites you have visited. Some people are uncomfortable with these types of advertising cookies. If you are one of those people, you can easily "turn-off" this feature. 
+**Cookies & Advertising**
+
+Cookies may also be used to provide our advertisers with targeted advertising opportunities, and advertising vendors that serve ads on our site may also use their own cookies. IHT.com uses DoubleClick to deliver its online ads. Like other online advertising vendors, DoubleClick uses cookies in order to, among other things, determine automatically whether you have seen a particular advertisement to avoid sending you duplicate advertisements. It also enables DoubleClick to serve you advertisements tailored to things you have shown interest in based on other sites you have visited. Some people are uncomfortable with these types of advertising cookies. If you are one of those people, you can easily "opt-out" of this feature. 
+
+You may choose not to accept any cookies from any party by changing the settings on your browser. Please be aware that this will disable any cookies delivered to your browser by any party, not just the cookies delivered by iht.com, DoubleClick, and or third-party vendors. 
+
+Please note that, as with most other major sites, sometimes ads being viewed on our site are being served by other ad networks other than DoubleClick. In that case, an independent cookie may be used by the third-party vendor. We do not have a mechanism to allow visitors to opt-out of cookies served by vendors with whom we do not have a contractual relationship. 
 
 For more information about DoubleClick's use of cookies, and to "opt-out" of its cookies, visit [http://www.privacychoices.org](http://www.privacychoices.org/)
-
-Please note that, as with most other major sites, sometimes ads being viewed on our site are being served by other ad networks other than DoubleClick. In that case, an independent cookie may be used by the third-party service. We do not have a mechanism to allow visitors to opt-out of vendors with whom we do not have a contractual relationship. 
-
-You may opt-out of any and all cookies by changing the settings on your browser. Please be aware that this will disable any cookies delivered to your browser by any party, not just the cookies delivered by iht.com, DoubleClick, or any third-party vendors. 
 
 **Newsletters**
 
