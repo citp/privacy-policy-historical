@@ -1,0 +1,30 @@
+> *The following text is extracted and transformed from the epicrecords.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202020118id_/http%3A//www.sonymusic.com/privacy/index.html) for the most accurate reproduction.*
+
+# Sony Music USA
+
+  
+This notice is to inform you about the policies for collection and use of personally identifiable information on the Sonymusic.com site. Sites which are linked to our site may have different policies; please review the privacy policy notices on those sites for details. 
+
+We do not collect personally identifiable information about you on this site without your knowledge, and all such information is collected directly from you. For example, we may ask you to provide your e-mail address, name, mailing address, or other information about yourself in order to participate in contests, chat rooms, or on bulletin boards, to be added to the list to receive e-mail updates on particular artists or types of music, to send so-called "postcards" or to conduct transactions at The Store or elsewhere on the site. You are not required to provide us with this information, but if you choose not to, you may not be able to participate in some of the activities on this site. In certain instances we use cookies to store information that you have provided us. (Please see the [FAQ regarding cookies](https://web.archive.org/web/20031202020118id_/http%3A//www.sonymusic.com/about/faq.html) for further details concerning our use of cookies.) 
+
+We use the information we collect from you to allow you to participate in the site activities for which the information is collected. For example, when you give us your e-mail address in order to receive updates on a particular artist or type of music, that address is added to the e-mail list for that artist or type of music. On each e-mail you receive, you are given the opportunity to unsubscribe; when you unsubscribe, we remove your e-mail address permanently from that mailing list. 
+
+For contests conducted on this site, we use the personal information you provide only for the purpose of contacting you if you win a prize and sending the prize to you. We do not use contact information contained in contest entries to create mailing lists or for any other purpose. For further information about how we handle entries to a particular contest, please consult the contest rules. 
+
+We do not share personal information provided by site visitors with anyone outside Sony Music, except to the extent necessary to allow you to participate in site activities (for example, to send you a prize that you have won in a contest on the site). In particular, we do not rent or sell mailing lists of site visitors to any third party. 
+
+We try to keep the information we collect from you as current as possible, and we take steps to maintain the security of your personal information and to prevent unauthorized access to it by those who do not have a legitimate need for it. We will never post your e-mail address or other identifying information you have provided on our site without your consent. 
+
+If you are under 13 years of age, you should not provide any personally identifiable information on this site without the knowledge and permission of your parent or guardian. There are certain web pages within our website that require users to be at least 13 years of age; these pages require you to enter your date of birth, and anyone under the age of 13 will be restricted from participating in such web page activities. We use cookies to assure that this restriction persists. (Please see the [FAQ regarding cookies](https://web.archive.org/web/20031202020118id_/http%3A//www.sonymusic.com/about/faq.html) for further details concerning our use of cookies.) This may mean that you will be unable to participate in some activities on the site. 
+
+All contests that are held on this site are limited to persons above a certain age. Accordingly, we ask each contestant to provide year of birth, as well as name, address, and e-mail address. If the year provided indicates that the contestant is underage, the information submitted is deleted. Information submitted in order to participate in a contest is not used for any other purpose. Please refer to the specific age requirements for each contest as rules may vary from contest to contest. 
+
+We ask each visitor who wishes to participate in chat rooms and bulletin boards on this site to provide an e-mail address along with the visitor's screen name. Each visitor who wishes to send a so-called "postcard" is asked to provide the visitor's screen name and e-mail address, the recipient's name and e-mail address, and a message selected by the visitor. All such e-mail addresses are used only to protect the security and integrity of the site, such as to take action against visitors who post inappropriate material or harass other visitors. 
+
+No personal information collected on this site is shared with third parties, except that information may be shared with those with whom we contract to carry out the internal operations of the site (for example, to send you a promotional item that you have requested on the site.). These contractors have agreed with us to use personal information of site visitors only for the purposes of carrying out these operations. In particular, we do not rent or sell mailing lists of site visitors to any third party. 
+
+The operator of this site is Sony Music Entertainment Inc., 550 Madison Avenue, New York, New York 10022-3211. If you have questions concerning this Privacy Policy (and not other questions relating to Sony Music and our Artists), please [click here](mailto:privacyquestions@sonymusic.com) and send us an email. (For other questions relating to Sony Music and our Artists, please [click here](https://web.archive.org/web/20031202020118id_/http%3A//www.sonymusic.com/about/feedback.html).) 
+
+This policy may change as our site develops and grows, so please re-visit this page as often as you wish.
+
+Last Revised: 25 April 2003 
