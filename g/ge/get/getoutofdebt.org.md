@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getoutofdebt.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075101id_/http%3A//myvesta.org/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getoutofdebt.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603161222id_/http%3A//myvesta.org/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Myvesta - Privacy Policy
 
@@ -34,8 +34,8 @@ This site gives users the following options for removing their information from 
 
 You can send mail to the following postal address:  
 Myvesta  
-PO Box 8587  
-Gaithersburg, MD 20898-8587 
+PO Box 7153  
+Gaithersburg, MD 20898-7153 
 
 If you wish to stop receiving emails, forward the last email you received from us so we can identify which address it was sent to. Often people have changed email providers and the old email address they gave us is being forwarded to a new address which is not in our records. Without the original email address we can not locate the address to remove from any email lists. If you wish to opt-out of email communications, follow the unsubscribe instructions on the bottom of the email received. 
 
@@ -45,7 +45,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Administrator  
 Myvesta  
-PO Box 8587  
-Gaithersburg, MD 20898-8587 
+PO Box 7153  
+Gaithersburg, MD 20898-7153 
 
 Prefer email? Write to [Info@Myvesta.org](mailto:Info@Myvesta.org). 
