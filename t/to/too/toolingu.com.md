@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205225454id_/http%3A//www.toolingu.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610061929id_/http%3A//www.toolingu.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
