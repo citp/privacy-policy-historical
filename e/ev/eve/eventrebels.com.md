@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eventrebels.com privacy policy that was archived on 2002-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020617012026id_/http%3A//www.eventrebels.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventrebels.com privacy policy that was archived on 2002-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021219231755id_/http%3A//www.eventrebels.com/privacy.asp) for the most accurate reproduction.*
 
 # EventRebels.com: Privacy Policy
+
+Privacy Policy 
 
 EventRebels.com is committed to protecting the privacy of our users' personally identifiable information. To better protect the privacy of meeting or event registrants and of our clients (meeting planners), we provide this notice explaining our online information practices and the choices users can make about the way their information is used at the site. 
 
