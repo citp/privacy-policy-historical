@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dolby.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202101900id_/http%3A//www.dolby.com/copy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolby.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331212942id_/http%3A//www.dolby.com/copy.html) for the most accurate reproduction.*
 
 # Dolby Laboratories: Website Copyright & Privacy Guidelines
 
@@ -11,6 +11,14 @@
 [Newsletters](https://web.archive.org/news/)  
 [Technical Information](https://web.archive.org/tech/)  
 [Dolby Digital](https://web.archive.org/digital/)  
+  |    
+| **Licensing &**  
+| **Trademarks**  
+|   | [General Information](https://web.archive.org/trademark/)  
+[Trademark / Logo Use](https://web.archive.org/trademark/#trademark_logo_use)  
+  |    
+| **Developers**  
+|   | [Game Developers](https://web.archive.org/disk/)  
   |    
 | **Consumer**  
 |   | [Movies & Cinema](https://web.archive.org/movies/)  
@@ -30,8 +38,6 @@
 |   | [About Dolby](https://web.archive.org/company/)  
 [People](https://web.archive.org/people/)  
 [Careers](https://web.archive.org/career/)  
-[Licensing &](https://web.archive.org/trademark/)  
-[Trademarks](https://web.archive.org/trademark/)  
 [Dolby Store](https://web.archive.org/dstore/)  
   |    
 |   | [](https://web.archive.org/jp/)  
@@ -47,10 +53,6 @@ All materials on this Web site, unless otherwise noted, are © 2000 Dolby Labora
 
 **Privacy Guidelines**
 
-Dolby Laboratories collects names, email addresses, and related personal data from people who request certain types of information, such as email newsletters, product software upgrades, and some licensee-related documents. We may use this personal information internally as research data to improve our products and services. We do not sell or give this information to third parties, and will not do so in the future without advance public notice of this policy change on [www.dolby.com](https://web.archive.org/); or when we believe in good faith that the law requires we disclose it; or as part of the sale or transfer of our relevant product line or business. If you choose to unsubscribe from a Dolby electronic newsletter or other service, please follow the instructions included at the bottom of each newsletter, or [email us](mailto:website@dolby.com) with specific information about the service you would like to cancel. 
-
-Dolby Store: The e-commerce services that Dolby Laboratories uses for secure online ordering may have privacy policies that differ from Dolby's. Several privacy-related options are available for your review from the checkout and payment processing pages. To ensure complete anonymity during your transactions, it is recommended that you not create User Profiles when ordering from the Dolby Store. Dolby assumes no responsibility for the actions of external e-commerce services or their business partners. 
-
-  
+Dolby Laboratories collects names, email addresses, and related personal data from people who request certain types of information, such as email newsletters, product software upgrades, and some licensee-related documents. We may use this personal information internally as research data to improve our products and services. We do not sell or give this information to third parties, and will not do so in the future without advance public notice of this policy change on ; or when we believe in good faith that the law requires we disclose it; or as part of the sale or transfer of our relevant product line or business. If you choose to unsubscribe from a Dolby electronic newsletter or other service, please follow the instructions included at the bottom of each newsletter, or [email us](mailto:website@dolby.com) with specific information about the service you would like to cancel.    
   
 
