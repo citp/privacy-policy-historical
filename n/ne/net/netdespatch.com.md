@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2000-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000531070226id_/http%3A//www.netdespatch.com/wpages.php3%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204165700id_/http%3A//netdespatch.com/wpages.php3%3Fprivacy) for the most accurate reproduction.*
 
 # NetDespatch - The Virtual Call Centre
 
