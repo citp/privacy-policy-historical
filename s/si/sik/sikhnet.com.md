@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218005835id_/http%3A//www.sikhnet.com/s/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021012id_/http%3A//www.sikhnet.com/s/PrivacyPolicy) for the most accurate reproduction.*
 
 # Sikhnet's Privacy Policy
 
 **PRIVACY POLICY**
 
-**Privacy Statement for Sikhnet / SikhMatrimonials.com**
+**Privacy Statement for Sikhnet**
 
 Sikhnet has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Sikhnet. 
 
@@ -36,15 +36,11 @@ If you have any additional questions about Sikhnet's dedication to consumer priv
 
 **Public Forums**
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Sikhnet is not responsible for the loss, misuse, or alteration of any personal information you disclose in public forums.
 
 **Security**
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-
-**Children's Guidelines**
-
-This site gives children the ability to publicly post or distribute personally identifiable contact information without prior parental consent. 
+This site has security measures in place to protect the loss, misuse and alteration of the personally identifiable information under our control. Sikhnet is not responsible for the loss, misuse, or alteration of any personal information you disclose in public forums.
 
 **Choice/Opt-Out**
 
@@ -71,4 +67,7 @@ _01-A Ram Das Guru Pl_
 _Espanola, NM. 87532_  
 _USA_  
 [_SikhnetDev@sikhnet.com_](mailto:SikhnetDev@sikhnet.com)   
+
+
+[](http://rd1.hitbox.com/rd?acct=WQ500124DCBD89EN0)   
 
