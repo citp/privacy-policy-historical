@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalo.com privacy policy that was archived on 2002-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021120083929id_/http%3A//www.buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621080417id_/http%3A//www.buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.*
 
 # Buffalo.com(SM) Privacy Policy
 
