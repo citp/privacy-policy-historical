@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602051545id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085757id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ The ABC Shop site currently uses cookies. For more information about how the ABC
 
 The ABC will start using cookies across the rest of the ABC Online website from 27 May 2002.
 
-For more information see [this page](http://www.abc.net.au/about/cookies).
+For more information see [this page](http://www.abc.net.au/about/cookies.htm).
 
 ## Disclosure
 
