@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the controller.com privacy policy that was archived on 2002-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021001113704id_/http%3A//www.aircraft.com/info/privacy.asp%3Fguid%3Db5ly27ky) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the controller.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413062001id_/http%3A//www.aircraft.com/info/privacy.asp%3Fguid%3Dts6meak0) for the most accurate reproduction.*
 
 # Controller and Executive Controller Privacy Policy
 
@@ -10,4 +10,4 @@ Controller.com understands the concerns people have about privacy and safety whi
 3. | Controller.com uses a secure firewall to keep out unauthorized users and ensure the integrity of our systems. We are vigilant about protecting our site from unwanted intrusions.  
 4. | Controller.com does **not** sell, trade, or otherwise release any personal information on our site visitors or subscribers. We respect your desire for privacy and zealously protect any information you give us. Your information is safe with us!  
   
-If you have any questions at all about our Privacy Policy or our Web site, [**please send us a message**](https://web.archive.org/info/customerservice.asp?guid=bp07nqw0). Thank you for visiting our site.
+If you have any questions at all about our Privacy Policy or our Web site, [**please send us a message**](https://web.archive.org/info/customerservice.asp?guid=ykunokio). Thank you for visiting our site.
