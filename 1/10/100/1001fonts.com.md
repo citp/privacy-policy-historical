@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611180952id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204034422id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ 1001 Fonts .com
 
@@ -89,6 +89,7 @@ If you have any additional questions about 1001fonts.com's dedication to consume
 
 [**Pay Fonts**](https://web.archive.org/font_paylinks.html)  
    
+[Linotype.com](http://www.linotype.com/redirect/32889/73/312/)  
 [MyFonts.com](http://www.myfonts.com/?refby=bloch)  
 [Fonts.com](http://www.qksrv.net/click-797593-5765012)  
 [ITCFonts.com](http://www.qksrv.net/click-797593-5529320)
