@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the onlinesociety.org privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesociety.org privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/privacy.jsp) for the most accurate reproduction.*
 
 # Online Society Privacy Policy
 
 |  |  |  |  |   
 ---|---|---|---|---  
 | **About Us** |   
-|  | • | [Company Overview](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/aboutus.jsp) |   
-|  | • | [Contact Us](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/contactus.jsp) |   
-|  | • | [Employment](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/employment.jsp) |   
-|  | • | [In The News](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/inthenews.jsp) |   
-|  | • | [Press Releases](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/press.jsp) |   
+|  | • | [Company Overview](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/aboutus.jsp) |   
+|  | • | [Contact Us](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/contactus.jsp) |   
+|  | • | [Employment](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/employment.jsp) |   
+|  | • | [In The News](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/inthenews.jsp) |   
+|  | • | [Press Releases](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/press.jsp) |   
    
 | **Products and Services** |   
-|  | • | [Products and Services Overview](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/diroverview.jsp) |   
-|  | • | [coPortal Structure](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/cpstructure.jsp) |   
-|  | • | [Country Identifier](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/country.jsp) |   
-|  | • | [FAQs](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/faq.jsp) |   
-|  | • | [Regional Theme Sites](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/rtsites.jsp) |   
-|  | • | [Site Map](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/sitemap.jsp) |   
+|  | • | [Products and Services Overview](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/diroverview.jsp) |   
+|  | • | [coPortal Structure](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/cpstructure.jsp) |   
+|  | • | [Country Identifier](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/country.jsp) |   
+|  | • | [FAQs](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/faq.jsp) |   
+|  | • | [Regional Theme Sites](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/rtsites.jsp) |   
+|  | • | [Site Map](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/sitemap.jsp) |   
    
 | **Agreements & Policies** |   
 |  | • | **Privacy Policy** |   
-|  | • |  [Terms Of Use Agreement](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/term.jsp) |   
-|  | • | [Suggest A Site Agreement](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/siteagreement.jsp) |   
+|  | • |  [Terms Of Use Agreement](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/term.jsp) |   
+|  | • | [Suggest A Site Agreement](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/siteagreement.jsp) |   
    
-| [**Advertising**](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/ad.jsp) |   
-|  | • | [Banners & Sponsored Links](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/advertising.jsp) |   
-|  | • | [coPortal Membership ](https://web.archive.org/web/20021003093031id_/http%3A//www.onlinesociety.com/cpmember.jsp) |   
+| [**Advertising**](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/ad.jsp) |   
+|  | • | [Banners & Sponsored Links](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/advertising.jsp) |   
+|  | • | [coPortal Membership ](https://web.archive.org/web/20030408225413id_/http%3A//www.onlinesociety.com/cpmember.jsp) |   
 |  |  |  |   
 |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---  
