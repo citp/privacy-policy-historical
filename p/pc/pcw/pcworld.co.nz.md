@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204084720id_/http%3A//idg.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403230303id_/http%3A//idg.co.nz/privacy) for the most accurate reproduction.*
 
 # Corporate : Privacy Policy
 
@@ -38,7 +38,5 @@ Our web sites also use clear gifs, or pixel tags, provided by [**DoubleClick**](
   
 Internally, _IDG_ restricts access to personally identifiable information. Only employees who need access to the information in order to do their jobs have access. These employees are limited in number, and are committed to our privacy and security policies.   
 If you have any privacy concerns relating to this site, please address them to IDG’s privacy officer through the _IDG_[ **webmaster**](mailto:nzwebmaster@idg.net.nz) **.**
-
-[](http://www.idg.co.nz/IDGNet.nsf/UNID/5D46E75183BCF115CC256D80007BFFB7?OpenDocument)
 
 | 
