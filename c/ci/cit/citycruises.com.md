@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citycruises.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004021309id_/http%3A//www.citycruises.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citycruises.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602195450id_/http%3A//citycruises.com/privacy.htm) for the most accurate reproduction.*
 
 # City Cruises - Privacy Policy
 
