@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206190427id_/http%3A//guarantybanking.com/guarantybanking/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603214344id_/http%3A//guarantybanking.com/guarantybanking/privacy.html) for the most accurate reproduction.*
 
 # Guaranty Bank -- Privacy Statement
 
 **PRIVACY POLICY** ****
 
-Guaranty Bank, S.S.B. (and its subsidiaries), collectively “Guaranty”, understands that we receive private, personal information about our customers that they expect will be treated confidentially (“Nonpublic Personal Information”). We believe that we have an affirmative and continuing obligation to respect and protect the privacy of all our customers by maintaining the confidentiality of this information.  Guaranty has implemented this privacy policy (the “Policy”) to govern the management of our customer’s Nonpublic Personal Information, including information provided to us on our Internet websites. 
+Guaranty Bank, FSB (and its subsidiaries), collectively “Guaranty”, understands that we receive private, personal information about our customers that they expect will be treated confidentially (“Nonpublic Personal Information”). We believe that we have an affirmative and continuing obligation to respect and protect the privacy of all our customers by maintaining the confidentiality of this information.  Guaranty has implemented this privacy policy (the “Policy”) to govern the management of our customer’s Nonpublic Personal Information, including information provided to us on our Internet websites. 
 
 **_Basic Principles _**
 
@@ -38,7 +38,7 @@ The following is a list of the types of Nonpublic Personal Information we may co
 
 We may share Nonpublic Personal Information among Affiliates subject to federal and state laws.  Affiliate means any company that controls, is controlled by, or is under common control with Guaranty. 
 
-Affiliates include our subsidiaries: GN Mortgage Corporation, Shelter Mortgage Company, LLC, and Guaranty Home Equity Corporation and the various d/b/a’s used by these companies. 
+Affiliates include our subsidiaries: GN Mortgage, LLC, Shelter Mortgage Company, LLC, and Guaranty Home Equity,LLC and the various d/b/a’s used by these companies. 
 
 Nonpublic Personal Information may be shared with Nonaffiliated Third Parties as permitted by law.  Nonaffiliated Third Party means any person except an Affiliate of ours and a person who is employed jointly by us and any company that is not our Affiliate. 
 
