@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210153543id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618111158id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # The Motley Fool UK: Privacy Statement
 
