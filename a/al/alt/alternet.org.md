@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625000817id_/http%3A//alternet.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2003-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031223085159id_/http%3A//www.alternet.org/privacy.html) for the most accurate reproduction.*
 
 # AlterNet: Privacy Policy
 
-|  [](http://service.bfast.com/bfast/click?bfmid=10828116&siteid=32317986&bfpage=londistance1)
+|  [](http://www.bluewaternetwork.org/Campaign_pl_globalgluttony.shtml)
 
 Content Files
 
@@ -12,14 +12,14 @@ Coverage of America's war with Iraq.
 **[Rights& Liberties](https://web.archive.org/rights/)**  
 Human rights and civil liberties.
 
-**[EnviroHealth](https://web.archive.org/envirohealth/)**  
-From climate change to medical news.
-
 **[MediaCulture](https://web.archive.org/mediaculture/)**  
 The culture and politics of media.
 
 **[DrugReporter](https://web.archive.org/drugreporter/)**  
 News from the front lines of the drug war.
+
+**[EnviroHealth](https://web.archive.org/envirohealth/)**  
+From climate change to medical news.
 
 Feedback
 
@@ -98,7 +98,7 @@ AlterNet.org reserves the right to amend this Privacy Statement at any time with
 
 **[« Home](https://web.archive.org/)**
 
-|  |  |  | 
+|  |  |  |  [](https://web.archive.org/fivelies/)
 
 Support AlterNet
 
