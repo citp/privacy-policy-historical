@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014212442id_/http%3A//www.ritzpix.com/personality/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416010819id_/http%3A//www.ritzpix.com/personality/help/privacy.asp) for the most accurate reproduction.*
 
 # ritzPIX.com: Privacy Policy
 
@@ -53,4 +53,4 @@ If you want to change any of your personal information, correct factual errors, 
 **How to Contact Us**   
 Should you have other questions or concerns about these privacy policies, please send us an email at [customerserv@ritzpix.com](mailto:customerserv@ritzpix.com). 
 
-Copyright 2002 Ritz Interactive, Inc. 
+Copyright 2003 Ritz Interactive, Inc. 
