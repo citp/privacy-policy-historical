@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614051502id_/http%3A//www.kraftfoods.com/html/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201225800id_/http%3A//kraftfoods.com/html/main/privacy.html) for the most accurate reproduction.*
 
-# KRAFT Privacy Policy
+# Kraft Interactive Kitchen
 
 This website is owned and operated by Kraft Foods, Inc. Here at Kraft, we recognize that many visitors to our site are concerned about the information they provide to us, and how we treat that information. So we've developed a Privacy Policy to address those concerns. We may update the Policy from time to time, so please check in occasionally. 
 
