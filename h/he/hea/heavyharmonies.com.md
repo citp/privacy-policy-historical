@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2001-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011225143031id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2002-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020220060109id_/http%3A//www.heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
 
 # Heavy Harmonies - Privacy Statement
 
+  
+**I'm moving the site to a new hosting company, so there may be some downtime at some point in the next week.**  
+---  
+**The radio feed has been revamped. All new songs on the playlist. Click on the "HH Radio" icon at the left of this page to listen, or click[here](https://web.archive.org/cgi-bin/radio.cgi) to see the new playlist. **  
   
 
 
