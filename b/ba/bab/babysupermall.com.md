@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babysupermall.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214163729id_/http%3A//babysupermall.com/Help/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysupermall.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204082122id_/http%3A//babysupermall.com/Help/Privacy.html) for the most accurate reproduction.*
 
 # BabySuperMall.com - Privacy Policy
 
