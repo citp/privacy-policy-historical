@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the editorandpublisher.com privacy policy that was archived on 2000-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000603061249id_/http%3A//editorandpublisher.com/ephome/index/unihtm/policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the editorandpublisher.com privacy policy that was archived on 2000-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001206071600id_/http%3A//www.editorandpublisher.com/ephome/index/unihtm/policy.htm) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -40,21 +40,56 @@ WebTrendWatch, Dave Astor">
 
 <!--  Do NOT change anything below this comment.  This is the include line -->
 
+<!-- Doubleclick Rich Media tag for left button -->
+<script>
+var detect = navigator.userAgent.toLowerCase();
 
+// Browser detect
 
-<table width="125" border="0">
+var opera = (detect.indexOf("opera") != -1);
+var xplore = (!opera && detect.indexOf("msie") !=-1);
+var webtv = (detect.indexOf("webtv") !=-1);
+var icab = (detect.indexOf("icab") != -1);
+var scape = (!opera && detect.indexOf("compatible") ==-1);
+// Making 'browser' a user friendly output
 
-<tbody><tr>
+var browser;
+if (opera) browser = "Opera";
+else if (icab) browser = "iCab";
+else if (xplore) browser = "Internet Explorer";
+else if (webtv) browser = "WebTV";
+else if (scape) browser = "Netscape Navigator";
 
-<td align="center">
+if (scape)
+	{bust = Math.floor(1000000*Math.random());
+	 document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="http://ads.vnuemedia.com/js.ng/Params.richmedia=yes&site=editorandpublisher&adsize=120x120&PagePos=1&bust='+bust+'">\n');
+	 document.write('</SCR' + 'IPT>\n');}
+else if (xplore)
+	{bust = Math.floor(1000000*Math.random());
+	 document.write('<IFRAME WIDTH=120 HEIGHT=120 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=#000000 SRC="http://ads.vnuemedia.com/html.ng/site=editorandpublisher&adsize=120x120&PagePos=1&bust='+bust+'">\n');
+	 document.write('</IFRAME>');}
+</script><script language="JavaScript1.1" src="http://ads.vnuemedia.com/js.ng/Params.richmedia=yes&amp;site=editorandpublisher&amp;adsize=120x120&amp;PagePos=1&amp;bust=663851">
+</script>
 
-<a href="http://www1.mediainfo.com/RealMedia/ads/click_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left1"><img src="http://www1.mediainfo.com/RealMedia/ads/adstream_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left1" ismap="" border="0"></a>
+<noscript>
+<A HREF="http://ads.vnuemedia.com/click.ng/Params.richmedia=yes&site=editorandpublisher&adsize=120x120&PagePos=1">
+<IMG WIDTH=120 HEIGHT=120 border=0 SRC="http://ads.vnuemedia.com/image.ng/Params.richmedia=yes&site=editorandpublisher&adsize=120x120&PagePos=1"></A>
+</noscript>
+<!-- /AdSpace -->
+
+<!--table width=125 border=0>
+
+<tr>
+
+<td align=center>
+
+<a href="http://www1.mediainfo.com/RealMedia/ads/click_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left1"><img src="http://www1.mediainfo.com/RealMedia/ads/adstream_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left1" ismap border=0></a>
 
 </td>
 
 </tr>
 
-</tbody></table>
+</table-->
 
 <p>
 
@@ -116,8 +151,6 @@ a.navbar:visited  {
 
 </style>
 
-
-
 <table bgcolor="#cc0000" width="125" border="1" cellpadding="1" cellspacing="0" bordercolor="#800000" bordercolordark="#400000" bordercolorlight="#FF0000">
 
 <tbody><tr><td align="left"><a href="http://www.editorandpublisher.com" class="navbar">HOME</a></td></tr>
@@ -156,25 +189,29 @@ a.navbar:visited  {
 
 </p><p>
 
+<!--table width=125 border=0>
 
+<tr>
 
+<td align=center>
 
+<a href="http://www1.mediainfo.com/RealMedia/ads/click_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left2"><img src="http://www1.mediainfo.com/RealMedia/ads/adstream_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left2" ismap border=0></a>
+
+</td>
+
+</tr>
+
+</table-->
+
+</p><p>
 
 <table width="125" height="120" valign="top" bgcolor="cccccc" border="5" bordercolor="black">
 
-<tbody><tr><td valign="top">
-
-
-
-
-
+<tbody><tr><td valign="top" align="center">
+<center>
 <form method="post" action="/cgi-bin/eletter.cgi">
 
-<center>
-
-<font size="-1" color="red"><b>Get E&amp;P's<br> FREE
-
-weekly<br> e-mail newsletter.</b></font><b>
+<font size="-1" color="red"><b>Get E&amp;P's<br> FREE weekly<br> e-mail newsletter.</b></font><b>
 
 <br>
 
@@ -182,43 +219,20 @@ weekly<br> e-mail newsletter.</b></font><b>
 
 <input type="text" name="email" size="12" maxlength="100" value="">
 
-</b></center><b>
 
 <input type="radio" name="format" readonly="" value="e-letter" checked=""><b><font size="-2">HTML</font></b>
 
 <input type="radio" name="format" readonly="" value="e-letter-txt"><b><font size="-2">Text</font></b>
 
-<p></p><center>
 
 <input type="submit" name="registration" value="Sign Up!" width="1" height="2">
-<p>
-
-<font size="-1" color="red">Sponsored by fizzylab.com</font>
-
-</p></center>
 
 
 
-</b></form></td></tr>
-
-</tbody></table>
-
-</p><p>
-
-<table width="125" border="0">
-
-<tbody><tr>
-
-<td align="center">
-
-<a href="http://www1.mediainfo.com/RealMedia/ads/click_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left2"><img src="http://www1.mediainfo.com/RealMedia/ads/adstream_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left2" ismap="" border="0"></a>
-
-</td>
-
-</tr>
-
-
-
+<p align="center">
+<a href="http://www.fizzylab.com"><img width="100" height="48" src="/ephome/news/newsgif/sponsored_by.gif" border="0"></a>
+</p></b></form></center><b>
+</b></td></tr>
 </tbody></table>
 
 </p><p>
@@ -237,9 +251,10 @@ weekly<br> e-mail newsletter.</b></font><b>
 <tbody><tr>
 
 	<td align="CENTER">
-	<font size="4">Unchanged</font>
-	<font size="4">1030.13</font>
-	</td>				
+	<font size="4">Up</font>
+	<font size="4">1.32%</font>
+	<img src="http://www.mediainfo.com/ephome/index/unihtm/images/up.gif" width="25" height="21">
+	</td>
 
 </tr>
 </tbody></table>
@@ -249,8 +264,6 @@ weekly<br> e-mail newsletter.</b></font><b>
 </b></td>
 
 </tr>
-
-
 
 </tbody></table>
 
@@ -264,8 +277,6 @@ weekly<br> e-mail newsletter.</b></font><b>
 
 </tr>
 
-
-
 </tbody></table>
 
 </p><p>
@@ -278,25 +289,15 @@ weekly<br> e-mail newsletter.</b></font><b>
 
 <a href="http://www1.mediainfo.com/RealMedia/ads/click_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left"><img src="http://www1.mediainfo.com/RealMedia/ads/adstream_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left" ismap="" border="0"></a>
 
-
-
 <p align="center">
 
-
-
-<a href="http://www1.mediainfo.com/RealMedia/ads/click_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left3"><img src="http://www1.mediainfo.com/RealMedia/ads/adstream_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left3" ismap="" border="0"></a>
-
-
+<!--a href="http://www1.mediainfo.com/RealMedia/ads/click_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left3"><img src="http://www1.mediainfo.com/RealMedia/ads/adstream_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Left3" ismap border=0></a-->
 
 </p></td>
 
 </tr>
 
-
-
 </tbody></table>
-
-
 
 <!-- Do NOT change anything above this comment This is the include line -->
 </p></td>
@@ -311,7 +312,48 @@ weekly<br> e-mail newsletter.</b></font><b>
 <td align="LEFT" valign="TOP" width="468">
 
 <center>
-<a href="http://www1.mediainfo.com/RealMedia/ads/click_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Top"><img width="468" height="60" src="http://www1.mediainfo.com/RealMedia/ads/adstream_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Top" border="1" hspace="0" ismap=""></a>
+
+<!-- Doubleclick Rich Media tag for top banner -->
+<script>
+var detect = navigator.userAgent.toLowerCase();
+
+// Browser detect
+
+var opera = (detect.indexOf("opera") != -1);
+var xplore = (!opera && detect.indexOf("msie") !=-1);
+var webtv = (detect.indexOf("webtv") !=-1);
+var icab = (detect.indexOf("icab") != -1);
+var scape = (!opera && detect.indexOf("compatible") ==-1);
+
+// Making 'browser' a user friendly output
+
+var browser;
+if (opera) browser = "Opera";
+else if (icab) browser = "iCab";
+else if (xplore) browser = "Internet Explorer";
+else if (webtv) browser = "WebTV";
+else if (scape) browser = "Netscape Navigator";
+
+if (scape)
+	{bust = Math.floor(1000000*Math.random());
+	 document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="http://ads.vnuemedia.com/js.ng/Params.richmedia=yes&site=editorandpublisher&adsize=468x60&PagePos=0&bust='+bust+'">\n');
+	 document.write('</SCR' + 'IPT>\n');}
+else if (xplore)
+	{bust = Math.floor(1000000*Math.random());
+	 document.write('<IFRAME WIDTH=480 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=#000000 SRC="http://ads.vnuemedia.com/html.ng/site=editorandpublisher&adsize=468x60&PagePos=0&bust='+bust+'">\n');
+	 document.write('</IFRAME>');}
+</script><script language="JavaScript1.1" src="http://ads.vnuemedia.com/js.ng/Params.richmedia=yes&amp;site=editorandpublisher&amp;adsize=468x60&amp;PagePos=0&amp;bust=506991">
+</script>
+
+<noscript>
+<A HREF="http://ads.vnuemedia.com/click.ng/Params.richmedia=yes&site=editorandpublisher&adsize=468x60&PagePos=0">
+<IMG WIDTH=120 HEIGHT=240 border=0 SRC="http://ads.vnuemedia.com/image.ng/Params.richmedia=yes&site=editorandpublisher&adsize=468x60&PagePos=0"></A>
+</noscript>
+<!-- /AdSpace -->
+
+<!--a
+href="http://www1.mediainfo.com/RealMedia/ads/click_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Top"><img
+width=468 height=60 src="http://www1.mediainfo.com/RealMedia/ads/adstream_nx.cgi/www1.mediainfo.com/ephome/index/unihtm/home.shtml@Top" border=1 hspace=0 ismap></a-->
 
 <p>
 <img alt="Editor &amp; Publisher ONLINE" border="0" hspace="0" src="/ephome/index/unigif/eplogonew.gif">
@@ -414,20 +456,61 @@ We welcome your questions and/or comments. Please send all queries to
 </p><p>
 </p><center>
 <!--  Do NOT change anything below this comment.  This is the include line -->
-<div align="center"><font face="arial, helvetica" size="-3">
+<center>
+
+<!-- Doubleclick Rich Media tag for top banner -->
+<script>
+var detect = navigator.userAgent.toLowerCase();
+
+// Browser detect
+
+var opera = (detect.indexOf("opera") != -1);
+var xplore = (!opera && detect.indexOf("msie") !=-1);
+var webtv = (detect.indexOf("webtv") !=-1);
+var icab = (detect.indexOf("icab") != -1);
+var scape = (!opera && detect.indexOf("compatible") ==-1);
+
+// Making 'browser' a user friendly output
+
+var browser;
+if (opera) browser = "Opera";
+else if (icab) browser = "iCab";
+else if (xplore) browser = "Internet Explorer";
+else if (webtv) browser = "WebTV";
+else if (scape) browser = "Netscape Navigator";
+
+if (scape)
+	{bust = Math.floor(1000000*Math.random());
+	 document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="http://ads.vnuemedia.com/js.ng/Params.richmedia=yes&site=editorandpublisher&adsize=468x60&PagePos=3&bust='+bust+'">\n');
+	 document.write('</SCR' + 'IPT>\n');}
+else if (xplore)
+	{bust = Math.floor(1000000*Math.random());
+	 document.write('<IFRAME WIDTH=480 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=#000000 SRC="http://ads.vnuemedia.com/html.ng/site=editorandpublisher&adsize=468x60&PagePos=3&bust='+bust+'">\n');
+	 document.write('</IFRAME>');}
+</script><script language="JavaScript1.1" src="http://ads.vnuemedia.com/js.ng/Params.richmedia=yes&amp;site=editorandpublisher&amp;adsize=468x60&amp;PagePos=3&amp;bust=162796">
+</script>
+
+<noscript>
+<A HREF="http://ads.vnuemedia.com/click.ng/Params.richmedia=yes&site=editorandpublisher&adsize=468x60&PagePos=3">
+<IMG WIDTH=120 HEIGHT=240 border=0 SRC="http://ads.vnuemedia.com/image.ng/Params.richmedia=yes&site=editorandpublisher&adsize=468x60&PagePos=3"></A>
+</noscript>
+<!-- /AdSpace -->
+
+<p>
+
+<font face="arial, helvetica" size="-3">
 <b><a href="/">HOME</a> | <a href="/ephome/news/newshtm/news.htm">RECENT NEWS</a> | <a href="/emedia/">MEDIA LINKS</a> | <a href="http://epclassifieds.com">CLASSIFIED</a> | <a href="http://www.mediainfo.com/buyersguide">BUYER'S GUIDE</a> | <a href="http://archives.mediainfo.com">ARCHIVES</a> | <a href="/store/njs-store.htm" onclick="this.href='/store/store.htm'">STORE</a> |
 <a href="/ephome/events/eventshtm/confer.htm">CONFERENCE</a> | <a href="/ephome/promos/promoshtm/mediakit.htm">MEDIA KIT</a> | <a href="/ephome/index/uniform/feedback_gen.htm">FEEDBACK</a> | <a href="/ephome/index/unihtm/siteindex.htm">SITE INDEX</a> | <a href="/store/magazine.htm">SUBSCRIBE</a> | <a href="/ephome/index/unihtm/aboutep.htm#email">CONTACT E&amp;P</a>
 | <a href="/ephome/index/unihtm/policy.htm">PRIVACY POLICY</a>
 </b></font>
-<p>
-<font size="-1"><i>© 2000 <a href="http://www.mediainfo.com" target="_blank">Editor &amp; Publisher</a> and <a href="http://www.bpicomm.com" target="_blank">BPI Communications</a> Inc. All rights reserved.</i></font></p></div>
+</p><p>
+<font size="-1"><i>© 2000 <a href="http://www.mediainfo.com" target="_blank">Editor &amp; Publisher</a> and <a href="http://www.bpicomm.com" target="_blank">BPI Communications</a> Inc. All rights reserved.</i></font></p></center>
 <!-- Do NOT change anything above this comment This is the include line -->
 </center>
 <p>
 </p></td>
 </tr>
 </tbody></table>
-
 
 
 
