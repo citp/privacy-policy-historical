@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2002-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021225105154id_/http%3A//www.eloqua.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413172628id_/http%3A//eloqua.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Eloqua Corporation: Lead Generation and Digital Marketing Solutions
 
@@ -43,7 +43,7 @@ Eloqua allows each of its client sites to give visitors that require complete an
 
 
 **Web Monitoring Opt-Out**  
-Eloqua believes in permission-based marketing. If you don't want to be invited into a chat session, or if you don't want to be included in our website metrics, you can simply opt-out. [Click here](https://web.archive.org/web/20021225105154id_/http%3A//www.eloqua.com/privacy/optstatus.asp) to view your current opt-out status. 
+Eloqua believes in permission-based marketing. If you don't want to be invited into a chat session, or if you don't want to be included in our website metrics, you can simply opt-out. [Click here](https://web.archive.org/web/20030413172628id_/http%3A//eloqua.com/privacy/optstatus.asp) to view your current opt-out status. 
 
   
 
