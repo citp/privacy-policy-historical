@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketsurveys.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206195639id_/http%3A//www.marketsurveys.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketsurveys.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405223842id_/http%3A//www.marketsurveys.com/privacy.phtml) for the most accurate reproduction.*
 
 # MarketSurveys.com - Privacy Statement
 
@@ -20,7 +20,7 @@ We may enter into business relationships with third parties that make available 
 
 In addition, a third party that conducts online surveys could acquire the MarketSurveys.com business or assets of the business, for the purpose of enabling the acquiror to conduct surveys with panel members. If the MarketSurveys business, the panel, or a part of the panel is acquired by such a third party, Personally Identifiable Information would be transferred to the acquiror.
 
-Panelists who want to change their Personally Identifiable Information related to their panel membership may click on this link - [Member's Section](https://web.archive.org/members/account.phtml?PHPSESSID=559c6575a9db77abfb0d8c6bdc9c380f) -, enter your email address and password and click "Sign In". You will then have access to change your Personally Identifiable Information related to your panel membership.
+Panelists who want to change their Personally Identifiable Information related to their panel membership may click on this link - [Member's Section](https://web.archive.org/members/account.phtml?PHPSESSID=e7e37b30f9df2ce912e6dba2120bfb9e) -, enter your email address and password and click "Sign In". You will then have access to change your Personally Identifiable Information related to your panel membership.
 
 MarketSurveys.com reserves the right to change its privacy policy at its sole discretion. MarketSurveys.com panelists will be informed of any such change by posting it on the MarketSurveys.com website. The effective date of any change of privacy policy will be clearly marked.
 
@@ -28,4 +28,4 @@ You may choose to leave the panel at any time. Simply inform us with an email vi
 
 The privacy policy set out above is effective as of August 4, 2004, and will apply to all information obtained after that date. Information that was obtained prior to August 4, 2004 will also be subject to the policies above, unless the visitor elects to unsubscribe prior to September 5, 2004. You may unsubscribe as explained above, at any time.
 
-[Click here to unsubscribe](https://web.archive.org/members/unsubscribe.phtml?PHPSESSID=559c6575a9db77abfb0d8c6bdc9c380f)
+[Click here to unsubscribe](https://web.archive.org/members/unsubscribe.phtml?PHPSESSID=e7e37b30f9df2ce912e6dba2120bfb9e)
