@@ -1,29 +1,33 @@
-> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# General content on DDIWorld
+
+[](http://www.truste.org/ivalidate.php?url=www.ddiworld.com&sealid=102)
 
 ##  _Development Dimensions International's Privacy Statement_
 
 This Privacy Statement is effective as of September 25, 2004.  
-([Click here to download a PDF version of this policy](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/pdf/privacystatement_ddiworld_foreignlanuage.pdf "DDIWorld Privacy Statement").  )  
+([Click here to download a PDF version of this policy](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/pdf/privacystatement_ddiworld_09_21.pdf "DDIWorld Privacy Statement").  )  
 
 
-Development Dimensions International (DDI) designed and manages the site you are viewing. DDI provides a range of Internet-based tools to support the corporate Human Resources function. This privacy statement covers the sites (www.ddiworld.com and www.ddi.com). 
+Development Dimensions International (DDI) designed and manages the site you are viewing. DDI provides a range of Internet-based tools to support the corporate Human Resources function. Development Dimensions International (DDI) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites (www.ddiworld.com and www.ddi.com). 
 
-If you have questions or concerns regarding this statement, you should contact the DDIWorld Webmaster by email at webmaster@ddiworld.com or Postal Mail at "DDIWorld Webmaster, 1225 Washington Pike, Bridgeville, Pennsylvania, United States, 15017". DDI's sites (www.ddiworld.com and www.ddi.com) comply with EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+If you have questions or concerns regarding this statement, you should first contact the DDIWorld Webmaster by email at webmaster@ddiworld.com or Postal Mail at "DDIWorld Webmaster, 1225 Washington Pike, Bridgeville, Pennsylvania, United States, 15017". If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
-This Privacy Statement addresses the following privacy issues:
+DDI's sites (www.ddiworld.com and www.ddi.com) comply with EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-  * _[See Information Collection and Use.](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp#26468)_
-  * [See Correcting/Updating/Deleting/Deactivating Personal Information.](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp#10985)
-  * _[See Communications from the Site.](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp#93036)_
-  * _[See Sharing.](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp#69124)_
-  * _[See Security.](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp#61799)_
-  * [See Enhancement of Marketing Profile for DDI Internet site only.](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp#43478)
-  * _[See Changes to the Privacy Statement.](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp#92283)_
-  * _[See Protection of Children's Information.](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp#52359)_
-  * [See Complaints Resolution.](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp#42449)
-  * [See Contact Information.](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp#72227)
+This Privacy Statement covers DDI's Internet site www.ddiworld.com and www.ddi.com. Because DDI wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices periodically reviewed for compliance. This Privacy Statement addresses the following privacy issues:
+
+  * _[See Information Collection and Use.](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#26468)_
+  * [See Correcting/Updating/Deleting/Deactivating Personal Information.](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#10985)
+  * _[See Communications from the Site.](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#93036)_
+  * _[See Sharing.](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#69124)_
+  * _[See Security.](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#61799)_
+  * [See Enhancement of Marketing Profile for DDI Internet site only.](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#43478)
+  * _[See Changes to the Privacy Statement.](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#92283)_
+  * _[See Protection of Children's Information.](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#52359)_
+  * [See Complaints Resolution.](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#42449)
+  * [See Contact Information.](https://web.archive.org/web/20050305230002id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#72227)
 
 
 
@@ -222,16 +226,3 @@ Bridgeville, PA 15017
 (412) 257-0600
 
 webmaster@ddiworld.com
-
-  
-|   
-| [Printer friendly](https://web.archive.org/web/20041206060303id_/http%3A//www.ddiworld.com/utilities/privacy.asp?format=print)  
-  
-| Add My DDI Favorite  
-  
-|   
-|   
-  
----|---|---|---|---  
-  
-
