@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wptz.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205122200id_/http%3A//wptz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wptz.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405051428id_/http%3A//www.wptz.com/privacy.html) for the most accurate reproduction.*
 
 # WPTZ Online | Privacy Policy
 
@@ -6,6 +6,6 @@ While we will seek to require third parties with whom we have agreements to foll
 
 Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet. 
 
-Users can send e-mail to us at [jnelligan@hearst.com](mailto:jnelligan@hearst.com) with any further questions. 
+Users can send e-mail to us at [sacklen@hearst.com](mailto:sacklen@hearst.com) with any further questions. 
 
 Back Up Top
