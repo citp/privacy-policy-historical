@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2003-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031224231533id_/http%3A//www.house.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630054152id_/http%3A//www.house.gov/privacy.html) for the most accurate reproduction.*
 
 # United States House of Representatives - Privacy Statement
 
