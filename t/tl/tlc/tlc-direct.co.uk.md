@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlc-direct.co.uk privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206093101id_/http%3A//www.tlc-direct.co.uk/Information/Privacy/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlc-direct.co.uk privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610172013id_/http%3A//www.tlc-direct.co.uk/Information/Privacy/Privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -13,7 +13,7 @@ Please remember we are committed to ensuring that your privacy is protected.
 We may contact you to provide you with information about our web site or any special service or products which we think may be of interest to you.  
 As a registered customer, you could benefit from special prices, regular updates, and selected promotions.
 
-If you would rather not receive this information, you can unsubscribe by following the instructions at the end of all TLC updates. **[](https://web.archive.org/web/20031206093101id_/http%3A//www.tlc-direct.co.uk/Information/contact/Default.htm)**
+If you would rather not receive this information, you can unsubscribe by following the instructions at the end of all TLC updates. **[](https://web.archive.org/web/20040610172013id_/http%3A//www.tlc-direct.co.uk/Information/contact/Default.htm)**
 
 **CREDIT CARDS**  
 Our site uses a secure server that implements **S** ecure **S** ockets **L** ayer technology (certified to the required standard for encrypted credit card transactions by Thawte) to protect your credit card information. 
@@ -29,8 +29,8 @@ The cookie is used to make the link between you and the information you have pro
 is set to disallow the creation of cookies**.
 
 **[Enable Cookies Explorer 5  
-](https://web.archive.org/web/20031206093101id_/http%3A//www.tlc-direct.co.uk/Information/Privacy/EnableCookie.htm)****[Enable Cookies Netscape  
-](https://web.archive.org/web/20031206093101id_/http%3A//www.tlc-direct.co.uk/Information/Privacy/EnableCookieNS.htm)**
+](https://web.archive.org/web/20040610172013id_/http%3A//www.tlc-direct.co.uk/Information/Privacy/EnableCookie.htm)****[Enable Cookies Netscape  
+](https://web.archive.org/web/20040610172013id_/http%3A//www.tlc-direct.co.uk/Information/Privacy/EnableCookieNS.htm)**
 
 The creation of a cookie on your computer does not give the web site any access to other information such as your e-mail address. 
 
