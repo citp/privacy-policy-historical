@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wcbs880.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602175110id_/http%3A//www.wcbs880.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcbs880.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023094155id_/http%3A//wcbs880.com/privacy) for the most accurate reproduction.*
 
-# WCBS 880 - Privacy - The Home of Traffic and Weather Together. WCBS880 AM. Up to the minute News, Traffic, Weather, Sports and Finance for the Tri-State Area. Get all the news you need online.
+# WCBS 880 - Privacy
 
 Privacy Statement January 1, 2000 12:00 am   
 CBS takes your electronic privacy seriously. We do not share Personally Identifiable Information with anyone unless we tell you otherwise when we collect the information.
@@ -115,4 +115,7 @@ New York, New York 10019**
 
 Sometimes we want personal information from you so that we, our partners and our advertisers can send you some material we think might be of interest to you. 
 
-We promise never to be sneaky about it getting this information from you. We always tell you up front what we’re going to do with the answers, and we always give you a chance to say “no thanks.” 
+We promise never to be sneaky about it getting this information from you. We always tell you up front what we’re going to do with the answers, and we always give you a chance to say “no thanks.”
+
+  
+
