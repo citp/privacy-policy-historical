@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the strangecosmos.com privacy policy that was archived on 2004-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040509132136id_/http%3A//www.strangecosmos.com/read.adp%3Fjoke_id%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strangecosmos.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207004934id_/http%3A//www.strangecosmos.com/static/privacy_policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy
 
-**      
-     PRIVACY POLICY**
-
-Online Privacy Statement 
+Online Privacy Statement
 
 StrangeCosmos.com respects the privacy of visitors to our site. Please read this Privacy Statement carefully so that you understand our privacy practices relating to information we gather through this website. Other policies may apply to information we gather elsewhere. Questions regarding privacy issues should be directed to StrangeCosmos.com at: privacy@StrangeCosmos.com. 
 
@@ -23,7 +20,7 @@ Bi-Weekly e-letter
 
 StrangeCosmos.com offers electronic e-letters to users. StrangeCosmos.com gathers the email addresses of users who voluntarily subscribe. You may opt-out of receiving future electronic e-letters by sending an email to the address provided in each mailer or directly to info@strangecosmos.com. 
 
-StrangeCosmos.com delivers e-letters, marketing and product offerings via email to registered recipients from our subscription center.· 
+StrangeCosmos.com delivers e-letters, marketing and product offerings via email to registered recipients from our subscription center.? 
 
 Choice / Opt-out 
 
@@ -57,7 +54,7 @@ We use MaxWorldwide and other third-party advertising companies to serve ads whe
 
 Third Party Cookies 
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique ?cookie? on your browser. 
 
 DISCLOSURES 
 
@@ -73,14 +70,4 @@ Information gathered on our website is stored within StrangeCosmos.com controlle
 
 CHANGES TO THIS PRIVACY STATEMENT 
 
-If we change our privacy policy at some point in the future, we will post the changes before they take effect. If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use.
-
-[Email This to a Friend ](https://web.archive.org/web/20040509132136id_/http%3A//www.strangecosmos.com/jokes/email_to_friend.adp?joke_id=145)
-
-[More ' Current News Articles of Interest' Jokes](https://web.archive.org/jokes/jokes_category_view.adp?joke_category_id=26)
-
-**PRIVACY POLICY**
-
-[](http://www.e-safecertified.com/members/remote_details.asp?ID=1047)  
-[click to verify](http://www.e-safecertified.com/members/remote_details.asp?ID=1047)  
-
+If we change our privacy policy at some point in the future, we will post the changes before they take effect. If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use. 
