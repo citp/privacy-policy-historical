@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602173403id_/http%3A//www.nlm.nih.gov/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214120956id_/http%3A//www.nlm.nih.gov/disclaimer.html) for the most accurate reproduction.*
 
 # Copyright and Privacy Notice
 
