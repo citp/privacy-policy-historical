@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609194143id_/http%3A//cableorganizer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2002-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021225022734id_/http%3A//www.cableorganizer.com/privacy.html) for the most accurate reproduction.*
 
-# CableOrganizer.com - Privacy Policy
+# Cable Organizer .com - Privacy Policy
 
-This is the web site of **CableOrganizer.com**. 
+“We never rent or sell our customers' data to anyone. All information held is strictly confidential.”
 
-Our postal address is   
-**1141 SE 9th Terrace  
-Pompano Beach, FL 33060**
+This is the web site of CableOrganizer.com.
+
+> Our postal address is:  
+>  1141 SE 9th Terrace  
+>  Pompano Beach, FL 33060
 
 We can be reached via e-mail at [sales@cableorganizer.com](mailto:sales@cableorganizer.com)
 
@@ -36,4 +38,5 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.  
+
