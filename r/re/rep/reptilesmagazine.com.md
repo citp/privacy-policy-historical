@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the reptilesmagazine.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205081105id_/http%3A//www.animalnetwork.com/anpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reptilesmagazine.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014111835id_/http%3A//www.animalnetwork.com/anpriv.asp) for the most accurate reproduction.*
 
 # Animal Network Privacy Policy Page
+
+| 
 
 **Animal Network Privacy Policy**
 
@@ -16,7 +18,7 @@ While your individual information is protected as outlined above, we reserve the
 
 **Copyright**
 
-All software, website design, text, graphics, and the arrangement thereof, is Copyright (c)1996-2001 by Animal Network, a division of Fancy Publications Inc. All rights reserved. Permission is granted to print portions of this website for the sole purpose of personal use of content for reference. Any other use of materials on this website including reproduction for purposes other than those noted above, modification, distribution, or republication without the prior written permission of Fancy Publications Inc. is strictly prohibited.
+All software, website design, text, graphics, and the arrangement thereof, is Copyright (c)1996-2002 by Animal Network, a division of Fancy Publications Inc. All rights reserved. Permission is granted to print portions of this website for the sole purpose of personal use of content for reference. Any other use of materials on this website including reproduction for purposes other than those noted above, modification, distribution, or republication without the prior written permission of Fancy Publications Inc. is strictly prohibited.
 
 **Trademarks**
 
@@ -55,6 +57,8 @@ Animal Network
 Irvine, CA 92618  
 USA
 
-**Copyright 1996-2001 Animal Network, a division of Fancy Publications, Inc.  
-All rights reserved.  
-**
+**Copyright 1996-2002 Fancy Publications, Inc.  
+All rights reserved.**
+
+ ****  
+---|---
