@@ -1,25 +1,6 @@
-> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 1999-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991201050102id_/http%3A//realadventures.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 2000-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000608161031id_/http%3A//www.realadventures.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
-
-   |  [**Travel Forum**](https://web.archive.org/mv/forum.mv?ShowForumTopics) **Listings**  
-  [Destinations](https://web.archive.org/mv/destinations.mv)  
-  [Listing Categories](https://web.archive.org/mv/category.mv)  
-  [Most Recent](https://web.archive.org/mv/most.mv?Recent)  
-  [Most Popular](https://web.archive.org/mv/most.mv?Popular)[Add/Update Listings](https://web.archive.org/mv/listingmanagers.mv) **News & Stories**  
-  [Special Travel Deals](https://web.archive.org/mv/showframe.mv?/mv/syndicate.mv+Special_Travel_Deals)  
-  [Travel Stories](https://web.archive.org/mv/showframe.mv?/mv/syndicate.mv+Travel_Stories)  
-  [Current Travel News](https://web.archive.org/mv/showframe.mv?/mv/syndicate.mv+Current_Travel_News) **Travel Tools**  
-  [Currency Converter](https://web.archive.org/mv/currencyconverter.mv)  
-  [Time Zones](https://web.archive.org/mv/timezones.mv)  
-  [Travel Calendar](https://web.archive.org/calendar.htm)  
-  [Calculator](https://web.archive.org/calculator.htm) **Other**  
-  [Kudos](https://web.archive.org/kudos.htm)  
-  [Awards](https://web.archive.org/awards_page.htm)  
-  [Partners](https://web.archive.org/partners.htm)  
-  [Links](https://web.archive.org/links_page.htm)  
-  [Privacy Policy](https://web.archive.org/privacy.htm)  
-  [About Us](https://web.archive.org/aboutrealadventures.htm) |      | 
+# RealAdventures: Privacy Policy
 
 ### **Privacy Policy**
 
@@ -45,13 +26,13 @@
 > 
 > ### **What and how is information collected?**
 > 
-> Real Adventures collects information about visitors to our site in several different ways.
+> RealAdventures collects information about visitors to our site in several different ways.
 > 
 > **Cookies:** We use cookies to track the number of unique and total visitors to our web site. Cookies are used to help us understand what areas of our web site visitors are most interested in, how often they visit those areas, and how long they visit our site. We use this information as part of our research to enhance our site, market our services to visitors and advertisers and to provide a more personalized experience for each visitor. Cookies are stored on your local hard drive and contain a unique visitor number, the last time your visited the site and some other limited information.
 > 
-> **E-Mail List:** Visitors that sign-up to receive promotional e-mails from us provide personal information that is used to customize the contents of the e-mail we send to them. This information includes name, e-mail address, age, gender, city, state, country, travel frequency and interests and income. Visitors can elect to either receive or not receive e-mails directly from our advertisers. This information is used exclusively by Real Adventures, its affiliates and advertisers under strict confidentiality agreements. Typically, only your e-mail address will be shared. **NOTE:** If you do not sign-up for the promotional e-mail, you will not have provided us with your e-mail address and as a result you will not receive e-mails from us or our advertisers.
+> **E-Mail List:** Visitors that sign-up to receive promotional e-mails from us provide personal information that is used to customize the contents of the e-mail we send to them. This information includes name, e-mail address, age, gender, city, state, country, travel frequency and interests and income. Visitors can elect to either receive or not receive e-mails directly from our advertisers. This information is used exclusively by RealAdventures, its affiliates and advertisers under strict confidentiality agreements. Typically, only your e-mail address will be shared. **NOTE:** If you do not sign-up for the promotional e-mail, you will not have provided us with your e-mail address and as a result you will not receive e-mails from us or our advertisers.
 > 
-> **Listing Managers/Owners:** We collect a significant amount of information from individuals and advertisers that add their listing to our web site. This information includes name, e-mail address, mailing address, property address, city, state, country and descriptive information about the listing. Listors can elect to either receive or not receive e-mails directly from our advertisers. This information is used exclusively by Real Adventures, its affiliates and advertisers under strict confidentiality agreements. Typically, only your e-mail address will be shared. **NOTE:** If you do not add your listing, you will not have provided us with your e-mail address and as a result you will not receive e-mails from us or our advertisers.
+> **Listing Managers/Owners:** We collect a significant amount of information from individuals and advertisers that add their listing to our web site. This information includes name, e-mail address, mailing address, property address, city, state, country and descriptive information about the listing. Listors can elect to either receive or not receive e-mails directly from our advertisers. This information is used exclusively by RealAdventures, its affiliates and advertisers under strict confidentiality agreements. Typically, only your e-mail address will be shared. **NOTE:** If you do not add your listing, you will not have provided us with your e-mail address and as a result you will not receive e-mails from us or our advertisers.
 > 
 > * * *
 > 
@@ -60,9 +41,9 @@
 > 
 > ### **How is the information used?**
 > 
-> Real Adventures uses the information we collect about you in a variety of ways. One of our primary goals is to provide you with the most valuable, personalized, information rich and entertaining web site we can offer. The information is part of our research used to enhance our site, attract visitors and advertisers and market our services. This information may be shared with our advertisers under strict confidentiality agreements.
+> RealAdventures uses the information we collect about you in a variety of ways. One of our primary goals is to provide you with the most valuable, personalized, information rich and entertaining web site we can offer. The information is part of our research used to enhance our site, attract visitors and advertisers and market our services. This information may be shared with our advertisers under strict confidentiality agreements.
 > 
-> Visitors that sign up for our promotional e-mails will receive occasional e-mails on information that they indicated an interest in. Typically these e-mails will include last-minute travel/adventure opportunities, discounts, special events, news events, other promotional travel-related information and announcements of new features available on the Real Adventures web site.
+> Visitors that sign up for our promotional e-mails will receive occasional e-mails on information that they indicated an interest in. Typically these e-mails will include last-minute travel/adventure opportunities, discounts, special events, news events, other promotional travel-related information and announcements of new features available on the RealAdventures web site.
 > 
 > Listing Owners/Managers will receive occasional e-mails notifing them of new features added to our web site, changes made to their listings, reports on the number and frequency of visitors to their listing(s).
 > 
@@ -73,9 +54,9 @@
 > 
 > ### **Who is collecting information?**
 > 
-> While visiting the Real Adventures web site, the information we collect is used strictly by Real Adventures, unless specifically stated otherwise. For some services, we may share your information with an affiliate or partner to enhance the service we offer to you. Any information we share with others is done under strict confidentiality and privacy agreements.
+> While visiting the RealAdventures web site, the information we collect is used strictly by RealAdventures, unless specifically stated otherwise. For some services, we may share your information with an affiliate or partner to enhance the service we offer to you. Any information we share with others is done under strict confidentiality and privacy agreements.
 > 
-> **NOTE:** Advertisers and listors on the Real Adventures site may have links to their or other sites. The information that they collect and how it is used is not covered by this privacy policy. Please refer to the privacy policies on their web sites.
+> **NOTE:** Advertisers and listors on the RealAdventures site may have links to their or other sites. The information that they collect and how it is used is not covered by this privacy policy. Please refer to the privacy policies on their web sites.
 > 
 > * * *
 > 
@@ -84,9 +65,9 @@
 > 
 > ### **With whom is the information shared?**
 > 
-> Real Adventures does not share any information collected about you, unless you specifically agreed to or as required to by law. If information is shared with others, it is done under strict confidentiality and privacy agreements.
+> RealAdventures does not share any information collected about you, unless you specifically agreed to or as required to by law. If information is shared with others, it is done under strict confidentiality and privacy agreements.
 > 
-> **NOTE:** Real Adventures may also disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Real Adventures' rights or property, other Real Adventures' visitors, or anyone else that could be harmed by such activities. Real Adventures may disclose user information when we believe in good faith that the law requires it. 
+> **NOTE:** RealAdventures may also disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) RealAdventures' rights or property, other RealAdventures' visitors, or anyone else that could be harmed by such activities. RealAdventures may disclose user information when we believe in good faith that the law requires it. 
 > 
 > * * *
 > 
@@ -95,11 +76,11 @@
 > 
 > ### **What are my choices regarding collection, use, and distribution of my information?**
 > 
-> Real Adventures uses cookies to help us better understand how our site is accessed and utilized. The cookies do not contain any personal information about you. We place the date, time and a unique identifier in the cookie that we create and place on your hard drive. If you prefer not to have these cookies installed on your hard drive, you may be able to change the cookie settings of your browser. Most browsers provide you with options to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you decide to reject all cookies you will still be able to use the Real Adventures site. But by doing so, we will not be able to present you with a personalized version of our site that reflects your style, preferences and tastes.
+> RealAdventures uses cookies to help us better understand how our site is accessed and utilized. The cookies do not contain any personal information about you. We place the date, time and a unique identifier in the cookie that we create and place on your hard drive. If you prefer not to have these cookies installed on your hard drive, you may be able to change the cookie settings of your browser. Most browsers provide you with options to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you decide to reject all cookies you will still be able to use the RealAdventures site. But by doing so, we will not be able to present you with a personalized version of our site that reflects your style, preferences and tastes.
 > 
 > **Visitors:** If you sign up to receive promotional e-mails, you will be providing us with some personal information to help us tailor the e-mail's to your interests and needs. Only if you authorize us to do so, will your information be shared with affiliates and advertisers, but then under strict confidentiality and privacy agreements. Typically, only your e-mail address will be shared. You can change your personal information at any time.
 > 
-> **Listing Owners/Managers:** If you add your listing to the Real Adventures web site, you are doing so with the understanding that the information will be available through our search engines to all visitors. In addition, if you authorize us to, we may share some of your listing information with other advertisers. You can change this authorization at any time.
+> **Listing Owners/Managers:** If you add your listing to the RealAdventures web site, you are doing so with the understanding that the information will be available through our search engines to all visitors. In addition, if you authorize us to, we may share some of your listing information with other advertisers. You can change this authorization at any time.
 > 
 > * * *
 > 
@@ -119,9 +100,9 @@
 > 
 > ### **What security precautions are used to prevent unauthorized access or updates to my information?**
 > 
-> All information collected for promotional e-mails or listings information are assigned a unique number along with a user specified password. Only you and Real Adventures staff have access to this information. We recommend using a 'complex' password that is difficult to guess. Complex password include a combination of upper and lower case letters, numbers and/or punctuation. Examples: Apple.Sauce, Telephone.Antenna, USA34John. If the correct password is not entered within three attempts that record will be locked until Real Adventures is connected with identifing information.
+> All information collected for promotional e-mails or listings information are assigned a unique number along with a user specified password. Only you and RealAdventures staff have access to this information. We recommend using a 'complex' password that is difficult to guess. Complex password include a combination of upper and lower case letters, numbers and/or punctuation. Examples: Apple.Sauce, Telephone.Antenna, USA34John. If the correct password is not entered within three attempts that record will be locked until RealAdventures is connected with identifing information.
 > 
-> Do not reveal your account number, listing number or password to anyone. This will ensure that others will not be able to access or update your information. Real Adventures does not update listing or personal information.
+> Do not reveal your account number, listing number or password to anyone. This will ensure that others will not be able to access or update your information. RealAdventures does not update listing or personal information.
 > 
 > While most companies and individuals access the Internet for legitimate personal and business reasons, there are some who seek to gain access to or corrupt private information. They may attempt to do this by intercepting data transmissions or hacking at your password. We cannot prevent security breaches of this nature. But we will make every effort to ensure data privacy, security and integrity once we receive it.
 > 
@@ -155,6 +136,4 @@
 >   * [How to Protect Your Privacy](http://www.ftc.gov/privacy/index.html) \- information from the Federal Trade Commission. 
 >   * [Yahoo!'s Internet Privacy Category](http://www.yahoo.com/Computers_and_Internet/Internet/Policy/Privacy/)
 > 
-  
-  
----|---|---|---
+
