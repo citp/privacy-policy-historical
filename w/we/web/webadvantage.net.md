@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webadvantage.net privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211024621id_/http%3A//www.webadvantage.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webadvantage.net privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622061627id_/http%3A//www.webadvantage.net/privacy.cfm) for the most accurate reproduction.*
 
 # About Web Ad.vantage
 
@@ -17,6 +17,6 @@ When visiting any Internet site your unique address called an "IP address" is re
 To have personal information removed from the WebAdvantage.net, Inc. database contact  [privacy@webadvantage.net](mailto:privacy@webadvantage.net).   
   
   
-Call us today to discuss your web site marketing goals: **1-410-297-9495**. Or, fill out our [online RFP Form](https://web.archive.org/web/20021211024621id_/http%3A//www.webadvantage.net/contact_rfp.htm) or [e-mail us](mailto:marketing@webadvantage.net) directly with your name, company, telephone number and e-mail address. 
+Call us today to discuss your web site marketing goals: **1-410-297-9495**. Or, fill out our [online RFP Form](https://web.archive.org/web/20030622061627id_/http%3A//www.webadvantage.net/contact_rfp.htm) or [e-mail us](mailto:sales@webadvantage.net) directly with your name, company, telephone number and e-mail address. 
 
-**[](https://web.archive.org/web/20021211024621id_/http%3A//www.webadvantage.net/tip.cfm)**
+**[](https://web.archive.org/web/20030622061627id_/http%3A//www.webadvantage.net/tip.cfm)**
