@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2002-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021126221003id_/http%3A//www.mysa.com/mysanantonio/aboutus/mysanantonio/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601150911id_/http%3A//www.mysa.com/mysanantonio/aboutus/mysanantonio/privacy.shtml) for the most accurate reproduction.*
 
 # My San Antonio: Privacy Policy
 
