@@ -1,34 +1,33 @@
-> *The following text is extracted and transformed from the websiteiq.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteiq.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/privacy.htm) for the most accurate reproduction.*
 
 # Website I.Q. ~ Shop Smart ~ Privacy & Security Policy
 
 **Privacy and  
 Security Policy**   
-[Home](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/index.htm)  
-[Holiday Shopping](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/seasonal_store.htm)  
-[Appliances & Housewares](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/appliance_store.htm)  
-[Electronics](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/electronics_store.htm)  
-[Cameras & Video](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/camera_store.htm)  
-[Computer Hardware](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/pc_store.htm)  
-[Computer Software](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/software_store.htm)  
-[Movies](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/dvd_store.htm)  
-[Music](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/music_store.htm)  
-[Books](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/books_store.htm)  
-[Toys & Video Games](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/toys_store.htm)  
-[Sports & Recreation](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/sports_store.htm)  
-[Pet Products](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/pet_store.htm)  
-[Flowers & Plants](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/flower_store.htm)  
-[Gifts](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/gifts_store.htm)  
-[Gourmet Food](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/food_store.htm)  
-[Apparel](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/apparel_store.htm)  
-[Jewelry & Watches](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/jewelry_store.htm)  
-[Health & Nutrition](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/health_store.htm)  
-[Beauty](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/beauty_store.htm)  
-[Home Décor](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/decor_store.htm)  
+[Home](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/index.htm)  
+[Appliances & Housewares](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/appliance_store.htm)  
+[Electronics](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/electronics_store.htm)  
+[Cameras & Video](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/camera_store.htm)  
+[Computer Hardware](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/pc_store.htm)  
+[Computer Software](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/software_store.htm)  
+[Movies](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/dvd_store.htm)  
+[Music](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/music_store.htm)  
+[Books](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/books_store.htm)  
+[Toys & Video Games](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/toys_store.htm)  
+[Sports & Recreation](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/sports_store.htm)  
+[Pet Products](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/pet_store.htm)  
+[Flowers & Plants](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/flower_store.htm)  
+[Gifts](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/gifts_store.htm)  
+[Gourmet Food](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/food_store.htm)  
+[Apparel](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/apparel_store.htm)  
+[Jewelry & Watches](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/jewelry_store.htm)  
+[Health & Nutrition](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/health_store.htm)  
+[Beauty](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/beauty_store.htm)  
+[Home Décor](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/decor_store.htm)  
 [Gardening &  
-Outdoor Accents](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/garden_store.htm)  
-[Office Products](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/office_store.htm)  
-[Travel & Entertainment](https://web.archive.org/web/20031202213710id_/http%3A//www.websiteiq.com/travel_store.htm)  
+Outdoor Accents](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/garden_store.htm)  
+[Office Products](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/office_store.htm)  
+[Travel & Entertainment](https://web.archive.org/web/20040607193754id_/http%3A//www.websiteiq.com/travel_store.htm)  
 |  **Your Privacy Matters to Website I.Q.!**
 
 Website I.Q. has created this privacy statement to demonstrate our commitment to privacy and to outline how we plan to handle such information. The following describes our information gathering and usage practices for www.websiteiq.com.
@@ -54,4 +53,4 @@ Last updated 1-4-2003
 * Turbo-Net Solutions does not control prices, inventory, or shipping on products contained in these pages.  
 Prices, stock availability, and shipping policies are subject to change. Not responsible for typographical errors.   
 [_Privacy & Security_](http://www.websiteiq.com/privacy.htm)  
-**© Copyright 1999–2003, Turbo-Net Solutions**
+**Copyright © 1999–2004, Turbo-Net Solutions, Inc.**
