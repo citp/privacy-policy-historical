@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isaserver.org privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407154020id_/http%3A//isaserver.org/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isaserver.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204193410id_/http%3A//www.isaserver.org/pages/privacy.asp) for the most accurate reproduction.*
 
-# Online privacy statement - ISAserver.org
+# Privacy statement
 
 In general, you can visit ISAserver.org on the World Wide Web without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site. 
 
@@ -16,4 +16,5 @@ ISAserver.org currently supports the proposed Online Privacy Protection Act, spo
 
 Microsoft, ISA Server, Internet Security and Information Server, Microsoft Exchange Server, Microsoft Outlook, Microsoft Visual Basic, Microsoft Windows, Microsoft Windows 95, Microsoft Windows 98, Microsoft Windows 2000, and Microsoft Windows NT are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. All other trademarks are the property of their respective owners.
 
-Should you have any question about the privacy issues here at ISAserver.org, please [contact us](https://web.archive.org/web/20020407154020id_/http%3A//isaserver.org/pages/contactus.htm), and we will take measures to correct any problems. 
+Should you have any question about the privacy issues here at ISAserver.org, please [contact us](mailto:isainfo@isaserver.org), and we will take measures to correct any problems.   
+
