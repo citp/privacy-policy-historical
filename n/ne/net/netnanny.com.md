@@ -1,113 +1,107 @@
-> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212201326id_/http%3A//www.netnanny.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622175055id_/http%3A//aboutus.looksmart.com/about.jhtml%3Fdir%3Dcorp%26page%3Dprivacy) for the most accurate reproduction.*
 
-# BioNet Systems, LLC Privacy Policy for Net Nanny.com
+# None
 
-_Note:_ This privacy statement was last changed on November 21st, 2002.
+June 10, 2004
 
-At BioNet Systems, LLC, we take your right to privacy very seriously. Our Privacy Policy is as follows:
+LookSmart has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the following LookSmart sites: [www.looksmart.com](http://www.looksmart.com/) and [listings.looksmart.com](http://listings.looksmart.com/). 
 
-BioNet Systems, LLC will not share or re-sell personally identifiable information in any way, shape or form. All registration information is kept private.
+The following questions are answered below: 
 
-## Your Consent
-
-By using our site, you consent to the collection and use of information as described in this Privacy Policy, which was last updated on November 21, 2002. Any changes to our Privacy Policy will be reflected on this page so that you are always aware of the information we collect and how we use it.
-
-## Use of Your Information
-
-Registration is not required to access our site or view our content. The data we collect is aggregated and analyzed to provide us with a better understanding of our visitors’ likes and dislikes. For those visitors who have expressly stated an interest in receiving other information or offers, we will do individual profiling for certain mailings based upon their individual preferences. You will not receive any communication from us unless you expressly stated that you wish to receive this type of information.
-
-Cookies are employed to provide you with features such as merchandise transactions and registered services. These cookies, as described in detail below, allow us to know that you have visited our site in the past, and possibly registered for more information or bought any of our products. We use these cookies to ensure it is easier for you to purchase items from us in the future, as well as ensure that you will not have to re-register for membership, information, etc.
-
-## Children Under 13
-
-BioNet Systems, LLC is not directed to children under the age of 13. BioNet Systems, LLC prohibits registration by children under the age of 13. BioNet Systems, LLC will not knowingly collect personally identifiable information from children under 13.
-
-## Shopping
-
-We must collect the purchaser’s name, e-mail address, mailing address, credit card number, expiration date, and password. This allows for processing and fulfillment of orders, as well as the ability to notify you of your order status. We use passwords to ensure it is easier for you to purchase items from us in the future, as well as ensure that you will not have to re-register before shopping.
-
-### A Special Note About Children
-
-Persons under the age of 18 are not eligible to use any shopping services on this site.
-
-## Contests & Other Promotional Services
-
-When you enter contests sponsored by BioNet Systems, LLC, or sign up for other services, we request personal identifying information from you. BioNet Systems, LLC uses the following information for fulfilling prizes:
-
-  * First and last name
-  * Home or other physical address
-  * E-mail address
+  1. What information does LookSmart collect?
+  2. What organization is collecting the information?
+  3. What does LookSmart do with the data it collects?
+  4. With whom does LookSmart share data?
+  5. What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?
+  6. How can I update or correct my information?
+  7. How can I delete your information or deactivate my membership?
+  8. What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart's control?
+  9. What about privacy policies for sites linked to LookSmart?
+  10. What happens to my information if LookSmart merges with or is sold to another company?
 
 
 
-## Newsletter
+We suggest that you practice reasonable discretion when you provide any site with personal information. Note also that whenever you post personal information in publicly accessible places, this information becomes available to anyone with access to the Internet. Therefore, we recommend that you refrain from posting any information you do not want seen in these public areas. You should feel free to contact any site that requests personal information from you if you have any questions regarding its policies. 
 
-To receive the electronic version of our newsletter, we ask you to provide your e-mail address.
+If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, email [copyright@looksmart.net](mailto:copyright@looksmart.net). 
 
-## Surveys
+**1.  What information does LookSmart collect? At different times, LookSmart may collect six types of information about you.**
 
-All of our services are open to all of our visitors; you are not required to fill out any personal data to access our site. When you participate in a survey administered by BioNet Systems, LLC, we request personal identifying information from you, including the following:
+At different times, LookSmart may collect several types of information about you. Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form. 
 
-  * First and last name (optional)
-  * Title or Occupation
-  * Name of Business
-  * Business or other physical address (optional)
-  * E-mail address (optional)
-  * Phone (optional)
-  * Fax (optional)
+First, we or our partners or advertisers use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer - but not you - to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user but may be correlated with identity information in our log files. You can turn the cookies feature off by using your browser's preference options, but you may not be able to utilize some services properly. 
 
+Second, we keep track of your IP address to help diagnose problems with our servers and to administer our sites. Your IP address is also used to gather broad demographic information about you, such as your location and your Internet service provider. LookSmart may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries. 
 
+Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. 
 
-We will utilize this information as follows: As a user, customer, or contest entrant, you may occasionally receive e-mail updates from us about: (1) important functionality changes, (2) special offers through us on behalf of our partners, and (3) new Net Nanny services and other news items. Our goal is that you will find these updates interesting and informative. Each e-mail we send includes instructions on how to unsubscribe from our mailing list.
+Fourth, at specific times we may ask you to provide us with personal information in order for you to register for a service or to enter a sweepstakes. This information may include but is not limited to your name and email address. You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service or offer you personalized content. 
 
-You can send mail to the following postal address:
+Fifth, we may collect credit card information if you register for or purchase goods or services, including listings services, on our site. We protect credit card transactions through encryption, although we cannot guarantee complete security. In order to complete a transaction, payment information may be transferred through one of our partners who process such information. 
 
-Customer Service  
-c/o BioNet Systems, LLC  
-14205 SE 36th Street  
-Suite 100  
-Bellevue, WA 98006
+Sixth, we also collect information through the use of "pixel tags" included in email messages we may send to you. Pixel tags are tiny graphic files, not visible to the human eye, that are included in HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our server to retrieve the pixel tag file, allowing us to record and store, along with the recipient's email address, the date and time the recipient viewed the email message, that the recipient's email program is capable of receiving HTML-encoded email, and other standard logging information. The pixel tag also may see or read cookies. 
 
-## Use of Cookies
+Seventh, we contract with Coremetrics, a service partner, to provide us with a data collection and reporting service for our web sites. We also have asked Coremetrics to store certain legacy data that we received from visitors to our sites (which may include email addresses) prior to our relationship with them, so that we may access this information via their reporting service. If you access our sites, Coremetrics may collect information about you on our behalf. Coremetrics may gather data in several ways, including through the use of pixel tags. For further information, including how to opt out, please see: <http://www.coremetrics.com/info_eluminate2.html>. 
 
-BioNet Systems, LLC uses cookies for our users' convenience and to understand our customers better. Cookies are pieces of information that a Web site transfers to an individual's hard disk for record-keeping purposes. The use of cookies is an industry standard; you'll find them at most Web sites.
+**2.  What organization is collecting the information?**
 
-In order to make your visits to www.netnanny.com as informative as possible, we utilize a variety of services that assist us in measuring our website traffic: are you a repeat visitor, flow, page views, and entry points to the site. We believe this helps us continuously improve www.netnanny.com making it more user-friendly, more personalized and more service-oriented.
+LookSmart usually collects the requested information. However, LookSmart has chosen select partners in order to provide certain services. In order to use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by LookSmart. The areas of our site in which partners are collecting information may be cobranded with our partners' logos. If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly. 
 
-If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to reject or accept the Cookie feature (please consult your browser’s help instructions, e.g. Microsoft.com or Netscape.com).
+Some of our content partners, as well as advertisers who display ads on our site, may use cookies or otherwise independently collect information from you. We do not control their collection and use of information. 
 
-The following information is usually reported to our website regardless of whether you reject cookies:
+**3.  What does LookSmart do with the data it collects?**
 
-  * IP address (your computer's network address)
-  * Internet Service Provider (e.g., Earthlink)
-  * The make and version of your browser
+Whenever LookSmart collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, specific personal information is not shared with our advertisers, except as otherwise stated in this privacy policy. 
 
+We use IP addresses to help diagnose problems with our server and to administer our site. 
 
+When you register for unique services on our site, we collect additional information from you in order to provide you with those specific services and to personalize your experience on the site. We may use information to target offerings that may be of interest to you and/or to analyze aggregate user data in order to improve our services. In addition, certain services on LookSmart may utilize cookies to track your selections during your visit (such as your geographical location so that we can supply you with correct services and information). That cookie may be supplied by LookSmart or one of its content partners. 
 
-## Content
+On occasion we may email bulletins to provide you (primarily if you are a LookSmart customer) with information that we think you will find useful, including information about new products and services. We may also contact you to see if you are interested in participating in market research regarding LookSmart. We may also send a monthly or bimonthly newsletter by email to our users. It is our policy to send these promotional emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe and avoid receiving any future emails from us. Please see our Opt Out Policy section below. LookSmart also may contact you by email to respond to customer service complaints you have submitted, to address a problem affecting your use of the service or to verify your account information if you submit a password request. If at any time you feel you have received e-mail from LookSmart that you did not request, please send your concerns, along with a copy of the e-mail, to [copyright@looksmart.net](mailto:copyright@looksmart.net). 
 
-  1. Third Party 
+Users who have registered for or purchased our products or services through our site may receive separate promotional information on occasion, by email or telephone. 
 
-BioNet Systems, LLC is a distributor of content supplied by third parties (e.g. articles, reviews). BioNet Systems, LLC has no control over such content. Any opinions, statements, advice, offers, or other information are those of the respective author(s) and not of BioNet Systems, LLC.
+**4.  With whom does LookSmart share data?**
 
-  2. Original Content 
+LookSmart may disclose your personal information to our business partners in order to provide you with the services you have requested, or to companies that offer a cobranded version of our site. If you have questions regarding the privacy policy or data-collection practices of one of our business partners, please contact that partner directly. LookSmart does not have control over and is not responsible for the data collection and use practices of our business partners. 
 
-BioNet Systems, LLC publishes content that is protected by copyrights, trademarks and other intellectual and proprietary rights; these rights are valid and protected in all media. Unless otherwise noted: you may not reproduce, distribute, publish, commercially exploit or otherwise transfer any material.
+We also may disclose your personal information (including without limitation IP addresses) to a third party if we believe in good faith that the law or legal process requires it, to protect the rights or property of LookSmart or others, or as otherwise described in this privacy policy. 
 
+We may share aggregate demographic information (such as information about clicks delivered to the sites of our listings customers) with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances. 
 
+**5.  What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?**
 
+Many of the services available on our sites provide you with the opportunity to opt out of receiving communications from us and our partners. In addition, in our email communications, we will have instructions on how to unsubscribe so that you will not receive any future emails from us if you so choose. 
 
-## Privacy Statement Changes
+We contract with Coremetrics, a service partner, to provide us with a data collection and reporting service. If you access our site, Coremetrics may collect information about you on our behalf. For further information, including how to opt out, please see: <http://www.coremetrics.com/info_eluminate2.html>. 
 
-BioNet Systems, LLC reviews its Privacy Policy periodically, and is subject to change.
+As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content. 
 
-If you have any questions about our privacy practices, or this Policy you may contact us at:
+**6.  How can you update or correct your information?**
 
-Customer Service  
-BioNet Systems, LLC  
-14205 SE 36th Street  
-Suite 100  
-425-649-1100 phone  
-425-649-1110 fax
+LookSmart does not currently have a method for users to change their user information. In the case of personalized services, you will be able to modify your user information through personalization links on those pages. 
 
-last updated 11/21/2002
+**7.  How can you delete your information or deactivate your membership?**
+
+If you would like to deactivate your membership with one of the services offered on LookSmart, please visit that service on the site. LookSmart currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some LookSmart services. 
+
+**8.  What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart's control?**
+
+Except as otherwise stated in this privacy policy, LookSmart has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at LookSmart or its partners, and only after a password has been entered. In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, LookSmart will send a notification to the email address on file for each relevant user informing him or her of the security breach. 
+
+**9.  What about privacy policies for sites linked to LookSmart?**
+
+As a search engine, LookSmart contains many links to Web sites not affiliated with LookSmart. These sites have their own policies and practices with respect to online privacy, and LookSmart cannot be responsible for the privacy practices or the content of these unaffiliated Web sites. In addition, in certain instances a LookSmart advertiser may ask you for personal information. LookSmart cannot be responsible for the privacy practices of its advertisers. 
+
+**10. What happens to my information if LookSmart merges with or is sold to another company?**
+
+It is possible that LookSmart and/or any of our assets may be acquired. In such a transaction, customer information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect. 
+
+**Notification of Changes**
+
+This policy may be revised over time as new features are added to the Web site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this Web page for information about revisions to our privacy policy. 
+
+**Contact Information**
+
+If you have any questions about this privacy policy or about LookSmart's information collection practices, please contact us at [copyright@looksmart.net](mailto:copyright@looksmart.net).   
+
