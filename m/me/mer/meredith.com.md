@@ -1,25 +1,71 @@
-> *The following text is extracted and transformed from the meredith.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209222300id_/http%3A//www.meredith.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meredith.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607074159id_/http%3A//meredith.com/privacy.html) for the most accurate reproduction.*
 
 # Meredith Corporation Online Privacy Statement
 
-**Meredith Corporation Online Privacy Statement**
+| 
 
-Since 1902, Meredith Corporation has focused on providing our customers with products and services that distinguish themselves on the basis of quality, customer service and value. Our Online Privacy Policies are designed to help us serve our customers while meeting their privacy expectations.
+**Meredith Corporation Online Privacy Policy**  
 
-We are a member of the Direct Marketing Association (DMA) and Magazine Publishers of America (MPA) and support self-regulation by these industry associations. We believe this is the best way to maintain good customer service while addressing the privacy concerns of our customers. Also, we actively participate in the DMA Privacy Committee, the DMA Ethics Operating Committee, and the MPA New Media Committee. 
 
-Additionally, we fully support and use the DMA Mail and Telephone Preference Services through which individuals may restrict the release of their names for marketing purposes.
+Welcome to our website! Meredith.com is a service provided by Meredith Corporation. Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online.
 
-When you register with our sites, enter contests or purchase items online, you may request that we remove your name from our marketing lists by sending an email message indicating your wish to restrict offers made to you.
+Please read this Privacy Policy carefully so that you understand our privacy practices regarding-
 
-Our Web sites automatically recognize some information about our visitors, including the company that provides their internet service. Our sites do not automatically recognize the name, address, e-mail address or similar information specific to an individual. Such identifying information is recorded only if you supply it to us via an e-mail, bulletin board message, or online form. Our "cookie" technology allows us to record how many times you visit our site and it helps us manage content. This information allows us to better serve visitors to the site and is not rented or sold to any other company. 
+  * Children Under 13
+  * Information we collect
+  * How your information will be used
+  * How you can correct your information
+  * Opt-Out Information
+  * Security and passwords
+  * Miscellaneous
 
-If you send a comment or request information from us via email, you will receive future communication from us through email.
 
-If you contact us to order product, comment or request information and provide us with your postal mailing address, you’ll be added to our database to receive future mailings.
 
-Meredith occasionally makes the lists of postal addresses volunteered on its Web site available to other carefully screened associations or companies whose products or services we think you may find of interest. We pre-screen all use of our information for our customers.
+If you have questions about this Privacy Policy, please contact us at [privacy@mdp.com](mailto:privacy@mdp.com)
 
-If you do not wish to receive such mailings, simply contact us [via email](http://www.home-and-family.com/registration/optout.html). If you prefer to send your request via regular mail and you receive Meredith magazines, simply copy your mailing label address exactly (or clip it out) and send your request to our Circulation Department at 1716 Locust Street, Des Moines, IA 50309-3023. 
+**Children Under 13:  
+**Meredith cares about the safety of children. Kids under 13 are not allowed to register with our website or to participate in public posting areas on our sites. We won’t knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We encourage you to become involved in your children's online experience, and to share your interest in our sites with your young ones.
 
-**Copyright 1998[Meredith Corporation](http://www.home-and-family.com/). All rights reserved.**
+**Information We Collect:**  
+The information we gather on our sites falls into two categories: (1) information you supply when you register or initiate transactions, and (2) tracking information collected as you navigate through our sites. Third-party providers featured on or linked to by our websites, such as vendors of products and services offered through our sites, may gather the same kinds of information.
+
+_Personally Identifiable Information_
+
+To use certain features on our sites, we ask you to register. When you register, we collect personally identifiable information about you including your name, mailing address, email address, user name and password. We may also ask for some additional information, for example, hobbies, age, browser type, and the like, but you're free to register without providing this information if you prefer. In addition, at various other points on our sites, we may ask you for personal information including when you: place an order for products, complete a survey, and report a problem with one of our sites. We use this information to process your orders and to help improve our sites.
+
+From time to time, we also may offer contests or other promotions involving marketing or advertising partners. If you choose to participate in one of these contests or promotions, you'll have to provide some information about yourself (such as name, address, and email address). We may share this information with co-sponsors of the contest or other promotional partners, but we will always identify the other parties involved (for example, in the contest rules). We don’t control these third parties’ privacy practices, and our Privacy Policy does not apply to their collection and use of personal information. We urge you to review their privacy policies and learn how they will use the information before participating. If you don’t want us to collect the information requested in the promotion, or to provide it to our cosponsors or partners, please do not participate in the promotion.
+
+_Aggregate Information_
+
+To help us serve your needs better, we use "cookies" to store and sometimes to track user information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie contains a unique number that allows our sites to identify your computer. For example, cookies allow us to keep track of your user name and password (if you are a registered visitor) so you don’t have to re-enter that information each time you visit our site. We also use cookies to make sure you don’t see the same ads repeatedly when you visit our sites. The help function on most browsers contains information on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you don’t accept cookies, you won’t be able to take advantage of various features on our sites that are available to other visitors. In addition, our advertising and marketing partners may use their own cookies. We use the services of a third-party advertising company to serve and target advertisements that you see on the pages of our sites and to serve and target promotions or other marketing messages. This advertising company also collects "clickstream data," information about your visit to our site and to other sites, that can be aggregated and used to target advertising on this and other sites, and used for marketing research and other similar purposes. This clickstream data does not include personally identifying information such as your name, address, email address or telephone number. This advertising company uses cookies for many of the same reasons we do, and collects information directly from our users. 
+
+When you use our sites, we may also collect your browser type, access time, and/or Internet Protocol ("IP") address, and keep records of this information. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. Your IP address does not tell us who you are. Like the IP address, none of this other information identifies you personally either; we collect it for aggregate reporting on site activity that we, and our advertisers, may use. For example, we may want to know how long the average user spends on our site, which pages or features get the most attention, and the like. The aggregate information helps to understand our audience and confirm the value of advertising on our websites.
+
+**How Your Information Will Be Used:**  
+Our primary goal in collecting information is to provide you with a customized experience when visiting our sites and to make our sites more valuable to you. We try to ensure that the banner advertisements we deliver to you are consistent with your interests. We may also email you with messages and advertising that we think may be of interest to you.
+
+To make your online experience more useful and enjoyable, our sites include links to other websites, and provides access to products and services offered by third-parties. We share with these third-parties such information as is necessary to provide the products or services. _We will not provide your email address to such third-parties unless it’s necessary to provide services you have requested, or to allow you to participate in a co-sponsored promotion_. For example, we will provide your name and email address to a marketing partner from which you’re purchasing goods or services. We also may provide links to other websites, and provide access to products and services offered by third-parties, whose privacy policies we don’t control. When you access another website or purchase products or services or conduct other transactions through our websites, use of any information you provide is governed by the privacy policy of the operator of the site you’re visiting or the provider of such products or services. When you provide information in the course of obtaining products or services through our sites, use of any information you provide may be governed by the privacy policy of the provider of those products or services, even if it appears that you’re on our site throughout the transaction. The provider’s privacy policy may differ from ours. If you can’t find the privacy policy of any of our provider partners via a link either from the site’s homepage or from the pages on which the products or services are offered, you should contact the provider directly for more information.
+
+In addition, we may share some personal information (but not your email address) with other companies that offer marketing information or products that we think will be of interest to you. If you do not wish to receive such mailings, please tell us. Send your request with your name and complete address to Circulation Department, Meredith Corporation, 1716 Locust Street, Des Moines, Iowa 50309-3023.
+
+We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Visitor Agreement](http://www.bhg.com/terms.htm), or to protect the rights, property or safety of visitors to our sites, the public, or Meredith Corporation. As our business grows, we may buy or sell various assets. In the unlikely event that Meredith Corporation, substantially all of our assets, or one or more of our sites (or substantially all of its assets) is acquired by another company, information on our visitors would be among the transferred assets.
+
+**How to correct or update your information:**  
+Meredith Corporation believes strongly in providing you with the ability to access and edit the personal information that you have provided to us. To update the information retained about you please visit our [Member Services](http://www.bhg.com/members) area.
+
+**Opt-out Information for:  
+**
+
+> **Newsletters:** If you no longer wish to receive e-mail newsletters, you can either (1) follow the 'update newsletter preferences' link located near the bottom of each message or (2) go to the BHG.com Member Center and click on the link to 'update your profile' and change your newsletter selections on the third page.
+> 
+> **Promotional E-mails:** If you do not wish to receive email promotions from us, send an e-mail to [dropme@mdp.com](mailto:dropme@mdp.com) with "Opt-out of Marketing" in the subject line to "opt out." Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can.
+
+**Security and Passwords:  
+**The personally identifiable information we collect is securely stored within our database, and we use standard, industry-wide procedures such as encryption, firewalls and SSL (Secure Socket Layers) for protecting your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won’t be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don’t want people to know your name or email address, for example, make sure not to include it in any message you post publicly. Please see our [Visitor Agreement](http://www.bhg.com/terms.htm) for more information related to posting materials on our sites, including our use of such materials.
+
+**Miscellaneous:**   
+The Internet is an evolving medium. If we need to change our Privacy Policy at some point in the future, we’ll post the changes before they take effect. By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our [Visitor Agreement](http://www.bhg.com/terms.htm). Please read both carefully before using or registering with any of our sites.
+
+Copyright 2001 Meredith Corporation. All rights reserved.   
+  
+---|---
