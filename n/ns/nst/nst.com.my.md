@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nst.com.my privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609063257id_/http%3A//www.nst.com.my/Current_News/NST/privacy_html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nst.com.my privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210092507id_/http%3A//www.nst.com.my/Current_News/NST/privacy_html) for the most accurate reproduction.*
 
 # New Straits Times - Malaysia News Online
 
