@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605223016id_/http%3A//www.sign-up.to/html/consumer/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019014659id_/http%3A//www.sign-up.to/html/consumer/privacy.shtml) for the most accurate reproduction.*
 
 # Sign-Up.to >> Privacy Policy
 
-Sign-Up Technologies Limited (referred to in this Privacy Policy as "SuTL", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through Sign-Up™, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the [Terms of Use](https://web.archive.org/web/20040605223016id_/http%3A//www.sign-up.to/html/consumer/terms.shtml)
+Sign-Up Technologies Limited (referred to in this Privacy Policy as "SuTL", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through Sign-Up™, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the [Terms of Use](https://web.archive.org/web/20041019014659id_/http%3A//www.sign-up.to/html/consumer/terms.shtml)
 
 **1\. Contact details**
 
-The Sign-Up website (the "Site") and the Sign-Up data processing services (together, the "Services") are provided by Sign-Up Technologies Limited, a company registered in England and Wales with company registration number 04579398.
+The Sign-Up website (the "Site") and the Sign-Up data processing services (together, the "Services") are provided by Sign-Up Technologies Limited, a company registered in England and Wales with company registration number 04674316.
 
 **Registered Office:** Sign-Up Technologies Limited c/o DWF Solicitors, 37 Peter Street Manchester M2 5GB, UK.  
-**Contact Address:** Sandycroft House, Crewe Road, Haslington, Crewe, Cheshire CW1 5RT, UK.   
+**Contact Address:** 60 Maltings Place, Fulham, London SW6 2BX.   
 **e-mail:** [info@sign-up.to ](mailto:info@sign-up.to)  
 
 
