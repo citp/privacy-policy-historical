@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neighborhoodlink.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602181108id_/http%3A//www.neighborhoodlink.com/manager/neighbor/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighborhoodlink.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202193447id_/http%3A//www.neighborhoodlink.com/manager/neighbor/privacy.html) for the most accurate reproduction.*
 
 # Neighborhood Link - Your Neighborhood's Privacy Practices
 
