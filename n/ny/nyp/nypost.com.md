@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203044532id_/http%3A//www.nypost.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623085926id_/http%3A//www.nypost.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # New York Post Online Edition: legal
 
@@ -69,10 +69,11 @@ To review or modify your preferences or to delete the PII that the Post has coll
 
 To contact the Post regarding the collection and use of your PII or any other privacy issues: 
 
-Privacy Officer  
-1211 Avenue of the Americas  
-New York, NY 10036  
-212-930-8273  
-[privacy@nypost.com](mailto:privacy@nypost.com)
+Privacy Office  
+New York Post  
+1211 Avenue of the Americas,  
+NY, NY 10036  
+[privacy@nypost.com](mailto:privacy@nypost.com)  
+
 
 [  Print friendly version](https://web.archive.org/cgi-bin/printfriendly.pl)
