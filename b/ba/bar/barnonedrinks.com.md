@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610024530id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211052005id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
 
 # Learn more about Bar-None!
 
   
-Check out this great video, [Drinking Games](http://www.amazon.com/exec/obidos/ASIN/B000058E1L/barnonedrinkreci)... a _must see_!  
+Our website is reliably hosted by **pair Networks** , [yours should be too](http://promote.pair.com/direct.pl?barnonedrinks.com).  
   
 **_Bar-None Info_**  
   
