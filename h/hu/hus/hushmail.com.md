@@ -1,46 +1,29 @@
-> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206003700id_/http%3A//www.hushmail.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603154651id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
 
-# HushMail
+# HushMail.com - Privacy Policy
 
-Privacy is our business. We take your privacy seriously. 
+**Who we are**  
+Unless otherwise specified Hush Communications, referred to in this document as "Hush", and its subsidiary companies are the corporate, legal entities that publish Hush.com, HushMail.com, Hush.ai, and pl.HushMail.com.
 
-**Who we Are**
+**How your data is used**  
+Hush is committed to protecting the privacy of all its Web site visitors. We do not share, sell, rent, trade or loan personal data to third parties for any purpose, but note that we may collect aggregate statistics for our own marketing research team. Any demographic information collected by Hush is used only to tailor advertising to users while they are connected to the Hush.com service. Hush abides by strict security protocols that limit access to internal information. Hush restricts user information and has protocols that allow only specific employees to have access to the user database itself.
 
-Hush Communications Corporation (referred to in this document as "Hush") and its subsidiary companies are the corporate, legal entities that publish HushMail. 
+**Web logs and cookies**  
+Hush.com does not use cookies but it does log IP addresses to analyze market trends and gather broad demographic information for aggregate use. HushMail.com does not use cookies or log IP addresses but be aware that, when moving from HushMail.com to the Hush.com Website, your information comes under the privacy policy of Hush.com. However, Hush will never log your IP address in such a way that it can be associated with your HushMail email address.
 
-**What We Offer**
+**Accessing your personal data**  
+It is not possible for users to view and update their personal information, but this feature will be available in the near future. If, at any time, a user wishes to disable their account and the information therein, they may do so. However, Hush must be able to authenticate the user. We require a securely sent HushMail message including the request for account termination to [postmaster@hushmail.com](mailto:postmaster@hushmail.com) via their HushMail address. 
 
-HushMail offers our users a truly end-to-end secure, fully encrypted, free, Web-based email service. HushMail offers two types of accounts. Our regular account allows users to choose their own address (ex.jdodo@hushmail.com). This account option requires that the user fill out a New Address form. The list of specific questions asked of the user can be viewed in its entirety at: <http://www.hushmail.com/user_info.htm>
+**Constant improvement**  
+This privacy policy is under constant review, and may be modified and updated in the future. However, users will always have the option of having their information permanently removed from the database as described above.
 
-The second type of account offered by HushMail is our auto-generated account, which automatically generates an address for the user (ex. auto555@hushmail.com). The user is not required to give any information to HushMail or to fill out a New Address form. 
+**Non-account related communications**  
+Hush does not contact users unless the communication is account related. While a Hush newsletter is generated from time to time to announce new features, HushMail users can opt out either at the time of sign-up or on the receipt of the newsletter. Hush will answer non-account related questions from users, but will not generate mail to users that doesn't directly affect their use of the service.
 
-**How Your Information is Used**
-
-Any demographic information collected by Hush is used only to tailor advertising to users while they are connected to the HushMail service. Aggregate statistical data is used for marketing research purposes. Information regarding specific users is never sold or shared. 
-
-All user information is given voluntarily, and is not required to have or maintain a HushMail address. Hush does not collect credit card or social security number information. User information is only transmitted securely using your browser's SSL encryption (Note: We advise the installation of 128-bit encryption.) Hush abides by strict security protocols that limit access to internal information. Hush restricts user information to employees on a "need-to-know" basis, and has protocols that allow only specific, privileged employees to have access to the user database itself. 
-
-**Web logs and cookies**
-
-HushCom does not log IP addresses or use cookies. 
-
-**Editing Personal Information**
-
-At this point in time, it is not possible for users to view and update their personal information. This feature will be available in the near future. If, at any time, a user wishes to disable their account and the information therein, they may do so. However, Hush must be able to authenticate the user. We require a securely sent HushMail message including the request for account termination to [info@hushmail.com](mailto:info@hushmail.com) via their HushMail address. 
-
-**Constant Improvement**
-
-This privacy policy is under constant review, and may be modified and updated in the future. However, users will always have the option of having their information permanently removed from the database as described above. 
-
-**Non-Account Related Communications**
-
-HushMail does not contact users unless the communication is account related. While a newsletter, from the Company, is generated from time to time that announces new features, HushMail users can opt-out either at the time of sign up or upon the receipt of the newsletter. HushMail will answer non-account related questions from users, but will not generate mail to users that doesn't directly affect their use of the service, however, users can opt-out of any communications with the Company whatsoever if they so choose. 
-
-**Contact Us**
-
-If you have any questions or concerns don’t hesitate to contact us. Please email [postmaster@hushmail.com](mailto:postmaster@hushmail.com). You can also contact us by regular mail. Our address is: 
+**Contact us**  
+We value your opinions and appreciate your comments. If you have any questions or concerns please contact us by email at [postmaster@hushmail.com](mailto:postmaster@hushmail.com) or by regular mail at:
 
 Hush Communications  
-# 22 Pembroke Street  
+22 Upper Pembroke Street  
 Dublin 2  
 Ireland 
