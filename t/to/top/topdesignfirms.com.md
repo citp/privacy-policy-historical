@@ -1,21 +1,14 @@
-> *The following text is extracted and transformed from the topdesignfirms.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203232837id_/http%3A//topdesignfirms.com/site-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdesignfirms.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606132000id_/http%3A//www.topdesignfirms.com/site-privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Recommend This Site!   
-[Print This Page](https://web.archive.org/web/20031203232837id_/http%3A//topdesignfirms.com/includes/printfriendly.php) 
-
 **Information Collection and Use**
 
-TopDesignFirms.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. TopDesignFirms.com collects information from our users at several different points on our Web site.
+TOPDESIGNFIRMS.COM is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. TOPDESIGNFIRMS.COM collects information from our users at several different points on our Web site.
 
 **Email Forms**
 
-Your information will be collected on various email forms on our site. These forms are used for the sole purpose of sending the collected information to TopDesignFirms.com. Unless otherwise noted on the specific page containing the form, TopDesignFirms.com is sole recipient of that information.
-
-**Newsletter**
-
-If you wish to subscribe to our newsletter, we ask for contact information such as name and e-mail address. We use a double opt-in confirmation process before adding your information to our database. Opt-out links are included at the bottom of every issue so you can remove yourself from our database. If at any time you need us to manually remove your information from our database, please send your request through our [contact page](https://web.archive.org/web/20031203232837id_/http%3A//topdesignfirms.com/site-contactus.php).
+Your information will be collected on various email forms on our site. These forms are used for the sole purpose of sending the collected information to TOPDESIGNFIRMS.COM. Unless otherwise noted on the specific page containing the form, TOPDESIGNFIRMS.COM is sole recipient of that information.
 
 **Directory Inclusion**
 
@@ -39,7 +32,7 @@ We partner with online quoting vendors to provide specific services. When you us
 
 **Links**
 
-This Web site contains links to other sites. Please be aware that we, TopDesignFirms.com, are not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This Web site contains links to other sites. Please be aware that we, TOPDESIGNFIRMS.COM, are not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Surveys and Polls**
 
@@ -47,7 +40,7 @@ From time to time, our site requests information from users via surveys or polls
 
 **Tell-A-Friend**
 
-If you elect to use our referral service to inform a friend about our site, we ask you for the friend's name and e-mail address. TopDesignFirms.com will automatically send the friend a one-time e-mail inviting him/her to visit the site. TopDesignFirms.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact TopDesignFirms.com at our [contact page](https://web.archive.org/web/20031203232837id_/http%3A//topdesignfirms.com/site-contactus.php) to request the removal of this information from our database.
+If you elect to use our referral service to inform a friend about our site, we ask you for the friend's name and e-mail address. TOPDESIGNFIRMS.COM will automatically send the friend a one-time e-mail inviting him/her to visit the site. TOPDESIGNFIRMS.COM stores this information for the sole purpose of sending this one-time e-mail. The friend may contact TOPDESIGNFIRMS.COM at our contact page to request the removal of this information from our database.
 
 **Security**
 
@@ -55,7 +48,7 @@ This Web site takes every precaution to protect your information. When you submi
 
 While we use encryption to protect sensitive information online, we also do everything in our power to protect user information off line. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desks. When they return, they must re-enter their password to regain access to your information. Furthermore, ALL employees are kept up to date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-If you have any questions about the security at our Web site, please send an e-mail through our [ contact page](https://web.archive.org/web/20031203232837id_/http%3A//topdesignfirms.com/site-contactus.php).
+If you have any questions about the security at our Web site, please send an e-mail through our contact page.
 
 **Legal Disclaimer**
 
@@ -63,5 +56,4 @@ Though we make every effort to preserve your privacy, we may need to disclose pe
 
 **Notification of Changes**
 
-If we decide to change our privacy policy, we will post those changes on our homepage so you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by e-mail. We will use information in accordance with the privacy policy under which the information was collected. You can choose not to have your information used.  
- 
+If we decide to change our privacy policy, we will post those changes on our homepage so you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by e-mail. We will use information in accordance with the privacy policy under which the information was collected. You can choose not to have your information used.
