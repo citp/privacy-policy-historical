@@ -1,0 +1,71 @@
+> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204050312id_/http%3A//www.rubios.com/privacy.html) for the most accurate reproduction.*
+
+# Rubio's
+
+## Our Commitment to Privacy
+
+At Rubios.com we take great pride in ensuring that our customers have a safe and secure online experience with us. We consider the information you choose to share with us personal and confidential and we are extremely committed to protecting your privacy. Rubio's is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement
+
+## VeriSign
+
+VeriSign is the leading provider of critical infrastructure services that make the Internet and telecommunication networks more reliable, reliable and secure. VeriSign's technology helps hundreds of thousands of businesses and millions of consumers connect, communicate, and transact with confidence. Our website is certified as a licensee of the VeriSign Secure Site Program.
+
+## Information We Collect
+
+At the time you subscribe to the E-CLUB, make a gift card purchase or agree to participate in a contest/promotion, we collect and store the following types of information:
+
+Name  
+Address  
+E-mail address  
+Telephone number  
+Credit/Debit Card Information
+
+We need this information to provide you not only with the information that you've requested but also to let you know about additional services which you might want. We may also use this information to customize your experience using our website.
+
+If you order a gift card and want it to be sent directly to the recipient, we will also ask you to submit information about someone other than you. In such situations, we will ask only for the recipient's name, address, telephone number and e-mail address.
+
+## Surveys & Contests
+
+From time-to-time, Rubio's will request additional information from customers through surveys, sweepstakes or other contests. Participation in these are strictly voluntary and the user has the choice of whether or not to disclose this information. In addition, all customers will always be provided with an opportunity to opt out of receiving such future e-mails Information requested may include contact and demographic information. In addition, we may automatically gather general statistical information about our website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, gift cards purchased, etc., but in doing so we do not reference you by individual name, e-mail address, home address, or telephone number. We use this data in the aggregate to determine how much our customers use parts of our site so we can improve the customer experience on our site. We may provide this statistical information to third parties, but when we do so we do not provide personally identifying information without your permission.
+
+## Cookies
+
+On part of our site, we may use cookies to store and track information about you on our website. A cookie is a small amount of data that is sent to your browser from a web server and subsequently stored on your computer's hard drive. Primarily, we will use cookies during gift card transactions to remind us who you are and enable us to access your account information so you do not have to re-enter it on subsequent visits.
+
+## How We Use the Information
+
+Our goal is to provide you with a site that best meets your needs, wants and interests. Therefore, we primarily use the information we've collected to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services.
+
+The email addresses that we collect are used by us to contact consumers for marketing purposes and are not shared with other organizations for commercial purposes whatsoever. 
+
+If you placed a gift card order, we use your personal information to ship your order
+
+## Security
+
+Rubio's takes your online privacy very seriously. As such, we employ policies, procedures meant to prevent others from illegal and/or unauthorized access to the personal information you provide to us.
+
+Access to your information is controlled by strict internal procedures. 
+
+## Children under 13
+
+We do not knowingly collect or use personal information from children under 13 without the proper consent from their parents. However, in the case a child has provided us with personal information without parental or guardian consent, the parent or guardian should contact us immediately to remove their information.
+
+For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC website: www.ftc.gov.
+
+## Policy Updates
+
+The practices, policies, and procedures described in this statement are subject to change. Any such changes will be communicated through our website. Information collected before changes are made will be secured according to the previous Privacy Policy. The practices and policies in this disclosure replace all previous notices or statements with respect to the same subject matter.
+
+## Understanding & Consent
+
+By using our website, you agree to the collection and use of this information in the manner described above.
+
+## How to Reach Rubio's
+
+To update, correct or delete your personal information, you can contact us at:  
+Rubio's Fresh Mexican Grill.  
+1902 Wright Place, Suite #300  
+Carlsbad, CA 92008
+
+We may also be reached via [e-mail](http://www.hilahmedia.com/hde/rubios.htm)  
+Or, you may reach us by telephone, toll-free at 1-800-354-4199
