@@ -1,51 +1,69 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205060500id_/http%3A//www.asic.gov.au/index.cfm-id%3D7EED79BD-F8A8-11D3-A4D2009027DE39A4%26Method%3DFull%26story%3Dyes.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601190250id_/http%3A//www.asic.gov.au/asic/asic.nsf/HeadingPagesDisplay/Privacy%3FOpenDocument) for the most accurate reproduction.*
 
-# Privacy statement - Australian Securities and Investments Commission
+# 
 
-#### Your Rights to Privacy 
+  | 
 
-The [Privacy Act](http://scaleplus.law.gov.au/) (Cth) regulates, among other things, the collection, storage, quality, use and disclosure of personal information. ASIC is subject to the Privacy Act. 
+[](https://web.archive.org/asic/ASIC.NSF/print/Privacy?opendocument)
 
-#### Collection of personal information 
-
-Information Privacy Principles 1-3 of the Privacy Act regulate collection of personal information. ASIC may collect information from users of its website in a number of ways. Primarily, that information will be collected by means of the lodgement of forms which are prescribed or approved under the Corporations Law and Corporations Regulations. Information collected may include personal information. 
-
-Information provided by the user will only be collected with the user’s consent as the user must click on a button provided on each web page to submit information to ASIC via its Website. If a user does not wish to provide information to ASIC via ASIC’s Website alternative methods of transmitting the information to ASIC are available. 
-
-When, or before, it collects personal information ASIC will take reasonable steps to inform the user of ASIC’s Website of: 
-
-  * the purposes for which the information is collected; 
-  * where applicable, any law that requires the particular information to be collected, and the main consequences for the user if all or part of the information is not provided. 
+**Privacy statement**   
+**Your rights to privacy**  
+ASIC must comply with the [Privacy Act 1988 (Cth)](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/) which regulates, among other things, the [collection](http://www.privacy.gov.au/publications/ipps.html#a),  [storage](http://www.privacy.gov.au/publications/ipps.html#d),  [quality](http://www.privacy.gov.au/publications/ipps.html#g),  [use](http://www.privacy.gov.au/publications/ipps.html#i) and  [disclosure](http://www.privacy.gov.au/publications/ipps.html#k) of  [personal information](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/s6.html).  
 
 
+Information that in some way identifies you as a user may be gathered during your interaction with our website in the following circumstances.
 
-Clickstream data is collected from the ASIC website. This data enables ASIC to approximate the number of visits to the Website, the pages accessed and documents downloaded. It does not identify users. In some cases, ASIC may wish to carry out a feedback survey. Prior to collecting any survey results it will advise users of the purpose of the survey. As a survey will be a voluntary exercise, there will be a facility to allow users to exit at any time during the survey process. 
+**Collection of clickstream and other information  
+**When you browse our website, our service provider logs the following information for statistical purposes - your server address, top level domain name (eg .com, .gov, .au, .uk etc.), the date and time of your visit, the pages accessed, documents downloaded, the previous site visited and the type of browser used.
 
-#### ASIC’s use and disclosure of information 
+We will not try to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs.
 
-Information Privacy Principles 9 and 10 of the Privacy Act regulate the use of personal information. 
+Our website is cookie-free. 
 
-Information Privacy Principle 11 of the Privacy Act regulates the disclosure of personal information. 
+We will only record your e-mail address if you send us a message. It will not be automatically added to a mailing list.
 
-ASIC will only use and disclose personal information in accordance with the Information Privacy Principles. 
+**Collection of personal information  
+**The main way we would collect personal information from you is if you used our site to lodge forms prescribed or approved under the Corporations Law and Regulations, eg to set up a company. This personal information may include your full name, date of birth, phone and fax numbers, e-mail address, and street and postal address.
 
-#### Data Security Information 
+We can only collect personal information via our website with your consent as you must click on a button provided on each web page to submit information to our website.
 
-Privacy Principle 4 of the Privacy Act regulates storage and security of personal information. 
+When or before it collects personal information, we will take reasonable steps to inform you of:
 
-Where appropriate, ASIC’s Website facility provides a secure environment by using Secure Sockets Layer (SSL). This establishes a session between ASIC’s web server and the user’s browser, and encrypts all traffic between the user’s browser and ASIC’s website. 
-
-#### Access to and Alteration of Records containing Personal Information 
-
-Information Privacy Principles 6 and 7 of the Privacy Act, provide for individuals’ access to and alteration of records containing their personal information. The Freedom of Information Act 1982 (Cth) also sets out the process by which users, whose personal information is held by ASIC, may be allowed to have access to records containing their personal information, and may be allowed to have their records changed or annotated, if necessary. 
-
-#### Data Quality 
-
-Information Privacy Principles 7 and 8 of the Privacy Act regulate data quality. Users should note that when they provide data to ASIC via the internet, ASIC relies on the accuracy of that data. 
-
-#### Complaints 
-
-Users inquiring about their rights, and remedies for breaches of privacy can contact the ASIC Administrative Law Co-ordinator in the regional office in the State or Territory in which the user resides and to the Commonwealth Privacy Commissioner. The Privacy Commissioner’s Hotline is 1800 023 985. The Privacy Commissioner’s Website is <http://www.privacy.gov.au/rights>.
+  * the purposes for which the information is collected;   
+  * where applicable, any law that requires the particular information to be collected, and   
+  * the main consequences for the user if all or part of the information is not provided.
 
   
+**Access to and alteration of records containing personal information  
+**The Privacy Act allows individuals to [access and alter records](http://www.privacy.gov.au/publications/ipps.html#f) containing their personal information. The [Freedom of Information Act 1982 (Cth)](http://www.austlii.edu.au/au/legis/cth/consol_act/foia1982222/s48.html), also sets out the process by which you can access, change or annotate records held by ASIC, which contain your personal information.
 
+**Information quality  
+**When you provide information to us via the internet, we rely on the accuracy of that information.
+
+**Information storage and security  
+**Personal information is stored in transmission logs and archived for a period yet to be determined, but this is likely to be between 12 months and 7 years.
+
+Where appropriate, our website provides a secure environment by using Secure Sockets Layer (SSL). This establishes a session, and encrypts all traffic, between our web server and your browser.
+
+**Use and disclosure of information  
+**We will only use your personal information (including your e-mail address) for the purpose for which you have provided it, eg for a company registration application. We will not use it for any other purpose, nor will we disclose it, unless with your consent or in other [circumstances where such use or disclosure is permitted](http://www.privacy.gov.au/publications/ipps.html#j) under the Privacy Act.
+
+From time to time, we may wish to carry out a voluntary survey for feedback. Before collecting survey results, we will advise you of the purpose of the survey. We will provide the facility to enable you to exit the survey at any time.
+
+**Risks of using the internet  
+**You should note that there are security risks in transmitting information via the internet. You should assess these potential risks when deciding whether to use our online services. If you do not wish to transmit information via our website, there are other ways in which you can provide this information to ASIC. You can, for example, contact our Infoline on 1300 300 630 or visit your nearest [Service Centre](https://web.archive.org/asic/asic.nsf/byheadline/ASIC+Service+Centre+Addresses?opendocument).
+
+**Accountability and feedback  
+**To find out more about your rights and the remedies for breaches of privacy, you can:
+
+  * contact the ASIC Administrative Law Co-ordinator in the regional office of your State or Territory   
+  * visit the Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/)   
+  * contact the Privacy Commissioner's Hotline on 1800 023 985.
+
+  
+Read our privacy statements for the [Australian Financial Services Licence Applications](https://web.archive.org/asic/asic_polprac.nsf/byheadline/Privacy+statement+for+AFS+licence?openDocument) and the [Australian financial services eLicensing portals](https://web.archive.org/asic/asic_polprac.nsf/byheadline/Privacy+statement+for+afs+licensing++portals?openDocument).
+
+We welcome your [feedback](mailto:feedback@asic.gov.au) about this Privacy Statement and about our site's design and practices.
+
+| Updated: 11/03/2002|   
+---|---
