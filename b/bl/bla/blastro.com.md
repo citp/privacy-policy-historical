@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blastro.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604195157id_/http%3A//blastro.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastro.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204044115id_/http%3A//www.blastro.com/policy.html) for the most accurate reproduction.*
 
-# BLASTRO - the best hip-hop and R&B music videos
+# Music Videos on BLASTRO - the best Rap, Hip Hop, R&B, Pop, Dance and Rock videos
 
 Privacy Policy   
 At BLASTRO, INC., we are committed to you and to protecting your privacy. The information we collect about you is used to provide you with a more personalized and richer experience while visiting our site. Please read further for details. 
