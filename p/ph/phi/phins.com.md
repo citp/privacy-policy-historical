@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phins.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206035847id_/http%3A//www.phins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phins.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608204753id_/http%3A//www.phins.com/privacy.html) for the most accurate reproduction.*
 
 # Phins.com Privacy Statement
 
