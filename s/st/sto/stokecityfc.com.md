@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stokecityfc.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605170317id_/http%3A//www.stokecityfc.com/home/view/privacy_statement/0%2C%2C10310%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stokecityfc.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802153012id_/http%3A//www.stokecityfc.com/home/view/privacy_statement/0%2C%2C10310%2C00.html) for the most accurate reproduction.*
 
 # Stoke City Football Club
 
