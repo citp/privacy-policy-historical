@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nytimes.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202154720id_/http%3A//nytimes.com/ref/membercenter/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nytimes.com privacy policy that was archived on 2004-01-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040113003435id_/http%3A//www.nytimes.com/ref/membercenter/help/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <!--Knews2 Document -->
@@ -125,6 +125,30 @@ document.write("<link rel='stylesheet' type='text/css'  href='http://www.nytimes
 <td colspan="4" bgcolor="#000000"><img src="http://graphics7.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0" alt=""></td>
 </tr>
 </tbody></table>
+<script type="text/JavaScript">
+<!--
+	
+	function goToURL(obj){
+		var f = (obj.section) ? obj : obj.form;
+		var selected = f.section.selectedIndex;
+		var URL = f.section.options[selected].value;
+		if (URL != "") document.location = URL;
+		return false;
+	}
+
+	function setForumsAction(obj){
+		var t = (obj.search) ? obj : obj.form;
+		var optval = t.search.selectedIndex;
+
+		if (optval == "2"){
+			 document.forumsform.action = "http://query.nytimes.com/search/query";
+		} else{
+			document.forumsform.action = "";
+
+		}
+	}
+//-->
+</script>
 <table width="768" bgcolor="#F6F6F6" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 
@@ -136,46 +160,46 @@ document.write("<link rel='stylesheet' type='text/css'  href='http://www.nytimes
 
 
 <table cellspacing="0" cellpadding="0" border="0">
-<form name="sectionform" onsubmit="return goToURL(this);"></form>
+<form name="sectionform" action="" onsubmit="return goToURL(this);"></form>
 <tbody><tr>
 <td valign="center">
 <span class="small">
 <select name="section" onchange="goToURL(this);" class="small">
 <option selected="">Go to a Section</option>
 <option>-----------------------</option>
-<option value="http://www.nytimes.com/pages/arts/index.html?gts">Arts</option>
-<option value="http://www.nytimes.com/pages/automobiles/index.html?gts">Automobiles</option>
-<option value="http://www.nytimes.com/pages/books/index.html?gts">Books</option>
-<option value="http://www.nytimes.com/pages/business/index.html?gts">Business</option>
-<option value="http://www.nytimes.com/pages/cartoons/index.html?gts">Cartoons</option>
-<option value="http://www.nytimes.com/corrections.html?gts">Corrections</option>
-<option value="http://www.nytimes.com/pages/crosswords/index.html?gts">Crossword/Games</option>
-<option value="http://www.nytimes.com/pages/dining/index.html?gts">Dining &amp; Wine</option>
-<option value="http://www.nytimes.com/pages/opinion/index.html?gts">Editorials/Op-Ed</option>
-<option value="http://www.nytimes.com/pages/education/index.html?gts">Education</option>
-<option value="http://www.nytimes.com/pages/fashion/index.html?gts">Fashion &amp; Style</option>
-<option value="http://www.nytimes.com/pages/health/index.html?gts">Health</option>
-<option value="http://www.nytimes.com/pages/garden/index.html?gts">Home &amp; Garden</option>
-<option value="http://www.nytimes.com/pages/world/index.html?gts">International</option>
-<option value="http://www.nytimes.com/pages/jobs/index.html?gts">Job Market</option>
-<option value="http://www.nytimes.com/learning?gts">Learning Network</option>
-<option value="http://www.nytimes.com/pages/magazine/?gts">Magazine</option>
-<option value="http://movies.nytimes.com?gts">Movies</option>
-<option value="http://www.nytimes.com/pages/multimedia/index.html?gts">Multimedia/Photos</option>
-<option value="http://www.nytimes.com/top/features/travel/destinations/unitedstates/newyork/newyorkcity/index.html?gts">NYC Guide</option>
-<option value="http://www.nytimes.com/pages/pageone/index.html?gts">NYT Front Page</option>
-<option value="http://www.nytimes.com/pages/national/index.html?gts">National</option>
-<option value="http://www.nytimes.com/pages/nyregion/index.html?gts">New York Region</option>
-<option value="http://www.nytimes.com/pages/obituaries/index.html?gts">Obituaries</option>
-<option value="http://www.nytimes.com/pages/readersopinions/index.html?gts">Readers' Opinions</option>
-<option value="http://www.nytimes.com/pages/realestate/index.html?gts">Real Estate</option>
-<option value="http://www.nytimes.com/pages/science/index.html?gts">Science</option>
-<option value="http://www.nytimes.com/pages/sports/index.html?gts">Sports</option>
-<option value="http://www.nytimes.com/pages/technology/index.html?gts">Technology</option>
-<option value="http://www.nytimes.com/pages/travel/index.html?gts">Travel</option>
-<option value="http://www.nytimes.com/pages/politics/index.html?gts">Washington</option>
-<option value="http://www.nytimes.com/weather/?gts">Weather</option>
-<option value="http://www.nytimes.com/pages/weekinreview/index.html?gts">Week in Review</option>
+<option value="/pages/arts/index.html">Arts</option>
+<option value="/pages/automobiles/index.html">Automobiles</option>
+<option value="/pages/books/index.html">Books</option>
+<option value="/pages/business/index.html">Business</option>
+<option value="/pages/cartoons/index.html">Cartoons</option>
+<option value="/corrections.html">Corrections</option>
+<option value="/pages/crosswords/index.html">Crossword/Games</option>
+<option value="/pages/dining/index.html">Dining &amp; Wine</option>
+<option value="/pages/opinion/index.html">Editorials/Op-Ed</option>
+<option value="/pages/education/index.html">Education</option>
+<option value="/pages/fashion/index.html">Fashion &amp; Style</option>
+<option value="/pages/health/index.html">Health</option>
+<option value="/pages/garden/index.html">Home &amp; Garden</option>
+<option value="/pages/world/index.html">International</option>
+<option value="/pages/jobs/index.html">Job Market</option>
+<option value="/learning/index.html">Learning Network</option>
+<option value="/pages/magazine/index.html">Magazine</option>
+<option value="http://movies.nytimes.com">Movies</option>
+<option value="/pages/multimedia/index.html">Multimedia/Photos</option>
+<option value="/top/features/travel/destinations/unitedstates/newyork/newyorkcity/index.html">NYC Guide</option>
+<option value="/pages/pageone/index.html">NYT Front Page</option>
+<option value="/pages/national/index.html">National</option>
+<option value="/pages/nyregion/index.html">New York Region</option>
+<option value="/pages/obituaries/index.html">Obituaries</option>
+<option value="/pages/readersopinions/index.html">Readers' Opinions</option>
+<option value="/pages/realestate/index.html">Real Estate</option>
+<option value="/pages/science/index.html">Science</option>
+<option value="/pages/sports/index.html">Sports</option>
+<option value="/pages/technology/index.html">Technology</option>
+<option value="/pages/travel/index.html">Travel</option>
+<option value="/pages/politics/index.html">Washington</option>
+<option value="http://www.nytimes.com/weather/">Weather</option>
+<option value="/pages/weekinreview/index.html">Week in Review</option>
 <option>-----------------------</option>
 <option value="http://www.nytimes.com/ref/membercenter/help/siteindex.html#services">Services</option>
 </select>
@@ -188,6 +212,12 @@ document.write("<link rel='stylesheet' type='text/css'  href='http://www.nytimes
 
 </tbody></table>
 
+<script language="Javascript">
+			<!--
+			document.sectionform.action = "";
+			//-->
+			</script>
+
 </td>
 <td width="130" align="center" background="http://graphics7.nytimes.com/images/global/bg_header.gif">	
 <img src="http://graphics7.nytimes.com/images/misc/spacer.gif" width="200" height="1" border="0" alt="">
@@ -195,9 +225,9 @@ document.write("<link rel='stylesheet' type='text/css'  href='http://www.nytimes
 <td width="423" align="right" background="http://graphics7.nytimes.com/images/global/bg_header.gif">	
 
 <table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
 <form action="http://query.nytimes.com/search/query" method="get"></form>
 <input type="hidden" name="date" value="past30days">
-<tbody><tr>
 <td valign="center" class="headerbold">Site Search:</td>
 <td width="5"><img src="http://graphics7.nytimes.com/images/misc/spacer.gif" width="5" height="31" border="0" alt=""></td>
 <td valign="center">
@@ -264,12 +294,13 @@ document.write("<link rel='stylesheet' type='text/css'  href='http://www.nytimes
 <br>
 
 <nyt_text>
-<i>Last Updated on November 20, 2003</i>
+<!--<i>Last Updated on November 20, 2003</i>-->
+<i>Last Updated on December 18, 2003</i>
 <p>
 The New York Times on the Web is a licensee of the <a href="#truste">TRUSTe</a> privacy program and TRUSTe  Children’s Privacy Program and is in compliance with TRUSTe privacy principles.  We also participate in the Council of Better Business Bureaus' <a href="#bbb">BBB<i>OnLine</i></a> Privacy Program, and comply with all BBB<i>OnLine</i> Privacy standards. 
 </p><p>This policy discloses the privacy practices for
 The New York Times on the Web and The New York Times Learning Network. 
-(The New York Times Home Delivery website maintains a separate <a href="http://secure-homedelivery.nytimes.com/cgi-bin/gx.cgi/AppLogic+FTContentServer?pagename=user%2FPrivacy%2FPrivacyP&amp;ExpIgnore=yes">privacy statement</a>.) For further information, please also visit our <a href="http://www.nytimes.com/membercenter">Member Center</a>, where under the <a href="http://www.nytimes.com/membercenter/sitehelp.html">Site Help</a> tab, you can view our <a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Subscriber Agreement</a> and read <a href="http://www.nytimes.com/ref/membercenter/help/cookiesfaq.html">Frequently Asked Questions about Cookies</a>.  In the Member Center you can also review <a href="http://www.nytimes.com/profile">Your Profile</a>
+(The New York Times Home Delivery Web site maintains a separate <a href="http://secure-homedelivery.nytimes.com/cgi-bin/gx.cgi/AppLogic+FTContentServer?pagename=user%2FPrivacy%2FPrivacyP&amp;ExpIgnore=yes">privacy statement</a>.) For further information, please also visit our <a href="http://www.nytimes.com/membercenter">Member Center</a>, where under the <a href="http://www.nytimes.com/membercenter/sitehelp.html">Site Help</a> tab, you can view our <a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Subscriber Agreement</a> and read <a href="http://www.nytimes.com/ref/membercenter/help/cookiesfaq.html">Frequently Asked Questions about Cookies</a>.  In the Member Center you can also review <a href="http://www.nytimes.com/profile">Your Profile</a>
 <!--and your Premium Account -->
 as well as manage your <a href="http://www.nytimes.com/email">E-mail Preferences</a>.
 </p><p></p><hr>
@@ -301,7 +332,7 @@ practices. Further information about this program is available at <a href="http:
 </p><p>
 </p><p>
 </p><hr>
-<p>The New York Times on the Web has adopted a set of information management guidelines which serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established.  Accordingly, guidelines are subject to change.  Any such changes will be posted on this page.  If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect and registered users will be notified via email.
+<p>The New York Times on the Web has adopted a set of information management guidelines which serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established.  Accordingly, guidelines are subject to change.  Any such changes will be posted on this page.  If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect and registered users will be notified via e-mail.
 </p><p>The New York Times on the Web is not responsible for the content or the privacy policies of Web sites to which it may link.
 </p><p><br><b>What information does The New York Times on the Web gather/track about you?</b>
 </p><p><b>Registration</b>: During a <a href="http://www.nytimes.com/auth/login">free registration</a> process prior to using the site, The New York Times on the Web requires that you supply a unique member ID, e-mail address, and demographic information (country, zip code, age, sex; household income, industry, job title, job function, and subscription status to The New York Times newspaper).  You must agree to the terms of our <a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Subscriber Agreement</a>.  
@@ -328,7 +359,7 @@ We use a proprietary advertising server to display ads on our site.  In addition
 <b>Clear Gifs (Web Beacons/Web Bugs)</b>: 
 We use a proprietary advertising serving system to display ads on our
 site. In addition, advertisers may elect to use third party
-advertising companies to serve ads onto our website, and in these
+advertising companies to serve ads onto our Web site, and in these
 instances may use a software technology called clear gifs (a.k.a. Web
 Beacons/Web Bugs/action tags) to help better manage advertising on our
 site.  Clear gifs are tiny graphics with a unique identifier, similar
@@ -346,24 +377,24 @@ a list of these advertising agencies and their privacy policies.
 <b>IP Addresses</b>: The New York Times on the Web logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behavior on our site.
 </p><p>
 <b>Log Files</b>:
-Log data is only used in aggregate to analyze usage of our web-site.
+Log data is only used in aggregate to analyze usage of our Web site.
 </p><p><br><b>What does The New York Times on the Web do with the information it gathers/tracks?</b>
 </p><p><b>Statistical Analysis and Banner Advertising</b>: The New York Times on the Web may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising banners on our Web site to be targeted, in aggregate, to the users for whom they are most pertinent.  This means that users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads.  In this statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form.  Personal information about you as an individual subscriber will not be provided to any third party without your consent, except under the circumstances described in Compliance with Legal Process below.
-</p><p><b>E-Mail</b>: If you so elect at registration or in the <a href="http://www.nytimes.com/email">E-mail Preferences</a> section of our Member Center, The New York Times on the Web will periodically send you promotional email about services offered by The New York Times on the Web and its advertisers. 
-Additionally,  the email address provided by you at registration may be
+</p><p><b>E-Mail</b>: If you so elect at registration or in the <a href="http://www.nytimes.com/email">E-mail Preferences</a> section of our Member Center, The New York Times on the Web will periodically send you promotional e-mail about services offered by The New York Times on the Web and its advertisers. 
+Additionally,  the e-mail address provided by you at registration may be
 used by The New York Times on Web  to contact you regarding (1) account
 status (including confirmation of registration), (2) major changes to the
-website and or to the Subscriber Agreement and Privacy Policy, and (3)
-participation in user surveys, asking for feedback on the website and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our website, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form. (Effective as of August 21, 2002).
+Web site and or to the Subscriber Agreement and Privacy Policy, and (3)
+participation in user surveys, asking for feedback on the website and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form. (Effective as of August 21, 2002).
 <!--Using the e-mail addresses provided at registration, The New York Times on the Web periodically sends promotional e-mail to its subscribers about services offered by The New York Times on the Web and its advertisers.  You can indicate on the subscriber registration form that you do not wish to receive e-mail information from The New York Times on the Web or its advertisers. 
 
 The New York Times on the Web may contact you regarding account status, changes to the Subscriber Agreement, and to confirm registration.-->
 </p><p>
 The E-Mail This Article feature is an easy way for New York Times on the
-Web users to send articles through email.
+Web users to send articles through e-mail.
 The e-mail address(es) that you supply to use this service will only be used to send the requested article.
 </p><p>
-We use e-mail links located in the Site Help area our Member Center to allow you to contact us directly with any questions or comments you may have.  We will use your email address to respond directly to these questions or comments.
+We use e-mail links located in the Site Help area our Member Center to allow you to contact us directly with any questions or comments you may have.  We will use your e-mail address to respond directly to these questions or comments.
 </p><p>
 Except as permitted by this policy, The New York Times on the Web does not
 send unsolicited e-mail.
@@ -371,7 +402,7 @@ send unsolicited e-mail.
 </p><p><br><b>With whom does The New York Times on the Web share the information it gathers/tracks?</b>
 </p><p>The New York Times on the Web shares the information it gathers, in aggregate form only, with advertisers and other partners.  We will not release personal information about you as an individual to third parties, except under the circumstances described in Compliance with Legal Process below. 
 You can review and modify all of your personal information provided during the free registration process by visiting the secured <a href="http://www.nytimes.com/profile">Your Profile</a> section of our Member Center. If you do not remember your Member ID and password, please go to <a href="http://www.nytimes.com/forgot">www.nytimes.com/forgot</a> for assistance.
-</p><p><b>Programs From Our Partners</b>: During the registration process, new users who select to register for certain featured offers from our partners will begin receiving e-mail from these companies. You will only receive e-mail messages from these companies if you elect this opt-in service. The New York Times on the Web may use this information as set forth in this privacy policy. Should you decide to discontinue your e-mail subscription or would like more information on these companies, please see our <a href="http://www.nytimes.com/ref/membercenter/help/privacyinformation3.html">list of partners</a> that have participated in this program.
+</p><p><b>Programs From Our Partners</b>: During the registration process, new users who select to register for certain featured offers from our partners will begin receiving e-mail from these companies. You will only receive e-mail messages from these companies if you elect this opt-in service. In addition to providing these partners with your e-mail address, certain partners may also receive other information collected on the NYTimes.com registration form but this will be noted on the <a href="http://www.nytimes.com/ref/membercenter/faq/registerqa6.html" target="_blank">Additional Information page</a>, linked from the Programs from our Partners area of the Registration page. The New York Times on the Web may use this information as set forth in this privacy policy. Should you decide to discontinue your e-mail subscription or would like more information on these companies, please see our <a href="http://www.nytimes.com/ref/membercenter/help/privacyinformation3.html">list of partners</a> that have participated in this program.
 </p><p><b>YesMail</b>: Users who selected to register for <a href="http://www.yesmail.com/privacy.asp">YesMail</a> during the NYTimes.com registration process became YesMail members. If you selected this option, YesMail uses the information collected on the NYTimes.com registration form to provide targeted e-mails to you on behalf of its advertisers. The New York Times on the Web may use this information as set forth in this privacy policy.  You will only receive e-mail messages from YesMail if you elected this opt-in service. Please contact <a href="mailto:membercare@yesmail.com">membercare@yesmail</a> directly if you no longer wish to receive e-mail messages from them. 
 </p><p>
 As of May 16, 2003, the option for signing up for Yesmail was removed from our NYTimes.com registration page.
@@ -408,21 +439,12 @@ still allowing access to the site.  To request a correction or cancellation, vis
 </p><p>
 </p>
 
-<p><br clear="all">
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="left" valign="bottom">
-
-<!-- ADXINFO classification="text_ad" campaign="nytcirc_footerb"--><font> <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&amp;page=www.nytimes.com/ref/membercenter&amp;pos=CircBottom&amp;camp=nytcirc_footerb&amp;ad=CirculationLink&amp;goto=http%3A%2F%2Fhomedelivery%2Enytimes%2Ecom%2Fcgi%2Dbin%2Fgx%2Ecgi%2FAppLogic%2BFTContentServer%3Fpagename%3Duser%252FContentMgt%252FPromoFeature%252FPromoFeatureT1P%26ExternalMediaCode%3DW93AA&#10;"><strong>Get home delivery of The Times from $2.90/week</strong></a>
-</font><br>
 
 
-
-
-</td></tr></tbody></table>
-
-
+</nyt_text>
 
 <br>
-</p></nyt_text></td></tr>
+</td></tr>
 </tbody></table>
 <br clear="all"><div align="right"><a href="http://www.nytimes.com/membercenter/sitehelp.html">Back to Site Help</a></div><br>
 <!--Body end -->
