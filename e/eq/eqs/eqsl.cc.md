@@ -1,71 +1,31 @@
-> *The following text is extracted and transformed from the eqsl.cc privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eqsl.cc privacy policy that was archived on 2002-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/Privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - eQSL.cc
 
-**Welcome new registered user  
-JA1SWB   
-SHIZUO SASAGO from JAPAN **
-
-* * *
-
-**Latest[eDX](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/eDXRules.cfm) winner:** 9A6BND   
-**Latest[eWAS](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/eWASRules.cfm) winner:** VY1JA   
-
-
-* * *
-
-**Special thanks to:** A41LZ, W6BH, HK3JBA, JA3AGZ, SP6EKS, W7GG, JD1BHA, JA1KSO, K6CEG, N1PP, [ and many others... ](javascript:popupScrollPage\('DonorListPopup.cfm','',0,0,200,480\);)   
-**Make a[Donation](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/Donations.cfm) to help support eQSL.cc**
-
-* * *
-
-[ **Advisory Board Members** ](javascript:popupScrollPage\('AdvBoardListPopup.cfm','',50,50,450,240\);)   
-**New members apply[here](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/AdvisoryBoardApp.cfm)**
-
-* * *
-
-Need real-time help with a problem? Want to talk to other users online? **Check out our[NEW Chat Rooms](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/ChatSelector.cfm)!**   
-
-
-* * *
-
-[Read](http://members.aol.com/ve3bmv/ok3bu.htm) how a QSL card kept someone out of jail!   
-Take a look at our [ancient and unusual QSL card archives](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/QSLArchives.cfm)!   
-
-
-* * *
-
-* * *
-
-[ ](http://www.davemorris.com/lastflight)  
-Hams and pilots of old WWII planes repel a terrorist attack  
-by Dave Morris, N5UP  
-
-
-* * *
-
-#### Advertise on this page
-
-If you have a ham radio oriented business, [take a look](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/ratesheet.cfm) at our advertising opportunities! 
-
-* * *
-
-#### Our Advisory Board Recommends:
-
-Keep your PC synchronized with atomic clocks:  
-[Dimension 4](http://www.thinkman.com/dimension4)  
-[SocketWatch](http://www.locutuscodeware.com/swatch.htm)
-
-* * *
-
-#### [Shop Online](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/Shopping.cfm)
-
-Shop for amateur radio books and other items! Help support eQSL.cc by visiting our excellent advertisers! These are companies and organizations that we believe you will want to visit. [More...](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/Shopping.cfm)
-
-* * *
-
+|    
+  
+---  
+Welcome New User  
+RA3AET   
+Igor from RUSSIA (EUROPEAN)   
+eAwards  
+Latest [eDX100](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/eDX100Rules.cfm) winner: W2YC   
+Latest [eDX](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/eDXRules.cfm) winner: W7GG   
+Latest [eWAS](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/eWASRules.cfm) winner: WA0KDS   
+[](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/AdRedirector.cfm?AdID=54)   
+  
+Take a Look!  
+[](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/AdRedirector.cfm?AdID=61)   
+ARRL Radio Handbook 2002   
+  
+Advertising Opportunities  
+If you have a ham radio oriented business, [take a look](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/ratesheet.cfm) at our advertising opportunities!   
+Amateur Radio Products  
+[Shop Online](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/Shopping.cfm) for amateur radio books and other items! Help support eQSL.cc by visiting our excellent advertisers! These are companies and organizations that we believe you will want to visit. [More...](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/Shopping.cfm)  
+Discussion Group  
 [ ](http://www.egroups.com/subscribe/OnLineQSL)   
-Subscribe to the **OnLineQSL** discussion  |  |  Summary   
+Subscribe to the **OnLineQSL** discussion   
+|  Summary   
 ---  
 Personal information about amateur radio operators is widely available all over the Internet. One only has to look at the [FCC](http://www.fcc.gov/wtb/amateur/), [QRZ.com](http://www.qrz.com/database), [Callbook](http://www.callbook.com/), and [Buckmaster](http://www.buck.com/haminfo.html) sites to discover that hams have the least guarantee of privacy of anyone on the Internet. 
 
@@ -78,18 +38,18 @@ Thus, we have established certain guidelines for everything we do on this web si
   * We do not provide your personal information to anyone else without your permission; 
   * We do not provide listings of your personal logbook; 
   * We do not give away, rent, or sell mailing lists of names, addresses, or e-mail addresses without your permission; 
-  * We allow you to control the amount of e-mail you get from us using your [Profile screen](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/editProfile.cfm); 
+  * We allow you to control the amount of e-mail you get from us using your [Profile screen](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/editProfile.cfm); 
   * We store all information in a protected database; 
 
   
 Personal Information   
-**Profile Information** that you have entered during registration or in your [Profile screen](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/editProfile.cfm) is not published, except when it is printed on a specific eQSL card. 
+**Profile Information** that you have entered during registration or in your [Profile screen](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/editProfile.cfm) is not published, except when it is printed on a specific eQSL card. 
 
 **eQSLs** cannot be viewed by anyone except the hams to whom you are sending them. 
 
 **Logbooks** are not published, so the only person who will see your eQSL is the person who knows the date and band of the QSO. We believe it is against standard privacy procedures to publish an entire log, as some sites do. 
 
-**Signatures** , such as those on your license submitted for the [Authenticity Guaranteed](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/authenticity.cfm) certificate are only seen one time by the eQSL.cc staff member or Advisory Board member who reviews and approves it. The license is never displayed to other users of the system.   
+**Signatures** , such as those on your license submitted for the [Authenticity Guaranteed](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/authenticity.cfm) certificate are only seen one time by the eQSL.cc staff member or Advisory Board member who reviews and approves it. The license is never displayed to other users of the system.   
   
 Cookies - Identifying your callsign with each transmission   
 Cookies are not well understood by the Internet public. But hams can have a simple way of remembering what they are for: 
@@ -116,7 +76,7 @@ Donations cover a lot of this expense on a monthly basis. But we also sell small
 
 Occasionally, these advertisers only want to display their ads to hams in a particular country. Or they may want to display their ads only to users who are working with VHF, or who use digital modes. In these cases, we filter our database so that only those users who match the requirements will see the ads. But in no case do we ever provide that information directly to the advertiser. They have to live with **our** determination of who should see the ads. It is done automatically, without any humans ever seeing the information.   
   
-If you have any concerns that were not addressed here, please [contact the Webmaster](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/contactWebmaster.cfm) for an answer. 
+If you have any concerns that were not addressed here, please [contact the Webmaster](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/contactWebmaster.cfm) for an answer. 
 
-[ ](https://web.archive.org/web/20020603044719id_/http%3A//www.eqsl.cc/qslcard/AdRedirector.cfm?AdID=45)   
+[](https://web.archive.org/web/20021213202613id_/http%3A//www.eqsl.cc/QSLcard/AdRedirector.cfm?AdID=67)   
 
