@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602204040id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203010227id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
 
 # Vegas.com: Privacy Policy
 
-**[About VEGAS.com](https://web.archive.org/web/20020602204040id_/http%3A//www.vegas.com/about/index.html) | [Press Releases](https://web.archive.org/web/20020602204040id_/http%3A//www.vegas.com/about/pressreleases.html) | [Contact Us](https://web.archive.org/web/20020602204040id_/http%3A//www.vegas.com/about/contactus.html) | [Jobs](https://web.archive.org/web/20020602204040id_/http%3A//www.vegas.com/about/jobs.html) | [Advertising](https://web.archive.org/web/20020602204040id_/http%3A//www.vegas.com/about/advertising.html) | Privacy Policy | [FAQs](https://web.archive.org/web/20020602204040id_/http%3A//www.vegas.com/about/faq.html)**
+**[About VEGAS.com](https://web.archive.org/web/20021203010227id_/http%3A//www.vegas.com/about/index.html) | [Press Releases](https://web.archive.org/web/20021203010227id_/http%3A//www.vegas.com/about/pressreleases.html) | [Press](https://web.archive.org/web/20021203010227id_/http%3A//www.vegas.com/about/press.html) | [Contact Us](https://web.archive.org/web/20021203010227id_/http%3A//www.vegas.com/about/contactus.html) | [Jobs](https://web.archive.org/web/20021203010227id_/http%3A//www.vegas.com/about/jobs.html) | [Advertising](https://web.archive.org/web/20021203010227id_/http%3A//www.vegas.com/about/advertising.html) | Privacy Policy | [FAQs](https://web.archive.org/web/20021203010227id_/http%3A//www.vegas.com/about/faq.html) **
 
- **Privacy Policy**
+**Privacy Policy**
 
 VEGAS.com takes the privacy of our readers very seriously. On this page, we have tried to address some of the main privacy concerns that you might have. If you have additional questions that are not answered here, please write us at this address: [webmaster@vegas.com](mailto:webmaster@vegas.com).
 
