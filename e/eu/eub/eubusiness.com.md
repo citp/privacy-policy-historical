@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607013533id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204025640id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
 
-# EU Business - Privacy
+# EUbusiness - Privacy
 
 Privacy Statement
 
-  * [Information Collection and Use](http://www.eubusiness.com/#1)
-  * [Registration](http://www.eubusiness.com/#2)
-  * [Order Forms](http://www.eubusiness.com/#3)
-  * [Cookies](http://www.eubusiness.com/#4)
-  * [Advertising](http://www.eubusiness.com/#5)
-  * [Log Files](http://www.eubusiness.com/#6)
-  * [Links](http://www.eubusiness.com/#7)
-  * [Newswires](http://www.eubusiness.com/#8)
-  * [Surveys & Contests](http://www.eubusiness.com/#9)
-  * [Security](http://www.eubusiness.com/#11)
-  * [Correcting/Updating Personal Information](http://www.eubusiness.com/#12)
-  * [Notification of Changes](http://www.eubusiness.com/#13)
+  * [Information Collection and Use](http://www.eubusiness.com/privacy/index_html#1)
+  * [Registration](http://www.eubusiness.com/privacy/index_html#2)
+  * [Order Forms](http://www.eubusiness.com/privacy/index_html#3)
+  * [Cookies](http://www.eubusiness.com/privacy/index_html#4)
+  * [Advertising](http://www.eubusiness.com/privacy/index_html#5)
+  * [Log Files](http://www.eubusiness.com/privacy/index_html#6)
+  * [Links](http://www.eubusiness.com/privacy/index_html#7)
+  * [Newswires](http://www.eubusiness.com/privacy/index_html#8)
+  * [Surveys & Contests](http://www.eubusiness.com/privacy/index_html#9)
+  * [Security](http://www.eubusiness.com/privacy/index_html#11)
+  * [Correcting/Updating Personal Information](http://www.eubusiness.com/privacy/index_html#12)
+  * [Notification of Changes](http://www.eubusiness.com/privacy/index_html#13)
 
 
 
