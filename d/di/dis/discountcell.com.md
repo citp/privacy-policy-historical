@@ -1,42 +1,243 @@
-> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607173541id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206090700id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement for Discountcell.com
+
+## About Us
+
+This is a privacy policy for Discountcell.com. Our homepage on the Web is located at [ http://www.discountcell.com](http://www.discountcell.com/). The full text of our privacy policy is available on the Web at [ http://www.discountcell.com/privacy.htm](http://www.discountcell.com/privacy.htm) This policy does not tell users where they can go to exercise their opt-in or opt-out options. 
+
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
+    
+    
+    Discountcell.com
+    350 West 500 South
+    Provo, Utah 84601 
+    United States of America
+    
+
+You may contact us by e-mail at [ Info@discountcell.com](mailto:Info@discountcell.com). You may call us at 1-800-422-1814. 
+
+## Dispute Resolution and Privacy Seals
+
+We have no privacy seals or other assurance mechanisms. 
+
+## Additional Information
+
+This policy is valid for 104 weeks from the time that it is loaded by a client. 
+
+## Data Collection
+
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 4 data groups. The data practices of each group will be explained separately. 
+
+* * *
+
+### Group "Access log information"
+
+We collect the following information: 
+
+  * Click-stream data
+  * HTTP protocol elements
+
+
+
+This data will be used for the following purposes:
+
+  * Completion and support of the current activity.
+  * Web site and system administration.
+  * Research and development.
+
+
+
+This data will be used by ourselves and our agents. 
+
+The following explanation is provided for why this data is collected:
+
+> Our Web server collects access logs containing this information.
+
+* * *
+
+### Group "Cookies"
+
+We collect the following information: 
+
+  * HTTP cookies
+
+
+
+This data will be used for the following purposes:
+
+  * Research and development.
+  * One-time tailoring.
+
+
+
+This data will be used by ourselves and our agents. 
+
+The following explanation is provided for why this data is collected:
+
+> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you. We also use cookies to allow our server to maintain information about the contents of your shopping cart.
+
+* * *
+
+### Group "Transaction info (required)"
+
+We collect the following information: 
+
+  * Physical contact information
+  * Online contact information
+  * Demographic data
+  * Purchase information
+
+
+
+This data will be used for the following purposes:
+
+  * Completion and support of the current activity.
+  * Research and development.
+
+
+
+This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
+
+  * Delivery services.
+
+
+
+The following explanation is provided for why this data is collected:
+
+> Information we collect in order to process your purchase.
+
+* * *
+
+### Group "Transaction info (optional)"
+
+At the user's option, we will collect the following data: 
+
+  * Physical contact information
+  * Online contact information
+  * Demographic data
+  * Purchase information
+
+
+
+This data will be used for the following purposes:
+
+  * Contacting visitors for marketing of services or products.
+
+
+
+This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
+
+  * Delivery services.
+
+
+
+The following explanation is provided for why this data is collected:
+
+> Information we collect in order to process your purchase.
+
+* * *
+
+## Cookies
+
+Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+
+Our site makes use of cookies. Cookies are used for the following purposes: 
+
+  * User targeting 
+  * Research and development 
+
+
+
+* * *
+
+## Compact Policy Summary
+
+The compact policy which corresponds to this policy is: 
+    
+    
+        CP="IDC CURa ADMa DEVa TAIa CONa OUR DELa BUS IND PHY ONL UNI PUR COM NAV DEM STA"
+    
+
+The following table explains the meaning of each field in the compact policy. 
+
+**Field**|  **Meaning**  
+---|---  
+`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
+`IDC` |  Access is available to contact information.   
+`CURa` |  The data is used for completion of the current activity.   
+`ADMa` |  The data is used for site administration.   
+`DEVa` |  The data is used for research and development.   
+`TAIa` |  The data is used for tailoring the site.   
+`CONa` |  The data is used for contacting the user.   
+`OUR` |  The data is given to ourselves and our agents.   
+`DELa` |  The data is given to delivery services.   
+`BUS` |  Our business practices specify how long the data will be kept.   
+`IND` |  The data will be kept indefinitely.   
+`PHY` |  Physical contact information is collected.   
+`ONL` |  Online contact information is collected.   
+`UNI` |  Unique identifiers are collected.   
+`PUR` |  Purchase information is collected.   
+`COM` |  Computer information is collected.   
+`NAV` |  Navigation and clickstream data is collected.   
+`DEM` |  Demographic and socioeconomic data is collected.   
+`STA` |  State-management data is collected   
+  
+The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
+
+* * *
+
+## Policy Evaluation
+
+Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
+
+**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
+
+**Unsatisfactory policy** : this compact policy is considered _unsatisfactory_ according to the rules defined by Internet Explorer 6. The behavior of Internet Explorer 6 regarding cookies set under this compact policy is as follows: 
+
+| **First-party usage**|  **Third-party usage**  
+---|---|---  
+**Persistent Cookies** | 
+
+  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
+  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **downgraded** to a session cookie. 
+  * **Medium High:** No opt-out is provided, so the cookie will be **blocked**. 
+  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
+
+| 
+
+  * **Low:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **downgraded** to a session cookie. 
+  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **blocked**. 
+  * **Medium High:** Since opt-in is not required, the cookie will be **blocked**. 
+  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
 
   
-**_Discountcell is committed to protecting your privacy!   We do not sell or disclose the information (including address, phone number or email address) you provide us to third parties without your express permission nor do we send unsolicited emails._**
+**Session Cookies** | 
 
-**_Our Commitment To Privacy  
-_**Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
+  * **Medium:** Policy satisfactory at this level; cookies will be accepted. 
+  * **Medium High:** Policy satisfactory at this level; cookies will be accepted. 
+  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
 
-_**The Information We Collect:  
-**_
+| 
 
-This notice applies to all information collected or submitted on DiscountCell.com.   The types of personal information we collect includes: 
+  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
+  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **blocked**. 
+  * **Medium High:** Since opt-in is not required, the cookie will be **blocked**. 
+  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
 
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
-[Etc.]
+  
+A policy which is considered unsatisfactory by Internet Explorer 6 contains certain categories of data which are used or shared in a particular manner. This policy is placed in the unsatisfactory category, because the following categories of data are associated with this policy's cookies: 
 
-**_The Way We Use Information:  
-_**We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.  For instance, we must provide your address to UPS to deliver the ordered items.
+  * Physical contact information is collected. 
+  * Online contact information is collected. 
 
-We use return email addresses to answer the email we receive, notify customers of backorders, and notify customers of  problems with an order. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we do not disclose anything that could be used to identify those individuals. 
 
-**If you choose to receive your tracking number via email when the package is shipped, UPS will be provided with your email address to forward this information to you.   UPS has assured us they do not sell or disclose this information.**
+In addition, the data is used in the following manner, marking the policy as unsatisfactory: 
 
-**_Our Commitment To Data Security  
-_**To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+  * The data is used for contacting the user. 
 
-_**How To Contact Us  
-**_
 
-Should you have other questions or concerns about these privacy policies, please call us at 1-800-422-1814 or send us an email at [webmaster@DiscountCell.com](mailto:webmaster@DiscountCell.com) . 
 
-Thanks!
-
- 
+Note that allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory. 
