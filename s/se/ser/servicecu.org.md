@@ -1,16 +1,21 @@
-> *The following text is extracted and transformed from the servicecu.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207212731id_/http%3A//www.servicecu.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicecu.org privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618115852id_/http%3A//www.servicecu.org/privacy.asp) for the most accurate reproduction.*
 
 # Service Credit Union
 
-|  |  |  |   
----|---|---  
-[](http://www.servicecu.org/quick-loans.asp)  
-[](http://www.servicecu.org/internet-branch.asp) |  |   
----|---|---  
-|   
-[](http://www.servicecu.org/tell-a-friend.asp)
+| 
 
-[](http://magserv.cuna.org/hffo/hffo.html?sub_id=26655)
+  
+
+
+| •  | Pay Your Bills  
+---|---  
+•  | Review Accounts  
+•  | Transfer Funds  
+•  | **It's Free**  
+[ >> Learn More](http://www.servicecu.org/home-banking-landing.asp)  
+  
+  
+
 
 | 
 
