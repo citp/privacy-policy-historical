@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012010902id_/http%3A//www.brockport.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604145755id_/http%3A//brockport.edu/privacy.html) for the most accurate reproduction.*
 
 # SUNY Brockport - Communication Faculty and Staff Profiles
 
@@ -26,7 +26,7 @@ When visiting our Web site, we automatically collect and store the following inf
 
 
 
-None of the above-mentioned information is deemed to constitute _personal information_ by the [Internet Privacy and Security Act](http://assembly.state.ny.us/leg/?ch=17) . The information that is collected automatically is used to improve the content of our Web site and to help us understand how our _users_ are interacting with our Web site. This information is collected for statistical analysis and to determine what information is of most and least interest to our _users_.  The information is not collected for commercial marketing purposes and we are not authorized to sell or otherwise disclose the information collected from our Web site for commercial marketing purposes.
+None of the above-mentioned information is deemed to constitute _personal information_ by the [Internet Privacy and Security Act](http://assembly.state.ny.us/leg/?cl=114&a=3) . The information that is collected automatically is used to improve the content of our Web site and to help us understand how our _users_ are interacting with our Web site. This information is collected for statistical analysis and to determine what information is of most and least interest to our _users_.  The information is not collected for commercial marketing purposes and we are not authorized to sell or otherwise disclose the information collected from our Web site for commercial marketing purposes.
 
 ### Information Collected When You E-mail Us or Complete a Transaction 
 
