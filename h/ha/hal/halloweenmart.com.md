@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweenmart.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810105049id_/http%3A//www.halloweenmart.com/cgi-bin/HWNstore.cgi%3Fuser_action%3Dlink%26link%3Dsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenmart.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606030324id_/http%3A//halloweenmart.com/cgi-bin/HWNstore.cgi%3Fuser_action%3Dlink%26link%3Dsecurity) for the most accurate reproduction.*
 
 # HalloweenMart - Internet Costume Leader Online Since 1994
 
