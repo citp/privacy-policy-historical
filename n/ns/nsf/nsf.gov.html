@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nsf.gov privacy policy that was archived on 2002-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020408220535id_/http%3A//nsf.gov/home/pubinfo/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nsf.gov privacy policy that was archived on 2002-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021114191204id_/http%3A//www.nsf.gov/home/pubinfo/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 <title>NSF - Information - About NSF's Privacy Policy and Web Site</title>
@@ -43,7 +43,7 @@ var prefs=nsfmenu + "::" + dark
 
 <script>
 
-if (bw.mac || bw.sun ) { 
+if ((bw.mac && !bw.ie5 && !bw.ie6) || bw.sun ) { 
 document.writeln('<link href="/styles/threshholdmac.css"')
 document.writeln('rel="STYLESHEET"')
 document.writeln('title="Threshold Page Style Sheet"')
@@ -260,9 +260,8 @@ function showmenus(menu,num){
 22230, USA<br>
 Tel: 703-292-5111, FIRS: 800-877-8339 | TDD: 703-292-5090 </span></td>
 
-    <td valign="BOTTOM" class="contact"> 
-<a href="/home/help/contact.htm">Contact 
-      NSF</a><br>
+    <td valign="BOTTOM" class="contact"> <a href="/home/pubinfo/webpolicy.htm">Policies</a><br>
+      <a href="/home/help/contact.htm">Contact NSF</a><br>
  <a href="/home/customize.htm">Customize</a><br>	 
 
 
@@ -499,7 +498,7 @@ oCMenu2.makeMenu('top0','','','','')
 
 	oCMenu2.makeMenu('sub02','top0','Visiting NSF','/home/visit/start.htm')
 
-	oCMenu2.makeMenu('sub03','top0','Jobs','/oirm/hrm/jobs/')
+	oCMenu2.makeMenu('sub03','top0','Career Opportunities','/oirm/hrm/jobs/')
 
 	oCMenu2.makeMenu('sub04','top0','Staff Directory','http://staff.nsf.gov')
 
@@ -525,7 +524,7 @@ oCMenu2.makeMenu('top0','','','','')
 
 		oCMenu2.makeMenu('sub029','sub05','Social, Behavioral, Economic','/home/sbe/','',160,0)
 
-		oCMenu2.makeMenu('sub030','sub05','Environmental','/home/crssprgm/be/','',160,0)
+		oCMenu2.makeMenu('sub030','sub05','Environmental','/ere/','',160,0)
 
 	oCMenu2.makeMenu('sub06','top0','Budget','/home/budget/start.htm')
 
@@ -565,7 +564,7 @@ oCMenu2.makeMenu('top1','','','')
 
 		oCMenu2.makeMenu('sub110','sub11','Step by Step Guide','/home/programs/guide.htm','',170,0)
 
-		oCMenu2.makeMenu('sub111','sub11','Grant Proposal Guide','/cgi-bin/getpub?gpg','',170,0)
+		oCMenu2.makeMenu('sub111','sub11','Grant Proposal Guide','/cgi-bin/getpub?nsf032','',170,0)
 
 		oCMenu2.makeMenu('sub112','sub11','Electronic Submission (FastLane)','http://www.fastlane.nsf.gov/','',170,0)
 
@@ -579,7 +578,7 @@ oCMenu2.makeMenu('top1','','','')
 
 		oCMenu2.makeMenu('sub121','sub12','By State and Institution','http://Ntalpha.bfa.nsf.gov/starth.ASP','',160,0)
 
-		oCMenu2.makeMenu('sub122','sub12','Search Abstracts','https://www.fastlane.nsf.gov/a6/A6AwardSearch.htm','',160,0)
+		oCMenu2.makeMenu('sub122','sub12','Search Abstracts','http://www.fastlane.nsf.gov/a6/A6AwardSearch.htm','',160,0)
 
 		oCMenu2.makeMenu('sub123','sub12','Recent Awards (FastLane)','http://www.fastlane.nsf.gov/servlet/A6RecentWeeks','',160,0)
 
@@ -607,13 +606,13 @@ oCMenu2.makeMenu('top1','','','')
 
 oCMenu2.makeMenu('top2','','','')
 
-	oCMenu2.makeMenu('sub21','top2','What\'s New','/pubsys/newdoc.htm','',140,0)
+	oCMenu2.makeMenu('sub21','top2','What\'s New','/pubsys/newdoc.cfm','',140,0)
 
 	oCMenu2.makeMenu('sub22','top2','Most Popular','/home/pubinfo/popular.htm','',140,0)
 
 	oCMenu2.makeMenu('sub23','top2','Search or Browse','/pubsys/ods/','',140,0)
 
-	oCMenu2.makeMenu('sub25','top2','Index of All Publications','/pubsys/index.htm','',140,0)
+	oCMenu2.makeMenu('sub25','top2','Index of All Publications','/pubsys/ods_index.html','',140,0)
 
 	oCMenu2.makeMenu('sub26','top2','Obtaining NSF Publications','/pubs/start.htm','',140,0)
 
@@ -653,25 +652,25 @@ oCMenu2.makeMenu('top3','','','')
 
 		oCMenu2.makeMenu('sub310','sub34','Press Releases','/od/lpa/news/press/pressrel.htm','',100,0)
 
-		oCMenu2.makeMenu('sub311','sub34','Press Statements','/od/lpa/news/media/statemts.htm','',100,0)
+		oCMenu2.makeMenu('sub311','sub34','Press Statements','/od/lpa/news/press/pressrel.htm#statements','',100,0)
 
 		oCMenu2.makeMenu('sub312','sub34','Fact Sheets','/od/lpa/news/media/backgrnd.htm','',100,0)
 
-		oCMenu2.makeMenu('sub313','sub34','Tip Sheets','/od/lpa/news/tips/tipsrel.htm','',100,0)
+		oCMenu2.makeMenu('sub313','sub34','News Tips','/od/lpa/news/media/newstips.htm','',100,0)
 
 		oCMenu2.makeMenu('sub314','sub34','Media Advisories','/od/lpa/news/media/advisory.htm','',100,0)
+
+		oCMenu2.makeMenu('sub315','sub34','Image Library','http://olpaimages.nsf.gov/','',100,0)
 
 	oCMenu2.makeMenu('sub35','top3','<IMG SRC="/images/common/'+arrowimg+'" align="right" border=0 hspace="-5">Meetings and Events','')
 
 		oCMenu2.makeMenu('sub320','sub35','NSF Events','/od/lpa/events_list.htm','',110,0)
 
-		oCMenu2.makeMenu('sub321','sub35','Press Conferences','/od/lpa/news/media/advisory.htm','',110,0)
+		oCMenu2.makeMenu('sub321','sub35','Press Conferences','/od/lpa/news/media/storyideas.htm#media','',110,0)
 
 		oCMenu2.makeMenu('sub322','sub35','NSB Calendar','/nsb/meetings/start.htm','',110,0)
 
-		oCMenu2.makeMenu('sub323','sub35','Director\'s Schedule','/od/lpa/forum/events.htm','',110,0)
-
-		oCMenu2.makeMenu('sub324','sub35','Advisory Committee','/home/pubinfo/advisory.htm','',110,0)
+		oCMenu2.makeMenu('sub323','sub35','Advisory Committee','/home/pubinfo/advisory.htm','',110,0)
 
 	oCMenu2.makeMenu('sub36','top3','Science Nuggets','/sbe/nuggets/start.htm')
 
