@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galttech.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205014912id_/http%3A//www.galttech.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galttech.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607004956id_/http%3A//galttech.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
