@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the converse.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206084502id_/http%3A//converse.com/zprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the converse.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603192215id_/http%3A//converse.com/zprivacy.asp) for the most accurate reproduction.*
 
 # Converse - Privacy Policy
 
@@ -14,7 +14,7 @@ From time to time we may change our Privacy Policy. Your use of our Site followi
 These rules --specifically including the "Customer Information Policy", "Use of Cookies", "Use of IP Addresses", and "Security" paragraphs below --apply to this website only and not to any other website or business activity of Converse Inc. 
 
 Customer Information Policy  
-At the present time the Converse site is designed for audiences 13 years of age and above. Converse does collect customer information on those users who are 13 years of age or older in an effort to improve our customers' shopping experience. Converse recognizes that it must maintain and use customer information responsibly. The information collected is used to help us respond to customer inquiries, send emails about sales and events, contact contest winners and/or ship and bill orders. The information also helps us in determining what products appeal to our customers so we can better merchandise our site. 
+At the present time the Converse site is designed for audiences 13 years of age and above. Converse does collect customer information on those users who are 13 years of age or older in an effort to improve our customers' shopping experience. Converse recognizes that it must maintain and use customer information responsibly. The information collected is used to help us respond to customer inquiries, send emails about sales, events and surveys, contact contest winners and/or ship and bill orders. The information also helps us in determining what products appeal to our customers so we can better merchandise our site. 
 
 We may use customer information for marketing and promotional purposes. Each promotional email we send comes with a link that enables our customers to unsubscribe or remove themselves from our mailing list. We do not currently sell online customer information to any outside company or third party. 
 
