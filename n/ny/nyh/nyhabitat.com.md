@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608204301id_/http%3A//nyhabitat.com/us/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209090629id_/http%3A//www.nyhabitat.com/us/privacy/privacy.htm) for the most accurate reproduction.*
 
 # New York Habitat - Privacy statement
 
