@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpa-apc.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207010108id_/http%3A//www.cpa-apc.org/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpa-apc.org privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206170815id_/http%3A//www.cpa-apc.org/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Canadian Psychiatric Association - Privacy Policy
 
@@ -9,10 +9,10 @@ For the purposes of this Policy, “Personal Information” means any informatio
 In the event an individual has questions about (a) access to Personal Information; (b) the collection, use, management or disclosure of Personal Information; or (c) this Policy Statement, that person should contact CPA as follows:
 
 [CPA@cpa-apc.org](mailto:CPA@cpa-apc.org) or [webmaster@cpa-apc.org](mailto:webmaster@cpa-apc.org)  
-Canadian Psychiatric Association  
-260-441 MacLaren St.,  
+The Canadian Psychiatric Association  
+141 Laurier Avenue West, Suite 701   
 Ottawa, Ontario  
-K2P 2H3  
+K1P 5J3  
 (613) 234-2815
 
 #### Your Consent
