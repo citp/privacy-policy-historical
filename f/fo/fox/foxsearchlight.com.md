@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsearchlight.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054817id_/http%3A//www.foxsearchlight.com/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsearchlight.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605194425id_/http%3A//www.foxsearchlight.com/terms.htm) for the most accurate reproduction.*
 
 # Terms of Use | Privacy Policy
 
@@ -69,7 +69,7 @@ If you have any issues or complaints regarding this Privacy Policy, please conta
 >  feedbackus@fox.com  
 > 
 
-CHILDREN'S PRIVACY POLICY[](https://web.archive.org/web/20031206054817id_/http%3A//www.foxsearchlight.com/child)
+CHILDREN'S PRIVACY POLICY[](https://web.archive.org/web/20040605194425id_/http%3A//www.foxsearchlight.com/child)
 
 1\. KIDS AND INTERNET SAFETY:
 
