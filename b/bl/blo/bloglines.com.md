@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloglines.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202173655id_/http%3A//bloglines.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloglines.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605041852id_/http%3A//www.bloglines.com/about/privacy) for the most accurate reproduction.*
 
 # Bloglines | Privacy Policy
 
