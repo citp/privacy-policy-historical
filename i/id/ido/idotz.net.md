@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603195322id_/http%3A//idotz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607073723id_/http%3A//www.idotz.net/privacy.html) for the most accurate reproduction.*
 
-# iDotz.Net - Domain Name Registrar
+# iDotz.Net - Domain Name Registrar: Cool Domains @ Great Prices!
 
-  **iDotz.Net™ Privacy Policy  
+  **iDotz.Net� Privacy Policy  
    **(effective July 1, 2002) 
 
   This notice describes our privacy policy. By visiting our Web site or by otherwise interacting with dotFM, you agree to accept the practices described in this Privacy Policy. For questions on the Privacy Policy please contact 
@@ -34,16 +34,16 @@ iDotz.Net Certificate
 
   As the registrar of domain names, we may make certain information about you available to the general public via our domain name look-up and directory "whois" service (e.g., name, address, telephone and email of the Registrant). Additionally, we may share the information stored on that database, as well as other information we collect or you provide, with our subsidiaries and other parties selected by us, including with the parties or circumstances including, but not limited to: 
 
-   · Agents or vendors who are responsible for handling your Account or performing  
+   � Agents or vendors who are responsible for handling your Account or performing  
      other necessary service that you or we require. 
 
-   · Business partners whose services you may request or access on or through our  
+   � Business partners whose services you may request or access on or through our  
      Site. 
 
-   · Business partners or vendors who we believe offer products or services that may  
+   � Business partners or vendors who we believe offer products or services that may  
      be of interest to you. 
 
-   · Transfer of ownership of our business or a part of our business. If our business  
+   � Transfer of ownership of our business or a part of our business. If our business  
      or a part of our business is acquired, sold or transferred to another business,  
      customer information may be a part of that acquisition, sale or transfer. 
 
