@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the computeractive.co.uk privacy policy that was archived on 2002-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021221014528id_/http%3A//www.vnunet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computeractive.co.uk privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603160026id_/http%3A//www.vnunet.com/Aboutvnu/au_legal_01.jsp) for the most accurate reproduction.*
 
-# vnunet.com Privacy Statement
+# vnunet.com Terms and Conditions
 
 VNU's data collection policy allows you to choose whether to give us your address details and to control how we use that information. We aim to allow you to control your privacy and give you the means to raise any questions or concerns you may have.
 
@@ -26,15 +26,9 @@ Your VNU user ID automatically identifies your computer, but not you, to our ser
 
 In the course of serving advertisements to this site, our third party advertiser may place or recognise a unique cookie on your browser, but it will not collect any personally identifiable information about you. VNU does not have control over the collection of information for advertising purposes. For more information regarding DoubleClick's privacy policy please [**click here**](http://www.doubleclick.net/us/corporate/privacy). 
 
-Dynamic logic
-
 Dynamic Logic (Europe) has a tag on the [VNU Agility microsite](http://www.vnunet.com/agility) to enable branding research on behalf of Media Contacts and Microsoft. This tag will drop cookies and invite users to complete our survey through a pop-up window. For more information, please contact [Matthew Beck](mailto:matthew_beck@vnu.co.uk). 
 
-Registration
-
 We will ask you to register in order to receive email newsletters, enter competitions, and receive services from VNUnet. This will require you to provide personal information such as your name, email address, home and work postcodes. This information is mandatory and is required by VNU to supply a reasonable level of services to users and our advertisers. Information such as user job function, company sector, primary use of VNUnet, company name and date of birth is optional. By not answering optional questions may limit what services we can offer you. Upon registration, you will be asked to choose a password for future access to the site.
-
-Use of Information
 
 You will only receive additional relevant information from specially selected clients of VNU if you indicate your consent by checking the opt-in box on the site. VNU will either email you the additional relevant information on behalf of these clients or use the services of a recognised data bureau, acting on behalf of VNU to enable you to receive this information. VNU will not provide your personal details to any other third parties.
 
@@ -42,23 +36,13 @@ VNU may, however, make anonymous use of information to help diagnose faults, man
 
 You will also be able to indicate that you not wish to receive such newsletters by using the unsubscribe functions. To access the unsubscribe functions, click on "Newsletters" and then click on "Edit your personal details". We don't intend to abuse the trust of our users by offending them with spam.
 
-Opt-In Features
-
 As a VNU site user you have complete control over what newsletters and other information you may receive and sign-up for. You will only receive additional relevant information from VNU or one of our subsidiaries or on behalf of specially selected clients of VNU if you indicate your consent by checking the "opt-in" box on the site.
-
-Correcting and Updating
 
 At all times a user of the VNU site has control over the accuracy of the personally identifiable information that the user provides to VNU. If you wish to correct or update the personal information you have provided to VNU, simply click on "Newsletters" and then click on Edit your personal details or [**click here**](http://www.vnunet.com/register/login.jsp)
 
-Deleting Information
-
 All VNU site users can at any time remove personally identifiable information from their VNU user profile. To do this, click on "Newsletters" and then click on edit your personal details. Or [**click here**](http://www.vnunet.com/register/login.jsp)
 
-Unsubscribing
-
 We'll remove you from the list of site users and stop sending you emails/newsletters or 3rd party emails upon request. This process is known as unsubscribing and can be carried out almost instantaneously by clicking on "Newsletters" and then clicking on "Edit your personal details" or [**click here**](http://www.vnunet.com/register/login.jsp). If this doesn't work or you don't understand the procedure, simply contact [**Mark Goddard** [mark_goddard@vnu.co.uk]](mailto:mark_goddard@vnu.co.uk).
-
-General disclaimers
 
 VNU is not responsible for the content or the privacy policies of web sites linked to this site, however we'd like to know if you find anything objectionable about them.
 
@@ -68,4 +52,8 @@ Changes to this privacy policy
 
 VNU reserves the right to change this privacy policy at any time by posting changes online. It is your responsibility to refer to this privacy policy on accessing this site.
 
-If you have any questions or suggestions about this privacy statement please contact: [**Emma Devine** [emma_devine@vnu.co.uk]](mailto:emma_devine@vnu.co.uk)
+If you have any general questions or suggestions please contact feedback, [**feedback@vnunet.com**](mailto:feedback@vnunet.com)
+
+To report technical errors/site problems please contact our webmaster, [**webmaster@vnunet.com**](mailto:webmaster@vnunet.com) ****
+
+** **
