@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620195419id_/http%3A//www.wirelessemporium.com/we/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203045415id_/http%3A//wirelessemporium.com/we/privacy.asp) for the most accurate reproduction.*
 
 # discount cell phone accessories cheap faceplate battery hands free by Wirelessemporium
 
@@ -11,9 +11,21 @@ The Wireless Emporium Privacy Policy:
 | [](https://www.truste.org/ivalidate.php?url=www.wirelessemporium.com)  
 ---|---  
   
+**Holiday Shipping Policy:**  
+Wireless Emporium offers multiple shipping options to ensure timely delivery of your item for the Holidays. To help save our customers more money during this Holiday season, Wireless Emporium is extending it’s FREE SHIPPING ON ALL ORDERS promotion for the remainder of the year. Please be advised, that such policy pertains to our standard shipping option via United States Postal Service (USPS) 1st Class mail. 
+
+Due to the nature of first class mail delivery, our customers who choose the free shipping option are STRONGLY ADVISED per the USPS to order AT LEAST NINE (9) SHIPPING DAYS BEFORE DECEMBER 24TH, 2003 (or Thursday, December 11th, 2003) to ensure timely delivery before Christmas day. This is primarily due to unpredictability of Holiday mail volume and delivery. If it is beyond that date, and pre-Christmas day delivery is critical, it is strongly suggested that customers opt for either our low-cost FLAT-RATE Priority shipping option (approx. 3 business days), or our FLAT-RATE Express Overnight shipping option (1-2 days). 
+
+  * The last suggested pre-Christmas ordering date for FLAT-RATE Priority shipping (approx. 3 business days) is AT LEAST FOUR (4) SHIPPING DAYS BEFORE DECEMBER 24TH, 2003 (or Thursday, December 18th, 2003).  
+
+  * The last suggested pre-Christmas ordering date for FLAT-RATE Express Overnight shipping (1-2 days) is AT LEAST TWO (2) SHIPPING DAYS BEFORE DECEMBER 24TH, 2003 (or Friday, December 19th, 2003).
+
+PLEASE BE ADVISED: Regardless of shipping option, Wireless Emporium does not under any circumstance expressly warrant or guarantee pre-Christmas delivery. Wireless Emporium does guarantee timely processing and fulfillment of all IN-STOCK items upon placement of order (usually within 24-48 hours). Upon fulfillment out of our warehouse, it is the obligation of the United States Postal Service for timely delivery of shipment in which the above suggested delivery times apply. It is the responsibility of the customer to acknowledge and adhere to the above policy before placing their order. 
+
+Privacy Policy:  
 Wireless Emporium, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.WirelessEmporium.com. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-If users have questions or concerns regarding this statement, you should first contact Wireless Emporium Privacy Policy Compliance Dept. by emailing us at: [info@wirelessemporium.com](mailto:info@wirelessemporium.com). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.htm) (<http://www.truste.org/watchdog.htm>l). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, you should first contact Wireless Emporium Privacy Policy Compliance Dept. by emailing us at: [info@wirelessemporium.com](mailto:info@wirelessemporium.com). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html) (<http://www.truste.org/watchdog.html>). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
 At Wireless Emporium, we are committed to **protecting your privacy online**. Our Privacy Policy demonstrates our firm commitment to protecting the privacy of our customers. When you shop at Wireless Emporium, we collect transactional information, or Personally Identifiable Information, from you such as your name, telephone number, e-mail address, billing address, shipping address, credit card or other payment information. Any changes, corrections or updates to your transactional information can be edited during the purchase process. Wireless Emporium **DOES NOT SHARE, SELL or RENT** your transactional information to others, except as described in this statement. Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site. 
 
