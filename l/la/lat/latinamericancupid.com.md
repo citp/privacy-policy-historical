@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the latinamericancupid.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202141650id_/http%3A//www.latinamericancupid.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinamericancupid.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611165420id_/http%3A//www.latinamericancupid.com/Privacy.cfm) for the most accurate reproduction.*
 
 # latinamericancupid.com - Privacy Policy
 
-**Privacy Policy**
+## At LatinAmericanCupid.com we value your privacy. 
 
-**At LatinAmericanCupid.com** **we value your privacy**. We have created this privacy statement in order to demonstrate our firm commitment to your privacy.
+We have created this privacy statement in order to demonstrate our firm commitment to your privacy.
 
-**Our commitment to your privacy.**
+### Our commitment to your privacy
 
   * We will not release personal information about our members or visitors without their permission. 
   * We will not disseminate, sell, or trade your email address, location, or any personal information with any persons or companies. (Your email address is used solely by us to contact you when you have new messages or matches, to inform you of your account status, and to inform you of any enhancements in our service or of services of our associated businesses). 
@@ -18,7 +18,7 @@
 
 
 
-**Information we collect from our Website**
+### Information we collect from our Website 
 
 We use the following information to evaluate our website performance and to improve our service to you:- 
 
@@ -32,25 +32,25 @@ We use the following information to evaluate our website performance and to impr
 
 If you become a member we collect all of the information that you fill out in the registration form. With the exception of your email address and family name, this information is made available to other **LatinAmericanCupid.com** members as part of your profile. **We do not disclose your email address or family name to other LatinAmericanCupid.com members or any other companies, individuals or organisations.**
 
-**How we store your information**
+### How we store your information
 
   * Your personal information is stored electronically. We take reasonable steps to ensure that your email address and family name remain confidential and to prevent misuse, loss, unauthorised access, modification or disclosure.
 
 
 
-**Accuracy of your personal information**
+### Accuracy of your personal information
 
   * We allow members to change their personal details using a password protected feature. Please contact us if you have any problems using this feature, or if your email address changes. We will then update your information. 
 
 
 
-**Do we disclose any of your personal information or email address to other companies?**
+### Do we disclose any of your personal information or email address to other companies?
 
   * No, these details remain confidential. 
 
 
 
-**How to improve your privacy**
+### How to improve your privacy
 
   * If you require an added level of privacy, you can use PGP (Pretty Good Privacy at www.pgp.com) or another encryption program. 
   * Make your password more difficult to crack. Never use your first name or an easily guessable password. Its always better to use a combination of letters and numbers. 
@@ -58,8 +58,8 @@ If you become a member we collect all of the information that you fill out in th
 
 
 
-**Application of our Privacy Statement**
+### Application of our Privacy Statement
 
-This Privacy Statement was last reviewed in January 2002. It is subject to change from time to time due to developments in technology and new laws.
+This Privacy Statement was last reviewed in January 2002. It is subject to change from time to time due to developments in technology and new laws. 
 
-[Home ](https://web.archive.org/web/20031202141650id_/http%3A//www.latinamericancupid.com/default.cfm)
+[Home ](https://web.archive.org/web/20040611165420id_/http%3A//www.latinamericancupid.com/default.cfm)
