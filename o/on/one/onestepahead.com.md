@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onestepahead.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210124530id_/http%3A//www.onestepahead.com/custserv/contenttemplate1main.jsp%3FruleID%3D40%26itemID%3D31%26itemType%3DCustomer%2BService) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestepahead.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610153830id_/http%3A//www.onestepahead.com/custserv/contenttemplate1main.jsp%3FruleID%3D40%26itemID%3D31%26itemType%3DCustomer%2BService) for the most accurate reproduction.*
 
-# One Step Ahead Online Store
+# One Step Ahead Baby
 
 Privacy & Security
 
