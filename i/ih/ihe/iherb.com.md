@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610092110id_/http%3A//www.iherb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2004-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041030041655id_/http%3A//www.iherb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,12 +15,12 @@ If you have any questions regarding this privacy statement please do not hesitat
 If you opted to register with us you are asked for a login id and a password to establish the registration. Once registered you may input Name, and address to facilitate ordering and reordering from iHerb. However, registration is not required to order from us.
 
   
-During the order process you will be asked for shipping information name, address, telephone number, email, and choice of payment method. This information is collected in order to process your purchase and shipping purposes. Upon completion of the online order a confirmation of your order will be sent via email to the email address you supplied. If you opted to rate us you will get another email in 2 weeks from Yahoo with a rating form.
+During the order process you will be asked for shipping information, name, address, telephone number, email, and choice of payment method. This information is collected in order to process your purchase and shipping purposes. Upon completion of the online order, a confirmation of your order will be sent via email to the email address you supplied. If you opted to rate us you will get another email in 2 weeks from Yahoo with a rating form.
 
   
-iHerb is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
+iHerb is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information, but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+Like most standard Web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
 **Disclosure to Third Parties**  
 We use third party service providers such as credit card processors and delivery companies to assist us in fulfilling your order. These companies use your information to authorize payment and to deliver your order to you.
@@ -30,10 +30,10 @@ Otherwise, we do not sell, rent, share, or transfer your personal information to
 
 **  
 Newsletter**  
-If you did not opt-out of receiving our newsletter after placing an order with us or if you signed up to receive it while visiting our site, we provide a way for you to unsubscribe from it if you no longer wish to receive it. If you wish to unsubscribe from our newsletter you may do so by following the unsubscribe instructions within the newsletter or you may email us at [info@iherb.com](mailto:info@iherb.com).
+If you did not opt-out of receiving our newsletter after placing an order with us or if you signed up to receive it while visiting our site, we provide a way for you to unsubscribe from it if you no longer wish to receive it. If you wish to unsubscribe from our newsletter, you may do so by following the unsubscribe instructions within the newsletter or you may email us at [info@iherb.com](mailto:info@iherb.com).
 
 **Cookies**  
-Yahoo! Stores will place a cookie when place an item in your shopping cart. The cookie is used to maintain the shopping cart and make ordering products easier. Your browser needs accept cookies otherwise the shopping cart will not function properly. See Yahoo's privacy statement for more information on how Yahoo uses cookies [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/).
+Yahoo! Stores will place a cookie whenever you place an item in your shopping cart. The cookie is used to maintain the shopping cart and make ordering products easier. Your browser needs to accept cookies, otherwise the shopping cart will not function properly. See Yahoo's privacy statement for more information on how Yahoo uses cookies [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/).
 
 iHerb.com does not set cookies on its Web site.
 
@@ -47,10 +47,10 @@ When you submit sensitive information (such as credit card number), that informa
 We also use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure once we receive it. For example, we store the personal information you provide on computer systems with limited access that are located in secured facilities. iherb.com's employees are trained and kept up-to-date on our security procedures. If you have any questions about the security at our website, you can send an email to [info@iherb.com](mailto:info@iherb.com).
 
 **Correction/Updating Personal Information:**  
-If you need to correct or update your personal information (such as your email address), or you no longer desires our service you can let us know by emailing our customer support at [info@iherb.com](mailto:info@iherb.com) or calling **888.792.0028**.
+If you need to correct or update your personal information (such as your email address), or you no longer desire our services, you can let us know by emailing our customer support at [info@iherb.com](mailto:info@iherb.com) or calling **888.792.0028**.
 
 **Notification of Changes**  
-If we change our privacy policy, we will post a notice of the change on our homepage, so you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you via email or by posting a prominent notice on our Web site 30 days prior to implementing the change. You will have a choice as to whether or not we use your information in this different manner
+If we change our privacy policy, we will post a notice of the change on our homepage, so you are aware of what information we collect, how we use it, and under what circumstances, if any, it will be disclosed. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you via email or by posting a prominent notice on our Web site 30 days prior to implementing the change. You will have a choice as to whether or not we use your information in this different manner
 
   
 **Legal Disclaimer**  
