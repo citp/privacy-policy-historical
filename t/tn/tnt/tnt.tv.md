@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613123355id_/http%3A//www.tnt.tv/FooterPrivacy/1%2C6747%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204171125id_/http%3A//www.tnt.tv/FooterPrivacy/0%2C6747%2C%2C00.html) for the most accurate reproduction.*
 
 # TNT Privacy Policy
 
@@ -125,15 +125,15 @@ back to top
 
 We and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. Below is a representative list of such third parties and a link to their privacy notices. For more information, click on the links below. For more information about third-party ad servers generally, []()[click here](http://tntphp.phpwebhosting.com/link.php?url=http://www.networkadvertising.org&title=O-Privacy-Network_Advertising). 
 
-Atlas DMT: http://www.networkadvertising.org or http://www.atlasdmt.com/privacy/   
-Bluestreak: http://www.bluestreak.com/web/aboutus_privacypolicy.htm   
-DoubleClick: http://www.networkadvretising.org or http://www.doubleclick.com/us/corporate/privacy   
-Eyeblaster: http://www.eyebalster.com/website/privacy_policy_down.htm   
-EyeWonder: http://www.eyewonder.com/about/privacy.cfm   
-Dynamic Logic: http://www.dynamiclogic.com/privacy_policy.php   
-Klipmart: http://www.klipmar.com/privacy.html   
-Millward Brown IntelliQuest: http://www.intelliquest.com/privacy/intro.asp   
-Unicast: http://www.unicast.com/company/privacy.asp 
+Atlas DMT: [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.atlasdmt.com/privacy/>   
+Bluestreak: <http://www.bluestreak.com/web/aboutus_privacypolicy.htm>   
+DoubleClick: [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.doubleclick.com/us/corporate/privacy>   
+Eyeblaster: <http://www.eyeblaster.com/privacy.asp>   
+EyeWonder: <http://www.eyewonder.com/ewNPrivacy/privacy.cfm>   
+Dynamic Logic: <http://www.dynamiclogic.com/privacy_policy.php>   
+Klipmart: <http://www.klipmart.com/privacy.html>   
+Millward Brown IntelliQuest: <http://www.intelliquest.com/privacy/intro.asp>   
+Unicast: <http://www.unicast.com/company/privacy.asp>
 
 back to top
 
