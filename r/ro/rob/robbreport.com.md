@@ -1,84 +1,24 @@
-> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012034939id_/http%3A//www.robbreport.com/page_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606134040id_/http%3A//www.robbreport.com/Misc/Privacy-Policy.asp) for the most accurate reproduction.*
 
-# CurtCo Robb Media Privacy Policy
+# Privacy Policy | RobbReport
 
-CurtCo Robb Media collects personal information such as your name and e-mail address when you enter a contest or sweepstakes, fill out a survey and/or purchase a subscription or register for newsletters. 
+|   
+We at CurtCo Robb Media, LLC, publisher of Robb Report and The Robb Report Collection, want to let you know to what extent we are currently collecting information on you when you visit this Site and how we use such information. This may change as we continue to develop the Site to include additional features. If so, we will revise this Privacy Statement to let you know of those changes. 
 
-CurtCo Robb Media may use your email address to contact you with information on new products and services or upcoming events. CurtCo Robb Media may share this information with reputable organizations whose products or services we think you might find interesting. This will not be done without first obtaining your consent. 
+**Personal Information**
 
-CurtCo Robb Media may use your postal information to contact you with information on new products and services or upcoming events. We may also make this information available to reputable organizations whose products or services we think you might find interesting. 
+At this time, we collect certain personal information from you, but only through your voluntary participation in contests and sweepstakes (and sometimes in surveys, unless we tell you that your responses will be anonymous). Such information can include your name, age, gender, address, email address, user name, telephone number, and certain other information that we specifically request in the entry form. However, participation in these surveys, contests and sweepstakes, and giving us this information, is entirely up to you.
 
-If you do not wish to have your personal information used in the manner described above please contact us. 
+ We may use the above-described information ("Personal Information") to personalize and enhance your use of this Site, such as by delivering more relevant advertisements and content to you. We may also use your Personal Information to communicate with you on a one-time basis, such as to respond to your inquiries or comments or notify you that you have won one of our sweepstakes or contests. Your use of this Web site constitutes your permission to CurtCo Robb Media to use your Personal Information for such purposes.
 
-| Postal address: |     |  Privacy Policy  
-Robb Report  
-CurtCo Robb Media  
-29160 Heathercliff Road, Ste 200  
-Malibu, CA 90265  
----|---|---  
-Email: |  | [subscriptions@robbreport.com](mailto:subscriptions@robbreport.com)  
-  
-  
-Or Telephone: |  | (310) 589-7700  
-  
-**Letters to the Editor**  
-CurtCo Robb Media asks senders of letters to the editor to include their telephone numbers in order to verify identities for publication purposes. Curtco Robb Media does not retain this information for any other purpose, nor does it sell, trade, or otherwise disclose this information to third parties. 
+We may also want to offer you products, programs and services by sending you email or otherwise contacting you through use of your Personal Information. If you do not wish to be contacted by us for such promotional purposes, you may "opt out" by emailing us at privacypolicy@robbreport.com with that request.
 
-**Subscriptions**  
-CurtCo Robb Media collects personal information from subscribers, including first and last names, street and e-mail addresses, and telephone numbers. This data may be used in the manner described above. Aggregate data describing group trends, which does not reveal individual members' identities, may be used. 
+Sometimes we share your Personal Information with reputable organizations whose products or services we think you might find interesting. This will not be done without first obtaining your consent. While we seek to share Personal Information with companies and organizations that follow appropriate privacy policies, we cannot be responsible for the actions of such third parties. However, if you wish that we not share your Personal Information, you may "opt out" by emailing us at privacypolicy@robbreport.com with that request. We will not share your Personal Information with any third parties (except as may be required by law) if you have "opted out" in the above-described manner.
 
-**Third Party Advertising**  
-The ads appearing on this Web site are delivered to you by DoubleClick, our web advertising partner. Information about your visit to their site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click here: <http://www.doubleclick.net/us/corporate/privacy>. 
+ **Other Data Collection**
 
-**Cookies**  
-CurtCo Robb Media uses cookies to store visitors preferences, record session information, ensure that visitors are not repeatedly sent the same banner ads, and customize the Web page content based on visitor's browser type and other information that the visitor sends. 
+We may engage third party ad servers to serve the advertisements that appear on this Site, which may themselves collect certain information on you when you view or click on an advertisement on this Site. While we try to enter into business relationships only with companies that have similar privacy practices to CurtCo Robb Media's privacy policy, we do not have control over, and therefore are not responsible for, the information-collecting practices of these third parties. Our Web server automatically collects certain information about our visitors' traffic patterns that it provides to us in the aggregate. We cannot identify individual visitors from this information. We only use this information to monitor the user traffic levels of this Site, and we disclose such information to third party advertisers and other business associates in the same aggregate form.
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+ **Questions?**
 
-**Promotion**  
-On occasion Robb Report may sponsor sweepstakes, contests, or other events that require the collection, processing, and storage of individual contact and demographic information, such as your age and state of residence. In some events, RobbReport.com may act as a cosponsor, in which case the user's individual contact and demographic information is likely to be shared with other sponsors. A registrant's personal contact and demographic information will not be released to third parties or non participating organizations without the user's consent, and Robb Report will request that cosponsors of such events uphold the privacy of the registrants' information. 
-
-**Surveys**  
-CurtCo Robb Media will conduct voluntary surveys of visitors to the site to obtain aggregate demographic information. Such information may be compiled and shared with advertisers and other third parties, but no personal details will be traceable or associated with specific individuals. 
-
-**Our Commitment to Children's Privacy**  
-Protecting the privacy of children is important to us. For that reason, the company does not collect or maintain information from those known to be under 13 years of age, and no part of our website is specifically designed to attract anyone under 13. 
-
-**Other Disclosure of Personal Information**  
-CurtCo Robb Media will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order, or as requested by other government or law enforcement authorities. This policy does not protect information you post to any online bulletin board, chat room, newsgroup, or other public forum within the site. 
-
-**Other sites**  
-RobbReport.com contains links to other sites on the World Wide Web. However, we cannot control and are not responsible for the privacy practices or content of such other websites. 
-
-From time to time, CurtCo Robb Media may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at any time in the future we will post the changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically. 
-
-**Your Rights**  
-Upon request we provide site visitors with access to a description of information that we maintain about them. Consumers can access this information by calling us at the number provided above, emailing us at the above address or writing to us at the above address. 
-
-Consumers can have this information corrected by calling us at the number provided above, emailing us at the above address or writing to us at the above address. 
-
-**Additional Questions?**  
-If you have any further inquiries or concerns about RobbReport.com privacy policies and the use of personal information, please send them to [info@RobbReport.com](mailto:info@RobbReport.com). 
-
-|  |  |    
-General Inquiries:  
-[send an email](mailto:info@robbreport.com)  
-  
-Robb Report Sales:  
-[send an email](mailto:robbreportsales@robbreport.com)  
-  
-Robb Report Collection Sales:  
-[send an email](mailto:collectionsales@robbreport.com)  
-  
-Magazine Subscriptions:  
-[send an email](mailto:subscriptions@robbreport.com)  
-  
-Public Relations:  
-[send an email](mailto:pr@robbreport.com)  
-  
-Webmaster:  
-[send an email](mailto:webmaster@robbreport.com)  
-
-
- 
+If you have a question about this Privacy Statement, please contact us at privacypolicy@robbreport.com. 
