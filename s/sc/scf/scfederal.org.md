@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605072921id_/http%3A//scfederal.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204045156id_/http%3A//www.scfederal.org/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy Matters
 
@@ -10,7 +10,7 @@ We never sell or share current or former member information with any non-affilia
 
 If you have questions about this issue, please feel free to call us at 797-8300 in Charleston, or toll-free at 1-800-845-0432.
 
-**_June 30, 2003_**
+**_June 30, 2004_**
 
 We only collect information about you for lawful business purposes, or as otherwise required by applicable law. We maintain strict security procedures to protect your information. We collect information about individual members from the following sources:
 
