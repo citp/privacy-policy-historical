@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604073940id_/http%3A//lake-link.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211213248id_/http%3A//www.lake-link.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Lake-Link.com Online Privacy Policy
 
-|  |    
-Lake-Link.com is committed to safeguarding your privacy online. Set forth below are the guidelines we use for protecting the information you provide us during a visit to Lake-Link.com (the "Site").   
-  
+|  |  Lake-Link.com is committed to safeguarding your privacy online. Set forth below are the guidelines we use for protecting the information you provide us during a visit to Lake-Link.com (the "Site"). 
+
 This Privacy Policy applies only to our domestic web site and not to sites that may be linked to ours. You should refer to those sites' own privacy policies to learn how they collect and use information about you. Information submitted solely in a business capacity is not covered by this policy. 
 
 Information We Collect
@@ -22,7 +21,12 @@ In each of these instances, we may ask for your name, e-mail address, phone numb
 How We Use Your Information
 
   1. Your Browser Information: We use the information we collect with cookies to recognize you when you return to the Site. This means that you only have to enter your password in order to log in. We also use the information to improve the design of the Site. We do not share this information with any third party. 
-  2. Your Personal Information: We use your personal information for internal marketing efforts - for example, to help us improve the Site design and better understand the demographic makeup of our visitors. We may occasionally seek your permission to merge the information we collect from you with information that we receive from other sources. We will not use your information in this way unless we have received your prior agreement to do so. We may use your personal information to alert you to special offers, updated information and other new services. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time, you can easily opt-out of receiving further marketing from us by sending an e-mail with your request to remove@Lake-Link.com. We will not give or sell your personal information to any third party without your consent. This means that you will be able to opt-in your agreement to such use when you submit your personal information. At any time, you can easily opt-out of having your personal information shared any further with third parties by sending an e-mail with your request to remove@Lake-Link.com. 
+  2. Your Personal Information: We use your personal information for internal marketing efforts - for example, to help us improve the Site design and better understand the demographic makeup of our visitors. We may occasionally seek your permission to merge the information we collect from you with information that we receive from other sources. We will not use your information in this way unless we have received your prior agreement to do so. 
+
+We may use your personal information to alert you to special offers, updated information and other new services. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time, you can easily opt-out of receiving further marketing from us by sending an e-mail with your request to remove@Lake-Link.com. 
+
+We will not give or sell your personal information to any third party without your consent or notification on the web site. This means that you will be able to opt-in your agreement to such use when you submit your personal information. At any time, you can easily opt-out of having your personal information shared any further with third parties by sending an e-mail with your request to remove@Lake-Link.com. 
+
 
 Our Agents And Contractors 
 
@@ -40,10 +44,7 @@ What Else Should You Know? Please be careful and responsible whenever you're onl
 
 Contact Us
 
-If you have any questions about our Site or this Privacy Policy, please send us an e-mail at [info@lake-link.com](mailto:info@lake-link.com).   
-  
-[](http://www.supertop100.com/aff.prg?fishing,311)
+If you have any questions about our Site or this Privacy Policy, please send us an e-mail at [info@lake-link.com](mailto:info@lake-link.com). 
 
-|  [Home](https://web.archive.org/ "Home")  |  [Lake Finder](https://web.archive.org/lakes/ "Lake Finder")  |  [Angler's Page](https://web.archive.org/anglers/ "Angler's Page")  |  [Fish Reports](https://web.archive.org/boards/index.cfm/1/ "Fish Reports")   
-[Msg Board](https://web.archive.org/boards/index.cfm/2/ "Msg Board")  |  [Hunting Board](https://web.archive.org/boards/index.cfm/3/ "Hunting Board")  |  [Trading Post](https://web.archive.org/tradingpost/ "Trading Post")  |  [Businesses](https://web.archive.org/businesses/ "Businesses")  |  [Messenger](https://web.archive.org/messenger/ "Messenger")  |  [Shop](https://web.archive.org/store/ "Shop")   
-[Tell A Friend About Lake-Link.com! ](https://web.archive.org/info/tellafriend.cfm "Tell A Friend About Lake-Link.com")[ ](https://web.archive.org/info/tellafriend.cfm "Tell A Friend About Lake-Link.com")
+  
+|  | 
