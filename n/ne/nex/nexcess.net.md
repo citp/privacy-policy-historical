@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexcess.net privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206193410id_/http%3A//nexcess.net/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexcess.net privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307120226id_/http%3A//nexcess.net/legal/privacy.php) for the most accurate reproduction.*
 
 # NEXCESS.NET | Privacy Policy | Orders, Cookies, Logs
 
@@ -9,7 +9,7 @@ We have authored this privacy policy so you, our clients, know what information 
 
 ## INFORMATION COLLECTION AND USE
 
-NEXCESS.NET, L.L.C. ("NEXCESS.NET") is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. NEXCES.NET collects information from our users at several different points on our website. 
+NEXCESS.NET, L.L.C. ("NEXCESS.NET") is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. NEXCESS.NET collects information from our users at several different points on our website. 
 
 ## ORDERS
 
