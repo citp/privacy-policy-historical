@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603160437id_/http%3A//www.lawguru.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008100348id_/http%3A//www.lawguru.com/privacy.html) for the most accurate reproduction.*
 
 # LawGuru.com - Privacy Policy
 
@@ -24,13 +24,13 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 
 **Opting Out**
 
-If at any time you no longer wish to receive the information you originally requested to receive from us, please write to [lawtalk@lawguru.com](mailto:lawtalk@lawguru.com) and we will remove your information from our system. 
+If at any time you no longer wish to receive the information you originally requested to receive from us, please [contact us](https://web.archive.org/writeus.html) and we will remove your information from our system. 
 
-If you have any additional questions about our dedication to consumer privacy, please contact us at [lawtalk@lawguru.com](mailto:lawtalk@lawguru.com). 
+If you have any additional questions about our dedication to consumer privacy, please [contact us](https://web.archive.org/writeus.html). 
 
-LawGuru.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html> . 
+**Third Party Ads**
 
-LawGuru works with a third party that serves ads to this site. To find out more about how **Engage Business Media** manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.engage.com/privacy/privacy.htm](http://www.engage.com/privacy/). 
+At times LawGuru.com works with third parties that serve ads to and on this site. Some of these third parties may also use cookies in conjunction with their ads. LawGuru.com may also work with advertisers who may collect information that you would voluntarily provide to them. Please refer to those advertisers individual privacy policies for information on how they manage the privacy of information . 
 
 * * *
 
