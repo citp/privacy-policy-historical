@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flytesofancy.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207024659id_/http%3A//www.flytesofancy.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flytesofancy.co.uk privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207140507id_/http%3A//www.flytesofancy.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Flyte so Fancy, Pulham, Dorset
 
