@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206082047id_/http%3A//www.webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609182742id_/http%3A//www.webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Web Host Directory: The best free source of web hosting services in a searchable web host directory. Powerful web host search engines, reviewed web hosts, awards, news and much more!
-
-|  |  |  |  |  | 
 
 **What is the purpose of this Privacy Policy?**
 
@@ -47,62 +45,3 @@ Web Host Directory reserves the right to update this privacy policy from time to
 **How to contact us?**
 
 If you have any questions about this privacy policy or the practices of this website, you may request more information by submitting the [contact us](https://web.archive.org/contact/general.asp) form. 
-
-|   
----|---|---  
-|  |   
-    
-  
-  
-|  | 
-
-[ValueWeb:](http://www.webhostdir.com/banners/banman.asp?ZoneID=12&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Risk-free ecommerce hosting! FREE Setup, PLUS software & tools for small to mid-size businesses. Call 1-800-WE-HOST-U to save $25 now! 
-
-[Lunarpages:](http://www.webhostdir.com/banners/banman.asp?ZoneID=57&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 500MB Storage. 20GB Bandwidth. 99.9% uptime. Customer service focused web hosting company with money back guarantee. 
-
-[Apollo Hosting:](http://www.webhostdir.com/banners/banman.asp?ZoneID=58&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Apollo Hosting: Just $3.49/mo per website, Over $800 of FREE Software, FREE Miva Merchant, 1,000 Website Templates, 24/7 Live Support 
-
-[Hostway Web Hosting:](http://www.webhostdir.com/banners/banman.asp?ZoneID=17&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Web hosting made simple. All the features you need to build & support your site. Free setup + 1 free month for a limited time. 
-
-[HostCentric:](http://www.webhostdir.com/banners/banman.asp?ZoneID=18&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Become a reseller. Host up to 25 domains w/ accounts starting at $2.00/month. 350MB Disk Space, 30GB Transfer/mo, 24/7 Support. 
-
-[OnlyWebHosting:](http://www.webhostdir.com/banners/banman.asp?ZoneID=19&Task=Click&Mode=HTML&SiteID=1&PageID=4527) FREE Domain Name, FREE Setup & FREE Tech support. 250mb diskspace, 5 GB data transfer + Microsoft FrontPage 2002 support. 
-
-[iPowerWeb:](http://www.webhostdir.com/banners/banman.asp?ZoneID=20&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 1000mb webspace, 500 email accounts, Free Domain Name, FREE SETUP, 30 GB data transfer. Already hosting 120,000+ websites online. 
-
-[Aplus.Net:](http://www.webhostdir.com/banners/banman.asp?ZoneID=22&Task=Click&Mode=HTML&SiteID=1&PageID=4527) CNET’s editors’ choice for Web hosting! Free Domain Name , Unlimited Transfer , 50+ Feature Control Panel , Money Back Guarantee 
-
-[Website Source:](http://www.webhostdir.com/banners/banman.asp?ZoneID=23&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 4 websites - one price, starting at $8.36. Comes with 500 MB Storage, 500 Emails, 10G Traffic, Over 1,000 website templates! 
-
-[eDataRack.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=25&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $2.95/mo. 300MB, 6GB BW, FREE Setup! FREE Shopping Cart! 99.9% UP TIME! MONEY BACK GUARANTEE! 
-
-[SuperbHosting.Net:](http://www.webhostdir.com/banners/banman.asp?ZoneID=26&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Free Set-up, Free Domain, 50GB/m traffic, 1GB web space, 10 Domains, 250 Email accounts & 5 mySQL. Awarding-winning 24x7 service. 
-
-[Interland:](http://www.webhostdir.com/banners/banman.asp?ZoneID=55&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Get FREE IBM eServer upgrade in 18 months guaranteed! Ask about ValueGuard (sm) Call 1-877-504-0091. 
-
-[GISOL.COM:](http://www.webhostdir.com/banners/banman.asp?ZoneID=56&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $7.95/mo - Includes 1,500 MB SPACE, 70 GB TRANSFER, 90 Days FREE, FREE Domain, 24x7 LIVE SUPPORT, Multiple Domain Hosting, & more! 
-
-|   
----|---|---  
-|  |   
-    
-  
-  
-|  | 
-
-| [Visual NetCentre - 40% December Discount - United Kingdom ](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=2045&affiliateID=1)  
-  
----  
-Suntone Certified by Sun Microsystems for best practices. We offer a great range of Linux based hosting packages for many [...more](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=2045&affiliateID=1)  
-  
-[OnlyWebHosting.com - $7.95/mo including FREE domain + FREE setup!](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=88&affiliateID=1)  
-  
-Voted #1 Budget Hosting Provider. Free Domain Name, Free Setup, 250mb webspace, FrontPage 2002 support Web Email, 24/7 Tech [...more](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=88&affiliateID=1)  
-  
-[GISOL.COM - $7.95 - 1,500 MB SPACE + 70 GB TRANSFER + FREE Domain + 90 Days FREE!](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=253&affiliateID=1)  
-  
-Award Winning Hosting Solution! Includes 1,500 MB, 70 GB TRANSFER, Multiple Domain Hosting, 24x7 LIVE SUPPORT, Web Site Builder, [...more](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=253&affiliateID=1)  
-  
-|  |   
-    
-
