@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618204822id_/http%3A//www.kmov.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604082156id_/http%3A//www.kmov.com/misc/privacy.html) for the most accurate reproduction.*
 
-# KMOV-TV 4 St. Louis | Legal Guidelines & Privacy Policy
-
-| 
+# KMOV.com | PRIVACY POLICY
 
 * * *
 
@@ -109,5 +107,3 @@ One Memorial Drive
 St. Louis, MO. 63102
 
 Last updated April 21, 2000.
-
-| 
