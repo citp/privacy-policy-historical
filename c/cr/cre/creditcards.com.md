@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409041353id_/http%3A//www.creditcards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009013133id_/http%3A//www.creditcards.com/privacy.html) for the most accurate reproduction.*
 
-# Creditcards.com - Privacy Policy
+# 
+
+**Privacy Policy**
 
 ## About Our Privacy Policy
 
@@ -151,12 +153,10 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 ## 3\. Dispute Resolution
 
-If you think we have not followed our privacy policy in some way, or have a privacy related issue which you feel we may be able to resolve, please contact us so we can help you to resolve your concern. We will promptly respond to all inquiries. We may be contacted by email at [privacy@creditcards.com](https://web.archive.org/web/20030409041353id_/http%3A//www.creditcards.com/privacy@creditcards.com) for this purpose. 
+If you think we have not followed our privacy policy in some way, or have a privacy related issue which you feel we may be able to resolve, please contact us so we can help you to resolve your concern. We will promptly respond to all inquiries. We may be contacted by email at [privacy@creditcards.com](mailto:privacy@creditcards.com) for this purpose. 
 
 ## 4\. Additional Information
 
 For information regarding site usage and third party sites linked to by creditcards.com, please view the [terms of service](http://www.creditcards.com/terms.html). 
-
-If you have entered a contest or otherwise registered with creditcards.com, and would like to opt-out of various inclusions, please read our [opt out](http://www.creditcards.com/optout.html) policy. 
 
 This policy is valid for 15 days from the time that it is loaded by a client.
