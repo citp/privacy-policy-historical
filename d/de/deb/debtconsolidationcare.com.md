@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204094118id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406035310id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - BBB Member
 
@@ -7,7 +7,7 @@
 At Debt Consolidation care, we recognize and respect the importance of maintaining the privacy of our customers and members. Our referral service has become successful by earning and building upon the trust of consumers and the companies that we work with. Your trust is important to us and we are ethical about our privacy policy.
 
   * We respect the privacy of our users and we do not collect information about our users without their knowledge. 
-  * Whenever information is collected, we will inform you.
+  * Whenever information is collected, we will inform you.
   * We do not disclose information about specific individuals to any unrelated third party. 
 
 
