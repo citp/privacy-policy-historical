@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealcatcher.com privacy policy that was archived on 2002-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020415035841id_/http%3A//dealcatcher.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealcatcher.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217070210id_/http%3A//dealcatcher.com/privacy.asp) for the most accurate reproduction.*
 
 # DealCatcher.com - Free Coupons & Deals for Books, DVD, Music, Toys & More!
 
