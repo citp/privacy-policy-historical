@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013012430id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603174918id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
 
 # Studyabroad.com Privacy Policy
 
@@ -25,6 +25,7 @@ All personal information is gathered directly from users through online registra
   * Improving our services; 
   * Developing and/or having you informed of additional products or services we think will be of interest to you; 
   * Answering questions you may have. 
+  * To inform winners of sweepstakes which we run on occasion.
 
 
 
@@ -38,7 +39,7 @@ We have created several options on how your data is handled from which you may c
 
 3) STORE DATA ON OUR SERVER, AND MAKE IT AVAILABLE ONLY TO ACADEMIC INSTITUTIONS: Your profile may be utilized by EDU to service your account and inform you of EDU services. When you choose this option for your profile, your messages and profile information will be sent by email to educational institutions which you choose. Your data will be stored on our server so that you will be able to re-send it to other schools which you choose in the future. You are also able to edit and update your data. Your data may also be reviewed and accessed by other academic institutions which may contact you in an effort to recruit you to attend their institution. 
 
-4) STORE DATA ON OUR SERVER, AND MAKE IT AVAILABLE TO ACADEMIC INSTITUTIONS AND RELATED SERVICE PROVIDERS: Your profile may be utilized by EDU to service your account and inform you of EDU services. When you choose this option for your profile, your messages and profile information will be sent by email to educational institutions which you choose. Your data will be stored on our server so that you will be able to re-send it to other schools which you choose in the future. You are also able to edit and update your data. Your data may also be reviewed and accessed by other academic institutions which may contact you in an effort to recruit you to attend their institution. This option also allows related businesses (i.e. test prep services, loan providers, and other businesses deemed appropriate by Educational Directories Unlimited, Inc.) to contact you and let you know about their products and services. 
+4) STORE DATA ON OUR SERVER, AND MAKE IT AVAILABLE TO ACADEMIC INSTITUTIONS AND RELATED SERVICE PROVIDERS: Your profile may be utilized by EDU to service your account and inform you of EDU services. When you choose this option for your profile, your messages and profile information will be sent by email to educational institutions which you choose. Your data will be stored on our server so that you will be able to re-send it to other schools which you choose in the future. You are also able to edit and update your data. Your data may also be reviewed and accessed by other academic institutions which may contact you in an effort to recruit you to attend their institution. This option also allows related businesses (i.e. test prep services, loan providers, and other businesses deemed appropriate by Educational Directories Unlimited, Inc.) to access your profile and to contact you and let you know about their products and services. 
 
 **Accessibility of Profiles**
 
@@ -81,10 +82,10 @@ Our web sites also contain links to other sites. The privacy policies of linked 
 If you would like to contact us for information on any of our services, information on our privacy policy, or for any reason relating to our site, we can be reached at the following:
 
 Contact Name: Educational Directories Unlimited, Inc.  
-Address: 1450 Edgemont Avenue, Suite 140, Chester, PA 19013 USA  
+Address: 1450 Edgmont Avenue, Suite 140, Chester, PA 19013 USA  
 PH: 1-610-499-9200  
 FAX: 1-610-499-9205  
-E-mail: [support@studentprospector.com](mailto:support@studentprospector.com)  
+E-mail: [privacy@studentprospector.com](mailto:privacy@studentprospector.com)  
 URL: [www.edudirectories.com](http://www.edudirectories.com/)
 
 Educational Directories Unlimited, Inc. reserves the right to modify or supplement this Privacy Policy statement at any time. 
