@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the healthscout.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610085138id_/http%3A//healthscout.com/template.asp%3Fpage%3Dpolicy%26ap%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthscout.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209185942id_/http%3A//www.healthscout.com/template.asp%3Fpage%3Dpolicy%26ap%3D1) for the most accurate reproduction.*
 
 # HealthScout
 
-|   
-|  |  |   
----  
 | 
 
 Dear Friends, 
@@ -30,13 +27,4 @@ Sincerely,
 
   
 The Management Team at HealthScout.com   
-  
-  
-| [](http://www.hon.ch/HONcode/Conduct.html?HONConduct351147) | We subscribe to the [ HONcode principles](http://www.hon.ch/HONcode/Conduct.html?HONConduct351147) of the [ Health On the Net Foundation](http://www.hon.ch/)  
----|---  
-[About The HealthScout Network](https://web.archive.org/template.asp?ap=1&page=hsn) [Contact Us](https://web.archive.org/template.asp?ap=1&page=contactus)  
-Copyright © 2001 MDchoice.com, Inc. All rights reserved.  
-Site implemented by [Thaumaturgix, Inc.](http://www.tgix.com/)  
-  
-  
-  | 
+
