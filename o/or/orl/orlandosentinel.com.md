@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orlandosentinel.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207002928id_/http%3A//www.orlandosentinel.com/about/orl-privacy.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandosentinel.com privacy policy that was archived on 2005-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050331015530id_/http%3A//www.orlandosentinel.com/about/orl-privacy.htmlstory) for the most accurate reproduction.*
 
 # OrlandoSentinel.com: About
 
