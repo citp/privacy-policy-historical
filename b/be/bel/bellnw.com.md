@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellnw.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214052558id_/http%3A//www.bellelect.com/info/privpol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellnw.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602105843id_/http%3A//www.bellnw.com/info/privpol.htm) for the most accurate reproduction.*
 
 # Bell Electronics Privacy Policy
 
