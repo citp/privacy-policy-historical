@@ -1,469 +1,482 @@
-<!--The following is the downloaded HTML source of the chicagobusiness.com privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603050317id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chicagobusiness.com privacy policy that was archived on 2001-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011202033639id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.-->
 
 <html><head>
-<title>Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="/stylesheets/default.css">
-<script src="/javascripts/navObject.js"></script>
-<script src="/javascripts/bizRez.js"></script>
-<script>
+<title>Chicagobusiness.com</title>
+<link rel="stylesheet" href="/stylesheets/default.css" type="text/css">
+<script language="JavaScript">
 <!--
-  function patchAlphaSite () {
-    if (document.alphaSite) {
-      document.alphaSite.elements[0].onchange = AlphaSiteSubmit;
-    }
+	var SearchInNum = "1";
+	function SetSearchIn (n) {
+		if (document["radio" + SearchInNum]) {
+			document["radio" + SearchInNum].src = "/images/global/radioff.gif";
+		}
+		if (document["radio" + n]) {
+			document["radio" + n].src = "/images/global/radion.gif";
+		}
+		SearchInNum = n;
+		document.nlsearch.searchin.value = n;
+		if (n == 1) {
+		  document.nlsearch.action = "http://www.chicagobusiness.com/cgi-bin/mag/search.pl";
+        }
+		if (n == 2) {
+		  document.nlsearch.action = "http://www.google.com/cobrand";
+        }
+		return false;
+	}
 
-    function AlphaSiteSubmit() {
-      if (document.alphaSite) {
-        if (document.alphaSite.elements[0].selectedIndex != 0) {
-          document.alphaSite.submit ();
-        }
-        else {
-          return false;
-        }
-      }
-    }
+	function RedirectMenu (thisSelect) {
+		if (thisSelect.options[thisSelect.selectedIndex] != "none") {
+			location.href = thisSelect.options[thisSelect.selectedIndex].value;
+		}
+	}
+
+
+	function NavObject (label, href) {
+		this.label = label;
+		this.href = href;
+	}
+	new NavObject (0,0);
+
+	function BizRez (label, href) {
+		this.label = label;
+		this.href = href;
+	}
+	BizRez.prototype = new NavObject (0,0);
+	
+	
+	function listRez (label, href) {
+		this.label = label;
+		this.href = href;
+	}
+	listRez.prototype = new NavObject (0,0);
+	
+	
+	
+	function drawDropDownMenu (SourceArray, SelectObj) {
+		for (i=0; i < SourceArray.length; i++) {
+			var labelText = SourceArray[i].label;
+	
+	//        if (labelText.length > 18) {
+	//            labelText = labelText.substr (0,17) + "...";
+	//        }
+	
+			SelectObj.options[i+1] = new Option (labelText, SourceArray[i].href);
+		}
+	}
+//-->
+</script>
+<script language="JavaScript" src="/javascripts/bizRezNew.js"></script>
+<script language="JavaScript" src="/javascripts/listRez.js"></script>
+
+<!------ OAS SETUP begin ------>
+
+<script language="JavaScript">
+<!--
+//configuration
+OAS_url = 'http://oascentral.chicagobusiness.com/RealMedia/ads/';
+//OAS_sitepage = window.location.hostname + window.location.pathname;
+OAS_sitepage = 'www.chicagobusiness.com/privacy_policy';
+OAS_listpos = 'Top1,Top,x11,x12,Right,Bottom,Bottom1';
+OAS_target = '_top';
+//end of configuration
+//OAS_rn = '001234567890'; OAS_rns = '1234567890';
+//OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+OAS_rns = "3688351290";
+function OAS_RICH(pos) {
+  document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + '" BORDER=0></A>');
+}
+//-->
+</script>
+<script language="JavaScript1.1">
+<!--
+  document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC=' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + '><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_mjx.ads/www.chicagobusiness.com/privacy_policy/13688351290@Top1,Top,x11,x12,Right,Bottom,Bottom1?"></script>
+<script language="JavaScript">
+<!--
+document.write('');
+//-->
+</script>
+<!------ OAS SETUP end ------>
+
+<!-- # begin setHomepage function definition # -->
+<script language="JavaScript">
+    function SetHomePage (HomePageUrl) {
+  if (document.all) {
+   if (document.body.addBehavior) {
+    document.body.addBehavior ("#default#homePage");
+    document.body.setHomePage(HomePageUrl);
+   }
+   else {
+    window.external.AddFavorite(HomePageUrl, "ChicagoBusiness.com");
+   }
   }
-//-->
+  else if (netscape.security && navigator.preference) {
+   netscape.security.PrivilegeManager.enablePrivilege("UniversalPreferencesWrite");
+   navigator.preference("browser.startup.page", "1");
+   navigator.preference("browser.startup.homepage", HomePageUrl);
+  }
+  else {
+   alert ("This feature is not supported in your browser.");
+  }
+ }
 </script>
-</head>
-<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="patchAlphaSite ();">
-<table border="0" cellpadding="0" cellspacing="0" width="470">
-    <tbody><tr valign="top">
-        <td bgcolor="#993300" width="130">
-      		<table border="0" cellpadding="0" cellspacing="0" width="130">
-        		<tbody><tr>
-          			<td><img src="/images/global/spacer.gif" width="130" height="28"></td>
-				</tr>
-        		<tr>
-          			<td>
-            			<p align="center">
-							<!-- OAS AD x11-->
-              				<script language="JavaScript1.1" src="http://a1.crain.com/RealMedia/ads/adstream_jx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!x11"></script>
-              				<script language="JavaScript"> <!--
-_version=10; //--></script>
-              				<script language="JavaScript1.1"> <!--
-_version=11; // --></script>
-              				<script language="JavaScript">
-<!--
-if (_version < 11) {
-document.write('<IFRAME WIDTH=120 HEIGHT=240 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://a1.crain.com/RealMedia/ads/adstream_sx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!x11"></iframe>');
-}
-//-->
-</script>
-              <noscript><a href="http://a1.crain.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!x11"><img src="http://a1.crain.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!x11"></a></noscript></p>
-						<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
-              				<tbody><tr>
-                				<td bgcolor="#CC6633"><img src="/images/global/spacer.gif" width="130" height="1" border="0"></td>
-							</tr>
-              				<tr>
-                				<td><img src="/images/global/spacer.gif" width="130" height="8" border="0"></td>
-							</tr>
-            			</tbody></table>
-						<table border="0" cellpadding="0" cellspacing="0" width="108" align="center">
-              				<tbody><tr valign="top">
-                				<td width="4"><img src="/images/global/spacer.gif" width="4" height="10"></td>
-								<td bgcolor="#000000" width="100">
-                  					<table border="0" cellpadding="3" cellspacing="0" width="100" bgcolor="#000000">
-                    					<tbody><tr>
-                      						<form name="ccbMagSearch" method="post" action="http://www.chicagobusiness.com/cgi-bin/mag/search.pl"></form>
-                        						<td>
-                          							<div align="center"><a href="/mag/"><img src="/images/l/index/thisWeek.jpg" width="94" height="107" border="0"></a></div>
-													<div style="font-size:3px">&nbsp;</div>
-													<div align="center"><img src="/images/l/index/searchArchive.gif" width="94" height="20" border="0"></div>
-													<div style="font-size:3px">&nbsp;</div>
-													<input type="text" size="9" class="textfield" style="width:90px;font-size:10px;" name="keyword">
-                          							<div style="font-size:3px">&nbsp;</div>
-													<input type="submit" value="Search" class="button" style="font-size:10px;" name="advanced">
-                          <br>
-                          <img src="/images/global/spacer.gif" width="4" height="3"></td>
-											
-										</tr>
-                  					</tbody></table>
-								</td>
-								<td width="4"><img src="/images/global/spacer.gif" width="4" height="10"></td>
-							</tr>
-            			</tbody></table>
-						<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
-              				<tbody><tr>
-                				<td><img src="/images/global/spacer.gif" width="130" height="8" border="0"></td>
-							</tr>
-              				<tr>
-                				<td bgcolor="#CC6633"><img src="/images/global/spacer.gif" width="130" height="1" border="0"></td>
-							</tr>
-            			</tbody></table>
-						<p align="center">
-							<!-- OAS AD x12-->
-              				<script language="JavaScript1.1" src="http://a1.crain.com/RealMedia/ads/adstream_jx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!x12"></script>
-              				<script language="JavaScript"> <!--
-_version=10; //--></script>
-              				<script language="JavaScript1.1"> <!--
-_version=11; // --></script>
-              				<script language="JavaScript">
-<!--
-if (_version < 11) {
-document.write('<IFRAME WIDTH=120 HEIGHT=240 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://a1.crain.com/RealMedia/ads/adstream_sx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!x12"></iframe>');
-}
-// -->
-</script>
-              <noscript><a href="http://a1.crain.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!x12"><img src="http://a1.crain.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!x12"></a></noscript></p>
-						<div align="center"><img src="/images/l/main/bizRez.gif" width="130" height="31"></div>
-						<noscript>
-              				<tr>
-                				<td></td>
-								<td><font color="#ffffff">
-									<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=153"></a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=102">Crain's Chicago Business</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=89">Advertising / Public Relations</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=46">Banking / Finance</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=152">Boeing Coverage</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=44">Commercial Real Estate</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=13">Commute / Travel</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=25">Company Research</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=41">Conventions / Meeting Planning</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=36">Deal-Making / Venture Capital</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=37">Demographics</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=38">Economic Development</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=45">Economy</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=40">Education</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=49">Government</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=31">Health Care</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=50">International Trade</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=30">Jobs / Careers</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=16">Law / Courts</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=33">Media</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=149">Membership Organizations</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=42">Off Hours / Business Entertainment</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=150">Online Courthouse</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=35">People</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=29">Politics / Public Policy</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=27">Public Records</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=34">Reference</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=32">Residential Real Estate / Relocation Guide</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=47">Small / Family Business</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=51">Sports</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=39">Tax / License Forms</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=28">Technology</a><br>
-<a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=48">Telecom / Energy</a><br>
+<!-- # end setHomepage function definition # -->
 
-									</font></td>
-								<td></td>
-							</tr>
-              </noscript><table border="0" cellpadding="0" cellspacing="0" width="130" bgcolor="#993300">
-              				<tbody><tr>
-                				<td><img src="/images/global/spacer.gif" width="6" height="1"></td>
-								<td><img src="/images/global/spacer.gif" width="118" height="1"></td>
-								<td><img src="/images/global/spacer.gif" width="6" height="1"></td>
-							</tr>
-              				<script>
-                <!--
-                  drawAllNavObjects (document.BizRezs, '');
-                //-->
-              </script><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=102" class="leftNav">Crain's Chicago Business</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=89" class="leftNav">Advertising / Public Relations</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=46" class="leftNav">Banking / Finance</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=44" class="leftNav">Commercial Real Estate</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=13" class="leftNav">Commute / Travel</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=25" class="leftNav">Company Research</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=41" class="leftNav">Conventions / Meeting Planning</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=36" class="leftNav">Deal-Making / Venture Capital</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=37" class="leftNav">Demographics</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=38" class="leftNav">Economic Development</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=45" class="leftNav">The Economy</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=40" class="leftNav">Education</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=49" class="leftNav">Government</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=31" class="leftNav">Health Care</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=50" class="leftNav">International Trade</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=30" class="leftNav">Jobs / Careers</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=16" class="leftNav">Law / Courts</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=33" class="leftNav">Media</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=42" class="leftNav">Off Hours / Business Entertainment</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=35" class="leftNav">People</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=29" class="leftNav">Politics / Public Policy</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=27" class="leftNav">Public Records</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=34" class="leftNav">Reference</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=32" class="leftNav">Residential Real Estate / Relocation Guide</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=47" class="leftNav">Small / Family Business</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=51" class="leftNav">Sports</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=39" class="leftNav">Tax / License Forms Online</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=28" class="leftNav">Technology</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=48" class="leftNav">Telecom / Energy</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr><tr><td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td></tr><tr><td><img src="/images/global/spacer.gif" width="1" height="1"></td><td><a href="/cgi-bin/portal.pl?id=43" class="leftNav">Weather</a></td><td><img src="/images/global/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td></tr>
-              
-              				<tr>
-                				<td colspan="3"><img src="/images/leftnav/top.gif" width="130" height="4"></td>
-							</tr>
-              				<tr>
-                				<td colspan="3"><img src="/images/global/spacer.gif" width="130" height="3"></td>
-							</tr>
-            			</tbody></table>
-						<img src="/images/global/spacer.gif" width="130" height="10">
-            			<table border="0" cellpadding="0" cellspacing="0" width="104" align="center">
-              				<tbody><tr>
-                				<td width="4"><img src="/images/global/spacer.gif" width="4" height="10"></td>
-								<td bgcolor="#000000" width="100">
-                  					<table border="0" cellpadding="0" cellspacing="3" width="100">
-                    					<tbody><tr>
-                      						<td bgcolor="#ffffff" align="center"><img src="/images/l/wallStreet/banner.gif" width="94" height="64" border="0"></td>
-										</tr>
-                    					<tr>
-                      						<td background="/images/l/wallStreet/bg.gif">
-                        						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-                          							<form action="http://129.250.213.34/servlet/com.softwerc.hyperfeed.cgetQuote" method="GET"></form>
-                            							<tbody><tr>
-                              								<td colspan="3"><span class="stockFormLabel" style="color:#ffffff">&nbsp;Enter
-                                Ticker:</span></td>
-														</tr>
-                            							<tr valign="middle">
-                              								<td align="left">
-                                								<input type="text" size="7" class="textfield" style="width:62px;font-size:10px;" name="symbol" id="symbol" value="">
-                              </td>
-															<td><img src="/images/global/spacer.gif" width="2" height="1"></td>
-															<td align="center">
-                                								<input type="submit" value="Go" class="button" style="font-size:10px;">
-                              </td>
-														</tr>
-                            							<tr>
-                              								<td colspan="3"><img src="/images/global/spacer.gif" width="1" height="5"></td>
-														</tr>
-                          							
-													<form action="http://129.250.213.34/servlet/com.softwerc.hyperfeed.clookup" method="GET"></form>
-                            							<tr>
-                              								<td colspan="3"><span class="stockFormLabel" style="color:#ffffff">&nbsp;Look
-                                up ticker:</span></td>
-														</tr>
-                            							<tr valign="middle">
-                              								<td align="left">
-                                								<input type="text" size="7" class="textfield" style="width:62px;font-size:10px;" name="symbol" id="symbol">
-                              </td>
-															<td><img src="/images/global/spacer.gif" width="2" height="1"></td>
-															<td align="center">
-                                								<input type="submit" value="Go" class="button" style="font-size:10px;">
-                              </td>
-														</tr>
-                            							<tr>
-                              								<td colspan="3"><img src="/images/global/spacer.gif" width="1" height="5"></td>
-														</tr>
-                          							
-												</tbody></table>
-											</td>
-										</tr>
-                  					</tbody></table>
-								</td>
-							</tr>
-            			</tbody></table>
-						<div style="font-size:10px">
-              				<div align="center">&nbsp; </div>
-							<p align="center"><a href="/cgi-bin/article.pl?static_id=3"><img src="/images/l/index/adInfo.gif" width="100" height="57" border="0"></a></p>
-						</div>
-					</td>
-				</tr>
-      		</tbody></table>
-		</td>
-		<td width="100%" align="left">
-      		<table border="0" cellpadding="0" cellspacing="0" width="470">
-        		<tbody><tr valign="top">
-          			<td colspan="3" bgcolor="#993300">
-            			<table border="0" cellpadding="0" cellspacing="0" width="470">
-              				<tbody><tr>
-                				<td align="center" bgcolor="#993300"><img src="/images/global/spacer.gif" width="1" height="1"></td>
-								<td align="center" bgcolor="#993300"><img src="/images/global/spacer.gif" width="468" height="1"></td>
-								<td align="center" bgcolor="#993300"><img src="/images/global/spacer.gif" width="1" height="1"></td>
-							</tr>
-              				<tr>
-                				<td align="center" bgcolor="#993300"><img src="/images/global/spacer.gif" width="1" height="1"></td>
-								<td>
-									<!-- OAS AD TOP-->
-									<script language="JavaScript1.1" src="http://a1.crain.com/RealMedia/ads/adstream_jx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!Top"></script>
-									<script language="JavaScript">
-						<!--
-							_version=10; 
-						//-->
-					</script>
-									<script language="JavaScript1.1">
-						<!--
-							_version=11; 
-						//-->
-					</script>
-									<script language="JavaScript">
-						<!--
-							if (_version < 11) {
-								document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://a1.crain.com/RealMedia/ads/adstream_sx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!Top"></iframe>');
-							}
-						//-->
-					</script>
-                  <noscript><a href="http://a1.crain.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!Top"><img src="http://a1.crain.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!Top"></a></noscript></td>
-								<td align="center" bgcolor="#993300"><img src="/images/global/spacer.gif" width="1" height="1"></td>
-							</tr>
-            			</tbody></table>
-					</td>
-				</tr>
-        		<tr valign="top">
-          			<td><img src="/images/h/01-01.gif" width="142" height="11"></td>
-					<td><img src="/images/h/main/01-02.gif" width="206" height="11"></td>
-					<td><img src="/images/h/main/01-03.gif" width="122" height="11"></td>
-				</tr>
-        		<tr valign="top">
-					<form name="nlsearch" method="post" action="http://www.chicagobusiness.com/cgi-bin/nlsearch.pl" style="padding: 0px 0px; margin: 0xp, 0px;"></form>
-						<td><img src="/images/h/02-01-new.gif" width="142" height="16">
-							<div class="date" align="right"><nobr>
-								Sunday, June 3, 2001
-								</nobr></div>
-							<hr width="95%" align="right">
-				  			<table border="0" cellpadding="0" cellspacing="0" width="142">
-								<tbody><tr>
-					  				<td><img src="/images/global/spacer.gif" width="15" height="1"></td>
-									<td><img src="/images/global/spacer.gif" width="82" height="1"></td>
-									<td><img src="/images/global/spacer.gif" width="30" height="1"></td>
-									<td><img src="/images/global/spacer.gif" width="15" height="1"></td>
-								</tr>
-								<tr>
-					  				<td colspan="4"><img src="/images/h/search/top.gif" width="142" height="20"></td>
-								</tr>
-								<tr>
-					  				<td background="/images/h/search/topLeft-bg.gif"><img src="/images/h/search/topLeft.gif" width="15" height="18"></td>
-									<td width="112" height="18" bgcolor="#9999FF" colspan="2">
-										<table border="0" cellpadding="0" cellspacing="0" width="100%">
-						  					<tbody><tr>
-												<td>
-							  						<input type="hidden" name="dx" value="1011">
-							  						<input type="hidden" name="cb" value="37">
-							  						<input type="hidden" name="tr1" value="CobrandTrack">
-							  						<input type="hidden" name="orl" value="2:1">
-							  						<input type="text" name="qr" size="12" style="font-size:10px;width:108px;padding:0px;margin:0px;">
-							</td>
-											</tr>
-										</tbody></table>
-									</td>
-									<td background="/images/h/search/topRight.gif"><img src="/images/h/search/topRight.gif" width="15" height="18"></td>
-								</tr>
-								<tr valign="top">
-					  				<td colspan="2"><img src="/images/h/search/bottomLeft.gif" width="97" height="37" border="0"></td>
-									<td>
-										<input type="image" src="/images/h/search/go.gif" width="30" height="37" border="0"></td>
-									<td><img src="/images/h/search/bottomRight.gif" width="15" height="37"></td>
-								</tr>
-								<tr>
-					  				<td colspan="4"><img src="/images/h/search/bottom.gif" width="142" height="10"></td>
-								</tr>
-				  			</tbody></table>
-						</td>
-					
-					<td><a href="/" target="_top"><img src="/images/h/main/logo-new.gif" width="206" height="143" border="0"></a></td>
-					<form method="post" action="http://www.chicagobusiness.com/cgi-bin/portal.pl" name="alphaSite"></form>
-						<td>
-							<div><img src="/images/h/main/02-03.gif" width="122" height="15"></div>
-							<div>
-					<select name="id" style="font-size:10px;width:118px;padding:0px;margin:0px;" onchange="submit();">
-					  				<option>Alpha Site Listing</option>
-					  				
-					  				<option value="89">Advertising / Pub...</option>
-					  				<option value="46">Banking / Finance</option>
-					  				<option value="44">Commercial Real E...</option>
-					  				<option value="13">Commute / Travel</option>
-					  				<option value="25">Company Research</option>
-					  				<option value="41">Conventions / Mee...</option>
-					  				<option value="102">Crain's Chicago B...</option>
-					  				<option value="36">Deal-Making / Ven...</option>
-								<option value="37">Demographics</option><option value="38">Economic Developm...</option><option value="40">Education</option><option value="49">Government</option><option value="31">Health Care</option><option value="50">International Tra...</option><option value="30">Jobs / Careers</option><option value="16">Law / Courts</option><option value="33">Media</option><option value="42">Off Hours / Busin...</option><option value="35">People</option><option value="29">Politics / Public...</option><option value="27">Public Records</option><option value="34">Reference</option><option value="32">Residential Real ...</option><option value="47">Small / Family Bu...</option><option value="51">Sports</option><option value="39">Tax / License For...</option><option value="28">Technology</option><option value="48">Telecom / Energy</option><option value="45">The Economy</option><option value="43">Weather</option></select>
-				  </div>
-							<div><img src="/images/h/main/topnav.gif" width="122" height="92" border="0" usemap="#headermap" href="SignIn"></div>
-							<script language="Javascript1.1">
-				  <!--
-					drawDropDownMenu (document.BizRezs);
-				  //-->
-				</script>
-						</td>
-					
-				</tr>
-      		</tbody></table>
-			<table border="0" cellpadding="0" cellspacing="0" width="470">
-        		<tbody><tr>
-          			<td>
-            			<table cellpadding="0" cellspacing="0" border="0" width="470" bgcolor="#993300">
-              				<tbody><tr>
-                				<td><img src="/images/global/spacer.gif" width="15" height="5"></td>
-								<td><img src="/images/global/spacer.gif" width="440" height="5"></td>
-								<td><img src="/images/global/spacer.gif" width="15" height="5"></td>
-							</tr>
-              				<tr>
-                				<td><img src="/images/global/spacer.gif" width="15" height="3"></td>
-								<td>
-                  					<table border="0" cellpadding="0" cellspacing="0">
-                    					<tbody><tr valign="middle">
-                      						<td class="redBar"><nobr>
-												Privacy Policy
-												</nobr></td>
-											<td class="redBar"><nobr><span class="sep">&nbsp;&nbsp;|&nbsp;&nbsp;</span></nobr></td>
-											<td class="redBar"><nobr><a href="/" alt="back to main" title="back to main" class="backToMain">back
-                        to main</a></nobr></td>
-										</tr>
-                  					</tbody></table>
-								</td>
-								<td><img src="/images/global/spacer.gif" width="15" height="3"></td>
-							</tr>
-              				<tr>
-                				<td><img src="/images/global/spacer.gif" width="15" height="5"></td>
-								<td><img src="/images/global/spacer.gif" width="440" height="3"></td>
-								<td><img src="/images/global/spacer.gif" width="15" height="3"></td>
-							</tr>
-            			</tbody></table>
-					</td>
-				</tr>
-        		<tr>
-          			<td><img src="/images/main/title-shadow.gif" width="470" height="7" border="0"></td>
-				</tr>
-      		</tbody></table>
-			<table border="0" cellpadding="0" cellspacing="0" width="470">
-        		<tbody><tr valign="top">
-          			<td>
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td colspan="2"><img src="/images/global/spacer.gif" width="15" height="15"></td>
+</head>
+<body bgcolor="#FFFFFF" text="#000000"><a name="top"></a>
+<div align="center"><div style="width: 90%">
+<script language="Javascript">
+	if (document.layers) {
+		document.write ('<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td>');
+	}
+</script>
+<map name="register"> 
+				<area shape="rect" coords="0,0,194,49" href="http://www.chicagobusiness.com/cgi-bin/login.pl?tmpl=p">
+				<area shape="rect" coords="1,57,103,79" href="http://www.chicagobusiness.com/cgi-bin/sitemap.pl">
+				<area shape="rect" coords="107,57,195,79" href="http://www.chicagobusiness.com/cgi-bin/login.pl?tmpl=p">
+				<area shape="rect" coords="26,85,92,100" href="http://www.chicagobusiness.com/cgi-bin/article.pl?static_id=2">
+				<area shape="rect" coords="99,85,173,100" href="http://www.chicagobusiness.com/cgi-bin/article.pl?static_id=1">
+				<area shape="rect" coords="26,105,181,121" href="#" alt="Make Us Your Homepage" title="Make Us Your Homepage" onclick="SetHomePage ('http://www.chicagobusiness.com')">
+			</map><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#dbddcf" align="center" cols="7">
+	<colgroup width="2">
+	</colgroup><colgroup width="215">
+	</colgroup><colgroup width="20">
+	</colgroup><colgroup width="295">
+	</colgroup><colgroup width="20">
+	</colgroup><colgroup width="216">
+	</colgroup><colgroup width="2">
+	</colgroup><tbody><tr>
+		<td width="2" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="2" height="1"></td>
+		<td width="215" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="215" height="1"></td>
+		<td width="20" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="20" height="1"></td>
+		<td width="295" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="295" height="1"></td>
+		<td width="20" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="20" height="1"></td>
+		<td width="216" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="216" height="1"></td>
+		<td width="2" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="2" height="1"></td>
 	</tr>
-	<tr>
-		<td width="15"><img src="/images/global/spacer.gif" width="15" height="15"></td>
-		<td><br>
-This is the website of ChicagoBusiness.com. Our postal address is: ChicagoBusiness.com, 740 North Rush Street, Chicago, IL 60611. Our website administrator can be reached by e-mail at <a href="mailto:webmaster@chicagobusiness.com">webmaster@chicagobusiness.com</a> or by telephone at 312-280-3141. <br>
+	<tr> 
+		<td bgcolor="#000000" colspan="7"><img src="/images/global/spacer.gif" width="2" height="2"></td>
+	</tr>
+	<tr> 
+		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
+		<td align="center" width="215">
+			<script language="JavaScript">
+			<!--
+				OAS_RICH("Top1");
+			//-->
+			</script></td>
+		<td width="20">&nbsp;</td>
+		<td align="center" width="100%"><a href="/"><img src="/images/global/logo.gif" width="255" height="140" border="0"></a></td>
+		<td width="20">&nbsp;</td>
+		<td align="right" width="216"><img src="/images/global/register.gif" width="196" height="120" usemap="#register" border="0"></td>
+		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
+			
+	</tr>
+	<tr> 
+		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
+		<td align="center" colspan="5" background="/images/global/search-bg.jpg"><table border="0" cellspacing="0" cellpadding="0" width="100%">
+			<tbody><tr>
+				<form name="nlsearch" action="http://www.chicagobusiness.com/cgi-bin/mag/search.pl" method="get" class="form"></form>
+					<input type="hidden" name="sa" value="Google Search">
+					<input type="hidden" name="cof" value="AWPID:e283086029f2b114;">
+					<input type="hidden" name="searchin" value="Google Search">
+					<td valign="top" nowrap="">
+								<div class="searchbarinside">
+									<div>
+										<img src="/images/global/search.gif" width="60" height="19">
+										<input type="text" name="q" size="25" style="height: 19px;">
+										<input type="image" src="/images/global/search-go.gif" border="0" width="32" height="19" align="absmiddle">
+									</div>
+									<div style="padding-top: 5px;">
+										<a href="#" onclick="return SetSearchIn (1);"><img name="radio1" border="0" src="/images/global/radion.gif" width="11" height="11" align="absmiddle"></a> 
+										<span class="radiobuttons">Crain's Chicago Business</span> 
+									</div>
+									<div>
+										<a href="#" onclick="return SetSearchIn (2);"><img name="radio2" border="0" src="/images/global/radioff.gif" width="11" height="11" align="absmiddle"></a> 
+										<span class="radiobuttons">The Web via Google</span> 
+									</div>
+								</div>
+					</td>
+				<td valign="middle" align="right"><div style="padding: 2px 8px 2px 0px;">
+					<script language="JavaScript">
+					<!--
+						OAS_RICH("Top");
+					//-->
+					</script></div></td>
+			</tr>
+		</tbody></table></td>
+		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
+	</tr>
+</tbody></table><script language="Javascript">if (document.layers) {document.write ('</td></tr><tr valign="top"><td bgcolor="#000000">');}</script><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+	<colgroup width="2">
+	</colgroup><colgroup width="142">
+	</colgroup><colgroup width="2">
+	</colgroup><colgroup width="100%">
+	</colgroup><colgroup width="2">
+	</colgroup><colgroup width="147">
+	</colgroup><colgroup width="2">
+	</colgroup><tbody><tr valign="top"> 
+		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
+
+		<!-- Left Column Begins -->
+			<td bgcolor="#dbddcf" width="142" style="text-align: center;"><img src="/images/shadows/header.gif" width="142" height="5"><br>
+			<div style="padding: 12px 5px 5px 5px; text-align: center;">
+			<script language="JavaScript">
+			<!--
+				OAS_RICH("x11");
+			//-->
+			</script></div>
+			<hr class="hr01" style="width: 120px;">
+			<div style="padding: 4px 11px 8px 11px;">
+				<form name="Redirect" style="margin: 0px; padding: 0px;">
+					<div class="lefttitle">
+						CRAIN'S LIST<br>
+						<select style="font-size: 10px; padding: 0px; margin: 0px; width: 115px;" onchange="RedirectMenu(this);" name="crainslist">
+							<option value="none" selected="">Select List</option>
+							<option></option>
+							<option></option>
+							<option></option>
+							<option></option>
+							<option></option>
+							<option></option>
+							<option></option>
+						</select>
+					</div>
+					<div class="lefttitle" style="padding-top: 12px;">
+						RESOURCE CENTER<br>
+						<select style="font-size:10px;padding:0px;margin:0px;width:115px;" onchange="RedirectMenu(this);" name="resourcecenter">
+							<option value="none" selected="">Resource</option>
+							<option></option>
+							<option></option>
+							<option></option>
+							<option></option>
+							<option></option>
+							<option></option>
+							<option></option>
+						</select>
+						<script language="Javascript">
+							drawDropDownMenu (document.BizRezs, document.Redirect.resourcecenter);
+							drawDropDownMenu (document.listRezs, document.Redirect.crainslist);
+							document.Redirect.resourcecenter.options[0].text = "Select Resource";
+						</script>
+					</div>
+				</form>
+			</div>
+			<hr class="hr01" style="width: 120px;">
+			<div style="padding: 10px 0px 10px 0px; text-align: center;">
+			<script language="JavaScript">
+			<!--
+				OAS_RICH("x12");
+			//-->
+			</script></div>
+				<div style="height: 5px; font-size: 1px;">&nbsp;</div>
+				<hr class="hr01" style="width: 120px;">
+			
+			<div style="text-align: left; padding: 0px 10px 0px 10px;" class="blkhead">
+				CHICAGO BUSINESS CALENDAR
+			</div>
+			<div class="calendardate">
+	December 2001
+</div>
+<table width="120" border="0" cellspacing="3" cellpadding="0" class="blkcopy" align="center" style="table-layout: fixed;">
+	<colgroup width="14" align="center">
+	</colgroup><colgroup width="14" align="center">
+	</colgroup><colgroup width="14" align="center">
+	</colgroup><colgroup width="14" align="center">
+	</colgroup><colgroup width="14" align="center">
+	</colgroup><colgroup width="14" align="center">
+	</colgroup><colgroup width="14" align="center">
+	</colgroup><tbody><tr valign="top"> 
+		<td width="14" class="calendarday">S<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-25">25</a></td>
+		<td width="14" class="calendarday">M<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-26">26</a></td>
+		<td width="14" class="calendarday">T<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-27">27</a></td>
+		<td width="14" class="calendarday">W<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-28">28</a></td>
+		<td width="14" class="calendarday">T<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-29">29</a></td>
+		<td width="14" class="calendarday">F<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-30">30</a></td>
+		<td width="14" class="calendarday" bgcolor="#ffffff">S<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-12-1">1</a></td>
+	</tr>
+</tbody></table>
+
+<div class="calendarviewlink">
+	<a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-12-1" style="font-weight: bold;">VIEW CALENDAR</a>
+</div>
+
+
+			<div style="padding: 5px 0px 0px 0px;">
+				<a href="/cgi-bin/submitEvent.pl">
+					<img src="/images/buttons/sendusup.gif" name="sendus" border="0" width="136" height="25"></a>
+			</div>
+			<div style="padding: 0px;">
+				<a href="/cgi-bin/mag/article.pl?static_id=7">
+					<img src="/images/buttons/craineventup.gif" name="crainevent" border="0" width="136" height="25"></a>
+			</div>
+			<div style="height: 4px; font-size: 1px;">&nbsp;</div>
+			<hr class="hr01" style="width: 120px;">
+				<div style="padding: 6px 0px 5px 0px;">
+				<a href="/cgi-bin/article.pl?static_id=3&amp;page_id=829">
+					<img src="/images/buttons/adinfoup.gif" name="adinfo" border="0" width="136" height="25"></a>
+			</div>
+			<table width="122" border="0" cellspacing="4" cellpadding="0">
+				<tbody><tr>
+					<td class="specialfeatures">SPECIAL FEATURES</td>
+				</tr>
+				
+					<tr>
+						<td class="specialfeatures">
+							<a href="http://www.chicagobusiness.com/cgi-bin/redirect.pl?mpid=102&amp;portal_id=122&amp;id='http://www.crain.com/classified/ccb/index.cfm'" class="black">
+								<b>Classifieds</b>, including Residential and Commercial Real Estate</a></td>
+					</tr>
+				
+					<tr>
+						<td class="specialfeatures">
+							<a href="/cgi-bin/article.pl?portal_id=51&amp;page_id=501" class="black">
+								Golf Guide</a></td>
+					</tr>
+				
+					<tr>
+						<td class="specialfeatures">
+							<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?page_id=497" class="black">
+								Internet Directory</a></td>
+					</tr>
+				
+					<tr>
+						<td class="specialfeatures">
+							<a href="/cgi-bin/article.pl?feature_id=23&amp;page_id=723" class="black">
+								Luxury Auto Guide</a></td>
+					</tr>
+				
+					<tr>
+						<td class="specialfeatures">
+							<a href="/cgi-bin/article.pl?feature_id=24&amp;page_id=684" class="black">
+								Crain's Guide to Residential Real Estate</a></td>
+					</tr>
+				
+					<tr>
+						<td class="specialfeatures">
+							<a href="/cgi-bin/article.pl?page_id=872" class="black">
+								Blue Dates Social Calendar</a></td>
+					</tr>
+				
+			</tbody></table>
+			<p>&nbsp;</p>
+		</td>
+		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
+		<!-- Left Column Ends -->
+
+		<td bgcolor="#ffffff">
+			<div style="padding: 0px 0px 20px 19px;">
+				
+				<div style="padding: 18px 20px 0px 0px;">
+					<div class="h3">Our Privacy Policy</div>
 <br>
-For each visitor to our website, whether a registered user or non-registered user, our web server automatically attempts to recognize the visitor's domain name. In addition to the visitor's domain name, we also collect aggregate information on what pages visitors access. From time to time we may also collect information volunteered by the consumer, such as survey information or contest entries as well as registration information. In addition, a "cookie" will be placed on your computer — avoiding the need for registered users to log in each time you access our site. <br>
+This is the website of ChicagoBusiness.com. Our postal address is: ChicagoBusiness.com, 360 North Michigan Avenue, Chicago, IL 60601. Our website administrator, Linda Nelson, can be reached by email at <a href="mailto:webmaster@chicagobusiness.com">webmaster@chicagobusiness.com</a> or by telephone at 312-280-3141.<br>
 <br>
-Also, our ad server will have the ability to reverse a visitors domain name to find out where they live so geographic-specific ads can be placed on Web pages. Additionally, through the use of an additional cookie, the ad server will have the ability to track users by their behavior profile for the purpose of pushing advertising that matches their interests.<br>
+For each visitor to our website, whether a registered user or non-registered user, our web server automatically attempts to recognize the visitor's domain name. In addition to the visitor's domain name, we also collect aggregate information on what pages visitors access. From time to time we may also collect information volunteered by the consumer, such as survey information or contest entries as well as registration information. In addition, a "cookie" will be placed on your computer — avoiding the need for registered users to log in each time you access our site.<br>
 <br>
-The general background information we collect on our web registrants at the time they register may be used to notify them of changes or updates to our website, or to ascertain the demographics of our readership, but it is not shared with other organizations for commercial purposes. Subscribers are also asked at the time they register whether they want their postal and e-mail addresses added to our mailing list. Additionally, if at any time you decide you do not want to receive e-mail and/or snail mail from us, simply let us know by sending an e-mail or snail mail message to the appropriate address given above. Please state in your message that you do not want to receive e-mail and/or snail mail from our company. <br>
+Also, our ad server will have the ability to reverse a visitors domain name to find out where they live so geographic-specific ads can be placed on Web pages. Additionally, through the use of an additional cookie, the ad server will have the ability to track users by their behavior profile for the purpose of pushing advertising that matches their interests. Our email alerts also utilize tracking technology that allows us to see how many emails are opened and the email address of users who have clicked on a given story, feature or advertisement. We only use this information for internal purposes to measure the aggregate number of people who view a given email alert item.<br>
 <br>
-In the future, we may decide to make the e-mail addresses of those who subscribe our site available to other reputable organizations whose products or services we think would be appropriate or interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by sending e-mail or snail mail to us at the addresses given above. Please state in your message that you do not want us to share your e-mail address with other companies. <br>
+The general background information we collect on our web registrants at the time they register may be used to notify them of changes or updates to our website, or to ascertain the demographics of our readership, but it is not shared with other organizations for commercial purposes. Subscribers are also asked at the time they register whether they want their postal and email addresses added to our mailing list. Additionally, if at any time you decide you do not want to receive email and/or snail mail from us, simply let us know by sending an email or snail mail message to the appropriate address given above. Please state in your message that you do not want to receive email and/or snail mail from our company.<br>
 <br>
-Website subscribers who supply us with their postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an e-mail or snail mail message to us at the appropriate address given above. You may also receive mailings from other reputable companies. Again, if you prefer that your address not be shared, please contact us with your exact name and address, and we will remove your name from the list we share with other organizations. <br>
+In the future, we may decide to make the email addresses of those who subscribe our site available to other reputable organizations whose products or services we think would be appropriate or interesting. If you do not want us to share your email address with other companies or organizations, please let us know by sending email or snail mail to us at the addresses given above. Please state in your message that you do not want us to share your email address with other companies.<br>
+<br>
+Website subscribers who supply us with their postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an email or snail mail message to us at the appropriate address given above. You may also receive mailings from other reputable companies. Again, if you prefer that your address not be shared, please contact us with your exact name and address, and we will remove your name from the list we share with other organizations.<br>
 <br>
 Persons who supply us with their telephone or fax numbers online may receive telephone contact from us. Any such call will probably concern orders they have placed online or questions they have about our firm's products and services. We will not share telephone or fax numbers with other organizations.<br>
 <br>
 
 
-		<hr noshade="" size="1">
-		<a href="javascript:history.go(-1)" style="text-decoration:none" onmouseover="window.status='Back to previous page';return true;" onmouseout="window.status='';return true;">&lt; &lt; BACK</a></td>
-	</tr>
-</tbody></table>
+<hr noshade="" size="1">
+<p class="utilitylink"><a href="javascript:history.go(-1)" onmouseover="window.status='Back to previous page';return true;" onmouseout="window.status='';return true;">&lt; &lt; BACK</a></p>
 
-					</td>
-					<td>
-						
-					</td>
-				</tr>
-      		</tbody></table>
-			<p>&nbsp;</p>
-			<center>
-        		<table border="0" cellpadding="0" cellspacing="1">
-          			<tbody><tr>
-            			<td>
-							<!-- OAS AD BOTTOM-->
-              				<script language="JavaScript1.1" src="http://a1.crain.com/RealMedia/ads/adstream_jx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!Bottom"></script>
-              				<script language="JavaScript"> <!--
-_version=10; //--></script>
-              				<script language="JavaScript1.1"> <!--
-_version=11; // --></script>
-              				<script language="JavaScript">
-<!--
-if (_version < 11) {
-document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://a1.crain.com/RealMedia/ads/adstream_sx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!Bottom"></iframe>');
-}
-// -->
-</script>
-              <noscript><a href="http://a1.crain.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!Bottom"><img src="http://a1.crain.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,TopLeft,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!Bottom"></a></noscript>
-            </td>
-					</tr>
-        		</tbody></table>
-			</center>
+				</div>
+			</div>
+			<div><img src="/images/global/spacer.gif" width="473" height="1"></div>
+			<p align="center">
+			<script language="JavaScript">
+			<!--
+				OAS_RICH("Bottom");
+			//-->
+			</script>
+			</p>
 		</td>
-		<td width="100%" align="left" bgcolor="#993300">
-			<table cellpadding="30" cellspacing="0" border="0">
-				<tbody><tr>
-					<td>
-						<p>&nbsp;</p>
-						<p>&nbsp;</p><p><script language="JavaScript1.1" src="http://a1.crain.com/RealMedia/ads/adstream_jx.ads/www.chicagobusiness.com/portal/admin/privacy_policy@Top,x01,x02,x03,x11,x12,x13,x21,x22,x23,Bottom,Right!Right"></script></p>
-					</td>
-				</tr>
-			</tbody></table>
+		<!-- Mid Column Ends -->
+		
+		
+		
+		<!-- Right Column Begins -->
+		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
+			<td bgcolor="#dbddcf" width="147" style="text-align: center;"><img src="/images/shadows/header.gif" width="147" height="5"><br>
+			<div class="redhead" style="padding-top: 8px; text-align: center;">THIS WEEK'S ISSUE</div>
+			<div style="text-align: center;">December 3, 2001</div>
+				<div style="text-align: center;"><a href="http://www.chicagobusiness.com/mag/" target="_blank"><img src="/images/global/cover-shot.gif" border="0" width="126" height="94"></a></div> 
+			<form style="margin:0px; padding: 0px;" name="ccbMagSearch" method="post" action="http://www.chicagobusiness.com/cgi-bin/mag/search.pl">
+				<div style="text-align: left; padding: 0px 10px 0px 10px;" class="blkhead">SEARCH ARCHIVES</div>
+				<div style="text-align: left; padding: 0px 10px 0px 10px;" class="blkcopy">(registration required)</div>
+				<div style="text-align: left; padding: 0px 10px 5px 10px;">
+					<input type="text" name="keyword" style="font-size:10px; width:90px; padding:0px; margin:0px;" size="15" maxlength="50">
+					<input type="image" src="/images/icons/go.gif" width="23" height="14" border="0" name="advanced">
+				</div>
+			</form>
+			<hr class="hr01" style="width: 133px;">
+			<div style="text-align: center; padding: 7px 0px 3px 0px;">			<script language="JavaScript">
+			<!--
+				OAS_RICH("Right");
+			//-->
+			</script></div>
+			<hr class="hr01" style="width: 133px;">
+			<div style="padding-top: 3px;">
+				<a href="https://sec.crain.com/ccb/circulation.html"><img src="/images/buttons/subscribeup.gif" width="142" height="25" border="0"></a>
+			</div>
+			<hr class="hr01" style="width: 133px;">
+				<div style="text-align: center; padding: 5px 0px 5px 0px;">
+				<img src="/images/icons/goto.gif" width="86" height="12" border="0">
+				<br>
+			<script language="JavaScript">
+			<!--
+				OAS_RICH("Bottom1");
+			//-->
+			</script>
+			</div>
+			
+			<hr class="hr01" style="width: 133px;">
+			<div style="text-align: left; padding: 0px 10px 0px 10px;">
+				<div class="subscriberservices"><b>SUBSCRIBER SERVICES</b></div>
+				<div class="subscriberservices">
+					<a href="https://sec.crain.com/ccb/cgi-bin/newsub.pl" class="black">New subscription</a>
+				</div>
+				<div class="subscriberservices">
+					<a href="https://sec.crain.com/ccb/cgi-bin/renew.pl" class="black">Renew my subscription</a>
+				</div>
+				<div class="subscriberservices">
+					<a href="https://sec.crain.com/ccb/cgi-bin/verify.pl" class="black">Check on a subscription</a>
+				</div>
+				<div class="subscriberservices">
+					<a href="https://sec.crain.com/ccb/cgi-bin/paysub.pl" class="black">Pay an invoice</a>
+				</div>
+				<div class="subscriberservices">
+					<a href="https://sec.crain.com/ccb/cgi-bin/adrchng.pl" class="black">Change my address</a>
+				<br></div><div class="subscriberservices">
+							<a href="http://crainschicago.clickdata.com/partners/int/toplist/item.asp?prodid=229&amp;state=IL&amp;product_id=CHI&amp;flag=main&amp;ban=c1&amp;tab=1#smartDataCenter" class="black">Book of Lists On Disk
+</a></div>
+			</div>
 		</td>
+		<!-- Right Column Ends -->
+
+		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
+	</tr>
+	<tr> 
+		<td bgcolor="#000000" colspan="7"><img src="/images/global/spacer.gif" width="2" height="2"></td>
 	</tr>
 </tbody></table>
-<map name="headermap"> <area shape="rect" coords="0,0,120,29" href="http://www.chicagobusiness.com/cgi-bin/addlinks.pl" alt="Add Personalized Links" title="Add Personalized Links">
-  <area shape="rect" coords="2,55,42,72" href="http://www.chicagobusiness.com/cgi-bin/login.pl?tmpl=p" alt="Sign-in" title="Sign-in">
-  <area shape="rect" coords="2,31,67,50" href="http://www.chicagobusiness.com/cgi-bin/article.pl?static_id=1" alt="Contact us" title="Contact us">
-  <area shape="rect" coords="2,76,52,92" href="http://www.chicagobusiness.com/cgi-bin/sitemap.pl" alt="SiteMap" title="SiteMap">
-</map>
+<script language="Javascript">
+	if (document.layers) {
+		document.write ('</td></tr></table>');
+	}
+</script>
+</div></div>
 
 
 </body></html>
