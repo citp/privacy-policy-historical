@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusivebooks.co.za privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802035607id_/http%3A//www.exclusivebooks.com/privacy/privacy.asp%3FTag%3D%26CID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivebooks.co.za privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409094319id_/http%3A//www.exclusivebooks.com/privacy/privacy.asp%3FTag%3D%26CID%3D) for the most accurate reproduction.*
 
 # Exclusive Books Privacy Statement
 
@@ -8,7 +8,7 @@ This is a privacy policy for ExclusiveBooks.Com. Our homepage on the Web is loca
 
 The full text of our privacy policy is available on the Web at http://www.exclusivebooks.com/privacy/privacy.asp (this page).
 
-Users may go to [http://www.exclusivebooks.com/privacy/opt_out.asp](https://web.archive.org/web/20020802035607id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) for information on how to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy. 
+Users may go to [http://www.exclusivebooks.com/privacy/opt_out.asp](https://web.archive.org/web/20030409094319id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) for information on how to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy. 
 
 You may contact us by mail at the following address:
 
@@ -23,13 +23,9 @@ You may contact us by e-mail at [privacy@exclusivebooks.com](mailto:privacy@excl
 
 You may call us on +27 11 792-2777.
 
- **Dispute Resolution and Privacy Seals**
+ **Additional Information**
 
-We have the following privacy seals:
-
-**Additional Information**
-
-This policy is valid until 1 Mar, 2003 at 12:00:00 CAT. 
+This policy is valid until 1 Mar, 2004 at 12:00:00 CAT. 
 
 **Data Collection**
 
@@ -46,11 +42,11 @@ We collect the following information:
   * Unique identifiers 
 
 This data will be used for the following purposes: 
-  * Web site and system administration. The user is allowed to [opt-out](https://web.archive.org/web/20020802035607id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
-  * Research and development. The user is allowed to [opt-out](https://web.archive.org/web/20020802035607id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
-  * One-time tailoring. The user is allowed to [opt-out](https://web.archive.org/web/20020802035607id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
-  * User analysis. The user is allowed to [opt-out](https://web.archive.org/web/20020802035607id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
-  * User profiling and decision-making. The user is allowed to [opt-out](https://web.archive.org/web/20020802035607id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
+  * Web site and system administration. The user is allowed to [opt-out](https://web.archive.org/web/20030409094319id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
+  * Research and development. The user is allowed to [opt-out](https://web.archive.org/web/20030409094319id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
+  * One-time tailoring. The user is allowed to [opt-out](https://web.archive.org/web/20030409094319id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
+  * User analysis. The user is allowed to [opt-out](https://web.archive.org/web/20030409094319id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
+  * User profiling and decision-making. The user is allowed to [opt-out](https://web.archive.org/web/20030409094319id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
 
 This data will be used by ourselves and our agents.  
 The following explanation is provided for why this data is collected:  
