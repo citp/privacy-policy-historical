@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806075128id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606143750id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
-# 
+# HippieShop.com
+
+**FREE SHIPPING UNTIL FRIDAY! Get FREE ground shipping with a $99+ purchase at checkout.**
+
+**Privacy Policy**
 
 **Our Pledge to You, Our Customer**
 
