@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204231118id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603173550id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.*
 
 # Web Policies / Privacy and Cookies
 
