@@ -1,0 +1,434 @@
+<!--The following is the downloaded HTML source of the wbshop.com privacy policy that was archived on 2003-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621090014id_/http%3A//www.wbshop.com/content.xml%3Fcid%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+
+<title> WBShop.com – Exclusive Warner Bros. merchandise from Harry Potter, Tweety, Taz, Batman, Superman, Scooby-Doo, and more. Privacy Policy</title>
+<link href="/kernel/styles/wbshop.css" rel="stylesheet" type="text/css">
+<meta name="Description" content="Shop at the Warner Bros. online store, wbshop.com, for unique merchandise, collectibles, memorabilia, toys, games, calendars, DVD's, videos, clothing, accessories, posters and more of your favorite characters like Tweety, Taz, Batman, Superman and from your favorite Warner Bros. movies like Harry Potter and Scooby-Doo.">
+<meta name="keywords" content="Warner Bros., Warner Brothers, WB, Wbshop, Wbstore, wb, movies, shopping, merchandise, collectibles, memorabilia, exclusive, official, gifts, collectibles, memorabilia, cartoons, Batman, Bugs Bunny, Harry Potter, Looney Tunes, The Matrix, Marvin the Martian, The Powerpuff Girls, Scooby-Doo, Superman, Taz, Tweety, Wizard of Oz, Dorothy, Tin Man, Scarecrow,  Hedwig, Hogwarts, Quidditch, yellow brick road, books, calendars, clothing, accessories, costumes, lunchbox, hats, backpacks, watches, t-shirts, party goods, posters, standees, stationery, toys, games, dolls, mug, figures, action figures, Halloween, Christmas">
+<link rel="shortcut icon" href="/favicon_wbshop.ico">
+<script language="JavaScript" type="text/JavaScript">
+			
+			function MM_openBrWindow(theURL,winName,features) { //v2.0
+			  window.open(theURL,winName,features);
+			}	
+
+			function getexpirydate( nodays){
+				var UTCstring;
+				Today = new Date();
+				nomilli=Date.parse(Today);
+				Today.setTime(nomilli+nodays*24*60*60*1000);
+				UTCstring = Today.toUTCString();
+				return UTCstring;
+			}
+
+			function getcookie(cookiename) {
+				var cookiestring=""+document.cookie;
+				var index1=cookiestring.indexOf(cookiename);
+				if (index1==-1 || cookiename=="") return ""; 
+				var index2=cookiestring.indexOf(';',index1);
+				if (index2==-1) index2=cookiestring.length; 
+				return unescape(cookiestring.substring(index1+cookiename.length+1,index2));
+			}
+
+			function setexpiringcookie(name,value,domain,expires) {
+				var expire = new Date();
+				expire.setTime(expire.getTime() + 60000 * expires);
+				cookiestring=name+"="+escape(value)+";domain="+escape(domain)+";expires="+expire.toGMTString() + ";path=/"; 
+				document.cookie=cookiestring;
+				if(!getcookie(name)){
+					return false;
+				} else{
+					return true;
+				}
+			}
+
+			function setcookie(name,value,domain) {
+				cookiestring=name+"="+escape(value)+";domain="+escape(domain)+";path=/";
+				document.cookie=cookiestring;
+				if(!getcookie(name)){
+					return false;
+				} else{
+					return true;
+				}
+			}
+
+
+			function getHost() {
+			    hostname = new String(document.location);
+			    return cleanName(hostname);
+			}
+			
+			function cleanName(hostname) {    
+			    var index = hostname.indexOf('http://');
+			    if(index != -1) {
+				hostname = hostname.substring(7,hostname.length);
+			    } else {
+				index = hostname.indexOf('https://');
+				if(index != -1) {
+				    hostname = hostname.substring(8,hostname.length);
+				}
+			    }
+			    index = hostname.indexOf('/');
+			    if(index != -1) {
+				hostname = hostname.substring(0,index);
+			    }			    
+			    index = hostname.indexOf(':');
+			    if(index != -1) {
+				hostname = hostname.substring(0,index);
+			    }
+			    return hostname;
+			}
+
+			function getReferrer() {
+				return cleanName(document.referrer);
+			}
+
+			function setAllExpiringCookies(name,value,expires) {
+				
+    setexpiringcookie(name,value,'63.240.166.145',expires);
+
+    setexpiringcookie(name,value,'wbshop.newline.chi.novator.com',expires);
+
+    setexpiringcookie(name,value,'wbshop.newline.livetest.novator.com',expires);
+
+    setexpiringcookie(name,value,'www.wbstore.com',expires);
+
+    setexpiringcookie(name,value,'matrix.newline.livetest.novator.com',expires);
+
+    setexpiringcookie(name,value,'www.thematrixshop.com',expires);
+
+    setexpiringcookie(name,value,'www.wbshop.com',expires);
+
+    setexpiringcookie(name,value,'www.wbshop.com',expires);
+
+			}
+
+
+			function setAllCookies(name,value) {
+			    
+    setcookie(name,value,'63.240.166.145');
+
+    setcookie(name,value,'wbshop.newline.chi.novator.com');
+
+    setcookie(name,value,'wbshop.newline.livetest.novator.com');
+
+    setcookie(name,value,'www.wbstore.com');
+
+    setcookie(name,value,'matrix.newline.livetest.novator.com');
+
+    setcookie(name,value,'www.thematrixshop.com');
+
+    setcookie(name,value,'www.wbshop.com');
+
+    setcookie(name,value,'www.wbshop.com');
+ 
+			}
+
+		  /*
+		  * This function parses comma separated name=value 
+		  * argument pairs from the query string of the URL. 
+		  * It stores the name=value pairs in 
+		  * properties of an object and then returns that object
+		  * 
+		  * Jim K - From Orielly JSB pp 244
+		  */
+		  function getArgs() {
+			  var args = new Object();
+			  // Get Query String
+			  var query = location.search.substring(1); 
+			  // Split query at the comma
+			  var pairs = query.split("&"); 
+			  // Begin loop through the querystring
+			  for(var i = 0; i < pairs.length; i++) {
+				  // Look for "name=value"
+				  var pos = pairs[i].indexOf('='); 
+				  // if not found, skip to next
+				  if (pos == -1) continue; 
+				  // Extract the name
+				  var argname = pairs[i].substring(0,pos); 
+				  // Extract the value
+				  var value = pairs[i].substring(pos+1); 
+				  // Store as a property
+				  args[argname] = unescape(value); 
+			  }
+			  return args; // Return the Object
+		  }
+		  </script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="" onresize="">
+<script language="JavaScript" type="text/JavaScript">
+		        if(getcookie('referrer') == "") {
+				    ref = String(getReferrer());
+					host = getHost();
+					if (host != ref) {
+						if (ref != "") {
+							ref = 'http://'+ref;
+							setAllCookies('referrer',ref);
+						}
+					}
+				}
+		        if(getcookie('referer') == "") {
+				    ref = String(document.referrer);
+					host = getHost();
+					if (ref.indexOf(host) == -1) {
+						if (ref != "") {
+							setAllCookies('referer',ref);
+						}
+					}
+				}
+		        if(getcookie('entry_page') == "") {
+				    ref = String(document.location);
+					if (ref != "") {
+						setAllCookies('entry_page',ref);
+					}
+				}
+				var args = getArgs();
+				if (args.referral_id) {
+					setAllCookies('referral_id',args.referral_id);
+				}
+				if (args.pls1source_id) {
+					setAllCookies('referral_id',args.pls1source_id);
+				}
+		</script><table border="0" cellspacing="0" cellpadding="0" width="99%">
+<tbody><tr>
+<td rowspan="5" valign="top" width="74"><a href="/"><img src="/kernel/wbimages/logo_shield.gif" class="nospace" border="0" width="84" height="107" alt="WB"></a></td>
+<td width="95%"><table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr>
+<td><a href="/"><img height="28" class="nospace" border="0" src="/kernel/imageload?table=cat_images;key1=category__catlogo;key2=category__catlogo;key3=category__catlogo;key4=category_-100_catlogo" alt="WBShop.com"></a></td>
+<td width="288" valign="bottom" align="center" rowspan="3" background="/kernel/wbimages/tab_lines.gif"><table border="0" cellspacing="0" cellpadding="0" width="288"><tbody><tr>
+<td valign="bottom"><a href="/"><img src="/kernel/wbimages/tab_home_off.gif" class="nospace" width="39" height="16" border="0" alt="Home"></a></td>
+<td valign="bottom"><a href="/myaccount/" class="nav"><img src="/kernel/wbimages/tab_your.gif" class="nospace" width="72" height="16" border="0" alt="Your Account"></a></td>
+<td valign="bottom"><a href="/content.xml?cid=custserv_index"><img src="/kernel/wbimages/tab_customer.gif" class="nospace" width="87" height="16" border="0" alt="Customer Service"></a></td>
+<td valign="bottom"><img src="/kernel/wbimages/tab_security_on.gif" class="nospace" width="90" height="16" border="0" alt="Security &amp; Privacy"></td>
+</tr></tbody></table></td>
+<td align="right"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+<td><a href="/shopcart/"><img src="/kernel/wbimages/button_cart.gif" class="nospace" width="51" height="20" border="0" alt="View Cart"></a></td>
+<td><a href="/myaccount/list_orders.html"><img src="/kernel/wbimages/button_track.gif" class="nospace" width="58" height="20" border="0" alt="Track Order"></a></td>
+</tr></tbody></table></td>
+</tr>
+<tr>
+<td class="line01"><img src="/kernel/images/speck.gif" class="nospace" width="1" height="1"></td>
+<td class="line01"><img src="/kernel/images/speck.gif" class="nospace" width="1" height="1"></td>
+</tr>
+<tr>
+<td bgcolor="#FFCC00"><img src="/kernel/images/speck.gif" class="nospace" width="1" height="2"></td>
+<td bgcolor="#FFCC00"><img src="/kernel/images/speck.gif" class="nospace" width="1" height="2"></td>
+</tr>
+</tbody></table></td>
+<td><img src="/kernel/wbimages/header_cap2.gif" class="nospace" width="1" height="31"></td>
+</tr>
+<tr>
+<td class="line01" align="center"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+<td><a href="/content.xml?cid=security"><img src="/kernel/wbimages/button_security.gif" class="nospace" width="49" height="13" border="0" alt="Security"></a></td>
+<td><img src="/kernel/wbimages/nav_div.gif" class="nospace" width="24" height="13"></td>
+<td><a href="/content.xml?cid=privacy"><img src="/kernel/wbimages/button_privacy.gif" class="nospace" width="43" height="13" border="0" alt="Privacy"></a></td>
+<td><img src="/kernel/wbimages/nav_div.gif" class="nospace" width="24" height="13"></td>
+<td><a href="/content.xml?cid=terms"><img src="/kernel/wbimages/button_terms.gif" class="nospace" width="109" height="13" border="0" alt="Terms &amp; Conditions"></a></td>
+</tr></tbody></table></td>
+<td background="/kernel/wbimages/pixel_blue.gif"><img src="/kernel/images/speck.gif" class="nospace" width="1" height="1"></td>
+</tr>
+<tr>
+<td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr>
+<td bgcolor="#FF6600" width="33%"><table border="0" cellspacing="0" cellpadding="0">
+<form action="/search/"></form><tbody><tr>
+<td><input onblur="if (value == '') value =' Search'" onfocus="if (value == ' Search') value =''" type="text" name="keywords1" value=" Search" size="19"></td>
+<td>
+<input type="hidden" name="method" value="all"><input type="hidden" name="collection" value="sitebuilder/catalog-2">
+			&nbsp;<input type="image" border="0" name="go2" src="/kernel/wbimages/go_orange.gif" width="16" height="8" alt="Go">
+</td>
+</tr>
+<tr><td colspan="2" class="textwhite"><a href="/content.xml?cid=searchtips" class="linkwhite">Search Tips</a></td></tr>
+</tbody></table></td>
+<td bgcolor="#669900"><img src="/kernel/wbimages/pixel_blue.gif" class="nospace" width="1" height="42"></td>
+<td bgcolor="#669900" width="33%"><table border="0" cellspacing="0" cellpadding="0">
+<form name="shop_by_title" method="get" action="/catalog/category.xml"></form><tbody><tr>
+<td><span class="text"><select name="category_id" onchange="if (document.shop_by_title.category_id.options[document.shop_by_title.category_id.selectedIndex].value != '0') document.shop_by_title.submit();"><option value="0">Shop by Title</option>
+<option value="0">- - -</option>
+<option value="2629">Baby Looney Tunes</option>
+<option value="2585">Batman</option>
+<option value="2630">Bugs Bunny</option>
+<option value="2676">Friends</option>
+<option value="2677">Harry Potter</option>
+<option value="3247">Kangaroo Jack</option>
+<option value="2720">Looney Tunes</option>
+<option value="2810">Marvin the Martian</option>
+<option value="2949">Scooby-Doo</option>
+<option value="2993">Superman</option>
+<option value="3038">Taz</option>
+<option value="3708">The Matrix</option>
+<option value="2855">The Powerpuff Girls</option>
+<option value="3083">Tweety</option>
+<option value="3126">Wizard of Oz</option>
+<option value="3167">Wonder Woman</option></select></span></td>
+<td>
+                    &nbsp;<input type="image" border="0" name="go3" src="/kernel/wbimages/go_green.gif" width="16" height="8" alt="Go">
+</td>
+</tr>
+<tr><td colspan="2" class="textwhite">Movie, Character, or Show</td></tr>
+</tbody></table></td>
+<td bgcolor="#FF3333"><img src="/kernel/wbimages/pixel_blue.gif" class="nospace" width="1" height="42"></td>
+<td bgcolor="#FF3333" width="33%"><table border="0" cellspacing="0" cellpadding="0">
+<form name="shop_by_category" method="get" action="/catalog/category.xml"></form><tbody><tr>
+<td><span class="text"><input type="hidden" name="pcid1" value="2891"><select name="category_id" onchange="document.shop_by_category.submit();"><option value="0">Shop by Category</option>
+<option value="0">- - -</option>
+<option value="2892">Books and Calendars</option>
+<option value="2896">Clothing and Accessories</option>
+<option value="2909">Animation Cels &amp; Lithographs</option>
+<option value="3256">Bowling Gear</option>
+<option value="2910">DVDs</option>
+<option value="2911">Gifts</option>
+<option value="2916">Golf Gear</option>
+<option value="2917">Home Furnishings</option>
+<option value="2930">Newest Items</option>
+<option value="2931">Party Goods</option>
+<option value="3270">Sale Items</option>
+<option value="2932">Posters &amp; Prints</option>
+<option value="2933">Standees</option>
+<option value="2934">Stationery</option>
+<option value="2935">Toys &amp; Games</option>
+<option value="2946">Videos</option></select></span></td>
+<td><input type="image" border="0" name="go" src="/kernel/wbimages/go_red.gif" width="16" height="8" alt="Go"></td>
+</tr>
+<tr><td colspan="2" class="textwhite">Clothing, Toys, Posters, etc.</td></tr>
+</tbody></table></td>
+</tr></tbody></table></td>
+<td><img src="/kernel/wbimages/pixel_blue.gif" class="nospace" width="1" height="42"></td>
+</tr>
+<tr>
+<td class="line01"><img src="/kernel/wbimages/pixel_blue.gif" class="nospace" width="1" height="1"></td>
+<td><img src="/kernel/wbimages/pixel_blue.gif" class="nospace" width="1" height="1"></td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/kernel/images/speck.gif" width="1" height="23" class="nospace"></td>
+<td><img src="/kernel/images/speck.gif" width="1" height="34"></td>
+</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+<td valign="top" class="sidenavback"></td>
+<td valign="top" width="100%"><table align="center" width="97%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td><span class="smalltext"><img src="/kernel/images/speck.gif" class="nospace" width="8" height="15"><a href="/" class="breadcrumbnav">Home</a> &gt; 
+		<b>Privacy Policy</b></span></td></tr>
+<tr><td align="left">&nbsp;</td></tr>
+</tbody></table>
+<br><div class="bodytext"><ul>
+        <li><a href="content.xml?cid=privacy#collect" class="default">The Information We Collect</a></li>
+        <li><a href="content.xml?cid=privacy#use" class="default">How We Use the Information</a></li>
+        <li><a href="content.xml?cid=privacy#sponsors" class="default">Third-Party Sites and Sponsors</a></li>
+        <li><a href="content.xml?cid=privacy#cookies" class="default">Cookies</a></li>
+        <li><a href="content.xml?cid=privacy#commitment" class="default">Our Commitment to Security</a></li>
+        <li><a href="content.xml?cid=privacy#access" class="default">How You Can Access or Correct Information</a></li>
+        <li><a href="content.xml?cid=privacy#parents" class="default">Special Note for Parents</a></li>
+        <li><a href="content.xml?cid=privacy#contact" class="default">How to Contact Us</a></li>
+</ul>
+
+<p>Thank you for visiting Warner Bros. Online, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. <a class="default" href="http://www.warnerbros.com/main/cmp/privacy_sitelist.html" target="_blank">Click here</a> for a list of the Time Warner businesses whose sites are governed by this Privacy Notice.</p>
+<p><b>Information We Collect</b><a name="collect"></a><br>
+At some AOL Time Warner sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. </p>
+<p>At some other AOL Time Warner sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. </p>
+<p>At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings. </p>
+<p>We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). </p>
+
+<p><b>How We Use the Information</b><a name="use"></a><br>
+We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.</p>
+<p>We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. </p>
+<p>We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. </p>
+<p>The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. </p>
+<p>If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your screen name and other information you have provided to us. </p>
+<p>We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. </p>
+<p>We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. </p>
+<p>Agents and contractors of AOL Time Warner who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for AOL Time Warner. </p>
+<p>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. </p>
+<p>Certain Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please <a class="default" href="http://www.warnerbros.com/main/cmp/pr_6.html " target="_blank">click here</a>.</p>
+<p>AOL Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, <a class="default" href="http://www.warnerbros.com/main/cmp/pr_3.html" target="_blank">click here</a> for instructions on how to make your request.</p>
+<p>Finally, AOL Time Warner sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. </p>
+
+
+<p><b>Collection of Information by Third-Party Sites and Sponsors</b><b><a name="sponsors"></a><br>
+</b>Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. </p>
+<p>AOL Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. AOL Time Warner has no control over the third-party's use of this information. The AOL Time Warner site will notify you at the time of requesting personally identifiable information if these third-parties will obtain such information. </p>
+<p>Some AOL Time Warner sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please <a class="default" href="http://www.warnerbros.com/main/cmp/pr_11.html " target="_blank">click here.</a></p>
+
+
+<p><b>Cookies</b><a name="cookies"></a><br>
+To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. </p>
+<p>We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. </p>
+<p><b>Our Commitment to Security</b><a name="commitment"></a><br>
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. </p>
+
+<p><b>How You Can Access or Correct Information<a name="access"></a></b><br>
+For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please <a class="default" href="http://www.warnerbros.com/main/cmp/pr_11.html" target="_blank">click here</a>.</p>
+
+<p><b>Special Note for Parents</b><a name="parents"></a><br>
+The site you are visiting is one of the AOL Time Warner general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested. </p>
+
+<p><b>How to Contact Us</b><a name="contact"></a><br>
+If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at: <a class="default" href="mailto:privacy@wb.com">privacy@wb.com</a>. </p>
+<br>
+</div>
+</td></tr>
+<tr><td>&nbsp;</td></tr>
+</tbody></table></td>
+</tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="97%" align="center">
+<tbody><tr>
+<td rowspan="5" class="line01"><img src="/kernel/images/speck.gif" width="1" height="1"></td>
+<td class="line01"><img src="/kernel/images/speck.gif" width="1" height="1"></td>
+<td rowspan="5" class="line01"><img src="/kernel/images/speck.gif" width="1" height="1"></td>
+<td class="line01"><img src="/kernel/images/speck.gif" width="1" height="1"></td>
+<td rowspan="5" class="line01"><img src="/kernel/images/speck.gif" width="1" height="1"></td>
+<td class="line01"><img src="/kernel/images/speck.gif" width="1" height="1"></td>
+<td rowspan="5" class="line01"><img src="/kernel/images/speck.gif" width="1" height="1"></td>
+<td rowspan="5"><img src="/kernel/images/speck.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td width="33%" class="header01">&nbsp;Your Account</td>
+<td width="34%" class="header01">&nbsp;Customer Service</td>
+<td width="33%" class="header01">&nbsp;Security &amp; Privacy</td>
+</tr>
+<tr>
+<td valign="top" class="text" width="33%"><table border="0" cellspacing="0" cellpadding="3"><tbody><tr><td>
+<a href="/myaccount/signup.html?new=1" class="nav">Sign Up!</a><br><a href="/myaccount/index.html?loging=1" class="nav">Login</a><br><a href="/myaccount/forgotten_password.html" class="nav">Retrieve Password</a><br><a href="/myaccount/signup.html" class="nav">Edit Profile</a><br><a href="/myaccount/addressbook.html" class="nav">Address Book</a><br><a href="/myaccount/store_ccinfo.html" class="nav">Payment Choices</a><br><a href="/myaccount/list_orders.html" class="nav">Track Your Order</a><br><a href="/myaccount/calendar.html" class="nav">Calendar</a><br><a href="/myaccount/index.html?logout=1" class="nav">Log Out</a><br>
+</td></tr></tbody></table></td>
+<td valign="top" class="text" width="34%">
+          &nbsp;<a href="#" onclick="MM_openBrWindow('/content_popup.xml?cid=shipping','date','width=316,height=300,left=10,top=10,scrollbars=yes,resizable=yes');return false;" class="nav">Shipping &amp; Tax Information</a><br>
+      &nbsp;<a href="/content.xml?cid=mailorder" class="nav">Mail Orders</a><br>
+      &nbsp;<a href="/content.xml?cid=returns_exchanges" class="nav">Returns &amp; Exchanges</a><br>
+      &nbsp;<a href="/content.xml?cid=faqs" class="nav">FAQ</a><br>
+      &nbsp;<a href="/content.xml?cid=feedback" class="nav">Feedback</a><br>
+      &nbsp;<a href="/content.xml?cid=howtoorder" class="nav">How to Order</a><br>
+      &nbsp;<a href="/content.xml?cid=catalog_selection" class="nav">Catalog &amp; Selection</a><br>
+	  &nbsp;<a href="/content.xml?cid=affiliate" class="nav">Affiliate Program</a><br>
+      &nbsp;<a href="#" onclick="MM_openBrWindow('/content_popup.xml?cid=volumediscounts','date','width=300,height=300,left=10,top=10,scrollbars=no,resizable=yes');return false;" class="nav">Volume Discounts</a><br>
+</td>
+<td valign="top" class="text" width="33%">
+	  &nbsp;<a href="/content.xml?cid=privacy" class="nav">Privacy</a><br>
+      &nbsp;<a href="/content.xml?cid=security" class="nav">Security</a><br>
+      &nbsp;<a href="/content.xml?cid=terms" class="nav">Terms &amp; Conditions</a><br>
+</td>
+</tr>
+<tr>
+<td><img src="/kernel/images/speck.gif" width="1" height="2"></td>
+<td><img src="/kernel/images/speck.gif" width="1" height="2"></td>
+<td><img src="/kernel/images/speck.gif" width="1" height="2"></td>
+</tr>
+<tr>
+<td class="line01"><img src="/kernel/images/speck.gif" width="1" height="4"></td>
+<td class="line01"><img src="/kernel/images/speck.gif" width="1" height="4"></td>
+<td class="line01"><img src="/kernel/images/speck.gif" width="1" height="4"></td>
+</tr>
+<tr align="center"><td colspan="8">&nbsp;
+          </td></tr>
+</tbody></table>
+<table border="0" cellspacing="5" cellpadding="0" align="center" width="97%"><tbody><tr>
+<td align="left" valign="top"><p class="smalltext">Powered by<br><a href="http://www.novator.com" target="_blank"><img src="/kernel/images/novator_logo.gif" alt="Novator Systems" width="75" height="29" vspace="4" border="0"></a>
+</p></td>
+<td><p class="smalltext">HARRY POTTER Publishing Rights © J.K. Rowling, LOONEY TUNES, THE MATRIX, WB SHIELD: ™ &amp; © Warner Bros. THE POWERPUFF GIRLS: ™ &amp; © Cartoon Network. BATMAN, SUPERMAN and all related characters: ™ &amp; © DC Comics. SCOOBY-DOO: ™ &amp; © Hanna-Barbera. THE WIZARD OF OZ: ™ &amp; © Turner Entertainment Co.<br>(s03) 
+				  </p></td>
+</tr></tbody></table>
+
+
+</body></html>
