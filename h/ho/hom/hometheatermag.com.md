@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometheatermag.com privacy policy that was archived on 2002-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021020025802id_/http%3A//www.hometheatermag.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometheatermag.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621141147id_/http%3A//www.hometheatermag.com/privacy.shtml) for the most accurate reproduction.*
 
 # H O M E T H E A T E R M A G A Z I N E
 
