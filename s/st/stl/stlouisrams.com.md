@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2004-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040528041223id_/http%3A//www.stlouisrams.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2004-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041024192351id_/http%3A//www.stlouisrams.com/privacypolicy) for the most accurate reproduction.*
 
 # The official site of the St. Louis Rams - Privacy Policy
 
-**St. Louis Rams Privacy Policy **
+| 
+
+** |   
+---  
+**
 
 This privacy policy is applicable to the Website accessible at stlouisrams.com (collectively the 'Site'), which is operated pursuant to a strategic relationship between the St. Louis Rams and Network Applications (collectively, the 'PROVIDERS', 'we', 'our', or 'us'). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
@@ -79,8 +83,6 @@ At times, we may share your personally identifiable information with others for 
 
 **Chat Rooms, Forums, and Message Boards  
 ** The Site may make chat rooms, forums and message boards available to its users. You may choose to provide any personal information when using these areas. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. The PROVIDERS cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.  The message board allows you to make your personal information available to others.  Selecting this option is your choice. 
-
-****
 
 **Links to Other Web Sites**   
 This privacy policy applies only to this Site. When you are on the Site you could be directed to other sites beyond our control. For example, if you 'click' on a banner advertisement, the 'click' may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and others that may use the SiteÕs logo as part of a cobranding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information. 
