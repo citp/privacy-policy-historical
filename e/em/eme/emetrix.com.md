@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emetrix.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405205241id_/http%3A//emetrix.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emetrix.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021033733id_/http%3A//emetrix.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -26,5 +26,5 @@ If you have any questions about this privacy statement, the practices of this si
 Phone (US and Canada): 888-447-1175  
 Phone (International): 801-444-7176  
 Fax: 801-497-9456  
-| [](https://digitalid.verisign.com/as2/2d36cea9d38b9b2f185120171d4276d5)    
+| [](https://digitalid.verisign.com/as2/9deceffa0194f6ae5e70871075ba1f78)    
 ---|---
