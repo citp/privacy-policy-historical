@@ -1,91 +1,1095 @@
-<!--The following is the downloaded HTML source of the visitsingapore.com privacy policy that was archived on 2003-08-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030810040902id_/http%3A//www.stb.com.sg/legal/stb_ps.stm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visitsingapore.com privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602212340id_/http%3A//www1.visitsingapore.com/sections/3a/0%2C1138%2C461%2C00.html) for the most accurate reproduction.-->
 
-<html><head>
-<title>Privacy Statement</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-</head>
+<html><head><title>Privacy Statement</title>
 
-<body bgcolor="#FFFFFF">
-<table width="98%" border="0">
+<!-- Vignette Thu Jun  3 05:18:43 2004 -->
+
+<script language="JavaScript">
+<!--
+var PresenceReal;
+PresenceReal = 0;
+var numPlugins;
+var i;
+var plugin;
+
+
+function setSRC() {
+
+         if (navigator.appName == "Netscape") {
+                if(PresenceReal == 1) {
+//                     document.javaPlug1.SetSource(parent.main.realfilepath);
+                       document.javaPlug1.SetSource(realfilepath);
+                }
+                 
+        } else {
+//            RAOCX.Source=parent.main.realfilepath;
+            RAOCX.Source=realfilepath;
+        }
+}
+
+
+
+function playSource() {
+        if (navigator.appName == "Netscape") {
+                if(PresenceReal == 1) {
+//                       document.javaPlug1.SetSource(parent.main.realfilepath); 
+						document.javaPlug1.SetSource(realfilepath); 
+//                        if(parent.main.realfilepath != "")
+                        if(realfilepath != "")
+                        {       
+                                document.javaPlug1.DoPlayPause();
+                        } else {
+                                document.javaPlug1.DoStop();
+                        }
+                }       
+        } else {
+//                RAOCX.Source=parent.main.realfilepath;
+                RAOCX.Source=realfilepath;
+                if(RAOCX.Source != "") {
+                        RAOCX.DoPlayPause();
+                } else {
+                        RAOCX.DoStop();
+                }                       
+        }
+}
+
+
+
+function stopSource() {
+        if (navigator.appName == "Netscape") {
+                if(PresenceReal == 1) {
+                        document.javaPlug1.DoStop();
+               }
+        } else {
+                RAOCX.DoStop();
+        }
+}
+//-->
+</script>
+<!-- Vignette Thu Jun  3 05:18:43 2004 -->
+<!--object id="RAOCX" classid="clsid:CFCDAA03-8BE4-11cf-B84B-0020AFBBCCFA"  width="0" height="0"--> 
+        <!--PARAM NAME="SRC" VALUE="/real/rpm/test.rpm"-->
+        <!--param name="controls" value="StatusField"-->
+        <!--param name="autostart" value="true"--> 
+<!--/object-->
+
+
+			
+
+
+
+
+<script language="JavaScript">
+<!--
+var expDays = 365*30;
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+
+function SetCookie (name, value) 
+{
+	var argv = SetCookie.arguments;  
+	var argc = SetCookie.arguments.length;  
+	var expires = (argc > 2) ? argv[2] : null;  
+	var path = (argc > 3) ? argv[3] : null;  
+	var domain = (argc > 4) ? argv[4] : null;  
+	var secure = (argc > 5) ? argv[5] : false;
+	
+	document.cookie = name + "=" + escape (value) + 
+		((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
+		((path == null) ? "" : ("; path=" + path)) +  
+		((domain == null) ? "" : ("; domain=" + domain)) +    
+		((secure == true) ? "; secure" : "");
+}
+
+function GetCookie (name) 
+{
+	var arg = name + "=";  
+	var alen = arg.length;  
+	var clen = document.cookie.length;  
+	var i = 0;  
+	while (i < clen) {
+		var j = i + alen;    
+		if (document.cookie.substring(i, j) == arg)      
+			return getCookieVal (j);    
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i == 0) break;   
+	}  
+	return null;
+}
+
+function getCookieVal(offset) 
+{
+	var endstr = document.cookie.indexOf (";", offset);
+	if (endstr == -1)
+		endstr = document.cookie.length;
+	return unescape(document.cookie.substring(offset, endstr));
+}
+
+function setAudioState()
+{
+	var x;
+	if(document.SetAudio.AudioCheck.checked) {
+		SetCookie('AudioState','checked',exp,'/');
+	} else {
+		SetCookie('AudioState','unchecked',exp,'/');
+	}
+} 
+
+//-->
+</script>
+<script language="JavaScript">
+<!--
+var filepath;
+filepath = '';
+var realfilepath;
+
+var audioVal=GetCookie('AudioState');
+
+
+
+function loadEmbed()
+{
+	if (navigator.appName == "Netscape")
+	{
+		numPlugins = navigator.plugins.length;
+		for (i = 0; i < numPlugins; i++)
+		{
+			plugin = navigator.plugins[i];          
+			if (plugin.name.substring(0,10) == "RealPlayer")
+			{    
+				PresenceReal = 1;
+				document.writeln('<embed src="http://203.120.73.30:81/real/rpm/test.rpm" width=0 height=0 controls=StatusField name=javaPlug1 console="Clip1"></embed>');
+				setTimeout("playSource();", 2000);
+				break;
+			} else {
+				PresenceReal = 0;
+			}
+		}
+	} else {
+		playSource();
+	}
+}
+
+//	if ((filepath != "") && (top.bottom.iflag == 1)) {
+if ((filepath != "")) {
+//	realfilepath = 'pnm://203.120.73.31:7070/' + filepath;
+	realfilepath = filepath;
+//	realfilepath = '/real/rpm/test.ram';
+
+	// 4Nov99 - added in to check for cookie to turn off audio
+	if(audioVal != "checked") {
+		document.writeln('<meta http-equiv="Refresh" content="0;url=' + realfilepath + '">');
+	}
+	
+//		top.bgmusic.stopSource();
+//		top.bgmusic.playSource();
+//		stopSource();
+//Running this function will give a nasty javascript error...
+//		loadEmbed();	
+//		playSource();
+//		setTimeout("playSource();", 500);
+
+//	} else {
+//		top.bgmusic.setSRC();
+//		setSRC();
+}
+
+//-->
+</script>
+<link href="/css/main.css" rel="stylesheet" type="text/css"><script language="JavaScript">
+<!--
+function MM_goToURL() { //v1.0
+	for (var i=0; i< (MM_goToURL.arguments.length - 1); i+=2) //with arg pairs
+	eval(MM_goToURL.arguments[i]+".location='"+MM_goToURL.arguments[i+1]+"'");
+	document.MM_returnValue = false;
+}
+// -->
+</script><script language="JavaScript">
+<!--
+function goPage(form) {
+        j = form.SelectMenu.selectedIndex;
+        i = form.SelectMenu.options[j].value;
+                
+        if (i == "0" ) 
+			return;
+        else
+			parent.location.href = i;
+}
+
+browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )))
+
+if ( browser) {
+	normal = new MakeArray(1)
+	over = new MakeArray(1)                                
+                
+//    normal[1].src = "http://www1.visitsingapore.com/images/fe1_text_mo1.gif";
+
+//	over[1].src = "http://www1.visitsingapore.com/images/fe1_text_mo.gif";
+	
+// images = new Array("", "introduction");
+}
+                
+function MakeArray(n) {
+	this.length = n
+    for (var i = 1; i<=n; i++) {
+    	this[i] = new Image()
+    }
+    return this
+}
+
+
+function msover(num) {
+	if ( browser) { 
+		imgName = images[num];
+		document.images[imgName].src = over[num].src;
+	}
+}				
+
+function msout(num) {
+	if ( browser) { 
+		imgName = images[num];
+		document.images[imgName].src = normal[num].src;
+	}
+}
+
+function mailpage()
+{
+  mail_str = "mailto:";
+   mail_str += "?subject=Check out New Asia - Singapore!";
+  mail_str += "&body= You should check this out at, " + location.href;  
+  
+  location.href = mail_str;
+}
+
+ 
+
+// -->
+
+
+</script></head>
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+<!-- Vignette Thu Jun  3 05:18:43 2004 -->
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('http://www1.visitsingapore.com/images/L_search_go_over.gif','http://www1.visitsingapore.com/images/subleft_packages_over.gif','http://www1.visitsingapore.com/images/b_contactus_over.gif','http://www1.visitsingapore.com/images/b_planyrtrip_over.gif','http://www1.visitsingapore.com/images/b_tourpromo_over.gif','http://www1.visitsingapore.com/images/b_thingstodo_over.gif','http://www1.visitsingapore.com/images/b_placestogo_over.gif','http://www1.visitsingapore.com/images/b_abtsingapore_over.gif')">
+<!--- Top Header --->
+<!-- Vignette Thu Jun  3 05:18:43 2004 -->
+
+
+
+
+ 
+
+	
+			
+
+
+
+  <table width="750" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-    <td width="82%"> 
-      <blockquote> 
-        <p><font size="2" face="Courier New, Courier, mono"><b><u><a name="top"></a></u></b></font></p>
-        <table width="98%" border="0">
+    <td><a href="javascript:void(0);" onmouseover="MM_showHideLayers('abt','','hide','togo','','hide','todo','','hide','promos','','hide','plan','','hide','contact','','hide','hide','','hide','sitemap','','hide','contactus','','hide','home','','hide')"><img src="http://www1.visitsingapore.com/sections/images/nas_b.jpg" width="750" height="150" border="0" usemap="#/sections/images/nas_b.jpg"></a><map name="/sections/images/nas_b.jpg"><area shape="rect" alt="Uniquely Singapore" coords="745,8,573,69" href="/sections/articles/3c/1,1177,472,00.html"><area shape="default" nohref=""></map></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+<!-- Vignette Wed Apr 28 09:12:22 2004 -->
+<style type="text/css">
+<!--
+.altlink:link  
+{font-family: "Arial", "Helvetica", "sans-serif";font-size: 12px; color: #FFFFFF; text-decoration: none}
+.altlink:visited 
+{font-family: "Arial", "Helvetica", "sans-serif";font-size: 12px;color: #FFFFFF; text-decoration: none}
+.altlink:active 
+{font-family: "Arial", "Helvetica", "sans-serif";font-size: 12px;text-decoration: none}
+.altlink:hover 
+{font-family: "Arial", "Helvetica", "sans-serif";font-size: 12px;color: #FFFFFF; text-decoration: none; font-Weight: bold;}
+.altlink:focus 
+{font-family: "Arial", "Helvetica", "sans-serif";font-size: 12px;color: #FFFFFF; text-decoration: none}
+-->
+</style>
+
+<script language="JavaScript" src="/js/sect_real_plugins.js" type="text/javascript">
+</script>
+
+<script language="JavaScript" src="/js/det_aud_option.js" type="text/javascript">
+</script>
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+ 
+
+<div id="abt" style="position:absolute; left:1px; top:180px; width:90px; height:71px; z-index:3; visibility: hidden;"> 
+  <table width="100" border="0" cellpadding="3" cellspacing="1" bgcolor="#FFFFFF">
+  <tbody><tr>
+      <td bgcolor="#990000"><a href="/sections/articles/3c/1,1177,472,00.html" class="altlink"><font color="#FFFFFF">Uniquely Singapore</font></a></td>
+    </tr>
+    <tr>
+      <td bgcolor="#990000"><a href="/sections/articles/3c/1,1177,220,00.html" class="altlink"><font color="#FFFFFF">Introduction 
+        to Singapore</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,427,00.html" class="altlink"><font color="#FFFFFF">The 
+        Merlion</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/articles/3c_videos/1,1528,269,00.html" class="altlink"><font color="#FFFFFF">FunStuff</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a_faq/1,1558,264,00.html" class="altlink"><font color="#FFFFFF">FAQs</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,299,00.html" class="altlink"><font color="#FFFFFF">Did you know?</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/3a_quotes/1,1594,267,00.html" class="altlink"><font color="#FFFFFF">What our visitors are saying</font></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="togo" style="position:absolute; left:103px; top:180px; width:90px; height:71px; z-index:3; visibility: hidden;"> 
+  <table width="100" border="0" cellpadding="3" cellspacing="1" bgcolor="#FFFFFF">
+    <tbody><tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,211,00.html" class="altlink"><font color="#FFFFFF">Animal 
+        Kingdom</font></a></td>
+    </tr>
+	<!--<tr> 
+      <td bgcolor="#990000" ><a href="/sections/articles/3c/1,1177,226,00.html" class="altlink"><font color="#FFFFFF">Civic District</font></a></td>
+    </tr>-->
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,205,00.html" class="altlink"><font color="#FFFFFF">Ethnic 
+        Quarters</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,208,00.html" class="altlink"><font color="#FFFFFF">Isles of Singapore</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,210,00.html" class="altlink"><font color="#FFFFFF">Landmarks and Memorials</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,206,00.html" class="altlink"><font color="#FFFFFF">Museums</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,203,00.html" class="altlink"><font color="#FFFFFF">Nature 
+        Reserves</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,207,00.html" class="altlink"><font color="#FFFFFF">Places of Worship</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,362,00.html" class="altlink"><font color="#FFFFFF">Sculptures</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,209,00.html" class="altlink"><font color="#FFFFFF">Singapore 
+        River</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,212,00.html" class="altlink"><font color="#FFFFFF">Suburban Living</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,214,00.html" class="altlink"><font color="#FFFFFF">Theme &amp; Other Attractions</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,441,00.html" class="altlink"><font color="#FFFFFF">World War II Sites</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/articles/3c/1,1177,231,00.html" class="altlink"><font color="#FFFFFF">Attraction Links</font></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="todo" style="position:absolute; left:184px; top:180px; width:90px; height:71px; z-index:3; visibility: hidden;"> 
+  <table width="100" border="0" cellpadding="3" cellspacing="1" bgcolor="#FFFFFF">
+    <tbody><tr> 
+      <td bgcolor="#990000"><a href="/sections/3a_calendar/1,1478,304,00.html" class="altlink"><font color="#FFFFFF">Calendar 
+        of Events</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,464,00.html" class="altlink"><font color="#FFFFFF">Food 
+        &amp; Nightlife</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,216,00.html" class="altlink"><font color="#FFFFFF">Shopping</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/articles/3c/1,1177,247,00.html" class="altlink"><font color="#FFFFFF">Sports</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,456,00.html" class="altlink"><font color="#FFFFFF">Culture 
+        arts &amp; Entertainment</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="http://mice.visitsingapore.com/secb/scecsearch/cgi-bin/scecsearch.pl" class="altlink" target="_blank"><font color="#FFFFFF">MICE 
+        Calendar</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,465,00.html" class="altlink"><font color="#FFFFFF">Spa</font></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="promos" style="position:absolute; left:268px; top:180px; width:90px; height:71px; z-index:3; visibility: hidden;"> 
+  <table width="100" border="0" cellpadding="3" cellspacing="1" bgcolor="#FFFFFF">
+    <tbody><tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,403,00.html" class="altlink"><font color="#FFFFFF">Promos 
+        for visitors coming to Singapore </font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,417,00.html" class="altlink"><font color="#FFFFFF">Promos 
+        for visitors already in Singapore</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a_ltours/0,1408,252,00.html" class="altlink"><font color="#FFFFFF">Touring 
+        Singapore</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a_rtours/1,1421,256,00.html" class="altlink"><font color="#FFFFFF">Touring 
+        the Region</font></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="plan" style="position:absolute; left:364px; top:180px; width:90px; height:71px; z-index:3; visibility: hidden;"> 
+  <table width="100" border="0" cellpadding="3" cellspacing="1" bgcolor="#FFFFFF">
+    <tbody><tr> 
+      <td bgcolor="#990000"><a href="/sections/articles/3c_acc_loc/0,1435,248,00.html" class="altlink"><font color="#FFFFFF">Where 
+        to Stay</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="http://guides-online.visitsingapore.com" target="_blank" class="altlink"><font color="#FFFFFF">Find a Guide</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a(101)/1,1848,343,00.html" class="altlink"><font color="#FFFFFF">20 
+        Unique Things To Do</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3c_tourplanner/1,1634,323,00.html" class="altlink"><font color="#FFFFFF">Tour 
+        Planner</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a_brochures/0,1630,321,00.html" class="altlink"><font color="#FFFFFF">Request 
+        for Brochure</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/articles/3c/1,1177,263,00.html" class="altlink"><font color="#FFFFFF">Travellers 
+        Essentials </font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a/0,1138,223,00.html" class="altlink"><font color="#FFFFFF">Maps</font></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="contact" style="position:absolute; left:456px; top:180px; width:90px; height:71px; z-index:3; visibility: hidden;"> 
+  <table width="100" border="0" cellpadding="3" cellspacing="1" bgcolor="#FFFFFF">
+    <tbody><tr> 
+      <td bgcolor="#990000"><a href="/sections/articles/3c/1,1177,281,00.html" class="altlink"><font color="#FFFFFF">STB 
+        Worldwide</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/articles/3c/1,1177,379,00.html" class="altlink"><font color="#FFFFFF">Singapore 
+        Visitors Centres</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a_emailus/1,1910,409,00.html" class="altlink"><font color="#FFFFFF">Enquiries 
+        &amp; Feedback</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="/sections/3a_quotes/1,1594,267,00.html" class="altlink"><font color="#FFFFFF">Post 
+        Your Quotes</font></a></td>
+    </tr>
+	<tr> 
+      <td bgcolor="#990000"><a href="/sections/3a_unique/1,2003,473,00.html" class="altlink"><font color="#FFFFFF">Unique Ideas from Locals and Visitors</font></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#990000"><a href="javascript:void(0);" onclick="javascript:window.open('http://abuzz.visitsingapore.com/eng/member/subscribe.asp','_new','height=555,width=567,resizable=yes,scrollbars=yes');" class="altlink"><font color="#FFFFFF">Join 
+        Our Mailing List</font></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="hide" style="position:absolute; left:0px; top:180px; width:489px; height:160px; z-index:1; visibility: hidden;"><a href="javascript:;" onmouseover="MM_showHideLayers('abt','','hide','togo','','hide','todo','','hide','promos','','hide','plan','','hide','contact','','hide','hide','','hide','sitemap','','hide','contactus','','hide','home','','hide')"><img src="http://www1.visitsingapore.com/images/emptygif.gif" name="Image1" width="750" height="300" border="0" id="Image1"></a></div>
+<div id="sitemap" style="position:absolute; left:578px; top:180px; width:50px; height:7px; z-index:4; visibility: hidden;"> 
+  <table width="52" border="0" cellpadding="2" cellspacing="1" bgcolor="#336699">
+    <tbody><tr> 
+      <td bgcolor="#F0FAFF"><div align="center"><font color="#336699" size="1" face="Arial, Helvetica, sans-serif">sitemap</font></div></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="contactus" style="position:absolute; left:610px; top:180; width:50px; height:7px; z-index:4; visibility: hidden;"> 
+  <table width="62" border="0" cellpadding="2" cellspacing="1" bgcolor="#336699">
+    <tbody><tr> 
+      <td bgcolor="#F0FAFF"><div align="center"><font color="#336699" size="1" face="Arial, Helvetica, sans-serif">Display 
+          Print Cart</font></div></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="home" style="position:absolute; left:555px; top:180; width:50px; height:7px; z-index:4; visibility: hidden;"> 
+  <table width="50" border="0" cellpadding="2" cellspacing="1" bgcolor="#336699">
+    <tbody><tr> 
+      <td bgcolor="#F0FAFF"><div align="center"><font color="#336699" size="1" face="Arial, Helvetica, sans-serif">Home</font></div></td>
+    </tr>
+  </tbody></table>
+</div>
+<table width="750" border="0" cellspacing="0" cellpadding="0" class="altlink">
+  <tbody><tr> 
+    <td><a href="/sections/articles/3c/1,1177,220,00.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('abtsingapore','','http://www1.visitsingapore.com/images/b_abtsingapore_over.gif',1);MM_showHideLayers('abt','','show','togo','','hide','todo','','hide','promos','','hide','plan','','hide','contact','','hide','hide','','show','sitemap','','hide','contactus','','hide','home','','hide')"><img src="http://www1.visitsingapore.com/images/b_abtsingapore.gif" name="abtsingapore" width="105" height="30" border="0"></a></td>
+    <td><a href="/sections/3a/0,1138,211,00.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('placestogo','','http://www1.visitsingapore.com/images/b_placestogo_over.gif',1);MM_showHideLayers('abt','','hide','togo','','show','todo','','hide','promos','','hide','plan','','hide','contact','','hide','hide','','show','sitemap','','hide','contactus','','hide','home','','hide')"><img src="http://www1.visitsingapore.com/images/b_placestogo.gif" name="placestogo" width="80" height="30" border="0"></a></td>
+    <td><a href="/sections/3a_calendar/1,1478,304,00.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('thingstodo','','http://www1.visitsingapore.com/images/b_thingstodo_over.gif',1);MM_showHideLayers('abt','','hide','togo','','hide','todo','','show','promos','','hide','plan','','hide','contact','','hide','hide','','show','sitemap','','hide','contactus','','hide','home','','hide')"><img src="http://www1.visitsingapore.com/images/b_thingstodo.gif" name="thingstodo" width="85" height="30" border="0"></a></td>
+    <td><a href="/sections/3a/0,1138,403,00.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tours','','http://www1.visitsingapore.com/images/b_tourpromo_over.gif',1);MM_showHideLayers('abt','','hide','togo','','hide','todo','','hide','promos','','show','plan','','hide','contact','','hide','hide','','show','sitemap','','hide','contactus','','hide','home','','hide')"><img src="http://www1.visitsingapore.com/images/b_tourpromo.gif" name="tours" width="95" height="30" border="0"></a></td>
+    <td><a href="/sections/articles/3c_acc_loc/0,1435,248,00.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('planyrtrip','','http://www1.visitsingapore.com/images/b_planyrtrip_over.gif',1);MM_showHideLayers('abt','','hide','togo','','hide','todo','','hide','promos','','hide','plan','','show','contact','','hide','hide','','show','sitemap','','hide','contactus','','hide','home','','hide')"><img src="http://www1.visitsingapore.com/images/b_planyrtrip.gif" name="planyrtrip" width="93" height="30" border="0"></a></td>
+    <td><a href="/sections/3a_keepintouch/0,1485,307,00.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('bcontact','','http://www1.visitsingapore.com/images/b_contactus_over.gif',1);MM_showHideLayers('abt','','hide','togo','','hide','todo','','hide','promos','','hide','plan','','hide','contact','','show','hide','','show','sitemap','','hide','contactus','','hide','home','','hide')"><img src="http://www1.visitsingapore.com/images/b_contactus.gif" name="bcontact" width="97" height="30" border="0" id="bcontact"></a></td>
+    <td><a href="/main.htm" onmouseover="MM_showHideLayers('abt','','hide','togo','','hide','todo','','hide','promos','','hide','plan','','hide','contact','','hide','hide','','show','sitemap','','hide','contactus','','hide','home','','show')"><img src="http://www1.visitsingapore.com/images/b_home.gif" width="20" height="30" border="0"></a></td>
+    <td><a href="/sections/3c_website_index/0,1621,320,00.html" onmouseover="MM_showHideLayers('abt','','hide','togo','','hide','todo','','hide','promos','','hide','plan','','hide','contact','','hide','hide','','show','sitemap','','show','contactus','','hide','home','','hide')"><img src="http://www1.visitsingapore.com/images/b_sitemap.gif" width="28" height="30" border="0"></a></td>
+    <td><a href="/sections/printcart/display/1,1680,334,00.html" onmouseover="MM_showHideLayers('abt','','hide','togo','','hide','todo','','hide','promos','','hide','plan','','hide','contact','','hide','hide','','show','sitemap','','hide','contactus','','show','home','','hide')"><img src="http://www1.visitsingapore.com/images/b_print.gif" width="27" height="30" border="0"></a></td>
+    <td><a href="/index.html" onmouseover="MM_showHideLayers('abt','','hide','togo','','hide','todo','','hide','promos','','hide','plan','','hide','contact','','hide','hide','','hide','sitemap','','hide','contactus','','hide')"><img src="http://www1.visitsingapore.com/images/b_otherlang.gif" width="120" height="30" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+
+      <td background="http://www1.visitsingapore.com/images/b_audio.gif"><form name="SetAudio">
+        <table width="66%" height="30" border="0" align="right" cellpadding="0" cellspacing="0" background="http://www1.visitsingapore.com/images/emptygif.gif">
           <tbody><tr> 
-            <td width="70%"><font size="3"><font size="2"><b><font size="3" color="#000000">PRIVACY 
-              STATEMENT</font><font size="3"></font></b></font></font></td>
-            <td width="30%" rowspan="4">
-              <div align="center"><img src="stb-logo1.gif" width="120" height="80" align="center"></div>
-            </td>
-          </tr>
-          <tr> 
-            <td width="70%">&nbsp;</td>
-          </tr>
-          <tr> 
-            <td width="70%"><font size="3"><font size="2"><b><font size="3"><font color="#0000FF">SINGAPORE 
-              TOURISM BOARD PRIVACY STATEMENT:</font></font></b></font></font></td>
-          </tr>
-          <tr> 
-            <td width="70%">&nbsp;</td>
+            <td width="30%"> 
+			  <script language="JavaScript">
+			var audioVal=GetCookie('AudioState');
+			if(audioVal == "checked") {
+			  document.write('<INPUT TYPE="CHECKBOX" NAME="AudioCheck" CHECKED onClick="setAudioState()">');
+			} else {
+			  document.write('<INPUT TYPE="CHECKBOX" NAME="AudioCheck" onClick="setAudioState()">');
+			}
+			</script><input type="CHECKBOX" name="AudioCheck" onclick="setAudioState()">
+			</td>
+              <td width="70%">&nbsp;</td>
           </tr>
         </tbody></table>
-        <p align="left"><font face="Arial, Helvetica, sans-serif" size="2"> </font> 
-        </p>
-      </blockquote>
-       
-      <ol>
-        <li><font face="Arial, Helvetica, sans-serif" size="2">This is a Singapore 
-          Tourism Board website. Thank you for examining our privacy statement. 
-          </font> 
-          <p> 
-        </p></li>
-        <li><font face="Arial, Helvetica, sans-serif" size="2">If you are only 
-          browsing this website, we do not capture data that allows us to identify 
-          you individually.</font> 
-          <p> 
-        </p></li>
-        <li><font face="Arial, Helvetica, sans-serif" size="2"> If you choose 
-          to make an application or send us an e-mail for which you provide us 
-          with personally identifiable data, we may share necessary data with 
-          other Government agencies, so as to serve you in a most efficient and 
-          effective way, unless such sharing is prohibited by legislation. We 
-          will NOT share your personal data with non-Government entities, except 
-          where such entities have been authorised to carry out specific Government 
-          services.</font> 
-          <p>
-        </p></li>
-        <li><font face="Arial, Helvetica, sans-serif" size="2"> For your convenience, 
-          we may also display to you data you had previously supplied us or other 
-          Government agencies. This will speed up the transaction and save you 
-          the trouble of repeating previous submissions. Should the data be out-of-date, 
-          please supply us the latest data. We will retain your personal data 
-          only as necessary for the effective delivery of public services to you.</font> 
-          <p> 
-        </p></li>
-        <li><font face="Arial, Helvetica, sans-serif" size="2">To safeguard your 
-          personal data, all electronic storage and transmission of personal data 
-          are secured with appropriate security technologies.</font> 
-          <p> 
-        </p></li>
-        <li><font face="Arial, Helvetica, sans-serif" size="2">This site may contain 
-          links to non-Government sites whose data protection and privacy practices 
-          may differ from ours. We are not responsible for the content and privacy 
-          practices of these other websites and encourage you to consult the privacy 
-          notices of those sites. </font></li>
-      </ol>
-      <blockquote> 
-        <p><img src="images/foot.gif" width="6" height="10"> <b><font size="1" face="Arial, Helvetica, sans-serif"><a href="stb_ps.stm#top">back 
-          to top</a></font></b></p>
-        <br>
-        <p align="center"><font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.stb.com.sg/legal/index.stm">Copyright</a>
-          © 2003 Singapore Tourism Board. All rights reserved.</font></p>
-        <p><font face="Courier New, Courier, mono" size="2"> </font></p>
-      </blockquote>
-    </td>
+      </form></td>
   </tr>
+</tbody></table><table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="top">
+    <td width="140">
+<!--- Drop down menu to peer sections -->
+
+
+	
+<!-- Vignette Thu Jun  3 05:18:44 2004 -->
+<!-- search starts here//-->
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+  <td><img src="http://www1.visitsingapore.com/images/subleft_search_01.gif" width="130" height="38"></td>
+</tr>
+<tr> 
+  <td height="30" background="http://www1.visitsingapore.com/images/subleft_line_tile.gif">
+    <table width="95%" border="0" cellpadding="0" cellspacing="0" background="http://www1.visitsingapore.com/images/emptygif.gif">
+	<tbody><tr> 
+      <td width="5%">&nbsp;</td>
+      <td width="95%">
+	    <form method="post" action="http://www.visitsingapore.com/search?NS-search-page=results">
+	    <input type="hidden" name="NS-search-type" value="NS-boolean-query">
+	    <input type="hidden" name="NS-max-records" value="20">
+	    <input type="hidden" name="NS-collection" value="New Asia - Singapore Search Engine">
+		<input name="NS-query" type="text" size="8" value="">
+	  </form></td>
+    </tr>
+    <tr> 
+      <td width="5%">&nbsp;</td>
+      <td width="95%"><div align="right"> 
+        <input type="Image" src="http://www1.visitsingapore.com/images/L_search_go.gif" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','http://www1.visitsingapore.com/images/L_search_go_over.gif',1)" name="go" width="34" height="15" border="0">
+        </div>
+	  </td>
+    </tr>
+    
+    </tbody></table>
+  </td>
+</tr>
+<tr> 
+  <td><img src="http://www1.visitsingapore.com/images/subleft_ending.gif" width="130" height="4"></td>
+</tr>
+</tbody></table>
+<!-- search ends here//-->
+<!-- E-news starts here//-->
+<table width="130" border="0" cellpadding="0" cellspacing="0" background="http://www1.visitsingapore.com/images/emptygif.gif">
+<tbody><tr> 
+  <td><img src="http://www1.visitsingapore.com/images/emptygif.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+  <td height="110" background="http://www1.visitsingapore.com/images/subleft_enews.gif"><br> <br> 
+    <table width="90%" border="0" cellpadding="0" cellspacing="0" background="http://www1.visitsingapore.com/images/emptygif.gif">
+    <tbody><tr> 
+      <td width="10%" height="22">&nbsp;</td>
+      <td width="90%" height="22"><a href="javascript:void(0);" onclick="javascript:window.open('http://abuzz.visitsingapore.com/eng/member/subscribe.asp','_new','height=555,width=567,resizable=yes,scrollbars=yes');">
+	    <font color="#006699">:: Receive Our <br>&nbsp;&nbsp; E-Newsletter</font></a></td>
+    </tr>
+    <tr> 
+      <td width="10%" height="22">&nbsp;</td>
+      <td width="90%" height="22"><a href="/sections/articles/3c_highlights/1,1898,437,00.html"><font color="#006699">:: 
+		View Latest <br> &nbsp;&nbsp; E-Newsletter</font></a></td>
+    </tr>
+    </tbody></table>
+   </td>
+</tr>
+</tbody></table>
+<!-- E-news ends here//-->	
+	<!-- SubNav, Great Value, Getting to //-->
+	<!-- Vignette Thu Jun  3 05:18:44 2004 -->
+
+
+
+ 
+
+		
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+
+
+	
+
+
+
+<!-- SubNav starts here//-->
+<table width="130" border="0" cellpadding="0" cellspacing="0" background="http://www1.visitsingapore.com/images/emptygif.gif">
+<tbody><tr> 
+  <td><img src="http://www1.visitsingapore.com/images/emptygif.gif" width="10" height="10"></td>
+</tr>
+<tr> 
+  <td height="56" background="http://www1.visitsingapore.com/images/subleft_submenu01.gif">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td width="25%">&nbsp;</td>
+      <td width="75%"><strong>
+	    <font color="#FFFFFF"><strong>Footer Bar</strong></font></strong></td>
+    </tr>
+    </tbody></table>
+  </td>
+</tr>
+<tr> 
+  <td background="http://www1.visitsingapore.com/images/subleft_submenu02.gif"> 
+    <table width="95%" border="0" cellpadding="0" cellspacing="0" background="http://www1.visitsingapore.com/images/emptygif.gif">
+    <tbody><tr> 
+      <td width="8%" height="22">&nbsp;</td>
+      <td width="92%" height="22">
+        <table width="100%" border="0" cellspacing="2" cellpadding="1">
+		
+        
+         <tbody><tr valign="top"> 
+           <td width="5%">•</td>
+           <td width="95%">
+	       
+		     
+		   
+	         
+			   			 			 
+			<a href="/sections/3a/0,1138,324,00.html"><font color="#000000">Our Websites</font></a>			
+				      	      </td>
+        </tr>
+                </tbody></table>
+	  </td>
+    </tr>
+    </tbody></table>
+  </td>
+</tr>
+<tr>
+  <td><img src="http://www1.visitsingapore.com/images/subleft_submenu03.gif" width="130" height="10"></td>
+</tr>
+</tbody></table>
+<!-- SubNav ends here//-->
+<!-- Great Value package starts here//-->
+<table width="130" border="0" cellpadding="0" cellspacing="0" background="http://www1.visitsingapore.com/images/emptygif.gif">
+        <tbody><tr> 
+          <td><img src="http://www1.visitsingapore.com/images/emptygif.gif" width="10" height="10"></td>
+        </tr>
+        <tr> 
+          <td valign="top"><a href="/sections/3a/0,1138,403,00.html" onmouseover="MM_swapImage('Image2','','http://www1.visitsingapore.com/images/subleft_packages_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www1.visitsingapore.com/images/subleft_packages.gif" name="Image2" width="130" height="74" border="0" id="Image2"></a></td>
+        </tr>
+      </tbody></table><!-- Great Value Package ends here//-->
+      <!-- Getting to Sp starts here//--><table width="130" border="0" cellpadding="0" cellspacing="0" background="http://www1.visitsingapore.com/images/emptygif.gif">
+        <tbody><tr> 
+          <td><img src="http://www1.visitsingapore.com/images/emptygif.gif" width="10" height="10"></td>
+        </tr>
+        <tr> 
+          <td height="33"><img src="http://www1.visitsingapore.com/images/subleft_gettingtosp_01.gif" width="130" height="56"></td>
+        </tr>
+        <tr> 
+          <td valign="top" background="http://www1.visitsingapore.com/images/subleft_gettingtosp_02.gif"> <table width="95%" border="0" cellpadding="0" cellspacing="0" background="http://www1.visitsingapore.com/images/emptygif.gif">
+              <tbody><tr valign="top"> 
+                <td width="8%">&nbsp;</td>
+                <td width="92%"><table width="100%" border="0" cellspacing="0" cellpadding="1">
+                    <tbody><tr valign="top"> 
+                      <td width="5%"><font color="#006699">•</font></td>
+                      <td width="95%"><a href="http://app.ica.gov.sg/travellers/entry/visa_requirements.asp" target="_blank"><font color="#006699">Visa 
+                        &amp; Entry Facilities</font></a></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td><font color="#006699">•</font></td>
+                      <td><a href="/sections/articles/3c/1,1177,259,00.html"><font color="#006699">Airlines</font></a></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td><font color="#006699">•</font></td>
+                      <td><a href="/sections/articles/4a/0,1176,760,00.html"><font color="#006699">Driving 
+                        into Singapore</font></a></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td><font color="#006699">•</font></td>
+                      <td><a href="http://intranet.mssinet.gov.sg/nowcast/3dayotlk.htm" target="_blank"><font color="#006699">Weather</font></a></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td><font color="#006699">•</font></td>
+                      <td><a href="http://forex.asia1.com/currency.html" target="_blank"><font color="#006699">Currency 
+                        Converter</font></a></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td><font color="#006699">•</font></td>
+                      <td><a href="/sections/3a/0,1138,460,00.html"><font color="#006699">List 
+                        of Errant Retailers</font></a></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td><font color="#006699">•</font></td>
+                      <td><a href="/sections/3a_quotes/1,1594,267,00.html"><font color="#006699">What 
+                        Our Visitors Are
+                        Saying</font></a></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr> 
+          <td><img src="http://www1.visitsingapore.com/images/subleft_gettingtosp_03.gif" width="130" height="10"></td>
+        </tr>
+      </tbody></table><!-- Getting to SP ends here//-->	<br>
+    </td>
+    <td width="450">
+	  <!-- Sub Title starts here//-->
+
+<!-- Vignette Thu Jun  3 05:18:45 2004 -->
+<!---added later-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+  <td>
+
+
+
+
+	<img src="http://www1.visitsingapore.com/sections/images/privacy_ban.gif" alt="" width="430" height="60" border="0">
+  </td>
+</tr>
+</tbody></table><!-- Sub Title ends here//-->
+	  
+	  <!------ Main Body Text ------->
+	  <table width="100%" border="0" cellspacing="0" cellpadding="5">
+      <tbody><tr>
+	    <td><p><b>SINGAPORE TOURISM BOARD PRIVACY STATEMENT:</b><br><br><br>
+	</p>
+	<ol>
+	  <li>
+		This is a Singapore Tourism Board website. Thank you for examining our 
+		privacy statement. <br><br>
+	  </li><li>
+		If you are only browsing this website, we do not capture data that allows us to 
+		identify you individually. <br><br>
+	  </li><li>
+		If you choose to make an application or send us an e-mail for which you provide 
+		us with personally identifiable data, we may share necessary data with other Government agencies, 
+		so as to serve you in a most efficient and effective way, unless such sharing is prohibited by 
+		legislation. We will NOT share your personal data with non-Government entities, except where such 
+		entities have been authorised to carry out specific Government services. <br><br>
+	  </li><li>
+		For your convenience, we may also display to you data you had previously 
+		supplied us or other Government agencies. This will speed up the transaction and save you the 
+		trouble of repeating previous submissions. Should the data be out-of-date, please supply us the 
+		latest data. We will retain your personal data only as necessary for the effective delivery of 
+		public services to you. <br><br>
+	  </li><li>
+		To safeguard your personal data, all electronic storage and transmission of 
+		personal data are secured with appropriate security technologies. <br><br>
+	  </li><li>
+		This site may contain links to non-Government sites whose data protection and 
+		privacy practices may differ from ours. We are not responsible for the content and privacy 
+		practices of these other websites and encourage you to consult the privacy notices of those sites.
+	  </li>
+	</ol></td>
+	  </tr>
+
+<tr><td valign="top" align="left">
+
+
+
+
+
+
+	
+<table width="90%" cellpadding="10" cellspacing="10">
+<tbody><tr>
+  <td align="center" valign="top">
+
+
+
+
+</td>
+</tr>
 </tbody></table>
 
 
-</body></html>
+
+
+</td>
+   </tr>
+   </tbody></table>
+   
+<br><br>
+
+
+<!-- Vignette Thu Jun  3 05:18:45 2004 -->
+
+
+
+ 
+
+
+	
+	
+
+<form method="post" action="/sections/printcart/save/1,1679,332,00.html">
+	<input type="HIDDEN" name="articleid" value="461">
+	<input type="HIDDEN" name="type" value="1">
+	<input type="HIDDEN" name="auxiliaryid" value="NullData">
+	<input type="HIDDEN" name="auxiliary2id" value="NullData">
+ 	<input type="IMAGE" name="Add to Print Cart" src="http://www1.visitsingapore.com/printcart/images/addprint_icon.gif" border="0">
+</form>
+
+<br>
+<a href="javascript:mailpage()"><img src="http://www1.visitsingapore.com/articles/images/email_icon.gif"></a>
+
+<br><br>
+<!-- Vignette Thu Jun  3 05:18:45 2004 -->
+
+
+
+ 
+
+
+
+	<script language="JAVASCRIPT">
+<!--
+function display_video(name, filename, menubar, scrollbar, resizeable, width, height) { 
+
+myWindow = window.open("/multimedia/photobubble/display/1,1982,,00.html?photobubble=" + filename,name,"toolbar=0,location=0,directories=0,status=no,menubar=" + menubar + ",scrollbars=" + scrollbar +",resizable=" + resizeable + ",copyhistory=0,width=" + width + ",height=" + height);
+myWindow.focus();
+} 
+
+
+//-->
+</script>
+<table align="RIGHT" cellspacing="0" cellpadding="0" border="0">
+
+
+
+</table><br>
+ </td>
+ <td width="160">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr> 
+   <td height="20"><div align="center"></div></td>
+ </tr>
+ <tr> 
+   <td><div align="right">
+<!------ Callouts ------->
+
+	<!-- Vignette Thu Jun  3 05:18:45 2004 -->
+ 
+
+
+ 
+ 
+
+	
+
+
+
+			
+		
+												
+		
+
+
+				
+		
+							
+		
+		
+		
+
+	
+		
+	
+
+
+	
+	
+	
+	
+					
+		
+		
+	
+		
+	
+
+
+			
+			
+							
+		
+	
+		
+		
+	
+
+	
+				
+					
+		
+	
+			<a href="/sections/articles/4a/1,1176,324,00.html">	<img src="http://www1.visitsingapore.com/callouts/images/call_62.gif" border="0" alt="Late-night satay, blues and antiques...nowhere but Clarke Quay" width="150" height="250"></a>
+	
+	
+
+</div>
+   </td>
+ </tr>
+ <!-- Promo banners starts here//-->
+ <!-- Vignette Wed Apr 28 09:12:19 2004 -->
+<tr> 
+     <td height="20"><div align="right"></div></td>
+   </tr>
+   <tr> 
+          <td><div align="right"><a href="/sections/3a/0,1138,464,00.html"><img src="http://www1.visitsingapore.com/images/rightpromo_banner/r_letsmakan.gif" width="150" height="98" border="0"></a></div></td>
+        </tr>
+        <tr> 
+          <td height="20"><div align="right"></div></td>
+        </tr>
+        <tr> 
+          <td><div align="right"><a href="http://www.singaporemedicine.com" target="_blank"><img src="http://www1.visitsingapore.com/images/rightpromo_banner/r_medicinelogo.jpg" width="148" height="62" border="0"></a></div></td>
+        </tr>
+        <tr> 
+          <td height="20"><div align="right"></div></td>
+        </tr>
+        <tr> 
+          <td><div align="right"><a href="http://www.singaporeedu.gov.sg" target="_blank"><img src="http://www1.visitsingapore.com/images/rightpromo_banner/r_edu.gif" width="103" height="115" border="0"></a></div></td>
+        </tr> <tr> 
+   <td height="20"><div align="right"></div></td>
+ </tr>
+ </tbody></table>
+ <!-- Promo banners ends here//-->
+</td>
+</tr>
+</tbody></table>
+  
+<!-- Vignette Thu Jun  3 05:18:45 2004 -->
+
+
+
+ 
+
+
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="top"> 
+    <td width="2%">&nbsp;</td>
+    <td width="98%"><font color="#333333">...................................................................................................................................................................................................................................................</font><br>
+      <br>
+      <span class="medium"><font color="#666666">Call the Singapore Tourism Board's 24-hour Touristline at 1-800-736-2000 (toll free in Singapore only) for tourist information or to speak to our Customer Service Officer.</font></span><font color="#666666"><br>
+      <br>
+      <font size="1" face="Arial, Helvetica, sans-serif">Copyright © 1998 
+      - 2004 Singapore Tourism Board. All rights reserved.</font></font><font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
+      <a href="/sections/articles/3c_highlights/1,1898,298,00.html" target="_blank"><font face="Arial, Helvetica, sans-serif">Website 
+      Terms of Use. </font></a><a href="/sections/articles/3c_highlights/1,1898,461,00.html" target="_blank"><font face="Arial, Helvetica, sans-serif">Privacy 
+      Statement.</font></a></font><font color="#990000" size="1" face="Verdana, Arial, Helvetica, sans-serif"><br>
+      <br>
+      <br>
+      </font></td>
+  </tr>
+</tbody></table>
+
+ 
+ </body></html>
