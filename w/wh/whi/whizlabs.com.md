@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the whizlabs.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205102437id_/http%3A//www.whizlabs.com/privacy-policy.html) for the most accurate reproduction.*
+
+# WHIZlabs Privacy Policy
+
+WHIZlabs' recognizes the trust you place on privacy protection on the Internet. Our employees and associates share the same and will strive to protect your privacy, including the non-identifying information you share in the personal profile that you must complete in order to use the trial versions of our various products.
+
+Personally identifiable information of individual members/users will not be sold or otherwise transferred to unaffiliated third parties without the member/user's prior consent. WHIZlabs stores the Internet Protocol (IP) address of your computer when you visit our site. 
+
+This information is only used to create broad statistical/demographic summaries of our members/users. The IP addresses are not used to identify who the actual users are. However, WHIZlabs may use registration information and other information voluntarily submitted in the following ways: · To provide our research/editorial team with information that is useful in developing new features and services for WHIZlabs' users;   
+\- To provide advertisers or sponsors with aggregate and not individual, information; and   
+\- To allow us to potentially vary advertising according to user preference. WHIZlabs reserves the right to analyses and profile behaviour and characteristics of member/user in order to measure interest in and use of the various areas of the site and to inform advertisers of such information. WHIZlabs may sometimes permit third parties to offer subscription and/or registration-based services through WHIZlabs. In this event, WHIZlabs does not hold responsibility for any actions or policies of such third parties and members/users should check the applicable privacy policy of such party before providing personally identifiable information.
+
+Voluntary Disclosure of personally identifiable information on Bulletin Boards, Chat Rooms, and other Interactive Areas (collectively referred to as ‘Interactive Areas’). Members/users should be aware that when they voluntarily disclose personally identifiable information (for example, user name, e-mail address) on the Bulletin Boards or chat areas of WHIZlabs, that information, along with any substantive information disclosed in the member's/user's communication, can be collected and correlated and used inappropriately by third parties. Such activities are beyond the control of WHIZlabs and we take no responsibility for the outcome of the same. 
