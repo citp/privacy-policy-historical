@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2002-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020617014730id_/http%3A//www.startups.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217030939id_/http%3A//www.startups.co.uk/privacy) for the most accurate reproduction.*
 
 # Comprehensive resource for people in business providing the latest news and business information
 
