@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2002-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020220064258id_/http%3A//hotelclub.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210165154id_/http%3A//www.hotelclub.net/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - HotelClub.net
+# HotelClub.net - Privacy Policy
 
 **How we use the information**  
 When you become a member of HotelClub or submit a booking request, we use the collected information in several ways: 
 
-In addition, your email address is collected to send you an email message confirming your new member registration and each reservation you transact online. As a member you will occasionally receive updates from us about special rate offers, newsletters and any noteworthy changes to the website. However, you may always decline to receive these email messages. Please see our Opting Out policy described below.
+In addition, your email address is collected to send you an email message confirming your new member registration. As a member you will occasionally receive updates from us about special rate offers, newsletters and any noteworthy changes to the website. However, you may always decline to receive these email messages. Please see our Opting Out policy described below.
 
 We disclose your information to third parties (such as our hotels) only for the purpose of completing your transaction with us, providing the above services to you and for the purposes of associated administration. We do not sell, rent or trade your personal information to third parties for marketing purposes.
 
-Like most Web sites, there is certain information we automatically track, including the URL that you just came from, which URL you go to next, the browser you are using and your IP address. This data is utilised to improve the services of HotelClub and does not include any personally identifying information.
+Like most web sites, there is certain information we automatically track, including the URL that you just came from, the browser you are using and your IP address. This data is utilised to improve the services of HotelClub and does not include any personally identifying information.
 
 **How to access or correct your information**  
-At any time, HotelClub members can view and/or update all the information in their member profile. To do so, login on the [Membership Homepage](https://web.archive.org/membership.asp) and click on “Update Profile” to view and/or make the required changes. Should you wish to cancel your membership with HotelClub, simply notify us by sending an email to [customer_service@hotelclub.net](mailto:customer_service@hotelclub.net).
+At any time, HotelClub members can view and/or update all the information in their member profile. To do so, login on the [Membership Homepage](https://web.archive.org/membership.asp) and click on "Update Profile" to view and/or make the required changes. Should you wish to cancel your membership with HotelClub, simply notify us by sending an email to [customer_service@hotelclub.net](mailto:customer_service@hotelclub.net). 
 
 **Our commitment to data security**  
 All information you provide to HotelClub is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. To view the THAWTE SSL security certificate, [click here](javascript:openCertDetails\(\)).
