@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606164020id_/http%3A//refog.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224005253id_/http%3A//www.refog.com/privacy.htm) for the most accurate reproduction.*
 
 # ReFog Software - Privacy
 
