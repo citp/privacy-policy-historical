@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the imf.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203222408id_/http%3A//www.imf.org/external/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imf.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606214450id_/http%3A//www.imf.org/external/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - IMF Website
 
-[Terms and Conditions](https://web.archive.org/web/20031203222408id_/http%3A//www.imf.org/external/terms.htm)
+[Terms and Conditions](https://web.archive.org/web/20040606214450id_/http%3A//www.imf.org/external/terms.htm)
 
-[Rights and Permissions](https://web.archive.org/external/pubs/rights.htm)
+[Copyright and Permissions](https://web.archive.org/external/pubs/rights.htm)
 
 [IMF Disclosure/Transparency Policy](https://web.archive.org/external/np/sec/pn/2002/pn02111.htm)
 
-[Access to IMF Archives](https://web.archive.org/external/np/exr/facts/archive.htm)
+[Access to IMF Archives](https://web.archive.org/external/np/arc/eng/archive.htm)
 
 [Contact Us](https://web.archive.org/external/np/exr/contacts.htm)
 
