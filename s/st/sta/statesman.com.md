@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207222554id_/http%3A//www.statesman.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406000124id_/http%3A//www.statesman.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,14 +10,14 @@ We care about your privacy. We will not sell your name or email address to any t
 
 Statesman.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Cox Texas Newspapers, L.P., d/b/a Austin American-Statesman ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our General Manager:
 
-Larry Sanders  
+Jim Debth  
 General Manager  
 Statesman.com  
 305 South Congress Avenue  
 Austin, Texas 78704  
 Phone: (512) 912-2510  
 Fax: (512) 912-2926  
-e-mail: [lsanders@statesman.com](mailto:lsanders@statesman.com)
+e-mail: [jdebth@statesman.com](mailto:jdebth@statesman.com)
 
 Or email us by [using this form](http://www.statesman.com/search/content/feedback/privacypolicy.html).
 
