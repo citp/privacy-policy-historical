@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the containerandpackaging.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621151016id_/http%3A//www.containerandpackaging.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the containerandpackaging.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121141240id_/http%3A//containerandpackaging.com/privacy.htm) for the most accurate reproduction.*
 
-# Containers, packaging, plastic storage containers, water storage containers.
+# Plastic Containers
 
   | **Our Commitment to Privacy:**
 
@@ -31,7 +31,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **Our Commitment To Children's Privacy:**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13\.   
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.   
   
   | 
 
