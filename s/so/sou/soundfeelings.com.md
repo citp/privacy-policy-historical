@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the soundfeelings.com privacy policy that was archived on 2000-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000416101823id_/http%3A//www.soundfeelings.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundfeelings.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205054600id_/http%3A//soundfeelings.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Sound Feelings - Privacy Policy
 
-|  
+|   
 
- **What Private Information do we Collect?**
+**What Private Information do we Collect?**
 
 To ease your mind, by just clicking on our site, absolutely no information is tracked or collected about you. However, when  
 you write, phone, fax or email us, or when you place an order, we take your information. This allows us to reply to your  
-questions or comments, to process and fulfill your orders and to notify you of your order status. In these cases we would   
+questions or comments, to process and fulfill your orders and to notify you of your order status. In these cases we would  
 need your name, e-mail address, mailing address, telephone numbers credit card number and expiration date. 
 
 
@@ -48,7 +48,7 @@ Tel: 818-757-0600
 Fax: 818-757-0834   
 email: [comments@soundfeelings.com](mailto:comments@soundfeelings.com)
 
-Please also see our [Security Statement](https://web.archive.org/web/20000416101823id_/http%3A//www.soundfeelings.com/about/security.htm).
+Please also see our [Security Statement](https://web.archive.org/web/20001205054600id_/http%3A//soundfeelings.com/about/security.htm).
 
 
 
