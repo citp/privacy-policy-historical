@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605215750id_/http%3A//www.texasmonthly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2004-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040917080421id_/http%3A//www.texasmonthly.com/privacy) for the most accurate reproduction.*
 
 # Texas Monthly: Privacy Statement
 
