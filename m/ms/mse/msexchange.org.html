@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the msexchange.org privacy policy that was archived on 2004-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041207183548id_/http%3A//www.msexchange.org/pages/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the msexchange.org privacy policy that was archived on 2005-03-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050306122335id_/http%3A//www.msexchange.org/pages/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
   <title>Privacy statement</title>
@@ -64,7 +64,7 @@ if (browName=='Netscape'){
 else
      { document.write('<ifr'+'ame src="http://ads.isoftmarketing.com/getad.asp?ZoneID=16&Task=Get&SiteID=7&X=' + browDateTime + '" width=470 height=80 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
 // --> 
-</script><iframe src="http://ads.isoftmarketing.com/getad.asp?ZoneID=16&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=7&amp;X=1580436909847" width="470" height="80" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+</script><iframe src="http://ads.isoftmarketing.com/getad.asp?ZoneID=16&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=7&amp;X=1580436911093" width="470" height="80" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
 <noscript>
     <a href="http://ads.isoftmarketing.com/Ad.aspx?ZoneID=16&Task=Click&Mode=HTML&SiteID=7&PageID=64765" target="_new">
     <img src="http://ads.isoftmarketing.com/Ad.aspx?ZoneID=16&Task=Get&Mode=HTML&SiteID=7&PageID=64765" width="470" height="80" border="0"></a>
@@ -98,9 +98,11 @@ else
              <script language="JavaScript">
               function click_tree_menu(obj)
                {
-                 if (obj && obj.parentNode && obj.parentNode.parentNode)
+                 var vis = "";
+                 if (obj && obj.parentNode && obj.parentNode.parentNode && obj.parentNode.parentNode.parentNode && obj.parentNode.parentNode.parentNode.rows)
                   {
-                    var curObj = obj.parentNode.parentNode.nextSibling;
+                    var rIndex = obj.parentNode.parentNode.rowIndex + 1;
+                    var curObj = obj.parentNode.parentNode.parentNode.rows[rIndex];
                     if (! curObj || curObj.className != "child") return;
 
                     var  re = new RegExp(obj.id + "=[0|1];*","gi");
@@ -118,10 +120,10 @@ else
                        obj.parentNode.style.backgroundColor = "";
                      } 
              
-                    while (curObj.className == "child")
+                    while (curObj && (curObj.className == "child"))
                      {
                        curObj.style.display = vis;
-                       curObj = curObj.nextSibling;
+                       curObj = obj.parentNode.parentNode.parentNode.rows[rIndex++];
                      }
                   }
                }
@@ -166,7 +168,8 @@ else
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
               <tr><td class="menucontainer"><a id="mnt_services" onclick="click_tree_menu(this); return false;" class="menuitem" href="#">Services</a></td></tr>
-              <tr class="child" style="display: none"><td class="menucontainerlast"><a class="menuitem2" href="/services/Exchange_Hosting/">Exchange Hosting</a></td></tr>
+              <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/services/Anti-Spam-Filtering/">Anti Spam Filtering</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainerlast"><a class="menuitem2" href="/services/Exchange-Hosting/">Exchange Hosting</a></td></tr>
 
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
@@ -186,6 +189,7 @@ else
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Migration/">Migration</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Misc.-Exchange-server-software/">Misc. Exchange server software</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Outlook-Addons/">Outlook Addons</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/OWA-Addons/">OWA Addons</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/POP3-Downloaders/">POP3 Downloaders</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Reporting/">Reporting</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Security-&amp;-Encryption/">Security &amp; Encryption</a></td></tr>
@@ -198,8 +202,8 @@ else
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
               <tr><td align="center">
 <!-- Begin Ban Man Pro Static Banner Code -->
-<a href="http://ads.isoftmarketing.com/Ad.aspx?ZoneID=0&amp;BannerID=167&amp;AdvertiserID=8&amp;CampaignID=116&amp;Task=Click&amp;SiteID=7&amp;RandomNumber=61681" target="_Blank"><img src="http://banners.isoftmarketing.com/fex-woman-best_price-orange(120x60).gif" width="120" height="60" border="0"></a>
-<img src="http://ads.isoftmarketing.com/Ad.aspx?ZoneID=0&amp;BannerID=167&amp;AdvertiserID=8&amp;CampaignID=116&amp;Task=Get&amp;Mode=TEXT&amp;SiteID=7&amp;RandomNumber=61681" width="1" height="1" border="0">
+<a href="http://ads.isoftmarketing.com/Ad.aspx?ZoneID=0&amp;BannerID=504&amp;AdvertiserID=8&amp;CampaignID=116&amp;Task=Click&amp;SiteID=7&amp;RandomNumber=61681" target="_Blank"><img src="http://banners.isoftmarketing.com/MailArchiver-email-archiving(120x60).gif" width="120" height="60" border="0"></a>
+<img src="http://ads.isoftmarketing.com/Ad.aspx?ZoneID=0&amp;BannerID=504&amp;AdvertiserID=8&amp;CampaignID=116&amp;Task=Get&amp;Mode=TEXT&amp;SiteID=7&amp;RandomNumber=61681" width="1" height="1" border="0">
 <!-- End Ban Man Pro Static Banner Code -->
 </td></tr>
 
@@ -218,13 +222,17 @@ else
 <!-- End Ban Man Pro Banner Code -  Site: MSExchange.org  Zone: MSE - Featured WP -->
 <!--</td></tr>-->
 
-<tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Readers' Choice</a></td></tr><tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr><tr><td align="center"><table border="0" width="100%"><tbody><tr><td valign="top"><form method="POST" action="/poll/vote.asp" name="poll"><input type="hidden" name="QID" value="30"><font color="#63583A"><b>Vote for your preferred Exchange Migration solution:</b><br><font size="1"><br></font>
-<input name="AID" type="radio" value="185">Aelita Migration Wizard<br>
-<input name="AID" type="radio" value="186">Imanami Migration<br>
-<input name="AID" type="radio" value="187">KVS Enterprise Vault<br>
-<input name="AID" type="radio" value="188">NetIQ Migrator<br>
-<input name="AID" type="radio" value="189">Quest Migrator<br>
-<input name="AID" type="radio" value="190">Other <input name="other" type="text" size="12" value="please specify" onfocus="if (this.defaultValue==this.value) { this.value = ''; }"><br>
+<tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr><tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Readers' Choice</a></td></tr><tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr><tr><td align="center"><table border="0" width="100%"><tbody><tr><td valign="top"><form method="POST" action="/poll/vote.asp" name="poll"><input type="hidden" name="QID" value="32"><font color="#63583A"><b>What's your preferred Anti Virus solution for Exchange?</b><br><font size="1"><br></font>
+<input name="AID" type="radio" value="199">CA eTrust<br>
+<input name="AID" type="radio" value="200">GFI MailSecurity<br>
+<input name="AID" type="radio" value="201">Kaspersky AntiVirus<br>
+<input name="AID" type="radio" value="202">NAI Group Shield<br>
+<input name="AID" type="radio" value="203">Panda AntiVirus<br>
+<input name="AID" type="radio" value="204">Sophos Mail Monitor<br>
+<input name="AID" type="radio" value="205">Sybari Antigen<br>
+<input name="AID" type="radio" value="206">Symantec AntiVirus<br>
+<input name="AID" type="radio" value="207">Trend ScanMail<br>
+<input name="AID" type="radio" value="208">Other <input name="other" type="text" size="12" value="please specify" onfocus="if (this.defaultValue==this.value) { this.value = ''; }"><br>
 <br></font><center><input type="submit" value="Vote!"></center></form></td></tr></tbody></table></td></tr>
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
@@ -367,7 +375,7 @@ else
    <tr><td bgcolor="#E8E8E8" background="/img/bg_line.gif" align="center" class="smalltext">
       <img src="/img/copy.gif" width="18" height="13" align="absMiddle">MSExchange.org is in no way affiliated with Microsoft Corp.
       *Links are sponsored by advertisers.<br>
-      Copyright © 2004 <a href="http://www.isoftmarketing.com" target="_blank">Internet Software Marketing Ltd.</a> All rights reserved. Please read our <a href="/pages/privacy.asp">online privacy statement.
+      Copyright © 2005 <a href="http://www.isoftmarketing.com" target="_blank">Internet Software Marketing Ltd.</a> All rights reserved. Please read our <a href="/pages/privacy.asp">online privacy statement.
    </a></td></tr>
   </tbody></table>
 
