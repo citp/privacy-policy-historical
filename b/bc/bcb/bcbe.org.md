@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbe.org privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024170229id_/http%3A//bcbe.org/site/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbe.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209180337id_/http%3A//www.bcbe.org/site/privacy.shtml) for the most accurate reproduction.*
 
 # BCBE - About our Site - Privacy Statement
 
@@ -36,6 +36,6 @@ Contacting the web site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-_Keith Kanne_
+_Matt Thomas_
 
-Baldwin County Board of Education 1091 B Ave. Loxley, AL 36551 [kkanne@bcbe.org](mailto:kkanne@bcbe.org)
+Baldwin County Board of Education [webmaster@bcbe.org](mailto:webmaster@bcbe.org)
