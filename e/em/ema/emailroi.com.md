@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailroi.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207060324id_/http%3A//www.emailroi.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailroi.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607051819id_/http%3A//www.emailroi.com/privacy.htm) for the most accurate reproduction.*
 
 # emailROI - email marketing campaigns, opt-in direct e-mail services, permission list rentals, ROI
 
@@ -22,4 +22,4 @@ If you have received unwanted, unsolicited email sent via our system or purporti
 
 We reserve the right to modify this policy at any time.
 
-This policy was last updated: June 10, 2003.
+This policy was last updated: May 2004.
