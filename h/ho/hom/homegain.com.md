@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205020900id_/http%3A//homegain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604010257id_/http%3A//homegain.com/privacy) for the most accurate reproduction.*
 
 # HomeGain -- Home valuations, find real estate agents, sell your home
 
@@ -23,4 +23,7 @@ Any related account and personal information maintained by HomeGain.com is done 
 **E-mail at HomeGain.com**  
 E-mail is an important communication channel for our online customers. E-mails sent automatically to agents or sellers through the function of the Control Center are kept anonymous. On occasion, we may use your e-mail address to send you communications with information about service and product information that we believe may be of interest to you. If you do not want to receive such unsolicited communications from HomeGain.com, simply contact us at [info@homegain.com](mailto:info@homegain.com). 
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Please click here for more information on DoubleClick and its [privacy policy](http://www.doubleclick.net/privacy_policy/), information collected in the process of delivering an ad to you and your choices regarding delivery of targeted ad campaigns. 
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. This company may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. Please click here for more information on [DoubleClick and its privacy policy](http://www.doubleclick.net/naiprivacy), information collected in the process ofdelivering an ad to you and your choices regarding delivery of targeted ad campaigns. 
+
+**Third Party Cookies**   
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
