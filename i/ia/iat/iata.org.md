@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204170438id_/http%3A//www.iata.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603085428id_/http%3A//www1.iata.org/privacy.htm) for the most accurate reproduction.*
 
 # IATA - Privacy Policy
 
 Privacy Policy
-
-  
-
 
 IATA respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us . We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites.
 
@@ -25,12 +22,16 @@ If you have any questions regarding IATA's Privacy Policy, please e-mail us at
 
 If your request is **not** about privacy, please see our [help page](https://web.archive.org/help.htm)
 
-__**_
+__
+
+**_
 
 The IATA Online Store:   
 Privacy Protection Measures
 
-_** **
+_**
+
+ **
 
 Your personal information
 
@@ -57,19 +58,11 @@ What does the IATA Online Store use your personal information for?
 
 The **IATA Online Store** is committed to keeping your personal information confidential. Below are details about the information we collect, when we collect it and how we use it:
 
-****
-
 **When you place an order** with the **IATA Online Store** we collect your name, address, telephone number, credit card information and your e-mail address. We use this information to fulfill your order and to communicate with you about your order.
-
-****
 
 **When you register** with the **IATA Online Store** we collect your name, address, telephone number and your e-mail address. If you're a registered customer, you enter your billing and shipping information only once each time you shop and you can also access your Order History (under "My Account") to review information about past online purchases.
 
-****
-
 **You can review or revise your personal information at any time**. Simply click "My Account" at the top of any page on our site.
-
-****
 
 **You can create a list of products** you may want to buy later. Simply click "My Products" at the top of any page on our site.
 
@@ -87,7 +80,9 @@ If you arrive on the **IATA Online Store** with your Cookies turned off, you won
 
 Does the IATA Online Store disclose personal customer information to third parties?
 
-** __
+**
+
+ __
 
 Users' non-aggregated specific personal information is not currently sold, rented or made available to anyone other than the **IATA Online Store** , but we may decide to do so in the future. If this were to happen, the **IATA Online Store** would announce such a plan and ask you to "opt in". By default, we'd assume that you don't want in - if you wanted to share your personal information, you would have to respond positively. In the absence of such a response, your information would not be shared with anyone other than the **IATA Online Store**.
 
@@ -98,7 +93,9 @@ The **IATA Online Store** also reserves the right to change this Privacy Policy 
 i. to satisfy any law, regulation, law enforcement investigation or subpoena;   
 ii. to protect the rights or property of the **IATA Online Store** and its users, sponsors, providers, licensors or merchants.
 
- __**
+ __
+
+**
 
 Shopping at the IATA Online Store is safe and secure
 
@@ -111,12 +108,8 @@ Only when it reaches the **IATA Online Store** servers is your information decry
 
 How can you be sure any connection is secure? Simply look at the lower left-hand corner of your browser window after accessing a server. If you see an unbroken key or a closed lock (depending upon your browser), the SSL is active and your information is secure. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from 'http' to 'https.' Some versions of browsers and some firewalls don't permit communication even though the server is secure.
 
- ****
-
-**Comments or questions**
+ **Comments or questions**
 
 If you have any comments or questions about our Privacy Policy and its application to transactions on the Online Store, send us an e-mail at the following address: [privacy@iata.org](mailto:privacy@iata.org) _._
 
 If your request is **not** about privacy, please see our [help page](https://web.archive.org/help.htm)
-
-|  | 
