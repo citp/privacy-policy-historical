@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corbis.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619132040id_/http%3A//www.corbis.com/help/index.asp%3Fsub%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corbis.com privacy policy that was archived on 2000-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001010224605id_/http%3A//www.corbis.com/help/index.asp%3Fsub%3Dprivacy) for the most accurate reproduction.*
 
 # Corbis - Help
 
