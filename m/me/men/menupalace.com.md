@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menupalace.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605082045id_/http%3A//www.menupalace.com/menupalace/privacystatement/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menupalace.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204173451id_/http%3A//www.menupalace.com/menupalace/privacystatement/privacystatement.asp) for the most accurate reproduction.*
 
 # menupalace.com Corporation Privacy Statement
 
