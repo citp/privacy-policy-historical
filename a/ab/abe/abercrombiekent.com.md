@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abercrombiekent.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201210253id_/http%3A//abercrombiekent.com/html/termsprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abercrombiekent.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601090822id_/http%3A//abercrombiekent.com/html/termsprivacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Abercrombie & Kent Inc.
 
