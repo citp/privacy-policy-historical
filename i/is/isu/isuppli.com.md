@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the isuppli.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406150439id_/http%3A//www.isuppli.com/copyright/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isuppli.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201070427id_/http%3A//isuppli.com/copyright/privacy.asp) for the most accurate reproduction.*
 
-# iSuppli | Privacy Notice
+# iSuppli | Privacy Terms
 
 |  | 
 
-  
-iSuppli.com Privacy Notice   
-  
-
+iSuppli.com Privacy Statement
 
 Your privacy is important to iSuppli, and we appreciate your expectation that we will share information about you carefully and responsibly. This privacy statement describes our commitment to the protection of your privacy through adherence to fair electronic information practices. Specifically, this privacy statement sets forth (i) the types of personal information collected by iSuppli, (ii) how iSuppli collects user information, (iii) how iSuppli uses personal information, (iv) how iSuppli protects personal information, (v) with whom, if anyone, user information is shared, and (vi) how you may access, verify, and if necessary, correct personal information iSuppli has collected about you. 
 
@@ -39,15 +36,17 @@ In addition, as noted above, we use the information we collect to better underst
 
 **Does iSuppli Share the Personal Information it Receives?**
 
-iSuppli may, from time to time, license personal information about its customers to selected third-party vendors who may have products and/or services that may benefit our clients. We carefully select such vendors, and will only provide information to those third-party vendors who agree to adhere to the terms of our privacy policy. 
+iSuppli 
+
+_does not_
+
+share personal information except as described below: 
 
    ·   
 
 _Agents and Service Providers:_
 
-iSuppli engages other companies and individuals to perform services on our behalf. Examples of these services include processing credit card payments,
-
-sending postal mail and e-mail to you, and analyzing data. While these agents and service providers many have access to your personal information in connection with the performance of services for iSuppli, they may not use such information for any purpose other than providing such services to iSuppli. 
+iSuppli engages other companies and individuals to perform services on our behalf. Examples of these services include processing credit card payments, **[providing customer services,]** sending postal mail and e-mail to you, and analyzing data. While these agents and service providers many have access to your personal information in connection with the performance of services for iSuppli, they may not use such information for any purpose other than providing such services to iSuppli. 
 
    ·   
 
