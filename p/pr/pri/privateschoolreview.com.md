@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the privateschoolreview.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207024436id_/http%3A//www.privateschoolreview.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateschoolreview.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308192629id_/http%3A//www.privateschoolreview.com/privacy.php) for the most accurate reproduction.*
 
 # Private School Review - Privacy Policy
 
 1\. WHAT THIS PRIVACY POLICY COVERS
 
-This policy covers how Private School Review treats personal information that we collect and receive, including information related to your past use of Private School Review products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.This policy does not apply to the practices of companies that Private School Review does not own or control, or to people that Private School Review does not employ or manage.
+This policy covers how Private School Review treats personal information that we collect and receive, including information related to your past use of Private School Review products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that Private School Review does not own or control, or to people that Private School Review does not employ or manage.
 
 2\. THE INFORMATION COLLECTED
 
