@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaltele.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606073456id_/http%3A//www.totaltele.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltele.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204143427id_/http%3A//www.totaltele.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # TOTAL TELECOM - Privacy Statement
 
@@ -9,10 +9,10 @@ TOTAL TELECOM Privacy Statement
 It is important for **TOTAL TELECOM** to safeguard its users' privacy while also providing a personalized and valuable service. The collection of personal information of users is necessary if **TOTAL TELECOM** is to satisfy the expectations and requirements of these users, for instance by communicating with them and providing an interactive service.
 
 **1\. What Information is compiled?**  
-In addition to the details on your registration form, information is automatically retrieved, for example on browsing patterns through the site. This is used only in aggregate form; no individual user is identified. The aggregate data allows **TOTAL TELECOM** to analyze the site traffic and manage its relationship with advertisers and thus provide a more relevant service to its users.
+In addition to the details on your registration/subscription form, information is automatically retrieved, for example on browsing patterns through the site. This is used only in aggregate form; no individual user is identified. The aggregate data allows **TOTAL TELECOM** to analyze the site traffic and manage its relationship with advertisers and thus provide a more relevant service to its users.
 
 **2\. What do we do with the information we collect?  
-**The personal information you supplied on your **TOTAL TELECOM** registration form will not be disclosed outside EMAP plc. The email address you provide when you first became an **TOTAL TELECOM** user allows us to send you information about important changes and improvements to the web site. Each time you receive a message, you have the option to decline to receive further marketing information relating to the activities of other parts of EMAP plc. This can be undertaken by stating as such by reply e-mail.
+**The personal information you supplied on your **TOTAL TELECOM** registration form will not be disclosed outside Terrapinn Limited. The email address you provide when you first became an **TOTAL TELECOM** user allows us to send you information about important changes and improvements to the web site. Each time you receive a message, you have the option to decline to receive further marketing information relating to the activities of other parts of Terrapinn Limited. This can be undertaken by stating as such by reply e-mail.
 
 **3\. What is a cookie?  
 TOTAL TELECOM** uses a "cookie" to save time in allowing access to the site (it saves checking the registration database). A cookie is a small piece of information sent from **TOTAL TELECOM** to your computer, to help us identify you quickly. If you prefer not to accept a cookie, you can log in fully each time you use **TOTAL TELECOM**. 
