@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the webshots.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602211250id_/http%3A//www.webshots.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webshots.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002123032id_/http%3A//www.webshots.com/r/mdocs/privacy) for the most accurate reproduction.*
 
 # Webshots Customer Information Privacy Policy
 
-  
+**Webshots Privacy Policy**
+
+Webshots is committed to protecting the privacy of its users, and making your Webshots experience enjoyable and safe. When you download our software, our photos, register for our online services, send our electronic greetings, or other email, the information you provide to us is used only to customize your experience and to deliver email notifications to you (or people you designate as your recipients). The names and email addresses you give us when you simply send a card are NOT sold, compiled into any type of mailing list, or otherwise used for any type of email solicitation. Our data collection policies with regard to current and future services allow you to choose how much information you provide to us, and to control how we use that information. Read below to find out more. 
+
+**Privacy Philosophy  
+**  
 The Internet is rapidly changing the way all of us communicate and interact with each other. While the Internet allows each of us access to a greater array of information and services than has ever been available, these new online activities do raise new challenges, such as the privacy issues addressed in this policy. Webshots is committed to working with public policy organizations, industry groups, and government institutions to understand and address these challenges as they arise. But most importantly, having a relationship with our customers that is founded on trust is not only good manners, it is also good business. Any feedback you'd like to provide to help us better meet your expectations in this arena is welcomed. 
 
 **Our Commitment to You  
@@ -14,7 +19,7 @@ Information collected online is often defined as being either anonymous or perso
 
 **Third Party Advertisers.  
 **  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>
 
 Third Party Cookies  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
@@ -44,3 +49,5 @@ Webshots operates secure data networks protected by industry standard firewall a
 **How you can correct any inaccuracies in the information  
 **  
 Webshots believes strongly in providing you with the ability to access and edit the personal information that you have provided to us. To update the information retained about you, please visit our Webshots User Info area. 
+
+© 1995-2003 Twofold Photos, Inc. All rights reserved.
