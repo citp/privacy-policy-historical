@@ -1,33 +1,95 @@
-> *The following text is extracted and transformed from the iconocast.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603165301id_/http%3A//www.iconocast.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconocast.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205554id_/http%3A//iconocast.com/privacy.htm) for the most accurate reproduction.*
 
-# ICONOCAST - Privacy Statement
+# Iconocast privacy policy
 
-Protecting your privacy is a top priority at ICONOCAST. We've taken precautions to secure your information and our physical premises. Questions regarding this statement should be directed to [webmaster@iconocast.com](mailto:webmaster@iconocast.com).
+### **New Page[Top Economy News](https://web.archive.org/web/20040602205554id_/http%3A//iconocast.com/Top.htm)**
 
-ICONOCAST uses your IP address to help diagnose problems with our server and to administer our site. Your IP address may also be used to gather broad demographic information.
+_**Your privacy is of outmost importance to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.**_
 
-##### Site Feedback
+## How We Protect the Security of Your Information
 
-Under "[Contact Us](https://web.archive.org/contact.html)," we maintain e-mail links to various ICONOCAST members to collect feedback on products and services. We collect visitors' contact information (like e-mail address). Customer contact information is used only to respond to inquiries.
+  
+For your privacy, we employ the latest encryption and security technology and fraud detection techniques in all areas of iconocast.com where you provide us with personal or account information. This is done to protect you from unauthorized use of the information you are sending to our server. To make sure you have the latest security features on your browser, please download and install the latest version of your favorite browser, Microsoft Internet Explorer or Netscape Communicator. Please note, for privacy purposes, once you give us any information relating to you, it is stored on a highly secure server that is not accessible via the Internet. All these is for your own privacy. Your privacy is important for all of us to build trust and make sure our business is sound.
 
-##### E-mail List
+**_Regarding the the Information We Collect about you, your project and others:_**
 
-If you choose to receive our weekly newsletter, we ask for an e-mail address you would like ICONOCAST sent to. We do not sell your e-mail address. On occasion, no more than four times per month, we may send, on behalf of third parties, relevant offers of interest. We will never sell your e-mail address to these parties. In order to provide this service, e-mail addresses are shared with DoubleClick DARTMail. Customer contact information is used to contact visitors when necessary. To opt out of receiving future mailings, visit our [Newsletter Preferences Center](https://web.archive.org/resources/profile/index.html).
+This notice applies to all information collected or submitted on the iconocast.com website. On some pages, you can order services, make requests, and register to receive materials. No Credit/Debit Card Information is requested since we use PAYPAL services. 
 
-##### Online Surveys
+**What Information Do We Collect from You and How Do We Use It?**
 
-Occasionally we send out an online survey via e-mail to random newsletter subscribers. Our surveys ask visitors for contact information (e-mail address) and general demographic data (such as gender, geographic location or occupation). We use survey results on an aggregate basis to improve ICONOCAST. No personal information is shared with third parties. We do not sell your e-mail address to marketers.
+_**IP address.**_
 
-##### Ad Serving
+When you visit our Web site, our server automatically recognizes your Internet Protocol address (IP address) or domain name. In order to enhance our Web site, we may track the way our visitors and customers are using the site. Personal information, such as your name and e-mail address, is not included in this analysis. Unless you provide it, we do not collect or know your name or e-mail address. We do not follow your browsing path outside of iconocast.com.
 
-We use a third-party organizations to serve ads. ICONOCAST may use information (but not your name, address, e-mail address or telephone number) about visits to our site, in combination with non-personally identifiable information about your purchases and interests from other sources, in order to provide ads about goods and services of interest to you.
+**_Cookies._**
 
-In addition, we share site usage information with other companies for the sole purpose of managing and targeting ads and for market research. ICONOCAST and third-party ad servers may occasionally track pages you visit through with pixel tags (or "clear gifs"). In the course of serving ads, an advertiser may place or recognize a unique "cookie" on your computer. To learn more about information collection practices of third-party advertisers and your options, [click here](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp).
+In addition, like most other e-commerce Web sites, our site uses "cookies" -- small files placed temporarily in your Internet browser -- to keep track of your stay at our Web site. The text in a cookie, by itself, only tells us that you have visited our site before. A cookie generated by our site contains no information about you and does not gather information from your computer about you. It contains only an alphanumeric ID that, for example, allows you to retrieve your shopping basket. In this way, the cookie lets you continue shopping where you left off with your last visit without losing any of the items in your list.  
 
-##### Contacting ICONOCAST
 
-If you have any questions about this privacy statement or the practices of this site, contact:
+**_Personal Information._**
 
-ICONOCAST  
-San Francisco, CA 94107  
-[webmaster@iconocast.com](mailto:webmaster@iconocast.com)
+When you place an order, request a catalog, sign up for our Online testing of your website, participate in a promotion or contest, or provide feedback, we ask you to provide information including your name, telephone number, web address, web age, information about your project and new ideas, marketing budgets, and e-mail address . 
+
+If you provide us with your postal address, e-mail address or telephone number, you may receive our catalog or other promotional mailings, e-mails or telephone calls. If you receive e-mail from us that you would rather not receive, simply send us an e-mail and inform us to follow the unsubscribe instructions. If you do not wish to receive our catalog, other promotional mailings or telephone calls, please write to us at the address set forth below. We will be happy to respect your request not to participate in our direct marketing programs.
+
+We do not share e-mail names collected on our site for purposes of permitting other companies to market to you through e-mail. Providing us your e-mail address will not result in your receiving unsolicited commercial e-mail from any third party.
+
+The personally identifying information you provide us and information regarding your order may be disclosed to certain third parties that assist us in the ordinary course of business, subject to appropriate confidentiality agreements. These vendors may include (but are not limited to) our catalog printer, common carriers, mail list and market analysis bureaus, credit card or leasing companies and in some cases the manufacturers of the product you purchase. Please contact us at the below address and we will be happy to direct you to these vendors if you would like to review their privacy policies and practices.  
+
+
+**_Visitors from our Affiliates._**
+
+When you enter our Web site via a link from another web site, it is possible that the other web site is an affiliate participating in our Affiliate Program. Under this program, we are required to disclose information regarding the purchases you complete on our Web site to our Affiliates. If you do not want us to disclose such information to the affiliate site, you must enter our web site directly rather than via a link.
+
+Certain Affiliates in our Affiliate Program offer reward, scrip, loyalty and other similar programs to their members. Scrip programs allow you to instruct the Affiliate to contribute a percentage of the amount you spend at iconocast to participating schools and other non-profit organizations. Loyalty and reward programs allow you to earn “points” or cash back on purchases at iconocast, which you can then redeem or deposit as provided by the rules of the individual program. If you choose to participate in any membership, reward, scrip, loyalty or similar program in which is a participating vendor, the Affiliate offering the program should obtain your consent to have iconocast share your purchasing information with the Affiliate. In order for you to receive your awards under these programs, we are required to provide the Affiliate with personally identifying information regarding you and your transaction. Each Affiliate is responsible for the information it collects, and has its own privacy policy that may differ from ours. You should review these policies carefully. If you do not want us to disclose such information to the Affiliate, you must contact the Affiliate directly. This may preclude you from participating in the special program offered by that Affiliate.  
+
+
+**_Information From Children._** We do not direct our Web site to children under thirteen (13) years of age.
+
+**_Aggregate Information._** We reserve the right to disclose to third parties aggregate, non-personal information about our users and their usage of this Web site and any related service. Any information disclosed will be in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
+
+**_Transmission Errors or Unauthorized Acts._** Although we will use all reasonable efforts to safeguard the confidentiality of your personal information, transmissions made by means of the Internet cannot be made absolutely secure. 
+
+**_Required by Law._** In extreme cases, where required by law, we may be forced to release information regarding our customers to permit the investigation of credit card fraud, illegal use of the Internet, or cases of misconduct on our Web site.
+
+**_Other Web Sites._** This Privacy Policy only addresses iconocast.com and our information gathering practices. To the extent that you disclose personal information to other Web sites, you are subject to other Web sites’ privacy policies. We encourage you to review a third party Web sites’ privacy policies before you disclose any personal information which may be collected by a third party.
+
+**_Change of Ownership._** In the event that either of our Web sites become owned or controlled by other individuals or entities, the information we have collected may be transferred to such party or parties. To the maximum extent allowed by law, however, such individuals or entities will be required to use information only in accordance with the provisions of this privacy policy.
+
+You must know that we use the information you provide about yourself when placing an order only to complete that order and give you the service you need. We do not share any of this information with outside parties. We might share this information with third party professionals who will assist us in giving you a better service. For example, if you need Flash design for your site and we are not capable to design the flash you need, we might ask third party consultants to help us assist you with your project. We will make sure that these professionals will not use your information for their personal use or releasing it to other advertisers. 
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+
+You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+
+We might use the information you provide to improve our website. However, we absolutely do not use any identifying and aggregate information to share with advertisers. 
+
+**Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate Internet Security, two Firewalls (one from Symantec and one from Kerio), physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+### **We do not relate or work with children; however, we are most committed To Any Children's Privacy. No person under the age of 18 is allowed to do business with us.**
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. 
+
+## **How You Can Access Or Correct Your Information**
+
+You can access all your personally identifiable information that we collect online and maintain by secure database by sending us an email and requesting for information. We use this procedure to better safeguard your information. 
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. **corey(at )katir.com**
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+## **How To Contact Us**
+
+Should you have other questions or concerns about these privacy policies, please call us at 949 500 8638 or send us an email at **corey(at )katir.com**
+
+[**Iconocast offers eMarketing, Internet Advertising, Online Advertising, Internet Marketing, Online Branding, and eMarketing News Services**](http://www.iconocast.com/).
+
+[**Home Bound Mortgage offers great rates, home mortgage, and Refinancing.**](http://www.homeboundmortgage.com/)
+
+[**Home Mortgage Refinancing, Home Loans, Guide, Process, and News.**](http://www.home-mortgage-loan-refinancing.com/) **[Health News](https://web.archive.org/web/20040602205554id_/http%3A//H/Health_News.htm)**
+
+[**Huntington Beach Real Estate and Beautiful Huntington Beach Homes**](http://www.southern-california-real-estate.org/)
+
+**[I support eMarketing Association eMA](http://www.emarketingassociation.com/)**
