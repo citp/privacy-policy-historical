@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofoklahoma.com privacy policy that was archived on 2002-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020210040225id_/http%3A//www.bankofoklahoma.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofoklahoma.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208092127id_/http%3A//www.bankofoklahoma.com/privacy.asp) for the most accurate reproduction.*
 
 # Bank of Oklahoma - Privacy
 
@@ -22,7 +22,7 @@ Bank of Oklahoma reserves the right to modify these Privacy Practices as needed,
 
 A recent federal law, the Gramm-Leach-Bliley Act ("GLB"), requires that all financial institutions provide notice to consumer customers about the types of information financial institutions collect and with whom and under what circumstances the information is shared. 
 
-Please click [here](https://web.archive.org/web/20020210040225id_/http%3A//www.bankofoklahoma.com/privacypolicy.htm) for our policy. 
+Please click [here](https://web.archive.org/web/20021208092127id_/http%3A//www.bankofoklahoma.com/privacy_bok.htm) for our policy. 
 
 [BOk Home](http://www.bankofoklahoma.com/) | [Personal](http://www.bankofoklahoma.com/personal/) | [Small Business](http://www.bankofoklahoma.com/smallbusiness/)  
 [Commercial Services](http://www.bankofoklahoma.com/commercial/) | [Investor Info](http://www.bankofoklahoma.com/investor/) | [Infocenter](http://www.bankofoklahoma.com/infocenter/) | [Contact](https://www.bankofoklahoma.com/contact/)  
