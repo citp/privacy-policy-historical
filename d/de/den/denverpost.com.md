@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623081737id_/http%3A//www.denverpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012042115id_/http%3A//www.denverpost.com/privacy) for the most accurate reproduction.*
 
 # DenverPost.com - PRIVACY POLICY
 
@@ -20,6 +20,7 @@
 [COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E31551%257E,00.html)  
 [ENTERTAINMENT](https://web.archive.org/Stories/0,1413,36%257E78%257E,00.html)  
 [FOOD / DINING](https://web.archive.org/Stories/0,1413,36%257E40%257E,00.html)  
+[COMICS](https://web.archive.org/Stories/0,1413,36%257E81%257E,00.html)  
 [HEALTH](http://denverpost.healthology.com/)  
 [LIFESTYLES](https://web.archive.org/Stories/0,1413,36%257E45%257E,00.html)  
 [MOVIES](https://web.archive.org/Stories/0,1413,36%257E82%257E,00.html)  
@@ -29,6 +30,7 @@
 [OPINION](https://web.archive.org/Stories/0,1413,36%257E73%257E,00.html)  
 [COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E74%257E,00.html)  
 [EDITORIALS](https://web.archive.org/Stories/0,1413,36%257E417%257E,00.html)  
+[ENDORSEMENTS](https://web.archive.org/Stories/0,1413,36%257E8382%257E,00.html)  
 [LETTERS](https://web.archive.org/Stories/0,1413,36%257E416%257E,00.html)  
 [PERSPECTIVE](https://web.archive.org/Stories/0,1413,36%257E75%257E,00.html)  
 [KEEFE CARTOON](https://web.archive.org/Stories/0,1413,36%257E161%257E,00.html)  
@@ -39,9 +41,7 @@
 [BRONCOS / NFL](https://web.archive.org/Stories/0,1413,36%257E86%257E,00.html)  
 [COLLEGES](https://web.archive.org/Stories/0,1413,36%257E87%257E,00.html)  
 [COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E101%257E,00.html)  
-[CRUSH / AFL](https://web.archive.org/Stories/0,1413,36%257E25796%257E,00.html)  
 [NUGGETS / NBA](https://web.archive.org/Stories/0,1413,36%257E90%257E,00.html)  
-[OLYMPICS](https://web.archive.org/Stories/0,1413,36%257E118%257E,00.html)  
 [PREPS](https://web.archive.org/Stories/0,1413,36%257E92%257E,00.html)  
 [RAPIDS / MLS](https://web.archive.org/Stories/0,1413,36%257E94%257E,00.html)  
 [ROCKIES / MLB](https://web.archive.org/Stories/0,1413,36%257E96%257E,00.html)  
@@ -50,9 +50,11 @@
     
 [SERVICES](https://web.archive.org/Stories/0,1413,36%257E22%257E,00.html)  
 [ARCHIVES](https://web.archive.org/Stories/0,1413,36%257E25%257E,00.html)  
-[CONTACT US](https://web.archive.org/Stories/0,1413,36%257E39%257E,00.html)  
+[POST INTERNSHIPS](https://web.archive.org/Stories/0,1413,36%257E201%257E,00.html)  
 [ABOUT US/HELP](https://web.archive.org/Stories/0,1413,36%257E22%257E,00.html)  
+[CONTACT US](https://web.archive.org/Stories/0,1413,36%257E39%257E,00.html)  
 [E-MAIL NEWS](https://web.archive.org/Stories/0,1413,36%257E183%257E,00.html)  
+[SCORE](http://www.postnewsscore.com/)  
 [SUBSCRIBE](https://www.securepostnews.com/subscribe/default.asp?source=dpo)  
     
 [ADVERTISING](http://www.post-newsmarketplace.com/)  
@@ -62,6 +64,7 @@
 [MARKETPLACE](http://www.post-newsmarketplace.com/)  
 [MEMORIALS](http://www.legacy.com/denver)  
 [NEWSPAPER ADS](http://www.post-newsadsearch.com/)  
+[PERSONALS](http://www.denversingles.com/r.asp?B=297&A=20&Task=Click)  
 [PNN WEBSITES](http://www.pnn.com/)  
 [WEDDINGS](http://www.post-newscelebrations.com/)  
 [YELLOW PAGES](http://www.postnewsyellowpages.com/)  
