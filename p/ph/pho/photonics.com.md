@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204231822id_/http%3A//www.photonics.com/XQ/ASP/QX/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609062356id_/http%3A//www.photonics.com/XQ/ASP/QX/privacy.htm) for the most accurate reproduction.*
 
 # Photonics.com - Privacy Policy
 
