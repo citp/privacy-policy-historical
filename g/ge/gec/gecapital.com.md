@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gecapital.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208214500id_/http%3A//gecapital.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gecapital.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604022848id_/http%3A//gecapital.com/privacy.html) for the most accurate reproduction.*
 
 # GE Capital
 
