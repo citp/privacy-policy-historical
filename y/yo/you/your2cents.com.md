@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your2cents.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204084734id_/http%3A//www.your2cents.com/privacy.asp%3Fname%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your2cents.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307000722id_/http%3A//www.your2cents.com/privacy.asp%3Fname%3D) for the most accurate reproduction.*
 
 # Your 2 Cents - Privacy\Security
 
@@ -30,7 +30,7 @@ We provide all panelists the option of opting-out of the panel quickly and easil
 We also provide an area designed to update and delete e-mail address when necessary.  Your2Cents.com will automatically remove and update this request  and the panelist will receive confirmation of the deletion or update.
 
 **Monthly sweepstakes cash drawing**  
-Our monthly sweepstakes takes place in the first week of every month. Panel members will be randomly selected to win cash even if they have not been invited to participate in a survey that month.  Winners are notified via e-mail of their winnings and they will be sent a check in the amount rewarded within 1-2 weeks after the names are selected. Our [ winners](https://web.archive.org/web/20041204084734id_/http%3A//www.your2cents.com/winnings.asp?name=) page displays the name and city, state were winners came from, but names are only displayed with the direct permission of panelist.
+Our monthly sweepstakes takes place in the first week of every month. Panel members will be randomly selected to win cash even if they have not been invited to participate in a survey that month.  Winners are notified via e-mail of their winnings and they will be sent a check in the amount rewarded within 1-2 weeks after the names are selected. Our [ winners](https://web.archive.org/web/20050307000722id_/http%3A//www.your2cents.com/winnings.asp?name=) page displays the name and city, state were winners came from, but names are only displayed with the direct permission of panelist.
 
 **Use of Data**  
 Our number one priority is maintaining the privacy of all information and not to release any one individual’s information separate from the panel. All information will be analyzed in aggregate and grouped in categories. We promise to follow our privacy commitment to our panelists. Reviewing changes in our privacy statement are the sole responsibility of our panel members. Notification of changes will be posted on Your2Cents.com (http://www.your2cents.com) website for review, but Your2Cents.com, a division of Common Knowledge Inc., its partners and clients affiliated, are not responsible if our panel members are not aware of the changes before participating in additional surveys.
@@ -39,16 +39,18 @@ Our number one priority is maintaining the privacy of all information and not to
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or to comply with a legal process served on our website
 
 **Internet Security on Your2Cents.com  
-**The information you provide about your household is strictly confidential and will be protected at all times by Your2Cents.com, a division of Common Knowledge Inc. The data is encrypted, so that no one can read your personal file.  We have registered our site with a security and confidentiality service named [Verisign.](https://digitalid.verisign.com/as2/cd54b1a71eda6a314e830b5fb72082ce) Please press the Verisign seal to verify this sites security. [](https://digitalid.verisign.com/as2/cd54b1a71eda6a314e830b5fb72082ce) __
+**The information you provide about your household is strictly confidential and will be protected at all times by Your2Cents.com, a division of Common Knowledge Inc. The data is encrypted, so that no one can read your personal file.  We have registered our site with a security and confidentiality service named [Comodo.](http://www.instantssl.com/) Please press the Comodo seal to verify this sites security. [   
+SSL Certificate Authority ](http://www.instantssl.com/)  
+__
 
 __
 
-When registering or taking a survey, the information you send us is encrypted using the highest encryption technology legally available, SSL (Secure Socket Layering).  This encryption technology is based on the same technology used to protect nuclear missile codes.  This guarantees there will never be any unauthorized use of the information you provide to us.  Any website with the VeriSign logo can expect the following:
+When registering or taking a survey, the information you send us is encrypted using the highest encryption technology legally available, SSL (Secure Socket Layering).  This encryption technology is based on the same technology used to protect nuclear missile codes.  This guarantees there will never be any unauthorized use of the information you provide to us.  Any website with the Comodo logo can expect the following:
 
 The highest levels of trust and security so panelist can be certain that our site is genuine:
 
   1. Information sent via Web browsers, and other devices stays private and confidential.
-  2. VeriSign's Site Trust Services offer the power to secure and e-commerce-enable a site, giving it the most trust worthy Web experience possible.  
+  2. Comodo's Site Trust Services offer the power to secure and e-commerce-enable a site, giving it the most trust worthy Web experience possible.  
 Your information is held in a password protected, encrypted, secure online database.
   3. Any member can safely delete or modify their account online at any time. All responses are held in aggregate and individual responses will never be used for advertising or selling purposes.
   4. You are not responsible for buying any product or service at any time, nor will any company solicit panel members as a result of joining the Your2Cents.com panel.
