@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203152801id_/http%3A//mugglenet.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610201853id_/http%3A//mugglenet.com/privacy.shtml) for the most accurate reproduction.*
 
 # MuggleNet | Privacy Policy
 
@@ -30,8 +30,10 @@ By utilizing the layout-changing feature on MuggleNet, you agree to accept a "co
 
 * * *
 
-MuggleNet is an unofficial fan site. We did not create Harry Potter or any of the characters from the Harry Potter series. The staff has a mortal fear of lawyers - the site isn't here to infringe upon any copyrights or break any laws, it's here to be a resource for Harry Potter fans. If you have a problem with something you saw on the site, don't hesitate to contact us via our [feedback form](http://www.mugglenet.com/feedback/). Additional bandwidth provided by [The-Hosts.com](http://www.the-hosts.com/). MuggleNet's layout was designed and created by [Navy](mailto:navy_o@hotmail.com).
+MuggleNet is an unofficial fan site. We did not create Harry Potter or any of the characters from the Harry Potter series. The staff has a mortal fear of lawyers - the site isn't here to infringe upon any copyrights or break any laws, it's here to be a resource for Harry Potter fans. If you have a problem with something you saw on the site, don't hesitate to contact us via our [feedback form](http://www.mugglenet.com/feedback/). MuggleNet's layout was designed and created by [Navy](mailto:navy_o@hotmail.com)
 
-[Privacy Policy](https://web.archive.org/privacy.shtml) | [Advertising](http://www.gorillanation.com/advertising.htm) | [Feedback](http://www.mugglenet.com/feedback/) | [Credits](https://web.archive.org/credits.shtml)
+© 1999-2004 MuggleNet.com. All rights reserved.
+
+[Privacy Policy](https://web.archive.org/privacy.shtml) | [COPPA Policy](http://www.mugglenet.com/coppa.shtml) | [Feedback](http://www.mugglenet.com/feedback/) | [Credits](https://web.archive.org/credits.shtml)
 
 [](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00123908P000)     [ ](http://www.usatoday.com/life/cyber/2001/11/01/hotsites.htm)     [ ](http://topsites.mugglenet.com/)
