@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searsportrait.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206150500id_/http%3A//www.searsportrait.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searsportrait.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413015558id_/http%3A//www.searsportrait.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Sears Portrait Studio - Privacy Policy
 
