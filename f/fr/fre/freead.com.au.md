@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freead.com.au privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622201240id_/http%3A//freead.com.au/modules.php%3Fop%3Dmodload%26name%3Dlegal%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freead.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208233425id_/http%3A//freead.com.au/legal-privacy.html) for the most accurate reproduction.*
 
 # freead.com.au :: Australian Free Classifieds
 
@@ -6,7 +6,7 @@ Privacy Policy v1.11 for freead.com.au
 
 
 Introduction.  
-We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](https://web.archive.org/web/20040622201240id_/http%3A//freead.com.au/modules.php?op=modload&name=legal&file=index).
+We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](https://web.archive.org/web/20041208233425id_/http%3A//freead.com.au/legal.html).
 
 1\. Collection of Data.  
 Our registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site (if at all) is set forth below.
@@ -19,10 +19,10 @@ Like many web sites, we set and use cookies to enhance your user experience, suc
 [[AffiliateShop](http://www.affiliateshop.com/) ] [[AssociatePrograms.com](http://www.associateprograms.com/) ] [[Be Free](http://www.befree.com/) ] [ [Click Trade](http://www.clicktrade.com/) ] [ [Commission Junction](http://www.cj.com/) ] [ [DoubleClick](http://www.doubleclick.net/) ] [ [Linkshare](http://www.linkshare.com/) ]
 
 4\. Children.  
-We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact [our webmaster](mailto:team@freead.com.au).
+We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact [our webmaster](mailto:team@yourestate.com.au).
 
 5\. Editing or Deleting Your Account Information.  
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](https://web.archive.org/web/20040622201240id_/http%3A//freead.com.au/user.php). You may request deletion of your user account by contacting [our webmaster](mailto:team@freead.com.au). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](https://web.archive.org/web/20040622201240id_/http%3A//freead.com.au/modules.php?op=modload&name=legal&file=index) for more information.
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](https://web.archive.org/web/20041208233425id_/http%3A//freead.com.au/user.html). You may request deletion of your user account by contacting [our webmaster](mailto:team@yourestate.com.au). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](https://web.archive.org/web/20041208233425id_/http%3A//freead.com.au/legal.html) for more information.
 
 6\. Changes to this Privacy Policy.  
 We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.
@@ -31,4 +31,4 @@ We may make changes to this Policy from time to time. We will notify you of subs
 While this Privacy Policy states our standards for maintenance of Data and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of Data.
 
 8\. Contact Information.  
-If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](mailto:team@freead.com.au).
+If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](mailto:team@yourestate.com.au).
