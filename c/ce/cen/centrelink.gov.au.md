@@ -1,28 +1,47 @@
-> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606130739id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
 
 # Legal - Privacy & Security Statement
 
 [home](https://web.archive.org/internet/internet.nsf/home/index.htm) | [search](https://web.archive.org/internet/internet.nsf/search/index.htm) | [about us](https://web.archive.org/internet/internet.nsf/about_us/index.htm) | [contact us](https://web.archive.org/internet/internet.nsf/contact_us/index.htm) | [working at centrelink](https://web.archive.org/internet/internet.nsf/centrelink_jobs/index.htm) | [online services](https://web.archive.org/internet/internet.nsf/online_services/index.htm) | [overseas](https://web.archive.org/internet/internet.nsf/overseas/index.htm) | [we speak your language](https://web.archive.org/internet/internet.nsf/languages/index.htm) | [indigenous australians](https://web.archive.org/internet/internet.nsf/indigenous/index.htm) | [news room](https://web.archive.org/internet/internet.nsf/news_room/index.htm) | [publications](https://web.archive.org/internet/internet.nsf/publications/index.htm) | [individuals](https://web.archive.org/internet/internet.nsf/individuals/index.htm) | [community groups](https://web.archive.org/internet/internet.nsf/community/index.htm) | [businesses](https://web.archive.org/internet/internet.nsf/businesses/index.htm) | [what's new](https://web.archive.org/internet/internet.nsf/new/index.htm)
 
-[ ](https://web.archive.org/internet/internet.nsf/legal/index.htm)
+[ ](https://web.archive.org/Internet/Internet.Nsf/legal/index.htm)
 
-[LEGAL INFO](https://web.archive.org/web/20040606130739id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/index.htm "Legal Info"): [Disclaimer](https://web.archive.org/web/20040606130739id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/disclaimer.htm "Disclaimer") | [Privacy & Security Statement](https://web.archive.org/web/20040606130739id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm "Privacy and Security Statement") | [Copyright](https://web.archive.org/web/20040606130739id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/copyright.htm "Copyright") | [Your Rights](https://web.archive.org/web/20040606130739id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/your_rights.htm "Your Rights") | [Linking To Our Website](https://web.archive.org/web/20040606130739id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/linking.htm "Linking To Our Website")
+[LEGAL INFO](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/index.htm "Legal Info"): [Disclaimer](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/disclaimer.htm "Disclaimer") | [Privacy & Security Statement](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm "Privacy and Security Statement") | [Copyright](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/copyright.htm "Copyright") | [Linking To Our Website](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/linking.htm "Linking To Our Website") | [Your Rights](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/your_rights.htm "Your Rights") | [Reviews and Appeals](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/review_appeal.htm "Reviews and Appeals") | [Privacy and Your Personal Information](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy_info.htm "Privacy and Your Personal Information") | [Freedom of Information](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/foi.htm "Freedom of Information")
 
 Centrelink places great emphasis on maintaining and enhancing the privacy and security of your personal information. With a number of strong security measures in place and the continued development of our internet services, our main focus is on improving existing measures as well as keeping you informed about the latest developments.
 
-## Privacy Statement: 
+## Privacy Statement:
+
+  * Collection of information
+  * When you send a message to Centrelink
+  * When using online services
+  * Access to information
+  * Use and disclosure of information
+  * Cookies
+
+
+
+## Security Statement
+
+  * Security Statement
+
+
+
+* * *
+
+## Privacy Statement:
 
 ### Collection of information
 
 Centrelink collects a range of information about visits to the Centrelink website. The following information is stored for twelve months:
 
-  * entry and exit pages;
-  * how often the site was used;
-  * the time of day the site was accessed;
-  * the length of time spent on the site;
-  * how much information was downloaded;
-  * if the visit is from a company or an individual;
-  * if you are browsing from Australia or overseas; and
+  * entry and exit pages
+  * how often the site was used
+  * the time of day the site was accessed
+  * the length of time spent on the site
+  * how much information was downloaded
+  * if the visit is from a company or an individual
+  * if you are browsing from Australia or overseas
   * what browser types are being used.
 
 
@@ -33,7 +52,7 @@ This information is collected for statistical analysis use only and no attempt i
 
 You may provide personally identifiable information such as your name, physical address and email address, when you send us a message. Personal information collected by Centrelink is protected by the Privacy Act 1988 and the relevant confidentiality provisions contained in legislation administered by Centrelink.
 
-#### When using online services
+### When using online services
 
 Please refer to the Privacy Notice for each online service for details.
 
@@ -53,14 +72,14 @@ Most internet browsers are preset to accept cookies, but you can choose if and h
 
 We make no attempt to identify you in any way when you are in the public section of the Centrelink website. If you use the secure section of our website (for example our online services) we may then use cookies to:
 
-  * determine whether your computer has support for cookies turned on (this allows us to advise that you need to enable cookies to use a particular service);
-  * help identify you during your secure session;
-  * time your session so you will be logged off if you are not using the service for a specified time period; and
+  * determine whether your computer has support for cookies turned on (this allows us to advise that you need to enable cookies to use a particular service)
+  * help identify you during your secure session
+  * time your session so you will be logged off if you are not using the service for a specified time period
   * maintain an audit trail of your secure session.
 
 
 
-For more detailed information about privacy in general please refer to [Privacy & Your Personal Information](https://web.archive.org/web/20040606130739id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy_info.htm) or ask Centrelink for a copy of the factsheet "Your Right to Privacy".
+For more detailed information about privacy in general please refer to [Privacy & Your Personal Information](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy_info.htm) or ask Centrelink for a copy of the factsheet "Your Right to Privacy".
 
 ## Security Statement
 
@@ -68,15 +87,15 @@ Your personal information is protected by law. These laws prohibit any person fr
 
 Centrelink encrypts all messages between the browser running on your PC and Centrelink's computers when these messages are sent from the Secure Messages section of the website.
 
-The encryption process used by Centrelink is Secure Socket Layer (SSL). For SSL encryption to work, your browser must support SSL. Freely available browsers that support SSL include Netscape version 3 or higher and Microsoft Internet Explorer Version 4. Go to our [Downloads](https://web.archive.org/web/20040606130739id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/site_help/downloads.htm) section of the site to get the latest version of these browsers. 
+The encryption process used by Centrelink is Secure Socket Layer (SSL). For SSL encryption to work, your browser must support SSL. Freely available browsers that support SSL include Netscape version 3 or higher and Microsoft Internet Explorer Version 4. Go to our [Downloads](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/site_help/downloads.htm) section of the site to get the latest version of these browsers. 
 
 While Centrelink endeavours to provide a secure internet environment, users should note that there are inherent risks associated with transmission of information via the internet. Centrelink provides alternative ways to obtain and provide information for those who do not wish to use public networks such as the internet. These include direct contact at a Customer Service Centre, telephone, facsimile or post. In some circumstances, the Centrelink security guidelines may also require us to send particular information by non-electronic means.
 
-_Note: External sites linked to this site are not under Centrelink's control and you are advised to review their privacy and security statements._
+_Note:_ Any link to an external site is provided for your information and convenience only. Centrelink does not endorse, monitor or control such sites (or any associated organisation, product or service) and is not responsible for their content, or your access or use of them. Without limiting the forgoing, you are advised to review their privacy and security statements and take precautions to ensure any content is accurate and downloaded software is safe.
 
 ## Further information?
 
-If you have any privacy or security concerns please visit your nearest [Centrelink Customer Service Centre](https://web.archive.org/web/20040606130739id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/contact_us/offices.htm) for advice.
+If you have any privacy or security concerns please visit your nearest [Centrelink Customer Service Centre](https://web.archive.org/web/20041213202234id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/contact_us/offices.htm) for advice.
 
 **Hint:** Did you find what you were looking for? You can also try the [A-Z list](https://web.archive.org/internet/internet.nsf/site_help/az.htm), [quick links](https://web.archive.org/internet/internet.nsf/site_help/quicklinks.htm), [search](https://web.archive.org/internet/internet.nsf/search/index.htm), [site help](https://web.archive.org/internet/internet.nsf/site_help/index.htm) or send us [feedback](https://secure.centrelink.gov.au/sims/sims_main.cfm) on how to make this a better website.
 
@@ -84,6 +103,6 @@ If you have any privacy or security concerns please visit your nearest [Centreli
 
 [search](https://web.archive.org/internet/internet.nsf/search/index.htm) | [site help](https://web.archive.org/internet/internet.nsf/site_help/index.htm) | [feedback](https://secure.centrelink.gov.au/sims/sims_main.cfm) |  [A-Z](https://web.archive.org/internet/internet.nsf/site_help/az.htm) | [quick links](https://web.archive.org/internet/internet.nsf/site_help/quicklinks.htm) | [disclaimer](https://web.archive.org/internet/internet.nsf/legal/disclaimer.htm) | [privacy & security](https://web.archive.org/internet/internet.nsf/legal/privacy.htm) | [copyright](https://web.archive.org/internet/internet.nsf/legal/copyright.htm) | [your rights](https://web.archive.org/internet/internet.nsf/legal/your_rights.htm) | [accessibility](https://web.archive.org/internet/internet.nsf/site_help/access.htm)
 
-Today's Date:  06/06/2004 - Last Modified:  10/07/2003  
-URL:  http://www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm  
+Today's Date:  14/12/2004 - Last Modified:  30/09/2004  
+URL:  http://www.centrelink.gov.au/Internet/Internet.Nsf/legal/privacy.htm  
 Centrelink ABN: 29468422437
