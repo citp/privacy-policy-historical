@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208100105id_/http%3A//www.sydneyairport.com.au/Sydney%2BAirport/terms%2Bof%2Buse/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622085356id_/http%3A//www.sydneyairport.com.au/Sydney%2BAirport/terms%2Bof%2Buse/Privacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Sydney Airport : privacy policy
 
-Sydney Airports Corporation Limited respects the rights of all individuals in relation to the privacy of information of a personal nature collected, held and used by the corporation.
+Sydney Airport Corporation Limited respects the rights of all individuals in relation to the privacy of information of a personal nature collected, held and used by the corporation.
 
 ## Introduction
 
-Sydney Airports Corporation Limited ("SACL") has created this Privacy Statement in order to demonstrate its firm commitment to privacy and to explain how personal information collected by us is protected.
+Sydney Airport Corporation Limited ("SACL") has created this Privacy Statement in order to demonstrate its firm commitment to privacy and to explain how personal information collected by us is protected.
 
 SACL's policy concerning personal information is subject to the National Privacy Principles set out in the Privacy Act 1988 (Cth).
 
@@ -76,7 +76,7 @@ If you have any questions, concerns or complaints about this Privacy Statement o
 
 Privacy Officer
 
-Sydney Airports Corporation Limited
+Sydney Airport Corporation Limited
 
 PO Box 63
 
