@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204214128id_/http%3A//dreamhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403022531id_/http%3A//www.dreamhost.com/privacy.html) for the most accurate reproduction.*
 
-# [ DreamHost : Technical Support : Privacy Policy ]
+# [ DreamHost : Privacy Policy ]
 
 When you sign up for service with DreamHost Web Hosting, we collect personal information from you including your name, e-mail address, billing address, security question (and answer,) credit card or other payment information, and a password.
 
