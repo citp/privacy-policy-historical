@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603215900id_/http%3A//www.leaguelineup.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203091106id_/http%3A//leaguelineup.com/privacy.asp) for the most accurate reproduction.*
 
 # LeagueLineup.com - The Youth Sports and Amateur Sports Portal (Free Web Sites and more)
 
@@ -69,4 +69,4 @@ If you have any questions about this privacy statement, the practices of this si
     Belle Mead, NJ 08502
 
   
-To view our advertising partner's (adtegrity.com) privacy policy, [click here](http://www.adtegrity.com/privacy.asp).
+
