@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitlance.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602201723id_/http%3A//profitlance.com/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitlance.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805125827id_/http%3A//profitlance.com/pp.htm) for the most accurate reproduction.*
 
 # ProfitLance.Com - Privacy Policy
 
