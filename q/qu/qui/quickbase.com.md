@@ -1,52 +1,51 @@
-> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204133231id_/http%3A//www.quickbase.com/p/privacy.asp%3Fps%3DHM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403202817id_/http%3A//www.quickbase.com/p/privacy.asp%3Fps%3DHM) for the most accurate reproduction.*
 
 # QuickBase | QuickBase.com privacy statement
 
-At Intuit QuickBase, we respect and protect the privacy of our customers. This Privacy Statement is intended to provide you with information about our online data handling practices and our approach to privacy.
+At Intuit Quickbase we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site. Throughout this policy, we refer to information that personally identifies you as "personal information."
 
-We tell you how we intend to use your information.  
-When we ask you for information, we will tell you, or it will be clear, what we need to fulfill your request and how it will be used. While visiting our site, you have the opportunity to learn more about our products, services and programs. We may ask you for demographic and firmagraphic information to facilitate your request and to keep you informed of Intuit products and services that are valuable to your business. 
+We protect your information
 
-We protect your information.  
-We protect the confidentiality and security of your personal information by using industry-recognized security safeguards, such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. When we ask for sensitive information, such as credit card numbers, we encrypt it as it is transmitted to us.
+We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information. Tell me more...
 
-Our employees are trained and required to safeguard your information and, by using physical, electronic and procedural safeguards, we restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
+We tell you how we use your information  
+When we ask you for information, we will tell you, --or it will be clear --what we need to know to fulfill your request. We will also tell you how we will use the information we’re asking for. Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. We do not knowingly request or receive any information from children. 
 
-We do not sell or rent your personal information to anyone.  
-We do not share your personal information with third parties for their independent promotional use. 
+  * We do not sell or rent your personal information to anyone.
+  * We do not share your personal information with anyone outside of Intuit for their promotional, including marketing, use.
 
-We have limited relationships with third parties.  
-Sometimes, we enter into contracts with third parties so that they can assist us in servicing you (for example, fulfilling customer orders or providing customer service). The contracts prohibit them from using any of your personal information for their own purposes, and they are required to maintain the confidentiality of the information we provide to them. We may disclose or report personal information in limited circumstances where we believe in good faith that disclosure is required under the law. For example, we may be required to disclose personal information to cooperate with regulators or law enforcement authorities, to comply with a legal process such as court order, subpoena, search warrant, or law enforcement request.
+We tell you about our relationships with third parties  
+We have limited relationships with third parties to assist us in servicing you, for example, by fulfilling customer orders or providing customer service. These service providers are contractually required to maintain the confidentiality of the information we provide them. Additionally, we have business partners that provide services, some of which are co-branded. We clearly identify partner services and sites. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your request. We may disclose your information if we are required to by a law enforcement action such as a court order, subpoena or search warrant. Tell me more...
 
-We may also enter into "joint marketing" relationships with carefully selected partners who offer products or services that may be of interest to you. When we do, they are prohibited from using any of your personal information for anything outside the joint venture, unless you choose to give them your information or become their customer. Our contracts with them protect the confidentiality of the limited information we share with them.
+We tell you how we use Web technology  
+Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help to provide you with a customized experience. Tell me more...
 
-You control what marketing information you receive from us.  
-From time to time, we may send you promotional information about QuickBase products and services. If you do not want to receive this type of information about QuickBase products and services, you may specify your preferences at <https://www.quickbase.com/db/9gc8fpum?a=GenNewRecord>. When you decide to decline promotional materials, you will still receive service communications, legally mandated notices, and critical messages that could impact your business and usage of the product.
+We give you choice and control  
+We may use your contact information to tell you about other products we think might interest you. However, if you don't want us to contact you for promotional purposes, you can tell us when you provide the information. You may also specify your contact preferences by sending us an email to: privacy@quickbase.com Your contact preferences only apply to marketing contacts. We may need to communicate with you regarding the usability of your product or critical messages relating to your service or software (such as service messages, subscription renewal notices, critical notices, or legally mandated notices).
 
-You can change your information.  
-You can update or correct your contact information anytime by sending an e-mail to: [privacy@quickbase.com](mailto:%20privacy@quickbase.com).
+You can update or correct your contact information anytime by sending us an e-mail to: privacy@quickbase.com 
 
-You can contact us with privacy questions.  
-At QuickBase, we do what we say and say what we do. If you have privacy-related questions that are not addressed here, please contact the Privacy Team at [ https://privacy.intuit.com/cpi/do/comments](https://privacy.intuit.com/cpi/do/comments) or write us at:
+You can contact us  
+If you have privacy-related questions that are not addressed here, please contact the Privacy Team or write us at: Privacy Team, Intuit Inc, 2800 East Commerce Center Place, Tucson, AZ 85706.
 
-Privacy Team  
-Intuit Inc.  
-2800 East Commerce Center Place  
-Tucson, AZ 85706
+We protect your information  
+We protect the confidentiality and security of your personal information by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. Whenever we ask for sensitive information, such as credit card numbers, we encrypt it as it is transmitted to us. 
 
-We do not ask children for information.  
-Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. We do not knowingly request or receive any information from children.
+Our employees are trained and required to safeguard your information and, using physical, electronic and procedural safeguards, we restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
 
-We tell you about Web technologies.  
-We use a variety of technologies on our Web site. Among these are "cookies"; a piece of information that our Web sites provide to your browser when you visit our sites. Cookies allow us to track overall site usage and determine areas users prefer. Cookies also allow us to make your visit to our Web site easier by recognizing you when you return and helping to provide you with a customized experience. You can choose to decline cookies while at our Web site; however, this may limit your ability to access certain areas of the Web site. Most browsers accept and maintain cookies by default. Check the Help menu of your browser to learn how to change your cookie preferences.
+Cookies, Web beacons and other Web technologies  
+We use a variety of technologies on our Web site. Among these are cookies, which are pieces of information that our Web sites provide to your browser. Cookies allow us to track overall site usage and determine areas users prefer. Cookies also allow us to customize your visit to our Web site by recognizing you when you return. You can choose to decline cookies while at our Web site, however, this may limit your ability to access certain areas of the Web site. Most browsers accept and maintain cookies by default. Check the "Help" menu of your browser to learn how to change your cookie preference.
 
-We also keep track of activity on our Web site. We collect information such as IP address, browser type and version, and pages you view. We also keep track of how you got to our site and any links you click to leave our site. Once you leave our site, we do not track you. We use your Web site activity to assist us in offering you a personalized Web experience, assist you with technical support and to tailor our offerings to you.
+When we track activity on our Web site, we collect information such as your IP address, browser type and version, and pages you view. We also keep track of how you got to our site and any links you click on to leave our site. Once you leave our site, we do not track you. We use your Web site activity to assist us in offering you a personalized Web experience, assist you with technical support and to tailor our offerings to you. Remember, you control whether you receive Intuit promotional materials.
 
-We may access and set cookies using Web beacons, also known as single-pixel GIFs, which are invisible graphical images. These Web beacons provide us with useful information regarding our site such as which pages users access. When we send you e-mails, we may include a single-pixel GIF to allow us to determine the number of people who open our e-mails. When you click a link in an e-mail, we record this individual response to allow us to customize our offerings to you.
+We may access and set cookies using Web beacons, also known as single-pixel GIFs which are invisible graphical images. These Web beacons tell us useful information regarding our site such as which pages users access. When we send you e-mails, we may include a single-pixel GIF to determine the number of people who open our e-mails. When you click on a link in an e-mail, we record this individual response to allow us to customize our offerings to you.
 
-To provide you with a seamless experience, we may occasionally use framing. Though your browser may indicate you are at QuickBase.com, you may be on a partner's site. To determine which site you are on, right-click on the site and then select "Properties." 
+Advertising networks that serve ads on our Web site may assign a different cookie to you. The information collected is anonymous and is not linked to your personal information. These cookies may be used to select which ads you see and determine the effectiveness of this advertising. You may choose to decline cookies from third-party ad servers, which Intuit does not control. If you would like to know more about this practice and your choices about not having this information used by third-party ad servers, please click here. 
 
-We may also gather usage information; including IP address, browser type and version, pages viewed, and pages linked to and off our site. We may use this data to better understand Web site and product performance, activity, and utilization in order to continuously improve our offerings. We may also use this data to provide you with a more personalized Web site experience, assist you with technical support questions, and to send you special offers, product and service updates, or other promotional materials that are relevant to your business. We do not track URLs that you type into your browser, nor do we track you across the Internet once you leave our site.
+To provide you with a seamless experience, we may occasionally use framing. Though your browser may indicate you are at www.quickbase.com, you may be on a partner's site. To determine which site you are on, right-click on the page and then select "properties.” Mac users should press the control key, and click their mouse on the site and then look at "View Source."
+
+Third Parties  
+Sometimes, we enter into contracts with third parties who assist us in servicing you such as filling customer orders or providing customer service. The contracts outline the appropriate use and handling of your information and prohibit third parties from using any of your personal information for purposes unrelated to the product or service for which they’ve been contracted. Vendors are required to maintain the confidentiality of the information we provide to them. We may disclose or report personal information in limited circumstances where we believe in good faith that disclosure is required under the law. For example, we may be required to disclose personal information to cooperate with regulators or law enforcement authorities, to comply with a legal process such as a court order, subpoena, search warrant, or a law enforcement request. We have business partners that provide services, some of which are co-branded. Partner services and sites are clearly identified. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your request. This Web site may provide links to third-party sites, such as those of our business partners and online advertisers. Because Intuit does not control the information policies or practices of these third parties, you should review their privacy policies to learn more about how they collect and use personal information.
 
 Additional QuickBase Feature-Specific Information
 
@@ -78,23 +77,10 @@ When you apply for the QuickBase Developer Program, you are required to provide 
 
 Other things we want you to know.
 
-Transmission of Information Outside of Your Country  
-If you are located outside the U.S., your personally identifiable information and database(s) may be stored and processed outside of the country of which you are a citizen and/or in which you reside. By using QuickBase, you consent to the transmission of your personally identifiable information outside of your country so that it may be used for purposes consistent with those specified in this Privacy Statement and in the "Terms of Services." If you are within the European Economic Area, you should be aware that such extra-territorial transmissions may be to countries outside of the European Economic Area which may have different data protection laws. When this occurs, Intuit shall take appropriate steps to protect the information transmitted.
+Should we sell, merge or transfer any part of our business, part of the sale may include your personal information. If so, you will have the opportunity to ask not to receive promotional information following any change of control.
 
-Legal Disclosures  
-In some cases, we may disclose certain information (including, when applicable, your personally identifiable information) to comply with a legal process, such as a court order, subpoena, search warrant, or law enforcement request.
+We may use sources outside of Intuit to supplement the information you give us. For example, we may validate your address using other sources. We use this data to help us maintain accuracy and provide you with better service.
 
-Mergers and Acquisitions  
-Should we sell, merge or transfer any part of our business, part of the sale may include your personally identifiable information. If so, you will have the opportunity to ask not to receive promotional information following any change of control.
-
-Policy and Statement Changes  
-If we make any significant changes to our privacy policies or practices, we will let you know 30 days in advance.
-
-Information from Other Sources  
-We may use other sources to supplement the information you give us. For example, we may validate your address using other sources. We use this data to help us maintain accuracy and provide you with better service.
-
-Intuit Division Processes  
 QuickBase is a division of Intuit Inc. Intuit and its division may exchange customer data to fulfill your requests or to provide you with information about other products or services. We offer you the opportunity to review privacy practices at our divisions' Web sites; please visit Intuit.com for additional information.
 
-  
-Last updated March 19, 2004 
+Last updated December 9, 2004 
