@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208203635id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402032821id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
@@ -22,6 +22,8 @@ City:
 State: |   
 ZIP: |   
   
+Website hosted by [ Hostway.com ](http://www.host-affiliates.com/t.asp?id=6646) \- 100% uptime during last 4 years. 
+
 | | | | 
 
 ## Privacy policy & Disclaimer
@@ -53,14 +55,10 @@ While we have made every attempt to make this policy as clear as possible, if yo
 
 ## Disclaimer
 
-DomesticSale.com does not assume responsibility for the content of classified ads or thirds party advertising presented on the web site. DomesticSale.com does not assume responsibility for the content of the public display areas such as the Forums or the Guestbook. DomesticSale.com cannot be involved in person-to-person dealings i.e. you are using this web site at your own risk. 
+DomesticSale.com does not assume responsibility for the content of classified ads or thirds party advertising presented on the web site. DomesticSale.com does not assume responsibility for the content of the public display areas such as forums or guestbook. DomesticSale.com cannot be involved in person-to-person dealings i.e. you are using this web site at your own risk. 
   
   
-| 
-
-[](https://web.archive.org/top-ads-program.html)
-
-| |   Testimonials  
+| | |   Testimonials  
 ---|---  
   "I love your site, **the best** FREE classified site I've come accross EVER!!! ..."  
 Regards, Kerry *pinkbike*
