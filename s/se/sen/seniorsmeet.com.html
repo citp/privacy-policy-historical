@@ -1,0 +1,299 @@
+<!--The following is the downloaded HTML source of the seniorsmeet.com privacy policy that was archived on 2004-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040619074755id_/http%3A//www.seniorsmeet.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<html><head>
+	<title>SeniorsMeet.com</title>
+	<link rel="stylesheet" href="style.css" type="text/css">
+ <script language="JavaScript">
+function get_sec() {
+    var mydate = new Date() ;
+    return mydate.getTime();
+}
+
+var time_begin = get_sec();
+var wcnt = 1;
+var imcheck = new Image;
+var newmessage = 0;
+var reload = 1;
+	function prevSlide() {
+		if(document.images) {
+			currentslide--;
+			if(currentslide<1) currentslide=maxslides;
+			document.images['slide'].src=slide[currentslide].src;
+		}
+	}
+	function nextSlide() {
+		if(document.images) {
+			currentslide++;
+			if(currentslide>maxslides) currentslide=1;
+			document.images['slide'].src=slide[currentslide].src;
+		}
+	}
+function randgen()
+{
+	var date = new Date();
+    return date.getTime();
+}
+function show_message()
+{
+	//document.NewIM.play();
+	newim = window.open("im.php", wcnt, 'scrollbars=yes,menubar=no,resizable=0,location=no,screenX=50,screenY=100,width=423,height=311');
+	newim.focus();
+
+	wcnt++;
+}
+
+function doim()
+{
+    if (!imcheck.complete)
+    {
+        setTimeout("doim()", 400);
+        return;
+    }
+    newmessage = 0;
+	newmessage = imcheck.height;
+	if(newmessage == 2)
+    {
+		show_message();
+    }
+}
+
+function checkim(id)
+{
+	time_until = get_sec() - time_begin;
+	if ( time_until > 3600000 )
+    {
+		reload = 0 ;
+    }
+    imcheck = new Image;
+    rand_num = randgen();
+	imcheck.src = "im.php?action=check&rand="+rand_num;
+	imcheck.onLoad = doim();
+
+    if(reload == 1)
+    {
+        setTimeout("checkim()",4000);
+    }
+}
+</script>
+<style type="TEXT/CSS">
+<!--
+
+.class1 A { text-decoration: none }
+
+
+.class1 A {color:#ffffff; font-family: Helvetica, Arial; font-size: 11px; text-decoration: none;}
+.class1 A:hover {color:#ffcc66; font-family: Helvetica, Arial; font-size: 11px; text-decoration: none;}
+
+
+-->
+
+
+  </style>
+
+</head>
+
+<body style="background-color: rgb(255, 255, 255);" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td valign="top" width="68%" height="0"> <table width="721" height="0" border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr> 
+              <td width="882" height="0" bgcolor="#ffffff" style="background-color: rgb(255, 255, 255);"><center><img src="images/bannerlogo.jpg" width="510" height="81" alt="SeniorsMeet Banner"></center> 
+              </td>
+              <td bgcolor="#ffffff">&nbsp; </td>
+              <td width="3" height="0" rowspan="2">&nbsp; 
+              </td>
+            </tr>
+            <tr> 
+              <td height="0" bgcolor="#003366"> <div align="right"><font color="#ffffff">| 
+                  <span class="class1"><a href="index.php?page=index">&nbsp;Home</a></span> &nbsp;| &nbsp;<span class="class1"><a href="index.php?page=aboutus">About Us</a></span>&nbsp;&nbsp;|  &nbsp;<span class="class1"><a href="index.php?page=registerfirst">Become a Member</a></span>&nbsp;&nbsp;| 
+                  &nbsp;<span class="class1"><a href="index.php?page=sign_in">Sign In</a></span> &nbsp;| &nbsp;<span class="class1"><a href="index.php?page=members_area">Members Area</a></span> &nbsp;|
+
+
+ &nbsp;<span class="class1"><a href="index.php?page=search">Members Search</a></span> &nbsp;| <span class="class1"><a href="index.php?page=browse">&nbsp;Quick Search</a></span> 
+                  &nbsp;| &nbsp;<span class="class1"><a href="index.php?page=faq">FAQ</a> </span>| &nbsp;<span class="class1"><a href="index.php?page=links">Links</a> </span>
+
+ &nbsp;| <span class="class1"><a href="index.php?page=contactus">&nbsp;Contact Us</a></span> &nbsp;</font></div></td>
+              <td width="28"> <img src="images/link_bar_round2.jpg" style="width: 18px; height: 18px;" alt="" title=""></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+  </tbody>
+
+
+
+
+
+</table><table border="0" cellpadding="0" cellspacing="0" width="770">
+  <!--DWLayoutTable-->
+  
+  <tbody><tr><td width="253" class="trs">
+  </td></tr><tr valign="top">
+    <td height="701" colspan="2" class="trs">
+<!-- Quick Search -->
+    <center><img src="images/seniorsp.jpg" alt="privacy"></center><table border="0" cellpadding="2" cellspacing="0" width="230" align="center">
+      <tbody><tr>
+
+
+
+
+
+ 
+
+
+</tr></tbody></table>
+      <!-- Quick Search -->
+    </td>
+    <td colspan="3" style="padding:15px;"><font face="Verdana, Arial, Helvetica, sans-serif" color="#FF9900" size="2"><b>SeniorsMeet.com Privacy Policy</b></font>
+      <br><p style="text-align: left;">We
+at the SeniorsMeet.com understand that your privacy is very important
+to you. That's why we've developed this policy to ensure that your
+privacy is protected while using our Network.<br>
+</p>
+<br>
+<br>
+1. A Special Note About Children<br>
+Children under eighteen years of age are not eligible to use our
+services. We ask that children not submit information to us.&nbsp;<br>
+<br>
+2. About SeniorsMeet.com and Information We Collect<br>
+SeniorsMeet.com is an online network which provides you useful tools
+and communities to build relationships online. &nbsp;<br>
+<br>
+In our online ANONYMOUS registration form, we ask you to provide us
+with certain information such as your birth date and the type of
+relationship you are looking for. However, NONE of the personally
+identifiable information can be accessed or used by the public to
+identify a specific individual.&nbsp;<br>
+<br>
+In the course of using our site, we automatically track certain
+information such as your IP addresses and email addresses. Many sites
+automatically collect this information. If you choose to post messages
+, we will only display such information about you as you choose to
+reveal.&nbsp;<br>
+<br>
+If you send us personal correspondence, such as emails or letters, or
+if other users or third parties send us correspondence about your
+activities or postings on the site, we may collect such information
+into a file which is only accessed by authorized personnel. We may also
+collect other users' comments about you in our complaints
+department.&nbsp;<br>
+<br>
+3. Our Use of Your Information<br>
+We internally use personally identifiable information of our users to
+improve our marketing efforts, to statistically analyze site usage, to
+improve our content and product offerings as well as to customize our
+site's content and layout. We believe these uses allow us to improve
+our site and better tailor your online experience to meet your
+needs.&nbsp;<br>
+<br>
+We may also use personally identifiable information about you to
+deliver information to you that, in some cases, are targeted to your
+interests, such as targeted banners and promotions.&nbsp;<br>
+<br>
+We also send periodic informational updates to our members via
+email.&nbsp;<br>
+<br>
+We use personally identifiable information to resolve disputes,
+troubleshoot problems and enforce our User Agreement.&nbsp;<br>
+<br>
+<br>
+<br>
+4. Our Disclosure of Your Information<br>
+We DO NOT sell or rent any personally identifiable information about
+you to any third party without your permission. We do disclose
+information in aggregate to advertisers and for other marketing and
+promotional purposes. However, in these situations, we DO NOT disclose
+to these entities any information that could be used to personally
+identify you. Certain information, such as your password, credit card
+number, and bank account number, are not disclosed in aggregate at
+all.&nbsp;<br>
+<br>
+In order to maintain a healthy community, SeniorsMeet.com cooperates
+with all law enforcement inquiries and with all third parties to
+enforce their intellectual property or other rights.&nbsp;<br>
+<br>
+<br>
+5. Your use of Other Users' Information<br>
+SeniorsMeet.com and our users do not tolerate spam, harassment, or
+threats.&nbsp;<br>
+<br>
+6. Control of Your Password<br>
+You may not disclose your password to any third parties or share it
+with any third parties. If, despite the foregoing, you lose control of
+your password, you may lose substantial control over your personally
+identifiable information and may be subject to legally binding actions
+taken on your behalf. Therefore, if your password has been compromised
+for any reason, you should immediately change your password.&nbsp;<br>
+<br>
+7. Reviewing and Changing Your Personally Identifiable Information<br>
+Once you register, you will be able to review and change much of your
+personally identifiable information at SeniorsMeet.com including:&nbsp;<br>
+<br>
+Your email address<br>
+Your city, state, zip code, country<br>
+Your password<br>
+Your profile<br>
+<br>
+Please promptly update your information if it changes.&nbsp;<br>
+<br>
+Once posted, you cannot change or remove any public postings made in
+our chat rooms or other message areas. Upon your request, we will
+remove your credit card number and credit card expiration date from our
+databases. To make this request, email us at support@seniorsmeet.com.
+We will retain in our files information you have requested to remove in
+some circumstances, such as to resolve disputes, troubleshoot problems
+and enforce our User Agreement.&nbsp;<br>
+<br>
+8. Third Party Collections of Information<br>
+Our policy only addresses the use and disclosure of information we
+collect from you. To the extent that you disclose your information to
+other parties on our system or other sites throughout the Internet,
+different rules may apply to their use or disclosure of the personal
+information you disclose to them. While SeniorsMeet.com is working
+closely with our partners to ensure the highest privacy to you, we
+encourage you to ask questions before you disclose your personal
+information to others.&nbsp;<br>
+<br>
+9. Security<br>
+SeniorsMeet.com has security measures in place to protect and prevent
+the loss, misuse, and alteration of the information under our control.
+SeniorsMeet.com uses industry standard efforts to safeguard the
+confidentiality of your personal identifiable information such as
+firewalls. While "perfect security" does not exist on the Internet, our
+technical experts at SeniorsMeet.com work hard to ensure your secure
+use of our services.&nbsp;<br>
+<br>
+10. Update/Delete<br>
+SeniorsMeet.com Members have the following choices to modify or delete
+their information from our database:<br>
+<br>
+Send an email to our customer service rep. at<font color="#ff00ff"> </font><a href="mailto:cs@seeniorsmeet.com?subject=privacy"><font color="#000000">support@seniorsmeet.com</font></a><br>
+
+
+
+
+
+
+
+
+<br>
+      
+      <br><br>There are 0 registered users online and 1 guests online.  <a href="index.php?page=whos_online">Click here to see who's online.</a>
+</td>
+  </tr>
+  <tr>
+    <td colspan="5" align="right" class="trs" height="20"><font class="w">Copyright
+      (c) 2003 SeniorsMeet.com          </font></td>
+  </tr>
+</tbody></table>
+<br><br>
+
+
+
+</body></html>
