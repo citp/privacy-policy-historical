@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402123125id_/http%3A//www.adtegrity.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203024127id_/http%3A//www.adtegrity.com/privacy.asp) for the most accurate reproduction.*
 
 # Adtegrity.com :: Insightful :: Internet :: Advertising
-
-| 
 
 Adtegrity.com has created the following privacy policy in order to demonstrate our commitment to assuring privacy for publishers, advertisers, and website visitors. 
 
