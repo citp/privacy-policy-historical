@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kshb.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202144935id_/http%3A//web.kshb.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kshb.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605093701id_/http%3A//web.kshb.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # KSHB: Privacy Policy
 
@@ -40,4 +40,4 @@ VI. Opting-out
 At any time while assessing our site(s), any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our site(s)). For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above.
 
 VII. Use of Materials   
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at feedback@nbcactionnews.com. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20031202144935id_/http%3A//web.kshb.com/user_agreement.shtml).
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at feedback@nbcactionnews.com. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20040605093701id_/http%3A//web.kshb.com/user_agreement.shtml).
