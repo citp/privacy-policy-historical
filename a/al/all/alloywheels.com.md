@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212025513id_/http%3A//www.alloywheels.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206000150id_/http%3A//alloywheels.com/Privacy.asp) for the most accurate reproduction.*
 
-# Alloy Wheels, www.aloywheels.com, ++44 1702 545689, UK's number 1 alloy wheels specialist, best package deals online. 2,000 wheels showroom, 10,000 wheels in stock. Supplier of Wolfrace Wheels.
+# Alloy Wheels, www.alloywheels.com, ++44 1702 545689, UK's number 1 alloy wheels specialist, best package deals online. 2,000 wheels showroom, 10,000 wheels in stock. Supplier of Wolfrace Wheels.
 
 |  Privacy Policy
 
@@ -81,7 +81,7 @@ General
 > 
 > 13\. Please be aware that our site may link to other web sites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked web sites.  
   
- For further information about shopping on rochfordtyres.co.uk please read our [Terms and Conditions](https://web.archive.org/web/20041212025513id_/http%3A//www.alloywheels.com/terms.asp).  
+ For further information about shopping on rochfordtyres.co.uk please read our [Terms and Conditions](https://web.archive.org/web/20050206000150id_/http%3A//alloywheels.com/terms.asp).  
   
   
 
