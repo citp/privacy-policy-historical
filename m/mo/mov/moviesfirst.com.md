@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesfirst.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207163900id_/http%3A//www.imdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesfirst.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630004152id_/http%3A//imdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Database (IMDb)
 
