@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picstop.co.uk privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205060259id_/http%3A//www.picstop.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picstop.co.uk privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402032815id_/http%3A//www.picstop.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Digital Camera Memory, Card Reader, Battery Charger, XD, MMC, SD Card & Compact Flash Memory Cards.
 
@@ -21,4 +21,4 @@ PicStop does not disclose shopper information to third parties, with the excepti
 
 The personal information which we hold will be held securely in accordance with our internal security policy and the law. All such information is held on secure servers and PicStop fully complies with all applicable Data Protection and consumer legislation and will treat all your personal information as fully confidential. We will never release your personal details any companies for marketing purposes.
 
-If you have any concerns regarding the privacy of this site please contact us: [Contact >>](https://web.archive.org/web/20041205060259id_/http%3A//www.picstop.co.uk/contact.php)
+If you have any concerns regarding the privacy of this site please contact us: [Contact >>](https://web.archive.org/web/20050402032815id_/http%3A//www.picstop.co.uk/contact.php)
