@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxtoday.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604145946id_/http%3A//www.internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxtoday.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203042616id_/http%3A//www.internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Jupitermedia Privacy Policy
 
@@ -78,5 +78,6 @@ Please send any questions about JUPM’s Privacy Policy to: [privacy@internet.co
 Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.internet.com/corporate/legal.html). 
 
   
-[Legal Notices](http://www.internet.com/corporate/legal.html),  [Licensing](http://www.internet.com/corporate/reprints.html#Licensing), [Reprints](http://www.internet.com/corporate/reprints.html#Reprints), & [Permissions](http://www.internet.com/corporate/reprints.html#Permissions),  [Privacy Policy](http://www.internet.com/corporate/privacy/privacypolicy.html).  
+[Legal Notices](http://www.internet.com/corporate/legal.html),  [Licensing](http://www.internet.com/corporate/reprints.html#Licensing1), [Reprints](http://www.internet.com/corporate/reprints.html#Reprints1), & [Permissions](http://www.internet.com/corporate/reprints.html#Permissions),  [Privacy Policy](http://www.internet.com/corporate/privacy/privacypolicy.html).   
+[](http://www.earthweb.com/)   
 [](http://www.internet.com/)
