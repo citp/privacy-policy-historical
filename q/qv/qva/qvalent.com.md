@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvalent.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210055530id_/http%3A//www.qvalent.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvalent.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621121010id_/http%3A//www.qvalent.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # Qvalent | Privacy Policy
 
