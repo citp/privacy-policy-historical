@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettingadvice.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203093818id_/http%3A//www.bettingadvice.com/showInfo.php%3Fid%3D115) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingadvice.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605184610id_/http%3A//bettingadvice.com/showInfo.php%3Fid%3D115) for the most accurate reproduction.*
 
 # W W W . B E T T I N G A D V I C E . C O M
 
