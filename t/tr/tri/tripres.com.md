@@ -1,22 +1,29 @@
-> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2001-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011225195942id_/http%3A//tripres.com/lasvegas/index.cfm%3FPage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216033518id_/http%3A//www.tripres.com/lasvegas/index.cfm%3FFuseAction%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# TripReservations.com - Your source for the best hotel room rate discounts in Las Vegas!
+# TripReservations.com: Discount Hotel Rooms and Show Tickets in Las Vegas, NV
 
-|   
+|  |  Las Vegas Hotel Rooms at Discount Rates, Guaranteed!
+
+| **Search hotel room rates for these dates:**  
 ---  
+Hotel:  |  |   
+Arrival:  | 
+
+|  |   
   
-**TripReservations.com's E-Mail List**   
-You will be notified of specials available from TripReservations.com!   
+---|---  
   
-|  Your Privacy
+Nights:     Rooms:   
+  
+Your Privacy
 
 At TripReservations.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized travel experience. Please read on for more details about our privacy policy. 
 
 **What information do we collect? How do we use it?**
 
-  * When you reserve a hotel room we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your reservation request and to notify you of your reservation status. 
-  * When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
-  * We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new TripReservations.com services, and special offers we think you'll find valuable. 
+  * When you reserve a hotel room we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your reservation request and to notify you of your reservation status.
+  * When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
+  * We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new TripReservations.com services, and special offers we think you'll find valuable.
 
 **Does TripReservations.com protect customer information?**   
 When you place orders or access your account information, we offer the use of secure encryption algorithms to protect sensitive data. The encryption algorithms encrypt all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. 
@@ -34,7 +41,4 @@ We are committed to protecting your privacy. We use the information we collect o
 By using our Web site, you consent to the collection and use of this information by TripReservations.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
 **Tell us what you think**   
-TripReservations.com welcomes your questions and comments about privacy. Please send e-mail to [feedback@tripreservations.com](mailto:feedback@tripreservations.com&Subject=Website%20Feedback).   
-  
-[Privacy Policy](https://web.archive.org/web/20011225195942id_/http%3A//tripres.com/lasvegas/index.cfm?Page=Privacy)   |   [Terms & Conditions](https://web.archive.org/web/20011225195942id_/http%3A//tripres.com/lasvegas/index.cfm?Page=TermsAndConditions)   |   [Employment](https://web.archive.org/web/20011225195942id_/http%3A//tripres.com/lasvegas/index.cfm?Page=Employment)          North America: **800-255-0372**     International: **+1-702-946-5200**   
-All Rights Reserved. Copyright ©1998-2001 by TripReservations.com 
+TripReservations.com welcomes your questions and comments about privacy. Please send e-mail to feedback@tripreservations.com. 
