@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emc.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607102228id_/http%3A//www.emc.com/site/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emc.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206203301id_/http%3A//www.emc.com/site/privacy.jsp) for the most accurate reproduction.*
 
 # EMC: Privacy
 
@@ -66,6 +66,8 @@ EMC also uses cookies on some of its web sites. Cookies are identifiers that can
 
 You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you and personalize your web-browsing experience.
 
+EMC uses the services of a third party vendor, DoubleClick, to help us measure the effectiveness of our advertising and how visitors use our web site. To do this, we may use Web beacons and cookies provided by DoubleClick on this site. The type of information we collect includes the pages visited, navigation patterns, etc. This information helps us learn things such as what product information is of most interest to our customers, and what kinds of offers our customers like to see. Although DoubleClick logs the information coming from our site on our behalf, EMC controls how that data may and may not be used. If you do not want to assist EMC in improving our site, products, offers and marketing strategy, you can “opt-out” of this web-site analysis tool by clicking here: <http://optout.emc.rpts.net/cgi-bin/rpts/optout.pl>
+
 **Links to Non-EMC Web Sites and Third Parties**  
 The EMC web sites may provide links to third-party web sites for your convenience and information. If you access those links, you will leave the EMC web site. EMC does not control those sites or their privacy practices, which may differ from EMC’s. We do not endorse or make any representations about third party web sites. The personal data you choose to give to unrelated third parties is not covered by the EMC Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. Some third party companies may choose to share their personal data with EMC; that sharing is governed by that third party company's privacy policy. 
 
@@ -83,4 +85,4 @@ Except as provided above, dispute resolution for all other individuals shall be 
 **Changes to this Statement**  
 EMC will review and update this Statement periodically. 
 
-April 2004
+Revised: August 2004
