@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musicnotes.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214093409id_/http%3A//musicnotes.com/secure.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicnotes.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207194052id_/http%3A//musicnotes.com/secure.asp) for the most accurate reproduction.*
 
-# musicnotes.com :: the world's favorite sheet music store
+# musicnotes.com - sheet music for the 21st century
 
   |  **secure shopping ::**
 
