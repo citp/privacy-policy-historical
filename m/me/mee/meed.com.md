@@ -1,13 +1,45 @@
-> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015104523id_/http%3A//www.meed.com/nav%3Fpage%3Dmeed.static.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205024626id_/http%3A//www.meed.com/nav%3Fpage%3Dmeed.static.privacy) for the most accurate reproduction.*
 
-# MEED - The Middle East Business Weekly
+# MEED - Middle East Business News & Information
 
-|  |   
+| **05 December 2004**   
+= Subscriber Access  
+---  
+ [Breaking News](https://web.archive.org/nav?page=meed.backgrounder.news "Click here for Breaking News")  
+ [Archive](https://web.archive.org/nav?page=meed.search.advanced "Click here for the MEED Archive")  
+ [Search](https://web.archive.org/nav?page=meed.search.advanced "Click here to Search")  
+ [News & Analysis](https://web.archive.org/nav?page=meed.newslist&title=News+%26+Analysis "Click here for News & Analysis")  
+ [Country News](https://web.archive.org/nav?page=meed.newslist "Click here for News & Analysis")  
+ [Exchange Rates](https://web.archive.org/nav?page=meed.enhancedlogin "Click here for the Currency Exchange")   
+ [Tender News](https://web.archive.org/nav?page=meed.tenderlist "Click here for Tenders")  
+ [Contract News](https://web.archive.org/nav?page=meed.contractlist "Click here for Contract News")   
+ [Company Profiles](https://web.archive.org/nav?page=meed.backgrounder.profiles "Click here for Company Profiles")   
+ [Sector/Country Backgrounds](https://web.archive.org/nav?page=meed.backgrounder.sector_Background "Click here for Sector/Country Backgrounds")   
+ [Useful Links](https://web.archive.org/nav?page=meed.usefulLinks "Click here for Useful Links")  
+  **Comment & Analysis**   
+ [Special Reports](https://web.archive.org/nav?page=meed.specialreportlist "Click here for Special Reports")   
+ [Cover Stories](https://web.archive.org/nav?page=meed.covers "Click here for Cover Stories")   
+ [MEED Interviews](https://web.archive.org/nav?page=meed.interviews "Click here for MEED Interviews")   
+ [MEED Briefings](https://web.archive.org/nav?page=meed.briefings "Click here for MEED Briefings")   
+ [Capital Markets](https://web.archive.org/nav?page=meed.capital_markets "Click here for Capital Markets")   
+ [Last Word](https://web.archive.org/nav?page=meed.lastword "Click here for Last Word")  
+  
+ [MEED Conferences](https://web.archive.org/nav?page=meed.conflist "Click here for Conferences")   
+ [Business Confidence Index](https://web.archive.org/nav?page=meed.business "Click here for Conferences")   
+ [MEED Market Reports](http://www.marketreports.meed.com/ "Click here for Market Reports")   
+ [Advertise](https://web.archive.org/nav?page=meed.static.advert "Click here for Advertise")   
+ [Subscribe](https://web.archive.org/nav?page=meed.subscription "Click here to Subscribe")   
+ [Contact Us](https://web.archive.org/nav?page=meed.static.contactus "Click here to Contact Us")   
+ [Renew your subscription](https://web.archive.org/nav?page=meed.subscription.renewal "Click here to Renew your Subscription")   
+ [Register](https://web.archive.org/nav?page=meed.registration.create "Click here to Register")  
+|   
   
 ---  
 | Privacy Statement  
 ---  
-**MEED** and Emap Communications [(Emap)](http://www.emap.com/ "Click here for the official Emap web site") are committed to protecting your privacy and security. From time to time we may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services and email newsletters ). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to affiliates of [Emap](http://www.emap.com/ "Click here for the official Emap web site") for processing both inside and outside the European Economic Area. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information. We will never wilfully disclose personal information about you to any third party other than to process an order without first receiving your permission or unless we are under a legal obligation to do so. 
+**MEED** and Emap Communications [(Emap)](http://www.emap.com/ "Click here for the official Emap web site") are committed to protecting your privacy and security. From time to time we may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services and email newsletters ). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to affiliates of [Emap](http://www.emap.com/ "Click here for the 
+
+official Emap web site") for processing both inside and outside the European Economic Area. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information. We will never wilfully disclose personal information about you to any third party other than to process an order without first receiving your permission or unless we are under a legal obligation to do so. 
 
 Why We Need To Collect Information From You
 
@@ -34,7 +66,7 @@ UK
 Click here for a map>>
 
 Tel: +44 (0)20 7505 8000  
-Email: [feedback@meed.com](mailto:Michelle.Tempest-Mitchell@ebi.emap.com?subject=MEED.com%20Query)
+Email: [feedback@meed. com](mailto:Michelle.Tempest-Mitchell@ebi.emap.com?subject=MEED.com%20Query)
 
 **General**
 
