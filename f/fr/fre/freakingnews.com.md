@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freakingnews.com privacy policy that was archived on 2003-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031227164814id_/http%3A//www.freakingnews.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakingnews.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610183640id_/http%3A//www.freakingnews.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
 
 # FreakingNews.com - News Photoshop Contests - hidden
 
