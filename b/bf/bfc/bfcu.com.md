@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfcu.com privacy policy that was archived on 2000-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000517113409id_/http%3A//www.bfcu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfcu.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208013000id_/http%3A//bfcu.com/privacy.html) for the most accurate reproduction.*
 
 # Bethpage FCU - Online Privacy Policy
 
