@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408230747id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622131149id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -13,6 +13,8 @@ AskAW
 DirectX  
   
 ActiveDVD  
+  
+ActiveGaming  
   
 Forums  
   
@@ -32,6 +34,8 @@ Windows 2000
   
 Windows Me  
   
+Windows Server 2003  
+  
 Windows XP  
   
 ** News Centers**  
@@ -39,6 +43,8 @@ Windows XP
 Windows/Microsoft  
   
 DVD  
+  
+Gaming  
   
 Hardware  
   
@@ -61,8 +67,6 @@ Announced Titles
 Screenshots/Videos  
   
 History Of The Xbox  
-  
-Press Releases  
   
 Links  
   
@@ -97,6 +101,8 @@ Windows 98/98 SE
 Windows 2000  
   
 Windows Me  
+  
+Windows Server 2002  
   
 Windows "Whistler" XP  
   
@@ -160,29 +166,29 @@ Drivers
   
 **Games**  
   
-Microsoft Links 2001  
+Asheron's Call: Fallen Kings  
   
-Microsoft Combat Flight Simulator 2  
+The Thing  
   
 **Xbox**  
   
-Tony Hawk's Pro Skater 2x  
+Whacked!  
   
-Project Gotham Racing  
+James Bond: Nightfire  
   
 **Applications**  
   
-CyberLink PowerDVD 3.0  
+MSN 8  
   
-Microsoft Picture It! Platinum Edition 2001  
+Adobe InDesign 2.0  
   
 **Hardware**  
   
-Intel Pentium III (Tualatin) 1.13GHz & D815EEA2 rev. B  
+Microsoft Wireless Optical Desktop Pro  
   
-Intel D810E2CA3 Motherboard & Intel Celeron 900MHz   
+Microsoft Wireless Optical Mouse Special Edition  
   
-SonicBlue RioVolt  
+Microsoft Wireless Optical Desktop for Bluetooth  
   
 ** Site News/Info**  
   
@@ -209,9 +215,14 @@ Site Search
 Awards  
   
 ** Credits**  
-©1997/2002, Active Network. All Rights Reserved.  
-Layout, Concept & Design by [Byron Hinson](http://www.activewin.com/byron). Content written by the Active Network team. Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
+©1997/2003, Active Network, Inc. All Rights Reserved.  
+Layout, & Design by [Designer Dream](http://www.designerdream.co.uk/). Content written by the Active Network team. Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
   
+[](http://www.winguides.com/media/adclick.cgi?gid=29&id=888)
+
+[  
+](http://www.amazon.com/exec/obidos/redirect-home/activedvd-20)
+
   |  |   | 
 
 **  
