@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentanything.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611210838id_/http%3A//www.rentanything.com/help/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentanything.com privacy policy that was archived on 2002-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021222205741id_/http%3A//www.rentanything.com/help/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Rentanything.com || Help
 
