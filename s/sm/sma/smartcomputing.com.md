@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcomputing.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024211828id_/http%3A//smartcomputing.com/info/privacy.asp%3Fguid%3Dgkxpr8s0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcomputing.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607182215id_/http%3A//www.smartcomputing.com/info/privacy.asp%3Fguid%3Db7jo4puy) for the most accurate reproduction.*
 
 # Smart Computing Privacy Policy
 
@@ -10,6 +10,6 @@ _Smart Computing_ understands the concerns people have about privacy and safety 
 3. | When people purchase issues or subscriptions at our site, it's important that the information they enter is secure. That's why we use VeriSign® digital certificates to verify transactions. Customer transactions are secured by SSL encryption and Verisign (R) Certification.  
 4. | _Smart Computing_ uses a secure firewall to keep out unauthorized users and ensure the integrity of our systems. We are vigilant about protecting our site from unwanted intrusions.  
 5. | _Smart Computing_ does **not** sell, trade, or otherwise release any personal information on our site visitors or subscribers. We respect your desire for privacy and zealously protect any information you give us. Your information is safe with us!  
-6. | We are members of the Better Business Bureau® Online Reliability Program (BBBOnLine®). Our company has been in business for more than 20 years, and we have always strived to provide the best customer service available.  
+6. | We are participants in the BBBOnLine® Reliability Program. Our company has been in business for more than 20 years, and we have always strived to provide the best customer service available.  
   
-If you have any questions at all about our Privacy Policy or our Web site, [**please send us a message**](https://web.archive.org/info/customerservice.asp?guid=zp8sog2o). Thank you for visiting our site.
+If you have any questions at all about our Privacy Policy or our Web site, [**please send us a message**](https://web.archive.org/info/customerservice.asp?guid=pt6oehsu). Thank you for visiting our site.
