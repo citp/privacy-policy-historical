@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-midi.org privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012022150id_/http%3A//www.free-midi.org/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-midi.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305042428id_/http%3A//www.free-midi.org/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -15,6 +15,9 @@ The information we collect is used for internal review and is then discarded, us
 With respect to cookies: We use cookies to store visitors preferences, record past activity at a site in order to provide better service when visitors return to our site.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-<http://www.clickxchange.com/privacy>
+<http://www.google.com/privacy.html>   
+<http://www.mamma.com/info/privacy.html>   
+<http://www.claria.com/help/privacy/>  
+<http://www.clickxchange.com/privacy.phtml>
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
