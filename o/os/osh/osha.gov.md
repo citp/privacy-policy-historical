@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 1999-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990827195538id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520001552id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
 
 # Department of Labor's Privacy and Security Statement
 
@@ -32,4 +32,4 @@ For security purposes and to ensure that this service remains available to all u
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996. 
 
-[ DOL Home Page](https://web.archive.org/dol/welcome.htm) | [ Top of Document](https://web.archive.org/web/19990827195538id_/http%3A//www.dol.gov/dol/privacynotice.htm)
+[ DOL Home Page](https://web.archive.org/dol/welcome.htm) | [ Top of Document](https://web.archive.org/web/20000520001552id_/http%3A//www.dol.gov/dol/privacynotice.htm)
