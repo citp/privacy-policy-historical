@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the dccomics.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204111259id_/http%3A//www.dccomics.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccomics.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206085732id_/http%3A//www.dccomics.com/about/privacy.html) for the most accurate reproduction.*
 
 # DC Comics
 
-Thank you for visiting DCCOMICS.COM, aTime Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this AOL Time Warner site. The related DC COMICS sites that are governed by this Privacy Notice are as follows:
+Thank you for visiting DCCOMICS.COM, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this AOL Time Warner site. The related DC COMICS sites that are governed by this Privacy Notice are as follows:
 
 Please note that other Time Warner sites, including [www.dckids.com](http://www.dckids.com/), operate under their own strict privacy and security policies.
 
  **The Information We Collect  
-**At some AOL Time Warner sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+**At some Time Warner sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
-At some other AOL Time Warner sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
+At some other Time Warner sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
 
 At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 
@@ -26,28 +26,28 @@ The information we collect in connection with our online forums and communities 
 
 If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your screen name and other information you have provided to us.
 
-If you have sent a letter to the editor and need to access and revise your email address or any other personally identifiable information, please send your request to dccommail@aol.com.
+If you have sent a letter to the editor and need to access and revise your email address or any other personally identifiable information, please send your request to dccommail@.com.
 
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
 
 We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
-Agents and contractors of AOL Time Warner who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for AOL Time Warner.
+Agents and contractors of Time Warner who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Warner.
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 
-Certain AOL Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here.](https://web.archive.org/web/20041204111259id_/http%3A//www.dccomics.com/about/more.html#sharing)
+Certain Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here.](https://web.archive.org/web/20050206085732id_/http%3A//www.dccomics.com/about/more.html#sharing)
 
-AOL Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/web/20041204111259id_/http%3A//www.dccomics.com/about/more.html#marketing) for instructions on how to make your request.
+Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/web/20050206085732id_/http%3A//www.dccomics.com/about/more.html#marketing) for instructions on how to make your request.
 
-Finally, AOL Time Warner sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+Finally, Time Warner sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
 **Collection of Information by Third-Party Sites and Sponsors  
 **Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-AOL Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. AOL Time Warner has no control over these third parties' use of this information. The AOL Time Warner site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Time Warner has no control over these third parties' use of this information. The Time Warner site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-Some AOL Time Warner sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20041204111259id_/http%3A//www.dccomics.com/about/more.html#thirdparty).
+Some Time Warner sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20050206085732id_/http%3A//www.dccomics.com/about/more.html#thirdparty).
 
 **Cookies  
 **To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
@@ -58,15 +58,15 @@ We use cookies to understand site usage and to improve the content and offerings
 **We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
 **How You can Access or Correct Information  
-**For instructions on how you can access the personally identifiable information that this AOL Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/web/20041204111259id_/http%3A//www.dccomics.com/about/more.html#id).
+**For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/web/20050206085732id_/http%3A//www.dccomics.com/about/more.html#id).
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+To protect your privacy and security, we will Take reasonable steps to help verify your identity before granting access or making corrections.
 
 **Special Note for Parents  
-**The site you are visiting is one of the AOL Time Warner general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
+**The site you are visiting is one of the Time Warner general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
 
 **How to Contact Us  
-**If you have any questions or concerns about the AOL Time Warner online policy for this site or its implementation you may contact us at (212)636-5997 or e-mail us at [DCCOMMAIL@aol.com](mailto:dccommail@aol.com).
+**If you have any questions or concerns about the Time Warner online policy for This site or its implementation you may contact us at (212)636-5997 or e-mail us at [DCCOMMAIL@.com](mailto:dccommail@.com).
 
 Notification regarding updates  
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat our personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
