@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade.gov privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618184656id_/http%3A//trade.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade.gov privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208144330id_/http%3A//www.trade.gov/privacy.html) for the most accurate reproduction.*
 
 # International Trade Administration (ITA) Privacy Statement
 
