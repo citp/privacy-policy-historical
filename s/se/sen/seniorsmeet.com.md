@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seniorsmeet.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619074755id_/http%3A//www.seniorsmeet.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniorsmeet.com privacy policy that was archived on 2004-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040929084506id_/http%3A//www.seniorsmeet.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# SeniorsMeet.com
+# Seniors Meet
 
 **SeniorsMeet.com Privacy Policy**
 
@@ -63,5 +63,3 @@ SeniorsMeet.com Members have the following choices to modify or delete their inf
 Send an email to our customer service rep. at
 
 [support@seniorsmeet.com](mailto:cs@seeniorsmeet.com?subject=privacy)
-
-There are 0 registered users online and 1 guests online. [Click here to see who's online.](https://web.archive.org/web/20040619074755id_/http%3A//www.seniorsmeet.com/index.php?page=whos_online)
