@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techlearning.com privacy policy that was archived on 1999-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991104192552id_/http%3A//www.mfi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlearning.com privacy policy that was archived on 2000-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000608000542id_/http%3A//www.mfi.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Miller Freeman Inc.
 
@@ -9,7 +9,7 @@
 San Francisco, CA 94107  
 Phone: 415.905.2200  
 Fax: 415.905.2232  
-[Other U.S. offices](https://web.archive.org/web/19991104192552id_/http%3A//www.mfi.com/contact.htm)
+[Other U.S. offices](https://web.archive.org/web/20000608000542id_/http%3A//www.mfi.com/contact.htm)
 
 **MFI/UK**  
 Miller Freeman House  
@@ -37,7 +37,7 @@ company._
 
 |  **Privacy Policy**
 
-Miller Freeman, Inc. is committed to protecting your privacy in all aspects of our business, from Web sites and print publications, to trade shows and conferences. This privacy statement discloses what information we collect and how we use it. We welcome your feedback, please see [below](https://web.archive.org/web/19991104192552id_/http%3A//www.mfi.com/privacy.html#contact) for our contact information.
+Miller Freeman, Inc. is committed to protecting your privacy in all aspects of our business, from Web sites and print publications, to trade shows and conferences. This privacy statement discloses what information we collect and how we use it. We welcome your feedback, please see [below](https://web.archive.org/web/20000608000542id_/http%3A//www.mfi.com/privacy.html#contact) for our contact information.
 
 **Internet**  
 We collect the IP addresses of those who visit our Web sites. This information is used for internal research only. Additionally we also store customer information such as names, mail and email addresses, as volunteered by the consumer for such services as site registration, subscriptions, surveys and more.
@@ -55,7 +55,7 @@ This data is used in the following ways; to improve the conference sessions and 
 **Children's privacy online**  
 We understand that children's privacy is important. We do not monitor the age of our user audience. However, if you are under age 13, you should not submit personal identifying information to any Miller Freeman, Inc. Web site without the consent of your parent or guardian.
 
-**How we use customer supplied data…**  
+**How we use customer supplied data.**  
 From time to time, we make our customer address and telephone number lists available to other reputable companies and organizations whose products or services we think you might find interesting. If you do not wish to receive information from other companies or organizations, please let us know (see contact information below).
 
 We never make customer fax numbers available to anyone outside Miller Freeman, Inc. We do use customer supplied fax numbers to tell customers about ordered products, subscription renewals and upcoming events. If you do not wish to receive information from us via fax, please let us know (see contact information below).
@@ -74,14 +74,30 @@ _Information you choose to disclose to third parties:_ From time to time, Miller
 
 _Information you choose to disclose publicly:_ Finally, if you knowingly provide personal identifying information such as your user name or email address in a chat or bulletin board area, you should be aware that the information provided can be collected and used by others visiting that area.
 
-|  **If you would like to opt out of a fax, email or mail list, please send us your email address and choose the name of the correspondence from which you want to be removed.**  
+* * *
+
+**Mailing lists** :  
+*IMPORTANT NOTE: During the early part of 2000, MFI is migrating all of the LISTSERV lists to LYRIS.  
+There are clear unsubscribe instructions at the bottom of every message sent out from Lyris, should you need to unsubscribe to a specific list. 
+
+* * *
+
+|  **LISTSERV mailing lists**  
+If you would are currently receiving mail from listserv and would like to opt out, please choose the name of the correspondence from which you want to be **removed** , and enter your email address.   
 ---  
-If the name of the property is not on the above picklist, please enter it below.   
----  
-**Email** |   
-**Phone** |  415.905.2200  
+  
+* * *
+
+* * *
+
+Or you may contact:
+
+**Phone**
+
+|  415.905.2200  
 8:30-4:45pm PST, Monday-Friday  
 Ask for customer service  
+---|---  
 **Mail** |  Miller Freeman, Inc.  
 600 Harrison Street  
 San Francisco, CA 94107  
