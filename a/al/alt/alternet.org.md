@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217233605id_/http%3A//www.alternet.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142823id_/http%3A//www.alternet.org/privacy.html) for the most accurate reproduction.*
 
-# AlterNet
+# AlterNet -- Privacy Policy
 
 |    
+[](https://web.archive.org/911book)  
+  
 **Content Files**  
   
-[9-11](https://web.archive.org/?IssueAreaID=25)  
+[War in the Middle East](https://web.archive.org/?IssueAreaID=28)  
+[After 9-11](https://web.archive.org/?IssueAreaID=25)  
 [DrugReporter](https://web.archive.org/?IssueAreaID=17)  
-[MediaCulture](https://web.archive.org/?IssueAreaID=19)  
-[Globalization](https://web.archive.org/?IssueAreaID=21)  
-[EnviroHealth](https://web.archive.org/?IssueAreaID=18)  
+[EnronGate](https://web.archive.org/?IssueAreaID=30)  
+[Global Affairs](https://web.archive.org/?IssueAreaID=31)  
 [Human Rights USA](https://web.archive.org/?IssueAreaID=22)  
+[MediaCulture](https://web.archive.org/?IssueAreaID=19)  
   
   
   
@@ -22,7 +25,8 @@
   
 **Donate**  
   
-In the wake of the 9-11 terrorist attacks, America needs independent media more than ever. Please help support AlterNet's continuing coverage of this and other critical issues with your [tax-deductible donation.](https://web.archive.org/donate.html) [Donate Now >>](https://web.archive.org/donate.html)   
+America needs independent media now more than ever. Please help support AlterNet's continuing coverage of current events, civil rights and liberties and more with your [tax-deductible donation.](https://web.archive.org/donate)[Donate Now >>](https://web.archive.org/donate)  
+  
   
   
 [](http://service.bfast.com/bfast/click?bfmid=10828116&siteid=32317986&bfpage=londistance1) |  |  |  |    
@@ -81,7 +85,8 @@ San Francisco, CA 94107
 
 AlterNet.org reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective. 
 
-|  |  |  | 
+|  |  |  |   
+
 
 AlterNet's online community awaits you: Get engaged, share opinions, insight, frustration, rage.[Registered Users >>](https://web.archive.org/discuss/user.html)  
 [Guests >>](https://web.archive.org/discuss/guest.html)
