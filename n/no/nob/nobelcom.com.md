@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202202344id_/http%3A//www.nobelcom.com/nobelcom/jsp/misc/misc.jsp%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603123421id_/http%3A//www.nobelcom.com/nobelcom/jsp/misc/misc.jsp%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # NobelCom.com Information
 
