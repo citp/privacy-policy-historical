@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618133654id_/http%3A//www.winamp.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229022154id_/http%3A//www.winamp.com/privacypolicy.php) for the most accurate reproduction.*
 
 # WINAMP.COM |
 
@@ -33,4 +33,6 @@ Winamp is committed to securely maintaining any information that you provide to 
 If we decide to change our privacy policy, we will post the changes here so that you will always know what information we collect about you, how we use it and whether it is shared with anyone. 
 
 **Contact Information**  
-Any questions regarding this privacy policy or the Winamp service can be sent to support<at>winamp<dot>com or by calling 1-866-WINAMP5. 
+Any questions regarding this privacy policy or the Winamp service can be sent to support<at>winamp<dot>com or by calling 1-866-WINAMP5.
+
+Last Updated: December 2003 
