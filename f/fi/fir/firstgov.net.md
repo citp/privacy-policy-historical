@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstgov.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603175002id_/http%3A//www.firstgov.net/About/Privacy_Security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgov.net privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203192420id_/http%3A//firstgov.net/About/Privacy_Security.shtml) for the most accurate reproduction.*
 
-# FirstGov — Privacy and Security
+# FirstGov – Privacy and Security
 
 Thanks for visiting the FirstGov.gov website and reviewing our privacy policy. Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information. 
 
@@ -30,7 +30,9 @@ Per-session cookies serve technical purposes like providing seamless navigation 
 
 If You Send Us Personal Information 
 
-If you choose to provide us with personal information -- like filling out a Contact Us form with personal information and submitting it to us through the website -- we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give it to any private organizations. FirstGov.gov never collects information for commercial marketing.
+If you choose to provide us with personal information – like filling out a Contact Us form with an e-mail address and zip code and submitting it to us through the website – we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give it to any private organizations. FirstGov.gov never collects information for commercial marketing.
+
+While you must provide an e-mail address and zip code for a localized response to any incoming questions or comments to FirstGov.gov, we recommend that you NOT include any other personal information, especially Social Security numbers. The Social Security Administration offers additional [guidance](https://web.archive.org/external/external.jsp?url=http://www.ssa.gov/pubs/10002.html#giving "guidance") on sharing your Social Security number.
 
 Site Security    
 
@@ -41,7 +43,7 @@ Site Security
 
 FirstGov.gov Linking Policy 
 
-FirstGov.gov links to many websites created and maintained by other public and/or private organizations. FirstGov.gov provides these links as a service to our users. When users link to an outside website, they are leaving the FirstGov.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). Click here to review the FirstGov.gov [ Linking Policy](https://web.archive.org/About/Linking_Policy.shtml "Linking Policy").
+FirstGov.gov links to many websites created and maintained by other public and/or private organizations. FirstGov.gov provides these links as a service to our users. When users link to an outside website, they are leaving the FirstGov.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). Be sure to review the FirstGov.gov  [ Linking Policy](https://web.archive.org/About/Linking_Policy.shtml "Linking Policy").
 
 Prohibitions 
 
