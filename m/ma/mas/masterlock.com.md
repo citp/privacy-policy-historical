@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610121212id_/http%3A//www.masterlock.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223172329id_/http%3A//www.masterlock.com/general/privacy.shtml) for the most accurate reproduction.*
 
 # Master Lock: Privacy Notice
 
@@ -17,7 +17,7 @@ When you visit this Site, we keep track of your domain name, the time you access
 
 If you provide information about yourself by registering on a page, by filling out a survey, by participating in our chat rooms or otherwise by voluntarily telling us about yourself or your activities, we will collect that information for our own use. We use the information you and other visitors give us to improve our products and services and the content of this Site. 
 
-We may also use it to send you information about our products and services. If at any time you do not want to receive e-mail from us, please let us know by sending an e-mail message to us at: [webmaster@Masterlock.com](mailto:webmaster@Masterlock.com) telling us that you do not want to receive e-mail from our company. 
+We may also use it to send you information about our products and services. If at any time you do not want to receive e-mail from us, please let us know by sending an e-mail message to us at: [Master Lock Contact Form](https://contact.masterlock.com/index.aspx?ID=5) telling us that you do not want to receive e-mail from our company. 
 
 ATTENTION KIDS: If you are 16 or younger, be sure to ask your parents for permission before you send us any personal information such as your name, address or telephone number or enter any contest or request any free offers. ATTENTION PARENTS: You may wish to consider using software tools that prevent children from disclosing their personal information without your permission. Such software is available on-line or in your local software store or send us an e-mail request for further information. 
 
@@ -25,6 +25,6 @@ Master Lock reserves the right to change or update this policy at any time by po
 
 Please see the Master Lock Company's 
 
-[legal notice](https://web.archive.org/web/20040610121212id_/http%3A//www.masterlock.com/general/legal.shtml) for more information.  
+[legal notice](https://web.archive.org/web/20041223172329id_/http%3A//www.masterlock.com/general/legal.shtml) for more information.  
   
 
