@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the compusa.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604014944id_/http%3A//www.compusa.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compusa.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204000536id_/http%3A//www.compusa.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to CompUSA.com - Contact
 
   
-At CompUSA, your privacy is very important to us. We appreciate our customers and understand the value of protecting your rights. We hope to address all of your concerns through this list of privacy-related Frequently Asked Questions. 
+At CompUSA, your privacy is very important to us. We appreciate our customers and understand the value of protecting your rights. We hope to address all of your concerns through this list of privacy-related Frequently Asked Questions. For our younger shoppers, our [Kids' Privacy Policy](https://web.archive.org/kid_privacy.asp) explains additional measures we have taken to ensure their privacy and safety online. 
 
 Does CompUSA collect my IP address?  
-Yes. We use this to identify you and your shopping cart, as well as to help us diagnose any problems you may encounter with our server. 
+Yes. We use this to identify your PC and your shopping cart, as well as to help us diagnose any problems you may encounter with our server. IP addresses are not linked to any personally identifiable information. 
 
 Why does CompUSA need my personal Information?  
-We use your name, email address, phone number, mailing address and credit card information to process your orders and/or notify you if you enter and win a contest on our site. Unlike many companies, we keep your information private and do not sell any information about our customers to a third party. 
+We use your name, email address, phone number, mailing address and credit card information to process your orders and/or notify you if you enter and win a contest on our site. Unlike many companies, we keep your information private and do not sell any information about our customers to a third party. This information is stored in a secure database, and is only accessible to CompUSA employees with proper clearance. 
 
 What is your credit card fraud policy?  
 In the unlikely event that you experience unauthorized use of your credit card, promptly report the fraudulent activity to your credit card company. Under the Fair Credit Billing Act, you are only liable for the first $50 of the fraudulent charges. Please check with your credit card company to verify specific terms and conditions. 
@@ -29,7 +29,13 @@ Encryption is based on the mathematical scrambling and unscrambling of messages.
 I've heard a lot about Secure Sites. What does that mean?  
 Before completing any transaction on a website, you should make sure it is a Secure Site. Being on a Secure Site means you are connected under the cloak of SSL security. You can tell if you are on a Secure Site if you see a padlock or key somewhere along the bottom of your browser's window. If the lock is closed or if the key is unbroken, you are dealing with a Secure Site. 
 
+Do you support the Verified by Visa security service?  
+Committed to providing the most advanced online security features, we support the Verified by Visa security service. Click on the Verified by Visa Symbol to learn more. 
+
 What are cookies and how do they affect my privacy?  
 Simply put, a "cookie" is a small file that serves as an identifier stored on your machine. Although they are not required, we use cookies to make web shopping easier for you. For instance, when you are ready to purchase an item, you only need to sign-in as opposed to entering all of your account information again. A cookie can also save your password so you do not need to enter it each time you visit our site from your PC. 
 
-Our site does contain links to other sites. CompUSA is not responsible for the privacy practices or the content of such websites. If you have any additional questions about our privacy practices, please contact [webmaster@CompUSA.com](https://web.archive.org/contact/contact.asp?type=webmaster)
+What if I still do not feel my online transaction is secure?  
+We will be happy to assist you with your purchase over the phone at 1-800-653-3831. 
+
+Our site does contain links to other sites. CompUSA is not responsible for the privacy practices or the content of such websites. If you have any additional questions about our privacy practices, please contact [webmaster@CompUSA.com](http://www.compusa.com/contact/contact.asp?type=webmaster&)
