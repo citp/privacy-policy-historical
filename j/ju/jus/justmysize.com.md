@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justmysize.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213072658id_/http%3A//www.justmysize.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmysize.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405133811id_/http%3A//www.jms.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
 
 # JMS:Just My Size Plus Size Apparel and Lingerie !!
 
