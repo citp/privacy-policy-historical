@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604183700id_/http%3A//www.handbag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207215547id_/http%3A//www.handbag.com/privacy) for the most accurate reproduction.*
 
 # handbag.com : your privacy
 
@@ -23,6 +23,12 @@ Additionally, Handbag may associate the information stored in a user's cookie wi
 
 IP Addresses  
 When you visit handbag.com your IP address will be automatically logged with Handbag. Your IP address is the number which is assigned to your computer when you access the Internet. Your IP address can be used to identify your computer and your point of access to the Internet. 
+
+Third-party ad serving  
+The ads appearing on handbag.com are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to handbag.com, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve you ads. For more information about DoubleClick, its cookies, and how to opt out, please visit www.doubleclick.net/us/corporate/privacy 
+
+Third-party cookies  
+In the course of serving ads to handbag.com, our third-party advertiser may place or recognise a unique cookie on your browser. 
 
 **How your information is used**  
 The personal information that you disclose to Handbag may be used to provide you with goods, services and features and to communicate with you. Such information may also be used for verification purposes, fulfilling orders, prizes, tracking compliance with the terms and conditions of use for handbag.com, http://www.handbag.com/copyright/ compliance with applicable laws and the performance of legal obligations. 
@@ -62,4 +68,4 @@ In the event that you have provided personal information that has been shared wi
 **How to contact us**  
 If you have any questions about our privacy policy or the practices of Handbag, please contact us at: 
 
-151 Oxford Street, London W1R 1TB 0207 292 0020 marketing@handbag.com 
+151 Oxford Street, London W1D 2JG 0207 292 0020 marketing@handbag.com 
