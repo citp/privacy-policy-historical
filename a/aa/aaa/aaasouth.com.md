@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaasouth.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605152954id_/http%3A//www.aaasouth.com/main_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaasouth.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217023549id_/http%3A//www.aaasouth.com/main_privacy.asp) for the most accurate reproduction.*
 
 # AAA Auto Club South-Privacy Policy
 
@@ -15,8 +15,8 @@ Below is a list of non-volunteered information that will be collected automatica
 >  Criteria used when searching   
 > 
 
-If the user supplies their telephone number online, they may be contacted by AAA regarding orders placed online. Please be sure to provide AAA with the correct phone number. 
+If the user supplies their telephone number online, they may be contacted by AAA regarding orders placed online. Please be sure to provide AAA with the correct phone number.
 
-Using the automatic log-in function of this website will cause a cookie to be written to the PC in use at the time. Cookies are small text files which store an encrypted version of your user ID and password. When you come back to this site, this information will be used to automatically log you into the web site using a secure connection. The cookies will not store any information that will be used for tracking or advertising. 
+Using the automatic log-in function of this website will cause a cookie to be written to the PC in use at the time. Cookies are small text files which store an encrypted version of your user ID and password. When you come back to this site, this information will be used to automatically log you into the web site using a secure connection. The cookies will not store any information that will be used for tracking or advertising.
 
-To avoid any solicitations from AAA as a result of establishing a User ID on this website, please click on "My Account" at the top of this page and set your communication preferences under the "Opt In/Opt Out" tab. 
+To avoid any solicitations from AAA as a result of establishing a User ID on this website, please click on "My Account" at the top of this page and set your communication preferences under the "Opt In/Opt Out" tab.
