@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629235754id_/http%3A//www.affiliatesdirectory.com/contact-us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208053458id_/http%3A//affiliatesdirectory.com/contact-us/privacy.shtml) for the most accurate reproduction.*
 
 # We repect your privacy at AffiliatesDirectory.com
 
@@ -44,7 +44,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their personal information (or information about any affiliate program) from our database and/or to not receive future communications from AffiliatesDirectory.com. 
 
-  1. You can send email to the webmaster by [using the following form.](https://web.archive.org/web/20040629235754id_/http%3A//www.affiliatesdirectory.com/contact-us/index.shtml)
+  1. You can send email to the webmaster by [using the following form.](https://web.archive.org/web/20041208053458id_/http%3A//affiliatesdirectory.com/contact-us/index.shtml)
 
 
 
@@ -60,7 +60,7 @@ To further protect your privacy and ensure that no one unlawfully or maliciously
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Please send an email by [using the following form.](https://web.archive.org/web/20040629235754id_/http%3A//www.affiliatesdirectory.com/contact-us/index.shtml)
+  1. Please send an email by [using the following form.](https://web.archive.org/web/20041208053458id_/http%3A//affiliatesdirectory.com/contact-us/index.shtml)
 
 
 
