@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northshore.edu privacy policy that was archived on 2004-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040218134607id_/http%3A//northshore.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northshore.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204004339id_/http%3A//www.northshore.edu/privacy) for the most accurate reproduction.*
 
 # NSCC - Privacy Policy
 
