@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604165511id_/http%3A//inc.com/about/privacy/0%2C3834%2C8%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201201852id_/http%3A//www.inc.com/about/privacy/0%2C3834%2C8%2C00.html) for the most accurate reproduction.*
 
 # small business planning and advice at inc.com
 
