@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stariq.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203051827id_/http%3A//stariq.com/AboutUs/Privacy.asp%3Fheader%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stariq.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607033916id_/http%3A//www.stariq.com/AboutUs/Privacy.asp%3Fheader%3Don) for the most accurate reproduction.*
 
 # Horoscopes, Astrology and Charts - StarIQ.com
 
