@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404235032id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152333id_/http%3A//ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
 
 # AHRQ Privacy Policy Notice
 
@@ -16,11 +16,11 @@ We collect **no** personal information about you when you visit our Web site unl
 
 When you browse through any Web site, read pages, or download information, certain information about your visit can be collected. We automatically collect and temporarily store the following information about your visit, but this information does not identify you personally:
 
-  * The name of the domain you use to access the Internet (for example, aol.com, if you are using an America Online account, or stanford.edu, if you are connecting from Stanford University's domain). 
-  * The type of browser and operating system you use to access our site. 
-  * The date and time of your visit. 
-  * The pages you visited. 
-  * The address of the Web site you came from, if you were referred from another site. 
+  * The name of the domain you use to access the Internet (for example, aol.com, if you are using an America Online account, or stanford.edu, if you are connecting from Stanford University's domain).
+  * The type of browser and operating system you use to access our site.
+  * The date and time of your visit.
+  * The pages you visited.
+  * The address of the Web site you came from, if you were referred from another site.
 
 
 
