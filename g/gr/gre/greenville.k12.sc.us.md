@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017093112id_/http%3A//www.greenville.k12.sc.us/district/web/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601183716id_/http%3A//greenville.k12.sc.us/district/web/policy/privacy.htm) for the most accurate reproduction.*
 
 # SDGC Privacy Policy
 
 Wednesday, February 19, 2020
 
 [ Download Print Version  
-](https://web.archive.org/web/20021017093112id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)[](http://www.adobe.com/products/acrobat/readstep2.html)
+](https://web.archive.org/web/20030601183716id_/http%3A//greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)[](http://www.adobe.com/products/acrobat/readstep2.html)
 
 ##  Web Site Privacy
 
@@ -90,4 +90,4 @@ Greenville, South Carolina
 
 Updated on May 23, 2002
 
-[ Download Print Version](https://web.archive.org/web/20021017093112id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)
+[ Download Print Version](https://web.archive.org/web/20030601183716id_/http%3A//greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)
