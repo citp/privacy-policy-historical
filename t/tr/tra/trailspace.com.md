@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409081143id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208071232id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - trailspace.com
+
+  You are here: [Home](https://web.archive.org/index.html) > [About Trailspace](https://web.archive.org/about/index.html) > **Privacy Policy**
 
 Individuals who visit the Trailspace website are important to us. Because visitors to our website are important, we do not capture personal information about them without their permission. We endeavor to collect only the minimum amount of information needed to meet the purposes for which the website was created.
 
@@ -30,6 +32,7 @@ Some of our business partners (for example, advertisers) may use cookies on our 
 
 The graphical and text-based ads appearing on this Web site are delivered to users by several Web advertising partners. Information about usersš visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about our advertising partners and their privacy policies, please follow the links below:
 
+  * [Burst Media Privacy Policy](http://www.burstmedia.com/release/privacy_content.htm)
   * [LinkShare Privacy Policy](http://www.linkshare.com/home/privacy.shtml)
   * [Commission Junction Privacy Policy](http://www.cj.com/privacy.asp)
 
@@ -44,3 +47,6 @@ Various websites may be linked through the Trailspace website. Visitors to those
 ## Contact Information
 
 To offer comments about the Trailspace website or about information presented in this Privacy Statement, contact [feedback@trailspace.com](mailto:feedback@trailspace.com).
+
+© 2001-2002 [MacLeay Interactive Design, LLC](http://www.macleay.com/). All Rights Reserved.  
+Portions © 1994-2001 Lexi Communications, Inc.
