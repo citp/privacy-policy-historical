@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2003-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030206080446id_/http%3A//agriculture.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214142615id_/http%3A//www.agriculture.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement - Agriculture Gateway
 
@@ -38,7 +38,7 @@ Again, if you prefer to use an alternative means of delivery, you can send the i
 **Phone:** 02 6272 5140  
 **Mailing Address:**  
 Internet Development Team  
-Department of Agriculture, Fisheries and Forestry – Australia  
+Australian Department of Agriculture, Fisheries and Forestry   
 GPO Box 858  
 Canberra  ACT  2601
 
