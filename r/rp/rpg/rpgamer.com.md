@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205221039id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204825id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
 
 # RPGamer Privacy Policy
 
-[](http://www.rpgamer.com/) [ Games](http://www.rpgamer.com/games/upcoming.html)  
+[](http://www.rpgamer.com/) [ E3 2003](http://www.rpgamer.com/event/e3-2003/e3-2003.html)  
+[ Games](http://www.rpgamer.com/games/upcoming.html)  
 [ News](http://www.rpgamer.com/news/news.html)  
 [ Media](http://www.rpgamer.com/media.html)  
-[ Q&A](http://www.rpgamer.com/ask/googleshng4/ag120502.html "12.05: Manuel d'instructions")  
-[ Reviews](http://www.rpgamer.com/pointsofview/updates/2002/120402.html "12.04: Suikomania")  
-[ Information](http://www.rpgamer.com/info/update.html "10.31: Somethings are that simple.")  
-[ Editorials](http://www.rpgamer.com/editor/ed090302.html "09.03: Town With No Cheer")  
-[ Fan Art](http://www.rpgamer.com/fanart/fanart092902.html "09.29: Can't Stop Fallin' in Love")  
-[ Themes](http://www.rpgamer.com/mc/111002.html "11.10: System Meltdown")  
-[ Music](http://www.rpgamer.com/music/2002/music101102.html "11.10: {ʻintɘlu:d}")  
-[ Fan Fiction](http://www.rpgamer.com/fanfics/updates/fanfics110902.html "11.09: Inconceivable!")  
+[ Q&A](http://www.rpgamer.com/ask/andrew/aa053003.html "05.30:SWAG CONTEST WINNERS!")  
+[ Reviews](http://www.rpgamer.com/pointsofview/updates/2003/053003.html "05.30: SARS")  
+[ Information](http://www.rpgamer.com/info/update.html "05.30: Blame Canada")  
+[ Japandemonium](http://www.rpgamer.com/news/japan/aw060103.html "06.01: Delirium of Disorder")  
+[ Editorials](http://www.rpgamer.com/editor/ed060203.html "06.02: My Road, My Journey")  
+[ Fan Art](http://www.rpgamer.com/fanart/2003/fanart060103.html "06.01: Lali lala, ladi da da")  
+[ Themes](http://www.rpgamer.com/mc/053103.html "05.31: This is only a test")  
+[ Music](http://www.rpgamer.com/music/2003/music200503.html "05.20: Emerge")  
+[ Fan Fiction](http://www.rpgamer.com/fanfics/updates/fanfics050503.html "05.05: Fatalistic")  
 [ Message Forums](http://board.rpgamer.com/)  
 [ Release Dates](http://www.rpgamer.com/games/release.cgi)  
 [ Links](http://www.rpgamer.com/links/links.cgi)  
@@ -40,12 +42,14 @@ In addition to the Main Site, RPGamer also has a section for message boards. Whi
 
 **Third Party Advertising**
 
-We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
+We use Gorilla Nation Media, Max WorldWide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation, Double Click or their affiliates, or individual advertisers may place or recognize a unique “cookie” on your browser. 
 
   
   
-|  | 
+|  |  ADVERTISEMENT  
+  
+[](http://www.gorillanation.com/solutions_ad.htm)
