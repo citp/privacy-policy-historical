@@ -1,123 +1,6 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031025id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606205638id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
 
 # Newsday.com - Newsday.com Privacy Policy
-
-|   
----  
-**[TRAFFIC](https://web.archive.org/news/traffic/longisland/)**  
-**[NEWS](https://web.archive.org/news/local/longisland/)**  
-  
-[• Long Island](https://web.archive.org/news/local/longisland/)
-
-[• New York City](https://web.archive.org/news/local/newyork/)
-
-[• Ground Zero](https://web.archive.org/other/special/ny-rebuilds-main.htmlstory)
-
-[• Nation](https://web.archive.org/news/nationworld/nation/)
-
-[• World](https://web.archive.org/news/nationworld/world/)
-
-[• AP News](http://www.newsday.com/news/nationworld/wire/)
-
-[• Health/Science](https://web.archive.org/news/health/)
-
-[• Obituaries](https://web.archive.org/news/obituaries/)
-
-[• Columnists](https://web.archive.org/news/columnists/)
-
-[• Student Briefing](https://web.archive.org/news/education/sbp/)  
-  
-**[SPORTS](https://web.archive.org/sports/)**  
-  
-[• Scoreboard](http://www.newsday.com/sports/ny-scoreboard-mainpage.htmlstory)
-
-[• Jets](https://web.archive.org/sports/football/jets/)
-
-[• Giants](https://web.archive.org/sports/football/giants/)
-
-[• Nets](https://web.archive.org/sports/basketball/nets/)
-
-[• Knicks](https://web.archive.org/sports/basketball/knicks/)
-
-[• Rangers](https://web.archive.org/sports/hockey/rangers/)
-
-[• Islanders](https://web.archive.org/sports/hockey/islanders/)
-
-[• High Schools](https://web.archive.org/sports/highschool/)
-
-[• Colleges](https://web.archive.org/sports/college/)
-
-[• Columnists](https://web.archive.org/sports/columnists/)  
-  
-**[BUSINESS](https://web.archive.org/business/)**  
-  
-[• Stock Quotes](http://investor.cnet.com/investorpw/privatewire/newsday/0-7478925-1-0-1.html)
-
-[• Technology](https://web.archive.org/technology/)
-
-[• Real Estate](https://web.archive.org/business/realestate/)
-
-[• Columnists](https://web.archive.org/business/columnists/)
-
-[• Print Edition](https://web.archive.org/business/printedition/)  
-  
-**[OPINION](https://web.archive.org/news/opinion/)**  
-  
-[• Letters to the Editor](https://web.archive.org/news/opinion/letters/)
-
-[• Columnists](https://web.archive.org/news/opinion/columnists/)  
-  
-**[Part 2 / FEATURES](https://web.archive.org/features/)**  
-  
-[• Travel](https://web.archive.org/travel/)
-
-[• Books](https://web.archive.org/features/books/)
-
-[• Comics](https://web.archive.org/features/comics/)
-
-[• Faith](https://web.archive.org/features/religion/)
-
-[• Food](https://web.archive.org/features/food/)
-
-[• Home & Gardens](https://web.archive.org/features/home/)
-
-[• Crossword](http://www.networdcross.com/cgi-bin/dailypage/newsday/)
-
-[• Horoscopes](http://www2.uclick.com/client/new/el/)  
-  
-**[ENTERTAINMENT](https://web.archive.org/entertainment/)**  
-  
-[• The Calendar](https://web.archive.org/entertainment/printedition/nightbeat/)
-
-[• Movies](https://web.archive.org/entertainment/movies/)
-
-[• Pop Music](https://web.archive.org/entertainment/music)
-
-[• Dining](https://web.archive.org/entertainment/dining/)
-
-[• Theater](https://web.archive.org/entertainment/stage/)
-
-[• Television](https://web.archive.org/entertainment/tv/)
-
-[• FanFare](https://web.archive.org/entertainment/printedition/fanfare/)
-
-[• Fun Book](https://web.archive.org/funbook)  
-  
-**[CLASSIFIEDS](https://web.archive.org/classified/)**  
-  
-[• Jobs](https://web.archive.org/classified/jobs)
-
-[• Homes](http://homes.newsday.com/newsday/index.jhtml)
-
-[• Cars](https://web.archive.org/go/cars)
-
-[• Marketplace](https://web.archive.org/classified/marketplace/)  
-  
-**[SITE INDEX](https://web.archive.org/siteindex)**  
-**[ARCHIVES](http://library.newsday.com/)**  
-  
-  
-  | 
 
 ABOUT US
 
@@ -210,9 +93,7 @@ Governing law.
 
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. Users of Newsday.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Newsday.com is controlled, operated and administered entirely within the United States. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-Copyright © 2002, [Newsday, Inc.](http://www.newsday.com/)
+Copyright © 2003, [Newsday, Inc.](http://www.newsday.com/)
 
-  
-|   |    
   
 
