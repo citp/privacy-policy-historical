@@ -1,23 +1,8 @@
-> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214132347id_/http%3A//commercebank.com/info/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607220040id_/http%3A//commercebank.com/02254.html) for the most accurate reproduction.*
 
-# Commerce Bancshares, Inc. - Privacy Policy Notice
+# Commerce Bancshares, Inc. Privacy Policy Notice
 
-[](https://web.archive.org/web/20011214132347id_/http%3A//commercebank.com/index.html)  
-  
-  
-  
-[](https://web.archive.org/web/20011214132347id_/http%3A//commercebank.com/info/termsconditions.html)  
-
-
-[**Tips on how to avoid becoming a victim of identity theft**](https://web.archive.org/web/20011214132347id_/http%3A//commercebank.com/pdf/occ_identitytheft.pdf) **,  
-helpful information from the Office of the Comptroller of the Currency**
-
- **[Official U.S. Govt. ID Theft Info](http://www.consumer.gov/idtheft/index.html) **
-
-|  | 
-
-**COMMERCE BANCSHARES, INC.  
-PRIVACY POLICY NOTICE**
+### Commerce Bancshares, Inc. Privacy Policy Notice
 
 Protecting your privacy is important to Commerce and to our employees. We want you to understand what information we collect and how we use it. In order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible, we use technology to manage and maintain customer information. This policy serves as a standard for all Commerce employees for collection, use, retention, and security of nonpublic personal information.
 
@@ -102,4 +87,4 @@ _HOW TO TELL US NOT TO SHARE THIS INFORMATION WITH OUR AFFILIATES_
 
 **IF YOU CEASE TO BE OUR CUSTOMER**
 
-If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this notice. 
+If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this notice.
