@@ -1,15 +1,26 @@
-> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002082025id_/http%3A//www.herrschners.com/cs_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604090704id_/http%3A//www.herrschners.com/service.aspx%3Fpage%3D4) for the most accurate reproduction.*
 
-# Herrschners Online
+# Herrschners
 
 **The Information We Collect**  
+
+
+The bottom line: 
+
+  * **We collect your personal information (name, mailing address, email address and payment method) only when you give it to us**
+  * **We use cookies to make navigating and shopping the site faster for you, and to ensure what you see on the site is relevant to your interests, a practice duplicated by the majority of all commerce sites on the Internet; any payment information you provide (such as a credit card number) will never be stored in this cookie**
+  * **We do not share your email address, telephone number or any personal 'cookie' information with any other companies or organizations**
+
+
+
+The fine print:  
 At some Herrschners Inc. web sites, including herrschners.com, bidcrafts.com, needleworkshoppe.com, and yarnshoppe.com, you can order products, enter contests, or subscribe to one of our services such as our online promotional emails. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, credit card information, and information about your interests in and use of various products, programs, and services.
 
 At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
-**How We Use the Information**  
+**How We Use this Information**  
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 
 We sometimes use this information to communicate with you, such as for customer service questions or when we fulfill a request by you for online promotional emails.
@@ -36,9 +47,12 @@ Some of our sites contain links to other sites whose information practices may b
 **"Cookies"**  
 To enhance your experience with our sites, many of our web pages use "cookies". Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. Your credit card number is never stored within these files.
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. Herrschners requires the use of cookies to complete and process your order. If you choose not to accept cookies, you can still [order from Herrschners via phone, mail or fax](https://web.archive.org/web/20031002082025id_/http%3A//www.herrschners.com/cs_order.asp).
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. Herrschners requires the use of cookies to complete and process your order. If you choose not to accept cookies, you can still [order from Herrschners via phone, mail or fax](https://web.archive.org/web/20040604090704id_/http%3A//www.herrschners.com/service.aspx?page=2).
 
 **Email Addresses and Telephone Numbers**  
-Herrschners does not share any email addresses you provide to any other companies or organizations. If you choose to receive our promotional emails, they will arrive bi-monthly, but we always extend you the option to 'opt-out' from future mailings.
+Herrschners does not share any email addresses you provide to any other companies or organizations. If you choose to receive our promotional emails, we always extend you the option to 'opt-out' from future mailings.
 
 Any telephone numbers you provide will be used only for customer service questions, such as incorrectly entered credit card information. This number is not shared with any other companies.
+
+**Security When Ordering Online**  
+Herrschners Online makes use of the latest technology to ensure the security of your credit card information. All pages within our checkout process and areas containing your personal information (such as "My Account") are displayed in a secure environment using SSL (Secure Socket Layer) technology, which encrypts data between our computer and yours. Your browser will verify that Herrschners Online has the digital certificate provided by VeriSign™, largely regarded as the industry standard for secure transactions. In this way, all sensitive information you provide during the checkout process (including credit card and addresses information) is encrypted while traveling the Internet.
