@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the crystalsandjewelry.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607184705id_/http%3A//www.crystalsandjewelry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalsandjewelry.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204140221id_/http%3A//www.crystalsandjewelry.com/privacy.html) for the most accurate reproduction.*
 
 # CrystalsandJewelry.com Privacy Policy
+
+|   | 
 
 I value your privacy. I've put my privacy policy which is that of my company, Robyn A Harton Creative, out here to show you how I handle it.
 
@@ -26,3 +28,16 @@ USA
 email: [robyn@crystalsandjewelry.com](mailto:robyn@crystalsandjewelry.com)
 
 < **Back**
+
+|   
+
+|    |  | 
+
+[Major Credit Cards and PayPal Accepted](https://web.archive.org/web/20041204140221id_/http%3A//www.crystalsandjewelry.com/orderinfo.html) _ **via Secure Shopping Cart using SSL security to protect your personal shopping information.**_
+
+Robyn A Harton Creative http://CrystalsAndJewelry.com  
+Copyright ©2002-2004 Robyn A Harton Creative. All rights reserved.
+
+Disclaimer: **Metaphysical and spiritual healing information is for educational, inspirational, and entertainment purposes only.** Mystical lore on healing and spiritual healing information is not to be construed as prescription, diagnosis or healthcare information. See your Doctor or other healthcare practitioner for all ailments, disease and injury. Robyn A Harton Creative assumes no liability for any use or misuse of this information.
+
+|  
