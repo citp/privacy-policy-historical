@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601183906id_/http%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207222644id_/http%3A//www.adpost.com/cgibin/classifieds/us.cgi%3Fwebsite%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
-# US Classifieds @ Adpost.com Free Classifieds > US Free Classifieds >
+# USA Classifieds @ Adpost.com Free Classifieds > USA >
 
   
-  [Adpost.com](http://www.adpost.com/)
+  Bookmark Us
 
   Tell your Friends
 
