@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whistlerblackcomb.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009224717id_/http%3A//www.whistlerblackcomb.com/specials/email_deals/policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistlerblackcomb.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623214120id_/http%3A//whistlerblackcomb.com/specials/email_deals/policy/index.asp) for the most accurate reproduction.*
 
 # Whistler Blackcomb - Privacy Policy
 
-**Whistler-Blackcomb's site design is only visible in a graphical browser that supports[ web standards](http://www.webstandards.org/upgrade/ "The Web Standards Project's BROWSER UPGRADE initiative."), but its content is accessible to any browser or Internet device. If you are receiving this message, we suggest you [upgrade your browser](http://www.webstandards.org/upgrade/).**
+**Whistler Blackcomb's site design is only visible in a graphical browser that supports[ web standards](http://www.webstandards.org/upgrade/ "The Web Standards Project's BROWSER UPGRADE initiative."), but its content is accessible to any browser or Internet device. If you are receiving this message, we suggest you [upgrade your browser](http://www.webstandards.org/upgrade/).**
 
 [Home](https://web.archive.org/) > Privacy Policy 
 
@@ -44,6 +44,6 @@ Whistler-Blackcomb.com also reserves the right to change this Privacy Policy at 
 
 **Thank you for taking the time to review these policies which are for your convenience and safety.**
 
-Whistler-Blackcomb Mountains  
-Whistler 604.932.3434  
+Whistler Blackcomb Mountains  
+Whistler, BC, Canada 604.932.3434  
 Toll free within North America 1.800.766.0449 
