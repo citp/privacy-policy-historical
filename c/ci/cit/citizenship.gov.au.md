@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603195852id_/http%3A//www.citizenship.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205015207id_/http%3A//www.citizenship.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Citizenship Website - Privacy Statement
 
@@ -79,11 +79,9 @@ You can find more information from the [Privacy Commissioner's website](http://w
 
 If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please contact:
 
-> DIMIA Privacy Officer:  
->  Peter Lee  
->  Email: [peter.lee@immi.gov.au](mailto:peter.lee@immi.gov.au)  
->  Telephone: (02) 6264 1842
+> DIMIA Privacy Officer  
+>  Email: [opfoi@immi.gov.au](mailto:opfoi@immi.gov.au)
 
 Please note the Privacy Officer will only respond to queries on privacy matters. Inquiries about other matters will not be answered. 
 
-**[ Return to Previous Page ]**
+**Return to Previous Page**
