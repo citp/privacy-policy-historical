@@ -1,34 +1,20 @@
-> *The following text is extracted and transformed from the quickmba.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033316id_/http%3A//www.quickmba.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickmba.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211030334id_/http%3A//www.quickmba.com/site/privacy) for the most accurate reproduction.*
 
 # QuickMBA Privacy Policy
 
+** [ Accounting](http://www.quickmba.com/accounting/) | [Business Law](http://www.quickmba.com/law/) | [Economics](http://www.quickmba.com/econ/) | [Entrepreneurship](http://www.quickmba.com/entre/) | [Finance](http://www.quickmba.com/finance/) | [Management](http://www.quickmba.com/mgmt/) | [Marketing](http://www.quickmba.com/marketing/) | [Operations](http://www.quickmba.com/ops/) | [Statistics](http://www.quickmba.com/stats/) | [Strategy](http://www.quickmba.com/strategy/)** |    
   
-  
-**QuickMBA Subjects  
-     [Accounting](http://www.quickmba.com/accounting/)  
-     [Business Law](http://www.quickmba.com/law/)  
-     [Economics](http://www.quickmba.com/econ/)  
-     [Entrepreneurship](http://www.quickmba.com/entre/)  
-     [Finance](http://www.quickmba.com/finance/)  
-     [Management](http://www.quickmba.com/mgmt/)  
-     [Marketing](http://www.quickmba.com/marketing/)  
-     [Operations](http://www.quickmba.com/ops/)  
-     [Statistics](http://www.quickmba.com/stats/)  
-     [Strategy](http://www.quickmba.com/strategy/)
-
-Site Information  
+**Site Information  
      [Home](http://www.quickmba.com/)  
      [Site Map](http://www.quickmba.com/site.shtml)  
      [About](http://www.quickmba.com/about.shtml)  
      [Contact](http://www.quickmba.com/contactus.shtml)  
-     [User Agreement](http://www.quickmba.com/useragree.shtml)
-
-** | 
-
-**Privacy Policy**
+     [User Agreement](http://www.quickmba.com/useragree.shtml)** | 
 
   
 
+
+Privacy Policy
 
 The Internet Center for Management and Business Administration, Inc. is committed to protecting your privacy when you visit the QuickMBA.com web site. We provide this privacy statement to inform you what information we obtain and how it is used.
 
@@ -36,8 +22,10 @@ The Internet Center for Management and Business Administration, Inc. is committe
 **Information You Provide**   
 
 
-  1. Forms: We may store the information that you provide when submitting the "contact" form. 
-  2. E-Mail Communications: We may maintain a record of your e-mail communications with us. 
+  1. Forms: We may store the information that you provide when submitting the "contact" form.
+
+  2. E-Mail Communications: We may maintain a record of your e-mail communications with us.
+
 
   
 **Information Collected Automatically**
@@ -57,6 +45,10 @@ If necessary, we may disclose personal information when required by law or by a 
 
 Any changes to this privacy statement will be posted on this site.
 
+* * *
+
 [Home](http://www.quickmba.com/)    [Site Map](http://www.quickmba.com/site.shtml)    [About](http://www.quickmba.com/about.shtml)    [Contact](http://www.quickmba.com/contactus.shtml)    Privacy    [User Agreement](http://www.quickmba.com/useragree.shtml)   
   
-
+  
+  
+---|---
