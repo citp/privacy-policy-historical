@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arbico-organics.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205001611id_/http%3A//store.arbico-organics.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arbico-organics.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404041903id_/http%3A//store.arbico-organics.com/privacypolicy.html) for the most accurate reproduction.*
 
 # arbico-organics.com Privacy Policy
 
