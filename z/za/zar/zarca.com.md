@@ -1,81 +1,114 @@
-> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609121303id_/http%3A//www.zarca.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/privacy.asp) for the most accurate reproduction.*
 
-# :: Zarca Interactive :: - Privacy Policy - Welcome to Zarca.com
+# Zarca Interactive - Privacy Policy
 
-Zarca.com Privacy Statement  
-  
----  
-  
-Zarca Interactive ("Zarca") Statement on Privacy and Security of Information. The following policy explains our information gathering and dissemination practices.  
-  
-  
-Please be aware that the Zarca services are not intended for children under the age of 18. At Zarca Interactive, we are extremely proud of our commitment to protect your privacy. We value your trust in us and assure you that we would use the information we collect only to provide a more personalized experience. We will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This document provides a thorough description of tools that Zarca provides to help you create and administer survey, and allow users to participate in surveys, and Zarca’s practices to help you understand Zarca’s approaches to privacy. You should carefully read this Privacy Statement (the "Statement"). If you have any questions about this Statement, email [privacy@Zarca.com](mailto:privacy@zarca.com).  
-  
-This Statement supplements the Zarca Interactive User Agreement (the "Agreement"). Thus, this Statement is incorporated into and governed by all of the terms of the Agreement. In the event of any conflict between the terms of the Agreement and this Statement, the terms of this Statement shall control.  
-  
-This Statement applies only to information collected on the Zarca web site. It does not speak about Zarca Interactive’ practices for information collected elsewhere or the practices of any third parties, including those who may operate sites on Zarca Interactive’ behalf and that display Zarca branding.  
-  
-1\. Registered Users:  If you register on Zarca, we store your preferences and passwords for your convenience, to provide you with a more personalized experience. At present Zarca Interactive does NOT use cookies to store your login sessions.  
-  
-2\. Your Registration Information:  When you register, Zarca asks you for a number of pieces of information. If you register through a co-branded site or co-brand marketing affiliate, the co-brand partner may be transferring to Zarca some or all of the required registration information or possibly other information about you.  
-  
-  
-3\. Use of Information:
+|  |   
+---|---  
+| 
 
-Zarca uses registration information internally for a number of purposes, including:   
-  
-       
-     • email distribution as described in the Agreement, as you request on the site (such as promotional opportunities or newsletters ) and for administrative purposes (such as to notify you about changes to the Agreement or this Statement or to contact you regarding your account details, Service updates or other problems with your account). In accordance with instructions on the site, you may opt not to receive certain emails in the future, and Zarca will use reasonable efforts to honor your request.  
-  
-     • display banner (and similar) advertising to you in connection with the site that is more targeted to you specifically. In doing this type of targeting, Zarca or its ad server, and not the advertiser, connect you with the targeting criteria.   
-Through your account page, you have some choices about whether or not to display your registration information publicly on the Site..   
-  
-  
-4\. Deletion of Registration Information:    
-You may request to cancel your registration to the site or request the removal of your registration information from member records by emailing [support@Zarca.com](mailto:support@Zarca.com) which permission may or may not be granted. However, Zarca will send you an email to confirm your request. After you respond, Zarca will in most cases, remove your information from its "live" database, but residual information may remain in archives and records. Zarca may not be able to propagate changes to your registration information to its co-brand partners who have received such information. In addition, if your account is being terminated for violations of the Agreement, Zarca may keep some of your registration information active to prevent re-registration.  
-  
-  
-5\. Survey Respondents:   
-If you are participating in a survey either through an invitation from Zarca on behalf of a Zarca Customer or an invitation directly from the Customer or any other form of invitation, you may be required to disclose demographic and personal information. Your IP Address (see section 6) may also be logged. Zarca may also store your e-mail address in its database. This email address may be used in future by Zarca to announce new product offerings, newsletter and or other forms of communication. Zarca will in all such cases, provide you with clear instruction on ways and manners to unsubscribe and delete your details..   
-  
-  
-6\. Internet Protocol Address (IP):    
-Zarca logs Internet Protocol addresses for systems administration purposes. We also log IP addresses to track a user's session so that we know which parts of our site user’s visit. , IP addresses which are linked to study responses for our customers are used solely to ensure the accuracy of our Survey data.  
-  
-  
-7\. Internal Analyses and Reports:   
-Zarca may use all or some of the information in its databases, including personal information you've submitted, and other server and usage logs, to analyze the site and user behavior, troubleshoot technical problems, resolve disputes and address complaints, and prepare aggregated reports that maybe shared with the management of Zarca.  
-  
-  
-8\. Other Information:   
-Specific uses of personal information that vary from this Privacy Statement (if any) may be found throughout the site. To the extent that, during your submission of information on the site, you are notified of privacy practices that are different from those described in this Privacy Statement, those alternative disclosures will govern that submission.
+**Zarca Interactive Privacy Policy**
 
-There may be situations where Zarca collects data through a survey or similar process when the page does not link to this Statement. In those cases, unless you are informed otherwise, you should assume that Zarca treats all information from such pages as it treats its other valuable business records.
+Zarca is an application service provider that provides you, our customer, tools to conduct two-way communications with your customers, employees, suppliers and constituents. Like the postal service, we understand that the Information we deliver belongs to you and your survey participants, not us. At Zarca, it is a core business principle that we must protect the privacy of our customers and survey participants or we will not have either. With this principle in mind, Zarca created this privacy policy to demonstrate our commitment to your privacy. 
 
-Of course, there are many other ways in which Zarca could get information from or about you that are not described elsewhere in this Statement. For example, you might send email through a customer service email address, or Zarca may get a complaint about you from a third party. Zarca's practices with respect to such information are pretty much as you'd expect-Zarca uses and discloses this information in a commercially reasonable business manner.  
-  
-  
-9\. Contractors and Third Party Service Providers:   
-Zarca may use contractors to help with its operations. Some or all of these contractors may access some parts of the registration database-- user information. Usually these contractors will enter into an agreement that places restrictive provisions on their use and disclosure of all information they obtain through the relationship.
+You should be assured that our practices stated in this policy are practiced worldwide. Zarca is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. We may share information between Zarca entities and transfer it to offices and data centers around the world. Some countries may provide less legal protection for personal information than the country in which the information was provided. No matter the country standards, we will still handle the information in the manner we describe here.
 
-Zarca may also use third party service providers to help with certain aspects of its operations that may require disclosure of your personal information to them. For example, Zarca may use a third party service provider to mail newsletter, send out email invitations to participate in surveys, serve ads, or deliver some or all of the emails sent as part of the site's normal operation. Again, usually Zarca will place extensive restrictions on the ability of these third parties to use and disclose your personal information except as necessary to perform the services they are asked to perform.  
-  
-  
-10\. The "Corporate Family":   
-Zarca may share some or all of your information with its subsidiaries or parent company (if any in future), in which case Zarca will ask such entities to honor the promises in this Statement. In addition, as part of a diligence review, Zarca may disclose some or all of your personal information to a potential acquirer or merger partner, although in this case Zarca would try to restrict their use and disclosure of this information.  
-  
-  
-11\. Government Relations and Lawsuits:   
-In some cases, the government can compel the disclosure of information about you, and of course Zarca will need to comply. However, irrespective of those situations, Zarca can unilaterally turn over information about you to the government if it believes such disclosure to be appropriate, in which case you authorize it to do so. You also consent to Zarca disclosing information about you to actual or potential parties to a lawsuit that Zarca is or may become involved in (a) if it are required to do so, (b) if it reasonably believes that such disclosures will potentially mitigate its liability, or (c) to enforce its rights.  
-  
-  
-12\. Limits on Zarca' Abilities:   
-A site and service as complicated as Zarca is never perfect, and thus Zarca may inadvertently make uses or disclosures of your information in ways not contemplated by, or in direct contravention of, this Statement. For example, if the software has a temporary glitch, your personal information could be displayed on the site even though you've configured your preferences otherwise. Zarca might also make ad hoc uses of your information in ways it can't contemplate here. Zarca will do its best to work with you if these types of situations arise, but your sole remedy in these cases is to have Zarca try to rectify the problem as soon as it can.
+This Privacy Policy applies only to information collected on our web site at the URL [www.zarca.com](http://www.zarca.com/) (the "Site"). It does not speak about Zarca practices for information collected elsewhere or the practices of any third parties, including those of our partners who may display Zarca branding on their sites. If you have questions about this privacy policy please email, [privacy@zarca.com](mailto:privacy@zarca.com).
 
-In addition, although highly unlikely, it is possible for Internet transmissions containing your personal information to be intercepted by others. It is impossible for Zarca to ensure the privacy and security of all transmissions made to and from the site while in transit.
+| 
 
-Of course, Zarca does not control the privacy practices of its advertisers and other third-party sites that it promotes or links to. If you click through a banner ad or link and submit your information to an advertiser, you will be subject to their privacy policies. Please make sure you understand these policies before submitting your information.  
+**1.**
+
+| 
+
+**What Information do we collect?**
+
+|  | 
+
+Zarca collects information about both you, our customers ("Customers" or "you") and the individuals who participate in, or are invited to participate in, any of your surveys ("Survey Participants"). Collectively, the information collected about you ("Customer Information") and Survey Participants ("Participant Information") are referred to as "Information".
+
+_Customer Information_ : When Customers register on the Site, we ask you to give us name and contact information: company name, name of contact, title of contact, company address, telephone number, email address, user name and password, and billing information which may include credit card numbers. Customers also provide us with Information regarding the Services you have ordered (e.g., the number of surveys Customers will pay for or whether you want a private or public survey). In addition to the Information you knowingly provide, we also know when and how often you log on to the Site.
+
+_Participant Information_ : We receive Participant Information from both Customers and Survey Participants. You provide us with the email address, and sometimes the name, of each Participant. Before receiving such Information, we contractually require that you warranty that you have a pre-existing relationship with the Survey Participant and/or the Survey Participant's permission to receive electronic messages. Survey Participants provide us with the Information requested by you, for example, their gender or zip code, as well as all answers to the survey questions. Customers are solely responsible for the content of the surveys and we do not control the theme or questions asked in any survey. In order to enhance survey response rates, we record: (i) if and when a Survey Participant has responded to a survey and (ii) if and when a Survey Participant has received a reminder. In addition, we receive any Information contained in any communications a Survey Participant makes directly with Zarca. 
+
+We also log Customer and Survey Participant Internet Protocol addresses to ensure the accuracy of the survey data and for system administration purposes including tracking a user's session so that we know when, how often and what pages of the Site a user visits. To prevent the need to re-insert user-name and password as you and your Survey Participants move from one page of the Site to the next, we do use a cookie, but the cookie is programmed to delete itself from any user's computer when the browser is closed.  
   
+---|---|---|---  
+  |   |   |    
   
-13\. Security Practices:    
-Zarca uses advance industry-standard methods of securing its databases of user information, such as, if and where appropriate, firewalls, security-logs and limits on who can access user information databases. However, please keep in mind that there is no such thing as perfect security on the Internet.
+**2.**
+
+| 
+
+**How Do We Use Information?**
+
+|   | 
+
+We use your Customer Information in the normal course of our business, including to contact you regarding technical support, discuss billing issues, or to bring to your attention any aspect of our mutual business. We may also use your contact information to provide you with policy or product updates or to introduce new products and services.
+
+All Participant Information resides in our database primarily for the benefit of you, our Customers. At your direction, we use a Survey Participant's email address (and perhaps name) to send survey invitations and reminders. We also use Participant Information to improve the performance of our Site and services by analyzing site and user behavior, troubleshooting technical problems, resolving disputes and address complaints, and verifying compliance with the Terms of Service.
+
+If Zarca intends to use any Information in a manner that deviates from this Privacy Policy we will provide notice of how we intend to use that Information as we collect it. The use of that specific Information will be used solely as stated in the alternative disclosure.  
+  
+  |   |   |    
+  
+**3.**
+
+| 
+
+**With Whom Do We Share Information?**
+
+|   | 
+
+We do not share the Information with any third parties except under the following very limited circumstances:
+
+|  **(a)** | **Participant Information with Customer:** Our business is the provision of tools that allow you, our Customer, to conduct meaningful surveys with your employees, suppliers, customers and constituents. Accordingly, we provide you with access to the Participant Information given in response to the surveys you have conducted. You may use the Participant Information consistent with your own privacy policy and applicable law.  
+---|---  
+  |    
+**(b)** | **As You Explicitly Allow:** We may share or otherwise use your Customer Information as you explicitly allow us and we may share Participant Information as both you and the Survey Participant expressly allow. For example, you are given the opportunity to either hide or make available to Survey Participants certain Customer contact information in connection with any survey.  
+  |    
+**(c)** | **Agents Acting on Our Behalf:** We may share some of your Information with other companies who provide us with technical and other type of services. They will be contractually granted access to only that Information which is necessary for them to do their jobs and they will be prohibited from using the Information for any other purpose including sharing the Information with any other party.   
+  |    
+**(d)** | **For Legal Reasons:** We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share your Information to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.  
+  |    
+**(e)** | 
+
+**Affiliates and Acquisition:** We may share Information with our affiliated companies or during any real or potential acquisition or merger of our company by or with another. We will notify you if your Information becomes subject to a different privacy policy.  
+  
+  |   |   |    
+  
+**4.**
+
+| 
+
+**Can the Information be Changed?**
+
+|   | 
+
+Your Customer Information may be viewed and modified in our active database in real-time at any time. The changed Information may remain in archives and records for some period of time. Once a Survey Participant has submitted a survey, the Survey Participant will not be able to access his Information through the Site. Survey Participants may contact you and you, in turn, will be able to view the Survey Participant's collected Information and, where appropriate, work with us in modifying such Information.  
+  
+  |   |   |    
+  
+**5.**
+
+| 
+
+**How Is Information Protected?**
+
+|   | 
+
+Our Site has substantial and elaborate security measures in place to protect your Information. Unique user names and passwords must be entered each time a person logs on. The Site is hosted in a secure server environment that uses a firewall and other technology to reasonably prevent access from outside intruders. Internally, we use security-logs, train our employees and limit access to only essential personnel. When transmitting sensitive Information, we use encryption technology. All our technology and processes are not, however, guarantees of security. Please keep your user name and password secret and let us know at [privacy@zarca.com](mailto:privacy@zarca.com) if you learn or suspect that our security has been breached.   
+  
+  |   |   |    
+  
+**6.**
+
+| 
+
+**Changes in the Privacy Policy:**
+
+|   | 
+
+As we are constantly improving our services and expanding our business, we retain the right to modify this privacy policy at any time. In the event we make such changes, we will announce the changes and post the new policy on the Site. Information collected after the new policy is posted will be used in conformance with the new policy. Information gathered under the old policy will continue to be used in conformance with that policy unless we, in conjunction with Customer, notify Survey Participants of the changes and the Survey Participant does not prohibit the use of the Information in conformance with the new policy.  
+  
+   
+[About Us](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/help/aboutus.asp) | [Solutions](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/help/solutions.asp) | [Careers](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/help/careers.asp) | [Contact](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/help/contact.asp) | [Home](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/index.asp)
