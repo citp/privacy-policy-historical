@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pennystocks.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202143600id_/http%3A//www.individualinvestor.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennystocks.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604035421id_/http%3A//www.individualinvestor.com/help/privacy.asp) for the most accurate reproduction.*
 
-# Individual Investor | Help | Privacy Statement
+# Individual Investor
 
 Individual Investor Group, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.individualinvestor.com**. 
 
