@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203171719id_/http%3A//www.edfinancial.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606192436id_/http%3A//www.edfinancial.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# Edfinancial: Internet Privacy Policy
+# Internet Privacy Policy - Edfinancial
 
 [](https://www.truste.org/ivalidate.php?url=www.edfinancial.com)At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. 
 
 ### TRUSTe Privacy Program
 
-  * Edfinancial is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers [www.eCampusTours.com](http://www.ecampustours.com/), [www.edamerica.net](http://www.edamerica.net/), [www.edfinancial.com](http://www.edfinancial.com/) and [www.edsouth.org](http://www.edsouth.org/). Because Edfinancial wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+  * Edfinancial is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers www.eCampusTours.com, www.edamerica.net, www.edfinancial.com and www.edsouth.org. Because Edfinancial wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
   * If users have questions or concerns regarding this statement, they should first contact [info@edfinancial.com](mailto:info@edfinancial.com). If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process [www.truste.org/watchdog.html](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
 
 
 ### What this Privacy Policy Covers
 
-  * This Privacy Statement applies to Edfinancial Services family of websites and governs data collection and usage at all Edfinancial Services sites and services. As part of our mission to expand access to higher education, Edfinancial Services hosts innovative websites such as [www.eCampusTours.com](http://www.ecampustours.com/), [www.edamerica.net](http://www.edamerica.net/), [www.edfinancial.com](http://www.edfinancial.com/) and [www.edsouth.org](http://www.edsouth.org/). 
+  * This Privacy Statement applies to Edfinancial Services family of websites and governs data collection and usage at all Edfinancial Services sites and services. As part of our mission to expand access to higher education, Edfinancial Services hosts innovative websites such as www.eCampusTours.com, www.edamerica.net, www.edfinancial.com and www.edsouth.org. 
   * A nonprofit corporation, Edfinancial Services is a servicer of student loans and provides various online services for other providers of educational funding. You may access some services provided by Edfinancial Services with pages that are co-branded through the site of one of our partner lenders. It is important to note that this privacy policy does not apply to other areas of that lender's site that are not provided by Edfinancial Services. 
   * Some areas of our websites may provide links to non-Edfinancial Services sites. If you link to a site that is not an Edfinancial Services website, the privacy policy of that site and its terms of Use of use apply to you. We encourage you to learn about the privacy policy of any third party before giving personal information to them. 
 
