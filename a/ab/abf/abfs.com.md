@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abfs.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008124311id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abfs.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613032621id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.*
 
 # ABF Freight System, Inc. - Privacy Policy
 
@@ -32,7 +32,7 @@ Does the ABF site use cookies?
 Will ABF disclose the information it collects to third parties?
     Unless approved by you, ABF will not sell, rent or trade your information to others. In other words, all information about you stored on our site will never be released to anyone without your consent except to comply with valid legal processes, such as a search warrant, subpoena or court order, to protect the company's rights and property, or during emergencies when ABF believes physical safety is at risk.
 Will ABF use this information to send me promotional materials?
-    Registered users and ABF customers at times will receive newsletters and other promotional materials via e-mail. Clear instructions are always provided to opt-out of future e-mails. Furthermore, print materials are sent to ABF customers on a regular basis. You may also opt-out of these mailings by contacting your local ABF sales representative.
+    Registered users and ABF customers at times will receive newsletters and other promotional materials via e-mail. Clear instructions are always provided to opt-out of future e-mails. Furthermore, print materials are sent to ABF customers on a regular basis. You may also opt-out of these print mailings by contacting your local ABF sales representative.
 
 Please note that by using the ABF Web site, you consent to the collection and use of this information by ABF. If we decide to change this privacy policy, alterations will be posted to this page. ABF is committed to protecting your privacy.
 
