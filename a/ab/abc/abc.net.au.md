@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085757id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623083037id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
 ABC Online is strongly committed to protecting your privacy while interacting with our content, products and services. We want to provide a safe and secure environment for you and your children.
 
@@ -16,7 +18,7 @@ Please note that the ABC Shop has additional information about how it deals with
 
 Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked to provide information such as your name, email address or information about what you like and do not like. It is entirely your choice whether to respond to these questions or not.
 
-ABC Online collects two types of information. The first type is anonymous information. For instance, we may collect information to tell us that five thousand people visit this Privacy Policy today, but we do not know their names, where they live or their date of birth - they are 'anonymous' to us. Many of the individuals who access our services are anonymous to us.
+ABC Online collects two types of information. The first type is anonymous information. For instance, we may collect information to tell us that five thousand people visit this Privacy Policy today, but we do not know their names, where they live or their date of birth - they are 'anonymous' to us. Another example of ABC Online collecting anonymous information is when ABC audiences are invited to respond to surveys on the ABC website. The surveys may ask you for demographic information such as your age, gender and postcode. This information is collected for research purposes, is used in the aggregate (where possible), and remains anonymous. Many of the individuals who access our services are anonymous to us.
 
 The second type of information that ABC Online collects is personal information. ABC Online will collect personal information that lets us know the specifics of who you are such as your name, email address, or postal address, _when you provide it to us_. With this information, ABC Online can provide a variety of personalised and enhanced services that are not available to anonymous users. We hope that you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you.
 
@@ -68,8 +70,10 @@ The ABC operates secure data networks that are designed to protect your privacy 
 
 ## Complaints about privacy
 
-If you have any complaints relating to online privacy issues on our websites, please notify ABC Online at [ webmaster@your.abc.net.au](mailto:webmaster@your.abc.net.au). While the ABC accepts no liability for any material or links posted to the service, we will investigate all complaints.
+If you have any complaints relating to online privacy issues on our websites, please [notify](http://www.abc.net.au/contact/) ABC Online. While the ABC accepts no liability for any material or links posted to the service, we will investigate all complaints.
 
 ## Changes to ABC Online privacy policy
 
 If we decide to change the ABC Online Privacy Policy, we will post those changes here.
+
+* * *
