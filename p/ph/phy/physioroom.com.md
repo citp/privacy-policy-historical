@@ -1,17 +1,36 @@
-> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171011id_/http%3A//www.physioroom.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203180258id_/http%3A//www.physioroom.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # PhysioRoom.com - PREMIER LEAGUE SPORTS INJURY CENTRE
 
-ADVERTISEMENT 
+  
+| 
 
-ADVERTISEMENT   
-[](http://www.dunitz.co.uk/)
+Newsletter  
+  
+---  
+  
+Stay up-to-date with the free PhysioRoom.com newsletter.   
+[Register now >](https://web.archive.org/web/20031203180258id_/http%3A//www.physioroom.com/newsletter.shtml)  
+  
+  
 
-All images, marked  
+
+ADVERTISEMENT
+
+  
+
+
+ADVERTISEMENT
+
+[ ](http://www.dunitz.co.uk/)
+
+All images, marked   
 © Martin Dunitz 2001, have been taken from "Sports Injuries: Their Prevention and Treatment", published by Martin Dunitz Ltd.   
-[www.dunitz.co.uk](http://www.dunitz.co.uk/) |  |  |  |   
-|   
----|---|---  
+[www.dunitz.co.uk](http://www.dunitz.co.uk/)
+
+|  |  |   
+  
+---|---  
   
 Here at PhysioRoom.com we respect the privacy of everyone who visits our Website. To this end, we fully comply with United Kingdom Data Protection legislation. 
 
