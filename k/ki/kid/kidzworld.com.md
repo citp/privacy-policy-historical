@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010222031id_/http%3A//www.kidzworld.com/kidzworld/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622072450id_/http%3A//www.kidzworld.com/kidzworld/privacy.html) for the most accurate reproduction.*
 
 # Kidzworld Media | Privacy Policy | COPPA | Security & Guidelines
 
 Privacy 
 
-**Kidzworld Media Inc.** has developed this privacy statement to reflect our commitment to privacy because we want to assure that everything kids say and do on **Kidzworld** is totally protected. The privacy of our members is most important so please read on, as it will help you understand a little bit more about privacy. 
+**Kidzworld Media, Inc.** has developed this policy statement to reflect our commitment to our users' privacy. The privacy of our members is most important so please read on, as it will help you understand a little bit more about privacy. 
 
 We use IP addresses to help diagnose problems with our server (big computers) and to administer our web site. IP addresses are used to help identify our members (you) and to collect broad demographic information (like your age, gender, regional information and what you like to do). Do not submit information to **Kidzworld** or anyone, for that matter, if it makes you feel uncomfortable. 
 
-Our site's registration form requires users to give us contact information, e.g. name, e-mail address and demographic information like age, gender (boy/girl), general location and personal likes and dislikes. This information is used to get in touch with our members when necessary. 
+Our site's registration form requires users to give us contact information, e.g. name, e-mail address and demographic information like age, gender (boy/girl), general location and personal likes and dislikes. This information is used to get in touch with our members when necessary. For those users over 12 years old we are required to send your Parent/Guardian an email notifying them that you have registered at **Kidzworld** and provided us with personally identifiable information. For those users 12 or under we have to get permission from your Parent/Guardian before you can be fully registered. We do this by sending them a confirmatory email to which they must respond. So... make sure your people (parents, guardians, aliens or otherwise) send us back the consent! 
 
-We do not make members confidential information available to anyone, at any time, for any reason. Parents can review their child's personal information, during and after the registration process once verifiable parental consent has been received by **Kidzworld**. Verifiable consent can be obtain by one of the following methods: obtaining a signed form from a parent via postal mail or facsimile; accepting and verifying a credit card number. Upon request, a parent may, delete or prohibit the further collection of their child's personal information by contacting us at [privacy@kidzworld.com](mailto:privacy@kidzworld.com) and clearly stating the nature of their inquiry. Any contact made with members will be through the facilities of **Kidzworld**. 
+We do not make the confidential information of our members available to anyone, at any time, for any reason. Parents or Guardians can review their child's personal information, once verifiable parental consent has been received by **Kidzworld**. Verifiable consent can be obtained by one of the following methods: obtaining a signed form from a parent via postal mail or facsimile; accepting and verifying a credit card number. Upon request, a parent may, delete or prohibit the further collection of their child's personal information by contacting us at [privacy@kidzworld.com](mailto:privacy@kidzworld.com) and clearly stating the nature of their inquiry. Any contact made with members will be through the facilities of **Kidzworld**. 
 
 Our site contains links to other sites. **Kidzworld** is not responsible for the privacy practices or the content of other such sites. **Kidzworld** makes its best effort to screen all sites accessible from **Kidzworld** to ensure that they comply with the standards set by **Kidzworld**. 
 
 Our site uses an order form for customers to request information, products and services. We collect visitor's unique identifiers (like their **Kidzworld** on-screen name). These unique identifiers are collected from visitors to the site to verify the user identity and for use as account numbers in our record-keeping system. 
 
-We also run contests at our site in which we ask visitors for contact information (like their e-mail address). The member contact information is used to contact the member when necessary. Members may opt-out of receiving future mailings by completing the "no thanks" item in the registration form. 
+We also run contests at our site in which we ask visitors for contact information (like their e-mail address). This information is used strictly to contact entrants when necessary (like to let them know they have won). Contact information collected for contests is deleted once winners have been confirmed. You do not need to be a registered member to enter contests. 
 
 **Chat Rooms**
 
