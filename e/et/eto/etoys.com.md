@@ -1,111 +1,104 @@
-> *The following text is extracted and transformed from the etoys.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205171400id_/http%3A//www.etoys.com/html/about_privacy.shtml%3Fc%3Dwc100Z1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoys.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610192126id_/http%3A//www.etoys.com/help/privacy.html%3Fstyle%3Ddefault%26place%3Dahbe) for the most accurate reproduction.*
 
-# eToys help
+# eToys - Where great ideas come to you!®
 
-|  |  |   
----|---  
-|  | [Frequently Asked Questions](https://web.archive.org/html/other_faq.shtml)  
-|   
-|  |   
-|   
-|  | [Safe & Secure Shopping](https://web.archive.org/html/other_safe.shtml)  
-|  | **Guaranteed Privacy**  
-|  |   
-|   
-|  | [Low Price Guarantee](https://web.archive.org/html/e_lowprice.shtml)  
-[How to Shop at eToys](https://web.archive.org/html/about_how_to_shop.shtml)  
-[Search Tips](https://web.archive.org/html/other_help_search.shtml)  
-[eToys Recommends](https://web.archive.org/html/about_e_recommends.shtml)  
-[Party Store](https://web.archive.org/exec/help?page=member_service/help_party_store.html)  
-|  |   
-|   
-|  | [Wish List](https://web.archive.org/html/about_wish_list.shtml)  
-[Birthday Reminders](https://web.archive.org/html/about_bday.shtml)  
-[My Profile](https://web.archive.org/html/about_my_account.shtml)  
-[E-Invitations](https://web.archive.org/html/help_party_invitations.shtml)  
-|  |   
-|   
-|  | [Gift Wrapping](https://web.archive.org/html/about_giftwrap.shtml)  
-[Gift Certificates & Coupons](https://web.archive.org/html/help_coupons.shtml)  
-[Other Gift Options](https://web.archive.org/html/about_other_gift.shtml)  
-[Ship to Multiple Addresses](https://web.archive.org/html/about_multi_address.shtml)  
-|  |   
-|   
-|  | [Placing an Order](https://web.archive.org/html/help_order.shtml)  
-[Payment](https://web.archive.org/html/other_help_cs2.shtml)  
-[One-Step Checkout](https://web.archive.org/html/other_express.shtml)  
-[Pre-Order](https://web.archive.org/html/other_po.shtml)  
-|  |   
-|   
-|  | [Shipping Information](https://web.archive.org/exec/help?page=member_service/help_shipping_info.html)  
-[International Shipping](https://web.archive.org/html/other_help_cs6.shtml)  
-[Order Tracking](https://web.archive.org/html/help_order_tracking.shtml)  
-[Returning Items](https://web.archive.org/html/help_returns.shtml)  
-|  |   
-|   
-|  | [About eToys](https://web.archive.org/html/about_intro.shtml)  
-[eToys UK](https://web.archive.org/html/about_etoys_uk.shtml)  
-[Canadian Services](https://web.archive.org/exec/help?page=member_service/help_shipping_info_canada.html)  
-[Product Submissions](https://web.archive.org/html/other_help_cs8.shtml)  
-[Affiliate Program](https://web.archive.org/html/affiliate_home.shtml)  
-[Terms of Use](https://web.archive.org/html/e_etoysterms.shtml)  
-[Playing Audio & Video Clips](https://web.archive.org/html/multimedia_help.shtml)  
-|  |   
-|   
-|  | [E-Mail Us](https://web.archive.org/exec/help?page=member_service/about_email_us.html)  
-|  |   
-|   
-|  |  If you would like to talk to us in person, please call our Customer Service Department at 1-800-GO-ETOYS (1-800-463-8697). 
+**[Does eToys Use Cookies?](http://www.etoys.com/help/privacy.html?_e=d04f&_v=3D04FC39i2Qu92F145AABE7C#p6)**
 
-We are open 24 hours a day, 7 days a week. If you are calling from outside the United States or Canada, please dial 310-664-8530.  
+**Commitment to Privacy**
 
+We know you're concerned about protecting your privacy online. So are we. At eToys, we treat your personal information (especially your credit card number) with the highest standards of safety, security and confidentiality.
 
-|   
-  
-|  |  **Our Pledge to You, Our Customer**
+**What Information Do You Gather About Me?**
 
-eToys respects your privacy. We do not sell, rent, loan or transfer any personal information regarding our customers or their kids to any unrelated third parties. Any information you give us about yourself or your kids is held with the utmost care and security and will not be used in ways to which you have not consented.
+KBtoys.com and eToys and their affiliates, including K•B Toys, K•B Toy Works and K•B Toy Outlet, use the customer information collected at KBtoys.com and eToys. We don't collect personal information without your knowledge. We don't sell, rent or give your personal information to unrelated third parties without your prior permission. Examples of personal information include: your full name, home address, billing address, e-mail address and phone number.
 
-Information collected on our Web site is collected and used by eToys, Inc. and its subsidiaries and affiliates ("eToys") and, in limited cases, eToys service providers who are subject to confidentiality agreements. eToys will not collect any personal information about adults except when specifically and knowingly provided by them. eToys generally does not collect personally identifiable information about kids. If we collect any personally identifiable information about kids, we will first obtain their parents' consent. We request that our customers do not provide any information regarding any child without first obtaining their parents' consent. Examples of personally identifiable information include full name, home address, e-mail address, and phone number.
+This policy explains how we collect information about you and how we use that information. We also outline the choices you have. By shopping at KBtoys.com or eToys, you accept the practices outlined in this Privacy Policy.
 
-**Use of Information**
+If you have any questions about our privacy policy, contact us via e-mail at [customerservice@etoys.com](http://www.etoys.com/help/miscEmail.html?_e=d04f&_v=3D04FC39i2Qu92F145AABE7C). Or, write us at eToys Customer Service, 1099 18th Street, Suite1000, Denver, CO 80202.
 
-Information collected by eToys is used by us for three main purposes. First, we collect information to figure out how to improve our site by seeing which areas, features and products are most popular. Second, we collect information in order to personalize the site for our customers and their kids. For example, in the future, we may recommend products or features you may like based on what you have liked in the past. Last, we collect information to enable customers and their kids to conduct transactions on our Web site and to participate in sweepstakes, contests and other activities. If we collect any such information from a child, we will only collect enough information to enable the child to participate in the activity and no more. If we want to collect information for other purposes, we will inform you when we collect the information.
+**What we gather:** We need your name, billing address, shipping address, e-mail address, home phone number and credit card number to process and ship your order. We will e-mail you to confirm your order and keep you updated on your order status. If we have a question about your order, we may contact you by e-mail or by phone. For example, we may call you to verify your credit card information on a large purchase. We do this for your protection.
 
-From time to time, we may use a limited number of service providers to assist us with customer service, such as answering telephone calls and e-mails. These service providers only use customer information to assist our customers. They must keep all customer information strictly confidential and return it to eToys when our agreements with them end. Thus, the information collected by these service providers is controlled by eToys and will only be used for the purposes described in this policy.
+In addition, we use your information to recommend products and features based on your past purchases, to personalize our newsletters if you choose to subscribe, to maintain your account and to improve your shopping experience.
 
-On occasion, eToys may also share nonpersonal, summary information regarding our customers with unrelated third parties (for example, we publicly disclose the aggregate number of registered users of our Web site). However, eToys does not share any personal information about any particular customer with unrelated third parties.  
-  
----|---  
-| 
+**Who we share it with:** KBkids.com LLC, the company that operates the KBtoys.com and eToys sites, is a subsidiary of KB Holdings, Inc. KB Holdings, Inc., through other subsidiaries, operates retail toy stores under the names K•B Toys, K•B Toy Works and K•B Toy Outlet. We share customer information with KB Holdings, Inc. and its other subsidiaries.
 
-**Parental Consent for Kids' Information**
+**Third parties:** eToys doesn't share information about you with unrelated third parties. However, we may disclose aggregate customer information (such as number of visits or average order amounts) to advertisers or other third parties.
 
-eToys will not collect personally identifiable information about kids without first obtaining their parents' consent. After giving consent, parents will also have the option to review, change or delete a child's personally identifiable information, revoke the consent and refuse to permit collection of further information.
+**Information about kids:** Our site is designed for adults who make purchases for children. eToys doesn't knowingly solicit or collect information from children who are 12 or younger. In our Shop Cart, we post a prominent warning that tells children 12 and younger to seek assistance from a parent or guardian before making a purchase at eToys.
 
-**Cookies**
+When we e-mail our eToys newsletter, it includes prominently displayed instructions that show you how to unsubscribe from the newsletter. If your child subscribes to the eToys newsletter without your knowledge, simply follow the instructions, and unsubscribe immediately. If you want more information about children's privacy online, you can consult the "Consumer Protection" page on the Federal Trade Commission site.
 
-eToys uses a feature of your Internet Web browser called a "cookie" to assign a unique identification to your computer. Cookies are files that your Web browser places on your computer's hard drive. We use these cookie files to track your clicks as you go through the eToys Web site, to keep track of items you put into your shopping cart, to tell us whether you have visited eToys previously, and to help us determine whether you came to eToys from a particular Internet link or banner advertisement.
+**The eToys Newsletter:** If you want to receive e-mail newsletters from eToys with updates on sales, promotions and hot new products, you must subscribe. You can subscribe to the eToys newsletter using a link on the home page, when you create an account, during the checkout process, when you sign up for a sweepstakes or from [Our Newsletter](http://www.etoys.com/help/newsletter.html?_e=d04f&_v=3D04FC39i2Qu92F145AABE7C) page in the help section.
 
-Cookies can also be used to help save and retrieve passwords used on the eToys site and to save information on past purchases and other preferences. That way, you won't have to reenter information upon every new visit to the eToys Web site. eToys does not and cannot use cookies to retrieve personal information about you from your computer.
+We plan to offer specialty newsletters created for collectors, video gamers or bulk buyers. When we launch a new newsletter, we may e-mail it to you if you subscribe to the eToys newsletter and if your buying patterns indicate that the information in the newsletter might interest you.
 
-**Security**
+Each newsletter prominently displays a link you can use to unsubscribe at any time. We also include the e-mail address you used when you signed up for the newsletter, so you know which address to enter when you unsubscribe.
 
-At eToys, part of our job is to make sure your shopping experience is safe and secure. That means your credit card is safe, your personal information is safe, and your password is safe. We use the latest encryption technologies, rigorous password protections, and stringent limits on the number of people who have access to your information, all to guard against unauthorized access to the data. 
+**Sweepstakes or special promotions:** You may have noticed some of the sweepstakes or special promotions we feature at eToys. If you want to participate, you must enter your name and e-mail address. You can also enter the sweepstakes by regular mail. We use your e-mail address to contact you only if you win the sweepstakes or special promotion. We won't add your e-mail address to our customer newsletter mailing list unless you choose to subscribe by checking a box.
 
-**AOL Certified Merchant**[](http://shopping.aol.com/custserv/guarantee.adp)  
-As a Certified Merchant of America Online, we have agreed to abide by AOL's privacy policy. To read AOL's privacy policy, please visit <http://shopping.aol.com/custserv/guarantee.adp>. 
+**Your View:** We give our customers the opportunity to review products on our site. The customer who submits the best "View" of the week will receive a $100 certificate to use at eToys. When you submit "Your View," we will post it on the corresponding product page. We do ask for your e-mail address when you submit "Your View," but we will use it only to notify you if you've won the contest. Submitting "Your View" won't add your e-mail address to our newsletter mailing list.
 
-**Questions and Comments**
+**Contacting eToys Customer Service:** If you contact eToys customer service, we will use your name, e-mail address, phone number and order history to answer your question or solve your problem quickly. On occasion, we may contact you later to verify information or to check on the quality of your Customer Service contact with eToys. We won't add your e-mail address to our newsletter mailing list if you contact customer service.
 
-If you have additional questions or comments of any kind, or if you see anything on our web site that you think is inappropriate, please let us know or [e-mail us](https://web.archive.org/exec/help?page=member_service/about_email_us.html) at: 
+**Legal requests:** We may release customer account or other information if we're advised that release is necessary to comply with the law, or to protect the rights, property and safety of eToys, our customers or others. This may include the exchange of information with companies and organizations or law enforcement for loss prevention and credit risk reduction.
 
-eToys Safety & Privacy  
-12200 Olympic Blvd.  
-Los Angeles, CA 90064  
-(310) 998-6000  
+**How Secure is My Information?**
 
+**Protecting your personal information:** eToys pledges a safe and worry-free shopping experience. We use the industry standard for Internet security, Secure Sockets Layer (SSL 128-bit) encryption to scramble your personal and credit card information as it travels over the Internet during the checkout process. This encryption makes it impossible for anyone to read your information in transit. We protect all of your personal information, including your name, address, password AND credit card information. For an additional layer of security, we encrypt every credit card number we store in our database.
 
-|   
-|   
-| 
+You will know you're in the "secure" area of our site when you click on the green "I Want to Checkout" button. Notice that the "http" portion of eToys's Web site address in your browser changes to "https." The "s" stands for "secure." In addition, both Netscape and Internet Explorer use special symbols to indicate that you're in a Web site's secure area. (Earlier versions of Netscape use a highlighted key. More recent versions of Netscape and all versions of Internet Explorer show a closed, highlighted lock.) Some browsers let you know that you're moving in or out of a secure area by notifying you with a special pop-up window that requires you to click "ok" before continuing.
+
+Because we take your credit card safety and privacy so seriously, we've earned Web site certification from the Better Business Bureau's online branch, BBBOnline.
+
+**Protecting your credit card information:** Secure Sockets Layer (SSL 128-bit) encryption scrambles your credit card number when you submit your order, making it completely unreadable as it travels over the Internet. For an additional layer of security, we encrypt every credit card number we store in our database. Please see our [Credit Card Security page](http://www.etoys.com/help/ccardsecurity.html?_e=d04f&_v=3D04FC39i2Qu92F145AABE7C) for more about credit card safety at eToys.
+
+**Protecting your password:** We encrypt your password to ensure no one else has access to your account. If you forget your password, you can create a new one. You can do your part to protect your personal information by keeping your password a secret and making sure you log off completely if you share a computer.
+
+**What about My Account?**
+
+**Creating an account:** Unlike many e-commerce sites, we don't require our customers to create an account and keep information on file with us. However, creating an account makes it even faster and easier to shop at eToys. With an account, you can take advantage of special features like Quick Checkout. You can also ship gifts to several addresses at the same time by creating an address book and using the "multiple ship-to" option.
+
+**Storing your credit card number:** Do you want to keep your credit card information on file as part of Your Account? It's your decision. When you store your credit card information with us, you can take full advantage of our Quick Checkout feature. Your credit card number also helps us identify you if you forget your password and request a new one to access your account information.
+
+If you don't want to keep your credit card information on file when you create an account, that's fine. You don't need to store your credit card number at eToys to use Quick Checkout. You can re-enter your credit card number each time you checkout.
+
+**Option to change, modify or delete account information:** You can review, modify, or delete your account information anytime. Just go to our [Modify Your Account](http://www.etoys.com/help/myacct.html?_e=d04f&_v=3D04FC39i2Qu92F145AABE7C) Settings page. There, we give you the option to look over your account information if you've created an account, modify/change that information or delete your account.
+
+**What about My Wish List?**
+
+**Creating a Wish List:** If you create a Wish List at eToys, you must first create Your Account. Wish List works like a Gift Registry. As a registered customer, you can create as many Wish Lists as you need. If you choose to share your Wish List(s) with family members or friends, the "share" feature is designed only for shopping convenience and no other purpose.
+
+Children age 12 and under may not create a Wish List or an Account, unless they have direct supervision by a parent or guardian. 
+
+**Your Wish List Information:** When you create a Wish List, you provide us with basic information, including your name, e-mail address, shipping address, state and the names and birthdays associated with each Wish List you build. We respect your privacy. We use this information only in ways outlined in this Privacy Policy. 
+
+**Use of the E-Mail Addresses of Your Family Members and Friends:** If you decide to use the "Share my Wish List" feature, we will e-mail your Wish List to the e-mail addresses you provide, along with your personal message. We won't use their e-mail addresses for any other purpose.
+
+**Use of Your E-mail Address:** By using the "Share Your Wish List" feature, you authorize eToys to share your e-mail address with your family members and friends.
+
+**Use of the Wish List Directory:** We give you the opportunity to include your Wish List in our directory. That way, your family members and friends or any eToys customer can search for your list using the name, state or birthday associated with your Wish List. We don't display any additional personal information. When your family members and friends decide to make a purchase, we don't show your shipping address during the checkout process. If you don't want others to find your Wish List using your name, state or birthday information, do not add your Wish List to our directory.
+
+**Wish List Terms:** By using the Wish List feature, you agree to the terms outlined above. 
+
+**How does eToys Recognize Me?**
+
+We automatically recognize your Internet Service Provider (ISP) and your operating system. We sometimes use this information to solve problems with our server. We use URL encoding to monitor your shopping activity on our site. That way, we know that you're the same customer who added a Razor Scooter™ with Red Wheels and a Hula Hair Barbie® to your shop cart.
+
+We also use this information to determine the most popular products and pages on our site. This helps us make changes to improve your shopping experience.
+
+If you enter eToys from one of our affiliate sites, you may notice a special code at the end of our Web address as you move through our site. That tells us which affiliate site you entered through. We give that affiliate credit for any purchase you make. However, we don't share any personal identification information about you with that affiliate.
+
+**Does eToys Use Cookies?**
+
+Yes. A "cookie" is a special identifier. Web sites like eToys transfer cookies to your hard drive through your Web browser. Cookies help us identify you when you visit eToys. If you have a coupon or certificate from eToys or from another site, this information may be stored in your cookie. We don't store your password or any personal information in your cookie.
+
+If you want to prevent your browser from accepting cookies, set your browser options to let you know when you receive a new cookie, or turn off your cookies completely. You can find out how by reading the "help" portion of your toolbar on most browsers. Remember, however, that if you turn off the cookies feature, you will not be able to take advantage of all the special features eToys offers. 
+
+**Contact eToys**
+
+If you have more questions about this privacy statement, the practices of this site or your dealings with eToys, e-mail [customerservice@etoys.com](mailto:customerservice@etoys.com), or write to us at:
+
+eToys  
+Customer Service  
+1099 18th Street, Suite 1000  
+Denver, CO 80202 
