@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mondera.com privacy policy that was archived on 2004-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041026062310id_/http%3A//www.mondera.com/help/privacy.asp%3Fmscssid%3DPTUL120A50UL9G2HR32QHLLVDRQX7QS6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondera.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206050141id_/http%3A//www.mondera.com/help/privacy.asp%3Fmscssid%3DBAKQRP3JBQJD9GTN21Q3LEKJVU605E4F) for the most accurate reproduction.*
 
 # Mondera.com - Help (Privacy Policy)
 
@@ -30,7 +30,7 @@ Other Information We Collect
 
 \- Should you contact us through our feedback form, we require your name and email address only to send you a reply.
 
-\- If you use the form to send comments about your shopping experience at Mondera, we may include the comment with your name in our [Customer Testimonials](http://www.mondera.com/about/testimonials.asp?mscssid=WDD9XXVFWTX48J0VAFDGJADGWXHJFVJF) section. 
+\- If you use the form to send comments about your shopping experience at Mondera, we may include the comment with your name in our [Customer Testimonials](http://www.mondera.com/about/testimonials.asp?mscssid=9G58KLXQNGPE8NAJGCCDJ93243DHDDFD) section. 
 
   Email Newsletter," "Email Special Offers" and "Catalog" Sign-up Features
 
