@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookit.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210091906id_/http%3A//www.bookit.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookit.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305222307id_/http%3A//www.bookit.com/privacy_policy.php) for the most accurate reproduction.*
 
-# BookIt.com™ - You know what to do.
+# BookIt.com™ Book Online: You know what to do.™
 
 |  |  |  | 
 
