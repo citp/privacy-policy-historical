@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606161221id_/http%3A//www.inboxdollars.com/privacy.php%3Fref%3Dblank) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215104031id_/http%3A//www.inboxdollars.com/privacy.php%3Fref%3Dblank) for the most accurate reproduction.*
 
 # InboxDollars.com -- Privacy Policy
 
@@ -14,19 +14,20 @@
 >  [**Testimonials**](http://www.inboxdollars.com/adv_testimonials.php?ref=blank)  
 >  [**Signup Now!**](http://www.inboxdollars.com/adv_signup.php?ref=blank)  
 >  [**Order Now!**](http://www.inboxdollars.com/adv_order.php?ref=blank)  
->  [**Advertiser Login**](http://www.inboxdollars.com/adv_login.php?ref=blank)
+>  [**Advertiser Login**](http://www.inboxdollars.com/adv_login.php?ref=blank)  
+>  [**Affiliate Program**](http://www.inboxdollars.com/adv_referral.php?ref=blank)
 
 |   | 
 
 **_Information Collected:_**
 
   
-Some of the Information collected by InboxDollars is only used for internal use. This includes your name, address, email address, phone number, and Internet Address (IP Address). This information will be used solely by InboxDollars to contact you about updates to our program, keep your member information current, and to provide payment to you. Demographical information about you, including birth date, gender, marital status, and interests are collected to send you paid advertisements corresponding to your information. This information will never be given to paying advertisers, since InboxDollars handles all E-Mailing itself.
+Some of the Information collected by InboxDollars is only used for internal use. This includes your name, address, email address, and Internet Address (IP Address). This information will be used solely by InboxDollars to contact you about updates to our program, keep your member information current, and to provide payment to you. Demographical information about you, including birth date, gender, marital status, and interests are collected to send you paid advertisements corresponding to your information. This information will never be given to paying advertisers, since InboxDollars handles all E-Mailing itself. The only time your personal information is physically given to advertisers is when you select any co-registration boxes (ads for separate sites) on our signup form. Your name, email address, street address, city, state, and zip code will be given to these advertisers, so they can contact you about the service you have opted in for.
 
 **_Means of Collection:_**
 
   
-At this time, the only way to become a member of InboxDollars is by filling out our signup form. Members will not be acquired through through purchase, other companies, or mergers.
+At this time, the only way to become a member of InboxDollars is by filling out our signup form. Members will not be acquired through through purchase, other companies, or mergers. However, InboxDollars reserves the right to purchase email addresses and market offers to these individuals as a separate function of our site. These individuals are not considered InboxDollars members, and are not paid to receive these email promotions.
 
 **_Use of Information:_**
 
