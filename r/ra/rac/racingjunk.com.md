@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingjunk.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204141513id_/http%3A//racingjunk.com/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingjunk.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303170912id_/http%3A//www.racingjunk.com/policy.jsp) for the most accurate reproduction.*
 
 # RacingJunk.com Privacy Policy
 
@@ -113,9 +113,13 @@ Raceway will notify you of any significant changes to the RacingJunk.com Privacy
 
 If a user elects to use RacingJunk.com's referral service called "Recommend Ad" to tell a friend about the RacingJunk.com site, Raceway asks for the friend's name and e-mail address. Raceway will automatically send the friend a one-time e-mail inviting the friend to visit the site. Raceway stores this information for the sole purpose of sending this one-time e-mail. The friend may contact Raceway at info@RacingJunk.com to request the removal of this information from Raceway's database. 
 
-Copyright ©2004 Raceway Media, LLC. All rights reserved. 
+Copyright ©2005 Raceway Media, LLC. All rights reserved. 
 
 | 
+
+[](http://www.carsponsorships.com/scout/sponsor.php?id=628)
+
+[](http://hop.clickbank.net/?racingjunk/sponsorkit)
 
 | 
 
@@ -123,6 +127,6 @@ Copyright ©2004 Raceway Media, LLC. All rights reserved.
   
 ---  
   
-"Hey Guys, Great job with the this site ! I have found a lot of parts on yoour web site that I cannot find anywhere else. I go to it about twice a day when I have the chance. It is a Drag racers friend! Thanks,"  
+"I sold my Barracuda through your web site within five hours. I listed it on a Sunday afternoon and had made contact with the eventual buyer by Sunday evening. The cash was in my hand and the car was gone by the following Saturday. I am forwarding you my honor payment. - Thanks"  
   
-Bob Patton
+Jim
