@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ringcentral.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417030053id_/http%3A//ringcentral.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringcentral.com privacy policy that was archived on 2003-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030715231302id_/http%3A//www.ringcentral.com/company/privacy.asp) for the most accurate reproduction.*
 
 # RingCentral: Privacy Statement
-
-**RingCentral.com and Buzme.com are divisions of RingCentral, Inc. and are subject to the Privacy policy of RingCentral, Inc.**
 
 RingCentral, Inc. understands your desire to protect personal information. We intend to inform you of how your personal information is gathered, tracked and used. RingCentral, Inc. is firmly committed to protecting the privacy rights of our customers. RingCentral believes that a strong guarantee of privacy is essential to the success of its service and to your ongoing patronage, as well as to the overall health of the Internet.
 
