@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810040314id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610090132id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.*
 
-# The Jerusalem Post Newspaper : Online News From Israel
+# Israel News : Jerusalem Post Internet Edition
 
 Privacy Statement for The Jerusalem Post Internet Edition
 
@@ -39,7 +39,7 @@ Contact information from the order forms is used to ship purchases, information 
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
 **E-Mail**  
-Using the e-mail addresses provided on registrations, surveys, and contests, **The Jerusalem Post, The Jerusalem Report and The Jerusalem Post Internet Edition** periodically sends promotional e-mail to its subscribers about services offered by **The Jerusalem Post, The Jerusalem Report and The Jerusalem Post Internet Edition** and its carefully scrutinized advertisers. If you do not wish to receive solicitations sent on behalf of third parties, you will have to [unregister from our service](http://www.jpost.com/servlet/Satellite?pagename=JPost/P/Member/UnRegister). Please note that only registered users may use our entire site. 
+Using the e-mail addresses provided on registrations, surveys, and contests, **The Jerusalem Post, The Jerusalem Report and The Jerusalem Post Internet Edition** periodically sends promotional e-mail to its subscribers about services offered by **The Jerusalem Post, The Jerusalem Report and The Jerusalem Post Internet Edition** and its carefully scrutinized advertisers. If you do not wish to receive solicitations sent on behalf of third parties, you will have to [unregister from our service](http://www.jpost.com/servlet/Satellite?pagename=JPost/P/Subs/MyAccount&tab=unregister). Please note that only registered users may use our entire site. 
 
 The Jerusalem Post Internet Edition may contact you regarding account status, changes to the subscriber agreement, and to confirm registration. 
 
