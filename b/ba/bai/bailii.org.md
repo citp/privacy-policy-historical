@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608204744id_/http%3A//www.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2001-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011206001310id_/http%3A//www.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
 
 # BAILII - About AustLII: Privacy Policy
 
