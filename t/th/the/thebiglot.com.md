@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebiglot.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223151057id_/http%3A//www.thebiglot.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiglot.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402103500id_/http%3A//www.thebiglot.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,10 @@
   
   **[List A Vehicle For Sale](http://www.thebiglot.com/placeanad.asp)**  
   **[Get A New Car Quote](http://www.thebiglot.com/newCarQuoteStart.asp)**  
-  **[Get Cars By Email](http://www.thebiglot.com/VehicleWanted.asp)**  
+  **[Vehicle Want Ads](http://www.thebiglot.com/wanted/wanted-results.asp)**  
+  |  [View Want Ads](http://www.thebiglot.com/wanted/wanted-results.asp)  
+[Place A Free Want Ad](http://www.thebiglot.com/VehicleWanted.asp)  
+  
   **[Automotive Resources](http://www.thebiglot.com/resources.asp)**  
   |  [Auto Insurance](http://www.thebiglot.com/resources_insurance.asp)  
 [Leasing A Car](http://www.thebiglot.com/resources_leasingavehicle.asp)  
