@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thecassiopeia.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605130034id_/http%3A//www.thecassiopeia.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecassiopeia.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208153133id_/http%3A//www.thecassiopeia.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy For Internet Business Consultants For 3rd Millennium
 
-  The terms "we" and "us" refer to the above.
-
- You may freely browse our site without giving out any private information. However, if you decide to sign up for our Ezine, refer our site to your friends or require updates or additional information etc you are asked for some of your personally identifiable information. Please read below which information we may need to render you the service you want: 
+You may freely browse our site without giving out any private information. However, if you decide to sign up for our Ezine, refer our site to your friends or require updates or additional information etc you are asked for some of your personally identifiable information. Please read below which information we may need to render you the service you want: 
 
 **The Information We Collect**
 
@@ -62,7 +60,3 @@
   We work with third parties that serve ads to our network of sites. These third parties may use the demographic and/or behavioural data provided by Partners to deliver relevant, targeted advertisements to the Partner Site. This demographic and behavioural data is obtained and maintained in a manner such that no connection can be drawn between the profiles supplied to the third parties and the End-User's personally identifiable information.
 
   **Conclusion**
-
-You should be aware of the fact that by using our website you agree to our below Terms and Conditions of Use and Disclaimer [**Terms of Use & Disclaimer**](http://www.thecassiopeia.com/Terms.html)
-
-In case you have any more questions on the topic, please email us at the above addresses. 
