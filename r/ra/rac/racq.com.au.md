@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racq.com.au privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607181421id_/http%3A//www.racq.com.au/privpolRACQ.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racq.com.au privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205042430id_/http%3A//www.racq.com.au/privpolRACQ.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@ This statement was last amended on 17 December 2001.
 
 **1\. About this Privacy Statement**
 
-This Privacy Statement applies to your use of the web site of RACQ (ABN 72 009 660 575) at [www.racq.com.au](http://www.racq.com.au/). This includes using any of RACQ’s facilities via the web site. 
+This Privacy Statement applies to your use of the web site of RACQ (ABN 72 009 660 575). This includes using any of RACQ’s facilities via the web site. 
 
 Serving our members and customers effectively, securely and as conveniently as possible is considered vitally important at RACQ. We recognise that some people have concerns about the performance of online technology and how their personal information will be stored and used. 
 
@@ -97,10 +97,9 @@ If we change this Privacy Statement we will post the changes on this page so tha
 
 Any reference to RACQ in this privacy statement includes the following web sites: 
 
-RACQ Corporate Site [www.racq.com.au](http://www.racq.com.au/)  
+RACQ Corporate Site www.racq.com.au  
 RACQ Travel [www.travel.racq.com.au](http://www.travel.racq.com.au/)  
 Free2go [www.free2go.com.au](http://www.free2go.com.au/)  
-RACQ Insurance [www.racqinsurance.com.au](http://www.racqinsurance.com.au/)  
 
 
 
