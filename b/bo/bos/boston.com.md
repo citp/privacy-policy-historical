@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604023447id_/http%3A//boston.com/help/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205190912id_/http%3A//www.boston.com/help/privacy.shtml) for the most accurate reproduction.*
 
 # Boston.com / Help / Privacy Policy
 
@@ -31,6 +31,7 @@ If users wish to utilize certain services located on any of our sites, they must
   * On-line purchase of goods from The Globe Store
   * Engaging in other e-commerce transactions
   * E-mail newsletters (e-mail address only)
+  * E-mail special offers
 
 The information collected when a user signs up for a service can include an e-mail address (which also functions as an account ID in some instances), name, a credit card number for e-commerce transactions and, in the case of hard goods purchases, a billing/shipping address. This transaction information is encrypted and retained in a database, independently of other Web site information. When signing up for a service, a user may also "opt out" of various e-mail notifications or offers (see **Opt Out Procedures** below). 
 
@@ -52,7 +53,15 @@ Boston.com offers contests and sweepstakes in which we request certain personal 
   * a contest sponsor, if a user expressly asks to receive additional information from the contest sponsor.
   * the contest administrator, if not Boston.com, and if the user expressly consents.
 
-Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event. 
+Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event.
+
+**Boston.com / Eversave.com opt-in e-mail products**  
+Boston.com / Eversave.com opt-in e-mail products Boston.com and Eversave.com are partnered to bring discounts, specials and coupons from advertisers to users who specifically opt-in for this particular e-mail service. The specific information collected for this list is never sold to third parties. Boston.com will 'rent' the use of this list to advertisers without revealing individual members. Registrants will never receive an unsolicited e-mail from another source. Registrants will not receive more than two of these Boston.com e-mails in a 7-day period. Eversave.com has the right to send additional e-mails. 
+
+We provide reports (such as geographic, demographic, and category preference information) to potential advertisers. This helps prospective sponsors understand the viewership they will reach. The information in these reports does NOT identify individual members. No information is contained in the reports that would allow outside companies to contact members directly. 
+
+Advertisers may promote their own opt-in e-mail products (often managed by Eversave) with advertising on Boston.com. This information is collected by the advertiser, separate from the Boston.com e-mail, and stored in their own database.   
+[Click here to see Eversave.com's Privacy Policy](http://esreg.eversave.com/eversave/consumers/PrivacyPolicy.jsp). 
 
 **Usage tracking:**   
 Boston.com does track usage patterns on our sites and breaks down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). However, we do not match this information with users' personally identifiable information. 
@@ -93,11 +102,11 @@ See Boston.com's [ Help page](https://web.archive.org/help/) for additional cont
 
 _Last modified April 10, 2002_
 
-Send content requests or comments to [Feedback](https://web.archive.org/web/20020604023447id_/http%3A//boston.com/help/feedback.shtml)
+Send content requests or comments to [Feedback](https://web.archive.org/web/20021205190912id_/http%3A//www.boston.com/help/feedback.shtml)
 
 * * *
 
-Return to the [Help Center](https://web.archive.org/web/20020604023447id_/http%3A//boston.com/help/index.shtml) homepage. 
+Return to the [Help Center](https://web.archive.org/web/20021205190912id_/http%3A//www.boston.com/help/index.shtml) homepage. 
 
 Return to the [ Boston.com](http://www.boston.com/) homepage. 
 
