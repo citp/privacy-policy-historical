@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neoseeker.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202181157id_/http%3A//neoseeker.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoseeker.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608145730id_/http%3A//www.neoseeker.com/info/privacy.html) for the most accurate reproduction.*
 
 # Neoseeker Privacy Policy
 
