@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigten.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209041353id_/http%3A//www.bigten.org/utilities/register/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigten.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603202549id_/http%3A//bigten.org/utilities/register/privacy.cfm) for the most accurate reproduction.*
 
 # BigTen.org: Privacy Statement.
 
