@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sgi.com privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604042717id_/http%3A//www.sgi.com/company_info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sgi.com privacy policy that was archived on 2001-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011205053648id_/http%3A//www.sgi.com/company_info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
@@ -131,15 +131,11 @@ function eraseimage(imgname, divname){
 
 // Used to clear the menu after the mouse leaves it
 function menuhider(evnt) {
-        if (initialized) {
-                if (window.event) {
-                        if (window.event.toElement.className != "menu")
-				clearmenus();
-                } else if (evnt.target) {
-                        if(evnt.target.id || evnt.target.className != "menu")
-                                clearmenus();
-                }
-        }
+	if (initialized) {
+		if (window.event) {if (window.event.toElement.className != "menu") clearmenus();}
+		else if (evnt.relatedTarget) { if (evnt.relatedTarget.className != 'menu') clearmenus();}
+		else if (document.layers) clearmenus();
+	}
 }
 
 // Caches the dropdown menus
@@ -315,10 +311,13 @@ function RateThisPage(w,h,myurl){
 
 	<td width="112"><b>Privacy Policy</b></td>
 	</tr>
-	<tr valign="TOP">
-	<td><img src="/images/dots/dot_clear.gif" alt="" height="20" width="14"></td>
-<td><img src="/images/dots/dot_clear.gif" alt="" height="1" width="90"></td>
+	<!-- Rate This Page -->
+	<tr>
+	  <td></td><td><a href="javascript:RateThisPage()" onclick="RateThisPage(325,300,'/rate/index.html');return false;"><img src="/rate/images/nav_rtp.gif" width="69" height="42" border="0" alt="Rate This Page"></a></td>
 	</tr>
+<!-- This row was inserted to ensure that the sidenav pushes out to a width of 130 -->
+	<tr><td></td><td><img src="/images/dots/dot_clear.gif" alt="" height="1" width="112"></td></tr>
+
 	</tbody></table>
 </div>
 
@@ -532,7 +531,7 @@ simply putting "privacy" in the subject line.</p>
 		    </option><option value="Support">Services &amp; Support
 		    </option><option value="Fun">Serious Fun
 		</option></select>
-		<br>
+		<br><a href="/search/infosearch_help.html">Quick Search Tips</a>
 		<input name="srch" size="15">
 		<br><nobr>
 		<input type="submit" value=" Search ">&nbsp;<input type="button" value=" Cancel " onclick="menuovers[5].visibility='hidden'">
