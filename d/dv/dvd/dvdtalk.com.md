@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605135542id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201230250id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for DVD Talk
 
@@ -30,7 +30,7 @@
 • **[Complete List of Stores](http://www.dvdtalk.com/support.html)**  
 **DVD REVIEWS**  
   
-[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=31&layout=multi&id=2119)
+[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=31&layout=multi&id=2179)
 
 Search reviews:  
   
@@ -88,9 +88,11 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 ## Choice/Opt-Out
 
-We use third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and 1x1 pixel .gif technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. 
+We use Gorilla Nation, DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [Click here](http://www.networkadvertising.org/optout_nonppii.asp)
 
-If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies. 
+## Third Party Cookies 
+
+In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation, Double Click or their affiliates, or individual advertisers may place or recognize a unique "cookie" on your browser. 
 
 ## Correct/Update
 
@@ -102,15 +104,10 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Geoffrey Kleinman Kleinman.com Inc. 8872 SW 82nd Ave Portland, OR 97223 talk@dvdtalk.com |  | **Coming Soon**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Geoffrey Kleinman Kleinman.com Inc. 8872 SW 82nd Ave Portland, OR 97223 talk@dvdtalk.com |  | **Special Offers**  
 ---  
   
-[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=33&layout=multi&id=2254)  
-  
-**Special Offers**  
----  
-  
-[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=4&layout=multi&id=1688)  
+[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=4&layout=multi&id=1718)  
   
   
 
