@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205031400id_/http%3A//www.activediner.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405140101id_/http%3A//activediner.com/privacy.cfm) for the most accurate reproduction.*
 
 # ActiveDiner(SM) - Privacy Statement
 
-| 
+|  [](http://service.bfast.com/bfast/click?bfmid=26996221&siteid=38210306&bfpage=468x60)
 
 > ##  Privacy Statement for ActiveDiner 
 > 
@@ -56,4 +56,6 @@
 
 * * *
 
-| 
+|  [](http://service.bfast.com/bfast/click?bfmid=13376670&siteid=38209784&bfpage=homepage)   
+[](http://service.bfast.com/bfast/click?bfmid=30719175&siteid=38208930&bfpage=save50_120x240) [](http://service.bfast.com/bfast/click?bfmid=12752042&siteid=38208928&bfpage=fres)    
+[](http://service.bfast.com/bfast/click?bfmid=12750952&siteid=36257057&bfpage=home___lifestyle)
