@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssfcu.org privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411185659id_/http%3A//www.ssfcu.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssfcu.org privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205121527id_/http%3A//www.ssfcu.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Security Service Federal Credit Union
 
@@ -40,7 +40,7 @@ This privacy policy explains:
 
 **c.       ****Telephone Number-** If you supply us with your telephone number on-line, you will receive telephone contact from us only for the purpose of providing you with information regarding your on-line request.
 
-**d.       ****Cookies** \- A cookie is a piece of data that a Website can send to your browser, which is then stored on your computer.  Currently, SSFCU does not save cookies on our Website.  However, SSFCU cooperates with third parties to allow products and services to be made available to our members.  Upon leaving the SSFCU Website and entering the Website of a third party you may be served with a cookie.     
+**d.       ****Cookies** \- A cookie is a piece of data that a Website can send to your browser, which is then stored on your computer.  Currently, SSFCU does not save cookies on our Website.  However, based on future applications and/or membership needs, SSFCU reserves the right to use cookies on its Website.  At such time a change occurs, SSFCU will clearly disclose the use of cookies on the Website.  SSFCU cooperates with third parties to allow products and services to be made available to our members.  Upon leaving the SSFCU Website and entering the Website of a third party you may be served with a cookie.     
   
 **Q. Does Security Service Federal Credit Union allow me to submit loan applications on-line?  **  
 **A. Yes.** Our on-line applications assist us in quickly processing your loan request.  The disclosure of information is entirely voluntary on your part and, if you choose to give it, the personally identifying data will be used both to make our loan decision as well as provide you with additional information about our credit union and the products and services we offer.  However, if you choose not to give us the  complete information we request in our application, we may not be able to process your loan request.     
