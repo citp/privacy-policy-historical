@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the snapfish.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408231319id_/http%3A//www.snapfish.com/privacy/t_%3D4123) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.com privacy policy that was archived on 2001-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011010180932id_/http%3A//www.snapfish.com/privacy/t_%3D4677) for the most accurate reproduction.*
 
 # Snapfish: Privacy Policy
 
-  
 Snapfish respects your privacy. This Privacy Policy describes exactly how Snapfish uses identifiable information regarding our customers (such as name, address, email addresses or credit card numbers)( **"Customer Information"** ). We collect Customer Information for the purpose of providing you with an outstanding experience on the Snapfish Service. Except as specifically described in this Privacy Policy, Snapfish does not sell, rent or share such Customer Information with third parties. 
 
 Snapfish is a member of TRUSTe. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting TRUSTe's principles of fair information practices. Because our company is completely committed to respecting and protecting your privacy, we have agreed to disclose our customer information practices and to have our privacy practices reviewed for compliance by TRUSTe. 
@@ -27,7 +26,7 @@ Customer Information is requested whenever you choose to use Snapfish services. 
 
 • _When you want to upload digital pictures or to view other's pictures on the Site,_ we will ask you to provide your first and last name, an email address and a password. 
 
-• _When you want Snapfish to develop your film,_ we will also ask for a billing address, a shipping address, and a credit card number for the payment of development and shipping and handling costs. 
+• _When you want Snapfish to develop your film,_ we will also ask for a billing address, a shipping address, and a credit card number for the payment of developing and shipping and handling costs. 
 
 • _When you want to share your pictures with others ( **"Invitees"** ),_ we will ask for email addresses of friends and family you choose to share with. 
 
@@ -40,7 +39,7 @@ Snapfish offers many optional promotional opportunities for which you may decide
 **_How is Customer Information used by Snapfish?_**   
 Our primary goal in collecting your Customer Information is to provide you with a very personalized, relevant, user-friendly Web experience on the Snapfish site. Here are the ways that we use Customer Information to offer this experience: 
 
-_Customer Communication_ : **We use Customer Information to communicate with you, and we consider this communication to be an integral part of the Snapfish service.** To keep this communication going, we use your email and mailing address to inform you of site improvements, feature announcements, newsletters, Snapfish promotional offers, and occasional third-party promotional offers that may be of interest to you. Only Snapfish (or agents working on behalf of Snapfish under confidentiality agreements) will send you these direct mailings. This is a key component of "active participation" in the Service (see our Terms and Conditions). If you do not wish to be an active participant, you may always cancel your Snapfish membership by writing [cancel@snapfish.com](mailto:cancel@snapfish.com?subject=R02:%20Cancel%20my%20account). We will delete your account and remove and discard any content and Customer Information associated with your account (personal information, uploaded images, comments, etc.) 
+_Customer Communication_ : **We use Customer Information to communicate with you, and we consider this communication to be an integral part of the Snapfish service.** To keep this communication going, we use your email and mailing address to inform you of site improvements, feature announcements, newsletters, Snapfish promotional offers, and occasional third-party promotional offers that may be of interest to you. Only Snapfish (or agents working on behalf of Snapfish under confidentiality agreements) will send you these direct mailings. This is a key component of "active participation" in the Service (see our Terms and Conditions). If you do not wish to be an active participant, you may always cancel your Snapfish membership by writing [cancel@snapfish.com](mailto:cancel@snapfish.com?subject=R02:%20Cancel%20my%20account). 
 
 _Customer Satisfaction_ : **We use Customer Information to make your Snapfish experience enjoyable.** For example, because we know who you are after you log in, we know to load the right set of albums into your Shoebox ( your password-protected area on Snapfish). We also know where to email you to let you know your photos are ready for viewing online. Furthermore, if (for example) we know you are a new mom or dad, we know you may appreciate a promotional offer via email for discounted photo birth announcements from Snapfish or a coupon for discounts on baby clothes from a baby Web site. 
 
@@ -62,16 +61,18 @@ The one exception to the rule described in this section is the following: if Sna
 **_Who sees your photos after they have been posted online?_**  
 You, your Invitees and their Invitees can see your albums online. An Invitee is defined as anyone who is invited to the Snapfish site to see an album. Anyone who is invited to see an album online must provide an email address and a password to access the site and view a shared album. When you choose to share your online images with Invitees, those individuals will be able to view your name. If you don't want your Invitees to invite other people to see the album, you can select the "No" option on the album invite. That will prohibit them from re-sharing the album from within their account on the Snapfish site. However, as with any email, your Invitees could forward the email invitation to others, who will then be able to click on the link to the album within the email, and see the pictures too. 
 
+Snapfish employees or employees of partner companies that provide services to Snapfish may see your photos while they are developed, scanned or printed. In addition, your photos or personal account information may be seen by Snapfish employees in order to evaluate, validate, or correct problems with your account. 
+
 **_Does Snapfish use "IP Addresses" and cookies?_**   
 Snapfish uses IP Addresses and Cookies in limited ways, as follows: 
 
-_IP Addresses_ : An IP address is literally your computer's address and is a unique identifier, allowing online information to be sent to the right place. We use IP addresses to better understand the customer database. We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information such as geographic distribution of our members. We do not intentionally link your IP address to your personally identifiable information. 
+_IP Addresses_ : An IP address is literally your computer's address and is a unique identifier, allowing online information to be sent to the right place. We use IP addresses to better understand the customer database. We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information such as the geographic distribution of our members. We do not intentionally link your IP address to your personally identifiable information. 
 
 _Snapfish Cookies_ : Contrary to popular belief, cookies do not extract private or personal information from your computer's memory. The job of a cookie is to record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer the first time you visit our Web site that enable our server to recognize or "remember" who you are next time you come back. Currently, Snapfish intends to make only limited use of cookies for the purpose of delivering content and ads specific to your interests. For instance cookies may be used to retain your personal preferences, hold session information for a "shopping basket," or save your password so it doesn't have to be re-entered each time you log in. 
 
 _Advertiser Cookies_ : Snapfish does post third party advertising banners. These ads may contain cookies used primarily to provide data to the advertiser about where visitors are coming from. While we do use cookies in other parts of our Web site as explained above, cookies received with banner ads may or may not be collected or controlled by our company. When you click on a banner ad, you should be aware that the advertiser may be collecting information without the permission of Snapfish. 
 
-Snapfish works with two third party ad serving services, the Sonar Network and Engage Media, to help serve ads for this site. Snapfish does not control the privacy practices of these services. To find out more about how each of these third parties manages the privacy of information in conjunction with serving ads on this site, please review the Sonar Network privacy policy and the Engage Media privacy policy. 
+Snapfish works with a third party ad serving service, Doubleclick, to help serve ads for this site. Snapfish does not control the privacy practices of this service. To find out more about how this third party manages the privacy of information in conjunction with serving ads on this site, please review the Doubleclick privacy policy. 
 
 _Advice on Limiting Cookies_ : You always have a choice with respect to cookies. By modifying your browser preferences, you can accept all cookies, be notified when a cookie is set or reject all cookies. If you choose to reject all cookies, you may be unable to use certain Snapfish services. Please consult your browser instructions for information on how to modify your choices about cookies. 
 
@@ -87,7 +88,7 @@ Snapfish employs SSL to encrypt and protect your Customer Information. We unders
 **_How can you update or correct Customer Information?_**   
 Customer Information that you provide during registration is available in your Snapfish member profile. To edit your Customer Information, you must enter your member name and password in order to access your profile. You may edit your member profile at any time. 
 
-You can also cancel your Snapfish membership by writing [cancel@snapfish.com](mailto:cancel@snapfish.com?subject=R02:%20Cancel%20my%20account). We will delete your account and remove and discard any content associated with your account (personal information, uploaded images, comments, etc.). 
+You can also cancel your Snapfish membership by writing [cancel@snapfish.com](mailto:cancel@snapfish.com?subject=R02:%20Cancel%20my%20account). If you request cancellation of your account, Snapfish may (but is not required to) remove any and all content (photos) or other personal information from the Snapfish site, and your photos may not be accessible to you even if you choose to rejoin or reactivate your account at a later date. Information necessary for the purposes of maintaining business records regarding a cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law. 
 
 **_Other information about privacy_**   
 _Visitors outside the United States_ :  
@@ -97,4 +98,4 @@ _Links from the Snapfish Site_ : If you click away from Snapfish to visit the si
 
 _Notification of Change_ : If Snapfish intends to expand the ways that Customer Information is used under this Privacy Policy, we will notify our members beforehand. 
 
-_Contacting Snapfish_ : If you have any questions about our Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at [service@snapfish.com](mailto:service@snapfish.com?subject=R03:%20My%20questions). 
+_Contacting Snapfish_ : If you have any questions about our Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at [service@snapfish.com](mailto:service@snapfish.com?subject=R03:%20My%20questions).
