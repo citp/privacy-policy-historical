@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the isaserver.org privacy policy that was archived on 2003-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205054344id_/http%3A//www.isaserver.org/pages/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the isaserver.org privacy policy that was archived on 2004-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040622083933id_/http%3A//www.isaserver.org/pages/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
   <title>Privacy statement</title>
   <meta name="Keywords" content="ISA Server, firewall, microsoft, network security, windows 2000, addons, tutorials, server, isa, 2000, security, tips, internet security and acceleration server">
   <meta name="description" content="With Microsoft ISA Server Firewall related FAQ's, add-on software listings, tutorials, tips, how to's, books, message boards, discussion lists and more about the new Microsoft ISA server 2000">
   <link href="/css/styles.css" rel="stylesheet" type="text/css">
-  <link href="/img/upl/styles.css" rel="stylesheet" type="text/css">
+  <script language="javascript" src="/templates/showemail.js"></script>
  </head>
 
  <body background="/img/bg_body.gif">
@@ -21,8 +21,7 @@
 	<a href="http://www.webelists.com/cgi/lyris.pl?enter=isalist" class="topmenu">Discussion List</a> |
 	<a href="/pages/events.asp" class="topmenu">Events</a> |
 	<a href="/faq/" class="topmenu">FAQs</a> |
-	<a href="/pages/games.asp" class="topmenu">Gaming</a> |
-	<a href="/tutorial/" class="topmenu">Learning Zone</a> |
+	<a href="/articles/Gaming.html" class="topmenu">Gaming</a> |
 	<a href="/pages/links.asp" class="topmenu">Links</a> |
 	<a href="http://forums.isaserver.org/" class="topmenu">Message Boards</a> |
 	<a href="/pages/newsletter.asp" class="topmenu">Newsletter</a> |
@@ -35,7 +34,7 @@
 
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
    <tbody><tr>
-    <td width="248"><img src="/img/logo.gif" border="0" width="248" height="91" usemap="#logo_home"> 
+    <td width="248"><img src="/img/sitelogo.gif" border="0" width="248" height="91" usemap="#logo_home"> 
       <map name="logo_home">
         <area alt="" coords="70,1,120,21" href="/">
         <area alt="" coords="130,1,160,21" href="/pages/larticle.asp?type=FAQ">
@@ -65,7 +64,7 @@ if (browName=='Netscape'){
 else
      { document.write('<ifr'+'ame src="http://ads.isoftmarketing.com/banman.asp?ZoneID=18&Task=Get&SiteID=8&X=' + browDateTime + '" width=470 height=80 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No AllowTransparency=Yes></ifr'+'ame>'); }
 // --> 
-</script><iframe src="http://ads.isoftmarketing.com/banman.asp?ZoneID=18&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=8&amp;X=1580380721642" width="470" height="80" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+</script><iframe src="http://ads.isoftmarketing.com/banman.asp?ZoneID=18&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=8&amp;X=1580380719139" width="470" height="80" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
 <noscript>
     <a href="http://ads.isoftmarketing.com/banman.asp?ZoneID=18&Task=Click&Mode=HTML&SiteID=8&PageID=22016" target="_new">
     <img src="http://ads.isoftmarketing.com/banman.asp?ZoneID=18&Task=Get&Mode=HTML&SiteID=8&PageID=22016" width="470" height="80" border="0"></a>
@@ -103,8 +102,9 @@ else
                   {
                     var curObj = obj.parentNode.parentNode.nextSibling;
                     if (! curObj || curObj.className != "child") return;
-                    var vis = "none";
-                    if (obj.id) document.cookie = obj.id + "=0;"
+
+                    var  re = new RegExp(obj.id + "=[0|1];*","gi");
+                    document.cookie = String(document.cookie).replace(re,"") + ";";
                     if (curObj.style.display == "none")
                      {
                        vis = "";
@@ -113,6 +113,8 @@ else
                      } 
                     else 
                      {
+                       vis = "none";
+                       if (obj.id) document.cookie = obj.id + "=0;";
                        obj.parentNode.style.backgroundColor = "";
                      } 
              
@@ -127,8 +129,17 @@ else
             
              <table border="0" cellspacing="0" cellpadding="0" width="160">
               <tbody><tr><td class="menucontainer"><a id="mnt_articletutorial" onclick="click_tree_menu(this)" class="menuitem" href="#">Articles &amp; Tutorials</a></td></tr>
-              <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/author/">By Authors</a></td></tr>
-              <tr class="child" style="display: none"><td class="menucontainerlast"><a class="menuitem2" href="/articles_tutorials/topic/">By Topics</a></td></tr>
+              <tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/certification/">Certification</a></td></tr>
+<tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/configuration_alternative_products/">Configuration - Alt. Products &amp; Platforms</a></td></tr>
+<tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/configuration_general/">Configuration - General</a></td></tr>
+<tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/configuration_security/">Configuration - Security</a></td></tr>
+<tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/general/">General</a></td></tr>
+<tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/general_guides_and_articles/">General Guides and Articles</a></td></tr>
+<tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/installation_and_planning/">Installation &amp; Planning</a></td></tr>
+<tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/miscellaneous/">Miscellaneous</a></td></tr>
+<tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/non_ISA_tutorials/">Non-ISAserver.org Tutorials</a></td></tr>
+<tr class="child"><td class="menucontainerlast"><a class="menuitem2" href="/articles_tutorials/publishing/">Publishing</a></td></tr>
+
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
               <tr><td class="menucontainer"><a id="mnt_author" onclick="click_tree_menu(this)" class="menuitem" href="#">Authors</a></td></tr>
@@ -144,9 +155,6 @@ else
               <tr><td class="menucontainer"><a class="menuitem" href="/pages/books.asp">Books</a></td></tr>
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
-              <tr><td class="menucontainer"><a class="menuitem" href="/tutorial/">Learning zone</a></td></tr>
-
-              <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
               <tr><td class="menucontainer"><a class="menuitem" href="/pages/links.asp">Links</a></td></tr>
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
@@ -157,80 +165,61 @@ else
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
               <tr><td class="menucontainer"><a id="mnt_software" onclick="click_tree_menu(this)" class="menuitem" href="#">Software</a></td></tr>
-              <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Access_Control/">Access Control</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Anti_Virus/">Anti Virus</a></td></tr>
+              <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Access-Control/">Access Control</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Anti-Virus/">Anti Virus</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Authentication/">Authentication</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Caching/">Caching</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Content_Security/">Content Security</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Free_Tools/">Free Tools</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/High_Avail._&amp;_Load_Bal./">High Avail. &amp; Load Bal.</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Intrusion_Detection/">Intrusion Detection</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Misc._ISA_server_software/">Misc. ISA server software</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Monitoring_&amp;_Admin/">Monitoring &amp; Admin</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Networking_utilities/">Networking utilities</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Content-Security/">Content Security</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Free-Tools/">Free Tools</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/High-Avail.-&amp;-Load-Bal./">High Avail. &amp; Load Bal.</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Intrusion-Detection/">Intrusion Detection</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Misc.-ISA-server-software/">Misc. ISA server software</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Monitoring-&amp;-Admin/">Monitoring &amp; Admin</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Networking-utilities/">Networking utilities</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Reporting/">Reporting</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Security_Services/">Security Services</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainerlast"><a class="menuitem2" href="/software/ISA/System_hardening/">System hardening</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/ISA/Security-Services/">Security Services</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainerlast"><a class="menuitem2" href="/software/ISA/System-hardening/">System hardening</a></td></tr>
 
 
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
-              <tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Featured product</a></td></tr>
+              <tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Featured Product</a></td></tr>
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
               <tr><td align="center">
-<!-- Begin Ban Man Pro Banner Code -  Site: ISAserver.org  Zone: ISA - Sidebar -->
-<script language="JAVASCRIPT">
-<!--
-var browName = navigator.appName;
-var browDateTime = (new Date()).getTime();
-var browVersion = parseInt(navigator.appVersion);
-var ua=navigator.userAgent.toLowerCase();
-var adcode='';
-if (browName=='Netscape'){
-     if (browVersion>=5) 
-          { document.write('<ifr'+'ame src="http://ads.isoftmarketing.com/banman.asp?ZoneID=19&Task=Get&Browser=NETSCAPE6&SiteID=8&X=' + browDateTime + '" width=120 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
-     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
-          { document.write('<S'+'CRIPT src="http://ads.isoftmarketing.com/banman.asp?ZoneID=19&Task=Get&Browser=NETSCAPE4&SiteID=8">');
-          document.write('</'+'scr'+'ipt>');
-          document.write(adcode); }
-     else if (browVersion>=3) 
-          { document.write('<A HREF="http://ads.isoftmarketing.com/banman.asp?ZoneID=19&Task=Click&Mode=HTML&SiteID=8&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" target="_new"><IMG SRC="http://ads.isoftmarketing.com/banman.asp?ZoneID=19&Task=Get&Mode=HTML&SiteID=8&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" width="120" height="60" border="0"></A>'); } }
-if (browName=='Microsoft Internet Explorer')
-     { document.write('<ifr'+'ame src="http://ads.isoftmarketing.com/banman.asp?ZoneID=19&Task=Get&SiteID=8&X=' + browDateTime + '" width=120 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
-// --> 
-</script><iframe src="http://ads.isoftmarketing.com/banman.asp?ZoneID=19&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=8&amp;X=1580380721669" width="120" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
-<noscript>
-    <a href="http://ads.isoftmarketing.com/banman.asp?ZoneID=19&Task=Click&Mode=HTML&SiteID=8&PageID=57275" target="_new">
-    <img src="http://ads.isoftmarketing.com/banman.asp?ZoneID=19&Task=Get&Mode=HTML&SiteID=8&PageID=57275" width="120" height="60" border="0"></a>
-</noscript>
-<!-- End Ban Man Pro Banner Code -  Site: ISAserver.org  Zone: ISA - Sidebar -->
-
-              </td></tr>
+<!-- Begin Ban Man Pro Static Banner Code -->
+<a href="http://ads.isoftmarketing.com/banman.asp?ZoneID=0&amp;BannerID=123&amp;AdvertiserID=11&amp;CampaignID=115&amp;Task=Click&amp;SiteID=8&amp;RandomNumber=53208" target="_Blank"><img src="http://banners.isoftmarketing.com/DownloadSecurity-No_AntiVirus(120x60).gif" width="120" height="60" border="0"></a>
+<img src="http://ads.isoftmarketing.com/banman.asp?ZoneID=0&amp;BannerID=123&amp;AdvertiserID=11&amp;CampaignID=115&amp;Task=Get&amp;Mode=TEXT&amp;SiteID=8&amp;RandomNumber=53208" width="1" height="1" border="0">
+<!-- End Ban Man Pro Static Banner Code -->
+</td></tr>
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
-              <tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Featured book</a></td></tr>
+              <tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Featured Book</a></td></tr>
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
               <tr><td align="center"><a href="http://www.amazon.com/exec/obidos/ASIN/1931836663/isaserver/" target="_blank"><img src="/img/books/11.gif" border="0" width="72" height="90"></a></td></tr>
 
-<tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr><tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Poll</a></td></tr><tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr><tr><td align="center"><table border="0" width="100%"><tbody><tr><td valign="top"><form method="POST" action="/poll/vote.asp"><input type="hidden" name="QID" value="9"><font color="#63583A"><b>Do you scan user downloads for viruses?</b><br><font size="1"><br></font>
-<input name="AID" type="radio" value="27">Yes<br>
-<input name="AID" type="radio" value="28">No<br>
+<tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr><tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Poll</a></td></tr><tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr><tr><td align="center"><table border="0" width="100%"><tbody><tr><td valign="top"><form method="POST" action="/poll/vote.asp"><input type="hidden" name="QID" value="20"><font color="#63583A"><b>Do you plan on upgrading to ISA 2004?</b><br><font size="1"><br></font>
+<input name="AID" type="radio" value="114">No<br>
+<input name="AID" type="radio" value="115">Upon release<br>
+<input name="AID" type="radio" value="116">Within 6 months<br>
+<input name="AID" type="radio" value="117">Within 1 year<br>
+<input name="AID" type="radio" value="118">Still deciding<br>
 <br></font><center><input type="submit" value="Vote!"></center></form></td></tr></tbody></table></td></tr>
 
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
-              <tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Recommended links</a></td></tr>
+              <tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Recommended Sites</a></td></tr>
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
               <tr><td align="center">
-                 <a href="http://www.msexchange.org" target="blank"><img src="/img/msexchlogo.gif" border="0" vspace="4"></a><br>
-                 <a href="http://www.windowsecurity.com" target="blank"><img src="/img/winseclogo.gif" border="0" vspace="4"></a><br>
-                 <a href="http://www.serverfiles.com" target="blank"><img src="/img/32bitlogo_small.gif" border="0" vspace="4"></a><br>
-                 <a href="http://www.ntfaxfaq.com" target="blank"><img src="/img/ntlogo.gif" border="0" vspace="4"></a><br>
+                 <a href="http://www.msexchange.org" target="_blank"><img src="/img/rec/msexchange.gif" border="0" vspace="4"></a><br>
+                 <a href="http://www.windowsnetworking.com" target="_blank"><img src="/img/rec/windowsnetworking.gif" border="0" vspace="4"></a><br>
+                 <a href="http://www.windowsecurity.com" target="_blank"><img src="/img/rec/windowsecurity.gif" border="0" vspace="4"></a><br>
+                 <a href="http://www.serverfiles.com" target="_blank"><img src="/img/rec/serverfiles.gif" border="0" vspace="4"></a><br>
+					  <a href="http://www.ntfaxfaq.com" target="_blank"><img src="/img/rec/ntfaxfaq.gif" border="0" vspace="4"></a><br>
               </td></tr>
              </tbody></table>
              
              <script language="JavaScript">
-               if (document.cookie.indexOf("mnt_articletutorial=1") != -1) click_tree_menu(document.getElementById("mnt_articletutorial"));
+               if (document.cookie.indexOf("mnt_articletutorial=0") != -1) click_tree_menu(document.getElementById("mnt_articletutorial"));
                if (document.cookie.indexOf("mnt_author=1") != -1) click_tree_menu(document.getElementById("mnt_author"));
                if (document.cookie.indexOf("mnt_software=1") != -1) click_tree_menu(document.getElementById("mnt_software"));
              </script>
@@ -293,8 +282,8 @@ if (browName=='Microsoft Internet Explorer')
                 of Microsoft Corporation in the United States and/or other countries. 
                 All other trademarks are the property of their respective owners.</p>
                           <p>Should you have any question about the privacy issues here at 
-                            ISAserver.org, please <a href="mailto:isainfo@isaserver.org">contact 
-                            us</a>, and we will take measures to correct any problems. 
+                            ISAserver.org, please <script>ShowEmail('info/isaserver|org','contact us');</script><a href="mailto:info@isaserver.org">contact us</a>,
+                            and we will take measures to correct any problems. 
                             <br>
 <!-- End content -->
   </p></div>
@@ -302,7 +291,7 @@ if (browName=='Microsoft Internet Explorer')
 
   <br clear="all">
 <table border="0" cellpadding="0" cellspacing="0" align="center">
-<tbody><tr><td width="200"><img src="/img/empty.gif" border="0" width="200" height="1"></td>
+<tbody><tr><td><img src="/img/empty.gif" border="0" width="180" height="1"></td>
 <td>
 		
 		<h2><img src="/img/li_subtitle.gif" align="absMiddle">Featured Links*</h2>
@@ -319,6 +308,7 @@ if (browName=='Microsoft Internet Explorer')
       </tbody></table>
       </td></tr></tbody></table>
 </td>
+<td><img src="/img/empty.gif" border="0" width="15" height="1"></td>
 </tr>
 </tbody></table><br>
   <table border="0" cellpadding="0" cellspacing="0" align="center"><form method="post" action="/pages/newsletter.asp"></form><tbody><tr><td width="200"><img src="/img/empty.gif" border="0" width="200" height="1"></td><td width="50%" align="center" valign="top" class="smalltext2">Receive Real-Time &amp; Monthly ISAserver.org<br>article updates in your mailbox!<br>Enter your email below!<br><input type="text" name="email"><input type="image" src="/img/join.gif" border="0" alt="Click here to join our mailing list!" name="image" width="41" height="25"></td><td width="50%" align="center" valign="top" class="smalltext2"><b>Join our Email Discussion List!</b><br>Discuss your ISA Server issues<br>with other ISA Server experts through email.<br><br><a href="http://www.webelists.com/cgi/lyris.pl?enter=isalist">Click here</a> to join!</td></tr></tbody></table><br>
@@ -335,8 +325,7 @@ if (browName=='Microsoft Internet Explorer')
 	<a href="http://www.webelists.com/cgi/lyris.pl?enter=isalist" class="topmenu">Discussion List</a> |
 	<a href="/pages/events.asp" class="topmenu">Events</a> |
 	<a href="/faq/" class="topmenu">FAQs</a> |
-	<a href="/pages/games.asp" class="topmenu">Gaming</a> |
-	<a href="/tutorial/" class="topmenu">Learning Zone</a> |
+	<a href="/articles/Gaming.html" class="topmenu">Gaming</a> |
 	<a href="/pages/links.asp" class="topmenu">Links</a> |
 	<a href="http://forums.isaserver.org/" class="topmenu">Message Boards</a> |
 	<a href="/pages/newsletter.asp" class="topmenu">Newsletter</a> |
@@ -349,14 +338,16 @@ if (browName=='Microsoft Internet Explorer')
 
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
    <tbody><tr><td bgcolor="#CDCDCD" background="/img/bg_line.gif" align="center" class="smalltext">
-      <a href="http://www.isoftmarketing.com/aboutus.htm">About Us</a> : <a href="mailto:info@isaserver.org">Email Us</a> : <a href="/software/submissionform.asp">Product Submission Form</a> : <a href="mailto:advertising@isaserver.org">Advertising Information</a>
+      <a href="http://www.isoftmarketing.com/aboutus.htm">About Us</a> : <script>ShowEmail('info/isaserver|org','Email Us');</script><a href="mailto:info@isaserver.org">Email Us</a> : <a href="/software/submissionform.asp">Product Submission Form</a> : <script>ShowEmail('advertising/isaserver|org','Advertising Information');</script><a href="mailto:advertising@isaserver.org">Advertising Information</a>
    </td></tr>
    <tr><td bgcolor="#E8E8E8" background="/img/bg_line.gif" align="center" class="smalltext">
       <img src="/img/copy.gif" width="18" height="13" align="absMiddle">ISAserver.org is in no way affiliated with Microsoft Corp.
       *Links are sponsored by advertisers.<br>
-      Copyright © 2003 <a href="http://www.isoftmarketing.com" target="_blank">Internet Software Marketing Ltd.</a> All rights reserved. Please read our <a href="/pages/privacy.asp">online privacy statement</a>.
+      Copyright © 2004 <a href="http://www.isoftmarketing.com" target="_blank">Internet Software Marketing Ltd.</a> All rights reserved. Please read our <a href="/pages/privacy.asp">online privacy statement</a>.
    </td></tr>
   </tbody></table>
+
+<!--  -->
  
 
 </body></html>
