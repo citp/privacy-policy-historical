@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njlottery.net privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402001017id_/http%3A//www.state.nj.us/lottery/general/4-5_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njlottery.net privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211054218id_/http%3A//www.state.nj.us/lottery/general/4-5_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,8 +32,10 @@ The pages you visit; and
 If you linked to the NJ Lottery Web site from another Web site, the address of that Web site.   
 We use this information to help us make our site more useful to visitors — learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits.
 
+Likewise, your participation in the New Jersey Lottery VIP Club and any information provided to the New Jersey Lottery is strictly confidential and will not be sold or provided to anyone outside of the New Jersey Lottery or second-chance drawing partner(s) unless legally required.
+
 **If You Send Us Personal Information**  
-If you choose to provide us with personal information — as in an email, or be filling out a form with your personal information and submitting it to us through our Web site — we use that information to respond to your message and to help us get you the information you have requested. We only share information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or to give it to any private organizations. NJ Lottery does not collect information for commercial marketing.
+If you choose to provide us with personal information — as in an email, or filling out a form with your personal information and submitting it to us through our Web site — we use that information to respond to your message and to help us get you the information you have requested. We only share information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or to give it to any private organizations. NJ Lottery does not collect information for commercial marketing.
 
 **Section B. Personal Information Choice**
 
@@ -74,8 +76,7 @@ NJ Lottery, its officers, or employees exercise no control over the organization
 
 You may contact the NJ Lottery to review your personal information, or request correction of your personal information by contacting:
 
-> Linda Melone  
->  Deputy Director  
+> Public Information  
 >  P.O. Box 041  
 >  Trenton, NJ 08625-0041  
 >  Fax: 609-599-5829  
