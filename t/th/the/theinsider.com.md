@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212083643id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607193902id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
 
-# The Insider Travel Network: Privacy Policy
+# Insider Travel Network: insider travel and sightseeing guides
 
-**
+**Privacy Statement for The Insider Travel Network**
 
 **The Insider Travel Network** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for [_The Insider Travel Network_](http://www.theinsider.com/).
 
@@ -40,7 +40,7 @@ Demographic and profile data is also collected at our site. This information is 
 
 #### External Links 
 
-This site contains links to other sites. _The Insider Travel Network_ **** is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites, including advertisers and affiliate sites. _The Insider Travel Network_ **** is not responsible for the privacy practices or the content of such Web sites. 
 
 #### Special Relationships 
 
@@ -76,4 +76,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-[webmaster@TheInsider.com ](mailto:webmaster@TheInsider.com) **
+[webmaster@TheInsider.com ](mailto:webmaster@TheInsider.com)
