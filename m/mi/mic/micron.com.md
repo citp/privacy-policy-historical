@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608174131id_/http%3A//micron.com/content.jsp%3Fpath%3D/Legal%26edID%3D19390) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204150027id_/http%3A//micron.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|   
----|---  
-  
 **This privacy statement applies to all web sites owned and operated by Micron Technology, Inc. and its subsidiaries. ("Micron")**
 
 Micron is committed to protecting your right to privacy when visiting our web sites. We recognize that when you share your personal information with us, you expect us to treat that information in a serious and responsible manner. This privacy statement discloses what information we gather, how we use that information, and how you can correct or change that information.
@@ -55,3 +52,6 @@ If you want to change or modify information you have previously provided to us, 
 
 **Contacting the Web Site**  
 If you have any questions about Micron's privacy statement or the privacy practices of our sites, please contact us by sending an email to [privacy@micron.com](mailto:privacy@micron.com).
+
+  
+
