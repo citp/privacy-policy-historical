@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606161152id_/http%3A//www.fxsound.com/global/pages/legal/privacy.php%3Fvendor%3D0%26subvendor%3D0%26plus%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206190534id_/http%3A//www.fxsound.com/global/pages/legal/privacy.php%3Fvendor%3D0%26subvendor%3D0%26plus%3D0) for the most accurate reproduction.*
 
 # www.fxsound.com - FXSOUND Privacy Statement
 
@@ -45,7 +45,7 @@ Our Web site may contain links to other Web sites, including through banner ads 
 **CONTACT FXSOUND**  
 If you have any questions about this privacy statement, the practices of this Web site, or your dealings with this site, please contact us.
 
-**Email:** [corporate@power-t.com](mailto:corporate@power-t.com?subject=Fxsound%20Corporate%20Info)
+**Email:** [click here to send us email](http://www.fxsound.com/global/pages/forms/ptSupport.php?vendor=0&subvendor=0&plus=0)
 
 **Mailing Address:**  
 Power Technology  
