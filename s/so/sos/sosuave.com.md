@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614075243id_/http%3A//www.sosuave.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604142805id_/http%3A//www.sosuave.com/home/privacy.htm) for the most accurate reproduction.*
 
-# The Don Juan Center's Privacy Policy - secrets of meeting, dating, attracting women and girls. Free advice, tips, articles on love, romance, relationships, body language, sex, pick up lines, seduction, kissing, flirting, overcoming shyness, and more.
+# The Don Juan Center's Privacy Policy
+
+[How to Pick Up Women](http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=908602&PA=81267&BAN=2)
+
+[  
+](http://www.sosuave.com/cgi-bin/absolute/redirect.cgi?link=http://hop.clickbank.net/hop.cgi?djcenter/meetwomen)
 
 | 
 
