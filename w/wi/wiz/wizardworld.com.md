@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wizardworld.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203143800id_/http%3A//wizardworld.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizardworld.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330205559id_/http%3A//www.wizardworld.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # WizardWorld.com Privacy Policy
 
-| 
+9,363,589 PORTFOLIO ITEMS... PORTFOLIO VALUE: $119,190,891... 208,141 ITEMS FOR SALE... 3,185,803 PRICES 
 
 WizardWorld.com is committed to ensuring and safeguarding your privacy online. Please read the following policy to fully understand how we will treat your personal information once it is collected. This policy may change from time to time, so please stay informed by checking back to this link periodically. We will make every attempt to ensure the safety of all our users and subscribers. 
 
@@ -78,6 +78,4 @@ Should you have any further questions about WizardWorld.com's privacy policies a
 
 * * *
 
-To read our Privacy Statement for Portfolios, please click [HERE](https://web.archive.org/privacy_portfolio.cfm).
-
-* * *
+To read our Privacy Statement for Portfolios, please click [HERE](https://web.archive.org/web/20010330205559id_/http%3A//www.wizardworld.com/help/privacy_portfolio.cfm).
