@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wral.com privacy policy that was archived on 1999-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990427202109id_/http%3A//www.wral-tv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wral.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620133427id_/http%3A//www.wral-tv.com/privacy.html) for the most accurate reproduction.*
 
 # WRAL OnLine - Visitor Privacy Statement
 
@@ -12,7 +12,7 @@ WRAL OnLine analyzes these log files to learn about how visitors are using the c
 
 Certain parts of WRAL OnLine require that visitors register by providing their names, e-mail addresses, and other personal information, which is recorded in databases on our servers. 
 
-This information is kept strictly confidential; it is not shared with or sold to other companies. It may, however, be used internally. The data may be used to send e-mail announcements of events on the site to users who registered for similar events. The data may also be used for direct mailings to WRAL viewers. 
+This information is kept strictly confidential; it is not shared with or sold to other companies unless specifically noted on the registration form. Data supplied to WRAL may, however, be used internally to assist us in learning more about our audience and their preferences. The data may be used to send e-mail announcements of events on the site to users who registered for similar events. The data may also be used for direct mailings to WRAL viewers. 
 
 If you do not want to receive such mail, when you register for one of our sections, you may opt to not be included in mailings. If a particular registration form does not have this option, you can send mail to [webmaster@wral-tv.com](mailto:webmaster@wral-tv.com). Please include your name and the section for which you were registering so that we can effectively remove you from the database. 
 
@@ -30,13 +30,17 @@ The advertisements displayed on our site may also make use of cookies. When used
 
 WRAL OnLine does not share any personal information provided by our visitors with our advertising bureaus. 
 
-## E-Commerce and Security in the WRAL Store
+## E-Commerce and Security in the WRAL iShop
 
-The WRAL Store uses First Union's SecureSales technology. SecureSales products are designed with state-of-the-art security. Sensitive information, such as credit card numbers and personalized pricing, are never sent "in the clear" over the Internet. For an added measure of security, customer records are stored behind two firewalls in encrypted databases. 
+WRAL OnLine has partnered with Shop The Country in Atlanta, Ga., to provide complete e-commerce services, including customer service, secure online ordering, credit card processing and order fulfillment. 
 
-The personal data and credit card information you enter is done so on First Union's secure server, not on WRAL OnLine's server. The only information we receive is a report on the merchandise you ordered and your shipping address. We will not sell this information to third parties. 
+We know that security is important to you, and as a result, Shop The Country made safeguarding your information its top priority. ShopTheCountry.com is fully equipped with a secure server for all online transactions. All transactions and credit card information are encrypted using SSL (Secure Socket Layer) Protocol. This ensures that your credit card information is encrypted throughout the entire process. Therefore, this system is very secure, and you need not be concerned about someone accessing your credit card (or any other) information. 
 
-The secure servers are based on 128 bit encryption, the highest levels of security in commercial use. As one of the largest bank holding companies in the country, First Union invested heavily in order to provide the highest level of security. 
+In order to protect our customers, we verify all orders placed over $500. We will contact you after your order is placed for verification before we process your order and charge your credit card. 
+
+## Third-Party Ad Serving
+
+WRAL OnLine works with a third party that serves ads to this site. To find out more about how Engage manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy/privacy.htm>. 
 
 ## More Information
 
