@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202151114id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222808id_/http%3A//websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Individual information is used to deliver requested newsletter, products, or services. _Aggregate information_ (in the form of statistics) is used as input in developing new products and services; to improve upon existing products and services; to decide upon marketing activities; and to generally describe our site visitors and customer base.
 
-**We do not sell, rent, or otherwise share personal information** for advertising purposes.
+**We do not sell, rent, or otherwise share personal information** for advertising purposes and will never sell or give away personal information to third parties for purposes of building contact lists.
 
 **Registration**
 
