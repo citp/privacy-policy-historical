@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northernlight.com privacy policy that was archived on 2002-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021103155109id_/http%3A//www.northernlight.com/docs/acct_help_privacy_long.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northernlight.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412024247id_/http%3A//northernlight.com/docs/acct_help_privacy_long.html) for the most accurate reproduction.*
 
 # Northern Light® Account Help: Privacy Policy
 
@@ -68,6 +68,6 @@ You can update your account information, get a refund, review your transactions,
 If you are an account holder, and do not want us or any Strategic Ally to send you promotional material (material other than your billing statements and account information), you can either close your account.    
 **Questions, Concerns or Complaints**  
   
-If you have any question about our Site, you should consult our [FAQ](https://web.archive.org/web/20021103155109id_/http%3A//www.northernlight.com/docs/gen_help_faq.html). If you have further questions or any concerns or complaints about how your personal information is used, please go to our [Questions and Comments](https://web.archive.org/web/20021103155109id_/http%3A//www.northernlight.com/docs/gen_help_comments.html) page and send us an email. 
+If you have any question about our Site, you should consult our [FAQ](https://web.archive.org/web/20030412024247id_/http%3A//northernlight.com/docs/gen_help_faq.html). If you have further questions or any concerns or complaints about how your personal information is used, please go to our [Questions and Comments](https://web.archive.org/web/20030412024247id_/http%3A//northernlight.com/docs/gen_help_comments.html) page and send us an email. 
 
 |  | 
