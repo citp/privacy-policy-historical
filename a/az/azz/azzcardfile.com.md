@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210152047id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200919id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
 
 # AZZ Cardfile : Privacy and Security
 
@@ -21,7 +21,7 @@ AZZ Cardfile website does not use **cookies**.
 
 ### Downloads
 
-AZZ Cardfile software is **completely safe** to install in your system. It does not contain advertisements, nor will it make any unauthorized connections from your system. The software is a single executable file and requires only 2 additional DLL: zipdll.dll and unzdll.dll, they are put in the same folder as executable. The installation will not overwrite any files in Windows directory.
+AZZ Cardfile software is **completely safe** to install on your system. It does not contain advertisements, nor will it make any unauthorized connections from your system. The software is a single executable file and requires only 2 additional DLL: zipdll.dll and unzdll.dll, they are stored in the same folder as executable. The installation will not overwrite any files in Windows directory.
 
 AZZ Cardfile installation pack and sample collections provided by end users, which are available to download on this Web site, are **checked for viruses** using up to date Norton Antivirus software.
 
