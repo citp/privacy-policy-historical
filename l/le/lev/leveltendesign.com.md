@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leveltendesign.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209044920id_/http%3A//www.leveltendesign.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leveltendesign.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601201953id_/http%3A//leveltendesign.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Contact Form
 
