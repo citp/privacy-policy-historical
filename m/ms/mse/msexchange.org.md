@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msexchange.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204232436id_/http%3A//www.msexchange.org/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msexchange.org privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622082944id_/http%3A//www.msexchange.org/pages/privacy.asp) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -16,5 +16,5 @@ MSExchange.org currently supports the proposed Online Privacy Protection Act, sp
 
 Microsoft, ISA Server, Internet Security and Information Server, Microsoft Exchange Server, Microsoft Outlook, Microsoft Visual Basic, Microsoft Windows, Microsoft Windows 95, Microsoft Windows 98, Microsoft Windows 2000, and Microsoft Windows NT are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. All other trademarks are the property of their respective owners.
 
-Should you have any question about the privacy issues here at MSExchange.org, please [contact us](mailto:msexchange@msexchange.org), and we will take measures to correct any problems.   
+Should you have any question about the privacy issues here at MSExchange.org, please [contact us](mailto:info@msexchange.org), and we will take measures to correct any problems.   
 
