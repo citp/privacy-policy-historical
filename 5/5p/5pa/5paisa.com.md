@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 5paisa.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207041700id_/http%3A//5paisa.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5paisa.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606233118id_/http%3A//www.5paisa.com/priv.html) for the most accurate reproduction.*
 
-# Online trading in India , buy and sell shares in India, Broker in India
+# 5paisa.com - Net Trading portal for NSE & BSE
 
 This privacy statement is applicable to www.5paisa.com. 5paisa.com does not collect personal information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, such personal information may be gathered for contest registration, the registration process for subscription sites or services and in connection with content submissions, community postings (e.g., message boards), suggestions, and voting/polling activities. Personal information on individual users will not be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. At such points of collection, the user will have the opportunity to indicate whether he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from 5paisa.com and/or any third parties. 
 
