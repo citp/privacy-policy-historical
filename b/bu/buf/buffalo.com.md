@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalo.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621080417id_/http%3A//www.buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404031621id_/http%3A//www.buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.*
 
 # Buffalo.com(SM) Privacy Policy
 
@@ -26,7 +26,7 @@ Children should always get their parents permission before providing any informa
 
 Children must be 13 years of age or older to become a registered member of E-vents@Buffalo.comSM and post events on the community calendar. See the [Standards of Content](https://web.archive.org/calendar/StandardsOfContent.asp) for E-vents@Buffalo.comSM
 
-See the [Terms of Service](http://www.buffalo.com/registration/policy.asp) for Buffalo.comSM Free Email Service.
+See the [Terms of Service](http://mail.buffalo.com/templates/common/us/tos.htm) for Buffalo.comSM Free Email Service.
 
 Please take a few minutes to review Buffalo.com'sSM [Visitor Agreement](http://www.buffalo.com/visitor.asp).
 
