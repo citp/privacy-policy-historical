@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207152045id_/http%3A//www.constant-content.com/%3Farea%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2005-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050323023250id_/http%3A//www.constant-content.com/privacy/1) for the most accurate reproduction.*
 
-# Constant Content - Purchase Articles, Tutorials and other Website Content
+# Constant Content - Purchase Articles, Tutorials and Reviews
+
+## Our Privacy Policy
 
 **PRIVACY STATEMENT**  
 constant-content.com provides a free interactive game on the Internet. We recognize and support the need to protect the privacy rights of our members through disclosure of our practices for collection and use of member information. 
 
 In general, you can visit the constant-content.com site on the Web at any time without telling us who you are or revealing any information about yourself. We do not log either the IP address for collecting information, or type of operating system and browser software used by each visitor to the constant-content.com site. We do not collect information so that we can derive the identity of the visitor's geographic location and Internet Service Provider. 
-
-In some circumstances, we will ask you to provide us with certain personal information, such as when you win a prize or advertise with constant-content.com. The only thing we collect from the players is their email address before they play. This is to match you to your tickets when you play our game.
 
 We will not provide information about you to third parties who provide goods and services that may be of interest to you. In all cases where we ask you for personal information, providing that information will be of your own free choice.
 
