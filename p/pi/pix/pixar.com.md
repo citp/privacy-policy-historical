@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210093235id_/http%3A//www.pixar.com/companyinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306003239id_/http%3A//www.pixar.com/companyinfo/privacy.html) for the most accurate reproduction.*
 
 # Pixar Online Privacy Policy
 
@@ -6,31 +6,28 @@
 
 Thank you for visiting Pixar.com. This Privacy Policy sets forth the online information practices of Pixar Animation Studios (“Pixar”), including:
 
-  * The kinds of information we collect;  
-
-  * The ways in which we use the information that we collect;   
-
-  * The choices you have with regard to the information we collect; and   
-
+  * The kinds of information we collect; 
+  * The ways in which we use the information that we collect; 
+  * The choices you have with regard to the information we collect; and 
   * Our pledge to have reasonable security measures in place to protect against the loss, misuse or alteration of information under our control.
 
 
 
-SPECIAL POLICY WITH REGARD TO INFORMATION FROM CHILDREN UNDER THIRTEEN  
-Pixar is especially sensitive to privacy issues concerning children. Pixar.com is not targeted specifically to children under the age of 13, and we do not knowingly collect personally-identifiable information from any child under the age of 13 without parental consent. When we discover that we have received such information, we delete it immediately and we do not use it or share it with third parties.
+SPECIAL POLICY WITH REGARD TO INFORMATION FROM CHILDREN UNDER THIRTEEN
 
-INFORMATION COLLECTION AND USE  
+Pixar is especially sensitive to privacy issues concerning children. Pixar.com is not targeted specifically to children under the age of 13, and we do not knowingly collect personally-identifiable information from any child under the age of 13 without parental consent. When we discover that we have received such information, we delete it immediately and we do not use it or share it with third parties. 
+
+INFORMATION COLLECTION AND USE
+
 Pixar collects two kinds of information from you: personally-identifiable information that you choose to provide to us and non personally-identifiable information, such as your IP address.
 
   1. **Personally-Identifiable Information**
-    1. **e-Mail**
-
+    1. **e-Mail**   
 The only personally-identifiable information that we collect is what you voluntarily submit to us. For example, if you e-mail questions or requests for information about Pixar, its films or its products, we may request your name, mailing address, telephone number and/or e-mail address in order to respond to your inquiries.
 
 Also, if you submit a resume or application for employment with Pixar via e-mail, you will be required to include personally-identifiable information so that Pixar can adequately review your application and contact you. Pixar may collect and store the information you choose to provide us in order to send you information about Pixar from time to time.
 
-    2. **Products and Services Offered By Pixar or by Third-Party Vendors  
-**  
+    2. **Products and Services Offered By Pixar or by Third-Party Vendors**  
 The Pixar web site offers software downloads which may require the user to enter personally-identifiable information. This information will be used to process your request.
 
 Pixar also may offer links to third party sites, which may offer products or services for sale. Please note that Pixar does not usually process orders or ship merchandise and that Pixar does not dictate or supervise the information collection and use policies of any third party vendors. Please be aware that we are not responsible for the privacy practices of any other web sites. We encourage our users to read the privacy statements of each and every web site that they visit for more information on how your information may be collected and used.
@@ -45,7 +42,8 @@ We may share personally-identifiable and/or non personally-identifiable informat
 
 
 
-CHOICE  
+CHOICE
+
 Pixar provides you with the following choices regarding the use of your information:
 
   * You may choose to not provide us with any contact information. However, if you do so, your ability to navigate this site may be impaired.  
@@ -56,10 +54,16 @@ Pixar provides you with the following choices regarding the use of your informat
 
 
 
-NOTIFICATION OF CHANGES  
-If we decide to change our privacy policy, we will post those changes on our homepage so you will always be aware of what information we collect, how we use it, and under what circumstances we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+NOTIFICATION OF CHANGES
 
-SECURITY  
+If we decide to change our privacy policy, we will post those changes on our homepage so you will always be aware of what information we collect, how we use it, and under what circumstances we disclose it. We will use information in accordance with the privacy policy under which the information was collected.  
+
+
+SECURITY
+
 We make every effort to have reasonable security procedures in place to protect against the loss, misuse or alteration of information under our control. If you have any questions about the security of our web site or about this privacy policy, please contact [webmaster@pixar.com](mailto:webmaster@pixar.com).
 
-| 
+|   
+  
+  
+TM & © 1986-2005 Pixar. All Rights Reserved.
