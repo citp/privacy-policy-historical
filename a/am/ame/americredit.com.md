@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622132639id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203222030id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
 
 # AmeriCredit: Privacy
 
@@ -168,7 +168,7 @@ You have the right to ask us not to share some of the information listed earlier
 
 This opt-out does not allow you to opt-out of disclosures necessary in servicing your account, such as collection activities or reporting your information to credit reporting agencies. If you wish to opt-out of disclosures, you must do so by using one of the following methods:
 
-  * Complete in full the [attached form](https://web.archive.org/web/20030622132639id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/OptOutForm.pdf), and return it to us at: 
+  * Complete in full the [attached form](https://web.archive.org/web/20031203222030id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/OptOutForm.pdf), and return it to us at: 
     * **AmeriCredit Financial Services, Inc.  
 P. O. Box 183621  
 Arlington, Texas 76096-3621**
@@ -185,4 +185,4 @@ If you have a joint account, an opt-out instruction given by one participant of 
   * E-mail Address.
 
 Privacy Policy effective June 2003.   
-[](https://digitalid.verisign.com/as2/23d7da64bfd8ea932bfcf7a35a28a350)   [](http://www.bbbonline.org/cks.asp?id=101032216521615661) | 
+[](https://digitalid.verisign.com/as2/7f9627ac8505c2015b90220932057ff9)   [](http://www.bbbonline.org/cks.asp?id=101032216521615661) | 
