@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netdania.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403021325id_/http%3A//netdania.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdania.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802061954id_/http%3A//www.netdania.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
