@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202213614id_/http%3A//www.diversityinc.com/public/department26.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206100831id_/http%3A//www.diversityinc.com/public/department26.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,20 +6,35 @@
 
 Privacy Policy 
 
-The DiversityInc.com site is committed to respecting the privacy of its online visitors. This statement discloses the site’s privacy practices - what information we collect and how we use it.
+We are strongly committed to safeguarding subscribers' privacy on DiversityInc.com. We operate under the following strict privacy policy: 
 
-Information Gathering and Use: Allegiant Media does not require visitors to submit personal information to access public pages of the DiversityInc.com site. Submission of personal data is always voluntary. Information that is received online is used for internal marketing analysis to enhance our Web site’s content.
+The only information we obtain about our subscribers is information we need to process credit card charges for subscription fees. The information collected is never revealed, sold, or made public for any reason.
 
-Users who register to receive free e-mailings from DiversityInc.com do so voluntarily. Any personal information provided by users who choose to sign up for these mailings is submitted at the user’s discretion. Information that is provided by the user will not be forwarded, traded or sold to outside organizations. Users who register for free e-mailings may request to be removed from our e-mail list at any time. Allegiant Media reserves the right to contact registrants at any time to answer questions they submit or to notify them of any changes to our registration policy.
+Personally identifiable information provided by subscribers (name, email or home address, etc.) is never disclosed to any individual or business. 
 
-Information Tracking and Cookies: Allegiant Media uses a software company to track the number of visitors to the DiversityInc.com site. The statistics show us the pages that are visited most often, and the domains from which people visit DiversityInc.com. This data is analyzed internally for trends and helps us determine what pages need to be updated. No personal information is collected during the tracking process.
+**Cookies**  
+Each time a subscriber logs into DiversityInc.com, we store a temporary 'cookie' in the browser files of that subscriber's computer. This cookie is used during your online session to allow you free access to the Subscribers Area, without repeatedly requiring you to re-enter your user name and password.
 
-We may use "cookies" to improve our content and your next visit to the DiversityInc.com site. "Cookies" are a form of technology that help us to track your interests based on the pages you visit. Cookies will not be used to gather personal information about a visitor. Therefore, all visitors remain entirely anonymous.
+When you log off or leave the site, the cookies file is automatically removed.
 
-Information Security and Access: To ensure the security of personal information submitted by our users, any information we may collect is stored in a secure area.
+ **External Links**  
+In order to provide visitors with greater value, some of our pages may provide links to various third party websites. In no case is subscriber information or 'cookies' provided to the third party sites.
 
-Please direct any questions regarding our privacy policy, personal information you have submitted, or the use of the information collected, to webmaster@diversityinc.com.
+However, keep in mind that many sites do attempt to capture visitor information when you browse those sites. Once you leave our site, we are not able to alert you should another site attempt to gather information from your browser.
 
-Please note that the DiversityInc.com site contains links to other Web sites. We are not responsible for either the content or privacy practices of those Web sites.
+ **Private Forums**  
+We provide our subscribers with a multi-tiered Discussion Forum that makes sharing information with other subscribers easy. To protect your privacy when posting or replying to messages in the message board, your personal information and email is not revealed.
 
-Allegiant Media reserves the right to update this policy at any time.
+However, remember that any information you disclose in the message board areas can be read by all other subscribers, so exercise caution when deciding to disclose your personal information. 
+
+**Security**  
+We use a variety of security measures including encryption and authentication from Thawte to protect the loss, misuse and alteration of your personal information under our control. 
+
+**Choice/Opt-In**  
+Our site gives users the opportunity to opt-in to receive communications from us. You can be assured that we never reveal, sell, or make available your email address to anyone for any purpose. This site also gives users options for removing their information from our database in order to stop receiving our communications.
+
+ **Federal & State Law**  
+DiversityInc will share information with the government when required by law. DiversityInc will not share information unless it has been given a valid court order or subpoena. DiversityInc will not disclose whether or not law enforcement agencies have sought or obtained information under the Patriot Act.
+
+ **Other**  
+If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20031206100831id_/http%3A//www.diversityinc.com/public/main.cfm?page=7).
