@@ -1,28 +1,18 @@
-> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209115935id_/http%3A//www.nochex.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602184941id_/http%3A//help.nochex.com/homepage.asp%3FAction%3DQ%26ID%3D108) for the most accurate reproduction.*
 
-# NOCHEX Email Money | Information . Privacy
+# NOCHEX Email Money | HELP
 
-  
-|   
----  
-|    • [Help](https://web.archive.org/web/20021209115935id_/http://nochex.com/help/)   
-  • [Information](https://web.archive.org/web/20021209115935id_/http://nochex.com/help/info/)   
-  • [Tools & Resources](https://web.archive.org/web/20021209115935id_/http://nochex.com/help/tools/)   
-  • [Contact Us](https://web.archive.org/web/20021209115935id_/http://nochex.com/help/contact/) |   
-|    
-|   
----  
-**   PRIVACY POLICY **  
-|    
-**Data Protection  
-Any information you provide us with will only be disclosed in accordance with the Data Protection Act of 1998.  **Required Information  
-To open a NOCHEX account you must tell us your name, email address, date of birth and postal address. For security, you must also submit a password and answer a security question. In order to load money into the system and make withdrawals you need to register your debit card details. We only collect the information that is required for us to process your transactions securely and protect you against fraud.  **Transaction Information  
-In order to process a transaction, we need to know the amount of money sent or requested and the email address of the parties involved.  **Disclosure of Information  
-We will **NEVER** disclose any of your personal information without your consent. Your debit card details or NOCHEX account balance will **NEVER** be revealed to anyone you have paid or who has paid you. This makes NOCHEX transactions more private and secure than sending a Cheque or using your debit card.  **Aggregate Statistical Information  
-We may collect aggregated statistical information for purposes of improving our service and your experience with NOCHEX. This data does not contain personally identifying information, such as your name or email address.  **Cookies  
-We use a cookie to display your email address, so that you don't have to retype it each time you log in to your account. No personal information is held within this cookie.  **Changing Information  
-You can update your account information in the personal details section of the NOCHEX web site. 
+****|   
+**Data Protection** – Any information you provide us with will only be disclosed in accordance with the Data Protection Act of 1988.
 
-BACK TO TOP
+ **Required Information** – To open a Nochex Standard account you must tell us certain personal information such as your name, email address, date of birth and postal address. For security, you must also submit a password and answer security questions. If you wish to open a Nochex Seller Account, additional information will be required including for example nature of your business, web address, and business address. For certain transactions you need to provide financial information such as your debit card details. We only collect the information that is required by regulation and law for us to process your transactions securely and protect you against fraud.
 
-************** | 
+ **Use of Personal Information** – We only use your personal information to service your account and to improve our service to you. As part of our normal business operation, we do share some financial information with banks, card processing and verification services. Unless required by law, these organisations may not use your information for secondary purposes. Though we make every effort to preserve your privacy we may need to disclose personal information when required by law when we believe that such action is necessary to comply with current judicial proceedings, a court order or legal process serviced on our web site. Otherwise, under no circumstances will information you provided to Nochex be transmitted in any way to a third party. 
+
+**Aggregate Statistical Information** – We may collect aggregated statistical information for purposes of improving our service and your experience with Nochex. This data does not contain personally identifying information, such as your name or email address.
+
+ **Links** – This web site contains links to other sites, however Nochex is not responsible for the privacy practices of such other sites. We recommend you our users to be aware that when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+
+ **Changing information** – You can update your account information in the personal details section of the Nochex web site. However, we cannot delete user information because of legal, regulatory and technical back up requirements.
+
+20/2/3
