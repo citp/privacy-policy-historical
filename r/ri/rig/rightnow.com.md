@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rightnow.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407122909id_/http%3A//www.rightnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightnow.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204222323id_/http%3A//www.rightnow.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | RightNow Technologies, Inc.
+# Privacy Statement | RightNow Technologies
 
 RightNow Technologies, Inc. is committed to your right to privacy. As a visitor to our website or user of our product, you deserve the ability to control the uses of your personal information. This privacy statement discloses our privacy practices. 
 
@@ -100,4 +100,4 @@ RightNow will update this policy from time to time. A "last revised" date will a
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us at [cpo@rightnow.com](mailto:cpo@rightnow.com).
 
-Last revised 3/26/2002 
+Last revised 4/23/2002 
