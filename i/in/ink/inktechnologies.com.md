@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605062836id_/http%3A//www.inktechnologies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802025000id_/http%3A//www.inktechnologies.com/privacy.html) for the most accurate reproduction.*
 
 # Ink Technologies, Inc. - Privacy Statement
 
@@ -22,4 +22,4 @@ Ink Technologies is committed to the principles of individual privacy and online
 
 ****
 
-Return to [Ink Technologies](https://web.archive.org/web/20020605062836id_/http%3A//www.inktechnologies.com/index.html) homepage
+Return to [Ink Technologies](https://web.archive.org/web/20020802025000id_/http%3A//www.inktechnologies.com/index.html) homepage
