@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605214917id_/http%3A//unisys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203184644id_/http%3A//www.unisys.com/privacy) for the most accurate reproduction.*
 
 # Unisys Privacy Policy
 
