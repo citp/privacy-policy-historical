@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the motel6.com privacy policy that was archived on 2002-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021203004211id_/http%3A//www.motel6.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motel6.com privacy policy that was archived on 2003-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621165151id_/http%3A//motel6.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Motel 6 - Privacy Policy</title>
@@ -182,10 +182,184 @@ En Espanol: 1-877-467-7224
 </tr>
 <tr>
 <td>
-<div align="center" class="copywrite">© 2002 Accor Economy Lodging, Inc. All rights reserved.</div>
+<div align="center" class="copywrite">© 2002, 2003 Accor North America.  All rights reserved.</div>
 </td>
 </tr>
 </tbody></table>
+<script language="JavaScript">  
+
+<!-- 
+
+var refVar = (document.referrer); 
+
+var urlA = "<img src = 'http://www.ic-live.com/goat.php?cID=991&cdid=1079&campID=8&refVar="+refVar+"' height = '1' width = '1'>"; 
+
+document.write(urlA); 
+
+//--> 
+
+</script><img src="http://www.ic-live.com/goat.php?cID=991&amp;cdid=1079&amp;campID=8&amp;refVar=" height="1" width="1"> 
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright 2002 NetIQ Corporation -->
+<!-- V6.0a -->
+<!-- $DateTime: 2003/03/30 13:47:08 $ -->
+<!-- $Revision: #21 $ -->
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+<script language="JavaScript">
+<!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+
+var gDomain="12.106.209.241";
+var gDcsId="";
+
+if (gDcsId==""){
+	var gTagPath=gDomain;
+}
+else{
+	var gTagPath=gDomain+"/"+gDcsId;
+}
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+
+//	Use WT.aelsite parm to track across domains
+	WT.aelsite=window.location.hostname;
+
+	WT.ti=document.title;
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+//	WT.sp="";
+	DCS.dcsuri=window.location.pathname;
+	DCS.dcsqry=window.location.search;
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsdat=dCurrent.getTime();
+
+
+}
+
+function A(N,V){
+	return "&"+N+"="+escape(V);
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var myDocumentElements;
+	if (document.all){
+		myDocumentElements=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		myDocumentElements=document.getElementsByTagName("meta");
+	}
+	if (typeof(myDocumentElements)!="undefined"){
+		for (var i=1;i<=myDocumentElements.length;i++){
+			myMeta=myDocumentElements.item(i-1);
+			if (myMeta.name){
+				if (myMeta.name.indexOf('WT.')==0){
+					WT[myMeta.name.substring(3)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCSext.')==0){
+					DCSext[myMeta.name.substring(7)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCS.')==0){
+					DCS[myMeta.name.substring(4)]=myMeta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(TagImage){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+TagImage+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+dcsVar();
+dcsMeta();
+dcsTag(gTagPath);
+//-->
+</script>
+
+<noscript>
+<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://12.106.209.241/njs.gif?dcsuri=/nojavascript&WT.js=No">
+</noscript>
+
+
+
+
+
+
 <!-- End Bottom Nav Table and Copywrite-->
 			</td>
 	</tr>
@@ -197,91 +371,7 @@ En Espanol: 1-877-467-7224
 <map name="_Map2">
 <area shape="RECT" alt="Motel 6 Home Page" coords="48,0,88,28" href="/index.asp">
 </map>
-<!-- START OF WEBTRENDS LIVE TAG -->
-<!-- Copyright 2001 NetIQ Corporation -->
-<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/privacy_policy.htm -->
 
-<!-- eCommerce Revenue Tracking (patent pending) -->
-<!-- For eCommerce implementation, visit the following page: -->
-<!-- http://www.webtrendslive.com/support/online_help/open_help.asp?helppage=techsupport_code_ecommerce&redirection=help -->
-<script language="JavaScript">
-<!--
-// Modification of this code is not allowed and will permanently disable your account!
-// SiteName:  Motel 6
-
-function wtl_Tag6_119826()
-{
-	var ORDER= "";
-	var SERVER= "";
-	var CONTENTGROUP= "";
-	var INVOICE= "";
-	var CARTVIEW= "";
-	var CARTADD= "";
-	var CARTREMOVE= "";
-	var CHECKOUT= "";
-	var CARTBUY= "";
-	var ADCAMPAIGN= "";
-	
-	var wtl_URL= document.URL;
-	var wtl_Title= document.title;
-
-	function D8( d)
-	{
-		var fwd=0, seed= new Date('01/01/2000'), key= "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-		var s= key.charAt( d.getFullYear()-2000)+key.charAt( d.getMonth()+1)+key.charAt( d.getDate());
-		s+= key.charAt( d.getHours())+key.charAt( d.getMinutes())+key.charAt( d.getSeconds());
-		while( seed.getDay()!=fwd) seed= new Date(seed.getTime() + 86400000);
-		var w= Math.floor( (d.getTime()-(seed.getTime()+86400000)) / 604800000 );
-		s+= key.charAt( (w-(w%16))/16 );
-		s+= key.charAt( w%16);
-		return s;
-	}
-
-	function A( B, C)
-	{
-		W+="&"+B+"="+escape(C);
-	}
-	
-	var t = new Date();
-	var W="http"+(document.URL.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S119826/button6.asp?tagver=6&si=119826&fw=0";
-	A( "server", typeof(SERVER)== "string" ? SERVER : "");
-	A( "order", typeof(ORDER)== "string" ? ORDER : "");
-	A( "Group", typeof(CONTENTGROUP)== "string" ? CONTENTGROUP : "");
-	A( "invoice", typeof(INVOICE)== "string" ? INVOICE : "");
-	A( "cartview", typeof(CARTVIEW)== "string" ? CARTVIEW : "");
-	A( "cartadd", typeof(CARTADD)== "string" ? CARTADD : "");
-	A( "cartremove", typeof(CARTREMOVE)== "string" ? CARTREMOVE : "");
-	A( "checkout", typeof(CHECKOUT)== "string" ? CHECKOUT : "");
-	A( "cartbuy", typeof(CARTBUY)== "string" ? CARTBUY : "");
-	A( "adcampaign", typeof(ADCAMPAIGN)== "string" ? ADCAMPAIGN : "");
-	A( "tz", t.getTimezoneOffset());
-	A( "ch", t.getHours());
-	A( "cl", D8(t));
-	A( "ti", typeof(wtl_Title)== "string" ? wtl_Title : document.title);
-	A( "url", typeof(wtl_URL)== "string" ? wtl_URL : document.URL);
-	A( "rf", window.document.referrer);
-	A( "js", "Yes");
-	A( "ul", navigator.appName=="Netscape" ? navigator.language : navigator.userLanguage);
-	if(typeof(screen)=="object")
-	{
-	A( "sr", screen.width+"x"+screen.height);
-	A( "cd", screen.colorDepth);
-	A( "jo", navigator.javaEnabled() ? "Yes" : "No");
-	}
-	if( W.length>2048 && navigator.userAgent.indexOf('MSIE')>=0)
-		W= W.substring( 0, 2043)+"&tu=1";
-
-	document.write('<IMG ID="WTL_TAG" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+W+'">');
-}
-
-wtl_Tag6_119826();
-
-//-->
-</script><img id="WTL_TAG" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S119826/button6.asp?tagver=6&amp;si=119826&amp;fw=0&amp;server=&amp;order=&amp;Group=&amp;invoice=&amp;cartview=&amp;cartadd=&amp;cartremove=&amp;checkout=&amp;cartbuy=&amp;adcampaign=&amp;tz=0&amp;ch=18&amp;cl=K2JIvBA&amp;ti=Motel%206%20-%20Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20021203004211id_/http%253A//www.motel6.com/privacy.asp&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
-<noscript>
-<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S119826/button6.asp?tagver=6&si=119826&fw=0&js=No&">
-</noscript>
-<!-- END OF WEBTRENDS LIVE TAG -->
 
 
 
