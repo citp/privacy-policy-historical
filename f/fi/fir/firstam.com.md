@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstam.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204134259id_/http%3A//firstam.com/faf/company/privacystmt.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstam.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307233349id_/http%3A//www.firstam.com/faf/company/privacystmt.html) for the most accurate reproduction.*
 
 # First American - Privacy Practices on the Web
 
