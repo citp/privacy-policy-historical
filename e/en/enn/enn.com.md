@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001175458id_/http%3A//enn.com/aboutenn/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605203310id_/http%3A//www.enn.com/aboutenn/privacy.asp) for the most accurate reproduction.*
 
 # About ENN
 
@@ -45,7 +45,7 @@ If you have questions or concerns regarding this statement, you should contact:
 | 
 
 [Become an ENN Content Partner](https://web.archive.org/aboutenn/content-partner-form.asp)  
-ENN is your resource for quality environ- mental news, features and multimedia content. Click [here](https://web.archive.org/aboutenn/content_partnerships.asp) to learn more about our content partnering program.
+ENN is your resource for quality environ- mental news, features and multimedia content. Click [here](https://web.archive.org/aboutenn/community_partnerships.asp) to learn more about our content partnering program.
 
   
   
