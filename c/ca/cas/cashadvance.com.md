@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashadvance.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604110405id_/http%3A//www.cashadvance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashadvance.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002032847id_/http%3A//www.cashadvance.com/privacy.html) for the most accurate reproduction.*
 
 # Cash Advance and Payday Loans - Privacy Policy
 
@@ -45,4 +45,4 @@ Contact Us:
 Cash Advance & Payday Loans  
 E-mail: **[info@cashadvance.com](mailto:info@cashadvance.com)**
 
-[Click Here for information on TERMS OF USE](https://web.archive.org/web/20030604110405id_/http%3A//www.cashadvance.com/terms.html)
+[Click Here for information on TERMS OF USE](https://web.archive.org/web/20031002032847id_/http%3A//www.cashadvance.com/terms.html)
