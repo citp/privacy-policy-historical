@@ -1,117 +1,108 @@
-> *The following text is extracted and transformed from the bravotv.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravotv.com privacy policy that was archived on 2003-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031225002253id_/http%3A//bravotv.com/Privacy_Policy) for the most accurate reproduction.*
 
-# BravoTV: Privacy Policy
+# BRAVO > Privacy Policy
 
-**bravotv.com WEBSITE PRIVACY POLICY  
-And Children's Privacy Policy**
+Online Privacy Policy Statement  
+Children's Privacy Policy  
+[Terms of Service](https://web.archive.org/Terms_of_Service)
 
-We created this general audience website to be entertaining and informational for our visitors. Safeguarding your privacy is very important to us. We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy. We use the general term "visitors" to include both registered members of the Bravotv.com website and any other person that accesses the website, unless designated otherwise. Please carefully review our information collection practices and privacy protections below.
+We created this general audience website (the "Site") to be entertaining and informational for our visitors. Safeguarding your privacy is very important to us. We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy. We use the general term "visitors" to include both registered members of the BravoTV.com website and any other person that accesses the website, unless designated otherwise. Please carefully review our information collection practices and privacy protections below. 
 
-We have a created a special section of this website for the enjoyment of children called "Bravo On With the Show." Please see the Children's Privacy Policy for specific information about Bravo's collection, use and disclosure practices for the Bravo On With the Show section of the website. The following privacy policy applies to the general audience portion of our website.
+We have a created a special section of this website for the enjoyment of children called [Bravo On With the Show](https://web.archive.org/On_with_the_Show). Please see the Children's Privacy Policy for specific information about Bravo's collection, use and disclosure practices for the **Bravo On With the Show** section of the website. The following privacy policy applies to the general audience portion of our website. 
 
-I. Who We Are And How To Reach Us
+* * *
 
-This website is operated by Bravo Company ("Bravo"), which owns the Bravo program service and the Bravotv.com website. Bravo is the only operator of this website. You may contact us directly if you have any questions regarding the content and material on this website, or the collection, use, correction or deletion of any personal or non-personal information provided over this website. Please contact us at:
+  
+BRAVOTV.COM'S ONLINE PRIVACY POLICY
 
-Bravo Company  
-200 Jericho Quadrangle  
-Jericho, NY 11753
+**Who We Are And How To Reach Us**  
+This website is operated by Bravo and the National Broadcasting Company, Inc., the owner of the Bravo programming service ("Bravo"). You may contact us directly if you have any questions regarding the content and material on this website, or the collection, use, correction or deletion of any personal or non-personal information provided over this website. 
 
-**Attention: Bravo Privacy Coordinator**
+Our postal address is:
 
-1-800-531-0002
+BravoTV.com  
+3000 West Alameda Avenue  
+Burbank, CA 91523
 
-II. Membership Eligibility for General Audience Website
+We can be reached via e-mail at [Webmaster@bravotv.com](mailto:Webmaster@bravotv.com)
 
-You must be eighteen years of age (18) or older to be a member of our general audience website and receive membership benefits, such as our newsletter and to participate in our Interactive Areas. We will not accept membership registrations from visitors under the age of eighteen. Please see our [Terms of Usage Agreement](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/terms.php).
+**Information Collected By BravoTV.com**  
+BravoTV.com collects two types of personally identifying information from users: personal data (such as names and e-mail addresses); and aggregated data (such as information about traffic patterns on BravoTV.com, for example how many users log into BravoTV.com on a daily basis). 
 
-III. Collection of Personal Information
+**Personal Data**  
+Personal data is collected when users provide personal data to BravoTV.com, for example in registering for electronic newsletters or other membership services, in answering surveys, purchasing items from BravoTV.com or its partners, and registering for contests and other promotional opportunities provided by BravoTV.com. Also, we collect the e-mail addresses of users who post messages to our message boards and chat areas, if any. 
 
-We provide various informative, educational, and entertaining features as part of this website. To provide and maintain these features, we collect certain non-personal and personal information for specific purposes. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website activities will be canceled without notice if at any time we discover that you provide false information, or violate any term of our Privacy Policies or our [Terms of Usage Agreement](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/terms.php). We retain personal information for an indefinite amount of time to preserve our membership database and to comply with various federal and state laws. For example, we are required by various state laws to keep certain information on contest or sweepstakes entries for an extended period of time following the event.
+**Aggregated Information**  
+Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or site registrations, is collected through various methods. For example, BravoTV.com collects IP addresses. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from BravoTV.com, our servers log your IP address. BravoTV.com does not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to us. BravoTV.com collects IP addresses for the purposes of system administration and to provide aggregate data to advertisers about the volume of use on BravoTV.com. 
 
-IV. Registration for Participation in General Audience Website Activities and Services
+**Use of Cookies**  
+BravoTV.com also uses "cookies" to collect information. A cookie is a small data file that most major Web sites write to your hard drive for record keeping purposes when you visit them. Cookies allow BravoTV.com to measure activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences, thus allowing you to visit various member-only parts of the Site without re-registering. Cookies are used by BravoTV.com to measure activity on the Site and make improvements and updates based on which areas are popular and which are not. BravoTV.com does not use cookies to retrieve information from your computer that was not originally sent in a cookie. Except for personal information voluntarily provided by you (i.e., during newsletter registration or a contest), BravoTV.com does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. 
 
-Use and Collection of Information by Bravo
+You may occasionally get cookies from our advertisers, which is standard in the Internet industry. BravoTV.com does not control these cookies, and these cookies are not subject to BravoTV.com's privacy policies. 
 
-To participate as a member of our general audience website, or in special events, contests, sweepstakes or Interactive Areas, you may be required to provide personal information such as your name, home and e-mail addresses, telephone number, birth date and gender. Non-members may also participate in Interactive Areas conducted, operated and/or managed by Bravo after submitting their full name, e-mail address, and selecting a username and password. Interactive Areas not conducted, operated and/or managed by Bravo may require a different registration process. We may also survey visitors about various topics, including their television viewing preferences and comments about how we can improve our programming, website, and services to you. Response to our surveys is entirely voluntary.
+Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the Site, such as the member-only areas and shopping, contest and game areas, will not function properly if you do so. 
 
-We collect personal information for several important purposes, including to protect the security of our visitors and the site, improve our program service and website, distribute our newsletter, notify the winners of our contests and sweepstakes, allow participation in Interactive Areas, and for future marketing and/or promotional use about our program service or website. We will also offer an "E-card" feature that allows visitors to send an e-mail version of a post card to another person to inform them about Bravo activities. We do not collect the sender's or the recipient's e-mail information on E-Cards.
+**Use of Information Collected by BravoTV.com**  
+BravoTV.com uses both the personal and aggregated information we collect for multiple purposes. The information is used to improve the content of the Site, to customize the content and/or layout of the Site for each individual user and to notify users about updates to the Site or promotional offers or opportunities that we believe will be of interest to you. 
 
-The only personal information this website obtains about you is information voluntarily provided by you. We do not collect additional personal information about visitors or members from other sources. This means that a person can visit our website and navigate through the site without giving us personal information. To gauge the effectiveness of our website, we collect non-personal information about our members and visitors, such as Internet server and browser identification, the Internet service provider, the web page from which a visitor enters our site, and how much time the visitor spends on each page. This information does not reveal a visitor's personal identity.
+Bravo shares aggregated information with third parties for both advertising and promotional purposes. Bravo may also share personal information with prescreened third parties for marketing or promotional purposes. Bravo will try to provide users with an opportunity to decline this service when such information is requested from you online. 
 
-Our contests, sweepstakes, and special events are often produced with the generous support of non-affiliated sponsors and/or promotional partners. The personal information collected by our website in conjunction with such events may also be used for the marketing of additional services and events by Bravo , and/or its promotional partners and sponsors beyond the contest, sweepstakes and/or special event. Depending on the event, visitors will be able to either grant their approval on how their personal information will be used before it is collected ("opt-in") or choose to deny use of their information for additional purposes ("opt-out"). Prior to the commencement of each contest, sweepstakes, and/or special event, we will prominently post on the website applicable rules, terms and conditions, and if necessary, any supplemental privacy provisions that will inform our visitors about how their personal information will be collected, used and disclosed.
+Bravo may also share information with consultants and affiliates for internal business purposes and may divulge personal information if such information is subpoenaed, or if Bravo believes that any user has committed unlawful acts, to acts that endanger the health or safety of another user or of the general public. In some situations, we will share your personal information, on a confidential basis, with third parties who perform a particular service on our behalf, such as sending e-mails. Also, BravoTV.com may be sold or transferred to another entity. Should such an event occur, customer information will of course be one of the transferred assets. 
 
-Use and Collection of Information by Contract Service and Operational Providers
+For the convenience of our visitors, we may provide the opportunity to purchase Bravo-related merchandise and services through the Site. Companies not affiliated, owned or operated by Bravo, its parents, affiliates or subsidiaries may handle some of these transactions. We call these companies that conduct our e-commerce operations and/or order fulfillment "operational providers." We generally require our operational providers to adhere to the provisions in this privacy policy, but operational providers may receive information from or about you or communications between the Site and you through cookies or other targeting or tracking technologies placed by or on behalf of them via a means other than through the Site. If you are purchasing goods, merchandise or services on this Site and use a credit card to complete the transaction, our operational providers may share your personal information and credit card number with a ticket agent, a credit card processing and/or a shipping/fulfillment company in order to complete your order. 
 
-For the convenience of our visitors, we will provide the opportunity to purchase Bravo-related merchandise and services through this website. Companies not affiliated, owned or operated by Bravo, its parents, affiliates or subsidiaries may handle some of these transactions. We call these companies that conduct our e-commerce operations and/or order fulfillment "operational providers." We generally require our operational providers to adhere to the provisions in Bravo's privacy policy. We generally prohibit such providers from sharing our visitors' personal information with parties other than Bravo and require that these providers only use the personal information for the purpose of conducting the sale of Bravo-related merchandise.
+In addition, in the event Bravo plans to post any personal information on the Site, Bravo will either notify you of this possibility when you provide the information and/or, if possible, when the information is posted. 
 
-Occasionally, an operational provider will have its own terms of use and a different privacy policy. In these instances, we will identify such providers in this Privacy Policy. Be advised that when you visit the operational provider's website, you will be subject to the privacy policy and terms of usage agreement of that provider.
+Occasionally, we may post the name of a user (for example a contest winner) on the Site. Bravo will notify you of this possibility when you provide your information or, if possible, will notify you when the information is posted. 
 
-Use and Collection of Information by Advertisers and Sponsors
+Bravo may use third party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to our Site and to other Web sites in order to provide advertisements on this Site and other sites about goods and services of interest to you. In addition, Bravo may share Web site usage information about visitors to our Site with such company for the purpose of managing and targeting advertisements on our Site. For this purpose, we and our third-party advertising company note some of the pages you visit on our Site through the use of pixel tags (also called clear gifs). 
 
-Our website will post banner ads and other forms of advertisements, and/or links to the websites of advertisers or sponsors, which are companies that are not owned or operated by Bravo, its parents, affiliates or subsidiaries. These advertisers and sponsors may independently solicit and collect personal information, or send their own cookies to our visitors. Please be advised that when you visit an advertiser's or sponsor's website you will be subject to the privacy policy and terms of usage agreement of that website operator. Bravo, its parents, partners, affiliates or subsidiaries, will not be responsible for the content, activities, information collection, use and disclosure practices of the websites of advertisers and sponsors.
+If you object to the use of personal information provided by you for any reason, you may stop that use by modifying your registration information online. If you have registered as a member through our online registration system and have subscribed to the newsletter, and you no longer wish to receive the newsletter, please discontinue your subscriptions by going to [www.bravotv.com/Unsubscribe](https://web.archive.org/Unsubscribe) and following the relevant instructions on that page. If you have subscribed to another service or newsletter from NBC or NBCi and do not wish to receive that service or newsletter, please discontinue your subscription or registration by going to [www.NBC.com/registration](http://www.nbc.com/registration), and either (i) unchecking the relevant box or boxes, and then clicking "submit" or (ii) following any other relevant instructions on that page. 
 
-V. Our Policy on Disclosing Your Information to Parties Other than Bravo
+**Age Requirements**  
+Bravo encourages parents and guardians to spend time with their children online, and to be fully familiar with the sites visited by their children. At various places on BravoTV.com, Bravo will ask whether users are under the age of 18, or 13, for example when requesting personal information from users, or Bravo may ask for parental consent. However, while Bravo requests this information or permission, Bravo relies on users to be truthful in responding to these questions. 
 
-We do not currently sell, rent, exchange or share your personal information with companies other than Bravo unless it is required by law or disclosure is necessary to operate the website and protect the safety of our visitors, employees or property. Bravo is majority-owned by Cablevision Systems Corporation ("Cablevision") and we may in the future share personal information with Cablevision, its affiliates or other entities for other purposes. If we decide to enter into such sharing arrangements, we will disclose in this Privacy Policy the name of the entity(s) that we will share information with, what type of personal information will be shared, how the information will be used, and how to contact us if you do not want us to share your personal information ("opt-out"). We currently conduct joint activities with other Cablevision affiliates; however, we will not share individual visitors' personal information with these entities unless we provide notice in this Privacy Policy.
+_Individuals Under 13_  
+No information should be submitted to or posted on the Site by users under the age of 13 years without the consent of their parent or guardian. BravoTV.com does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever unless disclosed during collection. Users under the age of 13 are generally asked not to participate in contests or other promotional opportunities. _Individuals 13 Through 17_  
+BravoTV.com requests that children under the age of 18 do not submit or post information to the Site without a parent or guardian's consent. BravoTV.com may collect information, including personally identifying information, from users between the ages of 13 and 17, and with the permission of their parent or guardian this information may be used for marketing and promotional purposes by BravoTV.com and may be shared with prescreened third parties. If a user or their parent or guardian changes their mind with respect to such use, such user, parent or guardian may stop that use by modifying his/her registration information online as described above in "Use of Information Collected by BravoTV.com". 
 
-When visitors send an e-mail to us, we will protect the e-mail address and other personal contact information. However, we may disclose the content of your e-mail to other persons. Please see our [Terms of Usage Agreement](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/terms.php). We will share your personal information with those persons or companies who provide support for the internal operations of the website and our agents, such as contest fulfillment services, maintenance and technical services, and e-commerce and auction contractors ("contract service and operational providers"). If you are purchasing goods, merchandise or services on this website and use a credit card to complete the transaction, our operational providers may share your personal information and credit card number with a ticket agent, a credit card processing and/or a shipping/fulfillment company in order to complete your order.
+For more information, see also "Bravo's Children's Policy" below. 
 
-We may provide aggregate information about our visitors to our advertisers, sponsors, promotional partners, and affiliates, such as how many persons visited a particular page or activity, the average age of our visitors on site or page, or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific visitor.
+**Message Boards and Chat**  
+Please remember that information posted to message boards and chat areas becomes public information. Use caution when posting. Users under the age of 18 should be especially careful not to provide any personally identifying information while using chat rooms or message boards. As set forth in BravoTV.com's [Terms of Usage Agreement](https://web.archive.org/Terms_of_Service), users of chat rooms and message boards must follow acceptable standards of behavior when posting messages online. 
 
-VI. How To Add, Change, or Delete Personal Information
+**Links to Other Sites**  
+It is important to note that BravoTV.com contains links to sites other than BravoTV.com, and that those sites may not follow the same privacy policies as BravoTV.com. For instance, if you click on an advertisement on BravoTV.com, this will take you away from BravoTV.com and to an entirely different site. This can include links from advertisers, content providers and partners who may use BravoTV.com's logo and or style as a result of a co-branding agreement. These sites may send their own cookies to you, and may collect data and make uses of it that BravoTV.com would not. 
 
-You will have access to your membership profile collected and maintained by our website. You may add, change or delete personal information on your profile or registration for other activities by contacting us via e-mail on our [Contact Us](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/contact_us.php) web page section. Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your membership information and e-mail address.
+The use of any information or materials that you may access at these external sites is purely voluntary. You should not rely on their contents without independent and thorough review of the accuracy, completeness, effectiveness, timeliness and correct sequencing. These external sites may also refer to specific commercial products, processes, or services by trade name, trademark, service mark, manufacturer or otherwise. Unless Bravo has provided specific authority, such references in no way indicate our endorsement, recommendation or preference. This section should be read in conjunction with the full [Terms of Usage Agreement](https://web.archive.org/Terms_of_Service). 
 
-VII. Use of Cookies and Tracking Devices
+**Additional Information**  
+No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Bravo to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, Bravo cannot ensure or warrant the security of any information you transmit to us. Any such transmission is done at your own risk. 
 
-This site will use cookies or other tracking devices. A cookie is a small data file that contains a unique identification number that a website places on your hard drive when you visit a site. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site. Cookies do not allow the website to access personal information that you haven't already provided. Cookies enable us to track the number of contest and promotion entries, identify how often visitors are visiting our website and specific pages, estimate the audience size for sponsors and advertisers, and track user preferences. You can refuse to use cookies by turning them off in your browser. Please contact your software manufacturer for questions on how to disable your cookies. You do not need to have cookies turned on to use most of this site. However, you may find that some areas on the website will be slower, or may not function at all, and you may not be able to participate in certain activities such as contests or sweepstakes if the cookies are disabled.
+Under no circumstances, including but not limited to negligence, shall Bravo be liable for any special, incidental or consequential damages that result from the use of information or materials on our sites, even if Bravo or an authorized representative of Bravo, has been advised of the possibility of such damages. This section also should be read in conjunction with the full [Terms of Usage Agreement](https://web.archive.org/Terms_of_Service). 
 
-VIII. Our Security Procedures
+**USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USAGE AGREEMENT AND PRIVACY POLICY.**
 
-We are committed to safeguarding the privacy of all our visitors. We require our employees to protect the privacy of all information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. Credit card information is transmitted via encrypted technology.
+Bravo reserves the right to change this policy at any time by notifying users of the existence of a revised privacy policy. You can send e-mail to us with any further questions at [Webmaster@BravoTV.com](mailto:Webmaster@BravoTV.com). 
 
-If we decide to share visitor information with Cablevision and its affiliates, the receiving entity will also maintain the security and integrity of personal information collected over our website and follow the same privacy practices established in this Privacy Policy.
+Thank you for visiting! 
 
-Please be advised that once you leave our website, your use of the Internet will be governed by the privacy policies and security protections, if any, of the particular website that you are accessing. Bravo is not responsible for the content, activities or privacy practices on the other sites.
+* * *
 
-IX. Notification of Changes in the Privacy Policy
+  
+BRAVOTV.COM'S CHILDREN'S PRIVACY POLICY  
+We have created a special section of our website for the enjoyment of children called "Bravo On With the Show." The "Bravo On With the Show" site allows participation by parents, teachers and children in various activities designed to restore student involvement in theater and the arts. Bravo respects the privacy of your child and maintains specific policies governing the collection of information from children under the age of thirteen. The "Bravo On With the Show" section of our website does not knowingly collect, use or disclose any personal information from visitors under the age of thirteen. 
 
-We will review and modify our security measures and Privacy Policy on a periodic basis, as Bravo deems appropriate. We may also change or update our Privacy Policy if we add new services or features and will prominently post these changes in this policy. We also encourage you to review our Privacy Policy on a regular basis.
-
-Thank you for visiting!
-
-**BRAVO COMPANY'S CHILDREN'S PRIVACY POLICY**
-
-**NOTICE . . .NOTICE . . . NOTICE . . . NOTICE . . . NOTICE . . . NOTICE . . . NOTICE . . . NOTICE**
-
-We have created a special section of our website for the enjoyment of children called "Bravo On With the Show." The "Bravo On With the Show" site allows participation by parents, teachers and children in various activities designed to restore student involvement in theater and the arts. Bravo respects the privacy of your child and maintains specific policies governing the collection of information from children under the age of thirteen. We also offer parents additional guidelines to help keep your child's personal information safe and your family's Internet participation enjoyable. Click on the following for more information.  
-<http://www.powertolearn.com/help/legal.html>
-
-The "Bravo On With the Show" section of our website does not knowingly collect, use or disclose any personal information from visitors under the age of thirteen. Our "Spread the Word" link on the site offers an "E-card" feature that allows visitors to send an e-mail version of a post card to another person to inform them about "Bravo On With the Show." We do not, however, collect the sender's or the recipient's e-mail or other information on the "E-cards."
-
-As an added protection, we have developed the general audience portion of the Bravotv.com site to appeal primarily to visitors eighteen years of age and older, although visitors of all ages may navigate through the site. On all portions of our website, we do not knowingly collect personal information from visitors under the age of thirteen. If upon notification by a parent, or discovery by other means, that a child under thirteen has improperly registered as a member or participated on our site by using false information, we will immediately cancel the child's membership or participation, and delete all personal information from our records. Any "Bravo On With the Show" visitors over the age of thirteen will be subject to the privacy policies for the general audience portion of our site.
+As an added protection, we have developed the general audience portion of the BravoTV.com site to appeal primarily to visitors eighteen years of age and older, although visitors of all ages may navigate through the site. On all portions of our website, we do not knowingly collect personal information from visitors under the age of thirteen. If upon notification by a parent, or discovery by other means, that a child under thirteen has improperly registered as a member or participated on our site by using false information, we will immediately cancel the child's membership or participation, and delete all personal information from our records. Any "Bravo On With the Show" visitors over the age of thirteen will be subject to the privacy policies for the general audience portion of our site. 
 
 If at any time we decide to collect certain information from children, we will update this portion of our Privacy Policy. We will also require verifiable parental consent, in accordance with applicable law, before we collect any personal information from children under thirteen years of age, except in the following circumstances allowed by law: 
 
-  * To provide notice and get consent from a parent or guardian; 
+  * To provide notice and get consent from a parent or guardian;
   * Response to a one-time request from a child, after which we will immediately delete the child's information; 
   * To fulfill a child's request for a subscription to a online newspaper, magazine or specific information on a regular basis and notify the parent or guardian before we contact the child again; 
   * To protect the safety of a child who is participating on this site; and 
   * To protect the security or integrity of the site, to take precautions against liability, to respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law. 
 
+As a part of our "[Bravo On With the Show](https://web.archive.org/On_with_the_Show)" site, we offer a list of helpful website links provided by other entities and persons involved in the arts. These links are provided for the convenience of our visitors. Bravo does not endorse or recommend the products or services of any websites not owned, operated or affiliated with Bravo. When you visit these websites you will also be subject to the privacy policies and [terms of usage](https://web.archive.org/Terms_of_Service) agreements, if any, of that website operator. Please carefully read these other website policies. 
 
-
-As a part of our "Bravo On With the Show" site, we offer a list of helpful website links provided by other entities and persons involved in the arts. These links are provided for the convenience of our visitors. Bravo does not endorse or recommend the products or services of any websites not owned, operated or affiliated with Bravo. When you visit these websites you will also be subject to the privacy policies and terms of usage agreements, if any, of that website operator. Please carefully read these other website policies.
-
-Please contact us if you have any questions about our website or this Privacy Policy. 
-
-[Contact us](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/contact_us.php) at:
-
-Bravo  
-200 Jericho Quadrangle  
-Jericho, NY 11753
-
-1-800-531-0002
-
-**Thank you for visiting!**
+This privacy policy is effective as of April 15, 2003. 
