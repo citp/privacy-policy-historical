@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204154932id_/http%3A//www.activestate.com/privacy.plex) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206233213id_/http%3A//www.activestate.com/privacy.plex) for the most accurate reproduction.*
 
 # ActiveState - Privacy Policy - Dynamic Tools for Dynamic Languages
 
