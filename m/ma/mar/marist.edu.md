@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marist.edu privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205171800id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marist.edu privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602052449id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.*
 
 # Marist College: Privacy Policy
 
@@ -10,7 +10,7 @@ Marist College
 Poughkeepsie, NY 12601  
 
 
-We can be reached via e-mail at [webmaster@marist.edu](mailto:webmaster@marist.edu) or you can reach us by telephone at 914-575-3252. 
+We can be reached via e-mail at [webmaster@marist.edu](mailto:webmaster@marist.edu) or you can reach us by telephone at 845-575-3252. 
 
 ## The Information we collect
 
