@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curezone.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607053738id_/http%3A//www.curezone.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curezone.org privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217055154id_/http%3A//curezone.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement,CureZone.com
 
@@ -153,15 +153,15 @@ USA**
 
     * **[Privacy Policy Statement](https://web.archive.org/privacy.asp)**
 
-    * **[Forums](https://web.archive.org/web/20040607053738id_/http%3A//www.curezone.org/forums/default.asp) **
+    * **[Forums](https://web.archive.org/web/20041217055154id_/http%3A//curezone.com/forums/default.asp) **
 
-      * **[What makes a great health educator?](https://web.archive.org/web/20040607053738id_/http%3A//www.curezone.org/forums/educator.asp)**
+      * **[What makes a great health educator?](https://web.archive.org/web/20041217055154id_/http%3A//curezone.com/forums/educator.asp)**
 
-      * [ **Posting Guidelines**](https://web.archive.org/web/20040607053738id_/http%3A//www.curezone.org/forums/guidelines.asp) ****
+      * [ **Posting Guidelines**](https://web.archive.org/web/20041217055154id_/http%3A//curezone.com/forums/guidelines.asp) ****
 
-      * **[About Forums](https://web.archive.org/web/20040607053738id_/http%3A//www.curezone.org/forums/descriptionall.asp)**
+      * **[About Forums](https://web.archive.org/web/20041217055154id_/http%3A//curezone.com/forums/descriptionall.asp)**
 
-      * **[Disclaimer](https://web.archive.org/web/20040607053738id_/http%3A//www.curezone.org/forums/disclaimer.asp)**
+      * **[Disclaimer](https://web.archive.org/web/20041217055154id_/http%3A//curezone.com/forums/disclaimer.asp)**
 
 
 
