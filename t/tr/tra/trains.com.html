@@ -1,7 +1,129 @@
-<!--The following is the downloaded HTML source of the trains.com privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603015317id_/http%3A//trains.com/content/static/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trains.com privacy policy that was archived on 2002-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601113037id_/http%3A//www.trains.com/content/static/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script type="text/javascript" language="JavaScript">
+	<!--
+	_version=10;
+	//-->
+	</script>
+
+	<script type="text/javascript" language="JavaScript1.1">
+	<!--
+	_version=11;
+	//-->
+	</script>
+
+	<script type="text/javascript" language="JavaScript">
+	<!--
+
+		if (navigator.userAgent.indexOf('Mozilla/3') != -1){
+			_version=10;
+		}
+
+		// ##### KPC ADSERVER CODE #####
+
+		// Ad Server script for zone implmentation
+		// Mod 20020214 (drv)
+
+		// use the following to enable/disable serving ads on the site
+		var ADserverstatus = 1;
+
+		// initialize the zone/position array
+		arrayAdZones = new Array(4);
+
+		// ad code variables
+		var thispage = '';
+		var ADserver = 'http://ads.kalmbach.com/scripts/trn/';
+		// var thissite = 'www.trains.com/';
+		// var sitepage = thissite + thispage;
+		var RN = new String (Math.random());
+		var RNS = RN.substring (2, 11);
+		var wrdScript = 'script'
+
+		// ad insertion function
+		function DisplayAds (affiliate,zoneid,width,height,bannerid,clientid,wtext,name,zoneonly) {
+
+			// ADSERVER STATUS
+			// Check server status variable [0:not ready;1:ready]
+			if (ADserverstatus!=1) {return;}
+
+			// AFFILIATE TEST
+			if (isNaN(affiliate)==true) {affiliate=1;} // set it to default of 1
+
+			// AD POSITION
+			// Check for thispage variable and set pos_name variable
+			if (thispage.length>1) {
+				pos_name = thispage + '@' + name;
+			} else {
+				pos_name = 'default';
+			}
+
+			// DIMENSIONS
+			// Check for Banner Dimensions (width and height)
+			if (isNaN(width)==true) {
+				ADdimensions = '';
+			} else {
+				(isNaN(height))?ADdimensions='width:'+width:ADdimensions=width+'x'+height;
+			}
+
+			// ZONES
+			// Check for ZoneID
+			if (isNaN(zoneid)==true) {
+				ADzone = '';
+			} else {
+				ADzone = 'zone:'+zoneid;
+			}
+
+			// WHAT PARAM (for zone implementation)
+			if (isNaN(zoneid)==true) {
+				(ADdimensions.length>1)?ADwhat='&what='+ADdimensions:ADwhat='&what=';
+			} else {
+				ADwhat = ADwhat='&what='+ADzone;
+			}
+
+			// WITH TEXT
+			// Check for with text parameter
+			(wtext=1)?ADwtext='&withText=1':ADwtext='&withText=0';
+
+			// ADNAME
+			// Used to keep track of which adview belongs with which adclick when using js ver < 1.1
+			var ADname = pos_name;
+
+
+			// AD REQUEST TO ADSERVER
+			if (_version < 11) {
+				document.write ('<a href="' + ADserver + 'adclick.php?n=' + ADname + '" target="_top" ><img src="' + ADserver + 'adview.php?pos=' + pos_name + ADwtext + ADwhat + '&z=' + zoneonly + '&aid=' + affiliate + '&n=' + ADname + RNS + '&target=_top&cache-id=1' + RNS + '" border="0" width="' + width + '" height="' + height + '"></a>');
+			} else {
+				document.write ('<' + wrdScript + ' type="text/javascript" language="JavaScript1.1" src="' + ADserver + 'adjs.php?pos=' + pos_name + ADwtext + ADwhat + '&z=' + zoneonly + '&aid=' + affiliate + '&target=_top&cache-id=1' + RNS + '">');
+				document.write ('\<\!-- --\>');
+				document.write ('\<\/' + wrdScript + '\>');
+				document.write ('\<\!-- --\>');
+			}
+		}
+
+
+		// TEMPLATE
+		// function DisplayAdsTemplate() {DisplayAds(affiliate,zoneid,width,height,bannerid,clientid,wtext,name,zoneonly);}
+
+
+		// AD WRAPPER FUNCTIONS
+
+		// TRAINS.COM
+		// Ad Positions: T,R,R1,R2
+		// Last Modified: 2/14/2002 (drv)
+
+		function DisplayAdsT(zoneid) {DisplayAds(1,zoneid,234,60,'','',0,'t',1);}
+		function DisplayAdsR(zoneid) {DisplayAds(1,zoneid,120,240,'','',0,'r',1);}
+		function DisplayAdsR1(zoneid) {DisplayAds(1,zoneid,120,240,'','',0,'r1',1);}
+		function DisplayAdsR2(zoneid) {DisplayAds(1,zoneid,120,60,'','',0,'r2',1);}
+
+	//-->
+	</script>
+	
+
+
+
+
 	<title>Trains.com: Privacy Policy</title>
 	<link rel="stylesheet" href="/styles/public.css" type="text/css">
 	<meta name="KEYWORDS" content="Trains, Trains magazine">
@@ -11,20 +133,36 @@
 <body bgcolor="white" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">
 
 <center>
+<!-- Menu: || -->
 
+<!-- Zone Array - Conversion script (temporary) -->
+<script type="text/javascript" language="JavaScript">
+<!--
+
+	strAdZoneList = "1,2,3,4";
+	tempAdArray = strAdZoneList.split(",");
+	if (tempAdArray.length == 4) {
+		arrayAdZones[0] = tempAdArray[0];
+		arrayAdZones[1] = tempAdArray[1];
+		arrayAdZones[2] = tempAdArray[2];
+		arrayAdZones[3] = tempAdArray[3];
+	}
+
+//-->
+</script>
 
 <table border="0" cellpadding="0" cellspacing="0" width="760" height="152" bordercolor="green">
 	<tbody><tr>
-		<td rowspan="2" colspan="1" width="118" height="86"><a href="/home.asp" target="_top"><img src="/images/Header/tn_1x1.gif" width="118" height="86" border="0"></a></td>
-		<td rowspan="1" colspan="3" width="202" height="64"><a href="/home.asp" target="_top"><img src="/images/Header/tn_1x2.gif" width="202" height="64" border="0"></a></td>
+		<td rowspan="2" colspan="1" width="118" height="86"><a href="http://www.trains.com/home.asp" target="_top"><img src="/images/Header/tn_1x1.gif" width="118" height="86" border="0"></a></td>
+		<td rowspan="1" colspan="3" width="202" height="64"><a href="http://www.trains.com/home.asp" target="_top"><img src="/images/Header/tn_1x2.gif" width="202" height="64" border="0"></a></td>
 		<td rowspan="1" colspan="3" width="440" height="64" background="/images/Header/tn_1x3_modeltrains.jpg" align="RIGHT"><img src="/images/spacer.gif" width="1" height="64"></td>
 	</tr>
 	<tr>
-		<td rowspan="1" colspan="1" width="89" height="22"><a href="/story/story_list_homestyle.asp?idMenuCategory=1" onmouseover="document.model.src='/images/header/tn_modeltrains_on.gif';" onmouseout="document.model.src='/images/header/tn_modeltrains.gif';" target="_top"><img name="model" src="/images/Header/tn_modeltrains.gif" width="89" height="22" border="0"></a></td>
+		<td rowspan="1" colspan="1" width="89" height="22"><a href="http://www.trains.com/story/story_list_homestyle.asp?idMenuCategory=1" onmouseover="document.model.src='/images/header/tn_modeltrains_on.gif';" onmouseout="document.model.src='/images/header/tn_modeltrains.gif';" target="_top"><img name="model" src="/images/Header/tn_modeltrains.gif" width="89" height="22" border="0"></a></td>
 		<td rowspan="1" colspan="1" width="33" height="22"><img src="/images/Header/tn_2x2.gif" width="33" height="22" border="0"></td>
-		<td rowspan="1" colspan="1" width="80" height="22"><a href="/story/story_list_homestyle.asp?idMenuCategory=2" onmouseover="document.railr.src='/images/header/tn_railroading_on.gif';" onmouseout="document.railr.src='/images/header/tn_railroading.gif';" target="_top"><img name="railr" src="/images/Header/tn_railroading.gif" width="80" height="22" border="0"></a></td>
+		<td rowspan="1" colspan="1" width="80" height="22"><a href="http://www.trains.com/story/story_list_homestyle.asp?idMenuCategory=2" onmouseover="document.railr.src='/images/header/tn_railroading_on.gif';" onmouseout="document.railr.src='/images/header/tn_railroading.gif';" target="_top"><img name="railr" src="/images/Header/tn_railroading.gif" width="80" height="22" border="0"></a></td>
 		<td rowspan="1" colspan="1" width="40" height="22"><img src="/images/Header/tn_2x4.gif" width="40" height="22" border="0"></td>
-		<td rowspan="1" colspan="1" width="75" height="22"><a href="/story/story_list_homestyle.asp?idMenuCategory=3" onmouseover="document.railt.src='/images/header/tn_railtravel_on.gif';" onmouseout="document.railt.src='/images/header/tn_railtravel.gif';" target="_top"><img name="railt" src="/images/Header/tn_railtravel.gif" width="75" height="22" border="0"></a></td>
+		<td rowspan="1" colspan="1" width="75" height="22"><a href="http://www.trains.com/story/story_list_homestyle.asp?idMenuCategory=3" onmouseover="document.railt.src='/images/header/tn_railtravel_on.gif';" onmouseout="document.railt.src='/images/header/tn_railtravel.gif';" target="_top"><img name="railt" src="/images/Header/tn_railtravel.gif" width="75" height="22" border="0"></a></td>
 		<td rowspan="2" colspan="1" width="325" height="90">
 
 			<table border="0" cellpadding="0" cellspacing="0" width="325" height="90" bordercolor="RED">
@@ -33,14 +171,14 @@
 				</tr>
 				<tr>
 					<td rowspan="4" colspan="1" width="36" height="73"><img src="/images/Header/tn_2x62x1.gif" width="36" height="73" border="0"></td>
-					<td rowspan="1" colspan="1" width="79" height="21"><a href="/story/story_list_homestyle.asp?idMenuCategory=5" onmouseover="document.commu.src='/images/header/tn_community_on.gif';" onmouseout="document.commu.src='/images/header/tn_community.gif';" target="_top"><img name="commu" src="/images/Header/tn_community.gif" width="79" height="21" border="0"></a></td>
+					<td rowspan="1" colspan="1" width="79" height="21"><a href="http://www.trains.com/story/story_list_homestyle.asp?idMenuCategory=5" onmouseover="document.commu.src='/images/header/tn_community_on.gif';" onmouseout="document.commu.src='/images/header/tn_community.gif';" target="_top"><img name="commu" src="/images/Header/tn_community.gif" width="79" height="21" border="0"></a></td>
 					<td rowspan="4" colspan="1" width="31" height="73"><img src="/images/Header/tn_2x62x3.gif" width="31" height="73" border="0"></td>
 					<td rowspan="1" colspan="1" width="83" height="21"><img src="/images/Header/tn_2x62x4_modeltrains.jpg" width="83" height="21" border="0"></td>
 					<td rowspan="2" colspan="2" width="96" height="42"><img src="/images/Header/tn_2x62x5_modeltrains.jpg" width="96" height="42" border="0"></td>
 				</tr>
 				<tr>
 					<td rowspan="3" colspan="1" width="79" height="52"><img src="/images/Header/tn_2x63x1.gif" width="79" height="52" border="0"></td>
-					<td rowspan="1" colspan="1" width="83" height="21"><a href="/story/story_list_homestyle.asp?idMenuCategory=4" onmouseover="document.kidst.src='/images/header/tn_kidstrains_on.gif';" onmouseout="document.kidst.src='/images/header/tn_kidstrains.gif';" target="_top"><img name="kidst" src="/images/Header/tn_kidstrains.gif" width="83" height="21" border="0"></a></td>
+					<td rowspan="1" colspan="1" width="83" height="21"><a href="http://www.trains.com/story/story_list_homestyle.asp?idMenuCategory=4" onmouseover="document.kidst.src='/images/header/tn_kidstrains_on.gif';" onmouseout="document.kidst.src='/images/header/tn_kidstrains.gif';" target="_top"><img name="kidst" src="/images/Header/tn_kidstrains.gif" width="83" height="21" border="0"></a></td>
 				</tr>
 				<tr>
 					<td rowspan="2" colspan="1" width="83" height="31"><img src="/images/Header/tn_2x64x1.gif" width="83" height="31" border="0"></td>
@@ -51,27 +189,32 @@
 					<td rowspan="1" colspan="1" width="13" height="21"><img src="/images/Header/tn_2x65x2.gif" width="13" height="21" border="0"></td>
 				</tr>
 			</tbody></table>
-	
+
 		</td>
 	</tr>
 	<tr>
 		<td rowspan="1" colspan="1" width="118" height="68">  <!-- WIDTH="118" HEIGHT="68"> -->
-		
+
 			<map name="topbuttons">
-					<area shape="rect" coords="0,48,88,64" href="/classifiedads/classified_select.asp">
-					<area shape="rect" coords="0,32,88,48" href="/content/static/webcams.asp?idmenucategory=2&amp;idmenusubcategory=22">
-					<area shape="rect" coords="0,16,88,32" href="/forums/">
-					<area shape="rect" coords="0,0,88,16" href="/story/story_list.asp?idmenucategory=2&amp;idmenusubcategory=28">
+					<area shape="rect" coords="0,24,38,35" alt="News Wire" href="http://www.trains.com/story/story_list.asp?idmenucategory=2&amp;idmenusubcategory=28">
+					<area shape="rect" coords="0,37,43,48" href="http://www.trains.com/forums/">
+					<area shape="rect" coords="0,49,48,63" href="http://www.trains.com/story/story_list.asp?idMenuCategory=1&amp;idMenuSubCategory=12">
+					<area shape="rect" coords="45,24,117,33" href="http://www.trains.com/profile/signup.asp">
+					<area shape="rect" coords="58,36,117,48" href="http://www.trains.com/content/static/webcams.asp?idmenucategory=2&amp;idmenusubcategory=22">
+					<area shape="rect" coords="60,51,117,63" alt="Model Train Magazine Index" href="http://www.trains.com/maghomepage/access_check.asp">
 				</map><table border="0" cellpadding="0" cellspacing="0" width="118" height="68">
 				<!--<TR>
 					<TD ROWSPAN=5 COLSPAN=1 WIDTH=4 HEIGHT=68><IMG SRC="/images/header/tb_leftedge.gif" WIDTH=4 HEIGHT=68 BORDER=0></TD>
 					<TD ROWSPAN=1 COLSPAN=1 WIDTH=114 HEIGHT=12><IMG SRC="/images/header/tb_topedge.gif" WIDTH=114 HEIGHT=12 BORDER=0></TD>
 				</TR>-->
-				
+
 				
 				<tbody><tr>
-					<td width="88" height="68"><img src="/images/header/christine4button.gif" width="88" height="64" border="0" usemap="#topbuttons"></td>
-					<td width="30" height="68"><img src="/images/header/tb_rightedge.jpg" width="30" height="68" border="0"></td>
+					<td width="118" height="68"><img src="/images/header/online_exclusive_buttons_2.gif" width="118" height="64" border="0" usemap="#topbuttons"></td>
+<!--
+					<TD width="88" height="68"><IMG SRC="/images/header/christine4button.gif" WIDTH="88" HEIGHT="64" BORDER="0" USEMAP="#topbuttons"></TD>
+					<TD width="30" height="68"><IMG SRC="/images/header/tb_rightedge.jpg" WIDTH="30" HEIGHT="68" BORDER="0"></TD>
+-->
 				</tr>
 				<!--<TR>
 					<TD ROWSPAN=1 COLSPAN=1 WIDTH=114 HEIGHT=21><IMG SRC="" WIDTH="114" HEIGHT="21" BORDER="0"></TD>
@@ -86,7 +229,7 @@
 					<TD ROWSPAN=1 COLSPAN=1 WIDTH=114 HEIGHT=10><IMG SRC="/images/header/tb_botedge.gif" WIDTH=114 HEIGHT=10 BORDER=0></TD>
 				</TR>-->
 			</tbody></table>
-		
+
 		</td>
 		<td rowspan="1" colspan="5" width="317" height="68"><img src="/images/Header/tn_title_blank.gif" width="317" height="68" border="0" alt=""></td>
 	</tr>
@@ -175,7 +318,7 @@ else
 	<td width="178">
 		<form name="frmSearchBox" action="/search/site_search.asp" method="post">
 		
-		<p><input type="text" name="chrKeywords" size="12">&nbsp;&nbsp;<a href="javascript: CheckKeywords(this);"><img src="/images/common/b_search.gif" width="64" height="18" border="0" alt="Search" align="absmiddle"></a><br>
+		<input type="text" name="chrKeywords" size="12">&nbsp;&nbsp;<a href="javascript: CheckKeywords(this);"><img src="/images/common/b_search.gif" width="64" height="18" border="0" alt="Search" align="absmiddle"></a><br>
 		
 		<select name="chrSearchType">
 			<option value="ALL">Entire Site</option>
@@ -187,13 +330,31 @@ else
 			<option value="ORGANIZATIONS">Organizations</option>
 			<option value="PHOTOGALLERY">Photo Gallery</option>
 		</select>
-		</p>
 		</form>
 	</td>
 	<td width="8">
 		<img src="/images/spacer.gif" width="8" height="1">
 	</td>
 </tr>
+
+<tr>
+	<td width="8">
+		<img src="/images/spacer.gif" width="8" height="1">
+	</td>
+	<td width="178">
+		<font face="Arial, Helvetica" size="2">
+		<a class="nolines-menusub" href="http://www.trains.com/classifieds/default.asp"><strong>
+		
+		Classifieds
+		
+		</strong></a>
+		</font>
+	</td>
+	<td width="8">
+		<img src="/images/spacer.gif" width="8" height="1">
+	</td>
+</tr>
+
 </tbody></table>
 	</td>
 </tr>
@@ -203,19 +364,19 @@ else
 		
 				<img src="/images/spacer.gif" width="1" height="5"><br>
 				<img src="/images/common/h_miscellaneous.gif" width="194" height="20" border="0" alt="Miscellaneous"><br>
-				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="/glossary/glossary_search_user.asp?idMenuCategory=2&amp;idMenuSubCategory=27&amp;idMenuMinorCategory=2704"><strong>Glossary</strong></a><br>
+				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="http://www.trains.com/glossary/glossary_search_user.asp?idMenuCategory=2&amp;idMenuSubCategory=27&amp;idMenuMinorCategory=2704"><strong>Glossary</strong></a><br>
 				<img src="/images/spacer.gif" width="1" height="8"><br>
-				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="/content/static/contactus.asp"><strong>Contact Us</strong></a><br>
+				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="http://www.trains.com/content/static/contactus.asp"><strong>Contact Us</strong></a><br>
 				<img src="/images/spacer.gif" width="1" height="8"><br>
-				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="/content/static/privacy.asp"><strong>Privacy Policy</strong></a><br>
+				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="http://www.trains.com/content/static/privacy.asp"><strong>Privacy Policy</strong></a><br>
 				<img src="/images/spacer.gif" width="1" height="8"><br>
 				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="http://corporate.kalmbach.com/kalmbach/jobs/jobs_opportunities.asp?action=details&amp;job=10"><strong>Employment</strong></a><br>
 				<img src="/images/spacer.gif" width="1" height="8"><br>
-				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="/content/static/adinfo.asp"><strong>Advertising Info</strong></a><br>
+				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="http://www.trains.com/content/static/adinfo.asp"><strong>Advertising Info</strong></a><br>
 				<img src="/images/spacer.gif" width="1" height="8"><br>
-				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="/content/static/sitemap.asp"><strong>Site Map</strong></a><br>
+				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="http://www.trains.com/content/static/sitemap.asp"><strong>Site Map</strong></a><br>
 				<img src="/images/spacer.gif" width="1" height="8"><br>
-				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="/content/static/termsandconditions.asp"><strong>Terms &amp; Conditions</strong></a><br>
+				<img src="/images/spacer.gif" width="8" height="1"><a class="nolines-menusub" href="http://www.trains.com/content/static/termsandconditions.asp"><strong>Terms &amp; Conditions</strong></a><br>
 				
 		</font>
 	</td>
@@ -244,7 +405,34 @@ else
 				
 	</td>
 </tr>
-</tbody></table>			
+</tbody></table>			<table width="194" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td><img src="/images/spacer.gif" width="10" height="50"></td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td><img src="/images/spacer.gif" width="10" height="1"></td>
+		<td align="left"><font class="plaintext"><b><font color="#660000">Legend</font></b></font></td>
+	</tr>
+	<tr>
+		<td><img src="/images/spacer.gif" width="10" height="1"></td>
+		<td>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="28" valign="middle">
+						<a href="/profile/signup.asp?action=newuser">
+						<img src="/images/train_crossing_sm.gif" border="0" width="19" height="19" alt="Registration Required.">
+						</a>
+					</td>
+					<td width="166" valign="middle">
+						<a class="nolines-menusub" href="/profile/signup.asp?action=newuser"><font class="smalltext">Registration Required.</font></a><br>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+		
 	</td>
 </tr>
 </tbody></table>
@@ -305,110 +493,29 @@ else
 	
 	<td width="6"><img src="/images/spacer.gif" width="6"></td>
 	<td width="122" align="right" valign="top">
-		
-<table width="122" cellspacing="0" cellpadding="0" border="0" bgcolor="white">
+		<table width="122" cellspacing="0" cellpadding="0" border="0" bgcolor="white">
 <tbody><tr>
 	<td valign="top" align="center">
 		
 			<img src="/images/spacer.gif" width="120" height="10"><br>
-			<!-- AdRight: www.trains.com/@Right -->
-<script language="JavaScript"> 
-<!--
-_version=10;
-// -->
-</script> 
-<script language="JavaScript1.1"> 
-<!--
-_version=11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1){_version=10;}
-// -->
-</script> 
-<script language="JavaScript"> 
-<!--
-var width = 120;
-var height = 60;
-var OAS = 'http://OAS-Central.RealMedia.com/RealMedia/ads/';
-var sitepage = 'www.trains.com/';
-var RN = new String (Math.random());
-var RNS = RN.substring (2, 11);
-var OASpage= sitepage + '/1' + RNS + '@' +'Right';
-if (_version < 11) {
-document.write ('<A HREF="' + OAS + 'click_nx.cgi/'+ OASpage + '" TARGET="_top" ><IMG SRC="' + OAS + 'adstream_nx.cgi/' + OASpage + '" BORDER="0" WIDTH="' + width + '"	HEIGHT="' + height + '"></a>'); 
-} else {
-document.write ('<SCRIPT LANGUAGE="JavaScript" SRC="' + OAS + 'adstream_jx.cgi/' + OASpage + '">'); 
-document.write ('\<\!-- --\>');
-document.write ('\<\/SCRIPT\>');
-document.write ('\<\!-- --\>');
-}
-// -->
-</script><script language="JavaScript" src="http://OAS-Central.RealMedia.com/RealMedia/ads/adstream_jx.cgi/www.trains.com//1907971157@Right"><!-- --></script><!-- -->
-
+			<script type="text/javascript" language="JavaScript">
+			<!--
+				DisplayAdsR(arrayAdZones[1]);
+			//-->
+			</script><script type="text/javascript" language="JavaScript1.1" src="http://ads.kalmbach.com/scripts/trn/adjs.php?pos=default&amp;withText=1&amp;what=zone:2&amp;z=1&amp;aid=1&amp;target=_top&amp;cache-id=1502429426"><!-- --></script><!-- -->
 			<img src="/images/spacer.gif" width="120" height="6"><br>
-			<!-- AdRight: www.trains.com/@Right1 -->
-<script language="JavaScript"> 
-<!--
-_version=10;
-// -->
-</script> 
-<script language="JavaScript1.1"> 
-<!--
-_version=11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1){_version=10;}
-// -->
-</script> 
-<script language="JavaScript"> 
-<!--
-var width = 120;
-var height = 60;
-var OAS = 'http://OAS-Central.RealMedia.com/RealMedia/ads/';
-var sitepage = 'www.trains.com/';
-var RN = new String (Math.random());
-var RNS = RN.substring (2, 11);
-var OASpage= sitepage + '/1' + RNS + '@' +'Right1';
-if (_version < 11) {
-document.write ('<A HREF="' + OAS + 'click_nx.cgi/'+ OASpage + '" TARGET="_top" ><IMG SRC="' + OAS + 'adstream_nx.cgi/' + OASpage + '" BORDER="0" WIDTH="' + width + '"	HEIGHT="' + height + '"></a>'); 
-} else {
-document.write ('<SCRIPT LANGUAGE="JavaScript" SRC="' + OAS + 'adstream_jx.cgi/' + OASpage + '">'); 
-document.write ('\<\!-- --\>');
-document.write ('\<\/SCRIPT\>');
-document.write ('\<\!-- --\>');
-}
-// -->
-</script><script language="JavaScript" src="http://OAS-Central.RealMedia.com/RealMedia/ads/adstream_jx.cgi/www.trains.com//1847889925@Right1"><!-- --></script><!-- -->
-
+			<script type="text/javascript" language="JavaScript">
+			<!--
+				DisplayAdsR1(arrayAdZones[2]);
+			//-->
+			</script><script type="text/javascript" language="JavaScript1.1" src="http://ads.kalmbach.com/scripts/trn/adjs.php?pos=default&amp;withText=1&amp;what=zone:3&amp;z=1&amp;aid=1&amp;target=_top&amp;cache-id=1502429426"><!-- --></script><!-- -->
 			<img src="/images/spacer.gif" width="120" height="6"><br>
-			<!-- AdRight: www.trains.com/@Right2 -->
-<script language="JavaScript"> 
-<!--
-_version=10;
-// -->
-</script> 
-<script language="JavaScript1.1"> 
-<!--
-_version=11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1){_version=10;}
-// -->
-</script> 
-<script language="JavaScript"> 
-<!--
-var width = 120;
-var height = 60;
-var OAS = 'http://OAS-Central.RealMedia.com/RealMedia/ads/';
-var sitepage = 'www.trains.com/';
-var RN = new String (Math.random());
-var RNS = RN.substring (2, 11);
-var OASpage= sitepage + '/1' + RNS + '@' +'Right2';
-if (_version < 11) {
-document.write ('<A HREF="' + OAS + 'click_nx.cgi/'+ OASpage + '" TARGET="_top" ><IMG SRC="' + OAS + 'adstream_nx.cgi/' + OASpage + '" BORDER="0" WIDTH="' + width + '"	HEIGHT="' + height + '"></a>'); 
-} else {
-document.write ('<SCRIPT LANGUAGE="JavaScript" SRC="' + OAS + 'adstream_jx.cgi/' + OASpage + '">'); 
-document.write ('\<\!-- --\>');
-document.write ('\<\/SCRIPT\>');
-document.write ('\<\!-- --\>');
-}
-// -->
-</script><script language="JavaScript" src="http://OAS-Central.RealMedia.com/RealMedia/ads/adstream_jx.cgi/www.trains.com//1884071328@Right2"><!-- --></script><!-- -->
-
+			<script type="text/javascript" language="JavaScript">
+			<!--
+				DisplayAdsR2(arrayAdZones[3]);
+			//-->
+			</script><script type="text/javascript" language="JavaScript1.1" src="http://ads.kalmbach.com/scripts/trn/adjs.php?pos=default&amp;withText=1&amp;what=zone:4&amp;z=1&amp;aid=1&amp;target=_top&amp;cache-id=1502429426"><!-- --></script><!-- -->
+			
 	</td>
 </tr>
 </tbody></table>
@@ -416,7 +523,6 @@ document.write ('\<\!-- --\>');
 	
 </tr>
 </tbody></table>
-
 
 <table width="760" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr background="/images/common/lightfooter.gif" bgcolor="#E7D7D6">
@@ -428,11 +534,11 @@ document.write ('\<\!-- --\>');
 	</td>
 	<td width="548" align="RIGHT" valign="MIDDLE" nowrap="">
 		<font face="Arial, Helvetica" size="1" color="#660000">
-		<a class="nolines-darkmaroon" href="/story/story_list_homestyle.asp?idMenuCategory=1" target="_top">Model Trains</a> &nbsp;&nbsp;
-		<a class="nolines-darkmaroon" href="/story/story_list_homestyle.asp?idMenuCategory=2" target="_top">Railroading</a> &nbsp;&nbsp;
-		<a class="nolines-darkmaroon" href="/story/story_list_homestyle.asp?idMenuCategory=3" target="_top">Rail Travel</a> &nbsp;&nbsp;
-		<a class="nolines-darkmaroon" href="/story/story_list_homestyle.asp?idMenuCategory=5" target="_top">Community</a> &nbsp;&nbsp;
-		<a class="nolines-darkmaroon" href="/story/story_list_homestyle.asp?idMenuCategory=4" target="_top">Kids' Trains</a> &nbsp;&nbsp;
+		<a class="nolines-darkmaroon" href="http://www.trains.com/story/story_list_homestyle.asp?idMenuCategory=1" target="_top">Model Trains</a> &nbsp;&nbsp;
+		<a class="nolines-darkmaroon" href="http://www.trains.com/story/story_list_homestyle.asp?idMenuCategory=2" target="_top">Railroading</a> &nbsp;&nbsp;
+		<a class="nolines-darkmaroon" href="http://www.trains.com/story/story_list_homestyle.asp?idMenuCategory=3" target="_top">Rail Travel</a> &nbsp;&nbsp;
+		<a class="nolines-darkmaroon" href="http://www.trains.com/story/story_list_homestyle.asp?idMenuCategory=5" target="_top">Community</a> &nbsp;&nbsp;
+		<a class="nolines-darkmaroon" href="http://www.trains.com/story/story_list_homestyle.asp?idMenuCategory=4" target="_top">Kids' Trains</a> &nbsp;&nbsp;
 		<a class="nolines-darkmaroon" href="http://shops.trains.com/default.asp?chrUserName=&amp;ProfileGUID=" target="_top">Train Shops</a> &nbsp;
 		</font>	
 	</td>
@@ -440,18 +546,18 @@ document.write ('\<\!-- --\>');
 <tr bgcolor="#660000">
 	<td width="213" align="CENTER" valign="MIDDLE" nowrap="">
 		<font face="Arial, Helvetica" size="1" color="white">
-		<a class="nolines-white" href="/content/static/termsandconditions.asp" target="_top">terms &amp; conditions</a> &nbsp;&nbsp;
+		<a class="nolines-white" href="http://www.trains.com/content/static/termsandconditions.asp" target="_top">terms &amp; conditions</a> &nbsp;&nbsp;
 		</font>
 	</td>
 	<td width="548" align="RIGHT" valign="MIDDLE" nowrap="">
 		<font face="Arial, Helvetica" size="1" color="white">
-		<a class="nolines-white" href="/glossary/glossary_search_user.asp?idMenuCategory=2&amp;idMenuSubCategory=27&amp;idMenuMinorCategory=2704" target="_top">glossary</a> &nbsp;&nbsp;
-		<a class="nolines-white" href="/content/static/aboutus.asp" target="_top">about us</a> &nbsp;&nbsp;
-		<a class="nolines-white" href="/content/static/contactus.asp" target="_top">contact us</a> &nbsp;&nbsp;
-		<a class="nolines-white" href="/content/static/privacy.asp" target="_top">privacy policy</a> &nbsp;&nbsp;
+		<a class="nolines-white" href="http://www.trains.com/glossary/glossary_search_user.asp?idMenuCategory=2&amp;idMenuSubCategory=27&amp;idMenuMinorCategory=2704" target="_top">glossary</a> &nbsp;&nbsp;
+		<a class="nolines-white" href="http://www.trains.com/content/static/aboutus.asp" target="_top">about us</a> &nbsp;&nbsp;
+		<a class="nolines-white" href="http://www.trains.com/content/static/contactus.asp" target="_top">contact us</a> &nbsp;&nbsp;
+		<a class="nolines-white" href="http://www.trains.com/content/static/privacy.asp" target="_top">privacy policy</a> &nbsp;&nbsp;
 		<a class="nolines-white" href="http://corporate.kalmbach.com/kalmbach/jobs/jobs_opportunities.asp?action=details&amp;job=10" target="_top">employment</a> &nbsp;&nbsp;
-		<a class="nolines-white" href="/content/static/adinfo.asp" target="_top">advertising info</a> &nbsp;&nbsp;
-		<a class="nolines-white" href="/content/static/sitemap.asp" target="_top">site map</a> &nbsp;					
+		<a class="nolines-white" href="http://www.trains.com/content/static/adinfo.asp" target="_top">advertising info</a> &nbsp;&nbsp;
+		<a class="nolines-white" href="http://www.trains.com/content/static/sitemap.asp" target="_top">site map</a> &nbsp;					
 		</font>
 	</td>
 </tr>
