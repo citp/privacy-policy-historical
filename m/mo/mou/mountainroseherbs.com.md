@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainroseherbs.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204193738id_/http%3A//www.mountainroseherbs.com/privicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainroseherbs.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606052556id_/http%3A//www.mountainroseherbs.com/privicy.php) for the most accurate reproduction.*
 
 # Mountain Rose Herbs | Privicy Policy
 
