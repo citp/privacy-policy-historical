@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimaterollercoaster.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094827id_/http%3A//www.ultimaterollercoaster.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimaterollercoaster.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618183541id_/http%3A//www.ultimaterollercoaster.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Ultimate Rollercoaster - Privacy Policy
 
@@ -109,4 +109,4 @@ Ultimate Rollercoaster can in no way guarantee your confidential use of this web
 
 **Questions**
 
-Please direct all questions regarding the Privacy Policy to: [help@ultimaterollercoaster.com](mailto:help@ultimaterollercoaster.com)
+Please [Contact Us](https://web.archive.org/web/20030618183541id_/http%3A//www.ultimaterollercoaster.com/info/contact.shtml) with any questions you may have regarding this Privacy Policy.
