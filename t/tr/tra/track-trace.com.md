@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207114216id_/http%3A//www.track-trace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610170508id_/http%3A//track-trace.com/privacy.html) for the most accurate reproduction.*
 
 # track-trace - Privacy statement
 
@@ -9,7 +9,7 @@ Webfokus is the sole owner of the information collected on this site. We will no
 **Cookies**  
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies are used to store information entered by the users so that they do not have to reenter this information on their next visit. Cookies can be disabled in most browsers preferences. If a user rejects the cookie our site may still be used, the drawback to this is that the user will have to retype information on every visit to our site. 
 
-Some of our business partners use cookies on our site (for example, advertisers), however we have no access to or control over these cookies. You can read the privacy statement of our main advertiser Advertising.com [here](http://www.advertising.com/privacy/privacy.html). 
+Some of our business partners use cookies on our site (for example, advertisers), however we have no access to or control over these cookies. 
 
 **Log files**  
 We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
@@ -27,4 +27,4 @@ If a user elects to use our referral service for informing a friend about our si
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@track-trace.com](mailto:webmaster@track-trace.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@pakkesporing.no](mailto:webmaster@pakkesporing.no)
