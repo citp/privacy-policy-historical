@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the yourgiftzone.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605234903id_/http%3A//www.yourgiftzone.com/cgi-bin/ISStore/main%3FDP%3Dprivacypolicy%26RO%3Daznmasterm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourgiftzone.com privacy policy that was archived on 2004-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041020202247id_/http%3A//www.yourgiftzone.com/cgi-bin/ISStore/main%3FDP%3Dprivacypolicy%26RO%3Dangnchuck) for the most accurate reproduction.*
 
 # 
 
-|   
 ---  
 **Our Privacy Notice**  
 We understand the importance of privacy for our customers. We appreciate your trust all information we collect will be used carefully and sensibly. This notice describes our privacy policy. By visiting this site you are accepting the practices described in this Privacy Notice.   
