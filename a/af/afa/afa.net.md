@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604073119id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217222402id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
 
 # AFA Privacy statement
 
@@ -9,7 +9,7 @@
 
 [](http://www.afafilter.com/cust.htm?13850)
 
-[](https://admin.ecomstores.com/myweboffice/websites/AFAlogin.cfm)
+[](http://www.myownweboffice.com/login.cfm?SignupSiteID=88&Level=0&SubSS=)
 
 |  | 
 
