@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesaurus.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207115200id_/http%3A//www.thesaurus.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesaurus.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602104243id_/http%3A//thesaurus.com/help/privacy.html) for the most accurate reproduction.*
 
 # Thesaurus.com/Privacy Statement
 
@@ -69,6 +69,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 > Customer Service  
 >  Lexico, LLC  
->  554 Rialto Avenue  
->  Venice, CA 90291  
+>  13428 Maxella Avenue, Suite 236  
+>  Marina del Rey, CA 90292  
 >  [webmaster@thesaurus.com](http://www.thesaurus.com/help/forms/webmaster.html?Privacy%20Policy)
