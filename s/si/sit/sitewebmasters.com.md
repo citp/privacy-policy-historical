@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitewebmasters.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004165919id_/http%3A//sitewebmasters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitewebmasters.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605160220id_/http%3A//sitewebmasters.com/privacy.html) for the most accurate reproduction.*
 
 # Creating Fully Integrated Online Stores
 
@@ -81,3 +81,5 @@ If users have any questions or suggestions regarding our privacy policy, please 
 Email: privacy@sitewebmasters.com  
 Postal Address P.O. Box 314, Fair Oaks, CA 95628  
 Web site URL [ www.sitewebmasters.com](http://www.sitewebmasters.com/)
+
+[ ](http://www.rollingover.com/makemoney/now.cgi/SiteWebMasters)
