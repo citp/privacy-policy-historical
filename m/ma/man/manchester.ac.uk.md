@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manchester.ac.uk privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604092616id_/http%3A//www.manchester.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchester.ac.uk privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804233056id_/http%3A//www.manchester.ac.uk/privacy) for the most accurate reproduction.*
 
 # The University of Manchester - Privacy
 
-You are here:  [Home](https://web.archive.org/web/20040604092616id_/http://www.manchester.ac.uk/privacy/index.htm) > Privacy policy 
+You are here:  [Home](https://web.archive.org/web/20040804233056id_/http://www.manchester.ac.uk/privacy/index.htm) > Privacy policy 
 
 ##  Privacy policy 
 
