@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstbanks.com privacy policy that was archived on 2001-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010513022807id_/http%3A//www.firstbanks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstbanks.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202125823id_/http%3A//www.firstbanks.com/privacy.html) for the most accurate reproduction.*
 
 # FIRSTBANKS.COM - Privacy Policy
 
