@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safeco.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622104653id_/http%3A//safeco.com/safeco/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeco.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202215522id_/http%3A//safeco.com/safeco/legal/privacy.asp) for the most accurate reproduction.*
 
 # Safeco - Consumer Privacy Statement
 
@@ -61,6 +61,8 @@ We limit employee access to customer information to those employees with a legit
 #### Your medical information
 
 Safeco obtains medical information only in connection with specific products or claims. We will not use or share personally identifiable medical information for any purpose other than the underwriting or administration of your policy, claim or account, or as otherwise disclosed to you when the information is collected.
+
+This privacy statement may be supplemented by privacy laws in your state which may be more protective than federal privacy laws. In that event, we will protect your information in accordance with state law and you will receive an additional notice explaining your state's privacy laws.
 
 #### This Privacy Statement applies to the following members of the Safeco family of companies:
 
