@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lysol.com privacy policy that was archived on 2004-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040419090529id_/http%3A//lysol.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lysol.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204063129id_/http%3A//www.lysol.com/privacy.html) for the most accurate reproduction.*
 
 # LYSOL®
 
