@@ -1,0 +1,43 @@
+> *The following text is extracted and transformed from the unicru.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212154123id_/http%3A//unicru.com/asp/home/privacy.asp) for the most accurate reproduction.*
+
+# About Unicru : Good Job: Privacy Statement
+
+Employer and job seeker privacy are of paramount importance to Unicru, Inc. Below is information about Unicru's commitment to protecting our employers' and our job seekers' privacy and confidentiality and to ensuring the integrity of the medium.
+
+Unless expressly permitted by the job seeker, all of the information of that job seeker will be held confidential and will not be transferred to any company or individual. Unicru will not sell or otherwise distribute the job seeker's identity or associated information without the consent of the job seeker.
+
+Registration- To register with Unicru, personal information (name, address and contact information) and job preference information is collected. This information is utilized to facilitate matching job seekers with open job requisitions.
+
+Use of Information - The information collected at Registration is used in an automated process to match job seekers with open job requisitions. The personal and job preference information is only transferred to employers with open job requisitions as permitted by the job seeker. See the Active Status section below for the specific details on job seeker information transfer permission. Job Seeker information is not transferred to any outside parties other than registered employers.   
+Unicru may periodically use the contact information provided to notify registered job seekers of updates to the web site and, specifically, any modification to this Privacy Policy, including how information is collected and used.   
+Unicru will provide its collected data to law enforcement agencies if legally required to do so pursuant to law, court order or other governmental action.
+
+Active Status - By selecting the _send my information to employers_  option at registration, the job seeker’s information will be available for viewing by prospective employers. Only prospective employers with open job requisitions may preview a job seeker with active status. Prospective employers may contact the job seeker that he or she feels might be a potential candidate for open positions. Contact is by telephone or email. A job seeker that has selected the 'active' option still may send their contact information to a prospective employer, if they so choose. At any time, the job seeker has the option to return to the Unicru web site and update their status (See Account Updates and Corrections). Once informed, Unicru will make every effort to promptly alter that job seeker's status. 
+
+Job seekers may also decline to receive any notifications and communications by not entering an email address at the time of registration or by deleting it from their personal information (See Account Updates and Corrections).
+
+Log Files - Unicru logs IP addresses to track and monitor traffic patterns on the web site and to facilitate the diagnosis of potential server and/or web site problems. Information collected includes the web site from which the user is referred and pages viewed. These logs are not used to track or monitor personal information that would identify a user.
+
+Cookies - Unicru utilizes cookies to keep temporary data during the session until the user decides to store data. These cookies are terminated at the end of session or expire at the end of the time out period. A user may reject the cookie and as a result may be required to re-enter information several times. 
+
+Account Updates and Corrections - A job seeker may update or correct their personal information and preferences at anytime. To edit this information the Job Seeker must log in at Unicru. Once logged in, clicking on 'Edit My Account' on the MyUnicru navigation bar enables the job seeker to update or correct their information.
+
+Notification of Changes - Revisions to this policy will be posted on the Unicru web site 30 days prior to the new policy's effective date.
+
+Account Deactivation - If a job seeker does not log in to Unicru for a period of 90 days, their account will be inactivated. Job seekers with inactive accounts will not have their information distributed to prospective employers and will not receive any notifications of changes to the Unicru site and its policies. Deactivated accounts will be purged from our system after 1 year.
+
+Email Notification - Unicru will use job seekers' and employers' email addresses to notify them of changes to the web site and its policies. Unicru may also provide prospective employers with job seekers email addresses only for the purpose of contacting the job seeker regarding a job opportunity. A job seeker can choose not to receive these email notifications by not providing an email address during registration or by removing it from their account information (see Account Updates and Corrections).
+
+Security Policy - Unicru has a security policy to protect against the loss, misuse, or alteration of information collected from Job Seekers. Other than access of this data by prospective employers as permitted by the job seeker, data access is restricted to a limited number of authorized Unicru employees with authenticated usernames and passwords. There is no general access to the data. Unicru conducts weekly internal data security and privacy reviews and has its security systems reviewed annually by an independent 3rd party.
+
+Secure Information Medium - Unicru will make every commercially reasonable effort to ensure that the information medium is adequate to protect the employer's and the job seeker's information. The information medium includes facsimile transmissions to authorized locations on dedicated telephone connections and utilizing SSL (Secure Socket Layers) for browser based communications.
+
+Outside Links - This site contains links to other web sites. Users will be taken to a separate web site if they click on one of these links. Unicru is not responsible for the privacy practices or content of the web sites to which the user may link. All users should review the privacy policy of any web site they visit.
+
+Unicru Partner Sites - Unicru develops and implements co-branded sites to make its products and solutions more broadly available across the Internet. Unicru's current partners include HighWired.com and General Growth Properties.
+
+HighWired.com is a high school centric media network. The company provides easy-to-use Web-based tools for students, teachers, advisors, coaches and alumni. Unicru has established a co-branded job seeker site for use within HighWired.com. Unicru and HighWired.com co-own the questionnaire data, which is defined as the person's name, address, and job related information. Both companies have the right to contact the job seeker and to use this information for statistical and market research purposes. 
+
+General Growth Properties, Inc. (NYSE: GGP) is the nation's second largest self-administered regional mall Real Estate Investment Trust in the United States. Unicru and General Growth Properties (GGP) have produced a co-branded job site designed to bring job seekers and mall tenants together (on the Internet at Mallibu.com and inside GGP malls at MallibuDirect kiosks). Unicru provides reporting of certain collected aggregate data to GGP for GGP's internal, nonexclusive use. Unicru does not provide the job seeker's name and related information to GGP. Unicru has sole and complete ownership of the job seeker's name and related information.
+
+All confidential business oriented information that Unicru learns from the employers we work with will be treated as confidential information and, hence, not shared with any other company, news source, or individual unless expressly permitted to do so by a responsible person in the employer's organization. Unless otherwise contractually stated, the employer owns the data associated with the identity of the job seeker that has applied at the employer's location or electronic equivalent. Unicru will not transfer the job seeker's information to any other companies. Further, Unicru will not disclose any information about the employer's job seekers to any parties that the employer has not authorized. However, Unicru will have title to all of the job seekers for all of the Company's employers "in aggregate" for purposes of analyzing and reporting trends, personnel research, testing new products and validation studies. "In aggregate" job seeker data will not be identified with any specific employer nor with any specific job seeker. 
