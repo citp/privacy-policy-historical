@@ -1,45 +1,39 @@
-> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409083847id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217183825id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
 
 # ESRI Web Site Privacy Policy
 
-ESRI respects the privacy of every individual who visits our Web sites or responds to our interactive advertisements. This Privacy Policy outlines the information ESRI collects via its various Web sites and how we use that information. This policy statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit ESRI's Web sites or respond to our advertisements.
+ESRI values the privacy of those who visit our Web sites and register for our software and services online. We think it is important for you to understand when and why we collect personally identifiable information, and how we may use it. This Privacy Statement describes ESRI data collection and use policies. Please read the entire Privacy Statement before providing any personally identifiable information to us.
 
-### Personally Identifiable Information
+### Notice
 
-ESRI collects personally identifiable information such as your name, address, telephone number, or E-mail address **only** if you provide that information to us voluntarily.
+ESRI collects personally identifiable information such as your name, address, telephone number, or E-mail address only if you provide this information to us voluntarily. The voluntary information we collect is used for internal verification to complete transactions, insure appropriate legal use of licensed ESRI software, provide notification to licensees about updates to ESRI software, and to help provide technical and product support to our users. Where appropriate, ESRI may pass this data to the exclusive ESRI International Distributor who provides the above services in your country.
 
-The voluntary information we collect is used for internal review and to notify visitors about updates to our Web site. We will contact you or send you information about our software or services **only** if you request that we do. If you have given us permission to do so, we will pass your information to one of our [Business Partners](https://web.archive.org/partners/index.html) to contact you about software or services. **We will not forward your information unless you request that we do so.**
+ESRI may also use your name, address, and E-mail to send you marketing materials, user conference information, and newsletters, unless you notify us that you do not want to receive these materials. Occasionally, ESRI uses the services of bonded mailing houses that are authorized to use your personally identifiable data only for the benefit of ESRI. 
 
-Otherwise, ESRI generally will not disclose your personally identifiable information unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law; (2) protect and defend the rights or property of ESRI.
+### Collection
 
-**ArcData Online**  
-When you buy data through ArcData Online that has been provided by a third party, such as GDT or HTI, you license the data directly from the data provider. For this reason we make the customer information necessary to create the license available to the data provider. This information includes the name, organization, and E-mail address of the customer and is used to track active data licenses and provide customer support.
+Certain information, such as the Internet protocol address of your computer, may be stored through the use of "cookies" intended to speed access to ESRI information and services. A cookie is a short piece of data that can be used to tell us when you visit our Web sites and can track your browsing habits. ESRI does not use cookies to store information such as credit card numbers, telephone numbers, or other sensitive information. A cookie is not an executable program and cannot do anything to your machine. To maintain your privacy, you can disable your browser's ability to accept cookies.
 
-### Information Collected Automatically
+During the installation process for certain ESRI software, information may be placed on your hard drive. This is done to enable the proper functioning of the software and to insure it is used only when properly licensed. Certain ESRI sites and software installation may require registration to gain access to special services, license keys, or other features. This information will be used to provide support and deliver specialized services.
 
-We collect your domain name (such as esri.com), the type of Internet browser you use, and the operating system you use automatically. This information is used **only** for internal review to help us improve the content of our Web page. The information is not shared with any other company or used by ESRI to contact clients.
+ESRI also collects personally identifiable information you provide when you order and register software, data, or services; enter contests; order newsletters; register for training or conferences; or make requests that require a direct response to you.
 
-### Children
+### Choice
 
-ESRI does not intentionally collect personally identifiable information such as name, address, telephone number, or E-mail address from children. However, users of any age can download our free software or take one of our online training courses, both of which require a name and E-mail address.
+ESRI will contact you or send you marketing information about software or services unless you notify ESRI that you do not wish to receive it. You may notify us by sending an E-mail to [info@esri.com](https://web.archive.org/web/20011217183825id_/http%3A//www.esri.com/company/moreinfo.html) as indicated below. Keep in mind, however, that you may not receive information on the ESRI User Conference or other valuable information as a result of your election to be removed from mailing lists
 
-If a child has provided us with personally identifiable information and the parent or guardian of that child would like that information deleted from our records, the parent or guardian should contact us at [webmaster@esri.com](mailto:webmaster@esri.com). We will use reasonable efforts to delete the child's information from our existing files.
+Other than as described in this Privacy Statement, ESRI will not disclose your personally identifiable information unless required to do so by law or in the good faith belief that such action is necessary to (1) conform to the edicts of the law, (2) protect and defend the rights or property of ESRI, (3) or as part of a transfer of assets to a successor in interest.
 
-### Information We May Place Automatically On Your Computer's Hard Drive
+Except as stated herein, ESRI's corporate policy is not to rent, sell, or otherwise permit access by third parties to databases comprised of your personally identifiable information.
 
-Some of our Web sites store some information on your computer in the form of a "cookie." These are used to store information you provide to prevent you from having to enter that same information repeatedly and to help us collect minimal information to maintain and improve our site.
+### Access
 
-**Cookies cannot be used to collect personal information about you, to collect information from your files, or to do damage to your files.** A cookie is a single line of code with very limited functions. For more information about cookies, we recommend visiting <http://www.ciac.org/ciac/bulletins/i-034.shtml>.
+ESRI will permit you to access information about you in our database by contacting [info@esri.com](https://web.archive.org/web/20011217183825id_/http%3A//www.esri.com/company/moreinfo.html). If you believe any of the information is incorrect or needs updating, please advise us. We will correct our records upon verification of the requested change. If you no longer wish to receive E-mail or postal notifications about software, services, or special promotions, please let us know by sending E-mail to us at [info@esri.com](https://web.archive.org/web/20011217183825id_/http%3A//www.esri.com/company/moreinfo.html) and specify that you do not want to receive these notifications. Please provide us with your exact name and address as well as a description of the publication or mail piece you received. We will use reasonable efforts to refrain from including you when sending marketing materials to ESRI clients by noting your election in our database.
 
-With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
+### Security
 
-### Links to Other Web sites
+ESRI will take reasonable and prudent precautions to insure that your personally identifiable data is protected against unauthorized access, use, or disclosure.
 
-The ESRI site offers links to hundreds of GIS-related Web sites. ESRI assumes no responsibility for the information practices of these sites, and these links do not imply affiliation or endorsement of the linked sites. 
+### Enforcement
 
-### Removing Your Information from Our Databases
-
-If you do not wish to receive E-mail or postal notifications about our software, services, or special promotions, please let us know by sending E-mail to us at [webmaster@esri.com](mailto:webmaster@esri.com) and specifying us that you do not want to receive these notifications. Please provide us with your exact name and address as well as a description of the publication or mail piece you received. We will use reasonable efforts to delete this information from our existing files.
-
-**ESRI Virtual Campus**  
-If you have taken a course on the ESRI Virtual Campus and would now like to be removed from our database, please send your request to [campus@esri.com](mailto:campus@esri.com).
+If you believe for any reason that ESRI has not followed these principles, please contact us at [info@esri.com](https://web.archive.org/web/20011217183825id_/http%3A//www.esri.com/company/moreinfo.html) and ESRI will act promptly to investigate, correct as appropriate, and advise you of the correction. Please identify the issue as a Privacy Policy concern in your communication to ESRI.
