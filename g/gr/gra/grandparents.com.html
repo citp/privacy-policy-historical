@@ -1,0 +1,166 @@
+<!--The following is the downloaded HTML source of the grandparents.com privacy policy that was archived on 2003-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030920142604id_/http%3A//grandparents.com/privacy/) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html40/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Grandparents.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="/index.css" type="text/css">
+<link rel="stylesheet" href="/photos.css" type="text/css">
+<link rel="stylesheet" href="/mboard/xuppa.mb.css" type="text/css">
+<script language="JavaScript" type="text/javascript">
+
+if (document.getElementById) {
+  fs = parseInt(readCookie('fontSize'));
+  if (!fs>0) fs=13;
+    setSizes();
+}
+function init() {
+//  setSizes();
+  changeType();
+}
+
+// this changes the sizes of the various elements relative to the fs
+function setSizes() {
+  body_fs = fs;
+  h1_fs = body_fs+20;
+  h2_fs = body_fs+10;
+  h3_fs = body_fs+5;
+  p_fs = body_fs;
+  }
+
+function changeType() {
+  if (!document.getElementsByTagName) {return false;} // unclean! unclean!
+  setStyleByTag('div','fontSize',body_fs+'px');
+  setStyleByTag('h1','fontSize',h1_fs+'px');
+  setStyleByTag('h2','fontSize',h2_fs+'px');
+  setStyleByTag('h3','fontSize',h3_fs+'px');
+  setStyleByTag('li','fontSize',p_fs+'px');
+  setStyleByTag('p','fontSize',p_fs+'px');
+
+  setCookie('fontSize',fs);
+  }
+function increaseSize() {
+  if (body_fs<17) {
+    fs+=1;
+    setSizes();
+    changeType();
+    }
+  }
+
+function decreaseSize() {
+  if (body_fs>9) {
+    fs-=1;
+    setSizes();
+    changeType();
+    }
+  }
+
+function setCookie(cookieName,cookieValue) {
+  var today = new Date();
+  var expire = new Date();
+  expire.setTime(today.getTime() + 3600000*24*3000);
+  document.cookie = cookieName+"="+escape(cookieValue) + "; path=/; domain=.grandparents.com" + "; expires="+expire.toGMTString();
+  }
+
+function readCookie(cookieName) {
+  var theCookie=""+document.cookie;
+  var ind=theCookie.indexOf(cookieName);
+  if (ind==-1 || cookieName=="") return "";
+  var ind1=theCookie.indexOf(';',ind);
+  if (ind1==-1) ind1=theCookie.length;
+  return unescape(theCookie.substring(ind+cookieName.length+1,ind1));
+  }
+
+function setStyleByTag(e, p, v) {
+  var elements = document.getElementsByTagName(e);
+  for(var i = 0; i < elements.length; i++) {
+    elements.item(i).style[p] = v;
+    }
+  }
+function load_popwin() {
+  popupss=window.open("","member win","height=265,width=280,left=0,top=0");
+  popupss.document.write("<html><title>Membership Info.</title><body bgcolor=><img src=/images/gp.logo.png border=0><br>Membership is $18 per year and the benefits will save you well over the cost of membership with your first few purchases at our marketplace! You'll have access to money-saving offers that are only available to our Premier Members.</body></html>");
+  }
+</script>	
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" onload="init()">
+<center>
+<table cellspacing="0" cellpadding="0" border="0" width="742">
+  <tbody><tr>
+    <td>
+      <div id="header" style="font-size: 13px;"><a href="http://www.grandparents.com/?"><img src="/images/gp.logo.png" border="0" align="left" width="243" height="99" id="logo" alt="grandparents.com - connecting generations"></a><img src="/images/gp.head.jpg" border="0" width="470" height="108" alt="Grandparents with grandchild"></div>
+      <div id="search" style="font-size: 13px;">
+        <form action="/cgi-local/search.cgi" method="get"><img src="/images/search.label.png" border="0" alt="Search:">
+          <input type="text" name="keyword" size="30">
+          <input type="hidden" name="partnerid" value="gp">
+          <input type="hidden" name="filter" value="1">
+          
+          <input type="submit" name="submit" value="&nbsp;&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;&nbsp;">
+        </form></div>
+      <div id="functions" style="font-size: 13px;">
+        <form style="float:right;" action="" name="targeter" onsubmit="return false;">Print Size: <input type="button" id="textDown" onclick="decreaseSize()" value="Smaller" class="smaller"><input type="button" id="textUp" onclick="increaseSize()" value="Bigger" class="bigger"></form>
+        
+      <div id="login" style="font-size: 13px;"><a href="/login/?"><img src="/images/login.signin.png" border="0" alt="Sign-in" title="Sign-in to grandparents.com"></a><a href="/register/?"><img src="/images/login.register.png" border="0" alt="Register" title="Register at grandparents.com"></a></div>
+        				
+        <div style="font-size: 13px;"></div>
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+  <table align="center" id="sections" cellspacing="0" cellpadding="0" border="0" width="742">
+    <tbody><tr>
+      <td class="section" valign="top">
+        <div class="head search" style="font-size: 13px;">
+          <a href="/?"><img src="/images/section.privacy.big.png" border="0" align="left" alt="Community"></a>
+        </div>
+      </td>
+    </tr>
+  </tbody></table>
+  <table align="center" id="generic" cellspacing="0" cellpadding="0" border="0" width="741">
+    <tbody><tr>
+      <td class="section" valign="top">
+        <img src="/images/g.top.jpg" align="right">
+        <p style="font-size: 13px;"></p><h2 style="font-size: 23px;">Grandparents.com Privacy Policy</h2><p style="font-size: 13px;"></p>
+        <p style="font-size: 13px;">
+        Grandparents.com is committed to protecting the privacy of our online visitors. This privacy policy discloses the privacy practices governing the use of information submitted to Grandparents.com through this web site. </p>
+						
+       <p style="font-size: 13px;"></p><h2 style="font-size: 23px;">Information Usage and Sharing</h2><p style="font-size: 13px;"></p>
+       <p style="font-size: 13px;">
+        Grandparents.com values your patronage and respects your right to privacy. Because we are committed to protecting your privacy, personal data relating to an identified or identifiable individual that is submitted to this web page will be collected, processed stored, and disposed of in accordance with applicable U.S. law. However, U.S. law may not provide the degree of protection to personal data, which is available in other countries. The submission of personal data constitutes the User’s acknowledgement that he/she has read and understood this notice, and agrees to its terms. In order to facilitate the purchase of goods online or to update visitors of new products or services, Grandparents.com may share certain individual information with our partners. Grandparents.com may share non-personal, non-individual information in aggregate form with unaffiliated third parties for marketing or research purposes. Should our records be subpoenaed, we will act in accordance with our legal counsel’s advice and handle each matter on a case-by-case basis.</p>
+						
+       <p style="font-size: 13px;"></p><h2 style="font-size: 23px;">Cookies </h2><p style="font-size: 13px;"></p>
+       <p style="font-size: 13px;">
+        Grandparents.com uses cookie technology to increase the ease of use of the web site. When you make selections or set preferences on our site, the site will send a request to your browser to record some of your selections in a "cookie" file. The cookie is a small text file that resides on your hard drive. From time to time, our site will request the cookie from your browser so we can retrieve the stored information and you do not have to repeatedly enter information. Should you choose not to accept these cookies you may not be able to use portions of our site.</p>
+       <p style="font-size: 13px;">
+        Grandparents.com never uses cookies to store credit card information, nor is the information we store in the cookie intended to be read by any other web site.</p>
+       <p style="font-size: 13px;">
+        Many browsers allow users to set the preferences to show a warning each time a cookie request is received. You can also set most browsers not to accept cookies at all.</p>
+       <p style="font-size: 13px;">
+        At times, some of the advertisers on our site set cookies when you select their ad banner. We do not receive the data collected by those cookies.</p>
+						
+       <p style="font-size: 13px;"></p><h2 style="font-size: 23px;">Policy Changes</h2><p style="font-size: 13px;"></p>
+       <p style="font-size: 13px;">
+         As Grandparents.com grows and new features are added or legal requirements change, this privacy policy may be modified. Although all information submitted to Grandparents.com is subject to the terms and conditions of this policy and any modifications, you may remove or restrict access to your account by updating your account information at www.grandparents.com Any changes to the Grandparents.com privacy policy will be posted online.</p>
+       <p style="font-size: 13px;">
+        If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at <a href="mailto:info@grandparents.com">info@grandparents.com</a>
+       </p>						
+     </td>
+   </tr>
+  </tbody></table>
+  <div id="sendFriend" style="font-size: 13px;">
+  <a href="/SendToFriend.cgi?"><img src="/images/button.send.png" border="0"></a>
+</div>
+<table cellspacing="0" cellpadding="0" border="0" width="742">
+  <tbody><tr>
+    <td>
+      <div id="footer" style="font-size: 13px;">
+	©2003 grandparents.com. <a href="/copyright/?">all rights reserved</a>. <a href="/privacy/?">privacy policy</a>. <a href="/about_us/?">about us</a>.
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+</center>
+
+
+</body></html>
