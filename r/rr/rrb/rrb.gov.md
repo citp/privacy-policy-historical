@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210002038id_/http%3A//rrb.gov/policy.html%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309231546id_/http%3A//www.rrb.gov/policy.html%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Internet Privacy Policy and Email Notice
 
@@ -35,7 +35,7 @@ If Federal laws (e.g., Privacy Act, Railroad Retirement Act, or the Railroad Une
 
 Your access to the information we collect about you
 
-You may have access to any of the information we collect about you at this site. We’ll correct any errors you may find. If you need to get or correct information about you, see  [How to Obtain Records about Yourself](https://web.archive.org/web/20041210002038id_/http%3A//rrb.gov/bis/privacy_act/PAyourself.html). 
+You may have access to any of the information we collect about you at this site. We’ll correct any errors you may find. If you need to get or correct information about you, see  [How to Obtain Records about Yourself](https://web.archive.org/web/20050309231546id_/http%3A//www.rrb.gov/bis/privacy_act/PAyourself.html). 
 
 How we protect the security of the information we collect
 
