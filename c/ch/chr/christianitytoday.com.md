@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208084500id_/http%3A//www.christianitytoday.com/help/features/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604154747id_/http%3A//www.christianitytoday.com/help/features/privacy.html) for the most accurate reproduction.*
 
 # ChristianityToday.com - Help & Info - Privacy Policy
 
@@ -19,6 +19,9 @@ Requests for Magazines, Products or Services
 When you request a magazine, product or service from us, we need to collect and store your name, address, and other basic personally identifiable information to provide you with the requested product or service and for billing purposes. Collecting your name and address will also enable us to offer you, by direct mail, products from Christianity Today International and other select sources that we think would be of interest to you. After receiving the product or service requested, you may "opt-out" of receiving these direct mail offers by sending an e-mail stating your request to opt-out along with your complete name, mailing address, and the name of the Christianity Today International magazine, product, or service you receive to [CTIFulfill@ChristianityToday.com](mailto:CTIFulfill@christianitytoday.com). This information is necessary so we can accurately process your request.
 
 Your e-mail address will be obtained during the online ordering process for the purpose of corresponding with you about your purchase and to occasionally notify you of additional online shopping opportunities. You may opt-out of receiving any subsequent shopping opportunities by following the unsubscribe information found in each e-mail announcement. Again, we will not rent, sell, or exchange your e-mail address with a third party for any purpose.
+
+Credit Card Safety  
+Ordering online with us is a secure transaction. All online transactions in the ChristianityToday.com Store are handled with industry-standard SSL encryption. This means that when you enter your credit card number into the order form, it is transmitted across the Internet in an encrypted (scrambled) form, then decoded when it gets to us.
 
 Kids and Teens  
 Be sure to ask your parents for permission before you send us any information about yourself. Do not post your full name, address, phone number, or school name on any message board or in any chat room.
