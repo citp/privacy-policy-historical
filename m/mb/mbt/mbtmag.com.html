@@ -1,0 +1,821 @@
+<!--The following is the downloaded HTML source of the mbtmag.com privacy policy that was archived on 2005-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050308183022id_/http%3A//www.mbtmag.com/reader_services/privacypolicy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>Manufacturing Business Technology</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="MSI is where business leaders research applications used in manufacturing. MSI's editorial focuses on the use of information technology to improve business and production processes.">
+<meta name="keywords" content="rfid, msi, manufacturing systems, manufacturing, supply chain, sourcing, application service provider, business intelligence, collaborative product commerce, product life-cycle management, product lifecycle management, product life cycle management, plm, customer relationship management, crm, enterprise application integration, enterprise asset management, enterprise resources planning, erp, financial software, flow manufacturing, forecasting, manufacturing execution systems, mes, e-business, ebusiness, supply chain execution, sce, inventory management, warehouse, trade exchange">
+<link href="/MSI2005.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#EBEBE5" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onresize="resetMenu();">
+<table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td width="100%" valign="top" bgcolor="#A6A194"><script language="JavaScript">
+<!--
+	var ready="no";
+	var currentMenu="";
+	var layerRef;
+	var layerStyle;
+	var ButtonHeight;
+
+	var MenuLayer_y=0;
+		
+	var MenuLayer_CurrentIssue_x=0;
+	var MenuLayer_Resources_x=0;
+	var MenuLayer_CustomPub_x=0;
+	var MenuLayer_ReaderServices_x=0;
+	var MenuLayer_AdvertiserServices_x=0;
+	
+	var IE4up = (document.all) ? true:false; // MSIE 4.0 and up
+	var NS4 = (document.layers) ? true:false; // Netscape Navigator Version 4.x
+	var W3C = (!document.all && document.getElementById) ? true:false // W3C Compliant (eg NS6)
+	
+	var objCur;
+	
+
+	if(W3C){
+	layerRef = "document.getElementById('";
+	layerStyle = "').style";
+	}
+	
+	if (NS4){
+	layerRef = "document.layers.";
+	layerStyle = "";
+	}
+	
+	if (IE4up){
+	
+	layerRef = "document.all.";
+	layerStyle = ".style";
+	}
+	
+	
+	function showLayer(layerName){
+	
+		objCur = eval(layerRef + layerName + layerStyle);	
+		objCur.visibility='visible';
+	
+	}
+	
+	
+	function hideLayer(layerName){
+		
+			objCur = eval(layerRef + layerName + layerStyle);
+			if (document.layers){objCur.visibility="hide";}
+			else{objCur.visibility="hidden";}
+	}
+	
+	function shiftTo(layerName,x, y) {
+	
+	    if (NS4) {
+			objCur = eval(layerRef + layerName + layerStyle);
+	        objCur.moveTo(x,y);
+	
+	    } 
+		
+		if (IE4up) {
+			objCur = eval(layerRef + layerName + layerStyle);
+	        objCur.pixelLeft = x;
+	        objCur.pixelTop = y;
+	    }
+		
+		if (W3C) {
+			objCur=eval(layerRef + layerName + layerStyle);
+			objCur.left = x + "px";
+			objCur.top = y + "px";
+		}
+		
+	}
+	
+	function showMenu(layerName){
+	
+	if (ready=='yes'){
+
+	var strFullLayerName="MenuLayer_" + layerName;
+	
+	if (currentMenu!=""){
+		if (strFullLayerName!=currentMenu){hideMenu(currentMenu);}
+	}
+	
+	var strMenuButton="MenuButton_" + layerName;
+	var strLongestMenuButton="MenuButton_CurrentIssue"
+	var buttonX;
+	
+	buttonX=eval("MenuLayer_"+layerName+"_x");
+
+	var ButtonLocationX;
+	var ButtonLocationY;
+	var ButtonWidth;
+
+	
+	var PopupWidth;
+
+	if (buttonX==0){ 
+
+	    if (document.layers) {  
+		  buttonX=x-15;
+	    }
+	    else if (document.all) {
+			objCur=eval(strMenuButton);
+			ButtonLocationX=getOffsetLeft(objCur);
+			ButtonWidth = objCur.offsetWidth;
+
+			objCur = eval("document.all." + strFullLayerName);
+			PopupWidth = objCur.offsetWidth;
+			
+			buttonX=(ButtonLocationX+(ButtonWidth/2)) - (PopupWidth/2)
+	    }
+	    else if (document.getElementById) {
+			objCur = eval('document.getElementById("' + strMenuButton + '")');
+			ButtonLocationX=getOffsetLeft(objCur);
+			ButtonWidth = objCur.offsetWidth;
+
+			objCur = eval('document.getElementById("' + strFullLayerName + '")');
+			PopupWidth = objCur.offsetWidth;
+
+			
+			buttonX=(ButtonLocationX+(ButtonWidth/2)) - (PopupWidth/2)
+	    }
+
+		eval("MenuLayer_"+layerName+"_x="+buttonX);
+		}
+		
+	if (MenuLayer_y==0){
+
+		if (document.layers) {  
+		  MenuLayer_y=y+13;
+	    }
+	    else if (document.all) {
+			objCur=eval(strLongestMenuButton);
+			ButtonLocationY=getOffsetTop(objCur);
+			ButtonHeight = objCur.offsetHeight;
+			MenuLayer_y=ButtonLocationY+ButtonHeight;
+	    }
+	    else if (document.getElementById) {
+			objCur = eval('document.getElementById("' + strLongestMenuButton + '")');
+			ButtonLocationY=getOffsetTop(objCur);
+			ButtonHeight = objCur.offsetHeight;
+			MenuLayer_y=ButtonLocationY+ButtonHeight;
+
+	    }
+	}
+	
+	shiftTo(strFullLayerName,buttonX,MenuLayer_y);
+	showLayer(strFullLayerName);
+	currentMenu=layerName;
+	
+	}
+	
+	}
+	
+	function hideMenu(layerName){
+	var strFullLayerName="MenuLayer_" + layerName;
+	if (strFullLayerName!="MenuLayer_"){hideLayer(strFullLayerName);}
+	}
+	
+	function clearMenus(){
+		if (currentMenu!=""){
+			
+			var intWidth;
+			var intHeight;
+			var xLoc;
+			
+			var strFullLayerName="MenuLayer_" + currentMenu;
+			
+			xLoc=eval("MenuLayer_"+currentMenu+"_x");
+			
+		    if (document.layers) {
+		      objCur = eval("document." + strFullLayerName);
+		      intWidth = objCur.document.width;
+		      intHeight = objCur.document.height;
+		    }
+		    else if (document.all) {
+		      objCur = eval("document.all." + strFullLayerName);
+			  intWidth = objCur.offsetWidth;
+		      intHeight = objCur.offsetHeight;
+		    }
+		    else if (document.getElementById) {
+			  objCur = eval('document.getElementById("' + strFullLayerName + '")');
+		      intWidth = objCur.offsetWidth;
+		      intHeight = objCur.offsetHeight;
+		    }
+
+			
+			if(x > xLoc +intWidth+3){ 
+			
+				hideMenu(currentMenu);
+				currentMenu="";
+			
+			 }
+			 
+			if(x < xLoc-3){ 
+			
+				hideMenu(currentMenu);
+				currentMenu="";
+			
+			 }
+			 
+			if(y > MenuLayer_y +intHeight+3){
+			
+				hideMenu(currentMenu);
+				currentMenu="";			
+			
+			}
+			
+			if(y < MenuLayer_y - ButtonHeight - 3){
+
+				hideMenu(currentMenu);
+				currentMenu="";			
+			
+			}
+
+		}
+	}
+
+if(document.layers){ document.captureEvents(Event.MOUSEMOVE) }
+if(document.all||document.layers){ document.onmousemove=mouseMove }
+if(W3C){ document.addEventListener('mousemove', mouseMove, true) }
+
+
+function mouseMove(ev){
+
+	if (ready=='yes'){
+	    if(!ev)ev = window.event;
+	    if(typeof ev.pageY == 'number'){  //mozilla,  Netscape, Opera 7
+	        x = ev.pageX;
+	        y = ev.pageY;
+	    }else{  // IE, Opera <= 6
+	        x = ev.clientX;
+	        y = ev.clientY;
+	        if(!self.opera){  //not Opera <= 6
+	            if((!document.compatMode)||
+	              (document.compatMode == 'BackCompat')){
+	                x += document.body.scrollLeft;
+	                y += document.body.scrollTop;
+	            }else{
+	                x += document.documentElement.scrollLeft;
+	                y += document.documentElement.scrollTop;
+	            }
+	        }
+	    } //window.status = "X: " + x + " Y: " + y;
+		
+		clearMenus();
+	
+	}
+}
+
+
+	
+function getOffsetLeft (el) {
+  var ol = el.offsetLeft;
+  while ((el = el.offsetParent) != null)
+    ol += el.offsetLeft;
+  return ol;
+}
+
+function getOffsetTop (el) {
+  var ot = el.offsetTop;
+  while((el = el.offsetParent) != null)
+   ot += el.offsetTop;
+  return ot;
+}
+
+function resetMenu(){
+
+	MenuLayer_y=0;
+		
+	MenuLayer_CurrentIssue_x=0;
+	MenuLayer_Resources_x=0;
+	MenuLayer_CustomPub_x=0;
+	MenuLayer_ReaderServices_x=0;
+	MenuLayer_AdvertiserServices_x=0;
+}
+
+//-->
+</script>
+<!-- begin menu layers -->
+<div id="MenuLayer_CurrentIssue" class="MenuLayer">
+<table border="0" cellpadding="0" cellspacing="1" bgcolor="#5B584F"><tbody><tr><td>
+<table cellpadding="0" cellspacing="1" border="0" bgcolor="#F7F7F4" width="140">
+<tbody><tr><td align="center"><a href="/current_issues/contents.asp" class="PopupMenuItem">Contents</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/current_issues/views1.asp" class="PopupMenuItem">Views</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/current_issues/coverstory1.asp" class="PopupMenuItem">Cover&nbsp;story</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/current_issues/appserv1.asp" class="PopupMenuItem">Applications &amp; Services</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/current_issues/busperf1.asp" class="PopupMenuItem">Business Performance</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/current_issues/integinfra1.asp" class="PopupMenuItem">Integration &amp; Infrastructure</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/current_issues/secwire1.asp" class="PopupMenuItem">Security Wireless</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/current_issues/col1.asp" class="PopupMenuItem">Columnists</a></td></tr></tbody></table>
+</td></tr></tbody></table>
+</div>
+<div id="MenuLayer_Resources" class="MenuLayer">
+<table border="0" cellpadding="0" cellspacing="1" bgcolor="#5B584F"><tbody><tr><td>
+<table cellpadding="0" cellspacing="1" border="0" bgcolor="#F7F7F4" width="180"><tbody><tr><td align="center"><a href="/resources/TechBroadcast/default.asp" class="PopupMenuItem">Executive&nbsp;Broadcast</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/resources/software_finder/assets_sorted.asp" class="PopupMenuItem">Case Studies / White Papers</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/resources/Software_finder/default.asp" class="PopupMenuItem">Software Finder</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/current_issues/2004/july/top1001.asp" class="PopupMenuItem">Top&nbsp;100</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/current_issues/2004/oct/global25.asp" class="PopupMenuItem">Global&nbsp;25</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="http://www.mbtmag.com/techeval/" class="PopupMenuItem">Technology&nbsp;Evaluation&nbsp;Center</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="http://www.msimag.com/resources/glossary/default.asp" class="PopupMenuItem">Glossary</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/resources/events/default.asp" class="PopupMenuItem">Events</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/flipmag/default.asp" class="PopupMenuItem">Digital Edition</a></td></tr></tbody></table>
+</td></tr></tbody></table>
+</div>
+<div id="MenuLayer_CustomPub" class="MenuLayer">
+<table border="0" cellpadding="0" cellspacing="1" bgcolor="#5B584F"><tbody><tr><td>
+<table cellpadding="0" cellspacing="1" border="0" bgcolor="#F7F7F4" width="125"><tbody><tr><td align="center"><a href="/custompub" class="PopupMenuItem">E-Newsletters</a></td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<div id="MenuLayer_ReaderServices" class="MenuLayer">
+<table border="0" cellpadding="0" cellspacing="1" bgcolor="#5B584F"><tbody><tr><td>
+<table cellpadding="0" cellspacing="1" border="0" bgcolor="#F7F7F4" width="150"><tbody><tr><td align="center"><a href="/reader_services/" class="PopupMenuItem">Subscriptions</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/reader_services/editorialteam.asp" class="PopupMenuItem">Editorial Submission</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/reader_services/contactinfo.asp" class="PopupMenuItem">Contact Information</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/reader_services/privacypolicy.asp" class="PopupMenuItem">Privacy Policy</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="mailto:mbtonlinenews@reedbusiness.com" class="PopupMenuItem">Submit company news</a></td></tr>
+</tbody></table>
+</td></tr></tbody></table></div>
+<div id="MenuLayer_AdvertiserServices" class="MenuLayer">
+<table border="0" cellpadding="0" cellspacing="1" bgcolor="#5B584F"><tbody><tr><td>
+<table cellpadding="0" cellspacing="1" border="0" bgcolor="#F7F7F4" width="150"><tbody><tr><td align="center"><a href="/adservices/mediakit/mbt05Media_Kit.PDF" class="PopupMenuItem">Media&nbsp;kit</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/adservices/MSI_online.pdf" class="PopupMenuItem">Online&nbsp;Products&nbsp;Guide</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/adservices/salesreps.asp" class="PopupMenuItem">Sales&nbsp;representatives</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/adservices/bpa.pdf" class="PopupMenuItem">BPA&nbsp;audit</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/adservices/mbt05Edit_Cal_full.PDF" class="PopupMenuItem">Editorial&nbsp;calendar</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/adservices/datacard.pdf" class="PopupMenuItem">Data&nbsp;card</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="/adservices/mediakit/MBTChina05mediakit.pdf" class="PopupMenuItem">MBT China Media&nbsp;kit</a></td></tr>
+<tr><td bgcolor="#5B584F"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td align="center"><a href="mailto:mbtonlinenews@reedbusiness.com" class="PopupMenuItem">Submit company news</a></td></tr>
+</tbody></table>
+</td></tr></tbody></table></div>
+<!-- end menu layers -->
+<script language="JavaScript">
+<!--
+
+ready='yes';
+
+//-->
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="325" valign="top"><a href="/"><img src="/images/nav/HP_topimageLeft_0105.jpg" width="305" height="120" border="0"></a></td><td width="100%" valign="top" background="/images/nav/HP_topimageRight_0105.jpg">
+<!-- contents of top right section go here -->
+<table border="0" cellpadding="0" cellspacing="0" width="468" align="right">
+<tbody><tr><td colspan="2"><img src="/images/trans.gif" width="468" height="1"></td></tr>
+<tr><td><img src="/images/trans.gif" width="1" height="3"></td><td rowspan="4" width="6"><img src="/images/trans.gif" width="6" height="3"></td></tr>
+<tr><td>
+<iframe src="http://view.atdmt.com/RSC/iview/msxxiint0380000067rsc/direct/01?click=" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="468" height="60">
+<script language="JavaScript" type="text/javascript">
+document.write('<a href="http://clk.atdmt.com/RSC/go/msxxiint0380000067rsc/direct/01/" target="_blank"><img src="http://view.atdmt.com/RSC/view/msxxiint0380000067rsc/direct/01/"/></a>');
+</script><noscript><a href="http://clk.atdmt.com/RSC/go/msxxiint0380000067rsc/direct/01/" target="_blank"><img border="0" src="http://view.atdmt.com/RSC/view/msxxiint0380000067rsc/direct/01/" /></a></noscript></iframe>
+</td></tr>
+<tr><td><img src="/images/trans.gif" width="1" height="20"></td></tr>
+<tr><td height="30" width="468" valign="bottom" align="right"><form style="margin-bottom:0;" name="form1" method="post" action="/search_new/results.asp"><input type="text" name="keyword2" class="searchField"> <input name="Submit2" type="submit" value="Search" class="searchButton"></form></td></tr></tbody></table>
+<!-- end contents of top right section -->
+</td></tr></tbody></table></td>
+</tr>
+<tr>
+<td bgcolor="#000000">
+<!-- menus go here -->
+<table width="773" cellpadding="0" cellspacing="0" align="center"><tbody><tr>
+<td width="28"><img src="/images/trans.gif" width="28" height="1"></td>
+<td width="100" align="center"><a href="/current_issues" id="MenuButton_CurrentIssue" name="MenuButton_CurrentIssue" onmouseover="javascript:showMenu('CurrentIssue');" class="TopMenuItem">Current Issue</a></td>
+<td width="100" align="center"><a href="/resources" id="MenuButton_Resources" name="MenuButton_Resources" onmouseover="javascript:showMenu('Resources');" class="TopMenuItem">Resources</a></td>
+<td width="127" align="center"><a href="/custompub" id="MenuButton_CustomPub" name="MenuButton_CustomPub" onmouseover="javascript:showMenu('CustomPub');" class="TopMenuItem">Custom Publishing</a></td>
+<td width="127" align="center"><a href="/reader_services" id="MenuButton_ReaderServices" name="MenuButton_ReaderServices" onmouseover="javascript:showMenu('ReaderServices');" class="TopMenuItem">Reader Services</a></td>
+<td width="126" align="center"><a href="/adservices" id="MenuButton_AdvertiserServices" name="MenuButton_AdvertiserServices" onmouseover="javascript:showMenu('AdvertiserServices');" class="TopMenuItem">Advertiser Services</a></td>
+<td width="27"><img src="/images/trans.gif" width="27" height="1"></td>
+<td width="138"><img src="/images/trans.gif" width="138" height="1"></td>
+</tr></tbody></table>
+<!-- end menus -->
+</td>
+</tr>
+</tbody></table>
+</td>
+  </tr>
+
+  <tr> 
+    <td valign="top" bgcolor="#FFFFFF"> <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td width="100%" valign="top"> 
+<!--STARTPRINTMAIN-->
+<!--PRINTABLE-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td valign="top">
+<!-- CONTENT GOES HERE! -->
+<img src="/images/trans.gif" width="1" height="4"><br>
+<img src="images/privacypolicy.gif" width="236" height="40"><br>
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr> 
+                <td colspan="3" valign="top"><img src="../images/graybar.gif" width="628" height="1"></td>
+              </tr>
+              <tr> 
+                <td valign="top">
+                  <div align="center"> 
+                    <table border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr> 
+                        <td height="26"><a href="privacypolicy.asp#overview"><img src="images/overview.gif" width="82" height="22" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td height="35"><a href="privacypolicy.asp#info_collect"><img src="images/infocollect.gif" width="184" height="30" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td height="30"><a href="privacypolicy.asp#data_collect"><img src="images/datcol.gif" width="123" height="25" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td height="32"><a href="privacypolicy.asp#yourinfo"><img src="images/useinfo.gif" width="160" height="25" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td height="32"><a href="privacypolicy.asp#newsletters"><img src="images/newsandoffers.gif" width="160" height="20" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td height="33"><a href="privacypolicy.asp#disclosure"><img src="images/disclosure.gif" width="160" height="25" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td height="30"><a href="privacypolicy.asp#security"><img src="images/security.gif" width="86" height="20" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td height="32"><a href="privacypolicy.asp#right_access"><img src="images/changeinfo.gif" width="160" height="25" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td height="32"><a href="privacypolicy.asp#optout"><img src="images/optout.gif" width="86" height="20" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td><a href="privacypolicy.asp#links"><img src="images/links.gif" width="86" height="20" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td>&nbsp;</td>
+                      </tr>
+                    </tbody></table>
+                  </div></td>
+                <td width="1" valign="top"><img src="../images/graylinevertical.gif" width="1" height="3300"></td>
+                <td valign="top" class="contenthead"> 
+                  <table border="0" cellpadding="7" cellspacing="0">
+                    <tbody><tr> 
+                      <td valign="top"> 
+                          <!--STARTPRINTMAIN-->
+                          <!--PRINTABLE-->
+                        <p spanclass="deck"> <a name="Overview"></a><span class="deck">Overview</span></p>
+                        <p> <span class="misctext">This Privacy Policy describes 
+                          the policies of Reed Business Information ("RBI" 
+                          or "we"), a division of Reed Elsevier Inc. 
+                          ("Reed Elsevier"), regarding the collection, 
+                          use, disclosure and protection of the following types 
+                          of information:</span></p>
+                        <p class="misctext">Information obtained when you and 
+                          other users ("you" or "Users") visit 
+                          the www.msimag.com web site (the "Site"). 
+                        </p>
+                        <p class="misctext"> Information obtained through e-mail 
+                          communications with you related to the Site </p>
+                        <p class="misctext"> This privacy policy does not apply 
+                          to information that we may collect from you by other 
+                          means (including offline) or from other sources. Your 
+                          use of this Site constitutes your acceptance of all 
+                          of the terms and conditions contained in this Privacy 
+                          Policy and your consent to any action we take with respect 
+                          to your information that is in compliance with this 
+                          Privacy Policy.</p>
+                        <p class="misctext">We may change the terms of this Privacy 
+                          Policy, so Users are encouraged to review this page 
+                          from time to time. Your continued use of this Site following 
+                          the posting of changes to the Privacy Policy means that 
+                          you accept the changes.</p>
+                        <p class="misctext">If you do not agree to this Privacy 
+                          Policy, as modified from time to time, please do not 
+                          visit this Site.</p>
+                        <p class="deck"><a name="info_collect" id="info_collect"></a>Information 
+                          We Collect and How We Collect It</p>
+                        <p><span class="misctextbold">General</span><br>
+                          <span class="misctext">We require you to provide us 
+                          with certain information about yourself when you register 
+                          with this Site and when you request products and services. 
+                          We also collect information from you when you participate 
+                          in contests and surveys, when you respond to requests 
+                          for feedback and when you submit postings to public 
+                          areas of this Site, such as moderated discussions and 
+                          bulletin boards.</span></p>
+                        <p class="misctext">The information we collect may include 
+                          information from which you may be personally identified 
+                          ("Personally Identifiable Information"), such 
+                          as name, postal address, telephone number, fax number 
+                          and e-mail address, and also may include certain business 
+                          information, such as employer name, occupation, job 
+                          function, job title and buying information (e.g., preferences 
+                          or history). We also will collect credit card and related 
+                          information when you request a product or service for 
+                          which there is a charge. This Site only collects Personally 
+                          Identifiable Information with your knowledge.</p>
+                        <p><span class="misctextbold"><a name="data_collect" id="data_collect"></a>Automatic 
+                          Data Collection<br>
+                          </span><span class="misctext">When you visit this Site, 
+                          we may collect the IP address of your computer.</span></p>
+                        <p class="misctext">We also automatically record other 
+                          information that identifies your computer to this Site 
+                          and tracks your behavior on the Site. For example, we 
+                          may record how many times you visit this Site and your 
+                          navigation within the Site. We do not collect Personally 
+                          Identifiable Information in this manner; however, if 
+                          you provide us with Personally Identifiable Information, 
+                          we may associate that information with the information 
+                          that is collected automatically.</p>
+                        <p class="misctext">Methods used to collect this information 
+                          may include "cookies" and "clear GIFs" 
+                          (also known as "pixel tags" or "beacons"). 
+                          A cookie is a small amount of data that is sent to your 
+                          browser from a server and stored on your computer's 
+                          hard drive. Most browsers allow Users to block the receipt 
+                          of cookies, but doing so may compromise your ability 
+                          to use certain features of this Site. A clear GIF is 
+                          a small graphic image, typically used in connection 
+                          with cookies, that is placed on a web site or in an 
+                          e-mail message. A clear GIF can monitor certain user 
+                          behavior, such as your usage of the web site, whether 
+                          you opened an e-mail message or whether you clicked 
+                          on a URL in an e-mail message. </p>
+                        <p class="misctext">Some of the materials included on 
+                          this Site, including advertising, may be served by third 
+                          parties. These third parties, in the course of serving 
+                          such materials, may collect information regarding your 
+                          use of this Site and how you respond to e-mail communications, 
+                          using methods that may include those described in the 
+                          preceding paragraph. Collection, use, disclosure and 
+                          security of information collected by third parties are 
+                          subject to the privacy policies of those third parties. 
+                          You may view the privacy policy of DoubleClick, a third 
+                          party that serves ads to this Site, at www.privacychoices.org.</p>
+                        <p class="deck"><a name="yourinfo" id="yourinfo"></a>How 
+                          We Use Your Information</p>
+                        <p><span class="misctextbold">General</span><br>
+                          <span class="misctext">We use Personally Identifiable 
+                          Information that we collect on this Site for the following 
+                          purposes:</span></p>
+                        <p class="misctext">To provide you with this Site and 
+                          other products and services, such as electronic and 
+                          print publications and newsletters. </p>
+                        <p class="misctext"> To respond to your inquiries and 
+                          contact you about changes regarding the Site. </p>
+                        <p class="misctext"> To provide you with e-mail, fax and 
+                          other notices (such as expiration and renewal notices) 
+                          and inquiries regarding your account and the products 
+                          or services that you are receiving, and for billing 
+                          and collection purposes. </p>
+                        <p class="misctext"> For any other purpose disclosed at 
+                          the time the information is collected or to which you 
+                          consent. </p>
+                        <p> <span class="misctextbold">As otherwise specifically 
+                          described in this Privacy Policy</span> <br>
+                          <span class="misctext">We also may use your information 
+                          to better understand the needs of our Users and to improve 
+                          our Site. For example, we may use this information to 
+                          determine what portions of the Site are most popular 
+                          and the demographics of our Users generally. Cookies 
+                          and other User information also enable us to customize 
+                          your experience on the Site. </span></p>
+                        <p class="misctext">We may use IP addresses to help diagnose 
+                          problems with our servers or to administer our Site. 
+                          We may also use IP addresses to help identify a User 
+                          uring a particular session and to gather data regarding 
+                          use of the Site.</p>
+                        <p class="deck"><a name="newsletters" id="newsletters"></a>Newsletters 
+                          and Offers</p>
+                        <p class="misctext">We may use the information you provide 
+                          us to send you e-mail, fax and other communications 
+                          on behalf of RBI or other Reed Elsevier divisions. These 
+                          communications may include e-mail newsletters that are 
+                          relevant to this Site, as well as offers for other RBI 
+                          and Reed Elsevier services. All of these communications 
+                          will include instructions explaining how you can request 
+                          that we not send you ("opt out" of) future 
+                          communications of the same type.</p>
+                        <p class="misctext">We also may use your information to 
+                          send you e-mail, fax and other communications on behalf 
+                          of unaffiliated third parties. When you register with 
+                          and provide information to this Site you will be given 
+                          an opportunity to opt out of our sending you offers 
+                          on behalf of third parties. In addition, each of these 
+                          communications will include instructions for opting 
+                          out of receiving future third party offers from us. 
+                          You may also opt out of receiving third party offers 
+                          from this Web Site at any time by sending an e-mail 
+                          to privacymanager@reedbusiness.com with the subject 
+                          line "opt out - third party."</p>
+                        <p class="deck"><a name="disclosure" id="disclosure"></a>Our 
+                          Disclosure of Your Information</p>
+                        <p class="misctext">We will not disclose your information 
+                          to anyone outside of RBI or other Reed Elsevier divisions, 
+                          except as described in this section.</p>
+                        <p class="misctext">We may disclose aggregated anonymous 
+                          statistics about many Users to advertisers, content 
+                          and service providers and other affiliated and unaffiliated 
+                          companies.</p>
+                        <p class="misctext">We sometimes engage third parties 
+                          to perform services for us, including in connection 
+                          with this Site, that require us to disclose Users' Personally 
+                          Identifiable Information to them. If we make any such 
+                          disclosure, we will require such parties to keep the 
+                          information confidential and to use it only to perform 
+                          the services.</p>
+                        <p class="misctext">We also may disclose your information 
+                          to third parties that wish to market products or services 
+                          that may be of interest to you. We will require these 
+                          parties to keep any Personally Identifiable Information 
+                          provided by us confidential and use it only to market 
+                          and provide their products or services or with your 
+                          approval. When you register with and provide information 
+                          to this Site, you will be given an opportunity to opt 
+                          out of our disclosing your Personally Identifiable Information 
+                          as described in this paragraph. You may also opt out 
+                          of such disclosures at any time by sending an e-mail 
+                          to eletters@reedbusiness.com with the subject line "do 
+                          not disclose."</p>
+                        <p class="misctext">The only other times we may disclose 
+                          your Personally Identifiable Information collected on 
+                          this Site are as follows:</p>
+                        <p class="misctext">In the event of an asset sale, merger, 
+                          consolidation, restructuring, reorganization, liquidation 
+                          or other similar transaction involving RBI or this Site, 
+                          we may transfer some or all User information, including 
+                          Personally Identifiable Information, to the successor 
+                          company.</p>
+                        <p class="misctext">We will disclose your Personally Identifiable 
+                          Information when we believe such disclosure is required 
+                          by law or for the protection of persons or property.</p>
+                        <p class="misctext">We may disclose your Personally Identifiable 
+                          Information with your consent, as well as when disclosure 
+                          is necessary to accomplish the purpose for which you 
+                          provide it. For example, when you request information 
+                          from advertisers in the "Reader Services" 
+                          section of our publications, we will disclose your Personally 
+                          Identifiable Information to the advertisers you specify.</p>
+                        <p class="deck"><a name="security" id="security"></a>Security</p>
+                        <p class="misctext">We use reasonable security safeguards 
+                          to protect Personally Identifiable Information we collect 
+                          on this Site from unauthorized access, use, modification 
+                          or disclosure. However, due to the design of the Internet 
+                          and other factors outside of our control, we cannot 
+                          guarantee that communications between you and our servers 
+                          will be free from unauthorized access by third parties.</p>
+                        <p class="deck"><a name="right_access" id="right_access"></a>Right 
+                          to Access and Change Information</p>
+                        <p class="misctext">You may view and update information 
+                          that you previously submitted to this Site by visiting 
+                          the registration page for this Site. However, a request 
+                          to change information may not be accommodated if the 
+                          request would conflict with legal requirements or result 
+                          in incorrect information. Requests to view or change 
+                          personal information may take a few days to process. 
+                        </p>
+                        <p class="deck"><a name="optout" id="optout"></a>Opt-Out</p>
+                        <p class="misctext">This Privacy Policy describes certain 
+                          opportunities you will have to opt out of our using 
+                          or disclosing your Personally Identifiable Information.</p>
+                        <p class="misctext">Typically, an opt out request will 
+                          be specific to a particular service or product. For 
+                          example, if you opt out of receiving third party offers 
+                          from this Site, you may continue to receive third party 
+                          offers from other RBI web sites or publications not 
+                          associated with this Site. Similarly, opting out of 
+                          our disclosing Personally Identifiable Information collected 
+                          on this Site will not apply to information collected 
+                          on other RBI web sites. We cannot guarantee that we 
+                          will be able to accommodate opt out requests that apply 
+                          to multiple web sites, products or services, but we 
+                          will try to do so to the extent feasible. If you wish 
+                          to opt out of the use or disclosure of Personally Identifiable 
+                          Information collected by more than one RBI web site, 
+                          the best way of accomplishing this is to provide a separate 
+                          opt out request for each web site, product or service. 
+                        </p>
+                        <p class="misctext">Any opt out request will only be effective 
+                          after a reasonable period of time for processing.</p>
+                        <p class="deck"><a name="links" id="links"></a>Links</p>
+                        <p class="misctext">This Site contains content, services, 
+                          advertising and other materials that link to Web sites 
+                          operated by third parties. We have no control over those 
+                          other sites, and this Privacy Policy does not apply 
+                          to them. We encourage you to refer to the privacy policies, 
+                          if any, of those sites. </p>
+                        <p class="misctextbold">This Site is operated by:</p>
+                        <p class="misctext">Reed Business Information<br>
+                          360 Park Avenue South<br>
+                          New York, NY 10010</p>
+                        <p><span class="misctext"><a href="mailto:privacymanager@reedbusiness.com" class="misctext">privacymanager@reedbusiness.com</a></span><a href="mailto:privacymanager@reedbusiness.com"><span class="misctext"> 
+                          <!--ENDPRINTABLE-->
+                          <!--ENDPRINTMAIN-->
+                          </span> </a> </p>
+                        <p><span class="contenthead"> </span> </p></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+            <!-- END CONTENT -->
+</td></tr></tbody></table>            
+<!--ENDPRINTABLE-->
+<!--ENDPRINTMAIN-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td bgcolor="#E1E1D7"><img src="/images/trans.gif" width="1" height="3"><br><div align="center" class="misctext"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="300">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="300" height="250" id="bb_ad" align="middle">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="/ads/bb_ad_300x250.swf">
+<param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">
+<embed src="/ads/bb_ad_300x250.swf" quality="high" bgcolor="#ffffff" width="300" height="250" name="bb_ad" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+</td><td width="45"><img src="/images/trans.gif" width="45" height="1"></td><td width="300">
+<!-- Creative for 300x250 format -->
+<script type="text/javascript" language="JavaScript">
+<!--
+         google_ad_client = 'reedbusiness_300x250';
+         google_ad_width = 300;
+         google_ad_height = 250;
+         google_ad_format = '300x250_pas_abgnc';
+         google_ad_type = 'text';
+         google_safe = 'high';
+	 google_color_bg = 'FFFFFF';
+	 google_color_text = '681316';
+	 google_color_border = '97750A';
+// -->
+</script>
+
+<script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+<noscript>
+	<img height=1 width=1 border=0 src="http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-reedbusiness_300x250&event=noscript"/>
+</noscript>
+<!-- End Creative --> 
+</td></tr></tbody></table>
+<img src="/images/trans.gif" width="1" height="7"><br>
+<a href="/Current_issues/contents.asp" class="smalltext">Current 
+Issue</a> | <a href="/resources/default.asp" class="smalltext">Resources</a> | <a href="/custompub/default.asp" class="smalltext">Custom 
+Publishing</a> | <a href="/reader_services/default.asp" class="smalltext">Reader 
+Services</a> | <a href="/adservices/default.asp" class="smalltext">Advertiser Services</a></div></td>
+              </tr>
+            </tbody></table></td>
+<td width="152" valign="top" bgcolor="#E1E1D7"><table border="0" cellpadding="0" cellspacing="0" width="152"><tbody><tr><td width="6"><img src="/images/trans.gif" width="6" height="1"></td>
+<td width="140" align="center"><img src="/images/trans.gif" width="1" height="5"><br>
+<!-- begin helpfullinks and featured companies -->
+<!-- begin helpful links -->
+<table border="0" width="100%" bgcolor="#5B584F" cellpadding="0" cellspacing="1">
+<tbody><tr><td width="100%"><table width="100%" border="0" bgcolor="White">
+<tbody><tr><td class="misctextboldwhite" colspan="2" align="center" bgcolor="#681316">Helpful links</td></tr>
+<tr><td class="sidebarIndicator">&gt;&nbsp;</td><td><a href="http://www.reed4success.com/default.asp?magid=105&amp;promocode=WCH01WD4" class="helpfulLinkSmall">Free subscription</a></td></tr>
+<tr><td class="sidebarIndicator">&gt;&nbsp;</td><td><a href="http://register1.manufacturingsystems.com/msi/msipc.asp" class="helpfulLinkSmall">Preference Center</a></td></tr>
+<tr><td class="sidebarIndicator">&gt;&nbsp;</td><td><a href="mailto:mbtonlinenews@reedbusiness.com" class="helpfulLinkSmall">Submit your company news!</a></td></tr>
+<tr><td class="sidebarIndicator">&gt;&nbsp;</td><td><a href="/help_desk/default.asp" class="helpfulLinkSmall">Help Desk</a></td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+<!-- end helpful links -->
+<!-- end helpfullinks and featured companies -->
+</td><td width="6"><img src="/images/trans.gif" width="6" height="1"></td></tr></tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td valign="top" bgcolor="#5B584F"> <table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tbody><tr> 
+          <td width="100%" bgcolor="#5B584F"><div align="center" class="smalltextwhite"><table width="770" border="0" cellspacing="0" cellpadding="5">
+  <tbody><tr> 
+    <td> 
+      <div align="center"><a href="/reader_services/privacypolicy.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Privacy 
+        Policy</font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"> 
+        | © 2005 Reed Business Information, a division of Reed Elsevier Inc. 
+        | All rights reserved. </font></div>
+    </td>
+  </tr>
+</tbody></table>
+</div></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+
+
+</body></html>
