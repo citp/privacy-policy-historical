@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorlinks.com privacy policy that was archived on 2001-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010609181023id_/http%3A//www.investorlinks.com/aboutusprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorlinks.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202132444id_/http%3A//www.investorlinks.com/aboutusprivacy.htm) for the most accurate reproduction.*
 
 # InvestorLinks - About Us - Privacy Policy
 
