@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205060700id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602141037id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.htm) for the most accurate reproduction.*
 
-# IncredibleCharts: Privacy Policy
+# Incredible Charts: Privacy Policy
 
 Vizhon Corporation and its affiliates are committed to maintaining the privacy of personal information that you provide to us when using the website. This Privacy Policy describes how we treat personal information received about you when you download or use the website. We may make content or services from other Web sites available to you from links located within or at our website. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that Web site protects your privacy. 
 
