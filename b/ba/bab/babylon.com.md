@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babylon.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208221256id_/http%3A//babylon.com/display.php%3Fid%3D62%26tree%3D145%26level%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylon.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403200125id_/http%3A//www.babylon.com/display.php%3Fid%3D62%26tree%3D145%26level%3D2) for the most accurate reproduction.*
 
 # Privacy Statement
 
