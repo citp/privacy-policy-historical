@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazineoutlet.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613125758id_/http%3A//www.magazineoutlet.com/magoutlet/privacy.asp%3Fmscssid%3DW5UGFQRPAMC79NRRK44984DCAAPMA6M4%26affiliate%255Fkey%3D00000000%26aff%255Ftype%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineoutlet.com privacy policy that was archived on 2004-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040810230445id_/http%3A//www.magazineoutlet.com/magoutlet/privacy.asp%3Fmscssid%3DK82WR9587JCS8N6VX0WVHX9WFC0E1UWE%26affiliate%255Fkey%3D00000000%26aff%255Ftype%3D0) for the most accurate reproduction.*
 
 # Magazineoutlet.com
 
@@ -13,7 +13,7 @@
 
 MagazineOutlet.com presented by SynapseConnect, Inc., Synapse Solutions, Inc. and Gift Services, LLC, value your privacy and are dedicated to protecting your personal information. Our privacy statement is a summary of our privacy policy. You can read our complete privacy policy by clicking here. 
 
-MagazineOutlet.com logs IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer the site. We track your movement within the site, the pages from which you were referred, access times and browser types. We use this information in aggregate and do not link it to you personally. We promise to take measures to protect all the personal information you provide at all times. We do not rent, sell or lease your personal information, and you may opt-out of the use of your information for secondary purposes at any time - click [here](https://web.archive.org/web/20040613125758id_/http%3A//www.magazineoutlet.com/magoutlet/email_form_optout.asp) for details. You also have the opportunity to correct or change the information you have provided to us. 
+MagazineOutlet.com logs IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer the site. We track your movement within the site, the pages from which you were referred, access times and browser types. We use this information in aggregate and do not link it to you personally. We promise to take measures to protect all the personal information you provide at all times. We do not rent, sell or lease your personal information, and you may opt-out of the use of your information for secondary purposes at any time - click [here](https://web.archive.org/web/20040810230445id_/http%3A//www.magazineoutlet.com/magoutlet/email_form_optout.asp) for details. You also have the opportunity to correct or change the information you have provided to us. 
 
 All of our programs are committed to provide you with: 
 
@@ -93,7 +93,7 @@ For our programs that require a credit card, we also offer our exclusive credit 
 
 **Special Offers and Choice/Opt-Out**
 
-From time to time, we may present you with specially selected offers from SynapseConnect or one of our partners. Out of respect for your privacy, you can forfeit these opportunities, by clicking [here](https://web.archive.org/web/20040613125758id_/http%3A//www.magazineoutlet.com/magoutlet/email_form_optout.asp). 
+From time to time, we may present you with specially selected offers from SynapseConnect or one of our partners. Out of respect for your privacy, you can forfeit these opportunities, by clicking [here](https://web.archive.org/web/20040810230445id_/http%3A//www.magazineoutlet.com/magoutlet/email_form_optout.asp). 
 
 **Site and Service Updates**
 
@@ -101,7 +101,7 @@ We communicate with you to provide requested services and on issues relating to 
 
 **Correcting/Updating Personal Information**
 
-If you want to change your personal information (such as your address or account number) you can do so on each of our sites. Upon verification, we will provide you with the information we have for all your active orders placed with us. To request your record, click [here](https://web.archive.org/web/20040613125758id_/http%3A//www.magazineoutlet.com/magoutlet/email_form_change_address.asp). 
+If you want to change your personal information (such as your address or account number) you can do so on each of our sites. Upon verification, we will provide you with the information we have for all your active orders placed with us. To request your record, click [here](https://web.archive.org/web/20040810230445id_/http%3A//www.magazineoutlet.com/magoutlet/email_form_change_address.asp). 
 
 **Notification of Changes**
 
