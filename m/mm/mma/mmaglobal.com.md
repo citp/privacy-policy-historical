@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014111755id_/http%3A//www.mmaglobal.com/about/index.php%3Fnav_var_about%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417085832id_/http%3A//www.mmaglobal.com/about/index.php%3Fnav_var_about%3Dprivacy) for the most accurate reproduction.*
 
 # MMA: Mobile Marketing Association
 
