@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604235048id_/http%3A//sfgate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002032407id_/http%3A//sfgate.com/pages/privacy) for the most accurate reproduction.*
 
 # SF Gate: Privacy Policy
 
@@ -11,25 +11,6 @@ The following discloses our information gathering and dissemination practices fo
 
 As SF Gate continues to develop we may add new features, change the type of information we gather or the method by which it is gathered. We will adjust this privacy policy to reflect any future changes, and notify users of any personal information we are requesting. Please review this policy for changes from time to time, and contact us if you have any questions. 
 
-**TRUSTe Licensee**| 
-
-[](https://www.truste.org/validate/3541)
-
-|   
----|---|---  
-SF Gate is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for SF Gate. 
-
-When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information. 
-
-Questions regarding this statement should be directed to SF Gate Support: 
-
-901 Mission St.  
-San Francisco CA 94103  
-Email: [](mailto:support@sfgate.com)[support@sfgate.com](mailto:support@sfgate.com)  
-Phone: 415-777-6333 
-
-If SF Gate has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/users_watchdog.html).  
-  
 **TOPICS THIS STATEMENT COVERS**  
 ---  
 IP Addresses  
@@ -42,8 +23,6 @@ Order Forms |  Email to a Friend |  Public Forums |  Newsletters
 Chronicle Extra Access |  Surveys  
 |  Security  
   
-* * *
-
 **IP ADDRESSES:**  
 An IP address is a number assigned to the computer which is requesting a web page from our site. Usually it is not your personal computer, but a computer used by your internet service provider or company network. SF Gate uses IP addresses to help diagnose problems with our server, to administer our Web site, and to report aggregate information. 
 
@@ -149,8 +128,8 @@ You can save your searches as email alerts. Once saved, we will automatically ru
 4\. Getting more information about ads  
 If you see an ad for which you are interested, you can use the contact information in the ad. Some ads, such as vehicle ads, offer a feedback form for you to use. This information does not get sent to SF Gate, but to the selling party. SF Gate has no control over the use if the information you submit via these methods. 
 
-5\. Job Fair resume upload service  
-The San Francisco Chronicle has Job Fairs throughout the year and offers a service for candidates to upload their resumes for job fair employers to review. When you submit a resume, all information you provide may be shared with any employer who will be attending that job fair. Usage of your personal information by each employer is dictated by that employer's privacy policy. 
+  5\. Job Fair resume upload service  
+The San Francisco Chronicle has Career Events and Job Fairs throughout the year and offers a service for candidates to upload their resumes for participating employers to review. When you submit a resume, all information you provide may be shared with any participating employer. Usage of your personal information by each employer is dictated by that employer's privacy policy. 
 
    Back to Top
 
@@ -178,8 +157,8 @@ Oracle Science International, Inc. provides Horoscope information to our users. 
 
 If you wish, you can receive a subscription for astrology information. You can submit payment on-line through a secure server or via mail. Contact information and financial information will be kept private.
 
-**People2People:**  
-People to People is a relationship service. Their privacy policy is located [here](http://people2people.com/homepage/privacy.plex).
+**Spring Street Networks:**  
+Spring Street Networks is a relationship service. Their privacy policy is located [here](http://www.springstreetnetworks.com/tos/privacy.asp).
 
 **Pictopia:**  
 Pictopia is a service that will deliver prints of Chronicle photos to you. Please see [this page](https://web.archive.org/gallery/buyphotos/) for more information. Pictopia's privacy policy is [here.](http://www.pictopia.com/perl/service?id=93bc69c77361f01310522bc83ed00630#Policies)
