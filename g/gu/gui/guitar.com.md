@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guitar.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206224800id_/http%3A//www.guitar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitar.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413083228id_/http%3A//www.guitar.com/privacy.asp) for the most accurate reproduction.*
 
-# Guitar.com - Your guitar guide!
+# Guitar.com - Your Guitar Guide!
 
 **Privacy Statement for Guitar.com** Please also read the 24/7 Media privacy policy at <http://www.247media.com/privacy.html> for relevant advertiser privacy issues.
 
