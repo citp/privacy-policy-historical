@@ -1,0 +1,436 @@
+<!--The following is the downloaded HTML source of the fantasyfootball.com privacy policy that was archived on 2000-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001203161200id_/http%3A//www.fantasyfootball.com/extra/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>FantasyFootball.com - Privacy Statement</title>
+</head>
+
+<body link="#000080" vlink="#000080" alink="#000080" bgcolor="#FFFFFF" leftmargin="1" rightmargin="5" topmargin="0" bottommargin="0">
+
+
+	
+<style>
+<!--
+
+	A.menu:LINK { FONT: normal 9pt Arial; COLOR: #FFFFFF; TEXT-DECORATION: none } 
+	A.menu:VISITED { FONT: normal 9pt Arial; COLOR: #FFFFFF; TEXT-DECORATION: none } 	 	
+    A.menu:HOVER { FONT: normal 9pt Arial; COLOR: #FFFFFF; background-color:#8C0000; TEXT-DECORATION: underline }
+    
+    A.hline:LINK { FONT: normal 8pt Arial; COLOR: #000080; TEXT-DECORATION: none } 
+    A.hline:VISITED { FONT: normal 8pt Arial; COLOR: #000080; TEXT-DECORATION: none }     
+    A.hline:HOVER { FONT: normal 8pt Arial; text-decoration: underline; color: #FFFFFF; background-color:#8C0000 } 
+    
+-->
+</style>	
+
+<table border="0" cellspacing="0" cellpadding="0">
+<script language="JavaScript">
+
+{ // Preload images
+
+Logo = new Image();
+Logo.src = "../images/imgLogo.gif";
+LogoOn = new Image();
+LogoOn.src = "../images/imgLogoOn.gif";
+
+Play = new Image();
+Play.src = "../images/tabPlay.gif";
+PlayOn = new Image();
+PlayOn.src = "../images/tabPlayOn.gif";
+
+Lineup = new Image();
+Lineup.src = "../images/tabLineup.gif";
+LineupOn = new Image();
+LineupOn.src = "../images/tabLineupOn.gif";
+
+Projections = new Image();
+Projections.src = "../images/tabProjections.gif";
+ProjectionsOn = new Image();
+ProjectionsOn.src = "../images/tabProjectionsOn.gif";
+
+WhosHot = new Image();
+WhosHot.src = "../images/tabWhosHot.gif";
+WhosHotOn = new Image();
+WhosHotOn.src = "../images/tabWhosHotOn.gif";
+
+Injuries = new Image();
+Injuries.src = "../images/tabInjuries.gif";
+InjuriesOn = new Image();
+InjuriesOn.src = "../images/tabInjuriesOn.gif";
+
+Articles = new Image();
+Articles.src = "../images/tabArticles.gif";
+ArticlesOn = new Image();
+ArticlesOn.src = "../images/tabArticlesOn.gif";
+
+Stats = new Image();
+Stats.src = "../images/tabStats.gif";
+StatsOn = new Image();
+StatsOn.src = "../images/tabStatsOn.gif";
+}
+
+function Swap(imageID,imageName)
+
+{ document.images[imageID].src = eval(imageName + ".src"); }
+
+
+function Today()
+	{
+	
+	var sDay = new Array(); 
+	sDay[1] = "Monday";
+	sDay[2] = "Tuesday";
+	sDay[3] = "Wednesday";
+	sDay[4] = "Thursday";
+	sDay[5] = "Friday";
+	sDay[6] = "Saturday";
+	sDay[0] = "Sunday";
+
+	var sMonth = new Array();
+	sMonth[0] = "January";
+	sMonth[1] = "February";
+	sMonth[2] = "March";
+	sMonth[3] = "April";
+	sMonth[4] = "May";
+	sMonth[5] = "June";
+	sMonth[6] = "July";
+	sMonth[7] = "August";
+	sMonth[8] = "September";
+	sMonth[9] = "October";
+	sMonth[10] = "November";
+	sMonth[11] = "December";
+
+	var tdy = new Date();
+	var yr = tdy.getYear();
+	if (yr < 2000) yr += 1900;
+	return sDay[tdy.getDay()] + ", " + sMonth[tdy.getMonth()] + " " + tdy.getDate() + ", " + yr;
+
+	}
+
+function SearchMe() {
+	var sSearch = document.frmSearch.txtSearch.value;
+	var bInternal = (document.frmSearch.cboSearch.selectedIndex == 0);
+  
+	if (sSearch.length > 2) {
+		if (bInternal) {
+			document.frmSearch.action = "../search/search.asp?Keywords=" + sSearch;
+			return true;
+		} else {
+			sURL = "http://wwwp.goto.com/d/search/p/digimedia/?Keywords=" + sSearch;
+			window.open(sURL,"Search");
+			return false;
+		}
+	} else {
+		alert("Please provide a longer search string.");
+		document.frmSearch.txtSearch.focus();
+		return false;
+	}	  
+}
+
+</script>
+
+</table><table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="BOTTOM">
+  <td>
+    <a href="http://www.digimedia.com" onmouseover="Swap('imgLogo','LogoOn')" onmouseout="Swap('imgLogo', 'Logo')"><img name="imgLogo" src="../images/imgLogo.gif" border="0"></a>
+  </td>
+  <td align="RIGHT">
+<!--
+    <FONT FACE=Arial SIZE=2 COLOR=#000000>
+      <SPAN STYLE="font: bold 9pt Arial">
+      <B>Coming Soon: </B> &nbsp;&nbsp;FantasyBaseball.com, &nbsp;FantasyBasketball.com, &nbsp;FantasyHockey.com, &nbsp;FantasySoccer.com
+    </SPAN></FONT>
+-->
+<a href="../frenzy/frenzy.asp"><img src="../images/afrenzy.gif" border="0"></a>
+
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <a href="../index.asp"><img src="../images/FFootballHdr.gif" border="0"></a><br>
+  </td>
+</tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="750">
+<tbody><tr>
+  <td align="LEFT" valign="TOP">
+ &nbsp;<a href="../Play/Play.asp" onmouseover="Swap('imgPlay','PlayOn')" onmouseout="Swap('imgPlay', 'Play')"><img name="imgPlay" src="../images/tabPlay.gif" border="0" alt="Play Fantasy Football now!"></a>
+ &nbsp;<a href="../Lineup/Lineup.asp" onmouseover="Swap('imgLineup','LineupOn')" onmouseout="Swap('imgLineup', 'Lineup')"><img name="imgLineup" src="../images/tabLineup.gif" border="0" alt="Match your staters and bench warmers against our experts"></a>
+ &nbsp;<a href="../Projections/Projection.asp" onmouseover="Swap('imgProjections','ProjectionsOn')" onmouseout="Swap('imgProjections', 'Projections')"><img name="imgProjections" src="../images/tabProjections.gif" border="0" alt="View player projections for each position"></a>
+ &nbsp;<a href="../HotNot/HotNot.asp" onmouseover="Swap('imgWhosHot','WhosHotOn')" onmouseout="Swap('imgWhosHot', 'WhosHot')"><img name="imgWhosHot" src="../images/tabWhosHot.gif" border="0" alt="Who are the hottest and coldest fantasy players today?"></a>
+ &nbsp;<a href="../Injuries/Injuries.asp" onmouseover="Swap('imgInjuries','InjuriesOn')" onmouseout="Swap('imgInjuries', 'Injuries')"><img name="imgInjuries" src="../images/tabInjuries.gif" border="0" alt="Find out which players won't be playing due to injuries"></a>
+ &nbsp;<a href="../Articles/Articles.asp" onmouseover="Swap('imgArticles','ArticlesOn')" onmouseout="Swap('imgArticles', 'Articles')"><img name="imgArticles" src="../images/tabArticles.gif" border="0" alt="View articles written by our Sports experts"></a>
+ &nbsp;<a href="../Stats/Stats.asp" onmouseover="Swap('imgStats','StatsOn')" onmouseout="Swap('imgStats', 'Stats')"><img name="imgStats" src="../images/tabStats.gif" border="0" alt="View NFL Stats, Scores, Standings and Schedules"></a>
+  </td>
+  <td align="RIGHT">
+    <font face="Arial" size="1"><b>
+    <span style="font: normal 9pt Arial">
+      <script lanuage="JavaScript">{ document.write(Today()); }</script>Wednesday, February 19, 2020
+    </span>
+    </b></font>
+  </td>
+</tr>
+<tr>
+  <td colspan="2">&nbsp;</td>
+</tr>
+</tbody></table>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+  <td valign="TOP" width="122">
+    <table bgcolor="#017505" border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tbody><tr><td>
+    
+    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tbody><tr bgcolor="#017505"><td align="CENTER">
+      <font face="Arial" size="2" color="White"><b>
+      <span style="font: bold 10pt Arial; color: White">FANTASY MENU</span>
+      </b></font><br>
+      <img src="../images/sp.gif" width="122" height="1"></td>
+    </tr>
+    <tr><td>
+    
+    <!-- FANTASY MENU -->
+    <font face="Arial" size="1" color="#FFFFFF">
+    &nbsp;<a class="menu" href="../index.asp">Home Page</a><br>
+    &nbsp;<a class="menu" href="../play/play.asp">Play Fantasy Football</a><br>
+    &nbsp;<a class="menu" href="../lineup/lineup.asp">Weekly Lineup</a><br>
+    &nbsp;<a class="menu" href="../projections/projection.asp">Projections</a><br>
+    &nbsp;<a class="menu" href="../hotnot/hotnot.asp">Who's Hot / Not</a><br>
+    &nbsp;<a class="menu" href="../injuries/injuries.asp">Injury Report</a><br>
+    &nbsp;<a class="menu" href="../articles/articles.asp">Articles</a><br>
+	&nbsp;<a class="menu" href="../stats/stats.asp">Stats -n- More</a><br>
+    &nbsp;<a class="menu" href="../extra/sportspg.asp">Newspapers</a><br>
+    &nbsp;<a class="menu" href="../articles/talkback.asp">Talkback</a><br>
+    &nbsp;<a class="menu" href="../commentary/commentary.asp">Commentary</a><br>
+    &nbsp;<a class="menu" href="../extra/headlines.asp">Headlines</a><br>
+    &nbsp;<a class="menu" href="../extra/forms.asp">Fantasy Forms</a><br>
+    &nbsp;<a class="menu" href="../extra/mockdraft.asp">Mock Draft</a><br>
+    &nbsp;<a class="menu" href="../extra/depthchart.asp">Depth Charts</a><br>	
+	&nbsp;<a class="menu" href="../extra/byeweeks.asp">Bye Weeks</a><br>            
+    </font></td></tr>
+        
+    <!-- LOCKER ROOM -->
+    
+    <tr bgcolor="#017505"><td align="CENTER">
+      <img src="../images/sp.gif" width="122" height="5">
+      <font face="Arial" size="2" color="White"><b>
+      <span style="font: bold 10pt Arial; color: White">LOCKER ROOM</span>
+      </b></font><br>
+      <img src="../images/sp.gif" width="122" height="1"></td>
+    </tr>
+    <tr><td>
+        
+    <font face="Arial" size="1" color="#FFFFFF">
+    &nbsp;<a class="menu" href="../locker/login.asp">Login</a><br>
+    &nbsp;<a class="menu" href="../locker/locker.asp">Locker Assignment</a><br>
+    &nbsp;<a class="menu" href="../locker/bbs.asp">Locker Room Talk</a><br>
+    &nbsp;<a class="menu" href="../locker/l_commentary.asp">Submit Commentary</a><br>
+    &nbsp;<a class="menu" href="../locker/interview.asp">Interviews</a><br>     
+    &nbsp;<a class="menu" href="../locker/l_talkback.asp">Submit Talkback</a>
+    </font></td></tr>
+    
+    <tr bgcolor="#017505"><td align="CENTER">    
+      <img src="../images/sp.gif" width="122" height="5">
+      <font face="Arial" size="2" color="White"><b>
+      <span style="font: bold 10pt Arial; color: White">SEARCH</span>
+      </b></font>
+    </td></tr>
+    <tr><td>
+    
+    <!-- SEARCH -->
+    <form name="frmSearch" method="POST" onsubmit="return SearchMe()">
+    <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td colspan="2" valign="TOP" height="30">
+    <input name="txtSearch" size="14">
+    </td></tr>
+    <tr><td valign="BOTTOM">
+    <select name="cboSearch"><option>Site</option><option>Web</option></select>
+    </td><td valign="BOTTOM">
+    <input type="SUBMIT" value="Search">
+    </td></tr>
+    </tbody></table>
+    </form>
+    </td></tr>
+    
+    <!-- ABOUT THE SITE -->
+    <tr bgcolor="#017505"><td align="CENTER">
+      <img src="../images/sp.gif" width="122" height="5">
+      <font face="Arial" size="2" color="White"><b>
+      <span style="font: bold 10pt Arial; color: White">ABOUT THE SITE</span>
+      </b></font><br>
+      <img src="../images/sp.gif" width="122" height="1"></td>
+    </tr>
+    <tr><td>
+    <font face="Arial" size="1" color="#FFFFFF">
+    &nbsp;<a class="menu" href="../extra/advertise.asp">Advertising</a><br>
+    &nbsp;<a class="menu" href="../extra/sitemap.asp">Site Map</a><br>
+    &nbsp;<a class="menu" href="mailto:info@fantasyfootball.com">Contact Us</a><br>
+    &nbsp;<a class="menu" href="../extra/agreement.asp">User Agreement</a><br> 
+    &nbsp;<a class="menu" href="../extra/privacy.asp">Privacy Statement</a><br>    
+    &nbsp;<a class="menu" href="http://www.digimedia.com" target="_new">About DigiMedia.com</a><br>
+    </font>
+    
+    </td></tr></tbody></table>
+    </td></tr></tbody></table>
+  </td>
+
+  <td valign="TOP" width="624">
+    <table border="0" width="99%">
+      <tbody><tr>
+        <td>
+
+          <font face="Arial" size="5">PRIVACY STATEMENT<hr>
+          <font face="Arial" size="2">
+DigiMedia.com, L.P. has created this privacy 
+statement in order to demonstrate our firm commitment to privacy. The following 
+discloses our information gathering and dissemination practices for this web 
+site: FantasyFootball.com. (DigiMedia.com, L.P. and FantasyFootball.com collectively referred to 
+herein as “DigiMedia”.)<p>
+      
+DigiMedia collects information from users who voluntarily register in this web site’s “Locker Room”.</p><p> 
+
+DigiMedia uses your IP address to help diagnose 
+problems with our server, and to administer this web site. We use cookies to 
+deliver content specific to your interests, to save your password so you don't 
+have to re-enter it each time you visit our site, and for other purposes (such 
+as, to inform you of other DigiMedia web sites).</p><p>
+
+Our site's registration form requires users to 
+give us contact information (like their name and email address) and demographic 
+information (like their city/state and age). We use customer contact information 
+from the registration form to send the user information about our company. The 
+customer's contact information is also used to contact the visitor when 
+necessary. Users may opt-out of receiving future mailings; see the 
+choice/opt-out section below. Demographic and profile data is also collected at 
+our site. We use this data for other purposes. We use this data to tailor the 
+visitor's experience at our site, showing them content that we think they might 
+be interested in, and displaying the content according to their 
+preferences.</p><p>
+          
+Except as otherwise provided in this Statement, 
+any personal information DigiMedia may gather from users will be neither resold 
+nor shared with third parties without the individual user's 
+consent.</p><p>          
+
+This site contains links to other sites. 
+DigiMedia is not responsible for the privacy practices or the content of such 
+web sites.</p><p>
+
+The site allows you to search the web. Such searches are powered by Goto.com and are 
+available to any visitor to FantasyFootball.com. No private information of any registered user 
+is shared with Goto.com.</p><p>
+
+We use an outside ad company and other third 
+party advertisers to display ads on our site. These ads may contain cookies. 
+While we use cookies in other parts of FantasyFootball.com, cookies received 
+with banner ads are collected by these ad companies and third party advertisers, 
+and we do not have access to this information.</p><p>
+
+<font size="3"><b>Public Forums</b></font></p><p><font size="3">
+
+<font size="2">
+This site makes forums, message boards, and/or 
+news groups available to users who register in the Locker Room. Please remember 
+that any information that is disclosed in these areas becomes public information 
+and you should exercise caution when deciding to disclose your personal 
+information.</font></font></p><p><font size="3"><font size="2">
+
+<font size="3"><b>Security</b></font></font></font></p><p><font size="3"><font size="2"><font size="3">
+<font size="2">
+This site has security measures in place to 
+protect the loss, misuse and alteration of the information under our 
+control. DigiMedia utilizes a variety of 
+security measures to maintain the safety of your personal information. All user 
+contact information is contained behind a "firewall" and only accessible by a 
+limited number of employees who have special access rights to production 
+systems. Passwords are encrypted in DigiMedia’s secure database, which is also 
+located behind a firewall.</font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2">
+
+<font size="3"><b>Children's Guidelines</b></font></font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2"><font size="3">
+<font size="2">
+We do not knowingly collect personally identifiable 
+information from children under age thirteen. If DigiMedia becomes aware that we 
+have inadvertently received personally-identifiable information from a user 
+under the age of thirteen, we will delete such information from our records.</font></font></font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2">
+We do not knowingly allow 
+children under age thirteen to publicly post or otherwise distribute personally 
+identifiable contact information.</font></font></font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2">
+
+<font size="3"><b>Choice/Opt-Out</b></font></font></font></font></font></font></font></p><p><font size="2"><font size="3"><font size="2"><font size="3"><font size="2"><font size="3">
+<font size="2">
+Our site provides users the 
+opportunity to opt-out of receiving communications from us at the point where we 
+request information about the visitor.</font></font></font></font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2">
+
+This site gives users the following options 
+for removing their information from our database to not receive future 
+communications or to no longer receive our service. </font></font></font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2">
+
+You can visit the following URL: <a href="../unsubscribe.asp">http://www.fantasyfootball.com/unsubscribe.asp</a></font></font></font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2"> 
+
+<font size="3"><b>Correct/Update</b></font></font></font></font></font></font></font></p><p><font size="2"><font size="3"><font size="2"><font size="3"><font size="2"><font size="3">
+<font size="2">
+
+This site gives users the following options for changing and modifying information previously provided.</font></font></font></font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2">
+<a href="../locker/locker.asp">http://www.fantasyfootball.com/locker/login.asp</a></font></font></font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2"> 
+
+<font size="3"><b>Contacting the Web Site</b></font></font></font></font></font></font></font></p><p><font size="2"><font size="3"><font size="2"><font size="3"><font size="2"><font size="3">
+<font size="2">
+If you have any questions about this privacy 
+statement, the practices of this site, or your dealings with this web site, you 
+can contact DigiMedia at the following address. </font></font></font></font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2">
+
+<i>
+DigiMedia.com, L.P.<br>
+Attn: FantasyFootball.com<br>
+P.O. Box 750237<br>
+Duncan, OK 73575</i></font></font></font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2"><i>
+
+<a href="mailto:help@fantasyfootball.com">help@fantasyfootball.com</a>
+</i>
+
+		  </font></font></font></font></font></font></p><p><font size="3"><font size="2"><font size="3"><font size="2"><font size="3">
+		  
+		  <font face="Arial" size="3">
+		  <a href="agreement.asp">TERMS OF USE AND SERVICE AGRREMENT</a>
+		  </font>
+		  
+         </font></font></font></font></font></p></font></font></td>
+       </tr>
+    </tbody></table>
+  </td>
+  <td width="1">&nbsp;</td>
+
+</tr><tr>
+  <td colspan="3">&nbsp;</td>
+</tr>
+</tbody></table>
+
+<table border="0">
+  <tbody><tr>
+    <td align="CENTER" width="750">
+    
+
+
+		<a href="../showad.asp?Ad=4" target="_new">
+		
+		<img src="../images/adbanners/casino.gif" border="0" alt="Casino and SportsBook">
+		</a>
+		
+
+	
+    </td>
+  </tr>
+  <tr>
+    <td align="CENTER">
+      <font face="Arial" size="1">
+	  © 2000 DigiMedia.com, L.P. All Rights Reserved. DigiMedia.com,
+	  digimedia.com and FantasyFootball.com are trademarks of Digimedia.com, L.P.</font>    
+    </td>
+  </tr>  
+</tbody></table>
+
+
+
+</body></html>
