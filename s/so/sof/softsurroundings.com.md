@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203010954id_/http%3A//www.softsurroundings.com/page.php%3Ffile%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409072544id_/http%3A//www.softsurroundings.com/page.php%3Ffile%3Dprivacy) for the most accurate reproduction.*
 
 # Soft Surroundings
 
@@ -11,7 +11,7 @@ PO Box 4205
 Hazelwood, MO 63042  
 
 
-Our Customer Service can be reached via e-mail at [socustserv@kwcorp.com](mailto:socustserv@imail.kwcorp.com). Or you can reach us by telephone at 888-414-7638 (toll free). 
+Our Customer Service can be reached via e-mail at [socustserv@kwcorp.com](mailto:socustserv@imail.kwcorp.com). Or you can reach us by telephone at 800-240-7076 (toll free). 
 
 For each visitor to our web site, our web server automatically recognizes the visitor's domain name / IP address, but NOT their email address or any other personal information. 
 
@@ -23,7 +23,7 @@ If a visitor does wish to submit personal information, the information we collec
 
 If you do not want to receive e-mail from us in the future, please let us know by clicking [HERE](mailto:socustserv@imail.kwcorp.com) to send email, or writing by to us at the above address and telling us that you do not want to receive e-mail from our company. 
 
-We will not share your e-mail address with other companies. From time-to-time, you may receive a promotional e-mail from us. If you wish to be removed from this mailing list, please click [HERE](https://web.archive.org/web/20021203010954id_/http%3A//www.softsurroundings.com/subscribe.php) or write to us at the above address. 
+We will not share your e-mail address with other companies. From time-to-time, you may receive a promotional e-mail from us. If you wish to be removed from this mailing list, please click [HERE](https://web.archive.org/web/20030409072544id_/http%3A//www.softsurroundings.com/subscribe.php) or write to us at the above address. 
 
 If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by clicking [HERE](mailto:socustserv@imail.kwcorp.com) to send email, or writing by to us at the above address. Also, you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by clicking [HERE](mailto:socustserv@imail.kwcorp.com) to send email, or writing by to us at the above address 
 
