@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the iwantanewgirlfriend.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602190209id_/http%3A//iwantanewgirlfriend.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantanewgirlfriend.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204153003id_/http%3A//www.iwantanewgirlfriend.com/privacy.asp) for the most accurate reproduction.*
 
 # :: I Want a New Girlfriend
 
 **Visit These Great Sites**  
 ---  
   
-| **Site of the Moment:   [ **Dog Shaft**](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3195 "Dog Shaft")  **  
+| **Site of the Moment:   [ **Speeds Babes**](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5963 "Speeds Babes")  **  
 ---  
-#1| [Coolio's Weblog](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4491 "Coolio's Weblog")| #8| [Cum Fiesta](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4175 "Cum Fiesta")| #15| [Horny Minded](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2555 "Horny Minded")  
-#2| [Girls Kissing Girls](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2643 "Girls Kissing Girls")| #9| [Dirty USA Nurse](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4423 "Dirty USA Nurse")| #16| [snowsurfer.org](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2678 "snowsurfer.org")  
-#3| [Porngasm](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3813 "Porngasm")| #10| [Feedme Fuckme STFU](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4025 "Feedme Fuckme STFU")| #17| [ORSM dot net](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2647 "ORSM dot net")  
-#4| [Exp0sed.com Celebs](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2705 "Exp0sed.com Celebs")| #11| [My Ex-Girlfriend](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2857 "My Ex-Girlfriend")| #18| [TITbit.nl](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4323 "TITbit.nl")  
-#5| [Fuck A Cam Girl](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2553 "Fuck A Cam Girl")| #12| [Stupid naked People](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3590 "Stupid naked People")| #19| [MilfSeeker.com](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4340 "MilfSeeker.com")  
-#6| [Revulsion.net](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2858 "Revulsion.net")| #13| [RoseGardenofWhores](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2707 "RoseGardenofWhores")| #20| [Sexy Fuckable Babes](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4005 "Sexy Fuckable Babes")  
-#7| [Breakroom X Pussy](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3131 "Breakroom X Pussy")| #14| [Mental Ernie](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2772 "Mental Ernie")| #21| [MikeInBrazil.com](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4435 "MikeInBrazil.com")  
+#1| [Girls Kissing Girls](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2643 "Girls Kissing Girls")| #8| [Drunk Girls Fuck](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=6811 "Drunk Girls Fuck")| #15| [My Ex Girlfriend](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5413 "My Ex Girlfriend")  
+#2| [Breakroom X Pussy](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3131 "Breakroom X Pussy")| #9| [Gallery Porn Post](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4660 "Gallery Porn Post")| #16| [Celebrity Factor](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=6273 "Celebrity Factor")  
+#3| [Revulsion.net](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2858 "Revulsion.net")| #10| [Hole in the .net](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3089 "Hole in the .net")| #17| [Texas Waterhole](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=101 "Texas Waterhole")  
+#4| [RickOnTV.com](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4974 "RickOnTV.com")| #11| [Los Blaugrana](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5682 "Los Blaugrana")| #18| [Paid Porn Surfers](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7670 "Paid Porn Surfers")  
+#5| [College Sucks](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=1159 "College Sucks")| #12| [Fuck A Cam Girl](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2553 "Fuck A Cam Girl")| #19| [PornHoolio.com](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4366 "PornHoolio.com")  
+#6| [Dirty USA Nurse](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4423 "Dirty USA Nurse")| #13| [College Clam](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=343 "College Clam")| #20| [Smit Happens](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3507 "Smit Happens")  
+#7| [Porngasm](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3813 "Porngasm")| #14| [Teen Porno Pic](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7076 "Teen Porno Pic")| #21| [Ich Bin Hot (I am Hot)](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2648 "Ich Bin Hot \(I am Hot\)")  
   
 * * *
 
