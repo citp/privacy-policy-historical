@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanoodle.com privacy policy that was archived on 1999-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991129003626id_/http%3A//www.kanoodle.com/privacy.cool) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanoodle.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610130601id_/http%3A//kanoodle.com/privacy.cool) for the most accurate reproduction.*
 
 # Kanoodle.com - Privacy Policy
 
@@ -33,6 +33,19 @@ When you purchase an item through our online store or sign up to receive promoti
 Your cookie may be altered at different times throughout your visits to Kanoodle.com, and it is updated frequently as you use various Kanoodle.com features. Every time you enter Kanoodle.com, our server may deliver certain customized information to you based on the data stored in your cookie.
 
 Some advertisers or Web sites that have links on our site may use their own cookies. Again, these cases are beyond our control and are not included in Kanoodle.com’s Privacy Policy.
+
+**Security  
+**Kanoodle.com stores all data behind carefully selected security devices, such as firewalls. All internal communication with the system and communication of private member data, such as credit card information, is transmitted using encrypted protocols. Policies related to staff access to private member data are in place. All data is held in the strictest confidence, protected by the strictest security standards.
+
+**Correct/Update**  
+This site gives users the following options for changing and modifying information previously provided.  
+Users can email [customersupport@kanoodle.com](mailto:customersupport@kanoodle.com)  
+Users can send mail to the following postal address:  
+606 North French Rd.  
+Suite 6  
+Amherst, NY 14208  
+or call the following telephone number: (716) 691-1764  
+
 
 **Your Agreement to This Privacy Policy**  
 By using Kanoodle.com, you indicate that you agree to the collection and use of your personal information by Kanoodle.com as outlined in this Privacy Policy.
