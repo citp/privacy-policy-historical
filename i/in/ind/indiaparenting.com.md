@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaparenting.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603071421id_/http%3A//www.indiaparenting.com/commonfiles/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaparenting.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211184051id_/http%3A//www.indiaparenting.com/commonfiles/privacy.htm) for the most accurate reproduction.*
 
 # IndiaParenting.com - Privacy Policy
 
