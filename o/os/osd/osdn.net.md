@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the osdn.net privacy policy that was archived on 2004-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040902015429id_/http%3A//osdn.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osdn.net privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405190902id_/http%3A//www.osdn.net/privacy.htm) for the most accurate reproduction.*
 
 # OSTG | Open Source Technology Group
 
 | 
 
-OSTG, Inc., comprised of the Internet sites ostg.com, slashdot.org, sourceforge.net, freshmeat.net, linux.com, animationfactory.com, gifworks.com, mediabuilder.com, postcardmaker.com, 3dtextmaker.com, NewsForge.com, geocrawler.com and devchannel.org (the "OSTG Sites"), is committed to protecting the privacy of users of the OSTG Sites. At OSTG, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the OSTG Sites, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. 
+OSTG, Inc., comprised of the Internet sites ostg.com, slashdot.org, sourceforge.net, freshmeat.net, thinkgeek.com, itmanagersjournal.com, slashcode.com, linux.com, animationfactory.com, gifworks.com, mediabuilder.com, postcardmaker.com, 3dtextmaker.com, NewsForge.com, geocrawler.com and devchannel.org (the "OSTG Sites"), is committed to protecting the privacy of users of the OSTG Sites. At OSTG, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the OSTG Sites, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. 
 
 Information Gathered through the OSTG Sites
 
