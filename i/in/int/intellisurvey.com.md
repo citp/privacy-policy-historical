@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellisurvey.com privacy policy that was archived on 2002-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020815031850id_/http%3A//www.intellisurvey.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellisurvey.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608041626id_/http%3A//intellisurvey.com/privacy.htm) for the most accurate reproduction.*
 
 # IntelliSurvey: IntelliSurvey Privacy Policy
 
@@ -22,4 +22,4 @@ We abide by the highest standards of privacy. Specifically:
 
 
 
-For further information about our privacy policy, please contact us at [privacy@intellisurvey.com](mailto:privacy@intellisurvey.com). A current version of this Privacy Policy, responsive to current laws and industry standards, will be posted on our website: [www.intellisurvey.com/privacy.htm](https://web.archive.org/web/20020815031850id_/http%3A//www.intellisurvey.com/privacy.htm).
+For further information about our privacy policy, please contact us at [privacy@intellisurvey.com](mailto:privacy@intellisurvey.com). A current version of this Privacy Policy, responsive to current laws and industry standards, will be posted on our website: [www.intellisurvey.com/privacy.htm](https://web.archive.org/web/20030608041626id_/http%3A//intellisurvey.com/privacy.htm).
