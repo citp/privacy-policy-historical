@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gerson.org privacy policy that was archived on 2004-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607181737id_/http%3A//www.gerson.org/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gerson.org privacy policy that was archived on 2004-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206035325id_/http%3A//www.gerson.org/privacy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="Javascript">
 		function setValue(form, fieldname, fieldvalue) {
@@ -316,6 +316,25 @@
 			var Lf = Vs.substr(0,Len-Rt.length);
 			return "$"+Lf+"."+Rt;
 		}		
+		
+		function hideshow(which, mode)
+		{
+			if (!document.getElementById|document.all) {
+				return
+			}  else {
+				if (document.getElementById) {
+					oWhich = eval ("document.getElementById('" + which + "')")
+				} else {
+					oWhich = eval ("document.all." + which)
+				}
+			}
+			window.focus()
+			if (mode == "show")  {
+				oWhich.style.display=""
+			} else {
+				oWhich.style.display="none"
+			}
+		}
 </script>
 
 
@@ -357,7 +376,7 @@ function MM_swapImage() { //v3.0
     <td width="669" valign="bottom"><table width="669" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td width="334">&nbsp;</td>
-          <td width="335" align="right" class="DateFont">6/7/2004&nbsp;</td>
+          <td width="335" align="right" class="DateFont">12/5/2004&nbsp;</td>
         </tr>
       </tbody></table></td>
   </tr>
@@ -434,8 +453,21 @@ function MM_swapImage() { //v3.0
         <tr> 
           <td> 
              
-          </td>
-        </tr>        
+			</td></tr><tr>
+				<td>
+					<table width="90%" border="0" cellspacing="0" cellpadding="0" align="center" id="Table1">
+					<tbody><tr><td>&nbsp;</td></tr>
+					<tr>
+						<td valign="top"><img src="./images/arrow_right.gif" width="9" height="9" border="0" align="absbottom">&nbsp;&nbsp;</td>
+						<td>12/6/2004<br><a href="./events/detail.asp?id=23">Module II Practitioner Training</a><br><br></td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr><td><img src=".images/back_quick_link_divider.gif" width="205" height="1"></td></tr>
+		
+          
+                
       </tbody></table>
     </td>
     <td width="9"><img src="images/spacer.gif" width="9" height="8"></td>
