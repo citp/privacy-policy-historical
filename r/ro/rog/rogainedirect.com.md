@@ -1,41 +1,59 @@
-> *The following text is extracted and transformed from the rogainedirect.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603224542id_/http%3A//www.rogaine.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogainedirect.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204194515id_/http%3A//www.prodhelp.com/privacy.html) for the most accurate reproduction.*
 
-# Rogaine - Privacy Statement
+# Privacy Statement
 
-Pfizer thanks you for visiting its website. Because we are committed to respecting the privacy of our website visitors, this website Privacy Statement describes the information we may collect from you during your visit to our site, how we may use it, and how we will protect the information which you may opt to provide. This statement explains the efforts to balance our business interests in collecting and using the information we receive from you with your need for appropriate protection and management of any personally identifiable information that you share with us. 
+  
+At Pfizer, we are committed to protecting the privacy of our customers and the users of our Site, and this Privacy Policy Statement sets out our policy on the gathering and use of information on this Site.
 
-**Personally Identifiable Information**
+There may be links from this Site to other websites but please note that this Privacy Statement applies only to this Site and not to websites of other companies or organizations to which this Site is linked.
 
-Personally identifiable information includes your name, address, phone number, e-mail address or any other information which might reasonably be used to identify you individually. Pfizer collects personally identifiable information from website visitors only when it is voluntarily provided. Pfizer will not otherwise collect this information from you on our website. 
+Although you are not required to register to access this Site, you may be asked to provide us with personal information when you visit certain sections of the Site. 
 
-At those portions of our website where we provide you with the option to input personally identifiable information, we notify you of the uses we intend to make of that information in any given instance. When Pfizer receives personally identifiable information, we may use it for reasonable business purposes, just as non-Internet businesses do. For example, we may use this information to contact you, via e-mail or regular mail, to provide you with information we believe may be of interest. It might also be used for compiling data and analyses to understand and serve our customers' needs. Data is also compiled to evaluate the use and utility of the services we provide online. Your information may be transferred for processing and use to Pfizer facilities in other countries and regions of the world. Personally identifiable information will not be sold, rented or exchanged outside of Pfizer unless the user is first notified and expressly consents to such transfer. 
+****
 
-**Collective/Aggregate Data**
+**How does Pfizer use information gathered about its online visitors?**
 
-Some Pfizer websites may also collect information from you that is not personally identifiable. For example, we might track information about the date and time visitors access our site, the type of Web browser they used, and the website from which they connected to our site. Our websites collect this information by depositing certain bits of information called "cookies" in a visitor's computer. This technology does not collect an individual visitor's personally identifiable information. Rather, this information is collected in an aggregate form. The cookies can tell us how and when pages in a website were visited and by how many people. This aggregate information will enable us to improve our websites to serve and inform you better. It also may allow you to shortcut access to points of interest on our website when you reenter our system. Attaching this device to your system has no effect on how it performs. 
+Any consumer information gathered on this Site may be used for aggregate research, promotional purposes and/or for future site development. In particular we may use information gathered about you for the following purposes: to send you or, where appropriate, your organization, information about us and promotional material about our products together with details of any offers we may have available from time to time; to monitor interest in our range of products and to assist us to tailor the content of our Site to your needs by collecting information about your preferences through tracking patterns of page views on this site; and to create a profile relating to you in order to show you the content that might be of interest to you and to display the content according to your preferences.
 
-**Links to Other Sites**
+****
 
-As a resource to our visitors, Pfizer may provide links to other websites. We try to carefully choose websites which we believe are useful and meet our high standards for the accuracy and utility of information. However, because website design and content can change so quickly, we cannot guarantee the standards of every website to which we link. Likewise, we are not responsible for the content of any non-Pfizer site. We also cannot guarantee the privacy policies of these other sites and suggest you check the privacy policies of those sites directly. 
+**Disclosure of Information**
 
-**Choice**
+Pfizer will not disclose personal identifiable information that you provide on this Site to any third parties other than to a Pfizer agent, except: i) in accordance with the terms of this privacy policy statement, or ii) to comply with valid legal requirements such as law, regulation, warrant, subpoena or court order.
 
-If you wish to stop receiving any emails or other consumer communications from Pfizer which may be sent to you in the future based on your request for this information, or if you have submitted personally identifiable information through a Pfizer website and would like to have that information deleted from our records, please notify us via the [Contact Us](https://web.archive.org/web/20030603224542id_/http%3A//www.rogaine.com/contactus.asp "Contact Us") form on this site. Your wishes in these matters will be honored. 
+****
 
-**Accuracy**
+**Cookies**
 
-Pfizer will make every effort to maintain the accuracy and confidentiality of any personal information you supply to us. If you wish to make additions or other corrections to the information that you have sent in, please transmit it to us via the [Contact Us](https://web.archive.org/web/20030603224542id_/http%3A//www.rogaine.com/contactus.asp "Contact Us") form on this site. 
+Pfizer, in common with many website operators, may use standard technology called cookies on this Site. Cookies are small data files that are downloaded onto your computer when you visit a particular website. You can disable cookies by turning them off in your browser, however, some areas of this Site may not function properly if you do so.
+
+****
+
+**Policies for Online Visitors Under 13 Years of Age**
+
+Pfizer does not provide any personal identifiable information to any third party (other than Pfizer agents) from our online visitors identified as being under 13 years of age. E-mail addresses of children under 13 are used to deliver requested information.
+
+When an online visitor under 13 years of age registers or provides any personal identifiable information, he/she is required to provide the e-mail address (or on some Sites, the postal address) of his/her parent or guardian. We give the parent or guardian notice via e-mail (or postal mail) when their child under 13 years of age registers or provides personal identifiable information. The notification provides the parent or guardian with instructions on how to review and delete information collected from his/her child.
+
+Although online visitors under 13 years of age may be allowed to participate in some contests or promotions, if such a visitor wins, notification and prizes will be sent to the parent or guardian identified when the child entered the contest or promotion.
+
+****
 
 **Security**
 
-All information transmitted to this Pfizer website is secure to the extent possible using existing technology. Unauthorized third parties should not be able to access it during transmission. We will store the information that you share with us securely and will take appropriate steps to protect it from unauthorized access or disclosure. While no security steps can offer 100 percent protection, we utilize state-of-the-art technology and systems to prevent unauthorized access to the information we hold. We will limit access to this information to those Pfizer personnel with a need to know. We educate our staff about their duty to protect your privacy, and provide training regarding the policy described herein. 
+This Site incorporates appropriate safeguards using industry standard technology to heighten the security, accuracy and privacy of any personal information we have collected and we have put in place reasonable precautions to protect information from loss and misuse. Our security and privacy policies are periodically reviewed and enhanced as required.
 
-**Children**
+****
 
-Pfizer does not intentionally collect or retain personally identifiable information about children who are younger than 13 years of age. If your child may have submitted information to us without indicating their actual age, and you would like it removed, please advise us through the [Contact Us](https://web.archive.org/web/20030603224542id_/http%3A//www.rogaine.com/contactus.asp "Contact Us") form on this site, and we will delete it immediately. 
+**Policy Change**
 
-**Changes**
+If we alter our privacy policy, any changes will be posted on this page of our Site so that you are always informed of the information we collect about you, how we use it and the circumstances under which we may disclose it. Please check back from time to time to ensure you are aware of our current privacy policy.
 
-Any changes to this privacy policy will be communicated promptly at this location. Please check the privacy page periodically to review any changes that may have been made. 
+We appreciate your interest and hope that you enjoy visiting the Site.
 
-Thank you for visiting the Pfizer website. We value your interest and ideas. If you have any comments or concerns regarding the use of information provided to Pfizer via an Internet site, please contact us via the [Contact Us](https://web.archive.org/web/20030603224542id_/http%3A//www.rogaine.com/contactus.asp "Contact Us") form on this site. 
+**Contact Details**
+
+If at any time you wish to contact Pfizer with any question or complaint or to exercise any of the rights set out in this privacy policy statement you may do so by contacting Pfizer by either of the methods set out below:
+
+The use of and access to the information on this site is subject to the terms and conditions set out in the Agreement to use this website. Please review this [Agreement](http://www.pfizer.com/mn_copyright.html) and Privacy Statement prior to proceeding further.  
+
