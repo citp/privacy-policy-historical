@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkngo.com privacy policy that was archived on 2003-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030322114514id_/http%3A//www.checkngo.com/forms/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkngo.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202223923id_/http%3A//www.checkngo.com/forms/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
@@ -74,4 +74,4 @@ and requiring our vendors to comply with those standards and policies.
    Signature: ________________________________________                 Street address: _________________________________________________________________________
    Name: ___________________________________________                   City and state: _________________________________________________________________________
    Date: ____________________________________________                  Social security number (or most recent transaction number): ____________________________________
-                                                                                                                                                        Revision Date April 5, 2002
+Version Date June 16, 2003
