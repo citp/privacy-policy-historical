@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safetyissues.com privacy policy that was archived on 2003-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031103063054id_/http%3A//www.safetyissues.com/html/global/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetyissues.com privacy policy that was archived on 2004-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040327034007id_/http%3A//www.safetyissues.com/html/global/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
