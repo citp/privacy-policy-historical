@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whymilk.com privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218095400id_/http%3A//www.whymilk.com/privacy/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whymilk.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602083153id_/http%3A//whymilk.com/privacy/statement.htm) for the most accurate reproduction.*
 
 # Milk - Cruise for Calcium
 
@@ -83,4 +83,4 @@ All of our proprietary documents, images, designs and information, including inf
 If you would like to use, copy, upload or retransmit any of our proprietary materials, call or e-mail us to request written permission. The contents of this site may contain documents, images, information and other materials not proprietary to us, such as photographs, clip art, film clips, musical passages, audio track or sound effects elements, or the names, tradenames, trademarks, logos or designations of third parties. Any use whatsoever of any these non-Milk Materials is strictly prohibited, unless the prior written permission of the appropriate third parties has been secured. 
 
 **YOUR ACCEPTANCE OF THESE TERMS**  
-By using this site, you signify your assent to the Milk Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Milk sites following the posting of changes to these terms will mean you accept those changes. If you have questions or concerns regarding this Web site's privacy statement, you should first contact the company as follows: Privacy Policy Coordinator, Brooke Shepard, at [bshepard@bsmg.com](mailto:bshepard@bsmg.com)
+By using this site, you signify your assent to the Milk Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Milk sites following the posting of changes to these terms will mean you accept those changes. If you have questions or concerns regarding this Web site's privacy statement, you should first contact the company at whymilk@bsmg.com.
