@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whois.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206015449id_/http%3A//whois.com/nonssl/cus_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whois.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204174740id_/http%3A//www.whois.com/nonssl/cus_privacy.htm) for the most accurate reproduction.*
 
 # Whois
 
