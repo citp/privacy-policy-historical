@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parallax.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113007id_/http%3A//www.parallax.com/html_pages/company/policies/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parallax.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305062713id_/http%3A//www.parallax.com/html_pages/company/policies/privacypolicy.asp) for the most accurate reproduction.*
 
-# Parallax: Company; Privacy Policy
+# Privacy Policy
 
 Your privacy is important to us. We provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. Please take the time to read and understand our privacy policies so that you can understand how we treat your personal information.
 
