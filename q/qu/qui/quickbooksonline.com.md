@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the quickbooksonline.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604055932id_/http%3A//www.quickbooks.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbooksonline.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215130152id_/http%3A//www.quickbooks.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-| 
-
-**QuickBooks 2002, QuickBooks.com & QuickBooks Online Edition Privacy Statement**
+|  **QuickBooks 2002, QuickBooks.com & QuickBooks Online Edition Privacy Statement**
 
 [](https://www.truste.org/validate/8257) At Intuit, we dedicate ourselves to revolutionizing the way individuals manage their financial lives and small businesses manage their business. In that effort, we respect and protect the privacy of those who visit or use our Web sites. When we collect information from you, we want you to know how it is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines. Intuit is a Premier Sponsor of TRUSTe and a member of the TRUSTe Privacy Program.
 
@@ -67,7 +65,9 @@ Third party tracking systems in use on behalf of this Web site may assign differ
 
   * **Mandatory and Optional Information.** We identify the information that is necessary to fulfill your request. Whenever we ask for additional or optional information, we identify those fields appropriately so that you know what is required to provide the requested service. If you choose not to provide mandatory information, we will not be able to provide you with the service you are requesting.
   * **Intuit Partners and Co-branded or Third-Party Sites.** Some of the products and services we offer are provided by Intuit's business partners. To fulfill your request for such services, we will forward your customer information to our partner, as necessary. When offering partner services on an Intuit or a co-branded site, the partner who will be receiving the information will be clearly identified. The QuickBooks products and services may provide links to third-party Web sites, such as those of our business partners and online advertisers. On these sites either Intuit and/or its partners may collect information about you. Intuit is not responsible for the actions of these third parties. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personally identifiable information.
-  * **E-mail Message Formatting.** When sending you e-mail we may use an image called a single-pixel GIF, that allows us to (1) format messages that best align with your computer's capabilities, and (2) determine whether you've opened an HTML e-mail. When you click on a link within an e-mail message, you will first pass through our server, then you are redirected on to the Internet. We use this click-through data on an aggregate level to evaluate response rates to our e-mail messages and to determine which links are most useful to our customer base.
+  
+
+  * **E-Mail Messaging.** When sending you e-mail we may use an image called a single pixel GIF, that allows us to format messages tailored to your computer's capabilities. We also use this technology to determine, in the aggregate, the number of people who open our e-mails. When you initiate a response by clicking on a link within an e-mail message, you are re-directed onto the internet. We then record your individual response to help us deliver information that is more relevant to your interests.
   * **Intuit and its Subsidiaries** Intuit and its subsidiaries may exchange customer data with each other to fulfill your request or to provide you with information about other products and services.
   * **Service Providers.** In some cases, we will employ or work with service providers such as consultants, temporary workers, third party software developers, or outsourcers to complete a business process or provide a service on our behalf. For example, we may use service providers to deliver products, offer online software applications, or send e-mails. When we employ service providers, we may need to share your personally identifiable information. Service providers are strictly prohibited from using your personally identifiable information for purposes other than to act on our behalf.
   * **Service Alerts and Critical Notices.** Although we respect and honor the privacy preferences you have expressed, we may nevertheless contact you to inform you of specific changes that may impact your ability to use this service or for other critical non-marketing purposes, such as bug alerts. We may also contact you to respond to your specific requests or to clarify the order information you provided to us.
@@ -191,6 +191,6 @@ We provide you the opportunity to subscribe to e-mail newsletters and other e-ma
 Using our Web site, you can ask us questions and share comments with us. Through our submission request form, we provide you a chance to send specific questions or comments and we request, at your option, a name and e-mail address, so that we may respond to your inquiry. All submissions through this form are treated as non-confidential and non-proprietary, and may be published or used by Intuit without your personal information, for other purposes.
 
   
-_Last updated 05/22/02_
+_Last updated 11/04/02_
 
 | 
