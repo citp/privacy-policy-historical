@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the utexas.edu privacy policy that was archived on 2002-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602203957id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the utexas.edu privacy policy that was archived on 2002-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021201191418id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="en"><head>
 <title>Privacy Policy</title>
@@ -54,16 +54,8 @@ so these meta tags are to help Altavista -->
 
 <!-- the "include" below inserts header graphics at the top of the page, so please do not remove it -->
 
-  <style>
-<!--
-.currentmenu { background-color: #EEEEEE;
-              color: #000000;
-              font-weight: bold;
-}
--->
-</style>
-
-<script language="Javascript">
+  <!--htdig_noindex-->
+<script language="Javascript" type="text/javascript">
 <!--
 
 // Three functions to build side nav, cookie crumbs and
@@ -124,7 +116,7 @@ function BuildCookieCrumbs(fn,titles,path) {
 // The home variable is set to include a link back to the home page
 // and the words UT Home, this is static
 
-var home = "&nbsp;&nbsp;<a href='/'>UT Home</a> -&gt;&nbsp;";
+var home = "&nbsp;&nbsp;<a href='http://www.utexas.edu/'>UT Home</a> -&gt;&nbsp;";
 
 // fn is an array of filenames for the site
 // titles is an array of titles for the site
@@ -168,11 +160,11 @@ for (var j=0; j<fn.length; j++) {
              
              // write cookie crumb, uol variable contains
              // proper number of ..
-             document.write(home + "<a href='" + uol + "'>" + titles[0] + "</a> -&gt;&nbsp;" + titles[j]);
+             document.write(home + '<a href="' + uol + '">' + titles[0] + '</a> -&gt;&nbsp;' + titles[j]);
          } else {
              // we are not one directory deeper so we can write
              // cookie crumb normally
-             document.write(home + "<a href='" + fn[0] + "'>" + titles[0] + "</a> -&gt;&nbsp;" + titles[j]);
+             document.write(home + '<a href="' + fn[0] + '">' + titles[0] + '</a> -&gt;&nbsp;' + titles[j]);
          }
       }
 
@@ -200,7 +192,7 @@ function BuildSideNav(fn,titles,path) {
 // this should probably be in second level html doc
 // rather than in Javascript function
 
-document.write("<br>"); 
+document.write('<br />'); 
 
 var CurrentPage = window.location.pathname;
 
@@ -209,7 +201,7 @@ for (var j=0; j<fn.length; j++) {
      
       // CurrenPage matches current filename in array 
       // so just write document title with no links
-      document.write("<p class=\"currentmenu\">" + titles[j] + "</p>");
+      document.write('<p class="currentmenu">' + titles[j] + '</p>');
         
     } else {
         // the filename does not match the CurrentPage so we 
@@ -218,7 +210,7 @@ for (var j=0; j<fn.length; j++) {
         if (CurrentPage.lastIndexOf("/")+1 == CurrentPage.length && fn[j] == 'index.html') {
              
           // Match directory index 
-       document.write("<p class=\"currentmenu\">" + titles[j] + "</p>");
+       document.write('<p class="currentmenu">' + titles[j] + '</p>');
      } else {
      
       // No match so write document title and link to document
@@ -226,11 +218,11 @@ for (var j=0; j<fn.length; j++) {
 
        if (CurrentPage.lastIndexOf("/") > path.lastIndexOf("/") ) {
           uol = DirectoryDepth(fn[j],"") + fn[j];
-          document.write("<p><a href=" + uol + ">" + titles[j] + "</a></p>");
+          document.write('<p><a href="' + uol + '">' + titles[j] + '</a></p>');
       } else {
 
      
-        document.write("<p><a href=" + fn[j] + ">" + titles[j] + "</a></p>");
+        document.write('<p><a href="' + fn[j] + '">' + titles[j] + '</a></p>');
 
       }
    }
@@ -240,13 +232,13 @@ for (var j=0; j<fn.length; j++) {
 }   // end for loop
 
 
-   document.write("<img height=10 src=\"/graphics/transparent.gif\" width=1 alt=\"\">");
-   document.write("<img height=1  src=\"/graphics/small_black_line_horz.gif\" width=100 alt=\"\">");
+   document.write('<img height=10 src="http://www.utexas.edu/graphics/transparent.gif" width=1 alt="" />');
+   document.write('<img height=1 src="http://www.utexas.edu/graphics/small_black_line_horz.gif" width=100 alt="" />');
 
 
 }  // end BuildSideNav Function
 
-function quickNav (form) {
+function quicknav (form) {
 
 itemNo = form.navMenu.selectedIndex; // get the index number from the select array
  url = form.navMenu.options[itemNo].value; // the value of the selected element
@@ -269,105 +261,87 @@ itemNo = form.navMenu.selectedIndex; // get the index number from the select arr
 // -->
 </script>
 
-<form action="http://www.utexas.edu/local/cgi-bin/dropmenu" enctype="x-www-form-encoded" method="post" onsubmit="quickNav(this); return false;"> 
+<form action="http://www.utexas.edu/local/cgi-bin/dropmenu" enctype="x-www-form-encoded" method="post" onsubmit="quicknav(this); return false;"> 
 
 <table cellspacing="0" cellpadding="0" width="730" border="0">
 
     <tbody><tr> 
-      <td valign="bottom" height="13"><a href="http://www.utexas.edu/"><img height="31" alt="The University of Texas at Austin" src="/graphics/wordmark_tower.gif" width="502" border="0"></a></td>
-
-      <td valign="bottom" nowrap="" align="left" height="13" colspan="2">
-      <label for="nav"><img height="1" alt="Quick Links:" src="/graphics/transparent.gif" width="1" border="0"></label> 
+      <td valign="bottom">
+<a href="http://www.utexas.edu/"><img height="31" class="hdrimg" alt="The University of Texas at Austin" src="http://www.utexas.edu/graphics/wordmark_tower.gif" width="502" border="0"></a><a href="#maincontent"><img height="1" alt="skip to main content" src="http://www.utexas.edu/graphics/transparent.gif" width="1" border="0" class="hdrimg"></a></td>
+      <td valign="bottom" align="left" nowrap="nowrap">
+      <label for="nav"><img height="1" alt="Quick Links:" src="http://www.utexas.edu/graphics/transparent.gif" width="1" border="0" class="hdrimg"></label> 
             <select class="dropmenu" id="nav" name="navMenu">
           <option value="invalid">Quick Links</option>
-          <option value="http://www.utexas.edu">UT Home</option>
+          <option value="http://www.utexas.edu/">UT Home</option>
 
 	  <option value="invalid">---------------</option>
 
-	  <option value="http://www.utexas.edu/friends">Alumni &amp; Friends</option>
-	  <option value="http://www.utexas.edu/student">Current Students</option>
-	  <option value="http://www.utexas.edu/faculty">Faculty</option>
-          <option value="http://www.utexas.edu/visitors">Parents &amp; Visitors</option>
-	  <option value="http://www.utexas.edu/prospective">Prospective Students</option>
-          <option value="http://www.utexas.edu/staff">Staff</option>
+	  <option value="http://www.utexas.edu/friends/">Alumni &amp; Friends</option>
+	  <option value="http://www.utexas.edu/student/">Current Students</option>
+	  <option value="http://www.utexas.edu/faculty/">Faculty</option>
+          <option value="http://www.utexas.edu/visitors/">Parents &amp; Visitors</option>
+	  <option value="http://www.utexas.edu/prospective/">Prospective Students</option>
+          <option value="http://www.utexas.edu/staff/">Staff</option>
 
 	  <option value="invalid">---------------</option>
          
-          <option value="http://www.utexas.edu/welcome">About UT</option>
-          <option value="http://www.utexas.edu/academic">Academics</option>
-          <option value="http://www.utexas.edu/austin">Around Austin</option>
-          <option value="http://www.utexas.edu/arts">Arts &amp; Entertainment</option>
-          <option value="http://www.utexas.edu/athletics">Athletics</option>
-	  <option value="http://www.utexas.edu/industry">Business &amp; Industry</option>
-          <option value="http://www.utexas.edu/outreach">Community Outreach</option>
-          <option value="http://www.utexas.edu/computer">Computing</option>
-          <option value="http://www.utexas.edu/conted">Continuing &amp; Distance Ed.</option>
-          <option value="http://www.utexas.edu/employment">Employment</option>
-	  <option value="http://www.utexas.edu/ogs">Graduate Studies</option>
-	  <option value="http://www.utexas.edu/international/ogs">International Programs</option>
-	  <option value="http://www.lib.utexas.edu">Libraries</option>
-          <option value="http://www.utexas.edu/research">Research</option>
+          <option value="http://www.utexas.edu/welcome/">About UT</option>
+          <option value="http://www.utexas.edu/academic/">Academics</option>
+          <option value="http://www.utexas.edu/austin/">Around Austin</option>
+          <option value="http://www.utexas.edu/arts/">Arts &amp; Entertainment</option>
+          <option value="http://www.utexas.edu/athletics/">Athletics</option>
+	  <option value="http://www.utexas.edu/industry/">Business &amp; Industry</option>
+          <option value="http://www.utexas.edu/outreach/">Community Outreach</option>
+          <option value="http://www.utexas.edu/computer/">Computing</option>
+          <option value="http://www.utexas.edu/conted/">Continuing &amp; Distance Ed.</option>
+          <option value="http://www.utexas.edu/employment/">Employment</option>
+	  <option value="http://www.utexas.edu/ogs/">Graduate Studies</option>
+	  <option value="http://www.utexas.edu/international/ogs/">International Programs</option>
+          <option value="http://www.utexas.edu/libraries/">Libraries &amp; Museums</option>
+          <option value="http://www.utexas.edu/research/">Research</option>
 
-          <option value="http://www.utexas.edu/do">Support UT</option>
+          <option value="http://www.utexas.edu/do/">Support UT</option>
 
 	  <option value="invalid">---------------</option>
 
-	  <option value="http://www.utexas.edu/calendars">Calendars</option>
-	  <option value="http://www.utexas.edu/maps">Campus &amp; Parking Maps</option>
-	  <option value="https://utdirect.utexas.edu/utdirect">UT Direct</option>
-	  <option value="http://directory.utexas.edu">UT Directory</option>
-	  <option value="http://www.utexas.edu/directory/offices">UT Offices A-Z</option>
-	  <option value="http://www.utexas.edu/search">UT Search</option>
-	  <option value="http://www.utexas.edu/sitemap">UT Site Map</option>
+	  <option value="http://www.utexas.edu/calendars/">Calendars</option>
+	  <option value="http://www.utexas.edu/maps/">Campus &amp; Parking Maps</option>
+	  <option value="http://utdirect.utexas.edu/utdirect/">UT Direct</option>
+	  <option value="http://directory.utexas.edu/">UT Directory</option>
+	  <option value="http://www.utexas.edu/directory/offices/">UT Offices A-Z</option>
+	  <option value="http://www.utexas.edu/search/">UT Search</option>
+	  <option value="http://www.utexas.edu/sitemap/">UT Site Map</option>
         </select>
-        <input type="image" height="18" alt="go" width="24" src="/graphics/go.gif" align="bottom" border="0" name="image">
-        <a href="#maincontent"><img height="1" alt="skip to main content" src="/graphics/transparent.gif" width="1" border="0"></a></td>
+ <input type="image" alt="go" src="http://www.utexas.edu/graphics/go.gif" name="image" class="hdrimg">
+</td>
     </tr>
 </tbody></table>
 
 <table cellspacing="0" cellpadding="0" width="730" border="0">
-
    <tbody><tr> 
-      <td nowrap="" height="10"><img height="25" alt="" src="graphics/header.gif" width="502" border="0"><img height="25" alt="" src="/graphics/grey_bar_space.gif" width="180"><img height="25" alt="" src="/graphics/grey_end.gif" width="47"></td>
+      <td><img height="25" alt="" src="graphics/header.gif" width="502" border="0" class="hdrimg"><img height="25" alt="" src="http://www.utexas.edu/graphics/grey_bar_space.gif" width="180" class="hdrimg"><img height="25" alt="" src="http://www.utexas.edu/graphics/grey_end.gif" width="47" class="hdrimg"></td>
     </tr>
 
 </tbody></table>
 
 <table cellspacing="0" cellpadding="0" width="730" border="0">
     <tbody><tr> 
-      <td class="navbar" valign="center" nowrap="" bgcolor="#cc5500" height="18">&nbsp;| 
+      <td class="navbar" valign="middle" bgcolor="#cc5500">&nbsp;| 
         <a href="http://directory.utexas.edu/">UT
       Directory</a> | <a href="http://www.utexas.edu/directory/offices/">UT
       Offices A-Z</a> 
         | <a href="http://www.utexas.edu/maps/">Campus &amp;
 	Parking 
         Maps</a> | <a href="http://www.utexas.edu/sitemap/">UT Site Map</a>	
-        | <a href="/calendars/">Calendars</a>
+        | <a href="http://www.utexas.edu/calendars/">Calendars</a>
       | <a href="https://utdirect.utexas.edu/utdirect/">UT Direct</a> | <a href="http://www.utexas.edu/search/">UT Search</a>
       |</td>
-      <td colspan="2"><img height="18" alt="" src="/graphics/orange_nav_end2.gif" width="92"></td>
+      <td colspan="2"><img src="http://www.utexas.edu/graphics/orange_navend.gif" width="49" height="18" alt="" align="middle"></td>
           </tr>
   </tbody></table>
 
 </form>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--/htdig_noindex-->
     
 <!-- The following include is used on second level sites to create
 cookie crumbs dynamically. Uncomment the include 
