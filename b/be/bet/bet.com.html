@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bet.com privacy policy that was archived on 2003-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030416015457id_/http%3A//www.bet.com/articles/1%2C%2Cc15-954%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bet.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202025603id_/http%3A//www.bet.com/articles/1%2C%2Cc15-954%2C00.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>BET.com - BET.com Privacy Policy</title>
@@ -7,8 +7,8 @@
 <meta name="content-title" content="BET.com Privacy Policy">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<link rel="stylesheet" type="text/css" href="/static/dynamic_css/0,,15,00.html">
-<script language="javascript1.2" src="/static/BETMENU_rev1.js"></script>
+<link rel="stylesheet" type="text/css" href="/static/dynamic_css/0,,15,00.css">
+<script language="javascript1.2" src="/static/BETMENU_CS.js"></script>
 <script language="javascript" src="/static/bet.js"></script>
 <script language="javascript">
 var winPrint;
@@ -39,125 +39,162 @@ function sendToFriend() {
 	<tbody><tr>
 		<td rowspan="3"><img src="/images/layout/pixel_clear.gif" width="5" height="1" hspace="0" border="0" alt="" align="left">
 		<br></td>
-		<td rowspan="3"><a href="/bethome"><img src="/images/layout/masthead_logo_new.gif" width="165" height="81" border="0" alt="bet.com"></a></td>
-		<td rowspan="3"><img src="/images/layout/masthead_middle.gif" width="119" height="81" border="0" alt=""></td>
-		<td><img src="/images/layout/masthead_above_ad.gif" width="468" height="5" border="0" alt=""></td>
-		<td rowspan="3"><img src="/images/layout/masthead_right.gif" width="13" height="81" border="0" alt=""></td>
+		<td rowspan="3" class="menu-bg"><a href="/bethome"><img src="/images/cslayout/mastheadlogo.gif" width="284" height="81" border="0" alt="bet.com"></a></td>
+		<td class="menu-bg"><img src="/images/cslayout/masthead_above_ad.gif" width="468" height="5" border="0" alt=""></td>
+		<td rowspan="3" class="menu-bg"><img src="/images/cslayout/masthead_right.gif" width="13" height="81" border="0" alt=""></td>
 	</tr>
-	<tr>
-  		<td height="60"><script language="javascript">writeIFad('top', '468', '60', '1', 'betcorporate;sub=;pid=');</script><nolayer><iframe id="adi_top" src="https://web.archive.org/web/20020602114526/http://ad.doubleclick.net/adi/www.bet.com/betcorporate;sub=;pid=;sz=468x60;tile=1;ord=603478480315585900?" width="468" height="60" frameborder="0" border="0" marginwidth="0" marginheight="0" align="left" scrolling="no"><a href="https://web.archive.org/web/20020602114526/http://ad.doubleclick.net/jump/www.bet.com/betcorporate;sub=;pid=;abr=!ie;target=_blank;sz=468x60;tile=1;ord=603478480315585900?"><img src="https://web.archive.org/web/20020602114526/http://ad.doubleclick.net/ad/www.bet.com/betcorporate;sub=;pid=;abr=!ie;sz=468x60;tile=1;ord=603478480315585900?" border=0 height="60" width="468" target="_blank"></a></iframe></nolayer><ilayer id="ad_top" visibility="hidden" width="468" height="60"></ilayer></td>
+	<tr class="menu-bg">
+  		<td height="60"><script language="javascript">
+			document.write(getADJad('top', '468', '60', '1', 'betcorporate;sub=;pid='));
+		</script></td>
 	</tr>
-	<tr>
-  		<td background="/images/layout/masthead_below_ad.gif" align="right" valign="middle" class="masthead-date" height="16"><script language="javascript">document.write(todaysDate().toUpperCase());</script>FRIDAY, JANUARY 31, 2020</td>
+	<tr class="menu-bg">
+  		<td background="/images/cslayout/masthead_below_ad.gif" align="right" valign="middle" class="masthead-date" height="16"><script language="javascript">document.write(todaysDate().toUpperCase());</script>FRIDAY, JANUARY 31, 2020</td>
 	</tr>
 </tbody></table>
+<img src="/images/layout/pixel_clear.gif" width="1" height="4"><br>
 <table width="770" cellpadding="0" cellspacing="0" border="0">
-	<!-- DEFINE 2 MAIN COLUMNS -->
 	<tbody><tr>
-		<td><img src="/images/layout/pixel_clear.gif" width="5" height="1" hspace="0" border="0" alt="" align="left"></td>
-    	<td height="4" colspan="2"><img src="/images/layout/pixel_clear.gif" width="614" height="4" border="0" alt=""></td>
-    	<td height="4"><img src="/images/layout/pixel_clear.gif" width="151" height="4" border="0" alt=""></td>
-	</tr>
-	<tr>
-		<td><img src="/images/layout/pixel_clear.gif" width="5" height="1" hspace="0" border="0" alt="" align="left"></td>
-    	<td valign="top" colspan="2">
+		<td width="5"> </td>
+    	<td width="614" valign="top">
 		<!-- BEGIN NAVBAR -->
 		<script language="javascript1.2">
 /// Menu object for Left Channel Naviation
 var curChan = escape("betcorporate");
 
+	///Menu object for Channels dropdown
+	CHANNELS = new BETMENU("popup");
+	CHANNELS.x = 5;
+	CHANNELS.y = 103;
+	CHANNELS.w = 124;
+	//CHANNELS.handle_on_src = "/images/layout/navbar_channels_x.gif";
+	CHANNELS.lableCSS = "title-leftcol"
+	CHANNELS.lableText = "CHANNELS"
+	CHANNELS.items = [
+	
+		{text:'BET HOME', href:'/bethome'}, {text:'NEWS', href:'/news'}, {text:'MUSIC', href:'/music'}, {text:'BET SHOWS', href:'/betshows'}, {text:'BET CORPORATE', href:'/betcorporate'}, {text:'BET JAZZ', href:'/betjazz'}, {text:'ENTERTAINMENT', href:'/entertainment'}, {text:'COMMUNITY', href:'/community'}, {text:'BOOKS', href:'/books'}, {text:'HEALTH', href:'/health'}, {text:'OWNING A HOME', href:'http://owningahome.bet.com'}, {text:'MONEY', href:'/money'}, {text:'BEAUTY', href:'/beauty'}, {text:'FOR MEN', href:'/formen'}, {text:'CONTESTS', href:'/contests'}, {text:'DATING', href:'/dating'}, {text:'GET IT FIRST', href:'/getitfirst'}, {text:'CAREERS', href:'/careers'}, {text:'TRAVEL', href:'/travel'}, {text:'SHINE', href:'http://shine.bet.com'}, {text:'SITE MAP', href:'/sitemap'}  ];
 </script>
-
-<img src="/images/layout/navbar_channels_h.gif" width="121" height="18" hspace="0" vspace="0" border="0" align="left">
-
-<a href="/news"><img src="/images/layout/navbar_features_120w_o.gif" width="120" height="15" hspace="1" vspace="1" border="0" align="left"></a>
-<a href="/betshows"><img src="/images/layout/navbar_bettv_o.gif" width="120" height="15" hspace="1" vspace="1" border="0" align="left"></a>
-<a href="/music"><img src="/images/layout/navbar_music_o.gif" width="121" height="15" hspace="1" vspace="1" border="0" align="left"></a>
-<a href="/community"><img src="/images/layout/navbar_community_o.gif" width="121" height="15" hspace="1" vspace="1" border="0" align="left"></a><br clear="all">
- <!-- END NAVBAR -->
-    	</td>
-    	<td valign="bottom" align="left">
-		<!-- BEGIN SEARCH BOX TOP -->
+<table border="0" cellspacing="0" cellpadding="1"><tbody><tr><td bgcolor="#FFFFFF"><!-- Outer Black border table -->
+<table border="0" cellspacing="0" cellpadding="0" height="17">
+<tbody><tr>
+	<td width="124" align="center" class="title-leftcol"><div class="wt-menu-copy">
 		
-		<table width="151" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td width="146" background="/images/layout/rr_gold_head_bg.gif"><img src="/images/layout/rr_title_search.gif" width="146" height="16" border="0" alt=""></td>
-			<td width="5" valign="top" background="/images/layout/rr_rborder_bg_blue.gif"><img src="/images/layout/rr_head_cap2.gif" width="5" height="16" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-		 <!-- END SEARCH BOX -->    	
+		<a href="/bethome" onmouseover="startMenu(CHANNELS,this)">CHANNELS</a>
+		 </div></td>
+	
+	<td width="1" align="left"></td>
+	<td width="119" align="center" valign="middle" class="menu-bg"><div class="wt-menu-copy"><a href="/news">NEWS</a></div></td>
+	<td width="1"></td>
+	<td width="122" align="center" class="menu-bg"><div class="wt-menu-copy"><a href="/betshows">BET SHOWS</a></div></td>
+	<td width="1"></td>
+	<td width="119" align="center" class="menu-bg"><div class="wt-menu-copy"><a href="/music">MUSIC</a></div></td>
+	<td width="1"></td>
+	<td width="122" align="center" class="menu-bg"><div class="wt-menu-copy"><a href="/community">COMMUNITY</a></div></td>	</tr>
+</tbody></table>
+</td></tr></tbody></table> <!-- END NAVBAR -->
     	</td>
+    	<td width="150" align="right">
+		
+		<table width="150" border="0" cellspacing="0" cellpadding="1"><!-- Outer Black border table -->
+		<tbody><tr><td bgcolor="#000000">
+		<table width="148" border="0" cellspacing="0" cellpadding="0"><!-- Inner Content Table -->
+			<tbody><tr>
+				<td class="title-rightcol" width="133">&nbsp; BET.COM SEARCH</td>
+				<td class="title-rightcol" width="15" align="right"><img src="/images/cslayout/rightTitleDeco.gif" width="15" height="15" vspace="0" hspace="0" border="0" align="right"></td>
+			</tr>
+		</tbody></table>
+		</td></tr>	
+		</tbody></table>
+		<!-- BEGIN SEARCH BOX TOP&nbsp; BET.COM SEARCH  END SEARCH BOX -->
+		 </td>
 	</tr>
 </tbody></table>
 <!-- END MASTHEAD 770w -->	
 <!-- BEGIN LEFT COLUMN -->
-<table width="770" cellpadding="0" cellspacing="0" border="0">
+<table width="771" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 	<td><img src="/images/layout/pixel_clear.gif" width="5" height="1" hspace="0" border="0" alt="" align="left"></td>
-    <td width="125" valign="top" align="right">    
-	 <!-- Start MINI LEFT COLUMN --><!-- BEGIN LR LIST 125w --><table cellspacing="0" cellpadding="0" border="0" width="125">	
-	 <tbody><tr>
-	    <td valign="top" background="/images/layout/lr_list_leftborder_bg.gif"><img src="/images/layout/lr_list_sidecap_6h.gif" width="4" height="6" border="0" alt=""></td>
-	    <td bgcolor="#002752" valign="top"><img src="/images/layout/pixel_333333.gif" width="118" height="2" border="0" alt=""><br>		
-		<img src="/images/layout/pixel_clear.gif" width="1" height="2" hspace="0" border="0" align="left" alt="">		
-		
-		<table width="118" border="0" cellspacing="0" cellpadding="1"><!-- Outer Black border table -->
-			<tbody><tr><td bgcolor="#000000">
-				<table border="0" cellspacing="0" cellpadding="2"><!-- Inner Content Table -->
-				<tbody><tr>
-					<td width="120" bgcolor="#FFFFFF" valign="top"><div class="headline-copy">
-					<a href="/bethome" style="color: Black;">BET HOME</a><br><a href="/news" style="color: Black;">NEWS</a><br><a href="/music" style="color: Black;">MUSIC</a><br><a href="/betshows" style="color: Black;">BET SHOWS</a><br><a href="/betcorporate" style="color: Black;">BET CORPORATE</a><br><a href="/betjazz" style="color: Black;">BET JAZZ</a><br><a href="/entertainment" style="color: Black;">ENTERTAINMENT</a><br><a href="/community" style="color: Black;">COMMUNITY</a><br><a href="/books" style="color: Black;">BOOKS</a><br><a href="/food" style="color: Black;">FOOD</a><br><a href="/health" style="color: Black;">HEALTH</a><br><a href="http://owningahome.bet.com" style="color: Black;">OWNING A HOME</a><br><a href="/money" style="color: Black;">MONEY</a><br><a href="/style" style="color: Black;">STYLE</a><br><a href="/women" style="color: Black;">WOMEN</a><br><a href="/contests" style="color: Black;">CONTESTS</a><br><a href="/dating" style="color: Black;">DATING</a><br><a href="/getitfirst" style="color: Black;">GET IT FIRST</a><br><a href="/careers" style="color: Black;">CAREERS</a><br><a href="/hollagram" style="color: Black;">HOLLAGRAM</a><br><a href="http://shine.bet.com" style="color: Black;">SHINE</a><br> </div></td>
-				</tr>
-				</tbody></table>
-			</td></tr>	
+    <td width="126" valign="top" align="center">    
+	<img src="/images/layout/pixel_clear.gif" width="1" height="1" border="0" alt=""><br> <!-- Start MINI LEFT COLUMN --><!-- BEGIN LR LIST 125w -->
+<table width="125" border="0" cellspacing="0" cellpadding="1"><!-- Outer Black border table -->
+	<tbody><tr><td bgcolor="#000000">
+		<table border="0" cellspacing="0" cellpadding="0"><!-- Inner Content Table -->
+		<tbody><tr>
+			<td width="11" class="title-leftcol" valign="bottom">
+			<img src="/images/cslayout/d_arrow.gif" width="11" height="25" hspace="2" border="0" align="left">
+			</td>
+			<td width="112" class="title-leftcol"><p class="small-barker-h">Inside BET Corporate</p></td>
+		</tr>
 		</tbody></table>
-		 </td>
-	    <td bgcolor="#002752"><img src="/images/layout/pixel_clear.gif" width="1" height="2" border="0" alt=""></td>
-	</tr>	
-	<tr>
-	    <td colspan="3" align="right"><img src="/images/layout/lr_bottom122w.gif" width="122" height="6" border="0" alt=""></td>
-	</tr>	
-</tbody></table><!-- END LR LIST 125w -->
+	</td></tr>	
+</tbody></table>
+<img src="/images/layout/pixel_clear.gif" width="2" height="1" vspace="0" border="0" alt=""><br>
+ 
+<table width="125" border="0" cellspacing="0" cellpadding="1"><!-- Outer Black border table -->
+	<tbody><tr><td bgcolor="#000000">
+		<table border="0" cellspacing="0" cellpadding="2"><!-- Inner Content Table -->
+		<tbody><tr>
+			<td width="123" bgcolor="#FFFFFF" valign="top"><div class="headline-copy">
+			<a href="/betcorporate/pictures" style="color: Black;">PICTURES</a><br><a href="/betcorporate/eventprod" style="color: Black;">EVENT PROD</a><br><a href="/betcorporate/affiliates" style="color: Black;">AFFILIATES</a><br><a href="http://www.betint.com" style="color: Black;">INTERNATIONAL</a><br><a href="/betcorporate/archives" style="color: Black;">ARCHIVES</a><br> </div></td>
+		</tr>
+		</tbody></table>
+	</td></tr><tr><td height="5" bgcolor="#000000"></td></tr>	
+</tbody></table>
+<!-- END LR LIST 125w -->
 <img src="/images/layout/pixel_clear.gif" width="2" height="4" vspace="0" border="0" alt=""><br>
 
 	
 		
-<table width="122" cellspacing="0" cellpadding="0" border="0">	
-	<tbody><tr>
-		<td width="1" bgcolor="#002752"><img src="/images/layout/pixel_clear.gif" width="1" height="2" border="0" alt=""></td>
-	    <td bgcolor="#ffffff" width="120" valign="top"><img src="/images/layout/lr_head_fromsponsors.gif" width="120" height="11" border="0" alt=""><br>
-		<a href="http://www.southwest.com"><img src="/images/sponsorimage/sw_120x120.gif" width="120" border="0" alt="" vspace="10"></a>
-		<div class="lr-sponsor-copy">For more information contact our sponsors at&nbsp;<a href="http://www.southwest.com">southwest.com</a>.</div>
-		</td>
-		<td width="1" bgcolor="#002752" valign="top"><img src="/images/layout/pixel_ffffff.gif" width="1" height="2" border="0" alt=""></td>
-	</tr>
-	<tr>
-	    <td align="right" colspan="3"><img src="/images/layout/lr_bottom122w.gif" width="122" height="6" border="0" alt=""></td>
-	</tr>
-</tbody></table>
+<table width="125" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td bgcolor="#000000"><!-- Outer Black border table -->
+	<table width="123" border="0" cellspacing="0" cellpadding="0"><!-- Inner Content Table -->
+		<tbody><tr>
+			<td class="title-leftcol" width="133">&nbsp; <b>From Our Sponsors</b></td>
+			<td class="title-leftcol" width="15" valign="top" align="right"><img src="/images/cslayout/whiteTitleDeco.gif" width="15" height="15" vspace="0" hspace="0" border="0" align="right"></td>
+		</tr>
+	</tbody></table>
+</td></tr></tbody></table>
+<img src="/images/layout/pixel_clear.gif" width="2" height="1" vspace="0" border="0" alt=""><br>
+<table width="125" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td bgcolor="#000000"><!-- Outer Black border table -->	
+	<table border="0" cellspacing="0" cellpadding="2"><!-- Inner Content Table -->
+		<tbody><tr>
+			<td width="123" bgcolor="#FFFFFF" valign="top">
+			<a href="http://www.southwest.com"><img src="/images/sponsorimage/sw_120x120.gif" width="120" border="0" alt="" vspace="10"></a>
+			<div class="lr-sponsor-copy">For more information contact our sponsors at&nbsp;<a href="http://www.southwest.com">southwest.com</a>.</div>
+			</td>
+		</tr>
+	</tbody></table>
+</td></tr><tr><td height="5" bgcolor="#000000"></td></tr></tbody></table>
  <img src="/images/layout/pixel_clear.gif" width="2" height="4" vspace="0" border="0" alt=""><br>
-	 <!-- End MINI LEFT COLUMN --> <br><img src="/images/layout/pixel_clear.gif" width="125" height="6" vspace="0" border="0" alt="">   
+	 <!-- End MINI LEFT COLUMN --> <br><img src="/images/layout/pixel_clear.gif" width="126" height="6" vspace="0" border="0" alt="">   
 	</td>
-	<td width="640" valign="top" align="left">  
+	<td width="640" valign="top" align="left">
+	<img src="/images/layout/pixel_clear.gif" width="1" height="1" border="0" alt=""><br>	  
 	<!-- Start CENTER COLUMN -->	
 	<table cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-	    <td width="333" background="/images/layout/title_bar.gif" class="titlebar_sub"><img src="/images/layout/pixel_clear.gif" width="5" height="2" border="0" alt="">
+	    <td width="311" class="menu-bg"><img src="/images/layout/pixel_clear.gif" width="5" height="2" border="0" alt="">
 		<a class="titlebar_sub" href="/betcorporate">BET CORPORATE</a> </td>
-		<td width="1"><img src="/images/layout/pixel_clear.gif" width="1" height="28" vspace="0" border="0" alt="" align="left"></td>
-	    <td width="150" class="small-blk"><a href="http://www.southwest.com"><img src="/images/titlebarlogo/sw_150x50.gif" width="150" height="35" border="0" align="texttop"></a></td>
+		<td width="12" align="left" valign="bottom" class="menu-bg"><img src="/images/cslayout/tbar_deco.gif" width="12" height="27" border="0" align="left" hspace="0"></td>		
+		<td rowspan="2" width="1"></td>
+	    <td rowspan="2" width="165" align="middle"><a href="http://www.southwest.com"><img src="/images/titlebarlogo/sw_150x35.gif" width="150" height="35" border="0" align="texttop"></a></td>
 	
 		<!-- BEGIN SEARCH BOX -->
-		  <form name="searchForm" method="get" action="/searchresults" style="line-height:0px"></form>
-		  <td><img src="/images/layout/pixel_clear.gif" width="5" height="20" border="0" alt=""></td>
-		  <td background="/images/layout/rr_lborder_bg.gif" width="2" rowspan="2" valign="bottom"><img src="/images/layout/pixel_clear.gif" width="2" height="20" border="0" alt=""><br><img src="/images/layout/llcorner_2x2_002752.gif" width="2" height="2" border="0" alt=""></td>
-		  <td bgcolor="#002752" width="144" valign="middle"><img src="/images/layout/pixel_clear.gif" width="2" height="4" border="0" alt=""><br><img src="/images/layout/pixel_clear.gif" width="2" height="4" border="0" alt="" hspace="0"><input type="text" size="8" name="search_string"><a href="#" onmouseover="getXstate('search-submit')" onmouseout="getOstate('search-submit')" onclick="submitForm('searchForm'); return false"><img src="/images/layout/button_dkblue_submit_o.gif" name="search-submit" width="44" height="13" border="0" alt="" hspace="1" align="absmiddle"></a></td>
-		  <td width="5" valign="top"><img src="/images/layout/rr_head_cap3.gif" width="5" height="19" border="0" alt=""></td>
-		  
+		<td rowspan="2" valign="top">
+		  <table width="150" cellpadding="0" cellspacing="0" border="0">
+			  <form name="searchForm" method="get" action="/searchresults" style="line-height:0px"></form>
+			    <tbody><tr> 
+					<td nowrap="" class="table-dark">&nbsp; 
+					<input type="text" size="8" name="search_string">
+					<a href="#" onclick="submitForm('searchForm'); return false">
+					<img src="/images/layout/button_dkblue_submit_o.gif" name="search-submit" width="44" height="13" border="0" alt="" vspace="8" hspace="2" align="absmiddle"></a>
+					</td>
+			    </tr>
+			  
+			</tbody></table>
+		</td>
 		<!-- END SEARCH BOX -->
-		 </tr>
-	
-						
+	 </tr><tr><td colspan="2" height="7" width="323"> </td></tr>
+				
 </tbody></table><nobr> <img src="/images/layout/pixel_clear.gif" width="2" height="4" vspace="0" border="0" alt=""><br>
 	<!-- Start ARTICLE BODY -->
 	<table width="640" cellpadding="0" cellspacing="0" border="0">
@@ -172,17 +209,25 @@ var curChan = escape("betcorporate");
 	<table valign="top" width="230" cellspacing="0" cellpadding="0" border="0">
 	 
 		<!-- ARTICLE IMAGE -->
-		<tbody><tr><td width="100%" bgcolor="#002752" align="right" valign="top"><img src="/images/layout/urcorner_2x2_002752.gif" width="2" height="2" alt="" border="0"></td></tr>
-		<tr><td bgcolor="#002752" align="center">
-			<img src="/images/spacer.gif" width="1" height="160" vspace="2" border="0">
-			  <img src="/images/bigbarker/bet_com_logo_white_bb_454.gif" alt="BET.com logo" title="BET.com logo black background" border="0" vspace="2">
+		<tbody><tr><td class="table-dark" align="center">
+			<!--<img src="/images/spacer.gif" width="1" height="160" vspace="2" border="0">-->
+			<table cellspacing="0" cellpadding="0" border="0">
+ 
+<tbody><tr>
+  <td>
+	 <img src="/images/bigbarker/bet_com_logo_white_bb_454.gif" alt="BET.com logo" title="BET.com logo black background" border="0" vspace="2">
 	<br><font face="verdana, arial, helvetica, sans-serif" size="1" color="#ffffff"></font>
-<!--image output2 454--> </td></tr>
-		<tr><td><!-- just some vertical space --><img src="/images/layout/pixel_clear.gif" width="5" height="5" alt=""></td></tr>  
+  </td>
+</tr>
+</tbody></table>
+ </td></tr>
+		<tr><td bgcolor="silver" style="border-right:1px solid #002752"><!-- just a hor. silver line --><img src="/images/layout/pixel_clear.gif" width="1" height="1" alt=""></td></tr>
+		<!-- just some vertical space -->
+		<!--<tr><td><img src="" width="5" height="5" alt=""></td></tr>-->  
 		<!--testESI6666, 954-->
 		
 			
-				<!-- Vignette V6 Sun Mar 02 20:31:15 2003 -->
+				<!-- Vignette V6 Fri Nov 14 13:40:46 2003 -->
 
 			
 		
@@ -191,7 +236,7 @@ var curChan = escape("betcorporate");
 	</td>
 	<td valign="top">
 		<!-- ARTICLE BODY TEXT -->
-		<table valign="top" width="400" cellspacing="0" cellpadding="0" border="0" height="100%">
+		<table valign="top" width="400" cellspacing="0" cellpadding="0" border="0">
 		<tbody><tr>
 			<td rowspan="5">&nbsp;</td>
 	    	<td valign="middle" align="left"><!-- For the following methods... see "Articles" template... also, in head of rendered HTML -->
@@ -228,15 +273,16 @@ var curChan = escape("betcorporate");
 			<!-- BEGIN FOOTER -->
 			<table align="left" width="626" border="0" cellspacing="0" cellpadding="0">	
 	<tbody><tr>
-		<td width="100%" align="center" valign="top">		
-			<img src="/images/layout/foot.gif" width="626" height="10" hspace="0" vspace="0" border="0" alt=""><br>
-			<p class="footer"><a href="/articles/1,,c15-973,00.html" class="footer">HELP</a> | 
+		<td width="100%" align="center" valign="top">
+			<hr width="476" size="1" color="#000000" noshade="">
+			<p class="footer"><a href="/sitemap" class="footer">SITEMAP</a> | 
+			<a href="/articles/1,,c15-973,00.html" class="footer">HELP</a> | 
 			<a href="/articles/1,,c15-1198,00.html" class="footer">OUR SPONSORS</a> | 
 			<a href="/articles/1,,c15-1201,00.html" class="footer">AD INFO</a> | 
 			<a href="/articles/1,,c15-1105,00.html" class="footer">TERMS OF SERVICE</a> | 
 			<a href="/articles/1,,c15-954,00.html" class="footer">PRIVACY POLICY</a> | 
-			<a href="/articles/1,,c15-1199,00.html" class="footer">PRESS ROOM</a>
-			<br><a href="/articles/1,,c15-1456,00.html" class="footer">CONTACT</a> | 
+			<br><a href="/articles/1,,c15-1199,00.html" class="footer">PRESS ROOM</a> |
+			<a href="/articles/1,,c15-1456,00.html" class="footer">CONTACT</a> 
 			<a href="/articles/1,,c15-992,00.html" class="footer">JOB@BET.COM</a></p><br>
 		</td>
 	</tr>
@@ -253,6 +299,7 @@ var curChan = escape("betcorporate");
 /* Ad banner layer for Netscape */
 if (document.layers && NSLayers) document.write(NSLayers);
 </script>
+
 
 
 </body></html>
