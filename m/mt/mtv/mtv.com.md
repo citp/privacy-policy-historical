@@ -30,3 +30,18 @@ Additionally, MTV ONLINE will allow users or their parents to opt out of the MTV
 MTV ONLINE encourages our users to be smart about choosing when, and to whom to release information online.
 
 How to remove your Send an email to remove@mtvmail.com with the following information in the body of the email form:
+MTV ONLINE'S PRIVACY POLICY
+
+Revised: October 29, 1998
+
+MTV ONLINE is committed to protecting our users' privacy. To that end, we offer this statement to inform our users of how we define, gather and utilize personally identifying information. 
+
+MTV ONLINE gathers information on our users in two ways: (1) cookie technology and (2) voluntary submissions. MTV ONLINE utilizes cookie technology to collect data on individual preferences to better meet our users' needs. Cookie data is only analyzed in aggregate form. This information allows us to know what pages/sites are of interest to our users and what pages/sites may be of less interest. 
+
+MTV ONLINE collects personally identifiable information from users, including through sweepstakes or contests and voluntary submissions. We make it clear why the information is being collected and what it will be used for. Generally, users must be 18 years or older, unless otherwise specified, before registering in any of MTV ONLINE's sweepstakes or contests. When sweepstakes or contests are open to users 13-17 years old, MTV ONLINE will collect only first names and email addresses for prize fulfillment purposes, unless otherwise stated. MTV Online will remind users under 18 years old to ask their parents' permission before entering the sweepstakes or contest. Additionally, if a sweepstakes or contest winner is under 18 years old, MTV ONLINE will require a consent form signed by the winner's parent or guardian in order to award the prize.
+
+Additionally, MTV ONLINE will allow users or their parents to opt out of the MTV ONLINE database. This opt-out notice will clearly notify users if personal information is to be shared with third-party advertisers and will provide users with a way to opt out so that participation in the sweepstakes or contest is possible without disclosing personal information to third parties.
+
+MTV ONLINE encourages our users to be smart about choosing when, and to whom to release information online.
+
+How to remove your Send an email to remove@mtvmail.com with the following information in the body of the email form:
