@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601225251id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203034912id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Auto Products
 
@@ -76,17 +76,11 @@ If you have any questions about this privacy statement, the practices of this si
 
 [ comments@autoproducts.com ](mailto:comments@autoproducts.com)  
 
-SB Enterprises / AutoProducts.com    
-147 Pennsylvania Ave. Paterson, New Jersey, 07503 USA   
-Tel: 973 977-8675 * Fax: 973 279-4121   
-Business hours - Mon to Friday  8AM - 3PM EST.  
-Support hours - Mon to Friday 7AM - 3PM EST.
-
- **Customer  Service  
+**Customer  Service  
 **We at AutoProducts.com make every effort to provide the best service to all our customers, and we will honor all customers requests in a timely fashion. We respect your privacy and none of the  information that is collected by this web site is, rented or sold for any purpose whatsoever. 
 
  **   
-ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam.  [SPAM POLICY](https://web.archive.org/web/20030601225251id_/http%3A//www.autoproducts.com/spampolicy.htm)   
+ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam.  [SPAM POLICY](https://web.archive.org/web/20031203034912id_/http%3A//www.autoproducts.com/spampolicy.htm)   
 Report Spam: [ support@autoproducts.com ](mailto:support@autoproducts.com)  
 
 AutoProducts.com will not be responsible for SPAMMING, SPOOFING / FORGED email, or any illegal activity advertisers, affiliates clients or individuals participate in or performs. This type of action will immediately terminate any and all contracts and services with the advertisers, affiliates or clients and all Spammers will be subject to legal action and held responsible for all damages.
