@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canberratimes.com.au privacy policy that was archived on 2003-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031222034846id_/http%3A//canberra.yourguide.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canberratimes.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603021435id_/http%3A//canberra.yourguide.com.au/privacy.asp) for the most accurate reproduction.*
 
 # canberra.yourguide
 
