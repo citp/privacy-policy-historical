@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afreego.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215065415id_/http%3A//www.afreego.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreego.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205153220id_/http%3A//www.afreego.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,6 +12,8 @@ We use your IP address to help diagnose problems with our server, and to adminis
 In general, you can visit **_aFreeGo.com_** on the World Wide Web without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. **_aFreeGo.com_** uses this information to measure the use of our site and to improve the content of our site.
 
 From time to time _**aFreeGo.com**_ runs surveys and uses submission forms in which we ask the visitors for their email address. This email address we obtain from visitors will not be sold or shared with any third party. All information gathered is used for internal purposes only.
+
+When you subscribe to our _**aFreeGoNews**_ mailing list, you automatically go in the draw to win free software from our Contributing Authors. By subscribing, you agree that we may provide your email address to the current contributing author if you are drawn as the winner of the prize draw. 
 
 We use some outside companies to display adverts on this site. These adverts may use  cookies. Cookies received with adverts are collected by these outside companies, and we do not have access to this information.
 
