@@ -1,95 +1,77 @@
-> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413085350id_/http%3A//productionhub.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2001-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp) for the most accurate reproduction.*
 
-# ProductionHub.com The Portal for Film, Video, and Digital Media Production
+# ProductionHUB.com
 
-|  |  |  |   |    
----|---|---  
-|  |   
-|  |   
+|   
 ---  
-The ProductionHUB has taken all reasonable measures to ensure the accuracy of the links and listings within this web site ([www.productionhub.com](http://www.productionhub.com/)). 
-
-ProductionHUB makes no claims, guarantees or warranties in regard to accuracy or completeness of information and cannot accept responsibility for any errors or omissions or any liability resulting from the use or misuse of any such information. The provider reserves the right to refuse any material not in keeping with the professional standards of the ProductionHUB. 
-
-Further, there is no claim made to the legality or decency of material contained within linked sights, and all links are to be accessed at the user’s own risk. Production HUB.com, at its sole discretion, may choose to change the terms, conditions and operation of this website at anytime.  
+[](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/about.asp)  
+[](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/advertise.asp)  
+[](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/banner_pool.asp)  
+[](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/contact_us.asp)  
+[](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/employment.asp)  
+[](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/legal.asp)  
+[](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/partners.asp)  
+[](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/press.asp)  
+[](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/testimonials.asp)  
   
-Welcome to ProductionHUB.com, By using our services, you agree to abide by the terms of this Member/Visitor Agreement; PLEASE READ IT CAREFULLY. 1\. Provisions for Equipment Broker The products that appear on ProductionHUB.com are for informational purposes only. Despite our efforts to provide useful and accurate information, errors may appear from time to time. Before purchasing goods or services you've read about on ProductionHUB.com, you should confirm with the vendor any information, including the price, that is important to your purchasing decision. ProductionHUB.com is not responsible for, and does not guarantee the performance of, any such goods or services. 
+[](https://www.truste.org/validate/10866)ProductionHUB.com is a licensee of the [TRUSTe Privacy Program](http://www.truste.org/). TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This covers the site [www.ProductionHUB.com](http://www.productionhub.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, ProductionHUB.com has agreed to notify you of:
 
-ProductionHUB.com's Equipment Broker is a service that brings buyers and sellers together. Information about a particular piece of equipment is supplied by the seller, not by ProductionHUB.com. The price and other terms of any sale remain subject to direct negotiation between the buyer and the seller. Though we hope that all who come to ProductionHUB.com will act honorably and treat each other fairly, we can't verify the information they supply or guarantee the equipment they offer. When using this service to find a buyer for your equipment or equipment you may want to purchase, we urge you to use the same common sense and good judgment you would in selling goods through, or responding to, a classified ad in the newspaper. 
+  1. [What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site.](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#what)
+  2. [The organization collecting the information.](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#who)
+  3. [How the is information used.](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#how)
+  4. [With whom the information may be shared.](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#share)
+  5. [What choices are available to you regarding collection, use and distribution of the information?](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#choices)
+  6. [The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ProductionHUB.com's control](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#security)
+  7. [How you can correct any inaccuracies in the information.](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#update)
 
-Those who offer equipment for sale through ProductionHUB.com should be prepared to sell the equipment they advertise at the price(s) at which, and the terms of which, they advertise them. To list any equipment for sale on ProductionHUB.com, sellers are required to provide certain identifying and contact information. The information must accurately identify the seller and the method of contact must permit buyers to communicate directly with the seller without any alteration to the content of their communications. ProductionHUB.com reserves the right to deny use of this service to anyone who does not comply with these requirements or who otherwise uses the service in manner we consider inappropriate. 
 
-ProductionHUB.com respects the privacy of its users. Please take time to review our privacy policy. 
 
-We invite you to bring to our attention any information you believe to be inaccurate. Please respond to 
+If you have questions or concerns regarding this statement, you should first contact Bill Williams, Technical Supervisor by email: [bwilliams@productionhub.com](mailto:bwilliams@productionhub.com?subject=Privacy%20Policy%20Question), toll free phone: 877-629-4122 or postal mail: 801 W. Fairbanks Avenue, Winter Park, Florida 32789. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "[TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/users/users_watchdog_intro.html)". TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-[info@productionhub.com](mailto:info@productionhub.com), along with an explanation of your objection. 
+**What personally identifiable information is collected from you?** [back to top](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#top)
 
-For your convenience, ProductionHUB.com has listed a variety of links to other websites, not operated by ProductionHUB.com, where you can obtain information on specific equipment manufacturers and their products. While ProductionHUB.com encourages you to consult such websites, ProductionHUB.com cannot guarantee nor be responsible for the prices, terms, quality, reliability or performance of the products or services provided by these vendors. 
+ProductionHUB.com collects a persons name, mailing address, phone number, fax number and e-mail address. We also collect credit card information in order for you to purchase this service. This information is requested during registration and is used to deliver services the user has requested. All other information is optional and is used to create your member profile for other members and users of your community to know more about you, and to better target your interests.
 
-The Web is an evolving medium. ProductionHUB.com may change the terms of this agreement from time to time. By continuing to use this service following such changes, you agree to be bound by this agreement, as modified. ProductionHUB.com may change, restrict access to, suspend, or discontinue this service, or any portion of this service, at any time.   
-  
-******Collection of Personal Information**  
-ProductionHUB has created this statement to demonstrate our firm commitment to the privacy of our users. We also want to make the user's experience on the site as valuable and efficient as possible. The following discloses the information gathering and dissemination practices for our web site: www.productionhub.com. 
+**What are cookies and how are they used?** [back to top](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#top)
 
-We use your IP (Internet protocol) address to help diagnose problems with our server and to administer our web site. Your IP address also is used to help identify you and gather broad demographic data about our users. ProductionHUB never sells, rents, or shares personal information regarding our users to any outside party. 
+A "cookie" identifies your computer to our servers when you visit our site, saving your password so you don't have to reenter information each time you visit. ProductionHUB.com uses cookies to assist the user/member in changing and/or editing their information that is already stored in our database.  The cookie is used to temporarily store the information that the user enters in to our database.  The information is then sent to our support staff to make the necessary changes to your listing.  The benefit of the cookie is that it lets you, the user/member change and/or edit your information online without having to contact a ProductionHUB.com representative.  If you choose not to accept the cookie then you, the user/member must contact the ProductionHUB.com support staff to have the changes and/or edits reflected on your listing. If you'd prefer to refuse cookies, turn them off using your browser. It's not required to have cookies turned on in order to use our web site. 
 
-We respect your right to use our site anonymously. ProductionHUB members are not informed which registered users have viewed their web pages. Any correspondence between ProductionHUB and members is private and not monitored by the site. 
+**The organization collecting the information.** [back to top](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#top)
 
-We do not actively solicit, request, or reuse any information from visitors except in the following instances: 
+When you are on ProductionHUB.com and are asked for personal information by productionhub.com, you are sharing that information with productionhub.com only. Please be aware that ProductionHUB.com's advertisers or web sites that have links on our site may collect personally identifiable information about you on their sites. The information practices of those web sites are not covered by this privacy policy. In addition, users and other members may be able to access certain information that you provide to them (e.g. your e-mail address and content that you post on sites that we link to as well as when you post to the Classifieds section of our website). ProductionHUB.com is not in a position to monitor or control any particular user's or community member's use of that content.
 
-|  | We may choose to contact registered users solely for the purpose of providing additional information about ProductionHUB and our services. If individuals do not wish to be contacted, they will be removed from contact records, but will still retain access to this site.   
----|---  
-| ProductionHUB registered users are automatically subscribed to our e-mail mailing list. Users may opt-out of receiving future information; see the Choice/Opt-Out section below.  
-| Data gathered from web logs is solely for the internal use of ProductionHUB and individual privacy is always maintained.   
-  
-**Cookies**   
-A "cookie" identifies your computer to our servers when you visit our site, saving your password so you don't have to reenter information each time you visit our site. ProductionHUB uses cookies to store registration information and to provide our users personalized features and custom-tailored content. 
+**How the is information used.** [back to top](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#top)
 
-If you'd prefer to refuse cookies, turn them off using your browser. It's not required to have cookies turned on in order to use our web site. 
+ProductionHUB.com's primary goal in collecting personal information is to provide you, the community member, with a potentially fulfilling experience. The more information a user supplies the better potential for maximum benefits.
 
-**Links **  
-ProductionHUB contains links to other web sites, such as partners, advertisers, or other content providers. We make every effort to link only to sites with appropriate content. However, when you click on links or advertisements, you will leave ProductionHUB and this privacy policy will no longer be relevant or in effect for other web sites. Please check the privacy practices of third parties before submitting any information. 
+**Clear Gifs (Web Beacons/Web Bugs)**
 
-**Security**  
-This site has security measures in place to safeguard against the loss, misuse, and alteration of the information we gather. We use the latest encryption technology to keep your personal information safe as it travels over the Internet. Our secure server software is the industry standard and among the best available today. All information we collect is stored on servers that are physically secured in a locked area. Access to data on the servers is password protected. 
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web user. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. ProductionHub.com utilizes this clear gif on its home page to enable search engine bots or spiders to navigate our site. Most bots are unable to correctly navigate sites with dynamic content such as productionhub.com's. This image is there solely to direct these bots. No information is gathered using this transparent gif and it is in no way tied to users personally identifiable information.
 
-**Choice/Opt-Out**   
-ProductionHUB provides users two options for removing their information from our database, to discontinue communications, or to no longer receive our service: 
+**Log Files**
 
-| Check the Opt-Out box when filling out visitor information.  
----|---  
-| Send e-mail to support. Include your company or individual listing name so that we are able to locate it in our database.   
-  
-**Public Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Any information that is disclosed in these areas becomes public information and your company should exercise caution when deciding to disclose personal information. 
+Like most standard web site servers we use log files. This includes IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and #of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called Livestats that uses log files to analyze user movement. See the "Your Profile" section below.
 
-**Correct/Update Information**   
-ProductionHUB will be providing members two options for changing information previously provided: 
+**Tell a Friend**
 
-| Send e-mail with the desired modifications to [support@productionhub.com](mailto:support@productionhub.com). At this time, use this method to update your information.   
----|---  
-| Entry through a back door with password protection will give members the capability to access and update information online. This feature is under development and will appear soon in our member section.   
-  
-**Policy Changes**  
-We reserve the right to make changes to this policy at any time at our sole discretion. We will not make any substantial changes to our privacy policy, however, we will not notify members that we have made changes. Please check this page periodically for changes. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. ProductionHUB.com will automatically send the friend a one-time email inviting them to visit the site. ProductionHUB.com stores this information for the sole purpose of sending this one-time email. The friend may contact ProductionHUB.com at [support@productionhub.com](mailto:support@productionhub.com) to request the removal of this information from our database.
 
-**Contacting ProductionHUB**  
-If you have any questions about ProductionHUB's privacy policy, the practices of this site, or your dealings with this site, contact us at: [info@productionhub.com](mailto:info@productionhub.com). 
+**With whom the information may be shared.** [back to top](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#top)
 
-We value your opinion and encourage you to submit comments and suggestions via e-mail: [comments@productionhub.com](mailto:comments@productionhub.com).   
-  
-|  |   
-  |  ** Please send any comments or feedback about this site to [ProHub](mailto:info@productionhub.com) 
+ProductionHUB.com discloses your information to a third party credit authorization company, but they do not use your information for any secondary purposes. We only pass over you personal information to other users when a match between media developers has occurred through our service and you have indicated an interest in contacting them. Otherwise, ProductionHUB.com will not disclose any of your personally identifiable information except when we have your permission.
 
-[Crew](https://web.archive.org/category.asp?bc_section=1)  |  [Digital Media](https://web.archive.org/category.asp?bc_section=2)  |  [Education](https://web.archive.org/category.asp?bc_section=3)  |  [Equipment](https://web.archive.org/category.asp?bc_section=4)  |  [News Stand](https://web.archive.org/category.asp?bc_section=5)   
-[Pre-Production](https://web.archive.org/category.asp?bc_section=6)  |  [Production](https://web.archive.org/category.asp?bc_section=7)  |  [Post-Production](https://web.archive.org/category.asp?bc_section=8)  |  [Support Services](https://web.archive.org/category.asp?bc_section=9)  |  [Talent](https://web.archive.org/category.asp?bc_section=10)
+**What choices are available to you regarding collection, use and distribution of your information?** [back to top](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#top)
 
-[Home](https://web.archive.org/default.asp)  |  Contact  |  [Advertise](https://web.archive.org/advertise.asp)  |  [Help](https://web.archive.org/help.asp)  |  [Privacy](https://web.archive.org/privacy.asp)  |  [About](https://web.archive.org/About.asp)
+ProductionHUB.com, from time to time, sends e-mail regarding our products and services if you indicated upon registration or later that you are interested in receiving offers or information from ProductionHUB.com. If you do not wish to receive these mailings, simply tell us when you give us your personal account information by un-checking the 'keep me informed' box or indicate that you no longer wish to receive such offers and mailings.
 
-[ Legal Information &  
-ProductionHUB Privacy Policy ](https://web.archive.org/privacy.asp)
+**What security procedures are in place to protect the loss, misuse or alteration of the information?** [back to top](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#top)
 
-Copyright ProductionHUB, Inc. 1999 
+Your account information is password protected so that only you have access to your personal information. We encourage you to not divulge your password to anyone. Remember to log off your computer or close your browser window when you have finished your work to ensure that all others cannot access your personal information and correspondence.
 
-** |  
+**How you can correct any inaccuracies in the information.** [back to top](https://web.archive.org/web/20011025055021id_/http%3A//productionhub.com/about/privacy.asp#top)
+
+You may change any or all of your information by editing your member profile after signing in. Go to the 'edit listing' function to make changes. If you have forgotten your password, you may request a new password. For all other problems signing in, please contact [support@productionhub.com](mailto:support@productionhub.com). You can also choose to have your member profile eliminated from our database entirely by contacting [support@productionhub.com](mailto:support@productionhub.com).
+
+**Notification of Changes**
+
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. However, if you have opted out of all communication with the site, or deleted/deactivated your account, then you will not be contacted. Nor will your personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. We will use information in accordance with the privacy policy under which the information was collected.
