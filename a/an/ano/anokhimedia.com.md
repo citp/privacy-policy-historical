@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anokhimedia.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606052715id_/http%3A//www.korax.net/info/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anokhimedia.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204045457id_/http%3A//www.korax.net/info/privacy.phtml) for the most accurate reproduction.*
 
 # Korax Web Services
 
