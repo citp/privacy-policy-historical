@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208170206id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412021012id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ 1001 Fonts .com
 
@@ -82,16 +82,16 @@ If you have any additional questions about 1001fonts.com's dedication to consume
 
 [**Printer Supplies**](https://web.archive.org/low_on_ink.html)  
    
+[411Inkjets.com](http://www.qksrv.net/click-797593-5038903)  
+[123Inkjets.com](http://www.qksrv.net/click-797593-512018)  
 [All-Ink.com](http://www.qksrv.net/click-797593-489930)  
 [00inkjets.com](http://www.qksrv.net/click-797593-5046826)  
-[123Inkjets.com](http://www.qksrv.net/click-797593-512018)  
-[411Inkjets.com](http://www.qksrv.net/click-797593-5038903)  
 [Proinkjets.com](http://www.qksrv.net/click-797593-597688)
 
 [**Top Font Links**](https://web.archive.org/font_links.html)  
    
-[Abstract Fonts](http://www.abstractfonts.com/fonts/partners/in.htm?id=1001fonts)  
 [PCfonts.com](http://www.pcfonts.com/rankem.html?action=in&id=giotto)  
+[Abstract Fonts](http://www.abstractfonts.com/fonts/partners/in.htm?id=1001fonts)  
 [Top20Free.com](http://www.top20free.com/cgi-bin/rankem.cgi?action=in&id=1001font)  
 [Fonts.com](http://www.qksrv.net/click-797593-5765012)  
 [ITCFonts.com](http://www.qksrv.net/click-797593-5529320)  
