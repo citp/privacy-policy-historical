@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vishay.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603092639id_/http%3A//www.vishay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vishay.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205084040id_/http%3A//www.vishay.com/privacy.html) for the most accurate reproduction.*
 
 # Vishay Site Privacy Policy
 
