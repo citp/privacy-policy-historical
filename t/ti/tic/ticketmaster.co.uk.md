@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.co.uk privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205090500id_/http%3A//www.ticketmaster.co.uk/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.co.uk privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330191455id_/http%3A//www.ticketmaster.co.uk/privacy/index.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
