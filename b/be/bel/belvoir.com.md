@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belvoir.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204210028id_/http%3A//belvoir.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belvoir.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604032255id_/http%3A//www.belvoir.com/privacy.html) for the most accurate reproduction.*
 
 # Belvoir -Privacy Page
 
@@ -27,7 +27,8 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 
 **We do not share email addresses or telephone numbers with other organizations.**  
   
-**We Do Not Set Any Cookies.**  
+**Cookies and How They are Used**  
+Cookies are tiny pieces of information stored by your browser on your computer's hard drive. Cookies are set when "Shopping Cart" is in use. This allows us to keep track of your current transaction during the order taking process. We use cookies for Shopping Cart, but we do not store personally identifiable information in your cookie.  
 **  
 Changes **  
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us e-mail at the above address. 
