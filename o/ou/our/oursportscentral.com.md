@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002210252id_/http%3A//www.oursportscentral.com/ospage.cfm%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2004-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041220110643id_/http%3A//www.oursportscentral.com/about/privacy) for the most accurate reproduction.*
 
-# OurSports Central- Independent and Minor League Sports News
+# OurSports Central - Independent and Minor League Sports News from OSC
 
 Effective 9/28/01 
 
@@ -35,4 +35,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 Because we do not collect any personal information, there is nothing that will need to be corrected. 
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please [email us](mailto:staff@oursportscentral.com).
+Should you have other questions or concerns about these privacy policies, please [contact us](http://www.oursportscentral.com/about/contact).
