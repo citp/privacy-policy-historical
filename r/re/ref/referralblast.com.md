@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the referralblast.com privacy policy that was archived on 2001-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011121074753id_/http%3A//referralblast.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralblast.com privacy policy that was archived on 2002-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020613113036id_/http%3A//referralblast.com/privacy.htm) for the most accurate reproduction.*
 
-# ReferralBlast.com Tell-a-Friend - Privacy Policy
+# Referral Blast - Privacy Policy
 
 We know that you care how information about you and your Web site visitors is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy:
 
 **Is personal information about my Web site visitors or the people they refer publicly used in any way?**
 
-No.  When a visitor clicks on the "Send this site to a friend" button, a pop-up window appears that allows the visitor to enter their name (optional), a specified number of email addresses of people they want to send to the site (this number depends on the version of Referral Blast being used) and a custom message.  Referral Blast never records or harvests these email addresses, nor sells them to third-parties.
+No.  When a visitor clicks on the "Send this site to a friend" button, a pop-up window appears that allows the visitor to enter their name (optional), up to 10 email addresses of people they want to send to the site and a custom message (optional).  Referral Blast never records or 'harvests' this information for its own use, nor sells it to third-parties.
 
 **Referral Blast Usage Notification**
 
@@ -25,4 +25,4 @@ During the order process, personal information such as your name, billing addres
 
 **Referral Blast Custom**
 
-Referral Blast Custom is custom-tailored for Web sites that want more control over the look-and-feel of Referral Blast pop-up windows and email text and layout.  Referral Blast Custom can be customized to provide the Webmaster of the Referral Blast Custom-enabled site a duplicate of the Referral Blast Custom invitation.  Since Referral Blast Custom is only accessible from Web sites that provide a link to it, it is the responsibility of the individual Web site owner that uses Referral Blast Custom to disclose any privacy information to their visitors regarding their receiving duplicates if they so choose this functionality.
+Referral Blast Custom is custom-tailored for Web sites that want more control over the look-and-feel of Referral Blast pop-up windows and email text and layout.  Referral Blast Custom can be configured to provide the Webmaster of the Referral Blast Custom-enabled site a log of Referral activity derived by their Referral Blast Custom service.  Since Referral Blast Custom is only accessible from Web sites that provide a link to it, it is the responsibility of the individual Web site owner to disclose any privacy information to their visitors regarding their receiving this information if they so choose this functionality.
