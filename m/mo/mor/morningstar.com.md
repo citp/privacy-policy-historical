@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningstar.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202103101id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstar.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411083958id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,4 +42,4 @@ In the [E-mail Subscription Center](http://members.morningstar.com/prism/sub_cen
 **Changes to the Privacy Policy**  
 If we ever change the Privacy Policy, we will post that information on this Privacy Policy page. If there is ever any material change to the information we gather and how it is used, we will notify you via the address we have in your personal profile. We invite you to come back from time to time to review the policy.
 
-If you have any questions about Morningstar.com's privacy practices or this Privacy Policy, please e-mail us at[ joe@morningstar.com](mailto:joe@morningstar.com).
+If you have any questions about Morningstar.com's privacy practices or this Privacy Policy, please e-mail us at[ Premium@morningstar.com](mailto:Premium@morningstar.com).
