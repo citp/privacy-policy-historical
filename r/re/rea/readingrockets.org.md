@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206094042id_/http%3A//www.readingrockets.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407092654id_/http%3A//readingrockets.org/privacy.php) for the most accurate reproduction.*
 
 # WETA: Reading Rockets: Privacy Policy
 
@@ -18,14 +18,17 @@ The more you tell us about yourself, the more value we can offer you. Supplying 
 
 The areas of the site in which we collect information, the information collected and the purpose for collecting that information are described below:
 
-**Subscription to electronic newsletters**  
-Reading Rockets offers a free electronic newsletter to users. This newsletter includes highlights of Reading Rockets web site content, and other news of interest to Reading Rockets users. To subscribe, you must provide your email address. To remove yourself from the mailing list, follow the instructions at the bottom of any newsletter.
+**Subscription to electronic newsletters and online events**  
+Reading Rockets offers free electronic newsletters to users. The newsletters include highlights of Reading Rockets web site content and other news of interest. Reading Rockets also offers occasional online discussion events. To sign up, you must provide your email address, first and last name, and you must choose a password. Other information is optional. To remove yourself from any of the mailing lists, you can sign in using your email address and password and unsubscribe. 
 
 **Posting to bulletin boards or using online surveys**  
 To use Reading Rockets' message boards you must register with a unique username. This username and posts made under that username are not correlated to any personally-identifying information collected elsewhere in the site.
 
+**Sending email to "Ask Reading Rockets"**  
+As a public service, the Reading Rockets staff responds personally to e-mails we receive through "Ask Reading Rockets." Questions are answered by experts who are up-to-date on the latest reading research and knowledgeable about the practical challenges facing parents and teachers. You'll receive a response in a few days and correspondence will remain confidential and will not be posted or used in any other way. To send email to Reading Rockets through the "Ask Reading Rockets" page, you must enter a name and email address, and of course, your question. This information is used to respond to your question, and in aggregate form for statistical purposes.
+
 **Sending feedback to Reading Rockets through the "Contact Us" page**  
-To send email to Reading Rockets through the "Contact Us" page, you must enter a name and email address, and of course, your comments. In addition, you have the option of entering a city and state. This information is used to respond to your comments, and in aggregate form for statistical purposes.
+To send email to Reading Rockets through the "Contact Us" page, you must enter a name and email address, and of course, your comments. This information is used to respond to your comments, and in aggregate form for statistical purposes.
 
 Visitors under the age of 18 must obtain permission from their parents or guardians before sending any personally-identifying information to Reading Rockets.
 
