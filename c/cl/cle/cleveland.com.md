@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205234600id_/http%3A//www.cleveland.com/privacy/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603054039id_/http%3A//cleveland.com/forums/privacy.ssf) for the most accurate reproduction.*
 
-# Privacy Policy
+# Cleveland.Com
 
-****CLEVELAND LIVE** PRIVACY POLICY**
-
+**PRIVACY POLICY**  
+  
 The **Cleveland Live** Web site is maintained by **Cleveland Live, 700 West St. Clair Avenue, Suite 414, Cleveland, OH 44113**. We can be reached by e-mail at **[webmaster@cleveland.com](mailto:webmaster@cleveland.com)**. 
 
 _**HOW **Cleveland Live** USES INFORMATION PROVIDED BY YOU:**_ This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. A user’s personally identifiable information may be used by **Cleveland Live** and its affiliates for editorial purposes. **We** may also use such information for marketing and promotional purposes. **Cleveland Live** may share your personally identifiable information with other companies with which it conducts business. For example, if you enter our contests, make a purchase, or use our e-mail services, we sometimes rely on outside companies to provide these services to you. In such cases, we need to provide your personally identifiable information to them. We also sometimes provide your information to our advertisers, so that they can serve ads to you that meet your needs. While **Cleveland Live** will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it was provided, **Cleveland Live** does not bear any responsibility for any actions or policies of any third parties. 
@@ -21,3 +21,8 @@ Finally, you should be aware that when you voluntarily disclose personally ident
 **PARENTS:** We encourage you to get involved with your children’s online usage and to be aware of the activities in which they are participating. This service is not intended for users under the age of 13. This service does not knowingly collect personally identifiable information from users under the age of 13. Such users are expressly prohibited from submitting their personally identifiable information to us, and from using our forums and chat areas; any information submitted by such users will not knowingly be used, posted, or retained by us. Any personally identifiable information collected by Cleveland Live from children above 13 (that we are aware are children above the age 13) will be used only for **Cleveland Live** internal purposes such as market research, sweepstakes fulfillment, and for fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, anonymous aggregated data is sometimes provided to other companies with which we do business, for statistical and market research purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, e-mail address, etc. on various forums or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
 
 Again, if you have any concerns regarding your child’s or your use of **Cleveland Live** , please contact us at **[webmaster@cleveland.com](mailto:webmaster@cleveland.com)**. 
+
+|  |  INSIDE  
+[**Cleveland.Com**](https://web.archive.org/)  
+  
+
