@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the press-release-writing.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602214248id_/http%3A//www.press-release-writing.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the press-release-writing.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205021443id_/http%3A//press-release-writing.com/privacy.htm) for the most accurate reproduction.*
 
 # Press-Release-Writing.com Privacy Statement
 
@@ -8,7 +8,7 @@ Press-release-writing.com has created this privacy statement in order to demonst
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and your user information and to gather broad demographic information.
 
-Our newsletter registration form, contact form and order form requires users to give us contact information (like their name and email address), unique identifiers (like their telephone number), and financial information (like their account or credit card numbers). We use customer contact information from the forms and email received by PRW to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+Our newsletter registration form, Contact form and order form requires users to give us Contact information (like their name and email address), unique identifiers (like their telephone number), and financial information (like their account or credit card numbers). We use customer Contact information from the forms and email received by PRW to send the user information about our company and promotional material from some of our partners. The customer's Contact information is also used to Contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
 
 ## Security
 
@@ -22,14 +22,14 @@ This site gives users the following options for removing their information from 
 
 Send email to [newsletter@press-release-writing.com](mailto:newsletter@press-release-writing.com) or [webmaster@press-release-writing.com](mailto:webmaster@press-release-writing.com).
 
-## Correct/Update
+## Correct/Update/Review
 
-This site gives users the following options for changing and modifying information previously provided.
+This site gives users the following options for reviewing, changing and modifying information previously provided.
 
 Send email to [newsletter@press-release-writing.com](mailto:newsletter@press-release-writing.com) or [webmaster@press-release-writing.com](mailto:webmaster@press-release-writing.com).
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact PRW 315 Fruitwood Lane  
-Knoxville, TN 37922 865.675.4869 info@press-release-writing.com  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can Contact PRW 315 Fruitwood Lane  
+Knoxville, TN 37922 865.675.4869 [info@press-release-writing.com](mailto:info@press-release-writing.com)   
 
