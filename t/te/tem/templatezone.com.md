@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the templatezone.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209152630id_/http%3A//www.templatezone.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatezone.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604022033id_/http%3A//www.templatezone.com/privacy/%3FCID%3D) for the most accurate reproduction.*
 
-# TemplateZone - Privacy Policy
+# TemplateZone.com - Privacy
 
 TemplateZone is committed to protecting the privacy of our members. In order to provide a safe, secure experience, we will make every effort to ensure that the information you give us remains private, and is used only for the purposes described below.
 
