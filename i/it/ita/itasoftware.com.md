@@ -1,0 +1,69 @@
+> *The following text is extracted and transformed from the itasoftware.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205095842id_/http%3A//itasoftware.com/policies) for the most accurate reproduction.*
+
+# ITA Software: Privacy Policy
+
+This privacy statement discloses the privacy practices for our Web site [www.itasoftware.com](http://www.itasoftware.com/). If you have questions or concerns regarding this statement, you should first contact [comments@itasoftware.com](mailto:comments@itasoftware.com).
+
+**Overview**
+
+ITA Software respects your privacy. The purpose of this section of our Web site is to inform you of our privacy policies and practices. In this policy you will find out what information we collect (both information that we ask you for and information that we collect automatically), what we will and will not use it for, what steps you can take to correct or update information, safeguards we employ to protect confidential information, and your ability to "opt-out" of certain collection policies and practices.
+
+**The Information We Collect**
+
+_Information we ask you for:_ If you use our site only to search for fares, but not for purchasing tickets, we will ask you if you wish to create a user name and password or to log in as a "guest". (You do not need to create a user name or password in order to use our site.) If you log in as a "guest", no information will be collected other than your domain name and/or IP address (discussed below). If you create a user name and password - which does not require you to give us your email address - we will also give you the option to create a "user profile". This profile, which is entirely optional, contains your mailing and email addresses and fax, and also allows you to specify a seat preference to be used in searching. (We may expand the scope of the user profile to allow you to include more information that may assist you in searching and/or booking, such as a default origin airport or a preferred carrier, demographic information or frequent flyer numbers.) We do not gather this more personal information without your knowledge and active permission and participation.
+
+If you use our site for purchasing tickets, we will also ask you for credit card information (including billing address and other information required to process your credit card transaction). 
+
+_Information we collect automatically:_ When you log on to our Web site, either with a password or as a guest, we will log your domain name and/or Internet Provider (IP) address for systems administration purposes. We do not link domain names or IP addresses to anything personally identifiable. This means that a user's session will be tracked, but the user will be anonymous. 
+
+Our system will also automatically record the searches that you perform. We collect aggregate information site-wide on the searches done at our site, so as to be able to make our software operate more efficiently.
+
+We will also place a "cookie" in your browser (discussed below). If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept. 
+
+**Use of Information**
+
+ITA Software uses non-personal aggregate, or summary, information regarding the use made of our site (i.e., what searches are being performed most frequently or at what times) in order to improve the performance of its software. If you give us information in your user profile, we may use this information in an aggregated or summary fashion - such as to determine whether our users are concentrated in certain geographical areas, or whether a large number of new users at one time may be related to a article about us in a local newspaper. We may also share this non-personal aggregated information with partners or other third parties, or we may combine it with data from third parties (such as airline industry information about airport use), to improve the quality or efficiency of our products. No such combining will be done for marketing purposes. 
+
+We may use the user profile information at an individual user level to contact you ourselves (for example, to inform you about a security concern relating to our Web site), to improve the booking process for you (for example, by automatically including your frequent flyer number in booking records) or to tailor the site to suit your preferences. We do not sell individual user names, email addresses or other individual user information to third parties and will not so in the future. 
+
+If you purchase a ticket from us and give us additional information, including credit card information, we will pass this information along to the entity (currently Worldspan) through which we process booking. We do not retain this credit card information and will not use it for any purpose without your consent. We will use your email address to confirm reservations and purchases of tickets. We will use the email address, as well as other contact information if appropriate, for customer service if necessary.
+
+We use IP addresses to analyze trends, administer our Web site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. Additionally, for systems administration, detecting usage patterns and troubleshooting purposes, our Web servers automatically log standard access information including browser type, access times/open mail. While information like this may be shared with third parties in aggregate form, individually identifiable information related to this data will never be shared with third parties without your explicit permission. 
+
+In addition to the circumstances described above, we may disclose individual user information if required by law or court order, if requested by a government or law enforcement authority, or if we believe in good faith belief that disclosure is otherwise necessary or advisable (such as, for example, if we reasonably believe that disclosure of the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our business or our intellectual property rights, intentionally or otherwise, or if we believe a third party could be harmed).
+
+**Cookies**
+
+A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie cannot read data off your hard disk or read cookie files created by other sites. 
+
+Cookies are files that your Web browser places on your computer's hard drive. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. ITA Software creates and then uses these cookie files to track your clicks as you go through the ITA Software Web site. Cookies can also be used to tell us whether you have visited our site previously, and to help to save and retrieve passwords used on the site and other preferences, saving you from having to re-enter this information upon every visit to the Web site. Cookies cannot be used by ITA Software to retrieve any personal information about you unless you have previously purchased from or registered with ITA Software. ITA Software does not and cannot use cookies to retrieve personal information about you from your computer unless such information was knowingly and willingly provided by you. 
+
+You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use the ITA Software site.
+
+**Links**
+
+Our Web site may contain links to other sites. Please be aware that ITA Software has no control over and is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by our Web site. 
+
+**Correcting/Updating Personal Information**
+
+If your personally identifiable information (such as your email address) changes, or if you no longer wish us to have this information on file, we will endeavor to provide a way to correct, update or remove your personal data provided to us. This can usually be done by editing your user profile at the site. You can also send us e-mail at comments@itasoftware.com.
+
+E-mail Links
+
+We use e-mail links located on the "contact us" page to allow you to contact us directly with any questions or comments you may have. 
+
+We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is never shared with an outside party. 
+
+**Safeguards**
+
+If you use our software to purchase a ticket from the ITA Software web site, and you provide us with credit card information in order to process your transaction, this information will be transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt data before you send it to us. When you are on a secure page, such as our credit card information page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. 
+
+Currently, other information that you may give us, such as user profile information, is not transmitted using any encryption technology.
+
+**Choice/Opt-out**
+
+Because ITA Software does not use any information collected at our site for purposes not directly related to our site, we do not give our users the opportunity to 'opt-out' of having their information used. The only personal information retained by ITA Software is the user profile of any user who chooses to create one. If you create a user profile at our site and subsequently decide that you do not want us to have any of the information contained in your profile, you can effectively 'opt-out' by editing the profile and deleting the information. Since we do not retain historical information about user profiles, deleting your profile information will have the effect of 'opting-out' of any use of your personal information.
+
+**Notice of Changes**
+
+We will take commercially reasonable measures to obtain written or active e-mail consent from you if ITA Software is going to be using information collected from you in a manner different from that stated at the time of collection. We will also post the changes in our privacy statement 30 days prior to a change. 
