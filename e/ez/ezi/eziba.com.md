@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eziba.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607013547id_/http%3A//www.eziba.com/help_privacy_vow.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eziba.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206224001id_/http%3A//www.eziba.com/help_privacy_vow.asp) for the most accurate reproduction.*
 
-# Eziba - Handcrafted Items Globally Sourced : Help : Privacy Vow
+# Eziba - Handcrafted Objects Globally Sourced : Help : Privacy Vow
 
 Posted 9/28/2000
 
