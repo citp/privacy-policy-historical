@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the emaillabs.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaillabs.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy - EmailLabs - Uptilt
 
-[](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/index.html) |   
+[](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/index.html) |   
 |  |   
 ---  
 |  | 
@@ -63,8 +63,8 @@ _**Notice
 |   
 |  | |  |   
 ---|---|---|---  
-[Home](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/index.html "EmailLabs - Email marketing") | [Features](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/features.html "features") | [Solutions](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/solutions.html) | [Product Tour](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/product_tour.html) | [Services](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/services.html) | [Email Marketing Resources](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/resources.html "email marketing resources") | [Clients](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/clients.html) | [Partners](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/partners.html)  
-[Request a Demo](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/demo.html) | [Login](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/login.html) | [Site Map](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/sitemap.html) | [Anti-Spam Policy](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/antispam.html) | [Privacy Policy](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/privacypolicy.html) | [Company](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/company.html)  
-EmailLabs - Email Marketing Automation Solutions  
-© 2001-2003, EmailLabs - A Product of Uptilt, Inc. All Rights Reserved  
+[Home](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/index.html "EmailLabs - Email marketing") | [Features](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/features.html "features") | [Solutions](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/solutions.html) | [Product Tour](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/product_tour.html) | [Services](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/services.html) | [Email Marketing Resources](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/resources.html "email marketing resources") | [Clients](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/clients.html) | [Partners](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/partners.html)  
+Request a Demo | [Login](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/login.html) | [Site Map](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/sitemap.html) | [Anti-Spam Policy](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/antispam.html) | [Privacy Policy](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/privacypolicy.html) | [Company](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/company.html)  
+[EmailLabs - Email Marketing Software Solutions](https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/index.html "EmailLabs - Email Marketing Software Solutions")  
+© 2001-2004, EmailLabs - A Service of [Uptilt](http://www.uptilt.com/), Inc. All Rights Reserved  
 
