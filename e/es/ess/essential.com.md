@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the essential.com privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609035203id_/http%3A//www.essential.com/company/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essential.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208221800id_/http%3A//www.essential.com/company/privacypolicy.asp) for the most accurate reproduction.*
 
 # Essential.com
 
   
 [](https://www.truste.org/validate/4267)
 
-This confirms that **Essential.com** is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for **http://www.essential.com**. 
+This confirms that **Essential.com** is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [www.essential.com](https://web.archive.org/). 
 
 TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
@@ -17,13 +17,13 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under **Essential.com's** control 
   7. How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this statement, you should first contact **Customer Support** by sending an email to **[privacy@essential.com](mailto:privacy@essential.com)**. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [_http://www.truste.org/users/users_watchdog.html_](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with Essential.com to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact **Customer Care** by sending an email to **[privacy@essential.com](mailto:privacy@essential.com)**. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [_http://www.truste.org/users/users_watchdog.html_](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with Essential.com to resolve your concerns. 
 
 **Essential.com** is committed to protecting your online privacy. As part of the normal operation of our services we collect and may, in some cases, disclose information about you. By signing up for our services, you consent to the collection and use of this information. Please read the following Privacy Policy to understand how your personal information will be treated as you make full use of our services. Our Privacy Policy may change from time to time; we will post those changes on this page so please check back periodically. 
 
 **What personally identifiable information is collected from you.**
 
-To use Essential.com, you register using our online registration form, where you will be required to provide us with your contact information and other personal information, including your name, telephone number, e-mail address, mailing and address. If you pay by credit card, you will be asked to provide credit card information (including type of credit card, credit card number, expiration date and billing address). If you pay by automatic debit to your bank account, you will be asked to provide bank account information (including the name on the account, the name of bank, the account number and the bank routing number. This information is necessary in order for us to provide you the Essential.com services. Also, when you provide information to us on our site feedback form or send us a customer inquiry form, we use such information for enhancing our customer service and for tracking our performance. 
+To use Essential.com, you register using our online registration form, where you will be required to provide us with your contact information and other personal information, including your name, telephone number, as well as e-mail and postal addresses. If you pay by credit card, you will be asked to provide credit card information (including type of credit card, credit card number, expiration date, and billing address). If you pay by automatic debit to your bank account, you will be asked to provide bank account information (including the name on the account, the name of bank, the account number, and the bank routing number). This information is necessary in order for us to provide you the Essential.com services. Also, when you provide information to us on our site feedback form or send us a customer inquiry form, we use such information for enhancing our customer service and for tracking our performance. 
 
 **What "cookies" are and how they are used.**
 
@@ -33,7 +33,7 @@ Many Internet services deliver cookies to visitors to their web sites. Cookies s
 
 Generally, Essential.com uses cookies to: 
 
-  1. remind us of who you are and to access your account information and allow you to enter your password less frequently during a session; and 
+  1. remind us of who you are, to access your account information, and to allow you to enter your password less frequently during a session; and 
   2. measure your visiting patterns and allow us to better personalize the content, banners, and promotions that you will see on our sites, in order to deliver to you a better and more personalized service. 
 
 
@@ -42,9 +42,9 @@ Generally, Essential.com uses cookies to:
 
 The information collected from you at registration is necessary to provide you with Essential.com's services. 
 
-You will receive an email notice of online bill statement availability on a monthly basis. We also send periodic updates about Essential.com (including administrative notices, new product and service offerings, and communications relevant to your use of Essential.com) to our customers. If you'd like to be removed from our mailing list at any time, please contact our [Customer Support](https://web.archive.org/help) team. We'll gladly remove your name immediately! 
+You will receive an email notice of online bill statement availability on a monthly basis. We also send periodic updates about Essential.com (including administrative notices, new product and service offerings, and communications relevant to your use of Essential.com) to our customers. If you'd like to be removed from our mailing list at any time, please contact our [Customer Care](https://web.archive.org/help) team. We'll gladly remove your name immediately! 
 
-Occasionally our Customer Support Representatives survey selected shoppers by telephone to learn about their experience at the Essential.com site. If you prefer not to be contacted for this purpose, please contact our [Customer Support](https://web.archive.org/help) team. 
+Occasionally our Customer Care Representatives survey selected shoppers by telephone to learn about their experience at the Essential.com site. If you prefer not to be contacted for this purpose, please contact our [Customer Care](https://web.archive.org/help) team. 
 
 We may also use personally identifiable information about you on an aggregated basis (including limited aggregate information collected through log files) to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings, to customize our site's content, layout, services, and to advise service providers about service offerings. We believe these uses allow us to improve our site and better tailor it to meet our users' needs. 
 
@@ -56,7 +56,7 @@ Your information is being collected solely by Essential.com. See the discussion 
 
 We will share your contact information only with the service providers you've selected. These providers will call you to set up appointments and gather additional information as necessary. 
 
-Essential.com does not sell, trade, or rent your personal information to others. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to advertisers and for other marketing and promotional purposes or to reputable third-party service suppliers. In these situations, we would not disclose any information that could be used to personally identify you 
+Essential.com does not sell, trade, or rent your personal information to others. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to advertisers and for other marketing and promotional purposes or to reputable third-party service suppliers. In these situations, we would not disclose any information that could be used to personally identify you. 
 
 Essential.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of Essential.com, our users, or others. 
 
@@ -64,11 +64,11 @@ Essential.com may release account information when we believe, in good faith, th
 
 The information collected from you at registration is necessary to provide you with Essential.com's services. Your only alternative to providing this information is to not use Essential.com. 
 
-If you'd like to be removed from the mailing list for periodic updates about Essential.com or from participation in surveys conducted by Customer Support Representatives, please contact our [Customer Support](https://web.archive.org/help) team. 
+If you'd like to be removed from the mailing list for periodic updates about Essential.com or from participation in surveys conducted by Customer Care Representatives, please contact our [Customer Care](https://web.archive.org/help) team. 
 
 **Accessing, updating or deleting your information.**
 
-You may update or change information related to your Essential.com account by accessing the Your Account section of the website with your username and password. If you wish to review the information we have retained about you at any time or if you believe that any of the information we have retained is incorrect, please contact our [Customer Support](https://web.archive.org/help) team with the corrected information. 
+You may update or change information related to your Essential.com account by accessing the Your Account section of the website with your username and password. If you wish to review the information we have retained about you at any time or if you believe that any of the information we have retained is incorrect, please contact our [Customer Care](https://web.archive.org/help) team with the correct information. 
 
 We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce the terms of your User Registration. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests. 
 
@@ -80,4 +80,7 @@ In addition, all customer data we collect is stored on secure servers and protec
 
 Whenever Essential.com handles personal information as described above, regardless of where this occurs, Essential.com takes steps to ensure that your information is treated securely. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Essential.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
-Please contact us if you have any questions about our privacy policy or security at the Essential.com site. You can contact our [Customer Support](https://web.archive.org/help) team, or call our Customer Support Representatives at (888) 746-4983 
+Please contact us if you have any questions about our privacy policy or security at the Essential.com site. You can contact our [Customer Care](https://web.archive.org/help) team or call our Customer Care Center at (888) 746-4983.   
+
+
+**Top^**
