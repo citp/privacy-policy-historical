@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office.net privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630204117id_/http%3A//office.microsoft.com/o/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.net privacy policy that was archived on 2004-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040831033318id_/http%3A//office.microsoft.com/en-us/privacy.aspx) for the most accurate reproduction.*
 
 # Microsoft Office Online Privacy Statement
 
