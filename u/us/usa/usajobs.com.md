@@ -1,48 +1,40 @@
-> *The following text is extracted and transformed from the usajobs.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208174643id_/http%3A//usajobs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usajobs.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617171534id_/http%3A//www.opm.gov/html/privacy.asp) for the most accurate reproduction.*
 
-# welcome to usajobs.com: Registration
+# Office of Personnel Management (OPM) Web Privacy Policy
 
-**USAJOBS.com's Privacy Commitment - Overview**  
-We at USAJOBS.com understand your need to maintain your privacy when searching for a job. USAJOBS.com is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us is used only for the purposes as set forth herein. 
+|   
 
-**Aggregated Data About USAJOBS.com Visitors**  
-In general, we gather information about all of our users collectively, such as what areas users visit most frequently. We only use such data anonymously and in the aggregate. This information helps us to determine what is most beneficial for our users, and how we can continually create a better overall experience for you. We may share this information with third parties, but only in the aggregate, so that they too may understand how USAJOBS.com visitors use our site, so they may create a better overall experience for you as well. 
 
-**Personally Identifiable Information**  
-USAJOBS.com collects personally identifiable information from users when you register for a USAJOBS account, when you use certain products or services and when you enter promotions or contests. We may also ask you for other information, such as information on your interests, your likes and dislikes regarding the site, the types of jobs you are interested in, etc., in an effort to deliver to you the best possible site experience.   
-If you give us permission, we may use that information to contact you about new site feature announcements, Career events, enhancements and general updates. USAJOBS.com also provides you with the opportunity to opt-out of these types of communications. If you choose to receive these types of communications at the time of registration, but later decide you no longer want to receive them, simply follow the instructions in the e-mail to opt-out.   
-All users should be aware that when they voluntarily display or distribute personal information (such as their e-mail address), that information can be collected and used by others. This may result in unsolicited messages form third parties, for which USAJOBS.com is not responsible. 
+* * *
 
-**Internet Protocol Address**  
-We collect an IP address from all visitors to our site. We use your IP address to help diagnose problems with our server, and to administer our site. Your IP address is also used to help identify you when you visit our site. 
+Thank you for visiting the Office of Personnel Management (OPM) web site and reviewing our privacy policy. Our privacy policy is clear: We will collect no personal information about you when you visit our web site unless you choose to provide that information to us.
 
-**General Information Disclosure**  
-Except as described in this privacy policy, we do not disclose information about your individual visits to our site, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, personal references, etc., to any outside parties, except when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of USAJOBS.com, our users, or others. But, we may record and share aggregated information with our partners, member companies and job seekers. Also, if you input your information on a co-branded page, then your information becomes the property of both USAJOBS.com and the co-sponsor of the page. In that instance, the use of your personal information by our partner company will be subject to the privacy policy of that company and USAJOBS.com is not responsible for the same. 
+Here is how we handle information about your visit to our web site: 
 
-We employ other companies and individuals to perform functions on our behalf. Examples may include hosting our web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These other companies may have access to your personal information as necessary to perform their functions, but they may not share that information with any third party. 
+**Information Collected and Stored Automatically**
 
-**Resumes**  
-Since USAJOBS.com is a career site, we give you the option of putting your resume in our database it is our intention that only paying customers or prospective customers will have access to the resume database, but cannot guarantee that other parties will not, without our consent, gain access to this database. You may remove your resume from our searchable database at any time. However, employers and recruiters who have paid for access to the database, and other parties who have otherwise gained access to the database, may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in these instances, or for the use or privacy of resumes by any of such parties while resumes are in the database. 
+If you do nothing during your visit but browse through the web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
-Agencies, headhunters and third party staffing agencies have the ability to post jobs on our site, but they are not given access to our resume database. Please note that once you submit your resume to an agency, headhunter or third party staffing agency, USAJOBS.com and its affiliates disclaim all liability for distribution of resume data. 
+  1. The Internet domain (for example, “youragency.gov” if you connect from a government domain, “yourschool.edu” if you connect from a university's domain, or “xcompany.com” if you use a private Internet access account) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our web site; 
+  2. The type of browser and operating system used to access our site; 
+  3. The date and time you access our site; 
+  4. The pages you visit; and 
+  5. If you linked to our web site from another web site, the address of that web site. 
 
-**Updating Account Information**  
-USAJOBS.com allows you to change, correct or remove your personal information at any time. To do so, simply log into your account, go to your account profile, and you will find options for editing the information you have submitted. 
 
-**About Cookies**  
-Cookies, which are small text files recorded in a user's hard drive, are employed by thousands of sites to enhance user's Web viewing experience. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow sites and advertisers to "remember" users across pages of a site and across multiple visits to a site. We use cookies for remembering preferences, maintaining information about whether you're currently logged into our systems, and tracking click streams. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of a Web site's functionality if you do so. 
 
-**Banner Advertising**  
-USAJOBS.com shares web site usage information with a reputable third party for the purpose of targeting our Internet banner advertisement on this site and other sites. To do this, we use clear GIFs, or pixel tags, on this site, which allow us to recognize a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable. 
+We use this information to help us make our site more useful to visitors to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits. We do not enable "cookies." (A "cookie" is a file placed on your hard drive by a web site that allows it to monitor your use of the site.)
 
-**Feedback**  
-USAJOBS.com has an area on the site where you can submit feedback. Any feedback that is submitted through this area becomes the property of USAJOBS.com. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site. 
+**If You Send Us Personal Information**
 
-**Children**  
-We do not specifically collect information about children. We believe that children should get their parents' consent before giving out personal information. 
+If you choose to provide us with personal information as in an email to one of our online email boxes, or by filling out a form with your personal information and submitting it to us through our web site we use that information to respond to your message and to help us get you the information you have requested. We treat emails the same way we treat letters sent to OPM, but we do not collect personal information for any purpose other than to respond to you. We collect personally identifiable information (name, email address, Social Security number, or other unique identifier) only if specifically and knowingly provided by you. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or give it to any private organizations. We do not collect information for commercial marketing. 
 
-**Privacy Commitment Changes**  
-If we decide to change our privacy commitment for USAJOBS.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about USAJOBS.com's privacy commitment, please e-mail at privacy@usajobs.com 
+**Links to Other Sites**
 
-Thank you for using USAJOBS.com.   
+Our web site has links to other federal agencies. We also link to other organizations’ web sites when we have a good business reason to do so. This does not constitute an endorsement of their policies or products. Once you link to another site, you are subject to the privacy policy of the new site. 
 
+**Site Security**
+
+We ensure that our web site remains available to all users by using a Government computer system that employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+
+| 
