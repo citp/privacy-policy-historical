@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aota.org privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405024407id_/http%3A//www.aota.org/priv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aota.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604013615id_/http%3A//www.aota.org/general/priv.asp) for the most accurate reproduction.*
 
 # AOTA - Privacy Statement
 
@@ -6,7 +6,7 @@ AOTA Privacy Statement
 
 This privacy statement discloses the privacy practices for [www.aota.org](http://www.aota.org/) of the American Occupational Therapy Association (AOTA).
 
-AOTA is an independent, non-profit organization whose mission is to build users� trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. AOTA agrees to notify you of:
+AOTA is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. AOTA agrees to notify you of:
 
   * What personally identifiable information of yours or third-party personal identification is collected from you through the web site 
   * The organization collecting the information 
@@ -18,7 +18,7 @@ AOTA is an independent, non-profit organization whose mission is to build users�
 
 
 
-If you feel AOTA is not abiding by its posted privacy policy, you should first contact Paula A. Steib, Communications Director at [paulas@aota.org;](mailto:paulas@aota.org;) 301-652-2682, ext. 2961. 
+If you feel AOTA is not abiding by its posted privacy policy, you should first contact Jeff Finn, Communications Group Leader at [jfinn@aota.org;](mailto:paulas@aota.org;) 301-652-2682, ext. 2961. 
 
 Information Collection and Use 
 
@@ -30,11 +30,11 @@ To access areas designated as "member areas" users must be current members of AO
 
 Online Orders
 
-We request information from the user on our membership form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer�s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+We request information from the user on our membership form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
 
 Cookies
 
-There are two types of cookies. The standard cookie is a piece of data stored on the user�s hard drive containing information about the user. The second type of cookie is called a "per-session" cookie. These cookies also store information about a user. However, these cookies are not stored on the user's hard drive. These cookies are only used while the user is actively using a website. Once the user closes their browser (or is inactive for more than 20 minutes), these "per-session" cookies are destroyed.
+There are two types of cookies. The standard cookie is a piece of data stored on the user’s hard drive containing information about the user. The second type of cookie is called a "per-session" cookie. These cookies also store information about a user. However, these cookies are not stored on the user's hard drive. These cookies are only used while the user is actively using a website. Once the user closes their browser (or is inactive for more than 20 minutes), these "per-session" cookies are destroyed.
 
 AOTA uses both types of cookies on the web site. 
 
@@ -70,11 +70,11 @@ Security
 
 This web site takes every precaution to protect our users' information. When you submit sensitive information via the web site, your information is protected both online and off-line. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just �surfing�. 
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, in a combination locked room. Only a very limited number of employees have access to this room. Furthermore, our servers are all password protected. The server that stores personal data is not accessible via Internet or wide area network. Only local users are able to access this server.
 
-If you have any questions about the security at our web site, you can send an email to [helpdesk@aota.org](https://web.archive.org/helpdesk.asp).
+If you have any questions about the security at our web site, you can send an email to [helpdesk@aota.org](https://web.archive.org/memserv/links/helpdesk.asp).
 
 Special Offers
 
@@ -100,6 +100,27 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 Contact Us
 
-AOTA is located at 4720 Montgomery Lane, P.O. Box 31220, Bethesda, MD 20824-1220. We can be reached by phone at 301-652-2682 or TDD 1-800-377-8555. Send faxes to 301-652-7711.
+AOTA is located at  
+4720 Montgomery Lane  
+P.O. Box 31220  
+Bethesda, MD 20824-1220
 
-If you would like to send an e-mail message [see a list of email address](https://web.archive.org/web/20010405024407id_/http%3A//www.aota.org/about.asp#email).
+We can be reached by phone at 301-652-2682 or TDD 1-800-377-8555. Send faxes to 301-652-7711.
+
+If you would like to send an e-mail message [see a list of email address](https://web.archive.org/web/20020604013615id_/http%3A//www.aota.org/general/about.asp#email).
+
+Please Note
+
+AOTA cannot answer treatment questions about specific cases. Members, please provide your 
+
+_full name_
+
+and 
+
+_membership number_
+
+for the quickest response.
+
+Tours of AOTA
+
+Tours of the AOTA national office in Bethesda, Md. are available on Thursdays between 10 a.m. and 4 p.m. by appointment only. Due to the amount of staff time involved in providing this service, appointments must be made at least two weeks in advance and will be booked on a first-come first-served basis. Please call the AOTA Membership Department at 301-652-2682, ext. 2760 to make arrangements.
