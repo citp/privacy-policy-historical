@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619024157id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211130954id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.*
 
 # Dictionary.com/Privacy Policy
 
@@ -70,8 +70,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 > Lexico Publishing Group, LLC  
 >  Attn: Customer Service  
->  13428 Maxella Avenue #236  
->  Marina del Rey, CA 90292  
+>  65 Pine Avenue #319  
+>  Long Beach, CAÊ90802  
 >  [E-mail](https://web.archive.org/help/contact.html)
 
 | 
