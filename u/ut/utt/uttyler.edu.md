@@ -1,30 +1,28 @@
-> *The following text is extracted and transformed from the uttyler.edu privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001204328id_/http%3A//www.uttyler.edu/mainsite/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uttyler.edu privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613203148id_/http%3A//www.uttyler.edu/mainsite/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy, The University of Texas at Tyler
 
-_**  
-Web site Privacy Statement on the Use of Information  
-gathered from the General Public**_
+**  
+The University of Texas at Tyler  
+Web site Privacy Statement on the use of Information  
+Gathered from the General Public**
 
-> **The University of Texas at Tyler** maintains the UT Tyler web site as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public, if any, and how that information is used.
+> **The University of Texas at Tyler** maintains the UT Tyler web site (www.uttyler.edu) as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public, if any, and how that information is used.Employees of the university should refer to [BPM 53-02-96](http://www.utsystem.edu/BPM/53.htm) , which outlines the internal policy for the use and protection of information resources.   
 > 
-> **I. Cookies**
+> 
+> **I.** **Notice of Personal Information**
+>
+>> The following notice is provided in accordance with Section 559.003(a) of the Texas Government Code:
+>> 
+>> With few exceptions, you are entitled on your request to be informed about the information The University of Texas at Tyler collects about you;Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information; and Under Section 559.004 of the Texas Government Code, you are entitled to have The University of Texas at Tyler correct information about you that is held by The University of Texas at Tyler and is incorrect, in accordance with the procedures set forth in The University Of Texas System Business Procedures Memorandum 32, Texas Public Information Act. 
+>
+>> The information that The University of Texas at Tyler collects will be retained and maintained as required by Texas records retention laws (Section 441.180 et. Seq. of the Texas Government Code) and rules. Different types of information are kept for different periods of time. ****
+> 
+> **II. Cookies**
 >
 >> A "cookie" is a small file containing information that is placed on a user's computer by a web server. Typically, these files are used to enhance the user's experience of the site, to help users move between pages in a database, or to customize information for a user.
 >> 
 >> Any information that UT Tyler webservers may store in cookies is used for internal purposes only. Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless UT Tyler is legally required to do so in connection with law enforcement investigations or other legal proceedings.
-> 
-> **II. Notice of Personal Information**
->
->> The following notice is provided in accordance with Section 559.003(a) of the Texas Government Code:
-> 
->   1. With few exceptions, you are entitled on your request to be informed about the information The University of Texas at Tyler collects about you;
->   2. Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information; and
->   3. Under Section 559.004 of the Texas Government Code, you are entitled to have The University of Texas at Tyler correct information about you that is held by The University of Texas at Tyler and is incorrect, in accordance with the procedures set forth in The University Of Texas System Business Procedures Memorandum 32, Texas Public Information Act. 
-> 
-
->
->> The information that The University of Texas at Tyler collects will be retained and maintained as required by Texas records retention laws (Section 441.180 et. Seq. of the Texas Government Code) and rules. Different types of information are kept for different periods of time.
 > 
 > **III. Logs and Network Monitoring**
 >
