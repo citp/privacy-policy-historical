@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2000-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001015181245id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602080957id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Syvum Privacy Policy
 
@@ -20,6 +20,12 @@ Syvum does not collect any information from children under 13 that could identif
 
 There are times when we may collect personal information from you. It is our intent to inform you before we do that and to tell you what we intend to do with the information. You will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information. If you choose not to provide the information we request, you can still visit most of the syvum.com Web site, but you may be unable to access certain options, offers, and services. 
 
+### EMAIL
+
+Syvum does not engage in or support spamming or misuse of email addresses. When you use the "Send this page to a friend" feature on the Syvum web site, the email address of your friend is used only to send the requested page to them. No further emails are sent to that address, nor is that address revealed to any third party. 
+
+When you provide us your email address to register as a member, you may receive occasional newsletters informing you of updates to our site and products. You also have the option to subscribe to daily or weekly mailing lists operated by Syvum. Your email address is held in strict confidence, and only used as stated here. 
+
 ### ACCURACY 
 
 We do our best to maintain the accuracy of personal information you supply to us; we are working on tools that will allow you to review and update your information in the future. 
@@ -30,11 +36,15 @@ We will take appropriate steps to protect the information you share with us from
 
 ### COOKIES
 
-Our shopping cart uses "cookies" to make your shopping experience enjoyable. The product codes in your cart are stored in the text in the cookies. If you do not wish to use cookies, you may still shop directly from our online shop. 
+Some parts of our site use cookies in order to provide you a better experience of the site. For example, your scores in the online activities in any given session are stored in a cookie. For registered members, cookies allow us to provide you a customized experience. Our shopping cart also uses "cookies" to make your shopping experience enjoyable. The product codes in your cart are stored in the text in the cookies. If you do not wish to use cookies, you may still shop directly from our online shop. See also: Advertisements. 
 
 ### SHARING OF PERSONAL INFORMATION
 
-Syvum shares aggregate information about its users with advertisers, business partners, sponsors and other third parties. For example, we will say Syvum's audience is x percent females and y percent males. This data is used to customize the content and advertising to deliver a better experience for our users. 
+Syvum may share aggregate information about its users with advertisers, business partners, sponsors and other third parties. For example, we may say Syvum's audience is x percent females and y percent males. This data is used to customize the content and advertising to deliver a better experience for our users. 
+
+### ADVERTISEMENTS
+
+The ads appearing on this Web site are delivered to you by DoubleClick's Sonar Network, our Web advertising partner. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. Information about your visit to this site (but not your name, address, or other personal information) is used to serve ads to you on this site. This information is not collected by Sonar and DoubleClick for profiling. For more information about Sonar, cookies, and your right to "opt-out", please [click here](http://www.sonar.com/content/privacy.htm). 
 
 ### COMMITMENT 
 
@@ -43,23 +53,3 @@ We are committed to privacy. Personal data privacy is a new and evolving area, a
 By using this site, you signify your assent to the Syvum Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the Syvum Web Site following the posting of changes to these terms will mean you accept those changes. 
 
 Thank you for your support of these policies and of Syvum Technologies. 
-
-**Become a[member](https://web.archive.org/members/benefits.html) of the Syvum Clubs to receive activities and lessons from this site by email everyday or every week. It is FREE.**
-
-* * *
-
-Advertisement  
-  
-[](http://leader.linkexchange.com/1/X1293952/clicklogo)  
-
-
-* * *
-
-| **SYVUM** | **Education Online** | **Educational Software** | **Family Fun Zone** | **Articles**  
----|---|---|---|---  
-[Home](https://web.archive.org/) | [GRE](https://web.archive.org/gre/) | [Index](https://web.archive.org/kids/software.html) | [Index](https://web.archive.org/family/) | [Index](https://web.archive.org/literature/index.html)  
-[Web Shop](https://web.archive.org/webshop/shop.html) | [Kids English](https://web.archive.org/online/english.html) | [Kids English](https://web.archive.org/kids/english.html) | [Quizzes](https://web.archive.org/quiz/) | [SyvumBook](https://web.archive.org/technology/syvumbook.html)  
-[FAQ](https://web.archive.org/faq.html) | [Kids Math](https://web.archive.org/online/math.html) | [Kids Math](https://web.archive.org/kids/math.html) | [Brain Teasers](https://web.archive.org/teasers/) | [Teaching](https://web.archive.org/literature/teachers.html)  
-[Contact Us](https://web.archive.org/contact.html) | [English Proverbs](https://web.archive.org/proverbs/) | [Word Problems](https://web.archive.org/kids/word_problems.html) | [Proverbs](https://web.archive.org/proverbs/) | [Games](https://web.archive.org/literature/game.html)  
-[**AWARDS**](https://web.archive.org/kids/awards.html) | [Math Puzzles](https://web.archive.org/teasers/) | [**Free Downloads**](https://web.archive.org/download.html) | [Recipes](https://web.archive.org/recipes/) | [Homeschooling](https://web.archive.org/literature/homeschool.html)  
-[**Secure Online Shopping**](https://web.archive.org/webshop/shop.html)             [**Register NOW!**](https://web.archive.org/members/register.html)             [**Syvum Kids Club**](https://web.archive.org/members/)
