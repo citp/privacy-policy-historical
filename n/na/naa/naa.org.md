@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008182624id_/http%3A//naa.org/DocPage.cfm%3FDID%3DPRV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603043958id_/http%3A//www.naa.org/DocPage.cfm%3FDID%3DPRV) for the most accurate reproduction.*
 
 # NAA
 
@@ -11,18 +11,18 @@
 |   
 |   
 |   
-[](https://web.archive.org/web/20031008182624id_/http%3A//naa.org/InfoFor.cfm?IID=1000) |   
+[](https://web.archive.org/web/20040603043958id_/http%3A//www.naa.org/InfoFor.cfm?IID=1000) |   
 [](http://www.naa.org/classified/index.html) |   
 [](http://www.newspaperlinks.com/home.cfm) |   
 [](http://www.naa.org/vendorlinks/index.asp) |   
-[](https://web.archive.org/web/20031008182624id_/http%3A//naa.org/NAAIndex.cfm) |   
+[](https://web.archive.org/web/20040603043958id_/http%3A//www.naa.org/NAAIndex.cfm) |   
 |   
 |   
   
 [  
-HOME](https://web.archive.org/web/20031008182624id_/http%3A//naa.org/index.cfm) -> Privacy Policy 
+HOME](https://web.archive.org/web/20040603043958id_/http%3A//www.naa.org/index.cfm) -> Privacy Policy 
 
-### Online Privacy and Child-Protection Policy
+## Online Privacy and Child-Protection Policy
 
 This is the World Wide Web site of the Newspaper Association of America, 1921 Gallows Road, Suite 600, Vienna, Va. 22182-3900. NAA can be reached by e-mail at [webmaster@naa.org](mailto:webmaster@naa.org) and by telephone at (703) 902-1600.
 
@@ -38,9 +38,9 @@ Prior parental consent is not required for NAA to accept personal information fr
 
 **Parents** : NAA encourages parents to get involved with their children's online usage and to be aware of the activities in which their children are participating. Any personal information collected by NAA from children (if NAA is aware they are children) will be used only for internal purposes such as contest fulfillment, or fulfilling requests for information or materials. Such information will not be included in our database and will not be posted or published by NAA, or provided to any third parties, without prior parental consent. If you have any concerns regarding use of information provided by a child, please contact us at [webmaster@naa.org](mailto:webmaster@naa.org), or at the postal mail address or telephone number above.
 
-NAA's Web site contains links to many other sites. However, we are not responsible for the content of the privacy practices employed by other sites. 
+NAA's Web site contains links to many other sites. However, we are not responsible for the content or the privacy practices employed by other sites.
 
-Questions or concerns regarding what is done with information provided via this site should be directed to [webmaster@naa.org](mailto:webmaster@naa.org) before any information is submitted.
+Questions or concerns regarding what is done with information provided via this site should be directed to [webmaster@naa.org](mailto:webmaster@naa.org) before any information is submitted
 
 |   |    
 |  |  |    
