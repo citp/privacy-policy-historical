@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214145323id_/http%3A//www.justfreestuff.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602144752id_/http%3A//www.justfreestuff.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Just Free Stuff
 
