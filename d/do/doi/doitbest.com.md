@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doitbest.com privacy policy that was archived on 2002-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021130204830id_/http%3A//doitbest.com/shop/aboutus/privacy.asp%3Fmscssid%3DGLSDQTFBSNSR2PET00JP49NKVSF24CBD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doitbest.com privacy policy that was archived on 2003-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030116120948id_/http%3A//doitbest.com/shop/aboutus/privacy.asp%3Fmscssid%3DHDDR4ESFP3528HMA72G8D9747EHB6CX3) for the most accurate reproduction.*
 
 # DoitBest.com: Privacy Policy
 
