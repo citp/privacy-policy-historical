@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingsherpa.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202204538id_/http%3A//www.marketingsherpa.com/company.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingsherpa.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602235803id_/http%3A//www.marketingsherpa.com/company.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # MarketingSherpa.com : Practical News & Case Studies on Internet Advertising, Marketing & PR
 
@@ -8,11 +8,17 @@ Here at [www.MarketingSherpa.com](http://www.marketingsherpa.com/) we have a chi
 
  **Your email address**
 
-We only collect and hold your email address in order to send you the newsletters you have requested. You can unsubscribe at any time for any reason with zero tears or recriminations. If you ever have a problem with your subscription, feel free to contact our Subscriber Services Manager, Aimee at [subscriptions@marketingSherpa.com](mailto:subscriptions@marketingSherpa.com).
+We only collect and hold your email address in order to send you the newsletters you have requested. You can unsubscribe at any time for any reason with zero tears or recriminations. If you ever have a problem with your subscription, feel free to contact Customer Service at [service@marketingsherpa.com](mailto:service@marketingsherpa.com).
 
 MarketingSherpa does not rent email lists (ever), nor will we share your name with "marketing partners" unless you pro-actively check a box on our site personally requesting that your name be added to a partner's list. These boxes are never pre-checked - you actively have to volunteer to be on any lists!
 
- **Your friend's email address**
+ **CAN-SPAM Compliance**
+
+On January 5th we added a new feature to our subscription management page to be CAN-SPAM compliant. Now you can use the form to add your name to our suppression "Promo Do Not Email" list. This is separate from editorial lists, so you can be signed up for newsletters and also stop all promo blasts regarding our products. 
+
+Now, we're working with our affiliates (list owners who send out promotions about MarketingSherpa products to their own separate lists) to figure out how to suppress your name from their lists as well. Please bear with us as we, and the rest of the email industry, figure this thing out. Thanks. 
+
+**Your friend's email address**
 
 You may notice throughout this site we offer you the chance to send a friend an article or a note telling them about the site. Feel free to take advantage of these opportunities because your pal is also covered by MarketingSherpa's Spam-Free Privacy policy. 
 
@@ -54,7 +60,7 @@ However, we pre-approve every mailing so that only offers that make good sense (
 
 We do *not* allow anyone to see your telephone number or email address, nor would we ever allow our postal file to be appended with emails.
 
-If you want your snail mail address off this list, email Aimee at[subscriptions@marketingSherpa.com](mailto:subscriptions@marketingSherpa.com) and she'll take care of it. The file is updated quarterly. 
+If you want your snail mail address off this list, email Customer Service at [service@marketingsherpa.com](mailto:service@marketingsherpa.com) and we'll take care of it. The file is updated quarterly. 
 
 **Questions? Concerns?**   
-Feel free to fling them over to our Subscription Services Manager Aimee at [subscriptions@marketingSherpa.com](mailto:subscriptions@marketingSherpa.com)
+Feel free to fling them over to our Customer Service Manager at [service@marketingsherpa.com](mailto:service@marketingsherpa.com)
