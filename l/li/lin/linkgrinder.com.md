@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 1999-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991128083310id_/http%3A//www.linkgrinder.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617120534id_/http%3A//www.linkgrinder.com/Privacy.cfm) for the most accurate reproduction.*
 
-# Link Grinder - Free Engine for Fast Searching of Hot Links and Free Advertising - Find what you want FAST! Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, Medicine Institutes Labor Desktop Publishing Organizations Sports Fitness Relationships Directories Awards
+# Link Grinder - Free Engine for Fast Searching of Hot Links and Free Advertising - Find what you want FAST! Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, News and Media Transportation Virtual Cards Communications and Training Insects Agriculture Measurements and Units News Services Families
 
 | 
 
