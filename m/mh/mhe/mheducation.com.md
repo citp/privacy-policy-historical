@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mheducation.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010102410id_/http%3A//www.mheducation.com/mhe_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mheducation.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204063138id_/http%3A//www.mheducation.com/mhe_privacy.htm) for the most accurate reproduction.*
 
 # McGraw-Hill Education | MHE Customer Privacy Notice
 
