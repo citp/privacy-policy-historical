@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204145328id_/http%3A//www.gmcvb.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307213201id_/http%3A//www.gmcvb.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Greater Miami Convention & Visitors Bureau
+# privacy policy
 
-| 
+Print Page 
 
 ### Greater Miami Convention & Visitors Bureau   
 Privacy Policy 
@@ -73,7 +73,4 @@ You hereby agree to indemnify, defend and hold the GMCVB, and all its officers, 
   
 XII. Modification of Terms and Conditions
 
-GMCVB reserves the right, at its sole discretion, to change, modify, add or remove any portion of this Agreement, in whole or in part, at any time. Notification of changes in the Agreement will be posted on the website. GMCVB may change, suspend or discontinue any aspect of the website at any time, including the availability of any website feature, database, or content. GMCVB may also impose limits on certain features and services or restrict your access to parts or all of the website without notice or liability. By using this website you agree to be bound by any such revisions and should therefore periodically visit the page to determine the then current terms of use to which you are bound.  
-
-
-| 
+GMCVB reserves the right, at its sole discretion, to change, modify, add or remove any portion of this Agreement, in whole or in part, at any time. Notification of changes in the Agreement will be posted on the website. GMCVB may change, suspend or discontinue any aspect of the website at any time, including the availability of any website feature, database, or content. GMCVB may also impose limits on certain features and services or restrict your access to parts or all of the website without notice or liability. By using this website you agree to be bound by any such revisions and should therefore periodically visit the page to determine the then current terms of use to which you are bound.
