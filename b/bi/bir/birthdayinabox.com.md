@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010060330id_/http%3A//www.birthdayinabox.com/lobby.asp%3FupperRight%3D%252FUpperRightImages%252Fbubble%255Fkids%252Ejpg%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402050025id_/http%3A//www.birthdayinabox.com/lobby.asp%3FupperRight%3D%252FUpperRightImages%252Fcorner%255Fgirl%252Ejpg%26page%3Dprivacy) for the most accurate reproduction.*
 
-# Children's Birthday Party Supplies & Theme Party Favors
+# Birthday Party Supplies & Theme Party Favors
 
 With children of our own, we understand the significance of privacy where children are concerned. Birthday in a Box is committed to protecting your privacy and that of your children. You may be asked to provide your name, address, eMail address, telephone and credit card information, as well as your child's name and birth date. The information we request from you is stored on our secure servers, and is used to process your orders and to provide you with personalized, timely service. 
 
