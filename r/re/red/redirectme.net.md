@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the redirectme.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603034017id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redirectme.net privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307170656id_/http%3A//redirectme.net/legal/privacy.php) for the most accurate reproduction.*
 
 # No-IP.com - The Dynamic DNS Leader
 
-|  No-IP.com Privacy Policy
+No-IP.com Privacy Policy
 
 No-IP.com has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy. 
+
+#### WE DO NOT DISCLOSE DATA TO UNAFFILIATED THIRD PARTIES
+
+No-IP.com does not disclose customers' personal data, including email addresses, to unaffiliated third parties. We do use, and permit our affiliates and partners to use, customer data for several purposes, which are discussed in detail below. 
 
 #### USE OF INTERNET PROTOCOL ADDRESS
 
@@ -20,7 +24,7 @@ We also collect demographic and profile data that we use to tailor your experien
 
 #### USE OF ORDER INFORMATION
 
-When you place an order, No-IP.com requests information such as contact information, Social Security number, credit card number and demographic information. The contact information you provide is used to send you orders, company information and promotional material from our partners. You can opt out or opt in at any time. (See Opt Out/Opt In, below.) Your financial information is used for the sole purpose of billing you for products and services. You Social Security number is used to identify you, and demographic data is collected to personalize future visits by displaying the content we feel would interest you most. 
+When you place an order, No-IP.com requests information such as contact information, credit card number and demographic information. The contact information you provide is used to send you orders, company information and promotional material from our partners. You can opt out or opt in at any time. (See Opt Out/Opt In, below.) Your financial information is used for the sole purpose of billing you for products and services. Demographic data is collected to personalize future visits by displaying the content we feel would interest you most. 
 
 #### USE OF ONLINE SURVEY INFORMATION
 
@@ -32,7 +36,7 @@ To participate in our contests, you will be required to supply contact and demog
 
 #### PUBLIC FORUMS GUIDELINES
 
-No-IP.com offers chat rooms and bulletin boards. Please note that information that is disclosed in these arenas becomes public. Use caution in disclosing any personal information. 
+No-IP.com may offer chat rooms and bulletin boards. Please note that information that is disclosed in these arenas becomes public. Use caution in disclosing any personal information. 
 
 #### SECURITY
 
@@ -40,11 +44,15 @@ No-IP.com features security measures 128-bit SSL encryption to protect the loss,
 
 #### CHILDREN'S GUIDELINES
 
-We do not collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We do not distribute personally identifiable information about children without parental consent. We do not give children the ability to post or distribute personal information without prior consent. We do not entice children with games or contests that would encourage them to disclose personal information. 
+We do not knowingly collect or use any personally identifiable information from children. 
 
 #### OPT OUT/OPT IN
 
 No-IP.com allows users to opt out of receiving e-mail from us or our partners. To opt out of our mailing list you can send e-mail to a remove mailing list. 
+
+#### MODIFICATION OF THIS POLICY
+
+No-IP.com may amend or modify this privacy policy at any time upon written notice from No-IP.com to customers. In the event of an amendment, No-Ip.com will provide an opportunity for customers to opt out of the new policy, either by email or by filling out a form on the No-IP.com website. 
 
 #### CORRECT/UPDATE PERSONAL INFORMATION
 
@@ -56,9 +64,9 @@ This site contains links to other sites. No-IP.com is not responsible for the co
 
 #### CONTACT US
 
-If you have any additional questions or concerns about our privacy policy, please contact us:
+If you have any additional questions or concerns about our privacy policy, please contact us: 
 
-Vitalwerks LLC  
+Vitalwerks Internet Solutions, LLC  
 c/o No-IP.com  
 P.O. Box 230686  
 Las Vegas, NV 89123  
