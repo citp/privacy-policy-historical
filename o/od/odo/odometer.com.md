@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odometer.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603154026id_/http%3A//www.findit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odometer.com privacy policy that was archived on 2002-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021019015548id_/http%3A//www.findit.com/privacy.asp) for the most accurate reproduction.*
 
-# Findit.com - Find everything on the Internet.
+# Free Search Engine - Findit.com
 
 **Findit.com Privacy Policy**
 
