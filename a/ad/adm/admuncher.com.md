@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203073411id_/http%3A//admuncher.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402004941id_/http%3A//admuncher.com/privacy.shtml) for the most accurate reproduction.*
 
 # Ad Muncher - Privacy Policy
 
@@ -20,4 +20,4 @@ The above information will never be used for regular unsolicited emails (for exa
 Information provided to our staff will not be sold, rented or traded to any third party under any conditions.
 
 **Privacy Policy Changes**  
-Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20031203073411id_/http%3A//admuncher.com/contact.shtml). 
+Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20040402004941id_/http%3A//admuncher.com/contact.shtml). 
