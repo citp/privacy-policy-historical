@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204192957id_/http%3A//yachtworld.com/globalnav/privacy.html.en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184128id_/http%3A//yachtworld.com/globalnav/privacy.html.en) for the most accurate reproduction.*
 
 # YachtWorld.com
 
