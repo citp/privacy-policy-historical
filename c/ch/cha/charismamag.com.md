@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602190132id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203041031id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.*
 
 # Strang Communications Online
 
@@ -40,13 +40,12 @@ SPECIAL EVENTS
 ---  
   
 Updated as of   
-June 2, 2003  
+December 2, 2003  
   
-CharismaLife 2003 Children's Conference  
-Lake Mary, Florida  
-September 25-26-27   
-[click here for more info](https://secure.strang.com/charismalife.com/confeform.html)  
-  
+Women's Conference 2004  
+Daytona Beach FL  
+April 22-24, 2004  
+[click here for more info](http://www.spiritledwoman.com/womensconference/)  
 |    
 
 
