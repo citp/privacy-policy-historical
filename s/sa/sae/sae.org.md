@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605055721id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173506id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
 
 # SAE Website Privacy Policy
 
@@ -90,7 +90,7 @@ If you have comments or questions about this Policy, please contact us at:
 ---|---  
   
 |   
-|  | ©2004 SAE International. All rights reserved.  
+|  | ©2005 SAE International. All rights reserved.  
 CustomerService@sae.org | U.S. & Canada: 1-877-606-7323  
 International: 1-724-776-4970  
 ---|---
