@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618033922id_/http%3A//geotrust.com/resources/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204131157id_/http%3A//www.geotrust.com/resources/legal/privacy.htm) for the most accurate reproduction.*
 
 # GeoTrust
 
