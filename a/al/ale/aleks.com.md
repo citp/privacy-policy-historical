@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201060546id_/http%3A//aleks.com/privacy-ENGLISH.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408224649id_/http%3A//aleks.com/privacy-ENGLISH.html) for the most accurate reproduction.*
 
 # ALEKS Privacy Statement
 
@@ -21,7 +21,7 @@
 > 
 
 > 
-> If you feel that we are not abiding by its posted privacy policy, you should contact our Director of Customer Support by e-mailing: [support@aleks.com](mailto:support@aleks.com).
+> If you feel that we are not abiding by its posted privacy policy, you should contact our Director of Customer Support by e-mailing: [support@aleks.com](mailto:support@aleks.com?subject=privacy%20policy).
 
 **Information Collection and Use**
 
@@ -75,7 +75,7 @@
 > 
 > While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 > 
-> If you have any questions about the security at our website, you can send an email to [security@aleks.com](mailto:security@aleks.com).
+> If you have any questions about the security at our website, you can send an email to [security@aleks.com](mailto:security@aleks.com?security).
 
 **Special Offers**
 
@@ -93,7 +93,7 @@
 
 > Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our billing information form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their e-mail address off of our lists.
 > 
-> Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by clicking on the opt-out link on the bottom of e-mail communications, or by notifying us in regard to other communications at [support@aleks.com](mailto:support@aleks.com).
+> Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by clicking on the opt-out link on the bottom of e-mail communications, or by notifying us in regard to other communications at [support@aleks.com](mailto:support@aleks.com?subject=opt%2dout).
 > 
 > In the event we in the future offer services that require an outside parties, users of our site will always be notified when their information is being collected by any outside parties. We would do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
