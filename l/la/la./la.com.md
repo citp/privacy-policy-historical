@@ -1,19 +1,26 @@
-> *The following text is extracted and transformed from the la.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205551id_/http%3A//la.com/cgi-bin/WebObjects/cgpportal.woa/wa/path%3Furlpath%3D/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the la.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210040400id_/http%3A//la.com/cgi-bin/WebObjects/cgpportal.woa/wa/path%3Furlpath%3D%252Fhome%252Fprivacypolicy) for the most accurate reproduction.*
 
 # LA.com: Your City. Your Guide. Insiders Guide to Los Angeles, California CA
 
+[About LA.com](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Faboutlacom) | [Privacy](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fprivacypolicy) | [Advertising](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fadvertising) | [Press](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=/home/newspress/test/15634) | [Terms & Conditions](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Ftermsconditions) | [Contact Us](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fcontactus) | [Site Map](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fsitemap) | [Jobs](http://www.la.com/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fmultiuselist%2Ftest%2F31406) ~LA.com: Your City. Your Guide. LA.com is a new insider's guide to [Los Angeles](https://web.archive.org/web/20041210040400id_/http%3A//la.com/cgi-bin/WebObjects/cgpportal.woa/wa/path%3Furlpath%3D%252Fhome%252Fprivacypolicy), California   
+21221 Oxnard Street, Los Angeles, CA 91367  © 2004 LA.com 
+
+| 
+
+|   
 ---  
 |   
 ---  
+PRIVACY POLICY  
 What This Privacy Policy Covers
 
   * This policy covers how LA.com treats personal information that LA.com collects and receives, including information related to your past use of LA.com products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
   * This policy does not apply to the practices of companies that LA.com does not own or control, or to people that LA.com does not employ or manage.
 
   
-Information Collection and Use   
-  
-General
+Information Collection and Use 
+
+**General**
 
   * LA.com collects personal information when you register with LA.com, when you use LA.com products or services, when you visit LA.com pages or the pages of certain LA.com partners, and when you enter promotions or sweepstakes. LA.com may combine information about you that we have with information we obtain from business partners or other companies. 
   * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with LA.com and sign in to our services, you are not anonymous to us. 
@@ -21,7 +28,7 @@ General
   * LA.com automatically receives and records information on our server logs from your browser, including your IP address, LA.com cookie information, and the page you request. 
   * LA.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-Children 
+**Children**
 
   * When a child under age 13 attempts to register with LA.com, we ask that he or she obtain parental permission. 
   * LA.com will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
