@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndham.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208044500id_/http%3A//wyndham.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndham.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603052542id_/http%3A//wyndham.com/privacy.cfm) for the most accurate reproduction.*
 
 # Wyndham Hotels and Resorts - Privacy
 
