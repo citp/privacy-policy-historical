@@ -1,70 +1,80 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207042700id_/http%3A//www.freeadvice.com/law/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603123051id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Advice & Counsel
+# FreeAdvice.com's Privacy Policy
 
-[](http://law.freeadvice.com/) |   
----|---  
-   
-|    
-  
- [](https://web.archive.org/web/20001207042700id_/http%3A//www.freeadvice.com/law/index.htm) **  : Privacy Policy  
-**
+### Privacy Statement for FreeAdvice.com
 
-## Privacy Statement for FreeAdvice.com
+FreeAdvice, recognized as the Number 1 Legal Website for consumers and small businesses, respects the privacy of visitors to our site. FreeAdvice.com is a unit of Advice Company (Advice & Counsel Incorporated), a leading provider of information and advice and E-commerce solutions on the Internet. 
 
-Management of FreeAdvice.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the FreeAdvice.com website. Questions regarding this statement should be directed to the Officer named below by emailing [admin@adviceco.com](mailto:admin@adviceco.com)
+Please read this Privacy Policy so that you can understand how we seek to enforce our firm commitment to privacy. Questions regarding this statement should be directed to the Officer named below by emailing [admin@adviceco.com](mailto:admin@adviceco.com)
 
-FreeAdvice, recognized as a leading consumer and small business legal website, is a unit of Advice Company (Advice & Counsel Incorporated), a leading provider of information and advice on the Internet and E-commerce solutions for individuals and small businesses. We invite you to explore our Web site and find out what all the talk is about.
+We invite you to explore FreeAdvice.com and its affiliated Websites, including [www.AttorneyPages.com](http://www.attorneypages.com/) and [www.ExpertPages.com](http://www.expertpages.com/) and [www.DoItYourself.com](http://www.doityourself.com/).
 
-### **Information this Site Gathers/Tracks**
+### Information this Site Gathers / Tracks 
 
-We collect aggregate information site-wide, including anonymous site stats. We also log domain names and/or IP addresses. On certain pages we give users the option of providing us with names, addresses, phone numbers, fax numbers, email addresses, demographic, preference and other personal information, and various other kinds of details. Such personal information is not gathered by us without users` knowing and active permission and participation. 
+The information gathered by Advice Company falls into two categories: (1) information voluntarily supplied by visitors to our websites when they register or initiate transactions, and (2) tracking information gathered as visitors navigate through our sites. Third party providers featured on or linked to from our websites, such as vendors of products and services offered through our sites, may be gathering the same kinds of information. 
 
-Portions of our site use ?cookies? to keep track of your visit, to help you navigate between sections, thus delivering content specific to your interests and to give us an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means that a user?s session will be tracked, but the user will be anonymous. A cookie is a small data file that certain Web sites write to your hard drive when you visit them.  A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie contains is information you supply yourself. A cookie does not  read data off your hard disk or read cookie files created by other sites. 
+To help make our sites more responsive to the needs of our visitors, help you navigate between sections, tailor content to your needs and to measure traffic within our sites, our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our sites. They also invoke a standard feature of browser software, called a "cookie," to assign each visitor a unique, random number, a sort of user ID, which resides on your computer. The cookie helps give us an idea of which parts of our site users are visiting and doesn't actually identify the visitor, just the computer that a visitor uses to access our site. 
 
-Most of our site does not require that visitors complete a registration form or give us contact information (such as a name and email address) to visit. Our Bulletin Boards do not require that visitors register or use their actual names to post questions or to provide answers, although those who do register receive certain benefits, such as automatic email notification of responses and edit privileges. Visitors may also register for our Email newsletters. However, we require visitors to register and identify themselves when using our one on one chat feature, FreeAdvice Live! We use customer contact information from the registration form to send the user information about our site and our company. We reserve the right to use customer contact information to contact a visitor when we deem it necessary or appropriate. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. Our cookies can't read unrelated data from your computer. Our advertisers and the third parties that provide products or services through our sites may also assign their own cookies to your browser, but we don't control their cookies or their processes, and they do not regularly share information they gather with us. 
 
-This site contains links to other sites. FreeAdvice.com is not responsible for the privacy practices or the content of such Web sites.
+To make use of certain features on our websites (such as free email, personal web pages, our ask a lawyer live chat, bulletin boards and other interactive forums) visitors need to register and to provide certain information as part of the registration process. We may also ask for information from those who buy products or services or conduct other transactions on our websites. We may ask, for example, for your name, email address, street address, sex, age, city or town, zip code (and for those who seek to purchase a product or service, credit card number), and we sometimes request information on your interest in other topics. 
 
-Certain portions of our site are also the result of special relationships, such as "Powered By" or Co-branding or affiliate programs. For example, we provide a Free Email feature in cooperation with CommTouch, a Bookstore in affiliation with Amazon.com, and Legal Forms in conjunction with US Legal Forms. These firms share varying amounts of information with us. You should review the privacy policies of such providers.
+The information you supply may help us to offer you more personalized features, to tailor our sites to your interests and make them more useful to you, and to process e-commerce transactions. Of course, even if you want to remain completely anonymous, you're still free to take advantage of the wealth of content available on our sites without registration.  The vast majority of our site does NOT require visitors to complete a registration form or give us contact information (such as a name and email address) to visit. 
 
-Certain portions of our site may provide a form for customers to request or share or distribute information, or order products or services. We collect visitor's contact information (like their email address) and, if they are making a credit card purchase, financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our Web site and our company to our customers. The customer's contact information is also used to get in touch with the visitor when we believe it is necessary or appropriate. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+The more we know about our visitors the more value we can potentially offer them. Supplying such information is entirely voluntary. But if you don't supply the information we require, we may be unable to provide you with services we make available to other visitors to our sites. For example, while we allow anyone to read postings in our Bulletin Board / Forums without registration, asking a question or furnishing an answer requires registration, which enables visitors to modify their own posts. Our one-on-one live chat feature, FreeAdvice Live! also requires a separate registration. And we can't send you targeted email alerting you to a relevant new service we're offering, or articles on topics of interest to you, if you don't tell us what you're interested in and give us your email address. Similarly, we can't notify you that you've been lucky enough to win a prize in a promotional contest if we don't know how to contact you. Such personal information is gathered by us only with our users` knowing and active permission and participation.
 
-Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our Web site and company. The customer's contact information is also used to contact the visitor when we believe it is necessary or appropriate. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis.
+Our online surveys and contests ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). Demographic and profile data collected at our site may be shared with advertisers on an aggregate basis.
 
-FreeAdvice displays advertising on the Web site and we also use outside ad companies to display ads on our site.  We work with several unaffiliated companies that serve ads.  These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertisers and/or ad companies, and we do not have access to this information. To find out more about how these sites have told us they manage the privacy of information in conjunction with serving ads on our site, please go to  <http://www.flycast.com/about_us/about-privacy.html> and <http://www.l90.com/external_site/privacy_policy.html> 
+We collect financial information (like an account or credit card numbers) only from visitors making a credit card or other purchase. We use the financial information solely to bill the user for products and services and necessary information from the order form to send orders. 
+
+We also use customer contact information from the various registration forms, opt in features and service features to send the user information about our site, our company and our affiliates. Users may opt-out of receiving routine future mailings; see the choice/opt-out section below
+
+As this privacy policy reaffirms, we strive to protect confidentiality for our visitors. We do reserve the right to use customer contact and other information when we deem it necessary or appropriate to comply with applicable laws, rules, or lawful orders of courts and governmental agencies, to enforce compliance with the terms and conditions for use of our sites, or to protect third parties from what we regard as threats of serious harm. 
+
+### Links to Other Sites
+
+This site contains links to thousands of other sites. The establishment of a link does not mean that FreeAdvice.com has approved of a site, is endorsing a site, has reviewed its content, or is in any manner recommending a visit. FreeAdvice.com is not responsible for the privacy practices or the content of linked Web sites.
+
+### Third Party Features 
+
+Certain features of and portions on our site are also the result of special relationships, such as "Powered By" or Co-Branding or affiliate programs. For example, we provide a Free Email feature in cooperation with EveryOne.net, the latest SEC information in cooperation with Edgar Online, a bookstore in affiliation with Amazon. and Legal Forms in conjunction with US Legal Forms, and interactive chat using LivePerson’s technology. These firms share varying amounts of information with us. You are encouraged to review the privacy policies of such providers before providing information to them.
+
+### Advertising and Cookies
+
+FreeAdvice displays advertising on the Web site and we also work with several unaffiliated companies that serve ads when you visit portions of our website. Among the outside ad companies are Latitude 90, DoubleClick’s Sonar Network, and Engage Media’s Flycast to display ads on our site. These ads may contain cookies. Cookies received with such banner or other ads are collected by our advertisers and/or ad companies, and we do not have access to such information. These companies may use that information (not including your name, address, email address, telephone number, or credit card number) about your visits to this and other websites in order to provide advertisements on this site and about other sites and goods and services that they think may be of interest to you.
+
+To find out more about their practices, how these sites have told us they manage the privacy of information in conjunction with serving ads on our site, and to know your choices about not having this information used by such companies, please go to:
+
+<http://www.sonar.com/content/privacy.htm> and <http://www.flycast.com/about_us/about-privacy.html> and <http://www.l90.com/external_site/privacy_policy.html> 
 
 ### Public Forums
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We do reserve the right to delete any postings at any time.
 
 ### Security
 
-This site has numerous security measures in place to protect the loss, misuse and alteration of the information under our control. The measures include passwords, linkages to secure servers, encryption, backup tapes, and conventional locks and alarm systems. However we cannot guarantee that the measures in place are (or will remain) adequate.
+This site has numerous security measures in place to protect the loss, misuse and alteration of the information under our control. The measures include passwords, linkages to secure servers, encryption, backup tapes, and conventional locks and alarm systems. However we cannot guarantee that the measures in place have been, are now, or will remain adequate. 
 
 ### Children's Guidelines
 
-This Web site is directed at adults, not children, and we do not seek to collect from children online contact information, or distribute to third parties any personally identifiable information from children, or entice children by the prospect of a special game, prize or other activity, to divulge information to us. 
+This Web site is directed at adults, not children, and we do not seek to collect from children online contact information, or distribute to third parties any personally identifiable information from children, or entice children by the prospect of a special game, prize or other activity, to divulge information to us. We won't knowingly allow anyone under 13 to register with any of our sites or to provide any other personally identifying information without written approval of a parent or guardian.
 
-### **Choice/Opt-Out**
+### Choice/Opt-Out 
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.You can send email to [admin@adviceco.com](mailto:admin@adviceco.com) or you can send mail to the following postal address: _PO Box 1739, Mill Valley, CA 94942-1739_
+Our site provides users the opportunity to opt-out of receiving communications from us and sites associated with us  at the point where we request information about the visitor. This site gives users various options for removing postings and other information, and to discontinue receive future communications from us. For example, the Forums have provisions for visitors to edit or remove postings they have made, and our Newsletters have linkages or return addresses for recipients to direct that they unsubscribe. For specifics concerning a matter impacting you, you can send email to [admin@adviceco.com](mailto:admin@adviceco.com) or by mail to the following postal address: _PO Box 1739, Mill Valley, CA 94942-1739_
 
-### Correct/Update 
+### Revisions / Corrections / Updates 
 
-This site gives users the following options for changing and modifying information previously provided by sending an email to [admin@adviceco.com](mailto:admin@adviceco.com)
+We reserve the right to change our privacy policy from time to time. If we do change our privacy policy in the future, we'll post the changes when they take effect. This site gives users options for changing and modifying information previously provided, often at the feature on which you registered. For specifics concerning a matter impacting you, you can send email to [admin@adviceco.com](mailto:admin@adviceco.com) or by mail to the following postal address: PO Box 1739, Mill Valley, CA 94942-1739 
 
 ### Contacting the Web Site 
 
-If you have any questions about this privacy statement, which is effective May 11, 2000, the practices of this site, or your dealings with this Web site, you can contact
+If you have any questions about this privacy statement, which is effective March 21, 2001, the practices of this site, or your dealings with this Web site, you can contact
 
-_M. Dinday, Esq., Assistant Vice-President  
-FreeAdvice.com   
+_M. Dinday, Esq., Vice-President  
+FreeAdvice.com / Advice Company  
 150 Shoreline Highway, Bldg. E   
 PO Box 1739   
 Mill Valley, CA 94942-1739   
 [admin@adviceco.com ](mailto:admin@adviceco.com)_
-
-###### ® is the leading legal site for consumers and small businesses. It provides general legal information to help people understand their legal rights in 100 legal topics, but is not a substitute for personal legal advice from an attorney. You are welcome to view **FreeAdvice** ® for your own personal, non-commercial purposes, AS IS, subject to our [disclaimer and conditions of use](http://freeadvice.com/conditionsnew.htm). FreeAdvice.com and AttorneyPages.com are units of [Advice Company ](http://www.freeadvice.com/law/about.htm) Read our [Privacy Policy](http://freeadvice.com/law/privacy.htm). Š 1996-2000 - All Rights Reserved. FreeAdvice® is a registered trademark. **General Legal Questions Not Covered?** You may submit them to [our Consumer BBS-Forums](http://bbs.freeadvice.com/cgi-bin/Ultimate.cgi). Comments? Please send them to [admin@adviceco.com](mailto:admin@adviceco.com)
-
-[**Lawyers \- Want Information on Getting Listed on AttorneyPages?**](http://attorneypages.com/special/getting.htm)
