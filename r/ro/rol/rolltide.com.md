@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rolltide.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417025728id_/http%3A//www.rolltide.com/Home/5253.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolltide.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207050458id_/http%3A//www.rolltide.com/Home/5253.asp) for the most accurate reproduction.*
 
 # RollTide.com | University of Alabama Official Athletic Site
 
