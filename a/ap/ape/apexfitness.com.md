@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the apexfitness.com privacy policy that was archived on 2003-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030405084818id_/http%3A//www.apexfitness.com/html/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexfitness.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622224810id_/http%3A//www.apexfitness.com/html/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Welcome to Apex Fitness Group
 
+  
 Privacy Policy 
 
 Welcome to Apexfitness.com! 
@@ -53,3 +54,11 @@ If we change this privacy policy in any substantial way, we will notify you at l
 **Questions About This Policy**  
 If you have any questions about this privacy policy or other privacy questions about us, please email our [Chief Privacy Officer](mailto:jill@apexfitness.com).  
 
+
+[Home](https://web.archive.org/html) |  [Contact Us](https://web.archive.org/html/company/contact) |  [Search Our Site](https://web.archive.org/html/company/search) | [User Agreement](https://web.archive.org/html/company/user) |  [Privacy Policy](https://web.archive.org/html/company/privacy) |  [Sitemap](https://web.archive.org/html/company/sitemap)
+
+* * *
+
+This information and other information on this site is intended for general reference purposes only and is not intended to address specific medical or health conditions. This information is not a substitute for professional medical advice or a medical exam. Prior to taking nutritional supplements or participating in any diet or exercise program or activity, you should seek the advice of your physician or other qualified health professional. No health information on this site should be used to diagnose, treat, cure or prevent any medical condition.
+
+Copyright © 2003 by APEX Fitness Inc. All rights reserved. 
