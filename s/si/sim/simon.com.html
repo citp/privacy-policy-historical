@@ -1,0 +1,811 @@
+<!--The following is the downloaded HTML source of the simon.com privacy policy that was archived on 2002-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021215130308id_/http%3A//www.shopsimon.com/shopsimon/servlet/SMTMall%3Fmid%3D0%26frame%3Dmain%26pn%3DPRIVPOL%26rs%3D0) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>ShopSimon.com</title>
+<link rel="STYLESHEET" type="text/css" href="/shopsimon/resources/css/ShopSimon.css">
+
+<script language="JavaScript">
+<!--//comment out code so older browsers won't display it
+
+var PAGE_NAME = "PRIVPOL";
+var INTERN = " ";
+var ALWAYS_ON_IMAGE = "";
+
+//
+// sets the nav link to the highlighted version programatically for the current page.
+// the current page is determined by the the PAGE_NAME variable.
+//
+function setPageNavlinkHilight(){
+	if ("HOME"  == PAGE_NAME) {
+		document.img1.src = "/shopsimon/resources/images/2_home_on.gif";
+		ALWAYS_ON_IMAGE = "img1";
+	}
+	else if ("MLDIR" == PAGE_NAME) {
+		document.img3.src = "/shopsimon/resources/images/2_shoppingwith_on.gif";
+		ALWAYS_ON_IMAGE = "img3";
+	}
+	else if ("SHREG" == PAGE_NAME) {
+		document.img4.src = "/shopsimon/resources/images/2_register_on.gif";
+		ALWAYS_ON_IMAGE = "img4";
+	}
+	else if ("MKPTR" == PAGE_NAME) {
+		document.img5.src = "/shopsimon/resources/images/2_specialoffers_on.gif";
+		ALWAYS_ON_IMAGE = "img5";
+	}
+
+}
+
+<!-- Rollover states -->
+if (document.images) {       //if image object is available
+img1on = new Image();      // MouseOver images
+img1on.src = "/shopsimon/resources/images/2_home_on.gif";
+img2on = new Image();
+img2on.src = "/shopsimon/resources/images/2_findmy_on.gif";
+img3on = new Image();
+img3on.src = "/shopsimon/resources/images/2_shoppingwith_on.gif";
+img4on = new Image();
+img4on.src = "/shopsimon/resources/images/2_register_on.gif";
+img5on = new Image();
+img5on.src = "/shopsimon/resources/images/2_specialoffers_on.gif";
+img6on = new Image();
+img6on.src = "/shopsimon/resources/images/2_aboutsimon_on.gif";
+img7on = new Image();
+img7on.src = "/shopsimon/resources/images/square_blue_on.gif";
+img8on = new Image();
+img8on.src = "/shopsimon/resources/images/square_blue_on.gif";
+img9on = new Image();
+img9on.src = "/shopsimon/resources/images/square_blue_on.gif";
+
+img1off = new Image();        // MouseOut images
+img1off.src = "/shopsimon/resources/images/2_home_off.gif";
+img2off = new Image();
+img2off.src = "/shopsimon/resources/images/2_findmy_off.gif";
+img3off = new Image();
+img3off.src = "/shopsimon/resources/images/2_shoppingwith_off.gif";
+img4off = new Image();
+img4off.src = "/shopsimon/resources/images/2_register_off.gif";
+img5off = new Image();
+img5off.src = "/shopsimon/resources/images/2_specialoffers_off.gif";
+img6off = new Image();
+img6off.src = "/shopsimon/resources/images/2_aboutsimon_off.gif";
+img7off = new Image();
+img7off.src = "/shopsimon/resources/images/square_red_off.gif";
+img8off = new Image();
+img8off.src = "/shopsimon/resources/images/square_red_off.gif";
+img9off = new Image();
+img9off.src = "/shopsimon/resources/images/square_red_off.gif";
+}
+
+function imgOn(imgName) {
+	if (document.images) {
+		document[imgName].src = eval(imgName + "on.src");
+    }
+}
+
+
+
+function imgOff(imgName) {
+	if ( (document.images) && (imgName != ALWAYS_ON_IMAGE) ){
+		document[imgName].src = eval(imgName + "off.src");
+    }
+}
+
+<!-- Format the date -->
+var today = new Date();
+var dayOfWeek = today.getDay();
+var thisMonth = today.getMonth();
+
+<!--Convert the numeric representation of the day into text.-->
+var day = new Array("Sunday, ", "Monday, ", "Tuesday, ", "Wednesday, ", "Thursday, ", "Friday, ", "Saturday, ");
+dayOfWeek = day[dayOfWeek];
+
+<!--Convert the numeric representation of the month into text.-->
+var month = new Array("January ", "February ", "March ", "April ", "May ", "June ", "July ", "August ", "September ", "October ", "November ", "December ");
+thisMonth = month[thisMonth];
+
+var dateOfMonth = today.getDate();
+var fullYear = today.getFullYear();
+var hours = today.getHours();
+var minutes = today.getMinutes();
+
+<!-- Convert time to am and pm -->
+var timeValue = "" + ((hours >12) ? hours -12 :hours)
+if (timeValue == "0") timeValue = 12;
+timeValue += ((minutes < 10) ? ":0" : ":") + minutes
+timeValue += (hours >= 12) ? " pm" : " am"
+
+var DateToday = dayOfWeek + thisMonth + dateOfMonth + ", " + fullYear + " " + timeValue
+
+
+function LTrim(str){
+	var whitespace = new String(" \t\n\r");
+	var s = new String(str);
+
+	if (whitespace.indexOf(s.charAt(0)) != -1) {
+		// We have a string with leading blank(s)...
+		var j=0, i = s.length;
+
+		// Iterate from the far left of string until we
+		// don't have any more whitespace...
+		while (j < i && whitespace.indexOf(s.charAt(j)) != -1)
+			j++;
+
+		// Get the substring from the first non-whitespace
+		// character to the end of the string...
+		s = s.substring(j, i);
+	}
+	return s;
+}
+
+
+function RTrim(str){
+	// We don't want to trip JUST spaces, but also tabs,
+	// line feeds, etc.  Add anything else you want to
+	// "trim" here in Whitespace
+	var whitespace = new String(" \t\n\r");
+	var s = new String(str);
+
+	if (whitespace.indexOf(s.charAt(s.length-1)) != -1) {
+		// We have a string with trailing blank(s)...
+		var i = s.length - 1;       // Get length of string
+
+		// Iterate from the far right of string until we
+		// don't have any more whitespace...
+		while (i >= 0 && whitespace.indexOf(s.charAt(i)) != -1)
+			i--;
+
+		// Get the substring from the front of the string to
+		// where the last non-whitespace character is...
+		s = s.substring(0, i+1);
+	}
+	return s;
+}
+
+function Trim(str){
+	return RTrim(LTrim(str));
+}
+
+function checkText(){
+	document.searchEngineForm.searchText.value = Trim(document.searchEngineForm.searchText.value);
+
+//	var s = document.searchEngineForm.searchText.value;
+//	s = s.replace(/'/gi, "''");
+//	document.searchEngineForm.searchText.value = s;
+
+	if(document.searchEngineForm.searchText.value == ""){
+		alert("Please insert a value into the text box before doing a search.");
+	}
+	else{
+		document.searchEngineForm.target='_top';
+		document.searchEngineForm.submit();
+	}
+}
+
+function validEMail()
+{
+   var email;
+   var result=true;
+   var invalid = "~`|#$%&*()+={}!\"<>?/[]:; \\"; var cnt=0;
+
+   email = document.regMain.email.value;
+
+   if (email.length < 5) {
+     return false;
+   }
+
+   if (email.indexOf("@") == -1) {
+     return false;
+   }
+
+   if (email.indexOf(".") == -1) {
+     return false;
+   }
+
+   for (var i = 0 ; i < email.length ; i++) {
+     if ((invalid.indexOf(email.charAt(i))!=-1)&&(result==true))   {
+       return false;
+     }
+
+     if (email.charAt(i) == "@") {
+       cnt++;
+     }
+   }
+
+   if (cnt > 1)  {
+      return false;
+   }
+
+   return true;
+}
+
+
+function submitRegContent()
+{
+	var errorLog, resumeLen;
+	errorLog = "";
+
+	//check for the required fields
+	if (document.regMain.firstName.value.length < 1)
+	{
+		errorLog = errorLog + "\n* First name is a required field";
+	}
+	if (document.regMain.lastName.value.length < 1)
+	{
+		errorLog = errorLog + "\n* Last name is a required field";
+	}
+
+
+
+	if (PAGE_NAME == "SHREG")
+	{
+		if (document.regMain.mid.selectedIndex == 0)
+		{
+		errorLog = errorLog + "\n* Please select a mall";
+		}
+	}
+
+	if (document.regMain.email.value.length < 1)
+	{
+			errorLog = errorLog + "\n* Email is a required field";
+	}
+
+	if (!validEMail())
+	{
+		errorLog = errorLog + "\n* Please enter a valid Email address";
+	}
+
+	if (document.regMain.address.value.length < 1)
+	{
+		errorLog = errorLog + "\n* Address is a required field";
+	}
+	if (document.regMain.city.value.length < 1)
+	{
+		errorLog = errorLog + "\n* City is a required field";
+	}
+
+
+	zips = document.regMain.zip.value;
+	if (INTERN == 1)
+	{
+		if (zips.length < 5)
+		{
+			errorLog = errorLog + "\n* Please enter a valid Zip Code with 5 digits";
+		}
+		else if(zips.length > 10)
+		{
+			errorLog = errorLog + "\n* Please enter a valid Zip Code no more than 10 digits";
+		}
+
+		if (zips.length > 5)
+		{
+			if (document.regMain.zip.value.indexOf("-") != 5)
+
+			{
+				errorLog = errorLog + "\n* Please enter a valid Zip Code";
+			}
+		}
+		if (document.regMain.states.value == 0) {
+		errorLog = errorLog + "\n* Please select a state";
+	}
+	}
+
+
+
+
+	if (INTERN == 0)
+	{
+		if (zips.length < 1)
+			{
+				errorLog = errorLog + "\n* Please enter a valid Zip Code";
+			}
+			else if (zips.length > 10)
+			{
+				errorLog = errorLog + "\n* Please enter a valid Zip Code";
+			}
+	}
+
+
+		if (PAGE_NAME=="JOBR") {
+			if (document.regMain.applicantSchool1.value.length < 1) {
+				errorLog = errorLog + "\n* Education: School is required";
+			}
+			if (document.regMain.applicantStudy1.value.length < 1) {
+				errorLog = errorLog + "\n* Education: Area of Concentration is a required field";
+			}
+			if (document.regMain.applicantDegree1.value.length < 1) {
+				errorLog = errorLog + "\n* Education: Degree/Diploma is a required field";
+			}
+			if (document.regMain.applicantGradYear1.value.length < 1) {
+				errorLog = errorLog + "\n* Education: Graduation Year is a required field";
+			}
+			if (document.regMain.Employer1.value.length < 1) {
+				errorLog = errorLog + "\n* Employment History: Employer is a required field";
+			}
+			if (document.regMain.jobTitle1.value.length < 1) {
+				errorLog = errorLog + "\n* Employment History: Job Title is a required field";
+			}
+			if (document.regMain.responsibilities1.value.length > 175) {
+				errorLog = errorLog + "\n* Employment History: You have exceeded the maximum field length";
+			}
+
+			if (document.regMain.responsibilities1.value.length < 1)	{
+				errorLog = errorLog + "\n* Employment History: Responsibilities is a required field";
+			}
+			if (document.regMain.fromDate1.value.length < 1) {
+				errorLog = errorLog + "\n* Employment History: From Date is a required field";
+			}
+			if (document.regMain.toDate1.value.length < 1) {
+				errorLog = errorLog + "\n* Education: Graduation Year is a required field";
+			}
+			if (document.regMain.refName1.value.length < 1) {
+				errorLog = errorLog + "\n* References: Name is a required field";
+			}
+			if (document.regMain.refTitle1.value.length < 1) {
+				errorLog = errorLog + "\n* References: Title is a required field";
+			}
+			if (document.regMain.refCompany1.value.length < 1) {
+				errorLog = errorLog + "\n* References: Company is a required field";
+			}
+			if (document.regMain.refPhone1.value.length < 1) {
+				errorLog = errorLog + "\n* References: Phone is a required field";
+			}
+			if (document.regMain.Employer2.value != "") {
+				if (document.regMain.Employer2.value.length < 1) {
+				errorLog = errorLog + "\n* Employment History: Employer is a required field";
+				}
+				if (document.regMain.jobTitle2.value.length < 1) {
+				errorLog = errorLog + "\n* Employment History: Job Title is a required field";
+				}
+				if (document.regMain.responsibilities2.value.length > 175) {
+				errorLog = errorLog + "\n* Employment History: You have exceeded the maximum field length";
+				}
+				if (document.regMain.responsibilities2.value.length < 1) {
+				errorLog = errorLog + "\n* Employment History: Responsibilities is a required field";
+				}
+				if (document.regMain.fromDate2.value.length < 1) {
+				errorLog = errorLog + "\n* Employment History: From Date is a required field";
+				}
+				if (document.regMain.toDate2.value.length < 1) {
+				errorLog = errorLog + "\n* Employment History: Length of employment is a required field";
+				}
+			}
+			if (document.regMain.refName1.value != "") {
+				if (document.regMain.refName1.value.length < 1) {
+				errorLog = errorLog + "\n* References: Name is a required field";
+				}
+				if (document.regMain.refTitle1.value.length < 1) {
+				errorLog = errorLog + "\n* References: Title is a required field";
+				}
+				if (document.regMain.refCompany1.value.length < 1) {
+				errorLog = errorLog + "\n* References: Company is a required field";
+				}
+				if (document.regMain.refPhone1.value.length < 1) {
+				errorLog = errorLog + "\n* References: Phone is a required field";
+				}
+			}
+		}
+
+	if (errorLog.length > 0) {
+		errorLog = errorLog + "\n\nPlease correct the above errors and submit the form again.";
+		window.alert(errorLog);
+
+	}
+	else{
+		document.regMain.action = "SMTMall";
+		document.regMain.target="_self";
+		document.regMain.submit();
+	}
+
+}
+
+/**
+ * This is a quick hack to avoid having to find all files that call validEMail and
+ * modify them to passed in the form name.
+ */
+function validSweepRegEmail()
+{
+
+   var email;
+   var result=true;
+   var invalid = "~`|#$%&*()+={}!\"<>?/[]:; \\"; var cnt=0;
+
+   email = document.frmSweepReg.email.value;
+
+   if (email.length < 5) {
+     return false;
+   }
+
+   if (email.indexOf("@") == -1) {
+     return false;
+   }
+
+   if (email.indexOf(".") == -1) {
+     return false;
+   }
+
+   for (var i = 0 ; i < email.length ; i++) {
+     if ((invalid.indexOf(email.charAt(i))!=-1)&&(result==true))   {
+       return false;
+     }
+
+     if (email.charAt(i) == "@") {
+       cnt++;
+     }
+   }
+
+   if (cnt > 1)  {
+      return false;
+   }
+
+   return true;
+}
+
+function verifyForm() {
+	var errorLog;
+	errorLog = "";
+	ff = "";
+
+	if (window.document.frmSweepReg.fName.value == "") {
+		errorLog += "\n*  Please enter your First Name."
+		if (ff == "") ff = "fName";
+	}
+
+	if (window.document.frmSweepReg.lName.value == "") {
+		errorLog += "\n*  Please enter your Last Name."
+		if (ff == "") ff = "lName";
+	}
+
+	if (window.document.frmSweepReg.addr1.value == "") {
+		errorLog += "\n*  Please enter your Address."
+		if (ff == "") ff = "addr1";
+	}
+
+	if (window.document.frmSweepReg.city.value == "") {
+		errorLog += "\n*  Please enter your City."
+		if (ff == "") ff = "city";
+	}
+
+	if (window.document.frmSweepReg.state.value == 0) {
+		errorLog += "\n*  Please choose your State."
+		if (ff == "") ff = "city";
+	}
+
+	if (window.document.frmSweepReg.phone.value == "") {
+		errorLog += "\n*  Please enter your Daytime Phone."
+		if (ff == "") ff = "phone";
+	}
+
+	if (window.document.frmSweepReg.phone2.value == "") {
+		errorLog += "\n*  Please enter your Evening Phone."
+		if (ff == "") ff = "phone2";
+	}
+
+	if (window.document.frmSweepReg.zip.value == "") {
+		errorLog += "\n*  Please enter your Zip Code."
+		if (ff == "") ff = "city";
+	}
+
+	if (window.document.frmSweepReg.age.value == "") {
+		errorLog += "\n*  Please enter a valid Age."
+		if (ff == "") ff = "age";
+	}
+	else{
+		if (isNaN(window.document.frmSweepReg.age.value)) {
+			errorLog += "\n*  The Age must be a number."
+			if (ff == "") ff = "age";
+		}
+	}
+
+	if (window.document.frmSweepReg.email.value == "") {
+		errorLog += "\n*  Please enter your Email Address."
+		if (ff == "") ff = "email";
+	}
+
+	if (!validSweepRegEmail(window.document.frmSweepReg.email.value)) {
+		errorLog += "\n*  Please enter a valid Email Address."
+		if (ff == "") ff = "email";
+	}
+
+	if (errorLog.length > 0) {
+		errorLog = "Please correct the following errors and submit the form again:" + errorLog;
+		alert(errorLog);
+		document.all(ff).focus();
+		return false;
+	}
+}
+
+//-->
+</script>
+
+</head>
+
+<body onload="setPageNavlinkHilight()" background="/shopsimon/resources/images/simon_bkg.gif" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
+<!-- Table holding blue bar, date, time, and search field -->
+<table cellpadding="0" cellspacing="0" border="0">
+ <tbody><tr>
+   <td align="center" colspan="5">
+     <a href="http://oas.shopsimon.com/RealMedia/ads/click_nx.cgi/www.shopsimon.com/shopsimon.html@TopLeft">
+       <img src="http://oas.shopsimon.com/RealMedia/ads/adstream_nx.cgi/www.shopsimon.com/shopsimon.html@TopLeft">
+     </a>
+   </td>
+ </tr>
+ <tr>
+    <td valign="top"><img src="/shopsimon/resources/images/1_1.gif" width="118" height="29" border="0" alt=""></td>
+    <td valign="top"><img src="/shopsimon/resources/images/1_2.gif" width="16" height="29" border="0" alt=""></td>
+    <td nowrap="" width="308" valign="middle" align="left" id=".text" class="text">
+      <script language="JavaScript"><!--
+      document.write(DateToday);
+      --></script>Wednesday, February 19, 2020 9:45 pm</td>
+    <td valign="middle" align="right"><img src="/shopsimon/resources/images/search.jpg" width="166" height="15" border="0" alt="search">&nbsp;</td>
+
+
+   	<form method="get" name="searchEngineForm" action="SMTMall" onsubmit="checkText()"></form>
+		<input type="hidden" name="mid" value="0">
+		<input type="hidden" name="pn" value="SEARCH">
+		<input type="hidden" name="rs" value="0">
+    	<td valign="middle" align="right">&nbsp;
+   			<input type="text" name="searchText" maxlength="50" size="15">&nbsp;
+		</td>
+
+    	<td valign="middle" align="right">
+   			<a href="javascript:void checkText()">
+				<img src="/shopsimon/resources/images/1_4_go.gif" width="22" height="25" border="0" alt="GO">
+			</a>
+   		</td>
+	
+ </tr>
+</tbody></table>
+
+
+<!--Table holding navigation images -->
+<table cellpadding="0" cellspacing="0" border="0">
+ <tbody><tr>
+   <td valign="top">
+   <a href="/shopsimon/servlet/SMTShopSimon" onmouseover="imgOn('img1')" onmouseout="imgOff('img1')">
+   <img name="img1" src="/shopsimon/resources/images/2_home_off.gif" width="82" height="21" border="0" alt="home"></a></td>
+
+   <td valign="top">
+	   <!-- <a href="/RequestServlet?apptype=showLocator&c=1"-->
+    <a href="/smt/servlet/SMTLocator" onmouseover="imgOn('img2')" onmouseout="imgOff('img2')">
+   <img name="img2" src="/shopsimon/resources/images/2_findmy_off.gif" width="153" height="21" border="0" alt="find my simon mall"></a></td>
+
+   <td valign="top">
+   <a href="/shopsimon/servlet/SMTShopSimon?pn=MLDIR&amp;expand=1" onmouseover="imgOn('img3')" onmouseout="imgOff('img3')">
+   <img name="img3" src="/shopsimon/resources/images/2_shoppingwith_off.gif" width="155" height="21" border="0" alt="shopping with simon"></a></td>
+
+   <td valign="top">
+   <a href="http://simon.rtm.com/promotions/default.asp?PromoCode=&amp;SiteCode=1111" onmouseover="imgOn('img4')" onmouseout="imgOff('img4')">
+   <img name="img4" src="/shopsimon/resources/images/2_register_off.gif" width="130" height="21" border="0" alt="register with us"></a></td>
+
+   <td valign="top">
+   <a href="/shopsimon/servlet/SMTShopSimon?pn=MKPTR" onmouseover="imgOn('img5')" onmouseout="imgOff('img5')">
+   <img name="img5" src="/shopsimon/resources/images/2_specialoffers_off.gif" width="131" height="21" border="0" alt="promotions"></a></td>
+
+   <td valign="top">
+   <a href="http://about.simon.com" onmouseover="imgOn('img6')" onmouseout="imgOff('img6')">
+   <img name="img6" src="/shopsimon/resources/images/2_aboutsimon_off.gif" width="109" height="21" border="0" alt="about simon"></a></td>
+ </tr>
+</tbody></table>
+
+<!-- Table holding shopsimon logo only -->
+<table cellpadding="0" cellspacing="0" border="0">
+ <tbody><tr>
+   <td valign="top" align="left">
+   <img src="/shopsimon/resources/images/3_1_logomain.gif" width="433" height="59" border="0" alt="shopsimon.com"></td>
+ </tr>
+</tbody></table>
+
+<!--<table width="760" cellpadding="0" cellspacing="0" border="0">-->
+<table width="760" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td width="180" valign="top">
+			<!-- gift certificate -->
+			<table width="180" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr><td colspan="3"><p>&nbsp;</p></td></tr>
+				<tr>
+					<td width="25" align="center" valign="top">
+						<img name="img7" src="/shopsimon/resources/images/square_red_off.gif" border="0" alt="">
+					</td>
+					<td width="145" valign="top" align="left" id=".text" class="text" colspan="2">
+						<a href="https://www.simongiftcertificates.com" onmouseover="imgOn('img7')" onmouseout="imgOff('img7')">
+							<b><u>Buy gift certificates</u></b>
+						</a>
+					</td>
+				</tr>
+
+				<tr>
+					<td width="25" align="center" valign="top">
+						<img src="/shopsimon/resources/images/pixel.gif" width="25" height="2" border="0" alt="">
+					</td>
+					<td width="75" valign="top" id=".textsm" class="textsm">
+						Accepted at <br>more than <br>200 malls <br>nationwide
+					</td>
+					<td width="70" valign="middle">
+						<img src="/shopsimon/resources/images/envelope.gif" width="40" height="25" border="0" alt="">
+					</td>
+				</tr>
+			</tbody></table>
+
+			<!-- shop our stores -->
+			<table width="180" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr><td colspan="2"><p>&nbsp;</p></td></tr>
+<!--				<tr>
+					<td width=25 align=center valign=top>
+						<img name=img8 src="/shopsimon/resources/images/square_red_off.gif" border="0" alt="">
+					</td>
+					<td width="145" valign="top" align="left" id=".text" class="text">
+						<a href="SMTShopSimon?pn=MLDIR&expand=1" onMouseOver="imgOn('img8')" onMouseOut="imgOff('img8')">
+							<b><u>Shop our stores</u></b>
+						</a>
+					</td>
+				</tr>
+				<tr>
+					<td width="25" valign="top">
+						<img src="/shopsimon/resources/images/pixel.gif" width="25" height="2" border="0" alt="">
+					</td>
+					<td width="145" valign="top" id=".textsm" class="textsm">
+						America's best malls.<br>
+						America's favorite stores.<br>
+						One click
+					</td>
+				</tr>
+
+				<tr>
+					<td width=25 align=center valign=top>
+						<img name=img8 src="/shopsimon/resources/images/square_red_off.gif" border="0" alt="">
+					</td>
+					<td width="145" valign="top" align="left" id=".text" class="text">
+						<a href="http://oas.shopsimon.com/survey/simon2002web1.htm" target="_blank">
+							<b><u>Your Opinion Matters</u></b>
+						</a>
+					</td>
+				</tr>
+				<tr>
+					<td width="25" valign="top">
+						<img src="/shopsimon/resources/images/pixel.gif" width="25" height="2" border="0" alt="">
+					</td>
+					<td width="145" valign="top" id=".textsm" class="textsm">
+						Tell us about it in our<br>
+						On-Line Survey
+					</td>
+				</tr>
+-->
+			</tbody></table>
+
+			 
+		</td>
+		<td>
+<center>
+<table>
+<tbody><tr><td align="center" valign="middle" class="text">
+
+<u><b>SHOPSIMON.COM PRIVACY POLICY</b></u>
+</td></tr>
+<tr><td align="left" valign="middle" class="text">
+
+At ShopSimon.com, we are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
+<p>
+As part of the normal operation of our services, ShopSimon.com collects and, in some cases, discloses information about you.  This Privacy Policy describes the information we collect about you and what may happen to that information.  Please read on.
+</p><p>
+
+<table><tbody><tr><td class="text">
+
+<ul>
+
+<li><b>What Information Do We Collect?</b><p>
+In order to use certain services provided on the site, you will need to register with ShopSimon.com.  When you register, we will gather such information as your name, mailing address and email address, and demographic information, such as zip code, age, or income level.  If you make a purchase, we may also ask you for your social security number, account numbers, or credit card numbers.</p><p>
+We may also track certain information about how you use our website.</p><p>
+
+</p></li><li><b>How Do We Use It?</b><p>
+Our primary goal in collecting information from you is to provide you with an efficient and customized experience while using our services.  This allows us to enhance your online shopping experience, by providing products and services that meet your particular needs, and making your use of our website more satisfying.</p><p>
+We use your information in a number of ways.  For example, we conduct internal research on our user's demographics, interests, and site usage, to better understand and service you.</p><p>
+We may share user information with businesses affiliated with ShopSimon.com and Simon Property Group.  They may use this information as we would, and you may occasionally receive product and service information from them.</p><p>
+We may also use your information to deliver information to you that, in some cases, is targeted to your interests.  If you do not wish to receive email from us, please let us know by sending an email to unsubscribe@simon.com or writing to us at the above address.  In the future, we may make our email address list available to carefully screened companies whose products may be of interest to you.  If you prefer not to receive email from other companies, please let us know this as well.</p><p>
+In addition, we may share user information with third parties that we believe are reputable in order to offer products and services that may be of interest to you.</p><p>
+Finally, we may share user information with outside vendors and organizations that provide support services to us or that help us with our marketing programs.</p><p>
+At no time will we share credit card or social security numbers in any fashion other than aggregate demographic information, or as required by law.</p><p>
+
+</p></li><li><b>How Do We Protect Your Information?</b><p>
+ShopSimon.com uses industry standard technology and efforts to safeguard the confidentiality of your personal identifiable information.  These include secure servers and firewalls.  All of the user data we collect is protected against unauthorized access.  Only authorized employees who need the information to perform a specific job are granted access to this information.</p><p>
+
+</p></li><li><b>What About "Cookies?"</b><p>
+A "cookie" is a piece of data stored on the user's hard drive, containing information about the user.  We use cookies on our site, but none of them contain any personally identifiable information.  Some of our business partners also use cookies on our site, for example, in connection with their advertising.  We have no control over these cookies, and we may not have access to the information these advertisers collect.  You may choose not to accept cookies by setting your browser to refuse all cookies or to notify you each time a cookie is set.  If you choose to refuse cookies, however, you may not be able to use all features of our site.</p><p>
+
+</p></li><li><b>What About Links to Third-Party Websites?</b><p>
+Our site sometimes provides links to websites that are operated solely by third parties that are not under our control.  This Privacy Statement applies to our site only, and is not intended to describe the privacy policies of any third party sites.</p><p>
+
+</p></li><li><b>Your Consent</b><p>
+By using the ShopSimon.com website, you consent to the collection and use of the information described in this policy.</p><p>
+
+</p></li><li><b>Can Users Update or Change the Information We Collect?</b><p>
+You can always update or change the information you submitted by accessing the registration section of the site and making the appropriate changes.</p><p>
+
+</p></li><li><b>Will Our Privacy Policy Change in the Future?</b><p>
+We are always improving and updating our website to further enhance your shopping experience.  As a result, our policies will continue to evolve.  As we implement new technology and provide new services, we will update our Privacy Policy.  We encourage you to refer to this page on an ongoing basis for our most current policy and practices.</p><p>
+
+</p></li><li><b>Want To Share Your Thoughts on Privacy With Us?</b><p>
+We welcome your comments and suggestions.  Please send an email to webadmin@simon.com</p><p>
+
+</p></li></ul>
+</td></tr>
+</tbody></table>
+
+
+</p></td></tr>
+</tbody></table>
+
+		</center></td>
+	</tr>
+</tbody></table>
+
+<br>
+<!-- MJK  1/2/2001
+	Changed the from this point to the bottom of the page in order to make the
+	table a bit more dynamic.  The horizontal and vertical bars are no longer
+	part of the logos themselves but are standalone images.  This allows for
+	more flexibility.
+-->
+
+<!-- Table holding footer -->
+
+<table width="760" cellpadding="0" cellspacing="0" border="0">
+ <tbody><tr>
+   <td align="center">
+   	<img src="/shopsimon/resources/images/btmnav_hline.gif">
+   </td>
+ </tr>
+</tbody></table>
+
+<table width="760" cellpadding="0" cellspacing="0" border="0">
+<!-- MJK Removed on 4/29/2001
+ <tr>
+   <td valign="top" align="center">
+   <a href="https://www.simongiftcertificates.com">
+   <img src="/shopsimon/resources/images/btmnav_mallperks.gif"
+     width=161
+	 height=82
+	 alt="SIMON MallPerks"
+	 border="0"></a></td>
+
+   <td>
+   	<img src="/shopsimon/resources/images/btmnav_vline.gif">
+   </td>
+-->
+   <tbody><tr><td valign="top" align="center">
+   <a href="http://syf.simon.com/">
+   <img src="/shopsimon/resources/images/btmnav_syf.gif" width="154" height="82" alt="Simon Youth Foundation" border="0"></a></td>
+
+   <td>
+   	<img src="/shopsimon/resources/images/btmnav_vline.gif">
+   </td>
+<!-- MJK Removed on 1/2/2001
+   <td valign="top" align="left">
+   <a href="SMTMall?mid=0&pn=SMAG">
+   <img src="/shopsimon/resources/images/btmnav_slogo1.gif"
+     width=176
+	 height=82
+	 alt="S Magazine"
+	 border="0"></a></td>
+-->
+
+   <td valign="top" align="center">
+   <a href="http://about.simon.com">
+   <img src="/shopsimon/resources/images/btmnav_simon.gif" width="141" height="82" alt="SIMON" border="0"></a></td>
+
+ </tr>
+</tbody></table>
+
+ 
+ 
+<table width="760" cellpadding="0" cellspacing="0" border="0">
+ <tbody><tr><td align="center"><font face="Arial" size="1"><a href="SMTMall?mid=0&amp;frame=main&amp;pn=PRIVPOL&amp;rs=0"><font face="Arial" size="1">Privacy Policy</font></a></font></td></tr>
+	<tr><td align="center"><font face="Arial" size="1"><b>Copyright © 2002 Simon Property Group - All rights reserved.</b></font></td></tr>
+
+</tbody></table>
+
+
+
+
+</body></html>
