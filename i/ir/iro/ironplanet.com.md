@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201204800id_/http%3A//www.ironplanet.com/aboutus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602183104id_/http%3A//www.ironplanet.com/aboutus/privacy.shtml) for the most accurate reproduction.*
 
-# Iron Planet | Corporate Information
+# IronPlanet | Corporate Information
 
 _**Privacy Statement**_
 
