@@ -1,43 +1,18 @@
-> *The following text is extracted and transformed from the cruisesonly.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604050605id_/http%3A//www.mytravelco.com/about_us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisesonly.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603143121id_/http%3A//www.cruisesonly.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# MyTravel.com
+# Privacy Policy
 
-  
-**_MyTravel_ \- ONLINE PRIVACY STATEMENT**
-
-_MyTravel_ is committed to respecting your privacy. Our websites are designed so that you can visit _MyTravel_ or any of its subsidiaries on the Web without identifying yourself or revealing any personal information. Once you opt to provide personally identifiable information (any information by which you can be identified), it will only be used to support your customer relationship with us. 
-
-This Online Privacy Statement regarding the privacy of the information you provide online covers five main areas: Awareness, Choice, Access & Accuracy, Security, and Oversight. 
-
-**Awareness**   
-_MyTravel_ provides this Online Privacy Statement to inform you about our privacy policy and the practices and choices you can make about the way your information is collected and used. This notice may be accessed from any area of _MyTravel's_ web site. 
-
-**What we collect**   
-On some _MyTravel_ web pages, you can order travel services, make requests, and register to receive materials. The types of personal information collected at these pages are name, contact and billing information, transaction, and credit card information, and frequent flyer numbers. 
-
-_MyTravel_ also utilizes interactive devices on its site to create a sense of "community" and to provide its site visitors with the benefit of exchanged travel information. These interactive devices may include, but not be limited to, chat rooms, message boards, forums and similar devices. _MyTravel_ shall not be responsible for the online exchange of customer data through these means between its customers. _MyTravel_ will, however, maintain these devices to be free of objectionable, profane or inappropriate online behavior. 
-
-In order to personalize our subsequent communications to you and continuously improve our services, we may also ask you to voluntarily provide us with information regarding your personal or professional interests, demographics, experience with our travel services, and contact preferences. _MyTravel_ uses your information to better understand your travel requirements and to provide you with better service. Specifically, we use your information to help you complete a transaction, to communicate back to you, to update you on services and benefits, and to personalize our web site for you. Credit card numbers are used only for payment processing and are not retained for other purposes. 
-
-From time to time, we may also use your information to contact you for market research or to provide you with marketing information we think would be of particular interest. At a minimum, we will always give you the opportunity to opt out of receiving such direct marketing or market research information. In some circumstances, we will permit you to opt in before receiving unsolicited messages. 
-
-**Who we share it with**  
- _MyTravel_ will not sell, rent, or lease your personally identifiable information to third parties. Unless we have your permission or are required by law, we will only share the personal data you provide online with other _MyTravel_ subsidiaries that are acting on our behalf to complete the activities described above. Such _MyTravel_ subsidiaries, including those located in other countries, are bound by our privacy policies with respect to the use of this data. 
-
-**Choice**   
-_MyTravel_ will not use or share the personally identifiable information provided to us online in ways unrelated to the purposes described above without letting you know and offering you a choice. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us and we will do everything we can to honor such requests. 
-
-Should we ever in the future share your information with third parties that are not acting on our behalf and governed by our privacy policy, _MyTravel_ will secure your permission before sharing your information with any such third parties. 
-
-**Access & Accuracy**   
-_MyTravel_ strives to keep your personally identifiable information accurate. We make every effort to provide you with online access to your registration data so that you may update or correct your information at _MyTravel's_ web site where it was submitted. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. 
-
-**Security**   
-_MyTravel_ is committed to protecting the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data such as credit card information. 
-
-**Oversight**   
-If you have comments or questions about our privacy policy, email: 
-
-[contactus@mytravelco.com](mailto:contactus@mytravelco.com)
-
-We also participate in the Council of Better Business Bureaus' BBBOnLine Privacy Program, and comply with BBBOnLine privacy standards. Further information about this program is available. 
+|  |  |  |   
+[Home](https://web.archive.org/) >  **Privacy Policy**  
+ **Privacy Policy**  
+|  |  |  |  |  |  |   
+---|---|---|---|---|---|---  
+|  |  |  |   
+|  |  |  |   
+---  
+CruisesOnly understands the privacy concerns of today’s Internet users. We are committed to protecting your privacy online and offline. We hope that the following explanation of our privacy policy alleviates any possible concerns.   
+Whenever personal information (name, address, credit card numbers, etc.) is required, we will explicitly ask you to supply it. Any personal information provided will be used to tailor our products and services to better suit the interests of our valued customers.   
+CruisesOnly will not intentionally sell or disclose any personal information about you or your travel plans to any other persons, organizations, or companies known to collect such information expressly for the purposes of delivering unsolicited email or illicit materials. Your personal information may be divulged when required by law or when protecting the legal rights and/or property of CruisesOnly.   
+CruisesOnly does use cookies for functional purposes. Most browsers are initially set to accept cookies. If you would prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of some websites if you do so. The use of cookies is an industry standard, and many major websites use them to provide better service to their customers. Cookies in and of themselves do not personally identify users, although they do identify a user's computer.   
+If you have any questions or concerns, please feel free to e-mail [our customer service department](https://web.archive.org/contact/cserv.asp).   
+|  | 
