@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tystoybox.com privacy policy that was archived on 2003-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030909202303id_/http%3A//tystoybox.com/support_privacy%2520policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tystoybox.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605083852id_/http%3A//www.tystoybox.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Wiggles merchandise, The Wiggles toys, wiggles party, wiggles and much more.
+# PrivacyPolicy
 
 **  P**rivacy ** P**olicy   
 
