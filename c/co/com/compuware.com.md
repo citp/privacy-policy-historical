@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407090225id_/http%3A//www.compuware.com/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203013658id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
 
-# Compuware Privacy Statement
+# 
 
 ## Our Commitment to Privacy 
 
@@ -9,6 +9,15 @@ Compuware Corporation recognizes your right to confidentiality and is committed 
 You can visit Compuware online without telling us who you are or revealing any information about yourself. However, customer support areas are restricted and require an ID and password. Our web server only collects domain names, and not the email addresses of our visitors. We use this information to study traffic patterns to our site—when people visit, the number of pages viewed, average time spent, most frequently visited areas, etc. This analysis is helpful for improving the content and structure of our site. 
 
 This privacy statement applies solely to information collected by Compuware owned web sites.
+
+The Information We Collect   
+The Way We Use Information  
+The Use of Cookies  
+Opting Out  
+Applying for Jobs Online and Your Privacy   
+Public Forums - Feedback  
+Our Commitment to Data Security   
+Links to Non-Compuware Web Sites
 
 ## The Information We Collect 
 
@@ -57,9 +66,9 @@ You have the option of setting your browser to reject cookies. If you do not acc
 
 ### How to Update Your Personal Information
 
-If you have already submitted your resume or curriculum vitae to Compuware and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the Careers site to learn more about [candidate eligibility and the interviewing process](https://web.archive.org/careers/apply/).
+If you have already submitted your resume or curriculum vitae to Compuware and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the Careers site to learn more about [candidate eligibility and the interviewing process](https://web.archive.org/careers/417_ENG_HTML.htm).
 
-###  How to Contact Compuware Careers Regarding Your Privacy
+### How to Contact Compuware Careers Regarding Your Privacy
 
 Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recruiting@compuware.com).
 
