@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the voyeur-russian.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208160109id_/http%3A//voyeur-russian.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voyeur-russian.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604024715id_/http%3A//www.voyeur-russian.com/privacy.html) for the most accurate reproduction.*
 
-# Voyeur Russian: A Warning Page: Testify before see Nudism, Spy Camera, Beach Cabin and Upskirt pictures
+# Voyeur, Nudism, Spy Camera, Peeping and Naked Amateurs Pictures - Warning Page - Voyeur Russian [privacy]
 
   
-Our Commitment To Privacy Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
+Our Commitment To Privacy Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.  
 The Information We Collect: This notice applies to all information collected or submitted on Russian voyeur's website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
 Name:   
@@ -11,7 +11,7 @@ Address:
 Email address: 
 
 The Way We Use Information:   
-Is to ship product, send out verification of orders placed, and retrieve lost passwords. 
+Is to ship product, send out verification of orders placed, and retrieve lost passwords.
 
 Our Commitment To Data Security:   
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
