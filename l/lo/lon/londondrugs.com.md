@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606002321id_/http%3A//www.londondrugs.com/Cultures/en-US/Content/CorporateInfo/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013231848id_/http%3A//www.londondrugs.com/Cultures/en-US/Content/CorporateInfo/PrivacyPolicy) for the most accurate reproduction.*
 
 # London Drugs
 
@@ -12,7 +12,8 @@ We know that we earn your business and your trust with each transaction. And tha
 
 London Drugs is responsible for personal information it holds or is under its control, including the personal information it entrusts to service providers.  We have designated a person to act as our Privacy Officer, whose duties will include monitoring London Drugs compliance with relevant legislation, replying to our valued customer's questions, as well as responding to requests by individuals for access to and correction for any personal information London Drugs has collected on them. 
 
-We adhere to Ten Privacy Principles to ensure your personal information is protected.
+We adhere to Ten Privacy Principles to ensure your personal information is protected.  
+
 
 **_London Drugs 10 Principles of Privacy Protection_**
 
@@ -68,9 +69,12 @@ We may need to collect contact and payment information from you to complete a tr
 
  Should we wish to use this contact information to send you promotional information we will ask for your consent.
 
-We may also send you a thank you letter following a purchase from certain of our departments.  This will typically be the only communication you will receive following a purchase and it is truly our way of saying thank you for your business.
+We may also send you a thank you letter following a purchase from certain of our departments.  This will typically be the only communication you will receive following a purchase and it is truly our way of saying thank you for your business. 
 
- **Pharmacy  
+**London Drugs Online Store  
+** The information provided by you to make a purchase on London Drugs Online Store is collected by London Drugs Limited to process your online transaction. In order to protect you from a fraudulent transaction, London Drugs Limited may provide your personal information, including but not limited to your address and credit card information, with a reputable third party organization to perform an address verification. This address verification is intended to ensure that the "Bill to" address that you have provided matches your credit card address.
+
+**Pharmacy  
 ** London Drugs has always been and will remain committed to keeping all your personal health information confidential.  We recognise and appreciate your expectation that we ensure your privacy and confidentiality is maintained at all times.  We take this responsibility extremely seriously.
 
 Your personal health information includes:
@@ -84,34 +88,33 @@ Your personal health information includes:
 · medical allergies  
 · medication history
 
-We use your personal health information to assist you with managing your medical condition, managing your health, and ensuring you receive the most appropriate medication and its respective dosage for you.  
+We use your personal health information to assist you with managing your medical condition, managing your health, and ensuring you receive the most appropriate medication and its respective dosage for you.
+
+  
 We collect, use and disclose your personal health information in the following situations:
 
-· Personal health information (i.e. prescriptions) obtained by London Drugs will be used to dispense prescription medications.  We will document information related to the medications dispensed and services provided in your record.
+  * Personal health information (i.e. prescriptions) obtained by London Drugs will be used to dispense prescription medications.  We will document information related to the medications dispensed and services provided in your record.
+  * We are required by law, in some provinces, to enter your personal health information in their respective provincial prescription computer systems.  These systems monitor the prescription histories of all members of the population.
+  * We may contact your prescribing doctor or healthcare professional to discuss with them your medication(s), strength of medication, instructions, and treatment options.
+  * We may contact you to provide treatment-related services, such as refill reminders, treatment alternatives (i.e. available generic products), and other health-related benefits and services that may be of interest to you.
+  * We may contact your health plan insurer, payor, or other agent and share your personal health information with that entity to enable them to accurately process the payment/reimbursement of your prescription and/or healthcare needs.  We may also contact you about a payment or balance due for prescriptions dispensed to you at a London Drugs pharmacy.
+  * We may release your personal health information to you or an agent for you provided they produce written authorization from you.  We will only release the information specifically indicated in the authorization.
+  * We may be required to release personal health information by court order or to regulatory bodies.
 
-· We are required by law, in some provinces, to enter your personal health information in their respective provincial prescription computer systems.  These systems monitor the prescription histories of all members of the population.
 
-· We may contact your prescribing doctor or healthcare professional to discuss with them your medication(s), strength of medication, instructions, and treatment options.
-
-· We may contact you to provide treatment-related services, such as refill reminders, treatment alternatives (i.e. available generic products), and other health-related benefits and services that may be of interest to you.
-
-· We may contact your health plan insurer, payor, or other agent and share your personal health information with that entity to enable them to accurately process the payment/reimbursement of your prescription and/or healthcare needs.  We may also contact you about a payment or balance due for prescriptions dispensed to you at a London Drugs pharmacy.
-
-· We may release your personal health information to you or an agent for you provided they produce written authorization from you.  We will only release the information specifically indicated in the authorization.
-
-· We may be required to release personal health information by court order or to regulatory bodies. 
 
 **Photo Finishing** When you purchase a product or service from our Photo Finishing department, you may need to provide us with contact and payment information (such as credit card information) so that we can process your request.  The contact information (name, address, phone number and email address should you select one of our online services) you provide to us allows us to ensure that you get the services you expect.
 
- **Insurance Services Division of London Drugs Limited** The Insurance Services Division offers medical and dental insurance, auto insurance, travel insurance, pet insurance and homeowner insurance.  The Insurance Services Division collects information from you (both in person and on-line, should you request a quote on-line) in sufficient detail to provide you an insurance quote.  The Insurance Services Division is an agent for the actual insurance carriers themselves and as such shares the information they obtain with the carriers in order to obtain quotes for you and to bind coverage if appropriate.
+  
+**Insurance Services Division of London Drugs Limited** The Insurance Services Division offers medical and dental insurance, auto insurance, travel insurance, pet insurance and homeowner insurance.  The Insurance Services Division collects information from you (both in person and on-line, should you request a quote on-line) in sufficient detail to provide you an insurance quote.  The Insurance Services Division is an agent for the actual insurance carriers themselves and as such shares the information they obtain with the carriers in order to obtain quotes for you and to bind coverage if appropriate.
 
- **Call centre**
+**Call centre**
 
 London Drugs operates a call centre to respond to customer's questions, concerns, complaints and suggestions for service improvement.  These suggestions and complaints are important to us as it enables us to provide better service to you our customers.  As part of this process we collect callers name, phone number and other information that they choose to give us, however we will only ever collect personal information that you choose to voluntarily provide to us when connected with our call centre.  Customers are always free to ask questions, voice concerns, make complaints and provide suggestions without giving us any personal information.  We value all such suggestions.
 
- **The London Drugs Personal Credit Plan** When you apply for a London Drugs Personal Credit Plan account, certain personal and financial information is collected from you by London Drugs and disclosed to our credit provider, Household Finance Corporation.  They use this information to approve your account and to manage your account on an ongoing basis. Subsequent transactions as submitted for approval will also be approved by that same credit provider.
+**The London Drugs Personal Credit Plan** When you apply for a London Drugs Personal Credit Plan account, certain personal and financial information is collected from you by London Drugs and disclosed to our credit provider, Household Finance Corporation.  They use this information to approve your account and to manage your account on an ongoing basis. Subsequent transactions as submitted for approval will also be approved by that same credit provider. 
 
-  London Drugs retains information provided by you on your initial credit application and subsequent sales slips to allow for audit, quality control and maintenance of your accounts.
+London Drugs retains information provided by you on your initial credit application and subsequent sales slips to allow for audit, quality control and maintenance of your accounts.
 
 Household Finance Corporation has its own privacy policy and we encourage you to read their privacy statement provided on your credit application and on their web site.
 
@@ -119,7 +122,7 @@ Household Finance Corporation has its own privacy policy and we encourage you to
 
 You may from time to time be given an option to receive communications from London Drugs concerning such things as new products, featured merchandise, health news, newsletters or special offers.  Should you choose to enroll; we will collect your contact information (such as name, address and/or e-mail address in the case of electronic newsletters). This information will only be used to send you the information you have requested unless you consent to receive additional material from us.
 
- **Cosmetics** London Drugs is committed to protecting your personal information while ensuring that we have the tools required to provide you with a superior shopping experience.
+**Cosmetics** London Drugs is committed to protecting your personal information while ensuring that we have the tools required to provide you with a superior shopping experience.
 
 In our cosmetics department we have several vendor-sponsored rewards programs that may include a component where we ask for your contact information so we can administer the program.  London Drugs or our vendor partner may ask you to opt into a mailing list for additional marketing information and/or special offers. Your consent is not a condition of you participating in the reward program. 
 
@@ -127,17 +130,17 @@ From time to time, we may also have promotions or surveys within the Cosmetics d
 
 When returning a product to our cosmetics department you may be asked for contact information as well as information as to why you are returning a specific product.  This may be disclosed to the vendor and is used by the vendor to improve their product.  You may also be asked by either London Drugs or the vendor to provide your consent to be added to promotional mailings and newsletters. Your consent related to promotional mailings or newsletters is not a condition of receiving your refund.
 
- **Rebates** Certain products sold within London Drugs may be eligible for rebates.  To receive your rebate, you may be required by either London Drugs or the vendor to provide your proof of purchase in addition to contact information such as name and address. Your consent may also be requested in order to send you promotional mailings and newsletters. Your consent is not a condition of receiving the rebate.
+**Rebates** Certain products sold within London Drugs may be eligible for rebates.  To receive your rebate, you may be required by either London Drugs or the vendor to provide your proof of purchase in addition to contact information such as name and address. Your consent may also be requested in order to send you promotional mailings and newsletters. Your consent is not a condition of receiving the rebate.
 
- **In-store activations**
+**In-store activations**
 
-As a service to our customers London Drugs may offer to activate various products and services within our retail stores: these products may include cellular phones, ADSL services, and satellite services.  When performing these in-store activations on behalf of our customers, we may be required to collect specific personal information which is then provided to the respective service providers.  London Drugs does not retain or use the information provided to these service providers.
+As a service to our customers London Drugs may offer to activate various products and services within our retail stores: these products may include cellular phones, ADSL services, and satellite services.  When performing these in-store activations on behalf of our customers, we may be required to collect specific personal information which is then provided to the respective service providers.  London Drugs does not retain or use the information provided to these service providers. 
 
- **Contests and promotions** From time to time our vendor partners may run contests or promotions within our stores either by way of specific contest entry forms or by coupons enclosed within products.  We encourage you to read and understand the contest rules for each of these contests and promotions. 
+**Contests and promotions** From time to time our vendor partners may run contests or promotions within our stores either by way of specific contest entry forms or by coupons enclosed within products.  We encourage you to read and understand the contest rules for each of these contests and promotions. 
 
-In addition, London Drugs may also run contests or promotions which may be available on-line or in the store. All contests are subject to rules that will be available with each particular contest. Should you choose to participate, you will be asked for contact information which will only be used to contact you should you win. Winners are legally required to answer a skill testing question. 
+In addition, London Drugs may also run contests or promotions which may be available on-line or in the store. All contests are subject to rules that will be available with each particular contest. Should you choose to participate, you will be asked for contact information which will only be used to contact you should you win. Winners are legally required to answer a skill testing question.  
 
-   London Drugs contest and promotion forms may also ask additional optional survey questions in order that we may improve our product and service offerings.  Your participation in answering the optional questions is not a condition of entering any contest or promotion.
+London Drugs contest and promotion forms may also ask additional optional survey questions in order that we may improve our product and service offerings.  Your participation in answering the optional questions is not a condition of entering any contest or promotion.
 
  **Our Web Sites  
 **  
@@ -145,9 +148,9 @@ London Drugs operates a number of web sites to service the needs of our customer
 ](http://www.londondrugs.com/Cultures/en-US/Content/CorporateInfo/Security/)  
  **Disclosure to third party service providers** In the process of meeting the needs of you, our customer and providing the services you desire, London Drugs may share your information with certain third party service providers for the following purposes: to verify and validate information that you have provided to us, to provide products and services directly to you, and to address customer service issues that you may have. We will use reasonable efforts to ensure that your personal information is used in a manner that is consistent with London Drugs 10 Principles of Privacy Protection and our policy.
 
-Examples of third party service providers would include credit card issuers and processors, repair depots, warranty providers, Household Finance Corporation (for applicants to and participants in the London Drugs Personal Credit Plan), certain manufacturers, and various delivery services.  If you do not wish us to provide your personal information to these service providers there may be certain situations where we may be unable to process the transaction or provide our services to you.
+Examples of third party service providers would include credit card issuers and processors, credit reporting agencies (for address verification purposes related to London Drugs Online Store purchases), repair depots, warranty providers, Household Finance Corporation (for applicants to and participants in the London Drugs Personal Credit Plan), certain manufacturers, and various delivery services.  If you do not wish us to provide your personal information to these service providers there may be certain situations where we may be unable to process the transaction or provide our services to you.
 
- **General**
+**General**
 
 All the information you provide to us is securely maintained and is kept strictly confidential to a level appropriate to the level of sensitivity of the information.  We use a variety of security measures such as restricting employee access to files, data centers, and using locked file cabinets.  In addition we make use of electronic security measures such as passwords, personal ID numbers and data encryption as appropriate.
 
@@ -155,19 +158,19 @@ Employees must conform to London Drugs Privacy Code and observe the highest stan
 
 London Drugs may disclose your information as permitted or required by law: examples of this would be:
 
-· to comply with a subpoena, warrant or order issued or made by a court, person or body with jurisdiction to compel the production of personal information,
+  * to comply with a subpoena, warrant or order issued or made by a court, person or body with jurisdiction to compel the production of personal information, 
+  * to an entity, which may be a government institution or other person that has lawful authority to obtain the information, 
+  * to a public body or a law enforcement agency concerning an offence under the laws of Canada or a province,
+  * To our internal or external legal counsel.   
 
-· to an entity, which may be a government institution or other person that has lawful authority to obtain the information,
 
-· to a public body or a law enforcement agency concerning an offence under the laws of Canada or a province,
 
-· To our internal or external legal counsel. 
 
 **When is my information removed?** We keep your personal information on file as long as we need it to provide you with a service and to meet legal requirements.  When it is no longer needed we destroy the information or render it anonymous.
 
-Should you desire, you can contact our Chief Privacy Officer and request that we remove your information from our records. We will make every reasonable effort to honour your request, however, we may retain some information you have requested to remove to prevent fraud, collect moneys owed, resolve disputes, and to comply with federal and provincial legal requirements.
+Should you desire, you can contact our Chief Privacy Officer and request that we remove your information from our records. We will make every reasonable effort to honour your request, however, we may retain some information you have requested to remove to prevent fraud, collect moneys owed, resolve disputes, and to comply with federal and provincial legal requirements. 
 
- **Changes to our Privacy Policy**
+**Changes to our Privacy Policy**
 
 Our business constantly changes to meet the needs of our customers and as a result our policies and procedures pertaining to privacy and security are also subject to change.  We reserve the right at any time to change or modify any of our practices, policies and procedures which relate to privacy and security. 
 
@@ -224,7 +227,8 @@ There may be instances when we will not be able to provide you with access to al
 
 · has already been destroyed in accordance with our policy of only keeping your information for as long as it is needed,
 
-· is subject to solicitor-client or litigation privilege,   
+· is subject to solicitor-client or litigation privilege, 
+
 You may also contact our Chief Privacy Officer at any time to let us know that you do not wish to receive any further communication from us or to ask us to change your preferences regarding how we use or disclose your information.
 
 **If you have a complaint or a question for us**
@@ -237,5 +241,5 @@ If you have any concerns about privacy, confidentiality or our policies and proc
 
 We will continuously assess ourselves to ensure that customer privacy is respected.  We will conduct our business in a manner that meets the expectations of our customers in the many communities in which we do business.
 
-Updated January 6, 2004  
+Updated July 14, 2004  
 
