@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013024400id_/http%3A//www.chieftain.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409071003id_/http%3A//www.chieftain.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -35,16 +35,16 @@ From time to time, we make our customer list available to other companies or org
 
 
 **TERMS OF USE**   
-The Pueblo Chieftain Internet Services reserves the right to restrict access to anyone for, included in but not limited to, "hacking" the server or system, corrupting the game through wrongful information or otherwise abusing the privileges of the game. 
+The Pueblo Chieftain Internet Services reserves the right to restrict access to anyone for, included in but not limited to, "hacking" the server or website, corrupting the website through wrongful information or otherwise abusing the privileges of the website. 
 
 *The Pueblo Chieftain Internet Services reserves all publishing rights and approval for publishing.
 
 [ ](http://www.chieftain.com/)  
-Please send us your [comments](mailto:comments@chieftain.com)and suggestions  
-or e-mail our [Webmaster](mailto:webmaster@chieftain.com).  
-[View our Privacy Statement](http://www.chieftain.com/privacy_statement.htm)  
+Please send us your [comments](http://www.chieftain.com/contact.php)and suggestions  
+or e-mail our [Webmaster](http://www.chieftain.com/contact.php).  
+[View our Privacy Statement/Terms of Use](http://www.chieftain.com/privacy_statement.htm)  
 
 
-©1996-2002 [Chieftain.com](http://www.chieftain.com/)  
+©1996-2003 [Chieftain.com](http://www.chieftain.com/)  
 The Star-Journal Publishing Corp.  
 Pueblo, Colorado U.S.A.
