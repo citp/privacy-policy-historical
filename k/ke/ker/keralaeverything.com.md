@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralaeverything.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605010105id_/http%3A//www.keralaeverything.com/pri.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralaeverything.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205053206id_/http%3A//www.keralaeverything.com/pri.htm) for the most accurate reproduction.*
 
 # Kerala daily - Privacy Policy
 
