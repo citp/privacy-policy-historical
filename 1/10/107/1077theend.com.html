@@ -1,0 +1,1321 @@
+<!--The following is the downloaded HTML source of the 1077theend.com privacy policy that was archived on 2003-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030410133614id_/http%3A//www.1077theend.com/privacypolicy.asp) for the most accurate reproduction.-->
+
+<html><head><script language="JAVASCRIPT">
+<!--
+//Global variables
+
+var isNav, isIE, isNS6, isLoaded
+isLoaded = false
+if (document.all) {
+  isIE = true;
+  isNav = false;
+  isNS6 = false;
+}
+else if (document.layers) {
+  isNav = true;
+  isIE = false;
+  isNS6 = false;
+}
+else if (document.getElementById) {
+  isNS6 = true;
+  isIE = false;
+  isNav = false;
+}
+
+function doNothing() {
+  //Does Nothing
+}
+
+var delay = 1000; // time songmenu will stay visible after rollout
+var numberMenus = 7; // the number of song-menus (zero based) ** i is starting at 3 below **
+var overMenus = false;
+
+// Show song Menu
+function showText(x,imgX,imgY)
+{
+	for (var i = 3; i <= numberMenus; i ++) {
+	  if (i != x) { hideThem(i);	}
+	}
+	overMenus = true;
+	
+	if (isNav) {
+		theObject = eval("document.sub" + x); 
+		theObject.left = imgX;
+		theObject.top = imgY;
+		theObject.visibility = "visible";
+	}
+	if (isIE) {
+		theObject = eval("document.all.sub" + x); 
+		theObject.style.left = imgX;
+		theObject.style.top = imgY;
+		theObject.style.visibility = "visible";
+	}
+	if (isNS6) {
+		theObject = eval("document.getElementById('sub" + x +"')"); 
+		theObject.style.left = imgX;
+		theObject.style.top = imgY;
+		theObject.style.visibility = "visible";
+	}	
+}
+
+
+//Hide sub Menu
+function hideText(x)
+{
+	overMenus = false;
+	if (isNav) {
+  	y = setTimeout("hideThem(" + x + ")",1000);}
+	if (isIE) {
+ 	y = setTimeout("hideThem(" + x + ")",1000);}
+ 	if (isNS6) {
+  	y = setTimeout("hideThem(" + x + ")",1000);}
+
+}
+function hideThem(x)
+{
+  if (!overMenus) {
+	if (isNav) {
+		theObject = eval("document.sub" + x); 
+		theObject.visibility = "hidden";
+	}
+	if (isIE) {
+		theObject = eval("document.all.sub" + x); 
+		theObject.style.visibility = "hidden";
+	}
+	if (isNS6) {
+		theObject = eval("document.getElementById('sub" + x +"')"); 
+		theObject.style.visibility = "hidden";
+	}	
+  }
+}
+
+function getRealLeft() {
+	xPos = this.offsetLeft;
+	tempEl = this.offsetParent;
+  	while (tempEl != null) {
+  		xPos += tempEl.offsetLeft;
+  		tempEl = tempEl.offsetParent;
+  	}
+	return xPos;
+}
+
+function getRealTop() {
+	yPos = this.offsetTop;
+	tempEl = this.offsetParent;
+  	while (tempEl != null) {
+  		yPos += tempEl.offsetTop;
+  		tempEl = tempEl.offsetParent;
+  	}
+	return yPos;
+}
+
+function getImgX(whichImg){
+	var theImg, theImgX
+	theImg = eval("document." + whichImg);
+	{theImgWidth = theImg.width}
+	if (isIE){ theImg.getRealLeft = getRealLeft; }
+	if (isNS6){ theImg.getRealLeft = getRealLeft; }
+	//theImgX = (isIE) ? theImg.getRealLeft() : theImg.x;
+	if (isIE) {
+	if (whichImg == "contestsandgames"){
+		theImgX = theImg.getRealLeft() -200
+	} else if (whichImg == "meettheend"){
+		theImgX = theImg.getRealLeft() - 355
+	}else {
+		theImgX = theImg.getRealLeft() - 25
+	}
+	}
+		if (isNav) {
+	if (whichImg == "contestsandgames"){
+		theImgX = theImg.x -180
+	} else if (whichImg == "meettheend"){
+		theImgX = theImg.x -350
+	}else {
+		theImgX = theImg.x - 25
+	}
+	}
+
+	if (isNS6) {
+	if (whichImg == "contestsandgames"){
+		theImgX = theImg.getRealLeft() - 200 
+	} else if (whichImg == "meettheend"){
+		theImgX = theImg.getRealLeft() - 355
+	}else {
+		theImgX = theImg.getRealLeft() - 25
+	}
+	}
+	 // {theImgX = (isIE) ? (theImg.getRealLeft() + 118) : (theImg.x + 118);}
+	return theImgX
+}
+function getImgY(whichImg){
+	var theImg, theImgY
+	theImg = eval("document." + whichImg);
+	theImgHeight = theImg.height
+	if (isIE){ theImg.getRealTop = getRealTop; }
+	if (isNS6){ theImg.getRealTop = getRealTop; }
+	//theImgY = (isIE) ? theImg.getRealTop() : theImg.y;
+	if (isIE) {
+	if (whichImg == "contestsandgames"){
+	   theImgY = theImg.getRealTop() - 71
+	}else if (whichImg == "meettheend"){
+		theImgY = theImg.getRealTop() - 71
+	}else {
+		theImgY = theImg.getRealTop() + 20
+	}
+	}
+	if (isNav) {
+	if (whichImg == "contestsandgames"){
+	   theImgY = theImg.y - 71
+	}else if (whichImg == "meettheend"){
+		theImgY = theImg.y - 71
+	}else {
+		theImgY = theImg.y + 19
+	}
+	}
+	if (isNS6) {
+	if (whichImg == "contestsandgames"){
+		theImgY = theImg.getRealTop() - 71
+	}else if (whichImg == "meettheend"){
+		theImgY = theImg.getRealTop() - 71
+	}else {
+		theImgY = theImg.getRealTop() + 19
+	}
+	}
+	//theImgY = (isIE) ? (theImg.getRealTop()) : (theImg.y);	
+	return theImgY
+}
+
+//-->
+</script>
+<style type="text/css">
+<!--
+	#sub3 {position:absolute; left:200; top:167; padding:0px; width:152; z-index:3; visibility:hidden}
+	#sub4 {position:absolute; left:200; top:167; padding:0px; width:152; z-index:4; visibility:hidden}
+	#sub5 {position:absolute; left:200; top:167; padding:0px; width:160; z-index:5; visibility:hidden}
+	#sub6 {position:absolute; left:200; top:167; padding:0px; width:160; z-index:6; visibility:hidden}
+	#sub7 {position:absolute; left:200; top:167; padding:0px; width:160; z-index:7; visibility:hidden}
+
+//-->
+</style>
+<script language="JAVASCRIPT"> 
+<!-- 
+browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 3 ))) 
+isIE = ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )) 
+
+
+gobuttonon = new Image();
+gobuttonoff = new Image();
+gobuttonoff.src = "/images/both_button_go_off.gif";
+gobuttonon.src = "/images/both_button_go_ON.gif";
+
+gobuttonmusicon = new Image();
+gobuttonmusicoff = new Image();
+gobuttonmusicoff.src = "/images/both_button_go_off.gif";
+gobuttonmusicon.src = "/images/both_button_go_ON.gif";
+
+gobutton2on = new Image();
+gobutton2off = new Image();
+gobutton2off.src = "/images/both_button2_go_off.gif";
+gobutton2on.src = "/images/both_button2_go_ON.gif";
+
+emailon = new Image();
+emailoff = new Image();
+emailoff.src = "/images/both_menu_emailpage_off.gif";
+emailon.src = "/images/both_menu_emailpage_ON.gif";
+
+printon = new Image();
+printoff = new Image();
+printoff.src = "/images/both_menu_print_off.gif";
+printon.src = "/images/both_menu_print_ON.gif";
+
+andysavageon = new Image();
+andysavageoff = new Image();
+andysavageoff.src = "/images/both_menu_andysavage_off.gif";
+andysavageon.src = "/images/both_menu_andysavage_ON.gif";
+musicnewson = new Image();
+musicnewsoff = new Image();
+musicnewsoff.src = "/images/both_menu_musicnews_off.gif";
+musicnewson.src = "/images/both_menu_musicnews_ON.gif";
+endconcertson = new Image();
+endconcertsoff = new Image();
+endconcertsoff.src = "/images/both_menu_endconcerts_off.gif";
+endconcertson.src = "/images/both_menu_endconcerts_ON.gif";
+ontheendon = new Image();
+ontheendoff = new Image();
+ontheendoff.src = "/images/both_menu_ontheend_off.gif";
+ontheendon.src = "/images/both_menu_ontheend_ON.gif";
+newendmusicon = new Image();
+newendmusicoff = new Image();
+newendmusicoff.src = "/images/both_menu_newendmusic_off.gif";
+newendmusicon.src = "/images/both_menu_newendmusic_ON.gif";
+endeventson = new Image();
+endeventsoff = new Image();
+endeventsoff.src = "/images/both_menu_endevents_off.gif";
+endeventson.src = "/images/both_menu_endevents_ON.gif";
+endsessionson = new Image();
+endsessionsoff = new Image();
+endsessionsoff.src = "/images/both_menu_endsessions_off.gif";
+endsessionson.src = "/images/both_menu_endsessions_ON.gif";
+yourendlifeon = new Image();
+yourendlifeoff = new Image();
+yourendlifeoff.src = "/images/both_menu_yourendlife_off.gif";
+yourendlifeon.src = "/images/both_menu_yourendlife_ON.gif";
+contestsandgameson = new Image();
+contestsandgamesoff = new Image();
+contestsandgamesoff.src = "/images/both_menu_contestsandgames_off.gif";
+contestsandgameson.src = "/images/both_menu_contestsandgames_ON.gif";
+meettheendon = new Image();
+meettheendoff = new Image();
+meettheendoff.src = "/images/both_menu_meettheend_off.gif";
+meettheendon.src = "/images/both_menu_meettheend_ON.gif";
+
+
+	function imageOff(IMGName) {
+		document[IMGName].src = eval(IMGName + "off.src"); 
+}
+	function imageOn(IMGName) {
+		document[IMGName].src = eval(IMGName + "on.src"); 
+}
+
+
+
+Flipandysavageon = new Image();
+Flipandysavageoff = new Image();
+Flipandysavageoff.src = "/images/both_menuarrow_OFF.gif";
+Flipandysavageon.src = "/images/both_menuarrow_ON.gif";
+
+Flipmusicnewson = new Image();
+Flipmusicnewsoff = new Image();
+Flipmusicnewsoff.src = "/images/both_menuarrow_OFF.gif";
+Flipmusicnewson.src = "/images/both_menuarrow_ON.gif";
+
+Flipendconcertson = new Image();
+Flipendconcertsoff = new Image();
+Flipendconcertsoff.src = "/images/both_menuarrow_OFF.gif";
+Flipendconcertson.src = "/images/both_menuarrow_ON.gif";
+
+Flipontheendon = new Image();
+Flipontheendoff = new Image();
+Flipontheendoff.src = "/images/both_menuarrow_OFF.gif";
+Flipontheendon.src = "/images/both_menuarrow_ON.gif";
+
+Flipnewendmusicon = new Image();
+Flipnewendmusicoff = new Image();
+Flipnewendmusicoff.src = "/images/both_menuarrow_OFF.gif";
+Flipnewendmusicon.src = "/images/both_menuarrow_ON.gif";
+
+Flipendeventson = new Image();
+Flipendeventsoff = new Image();
+Flipendeventsoff.src = "/images/both_menuarrow_OFF.gif";
+Flipendeventson.src = "/images/both_menuarrow_ON.gif";
+
+Flipendsessionson = new Image();
+Flipendsessionsoff = new Image();
+Flipendsessionsoff.src = "/images/both_menuarrow_OFF.gif";
+Flipendsessionson.src = "/images/both_menuarrow_ON.gif";
+
+Flipyourendlifeon = new Image();
+Flipyourendlifeoff = new Image();
+Flipyourendlifeoff.src = "/images/both_menuarrow_OFF.gif";
+Flipyourendlifeon.src = "/images/both_menuarrow_ON.gif";
+
+Flipcontestsandgameson = new Image();
+Flipcontestsandgamesoff = new Image();
+Flipcontestsandgamesoff.src = "/images/both_menuarrow_OFF.gif";
+Flipcontestsandgameson.src = "/images/both_menuarrow_ON.gif";
+
+Flipmeettheendon = new Image();
+Flipmeettheendoff = new Image();
+Flipmeettheendoff.src = "/images/both_menuarrow_OFF.gif";
+Flipmeettheendon.src = "/images/both_menuarrow_ON.gif";
+ //On the End Drop Down rollover
+endjockson = new Image();
+endjocksoff = new Image();
+endjocksoff.src = "/images/both_dropdown_button_OFF.gif";
+endjockson.src = "/images/both_dropdown_button_ON.gif";
+ //On the End Drop Down rollover
+programscheduleon = new Image();
+programscheduleoff = new Image();
+programscheduleoff.src = "/images/both_dropdown_button_OFF.gif";
+programscheduleon.src = "/images/both_dropdown_button_ON.gif";
+ //On the End Drop Down rollover
+specialtyshowon = new Image();
+specialtyshowoff = new Image();
+specialtyshowoff.src = "/images/both_dropdown_button_OFF.gif";
+specialtyshowon.src = "/images/both_dropdown_button_ON.gif";
+ //On the End Drop Down rollover
+interviewson = new Image();
+interviewsoff = new Image();
+interviewsoff.src = "/images/both_dropdown_button_OFF.gif";
+interviewson.src = "/images/both_dropdown_button_ON.gif";
+ //On the End Drop Down rollover
+photosontheendon = new Image();
+photosontheendoff = new Image();
+photosontheendoff.src = "/images/both_dropdown_button_OFF.gif";
+photosontheendon.src = "/images/both_dropdown_button_ON.gif";
+ //On the End Drop Down rollover
+endlistson = new Image();
+endlistsoff = new Image();
+endlistsoff.src = "/images/both_dropdown_button_OFF.gif";
+endlistson.src = "/images/both_dropdown_button_ON.gif";
+ //On the End Drop Down rollover
+advertiserson = new Image();
+advertisersoff = new Image();
+advertisersoff.src = "/images/both_dropdown_button_OFF.gif";
+advertiserson.src = "/images/both_dropdown_button_ON.gif";
+ //Ne End Music Drop Down rollover
+playliston = new Image();
+playlistoff = new Image();
+playlistoff.src = "/images/both_dropdown_button_OFF.gif";
+playliston.src = "/images/both_dropdown_button_ON.gif";
+ //Ne End Music Drop Down rollover
+Choiceon = new Image();
+Choiceoff = new Image();
+Choiceoff.src = "/images/both_dropdown_button_OFF.gif";
+Choiceon.src = "/images/both_dropdown_button_ON.gif";
+ //Ne End Music Drop Down rollover
+seattlemusicon = new Image();
+seattlemusicoff = new Image();
+seattlemusicoff.src = "/images/both_dropdown_button_OFF.gif";
+seattlemusicon.src = "/images/both_dropdown_button_ON.gif";
+ //End Events Drop Down rollover
+EndFeston = new Image();
+EndFestoff = new Image();
+EndFestoff.src = "/images/both_dropdown_button_OFF.gif";
+EndFeston.src = "/images/both_dropdown_button_ON.gif";
+ //End Events Drop Down rollover
+DecktheHallBallon = new Image();
+DecktheHallBalloff = new Image();
+DecktheHallBalloff.src = "/images/both_dropdown_button_OFF.gif";
+DecktheHallBallon.src = "/images/both_dropdown_button_ON.gif";
+ //End Events Drop Down rollover
+endeventarchiveson = new Image();
+endeventarchivesoff = new Image();
+endeventarchivesoff.src = "/images/both_dropdown_button_OFF.gif";
+endeventarchiveson.src = "/images/both_dropdown_button_ON.gif";
+ //Your End Lif Drop Down rollover
+streetteamon = new Image();
+streetteamoff = new Image();
+streetteamoff.src = "/images/both_dropdown_button_OFF.gif";
+streetteamon.src = "/images/both_dropdown_button_ON.gif";
+ //Your End Lif Drop Down rollover
+clubcalendaron = new Image();
+clubcalendaroff = new Image();
+clubcalendaroff.src = "/images/both_dropdown_button_OFF.gif";
+clubcalendaron.src = "/images/both_dropdown_button_ON.gif";
+ //Your End Lif Drop Down rollover
+snowpatrolreporton = new Image();
+snowpatrolreportoff = new Image();
+snowpatrolreportoff.src = "/images/both_dropdown_button_OFF.gif";
+snowpatrolreporton.src = "/images/both_dropdown_button_ON.gif";
+
+
+
+
+	function swapOff(IMGName) {
+		document[IMGName].src = eval(IMGName + "off.src"); 
+}
+	function swapOn(IMGName) {
+		document[IMGName].src = eval(IMGName + "on.src"); 
+}
+ 
+ 	function rollOff(IMGName) {
+		document[IMGName].src = eval(IMGName + "off.src"); 
+}
+	function rollOn(IMGName) {
+		document[IMGName].src = eval(IMGName + "on.src"); 
+}
+ 
+
+//--> 
+</script> 
+
+</head><body background="/images/both_back.jpg" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0"><map name="both_logo">
+<area shape="RECT" coords="2,0,255,101" href="/default.asp">
+</map>
+
+<title>1077 The End</title>
+<meta name="description" content="1077 The End, Seattle's source for new music.">
+<meta name="keywords" content="">
+
+<style id="Entire">
+A {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14px;	font-weight: bold;	color: #C5DC00;} 
+.gInputFields {	border-left:000000px solid; border-right:1px solid FFFFFF; border-top:000000px solid; border-bottom:1px solid FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #C5DC00; background-color: #404040}
+.gSubmitButtons {border-left:1px solid ffffff; border-right:000000px solid; border-top:1px solid ffffff; border-bottom:000000px solid; font-family: Arial, Helvetica, sans-serif;font-size: 11px;font-weight: bold; color: #ffffff;	background-color: #ac0000}
+.fHeadline {font-family: Arial, Helvetica, sans-serif; font-size: 11px;	line-height: 14px; font-weight: bold; color: #C5DC00;}
+.fText {font-family: Arial, Helvetica, sans-serif; font-size: 11px;	line-height: 14px; color: #FFFFFF;}
+.fLinks {font-family: Arial, Helvetica, sans-serif;	font-size: 11px; line-height: 14px;	font-weight: bold; color: #C5DC00;}
+.gNavText {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px; font-weight: normal; color: #ffffff;}
+.gNavText:hover {font-family: Arial, Helvetica, sans-serif;	font-size: 11px; font-weight: normal; color: #C5DC00;}
+.iPageTitles { }
+.iDividersHR {color: #c5dc00; font-size: 1px; border: 1px solid;}
+.cfLinks2 {	font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #007FC4;}
+.fLinks:active {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #ff0000;}
+.fLinks:hover {	font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #FFFFFF;}
+.fLinks:visited {font-family: Arial, Helvetica, sans-serif;	font-size: 11px; line-height: 14px;	font-weight: bold; color: #FFFFFF; text-decoration: underline;}
+.cfLinks2:hover {font-family: Arial, Helvetica, sans-serif;	font-size: 11px; line-height: 14px; font-weight: bold; color: #C5DC00;}
+.cfLinks2:active {	font-family: Arial, Helvetica, sans-serif; font-size: 11px;	line-height: 14px; font-weight: bold; color: #ff0000;}
+.cfLinks2:visited {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px; line-height: 14px;	font-weight: bold; color: #ffffff;}
+.cfText2 {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #B9BCD7; font-weight: normal;}
+.iText {font-family: Arial, Helvetica, sans-serif; font-size: 11px;	line-height: 14px; color: #FFFFFF;}
+.gDropdown {border-left:000000px solid; border-right:1px solid FFFFFF; border-top:000000px solid; border-bottom:1px solid FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #C5DC00; background-color: #404040}
+.gMemberText {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #FFFFFF;}
+.iLinks {font-family: Arial, Helvetica, sans-serif;	font-size: 11px; line-height: 14px;	font-weight: bold; color: #C5DC00;}
+.iLinks:active {font-family: Arial, Helvetica, sans-serif; font-size: 11px;	line-height: 14px; font-weight: bold; color: #ff0000;}
+.iLinks:hover {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14px;	font-weight: bold;	color: #FFFFFF;}
+.iLinks:visited {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14px;	font-weight: bold;	color: #FFFFFF;	text-decoration: underline;}
+.iHeadline {font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14px;	font-weight: bold;	color: #C5DC00;}
+.gBody {font-family: Arial, Helvetica, sans-serif;	font-size: 11px; line-height: 14px;	color: #FFFFFF;	background-color: 000000}
+.gCopyright {font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	font-weight: normal;	color: #007FC4;}
+.elsAlertMsg { font-family: arial; font-size: 13px; font-weight: bold; color: #000000; line-height: normal }
+.elsTable { border-style: solid; border-width: 1px; border-color: #000080; }
+.elsCellField { background-color: #FFFFFF; color: #800080; font-family: arial; font-size: 13px; }
+.elsCellData { background-color: #FFFFFF; color: #000000; font-family: arial; font-size: 13px; }
+A.elsCellField { color: #800080; }
+A.elsCellData { color: #000000; }.ListingBlock { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Color: #ffffff;  }
+A.ListingBlock { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Font-Weight: bold; Color: #C5DC00;  }
+A.ListingBlock:hover { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Font-Weight: bold; Color: #ffffff;  }
+.ListingBlock1 { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Color: #ffffff; Background-Color: #383E6F;  }
+A.ListingBlock1 { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Font-Weight: bold; Color: #C5DC00;  }
+A.ListingBlock1:hover { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Font-Weight: bold; Color: #ffffff;  }
+.ListingBlock2 { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Color: #ffffff; Background-Color: #000000;  }
+A.ListingBlock2 { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Font-Weight: bold; Color: #C5DC00;  }
+A.ListingBlock2:hover { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Font-Weight: bold; Color: #ffffff;  }
+.ListingBlock3 { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Color: #ffffff; Background-Color: #002590;  }
+A.ListingBlock3 { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Font-Weight: bold; Color: #C5DC00;  }
+A.ListingBlock3:hover { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Font-Weight: bold; Color: #ffffff;  }
+
+</style>
+<script language="javascript">
+<!--
+
+function MM_openBrWindow(theURL) { //v2.0
+  window.open(theURL,"mywin","scrollbars=yes,resizable=yes,width=616,height=400");
+}
+
+function printWindow() {
+bV = parseInt(navigator.appVersion);
+if (bV >= 4) window.print();
+}
+//-->
+</script>
+
+
+    
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="750">
+  <tbody><tr>
+    <td width="12" align="right" valign="top"><img border="0" src="/images/trans.gif" width="8" height="8"><img border="0" src="/images/both_logo_left.gif" width="4" height="106"></td>
+    <td width="16%" align="left" valign="top">
+<script language="javascript">
+// updated djb 12/19/00, need full url path for link to flash download
+
+var appNm = navigator.appName;
+var appVr = navigator.appVersion;
+var isIE = (appNm.indexOf("Explorer") > 0) ? true : false
+var isNS = (appVr == "Netscape") ? true : false
+var bVer = (isIE) ? (parseFloat( appVr.substring(appVr.indexOf("MSIE ")+5) )) : (parseFloat(appVr));
+var flashenabled = false;
+var windows = ( (appVr.indexOf("Windows NT")!=-1) || (appVr.indexOf("Windows 95")!=-1) || (appVr.indexOf("Windows 98")!=-1) );
+var beenAsked = false;
+
+if ( !( (isIE && windows && (bVer < 5)) || (isNS && (bVer==4.7)) ) ){ testPlugins(6); }
+
+
+function choice(nRequiredVersion){
+	if (beenAsked || (location.pathname.toLowerCase() != '/default.asp' && location.pathname.toLowerCase() != '/')) return false;
+	else {
+		beenAsked = true;
+		return confirm("This site uses the Flash Plug-in (Version " + nRequiredVersion + ").\n\rWould you like to download it now?");
+	}
+}
+
+function testPlugins(nRequiredVersion) {
+	var nPlayerVersion;
+	if (nRequiredVersion == null) nRequiredVersion = 4;
+	if (appNm.indexOf("Webtv")!=-1) flashenabled = true;
+	else if ( (appVr.indexOf("Mac")!=-1) && (bVer < 4) ) flashenabled = false;
+	else if (isIE) {
+		if (appVr.indexOf("3.1")!=-1){
+			flashenabled = false;
+		}
+		else if (windows) {  
+			document.writeln('<SC'+'RIPT LANGUAGE="VBScript">');
+			document.writeln('on error resume next');
+			document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))');
+			if (nRequiredVersion < 6) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))');
+			if (nRequiredVersion < 5) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))');
+			if (nRequiredVersion < 4) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))');
+			document.writeln('</SC'+'RIPT>');
+		}
+		else if (appVr.indexOf("Mac")!=-1) {
+			flashenabled = true;
+		}
+	} else if (navigator.plugins != null) {
+
+	//	navigator.plugins.refresh(false);
+		for(var i=0; i < navigator.plugins.length; i++) {
+			if (navigator.plugins[i].name == "Shockwave Flash") {
+				nPlayerVersion = parseInt(navigator.plugins[i].description.substring(navigator.plugins[i].description.indexOf(".")-1));
+				if (nPlayerVersion >= 6) flashenabled = true;
+				else if (nPlayerVersion >= 5 && nRequiredVersion < 6) flashenabled = true;
+				else if (nPlayerVersion >= 4 && nRequiredVersion < 5) flashenabled = true;
+				else if (nPlayerVersion >= 3 && nRequiredVersion < 4) flashenabled = true;
+				break;
+			}
+		}
+	}
+	if (!flashenabled) {
+		if (choice(nRequiredVersion)) window.top.location.href = "http://" + location.host + "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
+	}
+}
+
+</script>
+
+<script language="JavaScript">
+<!--
+if ( flashenabled ) {
+	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" WIDTH=256 HEIGHT=102>');
+	document.write('<PARAM NAME=movie VALUE="/flash/both_logo.swf"><PARAM NAME=menu VALUE=false><PARAM NAME=quality VALUE=high><PARAM NAME=bgcolor VALUE=#000B60>'); 
+	document.write('<EMBED src="/flash/both_logo.swf" bgcolor=#000B60 WIDTH="256" HEIGHT="102" menu=false quality=high swLiveConnect=FALSE TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED>');
+	document.write('</OBJECT>');
+} else if (!(appNm && appNm.indexOf("Netscape")>=0 && appVr.indexOf("2.")>=0)){
+	if (choice()) window.top.location.href = "http://" + location.host + "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
+	else document.write('<IMG SRC="/flash/both_logo.gif" USEMAP="#both_logo" WIDTH="256" HEIGHT="102" BORDER=0>');
+}
+//-->
+</script><img src="/flash/both_logo.gif" usemap="#both_logo" width="256" height="102" border="0"><noembed><IMG src="/flash/both_logo.gif" width="256" height="102" BORDER=0 usemap="#both_logo"></noembed><noscript><img src="/flash/both_logo.gif" width="256" height="102" BORDER=0 usemap="#both_logo"></noscript><img border="0" src="/images/both_logo_right.gif" width="18" height="102"><br><img border="0" src="/images/both_logo_bottom.gif" width="274" height="4"></td>
+<td width="274" align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="470">
+      <tbody><tr>
+        <td background="/images/both_topmenu_top.gif"><img border="0" src="/images/both_topmenu_top.gif" width="1" height="18"></td>
+      </tr>
+    </tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="464">
+      <tbody><tr>
+        <td background="/images/both_topmenu_back.gif" align="left" valign="top"><img border="0" src="/images/trans.gif" width="10" height="21"><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipandysavage"><a href="/andysavageandthemorningend.asp" onmouseover="imageOn('andysavage');swapOn('Flipandysavage');" onmouseout="imageOff('andysavage');swapOff('Flipandysavage');"><img border="0" src="/images/both_menu_andysavage_off.gif" name="andysavage"></a><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipmusicnews"><a href="/musicnews.asp" onmouseover="imageOn('musicnews');swapOn('Flipmusicnews');" onmouseout="imageOff('musicnews');swapOff('Flipmusicnews');"><img border="0" src="/images/both_menu_musicnews_off.gif" name="musicnews"></a><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipendconcerts"><a href="/concertcalendar.asp" onmouseover="imageOn('endconcerts');swapOn('Flipendconcerts');" onmouseout="imageOff('endconcerts');swapOff('Flipendconcerts');"><img border="0" src="/images/both_menu_endconcerts_off.gif" name="endconcerts"></a><br><img border="0" src="/images/trans.gif" width="10" height="7"></td>
+      </tr>
+</tbody></table>
+    <table border="0" cellpadding="0" cellspacing="0" width="464%">
+      <tbody><tr>
+        <td width="100%">
+        <img border="0" src="/images/both_top_graphictag.jpg" width="464" height="60"></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="750">
+  <tbody><tr>
+    <td background="/images/both_lowermenu_top.gif" align="left" valign="top">
+    <img border="0" src="/images/both_lowermenu_top_left.gif" width="276" height="7"></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="750">
+  <tbody><tr>
+    <td background="/images/both_lowermenu_back.gif">
+    <img border="0" src="/images/both_lowermenu_left.gif" width="2" height="17"><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipontheend"><a href="/ontheend.asp" onmouseover="imageOn('ontheend');swapOn('Flipontheend');showText(3,getImgX('ontheend'),getImgY('ontheend'))" onmouseout="imageOff('ontheend');swapOff('Flipontheend');hideText(3)"><img border="0" src="/images/both_menu_ontheend_off.gif" name="ontheend"></a><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipnewendmusic"><a href="/newendmusic.asp" onmouseover="imageOn('newendmusic');swapOn('Flipnewendmusic');showText(4,getImgX('newendmusic'),getImgY('newendmusic'))" onmouseout="imageOff('newendmusic');swapOff('Flipnewendmusic');hideText(4)"><img border="0" src="/images/both_menu_newendmusic_off.gif" name="newendmusic"></a><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipendevents"><a href="/endevents.asp" onmouseover="imageOn('endevents');swapOn('Flipendevents');showText(5,getImgX('endevents'),getImgY('endevents'))" onmouseout="imageOff('endevents');swapOff('Flipendevents');hideText(5)"><img border="0" src="/images/both_menu_endevents_off.gif" name="endevents"></a><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipendsessions"><a href="/endsessions.asp" onmouseover="imageOn('endsessions');swapOn('Flipendsessions');showText(6,getImgX('endsessions'),getImgY('endsessions'))" onmouseout="imageOff('endsessions');swapOff('Flipendsessions');hideText(6)"><img border="0" src="/images/both_menu_endsessions_off.gif" name="endsessions"></a><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipyourendlife"><a href="/yourendlife.asp" onmouseover="imageOn('yourendlife');swapOn('Flipyourendlife');showText(7,getImgX('yourendlife'),getImgY('yourendlife'))" onmouseout="imageOff('yourendlife');swapOff('Flipyourendlife');hideText(7)"><img border="0" src="/images/both_menu_yourendlife_off.gif" name="yourendlife"></a><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipcontestsandgames"><a href="/contestsandgames.asp" onmouseover="imageOn('contestsandgames');swapOn('Flipcontestsandgames');" onmouseout="imageOff('contestsandgames');swapOff('Flipcontestsandgames');"><img border="0" src="/images/both_menu_contestsandgames_off.gif" name="contestsandgames"></a><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipmeettheend"><a href="/meettheend.asp" onmouseover="imageOn('meettheend');swapOn('Flipmeettheend');" onmouseout="imageOff('meettheend');swapOff('Flipmeettheend');"><img border="0" src="/images/both_menu_meettheend_off.gif" name="meettheend"></a><img border="0" src="/images/both_lowermenu_left.gif" width="4" height="17"><br>
+    <img border="0" src="/images/both_lowermenu_left.gif" width="5" height="6"></td>
+  </tr>
+  <tr>
+    <td>
+    <img border="0" src="/images/both_menu_bottom.gif" width="750" height="10"><br>
+    <img border="0" src="/images/trans.gif" width="21" height="14"></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="750">
+  <tbody><tr>
+    <td width="9" rowspan="2">
+    <img border="0" src="/images/trans.gif" width="9" height="9"></td>
+    <td rowspan="2" bgcolor="#000000" width="130" align="left" valign="top">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+          <td> <a href="/advertisinginfo.asp"><img src="/images/sponsor_1.gif" width="130" height="100" border="0" alt="Click to place your ad here!"></a></td>
+      </tr>
+    </tbody></table>
+    
+<table border="0" cellpadding="0" cellspacing="0" width="130">
+      <tbody><tr>
+        <td align="left" valign="top"><img border="0" src="/images/both_title_whosonair.gif" width="130" height="22"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">
+        <img src="http://images.radcity.net/3005/354902.jpg" border="0" width="130" align="center"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#000000">
+        <img border="0" src="/images/trans.gif" width="1" height="1"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#383E6F">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+            <td align="left" valign="top">
+            <img border="0" src="/images/trans.gif" width="10" height="10"><br>
+                  <img border="0" src="/images/trans.gif" width="5" height="5"><img border="0" src="/images/both_arrow_up.gif" width="17" height="6"><img border="0" src="/images/trans.gif" width="5" height="5"></td>
+                <td width="98" align="left" valign="top"> <img border="0" src="/images/trans.gif" width="5" height="5"><br>
+                  <a class="fLinks" href="/showdj.asp?DJID=14680">Andy Savage &amp; The Morning End</a><span class="cfText2"><br>
+                  is on.</span></td>
+            <td width="5" align="left" valign="top">
+            <img border="0" src="/images/trans.gif" width="5" height="5"></td>
+          </tr>
+        </tbody></table>
+        </td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#383E6F">
+        <a href="mailto:heydj@1077theend.com"><img border="0" src="/images/both_button_emailthem.gif" width="130" height="58"></a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#383E6F"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+                <td align="left" valign="bottom"> <img border="0" src="/images/trans.gif" width="5" height="5"><img border="0" src="/images/both_arrow_down.gif" width="17" height="6"><img border="0" src="/images/trans.gif" width="5" height="5"><br>
+            <img border="0" src="/images/trans.gif" width="10" height="10"></td>
+                <td width="98" align="left" valign="bottom"> <span class="cfText2">Next Up Is<br>
+                  </span><a class="fLinks" href="/showdj.asp?DJID=14978">Jennifer White<br>
+            <img border="0" src="/images/trans.gif" width="5" height="5"></a></td>
+            <td width="5" align="left" valign="bottom">
+            <img border="0" src="/images/trans.gif" width="5" height="5"></td>
+          </tr>
+        </tbody></table>
+        </td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#000000">
+        <img border="0" src="/images/trans.gif" width="1" height="1"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">
+        <img src="http://images.radcity.net/3005/365222.jpg" border="0" width="130" align="center"></td>
+      </tr>
+    </tbody></table>
+
+    <table border="0" cellpadding="0" cellspacing="0" width="130">
+      <tbody><tr>
+        <td align="left" valign="top">
+        <img border="0" src="/images/both_title_musicsearch.gif" width="130" height="22"></td>
+      </tr>
+      <form method="GET" action="/universalsearch.asp" id="musicform" name="musicform"></form>
+<tr>
+<td align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="130">
+    <tbody><tr>
+        <td colspan="2" align="left" valign="top"><img src="/images/trans.gif" height="5"></td>
+   </tr>
+
+  <tr>
+       <td align="left" valign="top"><img src="/images/trans.gif" width="7"></td>
+        <td align="left" valign="top"><input type="hidden" name="WHERETOLOOK" value="music"><span class="fText"><select name="index">
+			<option value="a">Artist
+			</option><option value="t">Title
+			</option><option value="s">Song Title
+			</option><option value="l">Record Label
+			</option><option value="o">Soundtrack
+			</option></select>
+         </span></td>
+   </tr>
+   <tr>
+     <td align="left" valign="top" colspan="2"><img src="/images/trans.gif" width="7" height="5"></td>
+  </tr>
+   <tr>
+     <td align="left" valign="top"><img src="/images/trans.gif" width="7"></td>
+     <td align="left" valign="top"><input name="string" size="9" maxlength="45" value="" class="gInputFields"><a href="javascript:document.musicform.submit();" onmouseover="imageOn('gobuttonmusic');" onmouseout="imageOff('gobuttonmusic');"><img border="0" src="/images/both_button_go_off.gif" width="27" height="16" name="gobuttonmusic"></a></td>
+  </tr>
+</tbody></table>
+</td>
+</tr>
+    </tbody></table>
+    <table border="0" cellpadding="0" cellspacing="0" width="130">
+      <tbody><tr>
+        <td align="left" valign="top">
+    <img border="0" src="/images/both_title_endmail.gif" width="130" height="29"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">
+        <table border="0" cellpadding="7" cellspacing="0" width="130">
+          <tbody><tr>
+                <td><table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td align="left"><font class="iText"><b>Sign up for EndMail to get the latest music news, info and more from 1077 The End:</b></font></td></tr></tbody></table></td></tr>
+<form action="/els/elsLoginPrc.asp" method="POST" name="els" id="els"></form><input type="hidden" value="" name="fldDestination"><input type="hidden" value="" name="Action">
+<tr><td valign="top"><span class="fText">Your Email Address:</span><br>
+<input type="text" size="7" maxlength="75" name="fldUserName" value="" class="gInputFields" onfocus="document.els.fldUserName.value=''">
+<a href="javascript:document.els.submit();" onmouseover="imageOn('gobutton');" onmouseout="imageOff('gobutton');"><img border="0" src="/images/both_button_go_off.gif" width="27" height="16" name="gobutton" valign="middle"></a></td>
+</tr>
+
+           </tbody></table>
+        </td>
+      </tr>
+    </tbody></table>
+    </td>
+    <td width="3"><img border="0" src="/images/trans.gif" width="3" height="3"></td>
+    <td width="608" align="left" valign="top">
+    <table border="0" cellpadding="0" cellspacing="0" width="608">
+      <tbody><tr>
+        <td height="2" colspan="3">
+        <table border="0" cellpadding="0" cellspacing="0" width="608">
+          <tbody><tr>
+            <td align="left" valign="top"><a target="_blank" href="/ad/click.asp?adID=4478&amp;adRunID=9086"><img src="http://images.radcity.net/PublicService/adc_gs_job_468x60.gif" border="0" alt="Girls Go Tech"></a></td>
+            <td align="left" valign="top" width="4"><img border="0" src="/images/trans.gif" width="4" height="4"></td>
+				
+	<script language="Javascript">
+	<!--
+	function ValidateKeyForm()
+	{
+		isOK = true;
+		if (isOK && (document.formKeyForm.keyword.value.length < 1)) {
+			alert("Please enter a valid Keyword.");
+			document.formKeyForm.keyword.focus();
+			isOK = false;
+		}
+		return isOK
+	}
+	//-->
+	</script>
+<form method="get" action="/KeywordSearch.asp" name="formKeyForm" onsubmit="return ValidateKeyForm();"></form>
+<input type="hidden" name="search" value="1">
+<td bgcolor="#007FC4" align="left" valign="top" width="135"><table border="0" cellspacing="0" cellpadding="7" width="135"><tbody><tr><td>
+<img border="0" src="/images/both_title_keywordsearch.gif" width="68" height="19"><br><img border="0" src="/images/trans.gif" width="2" height="2"><br><input class="gInputFields" size="7" name="keyword">
+<a href="javascript:document.formKeyForm.submit();" onmouseover="imageOn('gobutton2');" onmouseout="imageOff('gobutton2');"><img border="0" src="/images/both_button2_go_off.gif" width="27" height="16" name="gobutton2"></a></td>
+</tr></tbody></table></td>
+
+          </tr>
+          <tr>
+            <td align="left" valign="top" colspan="3">
+            <img border="0" src="/images/trans.gif" width="2" height="2"></td>
+          </tr>
+        </tbody></table>
+        </td>
+      </tr>
+      <tr>
+        <td width="380" align="left" valign="top" background="/images/inside_title_back.jpg" height="22" colspan="3">
+        <img border="0" src="/images/inside_title_privacypolicy.gif" width="608" height="22"></td>
+      </tr>
+      <tr>
+        <td width="421" align="left" valign="top" background="/images/inside_content_back.jpg">
+
+            <table width="411" align="right" cellpadding="7" cellspacing="0">
+              <tbody><tr> 
+                <td align="left"> <font class="iText"><font class="iText"><center><b>A Privacy Policy Statement from <br>Entercom Communications</b></center>
+<br>The following discloses our information gathering and dissemination practices for Entercom Radio Station web properties. For a complete list of all Entercom radio station web sites, please visit <a href="http://" www.entercom.com="" target="_blank">www.entercom.com</a>. <br>
+<br><b><center>Privacy Policies<br></center></b>
+<br>• <b>Information Collection </b><br>When you browse any Entercom radio station Web site, you do so anonymously. Personal information -- including your e-mail address -- is not automatically collected. Some of our Web sites, however, may request that you voluntarily supply us with personal information, including your E-mail address for purposes of participating in correspondence, site registration, streaming player registration, membership, making a purchase, contests, online surveys, to contact you as part of a promotion, to meet legal requirements, to keep you informed about products and services in which you may have an interest, and/or to analyze the collected information and use this data for contacts by research firms. For these types of activities we may require your name, e-mail address, gender, zipcode, birthdate or other information. Other optional information may be asked (listener/customer preference information, mailing address, telephone numbers, lifestyle interests, and other demographic information). <br>
+<br>Like many other commercial Web sites, some Entercom web sites may use a standard technology called a "cookie" to collect information about how our site is used. Please read About Cookies below for more information. <br>
+<br>• We give listeners/customers access to their data online. A listener/customer may change, update or add additional information about themselves at any time through our radio stations' web sites, which offer this feature. If a station does not currently provide this ability, listeners/customers can still change their data profile by contacting the local station. All Entercom radio stations will provide this feature in the near future. <br>
+<br>• We attempt to limit access to listener/customer data to those who specifically need it to conduct their business with the company. While we use security techniques designed to protect our listener/customer data, given constantly changing technologies that may exist, we do not guarantee the security of our listener/customer data. <br>
+<br>• We anonymously track visitor usage of our sites for general marketing purposes, such as determining what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas. We track this activity utilizing an out-sourced product, WebTrends Live, from WebTrends Corporation.. The Privacy Statement for Visitors to Sites Tracked by WebTrends Live can be found at: 
+<br><a href="http://www.webtrendslive.com/privacy_policy.htm#priv2"> http://www.webtrendslive.com/privacy_policy.htm#priv2</a> <br>
+
+<br>•<b> Information Use</b>
+<br>If you provide us with your E-mail address, or have done so in the past, we may send you E-mail offers, surveys, newsletters or other types of contacts. These are based on information you provided in your membership application, registration forms, in surveys, from information that may indicate purchasing preferences and lifestyle, as well as information available from external sources, such as census bureau data. <br>
+<br>• We use information generally to compile statistical and user profile data, to perform research using the compiled data including disclosure of user information to research firms retained by KNDD-FM, to keep in contact with users and provide them with a better interactive experience. We may use your information specifically for the following purposes: to provide easy access every time you return to the site without requiring re-entry of registration information; to keep you informed about products and services in which you may have interest; to complete business transactions; to contact you as part of a promotion; to allow you to make a posting on the Site; to administer individual accounts; to provide customer support; to meet legal requirements; to provide Internet security; and/or to analyze the collected information and use this data for contacts by research firms. Also, in the event that company or the radio station is involved in a sale of a substantial portion of our business assets, listener/customer information may be among the transferred assets. <br>
+<br>• We work closely with our business partners and certain other third parties who may perform functions on our behalf, such as fulfilling orders, providing promotional materials to our users, sending e-mail, managing data, processing credit card payments or providing customer service. They have access to your personal information only to the extent necessary to perform their functions and may not use it for any other purpose. Further, these business partners and other third parties may from time to time wish to extend special offers to you on their own behalf. We may use your personal information to assist our business partners in offering you these products, services and information and may act as an intermediary (for instance, sending you e-mail on their behalf). <br>
+<br> • The data you provide is used to enhance the services and offers our radio stations bring you. As a result of providing personal information, Entercom radio stations can provide a more customized online experience, making your interaction with us more productive, helpful and fun. You can also expect to receive occasional communications targeted directly toward your lifestyle interests. <br>
+<br>•<b> Declining E-mail Offers</b> <br>Entercom provides listeners/customers with an easy means to decline receiving E-mail offers and recognizes the importance of providing you with choices. At any time, you may request to discontinue receiving these offers from us by simply replying to the E-mail address included in every e-mail message you receive from an Entercom radio station. <br>
+<br>• <b>Other Activity Tracking</b> <br>Some radio stations do monitor click-throughs to URL's found in our email messages. The click-through rate is reviewed in order to: track participation in contests in order to judge effectiveness and to award prizes; track listener interests; track response rates for station marketing purposes or to report to a client in aggregate form only, the response of listeners. Individual activity is never shared with employees or third parties. <br>
+<br>•<b> Children</b> <br>Entercom does not knowingly solicit data from children, and we will not knowingly market to children. Entercom adheres to COPPA - the Children's Online Privacy Protection Act. Our websites are general audience websites which are not directed to children generally, including children under the age of 13. It is our policy to discard any information which is obtained from any child who is under the age of 13. 
+<br><br>• What else should I know about my privacy? Third party Internet sites and services accessible through Entercom radio stations have separate privacy and data collection practices, independent of us. Entercom has no responsibility or liability for these independent policies or actions. In addition, you are solely responsible for maintaining the secrecy of your passwords, membership ID, or any account information. Please be careful and responsible whenever you are online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we aim to protect your personal information, Entercom cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. <br>
+
+<br>We will make all reasonable efforts to adhere to the above privacy standards. However, the policy should not be construed as a contractual undertaking. Additional restrictions may be imposed to comply with state and local laws, and/or station specific programs, products and services. Entercom reserves the right to alter, amend or supplement the privacy standards at anytime. <br>
+<br><b><i>KNDD-FM
+<br>1100 Olive Way, Ste 1650
+<br>Seattle, WA 98101-1863</i></b><br>
+<br>
+<br><b>Effective Date: December 1, 2001<br>
+<br></b><center><b>About Cookies</b> <br></center>
+<br>Cookies were originally designed to help a Web site distinguish a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie is a small string of text that a Web site can send to your browser. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your E-mail address. Currently, Web sites use cookies to enhance the user's visit; in general, cookies can securely store a user's ID and password, personalize home pages, identify which parts of a site have been visited or keep track of selections in a "shopping cart." <br>
+<br>If you are just browsing an Entercom Communications radio station Web site, a cookie identifies only your browser. If you become a registered user on an Entercom Communications radio station Web site (with a designated user ID and password), we may use cookies so that we can provide personalized information that we believe will be of value to you based on preferences you have stated while visiting the site. It is possible to set your browser to inform you when a cookie is being placed -- this way, you have the opportunity to decide whether to accept the cookie. If you are just browsing one of our sites and are not a registered user, you do not have to accept a cookie and you may still continue utilizing the site, though you might not be able to experience the site to the fullest extent. <br>
+<br>You can find out to set your cookie preferences by visiting the site of the browser software you use, such as Netscape, Microsoft Internet Explorer or AOL. 
+<br><br>
+</font>
+</font></td>
+              </tr>
+            </tbody></table>
+            <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p></td>
+        <td width="1" align="left" valign="top" bgcolor="#000000">
+        <img border="0" src="/images/trans.gif" width="1" height="1"></td>
+        <td width="186" align="left" valign="top" background="/images/inside_right_back.gif">
+        <table border="0" cellpadding="0" cellspacing="0" width="186">
+          <tbody><tr>
+            <td>
+            <img border="0" src="http://images.radcity.net/3005/335233.jpg" width="186" height="175"></td>
+          </tr>
+          <tr>
+            <td bgcolor="#000000" background="/images/trans.gif">
+            <img border="0" src="/images/trans.gif" width="1" height="1"></td>
+          </tr>
+        </tbody></table>
+        <div align="right">
+          <table border="0" cellpadding="0" cellspacing="3" bgcolor="#000000">
+            <tbody><tr>
+              <td>
+              </td></tr><tr>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=4476&amp;adRunID=9087"><img src="http://images.radcity.net/PublicService/adc_gs_12yearold_130x100_fm.gif" border="0" alt="Girls Go Tech"></a></td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=1565&amp;adRunID=9094"><img src="http://images.radcity.net/4128/238248.gif" border="0" alt=""></a></td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=4487&amp;adRunID=9087"><img src="http://images.radcity.net/PublicService/adc_pca_stove_130x100_fmw.gif" border="0" alt="Prevent Child Abuse"></a></td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=1567&amp;adRunID=9095"><img src="http://images.radcity.net/4128/238242.gif" border="0" alt=""></a></td>
+</tr>
+
+            
+          </tbody></table>
+        </div>
+        </td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img border="0" src="/images/trans.gif" width="1" height="1"></td>
+  </tr>
+  <tr>
+    <td align="right" width="9"><img border="0" src="/images/trans.gif" width="9" height="9"></td>
+    <td align="right" width="741" colspan="3" height="24" background="/images/both_bottom_back.gif"><form action="/default.asp" method="post" target="_top" id="form2" name="form2"><select name="u" size="1" class="gDropdown" onchange="submit();">
+<option value="/">-- Site Navigation --</option>
+	
+		<option value="/">Home </option>
+	
+      <!--<option value=""><b></option>-->
+
+      <!--<option value=""><b></option>-->
+
+     <!-- <option value=""><b></option>-->
+
+      <option value="/andysavageandthemorningend.asp">And Savage and the Morning End</option>
+
+      <option value="/musicnews.asp">Music News</option>
+
+      <option value="/concertcalendar.asp">End Concerts</option>
+
+      <option value="/ontheend.asp">On the End</option>
+
+      <option value="/newendmusic.asp">New End Music</option>
+
+      <option value="/endevents.asp">End Events</option>
+
+      <option value="/endsessions.asp">End Sessions</option>
+
+      <option value="/yourendlife.asp">Your End Life</option>
+
+      <option value="/contestsandgames.asp">Contests and Games</option>
+
+      <option value="/meettheend.asp">Meet The End</option>
+
+      <option value="/endjocks.asp">End Jocks</option>
+
+      <option value="/programschedule.asp">Program Schedule</option>
+
+      <option value="/specialtyshow.asp">Specialty Shows</option>
+
+      <option value="/interviews.asp">Interviews</option>
+
+      <option value="/photowall.asp">Photos</option>
+
+      <option value="/endlists.asp">End Lists</option>
+
+      <option value="/advertisers.asp">Advertisers</option>
+
+      <option value="/playlist.asp">Playlist</option>
+
+      <option value="/peoplescountdown.asp">People's Choice Countdown</option>
+
+      <option value="/seattlemusic.asp">Seattle Music</option>
+
+      <option value="/endfest.asp">EndFest</option>
+
+      <option value="/deckthehallball.asp">Deck the Hall Ball</option>
+
+      <option value="/endeventarchives.asp">End Event Archives</option>
+
+      <option value="/endsessions.asp">End Sessions</option>
+
+      <option value="/whereitsatstreetteam.asp">Where It's At</option>
+
+      <option value="/community/communitycalendar.asp">Club Calendar</option>
+
+      <option value="/frameset.asp?f=http://www.amiinternet.com/ski/media_affiliates/kndd/kndd.html">Snow Patrol Report</option>
+
+      <option value="/privacypolicy.asp">Privacy Policy</option>
+
+      <option value="/advertisinginfo.asp">Advertising Info</option>
+
+      <option value="/contactus.asp">Contact Us</option>
+
+      <option value="/jobs.asp">Jobs</option>
+
+      <option value="/eeo.asp">EEO</option>
+
+</select>
+&nbsp;&nbsp;<a href="/sendpage.asp" onmouseover="imageOn('email');" onmouseout="imageOff('email');"><img border="0" src="/images/both_menu_emailpage_off.gif" width="121" height="17" name="email"></a><a href="javascript:MM_openBrWindow('/privacypolicy.asp?t=p&amp;')" onmouseover="imageOn('print');" onmouseout="imageOff('print');"><img border="0" src="/images/both_menu_print_off.gif" width="108" height="17" name="print">
+
+
+</a></form></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+    <img border="0" src="/images/trans.gif" width="16" height="10"></td>
+    <td align="left" valign="top">
+    <img border="0" src="/images/trans.gif" width="10" height="10"><br>
+      <a class="gCopyright" href="/privacypolicy.asp">Privacy Policy</a><br>
+      <font class="gCopyright">Copyright © 2003 Entercom and <a class="gCopyright" href="Javascript:displayNotice();">First MediaWorks</a><br><a class="gCopyright" target="_blank" href="http://www.firstmediaworks.com/poweredby/default.asp?d=www.1077theend.com">Powered by First MediaWorks</a></font>
+<script language="Javascript">
+<!--
+function displayNotice()
+{
+noteWin = window.open("http://firstmediaworks.com/PopUpCopyrightNotice.asp", "noteWindow", "location=no,status=no,toolbar=no,menubar=no,width=520,height=500,scrollbars=yes,resizable=yes");
+noteWin.focus();
+}
+//-->
+</script>
+<br>
+    <!-- START OF WEBTRENDS LIVE TAG -->
+<!-- Copyright 2003 NetIQ Corporation -->
+<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/wtl_system/privacy_policy.htm -->
+
+<!-- eCommerce Revenue Tracking (patent pending) -->
+<!-- For eCommerce implementation, visit the following page: -->
+<!-- http://www.webtrendslive.com/wtl_system/support/online_help/open_help.asp?helppage=techsupport_code_ecommerce&redirection=help -->
+
+<script language="JavaScript1.2">
+
+<!--
+var wtl_imgarray = new Array; 
+var wtl_ptr = 0;
+function wtl_Tag6(wtl_TagID,wtl_SID,wtl_URL,wtl_Title,CONTENTGROUP)
+{
+	function wtl_createImage(wtl_src)
+	{
+		if (document.images)
+		{
+			wtl_imgarray[wtl_ptr] = new Image;
+			wtl_imgarray[wtl_ptr].src = wtl_src;
+			wtl_ptr++; 
+		}
+	}
+	
+	function D8( d)
+	{
+		var fwd=1, seed= new Date('01/01/2000'), key= "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+		var s= key.charAt( d.getFullYear()-2000)+key.charAt( d.getMonth()+1)+key.charAt( d.getDate());
+		s+= key.charAt( d.getHours())+key.charAt( d.getMinutes())+key.charAt( d.getSeconds());
+		while( seed.getDay()!=fwd) seed= new Date(seed.getTime() + 86400000);
+		var w= Math.floor( (d.getTime()-(seed.getTime()+86400000)) / 604800000 );
+		s+= key.charAt( (w-(w%16))/16 );
+		s+= key.charAt( w%16);
+		return s;
+	}
+
+	function A( B, C)
+	{
+		W+="&"+B+"="+escape(C);
+	}
+	
+	var t = new Date();
+	var W="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S" + wtl_SID + "/button6.asp?tagver=" + wtl_TagVer + "&si=" + wtl_TagID + "&fw=" + wtl_FWD;
+	A( "server", typeof(SERVER)== "string" ? SERVER : "");
+	A( "order", typeof(ORDER)== "string" ? ORDER : "");
+	A( "Group", typeof(CONTENTGROUP)== "string" ? CONTENTGROUP : "");
+	A( "invoice", typeof(INVOICE)== "string" ? INVOICE : "");
+	A( "cartview", typeof(CARTVIEW)== "string" ? CARTVIEW : "");
+	A( "cartadd", typeof(CARTADD)== "string" ? CARTADD : "");
+	A( "cartremove", typeof(CARTREMOVE)== "string" ? CARTREMOVE : "");
+	A( "checkout", typeof(CHECKOUT)== "string" ? CHECKOUT : "");
+	A( "cartbuy", typeof(CARTBUY)== "string" ? CARTBUY : "");
+	A( "adcampaign", typeof(ADCAMPAIGN)== "string" ? ADCAMPAIGN : "");
+	A( "tz", t.getTimezoneOffset());
+	A( "ch", t.getHours());
+	A( "cl", D8(t));
+	A( "ti", wtl_Title);
+	A( "url", wtl_URL);
+	A( "rf", window.document.referrer);
+	A( "js", "Yes");
+	A( "ul", navigator.appName=="Netscape" ? navigator.language : navigator.userLanguage);
+	if(typeof(screen)=="object")
+	{
+	A( "sr", screen.width+"x"+screen.height);
+	A( "cd", screen.colorDepth);
+	A( "jo", navigator.javaEnabled() ? "Yes" : "No");
+	}
+
+	if( W.length>2048 && navigator.userAgent.indexOf('MSIE')>=0)
+		W= W.substring( 0, 2043)+"&tu=1";
+
+	wtl_createImage(W);
+}
+//-->
+</script>
+
+<!-- Code can be separated at this junction -->
+
+<script language="JavaScript">
+
+<!--
+	var wtl_TagVer = 6;
+	var wtl_FWD = 0;
+	var wtl_url = document.URL;
+	var wtl_title = document.title;
+	var wtl_TagID = 16424;
+	var wtl_SID = "002-00-7-10-140949-16424";
+
+	var ORDER= "";
+	var SERVER= "";
+	var CONTENTGROUP= "";
+	var INVOICE= "";
+	var CARTVIEW= "";
+	var CARTADD= "";
+	var CARTREMOVE= "";
+	var CHECKOUT= "";
+	var CARTBUY= "";
+	var ADCAMPAIGN= "";
+
+	wtl_Tag6(wtl_TagID,wtl_SID,wtl_url,wtl_title,CONTENTGROUP);
+
+//-->
+</script>
+
+<noscript>
+<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S002-00-7-10-140949-16424/button6.asp?tagver=6&si=16424&fw=0&js=No">
+</noscript>
+
+<!-- END OF WEBTRENDS LIVE TAG --> <img border="0" src="/images/trans.gif" width="10" height="10"></td>
+  </tr>
+</tbody></table>
+
+
+
+<div id="sub3" style="width:125px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(3);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(3);"> 
+  <table width="125" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="60" align="left" valign="top" background="/images/both_dropdown_back.gif">
+       
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/endjocks.asp" class="gNavText">End Jocks</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/programschedule.asp" class="gNavText">Program Schedule</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/specialtyshow.asp" class="gNavText">Specialty Shows</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/interviews.asp" class="gNavText">Interviews</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/photowall.asp" class="gNavText">Photos</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/endlists.asp" class="gNavText">End Lists</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/advertisers.asp" class="gNavText">Advertisers</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          </td></tr>
+    <tr>
+      <td height="9" align="left" valign="top"><img src="/images/both_dropdown_bottom.gif" width="125" height="9"></td>
+    </tr>
+  </tbody></table>
+</layer></div>
+ <div id="sub4" style="width:125px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(4);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(4);"> 
+  <table width="125" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="60" align="left" valign="top" background="/images/both_dropdown_back.gif">
+       
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/playlist.asp" class="gNavText">Playlist</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/peoplescountdown.asp" class="gNavText">People's Choice Countdown</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/seattlemusic.asp" class="gNavText">Seattle Music</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          </td></tr>
+    <tr>
+      <td height="9" align="left" valign="top"><img src="/images/both_dropdown_bottom.gif" width="125" height="9"></td>
+    </tr>
+  </tbody></table>
+</layer></div> 
+<div id="sub5" style="width:125px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(5);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(5);"> 
+  <table width="125" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="60" align="left" valign="top" background="/images/both_dropdown_back.gif">
+       
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/endfest.asp" class="gNavText">EndFest</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/deckthehallball.asp" class="gNavText">Deck the Hall Ball</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/endeventarchives.asp" class="gNavText">End Event Archives</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          </td></tr>
+    <tr>
+      <td height="9" align="left" valign="top"><img src="/images/both_dropdown_bottom.gif" width="125" height="9"></td>
+    </tr>
+  </tbody></table>
+</layer></div> 
+<div id="sub6" style="width:125px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(6);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(6);"> 
+  <table width="125" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="60" align="left" valign="top" background="/images/trans.gif">
+      <img src="/images/trans.gif">
+      </td>
+    </tr>
+  </tbody></table>
+</layer></div>  
+<div id="sub7" style="width:125px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(7);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(7);"> 
+  <table width="125" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="60" align="left" valign="top" background="/images/both_dropdown_back.gif">
+       
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/whereitsatstreetteam.asp" class="gNavText">Where It's At</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/community/communitycalendar.asp" class="gNavText">Club Calendar</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/frameset.asp?f=http://www.amiinternet.com/ski/media_affiliates/kndd/kndd.html" class="gNavText">Snow Patrol Report</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          </td></tr>
+    <tr>
+      <td height="9" align="left" valign="top"><img src="/images/both_dropdown_bottom.gif" width="125" height="9"></td>
+    </tr>
+  </tbody></table>
+</layer></div> 
+
+</body></html>
