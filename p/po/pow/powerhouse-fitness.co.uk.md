@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003014936id_/http%3A//powerhouse-fitness.co.uk/company_info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604145550id_/http%3A//powerhouse-fitness.co.uk/company_info/privacy.htm) for the most accurate reproduction.*
 
 # A Powerhouse® Website: Exercise Equipment, Fitness Equipment, Johnson Exercise Equipment, Ellipticals, Commercial Exercise Equipment
 
@@ -6,6 +6,7 @@
 ---|---|---|---  
 |  |  | We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service.  
 |  |  | We will give you the chance to refuse any marketing email from us.  
+|  |  | Under the Privacy and Electronic Communications Act (passed into law on 11 Dec 03) we do not send marketing emails to non-customer, personal email addresses ('spam').  
 |  |  | We will confirm all your order details by e-mail or post.  
 |  |  | 
 
