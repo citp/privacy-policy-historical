@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vietnetcenter.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402225627id_/http%3A//www.vietnetcenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vietnetcenter.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802140730id_/http%3A//www.vietnetcenter.com/privacy.html) for the most accurate reproduction.*
 
 # VietNetCenter! Privacy Statement - Vietnamese Network Center - Viet Web Index, Viet Entertainment & Viet Search Engine for Vietnamese Communities and Vietnamese around the world. You also can search for Airline Tickets, Air fares, Air Ticket, Hotel Reser
 
