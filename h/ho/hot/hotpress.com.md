@@ -1,0 +1,24 @@
+> *The following text is extracted and transformed from the hotpress.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603145540id_/http%3A//www.hotpress.com/music/1278227.html) for the most accurate reproduction.*
+
+# Hotpress Privacy Policy
+
+  | 
+
+hotpress.com and its associated companies respect your right to privacy and this statement sets out hotpress.com's policy towards safeguarding information which you disclose to us. 
+
+While hotpress.com will never wilfully disclose information relating to you which could be used to identify you on an individual basis to any third party without first receiving your express permission, you acknowledge that hotpress.com may disclose certain registration information in the aggregate to a third party, or may use this information to direct information relating to topics, goods or services to you which we feel will be of interest to you.
+
+In any case, where hotpress.com asks you for personal information, such as your name and address, from which you can be identified on an individual basis, we will only do this where we require that information for specific purposes, for example registration. In every case, we will let you know what we intend doing with that information before collecting it, so that you can decide whether or not to furnish that information to us. If at any time after giving us this information you decide that you no longer wish us to hold or use this information, or in the case that the information becomes out of date, you are free to notify us, and we will use all reasonable endeavours to remove or rectify the information promptly.
+
+You acknowledge and agree that in certain circumstances we may be obliged to disclose personal information relating to you to third parties, for example, in order to conform to any requirements of law or to comply with any legal process, as well as to protect and defend the rights of property of hotpress.com and/or our other customers.
+
+You should be aware that each time you visit a website, general information about your visit is retained. Statistical and other analytical information is collected on an aggregate and non-individual specific basis of all browsers who visit the site. This statistical and analytical information provides us with general and not individually specific information about the number of people who visit this website; the number of people who return to this site; the pages that they visit; where they were before they came to this site and the page and site at which they exited. This information helps us monitor traffic on our website, so that we can manage the website's capacity and efficiency. It also helps us to understand which parts of this website are most popular, and generally to assess user behaviour and characteristics in order to measure interest in and use of the various areas of the website. This type of non-personal information and data can be collected through the standard operation of our Internet servers and logs as well as "cookies". One simple way to prevent the use of cookies is to activate the facility which is available in most web browsers that enables you to deny or accept cookies. However, you should realise that cookies may be necessary in order to provide you with certain features such as the customised delivery of certain information.
+
+You should also be aware that where you link to another website from the hotpress.com website, that hotpress.com has no control over that other website. Accordingly, hotpress.com cannot guarantee that the controller of that website will respect your privacy in the same manner as hotpress.com. 
+
+Finally, you should be aware that personal information which you disclose by way of message boards or chat rooms can be collected and used by third parties who are unknown to you or to hotpress.com. Therefore, hotpress.com gives no guarantees in relation to the security of information which you disclose on line, and you acknowledge and agree that you do so at your own risk. You also acknowledge and agree that there are certain inherent risks in use of the Internet in respect of which hotpress.com has no liability.
+
+hotpress.com reserves the right in its sole discretion to amend this privacy statement at any time, and we should regularly check this privacy statement for any amendments.
+
+  
+
