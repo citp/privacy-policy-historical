@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621053709id_/http%3A//ultimatesoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004174544id_/http%3A//ultimatesoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # Ultimate Software :: Privacy Policy
 
@@ -23,8 +23,6 @@ Ultimate Software is sensitive to privacy issues associated with using the Inter
 **E-mail Feedback**
 
   * Our visitors have the option to provide Ultimate Software feedback about our Web site via an e-mail link that captures name and e-mail address. Ultimate Software does not retain this information on file. 
-
-
 
 Ultimate Software's Web site contains links to other organizations' Web sites. Please be aware that Ultimate Software is not responsible for the privacy practices or content of these sites. 
 
