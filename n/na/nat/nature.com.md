@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213740id_/http%3A//npg.nature.com/npg/servlet/Content%3Fdata%3Dxml/08_privacy.xml%26style%3Dxml/08_privacy.xsl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216091811id_/http%3A//npg.nature.com/npg/servlet/Content%3Fdata%3Dxml/08_privacy.xml%26style%3Dxml/08_privacy.xsl) for the most accurate reproduction.*
 
 # Nature Publishing Group
 
@@ -37,7 +37,7 @@ DoubleClick provides advertising on the Nature Publishing Group websites.As a re
 After registering on the Nature Publishing Group's websites, you will be automatically opted in to receive: 
 
   * Weekly Table of Contents alert from _Nature_.
-  * Weekly Table of Contents alert from Nature Science Update
+  * Weekly Table of Contents alert from news@nature.com
   * Bi-weekly E-mail alert from Nature Cancer Update
   * Occasional news from the Nature Publishing Group.
   * Occasional new product information alerts - information about new journal launches and the latest products from the Nature Publishing Group.
