@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2002-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020214223601id_/http%3A//24hourfitness.com/html/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004040100id_/http%3A//24hourfitness.com/html/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ** Privacy Policy**   
-[The Global Leader](https://web.archive.org/html/company/)
-
-Welcome to 24HourFitness.com! We want 24HourFitness.com to be your source for health and fitness information, products, services and tools. We know that your privacy is important to you, so your privacy as you use our site is very important to us. This privacy policy describes what information we gather from you, how we use that information and what we do to protect it. We hope that this privacy policy is straightforward and clear, but if you have any questions about it, please e-mail [Chief Privacy Officer](mailto:Webmaster@24HourFitness.com.com). 
+[About Us](https://web.archive.org/html/company/) Welcome to 24HourFitness.com! We want 24HourFitness.com to be your source for health and fitness information, products, services and tools. We know that your privacy is important to you, so your privacy as you use our site is very important to us. This privacy policy describes what information we gather from you, how we use that information and what we do to protect it. We hope that this privacy policy is straightforward and clear, but if you have any questions about it, please e-mail [Chief Privacy Officer](mailto:cpo@24hourfit.com). 
 
 **Information We Gather**
 
@@ -26,10 +24,13 @@ In order to maintain and improve 24HourFitness.com, we also gather some statisti
 Also, if you respond to a poll, we will aggregate your responses with those of other 24HourFitness.com members but we do not associate your response with any personally identifiable information.
 
 _Public Information_  
-24HourFitness.com provides you with many ways to submit information to be posted on our site including participating in our forums and asking our experts a question. In each of these circumstances, 24HourFitness.com gathers information from you. Be aware that anything you submit to 24HourFitness.com through these services may be made public, so please remember not to include any information you want kept private. Information submitted to forums or experts can be read, recorded and used by any third party or by 24HourFitness.com.
+24HourFitness.com provides you with many ways to submit information to be posted on our site including participating in our forums and asking our experts a question. In each of these circumstances, 24HourFitness.com gathers information from you. Be aware that anything you submit to 24HourFitness.com through these services may be made public, so please remember not to include any information you want kept private. Information submitted to forums or experts can be read, recorded and used by any third party or by 24HourFitness.com. 
 
 _Cookies_  
-Like many web sites, we use "cookies," which are stored on your computer and contain small amounts of information sent by 24HourFitness.com to your computer and read by 24HourFitness.com when you visit the different pages of our website. For example, cookies allow us to remember your username and password as you navigate around our site. Cookies also allow us to ensure that you may only respond once per day to polls or contests. For more information about cookies, please visit [The Privacy Foundation](http://www.privacyfoundation.org/).
+Like many web sites, we use "cookies," which are stored on your computer and contain small amounts of information sent by 24HourFitness.com to your computer and read by 24HourFitness.com when you visit the different pages of our website. For example, cookies allow us to remember your username and password as you navigate around our site. Cookies also allow us to ensure that you may only respond once per day to polls or contests. For more information about cookies, please visit [The Privacy Foundation](http://www.privacyfoundation.org/). 
+
+_Activity Tags_  
+Like many web sites, we use "activity tags" (also called "Spotlight tags"). These invisible tags provide information to third parties about the flow of users on our site and other web sites. 24HourFitness.com also receives reports generated from that information. Information collected through the use of activity tags on our site is never linked to any personally identifiable information you provided to 24HourFitness.com. For more information about Activity Tags, please visit [The Privacy Foundation](http://www.privacyfoundation.org/). 
 
 _Children_  
 24HourFitness.com is not designed for children. We do not knowingly collect any information from children under 13.
@@ -72,4 +73,6 @@ If we change this privacy policy in any substantial way, we will notify you at l
 
 **Questions About This Policy**
 
-If you have any questions about this privacy policy or other privacy questions about us, please email our [Chief Privacy Officer](mailto:privacy@24HourFitness.com.com). 
+If you have any questions about this privacy policy or other privacy questions about us, please email our [Chief Privacy Officer](mailto:cpo@24hourfit.com). 
+
+|  | 
