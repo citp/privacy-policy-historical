@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004043545id_/http%3A//www.sosuave.com/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602164818id_/http%3A//www.sosuave.com/home/privacy.htm) for the most accurate reproduction.*
 
 # The Don Juan Center's Privacy Policy
 
-[ The Lazy Man's Guide to One-Night Stands](http://secure.ibill.com/cgi-win/ccard/rscookie.exe?RevShareID=djadvanced&returnto=http://www.advancedmacking.com)
+[Learn Hypnotic  
+Seduction](http://www.sosuave.com/cgi-bin/absolute/redirect.cgi?link=http://hop.clickbank.net/hop.cgi?djcenter/hypnotech)
 
 [  
 Secrets](http://www.attractwomennow.com/cgi-bin/affiliates/clickthru.cgi/djcenter)
