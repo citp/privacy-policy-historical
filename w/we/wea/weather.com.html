@@ -1,458 +1,40 @@
-<!--The following is the downloaded HTML source of the weather.com privacy policy that was archived on 2002-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208105624id_/http%3A//www.weather.com/common/home/privacy.html%3Ffrom%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weather.com privacy policy that was archived on 2003-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030208011525id_/http%3A//www.weather.com/common/home/privacy.html%3Ffrom%3Dfooter) for the most accurate reproduction.-->
 
 <html><head>
 	<title>weather.com - Privacy Statement</title>
-	<!-- externals version 10.15.02.a modified by Joe Pearson -->
+	<!-- externals version 12.24.02.a modified by Nick Hess -->
 <link rel="stylesheet" type="text/css" href="http://image.weather.com/web/common/header/stylesheet/style_sheet.css" title="default">
 <meta http-equiv="MSThemeCompatible" content="Yes">
 <meta http-equiv="imagetoolbar" content="no">
-<script language="JavaScript1.2">
-<!--
-var isMinNS4 = (document.layers) ? 1 : 0;
-var isMinIE4 = (document.all) ? 1 : 0;
-var isMinIE5 = (document.getElementById&&document.all) ? 1 : 0;
-var isNS6 = (document.getElementById&&!document.all) ? 1 : 0;
-var thisX = 0;
-var thisY = 0;
-var thistdX = 0;
-var thistdY = 0;
-var thisElement;
-var thistdElement;
-var newwindow = '';
-var OAS_MJX_on;
-function goSmartLinks(thisLink) {
-	var thisCookie = GetCookie("LocID");
-	if (thisCookie.length < 1) {
-		return true;
-	} else {
-		document.location = (thisLink + thisCookie + "?from=smartlinks");
-		return false;
-	}
-}	
-function goSmartLink(thisLink, thisTrackingString) {
-	var thisCookie = GetCookie("LocID");
-	var thisUPLocID = getUserPreferences("11");
-	if (thisUPLocID.length >= 5) {
-		document.location = (thisLink + thisUPLocID + "?from=" + thisTrackingString);
-		return false;
-	} else if (thisCookie.length >= 5) {
-		document.location = (thisLink + thisCookie + "?from=" + thisTrackingString);
-		return false;
-	} else {
-		return true;
-	}
-}	
-function doIntercept(mapUrl,mapHandle,mapParams) {
-	if (!getUserPreferences("3")||getUserPreferences("3")==" "||getUserPreferences("3")=="null"||!getUserPreferences("4")||getUserPreferences("4")==" "||getUserPreferences("4")=="null") {
-		mapWindowOpen(mapUrl,mapHandle,mapParams);
-	} else {
-		var vertLocation = mapUrl.split("?");
-		var newLocation = vertLocation[1].split("&");
-		var newLoc = unescape(newLocation[0]);
-		if (newLocation[1]) {
-			smartTrack((newLoc+"?"+newLocation[1]),'%ref%');
-		} else {
-			smartTrack(newLoc,'%ref%');
-		}
-	}
-	return false;
-}
-function getUserPreferences (itemno) {
-	var getUP = GetCookie("UserPreferences");
-	if (getUP.length > 4) {
-		var splitUP = getUP.split("|");
-		if (splitUP[itemno]) {
-			var myVal = unescape(splitUP[itemno]);
-			return myVal;
-		} else {
-			return "";
-		}
-	} else {
-		return "";
-	}
-}
-function getChannelPrefs (itemno) {
-	var getUP = GetCookie("ChannelPrefs");
-	if (getUP.length > 2) {
-		var splitUP = getUP.split("|");
-		if (splitUP[itemno]) {
-			var myVal = unescape(splitUP[itemno]);
-			return myVal;
-		} else {
-			return "";
-		}
-	} else {
-		return "";
-	}
-}
-function setUserPreferences (itemno, itemval) {
-	var expdate = new Date ();
-	FixCookieDate (expdate);
-	expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 365));
-	var getUP = GetCookie("UserPreferences");
-	var splitUP = getUP.split("|");
-	if (!splitUP[1] || (splitUP[1].length < 1)) splitUP[1] = "Undecided";
-	splitUP[itemno] = itemval;
-	var vertCookie = splitUP.join("|");
-	SetCookie ("UserPreferences", vertCookie, expdate, "/", ".weather.com");
-	return true;
-}
-function fixUserPreferences () {
-	var expdate = new Date ();
-	FixCookieDate (expdate);
-	expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 365));
-	var getUP = GetCookie("UserPreferences");
-	var splitUP = getUP.split("|");
-	if (!splitUP[1]) {
-		splitUP[1] = "Undecided";
-	} else {
-		if (splitUP[1].length < 1) {
-			splitUP[1] = "Undecided";
-		}
-	}
-	if (splitUP[16]) {
-		splitUP.splice(16,1);
-	}
-	var vertCookie = splitUP.join("|");
-	SetCookie ("UserPreferences", vertCookie, expdate, "/", ".weather.com");
-	return true;
-}
-function setChannelPrefs (itemno, itemval, itempath) {
-	var expdate = new Date ();
-	FixCookieDate (expdate);
-	expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 365));
-	var getUP = GetCookie("ChannelPrefs");
-	var splitUP = getUP.split("|");
-	for (var i=0;i<=8;i++){
-		if (!splitUP[i] || (splitUP[i].length < 1)) splitUP[i] = -1;
-	}
-	splitUP[itemno] = itemval;
-	var vertCookie = splitUP.join("|");
-	SetCookie ("ChannelPrefs", vertCookie, expdate, itempath, ".weather.com");
-	return true;
-}
-function getCookieVal (offset) {
-	var endstr = document.cookie.indexOf (";", offset);
-	if (endstr == -1)
-		endstr = document.cookie.length;
-	return unescape(document.cookie.substring(offset, endstr));
-}
-function GetCookie (name) {
-	var arg = name + "=";
-	var alen = arg.length;
-	var clen = document.cookie.length;
-	var i = 0;
-	while (i < clen) {
-		var j = i + alen;
-		if (document.cookie.substring(i, j) == arg)
-			return getCookieVal (j);
-		i = document.cookie.indexOf(" ", i) + 1;
-		if (i == 0) break; 
-	}
-	return "";
-}
-function DeleteCookie (name,path,domain) {
-	if (GetCookie(name)) {
-		document.cookie = name + "=" +
-			((path) ? "; path=" + path : "") +
-			((domain) ? "; domain=" + domain : "") +
-			"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
-	}
-}
-function FixCookieDate (date) {
-	var base = new Date(0);
-	var skew = base.getTime(); // dawn of (Unix) time - should be 0
-	if (skew > 0)  // Except on the Mac - ahead of its time
-		date.setTime (date.getTime() - skew);
-}
-function SetCookie (name,value,expires,path,domain,secure) {
-	document.cookie = name + "=" + escape (value) +
-		((expires) ? "; expires=" + expires.toGMTString() : "") +
-		((path) ? "; path=" + path : "") +
-		((domain) ? "; domain=" + domain : "") +
-		((secure) ? "; secure" : "");
-}
-function smartTrack(URL,TS) {
-	if (TS.length >= 1) {
-		if (URL.indexOf('?') > 1) {
-			URL = URL + '&from=' + TS;
-		} else {
-			URL = URL + '?from=' + TS;
-		}
-	}
-	var thisUP = getUserPreferences(11);
-	var thisLID = GetCookie('LocID');
-	if (thisUP.length >= 5) {
-		URL = URL.replace(/%uploc%/g,thisUP);
-	} else if (thisLID.length >= 5) {
-		URL = URL.replace(/%uploc%/g,thisLID);
-	} else {
-		URL = URL.replace(/%uploc%/g,'');
-	}
-	if (thisLID.length >= 5) {
-		URL = URL.replace(/%locid%/g,thisLID);
-	} else {
-		URL = URL.replace(/%locid%/g,'');
-	}
-	var finalURL = document.location+'';
-	if (finalURL.indexOf('?') > 1) {
-		var finalOffset = finalURL.indexOf('?');
-		finalURL = finalURL.substring(0, finalOffset);
-	}
-	URL = URL.replace(/%ref%/g,finalURL);
-	if (URL.indexOf('http') == -1) {
-		var HEADER_host = new String(window.location.hostname);
-		if (HEADER_host != 'att.weather.com' && HEADER_host != 'delta.weather.com' && HEADER_host != 'beta.weather.com') {
-			HEADER_host = 'www.weather.com';
-		}
-		HEADER_host = 'http://' + HEADER_host;
-		URL = HEADER_host + URL;
-	}
-	document.location = URL;
-	return false;
-}
-function goWhatWhere(thisWhat) {
-	if (document.whatwhere.where.value == "") {
-		return true;
-	} else {
-		document.whatwhere.what.value = thisWhat;
-		document.whatwhere.submit();
-		return false;
-	}
-}	
-function mapSwap(url) {
-	if (url != "") {
-		if (url == "special") {
-			location.href = "/maps/";
-		} else {
-			if (isMinIE4) document.all.mapI.src = url;
-			if (isMinNS4) thisElement.src = url;
-			if (isNS6) document.getElementById("mapI").src = url;
-		}
-	}
-	return false;
-}
-function tdSwap(url) {
-	if (url != "") {
-		if (isMinIE4) document.all.tdI.src = url;
-		if (isMinNS4) thistdElement.src = url;
-		if (isNS6) document.getElementById("tdI").src = url;
-	}
-	return false;
-}
-function mapWindowOpen(mapUrl,mapHandle,mapParams) {
-	var thisGuy = window.open(mapUrl,mapHandle,mapParams);
-	if (isMinIE5||isNS6) thisGuy.focus();
-	return false;
-}
-function imgReplace(imgName,newImgSrc) {
-	if (document.images) {
-		document.images[imgName].src = newImgSrc;
-	}
-}
+
+<script language="JavaScript1.1" src="http://www.weather.com/common/header/javascript/externals.js"></script>
+
+<script language="JavaScript">
+<!-- 
+
 function regenerate2() {
 	return;
 }
+
 function initialize_dom_severe_scroll() {
 	return;
 }
-function goLocation( loc, trgt)	{
-	if( loc != null){
-		if( (loc.length > 0) && (loc.toLowerCase() != 'default'))
-			window.open( loc, trgt);
-	}	
-}
-function makeObjectNS4 () {
-	var ItemElement = new Layer(306);
-	ItemElement.name = "mapN";
-	ItemElement.src = mapNURL;
-	ItemElement.visibility = "show";
-	ItemElement.pageY = thisY;
-	ItemElement.pageX = thisX;
-	ItemElement.zIndex = "300";
-	return ItemElement;
-}
-function maketdObjectNS4 () {
-	var ItemtdElement = new Layer(306);
-	ItemtdElement.name = "tdN";
-	ItemtdElement.src = tdNURL;
-	ItemtdElement.visibility = "show";
-	ItemtdElement.pageY = thistdY;
-	ItemtdElement.pageX = thistdX;
-	ItemtdElement.zIndex = "300";
-	return ItemtdElement;
-}
-function loadTenday() {
-	thistdX = document.tdholdspace.x;
-	thistdY = document.tdholdspace.y;
-	thistdElement = maketdObjectNS4();
-}
+
 function onPageStart() {
-	regenerate2();
-	if (isMinNS4) {
-		if (document.images["holdspace"]) {
-			thisX = document.images["holdspace"].x;
-			thisY = document.images["holdspace"].y;
-			thisElement = makeObjectNS4();
-		}
-	}
-	if(document.getElementById){
-		initialize_dom_severe_scroll();
-	}
+    regenerate2();
+    if (isMinNS4 && document.images["holdspace"]) {
+	    thisX = document.images["holdspace"].x;
+	    thisY = document.images["holdspace"].y;
+	    thisElement = makeObjectNS4();
+    }
+    if (document.getElementById) initialize_dom_severe_scroll();
 }
-function hugMe() {
-	var WWW_host = new String(window.location.hostname);
-	// fix for Cobrand 1.0 sites
-	if (WWW_host != 'delta.weather.com' && WWW_host != 'att.weather.com') WWW_host = 'www.weather.com';
-	WWW_host = 'http://' + WWW_host;
-	var thisDay = new Date();
-	var greetString="";
-	if (getUserPreferences("13")&&getUserPreferences("13").length > 2){
-		var thisMonth = thisDay.getMonth()+1;
-		var thisDate = thisDay.getDate();
-		var yourDay = getUserPreferences("13").split("/");
-		if (yourDay[0].substring(0,1) == "0") yourDay[0]=yourDay[0].substring(1,2);
-		if (yourDay[1].substring(0,1) == "0") yourDay[1]=yourDay[1].substring(1,2);
-		if (thisMonth == parseInt(yourDay[0])&&thisDate == parseInt(yourDay[1])) greetString = "Happy Birthday, ";
-	}
-	if (greetString.length<1) {
-		var thisHour = thisDay.getHours();
-		if (thisHour < 5) {
-			greetString = "Good Night, ";
-		} else if (thisHour < 12) {
-			greetString = "Good Morning, ";
-		} else if (thisHour < 18) {
-			greetString = "Good Afternoon, ";
-		} else {
-			greetString = "Good Evening, ";
-		}
-	}
-	if (getUserPreferences("11") && getUserPreferences("11").length > 1) {
-		thisUPLocID = getUserPreferences("11");
-		if (getUserPreferences("10") && getUserPreferences("10").length > 1) { 
-			thisVar = unescape(getUserPreferences("10"));
-			thisUPPresName = thisVar.replace(/\+/g, " ");
-		} else {
-			thisUPPresName = thisUPLocID;
-		}
-		if (getUserPreferences("12")) {
-			thisUPName = unescape(getUserPreferences("12"));
-			thisUPName = thisUPName.replace(/\+/g, " ");
-		} else {
-			thisUPName = "";
-		}
-		document.write("<B>"+greetString+thisUPName+"!</B>  &nbsp;<FONT CLASS=\"captionText\">(<A HREF=\""+WWW_host+"/common/home/hugme.html\">Change Location</A>)</FONT><BR>\n");
-		if (getUserPreferences("16") && getUserPreferences("16").length > 1) {
-			if (getUserPreferences("16") == 'Travel') {
-				document.write("<FONT CLASS=\"captionText\"><A HREF=\""+WWW_host+"/outlook/travel/local/"+thisUPLocID+"\">"+thisUPPresName+"</A></FONT>");
-			} else if (getUserPreferences("16") == 'Health') {
-				document.write("<FONT CLASS=\"captionText\"><A HREF=\""+WWW_host+"/outlook/health/local/"+thisUPLocID+"\">"+thisUPPresName+"</A></FONT>");
-			} else if (getUserPreferences("16") == 'Recreation') {
-				document.write("<FONT CLASS=\"captionText\"><A HREF=\""+WWW_host+"/outlook/recreation/local/"+thisUPLocID+"\">"+thisUPPresName+"</A></FONT>");
-			} else if (getUserPreferences("16") == 'SportingEvents') {
-				document.write("<FONT CLASS=\"captionText\"><A HREF=\""+WWW_host+"/outlook/sports/local/"+thisUPLocID+"\">"+thisUPPresName+"</A></FONT>");
-			} else if (getUserPreferences("16") == 'HomeAndGarden') {
-				document.write("<FONT CLASS=\"captionText\"><A HREF=\""+WWW_host+"/outlook/homeandgarden/local/"+thisUPLocID+"\">"+thisUPPresName+"</A></FONT>");
-			} else {
-				document.write("<FONT CLASS=\"captionText\"><A HREF=\""+WWW_host+"/weather/local/"+thisUPLocID+"\">"+thisUPPresName+"</A></FONT>");
-			}
-		} else {
-			document.write("<FONT CLASS=\"captionText\"><A HREF=\""+WWW_host+"/weather/local/"+thisUPLocID+"\">"+thisUPPresName+"</A></FONT>");
-		}
-	} else {
-		document.write("<A HREF=\""+WWW_host+"/common/home/hugme.html\">Want us to remember your location</A>?<BR>\n<FONT CLASS=\"captionText\">(Use this for 1-click access to your local forecast)</FONT>");
-	}
-}
-function checkForm() {
-	var WWW_host = new String(window.location.hostname);
-	// fix for Cobrand 1.0 sites
-	if (WWW_host != 'delta.weather.com' && WWW_host != 'att.weather.com') WWW_host = 'www.weather.com';
-	WWW_host = 'http://' + WWW_host;
-	if (document.whatwhere.where.value == "Enter city or US zip") {
-		alert("To get your local weather forecast, please enter a location name or US zip code.");
-		return false;
-	} else if (document.whatwhere.whatprefs.selectedIndex > 0) {
-		var thisVal = document.whatwhere.whatprefs.options[document.whatwhere.whatprefs.selectedIndex].value;
-		document.whatwhere.what.value = thisVal;
-		var retVal = changeCommandToVal(thisVal);
-		setUserPreferences('16',retVal);
-	} else if (getUserPreferences('16') && getUserPreferences('16').length > 1) {
-		var thisVal = getUserPreferences('16');
-		var retVal = changeValToCommand(thisVal);
-		document.whatwhere.what.value = retVal;
-	} else {
-		setUserPreferences('16',' ');
-		document.whatwhere.what.value = 'WeatherLocalUndeclared';
-	}
 
-	// logging
-	document.whatwhere.lswa.value=document.whatwhere.what.value;
-	document.whatwhere.lswe.value=document.whatwhere.where.value;
 
-	if (document.whatwhere.where.value.length == 5 && document.whatwhere.where.value>0 && document.whatwhere.where.value<100000) {
-		if (document.whatwhere.what.value == 'WeatherLocalTravel') {
-			document.location = WWW_host+"/outlook/travel/local/"+document.whatwhere.where.value+
-			"?lswe="+document.whatwhere.lswe.value+"&lwsa="+document.whatwhere.lswa.value;
-		} else if (document.whatwhere.what.value == 'WeatherLocalHealth') {
-			document.location = WWW_host+"/outlook/health/local/"+document.whatwhere.where.value+
-			"?lswe="+document.whatwhere.lswe.value+"&lwsa="+document.whatwhere.lswa.value;
-		} else if (document.whatwhere.what.value == 'WeatherLocalRecreation') {
-			document.location = WWW_host+"/outlook/recreation/local/"+document.whatwhere.where.value+
-			"?lswe="+document.whatwhere.lswe.value+"&lwsa="+document.whatwhere.lswa.value;
-		} else if (document.whatwhere.what.value == 'WeatherLocalSportingEvents') {
-			document.location = WWW_host+"/outlook/sports/local/"+document.whatwhere.where.value+
-			"?lswe="+document.whatwhere.lswe.value+"&lwsa="+document.whatwhere.lswa.value;
-		} else if (document.whatwhere.what.value == 'WeatherLocalHomeAndGarden') {
-			document.location = WWW_host+"/outlook/homeandgarden/local/"+document.whatwhere.where.value+
-			"?lswe="+document.whatwhere.lswe.value+"&lwsa="+document.whatwhere.lswa.value;
-		} else {
-			document.location = WWW_host+"/weather/local/"+document.whatwhere.where.value+
-			"?lswe="+document.whatwhere.lswe.value+"&lwsa="+document.whatwhere.lswa.value;
-		}
-		return false;
-	} else {
-		return true;
-	}
-}
-function changeCommandToVal(whatVal) {
-	if (whatVal == 'WeatherLocalHealth') {
-		return 'Health';
-	} else if (whatVal == 'WeatherLocalTravel') {
-		return 'Travel';
-	} else if (whatVal == 'WeatherLocalSportingEvents') {
-		return 'SportingEvents';
-	} else if (whatVal == 'WeatherLocalRecreation') {
-		return 'Recreation';
-	} else if (whatVal == 'WeatherLocalHomeAndGarden') {
-		return 'HomeAndGarden';
-	} else {
-		return ' ';
-	}
-}
-function changeValToCommand(whatVal) {
-	if (whatVal == 'Health') {
-		return 'WeatherLocalHealth';
-	} else if (whatVal == 'Travel') {
-		return 'WeatherLocalTravel';
-	} else if (whatVal == 'SportingEvents') {
-		return 'WeatherLocalSportingEvents';
-	} else if (whatVal == 'Recreation') {
-		return 'WeatherLocalRecreation';
-	} else if (whatVal == 'HomeAndGarden') {
-		return 'WeatherLocalHomeAndGarden';
-	} else {
-		return 'WeatherLocalUndeclared';
-	}
-}
-function newWindowFocus(url,wid,hei) {
-	mapWindowOpen(url,'nwin', "resizable=yes,toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes,width="+wid+",height="+hei);
-}
+
 window.onload = onPageStart;
-//-->
-</script>
-<script language="JavaScript">
-<!-- 
+
 OAS_url = 'http://www.weather.com/RealMedia/ads/'; 
 OAS_host = (window.location.hostname=='beta.weather.com')?'www.weather.com':new String(window.location.hostname);
 OAS_target = "_top"; 
@@ -504,7 +86,7 @@ if (thisDF.search(/usatoday.com/) != -1) {
 </script>
 
 <!-- end cobranding -->
-<!-- severe.css -->
+<!-- normal.css -->
 <img src="http://image.weather.com/web/blank.gif" width="1" height="2" alt="" border="0"><br>
 <table border="0" cellspacing="0" cellpadding="0" width="768">
 	<tbody><tr>
@@ -530,14 +112,25 @@ if (thisDF.search(/usatoday.com/) != -1) {
 
 
 
-<!-- tabs version 10.22.02.a last modified by Nick Hess -->
+<!-- tabs version 01.16.03.a last modified by Nick Hess -->
 <a name="atabs">
+
+
+
+
+
+
+
+
 
 
 	
 	<jsp:include page="/common/tabs/modules/peda.jsp" flush="true">
-<!-- banner version 11.7.02.a last modified by Nick Hess -->
-<table border="0" cellpadding="0" width="768" cellspacing="0" background="http://image.weather.com/web/common/banners/homepage.jpg"><tbody><tr><td valign="top" align="right"><a href="/"><img src="http://image.weather.com/web/blank.gif" border="0" width="458" height="60" alt="Click to return to home page." align="top"></a><a href="http://www.weather.com/RealMedia/ads/click_lx.ads/www.weather.com/generic/624748998/HeaderSpon/Weather_Content_HeaderSpon/header_livebyit.gif/64316564656561343364663332353530?from=footer" target="_top"><img border="0" src="http://image.weather.com/RealMedia/ads/Creatives/Weather_Content_HeaderSpon/header_livebyit.gif" alt="" height="60" width="300" align="top"></a></td></tr></tbody></table>
+<!-- banner version 01.15.03.a last modified by Nick Hess -->
+
+<table border="0" cellpadding="0" width="768" cellspacing="0" background="http://image.weather.com/web/common/banners/homepage.jpg"><tbody><tr><td valign="top" align="right"><a href="/"><img src="http://image.weather.com/web/blank.gif" border="0" width="458" height="60" alt="Click to return to home page." align="top"></a><a href="http://www.weather.com/RealMedia/ads/click_lx.ads/www.weather.com/generic/781367951/HeaderSpon/Weather_Content_HeaderSpon/header_livebyit.gif/64316564656561343365343435613230?from=footer" target="_top"><img border="0" src="http://image.weather.com/RealMedia/ads/Creatives/Weather_Content_HeaderSpon/header_livebyit.gif" alt="" height="60" width="300" align="top"></a></td></tr></tbody></table>
+
+
 
 	
 
@@ -553,19 +146,22 @@ if (thisDF.search(/usatoday.com/) != -1) {
 <td align="CENTER" valign="MIDDLE"><img src="http://image.weather.com/web/common/viewport/header/step_two.gif" alt="" width="17" height="17" border="0" align="absmiddle"></td>
 <td valign="MIDDLE" class="captionText"><select name="whatprefs">
 <option value="">See weather related to ...
+</option><option value="WeatherLocalDriving">Driving
+</option><option value="WeatherLocalSportingEvents">Events
+</option><option value="WeatherLocalGolf">Golf
 </option><option value="WeatherLocalHealth">Health
-</option><option value="WeatherLocalTravel">Travel
-</option><option value="WeatherLocalSportingEvents">Sporting Events
-</option><option value="WeatherLocalRecreation">Recreation
 </option><option value="WeatherLocalHomeAndGarden">Home &amp; Garden
+</option><option value="WeatherLocalLawn">Lawn &amp; Garden
+</option><option value="WeatherLocalRecreation">Recreation
+</option><option value="WeatherLocalSki">Ski
+</option><option value="WeatherLocalTravel">Travel
 </option></select> &nbsp;<input type="image" src="http://image.weather.com/web/common/viewport/header/go_button_orange_31x21.gif" value="Go" border="0" width="31" height="21" align="ABSMIDDLE"></td>
 <td align="LEFT" valign="middle" class="blkVerdanaText10">
 <script language="JavaScript1.2">
 <!--
 	hugMe();
 // -->
-</script><a href="http://www.weather.com/common/home/hugme.html">Want us to remember your location</a>?<br>
-<font class="captionText">(Use this for 1-click access to your local forecast)</font>
+</script>
 </td>
 </tr></tbody></table>
 <img src="http://image.weather.com/web/blank.gif" width="1" height="1" border="0" alt=""><br>
@@ -740,18 +336,17 @@ Information that is collected via IP Address, Cookie and Web Beacon technologies
 		</td>	
 	</tr>
 </tbody></table>
-<!-- footer version 11.21.02.a last modified by Joe Pearson -->
+<!-- footer version 01.09.03.a last modified by Joe Pearson -->
 
 <!-- begin footer -->
 <table width="768" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr><td width="768"><img src="http://image.weather.com/web/blank.gif" width="768" height="5" border="0"></td></tr>
 	<tr>
 		<td align="center" class="normalText">
-			<a href="/interact/feedback.html?from=footer" class="11pxLink">Tell Us What You Think</a>
 			<script language="javascript1.2">
 			<!--
 			if (isMinIE4) {
-				document.write(" | <a href=\"?\" onClick=\"window.external");
+				document.write("<a href=\"?\" onClick=\"window.external");
 				document.write(".AddFavorite (location.");
 				document.write("href,document.");
 				document.write("title);return false;\" class=\"11pxLink\">Add This Page To Your Favorites</a> | ");
@@ -773,7 +368,7 @@ Information that is collected via IP Address, Cookie and Web Beacon technologies
 </tbody></table>
 
 <script language="JavaScript" src="http://image.weather.com/common/footer/javascript/footerdata.js"></script>
-<script language="JavaScript" src="http://image.weather.com/common/footer/javascript/footer20021121.js"></script>
+<script language="JavaScript" src="http://image.weather.com/common/footer/javascript/footer20021227.js"></script>
 <script language="JavaScript">printFooter();</script>
 
 <table width="768" cellspacing="0" cellpadding="0" border="0">
@@ -810,40 +405,35 @@ if (window.location.href.indexOf("http://www.weather.com/") == 0 && (window.loca
 </script>
 </td>
 		<td width="580" align="center" valign="top" class="captionText"><img src="http://image.weather.com/web/blank.gif" width="580" height="1" border="0" alt=""><br>
-			Copyright © 1995-2002, The Weather Channel Enterprises, Inc.<br>
+			Copyright © 1995-2003, The Weather Channel Interactive, Inc.<br>
 			Your use of this site constitutes your acceptance of<br>
 			the <a href="/common/home/legal.html?from=footer" class="10pxLink">LEGAL RESTRICTIONS AND TERMS OF USE</a><p>
 			weather.com <a href="/common/home/privacy.html?from=footer" class="10pxLink">Privacy Statement</a> - Licensed by TRUSTe
 		</p></td>
 		<td width="94" align="right" valign="top"><img src="http://image.weather.com/web/blank.gif" width="94" height="1" border="0" alt=""><br>
 
-			<a class="captionTextBold">Partner</a><br>
-			<a href="http://free.aol.com/tryaolfree/index.adp?124558"><img src="http://image.weather.com/web/common/logos/aol_animated.gif" width="88" height="31" border="0" alt="AOL 7.0 Click Here"></a>
+<script language="JavaScript">
+if (window.location.href.indexOf("http://www.weather.com/") == 0 && (window.location.href.length == 23 || window.location.href.charAt(23) == '?')) document.write("<a class=\"captionTextBold\">Partner</a><br>\n<a href=\"http://free.aol.com/tryaolfree/index.adp?359389\"><img src=\"http://image.weather.com/web/common/logos/aol_blue.gif\" border=0 alt=\"Try AOL\" width=88 height=31></a>");
+</script>
 
 		</td>
 	</tr>
 </tbody></table>
 <!-- end footer -->
-<!-- campaign: 6049ADVERTISEMENTBANN_3252 page: www.weather.com/generic position: Hidden1 -->
-<!-- ((pCounter!?)or(pCounter<1))and((partner!?)or(partner!=earthlink)) -->
+<!-- campaign: 6218__X10-Q12003-POPU_4314 page: www.weather.com/generic position: Hidden1 -->
+<!-- ((pCounter!?)or(pCounter<1))and((partner!?)or(partner!=earthlink))and(xCounter!?) -->
 <script language="JavaScript">
 pCounter = GetCookie('pCounter')
 if (!pCounter) { pCounter = 0 };
 ++pCounter;
 var expdate = new Date ();
 FixCookieDate (expdate);
-expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 1));
+expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * .5));
 SetCookie ('pCounter', pCounter, '', '/', '.weather.com');
+SetCookie ('xCounter', 'yes', expdate, '/', '.weather.com');
 // --- end cookie functions
-var random = Math.floor(Math.random() * 1000000000), cdate = new Date();
-document.write('<iframe src="http://ads.specificpop.com/code?pid=87&gid=17&rid=' + random + '&dom=' + cdate.getDate() + '&dow=' + cdate.getDay() + '&hod=' + cdate.getHours() + '" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no">');
-document.write('</iframe>');
-// -->
-</script><iframe src="http://ads.specificpop.com/code?pid=87&amp;gid=17&amp;rid=428211373&amp;dom=30&amp;dow=4&amp;hod=4" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-<noscript>
-<iframe src="http://ads.specificpop.com/code?pid=87&gid=17" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no">
-</iframe>
-</noscript>
+</script>
+<script language="JavaScript" src="http://ads.x10.com/600x500/c3dlYXRoZXI2T094NU9PLmRhd/1/WTR"></script>
 
 <script language="JavaScript1.2">
 <!--
@@ -860,15 +450,8 @@ if (thisDF.search(/yahoo.com/) != -1) {
 </script>
 
 
-<script language="JavaScript1.2">
-<!--
-//	if (GetCookie("RMID") && !GetCookie("segment")) {
-//		document.write("<img src=\"http://fastcgi.weather.com/fcgi-bin/segment/"+GetCookie("RMID")+"\" alt=\"\" width=1 height=1 border=0>");
-//	}
-//-->
-</script>
 </a></center><a name="bbanner">
-<img height="1" width="1" border="0" src="http://www.weather.com/RealMedia/ads/adstream_nx.ads/noad.weather.com/noad?TopBanner">
+<img height="1" width="1" border="0" src="http://www.weather.com/RealMedia/ads/adstream_nx.ads/noad.weather.com/noad@TopBanner">
 
 
 
