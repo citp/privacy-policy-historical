@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607184856id_/http%3A//www.woodbineentertainment.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210045232id_/http%3A//www.woodbineentertainment.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
