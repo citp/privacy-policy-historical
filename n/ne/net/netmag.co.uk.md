@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmag.co.uk privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208041327id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmag.co.uk privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603184300id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
 
 # FutureNet - Privacy Policy
 
