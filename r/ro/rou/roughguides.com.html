@@ -1,0 +1,803 @@
+<!--The following is the downloaded HTML source of the roughguides.com privacy policy that was archived on 2001-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010606144548id_/http%3A//travel.roughguides.com/info/privacy.htm) for the most accurate reproduction.-->
+
+<html><head>
+<title>Privacy Statement</title>
+<script language="JavaScript">
+<!--
+var adFormName = "/info";
+//-->
+</script>
+</head>
+<body bgcolor="#000000" link="#990000" alink="#990000" vlink="#999900" onload="startup();" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0">
+<script language="JavaScript">
+<!--
+
+var doLink = 0;
+function startup() {
+	resetCombos();
+}
+//-->
+
+//tmtC_NNresizeFix
+if (document.layers) {
+origWidth = innerWidth;
+origHeight = innerHeight;}
+function reDo() {
+if (innerWidth != origWidth || innerHeight != origHeight)
+location.reload();}
+if (document.layers) onresize = reDo;
+//tmtC_NNresizeFixEnd
+</script>
+<!-- We wrap the page in an extra table to handle those pages with their own forms. --> 
+<center>
+<table width="569" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td bgcolor="#000000" width="1" height="1"><img src="/img/trans.gif"></td>
+</tr>
+    <!-- start here for ln image --> 
+    <script language="JavaScript">
+<!--
+var lnString = "<tr bgcolor=\"#ffcc33\">\n";
+	lnString += "<td height=\"29\"><a href=\"http://LearningNetwork.com/\"><img src=\"/img/strip_learningnetwork_orang.gif\" width=\"220\" height=\"29\" border=\"0\" alt=\"Learning Network\"></a><a href=\"http://k12.learningnetwork.com/\"><img src=\"/img/strip_k12_orange.gif\" width=\"51\" height=\"29\" border=\"0\" alt=\"K-12\"></a><a href=\"http://LearningNetwork.com/prodev/\"><img src=\"/img/strip_prodev_orange.gif\" width=\"82\" height=\"29\" border=\"0\" alt=\"Professional Development\"></a><a href=\"http://LearningNetwork.com/lifelong/\"><img src=\"/img/strip_lifelong_orange.gif\" width=\"60\" height=\"29\" border=\"0\" alt=\"Lifelong Learning\"></a><a href=\"http://LearningNetwork.com/reference/\"><img src=\"/img/strip_reference_orange_x.gif\" width=\"66\" height=\"29\" border=\"0\" alt=\"Reference\"></a><a href=\"http://store.learningnetwork.com/\"><img src=\"/img/strip_store_orange.gif\" width=\"45\" height=\"29\" border=\"0\" alt=\"Store\"></a></td>";
+	lnString += "</tr>";
+	lnString += "<tr bgcolor=\"#000000\">";
+	lnString += "<td><img height=1 src=\"/img/spacer.gif\" width=\"1\"></td>";
+	lnString += "</tr>";
+	var locString = "" + self.location + "";
+	if (locString.indexOf("ln.travel") > -1)
+		document.writeln(lnString);
+//-->
+</script>
+    <!-- end here for ln image --> 
+    <tr>
+<td bgcolor="#000000" width="1" height="7"><img src="/img/trans.gif"></td>
+</tr>
+</tbody></table>
+</center>
+
+<map name="header">
+   <area coords="66,35,109,46" href="/index.htm" shape="RECT">
+   <area coords="117,35,184,46" href="/spotlight/" shape="RECT">
+   <area coords="190,35,268,46" href="/talk/" shape="RECT">
+   <area coords="277,35,311,46" href="/info/" shape="RECT">
+   <area coords="351,35,407,46" href="/catalog/" shape="RECT">
+   <area coords="419,34,499,46" href="/reservations/" shape="RECT">
+ </map><table border="0" cellpadding="0" cellspacing="0" align="center" valign="top" width="569">
+<script language="JavaScript">
+<!--
+
+function locJump(elname, what, form) {
+	if (! form)
+		form = "MainForm";
+	var a = eval("document." + form + "." + elname + ".selectedIndex");
+
+	if (a >= 0) {
+		var b = eval("document.MainForm." + elname + ".options[a].value");
+		if ((b != null) && (b != "0") && (b != ""))
+		{
+			top.location.href = b;
+			return;
+		}
+	}
+	alert("Please select a " + what + ".");
+}
+
+function goExplore()
+{
+	var a = document.MainForm.explore.selectedIndex;
+
+	if (a >= 0) {
+		var newLoc = document.MainForm.explore.options[a].value;
+		if ((newLoc != null) && (newLoc != "0") && (newLoc != ""))
+		{
+			top.location.href = newLoc;
+			return;
+		}
+	}
+	alert("Please select something to explore.");
+}
+
+function goDestination()
+{
+	top.location.href = "destination.htm";
+}
+
+
+// locType will be to identify City, Country or Region
+// if neither city or country, then region
+var locType = -1;
+var adLocType;
+// city == 1
+if (locType == 1)
+	adLocType = "city=";
+
+// country == 3
+else if (locType == 3)
+	adLocType = "country=";
+
+// otherwise, region
+else
+	adLocType = "reg=";
+
+var locName = escape("");
+var newLocTypeNameTag = "";
+var href = "" + top.location + "";
+var image;
+var url;
+var adSite = "http://ad.doubleclick.net";
+var adCat = ";cat=travel;cat=guides;cat=vacations" + newLocTypeNameTag;
+var adPageName;
+
+if (href.indexOf("guides.travel") >= 0) {
+	image = "/img/rgtlogo.gif";
+	url = "http://www.roughguides.com";
+    adPageName = "www.roughguides.yahoo.com";
+}
+else {
+    image = "/img/rgtlogo.gif";
+    url = "http://www.roughguides.com";
+    adPageName = "www.roughguides.com";
+}
+	
+var rand_num = parseInt(Math.random() * 10000000);
+var adOrd = ";ord=" + rand_num;
+
+// added for sub-ad banners
+var subRandNum = parseInt(Math.random() * 50000);
+var subBannerCat = "roughguides.com/sponsor-button/dcstore/dest;ov=OX;sz=120x90";
+var subAdOrd = ";ord=" + subRandNum;
+
+function ad(){
+	var adurl;
+	adurl = adSite + "/jump/"+ adPageName + adFormName + adCat;
+	if (adFormName.indexOf("traveltalk") >= 0)			
+		adurl += adOrd + "?";
+	else if (adFormName.indexOf("info") >= 0)
+		adurl += adOrd + "?";
+	else if (adFormName.indexOf("enewsletter") >= 0)
+		adurl += adOrd + "?";
+	else if (adFormName.indexOf("catalog") >= 0)
+		adurl += "cat=music;cat=book_shopping" + adOrd + "?";
+	else	
+		adurl += adOrd + "?";
+
+//	alert(adurl);
+	window.open(adurl, "ad");
+}
+
+function subAd(){
+
+	var sAdurl;
+	sAdurl = adSite + "/jump/"+ subBannerCat + subAdOrd;
+
+//	alert(sAdurl);
+	window.open(sAdurl, "subAd");
+}
+function resetCombos() {
+
+	var currForm;
+	var currEl;
+	for (i = 0; i < document.forms.length; i++)
+	{
+		currForm = document.forms[i];
+		for (j = 0; j < currForm.elements.length; j++)
+		{
+			currEl = currForm.elements[j];
+
+			if (currEl.name.indexOf("countries") == 0)			
+				currEl.selectedIndex = 0;
+			else if (currEl.name.indexOf("cities") == 0)
+				currEl.selectedIndex = 0;
+			else if (currEl.name.indexOf("destinationIndex") == 0)
+				currEl.selectedIndex = 0;
+		}
+	}
+}
+
+function brand(){
+        window.open(url, "cobrand", "height=480,width=640,toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1");
+}
+
+//-->
+</script>
+	<tbody><tr bgcolor="#000000">
+		<td width="569">
+			<table align="left" valign="top" border="0" cellpadding="0" cellspacing="0" width="569">
+				<tbody><tr>
+					<td height="62" width="93" valign="top">
+						<a href="javascript:brand()" target="_self">
+							<script language="JavaScript">
+							<!--
+								var img_src = "<img src = \"" + eval("image") + "\" border=\"0\"";
+								img_src += "></a>";
+								document.write(img_src); 
+							//--> 
+							</script><img src="/img/rgtlogo.gif" border="0"></a>
+						
+					</td>
+
+					<td height="62" width="8"><img src="/img/trans.gif"></td>
+					<td height="62" width="468" valign="top">
+<!-- old ad
+						<a href="javascript:ad()" target="_self">
+							<script language="JavaScript">
+															
+								var imgURL = adSite + "/ad/"+ adPageName + adFormName + adCat;
+								imgURL += adOrd + "?";
+								//alert("imgURL: " + imgURL);
+
+								var img_src = "<img src = \"" + imgURL + "\" border=\"0\"";
+								img_src += "width=\"468\" height=\"60\"></a>";
+								document.write(img_src); 
+							</script>
+						</a>
+end old ad -->
+
+
+ <!--DoubleClick Ad BEGIN-->
+
+<script language="JavaScript">
+<!--
+var thisPage = ";cat=" + adFormName.substring(1, adFormName.length);
+adCat = thisPage + adCat;
+var iframeSrcString = "<iframe src=\"" + adSite + "/adi/" + adPageName + adFormName + adCat + adOrd + "?";
+iframeSrcString += "\" width=\"468\" height=\"60\" marginwidth=\"0\" marginheight=\"0\" hspace=\"0\"";
+iframeSrcString += " vspace=\"0\" frameborder=\"0\" scrolling=\"no\">";
+
+var iframeLinkString = "<a href=\"" + adSite + "/jump/" + adPageName + adFormName + adCat + adOrd + "?";
+iframeLinkString += "\" target=\"_top\">";
+
+var iframeImgString = "<img src=\"" + adSite + "/ad/" + adPageName + adFormName + adCat + adOrd + "?";
+iframeImgString += "\" width=\"468\" height=\"60\" border=\"0\">";
+
+document.writeln("<nolayer>");
+document.writeln(iframeSrcString);
+document.writeln(iframeLinkString);
+document.writeln(iframeImgString);
+document.writeln("</a>");
+document.writeln("</iframe>");
+document.writeln("</nolayer>");
+document.writeln("<ilayer id=\"ph1\" visibility=\"hide\" width=\"468\" height=\"60\"></ilayer>");
+
+//-->
+</script><nolayer>
+<iframe src="http://ad.doubleclick.net/adi/www.roughguides.com/info;cat=info;cat=travel;cat=guides;cat=vacations;ord=4486181?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
+<a href="http://ad.doubleclick.net/jump/www.roughguides.com/info;cat=info;cat=travel;cat=guides;cat=vacations;ord=4486181?" target="_top">
+<img src="http://ad.doubleclick.net/ad/www.roughguides.com/info;cat=info;cat=travel;cat=guides;cat=vacations;ord=4486181?" width="468" height="60" border="0">
+</a>
+</iframe>
+</nolayer>
+<ilayer id="ph1" visibility="hide" width="468" height="60"></ilayer>
+
+
+	
+<!--DoubleClick Ad END-->
+
+
+
+</td>
+				</tr><form name="MainForm" method="post" action="/cgi-bin/search.cgi" onsubmit="doSearch(document.MainForm); return false;"></form>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr bgcolor="#000000"><td height="7"><a name="top"><img border="0" src="/img/trans.gif"></a></td></tr>
+	<tr bgcolor="#000000">
+		<td width="569">
+			<table align="left" valign="top" border="0" cellpadding="0" cellspacing="0" width="569">
+				<tbody><tr align="left" valign="top">
+					<td height="47" width="569"><img border="0" height="47" src="/img/page_hd_all.gif" width="569" usemap="#header"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+<!-- META START NAME="global" -->
+<!-- wrapping this in a META section allows us to ignore this part during the search -->
+<tr bgcolor="#000000">
+<td valign="top">   
+     <table border="0" cellpadding="0" cellspacing="0" width="569" align="left" valign="top">
+       <tbody><tr height="35">
+        <td width="29" bgcolor="#990000" height="35"><img src="/img/trans.gif"></td>
+        <td width="150" bgcolor="#990000" height="35">
+			<select name="countries" onchange="locJump('countries', 'country')">
+				<option selected="">Countries</option>
+				<option value="/content/12733/index.htm">Antigua</option>
+<option value="/content/18513/index.htm">Australia</option>
+<option value="/content/24774/index.htm">Austria</option>
+<option value="/content/12543/index.htm">Barbados</option>
+<option value="/content/24807/index.htm">Belgium</option>
+<option value="/content/3527/index.htm">Brazil</option>
+<option value="/content/9669/index.htm">Brunei</option>
+<option value="/content/24870/index.htm">Bulgaria</option>
+<option value="/content/2963/index.htm">Canada</option>
+<option value="/content/3164/index.htm">China</option>
+<option value="/content/24887/index.htm">Croatia</option>
+<option value="/content/18451/index.htm">Cuba</option>
+<option value="/content/25903/index.htm">Czech Republic</option>
+<option value="/content/24930/index.htm">Denmark</option>
+<option value="/content/19676/index.htm">England</option>
+<option value="/content/24953/index.htm">Estonia</option>
+<option value="/content/24967/index.htm">Finland</option>
+<option value="/content/13787/index.htm">France</option>
+<option value="/content/24988/index.htm">Germany</option>
+<option value="/content/19377/index.htm">Greece</option>
+<option value="/content/25058/index.htm">Hungary</option>
+<option value="/content/20561/index.htm">India</option>
+<option value="/content/11606/index.htm">Indonesia</option>
+<option value="/content/13902/index.htm">Ireland</option>
+<option value="/content/2290/index.htm">Italy</option>
+<option value="/content/12985/index.htm">Jamaica</option>
+<option value="/content/10071/index.htm">Japan</option>
+<option value="/content/3269/index.htm">Kenya</option>
+<option value="/content/25081/index.htm">Latvia</option>
+<option value="/content/22390/index.htm">Lesotho</option>
+<option value="/content/25951/index.htm">Liechtenstein</option>
+<option value="/content/25092/index.htm">Lithuania</option>
+<option value="/content/24825/index.htm">Luxembourg</option>
+<option value="/content/3400/index.htm">Malaysia</option>
+<option value="/content/3606/index.htm">Mexico</option>
+<option value="/content/25107/index.htm">Morocco</option>
+<option value="/content/21626/index.htm">Nepal</option>
+<option value="/content/25130/index.htm">Netherlands</option>
+<option value="/content/25151/index.htm">Norway</option>
+<option value="/content/25177/index.htm">Poland</option>
+<option value="/content/19472/index.htm">Portugal</option>
+<option value="/content/25203/index.htm">Romania</option>
+<option value="/content/26072/index.htm">Russia</option>
+<option value="/content/24845/index.htm">Scotland</option>
+<option value="/content/9642/index.htm">Singapore</option>
+<option value="/content/26055/index.htm">Slovakia</option>
+<option value="/content/26036/index.htm">Slovenia</option>
+<option value="/content/21869/index.htm">South Africa</option>
+<option value="/content/2604/index.htm">Spain</option>
+<option value="/content/12668/index.htm">St Lucia</option>
+<option value="/content/22432/index.htm">Swaziland</option>
+<option value="/content/25953/index.htm">Sweden</option>
+<option value="/content/25922/index.htm">Switzerland</option>
+<option value="/content/11000/index.htm">Thailand</option>
+<option value="/content/12774/index.htm">Trinidad &amp; Tobago</option>
+<option value="/content/25982/index.htm">Turkey</option>
+<option value="/content/17186/index.htm">USA</option>
+<option value="/content/24830/index.htm">Wales</option>
+
+            </select>
+		</td>
+        <td width="40" bgcolor="#990000" height="35"><img src="/img/trans.gif"></td>
+        <td width="150" bgcolor="#990000" height="35">
+			<select name="cities" onchange="locJump('cities', 'city')"> 
+				<option selected="">Featured Cities</option>
+			<option value="/content/10845/index.htm">Acapulco</option>
+<option value="/content/19046/index.htm">Adelaide</option>
+<option value="/content/25131/index.htm">Amsterdam</option>
+<option value="/content/26029/index.htm">Ankara</option>
+<option value="/content/24818/index.htm">Antwerp</option>
+<option value="/content/19378/index.htm">Athens</option>
+<option value="/content/17601/index.htm">Atlanta</option>
+<option value="/content/17256/index.htm">Atlantic City</option>
+<option value="/content/7833/index.htm">Auckland</option>
+<option value="/content/17529/index.htm">Baltimore</option>
+<option value="/content/5496/index.htm">Banff Townsite</option>
+<option value="/content/11001/index.htm">Bangkok</option>
+<option value="/content/2658/index.htm">Barcelona</option>
+<option value="/content/4532/index.htm">Beijing</option>
+<option value="/content/14105/index.htm">Belfast</option>
+<option value="/content/9745/index.htm">Belize City</option>
+<option value="/content/25045/index.htm">Berlin</option>
+<option value="/content/21070/index.htm">Bombay (Mumbai)</option>
+<option value="/content/23661/index.htm">Boston</option>
+<option value="/content/26056/index.htm">Bratislava</option>
+<option value="/content/24820/index.htm">Bruges</option>
+<option value="/content/24808/index.htm">Brussels</option>
+<option value="/content/25211/index.htm">Bucharest</option>
+<option value="/content/25059/index.htm">Budapest</option>
+<option value="/content/12085/index.htm">Buenos Aires</option>
+<option value="/content/17323/index.htm">Burlington</option>
+<option value="/content/9774/index.htm">Cairo</option>
+<option value="/content/21202/index.htm">Calcutta</option>
+<option value="/content/10977/index.htm">Cancún</option>
+<option value="/content/21870/index.htm">Cape Town</option>
+<option value="/content/12522/index.htm">Caracas</option>
+<option value="/content/7959/index.htm">Chiang Mai</option>
+<option value="/content/17406/index.htm">Chicago</option>
+<option value="/content/7990/index.htm">Christchurch</option>
+<option value="/content/17368/index.htm">Cincinnati</option>
+<option value="/content/17355/index.htm">Cleveland</option>
+<option value="/content/24998/index.htm">Cologne</option>
+<option value="/content/24931/index.htm">Copenhagen</option>
+<option value="/content/9813/index.htm">Cusco</option>
+<option value="/content/17836/index.htm">Dallas</option>
+<option value="/content/20562/index.htm">Delhi</option>
+<option value="/content/17934/index.htm">Denver</option>
+<option value="/content/17375/index.htm">Detroit</option>
+<option value="/content/14016/index.htm">Dublin</option>
+<option value="/content/22151/index.htm">Durban</option>
+<option value="/content/24846/index.htm">Edinburgh</option>
+<option value="/content/2318/index.htm">Florence</option>
+<option value="/content/25011/index.htm">Frankfurt</option>
+<option value="/content/24848/index.htm">Glasgow</option>
+<option value="/content/10604/index.htm">Guadalajara</option>
+<option value="/content/9744/index.htm">Hanoi</option>
+<option value="/content/18453/index.htm">Havana</option>
+<option value="/content/24968/index.htm">Helsinki</option>
+<option value="/content/9873/index.htm">Ho Chi Minh City</option>
+<option value="/content/3165/index.htm">Hong Kong</option>
+<option value="/content/18391/index.htm">Honolulu</option>
+<option value="/content/17807/index.htm">Houston</option>
+<option value="/content/25983/index.htm">Istanbul</option>
+<option value="/content/23807/index.htm">Jerusalem</option>
+<option value="/content/22258/index.htm">Johannesburg</option>
+<option value="/content/21627/index.htm">Kathmandu</option>
+<option value="/content/25190/index.htm">Kraków</option>
+<option value="/content/3401/index.htm">Kuala Lumpur</option>
+<option value="/content/10360/index.htm">Kyoto</option>
+<option value="/content/3347/index.htm">Lagos</option>
+<option value="/content/14521/index.htm">Las Vegas</option>
+<option value="/content/9746/index.htm">Lima</option>
+<option value="/content/19473/index.htm">Lisbon</option>
+<option value="/content/26037/index.htm">Ljubljana</option>
+<option value="/content/13322/index.htm">London</option>
+<option value="/content/18179/index.htm">Los Angeles</option>
+<option value="/content/10666/index.htm">México City</option>
+<option value="/content/7748/index.htm">Macau</option>
+<option value="/content/2605/index.htm">Madrid</option>
+<option value="/content/25125/index.htm">Marrakesh</option>
+<option value="/content/19150/index.htm">Melbourne</option>
+<option value="/content/17646/index.htm">Memphis</option>
+<option value="/content/17707/index.htm">Miami</option>
+<option value="/content/17421/index.htm">Milwaukee</option>
+<option value="/content/17433/index.htm">Minneapolis &amp; St Paul</option>
+<option value="/content/3329/index.htm">Mombasa</option>
+<option value="/content/4945/index.htm">Montreal</option>
+<option value="/content/26073/index.htm">Moscow</option>
+<option value="/content/25024/index.htm">Munich</option>
+<option value="/content/3270/index.htm">Nairobi</option>
+<option value="/content/17654/index.htm">Nashville</option>
+<option value="/content/17778/index.htm">New Orleans</option>
+<option value="/content/13623/index.htm">New York City</option>
+<option value="/content/17276/index.htm">Newport</option>
+<option value="/content/10338/index.htm">Osaka</option>
+<option value="/content/25152/index.htm">Oslo</option>
+<option value="/content/13788/index.htm">Paris</option>
+<option value="/content/18945/index.htm">Perth</option>
+<option value="/content/17229/index.htm">Philadelphia</option>
+<option value="/content/18087/index.htm">Phoenix</option>
+<option value="/content/17330/index.htm">Portland, ME</option>
+<option value="/content/18317/index.htm">Portland, OR</option>
+<option value="/content/25904/index.htm">Prague</option>
+<option value="/content/17274/index.htm">Providence</option>
+<option value="/content/10783/index.htm">Puerto Vallarta</option>
+<option value="/content/25082/index.htm">Riga</option>
+<option value="/content/3529/index.htm">Rio de Janeiro</option>
+<option value="/content/19509/index.htm">Rome</option>
+<option value="/content/18146/index.htm">Salt Lake City</option>
+<option value="/content/24796/index.htm">Salzburg</option>
+<option value="/content/18165/index.htm">San Diego</option>
+<option value="/content/24629/index.htm">San Francisco</option>
+<option value="/content/9789/index.htm">San José</option>
+<option value="/content/12020/index.htm">San Juan</option>
+<option value="/content/18027/index.htm">Santa Fe</option>
+<option value="/content/11736/index.htm">Santiago</option>
+<option value="/content/11759/index.htm">Santo Domingo</option>
+<option value="/content/5707/index.htm">Sao Paulo</option>
+<option value="/content/10186/index.htm">Sapporo</option>
+<option value="/content/18272/index.htm">Seattle</option>
+<option value="/content/12542/index.htm">Seoul</option>
+<option value="/content/2632/index.htm">Sevilla</option>
+<option value="/content/4533/index.htm">Shanghai</option>
+<option value="/content/24871/index.htm">Sofia</option>
+<option value="/content/17858/index.htm">St Louis</option>
+<option value="/content/25954/index.htm">Stockholm</option>
+<option value="/content/13026/index.htm">Sydney</option>
+<option value="/content/12254/index.htm">Taipei</option>
+<option value="/content/24954/index.htm">Tallinn</option>
+<option value="/content/7909/index.htm">Tel Aviv</option>
+<option value="/content/10072/index.htm">Tokyo</option>
+<option value="/content/6205/index.htm">Toronto</option>
+<option value="/content/18075/index.htm">Tucson</option>
+<option value="/content/2995/index.htm">Vancouver</option>
+<option value="/content/2301/index.htm">Venice</option>
+<option value="/content/24775/index.htm">Vienna</option>
+<option value="/content/25093/index.htm">Vilnius</option>
+<option value="/content/25178/index.htm">Warsaw</option>
+<option value="/content/17445/index.htm">Washington DC</option>
+<option value="/content/25928/index.htm">Zürich</option>
+<option value="/content/24888/index.htm">Zagreb</option>
+
+
+			</select>
+        </td>
+        <td width="40" bgcolor="#990000" height="35"><img src="/img/trans.gif"></td>
+        <td width="150" bgcolor="#990000" height="35"><select name="destinationindex" onchange="locJump('destinationindex', 'destination index')" size="1">
+          <option selected="">Complete Index</option>
+          <option value="/index/destina.htm">A</option>
+          <option value="/index/destinb.htm">B</option>
+          <option value="/index/destinc.htm">C</option>
+          <option value="/index/destind.htm">D</option>
+          <option value="/index/destine.htm">E</option>
+          <option value="/index/destinf.htm">F</option>
+          <option value="/index/desting.htm">G</option>
+          <option value="/index/destinh.htm">H</option>
+          <option value="/index/destini.htm">I</option>
+          <option value="/index/destinj.htm">J</option>
+          <option value="/index/destink.htm">K</option>
+          <option value="/index/destinl.htm">L</option>
+          <option value="/index/destinm.htm">M</option>
+          <option value="/index/destinn.htm">N</option>
+          <option value="/index/destino.htm">O</option>
+          <option value="/index/destinp.htm">P</option>
+          <option value="/index/destinq.htm">Q</option>
+          <option value="/index/destinr.htm">R</option>
+          <option value="/index/destins.htm">S</option>
+          <option value="/index/destint.htm">T</option>
+          <option value="/index/destinu.htm">U</option>
+          <option value="/index/destinv.htm">V</option>
+          <option value="/index/destinw.htm">W</option>
+          <option value="/index/destinx.htm">X</option>
+          <option value="/index/destiny.htm">Y</option>
+          <option value="/index/destinz.htm">Z</option>
+        </select></td>
+        <td width="10" bgcolor="#990000" height="35"><img src="/img/trans.gif"></td>
+      </tr>
+    </tbody></table>
+</td>
+</tr>
+<!-- META END -->
+
+
+<tr><td valign="top">
+		<table border="0" cellpadding="0" cellspacing="0" width="569" align="center" valign="top">
+		<tbody><tr height="35">
+			<td bgcolor="#990000" align="left">
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td width="10" bgcolor="#ffffff" height="35" valign="top"><img height="30" src="/img/tab_lft_wht.gif" width="10"></td>
+						<td bgcolor="#ffffff" height="35">
+							<font color="#990000" face="Arial, Helvetica, sans-serif" size="5"><strong>Rough Guide Information</strong></font>
+						</td>
+						<td bgcolor="#ffffff" height="35" align="right" valign="top"><img height="30" src="/img/tab_rgt_wht.gif" width="14"></td>
+					</tr>
+				</tbody></table>
+			</td>
+			<td bgcolor="#990000" width="30" height="35"><img src="/img/trans.gif"></td>
+			<td align="right" bgcolor="#990000"><script language="javascript">
+<!--
+function doSearch()
+{
+	document.MainForm.submit();
+}
+//-->
+</script>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td bgcolor="#990000" height="30" valign="middle"><input type="textfield" size="15" name="keywords"></td>
+		<td bgcolor="#990000" width="5" height="30"><img src="/img/trans.gif"></td>
+		<td bgcolor="#990000" width="52" height="30" valign="middle"><a href="javascript:doSearch();"><img src="/img/butt_srch.gif" alt="Search" border="0"></a></td>
+		<td bgcolor="#990000" width="7" height="30"><img src="/img/trans.gif"></td>
+	</tr>
+</tbody></table></td>
+		</tr>
+		</tbody></table>
+</td></tr>
+
+<tr><td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="569" bgcolor="#ffffff" align="left">
+  <tbody><tr>
+    <td valign="top" align="left" bgcolor="#ffffff" width="569" colspan="7" height="18"><img src="/img/trans.gif"></td>
+  </tr>
+  <tr>
+    <td valign="top" align="left" bgcolor="#ffffff" width="10"><img src="/img/trans.gif"></td>
+    <td valign="top" align="left" bgcolor="#ffffff" width="113"><div align="right"><table border="0" cellpadding="0" cellspacing="0" width="113">
+                <tbody><tr> 
+                  <td valign="top" align="right"><a href="index.htm"><img alt="Information" border="0" height="19" src="/img/but_maint.gif" width="66"></a></td>
+                </tr>
+                <tr> 
+                  <td valign="top" align="right"><a href="contact.htm"><img alt="Contact" border="0" height="19" src="/img/but_cont.gif" width="66"></a></td>
+                </tr>
+                <tr> 
+                  <td valign="top" align="right"><a href="faq.htm"><img alt="FAQ" border="0" height="19" src="/img/but_faqt.gif" width="66"></a></td>
+                </tr>
+                <tr>
+                  <td valign="top" align="right"><a href="write.htm"><img alt="Write" border="0" height="19" src="/img/but_writ.gif" width="66"></a></td>
+                </tr>
+                <tr> 
+                  <td valign="top" align="right"><a href="copyright.htm"><img alt="Copyright" border="0" height="19" src="/img/but_cpyt.gif" width="66"></a></td>
+                </tr>
+                <tr> 
+                  <td valign="top" align="right"><a href="disclaim.htm"><img alt="Disclaimer" border="0" height="19" src="/img/but_dist.gif" width="66"></a></td>
+                </tr>
+                <tr> 
+                  <td valign="top" align="right"><a href="privacy.htm"><img alt="Privacy" border="0" height="19" src="/img/but_privt_sel.gif" width="66"></a></td>
+                </tr>
+                <tr> 
+                  <td valign="top" align="right"><a href="advertise.htm"><img alt="Advertise" border="0" height="19" src="/img/but_adver.gif" width="66"></a></td>
+                </tr>
+                <tr> 
+                  <td valign="top" align="right"><a href="press.htm"><img alt="Press" border="0" height="26" src="/img/but_press.gif" width="66"></a></td>
+                </tr>
+              </tbody></table></div></td>
+    <td valign="top" align="left" bgcolor="#ffffff" width="10"><img src="/img/trans.gif"></td>
+    <td valign="top" align="left" bgcolor="#cccccc" width="1"><img src="/img/trans.gif"></td>
+    <td valign="top" align="left" bgcolor="#ffffff" width="10"><img src="/img/trans.gif"></td>
+    <td valign="top" align="left" bgcolor="#ffffff" width="415"><p><img alt="but_arw_rnd.gif
+
+    (127 bytes)" height="12" src="/img/but_arw_rnd.gif"><font size="3" face="Arial, Helvetica, Sans-serif"><strong>Rough Guides Privacy Statement</strong></font><br><br>        
+    <font face="Arial, Helvetica,Sans-serif" size="2">
+</font></p><p><font face="Arial, Helvetica,Sans-serif" size="2">This privacy statement is applicable to roughguides.com,
+travel.roughguides.com and all Rough Guides hosted cobranded sites
+distributed through Rough Guide web partners.
+The Rough Guides and our affiliate sites value your privacy and security
+when accessing the Internet. The RoughGuides.com web site does not collect
+personally identifiable information about individuals except when such
+individuals specifically provide such information on a voluntary basis and
+for the specific reasons which we will explain clearly to you in advance.
+Personally identifiable information may be gathered for the purpose of a
+contest or sweepstakes registration, subscription and registration to an
+email newsletter,  reception of user feedback, community postings (e.g.,
+chat and bulletin boards), suggestions, voting/polling activities and
+transactional areas. Personally identifiable information on individual users
+will not be sold or otherwise transferred to unaffiliated third parties
+without the approval of the user at the time of collection. At such points
+of collection, the user will have the opportunity to indicate whether he or
+she would like to "opt out" of receiving promotional and/or marketing
+information about other products, services and offerings from The Rough
+Guides and/or any third parties. Further, notwithstanding any opt out of
+promotional information by the user, The Rough Guides reserves the right to
+contact a subscriber regarding system usage, changes to the subscriber
+agreement and other matters relevant to the underlying service and/or the
+information collected.
+</font></p><font face="Arial, Helvetica,Sans-serif" size="2">
+<p>
+The Rough Guides reserves the right to perform statistical analyses of user
+behavior and characteristics in order to measure interest in and use of the
+various areas of the site and to inform advertisers of such information as
+well as the number of users that have been exposed to or clicked on their
+advertising banners. The Rough Guides will provide only aggregated data from
+these analyses to third parties. Also, users should be aware that The Rough
+Guides may sometimes permit third parties to offer subscription and/or
+registration-based services through a The Rough Guides site. The Rough
+Guides is not responsible for any actions or policies of such third parties
+and users should check the applicable privacy policy of such party when
+providing personally identifiable information.
+</p>
+<p>
+Additionally, users should be aware that when they voluntarily disclose
+personally identifiable information (e.g., user name, e-mail address) on the
+bulletin boards or in the chat areas of the The Rough Guides sites, that
+information, along with any substantive information disclosed in the user's
+communication, can be collected and correlated and used by third parties and
+may result in unsolicited messages from other posters or third parties. Such
+activities are beyond the control of The Rough Guides.
+</p>
+<p>
+Users also should be aware that non-personal information and data may be
+automatically collected through the standard operation of The Rough Guide's
+internet servers or through the use of "cookies." "Cookies" are small text
+files a web site, advertiser or advertising service can use to recognize
+repeat users, facilitate the user's ongoing access to and use of the site
+and allow a site to track usage behavior and compile aggregate data that
+will allow content improvements and targeted advertising. Cookies are not
+programs that come onto a user's system and damage files. Generally, cookies
+work by assigning a unique number to the user that has no meaning outside
+the assigning site. Users should be aware that The Rough Guides cannot
+control the use of cookies or the resulting information by advertisers or
+third parties hosting data for The Rough Guides. (Rough Guide ads are served by the Doubleclick Network.  For more on information collected in the process of delivering an ad to you and your choices regarding delivery of targeted ad campaigns <a href="http://www.doubleclick.net/privacy_policy/">click here</a>.)
+</p>
+<p>If a user does not want
+information collected through the use of cookies, there is a simple
+procedure in most browsers that allows the user to deny or accept the cookie
+feature; however, users should note that cookies may be necessary to provide
+the user with certain features (e.g., customized delivery of information)
+available on the The Rough Guides Site or content partners.
+</p>
+<p>
+Upon request, The Rough Guides will allow any user to "opt out" of further
+promotional contacts at any time. Additionally upon request, The Rough
+Guides will use reasonable efforts to allow users to update/correct personal
+information previously submitted which the user states is erroneous to the
+extent such activities will not compromise privacy or security interests.
+Also, upon a user's request, The Rough Guides will use commercially
+reasonable efforts to functionally delete the user and his or her personal
+information from its database; however, it may be impossible to delete a
+user's entry without some residual information because of backups and
+records of deletions.
+</p>
+<p>
+The foregoing policies are effective as of July 31, 1999. The Rough Guides
+reserves the right to change this policy at any time by notifying users of
+the existence of a new privacy statement. This statement and the policies
+outlined herein are not intended to and do not create any contractual or
+other legal rights in or on behalf of any party.</p>
+</font></td>
+<td valign="top" align="left" bgcolor="#ffffff" width="10"><img src="/img/trans.gif"></td>
+   </tr>
+</tbody></table>
+<!-- BEGIN WEBSIDESTORY CODE v61 (ln)-->
+<!-- COPYRIGHT 1997-2000 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy -->
+<script language="javascript">
+var _pn1="roughguides.com"; 		
+var _pn2="ln.travel.roughguides.com"; 		
+var _pn3="/info/privacy.htm"; 		
+var _ct1="Reference+Market"; 			
+var _ct2="Ungrouped"; 			
+var _ct3="info:privacy"; 		
+var _cp="null"; 			
+var _acct1="DM501204HKSS34EN3"; 	
+var _acct2="DM501204NAAZ34EN3"; 	
+var _acct3="DM50120431CD34EN3"; 	
+var _mn="we13";				
+var _epg="n"; 				
+var _opt="n";				
+var _sv=10;var _bn=navigator.appName;if(_bn.substring(0,9)=="Microsoft"){_bn="MSIE";};
+var _bv=(Math.round(parseFloat(navigator.appVersion)*100));
+if((_bn=="MSIE")&&(parseInt(_bv)==2)) _bv=301;var _rf=escape(document.referrer);
+</script><script language="javascript1.1">_sv=11;</script>
+<script language="javascript1.1" defer="" src="http://a1604.g.akamai.net/f/1604/2007/1h/stats.hitbox.com/js/DM50090858SF.js"></script>
+<script language="javascript">if (_sv==10){if (document.cookie.indexOf("CP=")!=-1){_ce="y";}else{
+document.cookie="CP=null*; expires=Wed, 1 Jan 2020 00:00:00 GMT";
+_ce=(document.cookie.indexOf("CP=")!=-1)?"y":"n";};if((_rf=="undefined")||(_rf=="")){_rf="bookmark";};
+_x2="<img src='http://ehg-ln.hitbox.com/HG?hc="+_mn;_x3="&cd=1&hv=6' border=0 height=1 width=1>";
+_ar="&bn="+escape(_bn)+"&bv="+_bv+"&ce="+_ce+"&ss=na&sc=na&dt=&sv="+_sv;
+_ar+="&epg="+_epg+"&hp=u&cy=u&ja=na&ln=na&cp="+escape(_cp)+"&pl=&rf="+_rf;
+	if (locString.indexOf("ln.travel") > -1) {
+document.write(_x2+_ar+"&hb="+_acct1+"&n="+escape(_pn1)+"&con="+escape(_ct1)+_x3+_x2+_ar+"&hb="+_acct2+"&n="+escape(_pn2)+"&con="+escape(_ct2)+_x3+_x2+_ar+"&hb="+_acct3+"&n="+escape(_pn3)+"&con="+escape(_ct3)+_x3);}
+document.write("<\!--"); }</script><!--//-->
+<!-- END WEBSIDESTORY CODE  -->	  
+</td>
+</tr>
+<tr bgcolor="#ffffff">
+  <td>
+  	<table cellpadding="0" cellspacing="0" border="0" width="569">
+  		<tbody><tr>
+  	        <td width="140" align="left" bgcolor="#ffffff"><img src="/img/trans.gif"></td>
+  	        <td width="364" align="left" bgcolor="#ffffff"><img border="0" src="/img/legal.gif" usemap="#legal"> 
+
+<br><br>
+  <script language="JavaScript">
+	<!--
+	if (href.indexOf("guides.travel") >= 0)
+		document.write("<img src=\"/img/yahoo.logo.gif\">");
+
+	//-->
+	</script>
+	<map name="legal">
+	  <area coords="0,7,78,15" href="/info/copyright.htm" shape="RECT">
+	  <area coords="89,7,179,15" href="http://www.roughguides.com" shape="RECT">
+	  <area coords="196,7,319,15" href="http://www.learningnetwork.com" shape="RECT">
+	</map>
+</td>
+  	        <td width="38" align="right" bgcolor="#ffffff"><a href="#top"><img border="0" src="/img/to_top_sm.gif"></a></td>
+  	        <td width="27" bgcolor="#ffffff"><img src="/img/trans.gif"></td>
+  	    </tr>
+  	</tbody></table>
+  </td>	    
+</tr>
+<tr><td height="18" bgcolor="#ffffff"><img src="/img/trans.gif"></td></tr>
+
+</tbody></table>
+
+<script language="JavaScript">
+<!--
+var randNum = Math.round(Math.random()*100000000) ;
+var layer1String = "<LAYER src=\"" + adSite + "/adl/" + adPageName + adFormName + adCat + adOrd + "?";
+layer1String += "\" width=\"468\" height=\"60\" visibility=\"hide\" onload=\"moveToAbsolute(ph1.pageX, ph1.pageY); ";
+layer1String += "visibility=\'show\';\" clip=\"468,60\">";
+
+if (doLink == 1)
+{
+	var linkLayerString = "<LAYER src=\"" + adSite + "/adl/roughguides.com/sponsor-button/dcstore/" + pageType;
+	linkLayerString += ";" + adSize + adOrd + "\" width=\"120\" height=\"90\" visibility=\"hidden\" onLoad=";
+	linkLayerString += "\"moveToAbsolute(linkAd.pageX,linkAd.pageY);clip.height=90;clip.width=120;visibility=\'show\';\">";
+	document.writeln(linkLayerString + "</LAYER>");
+}
+document.writeln(layer1String + "</LAYER>");
+
+//-->
+</script><layer src="http://ad.doubleclick.net/adl/www.roughguides.com/info;cat=info;cat=travel;cat=guides;cat=vacations;ord=4486181?" width="468" height="60" visibility="hide" onload="moveToAbsolute(ph1.pageX, ph1.pageY); visibility='show';" clip="468,60"></layer>
+
+
+
+
+
+</body></html>
