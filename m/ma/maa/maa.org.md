@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maa.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203012856id_/http%3A//maa.org/Aboutmaa/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maa.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603044440id_/http%3A//maa.org/Aboutmaa/privacypol.html) for the most accurate reproduction.*
 
 # 
 
