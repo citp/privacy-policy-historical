@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206083644id_/http%3A//hostmysite.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403154911id_/http%3A//www.hostmysite.com/privacypolicy) for the most accurate reproduction.*
 
 # HostMySite.com -- Web Hosting Services from $8.95/mo
 
