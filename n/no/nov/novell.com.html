@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the novell.com privacy policy that was archived on 2000-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000815052856id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the novell.com privacy policy that was archived on 2001-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010504103033id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <!--  ENTER A PAGE TITLE THAT DESCRIBES YOUR PAGE CONTENT! SEE STYLE GUIDE  -->
@@ -13,36 +13,19 @@
 <!--  BEGIN VIRTUAL SCRIPT HEADER INCLUDE  -->
 	<!--  DO NOT ALTER OR DELETE  -->
 	<!--*Robots NoIndex -->
+
 <script language="JavaScript">
 <!--hide
 
 // FUNCTION FOR GENERIC POPUP WINDOW
 // PASS THE HEIGHT AND WIDTH PARAMETERS WHEN CALLING THE FUNCTION
 // CALL THE FUNCTION IN AN HREF TAG WITH A TARGET OF "winOpen"
+
 function popUp(winHeight,winWidth) {
-	var winOpen = window.open('','winOpen','height=' + winHeight + ',width=' + winWidth + ',scrollbars=1,resizable=1,menubar=1'); return false;
+	var winOpen = window.open('','winOpen','height=' + winHeight + ',width=' + winWidth); return false;
 }
 
-// QUICKLINK ROLLOVER IN TOP NAV TABLE
-if (document.images != null) {
-	preload();
-}
-
-function preload() {
-	support_on = new Image(); support_on.src="/img/hdr/topnav_iconbuttons_1.gif";
-	download_on = new Image(); download_on.src="/img/hdr/topnav_iconbuttons_2.gif";
-	buy_on = new Image(); buy_on.src="/img/hdr/topnav_iconbuttons_3.gif";
-	icons_default = new Image(); icons_default.src="/img/hdr/topnav_iconbuttons.gif";
-}
-
-function over(section,img_name) {
-	if (document.images) {
-		section = eval(section + ".src");
-		document [img_name].src = section;
-	}
-}
-
-//  DETERMINE USER'S BROWSER
+// DETERMINE USER'S BROWSER FOR STYLE SHEET ASSIGNMENTS
 
 var isNav, isIE, isNavMac
 
@@ -57,10 +40,45 @@ if (parseInt(navigator.appVersion) >= 4) {
 		isIE = true;				 
 	}
 } else if (!isNav && !isIE) {
-
 }
 
-//  DEFINE STYLE SHEETS FOR DIFFERENT BROWSERS
+//PRELOAD HEADER NAVIGATION BUTTONS
+if (isNav || isIE) {
+	headerButtons = new Array(20)
+	for(i = 0; i <= 19; i++) {
+		if (i==8) i=12;
+		headerButtons[i] = new Image();
+		headerButtons[i].src = "/inc/img/topnav_"+i+".gif";
+	}
+}
+
+//Header Rollovers
+function button_change(name, button) {
+	if (isNav || isIE) {
+		name.src=headerButtons[button].src;
+	}
+}
+
+//SET NO NAVIGATION BUTTON TO BE DOWN BY DEFAULT
+var alwaysDown = "";
+
+//BUILD MAIN NAVBAR IN HEADER
+function writeMainNav (buttonName) {
+	var prodUpValue = 12;
+	var edUpValue = 14;
+	var conUpValue = 16;
+	var compUpValue = 18;		
+	if (buttonName == "products") prodUpValue = 13;
+	if (buttonName == "education") edUpValue = 15;
+	if (buttonName == "consulting") conUpValue = 17;
+	if (buttonName == "company") compUpValue = 19;	 
+	document.write ("<a href=\"/products/\" onMouseOver=\"button_change(products,13)\" onMouseOut=\"button_change(products," + prodUpValue + ")\"><img src=\"/inc/img/topnav_" + prodUpValue + ".gif\" border=0 name=\"products\" alt=\"Products\"></a>");
+	document.write ("<a href=\"/education/\" onMouseOver=\"button_change(education,15)\" onMouseOut=\"button_change(education," + edUpValue + ")\"><img src=\"/inc/img/topnav_" + edUpValue + ".gif\" border=0 name=\"education\" alt=\"Education\"></a>");
+	document.write ("<a href=\"/consulting/\" onMouseOver=\"button_change(consulting,17)\" onMouseOut=\"button_change(consulting," + conUpValue + ")\"><img src=\"/inc/img/topnav_" + conUpValue + ".gif\" border=0 name=\"consulting\" alt=\"Consulting\"></a>");
+	document.write ("<a href=\"/company/\" onMouseOver=\"button_change(company,19)\" onMouseOut=\"button_change(company," + compUpValue + ")\"><img src=\"/inc/img/topnav_" + compUpValue + ".gif\" border=0 name=\"company\" alt=\"Company\"></a>");
+}
+
+// DEFINE STYLE SHEETS FOR DIFFERENT BROWSERS
 
 if (isIE) {
 	document.write('<link rel="stylesheet" href="/inc/novellstyle.css">');
@@ -68,13 +86,226 @@ if (isIE) {
 	document.write('<link rel="stylesheet" href="/inc/netstyle.css">');
 } else if (isNavMac) {
 	document.write('<link rel="stylesheet" href="/inc/net_mac.css">');
-} else {
-	document.write('<link rel="stylesheet" href="/inc/netstyle.css">');
 }
 
+// SEARCH FUNCTIONS
+
+	var maxColls	=2;
+	var ckExpire	=28;
+	var ckDomain	=".novell.com";
+
+	var stColls = new Array(
+		new Clxn("","All of Novell","",""),
+		new Clxn("products","in Products", "Products",""),
+		new Clxn("education","in Education","Education",""),
+		new Clxn("consulting","in Consulting","Consulting",""),
+		new Clxn("company","in Company","Company",""),
+		new Clxn("support","in Support","Support",""),
+		new Clxn("developer","in Developer","Developer",""),
+		new Clxn("documentation","in Documentation","Documentation",""));
+	var dyColls = new Array(0);
+	loadDyColls();
+
+
+	function Clxn(Th,Tx,C,E)
+	{
+		this.Theme	=Th;
+		this.DisplayText=Tx;
+		this.Collections=C;
+		this.ExpandTo	=E;
+	}
+
+	function addCollection(Th,Tx,C,E)
+	{
+		var at=-1;
+		if (dyColls.length==0)
+			stColls[stColls.length] = new Clxn("","----------------","","");
+		at = findClxn(dyColls,C);
+		if (at==-1)
+			if (dyColls.length==maxColls)
+				at=dyColls.length-1;
+			else
+				at=dyColls.length;
+		for (var i=at;i>0;i--)
+			dyColls[i]=dyColls[i-1];
+		dyColls[0] =new Clxn(Th,Tx,C,E);
+		saveDyColls();
+
+		if(document.SearchForm != document.__undefined)
+			updateDisplay();
+	}
+
+	function updateDisplay()
+	{
+		var i = stColls.length-1;
+		document.SearchForm.collection.options[i] = new Option(stColls[i].DisplayText, stColls[i].Collections);
+		i++;
+		for(var x=0;x<dyColls.length;x++)
+			document.SearchForm.collection.options[i+x] = new Option(dyColls[x].DisplayText, dyColls[x].Collections);
+
+		document.SearchForm.collection.options[i].selected = true;
+	}
+
+	function findClxn(arr,C)
+	{
+		if (arr!=null)
+		{
+			for (var i=0;i<arr.length;i++)
+			{
+				var nxClxn = arr[i];
+				if (nxClxn.Collections.toLowerCase()==C.toLowerCase())
+					return i;
+			}
+			return -1;
+    		}
+	}
+
+	function getClxn(C)
+	{
+		var i = findClxn(stColls,C);
+		if (i!=-1)
+			return stColls[i];
+
+		i = findClxn(dyColls,C);
+		if (i!=-1)
+			return dyColls[i];
+		return null;
+	}
+
+	function saveDyColls()
+	{
+		var clxnVlu = "";
+		var expires = new Date(new Date().getTime() + ckExpire *24*60*60*1000);
+
+		for (var i=dyColls.length-1;i>=0;i--)
+		{
+			var clxn = dyColls[i];
+			clxnVlu = clxnVlu + "[T]"+clxn.Theme + "[D]"+clxn.DisplayText + "[C]"+clxn.Collections + "[E]"+clxn.ExpandTo;
+		}
+
+		document.cookie = "Collections="+escape(clxnVlu) +"; expires="+expires.toGMTString() +"; path=/; domain="+ckDomain;
+	}
+
+	var clxnVlu = "";
+	function loadDyColls()
+	{
+		var ck = document.cookie;
+		var x = ck.indexOf("Collections=");
+		if (x==-1) return;
+		x = ck.indexOf("=",x)+1;
+		var eS = ck.indexOf(";",x);
+		if (eS==-1) eS = ck.length;
+		clxnVlu = unescape(ck.substring(x,eS));
+
+		do{
+			var Th	= getClxnAtt("[T]");
+			var Tx	= getClxnAtt("[D]");
+			var C	= getClxnAtt("[C]");
+			var E	= getClxnAtt("[E]");
+			if (Tx.length>0)
+				addCollection(Th,Tx,C,E);
+		} while(Tx.length>0);
+	}
+
+	function getClxnAtt(A)
+	{
+		if (clxnVlu.substring(0,A.length)!=A) return "";
+
+		var eA = clxnVlu.indexOf("[",A.length);
+		if (eA==-1) eA = clxnVlu.length;
+		var att = clxnVlu.substring(A.length,eA);
+		clxnVlu = clxnVlu.substring(eA);
+		return att;
+	}
+
+	function VerifySearchData(SearchForm)
+	{	//return true only if we have a user-entered query
+		return (SearchForm.query0.value.length > 0);
+	}
+
+	function enable(formElement, activate)
+	{
+		if (activate == false)
+		{
+			if (formElement.value == "")
+				formElement.disabled = true;
+		}
+		else
+			formElement.disabled = false;
+	}
+
+	function doQuery(SearchForm, doReturn)
+	{
+		if (VerifySearchData(SearchForm) == true)
+		{
+			var tStr = "";
+			var c = getClxn(SearchForm.collection.options[SearchForm.collection.selectedIndex].value);
+
+			if (c!=null)
+				tStr = c.Theme;
+			SearchForm.theme.value = tStr;
+
+
+			//Disable all form elements that are at their current default settings
+			for(var x=0;x<SearchForm.elements.length;x++)
+				enable(SearchForm.elements[x], false);
+
+			//Submit the form
+			SearchForm.submit();
+
+			//Restore all form elements to their operational state
+			for(var x=0;x<SearchForm.elements.length;x++)
+				enable(SearchForm.elements[x], true);
+		}
+
+		if(doReturn)
+			return false;
+	}
+
+	function collectionChanged(thBox)
+	{
+		var t = thBox.options[thBox.selectedIndex].value;
+		if (t.substring(0,1) == "")
+			selectCollection("");
+	}
+
+	function writeCollection(Collection, DisplayText)
+	{
+		document.write("			<option VALUE=\""+Collection+"\">" +DisplayText+"</option>\n");
+	}
+
+	function writeSearchParam(fldName,fldValue,noWriteValue)
+	{
+		if (fldValue != noWriteValue)
+			document.write("			<INPUT TYPE=\"HIDDEN\" NAME=\""+fldName+"\" VALUE=\""+fldValue+"\">\n");
+	}
+
+	function getCollectionText()
+	{
+		var searchIndex = document.SearchForm.collection.selectedIndex;
+		return document.SearchForm.collection.options[searchIndex].text;
+	}
+
+	function selectCollection(Collection)
+	{
+		for(x=0;x<document.SearchForm.collection.length;x++)
+		{
+			if(document.SearchForm.collection.options[x].value.toLowerCase() == Collection.toLowerCase())
+			{
+				document.SearchForm.collection.options[x].selected = true;
+				break;
+			}
+		}
+	}
+	
+	function setQueryEncoding(encoding)
+	{
+		document.SearchForm.encoding.value = encoding;
+	}
+	
 //-->
 </script><link rel="stylesheet" href="/inc/netstyle.css">
-<!--*Robots NoIndex -->
+<!--*Robots Index -->
 
 <!--  END VIRTUAL SCRIPT HEADER INCLUDE  -->
 <!--------------------------------------------------------->
@@ -84,259 +315,268 @@ if (isIE) {
 	<!--  I.E. PRODUCTS - "/inc/hdr_prod.html"  -->
 	<!--  I.E. SERVICES - "/inc/hdr_serv.html"  -->
 	<!--  I.E. COMPANY - "/inc/hdr_comp.html"  -->
+</head> <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" text="black" link="#FF9933" alink="#FFCC33" vlink="#FF9933">
+	<!--*Robots NoIndex -->
 
-	<!--  BEGIN VIRTUAL HEADER INCLUDE  -->
-<!--*Robots NoIndex -->
-</head><!-- remove -->
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" text="black" link="#FF9933" alink="#FFCC33" vlink="#FF9933"><!-- remove -->
-<!--  BEGIN HEADER TABLE  -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<!--  BEGIN COLUMN DEFINITION ROW --> 
-	<tbody><tr>
-		<td width="186"><img src="/img/spacer.gif" width="186" height="1"></td>
-		<td width="158"><img src="/img/spacer.gif" width="158" height="1"></td>
-		<td width="169"><img src="/img/spacer.gif" width="169" height="1"></td>
-		<td width="48"><img src="/img/spacer.gif" width="48" height="1"></td>
-		<td width="195"><img src="/img/spacer.gif" width="195" height="1"></td>
-		<td width="15"><img src="/img/spacer.gif" width="15" height="1"></td>
-		<td width="100%"><img src="/img/spacer.gif" width="6" height="1"></td>
-		<td><img src="/img/spacer.gif" width="1" height="1"></td>
-	</tr>
-	<!--  END COLUMN DEFINITION ROW  -->
-	<tr>
-		<td rowspan="3"><a href="/"><img src="/img/hdr/topnav_logo3.gif" width="186" height="65" border="0" alt="Novell Home"></a></td>
-		<!--  BEGIN QUICK LINKS  -->
-		<td colspan="2"><img src="/img/hdr/topnav_iconbuttons.gif" width="254" height="40" usemap="#map_quicklinkMap" border="0" name="icons_img"><map name="map_quicklinkMap"><area alt="Support" coords="18,10,85,30" href="/support/" onmouseover="over('support_on','icons_img');" onmouseout="over('icons_default','icons_img');"><area alt="Download" coords="98,10,173,30" href="/download/" onmouseover="over('download_on','icons_img');" onmouseout="over('icons_default','icons_img');"><area alt="Buy" coords="188,10,230,30" href="/commerce/" onmouseover="over('buy_on','icons_img');" onmouseout="over('icons_default','icons_img');"></map></td>
-		<!--  END QUICK LINKS  -->
-		<td><img src="/img/spacer.gif" width="1" height="1"></td>
-		<td><img src="/img/spacer.gif" width="1" height="1"></td>
-		<td><img src="/img/spacer.gif" width="1" height="1"></td>
-		<td><img src="/img/spacer.gif" width="1" height="1"></td>
-		<td><img src="/img/spacer.gif" width="1" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="5" bgcolor="#FF9933"><img src="/img/spacer.gif" width="150" height="1"></td>
-		<td bgcolor="#FF9933"><img src="/img/spacer.gif" width="6" height="1"></td>
-		<td bgcolor="#FF9933"><img src="/img/spacer.gif" width="1" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="5"><img src="/img/spacer.gif" width="195" height="24"></td>
-		<td><img src="/img/spacer.gif" width="6" height="1"></td>
-		<td><img src="/img/spacer.gif" width="1" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="2" rowspan="3" align="right" background="/img/hdr/topnav_btn_bkg2.gif" valign="top" bgcolor="#FF9933"><a href="/products/"><img src="/img/hdr/topnav_reslinks_prod.gif" width="87" height="26" name="products_btn" border="0" alt="Products"></a><a href="/education/"><img src="/img/hdr/topnav_reslinks_education.gif" width="86" height="26" border="0" name="education_btn" alt="Education"></a><a href="/consulting/"><img src="/img/hdr/topnav_reslinks_consulting.gif" width="93" height="26" border="0" name="consult_btn" alt="Consulting"></a><a href="/company/"><img src="/img/hdr/topnav_reslinks_company_on.gif" width="77" height="26" name="company_btn" border="0" alt="Company"></a></td>
-		<td colspan="4" bgcolor="#FF9933"><img src="/img/spacer.gif" width="100" height="1"></td>
-		<td bgcolor="#FF9933"><img src="/img/spacer.gif" width="6" height="1"></td>
-		<td bgcolor="#FF9933"><img src="/img/spacer.gif" width="1" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="4" bgcolor="#FFCC66"><img src="/img/spacer.gif" width="100" height="1"></td>
-		<td bgcolor="#FFCC66"><img src="/img/spacer.gif" width="6" height="1"></td>
-		<td bgcolor="#FFCC66"><img src="/img/spacer.gif" width="1" height="1"></td>
-	</tr>
-	<tr>
-<!-- SEARCH ROW:  portal links stretch down first 2 columns ------------------------------------------->
+<div style="position: absolute; top: 0; left: 0; z-index: 0;">
+	<a href="#body"><img src="/img/spacer.gif" width="1" height="1" border="0" alt="Skip to body content"></a>
+</div>
 
-		<td bgcolor="#ff9933" colspan="4">
-<!-- SEARCH TABLE BEGINS: -------------------------------------->
-<table width="" height="24" bgcolor="#ff9933" align="right" valign="top" cellpadding="0" cellspacine="0" border="0"><tbody><tr>
-		<td height="24" valign="top"><a href="/search/"><img height="24" border="0" name="search_btn" src="/img/hdr/topnav_ttl_search.gif" width="48"></a></td>
-		<td align="middle" valign="top" height="24"><font size="1" face="arial,helvetica">
-		</font><form method="get" action="/servlet/com.novell.services.it.PubSys.metasearch"><font size="1" face="arial,helvetica">
-		<input type="hidden" name="suffixproc" value="off">
-		<input type="hidden" name="thesaurus" value="0">
-		<input type="hidden" name="cmd" value="find">
-		<input type="hidden" name="disp" value="all">
-		<input type="hidden" name="grsz" value="10">
-		<input type="hidden" name="proximity" value="rank">
-		<input name="arg" size="8" class="hdr-forms">
-		<select name="db" class="hdr-forms">
-		<option value="education">in Education</option>
-		<option value="support">in Support</option>
-		<option value="products">in Products</option>
-		<option value="documentation">in Documentation</option>
-		<option value="solutions">in Solutions</option>
-		<option selected="" value="www">All of Novell</option>
-		</select></font></form></td>
-		<td height="24" valign="top"><input type="image" border="0" name="Input" src="/img/hdr/topnav_btn_search.gif" width="15" height="24" alt="Submit Search"></td>
-		
-</tr></tbody></table>
-<!-- SEARCH TABLE ENDS -------------------------------------->
-		</td>
-		<td bgcolor="#ff9933"><img height="1" src="/img/spacer.gif" width="1"></td>
-		<td bgcolor="#ff9933"><img height="1" src="/img/spacer.gif" width="1"></td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td>&nbsp;</td>
+	<td colspan="2" bgcolor="#CC0000">
+		<table border="0" width="477" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><!-- _________________Top navigation row
+			 --><a href="http://support.novell.com/" onmouseover="button_change(support,1)" onmouseout="button_change(support,0)"><img src="/inc/img/topnav_0.gif" border="0" name="support" alt="Get Support"></a><!-- 
+			 --><a href="/download/" onmouseover="button_change(download,3)" onmouseout="button_change(download,2)"><img src="/inc/img/topnav_2.gif" border="0" name="download" alt="Download Software"></a><!-- 
+			 --><a href="/commerce/" onmouseover="button_change(shop,5)" onmouseout="button_change(shop,4)"><img src="/inc/img/topnav_4.gif" border="0" name="shop" alt="Go Shopping"></a><!-- 
+			 --><a href="/company/contact.html" onmouseover="button_change(contact,7)" onmouseout="button_change(contact,6)"><img src="/inc/img/topnav_6.gif" border="0" name="contact" alt="Contact Us"></a><!-- 
+			 --><img src="/inc/img/vert_div.gif" border="0" alt=""><br><!-- <img src="/inc/img/topnav_8.gif" border=0 name="login" alt="Login"><br> --></td>
+		</tr>
+		</tbody></table>
+	</td>
+	<td colspan="2" bgcolor="#CC0000">&nbsp;</td>
+</tr>
+<tr>
+	<td><img src="/img/spacer.gif" width="187" height="1" alt=""><br></td>
+	<td bgcolor="#990000"><img src="/img/spacer.gif" width="357" height="1" alt=""><br></td>
+	<td bgcolor="#990000"><img src="/img/spacer.gif" width="120" height="1" alt=""><br></td>
+	<td width="50%" bgcolor="#990000"><img src="/img/spacer.gif" width="1" height="1" alt=""><br></td>
+	<td bgcolor="#990000"><img src="/img/spacer.gif" width="10" height="1" alt=""><br></td>
+</tr>
+<tr>
+	<td colspan="2">
+		<table border="0" width="544" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><a href="/"><img src="/inc/img/novell_logo.gif" width="187" height="33" border="0" alt="Novell Worldwide Home"></a><br></td>
+			<td background="/inc/img/tile.gif"><img src="/img/spacer.gif" width="50" height="1" alt=""><br></td>
+			<td><!-- Main row of navigation
+			 --><script language="JavaScript"><!--
+			 alwaysDown = "company" 
+			 writeMainNav(alwaysDown);
+			// --></script><a href="/products/" onmouseover="button_change(products,13)" onmouseout="button_change(products,12)"><img src="/inc/img/topnav_12.gif" border="0" name="products" alt="Products"></a><a href="/education/" onmouseover="button_change(education,15)" onmouseout="button_change(education,14)"><img src="/inc/img/topnav_14.gif" border="0" name="education" alt="Education"></a><a href="/consulting/" onmouseover="button_change(consulting,17)" onmouseout="button_change(consulting,16)"><img src="/inc/img/topnav_16.gif" border="0" name="consulting" alt="Consulting"></a><a href="/company/" onmouseover="button_change(company,19)" onmouseout="button_change(company,19)"><img src="/inc/img/topnav_19.gif" border="0" name="company" alt="Company"></a><br></td>
+		</tr>
+		<tr>
+			<td colspan="3" bgcolor="#FFCC33"><img src="/img/spacer.gif" width="1" height="21" alt=""><br></td>
+		</tr>
+		</tbody></table>
+	</td>
+	<td colspan="3" bgcolor="#FFCC33" background="/inc/img/tile.gif" valign="bottom" align="right">
+		<!-- SEARCH TABLE BEGINS: -->
+		<table border="0" cellspacing="0" cellpadding="0" background="/img/spacer.gif">
+			<form action="http://search.novell.com/NSearch/SearchServlet" name="SearchForm" method="get" onsubmit="javascript:return doQuery(this, true);"></form>
+			<tbody><tr>
+				<td><img src="/inc/img/search.gif" width="45" height="27" alt="Search"><br></td>
+				<td><font size="1" face="arial,helvetica"><input type="text" name="query0" value="" size="14" class="hdr-forms"></font></td>
+				<td><font size="1" face="arial,helvetica">
+					<select name="collection" class="hdr-forms" onchange="javascript:collectionChanged(this);">
+						<script language="JavaScript">
+						<!--
+							for (var i=0; i < stColls.length; i++)
+							{
+								writeCollection(stColls[i].Collections, stColls[i].DisplayText);
+							}
+							for (var i=0; i < dyColls.length; i++)
+							{
+								writeCollection(dyColls[i].Collections, dyColls[i].DisplayText);
+							}
+							selectCollection('Company');
+						// -->
+						</script>			<option value="">All of Novell</option>
+			<option value="Products">in Products</option>
+			<option value="Education">in Education</option>
+			<option value="Consulting">in Consulting</option>
+			<option value="Company">in Company</option>
+			<option value="Support">in Support</option>
+			<option value="Developer">in Developer</option>
+			<option value="Documentation">in Documentation</option>
 
-<!-- navigation row ends ------------------------------------------->
-	</tr>
-	<tr bgcolor="#990000">
-		<td colspan="8"><img src="/img/spacer.gif" width="100" height="9"></td>
-	</tr>
+					</select></font>
+					<input type="HIDDEN" name="theme" value="">
+					<input type="HIDDEN" name="encoding" value="iso-8859-1">
+					<input type="HIDDEN" name="noredirect" value="">
+					</td>
+				<td><input type="image" src="/inc/img/search_arrow.gif" border="0" alt="Submit Search"><br></td>
+				<td><img src="/img/spacer.gif" width="10" height="10" alt=""><br></td>
+			</tr>
+			
+		</tbody></table>
+		<!-- SEARCH TABLE ENDS -->
+	</td>
+</tr>
+<tr>
+	<td colspan="5" bgcolor="#FF9900" align="right"><a href="/search/"><img src="/inc/img/adv_search.gif" width="100" height="17" hspace="56" border="0" alt="" advanced="" search=""></a><br></td>
+</tr>
+<tr>
+	<td colspan="5" bgcolor="#990000"><img src="/img/spacer.gif" width="1" height="9" alt=""><br></td>
+</tr>
 </tbody></table>
-<!--  END HEADER  -->
-<!--*Robots Index -->
-<!--  END VIRTUAL HEADER INCLUDE  -->
 
+<a name="body"></a>
+
+<!--*Robots Index -->
 
 <!--  END VIRTUAL SECTION HEADER INCLUDE  -->
 <!--------------------------------------------------------->
 <!--  BEGIN BODY TABLE  -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr> 
-		<td width="770" valign="top">
-			<table width="770" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr> 
-					<td width="10" bgcolor="#CC0000" valign="top">&nbsp;</td>
-					<td width="1" bgcolor="#FF6633" valign="top"><img src="/img/spacer.gif" width="1" height="1"></td>
-					<td width="176" bgcolor="#CC0000" valign="top" background="/img/sh/leftnav_bkgrnd.gif"> 
-						<!--------------------------------------------------------->
-						<!--  BEGIN SUBJECT LEVEL NAVIGATION  -->
-						<!--  USE CSS CLASS ID "leftNav" FOR HTML TEXT IN THIS AREA  --> 
-						<!--  ADD ROWS AS NECESSARY UP TO A MAXIMUM OF 12 ROWS  -->
-						<!--  THIS TABLE CAN BE CREATED AS A VIRTUAL INCLUDE  -->
-						<!--  PLACE NAVIGATION LINKS IN THE CELL WITH 155 AS THE WIDTH  -->
-						<table width="176" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr> 
-								<td colspan="3" valign="top"><img src="img/leftnav_ttl_privacylinks.gif" width="176" height="34" alt="Privacy Links"></td>
-							</tr>
-							<tr> 
-								<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
-								<td width="155" class="leftNav" bgcolor="#CC0000"><a href="privacy_statement.html">NOVELL PRIVACY STATEMENT</a></td>
-								<td width="10" bgcolor="#CC0000">&nbsp;</td>
-							</tr>
-							<tr> 
-								<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
-								<td width="155" class="leftNav" bgcolor="#CC0000"><a href="http://www.truste.org"><!--TRUSTe</a>--></a></td>
-								<td width="10" bgcolor="#CC0000">&nbsp;</td>
-							</tr>
-							<tr> 
-								<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
-								<td width="155" class="leftNav" bgcolor="#CC0000"><!--<A HREF="/company/policies/">POLICY</a>--></td>
-								<td width="10" bgcolor="#CC0000">&nbsp;</td>
-							</tr>
-							<tr> 
-								<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
-								<td width="155" class="leftNav" bgcolor="#CC0000"><a href="/company/legal/permission/index.html"><!--PERMISSION</a>--></a></td>
-								<td width="10" bgcolor="#CC0000">&nbsp;</td>
-							</tr>
-							<tr> 
-								<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
-								<td width="155" class="leftNav" bgcolor="#CC0000"><a href="/company/policies/privacy/index.html"><!--PRIVACY</a>--></a></td>
-								<td width="10" bgcolor="#CC0000">&nbsp;</td>
-							</tr>
-							<tr> 
-								<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
-								<td width="155" class="leftNav" bgcolor="#CC0000"><a href="/company/legal/encrypt.html"><!--ENCRYPTION</a>--></a></td>
-								<td width="10" bgcolor="#CC0000">&nbsp;</td>
-							</tr>
-							<tr> 
-								<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
-								<td width="155" class="leftNav" bgcolor="#CC0000"><!--<a href="#">RESOURCE CENTER</a>--></td>
-								<td width="10" bgcolor="#CC0000">&nbsp;</td>
-							</tr>
-							<tr> 
-								<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
-								<td width="155" class="leftNav" bgcolor="#CC0000"><a href="#"><!--PARTNERS</a>--></a></td>
-								<td width="10" bgcolor="#CC0000">&nbsp;</td>
-							</tr>
-							<tr> 
-								<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
-								<td width="155" class="leftNav" bgcolor="#CC0000"><a href="#"><!--UPGRADES</a>--></a></td>
-								<td width="10" bgcolor="#CC0000">&nbsp;</td>
-							</tr>
-							<tr> 
-								<td width="8" valign="top">&nbsp;</td>
-								<td width="155" class="leftNav" bgcolor="#CC0000">&nbsp;</td>
-								<td width="10" bgcolor="#CC0000">&nbsp;</td>
-							</tr>
-						</tbody></table>
-						<!--  END SUBJECT LEVEL NAVIGATION/LINKS  -->
-						<!--------------------------------------------------------->
-						<!--  BEGIN RELATED LINKS NAVIGATION  --> 
-						<!--  USE CSS CLASS ID "relLinks" FOR HTML TEXT IN THIS AREA  --> 
-						<!--  ADD ROWS AS NECESSARY UP TO A MAXIMUM OF 12 ROWS -->
-						<!--  DO NOT USE IMAGE "/img/sh/leftnav_poparrow.gif" FOR ANY RELATED LINKS  --> 
-						<!--  THIS TABLE CAN BE CREATED AS A VIRTUAL INCLUDE  -->
-						<!--  PLACE RELATED LINKS IN THE CELL WITH 157 AS THE WIDTH  -->
-						<table width="176" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td colspan="3"><img src="/img/sh/leftnav_ttl_relatedlink.gif" width="166" height="25" alt="Related Links"></td>
-								<td width="10">&nbsp;</td>
-							</tr>
-							<tr>
-								<td width="8">&nbsp;</td>
-								<td width="157" class="relLink"><a href="/company/policies/">Public Policy</a></td>
-							</tr>
-							<tr>
-								<td width="8">&nbsp;</td>
-								<td width="157" class="relLink"><a href="/company/legal/index.html">Legal</a></td>
-							</tr>
-							<tr>
-							<td width="8">&nbsp;</td>
-								<td width="157" class="relLink"><a href="/company/index.html">Company Info</a></td>
-							</tr>
-							<tr>
-								<td width="8">&nbsp;</td>
-								<td width="157" class="relLink"><a href="http://www.truste.org">TRUSTe</a></td>
-							</tr>
-							<tr> 
-								<td width="8">&nbsp;</td>
-								<td width="157" class="relLink"><!--<a href="#">Customer Showcase</a>--></td>
-							</tr>
-							<tr>
-								<td width="8">&nbsp;</td>
-								<td width="157" class="relLink"><!--<a href="#">Documentation</a>--></td>
-							</tr>
-							<tr>
-							<td width="8">&nbsp;</td>
-								<td width="157" class="relLink"><!--<a href="#">Security Services</a>--></td>
-							</tr>
-							<tr>
-								<td width="8">&nbsp;</td>
-								<td width="157" class="relLink"> <!--<a href="#">Solutions Search</a>--><br><br><br></td>
-							</tr>
-							<tr>
-								<td colspan="4" background="img/leftnav_bkgrnd.gif"></td>
-							</tr>
-						</tbody></table>
-						<!--  END RELATED LINKS NAVIGATION  -->
-						<!--------------------------------------------------------->
-					</td>
-					<td width="392" valign="top">&nbsp;</td>
-					<td width="383" valign="top">
-						<!--------------------------------------------------------->
-						<!--  BEGIN BODY CONTENT TABLE  -->
-						<!--  ADD ROWS AS NECESSARY  -->
-						<table width="383" border="0" cellspacing="0" cellpadding="0">
-							<!--  BEGIN UPWARD NAVIGATION ROW  -->
-							<!--  USE CSS CLASS ID "upNav" FOR HTML TEXT IN THIS AREA  -->
-							<!--  UPWARD NAVIGATION ROW SHOULD BE FIRST ROW IN YOUR TABLE  -->
-							<!--  USE IMAGE "/img/sh/btn_uparrow.gif" IN THE FIRST CELL OF THE ROW  -->
-							<!--  IMAGE SHOULD BE RELATIVE TO THE SERVER ROOT  -->
-							<tbody><tr>
-								<td width="13"><img src="/img/sh/btn_uparrow.gif" width="13" height="25"></td>
-								<td width="361" class="upNav"><a href="../index.html">COMPANY HOME</a></td>
-								<td width="9">&nbsp;</td>
-							</tr>
-							<!--  END UPWARD NAVIGATION ROW  -->
-							<!--------------------------------------------------------->
-							<!--  BEGIN MAIN BODY CONTENT AREA  -->
-							<!--  USE CSS CLASS ID "bodyHead" FOR HTML HEADER TEXT IN THIS AREA  -->
-							<!--  USE CSS CLASS ID "bodyCopy" FOR HTML TEXT IN THIS AREA  -->
-							<!--  IMAGES IN THIS AREA SHOULD BE RELATIVE TO THE PAGE  -->
-							<!--  I.E. <img src="img/canvaspromo.gif" width="383" height="148" vspace="3">  -->
-							<!--  NEXT ROW SHOULD HAVE A COLSPAN OF 3 AND INCLUDE THE SUBJECT TITLE IMAGE THAT IS 383 PIXELS WIDE  -->
-							<tr>
-								<td colspan="3"> 
-									<p><img src="img/privacy_title.gif" width="383" height="55" alt="Privacy"></p>									
-								</td>
-							</tr>
-							<tr>
-								<td width="13">&nbsp;</td>
-								
-								<td width="361">
-								<br>
-									<img src="img/solaris_sm.jpg" width="178" height="180" border="0"> 
+<tbody><tr> 
+<td width="770" valign="top">
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td width="10" bgcolor="#CC0000" valign="top">&nbsp;</td>
+<td width="1" bgcolor="#FF6633" valign="top"><img src="/img/spacer.gif" width="1" height="1"></td>
+<td width="176" bgcolor="#CC0000" valign="top" background="/img/sh/leftnav_bkgrnd.gif"> 
+<!--------------------------------------------------------->
+<!--  BEGIN SUBJECT LEVEL NAVIGATION  -->
+<!--  USE CSS CLASS ID "leftNav" FOR HTML TEXT IN THIS AREA  --> 
+<!--  ADD ROWS AS NECESSARY UP TO A MAXIMUM OF 12 ROWS  -->
+<!--  THIS TABLE CAN BE CREATED AS A VIRTUAL INCLUDE  -->
+<!--  PLACE NAVIGATION LINKS IN THE CELL WITH 155 AS THE WIDTH  -->
+<table width="176" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td colspan="3" valign="top"><img src="img/leftnav_ttl_privacylinks.gif" width="176" height="34" alt="Privacy Links"></td>
+</tr>
+<tr> 
+<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
+<td width="155" class="leftNav" bgcolor="#CC0000"><a href="privacy_statement.html">NOVELL PRIVACY STATEMENT</a></td>
+<td width="10" bgcolor="#CC0000">&nbsp;</td>
+</tr>
+<tr> 
+<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
+<td width="155" class="leftNav" bgcolor="#CC0000"><a href="http://www.truste.org"><!--TRUSTe</a>--></a></td>
+<td width="10" bgcolor="#CC0000">&nbsp;</td>
+</tr>
+<tr> 
+<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
+<td width="155" class="leftNav" bgcolor="#CC0000"><!--<A HREF="/company/policies/">POLICY</a>--></td>
+<td width="10" bgcolor="#CC0000">&nbsp;</td>
+</tr>
+<tr> 
+<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
+<td width="155" class="leftNav" bgcolor="#CC0000"><a href="/company/legal/permission/index.html"><!--PERMISSION</a>--></a></td>
+<td width="10" bgcolor="#CC0000">&nbsp;</td>
+</tr>
+<tr> 
+<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
+<td width="155" class="leftNav" bgcolor="#CC0000"><a href="/company/policies/privacy/index.html"><!--PRIVACY</a>--></a></td>
+<td width="10" bgcolor="#CC0000">&nbsp;</td>
+</tr>
+<tr> 
+<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
+<td width="155" class="leftNav" bgcolor="#CC0000"><a href="/company/legal/encrypt.html"><!--ENCRYPTION</a>--></a></td>
+<td width="10" bgcolor="#CC0000">&nbsp;</td>
+</tr>
+<tr> 
+<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
+<td width="155" class="leftNav" bgcolor="#CC0000"><!--<a href="#">RESOURCE CENTER</a>--></td>
+<td width="10" bgcolor="#CC0000">&nbsp;</td>
+</tr>
+<tr> 
+<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
+<td width="155" class="leftNav" bgcolor="#CC0000"><a href="#"><!--PARTNERS</a>--></a></td>
+<td width="10" bgcolor="#CC0000">&nbsp;</td>
+</tr>
+<tr> 
+<td width="8" valign="top"><img src="/img/spacer.gif" width="8" height="18"></td>
+<td width="155" class="leftNav" bgcolor="#CC0000"><a href="#"><!--UPGRADES</a>--></a></td>
+<td width="10" bgcolor="#CC0000">&nbsp;</td>
+</tr>
+<tr> 
+<td width="8" valign="top">&nbsp;</td>
+<td width="155" class="leftNav" bgcolor="#CC0000">&nbsp;</td>
+<td width="10" bgcolor="#CC0000">&nbsp;</td>
+</tr>
+</tbody></table>
+<!--  END SUBJECT LEVEL NAVIGATION/LINKS  -->
+<!--------------------------------------------------------->
+<!--  BEGIN RELATED LINKS NAVIGATION  --> 
+<!--  USE CSS CLASS ID "relLinks" FOR HTML TEXT IN THIS AREA  --> 
+<!--  ADD ROWS AS NECESSARY UP TO A MAXIMUM OF 12 ROWS -->
+<!--  DO NOT USE IMAGE "/img/sh/leftnav_poparrow.gif" FOR ANY RELATED LINKS  --> 
+<!--  THIS TABLE CAN BE CREATED AS A VIRTUAL INCLUDE  -->
+<!--  PLACE RELATED LINKS IN THE CELL WITH 157 AS THE WIDTH  -->
+<table width="176" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="3"><img src="/img/sh/leftnav_ttl_relatedlink.gif" width="166" height="25" alt="Related Links"></td>
+<td width="10">&nbsp;</td>
+</tr>
+<tr>
+<td width="8">&nbsp;</td>
+<td width="157" class="relLink"><a href="/company/policies/">Public Policy</a></td>
+</tr>
+<tr>
+<td width="8">&nbsp;</td>
+<td width="157" class="relLink"><a href="/company/legal/index.html">Legal</a></td>
+</tr>
+<tr>
+<td width="8">&nbsp;</td>
+<td width="157" class="relLink"><a href="/company/index.html">Company Info</a></td>
+</tr>
+<tr>
+<td width="8">&nbsp;</td>
+<td width="157" class="relLink"><a href="http://www.truste.org">TRUSTe</a></td>
+</tr>
+<tr> 
+<td width="8">&nbsp;</td>
+<td width="157" class="relLink"><!--<a href="#">Customer Showcase</a>--></td>
+</tr>
+<tr>
+<td width="8">&nbsp;</td>
+<td width="157" class="relLink"><!--<a href="#">Documentation</a>--></td>
+</tr>
+<tr>
+<td width="8">&nbsp;</td>
+<td width="157" class="relLink"><!--<a href="#">Security Services</a>--></td>
+</tr>
+<tr>
+<td width="8">&nbsp;</td>
+<td width="157" class="relLink"> <!--<a href="#">Solutions Search</a>--><br><br><br></td>
+</tr>
+<tr>
+<td colspan="4" background="/img/sh/leftnav_bkgrnd.gif"></td>
+</tr>
+</tbody></table>
+<!--  END RELATED LINKS NAVIGATION  -->
+<!--------------------------------------------------------->
+</td>
+<td width="392" valign="top">&nbsp;</td>
+<td width="383" valign="top">
+<!--------------------------------------------------------->
+<!--  BEGIN BODY CONTENT TABLE  -->
+<!--  ADD ROWS AS NECESSARY  -->
+<table width="383" border="0" cellspacing="0" cellpadding="0">
+<!--  BEGIN UPWARD NAVIGATION ROW  -->
+<!--  USE CSS CLASS ID "upNav" FOR HTML TEXT IN THIS AREA  -->
+<!--  UPWARD NAVIGATION ROW SHOULD BE FIRST ROW IN YOUR TABLE  -->
+<!--  USE IMAGE "/img/sh/btn_uparrow.gif" IN THE FIRST CELL OF THE ROW  -->
+<!--  IMAGE SHOULD BE RELATIVE TO THE SERVER ROOT  -->
+<tbody><tr>
+<td width="13"><img src="/img/sh/btn_uparrow.gif" width="13" height="25"></td>
+<td width="361" class="upNav"><a href="../index.html">COMPANY HOME</a></td>
+<td width="9">&nbsp;</td>
+</tr>
+<!--  END UPWARD NAVIGATION ROW  -->
+<!--------------------------------------------------------->
+<!--  BEGIN MAIN BODY CONTENT AREA  -->
+<!--  USE CSS CLASS ID "bodyHead" FOR HTML HEADER TEXT IN THIS AREA  -->
+<!--  USE CSS CLASS ID "bodyCopy" FOR HTML TEXT IN THIS AREA  -->
+<!--  IMAGES IN THIS AREA SHOULD BE RELATIVE TO THE PAGE  -->
+<!--  I.E. <img src="img/canvaspromo.gif" width="383" height="148" vspace="3">  -->
+<!--  NEXT ROW SHOULD HAVE A COLSPAN OF 3 AND INCLUDE THE SUBJECT TITLE IMAGE THAT IS 383 PIXELS WIDE  -->
+<tr>
+<td colspan="3"> 
+	<p><img src="img/privacy_title.gif" width="383" height="55" alt="Privacy"></p>									
+</td>
+</tr>
+<tr>
+<td width="13">&nbsp;</td>
+
+<td width="361">
+<br>
+	<img src="img/solaris_sm.jpg" width="178" height="180" border="0"> 
 
 <p class="head1">Novell Online Privacy Policy 
 
@@ -500,19 +740,13 @@ Novell is a premier sponsor of <b>TRUSTe</b> and a member of the <b>TRUSTe priva
 <!--  BEGIN VIRTUAL FOOTER INCLUDE  -->
 	<!--  BEGIN FOOTER  -->
 <!--*Robots NoIndex -->
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td bgcolor="#990000" nowrap="" align="left"><img src="/img/spacer.gif" width="246" height="24" align="left">
-<div class="footerText">
-<a href="/web/redesign/">REDESIGN INFO</a>&nbsp;&nbsp;
-|&nbsp;&nbsp;<a href="/index/">SITE INDEX</a>&nbsp;&nbsp;
-|&nbsp;&nbsp;<a href="/cgi-bin/customjs/corp/text.html">TEXT ONLY</a>&nbsp;&nbsp;
-|&nbsp;&nbsp;<a href="/company/legal/">LEGAL ©2000 NOVELL, INC.</a> &nbsp;&nbsp;
-|&nbsp;&nbsp;<a href="/company/policies/privacy/">PRIVACY</a>&nbsp;&nbsp;
-|&nbsp;&nbsp;<a href="http://webapps.novell.com/cgi-bin/custom/corp/feedback.pl">FEEDBACK</a>
-</div></td>
-</tr>
+	<tbody><tr>
+		<td bgcolor="#990000" align="center" valign="middle" nowrap=""><div class="footerText"><a href="/index/">SITE INDEX</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/servlet/com.novell.services.it.PubSys.swapper">TEXT ONLY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/company/legal/">LEGAL © 2001 NOVELL, INC.</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href="/company/policies/privacy/">PRIVACY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://webapps.novell.com/cgi-bin/custom/corp/feedback.pl">FEEDBACK</a></div></td>
+	</tr>
 </tbody></table>
+
 <!--*Robots Index -->
 <!--  END FOOTER  -->
 
