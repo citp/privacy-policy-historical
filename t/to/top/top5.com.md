@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2003-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031012020114id_/http%3A//top5.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2004-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040514235402id_/http%3A//www.top5.com/privacy.htm) for the most accurate reproduction.*
 
 # Top Five Data Services, Inc.
 
-This Privacy Statement sets forth the privacy policy pertaining to this Site, [www.top5.com](http://www.top5.com/). By using **Top Five Data Services, Inc.'s** Site, you are agreeing to the terms set forth in this Privacy Statement. For other terms and conditions that apply to your use of our Site, please review our [Legal Statement](https://web.archive.org/web/20031012020114id_/http%3A//top5.com/legal.htm). 
+This Privacy Statement sets forth the privacy policy pertaining to this Site, [www.top5.com](http://www.top5.com/). By using **Top Five Data Services, Inc.'s** Site, you are agreeing to the terms set forth in this Privacy Statement. For other terms and conditions that apply to your use of our Site, please review our [Legal Statement](https://web.archive.org/web/20040514235402id_/http%3A//www.top5.com/legal.htm). 
 
 For purposes of this Privacy Policy Statement, "Personal Information" means any information by which you can be personally identified and includes your name, your address, your telephone number, your e-mail address and the like. **Top Five Data Services, Inc.** may request Personal Information in order for us to serve you more effectively. We also may solicit e-mail for site feedback, business development and inquiries. **Top Five Data Services, Inc.** collects Personal Information only when you voluntarily submit such Personal Information to us. 
 
