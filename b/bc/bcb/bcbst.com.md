@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbst.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602123455id_/http%3A//www.bcbst.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbst.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205184822id_/http%3A//www.bcbst.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # BCBST Privacy Policy
 
@@ -9,13 +9,13 @@
 
 * * *
 
-[Gramm-Leach-Bliley Act Privacy Notice](https://web.archive.org/web/20020602123455id_/http%3A//www.bcbst.com/legal/GLB_privacy.pdf)
+[Gramm-Leach-Bliley Act Privacy Notice](https://web.archive.org/web/20021205184822id_/http%3A//www.bcbst.com/legal/GLB_privacy.pdf)
 
 * * *
 
 As part of the day to day business operations of BlueCross BlueShield of Tennessee (BCBST), including operation of the BCBST web site, we receive and maintain certain information regarding our subscribers and members. Information received from the BCBST web site depends in part on what you do when you visit or transact business on the BCBST web site. BCBST respects the privacy of every individual who visits our web site. Therefore, we would like to define the types of information we receive and describe how it is maintained in this privacy policy ("Privacy Policy").
 
-USING THIS WEB SITE CONFIRMS YOUR CONSENT AND AGREEMENT TO OUR PRIVACY POLICY, INCLUDING COLLECTION, USE AND DISCLOSURE OF INFORMATION BY BCBST AS DESCRIBED HEREIN. YOUR USAGE ALSO SIGNIFIES YOUR COMPLIANCE WITH OUR [**USER AGREEMENT**](https://web.archive.org/web/20020602123455id_/http%3A//www.bcbst.com/legal/user_agrmt.asp).
+USING THIS WEB SITE CONFIRMS YOUR CONSENT AND AGREEMENT TO OUR PRIVACY POLICY, INCLUDING COLLECTION, USE AND DISCLOSURE OF INFORMATION BY BCBST AS DESCRIBED HEREIN. YOUR USAGE ALSO SIGNIFIES YOUR COMPLIANCE WITH OUR [**USER AGREEMENT**](https://web.archive.org/web/20021205184822id_/http%3A//www.bcbst.com/legal/user_agrmt.asp).
 
   * **Guests** \- Browsers of our web site often visit solely to obtain general information about BCBST’s operations and services. If you visit our web site to read or download information, you enter our secured site as a guest. As a guest, we collect and store only the following information: the name of the domain from which you access the Internet (for example: aol.com, if you connect from an America Online account), the date and time you accessed our site and the Internet address of the web site from which you linked directly to our site. We use this information to measure the number of visitors to the different sections of our site and to help us make our site more useful to visitors.
   * **Members** \- Browsers who currently have health insurance coverage with BCBST can access our web site to conduct transactions such as submit an application for coverage; check claim status, referrals and pre-authorizations; verify benefit information; and pay premiums. Prior to utilization of these services, BCBST may ask for personal information (such as date of birth, social security number, name, address with zip code, telephone number and e-mail address) to verify appropriate usage. This information is collected during registration at which time, you will be asked to create a user name and password. BCBST, its employees or affiliates will not have access to your user name and password that you create. Upon receipt of your registration, BCBST generates a confirmation letter to your address of record for additional security. If you receive this notification by mail and did not register to access the services available on our web site, please contact BCBST immediately at [help_5911@bcbst.com](mailto:help_5911@bcbst.com)  or (423) 755-5911.
@@ -60,7 +60,7 @@ USING THIS WEB SITE CONFIRMS YOUR CONSENT AND AGREEMENT TO OUR PRIVACY POLICY, I
 > 
 > When the registration/login form asks users to enter sensitive information, that information is encrypted and is protected with the encryption software, specifically SSL 3.0, RC4 with 128 bit encryption (High) which may be updated from time to time. While on a secure page, such as the login page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just ‘‘surfing’’.
 > 
-> While BCBST uses SSL encryption to protect sensitive information online, BCBST protects user-information off-line. Only employees who need the information to perform a specific job are granted access to personally identifiable information. BCBST employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, all employees are kept up-to-date on BCBST security and privacy practices. Semi-annually, as well as any time new policies are added, employees are notified and/or reminded about the importance BCBST places on privacy, and what they can do to ensure our user information is protected. Finally, the servers that store personally identifiable information on are kept in a secure environment. 
+> While BCBST uses SSL encryption to protect sensitive information online, BCBST protects user-information off-line. Only employees who need the information to perform a specific job are granted access to personally identifiable information. BCBST employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, all employees are kept up-to-date on BCBST security and privacy practices. Semi-annually, as well as any time new policies are added, employees are notified and/or reminded about the importance BCBST places on privacy, and what they can do to ensure our user information is protected. Finally, the servers that store personally identifiable information are kept in a secure environment. 
 
 **BCBST Reserves The Right To Modify Its Privacy Policy**
 
@@ -68,4 +68,4 @@ USING THIS WEB SITE CONFIRMS YOUR CONSENT AND AGREEMENT TO OUR PRIVACY POLICY, I
 
 * * *
 
-Page last modified April 22, 2002
+Page last modified September 25, 2002
