@@ -1,106 +1,77 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com privacy policy that was archived on 1999-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991012111929id_/http%3A//cartoonnetwork.com/hq/legalsafety/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520034113id_/http%3A//www.cartoonnetwork.com/hq/legalsafety/privacy.html) for the most accurate reproduction.*
 
 # Cartoon Network: Privacy Information
 
-| **Mission**  
-Cartoon Network is fully committed to providing a fun, entertaining, and safe web site for people of all ages. CartoonNetwork.com supports and intends to comply with the privacy guidelines developed by the Online Privacy Alliance and the Children's Advertising Review Unit’s (CARU) of the Council of Better Business Bureaus. The CARU guidelines and our policy aim at "respecting and fostering the parents' role in providing guidance for their children." Because we want our audience to feel comfortable exploring the content offered on CartoonNetwork.com, this Online Safety & Privacy Policy outlines and clarifies how we collect and use information online, our advertising policies, and the safeguards we recommend to ensure a fun and safe web experience. As new technology and online standards evolve, we may modify these policies to better address your concerns.
+| **CartoonNetwork.com's Privacy Policy**
 
-**Data Collection**  
-CartoonNetwork.com does not sell or distribute any information obtained from our visitors to a third party, under any circumstance. We give parents (of children under the age of 13) notice via email when we collect information (email addresses or any other) from their child. For visitors over 13 years of age, we may collect information, with the user’s permission, that will be used to improve your experience on CartoonNetwork.com (example: online survey).
+CartoonNetwork.com is committed to providing a fun, entertaining, and safe web site for people of all ages. We are dedicated to safeguarding any personal information collected online and to helping parents and children learn how to exercise control over personal information while exploring the Internet. Because many of the visitors to this site are children, we take care that our content is suitable for children. In addition, we take special measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity, and we take efforts to prevent children from posting contact information. 
 
-Currently, there are three ways that CartoonNetwork.com collects information online:  
-1\. Sweepstakes and contests  
-2\. Voluntary submissions via email  
-3\. Cookie technology
+To help ensure a rewarding online experience for our visitors - and for the parents of our visitors who are children - we provide you with this summary of our information practices. This privacy notice governs the collection and use of information at CartoonNetwork.com, a Time Warner. 
 
-**Sweepstakes and Contests**  
-CartoonNetwork.com strives to create imaginative online contests or promotions. We do this because, well, it’s fun. However, before entering a Cartoon Network contest online, we require kids to ask a parent for permission. To enter online, we will ask for an email address or AOL screen name. Children under 13 years of age are required to enter their parent’s email address as well. This is done so that we may contact a parent via email to notify them that their child has entered a Cartoon Network contest and give them the option to remove the child’s email address from the list of other entries. Sometimes we may also require a visitor to provide us additional information that is not personally identifiable. For example, we might ask you to tell us your favorite character or answer a trivia question. 
+As we continue to offer our visitors new and different types of content and services, we may modify our practices from time to time. However, we will treat all personal information we collect in accordance with the privacy notice in effect at the time the information is collected. 
 
-The email address is only used to contact you if you have won. It is not collected or stored in any database to contact you at a future time. Once a winner has been selected, that person will be contacted via the winner’s email address given at time of entry. If the email address has changed or been deleted or is no longer operational, the entry will become void. Cartoon Network will not be held responsible for invalid email addresses. The winner will receive a notification letter via email that must be filled out and signed by a parent and returned through the U.S. Postal mail or specified fax number. Once the letter has been received, the prize will be awarded. In the event the letter is not returned by the specified deadline, the prize may be awarded to another entrant.
+**I. The Information We Collect**
 
-**Voluntary Submissions via Email**  
-Cartoon Network enjoys interacting with its audience. Therefore, there will be opportunities for visitors to contact us online. These currently include Mail Bag, Your 2 Cents, and the Feedback Button. In these areas, an email address will be collected, and in some cases, you may receive a response. 
+At CartoonNetwork.com, we do not collect any personally identifiable information unless our visitors voluntarily provide it to us. For some of our online activities - such as polls or surveys - we may ask our visitors to provide information that is not personally identifiable. This might include first name, city or state of residence, age, and gender, or a visitor's favorite cartoon character. To enable our visitors to participate in some of our other online activities - such as entering contests or sweepstakes or receiving email newsletters - we may ask them to provide personal information, such as full name and e-mail address. 
 
-In addition, sometimes you will have the choice to select the option to subscribe to a free online newsletter sent to the email address you provide. The newsletter will have fun, informative updates about CartoonNetwork.com. When a child under 13 years of age requests this newsletter, we collect their email address as well as their parent’s email address. A notification will be sent to the parent informing them that the child requested a free newsletter that will be sent to the child’s email account. The parent can request at any time, through the options described in the notification, how to un-subscribe their child from this newsletter. In addition, each time the newsletter is emailed, directions will clearly be stated how to remove oneself from the email newsletter.
+When a child under 13 enters a contest or sweepstakes or asks to receive our email newsletter, we will also ask for a parent's email address so that we can notify the parent that we have received personal information from the child. We do not knowingly collect names and email addresses from children under 13 without notifying the parent via email and giving them the opportunity to remove their child's name from the list of entries. Winners of our contests or sweepstakes are notified by email, and are required to send us by fax or regular mail a form containing their street address. Winners who are minors must have the form signed by a parent in order to receive their prizes. 
 
-Under no circumstances, will your email address be provided to any third parties. Again, we require children to get parental permission before using these areas. 
+When visitors come to our site, we automatically collect some non-personally identifiable information such as the type of computer operating system (e.g., Windows '95 or Mac OS) and browser (e.g., Netscape, Internet Explorer) being used, and the domain name of the Internet service provider (e.g., America Online, Earthlink). 
 
-**Cookies: the non-edible kind**  
-Cookies are little, tiny pieces of information that your browser stores on your computer, like what browser you're using or what operating system you use. At CartoonNetwork.com, we use cookies to help make your experience better and understand how well we're doing. We only use cookies so we know how many visitors we have and how often they visit: that's the best way to know if you like what we're doing. Under no circumstances do we use cookies to collect or cross-relate personal information about you. 
+**II. How We Use the Information**
 
-**Secure Server**  
-CartoonNetwork.com has a secure server which transmits the data, scrambles it and decodes it on our end. This is the best form of web technology available to protect that your information is not captured by an outside user. 
+We use visitors' personal information only for our internal purposes of enabling visitors to enter one of our online contests or sweepstakes or to subscribe to our online newsletter. We use the email addresses of parents to notify them when we have received information from their children and to give them the opportunity to have their child's name removed from our lists. 
 
-When you enter your email address or AOL® screen name for online contests on CartoonNetwork.com, this information is collected through a secure server. This information gets translated or encrypted with a complicated code by your browser, sent to our server, translated back into what you sent, and passed on to us. That way, no one can tell anything about you by listening in on our conversation: it's all encrypted and super secret.
+We do not keep any personal information we obtain through a contest or sweepstakes after the particular event is completed. We use the names and email addresses of subscribers to our email newsletter only to send them the newsletter. Each newsletter contains instructions on how to be removed from the subscription list by sending us a return email. 
 
-You'll know it's working when you see the little key icon at the bottom of the browser's screen turn a solid blue. The solid key means your connection to our server is encrypted and secure.
+We never sell, rent, or otherwise share our visitors' personal information with third parties. Sometimes, we will use agents or contractors to help us provide services to our visitors, such as helping us conduct a sweepstakes and sending prizes to the winners. In these cases, we require the agent or contractor to keep the information confidential and to use it only for the specific services they are performing. 
 
-**Bulletin Boards and Chat Rooms on America Online®**  
-On our site on America Online®, Cartoon Network offers visitors the opportunity to participate in our online community activities. These currently include our bulletin boards and chat rooms. All Cartoon Network community areas on AOL® are monitored to maintain a safe and fun environment. In addition, parents can control access a child has on AOL by going to keyword "parental controls," where they can select the areas in which their child may participate.
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site, to personalize our visitors' experience on CartoonNetwork.com, and to offer products, programs, and services. We also may use this information in the aggregate to analyze site usage, as well as to offer products, programs, or services. 
 
-**Advertising on CartoonNetwork.com**  
-It is very important to Cartoon Network that we help our audience, especially children, to be able to distinguish advertisements and promotional material. We have made efforts to create easy-to-understand notices that are clearly displayed on all advertising and promotional material on our site. In addition, all advertising banners will have the word "ad" or "advertisement" as part of its space.
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
-While visiting CartoonNetwork.com, advertisement banners will appear at the top of most of the pages on the screen. Many of these advertisement banners come from companies who want to tell the visitor about their goods and services. Other banners will be messages from CartoonNetwork.com telling the visitor about some features on our site or about our television network. By clicking on one of these banners, it will automatically go to a page which gives more information related to the banner. CartoonNetwork.com carefully screens all sponsor’s sites before linking to them. Of course, web sites and addresses change regularly, and we cannot guarantee the content of every place we link to.
+We will not use or transfer personally identifiable information in ways that are materially different from the ones described above without also providing parental notification of such practices and obtaining consent for any materially different uses. 
 
-In addition, Cartoon Network.com will be providing you special programming created by us that has been supported by our sponsors. This type of advertising will be clearly identified as being "presented by" or "sponsored by" a particular sponsor. In some cases, there will be a link to the sponsor’s web site.
+**III. Collection of Information by Third-Party Sites and Sponsors**
 
-**Safeguards**  
-**Monitor Your Child’s Internet Usage**  
-As we have taken special precautions to help aide in the safety of your child’s World Wide Web experience, we ask parents to closely monitor the Internet activities of their children and become educated on the various Internet and software tools available to help ensure that their child has a fun and satisfying on-line experience. You can visit your local computer store retailer for more information on these products.
+Our site contains links to other sites, including those of sponsors and advertisers, whose information practices may be different from ours. Sometimes, the other sites might conduct contests or sweepstakes that are promoted on Cartoon Network or CartoonNetwork.com. Visitors should consult the other sites' privacy notices, since those sites are not covered by our privacy policy and may follow procedures that are different from ours. 
 
-**America Online® Parental Controls**  
-America Online® has established a technology on their online service which allows parents to control and restrict the areas their children can go to not only on AOL, but on the Internet as well. AOL subscribers can go to keyword "parental controls" to find out more information.
+**IV. Cookies**
 
-| 
-| **Mission**  
-Cartoon Network is fully committed to providing a fun, entertaining, and safe web site for people of all ages. CartoonNetwork.com supports and intends to comply with the privacy guidelines developed by the Online Privacy Alliance and the Children's Advertising Review Unit’s (CARU) of the Council of Better Business Bureaus. The CARU guidelines and our policy aim at "respecting and fostering the parents' role in providing guidance for their children." Because we want our audience to feel comfortable exploring the content offered on CartoonNetwork.com, this Online Safety & Privacy Policy outlines and clarifies how we collect and use information online, our advertising policies, and the safeguards we recommend to ensure a fun and safe web experience. As new technology and online standards evolve, we may modify these policies to better address your concerns.
+CartoonNetwork.com uses a software technology called "cookies." Cookies are small text files that we place in visitors' computer browsers to store their preferences. Cookies themselves do not contain any personally identifiable information. Although cookies could enable us to relate a visitor's use of this Web site to personal information that a visitor has provided, such as an email address, we do not use them for this purpose. We do use "cookies" to determine how many visitors we have and how often they visit various sections of our site. 
 
-**Data Collection**  
-CartoonNetwork.com does not sell or distribute any information obtained from our visitors to a third party, under any circumstance. We give parents (of children under the age of 13) notice via email when we collect information (email addresses or any other) from their child. For visitors over 13 years of age, we may collect information, with the user’s permission, that will be used to improve your experience on CartoonNetwork.com (example: online survey).
+**V. Security**
 
-Currently, there are three ways that CartoonNetwork.com collects information online:  
-1\. Sweepstakes and contests  
-2\. Voluntary submissions via email  
-3\. Cookie technology
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-**Sweepstakes and Contests**  
-CartoonNetwork.com strives to create imaginative online contests or promotions. We do this because, well, it’s fun. However, before entering a Cartoon Network contest online, we require kids to ask a parent for permission. To enter online, we will ask for an email address or AOL screen name. Children under 13 years of age are required to enter their parent’s email address as well. This is done so that we may contact a parent via email to notify them that their child has entered a Cartoon Network contest and give them the option to remove the child’s email address from the list of other entries. Sometimes we may also require a visitor to provide us additional information that is not personally identifiable. For example, we might ask you to tell us your favorite character or answer a trivia question. 
+**VI. Parental Review of Information**
 
-The email address is only used to contact you if you have won. It is not collected or stored in any database to contact you at a future time. Once a winner has been selected, that person will be contacted via the winner’s email address given at time of entry. If the email address has changed or been deleted or is no longer operational, the entry will become void. Cartoon Network will not be held responsible for invalid email addresses. The winner will receive a notification letter via email that must be filled out and signed by a parent and returned through the U.S. Postal mail or specified fax number. Once the letter has been received, the prize will be awarded. In the event the letter is not returned by the specified deadline, the prize may be awarded to another entrant.
+Parents, please send a letter or postcard to our Privacy Manager at the mailing address provided below if you would like to do any of the following: 
 
-**Voluntary Submissions via Email**  
-Cartoon Network enjoys interacting with its audience. Therefore, there will be opportunities for visitors to contact us online. These currently include Mail Bag, Your 2 Cents, and the Feedback Button. In these areas, an email address will be collected, and in some cases, you may receive a response. 
+  * access the personally identifiable information that CartoonNetwork.com site has collected online from your child, 
+  * correct factual errors in such information, 
+  * request to have this information deleted, or 
+  * request that we no longer collect or maintain such information. 
 
-In addition, sometimes you will have the choice to select the option to subscribe to a free online newsletter sent to the email address you provide. The newsletter will have fun, informative updates about CartoonNetwork.com. When a child under 13 years of age requests this newsletter, we collect their email address as well as their parent’s email address. A notification will be sent to the parent informing them that the child requested a free newsletter that will be sent to the child’s email account. The parent can request at any time, through the options described in the notification, how to un-subscribe their child from this newsletter. In addition, each time the newsletter is emailed, directions will clearly be stated how to remove oneself from the email newsletter.
 
-Under no circumstances, will your email address be provided to any third parties. Again, we require children to get parental permission before using these areas. 
 
-**Cookies: the non-edible kind**  
-Cookies are little, tiny pieces of information that your browser stores on your computer, like what browser you're using or what operating system you use. At CartoonNetwork.com, we use cookies to help make your experience better and understand how well we're doing. We only use cookies so we know how many visitors we have and how often they visit: that's the best way to know if you like what we're doing. Under no circumstances do we use cookies to collect or cross-relate personal information about you. 
+Please be sure to include your email address and a telephone number where we can reach you. To protect your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about your child.
 
-**Secure Server**  
-CartoonNetwork.com has a secure server which transmits the data, scrambles it and decodes it on our end. This is the best form of web technology available to protect that your information is not captured by an outside user. 
+**VII. Contact Us**
 
-When you enter your email address or AOL® screen name for online contests on CartoonNetwork.com, this information is collected through a secure server. This information gets translated or encrypted with a complicated code by your browser, sent to our server, translated back into what you sent, and passed on to us. That way, no one can tell anything about you by listening in on our conversation: it's all encrypted and super secret.
+If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us at the following e-mail address, address and telephone number: 
 
-You'll know it's working when you see the little key icon at the bottom of the browser's screen turn a solid blue. The solid key means your connection to our server is encrypted and secure.
+**Privacy.CartoonNetwork@turner.com**
 
-**Bulletin Boards and Chat Rooms on America Online®**  
-On our site on America Online®, Cartoon Network offers visitors the opportunity to participate in our online community activities. These currently include our bulletin boards and chat rooms. All Cartoon Network community areas on AOL® are monitored to maintain a safe and fun environment. In addition, parents can control access a child has on AOL by going to keyword "parental controls," where they can select the areas in which their child may participate.
+Privacy Manager - Cartoon Network   
+TEG Online   
+1050 Techwood Drive   
+Atlanta, GA 30318 
 
-**Advertising on CartoonNetwork.com**  
-It is very important to Cartoon Network that we help our audience, especially children, to be able to distinguish advertisements and promotional material. We have made efforts to create easy-to-understand notices that are clearly displayed on all advertising and promotional material on our site. In addition, all advertising banners will have the word "ad" or "advertisement" as part of its space.
+404-878-0694
 
-While visiting CartoonNetwork.com, advertisement banners will appear at the top of most of the pages on the screen. Many of these advertisement banners come from companies who want to tell the visitor about their goods and services. Other banners will be messages from CartoonNetwork.com telling the visitor about some features on our site or about our television network. By clicking on one of these banners, it will automatically go to a page which gives more information related to the banner. CartoonNetwork.com carefully screens all sponsor’s sites before linking to them. Of course, web sites and addresses change regularly, and we cannot guarantee the content of every place we link to.
+**VIII. A Final Note to Parents**
 
-In addition, Cartoon Network.com will be providing you special programming created by us that has been supported by our sponsors. This type of advertising will be clearly identified as being "presented by" or "sponsored by" a particular sponsor. In some cases, there will be a link to the sponsor’s web site.
-
-**Safeguards**  
-**Monitor Your Child’s Internet Usage**  
-As we have taken special precautions to help aide in the safety of your child’s World Wide Web experience, we ask parents to closely monitor the Internet activities of their children and become educated on the various Internet and software tools available to help ensure that their child has a fun and satisfying on-line experience. You can visit your local computer store retailer for more information on these products.
-
-**America Online® Parental Controls**  
-America Online® has established a technology on their online service which allows parents to control and restrict the areas their children can go to not only on AOL, but on the Internet as well. AOL subscribers can go to keyword "parental controls" to find out more information.
+The Internet offers a world of opportunity for children. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to the visit The Direct Marketing Association's web site ([www.the-dma.org](http://www.the-dma.org/)) and explore the Get CyberSavvy! Program. Get CyberSavvy! helps families learn how information flows online so they can use the Internet in ways that protect their privacy and well-being. It also contains a number of valuable resources to help parents and children be aware of and express their preferences about information that is collected online and how it is used. Your efforts to instill responsible information practices will help steer your children to age-appropriate sites, and will go a long way toward ensuring that your children have enriching experiences online. 
 
 | 
