@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the mtishows.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202215201id_/http%3A//mtishows.com/legal_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtishows.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606061355id_/http%3A//www.mtishows.com/legal_privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy: Music Theatre International - MTI - Musical Theatre
 
-[](https://web.archive.org/web/20031202215201id_/http%3A//mtishows.com/selector_1.asp)  
+[](https://web.archive.org/web/20040606061355id_/http%3A//www.mtishows.com/selector_1.asp)  
 
 
 Did You Know?  
   
 ---  
   
-The first musical to feature murder as an essential ingredient of the plot was Rose-Marie in 1924, in which a fur trapper was falsely accused of a killing.   
+Scientists have discovered the oldest playable musical instrument in the world. It’s a flute carved from a bird’s wing bone more than 9,000 years ago. The flute was discovered with other flutes at an ancient burial site in China.   
   
 PRIVACY POLICY
 
@@ -53,4 +53,4 @@ For instructions on how you can access the personally identifiable information t
 
 **How to Contact Us**
 
-If you have any questions or concerns about the our online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20031202215201id_/http%3A//mtishows.com/contact.asp).
+If you have any questions or concerns about the our online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20040606061355id_/http%3A//www.mtishows.com/contact.asp).
