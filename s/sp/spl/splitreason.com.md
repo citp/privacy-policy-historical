@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splitreason.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210054748id_/http%3A//splitreason.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splitreason.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404130732id_/http%3A//splitreason.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Split Reason | T-shirts, hats and other apparel for the Internet Generation.
 
