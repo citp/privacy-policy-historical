@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602201641id_/http%3A//www.fs.fed.us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2004-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041117093338id_/http%3A//www.fs.fed.us/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy for the USDA Forest Service
+# USDA Forest Service - Caring for the land and serving people.
 
-Privacy Policy
-
-* * *
+## Privacy Policy
 
 1\. This website is provided as a public service by the [USDA Forest Service](http://www.fs.fed.us/).
 
@@ -34,15 +32,12 @@ xxx.yyy.com (or 123.123.23.12)-- this is the host name (or IP address) associate
 
 [28/Jan/1997:00:00:01 -0500] -- this is the date and time of the request
 
-"GET /news/nr012797.html HTTP/1.0" -- this is the location of the requested file on the web server 200 -- this is the status code - 200 is OK - the request was filled 
+"GET /news/nr012797.html HTTP/1.0" -- this is the location of the requested file on the web server 200 -- this is the status code \- 200 is OK - the request was filled
 
-16704 -- this is the size of the requested file in bytes 
+16704 -- this is the size of the requested file in bytes
 
 Mozilla 3.0 -- this identifies the type of browser software used to access the page, which indicates what design parameters to use in constructing the pages
 
 www.altavista.digital.com - this indicates the last site the person visited, which indicates how people find our site
 
 Requests for other types of documents use similar information. No personally-identifying information is collected.
-
-  
-
