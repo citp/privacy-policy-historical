@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the theromantic.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610090452id_/http%3A//www.theromantic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theromantic.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205000357id_/http%3A//www.theromantic.com/privacy.htm) for the most accurate reproduction.*
 
 # Contact Information
 
  
 
-## Privacy Statement for The Romantic.com
+## Privacy Statement for TheRomantic.com
 
-The RoMANtic has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: TheRomantic.com.
+TheRomantic.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: TheRomantic.com.
 
 This site contains links to other sites. **TheRomantic.com** is not responsible for the privacy practices or the content of such Web sites. 
 
@@ -16,13 +16,13 @@ We use an outside ad company to display ads on our site. Ads may contain cookies
 
 Some of the ads appearing on this Web site are delivered to you by DoubleClick's Sonar Network, our Web advertising partner. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. Information about your visit to this site and other sites (but not your name, address, or other personal information) is used to serve ads to you on this site and other sites. This information is not collected by Sonar and DoubleClick for profiling. For more information about Sonar, cookies, and your right to "opt-out", please click here. <http://www.sonar.com/naiprivacy>
 
-The RoMANtic's Guide works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to http://www.flycast.com/about_us/about-privacy.html
+TheRomantic.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to http://www.flycast.com/about_us/about-privacy.html
 
 ## Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  1. email webmaster @theromantic.com
+  1. email webmaster using the contact link at the bottom of the page
 
 
 
