@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205120342id_/http%3A//www.bp.com/legal/privacy_statement_page.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602181546id_/http%3A//www.bp.com/legal/privacy_statement_page.asp) for the most accurate reproduction.*
 
 # bp.com: Privacy statement
 
@@ -85,7 +85,7 @@ Self assessment procedure
 
 Name or designation of the privacy policy person or service| Data Protection Manager  
 ---|---  
-URL| [keddiem@bp.com](mailto:keddiem@bp.com)  
+Email address| [Data Protection Manager](mailto:datamanager@bp.com)  
 Country| UK  
   
 Independent data protection authority supervision  
@@ -97,9 +97,5 @@ If you have an enquiry or concern about our privacy policy, registration details
 
 Contact
 
-Name/designation| Privacy support  
----|---  
-Department| External Communications  
-Email address| [datamanager@bp.com](mailto:datamanager@bp.com)  
   
-If you are not satisfied with our response to your concern you may wish to contact the Data Protection Manager [(keddiem@bp.com)](mailto:keddiem@bp.com).
+If you are not satisfied with our response to your concern you may wish to contact the [Data Protection Manager](mailto:datamanager@bp.com).
