@@ -1,21 +1,30 @@
-> *The following text is extracted and transformed from the letterrep.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409191542id_/http%3A//www.letterrep.com/privacy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letterrep.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207143432id_/http%3A//letterrep.com/privacy.cfm) for the most accurate reproduction.*
 
-# LetterRep.com - Our Privacy Policy!
+# LetterRep.com - Online Pre-written Sample Letters to Copy, Paste, Edit and Print! We have Cover Letter Samples, Sample Letters of Recommendation, Sample Resignation Letters and many more!
 
-> **_Notice:_**  
->  "Personal information" includes information that can identify you as a specific individual, such as your name or email address. While you can browse our site without providing any personal information, you will need to provide some personal information in order to take advantage of certain features.
-> 
-> **_Browsing:_**  
->  We use standard web server log files to help us count visitors and evaluate our site's technical capacity. We use this information to find out how many people visit LetterRep.com, help us arrange the pages in the most user-friendly way, keep the site browser-friendly, and to make our pages more useful to our visitors.
-> 
-> **_Email, Mailing Lists, and Other Services:_**  
->  For some of our features you will be asked to provide your personal information, for example, if you fill out one of our surveys or if you request an autoresponder mini-course. We'll use your address to reply to you, letting you know a letter you've requested has been uploaded. If you sign up for a newsletter or on-line course, your e-mail address will be used for sending you editions. We do sell personal information. The sale of visitor information allows us to continue to provide our sample letters for free and still maintain our operational costs.
-> 
-> **_Linking To Other Sites:_**  
->  Please remember that when you use a link to go from LetterRep.com to another web site, the LetterRep.com Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including any site that has a link on LetterRep.com, is subject to the rules and policies of that site. We encourage you to read the rules and policies of the sites you visit to further understand their procedures for collecting, using, and disclosing personal information.
-> 
-> **_Changes to the LetterRep.com Privacy Policy:_**  
->  This Privacy Policy was updated in October 2002. LetterRep.com reserves the right to change, modify or amend this policy at any time. LetterRep.com takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. LetterRep.com will occasionally update our privacy policy and we will post those updates on this page. _You are responsible for revisiting this page to review our privacy policy updates_.
-> 
-> **_How to contact LetterRep.com:_**  
->  Please note that whenever you submit any information to us in connection with any LetterRep.com related services, you consent to LetterRep's processing of this information in the United States as necessary to provide the services in which you are participating. If you have any questions, comments, criticisms, or complaints about LetterRep.com's privacy policy and/or the way it affects you, please feel free to [_e-mail us_](https://web.archive.org/web/20030409191542id_/http%3A//www.letterrep.com/form.html).
+Depending on what you do when you visit any web site, you are providing information about your visit to the site's owners. This includes LetterRep.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask. At www.LetterRep.com and its related sites (collectively "LetterRep.com"), we use the information that we get from your visit for internal tracking purposes, to make LetterRep.com as useful and interesting to you as we can, and to respond to your requests for information or other services.
+
+**_Browsing:_**  
+We use standard web server log files to help us count visitors and evaluate our site's technical capacity. We use this information to find out how many people visit LetterRep.com, help us arrange the pages in the most user-friendly way, keep the site browser-friendly, and to make our pages more useful to our visitors.
+
+**_Notice:_**  
+"Personal information" includes information that can identify you as a specific individual, such as your name or email address. While you can browse our site without providing any personal information, you will need to provide some personal information in order to take advantage of certain features.
+
+**_Email, Mailing Lists, and Other Services:_**  
+For some of the features of our site, you will be asked to provide your personal information. If you request a letter from us, LetterRep.com will use your e-mail address to reply to you with the letter. If you sign up for the on-line course, your e-mail address will be used for sending you editions. We do sell personal information of those visitors who join with the Free Access Membership. The sale of visitor information allows us to continue to provide our sample letters for free and still maintain our operational costs. 
+
+**_Memberships:_**  
+LetterRep.com offers two types of memberships: Free Access Membership and Paid Subscription Membership.
+
+**Free Access Membership** \- Free access members are required to provide their personal information and to take marketing surveys every 30 days. This personal information and marketing survey data is sold to our sponsors who contact visitors with information about valuable goods and services. Free access members who choose the Paid Subscription Membership option will have their personal information migrated from the free access membership database tables to the paid subscription membership database tables. **Note:** LetterRep.com cannot guarantee that visitors who first sign up for the Free Access Membership and then later change membership options to the Paid Subscription Membership will not have had their personal information sold prior to the change of subscriptions. In such cases, visitors may be contacted by sponsors who purchased the personal information prior to the change of membership options. LetterRep.com does guarantee that visitors who change from the free access membership to the paid membership option will not have their personal information sold after the membership change has occurred.
+
+**Paid Subscription Membership** \- Paid subscription members are required to enter their personal information and make payment through the e-commerce gateway. Paid subscription members will not be required to take the marketing surveys and will not have their personal information sold. Paid subscription memberships are for a 365 day period. Within 30 days of the end of the 365 day term, visitors will be asked if they wish to renew their paid membership or to be migrated to the free access membership. Visitors who choose to move to the free access membership will be required to take a marketing survey and will be required to agree to LetterRep.com selling their personal information.
+
+**_Linking To Other Sites:_**  
+Please remember that when you use a link to go from LetterRep.com to another web site, the LetterRep.com Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including any site that has a link on LetterRep.com, is subject to the rules and policies of that site. We encourage you to read the rules and policies of the sites you visit to further understand their procedures for collecting, using, and disclosing personal information.
+
+**_Changes to the LetterRep.com Privacy Policy:_**  
+This Privacy Policy was updated in March 2003. LetterRep.com reserves the right to change, modify or amend this policy at any time. LetterRep.com takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. LetterRep.com will occasionally update our privacy policy and we will post those updates on this page. _You are responsible for revisiting this page to review our privacy policy updates_.
+
+**_How to contact LetterRep.com:_**  
+Please note that whenever you submit any information to us in connection with any LetterRep.com related services, you consent to LetterRep's processing of this information in the United States as necessary to provide the services in which you are participating. If you have any questions, comments, criticisms, or complaints about LetterRep.com's privacy policy and/or the way it affects you, please feel free to [_e-mail us_](https://web.archive.org/web/20031207143432id_/http%3A//letterrep.com/contact.cfm).
