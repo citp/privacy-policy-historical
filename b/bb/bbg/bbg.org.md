@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004144242id_/http%3A//bbg.org/abo/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618041843id_/http%3A//bbg.org/abo/privacypolicy.html) for the most accurate reproduction.*
 
 # BROOKLYN BOTANIC GARDEN >> Privacy Policy
 
@@ -12,6 +12,11 @@ Because we gather certain types of information about our users, we feel you shou
 The BBG online gift shop secure server software uses industry-standard Secure Socket Layer (SSL) encryption technology, which is among the best software available to safeguard online transactions. As it travels over the Internet, your personal information, including credit card number, name, and address, is encoded by SSL, so that all transactions are secure. If you prefer, you may also place your order by phone at 718-623-7280. 
 
 When you order a product from the Garden Gift Shop online, we need to know your name, billing and shipping addresses, telephone number, e-mail address, and credit card information to process your order. Your credit card information will be used only as needed to process your transaction. So that we can track your order, we will retain your order information for our records. BBG does not sell, rent, or otherwise exploit in any way the customer information collected in this process. 
+
+**Brooklyn Botanic Garden Online Membership Purchases and Donations**  
+BBG processes online membership purchases, membership renewals, and donations using technology provided by Blackbaud, Inc. The latest encryption technologies are employed, and Blackbaud will not disclose, sell, trade, rent, or otherwise reveal your personal information to any entity other than BBG. Blackbuad is committed to protecting your privacy. To view their privacy policy, follow the link below. 
+
+> [Blackbaud, Inc. Privacy Policy](https://dnbweb1.blackbaud.com/OPXREPHIL/Privacy.asp?cguid=D65E2578%2DC29C%2D4BCC%2D8165%2D34647316E105&sid=000CA753%2D36EC%2D45CB%2D82FD%2D13CE43221B25)
 
 **Cookies**  
 A cookie is a small piece of information that a server can place in a browser to later identify the browser. Cookies can be used for a wide variety of purposes. When used with an online shopping system, a cookie allows the server to identify the user and keep track of what has been ordered. This is the only instance in which BBG uses cookies. Remember, a cookie cannot be used to get data from your hard drive, get your e-mail address, or steal sensitive information about you. It is simply a line of text in a file. 
@@ -47,4 +52,4 @@ Please note that BBG may revise its privacy policy at any time. Such revisions m
 
 If you have any further questions or concerns about BBG's privacy policies and use of personal information, please send them to the [Web Site Manager](mailto:adorfman@bbg.org). 
 
-© 2002, Brooklyn Botanic Garden. All Rights Reserved.
+© 2003, Brooklyn Botanic Garden. All Rights Reserved.
