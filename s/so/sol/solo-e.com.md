@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604182429id_/http%3A//solo-e.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2003-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030805151722id_/http%3A//solo-e.com/mainfiles/privacy.htm) for the most accurate reproduction.*
 
 # Solo-E.com - Privacy Policy
 
@@ -26,7 +26,21 @@ If users have questions or concerns regarding this privacy policy, they should f
 
   
   
-Solo-Entrepreneur.com, Inc. is the sole owner of the information collected on www.solo-e.com. Solo-Entrepreneur.com collects information from our users to email launch information and to send information to friends.
+Solo-Entrepreneur.com respects each individual's right to personal privacy. We collect and use information through our Web site only in the ways disclosed in this policy statement. 
+
+This statement, which details how we gather and disseminate information, has been drafted in an effort to demonstrate our strong commitment to YOUR privacy.
+
+Solo-Entrepreneur.com, Inc. is the sole owner of the information collected on www.solo-e.com. Solo-Entrepreneur.com collects information from our users for our email list, to send information to friends about the site and in our discussion forums. 
+
+  
+Our site message board and other site areas may require members to supply contact information, such as name and e-mail address, and demographic information, such as your address and phone number. We use this information solely in order to perform the services offered via the site and to be able to contact you with regard to administration of those services. 
+
+The contact information you provide is used solely to validate your interest and to provide you with the information you require. None of the information you submit will be used by SoloE for any other reason nor will it be sold to or shared with a third party.   
+
+
+* * *
+
+**System Files**
 
   
   
@@ -42,7 +56,7 @@ Like most standard Web site servers we use log files. This includes internet pro
 **Communications from the Site**
 
   
-We send all new members a welcoming email to verify subscription to our email list. Established members will eventually receive and announcement of the launch of www.solo-e.com. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please seethe Choice and Opt-out sections.
+We send all new members a welcoming email to verify subscription to our email list. Established members will eventually receive and announcement of the launch of www.solo-e.com. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
 
   
 On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
@@ -53,6 +67,16 @@ Solo-E.com shares Web site usage information about users with NO third party adv
 Users who no longer wish to receive our announcements may opt-out of receiving these communications by clicking the unsubscribe link in any of the communications received. You may also opt out by following this link: Unsubscribe
 
   
+If we decide to change our privacy policy, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email.
+
+* * *
+
+  
+All material on these pages is owned by and all rights are reserved by Solo-Entrepreneur.com, Inc., as to their use and reproduction, unless as otherwise indicated. This includes all text, images, structure and format, and the processes employed on this Web site. No part of these pages, either text or image may be used for any pourpose other than personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission. 
+
+  
 This Web site contains links to other sites. Please be aware that we, Solo-Entrepreneur.com, Inc. are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy policy of each and every Web site that collects personally identifiable information. This privacy policy applies solely to information collected by this Web site.
 
   
@@ -61,33 +85,26 @@ If a user elects to use our referral service for informing a friend about our si
   
 Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
 
+All members shall be responsible for any messages posted in the Solo-E.com forum, both public and private, as well as be responsible for any consequences of messages transmitted. Solo-E.com reserves the right to remove any posts that violate guidelines set forth on the site. If necessary, Solo-E.com has the right to remove and/or deny access to community related areas of the site to anyone who violates those guidelines. 
+
+In submitting messages, members grant Solo-E.com a royalty-free, non-exclusive right and license to use, reproduce, edit, publish, distribute and display the content of messages (in their entirety or partial) on the site or within other methods of communication. Therefore, we also allow others to access, view and respond to messages.   
+
+
+  
+Members are solely responsible for maintaining the privacy of their own information and password. Members will be responsible for all uses of their registration and should ensure that unauthorized use is avoided by all reasonable means. In the event of unauthorized use, a member should contact Solo-E.com immediately at [security@solo-e.com](mailto:security@solo-e.com).
+
   
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
 
 If users have any questions about the security at our Web site, users can send an email to [security@solo-e.com](mailto:security@solo-e.com).
 
   
-If we decide to change our privacy policy, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Solo-Entrepreneur.com reserves the right, at our discretion, to immediately and without notice, suspend or terminate membership and services if any guidelines are violated.
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email.
+  
+Solo-Entrepreneur.com may modify the site guidelines as deemed appropriate by the site and site staff. A member agrees to have accepted these guidelines and any changes by participating in the site activities. Changes to guidelines will, where possible, be communicated in advance to site users.
 
   
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-| 
-
-| 
-
-Phone:   
-  
----|---  
-  
-| Fax:   
-  
-| Email:   
-  
-| Postal Address:   
-  
-| Web site URL:   
-  
 * * *
