@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2001-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010626225509id_/http%3A//www.paycycle.com/Info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216230833id_/http%3A//paycycle.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # PayCycle Privacy Policy
 
@@ -17,13 +17,15 @@ This confirms that PayCycle, Inc. is a licensee of the TRUSTe Privacy Program. T
 
 
 
-If you have questions or concerns regarding this privacy policy, you should first contact [support@paycycle.com](mailto:support@paycycle.com.). You can also reach PayCycle Customer Support by telephone at (650) 852-9650 ext. 55 or at 4102 El Camino Real, Palo Alto, California 94306-4003. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/user_watchdog.html>.  TRUSTe will then serve as a liaison with PayCycle to resolve your concerns. 
+If you have questions or concerns regarding this privacy policy, you should first contact [support@paycycle.com](mailto:support@paycycle.com.). You can also reach PayCycle Customer Support by telephone at (650) 852-9650 ext. 55 or at 4102 El Camino Real, Palo Alto, California 94306-4003. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>.  TRUSTe will then serve as a liaison with PayCycle to resolve your concerns. 
 
 ## What Information PayCycle Collects, and How It Is Used
 
 In order to provide PayCycle's payroll service, PayCycle's web site asks you to provide personally identifiable information about you and your employees. This information includes your name, address, and tax identification number, and your employees' respective names, addresses and social security numbers, as well as amounts of wages and taxes that you pay. PayCycle uses this information to prepare reports on your behalf that comply with laws applicable to employers. These reports include paystubs for your employees and tax forms for federal and state governments. You control whether and when these reports are printed and delivered to third parties. 
 
-PayCycle charges its service fees to your credit card. Accordingly, PayCycle's web site requests your credit card number and expiration date. You must approve each charge to your credit card on PayCycle's web site before the charge will be made. 
+PayCycle charges its service fees to your credit card. Accordingly, PayCycle's web site requests your credit card number and expiration date. PayCycle may use this information to verify your identity and creditworthiness as well. 
+
+If you elect electronic payment of taxes, PayCycle requests additional personally identifiable information about your bank account and authorization to be informed about your past and future tax payments. PayCycle will use this information to transfer tax payments from you to the government and to help resolve discrepancies between your records and the government's records. 
 
 If you elect direct deposit of your employees' paychecks, PayCycle requests additional personally identifiable information about you and your employees, such as information about your bank account, your employees' bank accounts, and your mother's maiden name. PayCycle will use this information to transfer payroll funds from you to your employees. PayCycle also will use this and other information collected about you and your employees to verify your respective identities and creditworthiness. 
 
@@ -37,7 +39,7 @@ In addition to cookies, we collect the following information from all visitors t
 
 ## How Information May Be Shared, and What Choices You Have
 
-We share may share personally identifiable information about you and your employees with third party vendors, such as credit card processing companies and banks, who help us perform our payroll service. We will require such third parties to use the information only as necessary to provide our payroll service to you. 
+We may share personally identifiable information about you and your employees with third party vendors, such as credit card processing companies and banks, who help us perform our payroll service. We will require such third parties to use the information only as necessary to provide our payroll service to you. 
 
 We may use or provide third parties with aggregate information about our customers, such as the size of payroll processed or payment history, for statistical, marketing and other purposes. Such aggregate information will not reveal any of your personally identifiable information, such as your contact information. 
 
