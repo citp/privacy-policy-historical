@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619121646id_/http%3A//www.worldwidelearn.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202150400id_/http%3A//www.worldwidelearn.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for World Wide Learn
 
@@ -6,11 +6,23 @@
 
 World Wide Learn has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: World Wide Learn.
 
-World Wide Learn does keep track of the domains from which people visit: this data is analyzed for trends, statistics and administration and is used to improve layout and navigation and then discarded.
-
 World Wide Learn does not collect information on our web site visitors such as names, addresses, telephone numbers or e-mail addresses, unless you specifically give World Wide Learn that information.
 
-Please note that this policy applies only to World Wide Learn and not to the Web sites of other companies or organizations to which we provide links.
+### Links
+
+This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+
+### Cookies
+
+This site uses no cookies of any type.
+
+Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+
+### Log Files
+
+We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+
+### Registration
 
 In some areas of this site, you will be asked to provide information that will enable the creation of a personal email account, a newsletter subscription and/or follow-up with you after your visit. Your participation is completely optional.
 
