@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209183420id_/http%3A//www2.newspaperarchive.com/Support/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603162934id_/http%3A//www.newspaperarchive.com/DesktopModules/ViewHtml.aspx%3Fhtfile%3Dfacelift_Privacy.htm) for the most accurate reproduction.*
 
-# NewspaperArchive.com - Search old newspapers
+# 
 
+|  |   
+---|---|---  
 |   
-  
-[](http://www.adobe.com/products/acrobat/readstep2.html) | 
+|  |    
+
 
 ### Privacy Statement
 
@@ -57,8 +59,12 @@ NewspaperArchive.com will occasionally send e-mail messages to advise members wh
 ##### May I refuse to provide personal information to NewspaperArchive.com or to accept advertising?
 
 Yes and No.   
-Visitors may access NewspaperArchive.com’s free services without providing any personal information. To gain full access to the members-only areas, a username, e-mail address and appropriate billing information are required. Because the NewspaperArchive.com site is partially advertiser supported, you may not "turn off" the advertising that appears on NewspaperArchive.com pages, but you may opt to be excluded from any e-mail advertising. Does NewspaperArchive.com use "IP Addresses"? IP Addresses:   
-We do use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information such as geographic distribution of our members. NewspaperArchive.com Cookies: Contrary to popular myth, cookies do not extract private or personal information from your computer’s memory, but rather, record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer when you register at our Web site that enable our server to recognize or "remember" who you are each time you return. NewspaperArchive.com may make limited use of cookies to deliver content specific to your interests. For instance they may be used to retain your personal preferences or save your password so it doesn’t have to be re-entered each time you login. 
+Visitors may access NewspaperArchive.coms free services without providing any personal information. To gain full access to the members-only areas, a username, e-mail address and appropriate billing information are required. Because the NewspaperArchive.com site is partially advertiser supported, you may not "turn off" the advertising that appears on NewspaperArchive.com pages, but you may opt to be excluded from any e-mail advertising. 
+
+##### Does NewspaperArchive.com use "IP Addresses"?
+
+IP Addresses:   
+We do use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information such as geographic distribution of our members. NewspaperArchive.com Cookies: Contrary to popular myth, cookies do not extract private or personal information from your computers memory, but rather, record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer when you register at our Web site that enable our server to recognize or "remember" who you are each time you return. NewspaperArchive.com may make limited use of cookies to deliver content specific to your interests. For instance they may be used to retain your personal preferences or save your password so it doesnt have to be re-entered each time you login. 
 
 ##### Advertiser Cookies:
 
@@ -70,7 +76,7 @@ Chat is not currently offered at NewspaperArchive.com but will be in the future.
 
 ##### What else should I know about privacy?
 
-Demographic data is collected at our site at the users’ option. This information may include age and gender and other personal preferences that can be viewed and tabulated for use in marketing NewspaperArchive.com to advertisers and others. In no case is personal information given or sold to third parties. NewspaperArchive.com controls the distribution of ALL information at the site. 
+Demographic data is collected at our site at the users option. This information may include age and gender and other personal preferences that can be viewed and tabulated for use in marketing NewspaperArchive.com to advertisers and others. In no case is personal information given or sold to third parties. NewspaperArchive.com controls the distribution of ALL information at the site. 
 
 ##### Contests & Promotions
 
@@ -78,13 +84,18 @@ NewspaperArchive.com may occasionally run contests or other special promotions o
 
 ##### Contacting the Website
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact: NewspaperArchive, inc 4049 21st ave sw Cedar Rapids, IA 52404   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact:  
   
----|---  
-|   | 
-
-* * *  
+---  
+|  |  |   
+---|---|---  
+|   
+|  NewspaperARCHIVE.com   
+4069 21st Avenue SW   
+Cedar Rapids, Iowa 52404  
+|   
+|   
+|  |   
   
----|---  
-  | [**Frequently Asked Questions**](https://web.archive.org/Support/faq.aspx) | |  | [**Tell A Friend**](https://web.archive.org/support/tell_a_friend.aspx?ReferURL=) | |  | [**Technical Support**](https://web.archive.org/Support/techsupport.aspx) | |  | [**Online Support**](https://web.archive.org/Support) | |  | [**Feedback**](https://web.archive.org/Support/feedback.aspx?ReferURL=)  
-  | [Terms and Conditions](https://web.archive.org/support/terms.aspx) | [Privacy Policy](https://web.archive.org/Support/Privacy.aspx) | **© 2003 Heritage Microfilm, Inc.[Copyright Info](https://web.archive.org/Support/copyright.aspx)**
+|   
+|  | 
