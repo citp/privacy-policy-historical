@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629091126id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy%26PHPSESSID%3D2a3505a902238a9855b652155d0aba55) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2004-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041113012235id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy%26PHPSESSID%3D4fa5ee2db3766f3631ef367200f1bf99) for the most accurate reproduction.*
 
 # CheatHouse.com - privacy
 
-| | 
+|  | | | | 
 
 **OUR PRIVACY POLICY**  
 
@@ -27,4 +27,10 @@ As big supporters of OpenSource software (and frequent visitors to sites such as
 
 _Last updated: 28.aug.2002_
 
-|  | 
+|  |   
+---|---|---|---|---  
+|   
+ | 
+
+  
+
