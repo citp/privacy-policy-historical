@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicdrivein.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607202733id_/http%3A//www.sonicdrivein.com/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicdrivein.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202092508id_/http%3A//www.sonicdrivein.com/policy.shtml) for the most accurate reproduction.*
 
 # SONIC - America's Drive-in
 
@@ -44,4 +44,4 @@ Sonic is very sensitive to children's privacy issues and does not associate cook
 **Notification of Changes**  
 We will use information in accordance with the privacy policy under which the information was collected. If we change our privacy policy, we will post those changes on our Web site so that our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we will disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice whether we may use their information in this different manner.
 
-If you have any questions about our Web site's privacy policy, you can contact our [corporate office](https://web.archive.org/web/20020607202733id_/http%3A//www.sonicdrivein.com/contact/contact.shtml).
+If you have any questions about our Web site's privacy policy, you can contact our [corporate office](https://web.archive.org/web/20021202092508id_/http%3A//www.sonicdrivein.com/contact/contact.shtml).
