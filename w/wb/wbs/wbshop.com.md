@@ -1,21 +1,24 @@
-> *The following text is extracted and transformed from the wbshop.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205014325id_/http%3A//www.wbshop.com/content.xml%3Fcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbshop.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml%3Fcid%3Dprivacy) for the most accurate reproduction.*
 
 # WBShop.com – Exclusive Warner Bros. merchandise from Harry Potter, Tweety, Taz, Batman, Superman, Scooby-Doo, and more. Privacy Policy
 
-| [Home](https://web.archive.org/) > **Privacy Policy**  
+| 
+
+[Home](https://web.archive.org/) > **Privacy Policy**  
+  
 ---  
    
   
 
 
-  * [The Information We Collect](https://web.archive.org/web/20031205014325id_/http%3A//www.wbshop.com/content.xml?cid=privacy#collect)
-  * [How We Use the Information](https://web.archive.org/web/20031205014325id_/http%3A//www.wbshop.com/content.xml?cid=privacy#use)
-  * [Third-Party Sites and Sponsors](https://web.archive.org/web/20031205014325id_/http%3A//www.wbshop.com/content.xml?cid=privacy#sponsors)
-  * [Cookies](https://web.archive.org/web/20031205014325id_/http%3A//www.wbshop.com/content.xml?cid=privacy#cookies)
-  * [Our Commitment to Security](https://web.archive.org/web/20031205014325id_/http%3A//www.wbshop.com/content.xml?cid=privacy#commitment)
-  * [How You Can Access or Correct Information](https://web.archive.org/web/20031205014325id_/http%3A//www.wbshop.com/content.xml?cid=privacy#access)
-  * [Special Note for Parents](https://web.archive.org/web/20031205014325id_/http%3A//www.wbshop.com/content.xml?cid=privacy#parents)
-  * [How to Contact Us](https://web.archive.org/web/20031205014325id_/http%3A//www.wbshop.com/content.xml?cid=privacy#contact)
+  * [The Information We Collect](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#collect)
+  * [How We Use the Information](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#use)
+  * [Third-Party Sites and Sponsors](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#sponsors)
+  * [Cookies](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#cookies)
+  * [Our Commitment to Security](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#commitment)
+  * [How You Can Access or Correct Information](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#access)
+  * [Special Note for Parents](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#parents)
+  * [How to Contact Us](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#contact)
 
 
 
@@ -56,7 +59,7 @@ AOL Time Warner may on occasion combine information we receive online with outsi
 Finally, AOL Time Warner sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
 **Collection of Information by Third-Party Sites and Sponsors** **  
-** Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
+**Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
 AOL Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. AOL Time Warner has no control over the third-party's use of this information. The AOL Time Warner site will notify you at the time of requesting personally identifiable information if these third-parties will obtain such information. 
 
