@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009153419id_/http%3A//www.datadirect.com/legal/privacy/index.ssp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307202406id_/http%3A//www.datadirect.com/legal/privacy/index.ssp) for the most accurate reproduction.*
 
-# DataDirect-Technologies and Your Privacy
+# DataDirect Technologies and Your Privacy: Legal: Home
 
-DataDirect Technologies and Your Privacy
+## DataDirect Technologies and Your Privacy
 
 **DataDirect and Your Privacy  
 ** Your right to privacy is very important to DataDirect. At DataDirect, we believe that the personal information you provide to us must be both kept confidential and used in a responsible fashion. We consistently strive to put our best efforts towards achieving both of these objectives.
@@ -10,7 +10,7 @@ DataDirect Technologies and Your Privacy
 **Types and Reasons for Data Collection  
 ** When you sign up for membership in SupportLink Online (Automated Case Reporting), Online Store, Product Evaluation Service or DataDirect's email news services including DataDirect Connections, ("DataDirect Services"), some personal information is required. This information is used for three primary purposes.
 
-  * To help you quickly find software, services or information on DataDirect-Technologies.com.
+  * To help you quickly find software, services or information on datadirect.com.
   * To help us create Web site content most relevant to you.
   * To alert you to product upgrades, special offers, updated information and other new services from DataDirect.
 
@@ -34,7 +34,7 @@ This information is used by DataDirect solely to inform you of new services and 
 
 Some DataDirect Services require users to provide the information in the registration screens for reasons specified and as provided in the user registration agreement. This information is essential to properly service the membership. As greater functionality is added to the site, we will continue to strive to develop mechanisms and policies that best address participants' preferences related to information collection and use.
 
-**Collection of Information using "Cookies"  
+**Collection of Information Using "Cookies"  
 ** DataDirect Services use several cookies to provide you easier and more direct access to information and services. The use of these cookies is required for full access to DataDirect services. All information stored in these cookies is encrypted. Additionally, sensitive information, such as credit card numbers, is never stored in cookies.
 
 **Links to Third Party Sites and Services (if applicable)  
@@ -47,12 +47,12 @@ Some DataDirect Services require users to provide the information in the registr
 ** Please note that our website does not market to children. We do not want to collect any personal information from minors under any circumstances. We ask that minors (under age 18) refrain from using our site. Anyone using this Site or the Services warrants and promises that they are 18 years of age or older.
 
 **Updates to the Privacy Policy  
-** DataDirect is sensitive to user's privacy issues and recognizes the need to update this policy as new features and business services are offered on DataDirect-Technologies.com. DataDirect reserves the right to amend the privacy policy at any time with or without notice. Please check back frequently in the event of changes to our Privacy Policy.
+** DataDirect is sensitive to user's privacy issues and recognizes the need to update this policy as new features and business services are offered on datadirect.com. DataDirect reserves the right to amend the privacy policy at any time with or without notice. Please check back frequently in the event of changes to our Privacy Policy.
 
 **Last Update: November 4, 2002**
 
 If you have any questions or comments about our privacy practices, please contact us at 301-468-8501 (US).
 
-**Legal notification  
+**Legal Notification  
 Feedback; Confidential Information; Privacy  
 ** Unless otherwise explicitly stated herein, any non-personal information or material sent to DataDirect will be deemed NOT to be confidential. By sending DataDirect any non-personal information or material, you grant DataDirect an unrestricted, irrevocable license to use, reproduce, display, perform, modify, transmit and distribute those materials or information, and you also agree that DataDirect is free to use any ideas, concepts, know-how or techniques that you send us for any purpose. However, we will not release your name or otherwise publicize the fact that you submitted materials or other information to us unless: (a) you grant us permission to do so; (b) we first notify you that the materials or other information you submit to a particular part of a site will be published or otherwise used with your name on it; or (c) we are required to do so by law.
