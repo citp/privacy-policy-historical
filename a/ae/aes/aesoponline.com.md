@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aesoponline.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205030239id_/http%3A//aesoponline.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aesoponline.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610115307id_/http%3A//www.aesoponline.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # AESOP (Automated Educational Substitute Operator) - Replacement Automation for Substitutes and Teachers
 
