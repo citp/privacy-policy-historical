@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infotoday.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214211533id_/http%3A//infotoday.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infotoday.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607234421id_/http%3A//www.infotoday.com/privacy.htm) for the most accurate reproduction.*
 
 # Information Today, Inc. - Privacy Policy
 
