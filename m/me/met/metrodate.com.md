@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603214803id_/http%3A//www.metrodate.com/articles/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004164602id_/http%3A//www.metrodate.com/articles/privacypolicy.asp) for the most accurate reproduction.*
 
 # Metrodate.com - aboutus
 
@@ -7,7 +7,7 @@ Privacy Statement for Metrodate.com
 
 ## Privacy Statement for Metrodate.com
 
-Metrodate.com takes member privacy very seriously. We use all reasonable efforts to protect our members’ information. The purpose of this policy is to help our members recognize our firm commitment to their privacy, while having a complete understanding of how their information is used by our service. 
+Metrodate.com takes member privacy very seriously. We use all reasonable efforts to protect our members' information. The purpose of this policy is to help our members recognize our firm commitment to their privacy, while having a complete understanding of how their information is used by our service. 
 
 This policy was last revised on April 10, 2003. Our policy may change at any time. Members are encouraged to review it regularly, and contact us with any questions. We tried to address all major concerns regarding privacy in this document, written in a non-legalese format that is hopefully easy to understand. By using Metrodate.com, you are agreeing to these policies. 
 
@@ -17,9 +17,9 @@ You must be at least 18 years old to use Metrodate.com.
 
 ## Your E-Mail Address and Spam
 
-Metrodate.com never shares or sells our members’ e-mail addresses to anybody else. By providing your e-mail address to Metrodate.com, you will only receive correspondence from us, no one else. We send occasional newsletters and alerts, such as when you receive a message from another member. If you no longer wish to receive e-mail from us, simply freeze your account at any time from the Account Info page. You will not start receiving any spam by signing up for our service. 
+Metrodate.com never shares or sells our members' e-mail addresses to anybody else. By providing your e-mail address to Metrodate.com, you will only receive correspondence from us, no one else. We send occasional newsletters and alerts, such as when you receive a message from another member. If you no longer wish to receive e-mail from us, simply freeze your account at any time from the Account Info page. You will not start receiving any spam by signing up for our service. 
 
-Many other singles sites will send your actual e-mail address to another person if you contact another member, or respond to a message they sent to you. This doesn’t give you a chance to correspond with each other first before deciding if you want to give them your e-mail address. 
+Many other singles sites will send your actual e-mail address to another person if you contact another member, or respond to a message they sent to you. This doesn't give you a chance to correspond with each other first before deciding if you want to give them your e-mail address. 
 
 ## Your Identity to Other Members
 
@@ -27,19 +27,21 @@ Only you can give another member your true name or contact information. Even you
 
 ## Cookies
 
-In order for a web site to be truly interactive, sessions are usually required. For example, once you log on to the site, a user can go from page to page while the site “remembers” who you are until you log off. Cookies make this possible. 
+In order for a web site to be truly interactive, sessions are usually required. For example, once you log on to the site, a user can go from page to page while the site "remembers" who you are until you log off. Cookies make this possible. 
 
-Disabling cookies on your browser will mean you will not be able to utilize Metrodate.com, because you won’t be able to log on. 
+Disabling cookies on your browser will mean you will not be able to utilize Metrodate.com, because you won't be able to log on. 
 
-We also save other information as cookies to speed up the web site and add other features for you. For example, there is a cookie to remember your user id so that the next time you visit the site you don’t have to retype it. We do not save any confidential information in cookies such as your password, payment information, etc. This is particularly important if you are using a shared computer. 
+We also save other information as cookies to speed up the web site and add other features for you. For example, there is a cookie to remember your user id so that the next time you visit the site you don't have to retype it. We do not save any confidential information in cookies such as your password, payment information, etc. This is particularly important if you are using a shared computer. 
 
 ## Information Provided by Our Members
 
 Member profiles are the heart of our service, which of course is built on information provided by our members about themselves. Information provided by our members is either considered private or public. 
 
-Private information is not shared with anybody for any reason. Private information is not available to other members. In addition, we do not sell private information to third parties. Private information includes the member’s real name, birth date, e-mail address, street address, and any payment information. 
+Private information is not shared with anybody for any reason. Private information is not available to other members. In addition, we do not sell private information to third parties. Private information includes the member's real name, birth date, e-mail address, street address, and any payment information. 
 
-Public information may be posted on the web site and includes the user’s user id (nick name or alias), city, state, country, age, photo, voice message, questionnaire answers, any posted messages, and more. 
+Public information may be posted on the web site and includes the user's user id (nick name or alias), city, state, country, age, photo, voice message, questionnaire answers, any posted messages, and more. 
+
+Public profiles may also be used in personal ads that are printed in various publications we partner with in your area. We only reprint the public portion of your profile (For example user id, age, and public message). Of course, private information such as your real name and e-mail address are not printed. You can opt out of being printed in these publications by letting us know. 
 
 It may be possible for members to post information in public areas that we would usually classify as private. For example, a user may put his/her real name in their message. We generally discourage this for the privacy of our members. 
 
@@ -55,11 +57,11 @@ Under various circumstances, it may be Metrodate.com may be necessary for Metrod
 
 ## Security Measures
 
-All reasonable efforts are utilized to secure our members’ private information. All financial transactions are encrypted using SSL security, the industry standard for secure web site transactions. In addition, we have measures in place to detect scams common to singles sites. (If someone says you can get millions of dollars for helping them out, it’s not true!) 
+All reasonable efforts are utilized to secure our members' private information. All financial transactions are encrypted using SSL security, the industry standard for secure web site transactions. In addition, we have measures in place to detect scams common to singles sites. (If someone says you can get millions of dollars for helping them out, it's not true!) 
 
 ## Updating Your Information
 
-At any time our members can update their member information by visiting the various sections under “Member Services” such as “Personal Info” or “Public Profile”. We encourage our members to review their own profile (also available under “Member Services”) to see what information is being provided to other members. If users wish to cancel service, they can do so at any time by going to “Account Info” from the “Member Services” menu. 
+At any time our members can update their member information by visiting the various sections under "Member Services" such as "Personal Info" or "Public Profile". We encourage our members to review their own profile (also available under "Member Services") to see what information is being provided to other members. If users wish to cancel service, they can do so at any time by going to "Account Info" from the "Member Services" menu. 
 
 ## Contacting Metrodate.com
 
