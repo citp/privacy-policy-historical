@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603002153id_/http%3A//www.shoes.com/shop.asp%3FShopID%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804102417id_/http%3A//www.shoes.com/shop.asp%3FShopID%3DPRIVACY) for the most accurate reproduction.*
 
 # 
 
@@ -21,7 +21,7 @@ control.
 \- How you can correct any inaccuracies in the information.   
 \- If you feel that we are not abiding by our posted privacy   
 policy, you should contact Shoes.com Customer Service via   
-email at [service@shoes.com](https://web.archive.org/web/20040603002153id_/http%3A//www.shoes.com/contactus.asp) or by telephone at:  
+email at [service@shoes.com](https://web.archive.org/web/20040804102417id_/http%3A//www.shoes.com/contactus.asp) or by telephone at:  
 1-888-233-6743.
 
 Information Collection and Use   
@@ -132,7 +132,7 @@ what they can do to ensure our customers' information is
 protected. Finally, the servers on which we store personally   
 identifiable information are kept in a secure environment.   
 If you have questions about the security of our website,   
-email us at [service@shoes.com](https://web.archive.org/web/20040603002153id_/http%3A//www.shoes.com/contactus.asp).
+email us at [service@shoes.com](https://web.archive.org/web/20040804102417id_/http%3A//www.shoes.com/contactus.asp).
 
 Special Offers   
 Established Preferred Customers will occasionally receive   
@@ -153,7 +153,7 @@ your zip code), or if you no longer desire our service, we will
 endeavor to provide a way for you to correct, update or   
 remove your personal data provided to us. This can usually   
 be done at the [Preferred Customer Account](https://web.archive.org/login/login.asp) maintenance   
-page or by emailing us at [service@shoes.com](https://web.archive.org/web/20040603002153id_/http%3A//www.shoes.com/contactus.asp).
+page or by emailing us at [service@shoes.com](https://web.archive.org/web/20040804102417id_/http%3A//www.shoes.com/contactus.asp).
 
 Choice and Opt-out   
 Our users are given the opportunity to "opt-out" of having   
@@ -166,7 +166,7 @@ email address off of our lists. If you no longer wish to
 receive our promotional materials you may opt-out of   
 receiving these communications by either visiting our   
 Preferred Customer Account information page or by sending   
-us an email at [service@shoes.com](https://web.archive.org/web/20040603002153id_/http%3A//www.shoes.com/contactus.asp).
+us an email at [service@shoes.com](https://web.archive.org/web/20040804102417id_/http%3A//www.shoes.com/contactus.asp).
 
 Notification of Changes   
 If we decide to change our privacy policy, we will post those   
