@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623211753id_/http%3A//goireland.com/About/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207011422id_/http%3A//www.goireland.com/About/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - GoIreland.com
 
@@ -31,13 +31,9 @@ Destination:
   
 [**More Search Options**](http://www.goireland.com/search/goireland.htm) |   
   
-[](http://www.goireland.com/special_offers/ "Best Deals in Ireland!")  
-[](http://www.gulliver.ie/goireland/avlsearchform.asp?affiliatevisitid=0 "Reserve Accommodation Online NOW")  
-[](http://www.teetimes.ie/ "Book your tee times online")  
-[](https://www.bedbookings.com/CRS/goireland/reservations.xml?hotelGroup=ie.dublin.capital&referringAgent=goireland "Check out our Capital Hotel Offers")  
+**Car Rental in Ireland?**   
+[](http://www.goireland.com/carhire/ireland_car_rental.htm "Best car hire Deals in Ireland!")   
+[Great value Ireland car hire - available NOW!](http://www.goireland.com/carhire/ireland_car_rental.htm "car rental in Ireland!")  
  FREE MEMBERSHIP  
   
-|  Join us **NOW** and get the very best deals for holidays in Ireland. All you need to do is enter your Email address below.   
-[**More information**](http://www.goireland.com/whyjoin2.htm) |   
-  
-[](http://www.goireland.com/competition/)
+|  Join us **NOW** and get the very best deals for holidays in Ireland. All you need to do is enter your Email address below. [**More information**](http://www.goireland.com/whyjoin2.htm) | 
