@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizardworld.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603071533id_/http%3A//www.wizardworld.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizardworld.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209094031id_/http%3A//www.wizardworld.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # WizardWorld.com Privacy Policy
 
@@ -76,4 +76,4 @@ Should you have any further questions about WizardWorld.com's privacy policies a
 
 * * *
 
-To read our Privacy Statement for Portfolios, please click [HERE](https://web.archive.org/web/20020603071533id_/http%3A//www.wizardworld.com/help/privacy_portfolio.cfm).
+To read our Privacy Statement for Portfolios, please click [HERE](https://web.archive.org/web/20021209094031id_/http%3A//www.wizardworld.com/help/privacy_portfolio.cfm).
