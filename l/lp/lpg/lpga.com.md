@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpga.com privacy policy that was archived on 2002-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020208100049id_/http%3A//lpga.com/utility/index.cfm%3Fcont_id%3D38899) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpga.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209161120id_/http%3A//www.lpga.com/utility/index.cfm%3Fcont_id%3D38899) for the most accurate reproduction.*
 
 # LPGA Official Website
 
