@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the us-cert.gov privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613194235id_/http%3A//www.us-cert.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-cert.gov privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208135017id_/http%3A//www.us-cert.gov/privacy.html) for the most accurate reproduction.*
 
 # US-CERT: Privacy Policy
 
 US-CERT Privacy Policy
 
-Thank you for visiting the US-CERT website of the Department of Homeland Security and reviewing our privacy policy! This privacy policy governs this website and our activities - and yours - when you visit this site. Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you simply visit our website; however, if you choose to subscribe ("opt in") to one of our information products by submitting your e-mail address, we will retain and use your e-mail address solely to send you the information product(s) you request, and for no other purpose, except as provided in this agreement (see, e.g., Site Security, below, or explicitly agreed to by you. If you choose to provide other personal information such as your name and address, that information will only be used to fulfill your request for information. 
+Thank you for visiting the US-CERT website of the Department of Homeland Security and reviewing our privacy policy. This privacy policy governs this website and our activities - and yours - when you visit this site. Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you simply visit our website. However, if you choose to subscribe ("opt in") to one of our information products by submitting your email address, we will retain and use your email address solely to send you the information product(s) you request, and for no other purpose, except as provided in this agreement (see Site Security, below) or explicitly agreed to by you. If you choose to provide other personal information such as your name and address, that information will only be used to fulfill your request for information. 
 
 We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website. 
 
@@ -30,7 +30,7 @@ We do collect some technical information when you visit to make your visit seaml
 > 
 > If You Send Us Personal Information
 > 
-> If you choose to join the mailing list for one of our information products by submitting your e-mail address, or choose to provide us with personal information - like filling out a Contact Us form with personal information and submitting it to us through the website -- we use that information to send you the information product(s) you requested, or to respond to your message and to help us get you the information you have requested. 
+> If you choose to join the mailing list for one of our information products by submitting your email address, or choose to provide us with personal information - like filling out a Contact Us form with personal information and submitting it to us through the website, we use that information to send you the information product(s) you requested, or to respond to your message and to help us get you the information you have requested. 
 > 
 > We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We do not create individual profiles or give your information to private sector organizations for marketing or other purposes. US-CERT does not collect information for commercial marketing. 
 > 
