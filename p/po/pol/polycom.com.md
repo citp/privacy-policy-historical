@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203161011id_/http%3A//www.polycom.com/footer/1%2C1470%2Cpw-133%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619082346id_/http%3A//www.polycom.com/footer/1%2C1428%2Cpw-133%2C00.html) for the most accurate reproduction.*
 
-# footer Polycom Worldwide
-
-  
-Privacy Statement
+# Where Voice, Video, and Data Meet - Easily!: Polycom Worldwide
 
 **Policies**
 
