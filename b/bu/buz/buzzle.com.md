@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzle.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605071039id_/http%3A//www.buzzle.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzle.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208065917id_/http%3A//www.buzzle.com/privacy.asp) for the most accurate reproduction.*
 
 # Buzzle.com: Privacy Policy
 
@@ -32,6 +32,12 @@ In order to use this website, a user must first complete the registration form. 
 
 **Order**  
 We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+
+**Third Party Advertising**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+
+ **Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 **Cookies**  
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Games, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
@@ -67,7 +73,7 @@ This website takes every precaution to protect our users' information. When user
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
-If you have any questions about the security at our website, [contact us](https://web.archive.org/web/20040605071039id_/http%3A//www.buzzle.com/contact_corp.asp). 
+If you have any questions about the security at our website, [contact us](https://web.archive.org/web/20041208065917id_/http%3A//www.buzzle.com/contact.asp). 
 
 **Supplementation of Information**  
 In order for this website to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. 
@@ -85,7 +91,7 @@ We send all new members a welcoming email to verify password and username. Estab
 We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
 
 **Correction/Updating Personal Information:**  
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by [contacting us](https://web.archive.org/web/20040605071039id_/http%3A//www.buzzle.com/contact_corp.asp). 
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by [contacting us](https://web.archive.org/web/20041208065917id_/http%3A//www.buzzle.com/contact.asp). 
 
 **Choice/Opt-out**  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. 
@@ -98,5 +104,5 @@ Users of our site are always notified when their information is being collected 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our site so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-You may contact us if you have concerns about your information At Buzzle.com, we want to ensure visitors that their privacy is protected. If you have a concern about your privacy, please [contact us](https://web.archive.org/web/20040605071039id_/http%3A//www.buzzle.com/contact_corp.asp).  
+You may contact us if you have concerns about your information At Buzzle.com, we want to ensure visitors that their privacy is protected. If you have a concern about your privacy, please [contact us](https://web.archive.org/web/20041208065917id_/http%3A//www.buzzle.com/contact.asp).  
 
