@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escrow.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802040727id_/http%3A//www.escrow.com/resources/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escrow.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604193222id_/http%3A//escrow.com/resources/privacy_policy.asp) for the most accurate reproduction.*
 
 # Escrow.com: Privacy Policy
 
@@ -40,7 +40,7 @@ Changes to Your Account
 
 Escrow.com gives you the ability to change or edit your personal information contained in your profile.
 
-Additionally, Escrow.com gives you the opportunity to deactivate your account if you choose. Contact us by filling out the [customer support form](https://web.archive.org/web/20020802040727id_/http%3A//www.escrow.com/support/support_form.asp) and request the deactivation of your account. If you have active transactions open, your account will be deactivated after your transactions have been resolved.
+Additionally, Escrow.com gives you the opportunity to deactivate your account if you choose. Contact us by filling out the [customer support form](https://web.archive.org/web/20030604193222id_/http%3A//escrow.com/support/support_form.asp) and request the deactivation of your account. If you have active transactions open, your account will be deactivated after your transactions have been resolved.
 
 We reserve the right to retain information after you have deactivated your account or information that you have requested to be removed in order to comply with applicable law, resolve disputes and enforce our rights.
 
@@ -52,4 +52,4 @@ Your Input
 
 If you have any comments or opinions you'd like to share with us regarding our privacy policy, please send them to [feedback@escrow.com](mailto:feedback@escrow.com)
 
-All escrow services offered on this Website are provided independently and exclusively by Internet Escrow Services, Inc. (IES), one of the operating subsidiaries of Escrow.com. IES is fully [licensed and accredited](http://www.escrow.com/resources/escrow_license.asp) as an escrow company and is subject to compliance with all applicable escrow regulations, including the California Financial and Business Code.
+All escrow services offered on this Website are provided independently and exclusively by Internet Escrow Services, Inc. (IES), one of the operating subsidiaries of Escrow.com. IES is fully [licensed and accredited](https://web.archive.org/resources/escrow_license.asp) as an escrow company and is subject to compliance with all applicable escrow regulations, including the California Financial and Business Code.
