@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212004111id_/http%3A//www.dinodirect.com/about-privacy---security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2004-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040503032244id_/http%3A//dinodirect.com/about-privacy---security.html) for the most accurate reproduction.*
 
 # About Privacy & Security :
 
@@ -53,9 +53,9 @@ This Web site contains links to other website and online stores. Please be aware
 * * *
 
 **dynadirect.com, Inc.**  
-11832 Fishing Point Drive  
+11830 Fishing Point Drive  
 Oyster Point Park  
-Suite 200  
+Suite 213  
 Newport News, VA 23606  
 Toll-Free: (877) 438-3962  
 Phone: (757) 873-7675  
