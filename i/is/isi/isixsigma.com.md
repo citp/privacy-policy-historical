@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201191229id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607143333id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
 
 # iSixSigma Privacy Policy
 
@@ -43,3 +43,6 @@ iSixSigma may amend this policy from time to time. If we make any substantial ch
 
 **Questions or Suggestions**  
 If you have questions or suggestions complete a [feedback form](http://www.isixsigma.com/contactus/) or send an email to [PrivacyPolicy@iSixSigma.com](mailto:PrivacyPolicy@iSixSigma.com).
+
+  
+
