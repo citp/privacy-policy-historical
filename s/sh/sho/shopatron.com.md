@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopatron.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602171032id_/http%3A//www.shopatron.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopatron.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024175628id_/http%3A//www.shopatron.com/privacy.phtml) for the most accurate reproduction.*
 
 # Privacy
 
