@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008081308id_/http%3A//animewallpapers.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202044232id_/http%3A//www.animewallpapers.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy (Anime Wallpapers.com)
 
-|  |  [ ](http://www.clickxchange.com/fr.phtml?act=167136.130)  
+|  |  [ ](http://store.yahoo.com/cgi-bin/clink?animecorner+jfgmts+index.html)  
 ---|---|---  
-  
-[ ](http://store.yahoo.com/cgi-bin/clink?animecorner+jfgmts+index.html)
-
 Privacy Policy  
 ---  
   
@@ -21,7 +18,7 @@ Let 'Em Know | To send a confirmation message to you and used in the message to 
 Survey | To improve this website. Survey results may be shared with third parties, but only in aggregate form; no individually identifyable information will be released.  
 Mailing List | To send you weekly updates about new wallpapers added to this site.  
   
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).
+We use BUDS INC, MaxWorldWide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
