@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net2dish.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607211727id_/http%3A//www.net2dish.com/satellite-internet-access/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net2dish.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209203644id_/http%3A//www.net2dish.com/satellite-internet-access/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Net2dish Web site Direcway satellite internet access lowest price guarantee satellite internet access
 
