@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantpresenter.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001213133id_/http%3A//www.instantpresenter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpresenter.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605201216id_/http%3A//www.instantpresenter.com/privacy.asp) for the most accurate reproduction.*
 
 # InstantPresenter.com Privacy Policy
 
@@ -14,7 +14,7 @@ InstantPresenter.com may provide third parties with aggregate statistics about o
 
 Security 
 
-We use reasonable precautions to keep the personal information you disclose both in your browsing and your purchases and to only release this information to third parties we believe share our commitment to privacy. We use industry standard SSL encryption to protectect financial transactions such as the collection of credit cards. We also use encryption to protect sensitive data that we store. However, we are not responsible for any breach of security or for the actions of these parties.
+We use reasonable precautions to keep the personal information you disclose both in your browsing and your purchases and to only release this information to third parties we believe share our commitment to privacy. We use industry standard SSL encryption to protect financial transactions such as the collection of credit cards. We also use encryption to protect sensitive data that we store. However, we are not responsible for any breach of security or for the actions of these parties.
 
 Obtaining your consent 
 
