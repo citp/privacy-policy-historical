@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sunbeltrentals.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205100625id_/http%3A//www.sunbeltrentals.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbeltrentals.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621224244id_/http%3A//www.sunbeltrentals.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Sunbelt Rentals: Specialty Services: Special Event Services
 
-|  | Thursday, December 05, 2002  
+|  | Saturday, June 21, 2003  
 ---|---  
 The Privacy Policy and Terms of Site Use are subject to change as the site content, practices, and features evolve. Sunbelt Rentals Corporation encourages you to read these policies each time you visit SunbeltRentals.com. 
 
