@@ -1,247 +1,520 @@
-<!--The following is the downloaded HTML source of the zdnet.com privacy policy that was archived on 1999-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19990422170027id_/http%3A//www.zdnet.com/findit/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zdnet.com privacy policy that was archived on 2001-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010813014915id_/http%3A//chkpt.zdnet.com/chkpt/zdhpf14/www.zdnet.com/filters/privacy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>ZDNet: Privacy</title>
+<meta http-equiv="expires" content="Tue, 20 Aug 1996 01:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<!-- DD2: 10/19/2000 13:10:21 -->
+<script language="JavaScript">
+<!--
 
-<title>ZDNet Navbar Test</title>
-<meta name="WEB_COPY_DATE" content="19980316">
-<meta name="WEB_CONTENT_TYPE" content="News">
-<meta name="WEB_PAGE_CLASS" content="Filter">
-<style type="text/css">
-.blfont {color:#99ccff}
-.redfont {color:#CC0033}
-.yllwfont {color:#FFFF33}
-</style>
-</head>
+function checkOS() {
+  if(navigator.userAgent.indexOf('Linux') != -1)
+    { var OpSys = "Linux"; }
+  else if((navigator.userAgent.indexOf('Win') != -1) &&
+  (navigator.userAgent.indexOf('95') != -1))
+    { var OpSys = "Windows95"; }
+  else if(navigator.userAgent.indexOf('Win') != -1)
+    { var OpSys = "Windows3.1 or NT"; }
+  else if(navigator.userAgent.indexOf('Mac') != -1)
+    { var OpSys = "Macintosh"; }
+  else { var OpSys = "other"; }
+  return OpSys;
+}
 
-<body bgcolor="#ffffff" text="#000000" link="#0000CC" vlink="#336699" alink="#FF0000" background="/graphics/tile5.gif"><!-- Rebecca --><!--ba--><font size="4"><a href="http://ads2.zdnet.com/adverts/nph-ct/r024/c06094/a22524/www.silentauctions.com" target="_top"><img src="http://images.zdnet.com/adverts/imp/c06094/bn-breaksilence_468x60.gif" height="60" width="468" border="1" alt="Internet auction and raffle - click here!"></a></font><img src="http://ads2.zdnet.com/adverts/imp/dotclear.gif?g=r024&amp;c=a22524&amp;idx=1999.04.22.16.59.26" height="1" width="1"><!--bcg--><img src="http://gserv.zdnet.com/clear/ns.gif?a22524+924800366+r024+rh=novar" height="1" width="1"><!--ecg--><br><!--ea-->
- <!--  /Rebecca  --> 
+var OpSys = checkOS();
+
+beginRollover = false;// This handles a bug in Nav4.0x that executes the code too quickly.
+
+// convert all characters to lowercase to simplify testing 
+var agt=navigator.userAgent.toLowerCase(); 
+// *** BROWSER VERSION *** 
+// Note: On IE5, these return 4, so use is_ie5up to detect IE5. 
+var is_major = parseInt(navigator.appVersion); 
+var is_minor = parseFloat(navigator.appVersion); 
+
+var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1) 
+            && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1) 
+            && (agt.indexOf('webtv')==-1)); 
+var is_nav2 = (is_nav && (is_major == 2)); 
+var is_nav3 = (is_nav && (is_major == 3)); 
+var is_nav4 = (is_nav && (is_major == 4)); 
+var is_nav4up = (is_nav && (is_major >= 4)); 
+var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) || 
+                      (agt.indexOf("; nav") != -1)) ); 
+var is_nav5 = (is_nav && (is_major == 5)); 
+var is_nav5up = (is_nav && (is_major >= 5)); 
+
+var is_ie   = (agt.indexOf("msie") != -1); 
+var is_ie3  = (is_ie && (is_major < 4)); 
+var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) ); 
+var is_ie4up  = (is_ie  && (is_major >= 4)); 
+var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) ); 
+var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4); 
+var isIE4, isIE4PC, isNav4PC, isNav4, isNav3;
+
+if (is_ie4 || is_ie4up || is_nav5 || is_nav5up) {
+	isIE4 = true;
+	if (OpSys != "Macintosh") {
+		isIE4PC = true;
+	} 
+} else if (is_nav4) {
+	isNav4 = true;
+	if (OpSys != "Macintosh") {
+		isNav4PC = true;
+	} 
+} else if  (is_nav) {
+	isNav3 = true;	
+}
+
+self.name = "parentWin";
+function openDec(url, name, w, h) {
+        popupWin = window.open(url, name, 'resizable=1,scrollbars=1,width=' + w + ',height=' + h + '');
+    // focus window (only for Navigator >= 3.0)
+    if ( (navigator.appName != "Microsoft Internet Explorer") && (navigator.appVersion.substring(0,1) == "3") )
+    popupWin.focus();
+}
+if (OpSys == "Linux") {
+	document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet-linux.css" TITLE="ZDNet Planet Styles - Linux">');
+} else {
+	document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet.css" TITLE="ZDNet Planet Styles">');
+	if (isNav4PC) {
+		document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet-ns.css" TITLE="ZDNet Planet Styles - Netscape">');
+	}
+}
+//-->
+</script><link rel="STYLESHEET" type="text/css" href="http://www.zdnet.com/graphics/styles/planet-linux.css" title="ZDNet Planet Styles - Linux"></head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#333399" vlink="#0033CC" alink="#6666FF" marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
+ <script language="JavaScript1.2">
+if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:610">');}
+</script><div style="position:relative;top:0;left:0;width:610">
+ <!-- START TOPTABLE -->
+<!--START TOPNAV-->
+ 
+
+<!-- TOP NAV TABLE -->
+<table width="610" border="0" cellpadding="0" cellspacing="0" bgcolor="#0066CC">
+<tbody><tr><td align="center" valign="middle" height="20"> 
+<a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn14/www.zdnet.com/special/filters/sc/camera/" target="_top">Cameras</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn02/www.zdnet.com/reviews" target="_top">Reviews</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn03/http://www.zdnet.com/computershopper" target="_top">Prices</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn04/www.zdnet.com/business/" target="_top">Business</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn05/www.zdnet.com/help" target="_top">Help</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn06/www.zdnet.com/news" target="_top">News</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn13/http://www.zdnet.com/special/filters/sc/pda/" target="_top">Handhelds</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn08/http://www.zdnet.com/special/filters/sc/desktops/" target="_top">Desktops</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn09/http://www.zdnet.com/special/filters/sc/notebooks/" target="_top">Notebooks</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn10/www.zdnet.com/downloads" target="_top">Downloads</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn11/www.zdnet.com/developer" target="_top">Developer</a></td></tr>
+</tbody></table>
+<!-- END TOP NAV TABLE -->
+<!--END TOPNAV-->
+<table border="0" width="610" cellpadding="0" cellspacing="0">
+ 
+	<tbody><tr><td align="LEFT" valign="BOTTOM" width="472" bgcolor="#333399">
+
+	<map name="zdnetlogo">
+	<area shape="RECT" coords="4,29,72,77" href="http://www.zdnet.com" target="_top">
+	</map>
+	<img src="http://www.zdnet.com/graphics/heads/908.gif" width="472" height="80" alt="Privacy" usemap="#zdnetlogo" border="0"><br>
+	</td>
+	<td align="CENTER" valign="MIDDLE" bgcolor="#333399">
+	<!--START PPLS-->
+	
+	
+	<table border="0" cellpadding="0" cellspacing="0" width="134" background="http://www.zdnet.com/graphics/clear.gif">
+	<tbody><tr><td align="LEFT">
+
+<font color="#FFFFFF" size="-2">
+• <a href="http://chkpt.zdnet.com/chkpt/zdpp01/http://members.zdnet.com/register/register.cgi" target="_top"><span class="tsquirt">Free Downloads</span></a><br>
+<span class="spacer4">&nbsp;</span><br>
+• <a href="http://chkpt.zdnet.com/chkpt/zdpp02/http://www.techrepublic.com/promotion.jhtml?pc=ZL0271&amp;s=false" target="_top"><span class="tsquirt">Tech Resource Guides</span></a><br>
+<span class="spacer4">&nbsp;</span><br>
+• <a href="http://chkpt.zdnet.com/chkpt/zdpp03/http://www.smartplanet.com" target="_top"><span class="tsquirt">Learn More Online</span></a><br>
+</font>
+</td></tr></tbody></table><!--END PPLS-->
+<img src="http://www.zdnet.com/graphics/clear.gif" width="138" height="1" alt=""><br>
+</td></tr></tbody></table>
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="110" align="left">
-<tbody><tr><td width="100" valign="top" height="1000">
-<!--this the html content for the left-hand nav-->
+	
+		  <table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+		<tbody><tr>
+		<td align="LEFT" width="8">&nbsp;</td><td align="LEFT" valign="TOP" width="602">
+		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
+		<a class="bread" href="http://www.zdnet.com">ZDNet</a>&nbsp;<span class="bread">&gt;</span> <span class="breadb">Privacy</span><br>  <span class="spacer4">&nbsp;</span><br>
+		</td>
+		 </tr></tbody></table>
+		<table border="0" width="610" cellpadding="0" cellspacing="0">
+		<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#999999">
+		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
+		</td></tr></tbody></table>
+	 
+		<!--START AD TABLE-->
+		<table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+		<tbody><tr>
+		 <td align="CENTER" valign="TOP">
+		<span class="spacer6">&nbsp;</span><br>
+		<!-- START BANNER AD -->
+		<!-- Rebecca e39:3706 -->
+	
+<!--ba--><a href="http://ads3.zdnet.com/c/g=r024&amp;c=a64861&amp;camp=c21866&amp;idx=2001.06.20.09.24.34/ad.doubleclick.net/jump/N595.zdnet.com/B39554;sz=468x60;ord=2001.06.20.09.24.34?">
+<img src="http://ad.doubleclick.net/ad/N595.zdnet.com/B39554;sz=468x60;ord=2001.06.20.09.24.34?" border="0" width="468" height="60" alt="Click Here!"></a><br><img src="http://ads3.zdnet.com/i/g=r024&amp;c=a64861&amp;idx=2001.06.20.09.24.34/http://images.zdnet.com/adverts/imp/dotclear.gif" height="1" width="1" border="0" align="top" alt=""><!--bcg--><img src="http://gserv.zdnet.com/clear/SSEL=&amp;SSCH=&amp;SSNS=&amp;SSPR=&amp;SSTP=/ns.gif?a64861+993043474+r024+rh=" height="1" width="1"><img src="http://bcs.zdnet.com/prism/7/SSEL=&amp;SSCH=&amp;SSNS=&amp;SSPR=&amp;SSTP=&amp;SSTO=&amp;SSCN=&amp;SSCAT=&amp;SSSRC=" height="1" width="1"><!--ecg--><br><!--ea-->
+
+ <!-- END BANNER AD -->
+		<span class="spacer6">&nbsp;</span><br></td>
+		</tr></tbody></table>
+		<!--END AD TABLE-->
+		<table border="0" width="610" cellpadding="0" cellspacing="0">
+		<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#999999">
+		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
+		</td></tr></tbody></table>
+	 
+		<!--START SEARCH TABLE-->
+		<table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+		<tbody><tr><td align="CENTER" valign="MIDDLE">
+		<span class="spacer4">&nbsp;</span><br>
+		<!--SEARCH-->
+		<script language="Javascript">
+<!--
+function submit_it () {
+	if (document.zdform.db[1].selected) {
+  		document.directform.Utext.value = document.zdform.Utext.value; 
+    	document.directform.submit();
+  	} else {
+  		if (document.zdform.db[0].selected) {
+			document.zdform.Uch.value = '';
+		}
+  		document.zdform.submit();
+  	}
+}
+//-->
+</script>
 
 
 
-<a href="http://www.zdnet.com">
-<img width="95" height="61" src="/graphics/zdlogo5.gif" border="0" align="left" vspace="5">
-</a><br clear="all">
-<!--embedded search table-->
-<table border="0" cellspacing="0" cellpadding="0" width="95">
-<tbody><tr><td colspan="2"><a href="http://members.zdnet.com/register/register.cgi"><img src="/graphics/joinnow.gif" width="95" height="19" border="0" alt="Join Now!"></a><br><img src="/graphics/clear.gif" border="0" height="3" width="1"></td></tr>
-<tr><form method="post" action="http://xlink.zdnet.com/cgi-bin/texis/xlink/xlink/search.html"></form>
-  <td width="5" bgcolor="#000066">
-    <img src="/graphics/clear.gif" border="0" height="2" width="5">
-  </td>
-  <td align="left" bgcolor="#000066">
-    <font face="arial,helvetica" size="2" color="#ffffff"><b>Search</b></font>
-  </td>
-</tr>
+
+	 <!-- START SEARCH -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td>
+<table border="0" cellpadding="0" cellspacing="0" align="CENTER">
+<tbody><tr><form name="zdform" method="get" action="http://xlink.zdnet.com/cgi-bin/texis/xlink/xlink/search.html" onsubmit="submit_it();return(false);"></form><td align="RIGHT" valign="MIDDLE" rowspan="2">
+<span class="search">Search For:</span></td>
+<td align="CENTER" valign="MIDDLE" rowspan="2">
+&nbsp;</td>
+<td align="LEFT" valign="MIDDLE" rowspan="2">
+<input type="hidden" name="Uch" value="">
+<input type="hidden" name="Utype" value="D">	
+<input type="TEXT" name="Utext" size="18">&nbsp;&nbsp;<span class="tdrop">
+<select name="db" class="tdrop">
+<option value="zd">&nbsp;All ZDNet&nbsp;</option>
+<option value="web">&nbsp;The Web&nbsp;</option>
+</select></span>&nbsp;&nbsp;<input type="submit" value="  GO  " onclick="submit_it();"></td>
+<td align="LEFT" rowspan="2">
+&nbsp;&nbsp;</td>
+<td align="LEFT" valign="MIDDLE">
+<span class="v10">•&nbsp;<a href="http://www.zdnet.com/filters/searchtips">Search Tips</a></span></td></tr>
+<tr><td align="LEFT" valign="MIDDLE">
+<span class="v10">•&nbsp;<a href="http://xlink.zdnet.com/cgi-bin/texis/xlink/psearch/search.html">Power Search</a></span></td><form name="directform" method="get" action="http://xlink.zdnet.com/cgi-bin/texis/xlink/websearch/search.html"></form>
+<input type="hidden" name="cmd" value="zd_qry">
+<input type="hidden" name="Utext" value="dvd"></tr></tbody></table>
+</td></tr></tbody></table>
+ <!--END SEARCH-->
+		<span class="spacer4">&nbsp;</span><br></td>
+		</tr>
+		<tr><td align="left" valign="top" bgcolor="#999999">
+		<img src="http://www.zdnet.com/graphics/clear.gif" height="2" width="1" alt=""></td></tr>
+		</tbody></table>
+		<!--END SEARCH TABLE-->
+	  <!-- END TOPTABLE --><script language="JavaScript1.2">
+if (isIE4PC) {document.write('</DIV>');}
+</script></div>
+
+	
+		<script language="JavaScript">
+if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:630">');}
+if ((isNav3) || (isNav4)) {document.write('<TABLE WIDTH="610" CELLPADDING="0" CELLSPACING="0" BORDER="0"><TR><TD VALIGN="TOP" WIDTH="142">');}
+</script><div style="position:relative;top:0;left:0;width:630">
+<table width="142" cellpadding="0" cellspacing="0" border="0" align="LEFT">
+
+	<tbody><tr>
+	<td align="LEFT" valign="MIDDLE" rowspan="2">
+	<img src="/graphics/clear.gif" width="4" height="1" alt=""></td>
+	<td align="LEFT" valign="TOP" width="130">
+	<span class="spacer8">&nbsp;</span><br>
+	 </td>
+	<td align="LEFT" valign="MIDDLE">
+	<img src="/graphics/clear.gif" width="8" height="1" alt=""></td>
+	</tr>
 <tr>
-  <td width="5" bgcolor="#0066ff">
-    <img src="/graphics/clear.gif" border="0" height="2" width="5">
-  </td>
-  <input type="hidden" name="Uat" value="">
-  <input type="hidden" name="Uch" value="">
-  <input type="hidden" name="Ust" value="B">
-  <input type="hidden" name="Utqt" value="and">
-  <input type="hidden" name="Urt" value="D">
-  <input type="hidden" name="Unbr" value="10">
-  <input type="hidden" name="Udat" value="All">
-  <td width="90" align="left" bgcolor="#0066ff">
-    <input type="text" size="9" name="Utext" value=""><br>
-    <input type="image" width="47" height="18" border="0" src="/graphics/findit.gif">
-  </td>
+<td valign="TOP">
 
+	<!--BEGIN LEFT COLUMN TABLE-->
+<table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="#EEEEEE">
+<tbody><tr><td align="LEFT" valign="TOP">
+<span class="lhead2">Pick a Topic:</span><br>
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/reviews/"><span class="lhead">Reviews</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/products/hardwareuser/"><span class="ldeck">Hardware</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/products/softwareuser/"><span class="ldeck">Software</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/products/filter/guide/0,7267,1500113,00.html"><span class="ldeck">Desktops</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/reviews/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/shopping/"><span class="lhead">Shopping</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://computershopper.zdnet.com/texis/cs/baseframe.html"><span class="ldeck">Special Deals</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://zdnet.e-centives.com/"><span class="ldeck">Digital Coupons</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://auctions.zdnet.com"><span class="ldeck">Tech Auctions</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/shopping/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/business/"><span class="lhead">Business &amp; Tech</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/icom/e-business/"><span class="ldeck">E-Commerce</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/enterprise"><span class="ldeck">Enterprise</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/enterprise/linux"><span class="ldeck">Linux</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/business/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/help/"><span class="lhead">Help &amp; Learning</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdhelp/filters/subfilter/0,7212,6002585,00.html"><span class="ldeck">Tips</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdhelp/filters/subfilter/0,7212,6002354,00.html"><span class="ldeck">How To's</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdhelp/filters/helpfinder/0,7562,6006063,00.html"><span class="ldeck">Software Help</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/help/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/news/"><span class="lhead">Tech News</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/anchordesk/"><span class="ldeck">AnchorDesk</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdnn/computing"><span class="ldeck">Computing</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdnn/internet"><span class="ldeck">Internet</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/news/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/investing/"><span class="lhead">Investing</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdii.com/headline_scan.asp"><span class="ldeck">News</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdii.com/thedayahead.asp"><span class="ldeck">Analysis</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdii.com/market_summary.asp"><span class="ldeck">Markets</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/investing/"><span class="ldeck">More...</span></a><br>
+ 
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/games/"><span class="lhead">Games</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/games/"><span class="ldeck">PC</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.videogames.com/psx/index.html"><span class="ldeck">PlayStation</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.videogames.com/n64/index.html"><span class="ldeck">N64</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.videogames.com/dream/"><span class="ldeck">Dreamcast</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/games/"><span class="ldeck">More...</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/techlife/"><span class="lhead">Tech Life</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/familypc/"><span class="ldeck">Family</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/equip/"><span class="ldeck">Electronics</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/yil/"><span class="ldeck">The Web</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/techlife/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/downloads/"><span class="lhead">Downloads</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://hotfiles.zdnet.com/cgi-bin/texis/swlib/hotfiles/search.html?link=1&amp;Usrt=download&amp;Udownloads=20000"><span class="ldeck">Most Popular</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www5.zdnet.com/mac/download.html"><span class="ldeck">Macintosh</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.palmpilotsoftware.com"><span class="ldeck">Palm</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/downloads/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/developer/"><span class="lhead">Developer</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/devhead/filters/html/"><span class="ldeck">HTML</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/devhead/filters/java/"><span class="ldeck">Java</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/devhead/resources/scriptlibrary/"><span class="ldeck">ScriptLibrary</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/developer/"><span class="ldeck">More...</span></a><br>
+<span class="spacer8">&nbsp;</span><br>
+</td></tr></tbody></table>
+<!-- END LEFT COLUMN TABLE--></td>
+<td align="LEFT" valign="MIDDLE">
+<img src="/graphics/clear.gif" width="8" height="1" alt=""></td>
 </tr>
 </tbody></table>
+<script language="JavaScript">
+<!--
+if ((isNav3) || (isNav4)) {document.write('<BR></TD><TD VALIGN="TOP" WIDTH="468">');}
+//-->
+</script> 
 
-<!--end embedded search table-->  
 
+	
+		<table border="0" cellspacing="0" cellpadding="0" align="LEFT" width="468">
+	 <tbody><tr>
+	<td align="LEFT" valign="TOP" width="468">
+	
+		<span class="spacer8">&nbsp;</span><br>  
+		<span class="mhead">Your Privacy Matters To Us</span>
 <p>
-
-
-<a href="http://www.zdnet.com/zdnn/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>News</b></font></a><br>
-<a href="http://www.zdnet.com/products/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>Products</b></font></a><br>
-<a href="http://www.zdnet.com/products/internetuser.html"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>Internet</b></font></a><br>
-<a href="http://www.zdnet.com/zdhelp/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>Help!</b></font></a><br>
-<a href="http://www.zdii.com/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>Investor</b></font></a><br>
-<a href="http://www.zdnet.com/anchordesk/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>AnchorDesk</b></font></a><br>
-<a href="http://www.zdnet.com/findit/mags.html"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>ZD Magazines</b></font></a><br>
-<a href="http://www.zdnet.com/netbuyer/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>Shopping</b></font></a><br>
-<a href="http://www.hotfiles.com/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>Downloads</b></font></a><br>
-<a href="http://www.gamespot.com/zdnet/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>GameSpot</b></font></a><br>
-<a href="http://www.zdnet.com/mac/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>Macintosh</b></font></a><br>
-<a href="http://www.zdnet.com/smallbusiness/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>Small Business</b></font></a><br>
-<a href="http://www.zdu.com/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>ZD University</b></font></a><br>
-<a href="http://www.zdtv.com/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>ZDTV.com</b></font></a><br>
-<a href="http://www.zdnet.com/cc/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>Community</b></font></a><br>
-<a href="http://www.zdnet.com/athome/"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>At Home</b></font></a><br>
-<a href="http://www.jobengine.com"><font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>Careers</b></font></a></p><p>
-
-<font size="2" face="Arial, Helvetica" color="#FFFF33" class="yllwfont"><b>Services</b></font><br>
-<table width="100" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="6"><img src="/graphics/clear.gif" width="6" height="1" border="0" alt=""></td>
-<td width="94" valign="top">
-<a href="http://www.computershopper.com/"><font face="Arial,Helvetica" color="#99ccff" size="1" class="blfont">computershopper</font></a><br>
-<a href="http://marketplace.netbuyer.com/cgi-bin/utility/index.html"><font face="Arial,Helvetica" color="#99ccff" size="1" class="blfont">Marketplace</font></a><br>
-<a href="http://www.zdnet.com/cc/chat.html"><font face="Arial,Helvetica" color="#99ccff" size="1" class="blfont">Live Chat</font></a><br>
-<a href="http://www.zdnet.com/bookstore/"><font face="Arial,Helvetica" color="#99ccff" size="1" class="blfont">ZDNet Bookstore</font></a><br>
-<a href="http://www.zdnet.com/findit/mags.html"><font face="Arial,Helvetica" color="#99ccff" size="1" class="blfont">International</font></a><br>
-<a href="http://www.ci.infobeads.com/InfoBeads/Pages/Main/MAIN.ASP?module=insider"><font face="Arial,Helvetica" color="#99ccff" size="1" class="blfont">ZD Infobeads</font></a><br>
-<a href="http://www.zdnet.com/cc/email.html"><font face="Arial,Helvetica" color="#99ccff" size="1" class="blfont">Newsletters</font></a><br>
-<a href="http://www.jobengine.com/"><font face="Arial,Helvetica" color="#99ccff" size="1" class="blfont">jobEngine</font></a><br>
-<a href="http://zdweb1.zd.com/index.html"><font face="Arial,Helvetica" color="#99ccff" size="1" class="blfont">ZD Jobs</font></a><br>
-<a href="http://www.ziffdavis.com/"><font face="Arial,Helvetica" color="#99ccff" size="1" class="blfont">About ZD</font></a><br><br>
-</td></tr></tbody></table>
-<!--end main index-->
-
-
-<!-- Begin Ad section: 100 pixels wide, put ads that go on the navbar here -->
-<!--ads go here, put tables with ads if necessary-->
-<!--end ad section in navbar-->
-
+<span class="body">
+<a href="https://www.truste.org/validate/381"><img src="/findit/graphics/verifybox.gif" height="73" width="91" border="0" align="right" hspace="5" vspace="5" alt="TRUSTe: Click to Verify"></a>
+This Overall Privacy Statement verifies that ZDNet is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. This statement discloses the privacy practices for the entire Web site. 
+</span></p><p>
+TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
 </p><p>
-<a href="/products/vrmluser/map/zd3d.html"><img src="/graphics/zd3d.gif" width="88" height="44" border="0" alt="ZD3D"></a>
-
-
-</p><p>
-</p><div><center>
-<a href="#top"><img width="16" height="13" vspace="0" src="/graphics/top5.gif" border="0"></a><br><a href="#top"><font face="Arial,Helvetica" color="#99ccff" size="1" class="blfont">Top</font></a>
-</center>
-</div>
-</td>
-<td width="10">
-<img border="0" width="10" height="1" vspace="0" hspace="0" src="/graphics/clear.gif">
-<!--end nav bar ads-->
-</td>
-</tr></tbody></table>
-
-
-
-<!--main table cell-->
-
-
-<!--top c-clamp-->
-<img src="http://www.zdnet.com/graphics/nav/navbar.gif" usemap="#TOPNAV" width="468" height="30" alt="Top Nav" border="0">
-<map name="TOPNAV">
-  <area shape="rect" coords="392,16,468,30" href="http://chkpt.zdnet.com/chkpt/tnav001/www.zde-business.com/" alt="E-Business">
-  <area shape="rect" coords="326,16,391,30" href="http://chkpt.zdnet.com/chkpt/tnav002/www.zdnet.com/cc/" alt="Community">
-  <area shape="rect" coords="258,16,325,30" href="http://chkpt.zdnet.com/chkpt/tnav003/www.zdnet.com/anchordesk/" alt="AnchorDesk">
-  <area shape="rect" coords="204,16,257,30" href="http://chkpt.zdnet.com/chkpt/tnav004/www.zdii.com/" alt="Investor">
-  <area shape="rect" coords="142,16,203,30" href="http://chkpt.zdnet.com/chkpt/tnav005/www.zdnet.com/findit/mags.html" alt="Magazines">
-  <area shape="rect" coords="91,16,141,30" href="http://chkpt.zdnet.com/chkpt/tnav006/www.zdu.com/" alt="Learning">
-  <area shape="rect" coords="36,16,90,30" href="http://chkpt.zdnet.com/chkpt/tnav007/www.zdnet.com/smallbusiness/" alt="Small Business">
-  <area shape="rect" coords="0,16,35,30" href="http://chkpt.zdnet.com/chkpt/tnav008/www.zdnet.com/zdhelp/" alt="Help!">
-  <area shape="rect" coords="395,0,468,15" href="http://chkpt.zdnet.com/chkpt/tnav009/www.zdtv.com/" alt="ZDTV">
-  <area shape="rect" coords="354,0,394,15" href="http://chkpt.zdnet.com/chkpt/tnav010/www.gamespot.com/zdnet/index.html" alt="Games">
-  <area shape="rect" coords="324,0,353,15" href="http://chkpt.zdnet.com/chkpt/tnav011/www.zdnet.com/mac/" alt="Mac">
-  <area shape="rect" coords="254,0,323,15" href="http://chkpt.zdnet.com/chkpt/tnav012/www.hotfiles.com/" alt="Downloads">
-  <area shape="rect" coords="200,0,253,15" href="http://chkpt.zdnet.com/chkpt/tnav013/www.zdnet.com/netbuyer/" alt="NetBuyer">
-  <area shape="rect" coords="143,0,199,15" href="http://chkpt.zdnet.com/chkpt/tnav014/www.zdnet.com/products/" alt="Products">
-  <area shape="rect" coords="87,0,142,15" href="http://chkpt.zdnet.com/chkpt/tnav015/www.devhead.com/" alt="DevHead">
-  <area shape="rect" coords="44,0,86,15" href="http://chkpt.zdnet.com/chkpt/tnav016/www.zdnet.com/zdnn" alt="News">
-  <area shape="rect" coords="0,0,43,15" href="http://chkpt.zdnet.com/chkpt/tnav017/www.zdnet.com/" alt="ZDNet">
-</map>
-
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="500" height="1200">
-<tbody><tr>
-<td width="10"><!--gutter--><img src="/graphics/clear.gif" width="10" heigth="1"></td>
-<td width="490" valign="top">
-<!--start main content-->
-
-<br>&nbsp;<br>
-	<font size="3" face="ARIAL,HELVETICA"><b>Your Privacy Matters To Us</b></font><br>
-	<font size="2" face="ARIAL,HELVETICA">	
-
- <a href="https://www.truste.org/validate/381"><img src="/findit/graphics/verifybox.gif" align="right" height="73" width="91" border="0" alt="TRUSTe: Click to Verify" hspace="5" vspac="5"></a>This Overall Privacy Statement verifies that ZDNet is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. This statement discloses the privacy practices for the entire Web site.
-<p>
-TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of:
-</p><p>
-1.What information this site gathers/tracks about you <br>
-2.What this site does with the information it gathers/tracks <br>
+1.What information this site gathers/tracks about you<br>
+2.What this site does with the information it gathers/tracks<br>
 3.With whom this site shares the information it gathers/tracks 
 </p><p>
-ZDNet collects personal information about our users only during registration for the
-ZDNet service, from our use of "cookie" technology as you use the service and during
-entry into a ZDNet contest or sweepstakes. 
+ZDNet collects personal information from you (name, postal address, e-mail address, and other data) during registration for the ZDNet service, from our use of "cookie" technology and IP-address logging as you use the service, during entry into a contest or sweepstakes, and from your participation in optional online surveys. We may exchange some of this information with business partners who offer co-branded services as part of ZDNet, such as eCircles, Deja.com, Techies.com, onebox.com and others. The information you provide allows us to inform you about updates to the service and to notify you of products and services of ZDNet, its affiliates, and third parties that we believe may be of interest to you. As part of the registration process, we give you the opportunity to decline to receive any mailings from ZDNet and other companies to whom we may provide such information.
 </p><p>
-ZDNet respects your right to privacy. As part of the registration process, we give you
-the opportunity to decline to receive any mailings from either ZDNet or other parties
-to whom ZDNet may provide such information. 
+The ZDNet service is directed to teenagers and adults and is not directed to children under the age of 13. ZDNet complies with the Children's Online Privacy Protection Act and does not permit registration by and will not knowingly collect personally identifiable information from anyone under 13. This requirement will be posted wherever ZDNet collects data within the ZDNet service, such as during the registration process.
 </p><p>
-The data we collect from cookies and other places is used in the aggregate to give us demographic information
-about the entire ZDNet audience in order to improve the ZDNet service. The personal
-information you provide - name, address, etc. -- allows us to inform you about updates to the service and to
-notify you of products and services of ZDNet, its affiliates and third parties that we
-believe may be of interest to you. We also share aggregate information -- not
-individual data --with our advertisers to help them better understand our services and
-to monitor the reach of their advertising on the service.
+The data we collect from cookies and IP addresses gives us demographic information about the entire ZDNet audience, which we use to improve the ZDNet service. We also share aggregate information -- not individual data -- with our advertisers to help them better understand our services and to monitor the reach of their advertising on the service. ZDNet also may disclose or exchange with others information you have provided to us if we believe in good faith that the law requires us to do so or if it is necessary to protect the rights or property of ZDNet or our users.   
 </p><p>
-ZDNet uses reasonable precautions to keep the personal information disclosed to us
-secure and to disclose such information only to third parties we believe to be
-responsible. However, we are not responsible for any breach of security or for any
-actions of any third parties which receive the information. ZDNet also links to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users.
+Advertisers on ZDNet may deliver their ads via third-party advertising networks. One of these networks, Engage, is used on ZDNet occasionally for serving and/or targeting of banner ads, promotions and other marketing messages. Engage collects anonymous data, typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to: <a href="http://www.engage.com/privacy">http://www.engage.com/privacy</a>
 </p><p>
-You may correct your member information or select the option not to receive
-additional mailings by going <a href="http://members.zdnet.com/edituser">here</a>. If you have
-questions we can be reached by e-mail at zdnet_forum@zd.com or direct them to the ZDNet site coordinator at valerie_rice@zd.com or <a href="http://www.truste.org">TRUSTe</a> for clarification. To return to the Site, please use the "Back" button on your browser.
-</p></font><p><font size="2" face="ARIAL,HELVETICA">
+ZDNet uses reasonable precautions to keep the information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. ZDNet also links to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users. 
+</p><p>
+Users of the ZDNet eCircles service should be aware that eCircles may also collect information about you and may exchange that information with other business partners to verify your identity and to give you access to their services. On ZDNet eCircles, the content sent to a circle is posted and available to all of the other members of that particular circle but is not publicly available on the Web. When you are voluntarily participating in and sending information to your circles, the information disclosed by you could be collected and used by others who visit that circle.  
+</p><p>
+You may correct your member information or select the option not to receive ZDNet mailings by going <a href="http://members.zdnet.com/edituser">here</a>. If you have questions, you should direct them to the ZDNet site privacy coordinator at <a href="mailto:privacy@zdcommunity.com">privacy@zdcommunity.com</a> or <a href="http://www.truste.org/">TRUSTe</a> for clarification. 
+</p><p>
+  </p></td>
+	</tr>
+ </tbody></table>
+<script language="JavaScript">
+if ((isNav3) || (isNav4)) {document.write('</TD></TR></TABLE>');}
+if (isIE4PC) {document.write('</DIV>');}
+</script></div>
+<br clear="ALL">
+<br clear="ALL"> <script language="JavaScript1.2">
+if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:610;vertical-align:top">');}
+</script><div style="position:relative;top:0;left:0;width:610;vertical-align:top">
+<table width="610" border="0" cellpadding="0" cellspacing="0">
 
-	</font>
+	<tbody><tr>
 	
-</p></td></tr>
-<tr><td width="10"><!--gutter--><img src="/graphics/clear.gif" width="10" heigth="1"></td><td valign="bottom">
-<!--content stop-->
-<!--bottom c-clamp-->
-<table border="0" width="468" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td align="CENTER" valign="TOP" width="468" bgcolor="#003399" colspan="4">
-<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="2" border="0" alt=""></td></tr>
-<tr><td align="CENTER" valign="TOP" width="2" bgcolor="#003399">
-<img src="http://www.zdnet.com/graphics/clear.gif" width="2" height="1" border="0" alt=""></td>
-<td align="LEFT" valign="TOP" width="68" bgcolor="#FFFFFF">
-<a href="http://www.zdnet.com"><img src="http://www.zdnet.com/graphics/botnav/zdlogo_sm.gif" width="64" height="37" border="0" alt="" vspace="2" hspace="2"></a></td>
-<td align="CENTER" valign="MIDDLE" width="464" bgcolor="#FFFFFF">
-<font style="color:#333399; font-family:Arial; font-size: 8pt;" face="Geneva, Arial" color="#333399" size="-2">
-<a href="http://www.zdnet.com/products">Reviews</a> | 
-<a href="http://www.zdnet.com/zdnn">News</a> | 
-<a href="http://www.hotfiles.com/">Downloads</a> | 
-<a href="http://www.zdnet.com/computershopper/">Shop</a> | 
-<a href="http://my.zdnet.com/">MyZDNet</a> | 
-<a href="http://www.gamespot.com/zdnet/index.html">Games</a> |
-<a href="http://www.zdtv.com/">ZDTV</a> | 
-<a href="http://www.zdnet.com/cc">Forums</a><br>
-<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="4" border="0" alt=""><br>
-<a href="http://www.zdnet.com/anchordesk">AnchorDesk</a> | 
-<a href="http://www.zdnet.com/pcmag/">PC Magazine</a> | 
-<a href="http://www.zdnet.com/pcweek">PC Week</a> | 
-<a href="http://www.zdnet.com/zdhelp">Help!</a> | 
-<a href="http://www.zdnet.com/yil">Yahoo! Internet Life</a>
-</font></td>
-<td align="CENTER" valign="TOP" width="2" bgcolor="#003399">
-<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt="" border="0"></td></tr>
-<tr><td align="CENTER" valign="TOP" width="468" bgcolor="#003399" colspan="4">
-<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="2" alt="" border="0"><br>
-<font color="#FFFFCC" size="-2">
-<a href="http://www.zdnet.com/"><font style="color:#FFFFCC; font-size: 8pt; font-weight: bold;" face="Verdana, Geneva, Arial" color="#99CCFF" size="-2"><b>HOME</b></font></a> <font style="color:#FFFFCC; font-size: 8pt;" color="#99CCFF" size="-2">|</font> <a href="http://members.zdnet.com/register/register.cgi"><font style="color:#FFFFCC; font-size: 8pt; font-weight: bold;" face="Verdana, Geneva, Arial" color="#99CCFF" size="-2"><b>FREE MEMBERSHIP</b></font></a> <font style="color:#FFFFCC; font-size: 8pt;" color="#99CCFF" size="-2">|</font> <a href="http://www.zdnet.com/cc/contact.html"><font style="color:#FFFFCC; font-size: 8pt; font-weight: bold;" face="Verdana, Geneva, Arial" color="#99CCFF" size="-2"><b>CONTACT ZD</b></font></a> <font style="color:#FFFFCC; font-size: 8pt;" color="#99CCFF" size="-2">|</font> <a href="http://www.zdnet.com/adverts/adinfo/"><font style="color:#FFFFCC; font-size: 8pt; font-weight: bold;" face="Verdana, Geneva, Arial" color="#99CCFF" size="-2"><b>AD INFO</b></font></a> <font style="color:#FFFFCC; font-size: 8pt;" color="#99CCFF" size="-2">|</font> 
-<a href="http://www.zd.com/"><font style="color:#FFFFCC; font-size: 8pt; font-weight: bold;" face="Verdana, Geneva, Arial" color="#99CCFF" size="-2"><b>ZIFF-DAVIS</b></font></a><br>
-<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="4" alt="" border="0"></font></td></tr>
-<tr><td align="LEFT" valign="TOP" width="468" bgcolor="#FFFFFF" colspan="4">
-&nbsp;</td></tr>
-<tr><td align="LEFT" valign="TOP" width="468" bgcolor="#FFFFFF" colspan="4">
-<font face="Arial, Geneva, Lucida" size="2">Use of ZDNet is subject to certain <a href="http://www.zdnet.com/findit/terms.html">Terms &amp; Conditions</a></font><br>
-<font face="Arial, Geneva, Lucida" size="2">Please read ZDNet's <a href="http://www.zdnet.com/findit/privacy.html">Privacy Statement</a></font><p>
-<!--begin copyright-->
-<font face="Arial, Geneva, Lucida" size="1">Copyright (c) 1999 <a href="http://www.zdnet.com/">ZDNet</a>. All rights reserved. Reproduction in whole or in part in any form or medium without express written permission of ZDNet is prohibited. ZDNet and the ZDNet logo are trademarks of Ziff-Davis Inc.</font><!--end copyright--></p></td></tr></tbody></table>
+		<td width="4" rowspan="2" bgcolor="#FFFFFF"><img src="http://www.zdnet.com/graphics/clear.gif" width="4" height="1" alt=""></td>
+		<td valign="TOP" width="606" bgcolor="#FFFFFF">
+	   </td>
+		</tr>
+		<tr>
+		<td valign="TOP" bgcolor="#FFFFFF">
+	
+		<!-- BOTTOM NAV TABLE -->
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#333399" width="125">
+<a href="http://www.zdnet.com"><img src="http://www.zdnet.com/graphics/botnavlogo-top.gif" width="125" height="42" border="0" alt=""></a></td>
+<td align="CENTER" valign="MIDDLE" bgcolor="#333399" height="42" width="100%">
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn01/zdnet.com/dice">Tech Jobs</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn02/zdnet.e-centives.com/">ZDNet e-centives</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn03/www.zdnetonebox.com">Free E-mail</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn04/www.zdnet.com/filters/email/">Newsletters</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn05/updates.zdnet.com/">Updates</a></nobr>
+
+	<br>
+ 
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn06/http://j.zdnet.com/myzdnet/">MyZDNet</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn07/cgi.zdnet.com/slink?68657">Alerts</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn08/cgi.zdnet.com/slink?60865">Rewards</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn09/members.zdnet.com/register/register.cgi">Join ZDNet</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn10/www.zdnet.com/members">Members</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn11/www.zdnet.com/sitebuilder">SiteBuilder</a></nobr>
+</td></tr>
+<tr><td align="LEFT" valign="TOP" bgcolor="#000066" width="125">
+<a href="http://www.zdnet.com"><img src="http://www.zdnet.com/graphics/botnavlogo-bot.gif" width="125" height="26" border="0" alt=""></a></td>
+<td align="CENTER" valign="MIDDLE" bgcolor="#000066" height="26" width="100%">
+<nobr><span class="bnav2">CNET Networks:</span>  
+
+<a href="http://chkpt.zdnet.com/chkpt/zdbn12/www.cnet.com" class="bnav2">CNET</a><span class="bnavsep"> | </span>
+<a href="http://chkpt.zdnet.com/chkpt/zdbn13/www.gamespot.com" class="bnav2">GameSpot</a><span class="bnavsep"> | </span>
+<a href="http://chkpt.zdnet.com/chkpt/zdbn14/www.mysimon.com/track/zdnet_footer/Redirect?url=%2Findex.jhtml" class="bnav2">mySimon</a><span class="bnavsep"> | </span>
+<a href="http://chkpt.zdnet.com/chkpt/zdbn15/www.zdnet.com" class="bnav2">ZDNet</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://chkpt.zdnet.com/chkpt/zdbn16/www.zdnet.com/coinfo/filters/welcome/" class="bnav2">About ZDNet</a>&nbsp;
+</nobr>
+</td></tr>
+</tbody></table>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr><td align="left" valign="middle" bgcolor="#ffffff">
+
+&nbsp;
+ <a href="http://chkpt.zdnet.com/chkpt/zdbn17/www.zdnet.com/filters/feedback" class="a12">Feedback</a><span class="a12"> | </span>
+ <a href="http://chkpt.zdnet.com/chkpt/zdbn18/www.zdnet.com/filters/privacy/" class="a12">Your Privacy</a><span class="a12"> | </span>
+ <a href="http://chkpt.zdnet.com/chkpt/zdbn19/www.zdnet.com/filters/terms" class="a12">Service Terms</a><span class="a12"> | </span>
+ <a href="http://chkpt.zdnet.com/chkpt/zdbn20/www.zdnet.com/adverts/adinfo" class="a12">Advertise</a></td>
+
+
+
+<td align="right" bgcolor="#ffffff">
+
+<b><a class="a12" href="http://chkpt.zdnet.com/chkpt/zdbn22/http://www.cnet.com/aboutcnet/0-13616.html?tag=nav">We're hiring</a></b>
+ 
+
 </td>
 </tr>
 </tbody></table>
+<!-- /BOTTOM NAV TABLE -->    <table border="0" width="100%" cellpadding="0" cellspacing="0">
+	
+		
+	
+	
+		<tbody><tr><td colspan="2">
+		 
+			<span class="v10">
+		Copyright © 2000 ZD Inc.  All rights reserved.  ZDNet and the ZDNet logo are registered trademarks of ZD Inc. 
+			</span>
+		</td></tr>
+	  </tbody></table>
 
-
-
+	</td>
+	</tr>
+</tbody></table>
+<script language="JavaScript1.2">
+if (isIE4PC) {document.write('</DIV>');}
+</script></div>
 
 </body></html>
