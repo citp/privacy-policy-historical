@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202153457id_/http%3A//support.gradwell.net/article.php%3F81) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603141352id_/http%3A//support.gradwell.net/article.php%3F81) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,4 +51,4 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact The Support Team gradwell dot com Ltd 16 Tekels Avenue Camberley Surrey support@gradwell.net
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact The Support Team gradwell dot com Ltd 3-3a Gloucester Street, Bath BA1 1SE support@gradwell.net
