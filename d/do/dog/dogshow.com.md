@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogshow.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205052600id_/http%3A//www2.dogshow.com/privacy/coppa.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogshow.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606152711id_/http%3A//www2.dogshow.com/privacy/coppa.php) for the most accurate reproduction.*
 
 # Your Child's Privacy at The Virtual Dog Show
 
