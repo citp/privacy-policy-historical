@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the nus.edu.sg privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207171313id_/http%3A//www.nus.edu.sg/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.edu.sg privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602034103id_/http%3A//www.nus.edu.sg/corporate/privacy.htm) for the most accurate reproduction.*
 
 # NUS: Legal
 
-|   | 
+|   |  | [Disclaimer](https://web.archive.org/web/20030602034103id_/http%3A//www.nus.edu.sg/corporate/legal.htm)  
+---|---|---  
+  |  | [Copyright](https://web.archive.org/web/20030602034103id_/http%3A//www.nus.edu.sg/corporate/copyright.htm)  
+  |  | [Privacy](https://web.archive.org/web/20030602034103id_/http%3A//www.nus.edu.sg/corporate/privacy.htm)  
+  |  | [Non-discrimination Statement ](https://web.archive.org/web/20030602034103id_/http%3A//www.nus.edu.sg/corporate/nondiscrim.htm)  
+  | 
 
 #### National University of Singapore Privacy Statement
 
