@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202210758id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611221941id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
 
 # NCBuy: Service Center - Privacy Policy
 
@@ -88,12 +88,14 @@ Ajax, Ontario, L1T 3T9
   |  **Learn more about NCBuy, contact representatives, or review the terms of service.**
 
 **General Center Links:**  
-• [Affiliate Program](https://web.archive.org/servicecenter/affiliateprograms/)  
-• [Linking to Us](https://web.archive.org/servicecenter/link2us.html)  
 • [Site Map](https://web.archive.org/servicecenter/sitemap.html)  
-• [Site Contacts](https://web.archive.org/servicecenter/contacts.html)
+• [Site Contacts](https://web.archive.org/servicecenter/contacts.html)  
+• [Linking to Us](https://web.archive.org/servicecenter/link2us.html)
 
-**Latest Abuse Notice:**  
+• [Affiliate Program](http://affiliate.ncbuy.com/)  
+• [Onsite Contests](https://web.archive.org/servicecenter/contests.html)
+
+**Abuse Notices:**  
 • [May 24th, 2003: WebProWeird Newsletter Complaints](https://web.archive.org/servicecenter/abuse_email.html)
 
 **Abuse Logs & Policy:**  
