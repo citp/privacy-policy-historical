@@ -1,9 +1,32 @@
-> *The following text is extracted and transformed from the onlineconversion.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212185500id_/http%3A//www.bluesparks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineconversion.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604044209id_/http%3A//www.bluesparks.net/privacy.htm) for the most accurate reproduction.*
 
-# BlueSparks Network Privacy Statement
+# BlueSparks Network - Privacy Statement
 
-For all sites in the BlueSparks Network:  
-[BlueSparks](http://www.bluesparks.com/), [AcronymSearch](http://www.acronymsearch.com/), [OnlineConversion](http://www.onlineconversion.com/), [LostJungle](http://www.lostjungle.com/)
+ 
+
+ BlueSparks Network  **  
+**[Online Conversion](http://www.onlineconversion.com/)  
+[Acronym Search](http://www.acronymsearch.com/)  
+[Lost Jungle](http://www.lostjungle.com/)  
+[Top100 Borland](http://www.top100borland.com/)
+
+ Games I wrote   
+[Froggy Racing](http://www.prowler-pro.com/bluesparks/froggy/)  
+[The Maze Factory](http://www.prowler-pro.com/bluesparks/maze/)
+
+ Sites in the works   
+WeekendGladiator  
+AceConvert
+
+ Contact Info   
+[E-mail](mailto:webmaster@bluesparks.net)
+
+| 
+
+## _The BlueSparks Network  
+_Privacy Statement
+
+For all sites in the BlueSparks Network
 
 **BlueSparks** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for our web sites.
 
@@ -21,12 +44,22 @@ Some forms may ask users to give us contact information (email address).
 
   * **BlueSparks** : Contact information from the BlueSparks newsletter is administered by [ListBot](http://www.listbot.com/). The Chat and Tell-a-Friend scripts in use are for demostration purposes only and the information is not saved on our server.
   * **AcronymSearch** : Contact information from the add and request forms is used to get in touch with the customer when necessary. This contact information is not required. After the add or request has been completed, the contact information is deleted.
-  * **OnlineConversion** : Name and email is asked for in the Tell-a-Friend program. This information is not saved on our server and is used only for emailing your friend.
+  * **OnlineConversion** : Name and email is asked for in the Tell-a-Friend program. This information is not saved on our server and is used only for emailing your friend. Your Email address is asked when joining the mailing list. This information is saved on our server and used only for sending web page updates and occasional newsletters.
   * **LostJungle** : Name and email is asked for in the Tell-a-Friend program. This information is not saved on our server and is used only for emailing your friend.
 
 
 
 **We will never give or sell your email address to anyone.**
+
+**Forums**
+
+We use a community type BBS for our Message Forums.
+
+If you post messages as a guest, your name and email address is asked for. This information can be viewed by anyone. Your email address is not required and we recommend not giving it, and using an alias for your name, if you do not wish this information available to the public.
+
+If you register for the message forums, other personal information is asked for. This information is viewable by anyone. Most information is optional and we recommend not giving information you do not want available to the public. Your email address is required but you can make this private in your preferences. Your name is required but you may use an alias if you wish.
+
+Any information you give in the message forums is not used by us. It is used only for the message forum. Some examples are notifying you through email when you request to be notified of postings.
 
 **Chat**
 
@@ -46,6 +79,3 @@ These sites have standard security measures in place to protect the loss, misuse
 
 If you have any questions about this privacy statement, the practices of these sites, or your dealings with these Web sites, you can contact:   
 [robertf@oz.net](mailto:robertf@oz.net)
-
-Use the back button on your browser or return to one of the following sites:  
-[BlueSparks](http://www.bluesparks.com/), [AcronymSearch](http://www.acronymsearch.com/), [OnlineConversion](http://www.onlineconversion.com/), [LostJungle](http://www.lostjungle.com/)
