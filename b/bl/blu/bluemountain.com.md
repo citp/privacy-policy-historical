@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520052328id_/http%3A//www.bluemountain.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215073700id_/http%3A//www1.bluemountain.com/home/privacy.html) for the most accurate reproduction.*
 
 # Blue Mountain's Customer Information Privacy Policy
 
@@ -14,7 +14,7 @@
 ---  
 Part of the reason that Blue Mountain chose to merge with Excite@Home is our shared concern for our users. Blue Mountain has always been committed to protecting the privacy of our users, and Excite@Home is an industry leader in privacy protection. 
 
-We are committed to making your Blue Mountain experience enjoyable and safe. When you send one of our electronic greetings, the information you provide to us is used only to customize your greeting with your name and your recipient's name, and to deliver email notifications to you and your recipient. The names and email addresses you give us when you simply send a card are NOT sold, compiled into any type of mailing list, or otherwise used for any type of email solicitation. 
+We are committed to making your Blue Mountain experience enjoyable and safe. When you send one of our electronic greetings, the information you provide to us is used only to customize your greeting with your name and your recipient's name, and to deliver email notifications to you and your recipient. Unless you expressly opt-in to sharing information with one of our partners on a particular card, the names and email addresses you give us when you send a card are NOT sold, compiled into any type of mailing list, or otherwise used for any type of email solicitation. 
 
 Our integration with Excite@Home will enable us to provide you with enhanced services, such as Address Book and Reminder Service. If you choose to register for any of these services, we will at times need to collect certain information from you. Our data collection policies with regard to these enhanced services allow you to choose how much information you provide to us, and to control how we use that information. Read below to find out more.  
   
@@ -31,7 +31,7 @@ Our integration with Excite@Home will enable us to provide you with enhanced ser
 
 
 
-Questions regarding this statement should be directed to Excite@Home's [Support Services](http://www.excite.com/feedback/) department. If we have not responded to your inquiry in a timely manner, or your inquiry has not been satifactorily addressed, please contact [TRUSTe](http://www.truste.org/users/watchdog.html).
+Questions regarding this statement should be directed to Excite@Home's [Support Services](http://www.excite.com/feedback/) department. If we have not responded to your inquiry in a timely manner, or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/watchdog.html).
 
 To return to the Web Site, please use the "Back" button on your browser.
 
@@ -80,6 +80,8 @@ Finally, Excite@Home does occasionally send outbound email communications to our
 As always, we are committed to making your Blue Mountain experience enjoyable and safe. When you send one of our electronic greetings, the information you provide to us is used only to customize your greeting with your name and your recipient's name, and to deliver email notifications to you and your recipient. The names and email addresses you give us when you simply send a card are NOT sold, compiled into any type of mailing list, or otherwise used for any type of email solicitation. 
 
 If you choose to explore Exite@Home-integrated services, such as Address Book, we may at times ask you to submit information such as your name or email address, or to share your interests and hobbies with us. You never have to answer these questions, and you can decline this exchange of information on any site on the Internet - not just ours - at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information, such as a personalized stock portfolio, a sweepstakes entry, or the purchase and shipment of products and prizes to people who visit our network.
+
+In order to better serve your needs as a consumer, Blue Mountain may partner with an outside agency to process credit cards and transactions. When partnering with these companies, Blue Mountain may allow them to save your credit card or payment information in the interest of processing the transaction. Our partners are contractually obligated to keep your information in confidence. At no point in time will the data be sold or given to any other party or used in any other way, other than for legitimate customer relations and error correction activities. 
 
 If you are an Excite@Home broadband cable service customer, you are electing to use a paid service that requires you to supply certain information to establish the billing relationship. For instance, your name, address, phone number, and potentially your credit card number must be provided to initiate service. That information is only available to authorized Excite@Home personnel for installing, maintaining, and billing the Excite@Home service.
 
