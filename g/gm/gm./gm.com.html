@@ -580,4 +580,295 @@ You take online privacy seriously, and so does General Motors.  It's our way of 
 
 
 
+</p></body></html><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
+<title>General Motors | Legal</title>
+<script language="JavaScript"> 
+<!-- 
+
+function go(){
+var temp = document.menu.tab.options[document.menu.tab.selectedIndex].value
+
+if (document.menu.tab.options[document.menu.tab.selectedIndex].value != "none") {
+parent.location = document.menu.tab.options[document.menu.tab.selectedIndex].value
+ }
+ if (temp.indexOf('links') > 0) {
+	writewindow();
+	}              
+}
+
+function getCookieVal (offset) 
+   {
+   var endstr = document.cookie.indexOf (";", offset);
+   if (endstr == -1)
+      endstr = document.cookie.length;
+   return unescape(document.cookie.substring(offset, endstr));
+   }
+function GetCookie (name) 
+   {
+   var arg = name + "=";
+   var alen = arg.length;
+   var clen = document.cookie.length;
+   var i = 0;
+   while (i < clen) 
+      {
+      var j = i + alen;
+      if (document.cookie.substring(i, j) == arg)
+         return getCookieVal (j);
+      i = document.cookie.indexOf(" ", i) + 1;
+      if (i == 0) 
+         break; 
+      }
+   return null;
+   }
+function SetCookie (name, value) 
+   {
+   var argv = SetCookie.arguments;
+   var argc = SetCookie.arguments.length;
+   var expires = (2 < argc) ? argv[2] : null;
+   var path = (3 < argc) ? argv[3] : null;
+   var domain = (4 < argc) ? argv[4] : null;
+   var secure = (5 < argc) ? argv[5] : false;
+   document.cookie = name + "=" + escape (value) +
+     ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+     ((path == null) ? "" : ("; path=" + path)) +
+     ((domain == null) ? "" : ("; domain=" + domain)) +
+	((secure == true) ? "; secure" : "");
+   }
+
+function PrintLinks()
+{
+	nurls = 27;
+	nchoices = 14;
+
+	urls = new Array(nurls);
+	choices = new Array(nurls);
+
+	clist = new Array(nchoices);
+	
+	for (i = 0; i < nurls; i++) {
+		choices[i] = 0;
+	}
+
+	//Enter your HTML links here
+	urls[0] = "<A HREF=\"/about/info/news/index.html\">GM News</A><P>"
+	urls[1] = "<A HREF=\"/vehicles/us/selector/index.html\">Select-<font size=\"-1\">a</font>-Vehicle</A><P>"
+	urls[2] = "<A HREF=\"/vehicles/us/index.html\">US Cars & Trucks</A><P>" 
+	urls[3] = "<A HREF=\"/vehicles/us/innovations/jd_awards.html\">J.D. Power Awards</A><P>" 
+	urls[4] = "<A HREF=\"/vehicles/us/showroom/index.html\">Showroom</A><P>"
+	urls[5] = "<A HREF=\"/cgi-bin/dlrloc/dlr_index.cgi\">Dealer Locator</A><P>"
+	urls[6] = "<A HREF=\"/vehicles/us/finance/index.html\">Financing</A><P>"
+	urls[7] = "<A HREF=\"/vehicles/us/innovations/breakthroughs.html\">Breakthroughs</A><P>"
+	urls[8] = "<A HREF=\"/vehicles/us/innovations/designlab.html\">Design Center</A><P>"
+	urls[9] = "<A HREF=\"/vehicles/us/owners/index.html\">You and Your Vehicle</A><P>"
+	urls[10] = "<A HREF=\"/vehicles/us/owners/service/index.html\">Parts & Service</A><P>"
+	urls[11] = "<A HREF=\"/vehicles/index.html\">Cars & Trucks Worldwide</A><P>"
+	urls[12] = "<A HREF=\"/about/info/world/index.html\">World Citizenship</A><P>"
+	urls[13] = "<A HREF=\"/about/community/index.html\">Community Involvement</A><P>"
+	urls[14] = "<A HREF=\"/about/info/world/philanthropy/index.html\">Philanthropy</A><P>"
+	urls[15] = "<A HREF=\"/vehicles/us/owners/ontheroad/index.html\">On the Road</A><P>"
+	urls[16] = "<A HREF=\"/cgi-bin/linksout/linksout.cgi?www.onstar.com+/index.html\" onclick=\"writewindow()\">OnStar</A><p>"
+	urls[17] = "<A HREF=\"/about/investor/index.html\">Investor Info</A><P>"
+	urls[18] = "<A HREF=\"/about/info/overview/history/index.html\">History</A><p>"
+	urls[19] = "<A HREF=\"/vehicles/us/owners/mobility.html\">Mobility Program</A><P>"
+	urls[20] = "<A HREF=\"/about/info/overview/facts.html\">Company Profile</A><P>"
+	urls[21] = "<A HREF=\"/vehicles/us/innovations/advanced.html\">Advanced Technology Vehicles</A><P>"
+	urls[22] = "<A HREF=\"/about/info/world/environment.html\">Environment</A><P>"
+	urls[23] = "<A HREF=\"/vehicles/us/motorsports/index.html\">Motorsports</A><P>"
+	urls[24] = "<A HREF=\"/vehicles/us/features/index.html\">Features</A><P>"
+	urls[25] = "<A HREF=\"/about/info/careers/index.html\">Careers in Motion</A><P>"
+	urls[26] = "<A HREF=\"/about/index.html\">About our Company</A><P>"
+
+	clist[0] = "2,0,25"
+	clist[1] = "5,1,4,2,3,24"
+	clist[2] = "1,5"
+	clist[3] = "1,6"
+	clist[4] = "3,8,7,23"
+	clist[5] = "2,10,9"
+	clist[6] = "2,11,12"
+	clist[7] = "2,13,14"
+	clist[8] = "1,15"
+	clist[9] = "2,10,16"
+	clist[10] = "1,17"
+	clist[11] = "2,18,26"
+	clist[12] = "1,19"
+	clist[13] = "2,20,4"
+	clist[14] = "2,21,22"
+	
+	var bmask = GetCookie("GMLINKS");
+
+	if (bmask != null && bmask != "") {
+		if (bmask.length < 10)
+			for (var i = bmask.length; i < 10; i++)
+				bmask += "0";
+	} else {
+		document.write('<FONT FACE="Arial,Helvetica" SIZE=-1>');
+	document.write('<A HREF="/custom.html">Create your own path</A>'); 
+		document.write(' of customized links and go directly to');
+		document.write(' the information you want.');
+		document.write('</FONT><P>');
+		bmask = "0000000000";
+	}
+
+	prev = 0;
+
+	for (var i = 0; i < bmask.length; i++) {
+		if (bmask.charAt(i) != "1")
+			continue;
+
+		prev = 2;
+	
+		counter = clist[i].charAt(0);
+		val = counter - 1;
+
+		for (j = 0; j < val; j++) {
+			last = clist[i].indexOf("," , prev);
+			link = clist[i].substring(prev, last);
+			prev = last + 1;
+			choices[link - 0] = 1;
+		}
+	
+		link = clist[i].substring(prev, clist[i].length);
+		choices[link - 0] = 1;
+	}
+
+	for (i = 0; i < nurls; i++) {
+		if (choices[i] == 1) {
+			document.write('<FONT SIZE=-1 FACE="Arial,Helvetica">');
+			document.write(urls[i]);
+			document.write('</FONT>');
+		}
+	}
+}
+
+//backlink scripts
+
+function setCookie(name, value, expires, path, domain, secure) {
+  document.cookie = name + "=" + escape(value) + 
+  ((expires == null) ? "" : "; expires=" + expires.toGMTString()) +
+  ((path == null) ? "" : "; path=" + path) +
+  ((domain == null) ? "" : "; domain=" + domain) +
+  ((secure == null) ? "" : "; secure");
+}
+
+function writewindow() {
+	window.name='main';
+	var expiration = new Date();
+	expiration.setTime(expiration.getTime() + 2147483647);
+	var lasturl=document.location;
+	var lasttitle=document.title;
+	var lastlocation=lasturl + 'title:' + lasttitle;
+	setCookie("lastvisit",lastlocation,expiration,"/");
+	var newwin = window.open("/backlink.html","small","width=150,height=125"); 
+	if (newwin != null && newwin.opener == null) newwin.opener = self;
+}
+
+//custom path page function
+
+function checktheboxes() {
+var bmask = GetCookie("GMLINKS");
+if (bmask != null && bmask != "") {
+	for (var i = 1; i <= bmask.length; i++) {
+        if (bmask.charAt(i-1) == "1") {
+        document.customlinks.elements[i-1].checked = true;
+        }
+	}
+}
+}
+
+function writestock() {
+	
+	var stock = window.open("http://cfs.stockpoint.com/gm/dynamicstock2.asp","small","width=440,height=340"); 
+	if (stock != null && stock.opener == null) stock.opener = self;
+}
+
+// end script -->
+</script>
+
+</head>
+<body bgcolor="#FFFFFF">
+<table cellpadding="0" cellspacing="0" width="600" height="0" border="0">
+<tbody><tr valign="BOTTOM">
+<td><a href="/vehicles/index.html"><img src="/images/cartab_a.gif" width="230" height="28" border="0"></a></td>
+<td><a href="/about/index.html"><img src="/images/abouttab_a.gif" width="230" height="28" border="0"></a></td>
+<td rowspan="2"><a href="/index.html"><img src="/images/tabspace.gif" border="0"><img src="/images/gmani.gif" border="0"></a></td>
+</tr>
+<tr>
+<td colspan="2"><img src="/images/midbar.gif" width="460" height="21" border="0"></td>
+</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="600" height="0" border="0">
+<tbody><tr>
+<td><img src="/images/tools_map.gif" border="0"></td>
+</tr>
+</tbody></table>
+<p>
+<table border="0" width="600" cellspacing="0">
+<tbody><tr valign="TOP">
+<td width="120"><img src="/images/custom.gif"><p>
+<script language="JavaScript1.1">
+<!-- Hide
+PrintLinks()
+//-->
+
+</script><font face="Arial,Helvetica" size="-1"><a href="/custom.html">Create your own path</a> of customized links and go directly to the information you want.</font></p><p>
+<a href="/custom.html"><img src="/images/buttons/update_path.gif" width="119" height="15" border="0"></a>
+</p><p>
+
+</p></td>
+<td width="10">&nbsp;&nbsp;&nbsp;</td>
+<td width="470">
+<table border="0" width="470">
+<tbody><tr valign="TOP">
+<td width="470">
+<p></p><hr size="1" color="#CC9900" noshade="">
+<font size="+1" face="Arial,Helvetica"><b>GM ONLINE PRIVACY PRINCIPLES</b></font>
+<p>
+
+You don't want your personal information to fall into the wrong hands.  Neither does General Motors. </p><p>
+
+When you visit one of the General Motors web sites, we may collect and store information about your visit on an <b>anonymous</b>, aggregate basis. This information may include the time and length of your visit, the pages you look at on our sites, and the site you visited just before coming to ours. We may also record the name of your Internet service provider. We use this information only to measure site activity and to develop ideas for improving our sites.</p><p>
+
+There are also several opportunities on our web sites for you to provide us with information about you and your interests, such as your name, mailing address and e-mail address. If you choose to share any personal information with us, we may store it and use it for marketing research and other marketing purposes, which may include sharing it with other companies in the General Motors family and our business partners. We will never sell your information to any other company.
+</p><p>
+You should be aware that when you voluntarily disclose personal information in public areas of our web sites, such as chat rooms or bulletin boards, this information may be seen and used by others.  We urge you to exercise good judgement when sharing personal information in these forums.
+</p><p>
+Some of our web sites may make use of "cookie" technology to measure site activity and to customize information to your personal tastes.  A cookie is an element of data that a Web site can send to your browser, which may then store the cookie on your hard drive.  So, when you come back to visit us again, we can tailor information to suit your individual preferences.  The goal is to save you time and provide you with a more meaningful visit.
+</p><p>
+You take online privacy seriously, and so does General Motors.  It's our way of sustaining your trust in General Motors and our products and services.
+</p><p>
+<font size="-1">General Motors reserves the right to alter our privacy principles as business needs require. Any alterations to these principles will be posted on our web sites in a timely manner. Applicable to U.S.-based divisions.</font>
+</p></td>
+</tr>
+</tbody></table><p>
+</p><p>
+<nobr>
+<applet code="Stock.class" codebase="/stock/" width="150" height="16">
+<param name="file" value="text">
+<param name="bgcolor" value="000000">
+<param name="fgcolor" value="FFFFFF">
+<param name="fontname" value="TIMES">
+<param name="fontsize" value="10">
+<param name="interval" value="300">
+<param name="pad" value="3">
+<param name="urlname" value="/about/investor">
+<b><font size="-1">GM Stock*:  68 15/16
+</font></b> <br> 
+</applet><img src="/images/toolbar.gif" border="0" usemap="#toolbar">
+</nobr>
+<br>
+<map name="toolbar">
+<area shape="rect" coords="0,0,76,15" href="/tools/sitemap.html" target="_top">
+<area shape="rect" coords="78,0,145,15" href="/tools/search.html" target="_top">
+<area shape="rect" coords="147,2,230,15" href="/tools/webtools.html" target="_top">
+<area shape="rect" coords="233,1,309,13" href="/tools/feedback.html" target="_top">
+<area shape="default" nohref="">
+</map>
+<font size="-2">* Updated every 20 minutes from a source other than General Motors. <br> Copyright ©1997,1998 General Motors Corporation. Complete <a href="#" onclick="writestock()" target="_top">stock</a>, <a href="/tools/legal.html" target="_top">copyright and trademark</a>, <a href="/tools/privacy.html">privacy</a><br>information including photographs used with the permission of the General Motors Media Archives.</font>
+
+</p></td>
+</tr>
+</tbody></table>
+
+
+
 </p></body></html>
