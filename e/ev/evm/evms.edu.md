@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the evms.edu privacy policy that was archived on 2003-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030311090529id_/http%3A//www.evms.edu/acc/web-site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evms.edu privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001185828id_/http%3A//www.evms.edu/website/privacy.html) for the most accurate reproduction.*
 
 # EVMS Web Site Privacy Policy
 
-**  
-Web Site Privacy Statement**
+**Web Site Privacy Statement**
 
 EVMS Web sites can be visited without identifying yourself or revealing personal information. On occasion, we may ask you for personal information to help us better serve you. If you choose to provide us with personal information, it will be used only to support your customer relationship with EVMS. EVMS will not sell, rent or lease your personally identifiable information to anyone.
 
