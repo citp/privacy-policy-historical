@@ -1,0 +1,930 @@
+<!--The following is the downloaded HTML source of the shaneco.com privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208092317id_/http%3A//www.shaneco.com/service/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>Shane Co</title>
+<link rel="stylesheet" type="text/css" href="../include/style.txt">
+<style type="text/css">
+<!-- BODY			A 					{ text-decoration:none }
+-->
+</style>
+<script language="JavaScript">
+function qnav()
+	{
+	var url = document.quicknav.section.options[document.quicknav.section.selectedIndex].value;
+	window.location.href = url
+	}
+</script>
+<!--************************** BEGIN HEADER ********************************-->
+
+	<link rel="P3Pv1" href="http://www.shaneco.com/w3c/p3p.xml" type="text/xml">
+
+<!-- //BEGIN HEADER// -->
+<link rel="stylesheet" type="text/css" href="/include/style.txt">
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+	if(window.event + "" == "undefined") event = null;
+	function HM_f_PopUp(){return false};
+	function HM_f_PopDown(){return false};
+	popUp = HM_f_PopUp;
+	popDown = HM_f_PopDown;
+
+//-->
+</script>
+
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+
+	HM_PG_MenuWidth				= 150;
+	HM_PG_FontFamily			= "Verdana,Arial,sans-serif";
+	HM_PG_FontSize				= "8";
+	HM_PG_FontBold				= 0;
+	HM_PG_FontItalic			= 0;
+	HM_PG_FontColor				= "#000000";
+	HM_PG_FontColorOver			= "#000000";
+	HM_PG_BGColor				= "#EDECD8";
+	HM_PG_BGColorOver			= "#B2AB8E";
+	HM_PG_ItemPadding			= 3;
+
+	HM_PG_BorderWidth			= 2;
+	HM_PG_BorderColor			= "#C4B796";
+	HM_PG_BorderStyle			= "solid";
+	HM_PG_SeparatorSize			= 1;
+	HM_PG_SeparatorColor		= "black";
+
+	HM_PG_ImageSrc				= '/Include/tri.gif';
+	HM_PG_ImageSrcLeft			= '/Include/tri.gif';
+
+	HM_PG_ImageSrcOver			= '/Include/tri.gif';
+	HM_PG_ImageSrcLeftOver		= '/Include/tri.gif';
+
+	HM_PG_ImageSize				= 10;
+	HM_PG_ImageHorizSpace		= 0;
+	HM_PG_ImageVertSpace		= 2;
+
+	HM_PG_KeepHilite			= true; 
+	HM_PG_ClickStart			= false;
+	HM_PG_ClickKill				= false;
+	HM_PG_ChildOverlap			= 20;
+	HM_PG_ChildOffset			= 5;
+	HM_PG_ChildPerCentOver		= null;
+	HM_PG_TopSecondsVisible		= .5;
+	HM_PG_StatusDisplayBuild	= 0;
+	HM_PG_StatusDisplayLink		= 1;
+	HM_PG_UponDisplay			= "hideForm(true,this)";
+	HM_PG_UponHide				= "hideForm(false,this)";
+	HM_PG_RightToLeft			= false;
+
+	HM_PG_CreateTopOnly			= 1;
+	HM_PG_ShowLinkCursor		= 1;
+	HM_PG_NSFontOver			= true;
+
+	//HM_a_TreesToBuild = [2];
+
+//-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+/*	=======================================================================================
+
+	FORM ELEMENT HIDE/SHOW - START
+
+	AUTHOR:		D.SCOTT - 28 SEP 2001
+
+	PURPOSE:	Supports visibility of individual form elements for HierMenus 4.1.  The 
+				following scripts support this functionality.
+
+	USAGE:		This code is included in the HierMenu definitions above in the variables 
+				HM_PG_UponDisplay and HM_PG_UponHide.  Usage is as follows:
+
+					HM_PG_UponDisplay	= "hideForm(true,this)";
+					HM_PG_UponHide		= "hideForm(false,this)";
+
+				A slight modification to the HM_ScriptDOM.js file needs to be made.  The
+				function that needs to be changed is function HM_f_ShowIt(), and the 
+				following lines need to be commented out:
+				
+				function HM_f_ShowIt(on) {
+					if (!(this.tree.TopIsPermanent && (this.tree.treeParent==this))) {
+	Comment this ->	//	if(!this.hasParent || (this.hasParent && this.tree.TopIsPermanent
+						&& (this.tree.treeParent==this.parentMenu))) {
+							var IsVisible = (this.style.visibility == "visible");
+							if ((on && !IsVisible) || (!on && IsVisible))
+								eval(on ? this.tree.UponDisplay : this.tree.UponHide)
+	And this ----->	//	}
+
+				Modifications to the HM_ScriptDOM.js file were made as a last resort only, 
+				since the form element hide/show functionality has to be run when a menu at 
+				any level becomes visable. In HierMenus version 4.1, the values contained 
+				within HM_PG_UponDisplay and HM_PG_UponHide only are run when the tree as a 
+				whole is displayed.  The script below needs to fire when any level of the 
+				tree is displayed or hidden. Fortunately though, only two lines had to be 
+				commented out to make the script below work.
+
+*//*---------------------------------------------------------------------------------------
+
+	getPosition(obj)
+	Purpose:	Finds the object's offsetTop and offsetLeft values relative to the BODY tag.
+
+	-------------------------------------------------------------------------------------*/
+	function getPosition(element) {
+
+	//	Set position and dimension variables
+		positionLeft	= element.offsetLeft;
+		positionTop		= element.offsetTop;
+		elementWidth	= element.offsetWidth;
+		elementHeight	= element.offsetHeight;
+		elementParent	= element.offsetParent;
+
+		while (elementParent.tagName.toUpperCase() != "BODY") {
+			positionLeft	+= elementParent.offsetLeft;
+			positionTop		+= elementParent.offsetTop;
+			elementParent	= elementParent.offsetParent;
+		}
+
+		positionRight	= elementWidth + positionLeft;
+		positionBottom	= elementHeight + positionTop;
+		positionObject	= new setDimensions(positionLeft,positionRight,
+											positionTop,positionBottom,
+											elementHeight,elementWidth);
+
+	/*	For testing - alert the current menu's position
+		alert("--- " + element.id.toUpperCase()		+ " ---\n"
+				+ "Left: "		+ positionLeft		+ "\n"
+				+ "Right: "		+ positionRight		+ "\n"
+				+ "Top: "		+ positionTop		+ "\n"
+				+ "Bottom: "	+ positionBottom	+ "\n"
+				+ "Width: "		+ elementWidth		+ "\n"
+				+ "Height: "	+ elementHeight);	*/
+
+		return positionObject;
+
+	}
+
+
+/*	---------------------------------------------------------------------------------------
+
+	setDimensions(left,right,top,bottom)
+	Purpose:	Sets properties of a new JavaScript object containing the position and 
+				dimension information of an element passed into getPosition().
+
+	-------------------------------------------------------------------------------------*/
+	function setDimensions(left,right,top,bottom,height,width) {
+
+		this.left	= left;
+		this.right	= right;
+		this.top	= top;
+		this.bottom	= bottom;
+		this.width	= width;
+		this.height	= height;
+
+	}
+
+
+/*	---------------------------------------------------------------------------------------
+
+	doesOverlap(posObj1,posObj2)
+	Purpose:	Checks to see if two objects overlap.
+
+	-------------------------------------------------------------------------------------*/
+	function doesOverlap(posObj1,posObj2) {
+
+	//	Initialize variables
+		overlapsHorizontally = false;
+		overlapsVertically = false;
+
+	//	Test both objects for overlap of left/right axis
+		if ((posObj1.left >= posObj2.left && posObj1.left <= posObj2.right) || (posObj1.right >= posObj2.left && posObj1.right <= posObj2.right)) {
+			overlapsHorizontally = true;
+		}
+
+	//	Test both objects for overlap of top/bottom axis
+		if ((posObj1.top >= posObj2.top && posObj1.top <= posObj2.bottom) || (posObj1.bottom >= posObj2.top && posObj1.bottom <= posObj2.bottom)) {
+			overlapsVertically = true;
+		}
+
+		return overlapsHorizontally && overlapsVertically;
+
+	}
+
+
+/*	---------------------------------------------------------------------------------------
+
+	hideForm(on,oMenuObj)
+	Purpose:	Loops through JavaScript menu arrays, identifies which form elements need
+				to be hidden or shown, and hides/shows the form elements.  This technique 
+				DOES NOT WORK in Netscape 4.7x browsers due to JavaScript DOM constraints,
+				and IS NOT NEEDED in Netscape 6.
+
+	-------------------------------------------------------------------------------------*/
+	function hideForm(on,oMenuObj) {
+	
+	//	This script works only for IE4+ browsers....
+		if (document.all) {
+			oMenuPos = getPosition(oMenuObj);
+
+		//	Check for the existence of forms
+			if (document.forms.length > 0) {
+
+			//	Start with first form, and then move on to next, etc....
+				for (var FormObject = 0; FormObject <= (document.forms.length - 1); FormObject++) {
+
+				//	Loop through the collection of form elements
+					for (var i = 0; i < document.forms[FormObject].elements.length; i++) {
+
+					//	Set oElement = to the current form element object being looped through
+						oElement = document.forms[FormObject].elements[i];
+
+					//	Exclude all 'hidden' input types
+						if (oElement.type.toLowerCase() != "hidden") {
+
+						//	Exclude all 'hidden' input types
+							var elementType = oElement.type.toLowerCase();
+
+						//	List inputs we don't want hidden.
+							switch (elementType) {
+							//	Hidden, text and password fields need not be hidden
+								case "hidden": break;
+								case "text": break;
+								case "password": break;
+
+							//	For all other input types, run the following code....
+								default:
+							//	Set the position for the dropdown select box, using getPosition()
+								oDropdownBoxPos = getPosition(oElement);
+
+							//	For testing - alert the dropdown box's position when hiding the object (on)
+							/*	if (on)	alert("--- " + oElement.type.toUpperCase() + " ---\n"
+										+ "Left: "		+ oDropdownBoxPos.left		+ "\n"
+										+ "Right: "		+ oDropdownBoxPos.right		+ "\n"
+										+ "Top: "		+ oDropdownBoxPos.top		+ "\n"
+										+ "Bottom: "	+ oDropdownBoxPos.bottom	+ "\n"
+										+ "Width: "		+ oDropdownBoxPos.width		+ "\n"
+										+ "Height: "	+ oDropdownBoxPos.height);	*/
+
+							//	Test to see if oMenuObj overlaps the current oElement using doesOverlap()
+								if (doesOverlap(oDropdownBoxPos,oMenuPos)) {
+								//	(oElement.hidByMenuID != null) ? alert("hidByMenuID = " + oElement.hidByMenuID) : alert("hidByMenuID = null");
+
+								//	If they do overlap, then hide or show the form element.
+
+									if (on){
+
+										if (oElement.hidByMenuID == null) {
+
+										//	'on' is set true - hide the element
+											oElement.style.visibility = "hidden"
+										//	Tag the object that hid the element
+											oElement.hidByMenuID = oMenuObj.id;
+
+										}
+
+									} else {
+									
+										if (oElement.hidByMenuID == oMenuObj.id) {
+
+										//	'on' is set false - show the element
+											oElement.style.visibility = "visible";
+										//	Remove the tag to the object that hid the element.
+											oElement.hidByMenuID = null;
+
+										}
+
+									}
+
+								}
+								break;
+							}
+ 
+						}
+
+					}
+
+				}
+
+			}/**/
+
+		}
+
+	}
+
+/*	---------------------------------------------------------------------------------------
+
+	FORM ELEMENT HIDE/SHOW - END 
+
+	=====================================================================================*/
+
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--
+	function window_onload() {
+		isLoaded = true;
+
+		//call the Error Routines here
+		var sError='';
+		if (sError.length != 0 ) {
+			alert(sError) ;
+		}
+		
+		//build menus
+		//startIt()
+
+		//call the custom function here
+		CustomWindowOnload() ;
+	}
+
+	function CustomWindowOnload() {
+			//Dummy function
+			//If the page including this file need to process window_onload()
+			//create a function "CustomWindowOnload()" on the page and do
+			//the processing there
+			//Note: Make sure to include this "header.asp" before the function
+			//definition in the page
+	}
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="return window_onload()">
+<center>
+<table border="0" width="771" bgcolor="#EDECD8" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="94" height="50"><a href="http://www.shaneco.com"><img src="http://shaneco.speedera.net/www.shaneco.com/images/logo.gif" width="94" height="50" border="0" alt="The Shane Company - Direct Diamond Importers"></a></td>
+		<td align="right" valign="top" colspan="2" nowrap="">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td align="right">
+						<span class="arial" style="background-color:#edecd8;">
+						<a class="header" href="http://www.shaneco.com">Home</a> ·
+						<a class="header" href="http://www.shaneco.com/about/about_us.asp">About Shane Co.</a> <span class="red">·</span>
+						<a class="header" href="http://www.shaneco.com/service/customer_service.asp">Customer Service</a> <span class="red">·</span>
+						<a class="header" href="http://www.shaneco.com/service/our_guarantee.asp">Our Guarantee</a> <span class="red">·</span>
+						<a class="header" href="http://www.shaneco.com/profile/sign_in.asp">Sign In</a> <span class="red">·</span>
+						<a class="header" href="http://www.shaneco.com/profile/profile_view.asp">My Account</a> <span class="red">·</span>
+						<a class="header" href="http://www.shaneco.com/letstalk/letstalk.asp">Let's Talk</a> <span class="red">·</span>
+						<a class="header" href="http://www.shaneco.com/order/shoppingbasket.asp">Shopping Bag</a>
+						</span>
+					</td>
+					<td rowspan="2"><img src="http://shaneco.speedera.net/www.shaneco.com/images/spacer.gif" width="8" height="1"></td>
+				</tr>
+				<tr>
+					<td align="right" height="30" valign="middle">
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td nowrap="" class="bgtanbkfont">&nbsp;</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table border="0" width="771" bgcolor="#EDECD8" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td class="bgtanbkfont" colspan="2" nowrap=""><img src="http://shaneco.speedera.net/www.shaneco.com/images/spacer.gif" width="8" height="1">Now you have a friend in the diamond business.<sup><span class="smaller">TM</span></sup></td>
+		<td align="right" class="bgtanbkfont">U.S.A. &amp; Canada: 1-866-Go-Shane (467-4263) - Int'l: 001-720-874-0203<img src="http://shaneco.speedera.net/www.shaneco.com/images/spacer.gif" width="8" height="1"></td>
+	</tr>
+</tbody></table>
+<table border="0" width="771" bgcolor="#EDECD8" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="106" height="22" class="ButtonBar" onmouseover="this.style.backgroundColor='#990033';this.style.cursor='hand';" onmouseout="this.style.backgroundColor='#701A35';">
+			<a class="TopNav" href="http://www.shaneco.com" onmouseover="popUp('elMenu1',event);" onmouseout="popDown('elMenu1');" target="_top">&nbsp;&nbsp;DEPARTMENTS</a>
+		</td>
+		<td bgcolor="666666"><img src="http://shaneco.speedera.net/www.shaneco.com/images/spacer.gif" width="3" height="1"></td>
+		<td width="171" height="22" class="ButtonBar" onmouseover="this.style.backgroundColor='#990033';this.style.cursor='hand';" onmouseout="this.style.backgroundColor='#701A35';">
+			<a class="TopNav" href="http://www.shaneco.com/catalog/sugg_occasion.asp" onmouseover="popUp('elMenu2',event);" onmouseout="popDown('elMenu2');" target="_top">&nbsp;&nbsp;GIFT &amp; SHOPPING IDEAS</a>
+		</td>
+		<td bgcolor="666666"><img src="http://shaneco.speedera.net/www.shaneco.com/images/spacer.gif" width="3" height="1"></td>
+		<td width="121" height="22" class="ButtonBar" onmouseover="this.style.backgroundColor='#990033';this.style.cursor='hand';" onmouseout="this.style.backgroundColor='#701A35';">
+			<a class="TopNav" href="http://www.shaneco.com/jewelry/jewelry_basics.asp" target="_top">&nbsp;&nbsp;JEWELRY BASICS</a>
+		</td>
+		<td bgcolor="666666"><img src="http://shaneco.speedera.net/www.shaneco.com/images/spacer.gif" width="3" height="1"></td>
+		<td width="137" height="22" class="ButtonBar" onmouseover="this.style.backgroundColor='#990033';this.style.cursor='hand';" onmouseout="this.style.backgroundColor='#701A35';">
+			<a class="TopNav" href="http://www.shaneco.com/weddings/wedding_planner.asp" target="_top">&nbsp;&nbsp;WEDDING PLANNER</a>
+		</td>
+		<td bgcolor="666666"><img src="http://shaneco.speedera.net/www.shaneco.com/images/spacer.gif" width="3" height="1"></td>
+		<td width="137" height="22" class="ButtonBar" onmouseover="this.style.backgroundColor='#990033';this.style.cursor='hand';" onmouseout="this.style.backgroundColor='#701A35';">
+			<a class="TopNav" href="http://www.shaneco.com/catalog/catalog.asp?PageLevelID=180&amp;byo=Ring" onmouseover="popUp('elMenu3',event);" onmouseout="popDown('elMenu3');" target="_top">&nbsp;&nbsp;DESIGN YOUR OWN</a>
+		</td>
+		<td bgcolor="666666"><img src="http://shaneco.speedera.net/www.shaneco.com/images/spacer.gif" width="3" height="1"></td>
+		<td width="84" height="22" class="ButtonBar" onmouseover="this.style.backgroundColor='#990033';this.style.cursor='hand';" onmouseout="this.style.backgroundColor='#701A35';">
+			<a class="TopNav" href="http://www.shaneco.com/Weddings/wish_list_edit.asp" onmouseover="popUp('elMenu4',event);" onmouseout="popDown('elMenu4');" target="_top">&nbsp;&nbsp;WISH LISTS</a>
+		</td>
+	</tr>
+</tbody></table>
+<script language="JavaScript1.2" src="/include/HM_Loader.js" type="text/javascript"></script><script language="JavaScript1.2" src="/Include/HM_Arrays_4-1.js" type="text/javascript"></script><script language="JavaScript1.2" src="/Include/HM_ScriptDOM.js" type="text/javascript"></script>
+<!-- //END HEADER// -->
+<!--************************** END HEADER ********************************-->
+<!-- BODY CONTENT -->
+<table cellpadding="0" cellspacing="0" border="0" width="771">
+  <tbody><tr>
+  	<td class="career">
+  	<table cellpadding="0" cellspacing="0" border="0">
+  	  <tbody><tr>
+  	  	<td class="career"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/title_our_policies.gif" width="250" height="22" alt="About Us"></td>
+  		<td class="career" align="left"></td>
+  	  </tr>
+  	</tbody></table>
+  	</td>
+  </tr>
+</tbody></table>
+<!-- MAIN -->
+<table cellpadding="1" cellspacing="0" border="0" width="771">
+  <tbody><tr>
+    <td width="200" valign="top">
+    <!--column 1-->
+    <table cellpadding="1" cellspacing="0" border="0" width="200">
+	  <tbody><tr>
+  		<td width="194"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/privacy_policy.jpg" width="195" height="196">
+  		</td>
+	  </tr>
+	</tbody></table>
+	</td>
+	<td valign="top" width="571">
+	<!--column 2-->
+	<table cellpadding="0" cellspacing="0" border="0" width="571">
+	  <tbody><tr>
+  		<td colspan="3"><br><br><br><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/title_privacy_policy.gif" width="553" height="14"><br><br>
+  		</td>
+  	  </tr>
+   	  <tr>
+   	    <td width="100"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/spacer.gif" width="100" height="1">
+   	    </td>
+   	    <td class="bgwhtbkfont" width="451">
+ 		At ShaneCo.com, we are committed to protecting your privacy.  We will never sell or give any of your personal information to anyone.  The information we gather is used to provide better service and information to you, our customer.  You can learn more about our privacy policy below.
+ 		<br><br>
+ 		</td>
+      </tr>
+ 	  <tr>
+ 	  	<td></td>
+   	    <td align="right">  	    	<form name="quicknav">
+ 			<img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/quick_navigation.gif" width="84" height="14">&nbsp;
+   	    	<select name="section" onchange="qnav()" size="1">
+   	    		<option value="#info">Information Collection and Use</option>
+   	    		<option value="#Registration">Registration</option>
+   	    		<option value="#Order">Order</option>
+   	    		<option value="#Cookies">Cookies</option>
+   	    		<option value="#Log_Files">Log Files</option>
+   	    		<option value="#Sharing">Sharing</option>
+   	    		<option value="#Links">Links</option>
+   	    		<option value="#Newsletter">Newsletter</option>
+   	    		<option value="#Surveys">Surveys &amp; Contests</option>
+   	    		<option value="#Security">Security</option>
+   	    		<option value="#Supp">Supplementation of Information</option>
+   	    		<option value="#Special_Offers">Special Offers</option>
+   	    		<option value="#site">Site and Service Updates</option>
+   	    		<option value="#correction">Correction/Updating Personal Information:</option>
+   	    		<option value="#choice">Choice/Opt-out</option>
+   	    		<option value="#notify">Notification of Changes</option>
+<!-- 11/27/00 by CD: Removed as they don't have Truste yet
+   	    		<option VALUE="#Truste">Truste</option>
+-->
+   	    	</select>
+   	    	</form>
+   	    </td>
+  	  </tr>
+	  <tr>
+	  	<td></td>
+	  	<td class="brown"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  </tr>
+	  <tr>
+	    <td></td>
+	    <td><br></td>
+	  </tr>
+  	  <tr>
+	  	<td></td>
+	  	<td>
+	  	<center>
+	  	<table cellpadding="0" cellspacing="0" border="0" width="450">
+	  	  <tbody><tr>
+		  	<td class="dyormaroonft" colspan="3"><a name="info">Information Collection and Use</a></td>
+		  </tr>
+		  <tr>
+			<td class="bgwhtbkfont" colspan="3">Shane Co. is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  Shane Co. collects information from our users at several different points on our Web site.
+			</td>
+	 	  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><a href="#top"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+		  <tr>
+		    <td class="dyormaroonft" colspan="3"><br><a name="Registration">Registration</a>
+		    </td>
+		  </tr>
+		  <tr>
+			<td class="bgwhtbkfont" colspan="3">In order to place an order on our Web site, a user must first complete the registration form.  During registration a user is required to give their contact information (such as name and email address).  This information is used to contact the user about the services on our site for which they have expressed interest.
+			</td>
+	 	  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><a href="#top"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+	 	  	<td></td>
+		  	<td class="dyormaroonft" colspan="3"><a name="Order">Order</a></td>
+		  </tr>
+		  <tr>
+		  	<td></td>
+		  	<td>
+	  	</td></tr>
+		  <tr>
+			<td class="bgwhtbkfont" colspan="3"><br>We request information from the user on our order form.  Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date).  This information is used for billing purposes and to fulfill customer's orders.  If we have trouble processing an order, this contact information is used to get in touch with the user.
+			</td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><a href="#top"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+	 	  	<td></td>
+		  	<td class="dyormaroonft" colspan="3"><a name="Cookies">Cookies</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+		<td class="bgwhtbkfont" colspan="3"><br>A cookie is a piece of data stored on the user's hard drive containing information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  Once the user closes their browser, the cookie simply terminates until you return to our site. We leave a cookie on the user's machine, which will allow the site to recognize the user when they return. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site.  If a user rejects the cookie, they may still use our site.  The only drawback to this is that the user will be limited in some areas of our site.
+			<br>
+			Some of our business partners use cookies on our site (for example, advertisers).  However, we have no access to or control over these cookies.<br><br>
+			</td>
+	 	  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><a href="#top"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+	 	  	<td></td>
+		  	<td class="dyormaroonft" colspan="3"><a name="Log_Files">Log Files</a></td>
+		  </tr>
+		  <tr>
+	 	  	<td></td>
+			<td class="bgwhtbkfont" colspan="3"><br>We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information.<br><br>
+			</td>
+	 	  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><a href="#top"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+
+	  	  <tr>
+		 	  	<td></td>
+	  	<td class="dyormaroonft" colspan="3"><a name="Sharing">Sharing</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" colspan="3"><br>We will share aggregated demographic and trending information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+				<br><br>
+				We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services.
+				<br><br>
+				We partner with parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
+				These parties are not allowed to use personally identifiable information except for the purpose of providing these services.<br><br>
+			</td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><br><a href="#top"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+		 	  	<td></td>
+	  	<td class="dyormaroonft" colspan="3"><a name="Links">Links</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" colspan="3"><br>This Web site contains links to other sites. Please be aware that we (Shane Co.) are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this Web site.<br><br></td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><br><a href="#top"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+		 	  	<td></td>
+	  	<td class="dyormaroonft" colspan="3"><a name="Newsletter">Newsletter</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" colspan="3"><br>If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.<br><br></td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><br><a href="#top"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+		 	  	<td></td>
+	  	<td class="dyormaroonft" colspan="3"><a name="Surveys">Surveys &amp; Contests</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" colspan="3"><br>From time to time our site requests information from users via surveys or contests.  Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information.  Information requested may include contact information (such as name and shipping address), and demographic information (such as ZIP code, age level).  Contact information will be used to notify the winners and award prizes.  Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.<br><br></td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><br><a href="#top"><img src="http://shaneco.speedera.net/www.shaneco.com/service/../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+		 	  	<td></td>
+	  	<td class="dyormaroonft" colspan="3"><a name="Security">Security</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" colspan="3" valign="top"><a href="http://www.verisign.com"><img src="../images/sm_verisign.gif" width="100" height="42" border="0"></a><br>This Web site takes every precaution to protect our users' information.  When users submit sensitive information via the Web site, your information is protected both online and off-line.
+			<br><br>
+			When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.  While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.  <!-- 11/27/00 removed by CD: To learn more about SSL, follow this link (Will be added when available) -->
+			<br><br>
+			While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users' information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.  Our employees must use password-protected screen-savers when they leave their desk.  When they return, they must re-enter their password to re-gain access to your information.  Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage and protected by a firewall.
+			<br><br>
+			If you have any questions about the security at our Web site, you can send an email to <a href="mailto:security@ShaneCo.com" class="jblinks">security@ShaneCo.com</a>.<br><br>	</td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><br><a href="#top"><img src="../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+		 	  	<td></td>
+	  	<td class="dyormaroonft" colspan="3"><a name="Supp">Supplementation of Information</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" colspan="3"><br>In order for this Web site to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources.<br><br>	</td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><br><a href="#top"><img src="../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+		 	  	<td></td>
+	  	<td class="dyormaroonft" colspan="3"><a name="Special_Offers">Special Offers</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" colspan="3"><br>We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.<br><br>	</td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><br><a href="#top"><img src="../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+		 	  	<td></td>
+	  	<td class="dyormaroonft" colspan="3"><a name="site">Site and Service Updates</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" colspan="3"><br>We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.<br><br>	</td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><br><a href="#top"><img src="../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+		 	  	<td></td>
+	  	<td class="dyormaroonft" colspan="3"><a name="correction">Correction/Updating Personal Information:</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" colspan="3"><br>If a user's personally identifiable information changes (such as your ZIP code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us.  This can usually be done at the member information page, or by emailing or calling <a href="../LetsTalk/contactus.asp" class="jblinks">Customer Support</a>.<br><br>	</td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><br><a href="#top"><img src="../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+		 	  	<td></td>
+	  	<td class="dyormaroonft" colspan="3"><a name="choice">Choice/Opt-out</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" colspan="3"><br>Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information.
+			<br><br>
+			Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at <a href="mailto:support@ShaneCo.com" class="jblinks">support@ShaneCo.com</a>
+			<br><br>
+			Users of our site are always notified when their information is being collected by any outside parties other than those mentioned in this privacy policy above.  We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.<br><br>
+			</td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><br><a href="#top"><img src="../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+		 	  	<td></td>
+	  	<td class="dyormaroonft" colspan="3"><a name="notify">Notification of Changes</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" colspan="3"><br>If we decide to change our privacy policy, we will post notification of those changes on our site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. <br><br>
+			</td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td align="right"><br><br><a href="#top"><img src="../images/button_back_to_top.gif" width="68" height="13" border="0" alt="back to top"></a><a href="policy_home.asp"><img src="../images/button_back_to_policies.gif" width="100" height="13" border="0" alt="Back to Policy Home"></a><br><br></td>
+	      </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td class="brown"><img src="../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	  	  </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+	      </tr>
+	  	  <tr>
+		 	  	<td></td>
+<!-- 11/27/00 by CD: client does not yet have TrustE
+	  	<td CLASS="dyormaroonft" COLSPAN="3"><a NAME="Truste">TRUSTe</a></td>
+		  </tr>
+		  <tr>
+		 	  	<td></td>
+	    <td class="bgwhtbkfont" COLSPAN="3"><br>This confirms that Shane Co. is a licensee of the TRUSTe Privacy Program.  This privacy statement discloses the privacy practices for ShaneCo.com.
+		<br><br>
+		TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  By displaying the TRUSTe trustmark, this Web site has agreed to notify you of:
+		<ol>
+			<li>What personally identifiable information of yours or third party personally identification is collected from you through the web site
+			<li>The organization collecting the information
+			<li>How the information is used
+			<li>With whom the information may be shared
+			<li>What choices are available to you regarding collection, use and distribution of the information
+			<li>The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Shane Co.'s control
+			<li>How you can correct any inaccuracies in the information.
+		</ol>
+If you feel that this company is not abiding by its posted privacy policy, you should first contact the eStore Manager at <a HREF="mailto:eStoreManager@ShaneCo.com" CLASS="jblinks">eStoreManager@ShaneCo.com</a>.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org.  TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+			</td>
+		  </tr>
+	  	  <tr>
+	  		<td></td>
+	  		<td ALIGN="right"><br><br><a HREF="#top"><img SRC="../images/button_back_to_top.gif" WIDTH="68" HEIGHT="13" BORDER="0" ALT="back to top"></a>
+	  		<a HREF="policy_home.asp"><img SRC="../images/button_back_to_policies.gif" WIDTH="100" HEIGHT="13" BORDER="0" ALT="Back to Policy Home"></a><br></td>
+	      </tr>
+	      <tr>
+	    	<td></td>
+	    	<td><br></td>
+-->	    	
+	      </tr>
+  	</tbody></table>
+  	</center></td>
+</tr>
+</tbody></table>
+  	</td>
+</tr>
+</tbody></table>
+<!--************************** BEGIN FOOTER ********************************-->
+
+
+<!-- //BEGIN FOOTER// -->
+<table border="0" cellpadding="0" cellspacing="0" width="771">
+	<tbody><tr>
+		<td><img src="http://shaneco.speedera.net/www.shaneco.com/images/spacer.gif" width="771" height="2"></td>
+	</tr>
+	<tr>
+		<td class="guarantee" align="center" valign="center">Thirty day money back guarantee online or in a store near you.  <a class="guarantee" href="http://www.shaneco.com/service/our_guarantee.asp">Learn More &gt; &gt; &gt;</a></td>
+	</tr>
+	<tr>
+		<td><img src="/images/spacer.gif" width="771" height="2"></td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="771">
+				<tbody><tr>
+					<td align="left"><a href="/order/orderhistory.asp" target="new"><img src="/images/HP-track-order-button.gif" width="106" height="29" border="0" alt="Track Your Order"></a></td>
+					<td><img src="/images/spacer.gif" width="43" height="2"></td>
+					<td align="center" nowrap="" class="smaller">Copyright © 2000-2002 Shane Co.  All Rights Reserved. <a href="/service/privacy.asp">Privacy</a></td>
+
+					<td align="right"><a href="https://digitalid.verisign.com/as2/e5faa3c3aac359a04ade47ed1aa04c49" target="new"><img src="/images/Verisign_small.gif" width="79" height="29" border="0" alt="VeriSign Secure Site Program"></a></td>
+					<td align="right"><a href="http://www.bbbonline.org/cks.asp?id=10102018274114558" target="new"><img src="/images/BBB_small.gif" width="79" height="29" border="0" alt="Better Business Bureau Reliability Program"></a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+</tbody></table>
+<span class="smallest_gray">Online Customer Service is open Monday through Friday from 7AM to 10PM, and Saturdays from 8AM to 5PM (Mountain Time).</span>
+</center>
+
+<font face="verdana" size="1" color="#f0f0f0">3<br><a href="/images/saver/saver.htm">&nbsp;</a></font>
+<center>
+<!-- //END FOOTER// -->
+<!--************************** END FOOTER ********************************-->
+</center>
+
+
+      <div id="HM_Menu1" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 146px; border-width: 2px; border-color: rgb(196, 183, 150); border-style: solid; overflow: hidden; cursor: default; height: 208px;"><div id="HM_Item1_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 0px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Bridal Rings</div><div id="HM_Item1_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 19px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Fashion Rings</div><div id="HM_Item1_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 38px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Mens</div><div id="HM_Item1_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 57px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Earrings</div><div id="HM_Item1_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 76px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Pendants</div><div id="HM_Item1_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 95px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Necklaces</div><div id="HM_Item1_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 114px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Pearls</div><div id="HM_Item1_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 133px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Platinum</div><div id="HM_Item1_9" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 152px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Gold </div><div id="HM_Item1_10" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 171px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Bracelets</div><div id="HM_Item1_11" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; left: 0px; width: 127px; top: 190px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Graduation Day</div></div><div id="HM_Menu2" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 146px; border-width: 2px; border-color: rgb(196, 183, 150); border-style: solid; overflow: hidden; cursor: default; height: 170px;"><div id="HM_Item2_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 0px;">Gift Ideas</div><div id="HM_Item2_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 19px;">Suggestions For You</div><div id="HM_Item2_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 38px;">Gift Certificates</div><div id="HM_Item2_4" style="position: absolute; visibility: inherit; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 57px;"><img src="/Include/tri.gif" hspace="0" vspace="0" width="10" style="position: absolute; top: 5px; left: 133px;">Gift Registry</div><div id="HM_Item2_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 76px;">What's Hot</div><div id="HM_Item2_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 95px;">Graduation Day</div><div id="HM_Item2_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 114px;">Couture Collection</div><div id="HM_Item2_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 127px; top: 133px;">Shop With A Buddy</div><div id="HM_Item2_9" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px 16px 3px 3px; font: 8pt Verdana, Arial, sans-serif; left: 0px; width: 127px; top: 152px;">Personal Shopper</div></div><div id="HM_Menu3" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 146px; border-width: 2px; border-color: rgb(196, 183, 150); border-style: solid; overflow: hidden; cursor: default; height: 56px;"><div id="HM_Item3_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 140px; top: 0px;">Ring</div><div id="HM_Item3_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 140px; top: 19px;">Earring</div><div id="HM_Item3_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px; font: 8pt Verdana, Arial, sans-serif; left: 0px; width: 140px; top: 38px;">Diamond</div></div><div id="HM_Menu4" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 146px; border-width: 2px; border-color: rgb(196, 183, 150); border-style: solid; overflow: hidden; cursor: default; height: 56px;"><div id="HM_Item4_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 140px; top: 0px;">Edit Your List</div><div id="HM_Item4_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px; font: 8pt Verdana, Arial, sans-serif; border-bottom: 1px solid black; left: 0px; width: 140px; top: 19px;">Create a New List</div><div id="HM_Item4_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(237, 236, 216); color: rgb(0, 0, 0); padding: 3px; font: 8pt Verdana, Arial, sans-serif; left: 0px; width: 140px; top: 38px;">Find Someone's List</div></div></body></html>
