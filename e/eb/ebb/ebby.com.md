@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221154417id_/http%3A//www.ebby.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605165656id_/http%3A//ebby.com/privacy.shtml) for the most accurate reproduction.*
 
 # Ebby Halliday, REALTORS
 
@@ -92,5 +92,5 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 If you have questions about the privacy procedures employed at Ebby Halliday REALTORS, please contact [privacy@ebby.com](mailto:privacy@ebby.com) or call 214-303-1133. 
 
-Back to Top | [Home](https://web.archive.org/web/20011221154417id_/http%3A//www.ebby.com/index.shtml)  
+Back to Top | [Home](https://web.archive.org/web/20020605165656id_/http%3A//ebby.com/index.shtml)  
 
