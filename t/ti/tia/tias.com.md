@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204210631id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601103047id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
 
 # TIAS Privacy Statement
 
