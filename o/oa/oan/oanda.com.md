@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208181759id_/http%3A//www.oanda.com/site/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630190829id_/http%3A//www.oanda.com/site/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Information
 
@@ -43,6 +43,6 @@
 
 **Collection and Use** : OANDA will collect and use customer identifiable information for billing purposes, to provide and change service, to anticipate and resolve problems with your service, or to create and inform you of products and services that better meet your needs. This means that OANDA may use your customer identifiable information, in conjunction with information available from other sources, to market new services to you that we think will be of interest to you, but we will not disclose your customer identifiable information to third parties who want to market products to you. 
 
-**Banner Advertisements** : OANDA Web site uses a reputable third party to serve the advertisements that you see on the pages of the Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please [click here](http://www.sonar.com/content/privacy.htm).
+**Banner Advertisements** : OANDA Web site uses a reputable third party to serve the advertisements that you see on the pages of the Web site. 
 
 | 
