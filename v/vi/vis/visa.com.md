@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visa.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621205614id_/http%3A//visa.com/ut/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visa.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206002900id_/http%3A//www.visa.com/ut/faq/privacy.html) for the most accurate reproduction.*
 
 # Visa - Privacy Matters
 
@@ -69,7 +69,7 @@ Please remember that when you use a link to go from Visa.com to another Web site
 
 Please note the whenever you submit any information to us in connection with any service provided in connection with Visa.com, you consent to Visa's processing this information in the United States as necessary to provide the services in which you are participating. 
 
-Please also read over the Visa.com [Site Rules](https://web.archive.org/ut/legal/main.html). Visa takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. If you have any questions, comments, criticisms, or complaints about Visa.com's privacy policy and/or the way it affects you, please feel free to [email us](mailto:webbalto@visa.com). 
+Please also read over the Visa.com [Site Rules](https://web.archive.org/ut/legal/main.html). Visa takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. If you have any questions, comments, criticisms, or complaints about Visa.com's privacy policy and/or the way it affects you, please feel free to [email us](mailto:askvisa@visa.com). 
 
 [Home](https://web.archive.org/main.html) | [Products & Services](https://web.archive.org/pd/main.html) | [Offers & Promotions](https://web.archive.org/pr/main.ghtml) | [Consumer Tips](https://web.archive.org/ct/main.html) | [For Businesses](https://web.archive.org/fb/main.html) | [Sponsorships & Events](https://web.archive.org/ev/main.html) | [New Technologies](https://web.archive.org/nt/main.html) | [About Visa](https://web.archive.org/av/main.html)
 
