@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc7chicago.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217182621id_/http%3A//disney.go.com/corporate/legal/wdig_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc7chicago.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601150621id_/http%3A//disney.go.com/corporate/legal/wdig_privacy.html) for the most accurate reproduction.*
 
 # WDIG Privacy Policy
 
