@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the kaakateeya.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813115151id_/http%3A//www.kaakateeya.com/cfm/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaakateeya.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216181426id_/http%3A//www.kaakateeya.com/aboutUs.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
-# Kaakateeya.com - Largest Collection of Indian Matrimonials
+# Indian Marriages and Indian Matrimonials - Kaakateeya.Com
 
-  
 This confirms that kaakateeya.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
-1\. What personally identifiable information of yours or third party personally identifiable information that is collected  from you through the web site   
-2\. The organization collecting the information   
-3\. How the information is used   
+1\. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site.  
+2\. The organization collecting the information.  
+3\. How the information is used,   
 4\. With whom the information may be shared   
-5\. What choices are available to you regarding collection, use and distribution of the information   
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under kaakateeya.com control   
+5\. What choices are available to you regarding collection, use and distribution of the information.   
+6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under kaakateeya.com control.  
 7\. How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this statement, you should first contact (Krishna Yalamanchi,Customer Support) by email at krishna@kaakateeya.com.   
+If you have questions or concerns regarding this statement, you should first contact (Krishna Yalamanchi,Customer Support) by email at krishna@kaakateeya.com.  
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 By using our site, you consent to the collection and use of your information as described in this Privacy Policy. Any changes to our Privacy Policy will be reflected on this page so that you are always aware of the information we collect and how we use it. 
@@ -32,7 +31,9 @@ kaakateeya.com does not use any cookies.
 We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
 **Sharing**   
-We do not share your personal information with anybody. We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+We do not share your personal information with anybody. We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.   
+We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.   
+We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 
 **Links**   
 This web site contains links to other sites. Please be aware that we kaakateeya.com are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
@@ -44,14 +45,11 @@ If a user wishes to subscribe to our newsletter, we ask for contact information 
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
 **Tell-A-Friend**   
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. kaakateeya.com will automatically send the friend a one-time email inviting them to visit the site. kaakateeya.com stores this information for the sole purpose of sending this one-time email. The friend may contact kaakateeya.com at http://www.kaakateeya.com/cfm/mailing_list.cfm to request the removal of this information from their database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. kaakateeya.com will automatically send the friend a one-time email inviting them to visit the site. kaakateeya.com stores this information for the sole purpose of sending this one-time email. The friend may contact kaakateeya.com at [Mailing List](http://www.kaakateeya.com/aboutUs.cfm?fuseaction=mailingList) to request the removal of this information from their database. 
 
-**Security**
-
+**Security**   
   
-  
-Kaakateeya.com is a verisign secure site. Click the Image to verify. 
-
+Kaakateeya.com is a verisign secure site. Click the Image to verify.   
 This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.   
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. To learn more about SSL, follow this link [Verisign](http://www.verisign.com/)   
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.   
@@ -69,12 +67,14 @@ We send all new members a welcoming email to verify password and username. Estab
 **Site and Service Updates**   
 We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
 
-**Correction/Updating Personal Information:** If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support at info@kaakateeya.com. You can also use the [Modify](http://www.kaakateeya.com/cfm/modify_login.cfm) and [Delete](http://www.kaakateeya.com/cfm/delete_login.cfm) pages to modify or delete your information by logging in with your userid and password.   
+**Correction/Updating Personal Information:**   
+If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support at info@kaakateeya.com. You can also use the [Modify](http://www.kaakateeya.com/services.cfm) and [Delete](http://www.kaakateeya.com/services.cfm) pages to modify or delete your information by logging in with your userid and password.   
 However, even if you delete your personal information in our database, it maybe stored by our offices in India / USA for archival purposes. 
 
 **Choice/Opt-out**   
 Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists.   
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at info@kaakateeya.com You can also call us at (718) 781 6173 to be removed from the mailing list. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at info@kaakateeya.com .   
+Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
 **Email Links**   
 We use email links located on the "Contact us" page to allow you to contact us directly with any questions or comments you may have.   
@@ -103,11 +103,10 @@ kaakateeya.com may work with a third party to serve ads on our site. These ads m
 **Notification of Changes**   
 We will notify you directly via email if there is a material change in our privacy practices. We will also post the changes in our privacy statement 30 days prior to a change. 
 
-  
-Our address   
-Kaakateeya Matrimonial Wing   
+Our address  
+Kaakateeya Matrimonial Wing  
 118 Sanali Apts., Behind   
-Kamma Sangam, Ameerpet,   
+Kamma Sangam, Ameerpet,  
 Hyderabad - 500 079   
-AP India   
+AP India  
 http://www.kaakateeya.com 
