@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the amtamassage.org privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619235454id_/http%3A//www.amtamassage.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amtamassage.org privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207053242id_/http%3A//www.amtamassage.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
+[](https://digitalid.verisign.com/as2/bdc6581e25946a80e6a9b0c419071695)
+
+**[ ](http://www.webaward.org/winner.asp?eid=2246)**
+
 |  | Privacy Policy
 
-© Copyright 1997-1999 American Massage Therapy Association. All rights reserved.
+© American Massage Therapy Association. All rights reserved.
 
  Any and all personal information provided to AMTA through this site is provided on a voluntary basis. Unless expressly stated to the contrary, and in most instances, posting of such information constitutes approval to allow such information to be available to third parties. AMTA expressly reserves the right the contact any member or other visitor regarding account status, renewals, or other matters relevant to subscription or service.
 
