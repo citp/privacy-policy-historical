@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2003-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030425104448id_/http%3A//www.coolstuffinc.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217233912id_/http%3A//www.coolstuffinc.com/main_privacy.php) for the most accurate reproduction.*
 
-# Cool Stuff Inc.com
+# Cool Stuff Inc. - magic the gathering singles
 
-·
+|  ·
 
 **Information We Collect and How We Use It**  
 At the time the order is placed we collect enough information to allow us to process your order, and contact you if necessary.  All the information you provide is stored on our secure server.
@@ -57,4 +57,12 @@ We offer you the opportunity to opt-out of receiving communications from us at t
 
 2.       You can send mail to: CoolStuffInc.com, 4212 Cloverleaf Pl., Casselberry, FL 32707
 
-3.       You can call us at: 1-407-xxx-xxxx
+3.       You can call us at: 1-407-695-6554
+
+|   
+|  | [](https://web.archive.org/web/20031217233912id_/http%3A//www.coolstuffinc.com/main_aboutUs.php#cardGradingPolicy)|    
+---|---|---  
+  
+  
+         Top Ten List  
+
