@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phins.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217081446id_/http%3A//phins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phins.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034813id_/http%3A//phins.com/privacy.html) for the most accurate reproduction.*
 
 # Phins.com Privacy Statement
 
-  |     |     |  ** Last Update: 01/30/2020 17:55:46 **
+  |     |     |  ** Last Update: 01/30/2020 17:55:51 **
 
 * * *
 
