@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aramex.com privacy policy that was archived on 2000-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001119211500id_/http%3A//aramex.com/privacy_and_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramex.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202025708id_/http%3A//aramex.com/privacy_and_security.asp) for the most accurate reproduction.*
 
-# 
+# Privacy and Security
 
 ### Privacy Policy
 
@@ -24,7 +24,7 @@ When you place orders or access your account information, we offer the use of a 
 Aramex.com does not sell, trade, or rent your personal information to others. Aramex.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. Aramex.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of Aramex.com, our users, or others. 
 
 **How does Aramex.com allow customers to update or change the information it collects?**   
-You may update or change information related to your Aramex.com account by accessing [[Update account information](http://www.aramex.net/my/default.asp)]section of the Web site with your e-mail account and password. For other questions related to updating or changing your account information, please refer to [Customer Care](http://www.aramex.net/my/cc/default.asp).
+You may update or change information related to your Aramex.com account by accessing [[Update account information](http://www.aramex.net/default.asp)]section of the Web site with your e-mail account and password. For other questions related to updating or changing your account information, please refer to [Customer Care](http://www.aramex.net/cc/default.asp).
 
 **In summary**  
 We are committed to protecting your privacy. We use the information we collect on the site to make the use of our site easy and to enhance your overall shipping experience. We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending an e-mail message to [webmaster@Aramex.com](mailto:webmaster@Aramex.com). 
