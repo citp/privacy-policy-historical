@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626081514id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204181433id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.*
 
 # myDr Privacy Policy
 
 ## __myDr__ Privacy Policy
 
-__myDr__ and its publisher, MediMedia Australia, are committed to protecting your privacy. Please read the following Privacy Policy and click on the link at the end of this document to return to the website 
+__myDr__ and its publisher, CMPMedica Australia, are committed to protecting your privacy. Please read the following Privacy Policy and click on the link at the end of this document to return to the website 
 
 As a visitor to _myDr_ , you are interested in knowing more about your health or the health of someone close to you. We understand that your health is a very personal matter and that providing personal information is an act of trust. We recognise the importance of your privacy and respect your right to control how your personal information is collected and used. 
 
-_myDr_ is a project of MediMedia Australia. _myDr_ complies with the standards set by HealthInsite—a Federal Government accreditation initiative designed to provide Quality Assurance for health information on the Internet. _myDr_ is committed to complying with the National Privacy Principles in the Privacy Act 1988. 
+_myDr_ is a project of CMPMedica Australia. _myDr_ complies with the standards set by HealthInsite—a Federal Government accreditation initiative designed to provide Quality Assurance for health information on the Internet. _myDr_ is committed to complying with the National Privacy Principles in the Privacy Act 1988. 
 
 Please read this Privacy Policy carefully before you submit any information through __myDr__ as usage of this Web site is conditional on your agreeing to be bound by this policy. If you have any questions, or would like to provide feedback, please feel free to contact us on the number or address listed below. 
 
@@ -63,7 +63,7 @@ In the unlikely event that the assets and operations of the _myDr_ business is t
 If you have questions about our privacy policy and practices, or would like to provide feedback, please contact our privacy officer. 
 
 Email:  
-[admin@myDr.com.au](http://www.mydr.com.au/contact.asp)
+[admin@myDr.com.au](mailto:admin@myDr.com.au)
 
 Mail:  
 __myDr__  
