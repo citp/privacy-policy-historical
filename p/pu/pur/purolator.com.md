@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203134412id_/http%3A//www.purolator.com/about_online_ship/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607213040id_/http%3A//www.purolator.com/about_online_ship/privacy_policy.html) for the most accurate reproduction.*
 
 # Purolator Courier Ltd.
 
