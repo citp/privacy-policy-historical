@@ -1,0 +1,12 @@
+> *The following text is extracted and transformed from the memory4less.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603193058id_/http%3A//www.memory4less.com/security.asp) for the most accurate reproduction.*
+
+# Cpu, Memory PC133, Processors, Drives for Less
+
+We, at Memory4Less, recommend that you to use a security-enabled browser (such as Microsoft Internet Explorer version 2.1 or greater, or Netscape Navigator version 2.0 or greater), the information you send us regarding your purchase is encrypted, making it extremely difficult to read even if it is wrongly intercepted. You can tell that you are in a secure environment when the key at the bottom left of the page is complete. When the key is complete, the information is encrypted and cannot be accessed by anyone else. If your browser does not support secure transactions, any information that you send may be viewed by others.
+
+Memory4Less site utilizes industry-standard **Secure Sockets Layer** (SSL) technology to allow for the encryption of critically sensitive information like your credit card number. **We also won't allow products to be shipped to an address other than your billing address unless that shipping information is registered with your credit card company.** You can feel just as confident giving out credit card information on-line as you do on the phone, or anywhere else you use a credit card.
+
+We are very much aware of your concerns about the privacy of your information. Memory4Less has no desire or intent to infringe on your privacy while you are shopping at the Memory4Less site and we will never provide your personal information to anyone else. When you provide your personal information such as name, address, phone number, email address and company name, **we will not give or sell this information to any outside company for any use.** The information you provide will be kept confidential and will be used only to support your customer relationship with Memory4Less. Information regarding you or your order and the products you purchase will not be disclosed or sold to any outside organization.   
+
+
+We value your business at Memory4Less. To better support our relationship with you, we encourage you to subscribe to are email news and price updates. If you do chose to subscribe we may may occasionally send you email regarding memory news, pricing and services at Memory4Less. 
