@@ -1,129 +1,128 @@
-> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621154127id_/http%3A//www.llbean.com/customerService/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204003129id_/http%3A//www.llbean.com/customerService/privacy) for the most accurate reproduction.*
 
-# Your Privacy
+# L.L.Bean: Our Commitment to Privacy
 
-**Your Privacy  **   
-At L.L.Bean, we believe that understanding what our customers want for products, services and information is an important part of building an interesting and useful online environment. 
+Our Commitment to Privacy  
+We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on September 2, 2003, describes the information we collect and how we use it. 
 
-We've designed our site with this belief in mind, and we've created this privacy statement so that you have easy access to information about our privacy practices.
+We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
-  
-  
----  
-  
-    
-**About our privacy practices**     
-L.L.Bean has a strong tradition of providing quality goods and excellent customer service. At llbean.com, our goal is not only to carry on this tradition, but also to provide an experience that is unique to the dynamic capabilities of the World Wide Web. 
-
-Part of achieving this goal involves working with information that helps us understand what customers want when they visit llbean.com. We do this in two ways. First, we analyze customer information in aggregate – that is, we collect information about thousands of site visits and analyze it as a whole. This information, centered around how customers navigate through the site and place orders, is in the form of "clickstream data" and/or data gathered via pixel tags. In this kind of study, we look for trends among many visitors to llbean.com rather than analyze information about any individual customer.
-
-Second, we may use information gathered during your visit to help customize our communications with you. For instance, if you choose to view or buy a pair of hiking boots at llbean.com, we might offer you a link to related products the next time you visit us online, or we might send you our latest Outdoors catalog by mail. 
-
-In the end, we hope to tailor our communications with you to fit your needs – so that you receive more of what you want from us and less of what you don't want.
-
-The two following sections, Information you provide us and Cookies – what they are and how we use them, provide more details about information we gather at llbean.com.  
- return to top  
-
-    
-**Information you provide us**     
-In several areas of llbean.com, we ask you to provide information by filling out and submitting an online form. Following is a list of the information we request, arranged by site location, and details on how we use this information. 
-
-**• Checkout.** We ask for your name, address and contact information so we can send you your order, and so we can contact you if we have a question about your order. We ask for credit card information so we can fulfill your order, and so we can provide this information to the company or companies who process your credit card payment. We may share your name and address with other companies whose products we think you may be interested in. We do not share any other information with third parties, except in the case of contact or order information needed to fulfill your order. We do not share or sell email addresses.
-
-**• Catalog requests.** We ask for a name and address to complete your request. We may share your name and address with other companies whose products we think you may be interested in.
-
-**• My Account/Address Book.** When you create an account at llbean.com, we ask for your name, address, phone number, email address, credit card information (optional) and a user name and password. After setting up your account, you have the option of creating a personal Address Book to save shipping addresses. We use this information to fulfill your orders and to enable time-saving features like Express Checkout, and we may share your name and address with other companies whose products we think you may be interested in. If you send an L.L.Bean gift to someone in your Address Book, we may contact them by postal mail about our products and services, but we never share their name or address with other companies. We do not share or sell email addresses.
-
-**•  L.L.Bean Visa® online application.** We ask for name, address and financial information that MBNA, the issuer and administrator of the credit card program, needs to process your application. We make no use of this information except to provide it to MBNA.
-
-**• L.L.Bean Live Help SM and email to llbean.com.** We ask for your name and email address, and for information to help us answer your question. If you have provided your email address to us only via Live Help or by sending us an email message, we may follow up on your question via email, but we will not send you email for marketing purposes. We do not share questions or comments provided in Live Help with any other company, and we do not share or sell email addresses.
-
-**• The L.L.Bean Email Newsletter.** We ask you to provide a name, email address and profile information. We use this information only to fulfill your request and, in the case of profile information, to help make sure we're sending you the type of email updates and catalogs you want to receive. We do not share or sell email addresses.
-
-**• Gift Cards and Gift Messages.** These options allow you to send a personal greeting with your gift order. We make no use of the information contained in these greetings except to complete your order as you have requested.  
- return to top  
+L.L.Bean, Dept. CFM  
+Freeport, ME 04033  
+Phone from US: 800-559-0747, ext. 58138  
+Phone from outside US: (Access Code) \+ 207-552-3028  
+Fax: 207-552-3080  
+preferences@llbean.com  
 
 
-    
-**Cookies  – what they are and how we use them**  
-Cookies are small bits of text that your Web browser software stores on your computer when you visit some Web sites. L.L.Bean uses cookies to help make it easier for you to use our site and to help us customize your experience so that we can provide you with the information you need – when and where you need it. Name, address and other personal details are not stored within these cookies. The cookies simply hold the "key" that, once interpreted by our site, is associated with this information.
+**Information We Collect**  
+We request information from you (including name, address, telephone number, email address and, when necessary, credit card information) when you:
 
-Following are details on how we use cookies in specific areas of llbean.com.
+  * Place an order from our catalogs or on our Web site
+  * Make a purchase at one of our Retail Stores
+  * Return an item or make an exchange
+  * Request a catalog
+  * Receive a gift package
+  * Create an account at llbean.com
+  * Subscribe to our Email Newsletter
+  * Register for an Outdoor Discovery Schools program
+  * Enter a contest or sweepstakes
+  * Participate in a promotional event
 
-**• Personalizing your experience.** If you've created an account at llbean.com or ordered online from us before, a cookie allows us to provide you with information we think you may be interested in, based on items you've previously viewed on llbean.com or purchased from L.L.Bean.
 
-**• Site browsing and searches.** We use cookies to better understand which parts of our site are receiving traffic and which products are requested in site searches. This information assists us in our efforts to refine our site, as well as efforts to improve and customize the shopping experience for individual customers.
 
-**• Shopping and checkout.** We use a cookie to improve the ease of shopping at llbean.com and to better understand how customers use our site. The cookie is used to "remember" which items you've placed in your Shopping Bag as you move about the site. If you've logged in after creating an account at llbean.com, the cookie enables you to use your Address Book and Express Checkout. The cookie also helps us to understand how our customers navigate through and use llbean.com, enabling us to measure the site's ease of use and marketing effectiveness and to better target our communications to you.
+We maintain the data that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources whose policies meet the Direct Marketing Association's privacy standards.
 
-**• Promotions linking to llbean.com.** If you click on a link to llbean.com from an L.L.Bean Email Newsletter or a promotional link on another site, we use a cookie to help measure the success of that particular marketing effort. In this way we can better understand how to reach customers with the information they want about L.L.Bean.
-
-Because we rely on cookies to make the shopping experience easier and more tailored to your needs, your browser must be set to accept cookies before you can place an order at llbean.com. (More on [cookie settings](https://web.archive.org/customerService/shoppingFAQs/shopping/index.html#cookies).)  
+We also gather information about how visitors navigate through our Web site by using clickstream data gathered with "cookies" and/or other online tools such as "pixel tags." See "Cookies and Pixel Tags" for further information.  
  return to top
 
-    
-**Information we do not collect**     
-When you visit our site, we do not collect your name, email address or any other personal information unless you provide it to us.    
+**Using Information We Collect**  
+At L.L.Bean, we always want to provide you with the best possible shopping experience and fulfill your orders exactly as you've requested. In order to do this, we collect information that allows us to:
+
+  * Process and track your order
+  * Provide the services you request
+  * Contact you about the status of an order
+  * Send you catalogs or promotional offers we believe will be of interest to you
+  * Send you the L.L.Bean Email Newsletter, if requested
+  * Identify your product and service preferences
+  * Customize our communications to you
+  * Provide information concerning product recalls or products you have purchased
+  * Improve our merchandise selection and customer service
+
  return to top
 
-    
-**How we use email**     
-After you place an order on our site, you will receive an email confirmation and, in most cases, an email with package tracking information. Recipients of our Electronic Gift Certificate receive an email notifying them of the gift and giving them the information they need to redeem it.
+**Information We Share with Others**  
+We contract with other companies to provide certain services, including credit card processing, shipping, email distribution, market research and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than L.L.Bean.
 
-We send the L.L.Bean Email Newsletter, our email update on sales and products, to subscribers and occasionally to other customers who we think might be interested in receiving this information. Unsubscribe instructions are included in each edition of the email.
+From time to time, we make our mailing list (names and addresses only) and general shopping activity available to carefully screened companies whose products we believe will be of interest to you and whose privacy practices meet the Direct Marketing Association's privacy standards. If you prefer that we do not share any information with these companies, please [contact us](https://web.archive.org/customerService/contactUs/index.html).
 
-If you provide your email address only via Live Help or in email to llbean.com, we may send you email to follow up on your inquiry, but we will not use the address for marketing purposes. 
+If you apply for the L.L.Bean Visa card online, you provide the financial information needed to process your application directly to MBNA, the issuer and the administrator of the credit card program. MBNA is independent of L.L.Bean and has its own privacy and security policies. You can review their policies at www.mbna.com.
 
-We do not sell or share email addresses with other companies. 
-
-We _do_ use email as a means of receiving feedback from our customers, and we encourage you to [email us](https://web.archive.org/customerService/contactUs/contactUsEmail.html) with your questions or comments. We read every email we receive.  
- return to top 
-
-    
-**Links to other sites**  
-Occasionally we provide links to other sites we think you will enjoy. These sites operate independently of L.L.Bean and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit.   
+On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.  
  return to top
 
-  
-**About information we share with others**     
-If you provide us with your name and postal address, we may make it available to other companies who want to tell you about their products. (See below if you prefer that we not share this information.) We may segment the information into groups of customers who have bought similar amounts and types of products, but we never provide details that are specific to a single customer or household.  
- return to top 
+**Your Choices**  
+We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from L.L.Bean, or prefer to receive them less frequently, please contact us at the address shown below. If you no longer wish to receive our Email Newsletter you also may unsubscribe using the link provided in each edition of the email.
 
-    
-**Information we do not share with others**     
-L.L.Bean does not share, sell or trade email addresses, information collected as part of a survey, or specific details about you or your household. We do not contribute to or participate in shared or cooperative databases, which give other companies access to your personal information. We do not release credit card or financial information for use by other companies (except in the case of financial information included in the online L.L.Bean® VISA® application, which we provide to MBNA, the issuer and administrator of the program). For both privacy and security purposes, all transactional information communicated between customers and our Web site is transmitted in an encrypted format, and all credit card information is stored in a highly secure computing environment. (See [About Security](https://web.archive.org/customerService/security/index.html) for details.)  
- return to top  
+If you do not want to receive mailings from other carefully screened companies, please contact us at:
 
-    
-**How to limit catalogs, remove your name from our mailing list, etc.**     
-You may contact us by phone, email or postal mail to:   
-| •  | Eliminate duplicate catalogs  
----|---|---  
-  
-| •  | Limit the L.L.Bean catalogs you receive  
-  | •  | Remove your name from our catalog mailing list  
-  | •  | Remove your name from lists we rent to other direct mail companies  
-  | •  | 
+L.L.Bean, Dept. CFM  
+Freeport, ME 04033  
+800-559-0747, ext. 38138  
+[preferences@llbean.com](mailto:preferences@llbean.com)
 
-Update the name and address information we use when we mail you catalogs. (If you're moving, please indicate when your new address will be in effect)  
-  
-Contact us by phone at 1-800-559-0747 ext. 38138, email us at [preferences@llbean.com](mailto:preferences@llbean.com) or write to the following address. Please include a note of instruction and, if mailing your request, the catalog label showing your mailing address.
-
-> L.L.Bean, Inc.   
->  Dept. CFM  
->  Freeport, ME 04033-0001   
->  USA 
-
-return to top
-
-    
-**Updates to our information practices**  
-We're always looking for ways to improve our site's features and services – and to improve the way we communicate our information practices. As a result, this statement is updated from time to time. We encourage you to periodically review this page for the latest information on privacy practices at llbean.com.   
+Please be sure to provide us your exact name and address, or the mailing label from your catalog, so that we can be sure to identify you correctly. Because we plan our mailings in advance, it may take several weeks for your request to become effective. If, due to human error, you continue to receive our communications, please contact us again and we will make every effort to correct the situation.  
  return to top
 
-**  
-Questions or comments? Please contact us**  
-For questions, comments or assistance with any privacy-related issues, we invite you to [contact us](https://web.archive.org/customerService/contactUs/index.html). We're always happy to help. 
+**Cookies and Pixel Tags**  
+A cookie is a small data file that is stored by your Web browser on your computer. Cookies enable you to place an order on our Web site. They also allow us to enhance and personalize your online shopping experience, so that the information you receive is more relevant to you.
 
-We hope to answer any questions to your satisfaction, but should you ever – after contacting us – want to contact a third party regarding our privacy practices, you may email the Direct Marketing Association's Committee on Ethical Business Practices at [privacypromise@the-dma.org](mailto:privacypromise@the-dma.org). L.L.Bean is proud to be a member of the DMA, the oldest and largest association for consumers and companies with interests in direct marketing.   
+For example, we use cookies to:
+
+  * Remember what items are in your Shopping Bag
+  * Recognize you when you return to our Web site
+  * Enable you to use Express Checkout, if you have created an account at llbean.com
+  * Study how our customers navigate through our Web site and which products they request in site searches
+
+
+
+If you set your browser to refuse cookies, please call us at 800-221-4221 to place your order.
+
+We also use pixel tags – tiny graphic images – to tell us what parts of our Web site you have visited or to measure the effectiveness on any searches you may do on our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us.
+
+We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than L.L.Bean.  
+ return to top
+
+**How We Use Email**  
+When you provide us your email address, we may send you emails necessary to process your order or respond to a request. For example, after you place an order at llbean.com, you will receive an email confirmation and, in most cases, an email with package tracking information. Recipients of our Electronic Gift Certificates will receive an email notifying them of the gift and instructing them how to redeem it.
+
+It is our intent to send you promotional email (our Email Newsletter) only if you have agreed to receive it. Instructions on how to unsubscribe are included in each edition of the newsletter.  
+ return to top
+
+**Links to Other Sites**  
+Occasionally we provide links on our Web site to other sites we think you will enjoy. These sites operate independently of L.L.Bean and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit.  
+ return to top
+
+**Updating or Reviewing Your Information**  
+To update your customer information (name, address, telephone number and email address), please contact us at the address shown above. A limited amount of purchase information also may be available to you. To protect your privacy, we will need to validate your identity before you update or review your information.  
+ return to top
+
+**Security**  
+It is our intent to protect against the loss, misuse or alteration of information that we have collected from you. We use a variety of current technologies and processes for protection of our customer data. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities.
+
+When you make a purchase, request a catalog or create an account on our Web site, your transactional information is transmitted in a safe, encrypted format. See [About Security](https://web.archive.org/customerService/security/index.html) for details.  
+ return to top
+
+**Privacy of Children on Our Web Site**  
+Our Web site is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.  
+ return to top
+
+**Policy Changes**  
+From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our Web site. We encourage you to review our privacy policy periodically.  
+ return to top
+
+**Questions or Comments?**  
+For questions, comments or assistance, we invite you to [contact us](http://www.llbean.com/customerService/contactUs/index.html).
+
+We hope to answer any questions to your satisfaction, but should you ever want to contact a third party regarding our privacy practices, you can email the Direct Marketing Association's Committee on Ethical Business Practices at [privacypromise@the-dma.org](mailto:privacypromise@the-dma.org). The DMA is the oldest and largest association for consumers and companies with interest in direct marketing.  
  return to top
