@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfopera.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621090247id_/http%3A//www.sfopera.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfopera.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203220333id_/http%3A//www.sfopera.com/privacy.asp) for the most accurate reproduction.*
 
 # San Francisco Opera :: Privacy
 
@@ -13,4 +13,5 @@ San Francisco Opera Association has created this privacy statement in order to d
 
  **Contacting the Website:** If you have any questions about this privacy statement, the practices of this site or your dealings with this Website, you can contact: [webmaster@sfopera.com](mailto:webmaster@sfopera.com)
 
-[Printable version of this page](https://web.archive.org/web/20030621090247id_/http%3A//www.sfopera.com/privacy.asp?print=1)   
+[Printable version of this page](https://web.archive.org/web/20031203220333id_/http%3A//www.sfopera.com/privacy.asp?print=1)     
+
