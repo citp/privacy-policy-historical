@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409031050id_/http%3A//www.awm.gov.au/website/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212200233id_/http%3A//www.awm.gov.au/website/privacy.htm) for the most accurate reproduction.*
 
 # Australian War Memorial
+
+[](https://web.archive.org/aboutus/index.htm)  
+[](https://web.archive.org/commemoration/index.htm)  
+[](https://web.archive.org/atwar/index.htm)  
+[](https://web.archive.org/research/index.htm)  
+[](https://web.archive.org/database/biographical.asp)  
+[](https://web.archive.org/database/collection.asp)  
+[](https://web.archive.org/education/index.htm)  
+[](https://web.archive.org/events/index.htm)  
+[](https://web.archive.org/services/index.htm)  
+[](https://web.archive.org/corporate/index.htm)  
+[](https://web.archive.org/foundation/default.htm)  
+[](https://web.archive.org/shop/index.asp)
+
+| 
 
 In accordance with the [Guidelines for Federal and ACT Government World Wide Websites](http://www.privacy.gov.au/issues/p7_2.html) issued by the Australian Privacy Commissioner, the Australian War Memorial provides the following privacy statements.
 
@@ -24,7 +39,7 @@ No attempt will be made to identify users or their browsing activities except, i
 
 'Cookies' are small amounts of information that are created and stored on the user's system, and used by the Web host server for a variety of possible purposes. 
 
-The Australian War Memorial's Collection Databases use 'cookies' in order to retain search parameters and results during an enquiry session. You will need to [set your browser to accept 'cookies'](https://web.archive.org/web/20020409031050id_/http%3A//www.awm.gov.au/database/cookies.htm) in order to undertake searches and display results within the Memorial's Databases. If your browser supports such an option, you may also use the setting to 'warn before accepting cookies' or 'prompt'. Our Databases will function normally in either 'accept' or 'prompt' modes. 
+The Australian War Memorial's Collection Databases use 'cookies' in order to retain search parameters and results during an enquiry session. You will need to [set your browser to accept 'cookies'](https://web.archive.org/database/cookies.htm) in order to undertake searches and display results within the Memorial's Databases. If your browser supports such an option, you may also use the setting to 'warn before accepting cookies' or 'prompt'. Our Databases will function normally in either 'accept' or 'prompt' modes. 
 
 Information passed between the client and server via these cookies is not retained by the host software in any fashion once the search session is terminated. The only information gathered from the client is that amount necessary to identify that particular session and keep it distinct from the other search sessions that may be happening at any one time.
 
@@ -32,9 +47,9 @@ Cookie information is not retained or forwarded to any other body or organistion
 
 For more information about the Australian War Memorial's use of cookies in its databases, send an email to [webmaster@awm.gov.au](mailto:webmaster@awm.gov.au)
 
-### Email management - collection of personal information
+### Collection of personal information - Email, phone, address details
 
-We will only record your e-mail address if you send us a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. We will not use your e-mail address for any other purpose, and will not disclose it, without your consent.
+Your email, phone and address details will only be used for the purpose for which they have been provided. We will not use your personal details for any other purpose, and will not disclose it, without your consent.
 
 ### Security
 
