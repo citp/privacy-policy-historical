@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinvest.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409005518id_/http%3A//divinvest.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinvest.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408095643id_/http%3A//divinvest.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Diversified Investment Advisors - Investments
 
@@ -38,5 +38,4 @@ Diversified reserves the right to modify or supplement the Internet Privacy Poli
 
 **Contact Us  **
 
-If you have any questions about the Internet Privacy Policy, please  
-[ **contact us**](http://test.divinvest.com/contact.asp). 
+If you have any questions about the Internet Privacy Policy, please [**contact us**](https://www.divinvest.com/contact.asp). 
