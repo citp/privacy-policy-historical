@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hartford.edu privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604043511id_/http%3A//www.hartford.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartford.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204222354id_/http%3A//www2.hartford.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This site is owned and operated by the University of Hartford. Your privacy on t
 
 Because we gather certain types of information about our visitors, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-Under no circumstances does the University of Hartford divulge any information about an individual user to a third party.
+Under no circumstances does the University of Hartford divulge any information about an individual user to a third party except to comply with applicable law or valid legal process or to protect the personal safety of our visitors or the public.
 
 
 
@@ -41,7 +41,7 @@ Our site visitors can choose to electronically forward a link, page, or document
 
 We may offer interactive polls to visitors so they can easily share their opinions with other visitors and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. The University of Hartford may use a system to "tag" visitors after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual visitors.
 
-5\. Surveys
+4\. Surveys
 
 The University of Hartford may occasionally conduct user surveys to better target web content to our audience. We never share any of this information about specific individuals with any third party.
 
