@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookresources.com privacy policy that was archived on 2000-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001022111728id_/http%3A//comicbookresources.com/r.cgi/pri) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookresources.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604151538id_/http%3A//comicbookresources.com/r.cgi/pri) for the most accurate reproduction.*
 
 # Comic Book Resources: Privacy Policy
 
@@ -49,7 +49,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. You can send email to [support@comicbookresources.com](mailto:support@comicbookresources.com)
-  2. You can visit the following URL: <http://www.comicbookresources.com/register/>
+  2. You can visit the following URL: [http://www.comicbookresources.com/cgi-bin/register.cgi](http://www.comicbookresources.com/r.cgi/register)
   3. You can send mail to the following postal address:  10153 1/2 Riverside Dr., #604, Toluca Lake, CA 91602 
   4. You can call the following telephone number: 818-985-6688 
 
@@ -58,7 +58,7 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. E-mail [support@comicbookresources.com](mailto:support@comicbookresources.com)
-  2. Visit <http://www.comicbookresources.com/register/>
+  2. Visit [http://www.comicbookresources.com/cgi-bin/register.cgi](http://www.comicbookresources.com/r.cgi/register)
   3. Send mail to the following postal address:  10153 1/2 Riverside Dr., #604, Toluca Lake, CA 91602 
   4. Call the following telephone number: 818-985-6688
 
