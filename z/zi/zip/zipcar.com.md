@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zipcar.com privacy policy that was archived on 2002-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020208125620id_/http%3A//www.zipcar.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcar.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208212317id_/http%3A//www.zipcar.com/privacy) for the most accurate reproduction.*
 
-# Zipcar - privacy policy
-
-**zipcar privacy policy**
+# Zipcar - Privacy Policy
 
 Here at Zipcar we respect your privacy! Any information collected at this site will be treated with the utmost care. The following outlines our policy concerning the use and disclosure of information about our members and web site users. 
 
@@ -18,8 +16,8 @@ If you request information from us, including notification of new Zipcar locatio
 **Membership Applications**  
 If you apply for Zipcar membership, some of the information you supply must necessarily be shared with our insurance company. The relevant policy is described in the Terms and Conditions section on the application. We do not share your information beyond what is necessary to approve your application. 
 
-**Resale of Mailing Lists**  
-Zipcar does not sell, lease, rent, loan, or trade lists of physical or email addresses. 
+**Resale of Mailing and Phone Number Lists**  
+Zipcar does not sell, lease, rent, loan, or trade lists of physical or email addresses or phone numbers. 
 
 **Web Site Statistics**
 
