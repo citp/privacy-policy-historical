@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchsystems.net privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214000104id_/http%3A//www.searchsystems.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsystems.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603012326id_/http%3A//www.searchsystems.net/privacy.php) for the most accurate reproduction.*
 
-# Search Systems - Largest Free Public Records Database Collection
+# Search Systems - Free Public Records Directory - Privacy Policy
 
 Introduction 
 
