@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vch.ca privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211141740id_/http%3A//www.vch.ca/footer/terms_of_use.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vch.ca privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207001142id_/http%3A//www.vch.ca/footer/terms_of_use.htm) for the most accurate reproduction.*
 
 # Vancouver Coastal Health - Terms Of Use
 
@@ -114,7 +114,7 @@ Contact the Privacy and Security Office | **Top**
   
 * * *  
   
-VCH welcomes your comments and questions about our Privacy Statement and Terms of Use. Please contact the Information Privacy and Security Office at Vancouver Coastal Health at (604) 875-4437 or e-mail: [privacy@vcha.ca ](mailto:privacy@vcha.ca)
+VCH welcomes your comments and questions about our Privacy Statement and Terms of Use. Please contact the Information Privacy and Security Office at Vancouver Coastal Health at (604) 875-5568 or e-mail: [privacy@vcha.ca ](mailto:privacy@vcha.ca)
 
 For inquiries unrelated to the privacy office, please contact [feedback@vch.ca](mailto:feedback@vch.ca)  
   
