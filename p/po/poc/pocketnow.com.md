@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketnow.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210030108id_/http%3A//www.pocketnow.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketnow.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407085244id_/http%3A//www.pocketnow.com/privacy.htm) for the most accurate reproduction.*
 
 # pocketnow.com - About Us
 
