@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605105658id_/http%3A//www.cooksrecipes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113815id_/http%3A//www.cooksrecipes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for CooksRecipes.com
 
@@ -21,14 +21,14 @@ We use MaxOnline and other third-party advertising companies to serve ads when y
 
 [http://www.maxonline.com/privacy_policy/index.php](http://www.maxonline.com/privacy_policy/index.php)
 
-T **hird Party Cookies**  
+**Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 For further information, please consult the privacy policies of:
 
     **[AAA Fruit Baskets](http://www.qksrv.net/click-500065-52476)**
     **[Adagio Tea](http://www.qksrv.net/click-500065-241010)**
-    **[CatalogCity.com](http://www.qksrv.net/click-500065-1035054)**
+    **[CoffeeForLess.com](http://www.dpbolvw.net/aq115r09608OUPPPVUOQPSUYYQV)**
     [**Commission Junction**](http://www.cj.com/)
     **[eHarlequin.com](http://www.qksrv.net/click-500065-534091)**
     **[Fastclick.com](http://www.fastclick.com/re.f?7609) **
@@ -37,10 +37,10 @@ For further information, please consult the privacy policies of:
     **[GoCollect.com](http://www.qksrv.net/click-500065-487880)**
     **[JustFlowers.com](http://www.qksrv.net/click-500065-3885639)**
     **[Kitchen Collection, Inc.](http://www.qksrv.net/click-500065-9940142)**
-    [**KitchenEtc.com**](http://www.kitchenetc.com/)
     [**MaxOnline.com**](http://www.maxonline.com/)
     [**Nestlé USA Meals.com**](http://www.meals.com/)
     [****](http://www.meals.com/)**[Pfaltzgraff](http://www.qksrv.net/click-500065-10297223)**
+    [****](http://www.meals.com/)**[The Home Marketplace](http://www.qksrv.net/click-500065-8234096)**
     **[WALTER DRAKE®](http://www.qksrv.net/click-500065-4177592)**
     **[zChocolat.com](http://www.qksrv.net/click-500065-10020803)**
 
@@ -52,4 +52,4 @@ Regarding Outside Links: This website contains links to other websites. Please b
 
 If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-[Contact CooksRecipes.com](https://web.archive.org/web/20040605105658id_/http%3A//www.cooksrecipes.com/contact.htm)
+[Contact CooksRecipes.com](https://web.archive.org/web/20041204113815id_/http%3A//www.cooksrecipes.com/contact.htm)
