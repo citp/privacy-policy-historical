@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402164510id_/http%3A//www.xxlmag.com/reg_htmls/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211093311id_/http%3A//www.xxlmag.com/reg_htmls/privacy-policy.html) for the most accurate reproduction.*
 
 # XXL | Terms of Use
-
-  
-[](https://secure.harris-pub.com/xxlmag.com/subscribe/)
-
-* * *
 
 Harris Publications Inc. ("Harris") believes that you should control the dissemination of the personally identifiable information that you provide when using the XXLmag.com web site ("the Site"). Please review this policy carefully to understand how we will treat the personally identifiable information that you give to us. 
 
