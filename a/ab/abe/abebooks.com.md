@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abebooks.com privacy policy that was archived on 2000-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000510222658id_/http%3A//dogbert.abebooks.com/abe/TextToHtml%3Ft%3DPrivacy%2BSecurity%26h%3Dx%26f%3DprivAndSec.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abebooks.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213211700id_/http%3A//dogbert.abebooks.com/abe/TextToHtml%3Ft%3DPrivacy%2BSecurity%26h%3Dx%26f%3DprivAndSec.htm) for the most accurate reproduction.*
 
 # Privacy Security
 
