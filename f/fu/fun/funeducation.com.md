@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201225400id_/http%3A//www.funeducation.com/main/about_us/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613152613id_/http%3A//www.funeducation.com/main/about_us/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement - FunEducation.com
 
