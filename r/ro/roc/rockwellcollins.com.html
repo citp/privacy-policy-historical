@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rockwellcollins.com privacy policy that was archived on 2002-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021210104451id_/http%3A//www.rockwellcollins.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockwellcollins.com privacy policy that was archived on 2003-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604023249id_/http%3A//www.rockwellcollins.com/privacy) for the most accurate reproduction.-->
 
 <html><head><script language="javascript">
 <!--
@@ -118,6 +118,88 @@ function displayprintableviewlink (){
 </script>
 <script language="JavaScript">
 <!--
+// Create and display javascript menus.
+//
+// - This file must be included somewhere on the page.
+// - The submenu functions expect "page=x" to be in the URL where x is the number of the page.  if not found or
+//   x = "" then page=1 is assumed.
+// - Must define pages[] array containing the links to be included in the menu.
+// - Must call the submenu_putmenu(pages) function to display the menu
+// - A marker is displayed to the left of the menu item corresonding to the page in the URL
+//
+// ie) The following Javascript would be placed in an html page to define and display a submenu
+//     in a page
+//
+//   <scrpt language = "JavaScript">
+//   <!--
+//   
+//   // Define the menu - up to 9 pages
+//   var pages = new Array();
+//   pages[0] = '<a href="index.asp?sp=is-pl21&page=1">Airspace Savvy. Wall Street Smart.</a>';
+//   pages[1] = '<a href="index.asp?sp=is-pl21&page=2">Keeping Pilots In Touch In Every Phase Of Flight.</a>';
+//   pages[2] = '<a href="index.asp?sp=is-pl21&page=3">Applying Tomorrow\'s Technology To Today\'s Aircraft.</a>';
+//   pages[3] = '<a href="index.asp?sp=is-pl21&page=4">Transitioning To Tomorrow.</a>';
+//   pages[4] = '<a href="index.asp?sp=is-pl21&page=5">Uncommon Value. Unmatched Performance.</a>';
+//   
+//   submenu_putmenu(pages);
+//   
+//   //-->
+//   </scrpt>
+//   
+//  example url:  http://wwwdev.rockwellcollins.com/brs/productmenu/systems/index.asp?sp=is-pl21&page=4   
+//
+
+function submenu_getpagenum()
+{
+  var loc = location.href;
+  var p;
+  loc = new String(loc);
+  var q = loc.indexOf("page=");
+  if(q != -1)
+  {
+    p = loc.substring(eval(q+5), eval(q+6));
+    if (p == '') p = 1;
+  }
+  else
+  {
+    p = '1';
+  }
+  p = p - 1;
+  if (p < 0) p = 1;
+  return parseInt(p);
+}
+
+function submenu_pagemarker(pagenum,menupagenum)
+{
+  if(pagenum == menupagenum) 
+  {
+    return '<img src="/includes/images/tri_right.gif" border="0">'
+  }
+  else
+  {
+    return '&nbsp;'
+  }
+}
+
+
+function submenu_putmenu(menuitems)
+{
+  var thispage;
+  thispage = submenu_getpagenum();
+  document.writeln ('<table cellspacing=0>');
+  for (var i = 0; i < pages.length; i++)
+  {
+    if (pages[i] == '') break;
+    document.writeln ('<tr><td>' + submenu_pagemarker(thispage,i) + '</td><td><font size=2 face=arial>' + menuitems[i] + '</font></td></tr>');
+  }
+  document.writeln ('</table>');
+}
+
+//-->
+</script>
+
+<script language="JavaScript">
+<!--
 function openBrWindow(theURL) { //v2.0
   window.open(theURL,'','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes');
 }
@@ -150,9 +232,10 @@ function openBrWindow(theURL) { //v2.0
 <tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/"><font id="navitem"><font color="#606060"><i><b><font id="navitem"><font color="#606060">Rockwell Collins Home</font></font></b></i></font></font></a></font></td></tr>
 <tr><td valign="middle"><center>&nbsp;<img src="/images/line.gif" width="180" height="2" border="0">&nbsp;</center></td></tr>
 <tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/about"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">About Us</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/products/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Products and Services</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/products/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Products and Systems</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/service"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Service and Support</font></font></b></font></font></a></font></td></tr>
 <tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/comsys/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Commercial Systems</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/govsys/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Government Systems</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/gs/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Government Systems</font></font></b></font></font></a></font></td></tr>
 <tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/international"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Worldwide</font></font></b></font></font></a></font></td></tr>
 <tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/scm/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Suppliers</font></font></b></font></font></a></font></td></tr>
 <tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/newsroom/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Newsroom</font></font></b></font></font></a></font></td></tr>
@@ -185,7 +268,7 @@ function openBrWindow(theURL) { //v2.0
 					</tr>
 					<!-- Identity Bar  -->
 					<tr> 
-						<td colspan="4" valign="middle" height="15px" bgcolor="#999999" align="LEFT"><img src="/images/shim.gif" height="15px" width="25px" alt="shim.gif"><font face="times" size="4" color="#000000">R O C K W E L L &nbsp;&nbsp;&nbsp;C O L L I N S </font></td>
+						<td colspan="4" valign="middle" height="10" bgcolor="#999999" align="LEFT"><img src="/images/shim.gif" height="10" width="25" alt="shim.gif"><font face="times" size="2" color="#000000"><b>R O C K W E L L &nbsp;&nbsp;&nbsp;C O L L I N S </b></font></td>
 					</tr>
 				</tbody></table>
 			</td>	
@@ -207,15 +290,18 @@ function openBrWindow(theURL) { //v2.0
 
 
 <table width="485" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td width="100%" height="25px"><img border="0" src="/images/shim.gif" width="1" height="1" alt="shim.gif"></td></tr>
-	<tr><td><font face="Arial"><table align="right" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td width="100%" height="20"><img border="0" src="/images/shim.gif" width="1" height="1" alt="shim.gif"></td></tr>
+	<tr><td><font face="Arial" size="2">
+		<table align="right" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td rowspan="3" width="14"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+			    <td rowspan="3" width="1" bgcolor="#CC0033"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+				<td rowspan="3" width="15"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+			    <td height="10"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+			</tr>
+			<tr>
+				<td><table border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td rowspan="5" width="14"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-    <td rowspan="5" width="1" bgcolor="#CC0033"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-    <td rowspan="5" width="15"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-    <td height="10"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-  </tr>
-  <tr>
     <td height="20"><font face="arial" size="1"><a href="/terms">Terms of Access</a></font></td>
   </tr>
   <tr>
@@ -224,16 +310,17 @@ function openBrWindow(theURL) { //v2.0
   <tr>
     <td height="20"><font face="arial" size="1"><a href="/cookie">Cookie Statement</a></font></td>
   </tr>
-  <tr>
-    <td colspan="4" height="20"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-  </tr>
-  <tr>
-    <td height="20"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-  </tr>
 </tbody></table>
-
-
-
+</td>
+			</tr>
+			<tr>
+				<td height="20"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+			</tr>
+			<tr>
+				<td colspan="4" height="20"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+			</tr>
+		</tbody></table>
+		
 <p><font face="Arial, Helvetica, sans-serif" size="2"><b>PRIVACY </b></font></p>
 <p><font face="Arial, Helvetica, sans-serif" size="2">This privacy statement explains 
   our policy regarding any personal information you may supply to us when visiting 
@@ -294,7 +381,7 @@ function openBrWindow(theURL) { //v2.0
 								<tr>
 									<td>
 										<center><font face="arial,helvetica" size="1">
-								  		<b>Copyright © 2002 Rockwell Collins, Inc. All rights reserved.</b>
+								  		<b>Copyright © Rockwell Collins, Inc. All rights reserved.</b>
 								  		</font>
 								  		</center>
 									</td>
