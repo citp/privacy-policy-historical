@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603235914id_/http%3A//www.apartments.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205153830id_/http%3A//www.apartments.com/privacy.htm) for the most accurate reproduction.*
 
 # Apartments.com Privacy Policy
 
