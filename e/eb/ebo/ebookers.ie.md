@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618063253id_/http%3A//www.ebookers.ie/helpandinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207045052id_/http%3A//ebookers.ie/helpandinfo/privacy.html) for the most accurate reproduction.*
 
 # ebookers.ie -- Privacy Statement
 
