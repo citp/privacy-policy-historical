@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpb.org privacy policy that was archived on 2004-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040215040605id_/http%3A//www.gpb.org/gpb/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpb.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207002117id_/http%3A//www.gpb.org/gpb/about/privacy) for the most accurate reproduction.*
 
 # Georgia Public Broadcasting - Privacy Policy
 
@@ -26,7 +26,12 @@ If you have any questions about this privacy statement, the practices of this si
   
 
 
-[](https://web.archive.org/gpb/parents/)
+[](https://secure.ga3.org/03/05annualfund)
+
+  
+
+
+[](http://168.28.132.100/FOX/)
 
   
 
@@ -36,7 +41,7 @@ If you have any questions about this privacy statement, the practices of this si
   
 
 
-[](http://www.gpb.org/gpb/membership/drives/2004/tv_january.htm)
+[](http://168.28.132.100/SOTA/)
 
   
   
@@ -46,9 +51,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 [](http://www.forpublicradio.com/cgi-bin/station.cgi?GPR=AUTO)
 
-[](http://www.pb1.org/books/)
-
-[](http://www.pb1.org/music/)
+[](http://www.pb1.org/)
 
 [](http://www.amazon.com/exec/obidos/redirect-home/video06)
 
