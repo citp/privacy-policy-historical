@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bug.co.uk privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602173907id_/http%3A//www.bug.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bug.co.uk privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220020501id_/http%3A//www.bug.co.uk/privacy.html) for the most accurate reproduction.*
 
 # BUG Privacy Policy
 
@@ -37,19 +37,12 @@ If you wish you may post hostel reviews with your own name and email address whi
 
 ### **T-shirt Promotion**
 
-BUG is running a promotion where we send a free t-shirt to users who post 20 messages to the forums or 20 hostel reviews. We will collect an address which is used to post the t-shirt. We do not keep this address and will not use the address for any other purpose.
+BUG is running a promotion where we send a free t-shirt to users who post 20 messages to the forums or 20 hostel reviews. We will collect an address which is used to post the   
+t-shirt. We do not keep this address and will not use the address for any other purpose.
 
 ### **Hostel Bookings**
 
 Hostel bookings on BUG websites are processed by HostelWorld. Refer to [HostelWorld's privacy policy](http://217.114.161.100/privacy.php) for more information.
-
-### **Advertisers**
-
-We may use third-party advertising companies to place ads when you visit our website. These companies may use aggregated statistics about your visits to this and other websites in order to provide advertisements better tailored to your requirements.
-For further information, consult the privacy policies of:  
-[Burst! Media](http://www.burstmedia.com/)  
-[  
-](http://www.burstmedia.com/release/privacy.asp)
 
 ### **Affiliates**
 
