@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calcoastcu.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607073037id_/http%3A//www.calcoastcu.org/infodesk/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcoastcu.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204174259id_/http%3A//www.calcoastcu.org/infodesk/policy.html) for the most accurate reproduction.*
 
 # California Coast Credit Union Privacy Policy
 
@@ -18,7 +18,7 @@ We respect your privacy and will not share, sell, or rent your email address to 
 _**Updating Email Address or Opting-Out**_  
 You can update your email address or choose to opt-out from receiving emails from California Coast Credit Union at any time.  At the end of each email are easy-to-follow links that allow you to update your email address or to stop receiving email from us completely.
 
-If there are any problems using these links, please report the error to [support@calcoastcu.org](mailto:support@calcoastcu.org). Or you may call us at (877) 495-1600.
+If there are any problems using these links, please report the error to [support@calcoastcu.org](mailto:support@calcoastcu.org), or you may call us at (877) 495-1600.
 
 ****Online Privacy** **
 
@@ -29,10 +29,10 @@ We limit the collection and use of member information to the minimum amount nece
 **Information Collected and How it is Used**
 
 _**IP Address**  
-_ We use your [IP address](https://web.archive.org/web/20040607073037id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#ip) to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information which we may use to help provide you with more specific information about our products and services. The information collected by your IP address does not include personal, identifying information.
+_ We use your [IP address](https://web.archive.org/web/20041204174259id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#ip) to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information which we may use to help provide you with more specific information about our products and services. The information collected by your IP address does not include personal, identifying information.
 
 _**Cookies  
-**_ When you use our home banking (CU@Home) service, our site uses [cookies](https://web.archive.org/web/20040607073037id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#cookies) to keep track of your member number and to ensure that your financial transactions are secure and authorized. When you exit our home banking site the cookie is removed. This ensures that each home banking session is completely secure and confidential. 
+**_ When you use our home banking (CU@Home) service, our site uses [cookies](https://web.archive.org/web/20041204174259id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#cookies) to keep track of your member number and to ensure that your financial transactions are secure and authorized. When you exit our home banking site the cookie is removed. This ensures that each home banking session is completely secure and confidential. 
 
 We may also use cookies to gather information about your preferences and interests in our products and services. Any information gathered in this way will be used to tailor your experience at our site and to provide content that we think you might be interested in. You may choose to disable your browser from accepting cookies. Disabling cookies, however, may prevent you from utilizing certain services on our web site, including our [CU@Home](https://www.calcoastcu.org/onlineserv/HB/Signon.cgi) home banking product.
 
@@ -42,18 +42,18 @@ When you utilize California Coast Credit Union's home banking ([CU@Home](https:
 Please be advised that we may disclose information on your accounts or information contained in member files, provided to the credit union through the web site, to credit bureaus or agencies who have a legitimate purpose for obtaining the information. We may also disclose information obtained through our web site or through e-mail communications when it is required to complete a transaction, to verify the status of your account or membership for an appropriate third party such as a credit bureau, to comply with a court order, to comply with the request of an authorized government agency or regulatory body, or if we receive your permission to do so.
 
 _**Information You Give Us  
-**_ Our site's registration forms may require visitors to give us contact information (like their name and email address), unique identifiers (like their social security number), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). This kind of information will always be submitted to us using a secure format. We may use information collected from the registration form to send the visitor information about our products and services. This information is also used to contact the visitor when necessary regarding your account(s). Visitors may opt-out of receiving future mailings; see the choice/opt-out section below. 
+**_ Our site's registration forms may require visitors to give us contact information (like their names and email addresses), unique identifiers (like their social security numbers), financial information (like their account or credit card numbers), and demographic information (like their zip codes, ages, or income levels). This kind of information will always be submitted to us using a secure format. We may use information collected from the registration form to send the visitor information about our products and services. This information is also used to contact visitors when necessary regarding their account(s). Visitors may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-Financial information that is collected is used to check the visitor's qualifications for registration and to bill the visitor for requested products and services. Unique identifiers (such as social security numbers) are collected to verify the visitor. s identity and for use as account numbers in our record system. Demographic and profile data may also be collected to tailor the visitor's experience at our site, show content that we think the visitor might be interested in, and display the content according to the visitor's preferences.
+Financial information that is collected is used to check the visitor's qualifications for registration and to bill the visitor for requested products and services. Unique identifiers (such as social security numbers) are collected to verify the visitor's identity in our record system. Demographic and profile data may also be collected to tailor the visitor's experience at our site, show content that we think the visitor might be interested in, and display the content according to the visitor's preferences.
 
 **Links to non-California Coast Credit Union Sites**
 
-This site contains links to other web sites. California Coast Credit Union is not responsible for the privacy practices or the content of such web sites, we do make every effort to ensure that our partner's privacy policies are in line with our own. [Click here](https://web.archive.org/web/20040607073037id_/http%3A//www.calcoastcu.org/infodesk/vendors.html) to see a list of these links. These sites are not authorized by California Coast Credit Union to collect information about you, however, they may independently collect information about you and/or use cookies during your use of their web sites. You may wish to review the Privacy Policy for any site you visit. 
+This site contains links to other web sites. Although California Coast Credit Union is not responsible for the privacy practices or the content of such web sites, we do make every effort to ensure that our partner's privacy policies are in line with our own. [Click here](https://web.archive.org/web/20041204174259id_/http%3A//www.calcoastcu.org/infodesk/vendors.html) to see a list of these links. These sites are not authorized by California Coast Credit Union to collect information about you, however, they may independently collect information about you and/or use cookies during your use of their web sites. You may wish to review the Privacy Policy for any site you visit. 
 
   
 ****Security****
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Forms which our visitor's submit which may contain personal or sensitive information are submitted via secure encrypted transactions. Our home banking ([CU@Home](https://www.calcoastcu.org/onlineserv/HB/Signon.cgi) ) service resides entirely on a secure server. For further information regarding online security issues, [click here](https://web.archive.org/web/20040607073037id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#security).
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Forms which our visitors submit which may contain personal or sensitive information are submitted via secure encrypted transactions. Our home banking ([CU@Home](https://www.calcoastcu.org/onlineserv/HB/Signon.cgi) ) service resides entirely on a secure server. For further information regarding online security issues, [click here](https://web.archive.org/web/20041204174259id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#security).
 
 **Children's Guidelines**
 
