@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the webdevforums.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406041956id_/http%3A//www.webdevforums.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdevforums.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605210354id_/http%3A//www.webdevforums.com/privacy.php) for the most accurate reproduction.*
 
-# Web Dev Forums - Privacy Statement
+# Web Developer Community Forums - Build your knowledge, then your website!
 
-##  Privacy Statement for Web Dev Forums 
+  
+  
 
-**Web Dev Forums** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Web Dev Forums](http://www.webdevforums.com/)
 
-####  Information Automatically Logged 
+## Privacy Statement
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. The IP address is not displayed anywhere on the website, and is not disclosed to any other parties. The IP address is also used if it becomes neccessary to ban a member of the forums and to stop them from re-registering with another alias. 
+Web Develeoper Community Forums has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Web Developer Community Forums](http://www.webdevforums.com/)
+
+#### Information Automatically Logged
+
+We use your IP address to help diagnose problems with our server and to administer our Web site. The IP address is not displayed anywhere on the website, and is not disclosed to any other parties. The IP address is also used if it becomes neccessary to ban a member of the forums and to stop them from re-registering with another alias.
 
 ####  Cookies 
 
