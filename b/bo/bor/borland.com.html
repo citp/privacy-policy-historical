@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the borland.com privacy policy that was archived on 2002-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021014021124id_/http%3A//borland.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the borland.com privacy policy that was archived on 2003-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604121628id_/http%3A//www.borland.com/company/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,6 +16,8 @@ itemName = "_company"
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  HTML HEAD  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <script language="javascript" src="/resource/global.js"></script>
 <script language="javascript" src="/resource/menu.js"></script>
+
+<script src="/resource/traxel.js"></script>
 
 <link rel="stylesheet" href="/resource/global.css" type="text/css">
 
@@ -62,14 +64,105 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 	<tr>
    	    <script language="javascript">
     	    <!--
-             if (siteArea == "home") {
-		document.write("<td><a href=\"http://myhome.borland.com\" target=\"_blank\"><img src=\"/images/common/borland_logo_nocountry.gif\" width=\"335\" height=\"51\" border=\"0\" alt=\"Borland&reg;\"></a></td>");
-             }
-             else {
-		document.write("<td><a href=\"/index.html\"><img src=\"/images/common/borland_logo.gif\" width=\"335\" height=\"51\" border=\"0\" alt=\"Borland&reg;\"></a></td>");
-             }
+            var page;
+            if (page == null) {
+                page = "other";
+                document.write("<td rowspan=\"2\"><a href=\"/index.html\"><img src=\"/images/common/borland_logo.gif\" width=\"335\" height=\"51\" border=\"0\" alt=\"Borland&reg;\"></a></td>");
+            } else {                
+                    if (page == "homepage") {
+                        if ("global" == "global")  {
+                        document.write("<td rowspan=\"2\"><a href=\"http://myhome.borland.com\" target=\"_blank\"><img src=\"/images/common/borland_logo_nocountry.gif\" width=\"335\" height=\"51\" border=\"0\" alt=\"Borland&reg;\"></a></td>");
+                        } else {
+                        document.write("<td rowspan=\"2\"><a href=\"index.html\" target=\"_blank\"><img src=\"/images/common/borland_logo.gif\" width=\"335\" height=\"51\" border=\"0\" alt=\"Borland&reg;\"></a></td>");
+                        }
+                    } else {
+                    document.write("<td rowspan=\"2\"><a href=\"/index.html\"><img src=\"/images/common/borland_logo.gif\" width=\"335\" height=\"51\" border=\"0\" alt=\"Borland&reg;\"></a></td>");
+                 }
+            } 
              //-->
-            </script><td><a href="/index.html"><img src="/images/common/borland_logo.gif" width="335" height="51" border="0" alt="Borland®"></a></td>
+            </script><td rowspan="2"><a href="/index.html"><img src="/images/common/borland_logo.gif" width="335" height="51" border="0" alt="Borland®"></a></td>
+
+	<form name="intlForm"></form>
+    <td align="right" valign="middle">
+    <select name="international" onchange="goInternational(this.options[selectedIndex].value)">
+        <option selected="" value="">International Sites</option>
+			<option value="ar">Argentina</option>
+			<option value="au">Australia</option>
+			<option value="at">Austria</option>
+			<option value="bh">Bahrain</option>
+			<option value="be">Belgium</option>
+			<option value="br">Brazil</option>
+			<option value="bg">Bulgaria</option>
+			<option value="ca">Canada</option>
+			<option value="carib">Caribbean</option>
+			<option value="camer">Central America</option>
+			<option value="cl">Chile</option>
+			<option value="cn">China</option>
+			<option value="co">Colombia</option>
+			<option value="hr">Croatia</option>
+			<option value="cy">Cyprus</option>
+			<option value="cz">Czech Republic</option>
+			<option value="dk">Denmark</option>
+			<option value="ec">Ecuador</option>
+			<option value="eg">Egypt</option>
+			<option value="fi">Finland</option>
+			<option value="fr">France</option>
+			<option value="de">Germany</option>
+			<option value="gr">Greece</option>
+			<option value="hk">Hong Kong</option>
+			<option value="hu">Hungary</option>
+			<option value="is">Iceland</option>
+			<option value="in">India</option>
+			<option value="id">Indonesia</option>
+			<option value="ir">Iran</option>
+			<option value="uk">Ireland</option>
+			<option value="il">Israel</option>
+			<option value="it">Italy</option>
+			<option value="jp">Japan</option>
+			<option value="kr">Korea</option>
+			<option value="kw">Kuwait</option>
+			<option value="lb">Lebanon</option>
+			<option value="latam">Latin America</option>
+			<option value="lu">Luxembourg</option>
+			<option value="my">Malaysia</option>
+			<option value="mt">Malta</option>
+			<option value="mx">Mexico</option>
+			<option value="midea">Middle East</option>
+			<option value="nl">Netherlands</option>
+			<option value="nz">New Zealand</option>
+			<option value="no">Norway</option>
+			<option value="om">Oman</option>
+			<option value="py">Paraguay</option>
+			<option value="pe">Peru</option>
+			<option value="pl">Poland</option>
+			<option value="pt">Portugal</option>
+			<option value="qa">Qatar</option>
+			<option value="ro">Romania</option>
+			<option value="ru">Russia</option>
+			<option value="sa">Saudi Arabia</option>
+			<option value="sg">Singapore</option>
+			<option value="sk">Slovak Republic</option>
+			<option value="si">Slovenia</option>
+			<option value="za">South Africa</option>
+			<option value="samer">South America</option>
+			<option value="es">Spain</option>
+			<option value="sd">Sudan</option>
+			<option value="se">Sweden</option>
+			<option value="ch">Switzerland</option>
+			<option value="sy">Syria</option>
+			<option value="tw">Taiwan</option>
+			<option value="th">Thailand</option>
+			<option value="tr">Turkey</option>
+			<option value="ae">United Arab Emirates</option>
+			<option value="uk">United Kingdom</option>
+			<option value="us">United States</option>
+			<option value="ve">Venezuela</option>
+			<option value="ye">Yemen</option>
+			<option value="yv">Yugoslavia</option>
+    </select></td>
+    </tr>
+    
+    <tr>
 		<td align="right" valign="bottom"><a href="http://shop.borland.com" target="_blank"><img src="/images/common/btn_shop.gif" width="136" height="19" border="0" alt="Shop"></a></td>
 	</tr>
 	<tr>
@@ -125,14 +218,14 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 						else document.write("<div onMouseOver=\"setLock(false, 'divproducts');\"><ILAYER width=\"100%\"><layer onMouseOver=\"setLock(false, 'divproducts');\">");
 					}
 				//-->
-				</script><a href="/products/index.html" onmouseover="swapImage('products', 'ON'); setLock(false, 'divproducts');" onmouseout="swapImage('products', 'OFF'); setLock(true);"><noscript><a href="/products/index.html"></noscript>
-				<img src="/images/nav/btn_products_OFF.gif" name="products" width="55" height="18" border="0" alt="Products ">
+				</script><a href="/products/index.html" onmouseover="swapImage('products', 'ON'); setLock(false, 'divproducts');" onmouseout="swapImage('products', 'OFF'); setLock(true);"><noscript></noscript>
+				<img src="/images/nav/btn_products_OFF.gif" name="products" width="55" height="18" border="0" alt="Products">
 				<script language="javascript">
 				<!--
 					if ((itemName != "_products") && (itemName != "products_downloads")) document.write("</a>")
 					else document.write("</layer></ILAYER></div>")
 				//-->
-				</script></a><noscript></a></noscript>
+				</script></a><noscript></noscript>
 				</td>
 				<td width="66">
 				<script language="javascript">
@@ -148,14 +241,14 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 						else document.write("<div onMouseOver=\"setLock(false, 'divdownloads');\"><ILAYER width=\"100%\"><layer onMouseOver=\"setLock(false, 'divdownloads');\">");
 					}
 				//-->
-				</script><a href="/products/downloads/index.html" onmouseover="swapImage('downloads', 'ON'); setLock(false, 'divdownloads');" onmouseout="swapImage('downloads', 'OFF'); setLock(true);"><noscript><a href="/products/downloads/index.html"></noscript>
+				</script><a href="/products/downloads/index.html" onmouseover="swapImage('downloads', 'ON'); setLock(false, 'divdownloads');" onmouseout="swapImage('downloads', 'OFF'); setLock(true);"><noscript></noscript>
 				<img src="/images/nav/btn_downloads_OFF.gif" name="downloads" width="66" height="18" border="0" alt="Downloads">
 				<script language="javascript">
 				<!--
 					if ((itemName != "_downloads") && (itemName != "products_downloads")) document.write("</a>")
 					else document.write("</layer></ILAYER></div>")
 				//-->
-				</script></a><noscript></a></noscript>
+				</script></a><noscript></noscript>
 				</td>
 				<td width="53">
 				<script language="javascript">
@@ -171,14 +264,14 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 						else document.write("<div onMouseOver=\"setLock(false, 'divservices');\"><ILAYER width=\"100%\"><layer onMouseOver=\"setLock(false, 'divservices');\">");
 					}
 				//-->
-				</script><a href="/services/index.html" onmouseover="swapImage('services', 'ON'); setLock(false, 'divservices');" onmouseout="swapImage('services', 'OFF'); setLock(true);"><noscript><a href="/services/index.html"></noscript>
+				</script><a href="/services/index.html" onmouseover="swapImage('services', 'ON'); setLock(false, 'divservices');" onmouseout="swapImage('services', 'OFF'); setLock(true);"><noscript></noscript>
 				<img src="/images/nav/btn_services_OFF.gif" name="services" width="53" height="18" border="0" alt="Services">
 				<script language="javascript">
 				<!--
 					if ((itemName != "_services") && (itemName != "products_downloads")) document.write("</a>")
 					else document.write("</layer></ILAYER></div>")
 				//-->
-				</script></a><noscript></a></noscript>
+				</script></a><noscript></noscript>
 				</td>
 				<td width="51">
 				<script language="javascript">
@@ -194,14 +287,14 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 						else document.write("<div onMouseOver=\"setLock(false, 'divsupport');\"><ILAYER width=\"100%\"><layer onMouseOver=\"setLock(false, 'divsupport');\">");
 					}
 				//-->
-				</script><a href="/support/index.html" onmouseover="swapImage('support', 'ON'); setLock(false, 'divsupport');" onmouseout="swapImage('support', 'OFF'); setLock(true);"><noscript><a href="/support/index.html"></noscript>
+				</script><a href="/support/index.html" onmouseover="swapImage('support', 'ON'); setLock(false, 'divsupport');" onmouseout="swapImage('support', 'OFF'); setLock(true);"><noscript></noscript>
 				<img src="/images/nav/btn_support_OFF.gif" name="support" width="51" height="18" border="0" alt="Support">
 				<script language="javascript">
 				<!--
 					if ((itemName != "_support") && (itemName != "products_downloads")) document.write("</a>")
 					else document.write("</layer></ILAYER></div>")
 				//-->
-				</script></a><noscript></a></noscript>
+				</script></a><noscript></noscript>
 				</td>
 				<td width="55">
 				<script language="javascript">
@@ -217,14 +310,14 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 						else document.write("<div onMouseOver=\"setLock(false, 'divpartners');\"><ILAYER width=\"100%\"><layer onMouseOver=\"setLock(false, 'divpartners');\">");
 					}
 				//-->
-				</script><a href="/partners/index.html" onmouseover="swapImage('partners', 'ON'); setLock(false, 'divpartners');" onmouseout="swapImage('partners', 'OFF'); setLock(true);"><noscript><a href="/partners/index.html"></noscript>
+				</script><a href="/partners/index.html" onmouseover="swapImage('partners', 'ON'); setLock(false, 'divpartners');" onmouseout="swapImage('partners', 'OFF'); setLock(true);"><noscript></noscript>
 				<img src="/images/nav/btn_partners_OFF.gif" name="partners" width="55" height="18" border="0" alt="Partners">
 				<script language="javascript">
 				<!--
 					if ((itemName != "_partners") && (itemName != "products_downloads")) document.write("</a>")
 					else document.write("</layer></ILAYER></div>")
 				//-->
-				</script></a><noscript></a></noscript>
+				</script></a><noscript></noscript>
 				</td>
 				<td width="86">
 				<script language="javascript">
@@ -240,14 +333,14 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 						else document.write("<div onMouseOver=\"setLock(false, 'divnews');\"><ILAYER width=\"100%\"><layer onMouseOver=\"setLock(false, 'divnews');\">");
 					}
 				//-->
-				</script><a href="/news/index.html" onmouseover="swapImage('news', 'ON'); setLock(false, 'divnews');" onmouseout="swapImage('news', 'OFF'); setLock(true);"><noscript><a href="/news/index.html"></noscript>
+				</script><a href="/news/index.html" onmouseover="swapImage('news', 'ON'); setLock(false, 'divnews');" onmouseout="swapImage('news', 'OFF'); setLock(true);"><noscript></noscript>
 				<img src="/images/nav/btn_news_OFF.gif" name="news" width="86" height="18" border="0" alt="News &amp; Events">
 				<script language="javascript">
 				<!--
 					if ((itemName != "_news") && (itemName != "products_downloads")) document.write("</a>")
 					else document.write("</layer></ILAYER></div>")
 				//-->
-				</script></a><noscript></a></noscript>
+				</script></a><noscript></noscript>
 				</td>
 				<td width="58">
 				<script language="javascript">
@@ -263,14 +356,14 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 						else document.write("<div onMouseOver=\"setLock(false, 'divcompany');\"><ILAYER width=\"100%\"><layer onMouseOver=\"setLock(false, 'divcompany');\">");
 					}
 				//-->
-				</script><div onmouseover="setLock(false, 'divcompany');"><ilayer width="100%"><layer onmouseover="setLock(false, 'divcompany');"><noscript><a href="/company/index.html"></noscript>
+				</script><div onmouseover="setLock(false, 'divcompany');"><ilayer width="100%"><layer onmouseover="setLock(false, 'divcompany');"><noscript></noscript>
 				<img src="/images/nav/btn_company_ON.gif" name="company" width="58" height="18" border="0" alt="Company">
 				<script language="javascript">
 				<!--
 					if ((itemName != "_company") && (itemName != "products_downloads")) document.write("</a>")
 					else document.write("</layer></ILAYER></div>")
 				//-->
-				</script></layer></ilayer></div><noscript></a></noscript>
+				</script></layer></ilayer></div><noscript></noscript>
 				</td>
 				<td width="69">
 				<script language="javascript">
@@ -286,14 +379,14 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 						else document.write("<div onMouseOver=\"setLock(false, 'divcommunity');\"><ILAYER width=\"100%\"><layer onMouseOver=\"setLock(false, 'divcommunity');\">");
 					}
 				//-->
-				</script><a href="http://bdn.borland.com" target="_blank" onmouseover="swapImage('community', 'ON'); setLock(false, 'divcommunity');" onmouseout="swapImage('community', 'OFF'); setLock(true);"><noscript><a href="http://bdn.borland.com" target="_blank"></noscript>
+				</script><a href="http://bdn.borland.com" target="_blank" onmouseover="swapImage('community', 'ON'); setLock(false, 'divcommunity');" onmouseout="swapImage('community', 'OFF'); setLock(true);"><noscript></noscript>
 				<img src="/images/nav/btn_community_OFF.gif" name="community" width="69" height="18" border="0" alt="Developers">
 				<script language="javascript">
 				<!--
 					if ((itemName != "_community") && (itemName != "products_downloads")) document.write("</a>")
 					else document.write("</layer></ILAYER></div>")
 				//-->
-				</script></a><noscript></a></noscript>
+				</script></a><noscript></noscript>
 				</td>
 				</tr>
 		</tbody></table>
@@ -371,7 +464,7 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 				document.write("Company")
 			}
 			//-->
-			</script>Company<noscript><a href="/company/index.html">Company</a></noscript>
+			</script>Company<noscript>Company</noscript>
 			</p>
 			</td>
 			<td></td>
@@ -404,7 +497,7 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 				document.write("Management Team")
 			}
 			//-->
-			</script><a href="/company/management/index.html">Management Team</a><noscript><a href="/company/management">Management Team</a></noscript>
+			</script><a href="/company/management/index.html">Management Team</a><noscript>Management Team</noscript>
 			</p>
 			</td>
 			<td></td>
@@ -442,7 +535,7 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 				document.write("Investor Relations")
 			}
 			//-->
-			</script><a href="/company/investor/index.html">Investor Relations</a><noscript><a href="/company/investor">Investor Relations</a></noscript>
+			</script><a href="/company/investor/index.html">Investor Relations</a><noscript>Investor Relations</noscript>
 			</p>
 			</td>
 			<td></td>
@@ -480,7 +573,7 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 				document.write("Company Background")
 			}
 			//-->
-			</script><a href="/company/background/index.html">Company Background</a><noscript><a href="/company/background">Company Background</a></noscript>
+			</script><a href="/company/background/index.html">Company Background</a><noscript>Company Background</noscript>
 			</p>
 			</td>
 			<td></td>
@@ -518,7 +611,7 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 				document.write("Careers")
 			}
 			//-->
-			</script><a href="/company/careers/index.html">Careers</a><noscript><a href="/company/careers">Careers</a></noscript>
+			</script><a href="/company/careers/index.html">Careers</a><noscript>Careers</noscript>
 			</p>
 			</td>
 			<td></td>
@@ -556,7 +649,7 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 				document.write("Borland Worldwide")
 			}
 			//-->
-			</script><a href="/company/borland_worldwide.html">Borland Worldwide</a><noscript><a href="/company/borland_worldwide">Borland Worldwide</a></noscript>
+			</script><a href="/company/borland_worldwide.html">Borland Worldwide</a><noscript>Borland Worldwide</noscript>
 			</p>
 			</td>
 			<td></td>
@@ -594,7 +687,7 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 				document.write("Contact Us")
 			}
 			//-->
-			</script><a href="/company/contact/index.html">Contact Us</a><noscript><a href="/company/contact">Contact Us</a></noscript>
+			</script><a href="/company/contact/index.html">Contact Us</a><noscript>Contact Us</noscript>
 			</p>
 			</td>
 			<td></td>
@@ -632,7 +725,7 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 				document.write("Site Map")
 			}
 			//-->
-			</script><a href="/company/sitemap.html">Site Map</a><noscript><a href="/company/sitemap">Site Map</a></noscript>
+			</script><a href="/company/sitemap.html">Site Map</a><noscript>Site Map</noscript>
 			</p>
 			</td>
 			<td></td>
@@ -751,82 +844,7 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 		</td>
 		<td><img src="/images/common/clear.gif" width="1" height="24" border="0" alt=""></td>
 		<td align="right">
-		<select name="international" onchange="goInternational(this.options[selectedIndex].value)">
-			<option selected="" value="">International Sites</option>
-			<option value="afr">Africa</option>
-			<option value="ar">Argentina</option>
-			<option value="au">Australia</option>
-			<option value="at">Austria</option>
-			<option value="bh">Bahrain</option>
-			<option value="be">Belgium</option>
-			<option value="br">Brazil</option>
-			<option value="bg">Bulgaria</option>
-			<option value="ca">Canada</option>
-			<option value="carib">Caribbean</option>
-			<option value="camer">Central America</option>
-			<option value="cl">Chile</option>
-			<option value="cn">China</option>
-			<option value="co">Colombia</option>
-			<option value="hr">Croatia</option>
-			<option value="cy">Cyprus</option>
-			<option value="cz">Czech Republic</option>
-			<option value="dk">Denmark</option>
-			<option value="ec">Ecuador</option>
-			<option value="emea">Europe</option>
-			<option value="fi">Finland</option>
-			<option value="fr">France</option>
-			<option value="de">Germany</option>
-			<option value="gr">Greece</option>
-			<option value="hk">Hong Kong</option>
-			<option value="hu">Hungary</option>
-			<option value="is">Iceland</option>
-			<option value="in">India</option>
-			<option value="id">Indonesia</option>
-			<option value="ir">Iran</option>
-			<option value="uk">Ireland</option>
-			<option value="il">Israel</option>
-			<option value="it">Italy</option>
-			<option value="jp">Japan</option>
-			<option value="jo">Jordan</option>
-			<option value="kr">Korea</option>
-			<option value="kw">Kuwait</option>
-			<option value="lb">Lebanon</option>
-			<option value="latam">Latin America</option>
-			<option value="lu">Luxembourg</option>
-			<option value="my">Malaysia</option>
-			<option value="mt">Malta</option>
-			<option value="mx">Mexico</option>
-			<option value="midea">Middle East</option>
-			<option value="nl">Netherlands</option>
-			<option value="nz">New Zealand</option>
-			<option value="no">Norway</option>
-			<option value="om">Oman</option>
-			<option value="py">Paraguay</option>
-			<option value="pe">Peru</option>
-			<option value="pl">Poland</option>
-			<option value="pt">Portugal</option>
-			<option value="qa">Qatar</option>
-			<option value="ro">Romania</option>
-			<option value="ru">Russia</option>
-			<option value="sa">Saudi Arabia</option>
-			<option value="sg">Singapore</option>
-			<option value="sk">Slovak Republic</option>
-			<option value="si">Slovenia</option>
-			<option value="za">South Africa</option>
-			<option value="samer">South America</option>
-			<option value="es">Spain</option>
-			<option value="se">Sweden</option>
-			<option value="ch">Switzerland</option>
-			<option value="sy">Syria</option>
-			<option value="tw">Taiwan</option>
-			<option value="th">Thailand</option>
-			<option value="tr">Turkey</option>
-			<option value="ae">United Arab Emirates</option>
-			<option value="uk">United Kingdom</option>
-			<option value="us">United States</option>
-			<option value="ve">Venezuela</option>
-			<option value="yv">Yugoslavia</option>
-		</select>
+		
 		</td>
 	</tr>
 	<tr>
@@ -836,7 +854,7 @@ if (re.test(navigator.appVersion) || re6.test(navigator.appVersion)) {
 		<td colspan="3"><img src="/images/common/clear.gif" width="1" height="10" border="0" alt=""></td>
 	</tr>
 	<tr>
-		<td colspan="3" align="center" class="footer">Made in Borland® Copyright© 1994-2002 Borland Software Corporation. All rights reserved.<br>
+		<td colspan="3" align="center" class="footer">Borland® Copyright© 1994-2003 Borland Software Corporation. All rights reserved.<br>
 <a href="/company/piracy/">Report Piracy</a>, 
 		<a href="/company/legal.html">Legal Notices</a>, <a href="/company/privacy.html">Privacy Policy</a></td>
 	</tr>
