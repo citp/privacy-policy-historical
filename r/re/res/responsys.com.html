@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the responsys.com privacy policy that was archived on 2002-02-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020203102422id_/http%3A//www.responsys.com/corporate/policies/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the responsys.com privacy policy that was archived on 2002-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209221553id_/http%3A//www.responsys.com/corporate/policies/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Responsys - Privacy Policy</title>
@@ -15,6 +15,17 @@ function InteractDemo() {
     interactdemo = window.open("/interact/demo/front_page.asp","Demo","toolbar=0,status=0,width=500,height=420,scrollbars=0,resizable=0");
 }
 
+var DemoChild;
+
+function openDemoChild(wcURL, wcLeft, wcTop, wcWidth, wcHeight, wcScrollbars, wcResizable) {
+    if (DemoChild != null) {
+        if (DemoChild.closed != true) {
+            DemoChild.close();
+        }
+    }
+    DemoChild = window.open(wcURL, "DemoChild", 'left=' + wcLeft + ',top=' + wcTop + ',width=' + wcWidth + ',height=' + wcHeight + ',scrollbars=' + wcScrollbars + ',resizable=' + wcResizable + ',channelmode=0,directories=0,fullscreen=0,location=0,menubar=0,status=0,toolbar=0');
+}
+
 //-->
 </script>
 
@@ -26,7 +37,7 @@ function InteractDemo() {
 <!-- BEGIN WEBSIDESTORY CODE v6.5 -->
 <!-- COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy -->
 <script language="javascript">
-var _pn="about+-+policies+-+Privacy+Policy"; 	//page name(s)
+var _pn="about+-+policies+-++-+Privacy+Policy"; 	//page name(s)
 var _mlc="about";	//multi-level content category
 var _cp="null"; 		//campaign
 var _acct="WR511211CDVC70EN3"; 	//account number(s)
@@ -66,7 +77,7 @@ _x3="&cd=1&hv=6' border=0 height=1 width=1>";
 _ar="&bn="+escape(_bn)+"&bv="+_bv+"&ce="+_ce+"&ss=na&sc=na&dt=&sv="+_sv+"&con="+escape(_ct);
 _ar+="&vcon="+escape(_mlc)+"&epg="+_epg+"&hp=u&cy=u&ja=na&ln=na&cp="+escape(_cp)+"&pl=&rf="+_rf;
 document.write(_x2+_ar+_x3);}document.write("<\!--");</script><!--
-<noscript><img src="http://phg.hitbox.com/HG?hc=wp169&cd=1&hv=6&ce=u&hb=WR511211CDVC70EN3&n=about+-+policies+-+Privacy+Policy&vcon=about" border='0' width='1' height='1'>
+<noscript><img src="http://phg.hitbox.com/HG?hc=wp169&cd=1&hv=6&ce=u&hb=WR511211CDVC70EN3&n=about+-+policies+-++-+Privacy+Policy&vcon=about" border='0' width='1' height='1'>
 </noscript><!--//-->
 <!-- END WEBSIDESTORY CODE  -->
 
@@ -76,90 +87,97 @@ document.write(_x2+_ar+_x3);}document.write("<\!--");</script><!--
             <table border="0" cellpadding="0" cellspacing="0">
                 <tbody><tr>
                     
-                    <td rowspan="4" width="146" height="56">
-                        <a href="/default.asp"><img alt="" src="/globalimages/logo_red.gif" width="146" height="56" border="0"></a></td>
+                    
+        <td rowspan="4" width="146" height="56"> <a href="/default.asp"><img alt="" src="/globalimages/logo_black_blue.gif" width="146" height="56" border="0"></a></td>
                     
                     <td colspan="10" width="654" height="14" bgcolor="#333399">
-                        <img alt="" src="/globalimages/transpix.gif" width="654" height="14" border="0"></td>
+                        <img alt="" src="/globalimages/space.gif" width="654" height="14" border="0"></td>
                 </tr>
                 <tr>
                     <td bgcolor="#333399" width="7" height="24">
-                        <img alt="" src="/globalimages/transpix.gif" width="7" height="24" border="0"></td>
-                    
-                    <td bgcolor="#333399" width="73" align="center" valign="middle">
-                        <img alt="" src="/globalimages/transpix.gif" width="73" height="1" border="0"><br>                        
-                        <a href="/resourcecenter/" class="navoff">Quick&nbsp;Tips</a></td>
-                    
-                    <td bgcolor="#333399" width="55" align="center" valign="middle">
-                        <img alt="" src="/globalimages/transpix.gif" width="55" height="1" border="0"><br>                    
-                        <a href="#" onclick="InteractDemo(); return false;" class="navoff">Demo</a></td>
-                    
-                    <td bgcolor="#333399" width="75" align="center" valign="middle">
-                        <img alt="" src="/globalimages/transpix.gif" width="75" height="1" border="0"><br>
-                        <a href="/corporate/customers/" class="navoff">Customers</a></td>
+                        <img alt="" src="/globalimages/space.gif" width="7" height="24" border="0"></td>
                     
                     <td bgcolor="#333399" width="68" align="center" valign="middle">
-                        <img alt="" src="/globalimages/transpix.gif" width="68" height="1" border="0"><br>                    
+                        <img alt="" src="/globalimages/space.gif" width="68" height="1" border="0"><br>                        
                         <a href="/products" class="navoff">Products</a></td>
                     
+                    <td bgcolor="#333399" width="55" align="center" valign="middle">
+                        <img alt="" src="/globalimages/space.gif" width="55" height="1" border="0"><br>                    
+
+                        <a href="#" onclick="InteractDemo(); return false;" class="navoff">Demo</a></td>
+<!--
+                        <a href="#" onClick="openDemoChild('demo/demo1.asp', 10, 10, 740, 480, 0, 0); return false;" class="navoff">Demo</a></td>
+-->                        
+                    
+                    <td bgcolor="#333399" width="75" align="center" valign="middle">
+                        <img alt="" src="/globalimages/space.gif" width="75" height="1" border="0"><br>
+                        <a href="/corporate/customers/" class="navoff">Customers</a></td>
+                    
+                    <td bgcolor="#333399" width="98" align="center" valign="middle">
+                        <img alt="" src="/globalimages/space.gif" width="98" height="1" border="0"><br>                    
+                        <a href="/landingpads/resourcecenter.asp?rn=quicktips" class="navoff">Best&nbsp;Practices</a></td>
+                    
                     <td bgcolor="#ffcc33" width="67" align="center" valign="middle">
-                        <img alt="" src="/globalimages/transpix.gif" width="67" height="1" border="0"><br>                    
+                        <img alt="" src="/globalimages/space.gif" width="67" height="1" border="0"><br>                    
                         <a href="/corporate/about/" class="navon">About&nbsp;Us</a></td>
                     
                     <td bgcolor="#333399" width="65" align="center" valign="middle">
-                        <img alt="" src="/globalimages/transpix.gif" width="65" height="1" border="0"><br>
+                        <img alt="" src="/globalimages/space.gif" width="65" height="1" border="0"><br>
                         <a href="/partners/" class="navoff">Partners</a></td>
                     
                     <td bgcolor="#333399" width="65" align="center" valign="middle">
-                        <img alt="" src="/globalimages/transpix.gif" width="65" height="1" border="0"><br>
+                        <img alt="" src="/globalimages/space.gif" width="65" height="1" border="0"><br>
                         <a href="/interact/customerarea.asp" class="navoff">Support</a></td>
                     
                     <td bgcolor="#333399" width="60" align="center" valign="middle">
-                        <img alt="" src="/globalimages/transpix.gif" width="60" height="1" border="0"><br>                        
+                        <img alt="" src="/globalimages/space.gif" width="60" height="1" border="0"><br>                        
                         <a href="/corporate/about/contact.asp" class="navoff">Contact</a></td>
                     
                     <td bgcolor="#333399" width="119" height="1">
-                        <img alt="" src="/globalimages/transpix.gif" width="119" height="1" border="0"></td>
+                        <img alt="" src="/globalimages/space.gif" width="119" height="1" border="0"></td>
                 </tr>
                 
 				
                 <tr>
                     <td bgcolor="#ffcc33" width="7" height="17">
-                        <img alt="" src="/globalimages/transpix.gif" width="7" height="17" border="0"></td>
-                    <td colspan="9" bgcolor="#ffcc33" valign="middle" class="topnav">
-                    <a href="/corporate/about/vision.asp">Corporate Vision</a>
+                        <img alt="" src="/globalimages/space.gif" width="7" height="17" border="0"></td>
+                    
+  <td colspan="9" bgcolor="#ffcc33" valign="middle" class="topnav"> 
+    <a class="secondnav" href="/corporate/about/team.asp">Leadership Team</a>
 &nbsp;|&nbsp;
-<a href="/corporate/about/team.asp">Leadership Team</a>
+<a class="secondnav" href="/corporate/about/directors.asp">Board of Directors</a>
 &nbsp;|&nbsp;
-<a href="/corporate/about/investors.asp">Investor Relations</a>
+<a class="secondnav" href="/corporate/about/investors.asp">Investors</a>
 &nbsp;|&nbsp;
-<a href="/corporate/about/news_latest.asp">News</a>
+<a class="secondnav" href="/corporate/about/news_latest.asp">News</a>
 &nbsp;|&nbsp;
-<a href="/corporate/about/awards.asp">Awards</a>
+<a class="secondnav" href="/corporate/about/awards.asp">Awards</a>
 &nbsp;|&nbsp;
-<a href="/corporate/about/careers.asp">Careers</a>
+<a class="secondnav" href="/corporate/about/careers.asp">Careers</a>
+&nbsp;|&nbsp;
+<a class="secondnav" href="/corporate/policies/privacy.asp"><font color="#333399"><b>Policies</b></font></a>
 
-                    </td>
+  </td>
                 </tr>
 
 
 
                 <tr>
-                    <td colspan="10" bgcolor="#cc3333" height="1"><img alt="" src="/globalimages/transpix.gif" width="1" height="1" border="0"></td>
+                    <td colspan="10" bgcolor="#cc3333" height="1"><img alt="" src="/globalimages/space.gif" width="1" height="1" border="0"></td>
                 </tr>
             </tbody></table>
         </td>
     </tr>
-<!-- end header -->
 
 
-<tr>
-<td valign="top">
-<!-- start include -->
+    <tr>
+        <td width="146" valign="top">
+            
+<link rel="stylesheet" href="/globalstyles/front.css" type="text/css">
 	<table width="146" border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td colspan="3" height="2">
-				<img alt="" src="/globalimages/space.gif" height="2" border="0"></td>
+			<td colspan="3" height="1">
+				<img alt="" src="/globalimages/space.gif" height="1" border="0"></td>
 			<td rowspan="100" width="13">
 				<img alt="" src="/globalimages/space.gif" width="13" border="0"></td>
 		</tr>
@@ -173,7 +191,7 @@ document.write(_x2+_ar+_x3);}document.write("<\!--");</script><!--
 					<img alt="" src="/globalimages/space.gif" width="6" border="0"></td>
 			
 				<td colspan="2" width="127">
-					<div class="navsections"><a href="/interact/details_interact_faq.asp">Interact FAQs</a></div></td>
+					<span class="navsections"><a class="leftnav" href="/corporate/about/default.asp">Overview</a></span></td>
 				
 			</tr>
 			<tr>
@@ -194,7 +212,7 @@ document.write(_x2+_ar+_x3);}document.write("<\!--");</script><!--
 					<img alt="" src="/globalimages/space.gif" width="6" border="0"></td>
 			
 				<td colspan="2" width="127">
-					<font color="#333399"><b>Privacy Policy</b></font></td>
+					<span class="navsections"><a class="leftnav" href="/corporate/about/team.asp">Leadership Team</a></span></td>
 				
 			</tr>
 			<tr>
@@ -215,7 +233,7 @@ document.write(_x2+_ar+_x3);}document.write("<\!--");</script><!--
 					<img alt="" src="/globalimages/space.gif" width="6" border="0"></td>
 			
 				<td colspan="2" width="127">
-					<div class="navsections"><a href="/corporate/policies/permission.asp">Permission Marketing Policy</a></div></td>
+					<span class="navsections"><a class="leftnav" href="/corporate/about/directors.asp">Board of Directors</a></span></td>
 				
 			</tr>
 			<tr>
@@ -236,7 +254,160 @@ document.write(_x2+_ar+_x3);}document.write("<\!--");</script><!--
 					<img alt="" src="/globalimages/space.gif" width="6" border="0"></td>
 			
 				<td colspan="2" width="127">
-					<div class="navsections"><a href="/corporate/policies/eycertification.asp">Ernst &amp; Young CyberProcess Certification Seal</a></div></td>
+					<span class="navsections"><a class="leftnav" href="/corporate/about/investors.asp">Investors</a></span></td>
+				
+			</tr>
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" width="133" height="1">
+					<img alt="" src="/globalimages/reddot.gif" width="133" height="1" border="0"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td width="6">
+					<img alt="" src="/globalimages/space.gif" width="6" border="0"></td>
+			
+				<td colspan="2" width="127">
+					<span class="navsections"><a class="leftnav" href="/corporate/about/news_latest.asp">News</a></span></td>
+				
+			</tr>
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" width="133" height="1">
+					<img alt="" src="/globalimages/reddot.gif" width="133" height="1" border="0"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td width="6">
+					<img alt="" src="/globalimages/space.gif" width="6" border="0"></td>
+			
+				<td colspan="2" width="127">
+					<span class="navsections"><a class="leftnav" href="/corporate/about/awards.asp">Awards</a></span></td>
+				
+			</tr>
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" width="133" height="1">
+					<img alt="" src="/globalimages/reddot.gif" width="133" height="1" border="0"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td width="6">
+					<img alt="" src="/globalimages/space.gif" width="6" border="0"></td>
+			
+				<td colspan="2" width="127">
+					<span class="navsections"><a class="leftnav" href="/corporate/about/careers.asp">Careers</a></span></td>
+				
+			</tr>
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" width="133" height="1">
+					<img alt="" src="/globalimages/reddot.gif" width="133" height="1" border="0"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td width="6">
+					<img alt="" src="/globalimages/space.gif" width="6" border="0"></td>
+			
+				<td colspan="2" width="127">
+					<span class="navsections"><a class="leftnav" href="/corporate/policies/privacy.asp">Policies</a></span></td>
+				
+			</tr>
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" width="133" height="1">
+					<img alt="" src="/globalimages/reddot.gif" width="133" height="1" border="0"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td width="6">
+					<img alt="" src="/globalimages/space.gif" width="6" border="0"></td>
+			
+				<td width="12" valign="top" nowrap="">
+					<span class="navsections">&nbsp;-&nbsp;</span></td>
+				<td width="115">
+					<span class="navsections"><a class="leftnav" href="/corporate/policies/privacy.asp"><b>Privacy Policy</b></a></span></td>
+				
+			</tr>
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" width="133" height="1">
+					<img alt="" src="/globalimages/reddot.gif" width="133" height="1" border="0"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td width="6">
+					<img alt="" src="/globalimages/space.gif" width="6" border="0"></td>
+			
+				<td width="12" valign="top" nowrap="">
+					<span class="navsections">&nbsp;-&nbsp;</span></td>
+				<td width="115">
+					<span class="navsections"><a class="leftnav" href="/corporate/policies/permission.asp">Permission Marketing Policy</a></span></td>
+				
+			</tr>
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" width="133" height="1">
+					<img alt="" src="/globalimages/reddot.gif" width="133" height="1" border="0"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3" height="4">
+					<img alt="" src="/globalimages/space.gif" height="4" border="0"></td>
+			</tr>
+			<tr>
+				<td width="6">
+					<img alt="" src="/globalimages/space.gif" width="6" border="0"></td>
+			
+				<td width="12" valign="top" nowrap="">
+					<span class="navsections">&nbsp;-&nbsp;</span></td>
+				<td width="115">
+					<span class="navsections"><a class="leftnav" href="/corporate/policies/eycertification.asp">Ernst &amp; Young CyberProcess Certification Seal</a></span></td>
 				
 			</tr>
 			<tr>
@@ -249,164 +420,144 @@ document.write(_x2+_ar+_x3);}document.write("<\!--");</script><!--
 			</tr>
 
 		</tbody></table>
-<!-- end include -->
-</td>
-<td valign="top" width="600">
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td>
-</td>
-</tr>
-<tr>
-<td>
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="10"><img src="/globalimages/transpix.gif" height="10" width="2"></td>
-<td width="580" valign="top">
-<br>
-<table cellpadding="0" cellspacing="0" border="0" width="580">
-<tbody><tr>
-<td colspan="2">
-<div class="pagetitle">Your Web Site Privacy Rights</div></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td width="580">
-<a href="http://www.truste.org/validate/2780" target="new"><img src="/globalimages/truste_click_seal.gif" width="91" height="73" hspace="12" border="0" align="left"></a>
-<b>Responsys makes the same firm commitment to privacy for our web site visitors as we deliver 
-to customers using our web-hosted service, Responsys Interact™. Responsys is a licensee of 
-the TRUSTe Privacy Program. The following discloses our information gathering and dissemination 
-practices for <a href="/corporate/about/default.asp">www.responsys.com</a>.</b>
 
-<p>
-<b>Responsys abides by the principles set forth in the Safe Harbor framework as set forth by the U.S.
-Department of Commerce regarding the collection, use, and retention of data from the European Union.</b>
-</p><p>
-For privacy questions related to an e-mail you received from a company using Responsys.com's 
-service, please see our frequently asked questions page. 
-</p><p>
-<b>TRUSTe Privacy Program</b><br>
-<br>
-This confirms that Responsys is a licensee of the TRUSTe Privacy Program. TRUSTe is an 
-independent, non-profit organization whose mission is to build users’ trust and 
-confidence in the Internet by promoting the use of fair information practices.  
-Because this web site wants to demonstrate its commitment to your privacy, it has agreed 
-to disclose its information practices and have its privacy practices reviewed for compliance 
-by TRUSTe.  By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
-</p><ol>
-<li>What personally identifiable information of yours or third party personally identifiable 
-information that is collected from you through the web site.  
-</li><li>The organization collecting the information 
-</li><li>How the information is used 
-</li><li>With whom the information may be shared 
-</li><li>What choices are available to you regarding collection, use and distribution of the information 
-</li><li>The kind of security procedures that are in place to protect the loss, misuse or alteration 
-of information under Responsys control 
-</li><li>How you can correct any inaccuracies in the information. 
-</li></ol>
-If you have questions or concerns regarding this statement, you should first contact 
-our Privacy Advocate by email at <a href="mailto:privacy@responsys.com">privacy@responsys.com</a>.
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily 
-addressed, you should then contact TRUSTe <a href="http://www.truste.org/watchdog.html" target="new_window">
-http://www.truste.org/watchdog.html</a>. TRUSTe will 
-then serve as a liaison with the Web site to resolve your concerns.
-<p>
-<b>Information Tracked</b><br>
-<br>
-We use your IP address to help diagnose problems with our server and to administer our web site. 
-We also track browser types to help us understand our visitors' needs related to our web site 
-design.
-</p><p>
-Our site's optional information request forms require your name, company, e-mail address, as well 
-as information to help us determine your needs related to our solution. We use this information 
-to send updates about our company and contact you if requested or necessary. You may opt-out of 
-receiving future mailings; see the choice/opt-out section below. When you receive an updated profile 
-form, that information comes from our database.
-</p><p>
-<b>Security and Privacy</b><br>
-<br>
-Responsys' web site uses security measures to protect against the loss, misuse, and alteration 
-of the information under our control. We store the information in a database in a secure environment 
-at our service provider, Exodus. 
-</p><p>
-Client-side cookies are used to verify the login status of customers
-using products or services linked directly with our website.  Client-side cookies 
-are also used to track point of entry to point of registration for those users participating in
-our affliate signup programs or to track and measure the success of a particular marketing campaign 
-using HitBox technology. Usage of a cookie is in no way linked to any personally identifiable 
-information while on our site. If a user rejects the cookie, they may still use our site; however, 
-the user may be limited to the access of some areas within our website.  For more information about
-HitBox cookies and how to "opt-out" of receiving them, please click <a href="http://www.websidestory.com/privacy/" target="new_window">here</a>.
-</p><p>
-Responsys takes care to reinforce 
-the importance of our web site visitors' security and privacy among our employees. The 
-bottomline is that because our business involves hosting application accounts, data security 
-is paramount. We're constantly re-evaluating and deploying new technologies to enhance our security.
-</p><p>
-We will never share, sell, or rent individual personal information with anyone without your 
-advance permission or unless ordered by a court of law. Information submitted to us is only 
-available to employees managing this information for purposes of contacting you or sending you 
-e-mails based on your requesting information.
-</p><p>
-Responsys is not responsible for the privacy practices or the content of any other web sites 
-to which we link.
-</p><p>
-<b>Notification of Privacy Policy Changes</b><br>
-<br>
-Responsys will notify its users of any changes to how Responsys uses personal information via
-email, with the new policy posted on the site at least 30 days prior to its effective date. 
-</p><p>
-<b>Updating and Choice/Opt-Out</b><br>
-<br>
-Visitors who request information on our web site have the following options for updating their 
-profiles and unsubscribing (opting out) to avoid receiving future communications from us: 
-</p><ol>
-<li>You can use the information request update form automatically e-mailed to you upon registering. 
-</li><li>Or, send an e-mail to <b><a href="mailto:privacy@responsys.com">privacy@responsys.com</a></b>, and we'll reply confirming any corrections or updates you request. 
-</li></ol>
-If Responsys does not respond to your inquiry or your inquiry has not been satisfactorily 
-addressed, please contact TRUSTe at 
-<b><a href="http://www.truste.org/users/users_watchdog_intro.html" target="new_window">http://www.truste.org/users/users_watchdog_intro.html</a></b>.
-<p>
-<b>Contacting Us</b><br>
-<br>
-If you have any questions about this privacy statement or this web site, please use 
-our <b><a href="/forms/website_frm.asp">
-comment form</a></b> or contact us directly: 
-</p><p>
-Webmaster<br>
-Responsys<br>
-2225 E. Bayshore Road<br> 
-Suite 100<br>
-Palo Alto, CA<br>
-94303, United States
-</p></td>
-</tr>
-</tbody></table>
-</td>
-<td width="2" bgcolor="#ffffff"><img src="/globalimages/transpix.gif" height="1" width="2"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>
-<!-- start include -->
+            </td>
+		<td width="600" align="top">
+			<table width="600" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td width="600">
+						<table width="600" cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td width="10">
+									<img src="/globalimages/space.gif" width="10"></td>
+								<td width="580" valign="top">
+									<table width="580" cellpadding="0" cellspacing="0" border="0">
+										<tbody><tr>
+											<td>
+                                                <img src="/globalimages/space.gif" height="20"><br>
+                                                <span class="pagetitle">Your Web Site Privacy Rights</span><br>
+                                                <img src="/globalimages/space.gif" height="18"><br>
+                                                <a href="http://www.truste.org/validate/2780" target="new"><img src="/globalimages/truste_click_seal.gif" border="0" align="left" hspace="0" vspace="0"></a>
+                                                <b>Responsys makes the same firm commitment to privacy for our web site visitors as we deliver 
+                                                to customers using our web-hosted service, Responsys Interact®. Responsys is a licensee of 
+                                                the TRUSTe Privacy Program. The following discloses our information gathering and dissemination 
+                                                practices for <a href="/corporate/about/default.asp">www.responsys.com</a>.</b><br>
+                                                <br>
+                                                <b>Responsys abides by the principles set forth in the Safe Harbor framework as set forth by the U.S.
+                                                Department of Commerce regarding the collection, use, and retention of data from the European Union.</b><br>
+                                                <br>
+                                                For privacy questions related to an e-mail you received from a company using Responsys' service, please see our frequently asked questions page. <br>
+                                                <br>
+                                                <b>TRUSTe Privacy Program</b><br>
+                                                <br>
+                                                This confirms that Responsys is a licensee of the TRUSTe Privacy Program. TRUSTe is an 
+                                                independent, non-profit organization whose mission is to build users’ trust and 
+                                                confidence in the Internet by promoting the use of fair information practices.  
+                                                Because this web site wants to demonstrate its commitment to your privacy, it has agreed 
+                                                to disclose its information practices and have its privacy practices reviewed for compliance 
+                                                by TRUSTe.  By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
+                                                <ol>
+                                                <li>What personally identifiable information of yours or third party personally identifiable 
+                                                information that is collected from you through the web site.  
+                                                </li><li>The organization collecting the information 
+                                                </li><li>How the information is used 
+                                                </li><li>With whom the information may be shared 
+                                                </li><li>What choices are available to you regarding collection, use and distribution of the information 
+                                                </li><li>The kind of security procedures that are in place to protect the loss, misuse or alteration 
+                                                of information under Responsys control 
+                                                </li><li>How you can correct any inaccuracies in the information. 
+                                                </li></ol>
+                                                If you have questions or concerns regarding this statement, you should first contact 
+                                                our Privacy Advocate by email at <a href="mailto:privacy@responsys.com">privacy@responsys.com</a>.
+                                                If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily 
+                                                addressed, you should then contact TRUSTe <a href="http://www.truste.org/watchdog.html" target="new_window">
+                                                http://www.truste.org/watchdog.html</a>. TRUSTe will 
+                                                then serve as a liaison with the Web site to resolve your concerns.<br>
+                                                <br>
+                                                <b>Information Tracked</b><br>
+                                                <br>
+                                                We use your IP address to help diagnose problems with our server and to administer our web site. 
+                                                We also track browser types to help us understand our visitors' needs related to our web site 
+                                                design.<br>
+                                                <br>
+                                                Our site's optional information request forms require your name, company, e-mail address, as well 
+                                                as information to help us determine your needs related to our solution. We use this information 
+                                                to send updates about our company and contact you if requested or necessary. You may opt-out of 
+                                                receiving future mailings; see the choice/opt-out section below. When you receive an updated profile 
+                                                form, that information comes from our database.<br>
+                                                <br>
+                                                <b>Security and Privacy</b><br>
+                                                <br>
+                                                Responsys' web site uses security measures to protect against the loss, misuse, and alteration 
+                                                of the information under our control. We store the information in a database in a secure environment 
+                                                at our service provider, Exodus. <br>
+                                                <br>
+                                                Client-side cookies are used to verify the login status of customers
+                                                using products or services linked directly with our website.  Client-side cookies 
+                                                are also used to track point of entry to point of registration for those users participating in
+                                                our affiliate signup programs or to track and measure the success of a particular marketing campaign.
+                                                Usage of a cookie is in no way linked to any personally identifiable 
+                                                information while on our site. If a user rejects the cookie, they may still use our site; however, 
+                                                the user may be limited to the access of some areas within our website.<br>
+                                                <br>
+                                                Responsys takes care to reinforce 
+                                                the importance of our web site visitors' security and privacy among our employees. The 
+                                                bottomline is that because our business involves hosting application accounts, data security 
+                                                is paramount. We're constantly re-evaluating and deploying new technologies to enhance our security.<br>
+                                                <br>
+                                                We will never share, sell, or rent individual personal information with anyone without your 
+                                                advance permission or unless ordered by a court of law. Information submitted to us is only 
+                                                available to employees managing this information for purposes of contacting you or sending you 
+                                                e-mails based on your requesting information.<br>
+                                                <br>
+                                                Responsys is not responsible for the privacy practices or the content of any other web sites 
+                                                to which we link.<br>
+                                                <br>
+                                                <b>Notification of Privacy Policy Changes</b><br>
+                                                <br>
+                                                Responsys will notify its users of any changes to how Responsys uses personal information via
+                                                email, with the new policy posted on the site at least 30 days prior to its effective date. <br>
+                                                <br>
+                                                <b>Updating and Choice/Opt-Out</b><br>
+                                                <br>
+                                                Visitors who request information on our web site have the following options for updating their 
+                                                profiles and unsubscribing (opting out) to avoid receiving future communications from us: 
+                                                <ol>
+                                                <li>You can use the information request update form automatically e-mailed to you upon registering. 
+                                                </li><li>Or, send an e-mail to <a href="mailto:privacy@responsys.com">privacy@responsys.com</a>, and we'll reply confirming any corrections or updates you request. 
+                                                </li></ol>
+                                                If Responsys does not respond to your inquiry or your inquiry has not been satisfactorily 
+                                                addressed, please contact TRUSTe at <a href="http://www.truste.org/users/users_watchdog_intro.html" target="new_window">http://www.truste.org/users/users_watchdog_intro.html</a>.<br>
+                                                <br>
+                                                <b>Contacting Us</b><br>
+                                                <br>
+                                                If you have any questions about this privacy statement or this web site, please contact us directly:<br>
+                                                <br>
+                                                Responsys<br>
+                                                2225 E. Bayshore Road<br> 
+                                                Suite 100<br>
+                                                Palo Alto, CA<br>
+                                                94303, United States<br>
+                                                <br></td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                                <td width="10">
+                                    <img src="/globalimages/space.gif" width="10"></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+<link rel="stylesheet" href="/globalstyles/front.css" type="text/css">
 			<div align="center">
 			<br>
 			<table width="600" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr>
     				<td height="8">
-	    				<img src="/globalimages/transpix.gif" height="8"></td>
+	    				<img src="/globalimages/space.gif" height="8"></td>
 				</tr>
                 
 				<tr>
@@ -415,40 +566,46 @@ Palo Alto, CA<br>
 				</tr>
 				<tr>
     				<td height="8">
-	    				<img src="/globalimages/transpix.gif" height="8"></td>
+	    				<img src="/globalimages/space.gif" height="8"></td>
 				</tr>
                 
 				<tr>
 					<td>
 						<font size="1">
-						<div class="footer" align="center">
-						|&nbsp;<a href="/corporate/about/default.asp">About Us</a>
-						|&nbsp;<a href="/interact/default.asp">Products &amp; Services</a>
-						|&nbsp;<a href="/partners/default.asp">Partners</a>
-						|&nbsp;<a href="/default.asp">Home</a>
-						|&nbsp;<a href="/corporate/info/sitemap.asp">Site Map</a>
-						|&nbsp;<a href="/forms/analyst_frm.asp">Analyst &amp; Press Information Request</a>
-                        |<br>
-						|&nbsp;<a href="/forms/website_frm.asp">WebSite Feedback</a>
-						|&nbsp;<a href="/corporate/policies/permission.asp">Permission Marketing Policy</a>
-						|&nbsp;<a href="/corporate/policies/privacy.asp">Privacy Policy</a>
-						|&nbsp;<a href="/corporate/about/contact.asp">Contact</a>
-						|&nbsp;<a href="/interact/customerarea/default.asp">Support</a>
-                        |
-						</div></font>
-						<p>
+						
+        <div class="footer" align="center">
+|&nbsp;&nbsp;
+<a class="footernew" href="/corporate/about/default.asp">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class="footernew" href="/products/default.asp">Products</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class="footernew" href="/partners/default.asp">Partners</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class="footernew" href="/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class="footernew" href="/corporate/info/sitemap.asp">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<!-- <a class=footernew href="/forms/analyst_frm.asp">Analyst &amp; Press Information Request</a>&nbsp;&nbsp;|&nbsp;&nbsp;<br> -->
+<a class="footernew" href="/forms/website_frm.asp">WebSite Feedback</a>&nbsp;&nbsp;|&nbsp;&nbsp;<br>
+|&nbsp;&nbsp;<a class="footernew" href="/corporate/policies/permission.asp">Permission Marketing Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class="footernew" href="/corporate/policies/privacy.asp">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class="footernew" href="/corporate/about/contact.asp">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class="footernew" href="/interact/customerarea/default.asp">Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<br>
+          <br>
+        </div>
+        </font><font size="1"></font> 
+        <p>
 						</p><center class="footer">Copyright&nbsp;©&nbsp;2002 Responsys<br>
-						<a href="http://www.responsys.com/corporate/policies/privacy.asp" target="new"><img src="/globalimages/truste_eu.gif" alt="Reviewed By Trust-e" border="0" vspace="5"></a><br>
+						<a href="http://www.responsys.com/corporate/policies/privacy.asp"><img src="/globalimages/truste_eu.gif" alt="Reviewed By Trust-e" border="0" vspace="5"></a><br>
                         <br></center></td>
 				</tr>
 			</tbody></table>
 			</div>
                         
             </td></tr></tbody></table>            
-<!-- end include -->
-</td>
-</tr>
-</tbody></table>
+
+                        </td>
+                </tr>
+            </tbody></table>
+        
+        
+            <img src="/globalimages/space.gif" width="54">
+    
 
 
 
