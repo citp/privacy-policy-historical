@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earthday.net privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217203333id_/http%3A//www.earthday.net/about/privacy-policy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthday.net privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605040551id_/http%3A//www.earthday.net/about/privacy-policy.stm) for the most accurate reproduction.*
 
-# Earth Day Network: About Us - Privacy Policy
+# Earth Day Network - About Us
 
 Earth Day Network respects your right to privacy. Earth Day Network will only collect Personal Information (defined below) that you voluntarily provide to us and will only disclose it or use it for purposes as disclosed in this Privacy Policy or as disclosed by us at the time information is requested from you. 
 
