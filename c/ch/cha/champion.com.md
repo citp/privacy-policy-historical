@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624082834id_/http%3A//www.championmortgage.com/marketing/legalprivacy/legalprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213085801id_/http%3A//www.championmortgage.com/marketing/legalprivacy/legalprivacy.asp) for the most accurate reproduction.*
 
 # The home equity lenders at Champion Mortgage are committed to your privacy
 
@@ -115,6 +115,9 @@ We may keep information from online tools and calculators, online applications a
 **ADDITIONAL RIGHTS**  
 You may have other privacy protections under state laws. Our information practices comply with these laws.
 
+**Changes to this Policy**  
+Key may occasionally update this privacy policy. If we do, and the changes are deemed material we will notify consumers by prominently placing a notice on our website. Customers, those who maintain an active relationship with Key, will continue to receive annual notification. Or, for a current policy, you can call our toll-free line at 1-800-361-0968. This policy supersedes all previous notices or statements about practices described in this Policy. 
+
 **YOUR OPTIONS**
 
 **Information Sharing**  
@@ -140,7 +143,7 @@ To record or update your information sharing and solicitation preferences with K
 **1-800-361-0968**
 
 This policy applies to the following KeyCorp family of companies  
-KeyBank National Association; Key Bank USA, National Association; McDonald Investments Inc.; Victory Capital Management Inc.; Key Bank Life Insurance, Ltd.; Key Financial Services Inc.; KeyCorp Finance Inc.; KeyCorp Insurance Agency, Inc. (MA); KeyCorp Insurance Agency, Inc. (NY); KeyCorp Insurance Agency USA Inc. (ID); KeyCorp Insurance Agency USA Inc. (OH); KeyCorp Insurance Agency USA Inc. (WA); Champion Financial Services, Inc.; Gradison Insurance Agency, Inc.; MCD Gradison Agency, Inc.; McD Agency PA, Inc.; KeyTrust Company National Association; SecoLink Settlement Services, LLC; Key Merchant Services, LLC;
+KeyBank National Association; KeyBank National Association; McDonald Investments Inc.; Victory Capital Management Inc.; Key Bank Life Insurance, Ltd.; Key Financial Services Inc.; KeyCorp Finance Inc.; KeyCorp Insurance Agency, Inc. (MA); KeyCorp Insurance Agency, Inc. (NY); KeyCorp Insurance Agency USA Inc. (ID); KeyCorp Insurance Agency USA Inc. (OH); KeyCorp Insurance Agency USA Inc. (WA); Champion Financial Services, Inc.; Gradison Insurance Agency, Inc.; MCD Gradison Agency, Inc.; McD Agency PA, Inc.; KeyTrust Company National Association; SecoLink Settlement Services, LLC; Key Merchant Services, LLC;
 
 80-0405X (6-2-2003) 
 
