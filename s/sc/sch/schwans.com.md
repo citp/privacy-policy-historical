@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606125137id_/http%3A//www.schwans.com/customerService/customerServicePrivacy.aspx%3Ftb%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223154354id_/http%3A//www.schwans.com/customerService/customerServicePrivacy.aspx%3Ftb%3D6) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ Visitors who choose to browse our site without registering remain completely ano
 
 Visitors may occasionally be required to provide their e-mail address to access portions of the site. With your permission, we may occasionally send you information about products, menu planning, specials, promotions, etc. Visitors may also opt to provide their e-mail address to Schwan's Home Service, Inc. at various non-required times. By providing an e-mail address in an optional area, you consent to our occasionally sending you information about products, menu planning, specials, promotions, etc. If you prefer not to receive this kind of information from Schwan's Home Service, Inc., your request will be promptly honored. (Please note, however, that all customers who purchase online will receive an e-mail confirmation after their order is placed.) 
 
-Occasionally, Schwan's Home Service, Inc. uses external vendors to provide specific services which may enhance our site or create a better experience for our customers. 
+Occasionally, Schwan's Home Service, Inc. uses external vendors to provide specific services which may enhance our site or create a better experience for our customers. Further, we may hire agencies to assist us in administering consumer promotions, fulfilling orders, analyzing site use and data, etc. We may provide these agents access to your personal information if it is necessary for them to perform their services for Schwan’s. However, these agents are prohibited from using or disclosing your personal information for any other purpose and are required to keep your information confidential. 
 
 For example, we use an outside source to provide advertising for schwans.com. This company also supplies advertising for other sites. Occasionally, our ad provider may use information about your visit to schwans.com (and other sites) to measure the effectiveness of their ads. They may also use information to supply advertisements about goods and services that may be interesting to you. Please be aware that Schwan'sTM advertising provider does not have access to your name, e-mail address, or telephone number. The privacy of this information is protected by Schwan's Home Service, Inc. If you'd like more details about this practice, or would like to find out how to prevent outside companies from using this information, [click HERE](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp). 
 
@@ -56,4 +56,4 @@ By using the Schwan'sTM Web site, you consent to our use of your information as 
 |  |    
 |   
 ---  
-[](http://www.impromptugourmet.com/)
+[](http://www.impromptugourmet.com/default.aspx?cmp=ILC-S5P839077101)
