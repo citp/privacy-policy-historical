@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2004-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040625125138id_/http%3A//www.theidm.com/index.cfm%3FfuseAction%3DcontentDisplay.%26chn%3D1%26tpc%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209105359id_/http%3A//www.theidm.com/index.cfm%3FfuseAction%3DcontentDisplay.%26chn%3D1%26tpc%3D6) for the most accurate reproduction.*
 
 # The IDM respects and safeguards your privacy
 
