@@ -1,21 +1,12 @@
-> *The following text is extracted and transformed from the sgtsearch.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611212243id_/http%3A//www.sgtsearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgtsearch.com privacy policy that was archived on 2003-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030208014827id_/http%3A//sgtsearch.com/privacy) for the most accurate reproduction.*
 
-# SgtSearch.com - Privacy Policy
+# SgtSearch.com - Search Directory - Privacy Policy
 
-**Quick Link Column**  
-If you are using IE you can make us your Homepage easily:   
-[Click here Now](http://www.sgtsearch.com/) **Update Your Browser**  
-[Internet Explorer](http://www.microsoft.com/windows/ie/downloads/ie6/default.asp)  
-[Netscape Navigator](http://home.netscape.com/computing/download/index.html)  
-[Opera](http://www.opera.com/)  
-[Konqueror](http://www.konqueror.org/)
+**Website Privacy Policy**    [Terms of Use](https://web.archive.org/terms/)   
+SgtSearch respects the privacy of its users and is committed to protecting your personal information. Any information you provide to us is kept in strict confidence and will not be used in ways to which you have not consented. 
 
-|  |  |  |   
-  
-  
----  
-  
-SgtSearch respects the privacy of its users and is committed to protecting your personal information. Any information you provide to us is kept in strict confidence and will not be used in ways to which you have not consented. The information you provide when registering with SgtSearch is used internally to improve our marketing and promotional efforts, statistically analyze site usage, improve our content and product offerings, and customize our site's content and layout. We believe that these uses allow us to improve our site and better tailor it to meet your needs. We also use this personal data to deliver both customized information, such as targeted banners and promotions, and general information, such as newly launched features, to you. You may choose not to have your e-mail address or any other personal information used for customized information delivery. We do not sell, rent, loan, or trade your name, e-mail address, or any other personally identifiable information to others. While we do share non-personal, aggregate statistics about our customers, sales, traffic patterns, and related site information with advertisers and reputable third party vendors for marketing and promotional purposes, none of the information we disclose can be used to personally identify you. Certain information - such as your password and credit card number - is not disclosed in aggregate form at all. By using our web site, you consent to the collection and use of your information by SgtSearch within the policies stated above. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. SgtSearch welcomes all your questions and comments. If you have any questions or concerns about our stated privacy policies, please contact us by sending an email to [Patrick Crampton](mailto:patrick@sgtsearch.com), the founder, if this matter is urgent.   
-|  |  A D V E R T I S E M E N T  
-  
+The information you provide when registering with SgtSearch is used internally to improve our marketing and promotional efforts, statistically analyze site usage, improve our content and product offerings, and customize our site's content and layout. We believe that these uses allow us to improve our site and better tailor it to meet your needs. We also use this personal data to deliver both customized information, such as targeted banners and promotions, and general information, such as newly launched features, to you. 
 
+You may choose not to have your e-mail address or any other personal information used for customized information delivery. We do not sell, rent, loan, or trade your name, e-mail address, or any other personally identifiable information to others. While we do share non-personal, aggregate statistics about our customers, sales, traffic patterns, and related site information with advertisers and reputable third party vendors for marketing and promotional purposes, none of the information we disclose can be used to personally identify you. Certain information - such as your password and credit card number - is not disclosed in aggregate form at all. 
+
+By using our web site, you consent to the collection and use of your information by SgtSearch within the policies stated above. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. SgtSearch welcomes all your questions and comments. If you have any questions or concerns about our stated privacy policies, please contact us by sending an email to [Patrick Crampton](mailto:patrick@sgtsearch.com), the founder, if this matter is urgent. 
