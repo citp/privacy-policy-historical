@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the livephish.com privacy policy that was archived on 2003-08-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030812095956id_/http%3A//www.livephish.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livephish.com privacy policy that was archived on 2004-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040613094337id_/http%3A//www.livephish.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>livephish.com | PRIVACY POLICY</title>
@@ -45,6 +45,7 @@ body{
 	margin-left: 10px;
 	margin-right: 10px;
 }
+
 .updateText {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 10px;
@@ -203,7 +204,7 @@ function launchNugster(sId,mID,cName) {
 
 </script>
 
-		</head><body><csscriptdict>
+		</head><body onload="preloadImages();prepRollovers()"><csscriptdict>
 			<script type="text/javascript"><!--
 
 function newImage(arg) {
@@ -244,31 +245,37 @@ function preloadImages() {
 		
 <script language="javascript">
 //<!--
-var nav_loginoff = new Image();
-nav_loginoff.src = "/images/nav_login.gif";
-var nav_loginOn = new Image();
-nav_loginOn.src = "/images/nav_login_over.gif";
 
-var nav_logoutoff = new Image();
-nav_logoutoff.src = "/images/nav_logout.gif";
-var nav_logoutOn = new Image();
-nav_logoutOn.src = "/images/nav_logout_over.gif";
-
-var nav_viewoff = new Image();
-nav_viewoff.src = "/images/nav_view.gif";
-var nav_viewOn = new Image();
-nav_viewOn.src = "/images/nav_view_over.gif";
-
-var nav_check_outoff = new Image();
-nav_check_outoff.src = "/images/nav_check_out.gif";
-var nav_check_outOn = new Image();
-nav_check_outOn.src = "/images/nav_check_out_over.gif";
-
-function rollover( imagename, objectsrc )
-{
-    if ( document.images )
-        document.images[imagename].src = eval(objectsrc+".src");
-}
+		function prepRollovers() {
+			var rollfound=0;
+			var ext, imgname, noext;
+			if (document.getElementsByTagName) {
+				// grab all the images on a page
+				for (z=0;z<document.getElementsByTagName("img").length;z++) {
+					thisImg = document.getElementsByTagName("img")[z];
+					// check that its got the proper class
+					if (thisImg.className !=null) { // safari seems to break when these two tests are combined
+						if (thisImg.className.indexOf("roll") != -1) {
+							rollfound++;
+							imgname = thisImg.src.toString();					// get the image name
+							noext = imgname.slice(0, imgname.length-4);			// get the image name without extension
+							ext = imgname.slice(imgname.length-4);				// get the extention for this image
+							
+							// define states, preload the image and attach the event handlers
+							thisImg.out = new Image(); thisImg.out.src = thisImg.src;
+							thisImg.over = new Image(); thisImg.over.src = noext + "-over"+ext;
+							thisImg.parentNode.onmouseover = function () {
+								this.getElementsByTagName("img")[0].src = this.getElementsByTagName("img")[0].over.src;
+							};
+							thisImg.parentNode.onmouseout = function () {
+								this.getElementsByTagName("img")[0].src = this.getElementsByTagName("img")[0].out.src;				
+							};
+						}
+					}
+					
+				}
+			}
+		}
 //-->
 </script>
 
@@ -310,55 +317,55 @@ function dDate(inVal) {
 
 
 
-<form action="/privacy.asp" method="post">
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0" width="706">
-<tbody><tr>
-	<td valign="top"><img src="/images/top_lt_header.gif" width="4" height="128" alt="" border="0"></td>
-	<td width="698" align="center">
-		<table border="0" cellspacing="0" cellpadding="0" width="698">
+<!-- TOP NAV and RADIO -->
+<table width="730" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
-			<td align="left" valign="top"><a href="/default.asp"><img src="/images/logo_main.gif" width="134" height="128" alt="" border="0"></a></td>
-			<td>
-				<table border="0" cellspacing="0" cellpadding="0" width="564">
-				<tbody><tr>
-					<td align="left" width="357"><a href="/default.asp"><img src="/images/logo_main_rt.gif" width="357" height="74" alt="" border="0"></a></td>
-					<td width="207" valign="bottom">
-											<table border="0" cellspacing="0" cellpadding="0">
-						<tbody><tr>
-							<td valign="bottom"><a href="#" onclick="loginCmd('login')" onmouseover="rollover('nav_login','nav_loginOn')" onmouseout="rollover('nav_login','nav_loginoff')"><img src="/images/nav_login.gif" width="53" height="39" alt="Log In" name="nav_login" border="0"></a></td>
-							<td valign="bottom"><a href="http://www.livephish.com/pb/nncart.asp?cnd=view" onmouseover="rollover('nav_view','nav_viewOn')" onmouseout="rollover('nav_view','nav_viewoff')"><img src="/images/nav_view.gif" width="71" height="39" alt="My Stash" name="nav_view" border="0"></a></td>
-							<td valign="bottom"><a href="#" onclick="loginCmd('checkoutCart')" onmouseover="rollover('nav_check_out','nav_check_outOn')" onmouseout="rollover('nav_check_out','nav_check_outoff')"><img src="/images/nav_check_out.gif" width="83" height="39" alt="Check Out" name="nav_check_out" border="0"></a></td>
-						</tr>
+			<td width="445">
+						<table width="730" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td width="365"><a href="http://www.livephish.com/default.asp"><img src="/images/head01.gif" alt="" height="124" width="258" border="0"><img src="/images/head01_02.gif" alt="" height="124" width="107" border="0"></a></td>
+								<td><img src="/images/radiologo.gif" alt="" height="58" width="267" border="0"><br>
+									<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" height="45" width="267">
+										<param name="movie" value="/radio/phishRadio.swf">
+										<param name="quality" value="best">
+										<param name="play" value="true">
+										<embed height="45" pluginspage="http://www.macromedia.com/go/getflashplayer" src="/radio/phishRadio.swf" type="application/x-shockwave-flash" width="267" quality="best" play="true">
+									</object><br>
+									<img src="/images/headSpacer.gif" alt="" height="21" width="267" border="0"></td>
+								<td><img src="/images/header04.gif" alt="" height="124" width="98" border="0"></td>
+							</tr>
 						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td colspan="2">	
-						<table border="0" cellspacing="0" cellpadding="0">
-						<tbody><tr><td align="left" valign="bottom" bgcolor="#66666" width="18"><img src="/images/logo_corner_lt.gif" width="18" height="54" alt="" border="0"></td>
-						<td align="left" bgcolor="#666666" width="546" class="headText"></td>
-						</tr></tbody></table>
-					</td>
-				</tr>
+					</td></tr>
+		<tr><td><img src="/images/inside_spacer.gif" alt="" height="22" width="730" border="0"></td>
+		</tr>
+				<tr><td width="445" background="/images/nav_bg.gif">
+				<table width="730" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td width="203"><a href="#" onclick="loginCmd('login')"><img src="/images/inside_login.gif" alt="LOGIN" height="28" width="78" border="0" class="roll"></a><a href="http://www.livephish.com/pb/myaccount.asp"><img src="/images/inside_stash.gif" alt="" height="28" width="78" border="0" class="roll"></a><a href="http://www.livephish.com/faq.asp"><img src="/images/inside_faq.gif" alt="" height="28" width="43" border="0" class="roll"></a></td>
+						<td align="right" width="216"><img src="/images/inside_search.gif" alt="" height="28" width="79" border="0"></td>
+						<td align="right" width="159"><div id="insideSearch"><form name="searchSongs" action="/search/default.asp" method="post"><input type="text" name="song" size="24" style="font-size:10px;height:17px;"></form></div></td><td align="right" width="140"><input type="image" src="/images/search_btn.gif" alt="SEARCH" height="28" width="139" border="0"></td>
+					</tr>
 				</tbody></table>
-
 			</td>
 		</tr>
-		</tbody></table>
+		<tr>
+		<td><img src="/images/nav_wrap_spacer.gif" alt="image" width="730"></td>
+		</tr>
+</tbody></table>
 
-	</td>
-	<td bgcolor="#cccccc"><img src="/images/top_rt_header.gif" width="4" height="128" alt="" border="0"></td>
-</tr>
-<tr><!-- Main content area -->
-	<td bgcolor="#cccccc"><img src="/images/common_trans_spacer.gif" width="4" height="1" border="0"></td>
-	<td bgcolor="#666666" width="698" align="center">
+<!-- END TOP NAV and RADIO -->
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="706">
+<tbody><tr><!-- Main content area -->
+	<td bgcolor="#8E8E8E"><img src="/images/common_trans_spacer.gif" width="4" height="1" border="0"></td>
+	<td bgcolor="#5B5B5B" width="698" align="center">
 		<table border="0" cellspacing="0" cellpadding="0" width="674">
 		<tbody><tr>
 			<td>
 				<table border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td valign="top"><img src="/images/corner_lt_top.gif" width="24" height="33" alt="" border="0"></td>
+					<td valign="top"><img src="images/corner_lt_top.gif" width="24" height="33" alt="" border="0"></td>
 					<td width="378">
 						<table border="0" cellspacing="0" cellpadding="0" width="378">
 						<tbody><tr>
@@ -366,7 +373,7 @@ function dDate(inVal) {
 						</tr>
 						<tr>
 							<td bgcolor="#1C4581" valign="middle"><img src="/images/common_trans_spacer.gif" width="1" height="25" alt="" border="0"></td>
-							<td bgcolor="#1C4581" valign="middle" class="gold11"><a href="/default.asp" class="grey11">HOME -&gt;</a> PRIVACY POLICY</td>
+							<td bgcolor="#1C4581" valign="middle" class="gold11"><a href="/default.asp" class="grey11">HOME -&gt;</a> <a href="http://www.livephish.com/stash.asp?" class="grey11">SHOW CATALOG-&gt;</a> PRIVACY POLICY</td>
 						</tr>
 						<tr>
 							<td bgcolor="#cccccc" colspan="2"><img src="/images/common_trans_spacer.gif" width="1" height="4" border="0"></td>
@@ -378,18 +385,18 @@ function dDate(inVal) {
 						<tbody><tr>
 							<td bgcolor="#cccccc" colspan="3" width="272"><img src="/images/common_trans_spacer.gif" width="272" height="4" border="0"></td>
 						</tr>
-											<tr>
+						<tr>
 							<td width="1" bgcolor="#1C4581"><img src="/images/common_trans_spacer.gif" width="1" height="25" alt="" border="0"></td>
-							<td valign="middle" bgcolor="#1C4581" class="feaTextgrey" width="267">&nbsp;&nbsp;<b><a href="http://www.livephish.com/pb/myaccount.asp" class="grey11b">MY STASH</a> | <a href="http://www.livephish.com/howitworks.asp" class="grey11b">HOW IT WORKS</a> | <a href="http://www.livephish.com/faq.asp" class="grey11b">FAQ</a></b></td>
+							<td valign="middle" align="right" bgcolor="#1C4581" class="grey11" width="267"><a class="grey11b" href="http://www.livephish.com/pb/nncart.asp?cnd=view">VIEW CART</a> | <a class="grey11b" href="#" onclick="loginCmd('checkoutCart')">CHECKOUT</a>&nbsp;&nbsp;</td>
 							<td bgcolor="#cccccc" width="4"><img src="/images/common_trans_spacer.gif" width="4" height="1" border="0"></td>
 						</tr>
 						<tr>
 							<td bgcolor="#cccccc" colspan="3" width="272"><img src="/images/common_trans_spacer.gif" width="272" height="4" border="0"></td>
 						</tr>
-						</tbody></table>					
+						</tbody></table>
 					</td>
-				</tr>				
-				</tbody></table>			
+				</tr>
+				</tbody></table>
 			</td>
 		</tr>
 		</tbody></table>
@@ -414,11 +421,11 @@ function dDate(inVal) {
 						<td bgcolor="#2F2F2F"><img src="/images/common_trans_spacer.gif" width="3" height="1" border="0"></td>
 				    	<td bgcolor="#2F2F2F" class="white12">
 						<!-- TEXT STARTS HERE -->
-							
-Thank you for visiting the LivePhish.com website. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at LivePhish.com. 
+
+Thank you for visiting the LivePhish.com website. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at LivePhish.com.
 <br><br>
 <b>The Information We Collect</b><br>
-At the LivePhish.com website, you can order products, express an opinion, subscribe to potential services such as online newsletters. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information. 
+At the LivePhish.com website, you can order products, express an opinion, subscribe to potential services such as online newsletters. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information.
 <br><br>
 At certain parts of some of our site, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 <br><br>
@@ -427,9 +434,9 @@ We also may collect certain non-personally identifiable information when you vis
 <b>How We Use the Information</b><br>
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 <br><br>
-We sometimes use this information to communicate with you, such as to notify you when a concert you have purchased is available for download or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
+We sometimes use this information to communicate with you, such as to notify you when a concert you have purchased is available for download or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
 <br><br>
-The information we collect in connection with our website is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you new products, programs, or services. 
+The information we collect in connection with our website is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you new products, programs, or services.
 <br><br>
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
 <br><br>
@@ -437,14 +444,14 @@ We may disclose personally identifiable information in response to legal process
 <br><br>
 Agents and contractors of LivePhish.com who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for LivePhish.com.
 <br><br>
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. 
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 <br><br>
- Finally, the LivePhish.com website will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
+ Finally, the LivePhish.com website will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 <br><br>
 <b>Cookies</b><br>
-To enhance your experience with our website, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.  
+To enhance your experience with our website, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 <br><br>
-We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at LivePhish.com (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our website. 
+We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at LivePhish.com (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our website.
 <br><br>
 <b>Our Commitment to Security</b><br>
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
@@ -453,7 +460,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 If you have any questions or concerns about the LivePhish.com online policy for this site or its implementation you may contact us at <a href="mailto:webmaster@livephish.com" class="white12">webmaster@livephish.com </a>.
 
 
-						
+
 						<!-- TEXT ENDS HERE -->
 						</td>
 					</tr>
@@ -470,27 +477,30 @@ If you have any questions or concerns about the LivePhish.com online policy for 
 			<table border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
 				<td bgcolor="#CCCCCC" width="4"><img src="/images/common_trans_spacer.gif" width="4" height="1" border="0"></td>
-				<td bgcolor="#666666"><img src="/images/end_line_cart.gif" width="666" height="33" border="0"></td>
-				<td bgcolor="#CCCCCC" width="4"><img src="/images/common_trans_spacer.gif" width="4" height="1" border="0"></td>
-			</tr>
-			<tr><!-- need new launch button -->
-				<td colspan="3"><img src="/images/launch_button_show_catalog.gif" width="674" height="85" alt="" border="0" usemap="#Phish Links"></td>
-			</tr>
+				<td bgcolor="#666666"><img src="images/end_line_cart.gif" width="670" height="33" border="0"></td>
+						</tr>
 			<tr>
-				<td colspan="3" bgcolor="#666666"><img src="/images/common_trans_spacer.gif" width="1" height="15" border="0"></td>
+				<td colspan="3" bgcolor="#5B5B5B"><img src="/images/common_trans_spacer.gif" width="1" height="15" border="0"></td>
 			</tr>
 			</tbody></table>
 		</td>
 		</tr>
-		</tbody></table>	
+		</tbody></table>
 		<!-- End common bottom area -->
 		<!-- ****************** -->
 <!-- End of main content area -->
 	</td>
-	<td bgcolor="#cccccc"><img src="/images/common_trans_spacer.gif" width="4" height="1" border="0"></td>
+	<td bgcolor="#8E8E8E"><img src="/images/common_trans_spacer.gif" width="4" height="1" border="0"></td>
 </tr>
-<tr>
-	<td colspan="3" bgcolor="#cccccc"><img src="/images/common_trans_spacer.gif" width="1" height="4" border="0"></td>
+
+<tr><td colspan="3">
+<table width="706" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr><td valign="top" width="706"><img src="images/inside_bot.gif" alt="" height="27" width="706" border="0"></td>
+	</tr>
+	<tr><td valign="top" width="706"><a href="http://phish.com/news/index.php?year=2003#story150" target="_blank"><img src="/images/footer.gif" alt="" height="85" width="470" border="0" class="roll"></a><a href="http://www.phish.com" target="_blank"><img src="/images/site.gif" alt="" height="85" width="79" border="0" class="roll"></a><a href="http://cds.livephish.com" target="_blank"><img src="/images/cds.gif" alt="" height="85" width="87" border="0" class="roll"></a><img src="/images/footerSpacer.gif" alt="" height="85" width="70" border="0"></td>
+	</tr>
+</tbody></table>
+</td>
 </tr>
 </tbody></table>
 </div>
@@ -504,10 +514,6 @@ If you have any questions or concerns about the LivePhish.com online policy for 
 
 <p class="footer" align="center">powered by nugs.net</p>
 
-<map name="Phish Links">
-<area alt="Live Phish CD'S" coords="28,19,164,53" href="http://cds.livephish.com" target="_blank">
-<area alt="Phish.com" coords="44,57,171,87" href="http://www.phish.com" target="_blank">
-</map>
 
 
-</form></body></html>
+</body></html>
