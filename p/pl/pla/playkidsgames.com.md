@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the playkidsgames.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603145426id_/http%3A//playkidsgames.com/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playkidsgames.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210165507id_/http%3A//www.playkidsgames.com/statement.htm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Play Kids' Games -- Kids Games On Line - kids games, alphabet games, math games, letter games, addition games, subraction games, K12, education, multiplication games, division games, letter, alphabet, spelling , learning games, educational games, word, java games, applets, children, kids, child games, child, spelling, games, alphabet,baby, kids.com, learning, www.play, kids games to play, games to play
 
-##  Privacy Statement for Play Kids' Games 
+##  Privacy Statement for Play Kids Games 
 
-**Play Kids' Games** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Play Kids' Games ](http://www.playkidsgames.com/)
+**Play Kids Games** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Play Kids Games ](http://www.playkidsgames.com/)
 
 ####  Information Automatically Logged 
 
@@ -20,7 +20,7 @@ We do not require any personal information on this Web site. If e-mail address o
 
 ####  External Links 
 
-This site contains links to other sites. **Play Kids' Games** is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. **Play Kids Games** is not responsible for the privacy practices or the content of such Web sites. 
 
 ####  Security 
 
