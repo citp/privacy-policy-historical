@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentawards.com privacy policy that was archived on 2000-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000503162940id_/http%3A//www.studentawards.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentawards.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213094100id_/http%3A//studentawards.com/privacy.htm) for the most accurate reproduction.*
 
 # StudentAwards.com - Privacy Policy
 
