@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hughes.net privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609031835id_/http%3A//www.hughes.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hughes.net privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206225900id_/http%3A//hughes.net/legal/privacy.html) for the most accurate reproduction.*
 
 # hughes.net - People Make The Difference
 
@@ -10,7 +10,7 @@ When you browse hughes.net’s web site, you do so anonymously. We don’t colle
 
 At times we may request that you **voluntarily** supply us with personal information, such as your e-mail address and postal address, for purposes such as corresponding with us, making a purchase, or entering a sweepstakes. When you enter a sweepstakes with hughes.net, for example, we collect the serial number and your name, address, and e-mail address. 
 
-Like many other commercial web sites, the hughes.net web site may use a standard technology called a "cookie" to collect information about how you use the site. Please read [About Cookies](https://web.archive.org/web/20000609031835id_/http%3A//www.hughes.net/legal/aboutcookies.html) for more information.
+Like many other commercial web sites, the hughes.net web site may use a standard technology called a "cookie" to collect information about how you use the site. Please read [About Cookies](https://web.archive.org/web/20001206225900id_/http%3A//hughes.net/legal/aboutcookies.html) for more information.
 
  **Information Use**  
 If you provide us with your e-mail or postal address, or have done so in the past, we will ask you if we can use it to send you updates on the latest hughes.net products and promotions. We may use information you have given to us, for example, to provide a service, and inform you about new products and services. These offers may be based on information you provided in your initial transaction with us or in surveys. 
