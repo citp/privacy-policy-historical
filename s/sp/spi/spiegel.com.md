@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiegel.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018044734id_/http%3A//www.spiegel.com/customer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiegel.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408050352id_/http%3A//www.spiegel.com/customer/privacy.asp) for the most accurate reproduction.*
 
 # Spiegel: About Spiegel
 
@@ -6,7 +6,7 @@ This is the Privacy Policy for Spiegel Catalog, Inc.
 
 Shopping on-line has changed our lives. At Spiegel your trust and satisfaction is of the utmost importance. Because we respect your privacy, we have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner. 
 
-We suggest that you review this Privacy Statement periodically as we may update it from time to time. This policy was last revised on 9/18/00. 
+We suggest that you review this Privacy Statement periodically as we may update it from time to time. This policy was last revised on December 21, 2000. 
 
 **WHAT INFORMATION DO WE COLLECT?** **  
 ****HOW DO WE USE YOUR INFORMATION?** **  
@@ -42,13 +42,13 @@ The information we collect is used:
 
 When you supply us with personal information on-line to request a catalog or order a product, the information you provide will be added to our customer file. You may receive periodic mailings or telephone contact from us with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not want to receive such mailings or telephone contact from us, then please Click Here. 
 
-When you supply us with your e-mail address in order to make a purchase, we send you confirmation through e-mail. At this time, we do not share your e-mail address with third parties.
+When you supply us with your e-mail address in order to make a purchase, we send you confirmation through e-mail. 
 
 We may send you e-mail with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not wish to receive such e-mail in the future, please Click Here or, click on the "opt-out" link on any e-mail you receive from us. 
 
 We may provide your name and address (but not your e-mail address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" list. Please Click Here if you do not want us to share this information. 
 
-In some instances, we use third party vendors to help us in providing our products and services to you. Some of these vendors are given access to some or all of the information you provide to us. These vendors are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our site.
+In some instances, we use third party vendors to help us in providing our products and services to you. Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use cookies on our behalf. These vendors are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our site.
 
 Return to top.
 
@@ -56,7 +56,7 @@ Return to top.
 
 **WHAT ARE COOKIES?**
 
-Most Internet sites, including ours, collect data about visitors through the use of "cookies". Cookies are small software programs that help sites recognize repeat visitors by assigning a random number to each desktop for anonymously tracking content preferences and traffic patterns. We use cookies to store preferences and record session information, such as items that you add to your cart. Cookies do not provide your identity and we do not know who you are unless you voluntarily decide to provide such information to us. We do not use cookies to retrieve personal or credit card information about you. If you wish to purchase from our site, you must accept the cookie so that we can securely process your order. 
+Most Internet sites, including ours, collect data about visitors through the use of "cookies". Cookies are small software programs that help sites recognize repeat visitors by assigning a random number to each desktop for tracking content preferences and traffic patterns. We use cookies to connect your computer with the information we store for you at a separate location. Some examples of this information include your account preferences, items added to your shopping cart, user specific information on pages accessed and previous visits to our site. We do not use cookies to store any of your personal or financial information on your computer. If you wish to purchase from our site, you must accept the cookie so that we can securely process your order. 
 
 Return to top.
 
@@ -64,7 +64,13 @@ Return to top.
 
 **WHO IS COLLECTING INFORMATION?**
 
-When you are on our site and are asked for personal information, you are sharing that information with us alone, unless it is specifically stated otherwise. 
+When you are on our site and are asked for personal information, you are sharing that information with us alone (or one of our third party vendors), unless it is specifically stated otherwise. 
+
+If you make a purchase from a Merchant Site with a link originating from the Spiegel eMarket site or a Merchant catalog presented by Spiegel, the information you provide to that Merchant, and any other information you give such as your credit card number and contact information, is provided to the Merchant and not to Spiegel. Providing this information to the Merchant enables the transaction to take place. However, you should know that the Merchant may, if you do not advise them to the contrary, share your name and postal and email addresses with third parties, including Spiegel.
+
+Merchants on the Spiegel eMarket site and those Merchants, who send catalogs presented by Spiegel, have separate privacy and data collection practices. We have no control over and therefore no responsibility or liability for these independent policies. For more information regarding Spiegel eMarket Merchants or other Merchants who send catalogs presented by Spiegel and their privacy policies, please see the Merchant’s home page and click on their Information link or review the customer service section of any catalog you may receive from the Merchant. For a complete listing of the Spiegel eMarket Merchants, [Click Here.](http://www.spiegel.com/emarket/merchant.asp)
+
+Merchants on the Spiegel eMarket site that have links on our site may collect personally identifiable information about you. The information practices of these Merchants are not covered by the Spiegel privacy statement.
 
 Return to top.
 
