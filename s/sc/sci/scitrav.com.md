@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010093650id_/http%3A//www.scitrav.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621140627id_/http%3A//www.scitrav.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Science Traveller International
 
@@ -33,7 +33,7 @@ When purchasing or exchanging sensitive information on-line, security is a prima
 
 We use [LinkPoint](http://www.linkpoint.com/), a leading provider of Internet payment technologies, to verify and process credit cards. All transactions with LinkPoint are heavily encrypted and cannot be read by any third parties. We do NOT keep a copy of your credit card number. 
 
-|  [ ](https://digitalid.verisign.com/as2/37aa44461a6faf4fc0cedb0fe6d57158)  
+|  [ ](https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=3578b71df9cb4b83c0c210ee107780c8)  
 ---|---  
   
 **Security**  
