@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607145820id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205215523id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.*
 
 # SAIC: Privacy Statement
 
-Your privacy, and the privacy of all users of www.saic.com is of the highest priority. This privacy statement explains what information we gather from you, how it may be used by us and how it is protected. If you have any questions, please contact our [Web Master](http://contacts.saic.com/contactsaic.nsf/contact2?OpenForm&Topic=Webmaster).
+Your privacy, and the privacy of all users of www.saic.com is of the highest priority. This privacy statement explains what information we gather from you, how it may be used by us and how it is protected. If you have any questions, please contact our [Web Master](https://web.archive.org/tools/contactForm.html).
 
 If you request information from www.saic.com through our On-Line Contact Form, we ask for and store the business-related information you provide (such as name, email, corporate profile, etc.) to assist us in responding to your request. This information is used for business contacts only. We will not knowingly collect or use personal identifying information from children younger than 13 without parental consent.
 
