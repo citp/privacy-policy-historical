@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigernt.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408103125id_/http%3A//tigernt.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigernt.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603191742id_/http%3A//www.tigernt.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -44,7 +44,5 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 ##  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [Support](https://web.archive.org/contact.php)  
 
-
-[ mxu@tigernt.com ](mailto:mxu@tigernt.com)
