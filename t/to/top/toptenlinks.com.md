@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204194501id_/http%3A//toptenlinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208040011id_/http%3A//www.toptenlinks.com/privacy) for the most accurate reproduction.*
 
 # Top10Links - best web sites in over 1000 categories! Find the top web sites fast!
 
@@ -7,9 +7,7 @@
   
 We have created this privacy policy in order to demonstrate our firm commitment to your privacy while visiting our web site. The following discloses our information gathering and dissemination practices. It is updated whenever our privacy policy is modified.
 
-If you have any questions regarding this policy or you think we are not abiding by our posted privacy policy, please send your concerns to us through our [feedback form](https://web.archive.org/contact-us/).
-
-**Engage Statement**  
+If you have any questions regarding this policy or you think we are not abiding by our posted privacy policy, please send your concerns to us through our [feedback form](https://web.archive.org/contact-us/).  
   
 **Information This Site Collects:**  
   
@@ -216,11 +214,7 @@ will be used in the aggregate by Top10Links and individually, by [Recommend-It](
 
 \- We may use a feature of your browser to set a "cookie" on your computer. Usage of a cookie is in no way linked to any personally identifiable information while on our site. In most cases, once you close your browser, the cookie simply terminates.
 
-This allows us to measure and report aggregate information to advertisers such as the number of people who see their ad (reach) and the number of times people see their ad (frequency). It also allows us to avoid delivering the same ad too many times. If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept.
-
-This site, Top10Links, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to:
-
-<http://www.engage.com/privacy>  
+This allows us to measure and report aggregate information to advertisers such as the number of people who see their ad (reach) and the number of times people see their ad (frequency). It also allows us to avoid delivering the same ad too many times. If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept.  
   
 **Sharing Of The Information This Site Collects:**  
   
@@ -329,4 +323,4 @@ Browser version is a number the browser developers assign to their software prog
   
 |  **Featured Site**  
 ---  
-[](https://web.archive.org/go.php?siteid=936143353)
+[](https://web.archive.org/go.php?siteid=936143356)
