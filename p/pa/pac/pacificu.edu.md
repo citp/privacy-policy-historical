@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pacificu.edu privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208210834id_/http%3A//www.pacificu.edu/offices/ur/public_affairs/web/policies/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacificu.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403190204id_/http%3A//www.pacificu.edu/offices/ur/public_affairs/web/policies/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Pacific University: Public Affairs
 
-[Policies](https://web.archive.org/web/20041208210834id_/http%3A//www.pacificu.edu/offices/ur/public_affairs/web/policies/index.cfm) » Privacy Policy
+[Policies](https://web.archive.org/web/20050403190204id_/http%3A//www.pacificu.edu/offices/ur/public_affairs/web/policies/index.cfm) » Privacy Policy
 
 ## Pacific University Web Privacy Policy
 
