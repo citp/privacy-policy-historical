@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the proflowers.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207065608id_/http%3A//www.proflowers.com/cfm/PrivacyPolicy.cfm%3Flng%3D%26REF%3D%26validAcc%3D%26selectionTypeID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proflowers.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723065709id_/http%3A//www.providecommerce.com/privacy.aspx) for the most accurate reproduction.*
 
 # provide commerce - privacy
 
 | 
 
-[](https://web.archive.org/web/20031204163823id_/http://www.providecommerce.com/CustomerOfferings_Proflowers.aspx)
+[](https://web.archive.org/web/20040630174651id_/http%3A//www.providecommerce.com/CustomerOfferings_Proflowers.aspx)
 
-[](https://web.archive.org/web/20031204163823id_/http://www.providecommerce.com/CustomerOfferings_CherryMoonFarms.aspx)
+[](https://web.archive.org/web/20040630174651id_/http%3A//www.providecommerce.com/CustomerOfferings_CherryMoonFarms.aspx)
 
-[](https://web.archive.org/web/20031204163823id_/http://www.providecommerce.com/CustomerOfferings_UptownPrime.aspx)
+[](https://web.archive.org/web/20040630174651id_/http%3A//www.providecommerce.com/CustomerOfferings_UptownPrime.aspx)
 
 |  | 
 
