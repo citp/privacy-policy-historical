@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwest.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603132044id_/http%3A//qwest.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwest.com privacy policy that was archived on 2002-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021129193730id_/http%3A//www.qwest.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Qwest | Legal Notices
 
