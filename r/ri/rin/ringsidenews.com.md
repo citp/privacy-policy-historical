@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605075520id_/http%3A//www.ringsidenews.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207171219id_/http%3A//www.ringsidenews.com/privacy.shtml) for the most accurate reproduction.*
 
-# RingsideNews.com - Privacy Policy
+# Privacy Policy
 
-  | **Privacy Policy**  
-  
+|  |   | 
+
+**Privacy Policy**
+
 To view our legal information, click [here](https://web.archive.org/legal.shtml). 
 
 RingsideNews.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: RingsideNews.com 
@@ -26,4 +28,5 @@ You can send email to steven@ringsidenews.com
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [Steven David](mailto:steven@stevendavid.com)
 
 
-
+  
+---|---|---
