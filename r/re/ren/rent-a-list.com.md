@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212172931id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627061213id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
 
 # Website Promotion Tools By Multiple Stream Media.
 
