@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204105421id_/http%3A//www.physioroom.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403153114id_/http%3A//www.physioroom.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # PhysioRoom.com: SPORTS INJURY SHOP, NEWS & ADVICE
 
@@ -15,14 +15,8 @@ Stay up-to-date with the free PhysioRoom.com newsletter.
   
 
 
-ADVERTISEMENT
-
-  
-
-
-ADVERTISEMENT
-
-[ ](http://www.bid-london2012.co.uk/redir/?affid=21717&im=112)
+ADVERTISEMENT  
+[ ](https://web.archive.org/cgi-bin/adserver.pl?id=71&do=adclick)
 
   
 
