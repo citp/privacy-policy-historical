@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208165334id_/http%3A//www.investmentu.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402014901id_/http%3A//investmentu.com/privacy.cfm) for the most accurate reproduction.*
 
 # www.InvestmentU.com: What No Books, No Schools and No Brokers Can Teach You
 
