@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediamatters.org privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212010008id_/http%3A//mediamatters.org/etc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediamatters.org privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207173141id_/http%3A//mediamatters.org/etc/privacy-policy.html) for the most accurate reproduction.*
 
 # Media Matters for America
 
