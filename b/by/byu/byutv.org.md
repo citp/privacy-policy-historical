@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204210205id_/http%3A//www.byutv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417173936id_/http%3A//byutv.org/privacy) for the most accurate reproduction.*
 
 # BYU Television | Privacy Policy
 
@@ -20,11 +20,11 @@
  [KBYUFM.org](http://www.kbyufm.org/)  
  [BYUTV.org](http://www.byutv.org/ "Visit the BYUTV Web Site")  
  [BYURadio.org](http://www.byuradio.org/ "Visit the BYURadio Web Site")  
- [Store](https://www2.kbyu.org/store/)  
- [Membership](https://www2.kbyu.org/membership/byutvnew.asp)  
+ [Store](https://bcssecure.byu.edu/store/)  
+ [Membership](https://bcssecure.byu.edu/membership/byutvnew.asp)  
   
 |  |    
-  
+[Print Page ](https://web.archive.org/web/20030417173936id_/http://www.byutv.org/privacy/?print=true) | Send to a Friend    
 Privacy Policy   
 
 
@@ -38,7 +38,7 @@ BYUtv.org employs the use of the latest encryption technology for transmitting i
 [ ](https://digitalid.verisign.com/as2/49888d545b4a6043d72f397acc740588)
 
 **What about cookies?**  
-Cookies are a feature of your Web browser that allow Websites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, or that you have already registered. byutv.org does use cookies for the purpose of storing your preferences for listings layout and time zone, but for no other reason. However, because we do offer hyperlinks to other sites of interest, there is the possibility that one of those Websites may use cookies. Most internet browsers are automatically set to accept cookies. If you are concerned about the placement of cookies on your computer, you can set your browser to alert you when cookies are being sent.
+Cookies are a feature of your Web browser that allow Websites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, or that you have already registered. byutv.org uses cookies for the purpose of storing your preferences for our listings layout and your preferred time zone, but for no other reason. However, because we do offer hyperlinks to other sites of interest, there is the possibility that one of those Websites may use cookies. Most internet browsers are automatically set to accept cookies. If you are concerned about the placement of cookies on your computer, you can set your browser to alert you when cookies are being sent.
 
 **What about internet protocol addresses?**  
 We do log IP addresses for use in our own internal evaluation of the website, to bring users better options, and a better website. An IP address is the unique number assigned to your server or Internet Service Provider ("ISP"). IP addresses do not identify you personally. We never share this information with outside sources, and use it only for internal statistical analysis of the traffic on our website.
