@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrongdiagnosis.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrongdiagnosis.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,7 +79,7 @@ Your use of the site constitutes acceptance of the provisions of this Privacy St
 
 ## Terms of Use
 
-Please read our [_Terms of Use_](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/crtop/termsofuse.htm) for other terms and conditions governing your use of the WrongDiagnosis.Com Web site. Continued use of our web site constitutes acceptances of these terms and conditions of use. 
+Please read our [_Terms of Use_](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm) for other terms and conditions governing your use of the WrongDiagnosis.Com Web site. Continued use of our web site constitutes acceptances of these terms and conditions of use. 
 
 ## Contacting the Web Site
 
@@ -89,13 +89,13 @@ _Privacy Statement version 1.3: Last revised March 6, 2003. Copyright © WrongDi
 
 * * *
 
-[](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/crtop/privacypolicy_printer.htm)   [](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/crtop/termsofuse.htm) [](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/crtop/toc.htm) [](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/admin/adpolicy.htm)   
+[](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/privacypolicy_printer.htm)   [](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm) [](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/toc.htm) [](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/admin/adpolicy.htm)   
 
 
 * * *
 
-Did we miss something? Please [tell your story](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/crtop/tellstory.htm) or provide [feedback or suggestions](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/crtop/feedback.htm). 
+Did we miss something? Please [tell your story](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/tellstory.htm) or provide [feedback or suggestions](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/feedback.htm). 
 
 * * *
 
-By using this site you agree to our [Terms of Use](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/crtop/termsofuse.htm) and [Disclaimers](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/crtop/termsofuse.htm#disclaim). Information provided on this site is for informational purposes only; it is not intended as a substitute for advice from your own medical team. The information on this site is not to be used for diagnosing or treating any health concerns you may have - please contact your physician or health care professional for all your medical needs. Please see our [Terms of Use](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/crtop/termsofuse.htm) and [Disclaimers](https://web.archive.org/web/20040616201505id_/http%3A//www.wrongdiagnosis.com/crtop/termsofuse.htm#disclaim). 
+By using this site you agree to our [Terms of Use](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm) and [Disclaimers](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm#disclaim). Information provided on this site is for informational purposes only; it is not intended as a substitute for advice from your own medical team. The information on this site is not to be used for diagnosing or treating any health concerns you may have - please contact your physician or health care professional for all your medical needs. Please see our [Terms of Use](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm) and [Disclaimers](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm#disclaim). 
