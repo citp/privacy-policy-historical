@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creationsrewards.net privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622090811id_/http%3A//www.creationsrewards.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationsrewards.net privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205020817id_/http%3A//www.creationsrewards.net/privacy.asp) for the most accurate reproduction.*
 
 # CreationsRewards.Net Welcomes You!
 
