@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgcareers.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054621id_/http%3A//www.pg.com/privnotice/privacyhighlights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgcareers.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602210938id_/http%3A//www.pg.com/privnotice/privacyhighlights.html) for the most accurate reproduction.*
 
 # Procter & Gamble Privacy Notice
 
@@ -27,6 +27,6 @@ For more information about our privacy policy, go to the privacy statement on ou
 Or write us at: 
 
 P&G Privacy Team  
-One Procter & Gamble Plaza  
+Two Procter & Gamble Plaza  
 TN-7  
 Cincinnati, OH 45202
