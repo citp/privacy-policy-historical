@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalconnection.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609080105id_/http%3A//www.aahanet.org/About_aaha/About_Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalconnection.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207013134id_/http%3A//www.aahanet.org/About_aaha/About_Privacy.html) for the most accurate reproduction.*
 
 # AAHAnet.org Privacy Statement
 
