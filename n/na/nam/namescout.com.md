@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206054849id_/http%3A//www.namescout.com/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204194135id_/http%3A//www.namescout.com/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**Privacy Statement**  
-(Version. 1.0)
+(Version 1.1 - Febuary 14, 2002) 
 
 **Why A Privacy Statement?**
 
@@ -33,7 +32,7 @@ We respect your individual privacy. That is why we have adopted this Privacy Sta
   * uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
   * provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
 
-**__ensuring__ accountability** to individuals who believe that Namescout.com has not complied with these privacy principles.
+**__ensuring__ accountability** to individuals who believe that Namescout.com has not complied with these privacy principles. 
 
 If you have any questions regarding this Privacy Statement, please contact [service@namescout.com](mailto:service@namescout.com).
 
@@ -41,7 +40,7 @@ If you have any questions regarding this Privacy Statement, please contact [serv
 
 Namescout.com is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are a leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [http://www.namescout.com](http://www.namescout.com/) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at[ https://www.namescout.com/](https://www.namescout.com/) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
 
 After you've signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
 
@@ -53,7 +52,7 @@ As a domain name registrar, we compile and maintain a publicly accessible regist
 
 **Information Corrections Or Changes**
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The instructions for doing this can be found on our Web site at [http://www.namescout.com](http://www.namescout.com/). You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail.
+You have the ability to correct or change certain information in our records, such as your address and contact information. The instructions for doing this can be found on our Web site at <https://www.namescout.com/>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail.
 
 **How We Put Information To Good Use**
 
@@ -69,13 +68,13 @@ Finally, we use the information we collect to direct important notices and infor
 
 **With Whom We May Share Information**
 
-When you register or reserve a domain name through us, our registrar unit must disclose information about your domain name, your contact details, and the domains associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. 
+When you register or reserve a domain name through us, our registrar unit must disclose information about your domain name, your contact details, and the domains associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet.
 
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other necessary services that you require. Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation or arbitration proceedings directly relating to a domain name registration or other services we provide.
+We may share certain information about you with those of our vendors who are responsible for handling your account or performing other necessary services that you require. Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with reasonable dispute resolution mechanisms, litigation or arbitration proceedings directly relating to a domain name registration or other services we provide. In the event that certain services provided to you by or through Namescout.com or one of its business partners, are to be provided to you by a substitute service provider, your information may be transferred to the substitute service provider provided that such substitute entity agreeds to be bound by the terms of this privacy statement in effect at the time of performance of the services.
 
-As noted above, our domain name registrar unit currently makes certain information about you available to the general public via our domain name registration database look- up and directory services. These services give users access to such data on a query-by- query basis. Qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to enable or otherwise support the transmission of mass unsolicited commercial advertising or solicitations via email; or (ii) sell or redistribute the data to third parties. 
+As noted above, our domain name registrar unit currently makes certain information about you available to the general public via our domain name registration database look-up and directory services. These services give users access to such data on a query-by-query basis. Qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to enable or otherwise support the transmission of mass unsolicited commercial advertising or solicitations via email; or (ii) sell or redistribute the data to third parties. 
 
-Additionally, we may share the information stored on that database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. Please note, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+Additionally, we may share the information stored on that database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. We may collect your information and aggregate it with other data for statistical purposes, and share such aggregated data with other business partners. Please note, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
 
 **Our Accountability To You**
 
@@ -93,7 +92,7 @@ Additionally, our information management systems are configured in such a way as
 
 Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
 
-If you feel that Namescout.com, or any of our agents, representatives or employees, is violating this Privacy Statement, please contact us via e-mail at [service@namescout.com](mailto:service@namescout.com), by telephone at +1 (613) 768-5140, or by postal mail at:
+If you feel that Namescout.com, or any of our agents, representatives or employees, is violating this Privacy Statement, please contact us via e-mail at [service@namescout.com](mailto:service@namescout.com), by telephone at +1 613 768 5140, or by postal mail at:
 
 Namescout Corp.  
 Whitepark House  
