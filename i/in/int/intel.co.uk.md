@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intel.co.uk privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606171657id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3Dukintelhome%2Bprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intel.co.uk privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408164550id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3DukHomepage%2BFooter_Privacy%26) for the most accurate reproduction.*
 
 # Intel Privacy Policy
 
@@ -6,7 +6,9 @@ Intel is committed to user privacy in our products and services. This policy out
 
 This policy covers Intel's corporate web sites. Some of our subsidiaries or programs have their own, possibly different, policies (see lists at right). 
 
-Intel encourages you to read this privacy policy and those of all web sites you visit. Below is a summary of Intel's online privacy policy. 
+Intel encourages you to read this privacy policy and those of all web sites you visit. These items from Intel's online privacy policy are addressed on this page. 
+
+* * *
 
 **Types and uses of personal information.**  
 Your personal information is used in the following ways: 
@@ -46,7 +48,7 @@ Check out the [FTC's site](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/ind
 **Cookies.**  
 Most Intel Web sites use _cookies_. Cookies help us provide a better user experience by measuring which Web site areas are of greatest interest. Intel also uses cookies when you register for one of our Web programs. In this situation, a cookie will store useful information that enables our Web site to remember you when you return. Intel can only read cookies from Intel Web sites. 
 
-If you choose to disable cookies in your browser, you can still access most of our Web sites. Some Web sites will not allow you to complete certain activities if cookies are disabled. For example, our consumer e-commerce site uses session cookies and persistent cookies to process transactions. If people you do not accept cookies, the associated shopping bag will not work and you would not be able to order. 
+If you choose to disable cookies in your browser, you can still access most of our Web sites. Some Web sites will not allow you to complete certain activities if cookies are disabled. For example, our consumer e-commerce site uses session cookies and persistent cookies to process transactions. If you do not accept cookies, the associated shopping bag will not work and you would not be able to order. 
 
 We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. 
 
@@ -87,7 +89,7 @@ Contact the Support Team at: [support@mailbox.intel.com](mailto:support@mailbox.
 Note: This policy also covers the personal information you provide to Intel Customer Support. 
 
 **Have additional questions or comments?**  
-Check out the privacy policy frequently asked questions (FAQ) listed below. Should you have any additional privacy questions or comments related to this privacy policy, please contact us at [privacy.feedback@intel.com](mailto:privacy.feedback@intel.com). If you are not satisfied with our response, please contact [BBBOnLine](http://www.bbbonline.com/)(1) or [TRUSTe](http://www.truste.org/users/users_watchdog.html)(1). 
+Check out the privacy policy frequently asked questions (FAQ) listed below. Should you have any additional privacy questions or comments related to this privacy policy, please use [this form](http://www.intel.com/intel/writeusp.htm) to contact us. If you are not satisfied with our response, please contact [BBBOnLine](http://www.bbbonline.com/)(1) or [TRUSTe](http://www.truste.org/users/users_watchdog.html)(1). 
 
 **Privacy Policy Frequently Asked Questions (FAQ)**
 
@@ -95,7 +97,7 @@ Check out the privacy policy frequently asked questions (FAQ) listed below. Shou
 **A:** Based on customer feedback, we made changes to improve the usability and completeness of this policy. For example, we added this FAQ section, added details on our data retention policy, and gave more information on how to get help from Customer Support. No privacy protections were removed. 
 
 **Q: What should I do if I have a privacy question after reading the policy and FAQ?**   
-**A:** Like always, you can send your privacy questions and comments to [privacy.feedback@intel.com](mailto:privacy.feedback@intel.com). We will use these items as input to future FAQ. Please do not send technical support questions to the privacy email address. Refer to [support.intel.com](http://support.intel.com/) for help with your non-privacy-related questions. 
+**A:** Like always, you can send your privacy questions and comments to us by using [this form](http://www.intel.com/intel/writeusp.htm). We will use these items as input to future FAQ. Please do not send technical support questions to the privacy feedback form. Refer to [support.intel.com](http://support.intel.com/) for help with your non-privacy-related questions. 
 
 **Q: Does this policy also cover personal information collected offline?**   
 **A:** Yes. We strive to have consistent privacy practices for your personal information, regardless of the medium used to collect the information. 
@@ -104,4 +106,10 @@ Check out the privacy policy frequently asked questions (FAQ) listed below. Shou
 **A:** A _Web beacon_ is a clear, single-pixel image (GIF) placed on a Web page. Intel places Web beacons on some pages to allow us to compile anonymous, aggregated statistics about Web site usage. We also include Web beacons in HTML-formatted email newsletters in order to count how many newsletters (or particular articles, links, etc.) are being accessed. 
 
 **Q: What is Intel's corporate philosophy on privacy?**   
-**A:** Intel is committed to user privacy in our products and services. Read more in our [Privacy Principles](https://web.archive.org/sites/corporate/privacy2.htm). 
+**A:** Intel is committed to user privacy in our products and services. Read more in our [Privacy Principles](http://www.intel.com/sites/corporate/privacy2.htm). 
+
+**Q: I want to submit my Resume/Curriculum Vitae to Intel. Does this privacy policy cover my personal information I submit to Intel as a prospective employee?**   
+**A:** Yes. Intel will use your personal information for recruitment purposes, and if you are offered a job or become employed by Intel, for other employment-related purposes. We have created the [following page](https://web.archive.org/web/20020408164550id_/http%3A//www.intel.com/sites/corporate/privacy3.htm) to provide specifics on the Resume/CV data collection and handling process. 
+
+**Q: Does Intel follow the[Safe Harbor principles](http://www.export.gov/safeharbor/sh_overview.html)(1), as set forth by the US Department of Commerce?**   
+**A:** Yes, Intel has self-certified for the Safe Harbor principles for off-line, online and manually processed customer personal data. The Safe Harbor agreement governs the data protection requirements for the personal information of European Union citizens, should Intel transfer such information to the United States. More information on Safe Harbor can be found on the [US Department of Commerce Web site](http://www.export.gov/safeharbor/sh_overview.html)(1). Intel's Safe Harbor filing may also be found at the [DOC Web site](http://web.ita.doc.gov/safeharbor/shlist.nsf/5624e34187d9c4dc85256960005fc648/9d362d6ea0cf847085256a73005406ae!OpenDocument)(1). 
