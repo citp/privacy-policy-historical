@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204085547id_/http%3A//www.limos.com/info_PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623160025id_/http%3A//limos.com/privacy.asp) for the most accurate reproduction.*
 
 # * Limousine Service & Limo Rentals at Limos.com!
 
@@ -9,11 +9,11 @@
 _  
 _ "Since we opened our business, we've done 8503 trips; 1204 resulted from Limos.Com. Our revenue that has resulted from Limos.com is a total of $308,548.00"   
 Abrianna Limousine, IL  
-__[Book more limo jobs!](https://web.archive.org/web/20031204085547id_/http%3A//www.limos.com/join_home.asp)
+__[Book more limo jobs!](https://web.archive.org/web/20040623160025id_/http%3A//limos.com/join_home.asp)
 
 _  
 _ Own a website?  Offer your users limousine service and earn big commissions!  
-__[Limo affiliate program!](https://web.archive.org/web/20031204085547id_/http%3A//www.limos.com/aff_join.asp)
+__[Limo affiliate program!](https://web.archive.org/web/20040623160025id_/http%3A//limos.com/aff_join.asp)
 
 [](http://www.limoforsale.com/)
 
@@ -21,10 +21,10 @@ __[Limo affiliate program!](https://web.archive.org/web/20031204085547id_/http%3
 
 [](http://www.jwdlimosales.com/)
 
-Copyright 1997-2003  
+Copyright 1997-2004  
 Viperion Corporation, Phoenix AZ  
-[Legal](https://web.archive.org/web/20031204085547id_/http%3A//www.limos.com/info_TermsofService.asp) ~ [Privacy](https://web.archive.org/web/20031204085547id_/http%3A//www.limos.com/info_privacypolicy.asp)  
-74 users onboard!   
+[Index](https://web.archive.org/web/20040623160025id_/http%3A//limos.com/index.html) ~ [Legal](https://web.archive.org/web/20040623160025id_/http%3A//limos.com/info_TermsofService.asp) ~ [Privacy](https://web.archive.org/web/20040623160025id_/http%3A//limos.com/info_privacypolicy.asp)  
+331 users onboard!   
   
    
 |   |   
