@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successmagazine.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206201700id_/http%3A//www.successmagazine.com/privacypolicy1003.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successmagazine.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605200155id_/http%3A//www.successmagazine.com/privacypolicy1003.htm) for the most accurate reproduction.*
 
 # Success Magazine
 
