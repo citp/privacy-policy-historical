@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622041525id_/http%3A//iht.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202173846id_/http%3A//iht.com/privacy.htm) for the most accurate reproduction.*
 
 # IHT: Privacy
 
@@ -12,10 +12,9 @@
 [Technology](https://web.archive.org/technology.htm)  
 [Health & Science](https://web.archive.org/health.htm)  
 [Sports](https://web.archive.org/sports.htm)  
-[Editorials & Opinion](https://web.archive.org/opinion.htm)  
+[Editorials & Commentary](https://web.archive.org/opinion.htm)  
 [Money Report](https://web.archive.org/moneyreport.htm)  
-[At Home Abroad](https://web.archive.org/athome.htm)  
-[Special Reports](https://web.archive.org/specialreports/index.htm)  
+[At Home Abroad](https://web.archive.org/athome.htm) |   
 [Article Index](https://web.archive.org/articleindex.htm)  
 **Regions**  
 [Africa & Middle East](https://web.archive.org/africa.htm)  
