@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appeal-democrat.com privacy policy that was archived on 2002-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020907115203id_/http%3A//www.appeal-democrat.com/includes/PRIVACY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appeal-democrat.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621054412id_/http%3A//appeal-democrat.com/includes/PRIVACY.html) for the most accurate reproduction.*
 
 # Appeal-Democrat.com
 
