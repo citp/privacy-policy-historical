@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spokesmanreview.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208092737id_/http%3A//www.spokesmanreview.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spokesmanreview.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624141321id_/http%3A//spokesmanreview.com/help/privacy.asp) for the most accurate reproduction.*
 
 # SpokesmanReview.com -- Privacy policy
 
@@ -20,5 +20,5 @@ If at any time you believe The Spokesman-Review.com has not adhered to these pri
 If you have questions about this policy, please e-mail us at [information@spokesman.com](mailto:information@spokesman.com).
 
 Spokane, Wash., Coeur d'Alene, Idaho and the Inland Northwest  
-©Copyright 2002, The Spokesman-Review  
+©Copyright 2003, The Spokesman-Review  
 
