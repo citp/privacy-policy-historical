@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the keysurvey.com privacy policy that was archived on 2002-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020607153916id_/http%3A//www.keysurvey.com/Privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keysurvey.com privacy policy that was archived on 2002-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021201192012id_/http%3A//www.keysurvey.com/Privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -21,20 +21,20 @@
 <td bgcolor="#EFEFE7" width="10">&nbsp;</td>
 
 <td width="1" height="1" bgcolor="#666666">
-	<img src="images/1by1.gif" width="1" height="1" alt="" border="0">
+	<img src="/images/1by1.gif" width="1" height="1" alt="" border="0">
 </td>
 
-<td width="620"> 
+<td width="620">
 
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0" valign="top" bgcolor="#EFEFE7">
 <tbody><tr valign="top">
 <td align="left" border="0" class="SubNav" valign="middle">
 	<a class="SubNav" href="/index.jsp" border="0">
-		<img src="../images/Logo_keysurvey.gif" width="126" height="56" alt="" title="Home" border="0">
+		<img src="/images/Logo_keysurvey.gif" width="126" height="56" alt="" title="Professional Online Research Services" border="0">
 	</a>
 </td>
-<td width="100%"> 
+<td width="100%">
 
 
 <table width="100%" height="30" cellpadding="0" cellspacing="0" border="0" valign="top">
@@ -45,28 +45,26 @@
 <td align="left" border="0" valign="middle" class="SubNav">
 
 	
-	    <a class="SubNav" href="/index.jsp">Home</a>
+	    <a class="SubNav" href="/index.jsp" title="Professional Online Research Services">Home</a>
 	
 	&nbsp;|&nbsp;
 	
-	<a class="SubNav" href="/Products.jsp">Products</a>
+	<a class="SubNav" href="/Products.jsp" title="Survey Products &amp; Services &amp; Price List">Products&nbsp;&amp;&nbsp;Pricing</a>
 	
 	&nbsp;|&nbsp;
 	
-	    <a class="SubNav" href="/ResearchServices.jsp" )="">Research&nbsp;Services</a>
+	    <a class="SubNav" href="/ResearchServices.jsp" title="KeySurvey can provide you with a complete online survey solution and also match you with a professional research consultant who has in-depth knowledge and experience managing projects like yours">Research&nbsp;Services</a>
 	
 	&nbsp;|&nbsp;
 	
-	    <a class="SubNav" href="/EnterpriseSolutions.jsp" )="">Enterprise&nbsp;Solutions</a>
+	    <a class="SubNav" href="/EnterpriseSolutions.jsp" title="KeySurvey Enterprise provides a web-based survey application that enables your organization to deploy online surveys quickly without placing an extra burden on your IT department">Enterprise</a>
 	
 	&nbsp;|&nbsp;
 	
-	<a class="SubNav" href="/Company.jsp" )="">Company</a>
+	<a class="SubNav" href="/Company.jsp" title="KeySurvey provides online survey software solutions and professional research services to business">Company</a>
 	
 	&nbsp;|&nbsp;
-	
-	<a class="SubNav" href="/Member/UserLogin.jsp">Login</a>
-	
+	<a class="SubNav" href="/Member/UserLogin.jsp" title="User login"> &gt;&gt;&gt; Login</a>
 
   </td>
 </tr>
@@ -80,19 +78,38 @@
 	&nbsp;
 </td>
   <td align="left" class="SubNav">
+	
+	<a class="SubNav" href="/Member/Registration.jsp" title="Sign up for Free Trial Account and start your survey now">30&nbsp;Day&nbsp;Free&nbsp;Trial</a>
+	
+	&nbsp;|&nbsp;
+	 <a class="SubNav" href="JavaScript:StartTour('/TakeATour/001.jsp')" title="Take a tour">Take&nbsp;A&nbsp;Tour</a>
+	&nbsp;|&nbsp;
+	
+	<a class="SubNav" href="/PrivateLabel.jsp" title="You can now provide online research to your clients using your own 'Private Label' web survey software">Private&nbsp;Label</a>
+	
+	&nbsp;|&nbsp;
+	
+	<a class="SubNav" href="/EmailLists.jsp" title="KeySurvey has access to thousands of email lists in every industry across the board">Email&nbsp;Lists</a>
+	
+  </td>
 
-	<a class="SubNav" href="/Member/Registration.jsp" )="">
-		30&nbsp;Day&nbsp;Free&nbsp;Trial
-	</a>
-	&nbsp;|&nbsp;
-	 <a class="SubNav" href="JavaScript:StartTour('/TakeATour/001.jsp')" )="">
-		Take&nbsp;A&nbsp;Tour
-	</a>
-	&nbsp;|&nbsp;
-	<a class="SubNav" href="/PrivateLabel.jsp">Private&nbsp;Label</a>
-	&nbsp;|&nbsp;
-	<a class="SubNav" href="/EmailLists.jsp">Email&nbsp;Lists</a>
+    
+    <td align="right" class="SubNav">
+        <select name="theLink" size="1" class="FormSelectBoxSM" onchange="GoTo(value)" valign="middle">
+          <option value="1">Home</option>
+          <option value="2">Products &amp; Pricing</option>
+          <option value="3">Research Services</option>
+          <option value="4">Enterprise</option>
+          <option value="5">Company</option>
 
+          <option value="6">Private Label</option>
+          <option value="7">Email Lists</option>
+          <option value="8" selected="">Privacy</option>
+          <option value="9">Terms Of Use</option>
+          <option value="10">Other Resources</option>
+          <option value="11">Contact Us</option>
+        </select>
+        &nbsp;
   </td>
 </tr>
 </tbody></table>
@@ -130,8 +147,39 @@ SurveyPopup = window.open(thePage,"KeySurveyWindow",'toolbar=no,scrollbars=yes,r
 SurveyPopup.focus();
 }
 
+function GoTo(val)
+{ if (val == '-1')  return;
+  else if (val == '1') window.location="/index.jsp";
+  else  if (val == '2') window.location="/Products.jsp";
+  else  if (val == '3') window.location="/ResearchServices.jsp";
+  else  if (val == '4') window.location="/EnterpriseSolutions.jsp";
+  else if (val == '5') window.location="/Company.jsp";
+  else if (val == '6') window.location="/PrivateLabel.jsp";
+  else if (val == '7') window.location="/EmailLists.jsp";
+  else if (val == '8') window.location="/Privacy.jsp";
+  else if (val == '9') window.location="/TermsOfUse.jsp";
+  else if (val == '10') window.location="/OtherResources.jsp";
+  else if (val == '11') window.location="/ContactUs.jsp";
+  else if (val == '12') window.location="/Member/Registration.jsp";
+  else return;
+}
 //-->
 </script>
+
+
+<!-- Begin did-it.com tracking+ code. Generated on 2002-11-15-->
+<script language="Javascript">
+if(document.referrer)
+        document.write('<img src=http://track.did-it.com/n/3dd519db6419d/' + escape(document.referrer) + ' border=0>');
+else
+        document.write('<img src=http://track.did-it.com/n/3dd519db6419d/ border=0>');
+</script><img src="http://track.did-it.com/n/3dd519db6419d/" border="0">
+<noscript>
+<img src="http://track.did-it.com/n/3dd519db6419d" border="0" height="1" width="1">
+</noscript>
+<!-- End did-it.com tracking+ code -->
+
+
 
 
 
@@ -153,7 +201,7 @@ SurveyPopup.focus();
 <tbody><tr width="100%" align="center" valign="top">
 <td align="center" valign="top" class="BodyText">
 
-	<img src="images/1by1.gif" border="0" width="1" height="8" title=""><br>
+	<img src="/images/1by1.gif" border="0" width="1" height="8" title=""><br>
 
 
 <table width="600" cellpadding="0" cellspacing="0" border="0">
@@ -186,16 +234,16 @@ Neither will you be sent unsolicited e-mail. We may offer you the option of rece
 <tbody><tr>
     <td width="100%" class="BodyTextxsmxsm">
 	<div class="BodyTextxsmxsm" align="center">
-	<a href="/Products.jsp" class="BodyTextxsm">Products</a>&nbsp; | &nbsp;
-	<a href="/Company.jsp" class="BodyTextxsm">Company</a>&nbsp; | &nbsp;
-	<a href="/Member/Registration.jsp" class="BodyTextxsm">Free Trial Survey</a>&nbsp; | &nbsp;
-	<a href="/TermsOfUse.jsp" class="BodyTextxsm">Terms of Use</a>&nbsp; | &nbsp;
-	<a href="/Privacy.jsp" class="BodyTextxsm">Privacy</a>&nbsp; | &nbsp;
-	<a href="/ContactUs.jsp" class="BodyTextxsm">Contact Us</a>
+	<a href="/Products.jsp" class="BodyTextxsm" title="Survey Product and Services &amp; Price List">Products</a>&nbsp; | &nbsp;
+	<a href="/Company.jsp" class="BodyTextxsm" title="KeySurvey provides online survey software solutions and professional research services to business">Company</a>&nbsp; | &nbsp;
+	<a href="/Member/Registration.jsp" class="BodyTextxsm" title="Sign up for Free Trial Account and start your survey now">Free Trial Survey</a>&nbsp; | &nbsp;
+	<a href="/TermsOfUse.jsp" class="BodyTextxsm" title="We will provide online survey hosting, and other survey services to you, our Customer, under the following terms">Terms of Use</a>&nbsp; | &nbsp;
+	<a href="/Privacy.jsp" class="BodyTextxsm" title="We will respect your wish for privacy at all times. We do not tolerate spam and will never sell, rent, or lease your details to any other third party">Privacy</a>&nbsp; | &nbsp;
+	<a href="/ContactUs.jsp" class="BodyTextxsm" title="We are happy to help you with custom development, survey design, forms and applications integration, list selection list acquisition, enterprise solutions and other projects">Contact Us</a>
 <br>
-	<a href="/ResearchServices.jsp" class="BodyTextxsm">Research Services</a> &nbsp; | &nbsp;
-	<a href="/EnterpriseSolutions.jsp" class="BodyTextxsm">Enterprise Solutions</a> &nbsp; | &nbsp;
-	<a href="/index.jsp" class="BodyTextxsm">Home</a>
+	<a href="/ResearchServices.jsp" class="BodyTextxsm" title="KeySurvey can provide you with a complete online survey solution and also match you with a professional research consultant who has in-depth knowledge and experience managing projects like yours">Research Services</a> &nbsp; | &nbsp;
+	<a href="/EnterpriseSolutions.jsp" class="BodyTextxsm" title="KeySurvey Enterprise provides a web-based survey application that enables your organization to deploy online surveys quickly without placing an extra burden on your IT department">Enterprise Solutions</a> &nbsp; | &nbsp;
+	<a href="/index.jsp" class="BodyTextxsm" title="Professional Online Research Services">Home</a>
 	</div>
     </td>
 <!--	<td width="100%">&nbsp;</td> -->
@@ -208,11 +256,12 @@ Neither will you be sent unsolicited e-mail. We may offer you the option of rece
 
 </td>
 <td width="1height=&quot;1&quot;" bgcolor="#666666">
-	<img src="images/1by1.gif" width="1" height="1" alt="" border="0">
+	<img src="/images/1by1.gif" width="1" height="1" alt="" border="0">
 </td>
 <td bgcolor="#EFEFE7" width="100%">&nbsp;</td>
 </tr>
 </tbody></table>
+
 
 
 
