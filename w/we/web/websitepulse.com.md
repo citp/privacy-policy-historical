@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603100755id_/http%3A//www.websitepulse.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204124603id_/http%3A//www.websitepulse.com/privacy.php3) for the most accurate reproduction.*
 
 # Web site and server free monitoring services by WebSitePulse.com
 
@@ -29,4 +29,4 @@ We may use a third party advertising company to display ads on our site. These a
 
 **WebSitePulse.com**
 
-If you ever have any questions about this "Privacy Statement" or the security technology and procedures being used on this web site to protect your information and data, please send an Email to: [mailroom@websitepulse.com](mailto:mailroom@websitepulse.com)
+If you ever have any questions about this "Privacy Statement" or the security technology and procedures being used on this web site to protect your information and data, please send an Email to: [support@websitepulse.com](mailto:support@websitepulse.com)
