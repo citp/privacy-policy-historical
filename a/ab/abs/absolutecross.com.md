@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutecross.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204094700id_/http%3A//www.absolutecross.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutecross.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606215244id_/http%3A//www.absolutecross.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy -- Absolute Cross
 
