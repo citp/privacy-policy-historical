@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619061625id_/http%3A//midphase.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204072600id_/http%3A//midphase.com/privacy.shtml) for the most accurate reproduction.*
 
-# midPhase Services, Inc. - Cheap Web Hosting & Quality Customer Service. Home of Mega-PHASE!
+# midPhase - The Best Value in Web Hosting.
 
 **Privacy Policy Statement**
 
