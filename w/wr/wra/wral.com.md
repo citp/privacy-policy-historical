@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wral.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620133427id_/http%3A//www.wral-tv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wral.com privacy policy that was archived on 2000-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001010043913id_/http%3A//www.wral-tv.com/privacy.html) for the most accurate reproduction.*
 
 # WRAL OnLine - Visitor Privacy Statement
 
@@ -40,7 +40,7 @@ In order to protect our customers, we verify all orders placed over $500. We wil
 
 ## Third-Party Ad Serving
 
-WRAL OnLine works with a third party that serves ads to this site. To find out more about how Engage manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy/privacy.htm>. 
+WRAL OnLine works with a third party that serves ads to this site. To find out more about how Engage manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy/>. 
 
 ## More Information
 
