@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fox8live.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094245id_/http%3A//www.fox8live.com/other.jsp%3FcatID%3D51) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox8live.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616160637id_/http%3A//www.fox8live.com/other1.jsp%3FcatID%3D51) for the most accurate reproduction.*
 
-# FOX 8 NEW ORLEANS
+# Fox 8 Live WVUE-TV New Orleans
 
 **PRIVACY POLICY**
 
