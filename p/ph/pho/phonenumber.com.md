@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonenumber.com privacy policy that was archived on 2003-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030629170436id_/http%3A//www.phonenumber.com/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonenumber.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207055758id_/http%3A//www.phonenumber.com/privacy.xhtml) for the most accurate reproduction.*
 
 # Phone Number Lookups -- Get the Digits the First Time
 
