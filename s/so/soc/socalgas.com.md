@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603051439id_/http%3A//www.socalgas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216185025id_/http%3A//socalgas.com/privacy.html) for the most accurate reproduction.*
 
 # SoCalGas - Welcome to Southern California Gas Company Home Page
 
