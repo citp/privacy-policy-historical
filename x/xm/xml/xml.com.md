@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217232623id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604051211id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
 
 # XML.com: O'Reilly & Associates, Inc. Privacy Policy [Feb. 06, 2001]
 
@@ -15,10 +15,12 @@
 [Style](https://web.archive.org/style)  
 [Web](https://web.archive.org/web/)  
 [Web Services](https://web.archive.org/webservices)  
+  
     
 [Annotated XML](https://web.archive.org/pub/a/axml/axmlintro.html)  
 [What is XML?](https://web.archive.org/pub/a/98/10/guide0.html)  
 [What is XSLT?](https://web.archive.org/pub/a/2000/08/holman/index.html)  
+[What is XSL-FO?](https://web.archive.org/pub/a/2002/03/20/xsl-fo.html)  
 [What is XLink?](https://web.archive.org/pub/a/2000/09/xlink/index.html)  
 [What is XML Schema?](https://web.archive.org/pub/a/2000/11/29/schemas/part1.html)  
 [What is RDF?](https://web.archive.org/pub/a/2001/01/24/rdf.html)  
@@ -36,7 +38,8 @@
 [Transforming XML](https://web.archive.org/pub/q/transformingxml)  
 [Perl and XML](https://web.archive.org/pub/q/perlxml)  
 [XML Endpoints](https://web.archive.org/pub/q/endpoints)   
-[<taglines>](https://web.archive.org/pub/q/taglines)    
+[<taglines>](https://web.archive.org/pub/q/taglines)   
+[Sacré SVG](https://web.archive.org/pub/q/sacresvg)    
 [XML Resources](https://web.archive.org/resourceguide/)  
 [Buyer's Guide](https://web.archive.org/buyersguide/)  
 [Events Calendar](https://web.archive.org/events)  
@@ -49,7 +52,8 @@
 [](https://web.archive.org/lpt/a/admin/policy.html)  
 
 
-February 06, 2001
+February 06, 2001  
+
 
 ### Purpose and Scope
 
@@ -108,5 +112,5 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 
   
 |  |    
-[](http://ad.doubleclick.net/clk;3598490;6477537;c?http://www.macromedia.com/software/jrun/download/)   
-[](http://www.oreilly.com/catalog/p2presearch/)
+  
+
