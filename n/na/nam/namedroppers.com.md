@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namedroppers.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204232307id_/http%3A//www.namedroppers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namedroppers.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603032143id_/http%3A//www.namedroppers.com/privacy.html) for the most accurate reproduction.*
 
 # Namedroppers.com - Domain Name Searching Services - Privacy Policy
 
@@ -8,4 +8,4 @@ Some of the ads appearing on Namedroppers.com are delivered to you by DoubleClic
 
 Namedroppers.com® also uses other third-party advertising companies to serve ads. These companies may also use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
-If you have any questions, comments, or concerns regarding this Privacy Statement, please contact us at [business@namedroppers.com](mailto:business@namedroppers.com). 
+If you have any questions, comments, or concerns regarding this Privacy Statement, please [contact us](https://web.archive.org/web/20040603032143id_/http%3A//www.namedroppers.com/contact.html)
