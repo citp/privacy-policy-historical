@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonlight.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207144100id_/http%3A//www.sonlight.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonlight.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604000920id_/http%3A//www.sonlight.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Sonlight Curriculum :: Privacy Policy
 
@@ -88,27 +88,26 @@
 > Sonlight Curriculum, Ltd. 8042 South Grant Way Littleton, CO 80122-2705 Phone: 303-730-6292 Email: [webmaster@sonlight.com](mailto:webmaster@sonlight.com)
 
 |   
-[](https://web.archive.org/index.html)
+[](https://web.archive.org/index.html)  
 
-We're having a [Very Merry _Newbery_ Christmas Sale!](https://web.archive.org/christmas2000.html)
 
 [Home](http://www.sonlight.com/index.html "Go To Sonlight Curriculum's Home Page") > Privacy Policy   
  
 
 :::
 
-[Latest News](https://web.archive.org/news/)  
-as of 10/19/2000
-
-Now is the time to apply for your [scholarship](https://web.archive.org/scholarship/index.html) for next fall! 
+**Search Sonlight:**
 
 :::
 
-[Request A Catalog](http://www.sonlight.com/catsurvey.html)  
-[Join Our Email List](http://www.sonlight.com/email_list.html)  
-[Advanced Search](http://www.sonlight.com/search/)  
-[Sonlight Forums](http://www.sonlight.com/forums/)  
-[Place An Order](http://www.sonlight-curriculum.com/on-line_catalog.html)  
-[Contact Us](https://web.archive.org/contact.html)  
-[Site Map](https://web.archive.org/directory.html)  
-[](http://www.sonlight-curriculum.com/cgi-local/sonlight.cgi/cart_main.html)
+[Latest News](http://www.sonlight.com/news/)  
+as of 5/29/2001
+
+:::
+
+Go To:
+
+[](http://www.sonlightcurriculum.com/basket.asp)
+
+"I love what Sonlight has put together. As a first time home schooler this program has been very easy to implement. Also using one basic for three kids has a wonderful way of bringing us together rather than each of us going our own separate ways."  
+\- Kevin and Linda O., Hudson, WI, December 29, 2000. 
