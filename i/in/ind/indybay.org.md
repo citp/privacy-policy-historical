@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602085008id_/http%3A//www.indybay.org/process/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203191630id_/http%3A//indybay.org/process/privacy.php) for the most accurate reproduction.*
 
-# San Francisco Bay Area Independent Media Center
+# San Francisco Bay Area IMC
 
 ### Privacy Policy
 
@@ -53,4 +53,4 @@ If the SF IMC becomes aware that a user's personal information provided to the S
 
 To update the privacy policy, we will post the changed version and its effective date at [http:///process/privacy.php](https://web.archive.org/process/privacy.php).
 
-Last updated Tue, 4 Feb 2003 16:53:42 -0800
+Last updated Mon, 29 Sep 2003 16:42:36 -0700
