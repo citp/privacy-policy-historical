@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexlearning.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207113743id_/http%3A//apexlearning.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexlearning.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611093402id_/http%3A//www.apexlearning.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # Apex Learning About Us > Privacy Policy
 
@@ -75,11 +75,11 @@ Contact Information
 If you have questions or concerns regarding this Privacy Policy, please contact our Student Services department at:
 
 Apex Learning Inc.  
-110 - 110th Ave NE, #210  
-Bellevue, WA 98004  
-Toll-free Phone: 1-800-453-6227  
+315 Fifth Avenue S., Suite 600  
+Seattle, WA 98104  
+Toll-free Phone: (800) 453-6227  
 Email: [support@apexlearning.com](mailto:support@apexlearning.com)  
-1-877-852-5143< Fax: Toll-free>
+Fax: (206) 381-5601 
 
 Back to Top
 
