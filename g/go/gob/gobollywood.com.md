@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobollywood.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214092552id_/http%3A//gobollywood.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobollywood.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601123327id_/http%3A//www.gobollywood.com/services/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for GoBollywood
 
