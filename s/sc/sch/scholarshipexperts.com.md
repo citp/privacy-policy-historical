@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605110336id_/http%3A//www.scholarshipexperts.com/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208131052id_/http%3A//www.scholarshipexperts.com/privacy/privacy.jsp) for the most accurate reproduction.*
 
-# Scholarship Experts - Privacy
+# Scholarships
 
 ---  
   
@@ -19,7 +19,7 @@ We will **NOT** , however, use that personal data for purposes beyond those just
   
 **Registration**
 
-In order to use this website, a user must first complete the registration process. During registration, a user is required to give their contact information (first and last names, email address). This information is used to contact the user about the services on our site for which they have expressed interest.   
+In order to use this website, a user must first complete the registration process. During registration, a user is required to give their contact information (first and last names, email address, etc.). This information is used to contact the user about the services on our site for which they have expressed interest.   
   
 **E-Profile**
 
@@ -74,7 +74,7 @@ If you have any questions about the security at our website, you can send an ema
   
 **Emails for Site and Service Updates**
 
-We send all new members a welcoming email to verify password and username. We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email.  
+We send all new members a welcoming email to verify their username and login process. We also send users site and service announcement updates, newsletters, and other appropriate email messages. Members are able to unsubscribe from site and service announcements and other emails by changing their email preferences on [the unsubscribe page](http://www.scholarshipexperts.com/unsubscribemail_form.jsp). We communicate via email with users to provide requested services and for issues relating to their accounts and profiles.  
   
   
 **Correction/Updating Personal Information**
