@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408172431id_/http%3A//www.encoding.com/about/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014025658id_/http%3A//www.encoding.com/about/privacy_policy.asp) for the most accurate reproduction.*
 
-# Loudeye Technologies provides digital media services including the encoding of digital content, streaming audio, streaming video, internet radio, and webcasting: Privacy Policy
+# Loudeye Corp provides digital media services including the encoding of digital content, streaming audio, streaming video, internet radio, and webcasting: Privacy Policy
 
-This privacy policy ("Policy") applies to [www.loudeye.com](http://www.loudeye.com/) (the "Site"), which is owned and operated by Loudeye Technologies, Inc. Please note that this Policy does not apply to the Loudeye Radio Player. For information about the privacy policy that applies to the Loudeye Radio Player, please visit [http://radio.loudeye.com/LoudSE/help/privacy.html?anID=22&aID=1785](http://radio.loudeye.com/LoudSE/help/privacy.html?anID=22&aID=1785). Except as provided below, we do not collect any personally identifiable information about you while you use the Site. Please read on for more details about our privacy policy.
+This privacy policy ("Policy") applies to [www.loudeye.com](http://www.loudeye.com/) (the "Site"), which is owned and operated by Loudeye Corp, Inc. Please note that this Policy does not apply to the Loudeye Radio Player. For information about the privacy policy that applies to the Loudeye Radio Player, please visit [http://radio.loudeye.com/LoudSE/help/privacy.html?anID=22&aID=1785](http://radio.loudeye.com/LoudSE/help/privacy.html?anID=22&aID=1785). Except as provided below, we do not collect any personally identifiable information about you while you use the Site. Please read on for more details about our privacy policy.
 
 Please note that if we decide to change our privacy policy, we will post those changes to this Policy in this section of the Site, and other places we deem appropriate so that our users are always aware of what information we collect, how we use it, and under what, if any, circumstances we disclose it. We will always use any information collected in accordance with the privacy policy in place at the time the information was collected.
 
@@ -69,7 +69,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 **How to Contact Us**  
 If at any time you believe that Loudeye has not followed the above policy, please let us know and we will make reasonable efforts to identify and correct any problem. You can contact us at:
 
-**Loudeye Technologies, Inc.**  
+**Loudeye Corp, Inc.**  
 1130 Rainier Ave. South  
 Seattle, WA 98144  
 Email: [webmaster@loudeye.com](mailto:webmaster@loudeye.com)
