@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602223343id_/http%3A//www.mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206202244id_/http%3A//www.mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Orange Mobile Phones 01923-804444 Mobiles.co.uk - Privacy Statement
 
@@ -33,5 +33,5 @@ If we believe an order has been placed fraudulently, or our online auction syste
 
 If you have any questions or comments about privacy, please e-mail the business manager, [Lisa Green](mailto:lisa@mobiles.co.uk). 
 
-[](https://web.archive.org/web/20040602223343id_/http%3A//www.mobiles.co.uk/azindex.htm)**Mobiles Online, Watford - Tel 0870 080 4444 - Fax 0870 080 5555  
-_(c) 2004[Mobiles.co.uk Ltd](https://web.archive.org/web/20040602223343id_/http%3A//www.mobiles.co.uk/mobiles.htm) \- _sales@mobiles.co.uk**
+[](https://web.archive.org/web/20041206202244id_/http%3A//www.mobiles.co.uk/azindex.htm)**Mobiles Online, Watford - Tel 0870 080 4444 - Fax 0870 080 5555  
+_(c) 2004[Mobiles.co.uk Ltd](https://web.archive.org/web/20041206202244id_/http%3A//www.mobiles.co.uk/mobiles.htm) \- _sales@mobiles.co.uk**
