@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raffles.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208085719id_/http%3A//www.raffles.com/raffles/retreats/partner_special_detail.asp%3Fid%3D515) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raffles.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207121059id_/http%3A//www.raffles.com/raffles/retreats/partner_special_detail.asp%3Fid%3D515) for the most accurate reproduction.*
 
 # Raffles
 
@@ -18,7 +18,7 @@
     1. Depending upon the service you wish to use, some of the information we ask you to provide is identified as mandatory (“Mandatory Information”) and some is optional (“Optional Information”). If you do not provide the Mandatory Information with respect to a particular service, we will not be able to process any request you may make.
     2. Our web server will recognise your domain name, but not your email address. We use “cookie” technology on the public area of this web-site to increase your user experience on the Raffles Site.
   3.  **How may your Personal Information be used?**
-    1. We propose to use, store or process (“Processing”) the Personal Information provided by you to the Raffles Site for the purpose of increasing the convenience for your present and future stays as well as to use the Personal Information to keep you informed about new products and services or offers which we believe may be of interest to you.
+    1. We propose to use, store or process (“Processing”) the Personal Information provided by you to the Raffles Site for the purpose of increasing the convenience for your present and future stays as well as to use the Personal Information to keep you informed about new products and services or offers which we believe may be of interest to you ("Purposes").
     2. If you do not wish to have your Personal Information processed for any of these Purposes then you will have the opportunity to indicate this below when you indicate your consent and submit any request to the Raffles Site.
   4.  **To whom and where Personal Information may be disclosed?**
     1. Your Personal Information may, for the Purposes described above be transferred or disclosed (“Disclose”) to any company within the Raffles Holdings Limited and affiliated/associated companies (“the Raffles Group”) wherever located in the world in whichever different jurisdiction they may operate, depending on which company within the Raffles Group can best provide the information requested or products and services sought.
@@ -61,7 +61,7 @@ Singapore 178882
 
     2. In your correspondence please indicate the location on the Raffles Site where you provided your Personal Information with as much detail as possible. Inaccurate description will cause delay in processing your request.
     3. In the event the Purposes for Processing change, then Raffles will notify you as soon as practicable and where required seek your consent. Raffles may change the Privacy Policy from time to time. Each use of the Raffles Site will publish the most current version of the Privacy Policy informing you of any changes.
-    4. There are no consequences where you do not provide Optional Information that is not necessary for the Purposes of ?????????. There are no consequences for indicating by way of your consent the Purposes for which your Personal Information may be processed.
+    4. There are no consequences where you do not provide Optional Information that is not necessary for the Purposes. There are no consequences for indicating by way of your consent the Purposes for which your Personal Information may be processed.
     5. For further information please visit tour Terms of Use and Legal Information site.
     6. Third party websites to which Raffles.com or any other Raffles Site may link have separate privacy policies and data collection practices. Raffles is neither responsible for the content of such web-sites nor for such privacy and collection practices.
     7. If you have not agreed to the Legal Terms of Use you may not use, access or submit information to the Raffles Site.
