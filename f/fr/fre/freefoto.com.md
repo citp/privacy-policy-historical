@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freefoto.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621184313id_/http%3A//www.freefoto.com/pictures/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefoto.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206093700id_/http%3A//www.freefoto.com/pictures/information/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Free Pictures - FreeFoto.Com.
 
-   
-   
-Privacy Policy
+ 
+
+ Privacy Policy
 
 FreeFoto.com, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
 
@@ -31,6 +31,4 @@ If you have any additional questions about FreeFoto.com's dedication to consumer
 FreeFoto works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>
 
    
-|     
-[](https://web.archive.org/pictures/nature/sunrise/index.asp?i=4)    
 
