@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202191125id_/http%3A//www.lrn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222402id_/http%3A//lrn.com/privacy.html) for the most accurate reproduction.*
 
 # LRN Privacy Statement
 
