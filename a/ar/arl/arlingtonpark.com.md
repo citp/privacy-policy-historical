@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arlingtonpark.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204194109id_/http%3A//www.churchilldownsincorporated.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arlingtonpark.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602112456id_/http%3A//www.churchilldownsincorporated.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Churchill Downs Incorporated | About CDI | Privacy Policy |
 
@@ -14,7 +14,7 @@ Our site uses an order form for customers to request information, products, and 
 
 Our online surveys asks visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. For example, if a customer has won a prize associated with the survey. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, continually evolving the presentation of content on our site. This information is shared with advertisers on an aggregate basis.
 
-We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age,or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is alsocollected at our site. This information is shared with advertisers on an aggregate basis.
+We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age,or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis and internally when applicable.
 
 Security
 
