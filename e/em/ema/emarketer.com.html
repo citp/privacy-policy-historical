@@ -1,532 +1,445 @@
-<!--The following is the downloaded HTML source of the emarketer.com privacy policy that was archived on 2002-08-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020802010527id_/http%3A//www1.emarketer.com/about_us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emarketer.com privacy policy that was archived on 2003-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030628023040id_/http%3A//www.emarketer.com/about_us/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<title>Privacy Policy</title>
-<!-- BEGIN /home/www.emarketer.com/virtual_html-dev/include/top_row.htm (5 lines) 2000-11-22 16:10 Dean Hannotte -->
-<!-- BEGIN /home/www.emarketer.com/virtual_html-proof/include/setup.htm (60 lines) 2002-06-17 09:35 Dean Hannotte -->
+    <title>Privacy Policy</title>
 
-<!---------------------------------------------------------------------+
-|                   Load Global eMarketer Libraries                    |
-+---------------------------------------------------------------------->
-<script language="JavaScript" src="/include/esystem_status.js"></script>
-<script language="JavaScript" src="/include/emarketer.js"></script>
-<script language="JavaScript" src="/include/ereports.js"></script>
-<script language="JavaScript" src="/include/etables.js"></script>
+    <meta name="description" content="eMarketer provides e-business research, statistics, demographics and Internet usage data for online marketers. Products and services include market research reports and online database subscriptions.">
 
-<!---------------------------------------------------------------------+
-|                           Load Style Sheet                           |
-|                     IE uses HREF=, NN4 uses SRC=                     |
-|                       so we code BOTH keywords                       |
-+---------------------------------------------------------------------->
-<link rel="stylesheet" type="text/css" href="/include/emarketer.css" src="/include/emarketer.css">
+    <meta name="keywords" content="internet statistics,e-business,market research,marketing,online advertising,internet demographics,internet traffic,internet usage statistics,online research,internet marketing,surveys,e-commerce business,revenue projections,technology trends">
 
+        <script language="JavaScript" type="text/javascript" src="/include/e_marketer.js"></script>
+    <script language="JavaScript" type="text/javascript" src="/include/macromedia.js"></script>
+    <link rel="stylesheet" href="/include/em2002_styles.css" type="text/css" src="/include/em2002_styles.css">
+    <link rel="stylesheet" href="/include/e_marketer.css" type="text/css" src="/include/e_marketer.css">
+    </head>
+        <body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/images/nov2002/login_black_f2.gif','/images/buttons/button_gray_arrow_f2.gif')">
 
+   
+
+<!-- Keylime Software  4.1 13/07/2000 -->
 <script language="JavaScript">
-    e_Environment
-    (
-        'www1.emarketer.com',   // HTTP_HOST
-        '66.28.250.175', // REMOTE_ADDR
-        '3044', // REMOTE_PORT
-        'www1.emarketer.com', // SERVER_NAME
-        '80', // SERVER_PORT
-        '(none)'           // TZ
-    );
-//    e_BodyTag();
-</script></head>
-
-<!---------------------------------------------------------------------+
-|                Capture some environmental variables,                 |
-|                        generate the BODY tag,                        |
-|                 and call Limesoft for user tracking.                 |
-+---------------------------------------------------------------------->
-
-
-<body bgcolor="WHITE" link="#000099" vlink="#000099" alink="#000099" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-
-<!-- onLoad='randomSurvey();' -->                   <!-- 20020617 DH -->
-
-<!-- eMarketer provides statistical and demographic data
-about the internet marketplace. Products and services
-include reports, newsletters and discussions. -->
-
-<script language="JavaScript">
-//
-//-MJ
-/*--------------------------------------------------------------------*/
-/*                       calling e_Limesoft() function                */
-/*--------------------------------------------------------------------*/
-    e_Limesoft();
-
+    window.epulse_content_group =
+        'cg1="About_Us"';
 </script>
-
-<!-- END http://www.emarketer.com/include/setup.htm -->
-
-<!-- BEGIN /include/masthead.htm -->
-
-<!-- -------------------------------------------------------------------
-<                           Write Masthead                             >
--------------------------------------------------------------------- -->
-
-<table width="775" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-
-<script language="JavaScript">
-e_Write("<TD WIDTH='150'>");
-//e_NonSecureLink("/welcome.html");
-e_Write("<A HREF='" + e_NonSecureHref("/welcome.html") + "'>");
-e_Write("<IMG SRC='/images/eball_left_top_corner.gif' WIDTH='140' HEIGHT='89' ALT='Click here to go to the eMarketer Home Page' BORDER='0'></A>");
-e_Write("<IMG SRC='/images/one_white_pixel.gif' WIDTH='10' HEIGHT='89'>");
-e_Write("</TD>");
-
-e_Write("<TD>");
-if (e_SubDir[0] == "ereports" && e_SubDir[2] == "private") // no ads on the extranet site (/ereports/subscriptions/private/)
-{
-    e_Write("<IMG SRC='/images/one_white_pixel.gif' WIDTH='468' HEIGHT='60'><BR>");
-}
-else
-{
-    e_Ad("Top1");
-}
-e_Write("<IMG SRC='/images/one_white_pixel.gif' WIDTH='625' HEIGHT='2'>");
-e_Write("    </TD>");
-e_Write("  </TR>  ");
-
-e_Write("  <TR>      ");
-e_Write("    <TD COLSPAN='2'>");
-//e_NonSecureLink("/welcome.html");
-e_Write("<A HREF='" + e_NonSecureHref("/welcome.html") + "'>");
-e_Write("<IMG SRC='/images/left_emarketer_logo.gif' WIDTH='150' HEIGHT='51' ALT='Click here to go to the eMarketer Home Page' BORDER='0'></A>");
-
-
-if (e_SectionDir == "newsletters" && e_DefaultPage)
-{
-    e_Write("<IMG SRC='/images/header_bars/default_bar_" + e_SectionGif + "_home.gif' WIDTH='468' HEIGHT='51' BORDER='0'>");
-}
-else
-{
-    e_Write("<IMG SRC='/images/header_bars/default_bar_"
-    + e_SectionGif + ".gif' WIDTH='468' HEIGHT='51' BORDER='0'>");
-}
-if (e_SectionDir == "ereports" && e_DefaultPage && !e_SubDir[1])
-   {
-   e_Write("<IMG SRC='/images/header_bars/header_bar_right_order_by_phone.gif' WIDTH='157' HEIGHT='51'>");
-   }
-else if (e_Protocol == "https:")
-   {
-   e_Write("<IMG SRC='/images/header_bars/header_bar_right_order_by_phone.gif' WIDTH='157' HEIGHT='51'>");
-   }
-else
-   {
-   e_Write("<IMG SRC='/images/header_bars/header_bar_right.gif' WIDTH='157' HEIGHT='51'>");
-   }
-
+<script language="JavaScript" src="http://a1944.g.akamai.net/f/1944/1482/8h/stats.klsoft.com/akamai/Site_22_ePulse.js">
 </script>
-  </tr>
-</tbody></table>
-<!-- -------------------------------------------------------------------
-<        Write first tags for the middle row, which is a table         >
--------------------------------------------------------------------- -->
-<table border="0" width="775" cellpadding="0" cellspacing="0">
-<tbody><tr>
+<form name="masthead_login_form" action="/my_account.php" method="POST" onsubmit="return am_LoginFormIsValid(forms.masthead_login_form);"><table width="770" border="0" cellspacing="15" cellpadding="0"><tbody><tr><td align="center" valign="middle"><script language="Javascript" src="http://oascentral.emarketer.com/RealMedia/ads/adstream_jx.ads/subset1.emarketer.com/1279083251@Top1,Top2,Right1!Top1"></script><script language="Javascript" src="http://oascentral.emarketer.com/RealMedia/ads/adstream_jx.ads/subset1.emarketer.com/1279083251@Top1,Top2,Right1!Top2"></script></td></tr></tbody></table><table border="00" width="770" cellspacing="0" cellpadding="0" name="masthead" bgcolor="#CCCCCC"><tbody><tr><td width="115" align="left" valign="top" rowspan="2" height="75" bgcolor="#CCCCCC"><a href="/"><img src="/images/masthead/eball.gif" width="115" height="83" border="0"></a></td><td width="655" align="left" valign="top" bgcolor="#000000"><a href="/"><img src="/images/may2003/masthead.gif" border="0" align="left"></a>        <table border="00" cellspacing="0" cellpadding="0" bgcolor="#000000" align="left">
+        <tbody><tr>
+        <td colspan="2"><img src="/images/one_black_pixel.gif" width="150" height="7"></td>
+        </tr>
+        <tr><td>
+        <img src="/images/one_black_pixel.gif" width="60" height="22">
+        </td><td>
 
-<!-- END /include/masthead.htm -->
 
-<!-- END /home/www.emarketer.com/virtual_html-dev/include/top_row.htm -->
+              <table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td align="right" valign="middle"><a href="/my_account.php" onmouseover="MM_swapImage('Image21','','/images/may2003/button_sub_login_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/may2003/button_sub_login.gif" name="Image21" width="120" height="20" border="0" id="Image2"></a></td>
+                </tr>
+                <tr>
+                  <td align="right" valign="middle">
+                    <div align="right"><a href="/about_us/contact_us.php" onmouseover="MM_swapImage('Image211','','/images/may2003/button_contact_us_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/may2003/button_contact_us.gif" name="Image211" width="120" height="20" border="0" id="Image2"></a></div></td>
+                </tr>
+              </tbody></table>
+        </td>
+        </tr>
+        </tbody></table>
+    
+</td></tr><tr><td width="655" align="left" valign="top"><table border="00" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#CCCCCC" valign="top"><table border="00" cellspacing="0" cellpadding="0" width="655"><tbody><tr><td align="right"><span class="FOOTER2">You&nbsp;are&nbsp;not&nbsp;currently&nbsp;logged&nbsp;in.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>            </td></tr></tbody></table>
+            </td></tr><tr><td bgcolor="#FFFFFF"><img src="/images/nov2002/submasthead.gif">
+            </td></tr></tbody></table>
+        </td></tr>
+      </tbody></table>
+    <table border="00" width="770" cellspacing="0" cellpadding="0"><tbody><tr>    <!----------------------------------------------------------------------
+    <                         Middle Row Left Cell                         >
+    ----------------------------------------------------------------------->
 
-<!-- BEGIN https://secure.e-land.com/include/middle_row_left_cell.htm (35 lines) 2000-12-11 17:41 Dean Hannotte -->
-<td width="150" valign="TOP">
-<script language="Javascript">
+        <td align="left" valign="top" width="115">
+          <table border="00" cellspacing="0" cellpadding="0">
 
-e_Write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
-e_Write("<SPAN CLASS='FOOTER1'>");
-e_DateStamp();
-e_Write("</SPAN>");
-e_Write("<BR>");
-//BEGIN Nested table which is middle row left cell
-e_Write("<TABLE BORDER='0' WIDTH='150' CELLPADDING='0' CELLSPACING='0'>");
-</script>
+            <tbody><tr align="left" bgcolor="#CCCCCC">
+              <td width="25" valign="middle" height="20">&nbsp;</td>
+              <td width="90" height="15" class="date" valign="middle">
+            <span onclick="alert(&quot;COMPUTERNAME: WWW2\nDOCUMENT_ROOT: /inetpub/wwwroot/live\nPATH_TRANSLATED: D:\\Inetpub\\wwwroot\\live\\about_us\\privacy.php&quot;);">
+Fri, 27-Jun-03
+</span>
+              </td>
+            </tr>
+              
+              <form name="search_form_left_cell" action="/products/database.php"></form>
+              <input type="hidden" name="f_search_type" value="Basic">
 
-</td></tr><tr>
-    <td><img src="/images/one_white_pixel.gif" width="21" height="10"></td>
-      <td valign="TOP" halign="LEFT"> <img src="/images/one_white_pixel.gif" width="125" height="1">
+            <tr align="left" bgcolor="#CCCCCC">
+              <td colspan="2" valign="middle"><img src="/images/nov2002/nav_light_rules.gif" width="115" height="3"></td>
+            </tr>
+            <tr align="left" bgcolor="#CCCCCC">
+              <td width="25" valign="middle" height="20">&nbsp;</td>
+              <td valign="bottom" height="20" width="90"><span class="leftnav">Search</span></td>
+            </tr>
+            <tr align="left" bgcolor="#CCCCCC">
+              <td width="25" valign="middle">&nbsp;</td>
+              <td valign="middle" width="90">
 
-        <script language="JavaScript" src="/include/default_menu.js"></script>
-        <script language="JavaScript" src="/include/echannels_menu.js"></script>
+               <input type="text" name="f_arg_0" size="6">&nbsp;<script language="Javascript">e_Rollover('javascript:document.forms.search_form_left_cell.submit()', '/images/buttons/', 'button_gray_arrow', 'button_gray_arrow_f2');</script><a href="javascript:document.forms.search_form_left_cell.submit()" onmouseover="document.button_gray_arrow_name.src=button_gray_arrow_frame2.src" onmouseout="document.button_gray_arrow_name.src=button_gray_arrow_frame1.src"><img src="/images/buttons/button_gray_arrow.gif" name="button_gray_arrow_name" align="TOP" border="0"></a>                </td>
+            </tr>
+            <tr valign="top" align="left" bgcolor="#CCCCCC">
+              <td width="25" height="18">&nbsp;</td>
+              <td height="18" width="90">
+                <p><span class="leftnav_small">
+                   <a href="/products/database.php?f_search_type=Advanced" class="left_nav_small_links">Advanced</a></span></p>
+              </td>
+            </tr>
+            <tr bgcolor="#CCCCCC">
+              <td colspan="2"><img src="/images/nov2002/nav_light_rules.gif" width="115" height="3"></td>
+            </tr>
 
-        <script language="Javascript">
-        if (e_CgiServerName == "secure.e-land.com" && e_SubDir[1] == "estatstore")
-        {
-            e_Write("<P><B>eMarketer accepts:</B><BR>");
-            e_Write("<IMG SRC='/images/estatstore/cc.gif' WIDTH='115' HEIGHT='24' ALT='Credit Cards'><BR>");
-            e_ShowPrivacyNotice();
-            e_ShowOurPromise();
-        }
+            <tr bgcolor="#CCCCCC"><td width="25" height="22"></td><td width="90" height="22" class="leftnav"><a href="/products/database.php" class="leftnavlinks">Database</a></td></tr>
 
-        </script>
-     <!--BEGIN /include/true_impact.htm -->
-<!--END /include/true_impact.htm -->
+<tr bgcolor="#CCCCCC"><td colspan="2"><img src="/images/nov2002/nav_light_rules.gif" width="115" height="3"></td></tr><tr bgcolor="#CCCCCC"><td width="25" height="22"></td><td width="90" height="22" class="leftnav"><a href="/products/reports.php" class="leftnavlinks">Reports</a></td></tr>
 
+<tr bgcolor="#CCCCCC"><td colspan="2"><img src="/images/nov2002/nav_light_rules.gif" width="115" height="3"></td></tr><tr bgcolor="#CCCCCC"><td width="25" height="22"></td><td width="90" height="22" class="leftnav"><a href="/products/total_access.php" class="leftnavlinks">Total Access</a></td></tr>
+
+<tr bgcolor="#CCCCCC"><td colspan="2"><img src="/images/nov2002/nav_light_rules.gif" width="115" height="3"></td></tr><tr bgcolor="#CCCCCC"><td width="25" height="22"></td><td width="90" height="22" class="leftnav"><a href="/news/articles.php" class="leftnavlinks">Articles</a></td></tr>
+
+<tr bgcolor="#CCCCCC"><td colspan="2"><img src="/images/nov2002/nav_light_rules.gif" width="115" height="3"></td></tr>
+            <tr>
+              <td colspan="2" valign="top"><img src="/images/nov2002/leftnav_bottom.gif" width="115" height="15"></td>
+            </tr>
+
+            <tr valign="top">
+              <td width="25">&nbsp;</td>
+              <td width="66" class="text">
+                <table cellpadding="0" cellspacing="0">
+                                <tbody><tr><td>
+                <a href="/store/cart.php" class="leftnavlinks"><font color="#666666" class="text"><span class="small_grey_text">My&nbsp;Cart</span></font></a>&nbsp;                </td></tr>
+                </tbody></table>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2" height="20">
+                <hr noshade="" size="1">
+              </td>
+            </tr>
+
+            <tr valign="top">
+              <td width="25">&nbsp;</td>
+              <td width="66" class="text">
+                <table cellpadding="0" cellspacing="0">
+                <tbody><tr><td>
+                <a href="/about_us/methodology.php" class="leftnavlinks"><font color="#666666" class="text"><span class="small_grey_text">Methodology</span></font></a>
+                </td></tr>
+                <tr><td>
+                <a href="/products/database/sources.php" class="leftnavlinks"><font color="#666666" class="text"><span class="small_grey_text">Sources</span></font></a>
+                </td></tr>
+                <tr><td>
+                <a href="/products/database/subjects.php" class="leftnavlinks"><font color="#666666" class="text"><span class="small_grey_text">Subjects</span></font></a>
+                </td></tr>
+                </tbody></table>
+              </td>
+            </tr>
+
+            <tr>
+              <td colspan="2" height="20">
+                <hr noshade="" size="1">
+              </td>
+            </tr>
+
+            <tr>
+              <td width="25" valign="top">&nbsp;</td>
+              <td width="66" class="leftnav_small" align="left" valign="top">
+                                <a href="/news/newsletter.php"><img src="/images/nov2002/mailbox.gif" width="66" height="55" border="0"></a><br>
+                  <font color="#FF0000"><b><font class="redtext"><b class="boldtext"><b><font color="#333333"><span class="grey_text"><font color="#FF0000"><font class="redtext"><a href="/news/newsletter.php" class="links"><font color="#666666" class="boldtext">Daily<br>Newsletter<br>
+                  </font></a></font></font></span></font></b></b></font></b></font><b><font class="redtext"><b class="boldtext"><b><span class="small_grey_text"><font color="#666666">
+                  </font></span></b></b></font></b><font color="#666666"><span class="small_grey_text">The latest
+                  <br>
+                  numbers and analysis daily.
+                      <a href="#" class="leftnavlinks" onclick="MM_openBrWindow('/news/newsletter/emarketer_daily.html','','scrollbars=yes,resizable=yes,menubar=yes,toolbar=yes,width=680,height=680')"><font color="#666666" class="text"><span class="small_grey_text">Today's Issue</span></font></a>
+                                </span></font></td>
+            </tr>
+            <tr>
+              <td colspan="2" height="20">
+              <hr noshade="" size="1">              </td>
+
+            </tr>
+
+          </tbody></table>
+                  </td>
+        <td width="20"><img src="/images/one_white_pixel.gif" width="20" height="10"></td>
+    
+    <!----------------------------------------------------------------------
+    <                        Middle Row Center Cell Start                  >
+    ----------------------------------------------------------------------->
+    <td width="490" align="left" valign="top">
+
+
+    
+          <table border="00" width="490" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td colspan="3" valign="top">
+                            <!-- START OF TOP NAVIGATION -->
+                <table border="00" width="490" cellspacing="0" cellpadding="0" height="50" name="banner/frame">
+                  <tbody><tr>
+                    <td width="468" align="left" valign="top" height="16">
+
+                 <img src="/images/subbanner.gif" width="468" height="16"><br><script language="Javascript">e_Rollover('/', '/images/main_subnavigation/', 'subnav_home_grey', 'subnav_home_grey_f2');</script><a href="/" onmouseover="document.subnav_home_grey_name.src=subnav_home_grey_frame2.src" onmouseout="document.subnav_home_grey_name.src=subnav_home_grey_frame1.src"><img src="/images/main_subnavigation/subnav_home_grey.gif" name="subnav_home_grey_name" align="TOP" border="0"></a><a href="/about_us/"><img src="/images/main_subnavigation/subnav_about_us.gif" border="0"></a>                  </td>
+                </tr>
+              </tbody></table>
+
+
+
+            <!-- END OF TOP NAVIGATION -->
+                        </td>
+          </tr>
+       </tbody></table>
+       
+<!-- EXITING N:\wwwroot\devstage\include\top.inc.php (64 lines) 06/18/03 14:51 Michael James -->
+
+<table width="490" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top">
+    <td width="345" align="left" class="text">
+      <p><span class="headlines">The eMarketer Privacy Policy</span><br>
+      </p>
+      <p class="introtext">eMarketer takes the issue of privacy seriously.
+	  We let the user decide what information to give us, and explain
+	  exactly what is done with it. eMarketer will never sell, distribute,
+	  barter or transfer any personally-identifiable information obtained
+	  from a user to a third party.</p>
+      <p class="text">The uniform resource locators (URLs) covered
+        under eMarketer's privacy policy include: www.emarketer.com,
+        www2.emarketer.com, www3.emarketer.com, www.estats.com and
+        https://secure.e-land.com/bin/estatstore/cart.<br>
+      </p>
     </td>
-    <td><img src="/images/one_white_pixel.gif" width="4" height="10"></td>
-
-
+    <td width="20">&nbsp;</td>
+    <td width="125" align="left"><a href="http://www.bbbonline.org/cks.asp?id=201072616155917373"><img src="/images/third_party_logos/privacy_bbb_large.gif" width="125" height="160" border="0" name="Image91"></a></td>
 </tr>
 </tbody></table>
-<!-- END Nested table which is middle row left cell-->
 
-
-
-<!-- END https://secure.e-land.com/include/middle_row_left_cell.htm -->
-
-<!-- BEGIN /include/middle_row_center_cell_start_title.htm -->
-
-
-<!--I wanted to leave out the WIDTH="325" so that the middle cell expands completely to the right if we leave out /include/middle_row_right_cell.htm.  However, in Netscape, the default template shows a wider width than 325 for all pages in this case, so I must leave it in the code. -MJ -->
-<script language="Javascript">
-
-  e_Write("<BR><BR>");
-  e_CreateCornerBGImageStart(325,1);
-  e_Write("<SPAN CLASS='HEADER2'>");
-  e_Write(document.title); //Get from <TITLE> contents!
-  e_Write("</SPAN>");
-  e_CreateCornerEnd();
-  e_Write("<BR><BR>");
-
-</script>
-
-
-<!-- END /include/middle_row_center_cell_start_title.htm -->
-
-
-
-<br>
-
- <!--content here-->
-
-<p>eMarketer takes the issue of privacy seriously. We let the user decide what information to give us, and explain exactly what is done with it. eMarketer will never sell, distribute, barter or transfer any personally-identifiable information obtained from a user to a third party. 
-
-</p><p>The uniform resource locators (URLs) covered under eMarketer's privacy policy include: <a href="http://www.emarketer.com">www.emarketer.com</a>, <a href="http://www2.emarketer.com">www2.emarketer.com</a>, <a href="http://www3.emarketer.com">www3.emarketer.com</a>, <a href="http://www.estats.com">www.estats.com</a> and <a href="https://secure.e-land.com/bin/estatstore/cart">https://secure.e-land.com/bin/estatstore/cart</a>.
-
- <br>
-
-</p><h2>Information Gathered</h2>
-<p>eMarketer gathers information about its users in order to offer useful and easily accessible online content while providing privacy protection. <br>
-
-  <br>
-</p><ol>
-<li><b>Website Visitors and Newsletter Subscribers:</b> <p>
-eMarketer catalogs traffic patterns throughout the site through non-invasive click-through tracking. eMarketer develops summary -- not individual -- reports for our advertisers. For example, we will report that "12,000 people clicked on advertisement X today and they were in the eStats section of the site." 
-
-</p><p>
-</p></li><li><b>Product Purchasers:</b><p>
-eMarketer sells information products online. At the time of purchase, we require personal, business and financial information, such as name, e-mail address, shipping/billing address, telephone number and credit card number. This information is necessary to process the order and to send the product to the buyer. If you are a repeat customer, you may be asked to update this information. This information is transmitted in 128 bit encryption and we use Secure Socket Layer (SSL) technology to protect your online order. 
-
-</p><p>Only our order processing/customer service staff has access to your information. We do not store or access credit card information from our web server after your order is processed. eMarketer allows product purchasers to control the storage of their general contact information. If you would like to access, correct or delete any of your contact information that we have on file, please send an e-mail to <a href="mailto:general@emarketer.com">general@emarketer.com</a>.	
-</p></li></ol>
-
-<h2>Business Relationships</h2>
-<p>eMarketer's website links to other websites. eMarketer is not responsible for the privacy practices or the content of those sites. Advertisers on our site may collect information about you when you view or click on their advertising or content. eMarketer has no control over this data collection. You should contact specific advertisers or content providers directly if you have any questions about their privacy policies. <br>
-
-</p><p>Our privacy policy does not cover all of our affiliates' websites or online services. The following are a list of URLs for the non-covered websites or online services, whose practices will not be covered by our privacy policy: <a href="http://www.strategyweek.com">www.strategyweek.com</a>; <a href="http://www.mckinseyquarterly.com">www.mckinseyquarterly.com</a>; <a href="http://www.eprize.net/">www.eprize.net</a>; <a href="http://www.cybereps.com/MKemarketer.shtml">www.cybereps.com</a>.
-
-</p><h2>Cookies </h2> 
-
-<p>Some parts of the eMarketer site use "cookies." A cookie is an element of data that a website sends to your browser, which may then be stored on your computer. The cookies that eMarketer uses do not contain any of the users' personally-identifiable information.
-
-
-</p><p>If you do not want cookies sent to your computer, you can set your browser to notify you when you receive a cookie. Then you decide whether or not to accept it. If you reject cookies from eMarketer, you will not be able to enter some areas of the site. For more information, see <a href="http://home.netscape.com/products/security/resources/faq/cookies.html">"How To Work With Cookies."</a> <br>
-
-</p><h2>Opt-In, Opt-Out Features</h2>
-
-<p>eMarketer puts control over e-mail communications in the users' hands: </p><blockquote>
-
-<p></p><li>We provide free e-mail newsletters to those who sign up for them. We also provide free e-mail updates regarding eMarketer products. These updates are sent only to people who have chosen to receive them, and can be opted-out of at any time. Newsletter subscribers can also be opted-out of at any time. <p>
-
-</p></li><li>Each newsletter has your e-mail address stamped on it with simple instructions on how to unsubscribe that address from our newsletter list. <br>
-
-       </li></blockquote>	
-	   		
-			
- <h2>Contact Information</h2>
-<p>If you would like to update or delete any of your contact information, please send an e-mail to <a href="mailto:general@emarketer.com">general@emarketer.com</a>.
-
-</p><p>You can direct any questions or comments about our privacy practices to <a href="mailto:CCenteno@emarketer.com">eMarketer's Website Editor</a>. If eMarketer makes any changes to its privacy policy, those changes will be noted on the eMarketer website. Regardless of later updates or changes to our privacy policy, we will never use the information you submit under our current privacy policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
-
-</p><p>By participating in the Council of Better Business Bureau's BBB<i>OnLine</i> Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine.  Further information about this program is available at <a href="http://www.bbbonline.org">www.bbbonline.org</a>.
-
-</p><p>Policy effective date: July 2001.		
-			
-</p><p><a href="#top">Top</a><br>
-  <br>
-
-<!-- BEGIN /home/www.emarketer.com/virtual_html/include/middle_row_center_cell_end.htm (3 lines) 2000-06-21 15:38 Dean Hannotte -->
-<!-- BEGIN Nested table which is middle row center cell end -->
-<br>
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr><td>
-<script language="Javascript">
-if (e_SubDir[0] == "estatnews" || (e_SubDir[0] == "ereports" && e_SubDir[1] != "downloads"))
-{
-    e_Write("<IMG SRC='/images/one_grey_pixel.gif' WIDTH='465' HEIGHT='1' BORDER='0' ALT=''>");
-}
-else
-{
-    e_Write("<IMG SRC='/images/one_grey_pixel.gif' WIDTH='325' HEIGHT='1' BORDER='0' ALT=''>");
-}
-
-</script>
-</td></tr>
-
-<tr><td>
-
-<!-- BEGIN /include/links_at_bottom.htm --> <a href="/about_us/press_room/"><span class="FOOTER1">Press Room</span></a><img src="/images/one_white_pixel.gif" width="5" height="5">
-
-<script language="Javascript">
-if (e_FnFt != "advertise.html")
-
-   {
-   e_Write("<A HREF='/about_us/advertise.html'><SPAN CLASS='FOOTER1'>Advertise</SPAN></A><IMG SRC='/images/one_white_pixel.gif' WIDTH='5' HEIGHT='5'>");
-   }
-</script>
-
-<a href="/about_us/partnerships/"><span class="FOOTER1">Partnerships</span></a><img src="/images/one_white_pixel.gif" width="5" height="5"><a href="/about_us/contact_us/"><span class="FOOTER1">Contact Us</span></a><img src="/images/one_white_pixel.gif" width="5" height="5"><a href="/about_us/"><span class="FOOTER1">About Us</span></a><img src="/images/one_white_pixel.gif" width="5" height="5"><a href="/about_us/privacy/"><span class="FOOTER1">Privacy</span></a><!-- END /include/links_at_bottom.htm
--->
-
-
-</td></tr>
-
-<tr><td>
-<script language="Javascript">
-if (e_SubDir[0] == "estatnews" || (e_SubDir[0] == "ereports" && e_SubDir[1] != "downloads"))
-{
-    e_Write("<IMG SRC='/images/one_grey_pixel.gif' WIDTH='465' HEIGHT='1' BORDER='0' ALT=''>");
-}
-else
-{
-    e_Write("<IMG SRC='/images/one_grey_pixel.gif' WIDTH='325' HEIGHT='1' BORDER='0' ALT=''>");
-}
-
-</script>
-</td></tr>
-<tr><td>
-<!-- BEGIN http://www.emarketer.com/include/copyright.htm (28 lines) 2001-02-27 19:44 Dean Hannotte -->
-
-<span class="FOOTER1">
-
-<script language="Javascript">
-    if (e_Browser == 'IE')
-    {
-        copy_right = "&copy; "
-            + "<SPAN OnClick='e_Peek();'> "
-            + e_YYYY + "</SPAN> eMarketer, Inc.";
-    }
-    else
-    {
-        copy_right = "&copy; "
-            + e_YYYY + " eMarketer, Inc."
-            + "<A HREF='javascript:onClick=e_Peek();'>"
-            + "<IMG SRC='/images/one_white_pixel.gif' BORDER='0' "
-            + "HEIGHT='12' WIDTH='300'></A>";
-    }
-    e_Write(copy_right);
-</script>
-
-</span>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<!-- END http://www.emarketer.com/include/copyright.htm -->
-
-
-</td></tr>
+<table width="490" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td colspan="3" height="20"> <a name="information_gathered"></a>
+          <hr noshade="" size="1">
+        </td>
+      </tr>
+      <tr>
+        <td width="345" class="text" valign="top">
+          <p><span class="subheads">Information Gathered</span><br>
+            eMarketer gathers information about its users in order to
+            offer useful and easily accessible online content while providing
+            privacy protection. </p>
+          <p><span class="boldtext">1. Web site Visitors and Newsletter
+            Subscribers: </span><br>
+            eMarketer catalogs traffic patterns throughout the site through
+            non-invasive click-through tracking. eMarketer develops summary
+            -- not individual -- reports for our advertisers. For example,
+            we will report that "12,000 people clicked on advertisement
+            X today and they were in the eStats section of the site."
+          </p>
+          <p><span class="boldtext">2. Product Purchasers:</span><br>
+            eMarketer sells information products online. At the time of
+            purchase, we require personal, business and financial information,
+            such as name, e-mail address, shipping/billing address, telephone
+            number and credit card number. This information is necessary
+            to process the order and to send the product to the buyer.
+            If you are a repeat customer, you may be asked to update this
+            information. This information is transmitted in 128 bit encryption
+            and we use Secure Socket Layer (SSL) technology to protect
+            your online order. </p>
+          <p>Only our order processing/customer service staff has access
+            to your information. We do not store or access credit card
+            information from our Web server after your order is processed.
+            eMarketer allows product purchasers to control the storage
+            of their general contact information. If you would like to
+            access, correct or delete any of your contact information
+            that we have on file, please send an e-mail to <a href="mailto:sales@emarketer.com" class="links">sales@emarketer.com</a>.<br>
+          </p>
+        </td>
+        <td width="20">&nbsp;</td>
+        <td width="125" valign="top" class="small_text">
+          <p><font color="#FF0000">Privacy:<br>
+            </font><a href="#information_gathered" class="small_links">Information
+            Gathered</a><br>
+            <a href="#business_relationships" class="small_links">Business
+            Relationships</a><br>
+            <a href="#cookies" class="small_links">Cookies</a><br>
+            <a href="#optin_optout" class="small_links">Opt-in, Opt-out
+            Features</a><br>
+            <a href="#information_privacy" class="small_links">For more
+            Information</a></p>
+          <p><a href="/about_us" class="small_links">Back to About eMarketer</a></p>
+        </td>
+      </tr>
 </tbody></table>
 
+<table width="490" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="middle">
+    <td colspan="3" align="left" height="20" class="text"> <span class="subheads"><a name="business_relationships"></a></span>
+      <hr noshade="" size="1">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" class="text">
+      <p><span class="subheads">Business Relationships</span><br>
+        eMarketer's Web site links to other Web sites. eMarketer is
+        not responsible for the privacy practices or the content of
+        those sites. Advertisers on our site may collect information
+        about you when you view or click on their advertising or content.
+        eMarketer has no control over this data collection. You should
+        contact specific advertisers or content providers directly
+        if you have any questions about their privacy policies. </p>
+      <p>Our privacy policy does not cover all of our affiliates'
+        Web sites or online services. The following are a list of URLs
+        for the non-covered websites or online services, whose practices
+        will not be covered by our privacy policy: www.strategyweek.com;
+        www.mckinseyquarterly.com; www.eprize.net.<br>
+      </p>
+    </td>
+    <td width="20" align="left" valign="top">&nbsp;</td>
+    <td width="125" valign="top" class="small_text">
+      <p><a href="#top" class="small_links">Back to top</a></p>
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="490" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="middle">
+    <td colspan="3" align="left" height="20" class="text"> <span class="subheads"><a name="cookies"></a></span>
+      <hr noshade="" size="1">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" class="text">
+      <p><span class="subheads">Cookies</span> <br>
+        Some parts of the eMarketer site use "cookies."
+        A cookie is an element of data that a Web site sends to your
+        browser, which may then be stored on your computer. The cookies
+        that eMarketer uses do not contain any of the users' personally-identifiable
+        information.</p>
+      <p>If you do not want cookies sent to your computer, you can
+        set your browser to notify you when you receive a cookie.
+        Then you decide whether or not to accept it. If you reject
+        cookies from eMarketer, you will not be able to enter some
+        areas of the site. For more information, see <a href="http://home.netscape.com/products/security/resources/faq/cookies.html">"How To
+        Work With Cookies."</a><a>
+      </a></p><a>
+    </a></td>
+    <td width="20" align="left" valign="top">&nbsp;</td>
+    <td width="125" valign="top" class="small_text">
+      <p><a href="#top" class="small_links">Back to top</a></p>
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="490" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="middle">
+    <td colspan="3" align="left" height="20" class="text"> <span class="subheads"><a name="optin_optout"></a></span>
+      <hr noshade="" size="1">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" class="text">
+      <p><span class="subheads">Opt-In, Opt-Out Features</span><br>
+        eMarketer puts control over e-mail communications in the users'
+        hands: <br>
+        • We provide free e-mail newsletters to those who sign
+        up for them. We also provide free e-mail updates regarding
+        eMarketer products. These updates are sent only to people
+        who have chosen to receive them, and can be opted-out of at
+        any time. Newsletter subscribers can also be opted-out of
+        at any time. <br>
+        • Each newsletter has your e-mail address stamped on
+        it with simple instructions on how to unsubscribe that address
+        from our newsletter list.<br>
+      </p>
+    </td>
+    <td width="20" align="left" valign="top">&nbsp;</td>
+    <td width="125" valign="top" class="small_text">
+      <p><a href="#top" class="small_links">Back to top</a></p>
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="490" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="middle">
+    <td colspan="3" align="left" height="20" class="text"> <span class="subheads"><a name="information_privacy"></a></span>
+      <hr noshade="" size="1">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" class="text">
+      <p><span class="subheads">Contact Information</span><br>
+        If you would like to update or delete any of your contact
+        information, please send an e-mail to <a href="mailto:sales@emarketer.com" class="links">sales@emarketer.com</a>.
+      </p>
+      <p>You can direct any questions or comments about our privacy
+        practices to <a href="mailto:CCenteno@emarketer.com">eMarketer's Web Site Editor</a>.
+		If eMarketer makes any changes to its privacy policy, those changes will be noted
+        on the eMarketer Web site. Regardless of later updates or changes
+        to our privacy policy, we will never use the information you
+        submit under our current privacy policy in a new way without
+        first providing you an opportunity to opt-out or otherwise
+        prevent that use. </p>
+      <p>By participating in the Council of Better Business Bureau's
+        BBB<i>OnLine</i> Privacy Program we have made a commitment to meet
+        the program's strict requirements regarding how we treat your
+        information and have it verified by BBBOnLine. Further information
+        about this program is available at <a href="http://www.bbbonline.org" class="links">www.bbbonline.org</a>.
+      </p>
+      <p>Policy effective date: July 2001</p>
+      <p>&nbsp;</p>
+    </td>
+    <td width="20" align="left" valign="top">&nbsp;</td>
+    <td width="125" valign="top" class="small_text">
+      <p><a href="#top" class="small_links">Back to top</a></p>
+    </td>
+  </tr>
+</tbody></table>
+
+<!-- ENTERING D:\ibm\home\www.emarketer.com\devstage\include\bottom.inc.php (39 lines) 03/17/03 15:53 Michael James --><!-- END OF SPECIFIC PAGE CONTENT  -->
+</td>          <td width="20" align="left" valign="top">&nbsp;</td>
+          <td valign="top" align="left">
+            <p><script language="Javascript" src="http://oascentral.emarketer.com/RealMedia/ads/adstream_jx.ads/subset1.emarketer.com/1279083251@Top1,Top2,Right1!Right1"></script></p>
+            <img src="/images/one_white_pixel.gif" width="125" height="5">
+          </td>
+        </tr>
+      </tbody></table>
+
+    
+
+<table border="00" width="770" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td rowspan="4" width="132">&nbsp;</td>
+        <td height="20" colspan="7">
+
+         <hr noshade="" size="1">        </td>
+      </tr>
+              <tr>
+            <td width="51" height="15" class="leftnav_small"><a href="/about_us/press.php"><font color="#333333">Press</font></a></td>
+            <td width="68" height="15" class="leftnav_small"><a href="/about_us/advertise.php"><font color="#333333">Advertise</font></a></td>
+            <td width="4" height="15" class="leftnav_small">&nbsp;</td>
+            <td width="78" height="15" class="leftnav_small"><a href="/about_us/contact_us.php"><font color="#333333">Contact
+              Us</font></a></td>
+            <td width="68" height="15" class="leftnav_small"><a href="/about_us"><font color="#333333">About
+              Us</font></a></td>
+            <td width="58" height="15" class="leftnav_small"><a href="/about_us/privacy.php"><font color="#333333">Privacy</font></a></td>
+            <td width="291" height="15" class="leftnav_small"><a href="/site_map.php"><font color="#333333">Site
+              Map</font></a></td>
+          </tr>
+                <tr>
+        <td height="20" colspan="7">
+         <hr noshade="" size="1">        </td>
+      </tr>
+
+  <tr>
+    <td height="19" colspan="6" class="leftnav_small" valign="top">©2003 eMarketer, Inc.</td>
+    <td align="right">
+        </td>
+  </tr>
+</tbody></table>
+
+    
 
 
-
-<!-- END Nested table which is middle row center cell end -->
-
-<!-- END /home/www.emarketer.com/virtual_html/include/middle_row_center_cell_end.htm -->
-
-<!-- BEGIN /include/middle_row_right_cell.htm -->
-
-<!--We are dividing this include into further "sub-includes" because
-there are pages that use the dimensions of this right cell, but have
-different content.  By subdividing, we are isolating the code that
-specifies the dimensions. -->
-
-<!-- BEGIN /home/www.emarketer.com/virtual_html/middle_row_right_cell_start.htm -->
-
-
-<img src="/images/one_white_pixel.gif" width="18" height="10" border="0" alt="">
-
-
-</p><p><img src="/images/one_white_pixel.gif" width="10" height="10" border="0" alt=""><br>
-
-<!-- END /home/www.emarketer.com/virtual_html/middle_row_right_cell_start.htm -->
-
-
-</p><p>
-<!-- BEGIN /include/search_box.htm  -->
-
-<script language="Javascript">
-var format = e_GetParm('format');
-if (format == 'estatdb') { e_Write(""); }
-else { SearchBox(); }
-
-function SearchBox()
-{
-
-
-    if (e_HomePage)
-    {
-        if (e_Browser == 'IE')    //Netscape bug...
-        {
-            e_GenerateBoxHeaderVer2("Site Search", 104);
-            e_Write("<TABLE WIDTH='104' BORDER='0' CELLPADDING='0' CELLSPACING='0'>");
-            e_Write("<TR><TD BGCOLOR='#CCCCCC'>");
-            e_Write("<TABLE CELLPADDING='3' CELLSPACING='1'><TR><TD>");
-            e_Write("<FORM NAME='SEARCH' METHOD='POST' ACTION='http://www.emarketer.com/bin/AT-emarketersearch.cgi'>");
-            e_TextInput("search", 7, "", 35);
-            e_Write("<INPUT TYPE='SUBMIT' NAME='GO' VALUE='Go'>");
-            e_Write("<BR><SPAN CLASS='FOOTER2'>For a power search, subscribe to our ");
-            e_Write("<A HREF='" + e_DatabaseHref("/welcome.php") + "'>eStat Database</A> ");
-            e_Write("and get instant access to facts and figures from ");
-            e_Write("hundreds of research sources worldwide.</SPAN>");
-
-            e_Write("</TD></TR></TABLE>");
-            e_Write("</TD></TR>");
-            e_Write("</TABLE>");
-        }
-        else
-        {
-            e_Write("");
-        }
-    }
-    else
-    {
-        e_Write("<FORM NAME='SEARCH' METHOD='POST' ACTION='http://www.emarketer.com/bin/AT-emarketersearch.cgi'>");
-        e_Write("<IMG SRC='/images/corner_headers/corner_header_search.gif' WIDTH='125' HEIGHT='16'>");
-        e_CreateCornerBGImageStart(125, 1);
-        e_TextInput("search", 9, "", 35);
-        e_Write("<INPUT TYPE='SUBMIT' NAME='GO' VALUE='Go'>");
-        e_CreateCornerEnd();
-    }
-
-    e_Write("<INPUT TYPE='hidden' NAME='source' VALUE='local' CHECKED>");
-    e_Write("<INPUT TYPE='hidden' NAME='backlink' VALUE=''>");
-    e_Write("<INPUT TYPE='hidden' NAME='bltext' VALUE=''>");
-    e_Write("<INPUT TYPE='hidden' NAME='sp' VALUE='sp'>");
-    e_Write("</FORM>");
-}
-
-</script>
-<!-- END /include/search_box.htm -->
-
-
-<script language="Javascript">
-if (e_SectionDir == "about_us")
-{
-    e_CreateCornerBGImageStart(125,1);
-    e_Write("<A HREF='" + e_NonSecureHref("/about_us/emar_whitepaper8.pdf") + "' TARGET='_blank'><IMG src='/images/emarketer_difference_cover.gif' WIDTH='115' HEIGHT='145' border='0'>");
-    e_Write("<P><SPAN CLASS='FOOTER2'><A HREF='" + e_NonSecureHref("/about_us/emar_whitepaper8.pdf") + "' TARGET='_blank'><B>The eMarketer Difference</B></A> - White Paper in pdf Format</SPAN>");
-    e_CreateCornerEnd();
-}
-
-if (e_SectionDir == "ereports"
-||  e_SectionDir == "about_us"
-||  e_SectionDir == "newsletters")
-{
-    e_Write("<BR>");
-    e_ShowPrivacyNotice();
-}
-if (e_FnFt == "stat_alert.html")
-{
-    e_CreateCornerBGImageStart(125,1);
-    e_Write("<SPAN CLASS='FOOTER2'>See what's in a StatAlert. ");
-    e_Write("To read a sample, <A HREF='/statistics/stat_alert_sample.html'>click here</A>.");
-    e_Write("</SPAN>");
-    e_CreateCornerEnd();
-}
-
-
-</script>
-
-
-<!-- BEGIN /include/middle_row_right_cell_end.htm -->
-
-
-
-
-
-
-<img src="/images/one_white_pixel.gif" width="16" height="10" border="0" alt="">
-
-
-
-<img src="/images/one_white_pixel.gif" width="125" height="10" border="0" alt="">
-
-</p><p>
-<script language="Javascript">
-    e_Ad("Right1");
-</script>
-
-
-
-<img src="/images/one_white_pixel.gif" width="16" height="10" border="0" alt="">
-
-
-<!-- END /include/middle_row_right_cell_end.htm -->
-
-
-
-<!-- END /include/middle_row_right_cell.htm -->
-
-<!-- BEGIN /include/bottom_row.htm -->
-
-
-
-<!-- END /include/bottom_row.htm -->
-
-<br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-
-
-
-</p></body></html>
+<!-- EXITING D:\ibm\home\www.emarketer.com\devstage\include\bottom.inc.php (39 lines) 03/17/03 15:53 Michael James -->;
+</form></body></html>
