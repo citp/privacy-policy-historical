@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibmsecu.org privacy policy that was archived on 2004-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040531192117id_/http%3A//www.ibmsecu.org/htm/disclosures/231824_Privacy_Brochure.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibmsecu.org privacy policy that was archived on 2004-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041222121558id_/http%3A//www.ibmsecu.org/htm/disclosures/231824_Privacy_Brochure.pdf) for the most accurate reproduction.*
 
 # Your Rights toConfidentiality
 
