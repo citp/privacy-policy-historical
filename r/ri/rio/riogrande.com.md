@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603191705id_/http%3A//www.riogrande.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204104536id_/http%3A//www.riogrande.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Rio Grande Jewelry Making Supplies - Privacy Policy
 
@@ -10,16 +10,16 @@
 • | We will not sell your e-mail address to, or share it with, any other person or organization.  
 • | We will not contact you by phone to sell you anything (though we may contact you to confirm, clarify service or expedite your order).  
 • | We will not contribute to the junk e-mail in your life.  
-• | If you don’t want to receive correspondence in the future, just let us know (see contact information below).  
+• | If you don't want to receive correspondence in the future, just let us know (see contact information below).  
   
   
 
 
 Rio Grande is committed to ensuring the privacy of its website visitors. We will not sell your e-mail address to, or share it with, any other organization. We know your privacy is important to you. We comply with guidelines set by various privacy organizations so that we can offer peace of mind to all visitors of our website. 
 
-Just to be perfectly clear, our website will recognize our visitors’ domain name and e-mail address (when possible). We collect this information, as well as the e-mail addresses of those who post messages on our feedback forms and communicate with us by e-mail. We also review which pages consumers access and collect information volunteered by visitors, such as survey answers and/or site registration information.
+Just to be perfectly clear, our website will recognize our visitors' domain name and e-mail address (when possible). We collect this information, as well as the e-mail addresses of those who post messages on our feedback forms and communicate with us by e-mail. We also review which pages consumers access and collect information volunteered by visitors, such as survey answers and/or site registration information.
 
-From time to time we may use the information we collect for our own company’s marketing purposes, recognizing we’ve collected this information with your consent (as you provided it to us). 
+From time to time we may use the information we collect for our own company's marketing purposes, recognizing we've collected this information with your consent (as you provided it to us). 
 
 • | If you give your postal address online, you may receive periodic mailings from Rio Grande with information about new products, services or upcoming educational events.  
 ---|---  
