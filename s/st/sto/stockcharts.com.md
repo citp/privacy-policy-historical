@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockcharts.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215150100id_/http%3A//stockcharts.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockcharts.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606013440id_/http%3A//stockcharts.com/corp/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement - StockCharts.Com
+# Privacy Statements - StockCharts.Com
 
 |  |    
 You are here: **[Help](https://web.archive.org/support/) > Privacy Statement**  
@@ -9,7 +9,9 @@ You are here: **[Help](https://web.archive.org/support/) > Privacy Statement**
 * * *
 
   
-**Privacy Statement**
+**Privacy Statements**
+
+ **StockCharts.com Privacy Statement**
 
 StockCharts.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: StockCharts.com.
 
@@ -29,5 +31,15 @@ To stop receiving our electronic newsletter, you can send an email message to [l
 
 **Contacting Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact [privacy@stockcharts.com](mailto:privacy@stockcharts.com). 
+
+**24/7 Media's Privacy Statement**
+
+24/7 Media is committed to the responsible management of consumer information. Internet user privacy is a high priority to 24/7 Media, our advertisers and our Web publishers.
+
+24/7 Media continually reviews its data practices and privacy policy in light of consumer demands, public interests and governmental concerns.
+
+24/7 Media is a licensee of the TRUSTe Privacy Program. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information. Our privacy policy outlines the type of information we collect and store, our usage policy, and who to contact with questions or concerns.
+
+Visit [24/7's Privacy Page](http://www.247media.com/privacy.html) for more information.
 
 |  | 
