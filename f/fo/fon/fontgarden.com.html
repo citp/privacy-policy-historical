@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fontgarden.com privacy policy that was archived on 2003-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030606210009id_/http%3A//www.fontgarden.com/privacy/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fontgarden.com privacy policy that was archived on 2003-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207183302id_/http%3A//www.fontgarden.com/privacy/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 FINAL//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -29,108 +29,113 @@ A:visited {text-decoration: none}
 A:hover {color:#107339; text-decoration:underline; }-->
 </style>
 </head>
-<body bgcolor="#FFFFFF" link="#669966" vlink="#993333" text="#000000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+<body bgcolor="#FFFFFF" link="#52635A" vlink="#A5B5A5" text="#000000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
     <center>
-<!-- BEGIN RICH-MEDIA BURST! CODE --> 
 <script language="JavaScript"> 
-<!-- /* © 1997-2001 BURST! Media, LLC. All Rights Reserved.*/ 
-function ShowBurstAd(adcode, width, height) {
- var bN = navigator.appName;
- var bV = parseInt(navigator.appVersion);   
- var base='http://www.burstnet.com/';   
- var Tv='';   
- var agt=navigator.userAgent.toLowerCase();   
- if (bV>=4)  
- {ts=window.location.pathname+window.location.search;
+<!-- /* Copyright 1997-2003 BURST! Media, LLC. All Rights Reserved. (Version 1.0J) */ 
+function ShowBurstAd(adcode, width, height, sizes, intrusive, bgcolor, background) {
+var bN = navigator.appName;
+var bV = parseInt(navigator.appVersion);
+var base='http://www.burstnet.com/';
+var Tv=''; var Itr='';
+var sz=''; var bkgd='';
+var bgc=''; var rfr='';
+var vr='v=1.0J';
+var agt=navigator.userAgent.toLowerCase();
+
+if (sizes.length!=0) {sz='/sz='+sizes;} else {sz='';}
+if (bgcolor.length!=0) {bgc='/zg' + bgcolor;} else {bgc='';}
+if (background.length!=0) {bkgd='/bgi='+(escape(escape(background))).replace(/\//gi,'%252F');} else {bkgd='';}
+rfr='/r='+(escape(escape(top.location.href))).replace(/\//gi,'%252F');
+                            
+if (bV>=4) {
+  ts=window.location.pathname+window.location.search;
   i=0; Tv=0; while (i< ts.length)
-    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;}
-  else   {Tv=escape(window.location.pathname);
-  if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
+    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;
+} else {Tv=escape(window.location.pathname);
+  if( Tv.charAt(0)!='/' ) Tv="/"+Tv;
     else if (Tv.charAt(1)=="/")
- Tv="";     
- if( Tv.charAt(Tv.length-1) == "/")
-   Tv = Tv + "_";}   
- if (bN=='Netscape'){        
-  if ((bV>=4)&&(agt.indexOf("mac")==-1))  
- { document.write('<s'+'cript src="'+ 
-  base+'cgi-bin/ads/'+adcode+'.cgi/ni/RETURN-CODE/JS' 
-  +Tv+'">'); 
-  document.write('</'+'script>');
- }
-   else if (bV>=3) {document.write('<'+'a href="'+base+'ads/' + 
-  adcode + '-map.cgi'+Tv+'"target=_top>');
-  document.write('<img src="' + base + 'cgi-bin/ads/' +
-  adcode + '.cgi' + Tv + '" width="' + width + '" height="' + height + '"' +
-  ' border="0" alt="Click Here"></a>');}   
+ Tv="";
+  if( Tv.charAt(Tv.length-1) == "/")
+   Tv = Tv + "_";
 }
-if (bN=='Microsoft Internet Explorer')    
-document.write('<ifr'+'ame id="BURST" src="'+base+'cgi-bin/ads/'  
-+     
-adcode + '.cgi' + Tv + '/ni/RETURN-CODE" width="' + width + '" height="' + height + '"' +     
-'marginwidth="0" marginheight="0" hspace="0" vspace="0" ' +     
-'frameborder="0" scrolling="no"></ifr'+'ame>');  
+
+var fCode='<ifr'+'ame id="BURST" src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/NI/if/'+vr+bgc+sz+bkgd+
+ rfr+Tv+'/RETURN-CODE" width="'+width+'" height="'+
+ height+'"'+'marginwidth="0" marginheight="0"'+
+ 'hspace="0" vspace="0" frameborder="0" '+
+ 'scrolling="no">';
+ var gCode = '<'+'a href="'+base+'ads/'+adcode+'-map.cgi/'+
+ vr+sz+rfr+Tv+'" target=_top><im'+'g src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/'+vr+sz+rfr+Tv+
+ '" border="0" alt="Click Here"></a>';
+var fCodeEnd = '</ifr'+'ame>';
+
+if ((adcode.charAt(0)=="a")&&(intrusive=="1")) {
+ Itr='<di'+'v><scr'+'ipt src="'+base+'cgi-bin/ads/'+adcode+
+ '.cgi/sz=0X0MN/'+vr+rfr+Tv+'/RETURN-CODE/JS/"></scr'+'ipt></d'+'iv>';
+}
+
+if (agt.indexOf("mac")==-1) {
+  document.write(fCode+gCode+fCodeEnd+Itr);
+} else {
+  document.write(gCode);
+}
 }
 //-->
 </script>
 <!-- END BURST CODE -->
-    <table cellpadding="0" cellspacing="0" border="0" width="749">
+    <table cellpadding="0" cellspacing="0" border="0" width="750">
         <tbody><tr valign="TOP" align="LEFT">
             <td>
-                <table border="0" cellspacing="0" cellpadding="0" width="29" nof="LY">
+                <table border="0" cellspacing="0" cellpadding="0" width="10" nof="LY">
                     <tbody><tr valign="TOP" align="LEFT">
                         <td width="10" height="10"><!-- ACC <IMG ID="InsertMETA4i1" HEIGHT=10 WIDTH=10 SRC="../InsertMETA.gif" BORDER=0> ACC --></td>
-                        <td width="9"><img src="../clearpixel.gif" width="9" height="1" border="0"></td>
-                        <td></td>
-                    </tr>
-                    <tr valign="TOP" align="LEFT">
-                        <td colspan="3" height="104"></td>
-                    </tr>
-                    <tr valign="TOP" align="LEFT">
-                        <td colspan="2" height="10"></td>
-                        <td width="10">
-                            <script language="JavaScript"><!--
-function popup(ta,fullurl) {var popup_url="../handwriting/aaron.html";if (fullurl) popup_url=ta; else if (ta!=null) {popup_url+="#"+ta;}var popup = window.open(popup_url,"popup","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,copyhistory=1,resizable=1,width=470,height=460,left=250,top=50");popup.location=popup_url;if (!((navigator.appName=="Microsoft Internet Explorer") && (navigator.appVersion.substring(0,3)=="4.0"))) popup.focus();}
-// --></script><!-- BrowserPopup 5.x by Ingo Fischer (http://www.apollon.de) --><!-- ACC <IMG
-                             ID="BrowserPopup4i7" HEIGHT=10 WIDTH=10 SRC="../BrowserPopup.gif" BORDER=0> ACC --></td>
                     </tr>
                 </tbody></table>
             </td>
             <td>
                 <table border="0" cellspacing="0" cellpadding="0" nof="LY">
                     <tbody><tr valign="TOP" align="LEFT">
-                        <td width="79" height="20"><img src="../clearpixel.gif" width="79" height="1" border="0"></td>
-                        <td></td>
-                        <td width="96"><img src="../clearpixel.gif" width="96" height="1" border="0"></td>
-                    </tr>
-                    <tr valign="TOP" align="LEFT">
-                        <td></td>
-                        <td width="545">
-                            <table id="Table3" border="0" cellspacing="3" cellpadding="1" width="545">
+                        <td width="39"><img src="../clearpixel.gif" width="39" height="1" border="0"></td>
+                        <td width="701">
+                            <table id="Table3" border="0" cellspacing="3" cellpadding="1" width="701">
                                 <tbody><tr>
-                                    <td width="537" height="50"><p align="CENTER"><!-- BEGIN RICH-MEDIA BURST! CODE --> 
+                                    <td width="693" height="18"><p align="CENTER"><!-- BEGIN RICH-MEDIA BURST! CODE --> 
 <script language="JavaScript">
 <!--
-ShowBurstAd('ad6636a','468','60');
-// --></script><script src="http://www.burstnet.com/cgi-bin/ads/ad6636a.cgi/ni/RETURN-CODE/JS/5988"></script>
-<noscript><a 
-                                        href="http://www.burstnet.com/ads/ad6636a-
-map.cgi/ns" target="_top"><img src="http://www.burstnet.com/cgi-
-bin/ads/ad6636a.cgi/ns" width="468" height="60" 
-border="0" alt="Click Here"></a> 
-                                        
+ShowBurstAd('ad6636a','728','90','468x60A|728x90A','1', 'FFFFFF', '');
+// 
+                                        --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/ad6636a.cgi/NI/if/v=1.0J/zgFFFFFF/sz=468x60A|728x90A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207183302id_%252Fhttp%25253A%252F%252Fwww.fontgarden.com%252Fprivacy%252Fprivacy.htm/5991/RETURN-CODE" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/ad6636a-map.cgi/v=1.0J/sz=468x60A|728x90A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207183302id_%252Fhttp%25253A%252F%252Fwww.fontgarden.com%252Fprivacy%252Fprivacy.htm/5991" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/ad6636a.cgi/v=1.0J/sz=468x60A|728x90A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207183302id_%252Fhttp%25253A%252F%252Fwww.fontgarden.com%252Fprivacy%252Fprivacy.htm/5991" border="0" alt="Click Here"></a></iframe></p><div><script src="http://www.burstnet.com/cgi-bin/ads/ad6636a.cgi/sz=0X0MN/v=1.0J/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207183302id_%252Fhttp%25253A%252F%252Fwww.fontgarden.com%252Fprivacy%252Fprivacy.htm/5991/RETURN-CODE/JS/"></script></div>
+<noscript><a href="http://www.burstnet.com/ads/ad6636a-map.cgi/ns/v=1.0J/sz=468x60A|728x90A/" target="_top">
+<img 
+                                        src="http://www.burstnet.com/cgi-bin/ads/ad6636a.cgi/ns/v=1.0J/sz=468x60A|728x90A/" border="0" alt="Click Here"></a> 
 </noscript>
-<!-- END BURST CODE -->&nbsp;</p></td>
+<!-- END BURST CODE -->&nbsp;</td>
                                 </tr>
                             </tbody></table>
                         </td>
+                    </tr>
+                </tbody></table>
+                <table border="0" cellspacing="0" cellpadding="0" width="740" nof="LY">
+                    <tbody><tr valign="TOP" align="LEFT">
+                        <td width="124" height="8"><img src="../clearpixel.gif" width="124" height="1" border="0"></td>
+                        <td width="530"><img src="../clearpixel.gif" width="530" height="1" border="0"></td>
+                        <td width="86"><img src="../clearpixel.gif" width="86" height="1" border="0"></td>
+                    </tr>
+                    <tr valign="TOP" align="LEFT">
+                        <td></td>
+                        <td width="530"><p align="CENTER"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">Please visit our hosting sponsor - </font><a href="http://www.asharedhosting.com/"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">
+                            www.asharedhosting.com</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"></font></p></td>
                         <td></td>
                     </tr>
                 </tbody></table>
-                <table border="0" cellspacing="0" cellpadding="0" width="720" nof="LY">
+                <table border="0" cellspacing="0" cellpadding="0" width="740" nof="LY">
                     <tbody><tr valign="TOP" align="LEFT">
-                        <td width="25" height="8"><img src="../clearpixel.gif" width="25" height="1" border="0"></td>
+                        <td width="44" height="8"><img src="../clearpixel.gif" width="44" height="1" border="0"></td>
                         <td width="653"><img src="../clearpixel.gif" width="653" height="1" border="0"></td>
-                        <td width="42"><img src="../clearpixel.gif" width="42" height="1" border="0"></td>
+                        <td width="43"><img src="../clearpixel.gif" width="43" height="1" border="0"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
                         <td></td>
@@ -163,11 +168,11 @@ border="0" alt="Click Here"></a>
                         <td></td>
                     </tr>
                 </tbody></table>
-                <table border="0" cellspacing="0" cellpadding="0" width="720" nof="LY">
+                <table border="0" cellspacing="0" cellpadding="0" width="740" nof="LY">
                     <tbody><tr valign="TOP" align="LEFT">
-                        <td width="41" height="6"><img src="../clearpixel.gif" width="41" height="1" border="0"></td>
+                        <td width="60" height="6"><img src="../clearpixel.gif" width="60" height="1" border="0"></td>
                         <td width="621"><img src="../clearpixel.gif" width="621" height="1" border="0"></td>
-                        <td width="58"><img src="../clearpixel.gif" width="58" height="1" border="0"></td>
+                        <td width="59"><img src="../clearpixel.gif" width="59" height="1" border="0"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
                         <td></td>
@@ -177,9 +182,9 @@ border="0" alt="Click Here"></a>
                 </tbody></table>
                 <table border="0" cellspacing="0" cellpadding="0" nof="LY">
                     <tbody><tr valign="TOP" align="LEFT">
-                        <td width="120" height="18"><img src="../clearpixel.gif" width="120" height="1" border="0"></td>
+                        <td width="139" height="18"><img src="../clearpixel.gif" width="139" height="1" border="0"></td>
                         <td></td>
-                        <td width="137"><img src="../clearpixel.gif" width="137" height="1" border="0"></td>
+                        <td width="138"><img src="../clearpixel.gif" width="138" height="1" border="0"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
                         <td></td>
@@ -189,27 +194,25 @@ border="0" alt="Click Here"></a>
                                     <td width="455"><p align="CENTER"><!-- BEGIN RICH-MEDIA BURST! CODE --> 
 <script language="JavaScript">
 <!--
-ShowBurstAd('ba6636a','468','60');
-// --></script><script src="http://www.burstnet.com/cgi-bin/ads/ba6636a.cgi/ni/RETURN-CODE/JS/5988"></script>
+ShowBurstAd('ba6636a','468','60','468x60B','0', 'FFFFFF', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/ba6636a.cgi/NI/if/v=1.0J/zgFFFFFF/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207183302id_%252Fhttp%25253A%252F%252Fwww.fontgarden.com%252Fprivacy%252Fprivacy.htm/5991/RETURN-CODE" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/ba6636a-map.cgi/v=1.0J/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207183302id_%252Fhttp%25253A%252F%252Fwww.fontgarden.com%252Fprivacy%252Fprivacy.htm/5991" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/ba6636a.cgi/v=1.0J/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207183302id_%252Fhttp%25253A%252F%252Fwww.fontgarden.com%252Fprivacy%252Fprivacy.htm/5991" border="0" alt="Click Here"></a></iframe>
 <noscript><a 
-                                        href="http://www.burstnet.com/ads/ba6636a-map.cgi/ns" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ba6636a.cgi/ns" 
-width="468" height="60" border="0" alt="Click Here"></a> 
+                                        href="http://www.burstnet.com/ads/ba6636a-map.cgi/ns/v=1.0J/sz=468x60B/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ba6636a.cgi/ns/v=1.0J/sz=468x60B/" border="0" alt="Click Here"></a> 
                                         
 </noscript>
-<!-- END BURST CODE -->
-&nbsp;</p></td>
+<!-- END BURST CODE -->&nbsp;</p></td>
                                 </tr>
                             </tbody></table>
                         </td>
                         <td></td>
                     </tr>
                 </tbody></table>
-                <table border="0" cellspacing="0" cellpadding="0" width="720" nof="LY">
+                <table border="0" cellspacing="0" cellpadding="0" width="740" nof="LY">
                     <tbody><tr valign="TOP" align="LEFT">
-                        <td width="118" height="34"><img src="../clearpixel.gif" width="118" height="1" border="0"></td>
+                        <td width="156" height="23"><img src="../clearpixel.gif" width="156" height="1" border="0"></td>
                         <td width="467"><img src="../clearpixel.gif" width="467" height="1" border="0"></td>
-                        <td width="135"><img src="../clearpixel.gif" width="135" height="1" border="0"></td>
+                        <td width="117"><img src="../clearpixel.gif" width="117" height="1" border="0"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
                         <td></td>
@@ -218,24 +221,24 @@ width="468" height="60" border="0" alt="Click Here"></a>
                         <td></td>
                     </tr>
                 </tbody></table>
-                <table border="0" cellspacing="0" cellpadding="0" width="720" nof="LY">
+                <table border="0" cellspacing="0" cellpadding="0" width="740" nof="LY">
                     <tbody><tr valign="TOP" align="LEFT">
-                        <td width="58" height="6"><img src="../clearpixel.gif" width="58" height="1" border="0"></td>
-                        <td width="586"><img src="../clearpixel.gif" width="586" height="1" border="0"></td>
-                        <td width="76"><img src="../clearpixel.gif" width="76" height="1" border="0"></td>
+                        <td width="125" height="4"><img src="../clearpixel.gif" width="125" height="1" border="0"></td>
+                        <td width="529"><img src="../clearpixel.gif" width="529" height="1" border="0"></td>
+                        <td width="86"><img src="../clearpixel.gif" width="86" height="1" border="0"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
                         <td></td>
-                        <td width="586"><p align="LEFT"><a href="../index.html"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">HOME</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="../today/today.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">TODAY'S FONT</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="../previous/previous.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">RECENT ADDITIONS</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://www.fontgarden.com/archive/"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">ARCHIVED FONTS</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="../links/links.html"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">LINKS
-                            </font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://www.fontgarden.com/mac/"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">MAC FONT ARCHIVE</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> -&nbsp; </font><a href="http://www.fontgarden.com/dingbats/"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">DINGBATS</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="../quotes/quotes.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">QUOTATIONS</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://pub42.bravenet.com/guestbook/show.asp?usernum=3565930199&amp;cpv=1"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">GUEST BOOK</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="../contact/contact.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">CONTACT</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://pub3.ezboard.com/bfonts"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">FONT FORUM</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="../handwriting/handwriting.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">YOUR FONT</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> -&nbsp; </font><a href="../handwriting/handwriting.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">YOUR FONT SHOWCASE</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://pub42.bravenet.com/faq/show.php?usernum=3565930199&amp;cpv=1"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">FAQ</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://www.fontgarden.com/report/report.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">REPORT AN ERROR</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="mailto:advertise@fontgarden.com"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">ADVERTISE ON FONT GARDEN</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"></font></p></td>
+                        <td width="529"><p align="LEFT"><a href="../index.html"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">HOME</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="../today/today.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">TODAY'S FONT</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="../previous/previous.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">RECENT ADDITIONS</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://www.fontgarden.com/archive/"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">ARCHIVED FONTS</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="../links/links.html"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">LINKS
+                            </font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://www.fontgarden.net/mac/"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">MAC FONT ARCHIVE</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> -&nbsp; </font><a href="http://www.fontgarden.net/dingbats/"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">DINGBATS</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="../quotes/quotes.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">QUOTATIONS</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://pub42.bravenet.com/guestbook/show.php?usernum=3565930199&amp;cpv=2"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">GUEST BOOK</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="../contact/contact.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">CONTACT</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://pub3.ezboard.com/bfonts"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">FONT FORUM</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://www.fontgarden.net/handwriting/handwriting.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">YOUR FONT</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> -&nbsp; </font><a href="http://www.fontgarden.net/handwriting/gallery.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">YOUR FONT GALLERY</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://pub42.bravenet.com/faq/show.php?usernum=3565930199&amp;cpv=1"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">FAQ</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="http://www.fontgarden.com/report/report.htm"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">REPORT AN ERROR</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"> - </font><a href="mailto:advertise@fontgarden.com"><font size="-2" face="Verdana,Tahoma,Arial,Helvetica">ADVERTISE ON FONT GARDEN</font></a><font size="-2" face="Verdana,Tahoma,Arial,Helvetica"></font></p></td>
                         <td></td>
                     </tr>
                 </tbody></table>
-                <table border="0" cellspacing="0" cellpadding="0" width="720" nof="LY">
+                <table border="0" cellspacing="0" cellpadding="0" width="740" nof="LY">
                     <tbody><tr valign="TOP" align="LEFT">
-                        <td width="331" height="10"><img src="../clearpixel.gif" width="331" height="1" border="0"></td>
+                        <td width="369" height="6"><img src="../clearpixel.gif" width="369" height="1" border="0"></td>
                         <td></td>
-                        <td width="349"><img src="../clearpixel.gif" width="349" height="1" border="0"></td>
+                        <td width="331"><img src="../clearpixel.gif" width="331" height="1" border="0"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
                         <td height="40"></td>
