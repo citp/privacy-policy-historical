@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the phuket.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223174341id_/http%3A//www.phuket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phuket.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305012556id_/http%3A//www.phuket.com/privacy.htm) for the most accurate reproduction.*
 
 # Phuket Thailand - hotel, travel and local information guide
 
 ### Asia Web Direct Group
 
-Asia Web Direct Co. Ltd. and its subsidiary and associate companies operate www.resort-hotels.com, www.latestays.com, www.phuket.com, www.gothailand.com, and many other clearly identified Web sites. We respect your privacy and value your trust in us. We will do everything in our power to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. 
+Asia Web Direct Co. Ltd. and its subsidiary and associate companies operate www.latestays.com, www.phuket.com, www.bangkok.com, www.kosamui.com, www.gothailand.com, www.resort-hotels.com and many other clearly identified Web sites. We respect your privacy and value your trust in us. We will do everything in our power to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. 
 
 ### Personal Information
 
@@ -22,7 +22,7 @@ We reserve the right to use "cookies" technology to reduce the time required for
 
 For all transactions, we will employ reasonable and current Internet security methods and technologies. We encourage our participating third-party clients to adopt and honor their own consumer privacy policies. 
 
-**Statistics and Demographics**
+### **Statistics and Demographics**
 
 We may reveal general, non-personal data about our Web site, such as number of visitors, country of origin, number of goods and services purchased, etc. 
 
