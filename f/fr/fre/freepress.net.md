@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204021831id_/http%3A//www.freepress.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305050005id_/http%3A//www.freepress.net/privacy.php) for the most accurate reproduction.*
 
 # Free Press : Privacy Policy
 
@@ -28,9 +28,9 @@ Free Press offers several electronic mailing lists. If you choose to subscribe t
 
 There are a number of ways to subscribe to Free Press mailing lists, including submitting a form at our website, opting in when you engage in online activism, or mailing a sign-up form from a brochure or flier. When you subscribe, you will typically receive a confirmation message welcoming you.
 
-You can unsubscribe from any of our lists at any time. In the event you wish to update or delete an email address in our possession at any time for any reason, please contact [info(AT)freepress.net](https://web.archive.org/web/20041204021831id_/http%3A//www.freepress.net/mailconvert.php?addr=info) to make those changes.
+You can unsubscribe from any of our lists at any time. In the event you wish to update or delete an email address in our possession at any time for any reason, please contact [info(AT)freepress.net](https://web.archive.org/web/20050305050005id_/http%3A//www.freepress.net/mailconvert.php?addr=info) to make those changes.
 
-E-Activist subscribers can manually remove themselves from that list [here](https://web.archive.org/web/20041204021831id_/http%3A//www.freepress.net/action/unsub.php). Likewise, headlines subscribers can do so [here](https://web.archive.org/web/20041204021831id_/http%3A//www.freepress.net/mailman/listinfo/freepress_headlines). 
+E-Activist subscribers can manually remove themselves from that list [here](https://web.archive.org/web/20050305050005id_/http%3A//www.freepress.net/action/unsub.php). Likewise, headlines subscribers can do so [here](https://web.archive.org/web/20050305050005id_/http%3A//www.freepress.net/mailman/listinfo/freepress_headlines). 
 
 * * *
 
@@ -60,4 +60,4 @@ If we are required by law to disclose any information that you have provided us,
 
 ## Questions?
 
-For any other information about our privacy practices and/or this policy, please contact [info(AT)freepress.net](https://web.archive.org/web/20041204021831id_/http%3A//www.freepress.net/mailconvert.php?addr=info).
+For any other information about our privacy practices and/or this policy, please contact [info(AT)freepress.net](https://web.archive.org/web/20050305050005id_/http%3A//www.freepress.net/mailconvert.php?addr=info).
