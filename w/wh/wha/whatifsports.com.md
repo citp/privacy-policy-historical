@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatifsports.com privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409050718id_/http%3A//whatifsports.com/locker/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatifsports.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215190118id_/http%3A//whatifsports.com/locker/privacy.shtm) for the most accurate reproduction.*
 
 # WhatIfSports.com: Privacy Statement
 
