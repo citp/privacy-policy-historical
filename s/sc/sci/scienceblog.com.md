@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceblog.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622115806id_/http%3A//www.scienceblog.com/community/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceblog.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205055056id_/http%3A//www.scienceblog.com/community/privacy.html) for the most accurate reproduction.*
 
 # 
 
