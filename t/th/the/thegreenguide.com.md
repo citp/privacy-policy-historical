@@ -1,56 +1,62 @@
-> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610180335id_/http%3A//thegreenguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022137id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
 
 # The Green Guide: Privacy Statement
 
 |  | 
 
-Privacy Statement for thegreenguide.com 
+Privacy Policy for thegreenguide.com 
 
 _July 1, 2002_
 
-The Green Guide Institute has created this statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for www.thegreenguide.com: 
+To help you understand how information submitted will be treated when you log on to and use our web site, TheGreenGuide.com offers this Privacy Policy. Use of TheGreenGuide.com web site, and disclosure to us of your personal information, is optional and voluntary. By visiting and using TheGreenGuide.com, you are accepting and agreeing to the practices described in this Policy.
+
+The following paragraphs describe the type of information TheGreenGuide.com collects, the reasons why such information is collected, how such information is used and who has access to it. 
 
 Scope 
 
 This document addresses the privacy policy of thegreenguide.com and does not necessarily reflect the privacy policy of any other affiliated organization or individual. 
 
-This statement is subject to change or alteration at any time, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Notices of such changes will be posted on this web page. You should check our website frequently to see recent changes. 
+This Privacy statement may change from time to time without notice to you. You should read this Privacy Policy each time you plan to submit personal information so you understand how the information you are submitting will be used.
+
+Any changes made to the Privacy Policy will be prospective, not retroactive.
 
 Information Gathering 
 
-General Information: If you subscribe for, purchase or otherwise make use of our products and services, we may collect personal information from you, including your name, age, address, e-mail address, credit card number and facts about your computers, professional and consumer interests. We do not, however, knowingly collect personal information from children under the age of thirteen. 
+**General Information:** Our site uses order forms for customers to subscribe to our web site (TheGreenGuide.com) and our publication, The Green Guide, and sign up forms for customers to receive other information products and services, including but not limited to The Green Guide to Go, our bi-weekly green home e-bulletin. We use these forms to collect information from visitors (like their name, postal and e-mail addresses, interests, and credit card information in the case of an order). Contact information that is gathered is used to send orders to our customers, or to send e-mail bulletins and notices that they have requested. 
 
-**IP addresses:** We use your IP address (the location of your computer on the internet) to help diagnose problems with our server, to administer our Web site, to gauge the popularity of content areas, and to gather broad demographic information for prospective advertisers. 
+We do not knowingly collect personal information from children under the age of thirteen. 
 
-**Cookies:** Although we do not currently do so, we reserve the right to use "cookies" to authenticate registered users and subscribers, and to target promotional campaigns based on broad demographic categories. 
+**Cookies and IP addresses:** In order to offer and provide personalized customer services, TheGreenGuide.com uses cookies. A cookie is a small data file that certain web sites write to your hard drive when you visit them. A cookie file may contain information such as a user ID that the site uses to track the pages you have visited and to allow easy access to restricted areas of the web site. The only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk, read cookie files created by other sites, or damage your files.
+
+If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You also may refuse cookies by disabling them on your browser. You do need to have cookies turned on (enabled) to use premium areas of TheGreenGuide.com.
+
+IP addresses are also recorded in the log files on TheGreenGuide.com. TheGreenGuide.com may use IP addresses to analyze trends, administer the site, track users' movement and gather broad demographic information for aggregate use.
 
 Information Use 
 
-We may use information in the following ways: 
+TheGreenGuide.com uses any information you voluntarily give to enhance your experience, whether to provide interactive or personalized elements on the site, to present content more effectively, or to make our future marketing efforts more efficient.
 
-For the purposes for which you specifically provided the information including, for example, to enable us to process, validate and verify subscriptions. 
+TheGreenGuide.com uses information you voluntarily submit to send out email notices and electronic bulletins and to enable users to move seamlessly through our web site. We send out e-bulletins on a regular schedule (bi-weekly) and occasionally send out special e-notices when we think subscribers might be particularly interested in something we are doing. With respect to advertisements, an advertiser will inform us which type of audience it seeks to reach, and TheGreenGuide.com, will place the advertisement in the body of the email bulletins of those individuals fitting the advertiser's criteria. Pop-up advertisements are displayed to a targeted audience based on the same criteria. The advertisers are not able to access your account or any of your personally identifiable information.
 
-To send you e-mail notifications about our new or existing products and services, special offers, or to otherwise contact you. 
+We also use tracking information to determine which areas of our site users like and do not like based on traffic to those areas.
 
-To enhance existing features or develop new features, products and services. 
+TheGreenGuide.com creates aggregate reports on user demographics and traffic patterns for advertisers. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their interests. Because TheGreenGuide.com does not track the usage patterns of individual users, an advertiser will never know that a specific user clicked on a particular ad.
 
 Information Sharing 
 
 **Email Addresses:** We will not share your e-mail address with third parties, although we reserve the right to present you with information on their behalf. 
 
-**Subscription Lists:** In accordance with standard industry practice, The Green Guide Institute may rent, exchange or sell to third parties information you provide us when ordering a subscription to our print publication. 
+**Subscription Lists:** In accordance with standard industry practice, The Green Guide Institute may rent, exchange or sell to third parties information you provide us when ordering a subscription to the print publication. 
 
 If you wish not to receive unsolicited offers by mail, we encourage you to contact us by [clicking here](https://web.archive.org/contact/priv). 
 
 **Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but are contractually prohibited from using it for other purposes. 
 
-**Affiliated Businesses and Organizations:** We work with affiliated businesses, examples of which are Powell's Online Books and greenhom.com. These businesses offer products to you at their web site. If you transfer to their site from our site to make a purchase, The Green Guide Institute receives a small referral fee. 
+**Affiliated Businesses and Organizations:** We work with affiliated businesses, examples of which are Powell's Online Books and greenfeet.com. These businesses offer products to you at their web site. If you transfer to their site from our site to make a purchase, The Green Guide Institute receives a small referral fee. For more information on our Affiliates program, go to http://www.thegreenguide.com/about/affiliates. 
 
 Links 
 
-This site contains links to other websites, in the form of hyperlinks. The Green Guide Institute is not responsible for the privacy practices or the content of such Web sites. 
-
-Our site uses an order form for customers to subscribe to our print publication, The Green Guide. We collect visitor's contact information (like their postal and e-mail addresses). Contact information from the order form is used to send orders to our customers, or to send e-mail newsletters that they have requested. 
+This site contains links to many other websites, in the form of hyperlinks. The Green Guide Institute is not responsible for the privacy practices or the content of such Web sites. 
 
 Public Forums 
 
@@ -80,18 +86,20 @@ History of Amendments to This Document
 
 _July 1, 2002:_ Document language finalized and published. 
 
+_November 23, 2004_ Document amended.
+
 |  |  |  |    |  |  |  | 
 
 |  [](https://ssl.thegreenguide.com/subscribe/index.mhtml)  
 ---  
   
-Receive 6 bi-monthly issues of the award-winning newsletter **PLUS FREE** Pocket Guides, Product Reports, and over $150 worth of coupons   
+The most trusted source for green home tips, product reviews and environmental health updates and advice   
   
+[](https://ssl.thegreenguide.com/cart/)
+
 Got a Question for _The Green Guide_? 
 
 [Click here](https://web.archive.org/about/coupons) for over $100 worth of COUPONS for popular green products! 
-
-[](https://ssl.thegreenguide.com/donate/)
 
 _thegreenguide.com_ meets the [Consumer WebWatch](http://www.consumerwebwatch.org/bestpractices/) guidelines promoting credible information practices on the Web. 
 
