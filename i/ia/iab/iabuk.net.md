@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iabuk.net privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207225828id_/http%3A//www.iabuk.net/index.php3%3Fview%3D78) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iabuk.net privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207121436id_/http%3A//www.iabuk.net/index.php3%3Fview%3D78) for the most accurate reproduction.*
 
 # IAB Internet Advertising Bureau / UK and Ireland
 
