@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622102005id_/http%3A//allfreelancework.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203033642id_/http%3A//www.allfreelancework.com/privacy.php) for the most accurate reproduction.*
 
 # All Freelance Work : Self-Employed jobs: Contractors : Consultants : Independent Professionals
 
 |   | 
 
-[**Home**](https://web.archive.org/web/20030622102005id_/http%3A//allfreelancework.com/indexx.html) **PRIVACY POLICY**
+[**Home**](https://web.archive.org/web/20031203033642id_/http%3A//www.allfreelancework.com/indexx.html) **PRIVACY POLICY**
 
 This is the web site of **AllFreelance**.  
 
@@ -38,16 +38,16 @@ If you feel that this site is not following its stated information policy, you m
 
 | 
 
-[](http://www.allfreelancework.com/portfoliofr.php?id=82364)
+[](http://www.allfreelancework.com/portfoliofr.php?id=92850)
 
-[](http://www.allfreelancework.com/portfoliofr.php?id=82875)
+[](http://www.allfreelancework.com/portfoliofr.php?id=38692)
 
    
 
 
-[](http://www.allfreelancework.com/portfoliofr.php?id=81845)
+[](http://www.allfreelancework.com/portfoliofr.php?id=93348)
 
-[](http://www.allfreelancework.com/portfoliofr.php?id=82462)
+[](http://www.allfreelancework.com/portfoliofr.php?id=46561)
 
 [](http://www.allfreelancework.com/afwtour.php)
 
@@ -67,13 +67,28 @@ Please suggest a site [**here**](http://www.allfreelancework.com/submit.php)\-
 
 [](http://www.allfreelance.com/contractedwork.html)
 
+**THE WEB DESIGN BUSINESS KIT  
+  
+  
+**Everything you need to start a Web Design Business or Grow your Existing One:
+
+  * Strategies for leveraging yourself to increase income
+  * How to use surveys to develop your marketing plans
+  * Ways to manage 10+ Projects at once
+  * How to open offices, hire and manage employees
+
+
+
+[**Download FREE Sample Chapters**](http://www.sitepoint.com/launch/cc41c7/3/4)  
+****
+
 [](http://www.qksrv.net/click-536746-4003080)
 
 [  
 ](http://allfreelance.billingorchard.com/)  
 BillingOrchard is a complete, online billing application for freelance developers, web design firms, and contract employees. [**15-Day Free Trial**](http://allfreelance.billingorchard.com/)
 
-**[Designer's Contracts and Pricing Guides](http://www.creativepublic.com/)** Quality contracts, pricing guides, and articles for designers. 
+**[Designer's Contracts and Pricing Guides](http://www.creativepublic.com/)** Quality contracts, pricing guides, and articles for designers.
 
 **[Art Institute Online](http://quinst.com/c.jsp?area=longfangtaimucheng)**  
 Learn Graphic Design or Web Design with Art Institute Online.
