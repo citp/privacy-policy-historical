@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgraphics.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622124005id_/http%3A//globalgraphics.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgraphics.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203010738id_/http%3A//globalgraphics.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ To ensure that your data is secure during transmission we will use Secure Socket
 
 The information we gather may be transferred across national boundaries and may be stored and processed in any of the countries in which Global Graphics Software Ltd. (hereinafter referred to as "Global Graphics") have offices.
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing [jane.stoner@globalgraphics.com](mailto:jane.stoner@globalgraphics.com). If you find any inaccuracies we will delete or correct the information promptly.
+The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing [privacy-information@globalgraphics.com](mailto:privacy-information@globalgraphics.com). If you find any inaccuracies we will delete or correct the information promptly.
 
 When you visit this site your visit to each page is recorded in a log file. This log file records information regarding your domain name and IP address. This information is collected to monitor and analyse traffic to the site and not for collecting personal information about you.
 
@@ -37,4 +37,4 @@ Global Graphics is not responsible for the content or privacy practices of non-G
 
 If our privacy statement is changed at any time we will post these changes on this page. 
 
-If you have any questions/comments about privacy, you should email [jane.stoner@globalgraphics.com](mailto:jane.stoner@globalgraphics.com).
+If you have any questions/comments about privacy, you should email [privacy-information@globalgraphics.com](mailto:privacy-information@globalgraphics.com). 
