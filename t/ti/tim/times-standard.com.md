@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the times-standard.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610173355id_/http%3A//www.times-standard.com/Stories/0%2C1413%2C127%25257E6098%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times-standard.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223112438id_/http%3A//www.times-standard.com/Stories/0%2C1413%2C127%25257E6098%25257E%2C00.html) for the most accurate reproduction.*
 
 # Times-Standard Online - Privacy Policy
 
@@ -6,11 +6,14 @@
 ---  
 [Local News](https://web.archive.org/Stories/0,1413,127%257E2896%257E,00.html)  
 [Business](https://web.archive.org/Stories/0,1413,127%257E2902%257E,00.html)  
-[Editorial](https://web.archive.org/Stories/0,1413,127%257E2906%257E,00.html)  
+[Opinions](https://web.archive.org/Stories/0,1413,127%257E2906%257E,00.html)  
 [Obituaries](http://www.legacy.com/times-standard/LegacyHome.asp)  
+[Bride's Guide](http://extras.times-standard.com/bridal/index.html)  
 [Weather](https://web.archive.org/Stories/0,1413,127%257E6402%257E,00.html)  
-[Weddings & Announcements](http://63.147.65.62/bridal/index.html)  
 [Earthquakes](http://quake.wr.usgs.gov/recenteqs/)  
+[Driscoll's Column](https://web.archive.org/Stories/0,1413,127%257E33785%257E,00.html)  
+[Local Election Results](http://co.humboldt.ca.us/election/results-1.htm)  
+[State Election Results](http://vote2004.ss.ca.gov/)  
     
 [Sports](https://web.archive.org/Stories/0,1413,127%257E31114%257E,00.html)  
 [Local Sports](https://web.archive.org/Stories/0,1413,127%257E2899%257E,00.html)  
@@ -22,37 +25,44 @@
     
 [Special Series](https://web.archive.org/Stories/0,1413,127%257E30555%257E,00.html)  
 [Community In Crisis](https://web.archive.org/Stories/0,1413,127%257E30600%257E,00.html)  
-[Pain Matrix](https://web.archive.org/Stories/0,1413,127%257E30556%257E,00.html)  
-[Calpine & LNG ](https://web.archive.org/Stories/0,1413,127%257E30557%257E,00.html)  
+[Pain Matrix ](https://web.archive.org/Stories/0,1413,127%257E30556%257E,00.html)  
+    
+[Health](http://mngtimes-standard.healthology.com/)  
+[Men's Health](http://mngtimes-standard.healthology.com/nip_v2.asp?f=nip_default&c=men&b=coolnurse)  
+[Women's Health](http://mngtimes-standard.healthology.com/nip_v2.asp?f=nip_default&c=women&b=coolnurse)  
+[Senior Health](http://mngtimes-standard.healthology.com/nip_v2.asp?f=nip_default&c=senior&b=coolnurse)  
     
 [Photo Gallery](http://www.dotphoto.com/go.asp?l=tsdotphoto)  
     
 [Marketplace](http://times-standard.townnews.com/classifieds/)  
+[Jobs](http://times-standard.townnews.com/classifieds/?loc=detail&main=Employment#Help_Wanted)  
 [Classifieds](http://times-standard.townnews.com/classifieds/)  
-[Jobs](http://www.employmentwizard.com/perl/vaui/Search/top/searchentry/?pid=54)  
 [Real Estate](http://times-standard.townnews.com/classifieds/?loc=detail&main=Real%20Estate)  
 [On the Market](https://web.archive.org/Stories/0,1413,127%257E30544%257E,00.html)  
 [Autos](http://times-standard.townnews.com/classifieds/sunday/?loc=detail&main=Automotive)  
-[Place an Ad](http://times-standard.townnews.com/forms/classifieds/classifieds.html)  
+[Place an Ad](https://secure.townnews.com/times-standard.townnews.com/forms/classifieds/classifieds.html)  
 [Tri-City Weekly](http://tricityweekly.com/)  
-    
-[Directory](http://63.147.65.71/ads/class_directory.htm)  
+[Directory](http://extras.times-standard.com/ads/class_directory.htm)  
     
 Special Sections  
-[Living with Fire](http://63.147.65.62/fire/index.htm)  
-[Restore & Preserve](http://63.147.65.62/preserve/index.html)  
-[Brides Guide](http://63.147.65.62/bridal/index.html)  
-[Super Student](http://63.147.65.62/super_student/index.htm)  
+[150th Anniversary](http://extras.times-standard.com/150/index.asp)  
+[Miatas in our Midst](http://extras.times-standard.com/miata/index.htm)  
+[Living with Fire](http://extras.times-standard.com/fire/index.htm)  
+[Restore & Preserve](http://extras.times-standard.com/preserve/index.shtml)  
+[Brides Guide](http://extras.times-standard.com/bridal/index.html)  
+[Super Student](http://extras.times-standard.com/super_student/ss.htm)  
 [Visitors Guide](http://www2.chicoer.com/visitors/)  
-[North Coast Vacations](http://63.147.65.62/vacations2004/index.html)  
+[North Coast Vacations](http://extras.times-standard.com/vacations2004/index.html)  
     
 [Entertainment](https://web.archive.org/Stories/0,1413,127%257E27041%257E,00.html)  
 [Style](https://web.archive.org/Stories/0,1413,127%257E2905%257E,00.html)  
+[TV Listings](http://tvlistings4.zap2it.com/partners/index.asp?partner_id=caetus)  
 [Movies - Eureka/Arcata](http://www.minortheatres.com/nowplaying.cfm)  
 [Movies - Fortuna](http://www.cinemawest.com/fta.html)  
 [Horoscopes](https://web.archive.org/Stories/0,1413,127%257E2939%257E,00.html)  
 [Lottery Results](https://web.archive.org/Stories/0,1413,127%257E2940%257E,00.html)  
 [Soap Opera Recaps](https://web.archive.org/Stories/0,1413,127%257E2941%257E,00.html)  
+[Humboldt Music](http://humboldtmusic.com/)  
     
 [Inside North Coast](http://www.insidenorthcoast.com/)  
     
