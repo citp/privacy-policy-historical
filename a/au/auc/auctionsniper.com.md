@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the auctionsniper.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021454id_/http%3A//www.auctionsniper.com%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionsniper.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014041323id_/http%3A//www.auctionsniper.com/privacy.aspx) for the most accurate reproduction.*
 
-# AuctionSniper eBay Sniper - Snipe eBay Auctions and Win
+# AuctionSniper Help
 
-AuctionSniper.com has created this statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.AuctionSniper.com](http://www.moneymover.com/).
+AuctionSniper.com has created this statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.AuctionSniper.com** .
 
 We use your IP address to help diagnose problems with our server and to administer our Web site. We use cookies to deliver content specific to your interests and to save your password so you don't have to reenter it each time you visit our site.
 
@@ -14,13 +14,9 @@ This site contains links to other sites. AuctionSniper.com is not responsible fo
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
 **Correct/Update your account information**  
-This site gives users the following options for changing and modifying information previously provided.
+This site gives users the following options for changing and modifying information previously provided. 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, contact:
 
-Site Administrator  
-AuctionSniper.com  
-16 Dziok Dr  
-East Hampton, CT 06424  
-[support@AuctionSniper.com](mailto:support@moneymover.com)
+[http:/support.auctionsniper.com](http://www.support.auctionsniper.com/)
