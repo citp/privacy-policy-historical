@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605185636id_/http%3A//www.physioroom.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208211440id_/http%3A//www.physioroom.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # PhysioRoom.com - PREMIER LEAGUE SPORTS INJURY CENTRE
-
-ADVERTISEMENT   
-[](https://web.archive.org/cgi-bin/adclick.pl?id=4)   
-
 
 ADVERTISEMENT   
 [](http://www.dunitz.co.uk/)
@@ -39,27 +35,40 @@ When you view our Website, we may store some information on your computer in the
   
 | 
 
-Features   
+Quick Links   
 
 
-ARTHROSCOPIC SURGERY  
-Arthroscopic surgery is now commonly used in the treatment of knee conditions. We explain what the procedure involves.  
-[](https://web.archive.org/injuries/supplements/knee_arthroscopy.shtml)  
+MEDICAL MATTERS
+
+ACL specialist Dr Richard Steadman.  
+[](https://web.archive.org/features/dr_steadman_1.shtml)
+
+NSAIDs in the treatment of sports injuries.  
+[](https://web.archive.org/features/nsaids.shtml)
+
+Ligament damage and repair.  
+[](https://web.archive.org/injuries/supplements/ligaments.shtml)
+
+Muscle strains and their prevention.  
+[](https://web.archive.org/injuries/supplements/muscle_strains.shtml)
+
+Glossary of medical terms.  
+[](https://web.archive.org/injuries/glossary/index.shtml)
+
+SPORT MATTERS  
 
 
-WARMING UP  
-Find out how a warm up benefits athletes and what a typical warm up programme for a professional footballer involves  
-[](https://web.archive.org/prevention/warm_up1.shtml)  
+Premiership chief physiotherapist interviews.  
+[](https://web.archive.org/features/index.shtml)
 
+Prognostic indicator - a guide to common sports injury rehab durations.  
+[](https://web.archive.org/injuries/prognosis.html)
 
-The BIG Interview  
-Manchester United's chief physiotherapist, Rob Swire.  
-[](https://web.archive.org/features/rob_swire.shtml)  
+Guides to warming up, cooling down and stretching.  
+[](https://web.archive.org/prevention/index.shtml)
 
-
-PROGNOSTIC INDICATOR  
-A straightforward guide to how long sports people can be expected to be out of action when injured.  
-[](https://web.archive.org/injuries/prognosis.shtml)
+Professional footballer medicals.  
+[](https://web.archive.org/features/medicals.shtml)
 
 HAVE YOUR SAY   
 Tell us what else you'd like to see here at PhysioRoom.com  
