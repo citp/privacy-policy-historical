@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagetraffic.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211184917id_/http%3A//www.pagetraffic.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagetraffic.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622045646id_/http%3A//www.pagetraffic.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # PAGE TRAFFIC PRIVACY POLICY - A Search Engine Optimization Web Promotion Company of india
 
@@ -8,7 +8,7 @@
 
 ##### COMMITMENT TO YOUR PRIVACY -
 
-This site is owned and operated by Candid Infosys (P) Ltd. Your privacy on the Internet is of the utmost importance to us. At Pagetraffic.com, we want to make your experience online satisfying and safe. 
+This site is owned and operated by Page Traffic Your privacy on the Internet is of the utmost importance to us. At Pagetraffic.com, we want to make your experience online satisfying and safe. 
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
@@ -130,9 +130,9 @@ Consistent with the Federal Children's Online Privacy Protection Act of 1998 (CO
 **[Partner with Us](https://web.archive.org/search-engine-optimization-company.asp)**  
 **[Our SEO Approach](https://web.archive.org/search-engine-optimization-process.htm)**  
 ---  
-**Our Recent Case Studies**  
-| [Case Study 1 ](https://web.archive.org/case-study-1.htm)  
-| [Case Study 2 ](https://web.archive.org/case-study-2.htm)  
+**[Our Recent Success Stories](https://web.archive.org/rank.htm)**  
+| [Success Story 1 ](https://web.archive.org/case-study-1.htm)  
+| [Success Story 2 ](https://web.archive.org/case-study-2.htm)  
 **Latest Rank Reports**  
 ****| **[Rank Report 1](https://web.archive.org/rank-report1.htm)**  
 ****| **[Rank Report 2](https://web.archive.org/rank-report2.htm)**  
