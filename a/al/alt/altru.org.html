@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the altru.org privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606092717id_/http%3A//www.altru.org/Policies/Priv_pol.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the altru.org privacy policy that was archived on 2004-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041011080938id_/http%3A//www.altru.org/Policies/Priv_pol.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Privacy Policy</title>
@@ -28,408 +28,553 @@
  </style>
 	
 	
-<title>Altru Health System</title><meta name="Description" content="Providing quality health care to Grand Forks, North Dakota and Minnesota. Altru Health System offers resources online, including Physician Search, and Health News and Information."><meta name="Keywords" content="Altru,Cancer,Childbirth,Clinics,Diabetes,Doctors,Grand Cities,Grand Forks,Grand Forks Clinics,Grand Forks Doctors,Grand Forks Hospitals,Grand Forks Physicians,Health,Hospitals,Medicine,Nursery,Parkwood Place,Pediatrics,Physicians,Pregnancy,Psychiatry,Rehabilitation,Retirement,Senior Housing,Volunteers"><style type="text/css">
-	.time{ font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 8pt; color : White; font-weight : bold; }
-	.hvText{font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 8pt; color : White; font-weight : bold; }
-	.hvFoot{ font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 9pt; color : #FFFFFF; font-weight : bold; text-decoration : none;}
-	A.hvLinks{ font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 8pt; color : #003399; font-weight : bold; text-decoration : none;}
-	A.hvFoot{ font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 9pt; color : #FFFFFF; font-weight : bold; text-decoration : none;}
-	A.hvFootsm{ font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 8pt; color : #FFFFFF; font-weight : bold; text-decoration : none;}
-	A.Foot:link{ color:#FFFFFF;}
-	A.Foot:active{ color:#FFFFFF;}
-	A.Foot:visited{ color:#FFFFFF;}	
+<link rel="STYLESHEET" type="text/css" href="/theme/Style/ALHS58201_landing2_layout.css"></head>
 
-	DIV.clTop{position:absolute; width:163; }
-	DIV.clSub{ position:absolute; left:0; width:163; background-color : #94A6AD; layer-background-color : #94A6AD; }
-	#divCont{position:absolute; left:0; top:72; height:440; width:163;  visibility: hidden;}
-	A.clSubb{ font-family:Arial, Verdana, Helvetica, Helv; font-size:9pt; text-decoration:none; font-weight:bold; color:#003399;}
-	A:link{ color:#003399;}
-	A:active{ color:#000000;}
-	A:visited{ color:#006600;}
-</style><script language="JavaScript1.2" type="text/javascript">
-<!-- NN RESIZE -->
-NS4 = document.layers
-if (NS4){
-origWidth = innerWidth;
-origHeight = innerHeight;
-}
-
-function reBuild(){
-if (innerWidth != origWidth || innerHeight != origHeight)
-location.reload();
-}
-
-if (NS4) onresize = reBuild;
-
-<!-- NEW MENU -->
-function lib_bwcheck(){
-	this.ver=navigator.appVersion
-	this.agent=navigator.userAgent
-	this.dom=document.getElementById?1:0
-	this.opera5=(navigator.userAgent.indexOf("Opera")>-1 && document.getElementById)?1:0
-	this.ie5=(this.ver.indexOf("MSIE 5")>-1 && this.dom && !this.opera5)?1:0; 
-	this.ie6=(this.ver.indexOf("MSIE 6")>-1 && this.dom && !this.opera5)?1:0;
-	this.ie4=(document.all && !this.dom && !this.opera5)?1:0;
-	this.ie=this.ie4||this.ie5||this.ie6
-	this.mac=this.agent.indexOf("Mac")>-1
-	this.ns6=(this.dom && parseInt(this.ver) >= 5) ?1:0; 
-	this.ns4=(document.layers && !this.dom)?1:0;
-	this.bw=(this.ie6 || this.ie5 || this.ie4 || this.ns4 || this.ns6 || this.opera5)
-	return this
-}
-var bw=new lib_bwcheck()
-<!-- fold number is the total number of div tops -->
-<!-- folfimg 1 is yes for arrows, 0 is no for arrows -->
-<!-- mainOffsetY is distance between top level buttons -->
-FoldNumber = 6		
-var stayFolded = false			
-foldImg = 1						
-mainOffsetY = 0				
-
-var unImg=new Image();
-unImg.src='/theme/images/Interface/arrow_off.gif'
-
-var exImg=new Image();					
-exImg.src='/theme/images/Interface/arrow_on.gif'	
-
-var px = bw.ns4||window.opera?"":"px";
-
-if(navigator.userAgent.indexOf('Opera')>-1 && document.getElementById){ 
-	scrX= innerWidth; scrY= innerHeight;
-	document.onmousemove= function(){
-		if(scrX<innerWidth-10 || scrY<innerHeight-10 || scrX>innerWidth+10 || scrY>innerHeight+10){
-			scrX = innerWidth;
-			scrY = innerHeight;
-			initFoldout();
-		}
-	}
-}
-
-function makeMenu(obj,nest){
-	nest= (!nest)?"":'document.'+nest+'.';
-	this.el= bw.ie4?document.all[obj]:bw.ns4?eval(nest+'document.'+obj):document.getElementById(obj);	
-   	this.css= bw.ns4?this.el:this.el.style;
-	this.ref= bw.ns4?this.el.document:document;		
-	this.x= (bw.ns4||bw.opera5)?this.css.left:this.el.offsetLeft;
-	this.y= (bw.ns4||bw.opera5)?this.css.top:this.el.offsetTop;
-	this.h= (bw.ie||bw.ns6)?this.el.offsetHeight:bw.ns4?this.ref.height:bw.opera5?this.css.pixelHeight:0;
-    this.vis= b_vis;
-	this.hideIt= b_hideIt;
-    this.showIt= b_showIt;
-    this.moveIt= b_moveIt;
-	return this
-}
-
-function b_showIt(){this.css.visibility='visible'}
-function b_hideIt(){this.css.visibility='hidden'}
-function b_vis(){if(this.css.visibility=='hidden' || this.css.visibility=='HIDDEN' || this.css.visibility=='hide') return true;}
-function b_moveIt(x,y){this.x=x; this.y=y; this.css.left=this.x+px; this.css.top=this.y+px}
-
-function menu(num){
-	if(bw.bw){
-		if (!stayFolded){
-			for (var i=0; i<oSub.length; i++){
-				if (i!=num){
-					oSub[i].hideIt()
-					if (foldImg)oTop[i].ref["imgA"+i].src = unImg.src
-				}
-			}
-			for(var i=1; i<oTop.length; i++){
-				oTop[i].moveIt(0,oTop[i-1].y+oTop[i-1].h)
-			}
-		}
-		if (oSub[num].vis()){
-			oSub[num].showIt()
-			if (foldImg)oTop[num].ref["imgA"+num].src = exImg.src
-		}else{
-			oSub[num].hideIt()
-			if(foldImg)oTop[num].ref["imgA"+num].src = unImg.src
-		}
-		for(var i=1; i<oTop.length; i++){ 
-			if (!oSub[i-1].vis()) oTop[i].moveIt(0,oTop[i-1].y+oTop[i-1].h+oSub[i-1].h+mainOffsetY) 
-			else oTop[i].moveIt(0,oTop[i-1].y+oTop[i-1].h+mainOffsetY)
-		}
-	}
-}
-
-function initFoldout(){
-window.status=""
-	bw.opera5 = (navigator.userAgent.indexOf("Opera")>-1 && document.getElementById)?true:false
-	if (bw.opera5) bw.ns6 = 0
-
-	oTop = new Array()
-	oSub = new Array()
-
-	for (var i=0; i<FoldNumber; i++){
-		oTop[i] = new makeMenu('divTop'+i,'divCont')
-		oSub[i] = new makeMenu('divSub'+i,'divCont.document.divTop'+i)
-		oSub[i].hideIt()
-	}
-	
-	oTop[0].moveIt(0,0)
-	for (var i=1; i<oTop.length; i++){
-		oTop[i].moveIt(0, oTop[i-1].y+oTop[i-1].h+mainOffsetY)
-	}
-	
-	oCont = new makeMenu('divCont')
-	oCont.showIt()
-}
-if(bw.bw) onload = initFoldout;
-
-<!-- KEEPS MENUS OPEN AND BUTTONS LIT -->
-function expandit(){
-window.status=""
-
-  //variables used to determine which page is current page
-  //used to highlight image and expand menu for that section
-
-
-  var pathString = window.location.pathname;
-
-  //Evaluate after converting to lowercase
-
-  pathString = pathString.toLowerCase();
-
-  //See if aboutus is in the url string and load the menu function
-  if (pathString.indexOf("/accessaltru/") != -1){
-    menu(0);
-         	}
-  if (pathString.indexOf("/altrunursery/") != -1){
-    menu(0);
-         	}
-  if (pathString.indexOf("/altrucenters/") != -1){
-    menu(1);
-         	}
-  if (pathString.indexOf("/cancercenter/") != -1){
-    menu(1);
-         	}
- if (pathString.indexOf("/diabetescenter/") != -1){
-    menu(1);
-         	}
- if (pathString.indexOf("/entcenter/") != -1){
-    menu(1);
-         	}
- if (pathString.indexOf("/familybirthingcenter/") != -1){
-    menu(1);
-         	}
- if (pathString.indexOf("/heartservices/") != -1){
-    menu(1);
-         	}
- if (pathString.indexOf("/orthopedics/") != -1){
-    menu(1);
-         	}
- if (pathString.indexOf("/vascularcenter/") != -1){
-    menu(1);
-         	}
- if (pathString.indexOf("/ambulatorycenter/") != -1){
-    menu(1);
-         	}         	
-  if (pathString.indexOf("/physicians/") != -1){
-    menu(0);
-         	}			
-  if (pathString.indexOf("/nursery/") != -1){
-    menu(0);
-         	}				
-			
-			
-			
-  if (pathString.indexOf("/healthwellness/") != -1){
-    menu(2);
-         	}
-if (pathString.indexOf("/yourhealth/") != -1){
-    menu(2);
-         	}
-if (pathString.indexOf("/events/") != -1){
-    menu(2);
-         	}			
-if (pathString.indexOf("/selfhelp/") != -1){
-    menu(2);
-         	}				
-			
-			
-			
-  if (pathString.indexOf("/patientresources/") != -1){
-    menu(3);
- 	}
-  if (pathString.indexOf("/aboutaltru/") != -1){
-    menu(4);
-         	}       		
-  if (pathString.indexOf("/jobopportunities/") != -1){
-    menu(5);
- 	}
-
- 	return false;
-  }
-  
-</script><script language="JavaScript" type="text/javascript">
-
-function colorIt(){
-
-  var pathString = window.location.pathname;
-  pathString = pathString.toLowerCase();
-  
-  if (pathString.indexOf("/cancercenter/") != -1){
-    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_cancer.gif >")
-         	}
-else if (pathString.indexOf("/diabetescenter/") != -1){
-    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_diabetes.gif >")
-         	}
-else  if (pathString.indexOf("/vascularcenter/") != -1){
-    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_vascular.gif >")
-         	}
-else  if (pathString.indexOf("/orthopedics/") != -1){
-    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_ortho.gif >")
-         	}
-else  if (pathString.indexOf("/entcenter/") != -1){
-    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_ent.gif >")
-         	}
-else  if (pathString.indexOf("/familybirthingcenter/") != -1){
-    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_birth.gif >")
-         	}
-else  if (pathString.indexOf("/heartservices/") != -1){
-    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_heart.gif >")
-         	}
-else  if (pathString.indexOf("/ambulatorycenter/") != -1){
-    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_ambulatory.gif>")
-         	}
-else{
-    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/big_bg.gif >")
-         	}
- 	return false;
-  }
-
-</script><link rel="STYLESHEET" type="text/css" href="/theme/style/main.css"><script language="JavaScript">
-colorIt(); 
-  </script></head>
+<!-- getting csId from DB -->
+<!--Now = 10/11/2004 3:09:37 AM-->
+<!--AryCsExpires = 10/11/2004 3:10:58 AM-->
+<!--org_id = 1081-->
+<!--CSID = -->
+<!--ContentName = Priv_pol.htm-->
+<!-- getting themeId from DB -->
+<!--Theme ID = 417-->
+<!-- getting Theme Info from cache -->
+<!--Opening menu file (ALHS58201_Horiz.mnu)-->
+<!--Opening layout file (ALHS58201_landing_layout03.htm)-->
 
 
 
+<body>
+<div id="easy" align="center"><div id="easy1" align="left">
 
 
-	
-
-
-
-    
-
-
-
-
-
-
-<!-- the altru.css styles have been included in the main.css use main.css only -->
-
-
-<!-- script writes out body tag based on contentstore -->
-<body onload="initFoldout();expandit();" link="#003399" vlink="#006600" alink="#000000" topmargin="0" marginheight="0" marginwidth="0" rightmargin="0" bottommargin="0" leftmargin="0" background="/theme/images/Interface/big_bg.gif">
-
-
-
-<div id="divCont" style="visibility: visible;">
-	<div id="divTop0" class="clTop" style="left: 0px; top: 0px;"><a href="/accessaltru/" onclick="menu(0); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA0" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/accessaltru/"><img src="/theme/images/Interface/access.gif" width="136" height="17" alt="Access Altru" border="0"></a><br>
-		<div id="divSub0" class="clSub" style="visibility: hidden;">
-		     <img src="/theme/images/Interface/top_rule.gif" width="163" height="4" alt="space" border="0"><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/physicians/" class="clSubb">Physician Search</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.altru.org/altrunursery/default.htm" class="clSubb">Nursery Net</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/accessaltru/foundation.htm" class="clSubb">Altru Health Foundation</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/accessaltru/facilities.htm" class="clSubb">Facilities/Care<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Centers</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/accessaltru/services.htm" class="clSubb">Services</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/accessaltru/contactus.htm" class="clSubb">Contact Us</a><br>
-			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="space" border="0"><br>
-		</div><br>
-	</div><div id="divTop1" class="clTop" style="left: 0px; top: 35px;"><a href="/altrucenters/" onclick="menu(1); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA1" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/altrucenters/"><img src="/theme/images/Interface/altrucenters.gif" width="136" height="17" alt="Altru Centers" border="0"></a><br>
-		<div id="divSub1" class="clSub" style="visibility: hidden;">
-		     <img src="/theme/images/Interface/top_rule.gif" width="163" height="4" alt="space" border="0"><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/cancercenter/c_default.htm" class="clSubb">Altru Cancer Center</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/ambulatorycenter/a_default.htm" class="clSubb">Ambulatory Procedure<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Center</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/diabetescenter/d_default.htm" class="clSubb">Diabetes Center</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/entcenter/e_default.htm" class="clSubb">ENT Center</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/familybirthingcenter/f_default.htm" class="clSubb">Family Birthing Center</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/heartservices/h_default.htm" class="clSubb">Heart Services</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/orthopedics/o_default.htm" class="clSubb">Orthopedics</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/vascularcenter/v_default.htm" class="clSubb">Vascular Center</a><br>
-			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="space" border="0"><br>
-		</div><br>
-	</div><div id="divTop2" class="clTop" style="left: 0px; top: 70px;"><a href="/healthwellness/" onclick="menu(2); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA2" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/healthwellness/"><img src="/theme/images/Interface/healthwellness.gif" width="136" height="17" alt="Health and Wellness" border="0"></a><br>
-		<div id="divSub2" class="clSub" style="visibility: hidden;">
-			<img src="/theme/images/Interface/top_rule.gif" width="163" height="4" alt="" border="0"><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/healthnews/healthnews.htm" class="clSubb">Health News</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/library/healthlibrary.htm" class="clSubb">Health Library</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/healthtopics/healthtopics.htm" class="clSubb">Health Topics</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/healthyliving/healthyliving.htm" class="clSubb">Healthy Living</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/events/" class="clSubb">Classes/Screenings/<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Support Groups </a><br>
-			
-			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="space" border="0"><br>
-		</div><br>
-	</div>	
-	<div id="divTop3" class="clTop" style="left: 0px; top: 105px;"><a href="/patientresources/" onclick="menu(3); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA3" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/patientresources/"><img src="/theme/images/Interface/patient.gif" width="136" height="17" alt="Patient Resources" border="0"></a><br>
-		<div id="divSub3" class="clSub" style="visibility: hidden;">
-		     <img src="/theme/images/Interface/top_rule.gif" width="163" height="4" alt="space" border="0"><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/patientresources/generalinformation.htm" class="clSubb">General Information</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/patientresources/billing.htm" class="clSubb">Billing Information</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/patientresources/communitylinks.htm" class="clSubb">Community Links</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/patientresources/patientfaqs.htm" class="clSubb">FAQs</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/patientresources/contactus.htm" class="clSubb">Contact Us</a><br>
-			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="" border="0"><br>
-		</div><br>
-	</div>	<div id="divTop4" class="clTop" style="left: 0px; top: 140px;"><a href="/aboutaltru/" onclick="menu(4); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA4" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/aboutaltru/"><img src="/theme/images/Interface/about.gif" width="136" height="17" alt="About Altru" border="0"></a><br>
-		<div id="divSub4" class="clSub" style="visibility: hidden;">
-		     <img src="/theme/images/Interface/top_rule.gif" width="163" height="4" alt="space" border="0"><br>		
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/aboutaltru/mission.htm" class="clSubb">Mission/History</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/aboutaltru/communityservice.htm" class="clSubb">Community Service</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/aboutaltru/volunteer.htm" class="clSubb">Volunteer Services</a><br>
-
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/aboutaltru/research.htm" class="clSubb">Research/Innovations</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/aboutaltru/report.htm" class="clSubb">Financial Reports</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/aboutaltru/administration.htm" class="clSubb">Administration</a><br>
-
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/aboutaltru/news.htm" class="clSubb">Altru News</a><br>
-			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="space" border="0"><br>
-		</div><br>
-	</div>	<div id="divTop5" class="clTop" style="left: 0px; top: 175px;"><a href="/jobopportunities/" onclick="menu(5); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA5" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/jobopportunities/"><img src="/theme/images/Interface/job.gif" width="136" height="17" alt="Job Opportunities" border="0"></a><br>
-		<div id="divSub5" class="clSub" style="visibility: hidden;">
-		     <img src="/theme/images/Interface/top_rule.gif" width="163" height="4" alt="space" border="0"><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.healthcaresource.com/altru" class="clSubb">Job Openings</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/jobopportunities/jobbenefits.htm" class="clSubb">Benefits</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/jobopportunities/career.htm" class="clSubb">Career Development</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/jobopportunities/communitylinks.htm" class="clSubb">Community Links</a><br>
-			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="space" border="0"><br>
-		</div><br>
-	</div>
+<div id="prinav">
+<div id="ALHS_home"><a href="/" id="ALHS_home1"><span class="access">Home</span></a></div>
+<div id="ALHS_locations"><a href="/serviceslocations/" id="ALHS_locations1" onmouseover="changeMenuL2('L2div1');"><span class="access">Locations</span></a></div>
+<div id="ALHS_nursery"><a href="http://www.altrunursery.org/nursery.cfm" target="_blank" id="ALHS_nursery1" onmouseover="changeMenuL2('L2div2');"><span class="access">Nursery</span></a></div>
+<div id="ALHS_aboutus"><a href="/aboutus/" id="ALHS_aboutus1" onmouseover="changeMenuL2('L2div3');"><span class="access">About Us</span></a></div>
+<div id="ALHS_giving"><a href="/frontpage/foundation.htm" id="ALHS_giving1" onmouseover="changeMenuL2('L2div4');"><span class="access">Foundation/Giving</span></a></div>
+<div id="ALHS_finddoc"><a href="/physicians/" id="ALHS_finddoc1" onmouseover="changeMenuL2('L2div5');"><span class="access">Find a Physician</span></a></div>
+<div id="ALHS_job"><a href="/employmentopportunities/" id="ALHS_job1" onmouseover="changeMenuL2('L2div6');"><span class="access">Employment Opportunities</span></a></div>
+<div id="ALHS_edu"><a href="/patientinformation/" id="ALHS_edu1" onmouseover="changeMenuL2('L2div7');"><span class="access">Patient Information</span></a></div>
+<div id="ALHS_library"><a href="/patienteducation/" id="ALHS_library1" onmouseover="changeMenuL2('L2div8');"><span class="access">Patient Education</span></a></div>
+<div id="ALHS_search"><form name="search" method="get" action="/search/searchresult.asp" id="ALHS_search1"><input alt="Enter a keyword to search on." type="text" name="q1" size="5"> <input type="image" src="/theme/images/ALHS_kleer.gif" width="20" height="20" border="0">
+</form></div>
 </div>
+<div id="ALHS_subnav">
+<!-- convert2h_mouseover_mnu.xslt v2 -->
 
+		<script language="JavaScript1.2" type="text/javascript">
+		<!-- MENU CODE -->
+		function lib_bwcheck(){ //Browsercheck (needed)
+			this.ver=navigator.appVersion
+			this.agent=navigator.userAgent
+			this.dom=document.getElementById?1:0
+			this.opera5=this.agent.indexOf("Opera 5")>-1
+			this.ie5=(this.ver.indexOf("MSIE 5")>-1 && this.dom && !this.opera5)?1:0;
+			this.ie6=(this.ver.indexOf("MSIE 6")>-1 && this.dom && !this.opera5)?1:0;
+			this.ie4=(document.all && !this.dom && !this.opera5)?1:0;
+			this.ie=this.ie4||this.ie5||this.ie6
+			this.mac=this.agent.indexOf("Mac")>-1
+			this.ns6=(this.dom && parseInt(this.ver) >= 5) ?1:0;
+			this.ns4=(document.layers && !this.dom)?1:0;
+			this.bw=(this.ie6 || this.ie5 || this.ie4 || this.ns4 || this.ns6 || this.opera5)
+			return this
+		}
+		var bw=new lib_bwcheck()
 
+		function changeMenuL2(inID) {
+	
+			var elID = "";
+			var elDiv = null;
+			var elID3 = null;
+	
+			for (iSub=1; iSub<=50; iSub++) {
+				
+				elID = "L2div" + iSub;
+				elID3 = "L3div" + iSub;
+		
+				try
+				{
+					if (bw.ie5 || bw.ie6 || bw.ns6)
+					{
+						if ((elDiv = document.getElementById(elID)) != null)
+							elDiv.style.visibility = "hidden";
+					
+						if ((elDiv = document.getElementById(elID3)) != null)
+							elDiv.style.visibility = "hidden";
+					}
+				}
+				catch(er){}
+		
+				try
+				{
+					if (bw.ie4)
+					{
+						if ( (elDiv = document.all.item(elID)) != null)
+						  elDiv.style.visibility = "hidden";
+				  
+						if ( (elDiv = document.all.item(elID3)) != null)
+						  elDiv.style.visibility = "hidden";
+					}
+				}
+				catch(er){}
+		
+				try
+				{
+					if (bw.ns4)
+					{
+						if ( (elDiv = eval("document." + elID)) != null)
+							elDiv.visibility = "hide";
+					
+						if ( (elDiv = eval("document." + elID3)) != null)
+							elDiv.visibility = "hide";
+					}
+				}
+				catch(er){}
+			}
+	
+			if (bw.ie5 || bw.ie6 || bw.ns6)
+				document.getElementById(inID).style.visibility = "visible";
+		
+			if (bw.ie4)
+				document.all.item(inID).style.visibility = "visible";
+		
+			if (bw.ns4)
+				eval("document." + inID + ".visibility = 'show'");
+		
+			return;
+		}
 
-<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" align="left">
-<tbody><tr>
-<td height="92%" align="left" valign="top" nowrap="">
-<!-- Begin Inner Tables -->
-<!-- Left Logo & Nav Table -->
-<table width="164" border="0" cellspacing="0" cellpadding="0" align="left">
-<tbody><tr>
-<td width="164" valign="top"><a href="/frontpage/"><img src="/theme/Images/Interface/logo.gif" width="164" height="61" alt="Altru Health System - Home" border="0"></a><br>
-</td></tr>
-<tr><td width="164" valign="top">
-<!-- LEFT NAV -->
-</td></tr>
-</tbody></table>
-<!-- End Nav Table -->
-<!-- Begin Header & Body Table -->
-<table width="100%" height="42" border="0" cellspacing="0" cellpadding="0" align="left">
-<tbody><tr><form name="search" method="get" action="/search/searchresult.asp"></form>
-<td nowrap="" background="/theme/images/Interface/top_bg.gif">
-<img src="/theme/images/Interface/nothing.gif" height="2" alt="space" border="0"><br clear="all">
-<span class="hvText"><a href="/physicians/" class="hvLinks">Physician Search</a> | <a href="http://www.altru.org/altrunursery/default.htm" class="hvLinks">Nursery Net</a> | <a href="/frontpage/waysofgiving.htm" class="hvLinks">Ways of Giving</a></span> &nbsp; &nbsp;<span class="time"><script language="JavaScript1.2" src="/theme/images/date.js"></script>Jan. 31, 2020</span> &nbsp; &nbsp;<input type="image" src="/theme/images/interface/search.gif" width="81" height="11" alt="Click to start search." border="0" id="image1" name="image1">
-<input alt="Enter a keyword to search on." type="text" name="q1" size="9"><br><img src="/theme/images/Interface/nothing.gif" height="4" alt="space" border="0"><br>
-</td></tr>
-<tr><td valign="top">
-<!-- Begin Body Table -->
-<table height="100%" width="611" border="0" cellspacing="0" cellpadding="0" align="left">
-<tbody><tr><td valign="top">
-<!--YOUR CONTENT STARTS HERE-->
+		function changeMenuL3(inID) {
+				for (iSub=1; iSub<=50; iSub++) {
+					try {
+						if (eval("L3div" + iSub) != null) {
+							bw.ns4?eval("document.L3div" + iSub + ".visibility = 'hidden'") : eval("L3div" + iSub + ".style.visibility = 'hidden'");
+						}
+					}
+					catch(er){
+					}
+				}
+				try {
+					bw.ns4?eval("document." + inID + ".visibility = 'visible'") : eval(inID + ".style.visibility = 'visible'");
+					}
+				catch(er){
+				}
+		}
+		</script>
 
-<!--YOUR CONTENT STARTS HERE-->
+<!-- ****************************** mainMenu ********************************* -->
+		<span class="mainMenu">
+	<a class="hcolink" href="/serviceslocations/" onmouseover="changeMenuL2('L2div1');">
+		<img src="/theme/images/ALHS_layout02_kleer.gif" width="1" height="1" border="0"></a>
+	<a class="hcolink" href="http://www.altrunursery.org/nursery.cfm" target="_blank" onmouseover="changeMenuL2('L2div2');">
+		<img src="/theme/images/ALHS_layout02_kleer.gif" width="1" height="1" border="0"></a>
+	<a class="hcolink" href="/aboutus/" onmouseover="changeMenuL2('L2div3');">
+		<img src="/theme/images/ALHS_layout02_kleer.gif" width="1" height="1" border="0"></a>
+	<a class="hcolink" href="/frontpage/foundation.htm" onmouseover="changeMenuL2('L2div4');">
+		<img src="/theme/images/ALHS_layout02_kleer.gif" width="1" height="1" border="0"></a>
+	<a class="hcolink" href="/physicians/" onmouseover="changeMenuL2('L2div5');">
+		<img src="/theme/images/ALHS_layout02_kleer.gif" width="1" height="1" border="0"></a>
+	<a class="hcolink" href="/employmentopportunities/" onmouseover="changeMenuL2('L2div6');">
+		<img src="/theme/images/ALHS_layout02_kleer.gif" width="1" height="1" border="0"></a>
+	<a class="hcolink" href="/patientinformation/" onmouseover="changeMenuL2('L2div7');">
+		<img src="/theme/images/ALHS_layout02_kleer.gif" width="1" height="1" border="0"></a>
+	<a class="hcolink" href="/patienteducation/" onmouseover="changeMenuL2('L2div8');">
+		<img src="/theme/images/ALHS_layout02_kleer.gif" width="1" height="1" border="0"></a>
+		</span>
+		<!-- ****************************** subMenu ********************************** -->
+		<div id="L2div1" class="divMenu">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl1" class="hcolink"><tbody><tr><td>
+		<a class="subMenu" href="/serviceslocations/services.htm" onmouseover="changeMenuL3('L3div1');">Services</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div2');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/serviceslocations/locations.htm" onmouseover="changeMenuL3('L3div3');">Locations</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div4');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L2div2" class="divMenu">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl2" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L2div3" class="divMenu">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl3" class="hcolink"><tbody><tr><td>
+		<a class="subMenu" href="/aboutus/mission.htm" onmouseover="changeMenuL3('L3div5');">Mission &amp; History</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div6');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/aboutus/communityservice.htm" onmouseover="changeMenuL3('L3div7');">Community Service</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div8');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/aboutus/volunteer.htm" onmouseover="changeMenuL3('L3div9');">Volunteer Services</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div10');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/aboutus/research.htm" onmouseover="changeMenuL3('L3div11');">Research</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div12');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/aboutus/report.htm" onmouseover="changeMenuL3('L3div13');">Financial Reports</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div14');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/aboutus/administration.htm" onmouseover="changeMenuL3('L3div15');">Administration</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div16');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/aboutus/news.htm" onmouseover="changeMenuL3('L3div17');">News</a>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L2div4" class="divMenu">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl4" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L2div5" class="divMenu">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl5" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L2div6" class="divMenu">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl6" class="hcolink"><tbody><tr><td>
+		<a class="subMenu" href="http://www.healthcaresource.com/altru/index.cfm?fuseaction=search.categorylist&amp;amp;template=dsp_job_categories.cfm" onmouseover="changeMenuL3('L3div18');">Job Openings</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div19');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/employmentopportunities/jobbenefits.htm" onmouseover="changeMenuL3('L3div20');">Benefits</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div21');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/employmentopportunities/career.htm" onmouseover="changeMenuL3('L3div22');">Career Development</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div23');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/employmentopportunities/communitylinks.htm" onmouseover="changeMenuL3('L3div24');">Community Links</a>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L2div7" class="divMenu">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl7" class="hcolink"><tbody><tr><td>
+		<a class="subMenu" href="/patientinformation/generalinformation.htm" onmouseover="changeMenuL3('L3div25');">General Information</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div26');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/patientinformation/billing.htm" onmouseover="changeMenuL3('L3div27');">Billing Information</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div28');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/patientinformation/communitylinks.htm" onmouseover="changeMenuL3('L3div29');">Community Links</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div30');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/patientinformation/patientfaqs.htm" onmouseover="changeMenuL3('L3div31');">FAQ's</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div32');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/patientinformation/releaseofinformation.htm" onmouseover="changeMenuL3('L3div33');">Release of Information</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div34');">
+		<img src="/theme/images/spacer.gif" width="1" height="1" border="0"></a>
+		<a class="subMenu" href="/patientinformation/contactus.htm" onmouseover="changeMenuL3('L3div35');">Contact Us</a>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L2div8" class="divMenu">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl8" class="hcolink"><tbody><tr><td>
+		<a class="subMenu" href="/healthnews/healthnews.htm" onmouseover="changeMenuL3('L3div36');">Health News</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div37');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/library/healthlibrary.htm" onmouseover="changeMenuL3('L3div38');">Health Library</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div39');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/healthtopics/healthtopics.htm" onmouseover="changeMenuL3('L3div40');">Health Topics</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div41');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/healthyliving/healthyliving.htm" onmouseover="changeMenuL3('L3div42');">Healthy Living</a>
+		<a class="subMenu" href="" onmouseover="changeMenuL3('L3div43');">
+		<img src="/theme/images/spacer.gif" width="6" height="6" border="0"></a>
+		<a class="subMenu" href="/events/viewmonth.asp" onmouseover="changeMenuL3('L3div44');">Classes Events &amp; Workshops</a>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<!-- ****************************** subMenu2 ********************************* -->
+		<div id="L3div1" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl1" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div2" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl2" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div3" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl3" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div4" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl4" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div5" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl5" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div6" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl6" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div7" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl7" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div8" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl8" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div9" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl9" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div10" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl10" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div11" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl11" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div12" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl12" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div13" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl13" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div14" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl14" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div15" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl15" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div16" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl16" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div17" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl17" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div18" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl18" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div19" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl19" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div20" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl20" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div21" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl21" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div22" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl22" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div23" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl23" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div24" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl24" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div25" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl25" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div26" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl26" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div27" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl27" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div28" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl28" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div29" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl29" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div30" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl30" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div31" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl31" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div32" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl32" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div33" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl33" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div34" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl34" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div35" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl35" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div36" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl36" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div37" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl37" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div38" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl38" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div39" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl39" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div40" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl40" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div41" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl41" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div42" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl42" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div43" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl43" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		<div id="L3div44" class="divMenu2">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%">
+		<table id="mnuTbl44" class="hcolink"><tbody><tr><td>
+		</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		</div>
+		</div>
+<div id="ALHS_service">
 
+<div id="ALHS_ambulatory"><a href="/surgicalservices/" id="ALHS_ambulatory1"><span class="access">Ambulatory Procedure Center</span></a></div>
+<div id="ALHS_ent"><a href="/entcenter/" id="ALHS_ent1"><span class="access">Ear Nose and Throat Center</span></a></div>
+<div id="ALHS_women"><a href="/womensservices/" id="ALHS_women1"><span class="access">Women's Services</span></a></div>
+<div id="ALHS_cancer"><a href="/cancercenter/" id="ALHS_cancer1"><span class="access">Cancer Center</span></a></div>
+<div id="ALHS_diabetes"><a href="/diabetescenter/" id="ALHS_diabetes1"><span class="access">Diabetes Center</span></a></div>
+<div id="ALHS_heart"><a href="/heartservices/" id="ALHS_heart1"><span class="access">Heart Center</span></a></div>
+<div id="ALHS_rehabilitation"><a href="/rehabcenter/" id="ALHS_rehabilitation1"><span class="access">Rehabilitation Center</span></a></div>
+<div id="ALHS_vascular"><a href="/vascularcenter/" id="ALHS_vascular1"><span class="access">Vascular Center</span></a></div>
+
+</div>
+<div id="ALHS_content">
 
 
     <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -954,47 +1099,12 @@ colorIt();
       </span> </td>
       </tr>
     </tbody></table>
+<content_body></content_body></div>
+<div id="ALHS_footer"><div id="ALHS_contact">© 2004 Altru Health System</div><div id="ALHS_footnav"><a href="/">Home</a>  |  <a href="/frontpage/contactus.htm">Contact Us</a>  |  <a href="/Policies/Priv_pol.htm">Privacy Policy</a>  |  <a href="/frontpage/sitemap.htm">Site Map</a></div><div id="hv">Powered by <a href="http://www.healthvision.com/">HEALTHvision</a></div></div>
+      <br>  
+      <div align="right"><a href="http://www.altru.org/includes/PrintBuilder.asp?URL=/Policies/Priv_pol.htm&amp;QS=" target="_blank"><img border="0" src="/includes/PrintPage.gif"></a></div>
+</div></div>
 
-
-
-</td></tr></tbody></table>
-<!-- End Body Table -->
-</td></tr>
-</tbody></table>
-<!-- End Header & Body Table -->
-<!-- End Inner Tables -->
-</td>
-</tr>
-<tr>
-<td height="8%" align="left" nowrap="" width="100%" bgcolor="#000000">
-<!-- Begin Footer Table -->
-<table bgcolor="#000000" width="600" border="0" cellspacing="0" cellpadding="0" align="left">
-<tbody><tr>
-<td align="left" width="2%" height="60" valign="middle" nowrap="" bgcolor="#6A7E89">
-<img align="left" src="/theme/images/Interface/nothing.gif" width="158" height="60" alt="space" border="0"><br></td>
-<td align="left" height="60" width="98%" valign="middle" nowrap="" bgcolor="#000000">
-<table bgcolor="#000000" align="left" height="60" width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>&nbsp;
-<table bgcolor="#000000" align="left" height="60" width="611" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
-
-<img src="/theme/images/Interface/nothing.gif" width="8" height="1" alt="" border="0"><br></td><td align="left" valign="middle">
-<a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct597939" target="_blank"><img src="/theme/images/Interface/hon.gif" align="left" width="31" height="28" alt="We subscribe to the HONcode principles of the HON Foundation. Click to verify." border="0"></a><a href="http://www.hon.ch/" target="_blank" class="hvFootsm"><span style="color: White;">We subscribe to<br> the HONcode principles.<br> <b></b></span></a><b><a target="_blank" href="http://www.hon.ch/HONcode/Conduct.html?HONConduct597939">Verify here</a></b><br>
-</td><td align="left" valign="middle" nowrap="">
-<a href="http://www.healthvision.com" target="_blank" class="hvFootsm">
-<img src="/theme/images//Interface/starfish.gif" align="left" width="38" height="31" alt="Powered by HEALTHvision" border="0">
-<span style="color: White;">Powered by<br> HEALTHvision</span></a></td><td align="center">
-<a href="/frontpage/" class="hvFoot"><span style="color: White;">Home</span></a> <span class="hvText">|</span> <a href="/frontpage/contactus.htm" class="hvFoot"><span style="color: White;">Contact Us</span></a> <span class="hvText">|</span> <a href="/frontpage/sitemap.htm" class="hvFoot"><span style="color: White;">Site Map</span></a> <span class="hvText">|</span><b> <span class="hvFoot" style="color: White;">Copyright 2001 Altru</span></b><br><a class="hvFoot" href="/Policies/Priv_pol.htm"><span style="color: White;">Privacy Policy</span></a> <span class="hvText">|</span> <a class="hvFoot" href="/Policies"><span style="color: White;">Policies &amp; Ownership</span></a><br>
-<a href="http://www.altru.org/includes/PrintBuilder.asp?URL=/Policies/Priv_pol.htm&amp;QS=" target="_blank"><img border="0" src="/includes/PrintPage.gif"></a>
-
-</td></tr></tbody></table>
-</td></tr></tbody></table><br>
-</td></tr>
-</tbody></table>
-<!-- End Footer Table -->
-</td>
-</tr>
-</tbody></table>
 
 
 
