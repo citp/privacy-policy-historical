@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wes.org privacy policy that was archived on 2002-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021129122700id_/http%3A//www.wes.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wes.org privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618110450id_/http%3A//wes.org/privacy.asp) for the most accurate reproduction.*
 
 # WES - Privacy Policy
 
