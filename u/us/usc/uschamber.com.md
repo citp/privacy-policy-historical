@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604001128id_/http%3A//www.uschamber.com/_privacy%2Bpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218074617id_/http%3A//www.uschamber.com/_privacy%2Bpolicy.htm) for the most accurate reproduction.*
 
 # U.S. Chamber of Commerce: _Channels
 
