@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gerberlife.com privacy policy that was archived on 2001-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010811172435id_/http%3A//gerberlife.com/legal_site/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerberlife.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605181141id_/http%3A//www.gerberlife.com/legal_site/priv.html) for the most accurate reproduction.*
 
 # GerberLife.com Privacy Statement
 
@@ -25,7 +25,7 @@ We may collect personal information about you from the following sources:
 
 _Within Gerber Life Insurance Company:_ We may use the information we collect about you for purposes permitted by law such as administering your insurance policy or claims, processing a transaction you request, or responding to your inquires.
 
-_Outside Gerber Life Insurance Company:_ We do not share personal information about you with nonaffiliated third parties except with your consent or as permitted by law. For example, the law allows us to share information about you with nonaffiliated third parties to process and administer your insurance policy and claims, to prevent fraud, or to comply with an inquiry by a government agency. We may also share personal information we collect with nonaffiliated third parties to assist us in our own marketing efforts as well as joint marketing efforts with other financial institutions.
+_Outside Gerber Life Insurance Company:_ We do not share personal information about you with nonaffiliated third parties except with your consent or as permitted by law.
 
   
 **How to Review and Correct Your Personal Information**
