@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the passkey.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206112712id_/http%3A//www.passkey.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passkey.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604232049id_/http%3A//www.passkey.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Statement
+# Passkey Website Privacy Statement
 
 |   
 |   
@@ -26,7 +26,7 @@ GroupLink™
 RegLink™  
 _Passkey-enabled_ (SM) 
 
-Passkey is located at 180 Old Colony Avenue, Quincy, MA 02170. For questions or comments regarding this Privacy Statement, please [click here](https://web.archive.org/web/20031206112712id_/http%3A//www.passkey.com/contactus.shtml). 
+Passkey is located at 180 Old Colony Avenue, Quincy, MA 02170. For questions or comments regarding this Privacy Statement, please [click here](https://web.archive.org/web/20040604232049id_/http%3A//www.passkey.com/contactus.shtml). 
 
 ##  Tracking Traffic
 
