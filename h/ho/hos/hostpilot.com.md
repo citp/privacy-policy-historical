@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostpilot.com privacy policy that was archived on 2002-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021220085447id_/http%3A//www.intermedia.net/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpilot.com privacy policy that was archived on 2003-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030822035918id_/http%3A//www.hostpilot.com/legal/privacy_statement) for the most accurate reproduction.*
 
 # Intermedia.NET - Legal: Legal & Policies
 
@@ -26,7 +26,7 @@ Intermedia.NET, Inc. web sites also log IP addresses and other user session info
 
 **Cookies**
 
-Intermedia.NET web sites use cookies to retain your session state during your logon to the HostPilot Control Panel. You may opt out of the use of cookies by turning them off in your web browser. However, the use of cookies is necessary for the use of Intermedia.NET's HostPilot Control Panel.
+Intermedia.NET web sites use cookies to retain your session state during your logon to the HostPilot® Control Panel. You may opt out of the use of cookies by turning them off in your web browser. However, the use of cookies is necessary for the use of Intermedia.NET's HostPilot® Control Panel.
 
 **Public Forums**
 
@@ -51,7 +51,7 @@ Intermedia.NET's web sites have security measures in place to protect against th
 
 **Contacting the Web Sites, Opting-out, Deactivating Your Account**
 
-If you wish to terminate your account or opt-out of receiving communications from Intermedia.NET which are not reasonably necessary for the provision of services to you, please contact Intermedia.NET at the address below. You may also revise your contact and financial information or terminate your account through the HostPilot Control Panel.
+If you wish to terminate your account or opt-out of receiving communications from Intermedia.NET which are not reasonably necessary for the provision of services to you, please contact Intermedia.NET at the address below. You may also revise your contact and financial information or terminate your account through the HostPilot® Control Panel.
 
 If you have any questions about this privacy statement, the privacy practices of our web sites, or your dealings with Intermedia.NET's web sites, you may contact:
 
