@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802011610id_/http%3A//www.carquest.com/privacy.htm) for the most accurate reproduction.*
 
-# CARQUEST Auto Parts - Privacy Statement
+# CARQUEST Auto Parts - Privacy Statement - CARQUEST Corporation will not collect any personal data from you
 
-**Y** **our privacy is important to us  
+| 
+
+**Your privacy is important to us  
 **CARQUEST Corporation, which operates Internet sites located at [www.carquest.com](http://www.carquest.com/), [www.techauto.com](http://www.techauto.com/), [www.carquest.ca](http://www.carquest.ca/), and jointly operates locator services with Know-Where Corporation (<http://carquest.know-where.com/carquest>) and (<http://technet.know-where.com/technet>) recognizes the importance of protecting the privacy of our web visitors. CARQUEST Corporation will not collect any personal data from you and will not provide any of your data to any outside parties except with your permission, or what is necessary to complete any transactions you have requested through our web site. Please take a few minutes to read the following policy so that you understand how we treat your personal information. As we continuously improve and expand our services, this policy might change. So please check it out periodically. If you have questions about our policy, please click on our customer feedback page to contact us via our electronic feedback form at <http://www.carquest.com/custform.htm> or e-mail us at [info@carquest.com](mailto:%20info@carquest.com).  
 
 
@@ -32,7 +34,3 @@ We collect information in the following ways:
 **Please contact us with any questions or comments**  
 We want you to enjoy your use of [www.CARQUEST.com](http://www.carquest.com/), [www.techauto.com](http://www.techauto.com/), and [www.CARQUEST.ca](http://www.carquest.ca/). If you have any questions, or believe that a violation of this policy may have occurred, please let us know. Our complete contact information is provided on the Customer Feedback link on our website at [www.CARQUEST.com/contact.htm](http://www.carquest.com/contact.htm) or please write: CARQUEST Corporation, c/o Matt Davis, P.O. Box 26929, Raleigh, NC 27611.  
 
-
-  | [Home](http://www.carquest.com/) | [About CARQUEST](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/about.htm) |[ ](http://www.carqueststores.com/)[Locations](http://carquest.know-where.com/carquest) | [News](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/news.htm) | [Careers](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/careers.htm) | [Contact](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/contact.htm) | [Sales Force](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/salesforce.htm) | [Leasing](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/leasing.htm) | [Products](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/products.htm) | [Credit Card](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/creditcard.htm) | [Racing](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/motorsports.htm) | [Training](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/training.htm) | [TECH-NET](http://www.techauto.com/) | [Site Map](https://web.archive.org/web/20020408113436id_/http%3A//www.carquest.com/sitemap.htm) |
-
-© Copyright 1996-2002, CARQUEST Corporation
