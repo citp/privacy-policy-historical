@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizland.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101638id_/http%3A//www.bizland.com/nlclicks.cmp%3FL%3Dmisc0152%26C%3Dbn_pr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizland.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403161211id_/http%3A//www.bizland.com/about/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Statement
 
