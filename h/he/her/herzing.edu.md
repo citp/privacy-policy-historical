@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herzing.edu privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207091231id_/http%3A//www.herzing.edu/en/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herzing.edu privacy policy that was archived on 2004-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040413035743id_/http%3A//www.herzing.edu/en/privacy-policy.php) for the most accurate reproduction.*
 
 # Technical Schools: continuing education, technical college, design schools, distance education, microsoft certification, mcse training, computer training online, computer based training, degree program
 
