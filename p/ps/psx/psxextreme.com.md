@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606144439id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212134037id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
 
 # PSX Extreme - Privacy Policy
 
@@ -116,7 +116,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 |  |  |    
   
-  
-  
-     
+ [](http://www.dnadv.com/rd/sc.cgi?oid=225&lid=5240&sid=PSXcube)   
+    
 | 
