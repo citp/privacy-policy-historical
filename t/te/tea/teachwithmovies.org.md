@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachwithmovies.org privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202013907id_/http%3A//www.teachwithmovies.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachwithmovies.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209171354id_/http%3A//www.teachwithmovies.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Teach With Movies: "Privacy Policy& -- Teach With Movies: A new tool for "intentional parents." "Supplement School Curriculum - Control Screen Time - Increase Shared Experiences with Your Children - Use Entertainment as a Learning Tool - Practice Intentional Parenting .... Teach With Movies"
 
