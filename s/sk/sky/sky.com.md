@@ -1,17 +1,54 @@
-> *The following text is extracted and transformed from the sky.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209102859id_/http%3A//www.sky.com/skycom/disclaimer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky.com privacy policy that was archived on 2003-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031006025558id_/http%3A//www.sky.com/skycom/disclaimer/privacy) for the most accurate reproduction.*
 
 # Sky.com
 
-This privacy policy is applicable to any personal information which is given by You to Sky ("User Information") via the web site located at www.sky.com and all its related channels ("the Sky Site"). Sky may at any time modify, alter, or update this privacy policy so you should check it regularly.
+This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.sky.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.
 
-"You" shall mean you, the user of the site, and "Your" shall be interpreted accordingly. "Sky" shall mean British Sky Broadcasting Ltd and any member of the BSkyB Group of companies. "User" means a user of the Sky Site collectively and/or individually as the context admits. "Website" means a site on the World Wide Web.
+"You" shall mean you, the user of the Site. "We/Us" means British Sky Broadcasting Ltd and any member of the BSkyB Group of companies. The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
 
-When using the Sky Site you will encounter areas such as games, competitions and chat forums where you may be asked to enter User Information. Such User Information will only be used for the purposes stated at the collection point or in accordance with this Privacy Policy. If applicable You will have the opportunity at the collection point to "opt out" of receiving promotional and/or marketing information from Sky and/or any third parties.
+We process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation.
 
-Sky shall not sell or otherwise transfer User Information to unaffiliated third parties without Your approval. Sky may use User Information including for sales and marketing. If at any time you decide that you do not wish us to use User Information to send you direct marketing you may contact us by using the Feedback Form on the Sky Site.
+**Data Collection**
 
-Sky reserves the right to perform statistical analyses of User behaviour and characteristics in order to measure interest in and use of the various areas of the Sky Site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. Sky will provide only aggregated data from these analyses to third parties. Sky will not be responsible or liable for any actions or policies of any such third parties.
+When using the Site You may encounter areas such as games, competitions, chat forums, shopping or video services where You may be asked to enter User Information. Such User Information will only be used for the purposes stated at the collection point and/or in accordance with this Privacy Policy.
 
-You should be aware that information and data may be automatically collected through the use of "cookies". Cookies are small text files a web site can use to recognise repeat users and allow Sky to observe behaviour and compile aggregate data in order to improve the Sky Site and to target its advertising. Cookies do not attach to Your system or damage Your files. If You do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows You to deny or accept the cookie feature.
+By entering Your User Information, You accept that we may retain Your User Information and that it may be held by Us or any third party company which processes it on Our behalf.
 
-You may notify Sky of any updates, amendments and corrections to previously collected User Information by using the Feedback Form on the Sky Site. Further, upon Your request, Sky will use commercially reasonable efforts to delete Your User Information from its database; however, it may be impossible to delete a Your entry without some residual information because of backups and records of deletions.
+We reserve the right to perform statistical analyses of User's behaviour and characteristics in order to measure interest in, and use of, the various areas of the Site and, in addition, to inform advertisers of such information as well as the number of Users that have been exposed to or who have clicked on their advertising banners. We will provide only aggregated data from these analyses to third parties.
+
+**Disclosure**
+
+We shall be entitled to sell or otherwise make available Your User Information in order to send You information about Us and Our affiliates, associated companies and organisations, for the following purposes including, but not limited to :
+
+  1. promotional and/or marketing material about products, services and offers; 
+  2. market research or compliance; 
+  3. transfers to third parties as required; and 
+  4. any requirements imposed by operational law 
+
+
+
+We are not responsible for any actions or policies of any third parties who request Your User information and Users should check the applicable privacy policy of such third parties.
+
+**Cookies**
+
+You should be aware that information and data may be automatically collected through the use of Cookies. "Cookies" are small text files that store basic information that a web site can use to recognise repeat site visits and as an example, re-call your name if this has been previously supplied. We may use this to observe behaviour and compile aggregate data in order to improve the Site, target the advertising and assess general effectiveness of such advertising.
+
+Cookies do not attach to Your system and damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookie feature. Note, however, that 'personalised' services may be affected if the cookie option is disabled.
+
+If you wish to disable the setting of cookies in your browser, please click [here](https://web.archive.org/skycom/disclaimer/cookies) for instructions.
+
+**Security**
+
+Security is very important to Us. Secure Socket Layer ("SSL") encryption technology is used for protection of information in transit for any sensitive transactions such as payments. Additional security procedures are in place to protect the confidentiality, integrity and availability of Your User information. Your User information will not be kept longer than is necessary for the purposes stated at the collection point or in this Privacy Policy.
+
+**Updates**
+
+You may notify Us of any updates, amendments and corrections to previously collected User Information by using the Feedback Form link in the Contact Us section of the site. Further, upon Your request, We will use commercially reasonable efforts to delete Your User Information from our database; however, it may be impossible to delete Your entry without some residual information remaining because of backups and records of deletions.
+
+We reserve the right, at any time, to modify, alter, or update this Privacy Policy.
+
+**Contact**
+
+Any queries or comments about this policy should be forwarded to [DPOFFICE@BSKYB.COM](mailto:DPOFFICE@BSKYB.COM)
+
+Any site that you may connect to from here is not covered by this Privacy Policy.
