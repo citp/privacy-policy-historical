@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsfactor.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603164713id_/http%3A//newsfactor.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfactor.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205033741id_/http%3A//www.newsfactor.com/privacy.shtml) for the most accurate reproduction.*
 
 # NewsFactor Network - Tech News
 
@@ -41,36 +41,3 @@ IF YOU GET PERMISSION FROM YOUR MOM OR DAD TO SUBMIT YOUR NAME TO BE PUBLICLY PO
 
 Please Note: We request that all editorial and PR matters be handled [here](https://web.archive.org/perl/contact_form.pl?to=editorial). Thank you.   
  
-
-|  | 
-
-[]()  
-| **The Internet's  
-E-Business and  
-Technology  
-News Network**  
----  
-[**NewsFactor.com**](http://www.newsfactor.com/)  
-[**CRMDaily.com**](http://www.crmdaily.com/)  
-[**CIO Today**](http://www.ciotoday.com/)  
-[**Sci-Tech**](http://sci.newsfactor.com/)  
-[**WirelessNewsFactor**](http://wirelessnewsfactor.com/)  
-[**osOpinion**](http://www.osopinion.com/)  
-[**TechExtreme**](http://www.techextreme.com/)  
-[**FreeNewsFeed.com**](http://www.freenewsfeed.com/)  
-  
-[]()
-
-|    
-**June 03, 2003**   
-  
-  
-  
-[See more news](https://web.archive.org/oneweek/)
-
-[Get news by e-mail](https://web.archive.org/perl/newsletter_registration.pl)
-
-[Visit open forums](https://web.archive.org/perl/board/mboard.pl)
-
-  
-
