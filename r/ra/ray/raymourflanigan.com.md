@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014223623id_/http%3A//www.raymourflanigan.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2003-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030208002154id_/http%3A//www.raymourflanigan.com/privacy.htm) for the most accurate reproduction.*
 
 # Contact Raymour & Flanigan - Privacy Policy
 
@@ -20,7 +20,7 @@ Raymour & Flanigan will not sell, barter, or exchange any information about you 
 
 Raymour & Flanigan may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property, or safety of Raymour & Flanigan, our users, or others. 
 
-You may remove your name from our e-mail list by selecting "Unsubscribe" in the [become a Raymour & Flanigan member](https://web.archive.org/web/20021014223623id_/http%3A//www.raymourflanigan.com/submembers.htm) section. 
+You may remove your name from our e-mail list by selecting "Unsubscribe" in the [become a Raymour & Flanigan member](https://web.archive.org/web/20030208002154id_/http%3A//www.raymourflanigan.com/submembers.htm) section. 
 
 **How We Use Cookies.**
 
@@ -96,4 +96,4 @@ Subsequent to receiving your online order, a Customer Service Agent will review 
 
 **Feedback**
 
-We are always looking for feedback and would welcome any comments, criticisms…or compliments! You can visit the [Contact Us section](https://web.archive.org/web/20021014223623id_/http%3A//www.raymourflanigan.com/contactus/contactus.asp) of our website to do this. 
+We are always looking for feedback and would welcome any comments, criticisms…or compliments! You can visit the [Contact Us section](https://web.archive.org/web/20030208002154id_/http%3A//www.raymourflanigan.com/contactus/contactus.asp) of our website to do this. 
