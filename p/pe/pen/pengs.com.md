@@ -1,63 +1,50 @@
-> *The following text is extracted and transformed from the pengs.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213132900id_/http%3A//www.pengs.com/search/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pengs.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204214810id_/http%3A//www.pengs.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# About the Pengs.com
+# Pengs.com Privacy policy
 
-[Home](http://www.pengs.com/) :: Privacy statement
+**Introduction**  
+Pengs.com respects each individual’s right to personal privacy.  We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at Pengs’s Web site [Pengs.com](http://www.pengs.com/). ****
 
-Pengs.com Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Pengs.com. 
+**Part I.   Information Collection**   
+Pengs.com collects information through our Web site at several points.  We collect the following information about primary visitors: Name, Street Address, City, State/Province, Zip Code, Country, Telephone Numbers, E-mail addresses. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart. 
+We may also collect certain types of personally identifiable information which our users divulge about other people, such as referrals, gift purchases or other situations. Pengs.com does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. 
 
-Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests. 
+We collect the following general data that is not personally identifiable information: country or province, zip code and state.  We collect demographic data in order to better serve our clients. 
 
-Our site's registration form requires users to give us contact information (like Your name and email address), unique identifiers (like your social security number), and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (such as social security numbers) are collected to verify the user's identity. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+We verify the accuracy of this information by validating via e-mail addresses. 
 
-This site contains links to other sites. **Pengs.com** is not responsible for the privacy practices or the content of such Web sites. 
+We collect this information through methods such as registration forms, e-mail communications and so on.  Describe what information is collected through each method].  The information is collected voluntarily.   To receive our services, your address is mandatory because we sometimes need to send funds to clients via our affiliate program.  Other information we request is optional. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like your email address), unique identifiers (like your social security number), financial information (like your account or credit card numbers), and demographic information (like your zip code, age, or income level). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+We do employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable Pengs.com to track usage patterns and deliver customized content to users.  Our cookies do have an expiration date. Our cookies do not collect personally identifiable information. 
 
-Our online surveys ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+**No** third parties collect any information from our Web site or user database. 
 
-## Public Forums
+**Part II.   Information Usage.   
+**The information collected by Pengs.com will be used for strictly internal purposes only.  Users who provide information will receive e-mail announcements or advertisements pertaining only to our services. 
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+Registered users may receive additional announcements from us about products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. 
 
-## Security
+The information we collect will not be used to create customer profiles based on browsing or purchasing history.  We will not supplement information collected at our Web site with data from other sources such as credit history to authorize purchases. 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. (*Please elaborate on the security measures that you have in place.) 
+We may share data with the following third parties: PayPal, ClickBank or other third party payment services that are necessary to carry out a transaction.  These third parties will use the information only for a transaction between you and Pengs.com.  We offer links to other Web sites.  Please note: When you click on links to other Web sites, we encourage you to read their privacy policies.  Their standards may differ from ours. 
 
-## Children's Guidelines
+Our Web site offers chats, forums or message boards.  Please be advised that information posted in these venues becomes public knowledge. 
 
-According to the answers that you have chosen, your Web site meets the guidelines of TRUSTe's Children's program. 
+If our policy on information collection or uses changes, will advise you by e-mail within 1 week of modification. 
 
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-  2. NOT collect personally identifiable offline contact information without prior parental consent
-  3. NOT distribute to third parties any personally identifiable information with out prior parental consent
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+**Part III.   Access to Information   
+**Pengs.com maintains the accuracy of our information by cross-checking our own databases and validating e-mail addresses.  Users may access their own personal information and contact us about inaccuracies they may find.  Log in to your account management control panel to do so.  Users may delete their information from our database by contacting [support@Pengs.com](mailto:support@Pengs.com). 
 
+**Part IV. Problem Resolution  
+**If problems arise, users may contact Pengs.com via e-mail at: [support@Pengs.com](mailto:support@Pengs.com).  We are committed to resolving disputes within a reasonable time frame.
 
+**Part V. Data Storage and Security  
+**Pengs.com protects user information with the following security measures: security protocols, secure servers, firewalls, SSL encryption and other technology and procedures used to protect consumer privacy. 
 
-## Choice/Opt-Out
+If you have any further questions about privacy or security, please contact us by sending an e-mail to: [info@Pengs.com](mailto:info@Pengs.com).  
+  
+©2003 Pengs.com All rights reserved. Patent Pending  
+Designated trademarks and brands are the property of their respective owners.  
+Use of this Web site constitutes acceptance of the Pengs [User Agreement](https://web.archive.org/user_agreement.htm) and [Privacy Policy](https://web.archive.org/privacy_policy.htm).  
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. You can send email to [webmaster@pengs.com](mailto:webmaster@pengs.com)
-
-
-
-## Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. email [support@pengs.com](mailto:support@pengs.com)
-
-
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Mike Johnson  Pengs.com Inc.  6645 Lower 169th St W  Farmington, MN 55024    [webmaster@pengs.com](mailto:webmaster@pengs.com)     |   
----  
-[ ](http://counter.hitbox.com/a/joinbar.cgi)
