@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bondbanking.com privacy policy that was archived on 2003-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031228043752id_/http%3A//www.bondbanking.com/index.pl%3Fiid%3D1791) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bondbanking.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406223756id_/http%3A//www.bondbanking.com/index.pl%3Fiid%3D1791) for the most accurate reproduction.*
 
 # Bond Bank: Privacy Policy
 
