@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200343id_/http%3A//www.microsoft.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows.net privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204221231id_/http%3A//www.microsoft.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Information About Privacy on Microsoft.com
 
@@ -35,7 +35,7 @@ We use your personal information for the following purposes:
   * To alert you to product upgrades, special offers, updated information and other new services from Microsoft, if you so request. 
   * To allow you access to limited-entry areas of our site as appropriate. 
 
-We will merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of Microsoft.com, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won’t merge your personal information with site-visitation data.
+We will merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of Microsoft.com, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won't merge your personal information with site-visitation data.
 
 We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
@@ -46,9 +46,9 @@ Your information may be stored and processed in the United States or any other c
 **Control of your Personal Information**  
 When you register, or otherwise give us personal information, Microsoft.com will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
 
-Registering also allows you to tell us how or whether you want Microsoft.com to communicate with you. After registering, go to the [Profile Center](http://www.microsoft.com/isapi/goregwiz.asp?target=/regsys/logon.asp?fu=/regsys/pic.asp&cu=/regsys/pic.asp) and establish your preferences in the Contact Options sections. There, you can decide what information you want to receive and how you want to receive it. Or you can tell us not to contact you by removing check marks from the contact option boxes. If you buy software through Shop.Microsoft.com, and do not want to receive such information, do not check the box on the Checkout page (or on other pages where personal information is collected) which says: _Yes, I would like to receive other offers through shop.microsoft.com._
+Registering also allows you to tell us how or whether you want Microsoft.com to communicate with you. After registering, go to the Profile Center and establish your preferences in the Contact Options sections. There, you can decide what information you want to receive and how you want to receive it. Or you can tell us not to contact you by removing check marks from the contact option boxes. If you buy software through Shop.Microsoft.com, and do not want to receive such information, do not check the box on the Checkout page (or on other pages where personal information is collected) which says: _Yes, I would like to receive other offers through shop.microsoft.com._
 
-Microsoft.com occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you should uncheck the box in the Contact Options section in the [Profile Center](http://www.microsoft.com/isapi/goregwiz.asp?target=/regsys/logon.asp?fu=/regsys/pic.asp&cu=/regsys/pic.asp) stating, "Microsoft partners can send me postal mail about their services or products." If you buy software through Shop.Microsoft.com and do not want to receive these offers, do not check the box on the Checkout page (or other pages where personal information is collected), which says: _Yes, I would like to receive other offers from non-Microsoft companies._
+Microsoft.com occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you should uncheck the box in the Contact Options section in the Profile Center stating, "Microsoft partners can send me postal mail about their services or products." If you buy software through Shop.Microsoft.com and do not want to receive these offers, do not check the box on the Checkout page (or other pages where personal information is collected), which says: _Yes, I would like to receive other offers from non-Microsoft companies._
 
 Microsoft.com may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.
 
@@ -89,13 +89,13 @@ Questions about cookies? [Read more](http://www.microsoft.com/info/cookies.htm).
 Microsoft.com is a member of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. Because Microsoft.com wants to demonstrate its commitment to your privacy, we have agreed to publish our information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
 **Enforcement of this Privacy Statement**  
-If you have questions regarding this statement, you should first contact Microsoft.com by [e-mail](mailto:homepage@microsoft.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at their Web site, <http://www.truste.org/users/users_watchdog.html>. TRUSTe will serve as a liaison with Microsoft.com to resolve your concerns.
+If you have questions regarding this statement, you should first contact Microsoft.com by [e-mail](http://register.microsoft.com/contactus30/contactus.asp?domain=generic). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at their Web site, <http://www.truste.org/users/users_watchdog.html>. TRUSTe will serve as a liaison with Microsoft.com to resolve your concerns.
 
 **Changes to this Statement**  
 Microsoft.com will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, Microsoft.com will notify you by placing prominent notice on the Web site.
 
 **Contact Information**  
-Microsoft welcomes your comments regarding this privacy statement, please contact us by [e-mail](mailto:homepage@microsoft.com), or postal mail.
+Microsoft welcomes your comments regarding this privacy statement, please contact us by [e-mail](http://register.microsoft.com/contactus30/contactus.asp?domain=generic), or postal mail.
 
 Microsoft.com Privacy  
 Microsoft Corporation  
