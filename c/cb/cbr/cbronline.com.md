@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094046id_/http%3A//www.cbronline.com/cbr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412155216id_/http%3A//cbronline.com/cbr/privacy) for the most accurate reproduction.*
 
 # CBR Online Latest News: Privacy Policy
 
@@ -22,9 +22,14 @@ of users visit which parts of the site.
 **Sending you e-mail**
 
 If you sign up for CBR Online's news alerting service, we will send you e-mail to alert you to stories that match your personal alerting profile. These  
-e-mails may contain targeted promotional messages. In addition, we may send further promotional e-mails if you give your consent. Your email address  
-will not be use to "Spam" you as this is an opt-in service. If you have given your consent, you can withdraw it, and we will stop sending you additional  
-promotional e-mails.
+e-mails may contain targeted promotional messages.   
+The Computer Business Review web site 
+
+_www.cbronline.com_
+
+is free to access, and is supported by banner advertising and occasional Email list rentals by interested 3rd parties.   
+Any user information collected through forms, or newsletter subscriptions on this web site are only shared with advertisers or any other third parties in aggregate form.   
+Unsubscribe details can be found within all Email broadcasts.
 
 **Using cookies**
 
