@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greekmythology.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203042800id_/http%3A//www.greekmythology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekmythology.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607024805id_/http%3A//www.greekmythology.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for GreekMythology.
 
@@ -31,8 +31,7 @@ This site intends to makes chat rooms, forums, message boards, and/or news group
 **Security**
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.  
-Greek Mythology works with a third party that serves ads to this site.  
-To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please go to http://www.flycast.com/about_us/about-privacy.html. 
+This site, Greek Mythology, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
 
 **Contacting the Web Site**
 
