@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertgps.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203095104id_/http%3A//www.expertgps.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertgps.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607031812id_/http%3A//www.expertgps.com/privacy.asp) for the most accurate reproduction.*
 
 # ExpertGPS Privacy Policy
 
@@ -25,5 +25,5 @@ TopoGrafix may set and access TopoGrafix cookies on your computer. TopoGrafix al
 TopoGrafix may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
 TopoGrafix   
-P.O. Box 783   
-Medford, MA 02155 
+24 Kirkland Dr   
+Stow, MA 01775 
