@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the st.com privacy policy that was archived on 2000-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001121222200id_/http%3A//us.st.com/stonline/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the st.com privacy policy that was archived on 2001-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010802102755id_/http%3A//us.st.com/stonline/legal/privacy.htm) for the most accurate reproduction.*
 
 # STMicroelectronics | Privacy Policy
 
