@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203123408id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606021243id_/http%3A//syvum.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Syvum Privacy Policy
 
@@ -22,9 +22,13 @@ There are times when we may collect personal information from you. It is our int
 
 ### EMAIL
 
-Syvum does not engage in or support spamming or misuse of email addresses. When you use the "Send this page to a friend" feature on the Syvum web site, the email address of your friend is used only to send the requested page to them. No further emails are sent to that address, nor is that address revealed to any third party. 
+_**Syvum does not engage in or support spamming or misuse of email addresses.**_
 
-When you provide us your email address to register as a member, you may receive occasional newsletters informing you of updates to our site and products. You also have the option to subscribe to daily or weekly mailing lists operated by Syvum. Your email address is held in strict confidence, and only used as stated here. 
+We require your email address when you register as a member to our Teens or Individual Clubs (for ages > 13). Your email address is used once to send you a welcome notice, and may be used to send emergency emails (such as a major change to our service, or to send your password if you lose/forget it). If you take part in our contests, and are a winner, your prize notification will also be sent at that address. Any other emails from Syvum will only be sent to you if you explicitly ask us to send them by subscribing to any of our optional services. 
+
+When you use the "Send this page to a friend" feature on the Syvum web site, the email address of your friend is used only to send the requested page to them. No further emails are sent to that address, nor is that address revealed to any third party. 
+
+_**Your email address is held in strict confidence, and only used as stated here.**_
 
 ### ACCURACY 
 
@@ -44,9 +48,9 @@ Syvum may share aggregate information about its users with advertisers, business
 
 ### THIRD PARTY ADVERTISING
 
-We use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp)
+We use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [ http://www.maxonline.com/privacy_policy/index.php](http://www.maxonline.com/privacy_policy/index.php)
 
-In addition to DoubleClick, we also utilize the services of Adtegrity.com to serve ads on our site. To view their privacy policy, [click here](http://www.adtegrity.com/privacy.asp). 
+In addition to MaxOnline, we also utilize the services of Adtegrity.com to serve ads on our site. To view their privacy policy, [click here](http://www.adtegrity.com/privacy.asp). 
 
 ### THIRD PARTY COOKIES
 
