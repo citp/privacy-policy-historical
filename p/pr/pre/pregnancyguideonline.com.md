@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnancyguideonline.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606211407id_/http%3A//www.storknet.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancyguideonline.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203051636id_/http%3A//www.storknet.com/privacy.htm) for the most accurate reproduction.*
 
 # StorkNet - The Pregnancy and Parenting Online Community
 
@@ -35,7 +35,7 @@ Our Message Boards require registration to post, and the registration form requi
 
 **Public Forums**
 
-StorkNet makes message board forums and email (via StorkNetMail.com) available to its users. Please be aware that any information that is disclosed in these areas becomes public information, and care should be exercised when deciding to disclose personal information. StorkNet cannot be responsible for the information users post in these public areas.
+StorkNet makes message board forums and email (via StorkNetMail.com) available to its users. Please be aware that any information that is disclosed in these areas becomes public information, and care should be exercised when deciding to disclose personal information. StorkNet cannot be responsible for the information users post in these public areas including other websites.
 
 **Email Service**
 
@@ -61,4 +61,4 @@ If a user elects to use our referral service for informing a friend about our si
 
 If you have any questions about this privacy statement or the practices of this site, you may contact:  
 Maribeth Doerr  
-**[sninfo@storknet.com](https://web.archive.org/web/20030606211407id_/http%3A//www.storknet.com/contactus.htm)**
+**[sninfo@storknet.com](https://web.archive.org/web/20031203051636id_/http%3A//www.storknet.com/contactus.htm)**
