@@ -1,0 +1,711 @@
+<!--The following is the downloaded HTML source of the wordtopdf.com privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606001657id_/http%3A//www.datafabrication.com/main_content.asp%3Fpageid%3D180) for the most accurate reproduction.-->
+
+<html><head><meta name="Description" content="eCommerce products and services, internet faxing products, and custom application and web development.  see: web design,web development,web designer,ecommerce,e-commerce,web programming,web marketing,internet development,web design company,website marketing,chicago web design,e-commerce development,web design illinois,ecommerce development,e-commerce developer,ecommerce developer">
+<meta name="Keywords" content="internet fax,fax,fax from word,fax products,web design,web development,web designer,ecommerce,e-commerce,web programming,web marketing,internet development,web design company,website marketing,chicago web design,e-commerce development,web design illinois,ecommerce development,e-commerce developer,ecommerce developer">
+<meta http-equiv="Pragma" content="no-cache">
+
+	<script language="javascript">
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		general_functions_js.asp
+//::		created: christopher j falvey (05.13.01)
+//::
+//::		version: 2.0
+//::	 	desc: general javascript functions
+//::
+//::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		javascript globals
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+var giMouseX
+var giMouseY
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 captureMouseMove
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+function captureMouseMove(e)
+{
+	
+}
+
+document.onmousemove = captureMouseMove;
+
+
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		javascript functions
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 popUp
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+function popUp(sUrl , iWidth , iHeight , bScrollBars)
+{
+	sPageName = "DFPopUp"
+	window.open(sUrl , sPageName , "status=1,scrollbars=" + bScrollBars + ",width=" + iWidth + ",height=" + iHeight + ",resizable=yes");
+}
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 popUpWindow
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+function popUpWindow(sUrl , sWin, iWidth , iHeight , bScrollBars)
+{
+	window.open(sUrl , sWin , "status=1,scrollbars=" + bScrollBars + ",width=" + iWidth + ",height=" + iHeight + ",resizable=yes");
+}
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 flipImage
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+function flipImage(sImageName , sFlipTo , sExtension)
+{
+	document.images[sImageName].src = "images/" + sImageName + "_" + sFlipTo + "." & sExtension
+}
+
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 refreshPage
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+function refreshPage()
+{
+	document.location = document.location
+}
+
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 getStyleAttribute
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+function getStyleAttribute(sID , sAttribute)
+{
+	
+		sCurrentTop = new String(eval("document." + sID + "." + sAttribute))
+	
+
+	return sCurrentTop
+
+}
+
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 setStyleAttribute
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+function setStyleAttribute(sID , sAttribute , sValue)
+{
+	
+		sStyleToSet = "document." + sID + "." + sAttribute + "='" + sValue + "'"
+	
+	
+	eval(sStyleToSet)
+}
+
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 moveDiv
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+function moveDiv(sID , sAttribute , iValue)
+{
+
+	iCurrentPos = getStyleAttribute(sID , sAttribute)
+	iCurrentPos = cPxToInt(iCurrentPos)
+	
+	sNextTopNumber = new String(iCurrentPos + iValue)
+	sNextPos = sNextTopNumber + "px"
+	setStyleAttribute(sID , sAttribute , sNextPos)
+
+}
+
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 cPxToInt
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+function cPxToInt(sPx)
+{
+	iInt = Number(sPx.replace(/px/gi,""))
+	return iInt
+}
+
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 getRandomNumber
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+function getRandomNumber(iBeginNum , iEndNum)
+{
+	iNumberToSend = iBeginNum - 1
+	while(iNumberToSend < iBeginNum || iNumberToSend > iEndNum)
+	{
+		iNumberToSend = iBeginNum + (Math.random() * iEndNum)
+	}
+		return Math.round(iNumberToSend)
+}
+
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 (decimal to hex functions)
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+function cHex(i) 
+{
+	a2 = ''
+	ihex = hexQuot(i);
+	idiff = eval(i + '-(' + ihex + '*16)')
+	a2 = itohex(idiff) + a2;
+	while( ihex >= 16) 
+	{
+		itmp = hexQuot(ihex);
+		idiff = eval(ihex + '-(' + itmp + '*16)');
+		a2 = itohex(idiff) + a2;
+		ihex = itmp;
+	} 
+	a1 = itohex(ihex);
+	return a1 + a2 ;
+}
+
+
+function hexQuot(i) 
+{
+      return Math.floor(eval(i +'/16'));
+}
+
+
+function itohex(i)
+{
+	if(i == 0){aa = '0'}
+	if(i == 1){aa = '1'}
+	if(i == 2){aa = '2'}
+	if(i == 3){aa = '3'}
+	if(i == 4){aa = '4'}
+	if(i == 5){aa = '5'}
+	if(i == 6){aa = '6'}
+	if(i == 7){aa = '7'}
+	if(i == 8){aa = '8'}
+	if(i == 9){aa = '9'}
+	if(i == 10){aa = 'A'}
+	if(i == 11){aa = 'B'}
+	if(i == 12){aa = 'C'}
+	if(i == 13){aa = 'D'}
+	if(i == 14){aa = 'E'}
+	if(i == 15){aa = 'F'}
+	
+	return aa
+}
+
+</script><script language="javascript">
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		functions_js.asp
+//::		created: 
+//::
+//::		version: 0.0
+//::	 	desc: site-specific javascript functions
+//::
+//::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		javascript functions
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//::		 functionName
+//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
+</script>
+
+<!-- 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::		style sheets
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+
+<style type="text/css">
+
+<!-- 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::		body text
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+
+BODY
+{
+	font-family: arial,helvetica;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+
+}
+
+TABLE
+{
+	font-family: arial,helvetica;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+
+}
+
+TR
+{
+	font-family: arial,helvetica;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+
+}
+
+
+
+TD
+{
+	font-family: arial,helvetica;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+}
+
+.leftJustify
+{
+	text-align:left;
+	font-family: arial,helvetica;
+	font-size: 12px;
+	color: #000000;
+}
+
+.centerJustify
+{
+	text-align:center;
+}
+
+.rightJustify
+{
+	text-align:right;
+}
+
+.tiny
+{
+	font-family: arial,helvetica;
+	color: #000000;
+	text-align:right;
+	font-size: 9px;
+}
+
+BODY
+{
+scrollbar-face-color: #70816D;
+scrollbar-arrow-color: #FFFFCD;
+scrollbar-highlight-color: #A9B3A7;
+scrollbar-3dlight-color: #A9B3A7;
+scrollbar-darkshadow-color: #2D342C;
+scrollbar-track-color: #000000;
+scrollbar-shadow-color: #434D41;
+}
+
+
+FORM
+{
+	font-family: arial,helvetica;
+	font-size: 11px;
+	color: #000000;
+}
+
+INPUT
+{
+	font-family: arial,helvetica;
+	font-size: 11px;
+	color: #000000;
+}
+
+A:ACTIVE
+{
+	font-family: arial,helvetica;
+	font-size: 12px;
+	text-decoration: underline;
+	color:#003300;
+}
+
+A:LINK
+{
+	font-family: arial,helvetica;
+	font-size: 12px;
+	text-decoration: underline;
+	color:#003300;
+}
+
+A:VISITED
+{
+	font-family: arial,helvetica;
+	font-size: 12px;
+	text-decoration: underline;
+	color:#003300;
+}
+
+
+
+
+A:HOVER
+{
+	text-decoration: underline;
+	color:#003300;
+}
+
+
+a.newsLink:link { text-decoration: underline; color:#FFFFCD;}
+a.newsLink:visited { text-decoration: underline; color:#FFFFCD;}
+a.newsLink:active { text-decoration: underline; color:#FFFFCD;}
+a.newsLink:hover { text-decoration: underline; color:#FFFFFF;}
+
+
+<!-- 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::		forms
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+
+SELECT
+{
+	font-family: arial,helvetica;
+	font-size: 12px;
+}
+
+INPUT
+{
+	text-decoration: none;
+	font-family: ;
+	font-size: 12px;
+	color: black;
+}
+
+TEXTAREA
+{
+	text-decoration: none;
+	font-family: ;
+	font-size: 12px;
+	color: black;
+}
+
+
+<!-- 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::		classes
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+
+.textJustify
+{
+	text-align:left;
+}
+
+.navLinkText
+{
+	text-align:right;
+}
+ 
+.newsLink
+{
+	color: FFFFCD;
+	font-weight: bold;
+	text-align: left;
+}
+
+
+.htmlHeadline
+{
+	font-weight: bold;
+	font-size:  14px;
+	text-align: left;
+}
+
+.smallHeadline
+{
+	font-weight: bold;
+	font-size:  11px;
+	text-align: left;
+}
+
+.newsHeadline
+{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+}
+
+
+.newsSubHeadline
+{
+	font-weight: bold;
+	font-size: 15px;
+	text-align: left;
+}
+
+
+.newsSideHeadline
+{
+	font-weight: bold;
+	font-size: 10px;
+	text-align: left;
+}
+
+.newsSideDate
+{
+	color: #B8C09D;
+	font-size: 10px;
+	text-align: left;
+}
+
+.bioName
+{
+	font-weight: bold;
+	font-size: 15px;
+	text-align: left;
+}
+
+.formButton
+{
+	font-family: arial,helvetica;
+	font-size: 15px;
+	color: #003300;
+	font-weight: bold;
+}
+
+.faqQuestion
+{
+	font-weight: bold;
+	font-size: 13px;
+}
+
+
+.contentBottom
+{
+	color: #666652;
+	font-size: 10px;
+}
+
+.supportText
+{
+	color: #660000;
+}
+
+.customerText
+{
+	color: #003300;
+}
+
+</style>
+
+	<title>Data Fabrication: eCommerce products and services, internet faxing products, and custom application and web development.</title>
+</head>
+
+	
+	<body bgcolor="#FFFFCD" text="#000000" link="#003300" alink="#003300" vlink="#003300" background="images/bg.gif" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+	
+	
+	<!-- DF_SESSION_PAGECOUNT(1) -->
+	<!-- DF_SERVER_IP(69.3.228.230) -->
+	
+	
+		
+		<table width="750" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr><td width="290"><a href="main_content.asp?pageid=1"><img src="images/aff_default/topLeft.gif" width="290" height="40" border="0"></a></td>
+			<td width="460"><img src="images/topRight_buffer.gif" width="20" height="40" alt="" border="0"><a href="main_content.asp?pageid=207" "=""><img src="images/topRight_207_off.gif" width="88" height="40" border="0"></a><a href="main_content.asp?pageid=2" "=""><img src="images/topRight_2_off.gif" width="88" height="40" border="0"></a><a href="main_content.asp?pageid=3" "=""><img src="images/topRight_3_off.gif" width="88" height="40" border="0"></a><a href="main_news.asp?pageid=4" "=""><img src="images/topRight_4_off.gif" width="88" height="40" border="0"></a><a href="main_contact.asp?pageid=5" "=""><img src="images/topRight_5_off.gif" width="88" height="40" border="0"></a></td>
+		</tr></tbody></table>
+		<table width="750" cellpadding="0" cellspacing="0" border="0" bgcolor="#7D7D7D">
+			<tbody><tr><td width="420"><img src="images/topImage_left_12.gif" width="420" height="131" border="0"></td>
+			<td width="330"><img src="images/aff_default/topImage_right_default.gif" width="330" height="131" border="0"></td>
+		</tr></tbody></table>
+		<table width="750" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr><td width="290" valign="top">
+			<img src="images/dot_clear.gif" width="290" height="30" border="0"><br>
+	
+			
+			
+			<a href="main_content.asp?pageid=180"><img src="images/navHeader_180.gif" width="285" height="29" border="0"></a>
+			<table width="285" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr><td valign="center">
+				<div align="center">
+				<img src="images/side_contact.gif" width="260" height="132" alt="" border="0">
+				</div>
+				</td>
+			</tr></tbody></table>
+			
+			
+			
+			<p>
+			
+			</p></td>
+			<td width="10" valign="top"><img src="images/dot_clear.gif" width="10" height="500" border="0"></td>
+			<td width="440" valign="top" background="images/content_bg_12.gif">
+			<!-- <div style="line-height:170%;"> -->
+			
+			<img src="images/dot_clear.gif" width="200" height="10" alt="" border="0">
+			<br>
+		
+		
+			
+	<div class="htmlHeadline">Our Privacy Policy</div><br>
+	
+By visiting this site, and any other affiliated Data Fabrication sites, and/or using the products and/or services of Data Fabrication and any affiliated companies or subsidiaries, you agree to the following:
+<p>
+Personal information 
+ </p><p>
+In general, you can visit Data Fabrication on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you.
+</p><p>
+You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and address or e-mail address, to correspond with you, to process an order, or to provide you with a subscription. You may give us your credit card details to buy something from us. We intend to let you know how we will use such information before we collect it from you.  If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so, and can use such information under the guidelines of this document.
+ 
+ </p><p>
+Using and Sharing Personal Information 
+ 
+The following paragraphs describe in more detail how Data Fabrication may use your personal information and with whom we may share it. Depending on the type of Data Fabrication Web site you are visiting, one or more of the paragraphs may apply. For example, if you order a product from a Data Fabrication Web site, your information will be handled as described in such paragraphs as Fulfilling Your Transaction Request and Marketing Use.
+</p><p>
+
+Fulfilling your transaction request 
+ </p><p>
+If you request something from a Data Fabrication Web site, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information, with others, for instance, other parts of Data Fabrication, Data Fabrication's Business Partners, financial institutions, shipping companies, postal or government authorities (for example, Customs authorities) involved in fulfillment. In connection with a transaction we may also contact you as part of our customer satisfaction surveys or for market research purposes.
+</p><p>
+Marketing Use 
+ </p><p>
+The information you provide to Data Fabrication on certain Data Fabrication Web sites may also be used by Data Fabrication and selected third parties for marketing purposes.
+</p><p>
+
+Information for Business Partners 
+ 
+If you represent a Data Fabrication Business Partner, you may visit a Data Fabrication Web site intended specifically for Data Fabrication Business Partners. We may use information provided on that site to administer and develop our business relationship with you, the Business Partner you represent, and Data Fabrication Business Partners generally. For instance, this may involve using your information to send you details of Data Fabrication Business Partner programs. It may also include sharing certain information with other Business Partners or Data Fabrication customers or prospects. In connection with a particular transaction or program, we may also contact you as part of customer satisfaction surveys or for market research purposes.
+</p><p>
+Data Fabrication Supplier Administration 
+ </p><p>
+If you represent a Data Fabrication supplier, you may visit a Data Fabrication Web site intended specifically for use by Data Fabrication suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of Data Fabrication, Data Fabrication's Business Partners, customers, shipping companies, financial institutions, postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent and/or other Data Fabrication suppliers generally.
+</p><p>
+
+Other Data Fabrication Web Site Notices 
+ </p><p>
+In some cases, specific Data Fabrication Web sites may contain other notices about their use and the information practices applicable to those sites.  In these cases, such notices supercede this document.
+
+</p><p>
+Information Security and Quality 
+ </p><p>
+We intend to protect your personal information and to maintain its quality. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality.  However, we shall not be held liable for any breech of such information.
+
+</p><p>
+Supplementing Information 
+ </p><p>
+From time to time we may supplement information you give us via a Data Fabrication Web site with information from other sources, such as information validating your address or other available information about businesses. This is to help us maintain the accuracy of the information we collect and to help us provide a better service.
+</p><p>
+Mergers and Acquisitions 
+ </p><p>
+Circumstances may arise where, whether for strategic or other business reasons, Data Fabrication decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers.
+</p><p>
+Cookies, Web Beacons and Other Technologies 
+ </p><p>
+We sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on Data Fabrication Web sites.  This information is sometimes known as "clickstream data." Data Fabrication or others on Data Fabrication's behalf may use this data to analyze trends and statistics and to help us provide better customer service.
+</p><p>
+Also, when we collect personal data from you in a transaction, we may extract some information about that transaction and combine it with other information such as clickstream data. This information is used and analyzed to help us understand trends and patterns, and may be reviewed at an individual level.
+</p><p>
+We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as tag that identifies your computer. Some Data Fabrication pages use cookies, sent by Data Fabrication or its third party vendors, or other technologies to better serve you when you return to the Web site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
+</p><p>
+Some Data Fabrication Web sites also use Web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across Data Fabrication's Web sites. When a visitor accesses these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies.
+ </p><p>
+Service Quality Monitoring 
+ </p><p>
+Certain Web transactions may also involve you calling us or our calling you. Please be aware that it is Data Fabrication's general practice to monitor and in some cases record such calls for staff training or quality assurance purposes.
+</p><p>
+Online Advertising 
+ </p><p>
+Certain companies help us deliver interactive on-line advertising such as banner ads. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers.
+</p><p>
+Personalized URL Link 
+ </p><p>
+On occasion, we may personalize and customize Web sites for certain visitors. If you visit one of these sites, you may find it customized with references to products and/or services that we believe may be of interest to you, based on your previous interactions with Data Fabrication and information you have provided to us. While you are visiting these Web sites, we may collect information about your visit to better tailor the site to your interests. An invitation to visit one of these Web sites is usually presented as a personalized URL in an e-mail, a notice on a Web site registration page, or as a response to you logging on to a certain Web site.
+</p><p>
+If you choose to visit one of these Web sites, you are agreeing to let Data Fabrication collect information about your visits and also to its association with other information about you and your relationship with Data Fabrication. If you do not wish your information to be used in this way, do not accept the invitation to visit these sites.
+</p><p>
+Disclosures Required By Law 
+ </p><p>
+Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.
+</p><p>
+
+Links to non-Data Fabrication Web sites 
+ </p><p>
+Data Fabrication Web sites may contain links to other Web sites. Data Fabrication is not responsible for the privacy practices or the content of those other Web sites.
+
+</p><p>
+Notification of Changes 
+ </p><p>
+This privacy statement was last updated on November 22, 2002. Please visit this page for updates to this policy.  It is your responsibility to review our privacy policy at any time you may visit this site, or affiliated Data Fabrication sites.  Please be aware that by visiting Data Fabrication site you are agreeing to this document.
+</p><p>
+
+Privacy Questions and Access 
+ </p><p>
+If you have a question about this statement, you can send an email to the Data Fabrication Web site coordinator. The address for this is info@datafabrication.com. You can also contact us at this address if you have a question about Data Fabrication's handling of your information.
+</p><p>
+This Web site is maintained by Data Fabrication or one of its subsidiaries.
+</p><p>
+</p><p>
+
+				<!-- </div> -->
+				
+				</p><p>
+				<img src="images/content_dottedLine.gif" width="440" height="3" alt="" border="0">
+				<br>
+				<span class="contentBottom">Copyright © 1997-2004, Data Fabrication, Inc.  All Rights Reserved.</span><br>
+				<span class="contentBottom"><a href="main_content.asp?pageid=180">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="main_content.asp?pageid=181">Legal</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="main_contact.asp?pageid=5">Contact Us</a></span>
+				
+				
+				<br><img src="images/dot_clear.gif" width="10" height="20" alt="" border="0">
+				
+				</p></td>
+				<td width="10" valign="top"><img src="images/dot_clear.gif" width="10" height="300" alt="" border="0"></td>
+			</tr></tbody></table>
+			
+		
+	
+	
+
+
+	
+	
+	<!-- DF_PAGE_RUNTIME(0.1250) -->
+	
+	
+
+	</body></html>
