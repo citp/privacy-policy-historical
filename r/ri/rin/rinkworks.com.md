@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2000-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000818174819id_/http%3A//www.rinkworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606153724id_/http%3A//www.rinkworks.com/privacy) for the most accurate reproduction.*
 
 # RinkWorks: Privacy Policy
 
-[](http://www.burstnet.com/ads/ad2479k-map.cgi/0.869134740438312)   
+  
 
 
 * * *
@@ -25,4 +25,4 @@ _RinkWorks_ respects the privacy and confidentially of its associates and reader
 
 * * *
 
-Back to the [_RinkWorks home page_](https://web.archive.org/web/20000818174819id_/http://rinkworks.com/). 
+Back to the [_RinkWorks home page_](https://web.archive.org/web/20010606153724id_/http://rinkworks.com/). 
