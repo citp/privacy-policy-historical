@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plimus.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603203907id_/http%3A//www.plimus.com/jsp/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plimus.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205092137id_/http%3A//www.plimus.com/jsp/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -17,7 +17,7 @@ Plimus, Inc. collects information through Plimus enabled software at several poi
 
 We collect software usage information by means of the PlimWare module that is incorporated with each software package and logging files. The personal information is collected voluntarily; usage information is collected in accordance with the software license agreement. To receive our products and services, personal information is mandatory because it is used to accurately identify an account and for communication with the user. Usage information is collected to supply the user with licensing terms and entitlement as defined in the software license agreement. Other information we request is optional. 
 
-We employ cookies. A cookie is a small text file that our Web server places on a user�s computer hard drive to be a unique identifier. Cookies enable Plimus, Inc. to automatically login a user back to our services provided he/she choose to enable such option. Our cookies do not have an expiration date. Our cookies collect personally identifiable information, this being the username and passowrd for automatic logon. 
+We employ cookies. A cookie is a small text file that our Web server places on a user's computer hard drive to be a unique identifier. Cookies enable Plimus, Inc. to automatically login a user back to our services provided he/she choose to enable such option. Our cookies do not have an expiration date. Our cookies collect personally identifiable information, this being the username and passowrd for automatic logon. 
 
 **Part II. Information Usage.**   
 The information collected by Plimus, Inc. will be used solely by Plimus, Inc. and in conjunction with the specified terms in this document. Users who provide information may receive email announcements regarding Plimus' services from time to time. 
