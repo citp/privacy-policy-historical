@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2000-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001028174101id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409175917id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
 
 # LapLink.com Privacy Policy
 
@@ -46,7 +46,7 @@ Don't want to receive e-mail or postal mail from us? We give our Web site visito
 
 Visitors who decide they no longer wish to receive our product mailings or promotional materials sent on behalf of our partners have three options for opting-out: 
 
-  * Visit [MyLapLink profile](https://web.archive.org/mylaplink/Updateprofile.asp). Click one box to opt out of receiving future promotional materials. 
+  * Visit [MyLapLink profile](https://web.archive.org/mylaplink/viewProfile.asp). Click one box to opt out of receiving future promotional materials. 
 
   * Click the opt-out link that you’ll find on each promotional e-mail. 
 
@@ -70,7 +70,7 @@ Visitors to our site are always notified when their information is being collect
 
 Through the one-stop convenience of MyLapLink you can register LapLink products, submit and track your requests for customer support, sign up to receive e-mail notices of new product releases and special offers or "opt-out" of such mailings.
 
-Once you’ve registered with us, you may update or change your personal profile at any time by visiting the [MyLapLink](https://web.archive.org/mylaplink/updateprofile.asp) section of our Web site.
+Once you’ve registered with us, you may update or change your personal profile at any time by visiting the [MyLapLink](https://web.archive.org/mylaplink/viewProfile.asp) section of our Web site.
 
 **Legal disclaimer**
 
