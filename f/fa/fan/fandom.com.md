@@ -1,67 +1,61 @@
-> *The following text is extracted and transformed from the fandom.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413084116id_/http%3A//www.fandom.com/master_site/Editorial.asp%3Faction%3Dpage%26obj_id%3D71251) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandom.com privacy policy that was archived on 2002-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020112062902id_/http%3A//www1.fandom.com/0/privacy_policy.asp) for the most accurate reproduction.*
 
-# FANDOM - Main Site - Editorial 71251
+# Cinescape - Home - Editorial
 
-**Privacy Statement**  
-_Date: 1/29/01_
+Mania Entertainment LLC takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
-**What information Does Fandom Collect?**  
-We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, improving our site, and communicating with you. 
+What this Privacy Policy Covers 
 
-When ordering products and/or registering on the site, we need you to provide certain information in order for us to create a user profile so that we may customize preferences for each specific user, as well as provide a faster method for users to submit information to Fandom, Inc., and receive back either the information or products desired. 
+· This Privacy Policy covers Mania Entertainment`s treatment of personally identifiable information that Mania Entertainment collects when you are on the Mania Entertainment site, and when you use Mania Entertainment`s services. This policy also covers Mania Entertainment`s treatment of any personally identifiable information that Mania Entertainment`s business partners share with Mania Entertainment or that Mania Entertainment may collect on a partner`s site. 
 
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Fandom.com or any of the other Fandom, Inc. sites. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Fandom.com if we cannot recognize you, we want you to be aware that these tools exist. 
+· This policy does not apply to the practices of companies that Mania Entertainment does not own or control, or to people that Mania Entertainment does not employ or manage. 
 
-**Cookies**  
-Cookies are bits of electronic information that a Web site can transfer to a visitor’s hard drive to help tailor and keep records of his or her visit to the site. Cookies allow Web site operators to better customize visits to the site to the visitor’s individual preferences. The use of cookies is standard on the Internet and many major Web sites use them. Although most Web browsers automatically accept cookies, you can usually change your browser to prevent or notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept it. Even without accepting a cookie, you can still access most of the features on the site. Fandom uses cookies so that they can help provide its visitors with a better experience on our site. 
+Information Collection and Use 
 
-**Security of Personal Information**   
-We work to protect the security of your information during transmission of sensitive/credit data by using Secure Sockets Layer (SSL) software, which encrypts information you input. User personal data is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems.
+· Mania Entertainment collects personally identifiable information when you register for a Mania Entertainment account, when you use certain Mania Entertainment products and services, when you visit Mania Entertainment pages, and when you enter promotions or sweepstakes. Mania Entertainment may also receive personally identifiable information from our business partners. 
 
- **What Information can I access?**  
-Fandom.com gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves. 
+· When you register with Mania Entertainment, we ask for your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Mania Entertainment and sign in to our services, you are not anonymous to us. 
 
-  * Account Information
-  * Public Profile 
-  * Newsletter 
+· Mania Entertainment also automatically receives and records information on our server logs from your browser including your IP address, Mania Entertainment cookie information and the page you requested. 
 
+· Mania Entertainment uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
 
+Information Sharing and Disclosure 
 
-**Subscriptions Kids under 13 ( _Special Note to Parents_ )**  
-Pursuant to the provisions of the Federal Children’s Online Privacy Protection Act (COPPA), we do not collect information from children under thirteen years of age without the consent of a parent legal guardian. Parent (or legal guardians) may provide us with consent to collect such information by e-mail, by facsimile or by posted mail. Parents may request to review information collected from their child, may ask to have that information deleted, and may refuse to allow further collection or use of the child’s information. To request such review or to give instructions regarding the information we have collected about a child, parents/legal guardians should contact us. We encourage parents and guardians to spend time online with their children, to participate in the interactive activities offered online, and for children to consult with their parents before submitting any information to this or any other web site. Although guest under eighteen years of age may be allowed, with their parent’s permission and supervision, to participate in noted contests, if such a guest wins, notification and prizes will be sent to such guest’s parents or guardian. Parents should consider using parental control tools available from online services and software manufacturers to help supervise their children’s online activities. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the Direct Marketing Association home page. 
+· Mania Entertainment will not sell or rent your personally identifiable information to anyone. 
 
-**Does Fandom Share the Information It receives?**  
-The Websites owned and operated by Fandom, Inc. include www.fandom.com, www.fandomshop.com, www.cinescape.com, www.creationent.comare. All of these sites are maintained by Fandom, Inc. and follow the company’s Privacy Policy (as detailed below).
+· Mania Entertainment may send personally identifiable information about you to other companies or people when: 
 
-The Fandom Websites do not collect personal information about individuals except when knowingly provided by such individuals (or as otherwise detailed below). Any personal information (e.g., name, e-mail address, etc.) provided by such individuals may be used in connection with Fandom. Inc. and the Fandom Websites and for such other purposes as may be indicated at the point of collection (or otherwise detailed in the Fandom, Inc. Privacy Policy). From time to time, such information may be provided to reputable third parties for marketing or information gathering purposes. If you do not want us to share your personal information with third parties, please let us know by e-mail at [info@fandom.com](mailto:info@fandom.com) include your name, address, and e-mail. While Fandom, Inc. will use reasonable good faith efforts to require third parties to adhere to its privacy policies, it does not bear any responsibility for any actions or policies of such parties. 
+o We have your consent to share the information; 
 
-You should be aware that when you voluntarily disclose personal information (e.g. name, e-mail address, etc.) on the Fandom Websites, such information can be collected and used by others and may result in unsolicited messages.
+o We need to share your information to provide the product or service you have requested; 
 
- **What Choices do I have?**
+o We need to send the information to companies who work on behalf of Mania Entertainment to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); 
 
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain site features.
-  * You can add or update certain information on pages such as those listed in the "What Information Can I Access?" section above.
-  * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+o We respond to subpoenas, court orders or legal process; or 
 
+o We find that your actions on our web sites violate the Mania Entertainment Terms of Use or any of our usage guidelines for specific products or services. 
 
+Cookies 
 
- **Third Party Links**  
-In an attempt to provide increased value to our visitors, Fandom may choose various third party Web sites to link to from its own site. However, even if the third party is affiliated with Fandom, Fandom has no control over these linked sites who each have separate privacy and data collection practices, independent of Fandom. Fandom has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such Web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, Fandom seeks to protect the integrity of its Web site and the links placed upon it and therefore requests any feedback on not only its own site, but for sites it links to as well (including if a specific link does not work). 
+· Mania Entertainment may set and access Mania Entertainment cookies on your computer. 
 
-**Consent**  
-By using our Web site, you consent to the collection and use of this information by Fandom as set forth in this privacy statement. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+· Mania Entertainment allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies` use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Mania Entertainment`s cookies. 
 
-**Contact Us**  
-Fandom welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at info@fandom.com. Or you can reach us by posted mail at: Fandom, Corporate Office 2644 30th Street Santa Monica, CA 90405 Or by telephone: 310-581-2488 
+· Mania Entertainment uses web beacons to access our cookies within and outside our network of web sites and in connection with Mania Entertainment products and services. 
 
-**Terms and Conditions**  
-Please also visit Fandom’s terms and conditions establishing the use, disclaimers, and limitations of liability governing the use of the entire Fandom Web site. 
+Your Ability to Edit and Delete Your Account Information and Preferences 
 
-"We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](mailto:info@fandom.com).
+· Mania Entertainment gives you the ability to edit your Mania Entertainment Account Information and preferences at any time, including whether you want Mania Entertainment to contact you about specials and new products. 
 
-  
-  
-  
-|    
-  
----|---
+· You may request deletion of your Mania Entertainment account by visiting our Account Deletion page, verifying your password once more and confirming your choice to terminate the account. Please click here to read about what information may possibly remain in our archived records after your account has been deleted. 
+
+Security 
+
+· Your Mania Entertainment Account Information is password-protected for your privacy and security. 
+
+· In certain areas Mania Entertainment uses industry-standard SSL-encryption to protect data transmissions. 
+
+Changes to this Privacy Policy 
+
+· Mania Entertainment may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
