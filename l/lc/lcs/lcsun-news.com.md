@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the lcsun-news.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216041648id_/http%3A//www.lcsun-news.com/Stories/0%2C1413%2C115%25257E7494%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcsun-news.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407102757id_/http%3A//www.lcsun-news.com/Stories/0%2C1413%2C115%25257E7494%25257E%2C00.html) for the most accurate reproduction.*
 
 # Las Cruces Sun~News
 
 | [News](https://web.archive.org/Stories/0,1413,115%257E7444%257E,00.html)  
 ---  
 [Art and Entertainment](https://web.archive.org/Stories/0,1413,115%257E11547%257E,00.html)  
-[Local Reviews](https://web.archive.org/Stories/0,1413,115%257E24957%257E,00.html)  
 [Business](https://web.archive.org/Stories/0,1413,115%257E7436%257E,00.html)  
 [Editorial](https://web.archive.org/Stories/0,1413,115%257E7439%257E,00.html)  
 [Headline Stories](https://web.archive.org/Stories/0,1413,115%257E7442%257E,00.html)  
@@ -13,26 +12,29 @@
 [Obituaries](https://web.archive.org/Stories/0,1413,115%257E7445%257E,00.html)  
 [Sports](https://web.archive.org/Stories/0,1413,115%257E7449%257E,00.html)  
 [Weather](https://web.archive.org/Stories/0,1413,115%257E7453%257E,00.html)  
+    
 [New Mexico Cars](http://newmexico.autochooser.com/publisher_files/index.html)  
     
 [Classifieds](http://lascruces.abracat.com/)  
-    
 [Health Care     Employment     Opportunities](http://adserver1.harvestadsdepot.com/mednmlcsn/ss/HealthCare/)  
     
-[Career Source](http://adserver1.harvestadsdepot.com/mednmlcsn/ss/003049/)  
 [MoreCities-Choices](http://www.abracat.com/abracat/index.jsp)  
-[Entertainment](https://web.archive.org/Stories/0,1413,115%257E7459%257E,00.html)  
     
+[Entertainment](https://web.archive.org/Stories/0,1413,115%257E7459%257E,00.html)  
 [Book Reviews](https://web.archive.org/Stories/0,1413,115%257E10006%257E,00.html)  
 [Connections](http://www.datefinder.com/lascruces)  
 [Movies](https://web.archive.org/Stories/0,1413,115%257E11553%257E,00.html)  
+    
 [Services](https://web.archive.org/Stories/0,1413,115%257E7467%257E,00.html)  
 [News Search](https://web.archive.org/Stories/0,1413,115%257E23649%257E,00.html)  
 [Info/Feedback](https://web.archive.org/Stories/0,1413,115%257E7469%257E,00.html)  
 [Search Archives](http://search.newschoice.com/)  
 [Subscriptions](https://web.archive.org/Stories/0,1413,115%257E7474%257E,00.html)  
+    
 [Privacy Policy](https://web.archive.org/Stories/0,1413,115%257E7494%257E,00.html)  
   
+[](http://www.pictopia.com/lcsn.html)
+
 | 
 
 |    
@@ -138,20 +140,13 @@ We use a third-party advertising company to serve ads when you visit our Web sit
   
 * * *
 
-**© 1999-2002 MediaNews Group, Inc. and Mid-States Newspapers, Inc.** |  Sunday, December 15, 2002  
-9:16 PM MST
+**© 1999-2003 MediaNews Group, Inc. and Mid-States Newspapers, Inc.** |  Monday, April 07, 2003   
+4:27 AM MST
 
-| [New Mexico Newspapers](https://web.archive.org/Stories/0,1413,115%257E7443%257E,00.html)  
+[](http://www.pictopia.com/lcsn.html)
+
+| [Lifestyles](https://web.archive.org/Stories/0,1413,115%257E7461%257E,00.html)  
 ---  
-[Alamogordo Daily    News](http://www.alamogordonews.com/)  
-[Carlsbad Current-  Argus](http://www.currentargus.com/)  
-[Deming Headlight](http://www.demingheadlight.com/)  
-[Farmington Daily   Times](http://www.daily-times.com/)  
-[Ruidoso News](http://www.ruidosonews.com/)  
-[Silver City Sun-News](http://www.scsun-news.com/)  
-[New Mexico Travel](http://travel.lcsun-news.com/)  
-    
-[Lifestyles](https://web.archive.org/Stories/0,1413,115%257E7461%257E,00.html)  
 [Health & Nutrition](https://web.archive.org/Stories/0,1413,115%257E7461%257E,00.html)  
 [Horoscopes](https://web.archive.org/Stories/0,1413,115%257E7462%257E,00.html)  
 [Lottery Results](https://web.archive.org/Stories/0,1413,115%257E7463%257E,00.html)  
@@ -160,4 +155,13 @@ We use a third-party advertising company to serve ads when you visit our Web sit
 [Mapquest](http://www.mapquest.com/)  
 [Headbone Zone](http://www.headbone.com/home/home.new.html)  
 [NewsChoice](http://www.newschoice.com/)  
-[Travel](https://web.archive.org/Stories/0,1413,115%257E7490%257E,00.html)
+[Travel](https://web.archive.org/Stories/0,1413,115%257E7490%257E,00.html)  
+[New Mexico Newspapers](https://web.archive.org/Stories/0,1413,115%257E7443%257E,00.html)  
+[Alamogordo Daily    News](http://www.alamogordonews.com/)  
+[Carlsbad Current-  Argus](http://www.currentargus.com/)  
+[Deming Headlight](http://www.demingheadlight.com/)  
+[Farmington Daily   Times](http://www.daily-times.com/)  
+[Ruidoso News](http://www.ruidosonews.com/)  
+[Silver City Sun-News](http://www.scsun-news.com/)  
+[New Mexico Travel](http://travel.lcsun-news.com/)  
+  
