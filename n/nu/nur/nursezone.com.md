@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205025847id_/http%3A//www.nursezone.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609060621id_/http%3A//www.nursezone.com/privacy.asp) for the most accurate reproduction.*
 
 # NurseZone - Privacy Statement
 
@@ -42,11 +42,13 @@ In addition, we provide links to third party Web sites that offer continuing edu
   
 _Career Center._ In order to use our career placement center, which includes recruitment and placement of nurses, we require that you be registered with our site. We ask you to provide us with your name, e-mail address, nursing specialty or discipline and some other general information. In connection with our career center services, we will offer you the opportunity to be contacted by one of our career advisors. Should you choose to be contacted, a career advisor will contact you via your e-mail address or telephone number on record. In addition, our Career Center contains a "Create A Résumé" program which enables our registered users to create and print résumés and post them on our site. Our site will enable the user to e-mail the résumé only to us at _NurseZone_. We may forward the résumé via e-mail or facsimile without the nurse's name, address or other personally identifiable information, to selected health care facilities only upon the prior request or consent of the nurse. In addition, each user who posts a résumé on our site will be assigned a unique URL number. Should a user provide the URL number to third parties other than _NurseZone_ , we cannot and do not guarantee your privacy. We urge you not to disclose your URL number to anyone.  
   
-_Bulletin Board._ We offer a bulletin board that permits posting opportunities for our registered users. Please see our [Terms of Use](https://web.archive.org/web/20031205025847id_/http%3A//www.nursezone.com/terms.asp) before using the bulletin board. Also, Bulletin Board messages posted by users may be featured in NurseZone's weekly e-newsletter.   
+_Bulletin Board._ We offer a bulletin board that permits posting opportunities for our registered users. Please see our [Terms of Use](https://web.archive.org/web/20040609060621id_/http%3A//www.nursezone.com/terms.asp) before using the bulletin board. Also, Bulletin Board messages posted by users may be featured in NurseZone's weekly e-newsletter.   
   
 _Correspondence._ You will be required to provide your e-mail address when you register for our weekly e-mail newsletter. The newsletter provides nurses with a variety of information on topics we believe would be of interest to you. Again, your name and e-mail address are not shared with any third parties. There may be other times when we request or acquire your e-mail address, such as when you send us an e-mail with questions or comments. We will use only your e-mail address to respond to e-mails from you, forward and send your e-mails to and from other registered users and internal _NurseZone_ employees who may be able to respond to you, send information to you concerning your account, and inform you of updates to our Web site. We do not share e-mail addresses or any other personal information about our registered users with advertisers, business partners, sponsors or other third parties except to provide services you have requested.  
   
 _Special Contests and Promotions._ _NurseZone_ will occasionally feature a contest/promotion for nurses. In order to enter the contest/promotion, we require you to provide us with your name, phone number and e-mail address so that we can contact you if you win. We also ask for other information that will help us reach nurses with our extensive site offerings. Your information will only be shared with third parties if you request to receive information from the provider parties.  
+  
+_Application Form._ _NurseZone_ allows you to apply to its healthcare staffing partners by completing an online application form. Completion of this form is completely optional and at your discretion. Information that will be gathered by completing this form includes your name, address, age, social security number, dates available to travel, certification, licensure, education, employment history, legal history and eligibility to work in the United States. The information you provide is used solely for the purpose of assessing your suitability to work as a healthcare traveler and to match your expertise with available travel assignments.   
   
 **_Information that We Independently Derive From Your Use of Our Site_**  
   
@@ -84,8 +86,9 @@ Our policy does not extend to anything that is inherent in the operation of the 
   
 **Your Acceptance of These Terms**  
   
-By using this site, you signify your assent to the _NurseZone_ privacy policy and the terms of use. If you do not agree with this policy and these terms, please refrain from using our site. Your continued use of the _NurseZone_ site following a reasonable notice of changes to our privacy policy or terms of use will mean you accept the changes.  
-  
+By using this site, you signify your assent to the _NurseZone_ privacy policy and the terms of use. If you do not agree with this policy and these terms, please refrain from using our site. Notice of any changes to our privacy policy will be posted on this site. Your continued use of the _NurseZone_ site following a reasonable notice of changes to our privacy policy or terms of use will mean you accept the changes.
+
+NurseZone’s privacy policy is effective as of March 12, 2004.   
 
 
 | 
