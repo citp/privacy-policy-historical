@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcnc.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610173033id_/http%3A//www.wcnc.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcnc.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207044347id_/http%3A//www.wcnc.com/registration/privacy.html) for the most accurate reproduction.*
 
 # WCNC.com | News for Charlotte, N.C. | Help Center
 
@@ -97,7 +97,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure.  You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1.                  Enter (or click) [http://signin. **WCNC**.com](http://signin.wcnc.com/) in your browser.
+1.                  Enter (or click) [http://www.wcnc.com/sharedcontent/registration/membercenter.jsp](http://www.wcnc.com/sharedcontent/registration/membercenter.jsp) in your browser.
 
 2.                  Sign in by entering your e-mail address and password.  Your account information will then be displayed.
 
