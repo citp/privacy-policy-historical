@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cedars-sinai.edu privacy policy that was archived on 2003-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031222061704id_/http%3A//www.cedars-sinai.edu/5237.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedars-sinai.edu privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222749id_/http%3A//www.cedars-sinai.edu/5237.html) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
 | 
 
-[About Us](https://web.archive.org/web/20031222061704id_/http%3A//www.cedars-sinai.edu/5.html)  
+[About Us](https://web.archive.org/web/20040602222749id_/http%3A//www.cedars-sinai.edu/5.html)  
   
 ---  
   
-[Privacy Policy](https://web.archive.org/web/20031222061704id_/http%3A//www.cedars-sinai.edu/5237.html)  
+[Privacy Policy](https://web.archive.org/web/20040602222749id_/http%3A//www.cedars-sinai.edu/5237.html)  
   
   
 | 
@@ -96,4 +96,4 @@ Should you have any questions regarding this privacy statement, the practices of
 * * *
 
 © Copyright 2000-2003 Cedars-Sinai Health System. All rights reserved.  
-[Privacy Policy](https://web.archive.org/web/20031222061704id_/http%3A//www.cedars-sinai.edu/5237.html)         [Terms and Conditions](https://web.archive.org/web/20031222061704id_/http%3A//www.cedars-sinai.edu/5238.html)
+[Privacy Policy](https://web.archive.org/web/20040602222749id_/http%3A//www.cedars-sinai.edu/5237.html)         [Terms and Conditions](https://web.archive.org/web/20040602222749id_/http%3A//www.cedars-sinai.edu/5238.html)
