@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the garagegames.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616173317id_/http%3A//garagegames.com/index.php%3Fsec%3Dmain%26mod%3Dcompany%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garagegames.com privacy policy that was archived on 2002-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020126110048id_/http%3A//www.garagegames.com/index.php%3Fsec%3Dmain%26mod%3Dcompany%26page%3Dprivacy) for the most accurate reproduction.*
 
-# Garagegames.com - The Home of Independent Games and Gamemakers
+# GarageGames.com - The Home of Independent Games and Gamemakers
 
 Privacy Policy...  
 Garagegames.com values the privacy of the people who visit our site. The following is our detailed privacy policy, if you have any questions, feel free to e-mail [info@garagegames.com](mailto:info@garagegames.com) with your questions. 
@@ -55,3 +55,7 @@ If you would like to have your personally identifiable information removed from 
 **Questions?**
 
 Questions regarding this Privacy Policy should be directed to Garagegames.com at [webmaster@Garagegames.com](mailto:webmaster@Garagegames.com). 
+
+  
+  
+
