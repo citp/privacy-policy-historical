@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novell.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602203110id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novell.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010045932id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.*
 
 # NOVELL: Privacy
 
