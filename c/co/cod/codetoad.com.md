@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codetoad.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207094722id_/http%3A//www.codetoad.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codetoad.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603214348id_/http%3A//www.codetoad.com/help/privacy.asp) for the most accurate reproduction.*
 
 # 
 
