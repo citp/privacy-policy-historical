@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princess.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215145818id_/http%3A//www.princess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princess.com privacy policy that was archived on 2003-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030617143540id_/http%3A//www.princess.com/privacy) for the most accurate reproduction.*
 
 # Princess Where I Belong: contact
 
