@@ -1,50 +1,12 @@
-> *The following text is extracted and transformed from the extremetech.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602085039id_/http%3A//www.ziffdavis.com/terms/index.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremetech.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205094729id_/http%3A//www.ziffdavis.com/terms/index.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Ziff Davis Media | Privacy Policy
+# Ziff Davis Media | Privacy Policy and Terms
 
 | 
 
-[](https://web.archive.org/index.asp)  
-  
----  
-  
-[](https://web.archive.org/news/index.asp)  
-  
-[](https://web.archive.org/contact/index.asp)  
-  
-[](http://cioinsightmedia.com/index.html)  
-  
-[](http://theneteconomymedia.com/)  
-  
-[](http://yilmediakit.com/)  
-  
-[](https://web.archive.org/properties/index.asp?property=extremetech)  
-  
-[](http://pcmagmedia.com/index.html)  
-  
-[](http://mediakits.eweek.com/)  
-  
-[](http://mediakits.smartbusinessmag.com/)  
-  
-[](http://baselinemagmedia.com/index.html)  
-  
-[](https://web.archive.org/mswatch/index.asp)  
-  
-[](http://gamegroup.ziffdavis.com/about/cgw.html)  
-  
-[](http://gamegroup.ziffdavis.com/about/egm.html)  
-  
-[](http://gamegroup.ziffdavis.com/about/gn.html)  
-  
-[](http://gamegroup.ziffdavis.com/about/opm.html)  
-  
-[](http://gamegroup.ziffdavis.com/about/xbox.html)  
-  
-[](http://gamegroup.ziffdavis.com/about/pocket.html)  
-  
-[](http://gamegroup.ziffdavis.com/about/specials.html)  
-  
-Ziff Davis Media Privacy Policy
+Privacy Policy
+
+**Ziff Davis Media Privacy Policy**
 
 Ziff Davis Media is committed to protecting your privacy. This policy describes the ways that personally identifiable and anonymous information about our online users and print subscribers is gathered, our information sharing practices, and how online users and print subscribers may request changes to the way this information is shared.
 
@@ -61,12 +23,12 @@ Ziff Davis Media is not responsible for the information you volunteer about your
   * [eWEEK](http://www.eweek.com/view_profile/)
   * [ExtremeTech](http://www.extremetech.com/view_profile/)
   * [PC Magazine](http://www.pcmag.com/view_profile/)
-  * [The Net Economy](http://www.theneteconomy.com/view_profile/)
-  * [Ziff Davis Smart Business](http://www.smartbusinessmag.com.com/view_profile/)
 
 
 
-There is no site registration for Yahoo! Internet Life, Computer Gaming World, Electronic Gaming Monthly, GameNow, or Official U.S. Playstation Magazine.
+Sites for Computer Gaming World, Electonic Gaming Monthly, GameNow, Official U.S. Playstation Magazine and Xbox Nation are currently hosted by [Gamers.com](http://gamers.com/). There is no registration specifically for the gaming magazine content areas, but Gamers.com itself offers site registration. For details, please see [Gamers.com's Privacy Policy](http://gamers.com/s/privacy_policy/policy?m=1&a=0).
+
+Personally identifiable information you provide to [Microsoft Watch](http://www.microsoft-watch.com/) is not shared with anyone except on an aggregate, statistical basis.
 
 **What We Provide to Third Parties**
 
@@ -78,9 +40,10 @@ _Mailing Lists_
 
 We make email and postal lists of our customers available on a rental, i.e., temporary, defined, basis, to carefully screened providers of quality goods and services. Many customers appreciate the offerings they receive, but here's what to do if you don't wish for us to share this information:
 
-  * if you're a subscriber to a Ziff Davis Media magazine, please log in and change your preferences at http://subhelp.ziffdavis.com. (If you are a new subscriber, your information may not be immediately available - please allow 2-4 weeks from placing your subscription order for processing.) 
-  * if you're a registered user of our sites, you can change your preferences via the profile page links shown above. [link to list in earlier section] 
-  * If you are a registered user of eTesting Labs, please send email with your preference request to [customer_service@etestinglabs.com](mailto:customer_service@etestinglabs.com); if you are a registered user of Ziff Davis eSeminars, please send email with your preference request to [eSeminars@ziffdavis.com](mailto:eSeminars@ziffdavis.com); if you are a registered user of Gamers.com, please follow this link for details: [http://gamers.com/s/privacy_policy/policy?m=1&a=0](http://gamers.com/s/privacy_policy/policy?m=1&a=0)
+  * if you are a subscriber to a Ziff Davis Media magazine, please log in and change your preferences at [http://subhelp.ziffdavis.com](http://subhelp.ziffdavis.com/). (If you are a new subscriber, your information may not be immediately available - please allow 2-4 weeks from placing your subscription order for processing.) 
+  * if you are a registered user of our sites, you can change your preferences via the profile page links shown above. 
+  * if you are a registered user of Ziff Davis eSeminars, please send email with your preference request to [eSeminars@ziffdavis.com](mailto:eSeminars@ziffdavis.com). Please see below for details on eSeminars's privacy policies. 
+  * if you are a registered user of Gamers.com, please follow this link for details: [http://gamers.com/s/privacy_policy/policy?m=1&a=0](http://gamers.com/s/privacy_policy/policy?m=1&a=0)
 
 
 
@@ -122,6 +85,20 @@ Doubleclick also provides email deployment services for some of our email messag
 
 Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. Often, these third-party advertising companies employ cookie and pixel tag technologies to measure the effectiveness of Web and e-mail advertisements. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. For more information about the privacy policies of the third-party advertising providers including information on how to opt out of their tracking methods, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
+**Ziff Davis Media eSeminars**
+
+When you register to view a Ziff Davis Media eSeminar, we request personally identifiable information including: first name, last name, email address, phone number, company address, primary business activity, job function, and company size.
+
+Ziff Davis Media eSeminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast provider, Yahoo! Broadcast. Your data is collected and retained by Yahoo! Broadcast for the sole purposes of delivering eSeminars content appropriately, traffic reporting, and enabling re-registration for future events. [Click here](http://privacy.yahoo.com/privacy/us/bcst/details.html) for details
+
+Ziff Davis Media eSeminars produces and hosts sponsored webcasts for a variety of companies (Sponsors). All data collected during the registration of such events will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis Media eSeminars will have the same access to this data as the Sponsors. For Sponsors' use of your information, please contact the Sponsor directly.
+
+If you have any questions, please contact [eSeminars@ziffdavis.com](mailto:eSeminars@ziffdavis.com).
+
+**Co-Branded Sites and Services**
+
+When you use a co-branded service within our network of sites, or register or otherwise provide information on a co-branded site, you grant us permission to pass the information collected back to that service or site partner. Their use of your information is subject to their applicable privacy policies.
+
 **Changing Your Privacy Options**
 
 _Update Your Registration Information_  
@@ -151,6 +128,4 @@ This Privacy Policy may be modified from time to time. Any modifications to our 
 
 If you have any questions on our Privacy Policy, you can contact us at [site_feedback@ziffdavis.com](mailto:site_feedback@ziffdavis.com).
 
-|    
-  
-
+| 
