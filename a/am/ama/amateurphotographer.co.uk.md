@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurphotographer.co.uk privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004064945id_/http%3A//www.amateurphotographer.com/competitions/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurphotographer.co.uk privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603214315id_/http%3A//www.amateurphotographer.com/competitions/pp.htm) for the most accurate reproduction.*
 
 # Amateur Photographer - Privacy Policy
 
