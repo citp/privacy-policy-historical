@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205200231id_/http%3A//www.archstoneapartments.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309021452id_/http%3A//www.archstoneapartments.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ArchstoneApartments.com
 
