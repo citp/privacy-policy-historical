@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bravenet.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620233702id_/http%3A//www4.bravenet.com/members/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravenet.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206014100id_/http%3A//www.bravenet.com/members/privacy.php) for the most accurate reproduction.*
 
-# Bravenet Web Services - Free Guestbooks Free Web Forums Free Hit Counters Free Greeting Card Hosting
+# Bravenet.com Webmaster Resources Website Tools Free Guestbooks Forums Hit Counters Greeting Cards
 
   
 **Bravenet Web Services** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
@@ -37,8 +37,9 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [support@bravenet.com](mailto:support@bravenet.com)
-  2. You can visit the following URL: [http://www.bravenet.com](http://www.bravenet.com/) and go to the Members Area and delete your account.
+  1. You can unsubscribe from mailing lists here <http://www.bravenet.com/members/unsubscribe.php>
+  2. You can send email to [support@bravenet.com](mailto:support@bravenet.com)
+  3. You can visit the following URL: [http://www.bravenet.com](http://www.bravenet.com/) and go to the Members Area and delete your account.
 
 
 
