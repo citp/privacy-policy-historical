@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alwaysgirls.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608211021id_/http%3A//www.alwaysgirls.com/html/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alwaysgirls.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208060249id_/http%3A//www.alwaysgirls.com/html/policy.htm) for the most accurate reproduction.*
 
 # Always Girls
 
