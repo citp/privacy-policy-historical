@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholic.net privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203022218id_/http%3A//www.catholic.net/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholic.net privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608210554id_/http%3A//www.catholic.net/privacy.phtml) for the most accurate reproduction.*
 
 # Welcome to Catholic.net
 
