@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the nasa.gov privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217202958id_/http%3A//www.nasa.gov/hqpao/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasa.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604000148id_/http%3A//www.nasa.gov/hqpao/privacy.html) for the most accurate reproduction.*
 
-# <!--- Title --->
+# NASA Website Privacy, Disclaimer and Accessibility Statement
+
+* * *
+
+[Sean O'Keefe, Administrator](https://web.archive.org/bios/okeefe.html)
+
+[NASA's Vision for the Future](https://web.archive.org/bios/vision.html)  
+To improve life here  
+To extend life to there  
+To find life beyond
+
+[The President's Management Agenda](https://web.archive.org/newsinfo/agenda.html)   
+
+
+* * *
 
 Search NASA's Web  
 [Search Options](https://web.archive.org/search/index.html)  
@@ -8,7 +22,14 @@ Search NASA's Web
 
 * * *
 
-[Need help?](https://web.archive.org/hqpao/help.html)  
+Two NASA Web sites have been nominated for [Webby Awards:](http://www.webbyawards.com/main/webby_awards/nominees.html)
+
+[ Vote for your choices](http://www.webbyawards.com/peoplesvoice/)  
+
+
+* * *
+
+[Find It on the NASA Web](https://web.archive.org/hqpao/help.html)  
 
 
 * * *
@@ -24,14 +45,33 @@ Search NASA's Web
 * * *
 
  **More About NASA:  
-**| [Doing Business with NASA](http://www.hq.nasa.gov/office/procurement/index.html)  
+**| [ciencia@nasa, en espanol](http://ciencia.nasa.gov/)  
 ---  
+[Doing Business with NASA](http://www.hq.nasa.gov/office/procurement/index.html)  
 [Educational Resources](http://education.nasa.gov/)  
 [Freedom of Information Act](http://www.hq.nasa.gov/office/pao/FOIA/)  
 [History](http://history.nasa.gov/)  
 [Jobs and Internships](http://www.nasajobs.nasa.gov/)  
 [NASA Technology Portal](http://nasatechnology.nasa.gov/)  
-[News and Information](https://web.archive.org/newsinfo/index.html)  
+[News & Information](https://web.archive.org/newsinfo/index.html)  
+[](https://web.archive.org/budget/budget2003_index.html)
+
+[](https://web.archive.org/budget/budget2003_index.html)
+  * [Budget](https://web.archive.org/budget/budget2003_index.html)
+
+  
+[](https://web.archive.org/newsinfo/archive.html)
+
+[](https://web.archive.org/newsinfo/archive.html)
+  * [Press Releases](https://web.archive.org/newsinfo/archive.html)
+
+  
+[](https://web.archive.org/web/20020604000148id_/http%3A//www.nasa.gov/hqpao/newsinfo/publicreports.html)
+
+[](https://web.archive.org/web/20020604000148id_/http%3A//www.nasa.gov/hqpao/newsinfo/publicreports.html)
+  * [Reports](https://web.archive.org/web/20020604000148id_/http%3A//www.nasa.gov/hqpao/newsinfo/publicreports.html)
+
+  
 [Organization and Subject Index](https://web.archive.org/nasaorgs/index.html)  
 [Project Home Pages](https://web.archive.org/projects.html)  
 [Research Opportunities](https://web.archive.org/research.html)  
@@ -41,7 +81,6 @@ Search NASA's Web
 [Speakers Bureau](https://web.archive.org/speakers/index.html)  
 [Spinoffs and Commercial Technology](http://nctn.hq.nasa.gov/)  
 [Visiting NASA](https://web.archive.org/visitors.html)  
-[Dreamtime](http://www.dreamtime.com/home.html)  
 |  This policy establishes how NASA will use information we gather about you from your visit to our website. The privacy of our customers is of utmost importance to NASA. 
 
 If you visit a NASA site... 
@@ -75,7 +114,7 @@ _Use your browser's "BACK" button to return to previous page._
 
 * * *
 
-[[Frequently Asked Questions](https://web.archive.org/qanda/index.html)] [[Hot Topics](https://web.archive.org/hotopics/index.html)] [[Multimedia Gallery](https://web.archive.org/gallery/index.html)] [[NASA Television](https://web.archive.org/ntv/)] [[Text Only Version](https://web.archive.org/textonly.html)] [[NASA Privacy Statement, Disclaimer, and Accessibility Certification](http://www.nasa.gov/hqpao/privacy.html)] [[Site Maps](https://web.archive.org/siteindex.html)]
+[[Hot Topics](https://web.archive.org/hotopics/index.html)] [[Multimedia Gallery](https://web.archive.org/gallery/index.html)] [[NASA Television](https://web.archive.org/ntv/)] [[Text Only Version](https://web.archive.org/textonly.html)] [[NASA Privacy Statement, Disclaimer, and Accessibility Certification](http://www.nasa.gov/hqpao/privacy.html)] [[Site Maps](https://web.archive.org/siteindex.html)]
 
 * * *
 
@@ -85,7 +124,7 @@ _Use your browser's "BACK" button to return to previous page._
 **Responsible NASA Official:** Brian Dunbar  
 **Site Maintainer:** K F Chow  
 [Comments and Questions ](https://web.archive.org/hqpao/comments.html)  
-**Last Updated:** November 30, 2001   
+**Last Updated:** June 3, 2002   
   
   
 ---|---
