@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcsports.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622201214id_/http%3A//privacy.msn.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcsports.com privacy policy that was archived on 2003-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031231235722id_/http%3A//privacy.msn.com) for the most accurate reproduction.*
 
 # MSN.com Privacy Statement
 
