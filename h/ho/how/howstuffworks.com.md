@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207101300id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603135624id_/http%3A//howstuffworks.com/privacy.htm) for the most accurate reproduction.*
 
-# Howstuffworks.com's "Privacy Statement for How Stuff Works"
+# Howstuffworks "Privacy Statement for How Stuff Works"
 
   
 
@@ -33,7 +33,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can visit the following URL: [http://www.howstuffworks.com/remove.htm](http://howstuffworks.com/remove.htm)
+  1. You can visit the following URL: <http://www.howstuffworks.com/remove.htm>
   2. You can send mail to the following postal address:  5625 Dillard Drive, Suite 217, Cary, NC 27511 
 
 
@@ -42,7 +42,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. visit [http://www.howstuffworks.com/register.htm](http://howstuffworks.com/register.htm)
+  1. visit <http://www.howstuffworks.com/register.htm>
   2. send mail to the following postal address:  5625 Dillard Drive, Suite 217, Cary, NC 27511 
 
 
