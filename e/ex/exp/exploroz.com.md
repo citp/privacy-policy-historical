@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215090059id_/http%3A//www.exploroz.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2003-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030212211836id_/http%3A//www.exploroz.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - ExplorOz
 
@@ -8,7 +8,7 @@
 
 ExplorOz ("ExplorOz") is a registered business and product of I.T. Beyond Pty Ltd. ("I.T. Beyond") As the operator of Australia's leading 4WD resource, ExplorOz delivers content drawn from I.T. Beyond's research and related resources. 
 
-This statement sets out the ExplorOz policies relating to the collection and use of your personal information. It applies to your conduct on the ExplorOz web site (the "Site"). These policies are in addition to the ExplorOz general [ Terms of Use](https://web.archive.org/web/20021215090059id_/http%3A//www.exploroz.com/TermsofUse.asp) governing the Site and should be read in conjunction with such Terms of Use.
+This statement sets out the ExplorOz policies relating to the collection and use of your personal information. It applies to your conduct on the ExplorOz web site (the "Site"). These policies are in addition to the ExplorOz general [ Terms of Use](https://web.archive.org/web/20030212211836id_/http%3A//www.exploroz.com/TermsofUse.asp) governing the Site and should be read in conjunction with such Terms of Use.
 
 Please note that separate privacy policies apply to the use of sites that are available through the Site but are not operated by ExplorOz directly ("third party sites"). Before disclosing your personal information to any third party site you should read the relevant policy or terms of use. 
 
@@ -47,7 +47,7 @@ Before you can interact with the site you must be registered as a Visitor. The p
 
 The Membership system provides enhanced viewing facilities and provides interfaces that identify Site changes since your last visit. Also ExplorOz through it's advertising customers ("Advertisers") has a membership reward system. The rewards are provided by the Advertisers and ExplorOz will accept no responsibility for any misrepresentation whatsoever made by the Advertisers on the Site.
 
-You can learn more about enhancing your online experience through Membership by clicking [here](https://web.archive.org/web/20021215090059id_/http%3A//www.exploroz.com/Rewards/Default.asp).  
+You can learn more about enhancing your online experience through Membership by clicking [here](https://web.archive.org/web/20030212211836id_/http%3A//www.exploroz.com/Rewards/Default.asp).  
   
 * * *
 
