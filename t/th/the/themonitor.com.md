@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themonitor.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205152518id_/http%3A//www.themonitor.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themonitor.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417153838id_/http%3A//www.themonitor.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # The Monitor, McAllen, Texas - The Largest and Leading Newspaper in the Rio Grande Valley
 
