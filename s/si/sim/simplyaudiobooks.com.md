@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2003-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031016185242id_/http%3A//www.simplyaudiobooks.com/processInterfaceAction.php%3FpId%3D116%26iId%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611084443id_/http%3A//www.simplyaudiobooks.com/processInterfaceAction.php%3FpId%3D116) for the most accurate reproduction.*
 
 # Simply Audiobooks - North America's Audio Book Rental Company
 
