@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marieclaire.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603183710id_/http%3A//www.ivillage.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marieclaire.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008040518id_/http%3A//www.ivillage.com/help/privacy.html) for the most accurate reproduction.*
 
 # iVillage: The Women's Network -- Privacy Policy
 
