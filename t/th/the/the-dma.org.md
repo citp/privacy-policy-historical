@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-dma.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204220202id_/http%3A//www.the-dma.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-dma.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604131911id_/http%3A//www.the-dma.org/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,4 +72,4 @@ The Federal Trade Commission at <https://rn.ftc.gov/dod/wsolcq$.startup?Z_ORG_CO
 
 back to top
 
-  [© Direct Marketing Association](https://web.archive.org/copyright.shtml) | [Privacy Statement](https://web.archive.org/privacy.shtml) | [Disclaimer](https://web.archive.org/disclaimer.shtml)
+  [© Direct Marketing Association](https://web.archive.org/copyright.shtml) | [Privacy Statement](https://web.archive.org/privacy.shtml) | [Disclaimer](https://web.archive.org/disclaimer.shtml) | [Contact Us](https://web.archive.org/aboutdma/contactthedma.shtml)
