@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192516id_/http%3A//www.alibris.com/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208062033id_/http%3A//www.alibris.com/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.*
 
 # Alibris: Privacy Policy
 
