@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencedaily.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203050200id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencedaily.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604030527id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
 
 # ScienceDaily Magazine -- Our Privacy Policy
 
