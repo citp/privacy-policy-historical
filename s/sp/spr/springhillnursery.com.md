@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the springhillnursery.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811075313id_/http%3A//springhillnursery.com/article.asp%3Fai%3D123) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springhillnursery.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204184838id_/http%3A//springhillnursery.com/article.asp%3Fai%3D123) for the most accurate reproduction.*
 
-# Spring Hill Nurseries - Spring Hill Nurseries Privacy Policy
+# Spring Hill Nurseries - <b>Spring Hill Nurseries Privacy Policy</b>
 
-Spring Hill Nurseries Privacy Policy
+**Spring Hill Nurseries Privacy Policy**
 
 This is the web site of Spring Hill Nurseries
 
-Our postal address is  
+Our postal address is:  
 110 West Elm St.  
 Tipp City, OH 45371
 
-email address: service@springhillnursery.com
+Email Address: service@springhillnursery.com
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
 
@@ -34,10 +34,6 @@ If you supply us with your postal address on-line you may receive periodic maili
 
 Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
-
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward.
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us e-mail at the above address, calling us at the above telephone number, writing us at the above address.
@@ -56,7 +52,7 @@ If you feel that this site is not following its stated information policy, you m
 
 * * *
 
-Have another question? Return to the [Customer Service Help](https://web.archive.org/web/20030811075313id_/http%3A//springhillnursery.com/article.asp?ai=204) page or send an e-mail directly to Customer Service.
+Have another question? Return to the [Customer Service Help](https://web.archive.org/web/20041204184838id_/http%3A//springhillnursery.com/article.asp?ai=204) page or send an e-mail directly to Customer Service.
 
   
 
