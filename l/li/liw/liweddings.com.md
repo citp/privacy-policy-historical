@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607145113id_/http%3A//liweddings.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206193224id_/http%3A//www.liweddings.com/privacy.asp) for the most accurate reproduction.*
 
 # LONG ISLAND WEDDINGS ™ - Nassau, Suffolk, Queens, Manhattan, NYC, Brooklyn, Westchester
 
