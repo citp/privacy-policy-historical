@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604064056id_/http%3A//www.support.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208090107id_/http%3A//www.support.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Support Automation, Help desk, web call center and diagnostics software
 
