@@ -1,254 +1,909 @@
-<!--The following is the downloaded HTML source of the realestate.com privacy policy that was archived on 1999-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19991127110638id_/http%3A//realestate.com/about_realestate/about_personal.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realestate.com privacy policy that was archived on 2003-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031223055453id_/http%3A//realestate.com/%28mn4eervajuc2dk4544lzmw55%29/Default.aspx%3Fchannel%3DPrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<html><head>
+		<title>
+			Real Estate - mls listings / homes for sale / apartments
+		</title>
+		<meta name="description" content="Real Estate listings on RealEstate.com - search for mls listings, new homes and apartments.">
+<meta name="keywords" content="real estate listings mls homes buyer agent realtor apartments moving">
 
-    <title>RealEstate.com </title>
-
-    <meta name="DESCRIPTION" content="RealEstate.com:  A complete real estate resource.  Information on homes, commercial property, financing, agents, and closing costs.  Our Mortgage Auction guarantees you the lowest rate available.">
-    <meta name="AUTHOR" content="RealEstate.com Information Technology Division">
-    <meta name="KEYWORDS" content="Mortgage Auction, Lending,Lend, Equal Housing Lender,Interest rate, loan application,quote,Home Loans,Equity,Real Estate Broker,Bank,Banking, mortgage rates,House for sale,Builder,Construction Loan,finance,commercial real estate agents,retail property listings,financing package,second mortgages, financial services,debt consolidation,commercial properties,refinancing,buying and selling houses,leasing office space,vacation property,relocation services, amortization calculator,Realtor,refiance,equity,shopping center property, affordable housing,office buildings,retail space,credit application,realty Appraiser,REMAX,Century 21,counselor, appraisal reports,mort,mtg,contractors, remodeling,remodel,lakefront,FSBO, listing,relocate,relocating,transfer, transferring land,real,contract,trust deed,title insurance,escrow closingcosts, close,origination fee,investment,wholesale, commercial rentals,farms,America, USA,Homestead,homeowner,Knutsen,Bell,FNMA,Fannie Mae,FHMC,discount, First,American,National">
-    <meta name="SUBJECT" content="RealEstate.com">
-    <meta name="MS.CATEGORY" content="RealEstate.com">
-    <meta name="MS.LOCALE" content="EN-US">
-    <meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
-    <link rel="stylesheet" href="/stylens.css" type="text/css">
- 
 		
-<script language="JavaScript">
+		<link id="lnkStyle" href="Styles/Real_Estate.css" type="text/css" rel="stylesheet">
+		
+		<script language="Javascript">
 <!--
-function printDate() {
-   var now = new Date();
-   var monthNames = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
-   var month = now.getMonth();
-   var monthName = monthNames[month];
-   var year = now.getYear();
-   if ( year < 1000 ) year += 1900;
-   var datestring = monthName + ' ' + now.getDate() + ', ' + year;       
-   document.write('<P CLASS="datetext"><NOBR>' + datestring + '&nbsp;&nbsp;</NOBR></P>');
+
+
+
+
+function showphoto(obj, maxwidth, maxheight)
+{
+var ratio = obj.width / obj.height;
+var i;
+if (maxwidth == 0)
+	maxwidth=obj.width;
+if (maxheight == 0)
+	maxheight=obj.height;
+
+if (obj.width > maxwidth) {
+		obj.width=maxwidth;
+		obj.height=obj.width / ratio;
 }
+if (obj.height> maxheight) {
+		obj.height=maxheight;
+		obj.width=obj.height * ratio;
+
+}
+
+obj.style.visibility='visible';
+}
+function hidephoto(obj)
+{
+obj.width=1;
+obj.height=1;
+obj.style.visibility='hidden';
+}
+
+function PhotoNotAvail(obj)
+{
+	obj.src = "data/Real_Estate/NotAvail.jpg";
+	obj.width="100";
+}
+function resizeIFrame(){
+return;
+			var oBody	=	mapFrame.document.body;
+			var oFrame	=	document.all("mapFrame");
+			var x= oBody.scrollHeight + (oBody.offsetHeight - oBody.clientHeight) + 100;
+			window.scroll(0,0);
+			oFrame.style.height =x;
+	}
+
+function doOnLoad()
+{
+if (sAlert != "")
+	alert(sAlert);
+}
+
+function ProcessEnterKey(btnID) 
+{    
+	if (event.keyCode == 13) 
+	{        
+		event.cancelBubble = true;
+		event.returnValue = false;
+		document.all(btnID).click();
+    }
+}
+
+function isValid(string,allowed) {
+	for (var i=0; i< string.length; i++) {
+		if (allowed.indexOf(string.charAt(i)) == -1)
+	        return false;
+	}
+	return true;
+}
+
+function formatExt( e, obj ) {
+	if(event.keyCode == 9){
+		return;
+	}
+	
+	var validchars = '0123456789'; // define valid characters
+	p = obj.value;
+	for (var i = p.length; i >= 0; i--) 
+	{
+		if (validchars.indexOf(p.charAt(i)) == -1)
+		{
+			p = p.replace(p.charAt(i),'');
+		}
+	}
+	
+	if ( ! isValid( p, validchars ) ) {
+		p = p.substring(0,p.length - 1 );
+	}
+	
+	obj.value = p;
+}
+
+function formatPhone( e, obj ) {
+	if (e.keyCode == 9){
+		return;
+	}
+	
+	var validchars = '0123456789'; // define valid characters
+	p = obj.value;
+	
+	for (var i = p.length; i >= 0; i--) 
+	{
+		if (validchars.indexOf(p.charAt(i)) == -1)
+		{
+			p = p.replace(p.charAt(i),'');
+		}
+	}
+	
+	if ( p.length > 1 && p.charAt(0) != "(" )
+		p = "(" + p;
+	if ( p.length > 4 && p.charAt(4) != ")" )
+		p = p.substring(0,4) + ") " + p.substring(4);
+	if ( p.length > 5 && p.charAt(5) != " " )
+		p = p.substring(0,5) + " " + p.substring(5);
+	if ( p.length > 9 && p.charAt(9) != "-" )
+		p = p.substring(0,9) + "-" + p.substring(9);
+
+	for (var xPos=0; xPos < p.length; xPos++){
+		if ((p.charAt(xPos) == "-") && (xPos != 9)){
+			p = p.substring(0,p.length - 1 );					
+		}
+	}
+	
+	if (p.length > 14){
+		p = p.substring(0,14)
+	}
+	obj.value = p;
+}
+
 //-->
-</script>
-	
-	
-</head>
+		</script>
+	</head>
+	<body id="thebody">
+		<form name="PortalMainForm" method="post" action="Default.aspx?channel=PrivacyPolicy" id="PortalMainForm">
+<input type="hidden" name="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" value="dDwxMzE3MTc5NjA0O3Q8O2w8aTwwPjs+O2w8dDw7bDxpPDE+Oz47bDx0PDtsPGk8Mz47PjtsPHQ8O2w8aTwwPjs+O2w8dDw7bDxpPDE+O2k8Mz47aTw1PjtpPDk+Oz47bDx0PHA8bDxWaXNpYmxlOz47bDxvPHQ+Oz4+O2w8aTwyPjs+O2w8dDxwPHA8bDxUYWJDaGFubmVsOz47bDx2OmhvbWU7Pj47PjtsPGk8Mz47PjtsPHQ8cDxwPGw8SW1hZ2VVcmw7PjtsPH4vRGF0YS9SZWFsX0VzdGF0ZS90YWJiYXIuZ2lmOz4+Oz47Oz47Pj47Pj47dDxwPGw8VmlzaWJsZTs+O2w8bzx0Pjs+Pjs7Pjt0PHA8bDxWaXNpYmxlOz47bDxvPHQ+Oz4+Ozs+O3Q8cDxsPFZpc2libGU7PjtsPG88dD47Pj47bDxpPDE+Oz47bDx0PDtsPGk8Mj47PjtsPHQ8cDxsPGlubmVyaHRtbDs+O2w8DQoJCQkmIzAxNjlcOyAxOTk4IC0gMjAwMyBSZWFsIEVzdGF0ZS5jb20gYSBzZXJ2aWNlIG9mIExlbmRpbmdUcmVlLCBJbmMuIA0KCQkJQWxsIFJpZ2h0cyBSZXNlcnZlZC5cPGJyXD4NCgkJCVRoaXMgc2l0ZSBpcyBkaXJlY3RlZCBhdCwgYW5kIG1hZGUgYXZhaWxhYmxlIHRvLCBwZXJzb25zIGluIHRoZSBjb250aW5lbnRhbCANCgkJCVUuUy4sIEFsYXNrYSBhbmQgSGF3YWlpIG9ubHkuDQoJCTs+Pjs7Pjs+Pjs+Pjs+Pjs+Pjs+Pjs+Pjs+Pjs+">
 
-
-
-<body bgcolor="#FFFFFF" link="#CC0000" vlink="#3366CC" text="Black">
-
-
-<center>
-
-
-<table width="600" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr valign="top">
-    <td valign="bottom" width="300" height="60"><img border="0" src="/images/re_logo.jpg" width="300" height="49"><br>
-    <img src="/images/cleardot.gif" width="1" height="5"><br></td>
-    <td valign="top" width="9" height="60"><img border="0" src="/images/cleardot.gif" width="9" height="1"></td>
-    <td align="right" valign="bottom" width="142" height="60">
-<script language="JavaScript">
+<script language="javascript">
 <!--
-printDate();
-//-->
-</script><p class="datetext"><nobr>January 30, 2020&nbsp;&nbsp;</nobr></p></td>
+	function __doPostBack(eventTarget, eventArgument) {
+		var theform = document.forms["PortalMainForm"];
+		theform.__EVENTTARGET.value = eventTarget.replace(/\$/g, ":");
+		theform.__EVENTARGUMENT.value = eventArgument;
+		theform.submit();
+	}
+// -->
+</script>
 
-    <td width="149" height="60">
- <table width="149" height="60" bgcolor="#000000" cellpadding="0" cellspacing="0" border="0">
-      <tbody><tr>
-        <td width="149" height="1" colspan="5"><img border="0" src="images/cleardot.gif" width="1" height="1"></td>
-      </tr>
-      <tr>
-        <td rowspan="3" width="1" height="59"><img border="0" src="images/cleardot.gif" width="1" height="60"></td>
-        <td width="1" height="18" bgcolor="#FF0000"><img border="0" src="images/cleardot.gif" width="1" height="18"></td>
-        <td height="18" valign="middle" bgcolor="#FF0000" align="center"><font class="ipshadow"><font color="white">Get Home Financing</font></font></td>
-        <td width="1" height="18" bgcolor="#FF0000"><img border="0" src="images/cleardot.gif" width="1" height="18"></td>
-        <td rowspan="3" width="1" height="59"><img border="0" src="images/cleardot.gif" width="1" height="60"></td>
-      </tr>
-      <tr>
-        <td width="1" height="38" bgcolor="#FFFFCC">&nbsp;</td>
-        <td height="38" valign="bottom" bgcolor="#FFFFCC" align="center"><p class="promotext">Our <a class="promolink" href="/mortgage_auction/home.asp" target="_top">Mortgage
-          Auction</a>  is the easiest way to get the lowest rate -- guaranteed!</p></td>
-        <td width="1" height="38" bgcolor="#FFFFCC">&nbsp;</td>
-      </tr><tr>
-        <td colspan="3" height="3" bgcolor="#FFFFCC"><img border="0" src="images/cleardot.gif" width="1" height="3"></td>
-      </tr>
-    </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-
-<table width="600" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr><td width="451" align="left" valign="top">
-    
-    <table border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td bgcolor="#9999FF" width="54" height="1"><img border="0" src="/images/cleardot.gif" width="54" height="1"></td>
-        <td rowspan="3" width="9" height="17"><img border="0" src="/images/headersep.gif" width="9" height="17"></td>
-        <td bgcolor="#9999FF" width="110" height="1"><img border="0" src="/images/cleardot.gif" width="110" height="1"></td>
-        <td rowspan="3" width="9" height="17"><img border="0" src="/images/headersep.gif" width="9" height="17"></td>
-        <td bgcolor="#9999FF" width="122" height="1"><img border="0" src="/images/cleardot.gif" width="122" height="1"></td>
-        <td rowspan="3" width="9" height="17"><img border="0" src="/images/headersep.gif" width="9" height="17"></td>
-        <td bgcolor="#9999FF" width="56" height="1"><img border="0" src="/images/cleardot.gif" width="56" height="1"></td>
-        <td rowspan="3" width="9" height="17"><img border="0" src="/images/headersep.gif" width="9" height="17"></td>
-        <td colspan="2" bgcolor="#9999FF" width="73" height="1"><img border="0" src="/images/cleardot.gif" width="73" height="1"></td>
-      </tr>
-      <tr>
-        <td align="center" valign="middle" bgcolor="#3366CC" width="54" height="15"><a class="headernav" href="/default.asp" target="_parent">Home</a></td>
-        <td align="center" valign="middle" bgcolor="#3366CC" width="110" height="15"><a class="headernav" href="/my_planner/home.asp" target="_parent">MyHomePlanner</a></td>
-        <td align="center" valign="middle" bgcolor="#3366CC" width="122" height="15"><a class="headernav" href="/about_realestate/home.asp" target="_parent">Company Information</a></td>
-        <td align="center" valign="middle" bgcolor="#3366CC" width="56" height="15"><a class="headernav" href="/about_realestate/about_personal.asp" target="_parent">Privacy</a></td>
-        <td align="center" valign="middle" bgcolor="#3366CC" width="66" height="15"><a class="headernav" href="/about_realestate/about_contact.asp" target="_parent">Contact Us</a></td>
-        <td align="center" valign="middle" bgcolor="#3366CC" width="7" height="15"><a class="headernav" href="#">&nbsp;</a></td>
-      </tr>
-      <tr>
-        <td bgcolor="#0000CC" width="54" height="1"><img border="0" src="/images/cleardot.gif" width="54" height="1"></td>
-        <td bgcolor="#0000CC" width="110" height="1"><img border="0" src="/images/cleardot.gif" width="110" height="1"></td>
-        <td bgcolor="#0000CC" width="122" height="1"><img border="0" src="/images/cleardot.gif" width="122" height="1"></td>
-        <td bgcolor="#0000CC" width="56" height="1"><img border="0" src="/images/cleardot.gif" width="56" height="1"></td>
-        <td colspan="2" bgcolor="#0000CC" width="73" height="1"><img border="0" src="/images/cleardot.gif" width="73" height="1"></td>
-      </tr>
-    </tbody></table>
-
-    </td><td bgcolor="#202020" width="7" height="1"><img border="0" src="/images/cleardot.gif" width="7" height="1"></td>
-    <td bgcolor="#202020" width="142"><p class="searchtext">Site Search:</p></td>
-	
-  </tr>
-  
- </tbody></table>
- 
-
-
-<table width="600" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td width="451" bgcolor="#FFFFFF">
-    <table cellpadding="0" cellspacing="0" border="0">
-      <tbody><tr><td align="left" valign="top" width="451" height="112"><img border="0" src="../images/about_personal_head.gif" width="451" height="112"></td></tr>
-      <tr><td align="left" valign="top" width="451">
-        
-<p class="pagehead">Security And Privacy</p>
-
-<p class="bodyhead">What Are RealEstate.com's Privacy And Security Measures?</p>
-<p class="bodytext">RealEstate.com uses the latest in Internet Security to ensure the confidentiality of all user information. This information is encrypted for privacy using SSL (Secure Sockets Layer) Technology. SSL technology is designed to ensure that no one will see your personal information -except you and RealEstate.com. When your data is transmitted, SSL encrypts it - translating the data into unrecognizable characters, which only the proper recipient will be able to decode. SSL checks the identity of both the computer sending and the computer receiving your personal information, keeping unauthorized people and organizations from intercepting data and from sending false information. RealEstate.com's SSL Technology is certified by Verisign - the Web's leading expert on online authentication services. 
-
-</p><p class="bodyhead">RealEstate.com Mortgage Auction™ Privacy Statement</p>
-<p class="bodytext">During the Mortgage Auction process, financial information (including the applicant's credit report) is provided to registered lenders in order to facilitate the bidding process. This information EXCLUDES the consumer's name, social security number and personal contact information. At the close of the auction, the consumer's personal information is released only to the winning lender for loan initiation purposes. The consumer is in no way obligated to utilize the service(s) of the [winning] lender. In the event that a consumer does not receive a winning bid, RealEstate.com arranges for an industry professional to provide counsel and advice regarding their financing needs. 
-
-</p><p class="bodyhead">RealEstate.com Transaction Advisor™ Privacy Statement</p>
-<p class="bodytext">In order for RealEstate.com's Transaction Advisor™ to most suitably find a real estate agent or home that best fits the consumer's wants and needs, it is necessary for consumers to provide personal information (such as name, e-mail address, phone #, and the desired price range and location of home). To protect the privacy of consumers, this information is provided only to the one agent selected to facilitate the real estate transaction, and is done only with the consent of consumers prior to its release. 
-
-</p><p class="bodyhead">RealEstate.com Property Analysis™ Privacy Statement</p>
-<p class="bodytext">RealEstate.com's Property Analysis™ provides comprehensive reports to consumers free of charge. Property Analysis is able to provide the report(s) for free because a real estate professional located in a corresponding demographic area sponsors it. In no way is the consumer obligated to utilize the services of the sponsoring real estate professional. 
-
-</p><p class="bodyhead">RealEstate.com Appraisal and Closing Services™ Privacy Statement</p>
-<p class="bodytext">RealEstate.com Appraisal and Closing Services™; provides online closing services such as home appraisal, title, escrow and so forth. It is therefore necessary that consumers grant permission to their lender or originator to retrieve such information and thus facilitate this process. 
-
-</p><p class="bodyhead">RealEstate.com Mortgage Document Verification™ Privacy Statement</p>
-<p class="bodytext">In order to close consumer loans, it is necessary for lenders and originators to certify documentation information such as consumer wages, taxes, loans and credit report data. RealEstate.com Mortgage Document Verification™ provides services for lenders or originators in order to streamline this process. It is therefore necessary that consumers grant permission to their lender or originator to retrieve such information and thus facilitate the closing process.  
-      </p><br></td>
-      </tr>
-    </tbody></table>
-        
-  </td><td align="left" valign="top" width="149" height="100%" bgcolor="#FFFFCC">
-    
-    <table border="0" cellpadding="0" cellspacing="0">
-      
-      <tbody><tr>
-        <form name="frmSearch" action="#" method="post"></form>
-        <td bgcolor="#202020" width="149">&nbsp;&nbsp;<input name="txtSearchPhrase" type="text" size="10" maxlength="36"><img border="0" src="../images/cleardot.gif" width="6" height="1"><input type="submit" value="Go"></td>
-        
-      </tr>
-      
-      <tr><td bgcolor="#202020" width="149" height="4"><img border="0" src="../images/cleardot.gif" width="149" height="4"></td></tr>      
-
-    </tbody></table>
-    
-    <table width="149" border="0" cellpadding="2" cellspacing="0" bgcolor="#FF0000">
-      <tbody><tr><td colspan="2" width="149"><img src="../images/cleardot.gif" border="0" width="145" height="1"></td></tr>
-      <tr>
-        <td width="8" height="10" valign="top"><img border="0" src="../images/ddclosed.gif" width="8" height="10"></td>
-        <td valign="top"><a class="rightnav" href="./about_convince.asp">Convince Me</a></td>      
-      </tr><tr>
-        <td width="8" height="10" valign="top"><img border="0" src="../images/ddclosed.gif" width="8" height="10"></td>
-        <td valign="top"><a class="rightnav" href="./about_executive.asp">Executive Bios</a></td>
-      </tr><tr>
-        <td width="8" height="10" valign="top"><img border="0" src="../images/ddclosed.gif" width="8" height="10"></td>
-        <td valign="top"><a class="rightnav" href="./about_inthenews.asp">Press Room</a></td>
-      </tr><tr>
-        <td width="8" height="10" valign="top"><img border="0" src="../images/ddclosed.gif" width="8" height="10"></td>
-        <td valign="top"><a class="rightnav" href="./about_career.asp">Career Opportunities</a></td>
-      </tr><tr>
-        <td width="8" height="10" valign="top"><img border="0" src="../images/ddclosed.gif" width="8" height="10"></td>
-        <td valign="top"><a class="rightnav" href="about_faq.asp">FAQs</a></td>
-      </tr><tr>
-        <td width="8" height="10" valign="top"><img border="0" src="../images/ddclosed.gif" width="8" height="10"></td>
-        <td valign="top"><a class="rightnav" href="./about_personal.asp">Personal Privacy</a></td>
-      </tr><tr>
-        <td width="8" height="10" valign="top"><img border="0" src="../images/ddclosed.gif" width="8" height="10"></td>
-        <td valign="top"><a class="rightnav" href="./about_contact.asp">Contact US</a></td>
-      </tr><tr>
-        <td width="8" height="10" valign="top"><img border="0" src="../images/ddclosed.gif" width="8" height="10"></td>
-        <td valign="top"><a class="rightnav" href="/buying/home.asp">Buying</a></td>
-      </tr><tr>
-        <td width="8" height="10" valign="top"><img border="0" src="../images/ddclosed.gif" width="8" height="10"></td>
-        <td valign="top"><a class="rightnav" href="/selling/home.asp">Selling</a></td>
-      </tr><tr>
-        <td width="8" height="10" valign="top"><img border="0" src="../images/ddclosed.gif" width="8" height="10"></td>
-        <td valign="top"><a class="rightnav" href="/financing/home.asp">Financing</a></td>
-      </tr>            
-    </tbody></table>
-   
-    
-    <table width="149" height="100%" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td width="149" height="12" bgcolor="#FF0000"><img border="0" src="../images/cleardot.gif" width="149" height="12"></td>
-      </tr><tr>
-        <td width="149" height="1" bgcolor="#202020"><img border="0" src="../images/cleardot.gif" width="149" height="1"></td>
-      </tr><tr>
-        <td width="149" height="12" bgcolor="#FF0000"><img border="0" src="../images/cleardot.gif" width="149" height="12"></td>
-      </tr><tr>
-        <td width="149" height="48" bgcolor="#FF0000"><a href="../evaluating_property/home.asp"><img border="0" src="../images/analyzeproperty_ad.gif" width="149" height="48"></a></td>
-      </tr><tr>
-        <td width="149" height="6" bgcolor="#202020"><img border="0" src="../images/cleardot.gif" width="149" height="6"></td>
-      </tr><tr>
-        <td width="149" height="15"><img border="0" src="../images/cleardot.gif" width="149" height="15"></td>
-      </tr><tr>
-        <td width="149" align="center" valign="top">
-
-            <!-- Info table w/ red caret //-->    <table width="149" border="0" cellpadding="0" cellspacing="0">  <tbody><tr><td colspan="4" height="1" bgcolor="#202020"><img border="0" src="../images/cleardot.gif" width="1" height="1"></td></tr>  <tr>    <td width="1" bgcolor="#202020"><img border="0" src="../images/cleardot.gif" width="1" height="1"></td>    <td width="12" align="left" valign="top" bgcolor="#FFFFCC"><p class="redcaret">&gt;</p></td>    <td align="left" valign="top" bgcolor="#FFFFCC"><p class="promohead">Calculators</p></td>    <td width="1" bgcolor="#202020"><img border="0" src="../images/cleardot.gif" width="1" height="1"></td>  </tr>  <tr><td colspan="4" height="1" bgcolor="#202020"><img border="0" src="../images/cleardot.gif" width="1" height="1"></td></tr>  <tr>    <td width="1" bgcolor="#202020"><img border="0" src="../images/cleardot.gif" width="1" height="1"></td>    <td colspan="2" align="left" valign="top" bgcolor="#FFFFFF"><img src="../images/cleardot.gif" border="0" width="147" height="1"></td>    <td width="1" bgcolor="#202020"><img border="0" src="../images/cleardot.gif" width="1" height="1"></td>  </tr>  <tr>    <td width="1" bgcolor="#202020"><img border="0" src="../images/cleardot.gif" width="1" height="1"></td>    <td colspan="2" align="left" valign="top" bgcolor="#FFFFFF"><p class="promotext">Number Crunching Made Easy With Our Complete Set Of <a class="promolink" href="../calculators/home.asp">Calculators.</a></p></td>    <td width="1" bgcolor="#202020"><img border="0" src="../images/cleardot.gif" width="1" height="1"></td>  </tr>  <tr><td colspan="4" height="1" bgcolor="#202020"><img border="0" src="../images/cleardot.gif" width="1" height="1"></td></tr></tbody></table></td>
-    
-      </tr><tr>
-        <td width="149" height="100%">&nbsp;</td>
-      </tr>
-    </tbody></table></td>    
-  </tr>
-</tbody></table>
-
-
-
-
-
-	<!-- Default of RealEstate.com -->
-	<table width="600" cellpadding="0" cellspacing="0" border="0">
+			<input name="theChannel" id="theChannel" type="hidden" value="privacypolicy">
+			<table bordercolor="green" cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tbody><tr>
+					<td id="MainChannel" width="100%" colspan="1">
+<table id="tblTemplate" cellspacing="0" cellpadding="0" width="780" align="center" border="0" bordercolor="purple">
+	<tbody><tr valign="top">
+		<td id="_ctl0_BannerPane" align="center" width="100%" type="PortalPane">
+		
+<table id="Table1" cellspacing="0" cellpadding="0" width="100%" bordercolor="blue" border="0">
 	<tbody><tr>
-	<td>
-	<img src="/images/line.gif" width="600" height="1"><br>
-	<font face="arial, helvetica" size="1">
-	©1999 <a href="/">RealEstate.com</a> All rights reserved.<br>
-	<br>
-	Atlanta Financial Center • 3333 Peachtree Rd. NE, Suite 150 • Atlanta, GA  30326 <br>
-	RealEstate.com is not owned by or affiliated with any mortgage 
-	lending or real estate brokerage organization.</font><p><font face="arial, helvetica" size="1">
-	</font>
-	
-	</p></td>
+		
+		<td id="_ctl0_9db9fde41a464c70bfa58c54725b74ac_tdStandard">
+			<table cellspacing="0" cellpadding="0" border="0" bordercolor="orange">
+				<tbody><tr>
+					<td align="left" width="250">&nbsp; <a href="/(xmmgowbovtlytsmmfe1rnr45)/Default.aspx?channel=v:home"><img border="0" src="Data/Real_Estate/Real_Estate_Listings.gif"></a>
+					</td>
+					<td width="5"><img src="../images/1x1.gif"></td>
+					<td align="middle">
+						<table cellspacing="0" cellpadding="0" border="0" bordercolor="orange">
+							<tbody><tr>
+							</tr>
+							<tr id="_ctl0_9db9fde41a464c70bfa58c54725b74ac_TrHeader">
+	<td id="_ctl0_9db9fde41a464c70bfa58c54725b74ac_TdHeader" class="clsLoginBannerHeader" align="right"><h6 align="left">Real Estate.com - Real estate listings, new homes for sale, apartments and moving resources.</h6></td>
+</tr>
+
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+
+		<td width="25"><img src="../images/1x1.gif"></td>
+		<td align="right" width="170">
+			<table id="Table4" cellspacing="0" cellpadding="0" border="0" bordercolor="green">
+				<tbody><tr>
+					<td align="right">
+						<table id="Table5" cellspacing="0" cellpadding="0" border="0" bordercolor="red">
+							<tbody><tr>
+								<td class="clsLoginBannerBold" colspan="1" align="middle">Welcome&nbsp;<span id="_ctl0_9db9fde41a464c70bfa58c54725b74ac_lblUserName"></span></td>
+							</tr>
+							
+							<tr valign="top" align="middle">
+								<td colspan="2">
+									<a id="_ctl0_9db9fde41a464c70bfa58c54725b74ac_lbSignIn" class="clsLoginBannerMedium" href="javascript:__doPostBack('_ctl0$9db9fde41a464c70bfa58c54725b74ac$lbSignIn','')">Sign&nbsp;In</a>&nbsp;&nbsp;<a id="_ctl0_9db9fde41a464c70bfa58c54725b74ac_lbRegister" class="clsLoginBannerMedium" href="javascript:__doPostBack('_ctl0$9db9fde41a464c70bfa58c54725b74ac$lbRegister','')">Register</a>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" align="left"><span id="_ctl0_9db9fde41a464c70bfa58c54725b74ac_lblDebug" class="clsInvisible"><font size="1">PORTAL13 / privacypolicy</font></span></td>
+				</tr>
+			</tbody></table>
+		</td>
 	</tr>
+</tbody></table>
+
+<table cellspacing="0" width="100%" cellpadding="0" bordercolor="blue" border="0">
+	<tbody><tr valign="bottom">
+		<td valign="Bottom">
+			<table id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_Table1" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_TabRowLeft">
+		<td id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_BeginLTabCell"><img id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_imgBeginLTabs" src="/(xmmgowbovtlytsmmfe1rnr45)/Data/Real_Estate/tabs/left_begin.gif" align="Bottom" border="0" width="10"></td><td class="clsTbCellCur" width="64">
+	<div><!--tab start-->
+	<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/left_on.gif"></td>
+			<td valign="top"><img src="../Data/Real_Estate/tabs/top_stretch_on.gif" height="2" width="100%"></td>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/right_on.gif"></td> <!--end on tab-->
+		</tr>
+		<tr>
+			<td valign="bottom"><div class="clsTbCnt" style="width:64px;"><a id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_ibTab0" title="Home" class="clsTbCnt" href="Default.aspx?channel=T:v:home&amp;RGEvt=9">HOME</a></div><!--on tab content--></td> 
+		</tr>
+		<tr>
+			<td valign="bottom"><img src="../Data/Real_Estate/tabs/btm_stretch_on.gif" height="2" width="100%"></td> <!--bottom border color-->
+		</tr>
 	</tbody></table>
-</center>
+	<!--tab end-->
+	</div>
+</td><td class="clsTbCell" width="84">
+	<div><!--tab start-->
+	<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/left_off.gif"></td>
+			<td valign="top"><img src="../Data/Real_Estate/tabs/top_stretch_off.gif" height="2" width="100%"></td>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/right_off.gif"></td> <!--end on tab-->
+		</tr>
+		<tr>
+			<td valign="bottom"><div class="clsTbCnt" style="width:84px;"><a id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_ibTab3" title="Home Finance" class="clsTbCnt" href="Default.aspx?channel=T:finance&amp;RGEvt=9">HOME FINANCE</a></div><!--on tab content--></td> 
+		</tr>
+		<tr>
+			<td valign="bottom"><img src="../Data/Real_Estate/tabs/btm_stretch_off.gif" height="2" width="100%"></td> <!--bottom border color-->
+		</tr>
+	</tbody></table>
+	<!--tab end-->
+	</div>
+</td><td class="clsTbCell" width="84">
+	<div><!--tab start-->
+	<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/left_off.gif"></td>
+			<td valign="top"><img src="../Data/Real_Estate/tabs/top_stretch_off.gif" height="2" width="100%"></td>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/right_off.gif"></td> <!--end on tab-->
+		</tr>
+		<tr>
+			<td valign="bottom"><div class="clsTbCnt" style="width:84px;"><a id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_ibTab4" title="Moving &amp; Relocation" class="clsTbCnt" href="Default.aspx?channel=T:resources&amp;RGEvt=9">MOVING &amp; RELOCATION</a></div><!--on tab content--></td> 
+		</tr>
+		<tr>
+			<td valign="bottom"><img src="../Data/Real_Estate/tabs/btm_stretch_off.gif" height="2" width="100%"></td> <!--bottom border color-->
+		</tr>
+	</tbody></table>
+	<!--tab end-->
+	</div>
+</td><td class="clsTbCell" width="64">
+	<div><!--tab start-->
+	<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/left_off.gif"></td>
+			<td valign="top"><img src="../Data/Real_Estate/tabs/top_stretch_off.gif" height="2" width="100%"></td>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/right_off.gif"></td> <!--end on tab-->
+		</tr>
+		<tr>
+			<td valign="bottom"><div class="clsTbCnt" style="width:64px;"><a id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_ibTab5" title="Home &amp; Garden" class="clsTbCnt" href="Default.aspx?channel=T:homegarden&amp;RGEvt=9">HOME &amp; GARDEN</a></div><!--on tab content--></td> 
+		</tr>
+		<tr>
+			<td valign="bottom"><img src="../Data/Real_Estate/tabs/btm_stretch_off.gif" height="2" width="100%"></td> <!--bottom border color-->
+		</tr>
+	</tbody></table>
+	<!--tab end-->
+	</div>
+</td><td class="clsTbCell" width="64">
+	<div><!--tab start-->
+	<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/left_off.gif"></td>
+			<td valign="top"><img src="../Data/Real_Estate/tabs/top_stretch_off.gif" height="2" width="100%"></td>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/right_off.gif"></td> <!--end on tab-->
+		</tr>
+		<tr>
+			<td valign="bottom"><div class="clsTbCnt" style="width:64px;"><a id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_ibTab6" title="Insurance" class="clsTbCnt" href="Default.aspx?channel=T:insurance&amp;RGEvt=9">INSURANCE</a></div><!--on tab content--></td> 
+		</tr>
+		<tr>
+			<td valign="bottom"><img src="../Data/Real_Estate/tabs/btm_stretch_off.gif" height="2" width="100%"></td> <!--bottom border color-->
+		</tr>
+	</tbody></table>
+	<!--tab end-->
+	</div>
+</td><td id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_EndLTabCell"><img id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_imgEndLTabs" src="/(xmmgowbovtlytsmmfe1rnr45)/Data/Real_Estate/tabs/left_end.gif" align="Bottom" border="0" width="10"></td>
+	</tr>
+</tbody></table>
+		</td>
+		<td valign="bottom" width="99%"><img id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_imgTabBar" src="/(xmmgowbovtlytsmmfe1rnr45)/Data/Real_Estate/tabbar.gif" align="Bottom" border="0" height="2" width="100%"></td>
+		<td align="Right" valign="Bottom">
+			<table id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_Table2" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_TabRowRight">
+		<td id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_BeginRTabCell"><img id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_imgBeginRTabs" src="/(xmmgowbovtlytsmmfe1rnr45)/Data/Real_Estate/tabs/right_begin.gif" align="Bottom" border="0" width="10"></td><td class="clsTbCell" width="64">
+	<div><!--tab start-->
+	<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/left_off.gif"></td>
+			<td valign="top"><img src="../Data/Real_Estate/tabs/top_stretch_off.gif" height="2" width="100%"></td>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/right_off.gif"></td> <!--end on tab-->
+		</tr>
+		<tr>
+			<td valign="bottom"><div class="clsTbRCnt" style="width:64px;"><a id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_ibTab7" title="Portfolio" class="clsTbRCnt" href="Default.aspx?channel=T:mydata&amp;RGEvt=9">PORTFOLIO</a></div><!--on tab content--></td> 
+		</tr>
+		<tr>
+			<td valign="bottom"><img src="../Data/Real_Estate/tabs/btm_stretch_off.gif" height="2" width="100%"></td> <!--bottom border color-->
+		</tr>
+	</tbody></table>
+	<!--tab end-->
+	</div>
+</td><td class="clsTbCell" width="64">
+	<div><!--tab start-->
+	<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/left_off.gif"></td>
+			<td valign="top"><img src="../Data/Real_Estate/tabs/top_stretch_off.gif" height="2" width="100%"></td>
+			<td rowspan="3" valign="top"><img src="../Data/Real_Estate/tabs/right_off.gif"></td> <!--end on tab-->
+		</tr>
+		<tr>
+			<td valign="bottom"><div class="clsTbRCnt" style="width:64px;"><a id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_ibTab8" title="Account" class="clsTbRCnt" href="Default.aspx?channel=T:myaccount&amp;RGEvt=9">ACCOUNT</a></div><!--on tab content--></td> 
+		</tr>
+		<tr>
+			<td valign="bottom"><img src="../Data/Real_Estate/tabs/btm_stretch_off.gif" height="2" width="100%"></td> <!--bottom border color-->
+		</tr>
+	</tbody></table>
+	<!--tab end-->
+	</div>
+</td><td id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_EndRTabCell"><img id="_ctl0_f35793fde0e84755bfb2cf83a445a9fd_imgEndRTabs" src="/(xmmgowbovtlytsmmfe1rnr45)/Data/Real_Estate/tabs/right_end.gif" align="Bottom" border="0" width="10"></td>
+	</tr>
+</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
 
 
 
 
 
+
+
+
+
+
+
+</td>
+
+	</tr>
+	<tr>
+		<td valign="top" align="left">
+			<table width="100%" cellspacing="0" cellpadding="0" border="0" bordercolor="Red">
+				<tbody><tr height="*" valign="top">
+					<td id="_ctl0_LeftPane" type="PortalPane" width="170"><table id="_ctl0_3ce9d97415a1427a9d470661bb98fb8c_RGPromoCgy" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+
+</td></tr></tbody></table>
+<table id="_ctl0_3ce9d97415a1427a9d470661bb98fb8c_RGPromoStd" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+	<!--RGPromoControl Pos:left1 begin--><!--RGPromoControl Pos:left1 end-->
+</td></tr></tbody></table>
+
+<table class="clsRGSpcr"><tbody><tr><td></td></tr></tbody></table>
+<!--RGCatNav Head begin -->
+<!--parms: Real_Estate, 3103, 0, 0, USER, Finance-->
+<table cellspacing="0" cellpadding="0" border="0" class="clsRGMdlCtnr">
+	<tbody><tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" class="clsRGMdlCtnrHd">
+				<tbody><tr height="20px">
+					<td width="6" valign="top"><img src="../Data/Real_Estate/RG/listing_corner_tl.gif"></td>
+					<td width="14" valign="middle"><img src="../Data/Real_Estate/Arrow.gif" width="14" height="13" border="0" alt=""></td>
+					<td width="5"><img src="../images/home_dot.gif" width="3" height="1" border="0"></td>
+					<td width="*" valign="middle"><a id="_ctl0_3b03aeb848574c789081aa44de7f72a0_lnkChannelLnk" href="Default.aspx?channel=n:Finance&amp;RGEvt=3">Home Finance</a></td>
+					<td width="6" valign="top"><img src="../Data//Real_Estate/RG/listing_corner_tr.gif"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<!--RGCatNav Head end 
+	RGCatNav Body begin -->
+<table cellspacing="0" cellpadding="0" border="0" class="clsRGMdlCtnr">
+	<tbody><tr>
+		<td class="clsRGCtnrBody">
+			<table id="_ctl0_3b03aeb848574c789081aa44de7f72a0_tblRGChnl" class="clsRGMdlContent" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td><a id="_ctl0_3b03aeb848574c789081aa44de7f72a0_1903" class="clsRGLink" href="Default.aspx?channel=n:Finance&amp;RGEvt=4&amp;RGCatID=1903">First Time Home Buyers</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_3b03aeb848574c789081aa44de7f72a0_1807" class="clsRGLink" href="Default.aspx?channel=n:Finance&amp;RGEvt=4&amp;RGCatID=1807">Loan Rates and Information</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_3b03aeb848574c789081aa44de7f72a0_1806" class="clsRGLink" href="Default.aspx?channel=n:Finance&amp;RGEvt=4&amp;RGCatID=1806">Get a Mortgage</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_3b03aeb848574c789081aa44de7f72a0_1902" class="clsRGLink" href="Default.aspx?channel=n:Finance&amp;RGEvt=4&amp;RGCatID=1902">Refinance Options</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_3b03aeb848574c789081aa44de7f72a0_1905" class="clsRGLink" href="Default.aspx?channel=n:Finance&amp;RGEvt=4&amp;RGCatID=1905">Mortgage Calculators</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_3b03aeb848574c789081aa44de7f72a0_1911" class="clsRGLink" href="Default.aspx?channel=n:Finance&amp;RGEvt=4&amp;RGCatID=1911">Check your Credit</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_3b03aeb848574c789081aa44de7f72a0_1938" class="clsRGLink" href="Default.aspx?channel=n:Finance&amp;RGEvt=4&amp;RGCatID=1938">Standard of Living</a></td>
+	</tr><tr>
+		<td class="clsRGSpcr" colspan="2"></td>
+	</tr>
+</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table class="clsRGBottom" cellpadding="0" cellspacing="0"><tbody><tr><td></td></tr></tbody></table>
+<!--RGCatNav Body end -->
+
+<table class="clsRGSpcr"><tbody><tr><td></td></tr></tbody></table>
+<!--RGCatNav Head begin -->
+<!--parms: Real_Estate, 3103, 0, 0, USER, Resources-->
+<table cellspacing="0" cellpadding="0" border="0" class="clsRGMdlCtnr">
+	<tbody><tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" class="clsRGMdlCtnrHd">
+				<tbody><tr height="20px">
+					<td width="6" valign="top"><img src="../Data/Real_Estate/RG/listing_corner_tl.gif"></td>
+					<td width="14" valign="middle"><img src="../Data/Real_Estate/Arrow.gif" width="14" height="13" border="0" alt=""></td>
+					<td width="5"><img src="../images/home_dot.gif" width="3" height="1" border="0"></td>
+					<td width="*" valign="middle"><a id="_ctl0_bab0f975fe9e40f784317e194c0f1106_lnkChannelLnk" href="Default.aspx?channel=n:Resources&amp;RGEvt=3">Moving &amp; Relocation</a></td>
+					<td width="6" valign="top"><img src="../Data//Real_Estate/RG/listing_corner_tr.gif"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<!--RGCatNav Head end 
+	RGCatNav Body begin -->
+<table cellspacing="0" cellpadding="0" border="0" class="clsRGMdlCtnr">
+	<tbody><tr>
+		<td class="clsRGCtnrBody">
+			<table id="_ctl0_bab0f975fe9e40f784317e194c0f1106_tblRGChnl" class="clsRGMdlContent" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td><a id="_ctl0_bab0f975fe9e40f784317e194c0f1106_2211" class="clsRGLink" href="Default.aspx?channel=n:Resources&amp;RGEvt=4&amp;RGCatID=2211">Local Resources</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_bab0f975fe9e40f784317e194c0f1106_2106" class="clsRGLink" href="Default.aspx?channel=n:Resources&amp;RGEvt=4&amp;RGCatID=2106">Find an Agent</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_bab0f975fe9e40f784317e194c0f1106_2209" class="clsRGLink" href="Default.aspx?channel=n:Resources&amp;RGEvt=4&amp;RGCatID=2209">Planning Your Move</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_bab0f975fe9e40f784317e194c0f1106_1939" class="clsRGLink" href="Default.aspx?channel=n:Resources&amp;RGEvt=4&amp;RGCatID=1939">Local Moves</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_bab0f975fe9e40f784317e194c0f1106_1940" class="clsRGLink" href="Default.aspx?channel=n:Resources&amp;RGEvt=4&amp;RGCatID=1940">Out of State Moves</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_bab0f975fe9e40f784317e194c0f1106_1943" class="clsRGLink" href="Default.aspx?channel=n:Resources&amp;RGEvt=4&amp;RGCatID=1943">Truck Rental</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_bab0f975fe9e40f784317e194c0f1106_1948" class="clsRGLink" href="Default.aspx?channel=n:Resources&amp;RGEvt=4&amp;RGCatID=1948">Hook up Utilities</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_bab0f975fe9e40f784317e194c0f1106_1949" class="clsRGLink" href="Default.aspx?channel=n:Resources&amp;RGEvt=4&amp;RGCatID=1949">Get your Internet Access</a></td>
+	</tr><tr>
+		<td class="clsRGSpcr" colspan="2"></td>
+	</tr>
+</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table class="clsRGBottom" cellpadding="0" cellspacing="0"><tbody><tr><td></td></tr></tbody></table>
+<!--RGCatNav Body end -->
+<table id="_ctl0_3445b2bedefe4f60a44629b05f5867db_RGPromoCgy" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+
+</td></tr></tbody></table>
+<table id="_ctl0_3445b2bedefe4f60a44629b05f5867db_RGPromoStd" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+	<!--RGPromoControl Pos:left2 begin--><!--RGPromoControl Pos:left2 end-->
+</td></tr></tbody></table>
+
+<table class="clsRGSpcr"><tbody><tr><td></td></tr></tbody></table>
+<!--RGCatNav Head begin -->
+<!--parms: Real_Estate, 3103, 0, 0, USER, HomeGarden-->
+<table cellspacing="0" cellpadding="0" border="0" class="clsRGMdlCtnr">
+	<tbody><tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" class="clsRGMdlCtnrHd">
+				<tbody><tr height="20px">
+					<td width="6" valign="top"><img src="../Data/Real_Estate/RG/listing_corner_tl.gif"></td>
+					<td width="14" valign="middle"><img src="../Data/Real_Estate/Arrow.gif" width="14" height="13" border="0" alt=""></td>
+					<td width="5"><img src="../images/home_dot.gif" width="3" height="1" border="0"></td>
+					<td width="*" valign="middle"><a id="_ctl0_e77ae7f92b144d5c8f12c205f7c1567e_lnkChannelLnk" href="Default.aspx?channel=n:HomeGarden&amp;RGEvt=3">Home &amp; Garden</a></td>
+					<td width="6" valign="top"><img src="../Data//Real_Estate/RG/listing_corner_tr.gif"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<!--RGCatNav Head end 
+	RGCatNav Body begin -->
+<table cellspacing="0" cellpadding="0" border="0" class="clsRGMdlCtnr">
+	<tbody><tr>
+		<td class="clsRGCtnrBody">
+			<table id="_ctl0_e77ae7f92b144d5c8f12c205f7c1567e_tblRGChnl" class="clsRGMdlContent" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td><a id="_ctl0_e77ae7f92b144d5c8f12c205f7c1567e_1823" class="clsRGLink" href="Default.aspx?channel=n:HomeGarden&amp;RGEvt=4&amp;RGCatID=1823">Decorating Basics</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_e77ae7f92b144d5c8f12c205f7c1567e_1924" class="clsRGLink" href="Default.aspx?channel=n:HomeGarden&amp;RGEvt=4&amp;RGCatID=1924">Remodeling</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_e77ae7f92b144d5c8f12c205f7c1567e_2212" class="clsRGLink" href="Default.aspx?channel=n:HomeGarden&amp;RGEvt=4&amp;RGCatID=2212">Home Repair</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_e77ae7f92b144d5c8f12c205f7c1567e_2213" class="clsRGLink" href="Default.aspx?channel=n:HomeGarden&amp;RGEvt=4&amp;RGCatID=2213">Outdoor Living</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_e77ae7f92b144d5c8f12c205f7c1567e_1921" class="clsRGLink" href="Default.aspx?channel=n:HomeGarden&amp;RGEvt=4&amp;RGCatID=1921">Furniture to Rent</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_e77ae7f92b144d5c8f12c205f7c1567e_1953" class="clsRGLink" href="Default.aspx?channel=n:HomeGarden&amp;RGEvt=4&amp;RGCatID=1953">Furniture to Buy</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_e77ae7f92b144d5c8f12c205f7c1567e_1950" class="clsRGLink" href="Default.aspx?channel=n:HomeGarden&amp;RGEvt=4&amp;RGCatID=1950">Furnish Your Home</a></td>
+	</tr><tr>
+		<td class="clsRGSpcr" colspan="2"></td>
+	</tr>
+</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table class="clsRGBottom" cellpadding="0" cellspacing="0"><tbody><tr><td></td></tr></tbody></table>
+<!--RGCatNav Body end -->
+
+<table class="clsRGSpcr"><tbody><tr><td></td></tr></tbody></table>
+<!--RGCatNav Head begin -->
+<!--parms: Real_Estate, 3103, 0, 0, USER, Insurance-->
+<table cellspacing="0" cellpadding="0" border="0" class="clsRGMdlCtnr">
+	<tbody><tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" class="clsRGMdlCtnrHd">
+				<tbody><tr height="20px">
+					<td width="6" valign="top"><img src="../Data/Real_Estate/RG/listing_corner_tl.gif"></td>
+					<td width="14" valign="middle"><img src="../Data/Real_Estate/Arrow.gif" width="14" height="13" border="0" alt=""></td>
+					<td width="5"><img src="../images/home_dot.gif" width="3" height="1" border="0"></td>
+					<td width="*" valign="middle"><a id="_ctl0_f14ac156effa4ab385ee4bdac51bdd6f_lnkChannelLnk" href="Default.aspx?channel=n:Insurance&amp;RGEvt=3">Insurance</a></td>
+					<td width="6" valign="top"><img src="../Data//Real_Estate/RG/listing_corner_tr.gif"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<!--RGCatNav Head end 
+	RGCatNav Body begin -->
+<table cellspacing="0" cellpadding="0" border="0" class="clsRGMdlCtnr">
+	<tbody><tr>
+		<td class="clsRGCtnrBody">
+			<table id="_ctl0_f14ac156effa4ab385ee4bdac51bdd6f_tblRGChnl" class="clsRGMdlContent" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td><a id="_ctl0_f14ac156effa4ab385ee4bdac51bdd6f_1913" class="clsRGLink" href="Default.aspx?channel=n:Insurance&amp;RGEvt=4&amp;RGCatID=1913">HomeOwner's Insurance</a></td>
+	</tr><tr>
+		<td><a id="_ctl0_f14ac156effa4ab385ee4bdac51bdd6f_2208" class="clsRGLink" href="Default.aspx?channel=n:Insurance&amp;RGEvt=4&amp;RGCatID=2208">Check Your Credit</a></td>
+	</tr><tr>
+		<td class="clsRGSpcr" colspan="2"></td>
+	</tr>
+</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table class="clsRGBottom" cellpadding="0" cellspacing="0"><tbody><tr><td></td></tr></tbody></table>
+<!--RGCatNav Body end -->
+<table id="_ctl0_5141178627084d8b80a893e835508c78_RGPromoCgy" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+
+</td></tr></tbody></table>
+<table id="_ctl0_5141178627084d8b80a893e835508c78_RGPromoStd" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+	<!--RGPromoControl Pos:left3 begin--><!--RGPromoControl Pos:left3 end-->
+</td></tr></tbody></table>
+</td>
+
+					<td id="_ctl0_ContentPane" type="PortalPane" width="100%" align="left">
+<table cellpadding="0" cellspacing="0" border="0" class="clsMidColMdl" width="100%">
+	<tbody><tr>
+		<td class="clsMidColTblMdl" nowrap=""><img style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 14px; HEIGHT: 13px; BORDER-RIGHT-WIDTH: 0px" src="Data/Real_Estate/Arrow.gif"><img height="1" src="../images/home_dot.gif" width="6" border="0"></td>
+		<td class="clsMidColTblMdl" align="left" width="100%">Privacy Policy</td>
+	</tr>
+	<tr>
+		<td class="clsMidColSubHd" align="left" width="100%" colspan="2">&nbsp; 
+			RealEstate.Com
+		</td>
+	</tr>
+	<tr>
+		<td align="left" width="100%" colspan="2">
+			<table id="_ctl0_c1b2269e093a4f12a4bbf791fc617b67_pnlPrivacyPolicyUser" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+
+				<p></p>
+				<div class="Section1">
+						<p class="MsoNormal"><font size="2"><font face="Arial"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">HPC 
+										Interactive, Inc. (HPCi), operator of 	RealEstate.Com, is committed to making your 
+										search for a home as pleasant and successful as possible. Maintaining your 
+										privacy is part of that commitment. This privacy policy applies to the use by 
+										consumers of the RealEstate.Com and its affiliated web sites and governs online 
+										data collection and usage by RealEstate.Com.</span></font></font>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+						<!--[if !supportEmptyParas]--><!--[endif]-->
+						<p class="MsoNormal"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp; </span>
+						</p>
+						<p class="MsoNormal" style="MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">
+								<o:p></o:p>
+							</span>
+						</p>
+						<p class="MsoNormal" style="MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><!--[if 
+								!supportEmptyParas]--><!--[endif]--><o:p></o:p></span></p>
+						<!--[if !supportEmptyParas]--><!--[endif]--><!--[if !supportEmptyParas]--><!--[endif]--><!--[if 
+						!supportEmptyParas]--><!--[endif]--><!--[if !supportEmptyParas]--><!--[endif]--><!--[if 
+						!supportEmptyParas]--><!--[endif]--><!--[if !supportEmptyParas]--><!--[endif]--><!--[if 
+						!supportEmptyParas]--><!--[endif]--><!--[if !supportEmptyParas]--><!--[endif]--><!--[if 
+						!supportEmptyParas]--><!--[endif]-->
+						<p class="MsoNormal"><span style="FONT-SIZE: 10pt"><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">What 
+										information we collect<o:p></o:p></span></b></span></p>
+						<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">You 
+								may browse the RealEstate.Com site without providing any personally identifiable 
+								information but if you choose to use any of our products or services, you will 
+								be asked to register and provide certain personal information such as: contact 
+								information (like your full name and address), unique identifiers (such as your 
+								email address and phone number), demographic information (like your zip code or 
+								age) and, for certain e-commerce transactions, your credit card.<b><span style="mso-spacerun: yes">&nbsp;
+									</span>
+									<o:p></o:p></b></span></p>
+						<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">When 
+								using certain tools on our site, you may be asked to provide additional 
+								information.<span style="mso-spacerun: yes">&nbsp; </span>This information 
+								becomes part of your profile and allows us to make the tools more beneficial to 
+								you.<o:p></o:p></span></p>
+						<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">In 
+								addition to the personal information that you voluntarily provide directly to 
+								us, your "Internet Protocol" or IP address, </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'">
+								browser type, domain name, access times and referring web site address is also 
+								recorded. This information is collected both during registration on a site or 
+								in response to specific requests</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">.<span style="mso-spacerun: yes">&nbsp;
+								</span>This data helps us serve you by allowing us to understand how visitors 
+								use our services.
+								<o:p></o:p></span></p>
+						<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">Some 
+								of the services available on our site are provided by third parties and s</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'">ometimes 
+								we will give you the opportunity to opt in to offers from third parties not 
+								affiliated with us.<span style="mso-spacerun: yes">&nbsp; </span>If you decide 
+								to use these services or accept these offers, we may provide, with your 
+								consent, your information to the third party.<span style="mso-spacerun: yes">&nbsp; </span>
+								However, you should note that this privacy policy does not apply to information 
+								you consent to give to third parties (or voluntarily provide to third parties) 
+								not affiliated with us.<span style="mso-spacerun: yes">&nbsp; </span>Any 
+								information you give to another party is governed by the rules of that partys 
+								privacy policy, which may differ from this privacy policy.<span style="mso-spacerun: yes">&nbsp;
+								</span>We are not responsible for information given to or collected by other 
+								parties.<span style="mso-spacerun: yes">&nbsp; </span>Please review their 
+								privacy policies prior to providing any information to third parties.</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'"><o:p></o:p></span></p>
+						<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">What 
+									we do with collected information<o:p></o:p></span></b></p>
+						<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">When 
+								you register on our site, we use the information you provide to us to track 
+								what kind of activities you conduct on our site, including, for example, the 
+								types and locations of homes that you have viewed, to create a particular 
+								profile for you.<span style="mso-spacerun: yes">&nbsp; </span>
+								<o:p></o:p></span></p>
+						<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">Based 
+								on your activities on our site, we may provide your information (both personal 
+								and profile) to real estate brokers or rental agents who may contact you by 
+								phone or email to provide additional information on some of the homes or 
+								apartments you may have viewed on our site. We will tell you that we are 
+								providing your information to a broker or agent and we will never give your 
+								information to more than one broker or agent in any geographic area (unless you 
+								request additional information to be sent to you).<span style="mso-spacerun: yes">&nbsp;
+								</span>You have no obligation to respond to or otherwise cooperate with any of 
+								the people that contact you.<o:p></o:p></span></p>
+						<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">To 
+								provide you the best products and services, we often team with business 
+								partners. When you indicate that you want to receive a product or service, or 
+								contact a person or organization, we share the data needed for you to receive 
+								what you have indicated. We take great care to require that these business 
+								partners agree by contract not to disclose any personal information that they 
+								may receive. We may contract with third parties to administer our mailing lists 
+								or provide retail services. In such event, your personal information may be 
+								shared with such third party for the purpose of administering the products, 
+								services and programs you have selected.
+								<o:p></o:p></span></p>
+						<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">We 
+								use your email as a unique identifier in our record system, to verify 
+								communications from you, and to send you newsletters, promotion offerings or 
+								other email that you ask to receive.<span style="mso-spacerun: yes">&nbsp; </span>
+								You will have the option to stop these communications at any time by 
+								unsubscribing according to the instructions in the newsletter, promotion or 
+								email.<span style="mso-spacerun: yes">&nbsp; </span>We will also use your 
+								information to contact you when necessary for administrative purposes related 
+								to your account and to communicate with you about changes to the site, our 
+								services or this privacy policy.<b><o:p></o:p></b></span></p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'">We 
+								may, at times, produce reports for advertisers containing aggregate information 
+								about our users such as demographic, age and online usage information.<span style="mso-spacerun: yes">&nbsp;
+								</span>This allows us to work more closely with advertisers to provide content 
+								and offers that are most relevant to our users.<span style="mso-spacerun: yes">&nbsp;
+								</span>We will never include any personal information of our users in these 
+								reports.<o:p></o:p></span></p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'"><o:p></o:p></span></p>
+						<p class="MsoBodyText" style="MARGIN: 0in 0in 0pt"><span style="mso-bidi-font-family: 'Times New Roman'"><font face="Arial">We 
+									reserve the right to use or disclose any information without notice or consent 
+									as needed to satisfy any law, regulation (including our Terms of Use) or legal 
+									request; to conduct investigations of consumer complaints or possible breaches 
+									of law; to protect the integrity of our site and our property; to protect the 
+									safety of our visitors or others; to fulfill your requests; or to cooperate in 
+									any legal investigation.<o:p></o:p></font></span></p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'"><o:p></o:p></span></p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'">In 
+								developing our business, we might sell certain assets or the company, or parts 
+								of it, may be sold, merged or otherwise transferred.<span style="mso-spacerun: yes">&nbsp;
+								</span>In such transactions, your user information, whether personally 
+								identifiable or otherwise, may be one of the transferred assets.<o:p></o:p></span></p>
+						<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">Use 
+									of Cookies<o:p></o:p></span></b></p>
+						<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">Our 
+								site uses a technology called "cookies," which are small files that are placed 
+								on your computer by our servers stored by your browser to help keep track of 
+								your user profile. We use temporary cookies to remember your personal profile 
+								for your convenience, to deliver content specific to your needs and interests, 
+								and to ensure you don't see the same advertisement repeatedly. We also use 
+								cookies to track user trends and improve areas of our sites that our users find 
+								valuable. We do not share cookie information with anyone without your 
+								permission.<span style="mso-spacerun: yes">&nbsp; </span>Some advertisers or 
+								third party ad servers may also use their own cookies.<span style="mso-spacerun: yes">&nbsp;
+								</span>We do not have access to this information collected by third parties.
+								<o:p></o:p></span></p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'">You 
+								have the ability to accept or decline cookies by modifying your browser and our 
+								web sites are viewable even if you disable the cookie function on your browser.<span style="mso-spacerun: yes">&nbsp;
+								</span>However, if you disable cookies, some advanced and customized features 
+								of our site, as well as other web sites, will not be available to you.<o:p></o:p></span></p>
+						<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">Third-Party 
+									Sites<o:p></o:p></span></b></p>
+						<p class="legal2" style="MARGIN: auto 0in"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; mso-bidi-font-size: 9.0pt; mso-bidi-font-family: 'Times New Roman'">Our 
+								site contains links to other sites. Please note that we are not responsible for 
+								the privacy practices or the content of web sites that you can link to through 
+								our site.
+								<o:p></o:p></span></p>
+						<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">Changing 
+									your personal information<o:p></o:p></span></b></p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">You 
+								may, </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'">
+								at any time, change, correct or modify any personal information you may have 
+								provided to us by visiting the <strong>Account</strong> section of the Site 
+								and following the instructions.</span></p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'"></span>&nbsp;</p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'"></span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">RealEstate.Com 
+								provides you the opportunity to opt out of receiving communications from our 
+								partners and us. To remove your personal information, you can unsubscribe in 
+								accordance with the instructions in any communication sent to you.<b><o:p></o:p></b></span></p>
+						<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">Security 
+									of your personal information<o:p></o:p></span></b></p>
+						<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'">All 
+								HPCi employees are made aware of its privacy practices through periodic 
+								communications and training.<span style="mso-spacerun: yes">&nbsp; </span>We 
+								limit access to private and confidential data only to those employees with a 
+								specific need to retrieve this information. To maintain the highest level of 
+								security, </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">
+								we store no financial information or social security information on our site.</span><span style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">
+							</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'">
+								The personal data we do store on our system is protected by firewall and 
+								password. Our network firewall is a combination of hardware and software 
+								designed to keep unauthorized users from accessing our network. The password 
+								you select, along with your unique email address, prevents others from 
+								accessing your information. In order to protect your information, we suggest 
+								that you do not disclose your password to anyone.<o:p></o:p></span></p>
+						<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'">You 
+								should also be aware that if you voluntarily disclose information online 
+								(whether through our services or any other service available online), personal 
+								or otherwise, that information can be collected and used by others. For 
+								example, if you use chat, forums, bulletin boards, your e-mail or if you post 
+								personal information online, you may receive unsolicited messages from others.<span style="mso-spacerun: yes">&nbsp;
+								</span>We have no control over this use of your personal information.</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'"><o:p></o:p></span></p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'">Changes 
+									To Our Privacy Policy</span></b></p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'">
+									<o:p></o:p></span></b></p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'"><o:p></o:p></span></p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'">We 
+								will occasionally update this Privacy Policy as necessary to maintain the 
+								highest protection for our users and to comply with a changing environment.<span style="mso-spacerun: yes">&nbsp;
+								</span>We recommend that you check the policy when you visit our site to be 
+								sure you are aware of and understand our current policy. If we make material 
+								changes to this policy or in how we will use or collect your personally 
+								identifiable information, we will prominently post such changes prior to 
+								implementing the change.<o:p></o:p></span></p>
+						<h1 style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'"><strong><font size="2"><o:p></o:p></font></strong></span></h1>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'"></span>&nbsp;</p>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'"><o:p></o:p></span></p>
+						<h1 style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'"><strong><font size="2">Contact 
+										Information<o:p></o:p></font></strong></span></h1>
+						<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'"><o:p></o:p></span></p>
+						<p class="MsoNormal"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-bidi-font-family: 'Times New Roman'">If 
+								you have questions or concerns about our privacy policy or if at any time you 
+								feel that RealEstate.Com has not adhered to this policy, send a message through 
+								the "Comments" feature of RealEstate.Com and we'll do our best to determine any 
+								problem and quickly respond.</span></p>
+					</div><table width="98%" align="center">
+					<style> <!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-parent:""; margin:0in; margin-bottom:.0001pt; mso-pagination:none; mso-layout-grid-align:none; text-autospace:none; font-size:12.0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";}
+																			h1 {mso-style-next:Normal; margin:0in; margin-bottom:.0001pt; mso-pagination:none; mso-outline-level:1; mso-layout-grid-align:none; text-autospace:none; font-size:12.0pt; font-family:"Times New Roman"; mso-font-kerning:0pt; font-weight:normal;}
+																			h2 {mso-style-next:Normal; margin:0in; margin-bottom:.0001pt; mso-pagination:none; mso-outline-level:2; mso-layout-grid-align:none; text-autospace:none; font-size:12.0pt; font-family:"Times New Roman"; font-weight:normal;}
+																			h3 {mso-style-next:Normal; margin:0in; margin-bottom:.0001pt; mso-pagination:none; page-break-after:avoid; mso-outline-level:3; mso-layout-grid-align:none; text-autospace:none; font-size:9.0pt; mso-bidi-font-size:10.0pt; font-family:Arial; font-weight:normal; font-style:italic;}
+																			span.MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;}
+																			span.MsoHyperlinkFollowed {color:purple; text-decoration:underline; text-underline:single;}
+																			/* Page Definitions */ @page {mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}
+																			@page Section1 {size:8.5in 11.0in; margin:1.0in 1.25in 1.0in 1.25in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;}
+																			div.Section1 {page:Section1;}
+																			-->
+					</style>
+					
+				</table>
+				<p>&nbsp;</p>
+			
+</td></tr></tbody></table>
+			
+		</td>
+	</tr>
+</tbody></table>
+</td>
+
+					
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td id="_ctl0_FooterPane" type="PortalPane" align="center">
+		
+<br>
+<br>
+<table cellpadding="0" cellspacing="0" align="center" border="0">
+	<tbody><tr>
+		<td class="clsFooterLinks" align="middle">
+			<a target="_blank" href="FortPrivacy.html">Privacy</a>&nbsp;&nbsp; <a target="_blank" href="FortSecurity.html">
+				Security</a>&nbsp;&nbsp; <a target="_blank" href="FortTerms.html">Terms of Use</a>&nbsp;&nbsp;
+			<a target="_blank" href="FortLicense.html">Disclosures and Licenses</a>
+		</td>
+	</tr>
+	<tr>
+		<td class="clsFooterText" style="font-size:8pt" align="left"><a target="_blank" href="FortFairHousing.html"><img border="0" src="../images/ehosmall.gif"></a>&nbsp;&nbsp; 
+			We are pledged to the letter and spirit of U.S. policy for the achievement of 
+			equal housing opportunity throughout the Nation. We encourage and support an 
+			affirmative advertising and marketing program in which there are no barriers to 
+			obtaining housing because of race, color, religion, sex, handicap, familial 
+			status, or national origin.</td>
+	</tr>
+	<tr>
+		<td class="clsFooterText" style="font-size:8pt" align="middle">
+			LendingTree technology and processes are patented under US Patent No. 
+			6,385,594.
+		</td>
+	</tr>
+	<tr>
+		<td id="_ctl0_74251a4b39574c489334f0bfb5baa845_tdCopyright" class="clsFooterText" style="font-size:8pt" align="middle">
+			© 1998 - 2003 Real Estate.com a service of LendingTree, Inc. 
+			All Rights Reserved.<br>
+			This site is directed at, and made available to, persons in the continental 
+			U.S., Alaska and Hawaii only.
+		</td>
+
+	</tr>
+</tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" align="center" border="0">
+	<tbody><tr>
+		<td><img height="5" src="../images/1x1.gif"></td>
+	</tr>
+	<tr>
+		<td bgcolor="gray"><img height="1" src="../images/1x1.gif"></td>
+	</tr>
+	<tr>
+		<td><img height="5" src="../images/1x1.gif"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" align="center" border="0">
+	<tbody><tr>
+		<td class="clsFooterText" style="font-size:8pt">
+			REALTOR® -- A registered collective membership mark that identifies a 
+			real estate professional who is a member of the National Association of 
+			REALTORS® and subscribes to its strict Code of Ethics.
+		</td>
+	</tr>
+</tbody></table>
+<script language="JavaScript">
+ 
+<!-- Begin
+ 
+function STMRCWindow(page) {
+OpenWin = this.open(page, "CtrlWindow", "toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=no,dependent=no,directories=no,width=455,height=540,x=50,y=50");
+}
+ 
+//-->
+ 
+</script></td>
+
+	</tr>
+</tbody></table>
+</td>
+
+				</tr>
+			</tbody></table>
+		</form>
+	
 
 </body></html>
