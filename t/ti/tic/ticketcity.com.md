@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the ticketcity.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614170014id_/http%3A//www.ticketcity.com/security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketcity.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204024800id_/http%3A//ticketcity.com/security.htm) for the most accurate reproduction.*
 
-# The online ticket source - Ticket City.com - sports, concerts, theater - Super Bowl
+# TicketCity.com - Secure Ordering
 
+  
 Secure Ordering
 
 Your information is secure because TicketCity.com uses state-of-the-art secure server software (SSL) to prevent your valuable information from being tampered with or compromised in any way.  
