@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbaltv.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606045417id_/http%3A//www.thewbalchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbaltv.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806002053id_/http%3A//www.thewbalchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheWBALChannel.com - News
 
