@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.co.za privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208225221id_/http%3A//www.readersdigest.co.za/cgi-bin/webc.exe/Privacy_Policy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.za privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405115249id_/http%3A//www.readersdigest.co.za/cgi-bin/webc.exe/Privacy_Policy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,9 @@ Email:[customer.sa@readerdigest.com](mailto:customer.sa@readersdigest.com)
 
 [](http://www.rdnetwork.net/wp/uk/index.html)
 
-[](http://www.readersdigest.co.za/cgi-bin/webc.exe/ur_registerform.html)[ **Register and win this superb Carriage Clock**](http://www.readersdigest.co.za/cgi-bin/webc.exe/ur_registerform.html)
+[](http://www.readersdigest.co.za/cgi-bin/webc.exe/ur_registerform.html)  
+[ **Register and win this superb**  
+ **Panorama Camera**](http://www.readersdigest.co.za/cgi-bin/webc.exe/ur_registerform.html)
 
 [](mailto:customer.sa@readersdigest.com)
 
