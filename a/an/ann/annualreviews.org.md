@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annualreviews.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207210641id_/http%3A//www.annualreviews.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annualreviews.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202195323id_/http%3A//annualreviews.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Annual Reviews
 
@@ -6,8 +6,6 @@ Annual Reviews is firmly committed to protecting the privacy of personal informa
 
 Web site Usage Information  
 We may use your IP address to help diagnose problems with our server and administer our Web site. We use cookies and we associate Institutional IP addresses with their institutions only to track usage of the Annual Reviews site. We also track the quantity of traffic to the various areas of our site. Annual Reviews does not track what individual users read but rather how often each page is visited. This helps us to maintain a useful and informative Web site.
-
-The full text of our scientific literature review series is hosted on the web servers of HighWire Press®, where a separate privacy policy is in effect. For information on the privacy policy of HighWire Press®, visit <http://highwire.stanford.edu/about/privacy.dtl>.
 
 **No Ad Servers:** We have no relationships with any ad server companies.
 
@@ -26,8 +24,6 @@ Annual Reviews has made a substantial investment in the latest server, database,
 
 Annual Reviews Email Practices  
 When you subscribe to any Annual Reviews Email Announcement list, purchase Annual Reviews' publications and/or products, submit your information at an Annual Reviews trade show/event booth, or register on our web site, we will use the email address (and format preference if applicable) you provide to send you information about our company or product offerings. You may remove your name from our mailing lists at any time by sending an email to [announce@annualreviews.org](mailto:announce@annualreviews.org) or by visiting the [Annual Reviews Modification Page](https://web.archive.org/emarketing/modify.asp).
-
-Mailing lists for eTocs (including futureTocs and Journal Announcements) and CiteTrack are maintained by HighWire Press®. To remove your email address from these mailings, please visit the HighWire Press® web site at [http://highwire.stanford.edu](http://highwire.stanford.edu/) and choose My Email Alerts.
 
 If you need to change your email address, or mail preferences, you may visit our [modify page](https://web.archive.org/emarketing/modify.asp) to update your preferences
 
