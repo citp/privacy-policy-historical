@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctor.com privacy policy that was archived on 1999-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991129035000id_/http%3A//www.mail.com/mailcom/privacypolicy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctor.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615144010id_/http%3A//www.mail.com/mailcom/privacypolicy.jhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ When you visit a Web site displaying the TRUSTe trustmark, you can expect to be 
 
 Questions regarding this statement should be directed to Mail.com by e-mail to [privacydirector@mail.com](mailto:privacydirector@mail.com). 
 
-If Mail.com has not responded to your inquiry within five business days or your inquiry has not been satisfactorily addressed, please contact TRUSTe ([http://www.truste.org](http://www.truste.org/)). 
+If Mail.com has not responded to your inquiry within five business days or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/). 
 
 **Overview**
 
@@ -20,9 +20,9 @@ At Mail.com, we respect your privacy. We do collect information from you, but it
 
 To protect your privacy, Mail.com: 
 
-  * Will not release personal identifying information about you without first obtaining your consent, unless required to do so by law 
-  * Will not knowingly use personal identifying information from children younger than 13 without parental consent 
-  * Will inform you when we change our privacy policy, either by e-mail, newsletter or via a link on your Welcome Page when you log in
+  * Will not release personal identifying information about you without first obtaining your consent, unless required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our company 
+  * Will not knowingly collect personal identifying information from children younger than 13 without parental consent 
+  * Will inform you when we change our privacy policy, either by e-mail, newsletter or via a link on your Welcome Page when you log in 
 
 
 
@@ -39,7 +39,7 @@ These links provide detailed information on our privacy practices:
 
 Mail.com reserves the right to amend this Privacy Statement at any time without prior notice, and only the current Privacy Statement may be deemed effective. 
 
-**1\. What _general_ information does Mail.com collect about me and how is it used?**   
+**1\. What _general_ information does Mail.com collect about me and how is it used?**  
 When you visit Mail.com, we collect some basic information about your computer, such as: 
 
   * IP address (your computer's unique signature)
@@ -60,14 +60,10 @@ As a new member, you will find a welcome letter waiting for you when you first l
 
 Established members will receive: 
 
-  * **A periodic gift.** Occasionally, we are able to offer you some really great deals from companies offering free gifts, services or coupons. We pass these gifts on to you, but out of respect for your privacy, we allow members to unsubscribe from these promotions by sending an e-mail to [stopgifts@mail.com](mailto:stopgifts@mail.com).
-  * **A periodic newsletter and service announcements.** The newsletter contains general information about your e-mail account and interesting news from the internet. The service announcements contain information regarding updates to our services, features, or products. Newsletters are mailed not more than once per week. Members are not able to unsubscribe from the newsletter or service announcements. 
+  * **A periodic gift.** Occasionally, we are able to offer you some really great deals from companies offering free gifts, services or coupons. We pass these gifts on to you, but out of respect for your privacy, we allow members to unsubscribe from these promotions by forwarding the e-mail you receive to [stopnews@mail.com](mailto:stopnews@mail.com). 
+  * **A periodic newsletter and service announcements.** The newsletter contains general information about your e-mail account and interesting news from the internet. The service announcements contain information regarding updates to our services, features, or products. Newsletters are mailed not more than once per week. Members may unsubscribe to the newsletter by forwarding the e-mail they receive to [stopnews@mail.com](mailto:stopnews@mail.com). Members are not able to unsubscribe from service announcements. If you do not log in for a prolonged period of time, we may use your alternate e-mail address and home address to insure that you receive important news about your Mail.com account or other information that you have requested. 
 
 
-
-If you do not log in for a prolonged period of time, we may use your alternate e-mail address and home address to insure that you receive important news about your Mail.com account or other information that you have requested. 
-
-Mail.com cooperates with law enforcement agencies to identify those who use our services for illegal activities. We reserve the right to release information about members who we believe are in violation of our user agreement, even without a subpoena, warrant or court order. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful. 
 
 **Credit Cards**   
 If you sign up for premium services, Mail.com will use your credit card number in order to provide you with the services that you request. Information collected by Mail.com is encrypted using SSL technology and is stored on secure servers. Credit card transactions are processed by an established financial institution. Access to credit card information at Mail.com is restricted to authorized staff only, in a manner consistent with or exceeding industry standards. 
@@ -113,11 +109,9 @@ We believe that it's especially important to protect children's privacy online.
 
 **Note:** _Mail.com defines "children" as minors younger than 13._
 
-Mail.com does ask that children under 13 get their parent's permission to sign up for a new account. We administrate this by asking the parent to click on a box saying it's O.K. for the child to use the service after entering their registration information. 
+In compliance with the Children's On Line Privacy Protection Act, Mail.com does not allow children under 13 to sign up for our services at this time. 
 
-All general information collected from children is used only for statistical analysis, feedback and those purposes described in the signup process. We actively block the transmission of children's personal information to advertising third parties, regardless of whether children request promotional opportunities through us. 
-
-There are a number of emerging standards in the area of children's privacy that will affect how we process a child's profile information in the future. Through our participation in TRUSTe, Mail.com is monitoring these changes and will continue to redesign its systems so as to comply with these new requirements. 
+Through our participation in TRUSTe, Mail.com is monitoring these changes and will continue to redesign its systems so as to comply with these new requirements. 
 
 **6\. How do I access, change or delete information about myself?**   
 Your personal information can be accessed, or changed by selecting "My account" then "Personal Info" in the navigation bar on the left, once you are logged in. If you would like to close your account and delete your personal information from our online servers, you can send an e-mail to [support@mail.com](mailto:support@mail.com) and follow the process to close an account. 
@@ -127,7 +121,7 @@ If, at any time, you would like to stop receiving promotional materials from Mai
 **7\. How may I protect my privacy on the Internet and within Mail.com?**
 
   1. **Know the risks.**   
-If you provide your e-mail address to public domains such as chat rooms or newsgroups, or you provide it to websites which don't respect your privacy, you may begin to receive unsolicited e-mail. Unsolicited e-mail is also known as spam. Although Mail.com has strict rules prohibiting spam and we do block certain known groups from sending unsolicited messages to Mail.com members, it is generally a good idea to provide your e-mail address only to people or groups that you trust. 
+If you provide your e-mail address to public domains such as chat rooms or newsgroups, or you provide it to Web sites which don't respect your privacy, you may begin to receive unsolicited e-mail. Unsolicited e-mail is also known as spam. Although Mail.com has strict rules prohibiting spam and we do block certain known groups from sending unsolicited messages to Mail.com members, it is generally a good idea to provide your e-mail address only to people or groups that you trust. 
   2. **Educate yourself.**   
 Look for a privacy statement on every site you visit on the Web, and search for information on how to protect your privacy. Start with TRUSTe, an independent, nonprofit initiative dedicated to building users' trust and confidence in the Internet. 
   3. **Tell your children: "Never talk to strangers!"**   
@@ -142,4 +136,4 @@ We send reminders of your account passwords only after the appropriate security 
 
 This privacy policy is part of our User Agreement and you agree to be bound by all of its terms and conditions. 
 
-Last updated 10/1/99 
+Last updated 4/15/00
