@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203065700id_/http%3A//www.record-eagle.com/lib/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603162713id_/http%3A//www.record-eagle.com/lib/privacy.htm) for the most accurate reproduction.*
 
 # TCRE text
 
