@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spafinder.com privacy policy that was archived on 2001-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010817051546id_/http%3A//spafinder.com/gl_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spafinder.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601144349id_/http%3A//www.spafinder.com/Company/gl_privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy [Spa Finder]
+# Spa Finder's Privacy Policy
 
   
 **Spa Finder Privacy Guaranteed**  
@@ -13,14 +13,14 @@ Your privacy is important to us. Spa Finder is committed to safeguarding your pr
   * With whom is your personal information shared? 
   * What choices are available to you regarding the collection, use, and distribution of your personal information? 
   * How can you access, update or delete your personal information? 
-  * How does Spa Finder your personal information? 
+  * How does Spa Finder use your personal information? 
   * What kind of security precautions are in place to protect the loss, misuse, or alteration of your personal information? 
   * What else you should know about your online privacy? 
 
 
 
 **What information do we collect?**  
-Spa Finder collects information in several ways from different parts of our website. Some personal information is gathered when you register to open an account. During registration, Spa Finder asks for your user name, password, e-mail address, zip code, and name. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. In addition to registration we may ask you for personal information at other times, including (but not limited to) when you enter a sweepstakes, contest or promotion sponsored by Spa Finder and/or our many partners; and when you report a problem with our site or services. If you contact Spa Finder we may keep a record of that correspondence. Spa Finder also occasionally asks users to complete surveys that we use for research purposes. Wherever Spa Finder collects personal information we make an effort to include a link to this Privacy Policy on that page. 
+Spa Finder collects information in several ways from different parts of our website. Some personal information is gathered when you register to open an account. During registration, Spa Finder asks for your user name, password, e-mail address and zip code. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. In addition to registration, we may ask you for personal information at other times, including (but not limited to) when you enter a sweepstakes, contest or promotion sponsored by Spa Finder and/or our many partners; and when you report a problem with our site or services. If you contact Spa Finder we may keep a record of that correspondence. Spa Finder also occasionally asks users to complete surveys that we use for research purposes. Wherever Spa Finder collects personal information we make an effort to include a link to this Privacy Policy on that page. 
 
 **What are cookies and how does Spa Finder use them?**  
 "Cookies" are small text files that are used to store and sometimes track information about you. Cookies are stored by your browser on your computer's hard drive. Most browsers automatically accept cookies, but you can configure your browser to prevent that. 
@@ -29,7 +29,7 @@ Generally, we use cookies to:
 
   * Remind us of who you are and to access your account information in order to provide you with a more personalized service. 
   * Estimate our audience size. 
-  * Assist departments in Spa Finder to track visits to and business at their departments, and to process the items in your shopping bag. 
+  * Assist departments in Spa Finder to track visits to and business at their departments, and to process the items in your shopping cart. 
   * Track your entries, submissions, and status in some of our promotions, sweepstakes and contests. Spa Finder also collects IP addresses for system administration and to report aggregate information to our advertisers. 
 
 
