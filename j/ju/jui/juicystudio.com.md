@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the juicystudio.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607054120id_/http%3A//www.juicystudio.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicystudio.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224005134id_/http%3A//juicystudio.com/privacy.asp) for the most accurate reproduction.*
 
 # Juicy Studio: Privacy Policy
 
 You are here: [Home](https://web.archive.org/index.asp) > **Privacy Policy**
+
+Author: Gez Lemon 
 
 Juicy Studio has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site. No information whatsoever is passed on to third parties. 
 
@@ -26,11 +28,9 @@ By using this Web site, you are agreeing that you will not post offensive commen
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact me](https://web.archive.org/web/20040607054120id_/http%3A//www.juicystudio.com/contact.asp?subject=Privacy%20Policy "Send feedback to Juicy Studio"). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact me](https://web.archive.org/web/20041224005134id_/http%3A//juicystudio.com/contact.asp?subject=Privacy%20Policy "Send feedback to Juicy Studio"). 
 
 Best regards, Gez 
-
-[](http://validator.w3.org/check/referer) . [](http://www.w3.org/Style/CSS/Buttons) . [](http://www.w3.org/WAI/WCAG1AAA-Conformance "Explanation of Level Triple-A Conformance")
 
 Copyright © 2000-2004 Juicy Studio. All rights reserved. 
   *[IP]: Internet Protocol
