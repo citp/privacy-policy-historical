@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205033000id_/http%3A//philanthropy.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607205631id_/http%3A//www.philanthropy.com/about/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle of Philanthropy: Privacy statement
 
@@ -42,7 +42,7 @@ This site contains links to other sites. _The Chronicle_ is not responsible for 
 
 **Modifying or canceling services**
 
-You can modify information in our data base by visiting our subscriber-services page at [http://philanthropy.com/services](https://web.archive.org/services/services.htm)
+You can modify information in our data base by visiting our subscriber-services page at [http://philanthropy.com/services](https://web.archive.org/services/)
 
 You can also send an e-mail message to [help@philanthropy.com](mailto:help@philanthropy.com)
 
@@ -61,4 +61,4 @@ Or see our complete information on [contacting _The Chronicle._](https://web.arc
 
 * * *
 
-[Copyright](https://web.archive.org/about/copyright.htm) © 1999 The Chronicle of Philanthropy
+[Copyright](https://web.archive.org/about/copyright.htm) © 2001 The Chronicle of Philanthropy
