@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616051217id_/http%3A//www.familylife.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207062800id_/http%3A//www.familylife.com/about/privacy.asp) for the most accurate reproduction.*
 
-# FamilyLife Privacy Statement - FamilyLife - Strengthening families, marriages and relationships
+# About FamilyLife: Privacy Statement - FamilyLife - Strengthening families, marriages and relationships
 
 **Privacy Policy Specifics** |    
 We may use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address may also be used to help identify you and your shopping cart. 
@@ -26,11 +26,11 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can visit the following URL: <http://www.familylife.com/community/newsletter/>
+  1. You can visit the following URL: <http://www.familylife.com/resources/newsletter/>
   2. You can call the following telephone number: 1-800-FLTODAY
 
   
 **Correct/Update** |    
 This site gives users the following options for changing and modifying information previously provided. Simply call us at 1-800-FLTODAY.   
 **Contacting the Web Site** |    
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact FamilyLife ATTN: Marketing & Communications 3900 N. Rodney Parham Rd. Little Rock, AR 72212 1-800-FLTODAY [E-Mail FamilyLife](https://web.archive.org/web/20000616051217id_/http%3A//www.familylife.com/about/contact.asp)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact FamilyLife ATTN: Marketing & Communications 3900 N. Rodney Parham Rd. Little Rock, AR 72212 1-800-FLTODAY [E-Mail FamilyLife](https://web.archive.org/web/20001207062800id_/http%3A//www.familylife.com/about/contact.asp)
