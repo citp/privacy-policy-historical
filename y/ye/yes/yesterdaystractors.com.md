@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesterdaystractors.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201191922id_/http%3A//www.ytmag.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesterdaystractors.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602185608id_/http%3A//www.ytmag.com/privacy.htm) for the most accurate reproduction.*
 
 # Yesterday's Tractors - Privacy Statement
 
@@ -13,12 +13,5 @@ During the process of delivering information to you, Yesterday's Tractors does n
 If you would like additional information about the types of non-personally identifiable information that is collected by Yesterday's Tractors please [contact us](mailto:privacy@yesterdaystractors.net). 
 
 In some cases, you may voluntarily provide personal information when filling out our [Feedback Form](http://www.ytmag.com/rdrform.htm) or participating in other areas of our site. This is voluntary on your part. Yesterday's Tractors does not sell or redistribute any of this information. 
-
-Third Party Privacy Policies
-
-Yesterday's Tractors works with third party advertisers that serve advertisements to this site. To find out more about how these advertisers manage the privacy of internet users please read the following: 
-
-  * Doubleclick, Inc.: <http://www.sonar.com/content/privacy.htm>
-  * Burst! Media: <http://www.burstmedia.com/release/privacy.asp>
 
 **[[ Home ]](http://www.ytmag.com/index.htm)**
