@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217002930id_/http%3A//pantagraph.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211221016id_/http%3A//www.pantagraph.com/info/privacy.html) for the most accurate reproduction.*
 
 # Pantagraph.com - Privacy Policy
 
-**Privacy Policy**
+Privacy Policy
 
 This policy describes how Pantagraph.com collects and utilizes users' personal information.
 
@@ -30,12 +30,20 @@ Pantagraph.com opinion polls allow users to submit their opinions on various top
 
 **"Recommend this page to a friend"**
 
-Users can forward a story or page to someone else by clicking the link at the bottom of a page. The user must provide his/her email address to tell the recipient who sent the story. Users can also choose to include a message. None of this information is used or tracked for any other purpose.
+Users can forward a story or page to someone else by clicking the link at the bottom of some pages. The user must provide his/her email address to tell the recipient who sent the story. Users can also choose to include a message. None of this information is used or tracked for any other purpose.
 
 **Contests**
 
 Pantagraph.com occasionally administers contests in which participants must register. Required information always includes at least name and basic contact information. Sometimes more information is required. The rules and terms of each contest can vary. Contests may be run in cooperation with advertisers or businesses. In cases where registration information may be shared with those parties, notices will appear on the contest entry form.
 
+**Browser cookies**
+
+Cookies are tiny information files sent by some Web pages and stored by your browser. A browser stores a cookie so that it remembers whether or not to take an action the next time you visit a page. For example, a cookie might tell a pop-up window not to appear the next time you visit. Pantagraph.com uses browser cookies only to enhance functionality for visitors. Unless otherwise explicitly stated, we do not use cookies to collect a user's personal identifiable information. From our [cookie management page](https://web.archive.org/web/20021211221016id_/http%3A//www.pantagraph.com/info/cookiemanage.html) you can manage certain cookies to prevent certain pop-up windows from appearing.
+
 **Subscribing to the paper or placing a classified ad**
 
 Personal information is required to complete such transactions. The information is maintained in offline systems by the individual departments at The Pantagraph. The information is processed according to the procedures appropriate for the transaction.
+
+**Links to external sites**
+
+An external site is a Web site The Pantagraph does not control. Pantagraph.com contains links that, when clicked, may take users to external sites. Any link to a URL that does not contain the host name "pantagraph.com" might lead to an external site. The Pantagraph.com privacy policy does **not** apply to external sites. The Pantagraph is not responsible for the conduct of individuals or companies that maintain these external sites, nor is The Pantagraph responsible for the methods by which they collect or use information. Many external sites have their own privacy policies. Users are encouraged to read those policies or contact those sites' administrators to address any concerns they have about privacy at those sites.
