@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the the-dma.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603070037id_/http%3A//www.the-dma.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-dma.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204220202id_/http%3A//www.the-dma.org/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
-###  **DMA’s Online Privacy Policy**
+DMA’s Online Privacy Policy 
 
 This is a Web site of The Direct Marketing Association. Our address is:
 
@@ -16,7 +16,7 @@ You can reach us by e-mail at [customer@the-dma.org](mailto:customer@the-dma.org
 
 This policy is valid for one month from the time you visit our site. If our information practices change in the future, we will use only data collected from the time of the policy change forward for these new purposes, or we will contact you before we use your data for these new purposes and offer you the ability to opt out of these new uses.
 
-### For Web site visitors who make purchases or otherwise sign on to our site…
+For Web site visitors who make purchases or otherwise sign on to our site…
 
 When you sign on to our site or make a purchase, we collect your name, company name, contact information, profile and preference information. 
 
@@ -46,28 +46,30 @@ If you do not want to receive future e-mail from The DMA, please let us know by 
 
 **_General information_** – cookie information is used only by The DMA and our agents and is not provided to any other organization. It is used in aggregate for traffic analysis and to provide relevant information to our visitors. It is also used for Web site and system administration, including research and development, user analysis and business decision-making.
 
-### For Web site visitors who do not make purchases or otherwise identify themselves…
+For Web site visitors who do not make purchases or otherwise identify themselves…
 
 If you do not sign on to our Web site, our Web server does not have access to personally identifiable information about you. It does not know your e-mail address unless you volunteer it. At the same time, much of The DMA’s communication comes in the form of e-mail, so by not sharing your e-mail address you will have limited access to The DMA’s newsletters and other valuable information.
 
-### Clickstream Data
+Clickstream Data
 
 We collect click-stream data and HTTP protocol elements through access logs. This information is not personally identifiable and is used for Web site and system administration including: research and development, user analysis and business decision-making.
 
-### Access
+Access
 
 Upon your request, we will provide you with a description of the information that we maintain about you. We will accommodate all reasonable requests. Please contact us by e-mail at [customer@the-dma.org](mailto:customer@the-dma.org) or in writing at the above address.
 
-### Security
+Security
 
 We use industry-standard encryption technologies when transferring and receiving payment data. We have security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from or about you.
 
-### Accountability
+Accountability
 
 If you feel that The DMA, or any site, is not living up to its stated information policy, you may contact: 
 
 The DMA' s Department of Ethics and Consumer Affairs at [pfaley@the-dma.org](mailto:pfaley@the-dma.org) or call them at 202/861-2410, or
 
-The Federal Trade Commission at <http://www.ftc.gov/ftc/complain.htm> or call them at 202/FTC-HELP.
+The Federal Trade Commission at <https://rn.ftc.gov/dod/wsolcq$.startup?Z_ORG_CODE=PU01> or call them at 202/FTC-HELP.
 
-  [© Direct Marketing Association](http://www.the-dma.org/copyright.shtml) | [Privacy Statement](http://www.the-dma.org/privacy.shtml) | [Disclaimer](http://www.the-dma.org/disclaimer.shtml)
+back to top
+
+  [© Direct Marketing Association](https://web.archive.org/copyright.shtml) | [Privacy Statement](https://web.archive.org/privacy.shtml) | [Disclaimer](https://web.archive.org/disclaimer.shtml)
