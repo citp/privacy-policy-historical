@@ -1,0 +1,1015 @@
+<!--The following is the downloaded HTML source of the audi.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204124644id_/http%3A//www.audi.com/com/en/privacy_policy/privacy_policy.jsp) for the most accurate reproduction.-->
+
+<html><head xmlns:fo="http://www.w3.org/1999/XSL/Format"><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Audi World Site &gt; Privacy Policy</title>
+	  
+	<meta name="keywords" content="privacy policy">
+<script language="JavaScript" type="text/javascript">
+        
+
+
+
+
+
+document.write('<script src="/in-links/std.js" language="JavaScript"></scr'+'ipt>');
+
+
+
+
+
+
+function openMyAudiLink(link)
+{
+	var allForms = new Array("allgemein", "lob_tadel", "technische_probleme", "katalog", "driving_experience", "forum_ingolstadt", "audi_newsletter");
+	allForms["allgemein"] = "/myAudi?sequence=ContactGenReq&step=0";
+	allForms["lob_tadel"] = "/myAudi?sequence=ContactPraiseCompl&step=0";
+	allForms["technische_probleme"] = "/myAudi?sequence=ContactTechProb&step=0";
+	allForms["katalog"] = "/myAudi?sequence=ContactCatOrd&step=0";
+	allForms["driving_experience"] = "/myAudi?sequence=ContactDrEx&step=0";
+	allForms["forum_ingolstadt"] = "/myAudi?sequence=ContactFoIn";
+	allForms["audi_newsletter"] = "/myAudi?function=ContactNLInfoJsp";
+
+	if ( allForms[link] == null || allForms[link] == '' ) {
+		linkURL = "https://my.audi.com/de/de/privat" + link;
+	}
+	else {
+		linkURL = "https://my.audi.com/de/de/privat" + allForms[link];
+	}
+	myAudiLink("http://www.audi.com/com/en/privacy_policy/privacy_policy.jsp", linkURL);
+}
+
+ 
+	document.write('<script language="JavaScript" src="/include/js/global.js" type="text/javascript"></scr' + 'ipt>');
+	document.write('<script language="JavaScript" src="/include/js/rolloverimage.js" type="text/javascript"></scr' + 'ipt>');
+	document.write('<script language="JavaScript" src="/include/js/crossfeature.js" type="text/javascript"></scr' + 'ipt>');
+	document.write('<script language="JavaScript" src="/include/js/dynscale.js" type="text/javascript"></scr' + 'ipt>');
+	document.write('<script language="JavaScript" src="/include/js/init.js" type="text/javascript"></scr' + 'ipt>');
+</script><script src="/in-links/std.js" language="JavaScript"></script><script language="JavaScript" src="/include/js/global.js" type="text/javascript"></script><script language="JavaScript" src="/include/js/rolloverimage.js" type="text/javascript"></script><script language="JavaScript" src="/include/js/crossfeature.js" type="text/javascript"></script><script language="JavaScript" src="/include/js/dynscale.js" type="text/javascript"></script><script language="JavaScript" src="/include/js/init.js" type="text/javascript"></script><link rel="STYLESHEET" type="text/css" href="/include/css/styles_kon.css">
+
+<script language="JavaScript" type="text/javascript">
+                  // check if page is opened within a frame 
+        // allow questionnaire only
+        //if ( ( top != self ) && ( top.frames[0].name != "VH50XZW2SJIUVVUONMX1HLI" ) )
+        if ( top != self )
+	{
+          top.location.href = location.href;
+        }
+
+</script>
+</head><body marginwidth="0" marginheight="0">
+		
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+
+function handleCountry(formRef, mapYN){
+   	if(formRef.continent.options[formRef.continent.options.selectedIndex].value!='0'){
+	  if(formRef.country.options[formRef.country.options.selectedIndex].value!='0'){
+
+                  tc_redirect("", "/jsp/crossfeatures/countrylocator/actionmap.jsp" + "?mapSections=" + mapYN + "&countryId=" +  optionsActionArrays[formRef.continent.options.selectedIndex][formRef.country.options.selectedIndex]);
+
+  	  }else{   //alertcase: no choosable country selected !
+		  alert( replaceEscapedSequence("Please choose a country"));
+		 return false;
+	  }
+	}else{	 //alertcase: no choosable continent selected !
+		  alert( replaceEscapedSequence("Please choose a continent"));
+		 return false;
+	}
+}
+
+	function countrySelect(formRef){
+		frm = (typeof(this.form) == "object")? this.form:formRef;
+		
+		if ((frm.continent.selectedIndex < 2) || (frm.continent.selectedIndex == 3) ) {
+		  	frm.continent.selectedIndex = 0;
+                        //++Fix Issue 813 to repopulate the country list box with the initial display
+			//information when the Kontinent list entry is selected from the continent list box.
+			
+		        var countrySelectorHeaderJS = new String ("Country"); 
+			var countryInitialTextJS = new String ("Please choose a continent"); 
+		    	countrySelectorHeaderJS = replaceEscapedSequence ( countrySelectorHeaderJS );	
+			countryInitialTextJS = replaceEscapedSequence ( countryInitialTextJS );	
+		 	reloadOptionsTextArrays = new Array ( );
+		 	reloadOptionsTextArrays[reloadOptionsTextArrays.length] = new String ( countrySelectorHeaderJS );
+			reloadOptionsTextArrays[reloadOptionsTextArrays.length] = new String ( "-------------------" );
+			reloadOptionsTextArrays[reloadOptionsTextArrays.length] = new String ( countryInitialTextJS ) ;
+			var l = reloadOptionsTextArrays.length;
+			frm.country.options.length = l;
+			for (i = 0; i < l; i++)
+			{
+				var optionsText = new String (reloadOptionsTextArrays[i]);
+				var obj = new Option(optionsText, '0'); 
+				frm.country.options[i] = obj; 
+			}
+			frm.country.options[0].selected = true; 
+			//--Fix Issue 813
+			return;
+		}
+		var newOpts = optionsTextArrays[frm.continent.options.selectedIndex];
+		var l = newOpts.length;
+		frm.country.options.length = l;
+		for (var i = 0; i < l; i++){
+		  if((newOpts[i]== replaceEscapedSequence('Country')) || (newOpts[i]=='-------------------')){
+			  var obj = new Option(newOpts[i], '0');
+			}else{
+			  var obj = new Option(newOpts[i], newOpts[i]);
+			}  
+			frm.country.options[i] = obj;
+		}
+		frm.country.options[0].selected = true;
+	}
+	
+	optionsTextArrays = new Array();
+	optionsActionArrays = new Array();
+	optionsTextArrays[optionsTextArrays.length] = new Array(null);
+	optionsTextArrays[optionsTextArrays.length] = new Array(null);
+	
+		optionsTextArrays[optionsTextArrays.length] = new Array( replaceEscapedSequence('Country'), '-------------------', 'Canada','Mexico','USA');
+	 optionsTextArrays[optionsTextArrays.length] = new Array(null)
+
+		optionsTextArrays[optionsTextArrays.length] = new Array( replaceEscapedSequence('Country'), '-------------------', 'Angola','Egypt','Ghana','Ivory Coast','Kenya','Libya','Madagascar','Mauritius','Middle East','Morocco','Reunion','South Africa','Tunisia');
+	 
+		optionsTextArrays[optionsTextArrays.length] = new Array( replaceEscapedSequence('Country'), '-------------------', 'Azerbaijan','Bahrain','China - Beijing','China - Hong Kong','India','Indonesia','Israel','Japan','Jordan','Kazakhstan','Korea, Republic of','Kuwait','Lebanon','Malaysia','Middle East','Nepal','Oman','Palestine','Philippines','Qatar','Saudi Arabia','Singapore','Sri Lanka','Syrian Arab Republic','Taiwan','Thailand','UAE - Abu Dhabi','UAE - Dubai','Yemen');
+	 
+		optionsTextArrays[optionsTextArrays.length] = new Array( replaceEscapedSequence('Country'), '-------------------', 'Australia','French Polynesia','Guam','New Caledonia','New Zealand','Tahiti');
+	 
+		optionsTextArrays[optionsTextArrays.length] = new Array( replaceEscapedSequence('Country'), '-------------------', 'Argentina','Barbados','Bolivia','Brazil','Chile','Colombia','Costa Rica','Curacao','Dominican Republic','Ecuador','French Guyana','Guadeloupe','Guatemala','Honduras','Jamaica','Martinique','Panama','Paraguay','Peru','Puerto Rico','Trinidad','Uruguay','Venezuela');
+	 
+		optionsTextArrays[optionsTextArrays.length] = new Array( replaceEscapedSequence('Country'), '-------------------', 'Austria','Belarus','Belgium','Bosnia & Herzegovina','Bulgaria','Canary Islands','Croatia','Cyprus','Czech Republic','Denmark','Estonia','Finland','France','FYROM (Macedonia)','Germany','Gibraltar','Greece','Hungary','Iceland','Ireland','Italy','Latvia','Lithuania','Luxembourg','Malta','Netherlands','Norway','Poland','Portugal','Romania','Russian Federation','Serbia and Montenegro','Slovakia','Slovenia','Spain','Sweden','Switzerland','Turkey','Ukraine','United Kingdom');
+	 	
+	optionsActionArrays[optionsActionArrays.length] = new Array(null);
+	optionsActionArrays[optionsActionArrays.length] = new Array(null);
+	
+		optionsActionArrays[optionsActionArrays.length] = new Array('', '', 'Canada.com.en','Mexico.com.en','USA.com.en');
+	 optionsActionArrays[optionsActionArrays.length] = new Array(null)
+
+		optionsActionArrays[optionsActionArrays.length] = new Array('', '', 'Angola.com.en','Egypt.com.en','Ghana.com.en','Ivory+Coast.com.en','Kenya.com.en','Libya.com.en','Madagascar.com.en','Mauritius.com.en','Middle+East.com.en','Morocco.com.en','Reunion.com.en','South+Africa.com.en','Tunisia.com.en');
+	 
+		optionsActionArrays[optionsActionArrays.length] = new Array('', '', 'Azerbaijan.com.en','Bahrain.com.en','China+-+Beijing.com.en','China+-+Hong+Kong.com.en','India.com.en','Indonesia.com.en','Israel.com.en','Japan.com.en','Jordan.com.en','Kazakhstan.com.en','Korea%2C+Republic+of.com.en','Kuwait.com.en','Lebanon.com.en','Malaysia.com.en','Middle+East.com.en','Nepal.com.en','Oman.com.en','Palestine.com.en','Philippines.com.en','Qatar.com.en','Saudi+Arabia.com.en','Singapore.com.en','Sri+Lanka.com.en','Syrian+Arab+Republic.com.en','Taiwan.com.en','Thailand.com.en','UAE+-+Abu+Dhabi.com.en','UAE+-+Dubai.com.en','Yemen.com.en');
+	 
+		optionsActionArrays[optionsActionArrays.length] = new Array('', '', 'Australia.com.en','French+Polynesia.com.en','Guam.com.en','New+Caledonia.com.en','New+Zealand.com.en','Tahiti.com.en');
+	 
+		optionsActionArrays[optionsActionArrays.length] = new Array('', '', 'Argentina.com.en','Barbados.com.en','Bolivia.com.en','Brazil.com.en','Chile.com.en','Colombia.com.en','Costa+Rica.com.en','Curacao.com.en','Dominican+Republic.com.en','Ecuador.com.en','French+Guyana.com.en','Guadeloupe.com.en','Guatemala.com.en','Honduras.com.en','Jamaica.com.en','Martinique.com.en','Panama.com.en','Paraguay.com.en','Peru.com.en','Puerto+Rico.com.en','Trinidad.com.en','Uruguay.com.en','Venezuela.com.en');
+	 
+		optionsActionArrays[optionsActionArrays.length] = new Array('', '', 'Austria.com.en','Belarus.com.en','Belgium.com.en','Bosnia+%26+Herzegovina.com.en','Bulgaria.com.en','Canary+Islands.com.en','Croatia.com.en','Cyprus.com.en','Czech+Republic.com.en','Denmark.com.en','Estonia.com.en','Finland.com.en','France.com.en','FYROM+%28Macedonia%29.com.en','Germany.com.en','Gibraltar.com.en','Greece.com.en','Hungary.com.en','Iceland.com.en','Ireland.com.en','Italy.com.en','Latvia.com.en','Lithuania.com.en','Luxembourg.com.en','Malta.com.en','Netherlands.com.en','Norway.com.en','Poland.com.en','Portugal.com.en','Romania.com.en','Russian+Federation.com.en','Serbia+and+Montenegro.com.en','Slovakia.com.en','Slovenia.com.en','Spain.com.en','Sweden.com.en','Switzerland.com.en','Turkey.com.en','Ukraine.com.en','United+Kingdom.com.en');
+	 
+	  //--Fix for issue #875 
+		initObjs[initObjs.length]="var tmpfrm=findObj('clocform'); if(tmpfrm){ if(tmpfrm.continent.options[tmpfrm.continent.options.selectedIndex].value!='0') countrySelect(tmpfrm);}";
+		initObjs[initObjs.length]="var tmpfrm=findObj('maincontentform'); if(tmpfrm){ if(tmpfrm.continent && tmpfrm.country) { if (tmpfrm.continent.options[tmpfrm.continent.options.selectedIndex].value!='0') countrySelect(tmpfrm);}}";
+		
+	 
+</script>
+
+	<!--templatename= S2--><script type="text/javascript" language="JavaScript1.2">
+				var table = '<' + 'table border="0" cellspacing="0" cellpadding="0" width="100%" ';
+				if ((is.ns4) && (is.os == 'pc')) 
+					table += 'height="103%"';
+				else
+					table += 'height="100%"';
+				table += '>';
+				document.write(table);			
+				</script><noscript><table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%"></noscript><table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
+
+<tbody><tr>
+<form method="post" name="maincontentform" action=""></form>
+<td height="1" valign="top" align="left" width="99%"><img border="0" alt="" height="15" width="479" src="/imgs/glob/misc/greyline_479_15.gif"><br>
+<div style="width:319px;height:80px;" id="ds010001" tmpmid="tmpMN46">
+<img height="80" width="319" border="0" alt="" src="/cf/imgs/com/en/privacy_policy/privacy_policy/101897306066415330.gif"></div>
+<img border="0" height="1" width="479" src="/imgs/glob/misc/s.gif"><br>
+<!--TABLECREATOR MODE: publish-->
+<table xmlns:fo="http://www.w3.org/1999/XSL/Format" width="0" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="top">
+<searchable>
+<div id="ds001" tmpmid="tmpMN5B">
+<!--m091-->
+<table class="bg1" cellspacing="0" cellpadding="0" height="71" width="320" border="0">
+<tbody><tr>
+<td height="10" width="20"><img width="20" height="10" src="/imgs/glob/misc/x_1_1.gif"></td><td height="10" width="80"><img width="80" height="10" src="/imgs/glob/misc/x_1_1.gif"></td><td height="10" width="20"><img width="20" height="10" src="/imgs/glob/misc/x_1_1.gif"></td><td height="10" width="100"><img width="100" height="10" src="/imgs/glob/misc/x_1_1.gif"></td><td height="10" width="20"><img width="20" height="10" src="/imgs/glob/misc/x_1_1.gif"></td><td height="10" width="69"><img width="69" height="10" src="/imgs/glob/misc/x_1_1.gif"></td><td height="10" width="10"><img width="10" height="10" src="/imgs/glob/misc/x_1_1.gif"></td><td class="bg4" rowspan="9999" height="1" width="1"><img border="0" height="1" width="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td align="right" valign="top"><img width="20" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td class="tx3" align="left" valign="top">Privacy Policy<br></td><td colspan="2"></td><td colspan="2"></td><td><img width="10" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td height="30" width="319" colspan="7"><img width="319" height="30" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<img border="0" height="1" width="320" src="/imgs/glob/misc/x_1_1.gif"><br>
+<!--/m091-->
+</div>
+</searchable>
+</td><td valign="top">
+<searchable>
+<div id="ds011" tmpmid="tmpMN8C">
+<!--m053-->
+		
+		
+	<table width="160" height="71" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td colspan="3" height="10" width="159" class="bg1"><img width="159" height="10" src="/imgs/glob/misc/x_1_1.gif"></td><td rowspan="9999" height="1" width="1"><img border="0" height="1" width="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr class="bg1">
+<td align="right" valign="top" height="57" width="20"><a href="/com/en/home.jsp"><img border="0" align="top" height="10" width="11" src="/imgs/glob/misc/linkarrow_11_10.gif"></a></td><td class="tx3" valign="top" height="57" width="139"><a href="/com/en/home.jsp">Exit Privacy Policy</a></td><td height="57" width="10"><img width="10" height="57" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<img border="0" height="1" width="160" src="/imgs/glob/color/white_160_1.gif"><br>
+<!--/m053-->
+</div>
+</searchable>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="320" align="left" valign="top">
+<searchable>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds01001" tmpmid="tmpMN9C">
+<!--m092-->
+
+	<a name="m092_1"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr class="bg2">
+<td height="35" width="20"><img width="20" height="35" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" valign="top" width="289"><img border="0" src="/cf/imgs/com/en/privacy_policy/privacy_policy/10213910662278179.gif" width="289" height="35"></td><td width="9"><img width="9" height="35" src="/imgs/glob/misc/x_1_1.gif"></td><td class="bg4" rowspan="999"><img border="0" height="1" width="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td>
+<div class="sdiv" id="ns002"></div>
+</td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top">The important information about the privacy policy can be found – per subject – with the following links.<br><img width="1" height="12" src="/imgs/glob/misc/x_1_1.gif"></td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td align="right" valign="top"><a href="#m141_1"><img align="top" border="0" height="13" width="11" src="/imgs/glob/misc/linkarrow_11_13.gif"></a></td><td colspan="2" class="tx3" valign="top"><a href="#m141_1">Information on data protection</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td align="right" valign="top"><a href="#m141_2"><img align="top" border="0" height="13" width="11" src="/imgs/glob/misc/linkarrow_11_13.gif"></a></td><td colspan="2" class="tx3" valign="top"><a href="#m141_2">Why we use data</a>
+<br>
+<img width="1" height="12" src="/imgs/glob/misc/x_1_1.gif"><br>
+</td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td height="4" colspan="4"><img width="319" height="4" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m092-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds01011" tmpmid="tmpMNE2">
+<!--m092-->
+
+	<a name="m092_2"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td>
+<div class="sdiv" id="ns002"></div>
+</td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top"><img width="1" height="12" src="/imgs/glob/misc/x_1_1.gif"></td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td align="right" valign="top"><a href="#m141_3"><img align="top" border="0" height="13" width="11" src="/imgs/glob/misc/linkarrow_11_13.gif"></a></td><td colspan="2" class="tx3" valign="top"><a href="#m141_3">General information</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td align="right" valign="top"><a href="#m141_4"><img align="top" border="0" height="13" width="11" src="/imgs/glob/misc/linkarrow_11_13.gif"></a></td><td colspan="2" class="tx3" valign="top"><a href="#m141_4">Personal information</a>
+<br>
+<img width="1" height="12" src="/imgs/glob/misc/x_1_1.gif"><br>
+</td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td height="4" colspan="4"><img width="319" height="4" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m092-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds01021" tmpmid="tmpMN127">
+<!--m092-->
+
+	<a name="m092_3"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td>
+<div class="sdiv" id="ns002"></div>
+</td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top"><img width="1" height="12" src="/imgs/glob/misc/x_1_1.gif"></td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td align="right" valign="top"><a href="#m141_5"><img align="top" border="0" height="13" width="11" src="/imgs/glob/misc/linkarrow_11_13.gif"></a></td><td colspan="2" class="tx3" valign="top"><a href="#m141_5">The use of cookies</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td align="right" valign="top"><a href="#m141_6"><img align="top" border="0" height="13" width="11" src="/imgs/glob/misc/linkarrow_11_13.gif"></a></td><td colspan="2" class="tx3" valign="top"><a href="#m141_6">Security</a>
+<br>
+<img width="1" height="12" src="/imgs/glob/misc/x_1_1.gif"><br>
+</td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td height="4" colspan="4"><img width="319" height="4" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m092-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds01031" tmpmid="tmpMN16C">
+<!--m092-->
+
+	<a name="m092_4"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td>
+<div class="sdiv" id="ns002"></div>
+</td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top"><img width="1" height="12" src="/imgs/glob/misc/x_1_1.gif"></td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td align="right" valign="top"><a href="#m141_7"><img align="top" border="0" height="13" width="11" src="/imgs/glob/misc/linkarrow_11_13.gif"></a></td><td colspan="2" class="tx3" valign="top"><a href="#m141_7">Contact</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td align="right" valign="top"><a href="#m141_8"><img align="top" border="0" height="13" width="11" src="/imgs/glob/misc/linkarrow_11_13.gif"></a></td><td colspan="2" class="tx3" valign="top"><a href="#m141_8">Public notification procedure (section 4g and section 4e of the BDSG – Federal Data Protection Act)</a>
+<br>
+<img width="1" height="12" src="/imgs/glob/misc/x_1_1.gif"><br>
+</td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td height="4" colspan="4"><img width="319" height="4" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m092-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds01041" tmpmid="tmpM"></div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds02001" tmpmid="tmpMN1B1">
+<!--m141 (variant n-n-w)-->
+
+	<a name="m141_1"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr class="bg2">
+<td height="35"><img width="20" height="35" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" valign="top" height="35"><img border="0" src="/cf/imgs/com/en/privacy_policy/privacy_policy/101896909987915247.gif" width="289" height="35"></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td class="bg4" rowspan="999"><img border="0" height="1" width="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td><spacer type="block" width="1" height="1"><div class="sdiv" id="ns002"></div>
+</spacer></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="77" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top">For AUDI AG, the protection of personal data is of utmost importance. We would therefore like to inform you how we protect your privacy when you give your personal data to us. <br>It goes without saying that we shall comply with data protection regulations, but in addition, in giving you the following information, we would like to commit ourselves to using your data in a responsible way, making sure that your privacy is protected at any time. We want you to feel good and safe when visiting our web pages.<br><br>
+</td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="1" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td align="right" colspan="2" class="tx3" valign="top"><a href="#top"><img border="0" src="/imgs/glob/misc/up_11_13.gif">&nbsp;Top of Page</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="319" height="4" colspan="4"><img width="319" height="7" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m141-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds02011" tmpmid="tmpMN200">
+<!--m141 (variant n-n-w)-->
+
+	<a name="m141_2"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr class="bg2">
+<td height="35"><img width="20" height="35" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" valign="top" height="35"><img border="0" src="/cf/imgs/com/en/privacy_policy/privacy_policy/101896909988915248.gif" width="289" height="35"></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td class="bg4" rowspan="999"><img border="0" height="1" width="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td><spacer type="block" width="1" height="1"><div class="sdiv" id="ns002"></div>
+</spacer></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="77" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top">We want to constantly improve our service and make our online service more attractive for you. Only if we know which subareas of our internet pages are visited most and for the longest time, we can optimize the contents of the AUDI web pages according to your demands. Personal information is used by AUDI AG for marketing, for attracting prospective customers, for conducting surveys and providing information. <br>The better we understand what you want, the faster you will find the desired information on our internet pages.<br><br>
+</td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="1" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td align="right" colspan="2" class="tx3" valign="top"><a href="#top"><img border="0" src="/imgs/glob/misc/up_11_13.gif">&nbsp;Top of Page</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="319" height="4" colspan="4"><img width="319" height="7" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m141-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds02021" tmpmid="tmpMN24F">
+<!--m141 (variant n-n-w)-->
+
+	<a name="m141_3"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr class="bg2">
+<td height="35"><img width="20" height="35" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" valign="top" height="35"><img border="0" src="/cf/imgs/com/en/privacy_policy/privacy_policy/101896909989815249.gif" width="289" height="35"></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td class="bg4" rowspan="999"><img border="0" height="1" width="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td><spacer type="block" width="1" height="1"><div class="sdiv" id="ns002"></div>
+</spacer></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="77" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top">If you visit the web pages of AUDI AG, information of general nature is collected automatically. This information includes, for example, such things as the kind of web browser, the operating system which is used, or the domain names of your internet service providers. Exclusively such information is collected which does not allow any conclusions as to your identity. Besides, these data are also generated when visiting any other web page on the internet, i. e. this is not a function specific of the AUDI internet pages. This kind of information is collected exclusively in an anonymizated way and interpreted by us for statistical purposes.<br><br>
+</td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="1" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td align="right" colspan="2" class="tx3" valign="top"><a href="#top"><img border="0" src="/imgs/glob/misc/up_11_13.gif">&nbsp;Top of Page</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="319" height="4" colspan="4"><img width="319" height="7" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m141-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds02031" tmpmid="tmpMN29E">
+<!--m141 (variant n-n-w)-->
+
+	<a name="m141_4"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr class="bg2">
+<td height="35"><img width="20" height="35" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" valign="top" height="35"><img border="0" src="/cf/imgs/com/en/privacy_policy/privacy_policy/101896909996215250.gif" width="289" height="35"></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td class="bg4" rowspan="999"><img border="0" height="1" width="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td><spacer type="block" width="1" height="1"><div class="sdiv" id="ns002"></div>
+</spacer></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="77" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top">If you are asked to give personal information on our pages, such as for example your name, address or phone number, this is subject to special provisions, which are indicated to you in the following wording:<br>We will use these data for marketing purposes for AUDI AG, to attract prospective customers, conduct surveys and provide information. Your data will not be passed on to any third parties. This shall not apply to service providers acting on behalf of AUDI AG, or third parties such as the Audi trade organization and affiliates and subsidiary companies of the Audi group. Apart from the data which you give to us, we will use information derived from the way in which you use our service to be able to lead you to the information which could be interesting for you as fast as possible, and to constantly optimize our service. You will find further information on the subject of the protection of data privacy under the rubric „data protection“ on our internet pages.<br><br>
+</td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="1" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td align="right" colspan="2" class="tx3" valign="top"><a href="#top"><img border="0" src="/imgs/glob/misc/up_11_13.gif">&nbsp;Top of Page</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="319" height="4" colspan="4"><img width="319" height="7" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m141-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds02041" tmpmid="tmpMN2ED">
+<!--m141 (variant n-n-w)-->
+
+	<a name="m141_5"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr class="bg2">
+<td height="35"><img width="20" height="35" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" valign="top" height="35"><img border="0" src="/cf/imgs/com/en/privacy_policy/privacy_policy/101896909997515251.gif" width="289" height="35"></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td class="bg4" rowspan="999"><img border="0" height="1" width="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td><spacer type="block" width="1" height="1"><div class="sdiv" id="ns002"></div>
+</spacer></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="77" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top">Cookies are text files containing information which makes it possible to identify repeated visitors exclusively for the duration of their visit to our web pages. Cookies are stored on the hard disk of your computer and do not cause any damage there. The cookies of our internet pages do not contain any personal data on you. Cookies will save you having to enter data several times, facilitate the transmission of specific contents and will help us to identify those parts of our online service that are particularly popular. This will enable us, among other things, to adapt our web pages exactly to your requirements. <br>If you want, you can deactivate the use of cookies any time by changing the preferences of your browser. Please use the help functions of your internet browser to see how you can make these changes.<br><br>
+</td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="1" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td align="right" colspan="2" class="tx3" valign="top"><a href="#top"><img border="0" src="/imgs/glob/misc/up_11_13.gif">&nbsp;Top of Page</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="319" height="4" colspan="4"><img width="319" height="7" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m141-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds02051" tmpmid="tmpMN33C">
+<!--m141 (variant n-n-w)-->
+
+	<a name="m141_6"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr class="bg2">
+<td height="35"><img width="20" height="35" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" valign="top" height="35"><img border="0" src="/cf/imgs/com/en/privacy_policy/privacy_policy/101896909998715252.gif" width="289" height="35"></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td class="bg4" rowspan="999"><img border="0" height="1" width="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td><spacer type="block" width="1" height="1"><div class="sdiv" id="ns002"></div>
+</spacer></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="77" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top">AUDI AG employs technical and organizational security measures to protect the personal data you give to us from any deliberate or undeliberate manipulation, loss, destruction or access by unauthorized persons. Our security measures are improved and adapted on a regular basis according to the state of the art.<br><br>
+</td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="1" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td align="right" colspan="2" class="tx3" valign="top"><a href="#top"><img border="0" src="/imgs/glob/misc/up_11_13.gif">&nbsp;Top of Page</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="319" height="4" colspan="4"><img width="319" height="7" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m141-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds02061" tmpmid="tmpMN38B">
+<!--m141 (variant n-n-w)-->
+
+	<a name="m141_7"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr class="bg2">
+<td height="35"><img width="20" height="35" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" valign="top" height="35"><img border="0" src="/cf/imgs/com/en/privacy_policy/privacy_policy/101896910013315253.gif" width="289" height="35"></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td class="bg4" rowspan="999"><img border="0" height="1" width="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td><spacer type="block" width="1" height="1"><div class="sdiv" id="ns002"></div>
+</spacer></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="77" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top">If you have any queries, requests or complaints on the subject of data protection, please do not hesitate to contact our data protection officer:<br><br>AUDI AG<br>Norbert Ziesler<br>I/GO<br>D-85045 Ingolstadt<br><br><br><br>
+</td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="1" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td align="right" colspan="2" class="tx3" valign="top"><a href="#top"><img border="0" src="/imgs/glob/misc/up_11_13.gif">&nbsp;Top of Page</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="319" height="4" colspan="4"><img width="319" height="7" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m141-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds02071" tmpmid="tmpMN3DA">
+<!--m141 (variant n-n-w)-->
+
+	<a name="m141_8"></a>
+
+<table class="bg3" cellspacing="0" cellpadding="0" width="319" border="0">
+<tbody><tr class="bg2">
+<td height="35"><img width="20" height="35" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" valign="top" height="35"><img border="0" src="/cf/imgs/com/en/privacy_policy/privacy_policy/101896910014615254.gif" width="289" height="35"></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td class="bg4" rowspan="999"><img border="0" height="1" width="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="20" height="5" src="/imgs/glob/misc/x_1_1.gif"></td><td><img width="289" height="1" src="/imgs/glob/misc/x_1_1.gif"><br>
+<div class="sdiv" id="ns001">
+<img width="161" height="5" src="/imgs/glob/misc/x_1_1.gif"></div>
+</td><td><spacer type="block" width="1" height="1"><div class="sdiv" id="ns002"></div>
+</spacer></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="20"><img width="20" height="77" src="/imgs/glob/misc/x_1_1.gif"></td><td colspan="2" class="tx3" valign="top">The data protection officer herewith makes the information required by law available to everybody.<br><br>Name of the responsible corporate body:<br>AUDI AG<br><br>Managing Board:<br>Dr. Martin Winterkorn&nbsp; (President of the Board)<br>Ralph Weyler<br>Dr. Jochem Heizmann<br>Dr. h.c. Andreas Schleef<br>Erich Schmitt<br>Dr. Horst Neumann<br>Rupert Stadler<br><br>Data Processing<br>Manager in charge:<br>Klaus Hardy Mühleck<br><br>Address of the responsible corporate body:<br>AUDI AG<br>D-85045 Ingolstadt<br><br>Defined purpose of the collection, processing or use of&nbsp; data:<br><br>The object of the company is the development, manufacturing and the distribution of motor vehicles, of vehicles and engines of all kinds, of the accessories that go with these, and of all machines, tools and other technical articles. (extract from article 2 of the certificate of incorporation of AUDI AG)<br><br>Specification of the group of persons concerned and the corresponding data or data categories:<br><br>Customer data, staff data and necessary data of associated companies which serve the purpose. <br><br>Recipients or categories of recipients to whom the data can be disclosed:<br><br>Public bodies in the sense of a priority legal provision Contractors in the sense of a partnership according to Section 11 of the BDSG (German Data Protection Act) Companies and dealer organisations for serving the purpose.<br><br>Standard periods for the deleting of the data:<br>Pursuant to legal provisions, a variety of retention obligations and periods are applicable. On the expiry of these periods, the data concerned are deleted as a matter or routine. <br><br>Planned data transmission to third countries:<br>There are no plans for a data transmission to third countries.<br><br>AUDI AG<br>Data Protection Officer:&nbsp; <br><br>as at 11/2003<br><br><br><br><br><br><br>
+</td><td width="9"><img width="9" height="1" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td><img width="1" height="1" src="/imgs/glob/misc/x_1_1.gif"></td><td align="right" colspan="2" class="tx3" valign="top"><a href="#top"><img border="0" src="/imgs/glob/misc/up_11_13.gif">&nbsp;Top of Page</a></td><td><img width="9" height="5" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td width="319" height="4" colspan="4"><img width="319" height="7" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+<tr>
+<td class="bg4" colspan="4"><img border="0" height="1" width="160" src="/imgs/glob/misc/x_1_1.gif"></td>
+</tr>
+</tbody></table>
+<!--/m141-->
+</div>
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" class="sdiv" id="ds02081" tmpmid="tmpM"></div>
+</searchable>
+</td><td width="99%" align="left" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td valign="top"></td><td width="1"><img width="1" height="240" alt="" src="/imgs/glob/misc/s.gif"></td><td valign="top" align="right">
+<!--page level navigation-->
+      
+   
+       
+   <table xmlns:fo="http://www.w3.org/1999/XSL/Format" width="159" border="0" cellspacing="0" cellpadding="0"></table>
+<!--/page level navigation-->
+</td>
+</tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td valign="top" align="left"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<searchable></searchable>
+</td>
+
+<td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" class="greygrid" valign="top" align="left"><img border="0" alt="" height="96" width="13" src="/imgs/glob/color/white_1_1.gif"><br>
+<table height="71" class="bg1" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td height="71" bgcolor="#e1e1e1"><img border="0" alt="" height="71" width="13" src="/imgs/glob/color/e1e1e1.gif"></td>
+</tr>
+</tbody></table>
+<img border="0" alt="" height="1" width="13" src="/imgs/glob/color/white_1_1.gif"><br>
+<img width="13" src="/imgs/glob/misc/x_1_1.gif"></td><td rowspan="2" class="bg5" valign="top" align="left" width="1%"><a onclick="javascript:tc_log('brandportal_de_de_logo', '', ''); return false;" href="#"><img border="0" alt="Audi logo" height="96" width="120" src="/imgs/glob/misc/logo.gif"></a><img src="/imgs/glob/color/white_1_1.gif" width="3" height="96" alt="" border="0"><br><ilayer id="bCumb" visibility="hide"><table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td class="bg1"><img border="0" alt="" height="23" width="123" src="/imgs/glob/misc/s.gif"></td>
+</tr>
+</tbody></table>
+<img height="22" width="120" border="0" alt="" src="/imgs/glob/color/E1E1E1_1_1.gif"><img src="/imgs/glob/color/e1e1e1.gif" width="3" height="22" alt="" border="0"><br>
+<img height="22" width="120" border="0" alt="" src="/imgs/glob/color/E1E1E1_1_1.gif"><img src="/imgs/glob/color/e1e1e1.gif" width="3" height="22" alt="" border="0"><br>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td class="bg1"><img border="0" alt="" height="4" width="123" src="/imgs/glob/misc/s.gif"></td>
+</tr>
+</tbody></table></ilayer><img border="0" alt="" height="1" width="123" src="/imgs/glob/color/white_1_1.gif"><br>
+<img height="9" width="11" src="/imgs/glob/misc/s.gif"><br>
+		
+		
+		
+		
+                
+			<!--
+			Main Nav
+			-->
+			<script language="JavaScript1.2" type="text/javascript">
+	
+			<!--
+
+			var navSet  = new Array();
+			var navSet2 = new Array();
+		
+	        var sa=["home","new_cars","used_cars","customer_service","experience","financial_services","car_accessories","lifestyle_articles","company","contact","sitemap"];        
+			var sb=[replaceDoublyEscapedSequence( "_Home"), replaceDoublyEscapedSequence( "_New Cars"), replaceDoublyEscapedSequence( "_Used Cars"), replaceDoublyEscapedSequence( "_Customer Service"), replaceDoublyEscapedSequence( "_Experience"), replaceDoublyEscapedSequence( "_Financial Services"), replaceDoublyEscapedSequence( "_Car Accessories"), replaceDoublyEscapedSequence( "_Lifestyle Articles"), replaceDoublyEscapedSequence( "_Company"), replaceDoublyEscapedSequence( "_Contact"), replaceDoublyEscapedSequence( "_Sitemap")];
+		 
+			for(var i = 0; i < 11; i++)
+			{	
+				navSet[i]  = new ROI("globnav" + i, "/imgs/com/en/globalnav/globnav" + "_" + i, "gif", sb[i], 0, 3);
+				navSet2[i] = new ROI("nbar" + i, "/imgs/glob/misc/nbar", "gif", sb[i], 0, 3);
+			}	
+
+			var nv = new setofROI( [navSet, navSet2], ["nav", "nav"]);
+			
+			// initialize this onload:
+			var j = initObjs.length; 
+
+			initObjs[j] = "nv.cl(0,true);"; //put in whatever global var stores the current section
+				
+			//-->
+			</script>
+                
+	
+	
+	<div id="menuNs" class="shiftleft"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="2" valign="top" bgcolor="#e1e1e1"><img src="/imgs/glob/misc/s.gif" width="2" height="8" alt="" border="0"><br></td><td background="/imgs/glob/bgrd/rightdark_132_6_2.gif" width="120"><a href="/com/en/home.jsp" alt="Home" onmouseover="nv.hi(0); return true;" onmouseout="nv.lo(0);"><img name="nbar0" src="https://web.archive.org/imgs/glob/misc/nbar_02.gif" width="19" height="20" alt="" border="0"><img name="globnav0" src="https://web.archive.org/imgs/com/en/globalnav/globnav_0_02.gif" width="99" height="20" alt="" border="0"></a><br><a href="/com/en/new_cars/new_cars.jsp" alt="New Cars" onmouseover="nv.hi(1); return true;" onmouseout="nv.lo(1);"><img name="nbar1" src="/imgs/glob/misc/nbar_00.gif" width="19" height="20" alt="" border="0"><img name="globnav1" src="/imgs/com/en/globalnav/globnav_1_00.gif" width="99" height="20" alt="" border="0"></a><br><a href="/com/en/used_cars/used_cars.jsp" alt="Used Cars" onmouseover="nv.hi(2); return true;" onmouseout="nv.lo(2);"><img name="nbar2" src="/imgs/glob/misc/nbar_00.gif" width="19" height="20" alt="" border="0"><img name="globnav2" src="/imgs/com/en/globalnav/globnav_2_00.gif" width="99" height="20" alt="" border="0"></a><br><a href="/com/en/customer_service/customer_service.jsp" alt="Customer Service" onmouseover="nv.hi(3); return true;" onmouseout="nv.lo(3);"><img name="nbar3" src="/imgs/glob/misc/nbar_00.gif" width="19" height="20" alt="" border="0"><img name="globnav3" src="/imgs/com/en/globalnav/globnav_3_00.gif" width="99" height="20" alt="" border="0"></a><br><a href="/com/en/experience/experience.jsp" alt="Experience" onmouseover="nv.hi(4); return true;" onmouseout="nv.lo(4);"><img name="nbar4" src="/imgs/glob/misc/nbar_00.gif" width="19" height="20" alt="" border="0"><img name="globnav4" src="/imgs/com/en/globalnav/globnav_4_00.gif" width="99" height="20" alt="" border="0"></a><br><a href="/com/en/financial_services/financial_services.jsp" alt="Financial Services" onmouseover="nv.hi(5); return true;" onmouseout="nv.lo(5);"><img name="nbar5" src="/imgs/glob/misc/nbar_00.gif" width="19" height="20" alt="" border="0"><img name="globnav5" src="/imgs/com/en/globalnav/globnav_5_00.gif" width="99" height="20" alt="" border="0"></a><br><a href="/com/en/car_accessories/car_accessories.jsp" alt="Car Accessories" onmouseover="nv.hi(6); return true;" onmouseout="nv.lo(6);"><img name="nbar6" src="/imgs/glob/misc/nbar_00.gif" width="19" height="20" alt="" border="0"><img name="globnav6" src="/imgs/com/en/globalnav/globnav_6_00.gif" width="99" height="20" alt="" border="0"></a><br><a href="/com/en/lifestyle_articles/lifestyle_articles.jsp" alt="Lifestyle Articles" onmouseover="nv.hi(7); return true;" onmouseout="nv.lo(7);"><img name="nbar7" src="/imgs/glob/misc/nbar_00.gif" width="19" height="20" alt="" border="0"><img name="globnav7" src="/imgs/com/en/globalnav/globnav_7_00.gif" width="99" height="20" alt="" border="0"></a><br><a href="/com/en/company/company.jsp" alt="Company" onmouseover="nv.hi(8); return true;" onmouseout="nv.lo(8);"><img name="nbar8" src="/imgs/glob/misc/nbar_00.gif" width="19" height="20" alt="" border="0"><img name="globnav8" src="/imgs/com/en/globalnav/globnav_8_00.gif" width="99" height="20" alt="" border="0"></a><br></td></tr></tbody></table></div>
+
+<!-- start cross features --><script language="JavaScript" type="text/javascript">
+	var sb = ["+Suche", "+Kalender", "+Lexikon", "+CountrySelector"];
+	var noOfTabs = 4;
+	var ctab  = new Array();
+	var chead = new Array();
+	var ched2 = new Array();
+	var calhead = new Array();
+	for(var i = 0; i < noOfTabs; i++)
+	{	
+	ctab[i]  = new ROI("ic" + i, "/imgs/glob/cross/crs" + i + "_29_19", "gif", sb[i], 0, 3);
+	chead[i] = new ROI("ch", "/imgs/com/en/crossfeatures/cftabhead_com_en_" + i,
+		"gif", sb[i], 0, 2); 
+	ched2[i] = new ROI("cselecthead", "/imgs/com/en/crossfeatures/cftabhead_com_en_" + i,
+		"gif", sb[i], 0, 2);
+	calhead[i] = new ROI("calhead", "/imgs/com/en/crossfeatures/cftabhead_com_en_" + i,
+		"gif", sb[i], 0, 2);
+	}
+	cs = new setofROI([chead, ched2, calhead, ctab], ["head", "head", "head", "tab"]);
+	var j = initObjs.length;
+	initObjs[j] = "cf = new crossFeature('ch', 'dcross', " + noOfTabs + ", cs);";
+	initObjs[j+1] = "cf.cl(0);";
+	// Fix Netscape 4 bug
+	var offsetImgHeight = (document.layers)? 13:31;
+	document.write('<a name="crossOffset"><img src="/imgs/glob/misc/s.gif" width="13" height="' + offsetImgHeight + '" border="0"></a><br>');
+</script><a name="crossOffset"><img src="/imgs/glob/misc/s.gif" width="13" height="31" border="0"></a><br><a href="#" onclick="cf.cl(0); return false;" onmouseover="cs.hi(0); return true;" onmouseout="cs.lo(0); return true;"><img name="ic0" src="https://web.archive.org/imgs/glob/cross/crs0_29_19_02.gif" width="29" height="19" border="0"></a><a href="#" onclick="cf.cl(1); return false;" onmouseover="cs.hi(1); return true;" onmouseout="cs.lo(1); return true;"><img name="ic1" src="https://web.archive.org/imgs/glob/cross/crs1_29_19_00.gif" width="29" height="19" border="0"></a><a href="#" onclick="cf.cl(2); return false;" onmouseover="cs.hi(2); return true;" onmouseout="cs.lo(2); return true;"><img name="ic2" src="https://web.archive.org/imgs/glob/cross/crs2_29_19_00.gif" width="29" height="19" border="0"></a><a href="#" onclick="cf.cl(3); return false;" onmouseover="cs.hi(3); return true;" onmouseout="cs.lo(3); return true;"><img name="ic3" src="https://web.archive.org/imgs/glob/cross/crs3_29_19_00.gif" width="29" height="19" border="0"></a><br><img src="/imgs/glob/color/black_1_1.gif" width="1" height="22" border="0"><img name="ch" src="https://web.archive.org/imgs/com/en/crossfeatures/cftabhead_com_en_0_01.gif" width="114" height="22" alt="" border="0"><img src="/imgs/glob/color/grey262626_1_1.gif" height="22" width="1" border="0"><br><img src="/imgs/glob/misc/dotted_116_6.gif" width="116" height="6" border="0"><br><!-- 
+	
+	
+	Cross Features Search Section Start 
+-->
+
+<div class="csfeature" id="dcross0" style="visibility: visible;">
+<form action="/jsp/crossfeatures/sitesearch/SiteSearch.jsp" name="searchForm" method="get">
+<input type="hidden" name="domainId" value="1">
+<input type="hidden" name="languageId" value="4">
+<img src="/imgs/glob/color/grey3c3d3d_1_1.gif" width="1" height="1" alt="" border="0"><br><table border="0" cellpadding="0" cellspacing="0" width="114">
+		<tbody><tr class="bg1">
+			<td width="1" class="bg7"><img src="/imgs/glob/color/grey262626_1_1.gif" height="54" width="1" alt="" border="0"></td>
+        	<td width="5"><img src="/imgs/glob/misc/x_1_1.gif" width="5"></td>
+			<td class="tx3" valign="top">
+			Search audi.com<br><img src="/imgs/glob/misc/x_1_1.gif" width="4" border="0"><br>
+			<input class="searchcross" name="SearchString" size="7" type="text">
+			<input type="image" border="0" align="absmiddle" height="15" width="25" src="/imgs/glob/misc/go_but.gif">
+			</td>
+		</tr>
+	</tbody></table>
+	<img src="/imgs/glob/misc/dotted_116_6.gif" width="116" height="6" alt="" border="0"><br>
+	<table border="0" cellpadding="0" cellspacing="0" width="114">		
+		<tbody><tr class="bg1">
+			<td width="1" class="bg7"><img src="/imgs/glob/color/grey262626_1_1.gif" height="1" width="1" alt="" border="0"></td>
+	          	<td width="5"><img src="/imgs/glob/misc/x_1_1.gif" width="5"></td>
+			<td valign="top" class="cf"><img src="/imgs/glob/misc/x_1_1.gif" width="4" height="2"><br>
+			<a href="/jsp/crossfeatures/sitesearch/SiteSearch.jsp?Section=30&amp;domainId=1&amp;languageId=4"><img src="/imgs/glob/misc/linkarrow_11_9.gif" width="11" height="9" alt="" border="0" align="abstop">News Search</a><br></td>		
+		</tr>
+	</tbody></table>
+</form>
+</div><!-- Cross Features Search Section End 
+
+
+--><!-- Cross Features Calendar Section Start 
+-->
+<div id="dcross1" class="countrys" style="visibility: hidden;"><div id="cselect" class="countryselector">
+<table cellpadding="0" cellspacing="0" border="0" height="90" bordercolor="blue">
+
+<tbody><tr class="bg1">
+	<td colspan="3"><img src="/imgs/glob/color/grey262626_1_1.gif" height="1" width="125" alt="" border="0"><img src="/imgs/glob/misc/x_1_1.gif" height="1" width="27" alt="" border="0"><img src="/imgs/glob/color/grey262626_1_1.gif" height="1" width="58" alt="" border="0"></td>
+</tr>
+<tr class="bg1">
+	<td width="180" colspan="3"><img src="/imgs/glob/color/grey262626_1_1.gif" height="22" width="1" alt="" border="0"><img name="calhead" src="https://web.archive.org/imgs/com/en/crossfeatures/cftabhead_com_en_0_01.gif" width="114" height="22" alt="" border="0"><br><img src="/imgs/glob/misc/dotted_210_6.gif" width="210" height="6" alt="" border="0"></td>
+</tr>
+<tr class="bg1">
+	<td><img src="/imgs/glob/color/grey262626_1_1.gif" height="87" width="1" alt="" border="0"></td>
+	<td><img src="/imgs/glob/misc/x_1_1.gif" height="1" width="5" alt="" border="0"></td>
+	<td class="tx3" valign="top">
+		<table border="0" bordercolor="green" cellspacing="0" cellpadding="0" height="100%" width="195">
+		<tbody><tr><td height="5"></td></tr>
+		<tr>
+			<td class="tx3"><a href="/jsp/crossfeatures/calendar/calendarEvents.jsp?eventId=642461&amp;domainId=1&amp;languageId=4"><img src="/imgs/glob/misc/linkarrow_11_9.gif" width="11" height="9" alt="" border="0" align="abstop">Dec 4, 2004</a><br><div style="width:170px; margin-left:20px; padding-bottom:3px">Audi FIS Ski World Cup - Giant Slalom Men</div>
+		</td></tr><tr>
+			<td class="tx3"><a href="/jsp/crossfeatures/calendar/calendarEvents.jsp?eventId=642495&amp;domainId=1&amp;languageId=4"><img src="/imgs/glob/misc/linkarrow_11_9.gif" width="11" height="9" alt="" border="0" align="abstop">Jan 21, 2005</a><br><div style="width:170px; margin-left:20px; padding-bottom:3px">Audi FIS Ski World Cup - Super G Men</div> 
+		</td></tr>
+		
+		
+		</tbody></table>
+	</td>
+</tr>
+<tr class="bg1">
+	<td><img src="/imgs/glob/color/grey262626_1_1.gif" height="15" width="1" alt="" border="0"></td>
+	<td><img src="/imgs/glob/misc/x_1_1.gif" height="1" width="5" alt="" border="0"></td>
+	<td class="tx3" valign="top">
+		<a href="/jsp/crossfeatures/calendar/calendar.jsp?domainId=1&amp;languageId=4"><img src="/imgs/glob/misc/linkarrow_11_9.gif" width="11" height="9" alt="" border="0" align="abstop">Go to Calendar</a>
+	</td>
+</tr>
+
+</tbody></table><img src="/imgs/glob/color/grey262626_1_1.gif" height="1" width="116" border="0"></div></div>
+
+<!-- 
+Cross Features Calendar Section End 
+
+
+
+--><!-- Cross Features Lexicon Section Start 
+-->
+<div id="dcross2" class="csfeature" style="visibility: hidden;"><table border="0" cellpadding="0" cellspacing="0" width="114">
+	<tbody><tr class="bg1">
+		<td width="1" class="bg7"><img src="/imgs/glob/color/grey262626_1_1.gif" height="74" width="1" alt="" border="0"></td>
+          	<td width="6"><img src="/imgs/glob/misc/x_1_1.gif" width="5" border="0"></td>
+		<td class="tx3" valign="top">Nobody can know all the automotive terms. We collected the most important ones in our Glossary.</td>
+	</tr>
+</tbody></table>		
+<img src="/imgs/glob/misc/x_1_1.gif" width="6"><br>
+<img src="/imgs/glob/misc/dotted_116_6.gif" width="116" height="6" alt="" border="0"><br>
+<table border="0" cellpadding="0" cellspacing="0" width="114">
+	<tbody><tr class="bg1">
+		<td width="1" class="bg7"><img src="/imgs/glob/color/grey262626_1_1.gif" height="1" width="1" alt="" border="0"></td>
+          	<td width="6"><img src="/imgs/glob/misc/x_1_1.gif" width="5" border="0"></td>
+		<td class="tx3" valign="top"><a href="/jsp/crossfeatures/lexicon/lexicon.jsp?domainId=1&amp;languageId=4"><img src="/imgs/glob/misc/linkarrow_11_9.gif" width="11" height="9" alt="" border="0" align="abstop">Go to Glossary
+</a></td>
+	</tr>
+</tbody></table></div>
+
+ 
+
+
+ 
+
+<!-- 
+Cross Features Lexicon Section End 
+
+
+
+
+--><!-- Cross Features Country Locator Section Start 
+--><div id="dcross3" class="countrys" style="visibility: hidden;"><div id="cselect" class="countryselector">
+<table cellpadding="0" cellspacing="0" border="0" height="90">
+<tbody><tr class="bg1">
+	<td colspan="3"><img src="/imgs/glob/color/grey262626_1_1.gif" height="1" width="183" alt="" border="0"></td>
+</tr>
+
+<tr class="bg1">
+	<td width="180" colspan="3"><img src="/imgs/glob/color/grey262626_1_1.gif" height="22" width="1" alt="" border="0"><img name="cselecthead" src="https://web.archive.org/imgs/com/en/crossfeatures/cftabhead_com_en_0_01.gif" width="114" height="22" alt="" border="0"><br><img src="/imgs/glob/misc/dotted_210_6.gif" width="210" height="6" alt="" border="0"></td>
+</tr>
+
+<tr class="bg1">
+	<td rowspan="2"><img src="/imgs/glob/color/grey262626_1_1.gif" height="102" width="1" alt="" border="0"></td>
+	<td rowspan="2"><img src="/imgs/glob/misc/x_1_1.gif" height="1" width="5" alt="" border="0"></td>
+	<td class="tx3" valign="top">
+		<table border="0" cellspacing="0" cellpadding="0">
+		<form name="clocform"></form>
+		<tbody><tr><td height="5"></td></tr>
+		<tr>
+			<td class="tx3">Please select</td>
+		</tr>
+		<tr><td height="5"></td></tr>
+		<tr>
+			<td class="tx3">
+			<select class="select3" onchange="countrySelect(this.form);" name="continent">
+				<option value="0">Continent</option>
+				<option value="0">-------------------</option>
+				
+				<option>North America</option>
+				
+				<option value="0">-------------------</option>
+				
+				<option>Africa</option>
+				
+				<option>Asia</option>
+				
+				<option>Australia/Oceania</option>
+				
+				<option>Central and South America</option>
+				
+				<option>Europe</option>
+					
+			</select>			
+			</td>
+		</tr>
+		<script language="JavaScript" type="text/javascript">
+		if(!is.ns)
+				document.write('<tr><td height="4"></td></tr>');
+		</script>
+		<tr>
+			<td class="tx3">
+				<select class="select3" name="country" onchange="handleCountry(this.form, 'no');">
+					<option value="0">Country</option>
+					<option value="0">-------------------</option>
+					<option value="0">Please choose a continent</option>
+			        <option value="0"></option>
+			        <option value="0"></option>
+			        <option value="0"></option>
+			        <option value="0"></option>
+			        <option value="0"></option>
+			        <option value="0"></option>
+				</select>
+			</td>
+			<td>&nbsp;<input type="image" src="/imgs/glob/misc/go_but.gif" onclick="handleCountry(this.form, 'yes'); return false;" width="25" height="15" alt="" border="0"></td>
+		</tr>
+		
+		</tbody></table>
+		<img src="/imgs/glob/misc/x_1_1.gif" width="5" height="23"><br>
+	</td>
+</tr>
+</tbody></table><img src="/imgs/glob/color/grey262626_1_1.gif" height="1" width="116" border="0"></div></div>
+
+ 
+
+<!-- 
+Cross Features Country Locator Section End 
+
+
+--><img src="/imgs/glob/color/grey262626_1_1.gif" width="1" height="102" border="0"><img src="/imgs/glob/color/greydfe1e0_1_1.gif" width="114" height="102" border="0"><img src="/imgs/glob/color/grey262626_1_1.gif" width="1" height="102" alt="" border="0"><br><img src="/imgs/glob/color/grey262626_1_1.gif" height="1" width="116" border="0"><br>
+
+<script language="javascript">
+<!--
+if (is.nn)
+document.write('<img src="/imgs/glob/misc/s.gif" width="2" height="16" border="0"><br>');
+else
+document.write('<img src="/imgs/glob/misc/s.gif" width="2" height="15" border="0"><br>');
+//-->
+</script><img src="/imgs/glob/misc/s.gif" width="2" height="15" border="0"><br>
+
+
+
+	
+
+
+
+
+<div id="globNavext" class="shiftleft"><table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td width="2" valign="top" bgcolor="#ffffff"><img src="/imgs/glob/misc/x_1_1.gif" width="2" height="8" alt="" border="0"><br></td>
+	<td background="/imgs/glob/bgrd/rightdark_132_6_2.gif" width="120"><a href="/com/en/contact/contact.jsp" alt="" onmouseover="nv.hi(9); return true;" onmouseout="nv.lo(9);"><img name="nbar9" src="/imgs/glob/misc/nbar_00.gif" width="19" height="20" alt="" border="0"><img name="globnav9" src="/imgs/com/en/globalnav/globnav_9_00.gif" width="99" height="20" alt="" border="0"></a><br>
+	<a href="/com/en/sitemap/sitemap.jsp" alt="" onmouseover="nv.hi(10); return true;" onmouseout="nv.lo(10);"><img name="nbar10" src="/imgs/glob/misc/nbar_00.gif" width="19" height="20" alt="" border="0"><img name="globnav10" src="/imgs/com/en/globalnav/globnav_10_00.gif" width="99" height="20" alt="" border="0"></a></td>
+</tr>
+</tbody></table></div>
+
+</td>
+</tr>
+<tr>
+<td height="1%" valign="bottom" width="479">
+<table cellspacing="0" cellpadding="0" height="28" width="479" border="0">
+<tbody><tr>
+<td align="right">
+
+
+ 
+	
+			<table border="0" width="195" height="28" cellpadding="0" cellspacing="0" class="bgdkgrey">
+			<tbody><tr>
+			<td align="center" height="28" valign="bottom">
+			<table border="0" width="193" class="white" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td height="13" width="103"><img src="/imgs/glob/misc/s.gif" width="5" height="1"><a href="/com/en/site_information/technical_help.jsp" class="link">Site Information</a></td>
+				<td height="13" width="1"><img src="/imgs/glob/misc/dotted_13_1.gif" width="1" height="13" alt="" border="0"></td>
+				<td height="13" width="89"><img src="/imgs/glob/misc/s.gif" width="5" height="1"><a href="/com/en/terms_of_use/imprint.jsp" class="link">Imprint</a></td>
+			</tr>
+
+			<tr><td height="1" colspan="3" background="/imgs/glob/misc/dotted_1_157.gif"><img src="/imgs/glob/misc/s.gif" width="1" height="1"></td></tr>
+
+			
+				<tr class="bg1">
+					<td height="13" width="103"><img src="/imgs/glob/misc/s.gif" width="5" height="1"><a href="/com/en/privacy_policy/privacy_policy.jsp" class="link">Privacy Policy</a></td>
+					<td height="13" width="1"><img src="/imgs/glob/misc/dotted_13_1.gif" width="1" height="13" alt="" border="0"></td>
+					<td height="13" width="89"><img src="/imgs/glob/misc/s.gif" width="5" height="1"><a href="/com/en/terms_of_use/imprint.jsp" class="link">Terms of use</a></td>
+				</tr>  
+			</tbody></table>
+			</td>
+			</tr>  
+			</tbody></table>
+
+
+ 
+
+
+ 
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr></tbody></table><div class="orangesquare">
+<img border="0" alt="" height="14" width="25" src="/imgs/glob/misc/orange_square_25_14.gif"></div>
+<div class="orangeline">
+<img border="0" alt="" height="1" width="319" src="/imgs/glob/misc/orange_line_319_1.gif"></div>  
+  
+  <!-- Sophus tag start --> 
+  <script language="JavaScript" src="/touchclarity/logging.js"></script>
+  <!-- Sophus tag end --> 
+  
+
+
+
+
+
+
+<script language="JavaScript">
+	 addPopupsToLinks();
+</script>
+
+
+</body></html>
