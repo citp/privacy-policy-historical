@@ -1,0 +1,661 @@
+<!--The following is the downloaded HTML source of the christiansonline.com.au privacy policy that was archived on 2001-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011019212708id_/http%3A//www.christiansonline.com.au/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>Christian web site offering online singles, music and bible.</title>
+<meta name="description" content="Christian web site offering information on singles, churches, news and music about the Christian faith in Australia.">
+<meta name="keywords" content="Christians, singles, profile, news, letters, bible, god, Jesus Christ, bible, faith, religion, religious, church, Sunday, sermon, preach, practice, discipline, disciple, christian music, online, study, prayer, prayers, books, jobs, art, radio, pictures of jesus, bible quotes, songs, bible stories, churches of Christ, Christian schools, Sunday schools, history, beginning of time, free Christian dating, kids, the lord's prayer, weddings">
+
+<meta name="rating" content="general">
+<meta name="resource-type" content="document">
+<meta name="robots" content="all">
+<meta name="robots" content="index, follow">
+<meta name="re-visit" content="7 days">
+<meta name="distribution" content="global">
+
+<!-- Christian, online singles, bible, god, faith, religion, Australia, music -->
+
+<link rel="stylesheet" href="include/style_main.css" type="text/css">
+<script language="JavaScript">
+<!--
+// global variables to be used to identify and list problems in user input
+var allOK = true;
+var counter = 0;
+var msg = "\nPlease complete the field(s):\n\n";
+
+function addMessage(description)
+{
+ 			counter = counter + 1;
+			allOK = false;
+			msg = msg + counter + ". " + description + "\n";
+}
+
+function resetMessage()
+{
+	// reset globals and return
+	msg="\nPlease complete the field(s):\n\n";
+	allOK = true;
+	counter = 0;
+}
+
+function displayMessage()
+{
+	alert(msg);
+}
+
+function numberErrors()
+{
+	return counter;
+}
+	
+
+function changeDays(month, days, year) 
+{
+	var temp;
+	
+	if (month != "")
+	{
+		monthDays = new arr("31","28","31","30","31", "30","31","31","30","31","30","31");
+		numDays = monthDays[(month-1)];
+		if ((month==2) && LeapYear(year))
+		{
+			numDays++;
+		}
+		if (days.selectedIndex > 0)
+		{
+			temp = days.selectedIndex;
+		}
+		else
+		{
+			temp = 0;
+		}
+		days.options.length = numDays;
+		for (i=27;i<numDays;i++) {
+			days.options[i].text = i+1;
+		}
+		if (temp >= numDays)
+		{
+			days.selectedIndex = numDays-1;
+		}
+		else 
+		{
+			days.selectedIndex = temp;
+		}
+	} // end if month != null - this causes day field to stuff up!
+}
+
+function arr() 
+{
+	this.length=arr.arguments.length;
+ 	for (n=0;n<arr.arguments.length;n++) 
+ 	{
+ 		this[n] = arr.arguments[n];
+ 	}
+}
+
+
+function emptyField(field)
+{
+		if (field.value == "") 
+		{
+			return true;
+		}
+}
+
+function noSelection(field)
+{
+	if ((field.options[field.selectedIndex].value == null) || 
+		(field.options[field.selectedIndex].value == "")){
+			return true;
+	}
+	else
+	{
+		return false;
+	}
+}
+
+//returns true only if the field contains an email address containing @ and .
+function isEmail(field)
+{
+	if (((field.value.indexOf ('@',0) == -1 || 
+	field.value.indexOf ('.',0) == -1) || (field.value.indexOf ('.',0) == field.value.length-1 )) && 
+	field.value != "")
+	{
+		return false;
+	}
+	else
+	{
+		return true;
+	}
+}
+
+function invalidPrice(field) 
+{
+	decallowed = 2;	// how many decimals are allowed?
+	fieldValue = field.value;
+	
+	if ((isNaN(fieldValue) || (fieldValue == "")) || (fieldValue < 0)) 
+	{
+		return true;
+	} 
+	else 
+	{
+		if (fieldValue.indexOf('.') == -1) fieldValue += ".";
+		dectext = fieldValue.substring(fieldValue.indexOf('.')+1, fieldValue.length);
+
+		if (dectext.length > decallowed)
+		{
+ 			return true;
+	 		}
+	}
+	return false; 
+}
+
+function onlyLetters(field)
+{
+//	myString = new String(field.value);
+	//40o means the 40th octal ascii character, which is space
+	myRE = new RegExp("[^\40oA-Z_]", "i");
+	//return true if nothing but letters space or underscore found in the string
+	if (myRE.test(field.value))
+	{
+		return false;
+	}
+	return true;
+}
+
+function alphaNumeric(field)
+{
+	myRE = new RegExp("[^\40oA-Za-z0-9_]", "i");
+	//return true if nothing but alphanumeric characters found in the string - spaces allowed
+	if (myRE.test(field.value))
+	{
+		return false;
+	}
+	return true;
+}
+
+function alphaNumericNoSp(field)
+{
+	myRE = new RegExp("[^A-Za-z0-9_]", "i");
+	//return true if nothing but alphanumeric characters found in the string - no spaces
+	if (myRE.test(field.value))
+	{
+		return false;
+	}
+	return true;
+}
+
+function greaterThanDate(day1, month1, year1, day2, month2, year2)
+{
+	var Date1, Date2;
+	Date1 = makeDate(day1, month1, year1);
+	Date2 = makeDate(day2, month2, year2);
+ 
+		if (Date1.getTime() < Date2.getTime())
+	{
+			return false;
+	} 
+	else
+	{
+		return true;
+	}
+}
+
+function afterCurrentDate(day, month, year)
+{
+	today = new Date();
+	var Date1 = makeDate(day, month, year);
+		if (today.getTime() > Date1.getTime())
+		{
+			return false;
+		}
+	else
+	{
+		return true;
+	}		
+}
+
+function makeDate (day, month, year)
+{
+	var newDate = new Date();
+	
+	newDate.setDate(day);
+	newDate.setMonth(month);
+	newDate.setYear(year);
+	return newDate;
+}
+
+function LeapYear(intYear) {
+	if (intYear % 100 == 0) {
+		if (intYear % 400 == 0) { return true; }
+	}
+	else {
+		if ((intYear % 4) == 0) { return true; }
+	}
+	return false;
+}
+
+function confirmReject() 
+{
+	if (confirm("\nIf you click OK the record will be deleted.\n\nAre you sure you want to reject this record?."))
+	{ 
+		return true;
+	}
+	else
+	{
+		return false;			
+	}
+}
+function confirmApprove() 
+{
+	if (confirm("\nMake this record active?."))
+	{ 
+		return true;
+	}
+	else
+	{
+		return false;			
+	}
+}
+
+function confirmDelete() 
+{
+	if (confirm("\nDelete record?\n\nClick on Cancel to abort."))
+	{ 
+		return true;
+	}
+	else
+	{
+		return false;			
+	}
+}
+function confirmChangeActive() 
+{
+	if (confirm("\nChange record status, are you sure?."))
+	{ 
+		return true;
+	}
+	else
+	{
+		return false;			
+	}
+}
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+ function	imgToggle(btnName,btnFile)
+ {
+		if (document.images)
+		{
+			document[btnName].src = btnFile
+		}
+ }
+ 
+function logoutMessage()
+{
+return true;	
+}	
+
+function confirmLogin()
+{
+window.location = "profile.asp?action=add";return false;	
+}	
+
+function launchWin(url)
+{
+	if (document.images)
+	{
+		openWin = window.open(url,"mailWin","toolbar=no,width=340,height=280,left=200,top=200,status=no,menubar=no,location=no,scrollbars=no,resize=no");
+	}
+}
+
+//-->
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+	<tbody><tr bgcolor="#000000">
+		<td><img src="images/x.gif" width="200" height="1"></td>
+		<td><img src="images/x.gif" width="180" height="1"></td>
+		<td><img src="images/x.gif" width="50" height="1"></td>
+		<td width="100%"><img src="images/x.gif" width="10" height="1"></td>
+		<td><img src="images/x.gif" width="120" height="1"></td>
+		<td><img src="images/x.gif" width="200" height="1"></td>
+	</tr>
+
+	<tr bgcolor="#D84B13" valign="top">
+		<td><img src="images/slc_title_1a.gif" width="200" height="20"></td>
+		<td><img src="images/x.gif" width="180" height="20"></td>
+		<td><img src="images/x.gif" width="50" height="20"></td>
+		<td><img src="images/x.gif" width="10" height="20"></td>
+		<td><form method="post" action="processLogin.asp"><img src="images/slc_title_1b.jpg" width="120" height="20"></form></td>
+		<td rowspan="3">
+			<table width="200" border="0" cellspacing="0" cellpadding="0">
+
+				<tbody><tr bgcolor="#000000">
+					<td><img src="images/slc_login_1a.gif" width="10" height="20"></td>
+					<td><img src="images/slc_login_1b.gif" width="70" height="20"></td>
+					<td><img src="images/slc_login_1c.gif" width="10" height="20"></td>
+					<td><img src="images/slc_login_1d.gif" width="70" height="20"></td>
+					<td><img src="images/x.gif" width="10" height="20"></td>
+					<td><img src="images/x.gif" width="25" height="20"></td>
+					<td><img src="images/x.gif" width="5" height="20"></td>
+				</tr>
+	
+				<tr bgcolor="#000000">
+					<td><img src="images/x.gif" width="10" height="20"></td>
+					<td><input type="text" name="login" size="6" maxlength="16"></td>
+					<td><img src="images/x.gif" width="10" height="20"></td>
+					<td><input type="password" name="password" size="6" maxlength="16"></td>
+					<td><img src="images/x.gif" width="10" height="20"></td>
+					<td align="right"><input type="image" src="images/btn_go_off.gif" border="0"></td>
+					<td><img src="images/x.gif" width="5" height="20"></td>
+				</tr>
+
+				<tr bgcolor="#000000">
+					<td colspan="7"><img src="images/x.gif" width="200" height="15"></td>
+				</tr>
+
+				<tr>
+					<td colspan="7" class="txt_white"><img src="images/slc_login_2a.gif" width="200" height="20"></td>
+				</tr>
+
+				<tr bgcolor="#7C7C48">
+					<td><img src="images/x.gif" width="10" height="20"></td>
+					<td colspan="5" class="txt_white"><a class="txt_white" href="profile.asp?action=add">Become a member. It's FREE!</a></td>
+					<td><img src="images/x.gif" width="5" height="20"></td>
+				</tr>
+
+			</tbody></table>
+		</td>
+	</tr>
+
+	<tr bgcolor="#D84B13">
+		<td><img src="images/slc_title_2a.gif" width="200" height="25"></td>
+		<td><img src="images/x.gif" width="180" height="25"></td>
+		<td><img src="images/slc_title_2b.gif" width="50" height="25"></td>
+		<td><img src="images/x.gif" width="10" height="25"></td>
+		<td><img src="images/slc_title_2c.jpg" width="120" height="25"></td>
+	</tr>
+
+	<tr bgcolor="#D84B13">
+		<td colspan="4"><img src="images/slc_title_3a.gif" width="440" height="50"></td>
+		<td><img src="images/slc_title_3b.jpg" width="120" height="50"></td>
+	</tr>
+
+	<tr bgcolor="#000000">
+		<td colspan="6"><img src="images/x.gif" width="760" height="5"></td>
+	</tr>
+
+</tbody></table>
+
+
+
+<!-- Main area starts here -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+	<tbody><tr valign="top" class="td_background">
+		<td><img src="images/x.gif" width="150" height="10"></td>
+		<td><img src="images/x.gif" width="10" height="10"></td>
+		<td bgcolor="#FFFFFF" width="100%"><img src="images/x.gif" width="450" height="10"></td>
+		<td><img src="images/x.gif" width="10" height="10"></td>
+		<td><img src="images/x.gif" width="140" height="10"></td>
+	</tr>
+
+	<tr valign="top">
+
+		<td>
+			<table width="150" border="0" cellspacing="0" cellpadding="0">
+
+				<tbody><tr valign="top">
+					<td><img src="images/x.gif" width="140" height="10"></td>
+					<td><img src="images/pic_gen_rcornert.gif" width="10" height="10"></td>
+				</tr>
+
+				<tr>
+					<td>
+						<table width="140" border="0" cellspacing="0" cellpadding="0">
+
+							<tbody><tr>
+								<td><img src="images/x.gif" width="10" height="40"></td>
+								<td><img src="images/slc_nav_1a.gif" width="130" height="40"></td>
+							</tr>
+
+							<tr valign="top">
+								<td><img src="images/x.gif" width="10" height="10"></td>
+								<td><a class="txt_navsection" href="index.asp">Home</a><br>
+
+									<br><span class="txt_navsection">Christian Singles</span>
+
+									<br><a href="searchSinglesProfiles.asp">Search profiles</a>
+
+									<br><a href="privacy.asp">Privacy Policy</a>
+
+									<br><br><span class="txt_navsection">Christian Directory</span>
+									<br><a href="searchListings.asp?mcID=1">Find-A-Church</a>
+									<br><a href="searchListings.asp?mcID=2">Business Locator</a>
+
+									<br><br><span class="txt_navsection">Christian Music &amp; Books</span><br>
+									<a href="http://www.koorong.com.au" target="_blank">Shop Online</a><br>
+
+									<br><span class="txt_navsection">Christian Community</span>
+
+									<br><a href="profile.asp?action=add">Become a member</a>
+
+									<br><a href="javascript:launchWin('mailfriend.asp')">Mail this to a friend</a>
+									<br><a href="jokes.asp">Jokes</a>
+									<br><a href="http://bible.gospelcom.net/bible" target="_blank">Bible Search</a>
+									<br><a href="http://www.ewordtoday.com" target="_blank">Devotionals</a><br>
+
+									<br><span class="txt_navsection">News &amp; Articles</span>
+									<br><a href="viewArticles.asp?cID=1">General</a>
+									<br><a href="viewArticles.asp?cID=2">God and Faith</a>
+									<br><a href="viewArticles.asp?cID=3">Christian Parenting</a>
+									<br><a href="viewArticles.asp?cID=4">Marriage</a>
+									<br><a href="viewArticles.asp?cID=6">Australian News &amp; Issues</a>
+									<br><a href="viewArticles.asp?cID=7">World News &amp; Issues</a>
+									<!--<BR>Newsletter-->
+									<br><a href="viewArticles.asp?cID=8">FAQ</a>
+
+									<br><br><span class="txt_navsection">Events</span>
+									<br><a href="viewEvents.asp">What's On</a>
+
+									<br><br><span class="txt_navsection">Other</span>
+									<br><a href="links.asp">Links</a>
+									<br><a href="comments.asp">Your Comments</a>
+
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2"><img src="images/x.gif" width="140" height="10"></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td><img src="images/x.gif" width="10" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+
+		<td class="td_background"><img src="images/x.gif" width="10" height="10"></td>
+
+	<td>
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	
+			<tbody><tr>
+				<td><img src="images/x.gif" width="20" height="30"></td>
+				<td width="100%"><img src="images/ttl_privacypolicy.gif" width="410" height="30"></td>
+				<td><img src="images/x.gif" width="20" height="30"></td>
+			</tr>
+	
+			<tr>
+				<td colspan="3"><img src="images/x.gif" width="450" height="10"></td>
+			</tr>
+
+			<tr>
+				<td><img src="images/x.gif" width="20" height="1"></td>
+				<td><strong>ChristiansOnline.com.au</strong> was founded on the idea that Australia needed an online Christian Community, to bring together people with a common belief to pray for world issues, make new Christian friends and find anything you may need as a Christian person. We understand that your right to privacy is of the utmost importance. To that end, we are committed to the protection of your personal information. Any information we collect from you is used only to fulfil your needs. Our privacy policy appears below in detail. Please note by visiting ChristiansOnline.com.au, you are accepting the practices described in this Privacy Policy.
+					<br><br><strong>What if I contact you?</strong><br>
+					<br>We may keep a copy of any correspondence from you.<br>
+					<br><br><strong>Who Do You Share Information With?</strong><br>
+					<br>We do not sell, trade or rent user information to anyone.<br>
+					<br>ChristiansOnline.com.au operates its own customer service department. Unlike other online businesses, when you become a member or sign up for Christian Singles, your details never leave ChristiansOnline.com.au.<br>
+					<br><br><strong>Under What Circumstances Will You Contact Me?</strong><br>
+					<br>You will receive an email confirming your membership and the occasional Newsletter, advising you of what new sections have been launched on ChristiansOnline.com.au.<br>
+					<br>If your membership form does not contain enough information (eg: Login Name) for us to complete it, one of our customer service representatives will contact you via email.<br>
+					<br><br><strong>What About Cookies?</strong><br>
+					<br>Currently ChristiansOnline.com.au does not use cookies.<br>
+					<br>Please note that other sites with links to ChristiansOnline.com.au (eg. sites we advertise with) may use cookies and may collect additional information about you. We are not responsible for the information policies of these sites and users may wish to acquaint themselves with the privacy policies of those other sites.<br>
+					<br>Our business success depends on our discretion and our understanding of the importance of your privacy. If you have suggestions for enhancing our privacy policy, please contact ChristiansOnline.com.au directly.<br>
+				</td>
+				<td><img src="images/x.gif" width="20" height="1"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3"><img src="images/x.gif" width="450" height="10"></td>
+			</tr>
+
+		</tbody></table>
+	</td>
+
+		<td class="td_background"><img src="images/x.gif" width="10" height="10"></td>
+
+	<td>
+		<table width="140" border="0" cellspacing="0" cellpadding="0" align="center">
+		
+			<tbody><tr>
+				<td><img src="images/pic_gen_lcornert.gif" width="10" height="10"></td>
+				<td><img src="images/x.gif" width="120" height="10"></td>
+				<td><img src="images/x.gif" width="10" height="10"></td>
+			</tr>
+
+			<tr>
+				<td><img src="images/x.gif" width="10" height="1"></td>
+				<td><a href="javascript:launchWin('mailfriend.asp')" class="txt_subheading">Mail this web site to a friend!</a></td>
+				<td><img src="images/x.gif" width="10" height="1"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3"><img src="images/x.gif" width="140" height="10"></td>
+			</tr>
+
+			<tr>
+				<td><img src="images/x.gif" width="10" height="1"></td>
+				<td class="td_line"><img src="images/x.gif" width="120" height="1"></td>
+				<td><img src="images/x.gif" width="10" height="1"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3"><img src="images/x.gif" width="140" height="10"></td>
+			</tr>
+
+			<tr>
+				<td><img src="images/x.gif" width="10" height="10"></td>
+				<td><a href="america_crisis.asp"><img src="images/tile_usflag.gif" width="120" height="84" border="0"></a><br>
+					<br><strong>Pray for America</strong>
+					<br><a href="america_crisis.asp">Articles to View</a>
+
+					<br><br><strong>The War Against Terrorists</strong>
+					<br>Your prayers are needed!
+					<br><a href="america_war.asp">Articles to view</a>
+
+				</td>
+				<td><img src="images/x.gif" width="10" height="10"></td>
+			</tr>
+			
+			<tr>
+				<td colspan="3"><img src="images/x.gif" width="140" height="10"></td>
+			</tr>
+
+			<tr>
+				<td><img src="images/x.gif" width="10" height="1"></td>
+				<td class="td_line"><img src="images/x.gif" width="120" height="1"></td>
+				<td><img src="images/x.gif" width="10" height="1"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3"><img src="images/x.gif" width="140" height="10"></td>
+			</tr>
+
+			<tr>
+				<td><img src="images/x.gif" width="10" height="10"></td>
+				<td><a href="ansett.asp"><img src="images/tile_ansett.gif" width="120" height="40" border="0"></a><br>
+					<br><a href="ansett.asp">Articles to view</a>
+
+				</td>
+				<td><img src="images/x.gif" width="10" height="10"></td>
+			</tr>
+
+
+			<tr>
+				<td colspan="3"><img src="images/x.gif" width="140" height="10"></td>
+			</tr>
+
+			<tr>
+				<td><img src="images/x.gif" width="10" height="1"></td>
+				<td class="td_line"><img src="images/x.gif" width="120" height="1"></td>
+				<td><img src="images/x.gif" width="10" height="1"></td>
+			</tr>
+
+			<tr>
+				<td colspan="3"><img src="images/x.gif" width="140" height="10"></td>
+			</tr>
+
+			<tr>
+				<td><img src="images/x.gif" width="10" height="10"></td>
+				<td><img src="images/ttl_specialoffer.gif"><br>
+					<br>Add a <a href="profile.asp?action=add">member profile</a>, activate your singles profile and receive 5 FREE E-STAMPS!
+				</td>
+				<td><img src="images/x.gif" width="10" height="10"></td>
+			</tr>
+
+		</tbody></table>
+	</td>
+
+	</tr>
+
+</tbody></table>
+
+<!-- Main area ends here -->
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+	<tbody><tr>
+		<td><img src="images/x.gif" width="140" height="10"></td>
+		<td><img src="images/pic_gen_rcornerb.gif" width="10" height="10"></td>
+		<td class="td_background"><img src="images/x.gif" width="10" height="10"></td>
+		<td><img src="images/pic_gen_lcornerb.gif" width="10" height="10"></td>
+		<td><img src="images/x.gif" width="10" height="10"></td>
+		<td width="100%"><img src="images/x.gif" width="410" height="10"></td>
+		<td><img src="images/x.gif" width="10" height="10"></td>
+		<td><img src="images/pic_gen_rcornerb.gif" width="10" height="10"></td>
+		<td class="td_background"><img src="images/x.gif" width="10" height="10"></td>
+		<td><img src="images/pic_gen_lcornerb.gif" width="10" height="10"></td>
+		<td><img src="images/x.gif" width="130" height="10"></td>
+	</tr>
+
+	<tr class="td_background">
+		<td colspan="11"><img src="images/x.gif" width="760" height="10"></td>
+	</tr>
+
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+	<tbody><tr bgcolor="#000000">
+		<td><img src="images/x.gif" width="20" height="20"></td>
+		<td width="100%" class="txt_white">Copyright © 2001, Christiansonline.com.au, All rights reserved.</td>
+		<td><img src="images/x.gif" width="20" height="20"></td>
+	</tr>
+
+</tbody></table>
+
+
+
+</body></html>
