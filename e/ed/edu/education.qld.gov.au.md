@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207223511id_/http%3A//www.education.qld.gov.au/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624041947id_/http%3A//education.qld.gov.au/home/privacy.htm) for the most accurate reproduction.*
 
 # Education Queensland
-
-This site will look much better in a browser that supports web standards, but it is accessible to any browser or Internet device. Visit [Queensland Government Web Standards](http://www.qld.gov.au/upgrade/) for more information about web standards and obtaining a compliant browser.
 
 ## Privacy and security
 
@@ -61,7 +59,7 @@ At times you may be asked to complete survey questionnaires that appear on the s
 
 ## Email and Feedback Information 
 
-As this is a Queensland Government website, email correspondence sent to this site will be treated as a public record and will be retained as required by the [Public Records Act 2002](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/P/) and other relevant regulations
+As this is a Queensland Government website, email correspondence sent to this site will be treated as a public record and will be retained as required by the [Public Records Act 2002](http://www.legislation.qld.gov.au/Legislation%20Docs/CurrentP.htm) and other relevant regulations
 
 Your name and address details will not be added to a mailing list, nor will officers disclose these details to third parties without your consent unless required by law. Email messages may be monitored by our website support staff for system trouble shooting and maintenance purposes. 
 
