@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403020514id_/http%3A//www.active-domain.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204205408id_/http%3A//www.active-domain.com/privacy.htm) for the most accurate reproduction.*
 
-# Domain name registration for $9.95/yr! Register or transfer low cost, cheap domain names at $9.95 with extensive free domain services.
+# domain name registration for $9.95/yr! register or transfer low cost, cheap domain names at $9.95 with extensive free domain services.
 
 **Information Collection and Use**
 
