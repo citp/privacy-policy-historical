@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elca-services.ch privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204233433id_/http%3A//www.elca.ch/Misc/PrivacyPolicy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elca-services.ch privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306204423id_/http%3A//www.elca.ch/Misc/PrivacyPolicy/index.php) for the most accurate reproduction.*
 
 # ELCA: Technology-Consulting-Innovation>> Privacy Policy: job opportunities: careers: Informatiker: software engineer: Programmierer: jobs: software design: business strategy: crm: web design: data warehouse: edm
 
