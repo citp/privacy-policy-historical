@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602191634id_/http%3A//jjhuddle.com/update/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206211916id_/http%3A//www.jjhuddle.com/update/privacy.htm) for the most accurate reproduction.*
 
 # J.J.'s Ohio High School Sports Huddle
 
@@ -30,4 +30,4 @@ Columbus, Ohio 43204.
 
 JJHuddle.com is prohibited from conditioning a child’s participation in an activity on the child’s disclosing more personal information than is reasonably necessary to participate in such activity. Parents can review and request deletion of their child’s personal information, and can refuse to permit further collection or use of their child’s information. In order to request such a review, to revoke previously offered parental consent, or to express any concerns regarding a child’s privacy on our website, please contact us at the below e-mail address.
 
-Any questions regarding the privacy policy may be directed to: [JJsHuddle@aol.com](mailto:JJsHuddle@aol.com)
+Any questions regarding the privacy policy may be directed to: [jjhuddlestaff@yahoo.com](mailto:JJsHuddle@aol.com)
