@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wiu.edu privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009231405id_/http%3A//www1.wiu.edu/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiu.edu privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811135854id_/http%3A//wiu.edu/web/privacypolicy.shtml) for the most accurate reproduction.*
 
-# Western Illinois University Web Support Services
+# Web Privacy Policy - Western Illinois University
 
-## WIU Web Privacy Policy
+###  Web Privacy Policy
 
 When the web site is accessed, Western Illinois University gathers information regarding browser type, operating system, IP address, and domain name used by the visitor. This information is used to determine areas of use, to assist in making improvements to the web site, and to assess difficulties. Except for what the visitor voluntarily submits to the University, personally identifiable information (such as name, e-mail address, password, etc.) is not collected. The University has no way of verifying individual users to provide a choice as to whether or not general information is collected. 
 
