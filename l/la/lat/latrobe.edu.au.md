@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203220656id_/http%3A//www.latrobe.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610135742id_/http%3A//www.latrobe.edu.au/privacy) for the most accurate reproduction.*
 
 # La Trobe University - Copyright & Disclaimer
 
@@ -35,8 +35,8 @@ Usernames and passwords are required before personal information (such as exam r
 
 University Policies
 
-La Trobe University will manage your personal information in accordance with the [Information Privacy Principles](https://web.archive.org/web/20031203220656id_/http://www.latrobe.edu.au/legalservices/downloads/info_priv_principles.pdf) in the Information Privacy Act and the Health Privacy Principles in the Health Records Act. 
+La Trobe University will manage your personal information in accordance with the [Information Privacy Principles](https://web.archive.org/web/20040610135742id_/http://www.latrobe.edu.au/legalservices/downloads/info_priv_principles.pdf) in the Information Privacy Act and the Health Privacy Principles in the Health Records Act. 
 
-The University's privacy policies are set out in the [Policy on the Management of Personal Information](https://web.archive.org/web/20031203220656id_/http://www.latrobe.edu.au/legalservices/downloads/privacy%20policy.pdf) (pdf file) and the [Policy on the Management of Health Information](https://web.archive.org/web/20031203220656id_/http://www.latrobe.edu.au/legalservices/downloads/health%20privacy%20policy.pdf) (pdf file). 
+The University's privacy policies are set out in the [Policy on the Management of Personal Information](https://web.archive.org/web/20040610135742id_/http://www.latrobe.edu.au/legalservices/downloads/privacy%20policy.pdf) (pdf file) and the [Policy on the Management of Health Information](https://web.archive.org/web/20040610135742id_/http://www.latrobe.edu.au/legalservices/downloads/health%20privacy%20policy.pdf) (pdf file). 
 
-These privacy policies provide the framework for the [privacy compliance program](https://web.archive.org/web/20031203220656id_/http://www.latrobe.edu.au/records/privcomp.htm) at La Trobe University 
+These privacy policies provide the framework for the [privacy compliance program](https://web.archive.org/web/20040610135742id_/http://www.latrobe.edu.au/records/privcomp.htm) at La Trobe University 
