@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesource.com privacy policy that was archived on 2004-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041115014242id_/http%3A//onesource.com/about/content_182.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesource.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306120809id_/http%3A//www.onesource.com/about/content_182.asp) for the most accurate reproduction.*
 
 # :: OneSource : About :
 
