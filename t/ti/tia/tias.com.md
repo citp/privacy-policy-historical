@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205233810id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204204id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
 
 # TIAS Privacy Statement
 
@@ -26,8 +26,16 @@ TIAS will not use or share the personally identifiable information provided to u
 
 If you wish to have your personally identifiable information removed from our system, you can contact us at [postmaster@tias.com](mailto:postmaster@tias.com) and ask to be removed from our mailing list.
 
+If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
+
+Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. 
+
+If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [abuse@tias.com](mailto:abuse@tias.com) for review. 
+
 **Access & Accuracy**  
 TIAS strives to keep your personally identifiable information accurate.  If you wish to correct your information, you may contact us at [postmaster@tias.com](mailto:postmaster@tias.com?subject=TIAS%20Question)  with corrected information.
+
+You can review and change your current mailing lists and personal information at any time by clicking [here](http://www.tias.com/mytias/).
 
 **Security**  
 TIAS is committed to ensuring the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Read about why your [order data is secure](https://web.archive.org/other/data_protection.html) at TIAS.
@@ -39,7 +47,7 @@ If you have comments or questions about our privacy policy,  you can contact us
 
 | 
 
-e-mail:
+**E-mail:**
 
 | 
 
@@ -47,14 +55,14 @@ e-mail:
   
 ---|---  
   
-U.S. mail:
+**U.S. mail:**
 
 | 
 
 1000 S Main #200  
 Grapevine, Texas 75051  
   
-telephone:
+**Telephone:**
 
 | 
 
