@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newzealand.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211181143id_/http%3A//newzealand.com/corporate/ps.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newzealand.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407184638id_/http%3A//www.newzealand.com/corporate/ps.html) for the most accurate reproduction.*
 
 # NewZealand.com - Privacy Statement
 
