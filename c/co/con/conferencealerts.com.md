@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conferencealerts.com privacy policy that was archived on 2003-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031122015043id_/http%3A//conferencealerts.com/priv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferencealerts.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215301id_/http%3A//conferencealerts.com/priv.htm) for the most accurate reproduction.*
 
 # 
 
