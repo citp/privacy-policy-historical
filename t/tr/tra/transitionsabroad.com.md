@@ -1,20 +1,15 @@
-> *The following text is extracted and transformed from the transitionsabroad.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603181444id_/http%3A//www.transitionsabroad.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transitionsabroad.com privacy policy that was archived on 2003-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031218202322id_/http%3A//www.transitionsabroad.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # Transitions Abroad: Privacy Policy
-
-|  [](http://www.transitionsabroad.com/) |   |   
----|---|---  
-  
-
 
 **Transitions Abroad Publishing, Inc.  
 Privacy Policy Statement**
 
-This statement discloses the privacy practices for Web sites maintained by Transitions Abroad Publishing, including TransitionsAbroad.com and WorkingTraveler.com. For further information please contact us at [privacy@TransitionsAbroad.com](mailto:privacy@TransitionsAbroad.com).
+This statement discloses the privacy practices for Web sites maintained by **Transitions Abroad Publishing,** including TransitionsAbroad.com [TransitionsAbroad.com](http://www.transitionsabroad.com/) and [WorkingTraveler.com](http://www.workingtraveler.com/). For further information please contact us at [privacy@TransitionsAbroad.com](mailto:privacy@TransitionsAbroad.com).
 
 Since Internet technologies and standards are changing rapidly, these guidelines are subject to change. Changes will be posted to this page as they occur.
 
-Transitions Abroad Publishing is not responsible for the content, appropriateness, or privacy policies of Web sites to which we provide links.
+**Transitions Abroad Publishing** is not responsible for the content, appropriateness, or privacy policies of Web sites to which we provide links.
 
 What information do we track/collect?
 
@@ -38,10 +33,8 @@ What do we do with information we track/collect?
 
 With whom do we share tracked/collected information?
 
-Transitions Abroad shares our information, in aggregate form, with advertisers and other partners. We also make our mailing list available to other businesses/individuals offering services or products we believe are likely to be of interest to our visitors, advertisers, and subscribers.
+**Transitions Abroad** shares our information, in aggregate form, with advertisers and other partners. We also make our mailing list available to other businesses/individuals offering services or products we believe are likely to be of interest to our visitors, advertisers, and subscribers.
 
-Corrections, Cancellations and opting-out
+**Corrections, Cancellations and opting-out**
 
-Upon request, Transitions Abroad will a) Remove you and your personal information, from our database, thereby canceling your subscription or advertising; b) Correct personal information that you inform us is incorrect; or c) Permit you to "opt out" of further email contact (excepting notification of major changes to the service) while still allowing subscription or advertising. To request a correction or cancellation, visit www.TransitionsAbroad.com/ or email [privacy@TransitionsAbroad.com](mailto:privacy@TransitionsAbroad.com). 
-
-__
+Upon request, Transitions Abroad will a) Remove you and your personal information, from our database, thereby canceling your subscription or advertising; b) Correct personal information that you inform us is incorrect; or c) Permit you to "opt out" of further email contact (excepting notification of major changes to the service) while still allowing subscription or advertising. To request a correction or cancellation, visit [www.TransitionsAbroad.com](http://www.transitionsabroad.com/) or email [privacy@TransitionsAbroad.com](mailto:privacy@TransitionsAbroad.com). 
