@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrfire.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210123829id_/http%3A//www.mrfire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfire.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008104259id_/http%3A//www.mrfire.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
