@@ -1,38 +1,99 @@
-> *The following text is extracted and transformed from the visionsfcu.org privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209232300id_/http%3A//www.visionsfcu.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionsfcu.org privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614061145id_/http%3A//www.visionsfcu.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**Visions Federal Credit Union Privacy Statement**
+| 
 
-In recognition of our members' expectation of privacy, Visions Federal Credit Union has adopted the following privacy statement. 
+**[welcome page](http://www.visionsfcu.org/)  
+[account access](https://www.visionsfcu.org/cgi-bin/mcw000.cgi?MCWSTART)  
+[events & happenings](http://www.visionsfcu.org/ehcontent.htm)  
+[about Visions](http://www.visionsfcu.org/aboutcontent.htm)  
+[employment](http://www.visionsfcu.org/employ.htm)  
+**
 
-Visions will collect only the personal information that is necessary to conduct our business. That means just what is necessary to provide competitive financial products and services - no more.  We may gather general information about site visitors' browsing activities. This enables us to track how a visitor navigates through the site and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors of members in general, but does not identify individuals in particular. 
+**[apply for a loan](https://www.visionsfcu.org/loanapp.html)  
+[products and services](http://www.visionsfcu.org/pscontent.htm)  
+[rates](http://www.visionsfcu.org/rate1.htm)  
+**
 
-Visions will protect your personal information. We will maintain security controls to ensure that member information stored on our premises and in our files and computers is protected. Where appropriate, we will use security-coding techniques to protect against unauthorized access to personal records, ensure accuracy and integrity of communications and transactions, and protect member confidentiality. 
+**[home solutions](http://www.visionsfcu.org/hscontent.htm)  
+[auto center](http://www.visionsfcu.org/accontent.htm)  
+[youth program](http://www.visionsfcu.org/newmoola.htm)  
+**
 
-**Restrictions on the Disclosure of Account Information**
+**[financial planning](http://visionsfsc.thepartners.com/)  
+[investments](http://visionsfsc.thepartners.com/)  
+[discount brokerage](http://www.visionsfcu.org/db.htm)  
+[insurance](http://www.visionsfcu.org/inscontent.htm)  
+[tax preparation](http://www.visionsfcu.org/tp.htm)  
+**
 
+| 
+
+**Visions Federal Credit Union Privacy  Notice and Disclosure** 
+
+Visions Federal Credit Union is owned by its members and run by a board of directors you elect. At Visions we value your membership and your privacy. You can be confident that your financial privacy is a top priority of this credit union. We are required by law to give you this privacy notice to explain how we and our wholly owned affiliate, The Endicott-Owego Member Services Corporation, collect, use and safeguard your personal financial information. If you have any questions about this disclosure, please call a Telephone Member Service Representative at 607-754-7900 or 800-242-2120. Or you may write us at : 
+
+Privacy Coordinator  
+Visions Federal Credit Union  
+24 McKinley Avenue  
+Endicott, NY 13760-5491
+
+We are commited to providing you with competitive products and services to meet your financial needs, which requires that we share information about you with our affiliate and also non-affiliated third party service providers who provide data processing, administrative and other support. We may also disclose information about you under other circumstances as permitted or required by law. These disclosures typically include information necessary to follow your authorized instructions, to conduct the operations of the Credit Union and to protect the security of our financial records.  This Privacy Notice and Disclosure as well as the practices described herein are applicable  to both Visions Federal Credit Union and its affiliate, The Endicott-Owego Member Services Corporation.
+
+**Information We Collect**
+
+We collect nonpublic personal information about you from the following sources:
+
+  * From membership and loan applications and other forms, we obtain information such as name, address, social security number, account balances and income.  
+
+
+  * From your transactions with us, our affiliate, or other companies that work closely with us to provide you with financial products and services, we obtain information such as your account balances, payment history, parties to transactions, and credit card usage.  
+
+
+  * From consumer reporting agencies, we obtain information such as your credit worthiness and credit history.   
+
+
+  * From verifications of information you provide on applications and other forms, we obtain information from current  or past employers, other financial institutions and other sources listed on the application.  
+
+
+  * From information about visitors to the Credit Union's websites (such as that providedthrough on-line forms, site visitor data and security devices known as cookies).
+
+
+
+**Information We Disclose**
+
+Visions Federal Credit Union and its affiliate work closely to offer various financial services, products and services to meet member needs. As a result, we may share your nonpublic, personal information with each other, as permitted by law. Further, we may disclose all the information we collect as described above to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. We may also disclose nonpublic, personal information about you to nonaffiliated third parties as permitted by law. However, we do not disclose any nonpublic, personal information about former members to anyone, except as permitted by law.
+
+**How We Protect Your Information**
+
+To protect our members privacy, we only work with companies that agree to maintain confidentiality protections and limit the use of information we provide to credit union approved purposes. We do not permit these companies to sell the information we provide to them to other third parties. We also restrict access to nonpublic personal information about you to those credit union employees and official volunteers who have specific business purpose in utilizing  your data in order to provide financial services to you. Our employees and official volunteers are trained in the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard your nonpublic personal information.
+
+**How You Can Help Protect Your Information**
+
+  * Report lost/stolen checks, credit cards, or ATM cards to the credit union immediately.  
+
+
+  * Keep your ATM, Visa Check Card, PAT, or VisionLine PIN number(s) in a safe place and never disclose to anyone, even a credit union employee.  
+
+
+  * Keep your checks, ATM cards and credit cards in a safe place  under your control at all times.  
+
+
+  * Protect your receipts and statements and destroy confidential information before placing it in the trash where another person can retrieve it.  
+
+
+  * Never disclose your personal account numbers or information on the telephone unless you are certain you are speaking with a credit union employee. If you are in doubt, request the name and telephone number of the caller and say that you will call them back.  
+
+
+
+
+
+. 
+
+|     
+---|---|---  
   
-Visions Federal Credit Union will not disclose confidential member information outside the credit union unless: 
+Visions Federal Credit Union, One Credit Union Plaza, 24 McKinley Avenue, Endicott, New York, 13760
 
-1\. The member consents to the disclosure;  
-2\. The information is provided to help complete a transaction that the member has authorized;  
-3\. Legal or regulatory requirements oblige the credit union to supply the information;  
-4\. It is supplied to a vendor working on behalf of the credit union; or  
-5\. It is a credit-reporting agency. 
-
-**Employee Access and Use of Member Information**
-
-Within Visions, the credit union requires that confidential information be safeguarded at all times and be used only for legitimate business purposes. 
-
-The credit union takes measures to limit employee access to confidential information on a "need-to-know" basis and makes every effort to ensure that financial information is maintained in an accurate and up-to-date manner. We educate our employees about the importance of confidentiality and customer privacy through standard operating procedures, special training programs, and Visions' Code of Ethics. 
-
-**Member Choice**
-
-The credit union will occasionally inform members of new products and services via email, mail or telephone. If a member wishes to opt out of these offers, Visions will attempt to honor that request. Simply notify the credit union of your wish, and you will be excluded from future offers. 
-
-**Maintaining Member Privacy in Our Business Relationships**
-
-The credit union will not sell or share member personal information with a third party for the third party's own independent use. However, Visions occasionally contracts with outside vendors and other business partners to perform specific services for the credit union. We require these vendors to honor and safeguard the information we provide them and to follow strict confidentiality requirements. 
-
-If you have any reason to believe that your personal information retained at Visions Federal Credit Union is incorrect, please call us at 607-786-1222 or email us at [lwasyln@visionsfcu.org](mailto:lwasyln@visionsfcu.org). We will investigate the problem and, if appropriate, update the credit union's records. 
+Telephone: (607) 754-7900
