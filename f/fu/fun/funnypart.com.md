@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnypart.com privacy policy that was archived on 2002-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021222215544id_/http%3A//www.funnypart.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnypart.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607233840id_/http%3A//www.funnypart.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Open Funny Pictures..FunnyPart.com , The Funny Part Of The Web. Serving 1000's of crazy Daily laughs!
 
