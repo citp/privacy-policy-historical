@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207092318id_/http%3A//www.blockbuster.com/bb/help/privacy_policy/0%2C7644%2C%2C00.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601085542id_/http%3A//www.blockbuster.com/bb/help/privacy_policy/0%2C7644%2C%2C00.html%3F) for the most accurate reproduction.*
 
 # Privacy Policy at Blockbuster
 
-[](https://web.archive.org/bb/buy/main) |  | My BLOCKBUSTER |   
+[ ](https://web.archive.org/bb/buy/main) |  | My BLOCKBUSTER |   
 ---|---|---  
 |  [Sign In](https://www.blockbuster.com/bb/secure/olr/account/account_index/0,7934,,00.html?)  
 Purchase Cart  
@@ -19,7 +19,6 @@ Purchase Cart
 [Coming Soon](http://www.blockbuster.com/bb/movie/coming_soon/0,7346,,00.html?)   
 [Top 10 DVD](http://www.blockbuster.com/bb/movie/platform/dvd/top10/0,7328,,00.html?)   
 [Top 10 VHS](http://www.blockbuster.com/bb/movie/platform/vhs/top10/0,7332,,00.html?)   
-[Pay Per View](http://www.blockbuster.com/bb/movie/ppv/0,7891,,00.html?)   
 [Award Winners](http://www.blockbuster.com/bb/awards/0,7503,,00.html?)   
 [Family Viewing Guide](http://www.blockbuster.com/bb/familyviewingguide/0,7784,,00.html?)   
 [Ratings Defined](http://www.blockbuster.com/bb/movies/mpaa/0,7640,,00.html?)  
@@ -33,10 +32,10 @@ Purchase Cart
 | Specials |   
 ---|---|---  
 |  [DIRECTV](http://www.blockbuster.com/bb/article/details/0,7413,ART-707,00.html?)  
-[Carl & Ray™](http://www.blockbuster.com/bb/article/details/0,7413,ART-705,00.html?)  
-[GiftCards](http://www.blockbuster.com/bb/article/details/0,7413,ART-807,00.html?)  
+[Carl & Ray™](https://web.archive.org/bb/carlandray)  
+[GiftCards](http://www.blockbuster.com/bb/article/details/0,7413,ART-528,00.html?)  
 [Pre-viewed Movies](https://web.archive.org/bb/movie/prp)  
-[Pre-played Games](http://www.blockbuster.com/bb/article/details/0,7413,ART-779,00.html?)  
+[Pre-played Games](http://www.blockbuster.com/bb/article/details/0,7413,ART-1127,00.html?)  
   
 |  |  PRIVACY POLICY |   
 ---|---  
