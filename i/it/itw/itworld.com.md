@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201171031id_/http%3A//www.itworld.com/jpitw/ITW_FT/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602212747id_/http%3A//www.itworld.com/jpitw/ITW_FT/Privacy) for the most accurate reproduction.*
 
-# ITworld.com - About Us
+# ITworld.com - Privacy Policy
 
 **Privacy Statement for ITworld.com**
 
-Updated July 22, 2002
+Updated April 4, 2003
 
 [ ](https://www.truste.org/validate/7568)
 
-ITworld.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [http://www.itworld.com](http://www.itworld.com/). ITworld.com has created this privacy statement to demonstrate our firm commitment to the confidentiality of user data. ITworld.com is a site for information technology professionals and is a business unit of International Data Group. The following discloses the information gathering and dissemination practices for ITworld.com. We are committed to notify you of the following: 
+ITworld.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [http://www.itworld.com](http://www.itworld.com/). ITworld.com has created this privacy statement to demonstrate our firm commitment to the confidentiality of user data. The following discloses the information gathering and dissemination practices for ITworld.com. We are committed to notify you of the following: 
 
   1. What personally identifiable information this web site collects from you and how the information is used. 
   2. With whom this site shares the information it collects. 
@@ -53,7 +53,7 @@ We use an outside serving company, DoubleClick, to display ads on our site. Thos
 
 ITworld.com collects optional data supplied by visitors through registration, surveys, sweepstakes, and contests, as well as information gathered from visitors via our server log. That information lets us better tailor our content to user interests and help our advertisers better understand the audience they are reaching. Our site is completely free and is supported by paid advertisements and sponsorships. Therefore, it is critical that we identify our audience. We are firmly committed to identifying whether site content is created by an editorial contributor, a user, or a vendor. 
 
-**How is our registration data used? **
+**How is our registration data used?**
 
 ITworld.com offers optional services that require registration. ITworld.com provides some of those services directly; others are provided on behalf of vendor companies or by ITworld.com's partners. Customer contact information that is collected on behalf of ITworld.com is used to send relevant information about our company and promotional material from some of our partners. This information is sent only to users who opt to receive it and is delivered by ITworld.com. In addition, users may opt out of receiving future mailings. (See the choice/opt-out section below.) 
 
@@ -126,22 +126,6 @@ Who else may receive my information? Contact vendor
 Service provider/partner: N/A
 
 Associated privacy policy: Conforms to the individual vendor's privacy policy.
-
-**Vendor White Papers and Analyst Reports Database:**
-
-What personal information is collected? No user registration is required, but a short personal data profile is collected from users who sign up for the Knowledge Alert email service.
-
-How does ITworld.com use your personal information? N/A
-
-How do I access my personal information? Contact Bitpipe
-
-How do I control my personal information? Contact Bitpipe
-
-Who else may receive my information? Contact Bitpipe
-
-Service provider/partner: Bitpipe
-
-Associated privacy policy: <http://www.bitpipe.com/about/privacy_policy_bp.jsp>
 
 **Log files**
 
