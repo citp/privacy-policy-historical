@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1fbusa.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610192101id_/http%3A//www.1fbusa.com/info/info_legal_tmpl.jhtml%3FrequestingPage%3Dhome%26infoItem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1fbusa.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012022907id_/http%3A//www.1fbusa.com/info/info_legal_tmpl.jhtml%3FrequestingPage%3Dhome%26infoItem%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
