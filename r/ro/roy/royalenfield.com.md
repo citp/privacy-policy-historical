@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalenfield.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206205001id_/http%3A//www.royalenfield.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalenfield.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171513id_/http%3A//www.royalenfield.com/privacy.asp) for the most accurate reproduction.*
 
 # Royal Enfield - Privacy Policy
 
@@ -20,7 +20,7 @@ To improve your Web experience, and to offer you products in which you might be 
   
 **How to contact us**  
   
-If you have questions about our Privacy Policy or its application, please feel free to [contact us](https://web.archive.org/web/20041206205001id_/http%3A//www.royalenfield.com/contact.asp)  
+If you have questions about our Privacy Policy or its application, please feel free to [contact us](https://web.archive.org/web/20050403171513id_/http%3A//www.royalenfield.com/contact.asp)  
   
 **Changes to this privacy policy**  
   
@@ -28,6 +28,6 @@ Royal Enfield may amend this policy from time to time. If we make any substantia
   
 **Questions or Suggestions**  
   
-If you have questions or suggestions, please [click here](https://web.archive.org/web/20041206205001id_/http%3A//www.royalenfield.com/contact.asp) to send us an email.  
+If you have questions or suggestions, please [click here](https://web.archive.org/web/20050403171513id_/http%3A//www.royalenfield.com/contact.asp) to send us an email.  
   
 
