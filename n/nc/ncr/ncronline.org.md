@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncronline.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203011706id_/http%3A//www.natcath.org/mainpage/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncronline.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607214457id_/http%3A//www.natcath.org/mainpage/privacystatement.htm) for the most accurate reproduction.*
 
 # National Catholic Reporter
 
