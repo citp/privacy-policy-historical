@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmatch.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223202352id_/http%3A//www.xmatch.com/go/page/privacy.html%3Fdomain_cobrand%3Dxmatch) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmatch.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206230143id_/http%3A//xmatch.com/go/page/privacy.html%3Fdcb%3Dxmatch) for the most accurate reproduction.*
 
 # Xmatch PRIVACY POLICY
 
