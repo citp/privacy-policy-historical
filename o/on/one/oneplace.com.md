@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203124743id_/http%3A//oneplace.com/About_Us/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618042127id_/http%3A//oneplace.com/About_Us/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # OnePlace.com - Privacy Policy
 
@@ -36,7 +36,7 @@ OnePlace.com features an optional [Listener Survey](https://web.archive.org/Abou
 
 
 **Contests and Sweepstakes**   
-OnePlace.com runs a daily [Giveaway](https://web.archive.org/GiveAway/), as well as other occasional contests and sweepstakes, in which we ask for personally identifiable information such as your name, age, email address, and telephone number. We may also request additional optional information such as gender, marital status, and income level. These contests are completely voluntary, and information given may be entered upon the discretion of the entrant. We may then use this information: 
+OnePlace.com runs occasional contests and sweepstakes, in which we ask for personally identifiable information such as your name, age, email address, and telephone number. We may also request additional optional information such as gender, marital status, and income level. These contests are completely voluntary, and information given may be entered upon the discretion of the entrant. We may then use this information: 
 
   * To determine contest eligibility 
   * To notify winners 
@@ -65,11 +65,10 @@ If a parent wishes to refuse to permit collection or use of their child's inform
 
 If you have any questions or comments regarding children's privacy at OnePlace.com, please contact: 
 
-Rachel Hornor (Director of OnePlace.com)   
-1218 3rd Avenue, Suite 1300   
-Seattle, WA 98101   
-206-829-1301 x105   
-[rhornor@oneplace.com](mailto:rhornor@oneplace.com)
+Dennis Lacheney (Director of OnePlace.com)   
+9401 Courthouse Road, Suite 300   
+Chesterfield, VA 23832   
+[dennis@salemweb.net](mailto:dennis@salemweb.net)
 
 Your Consent   
 By using our Web site, you consent to the collection and use of Your Information by OnePlace.com as set forth in this Privacy Policy. OnePlace.com may at any time amend, modify, restate, or revise this Privacy Policy. We advise you to periodically visit this page to determine the current Privacy Policy that is in effect. 
