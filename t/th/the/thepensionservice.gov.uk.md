@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepensionservice.gov.uk privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602002410id_/http%3A//www.thepensionservice.gov.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepensionservice.gov.uk privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220222521id_/http%3A//www.thepensionservice.gov.uk/privacy_policy.asp) for the most accurate reproduction.*
 
-# The Pension Service - Combined pension forecasts -
+# The Pension Service - Privacy Policy
 
 ## Your data
 
