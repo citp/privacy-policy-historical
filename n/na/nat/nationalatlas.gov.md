@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604135559id_/http%3A//nationalatlas.gov/disclaimers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401114737id_/http%3A//nationalatlas.gov/disclaimers.html) for the most accurate reproduction.*
 
 # Notices and Disclaimers - National Atlas of the United States
 
@@ -125,5 +125,5 @@ Reston, Virginia 20192 USA
 are registered trademarks of the United States Department of the Interior    
 URL:  http://nationalatlas.gov/disclaimers.html   
 Comments and feedback:  [atlasmail](mailto:atlasmail@usgs.gov)   
-Last modification:  April 18, 2002 17:44 gm   
+Last modification:  April 18, 2002 00:00 gm   
 [Frequently Asked Questions](http://nationalatlas.gov/faq.html)
