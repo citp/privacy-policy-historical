@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603093410id_/http%3A//erieinsurance.com/AboutUs/PrivacyNotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012182553id_/http%3A//www.erieinsurance.com/AboutUs/PrivacyNotice.htm) for the most accurate reproduction.*
 
 # Erie Insurance Group Privacy Notice
 
