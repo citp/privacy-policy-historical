@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001170450id_/http%3A//curves.com/f_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402065620id_/http%3A//curves.com/f_privacy.htm) for the most accurate reproduction.*
 
 # Curves.com - woman's clothing brand name fashions designer womens wear the invisible breast enhancerNew Page 1
 
@@ -6,7 +6,7 @@
 
 It is important to _Curves.com_ that customers be comfortable about doing business with us. We want you to have confidence that your privacy will be protected when you take advantage of all the Internet has to offer. We are committed to protecting your privacy and developing technology that gives you the most powerful, safe, on-line experience that you can get anywhere.
 
-Questions regarding this statement should be directed to [privacy@curves.com](mailto:privacy@curves.com). If you have not received a response to your inquiry within seven days, or the response is unsatisfactorily, contact [WebMaster@curves.com](mailto:WebMaster@curves.com).
+[Contact us](https://web.archive.org/web/20040402065620id_/http%3A//curves.com/f_policies.htm) regarding any questions about this statement.. 
 
 This is the _Curves.com_ (BL Inc.) Privacy Program. This privacy statement discloses the privacy practices for _Curves.com_.   This web site has agreed to notify you of: 
 
@@ -68,13 +68,10 @@ WebMaster (re: Privacy)
 _Curves.com  
 _c/o 951-2 Old County Road, M/S 255  
 Belmont, CA 94002 USA  
-Tel: (650) 631-0130 FAX: (650) 654-1745  
-Email: 
+Tel: (650) 631-0130 FAX: (650) 654-1745
 
-[privacy@curves.com](mailto:privacy@curves.com)
+If for some reason you believe _Curves.com_ has not adhered to these principles, please 
 
-If for some reason you believe _Curves.com_ has not adhered to these principles, please notify us by e-mail at 
-
-[privacy@curves.com](mailto:privacy@curves.com), and we will use commercially reasonable efforts to promptly determine and correct the problem.
+[contact us](https://web.archive.org/web/20040402065620id_/http%3A//curves.com/f_policies.htm), and we will use commercially reasonable efforts to promptly determine and correct the problem.
 
 [Revised 1/10/2001]
