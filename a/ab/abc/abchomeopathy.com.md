@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the abchomeopathy.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606164919id_/http%3A//abchomeopathy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abchomeopathy.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002130231id_/http%3A//abchomeopathy.com/privacy.htm) for the most accurate reproduction.*
 
 # ABC Homeopathy - privacy policy
 
 | [ABC Homeopathy home](http://www.abchomeopathy.com/)  
 ---  
-  | [Copyright](https://web.archive.org/web/20030606164919id_/http%3A//abchomeopathy.com/copyright.htm)  
-  | [Disclaimer](https://web.archive.org/web/20030606164919id_/http%3A//abchomeopathy.com/disclaimer.htm)  
+  | [Copyright](https://web.archive.org/web/20031002130231id_/http%3A//abchomeopathy.com/copyright.htm)  
+  | [Disclaimer](https://web.archive.org/web/20031002130231id_/http%3A//abchomeopathy.com/disclaimer.htm)  
   | Privacy Policy  
-  | [Security Statement](https://web.archive.org/web/20030606164919id_/http%3A//abchomeopathy.com/security.htm)  
+  | [Security Statement](https://web.archive.org/web/20031002130231id_/http%3A//abchomeopathy.com/security.htm)  
 |   
 ABC Homeopathy - Privacy Policy
 
