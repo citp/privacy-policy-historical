@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibisworld.com.au privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210120242id_/http%3A//www.ibisworld.com.au/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibisworld.com.au privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621143621id_/http%3A//www.ibisworld.com.au/static/privacy.asp) for the most accurate reproduction.*
 
 # Market Research Reports by IBISWorld - Industry/Company/Business Economics in Australia
 
