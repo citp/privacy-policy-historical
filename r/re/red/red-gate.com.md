@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609141856id_/http%3A//red-gate.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204222422id_/http%3A//www2.red-gate.com/privacy.htm) for the most accurate reproduction.*
 
 # red-gate.com
 
