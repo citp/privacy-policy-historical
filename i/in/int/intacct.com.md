@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intacct.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603020715id_/http%3A//www.intacct.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intacct.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201213611id_/http%3A//www.intacct.com/company/privacy_policy.html) for the most accurate reproduction.*
 
 # Intacct - Privacy Policy
 
