@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 1999-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991117035215id_/http%3A//www.gurl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614200521id_/http%3A//www.gurl.com/privacy.html) for the most accurate reproduction.*
 
-# gURL privacy policy statement
+# gURL Privacy Policy
 
-`** **Our Privacy Policy Statement**  
+**   
+**Our Privacy Policy Statement**  
 gURL .com is owned by iTurf inc.   
 gURL .com is committed to protecting the privacy of our users. We sometimes collect personal information from our users. This web page explains what information we collect, why we collect it, what we do with it and what you can do about it. We also ask girls to always check with their parents before giving out any personal information on our website. **Collection of Personal Information**  
 gURL .com maintains the confidentiality, security and integrity of personal information that we obtain from our users. We do not disclose personal information to any outside party. 
@@ -16,11 +17,12 @@ You should be aware that when you are on gURL .com you could be directed to othe
 The importance of security for all personally identifiable information associated with our users is of utmost concern to us. We exercise great care in providing secure transmission of our users' financial information from their computers to our servers, utilizing encryption software. Only those employees who need access to our users' information in order to do their jobs are allowed access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. **How to Stop Receiving Mail from Us**  
 If you do not want to receive e-mail from gURL.com, you can let us know by sending gURL.com email at admin@gURL.com. **Correct or Update Information**  
 If you would like to correct or update information that you have previously provided gURL.com with, you can let us know by sending us email at admin@gURL.com, or you can send mail to the following postal address: gURL.com 435 Hudson Street, New York, NY 10014. **gURLmAIL.com**  
-We also operate the gURLmAIL.com website which has its own separate privacy policy. **Your Acceptance of These Terms**  
+We also operate the gURLmAIL.com website which has its own separate privacy policy. **Age Verification**  
+gURL.com is for girls 13 years of age and older. Girls under the age of 13 are not permitted to register with gURL.com (as per [Coppa](http://www.coppa.org/) \- Children's Online Privacy Protection Act). All users MUST verify that they are at least 13 years of age. **Your Acceptance of These Terms**  
 By using this site, you signify your assent to the gURL.com Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions. **Contacting Us**  
 If you have any questions our privacy policy, the practices of this site, or your dealings with this Web site, you can contact:  
 gURL.com  
 435 Hudson Street  
 New York, NY 10014  
 gURLstaff@gURL.com  
-**`****
+**
