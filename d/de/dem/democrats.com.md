@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607201603id_/http%3A//www.democrats.com/display.cfm%3Fid%3D67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011132357id_/http%3A//democrats.com/display.cfm%3Fid%3D67) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -16,6 +16,12 @@ We collect petition signatures to allow members to express their views on import
 
 We process online contributions and payments both for Democrats.com and for approved Democratic candidates, committees, and causes. You will receive an immediate confirmation by e-mail with our client's name in the description. All such payments will read "Democrats.com" on your credit card bill, even if the funds go to our client. We use secure SSL technology to protect your sensitive information. We do not store your credit card number in order to avoid fraud.
 
-We occasionally send advertising e-mails from approved Democratic candidates, committees, and causes. You may unsubscribe from this advertising list at any time without affecting your newsletter subscription or community membership by following the instructions at the bottom of each e-mail.
+We occasionally send advertising e-mails from approved Democratic candidates and committees, and progressive causes. You may unsubscribe from this advertising list at any time without affecting your newsletter subscription or community membership by following the instructions at the bottom of each e-mail. If you respond to our partner ads by contributing or subscribing or signing a petition, we will forward the information you provide to our partner. All of our partners must have a privacy policy similar to ours.
 
-We use anonymous aggregate statistics to help us improve our site.
+If we make significant changes to our privacy policy, we will notify you by e-mail and give you the opportunity to unsubscribe from our e-mail list.
+
+If you change your e-mail address, please unsubscribe from the mailings you are now receiving from us at your old address (by following the instructions at the bottom of each mailing), and [resubscribe](http://democrats.com/subscribe) with your new address.
+
+Finally, we use anonymous aggregate statistics to help us improve our site.
+
+Updated 7/1/04
