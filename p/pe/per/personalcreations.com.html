@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the personalcreations.com privacy policy that was archived on 2003-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030623012730id_/http%3A//www.personalcreations.com/service/service.asp%3Fcust_serv_id%3D201) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the personalcreations.com privacy policy that was archived on 2003-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205001628id_/http%3A//www.personalcreations.com/service/service.asp%3Fcust_serv_id%3D201) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript" src="/js/js_popafter.js"></script>
  
@@ -44,6 +44,18 @@ function swapImage(imgName,imgPath){
 }
 
 
+//for Search Box *************************************************
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_setTextOfTextfield(objName,x,newText) { //v3.0
+  var obj = MM_findObj(objName); if (obj) obj.value = newText;
+}
 //-->
 </script>
 
@@ -90,25 +102,35 @@ function swapImage(imgName,imgPath){
     </td>
     <td><a href="http://www.personalcreations.com/shop/catalog_order.asp"><img src="/estore_assets/images/nav/global_catalog_order.gif" alt="Place Catalog Order" width="128" height="69" border="0"></a></td>
     <td><a href="http://www.personalcreations.com/shop/gift_finder.asp"><img src="/estore_assets/images/nav/global_gift_finder.gif" alt="Gift Finder" width="94" height="69" border="0"></a></td>
-    <td>
-        <table cellpadding="0" cellspacing="0" border="0" id="Table4">
-        <form action="http://www.personalcreations.com/shop/thumbnail.asp" method="get" id="Form1"></form>
-        <tbody><tr>
-        <td colspan="4"><font class="normal">shop by keyword or item#</font></td>
-        </tr>
-        <tr>
-        <input type="hidden" name="search_type" value="search" id="Hidden1">
-        <td valign="middle" width="89" height="25">
-        <input type="text" name="search_words" size="18" maxlength="20" class="monospace" id="Text1"></td>
-        <td valign="top"><img src="/estore_assets/images/misc/spacer.gif" width="5" height="25" border="0" alt=""></td>
-        <td align="left" valign="middle"><input type="image" name="Go!" id="Image1" src="/estore_assets/images/nav/global_go_button.gif" alt="Go!" width="28" height="18" border="0"></td>
-        <td valign="top"><img src="/estore_assets/images/misc/spacer.gif" width="5" height="25" border="0" alt=""></td>
-        </tr>
-        <tr>
-        <td colspan="4"><a href="http://www.personalcreations.com/product_index.asp"><font class="normal">browse product index</font></a></td>
-        </tr>
-        
-        </tbody></table>
+ <!--New search box design 11/28/03 -->
+ 
+    <td align="right">
+		<table cellspacing="0" cellpadding="0" width="209" border="0">
+		  <tbody>
+		  <tr>
+			<td><form action="http://www.personalcreations.com/shop/search.asp" method="get" id="Form1"></form></td>
+			<td><img height="1" src="/estore_assets/images/misc/spacer.gif" width="150" border="0"></td>
+			<td><img height="1" src="/estore_assets/images/misc/spacer.gif" width="39" border="0"></td>
+			<td><img height="1" src="/estore_assets/images/misc/spacer.gif" width="10" border="0"></td>
+			<td><img height="1" src="/estore_assets/images/misc/spacer.gif" width="1" border="0"></td></tr>
+		  <tr>
+			<td colspan="4"><img height="41" src="/estore_assets/images/nav/search_box_image1.gif" width="209" border="0"></td>
+			<td><img height="41" src="/estore_assets/images/misc/spacer.gif" width="1" border="0"></td></tr>
+		  <tr>
+			<td rowspan="2"><img height="48" src="/estore_assets/images/nav/search_box_image2.gif" width="10" border="0"></td>
+			<td bgcolor="#9999CC" align="left" width="100"><font class="greyInput"><input class="greyInput" size="17" type="text" name="search_words" value="enter keyword or item #" onfocus="this.value=''"></font></td>
+			<td>
+			<input type="image" name="Go!" id="Image1" src="/estore_assets/images/nav/search_box_go.gif" width="39" border="0"></td>
+			<td rowspan="2"><img height="48" src="/estore_assets/images/nav/search_box_image3.gif" width="10" border="0"></td>
+			<td><img height="26" src="/estore_assets/images/misc/spacer.gif" width="1" border="0"></td></tr>
+		  <tr>
+			<td colspan="2"><img height="22" src="/estore_assets/images/nav/search_box_image4.gif" width="189" border="0"></td>
+			<td>
+			
+			</td>
+		   </tr>
+		   </tbody>
+		 </table>
     </td>
     </tr>
     </tbody></table>
@@ -357,7 +379,7 @@ function open_window(url)
 <font class="normal">
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td align="top"><img src="/estore_assets/images/misc/spacer.gif" width="105" height="1" border="0" alt=""><br><a href="javascript:open_window('https://digitalid.verisign.com/as2/ba793c293788a9b485c6cdbed0bc4bb5')"><img alt="Versign" src="/estore_assets/images/misc/VeriSignSeal.gif" border="0" width="95" height="99" align="top"></a><br><br>
+<td align="top"><img src="/estore_assets/images/misc/spacer.gif" width="105" height="1" border="0" alt=""><br><a href="javascript:open_window('https://digitalid.verisign.com/as2/c67f76cf08f8d52c614464b9aa410c7f')"><img alt="Versign" src="/estore_assets/images/misc/VeriSignSeal.gif" border="0" width="95" height="99" align="top"></a><br><br>
 </td>
 <td align="top" class="normal">We would like your shopping experience to be pleasant and safe. After you click the Checkout button, you'll see that the prefix in the URL is "https:" and the "s" means that the site is secure. To protect the information you send with your order, we use Secure Sockets Layer (SSL) technology. SSL encrypts the information you send over the Internet so only Personal Creations can decode it. If your browser doesn't allow communication through secure servers, please place your order by phone at 1-800-326-6626. Please do not email your credit card information, because email is not encrypted. <br><br>
 </td>
