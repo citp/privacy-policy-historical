@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203210132id_/http%3A//www.photoworks.com/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624034635id_/http%3A//www.photoworks.com/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ This site contains links to other sites that may include partners or affiliates 
 Keeping your personal and financial information secure is vitally important to us. We urge you not to disclose your personal information or password to anyone. The PhotoWorks site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Financial information is transferred between client and PhotoWorks Web server using a public/private key encryption method using a certificate authority (VeriSign). We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Access to data is limited to authorized PhotoWorks staff members. Web security and security procedures are reviewed and updated to ensure data protection. 
 
 **What is the PhotoWorks policy regarding the ability to update, correct, or delete personally identifiable information?**  
-If your contact information changes, please notify customer service by phone at 1-800-746-8696 or send an e-mail message to customercare@photoworks.com. If you have forgotten your password, please request a new password by sending an e-mail message to customercare@photoworks.com.
+If your contact information changes, please notify customer service by e-mail at customercare@photoworks.com. If you have forgotten your password, please request a new password by sending an e-mail message to customercare@photoworks.com.
 
 Your PhotoWorks account can be deactivated, but doing so will result in not being able to access any password-protected area of the PhotoWorks site. Please contact privacy@photoworks.com for further instructions about deactivating your PhotoWorks account.
 
@@ -75,9 +75,9 @@ If you are participating in a PhotoWorks promotion and you wish to update your e
 **Does PhotoWorks provide the ability for customers to “opt out”?**  
 Our users are given the opportunity to “opt out” of having their information used for purposes not directly related to our site at the point where we ask for the information. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by including “no e-mail” in the subject line of their return e-mail or e-mail us at privacy@photoworks.com. You may also notify customer service by phone at 1-800-746-8696. 
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by including “no e-mail” in the subject line of their return e-mail or e-mail us at privacy@photoworks.com. 
 
-We make every effort to make our e-mail updates and announcements regarding promotions, special offers, contests, and sweepstakes relevant to our customers, but they always have the opportunity to opt-out when registering with us. They may also notify customer service by phone at 1-800-746-8696 or send an e-mail message to privacy@photoworks.com with their request to opt out of receiving communications from PhotoWorks. 
+We make every effort to make our e-mail updates and announcements regarding promotions, special offers, contests, and sweepstakes relevant to our customers, but they always have the opportunity to opt-out when registering with us. They may also notify customer service by e-mail at privacy@photoworks.com with their request to opt out of receiving communications from PhotoWorks. 
 
 **Are children eligible to use the Web site?**  
 Children under the age of 13 are not eligible to use our services and we ask that they do not submit any personal information to us. If you are under the age of 13, you can use this service only in conjunction with your parents or guardians. We strongly recommend that parents and guardians supervise their children’s use of the Web site. Although access to photographs is password-protected, children who obtain access to a personal password may have the ability to post or distribute personally identifiable scanned or uploaded photos, or may provide others with the ability to view or purchase such photographs by sending an e-mail invitation as described above. 
