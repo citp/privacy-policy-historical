@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mi.gov privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603125406id_/http%3A//mi.gov/emi/1%2C1303%2C7-102----PP%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi.gov privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206055808id_/http%3A//www.mi.gov/emi/0%2C1303%2C7-102----PP%2C00.html) for the most accurate reproduction.*
 
 # Michigan.gov - The Official State of Michigan Web Site
 
