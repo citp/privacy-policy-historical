@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the envoy.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031545id_/http%3A//www.envoy.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envoy.com privacy policy that was archived on 2003-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030208054802id_/http%3A//www.webmdenvoy.com/pages/privacy.html) for the most accurate reproduction.*
 
 # WebMD Professional Portal Privacy Policy and Agreement
 
