@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knoll.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204222625id_/http%3A//www.knoll.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knoll.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208002526id_/http%3A//www.knoll.com/privacy.jsp) for the most accurate reproduction.*
 
 # Knoll: Privacy
 
