@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the zagat.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606231446id_/http%3A//zagat.com/about/privacy_policy.asp%3FVID%3D1%26PID%3D1%26LID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zagat.com privacy policy that was archived on 2002-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020808160552id_/http%3A//www.zagat.com/about/privacy_policy.asp%3FVID%3D1%26PID%3D1%26LID%3D) for the most accurate reproduction.*
 
 # ZAGAT SURVEY: BY POPULAR VOTE
 
-Last Updated: January 2, 2002
+Last Updated: July 15, 2002
 
 This overall Privacy statement verifies, among other things, that Zagat Survey, LLC ("we" or "us" or "Zagat") on the Web is a member of the TRUSTe program and is in compliance with TRUSTe Privacy principles.
 
 [](http://www.truste.org/validate/6325)
 
-This confirms that Zagat Survey, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your Privacy, it has agreed to disclose its information practices and have its Privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this Web site has agreed to notify you of: 
+Zagat Survey, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your Privacy, it has agreed to disclose its information practices and have its Privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this Web site has agreed to notify you of: 
 
   1. Personally identifiable information about you or a third party that is collected from you through the Web site 
   2. The organization collecting the information 
@@ -20,7 +20,9 @@ This confirms that Zagat Survey, LLC is a licensee of the TRUSTe Privacy Program
 
 We always have and always will respect your privacy. Any information that you give us is held with the utmost care and will not be used other than as described in this privacy policy. 
 
-Zagat has created this privacy policy to demonstrate its commitment to your privacy on zagat.com. The "Zagat" name and reputation have been built on the trust of its customers, and we hope that our commitment to online privacy will inspire the same trust in you while you are visiting zagat.com. We have adopted a set of information management guidelines which serve as the basis for our customer relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. Please read this privacy policy to understand how your personal information will be treated as you use zagat.com. Please see our [Terms of Use](https://web.archive.org/web/20020606231446id_/http%3A//zagat.com/about/terms_of_use.asp?VID=1&PID=1&LID=) for more information about our online policies in general.
+Zagat has created this privacy policy to demonstrate its commitment to your privacy on zagat.com. The "Zagat" name and reputation have been built on the trust of its customers, and we hope that our commitment to online privacy will inspire the same trust in you while you are visiting zagat.com. We have adopted a set of information management guidelines which serve as the basis for our customer relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. Please read this privacy policy to understand how your personal information will be treated as you use zagat.com. Please see our [Terms of Use](https://web.archive.org/web/20020808160552id_/http%3A//www.zagat.com/about/terms_of_use.asp?VID=1&PID=1&LID=) for more information about our online policies in general. 
+
+If you have questions or concerns regarding this statement, you should first contact: [feedback@zagat.com](mailto:feedback@zagat.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe: [www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 **The Information We Collect**  
 We collect personal information from you on zagat.com only when it is specifically and knowingly provided by you. 
@@ -81,6 +83,6 @@ Upon request, zagat.com will:
 To request a correction or cancellation, send e-mail to [feedback@zagat.com](mailto:feedback@zagat.com).
 
 **Notification of Changes**  
-If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt out or otherwise prevent that use. You may determine when this privacy policy was updated last by noting the "Last Updated" date directly beneath the title of this page.
+If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt out or otherwise prevent that use (we will post a notification of such changes 30 days prior to their implementation). You may determine when this privacy policy was updated last by noting the "Last Updated" date directly beneath the title of this page.
 
 Thank you for reading this privacy policy and for using zagat.com.
