@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405032657id_/http%3A//allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214162430id_/http%3A//allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AllStays(tm)
 
 **PRIVACY POLICY**  
 
+
+**Last Updated: April 27th, 2001.**
 
 AllStays is concerned about privacy on the internet. Please read the following to learn more about our privacy policy. Our site does not contain any objectionable material and is not adult-oriented in any manner. 
 
@@ -18,8 +20,8 @@ AllStays is concerned about privacy on the internet. Please read the following t
 **Information Collection and Use**  
 
 
-  * AllStays does not collect any information at all from users of our directory service. The only information that is collected is information that may be requested for entry into sweepstakes, contests or promotions. AllStays may possibly receive personally identifiable information from our business partners but that is not in practice. 
-  * AllStays does automatically receive and record information on server logs from your browser including your IP Address. AllStays does not employ the use of cookies to garner information. 
+  * AllStays does not collect any information at all from users of our directory service. The only information that is collected is information that may be requested for entry into sweepstakes, contests or promotions. You have to manually opt-in for this information to be collected. AllStays may possibly receive personally identifiable information from our business partners but that is not in review or practice. 
+  * AllStays does automatically receive and record information on server logs from your browser including your IP Address. AllStays does not employ the use of cookies to garner information. We only track a referrer (the site or search engine you came from before AllStays.com) in order to aid in our marketing study for future efforts. 
   * Any information that AllStays does gather is used for traffic study, customizing advertising, and evaluating what features you like to view on the site.
 
 **Information Sharing and Disclosure**  
@@ -27,16 +29,16 @@ AllStays is concerned about privacy on the internet. Please read the following t
 
   * AllStays will not sell, rent or disclose personally identifiable information. 
   * AllStays may send personally identifiable information to other companies or people when: 
-    * We have your consent to share the information; 
-    * We need to share your information to provide the product or service you have requested; 
+    * We only have your consent to share the information; 
+    * We need to share your information to provide the product or service you have requested or contracted; 
     * We respond to subpoenas, court orders or legal process; or 
-    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20010405032657id_/http%3A//allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
+    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20011214162430id_/http%3A//allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
 
 **Cookies And AllStays**  
 
 
   * AllStays may set and access cookies on your computer in the future but is not currently in our practices. 
-  * Other companies' use of their cookies is subject to their own privacy policies, not AllStays policy. 
+  * Other companies' use of their cookies is subject to their own privacy policies, not AllStays policy. We do try to avoid other companies cookies. 
 
 **Changes to this Privacy Policy**  
 
@@ -46,6 +48,6 @@ AllStays is concerned about privacy on the internet. Please read the following t
 **Questions or Suggestions**  
 
 
-  * If you have any questions or suggestions, please send an email to [policy@allstays.com](mailto:privacypolicy@yahoo-inc.com). 
+  * If you have any questions or suggestions, please send an email to [contact@allstays.com](mailto:contact@allstays.com). 
 
 
