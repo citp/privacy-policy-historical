@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriottvacationclub.com privacy policy that was archived on 2001-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010807100040id_/http%3A//www.marriottvacationclub.com/mvc/Legal%2BState%2BDisclosures/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriottvacationclub.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601194236id_/http%3A//www.marriottvacationclub.com/mvc/Legal%2BState%2BDisclosures/Privacy%2BPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Legal State Disclosures - Marriott Vacation Club International
 
@@ -28,6 +28,10 @@ We collect the domain name of visitors to our Web page, the e-mail addresses of 
 The information we collect is used to improve the content of our website, used to customize the content and/or layout of website for individual visitors, used to notify consumers about updates to our website, and used by us to contact consumers for marketing purposes. 
 
 We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and strict corporate policies regarding protection and use of confidential information. Because laws applicable to personal information vary by country, additional measures that vary depending on the applicable legal requirements may be put in place. Information is generally processed and stored in the United States, in which data protection laws are not as comprehensive as in the European Union. 
+
+**Children's Privacy**
+
+This site is not intended for children and we do not knowingly solicit or collect personal information from children. 
 
 **Cookies**
 
@@ -61,7 +65,13 @@ Marriott Vacation Club International may send personally identifiable informatio
   * We respond to subpoenas, court orders or legal process; or 
   * We find that your actions on our web site violate our usage guidelines. 
 
-**Links to Other Sites**
+
+
+**Legal Issues**
+
+This is a United States website and is subject to United States law. Marriott Vacation Club International will disclose personal information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to Marriott Vacation Club International guests, visitors, associates, or property (including this site), or to others.
+
+ **Links to Other Sites**
 
 If you choose to leave this website via links to other sites, Marriott Vacation Club International is not responsible for the privacy policies or content of those sites, nor is Marriott Vacation Club International responsible for the cookies those sites might deposit on your hard drive. 
 
