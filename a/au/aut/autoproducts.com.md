@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203034912id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604195115id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Auto Products
 
@@ -27,23 +27,25 @@ No links, banners, ads, or any type of advertising will be available to or for a
 
 Our site's registration form requires users to give us contact information (like their name, email, and postal address). 
 
-Contact information from the registration forms is used to ship purchases, information about our company and mailing list. The customer's contact information is also used to send promotional material from some of our partners to our customers. 
+Contact information from the registration forms is used to send information about our company and mailing list. The customer's contact information is also used to send promotional material from some of our partners to our customers. 
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Users may opt-out of receiving future mailings from AutoProducts.com; see the choice/opt-out section below. 
 
-None of the information that is collected by this web site is, rented or sold for any purpose whatsoever
+None of the information that is collected by this web site is, rented or sold for any purpose whatsoever. 
 
 ####  Order Forms 
 
 Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), and financial information (like their account or credit card numbers). 
 
-Contact information from the order forms is used to ship purchases, and information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers. 
+Contact information from the order forms is used to ship purchases, and information about our company. If there is a problem with an order, this information will used to contact you. The customer's contact information is also used to send promotional material from some of our partners to our customers. 
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+None of the information that is collected by this web site is, rented or sold for any purpose whatsoever
+
+Users may opt-out of receiving future mailings from AutoProducts.com; see the choice/opt-out section below. 
 
 Financial information that is collected is used to bill the user for products and services. 
 
-Financial information (like their account or credit card numbers)  will be collected by RegSoft.com. Financial information provided to RegSoft.com is not shared with us, we do not have access to this information. 
+Financial information (like their account or credit card numbers). Financial information provided is not shared with us, we do not have access to this information. 
 
 ####  External Links 
 
@@ -51,23 +53,27 @@ This site contains links to other sites. **Auto Products** is not responsible fo
 
 ####  Special Relationships 
 
-This site collects and provides content, merchandise, and services from third party sites or company's. Although they are from reliable sources, Auto Products.com is not responsible for the privacy practices, guarantees or warrantees for merchandise, services or the accuracy of content provided by any third party site or company.
+This site collects and provides content, merchandise, and services from third party sites or company's. Although they are from reliable sources, AutoProducts.com is not responsible for the privacy practices, guarantees or warrantees for merchandise, services or the accuracy of content provided by any third party site or company.
 
 This site contains links to other sites not owned by AutoProducts.com, these sites or company's offer business opportunities, merchandise, services, etc, the information or data that you provide to these sites or company's are not shared with us, we do not have access to this information. 
 
 This website is hosted and powered by HOST4PROFIT.com 
 
+Newsletters
+
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. We use a third party company to manage our newsletter bcentral.com. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the unsubscribe instructions included in each newsletter provided by bcentral.com or communication or by emailing us at [ [ support@autoproducts.com ](mailto:support@autoproducts.com) ] 
+
+None of the information that is collected by this web site is, rented or sold for any purpose whatsoever
+
 ####  Supplementation of Information 
 
-This site supplements the information that you provide with information that is received from third parties. Order and affiliate confirmation notices. 
+This site supplements the information that you provide with information that is received from third parties. Orders and affiliate confirmation notices, newsletter sign ups. 
 
 ####  Data Quality/Access 
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email to [ support@autoproducts.com ](mailto:support@autoproducts.com)
-
-
+You can send email to [ support@autoproducts.com ](mailto:support@autoproducts.com)  
 
 ##  Contacting the Web Site 
 
@@ -76,13 +82,14 @@ If you have any questions about this privacy statement, the practices of this si
 
 [ comments@autoproducts.com ](mailto:comments@autoproducts.com)  
 
-**Customer  Service  
-**We at AutoProducts.com make every effort to provide the best service to all our customers, and we will honor all customers requests in a timely fashion. We respect your privacy and none of the  information that is collected by this web site is, rented or sold for any purpose whatsoever. 
+We at AutoProducts.com make every effort to provide the best service to all our customers, and we will honor all customers requests in a timely fashion. Based upon the personally identifiable information you provide us, we will also communicate with you in response to your inquiries you request. We will communicate with you by email, etc., in accordance with your wishes.
+
+We respect your privacy and none of the  information that is collected by this web site is, rented or sold for any purpose whatsoever. 
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
 
  **   
-ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam.  [SPAM POLICY](https://web.archive.org/web/20031203034912id_/http%3A//www.autoproducts.com/spampolicy.htm)   
+ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam.  [SPAM POLICY](https://web.archive.org/web/20040604195115id_/http%3A//www.autoproducts.com/spampolicy.htm)   
 Report Spam: [ support@autoproducts.com ](mailto:support@autoproducts.com)  
 
-AutoProducts.com will not be responsible for SPAMMING, SPOOFING / FORGED email, or any illegal activity advertisers, affiliates clients or individuals participate in or performs. This type of action will immediately terminate any and all contracts and services with the advertisers, affiliates or clients and all Spammers will be subject to legal action and held responsible for all damages.
-
-Copyright © 1997-2003 [Auto Products.com] All rights reserved. 
+Copyright © 1997-2004 [Auto Products.com] All rights reserved. 
