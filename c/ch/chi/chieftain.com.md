@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613112330id_/http%3A//www.chieftain.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204042200id_/http%3A//www.chieftain.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,12 +33,14 @@ If you supply us with your postal address online, you may receive periodic maili
 **Information shared with other organizations**  
 From time to time, we make our customer list available to other companies or organizations whose products or services we think you might find interesting. This list can include your email address and, if you have provided it to us online, your postal address and your telephone number. If you do not want us to share your e-mail address, postal address and/or telephone number with other companies or organizations, please let us know by sending email to us at the above-listed address, calling us at the above-listed telephone number or writing to us at the above-listed address. In your request, please specify what information you do not want to be shared, your email address, postal address and/or telephone number, and provide us with your exact name, postal address and telephone number. We will be sure your name is removed from the list we share with other organizations.
 
-[](http://www.chieftain.com/)
+*The Pueblo Chieftain Internet Services reserves all publishing rights and approval for publishing.
 
-Please send us your [comments](mailto:comments@chieftain.com) and suggestions  
-or e-mail our [Webmaster](mailto:webmaster@chieftain.com).
+[ ]()  
+Please send us your [comments](mailto:comments@chieftain.com)and suggestions  
+or e-mail our [Webmaster](mailto:webmaster@chieftain.com).  
+[View our Privacy Statement](http://www.chieftain.com/privacy_statement.htm)  
 
-[Privacy Statement](https://web.archive.org/web/20000613112330id_/http%3A//www.chieftain.com/privacy_statement.htm)
 
-Copyright©1996-2000 The Star-Journal Publishing Corp.  
+©1996-2000 [Chieftain.com](http://www.chieftain.com/)  
+The Star-Journal Publishing Corp.  
 Pueblo, Colorado U.S.A.
