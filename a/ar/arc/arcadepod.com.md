@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2001-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011206000037id_/http%3A//arcadepod.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605043815id_/http%3A//arcadepod.com/privacy.htm) for the most accurate reproduction.*
 
 # ArcadePod.Com: The Ultimate Free Gaming Resource Zone.
 
