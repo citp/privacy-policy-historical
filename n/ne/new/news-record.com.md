@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-record.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017074912id_/http%3A//www.news-record.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-record.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402143258id_/http%3A//www.news-record.com/privacy.htm) for the most accurate reproduction.*
 
 # News-Record.com Privacy Policy
 
@@ -8,7 +8,7 @@
 _As of April 18, 2001_
 
 **Introduction**  
-Welcome to the News & Record, a newspaper located in the Piedmont Triad of North Carolina. We believe in your right to know what information is collected from you when doing business with us or visiting our web sites and how that information is used and safeguarded. The following privacy policy applies to News-Record.com, TheDepot.com, News & Record Direct, and all other businesses and Web sites operated by the Greensboro News & Record, Inc. 
+Welcome to the News & Record, a newspaper located in the Piedmont Triad of North Carolina. We believe in your right to know what information is collected from you when doing business with us or visiting our web sites and how that information is used and safeguarded. The following privacy policy applies to News-Record.com, News&Record Interactive.com, News & Record Direct, and all other businesses and Web sites operated by the Greensboro News & Record, Inc. 
 
 The News & Record is affiliated with other online companies, some of which feature our branding. This policy statement does not apply to those companies' web sites; please refer to these affiliated sites to obtain information on their privacy policies. These sites include, but are not limited to, Cars.com and Zip2.com. 
 
