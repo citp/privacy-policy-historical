@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcgameweb.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201165122id_/http%3A//www.gamerweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcgameweb.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408120841id_/http%3A//www.gamerweb.com/privacy.html) for the most accurate reproduction.*
 
 # GamerWeb.com: Superior Games Coverage
 
