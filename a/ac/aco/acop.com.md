@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622074026id_/http%3A//www.acop.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208183657id_/http%3A//acop.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # American Consumer Opinion - Privacy Policy
 
@@ -212,7 +212,7 @@ Back to top
   * If you believe we have violated our stated Privacy Policy with respect to personal information you have entrusted to us, you have several options:
   * We urge you to contact our [Internet Operations Department](mailto:aparks@acop.com) so we may investigate your complaint.
   * You may also file a complaint with the [ Council of American Survey Research Organizations (CASRO)](http://www.casro.org/), 3 Upper Devon, Port Jefferson, New York 11777.
-  * You may also contact the [TRUSTe Users Watchdog](http://www.truste.org/users/users_watchdog_intro.html). Decision Analyst and American Consumer Opinion® support TRUSTe's comprehensive assurance process. In order to ensure compliance with its Privacy Program, TRUSTe monitors our site by conducting initial and periodic reviews and "seeding" (tracking unique identifiers in our site's database). TRUSTe also relies on online users to report violations of posted privacy statements or specific privacy concerns. If a TRUSTe participant is suspected of non-compliance with the TRUSTe principles, TRUSTe will investigate the issue, which could result in penalties, additional audits, or revocation of the participant's right to use the TRUSTe trustmark. Extreme violations may even be taken to the Federal Trade Commission. 
+  * You may also contact the [TRUSTe Users Watchdog](http://www.truste.org/watchdog.html). Decision Analyst and American Consumer Opinion® support TRUSTe's comprehensive assurance process. In order to ensure compliance with its Privacy Program, TRUSTe monitors our site by conducting initial and periodic reviews and "seeding" (tracking unique identifiers in our site's database). TRUSTe also relies on online users to report violations of posted privacy statements or specific privacy concerns. If a TRUSTe participant is suspected of non-compliance with the TRUSTe principles, TRUSTe will investigate the issue, which could result in penalties, additional audits, or revocation of the participant's right to use the TRUSTe trustmark. Extreme violations may even be taken to the Federal Trade Commission. 
 
 
 
