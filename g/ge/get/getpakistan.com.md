@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the getpakistan.com privacy policy that was archived on 2001-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010412233652id_/http%3A//www.getpakistan.com/home/gpc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpakistan.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204161849id_/http%3A//www.getpakistan.com/home/gpc/privacy.htm) for the most accurate reproduction.*
 
 # getPakistan.com: Privacy Policy
 
-getPakistan.com Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: getPakistan.com.
+getPakistan.com Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for getPakistan.com.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site.
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. ** MAKE SURE that you explain the other data that you mentioned you collect here. **
+Our site's membership form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the membership form to send the user information about our company and its products. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
 getPakistan.com contains links to other sites. getPakistan.com is not responsible for the privacy practices or the content of such Web sites.
 
