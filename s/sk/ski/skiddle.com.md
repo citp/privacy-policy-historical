@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609182556id_/http%3A//www.skiddle.com/w3c/policy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207215738id_/http%3A//www.skiddle.com/w3c/policy1.html) for the most accurate reproduction.*
 
 # Privacy Statement for skiddle.com
 
 ## About Us
 
-This is a privacy policy for skiddle.com. Our homepage on the Web is located at [ http://www.skiddle.com](http://www.skiddle.com/). The full text of our privacy policy is available on the Web at [ http://www.skiddle.com/w3c/policy1.html](http://www.skiddle.com/w3c/policy1.html) Users may go to [ http://www.skiddle.net/cgi-bin/eflyer/mojo/mojo.cgi](http://www.skiddle.net/cgi-bin/eflyer/mojo/mojo.cgi) for information on how to opt-in or opt-out of use of their information. 
+This is a privacy policy for skiddle.com. Our homepage on the Web is located at [ http://www.skiddle.com](http://www.skiddle.com/default.shtml). The full text of our privacy policy is available on the Web at [ http://www.skiddle.com/w3c/policy1.html](http://www.skiddle.com/w3c/policy1.html) Users may go to [ http://www.skiddle.net/cgi-bin/eflyer/mojo/mojo.cgi](http://www.skiddle.net/cgi-bin/eflyer/mojo/mojo.cgi) for information on how to opt-in or opt-out of use of their information. 
 
 You may contact us by e-mail at [ info@skiddle.com](mailto:info@skiddle.com). You may call us at 07764 49 22 23. 
 
