@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the everyone.net privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203042721id_/http%3A//www.everyone.net/p_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyone.net privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605125422id_/http%3A//www.everyone.net/p_policy.html) for the most accurate reproduction.*
 
 # Everyone.net
 
    
 
 
-  [Agreements](https://web.archive.org/web/20031203042721id_/http%3A//www.everyone.net/agreements.html) > Privacy Policy  
+  [Agreements](https://web.archive.org/web/20040605125422id_/http%3A//www.everyone.net/agreements.html) > Privacy Policy  
 
 
-  If you have questions or concerns regarding this Policy, you should first contact Everyone.net via email ([privacypolicy@everyone.net](mailto:privacypolicy@everyone.net)) or mail (2216 O'Toole Ave, San Jose, CA 95131). 
+  If you have questions or concerns regarding this Policy, you should first [contact Everyone.net](https://web.archive.org/web/20040605125422id_/http%3A//www.everyone.net/contact.html).
 
   Everyone.net™ Incorporated ("Everyone.net") has the following Privacy Policy with respect to information gathered on Web pages hosted by Everyone.net ("Service Pages"). Such information is received by both Everyone.net and the owner of the Web site through which you may have requested Everyone.net services (the "Client"). You should contact the Client to determine the privacy policy, if any, that applies to the Client's collection and use of such information. However, in no event shall Everyone.net be liable for the Client's use or disclosure of such information.
 
@@ -56,11 +56,11 @@ To protect your privacy and security, we will take reasonable steps to verify yo
 
   **How to Contact Us**
 
-  Should you have other questions or concerns about this privacy policy, please contact us by email ([privacypolicy@everyone.net](mailto:privacypolicy@everyone.net)) or postal mail (2216 O'Toole Avenue, San Jose, CA 95131).
+  Should you have other questions or concerns about this privacy policy, please [contact us online](https://web.archive.org/web/20040605125422id_/http%3A//www.everyone.net/contact.html) or via postal mail: 2216 O'Toole Avenue, San Jose, CA 95131-1326.
 
   **Email, Search, and Community Specific Terms and Conditions**
 
-  Everyone.net considers email transmitted via our service to be private correspondence between the sender and recipient. Therefore, we will not monitor, edit or disclose the contents of your private communications, except for reasons provided for in the [End-User Agreement](https://web.archive.org/web/20031203042721id_/http%3A//www.everyone.net/agreement_enduser.html).
+  Everyone.net considers email transmitted via our service to be private correspondence between the sender and recipient. Therefore, we will not monitor, edit or disclose the contents of your private communications, except for reasons provided for in the [End-User Agreement](https://web.archive.org/web/20040605125422id_/http%3A//www.everyone.net/agreement_enduser.html).
 
   Content posted to public community areas is publicly available, and Everyone.net reserves the right to remove any publicly posted content that it deems to be objectionable.
 
@@ -70,4 +70,4 @@ To protect your privacy and security, we will take reasonable steps to verify yo
 
 If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
 
-  For more information on how Engage Media manages the privacy of information in conjunction with serving ads on our network, please visit [http://www.engage.com/privacy](http://www.engage.com/privacy/). For more information on how DoubleClick manages the privacy of information in conjunction with serving ads on our network, please visit <http://www.doubleclick.net:8080/privacy_policy>. For more information on how Advertising.com manages the privacy of information in conjunction with serving ads on our network, please visit <http://www.advertising.com/privacy/index.html>.
+  For more information on how Accipiter manages the privacy of information in conjunction with serving ads on our network, please visit <http://www.accipiter.com/about/privacy.php>. For more information on how DoubleClick manages the privacy of information in conjunction with serving ads on our network, please visit <http://www.doubleclick.com/us/about_doubleclick/privacy/>. For more information on how Advertising.com manages the privacy of information in conjunction with serving ads on our network, please visit <http://www.advertising.com/Privacy.html>.
