@@ -1,24 +1,30 @@
-> *The following text is extracted and transformed from the ragesw.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616172701id_/http%3A//ragesw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragesw.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/privacy.html) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Rage Software Privacy Policy
 
 **General**
 
-Rage Software respects the privacy of every individual who visits our website.
+Rage Software respects the privacy of every individual who visits our web site.
 
   * Rage Software will not collect any personally-identifiable information about you (ie. your name, address, or email address) unless you provide it voluntarily.
   * Rage Software will not give, trade, sell, or otherwise distribute the personal information you provide us with. 
-  * Rage Software will often provide links to websites that our out of our control, but that we feel are appropriate for viewers. Rage Software is not responsible for the content or privacy policy of the Web sites we may link to. 
+  * Rage Software will often provide links to web sites that our out of our control, but that we feel are appropriate for viewers. Rage Software is not responsible for the content or privacy policy of the Web sites we may link to. 
 
 **Information that we collect**
 
 When you visit ragesw.com, we collect basic information that does not identify individual users. The information that we collect includes which pages are visited, the page that refereed you to our site and some information about your browser and OS type.
 
-We do not collect personal information such as email, name, address, etc... unless you voluntarily submit it to us. When you purchase our software only the fields that you fill out our sent to us.
+We do not collect personal information such as email, name, address, etc... unless you voluntarily submit it to us. When you purchase our software only the fields that you fill out are sent to us.
+
+**Surveys and Other Online Forms**
+
+To help use make both our services and software better, we ask that you fill out our [Online Survey](https://web.archive.org/survey.html) so that we know what you want and can serve you better. 
+
+By filling out our survey you allow us to use any information that is submitted along with your name on our web site. We will not however use your email or any other personal information on our web site or in our products.
 
 **How we use information**
 
-The information that we collect helps us make our website better, get you your unlock code for our products and send you replay emails to your questions and comments.
+The information that we collect helps us make our web site better, get you your serial numbers for our products and send you reply emails to your questions and comments.
 
 When you submit a question via our online form, your email address allows us to reply to you and answer your queries. We will never sell, or give your email address to any third party organizations
 
@@ -34,4 +40,22 @@ All information you enter in the Kagi.com order form will be shared with Rage So
 
 Rage Software is dedicated to providing you with an easy and safe way to purchase our products. We also respect your privacy and will never release the information that we collect to third party organizations. For more information please contact as at [support@ragesw.com](mailto:support@ragesw.com)
 
+| [Online Store](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/store/)  
+[Press Room](https://web.archive.org/pressroom/)  
+[Contact Us](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/contact.html)  
+[Products](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/products/)  
+[Support](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/support/)  
+[Newsletter](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/newsletter.html)
+
 * * *
+
+[Macintosh Explorer](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/explorer/)  
+[WebDesign](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/webdesign/)   
+[Invisible Finder](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/invisfinder/)  
+[CSM Maker](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/csmmaker/)[Learn More About Our Software](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/products/)
+
+* * *
+
+ _"I am very impressed with the quality of support that you offer and your constant updates to your wonderful product line. Can't wait to see what you have planned for the future."_  
+ **Andrew Roberts  
+Customer**
