@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202001053id_/http%3A//www.comics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203024550id_/http%3A//www.comics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
 
 # Comics.com Privacy Policy
 
@@ -8,8 +8,8 @@ At **United Media** , we believe that greater protection of personal privacy on 
 **Comics by E-mail.**  
 When a user registers for Comics by E-mail, personal information is collected. The following information is retained after registration is successfully completed: user name, e-mail address, zip code, gender and age.
 
-**Send a Strip.**  
-Comics.com welcomes all of its users to send comic strips to their friends. While users are required to provide their names and e-mail addresses to utilize this service, that information is only temporarily retained by United Media. It is also forwarded to the recipients of the comic strips. 
+**Send a Strip and E-cards.**  
+Comics.com welcomes all of its users to send comic strips and e-cards to their friends. While users are required to provide their names and e-mail addresses to utilize these services, that information is only temporarily retained by United Media. It is also forwarded to the recipients of the comic strips and e-cards. 
 
 **Use of Information.**  
 We may disclose personally identifiable information to third parties when required by law or in the event such information is relevant to judicial or government investigations or proceedings, or otherwise necessary to protect our website or the safety of its users. Finally, United Media may also use information obtained from cookies to perform statistical analyses of aggregate user behavior, but personally identifiable information is not used in that instance. We may use that information for internal purposes to improve content and design, and share it, _in the aggregate_ , with advertisers. 
