@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sapphicerotica.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207042147id_/http%3A//www.sapphicerotica.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sapphicerotica.com privacy policy that was archived on 2005-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050121181310id_/http%3A//tour.sapphicerotica.com/privacypolicy.html) for the most accurate reproduction.*
 
 # SAPPHIC EROTICA - Customer Support
 
@@ -14,4 +14,4 @@ We do not collect any customer information. Please see our payment processors' P
 
 [Click Here To Read CCBill's Privacy Policy](http://about.ccbill.com/html_forms/privacy_policy-english.html)
 
-[Click Here To Read iBill's Privacy Policy](http://www.ibill.com/about/privacy.cfm)
+[Click Here To Read Paycom's Privacy Policy](http://www.paycom.net/privacy.html)
