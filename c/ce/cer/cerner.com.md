@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205230800id_/http%3A//www.cerner.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2001-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010223025301id_/http%3A//www.cerner.com/privacy.asp) for the most accurate reproduction.*
 
 # Cerner Privacy
-
-|  | 
 
 ## Cerner.com Privacy Policy ****
 
@@ -83,6 +81,4 @@ You can call the following telephone number: (816) 201-1323
 ****
 
 ******Online Service Agreement**  
-Please see Cerner’s [Terms of Use](https://web.archive.org/web/20001205230800id_/http%3A//www.cerner.com/termsofuse.htm) Agreement for other terms and conditions governing your use of Cerner.com. 
-
-|  | 
+Please see Cerner’s [Terms of Use](https://web.archive.org/web/20010223025301id_/http%3A//www.cerner.com/legal.asp) Agreement for other terms and conditions governing your use of Cerner.com. 
