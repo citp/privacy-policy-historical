@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205102300id_/http%3A//kfoxtv.com/shared/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608005558id_/http%3A//kfoxtv.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
 
-# KFOXTV.com: Help: Privacy Policy
+# KFOXTV.com - Privacy Policy
 
-|  **Privacy Policy**
+  
+|   |   
+**Privacy Policy**
 
 Cox Interactive Media respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. 
 
@@ -14,7 +16,9 @@ The information gathered by Cox Interactive Media falls into two categories: (1)
 
 To make use of certain features on our websites (such as free email, personal web pages, chatrooms and other interactive forums) visitors need to register and to provide certain information as part of the registration process. We may also ask for information from those who buy products or services or conduct other transactions on our websites. (We may ask, for example, for your name, email address, sex, age, zip code or credit card number, and we might request information on your interest in sports, personal finance, the performing arts, and the like.) The information you supply will help us to offer you more personalized features, to tailor our sites to your interests and make them more useful to you, and to process e-commerce transactions. 
 
-The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don't supply the information we need, we may be unable to provide you with services we make available to other visitors to our sites. For example, we can't offer you a personalized stock portfolio if you don't tell us which stocks you want to track. And we can't send you email alerting you to a new service we're offering, or breaking news that may interest you if you don't tell us what you're interested in and give us your email address. Similarly, we can't notify you that you've been lucky enough to win a prize in a promotional contest if we don't know how to contact you. 
+The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don't supply the information we need, we may be unable to provide you with services we make available to other visitors to our sites. For example, we can't offer you a personalized stock portfolio if you don't tell us which stocks you want to track. And we can't send you email alerting you to a new service we're offering, or breaking news that may interest you if you don't tell us what you're interested in and give us your email address. 
+
+From time to time, we may offer contests, sweepstakes or other promotions on our sites. If you enter one of these promotions, you'll have to provide information about yourself (such as your name, address, telephone number and email address) so that we can contact you if you win. We may share this information with any co-sponsor of the promotion, which we will identify in the official rules. If you don't want us to collect the information requested in the registration form or to provide it to contest co-sponsors, please do not enter the contest or sweepstakes.
 
 Of course, even if you want to remain completely anonymous, you're still free to take advantage of the wealth of content available on our sites without registration. 
 
@@ -28,6 +32,9 @@ To make our sites more valuable to our visitors, we offer some features in conju
 
 When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our sites. From time to time, we may share more particularized information on visitors to our sites with those marketing products and services that we believe may be of interest to you. Please indicate on our registration form if you'd prefer we not share such information with them. If you want to change your election (or to review, update, or delete the information you provided on registering), just return to the registration form, enter the changes you want to make, and re-submit the form. All information gathered on any CIM website is encrypted for storage within a CIM-controlled database. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any chatroom, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your email address, for example, don't include it in any message you post publicly. 
 
-A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. 
+We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Visitor Agreement, or to protect the rights, property or safety of visitors to our sites, the public, or Cox Interactive Media. As our business grows, we may buy or sell various assets. In the unlikely event that Cox Interactive Media, the bulk of our assets, or one or more of our sites is acquired by another company, information on our visitors would be among the transferred assets.
 
-Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. 
+A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. By visiting any of our sites, you agree that your visit, and any dispute over our privacy practices, is governed by this Privacy Policy and our Visitor Agreement. 
+
+|   |  [](http://ad.doubleclick.net/jump/cti.kfoxtv.text/\(none\);sub=\(none\);rr=1;pg=\(none\);sz=140x60;tile=1;ord=OyAidcCo@RMAADnyQHo?) [](http://ad.doubleclick.net/jump/cti.kfoxtv.text/\(none\);sub=\(none\);rr=2;pg=\(none\);sz=140x60;tile=2;ord=OyAidcCo@RMAADnyQHo?) [](http://ad.doubleclick.net/jump/cti.kfoxtv.text/\(none\);sub=\(none\);rr=3;pg=\(none\);sz=140x60;tile=3;ord=OyAidcCo@RMAADnyQHo?) [](http://ad.doubleclick.net/jump/cti.kfoxtv.text/\(none\);sub=\(none\);rr=4;pg=\(none\);sz=140x60;tile=4;ord=OyAidcCo@RMAADnyQHo?) [](http://ad.doubleclick.net/jump/cti.kfoxtv.text/\(none\);sub=\(none\);rr=5;pg=\(none\);sz=140x60;tile=5;ord=OyAidcCo@RMAADnyQHo?)   
+
