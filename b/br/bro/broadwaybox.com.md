@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadwaybox.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209085943id_/http%3A//www.broadwaybox.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwaybox.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605114553id_/http%3A//www.broadwaybox.com/privacy.asp) for the most accurate reproduction.*
 
 # BroadwayBox.com free Discount Codes Privacy
 
