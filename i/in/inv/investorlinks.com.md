@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorlinks.com privacy policy that was archived on 2003-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030808170456id_/http%3A//www.investorlinks.com/about/aboutusprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorlinks.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603021827id_/http%3A//investorlinks.com/about/aboutusprivacy.asp) for the most accurate reproduction.*
 
 # InvestorLinks - Financial Directory
 
