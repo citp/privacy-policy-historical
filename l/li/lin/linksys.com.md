@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205222829id_/http%3A//www.linksys.com/registration/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622052042id_/http%3A//www.linksys.com/registration/privacy.asp) for the most accurate reproduction.*
 
 # Linksys:
 
@@ -24,7 +24,7 @@ We store all customer information in secure databases protected via a variety of
 **Who has access to my information?**  
 Linksys does not share personally identifiable information with other companies (apart from those acting as our agents in providing our services to you, who agree to use if only for that purpose).  
 **Does Linksys place cookies on my computer?**  
-No, Linksys does not use cookies, which are small bits of data stored on users' computers to simulate a continuous connection.  
+No, in most cases Linksys does not use cookies, which are small bits of data stored on users' computers to simulate a continuous connection. The Linksys Online RMA system does use cookies however.  
 **What if I need to review or change the personal information I previously disclosed?**  
 We do our best to maintain the accuracy of personal information you supply to us; we are working on tools that will allow you to review and update your information in the future.  
 **What about other companies affiliated with Linksys?**  
