@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622000214id_/http%3A//www.thestandard.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204101200id_/http%3A//www.thestandard.com/privacy_policy) for the most accurate reproduction.*
 
 # TheStandard.com
 
