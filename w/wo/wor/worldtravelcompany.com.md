@@ -1,27 +1,37 @@
-> *The following text is extracted and transformed from the worldtravelcompany.com privacy policy that was archived on 2001-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011007145109id_/http%3A//www.worldtravelcompany.globaltravel.com/resmax/templates/look5/main/asptohtm.asp%3FPIN%3D43572001%26PATH%3D/resmax/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelcompany.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408233002id_/http%3A//registerfly.com/info/privacy.php) for the most accurate reproduction.*
 
-# ResMax - worldtravelcompany.globaltravel.com
+# RegisterFly.com | PRIVACY POLICY
 
-**At Global Travel International** , we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide better service. By using our Website, you expressly consent to the terms of this policy. If we change this policy, changes will be posted on this page. 
+  
+|  |    
+|  |  |  |   
+---|---|---|---  
+| 
 
-**What information do we collect? How do we use it? What are my choices about its use?  
-**When you make a reservation on our Website, we need to know your name, e-mail address, mailing address, phone number, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. 
+**This statement discloses the privacy practices for the entire website.**
 
-When you subscribe to our weekly e-newsletter, we may ask for your name, address, phone number and email address so that we can properly route the information.
+  * Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won’t knowingly allow anyone under 13 to register with our site or to access those features that require registration.
 
-When you enter a contest or other promotional feature, we may ask for your name, address, phone number and e-mail address so we can administer the contest and notify winners.
 
-We personalize your experience by using your contact with our site to shape our recommendations about Global Travel International content that might be of interest to you. We also monitor customer traffic patterns and site usage to help us develop the design and layout of the site.
+  * Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed.
 
-We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you'll find valuable. If you would rather not receive this information please send us an email notification at [custsrvc@globaltravel.com](mailto:custsrvc@globaltravel.com).
 
-**What about "cookies"?**  
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as automated customer log-in to our site. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our site.
+  * The information gathered by RegisterFly.com (1) information supplied by visitors to the site and (2) Information relative to registering domain names, and using Registerfly.com products and services.
 
-**How does Global Travel International protect customer information?**  
-When you submit your order through Global Travel International, we offer the use of a secure server. The secure socket layer technology (SSL) encrypts all information you input before it is sent to us. All of the customer data we collect is protected against unauthorized access.
 
-**Will Global Travel International disclose the information it collects to outside parties?**  
-Global Travel International and its affiliated companies do not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending an email message to [custsrvc@globaltravel.com](mailto:custsrvc@globaltravel.com).Also, Global Travel International may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors Global Travel International© may disclose your personal information when we have your permission to do so, or in the good faith belief that disclosure is necessary to comply with the law, with legal process, or to protect the interests of Global Travel International© or others.
+  * 1\. To help us tailor our site to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a small entry in text file, called a cookie, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. We also use cookies to make sure you don't see that same ad repeatedly when you visit our site. Cookies don't reveal personal information; the only personal information a cookie can contain is information you supply yourself. Cookies can't read data off your hard disk.
 
-Global Travel International welcomes your questions and comments about privacy. Please [click here](https://web.archive.org/web/20011007145109id_/http%3A//www.worldtravelcompany.globaltravel.com/resmax/templates/look5/main/asptohtm.asp%3FPIN%3D43572001%26PATH%3D/main/asptohtm.asp?PIN=%3C%=PIN%%3E&PATH=/resmax/help/SupportForm.asp) to contact us.
+
+  * Our webserver automatically collects some information about you when you request pages from our server, including your IP address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. This information does not identify you personally.
+
+
+  * Any information gathered from this site is held in the strictest confidence and are not shared with ANY outside parties or interest. **
+
+   **By using this service, you accept the terms of our Agreement.**
+
+**
+ ****
+****
+
+|  |    
+|  |  | 
