@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senegence.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204214134id_/http%3A//senegence.com/html/Website_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senegence.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206051333id_/http%3A//senegence.com/html/Website_privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -12,7 +12,7 @@ SeneGence International respects the privacy of every individual who visits our 
 
 **II. Use of Personal Information**
 
-SeneGence will not collect or retain any information about you personally (that is, your name, address, telephone number, or e-mail address) unless you provide it to us voluntarily. If you do not want any personal information collected, please do not submit it to us. If you have already submitted this information and would like us to remove it from our records, please contact us at the e-mail address listed at the bottom of this policy statement. We will use reasonable efforts to delete your information from our existing files. If you do provide us with personal information, we may retain and use that information for several purposes. First, we may store and process the information to better understand your needs and how we can improve our products and services. Second, we may retain information abour your previous purchases of SeneGence products in order to customize our Web site services for your future visits to the site. Your e-mail address or other contact information will not be provided to any third party without your prior consent.
+SeneGence will not collect or retain any information about you personally (that is, your name, address, telephone number, or e-mail address) unless you provide it to us voluntarily. If you do not want any personal information collected, please do not submit it to us. If you have already submitted this information and would like us to remove it from our records, please contact us at the e-mail address listed at the bottom of this policy statement. We will use reasonable efforts to delete your information from our existing files. If you do provide us with personal information, we may retain and use that information for several purposes. First, we may store and process the information to better understand your needs and how we can improve our products and services. Second, we may retain information about your previous purchases of SeneGence products in order to customize our Web site services for your future visits to the site. Your e-mail address or other contact information will not be provided to any third party without your prior consent.
 
 **III. Children**
 
@@ -28,5 +28,4 @@ When you view one of our Web sites, we may store some information in the form of
 
 **VI. Whom to Contact**
 
-If you have submitted information about yourself through a SeneGence Web site, and would like us to delete that information from our records, please send an   
-e-mail to customerservice@senegence.com. We will make reasonable efforts to delete your personal information from our existing files.
+If you have submitted information about yourself through a SeneGence Web site, and would like us to delete that information from our records, please send an e-mail to customerservice@SeneGence.com. We will make reasonable efforts to delete your personal information from our existing files.
