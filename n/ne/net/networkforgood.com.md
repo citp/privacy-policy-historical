@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604054716id_/http%3A//networkforgood.com/help/privacy_full.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214014919id_/http%3A//www.networkforgood.org/help/privacy_full.html) for the most accurate reproduction.*
 
 # Network for Good :: Privacy and Security
 
@@ -49,4 +49,4 @@ Yes. We pass on only the information the individual provides to us if that is wh
 **What obligation does an organization have to the privacy of people who donate through Network for Good?**  
 Each organization has its own policies regarding privacy of donor information. We encourage concerned individuals to contact charities directly to learn about their privacy policies. We will only pass on the information individuals provide to us if they authorize us to do so. 
 
-Questions regarding the above statement should be directed to Network for Good. 
+Questions regarding the above statement should be directed to [Network for Good](https://web.archive.org/contact.go?input=/about/contact.html). 
