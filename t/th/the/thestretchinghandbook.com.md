@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for The Stretching Handbook
 
@@ -31,7 +31,7 @@ We gather information when you submit requests for information by filling in the
 
 
 
-You may [unsubscribe](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/unsubscribe.htm) from any subscriptions you have requested at any time.
+You may [unsubscribe](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/unsubscribe.htm) from any subscriptions you have requested at any time.
 
 **Using Your Information**  
 The information contained in the forms will be limited to generating the appropriate response to your request. We only use your information to:
@@ -48,8 +48,8 @@ Whilst we maintain all measures to protect your privacy, we are unable to monito
 
 ============================================================
 
-**[home](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/index.htm) | [free newsletter](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/newsletter.htm) | [contact us](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/contact.htm) | [order now](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/orderdetails.cfm) | [affiliate program](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/affiliates/index.htm)  
-[resources](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/resources/index.htm) | [archives](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/archives/index.htm) | [privacy](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/privacy_policy.htm) | [recommend it](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/recommendit.htm) | [about us](https://web.archive.org/web/20031202141832id_/http%3A//www.thestretchinghandbook.com/about_us.htm)**
+**[home](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/index.htm) | [free newsletter](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/newsletter.htm) | [products](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/products.htm) | [contact us](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/contact.htm) | [order now](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/orderdetails.cfm) | [affiliate program](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/affiliates/index.htm)  
+[resources](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/resources/index.htm) | [archives](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/archives/index.htm) | [privacy](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/privacy_policy.htm) | [recommend it](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/recommendit.htm) | [about us](https://web.archive.org/web/20040613123958id_/http%3A//www.thestretchinghandbook.com/about_us.htm)**
 
 Copyright © 2000 [Logic Commerce](http://www.logiccommerce.com/) \- Site design  
 Copyright © 2002 [Walkerbout Health](http://www.walkerbouthealth.com/) \- Site content
