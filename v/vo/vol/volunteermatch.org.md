@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218025803id_/http%3A//www.volunteermatch.org/about/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604010004id_/http%3A//www.volunteermatch.org/about/legal/privacy.jsp) for the most accurate reproduction.*
 
 # VolunteerMatch - About - Privacy Policy
 
@@ -6,7 +6,7 @@
 **Privacy Policy**
 
 **Our Commitment To Privacy**  
-Your privacy is important to us. Our ongoing commitment to the protection of your privacy is essential to maintaining the relationship of trust that exists between VolunteerMatch and all of our users, whether they be nonprofit organizations, volunteers, readers of our newsletters or other visitors to the site. This notice of our privacy policy is intended to help you understand our online information security practices. 
+Your privacy is important to us. Our ongoing commitment to the protection of your privacy is essential to maintaining the relationship of trust that exists between VolunteerMatch and all of our users, whether they be nonprofit organizations, volunteers, volunteers with a personalized account,readers of our newsletters or other visitors to the site. This notice of our privacy policy is intended to help you understand our online information security practices. 
 
 **The Information We Collect**  
 You may have accessed VolunteerMatch directly by visiting our Web site, the home page of which is located at www.volunteermatch.org, or through the Web site of one of our third-party partners with whom we have teamed to provide volunteering services ("Partners"). This notice applies to all information you submit to VolunteerMatch, whether through the VolunteerMatch Web site or through the Web site of one of our Partners. Please note that we cannot be responsible for the information you submit directly to third parties, including our Partners, who may have their own posted policies regarding the collection and use of your information. We urge you to review the policies of our Partners through whom you may access our services. 
@@ -26,6 +26,18 @@ The types of personal information ("Information") we collect are:
 · Comments about opportunity optional  
 
 
+**For Volunteers (with a personalized account):**  
+· First and Last Name  
+· Email address  
+· Phone number  
+· ZIP code  
+· Comments about opportunity (optional)  
+· Username and Password  
+· Referral history  
+· Customized email preferences (optional)  
+· Résumé (optional)  
+
+
 **For Nonprofit Organizations:**  
 · Administrator Information: First and last name, email, telephone number, ZIP code, username and password.  
 · Organization Information: Name of organization, contact information (including contact title, first and last name, phone, street address and email), EIN/tax identification number, mission statement, description of services, and minimum one category. Fax, web site address, and directions to physical location optional.  
@@ -43,23 +55,28 @@ If you indicate to us that you are interested in a particular volunteer opportun
 
 To the extent that you have provided any Information to us through our Web site or the Web site of one of our Partners regarding volunteer opportunities associated with one of our Partner, we may share your Information with the applicable Partner. Each of our Partners has its own policies regarding the collection and use of personal information, and VolunteerMatch is not responsible for their use of your Information. 
 
+**For Volunteers (with an account):**  
+If you indicate to us that you are interested in creating a personalized account, the information we gather from you will be used to permit you to: access the account, customize outbound email services, review your referral history and/or post a résumé that can be sent as an attachment to inquiries you make using the VolunteerMatch service. 
+
 **For Nonprofit Organizations:**  
 If you submit Information to us as nonprofit organization, then, subject to the terms and conditions as a nonprofit member of VolunteerMatch, your Information (excluding your EIN number) will be accessible by anyone who accesses VolunteerMatch. 
 
 Nonprofits who receive email addresses from potential volunteer signups are strongly encouraged to adopt privacy standards similar to those of VolunteerMatch. Each such organization, however, has its own policies regarding collection and use of personal information and we are not responsible for their use of your Information. Inappropriate use of personal information received from VolunteerMatch may jeopardize nonprofit membership with VolunteerMatch. VolunteerMatch reserves the right to determine, in its discretion, what constitutes inappropriate use of this information. For more about a nonprofit organization's policy, please contact them directly using the contact information posted for that organization on our site. 
 
 **Cookies**  
-Cookies are tiny data files that Web sites commonly write to your hard drive when you visit them so that they can remember you when you visit. A cookie file contains information that can identify you anonymously. Our site uses cookies to maintain a user's identity between sessions so that the site can be personalized based on user preferences or a user's history. 
+Cookies are tiny data files that Web sites commonly write to your hard drive when you visit them so that they can remember you when you visit. A cookie file contains information that can identify you anonymously and maintain your account's privacy. Our site uses cookies to maintain a user's identity between sessions so that the site can be personalized based on user preferences or a user's history. 
 
 **Third-party Access and Use**  
 Occasionally, we hire third-party service providers to help us provide or improve the services we offer you. Sometimes it is necessary for these providers to have access to the Information we collect about you. In those cases, we take reasonable steps to ensure that these providers do not use or otherwise disclose any Information we collect about you except for the purpose of fulfilling their service obligations to us. 
 
-In addition, we share aggregate information about our users with certain third parties. This information shows user activity as a whole rather than on an individual basis and cannot be used to individually identify you. We use aggregated information we collect about users to continue to improve our service for you. This site contains links to other sites. VolunteerMatch is not responsible for the privacy practices or the content of such Web sites. 
+In addition, we share aggregate information about our users with certain third parties. This information shows user activity as a whole rather than on an individual basis and cannot be used to individually identify you. We use aggregated information we collect about users to continue to improve our service for you. 
+
+This site contains links to other sites. VolunteerMatch is not responsible for the privacy practices or the content of such Web sites. 
 
 In the unlikely event that Impact Online, Incorporated, the organization that operates VolunteerMatch, undergoes a sale or transfer of all or substantially all of its assets, the acquiring entity will be subject to this Privacy Policy in its use of your personally identifiable Information. In addition, in the further unlikely event that Impact Online, Incorporated is adjudicated bankrupt or insolvent (a) there will be no further use or disclosure of your personally identifiable Information by Impact Online, Incorporated and (b) your personally identifiable Information will be destroyed. In addition, there will be no use or disclosure of your personally identifiable Information by any entity that acquires assets of Impact Online, Incorporated pursuant to such bankruptcy or insolvency proceedings. 
 
 **How You Can Access Or Correct Your Information**  
-If you are a nonprofit member, you may access all your personally identifiable Information that we collect and maintain online by simply inputting your username and password in the [Account](http://www.volunteermatch.org/post/) area. You may make any changes or correct factual errors in your administrator, organization and opportunity information 24 hours a day. We use this procedure to better safeguard your Information. You do not need to contact us to access your record or to make any changes. If you have problems changing your organization's Information, please contact Client Relations at [respond@volunteermatch.org](mailto:respond@volunteermatch.org). 
+If you are a nonprofit member, or volunteer with an account, you may access all your personally identifiable Information that we collect and maintain online by simply inputting your username and password where indicated on the website. If you are a nonprofit administrator, you may make any changes or correct factual errors in your administrator, organization and opportunity information 24 hours a day. We use this procedure to better safeguard your Information. You do not need to contact us to access your record or to make any changes. If you have problems changing your organization's Information, please contact Client Relations at [respond@volunteermatch.org](mailto:respond@volunteermatch.org). 
 
 If you are a volunteer and would like to have your Information deleted from the site, you may do so by contacting Client Relations at [respond@volunteermatch.org](mailto:respond@volunteermatch.org). 
 
@@ -75,5 +92,5 @@ VolunteerMatch may change this privacy policy from time to time. VolunteerMatch 
 **How To Contact Us**  
 We appreciate your questions or comments about this privacy statement, the practices of this site, or your dealings with VolunteerMatch. Please send email to [respond@volunteermatch.org](mailto:respond@volunteermatch.org) or you can send snail mail to 385 Grove Street, San Francisco, CA 94102. 
 
-Revised July 31, 2001    
+Revised May 13, 2002    
 
