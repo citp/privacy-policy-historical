@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004115030id_/http%3A//www.sign-up.to/html/business/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605223016id_/http%3A//www.sign-up.to/html/consumer/privacy.shtml) for the most accurate reproduction.*
 
-# Sign-Up.to - Privacy Policy
+# Sign-Up.to >> Privacy Policy
 
-Sign-Up Technologies Limited (referred to in this Privacy Policy as “SuTL”, "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through Sign-Up™, and how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the [Terms of Use](https://web.archive.org/web/20031004115030id_/http%3A//www.sign-up.to/html/business/terms.shtml)
+Sign-Up Technologies Limited (referred to in this Privacy Policy as "SuTL", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through Sign-Up™, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the [Terms of Use](https://web.archive.org/web/20040605223016id_/http%3A//www.sign-up.to/html/consumer/terms.shtml)
 
 **1\. Contact details**
 
-The Sign-Up website (the "Site") and the Sign-Up data processing services (together, the “Services”) are provided by Sign-Up Technologies Limited, a company registered in England and Wales with company registration number 04579398.
+The Sign-Up website (the "Site") and the Sign-Up data processing services (together, the "Services") are provided by Sign-Up Technologies Limited, a company registered in England and Wales with company registration number 04579398.
 
-**Registered Office:** Sign-Up Technologies Limited c/o DWF Solicitors, 37 Peter Street, Manchester, M2 5GB, UK.  
-**Contact Address:** Sandycroft House, Crewe Road, Haslington, Crewe, Cheshire, CW1 5RT, UK.   
+**Registered Office:** Sign-Up Technologies Limited c/o DWF Solicitors, 37 Peter Street Manchester M2 5GB, UK.  
+**Contact Address:** Sandycroft House, Crewe Road, Haslington, Crewe, Cheshire CW1 5RT, UK.   
 **e-mail:** [info@sign-up.to ](mailto:info@sign-up.to)  
 
 
@@ -39,7 +39,7 @@ The Sign-Up website (the "Site") and the Sign-Up data processing services (toget
 
 **6\. Cookies**
 
-6.1 We may use "cookies" to collect aggregate information. A “Cookie” is a small piece of information sent by our web server to your web browser, which enables us to record anonymous details and allows you to move around the Site faster. We may use cookies for a number of purposes, for instance to enable us to simplify the logging on process, to help ensure the security and authenticity of members and to enable traffic monitoring. You can find out more about the way cookies work on [http://www.cookiecentral.com](http://www.cookiecentral.com/).   
+6.1 We may use "cookies" to collect aggregate information. A "Cookie" is a small piece of information sent by our web server to your web browser, which enables us to record anonymous details and allows you to move around the Site faster. We may use cookies for a number of purposes, for instance to enable us to simplify the logging on process, to help ensure the security and authenticity of members and to enable traffic monitoring. You can find out more about the way cookies work on [http://www.cookiecentral.com](http://www.cookiecentral.com/).   
 6.2 Most browsers allow you to turn off the cookie function. If you want to know how to do this, please look at the help menu on your browser. However, if you turn off the cookie function your use of the Services may be impaired.
 
 **7\. Overseas**
@@ -68,6 +68,3 @@ When writing to us, please state your name, postal address and mobile phone numb
 **12\. Contact us**
 
 If you would like to contact us with any queries or comments on our privacy practices, please write to the contact address above or send an e-mail to [info@sign-up.to](mailto:info@sign-up.to)
-
-  
-
