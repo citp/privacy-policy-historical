@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gay.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628034300id_/http%3A//www.gay.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gay.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209225256id_/http%3A//www.gay.com/help/privacy.html) for the most accurate reproduction.*
 
 # Gay.com Help
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy**
 
-The Gay.com Privacy Policy may be found below. Your use of the Gay.com Site and services constitutes your acceptance of the terms and conditions of the Gay.com Privacy Policy, of our recently updated [User Agreement](https://web.archive.org/web/20040628034300id_/http%3A//www.gay.com/help/useragreement.html) and of the Gay.com [Community Guidelines](https://web.archive.org/web/20040628034300id_/http%3A//www.gay.com/help/community_guidelines.html). You are responsible for reviewing and becoming familiar with all of these terms. 
+The Gay.com Privacy Policy may be found below. Your use of the Gay.com Site and services constitutes your acceptance of the terms and conditions of the Gay.com Privacy Policy, of our recently updated [User Agreement](https://web.archive.org/web/20041209225256id_/http%3A//www.gay.com/help/useragreement.html) and of the Gay.com [Community Guidelines](https://web.archive.org/web/20041209225256id_/http%3A//www.gay.com/help/community_guidelines.html). You are responsible for reviewing and becoming familiar with all of these terms. 
 
 **Gay.com Privacy Policy**
 
