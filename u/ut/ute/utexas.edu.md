@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402065743id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2004-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041123084835id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Web Privacy Policy
 
 The University of Texas at Austin is committed to ensuring the privacy and accuracy of your confidential information. We do not actively share personal information gathered from our Web servers. However, because The University of Texas at Austin is a public institution, some information collected from the UT Austin Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act. This means that while we do not actively share information, in some cases we may be compelled by law to release information gathered from our Web servers.
 
-As part of our commitment to maintain the privacy of our Web users, The University of Texas has developed this privacy statement. The statement has two purposes: 
+As part of our commitment to maintain the privacy of our Web users, The University of Texas has developed this privacy statement. The statement has two purposes:
 
-  1. To educate users about privacy issues 
-  2. To inform users about specific privacy policies and guidelines employed at The University of Texas at Austin. 
+  1. To educate users about privacy issues
+  2. To inform users about specific privacy policies and guidelines employed at The University of Texas at Austin.
 
 
 
@@ -17,7 +17,7 @@ The University of Texas at Austin also complies with the Family Educational Righ
 
 The University of Texas at Austin Web consists of hundreds of Web servers. Some servers hosted by The University of Texas at Austin may adopt different privacy statements as their specific needs require. If another UT Austin Web server has a privacy statement that is different from this statement, that policy must be approved by the ITS Information Security Office, and it must be posted on their site. However, those sites cannot adopt a privacy statement that in any way supersedes federal or state regulations.
 
-Approved Departmental Privacy Policies at UT Austin: 
+Approved Departmental Privacy Policies at UT Austin:
 
   * [Computer Science Department](http://www.cs.utexas.edu/home/department/privacy.html)
 
@@ -34,7 +34,7 @@ Our Web servers generate temporary logs that contain the following information:
   * Referring Web page 
   * Browser used
   * Date and Time 
-  * UIN (unique person identifier for EID-based services only) 
+  * UIN (unique person identifier for EID-based services only)
 
 
 
@@ -66,7 +66,7 @@ Consistent with FERPA, we do not release personal student information, other tha
 
 ### Public Forums 
 
-The University of Texas at Austin makes som public chat rooms, forums, message boards, and news groups available to its users. The University does not ordinarily log public chat sessions, however, any information that is disclosed in these areas becomes public information and you should therefore exercise caution when deciding to disclose your confidential information in such places.
+The University of Texas at Austin makes some public chat rooms, forums, message boards, and news groups available to its users. The University does not ordinarily log public chat sessions, however, any information that is disclosed in these areas becomes public information and you should therefore exercise caution when deciding to disclose your confidential information in such places.
 
 Academic chat sessions and discussion forums, such as those in Blackboard, may be logged. However, these educational records are protected from disclosure by FERPA.
 
