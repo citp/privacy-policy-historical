@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605043815id_/http%3A//arcadepod.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209180730id_/http%3A//www.arcadepod.com/privacy.php) for the most accurate reproduction.*
 
-# ArcadePod.Com: The Ultimate Free Gaming Resource Zone.
+# ArcadePod.Com
 
 **ArcadePod.Com Privacy Policy**
 
@@ -22,9 +22,12 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 
 If you have any additional questions about ArcadePod.Com's dedication to consumer privacy, please contact us at [webmaster@arcadepod.com](mailto:webmaster@arcadepod.com). 
 
-This site, ArcadePod.Com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+* * *
 
-ArcadePod.com uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendslive.com/privacy_policy.htm). 
+This site, ArcadePod.Com, uses the services of FastClick, ValueClick and focusIN for the serving and/or targeting of ads, promotions and other marketing messages. To do this, they collects anonymous data through the use of cookies. 
 
-  
+To learn more about FastClick, go to <http://www.fastclick.com/about/opt-out.html>.   
+To learn more about ValueClick, go to <http://www.valueclick.com/privacy.html>.   
+To learn more about focusIN, go to <http://www.focusin.com/privacy.htm>. 
 
+* * *
