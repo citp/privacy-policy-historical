@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203200000id_/http%3A//ashp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205072645id_/http%3A//ashp.org/privacy.html) for the most accurate reproduction.*
 
 # ASHP Privacy Statement
 
@@ -11,10 +11,10 @@ www.ashp.org
 |   
 ---|---  
   
-The American Society of Health-System Pharmacists (ASHP) has created this statement in order to demonstrate our firm commitment to privacy. ASHP is also a licensee of TRUSTe. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected and how that information may be shared. The following discloses our information gathering and dissemination practices for www.ashp.org. 
+The American Society of Health-System Pharmacists (ASHP) has created this statement in order to demonstrate our firm commitment to privacy. This statement will help you understand how your personally identifiable information is collected and how that information may be shared. The following discloses our information gathering and dissemination practices for www.ashp.org. 
 
 **NOTIFICATION OF CHANGES TO PRIVACY STATEMENT**  
-Users can find out about changes in this privacy statement by visiting this page. Registered members will be notified via postal mail. This statement was last revised on June 13, 2000. We encourage users to read this statement \- the first TRUSTe-verified statement - thoroughly and use it as a point or reference for the future. 
+Users can find out about changes in this privacy statement by visiting this page. This statement was last revised on March 5, 2001. We encourage users to read this statement thoroughly and use it as a point or reference for the future. 
 
 **COOKIES**   
 Our site uses cookies to keep track of your shopping cart. The shopping cart may not perform correctly if the cookies option is turned off in the browser settings. Beginning in early 2000, the site will use cookies to restrict access to some content. ASHP members who elect to brows the site with the cookies option turned off will not be able to access restricted content. 
