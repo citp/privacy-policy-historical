@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketworldcup.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603183355id_/http%3A//cricketworldcup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketworldcup.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810152603id_/http%3A//cricketworldcup.com/privacy.htm) for the most accurate reproduction.*
 
 # ICC Cricket World Cup - 2003
 
