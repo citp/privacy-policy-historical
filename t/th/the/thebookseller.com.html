@@ -1,0 +1,1337 @@
+<!--The following is the downloaded HTML source of the thebookseller.com privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606124155id_/http%3A//www.thebookseller.com%3Fpid%3D70) for the most accurate reproduction.-->
+
+<html><!--  BUILD PAGE FROM TEMPLATES  --><head>
+<title>theBookseller.com - Privacy Policy</title>
+<meta name="description" content="Privacy Policy">
+<meta name="keywords" content="Privacy Policy">
+<meta http-equiv="Pragma" content="no-cache">
+<script language="JavaScript" src="/csi/browersDetect.js"></script>
+<script language="JavaScript">
+if (MAC && IE4) {
+	document.write('<LINK REL="stylesheet" TYPE="text/css" HREF="/csi/style_mac.css">');
+} else if (NN4) {
+	document.write('<LINK REL="stylesheet" TYPE="text/css" HREF="/csi/style_nn.css">');
+} else {
+	document.write('<LINK REL="stylesheet" TYPE="text/css" HREF="/csi/style_ie.css">');
+}
+</script><link rel="stylesheet" type="text/css" href="/csi/style_ie.css">
+<script language="JavaScript">
+<!--
+// initialize a variable to test for JavaScript 1.1.
+// which is necessary for the window.location.replace method
+var javascriptVersion1_1 = false;
+// -->
+</script>
+
+
+<script language="JavaScript1.1">
+<!--
+javascriptVersion1_1 = true;
+// -->
+</script>
+
+
+<script language="JavaScript">
+<!--
+
+// initialize global variables
+var detectableWithVB = false;
+var pluginFound = false;
+
+
+function goURL(daURL) {
+	   // if the browser can do it, use replace to preserve back button
+    if(javascriptVersion1_1) {
+	window.location.replace(daURL);
+    } else {
+	window.location = daURL;
+    }
+    return;
+}
+
+function redirectCheck(pluginFound, redirectURL, redirectIfFound) {
+    // check for redirection
+    if( redirectURL && ((pluginFound && redirectIfFound) || 
+	(!pluginFound && !redirectIfFound)) ) {
+	// go away
+	goURL(redirectURL);
+	return pluginFound;
+    } else {
+	// stay here and return result of plugin detection
+	return pluginFound;
+    }	
+}
+
+function canDetectPlugins() {
+    if( detectableWithVB || (navigator.plugins && navigator.plugins.length > 0) ) {
+	return true;
+    } else {
+	return false;
+    }
+}
+
+function detectFlash(redirectURL, redirectIfFound) {
+    pluginFound = detectPlugin('Shockwave','Flash'); 
+    // if not found, try to detect with VisualBasic
+    if(!pluginFound && detectableWithVB) {
+	pluginFound = detectActiveXControl('ShockwaveFlash.ShockwaveFlash.1');
+    }
+    // check for redirection
+    return redirectCheck(pluginFound, redirectURL, redirectIfFound);
+}
+
+function detectDirector(redirectURL, redirectIfFound) { 
+    pluginFound = detectPlugin('Shockwave','Director'); 
+    // if not found, try to detect with VisualBasic
+    if(!pluginFound && detectableWithVB) {
+	pluginFound = detectActiveXControl('SWCtl.SWCtl.1');
+    }
+    // check for redirection
+    return redirectCheck(pluginFound, redirectURL, redirectIfFound);
+}
+
+function detectQuickTime(redirectURL, redirectIfFound) {
+    pluginFound = detectPlugin('QuickTime');
+    // if not found, try to detect with VisualBasic
+    if(!pluginFound && detectableWithVB) {
+	pluginFound = detectQuickTimeActiveXControl();
+    }
+    return redirectCheck(pluginFound, redirectURL, redirectIfFound);
+}
+
+function detectReal(redirectURL, redirectIfFound) {
+    pluginFound = detectPlugin('RealPlayer');
+    // if not found, try to detect with VisualBasic
+    if(!pluginFound && detectableWithVB) {
+	pluginFound = (detectActiveXControl('rmocx.RealPlayer G2 Control') ||
+		       detectActiveXControl('RealPlayer.RealPlayer(tm) ActiveX Control (32-bit)') ||
+		       detectActiveXControl('RealVideo.RealVideo(tm) ActiveX Control (32-bit)'));
+    }	
+    return redirectCheck(pluginFound, redirectURL, redirectIfFound);
+}
+
+function detectWindowsMedia(redirectURL, redirectIfFound) {
+    pluginFound = detectPlugin('Windows Media');
+    // if not found, try to detect with VisualBasic
+    if(!pluginFound && detectableWithVB) {
+	pluginFound = detectActiveXControl('MediaPlayer.MediaPlayer.1');
+    }
+    return redirectCheck(pluginFound, redirectURL, redirectIfFound);
+}
+
+function detectPlugin() {
+    // allow for multiple checks in a single pass
+    var daPlugins = detectPlugin.arguments;
+    // consider pluginFound to be false until proven true
+    var pluginFound = false;
+    // if plugins array is there and not fake
+    if (navigator.plugins && navigator.plugins.length > 0) {
+	var pluginsArrayLength = navigator.plugins.length;
+	// for each plugin...
+	for (pluginsArrayCounter=0; pluginsArrayCounter < pluginsArrayLength; pluginsArrayCounter++ ) {
+	    // loop through all desired names and check each against the current plugin name
+	    var numFound = 0;
+	    for(namesCounter=0; namesCounter < daPlugins.length; namesCounter++) {
+		// if desired plugin name is found in either plugin name or description
+		if( (navigator.plugins[pluginsArrayCounter].name.indexOf(daPlugins[namesCounter]) >= 0) || 
+		    (navigator.plugins[pluginsArrayCounter].description.indexOf(daPlugins[namesCounter]) >= 0) ) {
+		    // this name was found
+		    numFound++;
+		}   
+	    }
+	    // now that we have checked all the required names against this one plugin,
+	    // if the number we found matches the total number provided then we were successful
+	    if(numFound == daPlugins.length) {
+		pluginFound = true;
+		// if we've found the plugin, we can stop looking through at the rest of the plugins
+		break;
+	    }
+	}
+    }
+    return pluginFound;
+} // detectPlugin
+
+
+// Here we write out the VBScript block for MSIE Windows
+if ((navigator.userAgent.indexOf('MSIE') != -1) && (navigator.userAgent.indexOf('Win') != -1)) {
+    document.writeln('<script language="VBscript">');
+
+    document.writeln('\'do a one-time test for a version of VBScript that can handle this code');
+    document.writeln('detectableWithVB = False');
+    document.writeln('If ScriptEngineMajorVersion >= 2 then');
+    document.writeln('  detectableWithVB = True');
+    document.writeln('End If');
+
+    document.writeln('\'this next function will detect most plugins');
+    document.writeln('Function detectActiveXControl(activeXControlName)');
+    document.writeln('  on error resume next');
+    document.writeln('  detectActiveXControl = False');
+    document.writeln('  If detectableWithVB Then');
+    document.writeln('     detectActiveXControl = IsObject(CreateObject(activeXControlName))');
+    document.writeln('  End If');
+    document.writeln('End Function');
+
+    document.writeln('\'and the following function handles QuickTime');
+    document.writeln('Function detectQuickTimeActiveXControl()');
+    document.writeln('  on error resume next');
+    document.writeln('  detectQuickTimeActiveXControl = False');
+    document.writeln('  If detectableWithVB Then');
+    document.writeln('    detectQuickTimeActiveXControl = False');
+    document.writeln('    hasQuickTimeChecker = false');
+    document.writeln('    Set hasQuickTimeChecker = CreateObject("QuickTimeCheckObject.QuickTimeCheck.1")');
+    document.writeln('    If IsObject(hasQuickTimeChecker) Then');
+    document.writeln('      If hasQuickTimeChecker.IsQuickTimeAvailable(0) Then ');
+    document.writeln('        detectQuickTimeActiveXControl = True');
+    document.writeln('      End If');
+    document.writeln('    End If');
+    document.writeln('  End If');
+    document.writeln('End Function');
+
+    document.writeln('</scr' + 'ipt>');
+}
+// -->
+</script><script language="JavaScript">
+	
+<!-- Begin
+var directionMove = 2;
+var xPos = 0;
+var step = 1;
+var delay = 30;
+var yPos = 0;
+var height = 0;
+var width = 0;
+var offsetH = 0;
+var offsetW = 0;
+var yon = 0;
+var scrollTime;
+var testStop = 0;
+var ydir = '++';
+var xdir = '++';
+var id1, id2, id3;
+
+var dx = 0;                        // set coordinate variables
+var amy = 12+ Math.random()*20;         // set amplitude variables
+var amx = 10+ Math.random()*40;
+var stx = 0.02 + Math.random()/10; // set step variables
+var sty = 0.7 + Math.random();     // set step variables
+var flag = (Math.random()>0.5)?1:0;
+
+function getLayer(layerName, parentLayers) {
+	var returnVal = null;
+	if(parentLayers[layerName]) {
+		returnVal = parentLayers[layerName];
+	}
+	else {
+		for(var z=0; z<parentLayers.length; z++) {
+			returnVal = getLayer(layerName, parentLayers[z].document.layers);
+			if(returnVal != null) break;
+		}
+	}
+	return returnVal;
+}
+
+function getElement(element) {
+	var returnObj;
+	if((IE5 && !MAC) || NN6) {
+		returnObj = document.getElementById(element);
+	}
+	else if(IE4 || (IE5 && MAC)) {
+		returnObj = document.all[element];
+	}
+	else {
+		returnObj = getLayer(element, document.layers);
+	}
+	return returnObj;
+}
+
+function changePos() {
+	if (directionMove == 1){xPos = xPos + step;}
+	else if (directionMove == 2){xPos = xPos - step;}
+	else if (directionMove == 3){yPos = yPos + step;}
+	else if (directionMove == 4){yPos = yPos - step;}
+
+	if (IE) {
+		height = document.body.offsetHeight;
+		width = document.body.offsetWidth;
+		offsetH = getElement('point1').offsetHeight;
+		offsetW = getElement('point1').offsetWidth;
+	}
+	else if (NN6){
+		height = window.innerHeight;
+		width = window.innerWidth;
+		offsetH = getElement('point1').offsetHeight;
+		offsetW = getElement('point1').offsetWidth;
+	}
+	else {
+		height = window.innerHeight;
+		width = window.innerWidth;
+		offsetH = getElement('point1').height;
+		offsetW = getElement('point1').width;
+	}
+	
+	if (directionMove == 1){if (xPos >= width - offsetW){xPos = width - offsetW; }}
+	else if (directionMove == 2){if (xPos <= 0) {xPos = 0; }}
+	else if (directionMove == 3){if (yPos >= height - offsetH){yPos = height - offsetH; }}
+	else if (directionMove == 4){if (yPos <= 0) {yPos = 0; }}
+		
+	if (!NN4) {
+		getElement('point1').style.left = xPos + document.body.scrollLeft;
+		getElement('point1').style.top = yPos + document.body.scrollTop;
+	}
+	else {
+		getElement('point1').pageX = xPos + window.pageXoffset;
+		getElement('point1').pageY = yPos + window.pageYOffset;
+	}
+}
+
+function changePosRandom() {  
+	if (IE) {
+		height = document.body.offsetHeight;
+		width = document.body.offsetWidth;
+		offsetH = getElement('point1').offsetHeight;
+		offsetW = getElement('point1').offsetWidth;
+	}
+	else if (NN6){
+		height = window.innerHeight;
+		width = window.innerWidth;
+		offsetH = getElement('point1').offsetHeight;
+		offsetW = getElement('point1').offsetWidth;
+	}
+	else {
+		height = window.innerHeight;
+		width = window.innerWidth;
+		offsetH = getElement('point1').height;
+		offsetW = getElement('point1').width;
+	}
+	if (yPos >= height - offsetH) {
+		xPos = 10+ Math.random()*(width-amx-30);
+		yPos = 0;
+		stx = 0.02 + Math.random()/10;
+		sty = 0.7 + Math.random();
+		flag=(Math.random()<0.5)?1:0;
+	}
+	if (xPos >= width) {
+		xPos = Math.random()*height;
+		xPos = 0;
+		stx = 0.02 + Math.random()/10;
+		sty = 0.7 + Math.random();
+		flag=(Math.random()<0.5)?1:0;
+	}
+	if (flag)
+	dx += stx;
+	else
+	dx -= stx;
+	if (Math.abs(dx) > Math.PI) {
+		yPos+=Math.abs(amy*dx);
+		xPos+=amx*dx;
+		dx=0;
+		flag=!flag;
+	}
+	if (!NN4) {
+		getElement('point1').style.left = xPos + amx*dx + document.body.scrollLeft;
+		getElement('point1').style.top = yPos + amy*(Math.abs(Math.sin(dx)+dx)) + document.body.scrollTop;
+	}
+	else {
+		getElement('point1').pageX = xPos + amx*dx + document.body.scrollLeft;
+		getElement('point1').pageY = yPos + amy*(Math.abs(Math.sin(dx)+dx)) + document.body.scrollTop;
+	}
+}
+
+function closeAd()
+{
+	if (!NN4) {
+		getElement('point1').style.visibility = "hidden";
+		getElement('layertop').style.visibility = "hidden";
+	}
+	else {getElement('point1').visibility = "hide";getElement('layertop').visibility = "hide";}
+	//clearTimeout(scrollTime);
+	if (directionMove == 5){
+		clearTimeout(id1);
+		clearTimeout(id2);
+	}
+	else {clearTimeout(scrollTime)}
+}
+
+function pauseAd()
+{
+if (directionMove == 5){
+		clearTimeout(id1);
+	}
+	else {clearTimeout(scrollTime)}
+//clearTimeout(scrollTime)
+}
+
+function continueAd()
+{
+	if (directionMove == 5){
+		id1 = setTimeout('animate()',delay);
+	}
+	else {scrollTime = setTimeout('loopfunc()',delay);}
+}
+
+function start(directionM,moveObjName,objWidth,objHeight, targetDest, altContent, toClose)
+{
+	directionMove = directionM;
+	scrollObj=moveObjName;
+	showObj = 0;
+	if (scrollObj.indexOf(".gif")!=-1 || scrollObj.indexOf(".jpg")!=-1){
+		showObj = 1;
+	}
+	else{
+		if(canDetectPlugins()) {if (detectDirector()){showObj = 2;}}
+				
+	}
+	if (showObj != 0){
+		if(NN4) {
+			document.writeln('<LAYER NAME="point1" VISIBILITY="hide" >');
+		} else {
+			document.writeln('<DIV ID="point1" onMouseOver="pauseAd();" onMouseOut="continueAd();" STYLE="position:absolute; visibility:hidden; z-index: 100;" >');
+		}
+		document.writeln('<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="2">');
+		document.writeln('<TR><TD>');		
+		 if (showObj == 2){
+	 	document.writeln('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" width="' + objWidth + '" height="' + objHeight + '"><param name="movie" value="/gfx/banners/' + scrollObj + '"><param name="quality" value="high"><param name="wmode" value="transparent"><EMBED SRC="/gfx/banners/' + scrollObj + '" WIDTH="' + objWidth + '" WMODE="transparent" HEIGHT="' + objHeight + '"></EMBED></object>');
+		}
+	 	else{
+	 	document.writeln('<A HREF="' + targetDest + '" TARGET="_new"><IMG SRC="/gfx/banners/' + scrollObj + '" BORDER=0 ALT="' + altContent + '"></A>');
+		}
+				
+		document.writeln('</TD></TR>');
+		if(toClose == 1){
+		document.writeln('<TR><TD><input TYPE="Button" VALUE="x" ONCLICK="closeAd();" CLASS="smlfrm"></TD></TR>');
+		}
+		document.writeln('</TABLE>');
+	
+		if(NN4) {
+			document.writeln('<LAYER NAME="layertop" VISIBILITY="hide" Z-INDEX="103">');
+			document.writeln('<A HREF="javascript:closeAd();"><img src="/gfx/1pix.gif" width="50" HEIGHT="20" BORDER="0"></A>');
+			document.writeln('</LAYER>');
+			document.writeln('</LAYER>');
+		} else {
+			document.writeln('<DIV ID="layertop" STYLE="position:absolute; visibility:visible; z-index: 103;">');
+			document.writeln('<A HREF="javascript:closeAd();"><img src="/gfx/1pix.gif" width="50" HEIGHT="20" BORDER="0"></A>');
+			document.writeln('</DIV>');
+			document.writeln('</DIV>');
+		}
+		
+		if (IE) {
+			height = document.body.offsetHeight;
+			width = document.body.offsetWidth;
+			offsetH = getElement('point1').offsetHeight;
+			offsetW = getElement('point1').offsetWidth;
+		}
+		else if (NN6){
+			height = window.innerHeight;
+			width = window.innerWidth;
+			offsetH = getElement('point1').offsetHeight;
+			offsetW = getElement('point1').offsetWidth;
+		}
+		else {
+			height = window.innerHeight;
+			width = window.innerWidth;
+			offsetH = getElement('point1').height;
+			offsetW = getElement('point1').width;
+		}
+				
+		if (directionMove == 1){xPos = -offsetW; yPos = height - offsetH - 20;}
+		else if (directionMove == 2){xPos = width; yPos = height - offsetH - 20;}
+		else if (directionMove == 3){xPos = 20; yPos = 0 - offsetH;}
+		else if (directionMove == 4){xPos = 20;	yPos = height;}
+		else if (directionMove == 5){xPos = 1; yPos = 1;}
+		else if (directionMove == 6){xPos = Math.round((width - offsetW)/2);yPos = Math.round((height - offsetH)/2);}
+	
+		dispObj();
+
+		if (directionMove == 5){loopfuncRandom1();}
+		else if (directionMove == 6){loopfuncFixed();}
+		else {loopfunc();}
+	}//showObj != 0
+}
+
+function dispObj()
+{
+if (!NN4) {
+			getElement('point1').style.left=xPos + document.body.scrollLeft;
+			getElement('point1').style.top=yPos + document.body.scrollTop;
+			getElement('point1').style.visibility = "visible";
+			getElement('layertop').style.left = 267;
+			getElement('layertop').style.top = 253;
+			//getElement('layertop').style.visibility = "visible";
+		}
+		else{
+			getElement('point1').pageX = xPos;
+			getElement('point1').pageY = yPos;
+			getElement('point1').visibility = "show";
+			getElement('layertop').pageX = 267;
+			getElement('layertop').pageY = 253;
+			getElement('layertop').visibility = "show";
+		}
+}
+
+function loopfuncFixed()
+{dispObj();
+scrollTime = setTimeout('loopfuncFixed()',delay);
+}
+
+function loopfunc()
+{changePos();
+scrollTime = setTimeout('loopfunc()',delay);
+}
+
+function loopfuncRandom()
+{changePosRandom();
+scrollTime = setTimeout('loopfuncRandom()',delay);
+}
+
+function loopfuncRandom1()
+{
+id3 = setTimeout('randomdir()', 20000);
+animate();
+}
+
+function randomdir() {
+	if (Math.floor(Math.random()*2)) {
+	(Math.floor(Math.random()*2)) ? xdir='--': xdir='++';
+	} else {
+	(Math.floor(Math.random()*2)) ? ydir='--': ydir='++';
+	}
+	id2 = setTimeout('randomdir()', 20000);
+}
+function animate() {
+	eval('xPos'+xdir);
+	eval('yPos'+ydir);
+	//if (NN6) {
+	//pic1.moveTo((xPos+pageXOffset),(yPos+pageYOffset))
+	//} else {
+	//pic1.pixelLeft = xPos+document.body.scrollLeft;
+	//pic1.pixelTop = yPos+document.body.scrollTop;
+	//}
+	
+	if (!NN4) {
+		getElement('point1').style.left = xPos + document.body.scrollLeft;
+		getElement('point1').style.top = yPos + document.body.scrollTop;
+	}
+	else {
+		getElement('point1').pageX = xPos + window.pageXoffset;
+		getElement('point1').pageY = yPos + window.pageYOffset;
+	}
+	//alert(getElement('point1').style.top);
+	if (NN6) {
+		if (yPos <= 5+pageYOffset) ydir = '++';
+		if (yPos >= height+pageYOffset) ydir = '--';
+		if (xPos >= width+pageXOffset) xdir = '--';
+		if (xPos <= 5+pageXOffset) xdir = '++';
+		} else {
+		if (yPos <= 5+document.body.scrollTop) ydir = '++';
+		if (yPos >= height - offsetH){ ydir = '--';}
+		if (xPos >= width - offsetW) xdir = '--';
+		if (xPos <= 5+document.body.scrollLeft) xdir = '++';
+	}
+	id1 = setTimeout('animate()', delay);
+}
+
+
+//  End -->
+</script>
+
+</head>
+<body bgcolor="#ffffff" marginwidth="2" leftmargin="2" marginheight="10" topmargin="10">
+
+<a name="top">
+
+	
+
+
+<table width="760" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td colspan="5">
+			<!--  fixed header & add  -->
+			<table width="760" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="187" valign="top"><a href="/?pid=2"><img src="/gfx/bookseller_logo_new2.gif" width="187" height="68" border="0" hspace="0" vspace="0" alt="theBookseller Home Page"></a></td>
+					<td width="5"><img src="/gfx/1pix.gif" width="5" height="68" border="0" hspace="0" vspace="0"></td>
+					<!--  TYPE 1 Advert Slot  -->
+					<td width="468" valign="middle">
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+		
+			
+			
+			
+			
+			
+		
+		
+		<!-- 2 --><a href="/csi/bannerRedir.cfm?ans=110" target="_new"><img src="gfx/banners/tmp20040507032030.gif" width="468" height="60" border="0" hspace="0" vspace="0" alt="The Bookseller Fives"></a>
+		
+	
+	
+</td>
+					<td width="5"><img src="/gfx/1pix.gif" width="5" height="68" border="0" hspace="0" vspace="0"></td>
+					<td width="95" valign="top"><form name="searchForm" action="/index.cfm?sr=1&amp;vn=000159dm45x" method="post">
+						<table width="95" border="0" cellspacing="0" cellpadding="1" bgcolor="#0A0B6C">
+							<tbody><tr>								
+									<!--  Search box  -->
+								<td class="newTmp2secL2Nav" align="center">Search the site
+							<input type="text" name="query" value="" size="8" maxlength="32" class="newTmp2StdFrm" onfocus="this.select()" width="40"></td>
+							</tr><tr>
+							</tr>
+							<tr><td align="center"><input src="/gfx/button_search.gif" alt="click here to search" type="image" name="quickSearch" value="search" border="0"></td>	
+							</tr>
+						</tbody></table>
+					</form></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td height="30" colspan="5">
+			<!--  2nd lvl nav line  -->
+			<table width="760" height="" border="0" cellspacing="0" cellpadding="0" bgcolor="#0A0B6C">
+				<tbody><tr>
+					<td width="114" class="date">&nbsp;&nbsp;Sun 06 June</td>
+					<td width="2" bgcolor="#5665ad"><img src="/gfx/1pix.gif" width="2" height="30" border="0" hspace="0" vspace="0"></td>
+					<td width="525" class="newTmp2whtTit">
+						<!--  2nd lvl navigation  -->
+						&nbsp;
+						
+							<a href="/?pid=2" class="newTmp3TopNav" title="welcome to the bookseller.com">Home</a> |
+						
+							<a href="/?pid=3" class="newTmp3TopNav" title="News from the book trade">News</a> |
+						
+							<a href="/?pid=7" class="newTmp3TopNav" title="The latest bestseller charts">Bestsellers</a> |
+						
+							<a href="/?pid=8" class="newTmp3TopNav" title="Comment and discussion on the book business">Opinion</a> |
+						
+							<a href="/?pid=9" class="newTmp3TopNav" title="The Directory of Services is a fully searchable database of book trade companies, including links and contact details">Directory</a> |
+						
+							<a href="/?pid=10" class="newTmp3TopNav" title="The latest job vacancies in the book business">Career Focus</a> |
+						
+							<a href="/?pid=65" class="newTmp3TopNav" title="Advertising guide for Bookseller Publications">Advertising Guide</a> |
+						
+
+					</td>
+					<td width="2" bgcolor="#0A0B6C"><img src="/gfx/1pix.gif" width="2" height="30" border="0" hspace="0" vspace="0"></td>
+					<td width="107" class="newTmp1whtTit">
+						<a href="#" onmouseover="display();" onmouseout="hide();" class="newTmp3TopNav">Quick&nbsp;Links&nbsp;&nbsp;</a>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<!--  Fixed Width Spacer Row  -->
+		<td width="120"><img src="/gfx/1pix.gif" width="110" height="5" border="0" hspace="0" vspace="0"></td>
+		<td width="10"><img src="/gfx/1pix.gif" width="5" height="5" border="0" hspace="0" vspace="0"></td>
+		<td width="500"><img src="/gfx/1pix.gif" width="495" height="5" border="0" hspace="0" vspace="0"></td>
+		<td width="10"><img src="/gfx/1pix.gif" width="5" height="5" border="0" hspace="0" vspace="0"></td>
+		<td width="120"><img src="/gfx/1pix.gif" width="125" height="5" border="0" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td valign="top" bgcolor="#0A0B6C">
+			<!--height="100%" BGCOLOR="#0A0B6C" Login, Search & Left Hand Nav  BACKGROUND="gfx/navbgr2.jpg"-->
+			<table width="115" border="0" cellspacing="0" cellpadding="0" bgcolor="#0A0B6C">
+				<tbody><tr>
+					<td height="20" class="newTmp2bldWht">&nbsp;&nbsp;Login</td>
+				</tr>
+				<tr>
+					<td height="1" bgcolor="#ccccff"><img src="/gfx/1pix.gif" width="115" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td>
+				
+
+						<!--  Login box  -->
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						<center>
+						<table border="0" cellspacing="0" cellpadding="0"><form name="loginForm" action="/login.cfm?pid=70" method="post"></form>						
+						<tbody><tr><td class="newTmp2secL2Nav">Username</td></tr>
+						<tr><td class="newTmp2secL2Nav"><input type="text" name="username" value="" size="9" maxlength="32" class="newTmp2NoBdrFrm" onfocus="this.select()"></td></tr>
+						<tr><td class="newTmp2secL2Nav">Password</td></tr>
+						<tr><td class="newTmp2secL2Nav"><input type="password" name="password" value="" size="9" maxlength="32" class="newTmp2NoBdrFrm" onfocus="this.select()"></td></tr>
+						<tr><td class="newTmp2secL2Nav"><input type="Checkbox" name="rememberMe" onfocus="this.select()">Remember me?</td></tr>
+						<tr><td align="right"><input src="/gfx/button_login.gif" alt="click here to login" type="image" width="48" height="24" border="0" value="Login"></td></tr>
+						
+						</tbody></table>
+						</center>
+				
+				
+
+
+
+
+
+
+
+					
+					</td>
+				</tr>
+				<tr>
+					<td height="1" bgcolor="#ccccff"><img src="/gfx/1pix.gif" width="115" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td height="20" class="newTmp2bldWht">&nbsp;&nbsp;<a href="/?pid=19" class="newTmp2bldWht">Subscribe&nbsp;&nbsp; &gt;&gt;</a></td>
+				</tr>
+				<tr>
+					<td height="1" bgcolor="#ccccff"><img src="/gfx/1pix.gif" width="115" height="1" border="0"></td>
+				</tr>
+				<!--
+				<TR>
+					<TD HEIGHT="20" CLASS="newTmp2bldWht"><A HREF="http://www.thebookseller.com/buyersGuide/" CLASS="newTmp2bldWht">&nbsp;&nbsp;Buyer's Guide<BR>&nbsp;&nbsp;Submissions &gt;&gt;</A></TD>
+				</TR>
+				<TR>
+					<TD HEIGHT="1" BGCOLOR="#ccccff"><IMG SRC="/gfx/1pix.gif" WIDTH="115" HEIGHT="1" BORDER="0"></TD>
+				</TR>
+				-->
+				<tr>
+					<td align="left">
+					
+						<table width="" border="0" cellspacing="0" cellpadding="0">
+						
+							<tbody><tr><td colspan="3"><img src="/gfx/1pix.gif" width="105" height="15" border="0"></td></tr>
+							<tr>
+								<td bgcolor="#739ebd"><img src="/gfx/1pix.gif" width="5" height="16" border="0"></td>
+								
+								<td colspan="2" bgcolor="#739ebd" class="newTmp3lNavBT"><a href="/?pid=18" class="newTmp3lNavBT">About Us</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=69" class="newTmp3sNav" title="Legal disclaimer">Disclaimer</a></td>
+							
+							</tr>
+							
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=70" class="newTmp3sNavMch" title="Our privacy policy">Privacy</a></td>
+							
+							</tr>
+							
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=71" class="newTmp3sNav" title="Contact details for theBookseller.com">Contact</a></td>
+							
+							</tr>
+							
+						
+							
+							<tr>
+								<td colspan="3"><img src="/gfx/1pix.gif" width="105" height="15" border="0"></td></tr>
+							<tr>
+							<!-- <tr>
+								<TD COLSPAN="3" BGCOLOR="#970005"><IMG SRC="/gfx/1pix.gif" WIDTH="105" HEIGHT="1" BORDER="0"></TD
+							</tr> -->
+							</tr><tr>
+								<td bgcolor="#970005"><img src="/gfx/1pix.gif" width="5" height="18" border="0"></td>
+								<td colspan="2" bgcolor="#970005" class="newTmp3lNavBT">Main Menu</td>
+							</tr>	
+							<!-- <tr>
+								<TD COLSPAN="3" BGCOLOR="#970005"><IMG SRC="/gfx/1pix.gif" WIDTH="105" HEIGHT="1" BORDER="0"></TD
+							</tr>	 -->					
+							
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=2" class="newTmp3pNav" title="welcome to the bookseller.com">Home</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=3" class="newTmp3pNav" title="News from the book trade">News</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=7" class="newTmp3pNav" title="The latest bestseller charts">Bestsellers</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=8" class="newTmp3pNav" title="Comment and discussion on the book business">Opinion</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=9" class="newTmp3pNav" title="The Directory of Services is a fully searchable database of book trade companies, including links and contact details">Directory</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=10" class="newTmp3pNav" title="The latest job vacancies in the book business">Career Focus</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=11" class="newTmp3pNav" title="Searchable database of forthcoming books">Bookshelf</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=12" class="newTmp3pNav" title="Our weekly guide to books in the media">Books in the Media</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=13" class="newTmp3pNav" title="News, charts and comment on the children's sector">Children's Bookseller</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=16" class="newTmp3pNav" title="Purchase market reports in the bookshop for the book business ">Shop</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=18" class="newTmp3pNavMch" title="About Bookseller Publications, publisher of theBookseller.com and The Bookseller">About Us</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=20" class="newTmp3pNav" title="Help section for theBookseller.com">Help</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=65" class="newTmp3pNav" title="Advertising guide for Bookseller Publications">Advertising Guide</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=197" class="newTmp3pNav" title="Retrieve and change your account details">Your Account</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=204" class="newTmp3pNav" title="Sample of theBookseller.com Bulletin">Bulletin</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=220" class="newTmp3pNav" title="Crossword">Crossword</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=229" class="newTmp3pNav" title="Rights deals and news">Rights Report</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=239" class="newTmp3pNav" title="Feedback area">Feedback</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=263" class="newTmp3pNav" title="Trade notes and notices">Noticeboard</a></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td colspan="2"><a href="/?pid=315" class="newTmp3pNav" title="Buyer's Guide">Buyer's Guide</a></td>
+							</tr>
+							<tr>
+								<td><img src="/gfx/1pix.gif" width="10" height="15" border="0"></td>
+								<td><img src="/gfx/1pix.gif" width="5" height="15" border="0"></td>
+								<td><img src="/gfx/1pix.gif" width="100" height="15" border="0"></td>
+							</tr>
+						</tbody></table>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+			<td width="10" valign="10"><img src="/gfx/1pix.gif" width="5" height="1" border="0"></td>
+		<!--  MAIN content area :: Includes RHN where appropriate  -->
+		
+		<td width="500" valign="top">
+			<!--  MAIN CONTENT  -->
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				<a name="17762"></a>
+	
+		<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newTmp3RedTit">Privacy policy</td></tr><tr><td bgcolor="#000000"><img src="/gfx/1pix.gif" width="1" height="1" border="0"></td></tr></tbody></table>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17763"></a>
+	
+		<p></p><p>Bookseller Publications is a part of VNU Entertainment Media UK Ltd, which is owned by VNU Business Media Inc, a VNU company.</p><p></p>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17764"></a>
+	
+		<p></p><p>VNU Business Media Inc (VNUBM) works to develop useful internet services and websites that are safe, easy, and respectful of our customers. This website is maintained by  VNU Entertainment Media UK. Our offices are located at 5th Floor, Endeavour House, Shaftesbury Avenue, London, WC2H 8TJ, UK. You can also reach us by telephone on +44 (0)20 7420 6006.</p><p></p>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17771"></a>
+	
+
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="gStoryHed">Customer definition</td></tr></tbody></table>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17765"></a>
+	
+		<p></p><p>VNUBM defines its customers as follows: <br>*	Subscribers and readers<br>*	End users of products and services<br>*	Advertisers and sponsors of our products<br>*	Inquiries<br>*	Journalists and editorial contributors<br>*	Press<br>*	Other individuals with whom VNUBM maintains business relationships or communications</p><p></p>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17772"></a>
+	
+
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="gStoryHed">Types of information gathered</td></tr></tbody></table>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17766"></a>
+	
+		<p></p><p>There are two primary types of information provided by our customers. The definitions and treatments of these types are as follows:<br><i>Financial Information</i><br>Payment information gathered during the registration process - including but not limited to, credit card numbers, financial institutions, and expiration dates - is considered Financial. This information is not distributed under any circumstance.<br><br><i>Professional Information</i><br>Data that customers provide to Bookseller Publications through various methods of communication with Bookseller Publications is considered professional information that is stored and managed for VNUBM's internal use. Professional data includes, but is not limited to, name, address, company name, company address, phone number, fax number, email address, as well as questions answered on survey or subscription forms. Data captured when customer registers for or purchases products on a VNUBM website, as well as during a visit with another VNUBM customer, is also considered professional information and may also be stored for VNUBM's internal use. Professional information may be, upon the consent of VNUBM, shared with other organisations or VNUBM customers for the purpose of facilitating business relationships in our customers’ best interests.</p><p></p>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17773"></a>
+	
+
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="gStoryHed">Opt out</td></tr></tbody></table>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17767"></a>
+	
+		<p></p><p>VNUBM will accept, acknowledge and maintain any customer's request to opt out of either future communication from VNUBM or communication from a third party to whom VNUBM provided the customer's information.<br><br>We will accept opt-out requests as follows: <br>*	By Sender: VNUBM or 3rd party<br>*	By Product: i.e. TheBookseller.com<br>*	By Medium: Mail, Phone, Fax, Email (or All)</p><p></p>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17774"></a>
+	
+
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="gStoryHed">Cookies</td></tr></tbody></table>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17768"></a>
+	
+		<p></p><p>Some VNUBM websites use Cookies. Cookies are nothing more than a simple text file. They are not executable programs, and consequently it is impossible for a cookie to contain a virus, or any other application. Cookies are also very small, and you run no risk of filling your hard drive with too many cookies.<br>Any queries/questions:<br>If you have any questions or concerns about your customer information or your request to opt out of communications from VNUBM or its third party partners, please contact our office via <a href="mailto:listproblems@bookseller.co.uk">e-mail</a>, telephone +44 (0)20 7420 6006, or FAX +44 (0)20 7420 6177.</p><p></p>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17775"></a>
+	
+
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="gStoryHed">E-mail addresses</td></tr></tbody></table>
+	
+	
+
+
+				
+				
+			
+				
+				<a name="17769"></a>
+	
+		<p></p><p>This site recognises the home servers of visitors, but not their e-mail addresses. Individually identifiable e-mail addresses are not captured or stored unless they are provided. Persons who communicate with Bookseller Publications, and supply us with an e-mail address, may receive future communications by e-mail or telephone. Persons who do not wish to receive e-mail messages may contact Bookseller Publications and ask to be removed; to do so, send an <a href="mailto:listproblems@bookseller.co.uk">e-mail</a> and specify your name, company name and e-mail address. As such, Bookseller Publications supports the customer's right to opt out. Persons who request information about Bookseller Publications, and who supply us with their name and address will be added to our database to receive the requested information.</p><p></p>
+	
+	
+
+
+				
+				
+			
+		
+			<!--  If page found from search, return to search results gadget!  -->
+			
+			
+			
+		</td>
+		<td width="10"><img src="/gfx/1pix.gif" width="10" height="1" border="0"></td>
+		<td width="120" valign="top"><table width="125" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="125" height="125">
+			<!--  static ad position  -->
+			
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+		
+			
+			
+			
+			
+			
+		
+		
+		<!-- 2 --><a href="/csi/bannerRedir.cfm?ans=135" target="_new"><img src="gfx/banners/tmp20040601110237.gif" width="125" height="125" border="0" hspace="0" vspace="0" alt=""></a>
+		
+	
+	
+
+		</td>
+	</tr>
+	<tr><td width="125" height="5"><img src="/gfx/1pix.gif" width="125" height="5" border="0" hspace="0" vspace="0"></td></tr>
+	<tr><td width="125" height="1" bgcolor="#000066"><img src="/gfx/1pix.gif" width="125" height="1" border="0" hspace="0" vspace="0"></td></tr>
+	
+		
+		
+		
+		<tr>
+			<td width="125" bgcolor="#000066" align="center" valign="middle">
+				
+					
+			<table width="123" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+				<tbody><tr>
+					<td height="20" bgcolor="#000066" class="newTmp2bldWht">&nbsp;Pick of the day</td>
+				</tr>
+				<tr>
+					<td>
+						<table border="0" cellspacing="0" cellpadding="5"><tbody><tr><td>
+						<b>Bestsellers: Curious Incident nears 500,000
+</b>
+<br>There has been no abatement in interest in Katie Price's <i>Being Jordan</i> (John Blake), which has now passed 100,000 sales through the Total Consumer Market, or Mark Haddon's <i>The Curious Incident of the Dog in the Night-time</i> (Vintage, Red Fox), combined editions of which could reach the 500,000 milestone this week.<br> 
+							
+								
+							
+							
+								<a href="http://www.thebookseller.com/?pid=7">For more, click here</a>
+							
+						
+						</td></tr></tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+
+
+				
+			
+		
+		<tr><td width="125" height="1" bgcolor="#000066"><img src="/gfx/1pix.gif" width="125" height="1" border="0" hspace="0" vspace="0"></td></tr>
+		<tr><td width="125" height="5"><img src="/gfx/1pix.gif" width="125" height="5" border="0" hspace="0" vspace="0"></td></tr>
+		
+	
+			
+	<tr>
+		<td width="125" height="125">
+			<!--  static ad position  -->
+			
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+	
+	
+
+		</td>
+	</tr>
+</tbody></table>
+</td>
+		
+	</tr>
+	<tr>
+		<td bgcolor="#0A0B6C">&nbsp;&nbsp;<a href="#top" class="bcktopLnk">Back to top</a>&nbsp;&nbsp;<a href="#top" class="bcktopLnk"><img src="/gfx/uparrowwht.gif" width="13" height="7" alt="back to the top" border="0"></a><br><br></td>
+	</tr>
+	<tr>
+		<td colspan="5"><img src="/gfx/1pix.gif" border="0" width="760" height="1"></td>
+	</tr>
+	<tr>
+		<td colspan="2" valign="top" align="right">&nbsp;</td>
+		<td align="center">
+			
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+		
+			
+			
+			
+			
+			
+		
+		
+		<!-- 2 --><a href="/csi/bannerRedir.cfm?ans=109" target="_new"><img src="gfx/banners/tmp20040507031930.gif" width="468" height="60" border="0" hspace="0" vspace="0" alt="The Bookseller Fives"></a>
+		
+	
+	
+
+			<p class="stdSml">
+				© VNU Business Media 1995 - 2004. All Rights Reserved<br>
+				<a href="/?pid=69">Disclaimer</a> | <a href="/?pid=70">Privacy Policy</a> | <a href="/?pid=71">Contact</a>
+			</p>&nbsp;
+		</td>
+		<td colspan="2">&nbsp;</td>
+	</tr>
+</tbody></table>
+
+
+
+<!--  test marker  -->
+
+	
+	
+	
+	
+	
+
+
+<script language="JavaScript">
+popNavArray = new Array(
+
+	new Array("2", "welcome to the bookseller.com", "Home"),
+
+	new Array("3", "News from the book trade", "News"),
+
+	new Array("7", "The latest bestseller charts", "Bestsellers"),
+
+	new Array("8", "Comment and discussion on the book business", "Opinion"),
+
+	new Array("9", "The Directory of Services is a fully searchable database of book trade companies, including links and contact details", "Directory"),
+
+	new Array("10", "The latest job vacancies in the book business", "Career Focus"),
+
+	new Array("11", "Searchable database of forthcoming books", "Bookshelf"),
+
+	new Array("12", "Our weekly guide to books in the media", "Books in the Media"),
+
+	new Array("13", "News, charts and comment on the children's sector", "Children's Bookseller"),
+
+	new Array("16", "Purchase market reports in the bookshop for the book business ", "Shop"),
+
+	new Array("41", "The latest top 50 bestsellers in the UK", "Bookseller 50"),
+
+	new Array("42", "The latest from our columnists", "Columnists"),
+
+	new Array("47", "Letters submitted to The Bookseller", "Letters"),
+
+	new Array("48", "TheBookseller.com's interactive discussion forum", "Digital Dialogues"),
+
+	new Array("61", "Pay in the book business", "Focus on pay"),
+
+	new Array("65", "Advertising guide for Bookseller Publications", "Advertising Guide"),
+
+	new Array("196", "News and comment from around the web", "The BookBlog"),
+
+	new Array("197", "Retrieve and change your account details", "Your Account"),
+
+	new Array("204", "Sample of theBookseller.com Bulletin", "Bulletin"),
+
+	new Array("229", "Rights deals and news", "Rights Report")
+
+)
+
+var menuTop=108;
+var menuLeft=762;
+
+function getLayer(layerName, parentLayers) {
+	var returnVal = null;
+	if(parentLayers[layerName]) {
+		returnVal = parentLayers[layerName];
+	}
+	else {
+		for(var z=0; z<parentLayers.length; z++) {
+			returnVal = getLayer(layerName, parentLayers[z].document.layers);
+			if(returnVal != null) break;
+		}
+	}
+	return returnVal;
+}
+
+function getElement(element) {
+	var returnObj;
+	if((IE5 && !MAC) || NN6) {
+		returnObj = document.getElementById(element);
+	}
+	else if(IE4 || (IE5 && MAC)) {
+		returnObj = document.all[element];
+	}
+	else {
+		returnObj = getLayer(element, document.layers);
+	}
+	return returnObj;
+}
+
+var varTimer;
+
+function display() {
+	window.clearTimeout(varTimer);
+	if(NN4) {
+		getElement('menuLayer').visibility="show";
+	} else {
+		getElement('menuLayer').style.visibility="visible";
+	}
+}
+
+function hide() {
+	if(NN4) {
+		varTimer = setTimeout("getElement('menuLayer').visibility='hide'", 100);
+	} else {
+		varTimer = setTimeout("getElement('menuLayer').style.visibility='hidden'", 100);
+	}
+}
+
+function writePopNav () {
+	if(NN4) {
+		document.writeln('<LAYER NAME="menuLayer" LEFT="10" TOP="' +menuTop+ '" VISIBILITY="hide">');
+	} else {
+		document.writeln('<DIV ID="menuLayer" onMouseOver="display();" onMouseOut="hide();" STYLE="position:absolute; visibility:hidden; left:10px; top:'+menuTop+'px; z-index: 100;">');
+	}
+	document.writeln('<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="2" BGCOLOR="#0A0B6C">');
+	for (var i=0; i<popNavArray.length; i++) {
+		document.writeln('<TR><TD><A HREF="/?pid=' + popNavArray[i][0] + '" CLASS="newTmp3TopNav" TITLE="' + popNavArray[i][1] + '">&nbsp;<NOBR>' + popNavArray[i][2] + '</NOBR>&nbsp;</A></TD></TR>');
+	}
+	document.writeln('</TABLE>');
+	if(NN4) {
+		document.writeln('</LAYER>');
+		var trueLeft=parseInt(menuLeft-document.menuLayer.document.width);
+		getElement('menuLayer').left=trueLeft;
+	} else {
+		document.writeln('</DIV>');
+		var trueLeft=menuLeft-getElement('menuLayer').offsetWidth;
+		getElement('menuLayer').style.left=trueLeft+"px";
+	}
+}
+</script>
+<script language="JavaScript">
+writePopNav();
+</script><div id="menuLayer" onmouseover="display();" onmouseout="hide();" style="position: absolute; visibility: hidden; left: 648px; top: 108px; z-index: 100;">
+<table border="0" cellspacing="0" cellpadding="2" bgcolor="#0A0B6C">
+<tbody><tr><td><a href="/?pid=2" class="newTmp3TopNav" title="welcome to the bookseller.com">&nbsp;<nobr>Home</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=3" class="newTmp3TopNav" title="News from the book trade">&nbsp;<nobr>News</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=7" class="newTmp3TopNav" title="The latest bestseller charts">&nbsp;<nobr>Bestsellers</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=8" class="newTmp3TopNav" title="Comment and discussion on the book business">&nbsp;<nobr>Opinion</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=9" class="newTmp3TopNav" title="The Directory of Services is a fully searchable database of book trade companies, including links and contact details">&nbsp;<nobr>Directory</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=10" class="newTmp3TopNav" title="The latest job vacancies in the book business">&nbsp;<nobr>Career Focus</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=11" class="newTmp3TopNav" title="Searchable database of forthcoming books">&nbsp;<nobr>Bookshelf</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=12" class="newTmp3TopNav" title="Our weekly guide to books in the media">&nbsp;<nobr>Books in the Media</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=13" class="newTmp3TopNav" title="News, charts and comment on the children's sector">&nbsp;<nobr>Children's Bookseller</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=16" class="newTmp3TopNav" title="Purchase market reports in the bookshop for the book business ">&nbsp;<nobr>Shop</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=41" class="newTmp3TopNav" title="The latest top 50 bestsellers in the UK">&nbsp;<nobr>Bookseller 50</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=42" class="newTmp3TopNav" title="The latest from our columnists">&nbsp;<nobr>Columnists</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=47" class="newTmp3TopNav" title="Letters submitted to The Bookseller">&nbsp;<nobr>Letters</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=48" class="newTmp3TopNav" title="TheBookseller.com's interactive discussion forum">&nbsp;<nobr>Digital Dialogues</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=61" class="newTmp3TopNav" title="Pay in the book business">&nbsp;<nobr>Focus on pay</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=65" class="newTmp3TopNav" title="Advertising guide for Bookseller Publications">&nbsp;<nobr>Advertising Guide</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=196" class="newTmp3TopNav" title="News and comment from around the web">&nbsp;<nobr>The BookBlog</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=197" class="newTmp3TopNav" title="Retrieve and change your account details">&nbsp;<nobr>Your Account</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=204" class="newTmp3TopNav" title="Sample of theBookseller.com Bulletin">&nbsp;<nobr>Bulletin</nobr>&nbsp;</a></td></tr>
+<tr><td><a href="/?pid=229" class="newTmp3TopNav" title="Rights deals and news">&nbsp;<nobr>Rights Report</nobr>&nbsp;</a></td></tr>
+</tbody></table>
+</div>
+
+
+<!--  VISIBILITY="hide"  -->
+<!--  VISIBILITY="display"  -->
+
+
+
+
+
+</a></body></html>
