@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the upromise.com privacy policy that was archived on 2003-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030605120450id_/http%3A//www.upromise.com/corp/privacy.html%3Fcx%3Df) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upromise.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603032630id_/http%3A//www.upromise.com/corp/privacy.html%3Fcx%3Df) for the most accurate reproduction.-->
 
 <html><head>
 <title>Upromise - Privacy Statement and Principles</title>
-<link rel="stylesheet" href="http://im.upromise.com/style.css" type="text/css">
+<link rel="stylesheet" href="http://im.upromise.com/stylelty.css" type="text/css">
 <script language="JavaScript">
 <!--
 function getCookie(name) {
@@ -21,36 +21,20 @@ function getCookie(name) {
 }
 var usr=getCookie("usr");
 var isUsr = false;
-if (usr!=null && (usr.length>1 && usr.indexOf("|")>1)){
+if (usr!=null){
 isUsr=true;
-var pipeCount=0;
-for (var i=0;i<usr.length;i++) { if(usr.substr(i,1)=="|") { pipeCount++; }}
 var pipe1=usr.indexOf("|", 0);
 var pipe2=usr.indexOf("|", pipe1+1);
 var pipe3=usr.indexOf("|", pipe2+1);
-var pipe4=usr.indexOf("|", pipe3+1);
-var pipe5=usr.indexOf("|", pipe4+1);
 var usrUsername=usr.substring(0,pipe1);
 var usrShopID=usr.substring(pipe1+1,pipe2);
 var usrFirstName=usr.substring(pipe2+1,pipe3);
-if (pipeCount==5) {
-var usrFullName=usr.substring(pipe3+1,pipe4);
-var usrState=usr.substring(pipe4+1,pipe5);
-var usrType=usr.substring(pipe5+1,usr.length);
-} else if (pipeCount==4) {
-var usrFullName=usr.substring(pipe3+1,pipe4);
-var usrState=usr.substring(pipe4+1,usr.length);
-var usrType="";
-} else {
-var usrFullName = usr.substring(pipe3+1,usr.length);
-var usrState="";
-var usrType="";
-}}
-var joinLink = '<a href="/displayServlet?su=8000&cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree.gif" alt="JOIN FREE" vspace=0 hspace=0 border=0 align=absmiddle></a>';
-var loginLink = '<a href="/displayServlet?su=8300&cx=l0"><img src="http://im.upromise.com/images/nav/l0-login.gif" alt="LOGIN" vspace=0 hspace=0 border=0 align=absmiddle></a>';
-var logoutLink = '<a href="/displayServlet?su=8107&cx=l0"><img src="http://im.upromise.com/images/nav/l0-logout.gif" alt="LOGOUT" vspace=0 hspace=0 border=0 align=absmiddle></a>';
+}
+var joinLink = '<a href="/secure/8000.do?cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree15.gif" alt="JOIN FREE" vspace=0 hspace=10 border=0 align=absmiddle></a>';
+var loginLink = '<a href="/displayServlet?su=8300&cx=l0"><img src="http://im.upromise.com/images/nav/l0-login.gif" alt="Login" vspace=0 hspace=10 border=0 align=absmiddle></a>';
+var logoutLink = '<a href="/displayServlet?su=8107&cx=l0"><img src="http://im.upromise.com/images/nav/l0-logout.gif" alt="Logout" vspace=0 hspace=10 border=0 align=absmiddle></a>';
 var mode = getCookie("mode");
-var modeLink =  joinLink + " | " + loginLink;
+var modeLink = joinLink + loginLink;
 if (isUsr) { modeLink = loginLink; }
 if (mode > "0") { modeLink = logoutLink; }
 function MM_onLoad(img) {
@@ -60,11 +44,11 @@ function MM_onLoad(img) {
 			'http://im.upromise.com/images/nav/l1-blank.gif',
 			'http://im.upromise.com/images/nav/l1-grocery.gif',
 			'http://im.upromise.com/images/nav/l1-hiw.gif',
+			'http://im.upromise.com/images/nav/l1-loans.gif',
 			'http://im.upromise.com/images/nav/l1-main.gif',			
 			'http://im.upromise.com/images/nav/l1-myact.gif',
 			'http://im.upromise.com/images/nav/l1-olm.gif',
 			'http://im.upromise.com/images/nav/l1-rest.gif',
-			'http://im.upromise.com/images/nav/l1-serv.gif',
 			'http://im.upromise.com/images/nav/l1-stores.gif'		
 		);
 	}
@@ -88,24 +72,12 @@ if ( (j > 0) && (j + 4 < thisUrl.length) ) {
 } else if (document.cookie.indexOf("AX=")==-1) {
 	document.cookie = "AX=up-default;path=/;domain=.upromise.com";
 }
-var m = thisUrlLower.indexOf("?ax=");
-if (m < 0) { m = thisUrlLower.indexOf("&ax="); }
-if ((m > 0) && (m + 4 < thisUrl.length)) {
-	var n = thisUrl.indexOf("&", m + 4);
-	if ( n < 0 ) { 	n = thisUrl.length;  }
-	document.cookie = "REF="+escape(thisUrl.substring(m + 4, n))+";path=/;domain=.upromise.com";
-} else if (document.cookie.indexOf("REF=")==-1) {
-	document.cookie = "REF=up-default;path=/;domain=.upromise.com";
-}
 var h = thisUrlLower.indexOf("?pc=");
 if (h < 0) { h = thisUrlLower.indexOf("&pc="); }
 if ((h > 0) && (h + 4 < thisUrl.length)) {
 	var i = thisUrl.indexOf("&", h + 4);
 	if ( i < 0 ) { 	i = thisUrl.length;  }
 	document.cookie = "PC="+escape(thisUrl.substring(h + 4, i))+";path=/;domain=.upromise.com";
-}
-if ( document.cookie.indexOf("AOL=")==-1 && ( thisUrlLower.indexOf("aol.upromise.")!=-1 || thisUrlLower.indexOf("aol.s.upromise.")!=-1 ) ) {
-	document.cookie = "AOL=true;path=/;domain=.upromise.com";
 }
 var sx = thisUrlLower.indexOf("?sx=");
 if (sx < 0) { sx = thisUrlLower.indexOf("&sx="); }
@@ -114,43 +86,47 @@ if ((sx > 0) && (sx + 4 < thisUrl.length)) {
 	if ( sxend < 0 ) { sxend = thisUrl.length;  }
 	document.cookie = "SX="+escape(thisUrl.substring(sx + 4, sxend))+";path=/;domain=.upromise.com";
 }
-NS4=document.layers; if(NS4){origWidth=innerWidth;origHeight=innerHeight;} function reDo(){if(innerWidth!=origWidth||innerHeight!=origHeight)location.reload();} if(NS4)onResize=reDo;
 //-->
 </script>
 </head>
-<body bgcolor="#ffffff" link="#0033CC" vlink="#0033CC" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" onload="MM_onLoad(0);">
-<script language="JavaScript" src="http://im.upromise.com/js/cobrand.js"></script>
-<script language="JavaScript">
-<!--
-var cobrandChecked;
-if (cobrandChecked){
-	writeHeader();
-}
-//-->
-</script>
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td bgcolor="#ffffff" valign="middle" colspan="2" nowrap=""><a href="/index.html?cx=l0"><script language="JavaScript">
-if(isUsr){
- document.write('<img src=\"http://im.upromise.com/images/nav/l0-uplogo.gif\" width=\"154\" height=\"31\" vspace=\"2\" hspace=\"8\" border=\"0\">');
-}else{
- document.write('<img src=\"http://im.upromise.com/images/nav/l0-uplogowts.gif\" alt=\"Upromise - The Way to Save for College\"  width=\"278\" height=\"31\" vspace=\"2\" hspace=\"8\" border=\"0\">');
-}
-</script><img src="http://im.upromise.com/images/nav/l0-uplogowts.gif" alt="Upromise - The Way to Save for College" width="278" height="31" vspace="2" hspace="8" border="0"><noscript><img src="http://im.upromise.com/images/nav/l0-uplogowts.gif" alt="Upromise - The Way to Save for College" width="278" height="31" vspace="2" hspace="8" border="0"></noscript></a></td>
-    <td bgcolor="#ffffff" valign="middle" align="right" nowrap="" class="smalltext"><a href="/index.html?cx=l0">Home</a> &nbsp;|&nbsp;
-<a href="/content/faq/index.html?cx=l0">Help</a> &nbsp;|&nbsp;
-<script language="JavaScript">document.write(modeLink);</script><a href="/displayServlet?su=8000&amp;cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree.gif" alt="JOIN FREE" vspace="0" hspace="0" border="0" align="absmiddle"></a> | <a href="/displayServlet?su=8300&amp;cx=l0"><img src="http://im.upromise.com/images/nav/l0-login.gif" alt="LOGIN" vspace="0" hspace="0" border="0" align="absmiddle"></a>
+<body bgcolor="#ffffff" link="#0033CC" vlink="#0033CC" onload="MM_onLoad(0);">
+<table width="760" border="0" cellspacing="0" cellpadding="0" class="areal0">
+  <tbody><tr class="areal0">
+     <td align="left" valign="top" width="9"><img src="http://im.upromise.com/images/nav/l0-leftcorner.gif" width="9" height="9"></td>
+     <td align="left" valign="middle" nowrap="" width="260" height="49"><a href="/index.html?cx=l0"><img src="http://im.upromise.com/images/nav/l0-uplogo15.gif" width="149" height="39" border="0"><script language="JavaScript" type="text/javascript">if (getCookie("aol") != null) {document.write('<img src="http://im.upromise.com/images/nav/l0-aollogo15.gif" width="95" height="39" border="0">')}</script></a></td>
+     <td align="left" class="smalltext"><script language="JavaScript1.1">
+     if (isUsr) {
+     	var displayFirstName;
+      	var now = new Date();
+     	displayFirstName = (usrFirstName!=null&&usrFirstName.length>1)?usrFirstName:usrUsername;
+     	document.write("Welcome, <b>" +	displayFirstName + "</b>.");
+     	if (mode < 1) {
+             document.write("<span class=\"smalltext\"> " +
+             "(Not " + displayFirstName + "? " +
+             "Click <a href=\"/secure/8101.0.do\">here</a>.)</span>");
+         }
+     } else {
+     	document.write("Welcome, <b>Guest</b>.");
+     }
+     </script>Welcome, <b>Guest</b>.</td>
+     <td align="right" nowrap="" class="smalltext">
+<script language="JavaScript">document.write(modeLink);</script><a href="/secure/8000.do?cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree15.gif" alt="JOIN FREE" vspace="0" hspace="10" border="0" align="absmiddle"></a><a href="/displayServlet?su=8300&amp;cx=l0"><img src="http://im.upromise.com/images/nav/l0-login.gif" alt="Login" vspace="0" hspace="10" border="0" align="absmiddle"></a>
 <noscript><a href="/displayServlet?su=8300&cx=l0">Login</a> / <a href="/displayServlet?su=8107&cx=l0">Logout</a></noscript>
-&nbsp;&nbsp;
+<a href="/content/faq/index.html?cx=l0"><img src="http://im.upromise.com/images/nav/l0-help.gif" border="0" width="38" align="absmiddle" hspace="20" height="12"></a>
     </td>
+    <td align="right" valign="top"><img src="http://im.upromise.com/images/nav/l0-rightcorner.gif" width="9" height="9"></td>
   </tr>
 </tbody></table>
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td colspan="3" width="760"><img src="http://im.upromise.com/images/nav/l1-main.gif" width="760" height="31" border="0" usemap="#L1nav"></td></tr>
-<tr><td colspan="3" class="text">
-<table width="760" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr bgcolor="#ffcc33">
-<td valign="top" width="760" bgcolor="#ffcc33" align="left"><img src="http://im.upromise.com/images/1.gif" width="760" height="2" alt="" border="0"></td>
+<img src="http://im.upromise.com/images/nav/l1-new.gif" style="position:absolute;left:462px;top:51px" width="37" height="13">
+<table width="760" border="0" cellspacing="0" cellpadding="0" class="areal1">
+<tbody><tr class="areal1">
+<td colspan="4" valign="bottom"><a href="/displayServlet?su=8300&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-myact.gif" alt="My Account" border="0"></a><a href="/8720.do?cx=l1"><img src="http://im.upromise.com/images/nav/l1-hiw.gif" alt="How It Works" border="0"></a><a href="/8650.do?cx=l1"><img src="http://im.upromise.com/images/nav/l1-family.gif" border="0" alt="Family &amp; Friends"></a><img src="http://im.upromise.com/images/1.gif" width="16" height="1" alt="" border="0"><a href="/nspage?su=8277&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-grocery.gif" alt="Grocery &amp; Drug" border="0"></a><a href="/nspage?su=8210&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-stores.gif" alt="Stores &amp; Services" border="0"></a><a href="/dining"><img src="http://im.upromise.com/images/nav/l1-rest.gif" alt="Dining" border="0"></a><a href="/9850.do?cx=l1"><img src="http://im.upromise.com/images/nav/l1-travel.gif" alt="Travel" border="0"></a><a href="/nspage?su=8230&amp;cx=l1"><img src="http://im.upromise.com/images/nav/l1-olm.gif" alt="Online Shopping" border="0"></a><img src="http://im.upromise.com/images/1.gif" width="16" height="1" alt="" border="0"><a href="/content/savingsplans/index.html?cx=l1"><img src="http://im.upromise.com/images/nav/l1-529.gif" alt="529 Plans" border="0"></a><a href="/content/loans/loans.htm?cx=l1"><img src="http://im.upromise.com/images/nav/l1-loans.gif" alt="Student Loans" border="0"></a></td>
+</tr>
+</tbody></table>
+<table width="760" border="0" cellspacing="0" cellpadding="0" class="areal2">
+<tbody><tr><td colspan="3" class="text areal2">
+<table width="760" cellspacing="0" cellpadding="0" border="0" class="areal2">
+<tbody><tr bgcolor="#c5daff">
 </tr>
 </tbody></table>
 </td></tr>
@@ -161,16 +137,6 @@ if(isUsr){
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 </table>
 </td></tr></tbody></table>
-<map name="L1nav">
-<area shape="rect" coords="1,1,97,31" href="/displayServlet?su=8300&amp;cx=l1" alt="MY ACCOUNT">
-<area shape="rect" coords="98,1,202,31" href="/content/howitworks/acceleratesavings.html?cx=l1" alt="HOW IT WORKS">
-<area shape="rect" coords="203,1,322,31" href="/nspage?su=8277&amp;cx=l1" alt="GROCERY &amp; DRUG">
-<area shape="rect" coords="323,1,402,31" href="/nspage?su=8220&amp;cx=l1" alt="SERVICES">
-<area shape="rect" coords="403,1,473,31" href="/nspage?su=8210&amp;cx=l1" alt="STORES">
-<area shape="rect" coords="474,1,571,31" href="/dining" alt="RESTAURANTS">
-<area shape="rect" coords="572,1,671,31" href="/nspage?su=8230&amp;cx=l1" alt="SHOP ONLINE">
-<area shape="rect" coords="672,1,759,31" href="/content/savingsplans/index.html?cx=l1" alt="529 PLANS">
-</map>
 <table cellpadding="0" cellspacing="0" border="0" width="760">
  <tbody><tr> 
   <td valign="top" class="text">
@@ -189,9 +155,10 @@ if(isUsr){
   
     <td align="left" valign="middle">
      <a href="http://www.bbbonline.org/cks.asp?id=201012613533712021" target="new_window"><img src="http://im.upromise.com/images/privacy/PrivacySeal4.gif" width="90" height="31" alt="BBB OnLine" border="0" hspace="5" vspace="8"></a>
-     <a href="http://www.truste.org/validate/8960" target="new_window"><img src="http://im.upromise.com/images/privacy/truste.gif" width="87" height="26" alt="TRUSTe" border="0" hspace="5" vspace="8"></a>
     </td>
-  
+  <td align="left" valign="middle">
+     <a href="https://www.truste.org/ivalidate.php?url=www.upromise.com" target="new_window"><img src="http://im.upromise.com/images/privacy/truste-seal.gif" width="91" height="73" alt="TRUSTe" border="0" hspace="5" vspace="8"></a>
+    </td>
    </tr>
   </tbody></table>
   <table cellpadding="0" cellspacing="4" border="0" width="100%">
@@ -267,7 +234,7 @@ if(isUsr){
   	</p><p><b>Information We May Obtain</b>.<br><br>
   	As part of providing you products or services, we may obtain personal information from the following sources:
   	</p><ul>
-  	<li><b>Information you provide to us</b> on applications and other forms, that you otherwise enter on our web site, or that you provide to us in writing or by telephone, such as when you contact our customer service staff.  This information may include items such as your name, address, telephone number and social security number.  In addition, please see <b>Use of Cookies</b> below for information we receive automatically when you visit our web site.
+  	<li><b>Information you provide to us</b> on applications and other forms, that you otherwise enter on our web site, or that you provide to us in writing or by telephone, such as when you contact our customer service staff.  This information may include items such as your name, address, telephone number and social security number.  In addition, please see <b>Use of Cookies and other Technologies</b> below for information we receive automatically when you visit our web site.
   	</li><li><b>Information from your transactions</b> with us, our affiliates or nonaffiliated third parties such as account activity and your purchase information in our Rewards service.
   	</li><li><b>Information from third parties</b>, including public sources, such as verification services and consumer reporting agencies (to comply with regulatory requirements, ensure the accuracy of data and prevent fraud, for example), or from other sources (such as from other institutions like a bank or broker you use to  transfer funds into a Upromise account, or public sources).
   	</li></ul>
@@ -286,14 +253,18 @@ if(isUsr){
   	</p><ul>
   	<li><b>Agents and Service Providers.</b>  In order to provide our products and services, we may share any of the information we gather about you with agents and service providers to perform functions on our behalf, such as to send email and postal mail, analyze data, provide marketing services, process applications and credit card payments, and service accounts.  These service providers have access to personal information needed to perform their functions, but may not use it for other purposes.
   	</li><li><b>Protection of Upromise and Others.</b>  We may disclose personal information about you to third parties when we believe such disclosure is appropriate to comply with a legal requirement, such as a law, regulation, court order, subpoena or search warrant, or in the course of a legal proceeding.  We may also disclose personal information as we believe appropriate to enforce or apply our rights under our agreements with customers, to protect the rights, property or safety of Upromise, our customers and others, including exchanging information for fraud protection and credit risk reduction.
-  	</li><li><b>Business Transfers.</b>  If there is a change of control in Upromise's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser.  However, if that business materially changes this statement or the information-handling practices as described in this statement, you will have a choice as to whether your existing information is used in a new manner.
+  	</li><li><b>Business Transfers.</b>  If there is a change of control in Upromise's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser.  However, if that business materially changes this statement or the information-handling practices as described in this statement, you will be notified by email and/or through a notice posted on our web site, and you will have a choice as to whether your existing information is used in a new manner.
   	</li></ul>
   	If we ever make the decision to share customer personal information with third parties so that they may market their products and services directly to you, we will notify you ahead of time, and we will not share your information without your consent.
   	
   	<div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
   	
-  	<a name="cookies"></a><p><b>Use of Cookies </b><br><br>
+  	<a name="cookies"></a><p><b>Use of Cookies and other Technologies</b><br><br>
   	Our web servers place and read "cookies" on our site's visitors' computers for a variety of purposes. Cookies are small data files that are stored on an Internet user's computer by a web server. One important use of cookies is to help identify you while you are logged in to the Upromise site. Consequently, if your browser does not accept session cookies, you will be unable to enroll or log in to our service using our site. You will, however, be able to browse our site as a visitor. The information Upromise collects from cookies and web server logs is used to administer the web service and customize information you receive when visiting our site. Upromise may also use and share aggregate information from cookies and web server logs to analyze and improve our web service offerings.  This information does not identify individual visitors or customers.
+  	
+  	</p><p class="text">We, certain third parties who host portions of our web site, and certain advertising affiliates or others employ small pieces of code known as "web beacons" or "clear gifs" that, on an anonymous basis, count users that have visited a page that contains these web beacons.  We use web beacons to help us better manage content on our site and to determine which content is effective.  In addition, third party advertising affiliates and others may use web beacons to help us track the effectiveness of our advertisements placed on third party web sites.   Web beacons on our site our not used to collect personally identifiable information about our customers, and the limited information they do collect is not tied to our customers' personally identifiable information.  Finally, we use web beacons in our HTML-based emails to let us know which emails have been opened by recipients so that we may gauge the effectiveness of our communications.  If you would like to opt-out of these emails, please see "Choices Regarding the Receipt of Marketing Messages."
+  	
+  	</p><p class="text">As is true of most web sites, we gather certain information automatically and store it in log files.  This information includes the internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  We use this information, which does not identify individual users, to analyze trends, to administer our web site, to track users' movements around the web site and to gather demographic information about our user base as a whole.  This automatically-collected data is not linked to customers' personally identifiable information.  In addition, we occasionally employ third-party tracking services that use cookies and/or web beacons to track non-personally identifiable information about visitors to our site in the aggregate to analyze trends and the effectiveness of our web site.
   	
   	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
   	
@@ -312,7 +283,7 @@ if(isUsr){
   	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
   	
   	<a name="changes"><p><b>Changes to This Privacy Statement </b><br><br>
-  	If we materially change this statement or our information-handling practices as described in this statement, we will notify you at least 30 days prior to their implementation. You will have choices as to whether we use your existing information in a new manner.
+  	If we materially change this statement or our information-handling practices as described in this statement, we will notify you by email and/or through a notice on our web site at least 30 days prior to their implementation. You will have choices as to whether we use your existing information in a new manner.
   	
   	</p></a><p class="subheadline2a"><a name="changes"></a><a name="privacy"><b>Privacy of Upromise Rewards Service</b></a>
   	
@@ -340,7 +311,9 @@ if(isUsr){
   	
   	</p><p><b>Management of Your Account.</b> When you become a member, we use your contact and transaction data to manage your account.
   	
-  	</p><p><b>Use of Third Parties for Fulfillment Purposes.</b> We may use certain third parties to provide marketing and administrative services, such as keeping track of your purchases, analyzing data or delivering special college saving offers to you on our behalf or on behalf of our contributing companies. In order to obtain these services, we may need to share certain personally identifiable information about our members. However, those third parties will be bound by legal agreements to not use or disclose the information we provide them for any purpose other than to perform the requested service.
+  	</p><p><b>Use of Third Parties for Fulfillment Purposes.</b> We may use certain third parties to provide marketing and administrative services, such as keeping track of your purchases, analyzing data or delivering special college saving offers to you on our behalf or on behalf of our contributing companies. Third parties may also be used to help us administer our grocery, dining and hotel rewards programs.  In order to obtain these services, we may need to share certain personally identifiable information about our members. However, these third parties will be bound by legal agreements to not use or disclose the information we provide them for any purpose other than to perform the requested service.
+  	
+  	</p><p>On occasion, contests, sweepstakes or surveys on our web site may be co-sponsored by Upromise and another company, or may be sponsored by companies other than Upromise.  Some or all of the data collected through these contests, sweepstakes or surveys may be shared with the sponsor(s) or companies indicated on the entry form.  If such data will be shared, then there will be a notice prior to the time of data collection or transfer.
   	
   	</p><p><b>Notification About Products and Services.</b> We offer you the chance to maximize your savings through new college savings opportunities made available to you on our site and, unless you opt out of receiving them, through email, mail, and telephone messages. We may use information about you to provide you offers tailored to your interests.  Sometimes, we send offers to selected groups of members on behalf of our contributing companies.  When we do this, we do not give the contributing company your name and address.  If you do not want to receive offers from contributing companies, you may opt out of receiving them.
   	
@@ -375,10 +348,12 @@ if(isUsr){
   	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
   	
   	<a name="contact"></a><p><a name="contact"><b>How do I contact Upromise about this Privacy Statement?</b><br>
-  	If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please </a><a href="/nspage?su=8105">contact us</a>
+  	If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please </a><a href="/nspage?su=8105">contact us</a> by email or at Upromise, Inc., Customer Care - Privacy Policy Issues, 117 Kendrick Street, Needham, MA 02494.
   	
   	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
-    </td>
+  	
+  	<p>Last Updated: April 28, 2004<br>
+    </p></td>
   
    </tr>
   </tbody></table>
@@ -398,10 +373,9 @@ if(isUsr){
     <a href="/content/faq/sitemap.html?cx=f">Site Map</a> |
     <a href="/nspage?su=8105&amp;cx=f">Contact Us</a> |
     <a href="/corp/careers/career.html?cx=f">Careers</a> |
-    <script language="JavaScript">document.write('<a href="' + baseDomain + '/search" class="smalltext">Search</a>');</script><noscript><a href="http://www.upromise.com/search" class="smalltext">Search</a></noscript>
     <div class="smalltext">
     Upromise is a <a href="/corp/security.html?cx=f">secure</a> site that respects your <a href="/corp/privacy.html?cx=f">privacy</a>.<br>
-    © 2001-2003 Upromise, Inc. All rights reserved.<br>
+    © 2001-2004 Upromise, Inc. All rights reserved.<br>
     Brokerage services are provided through Upromise Investments, Inc., member NASD/SIPC.
     <br>
     <script language="JavaScript">
@@ -432,13 +406,6 @@ if(isUsr){
   <td width="1"><img src="http://im.upromise.com/images/1.gif" width="1" height="10" alt="" border="0"></td>
  </tr>
 </tbody></table>
-<script language="JavaScript">
-<!--
-if (cobrandChecked){
-	writeFooter();
-}
-//-->
-</script>
 
 
 <!--<%=com.upromise.app.util.WebUtil.getJSPDataAsXML(fsirequest, true)%>-->
