@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gmacmortgage.com privacy policy that was archived on 2000-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001207062300id_/http%3A//www.gmacmortgage.com/companyInfo/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gmacmortgage.com privacy policy that was archived on 2001-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603123504id_/http%3A//www.gmacmortgage.com/companyInfo/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso8859-1">
@@ -17,8 +17,8 @@ var img_name_array=new Array(
     "par/relatedSites_on.gif",
     "par/careers.gif",
     "par/careers_on.gif",
-    "par/newsEvents.gif",
-    "par/newsEvents_on.gif",
+    "/pressRoom/par/pressRoom.gif",
+    "/pressRoom/par/pressRoom_on.gif",
     "/images/leftnav/howHelp.gif",
     "/images/leftnav/howHelp_on.gif",
     "/images/leftnav/aboutLoan.gif",
@@ -47,6 +47,15 @@ function popWin(theURL){
 function infoWin(theURL){ 
   window.open(theURL,"info","menu='no',width=467,height=400,scrollbars=1");
 }
+
+function popNewWin(theURL){
+var newWin
+var winFeatures="directories=yes,location=yes,menubar=yes,status=yes,titlebar=yes,"
+winFeatures += " toolbar=yes,scrollbars=yes,width=600,height=600,resizable=yes"
+newWin = open(theURL,"NewWin", winFeatures)
+newWin.focus();
+}
+
 
 function winclose(){
    window.self.close();
@@ -81,8 +90,8 @@ function closewin(){
           <td width="75"><img src="/images/InsideTopNav/yellowBlue.gif" width="75" height="53"></td>
           <td background="/images/InsideTopNav/middleBlue.gif" width="100%"><img src="/images/InsideTopNav/middleBlue.gif" width="10" height="53"></td>
           <td width="143"><a href="https://www.gmacmortgage.com/online_svcs/"><img src="/images/InsideTopNav/AcctAccess.gif" onmouseover="On('acctaccess','/images/InsideTopNav/')" onmouseout="Off('acctaccess','/images/InsideTopNav/')" name="acctaccess" id="acctaccess" border="0" alt="Access Your Account" width="192" height="53"></a></td>
-          <td width="132"><a href="https://www.gmacm-online.com/"><img src="/images/InsideTopNav/Apply.gif" onmouseover="On('apply','/images/InsideTopNav/')" onmouseout="Off('apply','/images/InsideTopNav/')" name="apply" id="apply" border="0" alt="Apply Online ...anytime" width="180" height="53"></a></td>
-          <td width="143"><a href="/sitemap/"><img src="/images/InsideTopNav/sitemap.gif" onmouseover="On('sitemap','/images/InsideTopNav/')" onmouseout="Off('sitemap','/images/InsideTopNav/')" name="sitemap" id="sitemap" border="0" alt="Site Map" width="143" height="53"></a></td>
+          <td width="132"><a href="/applyonline.asp"><img src="/images/InsideTopNav/Apply.gif" onmouseover="On('apply','/images/InsideTopNav/')" onmouseout="Off('apply','/images/InsideTopNav/')" name="apply" id="apply" border="0" alt="Apply Online ...anytime" width="180" height="53"></a></td>
+          <td width="143"><a href="http://www.gmacmortgage.com/sitemap/"><img src="/images/InsideTopNav/sitemap.gif" onmouseover="On('sitemap','/images/InsideTopNav/')" onmouseout="Off('sitemap','/images/InsideTopNav/')" name="sitemap" id="sitemap" border="0" alt="Site Map" width="143" height="53"></a></td>
         </tr>
       </tbody></table>
     </td>
@@ -113,9 +122,6 @@ function closewin(){
     <td> <a href="/JobOpps/" onmouseover="On(5)" onmouseout="Off(5)"> <img name="BU5" src="/companyInfo/par/careers.gif" width="158" height="17" border="0"></a></td>
   </tr>
   <tr> 
-    <td> <a href="default.asp?page=newsEvents" onmouseover="On(6)" onmouseout="Off(6)"> <img name="BU6" src="/companyInfo/par/newsEvents.gif" width="158" height="16" border="0"></a></td>
-  </tr>
-  <tr> 
     <td> <a href="/howCanWeHelp/" onmouseover="On(7)" onmouseout="Off(7)"> <img name="BU7" src="/images/leftnav/howHelp.gif" width="158" height="22" border="0"></a></td>
   </tr>
   <tr> 
@@ -131,7 +137,7 @@ function closewin(){
     <td> <a href="http://gmacm.net/states.asp" onmouseover="On(11)" onmouseout="Off(11)"> <img name="BU11" src="/images/leftnav/BranchLoc.gif" width="158" height="20" border="0"></a></td>
   </tr>
   <tr> 
-    <td> <a href="/contactUs/" onmouseover="On(12)" onmouseout="Off(12)"> <img name="BU12" src="/images/leftnav/contactUs.gif" width="158" height="22" border="0"></a></td>
+    <td> <a href="/contactUS/" onmouseover="On(12)" onmouseout="Off(12)"> <img name="BU12" src="/images/leftnav/contactUs.gif" width="158" height="22" border="0"></a></td>
   </tr>
 </tbody></table>
 
@@ -188,9 +194,7 @@ function closewin(){
 
 
 
-
-
-
+ <!--#in clude file="newsEvents.htm"-->
 
 
 </body></html>
