@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wedplan.net privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605233631id_/http%3A//www.wedplan.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedplan.net privacy policy that was archived on 2004-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041220114115id_/http%3A//www.wedplan.net/privacy.php) for the most accurate reproduction.*
 
-# WedPlan. The wedding planning network.
+# WedPlan: Wedding Caterers, Wedding Disc Jockeys, Wedding Photographers, Wedding Videographers
 
   
 WedPlan is committed to protecting the privacy of its visitors. We believe that our visitors have a right to know about the information gathering practices regarding our Web site and have produced this Privacy Policy in an effort to present those practices. 
@@ -14,6 +14,8 @@ In order to provide you with personalized services, such as a free My WedPlan ac
 WedPlan uses high grade 128-bit Secure Socket Layers (SSL) encryption to protect the integrity of all credit card transmissions to our servers. For added security, credit card information such as card number, card type, and expiration date, is NOT stored on our servers. 
 
 WedPlan makes every effort to prevent unauthorized access to any and all information that you may submit to our servers. We cannot, however, guarantee that unauthorized access to this information will never occur. In the unlikely event that a breach in site security is determined, we will make every attempt to notify you of the matter. Due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally indentifiable information will not be disclosed voluntarily or involuntarily to third parties. Under certain circumstances, the government or third parties may lawfully or unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event that we need to investigate or resolve possible problems or inquiries, we can disclose any information about you to private entities, law enforcement, or other government officials as we, in our sole discretion, believe necessary or appropriate. WedPlan reserves the right to deny access to any or all features of the site in cases where we believe fraud, abuse, or misrepresentation has been committed by a site visitor. 
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
 Material changes in the privacy policy of this Web site will be posted on this page, <http://www.wedplan.net/privacy.php> without other written, verbal, or electronic communication. 
 
