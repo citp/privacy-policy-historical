@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lavalife.com privacy policy that was archived on 2002-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020409084324id_/http%3A//www.lavalife.com/secret/privacy.epl%3Fcontext%3Da) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lavalife.com privacy policy that was archived on 2002-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021216074039id_/http%3A//www.lavalife.com/secret/privacy.epl%3Fcontext%3Da) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>Lavalife</title>
 <style type="text/css"> 
@@ -21,15 +21,44 @@
   // -->
 </style>
  
-    <script language="javascript">
-    <!--
-    function err(){
-	window.status(" ");
+<script language="javascript">
+<!--
+  function err(){
+    return true;
+  }
+  window.onerror=err;
+//-->
+</script>
+
+
+<script language="javascript">
+<!--
+  var gMyAppletActive = false; 
+  function isAppletActive() {
+    if (gMyAppletActive == false) {
+      gMyAppletActive = parent.im.document.imapplet.isAppletReady;
     }
-    window.onerror=err;
-    //-->
-    </script>
-  </head>
+    return gMyAppletActive;
+  }
+
+  function logoutSession(url) { 
+
+    var answer = true;
+    if (parent.im.document.imapplet) {
+      if (isAppletActive()) {
+	if (parent.im.document.imapplet.isInPaidSession()) {
+	  var warningMessage = "You are part of a paid instant message session.  Logging out will end this session.  Are you sure you want to end this session?";
+	  answer = confirm(warningMessage);
+	}
+      }
+    }
+    if (answer) parent.parent.parent.location.href=url;
+
+  }
+//-->
+</script>
+
+</head>
 <body onresize="reloadpage()" bgcolor="#FFFFFF" style="margin-left: 0pt; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0">
 <form name="seg"><input type="hidden" name="segment" value="n"></form><basefont face="Arial,Helvetica">
 <table border="0" cellpadding="0" cellspacing="0" height="100%" width="600">
@@ -127,6 +156,8 @@ Members may choose to participate in community polls. The results of these polls
 </p><p>
 When you inquire about advertising opportunities on our site, you will be asked for contact information and information related to your advertising objectives. This information will be used to provide you with the business information you are seeking. Your information is only shared with internal staff and the external ad representation agencies that sell media space on the site, on our behalf. Lavalife sites may contain links to other sites not affiliated with Lavalife. Please note that these other sites may have privacy policies that differ from those of Lavalife. We have no control over any personal information that you provide to these sites.
 </p><p>
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">click here</a>.
+</p><p>
 <b>Associates</b>
 </p><p>
 When you register to become an Associate of our site, you will be asked for contact information and information related to your site. Your information will only be used by internal staff and will never be shared with anyone external to the company other than our advisors and representatives without your consent, unless required to do so by operation of law. Your information will be used to secure your approval as an Associate, to facilitate communication between our two sites and to send you payment, based on your site's performance. 
@@ -159,6 +190,10 @@ ALL OTHER ENQUIRIES SHOULD BE SENT TO <a href="mailto:help@lavalife.com">help@la
 <td width="25" bgcolor="#ffffff"><img src="/images/xxxx-pixel.gif" width="25"></td>
 </tr>
 </tbody></table>
+
+
+
+
 
 
 </body></html>
