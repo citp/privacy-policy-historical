@@ -1,32 +1,31 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605191957id_/http%3A//www.walgreens.com/help/privacyandsecurity.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216090844id_/http%3A//www.walgreens.com/help/privacyandsecurity.jhtml) for the most accurate reproduction.*
 
 # Walgreens | Help | Walgreens.com Online Privacy & Security Policy
 
   
-**WALGREENS.COM ONLINE PRIVACY & SECURITY POLICY** For over 100 years, Walgreens has established itself as one of the most trusted health care providers in America. Our company has always been committed to providing our valued customers with the best services available. Now, as we offer our convenient online pharmacy service, we want you to be assured that your personal information is properly safeguarded. In the following sections, you will learn how Walgreens secures your private information. 
+**WALGREENS.COM ONLINE PRIVACY & SECURITY POLICY ** For over 100 years, Walgreens has established itself as one of the most trusted health care providers in America. Our company has always been committed to providing our valued customers with the best services available. Now, as we offer our convenient online pharmacy service, we want you to be assured that your personal information is properly safeguarded. In the following sections, you will learn how Walgreens secures your private information. 
 
 To assist you with reading through our privacy policy, we have provided answers to questions that you may find most important: 
 
 **What information can I access?**  
-Walgreens.com gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our web site evolves. 
+Walgreens.com gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. To review or make changes to your information, click on "Help" located at the top of the web page. The Help section contains instructions about your account and editing steps for entering new information or changing existing information. This list will change as our web site evolves. 
 
-  * [Privacy Practices](http://www.walgreens.com/help/privacypractices.jhtml)
   * [Your Account](https://www.walgreens.com/youraccount/default.jhtml)
   * [PIN](http://www.walgreens.com/help/pin.jhtml)
   * [Place Prescription Order](http://www.walgreens.com/help/orderprescriptions.jhtml)
   * [Point and Click Refills®](http://www.walgreens.com/help/pinuse/pinuse1.jhtml)
   * [Update Health History](http://www.walgreens.com/help/health_history/default.jhtml)
-  * [Auto Refills](http://www.walgreens.com/help/autorefill.jhtml)
-  * [Confidential Messages](https://www.walgreens.com/messaging/psm/psmhome.jhtml)
+  * [Activate Auto Refills](http://www.walgreens.com/help/autorefill.jhtml)
+  * [Read Confidential Messages](https://www.walgreens.com/messaging/psm/psmhome.jhtml)
   * [Ask a Pharmacist](http://www.walgreens.com/help/hy_askapharm.jhtml)
-  * [Maintain Immunization Records](http://www.walgreens.com/pharmacy/immunization/ViewImmunizeRcmd.jhtml)
+  * [Immunization History](http://www.walgreens.com/pharmacy/immunization/ViewImmunizeRcmd.jhtml)
   * [Print Prescription Records*](http://www.walgreens.com/help/rxrecords/tutorial1.jhtml)
   * [Your Shopping List](http://www.walgreens.com/help/shoplisttut/default.jhtml)
 
 *Prescription information will be available for up to 15 months from the date the prescription was filled. 
 
 **What information does Walgreens.com collect?**  
-When you order products and prescription drugs, our registration process asks you to provide us with a limited amount of personal and/or health-related information. This information is necessary to process your order. Some examples are: name, e-mail address, and billing/shipping information (credit card number, shipping address) Additionally, our web server automatically collects click-stream information such as the address (or "URL") of the web site that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you have entered on our site. 
+When you order products and prescription drugs, our registration process asks you to provide us with a limited amount of personal and/or health-related information. This information is necessary to process your order and use our web site to access such functions as print prescription history and Point and Click Refills®. Categories of personally identifiable information include: name, address, phone number, e-mail address, date of birth, billing/shipping information (credit card number, shipping address), and Rx number. Additionally, our web server automatically collects click-stream information such as the address (or "URL") of the web site that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you have entered on our site. 
 
 **How is the information used?**  
 You may choose to supply personalized information that will enable you to receive individualized customer service that we cannot offer anonymous users. That customer service may include notices about updates to our web site, e-mail reminders, messaging with Walgreens pharmacists, and medical content from Mayo Clinic Health Information. We also use the information that you provide in order to respond to your requests, customize your online shopping experience, administer contests or promotions, offer new products and services, and measure and improve the effectiveness of our web sites or our marketing endeavors. 
@@ -34,17 +33,11 @@ You may choose to supply personalized information that will enable you to receiv
 **Does Walgreens.com share the information I've provided?**  
 We will not intentionally release your particular prescription information other than to you, Walgreen Co. and its subsidiaries, our **agents** (such as contracted fulfillment parties, if any) your authorized representative, or your prescriber or other authorized medical professional. We may forward your prescription information to your insurance plan, so that we can handle reimbursement of your prescription purchase for your convenience. 
 
-**Agents:** We may employ other companies and individuals to perform functions on our behalf. These functions may include fulfilling orders for the Health Info Card program, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, or processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-
-**Promotional Offers:** We may send offers to selected groups of Walgreens.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please notify us. 
-
-**Disclosures:** As required by law we will disclose medical and other information which may relate to you. For example, in compliance with the Methamphetamine Control Act of 1996, Walgreens.com will provide the Drug Enforcement Administration with the name and address of each individual who purchases products on Walgreens.com which contain the ingredients ephedrine or pseudophedrine. 
-
-**Business Transfers:** As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that Walgreens.com, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets and is permissible under law. 
-
-**Protection of Walgreens.com and Others:** We release account and other personal information when we believe release is appropriate to comply with laws; enforce or apply our [Terms of Use](http://www.walgreens.com/common/termsofuse.jhtml) and other agreements; or protect the rights, property, or safety of Walgreens.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
-
-**Third Party Service Providers:** Our web site uses a third party service provider to serve images. This service allows us to improve your overall customer experience. They also use similar technology to improve the overall user experience. 
+  * **Agents:** We may employ other companies and individuals to perform functions on our behalf. These functions may include fulfilling orders for the Health Info Card program, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, or processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+  * **Promotional Offers:** We may send offers to selected groups of Walgreens.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please notify us. 
+  * **Disclosures:** As required by law we will disclose medical and other information which may relate to you. For example, in compliance with the Methamphetamine Control Act of 1996, Walgreens.com will provide the Drug Enforcement Administration with the name and address of each individual who purchases products on Walgreens.com which contain the ingredients ephedrine or pseudophedrine. 
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that Walgreens.com, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets and is permissible under law. 
+  * **Protection of Walgreens.com and Others:** We release account and other personal information when we believe release is appropriate to comply with laws; enforce or apply our [Terms of Use](http://www.walgreens.com/common/termsofuse.jhtml) and other agreements; or protect the rights, property, or safety of Walgreens.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
 **Do I have choices regarding how my information is used?**
 
@@ -65,7 +58,10 @@ Cookies do not enable us to determine the identity of any visitor to our web sit
 
 Most Internet browsers permit you to erase or block cookies. Refer to your browser instructions or help screens to assist you in these processes: preventing your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that cookies permit you to take full advantage of Walgreens.com features and we recommend that you leave them turned on. 
 
-We contract with Omniture, a service partner, to provide us with a data collection and reporting service to measure the effectiveness of promotions and e-mails as well as perform analysis of our customers' activities on Walgreens.com. We will use this information to improve your shopping experience on Walgreens.com by ensuring that related products, promotions and services are easily accessible. When you visit our site, Omniture may use cookies on our behalf and may receive anonymous information about your browsing and buying activity on Walgreens.com. The only information shared with Omniture will be a random ID number and zip code. But no personally identifiable information, such as your name, address, e-mail address, etc., will be shared with Omniture. Omniture is contractually prohibited from using the information obtained in the course of providing these services to Walgreens.com in any manner other than to help us provide the best possible shopping experience on our site. 
+**Third Party Service Providers:**
+
+  * Our web site uses a third party service provider to serve images. This service allows us to improve your overall customer experience. 
+  * We contract with Omniture, a service partner, to provide us with a data collection and reporting service to measure the effectiveness of promotions and e-mails as well as perform analysis of our customers' activities on Walgreens.com. We will use this information to improve your shopping experience on Walgreens.com by ensuring that related products, promotions and services are easily accessible. When you visit our site, Omniture may use cookies on our behalf and may receive anonymous information about your browsing and buying activity on Walgreens.com. The only information shared with Omniture will be a random ID number, zip code, gender, year of birth, city and state. No personally identifiable information, such as your name, street address, e-mail address, etc., is shared with Omniture. Omniture is contractually prohibited from using the information obtained in the course of providing these services to Walgreens.com in any manner other than to help us provide the best possible shopping experience on our site. 
 
 **How secure is the information I provided?**  
 Walgreens is committed to securing your personal information. We use technology that is designed for use with secure web servers. Prescription drug information resides in a database behind a firewall where it cannot be accessed without proper authorization. Secure Sockets Layer ("SSL") technology encrypts your personal information as well as your prescription health history as it is transmitted over the Internet. You maintain the security of your medical information by keeping your user name, password, [PIN](http://www.walgreens.com/help/pin.jhtml) and other personal information confidential. In addition, Walgreens customer service representatives will never ask you or call you to request your password. 
@@ -97,14 +93,15 @@ If you choose to visit Walgreens.com, your visit and any dispute over privacy is
 **Related Practices and Information**
 
   * [Terms of Use](http://www.walgreens.com/common/termsofuse.jhtml)
+  * [Notice of Privacy Practices](http://www.walgreens.com/common/privacypractices.jhtml)
 
   
-**Last Revised:**  01/15/2004  |  | 
+**Effective Date:**  07/01/2004  |  | 
 
 **MOST COMMON QUESTIONS**
 
 Need additional help? 
 
-[Click here](https://web.archive.org/web/20040605191957id_/http%3A//www.walgreens.com/help/faq/default.jhtml)  
+[Click here](https://web.archive.org/web/20041216090844id_/http%3A//www.walgreens.com/help/faq/default.jhtml)  
   
 ---|---|---
