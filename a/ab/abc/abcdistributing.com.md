@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcdistributing.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405031605id_/http%3A//abcdistributing.com/service/privacy.cfm%3Flp%3Dshop/index%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcdistributing.com privacy policy that was archived on 2001-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011014200624id_/http%3A//abcdistributing.com/service/privacy.cfm%3Flp%3Dshop/index%26) for the most accurate reproduction.*
 
 # Welcome to Online Shopping with abc!
 
