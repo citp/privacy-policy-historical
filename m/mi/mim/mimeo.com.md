@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2001-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010628175623id_/http%3A//www.mimeo.com/customerCare/security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211221456id_/http%3A//mimeo.com/customerCare/security.htm) for the most accurate reproduction.*
 
 # Mimeo.com - Click. Print. Bind. Deliver.
 
 Mimeo.com Security and Privacy Policy  
   
-[Help](https://web.archive.org/web/20010628175623id_/http%3A//www.mimeo.com/customerCare/faq1.htm) | [Contact](https://web.archive.org/web/20010628175623id_/http%3A//www.mimeo.com/customerCare/contactus.htm) | Security | [Terms](https://web.archive.org/web/20010628175623id_/http%3A//www.mimeo.com/customerCare/terms.htm) | [Guarantee](https://web.archive.org/web/20010628175623id_/http%3A//www.mimeo.com/customerCare/guarantee.htm)   
-  
+[Help](https://web.archive.org/web/20011211221456id_/http%3A//mimeo.com/customerCare/faq1.htm) | [Contact](https://web.archive.org/web/20011211221456id_/http%3A//mimeo.com/customerCare/contactus.htm) | Security | [Terms](https://web.archive.org/web/20011211221456id_/http%3A//mimeo.com/customerCare/terms.htm) | [Guarantee](https://web.archive.org/web/20011211221456id_/http%3A//mimeo.com/customerCare/guarantee.htm)  
   
 
+
+This policy was updated on August 6, 2001.
 
 This confirms that Mimeo.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Mimeo.com's web sites (currently located at http://www.mimeo.com and http://www.gomimeo.com). 
 
@@ -23,15 +24,15 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 
 
 
-If you have questions or concerns regarding this statement, you should first contact customer service at customerservice@mimeo.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact customer service at customerservice@mimeo.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [**TRUSTe**](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 * * *
 
 We at Mimeo.com are committed to protecting the security and privacy of your personal information. Your loyalty as a Customer is important, and we hope that our dedication to the security and privacy of your transactions and information, as described in this policy (the "Security and Privacy Policy" or "Policy"), demonstrates our commitment to making your Mimeo.com experience a good one. 
 
-Note that, by using Mimeo.com's web site (currently located at http://www.mimeo.com and http://www.gomimeo.com) and the related services provided by Mimeo.com or its designees (the "Services"), you signify your agreement to this Policy. In order to keep pace with legal and industry developments, Mimeo.com reviews its security and privacy practices from time to time; therefore, our security privacy practices are subject to change. If Mimeo.com changes any of its security or privacy policies, the changes will be posted here, in this document, so that you can always determine our current security policies, what information we gather, how we might use that information, and whether we will disclose it to anyone. We reserve the right, at our discretion to change, modify, add or remove portions of this Policy at any time. Please be sure to check this page each time prior to using the Services. 
+Note that, by using Mimeo.com's web site (currently located at http://www.mimeo.com and http://www.gomimeo.com) and the related services provided by Mimeo.com or its designees (the "Services"), you signify your agreement to this Policy. In order to keep pace with legal and industry developments, Mimeo.com reviews its security and privacy practices from time to time; therefore, our security privacy practices are subject to change. If Mimeo.com changes any of its security or privacy policies, the changes will be posted in this document, and prominently on the public and private web sites (www.mimeo.com and my.mimeo.com) for 30 consecutive business days prior to the implementation of those changes, so that you can always determine our current security policies, what information we gather, how we might use that information, and whether we will disclose it to anyone. We reserve the right, at our discretion to change, modify, add or remove portions of this Policy at any time. Please be sure to check this page each time prior to using the Services. 
 
-If you have any questions regarding this Security and Privacy Policy, the Service, or Mimeo.com, please email us at privacy@mimeo.com. 
+If you have any questions regarding this Security and Privacy Policy, the Service, or Mimeo.com, please email us at privacy@mimeo.com. If at any time you do not agree to this Policy, please call 1-800-Go-Mimeo (1-800-466-4636) to cancel your account.
 
 1\. Our Security Policy 
 
@@ -47,7 +48,9 @@ While Mimeo.com encourages all third parties involved to conform to our security
 
 2\. Our Privacy Policy on the Information We Gather 
 
-In order to use the Services, each Customer is required to provide us with an email address and a unique password. In addition, when placing an order with Mimeo.com, each Customer is required to provide us with personally identifying and other information such as the Customer's name, phone number, address, payment information (including credit card information), and shipping information (such as third party shipping addresses and shipping preferences). Mimeo.com also collects non-personally identifiable information such as aggregate use statistics. We collect such non-personally identifiable information in part through the use of "cookies" that is, small text files placed on your computer's hard drive. 
+In order to use the Services, each Customer is required to provide us with an email address and a unique password. In addition, when placing an order with Mimeo.com, each Customer is required to provide us with personally identifying and other information such as the Customer's name, phone number, address, payment information (including credit card information), and shipping information (such as third party shipping addresses and shipping preferences). This information is used to contact the customer in the normal course of business (i.e., shipping documents and emailing confirmation letters).
+
+Mimeo.com also collects non-personally identifiable information such as aggregate use statistics, for internal evaluation of our services. We collect such non-personally identifiable information in part through the use of "cookies" (small text files placed on your computer's hard drive). Cookies are used to temporarily identify users as "logged in" to our secure servers. A user's refusal of cookies would render the site unusable, since our databases would no longer be able to identify that user as "logged in."
 
 The Services are neither directed toward children (under thirteen years of age), nor is it made available to children. We do not knowingly collect any personally identifiable information or accept orders from children. 
 
@@ -64,8 +67,6 @@ The Mimeo.com web site may contain links to other Internet web sites, including 
 (b) How we use (and do not use) personally identifiable information 
 
 Mimeo.com provides notice to potential customers that personally identifiable information will be collected when a Customer places an order in order to process such order; moreover, this Security and Privacy Policy itself serves as notice that such information is collected under those circumstances. 
-
-You may choose to "opt in" to receiving promotional materials not directly related to our services from Mimeo.com and/or its affiliates, advertisers, or other business partners. If you "opt in" to receiving such promotional materials, Mimeo.com reserves the right to release any personally identifiable registration information regarding you to third parties who provide goods or services that we believe may be of interest to you. Note, however, that we are not responsible for the actions of such third parties. 
 
 Mimeo.com believes that all emails it sends to you after you sign up for an account are designed to help you best use the Services. The solicitations are limited in that they, among other things, will clearly indicate the originator of the e-mail and provide the customer with a method of "opting out" of receiving future communications of a similar nature. 
 
