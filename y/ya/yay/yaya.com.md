@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaya.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208173552id_/http%3A//www.yaya.com/privacy/index_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaya.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618101845id_/http%3A//www.yaya.com/privacy/index_privacy.html) for the most accurate reproduction.*
 
 # YaYa: FAQ
 
@@ -37,7 +37,7 @@ However, if you link to a third party site from our site or affiliated game site
 
 **Referrals:**
 
-If you elect to use our referral service to inform a friend, we’ll ask you to provide the friend’s name and e-mail address. YaYa will automatically send your friend an e-mail inviting them to visit our site. Yaya stores this information for the purpose of sending this invitation e-mail. The friend may contact us to request the removal of this information from our database at any time by e-mailing changes@yaya.com. 
+If you elect to use our referral service to inform a friend, we’ll ask you to provide the friend’s name and e-mail address. YaYa will automatically send your friend an e-mail inviting them to visit our site. YaYa stores this information for the purpose of sending this invitation e-mail. The friend may contact us to request the removal of this information from our database at any time by e-mailing changes@yaya.com. 
 
 **Children:**
 
@@ -85,7 +85,7 @@ YaYa uses third-party advertising companies to serve ads when you visit our web 
 
 **Log Files:**
 
-Yaya uses IP addresses to analyze trends, administer the site, track your movement, and gather broad demographic information for aggregate use. IP addresses are not linked to your personally identifiable information.
+YaYa uses IP addresses to analyze trends, administer the site, track your movement, and gather broad demographic information for aggregate use. IP addresses are not linked to your personally identifiable information.
 
 YaYa may use WebSideStory's Hitbox service and cookies to measure traffic. This company specifically measures traffic to Web sites. To find out more about how WebSideStory uses the information it collects via cookies, go to http://www.websidestory.com/privacy.
 
