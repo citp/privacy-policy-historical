@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607103803id_/http%3A//corpedia.com/welcome/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001133538id_/http%3A//corpedia.com/welcome/privacy.asp) for the most accurate reproduction.*
 
 # Corpedia Privacy Statement
 
@@ -29,4 +29,4 @@ Call Toll-Free
 Fax  
 (602) 712-0019 
 
-e-mail Corpedia at [info@corpedia.com](mailto:info@corpedia.com)
+e-mail Corpedia at [info0307@corpedia.com](mailto:info0307@corpedia.com)
