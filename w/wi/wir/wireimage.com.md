@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wireimage.com privacy policy that was archived on 2003-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030815220545id_/http%3A//www.wireimage.com/PopupDoc.asp%3Fdoctyp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wireimage.com privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620024117id_/http%3A//www.wireimage.com/PopupDoc.asp%3Fdoctyp%3Dprivacy) for the most accurate reproduction.*
 
 # WireImage
 
