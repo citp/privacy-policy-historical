@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602160440id_/http%3A//www.kraftfoods.com/main.aspx%3Fs%3Dabout%26m%3Dabout/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002075837id_/http%3A//www.kraftfoods.com/main.aspx%3Fs%3Dabout%26m%3Dabout/legal_privacy) for the most accurate reproduction.*
 
-# 
+# Kraft Foods Privacy Policy
 
 This website is owned and operated by Kraft Foods North America. Here at Kraft, we recognize that many visitors to our site are concerned about the information they provide to us, and how we treat that information. So we've developed this Privacy Policy to address those concerns. This Policy relates only to our _online_ information collection and use practices. We may update this Policy from time to time, so please check in occasionally. 
 
