@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indie-music.com privacy policy that was archived on 2002-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021019015012id_/http%3A//www.indie-music.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indie-music.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402132452id_/http%3A//www.indie-music.com/privacy.php) for the most accurate reproduction.*
 
 # Indie-Music.com
 
