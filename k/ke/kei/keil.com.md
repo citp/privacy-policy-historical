@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202075906id_/http%3A//www2.keil.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622090256id_/http%3A//www.keil.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Keil Software Privacy Statement
 
@@ -17,7 +17,7 @@ Your privacy is important to us. By participating in the Council of Better Busin
   * [Downloading a Product Update](https://web.archive.org/update/),
   * [Requesting Technical Support](https://web.archive.org/support/gethelp.htm),
   * [Requesting a Quote](https://web.archive.org/product/prices.htm),
-  * [Requesting Product Information](https://web.archive.org/product/literature.asp),
+  * [Requesting Product Information](https://web.archive.org/product/literature.htm),
   * [Registering for a Training Course](https://web.archive.org/training/),
   * [Adding Your E-mail Address to our List Server](https://web.archive.org/update/list.asp),
   * [Removing Your E-mail Address from our List Server](https://web.archive.org/update/remove.asp),
@@ -64,43 +64,50 @@ When you register your product we also collect the following additional informat
 
 ### How is the Information Used?
 
-The information you enter on this web site is used differently depending on the form used to collect it. 
+The information you enter on this web site is used differently depending on the form used to collect it. If you:
 
-> If you use the **Discussion Forum** : 
->
->> The information you enter (with the exception of your e-mail address) are published in the forum for anyone to see. If you do not wish this information to be available you may either not use the forum or you may use an alias. This information is not maintained in the customer database. 
+  * **Use the Discussion Forum**
+
+> The information you enter (with the exception of your e-mail address) are published in the forum for anyone to see. If you do not wish this information to be available you may either not use the forum or you may use an alias. This information is not maintained in the customer database. 
+
+  * **Request a Quote** ,
+  * **Request Product Information** ,
+  * or **Request a FREE CD-ROM**
+
+> The information you enter is stored in our database and is used to mail or FAX you the requested information. If you live outside the USA, the information you enter is shared with the distributor in your country who will provide you with the requested information. 
 > 
-> If you are **Requesting a Quote** , **Requesting Product Information** , or **Requesting a FREE CD-ROM** : 
->
->> The information you enter is stored in our database and is used to mail or FAX you the requested information. If you live outside the USA, the information you enter is shared with the distributor in your country who will provide you with the requested information. 
->> 
->> See below for more information about our Customer Database and E-mail Addresses. 
+> See below for more information about our Customer Database and E-mail Addresses.
+
+  * **Register a Product** ,
+  * **Download a Product Update** ,
+  * or **Request Technical Support**
+
+> The information you enter is used to update information in our database. Often, we do not have information about the end-user of our products. The information you enter is stored in our database and is used to maintain a history of your technical support requests. If you live outside the USA, the information you enter is shared with the distributor in your country who will provide you with technical assistance.
 > 
-> If you are **Registering a Product** , **Downloading a Product Update** , or **Requesting Technical Support** : 
->
->> The information you enter is used to update information in our database. Often, we do not have information about the end-user of our products. The information you enter is stored in our database and is used to maintain a history of your technical support requests. If you live outside the USA, the information you enter is shared with the distributor in your country who will provide you with technical assistance. 
->> 
->> The Product Registration form collects additional information that is used for marketing and engineering purposes. This helps us determine trends in customers' use of our products and aids in the design of new products and services. 
->> 
->> See below for more information about our Customer Database and E-mail Addresses. 
+> The Product Registration form collects additional information that is used for marketing and engineering purposes. This helps us determine trends in customers' use of our products and aids in the design of new products and services. 
 > 
-> If you are **Registering for a Training Course** : 
->
->> The information you enter is stored in our database. Additionally, your name is added to the class list you requested. You are not actually enrolled in the class until you make payment arrangements with our sales department. By registering for a class, the information you provide will be used to contact you regarding the training course selected. 
->> 
->> See below for more information about our Customer Database and E-mail Addresses. 
+> See below for more information about our Customer Database and E-mail Addresses.
+
+  * **Register for a Training Course**
+
+> The information you enter is stored in our database. Additionally, your name is added to the class list you requested. You are not actually enrolled in the class until you make payment arrangements with our sales department. By registering for a class, the information you provide will be used to contact you regarding the training course selected. 
 > 
-> If you are **Adding Your E-mail Address to our List Server** : 
->
->> The e-mail address you enter is added to our list server. The information in our customer database is not affected. You will receive e-mail when a new product update becomes available. If you do not wish to receive such e-mail you may remove your e-mail address from this list. 
->> 
->> See below for more information about E-mail Addresses. 
+> See below for more information about our Customer Database and E-mail Addresses.
+
+  * **Add Your E-mail Address to our List Server**
+
+> The e-mail address you enter is added to our list server. The information in our customer database is not affected. You will receive e-mail when a new product update becomes available. If you do not wish to receive such e-mail you may remove your e-mail address from this list. 
 > 
-> If you are **Removing Your E-mail Address from our List Server** : 
->
->> The e-mail address you enter is removed from our list server. The information in our customer database is not affected. You will no longer receive e-mail notification of product updates. 
->> 
->> See below for more information about E-mail Addresses. 
+> See below for more information about E-mail Addresses.
+
+  * **Remove Your E-mail Address from our List Server**
+
+> The e-mail address you enter is removed from our list server. The information in our customer database is not affected. You will no longer receive e-mail notification of product updates. 
+> 
+> See below for more information about E-mail Addresses.
+
+
+
 
 ##### Customer Database
 
@@ -126,7 +133,7 @@ We partner with other embedded tools companies and chip manufacturers to provide
 
 ### What Security Precautions are in Effect?
 
-[](https://digitalid.verisign.com/as2/d5bdae13abd5799759e12c3c650c78da) **Keil Software** takes every precaution to protect your information. When you submit sensitive information via the website, that information is protected both online and off-line. 
+[](https://digitalid.verisign.com/as2/2dcc1f26c66917b54559212847e1afc4) **Keil Software** takes every precaution to protect your information. When you submit sensitive information via the website, that information is protected both online and off-line. 
 
 All forms on this web site are available in both non-secure and secure formats. Secure forms encrypt and protect information with the best encryption software in the industry -- SSL. While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just _surfing_. To learn more about SSL, refer to [http://www.verisign.com](http://www.verisign.com/). 
 
@@ -189,6 +196,5 @@ To remove your e-mail address from one of our list servers, follow the direction
 
 If we decide to change our privacy policy, we will post those changes at <http://www.keil.com/company/privacy_changes.htm> so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. You will have a choice as to whether or not we may use your information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-    
-[Copyright](http://www.keil.com/company/copyright.htm) © 2002 [Keil Software, Inc](http://www.keil.com/company/).  All rights reserved.  
+[Copyright](http://www.keil.com/company/copyright.htm) © 2003 [Keil Software, Inc](http://www.keil.com/company/). All rights reserved.  
 Report any problems to the [webmaster](mailto:webmaster@keil.com). 
