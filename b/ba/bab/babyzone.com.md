@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyzone.com privacy policy that was archived on 1999-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991103222106id_/http%3A//babyzone.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyzone.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620171210id_/http%3A//www.babyzone.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Disclaimer The information provided on BabyZone and Siteguider is intended to serve asa supplement to your resources and is in no way
 
@@ -82,7 +82,7 @@ Contacting the Web Site
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
 BabyZone Inc.  
-2608 N. Ocean Drive  
+50 NE 26th Ave. #310  
 Pompano Beach, FL 33062
 
 [privacy@babyzone.com](mailto:privacy@babyzone.com)
