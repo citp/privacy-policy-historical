@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlc.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604025842id_/http%3A//www.tlc.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlc.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209024915id_/http%3A//tlc.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy -- TLC
 
