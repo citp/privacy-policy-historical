@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the couplescompany.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217195700id_/http%3A//www.couplescompany.com/Company/Privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couplescompany.com privacy policy that was archived on 2001-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010628215135id_/http%3A//www.couplescompany.com/Company/Privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home ](https://web.archive.org/web/20001217195700id_/http%3A//www.couplescompany.com/default.htm)| [Mission](https://web.archive.org/web/20001217195700id_/http%3A//www.couplescompany.com/Company/mission.htm) | [How We Began](https://web.archive.org/web/20001217195700id_/http%3A//www.couplescompany.com/Company/begin.htm) | [Corporate Info](https://web.archive.org/web/20001217195700id_/http%3A//www.couplescompany.com/Company/Contact.htm) | [Management](https://web.archive.org/web/20001217195700id_/http%3A//www.couplescompany.com/Company/management.htm)  
+[Home ](https://web.archive.org/web/20010628215135id_/http%3A//www.couplescompany.com/default.htm)| [Mission](https://web.archive.org/web/20010628215135id_/http%3A//www.couplescompany.com/Company/mission.htm) | [How We Began](https://web.archive.org/web/20010628215135id_/http%3A//www.couplescompany.com/Company/begin.htm) | [Corporate Info](https://web.archive.org/web/20010628215135id_/http%3A//www.couplescompany.com/Company/Contact.htm) | [Management](https://web.archive.org/web/20010628215135id_/http%3A//www.couplescompany.com/Company/management.htm)  
   
 ---  
 **CouplesCompany.com Privacy Policy**
