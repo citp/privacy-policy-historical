@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cqu.edu.au privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623123744id_/http%3A//cqu.edu.au/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqu.edu.au privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214151111id_/http%3A//www.cqu.edu.au/policy/privacy.htm) for the most accurate reproduction.*
 
 # CQU Web Privacy Policy
 
