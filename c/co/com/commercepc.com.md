@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercepc.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212035955id_/http%3A//www.commercepc.com/inside_commerce/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercepc.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404024257id_/http%3A//www.commercepc.com/inside_commerce/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Commerce Bank Serving Central PA - Privacy Policy
 
