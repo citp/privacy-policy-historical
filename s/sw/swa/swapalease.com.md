@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205094619id_/http%3A//www.swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604062200id_/http%3A//www.swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
 
 # Swapalease.com Privacy Statement
 
 **SWAPALEASE INC. PRIVACY STATEMENT**  
-| [](https://www.truste.org/validate/8927) |  Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Sawpalease.com of Swapalease Inc.'s Website.  
+| [](https://www.truste.org/validate/8927) |  Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Swapalease.com of Swapalease Inc.'s Website.  
 ---|---  
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
@@ -31,7 +31,7 @@ _Lease "Seller's" Perspective:_
 In order to list a leased vehicle on this website, a user must first complete the required listing sections. During registration a user is required to provide sensitive information (such as social security number and credit card number including expiration date), in addition to contact information (such as name and email address), and demographic information (such as zip code). This information is principally used for verification of lease account information from a particular leasing company and the collection of any listing fee due Swapalease Inc.. Secondarily, this data is used for contacting the user as well as making the sight more personalized for a particular user.
 
 _Lease "Buyer's" Perspective:_  
-We request information from the user on our credit statement form. Here a user must provide sensitive information (such as social security number and credit card number including expiration date), in addition to contact information (such as name and email address), and demographic information (such as income and age level). This information is primarily used for credit assessment purposes and collection of processing fees specifically pertaining to the lease transfer process. Secondarily, this data is used for contacting the user as well as making the sight more personalized for a particular user.
+We request information from the user on our credit statement form. Here a user must provide sensitive information (such as social security number and credit card number including expiration date), in addition to contact information (such as name and email address), and demographic information (such as income and age level). This information is primarily used for credit assessment purposes and collection of processing fees specifically pertaining to the lease transfer process. Creditors receiving this information will retain the user’s application whether or not it is approved and will handle this information in accordance with their privacy policy. Secondarily, this data is used for contacting the user as well as making the site more personalized for a particular user.
 
 Regardless, of your perspective when using the Swapalease Inc. web site you have probably noticed that blue question marks exist on many of the data entry pages. These icons linked with help pages are provided to explain why certain sensitive information is requested and necessary to complete Swapalease, Inc. transactions.   
   
@@ -80,7 +80,7 @@ For example, to determine if our customers qualify (meet generally accepted leas
 **If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. One way this can be accomplished is at the "Managing Your Account" page after member log in. Other avenues include emailing, phoning, or standard mailing our customer support site (see "Contact Us" page for detailed information).   
   
 **Choice/Opt-out  
-**Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive our memorandums or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support@swapalease.com](mailto:support@swapalease.com).
+**Our users are notified of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive our memorandums or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support2@swapalease.com](mailto:support2@swapalease.com).
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.  
   
@@ -94,7 +94,7 @@ Users of our site are always notified when their information is being collected 
 **If you have any questions or suggestions regarding our privacy policy, please contact us at:  
 Phone: 1-866-SWAPNOW (1-866-792-7669)  
 Fax: (513) 381-1091  
-Email: [support@swapalease.com](mailto:support@swapalease.com)  
+Email: [support2@swapalease.com](mailto:support2@swapalease.com)  
 Postal Address: 403 Vine Street   
                         Second Floor   
                         Cincinnati, Ohio 45202 
