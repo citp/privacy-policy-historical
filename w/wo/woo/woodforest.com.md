@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2000-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000530071724id_/http%3A//www.woodforest.com/disclosures/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209103200id_/http%3A//www.woodforest.com/disclosures/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,4 +41,4 @@ On certain occasions, customer information may be provided to a third-party whic
 
 If at any time you have a concern about your information security, you may contact us through e-mail at [info@woodforest.com](mailto:info@woodforest.com), call our institution at 713-455-7000, or write us at Woodforest National Bank, Information Privacy, P.O. Box 24459, Houston, TX 77015. 
 
-[Top](https://web.archive.org/web/20000530071724id_/http%3A//www.woodforest.com/disclosures/privacy.htm#top)
+[Top](https://web.archive.org/web/20001209103200id_/http%3A//www.woodforest.com/disclosures/privacy.htm#top)
