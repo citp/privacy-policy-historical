@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atariage.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009163215id_/http%3A//www.atariage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atariage.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306124908id_/http%3A//www.atariage.com/privacy.php) for the most accurate reproduction.*
 
 # AtariAge - Privacy
 
