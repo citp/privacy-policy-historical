@@ -1,33 +1,10 @@
-> *The following text is extracted and transformed from the compactappliance.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013093126id_/http%3A//www.compactappliance.com/custserv/customerservicemain.jsp%3Fcid%3D1065) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compactappliance.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402145537id_/http%3A//www.compactappliance.com/custserv/customerservicemain.jsp%3Fcid%3D1065) for the most accurate reproduction.*
 
-# Buy a Compact Refrigerator, Washer Dryer Combo, Humidifier, Dehumidifier - Compact Appliance
+# Buy a Portable Air Conditioner, Washer Dryer Combo, Ice Maker, Compact Refrigerator, or Dishwasher - Compact Appliance
 
 | 
 
-CompactAppliance.com is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  By displaying the TRUSTe trustmark, CompactAppliance.com has agreed to notify you of:
-
-  1. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site.
-
-  2. The organization collecting the information.
-
-  3. How the information is used.
-
-  4. With whom the information may be shared.
-
-  5. What choices are available to you regarding collection, use, and distribution of the information.
-
-  6. The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under CompactAppliance.com control.
-
-  7. How you can correct any inaccuracies in the information.
-
-
-
-
-If you have questions or concerns regarding this statement, you should first contact Jason Roussos, Internet Content Manager, by email at [privacy@compactappliance.com](mailto:privacy@compactappliance.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the ["TRUSTe WatchDog Dispute Resolution Process."](http://www.truste.org/watchdog.html)
-
-[](https://www.truste.org/ivalidate.php?url=www.compactappliances.com)
-
- **Your Personal Information  
+**Your Personal Information  
 **We at compactAppliance.com recognize your right to privacy and are committed to protecting your privacy.  We use the information that we collect on our site to provide you with a superior shopping experience.  When you order, we will ask for information that will ensure that your order is processed in an accurate, secure, and timely manner.  Information we ask for includes your name, e-mail address, contact phone number, mailing and billing address, and credit card number and expiration date.  In fulfilling your order, we only share your personal information with outside parties to the extent necessary to fulfill your order.  We may also run contests on our web site in which we ask visitors for contact information that includes name, address, and e-mail address.  This information is used to contact contestants if they should win.  We will use your email to periodically send you our e-mail newsletter that contains special offers and updates about our products and services.  You may opt-out of receiving these emails and you may modify your contact information at any time.  
 
 You will receive administrative emails regarding your order that cannot be opt-ed out of.  The first email you receive will serve as receipt of your order.  The information included in this email consists of sales price, order number, and shipping information.  You will receive a second email when your order ships.  This will contain all tracking information so that you will be able to locate the status of your order at any time. 
@@ -60,7 +37,9 @@ We protect your account information against unauthorized access or release.  We
 **CompactAppliance.com offers sweepstakes on its web site.  Any information collected in registering for these sweepstakes is used to contact individuals should they win.  We will also use your email address to send you a newsletter containing information on specials and events.  You may opt-out of receiving notices by indicating "Remove" or "Unsubscribe" in the subject line.
 
 **Security  
-**This website takes every precaution to protect our users' information.  Our shopping cart incorporates industry-standard secure server software (Secure Socket Layers) into sensitive sections of our store.  All online transactions at CompactAppliance.com are handled using this encryption technology.  When you enter your credit card number into the order form, it is transmitted across the internet in an  encrypted (scrambled) form, then decoded when it gets out.  For added security, we also encrypt the credit card number when it is stored on disk.
+**This website takes every precaution to protect our users' information.  Our shopping cart incorporates industry-standard secure server software (Secure Socket Layers / SSL) provided by [Verisign](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.COMPACTAPPLIANCE.COM&lang=en) into sensitive sections of our store.  All online transactions at CompactAppliance.com are handled using this encryption technology.  When you enter your credit card number into the order form, it is transmitted across the internet in an  encrypted (scrambled) form, then decoded when it gets out.  For added security, we also encrypt the credit card number when it is stored on disk.
+
+To verify that we use Verisign SSL technology, you may click on the Verisign logo below:
 
 Paymentech Services, a state-of-the-art credit card verification service, keeps CompactAppliance.com's transactions secure by encrypting all of your personal information while validating the transaction.  We use RSA encryption technology to scramble your data so that it would be virtually impossible to break into.
 
