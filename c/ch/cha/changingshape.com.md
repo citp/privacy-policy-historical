@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the changingshape.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604134135id_/http%3A//www.changingshape.com/information/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changingshape.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209060248id_/http%3A//www.changingshape.com/information/privacypolicy.asp) for the most accurate reproduction.*
 
-# Changing Shape: Privacy Policy
+# Changing Shape Fitness - online fitness programs - Privacy Policy
 
   
   
@@ -18,10 +18,11 @@ Changing Shape adheres to the Direct Marketing Association's guidelines for allo
 You may request to have your name removed from any future mailings, including catalogs, new product / services announcements, special discount limited time offers, by advising Changing Shape by phone or letter.
 
 **E-mail:** [marketing@changingshape.com](mailto:marketing@changingshape.com)  
-**Call:** 360.258.2625 Mon - Fri. 8 a.m. to 5 p.m. PST  
-**Mail:** Changing Shape  
-        11216 NE 64th Ave  
-          Vancouver, WA 98686
+**Call:** 360.601.0482 Mon - Fri. 8 a.m. to 5 p.m. PST  
+**Mail:** Changing Shape Fitness  
+        630 S Kenmore Ave  
+        Suite 316  
+        Los Angeles, CA 90005
 
 **Web Use and Cookies.**  
 New technologies are emerging on the Internet that help to deliver customized visitor experiences. Currently, there is a technology called "cookies." A cookie is a piece of information that a web site can send to your browser, which may then store it on your system. Cookies make some activities on the World Wide Web easier by storing information you have provided, such as a password or a purchase preference.
