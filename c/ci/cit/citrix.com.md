@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the citrix.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603171422id_/http%3A//www.citrix.com/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citrix.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406004316id_/http%3A//citrix.com/privacy.asp) for the most accurate reproduction.*
 
-# Citrix Privacy Policy
+# Citrix Systems, Inc. : Citrix Privacy Policy
+
+  
+  
+Citrix Privacy Policy
 
 **Information Collection**  
 Citrix deems privacy a central issue of Internet use. Citrix attempts to have reasonable policy measures in place to assure the anonymity of visitors to the Citrix web site. Citrix feels as part of responsible disclosure that Citrix web site users are aware of what information is being logged. 
@@ -20,5 +24,4 @@ Although most customers tell us they appreciate receiving notice of these opport
 **Children**  
 While Citrix's product ad campaigns and marketing materials may be viewed by children, we do not wish to receive data from children. Citrix encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. No information should be submitted to, or posted at, Citrix's web site by visitors under 18 years of age without the consent of their parent or guardian. 
 
-Citrix System Inc.'s privacy policy is subject to change at any time and without notice.  
-© 2000 Citrix Systems, Inc. All rights reserved. 
+Citrix System Inc.'s privacy policy is subject to change at any time and without notice.
