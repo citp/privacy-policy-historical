@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bresso.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216055250id_/http%3A//bresso.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bresso.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604013545id_/http%3A//www.bresso.com/privacy.shtml) for the most accurate reproduction.*
 
 # Bresso.com free mp3 : privacy policy
 
