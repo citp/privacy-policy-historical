@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803120724id_/http%3A//careerjunction.co.za/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209175950id_/http%3A//www.careerjunction.co.za/legal/privacy.asp) for the most accurate reproduction.*
 
 # CareerJunction
 
-CareerJunction (last updated 11/07/2001)  
+CareerJunction (last updated 30/05/2002)  
 
 
  **Index**
@@ -12,7 +12,6 @@ CareerJunction (last updated 11/07/2001)
   * Registration
   * Resume
   * Placement
-  * RefCheck
   * Email Us
   * Cookies
   * Log Files
@@ -41,7 +40,7 @@ CareerJunction (last updated 11/07/2001)
 
 
 
-If you feel that CareerJunction is not abiding by its posted privacy policy, you should first contact the Client Service Manager by email at [info@careerjunction.co.za](mailto:info@careerjunction.co.za), by phone at +27 21 659 2500 or by mail at PO Box 6286, Roggebaai 8012, South Africa. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [TRUSTe Watchdog](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you feel that CareerJunction is not abiding by its posted privacy policy, you should first contact the Client Service Manager by email at [info@careerjunction.co.za](mailto:info@careerjunction.co.za), by phone at +27 21 686 6820 or by mail at PO Box 6286, Roggebaai 8012, South Africa. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [TRUSTe Watchdog](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 **Information collection and use**   
 [ Index ]
@@ -62,11 +61,6 @@ We request information from the user on our Resume form. Here a user must provid
 [ Index ]
 
 We request information from the user on our Placement form when they have been placed as a result of successfully using our web services. Here a user must provide new employment information (date, company, company size, city/town, location, job title, type, level, industry, remuneration, benefits and duties), recruiter information recruiter's name, consultant's name and consultant's phone number) and personal information (name and email address). This information is used for checking and claim purposes. If we have trouble processing a claim, the contact information is used to get in touch with the user.
-
-**RefCheck**   
-[ Index ]
-
-We request information from the user on our RefCheck form when they request and give permission that a reference check be carried out on their behalf by a third party called RefCheck (to view RefCheck's Privacy Statement, [click here](http://www.refcheck.org/privacy.asp)). Here a user must provide personal information (name, identity number, phone number and email address) and credit card information (cardholder name, card number, card type and expiry date). This information is used to authorise RefCheck to carry out the required procedures on the user's behalf and to collect payment from the user for the services they provide. If we have trouble processing a RefCheck authorisation, the contact information is used to get in touch with the user.
 
 **Email Us**   
 [ Index ]
