@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607141646id_/http%3A//rarediseases.org/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204193759id_/http%3A//www.rarediseases.org/info/privacy) for the most accurate reproduction.*
 
 # NORD - National Organization for Rare Disorders, Inc.
 
@@ -35,4 +35,4 @@ New Fairfield, CT 06812-8923_
 NORD offers a periodic e-mail service to those who are interested in hearing about the latest news in the rare disease community. These "News Blasts" are strictly opt-in. You will not receive them unless you have voluntary subscribed to the service. If you ever wish to modify your address or unsubscribe, please send an e-mail to [nord@rarediseases.org](mailto:nord@rarediseases.org). 
 
 **Contacting NORD**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact [mwesterdal@rarediseaes.org](mailto:mwesterdal@rarediseases.org). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact [gmikita@rarediseaes.org](mailto:gmikita@rarediseases.org). 
