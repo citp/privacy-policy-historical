@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikea-usa.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630140942id_/http%3A//www.ikea-usa.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikea-usa.com privacy policy that was archived on 2004-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041022114006id_/http%3A//www.ikea-usa.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # IKEA | privacy policy
 
@@ -10,8 +10,7 @@ We collect and use information about you to communicate with you about our produ
  **Catalog**  
 When you request a catalog from us, you provide us with contact information, such as your name, address, phone number and email address, so we may fulfill your request.
 
- **Email**  
-When you subscribe to our email list, you provide us information such as your email address, name and ZIP code so we may communicate with you via email. We will send you email only if you have provided us with your email address and have asked us to communicate with you this way. To update your email communication preferences, or to unsubscribe, please [**click here.**](http://65.17.227.36/IkeaOptin/Registration.aspx)
+When you subscribe to our email list, you provide us information such as your email address, name and ZIP code so we may communicate with you via email. We will send you email only if you have provided us with your email address and have asked us to communicate with you this way. To update your email communication preferences, or to unsubscribe, please [click here.](http://65.17.227.36/IkeaOptin/Registration.aspx)
 
  **Purchases**  
 When you order or purchase an IKEA product, you may be required to give us contact and payment information (such as credit card information) so we may process your order. When you pay for an IKEA product using a credit card, we use your credit card information only to fulfil your order and for other internal purposes. If you place an order through our website, one of our customer service representatives will call you after you have placed the order to fulfil the transaction you have requested.
@@ -44,8 +43,8 @@ IKEA services and promotions will change over time. This Privacy Notice will be 
  **Does the IKEA website contain links to other websites?**  
 The IKEA website may contain links to other websites that operate independently of IKEA and are not under our control. We provide links to other websites solely for your convenience and information. Other websites may have their own privacy notices, which we suggest you review if you visit any linked websites. IKEA is not responsible for information that is provided by, or collected through, those websites or for any other use of those websites.
 
- **How can I update my personal information and privacy preferences, or remove myself from your mailing/email lists?**  
-We recognize that having accurate and up-to-date information about you and your preferences is important to our ability to properly serve your interests. You can update your email contact information by [**clicking here,**](http://65.17.227.36/IkeaOptin/Registration.aspx) or by using one of the options provided below.
+ **How can I update my person information and privacy preferences?**  
+We recognize that having accurate and up-to-date information about you and your preferences is important to our ability to properly serve your interests. You can update your email contact information by [clicking here](http://65.17.227.36/IkeaOptin/Registration.aspx), or by using one of the options provided below.
 
  **What if I prefer not to receive communications from IKEA?**  
 If you prefer not to receive product information or promotions from us, please contact us using one of the options provided below.
