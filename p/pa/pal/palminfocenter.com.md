@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palminfocenter.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604152553id_/http%3A//www.palminfocenter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palminfocenter.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204092534id_/http%3A//www.palminfocenter.com/privacy.asp) for the most accurate reproduction.*
 
 # PalmInfocenter.com: Privacy Statement
 
