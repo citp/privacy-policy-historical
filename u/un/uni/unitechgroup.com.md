@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitechgroup.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605200107id_/http%3A//www.unitechgroup.com/default.aspx%3FPagePara%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitechgroup.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208183237id_/http%3A//www.unitechgroup.com/default.aspx%3FPagePara%3D9) for the most accurate reproduction.*
 
 # :: Unitech Limited ::
 
