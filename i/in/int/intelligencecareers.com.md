@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intelligencecareers.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217171949id_/http%3A//www.intelligencecareers.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencecareers.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602195546id_/http%3A//www.intelligencecareers.com/privacy.cfm) for the most accurate reproduction.*
 
-# IntelligenceCareers.com
+# Online Career Center
 
-**Privacy Policy**  |  [Policy prior to 2001.07.24](https://web.archive.org/web/20011217171949id_/http%3A//www.intelligencecareers.com/privacy_2001_0723.cfm)
+**Privacy Policy**  |  [Policy prior to 2001.07.24](https://web.archive.org/web/20020602195546id_/http%3A//www.intelligencecareers.com/privacy_2001_0723.cfm)
 
 **Comments can be sent to[customerservice@intelligencecareers.com](mailto:customerservice@intelligencecareers.com)**
 
