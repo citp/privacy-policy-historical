@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcwhitney.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204202527id_/http%3A//www.jcwhitney.com/Privacy.jhtml%3FBQ%3Djcw2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcwhitney.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624142401id_/http%3A//www.jcwhitney.com/Privacy.jhtml%3FBQ%3Djcw2) for the most accurate reproduction.*
 
 # JC Whitney Privacy and Security
 
@@ -43,4 +43,4 @@ We collect information to monitor traffic patterns and site usage to help us imp
   
 | 
 
-By using this web site, you consent to the collection and use of information by JC Whitney and JC Whitney.com. Changes to our privacy policy will be posted to this page so you will be kept update. If you have any questions or comments regarding this policy, please review our [customer service](https://web.archive.org/CustomerService.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0) page.
+By using this web site, you consent to the collection and use of information by JC Whitney and JC Whitney.com. Changes to our privacy policy will be posted to this page so you will be kept update. If you have any questions or comments regarding this policy, please review our [customer service](https://web.archive.org/CustomerService.jhtml;$sessionid$5JAJCCAAAABQKQSNDV0SFE0CJUOXKIV0) page.
