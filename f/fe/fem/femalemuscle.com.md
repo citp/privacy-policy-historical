@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femalemuscle.com privacy policy that was archived on 2001-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010806060612id_/http%3A//www.femalemuscle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femalemuscle.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408102619id_/http%3A//www.femalemuscle.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -39,4 +39,5 @@ webmaster@femalemuscle.com
 
 #### [contact our staff](https://web.archive.org/contact_us.html)   
 [femalemuscle.com home page](https://web.archive.org/index.html)   
-[NYCG.COM](http://nycg.com/index.htm)
+[NYCG.COM](http://nycg.com/index.htm)   
+[unsubscribe news letter](https://web.archive.org/newsletter.html)
