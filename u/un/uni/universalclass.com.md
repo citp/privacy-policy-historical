@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206155600id_/http%3A//home.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604081419id_/http%3A//home.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - UniversalClass.com
+# Privacy Policy - UniversalClass
 
+|    |   
+---|---  
+  |  |    |  |     
+---  
 **UniversalClass.com Inc. takes your privacy seriously.** Please feel free to review our Privacy Policy: 
 
 Because we want to provide you with the most efficient and enhanced service, we may request information about you. However, we will not offer any information about you to any outside company or individual unless we receive your prior consent. 
@@ -47,4 +51,9 @@ Find the department specializing in your interest in our A-Z List:
 
 **[ A](http://home.universalclass.com/atozlist/A.htm) [B](http://home.universalclass.com/atozlist/B.htm) [C](http://home.universalclass.com/atozlist/C.htm) [D](http://home.universalclass.com/atozlist/D.htm) [E](http://home.universalclass.com/atozlist/E.htm) [F](http://home.universalclass.com/atozlist/F.htm) [G](http://home.universalclass.com/atozlist/G.htm) [H](http://home.universalclass.com/atozlist/H.htm) [I](http://home.universalclass.com/atozlist/I.htm) [J](http://home.universalclass.com/atozlist/J.htm) [K](http://home.universalclass.com/atozlist/K.htm) [L](http://home.universalclass.com/atozlist/L.htm) [M](http://home.universalclass.com/atozlist/M.htm) [N](http://home.universalclass.com/atozlist/N.htm) [O](http://home.universalclass.com/atozlist/O.htm) [P](http://home.universalclass.com/atozlist/P.htm) [Q](http://home.universalclass.com/atozlist/Q.htm) [R](http://home.universalclass.com/atozlist/R.htm) [S](http://home.universalclass.com/atozlist/S.htm) [T](http://home.universalclass.com/atozlist/T.htm) [U](http://home.universalclass.com/atozlist/U.htm) [V](http://home.universalclass.com/atozlist/V.htm) [W](http://home.universalclass.com/atozlist/W.htm) [X](http://home.universalclass.com/atozlist/X.htm) [Y](http://home.universalclass.com/atozlist/Y.htm) [Z](http://home.universalclass.com/atozlist/Z.htm) **
 
-If you don't find the area of your interest, you may suggest a new UniversalClass.com department by filling out our [Department Request Form](https://web.archive.org/myinterests/requestdepartment.htm). If you are not certain where your area of interest may be listed in our A-Z List please feel free to browse our departments through the Schools of UniversalClass.com: 
+If you don't find the area of your interest, you may suggest a new UniversalClass.com department by filling out our [Department Request Form](https://web.archive.org/myinterests/requestdepartment.htm). If you are not certain where your area of interest may be listed in our A-Z List please feel free to browse our departments through the Schools of UniversalClass.com:   
+  
+   
+  
+  
+  |   
