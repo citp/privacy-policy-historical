@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407161847id_/http%3A//www.history.about.com/gi/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2002-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021105231244id_/http%3A//www.history.about.com/gi/pages/privacy.htm) for the most accurate reproduction.*
 
 # History
 
@@ -7,8 +7,10 @@
 ---|---  
 |   
 ---  
-| DAILY FEATURES: | [](https://web.archive.org/quiz) |  |  onClick="return true" onMouseOver="document.images.imageDaily2.src='http://i.abz.com/ch/history/b_dailytoday_r.gif'" onMouseOut="document.images.imageDaily2.src='http://i.abz.com/ch/history/b_dailytoday.gif'"> |  |  onClick="return true" onMouseOver="document.images.imageDaily3.src='http://i.abz.com/ch/history/b_dailypic_r.gif'" onMouseOut="document.images.imageDaily3.src='http://i.abz.com/ch/history/b_dailypic.gif'"> |   
-|  |   
+| DAILY FEATURES: | [](https://web.archive.org/quiz) |  | [](http://history.about.com/cs/tih/a/tih0131.htm) |  | [](http://history.about.com/cs/pod/a/pod0131.htm) |   
+Sponsored by  
+BooksOnLine | Sponsored by  
+NeilCooperUSA |   
 |  |  |   
 ---|---|---  
 |  |  |  About, Inc. will not offer any information about you to any outside company unless we receive your prior consent. 
@@ -155,13 +157,13 @@ Registration Manager About, Inc. 1440 Broadway 19th Floor New York, NY 10018 [re
 
 [Table of Contents]
 
-[User Agreement](https://web.archive.org/web/20020407161847id_/http%3A//www.history.about.com/gi/pages/uagree.htm)
+[User Agreement](https://web.archive.org/web/20021105231244id_/http%3A//www.history.about.com/gi/pages/uagree.htm)
 
 Top of Page
 
   
-|  |  |  Sunday, April  7, 2002   
-[**Discuss It!**](http://forums.about.com/ab-militaryhist/messages?lgnF=y&msg=479.1)
+|  |  |  Wednesday, November  6, 2002   
+[**Discuss It!**](http://forums.about.com/ab-militaryhist/messages?lgnF=y&msg=707.1)
 
 | **Stay up-to-date!**  
 Subscribe to our newsletter.  
