@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216114320id_/http%3A//www.uswitch.com/Popups/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207061411id_/http%3A//www.uswitch.com/Popups/pref_/privacy_policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy on uSwitch.com – switch online with confidence
 
 uSwitch.com is committed to protecting your privacy. We use the information that we collect about you to process your switch and to inform you about other services we provide. 
 
-The site is operated by uSwitch.com (uSwitch Ltd); a company incorporated in England and Wales (registration number 03612689), the registered office of which is Victoria Station House, 191 Victoria Street, London SW1E 5NE. uSwitch.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. This privacy statement sets out uSwitch.com's policy in relation to how it uses any personal information collected from you through your use of this site. 
+The site is operated by uSwitch.com (uSwitch Ltd); a company incorporated in England and Wales (registration number 03612689), the registered office of which is 10th Floor, Portland House, Stag Place, London SW1E 5BH. uSwitch.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. This privacy statement sets out uSwitch.com's policy in relation to how it uses any personal information collected from you through your use of this site. 
 
 What personal information do we collect?
 
 In order to process a switch, we collect your name, address and payment details. We also collect your email address and phone number so that uSwitch.com and your new supplier can contact you about the switch. 
 
-If you request to be kept informed of services that we offer, we collect your name and email address. You can opt-out of receiving information from us whenever you input personal data, or by sending an email to [help@uswitch.com](mailto:help@uswitch.com). 
+If you request to be kept informed of services that we offer, we collect your name and email address. You can opt-out of receiving information from us whenever you input personal data, or by sending an email to [help@uswitch.com](mailto:help@uswitch.com).
 
 How do we use your personal information?
 
@@ -36,9 +36,9 @@ During the course of any visit to uSwitch.com, the pages you see, along with som
 
 Any information that is supplied by cookies can help us to provide you with a better service and assists us to analyse the profile of our visitors. 
 
-RedSheriff, an independent measurement and research company, gathers non-personal data regarding the visitors to our site on our behalf using cookies and code which is embedded in the site. Both the cookies and the embedded code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. uSwitch.com uses this type of information to help it improve the services to its users. 
+Sage Metrics, an independent measurement and research company, gathers non-personal data regarding the visitors to our site on our behalf using cookies and code which is embedded in the site. Both the cookies and the embedded code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. uSwitch.com uses this type of information to help it improve the services to its users. 
 
-To disable the embedded code, you will need to send requests directly to privacy@redsheriff.com. Further information regarding RedSheriff's privacy statement can be found at <http://www.redsheriff.com/uk/content/privacy_1.html>
+To disable the embedded code, you will need to send requests directly to <http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main>. Further information regarding Sage Metric's privacy statement can be found at <http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main>
 
 2\. How to find and control your cookies 
 
