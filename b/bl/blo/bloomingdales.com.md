@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624103537id_/http%3A//www.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204032253id_/http%3A//www.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| 
-
-|   
+|  |   
 ---  
-|  | 
+|   
+  
+| 
 
 At Bloomingdale's, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly. We also have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information and how you may access some of the data you provide to us.
 
@@ -29,7 +29,7 @@ If you have any questions regarding your credit account(s) with Bloomingdale's.[
 4| do we share your information?  
 5| what choices do I have regarding your use of my information?  
 6| is my information secure?  
-7| can I access my information?   
+7| can I access my information?  
 8| what about information about children?  
 9| we want you to trust us  
   
