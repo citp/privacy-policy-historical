@@ -1,33 +1,19 @@
-> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003070325id_/http%3A//www.hostels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604214627id_/http%3A//www.hostels.com/en/privacy) for the most accurate reproduction.*
 
-# Welcome to Hostels.com / The Internet Guide to Hostelling
-
-Welcome to Hostels.com / The Internet Guide to Hostelling |  | 
+# Hostels.com / The Internet Guide to International Hostelling - Youth Hostels Everywhere
 
 Hostels.com Privacy Policy
 
-Hostels.com, LLC, and its advertisers and affiliates are absolutely committed to protecting the privacy of our readers. Below is information outlining our privacy policy and the responsible management of consumer information.
+Hostels.com realise some people are unsure about entering their personal details into web sites over the internet. Below, we explain how we use your information and how we protect your privacy.
 
-**Visiting Hostels.com**
+**INFORMATION REQUIRED TO PROCESS YOUR BOOKING**  
+For us to process a booking for you, we require some information from you. This includes your name, nationality, your gender (or the gender of the group you are in), your phone number and email address. Also, since we confirm your booking while you are on the site, we require your credit or debit card details so we can guarantee your beds when you pay your deposit.
 
-Whenever you visit the Hostels.com, LLC web site, we do not proactively collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Hostels.com, LLC does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). This information collected by Hostels.com, LLC is only aggregate statistical information used for the purpose of improving our readers experience and for targeting ads and measuring ad effectiveness on behalf of our advertisers.
+**WHO SEES YOUR INFORMATION**  
+We are required to send your information to the hostel in which you booked so that they know who you are and when they are to expect you. We give your name, your nationality, your gender (or the gender of the group you are in), your phone number, your email address, your credit card details and of course, the details of your booking. They require this information to accept a confirmed booking from you. All hostels we book beds for have agreed to the Hostels.com terms and conditions and accept this privacy policy.
 
-If you would like additional information about the types of non-personally identifiable information that is collected by Hostels.com, LLC please click [here](https://web.archive.org/web/20021003070325id_/http://www.hostels.com/privacy/privacy2.html).
+**SECURITY**  
+All information we collect from you is gathered when you are on our secure server. The secure server, which is signed by Verisign, means that information is transferred securely between your computer and the Hostels.com server and that no third parties can intercept and read and use the data. The padlock symbol on your browser indicates you are on a secure server. We send information to the server in the same way, again ensuring that no third parties can intercept and see your information.
 
-**Hostels.com Mailing List**
-
-If you choose, you may voluntarily provide us with your email address. If you do, Hostels.com, LLC will send you our monthly email newsletter. This newsletter will let you know about new articles and features on our web site that month. Once you subscribe to this newsletter you can unsubscribe at any time by following the instructions at the bottom of the newsletter.
-
-We will never share your email address with any third parties. Never. We won't share it, sell it, rent it, or leave it laying around where someone can see it. We hate SPAM as much as you do and we will always do our part to prevent your email address from getting into other peoples hands.
-
-**Hostels.com Survey**
-
-Occasionally, we may ask you to voluntarily participate in a survey. These surveys help us find out more about our readers and improve our web site. Again, no information collected in our surveys will personally identify you. It is only used for aggregate statistical purposes. We may share the information you provide in these voluntary surveys to our advertisers so that the advertising you see on Hostels.com is better suited for our readers.
-
-**Cookies**
-
-At this time, Hostels.com, LLC does not use "cookies". If Hostels.com, LLC later decides to use cookies, they will not and can not be used to personally identify you in any way.
-
-**Virtual Bulletin Board**
-
-In order to post to the Virtual Bulletin Board we ask that our readers submit a verifible email address. We have found that this procedure greatly reduces the amount of SPAM and stupid messages on the board. If you register and post messages to the Virtual Bulletin Board your email address will be publicly available to anyone reading the Hostels.com site. If you are concerned about this, we suggest that you either get an anonymous email address (i.e. from anonymous email sites like hotmail.com or yahoo.com) or you do not use this feature of the Hostels.com, LLC web site. This is the only place that your email address might be revealed, but only if you use this feature.
+**HOW WE USE YOUR INFORMATION**  
+We only use your email address for sending you a confirmation of your bookings or to contact you for any reason directly linked to your reservation, or occasionally to inform you of new features on Hostels.com. We only use your phone number to contact you urgently if there is a problem with your booking. We never give or sell your personal details to any third parties, other than to the hostel in which you booked, or if we are legally required to do so. On occasions, we may supply statistics about our customers to third-parties such as hostels or other agents. These statistics never contain personally identifying information. 
