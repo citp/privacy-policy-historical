@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signaturevacations.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204212509id_/http%3A//www.signaturevacations.com/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signaturevacations.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404090905id_/http%3A//www.signaturevacations.com/about_privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - SIGNATURE Vacations
 
@@ -111,7 +111,7 @@ M4W 1B9
 
 SIGNATURE VACATIONS believes communication is beneficial to both our customers and ourselves, whether it is to answer a question, solve a problem or share a success story.
 
-We welcome positive comments from customers, however it is equally important for us to know when a you have a problem so we can resolve it and retain your confidence. At the same time, we use your feedback to continuously improve the quality of the products and services we offer. 
+We welcome positive comments from customers, however it is equally important for us to know when you have a problem so we can resolve it and retain your confidence. At the same time, we use your feedback to continuously improve the quality of the products and services we offer. 
 
 There are a variety of ways for you to provide positive feedback or express your concerns about your experiences with SIGNATURE VACATIONS. We encourage customers to provide their feedback online at <http://www.signaturevacations.com/CRfeedback.html>   
 
