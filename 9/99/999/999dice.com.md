@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 999dice.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008053803id_/http%3A//www.999index.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 999dice.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626023019id_/http%3A//www.999network.com/privacy) for the most accurate reproduction.*
 
-# 999 Index : Privacy policy
+# 999 Network : Privacy policy
 
 **1\. General**
 
