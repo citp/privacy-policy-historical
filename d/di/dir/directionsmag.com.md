@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613152155id_/http%3A//www.directionsmag.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206011900id_/http%3A//www.directionsmag.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Directions Magazine - Your Mapping & Demographics News Source
 
