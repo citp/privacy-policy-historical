@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aw-bc.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004173200id_/http%3A//www.pearsoned.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aw-bc.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607233230id_/http%3A//www.pearsoned.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Pearson Education: Privacy Policy
 
