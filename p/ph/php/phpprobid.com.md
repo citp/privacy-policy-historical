@@ -1,48 +1,33 @@
-> *The following text is extracted and transformed from the phpprobid.com privacy policy that was archived on 2004-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040502065907id_/http%3A//phpprobid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpprobid.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204013047id_/http%3A//www.phpprobid.com/privacy.php) for the most accurate reproduction.*
 
 # PHP Pro Bid - Professional Auction Software
 
+|  |  **Privacy Policy**  
+---|---  
   
-This is a privacy policy for **http://www.phpprobid.com**
+We believe your business is no one else's. Your privacy is important to you…and to us. So we'll protect the information you share with us. To protect your privacy, PHP Pro Bid follows different principles in accordance with world-wide practices for customer privacy and data protection.
 
-Contact Information
+q    We won't sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone. 
 
-* * *
+q    We'll use the latest security measures to protect your information from unauthorized users. 
 
-**Dispute Resolution**
+**NOTICE**
 
-Disputes will be handled by our customer service representative.  
-Our customer service will promptly correct any errors.
+  
+We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you purchase our software packages. We use your Personal Information for four primary purposes:
 
-* * *
+q    To process and activate your order 
 
-**Data Collection**
+q    To identify you
 
-When visiting Web sites certain information about you and your computer can sometimes be collected. This section explains what information PHP Pro Bid collect, and how it is used
+q    To help us support you and/or your Business. 
 
-We collect the following information about our customers:
+q    To alert you to product upgrades, special offers, updated information and other new services from PHP Pro Bid. 
 
-  * Chosen account username 
-  * Chosen account password 
-  * Customer name 
-  * Customer address 
-  * Customer telephone number 
-  * Customer E-Mail address 
+**ACCESS**  
+  
 
 
+We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the client area. There, you can:
 
-We collect this information for the following reasons
-
-  * To offer the best level of support possible 
-  * Web Site and System Administration 
-
-Your information will be stored in our secure customer management section which is only accessible by PHP Pro Bidemployees. Only your name and E-Mail address are stored for support and account reasons. No credit card details are stored for security purposes. 
-
-
-
-
-* * *
-
-**Cookies**
-
-We do not use cookies on our Web site.
+q    View and edit personal information you have already given us. 
