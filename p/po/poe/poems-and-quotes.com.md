@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poems-and-quotes.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poems-and-quotes.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -8,33 +8,34 @@
 
   * [love, romance](http://www.best-love-poems.com/)
   * [friendship, family](http://www.friendship-poems.com/)
-  * [fun, humor](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/funny/)
-  * [sadness, depression](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/sad/)
-  * [life, society](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/life/)
-  * [special events](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/special/)
-  * [explicit, profanity](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/explicit.html)
-  * [internet slang](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/slang/)
+  * [fun, humor](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/funny/)
+  * [sadness, depression](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/sad/)
+  * [dark, fantasy](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/dark/)
+  * [life, society](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/life/)
+  * [nature, environment](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/nature/)
+  * [special events](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/special/)
+  * [internet slang](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/slang/)
+  * [explicit, profanity](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/explicit.html)
+  * [miscellaneous](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/misc/)
 
 
 
 ### : community
 
-  * [members](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/authors.html)
-  * [contest winners](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/contests.html)
-  * [discussion board](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/discussion/)
-  * [chat room](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/chat/)
+  * [members](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/authors.html)
+  * [contest winners](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/contests.html)
+  * [discussion board](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/discussion/)
+  * [chat room](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/chat/)
 
 
 
-### : resources
+### : other websites
 
-  * [elite skills](http://www.eliteskills.com/)
-  * [lit.org](http://www.lit.org/)
-  * [other resources](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/poetry_sites.html)
+  * [poetry resources](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/poetry_sites.html)
 
 | 
 
-This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20040411163612id_/http%3A//poems-and-quotes.com/contact.html).
+This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20041229132222id_/http%3A//www.poems-and-quotes.com/contact.html).
 
 ## Information Collection and Use
 
