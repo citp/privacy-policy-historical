@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205102547id_/http%3A//www.arthritis.org/resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602110739id_/http%3A//www.arthritis.org/resources/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Practices
 
@@ -11,14 +11,19 @@
 [Connect & Control](https://web.archive.org/communities/connect_control/default.asp)  
 [Surgery Center](https://web.archive.org/conditions/SurgeryCenter/default.asp)  
 [Alternative Therapies](https://web.archive.org/conditions/alttherapies/default.asp)  
-[Questions and Answers](https://web.archive.org/resources/faq.asp)  
-[Tips for Living with Arthritis](https://web.archive.org/conditions/self_care.asp)  
+[Guide to Sports Injury Prevention](https://web.archive.org/resources/SIP/intro.asp)  
+[Marriage and Family](https://web.archive.org/resources/Relationships/marriage_and_family.asp)  
 [Easy to Use Products](https://web.archive.org/resources/easy_to_use_products.asp)  
+[Relationships and Dating](https://web.archive.org/resources/Relationships/relationships_and_dating.asp)  
+[Tips for Living with Arthritis](https://web.archive.org/conditions/self_care.asp)  
+[Home Life](https://web.archive.org/resources/Home_Life/default.asp)  
+[Travel and Arthritis](https://web.archive.org/resources/travel/arthritis_travel.asp)  
+[Financial Planning](https://web.archive.org/resources/Financial_Planning/Introduction/financial_intro.asp)  
 [National Arthritis Action Plan](https://web.archive.org/resources/about_naap.asp)  
 [American Juvenile Arthritis Organization](https://web.archive.org/communities/about_ajao.asp)  
 [Local Offices](https://web.archive.org/communities/Chapters/ChapDirectory.asp)  
-[Additional Resources](https://web.archive.org/resources/helpfullinks.asp)  
 [Our Sponsors](https://web.archive.org/resources/sponsors/default.asp)  
+[Questions and Answers](https://web.archive.org/resources/faq.asp)  
    
 [](https://web.archive.org/AFstore/Ecom_Basket.asp?transition=1)  
 | 
@@ -50,7 +55,7 @@ If you provide your postal address, telephone number or e-mail address to the Ar
 
 From time to time, the Arthritis Foundation makes postal addresses available to other reputable organizations whose products, services or activities may be of interest to you. The Foundation carefully screens all organizations before allowing the use of our list. The list is never sold.
 
-If you do not want us to share your postal address with other companies or organizations, please see the [Privacy Preference Form](https://web.archive.org/web/20011205102547id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp).
+If you do not want us to share your postal address with other companies or organizations, please see the [Privacy Preference Form](https://web.archive.org/web/20020602110739id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp).
 
 When you access this site, you acknowledge that you have read and agree with our [Terms of Service](https://web.archive.org/resources/termsofservice.asp).
 
