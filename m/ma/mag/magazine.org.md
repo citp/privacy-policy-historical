@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619094834id_/http%3A//www.magazine.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208014421id_/http%3A//www.magazine.org/privacy_policy) for the most accurate reproduction.*
 
 # MPA Privacy Policy
 
