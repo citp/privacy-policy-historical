@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the murata.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204202446id_/http%3A//murata.com/murata/murata.nsf/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murata.com privacy policy that was archived on 2002-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020208122322id_/http%3A//murata.com/murata/murata.nsf/pages/policy) for the most accurate reproduction.*
 
 # Murata Electronics North America - Privacy Statement and Copyright
 
