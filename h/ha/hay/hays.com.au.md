@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609213521id_/http%3A//hays.com.au/about/websiteprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206174849id_/http%3A//www.hays.com.au/about/websiteprivacy.asp) for the most accurate reproduction.*
 
 # Hays Personnel Services - hays.com.au
 
