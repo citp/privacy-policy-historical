@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the on2.com privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406041921id_/http%3A//www.on2.com/priv_pol.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on2.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204010412id_/http%3A//www.on2.com/priv_pol.php3) for the most accurate reproduction.*
 
 # On2 Technologies
 
