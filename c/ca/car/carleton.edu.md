@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the carleton.edu privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207134503id_/http%3A//www.carleton.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carleton.edu privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605235220id_/http%3A//www.carleton.edu/privacy.html) for the most accurate reproduction.*
 
 # Carleton College: Privacy Policy
 
 **Use of Information**  
-We analyze information collected by WebTrends Live to improve the content and functionality of our web site—to better serve our users. Carleton does not seek personally identifiable information (e.g. name, email address) nor does it provide or sell any personally identifiable information to outside agencies.
+We analyze information collected by WebTrends Live to improve the content and functionality of our web site�to better serve our users. Carleton does not seek personally identifiable information (e.g. name, email address) nor does it provide or sell any personally identifiable information to outside agencies.
 
 When you visit the Carleton web site, the following information maybe gathered: 
 
