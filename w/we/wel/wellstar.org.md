@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wellstar.org privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410112516id_/http%3A//www.wellstar.org/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellstar.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202164354id_/http%3A//www.wellstar.org/legal/privacy_policy.asp) for the most accurate reproduction.*
 
-# WellStar Health System
+# Wellstar Health System
 
-  |    
-
-
+|    
+---  
+  
 INTERNET PRIVACY POLICY
 
 Your privacy is extremely important to WellStar and we understand that health is a very personal and private subject. WellStar's goal is to be your source of health information and health-related e-commerce on the Internet - a source that you trust and come to depend upon. WellStar wants you to feel comfortable whenever you visit this Site, use its contents or services, or order products.
@@ -34,7 +34,7 @@ ANY INFORMATION (INCLUDING BUT NOT LIMITED TO, PERSONAL AND MEDICAL INFORMATION)
 
 If you have any questions or suggestions with respect to this Policy, or if you wish to contact WellStar to delete, modify, or show you the personal information we have stored about you, you may send e-mail or a letter delivered by first class U.S. Mail, postage prepaid to the following addresses:
 
-E-mail:[privacy@wellstar.org](mailto:privacy@wellstar.org)
+E-mail:[privacyofficer@wellstar.org](mailto:privacyofficer@wellstar.org)
 
 U.S. mail: 
 
@@ -44,6 +44,3 @@ Marietta, Georgia 30066
 Attn: Director of Information Compliance Management
 
 Last Revised March 14, 2001
-
-  
-Copyright © WellStar Health System, Inc., 2001. All Rights Reserved. 
