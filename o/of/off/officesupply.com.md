@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officesupply.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208035425id_/http%3A//www.officesupply.com/about.cfm%3FAboutID%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officesupply.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408233054id_/http%3A//www.officesupply.com/about.cfm%3FAboutID%3D3) for the most accurate reproduction.*
 
 # OfficeSupply.com - Your Online Office Supply Store!
 
