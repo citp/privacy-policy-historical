@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the m-w.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m-w.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Merriam-Webster Privacy Policy
 
-[](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/home.htm) | [](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/home.htm) | [**Home**](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/home.htm)  
+[](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/home.htm) | [](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/home.htm) | [**Home**](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/home.htm)  
 ---|---  
-[](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/mwqa.htm) | [FAQ](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/mwqa.htm)  
-[](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/noah.htm) | [Noah Webster and America's First Dictionary](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/noah.htm)  
-[ ](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/bios.htm) | [Biographies in Brief](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/bios.htm)  
-[ ](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/ack.htm) | [The Merriam-   
-Webster Web Team](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/ack.htm)  
-[](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/firstdic.htm) | [Merriam-   
-Webster Continues Noah's Legacy](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/firstdic.htm)  
-[](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/commit.htm) | [An Ongoing Commitment](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/commit.htm)  
-[](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/webster.htm) | [Why Merriam-   
-Webster is More Than Just Webster](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/webster.htm)  
-[](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/look.htm) | [A Brief Look at the History of English](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/look.htm)  
-[](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/copyrite.htm) | [Copyright Information](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/copyrite.htm)  
-[](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/aboutmw.htm) | [**From Inkwell to Internet**](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/aboutmw.htm)  
-[](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/map.htm) | [**Site Map**](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/map.htm)  
+[](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/mwqa.htm) | [FAQ](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/mwqa.htm)  
+[](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/noah.htm) | [Noah Webster and America's First Dictionary](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/noah.htm)  
+[ ](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/bios.htm) | [Biographies in Brief](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/bios.htm)  
+[ ](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/ack.htm) | [The Merriam-   
+Webster Web Team](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/ack.htm)  
+[](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/firstdic.htm) | [Merriam-   
+Webster Continues Noah's Legacy](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/firstdic.htm)  
+[](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/commit.htm) | [An Ongoing Commitment](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/commit.htm)  
+[](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/webster.htm) | [Why Merriam-   
+Webster is More Than Just Webster](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/webster.htm)  
+[](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/look.htm) | [A Brief Look at the History of English](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/look.htm)  
+[](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/copyrite.htm) | [Copyright Information](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/copyrite.htm)  
+[](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/aboutmw.htm) | [**From Inkwell to Internet**](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/aboutmw.htm)  
+[](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/map.htm) | [**Site Map**](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/map.htm)  
 |              
 
  **Merriam-Webster Privacy Policy**
@@ -27,11 +27,11 @@ Merriam-Webster is committed to respecting the privacy of visitors to its Web si
 **Privacy and Personal Information**   
 
 
-Merriam-Webster protects the identity of visitors to Merriam-Webster OnLine by limiting the collection of personal information. For certain promotions, we may request a voluntary submission of information such as name, e-mail address, city, state, and age. All personally identifiable information collected on Merriam-Webster OnLine is used only by Merriam-Webster staff to track site usage patterns and statistics, for market research, or for prize or information-request fulfillment. Such information will not be posted or published by us, nor will it be provided to third parties without prior written consent. 
+Merriam-Webster protects the identity of visitors to Merriam-Webster OnLine by limiting the collection of personal information. For certain promotions, we may request a voluntary submission of information such as name, e-mail address, city, state, and age. All personally identifiable information collected on Merriam-Webster OnLine is used only by Merriam-Webster staff to track site usage patterns and statistics, for market research, or for prize or information-request fulfillment unless otherwise indicated. Such information will not be posted or published by us, nor will it be provided to third parties without consent. 
 
 Anonymous aggregated data may be provided to other companies we do business with for statistical or market research purposes. For example, we may report to advertisers that a certain percentage of our site's users are adults between the ages of 25 and 35.
 
-This site, Merriam-Webster OnLine, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
+This site, Merriam-Webster OnLine, may use the services of an advertising agency for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the agency may collect anonymous data through the use of cookies or by other means. 
 
 **Cookies**
 
@@ -50,13 +50,12 @@ If you have any questions or concerns, please e-mail us at [suggest@m-w.com](mai
 
 * * *
 
-[**Home**](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/home.htm) / [FAQ](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/mwqa.htm) / [Noah Webster and America's First Dictionary](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/noah.htm) /   
-[ The Merriam-Webster Web Team](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/ack.htm) /   
-[ Biographies in Brief](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/bios.htm) /   
-[Merriam-Webster Continues Noah's Legacy](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/firstdic.htm) /   
-[An Ongoing Commitment](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/commit.htm) /   
-[Why Merriam-Webster is More Than Just Webster](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/webster.htm) /   
-[A Brief Look at the History of English](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/look.htm) / [Copyright Information](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/copyrite.htm) / [**From Inkwell to Internet**](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/aboutmw.htm) /   
-[**Site Map**](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/map.htm)
+[**Home**](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/home.htm) / [FAQ](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/mwqa.htm) / [Noah Webster and America's First Dictionary](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/noah.htm) /   
+[ The Merriam-Webster Web Team](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/ack.htm) / [ Biographies in Brief](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/bios.htm) /   
+[Merriam-Webster Continues Noah's Legacy](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/firstdic.htm) /   
+[An Ongoing Commitment](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/commit.htm) /   
+[Why Merriam-Webster is More Than Just Webster](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/webster.htm) /   
+[A Brief Look at the History of English](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/look.htm) / [Copyright Information](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/copyrite.htm) /   
+[**From Inkwell to Internet**](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/aboutmw.htm) / [**Site Map**](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/map.htm)
 
-[© 2000 by Merriam-Webster, Incorporated](https://web.archive.org/web/20010331184857id_/http%3A//m-w.com/about/copyrite.htm)
+[© 2001 by Merriam-Webster, Incorporated](https://web.archive.org/web/20011217213910id_/http%3A//www.m-w.com/about/copyrite.htm)
