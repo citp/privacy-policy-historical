@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605164856id_/http%3A//seattlechildrens.org/home/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204055126id_/http%3A//www.seattlechildrens.org/home/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Children's Hospital & Regional Medical Center
 
@@ -16,7 +16,7 @@ This site contains links to other sites. Children's is not responsible for the p
 
 Children's is committed to keeping your child or teen's health information private and confidential. Our Notice of Privacy Practices tells how we use your child's health information and lists reasons why we would need to give this information to others.
 
-View or print our **Notice of Privacy Practices** (PDF [English](https://web.archive.org/home/pdf/privacy_policy.pdf) | [Spanish](https://web.archive.org/home/pdf/privacy_policy_spanish.pdf)), or pick up a copy of the brochure at the [Family Resource Center](https://web.archive.org/our_services/support_services/family_resource_center.asp).
+View or print our **Notice of Privacy Practices** (PDF [English](https://web.archive.org/home/pdf/privacy_policy.pdf) | [Russian](https://web.archive.org/home/pdf/privacy_policy_russian.pdf) | [Spanish](https://web.archive.org/home/pdf/privacy_policy_spanish.pdf) | [Vietnamese](https://web.archive.org/home/pdf/privacy_policy_viet.pdf)), or pick up a copy of the brochure at the [Family Resource Center](https://web.archive.org/our_services/support_services/family_resource_center.asp).
 
 ## Traffic Data Collected
 
