@@ -1,33 +1,32 @@
-> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212092253id_/http%3A//www.divx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604191552id_/http%3A//www2.divx.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Page
 
-Any personally identifiable information you share with DivX.com is maintained and accessible only by DivX.com staff unless specifically stated otherwise. We request your information to give you customized experiences on this site.
+Just Between Us
 
-DivX.com saves referral URL information, that is, how you got to DivX.com. We use this information to define our site advertising and service offerings. We use your IP address to help diagnose problems with our server, and to administer our site.
+Your privacy is very important to us here at DivX.com (which is owned and operated by DivXNetworks, Inc). We don't collect a lot of personally identifiable data about you, and what we do collect is used only for our internal purposes. We will not share any of your personal information with third parties unless we explicitly ask your permission to share it at the time you give us the information. All of your information is kept strictly confidential.
 
-DivX.com uses aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors, to measure user demographics and interests regarding specific areas of DivX.com and to analyze how and where best to use our resources.
+Please read the following summary of how we use your information. We may change this policy from time to time without advance notification, so please check back from time to time.
 
-Our site's registration form asks for your contact information (name, email address), demographic information (zip code, age, gender), and preference information (your favorite movie genres). If you have signed up to receive the DivX.com newsletter, we will use your contact information to deliver it. You may opt-out of receiving future newsletters (see question 4). Contact information may also be used to contact you when necessary, for example, if you have won a contest, or have opted in to receive new software email updates. Demographic and preference data will be used to tailor your experience at the DivX.com site.
+Our Web Site
 
-DivX.com may also collect aggregate search terms from its search service for the purpose of internal reporting, targeted advertising, product monitoring and product improvement.
+We only collect information from you on our web site if you sign up for a DivX Forums account or if you sign up for the DivX News newsletter. Your DivX Forum account information is not used for any purpose except to allow you to use the Forums itself. If you sign up for our newsletter, we will use your email address to send you periodic mailings. When you sign up for the newsletter, you also have the option to opt-in for special offers from our partners. If you do, your email will also be used to send you those offers as they are made available. You may [opt-out](http://www.divx.com/list/unsubscribe.php) of receiving future newsletter mailings at any time.
 
-DivX.com does not share your personal information with any third parties, unless specifically stated otherwise. DivX.com reserves the right to share aggregated information with third parties such as advertisers, in which case your personally identifiable information will not be disclosed. Note that DivX.com may be required by law enforcement or judicial authorities to provide information on individual users to the appropriate governmental authorities. In matters involving danger to personal or public safety, we may voluntarily provide information to appropriate governmental authorities.
+Our web servers also record standard HTTP information like your IP address and your referrer. This information is not personally identified to you, and is only used to optimize our web site performance and plan our future web site features.
 
-A cookie is a small text file containing a unique identification number that is transferred from DivX.com to the hard drive of your computer. We use cookies to save an identifier for your password, so you don't have to re-enter your password each time you visit our site. Cookies do not reveal any personally identifiable information.
+Occasionally, we sign agreements with third parties to promote their products on DivX.com. In some of these cases, we track referrals from DivX.com that subsequently result in product purchases. When one of these campaigns is active, you may be assigned a unique tracking number that allows us to count the number of referrals that result in purchases. This tracking number, while unique across all DivX.com visitors, cannot be personally identified with you and is not linked to your DivX Forum account in any way.
 
-An industry standard, cookies are used by most major websites. By default, most web browsers accept cookies, but you may reset your browser to notify you every time you receive a cookie. DivX.com does not require that you use cookies.
+We don't presently use a third party ad server on DivX.com, but if and when we do, in the course of serving advertisements to this site, the ad server may place or recognize a unique cookie on your browser.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+Our Products
 
-All personal information that is collected by DivX.com is maintained and accessible only by DivXNetworks, Inc.
+Our products (i.e., DivX™ codec, DivX Pro™ codec, DivX Player™ application) do not collect any personally identifiable information save for your email address, should you choose to sign up for the DivX News newsletter while registering a product.
 
-DivXNetworks, Inc. has relationships with many service and content companies. To expand our service and content offerings on DivX.com, we may occasionally offer co-sponsored/co-branded promotions. Some promotions require that you register with another company, and others require that we share your information with them. In the latter case, you will be notified at the point of collection if your information is to be shared. If you prefer that we not share your information with third parties, you may choose to not participate in the promotion.
+When you purchase the DivX Pro software, we collect your personal information and your credit card information to complete the purchase. We store your personal information, but do not store your credit card. The personal information you give us during the purchase transaction is used only for our records.
 
-DivX.com assumes no responsibility for the privacy practices of co-sponsor companies, so be sure to read their privacy statement and use your discretion when disclosing any personally identifiable information.
+The ad-supported version of the DivX Pro codec is bundled with GAIN software. The GAIN software may collect information about you in the course of its activities. Be sure to read the GAIN privacy policy for more details. You are free to uninstall the ad-supported version of the DivX Pro codec at any time, which will also uninstall GAIN.
 
-You may access and update your user profile by visiting the [Edit Profile page](http://www.divx.com/forums/prefs.php). You will be asked to login with your DivX.com username and password. If you have opted in to receive our email newsletter and decide you no longer want to receive it, please follow the instructions included with each newsletter.
+Thanks for visiting. We at DivX.com value our own privacy, so we work hard to protect yours as well. If you ever have any questions, please feel free to write us at [privacy@divx.com](mailto:privacy@divx.com).
 
-While we cannot guarantee that loss, misuse or alteration to your information will not occur, we take many precautions and have implemented strict rules to prevent such unfortunate occurrences. Only authorized employees under stringent control may access databases holding user data or the servers hosting our services. Particularly sensitive information, such as credit card numbers collected for a commerce transaction, is encrypted prior to transmission.
-
-You are ultimately responsible for the security of your DivX.com username and password. We recommend that you not divulge your password to anyone, and that you log out of your browser at the end of each computer so others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place.
+Sincerely,  
+The DivX Team
