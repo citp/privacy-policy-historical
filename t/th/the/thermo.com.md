@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205004426id_/http%3A//www.thermo.com/com/cda/legal/legal_info/0%2C2185%2CP%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307194749id_/http%3A//www.thermo.com/com/cda/legal/legal_info/0%2C2185%2CP%2C00.html) for the most accurate reproduction.*
 
 # Thermo Electron Corporation -
 
@@ -22,5 +22,4 @@ Thermo Electron will not use or share the personally identifiable information pr
 
 Thermo Electron is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. For example, we use encryption when collecting or transferring sensitive data such as credit card information.
 
-If you have comments or questions about our privacy policy, please visit the [contact us](https://web.archive.org/com/cda/contactus/home) page and select "contact your service rep" and then select "other" from the list of subject areas. An e-mail will be dispatched to a member of the Thermo eBusiness team, and someone will respond to you shortly.   
-
+If you have comments or questions about our privacy policy, please [contact us](https://web.archive.org/com/cda/contactus/home/1,,C,00.html). An e-mail will be dispatched to the appropriate Thermo representative, and someone will respond to you shortly. 
