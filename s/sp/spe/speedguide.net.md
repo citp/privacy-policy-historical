@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202165400id_/http%3A//www.speedguide.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602160343id_/http%3A//www.speedguide.net/privacy.shtml) for the most accurate reproduction.*
 
 # SpeedGuide.net - Copyright Information, Privacy Policy, Terms of Use
 
@@ -17,7 +17,13 @@ Currently, SpeedGuide.net only offers cookies to users registered to in the Disc
 
 Third Parties
 
-SpeedGuide.net works with third parties that serve ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
+SpeedGuide.net works with third parties that serve ads to this site. Often, advertisers will employ a third-party measurement service other than SpeedGuide.net for tracking the performance of an ad program. In these instances, we have no control over the information collected by the third-party, and may not be held responsible for the actions of the third-party measurement service where collected information is concerned. If you have questions regarding different third-party measurement services and their respective methods of information collection, please contact [webmaster@speedguide.net](mailto:webmaster@speedguide.net). For your convenience, following are links and disclaimers of such third parties:
+
+This site, SpeedGuide.net, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+
+Notification of Changes
+
+If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
 
 Contacting the Website  
 If you wish to learn more about our efforts to protect your privacy, please feel free to send questions and comments to: [webmaster@speedguide.net](mailto:webmaster@speedguide.net)
