@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the converse.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622044710id_/http%3A//www.converse.com/zprivacy.asp%3Fzcatid%3D%26zsubcatid%3D%26zgenid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the converse.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206084502id_/http%3A//converse.com/zprivacy.asp) for the most accurate reproduction.*
 
 # Converse - Privacy Policy
 
