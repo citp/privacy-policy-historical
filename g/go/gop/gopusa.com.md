@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the gopusa.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207002045id_/http%3A//www.gopusa.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopusa.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403112504id_/http%3A//www.gopusa.com/legal/privacy.shtml) for the most accurate reproduction.*
 
 # GOPUSA - Privacy Notice
 
-[Printer-Friendly Version](https://web.archive.org/web/20041207002045id_/http%3A//www.gopusa.com/legal/privacyp.shtml)
+| 
+
+[Printer-Friendly Version](https://web.archive.org/web/20050403112504id_/http%3A//www.gopusa.com/legal/privacyp.shtml)
 
 **GOPUSA PRIVACY NOTICE**
 
@@ -51,3 +53,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 **7\. Notice.**
 
 IF YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS, YOU MAY NOT USE THE GOPUSA SITES. GOPUSA reserves the right to make changes to the GOPUSA Sites and this Agreement at any time without prior notice. This Agreement may not otherwise be amended except in a writing signed by GOPUSA.
+
+|  |  |  |  |  |  |  |  |   
+---  
+[](https://web.archive.org/company/contact.shtml)
