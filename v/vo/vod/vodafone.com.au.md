@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605082143id_/http%3A//vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dbusiness%26hd%3Dbusabout_vodafone%26st%3Dbuslegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011010452id_/http%3A//www.vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dforyou%26hd%3Dabout_vodafone%26st%3Dlegal) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,12 +55,14 @@ If you have any queries or concerns, please contact Customer Care by phoning con
 |  |   
 ---  
 |   
-|  [ Web Site Terms & Conditions](https://web.archive.org/rep/about/legal/t_and_c.jsp?gs=business&hd=busabout_vodafone&st=buslegal)  
-| [Business Solutions](https://web.archive.org/business/bussol/bussol.jsp?gs=business)  
+|  [ Web Site Terms & Conditions](https://web.archive.org/rep/about/legal/t_and_c.jsp?gs=foryou&hd=about_vodafone&st=legal)  
 | Ask Us a Question  
 | View My Bill  
 | Pay My Bill  
 | PXT World™  
+| [Store Locator](https://web.archive.org/foryou/mobiles/store_locator.jsp?gs=foryou&hd=mobiles&st=store_locator)  
 | Mobile & PDA Set-up  
-| [DataCHOICE™](https://web.archive.org/business/bussol/datachoice/datachoice.jsp?gs=business&hd=bussol&ss=datachoice)  
-| [Mobile Phone Glossary](https://web.archive.org/rep/about/reference.jsp?gs=business&hd=busabout_vodafone&st=busmobileGlossary)
+| [WEB2TXT](https://web.archive.org/foryou/services/txt_services/web2txt.jsp?gs=foryou&hd=services&st=txt_services&ss=web2txt)  
+| [Mobile Phone Glossary](https://web.archive.org/rep/about/reference.jsp?gs=foryou&hd=about_vodafone&st=mobileGlossary)  
+  
+[](https://web.archive.org/rep/redSim.jsp?gs=foryou&hd=mobiles&st=promo280803)
