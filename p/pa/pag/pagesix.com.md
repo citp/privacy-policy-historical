@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagesix.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202023051id_/http%3A//www.pagesix.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagesix.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207094522id_/http%3A//www.pagesix.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # PageSix.com: PageSix
 
@@ -32,7 +32,7 @@ The Post's web site(s) may be linked to Internet sites operated by other compani
 
 The Post's web site(s) may also be linked to sites operated by companies affiliated with the Post. Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy. 
 
-Some of the advertisements that appear on the Post site are delivered to you by advertising companies such as DoubleClick and 24/7 Media. The site also uses the services of Engage to deliver ads, promotions and other marketing messages. These companies utilize certain technologies to deliver advertisements and marketing messages. Privacy issues surrounding their respective technologies are discussed in their own privacy policies, which can be viewed at   
+Some of the advertisements that appear on the Post site are delivered to you by advertising companies such as DoubleClick and 24/7 Real Media. The site also uses the services of Engage to deliver ads, promotions and other marketing messages. These companies utilize certain technologies to deliver advertisements and marketing messages. Privacy issues surrounding their respective technologies are discussed in their own privacy policies, which can be viewed at   
 <http://www.doubleclick.net/privacy_policy>  
 <http://www.avenuea.com/info/optout.asp>  
 <http://www.247media.com/privacy.html>  
@@ -61,7 +61,7 @@ The Post uses reasonable administrative, technical, personnel and physical measu
 
 **_ACCESS_ :** HOW TO ACCESS, CORRECT OR DELETE YOUR PII 
 
-To review, modify or delete your PII that the Post has collected, via its website(s), contact the Privacy Officer indicated below (REMEDIES AND COMPLIANCE). To review, modify or delete your PII that the Post has collected off line, contact our Customer Service Department at 800-552-7678. 
+To review or modify your preferences or to delete the PII that the Post has collected from you, either online via its website(s) or off-line via contests and sweepstakes that appeared in the newspaper, [click here](http://www.nypost.com/useradmin/useradmin.htm). To review or modify this PII, contact the Privacy Officer indicated below (REMEDIES AND COMPLIANCE). To review, modify or delete the PII the Post has collected off-line (from reputable third parties, newspaper subscription data, etc.), contact our Customer Service Department at 800-552-7678. Note that it may take up to 30 days for the Post to modify or delete your PII in all its databases. 
 
 **_REMEDIES AND COMPLIANCE_ :** HOW TO CONTACT THE POST ABOUT PRIVACY CONCERNS 
 
