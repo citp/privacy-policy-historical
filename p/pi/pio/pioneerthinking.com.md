@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203055540id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212210id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
 
 # Pioneer Thinking - Start Page - Welcome Home
 
-Dear Friend, 
+Dear Friend,
 
-While visiting Pioneer Thinking, there may be times that information about you might be collected by our system. This is common on all websites you visit on the internet. Below you will find important information about what we collect on our system and what we do with it. 
+While visiting Pioneer Thinking, there may be times that information about you might be collected by our system. This is common on all websites you visit on the internet. Below you will find important information about what we collect on our system and what we do with it.
 
 **General**
 
-While **visiting our website** , your I.P address is logged by our server. Your I.P address is a unique number assigned to your computer. With your I.P address we can determine, your geographical location, how long you visited the site and what pages you viewed. We can also determine where you came from to enter our site. It does not identify you personally or reveal personal information about you. With this information we determine average visitor stay, geographical statistics, what site/search engine our visitors are coming from and what pages are most and least popular on our site... Our server logs are _secure_ and are not shared with anyone else. 
+While **visiting our website** , your I.P address is logged by our server. Your I.P address is a unique number assigned to your computer. With your I.P address we can determine, your geographical location, how long you visited the site and what pages you viewed. We can also determine where you came from to enter our site. It does not identify you personally or reveal personal information about you. With this information we determine average visitor stay, geographical statistics, what site/search engine our visitors are coming from and what pages are most and least popular on our site... Our server logs are _secure_ and are not shared with anyone else.
 
 **External Links**
 
@@ -16,7 +16,7 @@ While surfing our site, you may on occassion visit **third party sites** via tex
 
 **Discussion Boards**
 
-Pioneer Thinking provides its visitors with a **discussion board and chat room**. When you become a member of the discussion boards we ask for your username and email address. This information is used for account verification and sending your password. Once you are registered, you have the option of completing a profile. This is voluntary and subject to public view. You have the option of making your email address private. Should you post information, such as your email address, to the forums, remember that it is available for public view and may be collected by outside parties. We cannot control the acts of other visitors. You remain solely responsible for the content of your messages. We at Pioneer Thinking also reserve the right to reveal your identity (or any information we have about you) in the event of a complaint or legal action arising from any information posted by you. With each post, your IP address is recorded. 
+Pioneer Thinking provides its visitors with a **discussion board and chat room**. When you become a member of the discussion boards we ask for your username and email address. This information is used for account verification and sending your password. Once you are registered, you have the option of completing a profile. This is voluntary and subject to public view. You have the option of making your email address private. Should you post information, such as your email address, to the forums, remember that it is available for public view and may be collected by outside parties. We cannot control the acts of other visitors. You remain solely responsible for the content of your messages. We at Pioneer Thinking also reserve the right to reveal your identity (or any information we have about you) in the event of a complaint or legal action arising from any information posted by you. With each post, your IP address is recorded.
 
 **Refer a Page**
 
@@ -28,7 +28,7 @@ Pioneer Thinking will automatically send your friend a one-time email inviting t
 
 When **subscribing to our newsletter** , we request your email address. We do not sell, trade, lend or otherwise share our newsletter subscriber list with anyone, ever! Our subscriber list is used for the sole pupose of delivering our newsletter and site updates to you.
 
-Readers who no longer wish to receive our newsletter can send us an email, with "Unsubscribe" in the subject. **[newsletter@pioneerthinking.com](mailto:newsletter@pioneerthinking.com) **or **[click here](http://www.pioneerthinking.com/newsletter.html) **to use our automated system.
+Readers who no longer wish to receive our newsletter can send us an email, with "Unsubscribe" in the subject. [newsletter@pioneerthinking.com](mailto:newsletter@pioneerthinking.com) **** or ****[click here](http://www.pioneerthinking.com/newsletter.html) **** to use our automated system.
 
 **Surveys or Contests**
 
@@ -56,8 +56,8 @@ Ottawa, Ontario
 Canada
 K1J 9L9
 
-We can be reached via e-mail at **[admin@pioneerthinking.com](mailto:admin@pioneerthinking.com)**
+We can be reached via e-mail at [admin@pioneerthinking.com](mailto:admin@pioneerthinking.com)
 
 **Terms of Use**
 
-Please see our Online Agreement for other **[terms and conditions](http://www.pioneerthinking.com/disclaimer.html)** governing your use of pioneerthinking.com.  
+Please see our Online Agreement for other [terms and conditions](http://www.pioneerthinking.com/disclaimer.html) governing your use of pioneerthinking.com.  
