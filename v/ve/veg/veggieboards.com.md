@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veggieboards.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603220903id_/http%3A//www.veggieboards.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veggieboards.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205005736id_/http%3A//www.veggieboards.com/content/privacy.html) for the most accurate reproduction.*
 
 # VeggieBoards - Vegetarian and Vegan Board and Forum - Links, Cruelty-freee Shopping, Animal Rights and WelfareGroups
 
