@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortystv.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206060321id_/http%3A//www.mortystv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortystv.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603202720id_/http%3A//mortystv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Ask Morty Legal & Privacy Information
 
@@ -27,7 +27,7 @@ Our site contain thousands of links to outside web sites.  Morty's TV  does no
 
 This service is provided for the information of users only. It is not provided with the  intention that users rely upon the information for any purposes. Accordingly, Morty's TV  shall under no circumstances be liable for any loss or damage, including but not limited to loss of profits, goodwill or indirect or consequential loss arising out of any use of or inaccuracies in the information contained on this web site. All warranties express or implied are excluded to the fullest extent permissible by law.
 
-All information in this site is © 1999-2003. Praedo Systems.  Reproduction, distribution or transmission by any means without the prior permission of Praedo Systems is prohibited. All rights reserved.  Would you like to use some Morty in your print or internet publication?  [Click Here](https://web.archive.org/syninfo.shtml). 
+All information in this site is © 1999-2004. Praedo Systems.  Reproduction, distribution or transmission by any means without the prior permission of Praedo Systems is prohibited. All rights reserved.  Would you like to use some Morty in your print or internet publication?  [Click Here](https://web.archive.org/syninfo.shtml). 
 
 Some images use on this site are used under license granted by Media Graphics Inc.  and are Copyright © by Media Graphics Inc., 1998.   All trademarks are property of their legal owners.  Many of the celebrity images were provided to the site author for press/promotional purposes at the time of release of the property being promoted.  As these images/likenesses and logos are the remain property of the studios and stars that issued the original images, these owners have the right to determined how they are used.   If you believe Morty has illegally used artwork/images/photos that you are the rightful owner thereof, please contact Praedo Systems by mail at:  Post Office Box, Medford, NJ USA 08055, by fax at: (609) 953-0769, or by email at: [legal@mortystv.com](mailto:legal@mortystv.com)
 
