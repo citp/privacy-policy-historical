@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surething.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217034634id_/http%3A//www.surething.com/st/Category.asp%3FCatCode%3DPRIVACY_STATEMENT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surething.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604215241id_/http%3A//www.surething.com/ST/Category.asp%3FCatCode%3DPRIVACY_STATEMENT) for the most accurate reproduction.*
 
 # SureThing - cd label templates, cd label software, cd label maker, dvd software and more. With free cd labeler programs, cd labelling software, cd business cards and our cd label maker software
 
@@ -27,7 +27,7 @@ A cookie itself does not have the ability to automatically collect personal info
 
  **Surveys.** From time to time we may invite visitors to participate in a survey so that we can better understand our customers. Participation in a survey is voluntary, and therefore you have a choice whether or not to disclose this information.
 
- **Communications** If you send us personal correspondence, such as e-mails and letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We use the information in the file that we maintain about you, and other information we obtain from your use of the services, to provide better service, resolve disputes, troubleshoot problems and enforce our agreement for [Terms of Use](https://web.archive.org/web/20031217034634id_/http%3A//www.surething.com/st/Page.asp?PageCode=TERMS).
+ **Communications** If you send us personal correspondence, such as e-mails and letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We use the information in the file that we maintain about you, and other information we obtain from your use of the services, to provide better service, resolve disputes, troubleshoot problems and enforce our agreement for [Terms of Use](https://web.archive.org/web/20040604215241id_/http%3A//www.surething.com/ST/Page.asp?PageCode=TERMS).
 
 HOW PERSONAL INFORMATION IS USED
 
@@ -61,7 +61,7 @@ SureThing.com believes strongly in protecting the privacy and rights of children
 
  **Protecting your password.** You can do your part to protect your personal information by keeping your password a secret and making sure you log off completely if you share a computer. If you forget your password, you can request to have it e-mailed to you by visiting [www.surething.com/myaccount]().
 
- **Linked Sites** For your convenience, this site contains links to other sites. We are not responsible for the privacy practices or the content of such sites. For more information about our policies with regard to third party sites, please see our [Terms of Use](https://web.archive.org/web/20031217034634id_/http%3A//www.surething.com/st/Page.asp?PageCode=TERMS).
+ **Linked Sites** For your convenience, this site contains links to other sites. We are not responsible for the privacy practices or the content of such sites. For more information about our policies with regard to third party sites, please see our [Terms of Use](https://web.archive.org/web/20040604215241id_/http%3A//www.surething.com/ST/Page.asp?PageCode=TERMS).
 
  **Privacy Policy Changes.** This Privacy Policy was last changed on June 20, 2002. If SureThing.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.
 
