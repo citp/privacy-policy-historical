@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.com.au privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601183621id_/http%3A//aol.com.au/cgi-bin/redirector.pl%3FI%3Dprivacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.com.au privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207230136id_/http%3A//www.aol.com.au/cgi-bin/redirector.pl%3FI%3Dprivacynotice) for the most accurate reproduction.*
 
 # AOL Privacy Notice
 
