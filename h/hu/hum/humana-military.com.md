@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humana-military.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205120750id_/http%3A//www.humana-military.com/South/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humana-military.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207044008id_/http%3A//www.humana-military.com/South/privacy_statement.htm) for the most accurate reproduction.*
 
 # Humana Military Healthcare Services, Inc. (HMHS)
 
