@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livejournal.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622134002id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livejournal.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231063119id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ Credit Card Information|  Credit Card information (only used for purchases made 
   
 ## Minors
 
-We will never knowingly request personally identifiable information from anyone under the age of thirteen, to remain consistent with the Children's Online Privacy Protection Act (COPPA) of 1998. [Read our complete COPPA policy](https://web.archive.org/web/20040622134002id_/http%3A//www.livejournal.com/legal/coppa.bml).
+We will never knowingly request personally identifiable information from anyone under the age of thirteen, to remain consistent with the Children's Online Privacy Protection Act (COPPA) of 1998. [Read our complete COPPA policy](https://web.archive.org/web/20041231063119id_/http%3A//www.livejournal.com/legal/coppa.bml).
 
 ## Exception
 
