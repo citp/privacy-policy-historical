@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaasouth.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202062456id_/http%3A//www.aaasouth.com/main_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaasouth.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601222556id_/http%3A//www.aaasouth.com/main_privacy.asp) for the most accurate reproduction.*
 
 # AAA Auto Club South-Privacy Policy
 
@@ -15,4 +15,8 @@ Below is a list of non-volunteered information that will be collected automatica
 >  Criteria used when searching   
 > 
 
-If the user supplies their telephone number online, they may be contacted by AAA regarding orders placed online. Please be sure to provide AAA with the correct phone number.  To avoid any solicitations from AAA as a result of visiting the Web site, please send an e-mail to [webmaster@aaasouth.com](mailto:webmaster@aaasouth.com) or write to AAA Auto Club South, 1515 N Westshore Boulevard, Tampa, FL 33607. 
+If the user supplies their telephone number online, they may be contacted by AAA regarding orders placed online. Please be sure to provide AAA with the correct phone number. 
+
+Using the automatic log-in function of this website will cause a cookie to be written to the PC in use at the time. Cookies are small text files which store an encrypted version of your user ID and password. When you come back to this site, this information will be used to automatically log you into the web site using a secure connection. The cookies will not store any information that will be used for tracking or advertising. 
+
+To avoid any solicitations from AAA as a result of establishing a User ID on this website, please click on "My Account" at the top of this page and set your communication preferences under the "Opt In/Opt Out" tab. 
