@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the realnetworks.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202100606id_/http%3A//www.realnetworks.com/company/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realnetworks.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603185931id_/http%3A//www.realnetworks.com/company/privacy/index.html) for the most accurate reproduction.*
 
 # Company > RealNetworks Privacy Policy
 
-Last Updated November 25, 2002
+Last Updated May 20, 2003
 
-RealNetworks highly values our customer relationships and we want to make sure that you understand the details of how our products and services utilize the information you provide to us. This Privacy Policy governs your use of RealNetworks products and services. For details regarding specific topics, please click on the topic index at the bottom of this page, or [download a printable pdf file version of this policy](http://docs.real.com/docs/company/RealNetworksPrivacyPolicy9-9-02.pdf).
+This Privacy Policy explains how RealNetworks collects and utilizes personal information when you use our products and services. For details regarding specific topics, please click on the topic index at the bottom of this page, or for a printable pdf file version of this policy, [click here](http://docs.real.com/docs/company/RealNetworksPrivacyPolicy05-20-03.pdf).
 
-COLLECTION OF PERSONAL INFORMATION  
+WHAT PERSONAL INFORMATION DO WE COLLECT?  
 An online RealNetworks account is required to purchase RealNetworks products and services, including the ability to participate in free trials. Information that you provide when creating and editing RealNetworks accounts includes:  
 |  |   
 ---|---  
 | Name and e-mail address  
 |   
-| Demographic information — including age, gender, language, and other data  
+| Demographic information — including age, gender, language, and other similar data  
 |   
 | Location information — including zip code, postal code, and country  
 |   
@@ -21,34 +21,43 @@ An online RealNetworks account is required to purchase RealNetworks products and
 | Purchase and credit card billing information  
 |   
 | Computer configuration — including operating system, CPU speed, connection speed, and computer peripherals owned  
+|   
+| The Internet (IP) address and the URL of the website that sent you to the RealOne registration page.  
   
-RealNetworks also collects and stores your Internet (IP) address and the URL of the website that sent you to the RealOne registration page.
+HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-REALNETWORKS USE OF PERSONAL INFORMATION  
-How does RealNetworks use the personal information you provide to us? RealNetworks does not create individual user profiles based on specific content accessed via our products. Further, RealNetworks does not sell, rent, or share personal information you provide to us, unless you specifically consent to provide such information to a third party partner or content service.
-
-If you are a subscriber to MLB, NASCAR, CNN or another partner content service, you will be asked at the point of registration to provide personal information to both the content partner and RealNetworks. Please visit the privacy policy of the content partner to make sure you understand how they use the personal information you provide to them. Information collected by RealNetworks is governed by this privacy policy.
-
-RealNetworks Uses the Personal Information You Provide To:  
+RealNetworks uses your personal information to:  
 |   
 ---|---  
-| Verify access rights to premium content (such as SuperPass or RealOne Music) or other access-restricted services and software  
+| Deliver and bill RealNetworks Products and Services.  
 |   
-| Determine if you meet the minimum system requirements for our products  
+| Verify access rights to premium content or other access-restricted services and software.  
 |   
-| Ask you to participate in surveys about products, services, news and events  
+| Determine if you meet the minimum system requirements to use our products.  
 |   
-| Offer you product upgrades and games for you to purchase  
+| Ask you to participate in surveys about products, services, news and events.  
 |   
-| Provide you with content, services, and instructions based on your language preferences, zip/postal code and country locations  
+| Offer you product upgrades and games for you to purchase.  
 |   
-| Provide you with targeted advertising, promotions, and special offers  
+| Provide you with content, services, and instructions based on your language preferences, zip/postal code and country locations.  
 |   
-| Better understand on an anonymous and aggregated basis how our products are used, including web traffic patterns and what types of content are most popular with users of our products and services  
+| Auto-update downloaded RealNetworks products.  
+|   
+| Provide you with targeted advertising, promotions, and special offers.  
+|   
+| Better understand, on an anonymous and aggregated basis, how our products are used, including web traffic patterns and what types of content are most popular with users of our products and services.  
   
-RealNetworks does not disclose personal information to third parties. At times, we disclose relevant information about our customers to our contractors in order for them to provide specific services for RealNetworks. RealNetworks requires such contractors to keep all information they process strictly confidential and to use such information solely on behalf of RealNetworks. Such contractors are not considered third parties.
+Third Party Communication of Personal Information and Choice
 
-RealNetworks Web sites and products contain links to other Web sites and products. RealNetworks is not responsible for the privacy practices or the content of such Web sites or products. Please visit the privacy policies of these third party sites in order to understand their privacy and data collection practices.
+RealNetworks does not use your personal information for purposes incompatible with those listed above. RealNetworks does not sell, rent, or share your personal information to a third party unless you specifically consent to provide such information to a third party partner or content service. If you use the RealPlayer 8 service, certain indirectly identifiable information needs to be communicated with third party streaming media servers.
+
+If you are a subscriber to MLB, NASCAR, CNN or another partner content service, you will be asked at the point of registration to provide personal information to both the content partner and RealNetworks. Please visit the privacy policy of the content partner to make sure you understand how they use the personal information you provide to them. Information collected by RealNetworks is governed by this privacy policy. Personal information you provide when you register for a partner content service will be provided to that content partner. If you do not wish for such a transfer to take place, you should not register for the applicable service.
+
+At times, we disclose relevant information about our customers to our contractors in order for them to provide specific services for RealNetworks. RealNetworks’ contractors are bound by strict contractual guarantees to keep all information they process strictly confidential and to use such information solely on behalf of RealNetworks. RealNetworks Web sites and products contain links to other Web sites and products. RealNetworks is not responsible for the privacy practices or the content of such Web sites or products. Please visit the privacy policies of these third party sites in order to understand their privacy and data collection practices.
+
+Obligatory or Optional Nature of the Requested Information
+
+All Personal Information you submit to RealNetworks is necessary to provide you with the RealNetworks product or service you choose and to optimize the delivery of audio and video data to your computer. RealNetworks offers you the opportunity to disable certain software features to increase your level of privacy. However, certain technical information (e.g., zip code, product id, GUID) is automatically transmitted between networked servers to optimize your media delivery experience.
 
 E-MAIL FROM REALNETWORKS  
 Registering for a product or service allows you to tell us how or whether you want RealNetworks to communicate with you. Generally, we send e-mail to you about our products, content and special offers. During registration, you may Opt Out of receiving RealNetworks e-mail. You may also refuse RealNetworks e-mail by clicking “unsubscribe” at the bottom of the mail from RealNetworks or by clicking this link: <http://post.real.com/ml/ml.html>. However we may continue to send you mail about products you have previously purchased (such as an available upgrade that you are entitled to receive) or to inform you about critical technical service issues relating to a RealNetworks product or service.
@@ -56,7 +65,7 @@ Registering for a product or service allows you to tell us how or whether you wa
 HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION  
 To access and update your account, click on the Help menu of the RealONE Player, and select the Manage My Account heading. Enter your e-mail address and password to access your account information on the My Account log-in page.
 
-You may also review and update your account by visiting www.real.com: 
+You may also review and update your account by visiting [www.real.com](http://www.real.com/): 
 
   1. On the Real.com navigation bar, select My Account
   2. On the My Account sign-in page, enter the e-mail address and password you used when creating an account
@@ -78,7 +87,9 @@ RealNetworks maintains the following controls to protect the security of informa
 |   
 | Use of encryption for sensitive personal information, such as credit card numbers and user names  
 |   
-| Restricting employees with access to databases containing personal information  
+| Restricting employees with access to databases containing personal information and confidentiality requirements for employees  
+|   
+| Binding subcontractors by contractual technical and organizational measures to protect your personal information  
   
 USE OF COOKIES  
 Like other major web sites, we use cookies to provide you with a tailored experience in visiting our web sites and using our products. We also use cookies to understand traffic patterns on RealNetworks web sites and to authorize access to certain premium or trial content and product features. We treat any personal information that may be contained in cookies with the same level of confidentiality as other information you provide to us.
@@ -86,16 +97,30 @@ Like other major web sites, we use cookies to provide you with a tailored experi
 RealNetworks does not require that you accept cookies, however, some functionality on our web sites, our product purchase check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your RealPlayer cookie settings through preferences options in our products. For more information on cookies, please click on the Topic Index list of subjects about cookies at the bottom of this page.
 
 CHANGES TO OUR PRIVACY POLICY  
-We frequently revise this Privacy Policy to keep it up to date with RealNetworks products, services and web pages. “Updated” is used to alert users to recent changes and to the date of the last update. We also post FAQ’s from time to time on specific products.
+We frequently revise this Privacy Policy to keep it up to date with RealNetworks Products, services and web pages. “Updated” is used to alert users to recent changes and to the date of the last update. We also post FAQ’s from time to time on specific products.
+
+NON-US CUSTOMER INFORMATION  
+If you are a customer who is logging on from outside the United States, the personal information you submit to RealNetworks will be sent to and stored in servers in our U.S. headquarters in Seattle, Washington. The personal information practices set out in this Privacy Policy apply to all RealNetworks’ customers worldwide. RealNetworks has certified its personal information practices with the U.S. Department of Commerce under the Safe Harbor Program to ensure that your personal information is protected adequately. Should you want more information on the Safe Harbor principles, please go to: <http://www.export.gov/safeharbor/>
+
+If you are in the European Union and you choose to purchase RealNetworks’ products and services, please be aware that payment for such products and services will be handled by RealNetworks E Commerce LL; P.O.Box 91123, Seattle, Washington 98111-9223. The following data may be turned over to this company solely for the purpose of processing the payment transaction: your name, bank account, and amount to be charged. You have a right of access and rectification with regard to such data; to exercise these rights, or for other data privacy questions, please contact/send an email to [privacy@real.com](mailto:privacy@real.com).
+
+If you are a European resident and your data privacy complaint was not satisfactorily addressed by RealNetworks, you may contact the Direct Marketing Association at:
+
+Safe Harbor Line  
+Direct Marketing Association  
+1111 19th Street, NW - Suite 1100  
+Washington, DC 20036  
+E-mail: [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)  
+Web: <http://www.the-dma.org/safeharbor/consumers.shtml>
 
 NO ERROR FREE PERFORMANCE  
-We customarily release alpha and beta versions of our products, which are further refined before the release of the final "Gold" version. Because these products are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome feedback on any privacy concerns you may have, and on how to improve our products generally, in all stages of release. RealNetworks does not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. RealNetworks shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy. RealNetworks may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on RealNetworks; (b) protect and defend the rights or property of RealNetworks and its products, or (c) act in urgent circumstances to protect the personal safety of users of RealNetworks products or the public at large. This Privacy Policy shall be governed by the laws of the United States.
+We customarily release alpha and beta versions of our products, which are further refined before the release of the final "Gold" version. Because these products are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome feedback on any privacy concerns you may have, and on how to improve our products generally, in all stages of release. RealNetworks does not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. RealNetworks shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. RealNetworks may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on RealNetworks; (b) protect and defend the rights or property of RealNetworks and its products, or (c) act in urgent circumstances to protect the personal safety of users of RealNetworks products or the public at large. This Privacy Policy shall be governed by the laws of the United States.
 
 CONTACT US ABOUT PRIVACY  
-If you have questions about the privacy aspects of our products or services, please contact:
+If you have questions about the privacy aspects of our products or services or would like to make a complaint, please contact:
 
 Privacy Policy Group  
 RealNetworks, Inc.  
 P.O. Box 91123  
 Seattle, WA 98111-9223  
-[http://forms.real.com/services/contact/privacy.html](http://forms.real.com/service/contact/privacy.html)
+<http://forms.real.com/service/contact/privacy.html>
