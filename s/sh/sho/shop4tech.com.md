@@ -1,14 +1,33 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619110044id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204111602id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
 # DVD Recorders at Shop 4 Tech: DVD Media, Cell Phone Accessories, Printer Ink, Ink Cartridges
 
-Leda Multimedia Inc has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: shop4tech.com. 
+  
+
+
+  
+
+
+Subscribe to our eMail Newsletter and get in on our great deals and exclusive offers!
+
+  
+  
+
+
+| 
+
+Privacy policy
+
+  
+
+
+**Leda Multimedia Inc** has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **Shop 4tech.com.**
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
 Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
-This site contains links to other sites. **shop4tech.com** is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. **Shop 4tech.com** is not responsible for the privacy practices or the content of such Web sites.
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
 
@@ -49,8 +68,11 @@ Montclair CA 91763_
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-_Paul Chou  
+_Damon Nguyen  
 Leda Multimedia Inc   
 5185 Cliffwood Dr.   
 Montclair CA 91763_   
 [webmaster@shop4tech.com ](mailto:%20webmaster@shop4tech.com)
+
+
+| 
