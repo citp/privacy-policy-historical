@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcci.com privacy policy that was archived on 1999-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991103002329id_/http%3A//kcci.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcci.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616125500id_/http%3A//www.kcci.com/private.html) for the most accurate reproduction.*
 
 # KCCI.com Web Site Private Policy
 
