@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portfolio.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606224005id_/http%3A//portfolio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portfolio.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011035902id_/http%3A//www.portfolio.com/privacy.html) for the most accurate reproduction.*
 
 # Portfolios.com - Privacy Statement
 
