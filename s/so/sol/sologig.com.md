@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2001-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011219025655id_/http%3A//sologig.com/noncore/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604051220id_/http%3A//www.sologig.com/noncore/Privacy.asp) for the most accurate reproduction.*
 
 # Sologig.com | Privacy
 
