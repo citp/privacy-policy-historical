@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeggs.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205203100id_/http%3A//eeggs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeggs.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614130808id_/http%3A//www.eeggs.com/privacy.html) for the most accurate reproduction.*
 
 # Eeggs.com - Privacy Policy
 
@@ -8,7 +8,7 @@ Eeggs.com and its advertisers and affiliates are deeply committed to protecting 
 
 Third Party Advertising
 
-EEGGS.COM WORKS WITH THIRD PARTIES THAT SERVES ADS TO THIS SITE. TO FIND OUT MORE ABOUT HOW FLYCAST MANAGES THE PRIVACY OF INFORMATION IN CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO [ http://www.flycast.com/about_us/about-privacy.html ](http://www.flycast.com/about_us/about-privacy.html)
+This site, The Easter Egg Archive, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
 
 Consumer Information 
 
