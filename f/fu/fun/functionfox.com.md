@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the functionfox.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803094020id_/http%3A//www.functionfox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the functionfox.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802020516id_/http%3A//www.functionfox.com/privacy.html) for the most accurate reproduction.*
 
 # FunctionFox Systems Inc. - Privacy Statement
 
@@ -8,7 +8,8 @@ The terms of this policy apply to www.functionfox.com and all other FunctionFox 
 
 What information do you collect about me?  
 What are cookies and how do you use them?  
-Is my information safe?  
+Is my information safe?   
+Does FunctionFox look at or share my proprietary data?  
 What if I don't want to receive promotional material?  
 What if I want to change my information?   
 How do I contact FunctionFox?
@@ -34,9 +35,39 @@ We do not use cookies to examine your surfing behavior before or after leaving o
 
 **Is my information safe?**
 
-FunctionFox maintains a secure online environment so you can safely provide information, purchase services, and access information. Stringent security protocols are in place to prevent the loss, misuse, or alteration of any information. We consider your information sensitive and private and we are determined to handle it with the utmost care. We have Verisign Secure Socket Layer (SSL) certification, which is used by major credit card and financial institutions around the world. If you would like more information about our security procedures, see our [Security page](https://web.archive.org/web/20010803094020id_/http%3A//www.functionfox.com/security.html).
+FunctionFox maintains a secure online environment so you can safely provide information, purchase services, and access information. Stringent security protocols are in place to prevent the loss, misuse, or alteration of any information. We consider your information sensitive and private and we are determined to handle it with the utmost care. We have Verisign Secure Socket Layer (SSL) certification, which is used by major credit card and financial institutions around the world. If you would like more information about our security procedures, see our [Security page](https://web.archive.org/web/20020610041837id_/http%3A//functionfox.com/security.html).
 
 If you authorize us to send you promotional materials, we may do so using either the e-mail or the mailing addresses you provided on the billing information screens. From time to time we may notify you of special promotions, new products or services, or other information that may interest you. We do not share any information you provide to us, including your e-mail and mail addresses, with any companies outside FunctionFox except where indicated above.
+
+**Does FunctionFox look at or share my proprietary data?**
+
+No. FunctionFox does not view, analyze, share or otherwise access the proprietary data entered by any of its customers.
+
+No employee of FunctionFox is able to access customer information without  
+the customer's express permission. Occasionally, a customer may allow access to proprietary information in order to resolve a support or technical difficulty.
+
+Only customer service representatives and technicians are able to  access  
+customer information once permission has been received from the customer.
+
+FunctionFox customer service is located off-site, on a different network  
+than is used by all other FunctionFox employees. No other FunctionFox  
+employee has access to the customer service network.
+
+FunctionFox uses secure servers located off site, to which only our  
+technicians have access.
+
+Passwords are changed regularly to prevent unauthorized access by anyone to any  
+information stored by FunctionFox for its customers.
+
+Customers are encouraged to change their passwords and usernames on a  
+regular basis.
+
+The data storage facility has been designed to provide the highest level  
+of security; protection against fire, flood and earthquake;  
+and has full power backup.
+
+Data is backed up on large servers continuously, and backed up to tape  
+every 24 hours. 
 
 **What if I don't want to receive promotional material?**
 
