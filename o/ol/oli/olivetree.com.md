@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olivetree.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202212315id_/http%3A//www.olivetree.com/Privacy/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olivetree.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612090344id_/http%3A//www.olivetree.com/Privacy/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Olive Tree Bible Software
 
