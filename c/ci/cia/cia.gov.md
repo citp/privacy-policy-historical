@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204095000id_/http%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604121857id_/http%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
 
 # Central Intelligence Agency
 
@@ -21,41 +21,40 @@ The Central Intelligence Agency is committed to protecting your privacy and will
 > The following are representative of the types of information automatically collected and stored about your visit: 
 > 
 >   * the Internet domain and Internet Protocol (IP) address from which you access our Web site; 
-> 
 >   * the type of Internet browser and the operating system of the computer you use to access our site; 
-> 
 >   * the date and time you visit our site; 
-> 
 >   * the pages you visit on our site; 
-> 
 >   * if you linked to our Web site from another Web site, the address of that Web site; 
-> 
 >   * and, if you linked to our Web site from a search Web site, the address of that Web site and the search term you used.
 > 
 
 > 
 > **If you submit a resume online:**
 > 
-> The resume data you do submit will be used for employment consideration only and will be stored in an internal resume tracking system for one year. Your data is only available internally to a limited number of hiring officals and will not be shared with any other people or organizations internally or externally. The only exception to this policy is described in our Security notice below.
+> The resume data you do submit will be used for employment consideration only and will be stored in an internal resume tracking system for one year. Your data is only available internally to a limited number of hiring officals and will not be shared with any other people or organizations internally or externally. The only exception to this policy is described in our [Security](https://web.archive.org/cia/notices.html#sec) notice below.
 > 
 > The authority for soliciting your Social Security Number (SSN) is Executive Order 9397\. Since other people may have the same name and birth date, your SSN will be used to identify you precisely. Although disclosure of your SSN is not mandatory, your failure to do so will impede completion of your application. 
 > 
-> **If You subscribe to the CIA Web Site Update Service:**
+> **If You subscribe to the CIA Web Site Update service:**
 > 
-> If you choose to provide us with your e-mail address to subscribe to the CIA Web Site Update Service, we will use that information only to send you e-mail notices of substantive updates to our Web site. 
+> If you choose to provide us with your e-mail address to subscribe to the CIA Web Site Update service, we will use that information only to send you e-mail notices of substantive updates to our Web site. 
 > 
->   * If you choose to subscribe to the CIA Web Site Update Service, we will collect your e-mail address by an automated process
-> 
+>   * If you choose to subscribe to the CIA Web Site Update service, we will collect your e-mail address by an automated process
 >   * We do not collect your e-mail address for any purpose other than to provide the update notices you have requested.
-> 
 >   * We will not share your e-mail address with any third party, other than as described below in our Security notice.
-> 
 >   * We do not create individual profiles with the information that you have provided
-> 
 >   * Under no circumstances will we give your e-mail address to any any private organization, commercial or otherwise.
-> 
 >   * If you unsubscribe to the CIA Web Site Update service, your email address will be purged from our mailing list. Periodically, we will validate e-mail addresses; any that are found to be inactive will be purged from our mailing list.
 > 
+
+> 
+> **If you send us an e-mail using our comment form:**
+> 
+> If you choose to submit a question or comment using our online form and provide us your name and e-mail or postal address, we will use that information only to respond to your question or comment.
+> 
+>   * We will not share your name, e-mail, or postal address with any third party, other than as described below in our Security notice.
+>   * We will not create individual profiles with the information that you have provided.
+>   * Under no circumstances will we give your name, e-mail, or postal address to any any private organization, commercial or otherwise.
 > 
 
 > 
@@ -63,7 +62,7 @@ The Central Intelligence Agency is committed to protecting your privacy and will
 > 
 > **Authorities:** 50 U.S.C. 403-1; 50 U.S.C. 403-3(d); 50 U.S.C. 403a-g.
 > 
-> **Principal Uses:** Information collected via the CIA Web site is used to: 1) process employment applications from individuals who choose to submit their resumes through the CIA's on-line resume form; and 2) provide e-mail notifications of substantive updates to the CIA Web site to subscribers who request this service.
+> **Principal Uses:** Information collected via the CIA Web site is used to: 1) process employment applications from individuals who choose to submit their resumes through the CIA's on-line resume form; 2) provide e-mail notifications of substantive updates to the CIA Web site to subscribers who request this service; and 3) provide information in response to comments or questions when a response is requested by the person submitting the comment or question.
 > 
 > **Routine Uses:** Information collected via the CIA Web site may be provided to law enforcement agencies as described in our Security notice.
 
@@ -143,7 +142,8 @@ Federal law prohibits use of the words ''Central Intelligence Agency'', the init
 
 ### Computer Fraud and Abuse Act 
 
-Unauthorized attempts to upload information and/or change information on the Central Intelligence Agency Web site is strictly prohibited and is subject to prosecution under Title 18 U.S.C., Sections1001 and 1030. (see Security Notice) 
+Unauthorized attempts to upload information and/or change information on the Central Intelligence Agency Web site is strictly prohibited and is subject to prosecution under Title 18 U.S.C., Sections1001 and 1030.  
+(see Security Notice) 
 
 [Return to top] 
 
