@@ -1,0 +1,601 @@
+<!--The following is the downloaded HTML source of the beachbody.com privacy policy that was archived on 2004-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041211060329id_/http%3A//www.beachbody.com/jump.jsp%3FitemID%3D5%26itemType%3DABOUT_US) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+    var isNav, isIE;
+    if(parseInt(navigator.appVersion) >= 4) {
+      if(navigator.appName == "Netscape")
+        isNav = true
+      else
+        isIE = true;
+    }
+
+    /* checks while typing*/
+    function maxlengthCheck(txt, evtThis, maxlength){
+      if(txt.value.length >= maxlength){
+        if (isIE)
+          event.keyCode = 0 // IE
+        else
+          return false;  // Netscape
+        maxlengthHack(txt, maxlength);
+        return false;
+      }
+    }
+
+    /* checks for pasted in text, etc*/
+    function maxlengthHack(txt, maxlength){
+      if(txt.value.length >= maxlength){
+        txt.value = txt.value.substring(0,maxlength);
+      }
+    }
+</script>
+
+<script language="JavaScript">
+// Disable edit cell tab.
+   parent.editCell.className    = "tab-button-dis";
+//   parent.parent.frames('toolbarbottom').altButtons.style.display = "none";
+
+function saveForm() {
+    location.replace("/admin/displayeditcell.do?action=save");
+}
+
+   function editCell(ruleID, itemID, slotID, itemType) {
+        parent.editDisplay.className     = "tab-button";
+        if(typeof(parent.displayRules)!="undefined") {
+            parent.displayRules.className = "tab-button";
+        }
+        parent.editCell.className    = "tab-button-on";
+
+        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
+//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<title>Beachbody: Decide. Commit. Succeed.</title>
+<link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+<script src="/includes/flyopen.js"></script>
+<script src="/includes/rollover.js"></script>
+<script src="/includes/cleartext.js"></script>
+<script language="javascript">
+arImageList = new Array ();
+arSubImageList = new Array ();
+
+function preLoadCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arImageList[loop] = new Image();
+           arImageList[loop].src = images_array[loop];
+	}
+}
+function preLoadSubCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arSubImageList[loop] = new Image();
+           arSubImageList[loop].src = images_array[loop];
+	}
+}
+function changeCat(frm, thisbox) {
+   var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+   if (optiontxt == "0"){
+        return;
+    }
+    location.href = optiontxt
+    //frm.action = optiontxt;
+    //alert (frm.action);
+    //frm.submit();
+}
+
+</script>
+
+
+    <script language="javascript">
+        openPopunders('http://www.beachbody.com/content/popunders/popundersmain.jsp');
+    </script>
+
+<style type="text/css" media="screen"><!--
+a:hover   { color: #6ff }
+ .bodytext_dkbluebg_class  { color: #003; font-size: 10pt; font-family: Verdana, Geneva, Arial, Helvetica } --></style>
+
+</head>
+<body background="/images/us/global/globalgraphics/bg_sub2.gif" bgcolor="#0066cc" text="black" link="#003399" vlink="#333333" alink="red" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+<!-- top Content Wrap Start -->
+
+
+
+<!--SourceCode: PARSEA -->
+
+
+
+
+<!-- Navheader Start-->
+<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td bgcolor="#0066cc" width="50%" background="/images/us/global/globalgraphics/bg_cell_topnav.gif">&nbsp;</td>
+        <td bgcolor="#0066cc" width="593">
+            <table width="593" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td>
+                    <a href="http://www.beachbody.com/index.jsp">
+                    <img src="/images/us/global/globalnav/bt_top_home00.gif" alt="BeachBody.com Home" width="38" height="22" border="0"></a></td>
+                <td>
+                    <a href="http://www.mybeachbody.com">
+                    <img src="/images/us/global/globalnav/bt_top_boardscomm00.gif" alt="Beach Body Community Center" width="113" height="22" border="0"></a></td>
+                <td>
+                    <a href="/jump.jsp?itemID=300&amp;itemType=SUCCESS_STORY_HOME">
+                    <img src="/images/us/global/globalnav/bt_top_success.gif" alt="Success Stories" width="99" height="22" border="0"></a></td>
+                <td>
+                    <a href="http://www.beachbody.com/jump.jsp?itemID=0&amp;itemType=NEWSLETTER_MAIN">
+                    <img src="/images/us/global/globalnav/bt_top_newsletters00.gif" alt="News Archive" width="79" height="22" border="0"></a></td>
+                <td>
+                    <a href="http://www.beachbody.com/jump.jsp?itemID=106&amp;itemType=CATEGORY&amp;path=1%2C3">
+                    <img src="/images/us/global/globalnav/bt_top_about00.gif" alt="About Us" width="63" height="22" border="0"></a></td>
+                <td>
+                    <a href="Javascript:openWindowSolutionFinder('/text/content/solutionfinder/index_topnav.html')">
+                    <img src="/images/us/global/globalnav/bt_top_answer00.gif" alt="Beach Body Answer Center" width="93" height="22" border="0"></a></td>
+                <td>
+                    <a href="http://www.beachbody.com/jump.jsp?itemID=222&amp;itemType=CONTENT&amp;path=63">
+                    <img src="/images/us/global/globalnav/bt_top_customerservice00.gif" alt="Customer Service" width="108" height="22" border="0"></a></td>
+            </tr>
+            </tbody></table></td>
+        <td width="84"><img src="/images/us/global/globalgraphics/subhead_bt_top_right.gif" alt="" width="177" height="22" border="0"></td>
+        <td width="50%"></td>
+    </tr>
+    <tr>
+        <td bgcolor="white" width="50%" background="/images/us/global/globalgraphics/bg_cell_subhead_bannertop.gif"></td>
+        <td colspan="2" width="770"><img src="/images/us/global/globalgraphics/subhead_bannertop.gif" alt="" width="770" height="4" border="0"></td>
+        <td width="50%"></td>
+    </tr>
+<!-- top Content Block Start -->
+<tr>
+    <td width="50%"></td>
+    <td colspan="2" width="770">
+        <table width="770" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td width="417"><a href="http://www.beachbody.com/index.jsp">
+            <img src="/images/us/global/globalgraphics/subhead_logo.gif" alt="BeachBody.com : Fitness, Nutrition &amp; Weight Loss" width="417" height="77" border="0"></a></td>
+            <td bgcolor="#0066cc"><a href="http://www.beachbody.com/coupon.jsp?code=HBSLIMFORM&amp;URL=%2Fjump.jsp%3FitemID%3D39%26itemType%3DCATEGORY%26path%3D1%252C2%252C25"><img border="0" alt="Maximize your weight loss... Naturally!" src="/images/us///local/kickers/banners/330x77_Slim_Formula_edit.gif"></a></td>
+            <td width="23"><img src="/images/us/global/globalgraphics/subhead_banner_right.gif" alt="" width="23" height="77" border="0"></td>
+        </tr>
+        </tbody></table>
+    </td>
+    <td width="50%"></td>
+</tr>
+<form name="frmcatdropdown" action="" method="post"></form>
+<tr>
+    <td width="50%"></td>
+    <td width="593">
+    
+<table cellspacing="0" cellpadding="0" border="0">
+
+<tbody><tr>
+<td><select name="cs_popup_name_1" onchange="changeCat(this.form,this)">
+<option value="#" selected="">Choose A Product...</option>
+<option value="http://www.beachbody.com/index.jsp">Beach Body Homepage</option>
+<option value="Javascript:openWindowSolutionFinder('/text/content/solutionfinder/index_topnav.html')">Solution Finder</option>
+
+
+                    <option value="#">---------------------------</option>
+				    <option value="http://www.beachbody.com/jump.jsp?itemID=21&amp;itemType=INDEX">FITNESS PRODUCTS</option>
+                    <option value="#">---------------------------</option>
+                  
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=23&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Slim in 6®</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=79&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Yoga Booty Ballet™</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=103&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Fast 10™</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=22&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Power 90®</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=68&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Slim Series™</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=26&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Power Half Hour™</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=63&amp;itemType=GATEWAY&amp;code=DROPDOWN"> P90X™</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=24&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Keep It Up!</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=31&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Great Body Guaranteed!™</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=88&amp;itemType=GATEWAY&amp;code=DROPDOWN"> New Kathy Smith Products</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=29&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Thin Thighs Guaranteed!™</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=27&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Great Abs Guaranteed!®</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=30&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Great Stretch Guaranteed!</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=124&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Great Buns Guaranteed!</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=123&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Great Arms Guaranteed!</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=32&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Ho' Ala ke Kino</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=73&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Tony &amp; the Kids!</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=74&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Tony &amp; the Folks!</option>
+                                		
+                    <option value="#">---------------------------</option>
+				    <option value="http://www.beachbody.com/jump.jsp?itemID=25&amp;itemType=INDEX">NUTRITION &amp; SUPPLEMENTS</option>
+                    <option value="#">---------------------------</option>
+                  
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=39&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Slimming Formula</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=42&amp;itemType=GATEWAY&amp;code=DROPDOWN"> 2-Day Fast Formula</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=81&amp;itemType=GATEWAY&amp;code=DROPDOWN"> P90X Peak Health Formula™</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=36&amp;itemType=GATEWAY&amp;code=DROPDOWN"> ActiVit® Multi-Vitamins</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=56&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Meal Replacement Shake</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=80&amp;itemType=GATEWAY&amp;code=DROPDOWN"> P90X Peak Recovery Formula™</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=55&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Whey Protein Powder</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=38&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Performance Formula</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=94&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Herbal Immune Boost</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=93&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Echinacea Healing Formula</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=41&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Total Health Women's Formula</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=40&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Strength &amp; Muscle Men's Formula</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=98&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Pure Creatine</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=52&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Joint Support Super Formula</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=37&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Chitosan Plus</option>
+                                		
+                    <option value="#">---------------------------</option>
+				    <option value="http://www.beachbody.com/jump.jsp?itemID=43&amp;itemType=INDEX">ACCESSORIES</option>
+                    <option value="#">---------------------------</option>
+                  
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=82&amp;itemType=GATEWAY&amp;code=DROPDOWN"> B-LINES™ Resistance Bands</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=119&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Beachbody Backpack</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=78&amp;itemType=GATEWAY&amp;code=DROPDOWN"> 6-Day Express™ Diet Plan</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=45&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Heart Rate Monitor</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=66&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Dumbbell Set</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=85&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Power Workout Tower</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=87&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Yoga Accessories</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=86&amp;itemType=GATEWAY&amp;code=DROPDOWN"> P90X™ Tees and Tanks</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=72&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Body Fat Tester</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=107&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Plyometrics Mat</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=120&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Beachbody T-Shirts</option>
+                                		
+                    <option value="#">---------------------------</option>
+				    <option value="http://www.beachbody.com/jump.jsp?itemID=95&amp;itemType=INDEX">SUPPORT TOOLS</option>
+                    <option value="#">---------------------------</option>
+                  
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=122&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Michi's Ladder</option>
+                                		
+                                		<option value="http://www.beachbody.com/jump.jsp?itemID=96&amp;itemType=GATEWAY&amp;code=DROPDOWN"> Internet Support CD-ROM</option>
+                                		
+	<option value="#">---------------------------</option>
+	<option value="http://www.mybeachbody.com">Community Center</option>
+	<option value="#">---------------------------</option>
+</select></td>
+</tr>
+
+</tbody></table>
+<script langaue="javascript">
+<!--
+function pageRedirect(URL){
+    location.href=URL;
+}
+//-->
+</script></td>
+
+    <td align="right" width="84">
+        <table width="122" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+                <td align="right"><a href="https://www.beachbody.com/account/accountmain.jsp"><img src="/images/us/global/globalnav/icon_myaccount.gif" alt="" width="71" height="22" border="0"></a></td>
+		<td align="right"><a href="http://www.beachbody.com/basket/basketmain.jsp"><img src="/images/us/global/globalnav/icon_cart.gif" alt="" width="36" height="22" border="0"></a></td>
+            </tr>
+	</tbody></table>
+    </td>
+    <td width="50%"></td>
+</tr>
+<tr>
+    <td width="50%"></td>
+    <td colspan="2" width="770">
+        <table width="765" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+                <td width="3"><img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="3" height="10" border="0"></td>
+                <td>
+                    
+
+                    <a href="http://www.beachbody.com/jump.jsp?itemID=21&amp;itemType=INDEX"><img border="0" src="/images/us//global/globalnav/nav_cat_fitness2.gif" height="14" vspace="4"></a><img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="2" height="1" border="0">
+
+                    <a href="http://www.beachbody.com/jump.jsp?itemID=25&amp;itemType=INDEX"><img border="0" src="/images/us//global/globalnav/nav_cat_nutrition2.gif" height="14" vspace="4"></a><img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="2" height="1" border="0">
+
+                    <a href="http://www.beachbody.com/jump.jsp?itemID=43&amp;itemType=INDEX"><img border="0" src="/images/us//global/globalnav/nav_cat_accessories2.gif" height="14" vspace="4"></a><img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="2" height="1" border="0">
+</td>
+                <!-- <td><a href="http://dev.beachbody.com/cat_clothing/index.asp?&UID=643069&T=3134"><img src="../../BeachBody_2002.site/images/nav_cat_clothing.gif" alt="" width="79" height="14" border="0" vspace="4"></a></td> -->
+            </tr>
+        </tbody></table>
+    </td>
+    <td width="50%"></td>
+</tr>
+</tbody></table>
+
+<table width="605" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+    <td colspan="2">
+        <img src="/images/us/global/globalgraphics/header_bottom.gif" alt="" width="771" height="12" border="0"></td>
+</tr>
+<tr>
+    <td valign="top">
+
+
+<!---header_bottom -->
+
+<table width="605" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td align="center" bgcolor="#0066cc" width="2"><img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="2" height="10" border="0"></td>
+	<td align="center" bgcolor="white">
+            <table class="bodytext_dkbluebg_class" width="603" border="0" cellspacing="4" cellpadding="0">
+                <tbody><tr>
+                    <td>
+                        <table width="164" border="0" cellspacing="0" cellpadding="0" align="left" bgcolor="#00ccff">
+                            <tbody><tr>
+                                <td align="left" bgcolor="#00ccff"><img src="/images/us/global/globalgraphics/box_corner_ul.gif" alt="" width="8" height="8" border="0"></td>
+                                <td align="right" bgcolor="#00ccff"><img src="/images/us/global/globalgraphics/box_corner_ur.gif" alt="" width="8" height="8" border="0"></td>
+				<td align="right" bgcolor="white"></td>
+                            </tr>
+                            <tr>
+				<td colspan="2" align="center" bgcolor="#00ccff">
+                                    
+                                    <table width="157" border="0" cellspacing="4" cellpadding="0">
+          <tbody><tr><td valign="top"><a href="/jump.jsp?itemID=1&amp;itemType=ABOUT_US"><img border="0" src="/images/us/global/globalgraphics/bullets_ltbluebg.jpg" width="12" height="12"></a></td><td><a class="default" href="/jump.jsp?itemID=1&amp;itemType=ABOUT_US"><font size="1" face="Verdana,Geneva,Arial,Helvetica">About Us Main</font></a></td></tr><tr><td valign="top"><a href="/jump.jsp?itemID=2&amp;itemType=ABOUT_US"><img border="0" src="/images/us/global/globalgraphics/bullets_ltbluebg.jpg" width="12" height="12"></a></td><td><a class="default" href="/jump.jsp?itemID=2&amp;itemType=ABOUT_US"><font size="1" face="Verdana,Geneva,Arial,Helvetica">Bios</font></a></td></tr><tr><td valign="top"><a href="/jump.jsp?itemID=3&amp;itemType=ABOUT_US"><img border="0" src="/images/us/global/globalgraphics/bullets_ltbluebg.jpg" width="12" height="12"></a></td><td><a class="default" href="/jump.jsp?itemID=3&amp;itemType=ABOUT_US"><font size="1" face="Verdana,Geneva,Arial,Helvetica">Jobs</font></a></td></tr><tr><td valign="top"><a href="/jump.jsp?itemID=4&amp;itemType=ABOUT_US"><img border="0" src="/images/us/global/globalgraphics/bullets_ltbluebg.jpg" width="12" height="12"></a></td><td><a class="default" href="/jump.jsp?itemID=4&amp;itemType=ABOUT_US"><font size="1" face="Verdana,Geneva,Arial,Helvetica">TV Schedule</font></a></td></tr><tr><td valign="top"><a href="/jump.jsp?itemID=5&amp;itemType=ABOUT_US"><img border="0" src="/images/us/global/globalgraphics/bullets_ltbluebg.jpg" width="12" height="12"></a></td><td><a class="default" href="/jump.jsp?itemID=5&amp;itemType=ABOUT_US"><font size="1" face="Verdana,Geneva,Arial,Helvetica">Privacy Policy</font></a></td></tr><tr><td valign="top"><a href="/jump.jsp?itemID=12&amp;itemType=ABOUT_US"><img border="0" src="/images/us/global/globalgraphics/bullets_ltbluebg.jpg" width="12" height="12"></a></td><td><a class="default" href="/jump.jsp?itemID=12&amp;itemType=ABOUT_US"><font size="1" face="Verdana,Geneva,Arial,Helvetica">Terms of Use</font></a></td></tr><tr><td valign="top"><a href="/jump.jsp?itemID=130&amp;itemType=ABOUT_US"><img border="0" src="/images/us/global/globalgraphics/bullets_ltbluebg.jpg" width="12" height="12"></a></td><td><a class="default" href="/jump.jsp?itemID=130&amp;itemType=ABOUT_US"><font size="1" face="Verdana,Geneva,Arial,Helvetica">Contests and Promotions</font></a></td></tr>
+         <tr><td valign="top"><a href="http://www.mybeachbody.com/spotlight/"><img border="0" src="/images/us/global/globalgraphics/bullets_ltbluebg.jpg" width="12" height="12"></a></td><td valign="top"><a href="http://www.mybeachbody.com/spotlight/"><font size="1" face="Verdana,Geneva,Arial,Helvetica">Spotlight Directory</font></a></td></tr>
+         </tbody></table>
+                                    
+                                </td>
+                                <td align="center" valign="top" bgcolor="white">
+                                    <img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="10" height="10" border="0"></td>
+                            </tr>
+                            <tr>
+                                <td align="left"><img src="/images/us/global/globalgraphics/box_corner_ll.gif" alt="" width="8" height="8" border="0"></td>
+                                <td align="right"><img src="/images/us/global/globalgraphics/box_corner_lr.gif" alt="" width="8" height="8" border="0"></td>
+                                <td align="right" bgcolor="white"></td>
+                            </tr>
+                        </tbody></table>
+                        <img border="0" alt="About Us" src="/images/us///local/headers/main/aboutus_mhd.gif"><br>
+                        <font size="4" color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>PRIVACY POLICY</b></font><br>
+                        <img src="/images/us/global/globalgraphics/hr_dots_1pt_dkblue_418.gif" alt="" width="418" height="1" border="0" vspace="2"><br>
+                        			<p><font face="Verdana,Geneva,Arial,Helvetica" size="1">Welcome to Beachbody™, a wholly owned business unit of Product Partners, LLC. Beachbody has created the following privacy policy to demonstrate our commitment to protecting your privacy, and to disclose our information-gathering and dissemination practices. This online privacy policy is here to tell you about, among other things, the information Beachbody collects through our Web site, how we use that information, how you can opt out of certain uses of information we may collect, and how Beachbody can make changes to this privacy policy. Please let us know if you have any questions regarding this privacy policy by contacting us at <a href="mailto:privacy@beachbody.com">privacy@beachbody.com</a>.</font></p>
+<blockquote>
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>But first a note about children's privacy...</b></font><font face="Verdana,Geneva,Arial,Helvetica" size="1"> <br>
+    We do not knowingly collect personal information from children under the age of 13. If we learn that we have inadvertently obtained personal information on a child under the age of 13, that information will be deleted from our systems. Beachbody encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:</font></p>
+  <ul>
+    <li><font face="Verdana,Geneva,Arial,Helvetica" size="1"> Teach kids never to give out personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. </font></li>
+    <li><font face="Verdana,Geneva,Arial,Helvetica" size="1">Know the sites your kids are visiting and which sites are appropriate.</font></li>
+    <li><font face="Verdana,Geneva,Arial,Helvetica" size="1"> Look for Web site privacy policies. Know how your child's information is being treated.</font></li>
+  </ul>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"> <b>What information does Beachbody collect?</b><br>
+  In collecting your personal information, we want to provide you with a more customized experience. This information lets us provide services and features that we think are more likely to meet your needs. Of course, users can browse our Web site without providing any personal information, but once you give us this personal information, you are not anonymous to us.</font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"> Beachbody collects two types of information when you visit our Web site: information that may be used to identify you individually, such as your name and email address ("personal information"), and non-personal information, such as IP addresses, the type of browser you are using, and aggregated information about user activities on our Web site ("non-personal information").</font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"> <b>Personal Information:</b> We specifically request personal information from you at certain points on our Web site. For example, when you sign up for our newsletter, subscribe to our Web site, or when you purchase an item through our Web site, we collect personal information to complete the transaction. This information may include, without limitation, your name, shipping and billing addresses, telephone number, email address, and credit card information. If you apply to join our Affiliate Program, we may collect information about your business, including, without limitation, your (or your organization's) name, email address, street address, telephone number, tax identification number, and information about your Web site (e.g., the URL, the number of unique users and page views, the demographics of your user base, etc.). From time to time, we may also request personal information about you and your interests in surveys, contest entry forms or in other ways. You may always choose not to provide us with your personal information; however, this may limit our ability to provide you with a specific product or service, or to offer you personalized content. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"><b>Non-Personal Information:</b> When you visit our Web site, we also collect non-personal information, such as your IP address, which is a number that can be used to identify your location and Internet Service Provider. We may also collect the URL from which you came to our Web site and the URLs visited on our Web site. A URL is the full address of a Web site page, which may contain some personal or identifying information about the person who is viewing it. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"><b>Use of Cookies:</b> We also use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer—but not you—to our servers every time you visit our Web site. Cookies by themselves cannot be used to find out the identity of any user, but may be correlated with identity information in our log files. You can turnoff the cookies feature by using your browser preference options, but you may not be able to utilize some services properly. Current versions of many Web browsers offer enhanced user controls for the placement and duration of cookies. Search for Cookies under your Web browser's Help menu for more information on the cookie management features available to you. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"><b>Use of Pixel Tags:</b> We also collect information through the use of "pixel tags" included in email messages we may send to you. Pixel tags are tiny graphic files, not visible to the human eye, that are included in HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our server to retrieve the pixel tag file, allowing us to record and store, along with the recipient's email address, the date and time the recipient viewed the email message,the fact that the recipient's email program is capable of receiving HTML-encoded email, and other standard logging information. The pixel tag also may see or read cookies. <br>
+                            <br>
+                            <b>How does Beachbody use or disclose the information it collects?</b><br>
+    Beachbody's Use of Personal Information and Non-Personal Information: We use your personal information to process your requests, to improve the features of our Web site, and to communicate with you. We may also use your personal information to personalize our Web site, to target advertising or promotions that may be of interest to you, and to analyze aggregate user data in order to improve our services. On occasion, we may also contact you about Beachbody or Product Partners' products or services that we think you will find useful. We might also contact you to see if you are interested in participating in market research regarding Beachbody. For information about opting out of such communications, please see our Opt-Out Policy section below. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"><b>Co-Branded Offers:</b> In arranging to have marketing and promotional information of certain companies or businesses with whom Beachbody or Product Partners may have formed a strategic alliance ("Affiliated Companies"), we may disclose to the Affiliated Companies your personal information, including information such as your shipping address, billing information, telephone number, and credit card information. If you do not want to us to disclose your personal information to the Affiliated Companies, please refer to the Opt-Out Policy below. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"><b>Third-Party Offers:</b> In arranging to have marketing and promotional information of third-party companies that we think might be of interest to you, we may disclose your personal information, including information such as your shipping address, billing information, telephone number, and credit card information to nonaffiliated third parties not controlled by Beachbody or Product Partners. If you do not want to us to disclose your personal information to third-party companies, please refer to the Opt-Out Policy below. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"><b>Cookies (again):</b> We may use cookie and IP address information to count and track Web site visits in the aggregate, to personalize the Web site for each unique user, to control the frequency of individual advertisements to individual computers, and to target advertisements and promotions to broad demographic segments. We may also use IP addresses to help diagnose problems with our server, and to administer our Web site. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"><b>Customer Service Issues and Contacts:</b> We may use your email address to contact you in response to customer service complaints you have submitted, to address a problem affecting your use of the service, or to verify information concerning a transaction. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"><b>Transaction Processing:</b> When you make a purchase on our Web site, we may need to provide personal information, including information such as your shipping address, billing information, telephone number, and credit card information, to third parties, including product manufacturers and shipping companies, as necessary solely to complete the transaction.</font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"> <b>Legal Requirements:</b> We may disclose personal information when we deem necessary or appropriate to law enforcement or other entities or third parties as required by law or to protect our rights or the rights of others, to prevent harm to persons or property, to fight fraud, identity theft, or otherwise to comply with the law or legal process, to respond to claims, to protect our systems and customers, to ensure the integrity and operation of our business and systems, or to protect the rights, property, or safety of Beachbody and its employees or others.</font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"><b>Business and Accounting Disclosures:</b> We may also disclose non-identifying transaction information to third parties for the purpose of accounting and record keeping. We may also disclose aggregate user data or non-personal information in order to describe our services to prospective business partners, advertisers, and others, but will do so only in a form that does not identify individual users. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"><b>Other Disclosures:</b> Occasionally we may disclose personal information in other circumstances, but we will only do this if we have explained at the time we collect the information the purpose for which it will be disclosed. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"><b>Opt-Out Policy</b><br>
+  You may opt out of receiving communication from us, from Affiliated Companies, or from other third parties by emailing us at: <a href="mailto:privacy@beachbody.com">privacy@beachbody.com</a> or writing to us at:</font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"> Beachbody c/o Product Partners, LLC<br>
+    Suite 1050    <br>
+    8383 Wilshire Blvd.<br>
+    Beverly Hills, CA 90211 <br>
+    Attention: Privacy Policy Department </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1">In addition, when we contact you via email, we may include instructions to unsubscribe from future emails if you so choose. <br>
+                            <br>
+                            <b>Security</b><br>
+    This Web site has industry-standard security measures in place to protect the loss, misuse, and alteration of the information under our control, and we make good faith efforts to store your personal information in a secure operating environment. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or our online products or services, and you do so at your own risk.<br>
+                            <br>
+                            <b>Other Web sites; links</b><br>
+    We may include links to Web sites operated by our business partners, affiliates, advertisers, and others. These third parties have separate data collection and privacy practices independent from ours, and thus Beachbody cannot be responsible for their policies or activities. Please contact those third parties directly if you have questions about their privacy policies.<br>
+                            <br>
+                            <b>Community Center/Community Chatrooms/Message Boards</b> <br>
+    Our Web site includes online forums, chatrooms, message boards, and other interactive technologies that allow comments, messages, emails, and postings to be associated with a user's name or email address. Any information you post is public information and Beachbody cannot control what use third parties may make of this personal information. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1">All of these forums are public. Please consider this before posting there. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"> <b>How can I correct, update, or delete my information?</b><br>
+    Beachbody does not currently have a method for users to delete the personal information contained in our database. However, you may change or update the personal information we have collected by sending an email to <a href="mailto:privacy@beachbody.com">privacy@beachbody.com</a>. Please include your email address, your order number, the name of the product you purchased, and the information you wish to change. In addition, you may delete the cookie stored on your computer, which will cause our system to perceive you as a new user with no known user data. You may also set your browser to reject cookies, but doing so may prevent you from using some of our services.</font></p>
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>International users</b> <br>
+    Like almost every Web site, Beachbody may be accessed by an international audience. By visiting our Web site and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this policy. In addition, such data may be stored on servers located outside your resident jurisdiction and in jurisdictions which may have less stringent privacy practices than your own. By providing us with your data, you consent to the transfer of such data. </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"> <b>What happens to my information if Beachbody is sold to or merges with another company?</b><br>
+  It is possible that Beachbody and/or any of our assets may be acquired by an unrelated third party. In such a transaction, as the owner of this customer information, we may disclose or sell the information as an asset of the company in conjunction with the sale of our company or the sale of a portion of our assets to a third party. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect.</font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1">
+        <b>Changes to this policy</b><br>
+    This policy may change from time to time. If we make any substantive changes to the policy in the future with regard to how we use your information, we will post those changes on our Web site in this location together with the date of the last update. Your continued use of the Web site after the changes are posted constitutes your agreement to the changes, both with regard to information that we have previously collected from you and with regard to information we collect from you in the future. If you do not agree to the changes, please discontinue your use of our Web site.</font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1">Last changed: 3/22/2004<br>
+                            <br>
+                            <b>Contacting Beachbody</b><br>
+    Please feel free to share any comments and concerns with us. If you have any questions about this privacy policy or the practices of this Web site, please contact: </font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1">Beachbody c/o Product Partners, LLC<br>
+    Suite 1050    <br>
+    8383 Wilshire Blvd.    <br>
+    Beverly Hills, CA 90211 <br>
+    Attention: Privacy Policy Department</font></p>
+  <p><font face="Verdana,Geneva,Arial,Helvetica" size="1"> or email us: <a href="mailto:privacy@beachbody.com">privacy@beachbody.com</a></font></p>
+</blockquote>
+<div align="center">
+															<p><font size="1" face="Verdana,Geneva,Arial,Helvetica">Experiencing problems or have comments? <a href="Javascript:openWindowCustHelp()">Click here</a>.</font></p>
+</div>	
+</td>
+                </tr>
+            </tbody></table></td>
+    </tr>
+    <tr>
+        <td width="2"></td>
+        <td><img src="/images/us/global/globalgraphics/subpage_content_bottom603.gif" alt="" width="603" height="15" border="0"></td>
+    </tr>
+</tbody></table>
+<!-- Bottom Slot and right nav slots -->
+<!-- slots used here are 2, to 9 -->
+                <br>
+                <!-- html SLOT-->
+                <div align="center"> 
+  <table width="604" border="0" cellspacing="0" cellpadding="0"> 
+    <tbody><tr> 
+      <td align="left" bgcolor="#00ccff"><img src="/images/us/global/globalgraphics/box_bluecorner_ul.gif" alt="" height="8" width="8" border="0"></td> 
+      <td align="right" bgcolor="#00ccff"><img src="/images/us/global/globalgraphics/box_bluecorner_ur.gif" alt="" height="7" width="8" border="0"></td> 
+    </tr> 
+    <tr> 
+      <td colspan="2" align="center" bgcolor="#00ccff"> <div align="center"> 
+          <table width="100%" border="0" cellspacing="2" cellpadding="0"> 
+            <tbody><tr> 
+              <td align="center"><font size="1" face="Verdana,Geneva,Arial,Helvetica"> <a href="/index.jsp">BEACHBODY HOME</a> || <a href="/jump.jsp?itemID=106&amp;itemType=CATEGORY&amp;path=1%2C3">ABOUT US</a> || <a href="http://ssl.linksynergy.com/php-bin/reg/sregister.shtml?mid=2548" target="_blank">BECOME AN AFFILIATE</a> || <a href="/templates/aboutusgateway.jsp?ruleID=2210&amp;itemID=106&amp;itemType=GATEWAY&amp;showChanges=true">JOBS AT BEACHBODY.COM™</a><br> 
+                <a href="/templates/aboutusgateway.jsp?ruleID=2209&amp;itemID=106&amp;itemType=GATEWAY&amp;showChanges=true">TELEVISION
+                SCHEDULE</a> || <a href="http://www.mybeachbody.com">SUPPORT
+                 CENTER</a> || <a href="/templates/aboutusgateway.jsp?ruleID=2207&amp;itemID=106&amp;itemType=GATEWAY&amp;showChanges=true">PRIVACY
+                POLICY</a> || <a href="/templates/aboutusgateway.jsp?ruleID=2208&amp;itemID=106&amp;itemType=GATEWAY&amp;showChanges=true">TERMS
+                OF USE<br> 
+                </a><a href="/jump.jsp?itemID=222&amp;itemType=CONTENT&amp;path=63">CUSTOMER SERVICE</a><br> 
+                <br> 
+                Experiencing problems or have comments? <a href="/jump.jsp?itemID=222&amp;itemType=CONTENT&amp;path=63">Click here</a>.<br> 
+                </font><br> 
+                <font size="1" face="Verdana,Geneva,Arial,Helvetica">© 2004 Product Partners, LLC. ALL RIGHTS RESERVED.<br> 
+                </font></td> 
+            </tr> 
+          </tbody></table> 
+        </div></td> 
+    </tr> 
+    <tr> 
+      <td align="left" bgcolor="#00ccff"><img src="/images/us/global/globalgraphics/box_bluecorner_ll.gif" alt="" height="8" width="8" border="0"></td> 
+      <td align="right" bgcolor="#00ccff"><img src="/images/us/global/globalgraphics/box_bluecorner_lr.gif" alt="" height="8" width="8" border="0"></td> 
+    </tr> 
+  </tbody></table> 
+</div>
+
+            </td>
+            <td valign="top">
+                <div align="left">
+		<table width="163" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td bgcolor="#0066cc" width="2">
+                                <img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="2" height="10" border="0"></td>
+                            <td bgcolor="#00ccff">
+                                <table width="162" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr>
+                                        <td colspan="2" align="center">
+                                            <a href="/jump.jsp?itemID=300&amp;itemType=SUCCESS_STORY_HOME">
+                                            <img src="/images/us/global/globalnav/sidebar_sub_success.gif" alt="Success Stories" width="162" height="30" border="0"></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" align="center" bgcolor="#00ccff">
+                                        <table width="162" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td colspan="2" align="center" bgcolor="#00ccff"><b><a href="/jump.jsp?itemID=382&amp;itemType=CONTENT&amp;path=23"><font size="1" color="#0066cc" face="Verdana,Geneva,Arial,Helvetica">Diva
+            D. </font></a></b></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#00ccff"><a href="/jump.jsp?itemID=382&amp;itemType=CONTENT&amp;path=23"><img src="/images/us/local/v3/success/2004/divad_before_sm.jpg" alt="Before" width="60" height="100" border="0"></a></td>
+    <td align="center" bgcolor="#00ccff"><a href="/jump.jsp?itemID=382&amp;itemType=CONTENT&amp;path=23"><img src="/images/us/local/v3/success/2004/divad_after_sm.jpg" alt="after" width="60" height="100" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#00ccff"><font size="1" color="#0066cc" face="Verdana,Geneva,Arial,Helvetica">BEFORE</font></td>
+    <td align="center" bgcolor="#00ccff"><font size="1" color="#0066cc" face="Verdana,Geneva,Arial,Helvetica">AFTER</font></td>
+  </tr>
+</tbody></table>
+</td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td bgcolor="#0066cc" width="2">
+                                <img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="2" height="10" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td width="2"></td>
+                            <td bgcolor="#00ccff">
+                                <img src="/images/us/global/globalgraphics/sub_success_bottom.gif" alt="" width="162" height="11" border="0"></td>
+                            <td width="2"></td>
+                        </tr>
+                    </tbody></table>
+		<br>
+	</div>
+                <div align="center">
+                    <table width="155" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td>
+                                <a href="http://www.mybeachbody.com"><img border="0" alt="Community Center and Message Boards" src="/images/us///local/kickers/right_nav/kb_160x90_community.gif"></a></td>
+                        </tr>
+                        <tr>
+                            <td><img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="10" height="5" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td><a href="/templates/productgateway3_7slot.jsp?ruleID=2139&amp;itemID=105&amp;itemType=GATEWAY&amp;showChanges=true&amp;KickerID=70&amp;KICKER"><img border="0" alt="" src="/images/us///local/kickers/right_nav/kb_160x90_hollywood2004_02.gif"></a></td>
+                        </tr>
+                        <tr>
+                            <td><img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="10" height="5" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td><a href="/jump.jsp?itemID=300&amp;itemType=CONTENT&amp;path=19%2C66&amp;KickerID=134&amp;KICKER"><img border="0" alt="2004 Success Stories" src="/images/us///local/kickers/right_nav/2004_successstories.gif"></a></td>
+                        </tr>
+                        <tr>
+                            <td><img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="10" height="5" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td><a href="/shopping/browse/gatewaymain.jsp?ruleID=834&amp;itemID=0&amp;itemType=GATEWAY&amp;showChanges=true&amp;KickerID=40&amp;KICKER"><img border="0" alt="Beach House" src="/images/us///local/kickers/right_nav/kb_160x90_beachhouse.gif"></a></td>
+                        </tr>
+                        <tr>
+                            <td><img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="10" height="5" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td><img border="0" src="/images/us///global/globalgraphics/spacer01.gif"></td>
+                        </tr>
+                        <tr>
+                            <td><img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="10" height="5" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td><img border="0" src="/images/us///global/globalgraphics/spacer01.gif"></td>
+                        </tr>
+                    </tbody></table>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><br>
+            </td>
+            <td valign="top">
+                <img src="/images/us/global/globalgraphics/spacer01.gif" alt="" width="166" height="9" border="0"></td>
+        </tr>
+        </tbody></table>
+        </div>
+        <p></p>
+
+
+
+
+</body></html>
