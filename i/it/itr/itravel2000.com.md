@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itravel2000.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602204526id_/http%3A//www.itravel2000.com/privacyandsecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itravel2000.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010214534id_/http%3A//www.itravel2000.com/privacyandsecurity.htm) for the most accurate reproduction.*
 
 # Canada's #1 Online Travel Company - itravel2000 Privacy and Security
 
@@ -42,7 +42,7 @@ itravel2000 takes your privacy seriously and will not share your Personally iden
 When you make a reservation or purchase online with itravel2000, we will share information about you and your purchase with the applicable airline, hotel, car-rental agency, tour operator or other travel suppliers. We will only provide the necessary information to ensure your travel arrangements are confirmed with these travel suppliers. The travel suppliers will use your credit-card information to process your ticket or reservation.
 
 **Opting-in to Receive Our Newsletter**  
-By opting in to receive our newsletter, you are eligible to win monthly travel prizes. You may opt out of the newsletter by using the [unsubscribe](https://web.archive.org/web/20040602204526id_/http%3A//www.itravel2000.com/unsubscribe.htm) link on the newsletter when you receive it or by [clicking here unsubscribe](https://web.archive.org/web/20040602204526id_/http%3A//www.itravel2000.com/unsubscribe.htm). If you choose to opt out of receiving the newsletter your email address will be deleted from our database and you will no longer receive it. This also means that you will no longer be eligible to win monthly travel prizes. 
+By opting in to receive our newsletter, you are eligible to win monthly travel prizes. You may opt out of the newsletter by using the [unsubscribe](https://web.archive.org/web/20041010214534id_/http%3A//www.itravel2000.com/unsubscribe.htm) link on the newsletter when you receive it or by [clicking here unsubscribe](https://web.archive.org/web/20041010214534id_/http%3A//www.itravel2000.com/unsubscribe.htm). If you choose to opt out of receiving the newsletter your email address will be deleted from our database and you will no longer receive it. This also means that you will no longer be eligible to win monthly travel prizes. 
 
 **Communicating With You**  
 If you are a member, contest entrant, or purchaser, we will occasionally use your e-mail address or PII to contact you for the purpose of:
