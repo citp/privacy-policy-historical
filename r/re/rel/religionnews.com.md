@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2004-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040409224635id_/http%3A//www.religionnews.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209042917id_/http%3A//www.religionnews.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
    
 PRIVACY POLICY
-
-Last Revised **[12/01]**
 
 Your use of **RELIGIONNEWS.COM** constitutes agreement to its terms and conditions. 
 
@@ -49,7 +47,7 @@ KIDS AND PARENTS
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at [feedback@RELIGIONNEWS.COM ****](mailto:feedback@RELIGIONNEWS.COM).
+If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at [info@RELIGIONNEWS.COM ****](mailto:info@RELIGIONNEWS.COM).
 
 If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address: 
 
