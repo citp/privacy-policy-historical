@@ -1,35 +1,39 @@
-> *The following text is extracted and transformed from the gis.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604073308id_/http%3A//www.gis.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gis.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604182248id_/http%3A//www.gis.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-ESRI respects the privacy of every individual who visits our Web sites or responds to our interactive advertisements. This privacy statement outlines the information ESRI collects via GIS.com and how we use that information. This statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit this Web site.
+Environmental Systems Research Institute, Inc. (ESRI), values the privacy of those who visit our Web sites and register for our software and services online. We think it is important for you to understand when and why we collect personally identifiable information, and how we may use it. This Privacy Statement describes ESRI data collection and use policies. Please read the entire Privacy Statement before providing any personally identifiable information to us.
 
-Personally Identifiable Information
+Notice
 
-ESRI collects personally identifiable information such as your name, address, telephone number, or e-mail address only if you provide that information to us voluntarily.
+ESRI collects personally identifiable information such as your name, address, telephone number, or e-mail address only if you provide this information to us voluntarily. The voluntary information we collect is used for internal verification to complete transactions, insure appropriate legal use of licensed ESRI software, provide notification to licensees about updates to ESRI software, and to help provide technical and product support to our users. Where appropriate, ESRI may pass this data to the exclusive ESRI International Distributor who provides the above services in your country.
 
-The voluntary information we collect is used for internal review and to notify visitors about updates to our Web site. We will contact you only if you request that we do. We will not share your information with third parties.
+ESRI may also use your name, address, telephone number, or e-mail address to send you marketing materials, user conference information, and/or newsletters, unless you notify us that you do not want to receive these materials. Occasionally, ESRI uses the services of bonded mailing houses that are authorized to use your personally identifiable data only for the benefit of ESRI.
 
-Otherwise, ESRI generally will not disclose your personally identifiable information unless required to do so by law or in the good faith belief that such action is necessary to (1) conform to the edicts of the law, and (2) protect and defend the rights or property of ESRI.
+Collection
 
-Information Collected Automatically
+Certain information, such as the Internet protocol address of your computer, may be stored through the use of "cookies" intended to speed access to ESRI information and services. A cookie is a short piece of data that can be used to tell us when you visit our Web sites and can track your browsing habits. ESRI does not use cookies to store information such as credit card numbers, telephone numbers, or other sensitive information. A cookie is not an executable program and cannot do anything to your machine. To maintain your privacy, you can disable your browser's ability to accept cookies
 
-We collect your domain name (such as gis.com), the type of Internet browser you use, and the operating system you use automatically. This information is used only for internal review to help us improve the content of our Web page. The information is not shared with any other company or used by ESRI to contact visitors.
+During the installation process for certain ESRI software, information may be placed on your hard drive. This is done to enable the proper functioning of the software and to insure it is used only when properly licensed. Certain ESRI sites and software installations may require registration to gain access to special services, license keys, or other features. This information will be used to provide support and deliver specialized services.
 
-Children
+ESRI also collects personally identifiable information you provide when you order and register software, data, or services; enter contests; order newsletters; register for training or conferences; or make requests that require a direct response to you. 
 
-ESRI does not intentionally collect personally identifiable information such as name, address, telephone number, or e-mail address from children. However, users of any age can use or contribute to the search utilities available on the site. Contributing requires a name and e-mail address.
+Choice
 
-If a child has provided us with personally identifiable information and the parent or guardian of that child would like that information deleted from our records, the parent or guardian should contact us at [giswebmaster@gis.com](mailto:giswebmaster@gis.com). We will use reasonable efforts to delete the child's information from our existing files.
+ESRI will contact you or send you marketing information about software or services unless you notify ESRI that you do not wish to receive it. You may notify us by sending an e-mail to [info@esri.com](mailto:info@esri.com) as indicated below. Keep in mind, however, that you may not receive information on the ESRI User Conference or other valuable information as a result of your election to be removed from mailing lists.
 
-Information We May Place Automatically on Your Computer's Hard Drive
+Other than as described in this Privacy Statement, ESRI will not disclose your personally identifiable information unless required to do so by law or in the good faith belief that such action is necessary (1) to conform to the edicts of the law, (2) to protect and defend the rights or property of ESRI, or (3) as part of a transfer of assets to a successor in interest.
 
-At the moment we do not use cookies on GIS.com, but we may in the future. "Cookies" are used to store information you provide to prevent you from having to enter that same information repeatedly and to help us collect minimal information to maintain and improve our site.
+Except as stated herein, ESRI's corporate policy is not to rent, sell, or otherwise permit access by third parties to databases comprised of your personally identifiable information.
 
-Cookies cannot be used to collect personal information about you, to collect information from your files, or to do damage to your files. A cookie is a single line of code with very limited functions. For more information about cookies, we recommend visiting <http://www.ciac.org/ciac/bulletins/i-034.shtml>.
+Access
 
-With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
+ESRI will permit you to access information about you in our database by contacting [info@esri.com](mailto:info@esri.com). If you believe any of the information is incorrect or needs updating, please advise us. We will correct our records upon verification of the requested change. If you no longer wish to receive e-mail or postal notifications about software, services, or special promotions, please let us know by sending an e-mail to us at [info@esri.com](mailto:info@esri.com) and specify that you do not want to receive these notifications. Please provide us with your exact name and address as well as a description of the publication or mail piece you received. We will use reasonable efforts to refrain from including you when sending marketing materials to ESRI clients by noting your election in our database.
 
-Links to Other Web Sites
+Security
 
-GIS.com offers links to hundreds of GIS-related Web sites. ESRI assumes no responsibility for the information practices of these sites, and these links do not imply affiliation or endorsement of the linked sites.
+ESRI will take reasonable and prudent precautions to insure that your personally identifiable information is protected against unauthorized access, use, or disclosure.
+
+Enforcement
+
+If you believe for any reason that ESRI has not followed these principles, please contact us at [info@esri.com](mailto:info@esri.com) and ESRI will act promptly to investigate, correct as appropriate, and advise you of the correction. Please identify the issue as a Privacy Statement concern in your communication to ESRI.
