@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the unrealtournament.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215542id_/http%3A//us.infogrames.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrealtournament.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209055552id_/http%3A//us.infogrames.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Atari
+# Atari - US - Privacy
 
-_Privacy Policy Effective as of 11/3/03_
+| 
+
+_Privacy Policy Effective as of 07/01/2004_
 
 [](http://www.esrb.org/confirm/Infogrames-confirmation.htm)Atari's Online Privacy Policy   
 Atari, Inc. ("Atari") is very concerned with the privacy rights of our online visitors and customers and is committed to protecting the information collected about you. We have adopted an Online Privacy Policy that guides how we collect, store and use the information you provide while visiting any of the websites governed by this Privacy Policy (as listed below).
@@ -30,7 +32,7 @@ Because the website you are currently visiting displays the ESRB Privacy Online 
 The website you are currently visiting is operated by Atari, Inc. located at   
 417 Fifth Avenue, New York, NY 10016. This Privacy Policy currently applies to the following website(s) operated by Atari (collectively referred to as "Atari Websites" or "our Websites"):  
 www.atari.com  
-www.atari-support.com  
+www.atarisupport.com  
 www.gameregister.com  
 www.rollercoastertycoon.com  
 www.funkidsgames.com  
@@ -85,7 +87,7 @@ In the future, if we wish to include additional websites under this Privacy Poli
 
 Please note that this Privacy Policy applies only to information submitted and collected online through the Atari Websites (as listed above), and does not apply to information that may be collected by Atari offline. In addition, this Privacy Policy does not extend to websites maintained by our international affiliates (e.g., Atari in France, United Kingdom, Italy, etc.) or by other companies or organizations to which we link (e.g., websites of third party companies). When you link to these foreign sites or any other sites from a website listed above, their privacy policies will apply. 
 
-Please note that by using our Websites, you signify your assent to Atari's Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Websites. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our Websites will signify your acceptance of these changes. 
+Please note that by using our Websites, you signify your assent to Atari's Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Websites. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on our Websites. Your continued use of our Websites will signify your acceptance of these changes. 
 
 This Privacy Policy reflects the law of the United States. In France, the collection of personal information on the Internet is governed by French law no. 78-17 of January 6, 1978. 
 
@@ -101,6 +103,7 @@ In order to give you the best experience on our Websites, Atari may collect info
 
   * Community forum  
 
+  * Online Store
   * Technical support  
 
   * Contests, sweepstakes, and other promotions  
@@ -112,14 +115,14 @@ In order to give you the best experience on our Websites, Atari may collect info
 
 
   
-Please note that depending on the Atari website that you are visiting, some amenities listed above may not be available. When available, the types and amount of personal information collected will vary depending on the activity. The requested personal information may include: your name, home address, telephone number, and e-mail address. For some activities, we may ask you to create a username and password and to provide other non-personal information such as your age or date of birth, gender, game and platform preferences (including information about the games and hardware you own), hobbies and interests, and other information (also known as "demographic information"). If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. Combining data allows us to customize the notices we send you and the content we provide you according to your interests and preferences. For more on how we use your information, please read the section on use below.   
+Please note that depending on the Atari website that you are visiting, some amenities listed above may not be available. When available, the types and amount of personal information collected will vary depending on the activity. The requested personal information may include: your name, home address, telephone number, e-mail address, and (for those purchasing products online) credit card information, including billing and shipping addresses. For some activities, we may ask you to create a username and password and to provide other non-personal information such as your age or date of birth, gender, game and platform preferences (including information about the games and hardware you own), hobbies and interests, and other information (also known as "demographic information"). If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. Combining data allows us to customize the notices we send you and the content we provide you according to your interests and preferences. For more on how we use your information, please read the section on use below.   
 
 
 No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives. 
 
   
 **How does Atari use the information it collects?**  
-Generally, information that we collect for a particular purpose is used for that purpose only. For example, information collected from those who register on our Websites is used to provide registrants the benefits associated with registration (e.g., subscription to our newsletter or access to the latest game news and exclusive promotions). Similarly, if you sign up for membership in our online community, your information will be used to give you access to our community forums and other community features. In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., to have your name entered into a contest when subscribing to our newsletter or vice versa). If you choose to receive these additional services, Atari will use your information to provide them to you.  
+Generally, information that we collect for a particular purpose is used for that purpose only. For example, information collected from those who register on our Websites is used to provide registrants the benefits associated with registration (e.g., subscription to our newsletter or access to the latest game news and exclusive promotions). Similarly, if you sign up for membership in our online community, your information will be used to give you access to our community forums and other community features. And, of course, credit card information is used to fulfill your purchase. In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., to have your name entered into a contest when subscribing to our newsletter or vice versa). If you choose to receive these additional services, Atari will use your information to provide them to you.  
 We may use your email address to send you service-related announcements that tell you about updates to our Privacy Policy, new areas or features on our Websites, changes to our online service or technical support policies, and other related changes.   
 We may also use your personal and demographic information for our internal marketing and demographic studies, so we can constantly improve the online products and services we provide you and to better meet your needs. For example, demographic information is used to tailor our visitor's experience on our Websites, showing them content that we think they might be interested in, and displaying content according to their preferences.   
 In some areas of our Websites, you may be able to submit information about yourself in a business capacity. Although we can assure you that any personal information gathered in this context will be used solely for its intended purpose, such information is not subject to this Privacy Policy. These areas typically include an employment section where you can submit your resume online and/or an investor relations section where you can fill out an online form to request financial information about Atari. 
@@ -193,9 +196,7 @@ ESRB Privacy Online
 845 Third Avenue  
 New York, NY 10022
 
-This Privacy Policy was last updated on November 3, 2003.  
+This Privacy Policy was last updated on July 1, 2004.  
 
-
-[Printable version](https://web.archive.org/web/20040602215542id_/http%3A//us.infogrames.com/privacy_policy.htm)
 
 | 
