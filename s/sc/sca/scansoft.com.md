@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scansoft.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203052600id_/http%3A//www.scansoft.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scansoft.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330200137id_/http%3A//www.scansoft.com/privacy.asp) for the most accurate reproduction.*
 
 # ScanSoft's Online Privacy Policy
 
@@ -20,4 +20,4 @@ Cookies allow us to personalize our site for you and to provide you with informa
 
 ### _Questions or Comments_
 
-ScanSoft Inc. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to contact us at [privacy@scansoft.com](mailto:privacy@scansoft.com). Because technologies on the Internet change so quickly, ScanSoft reserves the right to modify its Privacy Statement from time to time. More legal information can be found in ScanSoft's [Terms of Use Statement](https://web.archive.org/web/20001203052600id_/http%3A//www.scansoft.com/TermsofUse.asp).
+ScanSoft Inc. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to contact us at [privacy@scansoft.com](mailto:privacy@scansoft.com). Because technologies on the Internet change so quickly, ScanSoft reserves the right to modify its Privacy Statement from time to time. More legal information can be found in ScanSoft's [Terms of Use Statement](https://web.archive.org/web/20010330200137id_/http%3A//www.scansoft.com/TermsofUse.asp).
