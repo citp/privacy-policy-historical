@@ -1,12 +1,19 @@
-> *The following text is extracted and transformed from the marieclaire.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624004015id_/http%3A//www.ivillage.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marieclaire.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230035322id_/http%3A//www.ivillage.com/ivillage/support/pages/0%2C%2C606141_614685%2C00.html) for the most accurate reproduction.*
 
-# iVillage: The Internet for Women
+# Privacy Policy for iVillage
 
-Privacy Policy for iVillage Inc.
+|  |   
+| [](http://www.ivillage.com/)| |   
+---|---|---  
+|  |   
+  
+  
+Privacy Policy for iVillage Inc.  
+
 
 (As of June 22, 2001) 
 
-As the leading provider of solutions for women online, we want you to feel comfortable searching and exchanging information on our site. We realize the importance of feeling safe online and are fully committed to ensuring that your privacy is respected and protected. Our Privacy Policy below outlines the type of information we typically request of you while you are within the iVillage Network, as well as ways in which we process and, sometimes, disseminate information collected from you. You are, of course, free to use the majority of our site without providing any personal information. The iVillage Network is defined as all English-language, United States based web sites, web pages and channels owned, controlled and/or operated by iVillage Inc., specifically including but not limited to Astrology.com, Diet & Fitness, Food, Hearst magazine web sites (e.g. Cosmopolitan, Redbook, Good Housekeeping, etc.), Home & Garden, iVillage Health, Lamaze.com, MoneyLife, Parents Place, ParentSoup, Pets, Relationships, Substance.com, Women.com and Work. 
+As the leading provider of solutions for women online, we want you to feel comfortable searching and exchanging information on our site. We realize the importance of feeling safe online and are fully committed to ensuring that your privacy is respected and protected. Our Privacy Policy below outlines the type of information we typically request of you while you are within the iVillage Network, as well as ways in which we process and, sometimes, disseminate information collected from you. You are, of course, free to use the majority of our site without providing any personal information. The iVillage Network is defined as all English-language, United States based web sites, web pages and channels owned, controlled and/or operated by iVillage Inc., specifically including but not limited to Astrology.com, Diet & Fitness, Food, Hearst magazine web sites (e.g. Cosmopolitan, Redbook, Good Housekeeping, etc.), Home & Garden, iVillage Health, Lamaze.com, MoneyLife, Parents Place, ParentSoup, Pets, Relationships, iVillage Beauty, Women.com and Work. 
 
 We frequently provide information and links to third party advertisers or partners. Information on how to access the privacy practices of these third parties is included below as well. If you have any questions or concerns that we do not answer in this Policy, please send us an email at [feedback@mail.ivillage.com](mailto:feedback@mail.ivillage.com)
 
@@ -126,3 +133,5 @@ Personal information about children is a concern for all of us. At iVillage, we 
 If you have questions about this Privacy Policy or anything else about iVillage, you can contact us at the following email address: [feedback@mail.ivillage.com](mailto:feedback@mail.ivillage.com)
 
 
+
+Created: 01/20/2004   Reviewed: 07/15/2004
