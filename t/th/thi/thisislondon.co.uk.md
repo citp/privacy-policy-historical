@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216033759id_/http%3A//www.thisislondon.co.uk/dynamic/generic/review.html%3Fin_review_id%3D384830) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606110403id_/http%3A//www.thisislondon.co.uk/dynamic/generic/review.html%3Fin_review_id%3D384830) for the most accurate reproduction.*
 
 # Untitled Document
 
