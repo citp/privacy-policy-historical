@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2003-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030418173733id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy%26t0%3D35040-2682880) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2003-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031130021448id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy%26t0%3D1656034-70775762) for the most accurate reproduction.*
 
 # Abcam - Antibodies & Reagents, find any antibody
 
