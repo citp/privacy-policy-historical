@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsubmit.com privacy policy that was archived on 2004-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041018015347id_/http%3A//www.localsubmit.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsubmit.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308165459id_/http%3A//www.localsubmit.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
