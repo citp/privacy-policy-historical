@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212142816id_/http%3A//ddiworld.com/utilities/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207200847id_/http%3A//ddiworld.com/utilities/privacy.asp) for the most accurate reproduction.*
 
 # DDI World
 
@@ -19,6 +19,6 @@ Any personal information, such as your e-mail and/or postal addresses, telephone
 
 DDI may also use such information to provide advance notice of events and new products and services. DDI does not share any personally identifiable information with any other individual or organization for any purpose. DDI uses the collected information to improve the content of our web site, to enhance existing products and services, and to communicate with you more effectively. However, despite all best efforts, Internet and e-mail communications are never 100% confidential, and it is possible that information transmitted to us may be read or obtained by other parties.
 
-The entire content (including images, text and tonal attributes) of www.ddiworld.com is © 2000-2001 Development Dimensions International and any commercial use requires the written permission of DDI. All rights reserved. DDI actively and aggressively enforces its intellectual property rights to the fullest extent of the law. 
+The entire content (including images, text and tonal attributes) of www.ddiworld.com is © 2000-2002 Development Dimensions International and any commercial use requires the written permission of DDI. All rights reserved. DDI actively and aggressively enforces its intellectual property rights to the fullest extent of the law. 
 
 DDI and the DDI logo are federally registered service marks of Development Dimensions International. The use or misuse of these service marks is expressly prohibited and may violate federal and state trademark law. All other registered service marks are the property of their respective owners. 
