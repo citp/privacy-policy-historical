@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815113051id_/http%3A//gunsandammo.com/user/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608204713id_/http%3A//www.gunsandammo.com/user/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # GunBroker.com Privacy Policy
 
+##   
+Our Privacy Policy  
+  
+**GunBroker.com** believes you have a right to your privacy. GunBroker.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this Web site.  
+  
+###   
+General  
+  
 Our site's registration form requires users to give us valid and accurate contact information (like your name and email address) and financial information (like your account or credit card numbers). The customer's contact information is used to contact the customer when necessary. Financial information that is collected is used to bill the user for products and services and to collect on debts incurred through the use of this site. Other than to facilitate the completion of an auction transaction as specified below or for billing and collections purposes, contact and financial information is never shared with any third party.
 
 If you place a bid on an item, your contact information including name, address, email, and telephone number may be shared with the seller to facilitate the transaction. If you list an item for sale, your contact information including name, address, email, and telephone number may be shared with the bidder(s) to facilitate the transaction. To facilitate the investigation of fraud or illegal activity we may turn information over to bona-fide law enforcement agencies.
@@ -14,4 +22,48 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 We run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the customer when necessary. We do not do unsolicited mailing to users who register for our contests.
 
-This site contains links to other sites. GunBroker.com is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. GunBroker.com is not responsible for the privacy practices or the content of such Web sites.  
+  
+###   
+Banner Advertising  
+  
+We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.   
+  
+###   
+Public Forums  
+  
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We strongly recommend that you do not post your email address or other personal information in our forums because this information is publicly available for anyone to see and unscrupulous third parties may use this information to form 'spam' lists or may otherwise misuse this information.  
+  
+###   
+Security  
+  
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers are locked in a secure data center with 24 hour security monitoring and pass-key access. Our database is password protected using strong security to prevent access by unauthorized persons.  
+  
+###   
+Choice / Opt-out  
+  
+This site sends three types of email communications: 1.) notifications related to auction activity, 2.) 'Saved Search' notifications, and 3.) opt-in newsletters and promotional email messages.
+
+1.) Notifications related to auction activity are generated as a result or registering for the auction site, bidding on items, or listing items for sale. These notifications can include bid confirmations, winning bidder notices, item listing confirmations, item sold notifications, monthly statements, billing messages, and other notifications related to activity on the auction site. You cannot opt out of receiving notifications related to auction activity, however, if you do not bid nor list items and your account balance is zero you will not receive any such notifications from this site.
+
+If you are a registered buyer or seller on this auction site we may send you certain notices, such as notices of a substantial change in the policies and/or operation of our site. These notices are sent extremely infrequently and cannot be opted out of other than by closing your account with us.
+
+2.) Saved Search notifications are generated at your request to inform you when items matching certain search criteria have been listed on the auction site. There are removal instructions at the bottom of every such notification message. You can delete your saved searches to stop receiving the notifications by going to [My Auctions](https://web.archive.org/auction/MyAuctions.asp) then clicking [Saved Searches](https://web.archive.org/auction/MyAuctions.asp?Tab=5). Removal instruction appear on that page.
+
+3.) Opt-in newsletters and promotional email messages are mailing lists that you choose to subscribe to during auction registration or by using various opt-in pages or forms on this site. All such lists are 100% opt-in; in other words you will never receive any newsletter or promotional email from this site unless you have specifically elected to be on the applicable email list. You may opt out of these mailings at any time and we have made it very easy to do so. To opt out of future newsletter or promotional email [click here](http://mail.gunbroker.com/members.asp) and follow the instructions on the subsequent pages.
+
+You can access the OptIn / OptOut pages at any time by clicking [For Buyers](https://web.archive.org/user/ToolsForBuyers.asp) or [For Sellers](https://web.archive.org/user/ToolsForSellers.asp) from the top of any auction site page, then clicking [OptIn Mail and Newsletter Preferences](https://web.archive.org/user/OptInMailManagement.asp)  
+  
+###   
+Contacting Us  
+  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at the following address.  
+  
+Privacy Issues  
+GB Holdings, Inc.  
+PO Box 19137  
+Atlanta, GA 31126
+
+or 
+
+email: [support@gunbroker.com](mailto:support@gunbroker.com)
