@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209084352id_/http%3A//www.healthywomen.org/content.cfm%3FL1%3D104) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308102610id_/http%3A//www.healthywomen.org/content.cfm%3FL1%3D104) for the most accurate reproduction.*
 
-# Healthywomen.org
+# Privacy Policy
 
+---  
+| Call Us Toll Free **1-877-986-9472** |   
+---|---  
+|  |  | Privacy Policy  
+---  
+  
   * Introduction
   * How is Personal Information Requested and/or Collected and Used at Healthywomen.org?
   * How Does Healthywomen.org Disclose Information?
@@ -11,6 +17,7 @@
   * Information from Third Parties
   * NWHRC Partners
   * NWHRC Links 
+  * Electronic Newsletters
   * Contacting the NWHRC
   * Modifying Personal Information
   * Updating the Privacy Policy
@@ -161,6 +168,19 @@ Back to top
 * * *
 
   
+**Electronic Newsletters**
+
+The National Women’s Health Resource Center (NWHRC) offers free e-mail newsletters. They include the electronic version of the bi-monthly _National Women’s Health Report_ ; _HealthyWomen Take 10_ , a monthly e-newsletter, and two editions of _News from the NWHRC_ , one for consumers and one for health care professionals, which are mailed twice a month.
+
+Anyone can subscribe to these newsletters; the only information that is required is a valid e-mail address. NWHRC sends e-mail newsletters only to only to those who have specifically given us their permission to mail them to them. NWHRC will never share, sell or rent your newsletter subscriber data or personal information with third parties without your advance permission. 
+
+All e-newsletters offered by NWHRC contain a remove link at the bottom of the message. A subscriber may remove their e-mail address permanently from the list by clicking the link and selecting the “unsubscribe” function. 
+
+Back to top
+
+* * *
+
+  
 **Contacting the NWHRC**
 
 Every page of the web site offers the consumer the opportunity to contact the NWHRC with any questions concerning one’s health, and existing policies, including the Disclaimer, Privacy Policy, Advertising Policy, and Editorial Policy. These questions are directed to [info@healthywomen.org](mailto:info@healthywomen.org). 
@@ -198,4 +218,6 @@ Due to the rapidly evolving technologies on the Internet, we reserve the right t
 
 Back to top
 
-Last updated January 25, 2001
+Last updated March 7, 2005  
+  
+ 
