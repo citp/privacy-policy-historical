@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013062049id_/http%3A//www.intertrust.com/main/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404222433id_/http%3A//www.intertrust.com/main/home/privacy.html) for the most accurate reproduction.*
 
 # Intertrust Technologies – Privacy
 
