@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603163441id_/http%3A//rainbownation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607153701id_/http%3A//www.rainbownation.com/privacy.asp) for the most accurate reproduction.*
 
-# Rainbow Nation - Privacy Policy
+# Privacy Statement
 
 |  |   
 | The Rainbow Nation Privacy Statement |   
@@ -19,10 +19,10 @@ We at Rainbow Nation have created this privacy statement in order to demonstrate
 | We use your IP address to help diagnose problems with our server and to administer our Web site.  |   
 |    |   
 |  Cookies |   
-| Our Site uses cookies to deliver content specific to your interests. We also use cookies to save your password so you don't have to re-enter it each time you visit our site. |   
+| Our site may use cookies to deliver content specific to your interests where necessary. Our advertisers may also use cookies to gather information.   |   
 |   |   
 |  Advertisers |   
-| We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. |   
+| We use external advertising companies to display banners on our site. These banners may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by the external advertising companies, and we do not have access to this information. |   
 |    |   
 |  Registration Forms |   
 | 
@@ -70,16 +70,6 @@ This site contains links to other sites. Rainbow Nation is not responsible for t
 | 
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-|   
-|   |   
-|  User Activity Logging |   
-| 
-
-We use WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click here: 
-
-  
-<http://www.webtrendslive.com/privacy_policy.htm>
 
 |   
 |   |   
