@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordreference.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204174627id_/http%3A//wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordreference.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406023943id_/http%3A//wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # WordReference.com Privacy Policy
 
@@ -9,10 +9,10 @@ Word
 Reference  
 .com**
 
-[Home](https://web.archive.org/web/20041204174627id_/http%3A//wordreference.com/index.htm) [  
-FAQ](https://web.archive.org/web/20041204174627id_/http%3A//wordreference.com/english/FAQ.htm)  
+[Home](https://web.archive.org/web/20050406023943id_/http%3A//wordreference.com/index.htm) [  
+FAQ](https://web.archive.org/web/20050406023943id_/http%3A//wordreference.com/english/FAQ.htm)  
 [About Us  
-](https://web.archive.org/web/20041204174627id_/http%3A//wordreference.com/english/Privacy%20Policy.htm)
+](https://web.archive.org/web/20050406023943id_/http%3A//wordreference.com/english/Privacy%20Policy.htm)
 
 | a | 
 
@@ -32,6 +32,6 @@ We use a number of third-party advertising companies to serve ads when you visit
 Third Party Cookies  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. **Data Collection and Opt Out    
 **  
-WordReference.com, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. WordReference.com cannot use these cookies to personally identify you in any way.  If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. If you wish to opt out of the data collection, please refer to the doubleclick link above or write us at the address below.
+WordReference.com, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. WordReference.com cannot use these cookies to personally identify you in any way.  If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. If you wish to opt out of the data collection, please refer to the link above or write us at the address below.
 
-If you have any additional questions about WordReference.com's dedication to consumer privacy, please contact us at [comment04@WordReference.com](mailto:comment04@WordReference.com).
+If you have any additional questions about WordReference.com's dedication to consumer privacy, please search for and then ask your question in the [WordReference language forums](http://forum.wordreference.com/).
