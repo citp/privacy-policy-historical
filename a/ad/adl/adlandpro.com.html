@@ -1,48 +1,11 @@
-<!--The following is the downloaded HTML source of the adlandpro.com privacy policy that was archived on 2002-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601123030id_/http%3A//www.adlandpro.com/PrivacyStatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adlandpro.com privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208054141id_/http%3A//www.adlandpro.com/PrivacyStatement.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
 <title>AdlandPro - Privacy Statement</title>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -113,89 +76,6 @@ function SelectIt(){
 
 
 
-var expDays = 1; // number of days the cookie should last
-
-
-var page = "http://www.freebonanza.com/partner.asp?ref=A-963";
-
-// var windowprops ="status,left=10,top=10,width=550,height=650,resizable=yes,scrollbars=yes,menubars=no";
-
- var windowprops =""
-
-
-function GetCookie (name) {
-var arg = name + "=";
-var alen = arg.length;
-var clen = document.cookie.length;
-var i = 0;
-while (i < clen) {
-var j = i + alen;
-if (document.cookie.substring(i, j) == arg)
-return getCookieVal (j);
-i = document.cookie.indexOf(" ", i) + 1;
-if (i == 0) break;
-}
-return null;
-}
-function SetCookie (name, value) {
-var argv = SetCookie.arguments;
-var argc = SetCookie.arguments.length;
-var expires = (argc > 2) ? argv[2] : null;
-var path = (argc > 3) ? argv[3] : null;
-var domain = (argc > 4) ? argv[4] : null;
-var secure = (argc > 5) ? argv[5] : false;
-document.cookie = name + "=" + escape (value) +
-((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
-((path == null) ? "" : ("; path=" + path)) +
-((domain == null) ? "" : ("; domain=" + domain)) +
-((secure == true) ? "; secure" : "");
-}
-function DeleteCookie (name) {
-var exp = new Date();
-exp.setTime (exp.getTime() - 1);
-var cval = GetCookie (name);
-document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
-}
-var exp = new Date();
-exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
-function amt(){
-var count = GetCookie('count')
-if(count == null) {
-SetCookie('count','1')
-return 1
-}
-else {
-var newcount = parseInt(count) + 1;
-DeleteCookie('count')
-SetCookie('count',newcount,exp)
-return count
-   }
-}
-function getCookieVal(offset) {
-var endstr = document.cookie.indexOf (";", offset);
-if (endstr == -1)
-endstr = document.cookie.length;
-return unescape(document.cookie.substring(offset, endstr));
-}
-
-function leave() {
-var count = GetCookie('count');
-if (count == null) {
-count=1;
-SetCookie('count', count, exp);
-
-window.open(page, "", windowprops);
-
-}
-else {
-count++;
-SetCookie('count', count, exp);
-   }
-}
-	
-//  End -->	
-
-
 
 
 //--></script>
@@ -229,106 +109,38 @@ SetCookie('count', count, exp);
 
   
             <tr valign="top">
-              <td bgcolor="#1759BD" valign="top" height="51">
-                <p align="left"><b><img align="left" border="0" hspace="0" src="http://www.adlandpro.com/images/adbar_top2.gif"></b><a href="http://www.adlandpro.com" target="_top"><img src="http://www.adlandpro.com/adimages/smallad.gif" width="248" height="42" alt="AdlandPro World's Classifieds" border="0" target="_top" align="absbottom"></a></p>
+              <td bgcolor="#1759BD" valign="top" height="51" width="30%">
+                <p align="center"><b><img align="left" border="0" hspace="0" src="http://www.adlandpro.com/images/adbar_top2.gif" width="9" height="18"></b><a href="http://www.adlandpro.com" target="_top"><img src="http://www.adlandpro.com/adimages/smallad_snow.gif" width="248" height="42" alt="AdlandPro World's Classifieds" border="0" target="_top" align="absbottom"></a></p>
               </td>
-              <td bgcolor="#1759BD" valign="middle" height="51">
+              <td bgcolor="#1759BD" valign="top" height="51" width="70%">
                 <div align="center">
                   <center>
-                <table border="1" width="80%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
+                <table border="1" width="95%" bgcolor="#808080" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1" class="generic">
       <tbody><tr>
-        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="">
-          <p align="center"><font face="Verdana,Arial" size="1"><b><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1912107" target="_blank">Guaranteed&nbsp;<br>
-          </a></b></font><font size="1" color="#FF0000">
-          <marquee behavior="alternate" loop="4" width="57" height="13">*N e w*</marquee>
-          </font><font face="Verdana,Arial" size="1"><b><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1912107" target="_blank"><br>
-          Traffic</a></b></font></p></td>
-      </tr>
-    </tbody></table>
-                  </center>
-                </div>
-              </td>
-              <td bgcolor="#1759BD" valign="middle" height="51">
-                <div align="center">
-                  <center>
-                <table border="1" width="80%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
-      <tbody><tr>
-        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="">
-          <p align="center"><font face="Verdana,Arial" size="1"><b><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1907044" target="_blank">F
-          R E E<br>
-          Home Business<br>
-          Tools</a></b></font></p></td>
-      </tr>
-    </tbody></table>
-                  </center>
-                </div>
-              </td>
-              <td bgcolor="#1759BD" valign="middle" height="51">
-                <div align="center">
-                  <center>
-                <table border="1" width="81%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
-      <tbody><tr>
-        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap=""><font size="1"><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1918070" target="_blank"><b>Avoid&nbsp;<br>
-          *<br>
-          S C A M S</b>
-          </a></font></td>
-      </tr>
-    </tbody></table>
-                  </center>
-                </div>
-              </td>
-              <td bgcolor="#1759BD" valign="middle" height="51">
-                <div align="center">
-                  <center>
-                <table border="1" width="80%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
-      <tbody><tr>
-        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap=""><p align="center"><font size="1"><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1902340">How
-          I earn</a>&nbsp;<font color="#008000"><br>
-          $200,000 </font><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1902340">a
-          year</a>&nbsp;<br>
-          </font><font color="#FF0000" size="1">Very* New</font></p></td>
-      </tr>
-    </tbody></table>
-                  </center>
-                </div>
-              </td>
-              <td bgcolor="#1759BD" valign="middle" height="51">
-                <div align="center">
-                  <center>
-                <table border="1" width="80%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
-      <tbody><tr>
-        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="">
-          <p align="center"><a href="http://www.adlandpro.com/redir.asp?url_text=http://www.adlandpro.com/redir/FastLoad.asp&amp;rep=FastLoad&amp;flag=N" target="_blank"><font size="1" face="Verdana,Arial">Get
-          FREE&nbsp;<br>
-          Message&nbsp;<br>
-          Board</font></a></p></td>
-      </tr>
-    </tbody></table>
-                  </center>
-                </div>
-              </td>
-              <td bgcolor="#1759BD" valign="middle" height="51">
-                <div align="center">
-                  <center>
-                <table border="1" width="80%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
-      <tbody><tr>
-        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#000000"><p align="center"><a href="http://www.free-advertising-promotion.com/submit.asp?ref=" target="_top"><b><font face="Verdana,Arial" size="1" color="#FFFFFF">300,000<br>
-          Directories<br>
-          &nbsp;Submission</font></b></a></p></td>
-      </tr>
-    </tbody></table>
-                  </center>
-                </div>
-              </td>
-              <td bgcolor="#1759BD" valign="middle" height="51">
-                <div align="center">
-                  <center>
-                <table border="1" width="80" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
-      <tbody><tr>
-        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#FFFF00"><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1906589" target="_blank"><font face="Verdana,Arial" color="#000000" size="1">SPECIAL
-          OFFER<br>
-          <b>100,000</b></font> <font face="Verdana,Arial" color="#ff0000" size="1"><b>Free</b></font><font face="Verdana,Arial" color="#000000" size="1"><br>
-          Impressions</font></a></td>
+        <td width="20%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#C0C0C0">
+          <a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1912107" target="_blank"><b><font color="#000099" size="1">Traffic-Central<br>
+          Need Biz-Op<br>
+          Traffic?</font></b>
+          </a></td>
+        <td width="20%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#C0C0C0">
+          <a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1907044" target="_blank"><b><font color="#000099" size="1">F
+          R E E Home&nbsp;<br>
+ Business<br>
+          Tools</font></b></a></td>
+        <td width="20%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#C0C0C0">
+          <a href="http://www.adlandpro.com/memberofferPromo.asp"><b><font color="#000099" size="1">Advanced<br>
+          Promotion<br>
+          Package</font></b></a></td>
+        <td width="20%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#C0C0C0">
+          <a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1932034"><b><font color="#000099" size="1">*NEW*<br>
+          1,000&nbsp;<br>
+          FREE Visitors</font></b></a></td>
+        <td width="20%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#C0C0C0">
+              <p align="center"><a href="http://www.free-advertising-promotion.com/submit.asp?ref=" target="_top"><b><font color="#000099" size="1">680,000<br>
+              Directories<br>
+              &nbsp;Submission</font></b></a>
+
+        </p></td>
       </tr>
     </tbody></table>
                   </center>
@@ -338,13 +150,13 @@ SetCookie('count', count, exp);
            
             <tr valign="top">
              
-              <td bgcolor="#E6E6E6" colspan="8" width="100%" valign="bottom" bordercolor="#808080">
-                <table border="1" width="100%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="0" cellpadding="0">
+              <td bgcolor="#E6E6E6" colspan="2" valign="bottom" bordercolor="#808080">
+                <table border="1" width="100%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="0" cellpadding="0" height="35">
 
 
 
       <tbody><tr>
-        <td width="100%" valign="top" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#1759BD" colspan="2">
+        <td width="100%" valign="top" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#1759BD" colspan="2" height="18">
           <p align="left">
 
   
@@ -364,15 +176,14 @@ SetCookie('count', count, exp);
     
     
       <tr>
-        <td width="100%" valign="top" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#E6E6E6">
+        <td width="100%" valign="top" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#E6E6E6" height="13">
           <p align="left"><a href="javascript:{}" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.adlandpro.com');"><font size="1">Make
-                us your homepage!</font></a><font size="1">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#FFFFFF" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font size="2"><a href="http://www.adlandpro.com/submit.asp?ref="><b><span class="navoff" id="a3" onmouseover="a3.className='navon'" onmouseout="a3.className='navoff'" style="background-color: #000000"><font color="#FFFFFF">S
-          u b m i t&nbsp;&nbsp;&nbsp; t o&nbsp; over&nbsp; 300,000 d i r e c t o
-          r i e&nbsp;s</font></span></b></a></font><font size="1">&nbsp;&nbsp;
+                us your homepage!</font></a><font size="1">&nbsp;</font><font color="#000000" size="1">&nbsp;&nbsp;</font><span style="background-color: #FFFF00"><font size="1">&nbsp;</font><a href="http://www.adlandpro.com/submit.asp?ref="><b><font size="1"><span class="navoff" id="a3" onmouseover="a3.className='navon'" onmouseout="a3.className='navoff'">Submit&nbsp;
+          to over&nbsp; 680,00 directori<span id="a4" onmouseout="a3.className='navoff'" style="background-color: #FFFF00">es</span></span></font></b></a></span><font size="1"><font color="#FFFFFF">&nbsp;</font>&nbsp;
           <marquee width="100" loop="1" height="13">&lt;---Click Here&nbsp;&nbsp;&nbsp;
-          &lt;---Click Here&nbsp;&nbsp;&nbsp;&nbsp;&lt;---Click Here&nbsp;</marquee>
+          &lt;---Click Here&nbsp;&nbsp;&nbsp;&nbsp;&lt;---Click Here&nbsp; New**</marquee>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font size="1"><a href="https://www.adlandpro.com/secure/selectDigest.asp">Opt-in
-          Mailing List 24,000 subscribers.</a> </font></p></td>
+          Mailing List 25,000 subscribers.</a> </font></p></td>
       </tr>
      
 
@@ -389,80 +200,6 @@ SetCookie('count', count, exp);
     </center></td>
   </tr>
 </tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 <div align="center">
   <center>
