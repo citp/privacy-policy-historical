@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isuppli.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201070427id_/http%3A//isuppli.com/copyright/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isuppli.com privacy policy that was archived on 2002-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020203200155id_/http%3A//www.isuppli.com/copyright/privacy.asp) for the most accurate reproduction.*
 
 # iSuppli | Privacy Terms
 
