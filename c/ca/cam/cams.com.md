@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cams.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210204951id_/http%3A//www.camgirlslive.com/layout0/generic-layout.jsp%3FPage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cams.com privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325100628id_/http%3A//www.camgirlslive.com/layout0/generic-layout.jsp%3FPage%3Dprivacy) for the most accurate reproduction.*
 
 # CamGirlsLive -
 
