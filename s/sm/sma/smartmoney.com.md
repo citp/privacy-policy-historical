@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartmoney.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204205001id_/http%3A//www.smartmoney.com/policies/index.cfm%3Fstory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartmoney.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605025516id_/http%3A//www.smartmoney.com/policies/index.cfm%3Fstory%3Dprivacy) for the most accurate reproduction.*
 
 # Smartmoney.com: Policies: SmartMoney.com Policies
 
@@ -81,4 +81,4 @@ SmartMoney may change this policy from time to time.
 
 YOU HEREBY AGREE TO ACCEPT NOTICES OF ANY CHANGE MADE TO THIS PRIVACY POLICY AND ANY APPLICABLE PERIODIC NOTICES REGARDING THIS PRIVACY POLICY BY THE POSTING OF SUCH PRIVACY POLICY ON OUR WEB SITE. 
 
-This policy was last updated on September 10, 2001 
+This policy was last updated on December 10, 2001 
