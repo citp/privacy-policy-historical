@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409210117id_/http%3A//pgatour.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2001-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010917053712id_/http%3A//www.pgatour.com/information/privacy.html) for the most accurate reproduction.*
 
 # GolfWeb@PGATOUR.COM
 
@@ -84,7 +84,7 @@ Fort Lauderdale, Florida 33309**
 
 |   |  |   
 ---  
-Visit the PGA TOUR  
-Pro Shop for great  
-deals on golf gear  
-[Click Here!](http://www.pgatour.com/proshop/)
+You don't have to  
+play like a pro  
+to dress like one.  
+[Click Here!](http://www.pgatourstop.com/hmehome.asp?aid=23)
