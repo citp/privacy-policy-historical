@@ -1,20 +1,8 @@
-> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2000-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205153400id_/http%3A//www.collegerecruiter.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Feb 19, 2020     
-
-[](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/powerstudents.html)
-
-[You Surf We Pay](http://204.29.20.50/default.asp?offer=adguide)
-
-[Find a Job](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/power.cfm) [Free Newsletter](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/newslettersignup.html)[Post Your Resume](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/resumes.html)[Hot Job](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/hotjobredirect.html)[Hot School](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/hotschoolredirect.html)[eStudentLoan](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/job.cfm?CompID=417)[Find Scholarships](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/job.cfm?CompID=931)[Affiliate Program](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/affiliateinfo.html) Recommend Us[Contact Us](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/contact.html)[Home](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/index.html)
-
-[Ad Info/Post Jobs](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/adguide-adinfo.html)[Resume Bank](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/resumes.html)[Seminars & Tools](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/airs.html)
-
-[Articles](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/articles.html)[Ask the Experts](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/asktheexperts.html)[Bookstore](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/bookstore.html)[College Locator](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/collegelocator.html)[College Profile](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/collegeprofile.html)[Company Info](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/companyresearch.html)[Immigration](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/aicass.html)[Internat'l Services](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/internationalservicesredirect.html)[Online Training](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/planetlearn.html)[Relocation](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/relocation.html)[Today's News](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/todaysnews.html)
-
-[About Us](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/aboutus.html)[Cartoon](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/cartoon.html)[Email Accounts](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/powerstudents.html)[Email a Postcard](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/postcard.html)[$4,000 Giveaway](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/giveaway.html)[Links](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/links.html)[Privacy Policy](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/pages/privacy.html) Tell a Friend [ ](https://www.secureassure.org/secureassure/secure2.nsf/UID/A6D9E8DB7F98C0A6872568270047566C?OpenDocument) |  [ ](https://web.archive.org/web/20000509155618id_/http%3A//collegerecruiter.com/index.html)   
+[ ](http://www.collegerecruiter.com/)   
 Sponsor:  
 [ ](http://adserver.powerstudents.com/click-ng/network=ps&size=468x60&sitetype=af&site=collegerecruiter)
 
@@ -34,10 +22,10 @@ CollegeRecruiter.com uses cookies on this site to more effectively serve banner 
 
 **Privacy of Our Email Lists:**
 
-We maintain several email lists to keep our users informed about new employment ads and articles running on our website, changes to our affiliate program, and to provide a meeting place for our users. Individuals must affirmatively request to join our mailing lists by signing up by sending an email or through a form on our website. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized staff and contractors. 
+We maintain several email lists to keep our users informed about new employment ads and articles running on our website, changes to our affiliate program, and to provide a meeting place for our users. Individuals must affirmatively request to join our mailing lists. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we have configured our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized staff and contractors. 
 
 Sponsor:  
-(Enter email address then click GO)  |  |   
+(Enter email address then click GO)  |   
 ---|---  
 Copyright © 1996-2000 by Adguide Publications, Inc.  
 All rights reserved.
