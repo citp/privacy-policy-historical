@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altn.com privacy policy that was archived on 2003-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030415145715id_/http%3A//www.altn.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altn.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209150041id_/http%3A//www.altn.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
