@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622022102id_/http%3A//www.anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207050544id_/http%3A//www.anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
 
-# ANZ Web Site Security and Privacy Statement
+# ANZ Web Site Privacy and Security Statement
 
-ANZ Web Site Security and Privacy Statement
+ANZ Web Site Privacy and Security Statement
 
   * About This Security and Privacy Statement
   * Security of Information
   * Information Collected
-  * Advertising
+  * Advertising and Tracking
   * Cookies
   * How we Handle Email
   * Use and Disclosure of Information
@@ -71,15 +71,29 @@ When you view an ANZ advertisement on a Third Party Web Site, the Advertising Co
 
 and to track the performance of their marketing efforts. When you access the ANZ Web Site after viewing an ANZ advertisement on a Third Party Web Site, the Advertising Companies collect information on how you utilise the ANZ Web Site (eg which pages you view) and whether you complete an online application. 
 
-The Advertising Companies use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ Web Site. As a general rule, no personal information is collected by the Advertising Companies in this process. If, however, any personal information is incorporated in information that the Advertising Companies automatically collect, these Companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information. 
+In addition, ANZ also uses the following companies to collect information on how you utilise the ANZ Website: 
 
-We may disclose the information collected by an Advertising Company, in an aggregate form only, to third parties including advertisers or potential advertisers. 
+  * RedSheriff Limited 
+
+
+
+("Tracking Companies"). These Tracking Companies also use cookies to collect information similar to that collected by the Advertising Companies. 
+
+The Advertising Companies and Tracking Companies ("Companies") use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ Web Site. As a general rule, no personal information is collected by the Companies in this process. If, however, any personal information is incorporated in information that the Companies automatically collect, these Companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information. 
+
+We may disclose the information collected by a Company, in an aggregate form only, to third parties including advertisers or potential advertisers. 
 
 You can opt-out of DoubleClick cookies by [ following the instructions](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp?asp_object_1=&) here. This opt-out is applicable to DoubleClick tracking your current browser throughout DoubleClick’s network of websites, including the ANZ Web Site. 
 
-You can access the Traffion Privacy Statement [here](http://www.traffion.com/privacy/privacy.asp). This Statement outlines how Traffion collects and uses information about your use of the ANZ Website. 
+You can find out further information in relation to RedSheriff, the RedSheriff auditing system, and RedSheriff’s privacy policy by clicking [here](http://www.redsheriff.com/au/content/home.html). 
 
-You can access Advertising.com’s Privacy Statement [here](http://www.advertising.com/privacy_policy.htm). 
+You can access the Privacy Statements from the Companies here: 
+
+  * [Traffion](http://www.traffion.com/privacy/privacy.asp); 
+  * [Advertising.com;](http://www.advertising.com/privacy_policy.htm)
+  * [RedSheriff](http://www.redsheriff.com/au/content/privacy_1.html)
+
+
 
 We use "cookies" as a fundamental part of our interaction with your Internet browser. The purpose is to provide you with better and more customised service and with a more effective Web Site. 
 
