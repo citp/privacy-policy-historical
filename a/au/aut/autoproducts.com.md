@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205015421id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403183012id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Auto Products
 
@@ -89,7 +89,7 @@ We respect your privacy and none of the  information that is collected by this
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
 
  **   
-ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam.  [SPAM POLICY](https://web.archive.org/web/20041205015421id_/http%3A//www.autoproducts.com/spampolicy.htm)   
+ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam.  [SPAM POLICY](https://web.archive.org/web/20050403183012id_/http%3A//www.autoproducts.com/spampolicy.htm)   
 Report Spam: [ support@autoproducts.com ](mailto:support@autoproducts.com)  
 
-Copyright © 1997-2004 [Auto Products.com] All rights reserved. 
+Copyright © 1997-2005 [Auto Products.com] All rights reserved. 
