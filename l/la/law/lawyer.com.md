@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202083700id_/http%3A//www.mail.com/mailcom/privacypolicy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406142146id_/http%3A//www.mail.com/mailcom/privacypolicy.jhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ When you **register** for an account:
 
 2.  Provide industry-standard security to protect your personal information while it is in our possession. If you use your credit card to pay for premium services, then your credit card information will be encrypted using SSL technology and will be stored on secure servers.
 
-3.  Give you access to review and edit your personal and demographic information while it is in our possession. If you already have an account with us, [Click Here](http://www.mail.com/mailcom/index.jhtml?dest=welcome) to change your information now.
+3.  Give you access to review and edit your personal and demographic information while it is in our possession. If you already have an account with us, [Click Here](http://www.mail.com/) to change your information now.
 
 4.  Send you service announcements notifying you of any new products or updates to the service. We may use your alternate e-mail address and home address to ensure that you receive important information about your account or information you have requested.
 
