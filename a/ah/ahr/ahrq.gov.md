@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611111234id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
 
 # AHRQ Privacy Policy Notice
 
@@ -66,4 +66,4 @@ _Current as of December 1999_
 
 * * *
 
-[Accessibility](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/508web.htm) | [Contact Us](https://web.archive.org/info/customer.htm) | [Copyright](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/policyix.htm#copyright) | [Disclaimers](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/disclaim.htm) | [FOIA](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/foia.htm) | [Linking](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/weblink.htm) | [Privacy Notice](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/privacy.htm)
+[Accessibility](https://web.archive.org/web/20040611111234id_/http%3A//www.ahrq.gov/news/508web.htm) | [Contact Us](https://web.archive.org/info/customer.htm) | [Copyright](https://web.archive.org/web/20040611111234id_/http%3A//www.ahrq.gov/news/policyix.htm#copyright) | [Disclaimers](https://web.archive.org/web/20040611111234id_/http%3A//www.ahrq.gov/news/disclaim.htm) | [FOIA](https://web.archive.org/web/20040611111234id_/http%3A//www.ahrq.gov/news/foia.htm) | [Linking](https://web.archive.org/web/20040611111234id_/http%3A//www.ahrq.gov/news/weblink.htm) | [Privacy Notice](https://web.archive.org/web/20040611111234id_/http%3A//www.ahrq.gov/news/privacy.htm)
