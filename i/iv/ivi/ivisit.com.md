@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivisit.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603015654id_/http%3A//www.eyematic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivisit.com privacy policy that was archived on 2001-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010802235229id_/http%3A//www.eyematic.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to Eyematic
 
@@ -59,5 +59,5 @@ Questions regarding this Privacy Policy should be directed to Eyematic at [info@
 
   
 Copyright ©2000 Eyematic Interfaces Incorporated. All rights reserved.[  
-Terms of Use](https://web.archive.org/web/20010603015654id_/http%3A//www.eyematic.com/terms.htm)[  
-Online Privacy Policy](https://web.archive.org/web/20010603015654id_/http%3A//www.eyematic.com/privacy.htm)
+Terms of Use](https://web.archive.org/web/20010802235229id_/http%3A//www.eyematic.com/terms.htm)[  
+Online Privacy Policy](https://web.archive.org/web/20010802235229id_/http%3A//www.eyematic.com/privacy.htm)
