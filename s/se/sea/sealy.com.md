@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sealy.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607142755id_/http%3A//sealy.com/common/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sealy.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204101016id_/http%3A//www.sealy.com/common/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Welcome to Sealy
 
@@ -52,12 +52,12 @@ What Choices Do I Have?
 As discussed above, you can always choose not to provide information.
 
   
-If you choose to visit Sealy.com, your visit and any dispute over privacy is subject to this Policy and our [Terms of Use](https://web.archive.org/web/20020607142755id_/http%3A//sealy.com/common/termsOfUse.asp), including limitations on damages, arbitration of disputes, and application of the law of the state of North Carolina. 
+If you choose to visit Sealy.com, your visit and any dispute over privacy is subject to this Policy and our [Terms of Use](https://web.archive.org/web/20021204101016id_/http%3A//www.sealy.com/common/termsOfUse.asp), including limitations on damages, arbitration of disputes, and application of the law of the state of North Carolina. 
 
-This Policy and the [Terms of Use](https://web.archive.org/web/20020607142755id_/http%3A//sealy.com/common/termsOfUse.asp) will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may email periodic reminders of our policies and terms, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+This Policy and the [Terms of Use](https://web.archive.org/web/20021204101016id_/http%3A//www.sealy.com/common/termsOfUse.asp) will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may email periodic reminders of our policies and terms, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
 
   
-[Terms of Use](https://web.archive.org/web/20020607142755id_/http%3A//sealy.com/common/termsOfUse.asp)
+[Terms of Use](https://web.archive.org/web/20021204101016id_/http%3A//www.sealy.com/common/termsOfUse.asp)
 
   
 You provide most such information when you participate in a contest or questionnaire, fill out a mattress-registration form, or communicate with customer support. As a result of those actions, you might supply us with such information as your name, address, email address, and phone number.
