@@ -1,55 +1,92 @@
-> *The following text is extracted and transformed from the mysite.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203132000id_/http%3A//www.greatdomains.com/support/prvstatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysite.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207024629id_/http%3A//www.mysite.com/legal/privacy.html) for the most accurate reproduction.*
 
-# GreatDomains.com - The Internet's #1 Domain Name, Website, and Internet-based business brokerage service.
+# mySite.com Terms and Conditions- Low-cost email address - 1GB email storage - Block spam - Web & POP3 email access - Get your name as your email address
 
-PRIVACY POLICY
+| |   
 
-This Policy was last revised on May 1, 2000.
 
-**GreatDomains.com, Inc. (“GreatDomains.com”) is committed to safeguarding your privacy online. GreatDomains.com takes this commitment very seriously. We will not give, sell or otherwise share any of your personal information with any third party without your approval. Please read the following policy to understand how your personal information will be treated.**
+  
+| Mega Web Services, Inc. ("Mega Web Services"), a United Online Company, provides various consumer Internet subscription services including Internet websites, web hosting services, domain registration, email services and other services (collectively, the Services) under multiple brands including mySite. Mega Web Services is committed to safeguarding your privacy online and created this Privacy Statement in order to demonstrate our firm commitment to protecting the online privacy of users of our services.
 
-**How Your Information Is Gathered**
+By using the Services you consent to our gathering, use and disclosure of your information, as described in this Privacy Statement, our Terms of Service and Acceptable Use Policy (collectively referred to as the Rules). This Privacy Statement may change from time to time and Mega Web Services will provide notice of changes as described in the Mega Web Services' Terms of Service.
 
-GreatDomains.com collects information in several manners. We use your IP address to help diagnose problems with our server, and to administer our Web site. When registering for GreatDomains.com’s services, the registration form requires you to give us contact information, such as your name, address, e-mail address,unique identifiers, and demographic information. In the course of using our site, we automatically track additional information, such as the URL that you just came from, which URL you go to next, and what browser you were using. Information of this sort is typically collected automatically by many sites. 
+Questions regarding this Statement should be directed to [privacy@support.mysite.com](mailto:privacy@support.mysite.com). Mega Web Services may also be contacted at: Attn: Legal Department - Privacy, Mega Web Services, Inc., c/o United Online, Inc., 75 9th Avenue, 4th Floor, New York, NY 10011.
 
-In addition, GreatDomains.com uses cookies for certain pages of our site. The use of cookies streamlines your use of and access to our Web site. Among other reasons, cookies allow you to enter your password less frequently during a session and enable us to provide information that is targeted to your interest. A cookie is a small amount of data that is sent to your computer from our Web site and is stored on your computer’s hard drive. Many cookies are “session cookies” that are automatically deleted at the end of a session. You are always free to decline a cookie if your browser enables such a choice, however, in that case, your online session may be more cumbersome and may require you to reenter information that has already been entered.
+This Privacy Statement explains the following: 
 
-If you choose to place an offer or to sell a Domain Name on our Web site, we will collect information about your purchasing and selling behavior. We may also collect comments provided by other users in our feedback area.
+**
 
-If you elect to use additional services provided by GreatDomains.com, such as our escrow services, additional financial and personal information will be collected, such as your billing address and other specific financial information, collected directly or from transaction documents used in the process to establish the financial resources necessary to conclude the transaction. Additional information may be obtained from many different sources, such as personal correspondence or e-mails that you send to us or that we may receive from third parties, other communications,or activities posted to our site.
+  1. What information does Mega Web Services gather?
+  2. How does Mega Web Services gather information?
+  3. How does Mega Web Services use the gathered information?
+  4. With whom does Mega Web Services share information we gather?
+  5. How may you access or update stored information about you?
+  6. How does Mega Web Services protect your personal information?
+  7. Use of Cookies; Email Pixels.
 
-Finally, please note that GreatDomains.com’s Web site is linked to other Web sites by way of hotlinks and advertisement banners. GreatDomains.com is not responsible for the content, or the privacy practices of such external Web sites. For these specific practices, you should refer to the specific privacy policy administered by each such Web site.
+**  
+---  
+  
+  1.  **What information does Mega Web Services gather?**
 
-**How the Information Is Used**
+Mega Web Services collects personal information about you including, without limitation, personally identifiable information (such as your name, address, phone number and email address) and financial information (such as your credit card information). For some of our Services we may also ask other information about you such as your age or other demographic information. Mega Web Services may also collect your contact information and correspondence if you contact us by email or letter.
 
-GreatDomains.com uses personal information for internal purposes only, to provide those services that you are requesting, to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and service offerings, to customize our site’s content and layout, and to further enhance the services that we provide. We may also use personally identifiable information about you to deliver information to you that, in some cases, is targeted to your interest, such as targeted banners and promotions.You can always remove yourself from receiving such information by notifying us by using the opt-out option in the “[My Account](https://web.archive.org/tools/subscribe/accountinfo.asp)” page.
+    *  **Information about you.** Mega Web Services collects personal information about you including, without limitation, personally identifiable information (such as your name, address, phone number and email address) and financial information (such as your credit card information). For some of our Services we may also ask other information about you such as your age or other demographic information. Mega Web Services may also collect your contact information and correspondence if you contact us by email or letter.
+    *  **Information about your use of the Services.** Mega Web Services collects information about your use of the Services including, without limitation, data about your computer (such as operating system type, browser type, software installed on your computer) and your web browsing information (such as referring URL's as well as your IP address).
+  
+Back To Top
+  2.  **How does Mega Web Services gather information?**
 
-Mailing information, such as your e-mail address, may be used in rare situations for us to contact you regarding an administrative issue. Address and billing information may be used if you elect to use our escrow services, or in the event that we are entitled to a commission for a sale conducted through our Web site.
+Mega Web Services gathers information that you submit on any Mega Web Services registration forms, surveys, questionnaires or other online forms. Mega Web Services gathers information about your use of the Services during such use, and you understand that you are not anonymous to us. Mega Web Services may also gather new information or update information from other sources including, for example, verifying and updating your address using third party services, using various methods to update your credit card expiration date or collecting information from our business partners.
 
-We may also use information in the file that we maintain regarding your current and past activities in the unlikely event that we need to resolve disputes, troubleshoot problems,or otherwise to enforce our [User Agreement](https://web.archive.org/support/useragreement.asp). At times, cross-sectional information may be used of multiple users to identify problems or resolve disputes.
+Back To Top
 
-In order to defer some of the costs of doing business, and thus, to be able to charge the user lower fees, GreatDomains.com generates additional revenue by way of delivering targeted advertisements. When delivering such advertisements, GreatDomains.com serves as the middleman, delivering the advertisement according to certain criteria requested by the advertisers, such as particular demographics. GreatDomains.com will then display the advertisement to users who meet that this criteria. In During this process, the third-party advertiser does not have access to your individual account information.
+  3.  **How does Mega Web Services use the gathered information?**
 
-**With Whom Does GreatDomains.com Share Your Information?**
+Mega Web Services uses your information to make your use of the Services more personalized and convenient. Mega Web Services uses your information to display or deliver materials, such as emails, surveys and content. Mega Web Services may use your information to target such materials so that they may be more relevant to you than materials that would be provided without the use of your information. Mega Web Services may use your information to make online transactions more convenient for you, such as pre-filling online forms that you may submit to us or, for some of our Services, this information may be pre-filled for third parties. Mega Web Services may provide your information to third parties as described below in Section 4.
 
-As a general rule, GreatDomains.com does not disclose any of your personally identifiable information, unless we have your specific permission, or under special circumstances, such as when we reasonably believe that the law requires that we do so. We do aggregate personally identifiable information and disclose such information in the aggregate as historical, statistical data for marketing, and promotional situations. However, in such situations, it is not possible to personally identify you or your personal information. Certain information, such as your password, credit card information, or bank account number would not be disclosed in such aggregate disclosures.
+    * Mega Web Services uses your information to conduct and provide market research and data analysis services.
+    * Mega Web Services uses your information to provide, support and maintain the Services including, for example, to monitor and diagnose the Services, to provide technical support, to bill you for the Services and to contact you with respect to the Services or other Mega Web Services products or services.
+    * You agree as a condition of your Service that Mega Web Services (and such third parties as authorized by Mega Web Services in compliance with this Privacy Statement) may furnish you, by email or other means selected by Mega Web Services, information prepared by Mega Web Services or by (or on behalf of) other entities including surveys, questionnaires, information, advertising and solicitations of new products, services, updates, account changes and technical services announcements, as well as other messages related to the Services. If no advertising is specified, you will still be required to receive advertisements and information related to Mega Web Services as well as advertising and information related to services that may be offered by United Online or its affiliated companies. You further acknowledge that any such advertisements and information are an inseparable part of the Service, and in order to opt-out of receipt you must terminate the Service.
+Back To Top
+  4.  **With whom does Mega Web Services share information we gather?**
+    * Mega Web Services will not disclose your personally identifiable information to any third party, except if you have given us your consent for such disclosure or if the disclosure is described below. Mega Web Services may share your non-personally identifiable information with third parties.
+    * Mega Web Services may share your personally identifiable information with third parties that provide services on behalf of Mega Web Services. Such third parties do not have the right to use your information for any purpose other than to provide the applicable service.
+    * Mega Web Services may share your personally identifiable information with its affiliates.
+    * If Mega Web Services sells, assigns or transfers the part of its business that provides a particular Service to you, your personally identifiable information may be sold, assigned or transferred as a part of such transaction.
+    * Mega Web Services may disclose your personally identifiable information, any communications sent or received by you, and any other information that we may have about your account as follows: as may be required by law, regulation, rule or court order; pursuant to requests from governmental agencies or law enforcement authorities; as necessary to identify, contact or bring legal action against someone who may be violating the Rules; to operate the Services properly; or to protect Mega Web Services, our members or other third parties including, without limitation, other emergency situations.  
 
-GreatDomains.com cooperates with all law enforcement inquiries and with third-parties who are enforcing their intellectual property or other proprietary rights. We, of course, also provide that the information which is necessary to facilitate the actual, ongoing commercial activities conducted on the GreatDomains.com Web site. For example, we will provide identifying information to the parties that have agreed upon the purchase and sale of a Domain Name, so that they may continue and conclude the transaction. All recipients of the transaction agree to the restrictions of on how they can use and disclose such information.
+| |   
+ **Third Party Sites and Co-Branded Services.**
 
-In sum, although we use industry standard practices to protect your privacy, we do not and cannot promise, and you cannot expect, that your personally identifiable communications will always remain private.
+Mega Web Services may advertise, promote, reference, recommend or provide links to third party sites, services and products. These third parties may have their own privacy policies, which may not comply with this Privacy Statement, even if the site, service or product is branded with Mega Web Services' logo or name. Mega Web Services IS NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OF SUCH THIRD PARTIES OR ANY OTHER THIRD PARTIES. Mega Web Services recommends that you review the privacy policies of any such third parties.  
+  
+---|---  
+Back To Top  
+  
 
-**Your Use of Other Users’ Information.**
+  5.  **How may you access or update stored Information about you?**
 
-As a seller, you will be sent certain private information identifying the buyer of your Internet Domain Name, and as a buyer, you will be sent identifying information of the seller. By entering into our [User Agreement](https://web.archive.org/support/useragreement.asp), you agree that any personally identifying information that you obtain through the GreatDomains.com Web site or through a GreatDomains.com-related communication or a GreatDomains.com-facilitated transaction, you are granted a limited license to use such information only for the furthering of the subject matter of the GreatDomains.com-related transaction, including GreatDomains.com-facilitated services, such as its escrow services. Upon conclusion of the transaction, you will remove and delete all copies in all forms of the personally-identifying third party information, other than one copy of only that data which is necessary for the archivaling of the transaction, unless you receive explicit, specific written approval from the owner of the personal information that you need not do so.
+You may review and update your information stored as a part of your account in either the personal profile or billing information areas at any time. To access such information, please click on the "My Account" link or tab from the home page of your Service or by calling 1-877-503-0009.
 
-**Updating and Correcting Personally Identifying Information**
+Back To Top  
+  
 
-Once you register with GreatDomains.com, you will be able and are allowed to change your personally identifying information available at GreatDomains.com, including your e-mail address, user ID, name, address, telephone number, password, and credit card information. Upon your request, we will remove any of the above personally identifying information other than your name and user ID. We will send you a confirmation of the information that you requested us to remove and the date of its removal. We will retain in our files certain information in our files that you have requested us to remove for different purposes, such as to resolve potential dispute, troubleshoot problems,and otherwise enforce our [User Agreement](https://web.archive.org/support/useragreement.asp). Furthermore, certain circumstances could prevent the complete and permanent removal of such information from our databases such as technical constraints and the periodic backing up and archiving of our systems for disaster recovery purposes.
+  6.  **How does Mega Web Services protect your personal information?**
 
-**General**
+All of your account information is password protected for your security. Your billing information is transmitted and displayed using industry-standard SSL encryption. While Mega Web Services believes that it has implemented reasonable security, Mega Web Services cannot guarantee that our security measures will prevent unauthorized third parties, such as hackers, from obtaining or accessing your information.
 
-Our Privacy Policy only addresses the use and disclosure of information that we collect. To the extent that you disclose information to other parties, even if you connected to those parties through the GreatDomains.com Web site, different rules may apply, and GreatDomains.com does not manage or control such information. GreatDomains.com implements industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as fire walls and SSL encryption. However, perfect security measures do not exist and we cannot guarantee that third parties cannot exercise sufficient resources to break down the protective systems that we have established and obtain your personal information.This Privacy Policy is incorporated into and subject to the terms of the GreatDomains.com [User Agreement](https://web.archive.org/support/useragreement.asp).
+Back To Top  
+  
 
-**DoubleClick.com**
+  7.  **Use of Cookies; Email Pixels.**
 
-GreatDomains.com uses a third party to serve the advertisements that you see on the pages of our Web site. Our current provider and ad server is DoubleClick.com. If you would like to know more about the information gathering practices followed by, and "opt-out" procedures implemented by DoubleClick, please click [here](https://web.archive.org/support/prvstatement.asp). GreatDomains does not have any reason to question the integrity of the practices implemented by DoubleClick. However, GreatDomains does not control any of these procedures and practices, and any questions should be referred to DoubleClick.
+Mega Web Services uses a feature of your Web browser called cookies to automate certain aspects of our Web site. Cookies are very small files that are stored on your computer and that enable us to recognize your computer each time you return to our site. By using cookies, Mega Web Services can keep track of your preferences, what you have already seen on our site and what you haven't, and any personalization you've done, without requiring you to enter a password every time you come back. Mega Web Services uses any information gathered using our cookies in compliance with this Privacy Statement.
+
+Third parties, including advertisers with whom Mega Web Services may have a relationship, may also set cookies. Such third parties are responsible for placing and using such cookies and may collect information about you through such cookies; Mega Web Services does not have access to such cookies, control the use of such cookies nor control over the privacy policy of such parties.
+
+We may use an email delivery and marketing company to send emails that you have agreed to receive. Pixel tags and cookies are used in those email messages and at our website to help us measure the effectiveness of our advertising and how visitors use our site.
+
+Back To Top
+
+
