@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the golfballs.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610034606id_/http%3A//www.golfballs.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfballs.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214210245id_/http%3A//www.golfballs.com//privacypolicy.asp) for the most accurate reproduction.*
 
-# Trust your next order of golf balls to the largest supplier of golf balls on the web, golfballs.com.
+# Golfballs.com - Golf Balls, Golf Shoes, Golf Bags, Golf Club, Used Golfballs, Golf Equipment, Personalized Golf Balls.
 
 **Privacy and Security Notice**  
-Last Modifed: Friday, January 12, 2001; at 3:26:10 PM
+Last Modifed: Friday, January 12, 2001; at 2:26:10 PM
 
  **2\. The Information We Collect:**
 
