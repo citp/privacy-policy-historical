@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617162249id_/http%3A//www.careerperfect.com/CareerPerfect/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604110923id_/http%3A//careerperfect.com/CareerPerfect/privacy.htm) for the most accurate reproduction.*
 
 # CareerPerfect® Privacy Policy
 
@@ -29,10 +29,10 @@ CareerPerfect does not use cookies on the main content areas of this site. Cooki
 
 We respect your privacy, so if we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-[](https://web.archive.org/web/20000617162249id_/http%3A//www.careerperfect.com/CareerPerfect/safeandsecure.htm)  | Visit ****[Safe and Secure](https://web.archive.org/web/20000617162249id_/http%3A//www.careerperfect.com/CareerPerfect/safeandsecure.htm) to learn how ordering with CareerPerfect.com is fast, easy, and safe!  
+[](https://web.archive.org/web/20010604110923id_/http%3A//careerperfect.com/CareerPerfect/safeandsecure.htm)  | Visit ****[Safe and Secure](https://web.archive.org/web/20010604110923id_/http%3A//careerperfect.com/CareerPerfect/safeandsecure.htm) to learn how ordering with CareerPerfect.com is fast, easy, and safe!  
 ---|---  
   
 * * *
 
-[Copyright © 1996 - 2000](http://www.careerperfect.com/CareerPerfect/UserLic.htm) Career Services Group, Inc. All rights reserved.  
+[Copyright © 1996 - 2001](http://www.careerperfect.com/CareerPerfect/UserLic.htm) Career Services Group, Inc. All rights reserved.  
 [Terms of use](http://www.careerperfect.com/CareerPerfect/UserLic.htm).
