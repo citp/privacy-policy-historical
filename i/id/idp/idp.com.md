@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204225749id_/http%3A//www.idp.com/information/article21.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404130314id_/http%3A//www.idp.com/information/article21.asp) for the most accurate reproduction.*
 
 # IDP Portal - Privacy Policy
 
