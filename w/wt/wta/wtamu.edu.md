@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603162415id_/http%3A//www.wtamu.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417014654id_/http%3A//www.wtamu.edu/privacy.htm) for the most accurate reproduction.*
 
 # www.wtamu.edu - Welcome to West Texas A&M University
 
