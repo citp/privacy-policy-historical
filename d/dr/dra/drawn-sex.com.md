@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drawn-sex.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402053954id_/http%3A//www.opmdirect.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drawn-sex.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208021224id_/http%3A//www.opmdirect.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
