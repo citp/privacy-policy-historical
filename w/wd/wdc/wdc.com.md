@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdc.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208084340id_/http%3A//www.wdc.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdc.com privacy policy that was archived on 2003-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030202034400id_/http%3A//www.wdc.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
