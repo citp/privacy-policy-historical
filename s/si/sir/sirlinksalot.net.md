@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirlinksalot.net privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208174259id_/http%3A//www.sirlinksalot.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirlinksalot.net privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602183540id_/http%3A//www.sirlinksalot.net/privacy.html) for the most accurate reproduction.*
 
 # SirLinksalot.net Privacy Policy
 
@@ -19,6 +19,10 @@ can be found [**by clicking here**](http://www.counted.com/information/privacy/)
 **Microsoft bCentral**
 
 Selected pages within this website collect email addresses on an opt-in basis for the sole purpose of providing access to information to the user about topics covered by the site. These addresses are used solely for the stated purpose and will not intentionally be sold, exchanged or otherwise revealed by SirLinksalot.net to third parties.  The privacy policy for the Microsoft bCentral website can be found **[by clicking here](http://www.bcentral.com/help/policy/privacy.asp)**. 
+
+**Sitemeter.com**
+
+This website collects statistical information using information provided by Sitemeter.com.  The privacy policy for Counted.com can be found [**by clicking here**](http://www.sitemeter.com/default.asp?action=privacy).
 
 **Personal Information**
 
@@ -45,6 +49,10 @@ You can choose to accept or refuse the cookies that we send to you by changing t
 **Security**
 
 SirLinksalot.net has security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. While we cannot guarantee that loss, misuse or alteration of the data will not occur, we promise to do our best to prevent against any such occurrences.
+
+**Terms of Use**
+
+By using this site, you are agreeing to the conditions of this Privacy Policy. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, DO NOT USE THIS SITE. We reserve the right at our discretion to change, modify, add, or remove portions of this Policy at any time. Any changes will be posted on the site. Please check this page periodically for changes. 
 
 **Contact**
 
