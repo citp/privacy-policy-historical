@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206182920id_/http%3A//www.ansi.org/public/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603181114id_/http%3A//www.ansi.org/about_ansi/privacy_policy/privacy.aspx%3Fmenuid%3D1) for the most accurate reproduction.*
 
-# ANSI Online Privacy Statement
+# Privacy Statement for ANSI Online
 
-The following sets forth the information gathering and disclosure practices for [**ANSI Online http://www.ansi.org**](http://www.ansi.org/). 
+**Privacy Statement for ANSI Online**
+
+The following sets forth the information gathering and disclosure practices for [ **ANSI Online http://www.ansi.org**](http://www.ansi.org/)
 
 **Online Commerce Activity-Customer Data**
 
-Customers requesting information, products, and services from ANSI Online may be asked to provide personal data. ANSI uses this information to process your order and to contact you if necessary to respond to your request. We may use it to send you additional information about the products and services that we offer. We give you the option not to receive such further promotional information. We also provide you a means to review and modify personal information that you have provided to ensure it is accurate and up-to-date, either directly online or by contacting our web site administrator. 
+Customers requesting information, products, and services from ANSI Online may be asked to provide personal data. ANSI uses this information to process your order and to contact you if necessary to respond to your request. We may use it to send you additional information about the products and services that we offer. We give you the option not to receive such further promotional information. We also provide you with a means to review and modify personal information that you have provided to ensure it is accurate and up-to-date, either directly online or by contacting our web site administrator. 
 
 Online transactions via the Electronic Standards Store (ESS) utilize a secure server and automated credit or debit card authorization service. For security reasons, this system will store approval codes, but not credit card numbers. Credit card information must be re-entered for all future ESS transactions. 
 
@@ -35,6 +37,6 @@ Members/Constituents who have questions or concerns relative to the disclosure o
 
 **Questions/Comments**
 
-Questions or comments about this privacy statement or our practices may be submitted via e-mail to the web site administrator via [**our Feedback Page**](http://www.ansi.org/public/feedback.asp)
+Questions or comments about this privacy statement or our practices may be submitted via e-mail to the web site administrator via [**our Feedback Page**](https://web.archive.org/web/20030603181114id_/http%3A//www.ansi.org/contact_us/contact_us.aspx?)
 
 ANSI Online contains links to other web sites. ANSI makes no claim regarding nor accepts responsibility for the privacy practices or the content of such other web sites to which it may link except in cases where ANSI manages the linked web site in which case the privacy practices for that site will be disclosed thereon. 
