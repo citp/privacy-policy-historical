@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clotilde.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604153807id_/http%3A//www.clotilde.com/cl/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clotilde.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019111648id_/http%3A//www.clotilde.com/cl/privacy.asp) for the most accurate reproduction.*
 
 # Clotilde - 30 Years of sewing notions
 
