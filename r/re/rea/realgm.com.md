@@ -1,31 +1,6 @@
-> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204123711id_/http%3A//realgm.com/src_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403151555id_/http%3A//www.realgm.com/src_privacy.php) for the most accurate reproduction.*
 
 # RealGM: At the Crossroads of Business and Sports
-
-  
-[**Trade Checker ******](https://web.archive.org/src_tradechecker.php) ** **  
-[**Wiretap (News) ******](https://web.archive.org/src_wiretap.php) ** **  
-[**Heads Up (Email) ******](https://web.archive.org/src_subscription.php) ** **  
-[**Player Profiles ******](https://web.archive.org/src_roster.php) ** **  
-[**Player Rankings ******](https://web.archive.org/src_playerrank.php) ** **  
-[**Depth Charts ******](https://web.archive.org/src_depthcharts.php) ** **  
-[**NBA Schedule ******](https://web.archive.org/src_schedule.php#d041204) ** **  
-[**Draft Simulator ******](https://web.archive.org/src_draftsim.php) ** **  
-[**Transactions ******](https://web.archive.org/src_recent_transactions.php) ** **  
-[**Free Agents ******](https://web.archive.org/src_freeagents.php) ** **  
-[**Message Boards ******](http://www.realgm.com/boards/index.php) ** **  
-[**Larry Coon's FAQ ******](http://members.cox.net/lmcoon/salarycap.htm) ** **  
-| **RealGM Poll**  
----  
-  
-Who is the best team in Texas?
-
-Dallas  
-Houston  
-San Antonio  
-  
-  
-************************************************   | 
 
 **Privacy Statement:**
 
