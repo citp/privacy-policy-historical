@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attorneypages.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405003836id_/http%3A//attorneypages.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attorneypages.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211192923id_/http%3A//attorneypages.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Advice Company Privacy Statement
 
