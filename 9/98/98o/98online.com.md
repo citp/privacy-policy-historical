@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the 98online.com privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014065606id_/http%3A//www.98online.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 98online.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403231915id_/http%3A//www.98online.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 98 Rock Baltimore - Privacy Policy
 
 98 ROCK INTERNET PRIVACY POLICY  
 
 
-98 Rock's Internet site, http://98online.com, complies with the following Privacy Policy. We can be reached electronically via [Input 98.](https://web.archive.org/web/20041014065606id_/http%3A//www.98online.com/input98.html)
+98 Rock's Internet site, http://98online.com, complies with the following Privacy Policy. We can be reached electronically via [Input 98.](https://web.archive.org/web/20050403231915id_/http%3A//www.98online.com/input98.html)
 
 This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. In addition, we may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information although it will enable us to relate a user's use of our sites to information that the user has specifically and knowingly provided to us.
 
@@ -17,9 +17,9 @@ Users should be aware that when they voluntarily disclose personal information (
 
 Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet. 
 
-Users can contact us at [Input 98](https://web.archive.org/web/20041014065606id_/http%3A//www.98online.com/input98.html) with any further questions.
+Users can contact us at [Input 98](https://web.archive.org/web/20050403231915id_/http%3A//www.98online.com/input98.html) with any further questions.
 
 |  [BOARD OF DIRECTORS](https://web.archive.org/directors.html)  |  [ROCK DAILY](https://web.archive.org/rockdaily.html)  |  [STATION 411](https://web.archive.org/station411.html)  |  
 |  [PHOTOS](https://web.archive.org/photos.html)  |  [INPUT 98](https://web.archive.org/input98.html)  |  [CONCERTS](https://web.archive.org/concerts.html)  |  [98 ROCK GEAR](https://web.archive.org/store/index.asp)  |  
-|  [ON-AIR](https://web.archive.org/onair.html)  |  [KML](https://web.archive.org/kml.html)  |  [WIN 98](https://web.archive.org/win98.html)  |  [ROAD CREW](https://web.archive.org/roadcrew.html)  |  [TWISTED TUNES ](https://web.archive.org/twistedtunes.html)   
+|  [JOCKS](https://web.archive.org/onair.html)  |  [KML](https://web.archive.org/kml.html)  |  [MICKEY AND AMELIA](https://web.archive.org/photos/Mickey_Amelia/index.html)  |  [ROAD CREW](https://web.archive.org/roadcrew.html)  |  [TWISTED TUNES ](https://web.archive.org/twistedtunes.html)   
 | [PUBLIC FILE](http://www.98online.com/WBAL_WIYY_Public_File_Report.pdf) | [PRIVACY POLICY](http://www.98online.com/privacy_policy.html) | [CONTEST RULES](http://www.98online.com/contest_rules.html)
