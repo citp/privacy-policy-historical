@@ -1,73 +1,61 @@
-> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215201846id_/http%3A//www.catalogs.com/catalog/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622091803id_/http%3A//www.catalogs.com/catalog/privacy.asp) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Statement
 
-**
+****
 
-**Terms of Use for Catalogs.com/CatalogSavings.com**
+| 
 
-**Consumers must be of legal age or have permission of their legal guardian to order any catalog from **Catalogs.com/CatalogSavings.com’s** Catalog Retailers or subscribe to **Catalogs.com/CatalogSavings.com’s** newsletter.**
+****
 
-**
+| 
 
-**Privacy Statement for Catalogs.com/CatalogSavings.com**
+****
 
-**Catalogs.com/CatalogSavings.com** respects every consumers privacy.  We adhere and comply with all laws governing your individual privacy.  Listed below is our detailed Privacy Statement which demonstrates our firm commitment to your privacy. We hope we answer all of your questions.    
-  
-Fondly, Joan and Jackie.
+| 
 
-**Security**
+We at Catalogs.com are firmly committed to protecting your privacy.  We respect your privacy, and we want you to feel comfortable using our website. Therefore, we are providing you with this privacy policy so you can better understand our commitment to how your personal information will be secured and handled.  We are committed to collecting, maintaining, and securing your personal information in strict accordance with the principles described in this policy.
 
-Whether you’re ordering a catalog or making a purchase, we want you to feel safe and secure while visiting **Catalogs.com/CatalogSavings.com** .  You can feel confident making purchases from established catalogs that have been in business for many years.  Our site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+**_Your Customer Information_**
 
-**Catalog Order Forms & Other Forms**
+By viewing our website, we do not collect any personal information about you.  Should you request to receive a catalog, newsletter or savings certificate from our website, we will ask that you voluntarily provide us with certain information about yourself (collectively, your “Customer Information”). Your Customer Information is comprised of the information that you voluntarily fill in on our order form.  You may also volunteer to provide us with the email addresses of your friends or colleagues, so they too can benefit from the various products and services offered by Catalogs.com and Catalogs.com’s trusted affiliates.
 
- Our site uses an order form for customers to request catalogs and savings certificates from our Catalog Retailers.  To receive a catalog, customers provide their contact information (name, email address and mailing address).
+**_Opting - In at Catalogs.com_**
 
- Contact information is used to ship your catalog(s) and catalog email offers to you.  With your permission only, the customer’s contact information is also used to send or e-mail material from Catalogs.com/CatalogSavings.com or some of our Catalog Retailers/Partners to our customers to advise them of new products, services, special offers or upcoming events.  However, we do not share or provide this personal contact information to any parties or individuals.
+When you order a catalog, newsletter or savings certificate through our website, you will be provided with an opportunity to receive updates and special savings offers from Catalogs.com and other companies that are affiliated with Catalogs.com.  In order to receive this information, you must voluntarily “opt-in” by checking the appropriate circle on our order form.  If you check the “Yes” circle, your Customer Information may be sent to some of our affiliates, and you may receive correspondence directly from those affiliates.  Remember, each of our affiliates may have privacy policies that differ significantly from ours, and so you should carefully review the privacy policy of any affiliate before providing that company with any additional information about yourself. 
 
-Users may elect to decline or “opt-out” of receiving future mailings; see the _choice/opt-out_ section below.
+Our website provides you with the opportunity to decline or “opt-out” of receiving information on new products, services, special offers and upcoming events from Catalogs.com.  To opt-out, please visit the following URL: 
 
-**Information We Receive**
+[ http://www.catalogsavings.com/catalog/unsubscribe.asp](http://www.catalogsavings.com/catalog/unsubscribe.asp)
 
-Our Web server automatically recognizes the home server of visitors but not their e-mail addresses.  Therefore, individually identifiable e-mail addresses are not collected unless you provide them by e-mailing Catalogs.com/CatalogSavings.com or supplying your e-mail in our order form.
+When you order a catalog, newsletter or savings certificate through our website, your Customer Information is provided to the company from which you ordered the catalog, newsletter or savings certificate.   This helps ensure that your order is processed correctly and timely delivered.
 
-**Partner Sites**
+On occasion, we may hire third parties to perform certain functions on our behalf. Examples include fulfilling orders, delivering packages, removing repetitive information from the customer list, analyzing data, providing marketing assistance, and providing customer service. These third parties have access to your Customer Information to the extent necessary to permit them to do their jobs, however, they may not use it for other purposes.
 
- Catalogs.com/CatalogSavings.com partners with other sites to provide services for our users. These sites may collect information from users and maintain their own Privacy Statements. These sites are not controlled by Catalogs.com/CatalogSavings.com and they are not subject to Catalogs.com/CatalogSavings.com's Privacy Statement. If you would like information on the Privacy Statements of our partners click the links below.
+We also may disclose your Customer Information only as permitted law, or if we are required to do so by law and we believe in good faith believe that disclosure is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our website; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). 
 
-[MagMall's Privacy Statement](http://www.magmall.com/webcart/svc/privacystatement_po1.html)  
-[Everyone.net's Privacy Statement](http://www.everyone.net/main/html/p_policy.html)
+In addition, we may use the information we obtain from our customers in the aggregate to determine our customers' demographics and preferences. By doing so, we are able to deliver targeted advertisements on our website which you may find to be helpful and informative.  Also, in the unlikely event that part or all of Catalogs.com assets are acquired, Customer Information may be one of the transferred assets.
 
-  **Cookies**
+**_How Do I Update My Customer Information?_**
 
-Our Site uses cookies strictly for your convenience to deliver content specific to your interests.  We also use cookies to save your user identification so you don’t have to re–enter it each time you visit our site.  We do not store any personal data in the cookie and we do not use it to track and report consumer actions on the Site.  We also do not share or sell any cookie related information.
+In order to make sure that you receive the full benefit of our website, you should make sure that we have the most up-to-date information about you. Please remember that we will not remind you to update your information, and it is your responsibility to make sure that we have your correct information.
 
-Catalogs.com/CatalogSavings.com may use third parties to serve ads or track sales/leads on our site. These ads or tracking functions may contain cookies. Catalogs.com/CatalogSavings.com does not control these cookies, and they are not subject to Catalogs.com/CatalogSavings.com's Privacy Policy. If you would like more information about the information collection practices of this third-party company and to know your choices about not having this information used by this company,  [click here](http://www.doubleclick.com/us/corporate/privacy/). 
+If you want to update your account information at Catalogs.com, you may re-enter or modify your personal information by completing a new order form.
 
-  **External Links**
+**_Internet Privacy_**
 
-This site contains links to other sites. **Catalogs.com/CatalogSavings.com** is not responsible for the privacy practices or the content of such Web sites. 
+In order to provide better service, we may use “cookies.”  A cookie is a small amount of data which our website stores on your computer, and which we can later retrieve. The cookie cannot be read by a site other than ours. We use cookies for administrative purposes only; for example, to store your preferences for certain kinds of information. No cookie will contain information that will allow anyone to contact you via telephone, e-mail, or any other means. You can monitor our use of cookies on your computer by setting your Web browser to inform you when cookies are set, or you can prevent the cookies from being set entirely. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please understand that if you disable the use of cookies on your computer, you may be unable to access certain portions or services of our website.
 
-****Choice/Opt-Out****
+Catalogs.com also may use third parties to display advertisements and track leads and/or sales from our website. These ads and/or tracking functions may use cookies. Catalogs.com does not control these cookies, and they are not subject to Catalogs.com's privacy policy.
 
-Our site provides users the opportunity to decline or “opt-out” of receiving information on new products, services, special offers and upcoming events 
+**_Keeping Things Safe_**
 
-> 1.        You can visit the following URL: [http://www.catalogsavings.com/catalog/unsubscribe.asp ](http://www.catalogsavings.com/catalog/unsubscribe.asp)
+We want you to feel secure when using our website.  To that end, we work with catalog companies and other merchants that have been in business for many years and have a proven track record of reliability.  We also take reasonable steps to protect our servers and data centers in order to prevent the loss, misuse and alteration of any Customer Information under our control. 
 
-**Data Quality/Access**
+**_Children's Online Privacy Protection Act (COPPA)_**
 
-This site gives users the following options for changing and modifying information previously provided: 
+Catalogs.com is a website directed to the general public. Catalogs.com does not knowingly offer catalogs or services to children, nor does Catalogs.com knowingly request information from children. If you are under 18, you may use our website only with the involvement and supervision of a parent or adult guardian. We reserve the right to cancel, without prior notice to you, any orders for catalogs or services ordered by you if we know, or have reason to believe, you are not over the age of 18.
 
-1.        You can visit the following URL: [http://www.catalogsavings.com/catalog/changeprofile.asp ](http://www.catalogsavings.com/catalog/changeprofile.asp)
+**_Changes to Our Privacy Policy_**
 
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of our Web site, or your dealings with Catalogs.com/CatalogSavings.com, you can contact:
-
-Jerry Haygood  
-Chief Technical Officer  
-Catalogs.com/CatalogSavings.com  
-318 Indian Trace #330  
-Weston, FL 33326  
-[jerry@catalogsavings.com ](mailto:jerry@catalogsavings.com)
+As our customers' needs change, we may find it necessary to amend or revise this Privacy Policy. Any such revisions or additions will be posted on this page. Please re-visit this page from time to time to make sure that you are aware of any additions or revisions to this policy. If you have any concern about privacy at Catalogs.com, we want you to tell us about it.  Drop us an email at info@catalogs.com, and we will try to get your questions answered.  This Privacy Policy may change, and use of Customer Information that we gather is subject to the privacy policy in effect at the time of collection or use of the Customer Information.
