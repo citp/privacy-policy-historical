@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webacclaim.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605093512id_/http%3A//www.info-pack.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webacclaim.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204050145id_/http%3A//www.info-pack.com/privacy.htm) for the most accurate reproduction.*
 
 # Information Packaging - Privacy Policy
 
-Correspondence
+Order forms and admin systems
 
 Order and Quote Forms:  
 Information is collected at the time of a sale in order to complete the sale and provide the products or services.
@@ -34,6 +34,11 @@ Correspondence
 If you contact Information Packaging, your correspondence will be kept for future reference, which will include only the details you have provided with that correspondence.  
 Information Packaging does not add the contact details from any correspondence to any mailing lists or databases.  
 The information contained in the email will be used so that we may reply to your email.
+
+Order Forms and Admin Systems:  
+Order forms on our sites are provided by third party processors and information submitted to them is subject to their privacy policies.  
+The information you submit through our administration systems is used to provide a service to you.  
+This information will not be passed on to any third parties except where required by law or with your written consent.
 
 **2\. Use and Disclosure.**
 
