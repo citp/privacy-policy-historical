@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the saintsreport.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202031152id_/http%3A//saintsreport.com/PrivacyStatement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saintsreport.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606021650id_/http%3A//saintsreport.com/PrivacyStatement.shtml) for the most accurate reproduction.*
 
 # Saintsreport.com | New Orleans Saints News, Info & Community
 
-This confirms that Iron Era Media, Inc. is a licensee of the TRUSTe Privacy Program.  This privacy statement discloses the privacy practices for saintsreport.com. 
+This confirms that Indian Enterprises, Inc. is a licensee of the TRUSTe Privacy Program.  This privacy statement discloses the privacy practices for saintsreport.com. 
 
 TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices.  Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
@@ -16,11 +16,11 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 
 5.   What choices are available to you regarding collection, use and distribution of the information 
 
-6.   The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Iron Era Media, Inc. control 
+6.   The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Indian Enterprises, Inc. control 
 
 7.   How you can correct any inaccuracies in the information. 
 
-Iron Era Media, Inc.  is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  Iron Era Media, Inc. collects information from our users at several different points on our website.  
+Indian Enterprises, Inc.  is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  Indian Enterprises, Inc. collects information from our users at several different points on our website.  
  
 
 **Registration**  
@@ -52,7 +52,7 @@ These parties are not allowed to use personally identifiable information except 
 
   
 **Links  
-**This web site contains links to other sites. Please be aware that we Iron Era Media, Inc.  are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this Web site.
+**This web site contains links to other sites. Please be aware that we Indian Enterprises, Inc.  are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this Web site.
 
   
 **Newsletter  
@@ -64,7 +64,7 @@ These parties are not allowed to use personally identifiable information except 
 
   
 **Tell-A-Friend  
-**If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address.  Iron Era Media, Inc. will automatically send the friend a one-time email inviting them to visit the site.  Iron Era Media, Inc. stores this information for the sole purpose of sending this one-time email.  The friend may contact Iron Era Media, Inc. at saintsreport.com to request the removal of this information from their database.
+**If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address.  Indian Enterprises, Inc. will automatically send the friend a one-time email inviting them to visit the site.  Indian Enterprises, Inc. stores this information for the sole purpose of sending this one-time email.  The friend may contact Indian Enterprises, Inc. at saintsreport.com to request the removal of this information from their database.
 
   
 **Security  
@@ -74,7 +74,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.  Our employees must use password-protected screen-savers when they leave their desk.  When they return, they must re-enter their password to re-gain access to your information.  Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected.  Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
-If you have any questions about the security at our website, you can send an email to [webmaster@ironera.com](mailto:webmaster@ironera.com).
+If you have any questions about the security at our website, you can send an email to [the webmaster.](mailto:webmaster@saintsreport.com)
 
   
 **Supplementation of Information  
@@ -98,7 +98,7 @@ Site and Service Updates
 **Choice/Opt-out   
 **Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information.  For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support@saintsreport.com](mailto:support@thiswebsite.com).
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email [the webmaster.](mailto:webmaster@saintsreport.com).
 
 Users of our site are always notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
