@@ -1,416 +1,230 @@
-<!--The following is the downloaded HTML source of the rockwellcollins.com privacy policy that was archived on 2003-08-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030811010227id_/http%3A//www.rockwellcollins.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockwellcollins.com privacy policy that was archived on 2004-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040620172305id_/http%3A//www.rockwellcollins.com/privacy) for the most accurate reproduction.-->
 
-<html><head><script language="javascript">
-<!--
-
-//
-// The displayprintableview capability is currently designed to toggle the printable 
-// view of the current page.  This is done by appending and removing "pv=1" at the 
-// end of the querystring.  If "pv=1" does not exist in the querystring it is appended
-// to the end.  If it already exists in the querystring then it is removed.  
-// The includes/header.asp file checks request("pv") - if 1 then the nav menu is not 
-// displayed, else the nav menu is displayed.
-//
-// Note:  Only querystring values are passed.  So if a page was submitted with a form,
-//        the form must use ACTION="GET" so that the form values appear in the 
-//        querystring when printableview is invoked.
-//        
-
-function getprintableviewurl(){
-
-	// Purpose:  Toggles printable view link.  If "pv=1" is not in the current URL then it is appended.  
-	// If it is in the current URL then it is removed.  
-	//
-	// 
-	// 
-	// 
-	// 
-	// 
-	url = document.location.href
-	url = url.toLowerCase()
-	//document.write(url)
-	
-
-	//Need to handle cases where pv is at start, middle, 
-	case1 = "?pv=1"	// pv is last and only param
-	case2 = "&pv=1" // pv is last param
-	case3 = "pv=1&" // pv has params following
-	case4 = "?pv=1#" // pv is only param and has anchor following
-	case5 = "&pv=1#" // pv is last param and has anchor following
-
-	//If url ends in "/" then append "index.asp? to URL
-	urlEndchar = url.substring(url.length-1)
-	if (urlEndchar == "/") {
-		url = url + 'index.asp' 
-	}
-	urlEnd = url.substring(url.length-5)
-
-	//
-	//Currently printable view so create a link back to full view
-	if ((urlEnd == case1) || (urlEnd == case2)){
-		linktext = "Return to full view"
-		urlnew = url.substring(0,url.length-5)
-	}else{
-		if (url.indexOf(case3) != -1){
-			linktext = "Return to full view"
-			urlnew = url.substring(0,url.indexOf(case3)) + url.substring(url.indexOf(case3)+5)
-		}else{
-			if (url.indexOf(case4) != -1){
-				linktext = "Return to full view"
-				urlnew = url.substring(0,url.indexOf(case4)) + url.substring(url.indexOf(case4)+5)
-			}else{
-				if (url.indexOf(case5) != -1){
-					linktext = "Return to full view"
-					urlnew = url.substring(0,url.indexOf(case5)) + url.substring(url.indexOf(case5)+5)					
-				}else{
-					linktext = "Printable view"
-					if (url.indexOf("?") == -1){
-						pvstring = "?pv=1"
-					}else{
-						pvstring = "&pv=1"
-					}
-					
-					A = url.indexOf("#")
-					//If an anchor exists 
-					if (A != -1){
-						//... assume it is at end of query string and extract it
-						urlstart = url.substring(0,A)
-						anchor = url.substring(A)
-						urlnew = urlstart + pvstring + anchor
-					}else{
-						urlnew = url + pvstring
-					}
-				}
-			}
-		}
-	}
-	// pvlink = '<a href="' + urlnew + '">' + linktext + '</a>'
-    // document.write('urlnew = ' + urlnew + '<br>')
-}
-
-function displayprintableview (){
-
-	pv =      '<table width=470 border=0 cellpadding=0 cellspacing=0>'
-	pv = pv + '  <tr>'
-	pv = pv + '    <td width=345>&nbsp;</td>'
-	pv = pv + '    <td valign=top width=125 align=left>'
-	pv = pv + '      <font face=arial size=1>'
-	pv = pv + '      <a href="' + urlnew + '">' + linktext + '</a>'
-	pv = pv + '      </font>'
-	pv = pv + '    </td>'
-	pv = pv + '  </tr>'
-	pv = pv + '</table>'
-
-	document.write(pv)
-
-}
-
-function displayprintableviewlink (){
-
-	pv =      '      <font face=arial size=1>'
-	pv = pv + '      <a href="' + urlnew + '">' + linktext + '</a>'
-	pv = pv + '      </font>'
-
-	document.write(pv)
-}
-//-->
-</script>
-<script language="JavaScript">
-<!--
-// Create and display javascript menus.
-//
-// - This file must be included somewhere on the page.
-// - The submenu functions expect "page=x" to be in the URL where x is the number of the page.  if not found or
-//   x = "" then page=1 is assumed.
-// - Must define pages[] array containing the links to be included in the menu.
-// - Must call the submenu_putmenu(pages) function to display the menu
-// - A marker is displayed to the left of the menu item corresonding to the page in the URL
-//
-// ie) The following Javascript would be placed in an html page to define and display a submenu
-//     in a page
-//
-//   <scrpt language = "JavaScript">
-//   <!--
-//   
-//   // Define the menu - up to 9 pages
-//   var pages = new Array();
-//   pages[0] = '<a href="index.asp?sp=is-pl21&page=1">Airspace Savvy. Wall Street Smart.</a>';
-//   pages[1] = '<a href="index.asp?sp=is-pl21&page=2">Keeping Pilots In Touch In Every Phase Of Flight.</a>';
-//   pages[2] = '<a href="index.asp?sp=is-pl21&page=3">Applying Tomorrow\'s Technology To Today\'s Aircraft.</a>';
-//   pages[3] = '<a href="index.asp?sp=is-pl21&page=4">Transitioning To Tomorrow.</a>';
-//   pages[4] = '<a href="index.asp?sp=is-pl21&page=5">Uncommon Value. Unmatched Performance.</a>';
-//   
-//   submenu_putmenu(pages);
-//   
-//   //-->
-//   </scrpt>
-//   
-//  example url:  http://wwwdev.rockwellcollins.com/brs/productmenu/systems/index.asp?sp=is-pl21&page=4   
-//
-
-function submenu_getpagenum()
-{
-  var loc = location.href;
-  var p;
-  loc = new String(loc);
-  var q = loc.indexOf("page=");
-  if(q != -1)
-  {
-    p = loc.substring(eval(q+5), eval(q+6));
-    if (p == '') p = 1;
-  }
-  else
-  {
-    p = '1';
-  }
-  p = p - 1;
-  if (p < 0) p = 1;
-  return parseInt(p);
-}
-
-function submenu_pagemarker(pagenum,menupagenum)
-{
-  if(pagenum == menupagenum) 
-  {
-    return '<img src="/includes/images/tri_right.gif" border="0">'
-  }
-  else
-  {
-    return '&nbsp;'
-  }
-}
-
-
-function submenu_putmenu(menuitems)
-{
-  var thispage;
-  thispage = submenu_getpagenum();
-  document.writeln ('<table cellspacing=0>');
-  for (var i = 0; i < pages.length; i++)
-  {
-    if (pages[i] == '') break;
-    document.writeln ('<tr><td>' + submenu_pagemarker(thispage,i) + '</td><td><font size=2 face=arial>' + menuitems[i] + '</font></td></tr>');
-  }
-  document.writeln ('</table>');
-}
-
-//-->
-</script>
-
-<script language="JavaScript">
-<!--
-function openBrWindow(theURL) { //v2.0
-  window.open(theURL,'','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes');
-}
-//-->
-</script>
-
-
-
-
-
-
-
-<link rel="stylesheet" type="text/css" href="/css/common.css">
-<title>Rockwell Collins - Privacy Statement</title>
-
-<script language="javascript"><!--
-	getprintableviewurl()
-//--></script>
-
-</head>
-
-<body alink="#CC0033" link="#333333" vlink="#669999" bgcolor="#FFFFFF" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
-      
-    <table width="800" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr height="65">
-			<!-- Nav Menu -->
-			<td rowspan="3" width="205" valign="top" bgcolor="#C0C0C0">
-				<table border="0" width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr><td valign="middle"><center>&nbsp;<img src="/images/line.gif" width="180" height="2" border="0">&nbsp;</center></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/"><font id="navitem"><font color="#606060"><i><b><font id="navitem"><font color="#606060">Rockwell Collins Home</font></font></b></i></font></font></a></font></td></tr>
-<tr><td valign="middle"><center>&nbsp;<img src="/images/line.gif" width="180" height="2" border="0">&nbsp;</center></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/about"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">About Us</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/products/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Products and Systems</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/service"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Service and Support</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/comsys/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Commercial Systems</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/gs/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Government Systems</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/international"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Worldwide</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/scm/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Suppliers</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/newsroom/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Newsroom</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.shareholder.com/col/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Investor Relations</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/careers/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Careers</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><center>&nbsp;<img src="/images/line.gif" width="180" height="2" border="0">&nbsp;</center></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/search"><font id="navitem"><font color="#444444"><b><font id="navitem"><font color="#444444">Search</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><center>&nbsp;<img src="/images/line.gif" width="180" height="2" border="0">&nbsp;</center></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/contacts"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Contacts</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/feedback"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Feedback</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/referral"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Send To A Friend</font></font></b></font></font></a></font></td></tr>
-<tr><td valign="middle"><center>&nbsp;<img src="/images/line.gif" width="180" height="2" border="0">&nbsp;</center></td></tr>
-</tbody></table>
-
-			</td>
-			<!-- 1px spacer -->
-			<td rowspan="3" width="1" valign="top" bgcolor="#000000">
-				<img border="0" src="/images/shim.gif" width="1" height="1" alt="shim.gif">
-			</td>
-			<!-- Page Title, Logo & Identity Bar  -->
-			<td height="65" width="594" align="left" valign="top">
-
-				<table width="594" height="65" border="0" cellpadding="0" cellspacing="0">
-					<!-- Page Title, Logo -->
-					<tbody><tr>
-						<td width="15" height="50" align="left"><img border="0" src="/images/shim.gif" width="1" height="1" alt="shim.gif"></td>
-						<td width="345" height="50" align="left"><font size="4" face="arial" color="#CC0033"><b>Privacy Statement</b></font></td>
-						<td width="125" height="50" align="left" valign="top"><img src="/images/rkclogosmall1.jpg" height="45" width="125" border="0" alt="Rockwell Collins logo"></td>
-						<td width="109" height="50" align="left">&nbsp;</td>
-					</tr>
-					<!-- Identity Bar  -->
-					<tr> 
-						<td colspan="4" valign="middle" height="10" bgcolor="#999999" align="LEFT"><img src="/images/shim.gif" height="10" width="25" alt="shim.gif"><font face="times" size="2" color="#000000"><b>R O C K W E L L &nbsp;&nbsp;&nbsp;C O L L I N S </b></font></td>
-					</tr>
-				</tbody></table>
-			</td>	
-		</tr>
-		<tr> 
-			<!-- TD for Nav Menu is rowspanned -->
-			<!-- TD for 1px spacer is rowspanned -->
-			<!-- TD for Page content & left margin -->
-			<td width="594" align="LEFT" valign="top" height="400&quot;">
-				<table width="594" border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<!-- Left Margin of content -->
-						<td width="25"><img border="0" src="/images/shim.gif" width="25" height="1" alt="shim.gif"></td>
-						
-						<td valign="top" width="569">
-<!-- --------------------- -->				
-<!-- Start of Page Content -->
-<!-- --------------------- -->				
-
-
-<table width="485" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td width="100%" height="20"><img border="0" src="/images/shim.gif" width="1" height="1" alt="shim.gif"></td></tr>
-	<tr><td><font face="Arial" size="2">
-		<table align="right" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td rowspan="3" width="14"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-			    <td rowspan="3" width="1" bgcolor="#CC0033"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-				<td rowspan="3" width="15"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-			    <td height="10"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-			</tr>
-			<tr>
-				<td><table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td height="20"><font face="arial" size="1"><a href="/terms">Terms of Access</a></font></td>
-  </tr>
-  <tr>
-    <td height="20"><font face="arial" size="1"><a href="/privacy">Privacy Statement</a></font></td>
-  </tr>
-  <tr>
-    <td height="20"><font face="arial" size="1"><a href="/cookie">Cookie Statement</a></font></td>
-  </tr>
-</tbody></table>
-</td>
-			</tr>
-			<tr>
-				<td height="20"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-			</tr>
-			<tr>
-				<td colspan="4" height="20"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
-			</tr>
-		</tbody></table>
-		
-<p><font face="Arial, Helvetica, sans-serif" size="2"><b>PRIVACY </b></font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2">This privacy statement explains 
-  our policy regarding any personal information you may supply to us when visiting 
-  any Rockwell Collins Website. </font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2"><b>PERSONAL INFORMATION</b> 
-  </font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2">There are times when we 
-  may need information from you; additionally some areas of our Websites may require 
-  you to complete a registration form. Our goal in collecting this personal information 
-  is to offer you a more personalized browsing experience. When you let us know 
-  your preferences we will be able to deliver or allow you to access the most 
-  relevant information that meets your needs. </font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2">To extend this personalization 
-  experience Rockwell Collins Websites may save information on your system in 
-  the form of a cookie. </font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2">Rockwell Collins will not 
-  share e-Mail addresses with anyone outside Rockwell Collins nor disclose user 
-  information to any third party. </font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2">This site gives you the 
-  option to remove your information from our database if you no longer wish to 
-  have this information used, as a basis for further contact with you. Please 
-  click on the following link to send your e-mail request, <a href="mailto:collins@rockwellcollins.com">collins@rockwellcollins.com</a>. 
-  </font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2"><b>Contact Us </b></font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2">In various areas throughout 
-  our Websites, we use e-mail links to allow you to contact us directly with any 
-  questions or comments that you may have. This information may be filed and used 
-  to help us prioritize our development needs and continuously improve our Websites 
-  to meet your needs. </font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2"><b>BUSINESS RELATIONSHIPS 
-  </b></font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2">In working with our business 
-  associates, we require strict contractual obligations, which ensure that your 
-  information is safeguarded. Rockwell Collins Websites contain links to other 
-  Websites. Rockwell Collins is not responsible for the privacy practices, copyright 
-  or content of such Websites. </font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2"><b>PUBLIC FORUMS</b> </font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2">We also make available: 
-  forums, message boards and news groups to our customers. Please remember that 
-  any information that is disclosed in these areas becomes public information 
-  and you should exercise caution when deciding to disclose your personal information.</font> 
-</p>
-</font></td></tr>
-</tbody></table>
-
-
-<!-- --------------------- -->				
-<!-- End of Page Content   -->
-<!-- --------------------- -->				
-
-						
-							<table width="485" border="0" cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td height="25">
-										&nbsp;
-									</td>
-								</tr>
-								<tr>
-									<td>
-										<center><font face="arial,helvetica" size="1">
-								  		<b>Copyright © Rockwell Collins, Inc. All rights reserved.</b>
-								  		</font>
-								  		</center>
-									</td>
-								</tr>
-								<tr>
-									<td>
-										<center><font face="arial,helvetica" size="1">
-										<a href="/terms">Terms of Access</a>&nbsp;&nbsp;|&nbsp;
-					  					<a href="/privacy">Privacy Statement</a>&nbsp;&nbsp;|&nbsp;
-					  					<a href="/cookie">Cookie Statement</a>
-					  					</font>
-										</center>
-									</td>
-								</tr>
-								<tr>
-									<td height="10">
-										&nbsp;
-									</td>
-								</tr>
-							</tbody></table>						
-	
-					</td>
-				</tr>
-			</tbody></table>
-			<!-- TD for Page content & left margin -->
-		</td>
-	</tr>
-</tbody></table>
-
-
-
+<html><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <meta content="Percussion Rhythmyx" name="generator">
+      <title>Privacy Statement</title><script language="JavaScript">
+//   <!-- #include virtual="/includes/domainredirect.asp" --></script><script language="JavaScript" src="/javascript/gen_functions.js"></script><link rel="stylesheet" type="text/css" href="/stylesheets/rockwell_ns.css"><script language="VBScript" src="/vbscript/gen_functions.vbs"></script><meta name="TITLE" content="Privacy Statement">
+      <meta name="DESCRIPTION" content="This privacy statement explains our policy regarding any personal information you may supply to us when visiting any Rockwell Collins Website.">
+      <meta name="KEYWORDS" content="privacy statement, policy, personal information, legal statement">
+      <meta name="CONTENT-LANGUAGE" content="English">
+      <meta name="ROBOTS" content="index, follow">
+   </head>
+   <body leftmargin="0" marginheight="0" marginwidth="0" rightmargin="0" topmargin="0">
+      <!-- ======================================== -->
+      <!-- HEADER -->
+      <!-- ======================================== -->
+      <table border="0" cellpadding="0" cellspacing="0" width="789">
+         <tbody><tr>
+            <td width="312" height="39" background="/images/header_left.jpg"><img src="/images/spacer.gif" border="0" width="312" height="39"></td>
+            <td background="/images/blk_bkg.jpg" width="246" height="39">
+               <form name="frmSearch" class="search" action="/search.asp">
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                     <tbody><tr>
+                        <td valign="middle"><a href="/contact/index.html"><img src="/images/contactus_off.jpg" border="0" alt="Contact Us" width="62" height="13" name="contactus"></a></td>
+                        <td valign="middle"><a href="javascript:frmSearch.submit();"><img src="/images/search.jpg" alt="Search" border="0" width="42" height="13"></a></td>
+                        <td valign="middle"><script language="JavaScript">
+                  
+                  if(NS4)
+                  {
+                  document.write('<input type="text" name="txtSearch" class="headerSearchNS" size="8">');
+                  }
+                  else
+                  {
+                  document.write('<input type="text" name="txtSearch" class="headerSearch" size="16">');
+                  }
+                  
+                  </script><input type="text" name="txtSearch" class="headerSearch" size="16"></td>
+                        <td valign="middle"><a href="javascript:frmSearch.submit();"><img src="/images/go_off.jpg" border="0" name="go" alt="Go" width="26" height="13"></a></td>
+                     </tr>
+                  </tbody></table>
+               </form>
+            </td>
+            <td width="51" height="39" background="/images/header_bkg_rt.jpg"><img src="/images/spacer.gif" width="51" height="1"></td>
+            <td rowspan="2" width="186" align="right" valign="middle"><img src="/images/RockwellCollinsLogo1.jpg" border="0" alt="Rockwell Collins Logo" width="186" height="53"></td>
+         </tr>
+         <tr>
+            <td colspan="3">
+               <!-- Navigation Header Bar Auto Global Slot -->
+               <table border="0" cellpadding="0" cellspacing="0">
+                  <tbody><tr>
+                     <td><a href="/index.asp"><img alt="Home " border="0" name="TbHome" src="/images/TbHome_off.jpg"></a></td>
+                     <td><a href="/about/index.html"><img alt="About Us" border="0" name="TbAboutUs" src="/images/TbAboutUs_off.jpg"></a></td>
+                     <td><a href="/products/index.html"><img alt="Products And Systems" border="0" name="TbProductsAndSystems" src="/images/TbProductsAndSystems_off.jpg"></a></td>
+                     <td><a href="/service/index.html"><img alt="Service And Support" border="0" name="TbServiceAndSupport" src="/images/TbServiceAndSupport_off.jpg"></a></td>
+                     <td><span><a href="http://www.shareholder.com/col"><img alt="Investor Relations" border="0" name="TbInvestorRelations" src="/images/TbInvestorRelations_off.jpg"></a></span></td>
+                     <td><a href="/news/index.html"><img alt="News" border="0" name="TbNews" src="/images/TbNews_off.jpg"></a></td>
+                     <td><a href="/careers/index.html"><img alt="Careers" border="0" name="TbCareers" src="/images/TbCareers_off.jpg"></a></td>
+                     <td><a href="/suppliers/index.html"><img alt="Suppliers" border="0" name="TbSuppliers" src="/images/TbSuppliers_off.jpg"></a></td>
+                  </tr>
+               </tbody></table>
+            </td>
+         </tr>
+      </tbody></table>
+      <!-- end header -->
+      <table border="0" cellpadding="0" cellspacing="0" height="300" width="789">
+         <tbody><tr>
+            <td height="1" width="788" background="/images/line_hz.gif"><img border="0" height="1" width="788" src="/images/spacer.gif"></td>
+            <td rowspan="3" width="1" background="/images/line_vert_left.gif"><img border="0" height="1" width="1" src="/images/spacer.gif"></td>
+         </tr>
+         <tr>
+            <td valign="top">
+               <table border="0" cellpadding="0" cellspacing="0" width="788">
+                  <tbody><tr>
+                     <td colspan="2" valign="top">
+                        <!--Navigation Mousetracks Auto Global Slot-->&nbsp;
+                              <a href="/index.asp" class="mouseTrack">Home</a>
+                              <span class="mouseTrack">&gt;</span>
+                           <span class="mouseTrack">Privacy Statement</span></td>
+                     <td align="right" valign="top"><a href="/privacy/prn_index.html"><img align="absmiddle" alt="Printable View" border="0" src="/images/printer.gif"></a><a class="topNav" href="/privacy/prn_index.html">printable view</a> &nbsp;&nbsp;
+                        
+                     </td>
+                  </tr>
+                  <tr height="3">
+                     <td colspan="2" height="3"><img border="0" height="3" src="/images/spacer.gif"></td>
+                  </tr>
+               </tbody></table>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top">
+               <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody><tr>
+                     <td valign="top" width="170">
+                        <!--Navigation Side Auto Global Slot-->&nbsp;<a href="/index.asp" class="leftNavSelected">Home</a>
+                              <br>&nbsp;&nbsp;&nbsp;<a href="/about/index.html" class="leftNav">About Us</a>
+                              <br>&nbsp;&nbsp;&nbsp;<a href="/products/index.html" class="leftNav">Products And Systems</a>
+                              <br>&nbsp;&nbsp;&nbsp;<a href="/service/index.html" class="leftNav">Service And Support</a>
+                              <br>&nbsp;&nbsp;&nbsp;<a href="http://www.shareholder.com/col" class="leftNav">Investor Relations</a>
+                              <br>&nbsp;&nbsp;&nbsp;<a href="/news/index.html" class="leftNav">News</a>
+                              <br>&nbsp;&nbsp;&nbsp;<a href="/careers/index.html" class="leftNav">Careers</a>
+                              <br>&nbsp;&nbsp;&nbsp;<a href="/suppliers/index.html" class="leftNav">Suppliers</a>
+                              <br>&nbsp;&nbsp;&nbsp;<a href="/contact/index.html" class="leftNav">Contact Us</a>
+                              <br>
+                           <br><img height="1" width="170" src="/images/spacer.gif"></td>
+                     <td valign="top" width="5" background="/images/line_vert.gif"><img height="300" width="5" src="/images/spacer.gif"></td>
+                     <td valign="top">
+                        <!-- Global Template Display Title -->
+                        <table border="0" width="100%" cellpadding="3" cellspacing="0">
+                           <tbody><tr>
+                              <td valign="bottom"><span class="pageTitle">Privacy Statement</span></td>
+                           </tr>
+                           <tr>
+                              <td valign="top" height="1"><img src="/images/graypixel.gif" height="1" border="0" align="top" width="600"></td>
+                           </tr>
+                        </tbody></table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                           <tbody><tr>
+                              <td valign="top"><img width="5" src="/images/spacer.gif"></td>
+                              <td valign="top"><br id="XSpLit"><p class="heading"><b></b></p>
+                                 
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                        <font face="Arial, Helvetica" size="2">
+                                                <b>PRIVACY</b>
+                                             </font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">This privacy statement explains our policy regarding any personal information you may supply to us when visiting any Rockwell
+                                       Collins Website.</font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">
+                                                <b>PERSONAL INFORMATION</b>
+                                             </font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">There are times when we may need information from you; additionally some areas of our Websites may require you to complete
+                                       a registration form. Our goal in collecting this personal information is to offer you a more personalized browsing experience.
+                                       When you let us know your preferences we will be able to deliver or allow you to access the most relevant information that
+                                       meets your needs.</font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">To extend this personalization experience Rockwell Collins Websites may save information on your system in the form of a cookie.</font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">Rockwell Collins will not share e-Mail addresses with anyone outside Rockwell Collins nor disclose user information to any
+                                       third party.</font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">This site gives you the option to remove your information from our database if you no longer wish to have this information
+                                       used, as a basis for further contact with you. Please click on the following link to send your e-mail request,</font>
+                                          <a href="mailto:collins@rockwellcollins.com"><font face="Arial, Helvetica" size="2">collins@rockwellcollins.com</font></a>
+                                          <font face="Arial, Helvetica" size="2">.</font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">
+                                                <b>Contact Us</b>
+                                             </font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">In various areas throughout our Websites, we use e-mail links to allow you to contact us directly with any questions or comments
+                                       that you may have. This information may be filed and used to help us prioritize our development needs and continuously improve
+                                       our Websites to meet your needs.</font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">
+                                                <b>BUSINESS RELATIONSHIPS</b>
+                                             </font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">In working with our business associates, we require strict contractual obligations, which ensure that your information is
+                                       safeguarded. Rockwell Collins Websites contain links to other Websites. Rockwell Collins is not responsible for the privacy
+                                       practices, copyright or content of such Websites.</font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">
+                                                <b>PUBLIC FORUMS</b>
+                                             </font>
+                                       
+                                 </p>
+                                    
+                                 <p xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:w="urn:www.microsoft.com/word">
+                                          <font face="Arial, Helvetica" size="2">We also make available: forums, message boards and news groups to our customers. Please remember that any information that
+                                       is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal
+                                       information.</font>
+                                       
+                                 </p>
+                                 
+                              </td>
+                              <td valign="top"><img width="5" src="/images/spacer.gif"></td>
+                           </tr>
+                        </tbody></table><img height="1" src="/images/spacer.gif" width="593"></td>
+                  </tr>
+               </tbody></table>
+            </td>
+         </tr>
+      </tbody></table><br id="XSpLit"><table width="789">
+         <tbody><tr>
+            <td align="center">
+               <!-- ======================================== -->
+               <!-- FOOTER -->
+               <!-- ======================================== --><br>
+               <!--Navigation Footer Bar Auto Global Slot--><a href="/index.asp" class="copyright">HOME </a><span class="copyright"> | </span><a href="/about/index.html" class="copyright">ABOUT US</a><span class="copyright"> | </span><a href="/products/index.html" class="copyright">PRODUCTS AND SYSTEMS</a><span class="copyright"> | </span><a href="/service/index.html" class="copyright">SERVICE AND SUPPORT</a><span class="copyright"> | </span><span><a href="http://www.shareholder.com/col" class="copyright">INVESTOR RELATIONS</a></span><span class="copyright"> | </span><a href="/news/index.html" class="copyright">NEWS</a><span class="copyright"> | </span><a href="/careers/index.html" class="copyright">CAREERS</a><span class="copyright"> | </span><a href="/suppliers/index.html" class="copyright">SUPPLIERS</a><span class="bottomNav"><br><img src="/images/spacer.gif" border="0" width="50" height="15"></span><span class="copyright">Copyright © Rockwell Collins, Inc. All rights reserved.&nbsp;</span><a href="/terms" class="copyright">Terms of Access</a><span class="copyright">&nbsp;| </span><a href="/privacy" class="copyright">Privacy Statement</a><span class="copyright">&nbsp;| </span><a href="/cookie" class="copyright">Cookie Statement</a></td>
+         </tr>
+      </tbody></table>
+   
 </body></html>
