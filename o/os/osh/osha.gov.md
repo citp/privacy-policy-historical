@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217230226id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602135344id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
@@ -18,7 +18,7 @@ The above information is used by software programs on our website to create summ
 
 _If you identify yourself by sending an E-mail containing personal information:_
 
-You also may decide to send us personally-identifying information, for example your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your E-mail to other Government employees who are better able to respond to you. Should you wish to file a request under FOIA, instructions are provided at: [http://www.dol.gov/dol/public/foia/main.htm](https://web.archive.org/dol/foia/main.htm)
+You also may decide to send us personally-identifying information, for example your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your E-mail to other Government employees who are better able to respond to you. Should you wish to file a request under FOIA, instructions are provided at: [http://www.dol.gov/dol/foia/main.htm](https://web.archive.org/dol/foia/main.htm)
 
 _If you link to other sites outside DOL:_
 
