@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214130713id_/http%3A//matcotools.com/CustomerCare/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607184820id_/http%3A//matcotools.com/CustomerCare/privacy.jsp) for the most accurate reproduction.*
 
 # Matco Tools - A Division of Danaher
 
