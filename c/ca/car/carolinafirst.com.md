@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carolinafirst.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201174900id_/http%3A//carolinafirst.com/overview/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolinafirst.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405052619id_/http%3A//carolinafirst.com/overview/privacy.html) for the most accurate reproduction.*
 
 # Carolina First: Privacy Statement
 
