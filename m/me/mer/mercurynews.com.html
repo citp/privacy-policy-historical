@@ -1,411 +1,656 @@
-<!--The following is the downloaded HTML source of the mercurynews.com privacy policy that was archived on 2000-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000621082131id_/http%3A//www.mercurycenter.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mercurynews.com privacy policy that was archived on 2004-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041209114235id_/http%3A//mercurynews.com/mld/mercurynews/contact_us/terms_of_use) for the most accurate reproduction.-->
 
 <html><head>
-<title> Passport</title>
+        <script language="javascript" type="text/javascript">
+        
+    	
+          var rm = false;
+    	
+    	</script>
+
+
+	
+<title>Privacy Policy &amp; Terms of Use -- MercuryNews.com</title>
+<link rel="stylesheet" type="text/css" href="/css/palette/mercurynews/en/global.css"><script type="text/javascript" language="javascript">
+
+_krdDartOrd = new Date().getTime();
+
+_krdDartInc = 0;
+var navReady = false;
+var toolsReady = false;var onLoadScript="";function Browser() {var b=navigator.appName;
+if (b=="Netscape") this.b="ns";
+else if ((b=="Opera") || (navigator.userAgent.indexOf("Opera")>0)) this.b = "opera";
+else if (b=="Microsoft Internet Explorer") this.b="ie";
+// I have disabled the following line, but something similar might be useful later,
+// but launching a popup window is more polite than this alert.
+//if (!b) alert(''Unidentified browser./nThis browser is not supported,'');
+this.version=navigator.appVersion;
+this.v=parseInt(this.version);
+this.ns=(this.b=="ns" && this.v>=4);
+this.ns4=(this.b=="ns" && this.v==4);
+this.ns6=(this.b=="ns" && this.v==5);
+this.ie=(this.b=="ie" && this.v>=4);
+this.ie4=(this.version.indexOf('MSIE 4')>0);
+this.ie4up = (this.ie && this.v>= 4);
+this.ns5up = (this.ns && this.v>= 5);
+this.ie5=(this.version.indexOf('MSIE 5')>0);
+this.ie5up = (this.ie5);
+this.ie55=(this.version.indexOf('MSIE 5.5')>0);
+this.opera=(this.b=="opera");
+this.def=(this.ie||this.dom);var ua=navigator.userAgent.toLowerCase();
+this.mac = (ua.indexOf("mac")!=-1);if (ua.indexOf("win")>-1) this.platform="win32";
+else if (ua.indexOf("mac")>-1) this.platform="mac";
+else this.platform="other";
+}
+var is = new Browser();
+// tiny extra css. these are ONLY used by old browsers.
+// VAST majority of users will NEVER request these files.
+// Even NS4 is around 7% of market and falling
+if (is.ns4 && is.mac==false) {
+var css = "<LINK rel='stylesheet' type='text/css' href='/css/palette/mercurynews/en/browser/ns4.css'>\n";
+document.write(css);
+}
+if (((is.ns4)||(is.ie4))&&( is.mac)) {
+var css = "<LINK rel='stylesheet' type='text/css' href='/css/palette/mercurynews/en/browser/ns4mac.css'>\n";
+document.write(css);
+}
+if (is.ie4 && is.mac==false) {
+var css = "<LINK rel='stylesheet' type='text/css' href='/css/palette/mercurynews/en/browser/ie4.css'>\n";
+document.write(css);
+}
+
+function LayerObject(divId) {
+this.name = divId;
+if (is.ns4) this.ob = eval("document." +divId);
+else if (is.ie4) this.ob = document.all(divId);
+else this.ob = document.getElementById(divId);
+this.x = 0;
+this.y = 0;
+this.width = this.getWidth();
+this.height = this.getHeight();
+}
+LayerObject.prototype.px = (is.version>=5)?"px":"";
+LayerObject.prototype.hideSyntax = (is.ns4)? "hide":"hidden";
+LayerObject.prototype.showSyntax = "visible";// NS4::  Unbelievable, but document.layername.document.imgname works for img-in-layer-in document
+// and it works for img in layer in table in document.
+// but it doesnt work for img in layer in table in table in document.
+// Maybe a workaround exists, but it seems unlikely at this point.
+// The images MUST therefore be nested only one deep....
+LayerObject.prototype.getInlineLeft = function() {
+if (is.ns4) return this.ob.pageX;
+else if ((is.ie) || (is.opera)) {
+var elem = this.ob;
+var xPos = 0;
+var yPos = 0;
+while (elem.offsetParent != null) {
+xPos += elem.offsetLeft;
+yPos += elem.offsetTop;
+elem = elem.offsetParent;
+}
+if (is.mac) xPos += 2;
+return xPos;
+}
+else return (this.ob.offsetLeft + document.body.offsetLeft);
+}
+
+LayerObject.prototype.getInlineTop = function() {
+if (is.ns4) return this.ob.pageY;
+else if ((is.ie) || (is.opera)) {
+var elem = this.ob;
+var yPos=0;
+while (elem.offsetParent != null) {
+yPos += elem.offsetTop;
+elem = elem.offsetParent;
+}
+if (is.mac) yPos += 2;
+return yPos;
+}
+else return (this.ob.offsetTop+ document.body.offsetTop);
+}
+
+//getWidth and getHeight works for both inline and positioned divs.
+LayerObject.prototype.getWidth = function () {
+if (is.ns4) return this.ob.clip.width;
+else if (is.opera) return this.ob.style.pixelWidth;
+else return this.ob.offsetWidth;
+}
+LayerObject.prototype.getHeight = function () {
+if (is.ns4) return this.ob.clip.height;
+else if (is.opera) return this.ob.style.pixelHeight;
+else return this.ob.offsetHeight;
+}
+LayerObject.prototype.hide = function() {
+if (is.ns4) this.ob.visibility = this.hideSyntax;
+else this.ob.style.visibility = this.hideSyntax;
+}
+LayerObject.prototype.show = function() {
+if (is.ns4) this.ob.visibility = this.showSyntax;
+else this.ob.style.visibility = this.showSyntax;
+}
+LayerObject.prototype.moveLayerTo = function(toX, toY) {
+this.x = toX;
+this.y = toY;
+}
+LayerObject.prototype.updateLayer = function() {
+if (is.ns4) {
+this.ob.left = Math.round(this.x) + this.px;
+this.ob.top = Math.round(this.y)+ this.px ;
+}
+else {
+this.ob.style.left = Math.round(this.x) + this.px;
+this.ob.style.top = Math.round(this.y) + this.px;
+}
+}
+//-----------------
+function roll(divName, imgName, which) {
+var suffix = (which==1)?"on":"off"
+if ((is.ns4)&&(divName!=0)) {
+var imgObject = eval("document." + divName +".document.images['"+imgName +"']");
+imgObject.src = eval(imgName + "_" + suffix + ".src");
+}
+else {
+document.images[imgName].src = eval(imgName + "_" + suffix + ".src");
+}
+}
+
+function init() {
+if (onLoadScript) eval(onLoadScript);
+}
+
+// Workaround for the netscape resize problem --
+// namely, on resize ns looses div positioning and
+// styles from css files.
+// This checks to see if the window''s dimensions have
+// actually changed (because Netscape often fires a
+// false onResize event when it forms scrollbars);
+// if the dimensions have changed, page is reloaded
+function resizefix(){
+if((document.resizeFix.initWidth != window.innerWidth) ||
+(document.resizeFix.initHeight != window.innerHeight))
+{
+document.location = document.location;
+}
+}
+
+// This code creates a new object with properties
+// to hold the current window width & height to be
+// used in the event of a netscape resize
+document.resizeFix = new Object();
+if(is.ns4){
+document.resizeFix.initWidth = window.innerWidth;
+document.resizeFix.initHeight = window.innerHeight;
+window.onresize=resizefix;
+}
+
+function initMenus(){ //alert("DEBUG = not use nav channel") ;
+}
+
+
+function showResults(siteSurveyKey) {
+var url="/mld/templates/contentModules/poll-results-popup.jsp"+ "?siteSurveyKey=" + siteSurveyKey;
+window.open(url, 'Title');
+}
+
+function openWin(URL) {
+aWindow = window.open(URL,
+'thewindow','width=500,height=400,resizable=yes,scrollbars=yes');
+}
+
+
+
+
+
+</script>
 </head>
-<body bgcolor="#FFFFFF">
-	<table width="590" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr valign="top">
-<td colspan="4" align="center">
-<a name="backtotop">
-<img src="/graphics/sjm/spacer.gif" width="420" height="10" border="0"><br>
-</a></td>
-</tr>
-<tr>
-<td colspan="4">
-			<!-- Panel 1 -->
-									<!-- panelSetup.html -->
-<!-- PANELSETUP
-Parent is Ç%parent%ÈÇbrÈ
-Panelname is Ç%panelName%È -->
-				
-		
-				
-		
-      		<!-- nullLayout.oft -->
-<nobr><a href="http://www.mercurycenter.com"><img src="/graphics/sjm/folio.gif" alt="Mercury Center" width="180" height="18" border="0"></a><a href="/graphics/sjm/toolbar.map"><img src="/graphics/sjm/toolbar.gif" alt="This image allows you to access site resources" width="420" height="18" border="0" ismap="" usemap="#toolbar"></a></nobr></td>
-</tr>
-<tr valign="top">
-<td>
-			<!-- Panel 2 -->
-									<!-- panelSetup.html -->
-<!-- PANELSETUP
-Parent is Ç%parent%ÈÇbrÈ
-Panelname is Ç%panelName%È -->
-				
-		
-				
-		
-      		<!-- nullLayout.oft -->
-<!-- javascript -->
-			<script language="JavaScript">
-BN = navigator.appName;
-BV = parseInt(navigator.appVersion);
-V = "n3";
-if (BN == "Netscape" && BV >= 3) V = "n3";
-else if (BN == "Microsoft Internet Explorer" && BV >= 4) V = "n3";
-else V = "n2";
-if (V == "n3") {
-arrowon = new Image(12, 16);
-arrowon.src = "/graphics/sjm/arrow.gif";
-arrowoff = new Image(12, 16);
-arrowoff.src = "/graphics/sjm/white.gif";
+<body class="body" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+
+
+
+
+
+<script id="search_box_center_jsp_script" language="javascript" type="text/javascript">
+function searchFormSubmit(form) {
+var searchSelectIndex = form.searchSelect.selectedIndex;
+var searchSelectValue = form.searchSelect.options[searchSelectIndex].value;
+if (searchSelectValue == "archives") {
+window.location = "http://www.newslibrary.com/nlsearch.asp?forceTheme=RealCities&s_site=mercurynews&search_mode=all&action=search&date_mode=year&year=last+180+days&sort=d%3Ah&nitems=10&region=sj&dbquery=" + form.query.value;
+return false;
 }
-function img_onarrow(imgName) {
-if (V == "n3") {
-arrowOn = arrowon.src;
-document [imgName + "_arrow"].src = arrowOn;         
-}
-}
-function img_offarrow(imgName) {
-if (V == "n3") {
-arrowOff = arrowoff.src;
-document [imgName + "_arrow"].src = arrowOff;           
-}
+return true;
 }
 </script>
-<!-- Navigation/Promo quadrant -->
-<img src="/graphics/sjm/spacer.gif" width="165" height="8" border="0"><br>
-<font size="2">
-<a href="http://passportgate.realcities.com/osform/EmailDigestService?osform_template=/sjm/frame.oft&amp;publication=sjm&amp;content=email_digests.html">Register for free e-mail Dispatches</a><br><br>
-<b>Sections</b><br>
-<img src="/graphics/sjm/spacer.gif" name="pf_arrow" width="12" height="16" border="0"><a href="http://www.mercurycenter.com/front/" onmouseover="img_onarrow('pf'); window.status='Front Page: Front page stories from today\'s San Jose Mercury News, access to newspaper sections'; return true" onmouseout="img_offarrow('pf'); window.status=''; return true">News</a><br>
-<img src="/graphics/sjm/spacer.gif" name="pb_arrow" width="12" height="16" border="0"><a href="http://www.mercurycenter.com/business/" onmouseover="img_onarrow('pb'); window.status='Business: GMSV, Stocks, Computing and stories and today\'s San Jose Mercury News'; return true" onmouseout="img_offarrow('pb'); window.status=''; return true">Business &amp; Stocks</a><br>
-<img src="/graphics/sjm/spacer.gif" name="pg_arrow" width="12" height="16" border="0"><a href="http://www.mercurycenter.com/gmsv/" onmouseover="img_onarrow('pg'); window.status='Good Morning Silicon Valley: Weekday tech reports, updated five times a day'; return true" onmouseout="img_offarrow('pg'); window.status=''; return true">Technology</a><br>
-<img src="/graphics/sjm/spacer.gif" name="ps_arrow" width="12" height="16" border="0"><a href="http://www.mercurycenter.com/sports/" onmouseover="img_onarrow('ps'); window.status='Sports: Coverage of Bay Area teams, forums, columnists and stories from today\'s San Jose Mercury News'; return true" onmouseout="img_offarrow('ps'); window.status=''; return true">Sports</a><br>
-<img src="/graphics/sjm/spacer.gif" name="po_arrow" width="12" height="16" border="0"><a href="http://www.mercurycenter.com/opinion/" onmouseover="img_onarrow('po'); window.status='Opinion: Letters, editorials, forums, animated cartoons and stories from today\'s San Jose Mercury News'; return true" onmouseout="img_offarrow('po'); window.status=''; return true">Opinion</a><br>
-<img src="/graphics/sjm/spacer.gif" name="option23_arrow" width="12" height="16" border="0"><a href="http://cgi.mercurycenter.com/comics/" onmouseover="img_onarrow('option23'); window.status='SV Life: Fashion, family, health, garden, religion, travel, columnists and Celebrations from the San Jose Mercury News'; return true" onmouseout="img_offarrow('option23'); window.status=''; return true">Living &amp; Comics</a><br>
-<img src="/graphics/sjm/spacer.gif" name="pw_arrow" width="12" height="16" border="0"><a href="http://www.mercurycenter.com/weather/" onmouseover="img_onarrow('pw'); window.status='Weather: Bay Area Microclimates, California, National and International forecasts and reports'; return true" onmouseout="img_offarrow('pw'); window.status=''; return true">Weather</a><p>
-<font size="2">
-<b>Classifieds &amp; Services</b><br>
-<img src="/graphics/sjm/spacer.gif" name="ts_arrow" width="12" height="16" border="0"><a href="http://classifieds.sjmercury.com/classifieds/jobhunter/indexnojava.html" onmouseover="img_onarrow('ts'); window.status='CareerPath: Silicon Valley s best online job resource'; return true" onmouseout="img_offarrow('ts'); window.status=''; return true">Jobs: Careerpath</a><br>
-<img src="/graphics/sjm/spacer.gif" name="hh_arrow" width="12" height="16" border="0"><a href="http://www.homehunter.com/siliconvalley/" onmouseover="img_onarrow('hh'); window.status='HomeHunter: Information, news and home listings'; return true" onmouseout="img_offarrow('hh'); window.status=''; return true">Homes: HomeHunter</a><br>
-<img src="/graphics/sjm/spacer.gif" name="ch_arrow" width="12" height="16" border="0"><a href="http://cgi.mercurycenter.com/products/carhunter/" onmouseover="img_onarrow('ch'); window.status='CarHunter: Information, news and auto listings'; return true" onmouseout="img_offarrow('ch'); window.status=''; return true">Cars: CarHunter</a><br>
-<img src="/graphics/sjm/spacer.gif" name="pe_arrow" width="12" height="16" border="0"><a href="http://www.justgo.com/bayarea/" onmouseover="img_onarrow('pe'); window.status='Entertainment: Just Go, TV listings and stories from today\'s San Jose Mercury News'; return true" onmouseout="img_offarrow('pe'); window.status=''; return true">Entertainment: Just Go</a><br>
-<img src="/graphics/sjm/spacer.gif" name="tr_arrow" width="12" height="16" border="0"><a href="http://www.sfbaytraveler.com/" onmouseover="img_onarrow('tr'); window.status='Travel reservations: Make you travel plans now'; return true" onmouseout="img_offarrow('tr'); window.status=''; return true">Travel</a><br>
-<img src="/graphics/sjm/spacer.gif" name="yp_arrow" width="12" height="16" border="0"><a href="http://www.zip2.com/bayarea/" onmouseover="img_onarrow('yp'); window.status='Yellow Pages: Business directory, maps, door-to-door directions'; return true" onmouseout="img_offarrow('yp'); window.status=''; return true">Yellow Pages</a><br>
-<img src="/graphics/sjm/spacer.gif" name="pc_arrow" width="12" height="16" border="0"><a href="http://classifieds.sjmercury.com/" onmouseover="img_onarrow('pc'); window.status='Classifieds: Search listings for jobs, homes, cars and merchandise'; return true" onmouseout="img_offarrow('pc'); window.status=''; return true">Mercury News Classifieds</a><br> 
-<img src="/graphics/sjm/spacer.gif" name="nl_arrow" width="12" height="16" border="0"><a href="http://www.mercurycenter.com/resources/search/search_archive.shtml" onmouseover="img_onarrow('nl'); window.status='Archive: NewsLibrary lets you find stories from 1985 to present'; return true" onmouseout="img_offarrow('nl'); window.status=''; return true">Archives: NewsLibrary</a><br>
-<img src="/graphics/sjm/spacer.gif" name="mp_arrow" width="12" height="16" border="0"><a href="http://passportgate.realcities.com/osform/AuthenticateService?osform_template=/sjm/frame.oft&amp;content=benefits.html&amp;final_template=&amp;eFlag=" onmouseover="img_onarrow('mp'); window.status='Mercury Center Membership: Registration, login, change member profile'; return true" onmouseout="img_offarrow('mp'); window.status=''; return true">Membership: Passport</a><br>
-</font></p><p><font size="2"> 
-<b>Related Features</b><br>
-</font>
-<font size="2">
-<img src="/graphics/sjm/spacer.gif" name="option2_arrow" width="12" height="16" border="0"><a href="http://passportgate.realcities.com/osform/AuthenticateService?osform_template=/sjm/frame.oft&amp;content=manage.html&amp;eFlag=" onmouseover="img_onarrow('option2'); return true" onmouseout="img_offarrow('option2'); return true">Manage your Passport</a><br>
-<img src="/graphics/sjm/spacer.gif" name="option4_arrow" width="12" height="16" border="0"><a href="http://passportgate.realcities.com/osform/EmailDigestService?osform_template=/sjm/frame.oft&amp;publication=sjm&amp;content=email_digests.html" onmouseover="img_onarrow('option4'); return true" onmouseout="img_offarrow('option4'); return true">Get E-mail News</a><br>
-<img src="/graphics/sjm/spacer.gif" name="option5_arrow" width="12" height="16" border="0"><a href="http://cgi.mercurycenter.com/comics/" onmouseover="img_onarrow('option5'); return true" onmouseout="img_offarrow('option5'); return true">Personalized Comics</a><br>
-</font></p><p>
-</p></font></td>
-<td>
-<img src="/graphics/sjm/spacer.gif" width="15" height="4" border="0">
+<!-- CDS : SDP2.3.1_full_08172004_080001 : production --><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" width="768">
+<tbody><tr><td background="/images/palette/mercurynews/bg1.gif" width="280"><a href="/"><img src="/images/logos/site/mercurynews/mercurynews/site_logo_280x75.gif" width="280" height="75" alt="" border="0"></a></td><td background="/images/palette/mercurynews/bg2.gif" align="left" width="100%">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody><tr><td><table cellspacing="0" cellpadding="1" border="0">
+<tbody><tr><td rowspan="4"><img src="/images/common/spacer.gif" width="25" height="1"></td></tr><tr><td colspan="4"><b class="headersearch">Search: </b>&nbsp;</td></tr><form action="http://www.mercurynews.com/mld/mercurynews/search/search_results.htm" method="get" name="SearchForm_top" onsubmit="return searchFormSubmit(this)"></form>
+<input type="hidden" name="pubName" value="mercurynews">
+<input type="hidden" name="orderBy" value="date">
+<input type="hidden" name="pageStart" value="1">
+
+
+<input type="hidden" name="sitesToSearch" value="mercurynews,realcities">
+
+
+
+<input type="hidden" name="pageSize" value="10">
+<input type="hidden" name="fieldsToSearch" value="HEADLINE,FORSEARCH,LEAD,BYLINE">
+<input type="hidden" name="queryType" value="all">
+<tr><td class="v1search">
+<span id="globalsearchform"><select name="searchSelect" class="searchformelement2">
+<option value="article" selected="">Articles-last 7 days</option><option value="archives">Articles-older than 7 days</option>
+
+
+
+<option value="web">The Web</option>
+
+
+</select>
+</span>
+</td><td class="headersearch">&nbsp;<b>for</b>&nbsp;</td><td><input name="query" type="text" size="23" class="searchformelement" maxlength="256">
+</td><td><input type="submit" value="Go" class="smallformbutton">
+<img src="/images/common/spacer.gif" width="20" height="1">
 </td>
-<td>
-			<!-- Panel 4 -->
-									<!-- panelSetup.html -->
-<!-- PANELSETUP
-Parent is Ç%parent%ÈÇbrÈ
-Panelname is Ç%panelName%È -->
-				
-		
-      		<!-- vertical2PanelLayoutNoTableFormat.oft -->
-<!-- Panel 1 -->
-<!-- panelSetup.html -->
-<!-- PANELSETUP
-Parent is Ç%parent%ÈÇbrÈ
-Panelname is Ç%panelName%È -->
-				
-		
-				
-		
-   					<!-- CONTENTS GOES HERE -->
-<center>
-<img src="/art/common/passport_logo.gif" width="151" height="43"><img src="/art/common/privacy_statement.gif" width="320'" height="43" alt="The Real Cities Network and Your Privacy">
-<img src="/graphics/sjm/front.gif" alt="Front Page" width="420" height="45" border="0"><br></center>
-<img src="/art/common/1pix.gif" width="400" height="5"><table width="100%" border="0" cellspacing="5" cellpadding="5">
-<tbody><tr><td>
-<font size="2" face="arial,helvetica,sans-serif">
-<a href="http://passportgate.realcities.com/osform/RegisterService?osform_template=/layouts/mainPassport.oft&amp;publication=sjm&amp;content&#10;=register.html&amp;final_template=&amp;eFlag=&amp;product=&amp;rc=false&amp;action=&amp;emailId=">REGISTER</a> or <a href="http://passportgate.realcities.com/osform/AuthenticateService?osform_template=/layouts/mainPassport.oft&amp;publication=sjm&amp;conte&#10;nt=login.html&amp;final_template=&amp;eFlag=&amp;product=&amp;rc=false&amp;action=&amp;emailId=">LOGIN</a> to Passport now.
-</font></td></tr>
+</tr><tr><td colspan="4"><img src="/images/common/spacer.gif" width="1" height="4"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" width="768" background="/images/palette/mercurynews/bg4.gif">
+<tbody><tr><td valign="middle" align="left" class="utilitylinks">
+<img src="/images/palette/mercurynews/spacer1.gif">
+<span class="navspace">&nbsp;&nbsp;</span><a href="/mld/mercurynews/news/" class="utilitylinks"> News </a><span class="navpipe">&nbsp;|&nbsp;</span><a href="/mld/mercurynews/sports/" class="utilitylinks"> Sports </a><span class="navpipe">&nbsp;|&nbsp;</span><a href="/mld/mercurynews/entertainment/" class="utilitylinks"> Entertainment </a><span class="navpipe">&nbsp;|&nbsp;</span><a href="/mld/mercurynews/business/" class="utilitylinks"> Business </a><span class="navpipe">&nbsp;|&nbsp;</span><a href="/mld/mercurynews/living/" class="utilitylinks"> Lifestyles </a><span class="navpipe">&nbsp;|&nbsp;</span><a href="http://www.shoplocal.com/mercurynews/new_user_entry.aspx?CityStateZip=95113&amp;AdRef=link02" class="utilitylinks">Shop Local</a><span class="navpipe">&nbsp;|&nbsp;</span><a href="/mld/mercurynews/classifieds/" class="utilitylinks"> Classifieds </a><span class="navpipe">&nbsp;|&nbsp;</span><a href="/mld/mercurynews/classifieds/employment/" class="utilitylinks"> Jobs </a><span class="navpipe">&nbsp;|&nbsp;</span><a href="/mld/mercurynews/classifieds/automotive/" class="utilitylinks"> Cars </a><span class="navpipe">&nbsp;|&nbsp;</span><a href="/mld/mercurynews/classifieds/real_estate/" class="utilitylinks">Real Estate</a><br><img src="/images/palette/mercurynews/spacer2.gif"></td></tr></tbody></table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="768">
+<tbody><tr><td align="center" class="columndiv">
+<img src="/images/common/spacer.gif" width="768" height="1"><br></td></tr></tbody></table>
+<table border="0" cellpadding="2" cellspacing="0" width="768">
+<tbody><tr><td align="center" class="adbkg"><script language="JavaScript1.1">
+_krdDartInc++;
+document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/mercurynews.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;dcopt=ist;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/mercurynews.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;dcopt=ist;tile=1;ord=1580447378470?"></script>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/mercurynews.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;ord=1102592549012?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/mercurynews.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;ord=1102592549012?" BORDER="0" ></A>
+</noscript>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="768">
+<tbody><tr><td class="columndiv" width="134"><img src="/images/common/spacer.gif" width="134" height="1"></td><td class="columndiv" width="1"><img src="/images/common/spacer.gif" width="1" height="1"></td><td class="columndiv" width="472"><img src="/images/common/spacer.gif" width="472" height="1"></td><td class="columndiv" width="1"><img src="/images/common/spacer.gif" width="1" height="1"></td><td class="columndiv" width="160"><img src="/images/common/spacer.gif" width="160" height="1"></td></tr><tr>
+<td class="leftrail" valign="top" align="center" width="134"><script language="javascript" type="text/javascript">
+document.write('<table width="136" border="0" cellspacing="0" cellpadding="0" class="npnavbgtitle">');
+document.write('<tr>');
+document.write('<td width="9" class="regboxbg"><img src="/images/common/spacer.gif" alt="" width="9" height="1"></td>');
+document.write('<td width="127" class="regboxbg"><img src="/images/common/spacer.gif" alt="" width="1" height="7"><br>');if (rm) {
+document.write('<span class="regtitle2">Welcome </span><span class="reg3">' + rname + '</span><br>');
+
+document.write('	<a href="https://secure.mercurynews.com/listit/myclassifieds/" class="nav2">My Classifieds</a><br>');
+
+document.write('<a href="https://registration.mercurynews.com/reg/myAccount.do" class="nav2">My Account</a><br>');
+document.write('<a href="https://registration.mercurynews.com/reg/logout.do" class="nav2">Sign Out</a>');
+} else {
+document.write('	<span class="regtitle2">Welcome</span> <span class="reg3">Guest</span><br>');
+document.write('	<a href="https://registration.mercurynews.com/reg/createAccount.do" class="nav2">Sign Up</a>&#160;|&#160;<a href="https://registration.mercurynews.com/reg/login.do" class="nav2">Sign In</a><br>');
+document.write('	<a href="https://registration.mercurynews.com/reg/memberBenefits.do" class="nav2">Member Benefits</a>');
+}
+document.write('<br><img src="/images/common/spacer.gif" alt="" width="1" height="6"><br>');
+document.write('</td></tr>');
+document.write('</table>');
+</script><table width="136" border="0" cellspacing="0" cellpadding="0" class="npnavbgtitle"><tbody><tr><td width="9" class="regboxbg"><img src="/images/common/spacer.gif" alt="" width="9" height="1"></td><td width="127" class="regboxbg"><img src="/images/common/spacer.gif" alt="" width="1" height="7"><br>	<span class="regtitle2">Welcome</span> <span class="reg3">Guest</span><br>	<a href="https://registration.mercurynews.com/reg/createAccount.do" class="nav2">Sign Up</a>&nbsp;|&nbsp;<a href="https://registration.mercurynews.com/reg/login.do" class="nav2">Sign In</a><br>	<a href="https://registration.mercurynews.com/reg/memberBenefits.do" class="nav2">Member Benefits</a><br><img src="/images/common/spacer.gif" alt="" width="1" height="6"><br></td></tr></tbody></table>
+
+
+
+<!-- begin classified widget -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
+	<tbody><tr>
+		<td class="npnavbg1" style="border-bottom:1px solid #dddddd; padding:1px 0px 1px 5px;">
+		<a href="/mld/mercurynews/classifieds/"><span class="npnav1">CLASSIFIEDS</span></a>
+		</td>
+	</tr>
+	<tr>
+		<td style=" border-bottom: 1px solid #dddddd; padding:1px 0px 1px 5px;">
+		<img src="/images/palette/mercurynews/utility_arrow.gif" hspace="3" vspace="0" border="0" align="absmiddle"><a href="/mld/mercurynews/classifieds/employment/" class="nav2">JOBS</a>
+		</td>
+	</tr>
+	<tr>
+		<td style="border-bottom:1px solid #dddddd; padding:1px 0px 1px 5px;">
+		<img src="/images/palette/mercurynews/utility_arrow.gif" hspace="3" vspace="0" border="0" align="absmiddle"><a href="/mld/mercurynews/classifieds/automotive/" class="nav2">CARS</a>
+		</td>
+	</tr>
+	<tr>
+		<td style="border-bottom:1px solid #dddddd; padding:1px 0px 1px 5px;">
+		<img src="/images/palette/mercurynews/utility_arrow.gif" hspace="3" vspace="0" border="0" align="absmiddle"><a href="/mld/mercurynews/classifieds/real_estate/" class="nav2">REAL ESTATE</a>
+		</td>
+	</tr>
+	<tr>
+		<td style="border-bottom:1px solid #dddddd; padding:1px 0px 1px 5px;">
+		<img src="/images/palette/mercurynews/utility_arrow.gif" hspace="3" vspace="0" border="0" align="absmiddle"><a href="http://www.apartments.com/search/oasis.dll?p=ccn&amp;rgn9=23&amp;page=Area&amp;state=CA&amp;prvpg=2&amp;partner=sjm" class="nav2">RENTALS</a>
+		</td>
+	</tr>
+	<tr>
+		<td style="border-bottom:1px solid #dddddd; padding:1px 0px 1px 5px;">
+		<img src="/images/palette/mercurynews/utility_arrow.gif" hspace="3" vspace="0" border="0" align="absmiddle"><a href="/mld/mercurynews/classifieds/" class="nav2">STUFF</a>
+		</td>
+	</tr>
+		<tr>
+		<td style="border-bottom:1px solid #dddddd; padding:1px 0px 1px 5px;">
+		<img src="/images/palette/mercurynews/utility_arrow.gif" hspace="3" vspace="0" border="0" align="absmiddle"><a href="/mld/mercurynews/classifieds/personals/" class="nav2">PERSONALS</a>
+		</td>
+	</tr>
+	<tr>
+		<td class="npnavbg1" style="padding:4px 0px 4px 5px;">
+		<a href="http://www.shoplocal.com/mercurynews/new_user_entry.aspx?CityStateZip=95113&amp;AdRef=link03"><span class="npnav1">SHOP LOCAL</span></a>&nbsp;&nbsp;&nbsp;<span style="color:#ffffcc; font-size:85%; font-weight:bold;">NEW!</span>
+		</td>
+	</tr>
 </tbody></table>
-<table width="100%" border="0" cellspacing="5" cellpadding="5">
-<tbody><tr><td>
-<font size="2" face="arial,helvetica,sans-serif"><p><a href="http://www.mercurycenter.com">Mercury Center</a> is a part
-of the <a href="http://www.realcities.com" target="_new">Real
-Cities Network
-(RCN)</a>, a national network of Web sites in the United States.
-Mercury Center, along with the Real Cities Network, is committed
-to protecting your privacy. The following FAQ for both Mercury Center and the entire Real
-Cities Network should answer most of your important questions. However,
-if you still have concerns, please send email to <a href="mailto:sjm_passport_feedback@realcities.com">sjm_passport_feedback@realcities.com</a>.</p><p>
-In order to provide convenient and personalized service to our Web
-site visitors, Mercury Center uses a variety of
-systems to collect and store customer information. You can take advantage
-of these systems by signing up for a Passport. As 
-a Passport holder, you will enjoy a growing range of interactive features, 
-including community sites, free email, 
-chat rooms, shopping guide, email news dispatches,
-valuable promotions and sweepstakes, premium content, and more.
-</p><p>In addition to improving your online experience, knowing a bit
-more about you allows <u>us</u> to display advertising to you in a
-more intelligent fashion.&nbsp; Targeted advertisements are probably more
-interesting for you, and they are definitely more productive for our
-advertisers.
-</p><p>For all these reasons, Passports are an exciting development for Real
-Cities sites. We understand how important your privacy is to you, and
-we hope that the following answers will&nbsp;reassure you that the information
-you have given us will not be misused.
-</p><p><strong><a name="faq">Frequently Asked Questions about PRIVACY and
-related issues:</a></strong>
-</p><ul>
-<li>
-<a href="#question1">Does Mercury Center ask for personal
-information?</a></li><p>
-</p><li>
-<a href="#question2">What other information does Mercury Center collect?</a></li><p>
-</p><li>
-<a href="#question3">How Does Mercury Center use the
-information it collects?</a></li><p>
-</p><li>
-<a href="#question4">How does Mercury Center target
-advertising?</a> </li><p>
-</p><li>
-<a href="#question5">Will Mercury Center disclose any of my
-personal information?</a> </li><p>
-</p><li>
-<a href="#question7">Will Mercury Center use my information for
-direct mailings?</a> </li><p>
-</p><li>
-<a href="#question6">Does Mercury Center use cookies and "IP
-Addresses"?</a> </li><p>
-</p><li>
-<a href="#question8">Does Mercury Center collect credit card information or
-other billing data?</a> </li><p>
-</p><li>
-<a href="#question9">Can I get rid of my Mercury Center Passport?</a> </li><p>
-</p><li>
-<a href="#question10">What else should I know about my privacy?</a> </li><p>
-</p><li>
-<a href="#question11">Want more information? Click here for helpful
-links....</a> </li><p>
-</p></ul>
-&nbsp;
-<p><a name="question1"><b>Does Mercury Center ask for personal information?</b></a>
-<br>Yes. A Real Cities Passport consists of four basic elements: a login name,
-a password, an email address, and a postal code.&nbsp;  Over time, however,
-your Passport will grow with you. For example, when we introduce the ability to share
-Passport information,
-you may wish to create a public profile in order to let other
-Passport holders get to know you better. When we introduce interactive features,
-such as personalized news or classified agents, you will be able to add these preferences to
-your Passport as well, so you don't have to keep retyping them. 
-Also, any time you take advantage of special promotions or sweepstakes for Passport holders,
-we will add any additional data collected to your Passport record.
-</p><p><a href="#faq">Back to questions</a> | <a href="#top">Top</a><br>
-<img src="/graphics/standard/spacer.gif" width="420" height="25"></p><p>
-</p><p><a name="question2"><b>What other information does Mercury Center collect?</b></a>
-<br>In order to determine what the most popular areas of our site are, Mercury Center 
-also keeps track of on-site traffic, i.e. page views and ad impressions.  Over time, in
-order to anticipate your needs and to improve the product, we may link these usage patterns 
-with individual customers or groups of customers.
-</p><p><a href="#faq">Back to questions</a> | <a href="#top">Top</a><br>
-<img src="/graphics/standard/spacer.gif" width="420" height="25"></p><p>
-</p><p><a name="question3"><b>How does Mercury Center use this information?</b></a>
-<br>Mercury Center uses customer information in non-intrusive, common sense ways.
-First, storing user identity and preference information allows Mercury Center 
-to greet you when you return to the site as well as to keep track of your onsite preferences, such as
-Email News subscriptions. Second, Mercury Center writers and product managers 
-review our customer information in aggregate in order to better understand who our audience
-is and what you want. Finally, tracking customer information allows us to sell targeted 
-advertising. While we may not always get it right, we think that you will be more interested in 
-banner ads that have something to do with your news interests and/or home Zip Code. Targeted 
-ads are also far more efficient for advertisers. This is especially good because 
-advertising dollars pay the bills and allow us to provide Mercury Center to you for free.
-</p><p><a href="#faq">Back to questions</a> | <a href="#top">Top</a><br>
-<img src="/graphics/standard/spacer.gif" width="420" height="25"></p><p>
-</p><p><a name="question4"><b>How does Mercury Center target advertising?</b></a>
-<br>When a Passport holder makes use of one of our services, such as a
-dispatches of sports stories delivered via email, we "remember" that the user
-is interested in sports.  Then, when an advertiser wants to reach
-an audience of sports fans, we simply serve the advertisements to those
-users who we have been flagged as sports fans. Alternatively, if a local
-grocery market wants to inform its customers of an upcoming sale, we can display
-that advertisement to Passport holders with relevant Zip Codes.  It
-is important to note that in such cases it is our policy NOT to share the details of
-your Passport information with the advertiser. We act as the middleman
-between you and the companies that want to reach you.
-</p><p><a href="#faq">Back to questions</a> | <a href="#top">Top</a><br>
-<img src="/graphics/standard/spacer.gif" width="420" height="25"></p><p>
-</p><p><a name="question5"><b>Will Mercury Center disclose any of my personal
-information?</b></a>
-<br>Mercury Center will disclose personal information in some limited circumstances.
-When Mercury Center intends to disclose information, the purpose will be explained 
-to you beforehand:<br>
-- From time to time, Mercury Center will run sweepstakes or promotions for 
-Passport holders. In most cases, you will be required to provide additional information
-on in order to participate in
-the event, and some of this data may be 
-provided to the sponsor of the promotion.
-Of course, we will explain the nature of the promotion, and
-you will always have the option not to participate in it. Also, you will not 
-be signed up without your express consent.<br>
-- Mercury Center does disclose aggregated user statistics
-(for example, 55% of our users come from the Southwest) in order to describe
-our services to prospective partners, advertisers, and other third parties,
-and for other lawful purposes.  However, aggregate data is not traceable to
-a specific user.<br>
-- When Mercury Center decides to integrate 3rd party services which depend upon
-customer information, such as online email or personalized stock quotes, we 
-may share some elements of our 
-customer records (such as an email address) with the third party. Such partners, 
-as well as Internet sites 
-and services accessible through Mercury Center, may have separate privacy and data collection 
-practices, independent of Mercury Center.  It is our policy to notify
-you of any differences between their policies and our own. However, 
-Mercury Center has no responsibility or liability for these independent policies 
-or the actions of non-affiliated third parties.<br>
-- It is important to note that although Mercury Center will use all reasonable efforts to 
-safeguard the privacy of your personal information, transmissions made by means of the Internet 
-cannot be made absolutely secure. Mercury Center will have no liability for disclosure 
-of data due to errors in transmission or unauthorized acts of third parties.<br>
-- Finally, Mercury Center will cooperate fully should a situation arise where we 
-are required by law or legal process to provide information about a customer.
-</p><p><a href="#faq">Back to questions</a> | <a href="#top">Top</a><br>
-<img src="/graphics/standard/spacer.gif" width="420" height="25"></p><p>
-</p><p><a name="question7"><b>Will Mercury Center use my information for direct
-mailings?</b></a>
-<br>Only with your permission. With your express consent, we 
-will send you information about our products and services, or other
-products and services we feel may be of interest to you. Only Mercury Center (or
-agents working on behalf of Mercury Center) will send you these direct mailings. At 
-any time you can easily update your Passport such that
-you no longer receive such offers and mailings.
-</p><p><a href="#faq">Back to questions</a> | <a href="#top">Top</a><br>
-<img src="/graphics/standard/spacer.gif" width="420" height="25"></p><p>
-</p><p><a name="question6"><b>Does Mercury Center use Cookies and IP Addresses?</b></a>
-<br>Yes.  If you choose "Automatic Login" when you sign up for a Passport, Mercury Center stores a scrambled version of your Passport login name in a permanent
-"Cookie" file on your hard drive so that we can remember who you are from one 
-visit to the next. If you do not choose "Automatic Login", we will use a temporary Cookie
-after you log in (which expires after each visit) to keep track of you
-as you move from page to page during a given visit to our site.  Without
-these Cookies, it is impossible for us to provide any level of personalized
-service or to target advertising. In addition, some of our sites
-and advertising systems may set additional cookies which contain no personal
-information whatsoever.
-</p><p>In order to enable automatic log in as well as fast entry to our various
-services, Passport keeps three key data elements in your Cookie: your
-Passport Login Name, Zip Code, and Email Address. To protect your privacy,
-each cookie is scrambled using a proprietary encryption algorithm.  Think
-of these Cookies as "claim checks". Like a coat room clerk, we use the
-Cookie to help us keep track of your information on our systems. To anyone
-other than us, the information stored in your Cookies is meaningless. 
-</p><p>You might wonder if another Web site or online user would be able to
-steal your Passport login name from your cookie? The answer is no. Only
-Mercury Center or other Real Cities sites can read the information about your Passport Login Name. 
-Due to the design of Web servers and browsers, no other Web site has access to
-your Mercury Center Cookie and vice versa. However, if you have chosen Automatic Login,
-anyone who sits down at your computer can log on to the site using your
-Passport information.  
-</p><p>Mercury Center may also collect IP addresses for the purposes of system
-administration and to report aggregate information to our advertisers.
-</p><p><a href="#faq">Back to questions</a> | <a href="#top">Top</a><br>
-<img src="/graphics/standard/spacer.gif" width="420" height="25"></p><p>
-</p><p><a name="question8"><b>Does Mercury Center collect credit card information or
-other billing data?</b></a>
-<br>Signing up for a Mercury Center Passport is free, as are most of the services 
-that come with the Passport. In the future, we may add new features and services which
-will carry a charge. If you are interested in making use of these, you may be asked to supply
-credit card information or other billing data. In such case,
-Mercury Center will provide a secure means of transferring the sensitive data
-back and forth across the Internet.
-</p><p><a href="#faq">Back to questions</a> | <a href="#top">Top</a><br>
-<img src="/graphics/standard/spacer.gif" width="420" height="25"></p><p></p><p><a name="question9"><b>Can I get rid of my Real Cities Passport?</b></a>
-<br>Yes. If you want us to disable your Passport or remove it from our records, you 
-may notify us by sending email to <a href="mailto:sjm_passport_feedback@realcities.com">sjm_passport_feedback@realcities.com</a>.
-Please include your Passport Login Name. We will send you an email to confirm your request. When you have 
-responded, we will remove your information from our database.
-</p><p><a href="#faq">Back to questions</a> | <a href="#top">Top</a><br>
-<img src="/graphics/standard/spacer.gif" width="420" height="25"></p><p>
-</p><p><a name="question10"><b>What else should I know about my privacy?</b></a>
-<br>Please remember that the protection of your privacy begins with you.
-You are solely responsible for maintaining the secrecy of your Passport
-password, and you should always be careful and responsible whenever disclosing
-information online.
-</p><p><a href="#faq">Back to questions</a> | <a href="#top">Top</a><br>
-<img src="/graphics/standard/spacer.gif" width="420" height="25"></p><p>
-</p><p><a name="question11"><b>Want more information? Click here for helpful
-links....</b></a></p><ul>
-<li><a href="http://www.eff.org" target="_new">Electronic Frontier
-Foundation</a> - a
-civil liberties organization working to protect your rights online.</li>
-<li><a href="http://www.epic.org" target="_new">Electronic Privacy Information
-Center</a> - established to focus public attention on emerging civil
-liberties issues
-relating to the National Information Infrastructure.</li>
-<li><a href="http://www.cdt.org" target="_new">Privacy Issues Page</a> - from the
-Center for
-Democracy and Technology (CDT).</li>
-<li><a href="http://www.cookiecentral.com/" target="_new">Cookie
-Central</a>  -- dedicated to provide full information upon Internet
-Cookies.</li>
-<li><a href="http://www.epic.org/privacy/cookies/default.html" target="_new">The EPIC
-Cookies Page</a> - links, news, and explanations.</li>
-</ul>
-</font></td></tr></tbody></table>
-<!-- End CONTENTS -->
- 
-<!-- Panel 2: Horizontal cell spanning all columns -->
-<!-- panelSetup.html -->
-<!-- PANELSETUP
-Parent is Ç%parent%ÈÇbrÈ
-Panelname is Ç%panelName%È -->
-				
-		
-				
-		
-   		<!-- nullLayout.oft -->
-<center><font size="2" face="arial,helvetica,sans-serif"><a href="http://passportgate.realcities.com/osform/AuthenticateService?osform_template=/layouts/mainPassport.oft&amp;publication=sjm&amp;content=benefits.html&amp;final_template=&amp;eFlag=&amp;product=&amp;rc=false&amp;action=&amp;emailId=">BENEFITS</a> | <a href="http://passportgate.realcities.com/osform/RegisterService?osform_template=/layouts/mainPassport.oft&amp;publication=sjm&amp;content=viewprofile.html&amp;product=&amp;rc=false&amp;action=&amp;emailId=">MY RC PASSPORT</a>  | <a href="http://passportgate.realcities.com/osform/AuthenticateService?osform_template=/layouts/mainPassport.oft&amp;publication=sjm&amp;content=faq.html&amp;final_template=&amp;eFlag=&amp;product=&amp;rc=false&amp;action=&amp;emailId="> FAQ</a> | <a href="mailto:sjm_passport_feedback@realcities.com">CONTACT US</a> | <a href="http://passportgate.realcities.com/osform/AuthenticateService?osform_template=/layouts/mainPassport.oft&amp;publication=sjm&amp;content=login.html&amp;final_template=&amp;eFlag=&amp;product=&amp;rc=false&amp;action=&amp;emailId=">LOGIN</a> | <a href="http://passportgate.realcities.com/osform/RegisterService?osform_template=/layouts/mainPassport.oft&amp;publication=sjm&amp;content=register.html&amp;final_template=&amp;eFlag=&amp;product=&amp;rc=false&amp;action=&amp;emailId=">REGISTER</a> </font></center><br>
-</td>
-</tr>
-<tr>
-<td colspan="4">
-			<!-- Panel 5 -->
-									<!-- panelSetup.html -->
-<!-- PANELSETUP
-Parent is Ç%parent%ÈÇbrÈ
-Panelname is Ç%panelName%È -->
-				
-		
-				
-		
-      		<!-- nullLayout.oft -->
-<img src="/graphics/sjm/spacer.gif" width="420" height="10" border="0"><br>
-<nobr><a href="#backtotop"><img src="/graphics/sjm/backtotop.gif" alt="Return to top" width="180" height="18" border="0"></a><a href="/graphics/sjm/toolbar.map"><img src="/graphics/sjm/toolbar.gif" alt="This image allows you to access site resources" width="420" height="18" border="0" ismap="" usemap="#toolbar"></a></nobr></td>
-</tr>
-<tr>
-<td colspan="2"></td><td colspan="2" valign="top">
-			<!-- Panel 6 -->
-									<!-- panelSetup.html -->
-<!-- PANELSETUP
-Parent is Ç%parent%ÈÇbrÈ
-Panelname is Ç%panelName%È -->
-				
-		
-				
-		
-      		<!-- nullLayout.oft -->
-<br><font size="-1">© 2000 Mercury Center. The information you receive on-line from Mercury Center is protected by the copyright laws of the United States. The copyright laws prohibit any copying, redistributing, retransmitting, or repurposing of any copyright-protected material. <a href="http://www.mercurycenter.com/privacy.htm">Mercury Center privacy policy</a><br></font>
-<map name="toolbar">
-<area shape="rect" href="http://www.mercurycenter.com/resources/map/" coords="170,0,220,17" target="_top">
-<area shape="rect" href="http://www.mercurycenter.com/resources/search/" coords="221,0,258,17" target="_top">
-<area shape="rect" href="http://www.mercurycenter.com/resources/feedback/" coords="259,0,307,17" target="_top">
-<area shape="rect" href="http://www.mercurycenter.com/resources/help/" coords="308,0,337,17" target="_top">
-<area shape="rect" href="http://www.mercurycenter.com/resources/subscribe/" coords="338,0,419,17" target="_top">
-<area shape="rect" href="http://www.mercurycenter.com/" coords="0,0,419,17" target="_top">
-</map>
-</td>
-</tr>
+<!-- end CLASSIFIED WIDGET -->
+
+<!-- mercurynews specific content -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td class="navborder">
+			<table border="0" cellpadding="0" cellspacing="1" width="100%">
+				<tbody><tr>
+					<td class="cvbg2">&nbsp;<a href="http://www.wunderground.com/auto/mercurynews/CA/San_Jose.html"><b><span class="npnav2">Weather</span></b></a>&nbsp;|&nbsp;<a href="/mld/mercurynews/news/transportation/"><b><span class="npnav2">Traffic</span></b></a></td>
+				</tr>
+				<tr>
+					<td class="cvbg2">&nbsp;<a href="http://yp.bayarea.com/bin/cgidir.dll?&amp;MEM=1201"><b><span class="npnav2">Yellow Pages</span></b></a> | <a href="http://maps.bayarea.com/jump.cgi/refsrc=KR.1201"><b><span class="npnav2">Maps</span></b></a></td>
+				</tr>
+				<tr>
+					<td class="cvbg2">&nbsp;<!--<a  href="/edc/servlet/edcSubscriber?action=Q_REDIRECT&amp;NEXT=EDIT_DISPATCH"><b><span  class=npnav2>Email News</span></b></a> | ---><a href="/mld/mercurynews/archives/"><b><span class="npnav2">Archives</span></b></a>
+					<br><a href="http://www.mercurynews.net/discount/homedeliverycenter1"><img src="http://www.mercurynews.com/images/logos/site/mercurynews/mercurynews/homedeliverycenter2.gif" width="132" height="40" alt="Subscribe to the Mercury News" border="0"></a><br>&nbsp;<b><span class="v1"><a href="http://www.mercurynews.net/discount/homedeliverycenter2">Subscribe</a></span></b>
+					<br>&nbsp;<b><span class="v1"><a href="http://mercurynews.npsubscriptions.bayarea.com">Subscriber Services</a></span></b></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
 </tbody></table>
+<!-- end mercurynews specific content -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td class="npnavborder"><table border="0" cellpadding="0" cellspacing="1" width="100%">
+<tbody><tr><td class="navbg1">
+&nbsp;<b><span class="nav1">Help</span></b>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet">&nbsp;•&nbsp;</span><a href="/mld/mercurynews/contact_us/about/" name="1000514"><b><span class="nav2">About us</span></b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet">&nbsp;•&nbsp;</span><a href="/mld/mercurynews/contact_us/advertise/" name="1000514"><b><span class="nav2">Advertise</span></b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet">&nbsp;•&nbsp;</span><a href="/mld/mercurynews/contact_us/" name="1000514"><b><span class="nav2">Contact us</span></b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet">&nbsp;•&nbsp;</span><a href="/mld/mercurynews/contact_us/contact_list/" name="1000514"><b><span class="nav2">Contact a staff member</span></b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet">&nbsp;•&nbsp;</span><a href="/mld/mercurynews/contact_us/feedback/" name="1000514"><b><span class="nav2">Feedback</span></b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet">&nbsp;•&nbsp;</span><a href="/mld/mercurynews/contact_us/help/faq/" name="1000514"><b><span class="nav2">FAQ</span></b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet">&nbsp;•&nbsp;</span><a href="/mld/mercurynews/contact_us/site_index/" name="1000514"><b><span class="nav2">Site Index</span></b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet">&nbsp;•&nbsp;</span><a href="http://www.mercurynews.com/subscriberservices" name="1000514"><b><span class="nav2">Subscriber Services</span></b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet">&nbsp;•&nbsp;</span><a href="/mld/mercurynews/contact_us/terms_of_use/" name="1000514"><b><span class="nav2">Privacy Policy</span></b></a>
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+
+
+</td><td class="columndiv" rowspan="2"><img src="/images/common/spacer.gif" width="1" height="1"></td>
+
+	<td class="centerrail" valign="top" align="center" width="472">
+
+
+
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="2" width="97%">
+<tbody><tr><td valign="middle">&nbsp;</td><td align="right" class="byline">Thursday, Dec 09, 2004</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="97%">
+<tbody><tr><td align="right" valign="top">
+
+</td></tr></tbody></table><img src="/images/common/spacer.gif" width="100%" height="5"><br></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td width="10"><img src="/images/common/spacer.gif" width="10" height="1" border="0"></td><td><p><a href="#terms">Go to Terms of Use </a></p>
+<p><font size="3"><b><font size="4">Privacy Policy</font></b></font></p>
+<p>All Knight Ridder owned sites, including this site, are covered by the policies 
+  herein. Knight Ridder Digital (KRD) is part of the Real Cities Network (or "RCN"), 
+  a national network of Internet sites serving geographic and common interest 
+  communities across the United States. RCN affiliates each have their own Terms 
+  of Use and Privacy Policies. Please review all affiliate's policies to understand 
+  the privacy terms applicable on their sites. You can view the sites included 
+  in the Real Cities Network at <a href="http://www.realcities.com">http://www.realcities.com</a>. 
+</p>
+<p><b>When does KRD collect my personally identifiable information?</b></p>
+<p> When you register for one of KRD's sites, or for services on any of our sites, 
+  we collect personally identifying information from you. During registration 
+  you are asked to provide your email address and some demographic information 
+  including such items as your gender, year of birth, and address. The more information 
+  you provide, the better we are able to customize our services and your experience 
+  to suit your needs and preferences. In addition to registration, we may collect 
+  personally identifiable information from you when you enter contests and sweepstakes 
+  (which may be done in conjunction with site registration), participate in promotions 
+  and special programs, register for premium or customized services, make a purchase 
+  at one of our merchants or partners, subscribe to one of our print papers or 
+  magazines, or download a software product or plug-in. 
+</p><p>If you are making a purchase or enrolling in a premium service for which there 
+  is a fee, we, or a 3rd party working in partnership with us, will collect your 
+  credit card, billing address, and other verifying information. In addition, 
+  we may collect personally identifiable information from you when you provide 
+  content to us for display or use on one or more KRD sites, including but not 
+  limited to, when you participate in user surveys, post messages to bulletin 
+  boards or chat areas, submit personals or other classified listings, build a 
+  home page, report a problem with one of our sites or services, or submit a letter 
+  to the editor. 
+</p><p> <b>How is my personally identifiable information used? </b>
+</p><p> Our main goal is to provide you with a customized and more relevant experience 
+  on KRD sites. We review our users' preferences, demographics, traffic patterns, 
+  and other information in aggregate so that we can better understand who our 
+  audience is, and what it is you want. Tracking user preferences also helps us 
+  serve you more relevant advertising. Please note that we do not share your personally 
+  identifying information with the advertiser. 
+</p><p>We use a third party to serve ads when you visit our site. This third party 
+  ad server may use certain information about your visit to our site in order 
+  to provide advertisements about goods and services that may be of interest to 
+  you, but they are not allowed to collect or use personally identifiable information 
+  about you for their own purposes. 
+</p><p>All credit card information is transmitted in an encrypted form, using SSL 
+  (secure socket layer) encryption, the industry-standard. Although, we use all 
+  reasonable efforts to safeguard the privacy of your personal information, transmissions 
+  made by means of the Internet cannot be made absolutely secure. KRD assumes 
+  no liability for disclosure of data due to errors in transmission or unauthorized 
+  third parties. 
+</p><p>The email address provided by you at registration, or as updated, may be used 
+  by Knight Ridder and its affiliated entities, including KRD, to contact you 
+  for any reason, including: (1) Your account status (including an email confirmation 
+  of registration), (2) Major changes to the website, the Terms of Use and Privacy 
+  Policy, (3) Participation in user surveys, asking for feedback on the website 
+  and (4) notifying you of existing or prospective products and services offered 
+  by us or our advertisers and partners. This information helps us to improve 
+  our website, and any information we obtain will not be shared with third parties, 
+  except in aggregate form. The information provided by you at registration may 
+  be used by Knight Ridder and its affiliated entities, including KRD to contact 
+  you with special offers and promotions. 
+</p><p>Please check the registration screens applicable to the service, promotion, 
+  or product offering for which you are signing up for specific instructions on 
+  how to update your user profile and/or opt out of receiving offers and mailings. 
+  Also, please remember that third party vendors also sell products and services 
+  on KRD sites, and their policies may differ from ours. 
+</p><p><b>What other information does KRD collect and how is it used?</b>
+</p><p> <b>Cookies. </b>KRD uses cookies to store and track your preferences to provide 
+  you with a more personalized user experience. A cookie is a message that is 
+  sent to your browser from a Web server and stored on your computer's hard drive. 
+  Most Internet sites use cookies. You can set your browser preferences to reject 
+  all cookies but then you will not be able to participate in most customized 
+  services, and you may be required to repeatedly log in to participate in various 
+  services, promotions, or product offerings. Cookies make your experience easier 
+  by saving your preferences and passwords. We also use cookies that contain no 
+  personal information at all. These cookies, help us estimate our audience size, 
+  determine which areas of KRD sites are the most popular, and serve targeted 
+  advertising. Third party advertisers and our ad server may set and access their 
+  cookies on your computer in accordance with their own privacy policies. If you 
+  would like more information about the use of cookies by our third party ad server 
+  and your ability to opt out of receiving cookies from this third party, please 
+  click here: <a href="http://www.doubleclick.net/us/corporate/privacy">http://www.doubleclick.net/us/corporate/privacy</a> 
+</p><p><b>IP Address. </b>KRD may also collect IP addresses for the purposes of systems 
+  administration or to report information in aggregate form to our advertisers 
+  (e.g. how many visitors logged in to a KRD site). An IP address is a number 
+  that is assigned to your computer automatically when you use the Internet. When 
+  you visit a particular KRD web page, our servers log your IP address. Your IP 
+  address is not linked to anything personally identifiable. 
+</p><p><b>Who does KRD share information with? </b>
+</p><p>User information is shared within KRD in order to provide you with a more integrated 
+  and customized user experience. We will not disclose your personally identifiable 
+  information to third parties except (1) to the extent necessary to provide you 
+  with a requested product or service, or (2) in order to provide targeted promotional 
+  offers during the registration process. If you do not accept any of the offers, 
+  your information will not be retained by our registration offers partner. 
+</p><p>To the extent you are notified of uses of your personal information which are 
+  different from those described in this Policy Statement during your enrollment 
+  in any particular service, sweepstakes, contest or promotion, the uses of which 
+  you are specifically notified will govern that service, sweepstakes, contest 
+  or promotion. 
+</p><p><b>What are my options to control the use of my personal information? </b>
+</p><p>Most browsers can be configured to reject cookies or alert you when cookies 
+  are being sent. Keep in mind that if you refuse cookies, it is possible that 
+  some portions of KRD sites may not function exactly as intended. 
+</p><p><b>What else should I know about my privacy? </b>
+</p><p>You should be aware that if you voluntarily disclose personal information online 
+  in a public area, that information may be collected and used by others. We do 
+  not control the actions of our visitors and registered users. If you disclose 
+  personal information in a chat room, forum, on your home page, or any other 
+  publicly accessible place on KRD sites, you do so at your own risk and you understand 
+  that your submitted information may be collected and used by others to send 
+  you unsolicited messages, advertisements, or for other purposes. 
+</p><p>Please remember that protection of your privacy begins with you. You are solely 
+  responsible for maintaining the secrecy of any password you use to register, 
+  and you should always be careful and responsible whenever disclosing information 
+  online. 
+</p><p><b>PRIVACY PROTECTION FOR CHILDREN.</b> In compliance with the Children's Online 
+  Privacy Protection Act (COPPA), we will not knowingly provide access to KRD 
+  sites to persons under the age of thirteen (13). If KRD later learns that any 
+  registered user is under the age of thirteen (13), we will take appropriate 
+  steps to remove the member's information from the database and we will restrict 
+  this individual from future access to KRD sites. We feel strongly about protecting 
+  the privacy of children. We encourage kids to involve their parents in any interactive 
+  activity they participate in online. Except where otherwise disclosed, we will 
+  not collect or use any personal information from children we know to be under 
+  the age of thirteen without obtaining express parental consent. All general 
+  information collected from users under the age of thirteen is used only for 
+  aggregate statistical analysis. 
+</p><p>Acceptance of Privacy Policy. By using KRD sites and services, you signify 
+  your acceptance of this Privacy Statement. If you do not agree or are not comfortable 
+  with any policy described in this Privacy statement, your only remedy is to 
+  discontinue use of KRD sites. We reserve the right, to modify this Privacy Statement 
+  at any time. Your continued use of any portion of KRD sites following notification 
+  or posting of such changes, will constitute your accept of those changes. If 
+  you have questions or concerns about our specific policies, please contact us 
+  through our <a href="../feedback/">feedback form</a>. 
+</p><p><b>Want more information? Check out these helpful links... </b>
+</p><p><a href="http://www.eff.org/">Electronic Frontier Foundation</a> - a civil 
+  liberties organization working to protect your rights online. 
+</p><p><a href="http://www.epic.org/">Electronic Privacy Information Center</a> - 
+  established to focus public attention on emerging civil liberties issues relating 
+  to the National Information Infrastructure. 
+</p><p><a href="http://www.cdt.org/">Privacy Issues Page</a> - from the Center for 
+  Democracy and Technology (CDT). 
+</p><p><a href="http://www.cookiecentral.com/">Cookie Central</a> -- dedicated to 
+  provide full information upon Internet Cookies. 
+</p><hr noshade="" size="1" width="96%">
+<p><a name="terms"></a><font size="4"><b>Terms of Use</b></font> 
+</p><p>We welcome you to our site. We ask that you review these Terms of Use, which 
+  are intended to constitute a binding license agreement that conditions your 
+  use of this site ("Agreement"). We have tried to avoid unnecessary legal verbiage. 
+  Our goal is to protect our rights in order to provide you with access to the 
+  free content available at this site. If you do not wish to be bound by this 
+  Agreement after you have read it, please leave the site. If you remain on this 
+  site, or return thereafter, you agree to be bound by this Agreement. 
+</p><p><b>1. Responsible conduct. </b>You agree to act responsibly at this site and 
+  to treat other visitors with respect. 
+</p><p><b>2. Limited License/ Copyright and Intellectual Property Law Restrictions. 
+  </b>Except for public domain material, the content on this site is protected 
+  by intellectual property laws, including U.S. copyright laws. You are hereby 
+  granted a non-exclusive license to use the material at this site ("Content") 
+  while connected to this site (including, where available, to email individual 
+  stories to friends directly from this site). You are also granted a limited 
+  license to print one copy of any Content posted at the site, but only for your 
+  personal use. Except as expressly provided above, all rights are reserved. Among 
+  other things, except to the extent required for the limited purpose of reviewing 
+  material on our site, electronic reproduction, adaptation, distribution, performance 
+  or display is prohibited. Changes to or deletion of author attribution or copyright 
+  notices are prohibited. Commercial use of any of the Content is strictly prohibited. 
+  Use of any of our trademarks as metatags on other web sites also is strictly 
+  prohibited. You may not display this website in frames (or any of the Content 
+  via in-line links) without our express written permission, which may be requested 
+  by contacting us through our feedback form. You may, however, establish ordinary 
+  links to our site without our written permission. 
+</p><p><b>3. Links. </b>We may provide links from our site to other sites as a convenience 
+  to our visitors. We have no control over linked sites and make no representations 
+  about any content or material available at these locations. Links are not intended 
+  to imply sponsorship, affiliation or endorsement. 
+</p><p><b>4.</b> <b>Discussion Boards and other self-publishing 3rd party products.</b> 
+  Although we do not have any obligation to monitor these services, or this self-published 
+  content, we reserve the right at all times to remove any information or materials 
+  that are unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, 
+  pornographic, profane, indecent or otherwise objectionable to us in our sole 
+  discretion and to disclose any information necessary to satisfy the law, regulation, 
+  or government request. We also reserve the right to permanently block any user 
+  who violates these terms and conditions. 
+</p><p><b>5. DISCLAIMER OF WARRANTIES.</b> YOU EXPRESSLY AGREE THAT USE OF THIS WEB 
+  SITE IS AT YOUR SOLE RISK. THERE IS NO WARRANTY THAT YOUR ACCESS TO OR USE OF 
+  THIS SITE WILL BE UNINTERRUPTED OR ERROR FREE; OR THAT ANY PARTICULAR RESULTS 
+  MAY BE OBTAINED BY USE OF THIS SITE. THIS SITE IS MADE AVAILABLE ON AN "AS IS" 
+  BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING 
+  BUT NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, 
+  FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHERWISE, OTHER THAN 
+  THOSE WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION, OR MODIFICATION 
+  UNDER THE LAWS APPLICABLE TO THIS AGREEMENT. NEITHER WE NOR ANY OTHER PERSON 
+  OR ENTITY PROVIDING CONTENT VIA THIS SITE SHALL BE LIABLE TO YOU FOR ANY DIRECT, 
+  INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES. 
+</p><p><b>6. Modifications/ Termination. </b>The terms of this agreement will not 
+  be modified on an individual basis. You agree that we may modify the terms of 
+  this Agreement (or discontinue this site) in our sole discretion, without advance 
+  notice, and that your right to access this site is conditioned on an ongoing 
+  basis with your compliance with the then-current version of these Terms and 
+  Conditions. You should therefore visit this page frequently. 
+</p><p><b>7. Jurisdiction.</b> This Web site is hosted on servers located in the United 
+  States and is intended to be viewed by residents of the United States. In the 
+  event of any dispute arising out of or relating to this site, you agree that 
+  the exclusive venue for litigating disputes shall be in state or federal court 
+  in San Jose, California. 
+</p><p></p><p>
+</p></td><td width="10"><img src="/images/common/spacer.gif" width="10" height="1" border="0"></td></tr></tbody></table>
+
+
+</td>
+	<td class="columndiv" rowspan="2"><img src="/images/common/spacer.gif" width="1" height="1"></td><td class="rightrail" valign="top" align="center" width="160">
+
+
+
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="768">
+<tbody><tr><td class="leftrail" width="134">
+<img src="/images/common/spacer.gif" width="134" height="1"></td><td class="columndiv" width="1">
+<img src="/images/common/spacer.gif" width="1" height="1"></td><td class="centerrail" width="1">
+<img src="/images/common/spacer.gif" width="10" height="1"></td><td class="centerrail" width="100%" align="center">
+<img src="/images/common/spacer.gif" width="450" height="1"><br><script language="JavaScript1.1">
+_krdDartInc++;
+document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/mercurynews.contact_us/terms_of_use;kw=footer;c2=terms_of_use;c3=terms_of_use_homepage;pos=footer;group=contextual;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/mercurynews.contact_us/terms_of_use;kw=footer;c2=terms_of_use;c3=terms_of_use_homepage;pos=footer;group=contextual;tile=2;ord=1580447378470?"></script>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/mercurynews.contact_us/terms_of_use;kw=footer;c2=terms_of_use;c3=terms_of_use_homepage;pos=footer;group=contextual;ord=1102592549317?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/mercurynews.contact_us/terms_of_use;kw=footer;c2=terms_of_use;c3=terms_of_use_homepage;pos=footer;group=contextual;ord=1102592549317?" BORDER="0" ></A>
+</noscript>
+
+<br><br></td><td class="centerrail" width="1">
+<img src="/images/common/spacer.gif" width="10" height="1"></td><td class="columndiv" width="1">
+<img src="/images/common/spacer.gif" width="1" height="1"></td><td class="rightrail" width="160">
+<img src="/images/common/spacer.gif" width="160" height="1"></td></tr></tbody></table>
+
+
+<table border="0" cellpadding="3" cellspacing="0" width="768"><tbody><tr><td rowspan="2" valign="top" class="footer"><a href="http://www.realcities.com" target="_blank"><img src="/images/palette/mercurynews/realcities_logo.gif" width="155" height="57" alt="RealCities" border="0"></a>
+</td><td align="left" class="footer">
+<span class="lightgreylinks"><a href="/mld/mercurynews/news/"> News  |</a> <a href="/mld/mercurynews/sports/"> Sports  |</a> <a href="/mld/mercurynews/entertainment/"> Entertainment  |</a> <a href="/mld/mercurynews/business/"> Business  |</a> <a href="/mld/mercurynews/living/"> Lifestyles  |</a> <a href="http://www.shoplocal.com/mercurynews/new_user_entry.aspx?CityStateZip=95113&amp;AdRef=link02">Shop Local |</a> <a href="/mld/mercurynews/classifieds/"> Classifieds  |</a> <a href="/mld/mercurynews/classifieds/employment/"> Jobs  |</a> <a href="/mld/mercurynews/classifieds/automotive/"> Cars  |</a> <a href="/mld/mercurynews/classifieds/real_estate/">Real Estate  </a><br><a href="/mld/mercurynews/contact_us/about">About The Mercury News |</a> <a href="/mld/mercurynews/contact_us/rc_sites/">About the Real Cities Network |</a> <a href="/mld/mercurynews/contact_us/terms_of_use/">Terms of Use &amp; Privacy Statement |</a> <a href="http://www.knightridder.com">About Knight Ridder |</a> <a href="/mld/mercurynews/contact_us/copyright/">Copyright  </a><br></span>
+</td></tr></tbody></table>
+
+
+
+
 
 
 
