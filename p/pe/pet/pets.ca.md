@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pets.ca privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608220605id_/http%3A//www.pets.ca/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets.ca privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204082016id_/http%3A//www.pets.ca/help/privacy.html) for the most accurate reproduction.*
 
 # Pets.ca - privacy statement
 
@@ -33,4 +33,22 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, or with this company, you can contact [Marko Kulik](mailto:marko@pets.ca), President, Pets.ca
 
-* * *
+|  | 
+
+[](http://www.pets.ca/petsites/login.php)  
+
+
+| 
+
+[](http://www.pets.ca/forum/index.php)  
+  
+---|---  
+   
+  
+[  
+**Heart ID Tag**](http://www.pets.ca/onlinestore/module.php?name=onlinestore&func=viewprod&prodid=11)  
+  
+   
+  
+[  
+**Paw ID Tag**](http://www.pets.ca/onlinestore/module.php?name=onlinestore&func=viewprod&prodid=14)
