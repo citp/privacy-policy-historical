@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022137id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406005739id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
 
 # The Green Guide: Privacy Statement
 
@@ -36,7 +36,7 @@ Information Use
 
 TheGreenGuide.com uses any information you voluntarily give to enhance your experience, whether to provide interactive or personalized elements on the site, to present content more effectively, or to make our future marketing efforts more efficient.
 
-TheGreenGuide.com uses information you voluntarily submit to send out email notices and electronic bulletins and to enable users to move seamlessly through our web site. We send out e-bulletins on a regular schedule (bi-weekly) and occasionally send out special e-notices when we think subscribers might be particularly interested in something we are doing. With respect to advertisements, an advertiser will inform us which type of audience it seeks to reach, and TheGreenGuide.com, will place the advertisement in the body of the email bulletins of those individuals fitting the advertiser's criteria. Pop-up advertisements are displayed to a targeted audience based on the same criteria. The advertisers are not able to access your account or any of your personally identifiable information.
+TheGreenGuide.com uses information you voluntarily submit to send out email notices and electronic bulletins and to enable users to move seamlessly through our web site. We send out e-bulletins on a regular schedule (bi-weekly) and occasionally send out special e-notices when we think subscribers might be particularly interested in something we are doing.
 
 We also use tracking information to determine which areas of our site users like and do not like based on traffic to those areas.
 
@@ -76,7 +76,7 @@ To opt-out of any promotional e-mail, based on information you provided to this 
 
 Correct/Update 
 
-This site gives users the following options for changing and modifying information previously provided. To correct information you provided previously, [click here](https://web.archive.org/contact/priv). Changes, including renewals and address changes, to your subscription to our print publication, The Green Guide, can be made by filling out [this form](https://web.archive.org/contact/subs) or calling 212-946-4598. 
+This site gives users the following options for changing and modifying information previously provided. To correct information you provided previously, [click here](https://web.archive.org/contact/priv). Changes, including renewals and address changes, to your subscription to our print publication, The Green Guide, can be made by filling out [this form](https://web.archive.org/user/emailprefs.mhtml) or calling 212-946-4598. 
 
 Contacting the Web Site 
 
@@ -90,19 +90,20 @@ _November 23, 2004_ Document amended.
 
 |  |  |  |    |  |  |  | 
 
-|  [](https://ssl.thegreenguide.com/subscribe/index.mhtml)  
----  
-  
-The most trusted source for green home tips, product reviews and environmental health updates and advice   
-  
-[](https://ssl.thegreenguide.com/cart/)
+[](https://ssl.thegreenguide.com/subscribe/index.mhtml)
+
+[](http://www.tanklesswater.com/?source=greenguide) [](http://www.thegreenguide.com/ad/click.mhtml?c=lohas)
 
 Got a Question for _The Green Guide_? 
 
+[](https://ssl.thegreenguide.com/cart/)
+
+[](https://web.archive.org/ad/click.mhtml?c=aff-emag)
+
 [Click here](https://web.archive.org/about/coupons) for over $100 worth of COUPONS for popular green products! 
+
+[](https://ssl.thegreenguide.com/donate/)
 
 _thegreenguide.com_ meets the [Consumer WebWatch](http://www.consumerwebwatch.org/bestpractices/) guidelines promoting credible information practices on the Web. 
 
-[](http://www.naturallyhome.com/awards.shtml)
-
-| 
+|  | 
