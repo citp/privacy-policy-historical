@@ -1,86 +1,100 @@
-> *The following text is extracted and transformed from the apexlearning.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611093402id_/http%3A//www.apexlearning.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexlearning.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206191657id_/http%3A//www.apexlearning.com/About/privacy_policy.htm) for the most accurate reproduction.*
 
-# Apex Learning About Us > Privacy Policy
+# Apex Learning - Privacy Policy
 
-  | 
+Apex Learning websites are owned and operated by Apex Learning Inc., a Washington corporation. Please read this Privacy Policy, which tells you what information we collect from users of the Apex Learning websites, how we use that information, and with whom we may share it. Unless defined in this Privacy Policy Conduct, terms capitalized but not defined herein are defined in the [ Terms of Use](https://web.archive.org/web/20050206191657id_/http%3A//www.apexlearning.com/About/terms_of_use.htm). In this Privacy Policy Apex Learning, Inc. is referred to as " **Apex Learning** ," " **we** ," " **us** ," or " **our** " and you the end user are referred to as " **you** " or " **your** ".
 
-Apex Learning Inc.'s ("Apex") policy is to respect and protect the privacy of the people who use our site ("Users"). This policy statement tells you what information we collect from you, how we use that information, and with whom we may share it. Please take a few moments to read this policy before using our site.
+## How Personal Information Is Collected and Updated
 
-By using any of the Apex Web sites, including apexlearning.com or any online courses, workshops, or products you access through these sites, you are consenting to the Apex Privacy Policy and any changes made in it from time to time by Apex. If Apex decides to change this Privacy Policy, Apex will post a new policy on the site and change the date at the top of the new policy. Apex encourages you to check the date of the Privacy Policy whenever you visit the sites for any updates or changes.
+ We may collect information that personally identifies you when you register or enroll for an Educational Offering, when you participate in an Educational Offering or when you otherwise communicate with us. We may also obtain your personal information from the institution, such as a school, district, state department of education, or other educational organization funding your participation in Educational Offerings (" **Sponsoring Organization** ").
 
-How Personal Information Is Collected and Updated
+## Types of Personal Information Collected
 
-We collect personal information (information that individually identifies you) directly from you when you complete online registration and enrollment forms, and when you participate in our online courses. In some cases, the institution funding your participation in the course ("Sponsoring Institution") may provide information about you to us.
+ We may collect the following types of personal at the Apex Learning websites:
 
-To inform Apex of changes to your personal information contact our Support Team via phone, 1-800-453-6227, or email, [support@apexlearning.com](mailto:support@apexlearning.com).
+  1. When students register and/or enroll at any of the Apex Learning websites, we may request the following personal information:
 
-Types of Personal Information Collected
+    * Your name and email address
+    * Your school name
+    * Your school or home school address
+    * Your parent or guardian contact information
+  2. When students participate in Educational Offering activities your activity scores and your grades will be collected in a password-protected location with limited access by you, your parent(s), your school and personnel from your Sponsoring Organization.
+  3. When administrators or teachers register and/or enroll at any of the Apex Learning websites, we may request the following personal information:
 
-We may collect the following information about you on the Apex site or from your Sponsoring Institution. 
+    * Your name and email address
+    * The names and email addresses of other school contacts
+    * Your telephone numbers
+  4. If you are paying with a credit card, to process your payment we may also request the following personal information:
 
-  * When you register at any of the Apex Web sites either to view a demonstration or begin the enrollment process, Apex may request information that may include, but is not limited to, your name and, email address.
-  * When you enroll in an Apex online course or workshop we may request additional information. We request different information if you are a student or a teacher or school administrator. Our requests can include, but are not limited to, your home contact information, school contact information, gender, parent/guardian contact information, educational degrees, job title, years of teaching experience, grade level you teach, teaching certifications, and other Apex courses or workshops previously taken.
-  * If you are paying with a credit card, we also will collect your credit card number, billing information and email address to process your payment.
-
-
-
-How Information Is Used and Shared
-
-  * **Apex Communications** : If you are a student, or if you register for a demonstration Apex may send you communications about new offerings or services. If you do not want to receive these communications you can opt out by sending an email to support@apexlearning.com. If you are a teacher or an administrator, Apex may send you communications about Apex or information from other members of our strategic alliance. If you do not want to receive these communications you can opt out with an email to [support@apexlearning.com](mailto:support@apexlearning.com). When you participate in an Apex course, we may share information you provide to us with your Sponsoring Institution. Information that may be shared includes, but is not limited to, assignments, grades, discussions, and end-of-the-year performance.
-  *  **Registration** : If you register and then enroll in a course or workshop, your name, email address, school, phone number and state of residence will be shared with your online instructor. Your name and email address will be shared with other students in your class, and with any mentors provided by your Sponsoring Institution. Please contact your Sponsoring Institution directly for more information about mentors.
-  *  **Discussion Boards, Forums and Email** : Apex Learning provides educational products and builds educational communities. Our online instructors, instructor services, and student services staff monitor and respond to Users' email and monitor and participate with Users in threaded discussions and other online forums. Apex may monitor or edit the contents of a User's email or of threaded discussions or other online forums as required for normal maintenance of any of our Web sites or in the good-faith belief that such action is necessary to: (1) comply with the law or comply with legal process served on Apex; (2) protect and defend the rights or property of Apex; or (3) act to protect the personal safety of our guests or the public.
-  *  **Grades** : If you are a student, your grades in the Apex course will be reported to your mentor and your school and/or Sponsoring Institution.
-  *  **Legal Requirements** : Apex reserves the right to disclose your personal information if required to do so by law, or if disclosure is reasonably necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of our company, its employees, Users, or the public.
-
-Apex cooperates with law enforcement and other third parties to enforce laws, intellectual property, and other rights, and we reserve the right to report any information related to suspicion of illegal activity to law enforcement for prosecution. We also reserve the right to release personal information about a User who we believe is in violation of our Code of Conduct, Terms of Use, or Privacy Policy even without a subpoena, warrant or other court order.
-
-  *  **Business Transfers** : Information about our Users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the unlikely event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of the business assets of the company.
+    * Your credit card number
+    * Your billing information
+  5. Teaching tools including standards correlations, lesson plans, and teaching strategies that help teachers easily incorporate Beyond Books into their existing curriculum.
 
 
 
-Except as described in this policy, Apex will not disclose your personal information to third parties.
+## How Information Is Used and Shared
 
-Apex may, however, use aggregate information that does not identify you personally for its own purposes, or share aggregate information about our Users with advertisers, business partners, sponsors, and other third parties. For example, we may tell a business partner that x percent of Apex's students are from the West Coast and y percent from the South.
+_Apex Learning Communications_. We may send you communications about updates, services and new Educational Offerings from time to time. If you do not want to receive these communications you can opt out by sending an email to [ support@apexlearning.com](mailto:support@apexlearning.com).
 
-Children
+_Grades, Progress & Usage_. We may share with your Sponsoring Organization (or your school) information about grades, progress or usage, including but not limited to, student activity scores, student course grades, student course progress or utilization by students or teachers of the Apex Learning websites.
 
-Our site is a general audience site that is not designed nor intended to collect personal information from children under the age of 13.
+_Contact Information_. Your contact information may be shared with staff from your school or your Sponsoring Organization. If you enroll in an online course, your name, email address, school, phone number and state of residence will be shared with your online teacher. Your name and email address will be shared with other students in the same section of your online course.
 
-IP Addresses and HTTP Headers
+_Processing Payments_. If you are a student or teacher, we may use you name, contact information, and school information to associate you with a purchaser so you can gain access to the relevant offerings at the Apex Learning websites. For credit card purchasers, we provide to the relevant financial institution your credit card number and billing information.
 
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers-the big computers that "serve up" Web pages-automatically identify your computer by its IP address. When you request pages from Apex sites, our servers log your IP address. Apex collects these IP addresses for the sole purpose of identifying our Users' service providers -- whether AOL, MSN, etc. -- so we can better develop our products. We do not normally link IP addresses to anything personally identifiable. We can and will use IP addresses to identify a User when we feel it is necessary to enforce compliance with our Code of Conduct and Terms of Use or to protect our service, site, customers, or others.
+_Legal Requirements_. Apex Learning reserves the right to disclose your personal information as necessary to: (1) comply with the law or comply with legal process served on Apex Learning; (2) protect and defend the rights or property of Apex Learning; (3) protect the personal safety of other Apex Learning websites users or the public; or (4) to ensure compliance with our [ Terms of Use](https://web.archive.org/web/20050206191657id_/http%3A//www.apexlearning.com/About/terms_of_use.htm) or our [Student Code of Conduct](https://web.archive.org/web/20050206191657id_/http%3A//www.apexlearning.com/About/code_of_conduct.htm). Apex Learning cooperates with law enforcement and other third parties to enforce laws, intellectual property, and other rights, and we reserve the right to report any information related to suspicion of illegal activity to law enforcement for prosecution.
 
-Cookies
+## Business Transfers
 
-Apex uses cookies. Cookies are small text files that are stored on a user's computer by a Web server. A cookie itself is not designed or intended to read any information from a user's computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, monitor, or regulate the use of a site based on information stored on the host server. Therefore, cookies only identify the user's computer to the Web site, which then may correlate other information, including personal information, with the cookie.
+Information about Apex Learning websites users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of the business assets of Apex Learning.
 
-Apex has three primary uses for cookies. First, we use them for session variables, to facilitate your movement through the learning environment and Apex courses. Second, we use them to determine if cookies are enabled in your browser so that we may ensure that our courses run optimally on your computer. Finally, we use cookies to authenticate your access to content. For example, if you are a student in a Calculus course, we use cookies to ensure that you see only Calculus course content. We do not store passwords or credit card information in cookies.
+## Third Parties
 
-Links to Other Web sites
+Except as described in this Privacy Policy, we will not disclose your personal information to third parties. Apex Learning may, however, use for its own purposes, aggregate information that does not identify you personally, or share aggregate information about our users with advertisers, business partners, sponsors, and other third parties. For example, we may tell a business partner that x percent of Apex Learning's students are from the West Coast and y percent from the Southern U.S.
 
-You should be aware that when you are on the Apex site, you could be directed to other sites that are beyond our control. For example, if you "click" a link to a partner or affiliate of ours or to a site we have listed in one of our courses, the "click" takes you off the Apex site. Apex is not responsible for the content or information collection practices of these Web sites. Please note that these Web sites' privacy policies may differ from Apex's privacy policy. We encourage you to review and understand their privacy practices before providing them with information.
+## Children and Our Privacy Policy
 
-Discussion Boards, Forums, and Email
+Apex Learning provides notice of its Privacy Policy to your school and any Sponsoring Organization. Apex Learning relies on the fact that your school's or Sponsoring Organization's authorization for students to enroll and participate in our Educational Offerings is based on the fact that your school has obtained consent from parents to our Privacy Policy.
 
-Please keep in mind that whenever you give out personal information online-for example, via message boards, forums, or chats-that information can be collected and used by people you don't know, even if they're also students who are enrolled online. While Apex strives to protect your personal information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk. You shall remain solely responsible for the content of your messages.
+## Non-personal User Information
 
-Security
+An IP address is a number that is automatically assigned to your computer whenever you're surfing the Internet. When you request pages from Apex Learning websites, our servers log your computer's IP address. Apex Learning collects these IP addresses for the sole purpose of identifying our users' service providers (whether AOL, MSN, etc.) so we can better develop our offerings at the Apex Learning websites. We do not automatically link IP addresses to anything personally identifiable, however we can and will use IP addresses to identify users when we feel it is necessary to: (1) comply with the law or comply with legal process served on Apex Learning; (2) protect and defend the rights or property of Apex Learning; (3) protect the personal safety of other Apex Learning websites users or the public; or (4) to ensure compliance with our [Terms of Use](https://web.archive.org/web/20050206191657id_/http%3A//www.apexlearning.com/About/terms_of_use.htm) or our [ Student Code of Conduct](https://web.archive.org/web/20050206191657id_/http%3A//www.apexlearning.com/About/code_of_conduct.htm).
 
-No data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Apex can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. When credit card information is transmitted we use industry-standard security measures.
+## Cookies
 
-Your access to an Apex course or workshop is password-protected so that only you can access it and view the information relevant to the account. We strongly recommend that you do not divulge your password to anyone. Apex will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Remember to sign off from Apex and close your browser window when you have finished your work.
+A cookie is a small packet of information that we place on your computer's hard drive whenever you visit the Apex Learning websites. For each user, our web server automatically recognizes the following:
 
-Contact Information
+  * the host origin of the request (e.g., your IP address)
+  * the referrer (e.g., where you came from if you arrived at our site via a link)
+  * the requested document (e.g., the page being viewed)
+  * your browser type (e.g., Internet Explorer 5.0)
+  * platform information (e.g., Windows 2000, MAC OS 10)
+  * session data (e.g., whether login was successful)
 
-If you have questions or concerns regarding this Privacy Policy, please contact our Student Services department at:
 
-Apex Learning Inc.  
-315 Fifth Avenue S., Suite 600  
-Seattle, WA 98104  
-Toll-free Phone: (800) 453-6227  
-Email: [support@apexlearning.com](mailto:support@apexlearning.com)  
-Fax: (206) 381-5601 
 
-Back to Top
+Apex Learning uses cookies for a variety of reasons, including without limitation the following:
 
-|  
+  * For session variables, to facilitate your navigation of content on the Apex Learning websites.
+  * To determine if cookies are enabled in your browser so that we may ensure that our Apex Learning websites run on your computer.
+  * To authenticate your access to content on the Apex Learning websites. For example, if you are a student in a calculus course, we use cookies to ensure that you see only calculus course content.
+
+
+
+ We do not store in cookies any passwords or credit card information, any information that personally identifies you, or any information that tracks you from session to session.
+
+## Steps You Can Take to Protect Your Privacy
+
+_Links to Other Websites_. You should be aware that when you are on any Apex Learning website, you could be directed to other websites hosted by third parties. We do not endorse those websites. For example, if you "click" a link to a third party site we have listed on one of the pages on the Apex Learning websites, the "click" takes you off the applicable Apex Learning websites. Apex Learning is not responsible for the content or information collection practices of these websites. Please note that these websites may have privacy policies that differ from this Privacy Policy. We encourage you to review and understand their privacy practices before providing them with information.
+
+_What You Disclose_. Please keep in mind that whenever you give out personal information online - for example, via message boards, forums, or chats \- that information can be viewed and used by people that you do not know, including but not limited to other students who access at the Apex Learning websites.
+
+_Passwords_. Your access to Educational Offerings is password-protected and only you are authorized to access it and view the information relevant to the account. You agree not to share your passwords with anyone. You are responsible for maintaining the secrecy of your passwords. You agree to sign off from the Apex Learning websites and close your Internet browser window when you have finished accessing and using any Apex Learning website.
+
+_No Guarantee of Security_. No data transmission over the Internet is guaranteed to be secure. Apex Learning does not ensure or warrant the security of any personal or other information you transmit to us including without limitation via the Apex Learning websites.
+
+## Contact Information
+
+If you have questions or concerns regarding this Privacy Policy, please contact our support services department at: Apex Learning Inc. 315 Fifth Avenue South, Suite 600, Seattle, WA 98104 or via email at: [ support@apexlearning.com](mailto:support@apexlearning.com). You may also call us toll-free at: 1-800-453-6227.
+
+| 
