@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1asphost.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204205141id_/http%3A//www.1asphost.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1asphost.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610183345id_/http%3A//www.1asphost.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for 1ASPHost.com
 
