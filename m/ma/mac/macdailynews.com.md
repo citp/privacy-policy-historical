@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the macdailynews.com privacy policy that was archived on 2002-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021229080454id_/http%3A//www.macdailynews.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macdailynews.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621122642id_/http%3A//www2.macdailynews.com/privacy.php) for the most accurate reproduction.*
 
-# MacDailyNews - Privacy Policy
+# MacDailyNews - Privacy Policy - Welcome Home
 
-| 
-
-######  **Privacy Policy**
+###### **Privacy Policy**
 
 ###### Your privacy on the Internet is important to us. As part of the operation of our site, we gather certain types of information about our users, and we would like to explain the types of information we gather, what we do with it and how to correct or change the information.
 
@@ -74,6 +72,3 @@ Our web site may contain links to other Internet web sites, including co-branded
 ###### We reserve the right to change this policy at any time by posting a revised privacy policy. The revised policies will be posted here.
 
 ###### The Apple logo and Macintosh are trademarks of Apple Computer, Inc., registered in the U.S. and other countries. The Powered By Mac Badge is a trademark of Apple Computer, Inc., used with permission.
-
-|  |   
----|---|---
