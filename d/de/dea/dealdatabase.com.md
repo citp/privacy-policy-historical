@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealdatabase.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607010434id_/http%3A//www.dealdatabase.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealdatabase.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204234327id_/http%3A//www.dealdatabase.com/privacy.html) for the most accurate reproduction.*
 
 # DealDatabase.com Policy Statement
 
