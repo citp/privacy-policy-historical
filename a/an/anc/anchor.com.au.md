@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anchor.com.au privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209114503id_/http%3A//www.anchor.net.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchor.com.au privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601193444id_/http%3A//www.anchor.net.au/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -12,13 +12,15 @@
   
    
   
+ [Email Hosting](http://www.anchor.net.au/email-hosting.php)  
+  
  [Web Hosting](http://www.anchor.net.au/web-hosting.php)  
   
 [Dedicated Servers](http://www.anchor.net.au/dedicated.php)  
   
 [Co-Location](http://www.anchor.net.au/colocation.php)  
   
-[Domains](http://www.anchor.net.au/domains.php)  
+[Domains](http://www.securedomains.com.au/)  
   
 [Support](http://www.anchor.net.au/help.php)  
   
