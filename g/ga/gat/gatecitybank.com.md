@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatecitybank.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610080048id_/http%3A//www.gatecitybank.com/online_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatecitybank.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206185322id_/http%3A//www.gatecitybank.com/online_privacypolicy.asp) for the most accurate reproduction.*
 
 # Gate City Bank / Online Banking Privacy Policy
 
