@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the islandpacket.com privacy policy that was archived on 2002-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021017223241id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the islandpacket.com privacy policy that was archived on 2003-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030418121742id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.-->
 
 <html><head>
     <title>Island Packet Online: Privacy Policy </title>
@@ -52,7 +52,24 @@ function SaveCookie(cname,cvalue,cdays,cpath) {
            window.location = baseLocation
    }
 
-<!--  No mapping for if evaluation: [/section_path] = /services/privacy -->
+//FONTSIZE
+function ChangeFontSize(id, size) {
+    document.getElementById(id).style.fontSize = size + "px";
+    var lineheight = size*1.2;
+    document.getElementById(id).style.lineHeight = lineheight + "px";
+    SaveCookie("fontsize_bg",size,365);
+}
+
+function CheckFontSize() {
+	if (GetCookie('fontsize_bg')) { //see if cookie already exists
+		var fontsize = GetCookie('fontsize_bg');
+		if (fontsize != 13) {
+		ChangeFontSize('body_text',fontsize);
+		}
+	}
+}
+
+
 
 
 // End -->
@@ -72,7 +89,7 @@ function SaveCookie(cname,cvalue,cdays,cpath) {
       <tbody><tr>
         <td width="351"><a href="/" name="pagetop"><img src="/images/islandpacketonline.gif" width="351" height="45" border="0" alt="Island Packet Online"></a></td>
 
-        <td width="100%" align="right" valign="bottom" background="/images/wavebackground.gif"><span class="white9px">Southern Beaufort County's Daily Newspaper&nbsp; </span> </td>
+        <td width="100%" align="right" valign="bottom" background="/images/wavebackground.gif"><span style="position:absolute;top:3px;right:1px;letter-spacing:3px;color:#0099FF;font-size:9px">HILTON HEAD ISLAND - BLUFFTON S.C.</span><br><span class="white9px">Southern Beaufort County's News &amp; Information Source&nbsp; </span>  </td>
       </tr>
 
       <tr>
@@ -229,12 +246,12 @@ function SaveCookie(cname,cvalue,cdays,cpath) {
       </tr>
 
       <tr>
-        <td class="weathertext" width="120"><nobr>&nbsp;Fri, October 11, 2002</nobr></td>
+        <td class="weathertext" width="120"><nobr>&nbsp;Thu, April 17, 2003</nobr></td>
 
 
-<!--WEATHERSTRIP updated Thu Oct 17 18:30:04 2002-->
+<!--WEATHERSTRIP updated Fri Apr 18 08:00:10 2003-->
 
-<td class="weathertext" width="32"><nobr><img src="http://www.islandpacket.com/images/accuicons-s/33s.gif" width="32" height="20" border="0" alt=""></nobr></td><td class="weathertext"><nobr>Clear - Temp: 72 - Humidity: 49%</nobr></td><!---/WEATHERSTRIP--->
+<td class="weathertext" width="32"><nobr><img src="http://www.islandpacket.com/images/accuicons-s/06s.gif" width="32" height="20" border="0" alt=""></nobr></td><td class="weathertext"><nobr>Mostly Cloudy - Temp: 68 - Humidity: 89%</nobr></td><!---/WEATHERSTRIP--->
 
 
 
@@ -244,17 +261,14 @@ function SaveCookie(cname,cvalue,cdays,cpath) {
 <form method="get" action="/dwb_search/index.html" class="searchbox">
 <table cellpadding="0" cellspacing="0" border="0" align="right">
 <tbody><tr>
-<td class="weathertext">SEARCH:&nbsp;</td>
-<td><input type="text" name="target" size="12" class="searchinput">&nbsp;</td>
-<td><select name="collection" class="searchbutton">
-<option name="collection" value="Current">The Site</option>
-<option name="collection" value="Archive">Archive</option>
-<option name="collection" value="ClassAds">Classifieds</option>
-</select>&nbsp;</td>
+<td class="weathertext">SITE SEARCH:&nbsp;</td>
+<td><input type="text" name="target" size="12" class="searchinput" onchange="javascript:this.value=this.value.toLowerCase();">&nbsp;</td>
 <td><input type="submit" value="Search" class="searchbutton">&nbsp;</td>
 <td class="weathertext">&nbsp;<a href="/search">Advanced Search</a>&nbsp;</td>
 </tr>
 </tbody></table>
+<input type="hidden" name="collection" value="Current">
+<input type="hidden" name="collection" value="Archive">
 </form>
 <!--/MULTISEARCH-->
 
@@ -288,10 +302,6 @@ function SaveCookie(cname,cvalue,cdays,cpath) {
           	
           	<tr>
           	  <td class="quicklinks">&nbsp; <a href="/" class="medblue">Home</a> </td>
-          	</tr>
-
-          	<tr>
-          	  <td class="quicklinks">&nbsp; <a href="/hurricane" class="medblue">Hurricane 2002</a> </td>
           	</tr>
           	
           	<tr>
@@ -460,35 +470,45 @@ function SaveCookie(cname,cvalue,cdays,cpath) {
             <tr>
               <td class="boxad">
 <div class="padding2">
+        
+
         <!--- 1st Section: Delivery Attempt via JX tag. --->
-        <script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.islandpacket.com/services/privacy/front@Button2?Pa86hsCoAtwAAMiCVvU">
-        </script>
+        <!--SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.islandpacket.com/services/privacy/front@Button2"-->
+        <!--/script-->
 
         <!--- 2nd Section: Browser test; "version" will be set to 10 or 11 --->
         <script language="JavaScript">
+            <!-- It is VERY important that the following line be commented like it is -->
+            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
             <!-- 
-            _version=10; 
-            //-->
+                var _version=10; 
+            // -->
         </script>
         <script language="JavaScript1.1">
-            <!-- 
-            _version=11; 
+            <!-- It is VERY important that the following line be commented like it is -->
+            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
+            <!--
+                var _version=11; 
             // -->
         </script>
 
         <script language="JavaScript">
-        <!--- 3rd Section: Acts on results of Browser test with delivery via SX code--->
-        <!--
-        if (navigator.appVersion.indexOf('MSIE 3') != -1)
-        {
-            document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_sx.ads/www.islandpacket.com/services/privacy/front@Button2?Pa86hsCoAtwAAMiCVvU"></iframe>');
-        }
-        else if (_version < 11)
-        {
-            document.write ('<A HREF="http://ads.nandomedia.com/RealMedia/ads/click_nx.ads/www.islandpacket.com/services/privacy/front@Button2?Pa86hsCoAtwAAMiCVvU"><IMG SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_nx.ads/www.islandpacket.com/services/privacy/front@Button2?Pa86hsCoAtwAAMiCVvU"></a>');
-        }
-        // -->
-        </script>
+            <!--- 3rd Section: Acts on results of Browser test with delivery via SX code--->
+            <!--
+            if (navigator.appVersion.indexOf('MSIE 3') != -1)
+            {
+                document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_sx.ads/www.islandpacket.com/services/privacy/front@Button2"></iframe>');
+            }
+            else if (_version < 11)
+            {
+                document.write ('<A HREF="http://ads.nandomedia.com/RealMedia/ads/click_nx.ads/www.islandpacket.com/services/privacy/front@Button2"><IMG SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_nx.ads/www.islandpacket.com/services/privacy/front@Button2"></a>');
+            }
+            else
+            {
+                document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.islandpacket.com/services/privacy/front@Button2"></'+'SCRIPT>');
+            }
+            // -->
+        </script><script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.islandpacket.com/services/privacy/front@Button2"></script>
 
 
 
@@ -530,8 +550,26 @@ function SaveCookie(cname,cvalue,cdays,cpath) {
 </tbody></table>
           <!--/HEADLINES/SPECIAL SECTIONS-->  
 
-<div class="big-sectionname"><span class="midgray">Island Packet:</span><span class="darkgray">Privacy Policy</span></div>
 
+<div class="g10" style="float:right">
+<a href="/services/useragreement">User Agreement</a>
+| <a href="/services/privacy/">Privacy</a>
+<script type="text/javascript" language="Javascript">
+<!--
+if (GetCookie('islandpacket_user_auth'))    // user is logged in
+{ 
+	document.write(" | <a href='/register-bin/signup.pl.cgi?mode=logout' onmouseover='window.status=\"Logout\";return true' onmouseout='window.status=\"\";return true'>Logout<\/a>");
+	document.write(" | <a href='/register-bin/signup.pl.cgi?mode=edit' onmouseover='window.status=\"Edit\";return true' onmouseout='window.status=\"\";return true'>My Account<\/a>");
+} 
+else                                      // user is not logged in
+{
+	document.write(" | <a href='/dwb_register/login/' onmouseover='window.status=\"Login\";return true' onmouseout='window.status=\"\";return true'>Login<\/a>");
+};
+//-->
+</script> | <a href="/dwb_register/login/" onmouseover="window.status=&quot;Login&quot;;return true" onmouseout="window.status=&quot;&quot;;return true">Login</a>
+</div>
+
+<div class="big-sectionname"><span class="midgray">Island Packet:</span><span class="darkgray">Privacy Policy</span></div>
 
 
 <!--  No mapping for if evaluation: [/section_path] = /services/privacy -->
@@ -579,7 +617,7 @@ function SaveCookie(cname,cvalue,cdays,cpath) {
 
 </p><p>Occasionally, we may disclose personal information in other circumstances, but we will only do this if we have explained at the time we collect the information the purpose for which it will be disclosed.
 
-</p><p><b>Kids' Privacy</b>
+</p><p><a name="kids"><b>Kids' Privacy</b></a>
 
 </p><p>The Island Packet is particularly concerned with providing a safe online environment for kids. Therefore, in areas operated by The Island Packet that are directed to kids or when we learn that a user is under the age of 13, we will ask for parental consent before collecting additional personal information about the child or allowing the child to use the The Island Packet services to provide additional personal information. Parental consent can be provided in two ways:
 
@@ -646,35 +684,45 @@ The Island Packet hosts a number of online stores that sell a variety of goods a
             <tr>
               <td class="boxad">
 <div class="padding2">
+        
+
         <!--- 1st Section: Delivery Attempt via JX tag. --->
-        <script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.islandpacket.com/services/privacy/front@Button1?Pa86hsCoAtwAAMiCVvU">
-        </script>
+        <!--SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.islandpacket.com/services/privacy/front@Button1"-->
+        <!--/script-->
 
         <!--- 2nd Section: Browser test; "version" will be set to 10 or 11 --->
         <script language="JavaScript">
+            <!-- It is VERY important that the following line be commented like it is -->
+            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
             <!-- 
-            _version=10; 
-            //-->
+                var _version=10; 
+            // -->
         </script>
         <script language="JavaScript1.1">
-            <!-- 
-            _version=11; 
+            <!-- It is VERY important that the following line be commented like it is -->
+            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
+            <!--
+                var _version=11; 
             // -->
         </script>
 
         <script language="JavaScript">
-        <!--- 3rd Section: Acts on results of Browser test with delivery via SX code--->
-        <!--
-        if (navigator.appVersion.indexOf('MSIE 3') != -1)
-        {
-            document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_sx.ads/www.islandpacket.com/services/privacy/front@Button1?Pa86hsCoAtwAAMiCVvU"></iframe>');
-        }
-        else if (_version < 11)
-        {
-            document.write ('<A HREF="http://ads.nandomedia.com/RealMedia/ads/click_nx.ads/www.islandpacket.com/services/privacy/front@Button1?Pa86hsCoAtwAAMiCVvU"><IMG SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_nx.ads/www.islandpacket.com/services/privacy/front@Button1?Pa86hsCoAtwAAMiCVvU"></a>');
-        }
-        // -->
-        </script>
+            <!--- 3rd Section: Acts on results of Browser test with delivery via SX code--->
+            <!--
+            if (navigator.appVersion.indexOf('MSIE 3') != -1)
+            {
+                document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_sx.ads/www.islandpacket.com/services/privacy/front@Button1"></iframe>');
+            }
+            else if (_version < 11)
+            {
+                document.write ('<A HREF="http://ads.nandomedia.com/RealMedia/ads/click_nx.ads/www.islandpacket.com/services/privacy/front@Button1"><IMG SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_nx.ads/www.islandpacket.com/services/privacy/front@Button1"></a>');
+            }
+            else
+            {
+                document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.islandpacket.com/services/privacy/front@Button1"></'+'SCRIPT>');
+            }
+            // -->
+        </script><script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.islandpacket.com/services/privacy/front@Button1"></script>
 
 
 </div>
@@ -689,7 +737,22 @@ The Island Packet hosts a number of online stores that sell a variety of goods a
 
 
 <a href="/ads/"><img src="/images/newspaperads_b.gif" width="125" height="46" border="0" alt="Newspaper Ads" title="Browse the top newspaper ads from The Island Packet"></a>
-
+<!--2003 Lexus ES300 For $299/Mo Or 2.9% Apr Only At Chatham Parkway Lexus-->
+<div class="adlink"><a class="adlink" href="/ads/featured/story/2463606p-2291772c.html" title="Chatham Parkway Lexus">2003 Lexus ES300 For $299/Mo Or 2.9% Apr Only At Chatham Parkway Lexus</a></div>
+<!--Apartments For Rent-->
+<div class="adlink"><a class="adlink" href="/ads/featured/story/2463602p-2291768c.html" title="Old South Apartments">Apartments For Rent</a></div>
+<!--Coldwell Banker Hilton Head Properties-->
+<div class="adlink"><a class="adlink" href="/ads/featured/story/2431732p-2262566c.html" title="Coldwell Banker">Coldwell Banker Hilton Head Properties</a></div>
+<!--Commercial Space For Rent-->
+<div class="adlink"><a class="adlink" href="/ads/featured/story/2431753p-2262601c.html" title="Main Street Realty">Commercial Space For Rent</a></div>
+<!--Model Homes For Sale-->
+<div class="adlink"><a class="adlink" href="/ads/featured/story/2463605p-2291776c.html" title="Model Homes Of Hilton Head">Model Homes For Sale</a></div>
+<!--New Model Homes-->
+<div class="adlink"><a class="adlink" href="/ads/featured/story/2431734p-2262578c.html" title="Model Homes Of Hilton Head">New Model Homes</a></div>
+<!--Remax-Mark Desjean's Elite Properties Of Hilton Head Island-->
+<div class="adlink"><a class="adlink" href="/ads/featured/story/2431733p-2262574c.html" title="Mark Desjean">Remax-Mark Desjean's Elite Properties Of Hilton Head Island</a></div>
+<!--Stokes Brown Toyota - Rebates up to $4000-->
+<div class="adlink"><a class="adlink" href="/ads/featured/story/2454438p-2283446c.html" title="Stokes-Brown Toyota">Stokes Brown Toyota - Rebates up to $4000</a></div>
 
 <div class="adlink" align="right"><a href="/ads/" class="adlink"><img src="/images/icons/icon_arrow_right.gif" width="15" height="16" border="0" alt="">
 View all ads</a></div>
@@ -709,7 +772,7 @@ View all ads</a></div>
       <tr>
         <td width="120" class="leftnav" valign="top">&nbsp;</td>
         <td>
-        	<div class="c2"><span class="text75"><a href="/services/useragreement">Copyright</a> © 2002 The Island Packet | <a href="/services/privacy">Privacy Policy</a> | <a href="/services/useragreement">User Agreement</a></span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#pagetop" class="backtotop"><img src="/images/icons/icon_arrow_up.gif" width="15" height="16" border="0" alt="">Back to top</a></div>
+        	<div class="c2"><span class="text75"><a href="/services/useragreement">Copyright</a> © 2003 The Island Packet | <a href="/services/privacy">Privacy Policy</a> | <a href="/services/useragreement">User Agreement</a></span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#pagetop" class="backtotop"><img src="/images/icons/icon_arrow_up.gif" width="15" height="16" border="0" alt="">Back to top</a></div>
         </td>
         <td class="rightnav">&nbsp;</td>
       </tr>
@@ -870,181 +933,65 @@ View all ads</a></div>
 
 </td></tr><tr><td><img src="/images/1.gif" width="750" height="1" border="0"></td></tr></tbody></table>
 
-<!-- stats_code:begin -->
-<script language="JavaScript" type="text/javascript">
-var host_array = document.location.hostname.split(".");
-var host_domain = host_array[host_array.length-2];
-var host_system = host_array[host_array.length-3];
-var href_array = document.location.href.split("/");
-var high_path = href_array[3];var default_pagename;
-if (!default_pagename)
-{
-default_pagename="Privacy Policy";
-}var default_server;
-if (!default_server)
-{
-default_server='islandpacket';
-}var default_channel;
-if (!default_channel)
-{
-default_channel='Privacy Policy';
-}var override_pagelevel='';
-if(default_pagename=="")
-{
-default_pagename=document.title;
-}
-if(default_server=="")
-{
-if(!host_domain)
-{
-default_server="The McClatchy Company";
-}
-else
-{
-default_server=host_domain;
-}
-}
-default_pagename=default_server+" -- "+default_pagename;
-if(default_channel=="")
-{
-if(!host_system)
-{
-if(!high_path)
-{
-default_channel="Front";
-}
-else
-{
-default_channel=high_path;
-}
-}
-else
-{
-if(host_system == "www")
-{
-if(!high_path)
-{
-default_channel="Front";
-}
-else
-{
-default_channel=high_path;
-}
-}
-else
-{
-default_channel=host_system+"/"+high_path;
-}
-}
-}
-var pagepath = "";
-var fileandtag = href_array[href_array.length-1];
-var tagstrip = fileandtag.split("#");
-var fileandquery = tagstrip[0];
-var querystrip = fileandquery.split("?");
-var filename = querystrip[0];
-var default_pagelevel = "Story";
-var fileext = filename.split(".");
-var ext = fileext[1];
-if (filename == "")
-{
-default_pagelevel = "Section";
-}
-else if (ext != "html" && ext != "htm" && ext != "cgi")
-{
-default_pagelevel = "Section";
-}
-else if (filename == "index.html")
-{
-default_pagelevel = "Section";
-}
-if (override_pagelevel != "")
-{
-default_pagelevel = override_pagelevel;
-}
-/* You may give each page an identifying name, server, and channel on the next lines. */
-var pageName;if(!pageName)pageName=default_pagename;
-var server;if(!server)server=default_server;
-var channel;if(!channel)channel=default_channel;
-var pageType;if(!pageType)pageType='';
-var pageValue;if(!pageValue)pageValue='';
-var product;if(!product)product='';
-var prop1;if(!prop1)prop1=document.location.href;
-var prop2;if(!prop2)prop2='_default';
-var prop3;if(!prop3)prop3=default_pagelevel;
-var prop4;if(!prop4)prop4='';
-var prop5;if(!prop5)prop5='';
-var prop6;if(!prop6)prop6='';
-var prop7;if(!prop7)prop7='';
-var prop8;if(!prop8)prop8='';
-var prop9;if(!prop9)prop9='';
-var prop10;if(!prop10)prop10='';
-var prop11;if(!prop11)prop11='';
-var prop12;if(!prop12)prop12='';
-var prop13;if(!prop13)prop13='';
-var prop14;if(!prop14)prop14='';
-var prop15;if(!prop15)prop15='';
-var prop16;if(!prop16)prop16='';
-var prop17;if(!prop17)prop17='';
-var prop18;if(!prop18)prop18='';
-var prop19;if(!prop19)prop19='';
-var prop20;if(!prop20)prop20='';/**** DO NOT ALTER ANYTHING BELOW THIS LINE! ****/
-function mc_escape(s){var ch;s=escape(s)
-while((ch=s.indexOf('+'))>0)s=s.substr(0,ch)+'%2B'+s.substr(ch+1,s.length)
-while((ch=s.indexOf('/'))>0)s=s.substr(0,ch)+'%2F'+s.substr(ch+1,s.length)
-return s}
-var mc_t=new Date;var mc_n1=Math.floor(mc_t.getTime()/10800000)%10
-var mc_n2=mc_t.getTime()%10000000000000;var mc_s=mc_n1+'fsi'+mc_n2
-function mc_mkcd(){var s='',c='',v='',p='',bw='',bh=''
-var j='1.0'
-var g=window.location.href
-var a=mc_apn+' '+mc_apv
-var o=navigator.platform
-var r=(mc_r?mc_r:(mc_noe?'NULL':'External Frame Referrer'))
-var yr,t=mc_t.getDate()+'/'+mc_t.getMonth()+'/'+((yr=mc_t.getYear())<1900?yr+1900:yr)+' '+mc_t.getHours()+':'+mc_t.getMinutes()+':' + mc_t.getSeconds()+' '+mc_t.getDay()+' '+mc_t.getTimezoneOffset()
-document.cookie='ssACK=true';var k=(document.cookie.indexOf('ssACK=')!=-1?'Y':'N')
-if(mc_apv>=4)s=screen.width+'x'+screen.height
-if(mc_apn=='Netscape'){var i1=0,i2=0,sta;while((i1<navigator.plugins.length)&&(i2<30)){sta=navigator.plugins[i1].name
-if(sta.length>100)sta=sta.substring(0,100);sta+=';'
-if(p.indexOf(sta)==-1)p+=sta;i1++;i2++}
-v=(navigator.javaEnabled()?'Y':'N')
-if(mc_apv>=3)j='1.1'
-if(mc_apv>=4){j='1.2'
-c=screen.pixelDepth
-bw=window.innerWidth
-bh=window.innerHeight
-}if(mc_apv>=4.06)j='1.3'
-}if(mc_apn=='Microsoft Internet Explorer'){if(mc_apv<4)r='NULL'
-if(mc_apv>=3)v=(navigator.javaEnabled()?'Y':'N')
-if(mc_apv>=4){j='1.2'
-c=screen.colorDepth
-}if(mc_apv>=5){c=screen.colorDepth
-bw=document.documentElement.offsetWidth
-bh=document.documentElement.offsetHeight
-j='1.3'
-}}if(mc_apn=='Opera'){var i1=0,i2=0,sta
-while((i1<navigator.plugins.length)&&(i2<30)){sta=navigator.plugins[i1].name
-if(sta.length>100)sta=sta.substring(0,100);sta+=';'
-if(p.indexOf(sta)==-1)p+=sta;i1++;i2++}
-var v=(navigator.javaEnabled()?'Y':'N')
-}code='<im'+'g src="http://nmhiltonhead.112.2O7.net/b/ss/nmhiltonhead/1/c3.2/'+mc_s+'?[AQB]r='+mc_escape(r)+'&s='+mc_escape(s)+'&c='+mc_escape(c)+'&o='+mc_escape(o)+'&j='+j+'&v='+v+'&k='+k+'&bw='+bw+'&bh='+bh+'&t='+mc_escape(t)+'&pageName='+mc_escape(pageName)+'&server='+mc_escape(server)+'&ch='+mc_escape(channel)+'&pageType='+mc_escape(pageType)+'&pageValue='+mc_escape(pageValue)+'&product='+mc_escape(product)+'&c1='+mc_escape(prop1)+'&c2='+mc_escape(prop2)+'&c3='+mc_escape(prop3)+'&c4='+mc_escape(prop4)+'&c5='+mc_escape(prop5)+'&c6='+mc_escape(prop6)+'&c7='+mc_escape(prop7)+'&c8='+mc_escape(prop8)+'&c9='+mc_escape(prop9)+'&c10='+mc_escape(prop10)+'&c11='+mc_escape(prop11)+'&c12='+mc_escape(prop12)+'&c13='+mc_escape(prop13)+'&c14='+mc_escape(prop14)+'&c15='+mc_escape(prop15)+'&c16='+mc_escape(prop16)+'&c17='+mc_escape(prop17)+'&c18='+mc_escape(prop18)+'&c19='+mc_escape(prop19)+'&c20='+mc_escape(prop20)+'&g='+mc_escape(g)+'&a='+mc_escape(a)+'&p='+mc_escape(p)+'[AQE]'+'"  height=1 width=1 border=0>'
-if(!mc_noe)document.write(code)
-return code}var mc_n=navigator,mc_apn=mc_n.appName,mc_w=mc_n.appVersion,mc_apv,mc_i
-var mc_msie=mc_w.indexOf('MSIE ')
-if(mc_w.indexOf('Opera')>0)mc_apn='Opera'
-if(mc_msie>0){mc_apv=parseInt(mc_i=mc_w.substring(mc_msie+5))
-if(mc_apv>3)mc_apv=parseFloat(mc_i)}else mc_apv=parseFloat(mc_w)
-function mc_et(){window.onerror=window.oe;return true}var mc_noe=false;var mcr_done=false
-/*@cc_on@if(@_jscript_version>=5){var mc_r='';try{mc_r=parent.document.referrer;mc_noe=true}catch(e){}mcr_done=true}@end@*/
-if(!mcr_done){if(navigator.userAgent.indexOf('Mac')>=0&&navigator.userAgent.indexOf('MSIE 4')>=0){var mc_r=document.referrer;mc_noe=true}
-else{window.oe=window.onerror;window.onerror=mc_et;var mc_r=parent.document.referrer;mc_noe=mc_et()}}
-</script><script language="JavaScript">
-document.write(mc_mkcd());document.write('<'+'!-- ') </script><img src="http://nmhiltonhead.112.2O7.net/b/ss/nmhiltonhead/1/c3.2/1fsi1580384066175?[AQB]r=NULL&amp;s=800x600&amp;c=24&amp;o=Linux%20x86_64&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;t=30%2F0%2F2020%2011%3A34%3A26%204%200&amp;pageName=islandpacket%20--%20Privacy%20Policy&amp;server=islandpacket&amp;ch=Privacy%20Policy&amp;pageType=&amp;pageValue=&amp;product=&amp;c1=https%3A%2F%2Fweb.archive.org%2Fweb%2F20021017223241id_%2Fhttp%3A%2F%2Fwww.islandpacket.com%2Fservices%2Fprivacy%2F&amp;c2=_default&amp;c3=Section&amp;c4=&amp;c5=&amp;c6=&amp;c7=&amp;c8=&amp;c9=&amp;c10=&amp;c11=&amp;c12=&amp;c13=&amp;c14=&amp;c15=&amp;c16=&amp;c17=&amp;c18=&amp;c19=&amp;c20=&amp;g=https%3A%2F%2Fweb.archive.org%2Fweb%2F20021017223241id_%2Fhttp%3A%2F%2Fwww.islandpacket.com%2Fservices%2Fprivacy%2F&amp;a=Netscape%205&amp;p=[AQE]" height="1" width="1" border="0"><!-- <noscript>
-<img src="http://nmhiltonhead.112.2O7.net/b/ss/nmhiltonhead/1?pageName=islandpacket%20--%20Privacy%20Policy&server=islandpacket&channel=Privacy%20Policy&c1=islandpacket%2Fservices%2Fprivacy%2Findex.html&c2=_default&c3=Unknown&c4=Unknown" height=1 width=1 border=0>
-</noscript><script language="JavaScript">
-document.write(' --'+'>')
+<!-- Shell for SiteCatalyst code version: F.1
+Copyright 2002 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript"><!--
+/*                                                                 */
+/* ======== Override the automatic and side-wide settings =========*/
+/* ==================== Version 111802 ============================*/
+/*                                                                 */
+var override_pageName;if(!override_pageName)override_pageName="Privacy Policy";
+var override_server;if(!override_server)override_server="islandpacket";
+var override_channel;if(!override_channel)override_channel="Privacy Policy";
+var override_channels_by_server;if(!override_channels_by_server)override_channels_by_server="";
+var override_pages_by_channel;if(!override_pages_by_channel)override_pages_by_channel="";
+var override_pages_by_server;if(!override_pages_by_server)override_pages_by_server="";
+var override_trackDownloadLinks;if(!override_trackDownloadLinks)override_trackDownloadLinks="";
+var override_linkDownloadFileTypes;if(!override_linkDownloadFileTypes)override_linkDownloadFileTypes="";
+var override_trackExternalLinks;if(!override_trackExternalLinks)override_trackExternalLinks="";
+var override_linkInternalFilters;if(!override_linkInternalFilters)override_linkInternalFilters="";
+var override_pageType;if(!override_pageType)override_pageType="";
+var override_pageValue;if(!override_pageValue)override_pageValue="";
+var override_product;if(!override_product)override_product="";
+var override_URL;if(!override_URL)override_URL="";/* prop1 */
+var override_version;if(!override_version)override_version="_default";/* prop2 */
+var override_pagelevel;if(!override_pagelevel)override_pagelevel="";/* prop3 */
+var override_content_source;if(!override_content_source)override_content_source="IslandPacket";/* prop4 */
+var override_prop5;if(!override_prop5)override_prop5="";
+var override_prop6;if(!override_prop6)override_prop6="";
+var override_prop7;if(!override_prop7)override_prop7="";
+var override_prop8;if(!override_prop8)override_prop8="";
+var override_prop9;if(!override_prop9)override_prop9="";
+var override_prop10;if(!override_prop10)override_prop10="";
+var override_dopts;if(!override_dopts)override_dopts="";
+/*                                                                 */
+/* ============= Invoke site-specific configurations ==============*/
+/* ================= and core SiteCatalyst code ===================*/
+/*                                                                 */
+var s_code=' ';
+// -->
 </script>
-<!-- End SuperStats tracking code. --><!-- stats_code:end -->
+<script src="/includes/stats/stats_local.js"></script>
+<script src="/includes/stats/stats.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+var s_wd=window,s_tm=new Date;
+if(s_code!=' ')
+{
+s_code=s_dc('nmhiltonhead');
+if(s_code)document.write(s_code);
+}
+else
+document.write('<im'+'g src="http://192.168.112.2O7.net/b/ss/nmhiltonhead/1/F.1-fb/s'+s_tm.getTime()+'?[AQB]'+'&pageName='+escape(s_wd.s_pageName?s_wd.s_pageName:(s_wd.pageName?s_wd.pageName:''))+'&server='+escape(s_wd.s_server?s_wd.s_server:(s_wd.server?s_wd.server:''))+'&ch='+escape(s_wd.s_channel?s_wd.s_channel:(s_wd.channel?s_wd.channel:''))+'&[AQE]" height="1" width="1" border="0" />');
+// -->
+</script><img src="http://192.168.112.2O7.net/b/ss/nmhiltonhead/1/F.1-fb/s1580384066281?[AQB]&amp;pageName=Privacy%20Policy&amp;server=islandpacket&amp;ch=Privacy%20Policy&amp;[AQE]" height="1" width="1" border="0">
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-');
+// -->
+</script>
+<noscript><img src="http://192.168.112.2O7.net/b/ss/nmhiltonhead/1/F.1-XeLvs?pageName=Privacy%20Policy&server=islandpacket&channel=Privacy%20Policy&c1=islandpacket%2Fservices%2Fprivacy%2Findex.html&c2=_default&c3=Unknown&c4=IslandPacket&c5=Noscript5&c6=Noscript6&c7=Noscript7&c8=Noscript8&c9=Noscript9&c10=Noscript10" height="1" width="1" border="0" />
+</noscript><!--/DO NOT REMOVE/-->
+<!-- End shell for SiteCatalyst code version: F.1. -->
 
 
 
