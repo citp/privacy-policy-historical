@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203052209id_/http%3A//www.incorporate.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402071434id_/http%3A//incorporate.com/privacy.cfm) for the most accurate reproduction.*
 
 # www.corporate.com: Incorporate Now!
 
