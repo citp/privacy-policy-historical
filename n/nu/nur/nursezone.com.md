@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205103324id_/http%3A//nursezone.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604031144id_/http%3A//nursezone.com/privacy.asp) for the most accurate reproduction.*
 
 # NurseZone - Privacy Statement
 
@@ -11,7 +11,7 @@
   
 **Who We Are**  
   
-The _NurseZone_ site is a health care information career site on the World Wide Web. You can learn more about _NurseZone_ by clicking on [www.nursezone.com](https://web.archive.org/web/20011205103324id_/http%3A//nursezone.com/default.asp).  
+The _NurseZone_ site is a health care information career site on the World Wide Web. The _NurseZone_ site is a health care information and career site on the World Wide Web. NurseZone is a division of AMN Healthcare, which is the largest travel health care staffing organization in the United States. You can learn more about AMN Healthcare by clicking on [www.amnhealthcare.com](http://www.amnhealthcare.com/).  
   
 **How to Reach Us**  
   
@@ -25,7 +25,7 @@ USA
   
 Our toll-free telephone number is: (877) 585-5010  
   
-Our e-mail address to contact us about privacy issues is: [privacy@nursezone.com](mailto:privacy@nursezone.com).  
+Our e-mail address to contact us about privacy issues is: [contact@nursezone.com](mailto:contact@nursezone.com).  
   
 **What Information We Know About You and How We Use It**  
   
@@ -35,19 +35,17 @@ Although we may collect certain information from you as discussed below, please 
   
 There are various areas on our site where we either require or permit you to transfer personal information voluntarily. We never divulge such information to third parties without your consent. These areas include:  
   
-_Nurse Registration._ Registering with _NurseZone_ affords you the ability to receive enhanced services and functionality on our site. In order to become a registered member of _NurseZone_ , we require you to provide us with your name, e-mail address, nursing specialty or discipline, and a password reminder. You also will have the option to provide us with your telephone number. This registration is intended for nurses.  
-  
 _E-commerce._ We do not offer merchandise for sale to our users online. However, we have recently developed relationships with a select group of high-quality online stores, and you may shop at these stores by using a link from our site to theirs. You should be aware that such third parties may request and record information about your purchases such as your address and credit card information. We cannot guarantee your privacy on such other Web sites and do not have control over their privacy policies or content. We urge you to review carefully the privacy policy of any such third party provider prior to making a purchase to determine how your personal information will be used. Your correspondence or business dealings with any third party providers, including payment and delivery of goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such providers.  
   
 _Registration for Continuing Education Courses._ We may host continuing education courses for our registered users online. Enrollment for such courses is completely optional and at your discretion. When you register for continuing education courses you will be required to provide billing information exactly as it appears on your credit card statement so that we can process your order including your name, address, telephone number, credit card number and expiration date. The information you provide is used solely for the purpose of consummating your purchase. We may record information about registration for continuing education courses to determine which courses appeal most to members of our group. This statistical information may help us to improve our product offerings.  
   
 In addition, we provide links to third party Web sites that offer continuing education courses on nursing and other health care related topics. Enrollment for such courses is completely optional and at your discretion. You should be aware that such third parties may request and record registration information about you. We cannot guarantee your privacy on such other Web sites and do not have control over their privacy policies or content. We urge you to review carefully the privacy policy of any such third party provider prior to registering for a continuing education course to determine how your personal information will be used. Your correspondence or business dealings with any third party providers, including payment and delivery of goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such providers.  
   
-_Career Center._ In order to use our career placement center, which includes recruitment and placement of nurses, we require that you be registered with our site as described above. In connection with our career center services, we will offer you the opportunity to be contacted by one of our career advisors. Should you choose to be contacted, a career advisor will contact you via your e-mail address or telephone number on record. In addition, our Career Center contains a "Create A Resume" program which enables our registered users to create and print resumes and post them on our site. Our site will enable the user to e-mail the resume only to us at _NurseZone_. We may forward the resume via e-mail or facsimile without the nurse's name, address or other personally identifiable information, to selected health care facilities only upon the prior request or consent of the nurse. In addition, each user who posts a resume on our site will be assigned a unique URL number. Should a user provide the URL number to third parties other than _NurseZone_ , we cannot and do not guarantee your privacy. We urge you not to disclose your URL number to anyone.  
+_Career Center._ In order to use our career placement center, which includes recruitment and placement of nurses, we require that you be registered with our site. We ask you to provide us with your name, e-mail address, nursing specialty or discipline and some other general information. In connection with our career center services, we will offer you the opportunity to be contacted by one of our career advisors. Should you choose to be contacted, a career advisor will contact you via your e-mail address or telephone number on record. In addition, our Career Center contains a "Create A Résumé" program which enables our registered users to create and print résumés and post them on our site. Our site will enable the user to e-mail the résumé only to us at _NurseZone_. We may forward the résumé via e-mail or facsimile without the nurse's name, address or other personally identifiable information, to selected health care facilities only upon the prior request or consent of the nurse. In addition, each user who posts a résumé on our site will be assigned a unique URL number. Should a user provide the URL number to third parties other than _NurseZone_ , we cannot and do not guarantee your privacy. We urge you not to disclose your URL number to anyone.  
   
-_Bulletin Board._ We offer a bulletin board that permits posting opportunities for our registered users. Please see our [Terms of Use](https://web.archive.org/web/20011205103324id_/http%3A//nursezone.com/terms.asp) before using the bulletin board and make sure to post only information that you are comfortable sharing.  
+_Bulletin Board._ We offer a bulletin board that permits posting opportunities for our registered users. Please see our [Terms of Use](https://web.archive.org/web/20020604031144id_/http%3A//nursezone.com/terms.asp) before using the bulletin board and make sure to post only information that you are comfortable sharing.  
   
-_Correspondence._ You will be required to provide your name and e-mail address when you register for our site. We intend to provide nurses with a variety of informative e-mails on topics we believe would be of interest to you. Again, your name and e-mail address are not shared with any third parties. There may be other times when we request or acquire your e-mail address, such as when you send us an e-mail with questions or comments. We will use only your e-mail address to respond to e-mails from you, forward and send your e-mails to and from other registered users and internal _NurseZone_ employees who may be able to respond to you, send information to you concerning your account, and inform you of updates to our Web site. We do not share e-mail addresses or any other personal information about our registered users with advertisers, business partners, sponsors or other third parties except to provide services you have requested.  
+_Correspondence._ You will be required to provide your e-mail address when you register for our weekly e-mail newsletter. The newsletter provides nurses with a variety of information on topics we believe would be of interest to you. Again, your name and e-mail address are not shared with any third parties. There may be other times when we request or acquire your e-mail address, such as when you send us an e-mail with questions or comments. We will use only your e-mail address to respond to e-mails from you, forward and send your e-mails to and from other registered users and internal _NurseZone_ employees who may be able to respond to you, send information to you concerning your account, and inform you of updates to our Web site. We do not share e-mail addresses or any other personal information about our registered users with advertisers, business partners, sponsors or other third parties except to provide services you have requested.  
   
 _Special Contests and Promotions._ _NurseZone_ will occasionally feature a contest/promotion for nurses. In order to enter the contest/promotion, we require you to provide us with your name, phone number and e-mail address so that we can contact you if you win. We also ask for other information that will help us reach nurses with our extensive site offerings. Your information will only be shared with third parties if you request to receive information from the provider parties.  
   
@@ -63,7 +61,7 @@ _Other Information._ _NurseZone_ may require other information for tracking or v
   
 **How to Change Your User Information**  
   
-You may update information related to your account or contact us with questions by sending an e-mail to us at [userinformation@nursezone.com](mailto:userinformation@nursezone.com).  
+You may update information related to your account or contact us with questions by sending an e-mail to us at [contact@nursezone.com](mailto:contact@nursezone.com).  
   
 **When We May Be Forced to Disclose**  
   
@@ -71,7 +69,7 @@ We may disclose user information in special cases when we believe in good faith 
   
 **Opting-Out**  
   
-If at any time you object to our use of your personal information, including use of your e-mail address, you may stop that use by e-mail request to [privacy@nursezone.com](mailto:privacy@nursezone.com).  
+If at any time you object to our use of your personal information, including use of your e-mail address, you may stop that use by e-mail request to [contact@nursezone.com](mailto:contact@nursezone.com).  
   
 **Links to Other Sites**  
   
@@ -81,11 +79,7 @@ Please keep in mind that whenever you give out personal information on other Web
   
 **Security**  
   
-The importance of security for your personally identifiable information collected at our site is a top priority for us. We exercise great care in providing secure transmission of your information from your Internet connection to our servers. Our server is located in a locked room. The facility where the server is maintained has and security patrols. In addition, all of your data is handled only by authorized personnel. Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent secure and we will not be held liable should a third party illegally obtain your personal information. While we have made a great effort to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.  
-  
-To help protect your account, please keep your password secure. We suggest that you pick a non-obvious password and one that mixes numbers and letters. In addition, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or e-mail. Ultimately, you are responsible for maintaining the secrecy of your password and any account information.  
-  
-Should you choose to create and post a resume on our site using our "Create A Resume" tool, you will be provided with a unique URL number. We urge you not to divulge your unique URL number to anyone. Remember to log out of your registered user account and close your browser window whenever you leave your computer. This is to ensure that others cannot access your personal information and correspondence should your computer be accessible to others or used in a shared setting such as a school computer lab, library or Internet cafe.  
+The importance of security is a top priority for us. We exercise great care in providing secure transmission of your information from your Internet connection to our servers. We also take great care to protect user-information off-line. All of your data is handled only by authorized personnel and our database servers have a backup system to prevent loss of data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent secure and we will not be held liable should a third party illegally obtain your personal information. While we have made a great effort to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.  
   
 Our policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond our control, and is not to be applied in any manner contrary to applicable law or governmental regulation.  
   
