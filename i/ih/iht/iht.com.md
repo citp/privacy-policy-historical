@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2002-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021128170210id_/http%3A//www.iht.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622041525id_/http%3A//iht.com/privacy.htm) for the most accurate reproduction.*
 
 # IHT: Privacy
 
@@ -8,7 +8,7 @@
 [Business](https://web.archive.org/business.htm)  
 [Business Asia by Bloomberg](https://web.archive.org/bloomberg.htm)  
 [Arts & Leisure](https://web.archive.org/arts.htm)  
-[Travel](https://web.archive.org/travel.htm)  
+[Travel & Dining](https://web.archive.org/travel.htm)  
 [Technology](https://web.archive.org/technology.htm)  
 [Health & Science](https://web.archive.org/health.htm)  
 [Sports](https://web.archive.org/sports.htm)  
@@ -24,7 +24,7 @@
 [Europe](https://web.archive.org/europe.htm)  
   
 **Publishing Partners**  
-[Ha'aretz, Kathimerini, Italy Daily, F.A.Z. Weekly, JoongAng Ilbo, The Daily Star, El País](https://web.archive.org/global.htm)  
+[Haaretz, Kathimerini, F.A.Z. Weekly, JoongAng Daily, The Daily Star, El País](https://web.archive.org/global.htm)  
 **Services**  
 [Currency Converter](https://web.archive.org/cgi-bin/cgconvert.cgi)  
 [Weather](https://web.archive.org/weather.htm)  
