@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the utdallas.edu privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603142902id_/http%3A//www.utdallas.edu/ir/policies/privacy_web.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utdallas.edu privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208033943id_/http%3A//www.utdallas.edu/privacy.html) for the most accurate reproduction.*
 
-# The University of Texas at Dallas (UTD) respects your privacy
-
-UTD Web Site Privacy Policy 
+# UTD Privacy Policy
 
 The University of Texas at Dallas (UTD) respects your privacy. The University's main web page does not collect personal information about visitors. In particular, we do not use "cookies" to collect information.
 
@@ -12,17 +10,12 @@ We may use server logs to collect information concerning your Internet connectio
 
 Some web pages at UTD may collect personal information about visitors and use that information for purposes other than those stated above. Every UTD web page that collects personal information will use Secure Socket Layer (SSL) protocol. Each web page that collects information will have a separate privacy statement that will tell you how that information is used.
 
-With few exceptions, you are entitled on your request to be informed about the information UTD collects about you. Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information. Under Section 559.004 of the Texas Government Code, you are entitled to have UTD correct information about you that is held by us and that is incorrect, in accordance with the procedures set forth in The University of Texas System Procedures Memorandum 32. The information that UTD collects will be retained and maintained as required by Texas records retention laws (Section 441.180 et seq. of the Texas Government Code) and rules. Different types of information are kept for different periods of time.
+**With few exceptions, you are entitled on your request to be informed about the information UTD collects about you. Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information. Under Section 559.004 of the Texas Government Code, you are entitled to have UTD correct information about you that is held by us and that is incorrect, in accordance with the procedures set forth in The University of Texas System Procedures Memorandum 32. The information that UTD collects will be retained and maintained as required by Texas records retention laws (Section 441.180 et seq. of the Texas Government Code) and rules. Different types of information are kept for different periods of time.**
 
 The "Public Information Officer" of UTD is the Senior Vice President for Business Affairs, Robert Lovitt. He is the designated agent for coordinating responses to requests for public information appropriately submitted to UTD. He can be reached at (972) 883-2213 or by fax at (972) 883-2212.
 
-If you have any questions about this privacy statement, the practices of this site, or your use of this Web site, please contact the Webmaster.
+### Social Security Statement
 
-[BACK](http://www.utdallas.edu/ir/policies/index.html) to Information Resources Policy Guidelines  
-[BACK](http://www.utdallas.edu/) to the University of Texas at Dallas home page  
+Your Social Security Number (SSN) or UTD Identification Number (ID) is being requested because it is a unique ID which is maintained for the purpose of accuracy in tracking information. The disclosure of such information is voluntary. Disclosure of your SSN or UTD ID is governed by the Public Information Act (Chapter 552 of the Texas Government Code).
 
-
-* * *
-
-Last Modified: Wednesday, 19-Dec-2001 16:06:15 CST.   
-Copyright © 2000 [The University of Texas at Dallas](http://www.utdallas.edu/). All rights reserved. 
+[Information Resources Policy Guidelines](https://web.archive.org/web/20041208033943id_/http%3A//www.utdallas.edu/ir/policies/index.html)
