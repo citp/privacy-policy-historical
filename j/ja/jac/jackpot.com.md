@@ -1,11 +1,23 @@
-> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619065232id_/http%3A//www.jackpot.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229224914id_/http%3A//www.jackpot.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Jackpot.com Privacy Policy
 
 |   
 ---  
   
-|  |  [Effective as of January 20, 2004] 
+|  |  **Your California Privacy Rights**
+
+The following applies only to California residents.
+
+Jackpot.com may, from time to time, share your personally identifiable information with unaffiliated third parties for their direct marketing purposes. As a California resident, you have a legal right to request and receive in writing or by email the names and addresses of all such third parties who received your personally identifiable information during the previous calendar year and a list of the types of personally identifiable information disclosed to such third parties. To request such information, send an email to [yourprivacy@jackpot.com](mailto:yourprivacy@jackpot.com) or write to California Privacy Information c/o Jackpot.com, 15260 Ventura Blvd, Suite 2000, Sherman Oaks, CA 91403 or fax to (888)269-3836. We will not honor such request more than once per calendar year.
+
+For more information on how your personally identifiable information is collected and used, please read our Privacy Policy.   
+  
+---|---  
+  
+
+
+|  Effective as of January 1, 2005 
 
 Jackpot.com ("Jackpot.com") makes this Web site (the "Site") available to registered members of the Site ("Members"), subject to this privacy policy (the "Policy") and the Jackpot.com User Agreement ("Member Agreement"). This Policy explains what information Jackpot.com collects about Members on the Site, how Jackpot.com uses this information, and how such information is maintained. By registering and using this Site, you signify your acceptance of this Policy. If you do not agree to the terms of this Policy, in whole or part, you should not use this Site, or if you are a Member, you must immediately terminate your account. 
 
@@ -14,7 +26,7 @@ Note that this Policy applies only with respect to the information collected on 
 ---|---  
   
 |  **Collection of PII**  
-Jackpot.com only collects Member personally identifiable information ("PII") that is volunteered by Members during the registration process or in response to specific information requests explicitly presented to Members. Examples of PII that may be requested include: first and last name, address, email address, and telephone number. In order to allow Jackpot.com to comply with applicable legal reporting requirements, Members who win certain prizes on the Site may be requested to provide their social security number. However, Jackpot.com will otherwise never share this social security information other than as required by law for tax and reporting purposes. From time to time, Jackpot.com may also present opportunities for Members to voluntarily provide a limited amount of general demographic information about themselves, which may include their gender, birth date, marital status, education, occupation, and household income. 
+Jackpot.com only collects Member personally identifiable information ("PII") that is volunteered by Members during the registration process or in response to specific information requests explicitly presented to Members. To register to become a Member, you will be requested to provide the following PII: first and last name, address, email address, telephone number, gender and date of birth. . You will also be asked to provide a password, which you will need to access various features offered on the site. In addition, during registration or at another time, you might be asked to provide other demographic and/or financial information and/or information concerning your physical characteristics. In order to allow Jackpot.com to comply with applicable legal reporting requirements, Members who win certain prizes on the Site may be requested to provide their social security number. However, Jackpot.com will otherwise never share this social security information other than as required by law for tax and reporting purposes. From time to time, Jackpot.com may also present opportunities for Members to voluntarily provide a limited amount of general demographic information about themselves, which may include their gender, birth date, marital status, education, occupation, and household income. 
 
 **Use and Sharing of PII**  
 Jackpot.com reserves the right to use Member PII: (1) for the specific purpose for which such information was provided; (2) as disclosed at the time such information is provided; and (3) as disclosed in this Policy. However, Members should note that Jackpot.com may change this Policy at any time (See "Changes to this Policy," below), and that therefore Jackpot.com may in the future use Member PII for additional purposes not currently included in this Policy. 
@@ -23,7 +35,7 @@ When you register to become a Member of this Site, you are automatically registe
 
 Also, Jackpot.com may share Member PII (except for credit card information and social security number) with its partners, sponsors, advertisers, service providers and marketers lookup and reference services and any other entities that Jackpot.com believes are able to provide Members with special offers and opportunities. Note that although Jackpot.com advises everyone who receives Member PII from Jackpot.com to support this Policy, Jackpot.com has no control over such party's information handling practices and is not responsible for any failure of such party to adhere to this Policy. 
 
-As provided in the Member Agreement, Members are required to provide their PII to Jackpot.com as a condition of Membership, and to understand and agree that Jackpot.com may share their PII with the Network Sites and unaffiliated third parties. If you do not provide the required PII or do not agree that Jackpot.com may share your PII with such entities, you may not register as a Member, and if you are already a Member, you must immediately terminate your account, by following the instructions in the "Terminate Account" section below. 
+As provided in the Member Agreement, Members are required to provide their PII to Jackpot.com as a condition of Membership, and to understand and agree that Jackpot.com may share their PII with the Network Sites and unaffiliated third parties as provided in this Policy. If you do not provide the required PII or do not agree that Jackpot.com may share your PII with such entities as set forth in this Policy, you may not register as a Member, and if you are already a Member, you must immediately terminate your account, by following the instructions in the "Terminate Account" section below. 
 
 Additionally, Jackpot.com may share Member PII in aggregate, non-personal form, with select companies that wish to reach a particular Member target audience (e.g., registered female Members between the ages of 25-35, who have an average household income of over $50,000.00). This information will allow these entities to provide relevant offers to specific Members. 
 
@@ -49,10 +61,13 @@ Jackpot.com may also disclose any of the non-personally identifiable information
   
 ---|---  
   
-|  Jackpot.com may combine information provided by a Member with information obtained from other sources. Enhancing Member files with this other information will allow Jackpot.com to provide Members with more relevant services and promotional offers. For example, a Member's user profile will automatically be updated with any information that user enters on any of the Network Sites, such as Big Prizes or Blink.com. Likewise, any information entered on this Site will be used to update the Member's profile on all of the Network Sites.   
+|  Jackpot.com may employ other companies and individuals to perform services on its behalf and on behalf of the Network Sites, such as (1) administering sweepstakes, contests and other promotions, (2) sending emails, (3) providing marketing assistance, and (4) database management and analysis. Such companies and individuals will have access to Member PII only to the extent necessary to perform their services, but will not be permitted to use it for any other purpose.   
 ---|---  
   
-|  When you register to become a Member of the Site, you will automatically be registered to receive promotional offers and site updates, via emails, from Jackpot.com (this includes Lotto Results Emails, FastCash emails, and dedicated Jackpot.com emails) and from the Network Sites and other associated email brands. 
+|  Jackpot.com may combine information provided by a Member with information obtained from other sources. Enhancing Member files with this other information will allow Jackpot.com to provide Members with more relevant services and promotional offers. For example, a Member's user profile will automatically be updated with any information that user enters on any of the Network Sites. Likewise, any information entered on this Site will be used to update the Member's profile on all of the Network Sites.   
+---|---  
+  
+|  When you register to become a Member of the Site, you will automatically be registered to receive promotional offers and site updates, via emails, from Jackpot.com and from the Network Sites and other associated email brands. 
 
 Additionally, when you register to become a Member on the Site, you will be provided with the opportunity to receive promotional offers, via emails, from partners of Jackpot.com. While some of these opportunities will only be sent to you if you expressly request them, others may be sent to you unless you elect not to receive them. Accordingly, when you register, please review these offers carefully. 
 
@@ -62,7 +77,7 @@ _Note that unsubscribing from one email list does not automatically unsubscribe 
   
 ---|---  
   
-|  If you want to review, correct or change your Member account information, please go to the [Help](https://web.archive.org/help/) section of the Site, and follow the appropriate instructions.   
+|  If you want to review, correct or change your profile details (such as your address, email address or telephone numbers), please go to the [Help](https://web.archive.org/help/) section of the Site, and follow the appropriate instructions.   
 ---|---  
   
 |  Certain activities and services available on the Site are provided by entities not affiliated with Jackpot.com. For example, if you choose to purchase a product or service from the Site or play a game presented by a partner of Jackpot.com, the information you provide on the Site in connection with such purchase or game may be made available to that other party to satisfy that purpose. Although Jackpot.com advises all of its partners to support this Policy, Jackpot.com has no control over their information handling practices and is not responsible for any failure of such partners to adhere to this Policy.   
@@ -86,13 +101,13 @@ _Note that unsubscribing from one email list does not automatically unsubscribe 
 |  In its sole discretion, Jackpot.com may transfer, sell or assign information collected on and through this Site, including without limitation, PII and other Member-provided information, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of Jackpot.com.   
 ---|---  
   
-|  If you wish to update your email subscription or change any of your profile details you must navigate to your profile page that you can access through the help section of the site. Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Jackpot.com. Accounts may be terminated by visiting the [Help](https://web.archive.org/help/) section of the Site and following the applicable instructions, or by emailing Jackpot.com customer service at [customerservice@jackpot.com](mailto:customerservice@jackpot.com). All inquiries concerning the use of Member PII by a third party must be communicated to that third party, and not to Jackpot.com.   
+|  If you wish to update your email subscription or change any of your profile details (such as your address, email address or telephone number) you must navigate to your profile page that you can access through the help section of the Site. Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Jackpot.com. Accounts may be terminated by visiting the [Help](https://web.archive.org/help/) section of the Site and following the applicable instructions, or by emailing Jackpot.com customer service at [customerservice@jackpot.com](mailto:customerservice@jackpot.com). All inquiries concerning the use of Member PII by a third party who has received such Member PII as provided in this Policy must be communicated to that third party, and not to Jackpot.com.   
 ---|---  
   
 |  Jackpot.com may, from time to time, amend this Policy, in whole or part, in its sole discretion. Depending on the nature of the change, Jackpot.com will either announce the change (1) on the home page of the Site, or (2) provide such notice via e-mail to Members. By continuing to use the Site following an announcement of any changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, you must terminate your account by visiting the [Help](https://web.archive.org/help/) section of the Site and following the appropriate instructions. 
 
 Presented by:  
-Jackpot.com, Inc.  
+Jackpot.com  
 15260 Ventura Blvd, Suite 2000  
 Sherman Oaks, CA 91403  
 [customerservice@jackpot.com](mailto:customerservice@jackpot.com)  
