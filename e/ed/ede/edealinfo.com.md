@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605190459id_/http%3A//www.edealinfo.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204123348id_/http%3A//edealinfo.com/privacy.shtml) for the most accurate reproduction.*
 
 # eDealinfo.com Privacy Policy
 
-[](https://web.archive.org/) |   
+[](https://web.archive.org/) |  [](https://web.archive.org/cgi-bin/lsredir.cgi?id=CPqWkHwkNyo&offerid=50582.10000086&subid=0&type=4)  
 ---|---  
   
 eDealinfo.com is committed to the security and privacy of our visitors.
