@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calibex.com privacy policy that was archived on 2003-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030719163906id_/http%3A//calibex.com/serv/calibex1/buyer/help/calibexPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calibex.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626060250id_/http%3A//calibex.com/serv/calibex1/buyer/help/calibexPrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Calibex Privacy Policy
 
