@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616161520id_/http%3A//www.poise.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603174848id_/http%3A//www.poise.com/privacy.asp) for the most accurate reproduction.*
 
 # The Depend Poise Legal Statement
 
@@ -24,9 +24,34 @@ Like many companies, we sometimes use "cookie" technology on our web site. These
 
 **Contact Us**
 
-If you have any questions about our Privacy Policy, you can contact us via [e-mail](http://www.kimberly-clark.com/ask/depend/index.asp?site=www.depend.com) or phone us at 1-800-665-9773. For postal mail, please write to us at:
+If you have any questions about our Privacy Policy, you can contact us via [e-mail](http://www.kimberly-clark.com/ask/poise/index.asp?site=www.poise.com) or phone us at 1-800-665-9773. For postal mail, please write to us at:
 
     Kimberly-Clark Corporation  
     P.O. Box 2020   
     Neenah, WI 54957-2020  
 
+
+  
+  
+Visit our [Registration Update Center](http://www.kimberly-clark.com/registration_update/index.asp?SiteCode=POS) to see your registration   
+information or sign up with other K-C brands.  
+---  
+  
+**
+
+[Home](https://web.archive.org/ "Home")  |  [Search](https://web.archive.org/search/ "Search")  |  [Site Map](https://web.archive.org/sitemap/ "Site Map")  |  [Buy Online](https://web.archive.org/online_store/consumer/ "Buy Online")  |  [Talk to Poise®](http://www.kimberly-clark.com/ask/poise/index.asp?site=www.poise.com&ssl=true "Talk to Poise")  |  [Join Poise® Connections](https://web.archive.org/consumer_survey/ "Join Poise Connections")
+
+**  
+   
+[**Kimberly-Clark On-line Retailer Connection**](http://www.kimberly-clark.com/storefinder/retailer/)  
+   
+[](http://www.kimberly-clark.com/)  
+  
+For more information about other great Kimberly-Clark brands,  
+visit our [ Kimberly-Clark Corporation website](http://www.kimberly-clark.com/).
+
+All names, logos and trademarks are the property of Kimberly-Clark Worldwide, Inc. or its affiliates.  
+© 1997 - 2002 KCWW.  
+®Registered Trademark and ™ Trademark of Kimberly-Clark Worldwide, Inc., Neenah, WI 54956  
+All Rights Reserved. Your visit to this site and use of the information hereon is subject to the terms of our [Legal Statement](https://web.archive.org/legal.asp).   
+Please review our [ Privacy Policy](https://web.archive.org/privacy.asp). 
