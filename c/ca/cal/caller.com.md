@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203225441id_/http%3A//www.caller.com/ccct/home/article/1%2C1641%2CCCCT_800_872022%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602183109id_/http%3A//www.caller.com/ccct/home/article/1%2C1641%2CCCCT_800_872022%2C00.html) for the most accurate reproduction.*
 
 # Corpus Christi Coastal Bend South Texas news, information, events calendar
 
@@ -7,7 +7,7 @@ Privacy Policy
 
  **November 8, 2001**
 
-Caller Times New Media is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Caller.com we intend to give you as much control as possible over your personal information. 
+Corpus Christi Caller-Times is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Caller.com we intend to give you as much control as possible over your personal information. 
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
