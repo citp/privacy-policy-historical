@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webposition.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603033723id_/http%3A//www.webposition.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webposition.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218002324id_/http%3A//www.webposition.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ All data collected on our secure product order forms will be encrypted for your 
 
 ### Change/Modify
 
-"If at anytime you wish to review, change or update any personal information provided to us, simply e-mail [help@webposition.com](mailto:help@webposition.com). To better protect the security and integrity of your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
+If at anytime you wish to review, change or update any personal information provided to us, simply e-mail [help@webposition.com](mailto:help@webposition.com). To better protect the security and integrity of your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
 
 ### Cookies
 
