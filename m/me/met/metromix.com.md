@@ -1,7 +1,30 @@
-> *The following text is extracted and transformed from the metromix.com privacy policy that was archived on 2002-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021127155604id_/http%3A//metromix.com/top/1%2C1419%2CM-Metromix-Home-X%21ArticleDetail-10809%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metromix.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416004900id_/http%3A//metromix.com/top/1%2C1419%2CM-Metromix-Home-X%21ArticleDetail-10809%2C00.html) for the most accurate reproduction.*
 
 # Metromix | A Chicago entertainment and restaurant guide - Privacy Policy
 
+|   
+
+
+**CHANNELS**  
+[Home](https://web.archive.org/top/1,1419,M-Metromix-Home-X!Front,00.html)  
+[Events](https://web.archive.org/top/1,1419,M-Metromix-Events-X!BestBets,00.html)  
+[Dining](https://web.archive.org/top/1,1419,M-Metromix-Dining-X!Front,00.html)  
+[Bars & clubs](https://web.archive.org/top/1,1419,M-Metromix-Bars-X!Front,00.html)  
+[Music](https://web.archive.org/top/1,1419,M-Metromix-Music-X!Front,00.html)  
+[Movies](http://alliance.zap2it.com/custom/metromix/main_template)  
+[Dating](https://web.archive.org/top/1,1419,M-Metromix-Dating-X!Front,00.html)  
+[Stage](https://web.archive.org/top/1,1419,M-Metromix-Stage-X!Front,00.html)  
+[Museums & attractions](https://web.archive.org/top/1,1419,M-Metromix-Museums-X!Front,00.html)  
+[Recreation](https://web.archive.org/top/1,1419,M-Metromix-Recreation-X!Front,00.html)  
+[Television](https://web.archive.org/top/1,1419,M-Metromix-Television-X!Front,00.html)  
+[Celebrity news](https://web.archive.org/top/1,1419,M-Metromix-Celebrity-X!Front,00.html)  
+[Visiting Chicago](https://web.archive.org/top/1,1419,M-Metromix-Visiting-X!Front,00.html)  
+[metromix: the tv show](https://web.archive.org/top/1,1419,M-Metromix-MetromixTV-X!Front,00.html)  
+[Critics' reviews](https://web.archive.org/top/1,1419,M-Metromix-CriticsReviews-X!Front,00.html)  
+[Reader reviews](https://web.archive.org/top/1,1419,M-Metromix-ReaderReviews-X!Front,00.html)  
+[Message board](http://forums.prospero.com/ti-metromix) |  |  |   
+---|---  
+  
 |    
 **Privacy Policy**
 
@@ -59,8 +82,32 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 ****Last updated: January 2002** ******
 
-|  |  |  |  |  **find an event**  
+|  |  |  |   
+---|---|---|---|---|---  
+  
+* * *
+
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=35197&AdID=68230&Custom=redeye&TargetID=5459&Segments=165,237,253,408,527,530,673,692,705,755,830,1242,1553,1600,1652,1708,1929,1997,2167,2185,2409,2436,2819,3025,3391,3469,3539,3753,3772,3907,3909,3954,4654,4709&Targets=5419,510,7150,772,1890,5459,6576,2812,5754&Values=34,46,51,63,77,82,92,100,110,120,140,150,309,328,333,388,433,448,591,836,903,1016,1065,1212,1263,1606,1617,1648,1654,1656,1732,1754,1758,1787,1818,1835,1836&RawValues=&Redirect=http://www.redeyechicago.com)
+
+* * *
+
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=39886&AdID=70566&TargetID=1890&Segments=165,237,253,408,530,673,692,704,755,830,1242,1553,1600,1652,1708,1929,1997,2167,2185,2409,2436,2819,3025,3391,3469,3539,3753,3772,3907,3909,3954,4654,4697,4709&Targets=5419,510,7150,772,1890,5459,6576,2812,5754,7121&Values=34,46,51,63,77,82,92,100,110,120,140,150,309,328,334,388,433,448,591,836,903,1016,1065,1212,1263,1606,1617,1648,1654,1656,1732,1754,1758,1787,1818,1835,1836&RawValues=&Redirect=http:%2F%2Fwww.funjet.com%2Fpartners%2Findex.asp%3Freferrer%3DJ33) [ ](http://adserver.trb.com/event.ng/Type=click&FlightID=39886&AdID=70566&TargetID=1890&Segments=165,237,253,408,530,673,692,704,755,830,1242,1553,1600,1652,1708,1929,1997,2167,2185,2409,2436,2819,3025,3391,3469,3539,3753,3772,3907,3909,3954,4654,4697,4709&Targets=5419,510,7150,772,1890,5459,6576,2812,5754,7121&Values=34,46,51,63,77,82,92,100,110,120,140,150,309,328,334,388,433,448,591,836,903,1016,1065,1212,1263,1606,1617,1648,1654,1656,1732,1754,1758,1787,1818,1835,1836&RawValues=&Redirect=http:%2F%2Fwww.funjet.com%2Fpartners%2Findex.asp%3Freferrer%3DJ33)
+
+* * *
+
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=31171&AdID=53239&Custom=liquidseats&TargetID=5419&Segments=165,237,253,408,530,673,692,755,830,1242,1553,1600,1652,1708,1929,1997,2167,2185,2409,2436,2819,3025,3173,3391,3469,3539,3753,3772,3907,3909,3954,4654,4697,4709&Targets=5419,510,7150,772,1890,5459,6576,2812,5754,7121&Values=34,46,51,63,77,82,92,100,110,120,140,150,309,328,335,388,433,448,591,836,903,1016,1065,1212,1263,1606,1617,1648,1654,1656,1732,1754,1758,1787,1818,1835,1836&RawValues=&Redirect=http://chicago.stubhub.com)
+
+* * *
+
+* * *
+
+|  [](http://chicagotribune.com/classified/jobs/)  
 ---  
-**find a place**  
-metromix.com movie and television channel listings  
-[](http://www.zap2it.com/)
+  
+* * *
+
+**Apartments.com**  
+[Search](http://chicagotribune.com/classified/realestate/renting/) the largest apartment database in Chicagoland  
+  
+  
+_[Advertising information](http://tribuneinteractive.com/chicago/mediakit/)_
