@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207081106id_/http%3A//www.ipswitch.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610082315id_/http%3A//www.ipswitch.com/company/privacy.html) for the most accurate reproduction.*
 
 # Ipswitch - Privacy Policy
 
@@ -18,7 +18,7 @@ Ipswitch is committed to protecting your privacy. The following discloses our in
 
 When you place an order, download an evaluation, join a discussion list, subscribe to a newsletter, or contact us for support (technical or customer), we ask for your contact or billing information which is used for internal operations and/or to provide you with updated information on our products.
 
-  * When you download an evaluation, we may forward your contact information to a registered Ipswitch value-added reseller who may contact you. Other than for this purpose, we do not sell, trade, or rent your personal information to others.
+  * When you download an evaluation or a white paper, we may forward your contact information to a registered Ipswitch value-added reseller who may contact you. Other than for this purpose, we do not sell, trade, or rent your personal information to others.
   * If you contact us for technical support, we may invite you afterwards to let us know how we're doing by participating in an online survey.
   * Users may opt-out of receiving future mailings; see the opt-out section below. 
 
@@ -44,7 +44,7 @@ During ordering, Ipswitch uses VeriSign Digital Certificates for SSL Encryption.
 
 **HOW DOES IPSWITCH USE MY E-MAIL ADDRESS AND CAN IOPT-OUT OF RECEIVING IPSWITCH E-MAIL MESSAGES?**
 
-_Downloading an evaluation:_ We ask for your e-mail address before downloading a free product evaluation. If at anytime you decide that you do not want to receive further messages from us, each e-mail will include a link to our [unsubscribe page](https://web.archive.org/unsubscribe.asp). Your contact information may be forwarded to an authorized Ipswitch reseller in your area, in which case you may need to follow-up with them. Unsubscribing will not interrupt any ongoing conversations you may be having with Ipswitch.
+_Downloading an evaluation or white paper:_ We ask for your e-mail address before downloading a free product evaluation. If at anytime you decide that you do not want to receive further messages from us, each e-mail will include a link to our [unsubscribe page](https://web.archive.org/remove.asp). Your contact information may be forwarded to an authorized Ipswitch reseller in your area, in which case you may need to follow-up with them. Unsubscribing will not interrupt any ongoing conversations you may be having with Ipswitch.
 
 _Contacting us for technical or customer support:_ Your e-mail address will be used to respond to your query. In some cases, we may invite you to participate in an online survey to let us know how we are doing.
 
