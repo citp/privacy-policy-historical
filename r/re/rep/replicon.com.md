@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024021605id_/http%3A//replicon.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021449id_/http%3A//replicon.com/aboutreplicon/privacystatement.asp) for the most accurate reproduction.*
 
-# Web TimeSheet - Web-based timesheet time tracking
+# Replicon - About Replicon
+
+Privacy Policy statement
 
 Replicon Inc. is committed to honoring the privacy of our customers and visitors. As a result we adhere to strict privacy protection guidelines ensuring your personal information is kept confidential. We do not share or solicit the information captured in any way. We respect your identity and keep it private. You will not be subject to intrusive marketing. 
 
