@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncorp.com.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604041527id_/http%3A//www.suncorp.com.au/suncorp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncorp.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208193302id_/http%3A//suncorp.com.au/suncorp/privacy.html) for the most accurate reproduction.*
 
 # Suncorp - Privacy and Security
 
@@ -22,7 +22,6 @@
   18. Concerns or requests for access?
   19. Can I complain about a breach of my privacy?
   20. What if I am not satisfied with Suncorp's response?
-  21. False Bank Website Alerts
 
 
 
@@ -281,17 +280,3 @@ GPO Box 5218
 Sydney, NSW 1042
 
 
-
-## False Bank Website Alerts
-
-Some financial institutions have recently reported that a number of customers have received emails directing them to false bank websites or seeking sensitive account information.
-
-Please note that Suncorp would not send you an email requesting this type of information.
-
-Therefore, if you receive an email asking for sensitive account information or directing you to another site for Internet Banking, please disregard it and contact us immediately on 13 11 55.
-
-Suncorp Internet Banking is a secure site. The best way to ensure that you bank safely, is to always log onto the Suncorp website via [www.suncorp.com.au](https://web.archive.org/suncorp/index.html) and to ensure that your access passwords are kept secure and confidential.
-
-For further information, please read the ‘Security and Privacy Information’ situated on the main Internet Banking sign-on page.
-
-Please contact our Call Centre on 13 11 55 if you have any security concerns - when prompted by our speech recognition system please ask for Internet Banking. 
