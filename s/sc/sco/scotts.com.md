@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216210354id_/http%3A//scotts.com/index.cfm%3FpoeSiteId%3D10926%26partnerId%3D99999%26fuseaction%3Dglobal.privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605121220id_/http%3A//www1.scotts.com/index.cfm%3FpoeSiteId%3D10926%26partnerId%3D99999%26fuseaction%3Dglobal.privacyPolicy) for the most accurate reproduction.*
 
-# Scotts - Privacy Policy
+# Scotts: Privacy Policy
 
 **The Scotts Company Online Privacy Policy**
 
