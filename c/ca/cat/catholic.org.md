@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615074950id_/http%3A//www.catholic.org/prvnotice.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2004-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041221160258id_/http%3A//www.catholic.org/prvnotice.shtml) for the most accurate reproduction.*
 
 # Catholic Online - Privacy Notice
 
