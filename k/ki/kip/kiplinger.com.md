@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605051840id_/http%3A//www.kiplinger.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217204203id_/http%3A//www.kiplinger.com/about) for the most accurate reproduction.*
 
 # Kiplinger.com: Investing
 
