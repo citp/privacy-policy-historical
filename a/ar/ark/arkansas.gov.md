@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606175300id_/http%3A//www.arkansas.gov/access.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609153221id_/http%3A//www.arkansas.gov/access.html%23Privacy) for the most accurate reproduction.*
 
 # Access Information
 
@@ -43,7 +43,7 @@ Act 1227 of 1999 required the Arkansas Department of Information Systems to deve
 
 In essence, this means that Arkansas Government or state funded entities must have websites that are equally accessible to blind or visually impaired visitors.  For instance, websites must provided text equivalents for all non-text elements such as images, animation, audio and video.  We will make every effort to comply with these new guidelines on the State of Arkansas website.  If you have trouble accessing or navigating state government pages, please contact info@ark.org.
 
-For more information about IT policies and standards in Arkansas, link to the State of Arkansas Strategic Information Technology Plan.  For the specific information regarding web development and accessibility issues, link to W3C Web Content Guidelines or the Center for Applied Special Technology (CAST).  
+For more information about IT policies and standards in Arkansas, link to the State of Arkansas Strategic [ Information Technology Plan](http://www.oit.state.ar.us/ITPlan/default.asp).  For the specific information regarding web development and accessibility issues, link to [ W3C Web Content Guidelines](http://www.w3c.org/) or the [ Center for Applied Special Technology](http://www.cast.org/) (CAST).  
   
 Information which can be identified or associated with a particular person or persons that is available from government web sites through the Information Network of Arkansas is subject to these principles and policies:  
   
@@ -58,4 +58,5 @@ Information which can be identified or associated with a particular person or pe
 | The IP (Internet Protocol) numbers of computers used to visit [network] sites are noted as part of our statistical analysis on use of our web sites and how to better design services and facilitate access to them. No marketing databases are created nor is any commercial use made of any such data. Government agencies may request personally identifiable information from you in order to provide requested services, but such information is handled as it would be on an in-person visit to a government office.  
 |   
 | Various commercial Web sites may be linked through the network. These private sector sites are not subject to the Arkansas Freedom of Information Act. Visitors to those sites may wish to check their privacy statements and be cautious about providing personally identifiable information.  
+Security is the most important portion of customer service for any business or government entity conducting commerce on the Internet today. We take this issue very seriously. The Information Network of Arkansas (INA) utilizes Secured Socket Layer (SSL) protocol for Internet transaction security. This SSL protocol allows INA to deliver server authentication, data encryption and message integrity. Every step of the process, from the initial submission of data to the final settlement through the use of credit cards, has been built with the most advanced yet user-friendly security features available.  
 Any additional questions, concerns or statements regarding confidentiality and data usage may be directed to the Information Network of Arkansas at [Info@ark.org](mailto:Info@ark.org).
