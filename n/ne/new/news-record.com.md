@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-record.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207070813id_/http%3A//www.news-record.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-record.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608211243id_/http%3A//www.news-record.com/privacy.htm) for the most accurate reproduction.*
 
 # News-Record.com Privacy Policy
 
@@ -35,12 +35,12 @@ The News & Record may occasionally use online surveys to ask visitors for feedba
 The Children's Online Privacy Protection Act (COPPA) stipulates that the web site operators cannot knowingly collect information from children under age 13 without verifiable parental permission. The News & Record respects the privacy of children, and does not seek children's participation in services that require registration. We strongly recommend that parents supervise their children's use of the Internet. We also encourage parents to instruct their children not to give out personal information in email messages or forums. 
 
 **Opt Out Procedures**   
-From time to time, we may send you information about various products and services. If you do not want to receive this information, you can opt out by using the "unsubscribe" feature in an email reply to us, or [click here](http://www.news-record.com/company/email.htm) to submit your request via our online form. Alternatively, you may send your unsubscribe request via email to [feedback@thedepot.com](mailto:feedback@thedepot.com). 
+From time to time, we may send you information about various products and services. If you do not want to receive this information, you can opt out by using the "unsubscribe" feature in an email reply to us, or [click here](http://www.news-record.com/communicate/feedback.shtml) to submit your request via our online form. Alternatively, you may send your unsubscribe request via email to [privacy@news-record.com](mailto:privacy@news-record.com). 
 
-We may also send you information from other companies that offer products and services that we believe you may enjoy. If you do not want to receive these messages from other companies, you can opt out by using the "unsubscribe" feature in an email reply to us, or [click here](http://www.news-record.com/company/email.htm) to submit your request via our online form. Alternatively, you may send your unsubscribe request via email to [feedback@thedepot.com](mailto:feedback@thedepot.com). 
+We may also send you information from other companies that offer products and services that we believe you may enjoy. If you do not want to receive these messages from other companies, you can opt out by using the "unsubscribe" feature in an email reply to us, or [click here](http://www.news-record.com/communicate/feedback.shtml) to submit your request via our online form. Alternatively, you may send your unsubscribe request via email to [privacy@news-record.com](mailto:privacy@news-record.com). 
 
 **Correcting and Updating Your Private Information**   
-The information that you provide to the News & Record may be stored by us for an indefinite time. However, please feel free to request a change or deletion of this information at any time by sending an e-mail to [feedback@thedepot.com](mailto:feedback@thedepot.com). 
+The information that you provide to the News & Record may be stored by us for an indefinite time. However, please feel free to request a change or deletion of this information at any time by sending an e-mail to [privacy@news-record.com](mailto:privacy@news-record.com). 
 
 **Usage Tracking**  
 We do track usage patterns on our web sites in order to break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). However, we do not match this information with a specific user or his or her personally identifiable information. 
@@ -62,6 +62,6 @@ The News & Record is a member of the Direct Marketing Association (DMA) and we o
 
 **How to Contact Us**   
 For any questions or comments regarding our privacy policy, you may contact us:  
-by email: [feedback@thedepot.com](mailto:feedback@thedepot.com)   
+by email: [privacy@news-record.com](mailto:privacy@news-record.com)   
 by phone: (336) 373-7000 or (800) 553-6880   
-by mail: News & Record The Depot PO Box 20848 Greensboro, NC 27420-0848 
+by mail: News & Record Interactive, PO Box 20848, Greensboro, NC 27420-0848 
