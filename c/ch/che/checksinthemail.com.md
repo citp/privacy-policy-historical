@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checksinthemail.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619082315id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksinthemail.com privacy policy that was archived on 2004-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040705055603id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
 
 # Checks In The Mail, Personal Bank Checks, Bill Payment Supplies
 
