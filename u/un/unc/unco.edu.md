@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unco.edu privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605093703id_/http%3A//www.unco.edu/univaff/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unco.edu privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210094016id_/http%3A//www.unco.edu/generalcounsel/privacy.htm) for the most accurate reproduction.*
 
 # Internet Privacy Policy at the University of Northern Colorado
 
