@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606203857id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216030125id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.*
 
 # The Jerusalem Post Newspaper : Online News From Israel
 
