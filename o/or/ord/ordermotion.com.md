@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602221721id_/http%3A//ordermotion.com/%3Fp%3DCorporate/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204181953id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/PrivacyStatement) for the most accurate reproduction.*
 
 # OrderMotion | A Singular Solution for Multi-Channel Commerce
 
   
-[Home](https://web.archive.org/web/20040602221721id_/http%3A//ordermotion.com/%3Fp%3DCorporate/index.asp) > [Company Information](https://web.archive.org/web/20040602221721id_/http%3A//ordermotion.com/%3Fp%3DCorporate/PrivacyStatement?p=Corporate)Privacy Statement
+[Home](https://web.archive.org/web/20041204181953id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/index.asp) > [Company Information](https://web.archive.org/web/20041204181953id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/PrivacyStatement?p=Corporate)Privacy Statement
 
 The web site you have entered, [www.OrderMotion.com](http://www.ordermotion.com/), is operated by or on behalf of OrderMotion, A CommercialWare Company. 
 
@@ -53,4 +53,4 @@ OrderMotion reserves the right to change or remove this Privacy Policy at our di
 
 **Who to Contact  
 **   
-Please write to us at [privacy.policy@ordermotion.com](mailto:privacy.policy@ordermotion.com) or at OrderMotion Consumer Services, 251 W 30th St, NY 10001 or call us at (212) 279 6500 if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases. 
+Please write to us at [corporate@ordermotion.com](mailto:corporate@ordermotion.com) or at OrderMotion Consumer Services, 251 W 30th St, NY 10001 or call us at (212) 279 6500 if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases. 
