@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2003-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030418122508id_/http%3A//www.carnegielearning.com//privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2003-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030820205905id_/http%3A//www.carnegielearning.com/privacy) for the most accurate reproduction.*
 
 # Educational Software Solutions for Math
 
@@ -100,11 +100,11 @@ If you have questions about this Privacy Policy or anything else about Carnegie 
 
   
 [ [Home](http://www.carnegielearning.com/) ] [ [Customer Support](http://www.carnegielearning.com//company/contact) ] [ [Employment](http://www.carnegielearning.com//company/employment) ] [ [FAQ](http://www.carnegielearning.com//faq) ] [ [K-12 Teacher Community](http://www.carnegielearning.com//resources/community) ]  
-[ [ Curricula](http://www.carnegielearning.com//curricula) ] [ [Services](http://www.carnegielearning.com//services) ] [ [Resources](http://www.carnegielearning.com//resources) ] [ [ Results](http://www.carnegielearning.com//results) ] [ [Company](http://www.carnegielearning.com//company) ]  
+[ [ Curricula](http://www.carnegielearning.com//curricula) ] [ [Training](http://www.carnegielearning.com//services) ] [ [Support](http://www.carnegielearning.com//resources) ] [ [ Results](http://www.carnegielearning.com//results) ] [ [Company](http://www.carnegielearning.com//company) ]  
 Carnegie Learning, Inc. - 1200 Penn Avenue - Suite 150 - Pittsburgh, PA 15222   
 Phone: 412.690.MATH (6284) - **Toll Free: 888.851.7094** \- Fax: 412.690.2444  
 © Copyright 2002, Carnegie Learning, Inc. All rights reserved.   
-Carnegie Learning, Cognitive Tutor, SchoolCare and Learning by Doing are all registered marks of Carnegie Learning, Inc.   
+Carnegie Learning, Cognitive Tutor, SchoolCare, Teacher Corps and Learning by Doing are all registered marks of Carnegie Learning, Inc.   
 All other company and product names mentioned are used for identification purposes only and may be trademarks of their respective owners. This product or portions thereof is manufactured under license from Carnegie Mellon University.   
 Click for our [Terms Of Use](http://www.carnegielearning.com//termsofuse) and [Privacy Statements](http://www.carnegielearning.com//privacy)   
 [Contact Webmaster](mailto:webmaster@carnegielearning.com)   
