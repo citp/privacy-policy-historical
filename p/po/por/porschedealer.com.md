@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605135728id_/http%3A//www.us.porsche.com/english/usa/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010181654id_/http%3A//www.us.porsche.com/english/usa/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - North America - Porsche Cars North America Inc.
 
