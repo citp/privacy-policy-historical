@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210052724id_/http%3A//www.satmetrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622011755id_/http%3A//www.satmetrix.com/privacy.html) for the most accurate reproduction.*
 
-# Customer Satisfaction and Business Loyalty Overview - Satmetrix
+# Satmetrix Systems' Press Release
 
-This Privacy Statement explains the data practices of Satmetrix Systems, Inc. ("Satmetrix" or "Us"). Part I __describes our data practices with respect to Personal Data (as defined below) that Satmetrix processes on behalf of its clients; andPart II __describes our data practices with respect to information we collect about our business contacts and other visitors to the Satmetrix website. The general provisions inPart III __apply to our data practices in both Part I and Part II.
+This Privacy Statement explains the data practices of Satmetrix Systems, Inc. ("Satmetrix" or "Us"). Part I describes our data practices with respect to Personal Data (as defined below) that Satmetrix processes on behalf of its clients; and Part II describes our data practices with respect to information we collect about our business contacts and other visitors to the Satmetrix website. The general provisions in Part III apply to our data practices in both Part I and Part II.
 
 [](https://www.truste.org/validate/13570)Satmetrix is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Satmetrix has agreed to disclose its information practices in this Privacy Statement and have its privacy practices reviewed for compliance by TRUSTe.
 
