@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the partnersfcu.org privacy policy that was archived on 2004-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040205170120id_/http%3A//www.partnersfcu.org/privacypolicyreg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnersfcu.org privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209203225id_/http%3A//www.partnersfcu.org/documents/privacypolicyreg.asp) for the most accurate reproduction.*
 
 # Partners Federal Credit Union www.partnersfcu.org Privacy Policy Page
 
-Partners Federal Credit Union (also known as "Partners") is committed to safeguarding and protecting the confidentiality of both financial and personal information. In this disclosure, we will explain the information we gather, how we safeguard the information, and how we use it. **Security Procedures**  
-We restrict access to non-public personal information about you to those employees who need to know that information to provide products and services to you. We maintain physical, electronic, and procedural safeguards that comply with the law to guard your non-public personal information. **Information Collected by Partners**  
-The Credit Union collects non-public personal information about you from the following sources: 
+[ [Home](https://web.archive.org/index.html) > Privacy Policy ]
+
+Partners Federal Credit Union (also known as "Partners") is committed to safeguarding and protecting the confidentiality of both financial and personal information. In this disclosure, we will explain the information we gather, how we safeguard the information, and how we use it.
+
+## Security Procedures
+
+We restrict access to non-public personal information about you to those employees who need to know that information to provide products and services to you. We maintain physical, electronic, and procedural safeguards that comply with the law to guard your non-public personal information.
+
+## Information Collected by Partners
+
+The Credit Union collects non-public personal information about you from the following sources:
 
   * Information, such as your name, address, e-mail address, birth date, income, social security number, we receive from you on applications or other forms;
   * Information, such as your account balances, credit card usage, payment history or parties to the transaction, about your transactions with us, our affiliates, and others;
@@ -14,8 +22,14 @@ The Credit Union collects non-public personal information about you from the fol
 
 
 
-**Information Shared with Third Parties**  
+## Information Shared with Third Parties
+
 We do not disclose any non-public personal information about our members and former members to anyone, except as permitted by law.
 
-**Former Members**  
+## Former Members
+
 If you decide to terminate your membership or become an inactive member, we will adhere to the privacy policies and practices as described in this notice.
+
+A printable version of our [Partners Privacy Policy](https://web.archive.org/documents/privacypolicy.pdf) in Adobe Acrobat PDF format is available. If you do not have a copy of the Adobe Acrobat Reader, you can download it free from the [Adobe Acrobat Reader Page](https://web.archive.org/link.asp?extlink=http://www.adobe.com/products/acrobat/readstep2.html) on Adobe's website.
+
+Page last updated: April 15, 2004   614
