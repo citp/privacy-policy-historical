@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205103834id_/http%3A//www.beliefnet.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602201548id_/http%3A//beliefnet.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Beliefnet.com
 
 | 
 
-Last Revised: July 12, 2002 
+Last Revised: January 15, 2003 
 
 **An Overview**   
 Beliefnet, Inc. ("Beliefnet," "we" or "us") provides a variety of online services and products to its users on the website currently located at www.beliefnet.com and its e-mail newsletters (collectively known as (the "Site"). Beliefnet is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for our users. 
 
 **The purpose of this Beliefnet privacy policy (the "Policy") is to help you understand what kinds of information we may gather about you when you visit the Site, how we may use that information, whether we will disclose it, and how you can correct the information. Please note that by using the Site, you signify your agreement with this Policy. If you do not agree to the terms of this Policy, please do not use the Site. Your continued use of the Site after any changes to the Policy will mean that you have accepted the changes; therefore please bookmark this page and review it frequently. If we decide to change the Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it.**
 
-Please note that the Policy applies only to the Site, and not to other websites to which we link, or to advertisers on the Site. Your use of the Site is governed by Beliefnet's [Terms of Service](https://web.archive.org/about/terms.asp) and by other published rules pertaining to particular products and services offered throughout the Site. 
+Please note that the Policy applies only to the Site and our Newsletters, and not to other websites to which we link, or to advertisers on the Site. Your use of the Site is governed by Beliefnet's [Terms of Service](https://web.archive.org/about/terms.asp) and by other published rules pertaining to particular products and services offered throughout the Site. 
 
 * * *
 
@@ -67,7 +67,7 @@ In regards to both Beliefnet Shopping and Beliefnet Classifieds, the sale and fu
 
   
 **Newsletter**   
-If you would like to subscribe to the Beliefnet newsletter, please visit [www.beliefnet.com/user/newsletter_choose.asp](https://web.archive.org/user/newsletter_choose.asp). If you would like to unsubscribe from Beliefnet Newsletters, please visit [http://www.beliefnet.com/user/unsubscribe.html](https://web.archive.org/user/unsubscribe.html). If you would like to change the e-mail address to which you currently are receiving Beliefnet Newsletters, please visit [http://www.beliefnet.com/user/nl_updemail.asp](https://web.archive.org/user/nl_updemail.asp). In order to manage the other methods with which Beliefnet or its partners may communicate with you, please visit our [Marketing Preferences](https://web.archive.org/marketing/login.asp) area and follow the directions there.   
+If you would like to subscribe to the Beliefnet newsletter, please visit [www.beliefnet.com/user/newsletter_choose.asp](https://web.archive.org/user/newsletter_choose.asp). If you would like to change the e-mail address to which you currently are receiving Beliefnet Newsletters, please visit [http://www.beliefnet.com/user/nl_updemail.asp](https://web.archive.org/user/nl_updemail.asp). If you would like to unsubscribe to any of our newsletters or choose not to receive offer from Beliefnet or our partners, please visit our [Marketing Preferences](https://web.archive.org/marketing/login.asp) area.   
 
 
 * * *
@@ -103,7 +103,7 @@ Beliefnet uses information obtained from its Members and other users as stated i
 
 
 
-To manage your Marketing Preferences, please click [here](https://web.archive.org/marketing/login.asp). 
+To manage how Beliefnet can communicate with you, please visit our [Marketing Preferences](https://web.archive.org/marketing/login.asp) area at [http://www.beliefnet.com/marketing/login.asp](https://web.archive.org/marketing/login.asp). 
 
 * * *
 
@@ -142,9 +142,7 @@ The Site uses reasonable security methods to protect the data that resides on ou
 **Correction/Updating Personal Information**   
 If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we allow you to correct, update or remove the personal data that you provided. This can be done at the "Your Profile" page by clicking on the "Edit Your Profile" button. Keep in mind, however, that there will be residual information that will remain within Beliefnet's databases, access logs, and other records, which may or may not contain such personally identifiable information. 
 
-You may also opt out of receiving promotional information from Beliefnet and/or from third parties affiliated with Beliefnet at any time by contacting us at [feedback@staff.beliefnet.com](mailto:feedback@staff.beliefnet.com). You may also contact the third parties directly. 
-
-If you no longer wish to receive our newsletter, you may opt-out of receiving it by visiting [www.beliefnet.com/user/unsubscribe.html](https://web.archive.org/user/unsubscribe.html) and following the directions there. 
+You may also opt out of receiving our newsletters and/or promotional information from Beliefnet and/or from third parties affiliated with Beliefnet at any time by visiting our [Marketing Preferences](https://web.archive.org/marketing/login.asp) area at [http://www.beliefnet.com/marketing/login.asp](https://web.archive.org/marketing/login.asp). 
 
 * * *
 
