@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modchipstore.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607213333id_/http%3A//www.modchipstore.com/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modchipstore.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208190950id_/http%3A//www.modchipstore.com/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # ModChipStore.com - Help section
 
@@ -7,8 +7,8 @@
   
 We Accept:   
   
-[](http://www.modchipstore.com/partner) [](http://www.modchipstore.com/partner)Login   
-|    |  [ModChipStore.com](https://web.archive.org/web/20040607213333id_/http%3A//www.modchipstore.com/customer/home.php) :: Help zone
+[](https://web.archive.org/partner) [](https://web.archive.org/partner)Login   
+|    |  [ModChipStore.com](https://web.archive.org/web/20041208190950id_/http%3A//www.modchipstore.com/customer/home.php) :: Help zone
 
 ModChipStore.com believes strongly that all personal information of users and customers must be kept private and deserves protection. You can navigate and visit the website without registering or providing any personal information. However, we do require certain personal information and shipping address information for the processing of orders. ModChipStore.com respects your privacy. ModChipStore.com does not sell, rent or loan any personal information that is identifiable to any unrelated third parties. Any personal information given to us will be held with the utmost care and security and will not be used in ways to which you have not consented. 
 
@@ -36,7 +36,9 @@ We reserve the right to change, modify and update this Privacy Policy at any poi
 
 Throughout this Privacy Policy and the ModChipStore.com in its entirety, 'ModChipStore.com' except where stated otherwise, shall be deemed to ModChipStore and ModChipStore.com. 
 
-  
+The intended purpose of all products is to allow you to use your game console to play imports and backups of software that you legally own, as is allowed by law. We accept no responsibility for the use of this device to play copies of games you do not own. Using the modchip to modify your console will void your warranty.
+
 |    |    
   
-
+  
+[ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--78729.html)
