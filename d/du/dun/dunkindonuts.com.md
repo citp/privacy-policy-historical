@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211025505id_/http%3A//www.dunkindonuts.com/help/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626010059id_/http%3A//dunkindonuts.com/help/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # DunkinDonuts.com Privacy Policy
 
@@ -30,7 +30,7 @@ Back to Top
 
 Usage Agreement
 
-Your use of DunkinDonuts.com constitutes your acceptance of our [Usage Agreement](https://web.archive.org/web/20021211025505id_/http%3A//www.dunkindonuts.com/myaccount/usageagreement.jsp). Please read it carefully. 
+Your use of DunkinDonuts.com constitutes your acceptance of our [Usage Agreement](https://web.archive.org/web/20030626010059id_/http%3A//dunkindonuts.com/myaccount/usageagreement.jsp). Please read it carefully. 
 
 Back to Top
 
