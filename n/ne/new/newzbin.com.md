@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newzbin.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602195511id_/http%3A//www.newzbin.com/document/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newzbin.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205161534id_/http%3A//newzbin.com/document/legal/privacy) for the most accurate reproduction.*
 
 # newzBin :: The Ultimate in Usenet Indexing
 
@@ -46,15 +46,18 @@ We (newzBin) will never stoop to making a quick and dirty buck/pound/euro by cha
 Server:
     irc.newzbin.com
 Channel:
-    #newzBin [[go](irc://irc.newzbin.com)]
+    #newzbin [[go](irc://irc.newzbin.com)]
 
 ### Quick Stats
 
-Users Online:
-    421
-Posts/24h:
-    966
-Posts/Total:
-    134,193
+Users:
+    54,884 members
+    507 online now
+Posts:
+    104,262 total
+    876 in last 24h
 Coverage:
-    52.5%
+    46.9%
+Files DB:
+    20.3 days
+    1,195,718 files
