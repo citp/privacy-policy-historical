@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fictionwise.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203192100id_/http%3A//www.fictionwise.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fictionwise.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331225059id_/http%3A//fictionwise.com/privacy.htm) for the most accurate reproduction.*
 
-# Fictionwise: eBook Short Fiction Leader
+# Fictionwise: Excellence in eBooks
 
-|  |  **Privacy Statement for Fictionwise** Fictionwise, Inc. has created this privacy statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website **http://www.fictionwise.com**. 
+**Privacy Statement for Fictionwise** Fictionwise, Inc. has created this privacy statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website **http://www.fictionwise.com**. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information.
 
@@ -36,7 +36,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. Web based option: [click here](https://web.archive.org/web/20001203192100id_/http%3A//www.fictionwise.com/servlet/mwserve?action=memberview&template=update.htm). 
+  1. Web based option: [click here](https://web.archive.org/web/20010331225059id_/http%3A//fictionwise.com/servlet/mw?action=memberview&template=update.htm). 
   2. You can send mail to the following postal address: 
 
 **Fictionwise  
@@ -60,6 +60,4 @@ Fictionwise
 Chatham, NJ 07928  
 info@fictionwise.com**
 
-Fictionwise reserves the right to change or update these terms.   
-  
----|---
+Fictionwise reserves the right to change or update these terms. 
