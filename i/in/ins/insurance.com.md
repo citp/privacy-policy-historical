@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206033331id_/http%3A//www.insurance.com/about_us/security_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601181951id_/http%3A//www.insurance.com/about_us/security_privacy.asp) for the most accurate reproduction.*
 
 # About Us - Security & Privacy
 
@@ -26,7 +26,7 @@ We restrict access to nonpublic personal information about you to employees of I
 
 With respect to health insurance, please see the Health Insurance Privacy Policy jointly developed by Insurance.com and eHealthInsurance Services, Inc. 
 
-With respect to auto insurance, residents of Arizona, California, Colorado, Florida, Georgia, Iowa, Illinois, Indiana, Maine, Maryland, Minnesota, Missouri, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, and Wisconsin should see the Comparison Market Insurance Agency Privacy Policy.
+With respect to auto insurance, please see the Comparison Market Insurance Agency Privacy Policy. Please note Comparison Market does not service residents of the following states Alaska, Hawaii, Massachusetts, Michigan, New Jersey, New York, South Dakota, and Texas. Residents of these jurisdictions should reference the Privacy Policies shown on this page.
 
 With respect to Travel Insurance, please see the Travel Insurance Privacy Policy, jointly developed by Insurance.com and Insuractive, Inc.
 
@@ -51,7 +51,7 @@ Should you decide to apply for a particular insurance policy after obtaining a q
   4. **Health Insurance**  
 If you are interested in health insurance, please see the Health Insurance Privacy Policy of Insurance.com and eHealthInsurance Services, Inc.
   5. **Auto Insurance - - Comparison Market Insurance Agency (Comparison Market)**  
-In certain states, currently just Arizona, California, Colorado, Florida, Georgia, Iowa, Illinois, Indiana, Maine, Maryland, Minnesota, Missouri, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, and Wisconsin, we work with ComparisonMarket Insurance Agency to provide you with auto insurance quotes and other services. In states where ComparisonMarket Insurance Agency is available, ComparisonMarket Insurance Agency requests certain personal information during the quote process in an effort to provide more accurate quote information. Residents of those states are encouraged to see the Comparison Market Privacy Policy.
+We work with ComparisonMarket Insurance Agency to provide you with auto insurance quotes and other services in all sates except for Alaska, Hawaii, Massachusetts, Michigan, New Jersey, New York, South Dakota, and Texas. In states where ComparisonMarket Insurance Agency is available, ComparisonMarket Insurance Agency requests certain personal information during the quote process in an effort to provide more accurate quote information. Residents of those states are encouraged to see the Comparison Market Privacy Policy.
   6. **Travel Insurance**  
 If you are interested in travel insurance, please see the Travel Insurance Privacy Policy of Insurance.com and Insuractive, Inc.
   7. **Links to Third Party Insurance Sites**   
@@ -76,7 +76,7 @@ A 'cookie' is a message given to a Web browser by a Web server. The browser stor
 
   3. **Quoting**  
 Except as noted in the next paragraph, we offer you the ability to request quotes anonymously. There is no requirement to register or login prior to requesting a quote. As noted above, we share this information with third party quote providers in order to obtain the quote information you request. The information given during the quoting process is not utilized by Insurance.com for any other purposes and it is not possible for Insurance.com or others to identify you personally based on the inputs you give.  
-We work with Comparison Market to provide auto insurance quotes and other services for residents of certain states, currently just Arizona, California, Colorado, Florida, Georgia, Iowa, Illinois, Indiana, Maine, Maryland, Minnesota, Missouri, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, and Wisconsin. Residents of those states will be asked for certain personal information, including a credit report authorization. This additional information is requested in an effort to provide you with more accurate quote information.
+We work with Comparison Market to provide auto insurance quotes and other services for residents of all states except for Alaska, Hawaii, Massachusetts, Michigan, New Jersey, New York, South Dakota, and Texas. Residents of those states serviced by Comparison Market will be asked for certain personal information, including a credit report authorization. This additional information is requested in an effort to provide you with more accurate quote information.
   4. **No Other Disclosure to Unaffiliated Third Parties**  
 Unless you expressly give us permission to do so, or unless required by law, we do not willfully disclose your personally identifiable information to unaffiliated third parties, other than the above-described parties with which we contract to make certain services available through our web site and which have agreed that they will keep your information confidential. However, we may share aggregated statistical information about the use of our web site with quoting aggregators, participating insurance companies or other companies we do business with; in this case, your personally identifiable information is not disclosed. 
 
@@ -84,11 +84,11 @@ Unless you expressly give us permission to do so, or unless required by law, we 
 
 **4\. What choices are available to me regarding the collection, use and distribution of my nonpublic personally identifiable information?**
 
-All information provided in connection with the use of the Personal Organizer is optional. During the registration process you are given the option to opt-in to an email distribution list that will provide you with information concerning promotions and updates to the Insurance.com site. You can also choose to opt-out if you no longer wish to receive emails regarding site updates and insurance related information by going to 'Your Profile' in the Personal Organizer and un-checking the opt-in box which changing changes the 'Receive Emails' option to No. Users registering during the health insurance application process will automatically be placed on the email distribution list that provides you with information concerning promotions and updates to the Insurance.com site and all communications regarding your health insurance request. Users requesting health insurance information can opt out if they no longer wish to receive emails or the insurance related information by going to 'Your Profile' in the Personal Organizer and un-checking the opt-in box which changes the "Receive Emails" option to "No". 
+All information provided in connection with the use of My Insurance.com is optional. During the registration process you are given the option to opt-in to an email distribution list that will provide you with information concerning promotions and updates to the Insurance.com site. You can also choose to opt-out if you no longer wish to receive emails regarding site updates and insurance related information by going to 'Your Profile' in My Insurance.com and un-checking the opt-in box which changing changes the 'Receive Emails' option to No. Users registering during the health insurance application process will automatically be placed on the email distribution list that provides you with information concerning promotions and updates to the Insurance.com site and all communications regarding your health insurance request. Users requesting health insurance information can opt out if they no longer wish to receive emails or the insurance related information by going to 'Your Profile' in My Insurance.com and un-checking the opt-in box which changes the "Receive Emails" option to "No". 
 
 Except as noted in the next paragraph, during the quoting process on Insurance.com you will always retain complete control over what information you disclose in the quoting / application processes and to which insurance carriers, if any, it is sent. You will be asked for your name, contact details and other information only if you decide to proceed with coverage from a company that has offered an online quote.
 
-We work with Comparison Market to provide auto insurance quotes and other services for residents of certain states, currently just Arizona, California, Colorado, Florida, Georgia, Iowa, Illinois, Indiana, Maine, Maryland, Minnesota, Missouri, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, and Wisconsin. Residents of those states will be asked for certain personal information, including a credit report authorization. This additional information is requested in an effort to provide you with more accurate quote information.
+We work with Comparison Market to provide auto insurance quotes and other services for residents of all states except Alaska, Hawaii, Massachusetts, Michigan, New Jersey, New York, South Dakota, and Texas. Residents of those states services by Comparison Market will be asked for certain personal information, including a credit report authorization. This additional information is requested in an effort to provide you with more accurate quote information.
 
 With respect to third party sites to which you may link through Insurance.com, any choices regarding the handling of your personal information will be described on such parties' web sites. You should refer to the privacy statements for those sites for more information. 
 
@@ -100,7 +100,7 @@ This site uses strong security measures to protect the personal data you provide
 
 **6\. How can I correct any inaccuracies in my nonpublic personally identifiable information?**
 
-Personal information that you input into the Personal Organizer, including policy information and home inventory details can be altered using the 'Your Profile' and then the 'Edit' button. You can also update your email address and password by clicking on the link in the 'Your Profile' section of the Personal Organizer. 
+Personal information that you input into My Insurance.com, including policy information and home inventory details can be altered using the 'Your Profile' and then the 'Edit' button. You can also update your email address and password by clicking on the link in the 'Your Profile' section of My Insurance.com. 
 
 Within the quoting process, you are able to change your information by returning to the previous page via the back button of the browser, or by verifying and editing the information prior to submission. 
 
@@ -117,15 +117,9 @@ Insurance.com may change its privacy practices in the future. If we change the w
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact: 
 
-_Privacy Coordinator  
 Insurance.com  
-P.O. Box 610255  
-Newton Highlands, MA 02461_   
-[privacy@insurance.com](mailto:privacy@insurance.com)
+PO BOX 1366  
+Merrimack, NH 03054
 
-| 
-
-**This Privacy Statement was last updated on February 6, 2001.**
-
-| [](https://digitalid.verisign.com/as2/B4c65485e448d6cee6cdf0a8eb81930b)  
+| **This Privacy Statement was last updated on January 9, 2003.** | [](https://digitalid.verisign.com/as2/B4c65485e448d6cee6cdf0a8eb81930b)  
 ---|---
