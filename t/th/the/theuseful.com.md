@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the theuseful.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206182655id_/http%3A//www.theuseful.com/info.htm%3Ftp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theuseful.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404032528id_/http%3A//www.theuseful.com/info.htm%3Ftp%3Dprivacy) for the most accurate reproduction.*
 
 # Help Desk
 
-Privacy Policy
+Privacy Policy  
+
 
 We respect your desire for Internet security and privacy, and have taken measures to protect your personal information. You can be assured that we take every measure to create a safe and enjoyable experience at Theuseful.com (Theuseful). This privacy statement discloses what information we gather and how it is used. 
 
@@ -16,7 +17,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 If you request certain Theuseful services that are co-branded or require work performed by one of Theuseful's trusted partners, we do share membership information with our trusted content and commerce partners in order to fulfill your request and to provide you with the best possible member experience. Also, in the event that Theuseful or any of its assets are acquired by or merged with another entity, member information will be one of the transferred assets. 
 
-When you register, you agree to to our [Terms and Conditions](https://web.archive.org/web/20041206182655id_/http%3A//www.theuseful.com/info.htm?tp=tos&promo_name=) and to receive information on special offers (eg coupons, gifts, discounts...) from Theuseful and other trusted partners whom may have access to your registration information and other relevant data in order to bring you valuable services. Theuseful's trusted partners agree to abide by their respective privacy policies. Theuseful and partners may send you information via various available channels and segmented lists. When you unsubscribe from one list, you will not be unsubscribed from all lists. 
+When you register, you agree to to our [Terms and Conditions](https://web.archive.org/web/20050404032528id_/http%3A//www.theuseful.com/info.htm?tp=tos&promo_name=) and to receive information on special offers (eg coupons, gifts, discounts...) from Theuseful and other trusted partners whom may have access to your registration information and other relevant data in order to bring you valuable services. Theuseful's trusted partners agree to abide by their respective privacy policies. Theuseful and partners may send you information via various available channels and segmented lists. When you unsubscribe from one list, you will not be unsubscribed from all lists. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to enrich your user experience and to allow you to visit multiple pages of our site without having to login at every page. 
 
