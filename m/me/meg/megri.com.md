@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megri.com privacy policy that was archived on 2003-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030515154747id_/http%3A//www.megri.com/temp/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megri.com privacy policy that was archived on 2003-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031108040417id_/http%3A//www.megri.com/temp/policy.html) for the most accurate reproduction.*
 
 # US attacked,america disaster,news,messages,snaps
 
