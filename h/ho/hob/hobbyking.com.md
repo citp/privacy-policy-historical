@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbyking.com privacy policy that was archived on 2003-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031229171311id_/http%3A//hobbyking.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbyking.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411074921id_/http%3A//www.hobbyking.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
