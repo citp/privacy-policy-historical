@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolavenues.com privacy policy that was archived on 2003-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030611051512id_/http%3A//coolavenues.com/res/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolavenues.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121160856id_/http%3A//www.coolavenues.com/res/privacy.php3) for the most accurate reproduction.*
 
 # MBA Community, MBA Jobs, Buy Management Books, Admission Details, MBAdirect, IMS notes @ CoolAvenues.com-India's largest MBA Community Network
 
