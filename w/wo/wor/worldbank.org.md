@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldbank.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217091758id_/http%3A//worldbank.org/html/extdr/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldbank.org privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602204303id_/http%3A//www.worldbank.org/html/extdr/privacy.htm) for the most accurate reproduction.*
 
 # The World Bank Group | Privacy Policy
 
