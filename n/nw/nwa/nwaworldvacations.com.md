@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nwaworldvacations.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203052840id_/http%3A//www.nwaworldvacations.com/misc/privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwaworldvacations.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610075120id_/http%3A//www.nwaworldvacations.com/misc/privacypolicy.do) for the most accurate reproduction.*
 
 # NWA WorldVacations - Privacy Policy
 
-Northwest Airlines WorldVacations Online Reservations and Specials Privacy Policy
+Click here to view our [Terms and Conditions](https://web.archive.org/sitenav?tag=TERMS).
 
-CLICK here to view our [Terms and Conditions](https://web.archive.org/sitenav?tag=TERMS).
+Northwest Airlines WorldVacations Online Reservations and Specials Privacy Policy
 
 As a user of WorldVacations, nwaworldvacations.com, you are in complete control of your travel planning needs. This includes controlling the use of information you provide to WorldVacations and its affiliates.
 
