@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016174834id_/http%3A//www.coursework.info/privacy.i) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207000741id_/http%3A//coursework.info/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-  
-
-
-### You are in:
-
-[Home](https://web.archive.org/) > [About Coursework.Info](https://web.archive.org/about.i) > Privacy Statement
-
-### Privacy
+**You are in:**  
+[Home](http://www.coursework.info/) > [About Coursework.Info](http://www.coursework.info/about/) > Privacy Statement
 
 ### Information about our Organisation and Web site
 
@@ -23,13 +17,13 @@ Our privacy policy covers Coursework.Info and its Web site:
 ---|---  
 Address:  | 
 
-> 
->     Student Media Services,
->     P.O. Box 77,
->     Droitwich, 
->     WR9 7ZY
->     United Kingdom
->       
+> Student Media Services Limited,  
+>  17 Badminton Road,  
+>  St Agnes,  
+>  Bristol,  
+>  BS2 9QJ,  
+>  United Kingdom  
+>   
   
 City, Zip:  |   
 Country:  |  United Kingdom   
