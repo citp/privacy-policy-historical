@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papajohns.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602031722id_/http%3A//papajohns.com/policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207164227id_/http%3A//www.papajohns.com/policy.htm) for the most accurate reproduction.*
 
 # Papa John's Pizza Privacy Policy
 
@@ -8,16 +8,17 @@ Safeguarding your privacy and the security of your personal information is impor
 **How we collect information about you.**   
 We collect information in three ways:
 
-  1. We collect information that our customers supply to us.
-  2. We collect information from emails and other contacts sent to us by our customers and users of our website.
+  1. We collect information that our customers supply to us. 
+  2. We collect information from emails and other contacts sent to us by our customers and users of our website. 
   3. We collect information electronically on all users of our website, including customers, by means of cookies. 
 
 
 
 Further details are provided below. 
 
-**What personal information we collect from our users.**  
-When you set up an account at papajohns.com to use our service, you are required to provide us with your full legal name, email address, full street address including city, state and zip code, and telephone number. You must also choose your Username and Password and provide those to us.  The information being transmitted over papajohns.com is the same information you would be asked if ordering by telephone from our restaurants.
+**What personal information we collect from our users.**   
+When you set up an account at papajohns.com to use our service, you are required to provide us with your full legal name, email address, full street address including city, state and zip code, and telephone number. You must also choose your Username and Password and provide those to us. The information being transmitted over papajohns.com is the same information you would be asked if ordering by telephone from our restaurants.  
+
 
 Every time you use our service, we collect information about the Papa John's restaurants you select and the orders you place.
 
@@ -35,17 +36,19 @@ We store the information you provide to us and the information we collect electr
 **How we use the information we collect.**   
 We use the personal information about you stored in our member database in various ways. First, the next time you use our service and enter your User ID and Password, we will call up your information from our database to make processing your order faster and easier.
 
-We also keep track of your food preferences and restaurant choices and analyze that information. We do so in order to be able to email to you special advertisements, offers and notices regarding foods and restaurants that seem to fit with your preferences.
+When you use your papajohns.com account, we also keep track of your food preferences and restaurant choices and analyze that information. We do so in order to be able to email to you special advertisements, offers and notices regarding foods and restaurants that seem to fit with your preferences.
 
 We do not sell your personal information, or any information that can be identified to you personally, to any third-party marketers or other third parties. We do aggregate information about how our service is used (without specific identification to any particular user) to be able to improve our service and make it more responsive to our customers' preferences. We also make such aggregate information (without identification to any specific individual) available to our restaurant affiliates and other affiliates in order to obtain information about products, services, offers and notices which we believe will be useful and informative to our website users.
 
+If you use our website to purchase Papa Cards without setting up a papajohns.com account, your personal information is used solely to process and confirm your transaction.
+
 **Promotions and Prizes**   
-We search for merchants who sponsor promotions, offer prizes (Contests) or give our customers great discounts that we believe are of interest to our users. When we find such merchants, we provide the means on our website, newsletter or emails for our papajohns.com users to register for the contests or receive great offers. When you register for a contest, your name and email address are provided to the merchant sponsoring the contest.
+We search for merchants who sponsor promotions, offer prizes (Contests) or give our customers great discounts that we believe are of interest to our users. When we find such merchants, we provide the means on our website, newsletter or emails for our papajohns.com users to register for the contests or receive great offers. When you register for a Contest, you may be required to provide additional information, such as your birth date and whether you or anyone in your household is employed by a sponsor of the contest, in order to verify your eligibility for participation in the Contest. Your name, email address and other eligibility information are provided to the merchant sponsoring the Contest.
 
 **You can control how information about you is used.**   
-You can also limit our communications directly to you. If you do not want to receive emails telling you about our great eDeals in the future, please let us know. You can change your preferences, or opt out of receiving emails, at any time (except when you are in the process of placing an order) by going to My Account Information on the log in page. There, you can update your email address, phone numbers, password, address and you can uncheck the "Send me special offers from Papa John's" box. Our emails to you will stop within 5 business days.
+You can also limit our communications directly to you. If you have a papajohns.com account and do not want to receive emails telling you about our great eDeals in the future, please let us know. You can change your preferences, or opt out of receiving emails, at any time (except when you are in the process of placing an order) by going to My Account Information on the log in page. There, you can update your email address, phone numbers, password, address and you can uncheck the "Send me special offers from Papa John's" box. Our emails to you will stop within 5 business days.
 
-Papa John's may from time to time send non promotional email to all registered users for the purpose of gathering and dispersing data to provide better services to our customers. Registered users will be under no obligation to reply or answer questions in said non promotional email. Non promotional email will include, but will not be limited to surveys, maintenance notices and system updates.
+Papa John's may from time to time send nonpromotional email to all registered users for the purpose of gathering and dispersing data to provide better services to our customers. Registered users will be under no obligation to reply or answer questions in said nonpromotional email. Nonpromotional email will include, but will not be limited to, surveys, maintenance notices and system updates.
 
 **Our policies may change.**   
 This is our current privacy and security policy, but we reserve the right to change our website and this policy at any time. You should check this privacy policy periodically. If our policies regarding collection, storage and use of your information change, the information collected under prior policies will continue to be governed by those policies, unless we obtain your consent to use that information in new ways.
@@ -58,6 +61,3 @@ Your information is password-protected. In order to maintain this protection, we
 
 **Please contact us with any questions or comments.**   
 We want you to enjoy your use of papajohns.com's service. If you have any questions, or believe that a violation of this policy may have occurred, please let us know. Our complete contact information is provided on the Customer Feedback link on our website at [www.papajohns.com](http://www.papajohns.com/).
-
-©Copyright 2002 Papa John's International, Inc.  
-All Rights Reserved.
