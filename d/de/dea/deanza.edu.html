@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the deanza.edu privacy policy that was archived on 2002-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209180824id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deanza.edu privacy policy that was archived on 2003-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030629081722id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><head>
 
@@ -68,7 +68,7 @@
 .about { 
 	position: absolute;
 	width: 200px;
-	height: 190px;
+	height: 280px;
 	z-index: 2;
 	left: 53px;
 	top: 82px;
@@ -83,7 +83,7 @@
 .apply { 
 	position: absolute;
 	width: 200px;
-	height: 130px;
+	height: 160px;
 	z-index: 2;
 	left: 153px;
 	top: 82px;
@@ -98,7 +98,7 @@
 .applymy { 
 	position: absolute;
 	width: 200px;
-	height: 140px;
+	height: 175px;
 	z-index: 3;
 	left: 300px;
 	top: 92px;
@@ -113,7 +113,7 @@
 .adinfo { 
 	position: absolute;
 	width: 200px;
-	height: 220px;
+	height: 230px;
 	z-index: 3;
 	left: 300px;
 	top: 142px;
@@ -128,7 +128,7 @@
 .reginfo { 
 	position: absolute;
 	width: 200px;
-	height: 220px;
+	height: 250px;
 	z-index: 3;
 	left: 300px;
 	top: 162px;
@@ -158,7 +158,7 @@
 .clas { 
 	position: absolute;
 	width: 200px;
-	height: 190px;
+	height: 210px;
 	z-index: 2;
 	left: 322px;
 	top: 82px;
@@ -173,7 +173,7 @@
 .direct { 
 	position: absolute;
 	width: 200px;
-	height: 130px;
+	height: 165px;
 	z-index: 2;
 	left: 375px;
 	top: 82px;
@@ -218,7 +218,7 @@
 .stuser { 
 	position: absolute;
 	width: 200px;
-	height: 235px;
+	height: 260px;
 	z-index: 2;
 	left: 440px;
 	top: 82px;
@@ -253,7 +253,7 @@ var nameDivs = new Array(
 	'homeDe',
 	'about',
 	'apply',
-	'apply_my',
+	'applymy',
 	'adinfo',
 	'reginfo',
 	'cal',
@@ -408,17 +408,17 @@ function showapply_my()
 {	
 	if (document.all)
 	{
-		apply_my.style.visibility = "visible";
+		applymy.style.visibility = "visible";
 		apply.style.visibility = "visible";
 	}
 	else if (document.layers)
 	{
-		document.apply_my.visibility = "show";
-		everyonElse('apply_my','apply');
+		document.applymy.visibility = "show";
+		everyonElse('applymy','apply');
 	}
 	else
 	{
-		var temp = document.getElementById('apply_my');
+		var temp = document.getElementById('applymy');
 		temp.style.visibility = "visible";
 		var temp2 = document.getElementById('apply');
 		temp2.style.visibility = "visible";
@@ -429,16 +429,16 @@ function hideapply_my(hidechild)
 {	
 	if (document.all)
 	{
-		apply_my.style.visibility = "hidden";
+		applymy.style.visibility = "hidden";
 		apply.style.visibility = "hidden";
 	}
 	else if (document.layers)
 	{
-		everyonElse('apply_my','apply', hidechild);
+		everyonElse('applymy','apply', hidechild);
 	}
 	else
 	{
-		var temp = document.getElementById('apply_my');
+		var temp = document.getElementById('applymy');
 		temp.style.visibility = "hidden";
 		var temp2 = document.getElementById('apply');
 		temp2.style.visibility = "hidden";
@@ -848,12 +848,11 @@ function hideacasup(hidechild)
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="/about/facts.html">De Anza Fast Facts</a><br>
+			<a class="menu" href="/about/mission.html">De Anza's Mission</a><br>
 		</td>
-	</tr>
-	<tr>
+	</tr><tr>
 		<td>
-			<a class="menu" href="/about/campustour.html">Campus Tours</a><br>
+			<a class="menu" href="/about/facts.html">De Anza Fast Facts</a><br>
 		</td>
 	</tr>
 	<tr>
@@ -863,12 +862,23 @@ function hideacasup(hidechild)
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="/about/phones.html">Frequently Needed Phone Numbers</a>
+			<a class="menu" href="/about/campustour.html">Campus Tours</a><br>
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<a class="menu" href="/outreach/">Outreach Services</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="http://www.fhda.edu/">Foothill-De Anza Community College District</a>
+			<a class="menu" href="/president/">Office of the President</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/about/phones.html">Frequently Needed Phone Numbers</a>
 		</td>
 	</tr>
 	<tr>
@@ -876,9 +886,20 @@ function hideacasup(hidechild)
 			<a class="menu" href="/about/jobs.html">Job Opportunities</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="http://www.foothill.fhda.edu">Foothill College</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="http://www.fhda.edu/">Foothill-De Anza Community College District</a>
+		</td>
+	</tr>
+	
+	
 	</tbody></table>
 </div>
-
 <!-- Apply & Register -->
 <div class="apply" id="apply" name="apply" onmouseover="showapply();" onmouseout="hideapply();">
 	<table border="0" cellpadding="1" cellspacing="2" width="100%">
@@ -908,14 +929,24 @@ function hideacasup(hidechild)
 	</tr>
 	<tr>
 		<td colspan="2">
-			<a class="menu" href="/registration/forms.html" onmouseover="hideapply_my();">Downloadable Forms (PDFs)</a><br>
+			<a class="menu" href="/admissions/">How  to Apply and Register</a><br>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<a class="menu" href="/registration/myinfo.html">Pay Fees</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<a class="menu" href="/registration/forms.html">Downloadable Forms (PDFs)</a><br>
 		</td>
 	</tr>
 	</tbody></table>
 </div>
 
 <!-- Apply & Register  My DeAnza -->
-<div class="applymy" id="apply_my" name="apply_my" onmouseover="showapply_my();" onmouseout="hideapply_my();">
+<div class="applymy" id="applymy" name="applymy" onmouseover="showapply_my();" onmouseout="hideapply_my();">
 	<table border="0" cellpadding="1" cellspacing="2" width="100%">
 	<tbody><tr>
 		<td>
@@ -924,33 +955,34 @@ function hideacasup(hidechild)
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="https://regserv.fhda.edu/da-update.html">Update Personal Info</a><br>
+			<a class="menu" href="/registration/myinfo.html">Add, Drop, Register, or Pay Fees for Classes</a><br>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="https://regserv.fhda.edu/da-pin.html">Select Your PIN</a><br>
+			<a class="menu" href="/registration/myinfo.html">Update Personal Info</a><br>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="https://regserv.fhda.edu/da-view.html">Check Your Class Schedule</a><br>
+			<a class="menu" href="/registration/myinfo.html">Select Your PIN</a><br>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="https://regserv.fhda.edu/da-grades.html">Check Your Grades</a><br>
+			<a class="menu" href="/registration/myinfo.html">Check Your Class Schedule</a><br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/registration/myinfo.html">Check Your Grades</a><br>
 		</td>
 	</tr><tr>
 		<td>
-			<a class="menu" href="https://regserv.fhda.edu/DA_Scores.HTML">Get Your Placement Test Score</a><br>
+			<a class="menu" href="https://regserv.fhda.edu/DA_Scores.HTML">Get Your Placement Test Results</a><br>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a class="menu" href="https://regserv.fhda.edu/da-reg.html">Add, Drop, or Register for Classes</a><br>
-		</td>
-	</tr>
+	
 	</tbody></table>
 </div>
 
@@ -979,7 +1011,7 @@ function hideacasup(hidechild)
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="/admissions/placement/info.html">Placement Tests</a><br>
+			<a class="menu" href="/admissions/placement/">Placement Tests</a><br>
 		</td>
 	</tr>
 	<tr>
@@ -1007,6 +1039,11 @@ function hideacasup(hidechild)
 			<a class="menu" href="/admissions/faq.html">Frequently Asked Questions</a><br>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="https://regserv.fhda.edu/da-apply.html">Apply Online</a><br>
+		</td>
+	</tr>
 	</tbody></table>
 </div>
 
@@ -1015,17 +1052,22 @@ function hideacasup(hidechild)
 	<table border="0" cellpadding="1" cellspacing="2" width="100%">
 	<tbody><tr>
 		<td>
-			<a class="menu" href="/addclasses/">Adding Classes</a>
+			<a class="menu" href="/addclasses/">About Adding Classes</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="/registration/dropping.html">Dropping Classes</a><br>
+			<a class="menu" href="/registration/dropping.html">About Dropping Classes</a><br>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a class="menu" href="/registration/prerequisites.html">Prerequisites</a><br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/admissions/placement/">Placement Tests</a><br>
 		</td>
 	</tr>
 	<tr>
@@ -1068,6 +1110,11 @@ function hideacasup(hidechild)
 			<a class="menu" href="/admissions/mattersofpolicy.html">Matters of Policy</a><br>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/registration/myinfo.html">Register Online</a><br>
+		</td>
+	</tr>
 	</tbody></table>
 </div>
 
@@ -1079,14 +1126,14 @@ function hideacasup(hidechild)
 			<a class="menu" href="/calendar/">Academic and Administrative Calendar</a>
 		</td>
 	</tr>
-	<tr>
+	<!--<tr>
 		<td>
-			<a class="menu" href="/outreach/outreachsched.html">Outreach Schedule</a><br>
+			<a class='menu' href='/outreach/outreachsched.html'>Outreach Schedule</a><br>
 		</td>
-	</tr>
+	</tr>-->
 	<tr>
 		<td>
-			<a class="menu" href="/calendar/examsched.html">Final Exam Schedule</a><br>
+			<a class="menu" href="/calendar/">Final Exam Schedule</a><br>
 		</td>
 	</tr>
 	</tbody></table>
@@ -1097,41 +1144,58 @@ function hideacasup(hidechild)
 	<table border="0" cellpadding="1" cellspacing="2" width="100%">
 	<tbody><tr>
 		<td>
-			<a class="menu" href="http://schedule.fhda.edu/FMDB/DAwinDept.html" target="_blank">Winter 2003 Schedule</a><br>
+			<a class="menu" href="http://schedule.fhda.edu/FMDB/DAfallDept.html" target="_blank">Fall 2003 Schedule</a><br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="http://schedule.fhda.edu/FMDB/DAsumDept.html" target="_blank">Summer 2003 Schedule</a><br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="http://schedule.fhda.edu/FMDB/DAsprDept.html" target="_blank">Spring 2003 Schedule</a><br>
 		</td>
 	</tr>
 	
 	<tr>
 		<td>
-			<a class="menu" href="http://schedule.fhda.edu/FMDB/DAfallDept.html" target="_blank">Fall 2002 Schedule</a>
-		</td>
-	</tr>
-		
-	<tr>
-		<td>
-			<a class="menu" href="http://www.shortcourses.fhda.edu/">Community Education Short Courses</a><br>
+			<a class="menu" href="/publications/catalog/">College Catalog</a><br>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="http://www.shortcourses.fhda.edu/older.html">Older Adult Studies</a><br>
+			<a class="menu" href="/publications/catalog/">Degree and Certificate Programs</a><br>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="http://www.shortcourses.fhda.edu/for.html">Classes For Kids</a><br>
+			<a class="menu" href="/directory/dir-depts.html/">Academic Divisions &amp; Depts.</a><br>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a class="menu" href="http://distance.deanza.fhda.edu/">Distance Learning</a><br>
 		</td>
+	</tr>	
+		
+	<tr>
+		<td>
+			<a class="menu" href="http://communityeducation.fhda.edu/">Community Education Short Courses</a><br>
+		</td>
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="/publications/catalog/">College Catalog</a><br>
+			<a class="menu" href="http://communityeducation.fhda.edu/">Older Adult Studies</a><br>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="http://communityeducation.fhda.edu/">Classes For Kids</a><br>
+		</td>
+	</tr>
+	
+	
 	</tbody></table>
 </div>
 
@@ -1199,7 +1263,7 @@ function hideacasup(hidechild)
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="http://arts.deanza.fhda.edu">Creative Arts</a>
+			<a class="menu" href="/creativearts/">Creative Arts</a>
 		</td>
 	</tr>
 	<tr>
@@ -1270,6 +1334,11 @@ function hideacasup(hidechild)
 	</tr>
 	<tr>
 		<td colspan="2">
+			<a class="menu" href="/bookstore/" onmouseout="hideacasup(1);">Bookstore</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
 			<a class="menu" href="/studentservices/career/" onmouseout="hideacasup(1);">Career &amp; Employment Services</a>
 		</td>
 	</tr>	
@@ -1305,19 +1374,21 @@ function hideacasup(hidechild)
 	</tr>		
 	<tr>
 		<td colspan="2">
+			<a class="menu" href="/library/" onmouseout="hideacasup(1);">Library/Learning Center</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<a class="menu" href="/admissions/placement/" onmouseout="hideacasup(1);">Placement Tests</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
 			<a class="menu" href="/transfer/" onmouseout="hideacasup(1);">Transfer Information</a>
 		</td>
 	</tr>
-	<tr>
-		<td colspan="2">
-			<a class="menu" href="/bookstore/" onmouseout="hideacasup(1);">Bookstore</a>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<a class="menu" href="/library/" onmouseout="hideacasup(1);">Library</a>
-		</td>
-	</tr>
+	
+	
 	
 	</tbody></table>
 </div>
@@ -1386,15 +1457,15 @@ function hideacasup(hidechild)
 		</tr>
 		<tr>
 			<td width="10"><img src="/images/today_tl.gif" width="10" height="10" alt=""></td>
-			<td background="/images/today_t.gif" width="115"><img src="/images/today_t.gif" width="2" height="10" alt=""></td>
+			<td background="/images/today_t.gif" width="115" alt=""><img src="/images/today_t.gif" width="2" height="10" alt=""></td>
 			<td width="10"><img src="/images/today_tr.gif" width="10" height="10" alt=""></td>
 		</tr>
 		<tr>
-			<td background="/images/today_l.gif" width="10"><img src="/images/today_l.gif" width="10" height="2" alt=""></td>
+			<td background="/images/today_l.gif" width="10" alt=""><img src="/images/today_l.gif" width="10" height="2" alt=""></td>
 			<td width="115" align="center" class="hpmisc" bgcolor="#FFFFFF"> 
-				December 9, 2002				<br>
+				June 29, 2003				<br>
 			<a href="/news">NEWS</a>&nbsp;&nbsp;&nbsp;<a href="/events/index.pl">EVENTS</a></td>
-			<td background="/images/today_r.gif" width="10"><img src="/images/today_r.gif" width="10" height="2" alt=""></td>
+			<td background="/images/today_r.gif" width="10" alt=""><img src="/images/today_r.gif" width="10" height="2" alt=""></td>
 		</tr>
 		</tbody></table>
 	</td>
@@ -1415,14 +1486,15 @@ function hideacasup(hidechild)
 <table border="0" width="640" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td width="10" bgcolor="#fcf0d2">&nbsp;<br></td>
-	<td width="188" bgcolor="#fcf0d2"><img src="/template/standard/images/spacer.gif" width="188" height="1"></td>
+	<td width="188" bgcolor="#fcf0d2"><img src="/template/standard/images/spacer.gif" width="188" height="1" alt=""></td>
 	<td width="15" bgcolor="white">&nbsp;&nbsp;<br></td>
-	<td align="center" width="427"><img src="/template/standard/images/spacer.gif" width="1" height="1"></td>
+	<td align="center" width="427"><img src="/template/standard/images/spacer.gif" width="1" height="1" alt=""></td>
 </tr>
 <tr valign="top">
 	<td width="10" bgcolor="#fcf0d2">&nbsp;<br></td>
 	<td width="188" bgcolor="#fcf0d2">
-		<p class="leftnav">Web Site Privacy Statement</p>
+		<p class="leftnav"><a href="/policies/">De Anza Policies Home</a><br>
+<br></p>
 	</td>
 	<td width="10" bgcolor="white">&nbsp;</td>
     <td width="427">
@@ -1492,7 +1564,7 @@ Cupertino, CA &nbsp; 95014<br>
 
 <table width="640" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-    <td nowrap="" class="bar">Page updated: August 24, 2002</td>
+    <td nowrap="" class="bar">Page updated: February 10, 2003</td>
     <td nowrap="" align="right" class="bar"><a href="/comment.html" class="bar">Questions or Comments?</a></td>
   </tr>
   <tr>
@@ -1502,7 +1574,12 @@ Cupertino, CA &nbsp; 95014<br>
   	<td colspan="2" align="center">
   	<p class="smlink">
 	[ <a class="smlink" href="/students">Students</a> ] &nbsp; [ <a class="smlink" href="/parents">Parents</a> ] &nbsp; [ <a class="smlink" href="/friends">Friends and Visitors</a> ] 
-	&nbsp; [ <a class="smlink" href="/business">Business Community</a> ] &nbsp; [ <a class="smlink" href="/faculty">Faculty and Staff</a> ] 
+	&nbsp; [ <a class="smlink" href="/business">Business Community</a> ] &nbsp; [ <a class="smlink" href="/faculty">Faculty and Staff</a> ] <br>
+	
+	[ <a class="smlink" href="/">Home</a> ] &nbsp; [ <a class="smlink" href="/about">About De Anza</a> ] &nbsp; [ <a class="smlink" href="/admissions">Apply / Register</a> ] 
+	&nbsp; [ <a class="smlink" href="/calendar">Calendar</a> ] &nbsp; [ <a class="smlink" href="/schedule">Classes</a> ] &nbsp; [ <a class="smlink" href="/directory">Directories</a> ]
+	&nbsp; [ <a class="smlink" href="/international">International</a> ] &nbsp; [ <a class="smlink" href="/studentservices">Student Services</a> ]
+	
 	</p>
   	</td>
   </tr>
