@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwmedicine.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603100426id_/http%3A//www.uwmedicine.org/Global/Legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwmedicine.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208030921id_/http%3A//www.uwmedicine.org/Global/Legal/privacy.htm) for the most accurate reproduction.*
 
 # UW Medicine - Notice of Privacy Practices
 
@@ -15,7 +15,7 @@
   
 
 
-Effective August 18, 2003
+Effective September 27, 2004
 
 THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
@@ -25,6 +25,7 @@ THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSE
 * [Use and Disclosure of Your Protected Health Information Without Your Authorization ](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRCACHEHINT=Guest#phi2)
 * [Use and Disclosure When You Have the Opportunity to Object](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRCACHEHINT=Guest#object)
 * [Use and Disclosure that Requires Your Authorization](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRCACHEHINT=Guest#requires)
+* [Heightened Confidentiality of Your Patient Health Information](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRCACHEHINT=Guest#Confidential)
 * [Your Individual Rights Regarding Patient Health Information](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRCACHEHINT=Guest#rights)
 * [Privacy Notice Changes](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRCACHEHINT=Guest#privacy)
 
@@ -32,7 +33,7 @@ THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSE
 
 ## Overview
 
-We recognize our responsibility for safeguarding the privacy of your health information. This Notice provides information regarding use and disclosure of protected health information by UW Medicine, Seattle Cancer Care Alliance (SCCA), Children's University Medical Group (CUMG) and non-UW physicians (collectively, the Providers) when services are provided within UW Medicine or SCCA facilities, and/or when the Providers are acting as part of one or more of the joint arrangements described below. This Notice also describes your rights and our obligations for using your health information and informs you about laws that provide special protections for your health information. It also explains how your protected health information is used and how, under certain circumstances, it may be disclosed. It tells you how any changes in this Notice will be made available to you.
+We recognize our responsibility for safeguarding the privacy of your health information. This Notice provides information regarding use and disclosure of protected health information by UW Medicine, Seattle Cancer Care Alliance (SCCA), Children's University Medical Group (CUMG), non-UW physicians, and Children's Hospital and Regional Medical Center (Children's) (collectively, the Providers) when services are provided within UW Medicine or SCCA facilities, and/or when the Providers are acting as part of one or more of the joint arrangements described below. This Notice also describes your rights and our obligations for using your health information and informs you about laws that provide special protections for your health information. It also explains how your protected health information is used and how, under certain circumstances, it may be disclosed. It tells you how any changes in this Notice will be made available to you.
 
 [Return to Top](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRCACHEHINT=Guest#top)
 
@@ -46,7 +47,7 @@ UW Medicine. UW Medicine is composed of multiple affiliated entities that work t
   * Harborview Medical Center and Clinics 
   * UW Medicine Neighborhood Clinics (University of Washington Physicians Network) 
   * UW Physicians Sports Medicine Clinic 
-  * UW Physicians Eastside Specialty Center 
+  * UW Medicine Eastside Specialty Center 
   * Hall Health Primary Care Center 
   * University of Washington Physicians
 
@@ -54,9 +55,11 @@ UW Medicine. UW Medicine is composed of multiple affiliated entities that work t
 
 For dental services, the University of Washington School of Dentistry and University of Washington Dentists and Oral Surgeons may use and disclose information for treatment, payment, and health care operations. Certain individuals or offices within the University of Washington provide support functions to UW Medicine that might include the use of health information. For example, the University provides risk management and information system support services to UW Medicine entities. When providing these support services, University staff maintain and protect the confidentiality of your health information.
 
-**SCCA.** SCCA is a separate cancer care hospital providing inpatient services at its hospital located within University of Washington Medical Center and outpatient services at the SCCA's separately located outpatient clinic. SCCA operates jointly with UW Medicine, Fred Hutchinson Cancer Research Center (FHCRC), and Children's Hospital and Regional Medical Center (Children's) to provide both inpatient and outpatient cancer care to the community. Health care information is shared between SCCA, Children's, FHCRC and UW Medicine when necessary for treatment, payment, and certain joint health care operations. For a description of Children's privacy practices please refer to its Notice of Privacy Practices.
+**SCCA.** SCCA is a separate cancer care hospital providing inpatient services at its hospital located within University of Washington Medical Center and outpatient services at the SCCA's separately located outpatient clinic. SCCA operates jointly with UW Medicine, Fred Hutchinson Cancer Research Center (FHCRC), and Children's to provide both inpatient and outpatient cancer care to the community. Health care information is shared between SCCA, Children's, FHCRC and UW Medicine when necessary for treatment, payment, and certain joint health care operations. 
 
 **CUMG and Non-UW Physicians Affiliated with Children's.** UW faculty physicians who practice with Children's University Medical Group (CUMG), and occasionally non-UW physicians affiliated with CUMG through Children's, provide or participate in clinical care services at UW Medicine and SCCA facilities. When one of these physicians is providing or participating in clinical care within a UW Medicine or a SCCA facility, protected health care information is shared between the entities or providers as necessary for treatment, payment, and certain health care operations.
+
+**Children's.** Children's is a nonprofit corporation operating an acute care children's hospital and other regional children's health services clinics. Children's facilities serve as training sites for residents, fellows, and other trainees. UW Medicine and Children's work together jointly to provide pediatric care. Health information is shared when necessary to provide clinical care services, secure payment for clinical care services, and perform other joint health care operations such as peer review and quality improvement activities, accreditation related activities, and evaluation of trainees. For a description of Children's privacy practices please refer to its Notice of Privacy Practices.
 
 **Non-UW Physicians.** Occasionally, non-UW physicians participate in and provide services to patients within UW Medicine and SCCA facilities described in this Notice. When this occurs, protected health information is shared between the entities or providers as necessary for treatment, payment, and certain health care operations.
 
@@ -114,17 +117,21 @@ Here are some examples of how we may use and disclose protected health informati
 
 **Train Staff and Students.** We may use and disclose your information to teach and train staff and students. One example of this is when teaching physicians review patient health information with medical students.
 
-**Conduct Research.** We may use and disclose your information for research. An Institutional Review Board will review each request to use or disclose your information for research. This is a Board that reviews research at UW Medicine or SCCA to make sure that projects are as safe as possible. In some cases, your health care information might be used or disclosed for research without your consent. For example, a researcher might: review medical charts to see if wearing a bicycle helmet was a factor in how serious bicycle injuries are; or to determine if we have enough patients to conduct a cancer research study; or to include your information in a research data base. In these cases, the Institutional Review Board makes sure that using your information without your consent is justified and that steps are taken to limit the use of your information. In all other cases, we must obtain your authorization to use or disclose your information for a research project. We may share information about you used for research with researchers at other institutions.
+**Conduct Research.** We may use and disclose your information for research. If the information is individually identifiable an Institutional Review Board will review each request to use or disclose your information for research. If it is not identifiable information, it may also go through this process. This is a Board that reviews research at UW Medicine or SCCA to make sure that projects are as safe as possible. In some cases, your health care information might be used or disclosed for research without your consent. For example, a researcher might: review medical charts to see if wearing a bicycle helmet was a factor in how serious bicycle injuries are; or to determine if we have enough patients to conduct a cancer research study; or to include your information in a research data base. In these cases, the Institutional Review Board makes sure that using your information without your consent is justified and that steps are taken to limit the use of your information. In all other cases, we must obtain your authorization to use or disclose your information for a research project. We may share information about you used for research with researchers at other institutions.
 
 **Contact You for Information.** Your health information may also be used to contact you (for example, by calling you or sending you a letter) to remind you about appointments, to provide diagnostic results, to inform you about important treatment alternatives, or to advise you about other health-related benefits and services.
 
-**Conduct Fundraising.** The Providers, other than SCCA, may use information such as your name, address, phone number, and the dates you received services at UW Medicine to contact you for UW Medicine fundraising activities or fundraising activities related to the Providers’ individual or joint operations. We raise funds to expand and support health care services, educational programs, and research activities related to curing disease. We will not sell, trade, or loan your information to any third parties but the Providers may share your protected health information with third parties working directly for one of the Providers. If you do not wish to be contacted as part of our fundraising efforts, please notify us in writing at 
+**Conduct Fundraising.** The Providers, other than SCCA and Children's, may use information such as your name, address, phone number, and the dates you received services at UW Medicine to contact you for UW Medicine fundraising activities or fundraising activities related to the Providers’ individual or joint operations. We raise funds to expand and support health care services, educational programs, and research activities related to curing disease. We will not sell, trade, or loan your information to any third parties but the Providers may share your protected health information with third parties working directly for one of the Providers. If you do not wish to be contacted as part of our fundraising efforts, please notify us in writing at 
 
 > UW Medicine Privacy Office,   
 > Box 359210,   
 > Seattle, WA 98195
 
-SCCA does not engage in fundraising but their parent organizations (Children’s, FHCRC, and UW Medicine) may occasionally contact patients to solicit funds to expand and support important cancer-related health care services, educational programs, and research activities. The SCCA privacy officer can help you if you do not wish to be contacted. 
+SCCA does not engage in fundraising but their parent organizations (FHCRC and UW Medicine) may occasionally contact patients to solicit funds to expand and support important cancer-related health care services, educational programs, and research activities. If you are an SCCA patient and do not wish to be contacted by the SCCA parent organizations, please notify us in writing at
+
+> SCCA Privacy Office   
+> 825 Eastlake Ave East, G7800   
+> Seattle, WA 98109
 
 **Joint Activities.** Your health information may be used and shared by the Providers in furtherance of their joint activities and with other individuals or organizations that engage in joint treatment, payment or health care operational activities with the Providers. 
 
@@ -169,6 +176,14 @@ Other than the uses and disclosures described above, we will not use or disclose
 
 * * *
 
+## Heightened Confidentiality of Your Patient Health Information
+
+Special state and federal protections apply to certain classes of patient health information. For example, additional protections may apply to sexually transmitted diseases information, drug and alcohol abuse treatment records, mental health records, and HIV/AIDS. When required by law, UW Medicine will obtain your authorization before releasing this type of information.
+
+[Return to Top](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRCACHEHINT=Guest#top)
+
+* * *
+
 ## Your Individual Rights Regarding Patient Health Information
 
 You have specific individual rights as to the use and disclosure of your protected health information. To contact the Providers to exercise your rights, you may contact:
@@ -179,7 +194,8 @@ You have specific individual rights as to the use and disclosure of your protect
 > Toll-Free: 1-866-964-7744  
 > [hipaa@u.washington.edu](mailto:hipaa@u.washington.edu)
 > 
-> SCCA Privacy Office  
+> SCCA Privacy Office Room   
+> Room G7800  
 > 825 Eastlake Avenue East  
 > P.O. Box 19023  
 > Seattle, WA 98109  
