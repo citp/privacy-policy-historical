@@ -1,34 +1,108 @@
-> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 1999-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990424095326id_/http%3A//www.sikids.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622092958id_/http%3A//sikids.com/privacy/privacy.html) for the most accurate reproduction.*
 
-# SPORTS ILLUSTRATED FOR KIDS PRIVACY POLICY
+# Time Warner Children’s Privacy Notice
 
-**Sports Illustrated For Kids Privacy Policy**
+Your child’s privacy is important to us at Time Warner. We are committed to safeguarding children’s personal information collected online, and to helping parents and their children learn how to exercise control over personal information while exploring the Internet. The additional measures we have taken to tailor our content and offerings at our children’s sites to help children protect their privacy while online include encouraging children to use non-personally identifiable screen names rather than their real names and taking efforts to prevent children from posting contact information. In addition, we do not ask children to disclose more personal information than is necessary for them to participate in an activity. 
 
-**KIDS:** Be sure to ask your parents for permission before you send any information about yourself to us or anyone else over the Internet. 
+To help ensure a rewarding online experience for your child, we provide you with this summary of our information practices to empower you in connection with your child’s online experiences. This privacy notice governs the collection and use of information at sikids.com, one of Time Warner’s Web sites directed to children.
 
-This web site is maintained by Sports Illustrated For Kids, 1271 Avenue of the Americas, New York, NY, 10020. 
+**
 
-We collect no personally identifying information about individuals except when specifically and knowingly provided by such individuals. An adult user's personally identifying information will not be transferred to any other party unless otherwise stated at the time of collection. 
+I. _The Information We Collect_
 
-The personally identifying information of a user of this site may be used by Sports Illustrated For Kids for editorial purposes. Any such information collected by users of this site is used for editorial participation and feedback purposes, together with any other purposes that will be described where the information is collected, and will not be transferred to any third party. 
+ __**__
 
-This web site places a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information. Although the cookie could enable Sports Illustrated For Kids to relate a user's use of this web site to information that the user has specifically and knowingly provided, we do not do so for this site. 
+To enable children to participate in some of our online activities, we may ask them to provide personal information including name, e-mail address, address, telephone number, and date of birth. 
 
-Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. 
+On some pages of our site, such as where children can send electronic postcards to their friends, we also may ask your child to provide personal information about other people. This is usually limited to a first name and e-mail address. We also may ask for the name and e-mail address of the child’s parent. 
 
-[Back to Sports Illustrated For Kids Online](https://web.archive.org/web/19981207044310id_/http%3A//www.sikids.com/index.html)
-**Sports Illustrated For Kids Privacy Policy**
+****
 
-**KIDS:** Be sure to ask your parents for permission before you send any information about yourself to us or anyone else over the Internet. 
+When children visit our site, we automatically collect certain non-personally identifiable information such as the type of computer operating system ( _e.g._ , Windows ’95 or Mac OS) and browser ( _e.g.,_ Netscape, Internet Explorer) being used, and the domain name of the Internet service provider ( _e.g.,_ America Online, Earthlink).
 
-This web site is maintained by Sports Illustrated For Kids, 1271 Avenue of the Americas, New York, NY, 10020. 
+**
 
-We collect no personally identifying information about individuals except when specifically and knowingly provided by such individuals. An adult user's personally identifying information will not be transferred to any other party unless otherwise stated at the time of collection. 
+II. _How We Use the Information_
 
-The personally identifying information of a user of this site may be used by Sports Illustrated For Kids for editorial purposes. Any such information collected by users of this site is used for editorial participation and feedback purposes, together with any other purposes that will be described where the information is collected, and will not be transferred to any third party. 
+ __** **
 
-This web site places a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information. Although the cookie could enable Sports Illustrated For Kids to relate a user's use of this web site to information that the user has specifically and knowingly provided, we do not do so for this site. 
+We never share children’s personal information with third parties.
 
-Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. 
+**
 
-[Back to Sports Illustrated For Kids Online](https://web.archive.org/web/19990424095326id_/http%3A//www.sikids.com/index.html)
+We use children’s information only for our internal purposes to enable them to enter one of our sweepstakes or contests, to express their opinions on various topics, to send electronic postcards to their friends, and to respond to an e-mail message they have sent us.
+
+We also may use children’s information to offer children or parents products, programs or services that we believe may be of interest to them. 
+
+We use the information that we collect about others to either enable the child to communicate with them, for example, to send an electronic greeting card to a friend, or to obtain your consent for participation in these activities, such as to notify you when your child has entered one of our contests. Or would like to subscribe to SI For Kids magazine.
+
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
+
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request.
+
+This Time Warner site will not use or transfer personally identifiable information provided to us in ways that are materially different from the ones described above without also providing parental notification of such practices and obtaining consent for any materially different uses. 
+
+**
+
+III. _Collection of Information by Third-Party Sites and Sponsors_
+
+ __**
+
+Our site contains links to other sites whose information practices may be different from ours. Visitors should consult the other sites' privacy notices as the sites are not covered by our privacy policy. 
+
+This Time Warner site sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that children voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Warner does not control the third-party sponsors' use of this information. [Click here](https://web.archive.org/web/20000622092958id_/http%3A//sikids.com/privacy/thirdparty.html) for a list of names and contact information of outside third parties that may collect and maintain personally identifiable information as a result of their participation in these activities. 
+
+**
+
+IV. _Cookies_
+
+ __**
+
+Sikids.com uses a software technology called "cookies." Cookies are small text files that we place in visitors’ computer browsers to store their preferences. Cookies themselves does not contain any personally identifiable information. Although cookies could enable us to relate a visitor’s use of this Web site to personal information ( _e.g.,_ e-mail address) that a visitor has provided, we do not do so for this site. 
+
+**
+
+V. _Security_
+
+ __**__
+
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+
+**
+
+VI. _Parental Review of Information_
+
+ __**
+
+E-mail us at [sikids.inbox@sikids.com](mailto:Sikids.inbox@sikids.com?subject=Privacy) for instructions on how you can accomplish any of the following:
+
+  * access the personally identifiable information that this Time Warner site has collected from your child, 
+  * correct factual errors in such information, 
+  * request to have this information deleted, or 
+  * request that we no longer collect or maintain such information. 
+
+
+
+To protect your child’s privacy and security online, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about your child. 
+
+**
+
+VII. _Contact Us_
+
+ __**
+
+If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us at the following e-mail address, address and telephone number: 
+
+[sikids.inbox@sikids.com](mailto:Sikids.inbox@sikids.com?subject=Privacy)
+
+Sports Illustrated Building   
+135 West 50th St., 4th Fl.   
+New York, NY 10020-1393 
+
+212-522-9949
+
+****
+
+**VIII. _A Final Note to Parents_**
+
+The Internet offers a world of opportunity for children. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to the visit The Direct Marketing Association’s web site (www.the-dma.org) [http://www.the-dma.org](http://www.the-dma.org/) and explore the Get CyberSavvy! Program. Get CyberSavvy! helps families learn how information flows online so they can use the Internet in ways that protect their privacy and well-being. It also contains a number of valuable resources to help parents and children be aware of and express their preferences about information that is collected online and how it is used. Your efforts to instill responsible information practices will help steer your children to age-appropriate sites, and will go a long way toward ensuring that your children have enriching experiences online. 
