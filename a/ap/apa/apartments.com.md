@@ -1,58 +1,8 @@
-> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205120227id_/http%3A//www.apartments.com/LegalInfo.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603235914id_/http%3A//www.apartments.com/privacy.htm) for the most accurate reproduction.*
 
-# Apartments.com Legal Information and Privacy Policy
+# Apartments.com Privacy Policy
 
   |  **
-
-Legal Information and Privacy Policy
-
-DISCLAIMER
-
-**
-
-Apartments.com does not guarantee the accuracy of any information available on this site, and is not responsible for any errors, omissions, or misrepresentations. Product information including availability, features, floor plans and rent ranges are subject to change without prior notice and should be verified independently with the property managers.
-
-**
-
-EQUAL OPPORTUNITY IN HOUSING STATEMENT
-
-Our Policy
-
-**
-
-All real estate advertised herein is subject to the federal Fair Housing Act, which makes it illegal to advertise "any preference, limitation, or discrimination because of race, color, religion, sex, handicap, familial status, or national origin, or intention to make such preference, limitation or discrimination."
-
-We will not knowingly accept or permit any advertisement for real estate that is in violation of the law. All persons are hereby informed that all dwellings advertised are available on an equal opportunity basis.
-
-**
-
-The Law
-
-**
-
-When it comes to buying, selling or leasing a home or renting an apartment, several state and federal laws were enacted to ensure the equal opportunity in housing for all people. The Civil Rights Act of 1966 prohibits all racial discrimination in the sale or rental of property. Moreover, the Fair Housing Act declares a national policy of fair housing throughout the United States, making illegal any discrimination in the sale, lease or rental of housing, or making housing otherwise unavailable, because of race, color, religion, sex, handicap, familial status, or national origin.
-
-Other laws also impact the purchase, sale or lease of a home or renting an apartment. Title III of the Americans with Disabilities Act prohibits discrimination against persons with disabilities in places of public accommodations and commercial facilities. The Equal Credit Opportunity Act makes discrimination unlawful with respect to any aspect of a credit application on the basis of race, color, religion, national origin, sex, marital status, age or because all or part of the applicant’s income derives from any public assistance program.
-
-In addition, state and local laws often provide broader coverage and prohibit discrimination based on additional classes not covered by federal law.
-
-As a home seller or landlord you have a responsibility and a requirement under the law not to discriminate in the sale, rental and financing of property on the basis of race, color, religion, sex, handicap, familial status, or national origin. You cannot instruct the licensed broker or salesperson acting as your agent to convey for you any limitations in the sale or rental because the real estate professional is bound by law not to discriminate. Agents in a real estate transaction also are prohibited by law from discriminating on the basis of race, color, religion, sex, handicap, familial status, or national origin. They are prohibited from complying with a request from the home seller or landlord to act in a discriminatory manner in the sale, lease or rental. Moreover, a home seller or landlord cannot establish discriminatory terms or conditions in the purchase or rental, deny that housing is available, or advertise that the property is available only to persons of a certain race, color, religion, sex, handicap, familial status, or national original.
-
-As someone seeking to purchase a home or rent an apartment, you have the right to expect that housing will be available to you without discrimination or other limitations based on race, color, religion, sex, handicap, familial status, or national origin. This includes the right to expect equal professional service, the opportunity to consider a broad range of housing choices, no discriminatory limitations on communities or locations of housing, no discrimination in the financing, appraising, or insuring of housing, reasonable accommodations in rules, practices and procedures for persons with disabilities, and to be free from harassment or intimidation for exercising your fair housing rights.
-
-**
-
-IF YOU SUSPECT DISCRIMINATION:
-
-**
-
-Despite our zero tolerance policy, much of the information regarding real estate and related matters in this Web Site is provided by third parties or via hyperlink to third party sites. As such, there may be an instance of potential discrimination by these third parties that we are not yet aware of. If you suspect discrimination by one of these sites, please contact our staff at [feedback@apartments.com](mailto:feedback@apartments.com) .
-
-Complaints alleging discrimination in housing may be filed with the nearest office of the United States Department of Housing and Urban Development (HUD), or by calling HUD’s toll free number, 1-800-669-9777 (voice), or 1-800-543-8294 (TDD).
-
-You can contact HUD on the internet at [http://www.hud.gov/fhe/fheo.html](http://www.hud.gov/fhe/fheo.html)
-
-**
 
 Apartments.com Privacy Guarantee
 
@@ -115,8 +65,6 @@ Does this privacy statement extend to links to other sites?
 This site contains links to other sites. While we encourage our business partners to adopt privacy policies that build users' trust and confidence in the Internet, we are not responsible for the privacy practices or the content of Web sites linked to any of our sites. We may allow third parties to sponsor promotions and sweepstakes through our site. Use of any personal information provided to such a third party will be governed by that party's privacy policy. 
 
 **Collection of information by third parties**
-
-**Engage** : This site, Apartments.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [Engage.com](http://www.engage.com/privacy)
 
 Apartments.com uses a third-party advertising company to serve ads when you visit our site. This company may use information (not including your name, address, e-mail address or telephone number) about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements on our site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our site through the use of pixel tags (also called clear gifs or single-pixel gifs). In the course of serving advertisements to this site, our third-party advertising company may place or recognize a unique "cookie" on your computer. If you would like more information about the information collection practices of this third-party advertising company and to know your choices about not having this information used by this company,[click here.](http://www.doubleclick.net/us/corporate/privacy/default.asp)
 
