@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611162249id_/http%3A//www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi%3F%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208014701id_/http%3A//www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi%3F%26pg%3Dprivacy) for the most accurate reproduction.*
 
-# * Privacy Statement at www.48hourprint.com
+# Privacy Statement at www.48hourprint.com
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site.
 
@@ -22,16 +22,16 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive mail list messages.
 
-  * [You can send email to us by visiting the Contact Page](https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F6283500&rnd=3141514&rrc=N&affl=&cip=209.237.238.172&act=&aff=&pg=contact)  
+  * [You can send email to us by visiting the Contact Page](https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F1297007&rnd=8614856&rrc=N&affl=&cip=209.237.238.175&act=&aff=&pg=contact)  
 
-  * [You can visit the Mail List Page to un-subscribe](https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F6283500&rnd=3141514&rrc=N&affl=&cip=209.237.238.172&act=&aff=&pg=maillist)  
+  * [You can visit the Mail List Page to un-subscribe](https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F1297007&rnd=8614856&rrc=N&affl=&cip=209.237.238.175&act=&aff=&pg=maillist)  
 
 
 **Correct/Update**
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  * [You can send email to us by visiting Contact Page](https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F6283500&rnd=3141514&rrc=N&affl=&cip=209.237.238.172&act=&aff=&pg=contact)  
+  * [You can send email to us by visiting Contact Page](https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F1297007&rnd=8614856&rrc=N&affl=&cip=209.237.238.175&act=&aff=&pg=contact)  
 
 
 
