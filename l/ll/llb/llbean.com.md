@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212000706id_/http%3A//llbean.com/customerService/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621154127id_/http%3A//www.llbean.com/customerService/privacy) for the most accurate reproduction.*
 
 # Your Privacy
 
@@ -50,7 +50,7 @@ Cookies are small bits of text that your Web browser software stores on your com
 
 Following are details on how we use cookies in specific areas of llbean.com.
 
-**• Personalizing your experience.** If you've created an account at llbean.com or if you've ordered online from us before, a cookie allows us to greet you on our home page using the first name you provided to us previously. It also allows us to provide you with information we think you may be interested in based on items you've previously purchased from L.L.Bean or browsed on llbean.com.
+**• Personalizing your experience.** If you've created an account at llbean.com or ordered online from us before, a cookie allows us to provide you with information we think you may be interested in, based on items you've previously viewed on llbean.com or purchased from L.L.Bean.
 
 **• Site browsing and searches.** We use cookies to better understand which parts of our site are receiving traffic and which products are requested in site searches. This information assists us in our efforts to refine our site, as well as efforts to improve and customize the shopping experience for individual customers.
 
@@ -58,7 +58,7 @@ Following are details on how we use cookies in specific areas of llbean.com.
 
 **• Promotions linking to llbean.com.** If you click on a link to llbean.com from an L.L.Bean Email Newsletter or a promotional link on another site, we use a cookie to help measure the success of that particular marketing effort. In this way we can better understand how to reach customers with the information they want about L.L.Bean.
 
-Because we rely on cookies to make the shopping experience easier and more tailored to your needs, your browser must be set to accept cookies before you can place an order at llbean.com. (See [cookie settings](https://web.archive.org/customerService/shoppingFAQs/shopping/index.html#cookies) for details.)  
+Because we rely on cookies to make the shopping experience easier and more tailored to your needs, your browser must be set to accept cookies before you can place an order at llbean.com. (More on [cookie settings](https://web.archive.org/customerService/shoppingFAQs/shopping/index.html#cookies).)  
  return to top
 
     
@@ -91,7 +91,7 @@ If you provide us with your name and postal address, we may make it available to
 
     
 **Information we do not share with others**     
-L.L.Bean does not share, sell or trade email addresses, information collected as part of a survey, or specific details about you or your household. We do not contribute to or participate in shared or cooperative databases, which give other companies access to your personal information. We do not release credit card or financial information for use by other companies (except in the case of financial information included in the online L.L.Bean® VISA® application, which we provide to MBNA, the issuer and administrator of the program). For both privacy and security purposes, all transactional information communicated between customers and our Web site is transmitted in an encrypted format, and all credit card information is stored in a highly secure computing environment. (See [About Security]() for details.)  
+L.L.Bean does not share, sell or trade email addresses, information collected as part of a survey, or specific details about you or your household. We do not contribute to or participate in shared or cooperative databases, which give other companies access to your personal information. We do not release credit card or financial information for use by other companies (except in the case of financial information included in the online L.L.Bean® VISA® application, which we provide to MBNA, the issuer and administrator of the program). For both privacy and security purposes, all transactional information communicated between customers and our Web site is transmitted in an encrypted format, and all credit card information is stored in a highly secure computing environment. (See [About Security](https://web.archive.org/customerService/security/index.html) for details.)  
  return to top  
 
     
@@ -101,9 +101,9 @@ You may contact us by phone, email or postal mail to:
 ---|---|---  
   
 | •  | Limit the L.L.Bean catalogs you receive  
-| •  | Remove your name from our catalog mailing list  
+  | •  | Remove your name from our catalog mailing list  
   | •  | Remove your name from lists we rent to other direct mail companies  
-| •  | 
+  | •  | 
 
 Update the name and address information we use when we mail you catalogs. (If you're moving, please indicate when your new address will be in effect)  
   
