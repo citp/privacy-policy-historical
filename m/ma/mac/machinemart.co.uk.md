@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606053100id_/http%3A//www.machinemart.co.uk/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011200041id_/http%3A//www.machinemart.co.uk/w3c/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
