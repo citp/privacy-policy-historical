@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171401id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203215903id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
 
 # Melbourne IT
+
+Date: August 2003 
 
 Melbourne IT Ltd (ABN 21 073 716 793)("Melbourne IT") respects your privacy and is committed to the protection of it. 
 
@@ -69,7 +71,12 @@ Melbourne IT is based in Melbourne, Australia, but also has international subsid
 
   * **Third party service providers**
 
-We may supply your personal information to our third party billing and payment service providers where we believe this is reasonably necessary to protect against fraud and credit card misuse. Where you have made a query in respect of a payment processed by Melbourne IT which is made known to us by your bank or credit card company by communicating the query through our bank, we may supply the relevant personal information to assist you with your query. On occasion, we may also engage other companies or individuals to perform services on our behalf such as the distribution of marketing information to you (except where you have chosen to opt out of receiving this information from us). 
+On occasion, we may supply your personal information to third parties to perform services on our behalf, such as the following: 
+
+    * the distribution of marketing information to you (except where you have chosen to opt out of receiving this information from us); 
+    * the supply of datacentre storage and maintenance services for our IT systems and infrastructure (by Australian or overseas providers); 
+    * the supply of credit related services such as credit worthiness, credit provision and credit rating, or bank related services; or 
+    * the supply of billing and payment services. 
 
 Our relationships with such third party service providers are governed by our contracts with them. Those service providers are required to hold your personal information strictly confidential. 
 
@@ -81,7 +88,7 @@ Back to Top
 
 You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. The procedure to do this is explained on the Help Centre on our website at [http://www.inww.com/help](http://www.inww.com/help/). 
 
-If you believe that Melbourne IT may hold other personal information about you which is inaccurate, please contact us by using [this web form](https://web.archive.org/web/20030603171401id_/http://www.melbourneit.com.au/privacy/comment.php) and we will take reasonable steps to ensure that it is corrected. 
+If you believe that Melbourne IT may hold other personal information about you which is inaccurate, please contact us by using [this web form](https://web.archive.org/web/20031203215903id_/http://www.melbourneit.com.au/privacy/comment.php) and we will take reasonable steps to ensure that it is corrected. 
 
 **Security**  
 Back to Top
@@ -102,4 +109,4 @@ Melbourne IT may make changes to its privacy policy from time to time. You shoul
 **Further information or queries**  
 Back to Top
 
-If you have any queries or comments, or would like more information concerning Melbourne IT's privacy policy, please contact us by using [this web form](https://web.archive.org/web/20030603171401id_/http://www.melbourneit.com.au/privacy/comment.php). 
+If you have any queries or comments, or would like more information concerning Melbourne IT's privacy policy, please contact us by using [this web form](https://web.archive.org/web/20031203215903id_/http://www.melbourneit.com.au/privacy/comment.php). 
