@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelnewsresource.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205024300id_/http%3A//www.hotelresource.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelnewsresource.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205125344id_/http%3A//www.hotelresource.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -52,7 +52,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 This site gives users the following options for changing and modifying information previously provided:
 
   1. You can send email to[ support@hotelresource.com](mailto:support@hotelresource.com)
-  2. You can call the following telephone number: 1-888-893-4655
+  2. You can call the following telephone number: 416-385-3518
 
 
 
