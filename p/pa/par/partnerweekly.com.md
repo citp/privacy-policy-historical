@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the partnerweekly.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610173011id_/http%3A//www.partnerweekly.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerweekly.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205082331id_/http%3A//www.partnerweekly.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Best Online Affiliate Programs, Free Web Site Affiliate Marketing Programs, Highest Paying Credit Card, Payday Loan / Cash Advance, Auto Loan, Travel, Dating, & Other Online eCommerce Affiliate Programs for Web Masters.
 
 Privacy Policy
 
-partnerweekly.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.partnerweekly.com 
+PartnerWeekly.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.partnerweekly.com 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
@@ -12,7 +12,7 @@ Our site uses cookies to make sure you don't see the same ad repeatedly, and to 
 
 Our site's registration form requires users to give us contact information and unique identifiers. The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used for other purposes. Unique identifiers (such as social security numbers) are collected for use as account numbers in our record system. 
 
-This site contains links to other sites. **http://www.partnerweekly.com** is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. **[http://www.partnerweekly.com](http://www.partnerweekly.com/)** is not responsible for the privacy practices or the content of such Web sites. 
 
 **Security**
 
@@ -40,5 +40,5 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-Partner Weekly[  
+PartnerWeekly[  
 info@partnerweekly.com](mailto:info@partnerweekly.com) 
