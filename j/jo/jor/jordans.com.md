@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408021058id_/http%3A//www.jordans.com/customer_service/web_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812083353id_/http%3A//jordans.com/customer_service/web_privacy.asp) for the most accurate reproduction.*
 
 # Jordan's Furniture
 
