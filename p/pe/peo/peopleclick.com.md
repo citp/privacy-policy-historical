@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peopleclick.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604152621id_/http%3A//www.peopleclick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleclick.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132345id_/http%3A//www.peopleclick.com/privacy) for the most accurate reproduction.*
 
-# Peopleclick's Privacy Policies
+# Staffing management solutions, affirmative action software, and contingent workforce management at Peopleclick
 
   * **Who is the organization collecting the information?**
   * **What personally identifiable information is collected and methods of collection?**
