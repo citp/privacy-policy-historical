@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handango.com privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612235022id_/http%3A//www.handango.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handango.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815064022id_/http%3A//www.handango.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Handango! The Internet's number one market place for handheld computing!
 
