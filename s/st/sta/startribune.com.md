@@ -1,19 +1,12 @@
-> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203010630id_/http%3A//www.startribune.com/stories/776/40762.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413055435id_/http%3A//www0.startribune.com/stories/776/40762.html) for the most accurate reproduction.*
 
 # Privacy policy for startribune.com
 
-|  | [](http://www.startribune.com/stories/776)
-
-**index**
-
-|  | 
-
-Privacy policy for startribune.com
-
-|   
+Privacy policy for startribune.com  
+  
 ---  
   
-Published May 3, 2002
+Published January 13, 2003
 
 | 
 
@@ -71,8 +64,6 @@ An example of an instance in which we sought parental consent to collect user da
 Startribune.com will not knowingly disclose personal information about users under the age of 13 without prior parental consent, except as required by law. If for any reason you wish to access, update or remove information about your child that has been previous provided to startribune.com, you may fax us (at 612-673-4840), call us (at 612-673-9022) or send an e-mail to [feedback@startribune.com](mailto:feedback@startribune.com).
 
 Startribune.com strongly recommends parental supervision when a child uses the Internet, particularly when a child enters a forum or uses e-mail. We also encourage parents to instruct their children not to give out personal information in these areas.
-
-Homework Help is a service of startribune.com that provides assistance from teachers and others to children of all ages in preparing homework assignments. To use this service, children must enter a zip code and grade level, but nothing that can personally identify the child. We request the zip code so that we know, in the aggregate, where our Homework Help users live. Because no personally identifying information is requested, we do not ask for parental permission for a child to use this service. Children are not required to register or provide any personal identification in order to use this service, and Wwe strongly discourage the inclusion by a minor of his or her name or e-mail address in postings to Homework Help. When our system administrators encounter names or e-mail addresses of minors in postings to the Homework Help service, that information is those e-mail addresses are deleted. The Star Tribune expects minors to follow our User Agreement and Operating Policies. Any posted material deemed unacceptable will be deleted.
 
 **
 
@@ -180,7 +171,3 @@ In the event of the sale or merger of The Star Tribune Company and/or The McClat
 Startribune.com endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached at startribune.com, 425 Portland Ave., Minneapolis, MN 55488, at (612) 673-9022 or at [feedback@startribune.com](mailto:feedback@startribune.com)
 
 _Updated May 3, 2002._
-
-|  |  |   
----|---  
-| 
