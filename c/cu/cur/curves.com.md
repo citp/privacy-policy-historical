@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2003-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030611052447id_/http%3A//curves.com/f_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001170450id_/http%3A//curves.com/f_privacy.htm) for the most accurate reproduction.*
 
 # Curves.com - woman's clothing brand name fashions designer womens wear the invisible breast enhancerNew Page 1
 
