@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209093730id_/http%3A//prowrestling.com/index.php%3Fsection%3Dother%26id%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603194024id_/http%3A//www.prowrestling.com/index.php%3Fsection%3Dother%26id%3Dprivacy) for the most accurate reproduction.*
 
 # ProWrestling.com - #1 Wrestling Website in the World!
 
