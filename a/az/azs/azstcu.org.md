@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azstcu.org privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605063926id_/http%3A//azstcu.org/disclosure.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstcu.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205221353id_/http%3A//www.azstcu.org/disclosure.htm) for the most accurate reproduction.*
 
 # Home
 
