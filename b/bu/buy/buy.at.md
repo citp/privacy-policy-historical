@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buy.at privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620133514id_/http%3A//rename.net/b.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buy.at privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204075700id_/http%3A//www.rename.net/b.php3) for the most accurate reproduction.*
 
 # Free web redirection to free websites from austrian domains
 
