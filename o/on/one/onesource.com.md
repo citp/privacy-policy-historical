@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesource.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404101533id_/http%3A//onesource.com/about/content_182.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesource.com privacy policy that was archived on 2004-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041115014242id_/http%3A//onesource.com/about/content_182.asp) for the most accurate reproduction.*
 
 # :: OneSource : About :
 
@@ -50,5 +50,5 @@ OneSource Information Services, Inc. is providing this privacy statement to you 
 
 The OneSource Privacy Statement was last updated 22 April 2003.
 
-© 2003 OneSource Information Services, Inc. All Rights Reserved.   
+© 2003-4 OneSource Information Services, Inc. All Rights Reserved.   
 
