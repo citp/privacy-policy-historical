@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209093208id_/http%3A//www.charity-commission.gov.uk/common/copyright.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416141951id_/http%3A//www.charity-commission.gov.uk/common/copyright.asp) for the most accurate reproduction.*
 
 # COPYRIGHT STATEMENT
 
-[**       Text only version**](https://web.archive.org/common/copyright.asp?text=TRUE)
+   [ **Text only version**](https://web.archive.org/common/copyright.asp?text=TRUE)
 
 © Crown copyright 2001
 
