@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lassodevelopment.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611204735id_/http%3A//lassodevelopment.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lassodevelopment.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017225437id_/http%3A//www.lassodevelopment.com/privacy.htm) for the most accurate reproduction.*
 
 # Lasso Development Privacy Statement
 
