@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edvisors.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207091926id_/http%3A//www.edvisors.com/cgi/page.cgi%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edvisors.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605183037id_/http%3A//www.edvisors.com/cgi/page.cgi%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Edvisors Network: Privacy
 
@@ -10,8 +10,7 @@ We invite you to contact us if you have questions about this policy. You may con
     
     
     The Edvisors Network
-    67 Coddington Street
-    Suite 201
+    15 Cottage Avenue, Fifth Floor
     Quincy, MA 02169 
     United States of America
     
