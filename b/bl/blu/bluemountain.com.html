@@ -1,510 +1,412 @@
-<!--The following is the downloaded HTML source of the bluemountain.com privacy policy that was archived on 2001-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011204001511id_/http%3A//www.bluemountain.com/home/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluemountain.com privacy policy that was archived on 2002-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021117121823id_/http%3A//www.bluemountain.com/warrants.pd) for the most accurate reproduction.-->
 
-<html><head>
-	<title>Blue Mountain Privacy Policy</title>
-<script language="JavaScript1.1" src="/ab/js/popup.js"></script>
-<script language="JavaScript1.1" src="/ab/js/card_mult.js"></script>
-</head>
-<body bgcolor="#FFFFFF" link="#000033" vlink="#333399">
-<a href="#" name="top"></a>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<meta name="agmips" content="1.222822">
+ 
+<title>BlueMountain.com- Privacy Policy</title>
+ <script language="JavaScript">
+<!-- HIDE FROM OLD BROWSERS
 
-<table border="0" cellpadding="2" cellspacing="5" width="700">
+glbStdFeatures = "width=400,height=320,resizable=yes,scrollbars=yes,toolbar=no";
+glbStdFeaturesExcSize = "resizable=yes,scrollbars=yes,toolbar=no";
+
+var newwin;
+
+function encodePurl(purl){
+  purl=purl.replace(/http:\/\//,"");
+  purl=purl.replace(/\&/g,"|");
+  purl=purl.replace(/\?/g,"_");
+  purl=purl.replace(/\=/g,":");
+  purl=purl.replace(/\+/g,"%20");
+  purl=purl.replace(/#.*$/,"");  
+  purl=purl.replace(/%(\d+)/g,"perc$1");
+  return purl;
+}
+
+function decodePurl(purl){
+  purl=purl.replace(/\|/g,"&");
+  purl=purl.replace(/_/g,"?");
+  purl=purl.replace(/:/g,"=");
+  purl=purl.replace(/perc(\d+)/g,"%$1");
+  purl=purl.replace(/\/popup\/signin\.pd/,"/index.pd");
+  purl=purl.replace(/\/popup\/signout\.pd/,"/index.pd");
+  if(purl){
+    purl="http://"+purl;
+  }
+  return purl;
+}
+
+
+function setMyFocus()
+{
+// Keep subscription popup window on top.
+  if (newwin && !newwin.closed) 
+  {
+    newwin.focus(); 
+  }
+// Keep gift partner popup window on top.
+  else if (typeof(popupWindow)!="undefined" && !popupWindow.closed) 
+  {
+    popupWindow.focus(); 
+  } 
+}
+
+//Join Now
+function openJoin(url, purl, width, height, windowname) { 
+  if(!purl) {
+    purl=window.location.href;
+  }
+  if(!width) {
+    width='300';
+  }
+  if(!height) {
+    height='320';
+  }
+  if(!windowname) {
+    windowname = "joinwin";
+  }
+  purl=encodePurl(purl);
+  if(url.indexOf("ostatus") >= 0){    
+    url=url.replace(/ostatus/,"purl="+purl+"&ostatus");
+  }else{
+    url+="&purl="+purl;
+  }
+  pageindex = -1;
+  questionindex = -1;
+  questionindex = url.indexOf("?");
+  if (url.indexOf("offer.pd")>0) {pageindex = url.indexOf("offer.pd")}
+  else if (url.indexOf("announce.pd")>0) {pageindex = url.indexOf("announce.pd")}
+  else if (url.indexOf("marketingpop.pd")>0) {pageindex = url.indexOf("marketingpop.pd")}
+
+  if(pageindex < questionindex){
+    newwin = window.open(url,windowname,"height="+height+",width="+width+",resizable=no,scrollbars=no,status=no");
+    newwin.focus();
+  }else{
+    window.document.location.href=url;
+  }
+}
+
+//THESE WERE HARCODED ON INDEX PAGE
+function openTips()
+ {
+  aWindow=window.open("/popup/search.html","SearchTips","height=320,width=400,scrollbars=yes,status=yes");
+  aWindow.focus();
+}
+// registration popup
+function openRegisterPop()
+  {
+  aWindow=window.open("/popup/register.html", "RegisterToday",
+    glbStdFeatures);
+  aWindow.focus();
+    }
+// signin popup
+function openSignInPop()
+{
+  var url = "/popup/signin.pd?refresh=1";
+  openJoin(url);
+}
+// signout popup
+function openSignOutPop()
+{
+  var url = "/popup/signout.pd?popup=1";
+  openJoin(url);
+}
+// Flooz stuff
+function openPopup(pageUrl)
+{
+aWindow=window.open("/"+pageUrl, "thewindow",glbStdFeatures);
+  aWindow.focus();
+}
+// Offer Popup
+function openOfferPop(host) {
+  var url = "/popup/offer.pd?";
+  if(host) {
+    url = host + url;
+  }
+  openJoin(url);  
+}
+
+//THIS WAS IN POPUP.JS
+function loadParent(url){
+  if(window.opener.closed == false){
+    window.opener.location.href = url;
+    window.close();  
+  }else{
+    newwin = window.open(url,"","resizable=yes,scrollbars=yes,status=yes,location=yes,toolbar=yes,menubar=yes");
+    newwin.focus();
+    window.close();
+  }
+}
+
+//THIS WAS IN MEMBERS
+function showLogin(strHost)
+{
+  //var url = "/popup/signin.pd?refresh=1";
+  var url = "/popup/offer.pd?"
+  openJoin(url);
+}
+
+function showLoginUpdate(strHost) {
+        var url = "/popup/offer.pd?";
+        openJoin(url);
+	//winLogin = window.open(strHost + "/popup/offer.pd", "SignIn",
+	//	    glbStdFeatures);
+	//winLogin.focus();
+     }
+
+function showLoginWithVars(strHost, strVars) {
+    var url = "/popup/offer.pd?";
+    if(strHost) {
+      url = strHost + url;
+    }
+    openJoin(url);  
+    //strVarsA = ""
+    //if (strVars) {
+    //    strVarsA = "&"+strVars
+    //}
+//	winLogin = window.open(strHost + "/popup/offer.pd?refresh=1" + strVarsA,
+//		    "SignIn", glbNonStdFeatures);
+//	winLogin.focus();
+     }
+
+function Go(host, value) {
+  var strUrl =  host + value + ".pd";
+  window.self.location.protocol = "http";
+  window.self.location.href = strUrl;
+}
+
+//REMOVED MEMBERS SIGNOUT POPUP SCRIPT THAT WAS HERE IN MEMBERS.JS
+
+function checkRegistration(strHost, mstatus, func) {
+  if(mstatus == "PAID" || mstatus == "PAIDFORGET" || mstatus == "PAIDSUB" || mstatus == "PAIDSUBFORGET" || mstatus == "FREE" || mstatus == "FORGET"){
+    //  user is registered, call passed-in function
+    func();
+  }else{
+    //  open registration pop-up
+    showLogin(strHost)
+  }  
+  
+  
+          
+}
+  
+function OpenNewWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'descr','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)}
+
+function OpenNewKitWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'kit','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)}
+
+// NO MORE HIDING -->
+</script>
+ 
+ 
+<style type="text/css">
+.spcr {font-family: arial; font-size: 8px;}
+.text {font-family: verdana; font-size: 11px;}
+.header {font-family: verdana; font-size: 15px; font-weight:bold;}
+a.text, a.text:visited, a.text:active { font-weight: normal; font-size: 11px;
+font-family: verdana, Arial, Helvetica, sans-serif }
+.thumbs {font-family: verdana; font-size: 11px;}
+a.thumbs, a.thumbs:visited, a.thumbs:active { font-weight: normal; font-size: 11px;
+font-family: verdana, Arial, Helvetica, sans-serif}
+.more {font-family: verdana; font-size: 10px;}
+.sisuText {font-family: verdana; font-size: 10px; font-weight:bold;}
+.sisuText2 {font-family: verdana; font-size: 11px; font-weight:bold;}
+.celText {font-family: arial; font-size: 13px; font-weight:bold;}
+.text2 {font-family: verdana; font-size: 10px;}
+.tools {font-family: verdana; font-size: 10px;}
+.uber {font-family: verdana; font-size: 12px;}
+.bread, a.bread, a.bread:visited, a.bread:active { color: #000066; font-weight: bold; font-size: 10px; font-family: verdana,Arial,Helvetica,sans-serif; }
+</style> 
+</head> 
+ 
+<body bgcolor="#FEFDEF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#333399" vlink="#333399"> 
+<a name="top"></a> 
+<center> 
+<table border="0" cellpadding="0" cellspacing="0" width="770">
 <tbody><tr>
-  <td align="center" valign="top">
-      <a href="/"><img src="/globalgifs/BMA_logos/BMA_FFFFFF.gif" width="197" height="53" border="0" alt="Blue Mountain">
-</a> 
-  </td>
-  <td align="center">
-    <font face="verdana, arial, sans-serif" size="3"><b>BLUE MOUNTAIN <sup>sm</sup> PRIVACY POLICY</b></font><br>
-    <font face="arial, sans-serif" size="1">an AmericanGreetings.com company</font>
-  </td>
+  <td width="194" align="center"><a href="http://www.bluemountain.com/index.pd"><img src="http://www.bluemountain.com/img/bma/header/bma_logo.gif" width="194" height="71" alt="Blue Mountain" border="0"></a></td>
+  <td width="52" align="center"><a href="http://www.bluemountain.com/members/signin.pd?referer="><img src="http://www.bluemountain.com/img/bma/header/b_signin.gif" width="52" height="20" alt="sign in" border="0"></a><br><a href="javascript:openJoin('http://ads.adsag.com/html.ng/adsize=text&amp;page=join&amp;site=bma&amp;ahost=http://www.bluemountain.com&amp;params.styles=MKTjoin&amp;partner=vanilla', '')"><img src="http://www.bluemountain.com/img/bma/header/b_join.gif" width="52" height="20" alt="join" border="0"></a></td>
+  <td width="524" align="center"><iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=468x60&amp;channel=og&amp;page=warrants.pd&amp;memstat=afu&amp;site=bma&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE="JavaScript" SRC="http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=468x60&channel=og&page=warrants.pd&memstat=afu&site=bma&cat=DFLT&subcat=DFLT&product="></SCRIPT><NOSCRIPT><A HREF="http://ads.adsag.com/click.ng/Params.richmedia=yes&adsize=468x60&channel=og&page=warrants.pd&memstat=afu&site=bma&cat=DFLT&subcat=DFLT&product=" target="_blank"><IMG SRC="http://ads.adsag.com/image.ng/Params.richmedia=yes&adsize=468x60&channel=og&page=warrants.pd&memstat=afu&site=bma&cat=DFLT&subcat=DFLT&product="></A></NOSCRIPT></iframe></td>
+  <td>&nbsp;</td>
 </tr>
 </tbody></table>
-
-<table border="0" cellpadding="2" cellspacing="5" width="700">
+<table border="0" cellpadding="0" cellspacing="0" width="770">
 <tbody><tr>
-  <td width="200" valign="top">
-  
-  <table border="0" cellpaddding="2" cellspacing="1" width="100%">
-  <tbody><tr>
-    <td bgcolor="#1C4D7F"><img src="/globalgifs/1pix.gif" width="5" height="2"></td>
-  </tr>
-  <tr>
-    <td bgcolor="#96B6D7"><font face="verdana, sans-serif" size="1">&nbsp;<b><a href="#generalMatters">GENERAL MATTERS</a></b></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#overview">overview</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#scope">scope of policy</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#96B6D7"><font face="verdana, sans-serif" size="1">&nbsp;<b><a href="#aboutYou">INFORMATION ABOUT YOU</a></b></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#fromVisitors">gathered from all visitors</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#fromMembers">gathered from members</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#96B6D7"><font face="verdana, sans-serif" size="1">&nbsp;<b><a href="#personalInfo">USES OF PERSONAL INFO</a></b></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#cardPrivacy">privacy of greeting card info</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#disclosureExceptions">disclosure exceptions</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#96B6D7"><font face="verdana, sans-serif" size="1">&nbsp;<b><a href="#infoControl">CONTROL OF PERSONAL INFO</a></b></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#optOut">opt-out/changing status</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#editProfile">edit profile</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#96B6D7"><font face="verdana, sans-serif" size="1">&nbsp;<b><a href="#otherMatters">OTHER MATTERS</a></b></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#children">Protection For Children</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#contests">Contests and Promotions</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#sale">Sale of Assets</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#security">Data Security</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#C7D7E8"><font face="verdana, sans-serif" size="1">&nbsp;·&nbsp;<a href="#changes">Changes to the Privacy Policy</a></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#96B6D7"><font face="verdana, sans-serif" size="1">&nbsp;<b><a href="#commonSense">YOUR ONLINE ACTIVITIES</a></b></font></td>
-  </tr>
-  <tr>
-    <td bgcolor="#1C4D7F"><img src="/globalgifs/1pix.gif" width="5" height="2"></td>
-  </tr>
-  </tbody></table>  
-  
-  </td>
-  <td width="500">
-  
-  <table border="0" cellpadding="1" cellspacing="1" width="100%">
-  <tbody><tr bgcolor="#96B6D7">
-    <td width="85%">
-      <font face="verdana, sans-serif" size="2"><a href="#" name="generalMatters"></a><b>GENERAL MATTERS</b></font>
-    </td>
-    <td width="15%" align="center" bgcolor="#C7D7E8">
-      <font face="arial, sans-serif" size="1"><a href="#top">back to top</a></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><font face="verdana, sans-serif" size="1"><a href="#" name="overview"></a><b>Overview</b></font></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">At Blue Mountain, protecting our users' privacy and security is a top priority.  For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online.  This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.</font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2"><font face="verdana, sans-serif" size="1"><a href="#" name="scope"></a><b>Scope of Policy</b></font></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">This Policy applies to Blue Mountain, a member of the AmericanGreetings.com ("AG") network of sites.  It does not apply to other companies' or organizations' web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information.</font>  
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  </tbody></table>
-  
-  <table border="0" cellpadding="1" cellspacing="1" width="100%">
-  <tbody><tr bgcolor="#96B6D7">
-    <td width="85%">
-      <font face="verdana, sans-serif" size="2"><a href="#" name="aboutYou"></a><b>INFORMATION ABOUT YOU</b></font>
-    </td>
-    <td width="15%" align="center" bgcolor="#C7D7E8">
-      <font face="arial, sans-serif" size="1"><a href="#top">back to top</a></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><font face="verdana, sans-serif" size="1"><a href="#" name="fromVisitors"></a><b>Information Gathered From All Visitors</b></font></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">
-      <ul>
-        <li><i>Aggregate Data:</i><br>
-        We gather certain generic information with respect to customers' use of our web site, such as the number of unique visitors, the frequency with which they visit, and the areas on the web site that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program.  We only use this type of data in aggregate - that is, we look at the data on a collective basis, in summary form, rather than on an individual basis.  This data helps us determine the extent to which our customers use certain parts of our web site, which, in turn, enables us to make it as appealing as possible.  We may also provide statistical "ratings" about how our customers collectively use our web site to advertisers, sponsors, and other companies with which we do business ("Business Partners"). We do this so they, too, can understand how often people use their areas of the site in order for them to provide you with the best possible experience.  These statistical ratings do not contain any personally identifiable information about you or any of our users.
-      </li></ul>
-      </font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">
-      <ul>
-        <li><i>Cookies:</i><br>
-        We use a technology nicknamed "cookies" on our web site.  Cookies are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes.  We use cookies to make your visit to our web site easier.  For example, cookies allow us to recognize you when you re-enter our web site so that you will not have to sign-in each time you visit.  Cookies also allow us to count the number of unique and return visitors who use our site.
-        <p>
-        Most browsers are initially set up to accept cookies.  If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies.  It is important to note that you may not be able to use certain features on our web site if you choose not to accept cookies, such as the address book or reminders . In addition, you will not be able to participate in any of our sweepstakes, contests or monthly drawings. Cookies can also enable us to track and target the interests of our users to enhance their experience on our site.
-      </p></li></ul>
-      </font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">
-      <ul>
-        <li><i>Third Party Advertiser Cookies:</i><br>
-        We also use third-party advertising companies to serve our ads on the Internet.  These third-party advertising companies employ cookie and Clear Gif technology (aka 1x1 Pixel .gifs, Web bugs) to measure and improve the effectiveness of ads for their clients.  To do so, these companies may use anonymous information about your visits to our Web site and other Web sites.  This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address.  This information can also be used for online preference marketing purposes.  Blue Mountain does not use or have access to this information.
-        <p>
-        If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the web site of the National Advertising Initiative ("NAI") to opt-out of all network advertising cookies.  <a href="http://www.networkadvertising.org/optout_nonppii.asp">Click here</a> for the NAI gateway opt-out site.  This site will also allow you to review the third-party advertising companies' privacy policies.
-      </p></li></ul>
-      </font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">
-      <ul>
-        <li><i>IP Addresses:</i><br>
-        We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors.  An IP address is a unique number assigned to your computer when you are using your browser on the Internet.  We log this information so that we can monitor things like the number of visitors visiting the web site; however, we do not link your IP address to any personally identifying information.
-      </li></ul>
-      </font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">
-      <ul>
-        <li><i>When You Send A Greeting:</i><br>
-        If you use our web sites to send an online greeting or any other content, we collect your e-mail address and your recipient's e-mail address.  This information is necessary to send the content and provide confirmation that it has been received.  We may also use your e-mail address to contact you if you have chosen to receive communications from Blue Mountain, AG or its Partners.  (See Opt-Out/Changing Your Status, below).
-      </li></ul>
-      </font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">
-      <ul>
-        <li><i>Personalizing Your Experience on the Web Site:</i><br>
-        We try to personalize your experience on our web sites by tracking greetings and other content you have sent and gifts you have purchased in order to shape our recommendations about the greetings, cards, gifts, and other goods and services that might be of interest to you. We also examine customer traffic patterns and web site usage to help us enhance the design and layout of the site and make it easier to navigate.
-        <p>
-        From time to time, we may send you surveys or solicit your feedback.  We use surveys to gauge user interest in new products and premiums we may offer.  We will ask for your feedback on greetings and other site features.  We will use the information we gather to improve our sites and provide a more meaningful experience for our users.  We may also use the information to alert you to offers and products in which you have expressed an interest.
-      </p></li></ul>
-      </font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">
-      <ul>
-        <li><i>Subscribing to a Newsletter:</i><br>
-        We send to interested users an exclusive  Blue Mountain Newsletter, which alerts you to new features, content, and services, premiums available on our web sites.  From time to time, we will also send you invitations to enhance your Blue Mountain membership.  These communications are sent to you directly by Blue Mountain.  We do not share your personally identifiable information with any third parties in connection with the Newsletter.
-        <p>
-        You can always decline the Newsletter by un-checking the opt-out box on the "Personalize Your Greeting" pages or registration pages on our site.  If you are already receiving the Newsletter and you want to unsubscribe, you can simply follow the "unsubscribe" links at the bottom of each edition.  For other ways to unsubscribe, see Opt-Out/Changing Your Status, below.
-      </p></li></ul>
-      </font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">
-      <ul>
-        <li><i>Offers from Our Business Partners:</i><br>
-        Blue Mountain also offers you the opportunity to receive money-saving offers, discounts, and promotions from our Business Partners.  These communications may come from Blue Mountain or directly from the Partners themselves.  We may also share with them certain demographic, geographic, preference, and other personally identifiable information we have gathered about you.  This will help them in directing to you offers that are more likely to be of interest.
-        <p>
-        This program is conducted strictly on an opt-in basis.  In order to receive the offers, you must affirmatively check the clearly marked box on our "Personalize Your Greeting" pages and registration pages on our site.  If you leave the box unchecked, you will not receive any offers.  If you do sign up for the program but later change your mind, you are free at any time to opt-out by following the procedures outlined in Opt-Out/Changing Your Status, below.
-      </p></li></ul>
-      </font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2"><font face="verdana, sans-serif" size="1"><a href="#" name="fromMembers"></a><b>Information Gathered From Members</b></font></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">If you elect to become a registered member of Blue Mountain, you will be required to provide us with certain contact information.  As a registered free member, you will need to provide your name, e-mail address, zip code, country, gender and e-mail format (this information is subject to change from time to time).  Our registration process also allows you to provide us with additional information regarding your preferences and interests. This information, however, is not required for membership and is completely optional on your part.  All information requested from you during the registration process is clearly labeled as "required" or "optional," as applicable.
-      <p>
-      Additional data may be collected from members based upon certain services the member elects to utilize on our web site.  For example, we may track the categories of greetings you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners.  Members may register for the Blue Mountain reminder service, which sends free e-mail alerts to track important dates that you specify.  The address book allows members to conveniently store and insert addresses directly into their greetings.  By obtaining this information, we can provide our members with specific content and advertising in which they might be interested.  None of this information is required to use our service or to become a member; however, the omission of certain types of data will limit the value of becoming a member of Blue Mountain.
-      </p></font><p><font face="verdana, sans-serif" size="1">
-      If you register to become a member of Blue Mountain from one of our co-branded sites, such as Excite@Home, Blue Mountain may share your registration information with the co-branded partner.  In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted on the site.</font>
-    </p></td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  </tbody></table>
-  
-  <table border="0" cellpadding="1" cellspacing="1" width="100%">
-  <tbody><tr bgcolor="#96B6D7">
-    <td width="85%">
-      <font face="verdana, sans-serif" size="2"><a href="#" name="personalInfo"></a><b>USES OF PERSONAL INFORMATION</b></font>
-    </td>
-    <td width="15%" align="center" bgcolor="#C7D7E8">
-      <font face="arial, sans-serif" size="1"><a href="#top">back to top</a></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">If you have provided us your consent, we will use the information we have collected about you in five ways:
-      <ol>
-        <li>To send personalized, targeted information that we think our users will find relevant, either from Blue Mountain, AG, or directly from their Business Partners;
-        </li><li>To include targeted advertising within such messages;
-        </li><li>To send promotions and coupons based on the user's interests;
-        </li><li>To contact the user for feedback and surveys; and
-        </li><li>To send the user other information about Blue Mountain or AG.
-      </li></ol>
-      These communications may come via e-mail, postal mail, or telephone.</font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">
-      <ul>
-        <li><i>On-Site Advertising</i><br>
-        Blue Mountain may also use information about you to target advertising while you are visiting our sites.  For example, we may serve ads from toy companies to users searching the Kids Birthday Greeting pages.  We may also use geographic or other information we have collected from you to make sure that the ads you see are for goods and services that are actually of interest to you or are available in your area.  We may use cookie files to assure that you will not be served the same ads repeatedly.
-      </li></ul>
-      </font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">
-      <ul>
-        <li><i>Order Fulfillment</i><br>
-        From time to time, you may be given the opportunity to order products and services directly on the Blue Mountain sites, the Newsletters, or in other communications you may receive from Blue Mountain.  These orders are typically fulfilled by our Business Partners directly.  To process your order, Blue Mountain may provide these Partners with your name, street address, e-mail address, phone number, and credit card information.  Blue Mountain will limit the types of information shared to the minimum necessary to efficiently process your order.  However, in accepting these offers, you become a customer of the Business Partner and therefore subject to its privacy policy.  Blue Mountain will alert users whenever a Business Partner will be fulfilling an order for products or services ordered on our site.  We encourage you to review these companies' privacy policies and only do business with those who adhere to personal information practices with which you are comfortable.
-      </li></ul>
-      </font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2"><font face="verdana, sans-serif" size="1"><a href="#" name="cardPrivacy"></a><b>Privacy of Greeting Card Information</b></font></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1"><i>We treat all of our greetings products as private correspondence between the sender and the recipient and will not disclose the contents of any greeting other than to the intended recipient, except under the specific situations outlined in Disclosure Exceptions, below.</i>
-      </font><p><font face="verdana, sans-serif" size="1">
-      This policy applies to all aspects of our greetings, including your personalized messages.  Under normal circumstances, we will not monitor or edit the contents of the online greetings you send.  On occasion, however, we may need to view your message in connection with the technical processing of your greeting or the maintenance of our network.  Also, if you ask one of our customer service representatives to help you send a greeting or to verify that a greeting was sent, that representative will be able to access all information about the card, including the recipient's e-mail address and the message.</font>
-    </p></td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2"><font face="verdana, sans-serif" size="1"><a href="#" name="disclosureExceptions"></a><b>Disclosure Exceptions</b></font></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third-parties if we are required to do so by law or we believe that such action is necessary:
-      <ul>
-        <li>To comply with legal process such as a search warrant, subpoena or court order;
-        </li><li>To protect the company's rights and property;
-        </li><li>To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;
-        </li><li>To protect against misuse or unauthorized use of our web site and/or the Blue Mountain service; or
-        </li><li>During emergencies, such as when we believe someone's physical safety is at risk.
-      </li></ul>
-      </font>
-    </td>
-  </tr>
-  </tbody></table>
-  
-  <table border="0" cellpadding="1" cellspacing="1" width="100%">
-  <tbody><tr bgcolor="#96B6D7">
-    <td width="85%">
-      <font face="verdana, sans-serif" size="2"><a href="#" name="infoControl"></a><b>YOUR CONTROL OVER YOUR PERSONAL INFORMATION</b></font>
-    </td>
-    <td width="15%" align="center" bgcolor="#C7D7E8">
-      <font face="arial, sans-serif" size="1"><a href="#top">back to top</a></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1"><a href="#" name="optOut"></a><b>Opt-Out/Changing Your Status</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">At any time, you can change choices you have previously made as to the use of your personal information.  Every communication Blue Mountain sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings.   Alternatively, you can send a blank e-mail to <a href="mailto:nomail@mail.americangreetings.com">nomail@mail.americangreetings.com</a> and type "Remove" in the subject field.  This system is automated and must be contacted from the email address you wish to have removed.  Permission changes will be honored as soon as technically feasible, usually about 7-14 days after receipt.  They will however not affect any information which you provided to us and which we previously shared with our Business Partners.</font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1"><a href="#" name="editProfile"></a><b>Editing Your Profile</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">If you are a registered member, you have the ability to review and correct your personally identifiable information at any time.  Simply log into the "Member Services Page" area of the site and follow the links to "Update Profile."</font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  </tbody></table>
-  
-  <table border="0" cellpadding="1" cellspacing="1" width="100%">
-  <tbody><tr bgcolor="#96B6D7">
-    <td width="85%">
-      <font face="verdana, sans-serif" size="2"><a href="#" name="otherMatters"></a><b>OTHER MATTERS</b></font>
-    </td>
-    <td width="15%" align="center" bgcolor="#C7D7E8">
-      <font face="arial, sans-serif" size="1"><a href="#top">back to top</a></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1"><a href="#" name="children"></a><b>Protection For Children - COPPA Compliance</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">We are committed to protecting the privacy and rights of children online.  We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information.  To that end, we have made it our policy to not collect any individually identifiable information from users whom we know are under the age of 13.  Our registration process blocks the registration of users under 13 years old and will automatically delete all individually identifiable information collected from such users.
-      </font><p><font face="verdana, sans-serif" size="1">
-      The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children.  To learn more about COPPA, visit the Federal Trade Commission <a href="http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html">COPPA Web Site</a>.</font>
-    </p></td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1"><a href="#" name="contests"></a><b>Contests and Promotions</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">Occasionally, Blue Mountain may sponsor contests and/or promotions on our sites or in our e-mail products.  Participation in such contests is purely voluntary.  In order to enter a contest or promotion, you may be asked to provide personally identifiable information.  By entering, you agree to all of its terms and conditions, which will be clearly outlined in the rules.  Where a contest or promotion is not sponsored by Blue Mountain, the identity of the sponsor will be clearly disclosed in the rules.  Neither Blue Mountain nor its affiliates can be responsible for actions or policies of third-party contest sponsors.  Users are encouraged to review the relevant privacy policy of the sponsor before entering.</font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1"><a href="#" name="sale"></a><b>Sale of Assets</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">In the event that Blue Mountain and/or its affiliates or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third-party acquiring Blue Mountain's assets.  In the event we do so, we will place a prominent notice of the sale on the homepage of  our site, with links to information as to how you can change your privacy preferences.</font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1"><a href="#" name="security"></a><b>Data Security</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">When you place orders for purchased products or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties.  While on a secure page, such as our registration form, a lock or key icon appears on the bottom of your web browser.
-      <p>
-      In addition to our online security efforts, we take steps to protect your personal data offline, as well.  All of your information, not just the sensitive information mentioned above, is restricted in our offices.  Employees are granted access on a need-to-know basis (for example, our billing clerk or a customer service representative). Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind a locked cage.
-      </p></font><p><font face="verdana, sans-serif" size="1">Blue Mountain's main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms. If you have any questions about the security at our website, you can send an email to <a href="mailto:security@ag.com">security@ag.com</a>.</font>
-    </p></td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1"><a href="#" name="changes"></a><b>Changes to the Privacy Policy</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <font face="verdana, sans-serif" size="1">Blue Mountain will occasionally update this Privacy Policy in response to changing business circumstances and legal developments.  When Blue Mountain posts changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of Blue Mountain sites.  If there are material changes to this Policy or in how Blue Mountain uses your personally identifiable information, Blue Mountain will prominently post such changes prior to implementing the change. Blue Mountain encourages you to periodically review this Policy to be informed of how we are protecting your information.</font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  </tbody></table>
-  
-  <table border="0" cellpadding="1" cellspacing="1" width="100%">
-  <tbody><tr bgcolor="#96B6D7">
-    <td width="85%">
-      <font face="verdana, sans-serif" size="2"><a href="#" name="commonSense"></a><b>USE COMMON SENSE IN ALL YOUR ONLINE ACTIVITIES</b></font>
-    </td>
-    <td width="15%" align="center" bgcolor="#C7D7E8">
-      <font face="arial, sans-serif" size="1"><a href="#top">back to top</a></font>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-    <font face="verdana, sans-serif" size="1">Even the best policy can't protect your online privacy and security in all circumstances.  Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets.  Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your on-line activities.
-    <p>
-    Be aware that e-mail is an inherently insecure form of communication.  Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings.
-    </p><p>
-    Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam).  Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so.
-    </p><p>
-    Beware of scams in which persons unknown to you request your screen name, password, or credit card information.  Make sure you verify the identity of anyone asking for personal information.
-    </p><p>
-    Always monitor your children's on-line activities and educate them as to the rules for safe Internet use.  For more information, visit the Internet Education Foundation's <a href="http://www.getnetwise.org/">Online Safety Guide for Kids</a>.
-    </p></font><p><font face="verdana, sans-serif" size="1">
-    If  you have any questions about the privacy policy, please feel free to contact us at <a href="mailto:customerservice@ag.com">customerservice@ag.com</a>.<br></font>
-    </p></td>
-  </tr>
-  </tbody></table>
-  
-  </td>
+  <td width="3"><img src="http://www.bluemountain.com/img/bma/header/tab_spacer.gif" width="3" height="34"></td>
+  <td width="79"><a href="http://www.bluemountain.com/index.pd"><img src="http://www.bluemountain.com/img/bma/header/tab_ecards_up.gif" width="79" height="34" alt="eCards" border="0"></a></td>
+  <td width="79"><a href="http://www.bluemountain.com/giftcenter.pd"><img src="http://www.bluemountain.com/img/bma/header/tab_gift_dn.gif" width="79" height="34" alt="Gift Center" border="0"></a></td>
+  <td width="79"><a href="http://www.bluemountain.com/whatsnew.pd"><img src="http://www.bluemountain.com/img/bma/header/tab_new_dn.gif" width="79" height="34" alt="What's New" border="0"></a></td>
+ 
+<td width="476"><img src="http://www.bluemountain.com/img/bma/header/tab_spacer.gif" width="476" height="34"></td>
+  <td align="right"><a href="http://www.bluemountain.com/customer/index.pd"><img src="http://www.bluemountain.com/img/bma/header/tab_help.gif" width="54" height="34" alt="Help" border="0"></a></td>
 </tr>
-</tbody></table><br>
-
-
-
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="770">
+<tbody><tr bgcolor="#E5E5E5">
+  <td width="1" bgcolor="#CCCCCC" rowspan="2"><img src="http://www.bluemountain.com/img/bma/space.gif" width="1" height="18"></td>
+  <td align="center"><font face="verdana" size="1"><b>member benefits:</b>&nbsp;</font><font face="arial" size="1">&nbsp;[ <a href="javascript:openOfferPop();">My Profile</a> | <a href="javascript:openOfferPop();">Address Book</a> | <a href="javascript:openOfferPop();">Reminders</a> | <a href="javascript:openOfferPop();">2 FREE Accounts</a> | <a href="javascript:openOfferPop();">eCards Received</a> | <a href="javascript:openOfferPop();">My Favorite eCards</a> | <a href="javascript:openOfferPop();">Sent eCards</a> ]</font></td>
+  <td width="1" bgcolor="#CCCCCC" rowspan="2"><img src="http://www.bluemountain.com/img/bma/space.gif" width="1" height="18"></td>
+</tr>
+<tr bgcolor="#CCCCCC">
+  <td><img src="http://www.bluemountain.com/img/bma/space.gif" width="768" height="1"></td>
+</tr>
+</tbody></table> 
  
-<center>
-  <table border="0" width="600"> 
-    <tbody><tr> 
-      <td align="CENTER"> 
-        <hr noshade="" size="1"> 
-	<font face="Arial,Helvetica,sans-serif" size="2"> 
-        <a href="/help/FAQ.html"><font face="Arial,Helvetica,sans-serif" size="2" color="#000033">Frequently Asked Questions</font></a>&nbsp;|&nbsp; 
-        <a href="/techsupport/"><font face="Arial,Helvetica,sans-serif" size="2" color="#000033">Technical Support</font></a>&nbsp;|&nbsp; 
-        <a href="/ecommerce/"><font face="Arial,Helvetica,sans-serif" size="2" color="#000033">Gift Support</font></a> 
-        <br> 
-        <a href="/feedback/"><font face="Arial,Helvetica,sans-serif" size="2" color="#000033">Feedback</font></a>&nbsp;|&nbsp; 
-        <a href="mailto:adinfo@ag.com"> 
-        <font face="Arial,Helvetica,sans-serif" size="2" color="#000033">Advertise on Blue Mountain</font></a>&nbsp; 
-        </font><p><font face="Arial,Helvetica,sans-serif" size="2"> 
-        </font> 
-	<font face="Arial,Helvetica,sans-serif" size="1"> 
-	<a href="/legal/"><font face="Arial,Helvetica,sans-serif" size="1" color="#000033">© 1996-2001 EGCB, Inc. All rights reserved.</font></a><br> 
-	Blue Mountain, Blue Mountain Arts, and the Blue Mountain logo are service marks or registered service marks of BMA Holdings, LLC in the United States and other countries.<br> 
-        <a href="/legal/"><font face="Arial,Helvetica,sans-serif" size="1" color="#000033">Terms of Service</font></a>&nbsp;|&nbsp; 
-        <a href="/home/privacy.html"><font face="Arial,Helvetica,sans-serif" size="1" color="#000033">Privacy Policy</font></a> 
-        </font> 
-      </p></td> 
-    </tr> 
-  </tbody></table> 
-</center>
-
-
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="770">  
+  <tbody><tr> 
+<td width="2" bgcolor="#CCCCCC"><img src="http://www.bluemountain.com/img/bma/space.gif" width="2" height="5"></td> 
+<!--center--> 
+<td align="left" valign="top" width="638" bgcolor="#ffffff"> 
+<table width="95%" border="0" cellspacing="0" cellpadding="0" align="center"> 
+<tbody><tr><td align="center"><br> 
+<font face="arial, verdana, helvetica" size="3"> 
+<b>Blue Mountains Privacy Policy</b></font><br> 
+<font face="verdana, arial, helvetica" size="2">An AmericanGreetings.com Company </font><br><br> 
+</td></tr> 
+<tr><td><font face="verdana, arial, helvetica" size="2"> 
  
-<img height="1" width="1" border="0" src="http://ads.bluemountain.com/impression.gif?ref=PV/NOCAT/card&amp;ord=PAwVkT-xP2cAAKbpbjc">
-
+ 
+<b>GENERAL MATTERS </b><br><br> 
+ 
+<b>Overview</b><br> 
+At BlueMountain.com, protecting our users' privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.<br><br> 
+ 
+<b>Scope of Policy</b><br> 
+This Policy applies to BlueMountain.com, a member of the AmericanGreetings.com ("AG") network of sites. It does not apply to other companies' or organizations' web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information.<br><br>  
+ 
+<b>INFORMATION ABOUT YOU </b><br> 
+ 
+<b>Information Gathered From All Visitors</b><br> 
+<em><b>Aggregate Data</b></em><br> 
+We gather certain generic information with respect to customers' use of our web site, such as the number of unique visitors, the frequency with which they visit, and the areas on the web site that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program. We only use this type of data in aggregate-that is, we look at the data on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our customers use certain parts of our web site, which, in turn, enables us to make it as appealing as possible. We may also provide statistical "ratings" about how our customers collectively use our web site to advertisers, sponsors, and other companies with which we do business ("Business Partners"). We do this so they, too, can understand how often people use their areas of the site in order for them to provide you with the best possible experience. These statistical ratings do not contain any personally identifiable information about you or any of our users.<br><br> 
+ 
+<b><em>Cookies</em></b><br> 
+We use a technology nicknamed "cookies" on our web site. Cookies are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. We use cookies to make your visit to our web site easier. For example, cookies allow us to recognize you when you re-enter our web site so that you will not have to sign-in each time you visit. Cookies also allow us to count the number of unique and return visitors who use our site.  
+Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features on our web site if you choose not to accept cookies, such as My Page, address book, favorites, and greetings history. In addition, you will not be able to participate in any of our sweepstakes, contests or monthly drawings. Cookies can also enable us to track and target the interests of our users to enhance their experience on our site.<br><br>  
+ 
+<b><em>Third Party Advertiser Cookies</em></b><br> 
+We use third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and Clear Gif technology (aka 1x1 Pixel .gifs, Web bugs) to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. BlueMountain.com does not use or have access to this information.<br><br> 
+ 
+If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the web site of the National Advertising Initiative ("NAI") to opt-out of all network-advertising cookies. <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">Click here</a> for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.<br><br>  
+ 
+<b><em>IP Addresses</em></b><br> 
+We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors. An IP address is a unique number assigned to your computer when you are using your browser on the Internet. We log this information so that we can monitor things like the number of visitors visiting the web site; however, we do not link your IP address to any personally identifying information.<br><br>  
+ 
+<b><em>When You Send A Greeting</em></b><br> 
+If you use our web site to send an online greeting or any other content, we collect your e-mail address and your recipient's e-mail address. This information is necessary to send the content and provide confirmation that it has been received. We may also use your e-mail address to contact you if you have chosen to receive communications from BlueMountain.com or its Partners. (See Opt-Out/Changing Your Status, below). <br><br> 
+ 
+<b><em>Personalizing Your Experience on the Web Site</em></b><br> 
+We try to personalize your experience on our web sites by tracking greetings and other content you have sent and gifts you have purchased in order to shape our recommendations about the greetings, cards, games, and gifts that might be of interest to you. We also examine customer traffic patterns and web site usage to help us enhance the design and layout of the site and make it easier to navigate. <br><br> 
+ 
+From time to time, we may send you surveys or solicit your feedback. We use surveys to gage user interest in new products and premiums we may offer. We will ask for your feedback on greetings and other site features. We will use the information we gather to improve our sites and provide a more meaningful experience for our users. We may also use the information to alert you to offers and products in which you have expressed an interest. <br><br> 
+ 
+<b><em>Subscribing to the BMA Newsletter</em></b><br> 
+We send to all of our users our exclusive Blue Mountain Newsletter, which alerts you to new features, content, and services, premiums available on our site. From time to time, we will also send you invitations to enhance your BMA membership. These communications are sent to you directly by BMA. We do not share your personally identifiable information with any third parties in connection with the Newsletter. <br><br> 
+ 
+You can always decline the Newsletter by un-checking the opt-out box on the "Personalize Your Greeting" pages or registration pages on our site. If you are already receiving the Newsletter and you want to unsubscribe, you can simply follow the "unsubscribe" links at the bottom of each edition. For other ways to unsubscribe, see Opt-Out/Changing Your Status, below.<br><br>  
+ 
+<b><em>Offers from Our Business Partners</em></b><br> 
+BlueMountain.com also offers you the opportunity to receive money-saving offers, discounts, and promotions from our Business Partners. These communications may come from BlueMountain.com or directly from the Partners themselves. We may also share with them certain demographic, geographic, preference, and other personally identifiable information we have gathered about you. This will help them in directing to you offers that are more likely to be of interest.<br><br> 
+ 
+This program is conducted strictly on an opt-in basis. In order to receive the offers, you must affirmatively check the clearly marked box on our "Personalize Your Greeting" pages and registration pages on our site. If you leave the box unchecked, you will not receive any offers. If you do sign up for the program but later change your mind, you are free at any time to opt-out by following the procedures outlined in Opt-Out/Changing Your Status, below. <br><br> 
+ 
+<b><em>Information Gathered From Members</em></b><br> 
+If you elect to purchase an Unlimited Membership on BlueMountain.com, you will be required to provide us with certain personal information, including your name, e-mail address, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.<br><br> 
+ 
+Additional data may be collected from Unlimited Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of greetings you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for Blue Mountain Reminders, which are e-mail alerts to track important dates and occasions they specify. BMA Membership allows you to store greetings for future delivery, bookmark favorite greetings, and save greetings received in an online scrapbook. By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership.<br><br> 
+ 
+If you become a Member of BMA from one of our co-branded sites, we may share your registration information with the co-branded partner. In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted.<br><br> 
+ 
+<b>BMA USES OF PERSONAL INFORMATION</b><br> 
+If you have provided us your consent, we will use the information we have collected about you in five ways:  
+<ul><li>To send personalized, targeted information that we think our users will find relevant, either from BMA or directly from its Business Partners;  
+</li><li>To include targeted advertising within such messages;  
+</li><li>To send promotions and coupons based on the user's interests;  
+</li><li>To contact the user for feedback and surveys; and  
+</li><li>To send the user other information about BMA. 
+ </li></ul> 
+These communications may come via e-mail, postal mail, or telephone.<br><br>  
+<b><em>On-Site Advertising</em></b> BlueMountain.com may also use information about you to target advertising while you are visiting our site. For example, we may serve ads from toy companies to users searching the Kids Birthday Greeting pages. We may also use geographic or other information we have collected from you to make sure that the ads you see are for goods and services that are actually of interest to you or are available in your area. We may use cookie files to assure that you will not be served the same ads repeatedly.<br><br>  
+ 
+<b><em>Order Fulfillment </em></b>From time to time, you may be given the opportunity to order products and services directly on the BlueMountain.com site, the Newsletters, or in other communications you may receive from BlueMountain.com. These orders are typically fulfilled by BMA's Business Partners directly. To process your order, BMA may provide these Partners with your name, street address, e-mail address, phone number, and credit card information. BMA will limit the types of information shared to the minimum necessary to efficiently process your order. However, in accepting these offers, you become a customer of the Business Partner and therefore subject to its privacy policy. BMA will alert users whenever a Business Partner will be fulfilling an order for products or services ordered on our site. We encourage you to review these companies' privacy policies and only do business with those who adhere to personal information practices with which you are comfortable. <br><br> 
+ 
+<b>Privacy of Greeting Card Information</b><br> 
+We treat all of our greetings products as private correspondence between the sender and the recipient and will not disclose the contents of any greeting other than to the intended recipient, except under the specific situations outlined in Disclosure Exceptions, below.  
+This policy applies to all aspects of our greetings, including your personalized messages. Under normal circumstances, we will not monitor or edit the contents of the online greetings you send. On occasion, however, we may need to view your message in connection with the technical processing of your greeting or the maintenance of our network. Also, if you ask one of our customer service representatives to help you send a greeting or to verify that a greeting was sent, that representative will be able to access all information about the card, including the recipient's e-mail address and the message. <br><br> 
+ 
+<b>Disclosure Exceptions</b><br> 
+Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third-parties if we are required to do so by law or we believe that such action is necessary:  
+<ul><li>To comply with legal process such as a search warrant, subpoena or court order;  
+</li><li>To protect the company's rights and property;  
+</li><li>To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;  
+</li><li>To protect against misuse or unauthorized use of our web site and/or the BlueMountain.com service; or  
+</li><li>During emergencies, such as when we believe someone's physical safety is at risk. </li></ul> 
+ 
+<b>YOUR CONTROL OVER YOUR PERSONAL INFORMATION <br> 
+Opt-Out/Changing Your Status</b><br> 
+At any time, you can change choices you have previously made as to the use of your personal information. Every communication BlueMountain.com sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank e-mail to <a href="mailto:nomailbma@privacy.bluemountain.com">nomailbma@privacy.bluemountain.com</a> and type "Remove" in the subject field. This system is automated and must be contacted from the email address you wish to have removed. Permission changes will be honored as soon as possible after receipt. Please allow five to seven days for processing. Permission changes will however not affect any information which you provided to us and which we previously shared with our Business Partners. <br><br> 
+ 
+<b>Editing Your Profile</b><br> 
+If you are a registered member, you have the ability to review and correct your personally identifiable information at any time. Simply log into the "Members" area of the site and follow the links to "Edit Profile." You can revise, add, delete, or completely cancel all alerts by following the links to "Holiday Reminders" and "Personal Reminders." <br><br> 
+ 
+<b>OTHER MATTERS<br> 
+Protection For Children - COPPA Compliance</b><br> 
+We are committed to protecting the privacy and rights of children online. We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information. To that end, we have made it our policy to not collect any individually identifiable information from users whom we know are under the age of 13. <br> 
+The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children. To learn more about COPPA, <a href=" http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html" target="_blank">click here</a> for the Federal Trade Commission COPPA Web Site. <br><br> 
+ 
+<b>Contests and Promotions</b><br> 
+Occasionally, BlueMountain.com may sponsor contests and/or promotions on our sites or in our e-mail products. Participation in such contests is purely voluntary. In order to enter a contest or promotion, you may be asked to provide personally identifiable information. By entering, you agree to all of its terms and conditions, which will be clearly outlined in the rules. Where a contest or promotion is not sponsored by BlueMountain.com, the identity of the sponsor will be clearly disclosed in the rules. BlueMountain.com cannot be responsible for actions or policies of third-party contest sponsors. Users are encouraged to review the relevant privacy policy of the sponsor before entering.<br><br>  
+ 
+<b>Sale of Assets</b><br> 
+In the event that BlueMountain.com and/or its units or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third-party acquiring BlueMountain.com's assets. In the event we do so, we will place a prominent notice of the sale on the homepage of our site, with links to information as to how you can change your privacy preferences. <br><br> 
+ 
+<b>Data Security</b><br> 
+When you place orders for purchased products or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties. While on a secure page, such as our registration form, a lock or key icon appears on the bottom of your web browser. <br> 
+In addition to our online security efforts, we take steps to protect your personal data offline, as well. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Employees are granted access on a need-to-know basis (for example, our billing clerk or a customer service representative). Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind a locked cage. <br> 
+BlueMountain.com's main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms. If you have any questions about the security at our website, you can send an email to <a href="mailto:webmaster@bluemountain.com">webmaster@bluemountain.com</a>. <br><br> 
+ 
+<b>Changes to the Privacy Policy</b><br> 
+BlueMountain.com will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. When BlueMountain.com posts changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of BlueMountain.com Sites. If there are material changes to this Policy or in how BlueMountain.com uses your personally identifiable information, BlueMountain.com will prominently post such changes prior to implementing the change. BlueMountain.com encourages you to periodically review this Policy to be informed of how we are protecting your information. <br><br> 
+ 
+<b>USE COMMON SENSE IN ALL YOUR ONLINE ACTIVITIES </b><br> 
+Even the best policy can't protect your online privacy and security in all circumstances. Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets. Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your on-line activities. <br> 
+Be aware that e-mail is an inherently insecure form of communication. Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings.  
+Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam). Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so. <br> 
+Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information.  
+Always monitor your children's on-line activities and educate them as to the rules for safe Internet use. For more information, <a href="http://www.getnetwise.org/" target="_blank">click here</a> for the Internet Education Foundation's Online Safety Guide for Kids. <br><br> 
+As always, if you have any questions, please feel free to contact us at <a href="http://www.bluemountain.com/customer/emailus.pd">Blue Mountain Customer Support</a>.   
+ 
+ 
+ 
+</font><br><br></td> 
+</tr> 
+</tbody></table><br> 
+<img src="http://www.bluemountain.com/img/bma/space.gif" width="638" height="1"> 
+</td> 
+<!--end center--> 
+<!--right--> 
+<td align="center" valign="top" bgcolor="#CCCCCC" width="130"> 
+<br> 
+<table border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="center"><font face="verdana,arial,helvetica" size="1"><script language="JavaScript" src="http://ads.adsag.com/js.ng/adsize=text&amp;page=warrants.pd&amp;memstat=afu&amp;site=bma&amp;partner=orbitz"></script></font></td></tr></tbody></table><br><iframe width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=sky&amp;channel=og&amp;page=warrants.pd&amp;memstat=afu&amp;site=bma&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE=JavaScript SRC=http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=sky&channel=og&page=warrants.pd&memstat=afu&site=bma&cat=DFLT&subcat=DFLT&product=>
+</SCRIPT><NOSCRIPT><A HREF=http://ads.adsag.com/click.ng/Params.richmedia=yes&adsize=sky&channel=og&page=warrants.pd&memstat=afu&site=bma&cat=DFLT&subcat=DFLT&product= target="_blank"><IMG SRC=http://ads.adsag.com/image.ng/Params.richmedia=yes&adsize=sky&channel=og&page=warrants.pd&memstat=afu&site=bma&cat=DFLT&subcat=DFLT&product=></A></NOSCRIPT></iframe><br><br> 
+<img src="http://www.bluemountain.com/img/bma/space.gif" width="130" height="1" border="0"> 
+</td> 
+<!--end right--> 
+</tr> 
+</tbody></table> 
+ 
+ 
+<table border="0" cellspacing="0" cellpadding="0" width="770" bgcolor="#CCCCCC"><tbody><tr><td><img src="http://www.bluemountain.com/img/bma/space.gif" width="770" height="2"></td></tr></tbody></table>
+<br>&nbsp;<br><table border="0" cellpadding="0" cellspacing="0" width="770">
+<tbody><tr>
+  <td align="center" class="text"><a href="http://www.bluemountain.com/customer/index.pd">Help - Customer Service</a> |  <a href="JavaScript:OpenNewWindow('/advertise.pd','500','300','no')">Advertise on Blue Mountain</a><br>&nbsp;<br>© 1996-2002 EGCB, Inc. All rights reserved. Blue Mountain, Blue Mountain Arts, and the Blue Mountain logo are service marks or registered service marks of BMA Holdings, LLC in the United States and other countries.<br>&nbsp;<br><a href="http://www.bluemountain.com/legal.pd">Terms of Service</a> |  <a href="http://www.bluemountain.com/warrants.pd">Privacy Policy</a><br>&nbsp;<br></td>
+</tr>
+</tbody></table> 
+<br><br><br><br> 
+</center> 
+ 
+<img height="1" width="1" border="0" src="http://ads.bluemountain.com/impression.gif?mstatus=AFU&amp;source=bma&amp;uid=3dd7890ed1edeea311a656f&amp;path=/warrants.pd">
+ 
+ 
+ 
 </body></html>
