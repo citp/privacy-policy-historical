@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208103234id_/http%3A//www.entergy.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171042id_/http%3A//www.entergy.com/corp/legal/privacy.asp) for the most accurate reproduction.*
 
-# Entergy | Privacy Policy
+# Entergy Corporate | Privacy
 
-**Privacy Policy Statement**
+##### **Privacy Policy Statement**
 
-This is the website of Entergy Corporation.
+This is the website of Entergy Corporation or one of its affiliates ("Entergy").
 
 Our postal address is:
 
@@ -17,15 +17,15 @@ We understand how important customer privacy is to you. We hope this statement w
 
 **The Information We Collect Online**
 
-The only information that we collect from customers online is that volunteered by the customers, such as survey information and/or site registrations. We may use this information to notify customers about updates to our Web site. Any information we collect online (E-mail address, postal address, phone number) is not shared with other organizations for commercial marketing purposes.
+The only information that we collect from customers online is that volunteered by the customers, such as survey information and/or site registrations. We may use this information to notify customers about updates to our Web site. Any information we collect online (e-mail address, postal address, phone number) is not shared with other organizations for commercial marketing purposes.
 
 We also collect aggregate information on which pages of our site customers access more often in order to improve our site based on up-to-date use patterns.
 
 **Resumes**
 
-Entergy does not disclose information contained in resumes to third parties. Entergy also does not disclose information contained in resumes internally except on a need to know basis.
+We do not disclose information contained in resumes to third parties. We also do not disclose information contained in resumes internally except on a need to know basis.
 
-****
+ ****
 
 **E-Mail**
 
@@ -48,3 +48,6 @@ If you do not want to receive such mailings from Entergy in the future, please l
 Customers that supply their telephone number on-line may receive telephone contact from Entergy with information on new products and services or upcoming events or news that may be of interest.
 
 If you do not want to receive such telephone calls from Entergy in the future, please let us know by sending us e-mail at the above address and tell us that you do not want to receive these types of telephone calls from our company in the future. 
+
+  
+
