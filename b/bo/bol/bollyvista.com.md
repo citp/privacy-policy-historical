@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the bollyvista.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014160408id_/http%3A//www.bollyvista.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyvista.com privacy policy that was archived on 2003-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030206095204id_/http%3A//bollyvista.com/aboutus/privacy.php) for the most accurate reproduction.*
 
-# Bollyvista.com : Privacy Statement
+# Bollyvista.com : Disclaimer
 
+  
 **BOLLYVISTA.COM** is strongly committed to honoring the privacy of our visitors. This privacy statement discloses the information gathering and dissemination practices for this web site (http://www.bollyvista.com).
 
 **Information Collection and Use**  
@@ -26,8 +27,8 @@ This site makes fan clubs, chat rooms, opinion polls and message boards availabl
 **Newsletter**  
 If a visitor wishes to subscribe to our newsletter, we ask only for email address. However, those who subscribe to our newsletter have the choice of unsubscribing at will without any intervention on our part. E-mail addresses/ids collected by our newsletter software are never shared with any third party.
 
-**Tell-A-Friend**  
-If a visitor elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. BOLLYVISTA.COM will automatically send the friend a one-time email inviting them to visit the site. BOLLYVISTA.COM stores this information for the sole purpose of sending this one-time email. The friend may contact BOLLYVISTA.COM at http://www.bollyvista.com to request the removal of this information from our database.
+**Referral Service**  
+If a visitor elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. BOLLYVISTA.COM will automatically send the friend a one-time email inviting them to visit the site. BOLLYVISTA.COM does not store the email addresses of the persons used in this process.
 
 **External Links**  
 BOLLYVISTA.COM provides a Web Directory to visitors which contains links to other sites. BOLLYVISTA.COM is not responsible for the privacy practices or the content of linked Web sites. We encourage visitors to read the privacy statements of these linked sites as their policies may differ from ours.
