@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409012213id_/http%3A//www.jdpower.com/global/privacypolicy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217221845id_/http%3A//www.jdpower.com/global/privacypolicy/privacypolicy.asp) for the most accurate reproduction.*
 
 # The J.D. Power Consumer Center - Privacy Policy
 
@@ -13,6 +13,6 @@ The J.D. Power Consumer Center is committed to respecting and protecting your pr
 
 
 
-The J.D. Power Consumer Center employs strict security measures to safeguard online transactions. Personal information is stored in secured databases and always sent via an encrypted Internet channel. If you have questions regarding the Privacy Policy at the J.D. Power Consumer Center, please send us an email or call 1-800-227-2582. 
+The J.D. Power Consumer Center employs strict security measures to safeguard online transactions. Personal information is stored in secured databases and always sent via an encrypted Internet channel. To view the J.D. Power and Associates Privacy Policy, click [here](https://web.archive.org/web/20011217221845id_/http%3A//www.jdpower.com/global/privacypolicy/jdpaprivacypolicy.asp).
 
 |  
