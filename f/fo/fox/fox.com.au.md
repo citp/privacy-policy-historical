@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox.com.au privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202221147id_/http%3A//www.fox.com.au/admin/privacy_policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox.com.au privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606200240id_/http%3A//www.fox.com.au/admin/privacy_policy/index.php) for the most accurate reproduction.*
 
 # FOX FM
 
