@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hammacher.com privacy policy that was archived on 2002-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021203012506id_/http%3A//www.hammacher.com/order/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hammacher.com privacy policy that was archived on 2003-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030401222357id_/http%3A//www.hammacher.com/order/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Hammacher Schlemmer</title>
@@ -29,28 +29,28 @@ function changeImages() {
 var preloadFlag = false;
 function preloadImages() {
 	if (document.images) {
-		menu_1_over = newImage("images/gfx/tnav_home_roll_67x18.gif");
-		menu_2_over = newImage("images/gfx/tnav_catalog_roll_153x18.gif");
-		menu_3_over = newImage("images/gfx/tnav_free_roll_116x18.gif");
-		menu_4_over = newImage("images/gfx/tnav_about_roll_95x18.gif");
-		menu_5_over = newImage("images/gfx/tnav_contact_roll_97x18.gif");
-		menu_6_over = newImage("images/gfx/tnav_how_roll_113x18.gif");
-		menu_7_over = newImage("images/gfx/tnav_view_roll_119x18.gif");
-		nav2_1_over = newImage("images/gfx/t2nav_history_roll_70x19.gif");
-		nav2_2_over = newImage("images/gfx/t2nav_corporate_roll_119x19.gif");
-		nav2_3_over = newImage("images/gfx/t2nav_retail_roll_71x19.gif");
-		nav2_4_over = newImage("images/gfx/t2nav_institute_roll_75x19.gif");
-		nav2_5_over = newImage("images/gfx/t2nav_faq_roll_49x19.gif");
-		nav2_6_over = newImage("images/gfx/t2nav_press_roll_91x19.gif");
-		nav2_7_over = newImage("images/gfx/t2nav_search_roll_115x19.gif");
-		seasonal_over = newImage("images/gfx/bug_fathers_roll_98x53.gif");
-		nav2b_1_over = newImage("images/gfx/t2nav_guarantee_roll.gif");
-		nav2b_2_over = newImage("images/gfx/t2nav_faq_roll.gif");
-		nav2b_3_over = newImage("images/gfx/t2nav_shipping_roll.gif");
-		nav2b_4_over = newImage("images/gfx/t2nav_privacy_roll.gif");
-		nav2b_5_over = newImage("images/gfx/t2nav_survey_roll.gif");
-		nav2b_6_over = newImage("images/gfx/t2nav_techhelp_roll.gif");
-		order_status_over = newImage("images/gfx/hd_orderstatus_roll_142x27.gif");
+		menu_1_over = newImage("../images/gfx/tnav_home_roll_67x18.gif");
+		menu_2_over = newImage("../images/gfx/tnav_catalog_roll_153x18.gif");
+		menu_3_over = newImage("../images/gfx/tnav_free_roll_116x18.gif");
+		menu_4_over = newImage("../images/gfx/tnav_about_roll_95x18.gif");
+		menu_5_over = newImage("../images/gfx/tnav_contact_roll_97x18.gif");
+		menu_6_over = newImage("../images/gfx/tnav_how_roll_113x18.gif");
+		menu_7_over = newImage("../images/gfx/tnav_view_roll_119x18.gif");
+		nav2_1_over = newImage("../images/gfx/t2nav_history_roll_70x19.gif");
+		nav2_2_over = newImage("../images/gfx/t2nav_corporate_roll_119x19.gif");
+		nav2_3_over = newImage("../images/gfx/t2nav_retail_roll_71x19.gif");
+		nav2_4_over = newImage("../images/gfx/t2nav_institute_roll_75x19.gif");
+		nav2_5_over = newImage("../images/gfx/t2nav_faq_roll_49x19.gif");
+		nav2_6_over = newImage("../images/gfx/t2nav_press_roll_91x19.gif");
+		nav2_7_over = newImage("../images/gfx/t2nav_search_roll_115x19.gif");
+		seasonal_over = newImage("../images/gfx/bug_fathers_roll_98x53.gif");
+		nav2b_1_over = newImage("../images/gfx/t2nav_guarantee_roll.gif");
+		nav2b_2_over = newImage("../images/gfx/t2nav_faq_roll.gif");
+		nav2b_3_over = newImage("../images/gfx/t2nav_shipping_roll.gif");
+		nav2b_4_over = newImage("../images/gfx/t2nav_privacy_roll.gif");
+		nav2b_5_over = newImage("../images/gfx/t2nav_survey_roll.gif");
+		nav2b_6_over = newImage("../images/gfx/t2nav_techhelp_roll.gif");
+		order_status_over = newImage("../images/gfx/hd_orderstatus_roll_142x27.gif");
 		preloadFlag = true;
 	}
 }
@@ -64,36 +64,28 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
 
 }
-
-
-
 function validate() {
 
-var undefined;
-if (document.product.color != undefined) {
-
-	if (document.product.color.selectedIndex == 0) {
-			alert("Please select color");
-			return false;
-		}
-		
+if (document.product.color) {
+	if (document.product.color.value == "none") {
+		alert("Please select color");
+		return false;
+	
+	}
 }
 
-if (document.product.size != undefined) {
-	if (document.product.size.selectedIndex == 0) {
+if (document.product.size) {
+	if (document.product.size.value =="none") {
 		alert("Please select size");
 		return false;
 	}
-		
 }
 
-if (document.product.style != undefined) {
-
-	if (document.product.style.selectedIndex == 0) {
+if (document.product.style) {
+	if (document.product.style.value =="none") {
 		alert("Please select style");
 		return false;
 	}
-
 }
 return true;
 
@@ -113,26 +105,26 @@ return true;
   <tbody><tr bgcolor="eaddbb"> 
     <td width="497" bgcolor="eaddbb">
 	<!-- Brand Graphic -->
-	<a href="http://www.hammacher.com"><img src="/images/gfx/tnav_brand.gif" width="497" height="60" border="0" alt="Hammacher Schlemmer"></a></td>
-    <td width="263" bgcolor="eaddbb" background="/images/gfx/tnav_brand_bkgd.gif"><nobr>
+	<a href="http://www.hammacher.com"><img src="../images/gfx/tnav_brand.gif" width="497" height="60" border="0" alt="Hammacher Schlemmer"></a></td>
+    <td width="263" bgcolor="eaddbb" background="../images/gfx/tnav_brand_bkgd.gif"><nobr>
       <div align="right">
-			<!-- Search --><img src="/images/gfx/search.gif" border="0" width="40" height="13">
+			<!-- Search --><img src="../images/gfx/productsearch_43x21.gif" border="0" width="43" height="21" align="absmiddle">
 			<input type="text" name="txtKeyword" value="" size="10">
-			<input type="image" name="submit" value="Submit" src="/images/gfx/cta_go_24x21.gif" width="24" height="21" align="absmiddle" border="0" alt="go">
+			<input type="image" name="submit" value="Submit" src="../images/gfx/cta_go_24x21.gif" width="24" height="21" align="absmiddle" border="0" alt="go">
 			<!-- BEGIN COREMETRICS -->
 			<script language="javascript1.1" src="/coremetrics/v31/eluminate.js"></script>
 			<script language="javascript1.1" src="/coremetrics/pageview.js"></script>
 			<!-- END COREMETRICS -->
 		<br>
-        <a href="/gsindex.asp"><img src="/images/gfx/cta_giftfinder_102x15.gif" alt="gift finder" border="0" width="102" height="15"></a>
+        <a href="/gsindex.asp"><img src="../images/gfx/cta_giftfinder_102x15.gif" alt="gift finder" border="0" width="102" height="15"></a>
       </div>
         </nobr>
     </td>
     <td width="100%">&nbsp;</td>
   </tr>
   <tr bgcolor="47856c"> 
-    <td width="760" bgcolor="47856c" height="3" colspan="2"><img src="/images/gfx/shim.gif" width="1" height="3"></td>
-    <td height="3" width="100%"><img src="/images/gfx/shim.gif" width="1" height="3"></td>
+    <td width="760" bgcolor="47856c" height="3" colspan="2"><img src="../images/gfx/shim.gif" width="1" height="3"></td>
+    <td height="3" width="100%"><img src="../images/gfx/shim.gif" width="1" height="3"></td>
   </tr>
   <tr bgcolor="8ea28e">
   	  <!-- BEGIN PRIMARY NAV BUTTONS -->
@@ -140,26 +132,26 @@ return true;
 	  <table width="760" border="0" cellpadding="0" cellspacing="0">
 	  	<tbody><tr>
 		  <td>
-           <a href="http://www.hammacher.com/main.asp" onmouseover="changeImages('menu_1', '/images/gfx/topnav_home_on.gif'); return true;" onmouseout="changeImages('menu_1', '/images/gfx/topnav_home.gif'); return true;"> 
-            <img name="menu_1" src="/images/gfx/topnav_home.gif" border="0" alt="Home" width="67" height="18"></a></td>
+           <a href="http://www.hammacher.com/main.asp" onmouseover="changeImages('menu_1', '../images/gfx/topnav_home_on.gif'); return true;" onmouseout="changeImages('menu_1', '../images/gfx/topnav_home.gif'); return true;"> 
+            <img name="menu_1" src="../images/gfx/topnav_home.gif" border="0" alt="Home" width="67" height="18"></a></td>
 		   
-		   <td><a href="http://www.hammacher.com/toppicks/tp_top_picks_1.asp?catID=12" onmouseover="changeImages('menu_2', '/images/gfx/topnav_toppicks_on.gif'); return true;" onmouseout="changeImages('menu_2', '/images/gfx/topnav_toppicks.gif'); return true;"> 
-            <img name="menu_2" src="/images/gfx/topnav_toppicks.gif" border="0" alt="Top Picks" width="89" height="18"></a></td>
+		   <td><a href="http://www.hammacher.com/toppicks/tp_top_picks_1.asp?catID=12" onmouseover="changeImages('menu_2', '../images/gfx/topnav_toppicks_on.gif'); return true;" onmouseout="changeImages('menu_2', '../images/gfx/topnav_toppicks.gif'); return true;"> 
+            <img name="menu_2" src="../images/gfx/topnav_toppicks.gif" border="0" alt="Top Picks" width="89" height="18"></a></td>
 		   
-		   <td><a href="http://www.hammacher.com/testedbest/testedbest.asp?catID=7" onmouseover="changeImages('menu_3', '/images/gfx/topnav_tested_on.gif'); return true;" onmouseout="changeImages('menu_3', '/images/gfx/topnav_tested.gif'); return true;"> 
-            <img name="menu_3" src="/images/gfx/topnav_tested.gif" border="0" alt="Tested Best" width="102" height="18"></a></td>
+		   <td><a href="http://www.hammacher.com/testedbest/testedbest.asp?catID=7" onmouseover="changeImages('menu_3', '../images/gfx/topnav_tested_on.gif'); return true;" onmouseout="changeImages('menu_3', '../images/gfx/topnav_tested.gif'); return true;"> 
+            <img name="menu_3" src="../images/gfx/topnav_tested.gif" border="0" alt="Tested Best" width="102" height="18"></a></td>
 		  
-		  <td><a href="http://www.hammacher.com/uniquely/uh_uniquely_1.asp?catID=8" onmouseover="changeImages('menu_4', '/images/gfx/topnav_uniquely_on.gif'); return true;" onmouseout="changeImages('menu_4', '/images/gfx/topnav_uniquely.gif'); return true;"> 
-            <img name="menu_4" src="/images/gfx/topnav_uniquely.gif" border="0" alt="Uniquely Hammacher" width="175" height="18"></a></td>
+		  <td><a href="http://www.hammacher.com/uniquely/uh_uniquely_1.asp?catID=8" onmouseover="changeImages('menu_4', '../images/gfx/topnav_uniquely_on.gif'); return true;" onmouseout="changeImages('menu_4', '../images/gfx/topnav_uniquely.gif'); return true;"> 
+            <img name="menu_4" src="../images/gfx/topnav_uniquely.gif" border="0" alt="Uniquely Hammacher" width="175" height="18"></a></td>
 		  
-          <td><a href="http://www.hammacher.com/gifts/gifts.asp?catID=3" onmouseover="changeImages('menu_5', '/images/gfx/topnav_gifts_on.gif'); return true;" onmouseout="changeImages('menu_5', '/images/gfx/topnav_gifts.gif'); return true;"> 
-            <img name="menu_5" src="/images/gfx/topnav_gifts.gif" border="0" alt="Gifts" width="56" height="18"></a></td>
+          <td><a href="http://www.hammacher.com/gifts/gifts.asp?catID=3" onmouseover="changeImages('menu_5', '../images/gfx/topnav_gifts_on.gif'); return true;" onmouseout="changeImages('menu_5', '../images/gfx/topnav_gifts.gif'); return true;"> 
+            <img name="menu_5" src="../images/gfx/topnav_gifts.gif" border="0" alt="Gifts" width="56" height="18"></a></td>
             
-		  <td><a href="http://www.hammacher.com/specialvalues/specialvalues.asp?catID=13" onmouseover="changeImages('menu_6', '/images/gfx/topnav_special_on.gif'); return true;" onmouseout="changeImages('menu_6', '/images/gfx/topnav_special.gif'); return true;"> 
-            <img name="menu_6" src="/images/gfx/topnav_special.gif" border="0" alt="Special Values" width="128" height="18"></a></td>
+		  <td><a href="http://www.hammacher.com/specialvalues/specialvalues.asp?catID=13" onmouseover="changeImages('menu_6', '../images/gfx/topnav_special_on.gif'); return true;" onmouseout="changeImages('menu_6', '../images/gfx/topnav_special.gif'); return true;"> 
+            <img name="menu_6" src="../images/gfx/topnav_special.gif" border="0" alt="Special Values" width="128" height="18"></a></td>
 		  
-          <td><a href="http://www.hammacher.com/shop/shopping_basket.asp" onmouseover="changeImages('menu_7', '/images/gfx/topnav_shopbag_on.gif'); return true;" onmouseout="changeImages('menu_7', '/images/gfx/topnav_shopbag.gif'); return true;"> 
-			  <img name="menu_7" src="/images/gfx/topnav_shopbag.gif" border="0" alt="Shopping Bag" width="146" height="18"></a></td>
+          <td><a href="http://www.hammacher.com/shop/shopping_basket.asp" onmouseover="changeImages('menu_7', '../images/gfx/topnav_shopbag_on.gif'); return true;" onmouseout="changeImages('menu_7', '../images/gfx/topnav_shopbag.gif'); return true;"> 
+			  <img name="menu_7" src="../images/gfx/topnav_shopbag.gif" border="0" alt="Shopping Bag" width="146" height="18"></a></td>
 	  </tr>
 	</tbody></table>
     </td>
@@ -177,52 +169,51 @@ return true;
 
 	      <!-- BEGIN LEFT NAV -->
       <!-- BEGIN LEFT NAV -->
-</tr><tr><td colspan="9"><img src="/images/gfx/shim.gif" width="10" height="5" border="0"></td></tr>
+</tr><tr><td colspan="9"><img src="../images/gfx/shim.gif" width="10" height="5" border="0"></td></tr>
 	 <tr valign="top">  
     
       <td width="160" valign="top" align="right">
         <div align="right">
         <table width="140" border="0" cellspacing="0" cellpadding="0">
-	    <tbody><tr><td width="1" bgcolor="#dcc174"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+	    <tbody><tr><td width="1" bgcolor="#dcc174"><img src="../images/gfx/shim.gif" height="1" width="1"></td>
           
-        <td width="140"><a href="http://www.hammacher.com"><img src="/images/gfx/lnav_shop_140x28.gif" width="140" height="28" alt="shop" border="0"></a><br>
+        <td width="140"><a href="http://www.hammacher.com"><img src="../images/gfx/lnav_shop_140x28.gif" width="140" height="28" alt="shop" border="0"></a><br>
 
  
-<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/homeliving/homeliving.asp?catId=4&amp;promo=h_and_o" class="leftnav">Home Living</a><br>
+<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/homeliving/homeliving.asp?catId=4&amp;promo=homeliving" class="leftnav">Home Living</a><br>
 
-<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/outdoorliving/outdoorliving.asp?catId=9&amp;promo=outdoor" class="leftnav">Outdoor Living</a><br>
+<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/outdoorliving/outdoorliving.asp?catId=9&amp;promo=outdoorliving" class="leftnav">Outdoor Living</a><br>
 
-<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/homecare/homecare.asp?catId=10&amp;promo=home" class="leftnav">Home Care</a><br>
+<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/homecare/homecare.asp?catId=10&amp;promo=homecare" class="leftnav">Home Care</a><br>
 
-<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/electronics/electronics.asp?catId=11&amp;promo=electr" class="leftnav">Electronics</a><br>
+<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/electronics/electronics.asp?catId=11&amp;promo=electronics" class="leftnav">Electronics</a><br>
 
-<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/sportleisure/sportleisure.asp?catId=6&amp;promo=s_and_l" class="leftnav">Sports &amp; Leisure</a><br>
+<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/sportleisure/sportleisure.asp?catId=6&amp;promo=sportleisure" class="leftnav">Sports &amp; Leisure</a><br>
 
-<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/personalcare/personalcare.asp?catId=5&amp;promo=personal" class="leftnav">Personal Care</a><br>
+<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/personalcare/personalcare.asp?catId=5&amp;promo=personalcare" class="leftnav">Personal Care</a><br>
 
-<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/apparel/apparel.asp?catId=1&amp;promo=apparel" class="leftnav">Apparel</a><br>
+<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/apparel/apparel.asp?catId=1&amp;promo=apparel" class="leftnav">Apparel</a><br>
 
-<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/travel/travel.asp?catId=14&amp;promo=travel" class="leftnav">Travel</a><br>
+<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/travel/travel.asp?catId=14&amp;promo=travel" class="leftnav">Travel</a><br>
 
-<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/children/children.asp?catId=2&amp;promo=children" class="leftnav">Children</a><br>
-
-<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/holidaydecorating/holidaydecorating.asp?catId=15&amp;promo=holidaydecorating" class="leftnav">Holiday Decorating</a>
+<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/children/children.asp?catId=2&amp;promo=children" class="leftnav">Children</a><br>
 
 
-<br><img src="../images/gfx/shim.gif" border="0" width="1" height="10">        
+
+<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="10">        
     
-          <!--<div align="center"> <A HREF="/toppicks/toppicks.asp"			ONMOUSEOVER="changeImages('seasonal', '/images/gfx/bug_toppicks_roll_98x53.gif'); return true;"			ONMOUSEOUT="changeImages('seasonal', '/images/gfx/bug_toppicks_98x53.gif'); return true;">             <img name="seasonal" src="/images/gfx/bug_toppicks_98x53.gif" width="98" height="53" border="0"></a><br />            &nbsp;</div>--></td>
-          <td width="1" bgcolor="#dcc174"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+          <!--<div align="center"> <A HREF="/toppicks/toppicks.asp"			ONMOUSEOVER="changeImages('seasonal', '/images/gfx/bug_toppicks_roll_98x53.gif'); return true;"			ONMOUSEOUT="changeImages('seasonal', '/images/gfx/bug_toppicks_98x53.gif'); return true;">             <img name="seasonal" src="../images/gfx/bug_toppicks_98x53.gif" width="98" height="53" border="0"></a><br />            &nbsp;</div>--></td>
+          <td width="1" bgcolor="#dcc174"><img src="http://www.hammacher.com/images/gfx/shim.gif" height="1" width="1"></td>
         </tr>
         <tr>
-          <td colspan="3" height="1" width="142" bgcolor="#dcc174"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+          <td colspan="3" height="1" width="142" bgcolor="#dcc174"><img src="http://www.hammacher.com/images/gfx/shim.gif" height="1" width="1"></td>
         </tr>
       </tbody></table>
           
       
       <table width="140" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-			<td><img src="/images/gfx/shim.gif" height="8" width="1"></td>
+			<td><img src="http://www.hammacher.com/images/gfx/shim.gif" height="8" width="1"></td>
 		</tr>
         <tr>
 			<td><!-- Quickorder Module -->
@@ -262,15 +253,14 @@ return true;
 </form></td>
 		</tr>
 		  <tr>
-			<td><img src="/images/gfx/shim.gif" height="8" width="1"></td>
+			<td><img src="http://www.hammacher.com/images/gfx/shim.gif" height="8" width="1"></td>
 		</tr>
-		<tr>
-			<td align="center"><a href="http://www.hammacher.com/gifts/gifts.asp?catID=3" class="product"><img src="/images/holiday/bug_greatgifts_121x68.gif" border="0" width="121" height="68" vspace="2" alt="great gifts"></a></td>
-		</tr>
-		<tr>
-			<td><a href="/mbnaJump.asp" target="_new"><img src="/images/gfx/mastercard_142x40.gif" border="0" alt="Hammacher Schlemmer Platinum Plus MasterCard" vspace="8" width="142" height="40"></a></td>
-		</tr>
+		<!--<tr>
+			<td align="center"><a href="http://www.hammacher.com/gifts/gifts.asp?catID=3" class="product"><img src="../images/holiday/bug_greatgifts_121x68.gif" border="0" WIDTH="121" HEIGHT="68" vspace="2" alt="great gifts"></a></td>
+		</tr>-->
 		
+		<tr><td align="center"><a href="http://www.hammacher.com/mbnaJump.asp" target="_new"><img src="http://www.hammacher.com/images/creditcard_011503.gif" border="0" alt="Hammacher Schlemmer Platinum Plus MasterCard" vspace="8" width="142" height="43"></a></td></tr>
+	
          <!--<tr>			<td><a href="https://www.hammacher.com/orderstatus.asp" ONMOUSEOVER="changeImages('order_status', '/images/gfx/hd_orderstatus_roll_142x27.gif'); return true;" ONMOUSEOUT="changeImages('order_status', '/images/gfx/hd_orderstatus_142x27.gif'); return true;">			<img name="order_status" src="../images/gfx/hd_orderstatus_142x27.gif" width="142" height="27" border="0" vspace="12"></a></td>        </tr>-->
       </tbody></table>
       
@@ -288,28 +278,28 @@ return true;
 	  <td width="590">
 	    <table width="590" height="8" cellpadding="0" cellspacing="0" border="0">
           <tbody><tr>
-		    <td colspan="3"><img src="/images/gfx/shim.gif" width="1" height="8"></td>
+		    <td colspan="3"><img src="../images/gfx/shim.gif" width="1" height="8"></td>
           </tr>
           <tr>
 			<td colspan="3">
               <table width="590" border="0" cellpadding="0" cellspacing="0">
                 <tbody><tr> 
-                  <td><a href="/order/unc_guar.asp" onmouseover="changeImages('nav2b_1', '/images/gfx/t2nav_guarantee_roll.gif'); return true;" onmouseout="changeImages('nav2b_1', '/images/gfx/t2nav_guarantee.gif'); return true;"> 
-                    <img name="nav2b_1" src="/images/gfx/t2nav_guarantee.gif" border="0" alt="Lifetime Guarantee" width="123" height="19"></a></td>
+                  <td><a href="/order/unc_guar.asp" onmouseover="changeImages('nav2b_1', '../images/gfx/t2nav_guarantee_roll.gif'); return true;" onmouseout="changeImages('nav2b_1', '../images/gfx/t2nav_guarantee.gif'); return true;"> 
+                    <img name="nav2b_1" src="../images/gfx/t2nav_guarantee.gif" border="0" alt="Lifetime Guarantee" width="123" height="19"></a></td>
 			  
-                  <td><a href="/order/faq/index.asp" onmouseover="changeImages('nav2b_2', '/images/gfx/t2nav_faq_roll.gif'); return true;" onmouseout="changeImages('nav2b_2', '/images/gfx/t2nav_faq.gif'); return true;"> 
-                    <img name="nav2b_2" src="/images/gfx/t2nav_faq.gif" border="0" alt="FAQ's" width="48" height="19"></a></td>
+                  <td><a href="/order/faq/index.asp" onmouseover="changeImages('nav2b_2', '../images/gfx/t2nav_faq_roll.gif'); return true;" onmouseout="changeImages('nav2b_2', '../images/gfx/t2nav_faq.gif'); return true;"> 
+                    <img name="nav2b_2" src="../images/gfx/t2nav_faq.gif" border="0" alt="FAQ's" width="48" height="19"></a></td>
 
-                  <td><a href="/order/ship_ret.asp" onmouseover="changeImages('nav2b_3', '/images/gfx/t2nav_shipping_roll.gif'); return true;" onmouseout="changeImages('nav2b_3', '/images/gfx/t2nav_shipping.gif'); return true;"> 
-                    <img name="nav2b_3" src="/images/gfx/t2nav_shipping.gif" border="0" alt="Shipping &amp; Returns" width="111" height="19"></a></td>
+                  <td><a href="/order/ship_ret.asp" onmouseover="changeImages('nav2b_3', '../images/gfx/t2nav_shipping_roll.gif'); return true;" onmouseout="changeImages('nav2b_3', '../images/gfx/t2nav_shipping.gif'); return true;"> 
+                    <img name="nav2b_3" src="../images/gfx/t2nav_shipping.gif" border="0" alt="Shipping &amp; Returns" width="111" height="19"></a></td>
 
-                  <td><!--<A HREF="/order/privacy.asp"					ONMOUSEOVER="changeImages('nav2b_4', '/images/gfx/t2nav_privacy_roll.gif'); return true;"					ONMOUSEOUT="changeImages('nav2b_4', '/images/gfx/t2nav_privacy.gif'); return true;">                     <img name="nav2b_4" src="/images/gfx/t2nav_privacy.gif" border="0" alt="Privacy Policy">--><a href="/order/privacy.asp"><img name="nav2b_4" src="/images/gfx/t2nav_privacy_roll.gif" border="0" alt="Privacy Policy" width="87" height="19"></a></td>
+                  <td><!--<A HREF="/order/privacy.asp"					ONMOUSEOVER="changeImages('nav2b_4', '../images/gfx/t2nav_privacy_roll.gif'); return true;"					ONMOUSEOUT="changeImages('nav2b_4', '../images/gfx/t2nav_privacy.gif'); return true;">                     <img name="nav2b_4" src="../images/gfx/t2nav_privacy.gif" border="0" alt="Privacy Policy">--><a href="/order/privacy.asp"><img name="nav2b_4" src="../images/gfx/t2nav_privacy_roll.gif" border="0" alt="Privacy Policy" width="87" height="19"></a></td>
 
-                  <td><a href="/order/survey1.asp" onmouseover="changeImages('nav2b_5', '/images/gfx/t2nav_survey_roll.gif'); return true;" onmouseout="changeImages('nav2b_5', '/images/gfx/t2nav_survey.gif'); return true;"> 
-                    <img name="nav2b_5" src="/images/gfx/t2nav_survey.gif" border="0" alt="Customer Survey" width="104" height="19"></a></td>
+                  <td><a href="/order/survey1.asp" onmouseover="changeImages('nav2b_5', '../images/gfx/t2nav_survey_roll.gif'); return true;" onmouseout="changeImages('nav2b_5', '../images/gfx/t2nav_survey.gif'); return true;"> 
+                    <img name="nav2b_5" src="../images/gfx/t2nav_survey.gif" border="0" alt="Customer Survey" width="104" height="19"></a></td>
 
-                  <td><a href="/order/question.asp" onmouseover="changeImages('nav2b_6', '/images/gfx/t2nav_techhelp_roll.gif'); return true;" onmouseout="changeImages('nav2b_6', '/images/gfx/t2nav_techhelp.gif'); return true;"> 
-                    <img name="nav2b_6" src="/images/gfx/t2nav_techhelp.gif" border="0" alt="Product Tech Help" width="117" height="19"></a></td>
+                  <td><a href="/order/question.asp" onmouseover="changeImages('nav2b_6', '../images/gfx/t2nav_techhelp_roll.gif'); return true;" onmouseout="changeImages('nav2b_6', '../images/gfx/t2nav_techhelp.gif'); return true;"> 
+                    <img name="nav2b_6" src="../images/gfx/t2nav_techhelp.gif" border="0" alt="Product Tech Help" width="117" height="19"></a></td>
 
 				</tr>
               </tbody></table>
@@ -381,21 +371,22 @@ Hammacher Schlemmer occasionally makes our customer's postal addresses, excludin
 <!-- BEGIN FOOTER TABLE -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top"><td colspan="3"><img src="../images/gfx/shim.gif" width="100%" height="5"></td></tr>
-<tr valign="top"><td colspan="3"><img src="/images/gfx/shim_gold.gif" width="100%" height="1"></td></tr>
+<tr valign="top"><td colspan="3"><img src="../images/gfx/shim_gold.gif" width="100%" height="1"></td></tr>
  <tr bgcolor="#FBF5E5"><td>
 	<table border="0" cellspacing="0" cellpadding="0" width="750" bgcolor="#FBF5E5">
 	<tbody><tr valign="top" bgcolor="#FBF5E5">
-	<td width="250">&nbsp;</td>
-    <td width="135"><img src="../images/gfx/shim.gif" border="0" width="135" height="1"></td>
+	<td width="165">&nbsp;</td>
+	 <td width="100"><img src="../images/gfx/shim.gif" border="0" width="100" height="1"></td>
     <td colspan="3" align="center">
-    <a href="http://www.hammacher.com/request_catalog/catindex.asp"><img src="/images/gfx/foot_req_cat.gif" border="0" width="127" height="18"></a> 
-    <a href="http://www.hammacher.com/service.asp"><img src="/images/gfx/foot_cust_serv.gif" border="0" width="125" height="18"></a>
-    <a href="http://www.hammacher.com/orderstatus.asp"><img src="/images/gfx/foot_order_stat.gif" border="0" width="88" height="18"></a></td>
+    <a href="http://www.hammacher.com/request_catalog/catindex_qa.asp"><img src="../images/gfx/foot_req_cat.gif" border="0" width="127" height="18"></a> 
+    <a href="http://www.hammacher.com/request_catalog/catindex_qa_email.asp"><img src="../images/gfx/join_footer.gif" border="0"></a> 
+     <a href="http://www.hammacher.com/service.asp"><img src="../images/gfx/foot_cust_serv.gif" border="0" width="125" height="18"></a>
+    <a href="http://www.hammacher.com/orderstatus.asp"><img src="../images/gfx/foot_order_stat.gif" border="0" width="88" height="18"></a></td>
  </tr>
 	</tbody></table>
 </td></tr>
- <tr valign="top"><td colspan="3"><img src="/images/gfx/shim_gold.gif" width="100%" height="1"></td></tr>
- <tr valign="top"><td colspan="3"><img src="/images/gfx/shim.gif" width="100%" height="15"></td></tr>
+ <tr valign="top"><td colspan="3"><img src="../images/gfx/shim_gold.gif" width="100%" height="1"></td></tr>
+ <tr valign="top"><td colspan="3"><img src="../images/gfx/shim.gif" width="100%" height="15"></td></tr>
  </tbody></table>
   <table width="760" border="0" cellspacing="0" cellpadding="0" align="left">
   <tbody><tr valign="top">
