@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bresso.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619084629id_/http%3A//www.bresso.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bresso.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205083400id_/http%3A//bresso.com/privacy.shtml) for the most accurate reproduction.*
 
 # Bresso.com privacy policy
-
-Bresso.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website.
 
 Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc). 
 
@@ -22,4 +20,6 @@ This site supplements the information that we receive with information that is r
 2\. You can call the following telephone number: (888) 835-3268 ext. 5581 
 
 **Correct/Update**   
-This site gives users the following options for changing and modifying information previously provided. Email accounts@bresso.com 
+This site gives users the following options for changing and modifying information previously provided. Email accounts@bresso.com
+
+This site, Bresso.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy. 
