@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the whnt.com privacy policy that was archived on 2004-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040530032705id_/http%3A//www.whnt.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whnt.com privacy policy that was archived on 2005-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050314034739id_/http%3A//www.whnt.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # WHNT-TV, Huntsville, AL: This Web Site’s Privacy Policy
 
 **This Web Site’s Privacy Policy**  
-| | Email to a Friend| [](https://web.archive.org/global/story.asp?s=18990&ClientType=Print)| [ Printer Friendly Version ](https://web.archive.org/global/story.asp?s=18990&ClientType=Printable) |    
+|  | Email to a Friend | [](https://web.archive.org/global/story.asp?s=18990&ClientType=Print) | [ Printer Friendly Version ](https://web.archive.org/global/story.asp?s=18990&ClientType=Printable) |    
 ---|---|---|---|---  
+  
 This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or “us” or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
 Although we respect the privacy of all those who visit the Web site and use our online services, we do collect information from our Web site's members and visitors. This Privacy Policy governs your interaction with the Web site, and your registration for and use of this station's online services. Except as set forth within this Privacy Policy and this Web Site's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Web site's members and visitors without their permission.
@@ -64,3 +65,8 @@ We use third-party advertising companies to serve ads when you visit this Web si
 **Questions?**
 
 Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
+
+_Effective date: July 1, 2004_
+
+  
+
