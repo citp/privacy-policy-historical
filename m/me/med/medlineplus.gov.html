@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the medlineplus.gov privacy policy that was archived on 2002-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604064523id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medlineplus.gov privacy policy that was archived on 2002-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021202073405id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.-->
 
-<html><head>
-
-
-<link rel="STYLESHEET" href="/medlineplus/stylesheet.css" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="EN"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="STYLESHEET" href="/medlineplus/images/stylesheet.css" type="text/css">
 
 
 <title>MEDLINEplus: Privacy Policy</title>
@@ -36,11 +36,25 @@
                 druginformationOn.src = "/medlineplus/images/druginformation_button2.gif";
              
             
+                encyclopediaOff = new Image();
+                encyclopediaOn = new Image();
+
+                encyclopediaOff.src = "/medlineplus/images/encyclopedia_button1.gif";
+                encyclopediaOn.src = "/medlineplus/images/encyclopedia_button2.gif";
+             
+            
                 dictionariesOff = new Image();
                 dictionariesOn = new Image();
 
                 dictionariesOff.src = "/medlineplus/images/dictionaries_button1.gif";
                 dictionariesOn.src = "/medlineplus/images/dictionaries_button2.gif";
+             
+            
+                newsOff = new Image();
+                newsOn = new Image();
+
+                newsOff.src = "/medlineplus/images/news_button1.gif";
+                newsOn.src = "/medlineplus/images/news_button2.gif";
              
             
                 directoriesOff = new Image();
@@ -60,14 +74,14 @@
 	function depress(thisImg) {
                 if (document.images) {
                         imgOn = eval(thisImg + "On.src");
-                        document.form1 [thisImg].src = imgOn;
+                        document.imgForm [thisImg].src = imgOn;
                 }
         }
 
         function unpress(thisImg) {
                 if (document.images) {
                         imgOff = eval(thisImg + "Off.src");
-                        document.form1 [thisImg].src = imgOff;
+                        document.imgForm [thisImg].src = imgOff;
                 }
         }
 
@@ -75,7 +89,7 @@
 
 
 <script language="JavaScript">
-//<!--
+<!--//
 function openOutWin(url) {
          var isNav3 = false;
          var isIE5 = false;
@@ -144,7 +158,7 @@ function openOutWin(url) {
         function isEmpty(inputStr) {
                 for(var i=0; i<inputStr.length; i++) {
                         oneChar = inputStr.charAt(i);
-                        if ((oneChar != ' ') && (oneChar != '\n') && (oneChar !='\t'))
+                        if ((oneChar != ' ') && (oneChar != '\n') && (oneChar !='\t') && (oneChar != '\r'))
                                 return false;
                 }
                 return true;
@@ -166,112 +180,150 @@ function openOutWin(url) {
 </script>
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" link="#660099" vlink="#990000" alink="#990000" topmargin="0" marginheight="0">
-
-<font class="minusTwo"><a href="#skip" title="This link is for screen readers and text browsers">Skip to content</a></font>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#330066">
-        <tbody><tr><td border="0" width="205" height="40" align="left" valign="top">
-
-	<a href="http://medlineplus.gov/"><img src="/medlineplus/images/mpluscolor2.gif" alt="MEDLINEplus Health Information: Return to home page" border="0" width="205" height="40"></a></td>
-<td width="113" height="40" align="left" valign="top"><img src="/medlineplus/images/spacer1.gif" border="0" width="113" height="40" alt=""></td>
-        <td width="100%" height="40" align="left" valign="top">&nbsp;</td>
-        <td width="322" height="40" align="left" valign="top">
-	<a href="/cgi/medlineplus/leavemedplus.pl?theURL=http%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2F" onclick="openOutWin('')" target="TheNewWin"><img src="/medlineplus/images/headerright.gif" alt="A service of the National Library of Medicine: Go to NLM home page" border="0" width="322" height="40"></a></td>
-        </tr>
-        <tr>
-
-          <td width="100%" colspan="4" valign="middle" bgcolor="#CCCCCC">
+<body bgcolor="#FFFFFF" text="#000000" link="#660099" vlink="#660000" alink="#660000" marginheight="0" topmargin="0">
 
 
 
 
-<form method="post" action="/cgi/medlineplus/search2.pl" id="form1" name="form1">
-<font class="minusOne"><b>Search</b></font>
-<input type="text" name="words" size="20" maxlength="60"> 
-<input type="hidden" name="config" value="medplus_fuzzy">
-<input type="hidden" name="method" value="and">
-<input type="hidden" name="format" value="builtin-short">
-<input type="hidden" name="restrict" value="">
-
-		<input type="image" src="/medlineplus/images/go.gif" align="TOP" alt="Go" border="0" value="Go"> 
-    <input type="hidden" name="spell" value="spell">
-
-		
-		&nbsp;&nbsp;&nbsp;
-		<font class="minusOne">
-		<a href="/medlineplus/advancedsearch.html">Advanced&nbsp;Search</a>&nbsp;&nbsp;&nbsp;
-		<a href="/medlineplus/sitemap.html">Site&nbsp;Map</a>&nbsp;&nbsp;&nbsp; 
-		<a href="/medlineplus/aboutmedlineplus.html">About&nbsp;MEDLINEplus</a>&nbsp;&nbsp;&nbsp; 
-
-		<a href="http://medlineplus.gov/">Home</a>
-
-		</font>
-		</form></td></tr>
-
-</tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
+    <tbody><tr>
+        <td colspan="3">
+        <font class="minusTwo"><a href="#skip" title="This link is for screen readers and text browsers">Skip to content</a></font>
+        </td>
+    </tr>
+    <tr>
+        
+        
+        
+                    
+                    
+                        <td width="325" align="left" valign="top"><a href="http://medlineplus.gov/"><img src="/medlineplus/images/default_banner.gif" title="MEDLINEplus Health Information" alt="MEDLINEplus Health Information" border="0" width="325" height="65"></a></td>
+                    
+                
+                    
+        <td width="100%" height="65" align="left" valign="top" background="/medlineplus/images/2banner_slice.gif"><img src="/medlineplus/images/2banner_slice.gif" width="100%" height="65" border="0" title="" alt=""></td><td align="left" valign="top"><img src="/medlineplus/images/medlineplus_secondary.gif" border="0" height="65" title="A service of the U.S. National Library of Medicine and the National Institutes of Health" alt="A service of the U.S. National Library of Medicine and the National Institutes of Health" width="425"></td>
+    </tr>
+    <tr>
+        <td colspan="3" bgcolor="#FFFAEA" valign="absmiddle">
+            <div>
+                
+                
+<form method="get" action="http://search.nlm.nih.gov/medlineplus/query" target="_self" id="form1" name="form1" style="float:left; width:320;margin:1px;">
 
+<input type="hidden" name="DISAMBIGUATION" value="true">
+<input type="hidden" name="FUNCTION" value="search">
 
-		<td align="left" valign="top">
-		
-		
+                <input type="text" name="PARAMETER" size="25" maxlength="60"> 
+                <input type="hidden" name="SHOWTOPICS" value="0">
+                
+                <input type="image" src="/medlineplus/images/search.gif" align="absmiddle" width="57" height="24" border="0" title="Search" alt="Search">
+                </form>
+                                
+            </div>
+            <div>
+                
+                    <a href="/medlineplus/spanish/privacy.html"><img src="/medlineplus/images/espanol.gif" title="español" alt="español" border="0" width="65" height="24" hspace="0" vspace="0" align="right"></a>
+                
+                <a href="/cgi/medlineplus/feedback.pl?from=%2Fmedlineplus%2Fprivacy%2Ehtml"><img src="/medlineplus/images/contactus.gif" title="Contact Us" alt="Contact Us" border="0" width="67" height="24" align="right"></a>
+                <a href="/medlineplus/faq/faq.html"><img src="/medlineplus/images/faq.gif" title="FAQs" alt="FAQs" border="0" width="39" height="24" hspace="0" vspace="0" align="right"></a>
+                <a href="/medlineplus/sitemap.html"><img src="/medlineplus/images/sitemap.gif" title="Site Map" alt="Site Map" border="0" width="56" height="24" align="right"></a>
+                <a href="/medlineplus/aboutmedlineplus.html"><img src="/medlineplus/images/about.gif" title="About" alt="About" border="0" width="42" height="24" hspace="0" vspace="0" align="right"></a>
+                <a href="http://medlineplus.gov/"><img src="/medlineplus/images/home.gif" title="Home" alt="Home" border="0" width="41" height="24" hspace="0" vspace="0" align="right"></a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td width="100%" colspan="3" align="left" valign="top" bgcolor="#330066"><img src="/medlineplus/images/clear.gif" border="0" title="" alt="" width="100%" height="1"></td>
+    </tr>
+<tr>
+<td colspan="3">
+<form name="imgForm">
 
-		
-			<a href="/medlineplus/healthtopics.html" onmouseover="depress('healthtopics');" onmouseout="unpress('healthtopics');"><img name="healthtopics" src="/medlineplus/images/healthtopics_button1.gif" alt="Health Topics: conditions, diseases and wellness" height="20" border="0"></a>
-		
-
-		</td>
-	
-
-		<td align="left" valign="top">
-		
-		
-
-		
-			<a href="/medlineplus/druginformation.html" onmouseover="depress('druginformation');" onmouseout="unpress('druginformation');"><img name="druginformation" src="/medlineplus/images/druginformation_button1.gif" alt="Drug Information: generic and brand name drugs" height="20" border="0"></a>
-		
-
-		</td>
-	
-
-		<td align="left" valign="top">
-		
-		
-
-		
-			<a href="/medlineplus/dictionaries.html" onmouseover="depress('dictionaries');" onmouseout="unpress('dictionaries');"><img name="dictionaries" src="/medlineplus/images/dictionaries_button1.gif" alt="Dictionaries: spellings and definitions of medical terms" height="20" border="0"></a>
-		
-
-		</td>
-	
-
-		<td align="left" valign="top">
-		
-		
-
-		
-			<a href="/medlineplus/directories.html" onmouseover="depress('directories');" onmouseout="unpress('directories');"><img name="directories" src="/medlineplus/images/directories_button1.gif" alt="Directories: doctors, dentists and hospitals" height="20" border="0"></a>
-		
-
-		</td>
-	
-
-		<td align="left" valign="top">
-		
-		
-
-		
-			<a href="/medlineplus/otherresources.html" onmouseover="depress('otherresources');" onmouseout="unpress('otherresources');"><img name="otherresources" src="/medlineplus/images/otherresources_button1.gif" alt="Other Resources: organizations, libraries, publications, MEDLINE" height="20" border="0"></a>
-		
-
-		</td>
-	
-<td></td>
-</tr></tbody></table>
+        
+        
+            
+        
+        
+            
+                
+                
+                
+                    
+                    <a href="/medlineplus/healthtopics.html" onmouseover="depress('healthtopics');" onmouseout="unpress('healthtopics');"><img name="healthtopics" src="/medlineplus/images/healthtopics_button1.gif" align="left" hspace="0" vspace="0" title="Health Topics" alt="Health Topics" height="22" border="0"></a>
+                
+            
+        
+    
+        
+        
+            
+        
+        
+            
+            <a href="/medlineplus/druginformation.html" onmouseover="depress('druginformation');" onmouseout="unpress('druginformation');"><img name="druginformation" src="/medlineplus/images/druginformation_button1.gif" align="left" hspace="0" vspace="0" title="Drug Information" alt="Drug Information" height="22" border="0"></a>
+            
+        
+    
+        
+        
+            
+        
+        
+            
+            <a href="/medlineplus/encyclopedia.html" onmouseover="depress('encyclopedia');" onmouseout="unpress('encyclopedia');"><img name="encyclopedia" src="/medlineplus/images/encyclopedia_button1.gif" align="left" hspace="0" vspace="0" title="Medical Encyclopedia" alt="Medical Encyclopedia" height="22" border="0"></a>
+            
+        
+    
+        
+        
+            
+        
+        
+            
+            <a href="/medlineplus/dictionaries.html" onmouseover="depress('dictionaries');" onmouseout="unpress('dictionaries');"><img name="dictionaries" src="/medlineplus/images/dictionaries_button1.gif" align="left" hspace="0" vspace="0" title="Dictionaries" alt="Dictionaries" height="22" border="0"></a>
+            
+        
+    
+        
+        
+            
+        
+        
+            
+                
+                    <a href="/medlineplus/newsbydate.html" onmouseover="depress('news');" onmouseout="unpress('news');"><img name="news" src="/medlineplus/images/news_button1.gif" align="left" hspace="0" vspace="0" title="News" alt="News" height="22" border="0"></a>
+                
+            
+        
+    
+        
+        
+            
+        
+        
+            
+            <a href="/medlineplus/directories.html" onmouseover="depress('directories');" onmouseout="unpress('directories');"><img name="directories" src="/medlineplus/images/directories_button1.gif" align="left" hspace="0" vspace="0" title="Directories" alt="Directories" height="22" border="0"></a>
+            
+        
+    
+        
+        
+            
+        
+        
+            
+                
+                    <a href="/medlineplus/otherresources.html" onmouseover="depress('otherresources');" onmouseout="unpress('otherresources');"><img name="otherresources" src="/medlineplus/images/otherresources_button1.gif" align="left" hspace="0" vspace="0" title="Other Resources" alt="Other Resources" height="22" border="0"></a>
+                
+            
+        
+    
+</form>
+</td>
+</tr>
+</tbody></table>
 
 <br>
-
 
 
 <a name="skip"></a><h3>MEDLINEplus Privacy Policy</h3>
@@ -306,40 +358,46 @@ The National Library of Medicine (NLM) provides this Web site as a public servic
 
 
 
-<br>
+<!-- end content -->
+
 <table width="100%" border="0" cellspacing="0" cellpadding="3">
-<tbody><tr>
-<td width="100%" align="CENTER" bgcolor="DDDDDD">
-<font class="minusOne">
-<a href="/medlineplus/healthtopics.html">Health Topics</a>  |
-<a href="/medlineplus/druginformation.html">Drug Information</a>  |
-<a href="/medlineplus/dictionaries.html">Dictionaries</a>  |
-<a href="/medlineplus/directories.html">Directories</a>  |
-<a href="/medlineplus/otherresources.html">Other Resources</a> |
-<a href="http://medlineplus.gov">Home</a> <br>
-
-</font>
-</td>
-</tr>
+	<tbody><tr><td><br></td></tr>
+  	<tr>
+      <td width="100%" align="center" class="minusOne">
+      <a href="http://www.nlm.nih.gov/medlineplus/healthtopics.html">Health Topics</a>  |
+      <a href="http://www.nlm.nih.gov/medlineplus/druginformation.html">Drug Information</a>  |
+      <a href="http://www.nlm.nih.gov/medlineplus/encyclopedia.html">Encyclopedia</a> |
+	  <a href="http://www.nlm.nih.gov/medlineplus/dictionaries.html">Dictionaries</a>  |
+	  <a href="http://www.nlm.nih.gov/medlineplus/newsbydate.html">News</a>  |
+      <a href="http://www.nlm.nih.gov/medlineplus/directories.html">Directories</a>  |
+      <a href="http://www.nlm.nih.gov/medlineplus/otherresources.html">Other Resources</a> |
+      <a href="http://medlineplus.gov">Home</a>
+	  </td>
+   </tr>
 </tbody></table>
-<table width="100%">
-<tbody><tr>
-<td align="CENTER">
-<div align="CENTER" class="minusOne">
-<a href="/cgi/medlineplus/leavemedplus.pl?theURL=http%3A%2F%2Fwww%2Enlm%2Enih%2Egov" onclick="openOutWin('')" target="TheNewWin">U.S. National Library of Medicine</a>, 8600 Rockville Pike, Bethesda, MD 20894<br>
-<a href="/cgi/medlineplus/feedback.pl?from=%2Fmedlineplus%2Fprivacy%2Ehtml">Contact&nbsp;Us</a>,
-<a href="/medlineplus/copyright.html">Copyright</a>,
-<a href="/medlineplus/privacy.html">Privacy</a>,
-<a href="/medlineplus/accessibility.html">Accessibility</a>,
-<a href="/medlineplus/criteria.html">Selection&nbsp;Guidelines</a>,
-<a href="/medlineplus/faq/faq.html">FAQs</a>
-<br>Page last updated: 10 April 2002 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="FFFAEA">
+    <tbody><tr>
+    	<td width="100%" bgcolor="330066"><img src="http://www.nlm.nih.gov/medlineplus/images/clear.gif" border="0" alt="" width="100%" height="3"></td>
+    </tr>
+	<tr>
+		<td width="100%" align="center" class="minusOne">
+<a href="http://www.nlm.nih.gov/medlineplus/copyright.html">Copyright</a> | <a href="http://www.nlm.nih.gov/medlineplus/privacy.html">Privacy</a> | <a href="http://www.nlm.nih.gov/medlineplus/accessibility.html">Accessibility</a> | <a href="http://www.nlm.nih.gov/medlineplus/criteria.html">Selection Guidelines</a> <br><a href="http://www.nlm.nih.gov/cgi/medlineplus/leavemedplus.pl?theURL=http://www.nlm.nih.gov" onclick="openOutWin('')" target="TheNewWin">U.S. National Library of Medicine</a> | <a href="http://www.nlm.nih.gov/cgi/medlineplus/leavemedplus.pl?theURL=http://www.nih.gov/" onclick="openOutWin('')" target="TheNewWin">National Institutes of Health</a>
+	     
 
-</div>
-</td>
-</tr>
+		     
+		 	<br>Page last updated: 10 April 2002
+		     
+         
+        </td>
+    </tr>
+    <tr>
+      <td width="100%" bgcolor="330066"><img src="http://www.nlm.nih.gov/medlineplus/images/clear.gif" border="0" alt="" width="760" height="1"></td>
+	</tr>
+	<tr>
+	  <td width="100%" bgcolor="FFFFFF"><img src="http://www.nlm.nih.gov/medlineplus/images/clear.gif" border="0" alt="" width="100%" height="5"></td>
+	</tr>
+
 </tbody></table>
-
 
 
 
