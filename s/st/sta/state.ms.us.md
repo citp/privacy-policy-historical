@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.ms.us privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211192928id_/http%3A//www.state.ms.us/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.ms.us privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621123125id_/http%3A//www.state.ms.us/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | The Official State Web Site of Mississippi
 
@@ -64,5 +64,5 @@ Jackson, MS 39201-1495
 ---|---  
 By telephone at | TOLL FREE: (866) MS1-EGOV (866) 671-3468  
 LOCAL (601) 359-EGOV (601) 359-3468  
-By e-mail at | [Contact Us](https://web.archive.org/web/20021211192928id_/http%3A//www.state.ms.us/contact_us.jsp)  
+By e-mail at | [Contact Us](https://web.archive.org/web/20030621123125id_/http%3A//www.state.ms.us/contact_us.jsp)  
 By fax at | (601) 576-EGOV (601) 576-3468
