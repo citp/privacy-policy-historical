@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207181844id_/http%3A//prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610043517id_/http%3A//www.prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
 
 # Prophet.Net | Home | Privacy Policy
 
@@ -7,13 +7,15 @@
 |   
 ---  
   
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=33&CampaignID=201&AdvertiserID=40&BannerID=557&SiteID=0&RandomNumber=11619)
+[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=33&CampaignID=249&AdvertiserID=40&BannerID=672&SiteID=0&RandomNumber=71454)
 
 |  | 
 
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=34&CampaignID=177&AdvertiserID=55&BannerID=483&SiteID=0&RandomNumber=98845)  
+[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=34&CampaignID=225&AdvertiserID=55&BannerID=482&SiteID=0&RandomNumber=77841)  
   
-**Urgent _Natural Gas Crisis of 2004._ Get our top stock to buy now. [ Yours FREE.](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=66&CampaignID=203&AdvertiserID=58&BannerID=561&SiteID=0&RandomNumber=12059)**
+Share the power to profit! Email a friend to tell them about Prophet.Net.
+
+You can earn free service by referring your friends to Prophet through our membership referral program.
 
 | 
 
@@ -33,8 +35,7 @@ Prophet has security measures in place to protect against the loss, misuse, and 
 
 This site gives users the following options for removing their information from our database; to not receive future communications; and to no longer receive our subscription-based services: 
 
-  1. Send email to:  
-[Info@prophet.net](mailto:Info@prophet.net)
+  1. [contact our support team](https://web.archive.org/help/contact.jsp?subject=TECHSUPPORT)
   2. Send mail to:  
 658 High Street  
 Palo Alto, CA 94301  
@@ -48,8 +49,7 @@ This site give users the following options from changing and modifying informati
 
   1. Use our online [Account Summary](https://web.archive.org/forms/accountsummary.jsp) tool.  
 The fastest and easiest way to update your account! 
-  2. Send email to:  
-[Info@prophet.net](mailto:Info@prophet.net)
+  2. [contact our support team](https://web.archive.org/help/contact.jsp?subject=TECHSUPPORT)
   3. Send mail to:  
 658 High Street  
 Palo Alto, CA 94301 
@@ -64,9 +64,8 @@ Prophet Financial Systems
 658 High Street  
 Palo Alto, CA 94301 
 
-[Info@prophet.net](mailto:Info@prophet.net)
+[contact our support team](https://web.archive.org/help/contact.jsp?subject=TECHSUPPORT)
 
 |  | 
 
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=50&CampaignID=200&AdvertiserID=40&BannerID=558&SiteID=0&RandomNumber=99284)  
 | 
