@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2001-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011017032651id_/http%3A//ibiza-spotlight.com/privacy_i.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610072656id_/http%3A//www.ibiza-spotlight.com/privacy_i.htm) for the most accurate reproduction.*
 
 # Ibiza Spotlight Privacy Policy
 
@@ -20,19 +20,10 @@ Ibiza Spotlight will not sell or rent your personally identifiable information t
 
 
 
-* * *
-
-Ibiza Spotlight works with a third party that serves ads to this site.
-
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>
-
-**Ibiza Spotlight  
+Ibiza Spotlight S.C.P.  
 C/ Pontevedra 6  
 Cala de Bou  
 07820 San Antonio  
 Ibiza, Baleares  
-Spain
-
-[info@ibiza-spotlight.com](mailto:info@ibiza-spotlight.com)
-
-**
+Spain  
+[Contact us](https://web.archive.org/web/20020610072656id_/http%3A//www.ibiza-spotlight.com/contact/contact_i.htm)
