@@ -1,110 +1,546 @@
-<!--The following is the downloaded HTML source of the gene.com privacy policy that was archived on 2001-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010613162833id_/http%3A//www.gene.com/gene/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gene.com privacy policy that was archived on 2002-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021016120036id_/http%3A//www.gene.com/gene/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
+	<title>Genentech - Privacy Policy</title>
      <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-     <meta name="GNEPostDate" content="20001121">
      <meta name="robots" content="index, follow">
      <meta name="keywords" content="privacy">
      <meta name="description" content="Genentech, Inc.'s Privacy Policy">
-     <title>Genentech, Inc.: Contact Information</title>
-<!-- begin-gne-style--> 
-<link rel="stylesheet" href="/gene/styles/main.css" type="text/css"> 
-<link rel="stylesheet" href="/gene/styles/sub.css" type="text/css"> 
-<!-- end-gne-style-->
-<script language="JavaScript" src="/gene/scripts/resizebug.js"></script>
-<script language="JavaScript" src="/gene/scripts/nav1.js"></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="googlebot" content="noarchive, index, follow">
+<!-- __________________________________________________________________
+
+     Copyright 2002 Genentech Inc.  All rights reserved.
+     Created and maintained by Jel Productions | www.jelproductions.com
+     __________________________________________________________________
+ -->
+
+<script language="javascript">
+<!--
+	if (document.layers) {
+		document.write("<link rel=\"stylesheet\" href=\"/gene/common/ns.css\">");
+	} else {
+		document.write("<link rel=\"stylesheet\" href=\"/gene/common/ie.css\">");
+	}
+// -->
+</script><link rel="stylesheet" href="/gene/common/ie.css">
+
+	<script src="/gene/common/javascript.js"></script>
 </head>
-<body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bgcolor="#FFFFFF" text="#000000" link="#888888" vlink="#777777" alink="#CCCCCC" onload="MM_preloadImages('/gene/shared_images/nav1/about_2.gif','/gene/shared_images/nav1/products_2.gif','/gene/shared_images/nav1/science_2.gif','/gene/shared_images/nav1/pipeline_2.gif','/gene/shared_images/nav1/news_2.gif','/gene/shared_images/nav1/investor_2.gif','/gene/shared_images/nav1/careers_2.gif');">
-<!-- #BeginLibraryItem "/Library/header.lbi"-->
-<a name="home"></a>
-<table width="100%" bgcolor="#000066" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td><a href="/gene/"><img src="/gene/shared_images/gene_logo.gif" width="217" height="61" border="0"></a></td>
-    <td background="/gene/shared_images/bg_stars.gif" align="right" width="100%"><img src="/gene/shared_images/helix.gif" width="357" height="61"></td>
-  </tr>
+<body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" bgcolor="#ffffff" onload="pageLoaded=1;">
+
+<table cellpadding="2" cellspacing="0" border="0" width="761">
+	
+
+
+
+
+
+
+
+<style type="text/css">
+<!--
+.resetSubnav{z-index: 5; position: absolute; top: 0; left: 0; visibility: hidden;}
+
+.topNav{z-index: 10; position: absolute; top: 73; left: 26; visibility: visible;}
+.emptySubnav{z-index: 10; position: absolute; top: 93; left: 26; visibility: hidden;}
+.aboutusSubnav{z-index: 10; position: absolute; top: 90; left: 30; visibility: hidden;}
+.productsSubnav{z-index: 10; position: absolute; top: 90; left: 132; visibility: hidden;}
+.researchSubnav{z-index: 10; position: absolute; top: 90; left: 234; visibility: hidden;}
+.pipelineSubnav{z-index: 10; position: absolute; top: 90; left: 336; visibility: hidden;}
+.newsSubnav{z-index: 10; position: absolute; top: 90; left: 438; visibility: hidden;}
+.irSubnav{z-index: 10; position: absolute; top: 90; left: 481; visibility: hidden;}
+.careersSubnav{z-index: 10; position: absolute; top: 90; left: 583; visibility: hidden;}
+-->
+</style>
+
+
+
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+<!--
+var blnReset = false;
+var defaultSubnav = "emptySubnav";
+var currImage = "";
+var currLayer = "";
+
+function showtopnav(menuname)
+{
+//	if (menuname != currImage) {
+		resettopnav(menuname);
+		currLayer = menuname + "Subnav";
+		showLayer(menuname+'Subnav');
+		showLayer('resetSubnav');
+		img_act_nav(menuname, "topNav");
+		clearreset();
+//	}
+}
+function resettopnav()
+{
+	if (currLayer != "") {
+		hideLayer(currLayer);
+	}
+	if ((currImage != "") && (currImage + "Subnav" != defaultSubnav)) {
+		img_inact_nav(currImage, "topNav");
+	}
+	showLayer("emptySubnav");
+	clearreset();
+}
+function settimedreset()
+{
+	hideLayer('resetSubnav');
+	blnReset = true;
+	resetTimeout = setTimeout('timedresetnav()', 1000);
+}
+function timedresetnav()
+{
+	if(blnReset)
+	{
+		resettopnav();
+	}
+}
+function clearreset()
+{
+	if(blnReset) window.clearTimeout(resetTimeout);
+	blnReset = false;
+}
+function img_inact_nav(imagename,layername)
+{
+	if (document.layers){
+		document.layers[layername].document.images[imagename].src = eval(imagename + 'Off.src')
+	}else{
+		document [imagename].src = eval(imagename + 'Off.src')
+	}
+	if (layername == "topNav") {
+		currImage = "";
+	}
+//	showLayer('resetSubnav');
+	clearreset();
+}
+function img_act_nav(imagename,layername)
+{
+	if (document.layers){
+		document.layers[layername].document.images[imagename].src = eval(imagename + 'On.src')
+	}else{
+		document [imagename].src = eval(imagename + 'On.src')
+	}
+	if (layername == "topNav") {
+		currImage = imagename;
+	}
+	showLayer('resetSubnav');
+	clearreset();
+}
+//-->
+</script>
+	<tbody><tr>
+		<!--  begin: Upper left box - logo -->
+		<td width="148" valign="top"><a name="top"></a>
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr valign="top">
+				<td><img src="/gene/common/images/spacer.gif" height="1" width="27" border="0" alt=""></td>
+				<td>
+					<img src="/gene/common/images/spacer.gif" height="23" width="1" border="0" alt=""><br>
+					<a href="/gene/index.jsp" target="_top"><img src="/gene/common/images/logo2.gif" width="123" height="32" border="0" alt=""></a><br>
+				</td>
+			</tr>
+		</tbody></table>
+		</td>
+		<!-- end: Upper left box - logo? -->
+		<td width="622" align="right">
+		<!-- begin: home, contact, search -->
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr valign="top">
+				<td><a href="/gene/" class="toplink" target="_top">Home</a><br></td>
+				<td><img src="/gene/common/images/nav/gray-vert-line.gif" width="11" height="13" border="0" alt="" hspace="3"><br></td>
+				<td><a href="/gene/contact/" class="toplink" target="_top">Contact Us</a><br></td>
+				<td><img src="/gene/common/images/nav/gray-vert-line.gif" width="11" height="13" border="0" alt="" hspace="3"><br></td>
+				<td><a href="/gene/searchgene/search.jsp" class="toplink" target="_top">Search</a><br></td>
+				<td><img src="/gene/common/images/spacer.gif" height="1" width="25" border="0" alt=""></td>
+			</tr>
+		</tbody></table>
+		 <!---end: home, contact, search -->
+		</td>
+	</tr>
 </tbody></table>
-<!-- #EndLibraryItem -->
-<!-- #BeginLibraryItem "/Library/nav1.lbi"-->
-<!--begin-gne-navigation--> 
-<script language="JavaScript1.2">fwLoadMenus();</script>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<!-- fwtable fwsrc="nav1.png" fwbase="nav1.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
-  <tbody><tr bgcolor="#999999">
-   <td><img name="slice" src="/gene/shared_images/nav1/slice.gif" width="136" height="20" border="0"></td>
-   <td><a href="/gene/about_genentech/" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_0,136,81);MM_nbGroup('over','about','/gene/shared_images/nav1/about_2.gif','/gene/shared_images/nav1/about_2.gif',1);" onclick="MM_nbGroup('down','navbar1','about','/gene/shared_images/nav1/about_2.gif',1);"><img name="about" src="/gene/shared_images/nav1/about.gif" width="84" height="20" border="0" alt="About Us"></a></td>
-   <td><a href="/gene/products/" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_1,220,81);MM_nbGroup('over','products','/gene/shared_images/nav1/products_2.gif','/gene/shared_images/nav1/products_2.gif',1);" onclick="MM_nbGroup('down','navbar1','products','/gene/shared_images/nav1/products_2.gif',1);"><img name="products" src="/gene/shared_images/nav1/products.gif" width="87" height="20" border="0" alt="Products"></a></td>
-   <td><a href="/gene/science/" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_2,307,81);MM_nbGroup('over','science','/gene/shared_images/nav1/science_2.gif','/gene/shared_images/nav1/science_2.gif',1);" onclick="MM_nbGroup('down','navbar1','science','/gene/shared_images/nav1/science_2.gif',1);"><img name="science" src="/gene/shared_images/nav1/science.gif" width="74" height="20" border="0" alt="Science"></a></td>
-   <td><a href="/gene/science/pipeline/" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_3,381,81);MM_nbGroup('over','pipeline','/gene/shared_images/nav1/pipeline_2.gif','/gene/shared_images/nav1/pipeline_2.gif',1);" onclick="MM_nbGroup('down','navbar1','pipeline','/gene/shared_images/nav1/pipeline_2.gif',1);"><img name="pipeline" src="/gene/shared_images/nav1/pipeline.gif" width="74" height="20" border="0" alt="Pipeline"></a></td>
-   <td><a href="/gene/news/" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_4,455,81);MM_nbGroup('over','news','/gene/shared_images/nav1/news_2.gif','/gene/shared_images/nav1/news_2.gif',1);" onclick="MM_nbGroup('down','navbar1','news','/gene/shared_images/nav1/news_2.gif',1);"><img name="news" src="/gene/shared_images/nav1/news.gif" width="62" height="20" border="0" alt="News"></a></td>
-   <td><a href="/gene/investor_relations/" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_5,517,81);MM_nbGroup('over','investor','/gene/shared_images/nav1/investor_2.gif','/gene/shared_images/nav1/investor_2.gif',1);" onclick="MM_nbGroup('down','navbar1','investor','/gene/shared_images/nav1/investor_2.gif',1);"><img name="investor" src="/gene/shared_images/nav1/investor.gif" width="143" height="20" border="0" alt="Investor Relations"></a></td>
-   <td><a href="/gene/careers/" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_6,603,81);MM_nbGroup('over','careers','/gene/shared_images/nav1/careers_2.gif','/gene/shared_images/nav1/careers_2.gif',1);" onclick="MM_nbGroup('down','navbar1','careers','/gene/shared_images/nav1/careers_2.gif',1);"><img name="careers" src="/gene/shared_images/nav1/careers.gif" width="76" height="20" border="0" alt="Careers"></a></td>
-   <td width="100%"><img src="/gene/shared_images/p.gif" width="1" height="20" border="0"></td>
-  </tr>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="761">
+	<tbody><tr>
+		<td colspan="4"><img src="/gene/common/images/spacer.gif" height="34" width="1" border="0" alt=""></td>
+	</tr>
 </tbody></table>
-<!-- #EndLibraryItem -->
-<br>
-<table width="100%" border="0" cellspacing="18" cellpadding="0">
-  <tbody><tr valign="top">
-    <td width="100" align="center">
-    <!-- #BeginLibraryItem "/Library/25years.lbi"-->
-      <a href="/gene/25years/"><img src="/gene/shared_images/25years.gif" width="74" height="74" border="0" hspace="13"></a><br>
-    <!-- #EndLibraryItem -->
-<!--begin-sidebar-left-->
-<!--end-sidebar-left-->
-    </td>
-    <td width="100%">
-<!--begin-content-->
-      <p><span class="head1">Privacy Policy</span></p>
-      <p>Genentech, Inc. respects the privacy of visitors to its website, and we recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, such as name, address, e-mail address, and telephone number). That is why Genentech has established this privacy policy, so that you can understand the care with which we intend to treat your information. </p>
-      <p>With respect to this website, Genentech, Inc. will only collect, store or use personally identifiable information ("Your Information"), when it is voluntarily submitted to us. It is our intent to inform you before we do that and to tell you what we intend to do with the information. You will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information. </p>
-      <p>We will use Your Information to respond to requests you may make of us, and from time to time, we may refer to Your Information to better understand your needs and how we can improve our website's, products and services. We will not sell Your Information, use Your Information for our gain, or share Your Information with any other company or organization. Any and all uses would comply with all applicable laws. </p>
-      <p>If you choose not to provide the information we request, you can still visit most of the Genentech website, but you may be unable to access certain options and services. In general, you can visit www.gene.com without telling us who you are or revealing any personal information about yourself. We track the total number of visitors to our site, the number of visitors to each page of our site, and the domain names of our visitors' Internet service providers  and analyze this data for trends and statistics, but the individual user remains anonymous.</p>
-      <p>We are committed to protecting the privacy of children. You should be aware that this site is not intended, or designed to attract children under the age of 13. As noted above, we do not collect personally identifiable information -- including an individual's age. </p>
-      <p>Our website has security measures in place, including the use of industry standard secure socket layer encryption (SSL), to protect the confidentiality of any of Your Information that you volunteer. However, to take advantage of this, your browser must support encryption protection (found in Internet Explorer release 3.0 and above and Netscape Navigator release 3.0 and above). These security measures also help us to honor your choices for the use of Your Information. </p>
-      <p>As a convenience to our visitors, this website currently contains links to a number of sites that we believe may offer useful information. The policies and procedures we described here do not apply to those sites. We suggest contacting those sites directly for information on their privacy, security, data collection and distribution policies. </p>
-      <p>Personal data privacy is a new and evolving area, and Genentech is evolving to meet these demands. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please contact us at <a href="mailto:webmaster@gene.com">webmaster@gene.com</a>. We will address any issue to the best of our abilities. </p>
-      <p>We may update this Website Privacy Policy from time to time. When we do update it, however, for your convenience, we will make the updated policy available on this page.</p>
-      <p><font size="-1">Last updated April 14, 2000.</font></p>
-<!--end-content-->
-    </td>
-    <td width="125">
-    <!-- #BeginLibraryItem "/Library/nav0.lbi"-->
-      <table border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr valign="top">
-          <td><a href="/gene/"><img src="/gene/shared_images/nav0/home.gif" width="46" height="36" border="0"></a></td>
-          <td><a href="/gene/search/"><img src="/gene/shared_images/nav0/search.gif" width="40" height="36" border="0"></a></td>
-          <td><a href="/gene/contact.html"><img src="/gene/shared_images/nav0/contact.gif" width="39" height="36" border="0"></a></td>
-        </tr>
-      </tbody></table>
-      <br>
-    <!-- #EndLibraryItem -->
-<!--begin-sidebar-right-->
-<!--end-sidebar-right-->
-    </td>
-  </tr>
+
+<table cellpadding="0" cellspacing="0" border="0" width="761">
+	<tbody><tr>
+		<td rowspan="2"><img src="/gene/common/images/spacer.gif" height="1" width="26" border="0" alt=""><br></td>
+		<td><img src="/gene/common/images/spacer.gif" height="20" width="190" border="0" alt=""><br></td>
+		<td><img src="/gene/common/images/spacer.gif" height="20" width="1" border="0" alt=""><br></td>
+		<td rowspan="2"><img src="/gene/common/images/spacer.gif" height="1" width="26" border="0" alt=""><br></td>
+	</tr>
+
+
+	
+	
+	<tr valign="top">
+		<td valign="top" colspan="2">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr valign="top">
+				<td width="334"><img src="/gene/common/images/spacer.gif" width="334" height="1" border="0" alt=""><br>
+				</td>
+				<td width="185"><img src="/gene/common/images/spacer.gif" width="185" height="1" border="0" alt=""><br>
+				</td>
+			</tr>
+			<tr valign="top">
+				<td colspan="2" width="100%">
+				<table cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td><img src="/gene/common/images/spacer.gif" width="15" height="1" border="0" alt=""><br>
+						</td>
+						<!-- begin: Content -->
+						<td>
+						<p class="body"><b>Privacy Policy</b></p>
+						<p class="body">Genentech, Inc. respects the privacy of visitors to its website, and we recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, such as name, address, e-mail address, and telephone number). That is why Genentech has established this privacy policy, so that you can understand the care with which we intend to treat your information. </p>
+						<p class="body">With respect to this website, Genentech, Inc. will only collect, store or use personally identifiable information ("Your Information"), when it is voluntarily submitted to us. It is our intent to inform you before we do that and to tell you what we intend to do with the information. You will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information. </p>
+						<p class="body">We will use Your Information to respond to requests you may make of us, and from time to time, we may refer to Your Information to better understand your needs and how we can improve our website's products and services. We will not sell Your Information, use Your Information for our gain, or share Your Information with any other company or organization. Any and all uses would comply with all applicable laws. </p>
+						<p class="body">If you choose not to provide the information we request, you can still visit most of the Genentech website, but you may be unable to access certain options and services. In general, you can visit www.gene.com without telling us who you are or revealing any personal information about yourself. We track the total number of visitors to our site, the number of visitors to each page of our site, and the domain names of our visitors' Internet service providers and analyze this data for trends and statistics, but the individual user remains anonymous.</p>
+						<p class="body">We are committed to protecting the privacy of children. You should be aware that this site is not intended, or designed to attract children under the age of 13. As noted above, we do not collect personally identifiable information -- including an individual's age. </p>
+						<p class="body">Our website has security measures in place, including the use of industry standard secure socket layer encryption (SSL), to protect the confidentiality of any of Your Information that you volunteer. However, to take advantage of this, your browser must support encryption protection (found in Internet Explorer release 3.0 and above and Netscape Navigator release 3.0 and above). These security measures also help us to honor your choices for the use of Your Information. </p>
+						<p class="body">As a convenience to our visitors, this website currently contains links to a number of sites that we believe may offer useful information. The policies and procedures we described here do not apply to those sites. We suggest contacting those sites directly for information on their privacy, security, data collection and distribution policies. </p>
+						<p class="body">Personal data privacy is a new and evolving area, and Genentech is evolving to meet these demands. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please contact us at <a class="link" href="mailto:webmaster@gene.com">webmaster@gene.com</a>. We will address any issue to the best of our abilities. </p>
+						<p class="body">We may update this Website Privacy Policy from time to time. When we do update it, however, for your convenience, we will make the updated policy available on this page.</p>
+						<p class="body">Last updated April 14, 2000.</p>
+						<!-- end: Content -->
+						</td>
+						<td><img src="/gene/common/images/spacer.gif" width="15" height="1" border="0" alt=""><br>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="3">&nbsp;<br>
+						</td>
+					</tr>
+				</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	
+	
 </tbody></table>
-<!-- #BeginLibraryItem "/Library/footer.lbi"-->
-<!-- footer -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td rowspan="3" height="13" width="20"><img src="/gene/shared_images/footer1.gif" width="20" height="13"></td>
-    <td height="6" width="50%"><img src="/gene/shared_images/p.gif" width="1" height="6"></td>
-    <td rowspan="3" height="13" width="77"><img src="/gene/shared_images/footer2.gif" width="77" height="13"></td>
-    <td height="6" width="50%"><img src="/gene/shared_images/p.gif" width="1" height="6"></td>
-    <td rowspan="3" width="20" height="13"><img src="/gene/shared_images/footer3.gif" width="20" height="13"></td>
-  </tr>
-  <tr> 
-    <td bgcolor="#999999" height="1" width="50%"><img src="/gene/shared_images/p.gif" width="1" height="1"></td>
-    <td bgcolor="#999999" height="1" width="50%"><img src="/gene/shared_images/p.gif" width="1" height="1"></td>
-  </tr>
-  <tr> 
-    <td height="6" width="50%"><img src="/gene/shared_images/p.gif" width="1" height="6"></td>
-    <td height="6" width="50%"><img src="/gene/shared_images/p.gif" width="1" height="6"></td>
-  </tr>
+
+
+ <table cellpadding="0" cellspacing="0" border="0" width="760">
+	<tbody><tr>
+		<td><img src="/gene/common/images/spacer.gif" height="33" width="26" border="0" alt=""></td>
+		<td align="right" bgcolor="#2E495C" width="100%">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td class="copyright">© Genentech, Inc.</td>
+					<td><img src="/gene/common/images/whiteVertLine.gif" height="9" width="17" border="0" alt=""></td>
+					<td><a href="/gene/privacy.jsp" class="copyright" target="_top">Privacy Policy</a></td>
+					<td><img src="/gene/common/images/spacer.gif" height="1" width="34" border="0" alt=""></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td><img src="/gene/common/images/spacer.gif" height="1" width="26" border="0" alt=""></td>
+	</tr>
 </tbody></table>
-<p align="center" class="footer">© Genentech, Inc. | <a href="/gene/privacy.html">Privacy Policy</a> | <a href="/gene/contact.html">Contact Us</a></p>
-<!-- #EndLibraryItem -->
+<!-- Begin DHTML Nav Layers -->
+
+
+<div id="resetSubnav" class="resetSubnav">
+
+<a href="#" onmouseover="settimedreset();" onclick="return false;" target="_top"><img src="/gene/common/images/spacer.gif" width="99%" height="560" border="0"></a>
+
+</div>
+
+ <!---begin: main nav--->
+<div id="topNav" class="topNav">
+<table cellpadding="0" cellspacing="0" border="0" width="709">
+<tbody><tr>
+	<td width="761">
+	<a href="/gene/about/" onmouseover="showtopnav('aboutus');" target="_top"><img name="aboutus" src="/gene/common/images/nav/about-us.gif" width="102" height="20" border="0" alt="About Us"></a><a href="/gene/products/" onmouseover="showtopnav('products');" target="_top"><img name="products" src="/gene/common/images/nav/products.gif" width="102" height="20" border="0" alt="Products"></a><a href="/gene/research/" onmouseover="showtopnav('research');" target="_top"><img name="research" src="/gene/common/images/nav/research.gif" width="102" height="20" border="0" alt="Research"></a><a href="/gene/pipeline/status/" onmouseover="showtopnav('pipeline');" target="_top"><img name="pipeline" src="/gene/common/images/nav/pipeline.gif" width="101" height="20" border="0" alt="Pipeline"></a><a href="/gene/news/" onmouseover="showtopnav('news');" target="_top"><img name="news" src="/gene/common/images/nav/news.gif" width="101" height="20" border="0" alt="News"></a><a href="/gene/ir/" onmouseover="showtopnav('ir');" target="_top"><img name="ir" src="/gene/common/images/nav/ir.gif" width="100" height="20" border="0" alt="Investor Relations"></a><a href="/gene/careers/" onmouseover="showtopnav('careers');" target="_top"><img name="careers" src="/gene/common/images/nav/careers.gif" width="101" height="20" border="0" alt="Careers"></a><br>
+	</td>
+</tr>
+</tbody></table>
+</div>
+<!--- end: main nav--->
+
+<!---begin: sub nav--->
+<div id="aboutusSubnav" class="aboutusSubnav">
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><a href="/gene/about/corporate/" onmouseover="img_act_nav('corpoverviewNav','aboutusSubnav');" onmouseout="img_inact_nav('corpoverviewNav','aboutusSubnav');" target="_top"><img name="corpoverviewNav" src="/gene/about/images/subnav/nav-corp-overview.gif" width="146" height="21" border="0" alt="Corporate Overview"></a><br></td>
+		<td>
+			<img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br>
+			<img src="/gene/common/images/shadowspacer.gif" height="18" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br>
+		</td>
+	</tr>
+	<tr>
+		<td><a href="/gene/about/medicine/" onmouseover="img_act_nav('medicinedevNav','aboutusSubnav');" onmouseout="img_inact_nav('medicinedevNav','aboutusSubnav');" target="_top"><img name="medicinedevNav" src="/gene/about/images/subnav/nav-medicine-development.gif" width="146" height="20" border="0" alt="Medicine Development"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/about/community/" onmouseover="img_act_nav('comminvolvNav','aboutusSubnav');" onmouseout="img_inact_nav('comminvolvNav','aboutusSubnav');" target="_top"><img name="comminvolvNav" src="/gene/about/images/subnav/nav-commun-involv.gif" width="146" height="20" border="0" alt="Community Involvement"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/about/collaborations/" onmouseover="img_act_nav('collaborationsNav','aboutusSubnav');" onmouseout="img_inact_nav('collaborationsNav','aboutusSubnav');" target="_top"><img name="collaborationsNav" src="/gene/about/images/subnav/nav-strategic-alliances.gif" width="146" height="20" border="0" alt="Strategic Alliances"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/about/awards/" onmouseover="img_act_nav('awardsNav','aboutusSubnav');" onmouseout="img_inact_nav('awardsNav','aboutusSubnav');" target="_top"><img name="awardsNav" src="/gene/about/images/subnav/nav-awards-recognition.gif" width="146" height="20" border="0" alt="Awards &amp; Recognition"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/about/management/" onmouseover="img_act_nav('mgmtNav','aboutusSubnav');" onmouseout="img_inact_nav('mgmtNav','aboutusSubnav');" target="_top"><img name="mgmtNav" src="/gene/about/images/subnav/nav-management.gif" width="146" height="20" border="0" alt="Management"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td>
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr valign="top">
+				<td><img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br></td>
+				<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="143" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+</tbody></table>
+</div>
+
+<div id="productsSubnav" class="productsSubnav">
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><a href="/gene/products/information/" onmouseover="img_act_nav('prodinfoNav','productsSubnav');" onmouseout="img_inact_nav('prodinfoNav','productsSubnav');" target="_top"><img name="prodinfoNav" src="/gene/products/images/subnav/nav-product-info.gif" width="146" height="21" border="0" alt="Product Information"></a><br></td>
+		<td>
+			<img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br>
+			<img src="/gene/common/images/shadowspacer.gif" height="18" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br>
+		</td>
+	</tr>
+	<tr>
+		<td><a href="/gene/products/education/" onmouseover="img_act_nav('diseducNav','productsSubnav');" onmouseout="img_inact_nav('diseducNav','productsSubnav');" target="_top"><img name="diseducNav" src="/gene/products/images/subnav/nav-disease-educ.gif" width="146" height="20" border="0" alt="Disease Education"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/products/profiles/" onmouseover="img_act_nav('patprofNav','productsSubnav');" onmouseout="img_inact_nav('patprofNav','productsSubnav');" target="_top"><img name="patprofNav" src="/gene/products/images/subnav/nav-patient-profiles.gif" width="146" height="20" border="0" alt="Patient Profiles"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/products/patient-assist-program.jsp" onmouseover="img_act_nav('patasprogNav','productsSubnav');" onmouseout="img_inact_nav('patasprogNav','productsSubnav');" target="_top"><img name="patasprogNav" src="/gene/products/images/subnav/nav-patient-asst-prog.gif" width="146" height="20" border="0" alt="Patient Assistance Program"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td>
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr valign="top">
+				<td><img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br></td>
+				<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="143" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+</tbody></table>
+</div>
+
+<div id="researchSubnav" class="researchSubnav">
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><a href="/gene/research/researchvision.jsp" onmouseover="img_act_nav('ourvisionNav','researchSubnav');" onmouseout="img_inact_nav('ourvisionNav','researchSubnav');" target="_top"><img name="ourvisionNav" src="/gene/research/images/subnav/nav-our-vision.gif" width="146" height="21" border="0" alt="Our Vision"></a><br></td>
+		<td>
+			<img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br>
+			<img src="/gene/common/images/shadowspacer.gif" height="18" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br>
+		</td>
+	</tr>
+	<tr>
+		<td><a href="/gene/research/focusareas/" onmouseover="img_act_nav('focusareasNav','researchSubnav');" onmouseout="img_inact_nav('focusareasNav','researchSubnav');" target="_top"><img name="focusareasNav" src="/gene/research/images/subnav/nav-focus-areas.gif" width="146" height="20" border="0" alt="Focus Areas"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/research/biotechnology/" onmouseover="img_act_nav('biotechnologyNav','researchSubnav');" onmouseout="img_inact_nav('biotechnologyNav','researchSubnav');" target="_top"><img name="biotechnologyNav" src="/gene/research/images/subnav/nav-science-of-biotech.gif" width="146" height="20" border="0" alt="Science of Biotechnology"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/research/sci-profiles/" onmouseover="img_act_nav('researcherProfilesNav','researchSubnav');" onmouseout="img_inact_nav('researcherProfilesNav','researchSubnav');" target="_top"><img name="researcherProfilesNav" src="/gene/research/images/subnav/nav-researcher-profiles.gif" width="146" height="20" border="0" alt="Researcher Profiles"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/research/postdoctoral/" onmouseover="img_act_nav('postdoctoralNav','researchSubnav');" onmouseout="img_inact_nav('postdoctoralNav','researchSubnav');" target="_top"><img name="postdoctoralNav" src="/gene/research/images/subnav/nav-postdoctoralprogram.gif" width="146" height="20" border="0" alt="Researcher Profiles"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/research/resourceboard/" onmouseover="img_act_nav('reviewboardNav','researchSubnav');" onmouseout="img_inact_nav('reviewboardNav','researchSubnav');" target="_top"><img name="reviewboardNav" src="/gene/research/images/subnav/nav-resource-board.gif" width="146" height="20" border="0" alt="Scientific Resource Board"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td>
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr valign="top">
+				<td><img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br></td>
+				<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="143" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+</tbody></table>
+</div>
+
+<div id="pipelineSubnav" class="pipelineSubnav">
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><a href="/gene/pipeline/status/" onmouseover="img_act_nav('devstatNav','pipelineSubnav');" onmouseout="img_inact_nav('devstatNav','pipelineSubnav');" target="_top"><img name="devstatNav" src="/gene/pipeline/images/subnav/nav-develop-status.gif" width="146" height="21" border="0" alt="Development Status"></a><br></td>
+		<td>
+			<img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br>
+			<img src="/gene/common/images/shadowspacer.gif" height="18" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br>
+		</td>
+	</tr>
+	<tr>
+		<td><a href="/gene/pipeline/trials/" onmouseover="img_act_nav('clintriNav','pipelineSubnav');" onmouseout="img_inact_nav('clintriNav','pipelineSubnav');" target="_top"><img name="clintriNav" src="/gene/pipeline/images/subnav/nav-clinical-trials.gif" width="146" height="20" border="0" alt="Clinical Trials"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/pipeline/trial-education/" onmouseover="img_act_nav('trieduNav','pipelineSubnav');" onmouseout="img_inact_nav('trieduNav','pipelineSubnav');" target="_top"><img name="trieduNav" src="/gene/pipeline/images/subnav/nav-trial-education.gif" width="146" height="20" border="0" alt="Clinical Trial Education"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td>
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr valign="top">
+				<td><img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br></td>
+				<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="143" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+</tbody></table>
+</div>
+
+<div id="newsSubnav" class="newsSubnav">
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><a href="/gene/news/press-releases/" onmouseover="img_act_nav('pressNav','newsSubnav');" onmouseout="img_inact_nav('pressNav','newsSubnav');" target="_top"><img name="pressNav" src="/gene/news/images/subnav/nav-press-releases.gif" width="146" height="21" border="0" alt="Press Releases"></a><br></td>
+		<td>
+			<img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br>
+			<img src="/gene/common/images/shadowspacer.gif" height="18" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr valign="top">
+				<td><img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br></td>
+				<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="143" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+</tbody></table>
+</div>
+
+<div id="irSubnav" class="irSubnav">
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><a href="/gene/ir/investor-contacts.jsp" onmouseover="img_act_nav('invcontactNav','irSubnav');" onmouseout="img_inact_nav('invcontactNav','irSubnav');" target="_top"><img name="invcontactNav" src="/gene/ir/images/subnav/nav-investor-contacts.gif" width="146" height="21" border="0" alt="Investor Contacts"></a><br></td>
+		<td>
+			<img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br>
+			<img src="/gene/common/images/shadowspacer.gif" height="18" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br>
+		</td>
+	</tr>
+	<tr>
+		<td><a href="/gene/ir/stock-info/quote/" onmouseover="img_act_nav('stockNav','irSubnav');" onmouseout="img_inact_nav('stockNav','irSubnav');" target="_top"><img name="stockNav" src="/gene/ir/images/subnav/nav-stock-info.gif" width="146" height="20" border="0" alt="Stock Information"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/ir/shareholder/" onmouseover="img_act_nav('shareNav','irSubnav');" onmouseout="img_inact_nav('shareNav','irSubnav');" target="_top"><img name="shareNav" src="/gene/ir/images/subnav/nav-shareholder-svcs.gif" width="146" height="20" border="0" alt="Shareholder Services"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/ir/financials/" onmouseover="img_act_nav('financialsNav','irSubnav');" onmouseout="img_inact_nav('financialsNav','irSubnav');" target="_top"><img name="financialsNav" src="/gene/ir/images/subnav/nav-financials.gif" width="146" height="20" border="0" alt="Financials"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/ir/investor-calendar.jsp" onmouseover="img_act_nav('invcalendarNav','irSubnav');" onmouseout="img_inact_nav('invcalendarNav','irSubnav');" target="_top"><img name="invcalendarNav" src="/gene/ir/images/subnav/nav-investor-calendar.gif" width="146" height="20" border="0" alt="Investor Calendar"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td>
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr valign="top">
+				<td><img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br></td>
+				<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="143" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+</tbody></table>
+</div>
+
+<div id="careersSubnav" class="careersSubnav">
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><a href="/gene/careers/jobs/" onmouseover="img_act_nav('jobpostNav','careersSubnav');" onmouseout="img_inact_nav('jobpostNav','careersSubnav');" target="_top"><img name="jobpostNav" src="/gene/careers/images/subnav/nav-job-postings.gif" width="146" height="21" border="0" alt="Job Postings"></a><br></td>
+		<td>
+			<img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br>
+			<img src="/gene/common/images/shadowspacer.gif" height="18" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br>
+		</td>
+	</tr>
+	<tr>
+		<td><a href="/gene/careers/culture/" onmouseover="img_act_nav('cultureNav','careersSubnav');" onmouseout="img_inact_nav('cultureNav','careersSubnav');" target="_top"><img name="cultureNav" src="/gene/careers/images/subnav/nav-culture.gif" width="146" height="20" border="0" alt="Culture"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/careers/benefits/" onmouseover="img_act_nav('benefitsNav','careersSubnav');" onmouseout="img_inact_nav('benefitsNav','careersSubnav');" target="_top"><img name="benefitsNav" src="/gene/careers/images/subnav/nav-benefits.gif" width="146" height="20" border="0" alt="Benefits"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/careers/phil-values.jsp" onmouseover="img_act_nav('philvalNav','careersSubnav');" onmouseout="img_inact_nav('philvalNav','careersSubnav');" target="_top"><img name="philvalNav" src="/gene/careers/images/subnav/nav-phil-values.gif" width="146" height="20" border="0" alt="Philosophy &amp; Values"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/careers/diversity.jsp" onmouseover="img_act_nav('diversityNav','careersSubnav');" onmouseout="img_inact_nav('diversityNav','careersSubnav');" target="_top"><img name="diversityNav" src="/gene/careers/images/subnav/nav-diversity.gif" width="146" height="20" border="0" alt="Diversity Statement"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/careers/college/programs.jsp" onmouseover="img_act_nav('collprogNav','careersSubnav');" onmouseout="img_inact_nav('collprogNav','careersSubnav');" target="_top"><img name="collprogNav" src="/gene/careers/images/subnav/nav-coll-prog.gif" width="146" height="20" border="0" alt="College Programs"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td><a href="/gene/careers/college/postdoctoral/" onmouseover="img_act_nav('postdocNav','careersSubnav');" onmouseout="img_inact_nav('postdocNav','careersSubnav');" target="_top"><img name="postdocNav" src="/gene/careers/images/subnav/nav-postdoc.gif" width="146" height="20" border="0" alt="Postdoctoral Program"></a><br></td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="20" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+	<tr>
+		<td>
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr valign="top">
+				<td><img src="/gene/common/images/spacer.gif" height="3" width="3" border="0" alt=""><br></td>
+				<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="143" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td><img src="/gene/common/images/shadowspacer.gif" height="3" width="3" border="0" alt="" style="filter: alpha(opacity=25); -moz-opacity: .25;"><br></td>
+	</tr>
+</tbody></table>
+</div>
+
+<div id="emptySubnav" class="emptySubnav">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td nowrap="">&nbsp;<br></td>
+</tr>
+</tbody></table>
+</div>
+<!-- End DHTML Nav Layers -->
 
 
 </body></html>
