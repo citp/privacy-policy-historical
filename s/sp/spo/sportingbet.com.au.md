@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingbet.com.au privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002090456id_/http%3A//www.sportingbet.com.au/SportsWeb/SportsWeb.dll/Home%3FPage%3D1000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingbet.com.au privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606121453id_/http%3A//www.sportingbet.com.au/SportsWeb/SportsWeb.dll/Home%3FPage%3D1000) for the most accurate reproduction.*
 
 # Sportingbet Australia - Betting on Australian horse racing and all major sports
 
