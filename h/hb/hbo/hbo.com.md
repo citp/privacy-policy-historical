@@ -1,49 +1,67 @@
-> *The following text is extracted and transformed from the hbo.com privacy policy that was archived on 1999-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991013144421id_/http%3A//hbo.com/help/HBOPrivacyNotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbo.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205233800id_/http%3A//www.hbo.com/cmp/HBOPrivacyNotice.shtml) for the most accurate reproduction.*
 
-# HBO PRIVACY NOTICE
+# HBO
 
-**HBO PRIVACY NOTICE**
+Time Warner Online Privacy Notice
 
-PRIVACY PRACTICES AND POLICIES
+Thank you for visiting [HBO.com](http://www.hbo.com/), a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. Click here for a list of the Time Warner businesses whose sites are governed by this Privacy Notice. _The Information We Collect_
 
-HBO automatically collects Web site activity data that is used by us for internal review in aggregate form. E-mail addresses and other personally identifying data about visitors to this site are known to HBO when voluntarily submitted or posted to us. 
+  At some Time Warner sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
-HBO uses personally identifying data provided by visitors to contact visitors who communicate with us. Personally identifying data is collected primarily to enable HBO to mail additional information about HBO to Web site visitors. For example, we direct e-mail to visitors who provide us with their e-mail addresses for specific purposes such as responding to comments or being notified if they have won one of our contests. If you at any point no longer wish to receive communications from HBO, please forward such requests to us at [Webmaster@hbo.com.](mailto:webmaster@hbo.com)
+  At some other Time Warner sites, you can submit information about other people. For example, you might submit a person’s name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient’s name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient’s name, address, e-mail address, and telephone number. 
 
-KIDS -- About Your Privacy
+  We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using ( _e.g.,_ Netscape, Internet Explorer), the type of operating system you are using, ( _e.g._ , Windows ’95 or Mac OS) and the domain name of your Internet service provider ( _e.g.,_ America Online, Earthlink).
 
-Kids should be sure to ask mom or dad for permission before sending any personal information over the Internet. 
+ _How We Use the Information_
 
-A SPECIAL NOTICE FOR PARENTS
+  We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 
-While HBO encourages children to consult with their parents before furnishing data, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufactures that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other personal information without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of direct Marketing Association home page (www.the-dma.org).
-**HBO PRIVACY NOTICE**
+  We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
 
-PRIVACY PRACTICES AND POLICIES
+  We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them.
 
-HBO automatically collects website activity data that is used by us for internal review in aggregate form. E-mail addresses and other personally identifying data about visitors to this site are known to HBO when voluntarily submitted or posted to us. 
+  The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
 
-HBO uses this personally identifying data provided by visitors to contact visitors who communicate with us. Personally identifying data is collected primarily to enable HBO to mail additional information about HBO to website visitors. For example, we direct e-mail to visitors who provide us with their e-mail addresses for specific purposes such as responding to comments or being notified if they have won one of our contests. If you at any point no longer wish to receive communications from HBO, please forward such requests to us at [Webmaster@hbo.com.](mailto:webmaster@hbo.com)
+  We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
 
-KIDS--About Your Privacy
+  We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request.
 
-Kids should be sure to ask their parents for permission before sending any personal information over the internet. 
+  Agents and contractors of Time Warner who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Warner.
 
-A SPECIAL NOTICE FOR PARENTS
+  Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
 
-While HBO encourages children to consult with their parents before furnishing data, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address and other personal information without parental permission. For additional information about parental control tools, please consult the Consumers page of the [Direct Marketing Association](http://www.the-dma.org/).
-**HBO PRIVACY NOTICE**
+  If a Time Warner site discloses personally identifiable information to companies not owned by Time Warner who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please click here.
 
-PRIVACY PRACTICES AND POLICIES
+  Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, click here for instructions on how to make your request.
 
-HBO automatically collects website activity data that is used by us for internal review in aggregate form. E-mail addresses and other personally identifying data about visitors to this site are known to HBO when voluntarily submitted or posted to us. 
+  Finally, Time Warner sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
-HBO uses this personally identifying data provided by visitors to contact visitors who communicate with us. Personally identifying data is collected primarily to enable HBO to mail additional information about HBO to website visitors. For example, we direct e-mail to visitors who provide us with their e-mail addresses for specific purposes such as responding to comments or being notified if they have won one of our contests. If you at any point no longer wish to receive communications from HBO, please forward such requests to us at [Webmaster@hbo.com.](mailto:webmaster@hbo.com)
+_Collection of Information by Third-Party Sites and Sponsors_
 
-KIDS--About Your Privacy
+  Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-Kids should be sure to ask their parents for permission before sending any personal information over the internet. 
+  Time Warner sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Warner has no control over the third-party sponsors' use of this information. The Time Warner site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information.
 
-A SPECIAL NOTICE FOR PARENTS
+ _Cookies_
 
-While HBO encourages children to consult with their parents before furnishing data, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address and other personal information without parental permission. For additional information about parental control tools, please consult the Consumers page of the [Direct Marketing Association](http://www.the-dma.org/).
+  To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+
+  We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
+
+ _Our Commitment to Security_
+
+  We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+
+ _How You can Access or Correct Information_
+
+  For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please click here.
+
+  To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+
+ _Special Note for Parents_
+
+  The site you are visiting is one of the Time Warner general audience sites. For more information about our online privacy practices for children’s sites, consult the privacy notice at the children’s site in which you are interested.
+
+ _How to Contact Us_
+
+  If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at [webmaster@hbo.com](mailto:webmaster@hbo.com)
