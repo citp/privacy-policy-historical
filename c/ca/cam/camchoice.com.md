@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camchoice.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604192646id_/http%3A//www.camchoice.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camchoice.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204062806id_/http%3A//www.camchoice.com/privacy.htm) for the most accurate reproduction.*
 
 # Camchoice - Privacy
 
