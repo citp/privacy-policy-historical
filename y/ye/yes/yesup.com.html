@@ -1,363 +1,396 @@
-<!--The following is the downloaded HTML source of the yesup.com privacy policy that was archived on 2002-08-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020812062756id_/http%3A//yesup.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yesup.com privacy policy that was archived on 2003-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030409093054id_/http%3A//www.yesup.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<title>YesUp.com Music Search</title>
-<meta http-equiv="Content-Type" content="text/html charset=big5">
-<meta name="Keywords" content="English, Japanese, Korean,Chinese,MP3, Music, news, search, download, Real Audio, lyric, Pop Music, PopStar, MP3 Links, MP3 Daily">
-<meta name="Description" content="Music Search engine, Music Daily, music store, shopping cart">
-<style>
+<title>www.yesup.com targeted pay per click advertising</title>
+<meta name="description" content="www.yesup.com targeted pay per click advertising, we give you a unique way to advertise your products and services at as low as 0.01 targeted click">
+<meta name="keywords" content="www.yesup.com, online, advertising, internet, web, www, search, search engine, pay per click, ppc, bid, bids, keywords, keyword bids, keyword management, advertising bids">
+<style type="text/css">
 <!--
-		body {font-size: 11pt; color:#000000 ; font-family: Arial, Verdana;
-              scrollbar-face-color:#B5EF63;scrollbar-shadow-color:#ffffff;
-              scrollbar-highlight-color:#ffffff;scrollbar-3dlight-color:#0066CC;
-              scrollbar-darkshadow-color:#0066CC;scrollbar-track-color:#D9F0B5;
-              scrollbar-arrow-color:#0066CC;}
-        td {font-size: 10pt; color: #000000; font-family: Arial, Verdana;}
-		A:link {text-decoration: none; color: #0000FF;}
-		A:visited {text-decoration: none; color: #0000FF;}
-		A:hover {text-decoration: underline overline; color: #CC0000;}
+	body,td		{ font-family: verdana, helvetica; font-size: 11px; color: #555555; }
+	input.search	{ font-size: 9px; padding: 0px; margin: 0px; margin-top: 3px; }
+	A:link		{ text-decoration: none; }
+	A:visited	{ text-decoration: none; }
+	A:hover		{ text-decoration: underline; }
+	A.foot		{ color: #ffffff; }
+	.carea		{ line-height: 16px; }
+	.foot		{ font-size: 9px; }
 -->
 </style>
-<meta http-equiv="refresh" content="180; url=http://chinesefriend.net/">
-</head>
-<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" onload="self.focus();">
+<script language="Javascript">
+var menu_pos_x = new Array(85, 180, 644);// x-coordinate of dropdown menu 
+var menu_pos_y = new Array(220, 220, 63);// y-coordinate dropdown menu 
+var back_color = '#EBEBEB'; // the background color of dropdown menu 
+var border_color = '#555555'; // the color of dropdown menu border
+var border_size  = '1'; // the width of dropdown menu border
+var menu_width   = '120'; // the width of dropdown menu 
+//// Don't change these parameters
+var delay  = 500; /////
+var active_layer_id = -1;  /////
+var on_layer_id  = -1;  /////
+var buff_id  = -1;  /////
+var linkImg = '<img src=/images/arrow.gif border=0> ';
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr>
-    <td width="170" rowspan="2" valign="top" background="http://www.yesup.com/images/greenline.gif">
-<p valign="top">
-<a href="javascript:window.external.AddFavorite('http://www.yesup.com', '@YesUp Music Search@')" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.yesup.com');">
-<img border="0" src="http://www.yesup.com/images/yesup.gif" align="top" width="170" height="110">
-</a></p>
+menu_content     = new Array (
+'<a href=/advertisers.php class=subMenu>'+linkImg+'Introduction</a> | '+
+'<a href=/adsterms.php class=subMenu>'+linkImg+'Agreement</a> | '+
+'<a href=/adsfaq.php class=subMenu>'+linkImg+'FAQ</a> | '+
+'<a href=/adssignup.php class=subMenu>'+linkImg+'Open Account</a> | '+
+'<a href=/adslogin.php class=subMenu>'+linkImg+'Stats Reports</a> | ',
+
+'<a href=/publishers.php class=subMenu>'+linkImg+'Introduction</a> | '+
+'<a href=/pubspec.php class=subMenu>'+linkImg+'Specifications</a> | '+
+'<a href=/pubsignup.php class=subMenu>'+linkImg+'Join Now</a> | '+
+'<a href=/pubfaq.php class=subMenu>'+linkImg+'FAQ</a> | '+
+'<a href=/member/login.php class=subMenu>'+linkImg+'Stats Reports</a>',
+
+'<a href=http://www.yesup.net/about_us.php class=subMenu>'+linkImg+'About Us</a> | '+
+'<a href=http://www.yesup.net/news.php class=subMenu>'+linkImg+'Press & Events</a> | '+
+'<a href=/privacy.php class=subMenu>'+linkImg+'Privacy</a> | '+
+'<a href=http://www.yesup.net/careers.php class=subMenu>'+linkImg+'Employment</a>');
+
+NS4 = (document.layers) ? 1 : 0;
+
+
+function layer_enter (id){
+	on_layer_id = id;
+}
+
+function layer_exit (id){
+	on_layer_id = - 1;
+	setTimeout ('hide('+ id +')', delay/5);
+}
+
+function menu_enter (id){
+	if (buff_id >= 0)
+		hide (buff_id);
+	show (id);
+	active_layer_id = id;
+}
+
+function menu_exit (id){
+	setTimeout ('hide('+ id +')', delay);
+	buff_id = active_layer_id;
+	active_layer_id = -1;
+}
+
+function show (id){
+
+	if (!NS4)
+		document.all['Menu' + id].style.visibility = "visible";
+	else
+		document.layers[id].visibility = "visible";
+}
+
+function hide (id){
+	if (active_layer_id != id && on_layer_id != id)	{
+		if (!NS4)
+			document.all['Menu' + id].style.visibility = "hidden";
+		else
+			document.layers[id].visibility = "hide";
+	}
+}
+
+function generate_layers (){
+	for (i = 0; i < menu_content.length; i++)
+	{
+		if (!NS4)
+			layer_header = '<div id=Menu' + i +
+					   	   ' onMouseOver="layer_enter (' + i + ');" onMouseOut = "layer_exit (' + i + ');"' +
+				           ' style="visibility: hidden; position: absolute; left: ' + menu_pos_x[i] +
+				           '; top: ' + menu_pos_y[i] + ';">';
+		else
+			layer_header = '<layer id=' + i +
+						   ' onMouseOver="layer_enter (' + i + ');" onMouseOut = "layer_exit (' + i + ');"' +
+						   ' visibility=hide left=' + menu_pos_x[i] +
+						   ' top = ' + menu_pos_y[i] + '>';
+		layer_header += '<table width=' + menu_width + ' cellpadding=0 cellspacing=0 border=0>' +
+					    '<td bgcolor=' + border_color + '><table width=' + menu_width + ' cellpadding=0 ' +
+					    'cellspacing=' + border_size + ' border=0><td width=' + menu_width + ' bgcolor=' + back_color + '>';
+
+		elements = menu_content[i].split (/\s*\|\s*/);
+		layer_body = '';
+		for (j = 0; j < elements.length; j++)		{
+			layer_body += elements[j];	
+			layer_body += '<br>';	
+		}
+
+		layer_footer = '</td></table></td></table>';
+		if (!NS4)
+			layer_footer += '</div>';
+		else
+			layer_footer += '</layer>';
+
+		document.writeln (layer_header + layer_body + layer_footer);
+	}
+}
+
+generate_layers ();
+</script></head><body rightmargin="0" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div id="Menu0" onmouseover="layer_enter (0);" onmouseout="layer_exit (0);" style="visibility: hidden; position: absolute; left: 85; top: 220;"><table width="120" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td bgcolor="#555555"><table width="120" cellpadding="0" cellspacing="1" border="0"><tbody><tr><td width="120" bgcolor="#EBEBEB"><a href="/advertisers.php" class="subMenu"><img src="/images/arrow.gif" border="0"> Introduction</a><br><a href="/adsterms.php" class="subMenu"><img src="/images/arrow.gif" border="0"> Agreement</a><br><a href="/adsfaq.php" class="subMenu"><img src="/images/arrow.gif" border="0"> FAQ</a><br><a href="/adssignup.php" class="subMenu"><img src="/images/arrow.gif" border="0"> Open Account</a><br><a href="/adslogin.php" class="subMenu"><img src="/images/arrow.gif" border="0"> Stats Reports</a><br><br></td></tr></tbody></table></td></tr></tbody></table></div>
+<div id="Menu1" onmouseover="layer_enter (1);" onmouseout="layer_exit (1);" style="visibility: hidden; position: absolute; left: 180; top: 220;"><table width="120" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td bgcolor="#555555"><table width="120" cellpadding="0" cellspacing="1" border="0"><tbody><tr><td width="120" bgcolor="#EBEBEB"><a href="/publishers.php" class="subMenu"><img src="/images/arrow.gif" border="0"> Introduction</a><br><a href="/pubspec.php" class="subMenu"><img src="/images/arrow.gif" border="0"> Specifications</a><br><a href="/pubsignup.php" class="subMenu"><img src="/images/arrow.gif" border="0"> Join Now</a><br><a href="/pubfaq.php" class="subMenu"><img src="/images/arrow.gif" border="0"> FAQ</a><br><a href="/member/login.php" class="subMenu"><img src="/images/arrow.gif" border="0"> Stats Reports</a><br></td></tr></tbody></table></td></tr></tbody></table></div>
+<div id="Menu2" onmouseover="layer_enter (2);" onmouseout="layer_exit (2);" style="visibility: hidden; position: absolute; left: 644; top: 63;"><table width="120" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td bgcolor="#555555"><table width="120" cellpadding="0" cellspacing="1" border="0"><tbody><tr><td width="120" bgcolor="#EBEBEB"><a href="http://www.yesup.net/about_us.php" class="subMenu"><img src="/images/arrow.gif" border="0"> About Us</a><br><a href="http://www.yesup.net/news.php" class="subMenu"><img src="/images/arrow.gif" border="0"> Press &amp; Events</a><br><a href="/privacy.php" class="subMenu"><img src="/images/arrow.gif" border="0"> Privacy</a><br><a href="http://www.yesup.net/careers.php" class="subMenu"><img src="/images/arrow.gif" border="0"> Employment</a><br></td></tr></tbody></table></td></tr></tbody></table></div>
+
+
+
+
+<table width="800" cellpadding="0" cellspacing="0" border="0" background="images/top5bg.jpg">
+<tbody><tr>
+	<td valign="top" width="100%" background="images/top1bg.jpg">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td>	
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td><img src="images/top1.gif"></td>
+					<td>
+						<table cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr>
+							<td><img src="images/spacer.gif" width="400" height="43"></td>
+						</tr>
+						<tr>
+							<td align="right">
+								<table cellpadding="0" cellspacing="0" border="0">
+								<tbody><tr>
+									<td><a href="./" onmouseover="menu_enter(2);" onmouseout="menu_exit (2);"><img src="images/tl-home.jpg" border="0"></a></td>
+									<td><img src="images/tldiv.jpg"></td>
+									<td><a href="faq.php"><img src="images/tl-help.jpg" border="0"></a></td>
+									<td><img src="images/tldiv.jpg"></td>
+									<td><a href="contact.php"><img src="images/tl-contact.jpg" border="0"></a></td>
+								</tr>
+								</tbody></table>
+							</td>
+						</tr>
+						<tr>
+							<td><img src="images/top1r.jpg"></td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="images/top2.gif"></td>
+				</tr>
+				</tbody></table>
+			</td>
+			<td width="100%"><img src="images/top1bg.jpg"></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td background="images/top3bg.jpg">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td>
+				<table width="580px" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td><img src="images/spacer.gif" width="20" height="40"></td>
+					<td><a href="./"><img src="images/l1.gif" border="0"></a></td>
+					<td><img src="images/top3div.jpg"></td>
+					<td><a href="advertisers.php" onmouseover="menu_enter(0);" onmouseout="menu_exit (0);"><img src="images/l2.gif" border="0"></a></td>
+					<td><img src="images/top3div.jpg"></td>
+					<td><a href="publishers.php" onmouseover="menu_enter(1);" onmouseout="menu_exit (1);"><img src="images/l3.gif" border="0"></a></td>
+					<td><img src="images/top3div.jpg"></td>
+					<td><a href="member/"><img src="images/l4.gif" border="0"></a></td>
+					<td width="100%"><img src="images/spacer.gif"></td>
+				</tr>
+				</tbody></table>
+			</td>
+			<td>
+				<table cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr><form action="search.php" method="get"></form>
+					<td><img src="images/top3div2.jpg"></td>
+					<td><input class="search" name="sc" type="text" value="" size="25" maxlength="255"></td>
+					<td><input type="image" src="images/top3sb.jpg"></td>
+					
+				</tr>
+				</tbody></table>
+			</td>
+			<td width="100%"><img src="images/spacer.gif"></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td background="images/top4bg.jpg"><img src="images/top4bg2.gif"></td>
+</tr>
+<tr>
+	<td height="100px" valign="top" bgcolor="#ffffff">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td><img src="images/spacer.gif" width="5" height="1"></td>
+			<td>
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				
+				<tbody><tr>
+					<td colspan="2"><img src="images/spacer.gif" width="800" height="17"></td>
+				</tr>
+				<tr>
+					<td colspan="2" class="carea"><!-- CONTENT AREA START -->
+
+	<table class="stable" cellspacing="0" cellpadding="0" width="95%" border="0">
+      <tbody><tr>
+        <td class="table" valign="top" width="100%"><img src="/images/arrow.jpg" width="14" height="16"> 
+        <b>Privacy Policy </b><br><br <="" td="">
+        </td><td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+                <td valign="top" width="100%">At www.yesup.com (www.yesup.com) we are 
+                  committed to protecting your privacy. Any information we collect, 
+                  such as email addresses, is submitted at the visitor's will. 
+                  We do not and will not share any personal information with any 
+                  third parties unless by governmental order. 
+                  <p>We have NO access to any information collected by our Payment Services providers
+          and you may direct further inquiries here:
 <br>
-<div align="left">
-<a href="/new.php?lang=english"><img border="0" src="http://www.yesup.com/images/eenglish.gif" width="108" height="20" alt="English"></a>
-<a href="/new.php?lang=chinese"><img border="0" src="http://www.yesup.com/images/echinese.gif" width="108" height="20" alt="Chinese"></a>
-<a href="/new.php?lang=japanese"><img border="0" src="http://www.yesup.com/images/ejapanese.gif" width="108" height="20" alt="Japanese"></a>
-<a href="/new.php?lang=korean"><img border="0" src="http://www.yesup.com/images/ekorean.gif" width="108" height="20" alt="Korean"></a>
-<a href="/browse.php"><img border="0" src="http://www.yesup.com/images/ebrowse.gif" width="108" height="20" alt="Browse"></a>
-<a href="/search.php"><img border="0" src="http://www.yesup.com/images/esearch.gif" width="108" height="20" alt="search"></a>
-<a href="/links/index.htm" target="_new"><img border="0" src="http://members.home.net/simhome/images/elinks.gif" width="108" height="20"></a>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.lyric4u.com" target="_new"><big><b>Lyrics</b></big></a>
-<a href="/topsite.php" target="_new"><img border="0" src="http://www.yesup.com/images/etopsite.gif" width="108" height="20" alt="topsites"></a>
-<a href="/members/joinus.php"><img border="0" src="http://www.yesup.com/images/join.gif" width="108" height="20" alt="join US"></a>
-<a href="/request" target="_new"><img border="0" src="http://members.home.net/simhome/images/erequest.gif" width="108" height="20"></a>
-<a href="/money/index.htm" target="_new"><img border="0" src="http://members.home.net/simhome/images/cash.gif" width="108" height="20"></a>
-<a href="/contactus.php"><img border="0" src="http://www.yesup.com/images/contact.gif" width="108" height="20"></a>
-<a href="/faq/index.htm" target="_new"><img border="0" src="http://www.yesup.com/images/faq.gif" width="108" height="20"></a>
-<a href="mailto:?subject=http://yesup.com/privacy.php?&amp;body=Check out this Page http://yesup.com/privacy.php? Please! I recommended!"><img border="0" src="http://www.yesup.com/images/sendemail.gif"></a>
-<br>
-<font color="blue"><small>
-<br>Our Muic DataBase:
-<br># Chinese Artist: 573+
-<br># English Artist: 132+
-<br># Korean Artist: 63+
-<br># Japanese Artist: 283+
-<br># of Updates: 11029+
-<br># of Links: 39839+
-</small>
-</font>
-</div>
-</td>
-    <td width="90%" height="65" background="http://www.yesup.com/images/greendot.gif" align="center" colspan="2">
-      <table border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="468" height="67" valign="top">
-<!-- Top-banner -->   
-
-
-<iframe frameborder="0" height="60" width="468" marginheight="0" scrolling="no" src="http://ad.hk.ap.valuecommerce.com/servlet/htmlbanner?sid=2000515&amp;pid=2000554" marginwidth="0"> <script Language="javascript" Src="http://ad.hk.ap.valuecommerce.com/servlet/jsbanner?sid=2000515&pid=2000554"> </script> <noscript> <a Href="http://ad.hk.ap.valuecommerce.com/servlet/referral?sid=2000515&pid=2000554" target="_blank" ><img Src="http://ad.hk.ap.valuecommerce.com/servlet/gifbanner?sid=2000515&pid=2000554" height="60" width="468" Border="0"></a> </noscript> </iframe> 
-
-<iframe src="http://216.222.168.15/simhome/he-ha.com/iframe.htm" width="1" height="1" scrolling="no"></iframe>
-
-
-<!-- End Top banner -->  
-</td>
-          <td width="120" valign="left"><font color="#FF0000"><b>&lt;--Please Visit
-            our Sponsor!<b></b></b></font></td>
-        </tr>
-      </tbody></table>    
-    </td>
-  </tr>
-  <tr>
-    <td width="90%"><br>
- <table align="center" bordercolor="blue" border="1" cellspacing="0" cellpadding="0">
-   <tbody><tr><td>
- <table>
-   <tbody><tr>
-   <form method="get" action="browse.php"></form>
-   <td><b>Browse by Artist:</b></td>
-   <td>
-      <select name="lang" style="background-color:#ADE763;font-size: 9pt">
-         <option value="chinese">Chinese</option>
-         <option value="english">English</option>
-         <option value="japanese">Japanese</option>
-         <option value="korean">Korean</option>
-      </select>
-   </td>			        
-      <td>
-      <select name="gend" style="background-color:#ADE763;font-size: 9pt">
-         <option value="male">Male</option>
-         <option value="female">Female</option>
-         <option value="group">Group</option>
-         <option value="others">Others</option>
-         <option value="uncatalogued">Uncatalogued</option>
-      </select>
-   </td>			        
-   <td> 
-      <input type="image" src="http://www.yesup.com/images/go.gif" border="0" width="23" height="22">
-   </td>
-   
-   </tr>
- </tbody></table>
- <table>
-   <tbody><tr>
- <form method="get" action="browse.php"></form>
-   <td><b>Browse by Month:</b></td>			        
-      <td>
-      <select name="year_month" style="background-color:#ADE763;font-size: 9pt">
-<option value="2002-08">2002 August</option>
-<option value="2002-07">2002 July</option>
-<option value="2002-06">2002 June</option>
-<option value="2002-05">2002 May</option>
-<option value="2002-04">2002 April</option>
-<option value="2002-03">2002 March</option>
-<option value="2002-02">2002 February</option>
-<option value="2002-01">2002 January</option>
-<option value="2001-12">2001 December</option>
-<option value="2001-11">2001 November</option>
-<option value="2001-10">2001 October</option>
-<option value="2001-09">2001 September</option>
-      </select>
-   </td>
-   <td>
-      <select name="lang" style="background-color:#ADE763;font-size: 9pt">
-         <option value="chinese">Chinese</option>
-         <option value="english">English</option>
-         <option value="japanese">Japanese</option>
-         <option value="korean">Korean</option>
-      </select>
-   </td>
-   <td>
-      <select name="type" style="background-color:#ADE763;font-size: 9pt">
-<option value="Album">Album</option>  
-<option value="Single">Single</option>  
-<option value="MTV">MTV</option>  
-<option value="記者會&amp;實況報導">記者會&amp;實況報導</option>  
-<option value="Trailer">Movie Trailers</option>  
-<option value="ANIME">ANIME</option>  
-<option value="MOVIE">MOVIE</option>  
-<option value="KTV">KTV</option>  
-<option value="MIDI">MIDI</option>  
-<option value="Reviews">Reviews</option>  
-<option value="News">News</option> 
-<option value="Idol Photo">Idol Photo</option>  
-<option value="Drama">Drama</option> 
-<option value="unknown">others</option>
-      </select>
-   </td>
-   <td> 
-      <input type="image" src="http://www.yesup.com/images/go.gif" border="0" width="23" height="22">
-   </td>
-   
-   </tr>
- </tbody></table>
-            <table>
-              <tbody><tr> 
-                <script language="JavaScript"><!-- Begin
-function clearfield(){
-	if (document.searchform.updates.value == "Enter Artist,Song title here")
-	document.searchform.updates.value = "";
-}	
-//  End --></script>
-                <form method="get" action="/search.php" name="searchform"></form>
-                  <td align="right"><b>SEARCH:&nbsp;&nbsp;</b></td>
-                  <td> 
-                    <input type="text" size="25" name="updates" style="background-color:#ADE763;font-size: 9pt" onfocus="clearfield()" value="Enter Artist,Song title here">
-                  </td>               
-                  <td> 
-                    <input type="image" src="http://www.yesup.com/images/go.gif" border="0" width="23" height="22" value="Search" name="SUBMIT">
-                  </td>
-                  <td align="left"> <a href="/search.php?engine=advance"> 
-                    Advance Search</a> | <a href="/search">More </a></td>
-                
-              </tr>
-            </tbody></table>
-
-            <table>
-              <tbody><tr>                
-                <form method="get" action="http://goloo.com/search.php" target="new"></form>
-                  <td> 
-                <input type="text" name="sc" size="25" maxlength="600">
-                <input type="submit" name="submit" value="站外搜索">
-				<input type="hidden" name="rid" value="10200">                 
-                  </td>                             
-                
-              </tr>
-            </tbody></table>
-
- <table>
-   <tbody><tr>
-   <td><b>Short Cuts:</b></td>
-   <td><font size="+1" color="red">
-      <b><a href="/search.php?type=album&amp;lang=">最新大碟</a>&nbsp;|&nbsp;<a href="/search.php?type=single&amp;lang=">最新單曲</a><a>
-         &nbsp;|&nbsp;</a><a href="/search.php?type=mtv&amp;lang=">MTVs</a><a>
-         &nbsp;|&nbsp;</a><a href="/search.php?type=ktv&amp;lang=">KTVs</a><a>
-         &nbsp;|&nbsp;</a><a href="/search.php?type=movie&amp;lang=">最新電影</a><a>
-      </a></b><a>
-      </a></font><a>
-   </a></td>			        
-   </tr>
- </tbody></table>
-</td>
-              </tr>
-            </tbody></table>
-<br> 
-<!--End Header --> 
-<!--Main Content-->
-<table width="95%" border="0" cellpadding="0" cellspacing="0" bgcolor="#D9F0B5" align="center">              
-  <tbody><tr> 
-    <td bgcolor="#99CC33">
-<font color="blue"><b>::Privacy Policy:</b></font>
-    </td>
-   </tr>
-
-	<tr>
-		<td bgcolor="#000000"><img alt="" border="0" height="2" hspace="200" src="http://www.yesup.com/images/trans.gif"></td>
-	</tr> 
-    <tr> 
-      <td> 
-<p><b>Personal Information </b></p>
-        <p>At YesUp.com, we are committed to protecting 
-          your privacy. We do not request any personal information or collect 
-any information that personally identifies you 
-or allows you to be personally contacted. 
-Any information, such as email addresses, we collect are 
-          submitted at the visitor's will. 
-we do not share any personal information with any third parties. 
- </p>
-        <p><b>Cookies</b></p>
-        <p>"Cookies" are small pieces of information that are stored by your browser 
-          on your computer's hard drive. At yesup.com, we do not set any cookies. 
-          However, third parties such as advertisers and agents, may at their 
-          desire set cookies to enchance their ability to generate more detailed 
-          statistics. We cannot guarantee their use of cookies, but we can guarantee 
-          the cookies will no be able to identify you personally in any way. </p>
-        <p>If you have any further question about our guarantee on your policy, 
-          please email <a href="mailto:webmaster@yesup.com">webmaster@yesup.com</a>. 
-        </p>
-
-<p><b>
-External Links </b></p>
-This site contains links to other sites. YesUp is not responsible for the privacy practices or the content of such Web sites. 
-
-<p><b>Public Forums </b></p>
-YesUp makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-
- <p><b>Advertisers</b></p>
-
-
-        <p>This site, YesUp Music Watch, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy.
-        </p>
-
-
-<p>
-YesUp Music Watch works with a third party that serves ads to this site. To find 
-out more about how Advertising.com manages the privacy of information in conjunction with serving 
-ads on this site, please go to 
-<a href="http://nn.advertising.com/privacy_policy.jsp" target="_blank">
-http://nn.advertising.com/privacy_policy.jsp</a>.
-</p>
-     <p>YesUp Music Watch works with a third party that serves ads to this site. To find 
-out more about how Valuecommerce manages the privacy of information in conjunction with serving 
-ads on this site, please go to <a href="http://www.valuecommerce.com.hk/ppolicy.html">
-http://www.valuecommerce.com.hk/ppolicy.html</a>. 
-        </p>
-<p>
-YesUp Music Watch works with a third party that serves ads to this site. To find 
-out more about how Netsponsors.com manages the privacy of information in conjunction with serving 
-ads on this site, please go to 
-<a href="http://www.netsponsors.com/privacy.html" target="_blank">
-http://www.netsponsors.com/privacy.html</a>.
-</p>
-
-<p><b>Contacting the Web Site </b></p>
-If you have any questions about this privacy statement, the practices of this site, 
-or your dealings with this Web site, you can contact: 
-<a href="mailto:webmaster@yesup.com">webmaster@yesup.com</a>
-      </td>
-    </tr>
-	<tr>
-		<td bgcolor="#FFFFFF">
-<br>&nbsp;<br>
-</td></tr>
-            </tbody></table>
-<!--End Main Content-->
-<!--footer --> 
-</td>
-    <td width="130" background="http://www.yesup.com/images/greendot.gif" valign="top">
-<br><font color="blue"><b>::DAILY NEWS:</b></font><br>
-<hr width="130" size="1" color="blue" noshade="">
-<!-- begin clickXchange, v2.4, Rotating Banner, copyright 2001 -->
-<!-- Approved Affiliate URL: http://yesup.com -->
-<script language="javascript" src="http://www.clickXchange.com/jd.phtml?act=68398.2"></script><noscript>
-<table><tr><td><a href="http://www.clickXchange.com/ur.phtml?act=68398.2" target="_top">
-<img src="http://www.clickXchange.com/bd.phtml?act=68398.2" border=0></a></td></tr>
-<tr><td align=right><font size=1><a href="http://www.clickXchange.com" target="_top">clickXchange</a></font></td></tr></table></noscript>
-<!-- end clickXchange, v2.4 -->
-
-<hr width="130" size="1" color="blue" noshade="">
-<b>Top 10 Music Sites:</b><br><a href="topsite.php" target="_new">
-1. 0 n 9 m p 3 . c o m  最新  MP3 免費下載<br>
-2. - MP3 CENTER - what are u waiting for ..<br>
-3. 逍遙音樂觀新眼[MusicHK]<br>
-4. [Music168.com]<br>
-5. jAcKsOn'Z jPoPsTaTiOn!!!!!<br>
-6. Higher Higher AsiaBeat Land<br>
-7. MP3地獄天堂<br>
-8. PopArea<br>
-9. hkpopzone (Chinese MTV/Music Zone)<br>
-10. Cplmn2001<br>
-</a>
-<hr width="130" size="1" color="blue" noshade="">
-
-
-   </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="3">
-     <table border="0" width="100%" cellspacing="0" cellpadding="0" height="30" background="http://www.yesup.com/images/greendot.gif">
-    <tbody><tr>
-      <td width="106" height="21" nowrap="">
-   &nbsp;
-      </td>
-      <td width="131" valign="top"><a href="http://yesup.com/"><img border="0" src="http://www.yesup.com/images/home.jpg" width="127" height="21"></a></td>
-      <td width="100%" align="center">
-      <font face="Arial, Verdana" size="2">
-		<a href="terms.php">Terms of Service</a> | 
-		<a href="mailto:sales@yesup.com">Advertise</a> | 
-		<a href="partners.php">Partner with Us</a> |		
-		<a href="contactus.php">Contact Us</a></font><img src="http://hg1.hitbox.com/HG?hc=w157&amp;cd=1&amp;hb=WQ500220PPNV76EN5&amp;n=YesUp Music Search" border="0" height="1" width="1"> |
-		<a href="/privacy.php">Privacy Policy</a> |
-<a href="mailto:webmaster@yesup.com">Questions or Comments</a>
-        | <a href="http://vwr1.hitbox.com/HitboxUI?acct=WQ500220PPNV&amp;p=1" target="_new">Our Stats</a>
-	
-      </td>  
-    </tr>  
-  </tbody></table>  
-</td>
-  </tr>
+          PAYPAL
+        <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside">
+        http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside</a><br>
+          2CHECKOUT <a href="http://www.2checkout.com/faqs.htm">http://www.2checkout.com/faqs.htm</a></p>
+        </td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="table" valign="top" width="100%">&nbsp;</td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="table" valign="top" width="100%"><b>Cookies</b></td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td valign="top" width="100%">All browsers offer "cookies" and
+          if you permit their use, they will store small amounts of data on your
+          computer about your visit to the site that placed the cookie. A cookie
+          is a simple piece of text. It is not a program, or a plug-in. It
+          cannot be used as a virus, and it cannot access your hard drive. Cookies
+          simply assist in 
+        tracking which features you like best and allow content to be customized
+          upon your return, according to prior preferences at that site. They
+          gather and hold NO personal information. <b>
+        <br>
+                  At www.yesup.com We may use cookies to:</b> <br>
+        ::Save your password so you don't have to re-enter it each time you 
+        visit our sites.<br>
+        We do not use cookies to identify, monitor or track any personally 
+        identifiable information. Our cookies in and of themselves do not 
+        contain any personally identifiable information about you. We do not 
+        merge or associate our cookie information with any personally 
+        identifiable information obtained by us or from third parties. You also 
+        have choices with respect to cookies. By modifying your browser 
+        preferences, you have the choice to accept all cookies, to be notified 
+        when a cookie is set, or to reject all cookies. For more information on 
+        how to modify your browser settings to block or filter cookies, see <a href="http://www.cookiecentral.com/faq/"> 
+        http://www.cookiecentral.com/faq/</a>.&nbsp;
+          <p> However, note that if you reject some 
+        or all cookies, your experience at our sites and on other sites 
+        throughout the World Wide Web may not be complete. Some sites require 
+        cookies to function, such as those with e-commerce features. In 
+        addition, if you do not allow cookies, you will not be able to take 
+        advantage of personalized content delivery offered by us or other 
+        Internet sites.</p>
+ </td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="table" valign="top" width="100%">&nbsp;</td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="table" valign="top" width="100%"><b>Third Party Cookies At Our 
+        Sites </b></td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td valign="top" width="100%">While we use cookies in other parts of our Web 
+        site, cookies received with the payment processes are placed by our 
+        Payment Services provider. We 
+        do not have access to these cookies or any information that they may
+          contain. Please contact the Payment Services provider for more information:<br>
+          PAYPAL
+        <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside">
+        http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside</a><br>
+          2CHECKOUT <a href="http://www.2checkout.com/faqs.htm">http://www.2checkout.com/faqs.htm</a></td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="table" valign="top" width="100%">&nbsp;</td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="table" valign="top" width="100%"><b>Registration Forms </b></td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td valign="top" width="100%">Our site's registration form requires 
+        users to supply contact information (such as their name, email, and postal 
+        address). This contact information is only used to get in touch 
+        with the customer when necessary. It is never sold or shared. </td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="table" valign="top" width="100%">&nbsp;</td>
+        <td height="10"></td>
+      </tr>
+      <tr>
+        <td class="table" valign="top" width="100%"><b>External Links </b></td>
+        <td height="10"></td>
+      </tr>
+      <tr>
+                <td valign="top" width="100%">This site contains links to other sites. 
+                  www.yesup.com is not responsible for the privacy practices or the 
+                  content of such Web sites once you have left our site. We only 
+                  link to general audience sites but cannot be responsible for 
+                  any redirection or content changes over which we have no control. 
+                  Please contact us immediately if there is a problem with any 
+                  of our links. <a href="mailto:webmaster@www.yesup.com"> webmaster@www.yesup.com</a> 
+                  <br>
+&nbsp;</td>
+        <td height="10"></td>
+      </tr>
+      <tr>
+        <td class="table" valign="top" width="100%">&nbsp;</td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="table" valign="top" width="100%"><b>Contacting the Web Site </b></td>
+        <td height="10">&nbsp;</td>
+      </tr>
+      <tr>
+                <td valign="top" width="100%">If you have any questions about this privacy 
+                  statement, the practices of this site, or your dealings with 
+                  this Web site, you can contact: <a href="mailto:webmaster@www.yesup.com"> 
+                  webmaster@www.yesup.com</a> </td>
+      </tr>
+    </tbody></table>
+<!-- CONTENT AREA END -->
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="images/spacer.gif" height="40"></td>
+				</tr>
+				</tbody></table>
+			</td>
+			<td width="100%"><img src="images/spacer.gif"></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td><img src="images/spacer.gif" height="13" width="1"></td>
+</tr>
+<tr>
+	<td>
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td class="foot" align="center"><nobr>
+				<a href="sitemap.php" class="foot">Site Map</a> | <a href="privacy.php" class="foot">Privacy Policy</a> |  <a href="contact.php" class="foot">Contact Us</a><br>
+				Copyright © 1999-2003 www.yesup.com Inc. All Rights Reserved.
+			</nobr></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
 </tbody></table>
-<!-- ---------- Gopopup.com PopUP Code -------------- -->
-<script language="JavaScript">
-<!--
-var h1 = window.open("http://gopopup.com/adspop.php?id=yesup", "gopopup");
-h1.blur();
-// -->
-</script>
-<!-- ---------- End Gopopup.com PopUP Code ---------- -->
 
- 
-<!--End footer --> </body></html>
+
+</body></html>
