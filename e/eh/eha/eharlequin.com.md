@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211145324id_/http%3A//eharlequin.com/harl/globals/help/00pprv11.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205112713id_/http%3A//www.eharlequin.com/harl/globals/help/00pprv11.htm) for the most accurate reproduction.*
 
 # eHarlequin.com: Our Privacy Policy
 
