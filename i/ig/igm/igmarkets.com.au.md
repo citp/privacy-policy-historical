@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402023238id_/http%3A//www.igmarkets.com.au/content/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203084706id_/http%3A//www.igmarkets.com.au/content/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Markets - Privacy Notice
 
@@ -90,7 +90,7 @@ This statement outlines some privacy issues specific to the igmarkets.com.au web
 IG may collect personal information you enter when using our website.
 
   
-We use cookies to give you access to certain pages of the website without having to log in each time you visit. IG Markets may also use independent external service providers to track the traffic and usage on the web site.  
+We use cookies to give you access to certain pages of the website without having to log in each time you visit. IG Markets may also use independent external service providers to track the traffic and usage on the website.  
 Cookies are small pieces of text stored on your computer to help us determine the type of browser and settings you are using, where you have been on the website, when you return to the website, where you came from, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience on the IG Markets web site, including presenting web pages according to your needs or preferences.
 
 Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of igmarkets.com.au if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
