@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrome.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604010615id_/http%3A//www.chrome.com/maing2/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrome.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206084549id_/http%3A//www.chrome.com/maing2/privacy/index.asp) for the most accurate reproduction.*
 
 # Chrome Systems Corporation | Privacy
 
