@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the theengineer.co.uk privacy policy that was archived on 2002-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020618134930id_/http%3A//www.theengineer.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theengineer.co.uk privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605183940id_/http%3A//www.theengineer.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# E4 : Engineering
+# e4engineering.com - Engineering news, engineering information and engineering jobs for engineering professionals
 
-|   
----  
-[](https://web.archive.org/adverts/adclick.asp?id=215)  
   
-  
+|    
 |  |    
-| 
+|    
 
-|  **» E4 : Engineering**  
+
+|  **» e4engineering.com**  
 ---  
-_FAQ_  
+__  
   
   
   
@@ -41,12 +39,5 @@ This statement is a summary and does not represent a complete statement of inten
   
 |  |    
 |    
-
-
-[](https://web.archive.org/adverts/adclick.asp?id=9)  
-
-
-  
-[ Subscribe   
-online now!](https://web.archive.org/adverts/adclick.asp?id=9)   
+[](http://applynow.centaur.co.uk/eng,C=E4WEB)   
 
