@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206214419id_/http%3A//www.vitacost.com/otherfiles/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601232543id_/http%3A//vitacost.com/otherfiles/privacy.html) for the most accurate reproduction.*
 
 # vitacost.com - Privacy Statement
 
@@ -72,7 +72,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 **Recommend product to a friend.** The information collected is used to send a one time only email to the friend letting them know about the product that the user recommends.
 
-**If you place an online order, our secure order form requests contact, billing, and financial information** (such as your credit card numbers for purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send orders and information about our company to you. Your contact information is also used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. And yes, you can opt not to get email from us, as described in the opt-out section below. The credit card information we collect is used ONLY to bill you for products you purchase. For your convenience, your information including credit card and order history is stored on a secure server that allows you to reorder by entering your email address and password. You may also place a autoship order that will allow you to receive products on a regular basis without the need to reenter that order every time. You may cancel this order at anytime by sending an email to [cs@vitacost.com](mailto:cs@vitacost.com) or calling **1-800-793-2601**. You will automatically be registered to receive our weekly newsletter unless you opt-out at the time of purchase. You may opt-out at any later time by following the unsubscribe instructions in the newsletter or sending an email to [newsletter@vitacost.com](mailto:newsletter@vitacost.com). To unsubscribe yourself, [**CLICK HERE**](http://www.vitacost.com/otherfiles/unsubscribe.cfm) and enter in your e-mail address.
+**If you place an online order, our secure order form requests contact, billing, and financial information** (such as your credit card numbers for purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send orders and information about our company to you. Your contact information is also used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. And yes, you can opt not to get email from us, as described in the opt-out section below. The credit card information we collect is used ONLY to bill you for products you purchase. For your convenience, your information including credit card and order history is stored on a secure server that allows you to reorder by entering your email address and password. You may also place a autoship order that will allow you to receive products on a regular basis without the need to reenter that order every time. You may cancel this order at anytime by sending an email to [cs@vitacost.com](mailto:cs@vitacost.com) or calling **1-800-793-2601**. You will automatically be registered to receive our weekly newsletter unless you opt-out at the time of purchase. You may opt-out at any later time by following the unsubscribe instructions in the newsletter or sending an email to [newsletter@vitacost.com](mailto:newsletter@vitacost.com) with the word UNSUBSCRIBE followed by your email address in the subject of the email (example: UNSUBSCRIBE youremail@emailaddress.com).
 
 **We have several types of third-party relationships.**
 
@@ -97,9 +97,9 @@ If you decide to opt out of our newsletter, our emails provide you the opportuni
   1. You can send email to [cs@vitacost.com](mailto:cs@vitacost.com)
   2. You can send mail to the following postal address:  
 Vitacost.com, Inc.  
-2049 High Ridge Road  
+2055 High Ridge Road  
 Boynton Beach, Fl 32426 
-  3. You can call the following telephone number: 1-800-793-2601 
+  3. You can call the following telephone number:1-800-793-2601 
 
 
 
@@ -109,14 +109,14 @@ Boynton Beach, Fl 32426
   1. Accessing the "[Your Account](https://www.vitacost.com/Store/Navigation/YourAccount.cfm)" page and clicking on the "Account Setting" and/or "Address Book" link.
   2. Send mail to the following postal address:  
 Vitacost.com, Inc.  
-2049 High Ridge Road  
+2055 High Ridge Road  
 Boynton Beach, Fl 32426 
-  3. You can call one of the following telephone numbers: 1-800-793-2601
+  3. You can call one of the following telephone numbers:1-800-793-2601 
 
 
 
 **When You Send Email to our Customer Service Department  
-**We provide email links on our "[Customer Services](https://web.archive.org/web/20021206214419id_/http%3A//www.vitacost.com/help/index.html)" page that allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. The information you send us is used to respond directly to your questions and comments. We also keep your email correspondence on file so that we may better serve you should you have additional questions in the future. Your personal information is shared with third parties (such as manufacturers) only with your explicit permission.
+**We provide email links on our "[Customer Services](https://web.archive.org/web/20030601232543id_/http%3A//vitacost.com/help/index.html)" page that allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. The information you send us is used to respond directly to your questions and comments. We also keep your email correspondence on file so that we may better serve you should you have additional questions in the future. Your personal information is shared with third parties (such as manufacturers) only with your explicit permission.
 
 **How We Notify You of Changes to our Privacy Policy  
 **Whenever we change our privacy policy, we will post a notice on our website indicating that a new version is available. If Vitacost.com changes how it uses a users personally identifiable information, the user will be notified by email and they may opt-out at that time. However, if you have opted-out of all communication with the site you will not be contacted, nor will your personally identifiable information be used in this new manner.
@@ -127,10 +127,10 @@ Boynton Beach, Fl 32426
 
 Customer Service  
 VitaCost.com, Inc.  
-2049 High Ridge Road  
+2055 High Ridge Road  
 Boynton Beach, Fl 32426 
 
-Phone:(800) 793-2601  
+Phone:(800) 793-2601   
 Fax:(800) 347-6898
 
 email: [cs@vitacost.com](mailto:cs@vitacost.com)
