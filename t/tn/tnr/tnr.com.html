@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the tnr.com privacy policy that was archived on 2002-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603172511id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tnr.com privacy policy that was archived on 2002-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021203031459id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.-->
 
-<html><head><title>The New Republic Online: Privacy Policy</title>
+<html><head>
+   <title>The New Republic Online: Privacy Policy</title>
+   <meta name="keywords" content="">
 
 <script language="JavaScript"> var javascript_version = 1.0;</script>
 <script language="JavaScript1.1">  javascript_version = 1.1;</script>
@@ -13,7 +15,25 @@
 <script language="JavaScript" src="/js/cookie_popup.js"></script>
 </head>
 
-<body bgcolor="#ffffff" link="#666633" vlink="#666633" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0">
+<body bgcolor="#ffffff" link="#666633" vlink="#666633" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0" onunload="poponexit();" onload="changeurl();">
+<script language="Javascript">
+        if (location.href == 'http://www.tnr.com/'){
+	var pageCampaignID;
+        var currentCampaignName;
+        cName = getCookie(pageCampaignID);
+        //person isn't subscribed, check date to pop
+        var today = new Date()
+        today = today.getDate().toString() + today.getMonth().toString() + today
+.getYear().toString();
+        cDate = getCookie('exitpop');
+                if (cDate != today){
+
+                //not a subscription ad, check counter to pop
+                cookiePop(winWidth,winHeight);
+                setCookie('exitpop',today);
+                }
+	}
+</script>
 <table border="0" cellpadding="0" cellspacing="0" width="741" bgcolor="#ffffff">
 <tbody><tr>
 	<td width="116" rowspan="3" valign="top" bgcolor="#eeeedd" background="/images/sitewide/bg_leftnav.gif"><a href="/index.mhtml"><img src="/images/sitewide/logo_tnr.gif" alt="The New
@@ -24,7 +44,14 @@ Republic" width="116" height="131" hspace="0" vspace="0" border="0" valign="top"
 
 <table background="" border="0" width="100" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" width="100"><div align="right"><img src="/images/sitewide/leftnav_search_0.gif" alt="Search" width="100" height="9" hspace="0" vspace="0" border="0"></div></td></tr><tr><td width="83" align="center"><input class="text" type="text" name="words" size="9"></td><td width="17" align="right"><input type="image" src="/images/sitewide/button_go.gif" alt="" width="13" height="13" hspace="2" vspace="2" border="0"></td></tr></tbody></table>
 
+<img src="/images/sitewide/xc.gif" height="3" width="1" vspace="0">
 </div>
+
+<!--fks-->
+<font class="content">
+<div align="right"><a href="/user/login.mhtml"><img src="/images/sitewide/login.gif" border="0" hspace="0" vspace="0" alt="Login"></a><br>
+<a href="/user/regi.mhtml"><img src="http://www.tnr.com/images/sitewide/register.gif" border="0" hspace="0" vspace="0" alt="Register"></a></div>
+</font>
 
 <img src="/images/sitewide/xc.gif" alt="The New
 Republic" width="1" height="1" hspace="0" vspace="1" border="0"><br><div align="right"><a href="thisweek.mhtml"><img src="/images/sitewide/leftnav_thisweek_0.gif" alt="This Week" width="100" height="17" border="0"></a></div><div align="right"><a href="/letters.mhtml"><img src="/images/sitewide/leftnav_letters_0.gif" alt="Letters" width="100" height="17" border="0"></a></div><div align="right"><a href="/newsletters.mhtml"><img src="/images/sitewide/leftnav_newsletters_0.gif" alt="Newsletters" width="100" height="17" border="0"></a></div><div align="right"><a href="/ontv.mhtml"><img src="/images/sitewide/leftnav_ontv_0.gif" alt="On TV" width="100" height="17" border="0"></a></div><div align="right"> <a href="/bookshelf.mhtml"><img src="/images/sitewide/leftnav_bookshelf_0.gif" alt="Bookshelf" width="100" height="17" border="0"></a></div><div align="right"><a href="/masthead.mhtml"><img src="/images/sitewide/leftnav_masthead_0.gif" alt="Masthead" width="100" height="17" border="0"></a></div>
@@ -47,7 +74,8 @@ Republic" width="1" height="3" hspace="0" vspace="0" border="0"><br>
 Free Issues!" width="100" height="28" border="0"></a><br>
 <a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=TNR"><img src="/images/sitewide/leftnav_givegift.gif" alt="Give
 the gift of TNR!" width="100" height="28" border="0"></a><br>
-<a href="/college.mhtml"><img src="/images/sitewide/leftnav_studentoffer.gif" width="100" height="39" border="0"></a></td></tr></tbody></table>
+<a href="/college.mhtml"><img src="/images/sitewide/leftnav_studentoffer.gif" width="100" height="39" border="0"></a><br>
+<div align="center"><a href="/alert.mhtml" target="_blank"><img src="/images/sitewide/subalert.jpg" width="90" height="120" border="0" vspace="4"></a></div></td></tr></tbody></table>
 
 
 
@@ -144,8 +172,6 @@ the gift of TNR!" width="100" height="28" border="0"></a><br>
                                   gives users options about submitting information. 
                                   Such choices include:
                                 </p><p>
-                                </p><p>Not being required to register simply to access 
-                                  our web site.
                                 </p><p>Opting not to receive our electronic newsletters.
                                 </p><p>Opting not to participate in certain interactive 
                                   areas, which completely alleviates the need 
@@ -267,9 +293,7 @@ the gift of TNR!" width="100" height="28" border="0"></a><br>
                                 </p><p>
                                 </p><p> We also use tracking information to determine 
                                   which areas of our site users like and do not 
-                                  like based on traffic to those areas. TheNewRepublic.com 
-                                  does not track what individual users read, but 
-                                  rather how well each page performs overall. 
+                                  like based on traffic to those areas.
                                 </p><p>
                                 </p><p> TheNewRepublic.com creates aggregate reports 
                                   on user demographics and traffic patterns for 
@@ -391,7 +415,7 @@ the gift of TNR!" width="100" height="28" border="0"></a><br>
                                   above.
                                 </p><p> 
                                 </p><p> This Privacy Policy was last updated effective 
-                                  October 5, 2000.
+                                  July 18, 2002.
                                 </p><p>
                                 </p><p> 
 
@@ -409,7 +433,7 @@ the gift of TNR!" width="100" height="28" border="0"></a><br>
 		<td rowspan="4" bgcolor="#ffffff" width="130" valign="top"><img src="/images/sitewide/xc.gif" width="130" height="1" vspace="0" hspace="0"><br><table valign="top" bgcolor="#ffffff" width="130" cellpadding="0" cellspacing="0" border="0">
 
 <tbody><tr><td colspan="3" width="130" valign="top" align="center">
-<img src="/images/sitewide/xc.gif" width="130" height="3" border="0"></td></tr><tr><td colspan="3" width="130" valign="top"><center><a href="http://www.tnr.com/sam/public/click.mhtml/21/0" target="_new"><img src="/ads/TNR/120x600_newsletters_new.gif"></a></center></td></tr><tr><td colspan="3" width="130" valign="top" align="center">
+<img src="/images/sitewide/xc.gif" width="130" height="3" border="0"></td></tr><tr><td colspan="3" width="130" valign="top"><center><a href="http://www.tnr.com/sam/public/click.mhtml/75/0" target="_new"><img src="/ads/TNR/gift_season_flakes_green.gif"></a></center></td></tr><tr><td colspan="3" width="130" valign="top" align="center">
 <img src="/images/sitewide/xc.gif" width="130" height="80" border="0"></td></tr>
 
 <tr>
@@ -425,10 +449,9 @@ the gift of TNR!" width="100" height="28" border="0"></a><br>
 Politics newsletter</font></a>
 </font>
    <font class="subheader">
-   </font></p><p><font class="subheader"><a href="/doc.mhtml?i=20020610&amp;s=trb061002"><font style="color:#990000;text-decoration:none">Peter Beinart on Kashmir, terrorism, and hypocrisy.</font></a></font></p><font class="subheader">
-   <p><a href="/doc.mhtml?i=20020610&amp;s=crowley061002"><font style="color:#990000;text-decoration:none"></font></a></p>
-   <p><a href="/doc.mhtml?i=express&amp;s=cohn060302"><font style="color:#990000;text-decoration:none">Another Sunday, another embarrassing
-story about how an intelligence agency missed the signals about September 11.</font></a></p>
+   </font></p><p><font class="subheader"><a href="/doc.mhtml?i=20021202&amp;s=cohn120202"><font style="color:#990000;text-decoration:none"></font></a></font></p><font class="subheader">
+   <p><a href="/doc.mhtml?i=spin&amp;s=scheiber120102"><font style="color:#990000;text-decoration:none">John Kerry needs an exit strategy from his own foreign policy.</font></a></p>
+   <p><a href="/doc.mhtml?i=life&amp;s=cottle112702"><font style="color:#990000;text-decoration:none">Texas turns a murder trial into reality television.</font></a></p>
 </font>
    <p></p>
    <br><img src="/images/sitewide/rightnav_inbooksarts.gif" width="90" height="18" vspace="0" hspace="0" alt="In Books &amp; the Arts">
@@ -438,9 +461,9 @@ story about how an intelligence agency missed the signals about September 11.</f
 Arts newsletter</font></a> 
 </font>
    <font class="subheader">
-   </font></p><p><font class="subheader"><a href="/doc.mhtml?i=20020610&amp;s=brustein061002"><font style="color:#990000;text-decoration:none"><i>Private Lives</i> is anachronistically entertaining; an updated adaptation of <i>The Underpants</i> refreshes.</font></a></font></p><font class="subheader">
-   <p><a href="/doc.mhtml?i=20020610&amp;s=kauffmann061002"><font style="color:#990000;text-decoration:none">Stanley Kauffmman: <i>Star Wars</i> is science-flavored secular sin.</font></a></p>
-   <p><a href="/doc.mhtml?i=20020603&amp;s=soskis060302"><font style="color:#990000;text-decoration:none">Finding authenticity in the tension between the reported and the imagined in slave narratives.</font></a></p>
+   </font></p><p><font class="subheader"><a href="/doc.mhtml?i=20021202&amp;s=wolcott120202"><font style="color:#990000;text-decoration:none">Jonathan Franzen must be stopped.</font></a></font></p><font class="subheader">
+   <p><a href="/doc.mhtml?i=FWS&amp;s=fws112602"><font style="color:#990000;text-decoration:none">Films Worth Seeing: This week's picks from Stanley Kauffmann. (11.26.02)</font></a></p>
+   <p><a href="/doc.mhtml?i=20021202&amp;s=homans120202"><font style="color:#990000;text-decoration:none">Susan Stroman and Twyla Tharp are taking dance back to Broadway, with mixed results.</font></a></p>
 </font>
    <p></p><br><br>
 </td>
