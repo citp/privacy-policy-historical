@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606042525id_/http%3A//www.mayoclinic.com/aboutmayo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2004-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041124174112id_/http%3A//www.mayoclinic.com/aboutmayo/privacy.cfm) for the most accurate reproduction.*
 
 # MayoClinic.com - Privacy policy
 
