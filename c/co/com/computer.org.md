@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the computer.org privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204200128id_/http%3A//www.computer.org/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computer.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122206id_/http%3A//www.computer.org/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Guidlines
 
-[](https://web.archive.org/)[](https://web.archive.org/toc.htm)[](https://web.archive.org/search.htm)[](https://web.archive.org/help.htm)[](https://web.archive.org/contact.htm)[](https://newton.computer.org/DocDelivery/Shopping.nsf/DisplayCart)  
+[](https://web.archive.org/)[](https://web.archive.org/toc.htm)[](https://web.archive.org/search.htm)[](https://web.archive.org/help.htm)[](https://web.archive.org/contact.htm)[](https://newton.computer.org/DocDelivery/Shopping.nsf/DisplayCart?OpenAgent)  
 
 
 ## IEEE Computer Society Privacy Guidelines 
@@ -26,10 +26,6 @@ Several products and services on this site are accessible only by using a IEEE W
 ### E-mail aliases
 
 The Computer Society's e-mail alias service enables a member to choose an "@computer.org" e-mail address that forwards e-mail messages to their actual e-mail address. When a member signs up for this service, they must supply their e-mail address and choose a name to use for their alias (<name>@computer.org).
-
-### Member Network
-
-The Member Network is an online directory of Computer Society members. Participation in this directory is strictly voluntary; information does not appear in the Member Network unless the member explicitly puts it there. Members can choose to post personal information such as their name, home and business address, other contact information, and areas of interest. Once posted, this information can be browswed or searched by other members.
 
 ### Online Catalog
 
@@ -81,7 +77,7 @@ Access to edit a member's personal information in the Member Network is controll
 
 Members can change their IEEE Web Account password by following the appropriate link from <http://computer.org/webaccounts/>.
 
-Members can change the address to which their @computer.org e-mail is forwarded by completing the form at <https://pascal.computer.org/CSauth/CSAuthen.nsf/Change?OpenForm>.
+Members can change the address to which their @computer.org e-mail is forwarded by completing the form at [https://pascal.computer.org/CSauth/CSAuthen.nsf/Change?OpenForm](https://web.archive.org/services/ChangeAlias).
 
 Members can choose not to receive unsolicited promotional mailings from the Computer Society by following the appropriate link from <http://computer.org/e-news/>.
 
@@ -104,4 +100,4 @@ The membership registration form, Member Network, periodical subscription system
 Send general comments and any questions about the IEEE Computer Society's Web site to [help@computer.org](mailto:help@computer.org).  
 Read our [Privacy and Security](https://web.archive.org/privacy.htm) guidelines. 
 
-This site and all contents (unless otherwise noted) are Copyright ©2001, IEEE, Inc. All rights reserved. 
+This site and all contents (unless otherwise noted) are [Copyright](https://web.archive.org/copyright.htm) ©2002, IEEE, Inc. All rights reserved. 
