@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the allparenting.com privacy policy that was archived on 2001-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010812080958id_/http%3A//myria.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allparenting.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604061238id_/http%3A//myria.com/privacy.htm) for the most accurate reproduction.*
 
 # Myria Media, Inc. Privacy Policy Statement
 
-The following sites are wholly owned by Myria Media, Inc.: 
+**Thanks for being part of our community! The following information is provided to help protect your privacy online. Use your browser's BACK button to return to the previous page when you are done here.**
+
+The following sites are some of those wholly owned by Myria Media, Inc.: 
 
   * [Myria](http://myria.com/)
   * [Chef Mom](http://chefmom.com/)
   * [EverythingForParents.com](http://everythingforparents.com/)
   * [ePregnancy](http://epregnancy.com/)
-  * [Interactive Parent](http://interactiveparent.com/)
+  * [GeoParent](http://geoparent.com/)
   * [SheKnows.com](http://sheknows.com/)
   * [HolidayNotes](http://www.holidaynotes.com/)
   * [Momdays](http://www.momdays.com/)
@@ -40,7 +42,3 @@ Once you access an another Web site through a off-site link, whether to an adver
 
 **Advertisers**  
 Myria Media, Inc. works with third parties to serve ads to this site. To find out more about how Engage, one such agency we use, serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data about your visit to this and other web sites, typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, please go to <http://www.engage.com/privacy>. For information regarding DoubleClick ad serving, see <http://doubleclick.com/privacy_policy/>. For information regarding merchants appearing on the site via BeFree/Reporting.net, see <http://www.befree.com/includes/stopspam.htm>. 
-
-**Shop Online:** [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/myriamagazine) | [Lands' End](http://click.linksynergy.com/fs-bin/stat?id=pK6BePRVrJE&offerid=9854&type=3&subid=0) | [GeoParent Baby Shop](http://geoparentshop.com/) | [eBags.com](http://service.bfast.com/bfast/click?bfmid=383361&siteid=33087118&bfpage=logos) | [Drugstore.com](http://www.drugstore.com/category.asp?catid=10&aid=328461)
-
-[](http://ads1.intelliads.com/html-bin/click100.asp?obnum=609591&cbvar=123456)
