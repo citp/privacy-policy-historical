@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearlizumi.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208035252id_/http%3A//www.pearlizumi.com/pearlizumi/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlizumi.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625180254id_/http%3A//pearlizumi.com/pearlizumi/about/privacy.asp) for the most accurate reproduction.*
 
 # PEARL IZUMI :::: FALL 02
 
