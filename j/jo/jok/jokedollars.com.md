@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jokedollars.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024054id_/http%3A//www.jokaroo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokedollars.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630171635id_/http%3A//www.jokaroo.com/privacy.htm) for the most accurate reproduction.*
 
 # Jokaroo.com - Privacy Policy
 
