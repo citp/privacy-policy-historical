@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the neamb.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204040212id_/http%3A//neamb.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the neamb.com privacy policy that was archived on 2005-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305034211id_/http%3A//www.neamb.com/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -129,14 +129,6 @@ function MM_preloadImages() { //v3.0
     if (a[i].indexOf("/")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
-function MM_findObj(n, d) { //v4.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
-}
-
 function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
@@ -153,10 +145,18 @@ function MM_reloadPage(init) {  //reloads the window if Nav4 resized
 MM_reloadPage(true);
 // -->
 
-function MM_showHideLayers() { //v3.0
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
   var i,p,v,obj,args=MM_showHideLayers.arguments;
   for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
     obj.visibility=v; }
 }
 //-->
@@ -189,7 +189,7 @@ function MM_showHideLayers() { //v3.0
 		  <a href="/index.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','/image/top_nav_on_01.gif',1)"><img name="Image10" border="0" src="/image/top_nav_01.gif"></a></td>
           
           <td> <a href="/about/index.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image102','','/image/top_nav_on_03.gif',1)"><img name="Image102" border="0" src="/image/top_nav_03.gif"></a></td>
-          <td> <a href="http://www.owl.org/index.jsp" target="owl" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image103','','/image/top_nav_on_04.gif',1)"><img name="Image103" border="0" src="/image/top_nav_04.gif"></a></td>
+      
           <td> <a href="http://www.nea.org" target="nea" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image106','','/image/top_nav_on_05.gif',1)"><img name="Image106" border="0" src="/image/top_nav_05.gif"></a></td>
           <td> <a href="/memsrvcr/index.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image104','','/image/memberservices_on.gif',1)"><img name="Image104" border="0" src="/image/memberservices_off.gif"></a></td>
           <td> <a href="/contactus.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image105','','/image/top_nav_on_07.gif',1)"><img name="Image105" border="0" src="/image/top_nav_07.gif"></a></td>
@@ -221,7 +221,7 @@ function MM_showHideLayers() { //v3.0
                     <tbody><tr>
                    	 <td width="60" align="right"><font size="2"><strong><font color="#003B86"><a href="/login.jsp">Log In</a> |</font></strong></font></td>
                       <td width="100" align="center"> <font size="2"><strong><font color="#003B86"><a href="/Register.jsp">Register Now</a> |</font></strong></font></td>
-					  </tr></tbody></table></span></div></div>
+				    </tr></tbody></table></span></div></div>
 					  </td><td width="178">
 					   <div id="myacct" style="visibility:visible" onmouseover=" MM_showHideLayers('FinancialServices','','hide','Insurance','','hide','Discounts','','hide','tools','','hide','free','','hide','special','','hide','login','','show','myacct','','show','dropdown','','show')" onmouseout=" MM_showHideLayers('FinancialServices','','hide','Insurance','','hide','Discounts','','hide','tools','','hide','free','','hide','special','','hide','login','','show','myacct','','show','dropdown','','show')"> <div class="login"><span class="login">
 					  <table border="0" cellpadding="0" cellspacing="0" width="198"><tbody><tr>
@@ -246,7 +246,7 @@ function MM_showHideLayers() { //v3.0
 				  </tr></tbody></table>
 						
 				
-				</td>
+		  </td>
         </tr>
       </tbody></table>
     </td>
@@ -757,6 +757,30 @@ MM_showHideLayers('FinancialServices','','hide','Insurance','','hide','Discounts
 	
 	 <tr> 
       <td background="/image/lines_free2.gif" height="14"> 
+	    <div class="Section1">
+<span style="position:relative;z-index:-2">
+<span style="position:absolute;left:0px;top:0px;width:226px;height:14px">
+<img width="226" height="14" src="/image/lines_free2.gif"></span></span>
+	 
+	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/lifeplan/homelive/refi_index.jsp">
+	   <font color="black">Refinancing Information
+	  </font></a></div></td>
+    </tr>
+	
+	 <tr> 
+      <td background="/image/lines_free2.gif" height="14"> 
+	    <div class="Section1">
+<span style="position:relative;z-index:-2">
+<span style="position:absolute;left:0px;top:0px;width:226px;height:14px">
+<img width="226" height="14" src="/image/lines_free2.gif"></span></span>
+	 
+	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/lifeplan/homelive/reverse_index.jsp">
+	   <font color="black">Reverse Mortgage Information
+	  </font></a></div></td>
+    </tr>
+	
+	 <tr> 
+      <td background="/image/lines_free2.gif" height="14"> 
 	  <div class="Section1">
 <span style="position:relative;z-index:-2">
 <span style="position:absolute;left:0px;top:0px;width:226px;height:14px">
@@ -868,18 +892,24 @@ MM_showHideLayers('FinancialServices','','hide','Insurance','','hide','Discounts
     </tr>
  
 	
-	  </tbody></table>
+    </tbody></table>
 </span></div>
 </div>
 <div id="free" style="position:absolute; width:226px; height:115px; z-index:1; left: 450px; top: 133px; visibility: hidden" onmouseover=" MM_showHideLayers('FinancialServices','','hide','Insurance','','hide','Discounts','','hide','tools','','hide','free','','show','special','','hide','login','','show','myacct','','show','dropdown','','show')" onmouseout=" MM_showHideLayers('FinancialServices','','hide','Insurance','','hide','Discounts','','hide','tools','','hide','free','','hide','special','','hide','login','','show','myacct','','show','dropdown','','show')"> <div class="header"><span class="header">
   <table border="0" cellpadding="0" cellspacing="0">
   
 	
-	  </table>
+    </table>
 </span></div></div>
 
 
-<div id="special" style="position:absolute; width:200px; height:81px; z-index:1; left: 563px; top: 135px; visibility: hidden" onmouseover=" MM_showHideLayers('FinancialServices','','hide','Insurance','','hide','Discounts','','hide','tools','','hide','free','','hide','special','','show','login','','show','myacct','','show','dropdown','','show')" onmouseout=" MM_showHideLayers('FinancialServices','','hide','Insurance','','hide','Discounts','','hide','tools','','hide','free','','hide','special','','hide','login','','show','myacct','','show','dropdown','','show')"><a href="/special.jsp"><img src="/image/special_box.gif" border="0"></a></div>
+<div id="special" style="position:absolute; width:200px; height:81px; z-index:1; left: 563px; top: 135px; visibility: hidden" onmouseover="MM_showHideLayers('Insurance','','hide','FinancialServices','','hide','Discounts','','hide','tools','','hide','free','','hide','special','','show')" onmouseout="MM_showHideLayers('Insurance','','hide','FinancialServices','','hide','Discounts','','hide','tools','','hide','free','','hide','special','','hide')"><img src="/image/special_box_3.gif" width="150" height="288" border="0" usemap="#Map">
+  <map name="Map">
+      <area shape="rect" coords="6,7,142,139" href="/specialoffer.jsp">
+      <area shape="rect" coords="6,173,148,326" href="/specialoffer2.jsp">
+  </map>
+  
+</div>
 
 
 
@@ -1011,7 +1041,7 @@ MM_showHideLayers('FinancialServices','','hide','Insurance','','hide','Discounts
         <font size="2">| <a href="/index.jsp">Home</a> | <a href="http://www.nea.org">NEA</a> 
         | <a href="/about/index.jsp">About NEA MB</a> | <a href="/memsrvcr/index.jsp">Member 
         Services</a> | <a href="/privacy.jsp">Privacy Policy</a> | <a href="/search.jsp">Search</a> 
-        | <a href="http://www.owl.org" target="_blank">OWL.org</a></font><font size="2"> 
+        </font><font size="2"> 
         | <a href="http://www.owl.org" target="_blank"></a></font> <font size="2"><a href="/about/ambseal.jsp">NEA 
         Seal of Excellence</a></font><br>
         &nbsp;<br>
