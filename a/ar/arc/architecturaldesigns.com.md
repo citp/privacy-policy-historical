@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003190820id_/http%3A//www.architecturaldesigns.com/about/priva.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612022437id_/http%3A//www.architecturaldesigns.com/about/priva.asp) for the most accurate reproduction.*
 
 # House Plans & Home Designs from Architectural Designs - Privacy Policy
 
@@ -7,14 +7,14 @@
 
 [](http://www.architecturaldesigns.com/index.asp)
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|  **[Home](http://www.architecturaldesigns.com/index.asp)** |  |  **About  Us** |  |  **[Services](http://www.architecturaldesigns.com/services/inclu.asp)** |  |  **[Contact Us](http://www.architecturaldesigns.com/cgi-bin/contact.pl?ref=about/priva.asp)** |  |  **[Help](http://www.architecturaldesigns.com/help/faqs.asp)** |  |  **[Affiliates](http://www.architecturaldesigns.com/affiliates/index.asp)** |  |  **[Builders](http://www.architecturaldesigns.com/builders/bldr_disc.asp)** |  |  **[Site Map](http://www.architecturaldesigns.com/sitemap.asp)** |  |  |  |  |   
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-| ** Search Results ** |  | **[We Are](http://www.architecturaldesigns.com/about/weare.asp)** |  | **[Prices](http://www.architecturaldesigns.com/about/price.asp)** |  | **[Price Guarantee](http://www.architecturaldesigns.com/about/notunder.asp)** |  | **[Terms](http://www.architecturaldesigns.com/about/terms.asp)** |  | **[Copyright](http://www.architecturaldesigns.com/about/copyr.asp)** |  | **Privacy  Policy** |  |   
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+|  **[Home](http://www.architecturaldesigns.com/index.asp)** |  |  **About  Us** |  |  **Services** |  |  **Plans  Include** |  |  **Contact  Us** |  |  **Help** |  |  **Affiliates** |  |  **Builders** |  |  **[Site Map](http://www.architecturaldesigns.com/sitemap.asp)** |  |  |  |  |   
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
+|  |  |  |  |  |  |  |  |  |  |  |  |   
+---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+| ** Search Results ** |  | **[We Are](http://www.architecturaldesigns.com/about/weare.asp)** |  | **[Prices](http://www.architecturaldesigns.com/about/price.asp)** |  | **[Terms](http://www.architecturaldesigns.com/about/terms.asp)** |  | **[Copyright](http://www.architecturaldesigns.com/about/copyr.asp)** |  | **Privacy  Policy** |  |   
+|  |  |  |  |  |  |  |  |  |  |  |  |   
 ---  
   |  | **Privacy Policy**  
 ---  
@@ -28,10 +28,8 @@ If you send us an email message, we may retain the content of the email, your em
   
    
 ---  
-| [ ]() |  [Home](http://www.architecturaldesigns.com/index.asp) |  [Contact Us](http://www.architecturaldesigns.com/cgi-bin/contact.pl?ref=about/priva.asp&c=2) |  [Copyright](http://www.architecturaldesigns.com/about/copyr.asp) |  Privacy Policy |  [Site Map](http://www.architecturaldesigns.com/sitemap.asp)   
+|  |  [Home](http://www.architecturaldesigns.com/index.asp) |  Contact Us  |  Copyright  |  Privacy Policy |  [House Plans](http://static.architecturaldesigns.com/) |  [Site Map](http://www.architecturaldesigns.com/sitemap.asp)   
   
-****Architectural Designs :: 274 Riverside Avenue :: Westport, CT 06880  
+****Architectural Designs :: 57 Danbury Road :: Wilton, CT 06897  
 USA & Canada 1-800-854-7852 or 1-877-229-2447 :: International 262-521-4596  
-Fax 1-203-221-9255 :: Email: [info@architecturaldesigns.com](mailto:info@architecturaldesigns.com)** ** |  |   
-  
-|  | 
+Fax 1-203-761-8600 :: Email: [info@architecturaldesigns.com](mailto:info@architecturaldesigns.com)** ** |  | 
