@@ -1,0 +1,420 @@
+<!--The following is the downloaded HTML source of the bookit.com privacy policy that was archived on 2004-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041210091906id_/http%3A//www.bookit.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<html><head>
+			<title>BookIt.com™ - You know what to do.</title>
+			<meta name="keywords" content="Book  hotels,  discount hotels, book cheap hotels ,  hotel reservations,  hotel bookings,  hotel deals">
+               		<meta name="description" content=". Book  Hotels Online and Get What You Want. Book hotels and vacations online in .">
+			<link rel="stylesheet" href="https://www.bookit.com/style.css" type="text/css">
+			<script language="javascript" type="text/javascript" src="extranet.js"></script>
+			<script language="javascript" src="http://www.bookit.com/calendar.js"></script>
+			<script type="text/javascript"> 
+				var enablepersist="on" //Enable saving state of content structure? (on/off)
+				
+				function VerifyForm(){
+					if((document.search.ARR_CITY_HM.value == '') || !checkDateFormat()){
+						return false;
+					}
+					else{
+						return true;
+					}	
+				}
+
+				function GoToResults(){
+					if(VerifyForm()){
+						document.search.submit();
+					}
+					else{
+						document.getElementById('error').style.display="block";
+					}
+				}
+				
+				function VerifyFormUpdate(){
+					if(!checkDateFormat()){
+						return false;
+					}
+					else{
+						return true;
+					}	
+				}
+
+				function GoToResultsUpdate(){
+					if(VerifyFormUpdate()){
+						document.search.submit();
+					}
+					else{
+						document.getElementById('error').style.display="block";
+					}
+				}
+	
+				NS42 = (document.layers) ? true : false;
+
+				function checkEnter(event){ 	
+					var code = 0;
+	
+					if (NS42)
+						code = event.which;
+					else
+						code = event.keyCode;
+					if (code==13)
+						GoToResults();
+				}
+				
+				function checkEnterUpdate(event){ 	
+					var code = 0;
+	
+					if (NS42)
+						code = event.which;
+					else
+						code = event.keyCode;
+					if (code==13)
+						GoToResultsUpdate();
+				}
+				
+				function checkDateFormat(){
+					var val_arrival = document.search.ARR_DATE_HM.value;
+					var val_departure = document.search.DEP_DATE_HM.value;
+					var val_temp ='';
+					if((val_arrival == '') || (val_departure == ''))
+					{
+						return false;
+					}
+					if((val_arrival.length != 8)||(val_departure.length!=8))
+					{
+						return false;
+					}
+					for(j=0;j<2;j++)
+					{
+						if(j==0)
+						{
+							val_temp = val_arrival;
+						}
+						else
+						{
+							val_temp = val_departure;	
+						}	
+						for(i=0;i<8;i++)
+						{
+							if(i==0)
+							{
+									if(!((val_temp.charAt(i) >= '0') && (val_arrival.charAt(i) <= '9')))
+									{
+										return false;	
+									}
+							}
+							else if(i==1)
+							{
+									if(!((val_temp.charAt(i) >= '0') && (val_temp.charAt(i) <= '9')))
+									{
+										return false;	
+									}
+							}
+							else if(i==2)
+							{
+									if(val_temp.charAt(i) != '/')
+									{
+										return false;	
+									}
+							}
+							else if(i==3)
+							{
+									if(!((val_temp.charAt(i) >= '0') && (val_temp.charAt(i) <= '9')))
+									{
+										return false;	
+									}
+							}
+							else if(i==5)
+							{
+								if(val_temp.charAt(i) != '/')
+								{
+									return false;	
+								}
+							}
+							else if(i==4)
+							{
+									if(!((val_temp.charAt(i) >= '0') && (val_temp.charAt(i) <= '9')))
+									{
+										return false;	
+									}
+							}
+							else if(i==6)
+							{
+									if(!((val_temp.charAt(i) >= '0') && (val_temp.charAt(i) <= '9')))
+									{
+										return false;	
+									}
+							}
+							else if(i==7)
+							{
+									if(!((val_temp.charAt(i) >= '0') && (val_temp.charAt(i) <= '9')))
+									{
+										return false;	
+									}
+							}
+						}
+					}
+					if(checkDateValue(val_arrival, val_departure)){
+						return true;
+					}
+					else{
+						return false;	
+					}
+				}
+		
+				function checkDateValue(date1, date2){
+					// to check if the dates have not been passed & date1<date2
+					////////////// ////////////////////////////////get all the days, months, year in integers
+					var today = new Date();
+					var day = today.getDate();
+					var month = today.getMonth();
+					var year = today.getYear()
+					var tempYear1 = '';
+					var tempYear2 ='';
+					tempYear1 += year;
+					var yearLength = tempYear1.length;
+					tempYear2 += tempYear1.charAt(yearLength-2);
+					tempYear2 += tempYear1.charAt(yearLength-1);
+					var twoDigitYear = parseInt(tempYear2);
+					var date1Month = '';
+					if(date1.charAt(0) != '0')
+						date1Month += date1.charAt(0);
+					date1Month += date1.charAt(1);
+					var date1MonthInt = parseInt(date1Month);
+					date1MonthInt = date1MonthInt - 1;
+					var date1Day = '';
+					if(date1.charAt(3) != '0')
+						date1Day += date1.charAt(3);
+					date1Day += date1.charAt(4);
+					var date1DayInt = parseInt(date1Day);
+					var date1Year = '';
+					if(date1.charAt(6) != '0')
+						date1Year += date1.charAt(6);
+					date1Year += date1.charAt(7);
+					var date1YearInt = parseInt(date1Year);
+					////////////////////////////////////////////////
+					////////////////////////////////// check to see if date1 has been passed or not
+					if(date1YearInt < twoDigitYear)
+					{
+						return false;	
+					}
+					if((date1MonthInt < month) && (date1YearInt == twoDigitYear))
+					{
+						return false;	
+					}
+					if((date1DayInt < day) && (date1MonthInt == month) && (date1YearInt == twoDigitYear))
+					{
+						return false;	
+					}
+					/////////////////////////////////////////////////////
+					/////////////////////get the month, date, year of date2 in integers
+					var date2Month = '';
+					if(date2.charAt(0) != '0')
+						date2Month += date2.charAt(0);
+					date2Month += date2.charAt(1);
+					var date2MonthInt = parseInt(date2Month);
+					date2MonthInt = date2MonthInt - 1;
+					var date2Day = '';
+					if(date2.charAt(3) != '0')
+						date2Day += date2.charAt(3);
+					date2Day += date2.charAt(4);
+					var date2DayInt = parseInt(date2Day);
+					var date2Year = '';
+					if(date2.charAt(6) != '0')
+						date2Year += date2.charAt(6);
+					date2Year += date2.charAt(7);
+					var date2YearInt = parseInt(date2Year);
+					/////////////////////////////////////////////////////
+					////////////////////////////check if date1 < date2
+					if(date2YearInt < date1YearInt)
+					{
+						return false;	
+					}
+					if((date2MonthInt < date1MonthInt) && (date2YearInt == date1YearInt))
+					{
+						return false;	
+					}
+					if((date2DayInt <= date1DayInt) && (date2MonthInt == date1MonthInt) && (date2YearInt == date1YearInt))
+					{
+						return false;	
+					}
+					///////////////////////////////////////////
+					//////////////////check if the dates entered are valid
+					arrivalDate = new Date(date1YearInt, date1MonthInt, date1DayInt);
+					departureDate = new Date(date2YearInt, date2MonthInt, date2DayInt);
+					if(!((date1DayInt==arrivalDate.getDate()) && (date1MonthInt == arrivalDate.getMonth())))
+					{
+						return false;	
+					}
+					if(!((date2DayInt==departureDate.getDate()) && (date2MonthInt == departureDate.getMonth())))
+					{
+						return false;	
+					}
+					/////////////////////////////////////////////
+					//////////////////check the difference between days
+					var differenceLimit = 60;
+					var oneDay = 1000 * 60 * 60 * 24;
+					var difference = (departureDate.getTime() - arrivalDate.getTime())/oneDay
+					if( difference <= differenceLimit)
+						return true;
+					else
+					{
+						return false;	
+					}	
+				}
+				function showLoading(id1,id2)
+				{
+					el = document.getElementById(id1); 
+					e2 = document.getElementById(id2);
+					e2.style.display = "block"; 
+					el.style.display = "none"; 
+					//field.style.visibility="hidden";
+				}
+			</script>
+	</head><body topmargin="0" marginheight="0" marginwidth="0" leftmargin="0"><div align="center">
+		<table cellpadding="0" cellspacing="0" border="0" width="752" bordercolor="#ffffff" class="text">
+			<tbody><tr>
+				<td width="1" height="100%" valign="top"><img src="http://images.bookit.com/system/Spacer_Black.gif" height="100%" width="1"></td>
+				<td width="752" valign="top">
+	<!-- Start global_header Here  -->
+	<table cellpadding="0" cellspacing="0" border="0" bordercolor="#666666" class="text" width="752">
+		<tbody><tr>
+			<td valign="bottom"><img src="http://images.bookit.com/system/Row1_1.jpg" border="0"></td>
+			<td valign="bottom"><img src="http://images.bookit.com/system/Row1_2.gif" border="0"></td>
+			<td valign="bottom" colspan="2" align="right" background="http://images.bookit.com/system/Row1_3.gif" border="0" width="475">
+				<table class="text">
+					<tbody><tr>
+						<td><b>You can save <font size="2">$25-$50</font> when you book with BookIt.com</b>
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<a href="#" onclick="javascript: window.open('http://www.bookit.com/subpages/bookingfee/booking_fee.php','fee','width=600,height=825,scrollbars=yes,menubar=no,toolbar=no,status=no,resizable=yes');"><b>Click Here<br>for Details..</b></a></td>
+						
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="bottom"><img src="http://images.bookit.com/system/Row2_1.gif" border="0"></td>
+			<td valign="bottom"><img src="http://images.bookit.com/system/Row2_2.gif" border="0"></td>
+			<td colspan="2">
+				<table width="475" height="23" cellpadding="0" cellspacing="0">
+					<tbody><tr height="22"><td height="22" align="right" class="text1"><a href="http://members.bookit.com"><b>members</b></a> | <a href="http://www.bookit.com"><b>home</b></a>&nbsp;</td></tr>
+					<tr height="1"><td><img src="http://images.bookit.com/system/Spacer_Black.gif" height="1" width="475"></td></tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+	<!-- End global_header Here  -->
+	
+	<table cellpadding="0" cellspacing="0" border="0" bordercolor="#666666" class="text" width="750">
+		<tbody><tr>
+			<td valign="top" width="185"><img src="http://images.BookIt.com/system/Row3_1.jpg" border="0"></td>
+			<td valign="top" width="42"><img src="http://images.BookIt.com/system/Row3_2.jpg" border="0"></td>
+			<td width="523" align="right" valign="top">
+				<!-- Start Header Table  -->
+				<table cellpadding="2" cellspacing="0" border="0" width="523">
+					<tbody><tr>			
+						<td class="text" align="right" valign="top">
+							<br><font size="2"><b>BookIt.com Cares About Your Privacy</b></font><br><br>
+							For our guests, privacy is of the utmost concern. With the rise in identity theft and fraudulent use of financial information, BookIt.com has made sure that your privacy and the information collected from you is guarded and secured with the most secure technologies.
+							<br><br>
+
+						</td>
+					</tr>
+				</tbody></table>
+				<!-- End Header Table  -->
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+						<table cellpadding="3" cellspacing="0" class="text">
+								<tbody><tr>
+										<td>
+											<b>This Privacy Policy covers BookIt.com's treatment of personally identifiable information that our sites collect. This policy also covers our treatment of any personally identifiable information.<br><br>
+												</b>
+										</td>
+								</tr>
+								<tr>
+									<td>
+										- BookIt.com collects personally identifiable information in order to process reservations. - We ask for your name, email address, street address, zip code, and, (when processing a reservation only) your credit card number. - BookIt.com also automatically receives and records information on our server logs from your browser including your IP Address and the page you requested, along with requests for specific price quotes for lodging. - BookIt.com uses information for these general purposes: to fulfill your requests for reservations or information and to contact you about specials and new products, as well as to determine what offerings are of most interest to our users.<br><br>
+
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<b>Information Sharing and Disclosure</b><br>
+										- BookIt.com will not sell or rent your personally identifiable information to anyone. - We need to send the information to companies who work as partners with BookIt.com to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.). This information is limited to only necessary information in reference to any reservations you may make online. Credit Card numbers are never emailed, but are only accessible to our partners who log into a password protected secure site. All such credit card views are logged by BookIt.com. as a final protection to our guests. Usually, only top-level personnel at a company are privleged to have access to credit card numbers.<br><br>
+
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<b>Cookies</b><br>
+										- BookIt.com may set and access cookies on your computer. Web cookies are identifiers which let a Web server know that you are the same person that accessed the server the last time you accessed it. This makes an extended interaction possible.<br><br>
+
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<b>Your Ability to Edit and Delete Your Account Information and Preferences</b><br>
+										- BookIt.com gives you the ability to edit your Account Information and preferences at any time.<br><br>
+
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<b>Security</b><br>
+										- Your BookIt.com Account Information is password-protected for your privacy and security. - In certain areas BookIt.com uses industry-standard 128 bit SSL-encryption to protect data transmissions.<br><br>
+
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<b>Changes to this Privacy Policy</b><br>
+										- BookIt.com may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.<br><br>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<b>Questions or Suggestions</b><br>
+										- If you have questions or suggestions, please write to <b><a href="mailto:customercare@BookIt.com">CustomerCare@BookIt.com</a></b><br><br>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<br><br>©2004 BookIt.com. <br>Privacy Policy above is for all BookIt.com generated sites.
+									</td>
+								</tr>
+						</tbody></table>
+
+			</td>
+		</tr>
+	</tbody></table>
+	<!-- Start Main Table  -->
+	<!-- End Main Table  -->
+	</td>
+			<td width="1" height="100%" valign="top"><img src="http://images.bookit.com/system/Spacer_Black.gif" height="100%" width="1"></td>
+		</tr>
+	</tbody></table>
+	
+	<!-- End Main Table Here  -->
+			
+		
+	
+	<table cellpadding="0" cellspacing="0" border="0" bordercolor="#000000" width="754" class="text">
+		<tbody><tr>
+			<td width="1" height="100%" valign="top"><img src="http://images.bookit.com/system/Spacer_Black.gif" height="100%" width="1"></td>
+			<td class="text" bgcolor="white" height="30"><br><br><br>&nbsp; © 2004 BookIt.com. All Rights Reserved.  |  <a href="http://www.bookit.com/privacy_policy.php">Privacy Policy</a>  |  <a href="http://www.bookit.com/terms_of_use.php">Terms Of Use</a> | <a href="http://www.bookit.com/add_your_hotel.php">Add Your Hotel</a> | <a href="http://www.bookit.com/list.php">BookIt.com Cities</a><br><br></td>
+			<td width="1" bgcolor="#000000" align="right"><img src="http://images.bookit.com/system/Spacer_Black.gif" height="100%" width="1"></td>
+		</tr>
+		<tr>
+			<td height="1" colspan="3"><img src="http://images.bookit.com/system/Spacer_Black.gif" height="1" width="100%"></td>
+		</tr>
+	</tbody></table>
+	<br>
+	<br>
+	</div>
+
+
+</body></html>
