@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dessci.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202174424id_/http%3A//www.dessci.com/en/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dessci.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607182320id_/http%3A//www.dessci.com/en/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**September 19, 2001**
-
-The Internet is revolutionizing both business and education. The ability to access information on millions of subjects almost instantly is a powerful tool. With that power comes the potential for abuse of personal privacy. In recognition of that potential, we have created this privacy statement. This statement is a set of promises to you with respect to how personal information you give us via the dessci.com Web site will be handled. 
+The Internet is revolutionizing both business and education. The ability to access information on millions of subjects almost instantly is a powerful tool. With that power comes the potential for abuse of personal privacy. In recognition of that potential, we have created this privacy statement. This statement is a set of promises to you with respect to how personal information you give us via the dessci.com Web site will be handled.
 
 To protect your privacy, Design Science follows four principles in accordance with world-wide practices for customer privacy and data protection:
 
