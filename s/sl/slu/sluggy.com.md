@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sluggy.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202031442id_/http%3A//www.sluggy.com/stuff/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sluggy.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606014943id_/http%3A//www.sluggy.com/stuff/privacy.htm) for the most accurate reproduction.*
 
 # Sluggy Freelance © 2000 Peter Abrams
 
