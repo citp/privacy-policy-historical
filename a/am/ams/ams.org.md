@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003212004id_/http%3A//www.ams.org/ams/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629085151id_/http%3A//www.ams.org/ams/privacy.html) for the most accurate reproduction.*
 
 # AMS Privacy Statement
 
@@ -67,7 +67,7 @@ The AMS website provides links to other sites as a service to the mathematical c
 
 ### Public Forums
 
-The AMS provides the server for other mathematics-related organizations (Young Mathematicians Network and Association for Women in Mathematics), who on their websites manage or moderate some mathematics-related mail lists. Please remember that any information that you disclose on these "listservs" becomes public information and therefore you should exercise caution when deciding to disclose your personal information. 
+The AMS provides the server for other mathematics-related organizations who on their websites manage or moderate some mathematics-related mail lists. Please remember that any information that you disclose on these "listservs" becomes public information and therefore you should exercise caution when deciding to disclose your personal information. 
 
 ### Third Party Use
 
@@ -89,4 +89,4 @@ By fax: 401-331-3842
 
 **Contact:** AMS Webmaster, American Mathematical Society, 201 Charles Street, Providence, RI 2904, USA. Telephone 800-321-4267 (U.S. and Canada) or 401-455-4000 (worldwide); Fax: 401-331-3842; Email: [webmaster@ams.org](mailto:webmaster@ams.org)
 
-The AMS Privacy Statement is subject to change. Any changes will be made to this page. (March 9, 2001).
+The AMS Privacy Statement is subject to change. Any changes will be made to this page. (April 13, 2004). 
