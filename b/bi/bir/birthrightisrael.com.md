@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204155906id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/privacy.jsp%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402181216id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/privacy.jsp%26) for the most accurate reproduction.*
 
 # birthright israel
 
@@ -16,10 +16,10 @@ Our website is directed at an audience over the age of 15. Children are, of cour
 
 birthright israel reserves the right to modify or amend this Internet Privacy Policy and our practices of website information collection at any time, and for any reason. This Internet Privacy Policy applies only to those of birthright israel's data collection practices that are undertaken via our website. No representation in this Internet Privacy Policy may be construed, understood, or implied to form any agreement, contract, or contractual obligation with any user who visits, downloads, reads, or interacts with the birthright israel website, or who sends an email or other personally identifying information to birthright israel through its website or through any other medium.
 
-If you would like to change or remove any of your personal information, you can [contact us](https://web.archive.org/web/20021204155906id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/en.jsp?enPage=BlankPage&enDisplay=view&enDispWhat=Zone&enDispWho=AboutUs&enZone=AboutUs&enInfolet=../Include/ContactUs.jsp&).
+If you would like to change or remove any of your personal information, you can [contact us](https://web.archive.org/web/20030402181216id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/en.jsp?enPage=BlankPage&enDisplay=view&enDispWhat=Zone&enDispWho=AboutUs&enZone=AboutUs&enInfolet=../Include/ContactUs.jsp&).
 
 |  |  |   
 ---  
-| [Site Credits](https://web.archive.org/web/20021204155906id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/en.jsp?enPage=BlankPage&enInfolet=..%2Finclude%2FStatic%2Fsite_credits.jsp&) |   
-| [Terms of Use](https://web.archive.org/web/20021204155906id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/en.jsp?enPage=BlankPage&enInfolet=..%2Finclude%2FStatic%2Fterms.jsp&) |   
-| [Advisory Board](https://web.archive.org/web/20021204155906id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/en.jsp?enPage=BlankPage&enInfolet=..%2Finclude%2FStatic%2Fadvisory.jsp&) | 
+| [Site Credits](https://web.archive.org/web/20030402181216id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/en.jsp?enPage=BlankPage&enInfolet=..%2Finclude%2FStatic%2Fsite_credits.jsp&) |   
+| [Terms of Use](https://web.archive.org/web/20030402181216id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/en.jsp?enPage=BlankPage&enInfolet=..%2Finclude%2FStatic%2Fterms.jsp&) |   
+| [Advisory Board](https://web.archive.org/web/20030402181216id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/en.jsp?enPage=BlankPage&enInfolet=..%2Finclude%2FStatic%2Fadvisory.jsp&) | 
