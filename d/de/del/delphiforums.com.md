@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630083050id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205211003id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
 
 # Delphi Forums: Privacy Policy
 
@@ -51,7 +51,7 @@ Delphi Forums uses cookies to customize your experience while using the Forums. 
   
 **Delphi & Non-Delphi Forums **  
   
-Delphi Forums, along with many other companies, relies on Prospero Technologies to host our online communities and related data. Participation in a given company's forums includes the sharing of some of your personal information with both Prospero and the company that operates the forum. You will be warned before your information is shared with another company, and will have the opportunity to decline if desired. Any company with which your information is shared will have it's own privacy policy. 
+Delphi Forums, along with many other companies, relies on Prospero Technologies to host our online communities and related data. Participation in a given company's forums includes the sharing of some of your personal information with both Prospero and the company that operates the forum. You will be warned before your information is shared with the company that operates the forum, and will have the opportunity to decline if desired. Any company with which your information is shared will have it's own privacy policy. 
 
 As a registered user, you may receive informational email messages from Delphi Forums from time to time. All registered members are required to receive such communications. If you wish to stop these emails, you may terminate your membership at any time. 
 
