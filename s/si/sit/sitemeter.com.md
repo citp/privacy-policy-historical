@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413132717id_/http%3A//sitemeter.com/whatsnew/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2002-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021105140639id_/http%3A//www.sitemeter.com/default.asp%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Site Meter - Counter and Statistics Tracker
 
 ### Privacy Statement for _Site Meter_
 
 _Site Meter_ has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
 
 **Your IP address**  
-We collect aggregate information site-wide and from sites using the _SIte Meter_ service, including anonymous site statistics. We also log domain names and/or IP addresses. _Site Meter_ does not link IP addresses to anything personally identifiable. This means that a user's session on _SIte Meter_ or sites using the _Site Meter_ service will be tracked, but the user will be anonymous. Domain names and/or IP addresses are used to gather broad demographic information. 
+We collect aggregate information site-wide and from sites using the _Site Meter_ service, including anonymous site statistics. We also log domain names and/or IP addresses. _Site Meter_ does not link IP addresses to anything personally identifiable. This means that a user's session on _Site Meter_ or sites using the _Site Meter_ service will be tracked, but the user will be anonymous. Domain names and/or IP addresses are used to gather broad demographic information. 
 
 **Cookies**  
 We also use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
@@ -22,7 +22,7 @@ This site contains links to other sites. _Site Meter_ is not responsible for the
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
 **Corrections and Updates**  
-This site gives users the ability to modify member information previously provided. Visit <http://www.sitemeter.com/manager> to change this information.
+This site gives users the ability to modify member information previously provided. Visit <http://www.sitemeter.com/> to change this information.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [here](https://web.archive.org/meter/contact.htm). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [here](https://web.archive.org/web/20021105140639id_/http%3A//www.sitemeter.com/default.asp?action=contact). 
