@@ -1,82 +1,41 @@
-> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205021736id_/http%3A//www.svb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206194404id_/http%3A//www.svb.com/corp/legal.asp%3Fprivacy) for the most accurate reproduction.*
 
-# Silicon Valley Bank: Privacy Policy
+# Silicon Valley Bank :: Legal Notices
 
-The privacy and security of your personal information is important to Silicon Valley Bank. Our Privacy Policy will inform you of the types of information we collect, disclose, and retain. The provisions of this notice apply to our former and current clients.
+| 
 
-**Safeguarding Client Information**  
-We maintain physical, electronic, and procedural safeguards that comply with federal standards to protect your personal information. Our employees are bound by a code of conduct that requires confidential treatment of client information, and they are subject to disciplinary action if they fail to do so.
+Legal Notices
 
-**Collecting and Retaining Information**  
-We collect and retain nonpublic personal information about you from the following sources:
+|  |  Consumer Privacy Policy  
+Privacy Statement  
+At Silicon Valley Bank1, we are committed to protecting the privacy and security of your non-public personal information. Our goal is to help you understand how we collect and use the information you provide to us. Whether you are a current or former customer, our practices are the same. 
 
-  * Information we receive from you on applications or other loan and account forms
-  * Information about your transactions with us and our affiliates
-  * Information we receive from third parties such as credit reporting agencies.
+**Highlights**
 
-**Using Shared Information**  
-We do not sell or share your information with marketers outside Silicon Valley Bank. However, there are circumstances under which we will need to share your information in order for us to service your accounts. We share client information (such as name, address, social security number, and credit history) with our employees, our affiliates, our regulators, and nonaffiliated service providers for the purposes of:
+  * Your non-public personal information is confidential
+  * Information security is a top priority at Silicon Valley Bank
+  * We do not sell information to third parties
+  * We do not share your non-public personal information with outside parties except as permitted or required by law
 
-  * Providing you with products and services
-  * Complying with our regulatory and legal requirements
-  * Otherwise conducting business.
+Collection of Information  
+We may collect non-public, personal information about you from the following sources: 
 
-**Sharing Information with Our Affiliates**  
-Affiliates with whom we disclose personal information about you are in several different businesses, including mergers and acquisitions, investments, asset management, and related Silicon Valley Bank private equity funds. Our affiliates include Alliant Partners, SVB Securities, and Woodside Asset Management, Inc.
+  * Personally identifiable information you provide to us on applications and forms, such as income and assets
+  * Information related to your transactions with Silicon Valley Bank and our affiliates, such as account balances and deposit history
+  * Information we receive from third parties, such as credit reporting agencies
 
-**Information Sharing with Nonaffiliated Third Parties as Permitted by Law**  
-We are permitted under the law to disclose nonpublic, personal information to other third parties in certain circumstances. We may disclose nonpublic, personal information to credit reporting agencies, government agencies in response to a subpoena, item processors, check printing processors, and other financial service providers who assist the Bank with servicing client accounts.
+How We Protect and Use Customer Information  
+We maintain physical, electronic, and procedural safeguards that comply with federal standards to secure your non-public personal information. We only grant access to nonpublic, personally identifiable information about our customers to employees of Silicon Valley Bank, its affiliates , and third party service providers contracted to assist in the servicing of your accounts. All third party service providers are required to maintain the confidentiality of your information. We will only disclose this information as permitted or compelled to do so by law.
 
-**Information Sharing for Joint Marketing Purposes**  
-We may share your information with companies that perform marketing services on our behalf or with whom we have joint marketing agreements. These companies are prohibited from using your information for any other purpose than providing you with the financial products and services we request.
+  
+The policies described in this disclosure replace all previous notices or statements regarding this subject. 
 
-**Accessing and Changing Our Privacy Policy**  
-As required by law, Silicon Valley Bank must provide notice of our Privacy Policy annually, if you maintain an ongoing relationship with us. To receive the most current Privacy Policy, you can visit our corporate Web site — http://www.svb.com — or call us at 408.654.7400.
+SVB Securities, a non-bank affiliate of Silicon Valley Bank, Member NASD, SIPC. Investments not FDIC-insured, no bank guarantee, and may lose value.
 
-Silicon Valley Bank reserves the right to change this Policy at anytime.
+SVB Asset Management is a registered investment advisor and non-bank affiliate of Silicon Valley Bank established in 2002. SVB Asset Management manages short-term, fixed income investments for primarily U.S.-based corporate clients. Investment products offered through SVB Asset Management are not insured by the FDIC or any other federal government agency. They are not deposits of or guaranteed by Silicon Valley Bank, or any bank affiliate, and may lose value.
 
-**Protecting Your Privacy**  
-If you believe that someone has obtained unauthorized access to your bank account(s) or to personal, nonpublic information about you, please contact your client service officer immediately.
+SVB Alliant is a wholly owned broker-dealer subsidiary of Silicon Valley Bancshares. SVB Alliant's services are not Bank products or services. The services of SVB Alliant are not guaranteed by the Bank and are not FDIC-insured.
 
-_Protecting your Personal Information_
+Investments recommended by Woodside Asset Management are not guaranteed by Silicon Valley Bank, are not insured by the FDIC, and may lose value. 
 
-We recommend that you take the following steps to guard against any unauthorized use of your account and personal information:
-
-  * Never provide personal information (including a social security number or account information) over the telephone, unless you have initiated the call and know with whom you are speaking.
-  * Safeguard ATM/debit cards.
-  * Memorize PINs (personal identification numbers) and refrain from writing PINs, social security numbers, or debit card numbers where they can easily be found.
-  * Store canceled checks, new checks, and account statements in a safe and secure place. 
-  * Shred unused, preapproved credit offers.
-  * Report lost or stolen checks and/or ATM/debit cards immediately.
-
-_Identity Theft_  
-
-
-  1. Contact the fraud departments of each of the three major credit bureaus and report that your identity has been stolen. Ask that a "fraud alert" be placed on your file and that no new credit be granted without your approval.  
-
-    * Equifax 800.525.6285
-    * Experian 888.397.3742
-    * Trans Union 800.680.7289
-  2. For any accounts that have been fraudulently accessed or opened, contact the security department of the appropriate creditors or financial institutions. Close these accounts. Put passwords ( _ **not**_ your mother's maiden name) on any new accounts you open.
-  3. File a report with your local police or the police where the identity theft took place. Get copies of the report in case the bank, credit card company, or others need proof of the crime later on.
-
-_Marketing Lists_
-
-You can reduce the amount of marketing material and credit applications you receive via mail, telephone, or e-mail by writing or contacting the Direct Marketing Association at the addresses listed below. You must provide your name, address, and telephone number with your request.
-
-**Mail Preference Service**
-
-c/o Direct Marketing Association  
-P.O. Box 9008  
-Farmingdale, NY 11735-9008
-
-**Telephone Preference Service**
-
-c/o Direct Marketing Association  
-P.O. Box 9014  
-Farmingdale, NY 11735-9014
-
-**E-mail Preference Service**
-
-[http://www.donotcall.gov](http://www.donotcall.gov/)  
-[http://www.e-mps.org](http://www.e-mps.org/)
+| 
