@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csmc.edu privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208181253id_/http%3A//www.csmc.edu/1inc/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csmc.edu privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602134702id_/http%3A//www.csmc.edu/1inc/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
