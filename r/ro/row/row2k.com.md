@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the row2k.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203022027id_/http%3A//row2k.com/policy.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the row2k.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605160957id_/http%3A//www.row2k.com/policy.cfm%23privacy) for the most accurate reproduction.*
 
 # Rowing and Sculling for Rowers and Scullers - row2k.com
 
