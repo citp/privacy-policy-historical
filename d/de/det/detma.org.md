@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the detma.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606044807id_/http%3A//detma.org/DETPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detma.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204104038id_/http%3A//www.detma.org/DETPrivacy.htm) for the most accurate reproduction.*
 
 # Division of Career Services and Division of Unemployment Assistance
 
@@ -36,7 +36,7 @@ This site does collect and store indefinitely your Internet Protocol ("IP") addr
 
 Confidentiality at DCS/DUA and the Dissemination of Personally Identifiable Information
 
-DCS/DUA takes seriously its role in protecting the privacy of our customers. Claimants, job seekers, and employers who do business with DCS/DUA are protected by strict rules of confidentiality. The laws requiring this confidentiality are the [ Massachusetts Employment and Training Law](http://www.state.ma.us/legis/laws/mgl/151a-46.htm) (Massachusetts General Laws, Chapter 151A, Section 46) and [Massachusetts General Laws, Chapter 23H, Section 6(G)](http://www.state.ma.us/legis/laws/mgl/23-9l.htm) under which DCS/DUA administers its programs. 
+DCS/DUA takes seriously its role in protecting the privacy of our customers. Claimants, job seekers, and employers who do business with DCS/DUA are protected by strict rules of confidentiality. The laws requiring this confidentiality are the [ Massachusetts Unemployment Insurance Law](http://www.state.ma.us/legis/laws/mgl/151a-46.htm) (Massachusetts General Laws, Chapter 151A, Section 46) and [Massachusetts General Laws, Chapter 23H, Section 6(G)](http://www.state.ma.us/legis/laws/mgl/23-9l.htm) under which DCS/DUA administers its programs. 
 
 This means that information held by DCS/DUA on individual unemployment insurance claims, job seekers using DCS/DUA and One-Stop Career Center services, and Massachusetts employers covered by the Massachusetts unemployment insurance law is confidential and cannot be divulged without the permission of the customer, except under very specific circumstances. 
 
