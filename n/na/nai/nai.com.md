@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the nai.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603210830id_/http%3A//nai.com/asp_set/about_nai/copyright/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nai.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023043105id_/http%3A//www.nai.com/naicommon/aboutnai/copyright/privacy.asp) for the most accurate reproduction.*
 
-# About NAI - Privacy Policy Statement
+# About NAI -- At - A - Glance
 
-|  | 
+|  |   
 
+
+  
 **Privacy Policy Statement**  
 ** This is a web site of Network Associates
 
