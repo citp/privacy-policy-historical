@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603230229id_/http%3A//www.aquabid.com/help/helppriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214161515id_/http%3A//aquabid.com/help/helppriv.htm) for the most accurate reproduction.*
 
 # AquaBid.com - Privacy Policy
 
@@ -15,7 +15,7 @@ When you do provide us with personal data, we may use that information in the fo
 
 When you provide your personal information to this auction (such as name, address, phone number, company name, email address, credit card number, or the products you are shopping for or purchasing) **we will not give or sell your individual information to any outside company** for its use in marketing or solicitation. We will maintain the confidentiality of your personal information and **it will be used only to support your customer relationship with** **us**. Additionally, internal practices help protect your privacy by limiting employee access to and use of customer data.
 
-If you have any questions or concerns in this area we are happy to respond personally to you; [e-mail us](mailto:privacy@aquabid.com).
+If you have any questions or concerns in this area we are happy to respond personally to you; [e-mail us](https://web.archive.org/web/20011214161515id_/http%3A//aquabid.com/help/ContactUs.htm).
 
 To elaborate: All exchanges between you and us will remain _confidential_ with no personally identifiable information being sold or provided to any third party.
 
@@ -43,7 +43,4 @@ In some cases, we may automatically (i.e., not via registration) collect technic
   
 **Information Placed Automatically on Your Computer -- Cookies**
 
-When you view one of our websites, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.  
-  
-Copyright ©2000 All Rights Reserved. AquaBid.com  
-Site by AquaNetwork.com
+When you view one of our websites, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
