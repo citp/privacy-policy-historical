@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 1999-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/pages/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/pages/priv.html) for the most accurate reproduction.*
 
 # PETCO: Privacy Policy
 
@@ -104,6 +104,6 @@ Any information posted on petco.com is for general entertainment and information
 
 ©1999 PETCO all rights reserved. 
 
-[Home](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/index.html) | [About PETCO](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/pages/aboutus.html) | [Inside PETCO](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/pages/inside.html) | [Locate PETCO  
-](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/pages/locate.html)[PETCOmmunities](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/pages/communities.html) | [PETCO Tips](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/pages/tips.html) | [Pet Adoptions](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/pages/adoptions.html) | [PetPourri](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/pages/petpourri.html)[  
-Financial Information](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/pages/financial.html) | [Career Opportunities](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/pages/careers.html) | [Web Site Map](https://web.archive.org/web/19991117115755id_/http%3A//petco.com/pages/sitemap.html)
+[Home](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/index.html) | [About PETCO](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/pages/aboutus.html) | [Inside PETCO](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/pages/inside.html) | [Locate PETCO  
+](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/pages/locate.html)[PETCOmmunities](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/pages/communities.html) | [PETCO Tips](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/pages/tips.html) | [Pet Adoptions](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/pages/adoptions.html) | [PetPourri](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/pages/petpourri.html)[  
+Financial Information](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/pages/financial.html) | [Career Opportunities](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/pages/careers.html) | [Web Site Map](https://web.archive.org/web/20000613142939id_/http%3A//petco.com/pages/sitemap.html)
