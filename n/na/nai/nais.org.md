@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the nais.org privacy policy that was archived on 2004-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040722180410id_/http%3A//www.nais.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nais.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305222554id_/http%3A//www.nais.org/about/index.cfm%3FItemnumber%3D145942) for the most accurate reproduction.*
 
-# National Association of Independent Schools (NAIS) - Privacy Statement
+# National Association of Independent Schools (NAIS) - About NAIS - NAIS Privacy Statement
 
-NAIS Privacy Statement
+  
+
+
+### NAIS Privacy Statement
 
 (a) At the National Association of Independent School (NAIS), we respect and are committed to protecting your privacy. We recognize that our primary responsibility is to meet your interests and needs as a member, affiliate, or friend of NAIS. We also want you to understand how we use your membership information and the choices you can make about the way your information may be collected and used.
 
@@ -65,3 +68,5 @@ NAIS Privacy Statement
 In conclusion, should you have other questions or concerns about these privacy policies or other aspects of our user agreement, please send us an email at [info@nais.org](mailtp:info@nais.org).
 
 NAIS privacy statement is subject to change. Changes may be made by posting to the website, and are effective upon posting, or upon such other date stated in the posting.
+
+[ Printer-friendly format](https://web.archive.org/generalPrint.cfm?print=Y&ItemNumber=145942)
