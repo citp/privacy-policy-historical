@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604001445id_/http%3A//www.searchbiblio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206055112id_/http%3A//www.searchbiblio.com/privacy.php) for the most accurate reproduction.*
 
 # SearchBiblio.com - Privacy Policy
 
