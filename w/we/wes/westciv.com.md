@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westciv.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603001429id_/http%3A//westciv.com/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westciv.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011002616id_/http%3A//www.westciv.com/westciv/privacy.html) for the most accurate reproduction.*
 
-# Westciv: CSS Resources, Software, Learning
+# westciv :: privacy policy
 
 At Westciv we believe very strongly in the right to privacy of all our site visitors, customers and mailing list subscribers. When you
 
@@ -49,7 +49,7 @@ We do not sell any information to other companies: our business is selling softw
 
 The following policy applies to all Westciv mailing lists.
 
-  * [css-foundations](http://three.pairlist.net/mailman/listinfo/css-foundations)
+  * [css-foundations](http://four.pairlist.net/mailman/listinfo/css-foundations)
 
 
 
