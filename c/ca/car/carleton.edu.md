@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carleton.edu privacy policy that was archived on 2001-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010228182735id_/http%3A//www.carleton.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carleton.edu privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803091248id_/http%3A//www.carleton.edu/privacy.html) for the most accurate reproduction.*
 
 # Carleton College: Privacy Policy
 
