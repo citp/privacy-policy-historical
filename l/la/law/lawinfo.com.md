@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawinfo.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202074431id_/http%3A//www.lawinfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawinfo.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401210943id_/http%3A//www.lawinfo.com/privacy.html) for the most accurate reproduction.*
 
 # Lawyers, Attorneys, Free Legal Forms & Legal Advice
 
