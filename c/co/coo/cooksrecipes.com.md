@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113815id_/http%3A//www.cooksrecipes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405113048id_/http%3A//www.cooksrecipes.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy for CooksRecipes.com
+# Cooks Recipes | Privacy Policy for CooksRecipes.com
 
 This is the website of CooksRecipes.com.
 
@@ -33,7 +33,6 @@ For further information, please consult the privacy policies of:
     **[eHarlequin.com](http://www.qksrv.net/click-500065-534091)**
     **[Fastclick.com](http://www.fastclick.com/re.f?7609) **
     **[Flying Noodle](http://www.qksrv.net/click-500065-3483747)**
-    **[GiftTree.com](http://www.qksrv.net/click-500065-818610)**
     **[GoCollect.com](http://www.qksrv.net/click-500065-487880)**
     **[JustFlowers.com](http://www.qksrv.net/click-500065-3885639)**
     **[Kitchen Collection, Inc.](http://www.qksrv.net/click-500065-9940142)**
@@ -52,4 +51,4 @@ Regarding Outside Links: This website contains links to other websites. Please b
 
 If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-[Contact CooksRecipes.com](https://web.archive.org/web/20041204113815id_/http%3A//www.cooksrecipes.com/contact.htm)
+[Contact CooksRecipes.com](https://web.archive.org/web/20050405113048id_/http%3A//www.cooksrecipes.com/contact.htm)
