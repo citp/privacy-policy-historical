@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kronos.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204164158id_/http%3A//kronos.com/footer_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kronos.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608012338id_/http%3A//www.kronos.com/footer_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement > Kronos
 
