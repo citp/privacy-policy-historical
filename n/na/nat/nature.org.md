@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2004-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041220193728id_/http%3A//nature.org/aboutus/misc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307000859id_/http%3A//nature.org/aboutus/misc) for the most accurate reproduction.*
 
-# About Us :: Privacy Statement, Privacy Principles, Privacy Policy, opt out, opt-out, opting out
+# About Us - Privacy Statement, Privacy Principles, Privacy Policy, opt out, opt-out, opting out
 
   
 
