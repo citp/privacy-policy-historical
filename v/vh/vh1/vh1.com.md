@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vh1.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207210026id_/http%3A//www.vh1.com/interact/terms/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vh1.com privacy policy that was archived on 2005-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050216034011id_/http%3A//www.vh1.com/interact/terms/%23privacy) for the most accurate reproduction.*
 
 # VH1.com Terms
 
