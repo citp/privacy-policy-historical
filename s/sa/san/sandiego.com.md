@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603065318id_/http%3A//www.sandiego.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208184852id_/http%3A//www.sandiego.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # SANDIEGO.COM, INC. - Your Guide To San Diego's Web
 
@@ -26,7 +26,7 @@ San Diego, CA 92110
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://www.truste.org](http://www.truste.org/). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
-[Back to top](https://web.archive.org/web/20020603065318id_/http%3A//www.sandiego.com/privacypolicy.asp#TOP)   
+[Back to top](https://web.archive.org/web/20021208184852id_/http%3A//www.sandiego.com/privacypolicy.asp#TOP)   
 
 
   
@@ -43,7 +43,7 @@ A cookie is a piece of data stored on the user’s hard drive containing informa
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
 
-[Back to top](https://web.archive.org/web/20020603065318id_/http%3A//www.sandiego.com/privacypolicy.asp#TOP)   
+[Back to top](https://web.archive.org/web/20021208184852id_/http%3A//www.sandiego.com/privacypolicy.asp#TOP)   
 
 
   
@@ -60,7 +60,7 @@ This web site contains links to other sites. Please be aware that we, TopLevel C
   
 If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address for the purpose of sending the newsletter and no other secondary purpose. 
 
-[Back to top](https://web.archive.org/web/20020603065318id_/http%3A//www.sandiego.com/privacypolicy.asp#TOP)   
+[Back to top](https://web.archive.org/web/20021208184852id_/http%3A//www.sandiego.com/privacypolicy.asp#TOP)   
 
 
   
@@ -87,7 +87,7 @@ If you have any questions about the security at our website, you can send an ema
   
 We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
 
-[Back to top](https://web.archive.org/web/20020603065318id_/http%3A//www.sandiego.com/privacypolicy.asp#TOP)   
+[Back to top](https://web.archive.org/web/20021208184852id_/http%3A//www.sandiego.com/privacypolicy.asp#TOP)   
 
 
   
