@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftrocket.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605092553id_/http%3A//www.giftrocket.com/cgi-bin/ISStore/main%3FDP%3Dprivacypolicy%26RO%3Djrin1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftrocket.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210083619id_/http%3A//www.giftrocket.com/cgi-bin/ISStore/main%3FDP%3Dprivacypolicy%26RO%3Djrin1) for the most accurate reproduction.*
 
 # http://www.hitrocket.com/in.php?id=jrin1
 
