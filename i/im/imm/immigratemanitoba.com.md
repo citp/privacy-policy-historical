@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigratemanitoba.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407063536id_/http%3A//www.gov.mb.ca/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigratemanitoba.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206083256id_/http%3A//www.gov.mb.ca/policy.html) for the most accurate reproduction.*
 
 # Province of Manitoba | Privacy Information
 
@@ -19,8 +19,17 @@ If you wish to have a brochure or other publication mailed to you, we will reque
 
 In some other instances, it may be necessary for us to collect additional personal information in order to provide you with the service that you want. When personal information other than your name and mailing address is collected, you will be notified of:
 
+  
+
+
+  
+
   * the purpose for which the information is being collected; 
+  
+
   * the legal authority for the collection; and 
+  
+
   * the title and business address (including email address) of an official who will answer any questions you may have about the collection of the information.   
 
 
