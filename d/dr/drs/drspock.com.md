@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drspock.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207024749id_/http%3A//www.drspock.com/about/privacy/0%2C1787%2C0%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drspock.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305234602id_/http%3A//www.drspock.com/about/privacy/0%2C1787%2C0%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
