@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpronews.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031048id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpronews.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604105817id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
 
 # iEntry Newsletters - Safeguarding Consumer Information With Our Privacy Policy
 
@@ -6,7 +6,7 @@ The iEntry, Inc. Privacy Policy
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
 
 Registration  
-iEntry collects personally identifying information only during the registration process. In addition, information is collected in certain portions of iEntry in which users specifically and knowingly provide such information along with content submissions, jayde.com submissions or suggestions. iEntry may use such information for its internal purposes, including, but not limited to, editorial and feedback purposes. 
+iEntry collects personally identifying information only during the registration process. Information is collected in certain portions of iEntry in which users specifically and knowingly provide such information along with content submissions, jayde.com submissions or suggestions. iEntry may use such information for its internal purposes, including, but not limited to, editorial and feedback purposes. 
 
 Information submitted at the time of registration (including newsletter subscriptions) may be used for marketing and promotional purposes by iEntry and may be shared with companies that have something of value to offer. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. 
 
