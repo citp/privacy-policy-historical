@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the abc7chicago.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601150621id_/http%3A//disney.go.com/corporate/legal/wdig_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc7chicago.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202104451id_/http%3A//disney.go.com/corporate/legal/wdig_privacy.html) for the most accurate reproduction.*
 
 # WDIG Privacy Policy
 
 |    
 
 
-The Walt Disney Internet Group is committed to helping you make the most of your free time on the Internet within a trusted environment. This privacy policy discloses how we collect, protect, use and share information gathered about you on our family of Web sites. 
+[](https://www.truste.org/validate/389) The Walt Disney Internet Group is committed to helping you make the most of your free time on the Internet within a trusted environment. This privacy policy discloses how we collect, protect, use and share information gathered about you on our family of Web sites. 
 
 Once you have registered with one of our Web sites, you will have access to all of our family of sites. Thus, this privacy policy is the same for all of WDIG's sites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet. 
 
@@ -97,9 +97,8 @@ Suite 2100
 Seattle, WA 98104 
 
 
-| Walt Disney Internet Group is a licensee of the TRUSTe Privacy Program. If you believe that WDIG has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. | [](http://www.truste.org/validate/3876)  
----|---  
-  
+Walt Disney Internet Group is a licensee of the TRUSTe Privacy Program. If you believe that WDIG has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe <http://www.truste.org/users/users_watchdog.html>.
+
 *You must be 18 or have the permission of your parent or guardian to dial this number.  
   
 * * *
