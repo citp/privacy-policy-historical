@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605130643id_/http%3A//www.earthjustice.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209231104id_/http%3A//www.earthjustice.org/privacy) for the most accurate reproduction.*
 
 # Earthjustice: Privacy Policy
 
@@ -7,9 +7,9 @@ Earthjustice is committed to maintaining the privacy of those who visit www.eart
 
 Earthjustice is the sole owner of the information collected on this site. This information will not be sold, or rented to others in ways different from what is disclosed in this statement. Earthjustice collects information from site visitors at several different points on this website.
 
-We collect only the domain name, but not the e-mail address of visitors to our Web site, aggregate information on what pages visitors access, information volunteered by the visitor (such as survey information, e-mail and other addresses), and other personal information.
+We collect only the domain name, but not the e-mail address, of visitors to our Web site, aggregate information on what pages visitors access, information volunteered by the visitor (such as survey information, e-mail and other addresses), and other personal information.
 
-The information we collect is used to improve the content of our Web site, to notify visitors about updates to our Web site, and alert visitors about issues and opportunities. The information is not shared with other organizations for commercial purposes.
+The information we collect is used to improve the content of our Web site, to notify visitors about updates to our Web site, and alert visitors about issues and opportunities. The information is not shared with other organizations for commercial purposes. All personal information is stored on a secure server with password protection.
 
 Financial Transactions  
 To process a charitable contribution or product purchase, it is necessary for Earthjustice to gather the visitor's name, email address, mailing address, phone and credit card information. This data is used to verify identity and execute the financial transaction. Additionally, phone number and email address information may be used to contact visitors if there is a problem with the transaction.
@@ -28,11 +28,11 @@ Earthjustice provides links to other web sites. Earthjustice is not responsible 
 Changes to this policy   
 Earthjustice reserves the right, in its sole discretion and without any obligation, to modify or correct any error or omissions in any portion of this web site. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-If you feel that this site is not following its stated information policy, you may contact us at the address below.
-
-Contact  
-For questions regarding this policy statement, or the practices of this site, email [webmaster@earthjustice.org](mailto:webmaster@earthjustice.org) or contact:
+Contact Us  
+For questions: 
 
 Earthjustice   
 426 17th Street, 6th Floor  
-Oakland, CA 94612
+Oakland, CA 94612  
+1 (800) 584-6460  
+email: [webmaster@earthjustice.org](mailto:webmaster@earthjustice.org)
