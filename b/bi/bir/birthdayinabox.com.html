@@ -1,9 +1,106 @@
-<!--The following is the downloaded HTML source of the birthdayinabox.com privacy policy that was archived on 2003-02-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030216121244id_/http%3A//www.birthdayinabox.com/lobby.asp%3FupperRight%3D%252FUpperRightImages%252Fbubble%255Fkids%252Ejpg%26page%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the birthdayinabox.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603114215id_/http%3A//www.birthdayinabox.com/lobby.asp%3FupperRight%3D%252FUpperRightImages%252Fmother%255Fdaughter%252Ejpg%26page%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head> 
 <script language="JavaScript">
 <!--
+		window.onerror = null;
+		var topMargin = 200;
+		var slideTime = 1200;
+		var ns6 = (!document.all && document.getElementById);
+		var ie4 = (document.all);
+		var ns4 = (document.layers);
+		function layerObject(id,left) {
+			if (ns6) {
+			this.obj = document.getElementById(id).style;
+			this.obj.left = left;
+			return this.obj;
+			}
+			else if(ie4) {
+			this.obj = document.all[id].style;
+			this.obj.left = left;
+			return this.obj;
+			}
+			else if(ns4) {
+			this.obj = document.layers[id];
+			this.obj.left = left;
+			return this.obj;
+			}
+		}
+		function layerSetup() {
+			floatLyr = new layerObject('floatLayer', 338);
+			window.setInterval("main()", 10)
+		}
+		function floatObject() {
+			if (ns4 || ns6) {
+			findHt = window.innerHeight;
+			} else if(ie4) {
+			findHt = document.body.clientHeight;
+			}
+		} 
+		function main() {
+			if (ns4) {
+			this.currentY = document.layers["floatLayer"].top;
+			this.scrollTop = window.pageYOffset;
+			mainTrigger();
+			}
+			else if(ns6) {
+			this.currentY = parseInt(document.getElementById('floatLayer').style.top);
+			this.scrollTop = scrollY;
+			mainTrigger();
+			} else if(ie4) {
+			this.currentY = floatLayer.style.pixelTop;
+			this.scrollTop = document.body.scrollTop;
+			mainTrigger();
+			}
+		}
+		function mainTrigger() {
+			var newTargetY = this.scrollTop + this.topMargin;
+			if ( this.currentY != newTargetY ) {
+			if ( newTargetY != this.targetY ) {
+			this.targetY = newTargetY;
+			floatStart();
+			}
+			animator();
+			}
+		}
+		function floatStart() {
+			var now = new Date();
+			this.A = this.targetY - this.currentY;
+			this.B = Math.PI / ( 2 * this.slideTime );
+			this.C = now.getTime();
+			if (Math.abs(this.A) > this.findHt) {
+			this.D = this.A > 0 ? this.targetY - this.findHt : this.targetY + this.findHt;
+			this.A = this.A > 0 ? this.findHt : -this.findHt;
+			}
+			else {
+			this.D = this.currentY;
+			}
+		}
+		function animator() {
+			var now = new Date();
+			var newY = this.A * Math.sin( this.B * ( now.getTime() - this.C ) ) + this.D;
+			newY = Math.round(newY);
+			if (( this.A > 0 && newY > this.currentY ) || ( this.A < 0 && newY < this.currentY )) {
+			if ( ie4 )document.all.floatLayer.style.pixelTop = newY;
+			if ( ns4 )document.layers["floatLayer"].top = newY;
+			if ( ns6 )document.getElementById('floatLayer').style.top = newY + "px";
+			}
+		}
+		function start() {
+			if(ns6||ns4) {
+			pageWidth = innerWidth;
+			pageHeight = innerHeight;
+			layerSetup();
+			floatObject();
+			}
+			else if(ie4) {
+			pageWidth = document.body.clientWidth;
+			pageHeight = document.body.clientHeight;
+			layerSetup();
+			floatObject();
+			}
+		}
         function openTheWindow( strBody ) {
             w = window.open( "", "MyWindow", "width=280,height=350"); 
             w.document.write("<html><HEAD></HEAD>");
@@ -14,7 +111,32 @@
             var winl = (screen.width - width) / 2;
             var wint = (screen.height - height) / 2;
             popupWin = window.open(file, 'remote', 'menubar=no,toolbar=no,location=no,directories=no,status=no,scrollbars=no,top='+wint+',left='+winl+',width='+width+',height='+height);
+            popupWin.window.focus()
         }
+        function MM_preloadImages() { //v3.0
+		   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+		function MM_swapImgRestore() { //v3.0
+		   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+		function MM_findObj(n, d) { //v4.01
+		   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+		   d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+		   if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+		   for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+		   if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+		function MM_swapImage() { //v3.0
+		   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+		   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+
 //-->
     </script>
 <title>Children's Birthday Party Supplies &amp; Theme Party Favors</title>
@@ -69,9 +191,13 @@ function showMsg(text) {
 document.picform.message.value = text;
 }
 </script>
+
 </head><body bgcolor="#ffffff" leftmargin="0" topmargin="0" face="Gill Sans MT" font="" marginheight="0" marginwidth="0">
 
- 
+<script src="http://net-radar.com/trackingfunctions.js"></script>
+
+
+
 
 
 <table width="725" border="0" cellspacing="0" cellpadding="0">
@@ -85,37 +211,67 @@ document.picform.message.value = text;
                
               <tbody><tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
 
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;cat%5Fid=5&amp;page=cat">All Themes</a> </td>
+<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=9&amp;page=cat">New Themes</a> </td>
 
               </tr>
                
               <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
 
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;cat%5Fid=2&amp;page=cat">Classic Themes</a> </td>
+<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=5&amp;page=cat">All Themes</a> </td>
 
               </tr>
                
               <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
 
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;cat%5Fid=1&amp;page=cat">Nature/Animals</a> </td>
+<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=3&amp;page=cat">Character Themes</a> </td>
 
               </tr>
                
               <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
 
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;cat%5Fid=3&amp;page=cat">Character Themes</a> </td>
+<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=2&amp;page=cat">Classic Themes</a> </td>
 
               </tr>
                
               <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
 
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;cat%5Fid=4&amp;page=cat">Preschool</a> </td>
+<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=1&amp;page=cat">Nature &amp; Animals</a> </td>
 
               </tr>
                
               <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
 
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;cat%5Fid=6&amp;page=cat">Activity Boxes</a> </td>
+<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=4&amp;page=cat">Preschool</a> </td>
+
+              </tr>
+               
+              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
+
+<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=7&amp;page=cat">1st Birthday</a> </td>
+
+              </tr>
+               
+              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
+
+<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=8&amp;page=cat">Pre-Teen</a> </td>
+
+              </tr>
+               
+              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
+
+<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=10&amp;page=cat">Luau Parties</a> </td>
+
+              </tr>
+               
+              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
+
+<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=12&amp;page=cat">Grown Up Themes</a> </td>
+
+              </tr>
+               
+              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
+
+<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=11&amp;page=cat">Sale Themes</a> </td>
 
               </tr>
                
@@ -132,169 +288,169 @@ document.picform.message.value = text;
                
               <tbody><tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=16&amp;prodType=Pinatas">Pinatas</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=16&amp;prodType=Pinatas">Pinatas</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=10&amp;prodType=Balloons">Balloons</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=10&amp;prodType=Balloons">Balloons</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=11&amp;prodType=Games+%26+Activities">Games &amp; Activities</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=11&amp;prodType=Games+%26+Activities">Games &amp; Activities</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=27&amp;prodType=Crafts+%26+Kits">Crafts &amp; Kits</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=27&amp;prodType=Crafts+%26+Kits">Crafts &amp; Kits</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=24&amp;prodType=Themed+Favor+Sets">Themed Favor Sets</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=24&amp;prodType=Themed+Favor+Sets">Themed Favor Sets</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=23&amp;prodType=Stickers+%26+Tattoos">Stickers &amp; Tattoos</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=23&amp;prodType=Stickers+%26+Tattoos">Stickers &amp; Tattoos</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=28&amp;prodType=Collectible+Figures">Collectible Figures</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=28&amp;prodType=Collectible+Figures">Collectible Figures</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=29&amp;prodType=Beanies">Beanies</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=29&amp;prodType=Beanies">Beanies</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=13&amp;prodType=Other+Party+Favors">Other Party Favors</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=13&amp;prodType=Other+Party+Favors">Other Party Favors</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=14&amp;prodType=Invitations">Invitations</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=14&amp;prodType=Invitations">Invitations</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=38&amp;prodType=Thank+You+Notes">Thank You Notes</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=38&amp;prodType=Thank+You+Notes">Thank You Notes</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=19&amp;prodType=Theme+Plates">Theme Plates</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=19&amp;prodType=Theme+Plates">Theme Plates</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=20&amp;prodType=Theme+Napkins">Theme Napkins</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=20&amp;prodType=Theme+Napkins">Theme Napkins</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=21&amp;prodType=Theme+Cups">Theme Cups</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=21&amp;prodType=Theme+Cups">Theme Cups</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=17&amp;prodType=Theme+Tablecovers">Theme Tablecovers</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=17&amp;prodType=Theme+Tablecovers">Theme Tablecovers</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=39&amp;prodType=Solid+Partyware">Solid Partyware</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=39&amp;prodType=Solid+Partyware">Solid Partyware</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=40&amp;prodType=Cutlery">Cutlery</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=40&amp;prodType=Cutlery">Cutlery</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=30&amp;prodType=Birthday+Candles">Birthday Candles</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=30&amp;prodType=Birthday+Candles">Birthday Candles</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=25&amp;prodType=Hats+%26+Blowers">Hats &amp; Blowers</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=25&amp;prodType=Hats+%26+Blowers">Hats &amp; Blowers</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=26&amp;prodType=Confetti+%26+Streamers">Confetti &amp; Streamers</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=26&amp;prodType=Confetti+%26+Streamers">Confetti &amp; Streamers</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=18&amp;prodType=Centerpieces">Centerpieces</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=18&amp;prodType=Centerpieces">Centerpieces</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=12&amp;prodType=Other+Decorations">Other Decorations</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=12&amp;prodType=Other+Decorations">Other Decorations</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=31&amp;prodType=Personalized+Stickers">Personalized Stickers</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=31&amp;prodType=Personalized+Stickers">Personalized Stickers</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=32&amp;prodType=Personalized+Invites">Personalized Invites</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=32&amp;prodType=Personalized+Invites">Personalized Invites</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=33&amp;prodType=Personalized+Thanks">Personalized Thanks</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=33&amp;prodType=Personalized+Thanks">Personalized Thanks</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=34&amp;prodType=Personalized+Buttons">Personalized Buttons</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=34&amp;prodType=Personalized+Buttons">Personalized Buttons</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=35&amp;prodType=Personalized+Magnets">Personalized Magnets</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=35&amp;prodType=Personalized+Magnets">Personalized Magnets</a> </td>
               
               </tr>
                
               <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
                 
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=alaCarte&amp;prodTypeId=36&amp;prodType=Personalized+BagTags">Personalized BagTags</a> </td>
+<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=36&amp;prodType=Personalized+BagTags">Personalized BagTags</a> </td>
               
               </tr>
                
@@ -313,7 +469,7 @@ document.picform.message.value = text;
               </tr>
               <tr align="center" valign="top"> 
                 <td width="347"> 
-                  <form method="post" id="formSearch" name="formSearch" action="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=search">
+                  <form method="post" id="formSearch" name="formSearch" action="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=search">
                     <table width="99%" border="0" cellspacing="0" cellpadding="1">
                       <tbody><tr>
                         <td height="24" class="fixsize"><b> Keyword Search</b></td>
@@ -330,7 +486,7 @@ document.picform.message.value = text;
                             <option value="7">Personalized</option>
                           </select>
                           <br>
-                          Click <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=help">here</a> 
+                          Click <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=help">here</a> 
                           for help with search</td>
                         <td height="24"> 
                           <input type="image" height="29" width="20" border="0" id="imgGo" name="imgGo" src="images/go.gif">
@@ -346,13 +502,13 @@ document.picform.message.value = text;
             <table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr bgcolor="#000066" align="center" valign="top"> 
         <td valign="middle">
-<a class="headlinks" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=sitemap"><font color="#FFFFFF">site map</font></a>
+<a class="headlinks" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=sitemap"><font color="#FFFFFF">site map</font></a>
 <font color="#FFFFFF"> | </font>
-<a class="headlinks" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=mainpage"><font color="#FFFFFF">home</font></a>
+<a class="headlinks" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=mainpage"><font color="#FFFFFF">home</font></a>
 
 
- <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=basket"><img src="images/view_carts.gif" width="60" height="20" border="0"></a>
- <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=login"><img src="images/check_outs.gif" width="60" height="20" border="0"></a>
+ <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=basket"><img src="images/view_carts.gif" width="60" height="20" border="0"></a>
+ <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=login"><img src="images/check_outs.gif" width="60" height="20" border="0"></a>
 
 
 
@@ -365,7 +521,7 @@ document.picform.message.value = text;
                 <td> 
                   <table width="75%" border="0" cellspacing="0" cellpadding="0">
                     <tbody><tr> 
-                      <td bgcolor="#000066" valign="top"><img src="/UpperRightImages/bubble_kids.jpg" height="166" width="96"></td>
+                      <td bgcolor="#000066" valign="top"><img src="/UpperRightImages/mother_daughter.jpg" height="166" width="96"></td>
                       <td bgcolor="#F5FFCC" valign="top"><img src="images/table_junction.gif" width="33" height="166"></td>
                       <td bgcolor="#000066" valign="top"> 
                         <table width="100" border="0" cellspacing="0" cellpadding="0" height="166">
@@ -375,11 +531,11 @@ document.picform.message.value = text;
                           <tr bgcolor="#F5FFCC" background="images/onepixel.gif"> 
                 <td height="72">
 <font size="-1" face="Arial, Helvetica, sans-serif">
-<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=onsale">sale items</a><br>
-<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=featured">featured products</a><br>
+<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=onsale">sale items</a><br>
+<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=featured">featured products</a><br>
 
-	<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=mailing">mailing list</a><br>
-	<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=news">in  the news</a>
+	<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=mailing">mailing list</a><br>
+	<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=news">in  the news</a>
 
 </font>
                 </td>
@@ -413,7 +569,7 @@ document.picform.message.value = text;
   <tbody><tr>
 	
     <td class="fixsizeb" width="95%"> 
-      <p>With many children of our own, we understand the significance of privacy 
+      <p>With  children of our own, we understand the significance of privacy 
         where children are concerned. Birthday in a Box is committed to protecting 
         your privacy and that of your children. You may be asked to provide your 
         name, address, eMail address, telephone and credit card information, as 
@@ -422,20 +578,18 @@ document.picform.message.value = text;
         and to provide you with personalized, timely service. </p>
       <p>We may also use this information to tell you about changes in our services, 
         to provide you with a list of current themes before your child's next 
-        birthday or to send you emails about special offers we think you'll find 
-        valuable. You may elect not to receive such offers. If you have elected to
-	receive these offers and wish to stop, please contact our customer service 
-	departement at 800-989-5506.  </p>
+        birthday or to send you emails about special offers or discounts. You may elect not to receive such offers. If you have elected to
+	receive these offers and wish to stop, please contact our customer service department at 
+      1-800-989-5506.  </p>
       <p>We will not sell, share or lease your personal information for any purpose. 
 	Rest assured that your personal information is kept strictly confidential. 
 	Should we change this policy in the future, we will make a best effort to 
 	contact our customers directly, and to notify them via our 
-	website. To contact us directly regarding this policy, please click <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=contact"> 
+	website. To contact us directly regarding this policy, please click <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=contact"> 
         here</a> for more information. </p>
     </td>
   </tr>
-</tbody></table>
-	 </font></td>
+</tbody></table> </font></td>
               </tr>
             </tbody></table>
           </td>
@@ -447,30 +601,39 @@ document.picform.message.value = text;
                 <td width="143" valign="top" bgcolor="#000066"> 
                   <table width="100%" border="0" cellspacing="0" cellpadding="0" height="181">
                     <tbody><tr bgcolor="#F5FFCC"> 
-                      <td class="fixsizeb" height="137" width="141" bgcolor="#F5FFCC">Children are especially excited at the beginning of the party.  Plan an activity or craft that arriving guests can easily participate in.  </td>
+                      <td class="fixsizeb" height="137" width="141" bgcolor="#F5FFCC">*Using photos of your child and their friends, make enlargements on a color copier and hang in party area.</td>
                     </tr>
                     <tr bgcolor="#F5FFCC"> 
-                      <td class="fixsizeb" align="center" height="18" width="141"> <a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=partyTips">additional 
+                      <td class="fixsizeb" align="center" height="18" width="141"> <a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=partyTips">additional 
                         party tips</a></td>
                     </tr>
                     <tr bgcolor="#F5FFCC" valign="middle">  
                       <td class="rightlinks" valign="bottom" width="141" height="134" align="center" bgcolor="#000066">&nbsp;</td>
-                       </tr>
+           </tr>
                     <tr bgcolor="#F5FFCC" width="141" valign="middle">  
-                      <td bgcolor="#000066">&nbsp;</td>
-                       
+		                      <td bgcolor="#000066">&nbsp;</td>
+		   
                     </tr>
                   </tbody></table>
                 <br>
         </td>
               </tr>
             </tbody></table>
+
+		 
+		            <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=memberinfo"><img src="images\Affiliatebuttonpg1.gif" width="154" height="115" border="0"></a>
+		                       
+
+
+
+
+
           </td>
         </tr>
       </tbody></table>
     </td>
   </tr>
-  <tr> 
+  <tr height="95"> 
     <td height="2" width="142" bgcolor="#333399" valign="bottom" align="center"> 
       <div align="center"><img src="images/partyphone.gif" width="80" height="90"> 
       </div>
@@ -480,13 +643,13 @@ document.picform.message.value = text;
         <tbody><tr valign="top" align="center"> 
           <td class="fixsize" height="2" width="100%"><br>
 <br>
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=about">about us</a> | 
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=mailing">mailing list</a> |
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=faq"> FAQ</a> |
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=links"> links</a> |
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=contact"> contact us</a> |
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=shippinginfo">shipping</a> |
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&amp;page=privacy"> privacy</a>
+<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=about">about us</a> | 
+<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=mailing">mailing list</a> |
+<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=faq"> FAQ</a> |
+<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=links"> links</a> |
+<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=contact"> contact us</a> |
+<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=shippinginfo">shipping</a> |
+<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=privacy"> privacy</a>
 
 
 
@@ -503,9 +666,10 @@ document.picform.message.value = text;
   </tr>
 </tbody></table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>[]&nbsp;</p>
+<p><font size="1" color="Silver">[]&nbsp;</font></p>
+
+<script src="http://net-radar.com/net-tracking.asp?ClientKey=109612859"></script>
+
 
 
 
