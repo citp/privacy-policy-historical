@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremescience.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202200726id_/http%3A//extremescience.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremescience.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603041810id_/http%3A//extremescience.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Extreme Science Privacy Policy
 
@@ -23,10 +23,10 @@ This website contains links to other sites. Please be aware that Extreme Science
 We use an email link to allow users to contact us directly with questions or comments. We read every message and we try to respond promptly where appropriate. We may file comments to improve the website. The comments are for internal use only and are not shared with third parties. 
 
 **Email Communications to Requests for Information**   
-In some cases, we send a confirmation email to verify that we have received the user's request for information. Email addresses provided to us to request information will be used to supply the requested information to the user. We may also use user's email to communicate with them about any special offers or promotions Extreme Science may have. 
+In some cases, we send a confirmation email to verify that we have received the user's request for information. Email addresses provided to us to request information will be used to supply the requested information to the user. 
 
 **Addresses**  
-When website visitors request us to mail them information, or to ship product, we collect addresses. This information is not shared with any third parties. Any addresses we collect are used for mailing requested information to users, or to ship product that has been requested or won in a contest. Occasionally we may use mailing addresses to send users information about special offers or promotions Extreme Science may have.   
+When website visitors request us to mail them information, or to ship product, we collect addresses. This information is not shared with any third parties. Any addresses we collect are used for mailing requested information to users, or to ship product that has been requested or won in a contest.   
 
 
 **Required Disclosures**   
