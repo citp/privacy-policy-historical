@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the comscore.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604134632id_/http%3A//www.comscore.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comscore.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209062146id_/http%3A//www.comscore.com/privacy) for the most accurate reproduction.*
 
 # comScore Networks Privacy Policy
 
-Commitment to Privacy Privacy is a critical issue to every Internet user and comScore Networks is committed to assuring that the privacy and confidentiality of our members is respected and preserved. Unless you give us explicit permission, we will never share your personally identifiable information such as name, address or e-mail address with third parties for any purpose. Information gathered from your activity is used for compiling anonymous statistics only and is never identifiable back to any individual. Registration information is used for verification purposes or for sending e-mails, if requested. 
+Privacy Statement comScore Networks interacts with current and prospective clients, investors, and the general public via its Web site, comscore.com. This Privacy Statement describes comScore Networks’ privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to comscore.com. comScore operates a number of research panels, each of which are governed by the privacy policy that appears on the Web site assigned to that research panel. 
 
-Comprehensive Privacy Statement  
-comScore Networks interacts with current and prospective clients, investors, and the general public via its Web site, comscore.com. This Privacy Statement describes comScore Networks’   
-privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to our site. 
+**Privacy Commitment**  
+Privacy is a critical issue to every Internet user and comScore Networks is committed to assuring that the privacy and confidentiality of visitors to this site are respected and preserved. Unless you give us explicit permission, we will not share your personally identifiable information such as name, address or e-mail address with third parties for any purpose. Information gathered from your activity is used for compiling anonymous statistics only and is not identifiable back to any individual. Registration information is used for verification purposes, for sending administrative e-mails to clients regarding our service, and for sending informational e-mails to prospective clients, investors, and the general public, if requested. 
 
 **Collection, Use, Disclosure of Information**  
 comScore Networks does not collect personally identifiable information about you unless you choose to provide us personally identifiable information through an online form or e-mail communication or you are accessing client-specific, secure content. We use cookies to ensure authorized access to client-specific secure content. Our use of cookies is explained in greater detail below. When accessing client-specific secure content, you are acting as a representative of your company and your interactions with our site in this capacity are governed by our relationship agreement with your company.
@@ -26,7 +25,7 @@ As a representative of your company, you can view and modify your company profil
 comScore Networks has physical, electronic, and managerial security functions in place to protect personally identifiable information from loss, misuse, alteration or destruction. Only authorized employees have access to the data you provided and that access is limited by need. Our employees who have access to the data you provided have agreed to maintain the confidentiality of such information. 
 
 **Children**  
-comScore Networks understands the importance of protecting children’s privacy in the online interactive world. comScore Networks does not intentionally target or solicit to children 13 and younger. 
+comScore Networks understands the importance of protecting children’s privacy in the online interactive world. This Web site does not intentionally target or solicit to children 13 and younger. 
 
 **Notification of Changes**  
 If we materially change our practices in handling personally identifiable information, as described in this statement, we will notify you by posting the changes on this Privacy Statement at least 30 days prior to their implementation.
