@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investors.com privacy policy that was archived on 2000-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001109050800id_/http%3A//www.investors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investors.com privacy policy that was archived on 2001-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010207030558id_/http%3A//www.investors.com/privacy) for the most accurate reproduction.*
 
 # Investor’s Business Daily: Privacy Statement
 
