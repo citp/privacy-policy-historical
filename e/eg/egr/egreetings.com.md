@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605033828id_/http%3A//www.egreetings.com/privacy.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202092131id_/http%3A//www.egreetings.com/privacy.pd) for the most accurate reproduction.*
 
 # Find out more about Egreetings.com!
 
