@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sciencechannel.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602135520id_/http%3A//science.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencechannel.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205094638id_/http%3A//www.science.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy -- The Science Channel
+# Privacy Policy -- Discovery Science
 
 Discovery.com respects your privacy, and we want you to understand the ways in which we do and don't use the information that you transmit when you visit our Web site. This statement discloses the privacy practices for all Discovery.com Web sites except for areas of Discovery.com directed to children, including Discovery Kids and the Students area of Discovery School, which have their own policy specially developed to protect kids. 
 
@@ -23,8 +23,6 @@ We recognize that the confidentiality of medical and health-related information 
 To help make our sites more responsive to the needs of our visitors, we invoke a standard feature found in browser software, called a "cookie," to assign each visitor a unique, random number, a sort of anonymous user ID that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can't read data off your hard drive. Our advertisers may also assign their own cookies to your browser, a process that we don't control. 
 
 We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. In addition, we may use cookies to track the pages on our sites visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our sites. 
-
-For more about third-party ad servers, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **IP Addresses**  
 Our Web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our sites. (Your IP address is a number that lets computers attached to the Internet know where to send you data — such as the Web pages you view.) Your IP address does not identify you personally. We use this information to deliver our Web pages to you upon request, to tailor our sites to the interests of our users and to measure traffic within our sites. 
