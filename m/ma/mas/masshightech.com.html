@@ -1,0 +1,286 @@
+<!--The following is the downloaded HTML source of the masshightech.com privacy policy that was archived on 2000-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001212113300id_/http%3A//www.masshightech.com/miscpage.asp%3FMISC_ID%3D10) for the most accurate reproduction.-->
+
+<html><head><title>Mass High Tech v1.1</title>
+
+</head><body text="black" bgcolor="#666633" link="#ff0000" alink="#660000" vlink="#000000" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" framborder="0"><form name="homepage" onsubmit="Search(document.forms[0].searchbox.value);return false">
+
+<meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
+<script language="javascript"><!--
+//Paul Comtois Internoded Inc. jan 21, 2000
+
+	function SubscriptionWin(winURL)
+	{
+	newwin = window.open(winURL, "Subscription")
+	}
+	
+	function getCalendarDay(day)
+	{
+	//returns the weekday as a string//
+	
+	var dow = new Array(7);
+	dow[0] = "Sunday";
+	dow[1] = "Monday";
+	dow[2] = "Tuesday";
+	dow[3] = "Wednesday";
+	dow[4] = "Thursday";
+	dow[5] = "Friday";
+	dow[6] = "Saturday";
+	return dow[day]		
+	}
+	
+	
+	function getCalendarMonth(Month)
+	{
+	//Returns the month string//
+	var md = new Array(12);
+	md[0] = "January";
+	md[1] = "February";
+	md[2] = "March";
+	md[3] = "April";
+	md[4] = "May";
+	md[5] = "June";
+	md[6] = "July";
+	md[7] = "August";
+	md[8] = "September";
+	md[9] = "October";
+	md[10] = "November";
+	md[11] = "December";
+	
+	return md[Month]	
+	
+	}
+	
+
+	dte = new Date()	
+	result = dte.toGMTString()		
+    Day= dte.getDate();
+	Year = dte.getYear();
+	Month = dte.getMonth()+ 1;
+	MonthDay = getCalendarMonth(dte.getMonth());		
+	DayStr = getCalendarDay(dte.getDay());
+	fulldate = MonthDay + " " + Day
+// -->
+		</script>
+
+
+
+
+
+
+<script language="Javascript">
+function Vote(questionvalue){
+//This function is used for voting.
+x = 0
+id = 0
+while( x < document.forms[0].Question.length ) {
+     if (document.forms[0].Question[x].checked) {
+      break}
+     x ++
+};
+height = 290 + (document.forms[0].Question.length * 35);
+
+window.open('chart.asp?Option=' + questionvalue + '&questionid=' + document.forms[0].questionid.value,'popup', 'width=400,HEIGHT=' + height)
+}
+function Search(qry) {
+//This function is used to take the value from the textbox
+//and open the search page.
+word = ""
+
+for (var i = 0; i < qry.length; i++) {
+    letter = qry.substring(i,i+1);
+    if ( letter  == " " ) 
+		{word = word + "+"}
+	else
+		{word = word + letter};
+};
+
+searchurl = "search.asp?qrystr=" + word;
+window.location.href=searchurl;
+}
+</script>
+
+
+
+<center>
+<p>
+<table border="0" cellpadding="0" cellspacing="0" width="618" bgcolor="cccc99">
+<tbody> 
+<tr>
+	<td bgcolor="cccc99" width="137">
+		<font face="Verdana" size="2">
+			<center>
+			<script language="javascript"><!--
+				document.write(DayStr)
+				// -->
+			</script>Wednesday
+			<br>
+			<script language="javascript"><!--
+				document.write(fulldate)
+				// -->
+			</script>February 19
+			</center>
+		</font>
+	</td>
+	<td bgcolor="cccc99" width="472" valign="top">
+		<font size="1">
+			<br>
+			<a href="http://ads25.focalink.com/SmartBanner/page?23988.1-INSERT_TIME_DATE_ST&#10;AMP_HERE">
+<img src="http://ads25.focalink.com/SmartBanner/nph-graphic?23988.1-INSERT_TIME_D&#10;ATE_STAMP_HERE" border="0"></a>
+			
+<!--- 		<a href='//www.brandeis.edu/continuing' target=newwindow><IMG src='images\sponsors\brandeisnew.gif' border='0'></a> --->
+			<br>
+			<br>
+		</font>
+</td>
+</tr>
+<tr>
+	<td width="618" colspan="2" bgcolor="black">
+<!--- 		<IMG src="images\tspacer.gif" WIDTH=1 HEIGHT=1> --->
+	</td>
+</tr>                           
+
+<tr>
+	<td width="618" colspan="2" bgcolor="white" height="79">
+	<table border="0" width="618" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+
+	<td width="220">	
+	<img src="images\mhtlogo.gif">
+	<!--- Width="218" Height="79" --->
+	</td>
+	
+		<td valign="bottom" alighn="right">
+	<table border="0" cellspacing="0" cellpadding="0" width="400">
+	<tbody><tr height="45">
+	<td align="right" valign="center">
+	<img src="images\qualify_tag.gif"><a href="Javascript:SubscriptionWin('http://www.masshightech.com/subscribe.html')"><!--- <a href="subscribe.asp?misc_id= "> ---><img src="images/go.gif" border="0"></a>
+	</td>
+	</tr>
+	<tr valign="bottom" height="30">
+	<td align="right" valign="bottom"><img name="menu_home" src="images\menu_home.gif" width="386" height="17" border="0" usemap="#m_menu_home" align="bottom" alt=""><map name="m_menu_home"><area shape="rect" coords="310,0,386,16" href="contact.asp?misc_id=6"><area shape="rect" coords="215,0,310,16" href="searchArch.asp"><area shape="rect" coords="137,0,215,16" href="advertising.asp?misc_id=7"><area shape="rect" coords="50,0,137,16" href="http://www.masshightech.com/subscribe.html" target="_blank"><area shape="rect" coords="0,0,50,16" href="homepage.asp"></map></td>
+	</tr>
+	</tbody></table>
+	</td>
+	</tr>
+	</tbody></table>
+	</td>
+	</tr>
+<tr height="21">
+	<td bgcolor="black" width="610" colspan="3" valign="top" height="21">
+		<img src="images\journal_bar.gif" align="middle">
+<!--- 		WIDTH="609" HEIGHT="22" --->
+	</td>
+</tr>
+<tr>
+	<td bgcolor="cccc99" width="137" valign="top">
+    <center><br>
+<img src="images\ne_map.gif">
+    <font face="Verdana" size="1">
+		   </font>
+    <br>   
+		<b>
+		<font face="Verdana" size="1">
+			<a href="dirsplash.asp?misc_id=9">CLICK HERE</a><br> for more<br>information
+		</font>
+		</b>
+    <p></p>
+    </center>
+
+		<font face="Verdana" size="1">
+			<img src="images\current.gif" width="137" height="15">
+		</font>
+
+        <center>  
+        
+        
+        <table width="137"><tbody><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=1">Internet</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=3">Software</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=4">Telecommunications</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=8">Hardware</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=9">Biotech</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=10">Med Tech</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=13">Finance</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=15">Community</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=19">Movers &amp; Innovators</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=20">Education</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=21">Review Queue</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=22">Mgr's Notebook</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=24">Industry Briefs</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=31">Government</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=32">e-Commerce</a></font></td></tr><tr><td bgcolor="cccc99" width="137" valign="top" align="center"><font face="Verdana" size="1"><a href="category.asp?cat_ID=39">Patent Watch</a></font></td></tr></tbody></table>  
+		<p>
+        
+     
+        
+        <font face="Verdana" size="1"><a href="section.asp?sec_ID=34"><img src="images/sec_closeup.gif" border="0"></a></font><br></p><p><font face="Verdana" size="1"><a href="section.asp?sec_ID=34"><font face="Verdana" size="1">High Tech Finance</font></a><br></font></p><font face="Verdana" size="1"><font face="Verdana" size="1"><a href="section.asp?sec_ID=35"><img src="images/Dialogue.gif" border="0"></a></font><br><font face="Verdana" size="1"><a href="section.asp?sec_ID=5"><img src="images/calendar_button.gif" border="0"></a></font><br><font face="Verdana" size="1"><a href="section.asp?sec_ID=41"><img src="images/mover.gif" border="0"></a></font><br><font face="Verdana" size="1"><a href="section.asp?sec_ID=36"><img src="images/personal_button.gif" border="0"></a></font><br><font face="Verdana" size="1"><a href="section.asp?sec_ID=42"><img src="images/teckno.gif" border="0"></a></font><br><font face="Verdana" size="1"><a href="section.asp?sec_ID=38"><img src="images/financial_button.gif" border="0"></a></font><br><font face="Verdana" size="1"><a href="section.asp?sec_ID=43"><img src="images/columns.gif" border="0"></a></font><br><font face="Verdana" size="1"><a href="section.asp?sec_ID=75"><img src="images/cocultbtn.gif" border="0"></a></font><br>
+       
+       
+        <p></p>
+		<!--Search
+        <FONT FACE="Verdana" SIZE="1">
+		Current Site Search
+		<font size=3>
+			<INPUT TYPE=TEXT NAME=searchbox size=7 >
+		</font>
+		<a href="JavaScript:Search(document.forms[0].searchbox.value)" border=0><IMG src="images\go_small.gif" border=0></a>
+   		Search-->
+		
+		
+		<font face="Verdana" size="1">
+			<img src="images\other_tech.gif" width="137" height="23">
+        </font>
+        <p></p>
+
+
+        <p>
+        <font face="Verdana" size="1"><a href="//www.potomactechjournal.com">Potomac Tech Journal</a><br>(news from Washington D.C., Northern Virginia, and Maryland)</font><br><br><font face="Verdana" size="1"><a href="//www.dfwtechbiz.com">DFW Tech Biz</a><br>(news from the Dallas/ Fort Worth areas)</font><br><br><font face="Verdana" size="1"><a href="//www.bizjournals.com">American City Business Journal</a><br>(news from 41 Business publications around the country)</font><br><br>
+        </p><p>
+        </p>
+		<img src="images/other_useful.gif" width="137" height="23"><br><br><a href="community.asp?misc_ID=11"><img src="images/commlink_button.gif" border="0"></a>
+        <br>
+		<a href="editcal.asp">
+		<img src="images\edcal_button.gif" border="0"></a>
+        </font></center><font face="Verdana" size="1">
+
+ 
+
+        </font></td>
+	<td bgcolor="white" colspan="2" valign="top">
+    <center>
+	<font face="Verdana">
+
+
+
+    
+<!-- HTML STARTS HERE --->
+
+<p><br>The Mass High Tech web site is maintained by American City Business Journals, 120 South Morehead St., Suite 400, Charlotte, NC 28202. We can be reached by email at <a href="mailto:info@amcity.com">info@amcity.com</a>. </p><br><p><br><b>How American City Business Journals uses information provided by you:</b> This site does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifying information may be used by American City Business Journals for editorial purposes. American City Business Journals may also use such information for marketing and promotional purposes and may share the information with companies that it has pre-screened. Individuals may request that their information not be used for commercial purposes by contacting American City Business Journals. <br></p><br><p><br>A user's personally identifying information will not be transferred to any other party unless otherwise stated at the time of collection. While American City Business Journals will seek to require third parties with whom it has agreements to follow appropriate privacy policies, American City Business Journals does not bear any responsibility for any actions or policies of such third parties. <br></p><br><p><br>American City Business Journals web site users should be aware that when they voluntarily disclose personal information (e.g., user name, email address) on areas of the American City Business Journals web site, such as Internet Directory, that information can be collected and used by others and may result in unsolicited messages from other posters or parties.<br></p><br><p><br>While your personally identifying information is protected as outlined above, we sometimes collect anonymous aggregated data and provide it to our advertisers for statistical purposes. For example, we might report to advertisers that a certain percentage of users are between the ages of 35 and 45.<br></p><br><p><br><b>Cookies:</b> American City Business Journals may place a "cookie" in your browser files of an American City Business Journals web site user's computer. The cookie will enable American City Business Journals to relate a user's use of American City Business Journals' web site to information that the user has specifically and knowingly provided to American City Business Journals. If you link to our advertisers, you also may occasionally get cookies from them. American City Business Journals does not control these cookies and these cookies are not subject to this policy. The use of advertising cookies sent by third-party servers is common in the Internet industry. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some portions of American City Business Journals' web site will not function properly if you do so.<br></p><br><p><br><b>Kids:</b> Be sure to ask your parents for permission before you send any information about yourself (your name, address, email address, etc.) to us or anyone else over the Internet, and before making any purchases online.<br></p><br><p><br><b>Parents:</b> We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personally identifying information collected by American City Business Journals from children (that we are aware are children) will only be used for American City Business Journals' internal purposes such as market research and sweepstakes fulfillment, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, <b>anonymous</b> aggregated data is sometimes provided to our advertisers for statistical purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, email address, etc. on various bulletin boards or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. <br></p><br><p><br>Cookies placed by American City Business Journals for use throughout American City Business Journals' web site will not be used to collect information in areas within American City Business Journals that are geared to children. If you have any concerns, do not hesitate to contact us at the above email address. <br></p><br>
+</font></center></td>
+
+
+</tr>
+							
+
+
+
+<!-- HTML ENDS HERE --->
+
+
+
+
+<tr>
+
+<td bgcolor="cccc99" colspan="2" align="center">
+	<font face="Verdana" size="2">
+		<a href="homepage.asp">Home</a> | 
+		<a href="Javascript:SubscriptionWin('http://www.masshightech.com/subscribe.html')">Subscriptions</a>| 
+		<a href="contact.asp?MISC_ID=6">Contact Us</a> | 
+		<a href="advertising.asp?MISC_ID=7">Advertising</a>
+        <br>All Rights Reserved. Mass High Tech 2000 
+    	<br><a href="miscpage.asp?MISC_ID=10">Privacy Policy</a> | <a href="miscpage.asp?MISC_ID=18">User Agreement</a>
+	</font>
+    
+    
+        
+        
+
+
+</td>
+
+</tr>
+<tr>
+<td bgcolor="cccc99" align="center"><br></td>
+<td bgcolor="cccc99" align="center" colspan="2">
+
+<br>
+</td></tr>
+</tbody></table>
+
+</p></center></form></body></html>
