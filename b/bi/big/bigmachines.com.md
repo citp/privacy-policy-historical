@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmachines.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205172538id_/http%3A//www.bigmachines.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmachines.com privacy policy that was archived on 2005-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050217044023id_/http%3A//www.bigmachines.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,5 +26,5 @@ The Site contains links to other Web Sites. BigMachines, Inc. is not responsible
 Questions or Comments Regarding the Privacy Policy  
 For additional questions, or to be taken off our marketing lists, please send an e-mail to [_marketing@bigmachines.com_](mailto:marketing@bigmachines.com).
 
-Copyright 2004 BigMachines, Inc. • All rights reserved  
+Copyright 2004 BigMachines, Inc. â€¢ All rights reserved  
 
