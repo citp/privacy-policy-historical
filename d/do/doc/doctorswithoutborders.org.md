@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218003008id_/http%3A//www.doctorswithoutborders.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604190027id_/http%3A//www.doctorswithoutborders.org/privacy.shtml) for the most accurate reproduction.*
 
 # MSF-USA: Privacy Policy
 
 Privacy Policy
 
-This policy covers the treatment of all personal information that Doctors Without Borders/Médecins Sans Frontières (MSF) USA, Inc. ("Doctors Without Borders") collects when you visit one of our webpages. At Doctors Without Borders, we understand that privacy is a very important issue for visitors to the Doctors without Borders Websites, including www.dwb.org, www.doctorswithoutborders.org and www.refugeecamp.org.
+This policy covers the treatment of all personal information that Doctors Without Borders/Médecins Sans Frontières (MSF) USA, Inc. ("Doctors Without Borders") collects when you visit one of our webpages. At Doctors Without Borders, we understand that privacy is a very important issue for visitors to the Doctors Without Borders Websites, including www.dwb.org, www.doctorswithoutborders.org and www.refugeecamp.org.
 
 INFORMATION COLLECTION AND USE
 
