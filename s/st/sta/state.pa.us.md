@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.pa.us privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205003244id_/http%3A//www.state.pa.us/papower/cwp/view.asp%3Fa%3D3%26q%3D414879) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.pa.us privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605111457id_/http%3A//www.state.pa.us/papower/cwp/view.asp%3Fa%3D3%26q%3D414879) for the most accurate reproduction.*
 
 # PAPower: Pennsylvania PowerPort Privacy Policy
 
@@ -9,7 +9,7 @@
 
 Thank you for visiting the Commonwealth of Pennsylvania on the World Wide Web. Our web sites are designed to make it easier and more efficient for Pennsylvania citizens and businesses to interact with their State Government. But as with all online resources, we appreciate that many visitors to our sites will be concerned about their privacy. The Commonwealth is committed to preserving your privacy when you visit our sites. 
 
-This policy addresses the collection, security and access to information that may be obtained through the use of the sites maintained by the Commonwealth of Pennsylvania. This policy covers the following topics:
+This policy addresses the collection, security and access to information that may be obtained through the use of the sites maintained by the Commonwealth of Pennsylvania. This policy covers the following topics: 
 
   * Information We Collect 
   * Public Disclosure 
@@ -18,29 +18,29 @@ This policy addresses the collection, security and access to information that ma
   * Cookies 
   * Security 
   * Linking 
-  * Information Disclaimer
+  * Information Disclaimer 
 
 
 
 **Information collected**  
-If you visit a web site maintained by the Commonwealth of Pennsylvania to read or download information, we collect the following information:
+If you visit a web site maintained by the Commonwealth of Pennsylvania to read or download information, we collect the following information: 
 
   * The name of domain; for example, "xcompany.com" if you use a private internet access account, or "yourschool.edu", if you are connecting from a university domain; 
   * An IP address; a number automatically assigned to your computer when you are using the internet; 
   * The type of browser and operating system used to access our site; 
   * The Internet address of the website from which you linked directly to our site; 
   * The pages you visit within the Commonwealth's site; and 
-  * The links made to other web sites through this site.
+  * The links made to other web sites through this site. 
 
 
 
 This information is collected for statistical analysis using standard third-party software programs to create summary statistics. The statistics are used for the purpose of determining what information is of most and least interest to all visitors and identifying system performance or problem areas. This information is not collected for commercial marketing purposes and the Commonwealth does not sell information collected online for commercial marketing purposes. 
 
-If, during your visit to the Commonwealth's web sites, you voluntarily provide personally identifiable information, we will collect such information. Examples of personally identifiable information may include:
+If, during your visit to the Commonwealth's web sites, you voluntarily provide personally identifiable information, we will collect such information. Examples of personally identifiable information may include: 
 
   * An email address if you are communicating to us through email; 
   * Information you voluntarily submit to the Commonwealth for the purposes of completing or submitting an application or form online; and 
-  * Other information volunteered, such as survey information or content of email.
+  * Other information volunteered, such as survey information or content of email. 
 
 
 
@@ -77,4 +77,4 @@ Cookies created on your computer by using our web sites do not contain personall
 **Information Disclaimer  
 ** Information provided on the Commonwealth’s web sites is intended to allow the public immediate access to public information.  While all attempts are made to provide accurate, current and reliable information we recognize the possibility of human and/or mechanical error.  Therefore, the Commonwealth of Pennsylvania, its employees, officers and agencies expressly deny any warranty of the accuracy, reliability or timeliness of any information published by this system and shall not be held liable for any losses caused by reliance upon the accuracy, reliability or timeliness of such information.  Any person who relies upon such information obtained from this system does so at his or her own risk.  
 
-Content Last Modified on 10/9/2002 11:29:11 AM
+Content Last Modified on 1/16/2004 2:18:08 PM
