@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208093437id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416022926id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
 
 # NIDA - Privacy Notice
 
@@ -15,7 +15,7 @@
 
 * * *
 
-Thank you for visiting the National Institute on Drug Abuse Website and reviewing our Privacy Policy. Our Privacy Policy for visits to _www.nida.nih.gov_ , _www.drugabuse.gov_ , _www.clubdrugs.org_ , _www.sarasquest.org_ , _www.steroidabuse.org_ , _stopdrugaddiction.org_ is clear: 
+Thank you for visiting the National Institute on Drug Abuse Website and reviewing our Privacy Policy. Our Privacy Policy for visits to _www.nida.nih.gov_ , _www.drugabuse.gov_ , _www.clubdrugs.org_ , _www.sarasquest.org_ , _www.steroidabuse.org_ , _www.marijuana-info.org_ , _hiv.drugabuse.gov_ , _stopdrugaddiction.org_ is clear: 
 
 > **We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us.**
 
