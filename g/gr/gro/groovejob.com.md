@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovejob.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207032536id_/http%3A//www.groovejob.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovejob.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017021721id_/http%3A//groovejob.com/privacy.html) for the most accurate reproduction.*
 
 # groovejob.com
 
@@ -20,6 +20,9 @@ Our site is created for use by teens, however we do encourage you to check with 
 >  When registering for GrooveJob.com, users must submit personal contact information and employment history. This is done to create an online application that is only sent to specific employers you choose. The information you submit here will be the only personal information we collect from you. Please be aware that your submission is your consent for us to give this information to those employers whom you identify. This application form is secure and will not be distributed to anyone, except those employers designated by you. 
 > 
 > The information gathered at this site is distributed to employers solely for job placement purposes. At no time will your email address or any information requested, be shared with any third party. Under no condition will we put you on a mailing list without your permission. 
+> 
+> **Opt-Out/Discontinuation  **  
+>  we provides our users with valuable information on a weekly basis through our newsletters. Upon signup, a user has automatically "opt-in" to the receipt of these mailings. The opportunity to "opt-out" of, or discontinue receiving, communications from us is available by emailing [unsubnewsletter@groovejob.com](mailto:unsubnewsletter@groovejob.com).
 > 
 > **Non-Personal Information**  
 >  In order to serve you better, GrooveJob.com tracks and analyzes the traffic to our website. GrooveJob.com collects IP Addresses and uses cookies to identify users, create statistics for our site and for our system administration. We use this information to determine what services are most popular. This information is not distributed to anyone and is never used to identify you on an individual basis.   
