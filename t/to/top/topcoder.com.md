@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606112349id_/http%3A//www.topcoder.com%3Ft%3Dabout_tc%26c%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204225122id_/http%3A//www.topcoder.com%3Ft%3Dabout_tc%26c%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy of TopCoder
 
