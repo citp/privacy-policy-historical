@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205112333id_/http%3A//www.shop4tech.com/cgi-bin/shop/shop.cgi%3Fhtml_requested%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604013513id_/http%3A//www.shop4tech.com/cgi-bin/shop/shop.cgi%3Fhtml_requested%3Dprivacy) for the most accurate reproduction.*
 
 # Shop4Tech: The lowest price on cd-r media and more!
 
@@ -29,7 +29,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
   1. You can send email to [unsubscribe@shop4tech.com](mailto:unsubscribe@shop4tech.com)
-  2. You can visit the following URL: <http://www.shop4tech.com/unsubscribe.shtml>
+  2. You can visit the following URL: [http://www.shop4tech.com/unsubscribe.html](http://www.shop4tech.com/cgi-bin/cdb/cdb_unsubscribe.cgi)
   3. You can send mail to the following postal address:  Leda Multimedia Inc (Optout) - 11700 East Slauson Avenue -Santa Fe Springs, CA, 90670 
   4. You can call the following telephone number: 1-877-533-2423
 
