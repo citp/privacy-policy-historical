@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the private.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603124601id_/http%3A//private.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the private.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207222753id_/http%3A//www.private.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Private
 
@@ -15,7 +15,7 @@ What this privacy policy covers
 · This policy does not apply to the practices of companies that Milcap does not own or control, or to people that Milcap does not employ or manage.   
 
 
-If users have questions or concerns regarding this statement, they should contact the Privacy Manager by email at [support@private.com](mailto:support@private.com)  
+If users have questions or concerns regarding this statement, they should contact the Privacy Manager by email at [info@private.com](mailto:info@private.com)  
   
   
 ---|---  
