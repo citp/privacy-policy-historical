@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seussville.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215110436id_/http%3A//www.randomhouse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seussville.com privacy policy that was archived on 2003-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030419065313id_/http%3A//www.randomhouse.com/privacy.html) for the most accurate reproduction.*
 
 # BOOKS@RANDOM PRIVACY POLICY
 
