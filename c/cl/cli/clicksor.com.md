@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksor.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204082624id_/http%3A//clicksor.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksor.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403151835id_/http%3A//www.clicksor.com/pp.php) for the most accurate reproduction.*
 
 # Clicksor.com Content Targeted Advertising
 
