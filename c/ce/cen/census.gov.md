@@ -1,13 +1,18 @@
-> *The following text is extracted and transformed from the census.gov privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623092425id_/http%3A//www.census.gov/main/www/policies.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the census.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204125609id_/http%3A//www.census.gov/main/www/policies.html%23privacy) for the most accurate reproduction.*
 
 # Census Policy Statements
 
-Thank you for visiting the U.S. Census Bureau's Internet web site and reviewing our privacy policy. The purpose of this policy is to explain how we handle information we collect from you during your visit to our web site. It is important to keep in mind, that unless we tell you, we do not collect personally-identifiable information (name, address, e-mail address, social security number, or other unique identifiers) on our web site, except when you choose to provide that information to us. 
+[](https://web.archive.org/index.html)
+
+## Privacy Policy Statements
+
+### Privacy Policy
+
+Thank you for visiting the U.S. Census Bureau's Internet web site and reviewing our privacy policy. The purpose of this policy is to explain how we handle information we collect from you during your visit to our web site. It is important to keep in mind, that unless we tell you, we do not collect personally identifiable information (name, address, e-mail address, social security number, or other unique identifiers) on our web site, except when you choose to provide that information to us. 
 
 ### Privacy Policy for All Visitors
 
-**Your rights under the Privacy Act:** Information concerning the Privacy Act can be found on the following Web site: <http://www.cftc.gov/foia/foiprivacyact.htm>
-
+**Your rights under the Privacy Act:** Information concerning the Privacy Act can be found on the following Web site: <http://www.usdoj.gov/04foia/04_7.htm>  
 **Information Collected and Stored Automatically:** When you visit our web site to read pages or download information, we automatically collect and store the following non-identifying information: 
 
   * The Internet protocol (IP) address from which you access our web site. An IP address is a unique number that is automatically assigned to the computer you are using whenever you are surfing the web 
@@ -22,15 +27,18 @@ This information does not identify you personally. We maintain the above informa
 
 We generally do not use cookies, which are files or file entries placed on your computer's hard drive by a web site, that allow monitoring of your use of the site. Some activities, such as using the American FactFinder or purchasing a product do require the use of transient cookies. 
 
-In American FactFinder, transient cookies are used to keep track of user selections so that new requests for specific data or maps can be created more efficiently. No personally-identifiable information is permanently retained on either the user's or the Census Bureau's computers. These transient cookies go away completely when you exit the browser. When ordering products, transient cookies are enabled to track your order through the process. 
+In American FactFinder, transient cookies are used to keep track of user selections so that new requests for specific data or maps can be created more efficiently. No personally identifiable information is permanently retained on either the user's or the Census Bureau's computers. These transient cookies go away completely when you exit the browser. When ordering products, transient cookies are enabled to track your order through the process. 
 
 **The Use of Persistent Cookies and Tracking Technology:** The Census Bureau does not use "persistent cookies" or other "persistent tracking technology." 
 
-**Information Collected from E-mail:** When you send us personally-identifying information in an e-mail, we use the information you provide only to help us gather the information you might request. In an effort to respond to your request, various people within the Census Bureau may view the information you submit. Public notices issued by the Census Bureau in which interested persons are invited to comment by e-mail will contain a notice of what we intend to do with the data gathered. Once received, the information in your e-mail is protected in accordance with law (e.g., the Privacy Act and the Freedom of Information Act). For the most part, all information submitted by visitors is voluntary. Submitting voluntary information constitutes your consent to the use of the information in the stated purpose. In some cases, such as when a user requests a product or fills out a survey or census, some identifiable information will need to be collected to fulfill your request or process your response. 
+Exception: During December and January, the Census Bureau's User Satisfaction Survey prompt page will set a persistant cookie. This cookie will prevent the prompt from continually appearing. The cookie's value will be either '1' or '0', and will contain no other information. The cookie will expire on January 22, 2005. 
 
-**Security, Intrusion, and Detection:** For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
-E-mail is not necessarily secure against interception. Whether or not e-mail is encrypted in transmission depends on your software. 
+**Information Collected from E-mail:** When you send us personally identifying information in an e-mail, we use the information you provide only to help us gather the information you might request. In an effort to respond to your request, various people within the Census Bureau may view the information you submit. Public notices issued by the Census Bureau in which interested persons are invited to comment by e-mail will contain a notice of what we intend to do with the data gathered. Once received, the information in your e-mail is protected in accordance with law (e.g., the Privacy Act and the [Freedom of Information Act](http://www.usdoj.gov/04foia/index.html)). For the most part, all information submitted by visitors is voluntary. Submitting voluntary information constitutes your consent to the use of the information in the stated purpose. In some cases, such as when a user requests a product or fills out a survey or census, some identifiable information will need to be collected to fulfill your request or process your response. 
+
+**Security, Intrusion, and Detection:** For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs and/or network appliances to monitor network traffic in order to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+
+E-mail is not secure against interception. Whether or not e-mail is encrypted in transmission depends on both the sender's and the recipient's software. 
 
 **Links to Other Web Sites:** Our web site contains links to other federal agencies, international agencies, and private organizations. Once you link to another site you are subject to the policies of the new site. 
 
@@ -38,27 +46,50 @@ E-mail is not necessarily secure against interception. Whether or not e-mail is 
 
 The following additional policies apply to purchasers of Census Bureau products. 
 
-> To order products, you will have to provide us with personally-identifiable information to support the purchase. The information you provide may be entered into a database maintained to service our customers. While personally-identifiable information you provide is protected by law, we may be required by law to disclose the names and addresses of businesses that purchase our products. 
+> To order products, you will have to provide us with personally identifiable information to support the purchase. The information you provide may be entered into a database maintained to service our customers. While law protects personally identifiable information you provide, we may be required by law to disclose the names and addresses of businesses that purchase our products. 
 > 
 > If you are providing a credit card number, link to our catalog page to learn about our credit card security policy. Any page describing a product for sale by e-commerce will include a "Buy" box at the bottom. Clicking on the box will take you to a page linking to our credit card security statement. 
 > 
 > Transient cookies are enabled to track your order through the process. 
 
+### Privacy Act Statement for Purchases of Census Bureau Products:
+
+> Any information that we collect for the purpose of purchasing census products may be subject to disclosure, but will be handled in accordance with the requirements of the Privacy Act and the Freedom of Information Act to ensure the greatest protection of personal privacy in the face of any required disclosure.   
+> 
+> 
+> The Privacy Act Statement for records subject to the Privacy Act, which is about 10 percent of the records, is provided below. 
+> 
+> The Census Bureau does not capture credit card numbers on our servers. Credit card, debit card, and check transactions are processed through to the U.S. Government's [PAY.GOV](https://www.pay.gov/paygov/) system. PAY.GOV retains the following information on their server: Customer name, address information, and information needed to process the credit card, debit card, or check transaction. The Census Bureau collects customer information (name, address, phone number, and email address) to process orders for data products. Any information that would permit identification of individual customers is used only for this purpose and not shared with other agencies or organizations. Information on business or organization customers is used only for this purpose and not shared with other agencies or organizations, but, is subject to the provisions of the [Freedom of Information Act](http://www.usdoj.gov/04foia/index.html). If you choose not to enter your email address, you cannot complete your order online. However, you can call our Customer Services Center at (301) 763-4636 and place an order without providing an email address. Customers with questions on privacy should consult the Census Bureau.s Web Privacy Policy. 
+
 ### Privacy Policy for Respondents to Surveys and Censuses
 
-Some Census Bureau surveys and censuses permit response over the Internet. The following additional policies apply to personally-identifiable information provided in response to a Census Bureau survey or census. 
+Some Census Bureau surveys and censuses permit response over the Internet. The following additional policies apply to personally identifiable information provided in response to a Census Bureau survey or census. 
 
-> To respond to a survey or census via the Internet, you will have to provide us personally-identifiable information. For each survey and census, we provide an explanation to respondents about the confidentiality of the data and the laws that protect that data (e.g., Title 13, United States Code Section 9 (a)). 
+> To respond to a survey or census via the Internet, you will have to provide us personally identifiable information. For each survey and census, we provide an explanation to respondents about the confidentiality of the data and the laws that protect that data (e.g., Title 13, United States Code Section 9 (a)). 
 > 
 > To protect your privacy, in the remote chance that your survey or census responses are intercepted, all web data submissions are encrypted. 
 
-Questions concerning this policy may be addressed to: [webmaster@census.gov](mailto:webmaster@census.gov), attn: Policy Office. 
+Questions concerning this policy may be sent at: [http://ask.census.gov](http://ask.census.gov/), attn: Policy Office. 
 
-The Census Bureau is committed to making every document on its internet server accessible to all. Currently, we are reviewing our site and making modifications to those pages that are not in compliance with the Americans with Disabilities Acts. We use Hypertext Markup Language (HTML) to create pages that are generally accessible to persons using screen-reading devices, and we are careful in our construction of HTML documents to insure maximum accessibility. We will include alternate text describing graphics. 
+### Document Accessibility
+
+The Census Bureau is committed to making every document on its Internet server accessible to all. Currently, we are reviewing our site and making modifications to those pages that are not in compliance with the Americans with Disabilities Acts. We use Hypertext Markup Language (HTML) to create pages that are generally accessible to persons using screen-reading devices, and we are careful in our construction of HTML documents to insure maximum accessibility. We will include alternate text describing graphics. 
 
 Many Census Bureau internet documents are in ASCII or HTML formats. These documents are accessible to persons using screen reading software. We also have a large number of documents in Adobe Acrobat PDF (Portable Document Format) files. Currently, many people using screen-reading devices cannot read documents in PDF format. 
 
 Adobe Systems, Inc., is producing various products designed to make Adobe Acrobat documents accessible to persons using screen reading software. Their [ accessibility web pages](http://access.adobe.com/) describe their efforts. They also have a free downloadable accessibility plug-in, called Adobe Access, for use with the latest versions of the Adobe Acrobat Reader for Microsoft Windows 3.1, Windows 95, or Windows NT. This plug-in, which is still in a beta version, helps to overcome some of the problems of reading PDF documents with screen readers. While these tools are in development, we are committed to providing ASCII or HTML versions of these PDF files. 
+
+### Links to Third Party Sites
+
+For the benefit of our visitors, the US Census Bureau Web site contains links to third party sites not operated by the US Census Bureau. Such sites are not within the control of the US Census Bureau and may not follow the same privacy, security, or accessibility policies as the US Census Bureau Web site. The US Census Bureau is not responsible for the content or availability of those sites, their partners, or advertisers. 
+
+Links to non-Federal Government Web sites do not imply endorsement of any particular product, service, organization, company, information provider, or content. 
+
+### Census Bureau Statement on Statistical Quality 
+
+### Confidentiality
+
+[Additional Confidentiality Statements](http://factfinder.census.gov/jsp/saff/SAFFInfo.jsp?geo_id=&_geoContext=&_street=&_county=&_cityTown=&_state=&_zip=&_content=su5_confidentiality.html&_watermark=&_gnId=0&_gtId=0&_title=Confidentiality&_lang=en&_sse=on)
 
 Protection of Confidential Information -- Sections 9 and 214 of Title 13 
 
@@ -81,3 +112,6 @@ Whoever, being or having been an employee or staff member referred to in subchap
   1\. The Census Address List Improvement Act of 1994, P.L. 103-430 amends section 9(a) by inserting "or local government census liaison" and adding references to section 16. P.L. 105-119, the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, adds the reference to section 210. 
 
 2\. The Census Address List Improvement Act of 1994 (P.L. 103-430) amends section 214 making references to section 16 and "census liaisons." 
+
+  
+
