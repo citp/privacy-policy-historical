@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1800flowers.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601100756id_/http%3A//www.1800flowers.com/flowers/security/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800flowers.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206153810id_/http%3A//www.1800flowers.com/security/index.asp) for the most accurate reproduction.*
 
-# 1-800-FLOWERS
+# 1-800-Flowers.com
 
 #### Your Privacy
 
@@ -28,7 +28,7 @@ We use information we collect from you to process your orders, to provide an enh
 
 In the event of a merger, consolidation, or sale or transfer of all or substantially all of the assets or business of 1-800-FLOWERS.COM (a "Successor"), one of the assets which would generally be transferred is the information we collect from our customers and members. However, the use of this information by any Successor would still be governed by the terms of this privacy policy, as amended from time to time, including any amendment after such transaction, and you will continue to have the right to opt-out of sharing your information with third parties. 
 
-We may disclose any information you provide to 1-800-FLOWERS.COM (i) when we believe disclosure to be appropriate to comply with any law, regulation, or governmental request, or to comply with judicial process; or (ii) if such disclosure is necessary or appropriate to operate this web site or to process any purchases you make or conduct any promotions you participate in; (iii) to protect the rights or property of 1-800-FLOWERS.COM, its users, Sponsors, Providers, Licensors, or Merchants. 
+We may disclose any information you provide to 1-800-FLOWERS.COM(i) when we believe disclosure to be appropriate to comply with any law, regulation, or governmental request, or to comply with judicial process; or (ii) if such disclosure is necessary or appropriate to operate this web site or to process any purchases you make or conduct any promotions you participate in; (iii) to protect the rights or property of 1-800-FLOWERS.COM, its users, Sponsors, Providers, Licensors, or Merchants. 
 
 **Links**
 
