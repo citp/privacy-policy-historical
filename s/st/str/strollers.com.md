@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strollers.com privacy policy that was archived on 2003-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030414170008id_/http%3A//strollers.com/store/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strollers.com privacy policy that was archived on 2003-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030714101754id_/http%3A//www.strollers.com/store/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Strollers .com - The Online Stroller Superstore - Help section
 
@@ -22,7 +22,8 @@ Password
   
   
 [ ](https://web.archive.org/store/customer/register.php)  
-[Strollers.com](https://web.archive.org/web/20030414170008id_/http%3A//strollers.com/store/customer/home.php) :: Help zone :: 
+**However, we are *not* opened for business yet.  
+Please sign up for our newsletter and we will e-mail you when we are open.** [Strollers.com](https://web.archive.org/) :: Help zone :: 
 
 |   Privacy statement  
 ---  
