@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the ilog.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204220700id_/http%3A//www.ilog.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilog.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214145733id_/http%3A//www.ilog.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # ILOG Privacy Policy
 
-**ILOG Legal Information:** |  | 
-
-### ILOG Privacy Policy
-
-ILOG respects your privacy and recognizes your need for management and protection of personal information you share with ILOG, such as your name, address, and telephone number, etc. 
+|  |  ILOG respects your privacy and recognizes your need for management and protection of personal information you share with ILOG, such as your name, address, and telephone number, etc. 
 
 You are welcome to visit our web site without informing ILOG who you are or revealing personal information about yourself. ILOG tracks the internet addresses of the domains from which visitors access this site, and analyzes this data for trends and statistics; individual users, however, remain anonymous. 
 
