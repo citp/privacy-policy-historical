@@ -1,51 +1,6 @@
-> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2002-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203024617id_/http%3A//careerperfect.com/CareerPerfect/privacy.htm) for the most accurate reproduction.*
 
 # CareerPerfect® Privacy Policy
-
-|   
----  
-| [Expert advice](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/careerplanFAQ.htm)  
-| [Find your dream career](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/careerplan.htm)  
-| [My Personal Profile™](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/myPersonalProfile.htm)  
-| [Ensure the right job fit](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/rightjob.htm)  
-| [Expert advice](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/resumeFAQs.htm)  
-| [Résumé writing services](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/resumeServices.htm)  
-| [Sample résumés & letters](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/resumeExampleMain.htm)  
-| [e-Résumé tutorial](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/resumes.htm)  
-| [Expert advice](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/interviewFAQs.htm)  
-| [InterviewSmart™ – Online ](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/interviewing.htm)  
-| [Advice & strategy](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/job.strat.htm)  
-| [Distribute your résumé](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/resumeDistribution.htm)  
-| [Job databases](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/job.databases.htm)  
-| [Post your résumé](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/resumebanks.htm)  
-| [Contacts for executives](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/recruiters.htm)  
-| [Salary surveys](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/salaryinfo.htm)  
-| [Relocation tools](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/relocationFS.htm)  
-| [Checklist](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/checklist.htm)  
-| [Featured topics](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/topicsMain.htm)  
-| [Career development](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/organizations.html)  
-| [Virtual outplacement](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/outplacement.html)  
-| [Network with others  
-or ask a question](http://forum.careerperfect.com/WebX?@0.k6vIlaAn^0@)  
-| [Leading-edge software](http://my.careerperfect.com/shop/?catid=combstore)  
-| [Safe & secure](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/safeandsecure.htm)  
-| [Our privacy policy](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/privacy.htm)  
-| [Join Partners & Affiliates](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/affiliates.html)  
-| [Contact us](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/contact.htm)  
-| [Advertising](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/advertising.html)  
-| [Search](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/search.html)  
-| [Help](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/help.htm)  
-| [Downloads](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/downloads.htm)  
-| [Site Index](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/siteindex.htm)  
-| [Home](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/index.htm)  
-| [Links](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/links.htm)  
-| [Report a broken link](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/brokenlink.html)  
-| [About CareerPerfect](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/aboutCSG.htm)®  
-  |   
-| 
-
-####    
-Privacy Policy
 
 **CareerPerfect.com's Privacy Commitment - Overview**  
 CareerPerfect.com is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes as set forth herein. 
@@ -85,21 +40,3 @@ Your resume and all the information submitted for preparation of your resume is 
 **Privacy Commitment Changes** If we decide to change our privacy commitment for CareerPerfect.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about CareerPerfect.com's privacy commitment, please feel free to email us at [admin@CareerPerfect.com](mailto:admin@CareerPerfect.com) or call 1-800-573-3344 and speak to one of our representatives. 
 
 Thank you for using CareerPerfect.com. We'll keep working hard to earn your loyalty.
-
-| [](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/safeandsecure.htm)  | Visit ****[Safe and Secure](https://web.archive.org/web/20021011104921id_/http%3A//www.careerperfect.com/CareerPerfect/safeandsecure.htm) to learn how ordering with CareerPerfect.com is fast, easy, and safe!  
----|---  
-  
-* * *
-
-[Copyright © 1996 - 2001](http://ww1.careerperfect.com/CareerPerfect/UserLic.htm) Career Services Group, Inc. All rights reserved.  
-[Terms of use](http://ww1.careerperfect.com/CareerPerfect/UserLic.htm).
-
-|   
-
-
-Bookmark this page!  
-(Press Ctrl-D)
-
-  
-  
-
