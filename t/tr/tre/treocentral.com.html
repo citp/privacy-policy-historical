@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the treocentral.com privacy policy that was archived on 2004-02-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040214181926id_/http%3A//www.treocentral.com/content/About/policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the treocentral.com privacy policy that was archived on 2004-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205005628id_/http%3A//treocentral.com/content/About/policy.htm) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -10,70 +10,11 @@
 <meta name="keywords" content="Treo, Handspring, PDA, Palm OS, Treo, Cell phone, Combo, handheld">
 
 <link rel="stylesheet" href="/style.css" type="text/css">
-
-<script language="JavaScript1.2">
-
-/***********************************************
-* Dock Content script- Created by and © Dynamicdrive.com
-* This notice must stay intact for use
-* Visit http://www.dynamicdrive.com/ for full script
-***********************************************/
-
-var offsetfromedge=-8      //offset from window edge when content is "docked". Change if desired.
-var dockarray=new Array() //array to cache dockit instances
-var dkclear=new Array()   //array to cache corresponding clearinterval pointers
-
-function dockit(el, duration){
-if (!document.all) return;
-this.source=document.all? document.all[el] : document.getElementById(el);
-this.source.height=this.source.offsetHeight;
-this.docheight=truebody().clientHeight;
-this.duration=duration;
-this.pagetop=0;
-this.elementoffset=this.getOffsetY();
-dockarray[dockarray.length]=this;
-var pointer=eval(dockarray.length-1);
-var dynexpress='dkclear['+pointer+']=setInterval("dockornot(dockarray['+pointer+'])",100);';
-dynexpress=(this.duration>0)? dynexpress+'setTimeout("clearInterval(dkclear['+pointer+']); dockarray['+pointer+'].source.style.top=0", duration*1000)' : dynexpress;
-eval(dynexpress);
-}
-
-dockit.prototype.getOffsetY=function(){
-var totaloffset=parseInt(this.source.offsetTop);
-var parentEl=this.source.offsetParent;
-while (parentEl!=null){
-totaloffset+=parentEl.offsetTop;
-parentEl=parentEl.offsetParent;
-}
-return totaloffset;
-}
-
-function dockornot(obj){
-obj.pagetop=truebody().scrollTop;
-if (obj.pagetop>obj.elementoffset) //detect upper offset
-obj.source.style.top=obj.pagetop-obj.elementoffset+offsetfromedge;
-else if (obj.pagetop+obj.docheight<obj.elementoffset+parseInt(obj.source.height)) //lower offset
-obj.source.style.top=obj.pagetop+obj.docheight-obj.source.height-obj.elementoffset-offsetfromedge;
-else
-obj.source.style.top=0;
-}
-
-function truebody(){
-return (document.compatMode!="BackCompat")? document.documentElement : document.body
-}
-
-if (document.all)
-document.write('<style>.dockclass{position:relative;}</style>')
-
-</script>
-
-
-
 </head>
 
 <body bgcolor="#E9E9E9">
 
-  <table border="0" cellpadding="0" cellspacing="0" valign="top" width="90%">
+  <table border="0" cellpadding="0" cellspacing="0" valign="top" width="90%" align="center">
     <tbody><tr>
       <td width="100%" valign="top">
       <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -100,10 +41,12 @@ document.write('<style>.dockclass{position:relative;}</style>')
     <td width="100%"><b><font face="Verdana, arial" size="2" color="#FFFFFF">&nbsp;<a class="headline" href="http://www.treocentral.com/"><font face="Verdana, arial" size="2" color="#FFFFFF">Home</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> | 
 <a class="headline" href="http://www.treocentral.com/content/Stories/index.htm"><font face="Verdana, arial" size="2" color="#FFFFFF">Stories</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> | 
 <a class="headline" href="http://www.treocentral.com/content/Products/index.htm"><font face="Verdana, arial" size="2" color="#FFFFFF">Reviews</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> | 
-<a class="headline" target="_blank" href="http://store.treocentral.com/"><font face="Verdana, arial" size="2" color="#FFFFFF">Treo Store</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> |
-<a class="headline" target="_blank" href="http://store.treocentral.com/"><font face="Verdana, arial" size="2" color="#FFFFFF">Accessories</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> | 
+<a class="headline" href="http://store.treocentral.com/content/index.htm?tc_ref=1864543"><font face="Verdana, arial" size="2" color="#FFFFFF">Treo Store</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> |
+<a class="headline" href="http://store.treocentral.com/content/accessories/index.htm?tc_ref=1864543"><font face="Verdana, arial" size="2" color="#FFFFFF">Accessories</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> | 
 
-<a class="headline" href="http://discussion.treocentral.com/tcforum/"><font face="Verdana, arial" size="2" color="#FFFFFF">Discussion</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> | <a class="headline" href="http://www.treocentral.com/content/Mobile/index.htm"><font face="Verdana, arial" size="2" color="#FFFFFF">Mobile</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> | <a class="headline" href="http://www.treocentral.com/search.php"><font face="Verdana, arial" size="2" color="#FFFFFF">Search</font></a></font></font></font></font></font></font></font></font></b></td>
+<a class="headline" href="http://discussion.treocentral.com/"><font face="Verdana, arial" size="2" color="#FFFFFF">Discussion</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> | 
+<a class="headline" href="http://www.treocentral.com/content/FAQ/index.htm"><font face="Verdana, arial" size="2" color="#FFFFFF">FAQ</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> | 
+<a class="headline" href="http://www.treocentral.com/content/Mobile/index.htm"><font face="Verdana, arial" size="2" color="#FFFFFF">Mobile</font></a><font face="Verdana, arial" size="2" color="#FFFFFF"> | <a class="headline" href="http://www.treocentral.com/search.php"><font face="Verdana, arial" size="2" color="#FFFFFF">Search</font></a></font></font></font></font></font></font></font></font></font></b></td>
   </tr>
 </tbody></table>
 
@@ -115,24 +58,26 @@ document.write('<style>.dockclass{position:relative;}</style>')
           <img border="0" src="/images/treocentral_site_images/menu_right.gif" width="4" height="19"></td>
         </tr>
 
-
+<!--
 
 	 <tr>
-          <td width="4" valign="top">
-          <img border="0" src="/images/treocentral_site_images/ad_left.gif" width="4" height="100"></td>
-          <td width="100%" align="center" background="/images/treocentral_site_images/ad_back.gif">
-		  <table border="0" cellspacing="0" cellpadding="3" width="100%">
-  <tbody><tr>
-    <td width="100%" align="center" valign="bottom"> <a href="http://www.treocentral.com/admanagement/adclick.php?bannerid=36&amp;zoneid=1&amp;source=&amp;dest=http%3A%2F%2Fstore.treocentral.com%2Fwhy_sprint_overview.php" target="_blank"><img src="http://www.treocentral.com/admanagement/adimage.php?filename=sprint-switch.gif&amp;contenttype=gif" width="728" height="90" alt="" title="" border="0"></a><div id="beacon_36" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.treocentral.com/admanagement/adlog.php?bannerid=36&amp;clientid=4&amp;zoneid=1&amp;source=&amp;block=0&amp;capping=0&amp;cb=4c97725c5346135caa06358f6aa247b3" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
+          <td width='4' valign='top'>
+          <img border='0' src='/images/treocentral_site_images/ad_left.gif' width='4' height='100'></td>
+          <td width='100%' align='center' background='/images/treocentral_site_images/ad_back.gif'>
+		  <table border='0' cellspacing='0' cellpadding='3' width='100%' >
+  <tr>
+    <td width='100%' align='center' valign='bottom'> 
 </td>
   </tr>
-</tbody></table>
+</table>
 
 
          </td>
-          <td width="4" align="right" valign="top">
-          <img border="0" src="/images/treocentral_site_images/ad_right.gif" width="4" height="100"></td>
+          <td width='4' align='right' valign='top'>
+          <img border='0' src='/images/treocentral_site_images/ad_right.gif' width='4' height='100'></td>
         </tr>
+        
+        -->
 
 
 
@@ -214,181 +159,350 @@ TreoCentral is deeply committed to protecting
 
 
 
-<center>
-<table border="0" cellpadding="0" cellspacing="0" bordercolor="#111111" width="100%"><tbody><tr><td width="100%">
-<img border="0" src="/images/great-treo-deals2.gif" width="206" height="27">
-</td></tr></tbody></table>
 
-<table cellspacing="0" cellpadding="0" width="90%" border="0" valign="top" align="center">
+
+
+<style>
+<!--
+.underline        { text-decoration: none}
+A:hover.underline {	text-decoration: underline;} 
+
+a:link {
+	COLOR: #000000;
+}
+-->
+</style>
+
+<img border="0" src="http://store.treocentral.com/store_images/tc_advertisment.gif" width="212" height="13"><br>
+<a target="_blank" href="http://store.treocentral.com/content/index.htm?tc_ref=1864543&amp;adl=sidebar"><img border="0" src="http://store.treocentral.com/store_images/tc_logo.gif" width="212" height="29"></a><br>
+<a href="http://store.treocentral.com/content/index.htm?tc_ref=1864543&amp;adl=sidebar"><img border="0" src="http://store.treocentral.com/store_images/v2/promotions/tcsidebar.gif" width="212" height="230"></a><br><a href="http://store.treocentral.com/content/accessories/index.htm?tc_ref=1864543&amp;adl=sidebar"><img border="0" src="http://store.treocentral.com/store_images/v2/treo_accessories2.gif" width="200" height="15"></a><br>
+<table border="0" cellpadding="0" cellspacing="0" width="212">
   <tbody><tr>
-    <td valign="top" width="100%">
-    <table cellspacing="0" cellpadding="0" width="100%" border="0">
-      <tbody><tr>
-        <td width="100%" bgcolor="#ffffff">
-        <table width="100%" border="0">
-          <tbody><tr>
-            <td valign="top" width="210" rowspan="2">
-            <div align="center">
-              <table id="AutoNumber1" style="BORDER-COLLAPSE: collapse; " bordercolor="#C0C0C0" cellpadding="3" cellspacing="0" width="210" border="0">
-              <tbody><tr>
-                <td style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: #111111; BORDER-BOTTOM: medium none" bgcolor="#FF0000" width="200" height="12">
-                  <b><font face="Verdana" size="1" color="#FFFFFF">Treo 600 for 
-                  Sprint</font></b></td>
-                </tr>
-                <tr>
-                  <td style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none" bgcolor="#ffffff" width="200">
-                  <a href="http://store.treocentral.com/">
-                  <img src="http://www.treocentral.com/images/sprint.gif" border="0" align="right" hspace="0" width="58" height="15">
-                 
-				   </a><a class="headline" href="http://store.treocentral.com"><font style="font-size: 9pt" face="Verdana, arial" color="#FF0000"><b>Switch to Sprint and keep your existing number!</b></font></a><font style="font-size: 9pt" face="Verdana, arial" color="#FF0000">
-				    <br>
-					<a href="http://store.treocentral.com/">
-				   <font style="font-size: 9pt" face="Verdana, arial" color="#0000FF">
-                 Treo 600 starting at <b>$399!</b></font></a>
-				
-				
-
-                  </font></td>
-                </tr>
-             
-                <tr>
-                <td style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: #111111; BORDER-BOTTOM: medium none" bgcolor="#FA9F5C" width="200" height="12">
-                  <b><font face="Verdana" size="1" color="#FFFFFF">Treo 600 for 
-                  Cingular</font></b></td>
-                </tr>
-                <tr>
-                  <td style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none" bgcolor="#ffffff" width="200" height="56">
-           
-                  <img border="0" src="/images/cingular_small.gif" align="right" width="58" height="15">
-					
-					   <font face="Verdana, arial" color="#FA9F5C"><b><font style="font-size: 9pt">
-                    New &amp; Existing Customers</font></b></font><br>
-
-                    <a target="_blank" href="http://www.qksrv.net/click-1405877-10302311"><font style="font-size: 9pt" face="Verdana, arial" color="#0000FF">Treo 600 starting 
-                    at $499!</font></a><b> </b>
-
-                  </td>
-                </tr>
-              
-                
-                <tr>
-                <td style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: #111111; BORDER-BOTTOM: medium none" bgcolor="#059ED8" width="200" height="12">
-                  <b><font face="Verdana" size="1" color="#FFFFFF">Treo 600 for 
-                  AT&amp;T</font></b></td>
-                </tr>
-                <tr>
-                  <td style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none" bgcolor="#ffffff" width="200" height="45">
-               
-                  <img border="0" src="/images/att_tiny.gif" align="right" width="58" height="13">
-				
-                <font face="Verdana, arial" color="#059ED8"><b><font style="font-size: 9pt">
-                    New &amp; Existing Customers</font></b></font><br>
-                  <font style="font-size: 9pt" face="Verdana, arial" color="#0000FF">
-         
-                    <a target="_blank" href="http://www.qksrv.net/click-1405877-10302311">
-					   <font face="Verdana, arial" color="#0000FF">
-					   Treo 600 starting at $499!</font></a><b> 
-
-                 
-                  </b></font></td>
-                </tr>
-          
-
-
-
-                <tr>
-                  <td style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: #111111; BORDER-BOTTOM: medium none" bgcolor="#137cbb" width="210" height="12">
-                  <b><font face="Verdana" color="#ffffff" size="1">Hot Treo Accessories</font></b></td>
-                </tr>
-                <tr>
-                  <td style="BORDER-RIGHT: #111111; BORDER-TOP: medium none; BORDER-LEFT: #111111; BORDER-BOTTOM: medium none" valign="top" width="200" bgcolor="#ffffff" height="84">
-                  <table id="AutoNumber3" style="BORDER-COLLAPSE: collapse" bordercolor="#111111" cellspacing="0" cellpadding="2" width="103%" border="0" height="252">
-                    <tbody><tr>
-                      <td width="73%" height="42">
-                    
-                      <a href="http://store.treocentral.com/accessories_view.php?a_id=8">
-					      <font face="Verdana, arial" style="font-size: 9pt" color="#0000FF">
-						  Treo 600 Docking 
-                      Cradle</font></a><font face="Verdana, arial" style="font-size: 9pt" color="#0000FF"><br></font>
-                      <font face="Verdana, arial" style="font-size: 9pt">Only $29.95</font></td>
-                      <td width="31%" bgcolor="#FFFFFF" align="center" valign="top" height="42">
-                      <a href="http://store.treocentral.com/accessories_view.php?a_id=8">
-                      <img border="0" src="/images/buy_treo/mini_treocradle.gif"></a></td>
-                    </tr>
-                    <tr>
-                      <td width="73%" bgcolor="#ECF2FD" height="42">
-                      <a target="_blank" href="http://store.treocentral.com/accessories_view.php?a_id=6">
-                      <font face="Verdana, arial" style="font-size: 9pt" color="#0000FF">
-                      Car Charger</font></a><br>
-                      <font face="Verdana, arial" style="font-size: 9pt">
-                      Only&nbsp;$16.95</font></td>
-                      <td width="31%" bgcolor="#FFFFFF" align="center" valign="top" height="42">
-                      <a href="http://store.treocentral.com/accessories_view.php?a_id=6">
-                      <img border="0" src="/images/buy_treo/mini_carcharger.gif" width="40" height="40"></a></td>
-                    </tr>
-                    <tr>
-                      <td width="73%" bgcolor="#FFFFFF" height="42">
-                      <p align="left">
-                      <a href="http://store.treocentral.com/accessories_cases.php">
-                      <font face="Verdana, arial" style="font-size: 9pt" color="#0000FF">
-                      Treo 600 Cases</font></a><br>
-                      <font face="Verdana, arial" style="font-size: 9pt">
-                      Starting at&nbsp;$26.95</font></p></td>
-                      <td width="31%" bgcolor="#FFFFFF" align="center" valign="top" height="42">
-                      <a href="http://store.treocentral.com/accessories_cases.php">
-                      <img border="0" src="/images/buy_treo/mini_case.gif" width="40" height="40"></a></td>
-                    </tr>
-                    <tr>
-                      <td width="73%" bgcolor="#ECF2FD" height="42">
-                      <a href="http://store.treocentral.com/accessories_cables.php">
-                      <font face="Verdana, arial" style="font-size: 9pt" color="#0000FF">
-                      Sync &amp; Charge Cables</font></a><br>
-                      <font face="Verdana, arial" style="font-size: 9pt">&nbsp;$12.95 
-                      - $15.95
-&nbsp;</font></td>
-                      <td width="31%" bgcolor="#FFFFFF" align="center" valign="top" height="42">
-                      <a href="http://store.treocentral.com/accessories_cables.php">
-                      <img border="0" src="/images/buy_treo/mini_sync.gif" width="40" height="40"></a></td>
-                    </tr>
-                    <tr>
-                      <td width="73%" bgcolor="#FFFFFF" height="42">
-                      <a target="_blank" href="http://store.treocentral.com/accessories_view.php?a_id=5">
-                      <font face="Verdana, arial" style="font-size: 9pt" color="#0000FF">
-                      Extra Wall Charger</font></a><br>
-                      <font face="Verdana, arial" style="font-size: 9pt">&nbsp;$16.95!</font></td>
-                      <td width="31%" bgcolor="#FFFFFF" align="center" valign="top" height="42">
-                      <a href="http://store.treocentral.com/accessories_view.php?a_id=5">
-                      <img border="0" src="/images/buy_treo/mini_wal.gif" width="40" height="40"></a></td>
-                    </tr>
-                    <tr>
-                      <td width="104%" bgcolor="#ECF2FD" height="18" colspan="2">
-                      <p>
-                      <a href="http://store.treocentral.com/accessories.php">
-                      <font face="Verdana, arial" style="font-size: 9pt" color="#0000FF">
-                      More Accessories...</font></a></p></td>
-                    </tr>
-                  </tbody></table>
-                  </td>
-                </tr>
-              </tbody></table>
-              
-            </div>
-            </td>
-          </tr>
-        </tbody></table>
-        </td>
-      </tr>
-    </tbody></table>
-    </td>
+    <td width="33%" align="center">
+		<a class="underline" href="http://store.treocentral.com/content/accessories/4.htm?tc_ref=1864543&amp;adl=sidebar">
+        <img border="0" src="http://store.treocentral.com/images/v2/mini_cases.gif" width="70" height="70"><br>
+		<font color="#808080" size="1" face="Verdana">Cases</font></a></td>
+    <td width="33%" align="center">
+		<a class="underline" href="http://store.treocentral.com/content/accessories/5.htm?tc_ref=1864543&amp;adl=sidebar">
+        <img border="0" src="http://store.treocentral.com/images/v2/mini_chargers.gif" width="70" height="70"><br>
+        <font color="#808080" size="1" face="Verdana">Chargers </font></a></td>
+    <td width="34%" align="center">
+		<a class="underline" href="http://store.treocentral.com/content/accessories/9.htm?tc_ref=1864543&amp;adl=sidebar">
+        <img border="0" src="http://store.treocentral.com/images/v2/mini_bt.gif" width="70" height="70"><br>
+		<font size="1" color="#808080" face="Verdana">Bluetooth</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+        <a class="underline" href="http://store.treocentral.com/content/accessories/11.htm?tc_ref=1864543&amp;adl=sidebar">
+        <img border="0" src="http://store.treocentral.com/images/v2/mini_headset.gif" width="70" height="70"><br>
+        <font size="1" color="#808080" face="Verdana">Headsets</font></a></td>
+    <td width="33%" align="center">
+        <a class="underline" href="http://store.treocentral.com/content/accessories/14-42.htm?tc_ref=1864543&amp;adl=sidebar">
+        <img border="0" src="http://store.treocentral.com/images/v2/mini_keyboard.gif" width="70" height="70"><br>
+        <font size="1" color="#808080" face="Verdana">Keyboards</font></a></td>
+    <td width="34%" align="center">
+         <a class="underline" href="http://store.treocentral.com/content/accessories/7-40.htm?tc_ref=1864543&amp;adl=sidebar">
+        <img border="0" src="http://store.treocentral.com/images/v2/mini_memory.gif" width="70" height="70"><br>
+		<font size="1" color="#808080" face="Verdana">Memory </font></a></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+	<a class="underline" href="http://store.treocentral.com/content/accessories/15-43.htm?tc_ref=1864543&amp;adl=sidebar">
+        <img border="0" src="http://store.treocentral.com/images/v2/mini_screen.gif" width="70" height="70">
+		<font size="1" color="#808080" face="Verdana">Protectors</font></a></td>
+    <td width="33%" align="center">
+        <a class="underline" href="http://store.treocentral.com/content/accessories/6-39.htm?tc_ref=1864543&amp;adl=sidebar">
+        <img border="0" src="http://store.treocentral.com/images/v2/mini_cradle.gif" width="70" height="70">
+        <font size="1" color="#808080" face="Verdana">Cradles</font></a></td>
+    <td width="34%" align="center">
+		 <a class="underline" href="http://store.treocentral.com/content/accessories/16-44.htm?tc_ref=1864543&amp;adl=sidebar">
+        <img border="0" src="http://store.treocentral.com/images/v2/mini_styli.gif" width="70" height="70"><br>
+        <font size="1" color="#808080" face="Verdana">Styli</font></a></td>
+  </tr>
+  <tr>
+    <td width="100%" align="center" colspan="3">
+        <p align="right"><font color="#808080" size="1" face="Verdana">
+        <br>
+        <b>
+        <a class="underline" href="http://store.treocentral.com/content/accessories/index.htm?tc_ref=1864543&amp;adl=sidebar">
+        <font color="#808080">More Treo Accessories</font></a></b></font></p></td>
   </tr>
 </tbody></table>
-                <img src="http://www.qksrv.net/image-1405877-10302311" width="1" height="1" border="0">
-				<img src="http://www.qksrv.net/image-1405877-10305665" width="1" height="1" border="0">
-<br><br>
+<img border="0" src="http://store.treocentral.com/store_images/v2/topsellers2.gif" width="200" height="15">
+		<table border="0" cellspacing="0" width="212" cellpadding="0" background="http://store.treocentral.com/store_images/stack_box_right.gif" height="68">
+		  <tbody><tr>
+			<td width="77" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/15-43--28.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><img border="0" alt="Screen Protectors for Treo 600/650 (3-Pack)" src="http://store.treocentral.com/store_images/product_images/accessories/mini/28.gif" width="70" height="58"></a></td>
+
+			<td width="135" align="center">
+			<table border="0" width="100%" cellpadding="0" cellspacing="4">
+			  <tbody><tr>
+				<td width="100%" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/15-43--28.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><font face="Verdana" size="1" color="#000000">
+		<b>Screen Protectors for Treo 600/650</b><br> 
+		Protect your screen!<br>
+		<font color="#da4a4b">
+		<b>Just $15.95 <u>BUY</u></b></font></font></a><font face="Verdana" size="1" color="#000000"><br>
+		<a class="underline" target="_blank" href="http://store.treocentral.com/content/accessories/15-43.htm?tc_ref=1864543&amp;adl=sidebar"><font face="Verdana" size="1" color="#1A80BC">More Screen Protectors</font></a></font></td>
+			  </tr>
+			</tbody></table>
+			</td>
+			
+		  </tr>
+		</tbody></table>
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="100%">
+			<img border="0" src="/store_images/spacer.gif" width="1" height="3"></td>
+		  </tr>
+		</tbody></table>
+			
+		<table border="0" cellspacing="0" width="212" cellpadding="0" background="http://store.treocentral.com/store_images/stack_box_right.gif" height="68">
+		  <tbody><tr>
+			<td width="77" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/5-47--105.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><img border="0" alt="palmOne Vehicle Charger for Treo 650" src="http://store.treocentral.com/store_images/product_images/accessories/mini/105.gif" width="70" height="58"></a></td>
+
+			<td width="135" align="center">
+			<table border="0" width="100%" cellpadding="0" cellspacing="4">
+			  <tbody><tr>
+				<td width="100%" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/5-47--105.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><font face="Verdana" size="1" color="#000000">
+		<b>Car Charger for Treo 650</b><br> 
+		Recharge on the go<br>
+		<font color="#da4a4b">
+		<b>Just $19.95 <u>BUY</u></b></font></font></a><font face="Verdana" size="1" color="#000000"><br>
+		<a class="underline" target="_blank" href="http://store.treocentral.com/content/accessories/5-47.htm?tc_ref=1864543&amp;adl=sidebar"><font face="Verdana" size="1" color="#1A80BC">More Car Chargers</font></a></font></td>
+			  </tr>
+			</tbody></table>
+			</td>
+			
+		  </tr>
+		</tbody></table>
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="100%">
+			<img border="0" src="/store_images/spacer.gif" width="1" height="3"></td>
+		  </tr>
+		</tbody></table>
+			
+		<table border="0" cellspacing="0" width="212" cellpadding="0" background="http://store.treocentral.com/store_images/stack_box_right.gif" height="68">
+		  <tbody><tr>
+			<td width="77" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/12-45--13.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><img border="0" alt="palmOne Headphone Adapter for Treo 600/650" src="http://store.treocentral.com/store_images/product_images/accessories/mini/13.gif" width="70" height="58"></a></td>
+
+			<td width="135" align="center">
+			<table border="0" width="100%" cellpadding="0" cellspacing="4">
+			  <tbody><tr>
+				<td width="100%" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/12-45--13.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><font face="Verdana" size="1" color="#000000">
+		<b>Headphone Adapter for Treo 600/650</b><br> 
+		Stereo sound!<br>
+		<font color="#da4a4b">
+		<b>Just $5.95 <u>BUY</u></b></font></font></a><font face="Verdana" size="1" color="#000000"><br>
+		<a class="underline" target="_blank" href="http://store.treocentral.com/content/accessories/12-45.htm?tc_ref=1864543&amp;adl=sidebar"><font face="Verdana" size="1" color="#1A80BC">More Adapters</font></a></font></td>
+			  </tr>
+			</tbody></table>
+			</td>
+			
+		  </tr>
+		</tbody></table>
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="100%">
+			<img border="0" src="/store_images/spacer.gif" width="1" height="3"></td>
+		  </tr>
+		</tbody></table>
+			
+		<table border="0" cellspacing="0" width="212" cellpadding="0" background="http://store.treocentral.com/store_images/stack_box_right.gif" height="68">
+		  <tbody><tr>
+			<td width="77" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-24--115.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><img border="0" alt="palmOne Leather Latch Case for Treo 600/650" src="http://store.treocentral.com/store_images/product_images/accessories/mini/115.gif" width="70" height="58"></a></td>
+
+			<td width="135" align="center">
+			<table border="0" width="100%" cellpadding="0" cellspacing="4">
+			  <tbody><tr>
+				<td width="100%" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-24--115.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><font face="Verdana" size="1" color="#000000">
+		<b>Leather Latch Case for Treo 600/650</b><br> 
+		Stylish holster<br>
+		<font color="#da4a4b">
+		<b>Just $29.95 <u>BUY</u></b></font></font></a><font face="Verdana" size="1" color="#000000"><br>
+		<a class="underline" target="_blank" href="http://store.treocentral.com/content/accessories/4-24.htm?tc_ref=1864543&amp;adl=sidebar"><font face="Verdana" size="1" color="#1A80BC">More Holsters</font></a></font></td>
+			  </tr>
+			</tbody></table>
+			</td>
+			
+		  </tr>
+		</tbody></table>
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="100%">
+			<img border="0" src="/store_images/spacer.gif" width="1" height="3"></td>
+		  </tr>
+		</tbody></table>
+			
+		<table border="0" cellspacing="0" width="212" cellpadding="0" background="http://store.treocentral.com/store_images/stack_box_right.gif" height="68">
+		  <tbody><tr>
+			<td width="77" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-23--86.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><img border="0" alt="Pacific Rim Open Hard Case for Treo 600" src="http://store.treocentral.com/store_images/product_images/accessories/mini/86.gif" width="70" height="58"></a></td>
+
+			<td width="135" align="center">
+			<table border="0" width="100%" cellpadding="0" cellspacing="4">
+			  <tbody><tr>
+				<td width="100%" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-23--86.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><font face="Verdana" size="1" color="#000000">
+		<b>Open Hardcase</b><br> 
+		For superior protection<br>
+		<font color="#da4a4b">
+		<b>Just $39.95 <u>BUY</u></b></font></font></a><font face="Verdana" size="1" color="#000000"><br>
+		<a class="underline" target="_blank" href="http://store.treocentral.com/content/accessories/4-23.htm?tc_ref=1864543&amp;adl=sidebar"><font face="Verdana" size="1" color="#1A80BC">More Hard Cases</font></a></font></td>
+			  </tr>
+			</tbody></table>
+			</td>
+			
+		  </tr>
+		</tbody></table>
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="100%">
+			<img border="0" src="/store_images/spacer.gif" width="1" height="3"></td>
+		  </tr>
+		</tbody></table>
+			<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%"><tbody><tr><td width="100%"><img border="0" src="http://store.treocentral.com/store_images/spacer.gif" width="1" height="6"></td></tr></tbody></table><img border="0" src="http://store.treocentral.com/store_images/v2/newtothestore2.gif" width="200" height="15">
+		<table border="0" cellspacing="0" width="212" cellpadding="0" background="http://store.treocentral.com/store_images/stack_box_right.gif" height="68">
+		  <tbody><tr>
+			<td width="77" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-54--136.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><img border="0" alt="S600 Skin Case for Treo 600" src="http://store.treocentral.com/store_images/product_images/accessories/mini/136.gif" width="70" height="58"></a></td>
+
+			<td width="135" align="center">
+			<table border="0" width="100%" cellpadding="0" cellspacing="4">
+			  <tbody><tr>
+				<td width="100%" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-54--136.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><font face="Verdana" size="1" color="#000000">
+		<b>S600 Skin Case for Treo 600</b><br> 
+		Cover up your Treo!<br>
+		<font color="#da4a4b">
+		<b>Just $24.95 <u>BUY</u></b></font></font></a><font face="Verdana" size="1" color="#000000"><br>
+		<a class="underline" target="_blank" href="http://store.treocentral.com/content/accessories/4-54.htm?tc_ref=1864543&amp;adl=sidebar"><font face="Verdana" size="1" color="#1A80BC">More Skin Cases</font></a></font></td>
+			  </tr>
+			</tbody></table>
+			</td>
+			
+		  </tr>
+		</tbody></table>
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="100%">
+			<img border="0" src="/store_images/spacer.gif" width="1" height="3"></td>
+		  </tr>
+		</tbody></table>
+			
+		<table border="0" cellspacing="0" width="212" cellpadding="0" background="http://store.treocentral.com/store_images/stack_box_right.gif" height="68">
+		  <tbody><tr>
+			<td width="77" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/5-17--141.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><img border="0" alt="palmOne Charger for Treo 650" src="http://store.treocentral.com/store_images/product_images/accessories/mini/141.gif" width="70" height="58"></a></td>
+
+			<td width="135" align="center">
+			<table border="0" width="100%" cellpadding="0" cellspacing="4">
+			  <tbody><tr>
+				<td width="100%" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/5-17--141.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><font face="Verdana" size="1" color="#000000">
+		<b>Wall Charger for Treo 650</b><br> 
+		Stay fully charged!<br>
+		<font color="#da4a4b">
+		<b>Just $24.95 <u>BUY</u></b></font></font></a><font face="Verdana" size="1" color="#000000"><br>
+		<a class="underline" target="_blank" href="http://store.treocentral.com/content/accessories/5-17.htm?tc_ref=1864543&amp;adl=sidebar"><font face="Verdana" size="1" color="#1A80BC">More Wall Chargers</font></a></font></td>
+			  </tr>
+			</tbody></table>
+			</td>
+			
+		  </tr>
+		</tbody></table>
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="100%">
+			<img border="0" src="/store_images/spacer.gif" width="1" height="3"></td>
+		  </tr>
+		</tbody></table>
+			
+		<table border="0" cellspacing="0" width="212" cellpadding="0" background="http://store.treocentral.com/store_images/stack_box_right.gif" height="68">
+		  <tbody><tr>
+			<td width="77" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-20--88.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><img border="0" alt="E&amp;B Slipper Case for Treo 600" src="http://store.treocentral.com/store_images/product_images/accessories/mini/88.gif" width="70" height="58"></a></td>
+
+			<td width="135" align="center">
+			<table border="0" width="100%" cellpadding="0" cellspacing="4">
+			  <tbody><tr>
+				<td width="100%" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-20--88.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><font face="Verdana" size="1" color="#000000">
+		<b>E&amp;B Slipper Case for Treo 600</b><br> 
+		See-through Flip Lid!<br>
+		<font color="#da4a4b">
+		<b>Just $49.95 <u>BUY</u></b></font></font></a><font face="Verdana" size="1" color="#000000"><br>
+		<a class="underline" target="_blank" href="http://store.treocentral.com/content/accessories/4-20.htm?tc_ref=1864543&amp;adl=sidebar"><font face="Verdana" size="1" color="#1A80BC">More Form-Fit Cases</font></a></font></td>
+			  </tr>
+			</tbody></table>
+			</td>
+			
+		  </tr>
+		</tbody></table>
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="100%">
+			<img border="0" src="/store_images/spacer.gif" width="1" height="3"></td>
+		  </tr>
+		</tbody></table>
+			
+		<table border="0" cellspacing="0" width="212" cellpadding="0" background="http://store.treocentral.com/store_images/stack_box_right.gif" height="68">
+		  <tbody><tr>
+			<td width="77" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-24--118.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><img border="0" alt="Seidio Locking Swivel Holster for Treo 600" src="http://store.treocentral.com/store_images/product_images/accessories/mini/118.gif" width="70" height="58"></a></td>
+
+			<td width="135" align="center">
+			<table border="0" width="100%" cellpadding="0" cellspacing="4">
+			  <tbody><tr>
+				<td width="100%" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-24--118.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><font face="Verdana" size="1" color="#000000">
+		<b>Locking Swivel Holster for Treo 600</b><br> 
+		Innovative and well-designed!<br>
+		<font color="#da4a4b">
+		<b>Just $19.95 <u>BUY</u></b></font></font></a><font face="Verdana" size="1" color="#000000"><br>
+		<a class="underline" target="_blank" href="http://store.treocentral.com/content/accessories/4-24.htm?tc_ref=1864543&amp;adl=sidebar"><font face="Verdana" size="1" color="#1A80BC">More Holsters</font></a></font></td>
+			  </tr>
+			</tbody></table>
+			</td>
+			
+		  </tr>
+		</tbody></table>
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="100%">
+			<img border="0" src="/store_images/spacer.gif" width="1" height="3"></td>
+		  </tr>
+		</tbody></table>
+			
+		<table border="0" cellspacing="0" width="212" cellpadding="0" background="http://store.treocentral.com/store_images/stack_box_right.gif" height="68">
+		  <tbody><tr>
+			<td width="77" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-25--87.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><img border="0" alt="E&amp;B Copilot Case for Treo 600/650" src="http://store.treocentral.com/store_images/product_images/accessories/mini/87.gif" width="70" height="58"></a></td>
+
+			<td width="135" align="center">
+			<table border="0" width="100%" cellpadding="0" cellspacing="4">
+			  <tbody><tr>
+				<td width="100%" align="center"><a target="_blank" href="http://store.treocentral.com/content/accessories/4-25--87.htm?tc_ref=1864543&amp;adl=sidebar" class="underline"><font face="Verdana" size="1" color="#000000">
+		<b>E&amp;B Copilot Case</b><br> 
+		Belt loop Leather Pouch<br>
+		<font color="#da4a4b">
+		<b>Just $32.95 <u>BUY</u></b></font></font></a><font face="Verdana" size="1" color="#000000"><br>
+		<a class="underline" target="_blank" href="http://store.treocentral.com/content/accessories/4-25.htm?tc_ref=1864543&amp;adl=sidebar"><font face="Verdana" size="1" color="#1A80BC">More Pouch Cases</font></a></font></td>
+			  </tr>
+			</tbody></table>
+			</td>
+			
+		  </tr>
+		</tbody></table>
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="100%">
+			<img border="0" src="/store_images/spacer.gif" width="1" height="3"></td>
+		  </tr>
+		</tbody></table>
+			<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%"><tbody><tr><td width="100%"><img border="0" src="http://store.treocentral.com/store_images/spacer.gif" width="1" height="6"></td></tr></tbody></table><br><br>
 
    </center>
 
-</center></div>
+</div>
   
 
 <img border="0" src="/images/site_images/230_spacer.gif" width="210" height="1"></td>
@@ -438,25 +552,10 @@ TreoCentral is deeply committed to protecting
 		 
 		<tbody><tr>
 			<td width="100%" valign="top">
-<center><script language="JavaScript">
-<!--
-google_ad_client = 'pub-8460099860738313';
-google_alternate_ad_url = "http://www.treocentral.com/templates/objects_include/buy_google.php";
-google_ad_width = 120;
-google_ad_height = 600;
-google_ad_format = '120x600_as';
-google_color_border = "CDF0AF";
-google_color_bg = "E5F5D7";
-google_color_link = "000000";
-google_color_url = "336699";
-google_color_text = "000000";
-// -->
-</script>
-<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><div id="beacon_16" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.treocentral.com/admanagement/adlog.php?bannerid=16&amp;clientid=4&amp;zoneid=5&amp;source=&amp;block=0&amp;capping=0&amp;cb=8c950e09638d7ce126e163716a1effc1" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>			</center></td>
+<center>			</center></td>
 		</tr>
 		</tbody></table>
-	<hr color="#E9E9E9" width="140" size="0" noshade="">
+	<!--<hr color='#E9E9E9' width='140' size='0' noshade>-->
     </td>
     </tr>
 
