@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622110237id_/http%3A//www.faa.gov/utilities/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015170357id_/http%3A//www.faa.gov/utilities/privacy.cfm) for the most accurate reproduction.*
 
 # Federal Aviation Administration: Privacy Policy
 
@@ -20,6 +20,9 @@ When you visit our Web site, we collect information about your visit that does n
 When you visit our Web site, we may request and collect the following categories of personal information from you:
 
   * Contact information
+  * license numbers or other official document  
+information to verify your identity.
+  * Aviation-related background, such as whether you are a flight instructor or mechanic
 
 **Why do we collect information online and how do we use it?**
 
