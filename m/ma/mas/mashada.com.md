@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mashada.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610005726id_/http%3A//www.mashada.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashada.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204044112id_/http%3A//www.mashada.com/privacy.php) for the most accurate reproduction.*
 
-# Mashada.com - African Chat, Discussions, Music and News From Africa
+# Privacy | Mashada.com
 
 **Mashada.com Online Privacy Notice**
 
