@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331195346id_/http%3A//www.logos.com/about/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205111356id_/http%3A//www.logos.com/about/security.asp) for the most accurate reproduction.*
 
 # About Our Web Site
 
 Secure Transactions
 
-You may see a warning about crossing from a secure zone to an insecure zone after you have entered your credit card information. The primary place where security is an issue is when your credit card number is transferred from your machine over the internet to our server. After that point, the card information is stored locally for the life of the transaction and is safe. We have a secure connection for the actual transfer of your information, after which you can continue shopping throughout the site. Your credit card number is only stored in memory for the current transaction and is deleted when you close your browser[](https://digitalid.verisign.com/as2/f7f47d22d69475a035ee1f6337093da5)
+[](https://digitalid.verisign.com/as2/f58d0ac89d166552fef965b8d919802d) You may see a warning about crossing from a secure zone to an insecure zone after you have entered your credit card information. The primary place where security is an issue is when your credit card number is transferred from your machine over the internet to our server. After that point, the card information is stored locally for the life of the transaction and is safe. We have a secure connection for the actual transfer of your information, after which you can continue shopping throughout the site. Your credit card number is only stored in memory for the current transaction and is deleted when you close your browser. 
 
 Logos Research Systems, Inc. has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for: [Logos Research Systems, Inc](http://www.logos.com/). ([www.logos.com](http://www.logos.com/)).
 
@@ -52,4 +52,4 @@ You can send email to [customerservice@logos.com](mailto:customerservice@logos.c
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [customerservice@logos.com](mailto:customerservice@logos.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [customerservice@logos.com](mailto:customerservice@logos.com).
