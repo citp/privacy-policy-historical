@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxlogic.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205094319id_/http%3A//www.mxlogic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxlogic.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001181204id_/http%3A//www.mxlogic.com/privacy.php) for the most accurate reproduction.*
 
 # MX Logic: About MX Logic
 
