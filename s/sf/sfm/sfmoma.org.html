@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the sfmoma.org privacy policy that was archived on 2003-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031004161640id_/http%3A//www.sfmoma.org/info/about_privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sfmoma.org privacy policy that was archived on 2004-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040619083729id_/http%3A//sfmoma.org/info/about_privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>SFMOMA | Info | Privacy Policy</title>
+
 
 <link rel="stylesheet" href="../styles/globalstyle.css">
 
@@ -52,7 +53,10 @@ MM_reloadPage(true);
 
 //-->
 </script>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Policy statement regarding the protection of privacy of all SFMOMA site visitors.">
+<meta name="keywords" content="SFMOMA, San Francisco Museum of Modern Art, privacy policy, private, personal data, protect, protecting, protection, respect, personal information, shared, sharing, information sharing, identifying data, disclosure of information, personally identifying, legal">
+</head>
 
 
 
@@ -699,6 +703,9 @@ MM_reloadPage(true);
       );
    }
 
+// Added 12/03/03 by RCF to look for Safari
+   var is_safari = (agt.indexOf("safari") != -1);
+
 // -->
 </script>
 
@@ -708,30 +715,30 @@ ns4 = (document.layers)? true:false
 function SearchOvr(ver) {
 		if (ns4) {
 				
-				document.searchbutton.document.images['search'].src='../images/search/search-over.gif'
+				document.searchbutton.document.images['search'].src='/images/search/search-over.gif'
 		}	
            
         else {
 
-				document.images['search'].src='../images/search/search-over.gif'
+				document.images['search'].src='/images/search/search-over.gif'
 		}	
 }
 function SearchOut(ver) {
 		if (ns4) {
 	
-				document.searchbutton.document.images['search'].src='../images/search/search.gif'
+				document.searchbutton.document.images['search'].src='/images/search/search.gif'
 		}	
            
         else {
 	
-				document.images['search'].src='../images/search/search.gif'
+				document.images['search'].src='/images/search/search.gif'
 		}	
 	}
 function SearchSubmit() {
 		if (ns4) 
-           document.searchbox.document.form1.submit();
+           document.searchbox.document.searchForm.submit();
         else	
-			document.form1.submit();
+			document.searchForm.submit();
 
 }
 
@@ -747,9 +754,9 @@ document.writeln('#searchbutton { position:absolute; left: 617px; top: 2px; widt
 document.writeln('#textsearch { font-family: "Arial", "Helvetica", "sans-serif"; font-size: 10px; border: 1px #cccccc groove }');
 document.writeln('#mask { position:absolute; left: 490px; top: 19px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2 }</style>')
 document.writeln('<div id=mask style="position:absolute; left: 490px; top: -1px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2;"></div>');
-document.writeln('<div id=searchbox><form name="form1" action="http://www.google.com/u/SFMOMA"  method="get"><input type="text" name="q" style="height=17;" value="" size="25" id=textsearch></form></div>');
+document.writeln('<div id=searchbox><form method="get" action="http://catsearch.sfmoma.org/search/catsearch/" name="searchForm"><input type=hidden name="sp-p" value="all"><input type=hidden name="sp-f" value="ISO-8859-1"><input type=hidden name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="25" style="height=17;" id=textsearch></form></div>');
 
-document.writeln('<div id=searchbutton><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="../images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
+document.writeln('<div id=searchbutton><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="/images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
 
 
 
@@ -763,9 +770,9 @@ document.writeln('#textsearch { font-family: "Arial", "Helvetica", "sans-serif";
 document.writeln('#mask { position:absolute; left: 490px; top: 19px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2 }</style>')
 document.writeln('<div id=mask style="position:absolute; left: 490px; top: -1px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2;"></div>');
 
-document.writeln('<div id=searchbox><form name="form1" action="http://www.google.com/u/SFMOMA"  method="get"><input type="text" name="q" style="height=15;" value="" size="24" id=textsearch></form></div>');
+document.writeln('<div id=searchbox><form method="get" action="http://catsearch.sfmoma.org/search/catsearch/" name="searchForm"><input type=hidden name="sp-p" value="all"><input type=hidden name="sp-f" value="ISO-8859-1"><input type=hidden name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="24" style="height=15;" id=textsearch></form></div>');
 
-document.writeln('<div id=searchbutton><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="../images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
+document.writeln('<div id=searchbutton><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="/images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
 
 }  else
 
@@ -778,9 +785,9 @@ document.writeln('#textsearch { font-family: "Arial", "Helvetica", "sans-serif";
 document.writeln('#mask { position:absolute; left: 490px; top: 17px; width: 187px; height: 23px; clip:rect(0px,187px,23px,0px); layer-background-color:white; background-color:white; z-index: 2 }</style>')
 
 document.writeln('<div id=mask></div>')
-document.writeln('<div id=searchbox><form name="form1" action="http://www.google.com/u/SFMOMA"  method="get"><input type="text" name="q" style="height=14;" value="" size="20" id=textsearch></div></form>');
+document.writeln('<div id=searchbox><form method="get" action="http://catsearch.sfmoma.org/search/catsearch/" name="searchForm"><input type=hidden name="sp-p" value="all"><input type=hidden name="sp-f" value="ISO-8859-1"><input type=hidden name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="20" style="height=14;" id=textsearch></form></div>');
 
-document.writeln('<div id=searchbutton><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="../images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
+document.writeln('<div id=searchbutton><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="/images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
 
 
 }  else
@@ -794,9 +801,9 @@ document.writeln('#textsearch { font-family: "Arial", "Helvetica", "sans-serif";
 document.writeln('#mask { position:absolute; left: 490px; top: 19px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2 }</style>')
 document.writeln('<div id=mask style="position:absolute; left: 490px; top: -1px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2;"></div>');
 
-document.writeln('<div id=searchbox><form name="form1" action="http://www.google.com/u/SFMOMA"  method="get"><input type="text" name="q" style="height=13;" value="" size="15" id=textsearch><input type=hidden name="dummy"></form></div>');
+document.writeln('<div id=searchbox><form method="get" action="http://catsearch.sfmoma.org/search/catsearch/" name="searchForm"><input type=hidden name="sp-p" value="all"><input type=hidden name="sp-f" value="ISO-8859-1"><input type=hidden name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="15" style="height=13;" id=textsearch></form></div>');
 
-document.writeln('<div id=searchbutton><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="../images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
+document.writeln('<div id=searchbutton><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="/images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
 
 }  
 
@@ -810,13 +817,26 @@ document.writeln('#textsearch { font-family: "Arial", "Helvetica", "sans-serif";
 document.writeln('#mask { position:absolute; left: 490px; top: 19px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2 }</style>')
 document.writeln('<div id=mask style="position:absolute; left: 490px; top: -1px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2;"></div>');
 
-document.writeln('<div id=searchbox style=;><form name="form1" action="http://www.google.com/u/SFMOMA"  method="get"><input type="text" name="q" style="height=13;" value="" size="30" id=textsearch></form></div>');
+document.writeln('<div id=searchbox><form method="get" action="http://catsearch.sfmoma.org/search/catsearch/" name="searchForm"><input type=hidden name="sp-p" value="all"><input type=hidden name="sp-f" value="ISO-8859-1"><input type=hidden name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="30" style="height=13;" id=textsearch></form></div>');
 
-document.writeln('<div id=searchbutton style=;><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="../images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
+document.writeln('<div id=searchbutton style=;><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="/images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
 
 } 
 
 else 
+if ((is_safari)) {
+
+document.writeln('<style>#searchbox { position:absolute; left: 490px; top: 20px; width: 184px;  z-index:2; font-size:11px; }');
+document.writeln('#searchbutton { position:absolute; left: 613px; top: 23px; width: 184px; height: 25px; z-index:2; }');
+document.writeln('#textsearch { font-family: "Arial", "Helvetica", "sans-serif"; font-size: 10px; border: 1px #cccccc groove }');
+document.writeln('#mask { position:absolute; left: 490px; top: 17px; width: 187px; height: 23px; clip:rect(0px,187px,23px,0px); layer-background-color:white; background-color:white; z-index: 2 }</style>')
+
+document.writeln('<div id=mask></div>')
+document.writeln('<div id=searchbox><form method="get" action="http://catsearch.atomz.com/search/catsearch/" name="searchForm"><input type=hidden name="sp-p" value="all"><input type=hidden name="sp-f" value="ISO-8859-1"><input type=hidden name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="19" style="height=8;" id=textsearch></form></div>');
+
+document.writeln('<div id=searchbutton><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="../images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
+
+} else 
 
 {
 
@@ -826,19 +846,19 @@ document.writeln('#textsearch { font-family: "Arial", "Helvetica", "sans-serif";
 document.writeln('#mask { position:absolute; left: 490px; top: 19px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2 }</style>')
 document.writeln('<div id=mask style="position:absolute; left: 490px; top: -1px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2;"></div>');
 
-document.writeln('<div id=searchbox style=;><form name="form1" action="http://www.google.com/u/SFMOMA"  method="get"><input type="text" name="q" style="height=23;" value="" size="30" id=textsearch></form></div>');
+document.writeln('<div id=searchbox><form method="get" action="http://catsearch.sfmoma.org/search/catsearch/" name="searchForm"><input type=hidden name="sp-p" value="all"><input type=hidden name="sp-f" value="ISO-8859-1"><input type=hidden name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="30" style="height=23;" id=textsearch></form></div>');
 
-document.writeln('<div id=searchbutton style=;><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="../images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
+document.writeln('<div id=searchbutton style=;><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="/images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
 
 } 
 
-</script><style>#searchbox { position:absolute; left: 490px; top: 0px; width: 184px; height: 30px; z-index:2; }
-#searchbutton { position:absolute; left: 617px; top: 0px; width: 184px; height: 30px; z-index:2; }
-#textsearch { font-family: "Arial", "Helvetica", "sans-serif"; font-size: 11px; border: 2px #cccccc groove }
-#mask { position:absolute; left: 490px; top: 19px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2 }</style>
-<div id="mask" style="position:absolute; left: 490px; top: -1px; width: 187px; height: 27px; clip:rect(0px,187px,27px,0px); layer-background-color:white; background-color:white; z-index: 2;"></div>
-<div id="searchbox" style=";"><form name="form1" action="http://www.google.com/u/SFMOMA" method="get"><input type="text" name="q" style="height=23;" value="" size="30" id="textsearch"></form></div>
-<div id="searchbutton" style=";"><a href="javascript:SearchSubmit()" onmouseover="javascript:SearchOvr()" onmouseout="javascript:SearchOut()" onfocus="blur()"><img name="search" src="../images/search/search.gif" width="57" height="17" border="0" alt=""></a></div>
+</script><style>#searchbox { position:absolute; left: 490px; top: 20px; width: 184px;  z-index:2; font-size:11px; }
+#searchbutton { position:absolute; left: 613px; top: 23px; width: 184px; height: 25px; z-index:2; }
+#textsearch { font-family: "Arial", "Helvetica", "sans-serif"; font-size: 10px; border: 1px #cccccc groove }
+#mask { position:absolute; left: 490px; top: 17px; width: 187px; height: 23px; clip:rect(0px,187px,23px,0px); layer-background-color:white; background-color:white; z-index: 2 }</style>
+<div id="mask"></div>
+<div id="searchbox"><form method="get" action="http://catsearch.atomz.com/search/catsearch/" name="searchForm"><input type="hidden" name="sp-p" value="all"><input type="hidden" name="sp-f" value="ISO-8859-1"><input type="hidden" name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="19" style="height=8;" id="textsearch"></form></div>
+<div id="searchbutton"><a href="javascript:SearchSubmit()" onmouseover="javascript:SearchOvr()" onmouseout="javascript:SearchOut()" onfocus="blur()"><img name="search" src="../images/search/search.gif" width="57" height="17" border="0" alt=""></a></div>
 
 
 <!-- if netscape 4, dont focus? -->
@@ -846,9 +866,9 @@ document.writeln('<div id=searchbutton style=;><a href="javascript:SearchSubmit(
 <script>
 	if (is_nav4) {
 		if  (is_win)
-			document.searchbox.document.form1.q.focus()
+			document.searchbox.document.searchForm.textsearch.focus()
 	 } else
-		document.form1.q.focus()
+		document.searchForm.textsearch.focus()
 </script>
 
 <!-- logo in nav -->
@@ -893,7 +913,7 @@ document.writeln('<div id=searchbutton style=;><a href="javascript:SearchSubmit(
   <tr> 
     <td height="30">&nbsp;</td>
     <td height="30"><br>
-      <span class="globalcopyright">Copyright © 2003 San Francisco Museum of Modern Art</span></td>
+      <span class="globalcopyright">Copyright © 2004 San Francisco Museum of Modern Art</span></td>
     <td height="30">&nbsp;</td>
   </tr>
   <tr> 
@@ -907,31 +927,7 @@ document.writeln('<div id=searchbutton style=;><a href="javascript:SearchSubmit(
 <!-- V6.0a -->
 <!-- $DateTime: 2003/03/17 09:53:25 $ -->
 <!-- $Revision: #20 $ -->
-<script language="Javascript"><!--
-gVersion="1.0";
-//-->
-</script>
-<script language="Javascript1.1"><!--
-gVersion="1.1";
-//-->
-</script>
-<script language="Javascript1.2"><!--
-gVersion="1.2";
-//-->
-</script>
-<script language="Javascript1.3"><!--
-gVersion="1.3";
-//-->
-</script>
-<script language="Javascript1.4"><!--
-gVersion="1.4";
-//-->
-</script>
-<script language="Javascript1.5"><!--
-gVersion="1.5";
-//-->
-</script>
-<script language="JavaScript">
+<script type="text/javascript">
 <!--
 var gImages=new Array;
 var gIndex=0;
@@ -941,7 +937,7 @@ var DCSext=new Object();
 
 var gDomain="statse.webtrendslive.com";
 
-<!-- Sitewide logging -->
+//Sitewide logging
 var gDcsId="dcsgkbynioifwzrudujxu0pyh_5h7h";
 
 if (gDcsId==""){
@@ -976,7 +972,7 @@ function dcsVar(){
 			DCS.dcsref=window.document.referrer;
 		}
 	}
-	DCS.dcssip=window.location.hostname;
+	DCS.dcssip="www.sfmoma.org";
 	DCS.dcsdat=dCurrent.getTime();
 }
 
@@ -1082,9 +1078,21 @@ function OnclickTrack(){
 </script>
 
 <noscript>
-<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs4er31zoifwzvhq6hbh0vhj_3f6r/njs.gif?dcsuri=/nojavascript&WT.js=No">
+<img BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs4er31zoifwzvhq6hbh0vhj_3f6r/njs.gif?dcsuri=/nojavascript&WT.js=No">
 </noscript>
-
+<script>
+function setCG(){
+	WT.cg_n = "Info";
+}
+function setSG(){
+	WT.cg_s = document.title;
+}
+// end
+setCG();
+setSG();
+<!--alert("to test the content group and subgroup" + WT.cg_n + "-" + WT.cg_s)//-->
+</script> 
+ 
 
 
 
