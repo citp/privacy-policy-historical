@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lanyon.com privacy policy that was archived on 2002-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020618010740id_/http%3A//www.lanyon.com/home/Inside/Legal/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanyon.com privacy policy that was archived on 2002-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021219163720id_/http%3A//www.lanyon.com/Inside/Legal/Privacy.htm) for the most accurate reproduction.*
 
 # Lanyon, Inside - Legal Privacy Statement
 
-Lanyon, Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.lanyon.com](http://www.lanyon.com/home/default.htm)
+Lanyon, Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.lanyon.com](http://www.lanyon.com/default.htm)
 
 **********IP address usage**
 
