@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mega-search.net privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610181605id_/http%3A//mega-search.net/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mega-search.net privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009193148id_/http%3A//mega-search.net/privacy.php3) for the most accurate reproduction.*
 
 # cd covers search engine megasearch (psx audio pc vcd psx2 dvd dreamcast)
 
