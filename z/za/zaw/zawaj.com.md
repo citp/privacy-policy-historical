@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zawaj.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216094747id_/http%3A//www.zawaj.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zawaj.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604032558id_/http%3A//www.zawaj.com/privacy.html) for the most accurate reproduction.*
 
 # ZAWAJ.COM: Polls
 
@@ -10,11 +10,7 @@
 Privacy Policy Statement:  
 This is the web site of Zawaj.com.
 
-Our postal address is   
-6206 Monadnock Way  
-Oakland, CA 94605  
-We can be reached via e-mail at [privacy@zawaj.com](mailto:privacy@zawaj.com)  
-Or you can reach us by telephone at 510-635-5277
+We can be reached via [e-mail](mailto:privacy@truezawaj.com).
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -29,4 +25,4 @@ If you supply us with your postal address on-line you may receive periodic maili
 Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line.
 
 [  
-](https://web.archive.org/web/20011216094747id_/http%3A//www.zawaj.com/index.html)
+](https://web.archive.org/web/20020604032558id_/http%3A//www.zawaj.com/index.html)
