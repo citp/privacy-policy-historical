@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athenahealth.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210173456id_/http%3A//www.athenahealth.com/home/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athenahealth.com privacy policy that was archived on 2005-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050326003629id_/http%3A//www.athenahealth.com/home/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # athenahealth: Privacy Policy
 
