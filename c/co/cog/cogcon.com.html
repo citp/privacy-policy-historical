@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cogcon.com privacy policy that was archived on 2002-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021014020105id_/http%3A//www.cogcon.com/privacy/policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cogcon.com privacy policy that was archived on 2003-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030609194457id_/http%3A//www.cogcon.com/privacy/policy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 	<title>Cognitive Concepts Privacy Statement</title>
@@ -72,7 +72,6 @@ for Specialist, Teachers, Parents sections see parents_dhhml_rollover_.inc, etc.
 	.contents
 	{	position: absolute;
 		z-index: 7;
-
 		color: white;
 		font-size: 8pt;
 		text-align: left;
@@ -86,19 +85,11 @@ for Specialist, Teachers, Parents sections see parents_dhhml_rollover_.inc, etc.
 		visibility: hidden;
 		width:232px;	
 	}
-	#infoSupport {
+	#infoProducts {
 		position: absolute;
 		z-index: 7;
 		left: 125px;
-		top: 178px;
-		visibility: hidden;
-		width:232px;	
-	}
-	#infoResources {
-		position: absolute;
-		z-index: 7;
-		left: 125px;
-		top: 207px;
+		top: 182px;
 		visibility: hidden;
 		width:232px;	
 	}
@@ -106,12 +97,19 @@ for Specialist, Teachers, Parents sections see parents_dhhml_rollover_.inc, etc.
 		position: absolute;
 		z-index: 7;
 		left: 125px;
-		top: 231px;
+		top: 207px;
 		visibility: hidden;
 		width:232px;	
 	}
-	
-	#infoProducts {
+	#infoGrantSupport {
+		position: absolute;
+		z-index: 7;
+		left: 125px;
+		top: 234px;
+		visibility: hidden;
+		width:232px;	
+	}
+	#infoResources {
 		position: absolute;
 		z-index: 7;
 		left: 125px;
@@ -119,8 +117,8 @@ for Specialist, Teachers, Parents sections see parents_dhhml_rollover_.inc, etc.
 		visibility: hidden;
 		width:232px;	
 	}
-
-	#infoOrder {
+	#infoSupport 
+	{
 		position: absolute;
 		z-index: 7;
 		left: 125px;
@@ -128,7 +126,14 @@ for Specialist, Teachers, Parents sections see parents_dhhml_rollover_.inc, etc.
 		visibility: hidden;
 		width:232px;	
 	}
-
+	#infoOrder
+	{	position: absolute;
+		z-index: 7;
+		left: 125px;
+		top: 311px;
+		visibility: hidden;
+		width:232px;	
+	}
 
 	#leftnav
 	{	position: absolute;
@@ -147,33 +152,37 @@ for Specialist, Teachers, Parents sections see parents_dhhml_rollover_.inc, etc.
 		z-index: 10;
 		left: 14px;
 		top: 147px;	}
-	#Ssupport
-	{	position: absolute;
-		z-index: 10;
-		left: 14px;
-		top: 183px;	}
-	#Sresources
-	{	position: absolute;
-		z-index: 10;
-		left: 14px;
-		top: 210px;	}
-	#Sresearch
-	{	position: absolute;
-		z-index: 10;
-		left: 14px;
-		top: 226px;	}
 	#Sproducts
 	{	position: absolute;
 		z-index: 10;
 		left: 14px;
+		top: 183px;	}
+	#Sresearch
+	{	position: absolute;
+		z-index: 10;
+		left: 14px;
+		top: 200px;	}
+	#Sgrantsupport
+	{	position: absolute;
+		z-index: 10;
+		left: 14px;
+		top: 235px;	}
+	#Sresources
+	{	position: absolute;
+		z-index: 10;
+		left: 14px;
 		top: 262px;	}
-			
-	#Sorder
+	#Ssupport
 	{	position: absolute;
 		z-index: 10;
 		left: 14px;
 		top: 288px;	}
-
+	#Sorder
+	{	position: absolute;
+		z-index: 10;
+		left: 14px;
+		top: 314px;	}
+		
 	#controlF
 	{	position: absolute;
 		z-index: 3;
@@ -264,26 +273,29 @@ function opennav(contents_string)
 	//make hl layer visible
 	navitembg.visibility = visible;
 	
-	//change pos of hl
+	//change pos of hl- should match infoAboutus, infoProducts, etc top
 	if (document.layers){
 		switch(contents_string){
 			case "infoAboutus":
 				navitembg.top = 153;
 				break;
-			case "infoSupport":
-				navitembg.top = 178;
-				break;
-			case "infoResources":
-				navitembg.top = 207;
+			case "infoProducts":
+				navitembg.top = 182;
 				break;
 			case "infoResearch":
-				navitembg.top = 231;
+				navitembg.top = 207;
 				break;
-			case "infoProducts":
+			case "infoGrantSupport":
+				navitembg.top = 234;
+				break;
+			case "infoResources":
 				navitembg.top = 259;
 				break;
-			case "infoOrder":
+			case "infoSupport":
 				navitembg.top = 284;
+				break;
+			case "infoOrder":
+				navitembg.top = 311;
 				break;
 		}
 	} else if (document.all) {
@@ -291,21 +303,25 @@ function opennav(contents_string)
 			case "infoAboutus":
 				navitembg.pixelTop = 153;
 				break;
-			case "infoSupport":
-				navitembg.pixelTop = 178;
-				break;
-			case "infoResources":
-				navitembg.pixelTop = 207;
+			case "infoProducts":
+				navitembg.pixelTop = 182;
 				break;
 			case "infoResearch":
-				navitembg.pixelTop = 231;
+				navitembg.pixelTop = 207;
 				break;
-			case "infoProducts":
+			case "infoGrantSupport":
+				navitembg.pixelTop = 234;
+				break;
+			case "infoResources":
 				navitembg.pixelTop = 259;
 				break;
-			case "infoOrder":
+			case "infoSupport":
 				navitembg.pixelTop = 284;
 				break;
+			case "infoOrder":
+				navitembg.pixelTop = 311;
+				break;
+
 		}
 		if (navigator.platform == 'MacPPC' && (document.all) && (version5)){ navitembg.pixelLeft = 18;;}
 	}
@@ -398,13 +414,10 @@ if ((document.all && macie4 == 'no') || (document.layers && nav408 == 'no')) {
 	results+="</DIV>\n";
 
 	results+="<DIV id=infoResources>\n";
-	results+='<table cellpadding=0 cellspacing=0 border=0><tr><td><IMG SRC=/imx/subnav_top.gif WIDTH=232" HEIGHT=7 BORDER=0></td></tr></table><table width=232 cellpadding=0 cellspacing=0 border=0><tr><td valign=top background=/imx/subnav_mid.gif bgcolor="#6699FF"><img src=\"/imx/pixel.gif\" height=\"105\" width=\"3\" align=left>';
+	results+='<table cellpadding=0 cellspacing=0 border=0><tr><td><IMG SRC=/imx/subnav_top.gif WIDTH=232" HEIGHT=7 BORDER=0></td></tr></table><table width=232 cellpadding=0 cellspacing=0 border=0><tr><td valign=top background=/imx/subnav_mid.gif bgcolor="#6699FF"><img src=\"/imx/pixel.gif\" height=\"60\" width=\"3\" align=left>';
 	results+="	<font size=2 face=\"verdana, sans-serif\"><b>\n";
 	results+="	 <a href=\"/fas\" class=\"superlink\">find a specialist</a><br>\n";
 	results+="	 <a href=\"/resources/rrs\" class=\"superlink\">reading risk screen</a><br>\n";
-	results+="	 <a href=\"/resources/correlations.cfm\" class=\"superlink\">correlations</a><br>\n";
-	results+="	 <a href=\"/resources/funding.cfm\" class=\"superlink\">funding sources</a><br>\n";
-	results+="	 <a href=\"/resources/grants/index.cfm\" class=\"superlink\">grant guide</a><br>\n";
 	results+="	 <a href=\"/resources/glossary.cfm\" class=\"superlink\">glossary</a><br>\n";
 	results+="	 <a href=\"/resources/figure7.cfm\" onClick=\"openPhonetic(); return false;\" class=\"superlink\">phonetic alphabet</a><br>\n";
 	results+="	</b></font>\n";
@@ -414,7 +427,7 @@ if ((document.all && macie4 == 'no') || (document.layers && nav408 == 'no')) {
 	results+="<DIV id=infoResearch>\n";
 	results+='<table cellpadding=0 cellspacing=0 border=0><tr><td><IMG SRC=/imx/subnav_top.gif WIDTH=232" HEIGHT=7 BORDER=0></td></tr></table><table width=232 cellpadding=0 cellspacing=0 border=0><tr><td valign=top background=/imx/subnav_mid.gif bgcolor="#6699FF"><img src=\"/imx/pixel.gif\" height=\"60\" width=\"3\" align=left>';
 	results+="	<font size=2 face=\"verdana, sans-serif\"><b>\n";
-	results+="	 <a href=\"/support_faq/pdf/researchbroch.pdf\" class=\"superlink\">research basis of earobics</a><br>\n";
+	results+="	 <a href=\"/grantsupport/federal/EarobicsNRP.cfm\" class=\"superlink\">national reading panel findings</a><br>\n";
 	results+="	 <a href=\"/research/proven\" class=\"superlink\">proven results</a><br>\n";
 	results+="	 <a href=\"/research/feedback\" class=\"superlink\">tell us your story</a><br>\n";
 	results+="	 <a href=\"/research/irap/\" class=\"superlink\">research assistance program</a><br>\n";
@@ -422,6 +435,18 @@ if ((document.all && macie4 == 'no') || (document.layers && nav408 == 'no')) {
 	results+='</td></tr></table><table cellpadding=0 cellspacing=0 border=0><tr><td><IMG SRC=/imx/subnav_bottom.gif WIDTH=232 HEIGHT=14 BORDER=0></td></tr></table>';
 	results+="</DIV>\n";
 
+	results+="<DIV id=\"infoGrantSupport\">\n";
+	results+='<table cellpadding=0 cellspacing=0 border=0><tr><td><IMG SRC=/imx/subnav_top.gif WIDTH=232" HEIGHT=7 BORDER=0></td></tr></table><table width=232 cellpadding=0 cellspacing=0 border=0><tr><td valign=top background=/imx/subnav_mid.gif bgcolor="#6699FF"><img src=\"/imx/pixel.gif\" height=\"48\" width=\"3\" align=left>';
+	results+="	<font size=1 face=\"verdana, sans-serif\"><b>\n";
+	results+="	  <a href=\"/grantsupport/federal/\" class=\"superlink\">&nbsp;federal grants</a><br>\n";
+	results+="	  <a href=\"/grantsupport/research_proven/\" class=\"superlink\">&nbsp;research-proven results</a><br>\n";
+	results+="	 <a href=\"/grantsupport/standards/\" class=\"superlink\">&nbsp;&nbsp;state standards correlations</a><br>\n";
+	results+="	 <a href=\"/grantsupport/assessments/\" class=\"superlink\">&nbsp;&nbsp;correlations to assessments</a><br>\n";
+	results+="	</b></font>\n";
+	results+='</td></tr></table><table cellpadding=0 cellspacing=0 border=0><tr><td><IMG SRC=/imx/subnav_bottom.gif WIDTH=232 HEIGHT=14 BORDER=0></td></tr></table>';
+	results+="</DIV>\n";
+
+	
 	results+="<DIV id=infoProducts>\n";
 	results+='<table cellpadding=0 cellspacing=0 border=0><tr><td><IMG SRC=/imx/subnav_top.gif WIDTH=232" HEIGHT=7 BORDER=0></td></tr></table><table width=232 cellpadding=0 cellspacing=0 border=0><tr><td valign=top background=/imx/subnav_mid.gif bgcolor="#6699FF"><img src=\"/imx/pixel.gif\" height=\"85\" width=\"3\" align=left>';
 	results+="	<font size=2 face=\"verdana, sans-serif\"><b>\n";
@@ -429,7 +454,7 @@ if ((document.all && macie4 == 'no') || (document.layers && nav408 == 'no')) {
 	results+="	 <a href=\"/specialists/s_products.cfm\" class=\"superlink\">specialist/clinician software</a><br>\n";
 	results+="	 <a href=\"/parents/p_products.cfm\" class=\"superlink\">home software</a><br>\n";
 	results+="	 <a href=\"/products/assessments.cfm\" class=\"superlink\">assessments</a><br>\n";
-	results+="	  <a href=\"/products/gamedemos.stm\" onclick=\"window.open('/demos/index.cfm','meta','width=450,height=315,scrollbars=no,toolbar=no,directories=no,resizable=no,status=no'); return false;\" class=\"superlink\">game demos</a><br>\n";
+	results+="	  <a href=\"/products/\" onclick=\"window.open('/demos/index.cfm','meta','width=540,height=378,scrollbars=no,toolbar=no,directories=no,resizable=yes,status=no'); return false;\" class=\"superlink\">game demos</a><br>\n";
 	results+="	</b></font>\n";
 	results+='</td></tr></table><table cellpadding=0 cellspacing=0 border=0><tr><td><IMG SRC=/imx/subnav_bottom.gif WIDTH=232 HEIGHT=14 BORDER=0></td></tr></table>';
 	results+="</DIV>\n";
@@ -458,6 +483,9 @@ if ((document.all && macie4 == 'no') || (document.layers && nav408 == 'no')) {
 	results+="<DIV id=Ssupport><A HREF=\"/support_faq\" onmouseover=\"opennav('infoSupport'); layerRollover('support','d_support_on'); window.status='answers to your technical and usage questions, contact info'; return true;\" onmouseout=\"layerRollover('support','d_support'); window.status=''; return true;\"><img name=\"support\" SRC=\"/imx/D_support.gif\" BORDER=0></A></DIV>\n";
 	results+="<DIV id=Sresources><A HREF=\"/resources\" onmouseover=\"opennav('infoResources');layerRollover('resources','d_resources_on'); window.status='useful literacy & phonological awareness resources'; return true;\" onmouseout=\"layerRollover('resources','d_resources'); window.status=''; return true;\"><IMG NAME=\"resources\" SRC=\"/imx/D_resources.gif\" BORDER=0></A></DIV>\n";
 	results+="<DIV id=Sresearch><A HREF=\"/research\" onmouseover=\"opennav('infoResearch'); layerRollover('research','d_research_on'); window.status='independant efficacy studies, research basis of Earobics&reg;'; return true;\" onmouseout=\"layerRollover('research','d_research'); window.status=''; return true;\"><IMG NAME=\"research\" SRC=\"/imx/D_research.gif\" BORDER=0></A></DIV>\n";
+	results+=" <DIV id=\"Sgrantsupport\">\n";
+	results+="  <A HREF=\"/grantsupport\" onmouseover=\"opennav('infoGrantSupport');layerRollover('grantsupport','D_grantsupport_on'); window.status='resources to help locate funding sources and write grant proposals'; return true;\" onmouseout=\"layerRollover('grantsupport','D_grantsupport'); window.status=''; return true;\"><img name=\"grantsupport\" SRC=\"/imx/D_grantsupport.gif\" BORDER=0></A>\n";
+	results+=" </DIV>\n";
 	results+="<DIV id=Sproducts><A HREF=\"/products\" onmouseover=\"opennav('infoProducts'); layerRollover('products','d_products_on'); window.status='overviews of earobics school solutions and software products'; return true;\" onmouseout=\"layerRollover('products','d_products'); window.status=''; return true;\"><IMG NAME=\"products\" SRC=\"/imx/D_products.gif\" BORDER=0></A></DIV>\n";
 	results+="<DIV id=Sorder><A HREF=\"/kstore/\" onmouseover=\"opennav('infoOrder'); layerRollover('order','d_order_on'); window.status='order products online, by phone or mail'; return true;\" onmouseout=\"layerRollover('order','d_order'); window.status=''; return true;\"><IMG NAME=\"order\" SRC=\"/imx/D_order.gif\" BORDER=0></A></DIV>\n";
 
@@ -477,30 +505,35 @@ if (navigator.platform == 'MacPPC' && (document.all) && (version5)){
 	//nav items
 	Saboutus.style.pixelTop = 131;
 	Saboutus.style.pixelLeft = 6;
-	Ssupport.style.pixelTop = 166;
-	Ssupport.style.pixelLeft = 6;
-	Sresources.style.pixelTop = 193;
-	Sresources.style.pixelLeft = 6;
-	Sresearch.style.pixelTop = 210;
-	Sresearch.style.pixelLeft = 6;
-	Sproducts.style.pixelTop = 246;
+	Sproducts.style.pixelTop = 166;
 	Sproducts.style.pixelLeft = 6;
-	Sorder.style.pixelTop = 272;
+	Sresearch.style.pixelTop = 183;
+	Sresearch.style.pixelLeft = 6;
+	Sgrantsupport.style.pixelTop = 218;
+	Sgrantsupport.style.pixelLeft = 6;
+	Sresources.style.pixelTop = 246;
+	Sresources.style.pixelLeft = 6;
+	Ssupport.style.pixelTop = 272;
+	Ssupport.style.pixelLeft = 6;
+	Sorder.style.pixelTop = 296;
 	Sorder.style.pixelLeft = 6;
 	
 	//subnav
 	infoAboutus.style.pixelTop = 137;
 	infoAboutus.style.pixelLeft = 132;
-	infoSupport.style.pixelTop = 162;
-	infoSupport.style.pixelLeft = 132;
-	infoResources.style.pixelTop = 191;
-	infoResources.style.pixelLeft = 132;
-	infoResearch.style.pixelTop = 215;
-	infoResearch.style.pixelLeft = 132;
-	infoProducts.style.pixelTop = 243;
+	infoProducts.style.pixelTop = 166;
 	infoProducts.style.pixelLeft = 132;
-	infoOrder.style.pixelTop = 268;
+	infoResearch.style.pixelTop = 191;
+	infoResearch.style.pixelLeft = 132;
+	infoGrantSupport.style.pixelTop = 218;
+	infoGrantSupport.style.pixelLeft = 132;
+	infoResources.style.pixelTop = 243;
+	infoResources.style.pixelLeft = 132;
+	infoSupport.style.pixelTop = 268;
+	infoSupport.style.pixelLeft = 132;
+	infoOrder.style.pixelTop = 295;
 	infoOrder.style.pixelLeft = 132;
+
 	document.write("<br><img src=/imx/pixel.gif height=30 width=10><br>");
 }
 //-->
@@ -692,8 +725,9 @@ your dealings with this web site, you can contact us at <a href="webmaster@cogco
 	
 	
 <p align="center"><br><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-Copyright © 2000 Cognitive Concepts Inc., All rights reserved.<br>
+Copyright © 2000-2003 Cognitive Concepts Inc., All rights reserved.<br>
 <a href="/privacy/policy.cfm">Privacy Statement</a> | <a href="/aboutus">About CCI</a> | <a href="mailto:webmaster@earobics.com">Site Problems?</a> | <a href="http://www.earobics.com/">Home</a>  
+<!--| <a href="http://www.earobics.com/search/sitemap/index.cfm">Site Map</a>  -->
 </font></p>
 
 
