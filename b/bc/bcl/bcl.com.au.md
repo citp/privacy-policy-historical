@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004161555id_/http%3A//www.bcl.com.au/bcl/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605114051id_/http%3A//bcl.com.au/bcl/privacy.htm) for the most accurate reproduction.*
 
 # BCL - Privacy Policy
 
