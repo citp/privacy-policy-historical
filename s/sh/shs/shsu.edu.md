@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shsu.edu privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603033459id_/http%3A//www.shsu.edu/administrative/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shsu.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204130028id_/http%3A//www.shsu.edu/administrative/policies/privacy.html) for the most accurate reproduction.*
 
 # Sam Houston State University Web Privacy Policy
 
@@ -14,12 +14,6 @@ If you send us an electronic mail message with a question or comment that contai
 
 For site management functions, information is collected for analysis and [statistical purposes](http://www.shsu.edu/stats/). This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
 
-**Public Forums**
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-> This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**Contacting the Web Site**
-
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-> 
-> Computer Services  Sam Houston State University  Box 2449  Huntsville, TX 77341  [helpdesk@shsu.edu](mailto:helpdesk@shsu.edu)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
