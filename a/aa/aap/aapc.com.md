@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aapc.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206220529id_/http%3A//www.aapc.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapc.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205221711id_/http%3A//www.aapc.com/other/privacy.html) for the most accurate reproduction.*
 
 # American Academy of Professional Coders - Privacy
 
