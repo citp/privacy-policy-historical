@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611175137id_/http%3A//www.vitacost.com/otherfiles/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804181304id_/http%3A//www.vitacost.com/otherfiles/privacy.html) for the most accurate reproduction.*
 
 # vitacost.com - Top brand vitamins at wholesale cost!
 
