@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zipform.com privacy policy that was archived on 2004-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602221206id_/http%3A//zipform.com/company/privacystatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zipform.com privacy policy that was archived on 2004-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041209041657id_/http%3A//zipform.com/company/privacystatement.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>ZipForm Desktop</title>
@@ -7,7 +7,7 @@
 <link type="text/css" href="/includes/styles/main.css" rel="stylesheet">
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<link href="/includes/zipform.css" rel="stylesheet" type="text/css">
+<link href="/includes/styles/zipform.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" type="text/javascript">
 <!--
 function openAWindow( pageToLoad, winName, width, height, center) {
@@ -121,7 +121,6 @@ function learnSomething(){
 //        - menu text to diplay, menu link, opens a child menu (boolean)
 //                 ... additional menu items
 //============================================================================
-
 //global variable to keep all menus the same height from the top of the document.
 
 var mnuHeight = 119
@@ -149,7 +148,7 @@ var arMenu1_4 = new Array(
 
 // PRODUCTS MENU  ================================================
 var arMenu2 = new Array(
-125,
+155,
 99,mnuHeight,
 "","",
 "","",
@@ -158,7 +157,8 @@ var arMenu2 = new Array(
 "ZipFormOnline","/products/zipformonline/index.asp",1,
 "ZipFormPDA","/products/zipformpalm/index.asp",1,
 "Safe Calling Kit","/products/safe_calling/productdetails.asp",1,
-"ZipFormClientDirect","/products/client_direct/productdetails.asp",1
+"ZipFormClientDirect","/products/client_direct/productdetails.asp",1,
+"Available Form Libraries","http://www.zipform.com/products/zipformdesktop/availablelibraries.asp",0
   
 )
 // PRODUCTS - DESKTOP Submenu
@@ -173,7 +173,7 @@ var arMenu2_1 = new Array(
 )
 // PRODUCTS - ONLINE Submenu
 var arMenu2_2 = new Array(
-"Buy Now","/order/zipformonline/order.asp",0,
+"Buy Now","/order/order.asp",0,
 "Product Details","/products/zipformonline/productdetails.asp",0,
 "Product FAQ","/products/zipformonline/faq.asp",0,
 "View a Demo","/products/zipformonline/demodownload.asp",0,
@@ -202,7 +202,7 @@ var arMenu2_4 = new Array(
 var arMenu2_5 = new Array(
 "Buy Now","https://secure.realtydirect.net/signUp.asp?oid=71",0,
 "Product Details","/products/client_direct/productdetails.asp",0,
-"FAQ","http://www.zipform.com/products/client_direct/faq.asp",0,
+"FAQ","/products/client_direct/faq.asp",0,
 "View a Sample","http://www.realtydirect.net/news/default.asp?PUB=3788",0,
 "Existing User Login","http://www.realtydirect.net",0
   
@@ -216,7 +216,7 @@ var arMenu3 = new Array(
 "","",
 "","",
 "Buy ZipFormDesktop","/order/order.asp",0,
-"Buy ZipFormOnline","/order/zipformonline/order.asp",0,
+"Buy ZipFormOnline","/order/order.asp",0,
 "Buy ZipFormPDA","/mobile/index.asp",0,
 "Renew","/order/renewalinstructions.asp",0,
 "Order a Custom Logo","/order/customlogo.asp",0,
@@ -233,7 +233,7 @@ var arMenu4 = new Array(
 "","",
 "","",
 "","",
-"Software Updates","/support/updates.asp#swupdates",0,
+"Software Updates","/support/softwareupdates.asp",0,
 "Form Updates","/support/updates.asp",0,
 "Company Info Change","/products/zipformdesktop/BrokerValidation.asp",0,
 "Viewers","/support/viewers.asp",0,
@@ -243,7 +243,6 @@ var arMenu4 = new Array(
 "Online Training","javascript:learnSomething();",0
   
 )
-
 // SUPPORT - FAQ Submenu
 //"Online Training","http://www.learning.net/cat/courseinfo.html?ID=CAR_003_WinForms",0,
 var arMenu4_5 = new Array(
@@ -263,24 +262,45 @@ var arMenu5 = new Array(
 "Multi-user Licenses","/brokers/networkversion.asp",0,
 "Custom Form Services","/brokers/customizedforms.asp",0,
 "Custom Broker Screens","/brokers/custombrokerscreens.asp",0,
-"Developer's Kit","/brokers/developerskit.asp",0
+"Developer's Kit","/brokers/developerskit.asp",0,
+"Request Information","/brokers/brokercontact.asp",0
   
 )
 
-//TRAINING MENU ================================================
+
+// TRAINING MENU  ================================================
 var arMenu7 = new Array(
-150,
-333,mnuHeight,
+125,
+405,mnuHeight,
 "","",
 "","",
 "","",
-"Benefits","/trainers/benefits.asp",0,
-"Fees &amp; Incentives","/trainers/incentives.asp",0,
-"Trainers","/trainers/trainers.asp",0,
-"Requirements","/trainers/requirements.asp",0,
-"Application","/trainers/apply.asp",0,
-"Pledge","/trainers/pledge.asp",0,
-"Contact Us","/trainers/contact.asp",0
+"Available Training","/training/trainers_list.asp",1,
+"Become a Trainer","/training/become.asp",1,
+"Trainers Toolbox","/training/toolbox.asp",1
+  
+)
+// TRAINING - AVAILABLE Submenu
+var arMenu7_1 = new Array(
+"Find a Trainer","/training/trainers_list.asp",0,
+"Set Up a Class","/training/contact_us.asp",0
+  
+)
+// TRAINING - BECOME Submenu
+var arMenu7_2 = new Array(
+"Trainer Information","/training/information.asp",0,
+"Apply","/training/apply.asp",0,
+"Type of Training","/training/training_type.asp",0,
+"Pledge","/training/pledge.asp",0,
+"Contact Us","/training/contact_us.asp",0
+  
+)
+
+// TRAINING - TOOLS Submenu
+var arMenu7_3 = new Array(
+"Submit Your Class","/training/submit_class.asp",0,
+"Pledge","/training/pledge.asp",0,
+"Contact Us","/training/contact_us.asp",0
   
 )
 
@@ -299,7 +319,8 @@ var arSiteMapNames = new Array(
 "Products", 
 "Purchase",
 "Support",
-"Brokers")
+"Brokers",
+"Training")
 
 function siteMap()
 {
@@ -353,37 +374,39 @@ function theLinks(arrName){
 </script>
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="798" height="101">
+
+	<table border="0" cellpadding="0" cellspacing="0" width="798" height="101">
 			<tbody><tr>
 				<td valign="top" align="left" width="319"><a href="/"><img src="/images/menu/logo.gif" width="178" height="87" alt="ZipForm Logo" border="0"></a></td>
 				<td valign="top" align="left" width="271" background="/images/menu/bggrey.gif">
 					<div align="left">
 						<img src="/images/menu/formicon.gif" width="199" height="87" alt=""></div>
 				</td>
-				<td background="/images/menu/bggrey.gif" valign="top">
+				<td width="208" background="/images/menu/bggrey.gif" valign="top">
 					<div align="right">
 						<img src="/images/menu/gobeyond.gif" width="168" height="87" alt=""></div>
 				</td>
 			</tr>
 			<tr>
-				<td colspan="2" valign="top" align="left" background="/images/menu/menubg.jpg">
-					<table border="0" cellpadding="0" cellspacing="0" width="397">
-						<tbody><tr height="35">
-						
-							<td height="35" valign="top" align="left" width="89"><a href="/company/" class="topMenu" onmouseover="popUp('elMenu1',event);" onmouseout="popDown('elMenu1')"><img src="/images/menu/main_company.gif" width="89" height="35" border="0"></a></td>
-							<td height="35" valign="top" align="left" width="68"><a href="/products/" class="topMenu" onmouseover="popUp('elMenu2',event);" onmouseout="popDown('elMenu2')"><img src="/images/menu/main_products.gif" width="68" height="35" border="0"></a></td>
-							<td height="35" valign="top" align="left" width="71"><a href="/support/" class="topMenu" onmouseover="popUp('elMenu4',event);" onmouseout="popDown('elMenu4')"><img src="/images/menu/main_support.gif" width="71" height="35" border="0"></a></td>
-							<td height="35" valign="top" align="left" width="65"><a href="/order/" class="topMenu" onmouseover="popUp('elMenu3',event);" onmouseout="popDown('elMenu3')"><img src="/images/menu/main_purchase.gif" width="65" height="35" border="0"></a></td>
-							<td height="35" valign="top" align="left" width="72"><a href="/brokers/" class="topMenu" onmouseover="popUp('elMenu5',event);" onmouseout="popDown('elMenu5')"><img src="/images/menu/main_brokers.gif" width="72" height="35" border="0"></a></td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td valign="top" align="left" background="/images/menu/menubg.jpg">
+				<td colspan="2" valign="top" align="left" width="590" background="/images/menu/menubg.jpg">
+				<table width="430" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td align="left" valign="top" width="89"><a href="/company/" class="topMenu" onmouseover="popUp('elMenu1',event);" onmouseout="popDown('elMenu1')"><img src="/images/menu/main_company.gif" width="89" height="35" border="0"></a></td>
+						<td align="left" valign="top" width="68"><a href="/products/" class="topMenu" onmouseover="popUp('elMenu2',event);" onmouseout="popDown('elMenu2')"><img src="/images/menu/main_products.gif" width="79" height="35" border="0"></a></td>
+						<td align="left" valign="top" width="71"><a href="/support/" class="topMenu" onmouseover="popUp('elMenu4',event);" onmouseout="popDown('elMenu4')"><img src="/images/menu/main_support.gif" width="70" height="35" border="0"></a></td>
+						<td align="left" valign="top" width="65"><a href="/order/" class="topMenu" onmouseover="popUp('elMenu3',event);" onmouseout="popDown('elMenu3')"><img src="/images/menu/main_purchase.gif" width="81" height="35" border="0"></a></td>
+						<td align="left" valign="top" width="72"><a href="/brokers/" class="topMenu" onmouseover="popUp('elMenu5',event);" onmouseout="popDown('elMenu5')"><img src="/images/menu/main_brokers.gif" width="75" height="35" border="0"></a></td>
+						<td align="left" valign="top" width="65"><a href="/training/" class="topMenu" onmouseover="popUp('elMenu7',event);" onmouseout="popDown('elMenu7')"><img src="/images/menu/main_training.gif" width="75" height="35" border="0"></a></td>
+					</tr>
+				</tbody></table>
+			</td>
+				<td valign="top" align="left" width="208" background="/images/menu/menubg.jpg">
 					<div align="right">
 						<img src="/images/menu/nar_tag.gif" width="208" height="35" alt=""></div>
 				</td>
 			</tr>
 		</tbody></table>
+
 
 
 <table width="798" border="0" cellpadding="0" cellspacing="0">
@@ -409,39 +432,78 @@ function theLinks(arrName){
     <td width="450" valign="Center" align="left">
 	<p><span style="FONT-SIZE: 13.5pt; COLOR: black; FONT-FAMILY: Arial"></span>	
 
-</p><p>RE FormsNet, LLC Privacy and Security Statement<br>This document was last updated May 23, 2003</p>
+RE FormsNet, LLC Online Statement of Privacy and Security.<br>
+Effective July 1, 2004<br>
+This document was previously updated May 23, 2003.
+<br><br>
 
-<p><b>PRIVACY AND SECURITY STATEMENT</b><br>RE FormsNet appreciates your interest in its products. The protection of your privacy in our storage and processing of your personal data is an important concern of ours.
+</p><p><b>PRIVACY AND SECURITY STATEMENT</b>
+
+</p><p>RE FormsNet appreciates your interest in its products. The protection of your privacy in our storage and processing of your personal data is an important concern of ours.
+
 </p><p>We want you to get the most out of our products and to trust that we make every effort to protect your confidentiality and the information you store here.  Personal information is either requested or required at different points in our products or websites to complete your order properly, create your account and/or ensure that you qualify to use certain intellectual property (form libraries) that may be licensed to RE FormsNet.  Depending upon the libraries to which you request access, your current Association membership or Broker affiliation may be verified by asking you to log into other websites.
+
 </p><p>Please take a few minutes to read our complete privacy statement.
 
-</p><p><b>SECURITY</b><br>For site security purposes and to ensure that our products remain available to all users, RE FormsNet servers employ industry-standard methods to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on RE FormsNet servers are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.
+
+</p><p><b>SECURITY</b>
+
+</p><p>For site security purposes and to ensure that our products remain available to all users, RE FormsNet servers employ industry-standard methods to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on RE FormsNet servers are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.
+
 </p><p>RE FormsNet uses technical and organizational security measures in order to protect the data we have under our control against accidental or intentional manipulation, loss, destruction or against access by unauthorized persons.
 
-</p><p><b>COLLECTING YOUR PERSONAL INFORMATION</b><br>There are points at which RE FormsNet requests personal information from you to complete an order or subscription process.  This information (such as your name, Broker affiliation, mailing address, email address, and phone numbers) is collected and stored in a secure manner.  When you provide personally-identifying information, that information is only used to deliver the product service to you.
 
-</p><p><b>USE OF YOUR PERSONAL INFORMATION</b><br>We store and use your personal information for three primary purposes:
+</p><p><b>COLLECTING YOUR PERSONAL INFORMATION</b>
+
+</p><p>There are points at which RE FormsNet requests personal information from you to complete an order or subscription process.  This information (such as name, Broker affiliation, mailing address, email address, and phone numbers) is collected and stored in a secure manner.  When you provide personally-identifying information, the information is only used to deliver the product service to you.
+
+
+</p><p><b>USE OF YOUR PERSONAL INFORMATION</b>
+
+</p><p>We store and use your personal information for three primary purposes:
 </p><ul>
 <li>To make our products easier for you to use by not making you enter your personal information more than once. 
-</li><li>To help manage your subscription and provide technical administration and support for you.  
-</li><li>To add security to our products by printing your name, and your broker's name and address on your transaction forms.
+</li><li>To help manage your subscription and provide technical administration and support for you. 
+</li><li>To add security to our products by printing your name, and your broker’s name and address on your transaction forms.
 </li></ul>
-<p>We occasionally hire other companies to provide services on our behalf, including development, testing, hosting, and answering customer questions about products or services. We will provide to those companies only the information they need to deliver that support to us, and we prohibit them from using that information for any other purpose.
+
+<p>We occasionally hire other companies to provide services on our behalf, including development, testing, hosting, and answering customer questions about products or services. We will provide to those companies only the information they need to deliver support to us, and we prohibit them from using that information for any other purpose.
+
 </p><p>RE FormsNet will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on RE FormsNet, and (b) protect and defend the rights or property of RE FormsNet.
-</p><p>Although we generally collect and use information to fulfill the stated objective for which the information was requested or collected, we may also provide the information to our parent company and its subsidiaries so that they may send you information regarding other products or services that may be valuable or interesting to you.
+Although we generally collect and use information to fulfill the stated objective for which the information was requested or collected, we may also provide the information to our parent company and its subsidiaries so that they may send you information regarding other products or services that may be valuable or interesting to you. 
+CONTROL OF YOUR PERSONAL INFORMATION
+
+</p><p>When you subscribe or otherwise give us personal information, RE FormsNet does not share that information with third parties without your permission, other than for the limited exceptions listed above.
 
 
-</p><p><b>CONTROL OF YOUR PERSONAL INFORMATION</b><br>When you subscribe or otherwise give us personal information, RE FormsNet does not share that information with third parties without your permission, other than for the limited exceptions listed above.
+</p><p><b>ACCESS TO YOUR PERSONAL INFORMATION</b>
 
-</p><p><b>ACCESS TO YOUR PERSONAL INFORMATION</b><br>RE FormsNet markets several products.  With products that collect and use personal information, where appropriate, RE FormsNet provides a method that allows you to inspect whether your personal information is correct and current.
+</p><p>RE FormsNet markets several products.  With products that collect and use personal information, where appropriate, RE FormsNet provides a method that allows you to inspect whether your personal information is correct and current. 
+
 </p><p>To reduce the possibility that some subscribers may attempt to share their access to and use of RE FormsNet products with non-subscribers, some of your information - once it is entered - may not be directly changeable by you.
 
-</p><p><b>SECURITY OF YOUR PERSONAL INFORMATION</b><br>RE FormsNet strictly protects the security of your personal information and honors its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.  Other than as noted above, your personal information is not shared outside the company without your permission. Inside the company, data is stored in password-controlled servers with limited access.
-</p><p>You have a significant role in protecting your information, too. No one can see or edit your personal information without knowing your email address and password, so do not share your password with others. It is good practice for you to change your password regularly.
 
-</p><p><b>CHANGES TO THIS STATEMENT</b><br>RE FormsNet reserves the right to alter this Privacy and Security Statement as its business needs require.
+</p><p><b>SECURITY OF YOUR PERSONAL INFORMATION</b>
 
-</p><p><b>CONTACT INFORMATION</b><br>RE FormsNet welcomes your comments regarding its products and this Statement of Privacy and Security.  Please contact us by e-mail: <a class="CustomLinkNormal" href="mailto: sales@zipform.com">sales@zipform.com</a>, or postal mail: RE FormsNet LLC, 18025 15 Mile Road, Clinton Township, Michigan 48035 U.S.A.
+</p><p>RE FormsNet strictly protects the security of your personal information and honors its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.  Other than as noted above, your personal information is not shared outside the company without your permission. Inside the company, data is stored in password-controlled servers with limited access.
+
+</p><p>You have a significant role in protecting your information, too. No one can see or edit your personal information without knowing your email address and password, so do not share your password with others.  It is good practice for you to change your password regularly.
+
+
+</p><p><b>CHANGES TO THIS STATEMENT</b>
+
+</p><p>RE FormsNet reserves the right to alter this Privacy and Security Statement as its business needs require.  In the event we make any material changes to our Privacy and Security Statement, we will notify you by updating the Statement’s Effective Date and indicating the previous Effective Date.  As you use our Web site, we encourage you to periodically check back with this Statement for changes that we may make. Your continued use of our Web site will constitute your agreement to any changes we make and if you do not agree with a change, please refrain from using our Web site.
+
+
+</p><p><b>CORRECTIONS/UPDATES</b>
+
+</p><p>If you wish to review, correct or update any personally identifiable information about you collected through our Web site, please contact us by email at: <a class="CustomLinkNormal" href="mailto: sales@zipform.com">sales@zipform.com</a>, or postal mail: RE FormsNet LLC, 18025 15 Mile Road, Clinton Township, Michigan 48035 U.S.A.
+
+
+</p><p><b>CONTACT INFORMATION</b>
+
+</p><p>RE FormsNet welcomes your comments regarding its products and this Statement of Privacy and Security.  Please contact us by e-mail: <a class="CustomLinkNormal" href="mailto: sales@zipform.com">sales@zipform.com</a>, or postal mail: RE FormsNet LLC, 18025 15 Mile Road, Clinton Township, Michigan 48035 U.S.A.
+
 
     </p></td>
   </tr>
