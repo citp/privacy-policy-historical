@@ -1,23 +1,8 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628073809id_/http%3A//www.vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dbusiness%26hd%3Dbusabout_vodafone%26st%3Dbuslegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202143622id_/http%3A//vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dbusiness%26hd%3Dbusabout_vodafone%26st%3Dbuslegal) for the most accurate reproduction.*
 
-# About Us > Legal > Privacy Policy
+# Privacy Policy
 
-|  |   
----  
-|   
-| Ask Us a Question  
-| [View My Bill](https://www.myvodafone.com.au/knox/login_handler.jsp?pcode=mybill&url=https%3A%2F%2Fmyaccount.vodafone.com.au%2Fservlet%2Fvodafone.ocsb.commsModule%3Fop%3Dcheck_auth)  
-| Contact Us  
-|  [Coverage](https://web.archive.org/rep/coverage.jsp?gs=business&hd=buscoverage)  
-| [GPRS Data Plans](https://web.archive.org/business/mobiles/gprsdata.jsp?gs=business&hd=business_mobiles&st=busplan)  
-| [ GPRS Solutions](https://web.archive.org/rep/gprs.jsp?gs=business&hd=business_services&st=data_soln&ss=business_gprs)  
-| Wireless Share Trading  
-| [TXT](https://web.archive.org/rep/txt/txt.jsp?gs=business&hd=business_services&st=msg_soln&ss=business_text_messages)  
-| Mobile & PDA Set-up  
-|  | 
-
-### Your Privacy  
-  
+|  |  |  | Your Privacy  
 ---  
 Vodafone Australia, as part of the world's largest mobile phone company, is committed to adopting the highest standards to safeguard our customers' personal information.   
   
@@ -71,8 +56,12 @@ If you have any queries or concerns, please contact Customer Care by phoning con
 ---  
 |   
 |  [ Web Site Terms & Conditions](https://web.archive.org/rep/about/legal/t_and_c.jsp?gs=business&hd=busabout_vodafone&st=buslegal)  
-| 
-
-[](https://web.archive.org/rep/123.jsp?gs=business&hd=business_services)
-
-| 
+| [Business Solutions](https://web.archive.org/business/bussol/bussol.jsp?gs=business)  
+| Ask Us a Question  
+| View My Bill  
+| Pay My Bill  
+| PXT World™  
+| Mobile & PDA Set-up  
+| [DataCHOICE™](https://web.archive.org/business/bussol/datachoice/datachoice.jsp?gs=business&hd=bussol&ss=datachoice)  
+| [Mobile Phone Glossary](https://web.archive.org/rep/about/reference.jsp?gs=business&hd=busabout_vodafone&st=busmobileGlossary)  
+[](https://web.archive.org/business/services/msg_soln/GroupTXT.jsp?gs=business&hd=business_services&st=msg_soln&ss=grouptxt)
