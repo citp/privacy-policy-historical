@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tix.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204021847id_/http%3A//www.tix.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tix.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403194810id_/http%3A//www.tix.com/Privacy.asp) for the most accurate reproduction.*
 
-# www.TIX.com - Ticket Software, Services, and Sales
+# www.TIX.com - It's the Ticket!
 
 ### Privacy Policy
 
@@ -17,4 +17,4 @@ Children under the age of 13 are prohibited from submitting personal information
 
 **Changes** www.tix.com may change this policy from time to time. Any changes will be posted on this Site.
 
-**Terms of Use** [Click here](https://web.archive.org/web/20041204021847id_/http%3A//www.tix.com/TermsOfUse.asp) for our Terms of Use.
+**Terms of Use** [Click here](https://web.archive.org/web/20050403194810id_/http%3A//www.tix.com/TermsOfUse.asp) for our Terms of Use.
