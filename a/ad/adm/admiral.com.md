@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admiral.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805003019id_/http%3A//www.admiral.com/legal_information/privacy_statement.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admiral.com privacy policy that was archived on 2005-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050208084856id_/http%3A//www.admiral.com/legal_information/privacy_statement.phtml) for the most accurate reproduction.*
 
 # Admiral car insurance
 
