@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popsci.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806030751id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/popsci%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popsci.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603180743id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/popsci%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Popular Science Privacy Policy
 
