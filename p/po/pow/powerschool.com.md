@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerschool.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406045343id_/http%3A//powerschool.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerschool.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201023512id_/http%3A//powerschool.com/company/privacy.html) for the most accurate reproduction.*
 
 # PowerSchool
 
@@ -12,9 +12,9 @@ PowerSchool does not rent, sell, exchange or share personally identifiable infor
 
 PowerSchool uses personally identifiable information about its Web site users only in defined and responsible ways. When we gather personally identifiable information, we ask permission first. We also disclose, at the time of collection, how the information will be used by us.
 
-PowerSchool complies with applicable law governing online privacy including the Child Privacy Protection and Parental Empowerment Act and the [Children Online Privacy Protection Act](https://web.archive.org/web/20010406045343id_/http%3A//powerschool.com/company/coppa.html). If you would like to review these laws and their related regulations we suggest you link to the U.S. Federal Trade Commission's Web site at [http://www.ftc.gov](http://www.ftc.gov/) and [Kidz Privacy](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html).
+PowerSchool complies with applicable law governing online privacy including the Child Privacy Protection and Parental Empowerment Act and the [Children Online Privacy Protection Act](https://web.archive.org/web/20011201023512id_/http%3A//powerschool.com/company/coppa.html). If you would like to review these laws and their related regulations we suggest you link to the U.S. Federal Trade Commission's Web site at [http://www.ftc.gov](http://www.ftc.gov/) and [Kidz Privacy](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html).
 
-PowerSchool would like to remind our customers about how to comply with federal laws applicable to school districts. Read more about the [Family Educational Rights and Privacy Act (FERPA)](https://web.archive.org/web/20010406045343id_/http%3A//powerschool.com/company/ferpa.html).
+PowerSchool would like to remind our customers about how to comply with federal laws applicable to school districts. Read more about the [Family Educational Rights and Privacy Act (FERPA)](https://web.archive.org/web/20011201023512id_/http%3A//powerschool.com/company/ferpa.html).
 
 PowerSchool will collect personally identifiable information in relation to a users voluntary participation in PowerSchool promotional contests. Under these circumstances, you have the option to volunteer additional information, including but not limited to your e-mail address, mailing address and/or phone number for the purpose of notifying winners. Personally identifiable information may also be used for activities such as site registration, site membership, newsletter subscriptions and mailings that describe upcoming products, events and features. This information will never be rented, sold, exchanged or shared with third parties.
 
@@ -82,11 +82,11 @@ PowerSchool might be required to disclose personally identifiable information in
 
 This policy may be updated from time to time. Our philosophy of protecting user information from inappropriate uses and disclosures will not change. If you have any complaints or questions about this privacy statement, please contact us at:
 
-> **PowerSchool**  
+> **PowerSchool, a division of Apple**  
 >  80 Iron Point Circle, Suite 200  
 >  Folsom, CA 95630  
 >  (916) 850-1200  
->  [privacy@powerschool.com](mailto:privacy@powerschool.com)
+> 
 
 We pledge to work with users to resolve any complaints about our privacy policy or our implementation of the policy.
 
