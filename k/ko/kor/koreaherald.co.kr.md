@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koreaherald.co.kr privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622013458id_/http%3A//koreaherald.co.kr/aboutus/private.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreaherald.co.kr privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014173651id_/http%3A//www.koreaherald.co.kr/aboutus/private.asp) for the most accurate reproduction.*
 
 # The Korea Herald : The Nation's No.1 English Newspaper
 
@@ -42,7 +42,7 @@ The Korea Herald reserves the right to depend on an outside source for the commi
 2) Please rest assured that when we depend on an outside source to process your personal information, all due care will be taken to instruct the service provider on the strict protection of personal information. This includes the prohibition of disclosure to a third party, and a clear definition of responsibility in case of problems caused by the failure of the service provider to comply with our instructions, etc.
 
 **Opinions and Complaints**  
-The Korea Herald does its best to protect the personal information of its members. If you have any suggestions concerning our policy for the protection of personal information, please send them to [dragon3@heraldm.com](mailto:dragon3@heraldm.com)
+The Korea Herald does its best to protect the personal information of its members. If you have any suggestions concerning our policy for the protection of personal information, please send them to [heemoon@heraldm.com](mailto:heemoon@heraldm.com)
 
 **Protection of Personal Information for Children**  
 Children under 14 must obtain their parents' permission before they send their personal information to others. The Korea Herald will never share the personal information of our youngest members with anyone else, nor will we send direct mail to people under 14.
@@ -56,10 +56,5 @@ Name: Moon Hee
 Manager of Internet News Team  
 [heemoon@heraldm.com ](mailto:heemoon@heraldm.com%20)
 
-Name: Lee Yong-sam  
-Internet News Team  
-[dragon3@heraldm.com](mailto:dragon3@heraldm.com)
-
-  
 We are not engaged in the practice of automatically collecting all e-mail addresses that appear on this home page. Please note that such a practice is punishable under the Information and Telecommunication Law.  
 
