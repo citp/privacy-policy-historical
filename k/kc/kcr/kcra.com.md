@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcra.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209214129id_/http%3A//www.thekcrachannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcra.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606125605id_/http%3A//www.thekcrachannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheKCRAChannel.com - News
 
