@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the etrailer.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603173208id_/http%3A//www.etrailer.com/Merchant2/merchant.mv%3FScreen%3DCTGY%26Store_Code%3DE%26Category_Code%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etrailer.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203023033id_/http%3A//www.etrailer.com/Merchant2/merchant.mv%3FScreen%3DCTGY%26Store_Code%3DE%26Category_Code%3DPRIVACY) for the most accurate reproduction.*
 
 # Trailer hitch bike rack and trailer hitch accessories - etrailer.com: Privacy Policy
 
-[Sign In](https://www.etrailer.com/Merchant2/merchant.mv?Session_ID=3CFBA81A000BC41F00003B5700000000&Screen=LOGN&Order=0&Store_Code=E)  
-  
-[Affiliate Login](https://www.etrailer.com/Merchant2/merchant.mv?Session_ID=3CFBA81A000BC41F00003B5700000000&Screen=AFCL&Store_Code=E)
+[Sign In](https://www.etrailer.com/Merchant2/merchant.mv?Session_ID=3DEC173F000DF81E0000338200000000&Screen=LOGN&Order=0&Store_Code=E)
+
+[Affiliate Login](https://www.etrailer.com/Merchant2/merchant.mv?Session_ID=3DEC173F000DF81E0000338200000000&Screen=AFCL&Store_Code=E)
 
 |  [ Basket Contents](http://www.etrailer.com/Merchant2/merchant.mv?Screen=BASK&Store_Code=E)  
 ---  
@@ -13,32 +13,29 @@ Quantity in Basket:  | none|  
   
 **Departments**   
 [Hitches](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=H)   
-[Hitch Flags](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=FLAG)   
 [Balls](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=B)   
 [Ballmounts](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=BM)   
-[Tube Covers](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=TC)   
+[Hitch Covers](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=TC)   
 [Bike Racks](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=BR)   
 [Cargo Carriers](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=CC)   
 [Electrical](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=E)   
 [Locks](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=L)   
-[Transmission Coolers](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=TRAN)   
-[Vehicle Accessories](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=VA)   
 [Mirrors](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=M)   
+[Vehicle Accessories](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=VA)   
+[Transmission Coolers](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=TRAN)   
+[Convert-A-Ball](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=cab)   
 [Trailer Parts](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=TP)   
 [Trailers](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=TRLR)   
 [Tow Bars](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=TB)   
-[Returns Policy](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=REP)   
-Privacy Policy   
+[Tools](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=T)   
 [Contact Us](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=CONTACT)   
-
-
-  
-To find a Hitch  
-Use The [Hitch Finder](http://www.etrailer.com/fitguide.htm)
-
-[](http://www.etrailer.com/fitguide.htm)
-
-[**Order Status**](http://www.etrailer.com/tracking.htm)
+[Returns Policy](http://www.etrailer.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=E&Category_Code=REP)   
+Privacy Policy  To find a Hitch  
+Use The [Hitch Finder](http://www.etrailer.com/fitguide.htm)  
+---  
+[](http://www.etrailer.com/fitguide.htm)  
+[Order Status](http://www.etrailer.com/tracking.htm)  
+[F.A.Q.](http://www.etrailer.com/faq.asp)
 
   
 
