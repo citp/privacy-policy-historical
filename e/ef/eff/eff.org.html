@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eff.org privacy policy that was archived on 2000-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001206125100id_/http%3A//www.eff.org/onsite.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eff.org privacy policy that was archived on 2001-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011216192956id_/http%3A//www.eff.org/onsite.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html40/frameset.dtd"><html lang="en-us" dir="ltr"><head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -11,11 +11,11 @@
 <meta name="author" content="Electronic Frontier Foundation">
 <link rev="made" href="mailto:webmaster@eff.org">
 <link rel="home" href="/">
-<link rel="toc" href="/archive.html">
-<link rel="index" href="/links2.html">
-<link rel="copyright" href="/copyr.html">
-<link rel="help" href="/howtouse.html">
-<link rel="stylesheet" href="http://www.eff.org/effstyle.css" type="text/css" title="EFF Main Stylesheet">
+<link rel="toc" href="/LINK_REL/sitemap.html">
+<link rel="index" href="/LINK_REL/search.html">
+<link rel="copyright" href="/LINK_REL/copyr.html">
+<link rel="help" href="/LINK_REL/howtouse.html">
+<link rel="stylesheet" href="/stylesheets/effstyle.css" type="text/css" title="EFF Main Stylesheet">
 </head><body bgcolor="#FFFFFF" link="#333333" alink="#CCCCCC" vlink="#666666" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0"><layer name="fontLayer" bgcolor="#FFFFFF" top="0" left="0" width="100%" height="100%">
 
 
@@ -145,7 +145,7 @@
 	<area shape="RECT" coords="1,244,155,260" href="http://www.eff.org/cafe" alt="* CAFE ">
 	<area shape="RECT" coords="1,228,155,243" href="http://www.eff.org/br" alt="* Blue Ribbon Campaign ">
 	<area shape="RECT" coords="1,191,155,227" href="http://www.eff.org/support" alt="Get Involved: * Support EFF ">
-	<area shape="RECT" coords="1,170,155,190" href="http://www.eff.org/members" alt="Member Services ">
+	<area shape="RECT" coords="1,170,155,190" href="http://www.eff.org/support" alt="Member Services ">
 	<area shape="RECT" coords="1,149,155,169" href="http://www.eff.org/archive.html" alt="EFF Archive ">
 	<area shape="RECT" coords="1,128,155,148" href="http://www.eff.org/buildin.html" alt="BUILDING PEOPLE IN ">
 	<area shape="RECT" coords="1,107,155,127" href="http://www.eff.org/identity.html" alt="DIGITAL IDENTITY ">
@@ -170,26 +170,36 @@
 
 <!-- TABLE ENCLOSING SEARCH/BROWSE TO ALLOW FOR ALIGNMENT -->
 
-	<table border="0" bordercolor="GREEN" cellpadding="0" cellspacing="0" width="575" name="S1" summary="layout table to position top search/browse menu">
+	<table border="0" bordercolor="GREEN" cellpadding="1" cellspacing="0" width="100%" name="S1" summary="layout table to position top
+        search/browse menu" bgcolor="#CCCCCC">
 
-	<tbody><tr align="RIGHT" name="S1-1">
-	<td bgcolor="#CCCCCC" valign="MIDDLE" align="CENTER">
+	<tbody><tr name="S1-1">
+	<td valign="MIDDLE" align="CENTER">
 
 
-<form name="search2" method="GET" action="/cgi-bin/search/form_processor.cgi">
- <a href="/search.html" title="Advanced Search &amp; Search Help"><b class="SERIFMD">Search:</b></a>&nbsp;<input type="text" name="words" size="10">&nbsp;<input type="submit" value="Go" class="BODYCOPY"> 
+<form name="search1" method="POST" action="/cgi-bin/htsearch">
+<input type="hidden" name="method" value="and">
+<input type="hidden" name="format" value="builtin-long">
+<input type="hidden" name="config" value="htdig">
+<input type="hidden" name="restrict" value="">
+<input type="hidden" name="exclude" value="">
+
+<a href="/search.html" name="topsearch" title="Advanced Search &amp; Search Help"><b class="SUBHEAD"><font color="#000000" class="BLK">Search:</font></b></a>&nbsp;<input type="text" name="words" size="10">&nbsp;<input type="submit" value="Go" class="BODYCOPY-BLK">&nbsp;
 </form>
 
 	</td>
+
+	<td><img src="/images/clear.gif" height="1" width="5" alt="" border="0">
+	</td>
 	
-	<td bgcolor="#CCCCCC" valign="MIDDLE" align="CENTER">
+	<td valign="MIDDLE" align="CENTER">
 
 <form name="dropdown1" method="GET" action="/cgi-bin/formproc/formproc.cgi">
 <input type="HIDDEN" name="setup_file" value="browse.setup.cgi">
 
-<script type="text/javascript" defer="YES">
+<script type="text/javascript" language="JavaScript" defer="DEFER">
 <!--
-function ralPh1() {
+function autofire1() {
 window.name="thisonehere";
 var subScript = document.dropdown1.choices.selectedIndex;
 var newWindow = document.dropdown1.choices.options[subScript].value;
@@ -198,43 +208,65 @@ window.open(newWindow, "thisonehere");
 // -->
 </script>
 
- <b class="SERIFMD">Browse:</b>&nbsp;&nbsp;<span class="BODYCOPY"><select name="choices" onchange="ralPh1();">
+
+<span class="BODYCOPY-BLK"><select name="choices" onchange="autofire1();">
 		
-<option value="" selected="">CHOOSE FROM MENU:</option>
-<option value="http://www.eff.org/">&nbsp;EFF Home</option>
-<option value="http://www.eff.org/news/">&nbsp;Recent News</option>
-<option value="https://www.eff.org/support/joineff.html">&nbsp;Join EFF</option>
-<option value="http://www.eff.org/abouteff.html">&nbsp;About EFF</option>
-<option value="http://www.eff.org/freespeech.html">&nbsp;Free Expression</option>
-<option value="http://www.eff.org/identity.html">&nbsp;Digital Identity</option>
-<option value="http://www.eff.org/buildin.html">&nbsp;Building People In</option>
-<option value="http://www.eff.org/members">&nbsp;Member Services</option>
-<option value="http://www.eff.org/actioncenter.html">GET INVOLVED:</option>
-<option value="http://www.eff.org/support">&nbsp;Support EFF</option>
-<option value="http://www.eff.org/br">&nbsp;Blue Ribbon</option>
-<option value="http://www.eff.org/cafe">&nbsp;CAFE</option>
-<option value="http://www.eff.org/radioeff.html">&nbsp;Radio EFF</option>
-<option value="http://www.eff.org/effector">&nbsp;EFFector Newsletter</option>
-<option value="http://www.eff.org/archive.html">EFF ARCHIVE:</option>
+<option value="http://www.eff.org/archive.html" selected="">Browse Topics...</option>
 
-<option value="http://www.eff.org/pub/Activism">&nbsp;Activism &amp; Govt.</option>
-<option value="http://www.eff.org/pub/Censorship">&nbsp;Censorship/Free Speech</option>
-<option value="http://www.eff.org/pub/Privacy">&nbsp;Privacy/Encryption</option>
-<option value="http://www.eff.org/pub/Infrastructure">&nbsp;Info. Infrastructure</option>
-<option value="http://www.eff.org/pub/Intellectual_property">&nbsp;Int. Property/Fair Use</option>
-<option value="http://www.eff.org/pub/Spam_cybersquatting_abuse">&nbsp;Spamming/Net Abuse</option>
-<option value="http://www.eff.org/pub/Net_culture">&nbsp;Net Culture/Community</option>
-<option value="http://www.eff.org/pub/Misc">&nbsp;Miscellaneous</option>
+<option value="http://www.eff.org/">---- TOP LEVEL: ----</option>
 
-<option value="http://www.eff.org/awards/index.html">AWARDS:</option>
-<option value="http://www.eff.org/awards/pioneer.html">&nbsp;Pioneer Awards</option>
-<option value="http://www.eff.org/awards/coop.html">&nbsp;Coop. Computing Awards</option>
+<option value="http://www.eff.org/">EFF Home</option>
+<option value="http://www.eff.org/alerts/">Action Alerts</option>
+<option value="http://www.eff.org/news/">Recent News/Releases</option>
+<option value="http://www.eff.org/media/">EFF in the Media</option>
+<option value="http://www.eff.org/support/">Join EFF</option>
+<option value="http://www.eff.org/abouteff.html">About EFF</option>
+<option value="http://www.eff.org/Legal/active_legal.html">Active Legal Cases</option>
+<option value="http://www.eff.org/effector/">EFFector Newsletter</option>
+<option value="http://www.eff.org/contact/">Contact Staff/Board</option>
+<option value="http://www.eff.org/radioeff/">Radio EFF (MP3s)</option>
+<option value="http://www.eff.org/awards/pioneer.html">Pioneer Awards</option>
 
-<option value="http://www.eff.org/hot.html">HOT TOPICS:</option>
-<option value="http://www.eff.org/pub/Intellectual_property/Video">&nbsp;DVD cases</option>
-<option value="http://www.eff.org/pub/Legal/Cases/Bernstein_v_DoJ">&nbsp;Bernstein crypto case</option>
+<option value="http://www.eff.org/focus.html">----- FOCUSES: -----</option>
+
+<option value="http://www.eff.org/Legal/Cases/Felten_v_RIAA/">Scientific Freedom</option>
+<option value="http://www.eff.org/Censorship/Censorware/">Blocking/Censorware</option>
+<option value="http://www.eff.org/Privacy/Marketing/">Marketing Privacy</option>
+
+<option value="http://www.eff.org/campaigns.html">---- CAMPAIGNS: ----</option>
+<option value="http://www.eff.org/br/">Online Free Speech</option>
+<option value="http://www.eff.org/cafe/">Audivisual Freedom</option>
+<option value="http://www.eff.org/privnow/">Internet Privacy</option>
+
+<option value="http://www.eff.org/archive.html">----- TOPICS: ------</option>
+<option value="http://www.eff.org/archive.html">Topics Index</option>
+
+ <option value="http://www.eff.org/Activism/">&nbsp;Activism/Govt.</option>
+  <option value="http://www.eff.org/alerts/">&nbsp;&nbsp;Action Alerts</option>
+ <option value="http://www.eff.org/Censorship/">&nbsp;Censorship/Free Speech</option>
+  <option value="http://www.eff.org/Censorship/Censorware/">&nbsp;&nbsp;Blocking/Censorware</option>
+  <option value="http://www.eff.org/Censorship/Internet_censorship_bills/">&nbsp;&nbsp;Net Censorship Bills</option>
+  <option value="http://www.eff.org/Privacy/Anonymity/">&nbsp;&nbsp;Anonymity</option>
+ <option value="http://www.eff.org/Privacy/">&nbsp;Privacy/Security</option>
+  <option value="http://www.eff.org/Privacy/Marketing/">&nbsp;&nbsp;Marketing/Profiling</option>
+  <option value="http://www.eff.org/Privacy/Anonymity/">&nbsp;&nbsp;Anonymity</option>
+ <option value="http://www.eff.org/Infrastructure/">&nbsp;Net Infrastructure</option>
+ <option value="http://www.eff.org/Infrastructure/DNS_control">&nbsp;&nbsp;DNS/ICANN</option>
+ <option value="http://www.eff.org/IP/">&nbsp;Int. Property/Fair Use</option>
+  <option value="http://www.eff.org/IP/DMCA/">&nbsp;&nbsp;DMCA</option>
+  <option value="http://www.eff.org/IP/Video/">&nbsp;&nbsp;DVD Cases</option>
+  <option value="http://www.eff.org/Legal/Cases/Felten_v_RIAA/">&nbsp;&nbsp;Felten v. RIAA Case</option>
+  <option value="http://www.eff.org/IP/DRM/SDMI/">&nbsp;&nbsp;SDMI</option>
+  <option value="http://www.eff.org/IP/DRM/">&nbsp;&nbsp;DRM Systems</option>
+ <option value="http://www.eff.org/Spam_cybersquatting_abuse/">&nbsp;Spam/Net Abuse</option>
+ <option value="http://www.eff.org/Net_culture/">&nbsp;Net Culture/Community</option>
+ <option value="http://www.eff.org/Misc/">&nbsp;Miscellaneous</option>
+
+
+
 </select></span>
-&nbsp;<input type="submit" value="Go" class="BODYCOPY">
+
+&nbsp;<input type="submit" value="Go" class="BODYCOPY-BLK">
 
 </form>
 
@@ -536,28 +568,38 @@ box. -->
   
 <!-- SEARCH/BROWSE BAR (BOTTOM) -->
 		
-  <!-- TABLE ENCLOSING SEARCH/BROWSE TO ALLOW FOR ALIGNMENT -->
+<!-- TABLE ENCLOSING SEARCH/BROWSE TO ALLOW FOR ALIGNMENT -->
 
-	<table border="0" bordercolor="GREEN" cellpadding="0" cellspacing="0" width="575" name="S2" summary="layout table to position bottom search/browse menu">
+	<table border="0" bordercolor="GREEN" cellpadding="1" cellspacing="0" width="100%" name="S1" summary="layout table to position top
+        search/browse menu" bgcolor="#CCCCCC">
 
-	<tbody><tr align="RIGHT" name="S2-1">
-	<td bgcolor="#CCCCCC" valign="MIDDLE" align="CENTER">
+	<tbody><tr name="S1-1">
+	<td valign="MIDDLE" align="CENTER">
 
 
-<form name="search2" method="GET" action="/cgi-bin/search/form_processor.cgi">
- <a href="/search.html" title="Advanced Search &amp; Search Help"><b class="SERIFMD">Search:</b></a>&nbsp;<input type="text" name="words" size="10">&nbsp;<input type="submit" value="Go" class="BODYCOPY"> 
+<form name="search3" method="POST" action="/cgi-bin/htsearch">
+<input type="hidden" name="method" value="and">
+<input type="hidden" name="format" value="builtin-long">
+<input type="hidden" name="config" value="htdig">
+<input type="hidden" name="restrict" value="">
+<input type="hidden" name="exclude" value="">
+
+<a href="/search.html" name="topsearch" title="Advanced Search &amp; Search Help"><b class="SUBHEAD"><font color="#000000" class="BLK">Search:</font></b></a>&nbsp;<input type="text" name="words" size="10">&nbsp;<input type="submit" value="Go" class="BODYCOPY-BLK">&nbsp;
 </form>
 
 	</td>
+
+	<td><img src="/images/clear.gif" height="1" width="5" alt="" border="0">
+	</td>
 	
-	<td bgcolor="#CCCCCC" valign="MIDDLE" align="CENTER">
+	<td valign="MIDDLE" align="CENTER">
 
 <form name="dropdown2" method="GET" action="/cgi-bin/formproc/formproc.cgi">
 <input type="HIDDEN" name="setup_file" value="browse.setup.cgi">
 
-<script type="text/javascript" defer="YES">
+<script type="text/javascript" language="JavaScript" defer="DEFER">
 <!--
-function ralPh2() {
+function autofire2() {
 window.name="thisonehere";
 var subScript = document.dropdown2.choices.selectedIndex;
 var newWindow = document.dropdown2.choices.options[subScript].value;
@@ -566,50 +608,72 @@ window.open(newWindow, "thisonehere");
 // -->
 </script>
 
- <b class="SERIFMD">Browse:</b>&nbsp;&nbsp;<span class="BODYCOPY"><select name="choices" onchange="ralPh2();">
+
+<span class="BODYCOPY-BLK"><select name="choices" onchange="autofire2();">
 		
-<option value="" selected="">CHOOSE FROM MENU:</option>
-<option value="http://www.eff.org/">&nbsp;EFF Home</option>
-<option value="http://www.eff.org/news/">&nbsp;Recent News</option>
-<option value="https://www.eff.org/support/joineff.html">&nbsp;Join EFF</option>
-<option value="http://www.eff.org/abouteff.html">&nbsp;About EFF</option>
-<option value="http://www.eff.org/freespeech.html">&nbsp;Free Expression</option>
-<option value="http://www.eff.org/identity.html">&nbsp;Digital Identity</option>
-<option value="http://www.eff.org/buildin.html">&nbsp;Building People In</option>
-<option value="http://www.eff.org/members">&nbsp;Member Services</option>
-<option value="http://www.eff.org/actioncenter.html">GET INVOLVED:</option>
-<option value="http://www.eff.org/support">&nbsp;Support EFF</option>
-<option value="http://www.eff.org/br">&nbsp;Blue Ribbon</option>
-<option value="http://www.eff.org/cafe">&nbsp;CAFE</option>
-<option value="http://www.eff.org/radioeff.html">&nbsp;Radio EFF</option>
-<option value="http://www.eff.org/effector">&nbsp;EFFector Newsletter</option>
-<option value="http://www.eff.org/archive.html">EFF ARCHIVE:</option>
+<option value="http://www.eff.org/archive.html" selected="">Browse Topics...</option>
 
-<option value="http://www.eff.org/pub/Activism">&nbsp;Activism &amp; Govt.</option>
-<option value="http://www.eff.org/pub/Censorship">&nbsp;Censorship/Free Speech</option>
-<option value="http://www.eff.org/pub/Privacy">&nbsp;Privacy/Encryption</option>
-<option value="http://www.eff.org/pub/Infrastructure">&nbsp;Info. Infrastructure</option>
-<option value="http://www.eff.org/pub/Intellectual_property">&nbsp;Int. Property/Fair Use</option>
-<option value="http://www.eff.org/pub/Spam_cybersquatting_abuse">&nbsp;Spamming/Net Abuse</option>
-<option value="http://www.eff.org/pub/Net_culture">&nbsp;Net Culture/Community</option>
-<option value="http://www.eff.org/pub/Misc">&nbsp;Miscellaneous</option>
+<option value="http://www.eff.org/">---- TOP LEVEL: ----</option>
 
-<option value="http://www.eff.org/awards/index.html">AWARDS:</option>
-<option value="http://www.eff.org/awards/pioneer.html">&nbsp;Pioneer Awards</option>
-<option value="http://www.eff.org/awards/coop.html">&nbsp;Coop. Computing Awards</option>
+<option value="http://www.eff.org/">EFF Home</option>
+<option value="http://www.eff.org/alerts/">Action Alerts</option>
+<option value="http://www.eff.org/news/">Recent News/Releases</option>
+<option value="http://www.eff.org/media/">EFF in the Media</option>
+<option value="http://www.eff.org/support/">Join/Donate</option>
+<option value="http://www.eff.org/abouteff.html">About EFF</option>
+<option value="http://www.eff.org/Legal/active_legal.html">Active Legal Cases</option>
+<option value="http://www.eff.org/effector/">EFFector Newsletter</option>
+<option value="http://www.eff.org/contact/">Contact Staff/Board</option>
+<option value="http://www.eff.org/radioeff/">Radio EFF (MP3s)</option>
+<option value="http://www.eff.org/awards/pioneer.html">Pioneer Awards</option>
 
-<option value="http://www.eff.org/hot.html">HOT TOPICS:</option>
-<option value="http://www.eff.org/pub/Intellectual_property/Video">&nbsp;DVD cases</option>
-<option value="http://www.eff.org/pub/Legal/Cases/Bernstein_v_DoJ">&nbsp;Bernstein crypto case</option>
+
+<option value="http://www.eff.org/focus.html">----- FOCUSES: -----</option>
+
+<option value="http://www.eff.org/Legal/Cases/Felten_v_RIAA/">Scientific Freedom</option>
+<option value="http://www.eff.org/Censorship/Censorware/">Blocking/Censorware</option>
+<option value="http://www.eff.org/Privacy/Marketing/">Marketing Privacy</option>
+
+<option value="http://www.eff.org/campaigns.html">---- CAMPAIGNS: ----</option>
+<option value="http://www.eff.org/br/">Online Free Speech</option>
+<option value="http://www.eff.org/cafe/">Audivisual Freedom</option>
+<option value="http://www.eff.org/privnow/">Internet Privacy</option>
+
+<option value="http://www.eff.org/archive.html">----- TOPICS: ------</option>
+<option value="http://www.eff.org/archive.html">Topics Index</option>
+
+ <option value="http://www.eff.org/Activism/">&nbsp;Activism/Govt.</option>
+  <option value="http://www.eff.org/alerts/">&nbsp;&nbsp;Action Alerts</option>
+ <option value="http://www.eff.org/Censorship/">&nbsp;Censorship/Free Speech</option>
+  <option value="http://www.eff.org/Censorship/Censorware/">&nbsp;&nbsp;Blocking/Censorware</option>
+  <option value="http://www.eff.org/Censorship/Internet_censorship_bills/">&nbsp;&nbsp;Net Censorship Bills</option>
+  <option value="http://www.eff.org/Privacy/Anonymity/">&nbsp;&nbsp;Anonymity</option>
+ <option value="http://www.eff.org/Privacy/">&nbsp;Privacy/Security</option>
+  <option value="http://www.eff.org/Privacy/Marketing/">&nbsp;&nbsp;Marketing/Profiling</option>
+  <option value="http://www.eff.org/Privacy/Anonymity/">&nbsp;&nbsp;Anonymity</option>
+ <option value="http://www.eff.org/Infrastructure/">&nbsp;Net Infrastructure</option>
+ <option value="http://www.eff.org/Infrastructure/DNS_control">&nbsp;&nbsp;DNS/ICANN</option>
+ <option value="http://www.eff.org/IP/">&nbsp;Int. Property/Fair Use</option>
+  <option value="http://www.eff.org/IP/DMCA/">&nbsp;&nbsp;DMCA</option>
+  <option value="http://www.eff.org/IP/Video/">&nbsp;&nbsp;DVD Cases</option>
+  <option value="http://www.eff.org/Legal/Cases/Felten_v_RIAA/">&nbsp;&nbsp;Felten v. RIAA Case</option>
+  <option value="http://www.eff.org/IP/DRM/SDMI/">&nbsp;&nbsp;SDMI</option>
+  <option value="http://www.eff.org/IP/DRM/">&nbsp;&nbsp;DRM Systems</option>
+ <option value="http://www.eff.org/Spam_cybersquatting_abuse/">&nbsp;Spam/Net Abuse</option>
+ <option value="http://www.eff.org/Net_culture/">&nbsp;Net Culture/Community</option>
+ <option value="http://www.eff.org/Misc/">&nbsp;Miscellaneous</option>
+
+
+
 </select></span>
-&nbsp;<input type="submit" value="Go" class="BODYCOPY">
+
+&nbsp;<input type="submit" value="Go" class="BODYCOPY-BLK">
 
 </form>
 
 </td>
-</tr>	<!-- END TABLE "S2" ROW 1 -->
-	</tbody></table>    <!-- END TABLE "S2" -->
-
+</tr>	<!-- END TABLE "S1" ROW 1 -->
+	</tbody></table>    <!-- END TABLE "S1" -->
 
 
 <!-- END SEARCH/BROWSE BAR -->
