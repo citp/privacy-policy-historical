@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622090356id_/http%3A//quest.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2004-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041027074021id_/http%3A//quest.com/privacy.asp) for the most accurate reproduction.*
 
 # Quest Software Copyright and Trademarks
 
