@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uta.edu privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622080818id_/http%3A//uta.edu/uta/wwwteam/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uta.edu privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210094045id_/http%3A//www.uta.edu/uta/wwwteam/privacy) for the most accurate reproduction.*
 
 # UT Arlington Internet Privacy Policy
 
@@ -9,7 +9,7 @@ You may be entitled to know what information UT Arlington (UTA) collects concern
 The University of Texas at Arlington, 701 South Nedderman Drive, Arlington, TX, 76019, USA, makes the following statement in regards to information gathering and dissemination practices for its web site: [www.uta.edu](http://www.uta.edu/).
 
 **Platform for Privacy Preferences - P3P**  
-This information is also available in [computer-readable](https://web.archive.org/web/20040622080818id_/http%3A//uta.edu/uta/wwwteam/p3p.xml) format which complies with the specifications set forth by the [P3P](http://www.w3.org/TR/P3P/) group at the World Wide Web Consortium.
+This information is also available in [computer-readable](https://web.archive.org/web/20041210094045id_/http%3A//www.uta.edu/uta/wwwteam/p3p.xml) format which complies with the specifications set forth by the [P3P](http://www.w3.org/TR/P3P/) group at the World Wide Web Consortium.
 
 **Information Automatically Logged**  
 Server logs - Server logs are studied for two reasons:
