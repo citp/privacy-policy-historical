@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamepro.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209090514id_/http%3A//gamepro.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepro.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610185902id_/http%3A//gamepro.com/legal/privacy.shtml) for the most accurate reproduction.*
 
-# GamePro.com / Privacy Statement
+# Privacy Statement - GamePro.com
 
 GamePro.com has created this privacy statement in order to demonstrate our firm commitment to the confidentiality of user data. GamePro.com is an online information portal for multiplatform gaming enthusiasts and is a business unit of the IDG Entertainment. The following discloses our information gathering and dissemination practices for these sites. The purpose of this information is to answer the following questions: 
 
