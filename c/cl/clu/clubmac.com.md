@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubmac.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603162429id_/http%3A//www.clubmac.com/clubmac/information/cm3privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmac.com privacy policy that was archived on 2004-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041119095623id_/http%3A//www.clubmac.com/clubmac/information/cm3privacy.asp) for the most accurate reproduction.*
 
 # ClubMac - The Online Mac Catalog
 
