@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the whatuseek.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621104420id_/http%3A//www.whatuseek.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatuseek.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602021048id_/http%3A//www.whatuseek.com/privacy.shtml) for the most accurate reproduction.*
 
-# a new way to search | whatUseek.com
+# The whatUseek Network - Terms of Use
 
-**PRIVACY POLICY FOR WHATUSEEK, CORP.**
+  
+**whatUseek Privacy Policy**
 
-whatUseek and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. whatUseek works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
+whatUseek and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. whatUseek works with a third party that serves ads to this site. This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy.
 
 **Consumer Information**
 
