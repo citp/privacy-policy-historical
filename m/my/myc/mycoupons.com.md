@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217235808id_/http%3A//www.mycoupons.com/page_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602143317id_/http%3A//www.mycoupons.com/page_privacy.html) for the most accurate reproduction.*
 
 # MyCoupons - Coupons, Sales, and much more!
 
 **TRUSTe Certification**[](https://www.truste.org/validate/4032)
 
-DirectStuff.com, Inc., the owner of MyCoupons™ and DirectCoupons, is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. Questions regarding this statement should be directed to MyCoupons™ or DirectCoupons - [office@directstuff.com](https://web.archive.org/web/20011217235808id_/http%3A//www.mycoupons.com/office@directstuff.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+DirectStuff.com, Inc., the owner of MyCoupons™ and DirectCoupons, is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. Questions regarding this statement should be directed to MyCoupons™ or DirectCoupons - [office@directstuff.com](https://web.archive.org/web/20020602143317id_/http%3A//www.mycoupons.com/office@directstuff.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because we at DirectStuff.com, Inc. want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
 
@@ -16,7 +16,7 @@ TRUSTe is an independent, non-profit initiative whose mission is to build users'
 
 
 **How Data is Collected:**  
-Signing up for the MyCoupons™ provides DirectStuff.com, Inc with your name, email address, gender, and zip code. Our method of collection is through our register page (http://www.mycoupons.com/signup/signup.php). After a subscriber enters his/her name, email address, year of birth, gender, and zip code, data is transfered to our server and an email account is setup. We forward to Critical Path (our email service provider, the username/ passcode for the new account) 
+Signing up for the MyCoupons™ provides DirectStuff.com, Inc with your name, email address, gender, and zip code. Our method of collection is through our register page (http://www.MyCoupons™/signup/signup.php). After a subscriber enters his/her name, email address, year of birth, gender, and zip code, data is transfered to our server and an email account is setup. We forward to Critical Path (our email service provider, the username/ passcode for the new account) 
 
 **How the Information is used:**  
 MyCoupons™ free email account allows you to forward email received from your MyCoupons™ address to any existing email account of your choosing. It also allows you to simply read and send email from the web browser. We do not read users email. We offer highest level of privacy offered by the Critical Path software/system to protect the users data. We only email your MyCoupons™ email box, unless we find a problem with your account, then we will email your regular email address. The other demographical data is used only to profile our general user base, and not to market to accordingly. 
@@ -52,10 +52,10 @@ To Change user information, a subscriber only needs to send their request via ou
 [office@directstuff.com](mailto:office@directstuff.com)
 
 **The Site Opt-Out Policy**  
-Subscribers can opt-out at any time for MyCoupons™. Subscribers of MyCoupons™ Free Email can email [office@directstuff.com](https://web.archive.org/web/20011217235808id_/http%3A//www.mycoupons.com/office@directstuff.com) and ask to have the account removed immediately, or, the account will be automatically removed after 180 days of non-activity. Or By: 
+Subscribers can opt-out at any time for MyCoupons™. Subscribers of MyCoupons™ Free Email can email [office@directstuff.com](https://web.archive.org/web/20020602143317id_/http%3A//www.mycoupons.com/office@directstuff.com) and ask to have the account removed immediately, or, the account will be automatically removed after 180 days of non-activity. Or By: 
 
 412-921-6881  
-[office@directstuff.com](https://web.archive.org/web/20011217235808id_/http%3A//www.mycoupons.com/office@directstuff.com)
+[office@directstuff.com](https://web.archive.org/web/20020602143317id_/http%3A//www.mycoupons.com/office@directstuff.com)
 
 If you opt-in for a newsletter listed on the signup form of MyCoupons™, and you try to opt out of the newsletter that you opt in for while signing up for MyCoupons™, in some cases you may have to confirm your opt out (for example, DirectFreebies is one). 
 
@@ -73,3 +73,10 @@ We link to may other sites from MyCoupons™ Our site is a list of coupons and f
 
 **Third Party Advertising Networks**  
 This site, MyCoupons™, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy. 
+
+**Privacy of Information**  
+It is DirectStuff.com / MyCoupons™'s policy to respect the privacy of its Users. DirectStuff.com / MyCoupons™ does not censor or control the contents of its Users’ email messages. You alone are responsible for the contents of your messages, and the consequences of any such messages. As owner of the equipment and other resources used in providing the DirectStuff.com / MyCoupons™ Service, DirectStuff.com / MyCoupons™ and its suppliers reserve the right to employ blocking or filtering software or other monitoring devices or techniques if deemed necessary or reasonable to detect and/or protect itself from spam with respect to electronic communications received by Users from other persons or entities. 
+
+DirectStuff.com / MyCoupons™ will cooperate with law enforcement and other legal authorities in investigating claims of illegal activity and to report to law enforcement officials any suspected illegal activity. 
+
+DirectStuff.com / MyCoupons™ will not release any personally-identifiable information regarding its Users to any third party except to the extent necessary or appropriate to cooperate with such law enforcement or other legal authorities, to comply with applicable laws or regulations or in legal or administrative proceedings where such information is relevant, according to the selected options of service listed on the signup page, or to properly provide the DirectStuff.com / MyCoupons™ Service, operate or maintain its systems or protect itself or its customers. DirectStuff.com / MyCoupons™ is not responsible for the privacy of your IP address, or any identifying data that you provide to the public through our DirectStuff.com / MyCoupons™ shopping forum profiles, the auctions, classifieds, or free website. You agree that DirectStuff.com / MyCoupons™'s judgment as to the validity of any court order or government directive to disclose information shall be considered proper and final. DirectStuff.com / MyCoupons™ reserves the right to terminate any User's account if DirectStuff.com / MyCoupons™ learns that such User has provided DirectStuff.com / MyCoupons™ false or misleading registration information. If you select one of the check boxes for additional offers to be sent to you, DirectStuff.com / MyCoupons™ will share your name, DirectStuff.com / MyCoupons™ email address, gender, and zip code with the sites that you select. 
