@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loverboysusa.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019195200id_/http%3A//www.loverboysusa.com/cfnm-strippers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loverboysusa.com privacy policy that was archived on 2005-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050322095025id_/http%3A//www.loverboysusa.com/cfnm-strippers/privacy) for the most accurate reproduction.*
 
 # CFNM and the international male stripper LoverBoysUSA
 
