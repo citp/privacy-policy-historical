@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218110800id_/http%3A//www.wtamu.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603162415id_/http%3A//www.wtamu.edu/privacy.htm) for the most accurate reproduction.*
 
 # www.wtamu.edu - Welcome to West Texas A&M University
 
-[](https://web.archive.org/web/20001218110800id_/http%3A//www.wtamu.edu/alumni_friends.htm)   
-[](http://www.wtamu.edu/administrative/vpa/em/prospect.htm)
-
-[](https://web.archive.org/web/20001218110800id_/http%3A//www.wtamu.edu/academic/)   
-[](https://web.archive.org/web/20001218110800id_/http%3A//www.wtamu.edu/administrative/pre/aa/)   
-[](https://web.archive.org/web/20001218110800id_/http%3A//www.wtamu.edu/geninfo.htm)   
-[](https://web.archive.org/web/20001218110800id_/http%3A//www.wtamu.edu/museum)   
-[](https://web.archive.org/web/20001218110800id_/http%3A//www.wtamu.edu/news.htm)   
-[](https://web.archive.org/web/20001218110800id_/http%3A//www.wtamu.edu/research.htm)   
-[](https://web.archive.org/web/20001218110800id_/http%3A//www.wtamu.edu/administrative/ss/)
-
-|           West Texas A&M University has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.wtamu.edu](http://www.wtamu.edu/). 
+     |             West Texas A&M University has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.wtamu.edu](http://www.wtamu.edu/). 
 
           We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
 
@@ -41,4 +30,5 @@ Canyon, Texas 79016-0001 
 
 West Texas A&M University Office of Web Support  
 E-Mail: [webmaster@mail.wtamu.edu](mailto:webmaster@mail.wtamu.edu)  
-All contents copyright (C) 1999, WTAMU. All rights reserved.This page last updated: 3 July 2000
+All contents copyright (C) 1999, WTAMU. All rights reserved.This page last updated: 3 July 2000  
+---|---
