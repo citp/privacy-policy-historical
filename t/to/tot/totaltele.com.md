@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaltele.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406033607id_/http%3A//www.totaltele.com/info/default.asp%3FInfoID%3D730) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltele.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806222639id_/http%3A//www.totaltele.com/info/default.asp%3FInfoID%3D730) for the most accurate reproduction.*
 
 # TotalTelecom - Information
 
