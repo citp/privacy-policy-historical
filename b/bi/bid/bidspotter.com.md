@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidspotter.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211110835id_/http%3A//www.bidspotter.com/html/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidspotter.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624215207id_/http%3A//bidspotter.com/html/privacy.php3) for the most accurate reproduction.*
 
 # BidSpotter, Inc Privacy Policy
 
