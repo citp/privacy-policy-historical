@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215130527id_/http%3A//www.neutrogena.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608113344id_/http%3A//neutrogena.com/Privacy.asp) for the most accurate reproduction.*
 
 # Neutrogena: privacy notice
 
@@ -66,7 +66,7 @@ This site may contain links or references to other Web sites. Please be aware th
 
 ### Other Terms
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20021215130527id_/http%3A//www.neutrogena.com/Legal.asp). 
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20030608113344id_/http%3A//neutrogena.com/Legal.asp). 
 
 ### How to Contact Us
 
