@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegolfchannel.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215153909id_/http%3A//www.thegolfchannel.com/core.asp%3Fpage%3D15100%26select%3D1297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegolfchannel.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207195957id_/http%3A//www.thegolfchannel.com/core.asp%3Fpage%3D15100%26select%3D1297) for the most accurate reproduction.*
 
 # The Golf Channel - The Golf Channel - PGA, LPGA, Senior PGA, European Tour, Buy.com, Canadian Tour &
 
