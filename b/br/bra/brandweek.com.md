@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brandweek.com privacy policy that was archived on 2000-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000410122148id_/http%3A//www.brandweek.com/mast/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandweek.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206151800id_/http%3A//brandweek.com/mast/privacy.asp) for the most accurate reproduction.*
 
 # Adweek Online
 
-[](http://216.206.68.72/inc/adredir.asp?ciid=280&url=http://www.upside.com/)
+[ ](http://van.ads.link4ads.com/bin/wadredir?req=clickthru&siteid=62777&pageid=1.1&time=code_here)
 
 **ADWEEK ONLINE Privacy Policy:**
 
@@ -47,7 +47,7 @@ QUESTIONS?
 
 [We welcome your questions and/or comments. Please send all queries to ](mailto:webmaster@ADWEEKonline.com)[webmaster@adweek.com.](mailto:webmaster@ADWEEKonline.com)
 
-[ [](http://216.206.68.72/inc/adredir.asp?ciid=248&url=http://www.fillboard.com) ](mailto:webmaster@ADWEEKonline.com)[
+[ Insertion Order for Adweek-AnchorBannersROS(Bonus)-468x60: 807-918-1966-1  [](http://adfarm.mediaplex.com/ad/ck/807-918-1966-1?mpt=360973706635891) ](mailto:webmaster@ADWEEKonline.com)[
 
 * * *
 
