@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hkpro.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214151117id_/http%3A//www.hkpro.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hkpro.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610042147id_/http%3A//www.hkpro.com/privacy.htm) for the most accurate reproduction.*
 
 # HKPRO: PRIVACY STATEMENT
 
