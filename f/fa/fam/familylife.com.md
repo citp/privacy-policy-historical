@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602192857id_/http%3A//www.familylife.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201215731id_/http%3A//familylife.com/about/privacy.asp) for the most accurate reproduction.*
 
 # About FamilyLife: Privacy Statement - FamilyLife - Strengthening families, marriages and relationships
 
@@ -33,4 +33,4 @@ This site gives users the following options for removing their information from 
 **Correct/Update** |    
 This site gives users the following options for changing and modifying information previously provided. Simply call us at 1-800-FLTODAY.   
 **Contacting the Web Site** |    
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact FamilyLife ATTN: Marketing & Communications 3900 N. Rodney Parham Rd. Little Rock, AR 72212 1-800-FLTODAY [E-Mail FamilyLife](https://web.archive.org/web/20010602192857id_/http%3A//www.familylife.com/about/contact.asp)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact FamilyLife ATTN: Marketing & Communications 3900 N. Rodney Parham Rd. Little Rock, AR 72212 1-800-FLTODAY [E-Mail FamilyLife](https://web.archive.org/web/20011201215731id_/http%3A//familylife.com/about/contact.asp)
