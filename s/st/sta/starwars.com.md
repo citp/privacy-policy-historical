@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604122733id_/http%3A//www.starwars.com/site/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203223625id_/http%3A//starwars.com/site/privacy_policy.html) for the most accurate reproduction.*
 
 # Star Wars: Site Info | Privacy Policy
 
@@ -13,6 +13,8 @@
 
 
 | 
+
+**Lucas Online**
 
 WELCOME! 
 
