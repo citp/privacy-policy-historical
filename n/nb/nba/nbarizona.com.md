@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbarizona.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054124id_/http%3A//nbarizona.com/About_NBA/Privacy_Statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbarizona.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401113418id_/http%3A//www.nbarizona.com/About_NBA/Privacy_Statement/index.html) for the most accurate reproduction.*
 
 # About National Bank of Arizona Privacy Statement
 
