@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyinvesting.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608084903id_/http%3A//www.propertyinvesting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyinvesting.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208224828id_/http%3A//www.propertyinvesting.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PropertyInvesting.com
 
@@ -68,5 +68,5 @@ PropertyInvesting.com may edit this policy from time to time. If we make any sub
 
 If you have questions or suggestions then please e-mail us at [admin@propertyinvesting.com](mailto:admin@propertyinvesting.com). 
 
-This article reproduced from http://propertyinvesting.com/privacy.html with permission.  
+This article reproduced from http://www.propertyinvesting.com/privacy.html with permission.  
 © Copyright 2001-2004. PropertyInvesting.com Pty Ltd. All rights reserved. 
