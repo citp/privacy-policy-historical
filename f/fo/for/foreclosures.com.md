@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosures.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204032220id_/http%3A//www.foreclosures.com/pages/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosures.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308130931id_/http%3A//www.foreclosures.com/pages/privacy_policy.asp) for the most accurate reproduction.*
 
 # Foreclosures.com - The Foreclosure Experts
 
@@ -15,7 +15,7 @@ We acquire information about our users for many purposes.  Below is a descripti
 >  Users of the Foreclosure Forum Message Boards must register in order to post messages, although they needn't register to visit the site. During registration the user **is required** to supply a username, password, and email address. 
 > 
 > **_Ordering Products & Services_**  
->  Foreclosures.com order forms require a **customer's name, address, phone number, e-mail, and credit card information**. Once this information is collected, it is used only for the purpose of processing (and technical support if applicable) for this order. Our order forms all reside on a secure server with 128 bit encryption. If a user does not feel comfortable with this method of payment, **we also accept orders via phone, fax, and US Mail**. [[How to contact us](https://web.archive.org/web/20041204032220id_/http%3A//www.foreclosures.com/pages/contact_information.asp)] 
+>  Foreclosures.com order forms require a **customer's name, address, phone number, e-mail, and credit card information**. Once this information is collected, it is used only for the purpose of processing (and technical support if applicable) for this order. Our order forms all reside on a secure server with 128 bit encryption. If a user does not feel comfortable with this method of payment, **we also accept orders via phone, fax, and US Mail**. [[How to contact us](https://web.archive.org/web/20050308130931id_/http%3A//www.foreclosures.com/pages/contact_information.asp)] 
 > 
 > **_Usage Tracking_**  
 >  Foreclosures.com tracks user traffic patterns throughout our site. We do not, however, correlate this information with data about individual users.  
