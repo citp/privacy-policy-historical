@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizland.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603141735id_/http%3A//www.bizland.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizland.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201214128id_/http%3A//www.bizland.com/about/privacy.html) for the most accurate reproduction.*
 
-# Welcome to BizLand.com
+# BizLand Privacy Statement
 
 At BizLand, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better member service and at times, bring you value-added offers from our partners.
 
