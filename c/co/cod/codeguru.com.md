@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeguru.com privacy policy that was archived on 1999-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991103001008id_/http%3A//www.earthweb.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeguru.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613184429id_/http%3A//www.earthweb.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # EarthWeb's Privacy Statement
 
