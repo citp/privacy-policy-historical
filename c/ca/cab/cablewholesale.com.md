@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605192324id_/http%3A//cablewholesale.com%3Fbody%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204124547id_/http%3A//cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.*
 
 # video splitter,cat 5 cable,computer cable,switch box,vga splitter,usb cable,usb adaptor, custom cable,category 5 cable,network cable,cat 5 cable,kvm switch,svga cable,usb converter,cooling fan
 
-[ [Privacy](https://web.archive.org/?body=Privacy) ] [ [Help / FAQ](https://web.archive.org/?section=Support&body=FAQ) ] [ [Support](https://web.archive.org/?section=Support) ] [ [Hot Deals](https://web.archive.org/catalog/hotdeals.htm) ] [ [Contact Us](https://web.archive.org/?body=Contact) ]    
+[ [Privacy](https://web.archive.org/index.php?body=Privacy) ] [ [Help / FAQ](https://web.archive.org/index.php?section=Support&body=FAQ) ] [ [Support](https://web.archive.org/index.php?section=Support) ] [ [Hot Deals](https://web.archive.org/catalog/hotdeals.htm) ] [ [New Products](https://web.archive.org/index.php?body=New%20Products) ] [ [Contact Us](https://web.archive.org/index.php?body=Contact) ]    
 [](https://web.archive.org/) |  | Items in Cart: | 0  
 ---|---  
 Sub-Total: | $0.00  
   
- [Home](https://web.archive.org/) >> [Privacy](https://web.archive.org/?section=&body=Privacy)  
+ [Home](https://web.archive.org/index.php) >> [Privacy](https://web.archive.org/index.php?section=&body=Privacy)  
   
 Search  
 
@@ -39,6 +39,6 @@ Postal Code:
    
   
   
-[ [Terms & Conditions](https://web.archive.org/?body=Terms) ] [ [Employment](https://web.archive.org/?body=Employment) ] [ [About Us](https://web.archive.org/?body=About%20Us) ] [ [OEM](https://web.archive.org/?body=OEM) ]   
-[ [© Copyright CableWholesale.com / National Technology](https://web.archive.org/?body=Copyright) ]   
-_Last Updated: June 3, 2004_
+[ [Terms & Conditions](https://web.archive.org/index.php?body=Terms) ] [ [Employment](https://web.archive.org/index.php?body=Employment) ] [ [About Us](https://web.archive.org/index.php?body=About%20Us) ] [ [OEM](https://web.archive.org/index.php?body=OEM) ]   
+[ [© Copyright CableWholesale.com / National Technology](https://web.archive.org/index.php?body=Copyright) ]   
+_Last Updated: December 3, 2004_
