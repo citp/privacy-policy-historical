@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalspy.co.uk privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606035003id_/http%3A//www.digitalspy.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalspy.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204051832id_/http%3A//www.digitalspy.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Digital Spy -
+# Digital Spy: Privacy Policy
 
 This privacy policy is applicable to any personal information which is given by You to Digital Spy ("User Information") via the web site located at www.digitalspy.co.uk and all its related domains ("the Digital Spy Site").
 
