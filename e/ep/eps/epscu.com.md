@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epscu.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029195107id_/http%3A//epscu.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epscu.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408024800id_/http%3A//www.epscu.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
