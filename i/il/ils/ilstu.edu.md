@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilstu.edu privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013185515id_/http%3A//www.ilstu.edu/home/privacy/web_privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilstu.edu privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404022459id_/http%3A//www.ilstu.edu/home/privacy/web_privacy_notice.pdf) for the most accurate reproduction.*
 
 # Web Privacy Notice and Practices
 
