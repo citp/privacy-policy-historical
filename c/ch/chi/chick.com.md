@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210023739id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604041157id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -28,6 +28,7 @@
 • [Comics](https://web.archive.org/catalog/comiclist.asp)  
 • [Poster](https://web.archive.org/catalog/posters/poster.asp)  
 • [Videos](https://web.archive.org/catalog/videolist.asp)  
+• [DVDs](https://web.archive.org/catalog/dvdlist.asp)  
 • [Assortments](https://web.archive.org/catalog/assortmentlist.asp)
 
 **INFORMATION**
