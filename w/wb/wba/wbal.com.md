@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2002-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020228040840id_/http%3A//wbal.com/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004171944id_/http%3A//www.wbal.com/about/privacy_policy.asp) for the most accurate reproduction.*
 
-# WBAL Radio - Internet Privacy Policy
+# WBAL Radio - Privacy Policy
 
-[Home](https://web.archive.org/web/20020228040840id_/http%3A//wbal.com/index.asp) > [About](https://web.archive.org/web/20020228040840id_/http%3A//wbal.com/about/index.asp) > Privacy Policy 
+[Home](https://web.archive.org/) > Privacy Policy  
+  
+---  
+  
+Privacy Policy
 
-WBAL Radio Internet Privacy Policy
-
-WBAL Radio's Internet site, [http://wbal.com](http://wbal.com/), complies with the following Privacy Policy. We can be reached by e-mail at [web@wbal.com](mailto:web@wbal.com).
+WBAL Radio's Internet site, http://wbal.com, complies with the following Privacy Policy. We can be reached by e-mail at web@wbal.com.
 
 This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. In addition, we may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information although it will enable us to relate a user's use of our sites to information that the user has specifically and knowingly provided to us.
 
@@ -18,6 +20,4 @@ Users should be aware that when they voluntarily disclose personal information (
 
 Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.
 
-Users can send e-mail to us at [web@wbal.com](mailto:web@wbal.com) with any further questions.
-
- 
+Users can send e-mail to us at web@wbal.com with any further questions.
