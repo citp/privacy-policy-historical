@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searay.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203052217id_/http%3A//www.searay.com/index.asp%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searay.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606155447id_/http%3A//www.searay.com/index.asp%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
 
-# Sea Ray
+# Sea Ray Privacy Statement
 
 **PRIVACY POLICY**
 
@@ -8,7 +8,7 @@
 Sea Ray Division of Brunswick Corporation, Sea Ray Boats, Inc., and its affiliates collectively "Sea Ray") are sensitive to privacy issues on the Internet. We believe that it is important you know how we treat the information about you that we receive during your visits to our Web site (the “Site”). This policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us so that you may make informed decisions when using our Site. This policy covers this Site only. Our parent company, Brunswick Corporation, and some of our affiliates have their own, possibly different, policies. We encourage you to take the time to read this policy and those of our parent company and any affiliate or third-party website you visit. This privacy policy applies only to online practices and data acquired online. For more information on offline data policies applicable to this Site, please contact Terry Domian, AVALA Marketing Group, 1078 Headquarters Park Drive, Fenton, MO 63026, Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [terryd@avalamarketing.com](mailto:terryd@avalamarketing.com) or Suzi Rice, AVALA Marketing Group, 1078 Headquarters Park Drive, Fenton, MO 63026, Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [suzir@avalamarketing.com](mailto:suzir@avalamarketing.com). You take online privacy seriously, and so does Sea Ray. It is our way of sustaining your trust in Sea Ray and our products and services. 
 
 **Your Consent**  
-We may revise this Privacy Policy from time to time. You are responsible for checking this policy when you visit our Site to review the current policy. By using this Site, you agree to our use of the information we collect about you as set forth in this Privacy Policy. If you do not agree with this policy, you should cease use of this Site immediately. Last update: 12/3/2003. 
+We may revise this Privacy Policy from time to time. You are responsible for checking this policy when you visit our Site to review the current policy. By using this Site, you agree to our use of the information we collect about you as set forth in this Privacy Policy. If you do not agree with this policy, you should cease use of this Site immediately. Last update: 6/6/2004. 
 
 **In General**  
 You may visit this Site without telling us who you are or revealing any personally identifiable information about you. Unless otherwise disclosed during the collection, personally identifiable information that may be collected in connection with visitors to this Site is retained by Sea Ray. We may process or store this personally identifiable information in our U.S. database. 
@@ -30,6 +30,8 @@ Sea Ray does not sell, share, transfer or otherwise disclose personally identif
   * to send you notices and solicitations regarding the Site and the products and services of our businesses and those of our affiliates and business partners;
   * to send brochures and other marketing materials, if requested; and
   * in general, to promote, market, and distribute our various businesses and products, and those of our affiliates and business partners to you. 
+
+
 
 These solicitations may take the form of mailings via U.S. mail or other couriers, telephone calls, e-mail solicitations and other methods of contact. If you do not want to receive these solicitations from us using the personally identifiable information provided by you on this Site, you may specify this during registration where and if indicated, or you may notify Terry Domian, AVALA Marketing Group, 1078 Headquarters Park Drive, Fenton, MO 63026, Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [terryd@avalamarketing.com](mailto:terryd@avalamarketing.com) or Suzi Rice, AVALA Marketing Group, 1078 Headquarters Park Drive, Fenton, MO 63026, Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [suzir@avalamarketing.com](mailto:suzir@avalamarketing.com). 
 
