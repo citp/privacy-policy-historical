@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the booksontape.com privacy policy that was archived on 2002-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602144148id_/http%3A//www.booksontape.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the booksontape.com privacy policy that was archived on 2002-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209025614id_/http%3A//www.booksontape.com/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head>
 <title>Books on Tape® : Privacy Policy</title>
@@ -10,16 +10,18 @@
 
 <style type="text/css">
 .button {
+	/*
 	BACKGROUND-COLOR: #cc0000; 
 	COLOR: #ffffff; 
-	FONT-SIZE: 9pt; 
-	FONT-WEIGHT: bold; 
 	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	*/
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 75%;
 }
 SELECT {
 	MARGIN-TOP: 3px;
 	MARGIN-BOTTOM: -1px;
-	FONT-SIZE: 10pt;
+	FONT-SIZE: 13px;
 	COLOR: #0000cc;
 	FONT-FAMILY: Arial, Helvetica, sans-serif;
 }
@@ -43,6 +45,17 @@ function moveCarat() {
 				} else {
 					if (document.forms[1].password) {
 						document.forms[1].password.focus();
+					}
+				}
+			}
+		}
+		if (document.forms[2]) {
+			if (document.forms[2].username) {
+				if (document.forms[2].username.value == '') {
+					document.forms[2].username.focus();
+				} else {
+					if (document.forms[2].password) {
+						document.forms[2].password.focus();
 					}
 				}
 			}
@@ -92,14 +105,14 @@ function SwitchSites(url) {
 		</td>
 	</tr>
 	<tr align="middle" bgcolor="#0000cc" valign="middle">
-		<td nowrap=""><a href="http://www.booksontape.com/index.cfm"><img alt="Home" border="0" src="/gif/header_home.gif" vspace="3" width="46" height="19"></a><a href="http://www.booksontape.com/search.cfm"><img alt="Search" border="0" src="/gif/header_search.gif" vspace="3" width="48" height="19"></a><a href="http://www.booksontape.com/recommendations.cfm"><img alt="We Recommend" border="0" src="/gif/header_recommendations.gif" vspace="3" width="98" height="19"></a><a href="http://www.booksontape.com/new.cfm"><img alt="New Releases" border="0" src="/gif/header_new.gif" vspace="3" width="85" height="19"></a><a href="http://www.booksontape.com/wishlist.cfm"><img alt="WishList" border="0" src="/gif/header_wishlist.gif" vspace="3" width="57" height="19"></a><a href="http://www.booksontape.com/cart.cfm"><img alt="Order Now/Shopping Cart" border="0" src="/gif/header_ordernow.gif" vspace="3" width="68" height="19"></a><a href="/account/"><img alt="My Account" border="0" src="/gif/header_account.gif" vspace="3" width="74" height="19"></a><a href="http://www.booksontape.com/offers.cfm"><img alt="Specials" border="0" src="/gif/header_offers.gif" vspace="3" width="56" height="19"></a><!--<a href="/help.cfm"><img alt="Help" src="/gif/header_help.gif" border="0" vspace="3" width="42" height="19"></a>--></td>
+		<td nowrap=""><a href="http://www.booksontape.com/index.cfm"><img alt="Home" border="0" src="/gif/header_home.gif" vspace="3" width="46" height="19"></a><a href="http://www.booksontape.com/search.cfm"><img alt="Search" border="0" src="/gif/header_search.gif" vspace="3" width="48" height="19"></a><a href="http://www.booksontape.com/new.cfm"><img alt="New Releases" border="0" src="/gif/header_new.gif" vspace="3" width="85" height="19"></a><a href="http://www.booksontape.com/managers.cfm"><img alt="Specials" border="0" src="/gif/header_offers.gif" vspace="3" width="56" height="19"></a><a href="http://www.booksontape.com/recommendations.cfm"><img alt="We Recommend" border="0" src="/gif/header_recommendations.gif" vspace="3" width="98" height="19"></a><a href="http://www.booksontape.com/wishlist.cfm"><img alt="WishList" border="0" src="/gif/header_wishlist.gif" vspace="3" width="57" height="19"></a><a href="http://www.booksontape.com/cart.cfm?totalf=11"><img alt="Order Now/Shopping Cart" border="0" src="/gif/header_ordernow.gif" vspace="3" width="68" height="19"></a><a href="/account/"><img alt="My Account" border="0" src="/gif/header_account.gif" vspace="3" width="74" height="19"></a></td>
 	</tr>
-	<form action="http://www.booksontape.com/search.cfm" method="get"></form>
+	<form action="http://www.booksontape.com/search.cfm" method="get" name="searchchk"></form>
 	<tr align="middle" bgcolor="#CCCCCC" valign="middle">
 		<td>
 			<table border="0" cellpadding="2" cellspacing="0" width="597">
 				<tbody><tr valign="middle">
-					<td><img alt="QUICK SEARCH:" border="0" src="/gif/quicksearch_small.gif" vspace="5" width="52" height="20"></td>
+					<td><img alt="Search by title, author, or keyword!" border="0" src="/gif/quicksearch_small.gif" vspace="5" width="52" height="20"></td>
 					<td nowrap="">&nbsp;<input name="qs" size="16">&nbsp;&nbsp;<input type="submit" class="button" value=" Go! "></td>
 					
 							<td nowrap="" width="60%" align="right"><font size="2"><span id="carttotal">You have <b>0 items</b> in your <a href="http://www.booksontape.com/cart.cfm">Shopping Cart</a>.</span></font></td>
@@ -1812,17 +1825,18 @@ other (describe)
 	<div align="center"><font size="2">
 		<a href="http://www.booksontape.com/index.cfm">Home</a> |
 		<a href="http://www.booksontape.com/search.cfm">Search</a> |
-		<a href="http://www.booksontape.com/recommendations.cfm">We Recommend</a> |
 		<a href="http://www.booksontape.com/new.cfm">New Releases</a> |
+		<a href="http://www.booksontape.com/managers.cfm">Specials</a> |
+		<a href="http://www.booksontape.com/recommendations.cfm">We Recommend</a> |
 		<a href="http://www.booksontape.com/wishlist.cfm">WishList</a> |
-		<a href="http://www.booksontape.com/cart.cfm">Shopping Cart</a> |
+		<a href="http://www.booksontape.com/cart.cfm">Order Now</a> |
 		<a href="/account/">My Account</a> |
-		<a href="http://www.booksontape.com/offers.cfm">Specials</a> |
 		<a href="http://www.booksontape.com/help.cfm">Help</a>
 	</font></div>
 	<hr align="center" color="#0000cc" noshade="" size="1">
-	<div align="center"><b><font size="1">
-		<br>BOOKS ON TAPE®, B-O-T® and BOOKS ON CD® are registered trademarks and service marks of Books on Tape, Inc.
+	<div align="center"><font size="2">
+		<br>See an error or omission on this page?  <a href="/contacts.cfm">Contact us</a>.
+		</font><b><font size="1"><br><br>BOOKS ON TAPE®, B-O-T® and BOOKS ON CD® are registered trademarks and service marks of Books on Tape, Inc.
 		<br>"Audiobooks" is the generic term for recordings of best-sellers on cassette.
 		<br><a href="http://www.booksontape.com/contacts.cfm">contact us</a> |
 		<a href="http://www.booksontape.com/privacy.cfm">privacy policy</a> |
