@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtproofliving.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602160711id_/http%3A//debtproofliving.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtproofliving.com privacy policy that was archived on 2001-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010816125728id_/http%3A//debtproofliving.com/privacy.html) for the most accurate reproduction.*
 
 # Cheapskate Monthly Online: Privacy Statement
 
