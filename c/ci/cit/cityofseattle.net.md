@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2003-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031120023456id_/http%3A//www.cityofseattle.net/pan/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2004-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040403185208id_/http%3A//cityofseattle.net/pan/privacypol.htm) for the most accurate reproduction.*
 
 # City of Seattle Online Privacy Policy
 
@@ -117,7 +117,7 @@ Neither the City, nor any department, officer, or employee of the City warrants 
 
 The City is made up of several departments. Each department is responsible for the applications it develops including applications that may gather personally identifying information that you volunteer.
 
-To access your personally identifiable information collected, if any, or request correction of factual errors in your personally identifiable information, contact the Department that requests the information. Contact information can be found on the department's web page and on the City's Citizen Information Guide, <http://www.cityofseattle.net/don/csb1.htm>
+To access your personally identifiable information collected, if any, or request correction of factual errors in your personally identifiable information, contact the Department that requests the information. Contact information can be found on the department's web page and on the City's Citizen Information Guide, <http://www.seattle.gov/citizenservice/infoguide.htm>
 
 To offer comments about the information presented in this Privacy Notice, you can contact:  
 **By e-mail:** [Sam.Foucault@ci.seattle.wa.us](mailto:Sam.Foucault@ci.seattle.wa.us)  
