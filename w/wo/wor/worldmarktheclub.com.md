@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202202827id_/http%3A//www.worldmarktheclub.com/web/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604214542id_/http%3A//www.worldmarktheclub.com/web/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WorldMark by Trendwest | Privacy Policy
-
-|  | 
 
 We at **Trendwest Resorts, Inc. and WorldMark The Club** , and the family of companies at Cendant Corporation, our owner, (referred to as " **Trendwest Resorts, Inc. and WorldMark The Club** ," "we," "us," or "our") recognize the importance of protecting the privacy of certain information ("Information") collected about our customers and prospective customers (referred to as "Customers," "you,” or "your"). This privacy statement discloses what Information we gather, how we use it, and how to correct or change it. At **Trendwest Resorts, Inc. and WorldMark The Club** , it is our intention to give you an understanding about how we collect your Information and the use we make of it in the course of our business.
 
@@ -114,6 +112,10 @@ Although we make every effort to help ensure your information is securely transm
 You are responsible for maintaining the confidentiality of your account and password, restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. 
 
 Back to Top
+
+##### Other
+
+Unless otherwise prohibited by law or our contractual obligations, we may disclose personal information if required to do so by law, court order, or as requested by a governmental or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable.  Situations may include: to perform, maintain or enforce contracts with our customers, to protect rights and properties including those of business affiliates, customers or others, or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing or who may be threatening to cause interference with or damage to our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
 
 ##### Your Acceptance of these terms
 
