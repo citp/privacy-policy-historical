@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiangiftsportal.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214235900id_/http%3A//www.indiangiftsportal.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiangiftsportal.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604031425id_/http%3A//indiangiftsportal.com/policy.html) for the most accurate reproduction.*
 
 # Indian Gifts Portal (An Online Secure Shopping Mall India) - Privacy Policy
 
