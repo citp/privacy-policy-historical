@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glamour-videos.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803194907id_/http%3A//www.glamour-videos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamour-videos.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404005518id_/http%3A//www.glamour-videos.com/privacy.html) for the most accurate reproduction.*
 
 # Glamour Videos Privacy Policy
 
@@ -28,4 +28,6 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [ email@globalwebservice.com](mailto:email@globalwebservice.com). 
+Should you have other questions or concerns about these privacy policies, please send us an email at 
+
+[Glamour Videos Support](mailto:email@globalwebservice.com?subject=Glamour%20Videos%20-%20Front%20Customer%20Support)
