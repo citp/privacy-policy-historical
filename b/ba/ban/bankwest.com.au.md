@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608145712id_/http%3A//www.bankwest.com.au/newsroom/aboutus/legal/disclaimer_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801102820id_/http%3A//www.bankwest.com.au/newsroom/aboutus/legal/disclaimer_privacy_policy.asp) for the most accurate reproduction.*
 
 # BankWest - Bank of Western Australia Ltd. - NEWSROOM
 
