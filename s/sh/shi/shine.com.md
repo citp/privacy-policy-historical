@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2003-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031225100054id_/http%3A//shine.com/shine411_events.cfm%3Fcontent_id%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411221644id_/http%3A//shine.com/shine411_events.cfm%3Fcontent_id%3Dprivacypolicy) for the most accurate reproduction.*
 
 # SHiNE :: SHiNE 411 :: Events
 
 |    
-|  [](https://web.archive.org/web/20031225100054id_/http%3A//shine.com/shine411.cfm) SHiNE's Privacy Policy 
+|  [](https://web.archive.org/web/20040411221644id_/http%3A//shine.com/shine411.cfm) SHiNE's Privacy Policy 
 
 **Users under the age of 13-years-old:**
 
@@ -69,4 +69,4 @@ SHiNE is proud to be a part of **MTV's "Fight for Your Rights** : Take a Stand A
   
   
 [](http://www.upoc.com/shine)  
-[](https://web.archive.org/web/20031225100054id_/http%3A//shine.com/mingle_im.cfm)
+[](https://web.archive.org/web/20040411221644id_/http%3A//shine.com/mingle_im.cfm)
