@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornwall.gov.uk privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405032930id_/http%3A//www.cornwall.gov.uk/Common/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornwall.gov.uk privacy policy that was archived on 2002-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020625184542id_/http%3A//www.cornwall.gov.uk/Common/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -32,6 +32,6 @@ Cornwall County Council will only send personally identifiable information about
 
 ### Questions or Suggestions
 
-If you have any questions or suggestions regarding this statement send an e-mail to [webmanager@isg.cornwall.gov.uk](mailto:webmanager@isg.cornwall.gov.uk)
+If you have any questions or suggestions regarding this statement send an e-mail to [ webmanager@cornwall.gov.uk](mailto:webmanager@cornwall.gov.uk)
 
-###### Last revised - 1st November 2000 
+###### Last revised - 3rd May 2002
