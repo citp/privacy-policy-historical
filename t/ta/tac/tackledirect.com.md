@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tackledirect.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607083353id_/http%3A//tackledirect.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tackledirect.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031044718id_/http%3A//tackledirect.com/privacypolicy.html) for the most accurate reproduction.*
 
 # TackleDirect Privacy & Security
 
@@ -62,16 +62,14 @@ To correct or update any information send us an email: [sales@tackledirect.com](
   
 4\. HOW TO CONTACT US | 
 
-Online: 
-
-    ****By phone: **  
+By phone: **  
 ** Toll-Free: 1-888-35-4REEL  
 Direct: 1-609-398-2900  
 Hours: 9:00 to 5:00 Weekdays, EST
 
-| 
-
 By fax: 1-609-398-9962
+
+| 
 
 By email: [sales@tackledirect.com](mailto:sales@tackledirect.com)
 
