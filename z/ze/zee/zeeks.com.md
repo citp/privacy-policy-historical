@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeeks.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203081526id_/http%3A//www.zeeks.com/PT/SafetyPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeks.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607191846id_/http%3A//www.zeeks.com/PT/SafetyPrivacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
