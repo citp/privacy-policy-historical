@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the active-venture.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211112220id_/http%3A//active-venture.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the active-venture.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621092348id_/http%3A//active-venture.com/privacy.htm) for the most accurate reproduction.*
 
-# Web site hosting : cheap, affordable webhosting for your web page and domain at great quality and service guaranteed!
+# Active-Venture's privacy statement concerning the use of our web hosting service
 
 **> > Privacy Statement**
 
