@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ffa.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216233314id_/http%3A//www.ffa.org/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffa.org privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605163213id_/http%3A//www.ffa.org/html/privacy.html) for the most accurate reproduction.*
 
-# ffa.org Internet Privacy Policy
-
- 
+# ffa.org Privacy Policy
 
 The National FFA Organization has created this privacy policy statement to demonstrate our organization’s commitment to your privacy. The type of information we receive about you depends entirely on how you use the site. Outlined below are the various methods of information collection and how this information is utilized within our organization.
 
@@ -24,5 +22,5 @@ Any questions regarding this statement should be directed to [webmaster@ffa.org]
 
 All of the information on this site is presented in good faith and believed to be correct.  However, National FFA Organization makes no representations or warranties as to the completeness or accuracy of this information.
 
-©2001 National FFA Organization  
+©2002 National FFA Organization  
 The National FFA Organization is a resource and support organization that does not select, control or supervise state associations, local chapter or individual member activities except as expressly provided in the National FFA Organization Constitution and Bylaws **.**
