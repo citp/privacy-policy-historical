@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209170233id_/http%3A//www.naturessunshine.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603141346id_/http%3A//www.naturessunshine.com/security/privacy.asp) for the most accurate reproduction.*
 
 # Nature's Sunshine | Terms of Use
 
