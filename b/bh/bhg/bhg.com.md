@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhg.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616145721id_/http%3A//www.bhg.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhg.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206171200id_/http%3A//www.bhg.com/privacy.htm) for the most accurate reproduction.*
 
 # Meredith Corporation Online Privacy Statement
 
@@ -39,12 +39,10 @@ Promotions that run on our site may be sponsored by companies other than Meredit
 
 Aggregated Information: We aggregate information on the user base for our site and share this with our advertisers. Of course, none of this information identifies you personally. We use this information to identify the most popular features on our sites and help our advertisers understand our audience. We also share aggregate information with our advertisers to make sure you get ads that are relevant to you. However, in these situations we do not disclose to these companies any information that could be used to personally identify you. From time to time, we may disclose aggregated information about our site to third parties, such as advertisers or business partners.
 
-Checking on Your Personal Information and Updating Your Account: If you would like to review, request an update of, or make a correction to any of the personal information we have obtained about you, please click [here](http://www.bhg.com/update.html). 
+Security and Passwords: The personally identifiable information we collect is stored within our controlled database and we use standard, industry-wide procedures, such as firewalls and SSL (Secure Socket Layers) for credit card information. As effective as our security measures may be, no data transmission over the Internet can be guaranteed complete security. When you register on our site, you will select a password. You will need your password to gain access to your personal information. 
 
-Security and Passwords: The personally identifiable information we collect is stored within our controlled database and we use standard, industry-wide procedures, such as firewalls and SSL (Secure Socket Layers) for credit card information. As effective as our security measures may be, no data transmission over the Internet can be guaranteed complete security. When you register on our site, you will select a password. You will need your password to gain access to your personal information. If you forget your password, simply click [here](http://www.bhg.com/scgi/passwd_lookup/lookup.cgi?FNC=toPasswdLookUp__AsiteList2_html___1___1000), fill out the form and we will e-mail your password to the e-mail address associated with your account. 
-
-Terms of Use: Your use of this website is controlled by the [Terms of Use](https://web.archive.org/web/20000616145721id_/http%3A//www.bhg.com/legal/terms.htm). Please read them carefully before registering at our website. 
+Terms of Use: Your use of this website is controlled by the [Terms of Use](https://web.archive.org/web/20001206171200id_/http%3A//www.bhg.com/terms.htm). Please read them carefully before registering at our website. 
 
 Policy Statement Changes: We reserve the right to change our Privacy Policy from time to time without prior notice. 
 
-**Copyright 2000[Meredith Corporation](http://www.home-and-family.com/). All rights reserved.**
+**Copyright 1999[Meredith Corporation](http://www.meredith.com/). All rights reserved.**
