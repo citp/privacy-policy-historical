@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604192617id_/http%3A//www.inboxdollars.com/privacy.php%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217114709id_/http%3A//www.inboxdollars.com/privacy.php%3Fref%3D) for the most accurate reproduction.*
 
 # InboxDollars.com -- Privacy Policy
 
@@ -13,14 +13,14 @@
 > [**Advertiser Information**](http://www.inboxdollars.com/adv_begin.php?ref=)  
 >  [**Testimonials**](http://www.inboxdollars.com/adv_testimonials.php?ref=)  
 >  [**Advertiser Login**](http://www.inboxdollars.com/adv_login.php?ref=)  
->  [**Affiliate Program**](http://www.inboxdollars.com/adv_referral.php?ref=)
+> 
 
 |   | 
 
 **_Information Collected:_**
 
   
-Some of the Information collected by InboxDollars is only used for internal use. This includes your name, address, email address, and Internet Address (IP Address). This information will be used solely by InboxDollars to contact you about updates to our program, keep your member information current, and to provide payment to you. Demographical information about you, including birth date, gender, marital status, and interests are collected to send you paid advertisements corresponding to your information. This information will never be given to paying advertisers, since InboxDollars handles all E-Mailing itself. The only time your personal information is physically given to advertisers is when you select any co-registration boxes (ads for separate sites) on our signup form. Your name, email address, street address, city, state, and zip code will be given to these advertisers, so they can contact you about the service you have opted in for.
+The information collected by InboxDollars is used to better serve you. We collect your name and address to provide payment to you. Demographical information about you, including birth date, gender, marital status, and interests are collected to send you paid advertisements corresponding to your information. Since we handle all mailings, advertisers who purchase mailings do not see your personal information. The only time your personal information is physically given to advertisers who pay for mailings is when you select any co-registration boxes (ads for separate sites) on our signup form. Your name, email address, street address, city, state, and zip code will be given to these advertisers, so they can contact you about the service you have opted in for.
 
 **_Means of Collection:_**
 
@@ -30,7 +30,7 @@ At this time, the only way to become a member of InboxDollars is by filling out 
 **_Use of Information:_**
 
   
-The information you provide us serves two purposes. One of these purposes is for InboxDollars to contact you regarding updates to our program and other essential contacts between the company and its members. The other purpose is to match you with paying advertisers using the demographic information you provide upon signup.
+The information you provide us serves two purposes. One of these purposes is for InboxDollars to contact you regarding updates to our program and other essential contacts between the company and its members. The other purpose is to match you with paying advertisers using the demographic information you provide upon signup. 
 
 **_Posting of Personal Information:_**
 
@@ -45,11 +45,6 @@ NOTE: This action is reserved for serious offenses only. We will not post every 
 
   
 At this time, Cookies are not used by InboxDollars.com. However, in the future, we may use Cookies to store information about your current visit, so that you need not be re-authenticated each time you perform an action from within our Members Section.
-
-**_Ownership of Information:_**
-
-  
-All information collected is used solely by InboxDollars.com. Your privacy is important to us, which is why we will never trade or sell your personal information.
 
 **_Minimum Required Age:_**
 
