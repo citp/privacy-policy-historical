@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkquest.org privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404011112id_/http%3A//www.thinkquest.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkquest.org privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210103652id_/http%3A//www.thinkquest.org/privacy.html) for the most accurate reproduction.*
 
 # ThinkQuest Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy **(Policy)** applies to your use of the web site accessible 
 
 OTHER TERMS 
 
-Your use of our Site is subject to and contingent upon your agreement with the ThinkQuest Web Site Terms of Use , which are hereby incorporated by reference. Participation in a ThinkQuest Competition **(Competition)** is governed by the applicable Evaluation Criteria and Rules as well as any separately executed contract between The Oracle Help Us Help Foundation, a California not-for-profit corporation (referred to hereinafter as **Foundation** , we, us, etc.) and you. 
+Your use of our Site is subject to and contingent upon your agreement with the ThinkQuest Web Site Terms of Use , which are hereby incorporated by reference. Participation in a ThinkQuest Competition **(Competition)** is governed by the applicable Evaluation Criteria and Rules as well as any separately executed contract between The Oracle Education Foundation, a California not-for-profit corporation (referred to hereinafter as **Foundation** , we, us, etc.) and you. 
 
 CHILDREN AND MINORS 
 
@@ -18,7 +18,7 @@ CONTACTING THE FOUNDATION 
 
 The Foundation respects user privacy and supports initiatives to preserve individual privacy on the Internet. We welcome any comments or questions users may have, and you should feel free to contact us by sending an email to [thinkquest.ww@oracle.com](mailto:thinkquest.ww@oracle.com) , or by sending a letter to: 
 
-Oracle Help Us Help Foundation    
+Oracle Education Foundation    
 Colleen Cassity, Director    
 500 Oracle Parkway, MS 1 LGN-2   
 Redwood Shores, CA 94065 
