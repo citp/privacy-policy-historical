@@ -1,0 +1,2612 @@
+<!--The following is the downloaded HTML source of the usahockey.com privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208172947id_/http%3A//www.usahockey.com/usa_hockey/main/home/usah_privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<title>USA Hockey</title>
+
+	<meta http-equiv="cache-control" content="no-store">
+    <meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="Expires" content="-1">
+
+	<link rel="stylesheet" type="text/css" href="/css/supStyleSheet.css">
+    <link rel="stylesheet" type="text/css" href="/css/supStyleSheetGen.css">
+	<link rel="stylesheet" type="text/css" href="/css/editingComponent.css">
+	<link rel="stylesheet" type="text/css" href="/css/calendar.css">
+	<link rel="stylesheet" type="text/css" href="/css/siteStyleSheet.css">
+	<link rel="stylesheet" type="text/css" href="/css/siteStyleSheet_new.css">
+	<link rel="stylesheet" type="text/css" href="/css/colorPicker.css">
+
+	<!-- javascript needed for adding style on INPUT elements because of Netscape bugs --->
+	<script>
+        document.write('<STYLE>');
+		if (document.all) {
+			document.write('SELECT {font-size:10px; border: 1px solid black;} INPUT {border: 1px solid black; font-size:10px;} ');
+		}
+        //for caption below images
+        if (!document.getElementById) {
+            document.write('.areaContentBelowImage {font-family: arial; font-size: 11px;} ');
+            document.write('.newsZone2BelowImage {background-color: #99CCFF; font-family: arial; font-size: 11px;} ');
+            document.write('.newsZone2BelowImageSkinB {background-color: #FFFFFF; color: #0066CC; font-family: arial; font-size: 11px;} ');
+            document.write('.newsZone2BelowImageSkinC {background-color: #003366; color: #FFFFFF; font-family: arial; font-size: 11px;} ');
+            document.write('.newsZone2BelowImageSkinD {color: #185492; background-color: #FFFFFF; font-family: arial; font-size: 11px;} ');
+        } else {
+            document.write('.areaContentBelowImage {font-family: arial; font-size: 9px;} ');
+            document.write('.newsZone2BelowImage {background-color: #99CCFF; font-family: arial; font-size: 9px;} ');
+            document.write('.newsZone2BelowImageSkinB {background-color: #FFFFFF; color: #0066CC; font-family: arial; font-size: 9px;} ');
+            document.write('.newsZone2BelowImageSkinC {background-color: #003366; color: #FFFFFF; font-family: arial; font-size: 9px;} ');
+            document.write('.newsZone2BelowImageSkinD {color: #185492; background-color: #FFFFFF; font-family: arial; font-size: 9px;} ');
+            if (!document.all) {
+                document.write('input[type=radio] {border: 1px solid black;} ');
+                document.write('input[type=checkbox] {border: 1px solid black;} ');
+            }
+        }
+        document.write('</STYLE>');
+	</script><style>.areaContentBelowImage {font-family: arial; font-size: 9px;} .newsZone2BelowImage {background-color: #99CCFF; font-family: arial; font-size: 9px;} .newsZone2BelowImageSkinB {background-color: #FFFFFF; color: #0066CC; font-family: arial; font-size: 9px;} .newsZone2BelowImageSkinC {background-color: #003366; color: #FFFFFF; font-family: arial; font-size: 9px;} .newsZone2BelowImageSkinD {color: #185492; background-color: #FFFFFF; font-family: arial; font-size: 9px;} input[type=radio] {border: 1px solid black;} input[type=checkbox] {border: 1px solid black;} </style>
+
+	<script>
+	  function submitHelpDesk() {
+	    if(document.faq.helpDesk[document.faq.helpDesk.selectedIndex].value != "") {
+				if (document.faq.helpDesk[document.faq.helpDesk.selectedIndex].value == "CM") {
+					location.href="/images/ChicagoMeeting.pdf";
+					}
+				else if (document.faq.helpDesk[document.faq.helpDesk.selectedIndex].value == "UG") {
+								location.href="/images/usah_manual.pdf";
+					}
+				else if (document.faq.helpDesk[document.faq.helpDesk.selectedIndex].value == "TO") {
+								location.href="/images/tournaments.pdf";
+					}
+				else if (document.faq.helpDesk[document.faq.helpDesk.selectedIndex].value == "AC") {
+								location.href="/images/Annual_Congress_2002.pdf";
+					}
+				else if (document.faq.helpDesk[document.faq.helpDesk.selectedIndex].value == "AG") {
+								location.href="http://www.usahockey.com/usa_hockey/main/home/affiliate_site";
+					}
+				else {
+	      	document.faq.submit();
+				}
+	    }
+	  }
+	
+		function createAlias(name, formName, fieldName) {
+			name = name.toLowerCase();
+			name = name.substring(0,14);
+			myReg = new RegExp("\\W", 'g');
+			name = name.replace(myReg, "_");
+			eval('document.'+formName+'.'+fieldName).value = name;
+		}
+		
+		function archiveContentArea(zoneNumber, pcoaId, menuId, pageId) {
+			if (window.confirm("Are you sure you want to archive this content area?")) {
+				if (pageId != "" && pageId != null) {
+					pageId = "&page_id="+pageId;
+				}
+				window.location = "/servlets/contentArea?action=archive&zoneNumber="+ zoneNumber +"&pcoa_id="+ pcoaId +"&menu_id="+ menuId + pageId;
+			}
+			return;
+		}
+		
+		function removeItemFromPage(order, itemType, itemId, careId, menuId, pageId) {
+			if (window.confirm("Are you sure you want to remove this item?")) {
+				if (pageId != "" && pageId != null) {
+					pageId = "&page_id="+pageId;
+				}
+				window.location = "/servlets/contentArea?action=removeFromPage&item_order="+ order +"&item="+ itemType +"&item_id="+ itemId +"&care_id="+ careId +"&menu_id="+ menuId + pageId;
+			}
+			return;
+		}
+	</script>
+	
+	<script language="JavaScript" src="/javascript/TopBannerArea.js"></script>	
+	<script language="JavaScript" src="/javascript/crossBrowser/rotateBannerImages.js"></script>
+
+	
+	
+<style type="text/css">
+	.bouette{} /* The first class is ignore (Why?) */
+	
+	.areaContent {
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.form {
+		background-color: #FFFFFF;
+	}
+	
+	.main {
+		background-color: #285FA5;
+		color : #003366;
+		font-size: 14px;
+		font-family: arial;
+	}
+	
+	.errorNotBold {
+		color:red;
+		font-family:arial;
+		font-size:12px;
+	}
+	
+	.error {
+		color:red;
+		font-family:arial;
+		font-size:12px;
+		font-weight:bold;
+	}
+	
+	A.buttonDark {
+		color: #003366;
+		font-weight: bold;
+		font-size: 12px;
+		font-family: arial;
+	}
+	
+	A.buttonLight {
+		color: #FFFFFF;
+		font-weight: bold;
+		font-size: 12px;
+		font-family: arial;
+	}
+	
+	.editLink {
+		color: #FFFFFF;
+		font-weight: bold;
+		background-color: #CC0000;
+	}
+	
+	.getInYourZoneLink {
+		color: #FFFFFF;
+		font-weight: bold;
+		font-size: 12px;
+		font-family: arial;
+	}
+	
+	.logoTitle {
+		background-color: #185492;
+		color: #FFFFFF;
+		font-size: 12px;
+		font-family: arial;
+	}
+	
+	
+	/***** Login *****/
+	.loginText {
+		font-family: arial;
+		font-size: 12px;
+		color: #FFFFFF;
+	}
+	/***** end of Login *****/
+	
+	
+	/***** Top Nav *****/
+	.dataTopNav {
+		text-decoration: none;
+		color: #FFFFFF;
+		font-size:12px;
+		font-family:arial;
+	}
+	
+	.topNavLine {
+		background-color: #003366;
+	}
+		
+	.topNav {
+		font-weight: bold;
+		font-family: arial;
+		color: #003366;
+		font-size: 12px;
+		background-color: #99CCFF;
+	}
+	
+	A.topNav {
+		text-decoration: none;
+	}
+	
+	.topNavSub {
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 11px;
+		text-decoration: none;
+		background-color: #226FC1;
+	}
+	
+	A.topNavSub {
+		text-decoration: none;
+	}
+	
+	.topNavSelected {
+		font-weight: bold;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 12px;
+		background-color: #226FC1;
+	}
+	
+	A.topNavSelected {
+		text-decoration: none;
+	}
+		
+	
+	.topNavSubSelected {
+		font-weight: bold;
+		color: #003366;
+		font-family: arial;
+		font-size: 11px;
+		background-color: #226FC1;
+	}
+	
+	A.topNavSubSelected {
+		text-decoration: none;
+	}
+	/***** end of Top Nav *****/
+	
+	
+	/***** menu *****/
+	.menuLinkEdit {
+		color: #FFFFFF;
+		font-weight: bold;
+		background-color: #053263;
+	}
+	
+	.menu {
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 11px;
+		text-decoration: none;
+		font-weight: bold;
+	}
+	
+	.menuLine {
+		background-color: #4E7CAB;
+	}
+	
+	.subMenu {
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 11px;
+		text-decoration: none;
+		font-weight: bold;
+	}
+	
+	.menuEdit {
+		color: #FFFFFF;
+		background-color: #0066CC;
+		font-family: arial;
+		font-size: 12px;
+		text-decoration: none;
+		font-weight: bold;
+	}
+	
+	.lineMenuOne {
+		background-color: #003366;
+	}
+	
+	.lineMenuTwo {
+		background-color: #185492;
+	}
+	/***** end menu *****/
+	
+	
+	/***** menu Get In Your Zone *****/
+	.menuZone {
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+		background-color: #CC0000;
+		color: #FFFFFF;
+		text-decoration: none;
+	}
+	
+	.lineMenuZone {
+		background-color: #FF3B1A;
+	}
+	
+	.zoneLineOne {
+		background-color: #FFFFFF;
+	}
+	
+	.zoneLineTwo {
+		background-color: #99A6CC;
+	}
+	/***** end of menu Get In Your Zone *****/
+	
+	
+	/***** zone 1 *****/
+	.zoneOneBackground {
+		background-color: #0066CC;
+	}
+	
+	.zoneOneStripMenu{
+		background-color: #185492;
+	}
+	
+	.zoneOneHeader {
+		background-color: #CC0000;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	
+	.zoneOneContentOne {
+		background-color: #0066CC;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 13px;
+	}
+	
+	A.zoneOneContentOne {
+		text-decoration: underline;
+		font-size: 10px;
+		font-weight: bold;
+		font-family: verdana;
+	}
+	
+	.zoneOneContentTwo {
+		background-color: #185492;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 13px;
+	}
+	
+	A.zoneOneContentTwo {
+		text-decoration: underline;
+		font-size: 10px;
+		font-weight: bold;
+		font-family: verdana;
+	}
+	
+	.zoneOneEdit {
+		background-color: #1F79D2;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 11px;
+	}
+	
+	A.zoneOneEdit {
+		text-decoration: underline;
+	}
+	/***** end zone 1 *****/
+	
+	
+	/***** zone 2 *****/
+	.insertTitle {
+		color: #FFFFFF;
+		background-color: #003366;
+		font-family: arial;
+		font-size: 14px;
+		font-weight: bold;
+	}
+	
+	.dottedLine {
+		color: #0066CC;
+		background-color: #FFFFFF;
+	}
+	
+	/* used for result of poll, trivia, ...*/
+	.rowLightError {
+		color: #FF0000;
+		background-color: #185492;
+		font-family: arial;
+		font-size: 12px;
+		font-weight:bold;
+	}
+	
+	.rowLight {
+		color: #FFFFFF;
+		background-color: #185492;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	A.rowLight {
+		color: #FFFFFF;
+		background-color: #185492;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.rowDarkError {
+		color: #FF0000;
+		background-color: #003366;
+		font-family: arial;
+		font-size: 12px;
+		font-weight:bold;
+	}
+	
+	A.rowDark {
+		color: #FFFFFF;
+		background-color: #003366;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.rowDark {
+		color: #FFFFFF;
+		background-color: #003366;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.rowBottom {
+		background-color: #FFFFFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.rowQuestion {
+		color: #99CCFF;
+		background-color: #003366;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.rowTitle {
+		color: #FFFFFF;
+		background-color: #003366;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	/* end */
+	
+	/* Find Hockey Near You */
+	.searchTitle {
+		color: #99CCFF;
+		background-color: #003366;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.rowWhite {
+		color: #003366;
+		background-color: #FFFFFF;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.rowWhiteRedFont {
+		color: #FF0000;
+		background-color: #FFFFFF;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.rowWhiteRedFontBig {
+		color: #FF0000;
+		background-color: #FFFFFF;
+		font-family: arial;
+		font-size: 16px;
+	}
+
+	.rowLightBlue {
+		color: #003366;
+		background-color: #99CCFF;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.darkTitle {
+		background-color: #003366;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	/* Full (news, events, ...) */
+	.fullTitle {
+		background-color: #FFFFFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	.fullTeaser {
+		background-color: #FFFFFF;
+		color: #0066CC;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	
+	.fullText {
+		background-color: #FFFFFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	A.fullText {
+		text-decoration: underline;
+		font-size: 11px;
+		font-weight: bold;
+	}
+	/* end of Full */
+	
+	/* News Area Edit */
+	.zoneTwoEdit {
+		background-color: #0066CC;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+	}
+	
+	.zoneTwoEditDark {
+		background-color: #003366;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 11px;
+	}
+	
+	A.zoneTwoEditDark {
+		text-decoration: underline;
+	}
+	/* end of News Area Edit */
+	
+	/* News skin A */
+	.newsAreaTitleZone2SkinA {
+		background-color: #003366;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 15px;
+		font-weight: bold;
+	}
+	
+	.newsTitleZone2SkinA {
+		background-color: #003366;
+		color: #99CCFF;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	.newsZone2SkinA {
+		background-color: #003366;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 13px;
+	}
+	
+	A.newsZone2SkinA {
+		text-decoration: underline;
+		font-size: 11px;
+		font-weight: bold;
+		font-family: arial;
+	}
+	
+	.newsZone2BelowImageSkinA {
+		background-color: #99CCFF;
+		color: #003366;
+		font-size: 9px;
+		font-family: arial;
+	}
+	/* end of News Skin A */
+	
+	/* News skin B */
+	.newsAreaZone2SkinB {
+		background-color: #FFFFFF;
+		color: #0066CC;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	.newsAreaTitleZone2SkinB {
+		background-color: #FFFFFF;
+		color: #0066CC;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	.newsTitleZone2SkinB {
+		background-color: #FFFFFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	.newsBodyZone2SkinB {
+		background-color: #FFFFFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 13px;
+	}
+	
+	A.newsBodyZone2SkinB {
+		text-decoration: underline;
+		font-weight: bold;
+		font-size: 11px;
+		font-family: arial;
+	}
+	
+	.newsZone2BelowImageSkinB {
+		color: #0066CC;
+		font-size: 9px;
+		font-family: arial;
+	}
+	/* end of News Skin B */
+	
+	/* News Skin C */
+	.newsAreaTitleZone2SkinC {
+		color: #FFFFFF;
+		background-color: #003366;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	.newsZone2SkinC {
+		color: #FFFFFF;
+		background-color: #003366;
+		font-size: 12px;
+	}
+	
+	A.newsZone2SkinC {
+		font-family: arial;
+		text-decoration: underline;
+		font-size: 12px;
+	}
+	
+	.newsZone2BelowImageSkinC {
+		background-color: #003366;
+		color: #FFFFFF;
+		font-size: 9px;
+		font-family: arial;
+	}
+	/* end of News Skin C */
+	
+	/* News Skin D */
+	.newsTitleZone2SkinD {
+		color: #FFFFFF;
+		background-color: #185492;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	.newsZone2SkinD {
+		color: #003366;
+		background-color: #FFFFFF;
+		font-family: arial;
+		font-size: 11px;
+		text-decoration: none;
+	}
+	
+	.newsZone2BelowImageSkinD {
+		color: #003366;
+		font-size: 9px;
+		font-family: arial;
+	}
+	/* end of News Skin D */
+	
+	/* Event */
+	.eventAreaTitleZone2 {
+		color: #FFFFFF;
+		background-color: #003366;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	.eventZone2 {
+		color: #FFFFFF;
+		background-color: #003366;
+		font-size: 12px;
+	}
+	
+	A.eventZone2 {
+		font-family: arial;
+		text-decoration: underline;
+		font-size: 12px;
+	}
+	/* end of Event */
+	
+	/* Publishing Area */
+	.publAreaBodyZone2 {
+		background-color: #FFFFFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 13px;
+	}
+	
+	.publAreaTitleZone2 {
+		background-color: #FFFFFF;
+		color: #0066CC;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	/* end of Publishing Area */
+	
+	/* Tips Area */
+	.tipsAreaTitleZone2 {
+		background-color: #99CCFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	.tipsAreaZone2 {
+		background-color: #99CCFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	A.tipsAreaZone2 {
+		text-decoration: underline;
+		font-weight: bold;
+		font-size: 11px;
+	}
+	/* end of Tips Area */
+	
+	/* CategorizedList */
+	.categoryTitle {
+		background-color: #FFFFFF;
+		color: #0066CC;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	.category {
+		background-color: #FFFFFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	
+	A.category {
+		text-decoration: underline;
+		font-size: 11px;
+	}
+	
+	.subCategory {
+		background-color: #FFFFFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	A.subCategory {
+		text-decoration: underline;
+		font-size: 11px;
+	}
+	/* end of CategorizedList */
+	
+	/* servlets/GameUserServlet */
+	.gameHeader {
+		background-color: #FFFFFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 18px;
+		font-weight: bold;
+	}
+	
+	.team {
+		color: #99CCFF;
+		font-weight: bold;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.gameInformation {
+		color: #FFFFFF;
+		font-weight: bold;
+		font-size: 12px;
+		font-family: arial;
+	}
+	
+	.statsHeader {
+		background-color: #003366;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	
+	.statsHeaderBig {
+		background-color: #003366;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 16px;
+		font-weight: bold;
+	}
+	
+	.statsHeaderBig2 {
+		background-color: #185492;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 16px;
+		font-weight: bold;
+	}	
+	
+	.statsHeader2 {
+		background-color: #003366;
+		color: #99CCFF;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+	}
+	
+	
+	.statsHeader3 {
+		background-color: #FFFFFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+	}
+	
+	.statsHeader4 {
+		background-color: #FFFFFF;
+		color: #185492;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+	}
+	
+	.statsRow {
+		background-color: #185492;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+	}
+	
+	
+	.statsRow2 {
+		background-color: #185492;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 11px;
+	}
+	
+	.statsRowHeader {
+		color: #99CCFF;
+		background-color: #185492;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+	}
+	
+	.redRow {
+		background-color: #CC0000;
+	}
+	
+	.blueText {
+		color: #99CCFF;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+	}
+
+	.blueTextOnWhiteBgColor {
+		background-color: #FFFFFF;
+		color:  #003366;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.bigBlueTextOnWhiteBgColor {
+		background-color: #FFFFFF;
+		color:  #003366;
+		font-family: arial;
+		font-size: 16px;
+	}
+
+	A.redLinkNotBold {
+		background-color: white;
+		color: red;
+		font-family: arial;
+		font-size: 12px;	
+	}
+	
+	A.redLink {
+		background-color: white;
+		color: red;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	
+	.bigRed {
+		background-color: #99CCFF;
+		color:  red;
+		font-family: arial;
+		font-size: 16px;
+	}
+
+	.bigRedGameScore {
+		background-color: white;
+		color:  red;
+		font-family: arial;
+		font-size: 16px;
+	}
+	
+	.errorOnPaleBlue {
+		background-color: #99CCFF;
+		color:  red;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.paleBlueTextOnDarkBlue {
+		background-color: #003366;
+		color: #185492;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	
+	.blueTextOnPaleBlue {
+		background-color: #99CCFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+	}
+
+	.paleBlueTextOnWhite {
+		background-color: #FFFFFF;
+		color: #185492;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	
+	
+	A.buttonLightBlue {
+	 	color: #99CCFF;
+	 	font-weight: bold;
+	 	font-size: 12px;
+	 	font-family: arial;
+	}
+	
+	.whiteText {
+		color: white;
+		font-weight: bold;
+		font-size: 12px;
+		font-family: arial;
+	}
+	
+	A.darkLink {
+		color: #00004C;
+		font-weight: bold;
+		font-size: 12px;
+		font-family: arial;
+	}
+	
+	.darkText {
+		color: #00004C;
+		font-weight: bold;
+		font-size: 12px;
+		font-family: arial;
+	}
+	
+	/****** Rapport *******/
+	.rapport {
+		font-family: arial;
+		font-size: 10px;
+	}
+	
+	.rapportTitle {
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	/***** end zone 2 *****/
+	
+	
+	/***** zone 3 *****/
+	.zoneThreeBackground {
+		background-color: #99CCFF;
+	}
+	
+	.zoneThreeLineTwo {
+		background-color: #0066CC;
+	}
+	
+	.zoneThreeLineThree {
+		background-color: #003366;
+	}
+	
+	.zoneThreeLineOne {
+		background-color: #99CCFF;
+	}
+	
+	.zoneThreeHeader {
+		background-color: #185492;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	
+	.zoneThreeContentOneServices {
+		background-color: #0066CC;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 11px;
+	}
+
+	.zoneThreeContentOneServices1 {
+		background-color: #0066CC;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.zoneThreeContentOne {
+		background-color: #0066CC;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 13px;
+	}
+	
+	A.zoneThreeContentOne {
+		text-decoration: underline;
+		font-size: 10px;
+		font-weight: bold;
+		font-family: verdana;
+	}
+	
+	.zoneThreeContentTwo {
+		background-color: #99CCFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 13px;
+	}
+	
+	A.zoneThreeContentTwo {
+		text-decoration: underline;
+		color: #003366;
+		font-size: 10px;
+		font-weight: bold;
+		font-family: verdana;
+	}
+	
+	.zoneThreeEdit {
+		background-color: #1F79D2;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 11px;
+	}
+	
+	A.zoneThreeEdit {
+		text-decoration: underline;
+	}
+	/***** end zone 3 *****/
+	
+	.zoneTwoContent {
+		color: #003366;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	/***** Search *****/
+	.captionSearch {
+		background-color: #003366;
+		color: #99CCFF;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.titleSearch {
+		background-color: #003366;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	.choiceSearch {
+		background-color: #185492;
+		color: #FFFFFF;
+		font-family: arial;
+		font-size: 12px;
+	}
+	/***** end Search *****/
+	
+	/***** Site map *****/
+	.siteMapTitle {
+		background-color: #FFFFFF;
+		color: #003366;
+		font-family: arial;
+		font-size: 15px;
+		font-weight: bold;
+	}
+	
+	.siteNameTitle {
+		background-color: #FFFFFF;
+		color: #0066CC;
+		font-family: arial;
+		font-size: 15px;
+		font-weight: bold;
+	}
+	/***** end of site map *****/
+	</style>
+
+	</head>
+	
+
+	<body class="main" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+	
+	
+		
+			
+			
+			
+			
+			
+			
+		
+
+		<table cellpadding="0" cellspacing="0" border="0" width="766" height="119">
+			<tbody><tr>
+				<!--- Logo of organization --->
+				
+					 <!--- for a zone --->
+						<td valign="top" bgcolor="#ffffff"><a href="/servlets/page?menu_id=8D5421113035386AE034080020D8D313"><img src="/images/logos/logo_usa.gif" border="0" height="119" width="185"></a></td>
+					
+				
+				<td valign="top" width="581" height="119">
+					<table cellpadding="0" cellspacing="0" border="0" width="581" height="119">
+					
+					<tbody><tr>
+						<td align="right" bgcolor="#ffffff" width="secondWidth">
+							<table cellpadding="0" cellspacing="0" border="0" width="581" background="/images/background_top.gif">
+							<tbody><tr>								
+								
+
+								<!--- Top banner area --->
+								<td align="left" valign="bottom" width="468" height="60">
+									
+										<!-- view mode -->
+									    <table cellpadding="0" cellspacing="0" border="0" width="468">
+										<tbody><tr>
+											<td colspan="2">
+												<script>
+													var indexBanner = chooseImageIndex("TopBannerArea");
+													if (indexBanner > -1) {
+														document.write(getTopBannerLinkedImage('', linksTopBannerArea[indexBanner], imagesTopBannerArea[indexBanner], filesTopBannerArea[indexBanner], " width=480 height=60 "));
+														document.close();
+													} else {
+																												
+													}
+												</script>		
+											</td>			
+										</tr>	
+										</tbody></table>
+	 								
+								</td>
+								
+								<td align="right" valign="middle" height="85">
+									&nbsp;
+		<!--- <a href="http://www.usahockey.com/usa_hockey/main/home/usah_privacy_policy/" style="color:white;">Privacy Policy</a>&nbsp;&nbsp;<br>--->
+									
+										<a href="http://www.usahockey.com/usa_hockey/main/home/usah_privacy_policy/" style="color:white;font-size:9.5px;font-family:arial;font-weight:bold"><nobr>Privacy Statement</nobr></a>&nbsp;<br>
+										<a href="/servlets/SiteMap?menu_id=8D5421113035386AE034080020D8D313&amp;page_id=A688C51965BC1D85E034080020D8D313"><img src="/images/site_map.gif" width="70" height="14" border="0" alt=""></a>&nbsp;<br><a href="/servlets/ListViewBSE?displaySearchExistingObjects=true&amp;reloadCriteria=true"><img src="/images/search.gif" width="49" height="14" border="0" alt=""></a>&nbsp;<br><a href="http://ads.efundraising.com/usahockey/" target="_blank"><img src="/images/btn_fundraising.gif" width="80" height="15" border="0" alt=""></a>&nbsp;<br>
+				                  	
+								</td>
+							</tr>							
+							</tbody></table>
+						</td>
+					</tr>
+					
+						
+							<tr>
+	<td width="581" class="menuZone">
+		<table cellpadding="0" cellspacing="0" border="0" class="menuZone">
+		<tbody><tr>
+			
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+			
+			
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBDC2EE73350F99E034080020D8D313&amp;zone=1" class="menuZone"><nobr>Adult Players</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/dot_sub_menu.gif" width="5" height="5" border="0" alt=""><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBDDBC9CBA50FA9E034080020D8D313&amp;zone=1" class="menuZone"><nobr>Coaches</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/dot_sub_menu.gif" width="5" height="5" border="0" alt=""><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBDF27A25301047E034080020D8D313&amp;zone=1" class="menuZone"><nobr>College</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/dot_sub_menu.gif" width="5" height="5" border="0" alt=""><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBDD5D2547B0FA7E034080020D8D313&amp;zone=1" class="menuZone"><nobr>Girls/Women</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/dot_sub_menu.gif" width="5" height="5" border="0" alt=""><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=9DC39D3D736A3260E034080020D8D313&amp;zone=1" class="menuZone"><nobr>InLine</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/dot_sub_menu.gif" width="5" height="5" border="0" alt=""><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBDF0895BD11051E034080020D8D313&amp;zone=1" class="menuZone"><nobr>International</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/dot_sub_menu.gif" width="5" height="5" border="0" alt=""><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBDF37BDD03104DE034080020D8D313&amp;zone=1" class="menuZone"><nobr>Juniors</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				
+					
+						</tr></tbody></table>
+						<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tbody><tr>
+							<td class="lineMenuZone" height="3"><img src="/images/pixel_transparent.gif" height="3"></td>
+						</tr>
+						</tbody></table>
+						<table cellpadding="0" cellspacing="0" border="0" class="menuZone"><tbody><tr>
+						
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBDECFEB0071043E034080020D8D313&amp;zone=1" class="menuZone"><nobr>NTDP</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/dot_sub_menu.gif" width="5" height="5" border="0" alt=""><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBDECFEB0041043E034080020D8D313&amp;zone=1" class="menuZone"><nobr>Officials</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/dot_sub_menu.gif" width="5" height="5" border="0" alt=""><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBDF1304C591039E034080020D8D313&amp;zone=1" class="menuZone"><nobr>Olympics</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/dot_sub_menu.gif" width="5" height="5" border="0" alt=""><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBDF130A34E1049E034080020D8D313&amp;zone=1" class="menuZone"><nobr>Professional</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/dot_sub_menu.gif" width="5" height="5" border="0" alt=""><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBDEE1E89921031E034080020D8D313&amp;zone=1" class="menuZone"><nobr>Volunteers</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+				
+				<td height="14" valign="middle" class="menuZone"><img src="/images/dot_sub_menu.gif" width="5" height="5" border="0" alt=""><img src="/images/pixel_transparent.gif" height="1" width="10"><a href="/servlets/followLink?asit_id=8EBD4EE493950F53E034080020D8D313&amp;zone=1" class="menuZone"><nobr>Youth Players</nobr></a><img src="/images/pixel_transparent.gif" height="1" width="10"></td>
+				 
+					
+				
+			
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td height="1" class="zoneLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+
+						
+					
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+	
+
+
+
+
+<!--- Content --->
+<table cellpadding="0" cellspacing="0" border="0" width="766">
+	<tbody><tr>
+		<!--- Column 1 --->
+		<td width="155" valign="top" class="zoneOneBackground">
+			
+				 <!--- Get in your zone --->
+ 	<!--- <tr>
+		<td><a href="/servlets/Search">Search</a></td>
+	</tr>
+	<tr><td>&nbsp;</td></tr> --->
+	<script language="JavaScript">
+	function followLink(asitId) {
+		location.href="/servlets/followLink?asit_id="+asitId+"&zone=1";
+	}
+	</script>
+	
+ 	<table width="155" cellpadding="0" cellspacing="0" border="0">
+	
+	
+	<tbody><tr>
+		<td><img src="/images/zone.gif" width="155" height="56" border="0" alt=""></td>
+	</tr>
+	
+	
+	
+
+	<tr>
+		<form name="getInZone" method="post"></form>
+		<td valign="middle" align="center" background="/images/background_zone.gif" height="27" width="155">
+			<select name="getInZone" onchange="followLink(this.options[this.options.selectedIndex].value);">
+				<option>Select zone</option>
+				
+					<option value="8EBDC2EE73350F99E034080020D8D313">Adult Players</option>
+				
+					<option value="8EBDDBC9CBA50FA9E034080020D8D313">Coaches</option>
+				
+					<option value="8EBDF27A25301047E034080020D8D313">College</option>
+				
+					<option value="8EBDD5D2547B0FA7E034080020D8D313">Girls/Women</option>
+				
+					<option value="9DC39D3D736A3260E034080020D8D313">InLine</option>
+				
+					<option value="8EBDF0895BD11051E034080020D8D313">International</option>
+				
+					<option value="8EBDF37BDD03104DE034080020D8D313">Juniors</option>
+				
+					<option value="8EBDECFEB0071043E034080020D8D313">NTDP</option>
+				
+					<option value="8EBDECFEB0041043E034080020D8D313">Officials</option>
+				
+					<option value="8EBDF1304C591039E034080020D8D313">Olympics</option>
+				
+					<option value="8EBDF130A34E1049E034080020D8D313">Professional</option>
+				
+					<option value="8EBDEE1E89921031E034080020D8D313">Volunteers</option>
+				
+					<option value="8EBD4EE493950F53E034080020D8D313">Youth Players</option>
+				
+			</select>
+		</td>
+		
+	</tr>
+ 
+	</tbody></table>
+
+
+				<table cellpadding="0" cellspacing="0" border="0" width="155">
+	
+	<tbody><tr>
+		<td class="menuLine"><img src="/images/pixel_transparent.gif" height="1"></td>
+	</tr>
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#053263"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#053263">&nbsp;
+						
+							<a href="/servlets/page?menu_id=8D5421113035386AE034080020D8D313" class="menu">USA HOCKEY HOME</a>
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#162d5a"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#15508d">&nbsp;
+						
+							<a href="/servlets/page?menu_id=8D62F249324C3D27E034080020D8D313" class="menu">Inside USAH</a>
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#282951"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#134d89">&nbsp;
+						
+							<a href="/servlets/page?menu_id=8D62CD4DE4B93D29E034080020D8D313" class="menu">News</a>
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#3a2448"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#104a84">&nbsp;
+						
+							
+								<a href="/servlets/page?menu_id=A79FCC24CB1A647EE034080020D8D313" class="menu">Tournament &amp; Events</a>
+							
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#4c203f"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#0e4680">&nbsp;
+						
+							
+								<a href="/servlets/page?menu_id=9B5F54529874058CE034080020D8D313" class="menu">USA Hockey InLine</a>
+							
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#5e1b36"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#0c437c">&nbsp;
+						
+							
+								<a href="/servlets/page?menu_id=8D3F8D1EE588329CE034080020D8D313" class="menu">Natl. Team Dev. Prog</a>
+							
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#70172d"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#094077">&nbsp;
+						
+							
+								<a href="/servlets/page?menu_id=8E3DCB00867C64D5E034080020D8D313" class="menu">STAR (Rinks)</a>
+							
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#821224"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#073c73">&nbsp;
+						
+							
+								<a href="/servlets/page?menu_id=D086CE572B1943EC9A69E25575F59E28" class="menu">2003 Ice Nationals</a>
+							
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#940e1b"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#04396e">&nbsp;
+						
+							
+								<a href="http://ads.efundraising.com/usahockey/" class="menu" target="_blank">Fundraising</a>
+							
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#a60912"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#02366a">&nbsp;
+						
+							
+								<a href="/servlets/page?menu_id=A118D7852589169FE034080020D8D313" class="menu">Disabled Hockey</a>
+							
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#b70509"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#003266">&nbsp;
+						
+							<a href="/servlets/page?menu_id=8D62CD4DE4BB3D29E034080020D8D313" class="menu">Games</a>
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#b70509"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#003266">&nbsp;
+						
+							
+								<a href="/servlets/page?menu_id=A18047989F6E60A3E034080020D8D313" class="menu">Safety</a>
+							
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#b70509"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#003266">&nbsp;
+						
+							<a href="/servlets/page?menu_id=8D62F249324F3D27E034080020D8D313" class="menu">Learn The Basics</a>
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#b70509"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#003266">&nbsp;
+						
+							
+								<a href="http://shop.usahockey.com" class="menu" target="_blank">Hockey Store</a>
+							
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	
+		
+	
+	<tr>
+		<td class="menu" height="17">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td bgcolor="#b70509"><img src="/images/elispe.gif" width="14" height="17" border="0" alt=""></td>
+					<td width="100%" class="menu" height="17" bgcolor="#003266">&nbsp;
+						
+							
+								<a href="/servlets/page?menu_id=AB657582B0BD522CE034080020D8D313&amp;page_id=A8CEA84B529D4038E034080020D8D313" class="menu">Downloads</a>
+							
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="menuLine" colspan="2"><img src="/images/pixel_transparent.gif" height="1"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+</tbody></table>
+
+			
+			
+			
+				<table cellpadding="0" cellspacing="0" border="0" width="155">
+				<tbody><tr>
+					<td class="zoneOneStripMenu" width="14" height="25">&nbsp;&nbsp;&nbsp;</td>
+					<td height="25" width="141">&nbsp;&nbsp;&nbsp;</td>
+				</tr>
+				</tbody></table>
+			
+			
+			
+				
+<script language="Javascript">
+    function popup958962F0CB86440CE034080020D8D313(result) {
+    var width, height;
+    
+    var resultat = result;
+    
+    width = screen.width/2 - (900/2);
+    height = screen.height/2 - (600/2);
+		
+		
+			
+		
+		
+			
+		
+		
+    
+		
+    
+	if (resultat == "view") {
+    	var source = "/servlets/PollsResult?care_id=958962F0CB86440CE034080020D8D313&menu_id=8D5421113035386AE034080020D8D313&poll_name=%3CCenter%3ECollege+Poll&poll_question=%3Ccenter%3EWhich+college+team+has+been+the+biggest+surprise+this+season%3F";
+	} else {
+		var source = "/servlets/PollsUserServlet?care_id=958962F0CB86440CE034080020D8D313&menu_id=8D5421113035386AE034080020D8D313&poll_name=%3CCenter%3ECollege+Poll&poll_question=%3Ccenter%3EWhich+college+team+has+been+the+biggest+surprise+this+season%3F" + "&result=" + resultat;
+	}
+	var src = document.form958962F0CB86440CE034080020D8D313;
+ 
+    for(i=0; i<=20; i++) {
+      if(src.answer0[i] != null) {
+        if(src.answer0[i].checked) {
+          source = source + "&answer0="+src.answer0[i].value;
+          break;
+         }
+      } 
+    }
+    popupPoll3 = window.open( source, "popupPoll3", "width=900,height=600,toolbar=no,status=no,scrollbars=yes,resizable=yes,menubar=no,location=no,directories=no,left=" + width + ",top=" + height + ",screenX=" + width + ",screenY=" + height );
+  }
+</script>
+
+
+	
+	    <table cellpadding="0" cellspacing="0" border="0" width="155">
+		<form method="post" action="/servlets/PollsUserServlet" name="form958962F0CB86440CE034080020D8D313"></form>
+	   	<tbody><tr>
+			<td class="zoneOneHeader" width="14">&nbsp;</td>
+			<td class="zoneOneHeader" height="18"><center>College Poll</center></td>
+		</tr>
+		<tr>
+			<td class="zoneOneStripMenu" width="14">&nbsp;</td>
+			<td width="141">
+	   			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	           	<tbody><tr>
+	      			<td class="zoneOneContentTwo"><center>Which college team has been the biggest surprise this season?</center></td>
+	      	   	</tr>
+				
+					
+ 						<tr>
+  							<td class="zoneOneContentOne" align="left"><input type="radio" class="checkbox" name="answer0" value="D9F4DCBD2BD04F9582A13D79635D9BAB">Colorado College</td>
+ 						</tr>
+						<tr>
+							<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+						</tr>
+					
+				
+					
+ 						<tr>
+  							<td class="zoneOneContentOne" align="left"><input type="radio" class="checkbox" name="answer0" value="F9DF3A774FDC4879BAE0F59CC385F974">Ferris State</td>
+ 						</tr>
+						<tr>
+							<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+						</tr>
+					
+				
+					
+ 						<tr>
+  							<td class="zoneOneContentOne" align="left"><input type="radio" class="checkbox" name="answer0" value="7E7737FB064346FCBE3EBF321961AF80">Harvard</td>
+ 						</tr>
+						<tr>
+							<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+						</tr>
+					
+				
+					
+ 						<tr>
+  							<td class="zoneOneContentOne" align="left"><input type="radio" class="checkbox" name="answer0" value="E91E847AB426455A86F3DF643210324E">Miami</td>
+ 						</tr>
+						<tr>
+							<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+						</tr>
+					
+				
+					
+ 						<tr>
+  							<td class="zoneOneContentOne" align="left"><input type="radio" class="checkbox" name="answer0" value="6059E0823AC84B178B0C066D46728D12">North Dakota</td>
+ 						</tr>
+						<tr>
+							<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+						</tr>
+					
+				
+					
+ 						<tr>
+  							<td class="zoneOneContentOne" align="left"><input type="radio" class="checkbox" name="answer0" value="6FBAD69702304E4F82C27372162FAD7F">Yale</td>
+ 						</tr>
+						<tr>
+							<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+						</tr>
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+	   			</tbody></table>
+			</td>
+		</tr>
+	    <tr>
+			<td class="zoneOneStripMenu" width="14">&nbsp;</td>
+	      	<td align="center" height="25" class="zoneThreeContentOne">
+            <img src="/images/blue_square.gif" width="5" height="5" border="0" alt="">
+            <a href="#" onclick="popup958962F0CB86440CE034080020D8D313('view'); return false;" class="zoneThreeContentOne">View&nbsp;Results</a>
+            <img src="/images/blue_square.gif" width="5" height="5" border="0" alt="">
+            <a href="#" onclick="popup958962F0CB86440CE034080020D8D313('submit'); return false;" class="zoneThreeContentOne">Submit</a>
+          </td>
+	    </tr>
+		<input type="hidden" name="menu_id" value="8D5421113035386AE034080020D8D313">
+	    <input type="hidden" name="care_id" value="958962F0CB86440CE034080020D8D313">
+	    <input type="hidden" name="poll_name" value="">
+	  	
+		</tbody></table>
+	
+
+
+			
+				
+	
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="155">
+<tbody><tr>
+	<td class="zoneOneHeader" width="14">&nbsp;</td>
+	
+		<td class="zoneOneHeader" height="18"><center>World Junior Championship</center></td>
+	
+</tr>
+<tr>
+	<td class="zoneOneStripMenu" width="14">&nbsp;</td>
+	<td>
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		
+		
+			
+			<tbody><tr>
+	
+				<td class="zoneOneContentOne" align="center"><a href="http://edit.usahockey.com/usa_hockey/03_worldjuniors/03_worldjuniors/"><img src="/files/C3BF4C607ABA4A35A563083F8754E843" border="0" vspace="0" hspace="0" alt=""></a></td>
+	
+			</tr>
+			
+			
+		
+		
+		   <tr>
+		       <td align="center" class="zoneOneContentOne" height="25"><img src="/images/blue_square.gif" width="5" height="5" border="0" alt="">&nbsp;<a href="http://edit.usahockey.com/usa_hockey/03_worldjuniors/03_worldjuniors/" class="zoneOneContentOne">World Junior Championship Section</a></td>
+		   </tr>
+		
+		<tr>
+			<td width="100%">
+			    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				
+				</table>
+			</td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+			
+				
+	
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="155">
+<tbody><tr>
+	<td class="zoneOneHeader" width="14">&nbsp;</td>
+	
+		<td class="zoneOneHeader" height="18"><center>Olympics</center></td>
+	
+</tr>
+<tr>
+	<td class="zoneOneStripMenu" width="14">&nbsp;</td>
+	<td>
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		
+		
+			
+			<tbody><tr>
+	
+				<td class="zoneOneContentOne" align="center"><a href="http://www.usahockey.com/usa_hockey/olympics/home_olympics/"><img src="/files/9D54DB4EB1301ABBE034080020D8D313" border="0" vspace="0" hspace="0" alt=""></a></td>
+	
+			</tr>
+			
+			
+		
+		
+		   <tr>
+		       <td align="center" class="zoneOneContentOne" height="25"><img src="/images/blue_square.gif" width="5" height="5" border="0" alt="">&nbsp;<a href="http://www.usahockey.com/usa_hockey/olympics/home_olympics/" class="zoneOneContentOne">Olympics Section</a></td>
+		   </tr>
+		
+		<tr>
+			<td width="100%">
+			    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				
+				</table>
+			</td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+			
+				
+	
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="155">
+<tbody><tr>
+	<td class="zoneOneHeader" width="14">&nbsp;</td>
+	
+		<td class="zoneOneHeader" height="18"><center>FirstUSA Credit Card</center></td>
+	
+</tr>
+<tr>
+	<td class="zoneOneStripMenu" width="14">&nbsp;</td>
+	<td>
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		
+		
+			
+			<tbody><tr>
+	
+				<td class="zoneOneContentOne" align="center"><a href="http://www.firstusa.com/cgi-bin/webcgi/webserve.cgi?partner_dir_name=usa_hockey&amp;page=cont"><img src="/files/9B85585D04F51114E034080020D8D313" border="0" vspace="0" hspace="0" alt=""></a></td>
+	
+			</tr>
+			
+			
+		
+		
+		   <tr>
+		       <td align="center" class="zoneOneContentOne" height="25"><img src="/images/blue_square.gif" width="5" height="5" border="0" alt="">&nbsp;<a href="http://www.firstusa.com/cgi-bin/webcgi/webserve.cgi?partner_dir_name=usa_hockey&amp;page=cont" class="zoneOneContentOne">Apply Today!</a></td>
+		   </tr>
+		
+		<tr>
+			<td width="100%">
+			    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				
+				</table>
+			</td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+			
+		</td>
+		<td valign="top" width="611">
+			<table width="611" border="0" cellpadding="0" cellspacing="0">
+			
+			<tbody><tr>
+				<!--- Column 2 --->
+				<!--- Zone 2 --->
+				<td width="431" valign="top" class="rowLight" align="right">
+					
+					
+					
+						
+							
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" class="newsAreaZone2SkinB" width="431">
+<tbody><tr>
+	<td width="14">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	<td>
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tbody><tr>
+			<td width="100%" class="dottedLine" height="11"><img src="/images/dotted_longLine.gif" width="400" height="1"></td>
+		</tr>
+		<tr>
+			<td class="publAreaTitleZone2">Privacy Statement</td>
+		</tr>
+		<tr>
+			<td width="100%" class="dottedLine" height="11"><img src="/images/dotted_longLine.gif" width="400" height="1"></td>
+		</tr>
+		<tr>
+			<td class="publAreaBodyZone2">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+					
+	<tbody><tr>
+		<td class="publAreaBodyZone2"><p><font size="2"><strong>Welcome </strong>to usahockey.com!&nbsp; This Web site (this “Site”) is owned and operated by USA Hockey, Inc. (“USAH,” “we” or “us”).&nbsp; USAH is the national governing body for the sport of amateur hockey in the United States.&nbsp; </font></p>
+<p><font size="2"><strong>This Web Site Privacy Statement.</strong>&nbsp; We are committed to respecting the personal privacy of the individuals who use this Site.&nbsp; This Web Site Privacy Statement&nbsp; (this “Privacy Statement”) describes our current policies and practices with regard to the personal information we collect through this Site.&nbsp; The term “personal information” means individually identifiable information about an individual collected through this Site, such as, the name, age, telephone number, e-mail address or mailing address of that individual.&nbsp; </font></p>
+<p><font size="2"><strong>Children Under 13.</strong>&nbsp; We recognize the need to provide additional privacy protections for children who visit this Site. To read about our privacy statement regarding protections for children who are under 13, </font><a href="/servlets/followLink?asit_id=A6896B5693071DD4E034080020D8D313"><font size="2">click here</font></a><font size="2">.</font></p>
+<p><font size="2"><strong>Terms of Use.</strong>&nbsp; This Privacy Statement is part of the </font><a href="/servlets/followLink?asit_id=A688CF495BF81DDEE034080020D8D313"><font size="2">Terms of Use</font></a><font size="2"> for this Site.&nbsp; Please be sure to read the </font><a href="/servlets/followLink?asit_id=A688CF495BF81DDEE034080020D8D313"><font size="2">Terms of Use</font></a><font size="2">.&nbsp; By using this Site, you agree to be bound by the Terms of Use.&nbsp; If you do not agree to the Terms of Use, you must not use this Site.</font></p>
+<p><font size="2"><strong>Your Consent.&nbsp; By using this Site, you consent to the collection, use and disclosure of your personal information as described in this Privacy Statement.&nbsp;&nbsp; If you do not consent to the terms of this Privacy Statement, you must not use this Site.</strong> </font></p>
+<p><font size="2"><strong>Changes to this Privacy Statement.</strong>&nbsp; This Privacy Statement describes our current policies and practices regarding personal information collected through this Site.&nbsp; We reserve the right to update or modify this Privacy Statement at any time without prior notice.&nbsp; We will do so by posting an updated or modified version of this Privacy Statement on this Site.&nbsp; Your use of this Site following any such change constitutes your agreement that personal information collected from or about you through this Site after the revised Privacy Statement is posted will be subject to the terms of the revised Privacy Statement.&nbsp; For this reason, we encourage you to review this Privacy Statement regularly.<br>&nbsp;<br>You may access the current version of this Privacy Statement by clicking on the button marked “Privacy Statement.”</font></p>
+<p><font size="2">This Privacy Statement was last revised on July 24, 2002.</font></p>
+<p><font size="2"><strong>What Personal Information Is Collected Through This Site.</strong>&nbsp; We collect the personal information you supply when you use this Site, for example, the information you provide when you request an e-mail newsletter, ask a question, enter a contest or sweepstakes or complete a survey.&nbsp; This information may include your name, your address, your e-mail address and any other personal or preference information you share with us. </font></p>
+<p><font size="2"><strong>How We Use Personal Information.</strong>&nbsp; We use your personal information to provide the information, offerings and services you request.&nbsp; For example, we use your e-mail address to respond to your comments and questions or to send e-mail newsletters.&nbsp; We may use your personal information to personalize this Site to meet your specific needs.&nbsp; </font></p>
+<p><font size="2">We also use personal information collected through this Site to improve the content and functionality of this Site, to better understand our visitors and members, to improve our offerings and services, and to market our events, offerings and services to our visitors and members.&nbsp; In addition, we use personal information to contact you with offers and information about events, offerings and services from other organizations that we believe will be of interest to you.&nbsp; If you would prefer that we not contact you for such purposes, you may indicate this preference by sending an email to </font><a href="mailto:unsubscribe@usahockey.org"><font size="2">unsubscribe@usahockey.org</font></a><font size="2">&nbsp;or by writing us at&nbsp; USA Hockey, Inc., 1775 Bob Johnson Drive, Colorado Springs, CO, 80906, Attn.: Online Services Department.&nbsp; We will use reasonable efforts to honor such requests.&nbsp; You must understand, however, that even if you “opt-out,” you may still receive communications from us, for example, if we receive your contact information from another source or if we initiated the communication before we received your “opt-out” request.&nbsp; </font></p>
+<p><font size="2"><strong>Disclosure of Personal Information.</strong>&nbsp; We share personal information collected through this Site with our affiliated organizations (such as other hockey associations, leagues or teams) and other organizations that are part of our affiliates, who may use this information in ways similar to how we use this information.&nbsp; We also share personal information collected through this Site with selected third party business partners, who use the information to provide special opportunities and offers to you. </font></p>
+<p><font size="2">If you would prefer that we not share your personal information with our affiliated organizations or business partners, you may indicate this preference by sending an email to </font><a href="mailto:unsubscribe@usahockey.org"><font size="2">unsubscribe@usahockey.org</font></a><font size="2">&nbsp;or by writing us at&nbsp; USA Hockey, Inc., 1775 Bob Johnson Drive, Colorado Springs, CO&nbsp; 80906, Attn.: Online Services.&nbsp; We will use reasonable efforts to honor such requests.&nbsp; You must understand, however, that even if you “opt-out,” you may still receive communications from our affiliated organizations or business partners, for example, if they received your contact information from another source or if they initiated the communication before we received your “opt-out” request.<br>&nbsp;<br>We share personal information collected through this Site with third party vendors who act for us or on our behalf, for example, to help us fill your orders, run promotions or provide other support services.&nbsp; Our affiliates and our business partners may also share personal information with vendors who provide support services to them.&nbsp; These vendors need information about you in order to perform their functions.&nbsp; These vendors are not authorized to use the information we share with them (or that our affiliates and business partners share with them) for any purpose other than to provide services to us, our affiliates or our business partners.&nbsp;&nbsp;&nbsp; </font></p>
+<p><font size="2">In addition, there may be some other, limited circumstances in which we may share or transfer personal information in our databases to a third party, for example, to comply with a legal requirement, for the administration of justice, to protect the security of our systems or service, or in the event of a merger, reorganization, dissolution or similar event. </font></p>
+<p><font size="2"><strong>Other Information Collected Through This Site.</strong>&nbsp; We use technology that tells us how visitors use this Site, for example, which pages they view, which links they use and which search terms they input.&nbsp; This information is called “click-stream data.”&nbsp; Click-stream data helps us determine what is important to you and what is not.&nbsp; It helps us decide what content and features to add and what to discard.&nbsp; It also helps us determine whether our Site is easy to use or whether we need to redesign certain pages and links.&nbsp; Click-stream data does not identify you personally.&nbsp; </font></p>
+<p><font size="2">We also use technology to collect the following information and other information of a similar nature:&nbsp; the name of your Internet service provider; your IP address; your operating system (Windows, Macintosh, Unix, and so on); and your browser type (Netscape, Internet Explorer, and so on).&nbsp; We use this information to compile statistics about the technology used by our visitors.&nbsp; These statistics help us improve our Site and make it more compatible with the technology used by our visitors. </font></p>
+<p><font size="2"><strong>Cookies.</strong>&nbsp; This Site uses certain software technology known as “cookies.”&nbsp; Cookies are small text files that a web site places on a visitor’s computer browser to store certain information about the visitor, such as a visitor’s preferences.&nbsp; Some web browsers provide you with the ability to turn off or refuse cookies.&nbsp; However, if you turn off cookies or refuse cookies, some of the features of this Site may not function properly.&nbsp; </font></p>
+<p><font size="2"><strong>Links To Local Hockey Organization Web Pages Hosted On This Site.</strong> This Site contains web pages that are controlled (at least in part) by local hockey organizations (e.g., local hockey associations, leagues or teams) that are affiliated with, but not controlled by, USAH.&nbsp; Although USAH provides the tools and space for these local hockey organizations to post content on their web pages, subject to certain guidelines, these local organizations (and not USAH) control the content they post on or information they collect through their web pages.&nbsp; USAH expressly disclaims any responsibility for the data practices of these local organizations or their web pages.&nbsp; You should contact these organizations directly about any content posted on their web pages or to learn how they collect and use information collected through their web pages.</font></p>
+<p><font size="2"><strong>Links to Other Web Sites.</strong>&nbsp; This privacy policy applies only to this Site. This Site contains links to other web sites, including those of advertisers and sponsors.&nbsp; These other web sites have their own policies regarding privacy. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal information about yourself.&nbsp; In addition, you may have linked to this site through another site. For example, in certain cases you may have linked to this site through banner advertising on another site.&nbsp; In such cases, the site you linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.</font></p>
+<p><font size="2"><strong>Questions About This Privacy Statement.</strong>&nbsp; If you have any questions about this Privacy Statement or concerns about the way we process your personal information, please contact us at&nbsp;USA Hockey, Inc., 1775 Bob Johnson Drive, Colorado Springs, CO&nbsp; 80906, Attn.: Online Services. or (800) 566-3288 or fax at (719) 538-1160 or </font><a href="mailto:comments@usahockey.org"><font size="2">comments@usahockey.org</font></a><font size="2">.</font></p></td>
+	</tr>
+	
+		
+	
+
+				</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" class="publAreaBodyZone2">
+			
+			
+
+
+
+			
+
+
+
+			
+
+
+
+		</table>
+	</td>
+	<td width="7">&nbsp;</td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+</tbody></table>
+
+ 
+
+						
+					
+					
+						<br><img src="/images/blue_square.gif" width="5" height="5" border="0" alt="">&nbsp;<a href="/servlets/PrintableWebPage?menu_id=8D5421113035386AE034080020D8D313&amp;page_id=A688C51965BC1D85E034080020D8D313" class="buttonLight" target="blank">Printer Friendly Format</a>&nbsp;&nbsp;&nbsp;
+					
+				</td>
+				<!--- Column 3 --->
+				<!--- Zone 3 --->
+				<!--- If we are showing the master schedule via the servlet (from tournament standings) we must not show zone 3 --->
+				
+				
+					<td width="180" valign="top" class="zoneThreeBackground" align="right">
+						
+						
+						
+							 
+
+ 
+
+<table cellpadding="0" cellspacing="0" border="0" width="180">
+
+<tbody><tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineThree"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+
+<tr>
+	<td align="center" class="zoneThreeHeader" height="22">Play/Find Hockey Near You</td>
+</tr>
+
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineThree"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+
+<tr>
+	<td class="zoneThreeContentOne" align="center"><a href="/servlets/FindHockeyNearYou?action=IC&amp;menu_id=8D5421113035386AE034080020D8D313&amp;page_id=A688C51965BC1D85E034080020D8D313" class="zoneThreeContentOne"><img src="/images/map_org.gif" border="0" width="139" height="79" alt=""></a></td>
+</tr>
+<tr>
+	<td class="zoneThreeContentOne" align="center" height="25"><a href="/servlets/FindHockeyNearYou?action=IC&amp;menu_id=8D5421113035386AE034080020D8D313&amp;page_id=A688C51965BC1D85E034080020D8D313" class="zoneThreeContentOne">Search Ice</a>
+	&nbsp;&nbsp;
+	<a href="/servlets/FindHockeyNearYou?action=IN&amp;menu_id=8D5421113035386AE034080020D8D313&amp;page_id=A688C51965BC1D85E034080020D8D313" class="zoneThreeContentOne">Search InLine</a>
+	</td>
+</tr>
+</tbody></table>
+
+
+
+						
+							 
+
+ 
+
+
+	
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="180">
+
+
+<tbody><tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineThree"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+
+<tr>
+	
+		<td class="zoneThreeHeader" height="22" align="center">Official Online Hockey Store</td>
+	
+</tr>
+
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineThree"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+
+
+<tr>
+	<td class="zoneThreeContentOne"><img src="/images/pixel_transparent.gif" height="9"></td>
+</tr>
+
+
+	
+	<tr>
+		<td align="center" class="zoneThreeContentOne"><a href="http://shop.usahockey.com/"><img src="/files/E7FD661EF2C44110908A6C2AD9A8190C" border="0" vspace="0" hspace="0" alt=""></a></td>
+	</tr>
+	
+	
+
+
+   <tr>
+       <td align="center" class="zoneThreeContentOne" height="25"><a href="http://shop.usahockey.com/" class="zoneThreeContentOne">Order the Holiday Stocking for your fireplace!</a></td>
+   </tr>
+
+
+</tbody></table>
+
+						
+							 
+
+ 
+
+<script language="Javascript">
+   function popup95B83292D0024617E034080020D8D313() {
+    var width, height;
+    
+    width = screen.width/2 - (760/2);
+    height = screen.height/2 - (600/2);
+    
+    
+			
+		
+		
+			
+		
+    
+			
+		
+		
+    
+		
+    var source = "/servlets/TriviaUserServlet?care_id=95B83292D0024617E034080020D8D313&menu_id=8D5421113035386AE034080020D8D313&trivia_name=%3Ccenter%3EHockey+Trivia&description=%3CP%3E%3CFONT+size%3D2%3EThe+Calgary+Flames+currently+have+two+American-born+Hobey+Baker+winners+on+their+roster%2C+with+Chris+Drury+%28Boston+University%2C+1998%29+and+Jordan+Leopold+%28Minnesota%2C+2002%29+on+their+roster.%3C%2FFONT%3E%3C%2FP%3E%0D%0A%3CP%3E%3CFONT+size%3D2%3EThe+Anaheim+Mighty+Ducks+also+have+two+Hobey+Baker+winners+on+their+roster+in+Paul+Kariya+%28Maine%2C+1993%29+and+Jason+Krog+%28New+Hampshire%2C+1999%29%2C+but+both+were+born+in+British+Columbia.%3C%2FFONT%3E%3C%2FP%3E%0D%0A%3CP%3E%3CFONT+size%3D2%3EOther+U.S.-born+Hobey+Baker+winners+appearing+in+the+NHL+this+season+are+Buffalo%27s+Ryan+Miller+%28Michigan+State%2C+2001%29%2C+Tampa+Bay%27s+Brian+Holzinger+%28Bowling+Green%2C+1995%29+and+Washington%27s+Kip+Miller+%28Michigan+State%2C+1990%29.%3C%2FFONT%3E%3C%2FP%3E&trivia_question=%3Ccenter%3EWhich+NHL+team+features+two+American+Hobey+Baker+winners+on+their+roster%3F&trivia_correctAnswer=c";
+    var src = document.form95B83292D0024617E034080020D8D313;
+    		      
+    for(i=0; i<=4; i++) {
+      if(src.answer0[i] != null) {
+        if(src.answer0[i].checked) {
+          source = source + "&answer0="+src.answer0[i].value;
+          break;
+         }
+      } 
+    }
+    popupTrivia3 = window.open( source, "popupTrivia3", "width=760,height=600,toolbar=no,status=no,scrollbars=yes,resizable=yes,menubar=no,location=no,directories=no,left=" + width + ",top=" + height + ",screenX=" + width + ",screenY=" + height );
+  }
+
+</script>
+
+
+	
+		<table cellpadding="0" cellspacing="0" border="0" width="180">
+		<form method="post" action="/servlets/TriviaUserServlet" name="form95B83292D0024617E034080020D8D313"></form>
+		
+<tbody><tr>
+	<td height="1" colspan="2" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" colspan="2" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" colspan="2" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" colspan="2" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" colspan="2" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" colspan="2" class="zoneThreeLineThree"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+
+		<tr>
+			
+				<td class="zoneThreeHeader" height="22" align="center" colspan="2"><center>Hockey Trivia</center></td>
+			
+		</tr>
+		
+<tr>
+	<td height="1" colspan="2" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" colspan="2" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" colspan="2" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" colspan="2" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" colspan="2" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" colspan="2" class="zoneThreeLineThree"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+
+		<tr>
+			<td width="8" class="zoneThreeContentTwo">&nbsp;&nbsp;</td>
+			<td width="172">
+				<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				
+				
+				<tbody><tr>
+					<td class="zoneThreeContentTwo">&nbsp;<center>Which NHL team features two American Hobey Baker winners on their roster?</center></td>
+				</tr>
+				
+					
+						<tr>
+							<td width="100%" class="zoneThreeContentTwo">
+								&nbsp;<input type="radio" class="checkbox" name="answer0" value="C24D310351E84752996CCE3AC73C8A90">Anaheim
+							</td>
+						</tr>
+					
+				
+					
+						<tr>
+							<td width="100%" class="zoneThreeContentTwo">
+								&nbsp;<input type="radio" class="checkbox" name="answer0" value="2D86F13CEC5141A1B57C100C22132EB8">Buffalo
+							</td>
+						</tr>
+					
+				
+					
+						<tr>
+							<td width="100%" class="zoneThreeContentTwo">
+								&nbsp;<input type="radio" class="checkbox" name="answer0" value="FACFEAB63BD84635AD06E330E407A9C0">Calgary
+							</td>
+						</tr>
+					
+				
+					
+						<tr>
+							<td width="100%" class="zoneThreeContentTwo">
+								&nbsp;<input type="radio" class="checkbox" name="answer0" value="50ECC5E71B944C85B04ECF67902D16D3">Tampa Bay
+							</td>
+						</tr>
+					
+				
+					
+						<tr>
+							<td width="100%" class="zoneThreeContentTwo">
+								&nbsp;<input type="radio" class="checkbox" name="answer0" value="AE4201C3A41F487EB659A0F71419A399">Washington
+							</td>
+						</tr>
+					
+				
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr>
+		    <td align="center" height="25" class="zoneThreeContentTwo" colspan="2">
+		        <img src="/images/blue_square.gif" width="5" height="5" border="0" alt="">
+		        <a href="#" onclick="popup95B83292D0024617E034080020D8D313(); return false;" class="zoneThreeContentTwo">Submit</a>
+		    </td>
+		</tr>
+		
+		<input type="hidden" name="actionToPerform" value="">
+		<input type="hidden" name="menu_id" value="8D5421113035386AE034080020D8D313">
+		<input type="hidden" name="care_id" value="95B83292D0024617E034080020D8D313">
+		<input type="hidden" name="trivia_name" value="<center>Hockey Trivia">
+		<input type="hidden" name="description" value="<P><FONT size=2>The Calgary Flames currently have two American-born Hobey Baker winners on their roster, with Chris Drury (Boston University, 1998) and Jordan Leopold (Minnesota, 2002) on their roster.</FONT></P>
+<P><FONT size=2>The Anaheim Mighty Ducks also have two Hobey Baker winners on their roster in Paul Kariya (Maine, 1993) and Jason Krog (New Hampshire, 1999), but both were born in British Columbia.</FONT></P>
+<P><FONT size=2>Other U.S.-born Hobey Baker winners appearing in the NHL this season are Buffalo's Ryan Miller (Michigan State, 2001), Tampa Bay's Brian Holzinger (Bowling Green, 1995) and Washington's Kip Miller (Michigan State, 1990).</FONT></P>">
+		
+		</tbody></table>
+	
+
+
+						
+							 
+
+ 
+
+
+	
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="180">
+
+
+<tbody><tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineThree"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+
+<tr>
+	
+		<td class="zoneThreeHeader" height="22" align="center">Our Official Publication</td>
+	
+</tr>
+
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineTwo"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineOne"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+<tr>
+	<td height="1" class="zoneThreeLineThree"><img src="/images/pixel_transparent.gif" height="1"></td>
+</tr>
+
+
+<tr>
+	<td class="zoneThreeContentOne"><img src="/images/pixel_transparent.gif" height="9"></td>
+</tr>
+
+
+	
+	
+	<tr>
+		<td align="center" class="zoneThreeContentOne"><a href="/servlets/followLink?asit_id=CBB6E52F986D43ACB914634AAB27A974"><img src="/files/6EA076B239E54F18B51DF86DC3FA27A1" border="0" vspace="0" hspace="0" alt=""></a></td>
+	</tr>
+	
+
+
+   <tr>
+       <td align="center" class="zoneThreeContentOne" height="25"><img src="/images/blue_square.gif" width="5" height="5" border="0" alt="">&nbsp;<a href="/servlets/followLink?asit_id=CBB6E52F986D43ACB914634AAB27A974" class="zoneThreeContentOne">American Hockey Magazine November Issue!</a></td>
+   </tr>
+
+
+</tbody></table>
+
+						
+					</td>
+				
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<br><br>
+<table width="766" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
+	<tbody><tr>
+		<td width="250">&nbsp;</td>
+		<td align="center"><a href="http://www.usolympicteam.com" target="_blank"><img src="/images/logo_usa.gif" width="71" height="54" border="0" alt=""></a></td>
+		<td align="center"><a href="http://www.saltlake2002.com" target="_blank"><img src="/images/logo_salt_lake.gif" width="87" height="54" border="0" alt=""></a></td>
+		<td align="center"><a href="http://www.iihf.com" target="_blank"><img src="/images/logo_iihf.gif" width="97" height="54" border="0" alt=""></a></td>
+		<td width="263">&nbsp;</td>
+	</tr>
+</tbody></table>
+
+<br><br>
+</body></html>
