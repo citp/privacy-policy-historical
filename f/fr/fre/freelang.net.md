@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the freelang.net privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017125744id_/http%3A//www.freelang.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelang.net privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602033255id_/http%3A//freelang.net/privacy.html) for the most accurate reproduction.*
 
 # FREELANG.net - privacy
 
-|  [DICTIONARY](https://web.archive.org/web/20021017125744id_/http%3A//www.freelang.net/dictionary/index.html)  
+|  [DICTIONARY](https://web.archive.org/web/20030602033255id_/http%3A//freelang.net/dictionary/index.html)  
 ---  
 Offline dictionary program (freeware for Windows). Install the program once, then download as many word lists as needed.  
   
- [FREE TRANSLATION](https://web.archive.org/web/20021017125744id_/http%3A//www.freelang.net/translation/index.html)  
+ [FREE TRANSLATION](https://web.archive.org/web/20030602033255id_/http%3A//freelang.net/translation/index.html)  
 ---  
 Having trouble translating something? Ask your question to volunteers ready to help you... for free!  
   
- [FONT CENTER](https://web.archive.org/web/20021017125744id_/http%3A//www.freelang.net/fonts/index.html)  
+ [FONT CENTER](https://web.archive.org/web/20030602033255id_/http%3A//freelang.net/fonts/index.html)  
 ---  
 From Arab to Vietnamese, including Hebrew, Japanese... more than 300 fonts available to download on one page.  
   
@@ -38,6 +38,6 @@ IExplorer 5.x, 800x600
 
 * * *
 
-© Beaumont 1997-2002
+© Beaumont 1997-2003
 
 * * *
