@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upsaid.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607130719id_/http%3A//www.upsaid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsaid.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210021004id_/http%3A//www.upsaid.com/privacy.php) for the most accurate reproduction.*
 
 # Upsaid : Privacy policy
 
