@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineincomesolution.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610065311id_/http%3A//onlineincomesolution.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineincomesolution.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004061319id_/http%3A//www.onlineincomesolution.com/privacy.htm) for the most accurate reproduction.*
 
 # SFI Affiliate Program
 
