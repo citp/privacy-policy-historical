@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodreporter.com privacy policy that was archived on 2000-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000529201127id_/http%3A//www.hollywoodreporter.com/mast/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodreporter.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207123400id_/http%3A//hollywoodreporter.com/mast/privacy.asp) for the most accurate reproduction.*
 
 # THR Privacy Policy
 
@@ -44,9 +44,9 @@ We welcome your questions and/or comments. Please send all queries to [ webmaste
   
 
 
-| [Front Page](https://web.archive.org/frontpage/index.asp) | [Film](https://web.archive.org/film/index.asp) | [Television](https://web.archive.org/television/index.asp) | [Music](https://web.archive.org/music/index.asp) | [Int'l](https://web.archive.org/international/index.asp) | [Business](https://web.archive.org/business/index.asp) | [Web Watch](https://web.archive.org/webwatch/index.asp) | [N.Y.](https://web.archive.org/newyork/index.asp) | [More News](https://web.archive.org/morenews/index.asp) |   
+| [Front Page](https://web.archive.org/frontpage/index.asp) | [Film](https://web.archive.org/film/index.asp) | [Television](https://web.archive.org/television/index.asp) | [Music](https://web.archive.org/music/index.asp) | [Int'l](https://web.archive.org/international/index.asp) | [Business](https://web.archive.org/business/index.asp) | [Web/New Media](https://web.archive.org/convergence/index.asp) | [N.Y.](https://web.archive.org/newyork/index.asp) | [More News](https://web.archive.org/morenews/index.asp) |   
 | [Columnists](https://web.archive.org/columnists/index.asp) | [Reviews](https://web.archive.org/reviews/index.asp) | [Boxoffice](https://web.archive.org/boxoffice/index.asp) | [Int'l Boxoffice](https://web.archive.org/intlbox/index.asp) | [Production](https://web.archive.org/charts/index.asp) | [Classifieds](https://web.archive.org/classifieds/index.asp) |   
-| [Fall TV Sked](https://web.archive.org/television/schedule00/) | [Home Video](https://web.archive.org/video/index.asp) | [Star Power](https://web.archive.org/starpower/index.asp) | [Director Power](https://web.archive.org/directorpower/index.asp) | [Script Sales](https://web.archive.org/literary/index.asp) | [In Words](https://web.archive.org/inwords/index.asp) |   
+| [Web Ratings](https://web.archive.org/webratings/index.asp) | [Home Video](https://web.archive.org/video/index.asp) | [Star Power](https://web.archive.org/starpower/index.asp) | [Director Power](https://web.archive.org/directorpower/index.asp) | [Script Sales](https://web.archive.org/literary/index.asp) | [In Words](https://web.archive.org/inwords/index.asp) |   
 | [Calendar](https://web.archive.org/calendar/index.asp) | [Archives](https://web.archive.org/newsearch.asp) | [Hollywood Hyperlink](https://web.archive.org/hyperlink/index.asp) | [Main Page](https://web.archive.org/index.asp) | 
 
 * * *
