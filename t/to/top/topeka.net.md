@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topeka.net privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605023039id_/http%3A//www.topeka.net/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topeka.net privacy policy that was archived on 2003-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031130004426id_/http%3A//www.topeka.net/privacypolicy.shtml) for the most accurate reproduction.*
 
 # 
 
