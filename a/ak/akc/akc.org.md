@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205005841id_/http%3A//www.akc.org/akc/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611015741id_/http%3A//akc.org/akc/privacystatement.cfm) for the most accurate reproduction.*
 
 # AKC Web site Privacy Statement
 
@@ -41,7 +41,31 @@ You may access, edit or delete your personally identifiable information by [upda
 Our Web site contains links to other, third party Web sites. Please note that once you access another Web site, you are subject to the privacy policy of that Web site. We do not represent or guarantee that those Web site policies conform to our own.
 
 **Your consent**  
-By using our Web site, you consent to the collection and use of this information by AKC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+By using our Web site, you consent to the collection and use of this information by AKC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+**Kids Privacy Policy**  
+The AKC Web site is a general audience Web site. This policy applies only to information collected at AKC’s Web site and not to information collected by the AKC through other means. The only instances in which the AKC knowingly collects information from children under thirteen are email to “Dear Bailey” and a request to receive the AKC Junior e-newsletter.
+
+**Junior e-newsletter**  
+The AKC collects email addresses from children under thirteen in order to send them a Junior e-newsletter. In order to send the Junior e-newsletter the child’s email address will be sent to a third party to process the request and send the newsletter. This third party is restricted by contract from using the email address for any other purpose other than sending the e-newsletter. Prior to sending the Junior e-newsletter to a child under thirteen, the AKC will contact the parent or legal guardian at the email address given to the AKC by the person requesting to receive the Junior e-newsletter. Parents or legal guardians may request to review the information that has been collected, find out how the information collected has been used, and, if you choose, prohibit us from making further use of your child’s information and that your child’s information be deleted. Additionally, if you request the deletion of the collected information it will also be deleted by the third party. 
+
+**Dear Bailey**   
+"Dear Bailey" email connects your child with the American Kennel Club. If your child sends us an email with a question or comment or enters one of our contests, the American Kennel Club will respond using his or her email address. The AKC will not store that email for future communications and will not share it with any third parties. The American Kennel Club reserves the right to post an email submitted by a child on our Kids' Corner newsletter site. We will identify your child by first name, age and state only. If your child submits artwork, stories, comments or anything else to us which is posted at our site, he or she will be identified by first name, age and state. 
+
+You and your child's use of this site are conditioned on your having accepted these terms. You should check back at this policy frequently, since it is subject to change from time to time, and your continued use of the site is conditioned upon your acceptance of any modification hereto.
+
+In order to review the information collected and to request deletion, a parent or child may email [master@akc.org](mailto:master@akc.org) write privacy policy in the message space or contact us at the address or phone number listed below.
+
+Mailing Address: 
+
+Robert Keely  
+Privacy Policy  
+American Kennel Club   
+5580 Centerview Drive  
+Raleigh, NC 27606-3390 
+
+Our Customer Service Department is open from 8:30 am to 5:00 PM Eastern Time   
+Phone number: 919-233-9767 
 
 **Tell us what you think**  
-AKC welcomes your questions and comments about privacy and our Web site. Please send e-mail to [info@akc.org](mailto:info@akc.org).
+AKC welcomes your questions and comments about privacy and our Web site. Please send email to [info@akc.org](mailto:info@akc.org).
