@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the soundcu.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcu.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/privacy.htm) for the most accurate reproduction.*
 
 # Sound Credit Union
 
-  | [](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/aboutus/default.htm) | [](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/aboutus/default.htm)  
+  | [](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/aboutus/default.htm) | [](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/aboutus/default.htm)  
 ---|---  
-[](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/whatsnew/default.htm) | [](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/whatsnew/default.htm)  
-[](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/24houraccess/default.htm) | [](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/24houraccess/default.htm)  
-[](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/depositproducts/default.htm) | [](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/depositproducts/default.htm)  
-[](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/Loans/default.htm) | [](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/Loans/default.htm)  
-[](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/visaproducts/default.htm) | [](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/visaproducts/default.htm)  
-[](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/calcsfeesrates/default.htm) | [](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/calcsfeesrates/default.htm)  
-[](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/employment/default.htm) | [](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/employment/default.htm)  
+[](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/whatsnew/default.htm) | [](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/whatsnew/default.htm)  
+[](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/24houraccess/default.htm) | [](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/24houraccess/default.htm)  
+[](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/depositproducts/default.htm) | [](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/depositproducts/default.htm)  
+[](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/Loans/default.htm) | [](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/Loans/default.htm)  
+[](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/visaproducts/default.htm) | [](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/visaproducts/default.htm)  
+[](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/calcsfeesrates/default.htm) | [](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/calcsfeesrates/default.htm)  
+[](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/employment/default.htm) | [](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/employment/default.htm)  
 | 
 
   
@@ -64,4 +64,4 @@ We reserve the right to amend our Privacy Policy at anytime and we will notify y
 
 For questions about your account, please email [Member Service](mailto:info@soundcu.com).  
 Questions or Feedback about our site? Please email  the [Webmaster](mailto:webmaster@soundcu.com).  
-Copyright ©2002 Sound Credit Union.  All rights reserved.  [Privacy Notice](https://web.archive.org/web/20021205115353id_/http%3A//www.soundcu.com/privacy.htm)
+Copyright ©2003 Sound Credit Union.  All rights reserved.  [Privacy Notice](https://web.archive.org/web/20030412190030id_/http%3A//www.soundcu.com/privacy.htm)
