@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2001-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010630170157id_/http%3A//www.ebgames.com/ebx/help/default.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610084605id_/http%3A//www.ebgames.com/ebx/help/default.asp%23privacy) for the most accurate reproduction.*
 
 # EBgames.com - Help Desk
 
-**ebgames.com** help desk   
+* * *
 
+  
+**First Time Visitors**
 
 * * *
 
-» **Welcome...**  
-   ...to EBgames.com Help. You've probably come here because you have a question about something, or you are just curious how something on our site works. Either way, we here at EBgames.com are committed to making your shopping experience an enjoyable one. If you don't find what you need here, feel free to call our Customer Service center at **1-877-432-9675** to speak with a Customer Service Representative. Hours of operation: everyday 8:00 a.m. to Midnight (EST) 
+» **Welcome to EBgames.com**  
+You've probably come here because you have a question about something, or you are just curious how something on our site works. Either way, we here at EBgames.com are committed to making your shopping experience an enjoyable one. If you don't find what you need here, feel free to call our Customer Service center at **1-877-432-9675** to speak with a Customer Service Representative. Hours of operation: Open everyday 8:00 a.m. to midnight e.s.t. 
 
 Still have a question?    
 [contact EBgames.com](javascript:atOnce\(\);)
@@ -25,14 +27,14 @@ You don't have to worry about the safety of your credit card information when sh
 
 EBgames.com uses encryption technology to ensure that any information you transmit during the ordering process is secure. Our servers here at EBgames.com are secured to protect all personal information including credit card numbers, your address and any products you may order. EBgames.com has been certified as an Authentic VeriSign Site and displays the VeriSign logo to prove it (Look at the navigation area to the left).
 
-If you still do not feel comfortable sending your credit card information over the Internet, and prefer to place the order by phone with an EBgames.com Customer Service Representative, simply call **1-877-432-9675** and a representative will help you. Hours of operation: everyday 8:00 a.m. to Midnight (EST) 
+If you still do not feel comfortable sending your credit card information over the Internet, and prefer to place the order by phone with an EBgames.com Customer Service Representative, simply call **1-877-432-9675** and a representative will help you. Hours of operation: Open everyday 8:00 a.m. to midnight e.s.t.  You can send e-mail to [help@ebgames.com](mailto:help@ebgames.com). 
 
 » **Parent's Guide**  
 As a parent today, you are constantly faced with decisions regarding your child's development in this age of high technology...
 
 These choices can seem especially daunting when you are buying or renting software for children to use on computers and video game systems. Indeed, you can sometimes feel as if you know less about what's in this software than your own kids do.
 
-This is why the Entertainment Software Rating Board (ESRB) has written the [Parent's Guide To Interactive Entertainment](https://web.archive.org/web/20010630170157id_/http%3A//www.ebgames.com/ebx/help/esrb/default.asp). 
+This is why the Entertainment Software Rating Board (ESRB) has written the [Parent's Guide To Interactive Entertainment](https://web.archive.org/web/20020610084605id_/http%3A//www.ebgames.com/ebx/help/esrb/default.asp). 
 
 » **Search Tips**  
 To perform a search on EBgames.com, use the search box on the top of the blue bar at the left hand side of every page. When typing a name to search for, be general. For example, if you want to find the game Diablo 2, just type in "Diablo". This would find all of the games that contain Diablo in the title, among them Diablo 2.   
