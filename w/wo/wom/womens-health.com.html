@@ -1,0 +1,457 @@
+<!--The following is the downloaded HTML source of the womens-health.com privacy policy that was archived on 2000-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001215083500id_/http%3A//womens-health.com/about/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><html><head>
+	<title>Women's Health Interactive - Overview of the Company</title>
+	<meta http-equiv="Content-Type" content="text/html;CHARSET=iso-8859-1">
+<meta name="description" content="WHI's mission is to establish 	   a unique learning environment where multidisciplinary health
+         education resources pertinent to women are assembled, and
+         made accessible to consumers and healthcare
+         professionals">
+<meta name="keywords" content="women's health, customer, 	   	   consumers, sponsors, distance learning, disease management 	   	   programming, instructional design, healthcare, diseases, 	   	   providers, publishers, products">
+
+<meta name="content-type" content="text/html; charset=us-ascii">
+
+<meta name="author" content="Women's Health Interactive (TM)">
+
+<meta name="classification" content="women, health, women's health, health resources">
+
+<meta name="description" content="Women's Health Interactive (WHI) is a unique company whose business is to design, develop and distribute health information and education specific to women's health through the use of the interactive technologies (the Internet, World Wide Web, Intranets, and other derived technologies">
+
+<meta name="keywords" content="women's health, medical, marketing, communications, consumers, patients, health care workers, professionals, health care companies,capabilities, strategic planning, distance learning design, writing, editing, interactive media">
+
+<script language="JavaScript">
+        ad_area     = 'womens_health_interactive_ros/30252';
+        // ad_area = 'womens_health_interactive_internal/00000';
+</script>
+
+<script language="JavaScript">
+
+var IE4 = (document.all) ? true : false;
+var NS4 = (document.layers) ? true : false;
+var styleString = (NS4) ? "" : ".style";
+
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+// make sure we hide from old browsers
+browsNam = navigator.appName;
+browsVers = parseInt(navigator.appVersion);
+
+if (document.images) vers = "n3";
+else 		     vers = "n2";
+
+
+function ReadCookie(name) {
+  var allCookie, CookieVal, length, start, end;
+  cookieVal="";
+  name=name+"="; 	// append equals to avoid false matches
+  allCookie=document.cookie;
+  length=allCookie.length;
+
+  if (length > 0) { // no cookies - user probably incinerated
+    start=allCookie.indexOf(name,0)
+
+    if (start!=-1) { // avoid if cookie wasn't set.
+      start+=name.length;
+      end=allCookie.indexOf(";",start);
+      if (end==-1) {
+        end=length;
+      }
+      cookieVal=unescape(allCookie.substring(start,end));
+    }
+  }
+  return(cookieVal);
+}
+
+
+function WriteCookie(name, value, expires, domain, path, secure) {
+  var CookieVal, CookError;
+  CookieVal=CookError="";
+  if (name) {
+    CookieVal=CookieVal+escape(name)+"=";
+    if (value) {
+      CookieVal=CookieVal+escape(value);
+
+      if (expires) { CookieVal=CookieVal+"; expires="+expires.toGMTString(); }
+      if (domain)  { CookieVal=CookieVal+"; domain="+domain; }
+      if (path)    { CookieVal=CookieVal+"; path="+path; }
+      if (secure)  { CookieVal=CookieVal+"; secure"; }
+    }
+    else {Cookerror=CookError+"Value failure";} //need value
+  }
+  else {CookError=CookError+"Name failure";} //need name
+
+  if (!CookError) {
+    document.cookie=CookieVal; //sets cookie
+    if (value != ReadCookie(name))  // check to make sure OK
+    {
+      CookError="Write failure";
+    }
+  }
+  return CookError;
+}
+
+function set_WHI_HOME_visited() {
+  var curdate, center_cookieval, cookievalue, cookiename, domain, path, secure, sitename;
+
+  cookiename = "WHI_visited";
+  cookievalue = ReadCookie(cookiename);
+
+  curdate=new Date();
+  threeyear=new Date("12/31/2003");
+
+  // For WHI Base... set two cookies: 
+  // cookie: WHI_visited (HOME)
+  // cookie: WHI_firstvisit (today's date+time)
+  
+  // if it is not set at all... set first visit to HC
+  // Set the WHI-HCvisited to true
+
+  if (!cookievalue) {
+       cookiename = "WHI_visited";
+       WriteCookie(cookiename, "HOME", threeyear);
+
+       cookiename = "WHI_firstvisit";
+       WriteCookie(cookiename, curdate, threeyear);
+  } 
+}
+
+function getcookiename(string) {
+     for (var i=0, output='', invalid="_"; i<string.length; i++) {
+        if (invalid.indexOf(string.charAt(i)) == -1)
+           output += string.charAt(i)
+        else
+          break;
+    }
+
+     return output;
+ } 
+
+</script>
+
+</head>
+
+<body bgcolor="#FFFFCC" onload="MM_preloadImages('/images/login_over.gif','/images/join_over.gif','/images/search_over.gif','/images/health_cen2.gif','/images/research_f2.gif','/images/discus_f2.gif','/images/services_f2.gif','/images/resources_f2.gif','/images/affil_f2.gif','/images/about_f2.gif','/images/index2.gif','/images/contact_f2.gif','/images/top_nav7_hi.gif')" link="#330066">
+<table width="721" border="0" cellspacing="0" cellpadding="0" bgcolor="ffcc66">
+  <tbody><tr> 
+    <td><img src="/images/shim.gif" width="721" height="12"></td>
+  </tr>
+  <tr> 
+    <td> 
+      <table width="721" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+	<td align="right">
+	<!-- <a href="/phpAds/click.php3"> -->
+	<!-- <img src="/phpAds/phpads.php3?what=4"></a> --> 
+
+
+
+
+
+<script language="JavaScript">
+
+  // Display the 24x7 media ad... it looks something like: 
+  // 
+  // > >  <IFRAME  
+  // > > SRC="http://connect.247media.ads.link4ads.com/serv/1/womens_health_interac  
+  // > > tive/womens_health_interactive_cons/womens_health_interc_allergies/29595;t  
+  // > > ype=t;uniq=PLACE_RANDOM_NUMBER_HERE" WIDTH=468 HEIGHT=60 MARGINWIDTH=0  
+  // > > MARGINHEIGHT=0 FRAMEBORDER=0 SCROLLING=no> 
+  // > >  <a  
+  // > > href="http://connect.247media.ads.link4ads.com/click/1/womens_health_inter  
+  // > > active/womens_health_interactive_cons/womens_health_interc_allergies/29595  
+  // > > ;uniq=PLACE_RANDOM_NUMBER_HERE" target="_top"> 
+  // > ><img  
+  // > >src="http://connect.247media.ads.link4ads.com/serv/1/womens_health_interact  
+  // > >ive/womens_health_interactive_cons/womens_health_interc_allergies/29595;uni  
+  // > >q=PLACE_RANDOM_NUMBER_HERE" BORDER="0" HEIGHT="60" WIDTH="468"> 
+  // > >  </a> 
+  // > ></IFRAME> 
+  // > > 
+
+
+    // by default, use the Run of Site.
+
+    if (!ad_area) {
+		ad_area     = 'womens_health_interactive_ros/30252';
+    }
+
+    if (ad_area == 'womens_health_interactive_internal/00000') {
+
+	// display internal ads
+   	document.write ('<a href="http://www.womens-health.com/phpAds/click.php3">');
+	document.write ('<img src="http://www.womens-health.com/phpAds/phpads.php3?what=4"></a>');
+
+        // document.write ('<P>ad_area was: ', ad_area);
+
+    } else {
+
+        datebig     = new Date();
+        mseconds    = datebig.getTime();
+
+
+        document.write (' <IFRAME ');
+
+	firstpiece  = 'src="http://connect.247media.ads.link4ads.com/serv/1';
+	secondpiece = '/womens_health_interactive/womens_health_interactive_cons/';
+        forthpiece  = ';type=t;uniq=';
+	lastpiece   = '" WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 FRAMEBORDER=0 SCROLLING=no>';
+
+        document.write (firstpiece, secondpiece, ad_area, forthpiece, mseconds, lastpiece);
+
+	firstpiece      = '<a href="http://connect.247media.ads.link4ads.com/click/1';
+	secondpiece     = '/womens_health_interactive/womens_health_interactive_cons/';
+	forthpiece      = ';uniq=';
+	lastpiece       = '" target="_top">';
+
+	document.write (firstpiece, secondpiece, ad_area, forthpiece, mseconds, lastpiece);
+
+        firstpiece      = '<img src="http://connect.247media.ads.link4ads.com/serv/1/';
+	secondpiece     = 'womens_health_interactive/womens_health_interactive_cons/';
+	forthpiece      = '; uniq=';
+	lastpiece       = '" BORDER="0" HEIGHT="60" WIDTH="468">';
+
+	document.write (firstpiece, secondpiece, ad_area, forthpiece, mseconds, lastpiece);
+
+	document.write (' </a> </IFRAME>');
+
+        // document.write ('<P>Random number was: ', mseconds);
+        // document.write ('<P>ad_area was: ', ad_area);
+    }
+
+</script> <iframe src="http://connect.247media.ads.link4ads.com/serv/1/womens_health_interactive/womens_health_interactive_cons/womens_health_interactive_ros/30252;type=t;uniq=1582143384733" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><a href="http://connect.247media.ads.link4ads.com/click/1/womens_health_interactive/womens_health_interactive_cons/womens_health_interactive_ros/30252;uniq=1582143384733" target="_top"><img src="http://connect.247media.ads.link4ads.com/serv/1/womens_health_interactive/womens_health_interactive_cons/womens_health_interactive_ros/30252; uniq=1582143384733" BORDER="0" HEIGHT="60" WIDTH="468"> </a> </iframe>
+
+
+
+	</td>
+
+
+          <td><img src="/images/top_nav4.gif" width="60" height="14"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td><img src="/images/shim.gif" width="1" height="6"></td>
+  </tr>
+  <tr> 
+    <td> 
+      <table width="721" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td rowspan="3"><img name="top_nav_r06_c01" src="/images/top_nav3.gif" width="143" height="79" border="0"></td>
+          <td rowspan="3"><a href="/index.phtml"><img name="top_nav_r06_c02" src="/images/whilogo.gif" width="402" height="79" border="0"></a></td>
+          <td><img src="/images/shim.gif" width="1" height="22">
+
+<script language="JavaScript">
+  var curdate, center_cookieval, cookievalue, cookiename, domain, path, secure, sitename;
+
+  //$foo	    =	ereg("(.*)_(.*)",$keycookie,$clargs);
+  //$loggedinuser   =   $clargs[1];
+
+  cookiename = "keycookie";
+  cookievalue = ReadCookie(cookiename);
+
+  if (cookievalue) {
+        document.write ('<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#330066">');
+	document.write (getcookiename(cookievalue), ' logged in</font>\n');
+  }
+</script>
+
+	</td> </tr>
+
+<script language="JavaScript">
+  var curdate, center_cookieval, cookievalue, cookiename, domain, path, secure, sitename;
+
+  cookiename = "keycookie";
+  cookievalue = ReadCookie(cookiename);
+  if (!cookievalue) {
+	// cookie not set.. display login
+	document.write ('<TR><TD>');
+	//document.write ('heha is the one');
+	document.write ('<a href="/login/index.phtml" ');
+        document.write ('onMouseOver="MM_swapImage(\'top_nav_r07_c08111\',\'\',\'/images/login_over.gif\',1)" ');
+        document.write ('onMouseOut="MM_swapImgRestore()"><img name="top_nav_r07_c08111" ');
+        document.write ('src="/images/login.gif" width="58" height="17" border="0"></a>');
+        document.write ('<a href="/join/index.html" ');
+        document.write ('onMouseOut="MM_swapImgRestore()" ');
+        document.write ('onMouseOver="MM_swapImage(\'top_nav_r07_c10111\',\'\',\'/images/join_over.gif\',1)">');
+        document.write ('<img name="top_nav_r07_c10111"');
+        document.write ('src="/images/join.gif" width="59" height="17" border="0"></a>');
+        document.write ('<a href="/search/search.html" ');
+        document.write ('onMouseOut="MM_swapImgRestore()" ');
+        document.write ('onMouseOver="MM_swapImage(\'top_nav_r07_c13111\',\'\',\'/images/search_over.gif\',1)">');
+        document.write ('<img name="top_nav_r07_c13111"');
+	document.write ('src="/images/search.gif" width="59" height="17" border="0"></a></td>');
+        document.write ('</td></tr>');
+  } else {
+        // cookie is set.. display logout
+        document.write ('<tr> <td>');
+	//document.write ('hojo is the one');
+	document.write ('<a href="/login/logout.php3" ')
+	document.write ('onMouseOver="MM_swapImage(\'top_nav_r07_c08111\',\'\',\'/images/logout_over.gif\',1)" ')
+	document.write ('onMouseOut="MM_swapImgRestore()"><img name="top_nav_r07_c08111"')
+	document.write ('src="/images/logout.gif" width="58" height="17" border="0"></a>')
+
+        document.write ('<a href="/search/search.html" ');
+        document.write ('onMouseOut="MM_swapImgRestore()" ');
+        document.write ('onMouseOver="MM_swapImage(\'top_nav_r07_c13111\',\'\',\'/images/search_over.gif\',1)">');
+        document.write ('<img name="top_nav_r07_c13111"');
+	document.write ('src="/images/search.gif" width="58" height="17" border="0"></a>')
+        document.write ('</td></tr>');
+  }
+</script><tr><td><a href="/login/index.phtml" onmouseover="MM_swapImage('top_nav_r07_c08111','','/images/login_over.gif',1)" onmouseout="MM_swapImgRestore()"><img name="top_nav_r07_c08111" src="/images/login.gif" width="58" height="17" border="0"></a><a href="/join/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('top_nav_r07_c10111','','/images/join_over.gif',1)"><img name="top_nav_r07_c10111" src="/images/join.gif" width="59" height="17" border="0"></a><a href="/search/search.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('top_nav_r07_c13111','','/images/search_over.gif',1)"><img name="top_nav_r07_c13111" src="/images/search.gif" width="59" height="17" border="0"></a></td></tr>
+
+<!-- 
+        <tr> 
+          <td>
+	<a href="/login" onMouseOver="MM_swapImage('top_nav_r07_c08111','','/images/login_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img name="top_nav_r07_c08111"
+src="/images/login.gif" width="58" height="17" border="0"></a><a href="/join" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('top_nav_r07_c10111','','/images/join_over.gif',1)"><img name="top_nav_r07_c10111"
+src="/images/join.gif" width="59" height="17" border="0"></a><a href="/search/search.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('top_nav_r07_c13111','','/images/search_over.gif',1)"><img name="top_nav_r07_c13111"
+src="/images/search.gif" width="59" height="17" border="0"></a></td>
+        </tr>
+-->
+
+	<!-- end javascript hardcode -->
+
+        <tr> 
+          <td valign="bottom"><img name="top_nav_r08_c08" src="/images/top_nav6.gif" width="177" height="34" border="0" align="bottom"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td> 
+      <table width="721" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="144"><a href="/index.phtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home1','','/images/top_nav7_hi.gif',1)"><img name="home1" src="/images/top_nav7_lo.gif" width="144" height="19" border="0"></a></td>
+          <td><a href="/health_center" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('health_center11','','/images/health_cen2.gif',1)"><img name="health_center11" src="/images/health_cen1.gif" width="82" height="19" border="0"></a></td>
+          <td><a href="/research_center" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('research11','','/images/research_f2.gif',1)"><img name="research11" src="/images/research.gif" width="88" height="19" border="0"></a></td>
+          <td><a href="/discussion" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('discus11','','/images/discus_f2.gif',1)"><img name="discus11" src="/images/discus.gif" width="57" height="19" border="0"></a></td>
+          <td><a href="/services_center" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('services11','','/images/services_f2.gif',1)"><img name="services11" src="/images/services.gif" width="88" height="19" border="0"></a></td>
+          <td><a href="/resources" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources11','','/images/resources_f2.gif',1)"><img name="resources11" src="/images/resources.gif" width="58" height="19" border="0"></a></td>
+          <td><a href="/affiliations" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('affil11','','/images/affil_f2.gif',1)"><img name="affil11" src="/images/affil.gif" width="65" height="19" border="0"></a></td>
+          <td><a href="/about" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about11','','/images/about_f2.gif',1)"><img name="about11" src="/images/about.gif" width="51" height="19" border="0"></a></td>
+          <td><a href="/site_index" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('index11','','/images/index2.gif',1)"><img name="index11" src="/images/index.gif" width="35" height="19" border="0"></a></td>
+          <td><a href="/about/contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact11','','/images/contact_f2.gif',1)"><img name="contact11" src="/images/contact.gif" width="50" height="19" border="0"></a></td>
+          <td width="2"><img src="/images/top_nav_end.gif"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+
+<p><a name="top"></a> 
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="LEFT" valign="TOP" nowrap=""><img src="images/spacer.gif" width="54" height="1" align="BOTTOM" border="0"></td>
+		<td width="442" align="LEFT" valign="TOP" nowrap=""><img src="images/about_2.gif" width="81" height="21" align="BOTTOM" border="0"><br>
+      <img src="images/privacy.gif" width="450" height="34" align="BOTTOM" border="0" alt="WHI Privacy Policy"></td>
+		<td width="23" align="LEFT" valign="TOP" nowrap="">&nbsp;</td>
+		<td width="87" align="LEFT" valign="TOP" nowrap="" rowspan="2"><img src="images/about_head_pic.gif" width="87" height="96" align="BOTTOM" border="0"></td>
+	</tr>
+	<tr>
+		<td align="LEFT" valign="TOP" nowrap=""><img src="images/spacer.gif" width="54" height="1" align="BOTTOM" border="0"></td>
+		<td width="442" align="LEFT" valign="TOP" nowrap=""></td>
+		<td width="23" align="LEFT" valign="TOP" nowrap="">&nbsp;</td>
+	</tr>
+</tbody></table>
+</p><p></p>
+
+<p>
+<table border="0" cellpadding="4" cellspacing="4" width="100%">
+  <tbody><tr> 
+    <td width="110" valign="TOP"> 
+      <p align="CENTER"><img src="images/spacer.gif" width="110" height="1" align="BOTTOM" border="0"> 
+    </p></td>
+    <td valign="TOP"> 
+      <p> <font color="#005555"><b>Women's Health Interactive has a firm commitment 
+        to privacy</b></font> and will not release any of your individual information, 
+        such as name, street address, telephone number, e-mail address, or any 
+        medical or health information, without your express consent.</p>
+      <p> WHI's registration form requires you to give us your e-mail information 
+        and certain demographic information in order to have access to special 
+        services such as our Personal Health Advisor (PHA). PHA users can opt 
+        in or out of having individual questions and answers put in FAQ sections 
+        on our site (never disclosing your identity), or having questions answered 
+        privately. </p>
+      <p>We use your e-mail to send you information about new content and features 
+        as they occur. You always have the ability to opt out of these mailings. 
+        It is your choice whether you receive our newsletters or the results of 
+        our opinion poll. Your personal demographic information is used to better 
+        understand our community and to tailor content to your needs. </p>
+      <p>From time to time WHI enters into relationships with business partners, 
+        alliances, co-branded sites, sponsors, or advertisers. Only broad aggregate 
+        information will be shared with these businesses. We require privacy policies 
+        consistent with WHI's, with all such relationships.</p>
+      <p> We use an outside company to display advertisements on our website. 
+        Cookies received by clicking on banner advertisements may be collected 
+        by an outside company and we may not have access or control to this information. 
+      </p>
+      <p>WHI uses internal cookies in order to generate aggregate information 
+        about our users and their usage and to enable us to recognize you when 
+        you return, and to provide more personalized services. We do not share 
+        any individual information derived from these cookies. </p>
+      <p>We cannot be responsible for the privacy statements of other sites whose 
+        links are contained in our Resources. Always remember to exercise caution 
+        when disclosing your personal information through chat rooms and discussion 
+        groups. </p>
+      <p>WHI gives you the following options for removing your information from 
+        our database or to change or modify previous information:</p>
+      <p> 1. You can send email to <a href="mailto:privacy@womens-health.com">privacy@womens-health.com</a>. 
+        <br>
+        2. You can send mail to the following address:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Women's Health 
+        Interactive<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PO Box 
+        271276, Fort Collins CO 80527-1276. <br>
+        3. Edit your Registration in Info. </p>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+  <tr> 
+    <td width="110"></td>
+    <td> 
+      <address align="CENTER"><font size="1"><i><b></b></i></font></address>
+      <p><a href="javascript:history.back()"><font size="2" face="helvetica,arial,geneva"><b>Go 
+        Back</b></font></a><font size="2" face="helvetica,arial,geneva"><b> / </b></font><a href="../index.html"><font size="2" face="helvetica,arial,geneva"><b>WHI 
+        Home</b></font></a> 
+    </p></td>
+  </tr>
+</tbody></table>
+</p><p></p>
+
+
+<blockquote> 
+  <h6>Copyright © 1996-2000 Women's Health Interactive. All Rights Reserved.</h6>
+	</blockquote>
+
+
+
+
+
+</body></html>
