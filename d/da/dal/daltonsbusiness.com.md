@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daltonsbusiness.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205043939id_/http%3A//daltonsbusiness.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daltonsbusiness.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607183806id_/http%3A//daltonsbusiness.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # DaltonsBusiness.com - Businesses for sale throughout the UK
 
@@ -19,7 +19,7 @@ We will collect personal data as provided to us during the registration process,
 You may also supply us with other people’s email addresses, for example, if you use our "email a friend" facility. We do not store or use the email addresses for any other reason.
 
 **What do we do with it?**  
-We may use personal information about you to build up a profile of our visitors’ interests and preferences and to build a demographic profile of our user base in order to target our own advertising more effectively. When you supply us with your details there will be a box to tick if you do not wish to receive email newsletters or other information which may be of interest to you. If you do not tick this box we may email you from time to time to promote our site and services. We may sell advertising onto these emails and may use our aggregate site profile to aid us in this activity; however, your individual details will not be passed on or disclosed to any third parties.
+We may use personal information about you to build up a profile of our visitors' interests and preferences and to build a demographic profile of our user base in order to target our own advertising more effectively. When you supply us with your details there will be a box to tick if you wish to receive email newsletters or other information which may be of interest to you. If you tick this box you are giving us your permission to email you from time to time to promote our site and services. We may sell advertising onto these emails and may use our aggregate site profile to aid us in this activity; however, your individual details will not be passed on or disclosed to any third parties. 
 
 **_Collection of information by third parties_**  
 The information you offer us is passed on to our clients, at your request, in order for them to send you further details on a business or service you have enquired about. Some areas of our site contain links to third party websites. If you enter your details on any of these sites, you should consult their privacy policies, as we have no control over information that is submitted to, or collected by, these third parties.
