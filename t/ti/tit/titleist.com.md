@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titleist.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610172921id_/http%3A//titleist.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titleist.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204143816id_/http%3A//www.titleist.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Titleist.com
 
