@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2002-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020208125839id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604042758id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
 
 # Party411 Privacy Policy
 
@@ -9,6 +9,8 @@
 • [The Shops](http://www.party411.com/theshops.html)  
     [@ Party411.com](http://www.party411.com/theshops.html)  
 • [Creations for You](http://www.party411.com/custom.html)  
+• [Candy Bar Wrappers](http://www.party411.com/custom-wrappers.html)  
+• [Caricatures](http://www.party411.com/caricature.html)  
 • [Banner Guide](http://www.party411.com/bannerguide.html)  
 • [e-Party Greetings](http://www.party411.com/eparty.html)  
 • [Discussion Forums](http://www.party411.com/forums.html)  
@@ -16,8 +18,8 @@
 • [Your Parties](http://www.party411.com/yourparties.html)  
 • [Door Prizes ](http://www.party411.com/guestbook.html)
 
-[](http://www3.party411.com/localvendors/index.cfm?refer=Part411)  
-• [Local Services](http://www3.party411.com/localvendors/index.cfm?refer=Part411)  
+[](http://www3.party411.com/localvendors/index.htm)  
+• [Local Services](http://www3.party411.com/localvendors/index.htm)  
 • [Get Listed Here](http://www.party411.com/listform.html)
 
   
@@ -32,7 +34,7 @@
     \- [The Game Girl](http://www.party411.com/gamegirl.html)  
     \- [Etiquette Queen](http://www.party411.com/queen.html)  
     \- [Party FAQs](http://www.party411.com/faq.html)  
-• [Party Invitations](http://www.party411.com/invitations.html)
+• [Party Invitations](http://www.party411.com/custom-invitations.html)
 
 * * *
 
@@ -52,7 +54,7 @@
 
 Our site uses cookies to keep track of the city you are from, and only during the current website visit. 
 
-Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20020208125839id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
+Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20030604042758id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
 
 This site contains links to other sites. **Party411.com** is not responsible for the privacy practices or the content of such Web sites. 
 
@@ -104,5 +106,5 @@ If you have any questions about this privacy statement, the practices of this si
   
   
 **Toll Free Party Line 1-877-514-8411.**  
-© 2002, 411Unlimited, LLC. All rights reserved.  
+© 2003, 411Unlimited, LLC. All rights reserved.  
 powered by [dynamics online](http://www.dynamicsonline.com/)
