@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onelook.com privacy policy that was archived on 2002-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021223100311id_/http%3A//www.onelook.com%3Fc%3Dabout%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelook.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602192729id_/http%3A//onelook.com/about.shtml%23privacy) for the most accurate reproduction.*
 
-# OneLook® Dictionary Search
+# OneLook Dictionary Search
 
 |  Overview  
 [Frequently asked questions](https://web.archive.org/?c=faq)  
@@ -8,17 +8,17 @@
 Send feedback  
 |   |  [Link to OneLook.com](https://web.archive.org/?c=add-form)  
 [Awards and accolades](https://web.archive.org/?c=awards)  
-[Trademark and copyright](https://web.archive.org/?c=trademark)  
+[Attributions](https://web.archive.org/?c=trademark)  
 Privacy policy, [No pop-ups](https://web.archive.org/?c=nopopups&loc=1)  
 |   |  Access from any site  
+[Word of the Day](https://web.archive.org/?c=wotd)  
 [Past survey results](https://web.archive.org/?c=survey_results)  
-[Affiliate sites](https://web.archive.org/anet.html)  
-[Related links](https://web.archive.org/?c=more)  
+[Affiliate sites](https://web.archive.org/anet.html), [Related links](https://web.archive.org/?c=more)  
   
 ---|---|---|---|---  
 **Welcome to OneLook® Dictionary Search**
 
-Think of this web site as a search engine for words: If you have a word for which you'd like a definition or translation, we'll quickly shuttle you to the web-based dictionaries that define or translate that word. If you don't know how to spell the word, we'll help you do that too. No word is too obscure: More than 4 million words in more than 800 online dictionaries are indexed by the OneLook® search engine.
+Think of this web site as a search engine for words and phrases: If you have a word for which you'd like a definition or translation, we'll quickly shuttle you to the web-based dictionaries that define or translate that word. If you don't know how to spell the word, we'll help you do that too. No word is too obscure: More than 5 million words in more than 900 online dictionaries are indexed by the OneLook® search engine.
 
 What can you do at OneLook.com? 
 
@@ -34,7 +34,9 @@ Internet Explorer users on Windows,
 
 To complete the installation, select "Open this file from its current location" after you click on the link above. Then hit "OK" and/or "Yes" to confirm the registry setting change (don't worry, it's completely harmless!) 
 
-You'll then need to open a new browser window or restart IE in order for the feature to take effect. Next time you're stumped by a word on the Web, simply highlight it, click your right mouse button, and choose "Find Definitions..." from the menu, as shown above. 
+You'll then need to open a new browser window or restart IE in order for the feature to take effect. Next time you're stumped by a word on the Web, simply highlight it, click your right mouse button, and choose "Find Definitions..." from the menu, as shown above. (As an added bonus, you'll also be able to type 
+
+`**ol  word**` into your IE address bar to look up "word" in OneLook.) 
 
 Instructions on [how to uninstall this add-on](https://web.archive.org/?c=uninstall-rightclick) are available. 
 
