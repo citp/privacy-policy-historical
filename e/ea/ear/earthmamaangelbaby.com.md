@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthmamaangelbaby.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607131848id_/http%3A//earthmamaangelbaby.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthmamaangelbaby.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204112620id_/http%3A//www.earthmamaangelbaby.com/privacy.html) for the most accurate reproduction.*
 
 # Earth Mama Angel Baby Privacy Policy
 
@@ -21,7 +21,7 @@ This site contains links to other sites. Earth Mama Angel Baby™ is not respons
 We sometimes are required by court orders or other laws to divulge information about you to law enforcement authorities, to government agencies or to the court.
 
 **  
-** Users may also change or modify the information previously provided by sending an email to [info@earthmamaangelbaby.com](mailto:info@earthmamaangelbaby.com)
+** Users may also change or modify the information previously provided by sending an email to [support@earthmamaangelbaby.com](mailto:support@earthmamaangelbaby.com)
 
 **  
 ** The security of the information that you provide to us is very important to us. Hence, we have taken several measures to protect your information. All transactions involving sensitive information, such as your credit/debit card number, are conducted using an SSL (Secure Socket Layer protocol) connection. This connection provides increased security to the information that is transmitted to our website. We will only use your credit/debit number for the processing of our payment. Other sensitive information that we may collect will not be disclosed to third parties unless we are required to do so by law.
@@ -29,7 +29,7 @@ We sometimes are required by court orders or other laws to divulge information a
 **  
 ** We will post any substantive changes in this privacy policy at least 30 days prior to the change taking effect. Any information collected under this current policy will remain bound by the terms of this privacy policy. After the changes take effect, all new information collected, if any, will be subject to the revised privacy policy.
 
-If you have questions about this policy please contact us at [info@earthmamaangelbaby.com](mailto:info@earthmamaangelbaby.com) or write:
+If you have questions about this policy please contact us at [support@earthmamaangelbaby.com](mailto:support@earthmamaangelbaby.com) or write:
 
 Customer Service  
 Earth Mama Angel BabyTM  
