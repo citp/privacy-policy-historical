@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603212054id_/http%3A//www.clark.edu/gen_info/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204212539id_/http%3A//www.clark.edu/gen_info/policies/privacy_policy.html) for the most accurate reproduction.*
 
 # Public Records Privacy Protection Policy
 
-**     [ On-Line Services ](http://www.clark.edu/online_services/index.html) ** **     [ Class Schedule ](http://cf.clark.edu/schedule/index.cfm) ** **     [ Athletics ](http://www.clark.edu/student_services/athletics/index.html) ** **     [ Bookstore ](http://cf.clark.edu/HoursLocation/normal/bookstore.cfm) ** **     [ Library ](http://cf.clark.edu/HoursLocation/normal/cannellLibrary.cfm) ** **     [Student Life](http://www.clark.edu/student_services/student_programs/ascc_student_government.html) **
-
-**     [ Jobs at Clark ](http://www.clark.edu/gen_info/personnel/index.html)****  
-**
-
-**     [ Continuing Ed](http://cf.clark.edu/HoursLocation/normal/continuingEducation.cfm) ** | 
+| 
 
 **Public Records Privacy Protection Policy**
 
-**Adopted by the Information Services Board (ISB)—  
+** Adopted by the Information Services Board (ISB)—  
 Effective: 06/12/2001**
 
   * **Introduction **
@@ -37,8 +32,6 @@ Effective: 06/12/2001**
 
 
 
-* * *
-
 ****Thank you for visiting the Clark College Web site and reviewing our Privacy Notice. This statement addresses collection, use and security of and access to information that may be obtained through use of _www.clark.edu_. This notice covers the following topics:
 
   * Information Collected and How it is Used
@@ -53,8 +46,6 @@ Effective: 06/12/2001**
 
 
 Return to Top
-
-* * *
 
 **Information Collected and How it is Used**
 
@@ -83,8 +74,6 @@ We use your e-mail to respond appropriately. This may be to respond to you, to a
 
 Return to Top
 
-* * *
-
 **Personal Information and Choice**
 
 ******You may choose whether to provide personal information on-line.**
@@ -93,7 +82,7 @@ Return to Top
 
 We collect no personal information about you unless you voluntarily provide it to us by sending us e-mail, participating in a survey, or completing an on-line form. You may choose not to contact us by e-mail, participate in a survey or to provide any personal information using an on-line form. Your choice to not participate in these activities will not impair your ability to browse _www.clark.edu_ and read or download any information provided on the site.
 
-If you choose not to use e-mail, participate in a survey or use an on-line form, you will be provided with [**alternative contact methods**](https://web.archive.org/web/20030603212054id_/http%3A//www.clark.edu/gen_info/policies/alternative_contacts.html).
+If you choose not to use e-mail, participate in a survey or use an on-line form, you will be provided with [**alternative contact methods**](https://web.archive.org/web/20031204212539id_/http%3A//www.clark.edu/gen_info/policies/alternative_contacts.html).
 
 If personal information is requested on the Web site or volunteered by the user, state law and the Federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
 
@@ -102,8 +91,6 @@ If you believe that your personal information is being used for a purpose other 
 Users are cautioned that the collection of personal information requested from or volunteered by children on-line or by e-mail will be treated the same as information given by an adult, and may be subject to public access.
 
 Return to Top
-
-* * *
 
 **Public Access to Information**
 
@@ -116,8 +103,6 @@ All of the information collected at this site becomes public record that may be 
 In the event of a conflict between this Privacy Notice and the Public Records Act or other law governing the agency’s disclosure of records, the Public Records Act or other applicable law will control.
 
 Return to Top
-
-* * *
 
 **Nondisclosure of Certain Personal Information**
 
@@ -298,15 +283,11 @@ The following laws and regulations may prevent Clark College from disclosing the
   
 Return to Top
 
-* * *
-
 **Review and Correction of Personally Identifiable Information**
 
 You can review any personally identifiable information we collect about you by using the information in the **Contact Information section** at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting a written request that credibly shows the inaccuracy. We will take reasonable steps to verify your identify before granting access or making corrections. [**(RCW 43.105.310)**](http://search.leg.wa.gov/wslrcw/RCW%20%2043%20%20TITLE/RCW%20%2043%20.105%20%20CHAPTER/RCW%20%2043%20.105%20.310.htm)
 
 Return to Top
-
-* * *
 
 Clark College takes precautions to safeguard personal information you provide through our web services.
 
@@ -314,15 +295,11 @@ This information should not be construed in any way as giving business, legal, o
 
 Return to Top
 
-* * *
-
 The Clark College Web site has many links to other Web sites. These include links to Web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the Clark College Web site and this Privacy Notice will not apply. When you link to another Web site, you are subject to the privacy policy of that new site.
 
 Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk.
 
 Return to Top
-
-* * *
 
 You may contact Clark College as follows:
 
@@ -345,6 +322,4 @@ You may contact Clark College as follows:
 >  360-992-2549  
 >  [pweber@clark.edu](mailto:pweber@clark.edu)
 
-* * *
-
-**[On-Line Forms Alternative Contact Information](https://web.archive.org/web/20030603212054id_/http%3A//www.clark.edu/gen_info/policies/alternative_contacts.html)**
+**[On-Line Forms Alternative Contact Information](https://web.archive.org/web/20031204212539id_/http%3A//www.clark.edu/gen_info/policies/alternative_contacts.html)**
