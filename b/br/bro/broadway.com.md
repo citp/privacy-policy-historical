@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204184711id_/http%3A//broadway.com/footer/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205152755id_/http%3A//www.broadway.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Broadway.com On Stage! Online.
-
-**
-
-PRIVACY STATEMENT FOR BROADWAY.COM
-
-**
+# Broadway.com -Broadway and London Theater Tickets. Call 1-800-BROADWAY. Theater reviews and theater showtimes.
 
 Hollywood Media Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: Broadway.com. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information, such as country of origin. 
 
-Our site uses cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password and zip code so you don't have to re-enter it each time you visit our site. 
+Our site also may use unique identifiers to confirm data, such as your geographical location and we use such data in the aggregate to run internal analyses to improve upon your user experience. 
 
 Through surveys and newsletter registration, our site may request users to give us contact, demographic, and/or financial information (such as their name, locale, gender, age, income level and email address). The demographic information is used to enhance user experience so we can be more content specific. The contact information is used to notify users of new content, for surveys and newsletters, via email. Financial information that is collected is used primarily for in-house statistics, advertising, and marketing target information. We collect the user's zip code to provide specific theatre show times in their area. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
