@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202232320id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603173337id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
 
 # Public Privacy Policy
 
@@ -12,7 +12,7 @@ Most internet browser are set up to accept cookie. Although it is possible to re
 
  **What Information Do We Collect?**
 
-GoGuides.Org does not secretly collect information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information during the site submission process. This information is used to contact you if there is a need for a  revision to your site reviews. GoGuides.Org notes and saves information such as time of day, browser type, browser language, and IP address with each query. That information is used to verify our records and to provide more relevant services to users.
+GoGuides.Org does not secretly collect information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information during the site submission process. This information is used to contact you if there is a need for a  revision to your site reviews. GoGuides.Org notes and saves information such as time of day, browser type, browser language, and IP address with each query. This information is used to verify our records and to provide more relevant services to users.
 
  **Links to Other Sites**
 
@@ -20,16 +20,14 @@ The sites displayed as search results or linked to by GoGuides.Org searches are 
 
  **GoGuides.Org Shared Information**  
 
-GoGuides.Org may share information about you with advertisers, sponsors, and other third parties. This shared information is in the form of complied data that does not identify individuals.  
+GoGuides.Org may share information about you with advertisers, sponsors, and other third parties. This shared information is in the form of compiled data that does not identify individuals.  
 For example, we may disclose keyword searches, or the amount of time spent in searching at GoGuides.Org. Please be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order. 
 
  **Your consent and changes to the Privacy Policy  **
 
-By using the GoGuides.Org Search and our web site, you consent to the collection and use of your information as outlined in this policy and to our 
+By using the GoGuides.Org Search and our web site, you consent to the collection and use of your information as outlined in this policy and to our [Terms of Service Policy](http://www.goguides.org/info/legal.html). GoGuides.Org may decide to change this Privacy Policy from time to time. Any such changes will be dated and posted on this page. The purpose of this Policy is to make you an informed Internet user - fully aware of what information is collected and the uses for complied information.
 
-[Terms of Service Policy](http://www.goguides.org/info/legal.html). GoGuides.Org may decide to change this Privacy Policy from time to time. Any such changes will be dated and posted on this page. The purpose of this Policy is to make you an informed Internet user - fully aware of what information is collected and the uses for complied information. **Additional questions?**  
+ **Additional questions?**  
 
 If you still have questions feel free to contact us.  
-Our email address is Team Support - 
-
-[teamsupport@goguides.org](mailto:teamsupport@goguides.org)
+Our email address is Team Support - [teamsupport@goguides.org](mailto:teamsupport@goguides.org)
