@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the cocorahs.org privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocorahs.org privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/%7Ehail/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
   |   | 
 
-[ Home](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/index.php)  
-[About Us](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/about/about.htm)   
-[Join Us](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/about/joinform.htm)  
-[Results](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/results/results.htm)
+[ Home](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/index.php)  
+[About Us](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/about/about.htm)   
+[Join Us](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/about/joinform.htm)  
+[Results](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/results/results.htm)
 
-[FAQ/Help](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/howto/faq.htm)  
-[Training](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/howto/faq.htm)   
-[For Teachers](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/teachers/teacher.htm)  
-[Cool Pics](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/cool/cool.htm)  
+[FAQ/Help](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/howto/faq.htm)  
+[Training](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/howto/faq.htm)   
+[For Teachers](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/teachers/teacher.htm)  
+[Cool Pics](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/cool/cool.htm)  
 
 
-[Hail Pad Drops](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/observers/haildrop.htm)  
-[Help Needed](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/observers/helpus.htm)   
-[Forms](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/forms/forms.htm)
+[Hail Pad Drops](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/observers/haildrop.htm)  
+[Help Needed](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/observers/helpus.htm)   
+[Forms](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/forms/forms.htm)
 
-[Volunteer Coordinators](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/observers/coord.htm)
+[Volunteer Coordinators](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/observers/coord.htm)
 
-[Our Sponsors](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/about/sponsors.htm)  
-[Related Sites](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/links/related.htm)   
-[Links](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/links/links.htm)
+[Our Sponsors](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/about/sponsors.htm)  
+[Related Sites](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/links/related.htm)   
+[Links](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/links/links.htm)
 
 |    | 
 
@@ -39,4 +39,4 @@ We do occasionally give out our station list to other weather related scientific
 
 Any data that you enter into our database is considered the property of the Colorado Climate Center and may be used for any purpose.
 
-For information on our use of cookies, check our [cookies FAQ](https://web.archive.org/web/20040608193650id_/http%3A//www.cocorahs.org/howto/FAQ/cookies.htm).
+For information on our use of cookies, check our [cookies FAQ](https://web.archive.org/web/20041205121803id_/http%3A//ccc.atmos.colostate.edu/~hail/howto/FAQ/cookies.htm).
