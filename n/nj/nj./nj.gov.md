@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nj.gov privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604115652id_/http%3A//www.nj.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.gov privacy policy that was archived on 2004-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041221222458id_/http%3A//www.nj.gov/privacy.html) for the most accurate reproduction.*
 
 # State of New Jersey - Privacy Notice
 
@@ -49,7 +49,7 @@
 > 
 > **If You Send Us Personal Information**
 > 
-> If you choose to provide us with personal information -- as in an e-mail to Governor or someone else, or by filling out a form with your personal information and submitting it to us through our web site -- we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or to give it to any private organizations. The State of New Jersey does not collect information for commercial marketing. 
+> If you choose to provide us with personal information -- as in an e-mail to Governor or someone else, or by filling out a form with your personal information and submitting it to us through our web site -- we use that information to respond to your message and to help us get you the information you have requested. We may share the information you give us with another State of New Jersey government agency, department, office or entity, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or to give it to any private organizations. The State of New Jersey does not collect information for commercial marketing. 
 > 
 > **Section B. Personal Information and Choice**
 > 
@@ -105,4 +105,4 @@
 >  PO Box 212  
 >  Trenton, New Jersey 08625-0212  
 >  FAX: 609-633-8888  
->  email: [feedback@state.nj.us](mailto:feedback@state.nj.us)
+>  [email us](https://www.state.nj.us/contact.shtml)
