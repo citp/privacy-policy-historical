@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019041241id_/http%3A//netzero.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604071539id_/http%3A//www.netzero.net/legal/privacy.html) for the most accurate reproduction.*
 
 # Welcome to NetZero
 
@@ -20,9 +20,13 @@
   
 [Privacy](https://web.archive.org/legal/privacy.html)  
   
+[Acceptable Use](https://web.archive.org/legal/accept_use.html)  
+  
+[Terms of Service](https://web.archive.org/legal/accept_use.html)  
+  
 |  |    
 Documents en Français, [cliquez ici](https://web.archive.org/legal/french/privacy.html). **NetZero, Inc. Privacy Statement** **Overview**   
-NetZero is committed to safeguarding your privacy online. NetZero created this Privacy Statement in order to demonstrate our firm commitment to protecting the privacy of subscribers to the Services and of visitors and users of the Site. The following discloses how we gather and use information on the Site and while you use the Service. We use the information we collect about you to create a more personalized online experience. By using NetZero's Web site (the "Site") or Internet access services (the "Services"), you consent to our collection, use and disclosure of your information, as described below. Please read on for more details about our Privacy Policy. This policy may change from time to time so please check back periodically.  | [](https://www.truste.org/validate/2167.) | **TRUSTe Certification**  
+NetZero is committed to safeguarding your privacy online. NetZero created this Privacy Statement in order to demonstrate our firm commitment to protecting the privacy of subscribers to the Services and of visitors and users of the Site. The following discloses how we gather and use information on the Site and while you use the Service. We use the information we collect about you to create a more personalized online experience. By using NetZero's Web site (the "Site") or Internet access services (the "Services"), you consent to our collection, use and disclosure of your information, as described below. Please read on for more details about our Privacy Policy. This policy may change from time to time so please check back periodically.  | [](https://www.truste.org/validate/2167) | **TRUSTe Certification**  
 ---|---  
 NetZero, Inc., is TRUSTe-certified and is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because NetZero wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and to allow our privacy practices to be reviewed for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
 
