@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206060203id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621123113id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
 
 # HSN.com - Customer Service
 
-|  | |  | [](https://web.archive.org/web/20021206060203id_/http%3A//www.hsn.com/cs/privacy_policy/up)  
+|  | |  | [](https://web.archive.org/web/20030621123113id_/http%3A//www.hsn.com/cs/privacy_policy/up)  
 ---  
 ****  
   
-HSN Interactive LLC ("HSNi") and [hsn.com](https://web.archive.org/default.aspx) are committed to protecting your privacy. The privacy practices in this statement are applicable to [hsn.com](https://web.archive.org/default.aspx) and other World Wide Web addresses (urls) that are directed to areas within [ hsn.com](https://web.archive.org/default.aspx), such as [hsnrewards.com](http://www.hsnrewards.com/), [hsnbeauty.com](http://www.hsnbeauty.com/) and [ hsndolls.com](http://www.hsndolls.com/) . 
+HSN Interactive LLC ("HSNi") and [hsn.com](https://web.archive.org/default.aspx) are committed to protecting your privacy. The privacy practices in this statement are applicable to [hsn.com](https://web.archive.org/default.aspx) and other World Wide Web addresses (urls) that are directed to areas within [ hsn.com](https://web.archive.org/default.aspx). 
 
 We are determined to maintain a useful and interesting online environment for our customers, which includes easy access to product information, customer service and our privacy policies.
 
 Please read on for more details about our privacy policy.
 
-**[CONTENTS:](https://web.archive.org/web/20021206060203id_/http%3A//www.hsn.com/cs/privacy_policy/contents)**  
+**[CONTENTS:](https://web.archive.org/web/20030621123113id_/http%3A//www.hsn.com/cs/privacy_policy/contents)**  
   
 1.  What information do we collect online? How do we use it?  
-  (a) Information you provide to us  
-  (b) Other information we collect  
 2.  Do we share our information with others?  
 3.  How do we use e-mail?    
 4.  How can you elect not to receive offers and e-mail?    
@@ -26,9 +24,7 @@ Please read on for more details about our privacy policy.
 8.  How do you contact us with questions or comments?  
 **1. _What information do we collect online? How do we use it?_**
 
-     ******(a)  _Information you provide to us._**
-
-_Merchandise Orders_
+     _Merchandise Orders_
 
 When you first place an order on our site, we ask you to provide personally identifiable information by filling out and submitting an online customer profile form. This information includes your name, mailing address, telephone number, shipping address(es), email address, a password, and your credit card number and expiration date. We use this information to process and fulfill your order and to notify you of your order status by email. When you return to the site and place another order, if you use your password or provide other key, personally identifiable information, we use this information to provide you with access to your customer profile and order information. We save the address(es) you provide for shipment and, when you place future orders, we provide the address(es) to you as a selectable list for your convenience.
 
@@ -36,7 +32,7 @@ We also ask you for personally identifiable information about other people you a
 
      _Sweepstakes and Contest_
 
-When you enter a sweepstakes, contest or other promotional feature, we typically ask you for one or more of your name, address, telephone number, e-mail address and HSN account number, so we can administer the promotion and notify the winners. We notify winners and obtain an affidavit to verify each winner’s eligibility and to obtain consent to post each winner’s name, and state and city of residence. We also send you information by email on upcoming events, new products and services, and special offers we think you’ll be interested in. However, out of respect for the privacy of our visitors we provide the option to not receive these types of communications. (See 4. How can you not receive email?
+When you enter a sweepstakes, contest or other promotional feature, we typically ask you for one or more of your name, address, telephone number, e-mail address and HSN account number, so we can administer the promotion and notify the winners. We notify winners and obtain an affidavit to verify each winner’s eligibility and to obtain consent to post each winner’s name, and state and city of residence. We also send you information by email on upcoming events, new products and services, and special offers we think you’ll be interested in. However, out of respect for the privacy of our visitors we provide the option to not receive these types of communications. (See 4. How can you not receive email?)
 
      _Surveys_
 
@@ -49,8 +45,6 @@ We offer you the opportunity to use a nickname for our chat rooms, bulletin boar
 If you choose to post messages in our chat rooms, bulletin boards, product reviews, or other message areas, we collect the messages you post and use information you provide to improve our site and our products and services, provide thorough customer service, and follow up on site visitors who may be violating our policies or abusing our system. We also collect any personally identifiable information that you choose to disclose. When you post messages, other site visitors can also view them. We also publish transcripts of archived chats. **We urge you to exercise caution when providing personally identifiable information in the chat rooms, bulletin boards, product reviews or other message areas.**
 
      _Customer Service_
-
-The “Live Help” chat function on our site is a one-to-one chat function between you and our Customer Service representative. We collect transcripts of these customer service chat sessions and use them for training and customer service purposes only.
 
 If you send personal correspondence to our Customer Service department, such as emails or letters, or if others send correspondence to our Customer Service department about your activities or postings on the site, we collect the information so that we can provide thorough customer service and follow up on site visitors who may be violating our policies or abusing our system.
 
@@ -68,12 +62,6 @@ When you submit a request for cable service, we request personally identifying i
 
 Return to Top | Return to Contents  
   
-     ******(b)  _Other Information We Collect_**
-
-     _Tracking Traffic and Usage_
-
-In order to make improvements to our site and to assist in making decisions about the products and services we offer, we track and obtain data from third parties who track customer traffic patterns and site usage by using server log files and other collection devices. These sources collect information such as the address that identifies your computer, your Internet service provider, your web browser and operating system type, the URL of the site from which you came to [hsn.com](https://web.archive.org/default.aspx) the time you accessed our site, and your browsing and purchasing history on hsn.com, which is monitored by our product suggestion service. To view, edit or opt out of our product suggestion service, [ please click here](http://www.yourcontrolpanel.com/mypage/pcp.html).
-
      _"Cookies"_
 
 Cookies are small pieces of information that we send to your computer. They are stored by your browser on your computer's hard drive to give you a unique ID. Each time you visit our site using your computer, the cookie allows us to recognize your computer as the one we delivered the cookie to. Our cookies contain only a numeric code, and do not contain any personally identifiable information about you. However, we have the capability to identify you based on the information provided by our cookies, and to correlate that information with your personally identifiable information.
@@ -121,9 +109,9 @@ Except as described above under 2\. Do we share your information with others?, w
 
 We send one email message to confirm each order you make, and we occasionally send you other email messages containing information specifically relating to your order (such as shipping delays). We also send one email message to each winner of our contests and sweepstakes.
 
-On rare occasions we send out strictly service related email announcements. These announcements are not promotional in nature. For instance, we might send you an email message if our service is temporarily suspended for maintenance, or to let you know about a change in our privacy policies. (See  7\. Your acceptance of these practices, below.) Generally, you may opt out of receiving these communications only by contacting Customer Service and requesting they remove your email address.
+On rare occasions we send out strictly service related email announcements. These announcements are not promotional in nature. For instance, we might send you an email message if our service is temporarily suspended for maintenance, or to let you know about a change in our privacy policies. (See  7\. Your acceptance of these practices, below.)
 
-When you first place an order and set up your customer profile, we offer a selection of promotional email categories from which we automatically send information on upcoming events, new products and services, and special offers we think you’ll be interested in. One or more of these lists may be pre-selected for you, and you can opt out; you may opt in to the others. You can return to your customer profile at any time to modify your selections at the [Update Profile](https://web.archive.org/cust/profile/default.aspx) form on our site. We also send you promotional emails if you enter a sweepstakes, contest or other promotional feature on our site, or if you provide your email address when you submit a request for cable service.
+When you first place an order and set up your customer profile, we offer a selection of special interest categories for you to indicate your interests and preferences. We will automatically send you information on upcoming events, new products and special offers we think you’ll be interested in based on the interests and preferences you indicate and on your purchase history. You can return to your customer profile at any time to modify your selections at [Update Profile](https://web.archive.org/cust/profile/default.aspx). We will also send you promotional emails if you enter a sweepstakes, contest or other promotional feature on our site, or if you provide your email address when you submit an online request for cable service. Your customer profile also provides you with the ability to opt out of promotional messages. For more information on how to opt out, see 4\. How can you elect not to receive offers and email?
 
 [Click here](https://web.archive.org/cs/email_us/default.aspx) to contact our Customer Service department via email with questions, requests and comments. You can also email [HSN’s show hosts](https://web.archive.org/Cnt/hosts/default.aspx). We encourage your communications, since we use your input to improve our site and the products and services we offer. We review every email we receive. Although we are not staffed to respond to all individual emails, we will respond to your customer service requests and inquiries when appropriate and to other messages when appropriate and as time permits.
 
@@ -133,13 +121,11 @@ Return to Top | Return to Contents
 
 If you prefer not to receive promotional emails regarding upcoming events, new products and services, and special offers, you can make the appropriate selections when you set up your customer profile. (See  Section 3. How do we use email?, above.) Or you can return to your customer profile to change your selections at the [ Update Profile](https://web.archive.org/cust/profile/default.aspx) form on our site. Also, every one of the promotional emails we send provides you with a way to opt out of receiving further emails. Or, [click here](https://web.archive.org/cs/email_us/default.aspx) to email our Customer Service department to opt out of receiving further promotional emails. 
 
-If you prefer not to receive service related email announcements, you can do this only by contacting Customer Service and requesting they remove your email address.
-
 Return to Top | Return to Contents  
   
 **5) How can access and correct your information?**
 
-You can check your personal information in your customer profile by navigating to [Update Profile](https://web.archive.org/cust/profile/default.aspx) on our site. If any of this information is incorrect, you can make appropriate changes. However, although you can prevent receipt of all email by removing your email address, you cannot delete your customer account information entirely. If you have any question about the accuracy of your personal information, you can contact us online, or by e-mail, telephone or mail. (See  8\. How can you contact us with questions or comments?, below.) 
+You can check your personal information in your customer profile by navigating to [Update Profile](https://web.archive.org/cust/profile/default.aspx) on our site. If any of this information is incorrect, you can make appropriate changes. However, you cannot delete your customer account information entirely. If you have any question about the accuracy of your personal information, you can contact us online, or by e-mail, telephone or mail. (See  8\. How can you contact us with questions or comments?, below.) 
 
 You can access your order history by navigating to [ Web Order History](https://www.hsn.com/cs/quicktrack/default.aspx), use the [ QuickTrack](https://www.hsn.com/cs/quicktrack/default.aspx) system, or by calling our Customer Service department at 1-800-933-2887.
 
@@ -165,7 +151,7 @@ By using our site, you agree to these privacy practices. If you do not agree to 
 
 _materially_
 
-different from our practices as disclosed at the time of collection, we will notify you by email and provide you with a choice as to whether or not we use or share your information in this materially different manner. Otherwise, your continued use of our site following the posting of changes will mean you accept those changes. In any event, however, if you requested customer service to remove your email address, then you will not be contacted, and your personally identifiable information will not be used in this new manner.
+different from our practices as disclosed at the time of collection, we will notify you by email and provide you with a choice as to whether or not we use or share your information in this materially different manner. Otherwise, your continued use of our site following the posting of changes will mean you accept those changes.
 
   
 Return to Top | Return to Contents  
