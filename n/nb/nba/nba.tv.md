@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nba.tv privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619141149id_/http%3A//nba.tv/news/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nba.tv privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723230900id_/http%3A//nba.tv/news/privacy_policy.html) for the most accurate reproduction.*
 
 # NBA.com: NBA.com Network Privacy Policy
 
