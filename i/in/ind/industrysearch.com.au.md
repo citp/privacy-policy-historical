@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203045344id_/http%3A//www.industrysearch.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610124740id_/http%3A//www.industrysearch.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
 # IndustraCom Privacy Policy
 
@@ -33,7 +33,7 @@
 > 
 >    
 >   
-> **WHAT SORT OF INFORMATION DOES INDUSTRACOM COLLECT?  
+> **1\. WHAT SORT OF INFORMATION DOES INDUSTRACOM COLLECT?  
 >   **  
 >  We collect personal information about you ("information") in four different ways:
 > 
@@ -45,10 +45,10 @@
 > 
 > (d) When you complete surveys which are initiated by **industrySearch.com.au**. Some of these surveys are independent initiatives for which we utilise the data for resale or provision to associated sponsors. By participating in these surveys users  understand the results data (including contact information and profile) can be made available for purchase. This data is made available to assist both vendors and customers in the sourcing process and is in no way intended for misuse of any sort. If you think this may be an issue you may prefer not to submit your details and join these surveys. Sponsoring companies have no influence on these surveys or their results. Sponsor involvement is exclusively for branding purposes.  
 >   
-> **WHAT HAPPENS IF YOU DO NOT PROVIDE THE INFORMATION?  
+> **2\. WHAT HAPPENS IF YOU DO NOT PROVIDE THE INFORMATION?  
 >   **  
 >  If the individual choose not to provide or disclose personal information for each of the above points of collection, **IndustraCom** cannot guarantee the relevant sources of information to assist advertisers generate new business and/or enhancing existing business relationships.  
-> **WHY DOES INDUSTRACOM COLLECT THE INFORMATION AND HOW IS YOUR INFORMATION USED BY INDUSTRACOM?  
+> **3\. WHY DOES INDUSTRACOM COLLECT THE INFORMATION AND HOW IS YOUR INFORMATION USED BY INDUSTRACOM?  
 >   **  
 >  We collect the personal information to provide you with a specific service. For example, we may use the information you provide us to assist:
 > 
@@ -58,14 +58,16 @@
 > 
 > (c) both vendors and customers in the sourcing process 
 > 
+> From time to time industrySearch subscribers may also receive product highlights, special offers and advertisements from relevant sponsors.
+> 
 > **IndustraCom** also uses the personal information to send you information (either by e-mail or post) that is relevant. If at any time you receive material that you did not request or do not want to receive such material any more, please see ‘Correcting & Updating your Profile’ below.
 > 
 > Users will always be explicitly informed in instances where submitted information may be made available for purchase, giving users the opportunity to not proceed prior to finishing any submission process.  
 >   
-> **WHO DOES INDUSTRACOM DISCLOSE PERSONAL INFORMATION TO?  
+> **4\. WHO DOES INDUSTRACOM DISCLOSE PERSONAL INFORMATION TO?  
 >   **  
->  **IndustraCom** will not sell, rent, trade or otherwise supply to third parties any personal information obtained from you unless you consent.   
-> **HOW WILL INDUSTRACOM KEEP YOUR PERSONAL INFORMATION SECURE?  
+>  **IndustraCom** will not sell, rent, trade or otherwise supply to third parties any personal information obtained from you unless you consent. Advertising campaigns may be run on behalf of other companies, however messages will always be identified and originate from industrySearch.  
+> **5\. HOW WILL INDUSTRACOM KEEP YOUR PERSONAL INFORMATION SECURE?  
 >     
 >  ****IndustraCom** takes reasonable steps and has security measures designed to protect against the loss, misuse and/or alteration of the personal information under its control.
 > 
@@ -81,7 +83,7 @@
 > 
 > Additionally, we take reasonable steps when we no longer require this information and it is our practice to securely destroy/delete it from our systems or alternatively, store it securely.   
 >   
-> **CORRECTING & UPDATING YOUR PROFILE  
+> **6\. CORRECTING & UPDATING YOUR PROFILE  
 >   **  
 >  **IndustraCom** gives you the following options for accessing and modifying personal information previously provided:
 > 
@@ -89,7 +91,7 @@
 > 
 > (b) You may change or update personal information online through the **industrySearch.com.au** web site at any time.  
 >   
-> **CONTACTING INDUSTRACOM  
+> **7\. CONTACTING INDUSTRACOM  
 >   **  
 >  If you have any questions about privacy-related issues please contact the **IndustraCom** Privacy Officer:
 > 
@@ -109,5 +111,5 @@
   
 * * *
 
-[Help](https://web.archive.org/help.asp) | [Privacy Policy](https://web.archive.org/privacypolicy.asp) | [Advertise](https://web.archive.org/advertise.asp)  
-© [industry _Search_.com.au](https://web.archive.org/) 2001-2003.
+[Help](https://web.archive.org/help.asp) | [Privacy Policy](https://web.archive.org/privacypolicy.asp) | [Join Marketplace](https://web.archive.org/advertise.asp)  
+Manufacturing and industrial supplies © 2004 [industry _Search_.com.au](https://web.archive.org/)
