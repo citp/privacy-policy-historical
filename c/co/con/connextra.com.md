@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604194507id_/http%3A//connextra.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204104503id_/http%3A//www.connextra.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Connextra | Services
+# Connextra | Privacy Policy
 
-## About Us
+### ****
+
+#### About Us
 
 This is a privacy policy for Connextra Limited . Our homepage on the Web is located at [ http://www.connextra.com](http://www.connextra.com/).
 
@@ -16,27 +18,26 @@ We invite you to contact us if you have questions about this policy. You may con
     UK
     
 
-You may contact us by e-mail at [ info@connextra.com](mailto:info@connextra.com). You may call us at 020 7692 9898.
-
-## Dispute Resolution and Privacy Seals
+#### Dispute Resolution and Privacy Seals
 
 We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
 
-  * **Dispute Resolution** : If you have concerns that we might not be following our privacy policy then please contact us at info@connextra.com 
+  * **Dispute Resolution** : If you have concerns that we might not be following our  
 
 
 
-## Additional Information
+
+#### Additional Information
 
 This policy is valid until 1 Jan, 2005 at 12:00:00 GMT. 
 
-## Data Collection
+#### Data Collection
 
 P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained seperately.
 
 * * *
 
-### **Group "Basic information"**
+#### **_Group "Basic information"_**
 
 We collect the following information:
 
@@ -74,7 +75,7 @@ The following explanation is provided for why this data is collected:
 
 * * *
 
-### **Group "Cookies"**
+#### **Group "Cookies"**
 
 We collect the following information:
 
@@ -104,7 +105,7 @@ The following explanation is provided for why this data is collected:
 
 * * *
 
-## Cookies
+#### Cookies
 
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
