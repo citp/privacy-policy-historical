@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206200135id_/http%3A//www.hebcal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202090923id_/http%3A//www.hebcal.com/privacy) for the most accurate reproduction.*
 
 # hebcal.com Privacy Policy
 
@@ -26,7 +26,8 @@ This site contains links to other sites containing information about holidays an
 
 We will only collect your email address if you subscribe to the [1-Click Shabbat by Email](http://www.hebcal.com/email/) service.
 
-We will never sell or give your email address to anyone. We will also never use your email address to send you unsolicited offers.
+We will never sell or give your email address to anyone.   
+We will never use your email address to send you unsolicited offers.
 
 To unsubscribe, send an email to [shabbat-unsubscribe@hebcal.com](mailto:shabbat-unsubscribe@hebcal.com).
 
@@ -112,5 +113,5 @@ The following explanation is provided for why this data is collected:
 
 * * *
 
-Copyright © 2002 Michael J. Radwin. All rights reserved. [Help](http://www.hebcal.com/help/) \- [Contact](http://www.hebcal.com/contact/)   
-Last modified: Fri Jan 4 15:01:58 EST 2002  ($Revision: 1.12 $) 
+Copyright © 2002 Michael J. Radwin. All rights reserved. [Help](http://www.hebcal.com/help/) \- [Contact](http://www.hebcal.com/contact/) \- [Donate](http://www.hebcal.com/donations/)   
+Last modified: Tue Sep 17 15:37:31 EDT 2002  ($Revision: 1.15 $) 
