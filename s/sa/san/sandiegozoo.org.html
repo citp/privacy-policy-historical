@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sandiegozoo.org privacy policy that was archived on 2001-08-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010801210850id_/http%3A//www.sandiegozoo.org/disclaimers/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sandiegozoo.org privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602194841id_/http%3A//sandiegozoo.org/disclaimers/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -45,533 +45,26 @@
 
 <!-- Navigation menus currently only work with JavaScript-enabled browsers-->
 
-<!-- Navigation menus currently only work with JavaScript-enabled browsers-->
-
-
-
-<script language="JavaScript">
-
-
-
-
-
-<!--
-
-
-
-// Check for browser that supports frames
-
-
-
-
-
-// return the version number times 1000 (to compensate for rounding errors).
-
-function _get_version() {
-
-   return Math.round(parseFloat(navigator.appVersion) * 1000);
-
-}
-
-
-
-// create the "browser" object to store browser information
-
-var browser = new Object();
-
-
-
-// check for a Netscape browser
-
-if (navigator.appName.substring(0,8) == "Netscape") {
-
-   browser.name = "NN";
-
-      browser.version = _get_version();
-
-}
-
-
-
-// check for a Microsoft browser
-
-else if (navigator.appName.substring(0,9) == "Microsoft") {
-
-   browser.name = "MSIE";
-
-   // Only MSIE for Windows 95 can read this code.
-
-   // Navigator.appVersion returns 2.0 rather than 3.0, but we don't care,
-
-   //we're checking for 4.0 now
-
-   browser.version = _get_version();
-
-}
-
-
-
-// check for other browser that supports JavaScript, assuming that this
-
-// browser stores the information in the same format as Navigator.
-
-else {
-
-   browser.name = navigator.appName;
-
-   browser.version = _get_version();
-
-}
-
-
-
-// set variable for browser
-
-if ((browser.name == "NN" && browser.version >=3000) || (browser.name="MSIE" && browser.version >= 4000))
-
-   version = "Rollovers";
-
-else
-
-   version = "other";
-
-
-
-
-
-
-
-
-
-// Set arrays for menus
-
-
-
-if (version == "Rollovers") {
-
-
-
-   // "San Diego Zoo"
-
-   zooNames = new Array("San Diego Zoo home page","Visitor Info","Zoo Map","Calendar of Events","Membership Info","Sales and Special Events","Press Page","Postcards","Job Opportunities","Partnership Opportunities","Get Involved With Us","Site Index");
-
-   zooUrls = new Array("/zoo/homepage.php3","/zoo/visitor_info.html","/zoo/zoo_map.html","/special/events/calendar/calendar_home.html","/society/index.html","/society/sales/index.html","/pressbox/presskits.html","/postcards/send.php3","/special/employment/index.html","/society/partnership.html","/society/participate.html","/apps/search/sitemap.html");
-
-
-
-   // "Wild Animal Park"
-
-   parkNames = new Array("Wild Animal Park home page","Visitor Info","Park Map","Calendar of Events","Membership Info","Sales and Special Events","Press Page","Postcards","Job Opportunities","Partnership Opportunities","Get Involved With Us","Site Index");
-
-   parkUrls = new Array("/wap/homepage.php3","/wap/visitor_info.html","/wap/wap_map.html","/special/events/calendar/calendar_home.html","/society/index.html","/society/sales/index.html","/pressbox/presskits.html","/postcards/send.php3","/special/employment/index.html","/society/partnership.html","/society/participate.html","/apps/search/sitemap.html");
-
-
-
-   // "International Conservation"
-
-   conservationNames = new Array("Conservation home page","Field Projects","Conservation Education","Kid Territory","Press Page","Your World");
-
-   conservationUrls = new Array("/conservation/homepage.php3","/conservation/field_projects.html","/wildideas/conservation/","/wildideas/kids/","/pressbox/presskits.html","/conservation/your_world.html");
-
-
-
-   // "E-Zoo"
-
-   virtualzooNames = new Array("E-Zoo home page","Animal Snapshots","Kid Territory","Wild Ideas","Videos On Demand","Postcards","The Baby Page","Plant Place","Zoo Map","Park Map");
-
-   virtualzooUrls = new Array("/virtualzoo/homepage.html","/virtualzoo/animals/index.html","/wildideas/kids/","/wildideas/index.html","/virtualzoo/videos/index.html","/postcards/send.php3","/special/babies/index.html","/apps/plants/index.html","/zoo/zoo_map.html","/wap/wap_map.html");
-
-
-  // "Main Intro Page"
-  
-  mainintroNames = new Array("Main Intro Page");
-
-  mainintroUrls = new Array("/index.html");
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-// Set second menu from selections made in first menu
-
-
-
-function newOptions(formName) {
-
-   if (version == "Rollovers")  {
-
-      var formIndex=formName.dropMenu.selectedIndex;
-
-
-
-      // user selects 'Available Main Menus' or '______________'
-
-      if (formIndex == 0 || formIndex == 1) {
-
-         document.subForm.subMenu.options.length = 50;
-
-         document.subForm.subMenu.options[0].text = "Available Subsections";
-
-         document.subForm.subMenu.options[2].text = "You must select";
-
-         document.subForm.subMenu.options[3].text = "an available main";
-
-         document.subForm.subMenu.options[4].text = "section before the";
-
-         document.subForm.subMenu.options[5].text = "list of subsections";
-
-         document.subForm.subMenu.options[6].text = "will be populated";
-
-
-
-         for (x=2;x<7;x++) {
-
-           document.subForm.subMenu.options[x].value = "";
-
-         }
-
-      }
-
-
-
-      // user selects 'San Diego Zoo' menu
-
-      if (formIndex == 2) {
-
-         document.subForm.subMenu.options.length = 2;
-
-         arrLength =  zooNames.length;
-
-         document.subForm.subMenu.options.length = arrLength + 2;
-
-         document.subForm.subMenu.options[0].text = "Zoo Sections";
-
-
-
-
-
-         for (x=0;x<arrLength;x++) {
-
-            document.subForm.subMenu.options[x+2].text = zooNames[x];
-
-            document.subForm.subMenu.options[x+2].value = zooUrls[x];
-
-         }
-
-      }
-
-
-
-      // user selects 'Wild Animal Park' menu
-
-      if (formIndex == 3) {
-
-         document.subForm.subMenu.options.length = 2;
-
-         arrLength =  parkNames.length;
-
-         document.subForm.subMenu.options.length = arrLength + 2;
-
-         document.subForm.subMenu.options[0].text = "Park Sections";
-
-
-
-         for (x=0;x<arrLength;x++) {
-
-            document.subForm.subMenu.options[x+2].text = parkNames[x];
-
-            document.subForm.subMenu.options[x+2].value = parkUrls[x];
-
-         }
-
-      }
-
-
-
-      // user selects 'Conservation' menu
-
-      if (formIndex == 4) {
-
-         document.subForm.subMenu.options.length = 2;
-
-         arrLength =  conservationNames.length;
-
-         document.subForm.subMenu.options.length = arrLength + 2;
-
-         document.subForm.subMenu.options[0].text = "Conservation Sections";
-
-
-
-         for (x=0;x<arrLength;x++) {
-
-           document.subForm.subMenu.options[x+2].text = conservationNames[x];
-
-           document.subForm.subMenu.options[x+2].value = conservationUrls[x];
-
-         }
-
-      }
-
-
-
-      // user selects 'Virtual Zoo' menu
-
-      if (formIndex == 5) {
-
-         document.subForm.subMenu.options.length = 2;
-
-         arrLength =  virtualzooNames.length;
-
-         document.subForm.subMenu.options.length = arrLength + 2;
-
-         document.subForm.subMenu.options[0].text = "E-Zoo Sections";
-
-
-
-         for (x=0;x<arrLength;x++) {
-
-           document.subForm.subMenu.options[x+2].text = virtualzooNames[x];
-
-           document.subForm.subMenu.options[x+2].value = virtualzooUrls[x];
-
-         }
-
-      }
-
-
-     // user selects 'Main Intro Page' menu
-
-      if (formIndex == 6) {
-
-         document.subForm.subMenu.options.length = 2;
-
-         arrLength =  mainintroNames.length;
-
-         document.subForm.subMenu.options.length = arrLength + 2;
-
-         document.subForm.subMenu.options[0].text = "Main Intro Page";
-
-
-
-         for (x=0;x<arrLength;x++) {
-
-           document.subForm.subMenu.options[x+2].text = mainintroNames[x];
-
-           document.subForm.subMenu.options[x+2].value = mainintroUrls[x];
-
-         }
-
-      }
-
-   }
-
-}
-
-
-
-
-
-// Switch page to URL of bottom menu selection
-
-
-
-function loadpage(formName) {
-
-   var mainIndex = document.dropForm.dropMenu.selectedIndex;
-
-   var formIndex = formName.subMenu.selectedIndex;
-
-   var newUrl = document.subForm.subMenu.options[formIndex].value;
-
-   if (newUrl != "") {
-
-      // check if there's already a key/value pair in the url
-
-      if (newUrl.indexOf("?") != "-1") {
-
-         // yes it does, so we add another key/value pair
-
-         newUrl = newUrl + "&";
-
-      } else {
-
-         // nope, so just add the new key/value pair
-
-         newUrl = newUrl + "?";
-
-      }
-
-      // add the siteloc information now.
-
-      newUrl = newUrl + "siteloc=" + mainIndex;
-
-      parent.location.href = newUrl;
-
-   }
-
-   return false;
-
-}
-
-
-
-
-
-// -->
-
-
-
-</script>
-
-
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td valign="top" align="right" height="25"> 
-      <form target="_top" name="dropForm" action="/cgi-bin/redirect.cgi">
-        <select name="dropMenu" onchange="newOptions(dropForm)" size="1" cols="50">
-          <option value="">1) Choose main section here... 
-          </option><option value="">_______________________ 
-          </option><option value="/zoo/homepage.php3">San Diego Zoo 
-          </option><option value="/wap/homepage.php3">Wild Animal Park 
-          </option><option value="/conservation/homepage.php3">International Conservation 
-          </option><option value="/virtualzoo/homepage.html">E-Zoo
-          </option><option value="/index.html">Main Intro Page 
-          </option>
-        </select>
-      </form>
-    </td>
-    <td valign="top" align="left" height="25">&nbsp; </td>
-  </tr>
-  <tr> 
-    <td align="right" height="27"> 
-      <form target="_top" name="subForm">
-        <p>
-<select name="subMenu" onchange="loadpage(subForm)" size="1">
-            <option value="">2)...then a subsection here 
-            </option><option value="">_______________________ 
-            </option><option value="">You must select an available 
-            </option><option value="">main section before the list of 
-            </option><option value="">subsections will be populated. 
-          </option></select>
-        </p>
-        </form>
-    </td>
-    
-  </tr>
-  <tr> 
-    <td align="right" colspan="2" height="2"> 
-      <div align="center"><font size="1" face="Arial, Helvetica, sans-serif"><b>Looking 
-        for something? <a href="http://www.sandiegozoo.org/apps/search/index.php">Search 
-        for it!</a></b></font></div>
-    </td>
+<p>
+<table width="200" border="0" cellspacing="0" cellpadding="5">
+  <tbody><tr>
+    <td> 
+      <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>RETURN 
+        TO &gt;&gt;<br>
+        </b><a href="/zoo/homepage.php3"><b>San Diego Zoo</b></a> 
+        | <b><a href="/wap/homepage.php3">The San Diego Wild Animal Park</a></b> 
+        | <b><a href="/conservation/homepage.php3">International Conservation</a></b> 
+        | <b><a href="/virtualzoo/homepage.html">E-Zoo</a></b> <b> | </b></font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://zoocf.console.net/pressreleases/releaseSearch.cfm">Press 
+        Releases</a> | <a href="/apps/search/index.php">Search</a> | <a href="/index.html">ZSSD 
+        Home</a> | <a href="http://www.shopzoo.com">Shopzoo</a> </font></b></p>
+      </td>
   </tr>
 </tbody></table>
 
 
 
-<script language="JavaScript">
 
-<!-- hide me from antiquated technology
-
-
-
-/******************************************************/
-
-/* function: getSiteLoc                               */
-
-/* purpose: get the site location value from the url. */
-
-/******************************************************/
-
-function getSiteLoc()
-
-{
-
-   // define the key we are looking for
-
-   cname = "siteloc=";
-
-   // check if the key exists in the url
-
-   if (parent.location.href.indexOf(cname) != "-1") {
-
-      // yes it does, now get the value of the key
-
-      // determine the begining location of the value
-
-      begin = parent.location.href.indexOf(cname);
-
-      begin += cname.length;
-
-      // determine where the value ends
-
-      end = parent.location.href.indexOf("&", begin);
-
-      if (end == -1) {
-
-         // this is either the last key/value pair,
-
-         // or the only key/value pair
-
-         // so we need to make sure there's no # in the
-
-         // url
-
-         end = parent.location.href.indexOf("#", begin);
-
-         if (end == -1) {
-
-            end = parent.location.href.length;
-
-         }
-
-      }
-
-      return unescape(parent.location.href.substring(begin,end));
-
-   } else {
-
-      return false;
-
-   }
-
-}
-
-
-
-// set the navigational menus based on the sitelocation that _may_ be passed in.       
-
-siteloc = getSiteLoc();
-
-if (siteloc != false) {
-
-   // document.write("Location: " + siteloc);
-
-   document.dropForm.dropMenu.selectedIndex = siteloc;
-
-   newOptions(document.dropForm);
-
-}
-
-// stop hiding me -->
-
-</script>
-
-
-
-
-
-</td></tr></tbody></table>
+</p></td></tr></tbody></table>
 
 
 
@@ -583,39 +76,48 @@ if (siteloc != false) {
 
 
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-
-<td><img src="/images/pixel.gif" width="40" height="1" alt="Spacer"></td>
-
-<td align="left" valign="top">
-
-<font face="arial,helvetica" size="4"><b>
-
-www.sandiegozoo.org -- PRIVACY POLICY</b></font><p>
-
-</p><p>
-
-The Zoological Society of San Diego (ZSSD), operators of <a href="../index.html" target="_top">www.sandiegozoo.org</a>, recognizes the importance of protecting the privacy of the users of this Web site. Except when specifically and knowingly  provided by you, the Web site user, the ZSSD collects no personally identifying information about individuals. The name, address, and payment (if applicable) that the user might provide when using this Web site may be processed or disclosed by the ZSSD as permitted under the Web site's Terms of Use, of which the user agrees to upon utilizing the information and services of www.sandiegozoo.org.
-
-</p><p>
-
-As a method of tracking the use of this Web site, <a href="../index.html" target="_top">www.sandiegozoo.org</a> may utilize the Web technology known as "cookies," which enables the ZSSD to relate a visitor's use of ZSSD information to any information that the visitor may have specifically and knowingly provided to the ZSSD. Any such voluntarily provided identifying information, if applicable, may be used by the ZSSD for editorial, marketing or promotional purposes.  Such identifying information, if applicable, will not be transferred to any other party unless otherwise stated at the time of collection.
-
-</p><p>
-
-Visitors to <a href="../index.html" target="_top">www.sandiegozoo.org</a> should be aware that when they voluntarily disclose personal information such as user names or e-mail addresses on guest books, bulletin boards or in chat areas, that information can be collected and used by others, and may result in unsolicited messages from other posters or parties.
-
-            </p><p> The ZSSD only collects any type of personally identifying information to the 
-              extent that it serves our legitimate business purposes, and the 
-              ZSSD will maintain appropriate safeguards to ensure the security, 
-              integrity and privacy of the information. 
-            </p><p>The ZSSD works with a third party that serves ads to this site. 
-              To find out more about how Engage Media manages the privacy of information 
-              in conjunction with serving ads on this site, please go to <a href="http://www.engage.com/privacy">Engage 
-              Media</a> for details.
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td><img src="/images/pixel.gif" width="40" height="1" alt="Spacer"></td>
+          <td align="left" valign="top"> <font face="Arial, Helvetica, sans-serif" size="2"><b> 
+            www.sandiegozoo.org -- PRIVACY POLICY</b></font> 
+            <p> 
+            </p><p><font face="Arial, Helvetica, sans-serif" size="2"> The Zoological 
+              Society of San Diego (ZSSD), operators of <a href="../index.html" target="_top">www.sandiegozoo.org</a>, 
+              recognizes the importance of protecting the privacy of the users 
+              of this Web site. Except when specifically and knowingly provided 
+              by you, the Web site user, the ZSSD collects no personally identifying 
+              information about individuals. The name, address, and payment (if 
+              applicable) that the user might provide when using this Web site 
+              may be processed or disclosed by the ZSSD as permitted under the 
+              Web site's Terms of Use, of which the user agrees to upon utilizing 
+              the information and services of www.sandiegozoo.org. </font>
+            </p><p><font face="Arial, Helvetica, sans-serif" size="2"> As a method 
+              of tracking the use of this Web site, <a href="../index.html" target="_top">www.sandiegozoo.org</a> 
+              may utilize the Web technology known as "cookies," which enables 
+              the ZSSD to relate a visitor's use of ZSSD information to any information 
+              that the visitor may have specifically and knowingly provided to 
+              the ZSSD. Any such voluntarily provided identifying information, 
+              if applicable, may be used by the ZSSD for editorial, marketing 
+              or promotional purposes. Such identifying information, if applicable, 
+              will not be transferred to any other party unless otherwise stated 
+              at the time of collection. </font>
+            </p><p><font face="Arial, Helvetica, sans-serif" size="2"> Visitors to 
+              <a href="../index.html" target="_top">www.sandiegozoo.org</a> should 
+              be aware that when they voluntarily disclose personal information 
+              such as user names or e-mail addresses on guest books, bulletin 
+              boards or in chat areas, that information can be collected and used 
+              by others, and may result in unsolicited messages from other posters 
+              or parties. </font>
+            </p><p><font face="Arial, Helvetica, sans-serif" size="2"> The ZSSD only 
+              collects any type of personally identifying information to the extent 
+              that it serves our legitimate business purposes, and the ZSSD will 
+              maintain appropriate safeguards to ensure the security, integrity 
+              and privacy of the information. </font>
+            </p><p>&nbsp;
           </p></td>
-
-</tr></tbody></table>
+        </tr>
+      </tbody></table>
 
 
 
