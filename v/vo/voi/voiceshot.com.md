@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voiceshot.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214123957id_/http%3A//www.voiceshot.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceshot.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405144050id_/http%3A//voiceshot.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -54,7 +54,7 @@ If you have any questions about the security at our website, you can send an ema
 
    
 **Special Offers  
-**We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications.
+**We send all new members a welcoming email to verify their email address. Established members will occasionally receive information on products, services, special deals, and a newsletter.
 
   
 **Correction/Updating Personal Information:  
