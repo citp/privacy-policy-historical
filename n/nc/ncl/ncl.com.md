@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the ncl.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409231156id_/http%3A//www.ncl.com/ncl_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncl.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205095454id_/http%3A//ncl.com/ncl_privacy.htm) for the most accurate reproduction.*
 
 # Norwegian Cruise Line Privacy Policy
 
-**Norwegian Cruise Line Privacy Policy**
+**Norwegian Cruise Line  
+Privacy Policy**
 
 Norwegian Cruise Line's policy is to respect and protect the privacy of our users. This policy statement tells you how we collect your personal information and how we use it. Using the Internet should be a fun experience and we want to help you make it so. 
 
