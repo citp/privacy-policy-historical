@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605074802id_/http%3A//www.cbronline.com/cbr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094046id_/http%3A//www.cbronline.com/cbr/privacy) for the most accurate reproduction.*
 
 # CBR Online Latest News: Privacy Policy
 
@@ -10,7 +10,7 @@ all regional offices for all the forms of processing mentioned.
 **Collection and Use of User Details**
 
 Personal details of users of CBR Online will be collected and processed upon registration to our website. All personal information is collected with the  
-knowledge of our customers via the Website's order and registration forms only. CBR Online and ComputerWire Ltd fully conform to the Data Protection  
+knowledge of our customers via the Website's order and registration forms only. CBR Online and ComputerWire fully conform to the Data Protection  
 Act 1998.
 
 **Why we ask for this information**
@@ -44,7 +44,7 @@ over the Internet, we cannot guarantee its security.
 CBR Online will maintain appropriate measures to ensure that users' personal details are not misused, accidentally destroyed, lost or altered  
 within the CBR Online server environment. 
 
-Occasions will arise when customer information is passed outside the ComputerWire Group to other data processors (i.e. fulfilment bureaux,  
+Occasions will arise when customer information is passed outside ComputerWire to other data processors (i.e. fulfilment bureaux,  
 database consultants etc.) but they will only act upon instruction from CBR Online in order to perform the services required.
 
 **Changes to this policy**
