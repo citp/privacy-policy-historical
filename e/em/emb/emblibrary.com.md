@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205082400id_/http%3A//www.emblibrary.com/emblibrary/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608044554id_/http%3A//www.emblibrary.com/emblibrary/privacy.asp%3F) for the most accurate reproduction.*
 
 # Privacy Statement for Embroidery Library
 
@@ -6,7 +6,7 @@
 ---|---|---  
   
 ## Privacy Statement for Embroidery Library Inc.  
-This page was last edited on 10/12/00
+This page was last edited on 02/17/01 
 
 [](https://www.truste.org/validate/5202)
 
@@ -42,13 +42,18 @@ The customer's contact information is used to contact the visitor if necessary.
 Reasons for email originating from the Embroidery Library include; issues with an order that the customer has placed and updates to our privacy statement that include any changes with how we use your information.  
 We do not send out any junk email.   
 Emails are sent on occasion with updates about the Embroidery Library.  
-You will have an option to be removed from our update email list.  To do this go to the Lobby page after you have signed in to the store and click on the Shopper Update Link.  
+You will have an option to be removed from our update email list.  Instruction to unsubscribe are located at the bottom of the updates/newsletter emails.  
 This information is not used in any other way and is _never_ shared with any other companies. 
 
  **Links**
 
 This site contains links to other sites. **Embroidery Library** is not responsible for the privacy practices or the content of such Web sites.  
 As privacy practices may be different at other sites please review each site's privacy statement.
+
+ **Contests**
+
+Occasionally the Embroidery Library sponsors contests held by other sites.  The Embroidery Library does not ask for any additional information to enter a contest.  If you are asked for any information please be aware that this information is being requested from the originator of the contest.  
+For any questions about privacy issues regarding information being collected by the contest owner please refer to their privacy statement.
 
  **Orders**
 
@@ -61,10 +66,13 @@ Your credit card information is not stored in your Order History.
 
 **Newsletter**
 
-The Embroidery Library uses the services at Egroups to distribute a newsletter.  
-Egroups does collect information at their site.  
-To join our newsletter please visit their site at [http://www.egroups.com](http://www.egroups.com/).  If you wish to unsubscribe you may do so by sending a blank email to [emblibrary-unsubscribe@eGroups.com](mailto:emblibrary-unsubscribe@eGroups.com).  
-For more detail about Egroups please see their FAQ at <http://www.egroups.com/help/index.html>.
+The Embroidery Library sends out a newsletter through a service offered at [www.bcentral.com](http://www.bcentral.com/).    
+You will automatically receive a welcome letter after you place your first order with us.  
+The welcome letter will let you know about our newsletter and give you details about how to unsubscribe or change your newsletter information.
+
+If you wish to unsubscribe from this newsletter please follow the instructions included at the bottom of each newsletter and/or in your welcome letter.  
+
+> Information gathered when you sign up for the newsletter is used so that we can tailor the newsletter to your interests.  The only required information when you sign up is your email address.
 
 ## Security
 
@@ -76,7 +84,7 @@ This site gives users the following options for changing and modifying informati
 
   1. You may email [stitch@emblibrary.com](mailto:stitch@emblibrary.com)
   2. Or, visit <http://www.emblibrary.com/emblibrary/shopper_update.asp> after you have logged into the store, or click on the Update Shopper link located at the bottom of our Lobby page.
-  3. If you do not wish to receive updates by email please go to the Lobby page after you sign in to the store and click on the Shopper Update link, or, email us ([stitch@emblibrary.com](mailto:stitch@emblibrary.com)) and we will remove you from our email list. 
+  3. Instruction to unsubscribe are located at the bottom of the updates/newsletter emails
   4. To remove your information from our database, Please send an email to [stitch@emblibrary.com](mailto:stitch@emblibrary.com) asking that your information be removed from our database.
 
 
@@ -84,7 +92,7 @@ This site gives users the following options for changing and modifying informati
 **Updates**
 
 We will notify you of any changes to our privacy statement with a notice on our Lobby page [ Http://www.emblibrary.com](http://www.emblibrary.com/).    
-If we ever make any changes to the way we handle your personal information you will be contacted by email in advance.  At that time if you wish to remove any information that is stored with us you may do so.
+If we ever make any changes to the way we handle your personal information you will be contacted by email in advance.  At that time if you wish to remove any information that is stored with us you may do so.  The opt-out instructions will be in the posted changes notice.
 
 ## Contacting the Web Site
 
