@@ -1,65 +1,75 @@
-> *The following text is extracted and transformed from the toptable.co.uk privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413061221id_/http%3A//www.toptable.co.uk/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptable.co.uk privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205002340id_/http%3A//toptable.co.uk/index.cfm%3Fid%3D28) for the most accurate reproduction.*
 
-# Top Table - Charter
+# toptable.co.uk - the ultimate in restaurant and party booking - privacy statement
 
-**toptable.co.uk** is committed to ensuring that your privacy is protected. This policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
+toptable.co.uk Limited is committed to ensuring that your privacy is protected. This policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
 
-  **1.** | **The information we collect and how we use it**  
-  | 
+By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20031205002340id_/http%3A//toptable.co.uk/index.cfm?id=65), which govern your use of the site in general. We will use your information for the purposes set out in paragraph 5 below. You will have an opportunity to unsubscribe whenever we communicate with you. To unsubscribe from Toptable communications please send an email to [info@toptable.co.uk](mailto:info@toptable.co.uk) with ‘unsubscribe’ in the subject box.
 
-When you visit **toptable.co.uk** , we need to know your name and e-mail address. We also need to know your street address, telephone number [and your credit card details].  
+We may need to update this privacy statement from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version.
+
+1\. Collecting personal information
+
+You can decide what personal information you provide to us. We will only collect personal information that you choose to provide. Where possible, we will enable you to select how we will use this information (for example, by choosing to opt-in or opt-out of receiving special promotional offers).
+
+You may choose to provide us with personal information if, for example, you: contact us with an enquiry; register on the site, fill out a survey or other form with your personal information included; request us to provide you with information; enter a competition; post information to public areas of the site or participate in a promotion.
+
+You have the opportunity to choose not to opt-in receive communications from us at any point where we request information about you.
+
+By providing any personal information to us, you fully understand and clearly consent to the transfer of such personal information to, and the collection and processing of such information in, other countries or territories. Any such transfer and processing by us will be in accordance with this privacy policy.
+
+Third parties (including but not limited to software providers, advertisers and ad placement agencies) may also use tracking technologies by or through the site. We have no responsibility or liability for any tracking, data collection or other activities of such third parties.
+
+2\. Our Use of Personal Information
+
+We will use information collected from you in the following ways:
+
+_Marketing purposes._ We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites. We may also use your personal information in order to communicate with you about our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses.. However, you will be able to choose whether or not to receive such communications when you first provide personal information to us. We may also share non-personal information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you.
+
+_Transactional purposes._ We may use your personal information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods that you order from us or any of our agents, or for the fulfilment of such transactions (e.g. delivery). The personal information you provide may be used by an authorised vendor to fulfil that order.
+
+_Third party offers._ We may arrange for carefully selected organisations to send you marketing and promotional information that may be of interest to you. In such circumstances your personal information may be disclosed to these organisations who will agree to be bound by the terms of this privacy statement. We will obtain your permission before we send you any such communications.
+
+_Public (or Interactive)_ Areas of the Site. Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards and discussion groups) are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the site are encouraged to exercise caution when providing personal information about themselves in public areas of this site.
+
+_Sale and Transfer._ In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us.
+
+_Administration and Data Management._ We may transfer your personal information to third parties under confidentiality obligations when the performance of any service in relation to the activities above is sub-contracted (e.g. the administration of a marketing campaign).
+
   
-|   
-  | We gather this information to allow us to process your registration, open an account for you and facilitate introductions between buyers and sellers. The relevant information is then used by us, our agents and sub-contractors to allow your use of our services to proceed smoothly and to aid the ease with which transactions are conducted.  
-|   
-  | We may also use aggregate information and statistics for the purposes of monitoring web site usage in order to help us develop the web site and our service and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.  
-|   
-  | We will be careful not to provide any information about you to third parties, unless you have given us your express permission. However to enhance our service to you and to allow you to get the most out of **toptable.co.uk** , we would like to provide you with certain helpful information.  
-|   
-  | We may wish to provide you with information about special features of our web site or any special service or products which we think may be of interest to you. If you would rather not receive this information, please send a blank e-mail message to [enquiries@toptable.co.uk](mailto:enquiries@toptable.co.uk).  
-|   
-  | We may also provide you with related information from third parties which we believe may be of interest to you. If you do not wish us to receive this information, please send an e-mail to [enquiries@toptable.co.uk](mailto:enquiries@toptable.co.uk).  
-  |    
-**2.** | **Our use of cookies and other information gathering technologies**  
-  | 
+_Legal purposes._ We may disclose your personal information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our customers or users of our site.
 
-In addition, we may need to use "cookies" on **toptable.co.uk**  
-  
-|   
-  | "Cookies" are a standard for storing small pieces of data on a web client (ie. the web browser on your computer). Any web server (including this one) may:  
-|   
-  | · store one or more cookies in your browser; or  
-· request your browser to transmit the date to the web server   
-|   
-  | **toptable.co.uk** may store cookies on your web client in order to better serve you upon your subsequent visits to **toptable.co.uk**.  
-|   
-  | By using cookies, web sites can track information about visitors' usage of the site, provide customised content, or even the use of password protection. Note that some browsers can be configured to allow cookies to be accessed by servers other than the originating server.  
-|   
-  | Please note that most web browsers can also be configured to notify the user when a cookie is received, allowing you to either accept or reject it. For further information about working with cookies:  
-|   
-  | · for Internet Explorer, visit [www.microsoft.com](http://www.microsoft.com/); and  
-· for Netscape Navigator, visit [www.netscape.com](http://www.netscape.com/)  
-|   
-  | Note that the servers listed above may also cause a cookie to be stored on your computer. If you are using a browser not listed above, please consult your documentation or the manufacturer.  
-|   
-  | We reserve the right to use other tracking technologies in the future.  
-  |    
-**3.** | **How we protect your information**  
-  | The Internet is not a secure medium. However we have put in place various security procedures and keep your information confidential. **toptable.co.uk** 's internal procedures cover the storage, access and disclosure of your information.  
-  |    
-**4.** | **Sale of business**  
-  | In the event that this business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers' advisers and will be passed on to the new owners of the business.  
-  |    
-**5.** | **Updating your details**  
-  | If any of the information that you have provided to **toptable.co.uk** changes, for example if you change your e-mail address, name or payment details or if you wish to cancel your registration, please let us know the correct details by sending an e-mail to [enquiries@toptable.co.uk](mailto:enquiries@toptable.co.uk).  
-  |    
-**6.** | **Your consent**  
-  | By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the web site, so that you may be aware of the information we collect and how we use it at all times. We will also e-mail you should we make any changes so that you may consent to our use of your information in that way. Continued use of the service will signify that you agree to any such changes.  
-|   
-  | 
+Links. This site may contain links or references to other Web sites outside of our control. Please be aware that we have no control over these sites and our privacy statement does not apply to these sites. We encourage you to read the privacy statements and terms and conditions of linked or referenced sites you enter.
 
-Because the Internet infrastructure is global the information you provide may be transferred outside the European Economic Area that do not have similar data protection legislation during use as set out in this policy. However, we have taken the steps outlined above to try to improve the security of your information. By submitting your information you consent to these transfers.  
+3\. Use of cookies
+
+In common with many websites, we use "cookies" to help us gather the following information from visitors to toptable.co.uk, for example:
+
+· the IP address from which you access the site
+
+· the type of browser and operating system used to access the site
+
+· the date and time of your access to the site
+
+· the pages you visit
+
+· the internet address of the website from which you accessed the site
+
+A cookie is a small data file that our server sends to your browser when you visit the site. The use of cookies helps us to assist your use of certain aspects of the site. You can delete cookies at any time or you can set your browser to reject or disable cookies. If you do disable cookies some functions on the site may not work correctly.
+
+We use information from cookies, for example, to learn about the number of visitors to our site and the type of technology that our visitors use. Cookies help us to monitor what sort of content is popular and to assess visitors browsing habits. When a user revisits the site, we may recognise the user by the cookie and customise the user’s experience accordingly. We can use this information to continually improve the content and usability of the site.
+
+We may compile and report to third parties (such as advertisers) aggregate statistics about our users in terms of numbers, traffic patterns and related site information.
+
+We do not connect the information collected through cookies with other information that is personally identifiable, unless required or permitted to do so by law or to enforce the Terms & Conditions.
+
+4\. How we protect your information
+
+We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect. However, due to the open communication nature of the Internet, toptable.co.uk cannot guarantee that communications between you and toptable.co.uk, or information stored on toptable.co.uk servers, will be free from unauthorised access by third parties.
+
+5\. Your details and contacting us
+
+You can check what personal information we hold about you, update your information, ask us to remove your information, correct any inaccuracies in such personal information or ask us questions about our Privacy Statement, by contacting us at [info@toptable.co.uk](mailto:info@toptable.co.uk) We will make every effort to respond to your request in a timely manner.
+
   
-  |    
-**7.** | **How to contact toptable.co.uk**  
-  | We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to [enquiries@toptable.co.uk](mailto:enquiries@toptable.co.uk)
+
