@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asqit.com privacy policy that was archived on 2001-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010714095155id_/http%3A//www.asqit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asqit.com privacy policy that was archived on 2002-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020615053702id_/http%3A//www.asqit.com/privacy.html) for the most accurate reproduction.*
 
-# asqit.com - Bargains & Best Deals Finder for Almost Everything!
+# Privacy Policy
 
 **ASQIT.COM   PRIVACY POLICY**
 
@@ -8,7 +8,7 @@ Thank you for visiting this page of  Asqit.com's Privacy Policy. PRIVACY PROTEC
 
 This paragraph explains what information is collected by us, how we use that information, and how we protect this information from being spread through the net without customer’s  clear permission.
 
-We are rapidly growing company and steady adding new services. Therefore our privacy policy may be revised without worsening our customer’s privacy. All the revisions will be immediately published on our homepage [Privacy Policy](https://web.archive.org/web/20010714095155id_/http%3A//www.asqit.com/privacy.html). 
+We are rapidly growing company and steady adding new services. Therefore our privacy policy may be revised without worsening our customer’s privacy. All the revisions will be immediately published on our homepage [Privacy Policy](https://web.archive.org/web/20020615053702id_/http%3A//www.asqit.com/privacy.html). 
 
 **1.PERSONAL INFORMATION**
 
@@ -30,23 +30,23 @@ It means that all the customer’s requests are sent to merchants anonymously an
 
 **4.ADVERTISEMENTS **
 
-**"Ask an Expert" ** service of Asqit.com is free of charge.  Our customers get answers from qualified persons representing online merchants who sell goods and services. An answer may contain  an advertisement inserted by Asqit.com  with the link to website which does not provide shopping assistance service with Asqit.com. 
-
 Asqit.com itself sends to the customer self-originated promotion information, news or self-originated advertisements in the form of Newsletter only if the customer submits it. If the customer wants to receive information about products and services directly from the merchant he/she will submit it with original email address.
 
 If a merchant which provides shopping assistant service with Asqit.com  sends promotion or advertisement information to the customer using anonymous email addresses, Asqit.com will transmit this information to the customer until the customer clearly  points it out that he/she wishes to clear database record of relation between anonymous and real email addresses thus ceasing future transmissions to the email address.
 
 **5.QUESTIONS, ANSWERS AND SELECTIONS **
 
-Asqit.com collects customer’s questions, assistant’s answers and final selections (purchases) made by customers. This information is used to rate shopping assistants and to ease question’s structuring. Asqit.com does not associate this information with the customer’s email address thus protecting the customer from disclosing the information on his/her questions, answers and selections (purchases). Asqit.com uses this information for the general analysis of customer’s enquires and preferences without linking this information with dedicated email addresses.
+Asqit.com collects customer’s questions, expert's answers and selections (purchases) made by customers. Asqit.com does not associate this information with the customer’s email address thus protecting the customer from disclosing the information on his/her questions, answers and selections (purchases). Asqit.com uses this information for the general analysis of customer’s enquires and preferences without linking this information with dedicated email addresses.
 
 Asqit.com does not protect customer’s privacy if the customer sends information on his/her questions and selections to his/her friends using Asqit.com feature “Tell a Friend about us”.
 
 **6.** **OTHER WEBSITES **
 
-Asqit.com sends emails which may contain links to other websites. These websites are linked as providers of shopping services or as advertisers. These websites have separate privacy protection schemes independent of Asqit.com. 
+Asqit.com offers links to other websites. These websites are linked as providers of shopping services or as advertisers. These websites have separate privacy protection schemes independent of Asqit.com. 
 
 Asqit.com disclaims any responsibility or liability for the privacy protection policies and actions of other websites.
+
+Asqit.com uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm)." 
 
 **7.FEEDBACK **
 
