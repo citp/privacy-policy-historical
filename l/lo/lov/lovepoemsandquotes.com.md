@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovepoemsandquotes.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609150252id_/http%3A//www.lovepoemsandquotes.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovepoemsandquotes.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204222810id_/http%3A//www.lovepoemsandquotes.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Love Poems And Quotes
 
@@ -14,4 +14,4 @@
 > 
 > **5.** The Web Site Analysis Tool we use on our site (HitBox Pro) employs the use of ‘cookies’ within our site for monitoring what is referred to as ‘unique visitors’. When a visitor comes to our web site, a very small cookie is stored on his or her computer. By tracking the information contained in the ‘cookie’, the Web Site Analysis Tool can determine how many different (unique) visitors come to our web site. This ‘cookie’ does not contain any personally identifiable information.
 > 
-> **[Click here for Page 2 of our Privacy Policy](https://web.archive.org/web/20020609150252id_/http%3A//www.lovepoemsandquotes.com/Privacy2.html)**
+> **[Click here for Page 2 of our Privacy Policy](https://web.archive.org/web/20021204222810id_/http%3A//www.lovepoemsandquotes.com/Privacy2.html)**
