@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the nationaltheatre.org.uk privacy policy that was archived on 2004-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040615150137id_/http%3A//www.nationaltheatre.org.uk%3Flid%3D2595) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationaltheatre.org.uk privacy policy that was archived on 2004-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041016084608id_/http%3A//www.nationaltheatre.org.uk%3Flid%3D2595) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-  <meta name="GENERATOR" content="webbler 2.5.9 - http://tincan.co.uk/webbler">
+  <meta name="GENERATOR" content="webbler 3.0.2 - http://tincan.co.uk/webbler">
   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
   <link rel="SHORTCUT ICON" href="/favicon.ico">
   <title>National Theatre : Website Help : Privacy</title>
@@ -261,10 +261,11 @@ function reveal(menu, myparent, closeOther,menuSize,defaultTop,defaultLeft) {
      document.layers[menu].top = top;
    } else {
      //window.status += " ("+left+":"+top+")";
-     //mymenu.style.left = left+pad;
-     //mymenu.style.position = "absolute";
+     mymenu.style.left = left;
+     mymenu.style.position = "absolute";
      mymenu.style.top = top;
      mymenu.style.visibility = "visible";
+	  // alert(left+" "+mymenu.style.left+" "+mymenu+" "+mymenu.style.top);
      openNavs[(openNavs.length)] = mymenu;
   }
 }
@@ -425,7 +426,7 @@ var talk_shop_navColor = nav1Color;
 </style>
 </head>
 <body bgcolor="white">
-<a href="/cgi-bin/parser.pl?PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" class="smgry" id="textonlylink">Text-only</a>
+<a href="/cgi-bin/parser.pl" class="smgry" id="textonlylink">Text-only</a>
 <a name="top"></a>
 <div class="head">
 <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#990066">
@@ -448,16 +449,16 @@ var talk_shop_navColor = nav1Color;
 <!-- NT LOGO -->
 
 <tr bgcolor="#990066"><td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td colspan="10" valign="top">&nbsp;<a href="/?PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" id="ntou"><img src="images/logos/nationaltheatre990066.gif" width="188" height="19" alt="National Theatre" border="0" hspace="0" vspace="10"></a></td>
+<td colspan="10" valign="top">&nbsp;<a href="/" id="ntou"><img src="images/logos/nationaltheatre990066.gif" width="188" height="19" alt="National Theatre" border="0" hspace="0" vspace="10"></a></td>
 <td><img src="images/spacer.gif" width="1" height="85" hspace="0" vspace="0" border="0" alt=""></td>
 <td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td></tr>
 
 <tr bgcolor="#990066"><td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td colspan="2">&nbsp;<span class="urhere">Tue 15 Jun</span></td>
+<td colspan="2">&nbsp;<span class="urhere">Sat 16 Oct</span></td>
 <td colspan="2">&nbsp;</td>
 <td colspan="7">&nbsp;<span class="urhere">
 
-<a href="/?lid=1&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">NT</a>&nbsp;:&nbsp;<a href="/?bid=22&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Visiting</a>&nbsp;:&nbsp;<a href="/?bid=3&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Website Help</a>&nbsp;:&nbsp;<a href="/?lid=2595&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Privacy</a>
+<a href="/?lid=1">NT</a>&nbsp;:&nbsp;<a href="/?bid=22">Visiting</a>&nbsp;:&nbsp;<a href="/?bid=3">Website Help</a>&nbsp;:&nbsp;<a href="/?lid=2595">Privacy</a>
 
 </span></td>
 <td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td></tr>
@@ -475,25 +476,34 @@ var talk_shop_navColor = nav1Color;
 <td valign="bottom">
 <!--- start dhtmlmenu nav2-->
 
-      <script type="text/javascript">
+      <script type="text/javascript" language="Javascript">
       if (!nav2top) var nav2top=0;
       if (!nav2left) var nav2left=0;
       if (!nav2Color) var nav2Color=0;
       </script>
       <div class="dhtmlmenuBar" onmouseover="reveal('dhtmlmenu-5', this, true,10,nav2top,nav2left  );
 navbarhighlight(this, 'anav21','red','white', nav2Color);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'anav21','white','red', nav2Color);" onclick="window.location='/?lid=29';">
-<a class="dhtmlmenuBar" href="/?lid=29&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" id="anav21" onmouseover="if (!document.layers) return; reveal('dhtmlmenu-5', this, true,10,nav2top,nav2left  );
-navbarhighlight(this, 'anav21','red','white', nav2Color);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'anav21','white','red', nav2Color);" onfocus="reveal('dhtmlmenu-5', this, true,10,nav2top,nav2left  ); return false;" onblur="reSetTimeout('blur')">WHAT'S ON</a></div>
+<a class="dhtmlmenuBar" href="/?lid=29" id="anav21" onmouseover="if (!document.layers) return; reveal('dhtmlmenu-5', this, true,10,nav2top,nav2left  );
+navbarhighlight(this, 'anav21','red','white', nav2Color);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'anav21','white','red', nav2Color);" onblur="reSetTimeout('blur')">WHAT'S ON</a></div>
 <div id="dhtmlmenu-5" class="dhtmlmenu" onmouseover="clearTimeout(NavBars);" onmouseout="reSetTimeout('mo sub');">
-<div class="dhtdiv" onmouseover="highlight(this, 'anav22','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav22','white','red', nav2Color);" onclick="window.location='/?lid=171';"><a id="anav22" href="/?lid=171&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav22','zone','zone', nav2Color);" onblur="highlight(this, 'anav22','white','red', nav2Color);">Productions</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav23','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav23','white','red', nav2Color);" onclick="window.location='/?lid=1355';"><a id="anav23" href="/?lid=1355&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav23','zone','zone', nav2Color);" onblur="highlight(this, 'anav23','white','red', nav2Color);">Platforms</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav24','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav24','white','red', nav2Color);" onclick="window.location='/?lid=1946';"><a id="anav24" href="/?lid=1946&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav24','zone','zone', nav2Color);" onblur="highlight(this, 'anav24','white','red', nav2Color);">Exhibitions</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav25','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav25','white','red', nav2Color);" onclick="window.location='/?lid=5380';"><a id="anav25" href="/?lid=5380&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav25','zone','zone', nav2Color);" onblur="highlight(this, 'anav25','white','red', nav2Color);">Events</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav26','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav26','white','red', nav2Color);" onclick="window.location='/?lid=1821';"><a id="anav26" href="/?lid=1821&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav26','zone','zone', nav2Color);" onblur="highlight(this, 'anav26','white','red', nav2Color);">Free&nbsp;Foyer&nbsp;Music</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav27','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav27','white','red', nav2Color);" onclick="window.location='/?lid=18';"><a id="anav27" href="/?lid=18&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav27','zone','zone', nav2Color);" onblur="highlight(this, 'anav27','white','red', nav2Color);">Backstage&nbsp;Tours</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav28','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav28','white','red', nav2Color);" onclick="window.location='/?lid=1950';"><a id="anav28" href="/?lid=1950&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav28','zone','zone', nav2Color);" onblur="highlight(this, 'anav28','white','red', nav2Color);">On&nbsp;Tour&nbsp;&amp;&nbsp;West&nbsp;End</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav29','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav29','white','red', nav2Color);" onclick="window.location='/?lid=29';"><a id="anav29" href="/?lid=29&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav29','zone','zone', nav2Color);" onblur="highlight(this, 'anav29','white','red', nav2Color);">What's&nbsp;On&nbsp;This&nbsp;Week</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav210','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav210','white','red', nav2Color);" onclick="window.location='/?lid=4099';"><a id="anav210" href="/?lid=4099&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav210','zone','zone', nav2Color);" onblur="highlight(this, 'anav210','white','red', nav2Color);">Calendar</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav22','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav22','white','red', nav2Color);" onclick="window.location='/?lid=171';"><a id="anav22" href="/?lid=171" onblur="highlight(this, 'anav22','white','red', nav2Color);">Productions</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav23','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav23','white','red', nav2Color);" onclick="window.location='/?lid=1355';"><a id="anav23" href="/?lid=1355" onblur="highlight(this, 'anav23','white','red', nav2Color);">Platforms</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav24','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav24','white','red', nav2Color);" onclick="window.location='/?lid=1946';"><a id="anav24" href="/?lid=1946" onblur="highlight(this, 'anav24','white','red', nav2Color);">Exhibitions</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav25','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav25','white','red', nav2Color);" onclick="window.location='/?lid=5380';"><a id="anav25" href="/?lid=5380" onblur="highlight(this, 'anav25','white','red', nav2Color);">Events</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav26','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav26','white','red', nav2Color);" onclick="window.location='/?lid=1821';"><a id="anav26" href="/?lid=1821" onblur="highlight(this, 'anav26','white','red', nav2Color);">Free&nbsp;Foyer&nbsp;Music</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav27','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav27','white','red', nav2Color);" onclick="window.location='/?lid=18';"><a id="anav27" href="/?lid=18" onblur="highlight(this, 'anav27','white','red', nav2Color);">Backstage&nbsp;Tours</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav28','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav28','white','red', nav2Color);" onclick="window.location='/?lid=1950';"><a id="anav28" href="/?lid=1950" onblur="highlight(this, 'anav28','white','red', nav2Color);">On&nbsp;Tour&nbsp;&amp;&nbsp;West&nbsp;End</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav29','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav29','white','red', nav2Color);" onclick="window.location='/?lid=29';"><a id="anav29" href="/?lid=29" onblur="highlight(this, 'anav29','white','red', nav2Color);">What's&nbsp;On&nbsp;This&nbsp;Week</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav210','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav210','white','red', nav2Color);" onclick="window.location='/?lid=4099';"><a id="anav210" href="/?lid=4099" onblur="highlight(this, 'anav210','white','red', nav2Color);">Calendar</a></div>
 </div>
 <!--- end dhtmlmenu -->
 </td>
@@ -501,15 +511,15 @@ navbarhighlight(this, 'anav21','red','white', nav2Color);" onmouseout="if (!docu
 <td valign="bottom">
 <!--- start dhtmlmenu tickets_nav-->
 
-      <script type="text/javascript">
+      <script type="text/javascript" language="Javascript">
       if (!tickets_navtop) var tickets_navtop=0;
       if (!tickets_navleft) var tickets_navleft=0;
       if (!tickets_navColor) var tickets_navColor=0;
       </script>
       <div class="dhtmlmenuBar" onmouseover="
 navbarhighlight(this, 'atickets_nav1','red','white', tickets_navColor);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'atickets_nav1','white','red', tickets_navColor);" onclick="window.location='/?lid=2193';">
-<a class="dhtmlmenuBar" href="/?lid=2193&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" id="atickets_nav1" onmouseover="if (!document.layers) return; 
-navbarhighlight(this, 'atickets_nav1','red','white', tickets_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'atickets_nav1','white','red', tickets_navColor);" onfocus="reveal('dhtmlmenu-11', this, true,1,tickets_navtop,tickets_navleft  ); return false;" onblur="reSetTimeout('blur')">BUY TICKETS</a></div>
+<a class="dhtmlmenuBar" href="/?lid=2193" id="atickets_nav1" onmouseover="if (!document.layers) return; 
+navbarhighlight(this, 'atickets_nav1','red','white', tickets_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'atickets_nav1','white','red', tickets_navColor);" onblur="reSetTimeout('blur')">BUY TICKETS</a></div>
 
 <!--- end dhtmlmenu -->
 </td>
@@ -517,21 +527,26 @@ navbarhighlight(this, 'atickets_nav1','red','white', tickets_navColor);" onmouse
 <td class="tdnav">
 <!--- start dhtmlmenu nav1-->
 
-      <script type="text/javascript">
+      <script type="text/javascript" language="Javascript">
       if (!nav1top) var nav1top=0;
       if (!nav1left) var nav1left=0;
       if (!nav1Color) var nav1Color=0;
       </script>
       <div class="dhtmlmenuBar" onmouseover="reveal('dhtmlmenu-4', this, true,6,nav1top,nav1left  );
 navbarhighlight(this, 'anav11','red','white', nav1Color);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'anav11','white','zone', nav1Color);">
-<a class="dhtmlmenuBar" href="?PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" id="anav11" onmouseover="if (!document.layers) return; reveal('dhtmlmenu-4', this, true,6,nav1top,nav1left  );
-navbarhighlight(this, 'anav11','red','white', nav1Color);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'anav11','white','zone', nav1Color);" onfocus="reveal('dhtmlmenu-4', this, true,6,nav1top,nav1left  ); return false;" onblur="reSetTimeout('blur')">EXPLORE</a></div>
+<a class="dhtmlmenuBar" href="" id="anav11" onmouseover="if (!document.layers) return; reveal('dhtmlmenu-4', this, true,6,nav1top,nav1left  );
+navbarhighlight(this, 'anav11','red','white', nav1Color);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'anav11','white','zone', nav1Color);" onblur="reSetTimeout('blur')">EXPLORE</a></div>
 <div id="dhtmlmenu-4" class="dhtmlmenu" onmouseover="clearTimeout(NavBars);" onmouseout="reSetTimeout('mo sub');">
-<div class="dhtdiv" onmouseover="highlight(this, 'anav12','white','#CC3399', nav1Color);" onmouseout="navbarlowlight(this, 'anav12','white','zone', nav1Color);" onclick="window.location='/?lid=9';"><a id="anav12" href="/?lid=9&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav12','white','#CC3399', nav1Color);" onblur="highlight(this, 'anav12','white','zone', nav1Color);">Visiting</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav13','white','#66CC33', nav1Color);" onmouseout="navbarlowlight(this, 'anav13','white','zone', nav1Color);" onclick="window.location='/?lid=2';"><a id="anav13" href="/?lid=2&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav13','white','#66CC33', nav1Color);" onblur="highlight(this, 'anav13','white','zone', nav1Color);">Learning</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav14','white','#ff9900', nav1Color);" onmouseout="navbarlowlight(this, 'anav14','white','zone', nav1Color);" onclick="window.location='/?lid=26';"><a id="anav14" href="/?lid=26&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav14','white','#ff9900', nav1Color);" onblur="highlight(this, 'anav14','white','zone', nav1Color);">Backstage</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav15','white','#3399CC', nav1Color);" onmouseout="navbarlowlight(this, 'anav15','white','zone', nav1Color);" onclick="window.location='/?lid=2593';"><a id="anav15" href="/?lid=2593&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav15','white','#3399CC', nav1Color);" onblur="highlight(this, 'anav15','white','zone', nav1Color);">Supporters</a></div>
-<div class="dhtdiv" onmouseover="highlight(this, 'anav16','white','#999999', nav1Color);" onmouseout="navbarlowlight(this, 'anav16','white','zone', nav1Color);" onclick="window.location='/?lid=16';"><a id="anav16" href="/?lid=16&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" onfocus="highlight(this, 'anav16','white','#999999', nav1Color);" onblur="highlight(this, 'anav16','white','zone', nav1Color);">Bookshop</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav12','white','#CC3399', nav1Color);" onmouseout="navbarlowlight(this, 'anav12','white','zone', nav1Color);" onclick="window.location='/?lid=9';"><a id="anav12" href="/?lid=9" onblur="highlight(this, 'anav12','white','zone', nav1Color);">Visiting</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav13','white','#66CC33', nav1Color);" onmouseout="navbarlowlight(this, 'anav13','white','zone', nav1Color);" onclick="window.location='/?lid=2';"><a id="anav13" href="/?lid=2" onblur="highlight(this, 'anav13','white','zone', nav1Color);">Learning</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav14','white','#ff9900', nav1Color);" onmouseout="navbarlowlight(this, 'anav14','white','zone', nav1Color);" onclick="window.location='/?lid=26';"><a id="anav14" href="/?lid=26" onblur="highlight(this, 'anav14','white','zone', nav1Color);">Backstage</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav15','white','#3399CC', nav1Color);" onmouseout="navbarlowlight(this, 'anav15','white','zone', nav1Color);" onclick="window.location='/?lid=2593';"><a id="anav15" href="/?lid=2593" onblur="highlight(this, 'anav15','white','zone', nav1Color);">Supporters</a></div>
+<div class="dhtdiv" onmouseover="highlight(this,
+      'anav16','white','#999999', nav1Color);" onmouseout="navbarlowlight(this, 'anav16','white','zone', nav1Color);" onclick="window.location='/?lid=16';"><a id="anav16" href="/?lid=16" onblur="highlight(this, 'anav16','white','zone', nav1Color);">Bookshop</a></div>
 </div>
 <!--- end dhtmlmenu -->
 </td>
@@ -539,15 +554,15 @@ navbarhighlight(this, 'anav11','red','white', nav1Color);" onmouseout="if (!docu
 <td class="tdnav">
 <!--- start dhtmlmenu talk_shop_nav-->
 
-      <script type="text/javascript">
+      <script type="text/javascript" language="Javascript">
       if (!talk_shop_navtop) var talk_shop_navtop=0;
       if (!talk_shop_navleft) var talk_shop_navleft=0;
       if (!talk_shop_navColor) var talk_shop_navColor=0;
       </script>
       <div class="dhtmlmenuBar" onmouseover="
 navbarhighlight(this, 'atalk_shop_nav1','red','white', talk_shop_navColor);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'atalk_shop_nav1','white','red', talk_shop_navColor);" onclick="window.location='/?lid=2262';">
-<a class="dhtmlmenuBar" href="/?lid=2262&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" id="atalk_shop_nav1" onmouseover="if (!document.layers) return; 
-navbarhighlight(this, 'atalk_shop_nav1','red','white', talk_shop_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'atalk_shop_nav1','white','red', talk_shop_navColor);" onfocus="reveal('dhtmlmenu-8', this, true,1,talk_shop_navtop,talk_shop_navleft  ); return false;" onblur="reSetTimeout('blur')">TALKBACK</a></div>
+<a class="dhtmlmenuBar" href="/?lid=2262" id="atalk_shop_nav1" onmouseover="if (!document.layers) return; 
+navbarhighlight(this, 'atalk_shop_nav1','red','white', talk_shop_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'atalk_shop_nav1','white','red', talk_shop_navColor);" onblur="reSetTimeout('blur')">TALKBACK</a></div>
 
 <!--- end dhtmlmenu -->
 </td>
@@ -555,15 +570,15 @@ navbarhighlight(this, 'atalk_shop_nav1','red','white', talk_shop_navColor);" onm
 <td class="tdnav">
 <!--- start dhtmlmenu subscribe_nav-->
 
-      <script type="text/javascript">
+      <script type="text/javascript" language="Javascript">
       if (!subscribe_navtop) var subscribe_navtop=0;
       if (!subscribe_navleft) var subscribe_navleft=0;
       if (!subscribe_navColor) var subscribe_navColor=0;
       </script>
       <div class="dhtmlmenuBar" onmouseover="
 navbarhighlight(this, 'asubscribe_nav1','red','white', subscribe_navColor);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'asubscribe_nav1','white','red', subscribe_navColor);" onclick="window.location='/?lid=2593';">
-<a class="dhtmlmenuBar" href="/?lid=2593&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" id="asubscribe_nav1" onmouseover="if (!document.layers) return; 
-navbarhighlight(this, 'asubscribe_nav1','red','white', subscribe_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'asubscribe_nav1','white','red', subscribe_navColor);" onfocus="reveal('dhtmlmenu-9', this, true,1,subscribe_navtop,subscribe_navleft  ); return false;" onblur="reSetTimeout('blur')">JOIN / SUPPORT</a></div>
+<a class="dhtmlmenuBar" href="/?lid=2593" id="asubscribe_nav1" onmouseover="if (!document.layers) return; 
+navbarhighlight(this, 'asubscribe_nav1','red','white', subscribe_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'asubscribe_nav1','white','red', subscribe_navColor);" onblur="reSetTimeout('blur')">JOIN / SUPPORT</a></div>
 
 <!--- end dhtmlmenu -->
 </td>
@@ -571,15 +586,15 @@ navbarhighlight(this, 'asubscribe_nav1','red','white', subscribe_navColor);" onm
 <td class="tdnav">
 <!--- start dhtmlmenu search_nav-->
 
-      <script type="text/javascript">
+      <script type="text/javascript" language="Javascript">
       if (!search_navtop) var search_navtop=0;
       if (!search_navleft) var search_navleft=0;
       if (!search_navColor) var search_navColor=0;
       </script>
       <div class="dhtmlmenuBar" onmouseover="
 navbarhighlight(this, 'asearch_nav1','red','white', search_navColor);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'asearch_nav1','white','red', search_navColor);" onclick="window.location='/?lid=152';">
-<a class="dhtmlmenuBar" href="/?lid=152&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" id="asearch_nav1" onmouseover="if (!document.layers) return; 
-navbarhighlight(this, 'asearch_nav1','red','white', search_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'asearch_nav1','white','red', search_navColor);" onfocus="reveal('dhtmlmenu-10', this, true,1,search_navtop,search_navleft  ); return false;" onblur="reSetTimeout('blur')">SEARCH</a></div>
+<a class="dhtmlmenuBar" href="/?lid=152" id="asearch_nav1" onmouseover="if (!document.layers) return; 
+navbarhighlight(this, 'asearch_nav1','red','white', search_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'asearch_nav1','white','red', search_navColor);" onblur="reSetTimeout('blur')">SEARCH</a></div>
 
 <!--- end dhtmlmenu -->
 </td>
@@ -637,7 +652,7 @@ navbarhighlight(this, 'asearch_nav1','red','white', search_navColor);" onmouseou
 <table border="0" cellpadding="0" cellspacing="0" width="149">
 <tbody><tr><td class="" colspan="2" rowspan="1" valign="top"><span class="rhm"><!-- cached: leaflist -->
 
-<span class="listitemgry_header"></span><ul class="leaflist"><!--title--><li class="listitemgry"><a href="/?lid=3361&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" class="listitemgrytitle">Website help</a></li><!--title--><li class="listitemgry"><a href="/?lid=152&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" class="listitemgrytitle">Search</a></li><!--title--><li class="listitemgry"><a href="/?lid=4&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" class="listitemgrytitle">About this site</a></li><!--title--><li class="listitemgry"><a href="/?lid=7&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" class="listitemgrytitle">Sitemap</a></li><!--title--><li class="listitemgry"><a href="/?lid=5&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" class="listitemgrytitle">Terms and Conditions</a></li><!--title--><li class="listitemgry"><a href="/?lid=2595&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" class="listitemgrytitle">Privacy</a></li></ul>
+<span class="listitemgry_header"></span><ul class="leaflist"><!--title--><li class="listitemgry"><a href="/?lid=3361" class="listitemgrytitle">Website help</a></li><!--title--><li class="listitemgry"><a href="/?lid=152" class="listitemgrytitle">Search</a></li><!--title--><li class="listitemgry"><a href="/?lid=4" class="listitemgrytitle">About this site</a></li><!--title--><li class="listitemgry"><a href="/?lid=7" class="listitemgrytitle">Sitemap</a></li><!--title--><li class="listitemgry"><a href="/?lid=5" class="listitemgrytitle">Terms and Conditions</a></li><!--title--><li class="listitemgry"><a href="/?lid=2595" class="listitemgrytitle">Privacy</a></li></ul>
 
 </span></td></tr>
 </tbody></table>
@@ -707,12 +722,12 @@ The Personal Information you supply when you join one of our e-mail lists will b
 Type your keyword(s) into the box below and click 'GO' (or press the return button on your keyboard):<br clear="all"><br clear="all"><br clear="all">
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-<td class="content" valign="top"><form method="get" action="/?" name="search" id="search" onsubmit="return checkSearch(this,'- Type search here -');"><input type="hidden" name="PHPSESSID" value="cb8c68080a6b5bdb6a3025783540c786">
+<td class="content" valign="top"><form method="get" action="/?" name="search" id="search" onsubmit="return checkSearch(this,'- Type search here -');">
        <input type="hidden" name="lid" value="0">
        <input type="text" name="query" value="- Type search here -" maxlength="50" class="searchBoxinput" onfocus="clearBox(this.form,'- Type search here -');" onblur="fillBox(this.form,'- Type search here -');" size="30"></form></td>
 <td class="content" valign="middle"><script type="text/javascript">document.writeln('&nbsp;&nbsp;<span class="go"><a href="javascript:document.forms[0].submit();">Go</a></span>');</script>&nbsp;&nbsp;<span class="go"><a href="javascript:document.forms[0].submit();">Go</a></span>
 
-<noscript><input type=image src="images/buttons/search-go-white.gif?PHPSESSID=cb8c68080a6b5bdb6a3025783540c786" width="20" height="20" hspace="0" vspace="0" border="0" alt="Go"></noscript></td></tr></tbody></table>
+<noscript><input type=image src="images/buttons/search-go-white.gif" width="20" height="20" hspace="0" vspace="0" border="0" alt="Go"></noscript></td></tr></tbody></table>
 
 </p><p>
 </p></td></tr></tbody></table>
@@ -758,13 +773,13 @@ Type your keyword(s) into the box below and click 'GO' (or press the return butt
 
 <!-- logo and footer links table -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
-<td width="149"><a href="/?PHPSESSID=cb8c68080a6b5bdb6a3025783540c786"><img src="/images/logos/nt_logo-sm.gif" width="55" height="33" hspace="0" vspace="0" border="0" align="top" alt="The Royal National Theatre"></a></td>
+<td width="149"><a href="/"><img src="/images/logos/nt_logo-sm.gif" width="55" height="33" hspace="0" vspace="0" border="0" align="top" alt="The Royal National Theatre"></a></td>
 <td class="footer">
-ZONES: <a href="/?lid=29&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">What's On</a> · <a href="/?lid=9&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Visiting</a> · <a href="/?lid=2&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Learning</a> · <a href="/?lid=26&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Backstage</a> · <a href="/?lid=2593&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Join/Support</a><!--  &middot; <a href="/?type=leaf&field=title&value=New+Information&PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Experimental</a> --><br>
+ZONES: <a href="/?lid=29">What's On</a> · <a href="/?lid=9">Visiting</a> · <a href="/?lid=2">Learning</a> · <a href="/?lid=26">Backstage</a> · <a href="/?lid=2593">Join/Support</a><!--  &middot; <a href="/?type=leaf&field=title&value=New+Information">Experimental</a> --><br>
 
-SHOPS: <a href="/?lid=2284&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Buy A Ticket</a> · <a href="/?lid=16&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">NT Bookshop</a> · <a href="/?lid=2262&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">NT Talkback</a><br>
+SHOPS: <a href="/?lid=2284">Buy A Ticket</a> · <a href="/?lid=16">NT Bookshop</a> · <a href="/?lid=2262">NT Talkback</a><br>
 
-GUIDES: <a href="/?lid=152&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Search</a> · <a href="/?lid=12&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Contact</a> · <a href="/?lid=3361&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Help?</a> · <a href="/?lid=5&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">©</a> · <a href="/?lid=1403&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">FAQ </a> · <a href="/?lid=7&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Sitemap</a> · <a href="/?lid=1652&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Accessibility</a> · <a href="/cgi-bin/parser.pl?PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Text only</a> · <a href="/?lid=4&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">About the site</a></td>
+GUIDES: <a href="/?lid=152">Search</a> · <a href="/?lid=12">Contact</a> · <a href="/?lid=3361">Help?</a> · <a href="/?lid=5">©</a> · <a href="/?lid=1403">FAQ </a> · <a href="/?lid=7">Sitemap</a> · <a href="/?lid=1652">Accessibility</a> · <a href="/textonly">Text only</a> · <a href="/?lid=4">About the site</a></td>
 </tr></tbody></table>
 <!-- end of logo and footer links table -->
 
@@ -774,7 +789,10 @@ GUIDES: <a href="/?lid=152&amp;PHPSESSID=cb8c68080a6b5bdb6a3025783540c786">Searc
 </div>
 <p>&nbsp;</p>
 
+
+
+
 <!-- end footer table -->
 
 
-<!--<font style="{font-size:8;font-color:#cccccc}">99 db queries in 0.241379 seconds</font>--></body></html>
+<!--<font style="{font-size:8;font-color:#cccccc}">89 db queries in 0.321058 seconds</font>--></body></html>
