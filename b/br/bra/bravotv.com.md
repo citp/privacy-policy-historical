@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the bravotv.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010102750id_/http%3A//www.bravotv.com/information/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravotv.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/privacy_policy.php) for the most accurate reproduction.*
 
-# BravoTV : Information
+# BravoTV: Privacy Policy
 
-bravotv.com  
-WEBSITE PRIVACY POLICY 
-
-And Children's Privacy Policy 
+**bravotv.com WEBSITE PRIVACY POLICY  
+And Children's Privacy Policy**
 
 We created this general audience website to be entertaining and informational for our visitors. Safeguarding your privacy is very important to us. We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy. We use the general term "visitors" to include both registered members of the Bravotv.com website and any other person that accesses the website, unless designated otherwise. Please carefully review our information collection practices and privacy protections below.
 
@@ -25,11 +23,11 @@ Jericho, NY 11753
 
 II. Membership Eligibility for General Audience Website
 
-You must be eighteen years of age (18) or older to be a member of our general audience website and receive membership benefits, such as our newsletter and to participate in our Interactive Areas. We will not accept membership registrations from visitors under the age of eighteen. Please see our [Terms of Usage Agreement](https://web.archive.org/web/20021010102750id_/http%3A//www.bravotv.com/information/terms.php).
+You must be eighteen years of age (18) or older to be a member of our general audience website and receive membership benefits, such as our newsletter and to participate in our Interactive Areas. We will not accept membership registrations from visitors under the age of eighteen. Please see our [Terms of Usage Agreement](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/terms.php).
 
 III. Collection of Personal Information
 
-We provide various informative, educational, and entertaining features as part of this website. To provide and maintain these features, we collect certain non-personal and personal information for specific purposes. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website activities will be canceled without notice if at any time we discover that you provide false information, or violate any term of our Privacy Policies or our [Terms of Usage Agreement](https://web.archive.org/web/20021010102750id_/http%3A//www.bravotv.com/information/terms.php). We retain personal information for an indefinite amount of time to preserve our membership database and to comply with various federal and state laws. For example, we are required by various state laws to keep certain information on contest or sweepstakes entries for an extended period of time following the event.
+We provide various informative, educational, and entertaining features as part of this website. To provide and maintain these features, we collect certain non-personal and personal information for specific purposes. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website activities will be canceled without notice if at any time we discover that you provide false information, or violate any term of our Privacy Policies or our [Terms of Usage Agreement](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/terms.php). We retain personal information for an indefinite amount of time to preserve our membership database and to comply with various federal and state laws. For example, we are required by various state laws to keep certain information on contest or sweepstakes entries for an extended period of time following the event.
 
 IV. Registration for Participation in General Audience Website Activities and Services
 
@@ -57,13 +55,13 @@ V. Our Policy on Disclosing Your Information to Parties Other than Bravo
 
 We do not currently sell, rent, exchange or share your personal information with companies other than Bravo unless it is required by law or disclosure is necessary to operate the website and protect the safety of our visitors, employees or property. Bravo is majority-owned by Cablevision Systems Corporation ("Cablevision") and we may in the future share personal information with Cablevision, its affiliates or other entities for other purposes. If we decide to enter into such sharing arrangements, we will disclose in this Privacy Policy the name of the entity(s) that we will share information with, what type of personal information will be shared, how the information will be used, and how to contact us if you do not want us to share your personal information ("opt-out"). We currently conduct joint activities with other Cablevision affiliates; however, we will not share individual visitors' personal information with these entities unless we provide notice in this Privacy Policy.
 
-When visitors send an e-mail to us, we will protect the e-mail address and other personal contact information. However, we may disclose the content of your e-mail to other persons. Please see our [Terms of Usage Agreement](https://web.archive.org/web/20021010102750id_/http%3A//www.bravotv.com/information/terms.php). We will share your personal information with those persons or companies who provide support for the internal operations of the website and our agents, such as contest fulfillment services, maintenance and technical services, and e-commerce and auction contractors ("contract service and operational providers"). If you are purchasing goods, merchandise or services on this website and use a credit card to complete the transaction, our operational providers may share your personal information and credit card number with a ticket agent, a credit card processing and/or a shipping/fulfillment company in order to complete your order.
+When visitors send an e-mail to us, we will protect the e-mail address and other personal contact information. However, we may disclose the content of your e-mail to other persons. Please see our [Terms of Usage Agreement](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/terms.php). We will share your personal information with those persons or companies who provide support for the internal operations of the website and our agents, such as contest fulfillment services, maintenance and technical services, and e-commerce and auction contractors ("contract service and operational providers"). If you are purchasing goods, merchandise or services on this website and use a credit card to complete the transaction, our operational providers may share your personal information and credit card number with a ticket agent, a credit card processing and/or a shipping/fulfillment company in order to complete your order.
 
 We may provide aggregate information about our visitors to our advertisers, sponsors, promotional partners, and affiliates, such as how many persons visited a particular page or activity, the average age of our visitors on site or page, or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific visitor.
 
 VI. How To Add, Change, or Delete Personal Information
 
-You will have access to your membership profile collected and maintained by our website. You may add, change or delete personal information on your profile or registration for other activities by contacting us via e-mail on our [Contact Us](https://web.archive.org/web/20021010102750id_/http%3A//www.bravotv.com/information/contact_us.php) web page section. Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your membership information and e-mail address.
+You will have access to your membership profile collected and maintained by our website. You may add, change or delete personal information on your profile or registration for other activities by contacting us via e-mail on our [Contact Us](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/contact_us.php) web page section. Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your membership information and e-mail address.
 
 VII. Use of Cookies and Tracking Devices
 
@@ -82,6 +80,8 @@ IX. Notification of Changes in the Privacy Policy
 We will review and modify our security measures and Privacy Policy on a periodic basis, as Bravo deems appropriate. We may also change or update our Privacy Policy if we add new services or features and will prominently post these changes in this policy. We also encourage you to review our Privacy Policy on a regular basis.
 
 Thank you for visiting!
+
+**BRAVO COMPANY'S CHILDREN'S PRIVACY POLICY**
 
 **NOTICE . . .NOTICE . . . NOTICE . . . NOTICE . . . NOTICE . . . NOTICE . . . NOTICE . . . NOTICE**
 
@@ -106,9 +106,9 @@ As a part of our "Bravo On With the Show" site, we offer a list of helpful websi
 
 Please contact us if you have any questions about our website or this Privacy Policy. 
 
-[Contact us](https://web.archive.org/web/20021010102750id_/http%3A//www.bravotv.com/information/contact_us.php) at:
+[Contact us](https://web.archive.org/web/20030402130601id_/http%3A//bravotv.com/information/contact_us.php) at:
 
-Bravo Networks  
+Bravo  
 200 Jericho Quadrangle  
 Jericho, NY 11753
 
