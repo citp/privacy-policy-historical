@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407085503id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202202543id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
@@ -48,9 +48,9 @@ If you have any questions about the security at our website, you can send an ema
 
 * * *
 
-[Home](http://www.pyramydair.com/) | [Search](http://www.pyramydair.com/site/search/) | [Browse](http://www.pyramydair.com/cgi-bin/browse.pl) | [About](http://www.pyramydair.com/site/about/) | [Contact](http://www.pyramydair.com/site/contact/) | [FAQ](http://www.pyramydair.com/site/faq/)   
-[Manuals](http://www.pyramydair.com/site/manuals/) | [Custom Venom Shop](http://www.pyramydair.com/site/venom/) | Privacy Statement | [Links](http://www.pyramydair.com/site/links/)
+[Home](http://www.pyramydair.com/) | [Search](http://www.pyramydair.com/cgi-bin/search.pl) | [Browse](http://www.pyramydair.com/cgi-bin/browse.pl) | [About](http://www.pyramydair.com/site/about/) | [Contact](http://www.pyramydair.com/site/contact/) | [FAQ](http://www.pyramydair.com/site/faq/)   
+[Manuals](http://www.pyramydair.com/site/manuals/) | [Custom Venom Shop](http://www.pyramydair.com/site/venom/) | Privacy Statement | [Links](http://www.pyramydair.com/site/links/) | [Articles](http://www.pyramydair.com/site/articles/)
 
 * * *
 
-Copyright © 1999-2002   [Ideal Technologies, Inc.](http://www.ideal-technologies.com/)  All Rights Reserved. 
+Copyright © 1999-2003   [Ideal Technologies, Inc.](http://www.ideal-technologies.com/)  All Rights Reserved. 
