@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610031014id_/http%3A//www.marketday.com/cgi-bin/page.exe%3FCatalog%3DCatalog%26File%3DPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206013500id_/http%3A//www.marketday.com/cgi-bin/page.exe%3FCatalog%3DCatalog%26File%3DPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Market Day: Online Ordering: Privacy policy
 
@@ -28,7 +28,17 @@ This privacy policy applies to the Market Day site. The purpose of this marketda
 ****
 
 **Information About You**  
-We may specifically ask for information about you when you sign up to use a service or when you order a product. We will need certain information such as name, Internet address or screen name, billing address, type of computer, credit card number - in order to provide that service or product to you. We do not collect that information for any purpose other than to process your Market Day order. 
+We may specifically ask for information about you when you sign up to use a service or when you order a product. We need certain information such as your name, billing address, credit card number in order to provide that service or product to you. We do not collect that information for any purpose other than to process your Market Day order. 
+
+****
+
+**Email Addresses**  
+When you register with marketday.com, we ask for your email address. This information is used to contact you with questions that we may have about your order. In addition, you may also 'opt-in' and elect to receive promotional information via email from Market Day. Your email address will also be provided to the Market Day Chairperson at your school, for the express purpose of enabling the chairperson to contact you regarding your order or to promote the Market Day sale at your school.
+
+****
+
+**For Market Day Chairs**  
+These email addresses are to be used solely for the promotion of the Market Day sale at your school or to provide customer service for issues relating to the Market Day sale or products. Any other use is prohibited.
 
 ****
 
