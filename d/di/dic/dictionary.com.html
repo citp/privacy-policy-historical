@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dictionary.com privacy policy that was archived on 2003-02-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030210121844id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dictionary.com privacy policy that was archived on 2004-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040619024157id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
 
@@ -12,8 +12,8 @@
 <!--
 
 function jump2form() {
-	document.dict_form.q.select();
-	document.dict_form.q.focus();
+	document.search_form.q.select();
+	document.search_form.q.focus();
 }
 
 function isblank(s) {
@@ -27,17 +27,25 @@ function isblank(s) {
 }
 
 function formcheck() {
-	var d = document.dict_form.db[1].checked;
-	var e = document.dict_form.q.value;
-	if ((e == null) || (e == "") || isblank(e)) {
+	var d = document.search_form.db[0].checked;
+	var t = document.search_form.db[1].checked;
+	var w = document.search_form.db[2].checked;
+	var q = document.search_form.q.value;
+	if ((q == null) || (q == "") || isblank(q)) {
 		alert("Please enter a word to look up.");
 		jump2form();
 	}
 	else if (d == 1) {
-		location.href = ("http://thesaurus.reference.com/search?q=" + escape(e));
+		location.href = ("http://dictionary.reference.com/search?q=" + escape(q));
+	}
+	else if (t == 1) {
+		location.href= ("http://thesaurus.reference.com/search?q=" + escape(q));
+	}
+	else if (w == 1) {
+		location.href = ("http://www.reference.com/search?q=" + escape(q));
 	}
 	else {
-		location.href= ("http://dictionary.reference.com/search?q=" + escape(e));
+		location.href = ("http://www.reference.com/");
 	}
 	return false;
 }
@@ -81,6 +89,10 @@ a.head:hover {color: #3366FF; font-family: arial,sans-serif;}
 
 .src {color: #3f3f3f; font-family: verdana,sans-serif; font-size: 9pt;}
 
+.searchtxtlink {font-family: verdana,sans-serif; font-size: 7pt;}
+.searchtxtlink a,.searchtxtlink a:link,.searchtxtlink a:active,.menu a:visited {font-family: verdana,sans-serif; font-size: 7pt;}
+.searchtxtlink a:hover {background: #3366FF; color: #ffffcc; font-family: verdana,sans-serif; font-size: 7pt;}
+
 /* End classes */
 
 -->
@@ -89,32 +101,43 @@ a.head:hover {color: #3366FF; font-family: arial,sans-serif;}
 <body bgcolor="#FFFFFF" text="#000000" link="#0033FF" vlink="#000066" alink="#3366FF">
 
 <!-- header -->
-<form name="dict_form" method="get" action="/search" onsubmit="return formcheck();"><a name="#lookup"></a>
+<form name="search_form" method="get" action="/search" onsubmit="return formcheck();"><a name="#lookup"></a>
 <table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="#0033FF">
 <tbody><tr>
-<td align="left" valign="middle" width="35%" rowspan="2"><a href="/"><img src="http://cache.dictionary.com/dictionary/graphics/logo145x42.gif" alt="Dictionary.com" border="0" width="145" height="42" align="bottom"></a></td>
-<td align="left" valign="bottom" nowrap=""><input type="text" name="q" size="18" maxlength="48" style="font-size:12pt;" value="">&nbsp;<input type="submit" value="Look it up" class="button">&nbsp;</td>
+<td align="left" valign="middle" rowspan="2"><a href="/"><img src="http://cache.lexico.com/dictionary/graphics/logo145x42.gif" alt="Dictionary.com" border="0" width="145" height="42"></a></td>
+<td align="center" valign="middle" nowrap=""><input type="text" name="q" value="" size="25" maxlength="256" style="font-size:12pt;" accesskey="L">&nbsp;<input type="submit" value="Search" accesskey="S" class="button">&nbsp;</td>
+<td align="right" valign="middle" rowspan="2"><img src="http://cache.lexico.com/graphics/s.gif" alt="" border="0" width="145" height="42"></td>
 </tr>
 <tr>
-<td align="left" valign="top" class="small" style="color: white;"><input type="radio" name="db" value="*" checked="">Dictionary &nbsp;&nbsp;<input type="radio" name="db" value="roget">Thesaurus &nbsp;&nbsp;</td>
+<td align="center" valign="top" class="small" style="color:white;" nowrap=""><label for="d"><input type="radio" name="db" value="*" accesskey="D" id="d" checked=""><u>D</u>ictionary</label>&nbsp;&nbsp;<label for="t"><input type="radio" name="db" value="roget" accesskey="T" id="t"><u>T</u>hesaurus</label>&nbsp;&nbsp;<label for="w"><input type="radio" name="db" value="web" accesskey="W" id="w"><u>W</u>eb</label></td>
 </tr>
 <tr bgcolor="#eeeeee">
-<td width="35%"><a href="http://dictionary.reference.com/" class="navsm">Home</a></td><td align="right"><span class="small">Premium:</span> <a href="https://secure.reference.com/cgi-bin/premium/register.pl" class="navsm">Sign up</a> | <a href="https://secure.reference.com/premium/login.html?u=http%3A%2F%2Fdictionary.reference.com%2Fhelp%2Fprivacy.html" class="navsm">Login</a></td>
+<td align="left" colspan="2"><a href="/" class="navsm">Home</a></td>
+<td align="right"><span class="small">Premium:</span> <a href="https://secure.reference.com/cgi-bin/premium/register.pl" class="navsm">Sign up</a> | <a href="https://secure.reference.com/premium/login.html?u=http%3A%2F%2Fdictionary.reference.com%2Fhelp%2Fprivacy.html" class="navsm">Login</a></td>
 </tr>
 </tbody></table>
 </form>
 <br>
 <!-- ad -->
 <table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td align="center" valign="middle">
-<!-- ----------Advertising.com Banner Code---------- -->
-<script language="JavaScript" src="http://servedby.advertising.com/site=69711/size=468060/bnum=90494928/optn=1">
-</script>
+<!-- FASTCLICK.COM 468x60 v1.4 for dictionary.com -->
+<script language="Javascript"><!--
+var i=j=p=t=u=x=z=dc='';var id=f=0;var f=Math.floor(Math.random()*7777);
+id=4366; dc=document;u='ht'+'tp://media.fastclick.net/w'; x='/get.media?t=s';
+z=' width=468 height=60 border=0 ';t=z+'marginheight=0 marginwidth=';
+i=u+x+'&sid='+id+'&m=1&f=b&v=1.4&c='+f+'&r='+escape(dc.referrer);
+u='<a  hr'+'ef="'+u+'/click.here?sid='+id+'&m=1&c='+f+'"  target="_top">';
+dc.writeln('<ifr'+'ame src="'+i+'&d=f"'+t+'0 hspace=0 vspace=0 frameborder=0 scrolling=no>');
+if(navigator.appName.indexOf('Mic')<=0){dc.writeln(u+'<img src="'+i+'&d=n"'+z+'></a>');}
+dc.writeln('</iframe>'); // --></script><iframe src="http://media.fastclick.net/w/get.media?t=s&amp;sid=4366&amp;m=1&amp;f=b&amp;v=1.4&amp;c=2535&amp;r=&amp;d=f" width="468" height="60" border="0" marginheight="0" marginwidth="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
+<a  href="http://media.fastclick.net/w/click.here?sid=4366&m=1&c=2535"  target="_top"><img src="http://media.fastclick.net/w/get.media?t=s&sid=4366&m=1&f=b&v=1.4&c=2535&r=&d=n" width=468 height=60 border=0 ></a>
+</iframe>
 <noscript>
-     <A HREF="http://servedby.advertising.com/click/site=69711/bnum=90494928" TARGET="_blank">
-     <IMG SRC="http://servedby.advertising.com/site=69711/size=468060/bnum=90494928/bins=1/rich=0" WIDTH="468" HEIGHT="60" BORDER="0" ALT="Click to learn more...">
-     </A>
-</noscript>
-<!-- ----------Copyright 2000, Advertising.com---------- --><br><span class="ad">ADVERTISEMENT |</span> <span class="xsmall"><a href="/go/http://www.lexico.com/contact/ad/index.html?ref=dicthelpa">YOUR AD HERE</a></span></td></tr></tbody></table><br>
+<a href="http://media.fastclick.net/w/click.here?sid=4366&m=1&c=1"  target="_top">
+<img src="http://media.fastclick.net/w/get.media?sid=4366&m=1&d=s&c=1&f=b&v=1.4"
+width=468 height=60 border=1></a></noscript>
+<!-- FASTCLICK.COM 468x60 v1.4 for dictionary.com -->
+<br><span class="ad">ADVERTISEMENT</span><!-- [[span class="xsmall"]][[a href="/go/http://www.lexico.com/contact/ad/index.html?ref=dict[[?php echo $which_ad; ?]]a"]]YOUR AD HERE[[/a]][[/span]]--></td></tr></tbody></table><br>
 <!-- nav -->
 <div style="border-bottom: 1px dotted #ddaaaa; margin-bottom: 1em;">
 &nbsp;</div>
@@ -207,12 +230,10 @@ Marina del Rey, CA 90292<br>
 </td>
 </tr></tbody></table>
 <br clear="all">
-
-<!-- Footer -->
-<table border="0" cellspacing="0" cellpadding="5" bgcolor="#E6EBFF" width="100%">
+<table border="0" cellspacing="0" cellpadding="5" bgcolor="#e6ebff" width="100%">
 <tbody><tr>
 <td valign="top">
-<span class="small">Copyright © 2003, <a href="/go/http://www.lexico.com/">Lexico Publishing Group, LLC</a>. All rights reserved.<br>
+<span class="small">Copyright © 2004, <a href="/go/http://www.lexico.com/">Lexico Publishing Group, LLC</a>. All rights reserved.<br>
 <a href="/help/about.html">About Dictionary.com</a> | <a href="/help/privacy.html">Privacy Policy</a> | <a href="/help/terms.html">Terms of Use</a> | <a href="/help/linking/">Link to Us</a> | <strong><a href="/help/">Help</a></strong> | <a href="/help/contact.html">Contact Us</a></span>
 </td>
 </tr>
