@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the archiesonline.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021154410id_/http%3A//netsrus.net/cgi-bin/archiesonline/shopping/redirect.pl%3Fcartid%3D--cart_id%26privacypolicy%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archiesonline.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408121327id_/http%3A//netsrus.net/cgi-bin/archiesonline/shopping/redirect.pl%3Fcartid%3D--cart_id%26privacypolicy%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Archiesonline.com | The Perfect Place to Meet, Greet and Gift ___________________________________________________________________________________________________________________________________________
+# Archiesonline.com | The Perfect Place to Meet, Greet and Gift
 
 Protecting privacy is not a new endeavor for ARCHIESONLINE.COM. ARCHIESONLINE.COM has a long-standing tradition of recognizing and protecting the privacy of customers who use its telecommunication networks. The company maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions. ARCHIESONLINE.COM recognizing the growth of online services, including Internet services, has created additional privacy concerns, particularly for consumers. Online privacy concerns focus on the protection of "customer identifiable" information, which an individual or other customer reasonably expects to be kept private. As the term suggests, "customer identifiable" information is information which can be associated with a specific individual or entity, including, for example, a customer's name, address, or telephone number, e-mail address, and information about online activities that are directly linked to them. It is common practice and often a necessity for companies, governments, or other organizations to collect customer identifiable information in order to conduct business and offer services. For example, a telecommunications provider may collect customer identifiable information, such as name, address, telephone number, and a variety of other information in the course of billing and providing telephone service to a customer. Some activities on the Internet follow very familiar patterns. Consumers signing up for an Internet access service, for example, are usually asked to provide name, address, telephone number and credit card and other information that is typical when the consumer orders a product or service. Similarly, business web sites may ask visitors to supply information about themselves, particularly when information, services or merchandise are requested, but often simply to be able to better target the company's services to the customer's interests and requirements. 
 
@@ -85,7 +85,7 @@ If you have a question that was not addressed in this privacy policy you may con
 
 
 **Archies Online.com Ltd  
-** A-21/8,Phase - II,Naraina Industrial Area  
+** A-21/8, Phase - II, Naraina Industrial Area,  
 New Delhi - 110028.  
-Ph. No. 91-11-5893135 - 37.  
+Ph. No. 91-11-5893135/36.  
 Fax No. 91-11-5893138
