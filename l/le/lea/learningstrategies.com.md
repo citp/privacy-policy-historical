@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211190156id_/http%3A//learningstrategies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601143826id_/http%3A//learningstrategies.com/privacy.html) for the most accurate reproduction.*
 
 # Learning Strategies Corporation Privacy Policy
 
@@ -16,9 +16,9 @@ If you visit our site to read or download information:
 
 If you identify yourself by sending an email or ordering from our site: 
 
-         You may decide to send us personally-identifying information, for example, in an email or an order over our secure server. We will use this information to better serve you. Occasionally we may send you product announcements or tips on getting more benefit from our products-these may come via the mail or opt-in email. You can tell us not to contact you in this manner. We will not share your email address with anyone unless you choose to do so, which you can do during the Check Out process. 
+         You may decide to send us personally-identifying information, for example, in an email or an order over our secure server. We will use this information to better serve you. Occasionally we may send you product announcements or tips on getting more benefit from our products-these may come via the mail or opt-in email. You can tell us not to contact you in this manner. 
 
-         When you order a free video tape or a free audio tape you may receive up to three follow-up emails from us, whether or not you select "opt-in" during the check out process. 
+         When you order a free video tape or a free audio tape you may receive follow-up emails from us, whether or not you select "opt-in" during the check out process. Should you wish to, you can opt-out by following the directions at the end of every email. 
 
          We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. 
 
@@ -26,8 +26,6 @@ Will we disclose any personal information we collect to outside parties?
 
          We may occasionally provide limited personal information to trustworthy third parties for direct mail offers and to make our future marketing efforts more efficient, but you can tell us not to. Such information includes your name and mailing address. This information may be combined with demographic information and past purchase information. We will never include your telephone numbers or credit card information. 
 
-         If you agree to receive email from our marketing partners, we will share with them your email address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your email address if you have opted in by checking the box during "Check Out." Additionally, each email our partners send you will include a description of the simple opt out process to enable you to stop receiving future email. 
-
          We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
 
-         Please [contact us](https://web.archive.org/web/20011211190156id_/http%3A//learningstrategies.com/ReachUs.html) with any questions or concerns. 
+         Please [contact us](https://web.archive.org/web/20020601143826id_/http%3A//learningstrategies.com/ReachUs.html) with any questions or concerns. 
