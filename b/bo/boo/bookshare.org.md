@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216142905id_/http%3A//www.bookshare.org/web/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204151149id_/http%3A//www.bookshare.org/web/Privacy.html) for the most accurate reproduction.*
 
 # Bookshare.org - Privacy Policy
 
@@ -34,7 +34,7 @@ Bookshare.org will also maintain transaction logs of the materials downloaded by
   * To gather statistical data about usage patterns for the improvement of the Bookshare.org service.
   * Possibly, to provide suggested content based on the users past reading patterns.
 
-We will not provide access to any third parties to the information contained in our transaction logs, except in connection with investigation of or for actual legal proceedings concerning potential abuse. We will not share information about an individuals frequency of use or reading habits with the referring agency or individual, except that number of books downloaded by individual with organizational accounts such as school accounts shall be available to the person(s) responsible for those organizational accounts.
+We will not provide access to any third parties to the information contained in our transaction logs, except in connection with investigation of or for actual legal proceedings concerning potential abuse. We will not share information about an individuals frequency of use or reading habits with the referring agency or individual, except that number of books downloaded by individual with Multiple Subscriber Accounts such as school accounts shall be available to the person(s) responsible for those organizational accounts.
 
 Upload & Review Transaction Information
 
@@ -107,25 +107,25 @@ Site Navigation
 | [By Author](http://www.bookshare.org/web/BooksByAuthor.html)  
 | [By Title](http://www.bookshare.org/web/BooksByTitle.html)  
 | [Embossed Braille](http://www.bookshare.org/web/AboutBrailleBooks.html)  
+| [Submit a Book](http://www.bookshare.org/web/MembersSubmit.html?display=1)  
    
 | | Members  
 | [About Membership](http://www.bookshare.org/web/AboutMembership.html)  
+| [Individual Subscriptions](http://www.bookshare.org/web/AboutIndividualSubscriptions.html)  
+| [School and Group Accounts](http://www.bookshare.org/web/AboutGroupAccounts.html)  
 | [Join](http://www.bookshare.org/web/MembersJoinForm.html)  
-| [Log In](http://www.bookshare.org/web/MembersLogin.html)  
-| [Download Tools](http://www.bookshare.org/web/MembersDownloads.html)  
-| [Submit a Book](http://www.bookshare.org/web/MembersSubmit.html?display=1)  
+| [Log In](https://www.bookshare.org/web/MembersLogin.html)  
    
-| | Volunteers  
+|  | Volunteers  
 | [About Volunteering](http://www.bookshare.org/web/AboutVolunteering.html)  
-   
-| | Organizations  
-| [Organizational Accounts](http://www.bookshare.org/web/AboutOrganizations.html)  
    
 | | Support  
 | [Help](http://www.bookshare.org/web/MembersSupport.html)  
 | [Frequently Asked Questions](http://www.bookshare.org/web/SupportFAQ.html)  
-| [For Authors and Publishers](http://www.bookshare.org/web/SupportAuthorsPublishers.html)  
+| [Download Tools](http://www.bookshare.org/web/MembersDownloads.html)  
 | [For Schools](http://www.bookshare.org/web/MembersSchools.html)  
+| [For Authors and Publishers](http://www.bookshare.org/web/SupportAuthorsPublishers.html)  
+| [For International Visitors](http://www.bookshare.org/web/AboutInternationalMembership.html)  
 | [Resources](http://www.bookshare.org/web/Resources.html)  
    
 | | About Bookshare.org  
