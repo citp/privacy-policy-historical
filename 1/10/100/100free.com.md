@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the 100free.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604065252id_/http%3A//100free.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100free.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013210509id_/http%3A//www.100free.com/admin_user/privacy.html) for the most accurate reproduction.*
 
-# 100Free.com
-
-  
-[](https://web.archive.org/news.html)  
-[](https://web.archive.org/policies.html)  
-[](https://web.archive.org/support.html)  
-[](https://web.archive.org/faq.html)  
-[](https://web.archive.org/hosting/signup/)  
-[](https://web.archive.org/hosting/manager/)  
-  
-| 
+# 
 
 _[Home](https://web.archive.org/)_ ****
 
@@ -86,23 +76,4 @@ _[Home](https://web.archive.org/)_ ****
 
 
 
-**** [F.A.Q.](https://web.archive.org/faq.html)    |   [Policies](https://web.archive.org/policies.html)   |   [Features](https://web.archive.org/hosting/features.html)   |   [Privacy](https://web.archive.org/privacy.html)   |   [Support](https://web.archive.org/support.html)   |   [Sign Up](https://web.archive.org/hosting/signup/)
-
-| 
-
- Fast, Reliable, Free Hosting!
-
-* 40 Megs of Free Web Space!
-* Unlimited Bandwidth Usage!
-* Multiple Directories Allowed!
-* Live Tech Support!
-* Friendly Site Manager!
-* Super Fast Internet Connections!
-* Webmaster Resources!
-* Corporate and Personal Accounts!
-* Now With FTP Access!
-* [Click Here To Sign Up! ](https://web.archive.org/hosting/signup/)
-
- Become A Member Free!!
-
-|  
+****
