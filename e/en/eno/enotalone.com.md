@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enotalone.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205033953id_/http%3A//enotalone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enotalone.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606131535id_/http%3A//enotalone.com/privacy.html) for the most accurate reproduction.*
 
 # eNotalone > Privacy Policy
 
@@ -10,4 +10,4 @@ Beside being an relationships advice portal eNotalone.com is also a research env
 
 By using this web site, you consent to the collection and use of this information by the eNotalone.com. If we ever change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-© Copyright 2000-2002 eNotalone.com. All rights reserved.
+© Copyright 2000-2004 [eNotAlone.com](http://www.enotalone.com/). All rights reserved.
