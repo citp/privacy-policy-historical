@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204241id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607033116id_/http%3A//the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# the-bikini.com: sexy, micro, mini, tiny, sheer, thongs and crochet bikinis for sale. photo galleries. Online shop.
+# the- bikini.com: sexy, micro, mini, tiny, sheer, thongs, crochet bikinis and lingerie for sale, photos, online shop.
 
   
   
@@ -10,12 +10,12 @@
 
 Intimate Shaver
 
-**BE SEXY!**   
-Shave as close as a blade without irritation!  
+  
+The ultimate shaving tool !  
   
 
 
-The [Personal Shaver](http://www.myaffiliateprogram.com/u/pprofits/b.asp?id=1005&img=jb007B.gif&p=pussyshaver.html) is the finest, safest intimate shaver ever made for smooth sexy skin results.
+The [FEATHER TOUCH ](http://www.myaffiliateprogram.com/u/pprofits/b.asp?id=1005&img=jb007B.gif&p=pussyshaver.html) is the finest, safest intimate shaver ever made. Ladies, stop dragging that blade across your skin and your red bumps and irritation will disappear.
 
 Designed for intimate use, it is ideal for bikini, pubic area or underarm shaving.   
 [ ](http://www.myaffiliateprogram.com/u/pprofits/b.asp?id=1005&img=jb007B.gif&p=pussyshaver.html)
@@ -23,10 +23,11 @@ Designed for intimate use, it is ideal for bikini, pubic area or underarm shavin
   
 
 
-Make Money!
+Affiliates
 
 If you have a website, you can sell our bikinis. Sign up on our affiliate sales program!  
-[CLICK HERE!](http://shop.vicio.com/bikini/affiliates/signup.html)
+[Sign Up!](http://www.1shoppingcart.com/app/afsignup.asp?merchantID=49484)  
+[Log In!](http://www.1shoppingcart.com/app/aflogin.asp?merchantID=49484)
 
   
   
@@ -82,10 +83,10 @@ In the course of serving advertisements to this site, our third-party advertiser
 Contacting Us About Privacy:  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: 
 
-  vicio.com, inc.  
+  the-Bikini.com a vicio.com, inc. website  
   P.O.Box 5253  
   Sherman Oaks, CA 91413  
   United States of America  
 
 
-Alternativley, you can [contact us by email](https://web.archive.org/web/20031204204241id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20040607033116id_/http%3A//the-bikini.com/contact/). 
