@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunsamerica.com privacy policy that was archived on 1999-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991105034803id_/http%3A//www.gunsamerica.com/%3Fprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsamerica.com privacy policy that was archived on 2000-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000605184125id_/http%3A//www.gunsamerica.com/%3Fprivacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -43,19 +43,13 @@ GunsAmerica also gives users the following options for changing and modifying in
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Shlomo Helinski Customer Support Representative GunsAmerica LLC 142 Main Street Suite 217 Morristown, NJ 07960 privacy@gunsamerica.com
 
-If you haven't registered as a seller yet, [Click Here](https://web.archive.org/web/19991105034803id_/http%3A//www.gunsamerica.com/newuser.cgi) to sell your guns on GunsAmerica right now! GunsAmerica relies on [pair Networks](http://www.pair.com/) for networking support and server co-location. 
+If you haven't registered as a seller yet, [Click Here](https://web.archive.org/web/20000605184125id_/http%3A//www.gunsamerica.com/newuser.cgi) to sell your guns on GunsAmerica right now! 
 
 * * *
 
-Content, Design, Coding, © Copyright 1997, 1998, 1999 GunsAmerica LLC  
+Content, Design, Coding, © Copyright 1997, 1998, GunsAmerica  
 Some Trademarks are the property of their respective title holders.  
+GunsAmerica LLC  
 GunsAmerica Payments  
 P.O. Box 1793  
 Morristown, NJ 07960
-
-[http://www.GunsAmerica.com](http://www.gunsamerica.com/)  
-Email: [info@GunsAmerica.com](mailto:info@GunsAmerica.com)  
-Customer Support: [support@GunsAmerica.com](mailto:support@gunsamerica.com) (Please include phone number)   
-PLEASE NOTE: GUNSAMERICA DOES NOT SELL GUNS. WE ARE CLASSIFIED ADS
-
-GunsAmerica relies on [pair Networks](http://www.pair.com/) for networking support and server co-location. 
