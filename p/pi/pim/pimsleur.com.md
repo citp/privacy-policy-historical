@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pimsleur.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602191824id_/http%3A//simonsays.com/content/feature.cfm%3Fsid%3D33%26feature_id%3D1610) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimsleur.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205105733id_/http%3A//www.simonsays.com/content/feature.cfm%3Fsid%3D33%26feature_id%3D1610) for the most accurate reproduction.*
 
 # Simonsays.com > SimonSays > SimonSays Privacy Policy
 
