@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621121837id_/http%3A//www.drugstore.com/cat/11867/tmpl/default.asp%3Fcatid%3D15729%26trx%3D28106) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209165901id_/http%3A//www.drugstore.com/cat/11867/tmpl/default.asp%3Fcatid%3D15729%26trx%3D28106) for the most accurate reproduction.*
 
 # drugstore.com - Privacy Policy
 
   
-   
- **  ways to shop  
-** • [shop by brand](https://web.archive.org/templates/brand/sbb.asp?trx=3894)  
- • [your list™](https://web.archive.org/list.asp?catid=10782&trx=2306)  
- • [your store](https://web.archive.org/yourstore/default.asp?catid=50&trx=28618)  
- • [gift wizard](https://web.archive.org/explorer/explorer.asp?catid=24555&trx=28105)  
+| **ways to shop**  
+---  
+• | [shop by brand](https://web.archive.org/templates/brand/sbb.asp)  
+• | [your list™](https://web.archive.org/list.asp?catid=10782&trx=2306)  
+• | [your store](https://web.archive.org/yourstore/default.asp?catid=50&trx=28618)  
+• | [gift guide](https://web.archive.org/templates/browse/default.asp?catid=13888&trx=28105)  
+• | [worldwide shipping](https://web.archive.org/templates/stackdept/default.asp?catid=48001&trx=29144)  
   
-| | |   
+  
+| |   
 ---|---|---  
   **your shopping bag**    
 | |   
@@ -20,19 +22,15 @@
   
 [view details](https://web.archive.org/cart.asp?trx=2307) |[](https://web.archive.org/checkout/place_order.asp?trx=2308)  
   
-   
- **  pharmacy directory  
-** • [drug prices](https://web.archive.org/pharmacy/drugindex/default.asp?trx=3888)  
- • [your prescriptions](https://web.archive.org/pharmacy/scripts.asp?catid=18977&fwdwiz=True&trx=8500)  
- • [how to use our](https://web.archive.org/cat/11867/tmpl/default.asp?catid=24821&trx=28426)  
-[pharmacy](https://web.archive.org/cat/11867/tmpl/default.asp?catid=24821&trx=28426)  
-   
- **  health guide  
-** • [vitamin guide index](https://web.archive.org/templates/hnotes/default.asp?catid=42374&trx=HN-IN&trxp1=0&trxp2=60&trxp3=2&trxp4=42374)  
- • [herbal remedies index](https://web.archive.org/templates/hnotes/default.asp?catid=42330&trx=HN-IN&trxp1=0&trxp2=60&trxp3=2&trxp4=42330)  
- • [women's health index](https://web.archive.org/templates/hnotes/default.asp?catid=42384&trx=HN-IN&trxp1=0&trxp2=60&trxp3=2&trxp4=42384)  
- • [weight management](https://web.archive.org/templates/hnotes/default.asp?catid=42381&trx=HN-IN&trxp1=0&trxp2=60&trxp3=2&trxp4=42381)  
- • [health guide](https://web.archive.org/templates/notcoldept/default.asp?catid=9248&trx=HN-IN&trxp1=0&trxp2=60&trxp3=2&trxp4=9248)  
+  
+**health guide**  
+---  
+• | [vitamin guide index](https://web.archive.org/templates/hnotes/default.asp?catid=42374&trx=HN-IN&trxp1=0&trxp2=48161&trxp3=2&trxp4=42374)  
+• | [herbal remedies index](https://web.archive.org/templates/hnotes/default.asp?catid=42330&trx=HN-IN&trxp1=0&trxp2=48161&trxp3=2&trxp4=42330)  
+• | [women's health index](https://web.archive.org/templates/hnotes/default.asp?catid=42384&trx=HN-IN&trxp1=0&trxp2=48161&trxp3=2&trxp4=42384)  
+• | [weight management](https://web.archive.org/templates/hnotes/default.asp?catid=42381&trx=HN-IN&trxp1=0&trxp2=48161&trxp3=2&trxp4=42381)  
+• | [health guide](https://web.archive.org/templates/notcoldept/default.asp?catid=9248&trx=HN-IN&trxp1=0&trxp2=48161&trxp3=2&trxp4=9248)  
+  
 
 
 |    
@@ -85,7 +83,4 @@ Last updated: 4/25/03
   
   
   
-  **  Welcome**  
-    [(sign in)](https://web.archive.org/user/login.asp?from=%2Fcat%2F11867%2Ftmpl%2Fdefault%2Easp%3Fcatid%3D15729)  
-   
-
+ 
