@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msfinancialsavvy.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208150724id_/http%3A//www.msfinancialsavvy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msfinancialsavvy.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607033451id_/http%3A//www.msfinancialsavvy.com/privacy.html) for the most accurate reproduction.*
 
 # MsFinancialSavvy.com
 
@@ -70,6 +70,6 @@ Chesapeake, Va.23327
 [webmaster@MsFinancialSavvy.com](mailto:%20webmaster@MsFinancialSavvy.com)
 
   
-Also, please read our [Disclaimer](https://web.archive.org/web/20031208150724id_/http%3A//www.msfinancialsavvy.com/disclaimer.html). Your use of MsFinancialSavvy.com constitutes your acceptance of MsFinancialSavvy.com [Terms of Service](https://web.archive.org/web/20031208150724id_/http%3A//www.msfinancialsavvy.com/tos.html)
+Also, please read our [Disclaimer](https://web.archive.org/web/20040607033451id_/http%3A//www.msfinancialsavvy.com/disclaimer.html). Your use of MsFinancialSavvy.com constitutes your acceptance of MsFinancialSavvy.com [Terms of Service](https://web.archive.org/web/20040607033451id_/http%3A//www.msfinancialsavvy.com/tos.html)
 
 > 
