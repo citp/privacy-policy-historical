@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628044523id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204163856id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -27,4 +27,4 @@ Our sites contain links to sites owned by other companies. Most of these externa
 
 From time to time, Crystal Software makes available to current customers special deals and/or offers regarding our products. In such a case, we will contact you by email. Additionally, the day that your free product updates expire and when new product versions are available for which you are eligible to receive, we will contact you by email informing you of this.
 
-If you have already purchased from us and wish to be removed from this list, please [contact us](https://web.archive.org/web/20040628044523id_/http%3A//www.downloadpipe.com/contact.html).
+If you have already purchased from us and wish to be removed from this list, please [contact us](https://web.archive.org/web/20041204163856id_/http%3A//www.downloadpipe.com/contact.html).
