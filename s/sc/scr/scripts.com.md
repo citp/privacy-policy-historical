@@ -1,52 +1,57 @@
-> *The following text is extracted and transformed from the scripts.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331122902id_/http%3A//www.scripts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripts.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617232751id_/http%3A//www.developershed.com/privacy.php) for the most accurate reproduction.*
 
-# Free scripts for your web site, free scripts for your computer: GetScripts.com
+# Developer Shed, Inc. ::: privacy policy
 
-**  
-PLEASE READ THE FOLLOWING CAREFULLY. IT STATES THE PRIVACY POLICY THAT GOVERNS YOUR USE OF ANY HOSTPRO SERVICE. This Privacy Policy ("Privacy Policy") applies to all Websites hosted and services provided by HostPro, Inc.**
+**DEVELOPER SHED INC. PRIVACY STATEMENT**
 
-At HostPro, we recognize the privacy needs of our Customers. You should be able to choose what information you want to share and decide what will happen to that information once it has been shared. Protecting your personal information is vitally important. Please read the following Privacy Policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time without notice so please check back periodically. We hope this will increase your awareness about online privacy. 
+Developer Shed, Inc. ("DEVELOPER SHED, INC."), comprised of the Internet sites Developer Shed, Inc., devshed.com, aspfree.com, devarticles.com, devhardware.com, seochat.com, webhosters.com, itsallnet.com, and developershed.com (the "DEVELOPER SHED, INC. Sites"), is committed to protecting the privacy of users of the DEVELOPER SHED, INC. Sites. At DEVELOPER SHED, INC., we do our best to provide as much security as possible concerning personal information and registration data. As part of the normal operation of the DEVELOPER SHED, INC. Sites, we collect information from you. This Privacy Statement describes the information we collect and how that information may be used. 
 
-**Collected Information**  
-If you choose to register with HostPro or place an order with us, we may ask you to provide us with certain personal information, such as your name, physical and electronic mail ("e-mail") addresses, phone number, domain name and other information that by itself, or in combination with other information, may be identifiable to you as a specific individual. We may also ask for financial information, such as account or credit card numbers, and demographic information, such as your zip code and income level. We gather this information from your registration, order forms, e-mails, and surveys. 
+**INFORMATION GATHERED THROUGH THE DEVELOPER SHED, INC. SITES:**
 
-Please be aware that HostPro Internet access partners, advertisers, and Websites that have links on our sites, and DSL provider/distributor partners may also collect personally identifiable information about you. The information practices of these Internet access partners, advertisers, and Websites linked to HostPro, and DSL provider/distributor partners, are not governed by this Privacy Policy. Similarly, other customer Websites that are hosted by HostPro may collect your personal information. What these other sites do with that information is governed by the privacy policy for that site—not this policy—and you are encouraged to review the privacy policy on any site you visit. 
+DEVELOPER SHED, INC. will track the domains from which people visit the DEVELOPER SHED, INC. Sites in order to gain aggregate data that may be analyzed for trends and statistics. Subject to the provisions of this Privacy Statement, DEVELOPER SHED, INC. may use accumulated aggregate data for several purposes including, but not limited to, marketing analysis, evaluation of DEVELOPER SHED, INC.'s services, and business planning. 
 
-**Information Requests**  
-You may be able to request information on our sites regarding products and Services, including technical support and customer Service, by using online forms. We may ask that you provide certain contact information to allow us to fulfill your request and to send you information about HostPro's products and Services. 
+Currently, DEVELOPER SHED, INC. uses personal information as a basis for notifications to users, and in order to implement the Terms and Conditions of Use governing the DEVELOPER SHED, INC. Sites (the "Terms"). Generally, the user names, email addresses, and any additional information that a user may choose to post are publicly available on the DEVELOPER SHED, INC. Sites. When users voluntarily and publicly disclose personal information that may contain Registration Data, as defined in the Terms, or otherwise post personal information in conjunction with content subject to a license, such personal information necessarily will be disclosed subject to the terms of the applicable license. An example of such a disclosure includes, but is not limited to, a user's disclosure of personal information as part of a message posted to a public message forum. 
 
-**Security**  
-Ordering online with HostPro is secure and convenient. Our ordering process is protected by the Secure Sockets Layer ("SSL") protocol, which encrypts your information and confirms the identity of the HostPro server before completing your transaction. Netscape Navigator 2.0+ (or better) and Internet Explorer 3.0+ (or better) support the SSL protocol. We recommend you use the latest browsers to ensure that you are protected by advances in security technology.
+DEVELOPER SHED, INC. may conduct surveys or other studies of its user base and usage for marketing and planning purposes. Participation in such surveys is at the user's option. With respect to information collected from such surveys or studies, and in the event that responses are to be publicly disclosed, users will be notified at the time they take the survey and DEVELOPER SHED, INC. will disclose only aggregate information regarding its users and not personal information identifying any specific individual. Circumstances under which DEVELOPER SHED, INC. would publicly disclose aggregate information include, but are not limited to, sharing survey results with the site population, providing data to DEVELOPER SHED, INC. advertisers on user preferences and/or demographics, business planning, and publicizing overall usage data in press communications. 
 
-**Children's Guidelines**  
-Although HostPro's sites are not geared towards children, HostPro nonetheless attempts to protect children. HostPro must, however, rely on the information provided to us by visitors to our sites. As a result, it is impossible for us to guarantee with absolute certainty that the information collected and utilized by HostPro is not derived from a child. Click on <http://www.ftc.gov/kidzprivacy> for more information. 
+**Cookies:** DEVELOPER SHED, INC. employs "cookies" to provide users with tailored information. A "cookie" is an element of data that a website, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory. DEVELOPER SHED, INC. uses cookies to better serve users of our DEVELOPER SHED, INC. Sites; any cookies sent by DEVELOPER SHED, INC. will be marked so that they will be accessible only by DEVELOPER SHED, INC. Sites subject to this Privacy Statement. However, at his or her option and at his or her sole expense and responsibility, any user may block or delete our cookies from his or her hard drive. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all. 
 
-**Disclosure**  
-HostPro will not sell, rent, trade, or disclose individual Customer information to any third parties or outside companies who will use the information to contact you or who will share the information with others without your permission. It may be necessary to disclose information in special cases when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be violating HostPro's policies or may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of HostPro, other HostPro users, or anyone else that could be harmed by such activities. HostPro may disclose or access account information when we believe in good faith that the law requires it or for administrative and other purposes that we deem necessary to maintain, Service, and improve our products and Services. 
+**Other Notification:** In order to implement or enforce the Terms, DEVELOPER SHED, INC. may use user-provided e-mail addresses to contact users on an individual basis. At no time, unless such disclosure is required by law, a governmental agency, or specifically authorized by the user, will DEVELOPER SHED, INC. disclose individual user personal information to unrelated third parties that is not publicly available. 
 
-Please note HostPro may disclose demographic information, e.g., zip codes, as a whole to third parties. Individual demographic information will not be available to third parties or outside companies without your permission.
+**LINKS WITH OTHER SITES**
 
-**Use of Information**  
-The use of an individual's e-mail address is necessary to keep our Customers well informed of maintenance issues, escalated critical issues and problem resolutions that may arise with your HostPro Service. We may also use e-mail addresses to provide our Customers with informative newsletters. 
+The DEVELOPER SHED, INC. Sites contain links to other websites, whether owned or controlled by DEVELOPER SHED, INC. affiliates, or unrelated third parties. Please note that the privacy policies of these sites may differ from those of the DEVELOPER SHED, INC. Sites. DEVELOPER SHED, INC. is not responsible for the privacy policies and practices of any linked website. We encourage you to read the privacy statement of any website you may visit. 
 
-We like to keep our Customers informed via e-mail and other means. Sometimes HostPro uses personal and demographic information to help us determine which HostPro products and Services are most likely to be of interest to you or help diagnose problems with our servers or administration of our sites. We also use demographic information to gather general interest in our products, to help in the analysis of product usage, purchasing, and target markets. 
+**CHOICE**
 
-Please note that HostPro does provide information to outside companies (such as a credit card processing company) who perform certain functions on our behalf for billing purposes. We will not permit those companies to use the gathered information for other than the stated purpose.
+"Opt-in" Emails: Users may "opt-in" to receive site notifications, newsletters, or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove himself or herself from the list, or a URL where the user may find such directions. 
 
-**Correct/Update**  
-If you want to change or modify information you have previously provided to us, please either go back to the site where you provided such information or contact us by sending an e-mail to: [www.postmaster@hostpro.net](mailto:www.postmaster@hostpro.net) or [www.postmaster@micron.net](mailto:www.postmaster@micron.net). 
+Profile Display: In some cases, users' personal information may be publicly available through a user's profile display such as our forums. In such cases, users have the option to opt out of publicly displaying their personal information, including e-mail addresses. Users may also enlist this technique when posing comments on certain DEVELOPER SHED, INC. Sites. In cases where site profiles allow users to display optional information publicly, such entry and display is at the user's discretion and may be changed at any time by the user. 
 
-**Cookies**  
-Our Web servers may place small bits of text or "cookies" onto your computer's hard drive. Cookies enable us to deliver content specific to your interests and keep track of your password so you do not have to re-enter it each time you visit our Websites. After you accept a cookie, it is passed from your browser to our servers each time you request a page. This cookie consists of a unique token that anonymously identifies to the server so that you can more easily access the features of the HostPro Service. Please note that you may configure your Web browser to warn you before you accept a cookie. 
+**SECURITY**
 
-**Customer E-mails**  
-HostPro will not read or disclose e-mail content to others unless required by law or deemed necessary to operate our Services. 
+To secure site integrity, DEVELOPER SHED, INC. employs measures, including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures. 
 
-**Contacting the Website**  
-If you have any questions about HostPro's privacy policy or the privacy practices of our Websites, please contact us by sending an e-mail to [www.postmaster@hostpro.net](mailto:www.postmaster@hostpro.net) or [www.postmaster@micron.net](mailto:www.postmaster@micron.net). 
+Internal access to users' private and nonpublic personal information is restricted to site administrators and individuals on a need-to-know basis. 
 
-**Links to Other Sites**  
-HostPro's sites contain links to other HostPro Websites. You will find that all HostPro-owned Websites are governed by this same Privacy Policy. For more information, click on [www.postmaster@hostpro.net](mailto:www.postmaster@hostpro.net) or [www.postmaster@micron.net](mailto:www.postmaster@micron.net). Links to other non-HostPro web sites are governed by those Websites' privacy policies. 
+**ENFORCEMENT**
 
-**Changes to the Privacy Policy**  
-In the event our Privacy Policy needs to be modified, those changes will be reflected in the next revision of this Privacy Policy which will be posted on the HostPro Websites. Please check back often to review any revisions.
+In the event that DEVELOPER SHED, INC. becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, DEVELOPER SHED, INC. shall take reasonable measures which it deems appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities, notwithstanding other provisions of this Privacy Statement. 
+
+If DEVELOPER SHED, INC. becomes aware that a user's personal information provided to DEVELOPER SHED, INC. has been disclosed in a manner not in accordance with this Privacy Statement, DEVELOPER SHED, INC. shall make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that DEVELOPER SHED, INC. knows this information. 
+
+**THIRD PARTY ADVERTISING**
+
+We use several third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [http://www.networkadvertising.org/optout_nonppii.asp. ](http://www.networkadvertising.org/optout_nonppii.asp.%20)
+
+**UPDATES TO THE PRIVACY STATEMENT**
+
+To update the Privacy Statement, we will post both the changed version and its effective date at [http://www.DeveloperShed.com/privacy.php. ](http://www.developershed.com/privacy.php.%20)
+
+**NO GUARANTEES FOR FACTORS BEYOND DEVELOPER SHED, INC.'s CONTROL**
+
+While this Privacy Statement expresses DEVELOPER SHED, INC.'s standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond DEVELOPER SHED, INC.'s control that may result in disclosure of data. As a consequence, DEVELOPER SHED, INC. disclaims any warranties or representations relating to maintenance or nondisclosure of private information. 
+
+Last modified: 11/20/03
+
+|  
