@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cruisingworld.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207171301id_/http%3A//www.cruisingworld.com/cw_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisingworld.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409210625id_/http%3A//cruisingworld.com/sw_privacy.php) for the most accurate reproduction.*
 
-# Cruising World - Privacy Statement
+# Sailing World - Privacy Statement
 
 At the Sailing Company, our goal is to be your favorite destination for sailing information on the Internet. We do this by providing you with the sailing information, services and products that are essential to you. To achieve this goal, we sometimes ask to collect data to help us understand what information, services and products will be most useful to you. 
 
