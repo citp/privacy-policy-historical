@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcuniverse.com privacy policy that was archived on 2004-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040209052347id_/http%3A//www.pcuniverse.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcuniverse.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074628id_/http%3A//www.pcuniverse.com/privacy.asp) for the most accurate reproduction.*
 
 # PC Universe - Privacy Statement
 
