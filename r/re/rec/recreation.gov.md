@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207120409id_/http%3A//www.recreation.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603151058id_/http%3A//www.recreation.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Recreation.gov
 
 **Privacy & Security Notice**
 
-Thanks for visiting therecreation.gov website and reviewing our privacy policy. Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information. 
+Thanks for visiting the Recreation.gov website and reviewing our privacy policy. Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information. 
 
-We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website. 
+We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website.
 
 **Information Collected and Stored Automatically**
 
@@ -43,3 +43,6 @@ The information posted on the Recreation.gov website includes hypertext links or
 \- cannot authorize the use of copyrighted materials contained in linked websites. Users must request such authorization from the sponsor of the linked website  
 \- is not responsible for transmissions that users receive from linked websites  
 \- does not guarantee that outside websites comply with Section 508 (Accessibility Requirements) of the Rehabilitation Act. 
+
+  
+
