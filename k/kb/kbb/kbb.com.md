@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbb.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603162830id_/http%3A//www.kbb.com/kb/ki.dll/kw.kc.sp%3Fkbb%26%26117%26privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbb.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201161724id_/http%3A//www.kbb.com/kb/ki.dll/kw.kc.sp%3Fkbb%26%26117%26privacy) for the most accurate reproduction.*
 
 # Kelley Blue Book - Privacy Policy
 
@@ -7,7 +7,7 @@
 
 #### _General_
 
-Visitors browsing the Kelley Blue Book Web site do so on a completely anonymous basis. Kelley Blue Book never collects any personal information (such as names, addresses, e-mail addresses, telephone numbers or credit card numbers) from visitors as vehicle pricing information is researched. Kelley Blue Book does, however, collect some non-specific visitor information, such as ZIP Codes and vehicle pricing requests, which are used to produce vehicle pricing reports, analyze the usage of the Kelley Blue Book Web site, and customize online advertising and promotional offers. Kelley Blue Book does aggregate non-specific visitor information for statistical purposes, such as the production of the Kelley Blue Book [ Top 50 Cars](https://web.archive.org/kb/ki.dll/kw.kc.sp?kbb&&55&hot) list. None of this information is personally identifiable to visitors. 
+Visitors browsing the Kelley Blue Book Web site do so on a completely anonymous basis. Kelley Blue Book never collects any personal information (such as names, addresses, e-mail addresses, telephone numbers or credit card numbers) from visitors as vehicle pricing information is researched. Kelley Blue Book does, however, collect some non-specific visitor information, such as ZIP Codes and vehicle pricing requests, which are used to produce vehicle pricing reports, analyze the usage of the Kelley Blue Book Web site, and customize online advertising and promotional offers. Kelley Blue Book does aggregate non-specific visitor information for statistical purposes, such as the production of the Kelley Blue Book [ Top 50 Cars](https://web.archive.org/kb/ki.dll/ke.kb.sp?kbb&&55&hot) list. None of this information is personally identifiable to visitors. 
 
 #### _Cookies_
 
