@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwarezone.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604192939id_/http%3A//www.hardwarezone.com/corp/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwarezone.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203024105id_/http%3A//www.hardwarezone.com/corp/privacy.shtml) for the most accurate reproduction.*
 
 # HardwareZone.com :: PRIVACY POLICY
 
@@ -53,7 +53,7 @@ We run contests on our site in which we ask visitors for contact information (li
 
 Contact information from the contests is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the visitor when necessary. 
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Users may opt-out of receiving future mailings; see the choice/opt-out section below. However, we still reserves the right to send special feature newsletter to our members.
 
 Unique identifiers (such as NRIC number/social security numbers) are collected from Web site visitors for use as account numbers in our record system. 
 
@@ -79,7 +79,7 @@ This site does not allow the parent to obtain the information collected from the
 
 Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. You can visit the following URL: <http://www.hardwarezone.com/member/mailing.hwz>
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. However, we still reserves the right to send special feature newsletter to our members. You can visit the following URL: <http://www.hardwarezone.com/newsletter/>
 
 Contacting the Web Site
 
