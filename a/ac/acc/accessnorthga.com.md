@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218004700id_/http%3A//accessnorthga.com/etc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405033700id_/http%3A//accessnorthga.com/etc/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,8 +55,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 Webmaster   
 AccessNorthGa.com   
-P.O. Box 10  
-Gainesville, GA 30503  
+1102 Thompson Bridge Rd., N.E.  
+Gainesville, GA 30501  
 info@accssnorthga.com   
 
 
