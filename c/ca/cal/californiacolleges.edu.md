@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the californiacolleges.edu privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204194941id_/http%3A//www.californiacolleges.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiacolleges.edu privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603175459id_/http%3A//californiacolleges.edu/privacy.asp) for the most accurate reproduction.*
 
-# CaliforniaColleges.edu - Privacy Policy Statement
+# CaliforniaColleges.edu - privacy statement
 
   
 CaliforniaColleges.edu recognizes and respects the privacy interests of CaliforniaColleges.edu users. CaliforniaColleges.edu is committed to protecting that privacy and keeping users informed about our privacy policy. 
@@ -86,3 +86,5 @@ If you have any questions about this privacy statement and the privacy practices
 Kara Petreccia  
 Director of Contracts  
 (800) GO-TO-XAP
+
+|  | 
