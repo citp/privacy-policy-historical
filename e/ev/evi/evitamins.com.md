@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204035124id_/http%3A//evitamins.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233302id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.*
 
-# eVitamins : Privacy Policy
+# eVitamins - Privacy Policy
 
-eVitamins is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site WWW.EVITAMINS.COM. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If users have questions or concerns regarding this statement, they should first contact the eVitamins privacy department by one of the following ways:
+eVitamins is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. **Because eVitamins wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe**. If users have questions or concerns regarding this statement, they should first contact the eVitamins privacy department by one of the following ways:
 
  **EMAIL:** privacy@eVitamins.com  
- **PHONE:** (586) 786-0405  
+ **PHONE:** (586) 786-0405 Ext. 407  
  **POSTAL MAIL:**
 
   
-Attn: Privacy Concerns  
+Attn: Chief Privacy Officer  
 6060 Collection Drive  
 Suite 101  
 Shelby Twp., MI  
 48316
 
-If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (
+If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (
 
 [ _http://www.truste.org/watchdog.html_](http://www.truste.org/watchdog.html)). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
@@ -40,7 +40,7 @@ We may also use the information we collect to occasionally notify you about new 
 
 **How does eVitamins services protect customer information?**
 
-To place an order on our site, your browser must except SSL. We use some of the strongest encrypting technology available to safely secure your information. We also protect customer information simply by **never** **selling,** **trading, loaning or renting your personal information to others (EVER!).** eVitamins is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. We also run proactive server, network and facility security audits, proprietary encryption algorithms for database storage, redundant systems, and data backup.
+To place an order on our site, your browser must except SSL. We use some of the strongest encrypting technology available to safely secure your information. We also protect customer information simply by **never** **selling,** **trading, loaning or renting your personal information to others (EVER!).** eVitamins is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. We also run proactive server, network and facility security audits, proprietary encryption algorithms for database storage, redundant systems, and data backup. For more information on our security procedures, please [click here](https://web.archive.org/web/20050401233302id_/http%3A//www.evitamins.com/security.asp)
 
 **What about "cookies"?**
 
