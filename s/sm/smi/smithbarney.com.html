@@ -1,165 +1,451 @@
-<!--The following is the downloaded HTML source of the smithbarney.com privacy policy that was archived on 2001-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010611053812id_/http%3A//www.salomonsmithbarney.com/abt_sb/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smithbarney.com privacy policy that was archived on 2001-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011211110922id_/http%3A//www.salomonsmithbarney.com/abt_sb/privacy.html) for the most accurate reproduction.-->
 
 <html><head><title>Internet Privacy Statement</title>
-<link rel="stylesheet" type="text/css" href="/css/standard.css" title="Access Style Sheet">
+<link rel="stylesheet" type="text/css" href="/css/aa_std_dyn.css" title="Access Style Sheet">
+<link rel="stylesheet" type="text/css" href="/css/aa_standard.css" title="Access Style Sheet">
 <style type="text/css">
 td {font-family:arial;font-size:12px;color:black;}
 p {font-family:arial;font-size:12px;color:black;}
 th {font-family:arial;font-size:12px;color:black;font-weight:bold;}
 </style>
-<!--Start jscript1.inc-->
-<script language="javascript">
-//This turns a layer on/off using id attribute
-var brows = navigator.appName;
-//------------------------------------------------------------------------------------
-// These functions have been expanded to work with nested <DIV> layers in Netscape
-// there are two auguments (base_layer,sub_layer) both are needed with Netscape when using a div within a div
-// When using IE just pass the sub_layer name.
-// When using hide/show with a main layer that has sublayers the sublayers visibility is controlled by the main layers
-// visibility except for IE5 both mac and PC 
-function hideLayer(base_layer,sub_layer){ 
-	if (document.layers){ 
-		if(hideLayer.arguments.length == 1){
-			document.layers[base_layer].visibility = "hidden" ;
-			if(document.layers[base_layer].document.layers.length > 0){
-				for (i = 0; i < document.layers[base_layer].document.layers.length; i++)
-					{
-					document.layers[base_layer].document.layers[i].visibility = "hidden" ;
-					}
-				}	
-			}
-		else{
-			document.layers[base_layer].document.layers[sub_layer].visibility = "hidden" ;
-			}
-		}
-	else if (document.all)
-		{
-		var working_layer = "";
-		if(hideLayer.arguments.length == 1){
-			working_layer = base_layer;
-			}
-		else{
-			working_layer = sub_layer;
-			}
-		obj = eval("document.all." + working_layer + ".style");
-		obj.visibility = "hidden";
-		}//end else if
-}//end hideLayer()
-function showLayer(base_layer,sub_layer){
-	if (document.layers){
-		if(showLayer.arguments.length == 1){
-			document.layers[base_layer].visibility = "visible" ;
-			if(document.layers[base_layer].document.layers.length > 0){
-				for (i = 0; i < document.layers[base_layer].document.layers.length; i++)
-					{
-					document.layers[base_layer].document.layers[i].visibility = "visible" ;
-					}
-				}	
-			}
-		else{
-			document.layers[base_layer].document.layers[sub_layer].visibility = "visible" ;
-			}
-		}
-	else if (document.all)
-		{
-		var working_layer = "";
-		if(showLayer.arguments.length == 1){
-			working_layer = base_layer;
-			}
-		else{
-			working_layer = sub_layer;
-			}
-		obj = eval("document.all." + working_layer + ".style");
-		obj.visibility = "visible";
-		}//end else if
-}//end showLayer()
-
-//This is browser detector for 3.0 browser
-var version = parseInt(navigator.appVersion)
-var isIE = navigator.appVersion.indexOf("MSIE")>0
-var isNav = (navigator.appName == 'Netscape')
-// Is it IE or Nav and at least version 4.0
-var isIE4 = isIE && version < 4;
-var isNav4 = isNav && version < 4;
-if ( isNav4 ) {
-	window.location="/cust_srv/tools/";
-} else {
-	if (isIE4) {
-		window.location="/cust_srv/tools/";
-	} else {
-	// Do Nothing
-	}
-}
-</script>
-<!--End jscript1.inc-->
+<script language="JavaScript" src="/js/jscript1.js"></script>
+<script language="JavaScript" src="/js/resizefix.js"></script>
+<script language="JavaScript" src="/js/dynlayer.js"></script>
+<script language="JavaScript" src="/js/dynlayer-glide.js"></script>
+<script language="JavaScript" src="/js/dynlayer-common.js"></script>
+<script language="JavaScript" src="/js/collapsemenu2.js"></script>
+<script language="JavaScript">menu_start_left = 12; menu_start_top = 135; showFirstMenuItem=true;</script>
+<script language="JavaScript" src="/js/sidenav_init.js"></script><style type="text/css">
+#collapseMenu {position:absolute; left:12px; top:135px; width:162px; height:0px; clip:rect(0px 162px 0px 0px); z-index:2;}
+#collapseMenuBlock0 {position:absolute; left:0px; top:0px; width:162px;}
+#collapseMenuBlock0Item {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2;}
+#collapseMenuBlock0Content {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2; margin-left:0}
+#collapseMenuBlock1 {position:absolute; left:0px; top:0px; width:162px;}
+#collapseMenuBlock1Item {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2;}
+#collapseMenuBlock1Content {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2; margin-left:0}
+#collapseMenuBlock2 {position:absolute; left:0px; top:0px; width:162px;}
+#collapseMenuBlock2Item {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2;}
+#collapseMenuBlock2Content {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2; margin-left:0}
+#collapseMenuBlock3 {position:absolute; left:0px; top:0px; width:162px;}
+#collapseMenuBlock3Item {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2;}
+#collapseMenuBlock3Content {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2; margin-left:0}
+#collapseMenuBlock4 {position:absolute; left:0px; top:0px; width:162px;}
+#collapseMenuBlock4Item {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2;}
+#collapseMenuBlock4Content {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2; margin-left:0}
+#collapseMenuBlock5 {position:absolute; left:0px; top:0px; width:162px;}
+#collapseMenuBlock5Item {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2;}
+#collapseMenuBlock5Content {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2; margin-left:0}
+#collapseMenuBlock6 {position:absolute; left:0px; top:0px; width:162px;}
+#collapseMenuBlock6Item {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2;}
+#collapseMenuBlock6Content {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2; margin-left:0}
+#collapseMenuBlock7 {position:absolute; left:0px; top:0px; width:162px;}
+#collapseMenuBlock7Item {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2;}
+#collapseMenuBlock7Content {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2; margin-left:0}
+#collapseMenuBlock8 {position:absolute; left:0px; top:0px; width:162px;}
+#collapseMenuBlock8Item {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2;}
+#collapseMenuBlock8Content {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2; margin-left:0}
+#collapseMenuBlock9 {position:absolute; left:0px; top:0px; width:162px;}
+#collapseMenuBlock9Item {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2;}
+#collapseMenuBlock9Content {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2; margin-left:0}
+#collapseMenuBlock10 {position:absolute; left:0px; top:0px; width:162px;}
+#collapseMenuBlock10Item {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2;}
+#collapseMenuBlock10Content {position:absolute; left:0px; top:0px; width:162px; layer-background-color:transparent; z-index:2; margin-left:0}
+#collapseMenuBlock11 {position:absolute; left:0px; top:0px; width:162px; height:0px; clip:rect(0px 162px 0px 0px); layer-background-color:transparent; z-index:2;}
+</style>
+<script language="JavaScript" src="/js/ns6sidenavmap.js"></script>
 </head>
 
 <body bgcolor="#ffffff">
+<!-- start aa_side_generic_quot.inc, 06/27/01 -->
+<div id="quot">
+<form method="post" action="/cgi-bin/benchopen/sb_quote">
+	<input type="hidden" name="bu" value="#newsearch">
+	<input type="hidden" name="bl" value="q">
+	<input type="hidden" name="app" value="30">
+<table width="161" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr class="menuitemact">
+<td align="center"><input class="mono" type="text" name="search_string" maxlength="200" size="5"></td>
+ <td height="26"><input type="image" value="Get Quote" src="/img/getquote.gif" border="0"></td>
+</tr>
+<tr class="lavender">
+ <td><span class="lavender"><input type="radio" name="search_type" value="1" checked=""></span><span class="body12">symbol</span></td>
+ <td align="center"><span class="lavender"><input type="radio" name="search_type" value="3"></span><span class="body12">name</span></td>
+ </tr>
+ </tbody></table>
+</form>
+</div>
+<!--end aa_side_generic_quot.inc -->  
 
-<!--start mwatch2.inc content-->
-<!--cheeseburger lite collapsable-->
-<div id="mwatch2">
-<table border="0" cellspacing="0" cellpadding="0" width="256">
-	<tbody><tr>
-		<td bgcolor="#FFCC66" width="14" height="21"><img src="/img/mw_lt01b.gif" hspace="0" vspace="0" width="14" height="21" alt=""></td>
-		<td bgcolor="#FFCC66" width="92" height="21"><a href="javascript:hideLayer('mwatch2');showLayer('mwatchB');"><img src="/img/mw_lt02s.gif" hspace="0" vspace="0" width="92" height="21" alt="Marketwatch" border="0"></a></td>
-		<td bgcolor="#FFCC66" align="right" class="marketwatch" width="143"><img src="/img/space.gif" hspace="0" vspace="0" height="1" width="143" alt=""><br clear="all">
-		<span class="marketwatch"><a href="/cgi-bin/benchopen/sb_news_mw?app=0">News</a>&nbsp;/&nbsp;<a href="/news/pulse.html">Additional Indices</a></span></td>
-		<td bgcolor="#FFCC66" width="7" height="21" align="right"><img src="/img/mw_rt01.gif" hspace="0" vspace="0" width="7" height="21" alt=""></td>
+<!-- start aa_side_generic_top.inc -->
+
+<!-- top for uberlayer div  -->
+<!-- width should match whats needed for the html and no more - see aa_side_generic_bottom.inc -->
+<div id="uberlayer" style="width: 154px;">
+ 
+<!--end aa_side_generic_top.inc -->  
+
+<!--start aa_side_mid_abt.inc-->
+<div id="elZeroParent" class="parent">
+	 <table width="154" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="154" height="2" colspan="2" class="lavender"><img src="/img/space.gif" height="2" width="1" alt=""></td>
+      </tr>
+      <tr>
+        <td width="137" height="17" class="menuitemact"><a href="javascript:expandIt('elZero');"><span class="titlebaract">&nbsp;About Us</span></a></td>
+        <td width="17" height="17" class="lavender"><a href="javascript:expandIt('elZero');"><img src="/img/side_dropdown_act.gif" width="17" height="17" border="0" alt=""></a></td>
+      </tr>
+    </tbody></table>
+</div>
+<div id="elZeroChild" class="child">
+      <table width="150" border="0" cellspacing="0" cellpadding="0" class="menucontentact">
+    <tbody><tr>
+      <td width="1" class="menuitemact"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+      <td width="148"><p><img src="/img/space.gif" width="148" height="1" alt=""><br>
+				<img src="/img/side_bul.gif"><a href="/abt_sb/sbhist.html"><span class="navblue">History</span></a><br>
+				<img src="/img/side_bul.gif"><a href="/abt_sb/capabil_index.html"><span class="navblue">Our Capabilities</span></a><br>
+				<img src="/img/side_bul.gif"><a href="/abt_sb/diverse.html"><span class="navblue">Guiding Principles</span></a><br>
+				<img src="/img/side_bul.gif"><a href="/features/press/main.html"><span class="navblue">Press Releases</span></a><br>
+				<img src="/img/side_bul.gif"><a href="http://www.citigroup.com/"><span class="navblue">Annual Report</span></a><br>
+				<img src="/img/side_bul.gif"><a href="/pdf/gp2365.pdf"><span class="navblue">Consolidated Statement<br><img src="/img/space.gif" height="1" width="12" alt="" border="0">of Financial Condition</span></a><br>
+				<img src="/img/side_bul.gif"><a href="/abt_sb/jobs/index.html"><span class="navblue">Career Center</span></a></p>
+      </td>
+			<td width="1" class="menuitemact"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+    </tr>
+    <tr>
+      <td width="150" height="9" colspan="3"><img src="/img/side_botm_act.gif" width="150" height="9" alt="" border="0"></td>
+    </tr>
+    </tbody></table>
+</div>
+
+<!--end aa_side_mid_abt.inc    Thursday, July 26, 2001 5:13:55 PM-->
+
+<!--start aa_side_generic_bottom.inc   11/15/01 11:31AM -->
+<!-- Quotes / Research -->
+		<div id="elOneParent" class="parent">
+<table width="154" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+		<td width="154" height="1" colspan="2" class="lavender"><img src="/img/space.gif" height="1" width="1" alt=""></td>
 	</tr>
 	<tr>
-		<td bgcolor="#6666CC" width="14" background="/img/mw_l.gif"><img src="/img/space.gif" hspace="0" vspace="0" width="14" alt=""></td>
-		<td width="242" colspan="3">
-			<table border="0" cellspacing="0" cellpadding="0" width="100%">
-				<tbody><tr>
-					<td colspan="6" bgcolor="#6666CC"><img src="/img/space.gif" hspace="0" vspace="0" height="1" alt=""></td>
-				</tr>
-				<tr>
-					<td bgcolor="#FFFFCC" width="4"><img src="/img/space.gif" hspace="0" vspace="0" width="4" alt=""></td>
-					<td bgcolor="#FFFFCC" class="marketwatch" align="left" width="50"><b>&nbsp;DJIA&nbsp;</b></td>
-					<td bgcolor="#FFFFCC" class="marketwatch" align="right" width="67">10977.00</td>
-					<td bgcolor="#FFFFCC" class="marketwatchred" align="right" width="50">-113.70</td>
-					<td bgcolor="#FFFFCC" class="marketwatch" align="right" width="67"><nobr>4:30pm est </nobr></td>
-					<td bgcolor="#FFFFCC" width="4"><img src="/img/space.gif" hspace="0" vspace="0" width="4" alt=""></td>
-				</tr>
-				<tr>
-					<td colspan="6" bgcolor="#6666CC"><img src="/img/space.gif" hspace="0" vspace="0" height="1" alt=""></td>
-				</tr>
-				<tr>
-					<td bgcolor="#FFFFCC"><img src="/img/space.gif" hspace="0" vspace="0" width="4" alt=""></td>
-					<td bgcolor="#FFFFCC" class="marketwatch" align="left" width="50"><b>&nbsp;NASDAQ&nbsp;</b></td>
-					<td bgcolor="#FFFFCC" class="marketwatch" align="right" width="67">2215.10</td>
-					<td bgcolor="#FFFFCC" class="marketwatchred" align="right" width="50">-48.90</td>
-					<td bgcolor="#FFFFCC" class="marketwatch" align="right" width="67"><nobr>5:16pm est </nobr></td>
-					<td bgcolor="#FFFFCC"><img src="/img/space.gif" hspace="0" vspace="0" width="4" alt=""></td>
-				</tr>
-				<tr>
-					<td colspan="6" bgcolor="#6666CC"><img src="/img/space.gif" hspace="0" vspace="0" height="1" alt=""></td>
-				</tr>
-				<tr>
-					<td bgcolor="#FFFFCC"><img src="/img/space.gif" hspace="0" vspace="0" width="4" alt=""></td>
-					<td bgcolor="#FFFFCC" class="marketwatch" align="left" width="68"><b>&nbsp;S&amp;P 500&nbsp;</b></td>
-					<td bgcolor="#FFFFCC" class="marketwatch" align="right" width="68">1264.96</td>
-					<td bgcolor="#FFFFCC" class="marketwatchred" align="right" width="68">-12.00</td>
-					<td bgcolor="#FFFFCC" class="marketwatch" align="right" width="69">4:59pm est </td>
-					<td bgcolor="#FFFFCC"><img src="/img/space.gif" hspace="0" vspace="0" width="4" alt=""></td>
-				</tr>
-				<tr>
-					<td colspan="6" bgcolor="#6666CC"><img src="/img/space.gif" hspace="0" vspace="0" height="1" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
+		<td width="137" height="17" class="menuitem"><a href="/cgi-bin/client/showprefs.cgi"><span class="titlebar">&nbsp;Bookmarks</span></a></td>
+		<td width="17" height="17" class="lavender"><a href="/cgi-bin/client/showprefs.cgi"><img src="/img/side_dropdown.gif" width="17" height="17" border="0" alt=""></a></td>
 	</tr>
 	<tr>
-		<td width="14" height="13" align="left"><img src="/img/mw_lb01.gif" hspace="0" vspace="0" width="14" height="13" alt=""></td>
-		<td width="92" height="13" align="left" background="/img/mw_b.gif"><img src="/img/mw_lb02s.gif" hspace="0" vspace="0" width="92" height="13" alt=""></td>
-		<td width="150" height="13" align="right" background="/img/mw_b.gif" colspan="2"><img src="/img/mw_rb04s.gif" hspace="0" vspace="0" width="150" height="13" alt=""></td>
+		<td width="154" height="1" colspan="2" class="lavender"><img src="/img/space.gif" height="1" width="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="137" height="17" class="menuitem"><a href="javascript:expandIt('elOne'); "><span class="titlebar">&nbsp;Quotes &amp; Research</span></a></td>
+		<td width="17" height="17" class="lavender"><a href="javascript:expandIt('elOne'); "><img src="/img/side_dropdown.gif" width="17" height="17" border="0" alt=""></a></td>
 	</tr>
 </tbody></table>
-</div>
-<!--end mwatch2.inc content-->
-<!--begin gen_head760_v1.inc-->
+	</div>
+	<div id="elOneChild" class="child">
+<table width="150" border="0" cellspacing="0" cellpadding="0" class="menucontent">
+	<tbody><tr>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+		<td width="148"><p><img src="/img/space.gif" width="148" height="1" alt=""><br>
+		<img src="/img/side_bul.gif"><a href="/port_hold/quote.html"><span class="navblue">Quote/News/Research</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/features/market/comment.html"><span class="navblue">Market Commentaries</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/inv_up/"><span class="navblue">Investment Ideas</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/news/marketwatch.html"><span class="navblue">Marketwatch</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/cgi-bin/client/rank.cgi"><span class="navblue">Upgrades/Downgrades</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/port_hold/quote.html"><span class="navblue">Stock Research</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/inv_up/intres_index.html"><span class="navblue">Global Research</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/features/market/fi_research.html"><span class="navblue">Fixed Income Research</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/ichart/StandAloneIchart.html"><span class="navblue">Interactive Charting</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/fcgi-bin/pq/pq2.cgi "><span class="navblue">Watch List</span></a></p>
+		</td>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="150" height="9" colspan="3"><img src="/img/side_botm.gif" width="150" height="9" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+	</div>
+<!--Investment Products-->
+	<div id="elTwoParent" class="parent">
+<table width="154" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="152" height="1" colspan="2" class="lavender"><img src="/img/space.gif" height="1" width="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="137" height="17" class="menuitem"><a href="javascript:expandIt('elTwo');"><span class="titlebar">&nbsp;Investment Products</span></a></td>
+		<td width="17" height="17" class="lavender"><a href="javascript:expandIt('elTwo');"><img src="/img/side_dropdown.gif" width="17" height="17" border="0" alt=""></a></td>
+	</tr>
+</tbody></table>
+	</div>
+	<div id="elTwoChild" class="child">
+<table width="150" border="0" cellspacing="0" cellpadding="0" class="menucontent">
+	<tbody><tr>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+		<td width="148"><p><img src="/img/space.gif" width="148" height="1" alt=""><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/annuities/"><span class="navblue">Annuities</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/fma/bdaintro1.html"><span class="navblue">Bank Deposit Program</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/stocks/"><span class="navblue">Equities &amp; Options</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/tfi/"><span class="navblue">Fixed Income</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/citifx/"><span class="navblue">Foreign Exchange</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/futures/"><span class="navblue">Futures</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/mut_funds/2700fund.html"><span class="navblue">Mutual Funds</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/asset/spg.html"><span class="navblue">Unit Investment Trusts</span></a></p>
+		</td>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="150" height="9" colspan="3"><img src="/img/side_botm.gif" width="150" height="9" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+	</div>
+<!--Managed Money -->
+	<div id="elThreeParent" class="parent">
+<table width="154" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="154" height="1" colspan="2" class="lavender"><img src="/img/space.gif" height="1" width="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="137" height="17" class="menuitem"><a href="javascript:expandIt('elThree');"><span class="titlebar">&nbsp;Managed Money</span></a></td>
+		<td width="17" height="17" class="lavender"><a href="javascript:expandIt('elThree');"><img src="/img/side_dropdown.gif" width="17" height="17" border="0" alt=""></a></td>
+	</tr>
+</tbody></table>
+	</div>
+	<div id="elThreeChild" class="child">
+<table width="150" border="0" cellspacing="0" cellpadding="0" class="menucontent">
+	<tbody><tr>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+		<td width="148"><p><img src="/img/space.gif" width="148" height="1" alt=""><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/pcg/"><span class="navblue">Alternative Investments</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/consult/"><span class="navblue">Consulting Group</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/gpm/guidedport_mgmt.html"><span class="navblue">Guided Portfolio<br><img src="/img/space.gif" alt="" border="0" height="1" width="12">Management</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/man_fut/"><span class="navblue">Managed Futures</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/gpm/port_mgmt.html"><span class="navblue">Portfolio Management</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/asset/index.html"><span class="navblue">SB Asset Management</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/consult/trak/"><span class="navblue">TRAK</span></a></p>
+		</td>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="150" height="9" colspan="3"><img src="/img/side_botm.gif" width="150" height="9" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+	</div>
+<!-- Accounts/Services -->
+	<div id="elFourParent" class="parent">
+<table width="154" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="154" height="1" colspan="2" class="lavender"><img src="/img/space.gif" height="1" width="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="137" height="17" class="menuitem"><a href="javascript:expandIt('elFour');"><span class="titlebar">&nbsp;Accounts &amp; Services</span></a></td>
+		<td width="17" height="17" class="lavender"><a href="javascript:expandIt('elFour');"><img src="/img/side_dropdown.gif" width="17" height="17" border="0" alt=""></a></td>
+	</tr>
+</tbody></table>
+	</div>
+	<div id="elFourChild" class="child">
+<table width="150" border="0" cellspacing="0" cellpadding="0" class="menucontent">
+	<tbody><tr>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+		<td width="148"><p><img src="/img/space.gif" width="148" height="1" alt=""><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/asset_one/"><span class="navblue">Asset One</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/new_business/index.html"><span class="navblue">Business Client<br><img src="/img/space.gif" alt="" border="0" height="1" width="12">Services</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/charitable/"><span class="navblue">Charitable Investment<br><img src="/img/space.gif" alt="" border="0" height="1" width="12">Fund</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/trust_svc/trust_svc.html"><span class="navblue">Citi Trust Services</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/edelivery/"><span class="navblue">E-Delivery</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/fin_pln/"><span class="navblue">Financial Planning</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/fma/"><span class="navblue">FMA</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/geneva/"><span class="navblue">The Geneva Companies</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/loan_center/loancenter.html"><span class="navblue">Lending Services</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/myaccounts/"><span class="navblue">My Accounts</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/ret_pln/"><span class="navblue">Retirement Planning</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/fma/fmacard/index.html"><span class="navblue">Travel &amp; Rewards</span></a><br>
+		<img src="/img/side_bul.gif"><a href="http://www.salomonsmithbarneycard.com/"><span class="navblue">Visa Platinum</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/wealthmgmt/"><span class="navblue">Wealth Management</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/wireless/"><span class="navblue">Wireless Access</span></a></p>
+		</td>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="150" height="9" colspan="3"><img src="/img/side_botm.gif" width="150" height="9" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+	</div>
+<!-- Special Reports - Propagat edits to aa_local_reports2.inc and reports.html-->
+	<div id="elFiveParent" class="parent">
+<table width="154" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="154" height="1" colspan="2" class="lavender"><img src="/img/space.gif" height="1" width="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="137" height="17" class="menuitem"><a href="javascript:expandIt('elFive');"><span class="titlebar">&nbsp;Special Reports</span></a></td>
+		<td width="17" height="17" class="lavender"><a href="javascript:expandIt('elFive')"><img src="/img/side_dropdown.gif" width="17" height="17" border="0" alt=""></a></td>
+	</tr>
+</tbody></table>
+	</div>
+	<div id="elFiveChild" class="child">
+<table width="150" border="0" cellspacing="0" cellpadding="0" class="menucontent">
+	<tbody><tr>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+		<td width="148"><p>
+
+		<img src="/img/space.gif" width="148" height="1" alt=""><br>
+		<img src="/img/side_bul.gif"><a href="/features/ga_jump.html"><span class="navblue">Great American<br><img src="/img/space.gif" height="1" width="12" alt="" border="0">Companies</span></a><br>
+
+		<img src="/img/side_bul.gif"><a href="/10/ten_plus.html"><span class="navblue">TEN+ List 2001-02</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/pdf/40936web.pdf "><span class="navblue">See How We Work</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/pdf/why_now_is_time.pdf "><span class="navblue">Why Now is a Good<br><img src="/img/space.gif" height="1" width="12" alt="" border="0">Time to Buy MuniBonds</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/pdf/using_laddered_port.pdf"><span class="navblue">Using a Laddered<br><img src="/img/space.gif" height="1" width="12" alt="" border="0">Portfolio</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/tfi/atcosic.pdf"><span class="navblue">The Cost of Staying<br><img src="/img/space.gif" height="1" width="12" alt="" border="0">in Cash</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/prod_svc/tfi/p_value_2001.pdf"><span class="navblue">Present Value:<br><img src="/img/space.gif" height="1" width="12" alt="" border="0">The Case for Bonds</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/features/taxrelief.html"><span class="navblue">Understanding the<br><img src="/img/space.gif" height="1" width="12" alt="" border="0">Tax Relief Act</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/splash/elks.html"><span class="navblue">ELKS</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/splash/targets.html"><span class="navblue">Targets</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/inv_up/port_strat/port_strat_main.html"><span class="navblue">Portfolio Strategist</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/pdf/gp2399.pdf"><span class="navblue">A Stock Buyer's Guide<br><img src="/img/space.gif" height="1" width="12" alt="" border="0">to Bond Investing</span></a><br>
+		</p></td>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="150" height="9" colspan="3"><img src="/img/side_botm.gif" width="150" height="9" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+	</div>
+<!-- Tools -->
+	<div id="elSixParent" class="parent">
+<table width="154" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="154" height="1" colspan="2" class="lavender"><img src="/img/space.gif" height="1" width="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="137" height="17" class="menuitem"><a href="javascript:expandIt('elSix')"><span class="titlebar">&nbsp;Tools&nbsp;&nbsp;</span></a></td>
+		<td width="17" height="17" class="lavender"><a href="javascript:expandIt('elSix')"><img src="/img/side_dropdown.gif" width="17" height="17" border="0" alt=""></a></td>
+	</tr>
+</tbody></table>
+	</div>
+	<div id="elSixChild" class="child">
+<table width="150" border="0" cellspacing="0" cellpadding="0" class="menucontent">
+	<tbody><tr>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+		<td width="148"><p><img src="/img/space.gif" width="148" height="1" alt=""><br>
+		<img src="/img/side_bul.gif"><a href="http://www.mastercard.com/cobrand/ssb/atm/"><span class="navblue">ATM Locator</span></a><br>
+		<img src="/img/side_bul.gif"><a href="http://locator.ssbbranches.com/"><span class="navblue">Branch/Seminar Search</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/features/infogate/infogate.html"><span class="navblue">Infogate</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/fin_pln/"><span class="navblue">Financial Planning</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/cgi-bin/boss/bondMenu.cgi"><span class="navblue">Fixed Income Search</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/cgi-bin/lpc/lpc.cgi"><span class="navblue">Loan / Mortgage<br><img src="/img/space.gif" height="1" width="12" alt="" border="0">Calculator</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/cgi-bin/mf/fundSearch.cgi"><span class="navblue">Mutual Fund Search</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/cgi-bin/boss/bondMenu.cgi"><span class="navblue">Municipal Bond<br><img src="/img/space.gif" height="1" width="12" alt="" border="0">Inventory</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/fin_pln/fc_calcs/tools.html"><span class="navblue">Personal Calculators</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/cust_srv/sitemap.html"><span class="navblue">Search</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/cgi-bin/tscn/edgar.cgi"><span class="navblue">SEC Filings</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/cgi-bin/tscn/tscnSearch.cgi?WHERE=gensearch"><span class="navblue">Stock Search</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/fcgi-bin/pq/pq2.cgi"><span class="navblue">Watch List</span></a></p>
+		</td>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="150" height="9" colspan="3"><img src="/img/side_botm.gif" width="150" height="9" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+	</div>
+<!-- Investor Education -->
+	<div id="elSevenParent" class="parent">
+<table width="154" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="154" height="1" colspan="2" class="lavender"><img src="/img/space.gif" height="1" width="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="137" height="17" class="menuitem"><a href="javascript:expandIt('elSeven')"><span class="titlebar">&nbsp;Investor Education</span></a></td>
+		<td width="17" height="17" class="lavender"><a href="javascript:expandIt('elSeven')"><img src="/img/side_dropdown.gif" width="17" height="17" border="0" alt=""></a></td>
+	</tr>
+</tbody></table>
+	</div>
+	<div id="elSevenChild" class="child">
+<table width="150" border="0" cellspacing="0" cellpadding="0" class="menucontent">
+	<tbody><tr>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+		<td width="148"><p><img src="/img/space.gif" width="148" height="1" alt=""><br>
+		<img src="/img/side_bul.gif"><a href="/abt_sb/"><span class="navblue">About US</span></a><br>
+		<img src="/img/side_bul.gif"><a href="http://locator.ssbbranches.com/"><span class="navblue">Seminar Locator</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/features/ssbu/"><span class="navblue">SSB University</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/yin/home.htm"><span class="navblue">Young Investors<br><img src="/img/space.gif" width="12" height="1" alt="" border="0">Network</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/features/sec_rules.html"><span class="navblue">SEC Order Disclosure<br><img src="/img/space.gif" width="12" height="1" alt="" border="0">Rule</span></a></p>
+		</td>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="150" height="9" colspan="3"><img src="/img/side_botm.gif" width="150" height="9" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+	</div>
+<!-- Institutional Services -->
+	<div id="elEightParent" class="parent">
+<table width="154" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="lavender">
+		<td height="1" colspan="2"><img src="/img/space.gif" height="1" width="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="137" height="17" class="menuitem"><a href="javascript:expandIt('elEight')"><span class="titlebar">&nbsp;Institutional Services</span></a></td>
+		<td width="17" height="17" class="lavender"><a href="javascript:expandIt('elEight')"><img src="/img/side_dropdown.gif" width="17" height="17" border="0" alt=""></a></td>
+	</tr>
+</tbody></table>
+	</div>
+	<div id="elEightChild" class="child">
+<table width="150" border="0" cellspacing="0" cellpadding="0" class="menucontent">
+	<tbody><tr>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+		<td width="148"><p><img src="/img/space.gif" width="148" height="1" alt=""><br>
+		<img src="/img/side_bul.gif"><a href="http://www.corporateclientgroup.com/"><span class="navblue">Corporate Benefit<br><img src="/img/space.gif" width="12" height="1" alt="" border="0">Services</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/institutional/emerging_markets.html"><span class="navblue">Emerging Markets</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/institutional/equities.html"><span class="navblue">Equities</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/institutional/fixed_income.html"><span class="navblue">Fixed Income</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/institutional/foreign_exchange.html"><span class="navblue">Foreign Exchange</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/institutional/futures.html"><span class="navblue">Futures</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/institutional/investment_banking.html"><span class="navblue">Investment Banking</span></a><br></p>
+		</td>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="150" height="9" colspan="3"><img src="/img/side_botm.gif" width="150" height="9" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+	</div>
+<!-- Career Center -->
+	<div id="elNineParent" class="parent">
+<table width="154" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="154" height="1" colspan="2" class="lavender"><img src="/img/space.gif" height="1" width="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="137" height="17" class="menuitem"><a href="javascript:expandIt('elNine')"><span class="titlebar">&nbsp;Career Center</span></a></td>
+		<td width="17" height="17" class="lavender"><a href="javascript:expandIt('elNine')"><img src="/img/side_dropdown.gif" width="17" height="17" border="0" alt=""></a></td>
+	</tr>
+</tbody></table>
+	</div>
+	<div id="elNineChild" class="child">
+<table width="150" border="0" cellspacing="0" cellpadding="0" class="menucontent">
+	<tbody><tr>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+		<td width="148"><p><img src="/img/space.gif" width="148" height="1" alt=""><br>
+		<img src="/img/side_bul.gif"><a href="http://locator.ssbbranches.com/"><span class="navblue">Branch Locator</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/abt_sb/jobs/"><span class="navblue">Corporate Banking</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/fc_careers"><span class="navblue">Financial Consultant</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/abt_sb/jobs/"><span class="navblue">Investment Banking</span></a><br>
+		<img src="/img/side_bul.gif"><a href="/abt_sb/jobs/"><span class="navblue">Sales Assistant</span></a><br>
+		<img src="/img/side_bul.gif"><a href="https://www.ssmb.com/careers"><span class="navblue">Undergraduate/MBA</span></a></p>
+		</td>
+		<td width="1" class="menuitem"><img src="/img/space.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="150" height="9" colspan="3"><img src="/img/side_botm.gif" width="150" height="9" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+	</div>
+<!-- end uberlayer div  -->
+	</div>
+<!-- end side_generic_bottom.inc -->
+
+
+
+<!--begin gen_head760_v3.inc-->
 <div id="topTabs">
 <map name="tabs">
 <area shape="rect" target="_top" coords="0,0,72,23" href="/" alt="Home">
@@ -171,345 +457,24 @@ if ( isNav4 ) {
 </map>
 <table width="760" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td valign="bottom" align="left"><a href="/" target="_top"><img src="/img/access1.gif" alt="Salomon Smith Barney ACCESS" width="226" height="52" border="0"></a></td>
+<td valign="bottom" align="left"><a href="/"><img src="/img/access1.gif" alt="Salomon Smith Barney ACCESS" width="226" height="52" border="0"></a></td>
 <td valign="bottom" align="right"><img src="/img/tabs_none.gif" border="0" usemap="#tabs" width="393" height="23" alt="" hspace="0"></td>
 </tr>
 </tbody></table><table width="760" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td valign="top" align="left" bgcolor="#CCCCFF" width="162"><img src="/img/topbar_l.gif" alt="" width="162" height="8"></td>
 <td valign="top" align="right" bgcolor="#CCCCFF" width="8"><img src="/img/space.gif" alt="" width="8" height="1"></td>
-<td valign="top" align="right" bgcolor="#CCCCFF" width="590"><img src="/img/topbar_r590_mw.gif" alt="" width="590" height="8"></td>
+<td valign="top" align="right" bgcolor="#CCCCFF" width="590"><img src="/img/topbar_r590b.gif" alt="" width="590" height="8"></td>
 </tr>
 </tbody></table>
 </div>
-<!--
-[[div id="mwatchB"]]
-[[a href="javascript:showLayer('mwatch2');hideLayer('mwatchB');"]][[img src="/img/marketbutt1.gif" border=0 hspace=0 vspace=0 alt="Market Watch"]][[/a]]
-[[/div]]
--->
-<!--end gen_head760_v1.inc-->
+<!--end gen_head760_v3.inc-->
 
 <div id="content1">
 <table width="760" border="0" cellspacing="0" cellpadding="0">
-
 <tbody><tr>
-<td bgcolor="#CCCCFF" valign="top" width="162"><!--start abt_side_v.inc-->
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr>
-<td colspan="4" width="162" height="8"><img src="/img/space.gif" width="1" height="8" alt=""></td>
-</tr>
-<tr>
-<td width="4" bgcolor="#3333CC"><img src="/img/space.gif" width="4" height="8" alt=""></td>
-<td width="162" colspan="2" height="22" valign="middle" bgcolor="#3333CC"><a href="/abt_sb/index.html"><span class="titlebar">About Us</span></a></td>
-<td width="4" bgcolor="#3333CC"><img src="/img/space.gif" width="4" height="8" alt=""></td>
-</tr>
-<tr>
-<td bgcolor="#CCCCFF" colspan="4" height="4"><img src="/img/space.gif" width="4" height="4" alt=""></td>
-</tr>
-<tr>
-<td width="4"></td>
-<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-<td width="144"><a href="/abt_sb/sbhist.html"><span class="navblue">History</span></a></td>
-<td width="4"></td>
-</tr>
-<tr>
-<td width="4"></td>
-<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-<td width="144"><a href="/abt_sb/brochure/bchure_toc.html"><span class="navblue">Our Capabilities</span></a></td>
-<td width="4"></td>
-</tr>
-<tr>
-<td width="4"></td>
-<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-<td width="144"><a href="/abt_sb/diverse.html"><span class="navblue">Guiding Principles</span></a></td>
-<td width="4"></td>
-</tr>
-<tr>
-<td width="4"></td>
-<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-<td width="144"><a href="/features/press/main.html"><span class="navblue">Press Releases</span></a></td>
-<td width="4"></td>
-</tr>
-<tr>
-<td width="4"></td>
-<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-<td width="144"><a href="http://www.citigroup.com/citigroup/fin/mid.htm"><span class="navblue">Annual Report</span></a></td>
-<td width="4"></td>
-</tr>
-<tr>
-<td width="4"></td>
-<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-<td width="144"><a href="/pdf/gp2365.pdf"><span class="navblue">Consolidated Statement of Financial Condition</span></a></td>
-<td width="4"></td>
-</tr>
-<tr>
-<td width="4"></td>
-<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-<td width="144"><a href="/abt_sb/brnchloc.html"><span class="navblue">Branch Locator</span></a></td>
-<td width="4"></td>
-</tr>
+<td bgcolor="#CCCCFF" valign="top" width="162"><br clear="all"><img src="/img/space.gif" width="1" height="520" alt=""></td>
 
-<tr>
-<td valign="top" width="4"><img src="/img/space.gif" height="1" width="4" alt=""></td>
-<td height="1" width="10"><img src="/img/space.gif" height="1" width="10" alt=""></td>
-<td height="1" width="144"><img src="/img/space.gif" height="1" width="144" alt=""></td>
-<td valign="top" width="4"><img src="/img/space.gif" height="1" width="4" alt=""></td>
-</tr>
-</tbody></table>
-<!--end abt_side_v.inc-->
-<!--start generic_side_v.inc-->
-			<table border="0" cellspacing="0" cellpadding="0" width="100%">
-				<tbody><tr>
-					<td valign="top" width="4"><img src="/img/space.gif" height="2" width="4" alt=""></td>
-					<td height="2" width="10"><img src="/img/space.gif" height="2" width="10" alt=""></td>
-					<td height="2" width="144"><img src="/img/space.gif" height="2" width="144" alt=""></td>
-					<td valign="top" width="4"><img src="/img/space.gif" height="2" width="4" alt=""></td>
-				</tr>
-				<tr>
-					<td height="18" bgcolor="#CCCCFF" width="162" colspan="4"><img src="/img/nav_hd_offer.gif" vspace="4" border="0"></td>
-				</tr>
-			<form></form>
-				<tr>
-					<td width="4"></td>
-					<td colspan="2" width="154" class="body10">
-					<select class="body10" name="url" onchange="parent.location=this.options[this.selectedIndex].value,&quot;_self&quot;">
-						<option value="/features/infogate/infogate.html">Streaming Quotes</option>
-						<option value="/features/infogate/infogate.html">&nbsp;&nbsp;&nbsp;&amp; News</option>
-						<option value="/features/turbotax/turbotax.html">TurboTax</option>
-						<option value="/prod_svc/stocks/">Stocks</option>
-						<option value="/prod_svc/stocks/">Options</option>
-						<option value="/prod_svc/bonds/">Tax free Bonds</option>
-						<option value="/prod_svc/tfi/tfihome.html">Government Bonds</option>
-						<option value="/prod_svc/tfi/tfihome.html">Certificates of</option>
-						<option value="/prod_svc/tfi/tfihome.html">&nbsp;&nbsp;&nbsp;Deposit</option>
-						<option value="/prod_svc/tfi/laddered_port.html">Model Portfolios</option>
-						<option value="/prod_svc/tfi/index.html">Fixed Income</option>
-						<option value="/prod_svc/hnw/">High Net Worth</option>
-						<option value="/prod_svc/hnw/">&nbsp;&nbsp;&nbsp;Program</option>
-						<option value="/prod_svc/mut_funds/2700fund.html">Mutual Funds</option>
-						<option value="/prod_svc/asset/">Asset Management</option>
-						<option value="/prod_svc/trak_b/index.html">TRAK</option>
-						<option value="/prod_svc/loan_center/loancenter.html">Loan Center</option>
-						<option value="/prod_svc/consult/">Consulting Group</option>
-						<option value="/prod_svc/fma/">FMA</option>
-						<option value="/prod_svc/fma/fmacard/index.html">Travel &amp; Rewards</option>
-						<option value="/prod_svc/fma/fmacard/index.html">&nbsp;&nbsp;&nbsp;Program</option>
-						<option value="/prod_svc/asset_one/">Asset One®</option>
-						<option value="/prod_svc/ret_pln/">Retirement</option>
-						<option value="/prod_svc/ret_pln/">&nbsp;&nbsp;&nbsp;Planning</option>
-						<option value="/prod_svc/trust_svc/trust_svc.html">Trust Services</option>
-						<option value="/prod_svc/futures/">Futures</option>
-						<option value="/prod_svc/man_fut/">Managed Futures</option>
-						<option value="/prod_svc/business/">Business Services</option>
-						<option value="/prod_svc/alternative_inv/alternative_inv.html">Alternative</option>
-						<option value="/prod_svc/alternative_inv/alternative_inv.html">&nbsp;&nbsp;&nbsp;Investments</option>
-						<option value="http://www.salomonsmithbarneycard.com/">Visa Platinum</option>
-						<option value="/citiplaza/">CitiPlaza</option>
-						<option value="/prod_svc/fma/bdaintro1.html">Bank Deposit</option>
-						<option value="/prod_svc/fma/bdaintro1.html">&nbsp;&nbsp;&nbsp;Program</option>
-					</select>
-					<input class="body10" type="button" value="Go" onclick="window.location.href=this.form.url.options[this.form.url.selectedIndex].value">
-					</td>
-					<td width="4"></td>
-				</tr>
-			
-				<tr>
-					<td valign="top" width="4"><img src="/img/space.gif" height="8" width="4" alt=""></td>
-					<td height="8" width="10"><img src="/img/space.gif" height="8" width="10" alt=""></td>
-					<td height="8" width="144"><img src="/img/space.gif" height="8" width="144" alt=""></td>
-					<td valign="top" width="4"><img src="/img/space.gif" height="8" width="4" alt=""></td>
-				</tr>
-				<!--tr>
-					<td colspan="4" width="162" height="8"><img src="/img/space.gif" width="1" height="8" alt=""></td>
-				</tr-->
-				<tr>
-					<td width="4" bgcolor="#3333CC"><img src="/img/space.gif" width="4" height="8" alt=""></td>
-					<td width="162" colspan="2" height="22" valign="middle" bgcolor="#3333CC"><span class="titlebar">Site Links</span></td>
-					<td width="4" bgcolor="#3333CC"><img src="/img/space.gif" width="4" height="8" alt=""></td>
-				</tr>
-				<tr>
-					<td bgcolor="#CCCCFF" colspan="4" height="4"><img src="/img/space.gif" width="4" height="4" alt=""></td>
-				</tr>
-				<!--tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/fcgi-bin/client/viewdriver.cgi"><span class="navblue">Portfolio</span></a></td>
-				<td width="4"></td>
-				</tr-->
-				<tr>
-				<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/fcgi-bin/pq/pq2.cgi"><span class="navblue">Watch List</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<!--tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cgi-bin/trade/test_trader.cgi"><span class="navblue">Trading</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cgi-bin/billpay/test_billpay.cgi"><span class="navblue">Bill Pay</span></a></td>
-					<td width="4"></td>
-				</tr-->
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/wireless/"><span class="navblue">Wireless Services</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cgi-bin/myaccounts/accounts.cgi"><span class="navblue">My Accounts</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/edelivery/"><span class="navblue">E-Delivery</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/ichart/StandAloneIchart.html"><span class="navblue">Interactive Charting</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cgi-bin/tscn/tscnSearch.cgi?WHERE=gensearch"><span class="navblue">Stock Search</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cgi-bin/mf/fundSearch.cgi"><span class="navblue">Mutual Fund Search</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cgi-bin/redirect/boss/bondsearch.html"><span class="navblue">Fixed Income Search</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/prod_svc/bonds/munioffr.html"><span class="navblue">Municipal Bond Inventory</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cgi-bin/tscn/edgar.cgi"><span class="navblue">SEC Filings</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/inv_up/"><span class="navblue">Investment Ideas</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/fin_pln/"><span class="navblue">Financial Planning</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cgi-bin/client/rank.cgi"><span class="navblue">Research Up/Downgrades</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<!--tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/features/market/comment.html"><span class="navblue">Market Commentaries</span></a></td>
-					<td width="4"></td>
-				</tr-->
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cgi-bin/benchopen/sb_news_mw?app"><span class="navblue">Marketwatch</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/yin/"><span class="navblue">Young Investor's Network</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="http://locator.ssbbranches.com/"><span class="navblue">Branch &amp; Seminar Locator</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<!--tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="http://www.mastercard.com/atm/ssb"><span class="navblue">ATM Locator</span></a></td>
-					<td width="4"></td>
-				</tr-->
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="http://www.corporateclientgroup.com"><span class="navblue">Services for Corporations</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/abt_sb/jobs/"><span class="navblue">Career Center</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/abt_sb/"><span class="navblue">About Us</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cust_srv/sitemap.html"><span class="navblue">Sitemap&nbsp;/&nbsp;Search</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cust_srv/tour/"><span class="navblue">Site Tour</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/features/ssbu/"><span class="navblue">SSBU: Investor Education</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/features/press/main.html"><span class="navblue">Press Releases</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td width="4"></td>
-					<td width="10" valign="top"><img src="/img/navbullet.gif" width="10" height="14" alt=""></td>
-					<td width="144"><a href="/cust_srv/contact/"><span class="navblue">E-Mail</span></a></td>
-					<td width="4"></td>
-				</tr>
-				<tr>
-					<td colspan="4" width="162" height="6"><img src="/img/space.gif" width="1" height="6" alt=""></td>
-				</tr>
-</tbody></table>
-<!--end generic_side_v.inc-->
-<br clear="all">&nbsp;</td>
 <td valign="top" align="left" width="8" rowspan="2"><img src="/img/curve_lt2.gif" alt="" width="8" height="8"></td>
 <td valign="top" width="590" rowspan="2">
 <!--Start Content-->
@@ -549,10 +514,10 @@ if ( isNav4 ) {
 <p>We maintain your personal information and data according to strict standards of security and confidentiality as described in the Terms and Conditions that govern your use of this site. Online access to your account portfolio is only possible through a secure (SSL capable) web browser.  SSL capable web browsers support encryption technology, which helps prevent unauthorized users from viewing your account information as it travels over the Internet.</p>
 
 
-<p>This privacy statement does not supersede the Terms and Conditions 
-     that govern your use of this site. Any conflict between the two shall 
-     be determined in favor of such Terms and Conditions.  Salomon Smith 
-     Barney may change this statement at any time.  Any changes or updates 
+<p>This privacy statement does not supersede the Terms and Conditions
+     that govern your use of this site. Any conflict between the two shall
+     be determined in favor of such Terms and Conditions.  Salomon Smith
+     Barney may change this statement at any time.  Any changes or updates
      will be effective immediately upon posting to this site.
 </p>
 
@@ -569,6 +534,7 @@ if ( isNav4 ) {
 
 <!--end privacy_1.inc-->
 
+
 <!--End Content-->
 </td>
 </tr>
@@ -581,17 +547,19 @@ if ( isNav4 ) {
 <td width="590"><img src="/img/space.gif" width="590" height="1" alt=""></td>
 </tr>
 </tbody></table>
-<!--Start foot760.inc-->
-<table width="752" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td><br></td></tr>
-<tr>
-<td valign="top">
-<img src="/img/ssb_bottom.gif" align="right" alt="Salomon Smith Barney" width="172" height="49" border="0">
-<span class="copyright">©2001 Salomon Smith Barney Inc. All rights reserved. Member SIPC.<br><a href="/abt_sb/terms.html">Terms and Conditions</a>, <a href="/abt_sb/privacy.html">Privacy Policy</a>, <a href="/abt_sb/uk_info.html">U.K. Users</a></span>
-</td>
-</tr>
+<!--Start aa_foot760.inc-->
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td colspan="2"><br></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="/img/ssb_bottom.gif" alt="Salomon Smith Barney" width="172" height="49" border="0"></td>
+		<td><p class="copyright">©2001 Salomon Smith Barney Inc. All rights reserved. Member SIPC.<br>
+		<a href="/abt_sb/terms.html">Terms and Conditions</a> |
+		<a href="/abt_sb/privacy.html">Privacy Policy</a></p></td>
+	</tr>
 </tbody></table>
-<!--End foot760.inc-->
+<!--End aa_foot760.inc-->
 </div>
 
 
