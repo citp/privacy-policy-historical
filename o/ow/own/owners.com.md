@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201210500id_/http%3A//www.owners.com/About/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605185002id_/http%3A//www.owners.com/About/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Owners.com : Privacy Policy and Security Statement
 
