@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carsurvey.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611220125id_/http%3A//www.carsurvey.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsurvey.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204023545id_/http%3A//www.carsurvey.org/privacy.html) for the most accurate reproduction.*
 
-# carsurvey.org Privacy Policy
+# Carsurvey.org Privacy Policy
 
 Carsurvey.org, is firmly committed to respecting the privacy of our viewers (people who visit and/or use the site). The following policy explains how your personal information will be treated. Please check back periodically, as this policy may change from time to time.
 
