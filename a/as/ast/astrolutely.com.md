@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrolutely.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604191102id_/http%3A//www.astrolutely.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrolutely.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204092329id_/http%3A//www.astrolutely.com/privacy.php) for the most accurate reproduction.*
 
 # Penny Thornton's Astrolutely.com Privacy Policy Statement
 
