@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2002-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021219161353id_/http%3A//www.nib.com.au/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417081658id_/http%3A//www.nib.com.au/about_privacy.html) for the most accurate reproduction.*
 
 # NIB Health Fund - Private Health Insurance Cover - Media Releases
 
@@ -81,7 +81,7 @@ Cookies
   
 Reviewing this policy
 
-> NIB reserves the right to review and amendment this Policy without notice. This Policy was last updated on 3rd June 2002.
+> NIB reserves the right to review and amend this Policy without notice. This Policy was last updated on 3rd June 2002.
 
   
 Need more information?
