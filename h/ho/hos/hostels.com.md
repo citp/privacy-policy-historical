@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603081359id_/http%3A//www.hostels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2001-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011108185413id_/http%3A//www.hostels.com/privacy) for the most accurate reproduction.*
 
 # Welcome to Hostels.com / The Internet Guide to Hostelling
 
 [](http://www.hostels.com/)
 
+Welcome to Hostels.com / The Internet Guide to Hostelling
+
   
-You may reproduce Hostels.com content for personal use only. Commercial use and use by businesses and other organizations is prohibited without permission. Linking to Hostels.com is welcomed--no permission is required.
+Use of Hostels.com content for commercial purposes is prohibited without permission. Linking to Hostels.com is welcomed.
 
-While we keep Hostels.com as accurate and up-to-date possible, we accept no responsibility for events resulting from the use of this information. Read [Disclaimers](https://web.archive.org/web/20010603081359id_/http://legal.html) for details.
+While we keep Hostels.com as accurate and up-to-date possible, we accept no responsibility for events resulting from the use of this information. See [Disclaimers](https://web.archive.org/web/20011108185413id_/http://www.hostels.com/legal.html).
 
-Hostels.com respects the privacy of all users. Read our [Privacy Policy](http://www.hostels.com/privacy) for details.
+Hostels.com respects the privacy of all users. See our [Privacy Policy](http://www.hostels.com/privacy).
 
-Copyright(s) ©1994-2000  
-The Internet Guide to Hostelling, Darren K. Overby
+Copyright(s) ©1994-2001  
+The Internet Guide to Hostelling, Darren K. Overby. Web design by Paul Otteson
 
-* * *
-
-Design and photography by [ottoworks](mailto:ottoworks@worldawaits.com)
-
-|  |  SPONSORED AT THIS MOMENT BY: [](http://ad-adex3.flycast.com/server/click/HostelscomInternetGuidetoHostelling/WorldwideHostelGuide/53)
+|  |  SPONSORED AT THIS MOMENT BY: [](http://ad2.doubleclick.net/jump/sonar.hostels/ros;sz=468x60;ord=36)
 
 **Hostels.com Privacy Policy**
 
@@ -28,7 +26,7 @@ Hostels.com, and its advertisers and affiliates are absolutely committed to prot
 
 Whenever you visit the Hostels.com web site, we do not proactively collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Hostels.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). This information collected by Hostels.com is only aggregate statistical information used for the purpose of improving our readers experience and for targeting ads and measuring ad effectiveness on behalf of our advertisers.
 
-If you would like additional information about the types of non-personally identifiable information that is collected by Hostels.com please click [here](https://web.archive.org/web/20010603081359id_/http://www.hostels.com/privacy/privacy2.html).
+If you would like additional information about the types of non-personally identifiable information that is collected by Hostels.com please click [here](https://web.archive.org/web/20011108185413id_/http://www.hostels.com/privacy/privacy2.html).
 
 **Hostels.com Mailing List**
 
