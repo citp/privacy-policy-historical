@@ -1,73 +1,85 @@
-> *The following text is extracted and transformed from the teen.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401221422id_/http%3A//www.beyondthewall.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teen.com privacy policy that was archived on 2004-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040323052417id_/http%3A//teen.com/home/privacypolicy) for the most accurate reproduction.*
 
-# Welcome to Beyond The Wall - posters & art prints, great prices
+# Privacy Statement - Alloy
 
-**PRIVACY POLICY / TERMS & CONDITIONS**
+**Disclosure Regarding Collection and Use of Personal Information.**
 
-**Privacy Policy**
+Thank you for visiting ALLOY.COM. This notice explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. OUR ONLINE INFORMATION COLLECTION AND USE PRACTICES MAY DIFFER FROM OUR PRACTICES REGARDING INFORMATION OBTAINED OFFLINE.
 
-This web site, Beyond The Wall (formerly Postermart.com), is owned and operated by Trent Graphics, Inc., a subsidiary of YouthStream Media Networks, Inc. Our postal address is 1903 West Main Street, Stroudsburg, PA 18360. We can be reached via e-mail at [help@beyondthewall.com](mailto:help@beyondthewall.com), or you can reach us by telephone at 800-598-9848. 
+REMEMBER IF YOU REGISTER WITH ALLOY.COM, PARTICIPATE IN A SURVEY, PURCHASE SOMETHING FROM US, REQUEST A CATALOG OR ENTER ANY OF OUR CONTESTS OR PROMOTIONS, YOU AGREE TO THESE TERMS. AS WE UPDATE AND EXPAND OUR SERVICES, THIS POLICY MIGHT CHANGE, SO CHECK IT OUT FROM TIME TO TIME.
 
-**Personal Information.**  
-Your personal information is used in the following ways: 
+**The Information We Collect.**  
+At ALLOY.COM you can do a variety of things! You may be able to order products, enter contests, participate in surveys, vote in polls, subscribe to a service (like our ezine) or participate in a chat room. The types of personally identifiable information (i.e. information that can directly identify you or indicate where you might be contacted) that may be collected at these pages could include: name, address, age, date of birth, sex, grade level, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs and services. You can view or change your information at any time. [Click here to edit your profile](https://store.alloy.com/user/account/myaccount.asp) or send an email to [myinfo@alloy.com](mailto:myinfo@alloy.com).
 
-* _User IDs and Passwords._ Allows for quick login to our check out area 
-* _Account Information._ Tells us more about who you are, how to contact you, and your shipping and billing information. 
-* _Customer Feedback and Support._ Provides a way to request information and share comments/suggestions. Also used to tell us how we can improve our products, services and site designs. 
-* _Email Correspondence._ Used to raise and respond to issues and inquiries of all types. Also used to send an order receipt. 
-* _Transactions._ Shows which products and services you have requested. 
+Sometimes you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to a friend, you might submit the friend's name and address. The types of personally identifiable information that may be collected about other people at these pages may include: recipient's name, address, age, date of birth, grade level, e-mail address, sex and telephone number.
 
-**Uses of Personal Information**   
-WE only account such as info (name, shipping address, credit card) when place an This information is used process order, invoice and contact if there are any problems with order. We will not change way in which we use your personal information, unless you consent to the new usage. 
+We also may collect certain non-personally identifiable information (i.e. generic information that does not identify you personally) when you visit any of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online or Earthlink).
 
-In the case of our newsletter/affiliate sign-up page we will use this information to notify you of contests, products, promotions, etc. You can opt-out of our newsletters at any time by sending an email to [unsubscribe@beyondthewall.com](mailto:unsubscribe@beyondthewall.com). To be removed from our affiliate program. Simply send an email to [affiliates@beyondthewall.com](mailto:affiliates@beyondthewall.com)
+**How We Use and Disose the Information.**  
+We will use the personal information you provide online for the purpose(s) you have submitted. Examples of us using your personal information for the purpose(s) submitted include if you order a catalog, we will send to you a catalog in the mail or if you have won a contest, sending to you an email notification that you have won. In addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. For example, we may send to you an e-mail regarding special merchandise offers and announcements about products or services offered by Alloy. We may also contact you offline. For example, when you provide your mailing address, Alloy may send to you in the mail special offers, promotions and catalogs, which we think may be of interest to you. If you want us to stop using the personal information you provided in these ways, please go to [Edit My Profile](https://store.alloy.com/user/account/myaccount.asp) at ALLOY.COM or contact us at [myinfo@alloy.com](mailto:myinfo@alloy.com). 
 
-We do not share any of this information with other companies.   
-We will only contact you by email and/or phone either in the event of a problem or question regarding an order you have placed, or in response to mail you have sent us.
+**How We Share Your Personal Information.**  
+We will not share the personal information you provide except (a) if it is for the purpose(s) you provided it; (b) with your consent; (c) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); (d) with other persons or companies with whom we contract to carry out internal site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the site); and/or (e) notifying you when we make changes to one of our subscriber agreements or this policy.
 
-**Security Measures**  
-When sharing account information with us or sending your credit card for payment, we protect each transaction through encrypted, secure socket layers (SSL) This means that the url you are seeing at the top of your browser will change from “http” to “https”.
+Examples of us sharing your personal information for the purposes submitted are if you request information regarding financial aid, we may provide the information provided to a third party lender so that they can send to you directly the information you requested or if you enter a contest or sweepstakes sponsored by a third party, we may forward your information to such third party. 
 
-Sometimes it is necessary to share your information with an authorized third party agent. For example, if we ship posters to you, we must share your name and address with the US Postal Service. 
+We will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail).
 
-**3 rd Party Ads**  
-From time-to-time, 3rd party advertisers will run a campaign on our site. We only allow them to collect non-identifying information – browser type, referred address, pages visited, etc. We do not control the information contained on other sites. Should you click on a link and leave our site it is your responsibility to check the privacy policy and terms on that site. ****
+We do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy. Thus, we may also share personal information provided online with companies owned directly or indirectly by Alloy, Inc. Any of these companies may use and further share this information in the same ways we do. However, if we pass on personal information to a family company, we require that it protect such information in a manner that is consistent with this policy. If you want us to stop sharing your personal information among Alloy owned companies, please go to [Edit My Profile](https://store.alloy.com/user/account/myaccount.asp) at ALLOY.COM or contact us at [myinfo@alloy.com](mailto:myinfo@alloy.com)
 
-**Children Under 13**  
-We do not knowingly collect personal information from children under the age of 13. If information from a child under 13 is found in our data, we will delete it immediately. There are many products on our site that children may be interested in. We encourage parents to go online with their children to make the surfing experience more enjoyable. ****
+Additionally, with your consent, we may share the personal information you provide online with companies not affiliated with us (i.e. third party companies) who want to market products or services to you or to ask you questions, both online and offline. If you want us to stop sharing your personal information with these companies, please go to [Edit My Profile](https://store.alloy.com/user/account/myaccount.asp) at ALLOY.COM or contact us at [myinfo@alloy.com](mailto:myinfo@alloy.com). If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies.
 
-**Cookies**  
-Most ecommerce Web sites use _cookies_. Cookies allow us to provide a better user experience by measuring which Web site areas are of greatest interest. We also use cookies to enable our shopping cart system. This allows you to keep products in your cart as you move around our site and check out. If you do not accept cookies, the associated shopping bag will not work and you would not be able to order. ****
+If we do share personal information to a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information. 
 
-**Updating Information**  
-Please let us know of any changes to your name, address, title, phone number or email address. 
+**Use and Disclosure of Anonymous Information.**  
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how our site is used, as well as to offer you products, programs or services. Sometimes we share aggregate information with others, including affiliated companies and non-affiliated companies.
 
-* * *
+**Collection of Information by Others.**  
+Our site may contain links to other sites whose information practices may be different than ours. You should check the other sites' privacy notices since we have no control over information that is submitted to or collected by them.
 
-**Terms** **& Conditions**
+We may offer e-mail services, contests, sweepstakes, or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain personally identifiable information that site visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the use of this information by these companies. 
 
-**Indemnification**  
-By using this website, you the consumer, agree to indemnify and hold beyondthewall, Inc., its employees, parent companies, suppliers, and affiliates harmless from any dispute which may arise from a breach of this agreement. In addition, the customer agrees to hold beyondthewall, Inc. harmless from any claims and/or expenses, including any and all reasonable attorney's fees and court costs, related to the customer's use of this web site and the merchandise contained within.
+**Cookies.**  
+To enhance your online experience with us, many of our web pages use "cookies." Cookies are text files placed on your hard disk by our web server to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us. However, once you choose to provide the personally identifiable information, this information may be linked to the data stored in the cookie. Cookies cannot be used to run programs or deliver viruses to your computer.
 
-**Service**  
-Beyondthewall reserves the right to refuse service to anyone for any reason not based on religion, race or creed.
+We use cookies as a convenience feature to save you time, to understand how our site is used, and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages or recall your specific information on subsequent visits (e.g. to recognize you by name when you return to our site). We also may use cookies to offer you products, programs or services. You can opt to have your browser reject cookies. If you do that, you may need to re-register with us every time you visit our site in order to participate in certain promotions and other stuff. You should also know that companies that advertise on our web site (and their agents) might use their own cookies. This policy does not cover how these companies use their cookies.
 
-**Sales Tax**  
-Applicable sales tax applies to the total (after shipping charges) only for Pennslyvania residents (add 6% sales tax), and New York residents (add 8.25% sales tax) 
+**Clickstream Data.**  
+As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "clickstream data," can be collected and stored by a web site's server. Clickstream data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to ALLOY.COM. We may use clickstream data as a form of non-personally identifiable information to anonymously determine how much time visitors spend on each page of ALLOY.COM, how visitors navigate throughout the site and how we may tailor our web pages to better meet the needs of visitors. This information will only be used to improve our site. Any collection or use of clickstream data will be anonymous and aggregate.
 
-**Currency**  
-Prices are in U.S. Dollars. All charges must be paid in U.S. dollars, and sent in the form of credit card, US money order, international money order or check. We do not accept cash. International money orders must be drawn from U.S. funds. We reserve the right to change the prices of merchandise sold on this web site at any time.
+**Supplementing Information.** From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through ALLOY.COM may be intermingled with and used in conjunction with information obtained through sources other than ALLOY.COM, including both offline and online sources.
 
-**International Taxes/Duties**  
-Please be aware that we are not responsible for any duties or value-added taxes that may be assessed by your local government.
+**Discussions and Community Tools.**  
+We may, from time to time, make chat rooms, forums, message boards, news groups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using ALLOY.COM and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may use publicly posted information.
 
-**Returned Check Policy**  
-All checks that are returned due to insufficient funds or for any other reason will be submitted for collection immediately. All returned checks will result in a twenty-five dollar ($25.00) service charge to the consumer.
+ **Our Commitment to Security.**  
+We believe we have in place the appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect online as well as offline. When your personal information is passed onto non-affiliated companies, to the extent practical, we require that they also have in place the appropriate safeguards. We cannot, however, guarantee that they do so.
 
-**Return  Policy  
-**Should you become unsatisfied within 5 days of receiving an item that you purchased from us, we will be happy to replace it with a different poster or refund your money, less the cost of shipping and handling.  Be sure to include the product, invoice and a brief explanation as to why you are returning the product to us.  You must contact Customer Service before returning a product.  Items must be returned within 30 days at your expense.
+ **International Users.**  
+If you are visiting ALLOY.COM from a location outside of the United States, your connection will be through and to servers located in the United States, your orders placed through ALLOY.COM will be fully processed in and shipped from the United States and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. By using ALLOY.COM, you authorize the export of personal information to the USA and its storage and use as specified above when you provide such information to us. This policy and our legal obligations are subject to the laws of the State of New York and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of New York.
 
-If you return an item after 30 days of receiving it, we will issue you a credit for our site for the retail price of the item minus shipping and handling costs.  There will be no refund.
+ **How You Can Access or Correct Your Personal Information.**  
+For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please go to [Edit My Profile](https://store.alloy.com/user/account/myaccount.asp) at ALLOY.COM or send an e-mail to [myinfo@alloy.com](mailto:myinfo@alloy.com)
 
-**Policy/Term Changes**  
-Policy and Terms are subject to change without notice. We will post all updates to this policy on the site. Should we change the way we use your personal information, we will notify you via email.
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+
+**Special Note for Parents.**  
+If you have concerns about this site or its services, wish to find out if your child is a member or has registered for one our services, or wish to cancel your child's membership, please contact us at myinfo@alloy.com. Our site will not knowingly accept personal information from anyone under 13 years old in violation of applicable laws. If you believe that your child under 13 has gained access to our site without your permission, you may contact us at myinfo@alloy.com. We have taken commercially reasonable steps to restrict use of this site to those who are at least 13 years old. We do not sell products for purchase by children and all children's products we sell are for purchase by adults only, or with adult permission.
+
+**Transfer of Business Assets.**  
+The personal information you provide is considered a company asset and may be included among transferred assets if Alloy, Inc., any or all of its subsidiaries or affiliates or any of their assets is ever acquired by a third party. 
+
+**Changes to this Policy.**  
+Because our business needs may change over time, we reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. If at any time in the future we plan to use your personally identifiable information in a way that differs from this policy, we will post such changes here. Your continued use of our ALLOY.COM following the posting of any changes to this policy means you accept such changes. 
+
+**How to Contact Us.**  
+If you have any questions or concerns about this privacy policy you may e-mail privacy@alloy.com or write to the following address:
+
+Alloy Merchandising, LLC  
+c/o Alloy, Inc.  
+151 W. 26th Street, 11th Floor  
+New York, NY 10001   
+Attn: Privacy
+
+Telephone: (212) 244-4307  
+Facsimile: (212) 244-4311
