@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619052528id_/http%3A//www.iii.co.uk/about/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815062131id_/http%3A//www.iii.co.uk/about/privacy.epl) for the most accurate reproduction.*
 
 # interactive investor - Privacy Policy
 
@@ -20,4 +20,4 @@ If you can be identified from the information to be passed, then **we** will not
 
 
 
-**If you have any questions about our privacy policy, please[contact us](https://web.archive.org/web/20000619052528id_/http%3A//www.iii.co.uk/advice/customer_services/).**
+**If you have any questions about our privacy policy, please[contact us](https://web.archive.org/web/20000815062131id_/http%3A//www.iii.co.uk/advice/customer_services/).**
