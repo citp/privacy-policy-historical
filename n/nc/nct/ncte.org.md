@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncte.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072109id_/http%3A//www.ncte.org/webmgt/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncte.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095406id_/http%3A//www.ncte.org/webmgt/privacy.shtml) for the most accurate reproduction.*
 
-# Web Privacy Policy
+# National Council of Teachers of English Home Page
 
 The National Council of Teachers of English respects your privacy. This document outlines the ways that NCTE web site may collect information from you.
 
@@ -11,7 +11,7 @@ Generally speaking, you can visit the pages of the NCTE web site without telling
 There are portions of the NCTE web site that do request personal information:
 
   * _Members Only Pages_  
-Some sections of the web site, such as the [CyberBrief](https://web.archive.org/cyberbriefs/) pages, are reserved for NCTE members only. To access these portions of the site, you will need to enter your name and your member number. This information is used to confirm that you are a member in good standing before displaying these limited-access pages. 
+Some sections of the web site, such as the [CyberBrief](http://www.ncte.org/cyberbriefs/) pages, are reserved for NCTE members only. To access these portions of the site, you will need to enter your name and your member number. This information is used to confirm that you are a member in good standing before displaying these limited-access pages. 
   * _List Member Only Pages_  
 Some discussion list archives are limited to list subscribers only. To access these web pages, you will need to enter the email address which you used to subscribe to the discussion list. If you are not subscribed to the list, you will not be able to access these archives. (To subscribe to NCTE discussion lists, visit <http://www.ncte.org/lists/>)
   *  _Web Form and Order Form Pages_  
