@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620222126id_/http%3A//www.pbs.org/aboutsite/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204073200id_/http%3A//www.pbs.org/aboutsite/privacy.html) for the most accurate reproduction.*
 
 # PBS - Privacy Policy
 
@@ -22,7 +22,7 @@ Nothing is more important to us than protecting the private information of our v
 PBS Online is a member of L90 Internet Advertising Solutions, which places sponsorship banners and badges on certain non-kids related Web pages of PBS Online. L90 utilizes special computer code to track user activity on our site. This computer code, when implemented, is called a "cookie." 
 
   1. L90's cookies contain no information about you—only a unique number with no meaning whatsoever outside of the tracking system. L90's cookies help to target sponsorship information and measure effectiveness. L90 also uses cookies to enhance the Internet user's experience on the Web by ensuring that you do not see the same sponsor information repeatedly. 
-  2. L90 cannot use these cookies to personally identify you in any way. All users who receive a sponsor message targeted by L90's technology remain completely anonymous. To find out more about L90's policy or to learn how to "opt out" from cookies, visit [L90's site](http://www.l90.com/external_site/privacy_policy.html) for additional information.
+  2. L90 cannot use these cookies to personally identify you in any way. All users who receive a sponsor message targeted by L90's technology remain completely anonymous. To find out more about L90's policy or to learn how to "opt out" from cookies, visit [L90's privacy policy](http://www.l90.com/external_site/privacy_policy.html) page.
 
 We also use cookie technology through our PBS Online localization options. By entering your zip code and then your station, a cookie assigns you a unique number (with no meaning whatsoever outside the customization process) that recalls this information each time you visit. As a result, you are able to customize your browsing experiences for your local PBS station, putting your local public television schedule, community events, calendars and a link to your local station site at your fingertips every time you visit PBS Online. At no time will this cookie reveal to others your name, e-mail address, street address, or telephone number (even if you have entered these in other areas of PBS Online). You will always have the choice of opting out of any cookie-based activity on our site. 
 
@@ -36,7 +36,7 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 **Rules of the Road**
 
-Please also make sure to read PBS Online's [Rules of the Road](https://web.archive.org/web/20000620222126id_/http%3A//www.pbs.org/aboutsite/roadrules.html) to understand the additional terms and conditions which apply to your use of our sites.   
+Please also make sure to read PBS Online's [Rules of the Road](https://web.archive.org/web/20001204073200id_/http%3A//www.pbs.org/aboutsite/roadrules.html) to understand the additional terms and conditions which apply to your use of our sites.   
 
 
   
