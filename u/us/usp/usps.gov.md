@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usps.gov privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210145811id_/http%3A//www.usps.com/homearea/docs/privpol.htm%3Ffrom%3Dglobal%26page%3D0080privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usps.gov privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402031236id_/http%3A//www.usps.com/homearea/docs/privpol.htm%3Ffrom%3Dhome%26page%3D0080privacy) for the most accurate reproduction.*
 
 # USPS - Privacy Policy
 
@@ -101,6 +101,3 @@ We will investigate and respond to your inquiry. Your inquiry will be treated co
 From time to time as part of a special Postal Service promotion, such as stamp collecting, we may request information from children under 13 years of age. We will do so only with parental notice and consent. We will take all necessary steps to protect the privacy and safety of any child participating, in accordance with the Children’s Online Privacy Protection Act (COPPA). 
 
 [See Postal Service Collection of Information from Children](https://web.archive.org/homearea/docs/children.htm)
-
-  
-
