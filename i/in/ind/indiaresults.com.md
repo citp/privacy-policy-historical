@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaresults.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602202928id_/http%3A//www.indiaresults.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaresults.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802021532id_/http%3A//www3.indiaresults.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # IndiaResult.com: India's fastest growing career portal, indian examination results, indian exam results, india exam result, indian examination result, all examination results, professional and academic , rpet, rpmt, rpsc, rmat, ppt, iit, upsc
 
