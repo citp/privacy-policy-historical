@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123india.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606215849id_/http%3A//123india.com/p/p/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123india.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021021003id_/http%3A//123india.com/p/p/pp) for the most accurate reproduction.*
 
 # 123India.com Privacy Policy
 
