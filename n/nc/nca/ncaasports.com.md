@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncaasports.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606071447id_/http%3A//www.ncaasports.com/story/arc_story/11829) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncaasports.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208132149id_/http%3A//www.ncaasports.com/story/arc_story/11829) for the most accurate reproduction.*
 
 # - NCAA Sports.com
 
@@ -6,6 +6,9 @@
 
 
 Privacy Policy
+
+  
+_Effective Date: February 27, 2003_
 
 This privacy policy is applicable to the Site accessible at the universal resource locator NCAASports.com (the "Site"), which is operated by SportsLine.com, Inc. (collectively, the "SportsLine", "we", "our", or "us"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
