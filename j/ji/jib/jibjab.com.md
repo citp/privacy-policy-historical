@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612154842id_/http%3A//www.jibjab.com/PageLoader.aspx%3FPage%3Dprivacy_policy.htm%26title%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231093911id_/http%3A//www.jibjab.com/thislandprivacy.htm) for the most accurate reproduction.*
 
 # JibJab.com
 
-PRIVACY POLICY
-
-At JibJab Media Inc. ("JibJab"), we respect your right to privacy and we understand that visitors to JibJab Sites need to control the uses of their personal information. The privacy policy below details the measures taken by JibJab to protect your privacy in connection with your use of [www.JibJab.com](http://www.jibjab.com/) and other sites owned and operated by JibJab ("JibJab Sites"). JibJab does not intend to collect any personal information from children under 13 unless JibJab believes such collection to be permitted by law; please read below for JibJab's policy with respect to children under 13. 
+At JibJab Media Inc. ("JibJab"), we respect your right to privacy and we understand that visitors to JibJab Sites need to control the uses of their personal information. The privacy policy below details the measures taken by JibJab to protect your privacy in connection with your use of [www.JibJab.com](http://www.jibjab.com/) and other sites owned and operated by JibJab ("JibJab Sites").  JibJab does not intend to collect any personal information from children under 13 unless JibJab believes such collection to be permitted by law; please read below for JibJab's policy with respect to children under 13. 
 
 _How is my personally identifiable information used by JibJab?_
 
@@ -14,9 +12,9 @@ E-mail. If you register with our site or purchase products from us, from time to
 
 _When does JibJab collect my information, including personally identifiable information?_
 
-Registration. When you register, JibJab asks for your e-mail address, a user selected user name, and other information. Once you are a registered user you can update your profile and may be able to provide additional preferential information (e.g. a member name, a nickname, and certain user preferences). (JibJab's policy with respect to children under 13 is below)
+Registration. When you register by signing up for JibJab's newsletter, JibJab asks for your e-mail address, and other information. (JibJab's policy with respect to children under 13 is below)
 
-Order Forms and Products Store. JibJab also uses an order form for users to request information, products and services. For that order form, we collect a user's contact information (e-mail address) and necessary financial information to process the order (i.e. credit card number). Contact information from the order (including email) is used to deliver digital products and information from JibJab. JibJab may use third parties to accept and process orders and credit card purchases for merchandise and products, including software. For some products, Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed the store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/) for more information about how Yahoo! uses this information. 
+Order Forms and Products Store. JibJab also uses an order form for users to request information, products and services. For that order form, we collect a user's contact information (e-mail address) and necessary financial information to process the order (i.e. credit card number). Contact information from the order (including email) is used to deliver digital products and information from JibJab. JibJab may use third parties to accept and process orders and credit card purchases for merchandise and products, including software. For some products, Verisign hosts the ordering system, and order data. Verisign automatically collects order information but may only use this information in the aggregate. [Verisign's ](http://privacy.yahoo.com/) [Privacy Policy](http://verisign.com/truste/index.html?sl=071202) for more information about how Verisign uses this information. 
 
 Special Contests or Promotions. JibJab may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry in that contest or promotion, we may ask you to provide personal information. If we plan to share that information with the sponsor(s) or with others, we will provide a statement to that effect in the contest or promotion terms. 
 
@@ -46,11 +44,11 @@ In the event that JibJab is acquired by another company, your personal informati
 
 _What are my options to control the use of my personally identifiable information?_
 
-If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information from JibJab, including information about selected third parties. If you do not want to receive information from JibJab, you may decline to receive it (or "Opt-Out") either when you provide personal information to JibJab or you may [sign in](http://www.shockwave.com/bin/account/signin/form.jsp?site=sw&returnurl=http%3A//www.shockwave.com/sw/home/) and update your profile. You may also choose to Opt-Out from certain types of email by following the unsubscribe instructions that appear on each newsletter. You may also contact JibJab by postal mail at the address below. Please note that there might be a brief delay between when you submit your request to Opt-Out and when it is processed and reflected in our systems; accordingly you might continue to receive emails from us for a few days after you unsubscribe. We maintain records of those users who Opt-Out of specific email options so that we do not email them with respect to those types of emails; this information may also be contained in web logs (see above).
+If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information from JibJab, including information about selected third parties. If you do not want to receive information from JibJab, you may decline to receive it (or "Opt-Out") either when you provide personal information to JibJab. You may also choose to Opt-Out from certain types of email by following the unsubscribe instructions that appear on each newsletter. You may also contact JibJab by postal mail at the address below.  Please note that there might be a brief delay between when you submit your request to Opt-Out and when it is processed and reflected in our systems; accordingly you might continue to receive emails from us for a few days after you unsubscribe.  We maintain records of those users who Opt-Out of specific email options so that we do not email them with respect to those types of emails; this information may also be contained in web logs (see above).
 
 _What about kids' personally identifiable information?_
 
-The JibJab Sites are general audience sites and are not directed to children under the age of 13. JibJab assumes products purchased through credit card means are purchased by adults. JibJab respects the privacy of parents and children and is committed to complying with the Children's Online Privacy Protection Act (COPPA). On those areas of the Sites that ask for age, JibJab does not collect personal information from individuals who identify themselves as under the age of 13 except in those limited circumstances where JibJab believes that such collection is permitted under COPPA. 
+The JibJab Sites are general audience sites and are not directed to or intended for children under the age of 13. JibJab assumes products purchased through credit card means are purchased by adults. JibJab respects the privacy of parents and children and is committed to complying with the Children's Online Privacy Protection Act (COPPA). On those areas of the Sites that ask for age, JibJab does not collect personal information from individuals who identify themselves as under the age of 13 except in those limited circumstances where JibJab believes that such collection is permitted under COPPA. 
 
 If a parent believes that his or her child has submitted personal information to JibJab, he or she can contact us via e-mail or postal mail as listed below. JibJab will promptly delete the information upon learning that it relates to a child under the age of 13. Please note that it is possible some of this information may remain archived in web logs and back-up archives after JibJab deletes the information from its active database (see the Web Logs paragraph above, and the Archived Information paragraph below).
 
@@ -60,17 +58,13 @@ _What else should I know about my privacy?_
 
 Security. JibJab has security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption. 
 
-Chat Rooms and Other Public Areas. JibJab may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by JibJab's [Terms of Service](http://www.atomshockwave.com/asw_legal_terms.htm). You should take care to not use personal information in your screen name or other information that might be publicly available to other users.
+Chat Rooms and Other Public Areas. JibJab may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by JibJab's [Terms of Service](https://web.archive.org/web/20041231093911id_/http%3A//www.jibjab.com/thislandterms.htm). You should take care to not use personal information in your screen name or other information that might be publicly available to other users.
 
 Tell a Friend. If a user elects to use our referral service for informing a friend about our site or particular features or content, we ask them for the friend's name and email address. JibJab will automatically send the friend a one-time email inviting them to visit a JibJab Site. JibJab stores this information for the sole purpose of sending this one-time email. 
 
-Your personal information is password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish a session with JibJab in order to prevent others from accessing your personal information.
+You should take appropriate measures to protect the secrecy of your email account. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish a session with JibJab in order to prevent others from accessing your personal information.
 
 Archived Information. JibJab maintains archives of its web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after JibJab deletes the information from its active database (see the Web Logs paragraph above). JibJab maintains archives for disaster recovery, legal and other non-marketing purposes. 
-
-_How can I update my Profile?_
-
-You can help JibJab maintain the accuracy of your profile by notifying us when you change your address, title, phone number, or e-mail address. If at any time you wish to update your information or stop receiving communication from JibJab, [sign in](http://www.shockwave.com/bin/account/signin/form.jsp?site=sw&returnurl=http%3A//www.shockwave.com/sw/home/) and then select 'update your profile' to change your newsletter preferences.
 
 _Contacting JibJab._ __
 
@@ -80,11 +74,11 @@ You can e-mail JibJab at [inquire@JibJab.com](mailto:inquire@JibJab.com) or you 
 
 JibJab Media Inc.  
 Attn: JibJab Privacy  
-2660 Second Street, Suite 5  
-Santa Monica, CA 90405 USA
+1739 Berkeley Street, Suite 110A  
+Santa Monica, CA 90404  USA
 
 _Acceptance of Privacy Statement._ __
 
-Your use of the JibJab Sites, including any dispute concerning privacy, is subject to this Privacy Statement and JibJab's Terms and Conditions of Use. [By using the JibJab Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use](http://www.atomshockwave.com/asw_legal_terms.htm). We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the JibJab Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes.
+Your use of the JibJab Sites, including any dispute concerning privacy, is subject to this Privacy Statement and JibJab's Terms and Conditions of Use. [By using the JibJab Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use](https://web.archive.org/web/20041231093911id_/http%3A//www.jibjab.com/thislandterms.htm). We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the JibJab Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes.
 
-Updated as of January 22, 2004
+Updated as of July 6, 2004
