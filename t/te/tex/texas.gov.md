@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the texas.gov privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609155115id_/http%3A//www.texas.gov/page.jsp%3Flanguage%3Deng%26pageId%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texas.gov privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209050459id_/http%3A//www.texas.gov/page.jsp%3Flanguage%3Deng%26pageId%3Dprivacy) for the most accurate reproduction.*
 
 # TexasOnline : TexasOnline Privacy Policy
 
-[ Home](https://web.archive.org/web/20020609155115id_/http%3A//www.texas.gov/home.jsp?language=eng) : TexasOnline Privacy Policy[](https://web.archive.org/web/20020609155115id_/http%3A//www.texas.gov/category.jsp?language=eng&categoryId=)   
+[ Home](https://web.archive.org/web/20021209050459id_/http%3A//www.texas.gov/home.jsp?language=eng) : TexasOnline Privacy Policy[](https://web.archive.org/web/20021209050459id_/http%3A//www.texas.gov/category.jsp?language=eng&categoryId=)   
 
 
 TexasOnline is a portal established pursuant to Subchapter I of Chapter 2054, Texas Government Code and the authority of the Department of Information Resources. This policy describes the privacy practices of TexasOnline regarding information collected from visitors to the portal. It contains information about what data is collected and how that information is used. The TexasOnline privacy policy applies only to this portal. When you follow a link to another site, even the sites of state agencies and local governments, and when you provide information to an application operated by a state agency or local government, this policy will not apply. You should check the privacy policy of each governmental body if you have concerns about how they handle personally identifiable information. This policy applies only to information collected on TexasOnline itself. This policy may be updated periodically, so please check back from time to time. 
@@ -47,4 +47,4 @@ This site uses Secured Sockets Layer (SSL) for secure transmissions. SSL applies
 
 ### Contact Information
 
-If at any time you are concerned that your personal information held by a state agency or local government whose Web site is accessed through TexasOnline is incorrect and you are unsure as to how to correct or update it, please contact us at [privacy@texasonline.state.tx.us](mailto:privacy@texasonline.state.tx.us) or contact the appropriate government partner directly.
+If at any time you are concerned that your personal information held by a state agency or local government whose Web site is accessed through TexasOnline is incorrect and you are unsure as to how to correct or update it, please contact us at [webmaster@www.state.tx.us](mailto:webmaster@www.state.tx.us) or contact the appropriate government partner directly.
