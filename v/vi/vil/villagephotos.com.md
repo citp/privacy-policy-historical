@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villagephotos.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624040022id_/http%3A//villagephotos.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagephotos.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204222732id_/http%3A//villagephotos.com/privacy.asp) for the most accurate reproduction.*
 
 # VillagePhotos-Free photo hosting, free image hosting, picture upload, free picture hosting, eBay selling tools, listing management, picture hosting and image management.
 
