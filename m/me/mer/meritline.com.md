@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the meritline.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205233043id_/http%3A//meritline.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meritline.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004092947id_/http%3A//www.meritline.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Meritline.com :DVD-R Blank Media, CD-R MEDIA , Compactflash CARD,SMARTMEDIA CARD , HP, Epson Ink Jet Cartridges Privacy Policy
+# Meritline.com
 
-| | [](https://web.archive.org/web/20020205233043id_/http%3A//meritline.com/index.html)
+[****](https://web.archive.org/lib/meritline/RMAMeritline.doc)[****](https://web.archive.org/lib/meritline/RMAMeritline.doc)This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the Yahoo! Privacy Policy for more information about how Yahoo! uses this information.  
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
-* * *
-
-  
 **We are committed to protecting your privacy online.**   
 We created our Privacy Policy("Policy") in order to demonstrate our firm commitment to protecting the privacy of our shoppers. 
 
@@ -110,7 +106,6 @@ At Meritline.com you can be assured that your personal and account information i
 
 * * *
 
-  
 **When you access your account information, the information is kept on a secure server.**  
 All of the customer data we collect is protected against unauthorized access by physical security means.   
 
@@ -122,7 +117,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Attn: Customer Service  
 Meritline.com  
-14909 Clark Ave. Suite B  
-City of Industry
+16666 East Johnson Dr.  
+City of Industry, CA 91745
 
-You may also contact us by e-mail at sales@Meritline .com
+You may also contact us by e-mail at [sales@Meritline .com](mailto:sales@meritline%20.com)
