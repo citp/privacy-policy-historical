@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lassodevelopment.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218182324id_/http%3A//www.lassodevelopment.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lassodevelopment.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611204735id_/http%3A//lassodevelopment.com/privacy.htm) for the most accurate reproduction.*
 
-# Lasso Development
+# Lasso Development Privacy Statement
 
 **Lasso Development On Privacy**  
 Lasso Development knows you don't want the information you provide us shared indiscriminately. Here, we explain how we collect information, what we do with it, and what controls you have.
