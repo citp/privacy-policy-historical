@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607070333id_/http%3A//www.skyscape.com/index/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214093949id_/http%3A//www.skyscape.com/index/privacy.asp) for the most accurate reproduction.*
 
 # Skyscape.com: Privacy Policy
 
@@ -14,7 +14,7 @@ What we do with this information
 
 The requests for information allows Skyscape to provide services you have requested or to enhance your experience while visiting us. The information that we collect during a purchase is necessary for us to process your order, track the status of your order, and provide the best customer service possible.
 
-Skyscape will not sell your private information to any outside company for its use in marketing or solicitation. 
+Skyscape will not sell your private information to any outside company for its use in marketing or solicitation. Occasionally Skyscape will extend offers to our visitors from other businesses. When this is done, Skyscape will not give that business your email address or name.
 
 Skyscape may use customer information on an aggregate basis to better understand our users and to improve our services. Aggregate statistics may also be disclosed to potential advertisers and/or business partners. (For example, we might use the aggregate statistic "10% of Skyscape's users are from Massachusetts", but we would not give away that "Mr. John Doe, age 42, is from Boston, MA).
 
@@ -42,5 +42,5 @@ Change Policy
 
 We may periodically modify this privacy policy and will provide a notification of a change via a posting on the site or email or the software license. Your continued use of the Software, Site, or Services following the posting of changes to this privacy policy will indicate that you have accepted those changes. 
 
-"Good quality. Concise." _Kenneth Chan, Internal Medicine - Hayward, CA_   
+"Very easy to use. The interface is what sets Skyscape's products apart from the others." _Kent Willyard, Family Practice - Newport News, VA_   
 [Privacy Policy](http://www.skyscape.com/index/privacy.asp)
