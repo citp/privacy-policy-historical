@@ -1,9 +1,29 @@
-> *The following text is extracted and transformed from the themwc.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604021900id_/http%3A//www.fansonly.com/channels/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themwc.com privacy policy that was archived on 2001-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011015105431id_/http%3A//www.fansonly.com/channels/site/privacy.html) for the most accurate reproduction.*
 
 # FANSonly - Your Ticket to College Sports
 
-|   
-| 
+|    
+NEWS:  
+  [Teams](http://www.fansonly.com/teams/)  
+  [Recruiting](http://interact.fansonly.com/recruiting/)  
+  [Audio/Video](http://www.fansonly.com/channels/multimedia/)  
+  [Live Stats](http://www.fansonly.com/channels/gameday/livegames.html)  
+  
+FANSonly NETWORK:  
+  [Official Sites](http://www.fansonly.com/oas/)  
+  [FANSonly FANStore](http://www.fansonly.com/store/)  
+  [Wireless Updates](http://www.fansonly.com/wireless/)  
+  [NewsWire](http://www.fansonly.com/wire/)  
+  [About Us](http://www.fansonly.com/media/)  
+  [Company Overview](http://www.fansonly.com/media/flash-overview/fo-flash-overview.html)  
+  [Jobs at FANSonly](http://www.fansonly.com/media/jobs.html)  
+  
+INTERACTIVE:  
+  [Message Boards](http://bbs.fansonly.com/)  
+  [Games/Contests](http://interact.fansonly.com/)  
+  
+|  |  |   
+
 
 [www.fansonly.com](http://www.fansonly.com/)
 
