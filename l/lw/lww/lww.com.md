@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2000-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000608042226id_/http%3A//services.lww.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202173300id_/http%3A//services.lww.com/privacy.cfm) for the most accurate reproduction.*
 
 # Lippincott Williams & Wilkins - Privacy Statement for Lippincott Williams & Wilkins
 
@@ -39,7 +39,7 @@ You can visit the following URL: [/e-news/](https://web.archive.org/e-news)
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: Frank Roldan, Internet Marketing Lippincott Williams & Wilkins [froldan@lww.com](mailto:froldan@lww.com) | 
 
-|  **  Email Updates**  
+|  **  LWW.com Updates**  
 ---  
   
   
@@ -47,6 +47,8 @@ Be among the first to receive LWW new title information and exclusive offers via
       [ **Privacy Statement**](https://web.archive.org/privacy.cfm)  
   
   
+
+
 [](https://web.archive.org/rewards/)
 
 [](http://lww.com/store)
