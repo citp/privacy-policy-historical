@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gecareers.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207110700id_/http%3A//www.ge.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gecareers.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604053349id_/http%3A//www.ge.com/privacy.htm) for the most accurate reproduction.*
 
 # GE - Privacy Policy
 
