@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the thinkwave.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603194401id_/http%3A//www.thinkwave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkwave.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202125846id_/http%3A//thinkwave.com/privacy.html) for the most accurate reproduction.*
 
 # ThinkWave
 
 |  |   
 ---  
   
-| [Homepage](https://web.archive.org/web/20010603194401id_/http%3A//www.thinkwave.com/index.asp)  
+| [Homepage](https://web.archive.org/web/20011202125846id_/http%3A//thinkwave.com/index.asp)  
   
-| [How ThinkWave works](https://web.archive.org/web/20010603194401id_/http%3A//www.thinkwave.com/howworks.html)  
+| [How ThinkWave works](https://web.archive.org/web/20011202125846id_/http%3A//thinkwave.com/howworks.html)  
   
-| [Why use ThinkWave](https://web.archive.org/web/20010603194401id_/http%3A//www.thinkwave.com/benefits.asp)  
+| [Why use ThinkWave](https://web.archive.org/web/20011202125846id_/http%3A//thinkwave.com/benefits.asp)  
   
-| [What users are saying](https://web.archive.org/web/20010603194401id_/http%3A//www.thinkwave.com/testimonials.html)  
-| [Products and Services](https://web.archive.org/web/20010603194401id_/http%3A//www.thinkwave.com/productpage.asp)  
+| [What users are saying](https://web.archive.org/web/20011202125846id_/http%3A//thinkwave.com/testimonials.html)  
+| [Products and Services](https://web.archive.org/web/20011202125846id_/http%3A//thinkwave.com/productpage.asp)  
   
-| [FAQ](https://web.archive.org/web/20010603194401id_/http%3A//www.thinkwave.com/faq.asp)  
+| [FAQ](https://web.archive.org/web/20011202125846id_/http%3A//thinkwave.com/faq.asp)  
   
-| [Demo](https://web.archive.org/web/20010603194401id_/http%3A//www.thinkwave.com/demo.html)  
+| [Demo](https://web.archive.org/web/20011202125846id_/http%3A//thinkwave.com/demo.html)  
   
-| [Help](https://web.archive.org/web/20010603194401id_/http%3A//www.thinkwave.com/help.html)  
+| [Help](https://web.archive.org/web/20011202125846id_/http%3A//thinkwave.com/help.html)  
 |   
-[](https://web.archive.org/web/20010603194401id_/http%3A//www.thinkwave.com/productpage.asp)  
+[](https://web.archive.org/web/20011202125846id_/http%3A//thinkwave.com/productpage.asp)  
 |    
 
 
