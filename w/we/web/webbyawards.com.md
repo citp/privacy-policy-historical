@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202134900id_/http%3A//www.webbyawards.com/about/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405233037id_/http%3A//www.webbyawards.com/about/private.html) for the most accurate reproduction.*
 
 # Webby Awards : About : Privacy Policy
 
-| [](https://web.archive.org/web/20001202134900id_/http%3A//www.webbyawards.com/index.html)  
+| [](https://web.archive.org/web/20010405233037id_/http%3A//www.webbyawards.com/index.html)  
 |  |  |  |   
 ---|---  
   
@@ -25,7 +25,7 @@
 
 
 
-The Webby Awards and The International Academy of Digital Arts and Sciences are committed to protecting your privacy. We understand that the information we collect about you is your information, and we intend to keep it that way. Concerned about security? Read our policy [here](https://web.archive.org/web/20001202134900id_/http%3A//www.webbyawards.com/about/security.html). 
+The Webby Awards and The International Academy of Digital Arts and Sciences are committed to protecting your privacy. We understand that the information we collect about you is your information, and we intend to keep it that way. Concerned about security? Read our policy [here](https://web.archive.org/web/20010405233037id_/http%3A//www.webbyawards.com/about/security.html). 
 
 The Webby Awards Web site has been licenced to display the BetterWebSM Seal. In displaying the BetterWeb Seal, Webby Awards Inc. is informing its customers that its Web site complies with the BetterWeb disclosure standards for privacy, security, sales terms and customer complaint policies. The BetterWeb Seal is licensed to online businesses that commit to the BetterWeb Standards for clear, comprehensive and easy-to-find policy disclosures that allow consumers to make informed choices when doing business online. 
 
