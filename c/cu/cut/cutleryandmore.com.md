@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015104345id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303170933id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
 
 # CutleryAndMore.com: Wusthof Knives, All Clad Cookware, Henckels Cutlery, Calphalon, Le Creuset, John Boos & More.
 
@@ -35,14 +35,13 @@ Our site uses an order form for customers to request information, products, and 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We offer a Secure Socket Layer server on our ordering pages by which you will send your ordering information so the data will be sent and is able to be viewed ONLY by CutleryAndMore.com.  
 To contact us you may:  
   
-email [info@cutleryandmore.com](mailto:info@cutleryandmore.com)  
-call the following telephone number: 1-800-650-9866  
+email: [info@cutleryandmore.com](mailto:info@cutleryandmore.com)  
   
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 CutleryAndMore.com  
-645 Lunt Ave.  
+951 Nicholas Blvd.  
 Elk Grove, IL 60007  
 [info@cutleryandmore.com](mailto:info@cutleryandmore.com)  
   
