@@ -1,66 +1,98 @@
-<!--The following is the downloaded HTML source of the norml.org privacy policy that was archived on 2002-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206100821id_/http%3A//www.norml.org/index.cfm%3FGroup_ID%3D4487) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the norml.org privacy policy that was archived on 2003-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603194152id_/http%3A//norml.org/index.cfm%3FGroup_ID%3D4487) for the most accurate reproduction.-->
 
 <html><head>
 <script language="JavaScript"><!--
+
+var days = 6; // valid almost 1 week from now
+var today = new Date();
+
+var expires_date = new Date(today.getTime() + (days * 86400000));
+
+
 function Get_Cookie(name) {
+
     var start = document.cookie.indexOf(name+"=");
+	//alert(document.cookie);
+
     var len = start+name.length+1;
-    if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
+
+   if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
+
     if (start == -1) return null;
+
     var end = document.cookie.indexOf(";",len);
+
     if (end == -1) end = document.cookie.length;
+
     return unescape(document.cookie.substring(len,end));
 }
 
+
+
 function Set_Cookie(name,value,expires,path,domain,secure) {
-    document.cookie = name + "=" +escape(value) +
+
+	   document.cookie = name + "=" +escape(value) +
+
         ( (expires) ? ";expires=" + expires.toGMTString() : "") +
+
         ( (path) ? ";path=" + path : "") + 
+
         ( (domain) ? ";domain=" + domain : "") +
+
         ( (secure) ? ";secure" : "");
 }
 
+
+
 function Delete_Cookie(name,path,domain) {
+
     if (Get_Cookie(name)) document.cookie = name + "=" +
+
         ( (path) ? ";path=" + path : "") +
+
         ( (domain) ? ";domain=" + domain : "") +
+
         ";expires=Thu, 01-Jan-1970 00:00:01 GMT";
 }
 
-function Popup() {
-	win = open('campaign/index.html','homepopup','toolbar=no,directories=no,menubar=no,height=260,width=300,status=no,scrollbars=no');
-	return true;
-}
 
-var days = 14; // valid two weeks from now
+
+function Popup() {
+
+	win = open('campaign/index.html','homepopup','toolbar=no,directories=no,menubar=no,height=240,width=300,status=no,scrollbars=no');
+
+	return true;
+
+}
 
 function isCookieEnabled() {
+
    if (document.all) return navigator.cookieEnabled;
+
    Set_Cookie('testcookie',today.getTime());
+
    var tc = Get_Cookie('testcookie');
+
    Delete_Cookie('testcookie');
+
    return (tc == today.getTime());
+
 }
+
+
 
 function FirstTimeVisitor() {
 
-	var beenHere = Get_Cookie('NORML_Visited');
-	if (beenHere == 'yes') {}
-	else if (isCookieEnabled()) {
+	var beenHere = Get_Cookie('NORML_Conf');
+	if (beenHere == 'yes') {
+		return true;
+	} else if (isCookieEnabled()) {
 		Popup();
-		Set_Cookie('NORML_Visited','yes',expires_date);
+		Set_Cookie('NORML_Conf','yes',expires_date);
 	}
 	return true;
 }
-
-var today = new Date();
-var zero_date = new Date(0,0,0);
-today.setTime(today.getTime() - zero_date.getTime());
-
-var todays_date = new
-Date(today.getYear(),today.getMonth(),today.getDate(),0,0,0);
-var expires_date = new Date(todays_date.getTime() + (days * 86400000));
 
 //--></script>
 <title>NORML Home / Privacy Statement</title>
@@ -71,7 +103,7 @@ var expires_date = new Date(todays_date.getTime() + (days * 86400000));
 </script>
 </head>
 
-<body bgcolor="#CCCC99" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body bgcolor="#CCCC99" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="FirstTimeVisitor();">
 <a name="top"></a>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -243,6 +275,13 @@ var expires_date = new Date(todays_date.getTime() + (days * 86400000));
 	<tr valign="top"> 
  <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
  <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/bullet_new.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3418"><font color="#FFFFFF">Frequently Asked Questions</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/bullet_new.gif" width="16" height="15"></td>
  <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3442"><font color="#FFFFFF">News Archive</font></a></td>
  <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
  <td><img src="spacer.gif" width="5" height="12"></td>
@@ -258,6 +297,13 @@ var expires_date = new Date(todays_date.getTime() + (days * 86400000));
 	<tr> 
  <td bgcolor="#006600" colspan="2" width="21">&nbsp;</td>
  <td bgcolor="#006600"><img src="mainmenu/separator.gif" width="132" height="11"></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=5481"><font color="#FFFFFF">NORML In The Media</font></a></td>
  <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
  <td><img src="spacer.gif" width="5" height="12"></td>
 	</tr>
@@ -368,7 +414,7 @@ var expires_date = new Date(todays_date.getTime() + (days * 86400000));
 	</tr>
 	<tr valign="top"> 
  <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
- <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/bullet_new.gif" width="16" height="15"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
  <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3456"><font color="#FFFFFF">T-shirts &amp; Products</font></a></td>
  <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
  <td><img src="spacer.gif" width="5" height="12"></td>
