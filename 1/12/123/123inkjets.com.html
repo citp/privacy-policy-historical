@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 123inkjets.com privacy policy that was archived on 2004-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html%3Fshow%3Dprivacy%26frm%3Dbnav) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 123inkjets.com privacy policy that was archived on 2004-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html%3Fshow%3Dprivacy%26frm%3Dbnav) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>123inkjets.com -  General Information </title>
@@ -477,20 +477,22 @@ var URL = document.form.site.options[document.form.site.selectedIndex].value;
 window.location.href = URL;
 }
 --></script>
-<script language="javascript">var win = null;
+<script language="javascript">
+var win = null;
 function NewWindow(mypage,myname,w,h,scroll){
 LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
 TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
 settings =
-'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable'
-win = window.open(mypage,myname,settings)
-win.creator=self
+'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable';
+win = window.open(mypage,myname,settings);
+win.focus();
+win.creator=self;
 }
 </script><script language="Javascript"><!--
 				var pc_exitpop_suppress = 1;
 				var PopUpFlag = true;
 					function popit() {
-						var popup_win = window.open('http://www.123inkjets.com/promo_june04.html','exit_popup','titlebar=no,toolbar=no,location=no,menu=no,directories=no,resizable=yes,status=no,scrollbars=no,width=10,height=10,top=2000');
+						var popup_win = window.open('http://www.123inkjets.com/promo_dec2004.html','exit_popup','titlebar=no,toolbar=no,location=no,menu=no,directories=no,resizable=yes,status=no,scrollbars=no,width=10,height=10,top=2000');
 						return true;
 					}
 				function suppress() {
@@ -501,157 +503,7 @@ win.creator=self
 				//  if(PopUpFlag) { popit(); }
 				}
 			-->
-		</script>
-<script language="JavaScript">
-
-// Browser Detection
-isMac = (navigator.appVersion.indexOf("Mac")!=-1) ? true : false;
-NS4 = (document.layers) ? true : false;
-IEmac = ((document.all)&&(isMac)) ? true : false;
-IE4plus = (document.all) ? true : false;
-IE4 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 4.")!=-1)) ? true : false;
-IE5 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 5.")!=-1)) ? true : false;
-
-IE6 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 6.")!=-1)) ? true : false;
-ver4 = (NS4 || IE4plus) ? true : false;
-NS6 = (!document.layers) && (navigator.userAgent.indexOf("Netscape")!=-1)?true:false;
-
-IE5plus = IE5 || IE6;
-IEMajor = 0;
-
-if (IE4plus)
-{
-	var start = navigator.appVersion.indexOf("MSIE");
-	var end = navigator.appVersion.indexOf(".",start);
-	IEMajor = parseInt(navigator.appVersion.substring(start+5,end));
-	IE5plus = (IEMajor>=5) ? true : false;
-}
-
-// Body onload utility (supports multiple onload functions)
-var gSafeOnload = new Array();
-function SafeAddOnload(f)
-{
-	if (IEmac && IE4)  // IE 4.5 blows out on testing window.onload
-	{
-		window.onload = SafeOnload;
-		gSafeOnload[gSafeOnload.length] = f;
-	}
-	else if  (window.onload)
-	{
-		if (window.onload != SafeOnload)
-		{
-			gSafeOnload[0] = window.onload;
-			window.onload = SafeOnload;
-		}		
-		gSafeOnload[gSafeOnload.length] = f;
-	}
-	else
-		window.onload = f;
-}
-function SafeOnload()
-{
-	for (var i=0;i<gSafeOnload.length;i++)
-		gSafeOnload[i]();
-}
-
-function isInt(numIn)
-{
-	var checknum = parseInt(numIn);
-	return !isNaN(checknum);
-}
-
-function PUW_Init()
-{
-	if (gPopupWindow.CheckFrequency())
-	{
-		setTimeout("gPopupWindow.Show()",gPopupWindow.showDelay);
-	}
-}
-
-function PUW_Show()
-{
-	var settings = "width="+this.width+",height="+this.height+",top="+this.top+",left="+this.left+",";
-	settings += "scrollbars=" + ((this.scrollbars) ? "yes," : "no,");
-	settings += "toolbar=" + ((this.toolbar) ? "yes," : "no,");
-	settings += "location=" + ((this.locationbar) ? "yes," : "no,");
-	settings += "menubar=" + ((this.menubar) ? "yes," : "no,");
-	settings += "status=" + ((this.statusbar) ? "yes," : "no,");
-	settings += "resizable=" + ((this.resizable) ? "yes" : "no");
-	
-	var newWin = window.open(this.url,this.name,settings);
-	
-	if (! this.ontop)
-		window.focus();
-}
-
-function PUW_CheckFrequency()
-{
-	var shouldShow = this.frequency != 0;
-	if (this.frequency > 0)
-	{
-		var allCookies = document.cookie;
-		var start = allCookies.indexOf("PUWCount=");
-		if (start >= 0)
-		{
-			var end = allCookies.indexOf(";",start);
-			if (end < 0)
-				end = allCookies.length;
-			var freqStr = allCookies.substring(start+9,end);
-			if (isInt(freqStr))
-				this.frequency = parseInt(freqStr);
-		}
-
-		if (this.frequency>0)
-			this.frequency--;
-		else
-			shouldShow = false;
-			
-		var exp = new Date();
-		exp.setTime(exp.getTime()+this.renew*60*60000);
-		document.cookie = "PUWCount="+this.frequency+ "; expires=" + exp.toGMTString();
-	}
-	
-	return shouldShow;
-}
-
-
-function PopupWindow(url,width,height)
-{
-	this.width = width;
-	this.height = height;
-	this.top = screen.availHeight/2 - height/2; // center
-	this.left = screen.availWidth/2 - width/2; // center
-	this.name = "mypopupwin";
-	this.url = url;
-	this.showDelay = 2000;
-	this.frequency = 1; // Pop frequency
-	this.renew = 48000; // renew showing every x hours
-	this.scrollbars= true;
-	this.toolbar= false;
-	this.statusbar= false;
-	this.resizable = false;
-	this.locationbar = false;
-	this.menubar = false;
-	this.ontop = true;
-	this.Init = PUW_Init;
-	this.Show = PUW_Show;
-	this.CheckFrequency = PUW_CheckFrequency;
-}
-
-function PUWStart()
-{
-	gPopupWindow.Init();
-}
-
-SafeAddOnload(PUWStart);
-
-gPopupWindow = new PopupWindow("scontent.html?show=april2pop", 520, 245);
-gPopupWindow.toolbar = false;
-gPopupWindow.statusbar = false;
-gPopupWindow.resizable = false;
-gPopupWindow.ontop = true;
-
-</script><script language="JavaScript"><!-- 
+		</script><script language="JavaScript"><!-- 
 		function bookmark() {
   		if (window.external) {
     	window.external.AddFavorite('http://www.123inkjets.com/?frm=tnav', '123inkjets.com - Inkjet Cartridges & Laser Toners');
@@ -664,113 +516,99 @@ gPopupWindow.ontop = true;
 
 </head>
 
-<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="PUWStart()">
+<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
 <!-- header area -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr bgcolor="003196">
-		<td width="20" height="24" align="left" valign="middle"><img src="images/spacer.gif" height="1" width="20" border="0"></td>
-		<td width="289" align="left" valign="middle" height="24"><a href="index.html?frm=logo"><img src="images/topnav/logo_top.gif" width="289" height="24" border="0"></a></td>
-		<td width="100%" height="24" align="center" valign="bottom"><img src="images/spacer.gif" height="1" width="100%" border="0"></td>
-		<td width="334" height="24" colspan="2" align="right" valign="middle">
-		  <table width="334" cellpadding="0" cellspacing="0" border="0" height="18">
+	<tbody><tr bgcolor="#990000">
+		<td width="20" height="24" align="left" valign="middle"><img src="/images/spacer.gif" height="1" width="20" border="0"></td>
+		<td width="289" align="left" valign="middle" height="24"><a href="/index.html?frm=logo"><img src="/images/topnav/xmas/logo_top.gif" border="0" alt="123Inkjets.com - Printer Ink, Toner &amp; More"></a></td>
+		<td height="24" width="100%" align="center"><img src="/images/spacer.gif" height="1" width="100%" border="0"></td>
+		<td height="24" colspan="2" align="right" valign="middle">
+		  <table width="225" cellpadding="0" cellspacing="0" border="0" height="18" align="right">
 			<tbody><tr>
-				<td><a href="javascript:bookmark();" onmouseover="window.status='Bookmark 123inkjets.com  (www.123inkjets.com)'; return true"><img src="images/bookmark.gif" border="0" width="84" height="18" alt="Bookmark 123inkjets.com"></a></td>
-				<td><a href="http://www.123inkjets.com/customers.html?frm=tnav"><img src="images/login.gif" width="84" height="18" border="0"></a></td>
-				<td><a href="http://www.123inkjets.com/cart.html?frm=tnav"><img src="images/cart.gif" border="0" width="124" height="18"></a></td>
-			  <td><a onclick="suppress();" href="http://www.123inkjets.com/content.html?show=helpdesk&amp;frm=tnav"><img border="0" src="images/help.gif" alt="Help Desk" width="42" height="18"></a></td></tr>
+				<td style="font-size: 10px; color: #FFFFFF;">» <a style="color: #FFFFFF;" href="http://www.123inkjets.com/cart.html?frm=tnav">Shopping Cart</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color: #FFFFFF;" href="http://www.123inkjets.com/customers.html?frm=tnav">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color: #FFFFFF;" href="http://www.123inkjets.com/content.html?show=helpdesk&amp;frm=tnav">Help</a>&nbsp;&nbsp;</td></tr>
 	  </tbody></table></td>
   </tr>
 	<tr>
-	  <td height="21" align="left" valign="middle">&nbsp;</td>
-	  <td width="289" align="left" valign="middle" height="21"><a href="index.html?frm=logo"><img src="images/topnav/logo_bot.gif" width="289" height="36" border="0"></a></td>
-	  <td width="100%" height="21" align="center" valign="bottom">&nbsp;</td>
-	  <td height="21" align="right" width="220" valign="bottom"><img src="images/spacer.gif" height="1" width="220" border="0"></td>
-	  <td height="21" align="right" width="114" valign="bottom"><a onclick="NewWindow(this.href,'name','520','245','yes');return false" target="new" href="scontent.html?show=april2pop"><img src="images/topnav/500giv/cool_tnav_01.gif" width="113" height="14" border="0" align="absbottom"></a></td>
+	  <td align="left" valign="middle" height="21" colspan="5" background="/images/topnav/xmas/xmas_bk_top.gif"><img src="/images/spacer.gif" height="1" width="20" border="0"><a href="/index.html?frm=logo"><img src="/images/topnav/xmas/logo_bot.gif" border="0" alt="123Inkjets.com - Printer Ink, Toner &amp; More"></a></td>
   </tr>
 </tbody></table>
 <!-- end header area -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-       <td colspan="15" align="center">
-	   
+       <td align="center" valign="bottom" height="50" background="/images/topnav/xmas/xmas_bk_bot.gif">
 <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
-  <tbody><tr> 
-    <td width="50%" rowspan="3"><img src="images/spacer.gif" width="100%" height="1" border="0"></td> 
-    <td width="4" rowspan="3"><img src="images/spacer.gif" width="1" height="1" border="0"></td>
-    <td height="1" colspan="3" width="131" align="right"><img src="images/spacer.gif" width="1" height="20" border="0"></td> 
-    <td width="4" rowspan="3"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td height="1" colspan="3" width="96" align="right"><img src="images/spacer.gif" width="1" height="20" border="0"></td> 
-    <td width="4" rowspan="3"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td height="1" colspan="3" width="71" align="right"><img src="images/spacer.gif" width="1" height="20" border="0"></td> 
-    <td width="4" rowspan="3"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td height="1" colspan="3" width="76" align="right"><img src="images/spacer.gif" width="1" height="20" border="0"></td> 
-    <td width="4" rowspan="3"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td height="1" colspan="3" width="55" align="right"><img src="images/spacer.gif" width="1" height="20" border="0"></td> 
-    <td width="4" rowspan="3"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td height="1" colspan="3" width="62" align="right"><img src="images/spacer.gif" width="1" height="20" border="0"></td> 
-    <td width="4" rowspan="3"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td height="1" colspan="3" width="80" align="right"><img src="images/spacer.gif" width="1" height="20" border="0"></td>
-	<td width="4" rowspan="3"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td width="50%" rowspan="3" align="right"><a onclick="NewWindow(this.href,'name','520','245','yes');return false" target="new" href="scontent.html?show=april2pop"><img src="images/topnav/500giv/cool_tnav_02.gif" width="113" height="45" border="0"></a></td>
+  <tbody><tr>
+  <td width="50%">&nbsp;</td>
+  <td valign="bottom">
+  <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+  <tbody><tr>
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_lft_01.gif" width="4" height="25" alt=""></td> 
+    <td width="123" height="1" bgcolor="#990000"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_rt_01.gif" width="4" height="25" alt=""></td>
+	<td width="1" height="1" rowspan="2"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_lft_01.gif" width="4" height="25" alt=""></td>
+    <td width="98" height="1" bgcolor="#990000"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_rt_01.gif" width="4" height="25" alt=""></td>
+	<td width="1" height="1" rowspan="2"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_lft_01.gif" width="4" height="25" alt=""></td>
+    <td width="63" height="1" bgcolor="#990000"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_rt_01.gif" width="4" height="25" alt=""></td>
+	<td width="1" height="1" rowspan="2"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_lft_01.gif" width="4" height="25" alt=""></td>
+    <td width="68" height="1" bgcolor="#990000"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_rt_01.gif" width="4" height="25" alt=""></td>
+	<td width="1" height="1" rowspan="2"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_lft_01.gif" width="4" height="25" alt=""></td>
+    <td width="47" height="1" bgcolor="#990000"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_rt_01.gif" width="4" height="25" alt=""></td>
+	<td width="1" height="1" rowspan="2"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+	<td width="4" rowspan="2"><img src="/images/topnav/xmas/off_lft_01.gif" width="4" height="25" alt=""></td>
+    <td width="47" height="1" bgcolor="#990000"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_rt_01.gif" width="4" height="25" alt=""></td>
+	<td width="1" height="1" rowspan="2"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_lft_01.gif" width="4" height="25" alt=""></td>
+    <td width="54" height="1" bgcolor="#990000"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_rt_01.gif" width="4" height="25" alt=""></td>
+	<td width="1" height="1" rowspan="2"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+	<td width="4" rowspan="2"><img src="/images/topnav/xmas/off_lft_01.gif" width="4" height="25" alt=""></td>
+    <td width="54" height="1" bgcolor="#990000"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/xmas/off_rt_01.gif" width="4" height="25" alt=""></td>
+	<td width="1" height="1" rowspan="2"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/rec_off_lft_01.gif" width="4" height="25" alt=""></td>
+    <td width="62" height="1" bgcolor="006600"><img src="/images/spacer.gif" width="1" height="1" border="0"></td> 
+    <td width="4" rowspan="2"><img src="/images/topnav/rec_off_rt_01.gif" width="4" height="25" alt=""></td>
   </tr> 
   <tr>
-    <td width="4" rowspan="2"><img src="images/topnav/on_lft_01.gif" width="4" height="25" alt=""></td> 
-    <td width="123" height="1" bgcolor="003196"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td width="4" rowspan="2"><img src="images/topnav/on_rt_01.gif" width="4" height="25" alt=""></td>
-    <td width="4" rowspan="2"><img src="images/topnav/off_lft_01.gif" width="4" height="25" alt=""></td>
-    <td width="98" height="1" bgcolor="003196"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td width="4" rowspan="2"><img src="images/topnav/off_rt_01.gif" width="4" height="25" alt=""></td>
-    <td width="4" rowspan="2"><img src="images/topnav/off_lft_01.gif" width="4" height="25" alt=""></td>
-    <td width="63" height="1" bgcolor="003196"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td width="4" rowspan="2"><img src="images/topnav/off_rt_01.gif" width="4" height="25" alt=""></td>
-    <td width="4" rowspan="2"><img src="images/topnav/off_lft_01.gif" width="4" height="25" alt=""></td>
-    <td width="68" height="1" bgcolor="003196"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td width="4" rowspan="2"><img src="images/topnav/off_rt_01.gif" width="4" height="25" alt=""></td>
-    <td width="4" rowspan="2"><img src="images/topnav/off_lft_01.gif" width="4" height="25" alt=""></td>
-    <td width="47" height="1" bgcolor="003196"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td width="4" rowspan="2"><img src="images/topnav/off_rt_01.gif" width="4" height="25" alt=""></td>
-    <td width="4" rowspan="2"><img src="images/topnav/off_lft_01.gif" width="4" height="25" alt=""></td>
-    <td width="54" height="1" bgcolor="003196"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td width="4" rowspan="2"><img src="images/topnav/off_rt_01.gif" width="4" height="25" alt=""></td>
-    <td width="4" rowspan="2"><img src="images/topnav/off_lft_01.gif" width="4" height="25" alt=""></td>
-    <td width="62" height="1" bgcolor="003196"><img src="images/spacer.gif" width="1" height="1" border="0"></td> 
-    <td width="4" rowspan="2"><img src="images/topnav/off_rt_01.gif" width="4" height="25" alt=""></td>
+    <td bgcolor="#FFEBEB" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/index.html?frm=tnav">Ink Cartridges</a></b>&nbsp;</td> 
+    <td bgcolor="#FFEBEB" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/toner.html?frm=tnav">Laser Toners</a></b>&nbsp;</td> 
+    <td bgcolor="#FFEBEB" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/ribbon.html?frm=tnav">Ribbons</a></b>&nbsp;</td> 
+    <td bgcolor="#FFEBEB" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/solidink.html?frm=tnav">Solid Ink</a></b>&nbsp;</td> 
+    <td bgcolor="#FFEBEB" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/paper.html?frm=tnav">Paper</a></b>&nbsp;</td>
+	<td bgcolor="#FFEBEB" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/media.html?frm=tnav">Media</a></b>&nbsp;</td> 
+    <td bgcolor="#FFEBEB" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/cable.html?frm=tnav">Cables</a></b>&nbsp;</td> 
+    <td bgcolor="#FFEBEB" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/memory.html?frm=tnav">Memory</a></b>&nbsp;</td> 
+    <td bgcolor="#006600" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a style="color: #FFFFFF;" href="/content.html?show=recycle&amp;frm=tnav">Recycle</a></b>&nbsp;</td> 
   </tr> 
-  <tr>
-    <td bgcolor="#003196" class="topNavon" align="center" height="24" nowrap="">&nbsp;<b><a href="/index.html?frm=tnav">Inkjet Cartridges</a></b>&nbsp;</td> 
-    <td bgcolor="#F1F1F1" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/toner.html?frm=tnav">Laser Toners</a></b>&nbsp;</td> 
-    <td bgcolor="#F1F1F1" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/ribbon.html?frm=tnav">Ribbons</a></b>&nbsp;</td> 
-    <td bgcolor="#F1F1F1" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/solidink.html?frm=tnav">Solid Ink</a></b>&nbsp;</td> 
-    <td bgcolor="#F1F1F1" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/paper.html?frm=tnav">Paper</a></b>&nbsp;</td> 
-    <td bgcolor="#F1F1F1" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/cable.html?frm=tnav">Cables</a></b>&nbsp;</td> 
-    <td bgcolor="#F1F1F1" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/content.html?show=recycle&amp;frm=tnav">Recycle</a></b>&nbsp;</td> 
-  </tr> 
-</tbody></table>
-
-
+</tbody></table></td><td width="50%" align="right" valign="bottom">&nbsp;</td>
+</tr></tbody></table>
 </td>
 	</tr>
 	<!-- sub nav area -->
 	<tr>
-		<td width="100%" height="24" align="center" valign="middle" colspan="15" class="subNav" bgcolor="003196" style="color: #FFFFFF;">		&nbsp;&nbsp;&nbsp;
-		<a href="http://www.123inkjets.com/prodcon.html?group=1&amp;snav=inkjetcartridges&amp;type=Apple&amp;frm=tnav">Apple</a>&nbsp;|&nbsp;
-		<a href="http://www.123inkjets.com/prodcon.html?group=1&amp;snav=inkjetcartridges&amp;type=Brother&amp;frm=tnav">Brother</a>&nbsp;|&nbsp;
-		<a href="http://www.123inkjets.com/prodcon.html?group=1&amp;snav=inkjetcartridges&amp;type=Canon&amp;frm=tnav">Canon</a>&nbsp;|&nbsp;
-		<a href="http://www.123inkjets.com/prodcon.html?group=1&amp;snav=inkjetcartridges&amp;type=Compaq&amp;frm=tnav">Compaq</a>&nbsp;|&nbsp;
-		<a href="http://www.123inkjets.com/prodcon.html?group=1&amp;snav=inkjetcartridges&amp;type=Epson&amp;frm=tnav">Epson</a>&nbsp;|&nbsp;
-		<a href="http://www.123inkjets.com/prodcon.html?group=1&amp;snav=inkjetcartridges&amp;type=Hewlett%20Packard&amp;frm=tnav">Hewlett Packard</a>&nbsp;|&nbsp;
-		<a href="http://www.123inkjets.com/prodcon.html?group=1&amp;snav=inkjetcartridges&amp;type=Lexmark&amp;frm=tnav">Lexmark</a>&nbsp;|&nbsp;
-		<a href="http://www.123inkjets.com/prodcon.html?group=1&amp;snav=inkjetcartridges&amp;type=Xerox&amp;frm=tnav">Xerox</a>&nbsp;|&nbsp;
-		<a href="http://www.123inkjets.com/prodcon.html?group=1&amp;snav=inkjetcartridges&amp;type=allbrands&amp;frm=tnav">All Brands</a>&nbsp;&nbsp;&nbsp;		</td>
+		<td width="100%" height="24" align="center" valign="middle" class="subNav" bgcolor="#990000" style="color: #FFFFFF;">		</td>
 	</tr>
 	<tr>
-		<td width="100%" height="3" align="left" valign="middle" colspan="15" bgcolor="#92AFEC"><img src="images/dot_clear.gif" width="1" height="1" border="0" alt=""></td>
+		<td width="100%" align="right" height="18" colspan="15" bgcolor="#FFEBEB"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+</tr><tr>
+		<td width="100%" height="18" align="center" colspan="15" bgcolor="#FFEBEB"><a href="/content.html?show=shipping&amp;frm=bnav"><img src="/images/topnav/xmas/xmas_bar_01.gif" border="0"></a><a href="/content.html?show=returns"><img src="/images/topnav/xmas/xmas_bar_02.gif" border="0"></a><a href="/content.html?show=guarantee"><img src="/images/topnav/xmas/xmas_bar_03.gif" border="0"></a></td>
 	</tr>
 	<tr>
-		<td width="100%" height="18" align="center" colspan="15" bgcolor="#E3EBFE"><a href="content.html?show=shipping"><img src="images/topnav/shipping_topnav_top.gif" width="440" height="18" border="0" alt="Free Shipping on Everything. Always! Click here to view details."></a></td>
+		<td width="100%" height="12" align="center" colspan="15" bgcolor="#FFFFFF"><a href="/content.html?show=shipping&amp;frm=bnav"><img src="/images/topnav/xmas/xmas_bar_04.gif" border="0"></a><a href="/content.html?show=returns"><img src="/images/topnav/xmas/xmas_bar_05.gif" border="0"></a><a href="/content.html?show=guarantee"><img src="/images/topnav/xmas/xmas_bar_06.gif" border="0"></a></td>
 	</tr>
-	<tr>
-		<td width="100%" height="12" align="center" colspan="15" bgcolor="#FFFFFF"><img src="images/topnav/shipping_topnav_bot.gif" width="440" height="12" border="0" alt=""></td>
-	</tr>
+
+</tbody></table>
+	</td></tr>
 	<!-- end sub nav area -->
 </tbody></table>
 <table border="0" cellspacing="0" cellpadding="0" width="100%" style="margin:5px 0px 10px 0px;">
@@ -778,7 +616,7 @@ gPopupWindow.ontop = true;
 		<td>&nbsp;  <img src="images/customerassistance.gif"></td>
 	</tr>
 	<tr>
-		<td class="custserv_top_links">&nbsp; &nbsp; <a href="index.html">Return to Shopping</a> | <a href="content.html?show=helpdesk">Help Desk</a> | <a href="content.html?show=faqs">FAQs</a></td>
+		<td class="custserv_top_links">&nbsp; &nbsp; <a href="index.html">Return to Shopping</a> | <a href="content.html?show=helpdesk">Help Desk</a> | <a href="content.html?show=faq">FAQs</a></td>
 	</tr>
 </tbody></table>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -786,7 +624,9 @@ gPopupWindow.ontop = true;
 		<td valign="top" width="240">
 		<table border="0" cellspacing="0" cellpadding="2" width="100%">
 			<tbody><tr>
-				<td><a href="content.html?show=customerserv"><img src="images/cs_lady_sidenav.gif" border="0" style="margin:4px 0px 8px 0px;"></a></td>
+				<td><!-- BEGIN PHP Live! code, (c) OSI Codes Inc. -->
+<script language="JavaScript" src="http://im.zbeta.com/js/status_image.php?base_url=http://im.zbeta.com&amp;l=imadmin&amp;x=1&amp;deptid=1&amp;btn=1"></a></script>
+<!-- END PHP Live! code : (c) OSI Codes Inc. --></td>
 			</tr>
 		</tbody></table>
 		<font class="bblue"><nobr>Company Information</nobr></font><br>
@@ -1089,7 +929,7 @@ by email at <a href="mailto:privacy@inkjetorder.com">privacy@inkjetorder.com</a>
 	</tr>
 </tbody></table><br>
 <table border="1" style="border-collapse: collapse" bordercolor="#999999" width="99%" cellpadding="0" cellspacing="0" align="center">
-	<tbody><tr height="1"><td bgcolor="#003399"></td></tr>
+	<tbody><tr height="1"><td bgcolor="#990000"></td></tr>
 	<tr> 
 		<td> 
 		<table width="100%" cellpadding="0" cellspacing="0">
@@ -1118,7 +958,7 @@ by email at <a href="mailto:privacy@inkjetorder.com">privacy@inkjetorder.com</a>
 					</tr>
 					<tr>
 						<td class="bottom_links"><div align="center">For Customer Service:<br>
-						(888) 465-7765<br>
+						<font color="000000"><b>(888) 465-7765</b></font><br>
 						M-F 6am - 6pm PT </div></td>
 					</tr>
 					<tr>
@@ -1127,7 +967,7 @@ by email at <a href="mailto:privacy@inkjetorder.com">privacy@inkjetorder.com</a>
 				</tbody></table>
 				</td>
 			</tr>			
-			<tr bgcolor="#003399">
+			<tr bgcolor="#990000">
 				<td colspan="3" align="center" height="20" valign="middle" class="bottom_title">
 				<a href="content.html?show=antispam&amp;frm=bnav" style="color:ffffff; font-size:11px; font-family:verdana; font-weight:normal;">Anti-Spam Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 				<a href="content.html?show=guarantee&amp;frm=bnav" style="color:ffffff; font-size:11px; font-family:verdana; font-weight:normal;">One-Year Product Guarantee</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -1150,11 +990,11 @@ by email at <a href="mailto:privacy@inkjetorder.com">privacy@inkjetorder.com</a>
 		</td>
 		<td width="64%" align="center" class="copyright">
 		123inkjets.com, 25 E. Easy Street, Simi Valley, CA 93065<br>
-		<!--<b>In the area? Come visit our <a href='map_pop.htm' onClick="NewWindow(this.href,'name','357','390','no');return false" style='font-size:10px;'>Retail Store!</a></b><br>-->
-		<a href="content.html?show=terms&amp;frm=ftr" style="font-size:10px;">Terms &amp; Conditions</a> | <sup>©</sup> Copyright 1998-2004 123inkjets.com | <a onclick="NewWindow(this.href,'name','275','287','no');return false" href="scontent.html?show=fbackform&amp;frm=ftr&amp;pag=/content.html?show=privacy&amp;frm=bnav">Site Feedback</a><!-- | <a href='jobs.html' style='font-size:10px;'>Employment Opportunities</a>--><br>
+		<!--<b>In the area? Come visit our <a href='/map_pop.htm' onClick="NewWindow(this.href,'name','357','390','no');return false" style='font-size:10px;'>Retail Store!</a></b><br>-->
+		<a href="/content.html?show=terms&amp;frm=ftr" style="font-size:10px;">Terms &amp; Conditions</a> | <sup>©</sup> Copyright 1998-2004 123inkjets.com | <a onclick="NewWindow(this.href,'name','275','287','no');return false" href="/scontent.html?show=fbackform&amp;frm=ftr&amp;pag=/content.html?show=privacy&amp;frm=bnav">Site Feedback</a><!-- | <a href='/jobs.html' style='font-size:10px;'>Employment Opportunities</a>--><br>
 		<p></p>
 		</td>		
-		<td width="18%" align="center" valign="absmiddle"><img src="images/icon_visa.gif" alt="Visa Accepted"><img src="images/spacer.gif" width="2"><img src="images/icon_mscard.gif" alt="Mastercard Accepted"><img src="images/spacer.gif" width="2"><img src="images/icon_disco.gif" alt="Discover Accepted"><img src="images/spacer.gif" width="2"><img src="images/icon_amex.gif" alt="American Express Accepted"><img src="images/spacer.gif" width="2"><img src="images/icon_paypal.gif" alt="Paypal Accepted - New!"><br>
+		<td width="18%" align="center" valign="absmiddle"><img src="../images/icon_visa.gif" alt="Visa Accepted"><img src="../images/spacer.gif" width="2"><img src="../images/icon_mscard.gif" alt="Mastercard Accepted"><img src="../images/spacer.gif" width="2"><img src="../images/icon_disco.gif" alt="Discover Accepted"><img src="/images/spacer.gif" width="2"><img src="../images/icon_amex.gif" alt="American Express Accepted"><img src="../images/spacer.gif" width="2"><img src="../images/icon_paypal.gif" alt="Paypal Accepted - New!"><br>
 		<!-- check for netscape version 4.x-->
 		<script language="JAVASCRIPT" type="TEXT/JAVASCRIPT">
 <!--
@@ -1169,11 +1009,11 @@ if (navigator.appName=='Netscape' && parseInt(navigator.appVersion)==4)
 		<td colspan="3" style="font-size:10px; font-family:verdana; font-weight:normal;" align="center">&nbsp;</td>
 	</tr>
 	<tr>
-		<td colspan="3" style="font-size:10px; font-family:verdana; font-weight:normal;">Apple<sup>®</sup>, HP<sup>®</sup>, IBM<sup>®</sup>, Lexmark<sup>®</sup>, Canon<sup>®</sup>, Epson<sup>®</sup>, Xerox<sup>®</sup> and other manufacturer brand names and logos are registered trademarks of their respective owners. Any and all brand name designations or references are made solely for purposes of demonstrating compatibility. We do not sell original name-brand cartridges.   </td>
+		<td colspan="3" style="font-size:10px; font-family:verdana; font-weight:normal;">Apple<sup>®</sup>, HP<sup>®</sup>, IBM<sup>®</sup>, Lexmark<sup>®</sup>, Canon<sup>®</sup>, Epson<sup>®</sup>, Xerox<sup>®</sup> and other manufacturer brand names and logos are registered trademarks of their respective owners. Any use of a brand name or model designation for a non-OEM cartridge is made solely for purposes of demonstrating compatibility. Coupons are not valid for OEM cartridges, solid ink, or media products.  </td>
 	</tr>	
 </tbody></table>
-<!--// Execution took 0.02 seconds //--> 
-<!-- 10.1.10.12 10.1.10.22 SID=//-->
+<!--// Execution took 0.03 seconds //--> 
+<!-- 10.1.10.22  www.123inkjets.com SID=//-->
 
 
 </body></html>
