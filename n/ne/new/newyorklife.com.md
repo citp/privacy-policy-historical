@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613095345id_/http%3A//www.newyorklife.com/NYL/0%2C1065%2C10356%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217065800id_/http%3A//www.newyorklife.com/NYL/0%2C1065%2C10356%2C00.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
+
+  
+
 
 **Our Privacy Policy**
 
