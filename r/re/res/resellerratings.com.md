@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204201823id_/http%3A//resellerratings.com/statement.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603084607id_/http%3A//resellerratings.com/statement.pl) for the most accurate reproduction.*
 
-# ResellerRatings.com - Customer reviews of online retailers
+# ResellerRatings Customer Ratings and Reviews and Price Comparison Shopping
 
 **All Enthusiast, Inc.'s Privacy Policy**
 
@@ -54,4 +54,4 @@ We use DoubleClick, Rydium, FastClick, and other third-party advertising compani
 
 If you use another All Enthusiast, Inc. service, we may send you a confirmation e-mail confirming your new account and/or service. The message will be sent to the address that you supplied us and will describe ways for you to change or delete the account information provided. Remember to keep the confirmation e-mail as it will also contain information that will help you in case you run into problems accessing our services. 
 
-We welcome any questions or comments you have about Resellerratings.com: please direct them to [contact@resellerratings.com](mailto:contact@resellerratings.com). 
+We welcome any questions or comments you have about Resellerratings.com: please direct them to [our contact form](http://www.resellerratings.com/contact.pl). 
