@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pass.as privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622122831id_/http%3A//www.pass.as/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pass.as privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203012123id_/http%3A//www.pass.as/info/privacy) for the most accurate reproduction.*
 
 # Sitelutions.com -- Solutions for your site. All in one place.
 
