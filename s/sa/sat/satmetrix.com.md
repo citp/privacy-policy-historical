@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215081615id_/http%3A//www.satmetrix.com/public/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608084634id_/http%3A//www.satmetrix.com/public/privacy.html) for the most accurate reproduction.*
 
 # Satmetrix Systems - Privacy
 
