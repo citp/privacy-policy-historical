@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atptour.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611071651id_/http%3A//www.atptennis.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atptour.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209003535id_/http%3A//www.atptennis.com/en/privacypolicy) for the most accurate reproduction.*
 
 # ATPtennis.com - Privacy Policy
 
