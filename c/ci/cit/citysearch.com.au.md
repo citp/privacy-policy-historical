@@ -1,155 +1,103 @@
-> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021014243id_/http%3A//citysearch.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205081426id_/http%3A//www.f2.com.au/core/privacy) for the most accurate reproduction.*
 
-# CitySearch Privacy Policy
+# f2 Membership - f2 Network Privacy Policy
 
-|  |   
----  
-  
-**Our commitment to your Privacy.**  
-CitySearch Australia Pty. Ltd. ('CitySearch') will not sell, trade or rent any personally identifiable information obtained from you to a third party.  
-It is policy at CitySearch to allow our users to provide as much - or as little - personal information to us as they feel comfortable doing. 
+This policy sets out how f2 uses your personal information and explains:
 
-**Information Gathered**  
-Unless you specifically tell us, CitySearch will never know who you are. You may, however, elect to tell us things that you want us to remember. We hope that, like many of our users and customers, you will want to provide information about yourself to CitySearch because it will help us to make our sites and services more valuable to you.   
-The choice of how much personally identifiable information about yourself you disclose to CitySearch is left completely up to you, our valued customer.  
-But however you choose to interact with CitySearch, you have our commitment to your privacy. 
+  * What kind of personal information f2 collects and how it is collected
+  * How f2 uses the information you provide
+  * Disclosure
+  * How f2 treats sensitive information
+  * Management and security of personal information
+  * Updating personal information
+  * Seeking access to the personal information f2 holds about you
+  * How to contact f2
 
-**What information does CitySearch gather?**   
-We will ask you when we need information that personally identifies you or allows us to contact you ("Personal Information").   
-Generally Personal Information is requested when you register for a site, when you request a particular service or information from us, when you use QuoteBank, when you choose to complete a survey, or when you enter a competition or promotion.   
-Information gathered is stored by CitySearch on a secure site protected by 'firewalls'. 
 
-**We track traffic patterns throughout sites.**   
-We may use a feature of your browser called a "cookie" to assign a "User ID."   
-Cookies, by themselves, cannot be used to find out your identity or the identities' of any of our users.   
-They only identify your computer to our servers when you visit our site.  
-Companies placing advertising on our sites and the sites of other web publishers may have the ability to assign a different cookie to you by a process that CitySearch does not control.  
-However as cookies don't identify individuals (you'll just be a number to them), companies will not know who you are - and CitySearch will not tell them. 
 
-**When You Disclose Information to Third Parties**  
-Please note that when: ****
+This policy applies to f2 Limited, f2 Australia & New Zealand Pty Limited, Citysearch Australia Pty Limited and Trading Room Pty Limited ("f2"). The policy explains how f2 uses personal information collected through the f2 Network. For more information on the sites that comprise the f2 Network, visit [www.f2.com.au](http://www.f2.com.au/). 
 
-  1. you sign up for a merchant's postcard (via Personalise); 
-  2. you communicate with a merchant via the "email this business" facility on their website; 
-  3. you complete "book a table" & "book a room" forms or any other interactive forms; or 
-  4. you utilise the "QuoteBank" facility, 
+f2 is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried on in the course of journalism. f2 is exempt from complying with the Privacy Act in relation to its journalism activities. f2 has publicly committed to complying with the Australian Press Council Privacy Standards for the use of personal information in the course of journalism. 
 
-you are communicating directly with and providing information to a third party merchant over which CitySearch does not exercise control.   
-CitySearch is not responsible for a third party merchant's use of the information you send to it, nor for the privacy policies of those third party merchants. 
+f2 may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to f2's operations. All personal information held by f2 will be governed by f2's most recent policy, posted on the f2 Network. 
 
-**You Are In Control of All Information Gathered About You**  
-Our 'open book' information policy means you can access the information you have given us and make any changes you deem appropriate.  
-Personal details and your profile, are of course user name and password protected so that only you or someone you have authorized can gain access to this information. 
+**What kind of personal information f2 collects and how it is collected**  
+f2 collects personal information from a variety of sources, including from members of the public, advertisers, prospective employees, mailing lists, recruitment agencies, contractors and business partners. 
 
-**Why do we gather the Information and how will we use it?**  
-CitySearch aims to provide you with better services and more compelling reasons to come back and visit our sites:  
-In the future, we may use the information you provide us with to provide personalised portions of our sites to you that are intended to provide just the information you are interested in receiving.   
-We analyse what our users and customers like and don't like about the content, products and services on CitySearch sites so that we can constantly improve them for your use.  
-In the future, we may also use information you have given us to help focus the advertisements that are shown on our sites, hopefully to make them of more interest to you.  
-We develop summary - not individual - reports for our advertisers. An example of a summary report might be "12,000 people clicked on advertisement "X" today and they were in the Film section of the site."   
-The people that help make it possible for CitySearch to provide our sites for free - our advertisers - use this information to determine how effective their advertising investments are.   
-We do not tell our advertisers who it was that saw or clicked on their advertisements and do not sell, trade or rent them any of your personal information.   
-Occasionally, we will send you email communications to provide information which we think you will find useful, including information about new products and services from CitySearch.  
-It is our policy only to send email to customers who give us permission to do so.   
-In every such email, we will also have instructions on how you may unsubscribe from the email list so that you will not receive any future emails if you do not wish to - see the "Opt-out Policy " below. 
+In general, the personal information f2 collects includes (but is not limited to) name, address, contact details, gender, occupation, in some cases membership of professional associations and, where relevant, financial information, including credit card information, banking details and income information. 
 
-**Security. Is my Information safe?**  
-When you access your membership information, we offer the use of a secure server.   
-The secure server software (SSL) encrypts all information you input before it is sent to us.   
-Furthermore, all of the data we collect is protected by 'firewalls' against unauthorized access. 
+_Personal Information you provide_ : We store the personal information you enter on the f2 Network or give to f2 in other ways. We obtain most personal information through the f2 Network membership registration process and updates to membership details. You may provide information when you request or acquire a product or service from f2 or its related companies, provide a product or service to f2, complete a survey or questionnaire, enter a competition, participate in forums or when you communicate with f2 by e-mail, telephone or in writing (for example if you contact customer service or provide feedback). 
 
-**Opt-In/Opt-Out Policy**  
-CitySearch puts control over communications directed to you where it belongs: In your hands:   
-We only send our email newsletters to users who ask to receive them.   
-Once you are on the list - you can easily get off.   
-Each email newsletter you receive has simple instructions on how to immediately unsubscribe from our newsletter list.   
-To do this you must use the email addresses you specified at the time of becoming a Member or joining an email newsletter list.  
-If you change or move email addresses please let us know so we can redirect your email to your new address.
+_Automatic collection_ : Cookies: We may use a feature of your browser called a cookie to assign your computer a 'User ID'. Cookies do not contain information by which f2 can identify you. They identify your computer to our servers. You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. f2 may use information contained in cookies to make assumptions about the user of the computer and to provide users of that computer with focused advertising which f2 believes may be of interest, based on that information. To disable your cookies, please refer to the help menu within your Internet browser. 
 
-**In Summary**  
-CitySearch is committed to protecting your privacy.   
-We use the information we collect on our sites to make our services the best they can be and to enhance your overall experience.   
-We do not sell, trade or rent your personal information to others.   
-Our 'open book' information policy means you can access the information we have collected about you at any time or make any changes you deem appropriate.   
-CitySearch may disclose personal information if required to do so by law.
+_Indirect collection_ : f2 endeavours to collect personal information about an individual only from that individual. In some circumstances f2 may obtain personal information from a third party. If you provide personal information about another person to f2, f2 requires that you inform that person you have done so and provide them with a copy of this policy. 
 
-**Your Consent**  
-By using our sites, you consent to the collection and use of this information by CitySearch.   
-If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it.
+**How f2 uses the information you provide**  
+f2 may use information it collects from you for the primary purpose for which it is collected and for such other secondary purposes that are related to the primary purpose of collection. 
 
-**Tell Us What You Think**  
-CitySearch welcomes your questions and comments about privacy.   
-Please send email to 
+f2 generally uses personal information to: 
 
-privacy@citysearch.com.au 
+  * provide you with products or services you have requested
+  * personalise and customise your experiences on the f2 Network;
+  * help f2 manage and enhance its services;
+  * communicate with you; 
+  * provide you with ongoing information about opportunities on the f2 Network in which f2 believes you may be interested;
+  * give you the opportunity from time to time to receive e-mail and 'e-newsletters' from f2.
 
-**Privacy Disclaimer**  
-When you sign up for a merchant's postcard (via Personalise), when you communicate with a merchant via the "email this business" facility on their website, when you complete book a table & book a room or any other interactive forms, plus when you utilise the "QuoteBank" facility you are directly communicating with that selected merchant/s.  
-Thus, you are consenting to the use of the information by that merchant/s in good faith to fulfill your request, enquiry or order.
 
-Note: CitySearch is not responsible for the use of information sent by you to third parties or for privacy policies of the merchant (3rd party) websites that reside within CitySearch and therefore can't guarantee that your information will not be passed to another unidentified party. 
 
-**Copyright**  
-This site and the data contained in it are supplied solely for informational use.   
-Apart from any fair dealing for the purpose of private study, research, criticism or review, as permitted under the Copyright Act, no part may be reproduced or re-used for any purpose whatsoever without written permission of CitySearch Australia Pty Ltd.   
-However, users may download individual listings for their own private use of this site for directory assistance purposes. 
+In most cases where f2 asks you to provide information about yourself, if you do not provide f2 with that information, f2 will not be able to provide you with the requested product or service. 
 
-No map data may be reproduced or copied in any way (whether electronic or on paper) without the permission of CitySearch.
+**Disclosure**  
+f2 may disclose personal information to other companies in the Fairfax Group which may only use it as set out above. 
 
-**Disclaimer**
+f2 may also provide your information to: 
 
-This web site contains advertisements and information provided by third parties.  
-There may be technical inaccuracies, typographical errors, programming bugs or computer viruses in this web site or its contents. 
+  * third parties engaged by f2 to perform functions on its behalf, such as processing credit card information, mailouts, debt collection, marketing, research and advertising;
+  * third parties authorised by you to receive information held by Fairfax;
+  * NGA.NET Pty Ltd but only for the purpose of NGA.NET hosting job applications and resumes that you submit via the MyCareer site.
 
-CitySearch Australia Pty. Ltd, a business within F2, the Fairfax Interactive, makes no representations about the accuracy or suitability of the information or links provided on this web site.   
-The information is provided 'as is' without express or implied warranty.   
-You use the information and links at your own risk. 
 
-Except as set out below and to the extent permitted by law, CitySearch Australia Pty Ltd excludes all:
 
-  * (a) warranties whether express, implied, statutory or otherwise, relating in any way to this web site or your use of this web site; and 
-  * (b) liability (including for negligence) to you or anyone else in respect of any loss or damage (including special, indirect or consequential loss or damage such as loss of revenue, unavailability of systems or loss of data) arising from or in connection with any use of the information on or access through this web site for any reason whatsoever (including negligence). 
+f2 uses DoubleClick International Asia B.V. to deliver the e-mails and e-newsletters you may ask to receive. DoubleClick International generally sends this data to the United States and Canada, but may transfer it to other countries where appropriate. By requesting an e-mail or e-newsletter from f2, you agree that Doubleclick may use your personal information in this way. If you would like to know more about the information gathering practices and 'opt-out' procedures of DoubleClick International, visit:[http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&)
 
-  
-Whilst CitySearch Australia Pty Ltd undertakes measures to ensure the accuracy and completeness of information on the site, it takes no responsibility for the accuracy or completeness of, or the representations made by the content on this site.   
-CitySearch Australia Pty Ltd takes no responsibility for the content of Internet sites that link from www.citysearch.com.au
+f2 shares web site usage information about visitors to the f2 Network who have received a targeted promotional e-mail campaign, with DoubleClick International B.V. for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, f2 and its third-party advertising company will keep information on the email campaign and some of the pages you visit on the f2 Network through the use of pixel tags (also called clear gifs). For more information about our advertising company, visit [www.privacychoices.org](https://web.archive.org/web/20020205081426id_/http%3A//www.f2.com.au/core/www.privacychoices.org). To opt out of the targeting program, please visit [www.privacychoices.org/optout.htm](https://web.archive.org/web/20020205081426id_/http%3A//www.f2.com.au/core/www.privacychoices.org/optout.htm)
 
-**QuoteBank** **Use of information**  
-CitySearch.com.au only shares your suburb and quote/price information with the businesses/merchants you have selected, when you submit a QuoteBank request.   
-Your contact information which includes your name, address, city, state, phone and email address - will only be given to the businesses/merchants when you choose to respond to their quote/price estimate.   
-Your contact details and quote requests are stored on the CitySearch servers.   
-To ensure that customer service levels are being met, CitySearch may from time to time monitor emails between 3rd party businesses/merchants and users.   
-The information gathered will be treated confidentially, will not be shared with any third party, it will only be used to improve the user experience.
+If f2 sells part of its business, personal information may be part of the assets transferred to the purchaser. 
 
-**Merchants** As detailed above and as directed by you, CitySearch will share your contact and quote information with the businesses that you have selected.   
-These businesses (merchants) are requested to use this information for the sole purpose of responding to your quote request.   
-They are not permitted to contact you regarding other activities such as marketing, nor are they allowed to resell, rent or distribute your information to any other party with out your expressed permission.  
-Each participating business (merchant) has their own method and procedures for fulfilling quote requests.   
-CitySearch does not offer guarantees as to the use of information given to third parties (merchants).
+The f2 Network contains features where you are invited to send personal information to organisations other than f2. The choice to send such information to these organisations is entirely yours. You should be aware that any such information you choose to send will not be bound by this policy. 
 
-**Terms & Conditions of Use**  
-Use:  
-If you are a user interested in submitting a quote/price request, citysearch.com.au is for your personal and noncommercial use only.  
-For third party businesses/merchants, QuoteBank is for commercial purposes to the extent of responding to quote/price requests generated by users to the site.   
-You are not permitted to change, copy, distribute, reproduce, display, transmit, gather, rent or sell any information, software, products or services obtained from users via the website.   
-However, you are committed to responding to quote/price requests within 4 days of receipt.
+**CitySearch.com.au**  
+CitySearch Australia Pty Ltd ('CitySearch') collects personal information about users, merchants, advertisers and other businesses, which access or are displayed on the CitySearch site. Information about businesses that appear in the CitySearch directory, including personal information on individuals within those businesses, is generally collected by CitySearch to manage the services or products that the business purchases from CitySearch. CitySearch may also disclose personal information about businesses that appear in the CitySearch directory to third parties, including advertisers, business partners and information brokers. 
 
-**Matching Customers and Businesses/Merchants**  
-CitySearch provides an interactive environment in which users who are interested in sourcing competitive quotes or services can find and select businesses that may be able to provide a quote.   
-CitySearch are not involved in the transaction and do not control it! Thus, we don't control the legality, quality, safety or timeliness of any product or service that is purchased as a result of a quote/price request.   
-We cannot control whether or not the businesses you have sent a request to actually respond, nor whether they represent their products or services accurately, or if they fulfill any agreement, contract or obligation they may establish or promise to you.   
-We encourage QuoteBank users to communicate directly with the business and any other third parties (such as HIA or Master builders in the case of the building trade) to establish the reliability of that business or its services.   
-Any disputes between QuoteBank users and businesses should be handled by the business involved.   
-The business is solely responsible for any product exchanges, payments or returned merchandise.   
-To ensure that customer service levels are being met, CitySearch may from time to time monitor email correspondence between 3rd party businesses and QuoteBank users.  
-Due to the difficulty of verifying users on the Internet, CitySearch can't confirm that any user referred to a business has represented their identity and any other personal information accurately and honestly.  
-As CitySearch can't endorse specific businesses, we encourage all users to contact us to provide any feedback.   
-We also encourage any dissatisfied users to discuss their complaints and issues directly with the business involved.
+If you contact a merchant appearing in the CitySearch directory, including via e-mail, this policy does not apply to such communications and CitySearch accepts no responsibility for any transaction entered into between you and the relevant merchant. 
 
-**Indemnification & disclaimer:**  
-CitySearch Australia are not and cannot be involved in the user/merchant transactions, in the event that you have a dispute with one or more other users or merchants, you release CitySearch Australia (and our agents and employees) from claims, demands, damages (actual and consequential) of every kind and nature, known and unknown, suspected and unsuspected resulting from or in any way connected with such disputes.  
-You agree to indemnify, defend and hold CitySearch Australia and it's partners and suppliers harmless from any liability, loss, claim and expense related to the violation of this contract or use of the website.  
-CitySearch does not recommend or endorse any specific business listed on their sites and does note provide advice on which supplier to choose or which products to buy.  
-CitySearch Australia does note sell, solicit applications for, or write contracts for any goods or services.   
-CitySearch Australia is not a broker acting on behalf of any user, nor is it an agent acting on behalf of any 3rd party business/merchant.   
-It is recommended that prior to making any buying decisions you consult professionals as relevant and appropriate. 
+**OfferWatch**  
+OfferWatch is a service which provides access to special offers about products or services you have opted-in to receive. In order to gain access to Offerwatch, you must be a member of f2 and must supply f2 with personal information, including your name, e-mail address, gender, date of birth, postcode, country of residence and annual income. f2 will treat your personal information in accordance with this privacy policy. f2 may disclose aggregated statistical information which does not identify you personally to advertisers and other third parties for marketing, promotional, and other purposes. You can correct or change the information collected during subscription to OfferWatch at any time by following the instructions in our "My Member Details" area. If you experience problems or have questions about OfferWatch, email f2 at privacy@f2network.com.au. 
+
+**How f2 treats sensitive information**  
+**"Sensitive Information"** means information relating to a person's racial or ethnic origin, membership of political bodies, religion, membership of a trade union or professional or trade association, sexual preferences, criminal record and health. 
+
+f2 may use and disclose Sensitive Information only for the purpose for which it was provided or a directly related secondary purpose or as allowed by law unless you have agreed otherwise. 
+
+**Management and security of personal information**  
+f2 has appointed a Privacy Officer to oversee f2's management of personal information in accordance with this policy and the Commonwealth Privacy Act. 
+
+f2 protects the personal information f2 holds from misuse, loss, unauthorised access, modification or disclosure by various means including firewalls, pass word access, secure servers and encryption of credit card transactions. 
+
+**Updating personal information**  
+f2 endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. You can update your f2 membership information via the 'Update your details' section on any of the sites within the f2 Network. 
+
+You can generally update personal information that is not membership information on the website of the f2 Network where you submitted that information. Otherwise, please contact f2 on privacy@f2network.com.au. Where personal information is no longer required by f2, it will be destroyed or de-identified. 
+
+**Seeking access to the personal information f2 holds about you**  
+You have the right to seek access the personal information held about you and to advise f2 of any inaccuracy. There are some exceptions to this right set out in the Privacy Act. 
+
+If you make an access request, f2 will ask you to verify your identity and specify what information you require. f2 may charge a fee to cover the costs of meeting your request. 
+
+_Membership information:_ f2 Network Members can access the membership information f2 holds about them at any time via the 'Update your details' section on any of the sites within the f2 Network. 
+
+**How to contact f2**  
+If you have enquiries or wish to provide feedback about this policy, please e-mail [privacy@f2network.com.au](mailto:privacy@f2network.com.au). 
+
+To make an access request, please write to the Privacy Officer at GPO Box 506 Sydney, 2001, fax 02 9282.3521 or [privacy@fairfax.com.au](mailto:privacy@fairfax.com.au). 
