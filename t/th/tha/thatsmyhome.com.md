@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatsmyhome.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606122617id_/http%3A//www.thatsmyhome.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmyhome.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204042903id_/http%3A//thatsmyhome.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
