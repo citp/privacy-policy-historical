@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the brides.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615114642id_/http%3A//www.condenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brides.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205233800id_/http%3A//condenet.com/privacy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines
 
-This policy was revised on March 3, 2000. Please take a few moments to review it. 
+This policy was revised on October 10, 2000. Please take a few moments to review it. 
 
-This policy covers all sites produced by CondéNet, including CondeNet.com, Epicurious Food, Phys.com, Concierge.com, Vogue.com, Mademoiselle.com, Glamour.com, Swoon.com, and all Condé Nast magazine subscription sites. This policy does not cover information collected on sites linked from CondéNet sites. 
+This policy covers all sites produced by CondéNet, including CondeNet.com, Epicurious.com, PHYS.com, Concierge.com, STYLE.com, Mademoiselle.com, Glamour.com, Swoon.com, and all Condé Nast magazine subscription sites. This policy does not cover information collected on sites linked from CondéNet sites. 
 
 CondéNet sites are committed to bringing you information that's tailored to your individual needs and, at the same time, to protecting your privacy. The following is a summary of the various ways we treat the information you provide us while using our sites. 
 
 CondéNet only collects personally identifying information with your specific knowledge and consent. For instance, when you register for our services, enter a sweepstakes or contest, complete a survey or subscribe to our magazines, you are asked to provide information such as your email address, name, or phone number. Optional information such as your age or gender may also be requested. 
 
-CondéNet uses this information to provide you with the service you have requested. For example, if you subscribe to one of our magazines, we will use your email address to send you a confirmation notice and your address to send you your magazine. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs. 
+CondéNet uses this information to provide you with the service you have requested. For example, if you subscribe to one of our magazines, we will use your email address to send you a confirmation notice and your address to send you your magazine. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use this information to send you regular email newsletters, inform you about new features, products or services, or other changes to the services. 
 
 CondéNet does not sell any of our users' personal information. We may, however, share information with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [privacy@condenast.com](mailto:privacy@condenast.com). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the email. If you've registered for any of our sites, you may also change or update your member preferences or information on your member's page on each site. 
 
