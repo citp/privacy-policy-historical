@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607062527id_/http%3A//network.artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208181550id_/http%3A//network.artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
 
 # Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTIST direct Network
 
@@ -83,8 +83,8 @@ Our Site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-> 1.send email to [marketfirstin@artistdirect.com](mailto:marketfirstin@artistdirect.com)  
->  2\. call the toll-free: 1-877-5-ARTIST (1-877-527-8478)
+> send email to [marketfirstin@artistdirect.com](mailto:marketfirstin@artistdirect.com)  
+> 
 
 ****
 
@@ -92,8 +92,7 @@ This site gives users the following options for removing their information from 
 
 ARTISTdirect.com gives users the following options for reviewing and modifying information previously provided. 
 
-> 1\. email _[editor@artistdirect.com](mailto:editor@artistdirect.com)   
->  _2\. call toll-free 1-877-5-ARTIST (1-877-527-8478)
+> email us _[here](http://westwood.artistdirect.com/emailus/)_
 
 ****
 
@@ -102,10 +101,9 @@ ARTISTdirect.com gives users the following options for reviewing and modifying i
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 _Customer Service  
 ARTISTdirect, Inc.  
-5670 Wilshire Blvd., Suite 200  
-Los Angeles, CA 90036  
+10900 Wilshire Blvd., Suite 1400  
+Los Angeles, CA 90024  
 USA  
-Email: [policy@ubl.com](mailto:policy@ubl.com)  
-Phone: 1-877-5-ARTIST (1-877-527-8478)_  
+_  
   
 ---|---
