@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iskin.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402032950id_/http%3A//www.iskin.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskin.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204023826id_/http%3A//www.iskin.com/privacy.html) for the most accurate reproduction.*
 
 # iSkin Inc. Welcome to the home of the iSkin eXo2
 
