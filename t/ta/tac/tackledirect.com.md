@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tackledirect.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606021134id_/http%3A//tackledirect.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tackledirect.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207025921id_/http%3A//tackledirect.com/privacypolicy.html) for the most accurate reproduction.*
 
 # TackleDirect Privacy & Security
 
