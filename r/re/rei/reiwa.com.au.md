@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reiwa.com.au privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215175900id_/http%3A//www.reiwa.com.au/content-copyright.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reiwa.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603190248id_/http%3A//www.reiwa.com.au/content-copyright.cfm) for the most accurate reproduction.*
 
 # 
 
@@ -17,7 +17,7 @@ Persons accessing this internet site, and all associated pages compiled and main
 
 * * *
 
-REIWA's Internet Privacy Statement
+REIWA's Privacy Act, Internet Collection Statement
 
 Last updated: 21 December 2001 
 
@@ -41,6 +41,18 @@ Links to third party web sites
 
 
 « Back to Top »
+
+* * *
+
+REIWA Public Enquiries Hotline Privacy Statement
+
+Last updated: 19th September 2003 
+
+  1. When persons contact REIWA or use one of its services by telephone, REIWA will frequently take a record regarding the nature of the person's enquiry, including the person's name, a summary of the content of the enquiry and, in certain circumstances, the person's address and/or telephone number. The person can later access this information to check its correctness should he/she wish. 
+  2. REIWA records this information for administrative purposes so as to keep a record of enquiries made to it. On occasions this information may be passed on to organisations associated with these purposes. 
+  3. Should an individual not wish REIWA to record his/her personal information, it will frequently not be possible for REIWA to deliver the service the individual is seeking to access. 
+
+
 
 * * *
 
