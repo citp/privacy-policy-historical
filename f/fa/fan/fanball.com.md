@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanball.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205003036id_/http%3A//www.fanball.com/support.cfm%3FdomTab%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanball.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403164616id_/http%3A//www.fanball.com/support.cfm%3FdomTab%3D4) for the most accurate reproduction.*
 
 # Fantasy Sports News, Games & Leagues at Fanball.com
 
