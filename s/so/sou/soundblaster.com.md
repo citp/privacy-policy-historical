@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202022055id_/http%3A//www.soundblaster.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603091858id_/http%3A//www.soundblaster.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Soundblaster.com -- Privacy Policy
 
