@@ -1,36 +1,37 @@
-> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205025729id_/http%3A//www.mcall.com/services/newspaper/all-privacypolicy.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603062734id_/http%3A//www.mcall.com/services/newspaper/all-privacypolicy.htmlstory) for the most accurate reproduction.*
 
 # mcall.com - Privacy Policy
 
 | [](https://web.archive.org/services/newspaper/)  
 ---  
-| [Lehigh Valley News](https://web.archive.org/news/local/)  
-| [US/World News](https://web.archive.org/news/nationworld/)  
-| [Milestones](https://web.archive.org/news/local/milestones/all-milestones.htmlstory)  
+| [Lehigh Valley News  
+](https://web.archive.org/news/local/)  
+| [US/World News  
+](https://web.archive.org/news/nationworld/)  
 | [Sports](https://web.archive.org/sports/)  
 | [Opinion](https://web.archive.org/news/opinion/)  
 | [Business](https://web.archive.org/business/)  
 | [Features](https://web.archive.org/features/)  
 | [Entertainment](http://www.mygoguide.com/)  
 | [PhotoJournal](https://web.archive.org/all-photojournalarchive.htmlstory)  
-| [Special Sections](http://mcall.p2ionline.com/shoppingchannel/ss/index.aspx)  
-| [Weather](https://web.archive.org/go/weather)  
-| [Shopping](https://web.archive.org/shopping/)  
-| [Customer Service](https://web.archive.org/services/newspaper/)  
-| [Morning Call Staff](https://web.archive.org/services/newspaper/all-custservstaff.htmlstory?coll=all%2Dservicesnewspaper%2Dhed)  
-[Morning Call Newsroom](https://web.archive.org/services/newspaper/all-custservnewsroom.htmlstory?coll=all%2Dservicesnewspaper%2Dhed)  
-[Advertise](https://web.archive.org/services/newspaper/all-custservadvertise.htmlstory?coll=all%2Dservicesnewspaper%2Dhed)  
-[Subscribe](https://web.archive.org/services/newspaper/all-custservsubscribe.customform?coll=all%2Dservicesnewspaper%2Dhed)  
-[Vacation Options](https://web.archive.org/services/newspaper/all-vacationstop.customform?coll=all%2Dservicesnewspaper%2Dhed)  
-[No Paper This Morning?](https://web.archive.org/services/newspaper/all-custservnopaper.htmlstory)  
-[Order Back Issues  
-](https://web.archive.org/services/newspaper/all-backissuecustserv.story?coll=all%2Dservicesnewspaper%2Dhed)  
-  
-| [Subscribe](https://web.archive.org/services/newspaper/all-custservsubscribe.customform)  
+| [Weather](http://weather.mcall.com/US/PA/Allentown.html?main=1)  
 | [Archives](http://pqasb.pqarchiver.com/mcall/)  
-| [Sitemap](https://web.archive.org/services/site/all-sitemap.htmlstory)  
+| [Noticias en Español](https://web.archive.org/news/nationworld/holahoy)  
 | [Feedback](https://web.archive.org/services/newspaper/all-feedbackform.customform)  
-| [FREE: E-mail News](https://web.archive.org/services/site/registration/view.reg?temp=rc-member-services)  
+| [Sitemap](https://web.archive.org/services/site/all-sitemap.htmlstory)  
+| [Special Sections](http://mcall.p2ionline.com/newshoppingchannel/SS_index.aspx?area=SS)  
+| [Media Partners](https://web.archive.org/services/newspaper/all-mediapartners.story)  
+| [Subscribe](https://web.archive.org/services/newspaper/all-custservsubscribe.customform)  
+| [Customer Service](https://web.archive.org/services/newspaper/)  
+| [Morning Call Staff](https://web.archive.org/services/newspaper/all-custservstaff.htmlstory)  
+[Morning Call Newsroom](https://web.archive.org/services/newspaper/all-custservnewsroom.htmlstory)  
+[Advertise](https://web.archive.org/services/newspaper/all-custservadvertise.htmlstory?coll=all%2Dservicesnewspaper%2Dhed)  
+[Subscribe](https://web.archive.org/services/newspaper/all-custservsubscribe.customform)  
+[Vacation Options](https://web.archive.org/services/newspaper/all-vacationstop.customform)  
+[No Paper This Morning?](https://web.archive.org/services/newspaper/all-custservnopaper.htmlstory)  
+[Change of Address/Name Change](https://web.archive.org/services/newspaper/all-address-name.customform)  
+[Order Back Issues  
+](https://web.archive.org/services/newspaper/all-backissuecustserv.story)  
   
   
 101 North 6th St.  
@@ -40,9 +41,14 @@ Allentown, PA 18101
 Local: (610) 820-6601   
 Toll-free: (800) 666-5492 
 
+  
  • [Subscription Form](https://web.archive.org/services/newspaper/all-custservsubscribe.customform?coll=all%2Dservices%2Dutl)   
  • [No paper this morning?](https://web.archive.org/services/newspaper/all-custservnopaper.htmlstory)   
- • [Vacation Options](https://web.archive.org/services/newspaper/all-vacationstop.customform?coll=all%2Dservicesnewspaper%2Dhed) |  _Last Updated: July, 2003_
+ • [Vacation Options](https://web.archive.org/services/newspaper/all-vacationstop.customform?coll=all%2Dservicesnewspaper%2Dhed)   
+ • [Media Partners](https://web.archive.org/services/newspaper/all-mediapartners.story)   
+ • [Vacation Options](https://web.archive.org/services/newspaper/all-vacationstop.customform?coll=all%2Dservicesnewspaper%2Dhed)   
+ • [Advertise With Us](http://www.mcall.com/extras/mediakit/index.html)   
+|  _Last Updated: July, 2003_
 
 mcall.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by mcall.com online and does not impact information collected or used by mcall.com or its affiliates through other means. 
 
@@ -91,24 +97,6 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-Copyright © 2003, [The Morning Call](http://www.mcall.com/)
+Copyright © 2004, [The Morning Call](http://www.mcall.com/)
 
-|  |    
-
-
-[](http://www.mcall.com/extras/hope/index.html)
-
-[](http://mcall.p2ionline.com/shoppingchannel/enter.aspx?gt=Holiday%20Traditions&et=ss)
-
-[](https://web.archive.org/classified/jobs/careerbuilder/fair/)
-
-[](http://mcall.p2ionline.com/shoppingchannel/enter.aspx?gt=Cars%202004&et=ss)
-
-[](http://www.mcall.com/livinginlv)
-
-[](https://web.archive.org/contests)
-
-[](http://www.relationshipnetwork.com/lf1/index.asp?client_id=144)
-
-[   
-](http://www.relationshipnetwork.com/lf1/index.asp?client_id=144)
+**> > Right to your doorstep! - [Click here to subscribe to The Morning Call](http://www.mcall.com/services/newspaper/all-custservsubscribe.customform)** |  | 
