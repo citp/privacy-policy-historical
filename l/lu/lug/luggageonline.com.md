@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the luggageonline.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803095844id_/http%3A//www.luggageonline.com/faq_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luggageonline.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603151622id_/http%3A//www.luggageonline.com/faq_privacy.cfm) for the most accurate reproduction.*
 
 # Luggage Online - Privacy / Security
 
-| To make this notice easy to find, we've made it available on our homepage and at every point where personally identifiable information may be requested. Questions regarding this policy should be directed to tjacobsen@luggageonline.net.  
+| To make this notice easy to find, we've made it available on our homepage and at every point where personally identifiable information may be requested. Questions regarding this policy should be directed to tjacobsen@luggageonline.com.  
 **  
 What information do we collect? How do we use it?**  
 We only use your personal information to help us service your account, to improve our services to you, to provide you with the products you have requested, and to inform you about additional products or services that may be of interest to you.
@@ -32,4 +32,4 @@ In short, if you provide personal information online that is accessible to the p
 By using our Web site, you consent to the collection and use of this information by Luggage Online. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  
   
 **How to Contact Us**  
-Should you have other questions or concerns about these privacy policies, please send us an e-mail at tjacobsen@luggageonline.net
+Should you have other questions or concerns about these privacy policies, please send us an e-mail at tjacobsen@luggageonline.com
