@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornerstone.edu privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602152459id_/http%3A//www.cornerstone.edu/quick_facts/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstone.edu privacy policy that was archived on 2003-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031222032017id_/http%3A//www.cornerstone.edu/quick_facts/privacy.php) for the most accurate reproduction.*
 
 # Cornerstone University - Quick Facts: Privacy Policy
 
