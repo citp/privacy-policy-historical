@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unco.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204224558id_/http%3A//www.unco.edu/univaff/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unco.edu privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605093703id_/http%3A//www.unco.edu/univaff/privacy.htm) for the most accurate reproduction.*
 
 # Internet Privacy Policy at the University of Northern Colorado
 
@@ -16,20 +16,26 @@ In the process of ensuring network security and optimum performance, we may coll
 
 Cookies are small text files on your system, used for keeping track of settings or data for a particular Web site. You may turn them off through your browser or set your browser to notify you before accepting them. Some University Websites use cookies to store information necessary to provide a service or access into a site. Any information the University may store in cookies is used for internal purposes only. 
 
-###   
-Disclosure of personally identifiable information
+### Disclosure of personally identifiable information
 
 The voluntary provision of personally identifiable information constitutes your consent for collection and disclosure of the information for the purpose indicated. For example, the information may be used by the appropriate university employee to contact you or provide requested service. 
 
-We may provide information to service providers or agents of the University to enable them to carry out their assigned functions or provide a service to you but they are not allowed to disclose the information for any other purpose.  
-The State Open Records Act is applicable to this Privacy Policy pursuant to the Colorado Revised Statutes, Title 24, Article 72, Part 2, which states the following: "It is declared to be the public policy of this state that all public records shall be open for inspection by any person at reasonable times, except as provided in this part 2 or as otherwise specifically provided by law."  
+We may provide information to service providers or agents of the University to enable them to carry out their assigned functions or provide a service to you but they are not allowed to disclose the information for any other purpose.
+
+The State Open Records Act is applicable to this Privacy Policy pursuant to the Colorado Revised Statutes, Title 24, Article 72, Part 2, which states the following: "It is declared to be the public policy of this state that all public records shall be open for inspection by any person at reasonable times, except as provided in this part 2 or as otherwise specifically provided by law."
+
 If personal information is requested on the website or is volunteered by the user, state and federal law may protect that information. However, all information becomes a public record once it is provided and may be subject to public inspection and copying if not protected by federal or state law.
 
-The University may collect or disclose personally identifiable information without consent if disclosure is:  
-· Necessary to perform statutory duties.  
-· Regulated by state or federal guidelines.  
-· Made pursuant to a court order.  
-· Necessary to protect safety of the University, visitors or others.  
+The University may collect or disclose personally identifiable information without consent if disclosure is:
+
+· Necessary to perform statutory duties.
+
+· Regulated by state or federal guidelines.
+
+· Made pursuant to a court order.
+
+· Necessary to protect safety of the University, visitors or others.
+
 · Necessary to enforce the rights of the University against unauthorized access or attempted unauthorized access to information technology assets.
 
 Users are cautioned that the collection of personal information requested from or volunteered by children online or by email will be treated the same as information provided by an adult and may be subject to public access.
@@ -50,11 +56,16 @@ We may revise this Web Privacy Statement at any time by posting changes to our W
 
 If you have any questions regarding the Internet Privacy Statement or your personal information, please contact:
 
-Ronald Lambden  
-General Counsel  
-Carter Hall 4000 Campus Box 29   
-Greeley, Colorado 80639   
-Fax (970) 351-1110  
+Ronald Lambden
+
+General Counsel
+
+Carter Hall 4000 Campus Box 29 
+
+Greeley, Colorado 80639 
+
+Fax (970) 351-1110
+
 Contact (970) 351-1152
 
 ### Other Policies
