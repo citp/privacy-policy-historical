@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2000-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001225195656id_/http%3A//www.house.gov/house/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413101119id_/http%3A//www.house.gov/house/privacy.htm) for the most accurate reproduction.*
 
 # U.S. House Of Representatives - Other Government Sites
 
