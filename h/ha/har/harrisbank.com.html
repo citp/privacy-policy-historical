@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the harrisbank.com privacy policy that was archived on 2002-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021210152333id_/http%3A//www.harrisbank.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harrisbank.com privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602042607id_/http%3A//www.harrisbank.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Summary</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
+<script src="online_service_box.js"></script>
 <script language="JavaScript">
 <!--
+
 
 function upopup(myUrl,myWidth,myHeight) {
         window.open(myUrl,'popup','toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes,copyhistory=no,width=' + myWidth + ',height=' + myHeight + '');
@@ -19,16 +20,11 @@ function vbiJumpPage(theIndex)      {
 }
 
 function upopup() { var win= window.open("http://www.september11fund.org/","mywindow"); }
-
-
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
-}
 //-->
-</script><link rel="stylesheet" href="style.css">
+</script>
+<link rel="stylesheet" href="style.css">
 </head>
-<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" text="#000000">
+<body onload="configureButtons(document.forms[0].choice)" bgcolor="#FFFFFF" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" text="#000000">
 
   <map name="Map">
 	<area shape="rect" coords="278,61,380,82" href="/personal/map9.html&quot;"> 
@@ -100,36 +96,82 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             <td><img src="images/spacer.gif" width="5" height="5"></td>
           </tr>
         </tbody></table>
-        <img src="images/home_online.gif" width="151" height="13"><br>
-      <!-- #BeginLibraryItem "/Library/OnlineServicesDropdown.lbi" -->
-	<form name="vbiJumpForm">
-	<select name="menuOnline1" onchange="MM_jumpMenu('parent',this,1)">
-                             <option selected="">Select a Service</option>
-          <option>Personal</option>
-          <option value="http://www.harrisbank.com/totallook/index.html">&nbsp;&nbsp;&nbsp;Harris 
-          Total Look</option>
-          <option value="http://mbanxonlinebanking.harrisbank.com/default.asp"> 
-          &nbsp;&nbsp;&nbsp;Online Banking</option>
-          <option value="http://mbanxonlinebanking.harrisbank.com/products_services/billpay/BP_Main.html"> 
-          &nbsp;&nbsp;&nbsp;Personal Bill Pay</option>
-          <option value="https://www.harrisbank.com/privatebank/login.html">
-		  &nbsp;&nbsp;&nbsp;Investment Online</option>
-          <option value="https://www2.harrisdirect.com/pre/login.htm">&nbsp;&nbsp;&nbsp;Harrisdirect*</option>
-          <option value="https://secure.harrisadvantedge.com/login.asp?clienttype=HIA"> 
-          &nbsp;&nbsp;&nbsp;Harris AdvantEdge*</option>
-          <option>Business</option>
-          <option value="http://www.harrisbank.com/totallook/index.html">&nbsp;&nbsp;&nbsp;Harris 
-          Total Look</option>
-          <option value="http://mbanxonlinebanking.harrisbank.com/default.asp"> 
-          &nbsp;&nbsp;&nbsp;Online Banking</option>
-          <option value="http://mbanxonlinebanking.harrisbank.com/products_services/billpay/BBP_Main.html"> 
-          &nbsp;&nbsp;&nbsp;Business Bill Pay</option>
-          <option value="http://www.harrisbank.com/escout/index.html">&nbsp;&nbsp;&nbsp;Harris 
-          eScout</option>
-          <option value="https://www.directline4biz.com/iBank/cmserver/verify.cfm"> 
-          &nbsp;&nbsp;&nbsp;DirectLine® </option>
-        </select>
-</form><!-- #EndLibraryItem --></td>
+        
+      <br>
+      <table width="100%" border="0" cellspacing="1" cellpadding="1">
+        <tbody><tr> 
+          <td valign="top"><img src="images/home_online1.gif" width="151" height="13" align="top"><br>
+          </td>
+        </tr>
+        <tr> 
+          <td valign="top"> <!-- #BeginLibraryItem "/Library/root_online.lbi" --><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        
+        <tbody><tr>
+          
+    <td colspan="4">&nbsp;</td></tr>
+        <tr> 
+        </tr><tr> 
+          <td> 
+            
+              <table width="100%" border="0" cellspacing="0" cellpadding="1"><form name="vbiJumpForm"></form>
+                <tbody><tr align="left"> 
+                  <td colspan="3" class="dropdown"> 
+                    
+                      <select name="choice" onchange="configureButtons(this)">
+                        <option value="select_service" selected="selected">Select a Service </option>
+                        <option value="personal">Personal </option>
+                        <option value="total_look">&nbsp;&nbsp;&nbsp;Harris Total 
+                        Look </option>
+                        <option value="online_banking">&nbsp;&nbsp;&nbsp;Online 
+                        Banking </option>
+                        <option value="bill_pay">&nbsp;&nbsp;&nbsp;Personal Bill 
+                        Pay </option>
+                        <option value="investment_online">&nbsp;&nbsp;&nbsp;Investment 
+                        Online </option>
+                        <option value="direct">&nbsp;&nbsp;&nbsp;Harrisdirect* 
+                        </option>
+                        <option value="advantage">&nbsp;&nbsp;&nbsp;Harris AdvantEdge* 
+                        </option>
+                        <option value="business">Business </option>
+                        <option value="total_look">&nbsp;&nbsp;&nbsp;Harris Total 
+                        Look </option>
+                        <option value="business_banking">&nbsp;&nbsp;&nbsp;Online 
+                        Banking </option>
+                        <option value="business_bill_pay">&nbsp;&nbsp;&nbsp;Business 
+                        Bill Pay </option>
+                        <option value="escout">&nbsp;&nbsp;&nbsp;Harris eScout 
+                        </option>
+                        <option value="business_direct">&nbsp;&nbsp;&nbsp;DirectLine® 
+                        </option>
+                      </select>
+                    </td></tr>
+                <tr valign="top"> 
+                  <td colspan="3"><img src="images/spacer.gif" width="10" height="3"></td></tr>
+                <tr valign="top"> 
+                  <td width="44"> <a href="javascript: redirectButton(1);"><img src="https://web.archive.org/web/20030602042607id_/http%3A//www.harrisbank.com/images/button_login.gif" width="44" height="19" name="button_login" border="0" vspace="0"></a> 
+                  </td><td width="45"> <a href="javascript: redirectButton(2);"><img src="https://web.archive.org/web/20030602042607id_/http%3A//www.harrisbank.com/images/button_learn.gif" width="44" height="19" name="button_learn" border="0" vspace="0"></a> 
+                  </td><td width="46"> <a href="javascript: redirectButton(3);"><img src="https://web.archive.org/web/20030602042607id_/http%3A//www.harrisbank.com/images/button_enroll.gif" width="44" height="19" name="button_enroll" border="0" vspace="0"></a> 
+                  </td></tr>
+                <tr> 
+                  <td colspan="3"> 
+                    <center>
+                      <br>
+                <b>Apply for new Harris<br>
+                Accounts</b> 
+              </center></td></tr>
+                <tr align="left"> 
+                  <td width="44"> 
+                    </td><td width="45" valign="top"> 
+              <a href="apply.html"><img src="images/button_apply.gif" width="44" height="19" border="0" align="top"></a>
+            </td><td width="46" height="35"> 
+                    </td></tr></tbody></table></td></tr>
+      </tbody></table><!-- #EndLibraryItem --></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+      </tbody></table>
+    </td>
       <td rowspan="2">&nbsp;</td>
       <td colspan="4" rowspan="2" valign="top"> 
         <p><br>
@@ -309,91 +351,86 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
       <td width="6">&nbsp;</td>
     </tr>
   </tbody></table>
-  <table width="630" border="0" cellspacing="0" cellpadding="2">
-	<tbody><tr class="bg-red" valign="baseline"> 
-	  
-	  <td align="right"> 
-		<table border="0" cellspacing="0" cellpadding="1">
-		  <tbody><tr valign="middle"> 
-			<td> <form name="vbiJumpForm1">
+  
+<table width="630" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="bg-red" valign="baseline"> 
+    <!-- td> 
+		<table border="0" cellspacing="0" cellpadding="0">
+		  <tr> 
+			<td><img src="images/spacer.gif" width="6" height="10"></td>
+			<td class="txt-search">search for: </td>
+			<td><img src="images/spacer.gif" width="10" height="10"></td>
+			<td>
+			  <input type="text" name="textfield" size="10" maxlength="30">
+			</td>
+			<td><img src="images/spacer.gif" width="10" height="10"> </td>
+			<td><img src="images/home_button_go.gif" width="27" height="15"></td>
+		  </tr>
+		</table>
+	  </td -->
+    <td align="right"> 
+      <table border="0" cellspacing="0" cellpadding="1">
+        <tbody><tr valign="middle"> 
+          <td> 
+            <form name="vbiJumpForm1">
               <!-- #BeginLibraryItem "/Library/Other Harris dropdown.lbi" -->
 		     <select name="vbiJumpSelect" onchange="vbiJumpPage(this.selectedIndex)">
                 <option selected="">Other Harris web sites</option>
-                <option value="../personal/">Personal Financial Services</option>
+                <option value="http://www.harrisbank.com/personal/">Personal Financial Services</option>
 				<option value="http://www.theharris.com">The Harris</option>
-                <option value="../privatebank/">&nbsp;&nbsp;&nbsp;Private Banking Services</option>
+                <option value="http://www.harrisbank.com/privatebank/">&nbsp;&nbsp;&nbsp;Private Banking Services</option>
                 <option value="http://www.harrisdirect.com/">&nbsp;&nbsp;&nbsp;Harrisdirect*</option>
                 <option value="http://www.harrisadvantedge.com/">&nbsp;&nbsp;&nbsp;Harris AdvantEdge</option>
                 <option value="http://www.harrisnesbitt.com/index.asp">Harris 
                 Nesbitt</option>
                 <option value="http://www.harrisinsight.com">Harris Insight</option>
-                <option value="../smallbiz/">Resources for Small Business</option>
-				<option value="../midmarket/index.html">Middle Market</option>
+                <option value="http://www.harrisbank.com/
+				/smallbiz/">Resources for Small Business</option>
+				<option value="http://www.harrisbank.com/midmarket/index.html">Middle Market</option>
               </select><!-- #EndLibraryItem --></form></td>
-			<td><img src="images/spacer.gif" width="6" height="20"></td>
-		  </tr>
-		</tbody></table>
-		
-	  </td>
+          <td><img src="images/spacer.gif" width="6" height="20"></td>
+        </tr>
+      </tbody></table>
+    </td>
   </tr>
 </tbody></table>
-  <table width="630" border="0" cellspacing="0" cellpadding="0" class="bg-greylt">
-    <tbody><tr> 
-      <td rowspan="10" width="6"><img src="images/spacer.gif" width="6" height="25"></td>
-      <td colspan="2"><img src="images/spacer.gif" width="624" height="10"></td>
-    </tr>
-    <tr> 
-      <td width="744" colspan="2"><a href="legal.html"><b class="txt-linkblk">Legal</b></a><img src="images/spacer.gif" width="10" height="10"><a href="regulators.html"><b class="txt-linkblk">Regulators</b></a></td>
-    </tr>
-    <tr> 
-      <td colspan="2"><img src="images/spacer.gif" width="624" height="5"></td>
-    </tr>
-    <tr> 
-      <td valign="top" width="744" colspan="2"><font size="1">Harris Bank is a 
-        member of the <a href="http://www.bmo.com/" target="_blank">Bank of Montreal</a> 
-        group of companies. </font></td>
-    </tr>
-    <tr> 
-      <td valign="top" width="744" colspan="2"><img src="images/spacer.gif" width="624" height="5"></td>
-    </tr>
-    <tr> 
-      <td valign="middle" width="744" colspan="2"> 
-        <table width="624" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr> 
-            <td width="388"><b><font size="2"><img src="images/fdic.gif" width="99" height="11"></font></b> 
-              <!-- MEMBER SSPC --></td>
-            <td width="236"><img src="images/home_equal_logo.gif" width="46" height="51"></td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-    <tr> 
-      <td colspan="2"><img src="images/spacer.gif" width="624" height="5"></td>
-    </tr>
-    <tr> 
-      <td width="792" colspan="2"> 
-        <table width="624" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="14" valign="top"><b>*</b> </td>
-            <td width="604"> 
-              <table border="1" cellpadding="4" width="425">
-                <tbody><tr> 
-                  <td align="center"> <b> NOT FDIC INSURED - NO BANK GUARANTEE 
-                    - MAY LOSE VALUE</b> </td>
-                </tr>
-              </tbody></table>
-            </td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-    <tr> 
-      <td colspan="2"><img src="images/spacer.gif" width="624" height="5"></td>
-    </tr>
-    <tr> 
-      <td colspan="2"><img src="images/spacer.gif" width="624" height="10"></td>
-    </tr>
-  </tbody></table>
-
+<table border="0" cellspacing="0" cellpadding="0" class="bg-greylt">
+  <tbody><tr> 
+    <td rowspan="11" width="6"><img src="images/spacer.gif" width="5" height="10"></td>
+  </tr><tr> 
+    <td valign="middle" width="624"> 
+      <table border="0" cellspacing="0" cellpadding="0" width="622" "="">
+        <tbody><tr> 
+          <td width="120"> <a href="legal.html"><b class="txt-linkblk">Legal</b></a><img src="images/spacer.gif" width="10" height="10"><a href="regulators.html"><b class="txt-linkblk">Regulators</b></a> 
+          </td>
+          <td align="CENTER" width="438" height="37"> 
+            <div align="left"><b>MEMBERS FDIC </b><br>
+              <span class="textlegal">Harris Bank is a trade name used by Harris 
+              Trust and Savings Bank and its affiliated banks.</span> </div>
+          </td>
+          <td align="CENTER" width="65"> 
+            <div align="left"><img src="images/home_equal_logo.gif" width="46" height="51"></div>
+          </td>
+          <td width="4" height="37"> 
+            <center>
+            </center>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td height="38" width="624"> 
+      <hr>
+      <div align="left"><b>*</b><span class="textlegal">Harrisdirect and Harris 
+        AdvantEdge are divisions of Harris Investor Services LLC (HIS), a wholly 
+        owned non-bank subsidiary of Bankmont Financial Corp. and a registered 
+        broker dealer, member NASD/SIPC. Securities and insurance products offered 
+        through HIS are:<b> </b></span><b>NOT A DEPOSIT - NOT INSURED BY THE FDIC 
+        OR ANY FEDERAL GOVERNMENT AGENCY - NOT GUARANTEED BY ANY BANK - MAY LOSE 
+        VALUE.</b> </div>
+    </td>
+  </tr>
+</tbody></table>
 
 </body></html>
