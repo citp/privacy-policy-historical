@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daveramsey.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401182737id_/http%3A//www.daveramsey.com/etc/cms/index.cfm%3FintContentID%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daveramsey.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207000730id_/http%3A//www.daveramsey.com/etc/cms/index.cfm%3FintContentID%3D39) for the most accurate reproduction.*
 
-# www.daveramsey.com - Privacy Policy
+# Privacy Policy
 
 **Our Policy Behind Our Privacy Policy**  
 DaveRamsey.com refuses to make you read through pages and pages of boring text about a policy that does nothing but trick you into NOT reading it. We have chosen to make our privacy policy clear and concise enough that you will read it and feel comfortable on our site, knowing that we have every intention to protect your privacy.
