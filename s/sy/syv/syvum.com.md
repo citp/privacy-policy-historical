@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603155549id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211044id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Syvum Privacy Policy
 
@@ -42,11 +42,15 @@ Some parts of our site use cookies in order to provide you a better experience o
 
 Syvum may share aggregate information about its users with advertisers, business partners, sponsors and other third parties. For example, we may say Syvum's audience is x percent females and y percent males. This data is used to customize the content and advertising to deliver a better experience for our users. 
 
-### ADVERTISEMENTS
+### THIRD PARTY ADVERTISING
 
-The ads appearing on this Web site are delivered to you by DoubleClick's Sonar Network, our Web advertising partner. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. Information about your visit to this site (but not your name, address, or other personal information) is used to serve ads to you on this site. This information is not collected by Sonar and DoubleClick for profiling. For more information about Sonar, cookies, and your right to "opt-out", please [click here](http://www.sonar.com/content/privacy.htm). 
+We use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp)
 
 In addition to DoubleClick, we also utilize the services of Adtegrity.com to serve ads on our site. To view their privacy policy, [click here](http://www.adtegrity.com/privacy.asp). 
+
+### THIRD PARTY COOKIES
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 ### COMMITMENT 
 
