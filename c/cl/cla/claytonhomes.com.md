@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claytonhomes.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410020738id_/http%3A//www.claytonhomes.com/index.cfm%3Finclude%3Dprivacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claytonhomes.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608211531id_/http%3A//www.claytonhomes.com/index.cfm%3Finclude%3Dprivacypolicy.htm) for the most accurate reproduction.*
 
 # Clayton Homes, Inc.
 
