@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605140413id_/http%3A//www.promgirl.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206093805id_/http%3A//promgirl.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
 
 # Prom Dresses - PromGirl.com : info
 
@@ -16,7 +16,7 @@ For customers not wishing to place their order online you may email your phone n
 
 **Fax orders**
 
-Customers may fax their order information by printing the [form linked here](https://web.archive.org/web/20030605140413id_/http%3A//www.promgirl.com/pdfs/fax_form.pdf) and faxing to 212-656-1780. We will enter your information and you will receive an email confirmation of your order. 
+Customers may fax their order information by printing the [form linked here](https://web.archive.org/web/20031206093805id_/http%3A//promgirl.com/pdfs/fax_form.pdf) and faxing to 212-656-1780. We will enter your information and you will receive an email confirmation of your order. 
 
 **Delivery Times**
 
@@ -30,7 +30,7 @@ We have 3 day shipping anywhere in the US. Shipping is calculated by weight and 
 
 **Payment Methods**
 
-Simply Dresses accepts most major credit cards including, Visa, MasterCard, American Express, and Discover. Unfortunately at this time we are unable to accept debit cards or alternate forms of payment including cash, checks, or C.O.D.'s. 
+Prom Girl accepts most major credit cards including, Visa, MasterCard, American Express, and Discover. Unfortunately at this time we are unable to accept debit cards or alternate forms of payment including cash, checks, or C.O.D.'s. 
 
 **Privacy**
 
