@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asqit.com privacy policy that was archived on 2002-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020615053702id_/http%3A//www.asqit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asqit.com privacy policy that was archived on 2002-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020821172149id_/http%3A//www.asqit.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Thank you for visiting this page of  Asqit.com's Privacy Policy. PRIVACY PROTEC
 
 This paragraph explains what information is collected by us, how we use that information, and how we protect this information from being spread through the net without customer’s  clear permission.
 
-We are rapidly growing company and steady adding new services. Therefore our privacy policy may be revised without worsening our customer’s privacy. All the revisions will be immediately published on our homepage [Privacy Policy](https://web.archive.org/web/20020615053702id_/http%3A//www.asqit.com/privacy.html). 
+We are rapidly growing company and steady adding new services. Therefore our privacy policy may be revised without worsening our customer’s privacy. All the revisions will be immediately published on our homepage [Privacy Policy](https://web.archive.org/web/20020821172149id_/http%3A//www.asqit.com/privacy.html). 
 
 **1.PERSONAL INFORMATION**
 
