@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2000-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001025100300id_/http%3A//www.madsci.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606170932id_/http%3A//www.madsci.org/info/privacy.html) for the most accurate reproduction.*
 
 # MadSci Privacy Policy
 
-The MAD Scientist Network is a not-for-profit organization devoted to encouraging an interest in science, and promoting science literacy at both a K-12 level, and in the general population. When visiting our site, we record and track information about the materials you access. We do not sell or share your information with any third parties, nor make it publically available, unless you choose to enter specific information on our ask-a-question form. 
+MadSci Network is a not-for-profit organization devoted to encouraging an interest in science, and promoting science literacy at both a K-12 level, and in the general population. When visiting our site, we record and track information about the materials you access. We do not sell or share your information with any third parties, nor make it publically available, unless you choose to enter specific information on our ask-a-question form. 
 
 When visiting our site, the following information is passed to our webserver and stored in our site's logs: 
 
@@ -21,7 +21,7 @@ We use this information in the following manner:
   * Make certain our materials and interfaces are accessible to the platforms and browsers used by visitors. 
   * In addition, we may opt to supply this information to a user's identified Internet Service Provider concerning any user who blantantly abuses or attempts to interfere with the functioning of our site. 
 
-The reports generated are available from our [Monthly Statistics](https://web.archive.org/stats/) page. This information may also be used in proposals to obtain funding for the MAD Scientist Network, so that we may keep it a free service. 
+The reports generated are available from our [Monthly Statistics](https://web.archive.org/stats/) page. This information may also be used in proposals to obtain funding for the MadSci Network, so that we may keep it a free service. 
 
 ### Asking Questions
 
@@ -45,17 +45,12 @@ We store this information in our monthly log files and use it for the following:
 
 More information about Internet Privacy can be found at the [ US Federal Trade Commission](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html). 
 
-If you have further questions concerning this policy, please contact us at [webadmin@www.madsci.org](https://web.archive.org/web/20001025100300id_/http%3A//www.madsci.org/info/webadmin@www.madsci.org). Our snail mail address is: 
+If you have further questions concerning this policy, please contact us at [webadmin@www.madsci.org](https://web.archive.org/web/20010606170932id_/http%3A//www.madsci.org/info/webadmin@www.madsci.org). Our snail mail address is: 
     
     
-              The MAD Scientist Network
-              Campus Box 8226, WUMS
-              660 S. Euclid Avenue
-              St. Louis, Missouri 63110
-              U.S.A.
-    
-              Phone: (314) 362-4841 or (800) 852-9074
-              FAX: (314) 362-3369
+    	  MadSci Network
+              P.O. Box 548
+    	  Boston, MA 02117
     
 
 * * *
