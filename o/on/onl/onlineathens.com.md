@@ -1,19 +1,84 @@
-> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609152855id_/http%3A//onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210035739id_/http%3A//www.onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
 
-# OnlineAthens: Privacy Policy
+# Online Athens: Privacy Policy
 
+|  [ News](https://web.archive.org/news/ "Local News")  
   
-[](http://www.onlineathens.com/RealMedia/ads/click_lx.ads/www.onlineathens.com/news/2120/TopLeft/default/empty.gif/34323163666161623364303337343330)
-
-[](http://www.onlineathens.com/RealMedia/ads/click_lx.ads/www.onlineathens.com/news/16377/Left/Franklins/FranklinsCube.gif/34323163666161623364303337343330)   
-
-
-| 
-
-| PRIVACYPOLICY  
+  
 ---  
+[ UGA News](https://web.archive.org/uganews/ "UGA News")  
   
-**OnlineAthens.com Privacy Policy**  
+[ Obituaries](https://web.archive.org/obits/ "Obituaries")  
+  
+[ Business](https://web.archive.org/business/ "Business News")  
+  
+[ Police Central](https://web.archive.org/cops/ "Police News")  
+  
+  
+[ Sports](https://web.archive.org/sports/ "Sports Home Page")  
+  
+  
+[ DogBytes](https://web.archive.org/dogbytes/ "DogBytes")  
+  
+[ Prep Sports](https://web.archive.org/prepstars/ "Prep Sports")  
+  
+  
+[ Features](https://web.archive.org/features/ "Features")  
+  
+  
+[ RockAthens](https://web.archive.org/rockathens/ "Local Music")  
+  
+[ Entertainment](https://web.archive.org/entertainment/ "Entertainment News")  
+  
+[ Movies](https://web.archive.org/movies/ "Movies")  
+  
+  
+[ Opinion](https://web.archive.org/opinion/ "Opinion Page")  
+  
+  
+[ Forums](https://web.archive.org/forums/ "Forums")  
+  
+  
+[ Columnists](https://web.archive.org/staff/ "Columnists")  
+  
+  
+[ Marketplace](https://web.archive.org/marketplace/ "Marketplace")  
+  
+  
+[ Classifieds](https://web.archive.org/classifieds/ "Classifieds")  
+  
+[ Jobs](https://web.archive.org/jobfinder/ "Athens Job Finder")  
+  
+[ Homes](https://web.archive.org/homefront/ "Athens Home Finder")  
+  
+[ Autos](http://www.classiccitycars.com/ "Athens Auto Finder")  
+  
+[ Business Directory](https://web.archive.org/webguide "Local Web Sites")  
+  
+  
+ Etc.  
+  
+  
+[ Site Map](https://web.archive.org/sitemap/ "Site Map")  
+  
+[ Contact Us](https://web.archive.org/contactus/ "Contact Us")  
+  
+[ Help/FAQ](https://web.archive.org/contactus/faq.shtml "Help/Frequently Asked Questions")  
+  
+[ Palm edition](https://web.archive.org/palmpilot/ "Palm Pilot edition")  
+  
+[ Free E-mail](https://web.archive.org/email/ "Free E-Mail")  
+  
+[ E-mail Newsletter](https://web.archive.org/email_newsletter.shtml "E-Mail Newsletter")  
+  
+[ Online Specials](https://web.archive.org/specials/ "Specials")  
+  
+[ Athens Magazine](http://www.athensmagazine.com/ "Athens Magazine")  
+  
+[ Events! Magazine](http://www.athensevents.com/ "Events! Magazine")  
+  
+  
+|  |  **OnlineAthens.com Privacy Policy**  
 
 
 > OnlineAthens.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At OnlineAthens.com, we intend to give you as much control as possible over your personal information.
@@ -60,7 +125,6 @@
 
  **VII. Use of Materials**
 
-> The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may [contact us](mailto:feedback@onlineathens.com).   
-  
-  
+> The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may [contact us](mailto:feedback@onlineathens.com). 
 
+|  |  | 
