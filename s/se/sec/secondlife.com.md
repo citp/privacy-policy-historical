@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondlife.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012015121id_/http%3A//secondlife.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondlife.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305033752id_/http%3A//secondlife.com/privacy.php) for the most accurate reproduction.*
 
 # Second Life : Your World. Your Imagination.
 
