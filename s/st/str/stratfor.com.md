@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603223214id_/http%3A//www.stratfor.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201214031id_/http%3A//www.stratfor.com/privacy.php) for the most accurate reproduction.*
 
-# STRATFOR Privacy Policy
-
-**Privacy Policy**
+# STRATFOR.com : Privacy Policy
 
 Strategic Forecasting LLC., publisher of STRATFOR, and its affiliates (hereafter referred to collectively as "STRATFOR") are committed to maintaining the privacy of personal information that you provide to us when using STRATFOR. This Privacy Policy describes how we treat personal information received about you when you visit STRATFOR. We may make content or services from other Web sites including our affiliated or co-branded Web sites available to you from links located on STRATFOR. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy.
 
@@ -47,13 +45,13 @@ STRATFOR provides its users the opportunity to opt-out of receiving communicatio
 
     1\. Use the following link: [unsubscribe](http://www.stratfor.com/home/giu/unsub.asp)
 
-    2\. Or you can send an e-mail to: [alert@stratfor.com](mailto:alert@stratfor.com)     
+    2\. Or you can send an e-mail to: [opt-out@stratfor.com](mailto:opt-out@stratfor.com)     
 
 **CORRECT/UPDATE**
 
 STRATFOR gives users the following options for changing and modifying information previously provided.
 
-1.      You can send an e-mail [alert@stratfor.com](mailto:alert@stratfor.com)
+1.      You can send an e-mail [info@stratfor.com](mailto:info@stratfor.com)
 
 **COMMENTS AND QUESTIONS**
 
@@ -68,15 +66,15 @@ Austin, Texas 78701
 
 If you have any questions, comments, or concerns about this Privacy Statement, please contact us at [privacy@stratfor.com](mailto:privacy@stratfor.com).
 
-[**Click here to sign up for the FREE Global Intelligence Update**](http://www.stratfor.com/home/giu/subscribe.asp)
+[**Click here to sign up for the FREE Free Intelligence Brief**](http://www.stratfor.com/subscribe/intel_brief_sub.php)
 
-This policy was last updated on November 27, 2000.
+This policy was last updated on January 14, 2002.
 
-**Copyright ©** **2001 Strategic Forecasting LLC.** **All Rights Reserved. **
+**Copyright ©** **2002 Strategic Forecasting LLC.** **All Rights Reserved. **
 
 * * *
 
-**COOKIE-DISCLOSURE STATEMENT **
+**COOKIE-DISCLOSURE STATEMENT**
 
 We are often asked about our use of cookie technology, which we employ at STRATFOR to allow you to move quickly through our site. Below you'll find information describing our most common uses of cookies, which are an inherent part of our production process and have enabled us to better serve you. ~~ ~~
 
@@ -97,8 +95,8 @@ We are often asked about our use of cookie technology, which we employ at STRATF
 **Should I set my browser to not accept cookies or to alert me each time I receive one?**  
 You certainly could set your browser to alert you each time a cookie is passed to your machine. However, we'd recommend that you turn that feature off, perhaps after using the site for a day or so with it on, once you've seen firsthand how we use this technology. Our use of cookies ultimately helps you have a better experience here. You might find it cumbersome to be alerted to each cookie you'll encounter.
 
-[**Click here to sign up for the FREE Global Intelligence Update**](http://www.stratfor.com/home/giu/subscribe.asp)
+[**Click here to sign up for the FREE intelligence Brief**](http://www.stratfor.com/user/intel_brief_sub_form.php)
 
-This policy was last updated on February 13, 2001
+This policy was last updated on January 14, 2002
 
-**Copyright © 2001** **Strategic Forecasting LLC** **. All Rights Reserved. **
+**Copyright © 2002** **Strategic Forecasting LLC** **. All Rights Reserved**
