@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202030717id_/http%3A//www.silverpop.com/company/legal/privacypolicy.sp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604232821id_/http%3A//www.silverpop.com/company/legal/privacypolicy.sp) for the most accurate reproduction.*
 
 # Email Marketing Software & Service Solutions - Silverpop
 
@@ -18,7 +18,7 @@ If you have questions or concerns regarding this privacy statement, you should f
 
   
   
-Silverpop has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Because we gather important information from our customers and visitors, we have established this Statement as a means to communicate our information gathering and dissemination practices. Visitors and customers can update their personal information by visiting our personal preference page at <http://webstage.prod/preferences/form.sp>. 
+Silverpop has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Because we gather important information from our customers and visitors, we have established this Statement as a means to communicate our information gathering and dissemination practices. Visitors and customers can update their personal information by visiting our personal preference page at [http://www.silverpop.com/preferences/form.sp](https://web.archive.org/web/20040604232821id_/http%3A//www.silverpop.com/company/legal/preferences/form.sp). 
 
   
   
