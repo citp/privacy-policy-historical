@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogainedirect.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204194515id_/http%3A//www.prodhelp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogainedirect.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622191221id_/http%3A//www.prodhelp.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
