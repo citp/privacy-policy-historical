@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boaterexam.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603103227id_/http%3A//boaterexam.com/privacy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boaterexam.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207210954id_/http%3A//www.boaterexam.com/privacy1.html) for the most accurate reproduction.*
 
 # BoaterExam.Com
 
@@ -10,7 +10,7 @@ The use of this site constitutes acceptance of the BoaterExam.com Terms of Use p
 
 Once a customer has registered on BoaterExam.com, if he/she decides not to take the exam online, he/she may transfer the credit to another person of their choice. They must advise BoaterExam.com of the change by e-mail or telephone within 90 days of the registration date. There will be no refunds, unless the customer was charged more than once due to technical problems, during the registration process.
 
-If you do not receive your card within 90 days of passing your exam, please contact [info@boaterexam.com](mailto:info@boaterexam.com). Waiting beyond the 90 days will result in a $15 fee to have another card issued. If there is an error on the card, such as your name or date of birth, you also have 90 days to report it. 
+If you do not receive your card within 90 days of passing your exam, please contact [info@boaterexam.com](mailto:info@boaterexam.com). Waiting beyond the 90 days will result in a $20 fee to have another card issued. If there is an error on the card, such as your name or date of birth, you also have 90 days to report it. 
 
 ### Expiry of Account
 
