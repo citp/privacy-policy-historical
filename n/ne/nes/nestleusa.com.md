@@ -1,53 +1,84 @@
-> *The following text is extracted and transformed from the nestleusa.com privacy policy that was archived on 2000-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000510063543id_/http%3A//www.nestleusa.com/oneoff.asp%3Freq%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestleusa.com privacy policy that was archived on 2001-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010806110701id_/http%3A//nestleusa.com/customerService/privacy_policy.asp) for the most accurate reproduction.*
 
-# Nestlé Home
+# Nestlé USA
 
-Thank you for visiting NESTLÉusa.com. Nestlé values your visit, and we hope you enjoy our site. We know privacy is important to you, and want you to be comfortable as you explore our site, and perhaps share in the interactive nature of the site. We do not share personally identifiable information collected at this site with third parties. Below is a summary of this site’s information collection, information use, information access, and information security practices. 
+  
 
-Please note, the privacy practices set forth in this Privacy Policy are for this Web site only. Other Nestlé Web sites may have different practices (see appendix of sites). If you link to other Nestlé sites, please review the privacy policies posted at those sites. 
 
-**Personal Information Use**
+Thank you for visiting Nestleusa.com. This privacy policy tells you how Nestlé uses personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
-We collect personal information, like names, addresses, e-mail addresses, etc., when voluntarily submitted by our on-line visitors. The personal information you provide us is only used to fulfill your request. That is, to respond to your questions in our Contact Us section or to receive e-mail updates about our site from the Sign Me Up section. If you choose the opt in feature at the Contact Us section, you will be added to Nestlé USA’s mailing list. Once on our mailing list, you may receive (by regular mail or e-mail) information about Nestlé's products, events, and services which may interest you. Individuals on our mailing list may also receive joint offers from Nestlé which feature products from other reputable organizations and companies. Please note, your information is not sold or transferred to these other companies. 
+Note, the privacy practices set forth in this privacy policy are for this web site only. Other Nestlé web sites may have different practices (see appendix of site below). If you link to other Nestle sites, please review the privacy policies posted at those sites. 
 
-We may on occasion combine information we receive online with outside records to enhance our consumer profiles for our own marketing. 
+**What We Collect and How We Use It**
 
-Information provided at our Careers section is used only for the job application process. 
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. For example, to receive email updates Nestleusa.com, our products and promotions; to send you samples, if offered and requested; and to enter a specific sweepstakes or other online promotion or offer. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists. 
 
-**Security, Deleting, Changing and Accessing Information**
+If you provide information in the Contact Us section, you may choose to be added to the Nestlé USA mailing list. Once on this mailing list, you may receive (by regular mail or email) information about Nestlé wide products, events, and services which may interest you. Individuals on this mailing list may also receive joint offers from Nestlé which feature products/services from other reputable organizations and companies. Your information is not shared with these other companies. Except for the limited instances noted below, we do not share personally identifiable information collected at this site with third parties. The exceptions are:\ 
 
-Information is kept secure. Only authorized Nestlé employees and its agents (who have agreed to keep information secure) have access to stored information. You may have information submitted at the Contact Us section revised or deleted by calling us at 1 800 452-1971. If you requested e-mail updates at the Sign Me Up section, you may have your e-mail address revised or deleted by sending us a new e-mail requesting that we delete or correct your e-mail address. If you want to access information previously collected or have any questions about our privacy practices, call us at the 800 number above. 
-
-**Tracking/Cookie Technology**
-
-Cookie or tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to our Web site, and understanding how visitors use our Web site. Cookies can also help us tailor our Web site to our visitors and help us customize the site for our visitors. By way of example only, if you complete a survey indicating you enjoy baking, the next time you visit the site, you will automatically open to the baking section. Personal information cannot be collected via cookies, but cookies may be tied to personal information, if personal information was previously provided. 
-
-**General**
-
-Third party Internet sites accessible through via hyperlinks from this site have their own privacy practices, and Nestlé has no responsibility or liability for these independent practices. Please review their privacy practices for yourself. 
-
-NESTLÉusa.com is a proud participant of the Better Business Bureau’s BBBOnline Privacy Seal Program. Further information about the BBBOnline Privacy program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). 
-
-Nestlé has no intention of collecting personal information from children at this site. 
-
-Nestlé reserves the right to make changes to this policy. Any changes to this policy will be posted. 
-
-**Appendix of other Nestlé USA sites:**
-
-  * NESTLÉ BUTTERFINGER 
-  * NESTLÉ TANDEM 
-  * PETER'S CHOCOLATE 
-  * WONKA 
-  * NESTLÉ CARNATION Baby Formula 
-  * STOUFFER'S 
-  * NESTLÉ TOLL HOUSE 
-  * LIBBY'S Pumpkin 
-  * NESTLÉ CARNATION Milk 
-  * FRISKIES 
-  * ORTEGA 
-  * NESTLÉ NESQUIK 
-  * KATHRYN BEICH 
+  * We share your information with our partner agencies who assist us in administering the site and various programs and promotions. They can only use the information to administer our site and programs. These agencies are bound to keep your information private and secure. 
+  * From time to time we may run a joint promotion on this site with another company or organization. You will always be advised if another company is also collecting information and you can access that company's privacy policy. 
+  * We may also disclose personal information if we are required to do so by law or if in our good faith judgment, such action is reasonably necessary to comply with legal process, to respond to any claims, or to protect the rights of Nestle, its customers and the public. 
 
 
 
-Nestlé USA Corporate Web Site Policy, June 1999
+Information provided in our Careers section is used only for the job application process. We may on occasion combine information we receive with outside records to enhance our consumer profiles for our own marketing purposes. 
+
+_**Referrals**_
+
+If you send a friend an email from the site referring the friend to the site, the "referral" information you provide is used on a one-time basis to facilitate this communication and is not further retained by Nestlé 
+
+**_Demographic Information and Surveys_**
+
+We may ask for demographic or profile (age, gender, interests, etc.) information in a survey or at registration. This information is used to assist us in tailoring the site and our products to visitors and consumers. We may share aggregated demographic and survey information, as opposed to individual information, with third parties. 
+
+**_Cookie/Tracking Technology_**
+
+The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. 
+
+**_Information Security, Opting-Out, Changing and Accessing Information_**
+
+Your personally identifiable information is kept secure. Only authorized Nestle employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. If you want to access information previously collected or have any questions about this policy or our practices, please contact us at 1-800-225-2270. 
+
+**_General_**
+
+Third party Internet sites accessible through hyperlinks from this site have their own privacy practices, and Nestlé has no responsibility or liability for these independent practices. Please review their privacy practices for yourself. 
+
+Nestleusa.com is a proud participant of the Better Business Bureau's BBBOnline Privacy Seal Program. Further information about the BBBOnline Privacy program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). 
+
+Nestle has no intention of collecting personal information from children at this site. 
+
+We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
+
+**Nestleusa.com, July 2001**
+
+**Appendix of other Nestle USA Web sites:**
+
+[www.verybestbaby.com](http://www.verybestbaby.com/)  
+[www.verybestbaking.com](http://www.verybestbaking.com/)  
+[www.verybestpet.com](http://www.verybestpet.com/)  
+[www.verybestmeals.com](http://www.verybestmeals.com/)  
+[www.alpo.com](http://www.alpo.com/)  
+[www.buitoni.com](http://www.buitoni.com/)  
+[www.chefsblend.com](http://www.chefsblend.com/)  
+[www.coffee-mate.com](http://www.coffee-mate.com/)  
+[www.friskies.com](http://www.friskies.com/)  
+[www.healthiercat.com](http://www.healthiercat.com/)  
+[www.comengetit.com](http://www.comengetit.com/)  
+[www.fancyfeast.com](http://www.fancyfeast.com/)  
+[www.mightydog.com](http://www.mightydog.com/)  
+[www.forevermighty.com](http://www.forevermighty.com/)  
+[www.nescafeusa.com](http://www.nescafeusa.com/)  
+[www.nestea.com](http://www.nestea.com/)  
+[www.butterfinger.com](http://www.butterfinger.com/)  
+[www.wonderball.com](http://www.wonderball.com/)  
+[www.nestleusa.com](http://www.nestleusa.com/)  
+[www.ortega.com](http://www.ortega.com/)  
+[www.powerbar.com](http://www.powerbar.com/)  
+[www.ovensensations.com](http://www.ovensensations.com/)  
+[www.skilletsensations.com](http://www.skilletsensations.com/)  
+[www.stouffers.com](http://www.stouffers.com/)  
+[www.leancuisine.com](http://www.leancuisine.com/)  
+[www.tasterschoice.com](http://www.tasterschoice.com/)  
+[www.wonka.com](http://www.wonka.com/)
+
+[](http://www.bbbonline.org/index.asp)
