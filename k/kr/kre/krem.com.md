@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616185130id_/http%3A//krem.com/aboutkrem/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206024600id_/http%3A//krem.com/aboutkrem/privacy.html) for the most accurate reproduction.*
 
 # ABOUT KREM | KREM PRIVACY POLICY
 
