@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607081803id_/http%3A//www.optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204172023id_/http%3A//optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
 
 # Optionetics
 
-Options involve risk. Prior to buying or selling an option, an investor must receive a copy of [Characteristics and Risks of Standardized Options](http://www.cboe.com/resources/odd). Investors need a broker to trade options, and must meet suitability requirements. Past results are not necessarily indicative of future performance.
+Options involve risk. Prior to buying or selling an option, an investor must receive a copy of [Characteristics and Risks of Standardized Options](http://www.cboe.com/Resources/Intro.asp). Investors need a broker to trade options, and must meet suitability requirements. Past results are not necessarily indicative of future performance.
 
 The information and data contained in this website (Optionetics.com) was obtained from sources believed to be reliable, but accuracy is not guaranteed. Neither the information, nor any opinion expressed, constitutes a recommendation to purchase or sell a security, or to provide investment advice.
 
