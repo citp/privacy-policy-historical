@@ -1,36 +1,119 @@
-> *The following text is extracted and transformed from the connpost.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618064345id_/http%3A//www.connpost.com/Stories/0%2C1413%2C96%25257E3835%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connpost.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211234656id_/http%3A//connpost.com/Stories/0%2C1413%2C96%25257E3835%25257E%2C00.html) for the most accurate reproduction.*
 
 # Connecticut Post Online - Privacy Policy
 
-June 18, 2003
+December 11, 2003
 
-| [Interactive Library](http://www.msnbc.com/local/ctpost/warapps.asp)  
+| [AUTO CLASSIFIEDS  
+in today's newspaper](http://ctpost.abracat.com/c2/trans/hub/index.xml)  
 ---  
-[Where is Iraq?](http://63.147.65.112/maps/index.html)  
+    
+[](http://63.147.65.112/statestreet/)  
+    
+[ONLINE RESUMES -   
+call 1-866-928-5627](http://www.ctjobhunter.com/)  
+    
+[PET NET](https://web.archive.org/Stories/0,1413,96%257E30141%257E,00.html)  
+[Just for fun](https://web.archive.org/Stories/0,1413,96%257E30329%257E,00.html)  
+[Pet of the Week](https://web.archive.org/Stories/0,1413,96%257E30142%257E,00.html)  
+[The Pet Connection column](http://www.uclick.com/client/ctp/pc/)  
+[Pet Forum](https://web.archive.org/Stories/0,1413,96%257E30144%257E,00.html)  
+[Pet News](https://web.archive.org/Stories/0,1413,96%257E30145%257E,00.html)  
+    
 [CLASSIFIEDS](http://ctpost.abracat.com/)  
+    
 [NEWS](https://web.archive.org/Stories/0,1413,96%257E3747%257E,00.html)  
-[SPORTS](https://web.archive.org/Stories/0,1413,96%257E3761%257E,00.html)  
+[Local/Regional News](https://web.archive.org/Stories/0,1413,96%257E3750%257E,00.html)  
+[Police Log](https://web.archive.org/Stories/0,1413,96%257E3752%257E,00.html)  
+[Editorial](https://web.archive.org/Stories/0,1413,96%257E3754%257E,00.html)  
+[Corrections](https://web.archive.org/Stories/0,1413,96%257E28414%257E,00.html)  
+[DEATH NOTICES  
+Memoriams](http://www.legacy.com/ctpost/LegacyHome.asp)  
+[USA Weekend](http://www.usaweekend.com/partners/connpost.html)  
+[Dept. of Public Safety](http://www.state.ct.us/dps/)  
+[SEARCH ARCHIVES](http://www.connpost.com/Stories/0,1413,96%257E26644%257E,00.html)  
+[](http://www.e-thepeople.org/a-connpost/)  
+    
+[TRAFFIC CAM](http://63.147.65.112/trafficam/index.html)  
+    
+[](http://www.msnbc.com/local/CTPOST/default.asp?0dm=C---A)  
+    
+[HEALTH](https://web.archive.org/Stories/0,1413,96%257E28217%257E,00.html)  
+    
+[SPORTS](https://web.archive.org/Stories/0,1413,96%257E11423%257E,00.html)  
+[Local/Regional Sports](https://web.archive.org/Stories/0,1413,96%257E3761%257E,00.html)  
+[High School Sports](https://web.archive.org/Stories/0,1413,96%257E3763%257E,00.html)  
+[In The Spotlight](https://web.archive.org/Stories/0,1413,96%257E26378%257E,00.html)  
+[The Week That Was](https://web.archive.org/Stories/0,1413,96%257E3764%257E,00.html)  
+[UConn BB 03-04](https://web.archive.org/Stories/0,1413,96%257E29938%257E,00.html)  
+    
 [WOMANWISE](https://web.archive.org/Stories/0,1413,96%257E3797%257E,00.html)  
+[Steps for a healthy pregnancy](https://web.archive.org/Stories/0,1413,96%257E30236%257E,00.html)  
+    
 [BUSINESS](https://web.archive.org/Stories/0,1413,96%257E3784%257E,00.html)  
-[COLUMNISTS](https://web.archive.org/Stories/0,1413,96%257E3766%257E,00.html)  
-[FEATURES](https://web.archive.org/Stories/0,1413,96%257E3789%257E,00.html)  
-[HEALTH DAY](https://web.archive.org/Stories/0,1413,96%257E28217%257E,00.html)  
-[WEATHER](https://web.archive.org/Stories/0,1413,96%257E7709%257E,00.html)  
-[BROOKS Community Newspapers](https://web.archive.org/Stories/0,1413,96%257E3836%257E,00.html)  
+[Your Money](https://web.archive.org/Stories/0,1413,96%257E3784%257E,00.html)  
+[Business Postings](http://www.harvestadsdepot.com/~connpostint/0220/businesspost0215/businesspost0215.htm)  
+[Bragg's Business Basics](https://web.archive.org/Stories/0,1413,96%257E29981%257E,00.html)  
+[Stock Forecasts](http://www.valuengine.com/servlet/CTPSummary)  
+[PRNewsWire](http://www.prnewswire.com/cgi-bin/st_display.pl?Account=CT&Template=CTpost.menu)  
     
-[](http://connpost.lawinfo.com/)  
+[Crossword Puzzle](http://www.uclick.com/client/ctp/fcx/)  
     
+[Did ya know?](https://web.archive.org/Stories/0,1413,96%257E29543%257E,00.html)  
 [ENTERTAINMENT](https://web.archive.org/Stories/0,1413,96%257E3809%257E,00.html)  
-[SERVICES](https://web.archive.org/Stories/0,1413,96%257E3844%257E,00.html)  
-[Privacy Policy](https://web.archive.org/Stories/0,1413,96%257E3835%257E,00.html)  
-  
+[COLUMNISTS](https://web.archive.org/Stories/0,1413,96%257E3766%257E,00.html)  
+[WEDDING INFO](https://web.archive.org/Stories/0,1413,96%257E3790%257E,00.html)  
+[Weddings/Engagements](https://web.archive.org/Stories/0,1413,96%257E3790%257E,00.html)  
+[Wedding Form](http://63.147.65.112/weddings/weddingform.htm)  
+[Engagement Form](http://63.147.65.112/weddings/form.pdf)  
+[To Have & To Hold](http://adserver1.harvestadsdepot.com/connpostint/ss/006368/)  
+    
+[FEATURES](https://web.archive.org/Stories/0,1413,96%257E3789%257E,00.html)  
+[CT Teens](https://web.archive.org/Stories/0,1413,96%257E3793%257E,00.html)  
+[Senior News](https://web.archive.org/Stories/0,1413,96%257E3794%257E,00.html)  
+[SS Online for Women](http://www.ssa.gov/women/)  
+[Social Security](https://web.archive.org/Stories/0,1413,96%257E3796%257E,00.html)  
+[Gardening](https://web.archive.org/Stories/0,1413,96%257E3799%257E,00.html)  
+[Life Planning](https://web.archive.org/Stories/0,1413,96%257E3804%257E,00.html)  
+    
+[WEATHER](https://web.archive.org/Stories/0,1413,96%257E3826%257E,00.html)  
+[Weathercast Online](http://www.weatherwatchservice.com/bridgeport/bridgeport.html)  
+[Flight Delays](http://www.fly.faa.gov/flyFAA/index.html)  
+[Forecast-Today](https://web.archive.org/Stories/0,1413,96%257E7709%257E,00.html)  
+[Current Weather](http://www.msnbc.com/news/wea_front.asp?ta=y)  
+    
+[BROOKS Community Newspapers](http://www.brooksnewspapers.com./)  
+    
+[Contact Us](https://web.archive.org/Stories/0,1413,96%257E3844%257E,00.html)  
 [](http://connpost.lawinfo.com/)  
+    
+[SERVICES](https://web.archive.org/Stories/0,1413,96%257E3847%257E,00.html)  
+[Advertising](https://web.archive.org/Stories/0,1413,96%257E3842%257E,00.html)  
+[Archives](https://web.archive.org/Stories/0,1413,96%257E26644%257E,00.html)  
+[Electronic Requirements](http://63.147.65.112/req/index.html)  
+    
+[Subscriptions](https://web.archive.org/Stories/0,1413,96%257E3851%257E,00.html)  
+[Vacation Hold](https://web.archive.org/Stories/0,1413,96%257E3843%257E,00.html)  
+[Change Address](https://web.archive.org/Stories/0,1413,96%257E3849%257E,00.html)  
+[Subscribe](https://web.archive.org/Stories/0,1413,96%257E3851%257E,00.html)  
+    
+[REPRINTS](https://web.archive.org/Stories/0,1413,96%257E24431%257E,00.html)  
+[Purchase Photos](https://web.archive.org/Stories/0,1413,96%257E3847%257E,00.html)  
+[Mapquest](http://www.mapquest.com/)  
+[Feedback](https://web.archive.org/Stories/0,1413,96%257E3846%257E,00.html)  
+    
+[Privacy Policy](https://web.archive.org/Stories/0,1413,96%257E3835%257E,00.html)  
+[Public Notices](http://ctpost.abracat.com/c2/legalnotices/search/index.xml)  
+  
+[](http://www..connpost.com/Stories/0,1413,96~3750~1796948,00.html)  
   
 ---  
   
-[](http://www.qksrv.net/click-1078778-10276338)  
+[](http://shopping.newspaperads.com/ctpost/)  
   
-  | 
+[](http://service.bfast.com/bfast/click?bfmid=36490233&siteid=39123663&bfpage=cfx_check_5)
+
+  |  [](http://www.qksrv.net/click-1078778-5355938)
 
 |    
 |  | **General Privacy Policy**  
@@ -138,4 +221,8 @@ We use a third-party advertising company to serve ads when you visit our Web sit
 
 [](http://www.qksrv.net/click-1078778-5675666)
 
-[](http://adserver1.harvestadsdepot.com/connpostint/ss/006368/)
+[](http://www.qksrv.net/click-1078778-10289984)
+
+[](http://www.qksrv.net/click-1078778-9950850)
+
+[](http://adserver1.harvestadsdepot.com/connpostint/ss/autofriday/)
