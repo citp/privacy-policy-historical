@@ -1,90 +1,75 @@
-> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610031843id_/http%3A//www.mtvasia.com/Bottom/Privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205181813id_/http%3A//www.mtvasia.com/Info/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# MTVAsia.com - Privacy Policy
 
-**MTV ASIA ONLINE PRIVACY POLICY**
+|  **PRIVACY POLICY**
 
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+We are committed to protecting our users' privacy. Keeping the information you share with us on the Site secure and ensuring your understanding of how we collect, use and maintain your information is important to us at MTV Asia. We maintain physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your information. We continually assess new technology for protecting information and, when appropriate, we upgrade our information security systems. 
 
-**1\. Information MTV ASIA ONLINE gathers and tracks**
+Because of its importance and to make it easier for you to find and review it, we have made this Privacy Statement into a separate document on the Site. However, bear in mind it is a part of our agreement with you and the terms and conditions contained in our **[Terms of Use](https://web.archive.org/web/20031205181813id_/http%3A//www.mtvasia.com/Info/terms.html)** describe how and when we may make changes to these statements and terms, and how they become binding upon you. We again remind you to check back here and to our **[Terms of Use](https://web.archive.org/web/20031205181813id_/http%3A//www.mtvasia.com/Info/terms.html)** often to be sure you remain mindful of the terms and conditions that apply to you when you use the Site. 
 
-MTV ASIA ONLINE gathers two types of information about users: data that users provide through optional, voluntary registrations for services like bulletin board, electronic newsletters, contests, and online surveys; and data that MTV ASIA ONLINE gathers through aggregating tracking information derived mainly by tallying page views throughout our sites and click-through on our newsletters.
+**Disclosure (General):** Although your privacy is very important to us, in this legal and technical environment, we cannot fully ensure that your personally identifiable information will not be disclosed to third parties. Please see "Disclosure to Third Parties," below, for more information. 
 
-Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. Because MTV ASIA ONLINE derives its revenue mainly from advertising, providing such aggregated demographic data is essential to keeping our service free to users. The only situation in which MTV ASIA ONLINE divulges information about an individual user to a third party is with certain contests and sweepstakes -- and then, _only with the user's express consent._
+**Overview:** This Privacy Statement is intended to explain our privacy practices and inform you as to: 
 
-MTV ASIA ONLINE gathers user information in the following processes:
+  * the kinds of information we collect from users of the Site and how that information is collected; 
+  * how we use the information; 
+  * the circumstances under which we disclose information to third parties; 
+  * how you can access, update or delete any information collected about you by us; and 
+  * the mechanisms we have implemented to protect your personally identifiable information.
 
-**Optional registration**  
-Several MTV ASIA ONLINE services offer free, voluntary registration to users. By registering, users can participate in contests and use services (such as message board). They can also take advantage of personalization (the ability to select content according to a user-supplied profile).
+You can visit the Site and learn about our company and its Products, as well as certain goods and services available from our advertisers and suppliers. 
 
-During registration, the user **is required** to supply information such as username, password, e-mail address, age, gender, and other related information. In addition, the user can opt to subscribe to electronic newsletters.
+**Personally Identifiable Information:** When we use the term "personally identifiable information" we mean information such as your full name, street address, town or city, state, zip code, telephone number, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. 
 
-**Polling**  
-MTV ASIA ONLINE also offers interactive polls to users so they can easily share their opinions with other users and see what the MTV ASIA ONLINE audience thinks about various issues. MTV ASIA ONLINE uses a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
+Although we may track the numbers of visitors to inform us on how best to update the Site and enhance the experience for all visitors, personally identifiable information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the Site, enhance and improve our service, improve the look of the Site and display advertising and marketing information. 
 
-**Message boards/forums**  
-Users of the MTV ASIA ONLINE message board must register for this service (free of charge) in order to post messages, although they needn't register to visit the site. During registration, the user **is required** to supply a username, password, and e-mail address.
+We collect personally identifiable information about you when you visit the Site and input information, whether you are registering to use the Site, enrolling or signing up for features and functions, participating in Promotions or in the course of any other exchanges of information, transactions and activities. We may use the information we obtain from you, including personally identifiable information, to tailor your experience on the Site, to display content we think may be of interest to you, or to let us customize what you see when you visit the Site according to your preferences. 
 
-**Electronic newsletters**  
-MTV ASIA ONLINE offers a free electronic newsletter to users. MTV ASIA ONLINE gathers the e-mail addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list through the subscription management pages. The instructions for unsubscribing are also clearly stated on every electronic newsletter sent out. Users can also subscribe to the newsletters at the time of registration.
+Some features and functions of the Site require you to register or obtain our permission before you can use them - for security, identification and marketing reasons, among others - and as part of that process we may ask you to provide us with certain personally identifiable information. In addition, during the registration process we will also ask you to select (or we may provide) a user ID and password (we will allow you to change your password, as well as any personally identifiable information you have given us in order to keep this information current). Among other things, this information helps us securely identify you as a registered or permitted user of those features and functions. 
 
-MTV ASIA ONLINE delivers newsletters, marketing and product offerings via e-mail to only registered recipients from our subscription center. The e-mail tracking system recognizes the URL that was clicked, and records some information about you and your computer, such as the e-mail address that you provided to us, the browser, operating system, and IP address.
+Bear in mind that when you submit information to us, it does not guarantee that we will permit you to use any or all of the features or functions of the Site. 
 
-MTV ASIA ONLINE also uses the feature of your browser to set a "cookie" on your system. This allows us to measure and report the click-through rate on e-mails delivered and better determine future content.
+If you are a registered user, you also acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site and its functions and features, in connection with your registration and use of the Site. 
 
-While aggregate counts of click-through behavior are provided to advertisers, an advertiser will never know that a specific user clicked their ad. MTV ASIA ONLINE does not target advertising against specific user information. MTV ASIA ONLINE will not provide specific user information to any third party company.
+**Cookies:** We use 'cookie' technology to collect data regarding your visits to the Site. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including: 
 
-**"E-mail this story to a friend" service**  
-On MTV ASIA ONLINE, a reader can choose to electronically forward a story or article to someone else by clicking the link that accompanies that story. The user must provide their e-mail address, as well as that of the recipient. This information is used _only_ in the case of transmission errors and, of course, to let the recipient know who sent the story. The information is not used for any other purpose.
+  * keeping count of your return visits to the Site or our advertisers' or partners' sites;
+  * accumulating and reporting aggregate, statistical information in connection with the Site; 
+  * determining which features users like best; and
+  * saving your user ID, or other information so you don't have to re-enter it each time you visit the Site.
 
-**Surveys**  
-Occasionally MTV ASIA ONLINE conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party.
+**Third Parties on our Site:** Our Site may contain advertisements, references and links to other websites and organizations. We may also use third parties to display or serve advertising on the Site and our web-based newsletters. Often these third party advertising companies employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules may apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other web sites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours, and even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information and we encourage you to investigate and ask questions directly of them in this regard. 
 
-**Contests and sweepstakes**  
-MTV ASIA ONLINE offers contests and sweepstakes in which we request certain personal information. At a minimum, the required information includes name and e-mail address; in some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered in the entry form is used to verify the entrant's identity and to contact winners and/or prize recipients. There are two situations in which MTV ASIA ONLINE will divulge this information to a third party -- _provided the user gives express consent:_
+**Disclosure to Third Parties:** Except as described in this Privacy Statement, MTV Asia uses good faith efforts not to provide third parties with access to your personally identifiable information. We will, however, make your personally identifiable information available to others: 
 
-(1) A user may expressly choose to receive additional information from the contest sponsor, in which case the user's personally identifiable information is divulged to the advertiser.
+  * When we have your consent (you "opt in") to do so, in which case their use of your information is subject to their own privacy policies;
+  * When we have retained companies to work with or on behalf of MTV Asia to provide Products, goods or services that you have requested;
+  * When you use co-branded services - in which case you are giving us permission to pass any personally identifiable information you provide in the context of our co-branding and marketing relationship, back to our co-branding partner. Their use of your information is subject to their own privacy policies;
+  * When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process);
+  * if we believe your actions violate any law, regulation, our **Terms of Use** or any of our guidelines for promotions, Product offerings or any other features or functions of the Site, or if you threaten the rights, property or safety of MTV Asia, its suppliers, advertisers, other customers or users, or any other party;
+  * as and when we, in our sole discretion, believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests and/or to comply with our legal and regulatory obligations; or
+  * in the event of a bankruptcy, or a merger, acquisition, joint venture or other business combination involving us.
 
-(2) Some of the contests may be hosted on the MTV ASIA ONLINE site but administered by the sponsor; in such cases, the information a user provides is passed on to the third party _as long as that user gives express consent._ Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event. All contests and sweepstakes are conducted in full accordance with Singapore law.
+It is also possible that third parties may unlawfully intercept or access transmissions or private communications. 
 
-**Usage tracking**  
-MTV ASIA ONLINE tracks user traffic patterns throughout the site.
+We do not sell or market your personally identifiable information to unaffiliated organizations. 
 
-**Cookies**  
-A _cookie_ is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. MTV ASIA ONLINE uses cookies to track user traffic patterns (as described above), when you register as a member, and when you click on an ad:
+Some of the aggregate customer data we collect may be shared with advertising companies in order to enhance and improve the operation and relevance of the Site, but we do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. 
 
-* **Registration:** when you register, MTV ASIA ONLINE uses a cookie to store a unique, random user ID. We do not store passwords or any personal information about you. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. Cookies also enable you to visit member-restricted areas of the sites.
-* **Ads:** MTV ASIA ONLINE's advertising system delivers a one-time cookie to better track ad impressions and click rates. (Note: All online advertising on MTV Asia Online is served through DoubleClick's DART software. For more information about DoubleClick's privacy practice, please visit [www.doubleclick.net/privacy_policy](http://www.doubleclick.net/privacy_policy/).) If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie.
+**Communications from Us:** If you provide us with your e-mail address and telephone number, we may send you an e-mail or call you if you're shortlisted to win or have won our contests. 
 
-**You can refuse cookies by turning them off in your browser.** You do not need to have cookies turned on to use MTV ASIA ONLINE. However, you do need cookies to participate actively in the MTV ASIA ONLINE message board.
+**Summary:** Our privacy guidelines are designed to ensure that we: 
 
-**2\. Use of the information**
+  * collect and use your personally identifiable information only as necessary to deliver high quality service, to administer our business and to let you know of goods and services that are available from our family of companies;
+  * protect the personally identifiable information the Site's users share with us, maintaining strict standards of security and confidentiality. In this regard we even limit access by our own employees to those individuals who are trained and advised in the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes; 
+  * not disclose your personally identifiable information to any external organization, except as we have described in this Privacy Statement or unless we have previously obtained your consent ("opt in");
+  * require any other organization that we retain or engage to provide services for us, to conform to our privacy standards and to allow us to audit them for compliance;
+  * exchange information about you and carry out credit approvals or checks necessary for your purchases of Products from us, to prevent fraud and any other activities we may be required to monitor and report under applicable laws and regulations; and
+  * make every effort to keep your personally identifiable information complete, up to date, and accurate based on the information you provide us. Our Site provides a convenient and easy to use mechanism to allow you to access and update the personally identifiable information you give us.
 
-MTV ASIA ONLINE uses any information voluntarily given by our users to enhance their experience in our site, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
+**Sole Statement:** This privacy statement is the sole statement of MTV Asia's privacy policy with respect to the Site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. 
 
-* As stated above, MTV ASIA ONLINE uses information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in services like polls, contests, and message boards. We send out newsletters to subscribers on a regular schedule and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. MTV ASIA ONLINE never shares newsletter mailing lists with any third parties, including advertisers or partners.
-* We use tracking information to determine which areas of MTV ASIA ONLINE users like and don't like, based on traffic to those areas. MTV ASIA ONLINE does not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
-* MTV ASIA ONLINE creates aggregate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs.
-* Data may be transferred from Singapore to other jurisdictions, but at all times is kept within Asiacontent.com and its family of sites.
+Copyright (c) MTV Asia LDC, 2003 All Rights Reserved. 
 
-**3\. Sharing of the information**
-
-MTV ASIA ONLINE uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We do not share information about individual users with any third party, except in the case of some contests and sweepstakes -- and then, _only with a user's express consent._ MTV ASIA ONLINE does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly. (MTV ASIA ONLINE will divulge information only as necessary to comply with various laws.)
-
-**4\. Opt-out policy**
-
-MTV ASIA ONLINE gives users options wherever necessary and practical. Such choices include:
-
-* Opting not to receive our electronic newsletters when participating in a contest 
-* Opting not to provide certain personal information when registering for a service or when participating in some contests (see above) 
-* Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.
-
-**5\. Delete/deactivate policy**
-
-Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter.
-
-**MTV Asia Online** c/o MTV Asia LDC  
-Robinson Road  
-P. O. Box 2088  
-Singapore 904088  
-
+| 
