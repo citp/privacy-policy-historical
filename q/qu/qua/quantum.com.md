@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621060439id_/http%3A//www.quantum.com/AM/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2003-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031213062812id_/http%3A//www.quantum.com/AM/privacy.htm) for the most accurate reproduction.*
 
-# Quantum : privacy
+# privacy -
 
 This statement applies with respect to information we collect from quantum.com and any other sites on the World Wide Web owned and/or operated by Quantum Corporation, but does not address our activities with respect to the Registered Customer accounts that we offer. This statement is part of our user agreement and is subject to all of its terms. Other Web sites (including those we link to) have their own practices. 
 
