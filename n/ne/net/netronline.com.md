@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204043557id_/http%3A//www.netronline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204220837id_/http%3A//www.netronline.com/privacy.htm) for the most accurate reproduction.*
 
 # NETRonline's Privacy Statement
 
@@ -90,7 +90,7 @@ Advertisers
 > 
 > Demographic Information is used to understand the needs of our visitors so that we may tailor our site content to best suit them.  The survey that is indicated by the graphic to below is maintained by a third party advertising agency and may share the survey responses with other parties.  **NETRonline __** has no control over how the information given there is handled.
 >
->> [](https://web.archive.org/web/20020204043557id_/http%3A//www.netronline.com/survey.html)
+>> [](https://web.archive.org/web/20021204220837id_/http%3A//www.netronline.com/survey.html)
 > 
 > Contact information from the surveys is used to ship purchases or information about our company. The customer's contact information is also used to get in touch with the visitor when necessary, or to provide them with requested information about the company.
 > 
