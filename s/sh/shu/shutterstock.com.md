@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605112616id_/http%3A//shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204133253id_/http%3A//shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
 
 # ShutterStock :: Inexpensive Royalty Free Stock Photography
+
+|  | 
 
 **Privacy Statement for Advercast LLC DBA ShutterStock**
 
