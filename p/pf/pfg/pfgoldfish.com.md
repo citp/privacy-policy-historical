@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfgoldfish.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408003831id_/http%3A//www.pfgoldfish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfgoldfish.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211022145id_/http%3A//pfgoldfish.com/privacy.html) for the most accurate reproduction.*
 
 # Goldfish Privacy Statement
 
@@ -28,4 +28,4 @@ Our site sometimes includes notices of sweepstakes or other promotions we are co
 **Cookies**  
 Like most companies, we use "cookie" technology on our web site. When you log in, the cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't track any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer.
 
-[ **Back to the Goldfish Hideaway**](https://web.archive.org/web/20010408003831id_/http%3A//www.pfgoldfish.com/index.html)
+[ **Back to the Goldfish Hideaway**](https://web.archive.org/web/20011211022145id_/http%3A//pfgoldfish.com/index.html)
