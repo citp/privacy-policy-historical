@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401131019id_/http%3A//www.tophosts.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002030456id_/http%3A//www.tophosts.com/pages/privacy.html) for the most accurate reproduction.*
 
 # TopHosts.Com - The Complete Web Hosting Resource
 
@@ -77,13 +77,25 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 |  |  |   
 ---  
 [ ](https://web.archive.org/pages/top25/)  
-[](https://web.archive.org/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/795939013/Right/expert-sky-th/TopHosts_skyscraper_.com.gif/64316564656561313365383938666230)  
+[](https://web.archive.org/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/91069078/Right/inetu-sky-th390207J2/160x600a.gif/64316564656561663366376239356430)  
   
-[**Template Monster**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1641548718/Middle1/templatemonster-spons-th/New_Text_Document.txt/64316564656561313365383938666230)  
-•The largest website template provider in the world. Over 2500+ designs available for immediate download!
+[**iPowerWeb**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/419588011/Middle1/ipowerweb-sponsor-th/ipowerweb-sponsor-th.html/64316564656561663366376239356430)  
+•$7.95/mo. Web Hosting! Powerful, Affordable Solution Free Setup & Free Domain
 
-[**Digital Space**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1901715171/Middle2/digitalspace-featurelink-th/digitalspace-sponsorlink-th.html/64316564656561313365383938666230)  
-•$3/month / FREE setup, Free Trial, Webmail, Control Panel, JSP, MySQL, PHP
-
-[ **ANhosts**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1777922676/Middle3/anhosts-sponsorlink-th/anhosts-sponsorlink-th.html/64316564656561313365383938666230)  
+[**ANhosts**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/957882268/Middle2/anhosts-sponsorlink-th/anhosts-sponsorlink-th.html/64316564656561663366376239356430)  
 •Hosting from $6.95/mth with 500 MB storage, 35 GB transfer and more
+
+[ **Sagonet**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1976098617/Middle3/sagonet-sponsorlink-th/sagonet-sponsorlink-th.html/64316564656561663366376239356430)  
+•Sago Firebox Linux and FreeBSD starterserver - $99/mo, 700GB, 1.8GHz Intel Celeron
+
+[ **Interland**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/937052946/Frame1/interland-sponsor-th/spons.txt/64316564656561663366376239356430)  
+•Reliable, secure, affordable hosting from Interland!  
+  
+TopHosts Poll | What is your primary initiative for increasing customer retention?  
+---  
+Hosting client seminars  
+Implementing CRM software  
+Increasing customer service  
+Initiating loyalty programs  
+No measures are being taken  
+Offering long term discounts
