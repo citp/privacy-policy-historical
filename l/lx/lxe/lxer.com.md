@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lxer.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623073150id_/http%3A//lxer.com/module/pages/v/4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lxer.com privacy policy that was archived on 2004-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041222221717id_/http%3A//lxer.com/module/pages/v/4) for the most accurate reproduction.*
 
 # LXer: Privacy Policy
 
@@ -27,70 +27,49 @@ But only for login, and not for any other use.
 
 | We require cookies only for the login of the system, and some navigational aids (bread-crumbs). They are not used for tracking, but are used to identify you, as a member, to our server and to assist with your navigation. Without cookies, it would be impossible for us to have logins and member accounts, rendering the site largely useless. This is the use for which cookies were invented in the first place.  
   
-[](http://lxer.com/)
+[](https://web.archive.org/)
 
-[**What is LXer?**](http://lxer.com/module/newswire/view/1/index.html)
+LXer is read by over 4,000 individuals daily, and is an excellent place for you to publish your ideas, thoughts, reviews, complaints, etc.  Do you have something to say to the Linux community? 
 
-  
+[Publish it here](https://web.archive.org/module/newswire/stories/add.php). 
+
 If you don't have an account yet, visit the [registration page](https://web.archive.org/members/signup.php) to sign up. 
 
-If you already have an account, you may login here:  
-
+If you already have an account, you may login here: 
 
 Enter your search terms below:  
 
 
-[](https://web.archive.org/module/newswire/headlines.rdf)
+[](https://web.archive.org/module/newswire/headlines.rss)
 
-| [Bloggers Consider Open-Source Software](https://web.archive.org/module/newswire/view/16414/index.html)  
- _Jun 22, 2004 8:47 PM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/16414/index.html#threadlist)  
+| [Site review: LinuxVirgins.com](https://web.archive.org/module/newswire/view/28603/index.html)  
+ _Dec 22, 2004 11:35 AM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28603/index.html#threadlist)  
 ---  
-[Linux, AdvancedTCA emerge as telecom standards](https://web.archive.org/module/newswire/view/16418/index.html)  
- _Jun 22, 2004 8:46 PM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/16418/index.html#threadlist)  
-[Open source IP telephony in prime time ? - Yes](https://web.archive.org/module/newswire/view/16395/index.html)  
- _Jun 22, 2004 4:52 PM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/16395/index.html#threadlist)  
-[Open source IP telephony in prime time ? - No](https://web.archive.org/module/newswire/view/16394/index.html)  
- _Jun 22, 2004 4:52 PM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/16394/index.html#threadlist)  
-[Red Hat Offers Black Belt For Linux Geeks](https://web.archive.org/module/newswire/view/16385/index.html)  
- _Jun 22, 2004 4:28 PM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/16385/index.html#threadlist)  
-[tinysofa update for kernel (TSSA-2004-011)](https://web.archive.org/module/newswire/view/16412/index.html)  
- _Jun 22, 2004 3:35 PM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/16412/index.html#threadlist)  
-[Conectiva update for kernel (CLA-2004:845)](https://web.archive.org/module/newswire/view/16409/index.html)  
- _Jun 22, 2004 3:35 PM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/16409/index.html#threadlist)  
-[Gentoo update for ipsec-tools (200406-17)](https://web.archive.org/module/newswire/view/16410/index.html)  
- _Jun 22, 2004 3:35 PM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/16410/index.html#threadlist)  
-[Mandrake update for dhcp (MDKSA-2004:061)](https://web.archive.org/module/newswire/view/16411/index.html)  
- _Jun 22, 2004 3:35 PM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/16411/index.html#threadlist)  
-[Gentoo Weekly Newsletter - Volume 3, Issue 25](https://web.archive.org/module/newswire/view/16379/index.html)  
- _Jun 22, 2004 3:18 PM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/16379/index.html#threadlist)  
-  
-[» LWN.net](http://lwn.net/)  
-Their weekly coverage of Linux news is unmatched in this community.
-
-[» Freshmeat](http://freshmeat.net/)  
-All software updates are announced on Freshmeat.
-
-[» LinuxDevices](http://linuxdevices.com/)  
-Excellent news for embedded and desktop Linux.
-
-[» OSNews](http://www.osnews.com/)  
-Good newswire for general computer stuff, including Linux.
-
-[» Linux Gazette](http://www.linuxgazette.net/)  
-Long-time favorite Linux-related "e-zine". Outstanding articles! Comes out monthly.
-
-[» OSDir.com](http://osdir.com/)  
-Open Source articles, reviews, tid-bits, and software. On O'Reilly Network.
-
-[» MobileTechNews](http://mobiletechnews.com/)  
-Excellent site for wireless technology news, often pertaining to Linux.
+[2004: The year in Linux](https://web.archive.org/module/newswire/view/28605/index.html)  
+ _Dec 22, 2004 10:55 AM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28605/index.html#threadlist)  
+[Microsoft gets one over open source](https://web.archive.org/module/newswire/view/28609/index.html)  
+ _Dec 22, 2004 10:40 AM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28609/index.html#threadlist)  
+[DoCoMo invests $3m in Linux company](https://web.archive.org/module/newswire/view/28611/index.html)  
+ _Dec 22, 2004 10:18 AM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28611/index.html#threadlist)  
+[OSDir.com Weekly Screenshots for Dec 21, 2004](https://web.archive.org/module/newswire/view/28584/index.html)  
+ _Dec 22, 2004 10:05 AM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28584/index.html#threadlist)  
+[Project to manage open source complexity](https://web.archive.org/module/newswire/view/28591/index.html)  
+ _Dec 22, 2004 9:14 AM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28591/index.html#threadlist)  
+[Paul Ferris: The GNU/Linux desktop-adoption drive of 2005](https://web.archive.org/module/newswire/view/28597/index.html)  
+ _Dec 22, 2004 7:33 AM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28597/index.html#threadlist)  
+[LWN: James Barry Corbet 1936 - 2004](https://web.archive.org/module/newswire/view/28580/index.html)  
+ _Dec 22, 2004 7:23 AM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28580/index.html#threadlist)  
+[Debian Weekly News - December 21st, 2004](https://web.archive.org/module/newswire/view/28608/index.html)  
+ _Dec 22, 2004 7:19 AM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28608/index.html#threadlist)  
+[Novell Linux Desktop 9 screenshot tour](https://web.archive.org/module/newswire/view/28504/index.html)  
+ _Dec 21, 2004 10:05 PM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28504/index.html#threadlist)
