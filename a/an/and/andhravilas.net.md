@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andhravilas.net privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623032345id_/http%3A//andhravilas.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhravilas.net privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215112430id_/http%3A//andhravilas.net/privacy.asp) for the most accurate reproduction.*
 
 # Telugu DVD Store - Andhravilas.com
 
