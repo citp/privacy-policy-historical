@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206072200id_/http%3A//www.radisson.com/RAD/Customer_Service/Privacy/0%2C3329%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607145952id_/http%3A//www.radisson.com/RAD/Customer_Service/Privacy.jsp) for the most accurate reproduction.*
 
 # Welcome to Radisson Hotels - Your Privacy Rights
 
 |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---  
-[](https://web.archive.org/RAD/RadissonHome/0,2509,,00.html) |  |   
-| [](http://www.radisson.com/RAD/Reservations/ClearReservation/1,4259,redirectPath%2B%257B%252FRAD%252FReservations%252FHotelSearchRes%257D,00.html) | : | [](http://www.radisson.com/RAD/Adjustments/CurrentReservations/1,2725,,00.html) | : | [](http://www.radisson.com/RAD/Plan_an_Event/radEvent/0,2790,,00.html) | : | [](http://www.radisson.com/RAD/Reservations/ClearReservation/1,4259,redirectPath%2B%257B%252FRAD%252FReservations%252FHotelSearchBrowse%257D,00.html) | : | [](http://www.radisson.com/RAD/Customer_Service/radServiceFirstHome/1,2519,,00.html)  
+[](http://www.radisson.com/RAD/RadissonHome.jsp) |  |   
+| [](http://www.radisson.com/RAD/Reservations/ClearReservation.jsp?redirectPath=%2FRAD%2FReservations%2FHotelSearchRes) | : | [](http://www.radisson.com/RAD/Adjustments/CurrentReservations.jsp) | : | [](http://www.radisson.com/RAD/Plan_an_Event/radEvent.jsp) | : | [](http://www.radisson.com/RAD/Reservations/ClearReservation.jsp?redirectPath=%2FRAD%2FReservations%2FHotelSearchBrowse) | : | [](http://www.radisson.com/RAD/Customer_Service/radServiceFirstHome.jsp)  
 ---|---|---|---|---|---|---|---|---  
 |   
 |   
@@ -22,7 +22,7 @@ Information is collected from you to make it easier and more rewarding for you t
 
 **What Information Do We Collect?**  
 We collect information in several different ways. We collect the domain name of visitors to our Web pages, the e-mail addresses of those visitors who volunteer them, user-specific information on the pages visitors access, and information such as survey information, postal address, telephone numbers and site registrations that you provide voluntarily. Like many other commercial websites, our websites may employ a standard technology called a "cookie" to collect information about how our site is used. **Who Is Collecting the Information?**  
-The information that you provide is collected by this Company. We are a subsidiary of Carlson Companies, Inc., which is the parent corporation of a diversified, world-wide group of service corporations operating primarily in the business of hospitality, travel, e-commerce and relationship marketing. The customer-focused initiatives of Carlson Companies, Inc. are designed to deliver a broad range of personalized products and services to our customers. Our brands include Radisson Hotels, Country Inns & Suites by Carlson, Regent Hotels, Radisson Seven Seas Cruises, Carlson Vacation Ownership, Carlson Lifestyle Living, Carlson Travel Group, Gold Points, and Carlson Marketing Group. We have a major interest in Carlson Restaurants Worldwide (including TGI Friday's, Italianni's and other restaurant concepts), Carlson Wagonlit Travel and Thomas Cook Travel.
+The information that you provide is collected by this Company. We are a subsidiary of Carlson Companies, Inc., which is the parent corporation of a diversified, world-wide group of service corporations operating primarily in the business of hospitality, travel, e-commerce and relationship marketing. The customer-focused initiatives of Carlson Companies, Inc. are designed to deliver a broad range of personalized products and services to our customers. Our brands include Radisson Hotels, Country Inns & Suites by Carlson, Park Inns and Park Plaza Hotels, Regent Hotels, Radisson Seven Seas Cruises, Carlson Vacation Ownership, Carlson Lifestyle Living, Carlson Travel Group, Gold Points, and Carlson Marketing Group. We have a major interest in Carlson Restaurants Worldwide (including TGI Friday's, Italianni's and other restaurant concepts) and Carlson Wagonlit Travel.
 
 **How the Information Is Used**  
 We use the information that we collect to understand your preferences and history. With this information we can tailor our services and special offerings to provide superior levels of convenience and service on a one-to-one basis. We also use the collected information to improve the design of our Web pages. If you collect Gold Points by using our brands, processing information will be sent to Gold Points, so that they can keep track of your transactions and properly credit your account. 
@@ -48,22 +48,21 @@ By using this site, you agree to our Privacy Policy. We may also change the Poli
 
 |   
 ---  
-[](https://web.archive.org/RAD/Customer_Service/radYourStayLocation/1,2524,,00.html)  
+[](https://web.archive.org/RAD/Customer_Service/radYourStayLocation.jsp)  
   
   
-[](https://web.archive.org/RAD/Customer_Service/radContactUs/0,3322,USRAD,00.html)  
+[](https://web.archive.org/RAD/Customer_Service/radContactUs.jsp?COUNTRY_CODE=US&BRAND_CODE=RAD)  
   
   
-[](https://web.archive.org/RAD/Customer_Service/radEmailUsCategory/1,3324,,00.html)  
+[](https://web.archive.org/RAD/Customer_Service/radEmailUsCategory.jsp)  
   
   
-[](https://web.archive.org/RAD/Customer_Service/Privacy/0,3329,,00.html)  
   
   
-[](https://web.archive.org/RAD/Customer_Service/radUsingRadissonCom/0,2521,,00.html)  
+[](https://web.archive.org/RAD/Customer_Service/radUsingRadissonCom.jsp)  
   
   
-[](https://web.archive.org/RAD/Customer_Service/Terms/0,3328,,00.html)  
+[](https://web.archive.org/RAD/Customer_Service/Terms.jsp)  
 |  |   
 |  |   
 |  |   
