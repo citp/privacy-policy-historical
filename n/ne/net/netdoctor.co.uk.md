@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netdoctor.co.uk privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401135553id_/http%3A//netdoctor.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdoctor.co.uk privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002075907id_/http%3A//www.netdoctor.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy and Consent Statement
 
