@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Hy-Vee - Privacy
 
-| [](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp)  
+| [](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp)  
 ---  
 |  |  |   
 ---  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=weeklyspecials)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=onlineshopping)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=drugstore)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=coupons)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=floral)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=giftcards)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=internetbanking)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=products)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=abouthyvee)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=whatsnew)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=careers)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=storelocator)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=mediacenter)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=recipes)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/health/weeklymenu.pdf)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=health)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=links)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=contactus)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=search)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=kidzone)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=weeklyspecials)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=drugstore)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=coupons)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=floral)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=giftcards)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=internetbanking)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=products)  
+[](http://hyvee.24-7movieguide.com/)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=abouthyvee)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=whatsnew)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=careers)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=storelocator)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=mediacenter)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=recipes)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/health/weeklymenu.pdf)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=health)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=links)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=contactus)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=search)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=kidzone)  
 |  |  |  |  |   
 ---|---|---|---  
 |   
@@ -42,12 +42,12 @@ If you have questions about this privacy policy, just [send us a note](mailto:in
 
 |   
 |   
-| [](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=WeeklySpecials)  
+| [](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=WeeklySpecials)  
 ---  
 [](http://www.upromise.com/)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=drugtown)  
-[](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=recipes)  
-| [](https://web.archive.org/web/20021208181111id_/http%3A//www.hy-vee.com/default.asp?p=storelocator)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=drugtown)  
+[](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=recipes)  
+| [](https://web.archive.org/web/20030608235719id_/http%3A//www.hy-vee.com/default.asp?p=storelocator)  
 ---  
   
 
