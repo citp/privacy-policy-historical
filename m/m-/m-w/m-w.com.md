@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the m-w.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204085850id_/http%3A//m-w.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m-w.com privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325101532id_/http%3A//www.m-w.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Merriam-Webster Online
 
@@ -9,7 +9,7 @@ Merriam-Webster is committed to respecting the privacy of visitors to its Web si
 **Privacy and Personal Information**  
 Merriam-Webster protects the identity of visitors to Merriam-Webster OnLine by limiting the collection of personal information. For certain promotions and to access certain features, such as to receive a Word of the Day subscription, we may request a voluntary submission of information such as name, e-mail address, city, state, and age. 
 
-Merriam-Webster does not knowingly collect or solicit personally identifying information from or about children under 13, except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Merriam-Webster has any information from or about anyone under 13, please e-mail us at the Comments and Suggestions address listed on our [Contact Us](https://web.archive.org/web/20041204085850id_/http%3A//m-w.com/info/contact.htm) page. 
+Merriam-Webster does not knowingly collect or solicit personally identifying information from or about children under 13, except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Merriam-Webster has any information from or about anyone under 13, please e-mail us at the Comments and Suggestions address listed on our [Contact Us](https://web.archive.org/web/20050325101532id_/http%3A//www.m-w.com/info/contact.htm) page. 
 
 All personally identifying information collected through Merriam-Webster OnLine is used by Merriam-Webster and its staff to process and manage subscriptions, track site usage patterns and statistics, or to deliver services through the site; such information may also be used by the company for market research or for prize or information-request fulfillment unless otherwise indicated. Such information will not be posted or published by us, and, except as specified below in this privacy policy regarding anonymous aggregated data, or to provide services to you on behalf of Merriam-Webster OnLine, it will not be provided to third-party providers without consent. 
 
@@ -46,14 +46,14 @@ We may occasionally conduct on-line surveys. All surveys are voluntary and you m
 We use cookie technology and software logs to monitor the use of Merriam-Webster OnLine and to gather non-personal information about visitors to the site. None of the information we gather in this way can be used to identify any individual who visits the site. These monitoring systems allow us to track general information about our visitors, such as the type of browsers (for example, Netscape or Internet Explorer), the operating systems (for instance, Windows or Macintosh), or the Internet providers (for instance, AOL) they use. This information is used for statistical and market research purposes to tailor content to usage patterns and to provide services requested by our customers. 
 
 **Copyright**  
-All of the content on Merriam-Webster OnLine is copyrighted by Merriam-Webster, Incorporated, 47 Federal Street, P.O. Box 281, Springfield, MA 01102, and it cannot be redistributed or used for commercial purposes. More detailed information about Merriam-Webster's copyrights and trademarks is available on our [Copyright Notice](https://web.archive.org/web/20041204085850id_/http%3A//m-w.com/info/copyright.htm) page. 
+All of the content on Merriam-Webster OnLine is copyrighted by Merriam-Webster, Incorporated, 47 Federal Street, P.O. Box 281, Springfield, MA 01102, and it cannot be redistributed or used for commercial purposes. More detailed information about Merriam-Webster's copyrights and trademarks is available on our [Copyright Notice](https://web.archive.org/web/20050325101532id_/http%3A//www.m-w.com/info/copyright.htm) page. 
 
 **Contacting Us**  
-If you have questions about Merriam-Webster or its products, visit our [Contact Us](https://web.archive.org/web/20041204085850id_/http%3A//m-w.com/info/contact.htm) page to find e-mail addresses and other contact information for the appropriate department. 
+If you have questions about Merriam-Webster or its products, visit our [Contact Us](https://web.archive.org/web/20050325101532id_/http%3A//www.m-w.com/info/contact.htm) page to find e-mail addresses and other contact information for the appropriate department. 
 
 **Acceptance of Privacy Policy Terms and Conditions**  
 By using this site, you signify your agreement to the terms and conditions of this Merriam-Webster OnLine Privacy Policy. If you do not agree to these terms, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any modifications. Your continued use of Merriam-Webster OnLine following the posting of any changes to these terms shall mean that you have accepted those changes.
 
-If you have any questions or concerns, please send an e-mail to our [suggestion box](https://web.archive.org/web/20041204085850id_/http%3A//m-w.com/info/contact.htm). 
+If you have any questions or concerns, please send an e-mail to our [suggestion box](https://web.archive.org/web/20050325101532id_/http%3A//www.m-w.com/info/contact.htm). 
 
 Back to top
