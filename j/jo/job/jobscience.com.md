@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204174001id_/http%3A//jobscience.com/corporate/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204160117id_/http%3A//www.jobscience.com/corporate/Privacy.cfm) for the most accurate reproduction.*
 
 # Jobscience | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Date : 1/31/2020 
 
-** |  [ ](http://ad.doubleclick.net/jump/N763.jobscience/B46445;sz=468x60;ord=D15BD888-A9FD-4797-A9E1272DE2BA3728?)  
+** |   
 ---|---  
    
 [](https://web.archive.org/) | [](https://web.archive.org/) | [](https://web.archive.org/) |  | [](https://web.archive.org/search/) | [](https://web.archive.org/LoginForm.cfm)  
@@ -18,10 +18,10 @@ Date : 1/31/2020
    
 **     · [About Us](https://web.archive.org/corporate/)**   
 **     · [Business Summary](https://web.archive.org/corporate/Summary.cfm)**   
-**     · [Jobscience Fact Sheet](https://web.archive.org/web/20011204174001id_/http%3A//jobscience.com/corporate/Fact.cfm)**   
-**     · [Industry Background](https://web.archive.org/web/20011204174001id_/http%3A//jobscience.com/corporate/Industry.cfm)**   
+**     · [Jobscience Fact Sheet](https://web.archive.org/web/20020204160117id_/http%3A//www.jobscience.com/corporate/Fact.cfm)**   
+**     · [Industry Background](https://web.archive.org/web/20020204160117id_/http%3A//www.jobscience.com/corporate/Industry.cfm)**   
 **     · [Our Team](https://web.archive.org/corporate/Team.cfm)**   
-**     · [Careers with](https://web.archive.org/web/20011204174001id_/http%3A//jobscience.com/corporate/Careers.cfm)  
+**     · [Careers with](https://web.archive.org/web/20020204160117id_/http%3A//www.jobscience.com/corporate/Careers.cfm)  
       [Jobscience](https://web.archive.org/corporate/Careers.cfm)**   
 **     · [Press](https://web.archive.org/corporate/Press.cfm)**   
 **     · [Terms of Use](https://web.archive.org/corporate/Terms.cfm)**   
@@ -106,4 +106,4 @@ If we decide to change our privacy commitment for Jobscience, we will post those
 
 |  |   
   
-**Copyright 2000 Jobscience, Inc.   1(877)298-6598**
+**Copyright 2000 Jobscience, Inc.   1(866) 284-1892**
