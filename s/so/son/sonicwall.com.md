@@ -1,31 +1,31 @@
-> *The following text is extracted and transformed from the sonicwall.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicwall.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/company/privacy.html) for the most accurate reproduction.*
 
 # SonicWALL - Privacy Statement
 
-| [](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/index.html)  
+| [](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/index.html)  
 ---  
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/products/index.html)  
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/applications/index.html)  
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/industries/index.html)  
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/support/index.html)  
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/howtobuy/index.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/products/index.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/applications/index.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/industries/index.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/services/index.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/alert/index.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/howtobuy/index.html)  
 [](http://www.sonicwall.com/channel_partners/index.asp)  
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/company/index.html)  
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/company/mgmt.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/company/index.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/company/mgmt.html)  
   
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/company/news.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/company/investor.html)  
   
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/company/investor.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/company/jobs.html)  
   
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/company/jobs.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/company/events.html)  
   
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/company/events.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/company/contact.html)  
   
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/company/contact.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/company/strategic.html)  
   
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/company/strategic.html)  
-  
-[](https://web.archive.org/web/20030622050402id_/http%3A//www.sonicwall.com/intl/index.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/newsroom/index.html)  
+[](https://web.archive.org/web/20031202033710id_/http%3A//www.sonicwall.com/intl/index.html)  
 ---  
 |  |  |  |   
 |  |  |  |   
