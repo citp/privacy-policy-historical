@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanpressinstitute.org privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601113651id_/http%3A//americanpressinstitute.org/news.cfm%3Fid%3D83) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanpressinstitute.org privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401150330id_/http%3A//www.americanpressinstitute.org/news.cfm%3Fid%3D83) for the most accurate reproduction.*
 
 # Privacy Policy
 
