@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powervps.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602211940id_/http%3A//www.powervps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powervps.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204021818id_/http%3A//www.powervps.com/privacy.php) for the most accurate reproduction.*
 
 # PowerVPS :: Privacy Policy
 
