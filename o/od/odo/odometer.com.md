@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odometer.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604041529id_/http%3A//www.findit.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odometer.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206083958id_/http%3A//www.findit.com/privacy.asp) for the most accurate reproduction.*
 
 # Web Search - Findit.com
 
