@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themovechannel.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204060126id_/http%3A//www.themovechannel.com/whosmove/company-information/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovechannel.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308102014id_/http%3A//www.themovechannel.com/whosmove/company-information/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy for themovechannel.com
 
@@ -20,5 +20,5 @@ Should you not wish to receive the delivery of information subsequent to registr
 **Cookies**  
 As part of offering and providing customisable and personalised services, TheMoveChannel.com uses cookies to store and sometimes track information about you and to store your preferences. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All areas on TheMoveChannel.com where you are prompted to log-in or that are customisable ask that you accept cookies. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. 
 
-|   | [](https://web.archive.org/web/20041204060126id_/http%3A//www.themovechannel.com/whosmove/company-information/default.asp) |    
+|   | [](https://web.archive.org/web/20050308102014id_/http%3A//www.themovechannel.com/whosmove/company-information/default.asp) |    
 ---|---|---
