@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysegov.com privacy policy that was archived on 2001-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010622223150id_/http%3A//www.nysegov.com/citguide.cfm%3Fdisplaymode%3Dnormal%26fontsize%3D100%26contrast%3Dlod%26context%3Dcitguide%26content%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysegov.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607110800id_/http%3A//nysegov.com/citguide.cfm%3Fdisplaymode%3Dnormal%26fontsize%3D100%26contrast%3Dlod%26context%3Dcitguide%26content%3Dprivacy) for the most accurate reproduction.*
 
 # New York State | Citizen Guide
 
