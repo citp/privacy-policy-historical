@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the target.com.au privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810123042id_/http%3A//www.target.com.au/html/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.com.au privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608172938id_/http%3A//www.target.com.au/html/privacy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
-|  | [](https://web.archive.org/web/20030810123042id_/http%3A//www.target.com.au/html/homepage/home.htm) |  |  |  |   
+|  | [](https://web.archive.org/web/20040608172938id_/http%3A//www.target.com.au/html/homepage/home.htm) |  |  |  |   
 ---|---|---  
 | Target's Privacy Statement  
 |   
@@ -38,7 +38,7 @@ The personal information we collect is in most cases supplied directly by you wh
 
   The type of service or interaction you wish to receive will determine the specific type of information we need to collect. This may include the following: Name, address, phone and other contact details (fax, email etc), merchandise information (purchases, orders etc), and method of payment.
 
-  Sometimes we collect other information such as where you shop or what your areas of interest are, so that we can improve our services offering to you. Through business partners such as Fly Buys and GE Capital Finance, who administer our store cards, we may also collect transaction information.
+  Sometimes we collect other information such as where you shop or what your areas of interest are, so that we can improve our services offering to you. Through business partners such as FlyBuys and GE Capital Finance, who administer our store cards, we may also collect transaction information.
 
 Why we collect information  
   
@@ -48,12 +48,12 @@ We collect information for a number of reasons including to:
   
 We collect information in a number of ways including:  
   
-|  | When you register your details with us to receive our weekly [Newsletter](https://web.archive.org/web/20030810123042id_/http%3A//www.target.com.au/html/newsletter/newsletter.htm) or give us the information  
+|  | When you register your details with us to receive our weekly [Newsletter](https://web.archive.org/web/20040608172938id_/http%3A//www.target.com.au/html/newsletter/newsletter.htm) or give us the information  
 ---|---  
 | When you order goods or services, particularly when those products are delivered  
 | When you use our lay-by service  
 | When you open an account with us  
-| When you shop in our stores and use your [Fly Buys](https://web.archive.org/web/20030810123042id_/http%3A//www.target.com.au/html/flybuy/flybuys.htm) or your [Coles Myer Card®](https://web.archive.org/web/20030810123042id_/http%3A//www.target.com.au/html/cmcard/cmcard.htm)  
+| When you shop in our stores and use your [FlyBuys](https://web.archive.org/web/20040608172938id_/http%3A//www.target.com.au/html/flybuy/flybuys.htm) or your [Coles Myer Card®](https://web.archive.org/web/20040608172938id_/http%3A//www.target.com.au/html/cmcard/cmcard.htm)  
 | Sometimes, we may add to your personal information additional information from external sources. This is mainly done to verify the accuracy of the information we have and, again, to personalise and improve our service  
    
 Who we share your information with  
@@ -69,6 +69,8 @@ From time to time and in line with customer expectations and legislative changes
      
    
   
+2624
+
 | 
 
 © 2002 Target Australia Pty Ltd ABN 75 004 250 944
