@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcuhealth.org privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009205737id_/http%3A//www.vcuhealth.org/webprivate.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcuhealth.org privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407060826id_/http%3A//www.vcuhealth.org/webprivate.html) for the most accurate reproduction.*
 
 # Virginia Commonwealth University Health System: Health and Patient Care
 
