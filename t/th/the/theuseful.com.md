@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theuseful.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603235303id_/http%3A//www.theuseful.com/info.htm%3Ftp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theuseful.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205220242id_/http%3A//www.theuseful.com/info.htm%3Ftp%3Dprivacy) for the most accurate reproduction.*
 
 # TheUseful.com
 
@@ -6,7 +6,9 @@ We respect your desire for Internet security and privacy, and have taken measure
 
 Our membership registration process requires that you provide us with basic contact information such as name, e-mail, address and birthdate. Your personal information will be used only to help us provide a better, more relevant experience.
 
-Our site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+Minors under 13 years of age are not allowed to participate nor register for any of the services offered by TheUseful.com. No information should be submitted to, or posted at, any TheUseful.com Web sites by visitors under 13 years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+
+Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. Measures we take to uphold the security of user personal information includes, but is not limited to: Private network connection for database servers containing user information, user data encryption, and continuous monitering of servers for intrustion with standby escalation procedures.
 
 Our site provides users the opportunity to opt-out of receiving communications from us. We allow you to control the e-mail that you receive from us. In addition, our site provides its members the opportunity to opt-in or opt-out of receiving communications from third-party sponsors.
 
