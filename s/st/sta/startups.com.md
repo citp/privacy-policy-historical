@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startups.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203122700id_/http%3A//www.startups.com/content.jsp%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409175259id_/http%3A//www.startups.com/content.jsp%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Startups.com | About Us | Privacy Policy
 
@@ -18,7 +18,7 @@ This site contains links to other sites. Although we are very selective in choos
 
 Startups.com uses eLuminate™ by Coremetrics™, a data-gathering and analysis service, to ensure visitors and customers of our site receive relevant information and promotions that will help them make better purchasing decisions. Visitors to our site are identified by a unique numeric ID that enables us to determine shopping behavior. **This numeric ID does not include any personal demographic information about our users.** The aggregate information we gather with the unique ID is analyzed to improve our site design, broaden the products we carry, and suggest products, promotions, or other features that will complement your other purchases. 
 
-As a visitor to Startups.com, you have the option to deactivate the site’s abilities to analyze your Web browsing and purchasing behavior. For the Coremetrics™ Opt-Out Standard, please visit <http://www.coremetrics.com/privacy_frame.html>, where you will find detailed information on data collection and instructions for selecting the various levels of privacy and confidentiality that you desire. 
+As a visitor to Startups.com, you have the option to deactivate the site’s abilities to analyze your Web browsing and purchasing behavior. For the Coremetrics™ Opt-Out Standard, please visit [http://www.coremetrics.com](http://www.coremetrics.com/), where you will find detailed information on data collection and instructions for selecting the various levels of privacy and confidentiality that you desire. 
 
 Protecting your privacy is one of our highest priorities, but as with all Web sites, ours may be vulnerable to service interruptions, intentional attacks, or other events that may compromise the security of our site and the information contained therein (including that which you provide). Accordingly, by submitting such information, you acknowledge and agree that Startups.com is not responsible for any direct or consequential damages that may result from such events. 
 
@@ -32,9 +32,7 @@ If you have any questions about this privacy statement, the practices of this si
 >  Fax: 650-474-5401  
 >  Email: [info@startups.com](mailto:info@startups.com)
 
-[Our Services](http://www.startups.com/content.jsp?page=services_overview)   [Expert Advice](http://www.startups.com/content.jsp?page=advice_overview)   [Resource Locator](http://www.startups.com/content.jsp?page=resource_overview)   [Templates & Tools](http://www.startups.com/content.jsp?page=templates_overview)  
-[Jobs](http://www.startups.com/content.jsp?page=about_us_jobs)   [About Us](http://www.startups.com/content.jsp?page=about_us_overview)   [Contact Us](http://www.startups.com/content.jsp?page=contact_us_overview)   [Become a Sponsor](http://www.startups.com/content.jsp?page=sponsorship)   [Log In](https://www.startups.com/login.jsp)   [Sitemap](http://www.startups.com/content.jsp?page=sitemap)   [Home](http://www.startups.com/)
+[Advisory Services](https://web.archive.org/content.jsp?page=advisory%20services)    [Custom Consulting](https://web.archive.org/content.jsp?page=custom+consulting)    [ReferralXpert](https://web.archive.org/ibips/client/ClientLogin.jsp)    [Events](https://web.archive.org/content.jsp?page=events_startups)   
+[Expert Advice](https://web.archive.org/content.jsp?page=advice_overview)    [About Us](https://web.archive.org/content.jsp?page=about_us_overview)    [Contact Us](https://web.archive.org/content.jsp?page=contact_us_overview)    [Jobs](https://web.archive.org/content.jsp?page=about_us_jobs)    [Privacy Policy](https://web.archive.org/content.jsp?page=privacy_policy)    [Home](https://web.archive.org/)
 
-[Privacy Policy](http://www.startups.com/content.jsp?page=privacy_policy)
-
-© 2000 Startups.com
+© 2001 Startups.com 
