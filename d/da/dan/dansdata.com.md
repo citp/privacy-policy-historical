@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the dansdata.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203012732id_/http%3A//www.dansdata.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dansdata.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621135836id_/http%3A//dansdata.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
-[](https://web.archive.org/web/20021203012732id_/http%3A//www.dansdata.com/email.htm)  
-[**Give Dan some money!**](https://web.archive.org/web/20021203012732id_/http%3A//www.dansdata.com/email.htm)  
-(and no-one gets hurt)
-
-[   
-Good memory, great prices, fast shipping.](http://www.qksrv.net/click-79598-5032687) |  | Dan's Data has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for [Dan's Data](http://www.dansdata.com/).
+Dan's Data has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for [Dan's Data](http://www.dansdata.com/).
 
 ### Information Automatically Logged
 
@@ -30,5 +25,3 @@ This site contains links to other sites. Dan's Data is not responsible for the p
 ### Contacting Dan's Data
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [dan@dansdata.com](mailto:dan@dansdata.com)..
-
-|  | 
