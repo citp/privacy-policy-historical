@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illawarramercury.com.au privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205081426id_/http%3A//www.f2.com.au/core/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illawarramercury.com.au privacy policy that was archived on 2002-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021130081320id_/http%3A//www.f2.com.au/core/privacy.html) for the most accurate reproduction.*
 
 # f2 Membership - f2 Network Privacy Policy
 
@@ -15,9 +15,9 @@ This policy sets out how f2 uses your personal information and explains:
 
 
 
-This policy applies to f2 Limited, f2 Australia & New Zealand Pty Limited, Citysearch Australia Pty Limited and Trading Room Pty Limited ("f2"). The policy explains how f2 uses personal information collected through the f2 Network. For more information on the sites that comprise the f2 Network, visit [www.f2.com.au](http://www.f2.com.au/). 
+This policy applies to f2 Limited, f2 Australia & New Zealand Pty Limited and Personal Investment Direct Access Pty Limited ("f2"). The policy explains how f2 uses personal information collected through the f2 Network. For more information on the sites that comprise the f2 Network, visit [www.f2.com.au](http://www.f2.com.au/). 
 
-f2 is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried on in the course of journalism. f2 is exempt from complying with the Privacy Act in relation to its journalism activities. f2 has publicly committed to complying with the Australian Press Council Privacy Standards for the use of personal information in the course of journalism. 
+f2 is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried on in the course of journalism. f2 is exempt from complying with the Privacy Act in relation to its journalism activities. f2 has publicly committed to complying with the [Australian Press Council Privacy Standards](http://www.presscouncil.org.au/pcsite/priv_stand.html) for the use of personal information in the course of journalism. 
 
 f2 may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to f2's operations. All personal information held by f2 will be governed by f2's most recent policy, posted on the f2 Network. 
 
@@ -61,16 +61,11 @@ f2 may also provide your information to:
 
 f2 uses DoubleClick International Asia B.V. to deliver the e-mails and e-newsletters you may ask to receive. DoubleClick International generally sends this data to the United States and Canada, but may transfer it to other countries where appropriate. By requesting an e-mail or e-newsletter from f2, you agree that Doubleclick may use your personal information in this way. If you would like to know more about the information gathering practices and 'opt-out' procedures of DoubleClick International, visit:[http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&)
 
-f2 shares web site usage information about visitors to the f2 Network who have received a targeted promotional e-mail campaign, with DoubleClick International B.V. for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, f2 and its third-party advertising company will keep information on the email campaign and some of the pages you visit on the f2 Network through the use of pixel tags (also called clear gifs). For more information about our advertising company, visit [www.privacychoices.org](https://web.archive.org/web/20020205081426id_/http%3A//www.f2.com.au/core/www.privacychoices.org). To opt out of the targeting program, please visit [www.privacychoices.org/optout.htm](https://web.archive.org/web/20020205081426id_/http%3A//www.f2.com.au/core/www.privacychoices.org/optout.htm)
+f2 shares web site usage information about visitors to the f2 Network who have received a targeted promotional e-mail campaign, with DoubleClick International B.V. for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, f2 and its third-party advertising company will keep information on the email campaign and some of the pages you visit on the f2 Network through the use of pixel tags (also called clear gifs). For more information about our advertising company, visit [www.privacychoices.org](http://www.privacychoices.org/). To opt out of the targeting program, please visit [www.privacychoices.org/optout.htm](http://www.privacychoices.org/optout.htm)
 
 If f2 sells part of its business, personal information may be part of the assets transferred to the purchaser. 
 
 The f2 Network contains features where you are invited to send personal information to organisations other than f2. The choice to send such information to these organisations is entirely yours. You should be aware that any such information you choose to send will not be bound by this policy. 
-
-**CitySearch.com.au**  
-CitySearch Australia Pty Ltd ('CitySearch') collects personal information about users, merchants, advertisers and other businesses, which access or are displayed on the CitySearch site. Information about businesses that appear in the CitySearch directory, including personal information on individuals within those businesses, is generally collected by CitySearch to manage the services or products that the business purchases from CitySearch. CitySearch may also disclose personal information about businesses that appear in the CitySearch directory to third parties, including advertisers, business partners and information brokers. 
-
-If you contact a merchant appearing in the CitySearch directory, including via e-mail, this policy does not apply to such communications and CitySearch accepts no responsibility for any transaction entered into between you and the relevant merchant. 
 
 **OfferWatch**  
 OfferWatch is a service which provides access to special offers about products or services you have opted-in to receive. In order to gain access to Offerwatch, you must be a member of f2 and must supply f2 with personal information, including your name, e-mail address, gender, date of birth, postcode, country of residence and annual income. f2 will treat your personal information in accordance with this privacy policy. f2 may disclose aggregated statistical information which does not identify you personally to advertisers and other third parties for marketing, promotional, and other purposes. You can correct or change the information collected during subscription to OfferWatch at any time by following the instructions in our "My Member Details" area. If you experience problems or have questions about OfferWatch, email f2 at privacy@f2network.com.au. 
@@ -100,4 +95,4 @@ _Membership information:_ f2 Network Members can access the membership informati
 **How to contact f2**  
 If you have enquiries or wish to provide feedback about this policy, please e-mail [privacy@f2network.com.au](mailto:privacy@f2network.com.au). 
 
-To make an access request, please write to the Privacy Officer at GPO Box 506 Sydney, 2001, fax 02 9282.3521 or [privacy@fairfax.com.au](mailto:privacy@fairfax.com.au). 
+To make an access request, please write to the Privacy Officer at GPO Box 506 Sydney, 2001 or fax 02 9282.3521. 
