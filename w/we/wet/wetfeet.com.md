@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetfeet.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621105852id_/http%3A//www.wetfeet.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetfeet.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202211240id_/http%3A//www.wetfeet.com/about/privacy.asp) for the most accurate reproduction.*
 
 # WetFeet Inc. Privacy Statement
 
@@ -7,11 +7,10 @@
 [ ](https://web.archive.org/about/what/employers.asp)  
 [ ](https://web.archive.org/about/history.asp)  
 [ ](https://web.archive.org/about/management.asp)  
-[ ](https://web.archive.org/about/investors.asp)  
 [ ](https://web.archive.org/corporate/members.asp)  
 [ ](https://web.archive.org/about/press/home.asp)  
 [ ](https://web.archive.org/about/what/partners.asp)  
-[ ](https://web.archive.org/about/events.asp)  
+[ ](https://web.archive.org/about/careercenters/home.asp)  
 [ ](https://web.archive.org/about/advertise.asp)  
 [ ](https://web.archive.org/about/jobs/home.asp)  
 [ ](https://web.archive.org/about/contactus.asp)  
