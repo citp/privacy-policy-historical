@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minds.com privacy policy that was archived on 2000-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000611173002id_/http%3A//www.webb.net/webb/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minds.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205020200id_/http%3A//www.webb.net/webb/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
