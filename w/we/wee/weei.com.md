@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weei.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209044110id_/http%3A//www.weei.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weei.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621070816id_/http%3A//www.weei.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ETM Privacy Policy
 
