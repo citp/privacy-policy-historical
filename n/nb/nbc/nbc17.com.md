@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nbc17.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221032836id_/http%3A//nbc17.com/cgi-bin/gx.cgi/AppLogic%2BFTContentServer%3Fpagename%3DFutureTense/Apps/Xcelerate/View%26c%3DNBCArticle%26cid%3DNBCJGGYZ6JC%26p%3DNBCMXJZRB8C%26live%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc17.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408054201id_/http%3A//www.nbc17.com/cgi-bin/gx.cgi/AppLogic%2BFTContentServer%3Fpagename%3DFutureTense/Apps/Xcelerate/View%26c%3DNBCArticle%26cid%3DNBCJGGYZ6JC%26p%3DNBCMXJZRB8C%26live%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ](http://ad.doubleclick.net/jump/www.nbcin.national.com/wncn_left_gray_light.html;sz=173x100;ord=86201818950307400)
+[ ](http://ad.doubleclick.net/jump/www.nbcin.national.com/wncn_left_gray_light.html;sz=173x100;ord=61898637391215380)
 
 |  |  | 
 
