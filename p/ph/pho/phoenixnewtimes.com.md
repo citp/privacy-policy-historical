@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601143954id_/http%3A//www.phoenixnewtimes.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208174816id_/http%3A//www.phoenixnewtimes.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Phoenix New Times | phoenixnewtimes.com | About
 
