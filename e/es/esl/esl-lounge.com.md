@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the esl-lounge.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201171455id_/http%3A//www.esl-lounge.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esl-lounge.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601094005id_/http%3A//esl-lounge.com/privacy.html) for the most accurate reproduction.*
 
 # ESL Lounge - Privacy Policy
+
+**Your Privacy Is Our Priority**
 
 esl-lounge.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: **esl-lounge.com**
 
@@ -46,7 +48,7 @@ This site makes one or more of the following available to its users: chat rooms,
 
 Our site provides users the opportunity to opt-out of receiving the site newsletter.
 
-You can send e-mail to [the webmaster](mailto:webmaster@esl-lounge.com)
+You can send e-mail to [the webmaster](mailto:esllou@yahoo.co.uk)
 
 ### Data Quality/Access
 
