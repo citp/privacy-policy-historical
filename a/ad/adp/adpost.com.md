@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214032419id_/http%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601183906id_/http%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
-# US FREE Classifieds @ Adpost.com Free Classifieds > US Free Classifieds >
+# US Classifieds @ Adpost.com Free Classifieds > US Free Classifieds >
 
   
   [Adpost.com](http://www.adpost.com/)
 
-  [Tell your Friends](http://www.adpost.com/cgibin/classifieds/us.cgi?db=&website=&language=&session_key=&tell_friends_form=on)
+  Tell your Friends
 
   [Affiliate Program](http://www.adpost.com/cgibin/classifieds/us.cgi?db=&website=&language=&session_key=&join_affiliates_program=on)
 
