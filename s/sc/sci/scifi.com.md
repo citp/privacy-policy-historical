@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207024956id_/http%3A//scifi.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307234120id_/http%3A//www.scifi.com/terms/privacy.html) for the most accurate reproduction.*
 
 # SCIFI.COM | Terms
 
