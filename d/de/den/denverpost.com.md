@@ -1,23 +1,25 @@
-> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202163427id_/http%3A//www.denverpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623081737id_/http%3A//www.denverpost.com/privacy) for the most accurate reproduction.*
 
 # DenverPost.com - PRIVACY POLICY
 
 | [NEWS](https://web.archive.org/Stories/0,1413,36%257E53%257E,00.html)  
 ---  
+[BLOGHOUSE](https://web.archive.org/Stories/0,1413,36%257E29077%257E,00.html)  
 [BUSINESS](https://web.archive.org/Stories/0,1413,36%257E33%257E,00.html)  
+[CAMPAIGN 2004](https://web.archive.org/Stories/0,1413,36%257E30794%257E,00.html)  
 [COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E57%257E,00.html)  
 [FRONT PAGE](https://web.archive.org/Stories/0,1413,36%257E23827%257E,00.html)  
 [LOCAL NEWS](https://web.archive.org/Stories/0,1413,36%257E53%257E,00.html)  
 [NATION/WORLD](https://web.archive.org/Stories/0,1413,36%257E11676%257E,00.html)  
 [OBITUARIES](https://web.archive.org/Stories/0,1413,36%257E11777%257E,00.html)  
-[SEASON TO SHARE](https://web.archive.org/Stories/0,1413,36%257E10169%257E,00.html)  
 [SPECIAL REPORTS](https://web.archive.org/Stories/0,1413,36%257E28977%257E,00.html)  
 [WEATHER](http://wp.myweather.net/wp/?pub=denv068352&page=main&loc=kapa)  
     
 [FEATURES](https://web.archive.org/Stories/0,1413,36%257E28996%257E,00.html)  
 [BOOKS](https://web.archive.org/Stories/0,1413,36%257E26%257E,00.html)  
+[COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E31551%257E,00.html)  
 [ENTERTAINMENT](https://web.archive.org/Stories/0,1413,36%257E78%257E,00.html)  
-[FOOD/DINING](https://web.archive.org/Stories/0,1413,36%257E40%257E,00.html)  
+[FOOD / DINING](https://web.archive.org/Stories/0,1413,36%257E40%257E,00.html)  
 [HEALTH](http://denverpost.healthology.com/)  
 [LIFESTYLES](https://web.archive.org/Stories/0,1413,36%257E45%257E,00.html)  
 [MOVIES](https://web.archive.org/Stories/0,1413,36%257E82%257E,00.html)  
@@ -30,14 +32,18 @@
 [LETTERS](https://web.archive.org/Stories/0,1413,36%257E416%257E,00.html)  
 [PERSPECTIVE](https://web.archive.org/Stories/0,1413,36%257E75%257E,00.html)  
 [KEEFE CARTOON](https://web.archive.org/Stories/0,1413,36%257E161%257E,00.html)  
+[MESSAGE BOARDS](https://web.archive.org/Stories/0,1413,36%257E31036%257E,00.html)  
     
 [SPORTS](https://web.archive.org/Stories/0,1413,36%257E76%257E,00.html)  
 [AVALANCHE / NHL](https://web.archive.org/Stories/0,1413,36%257E84%257E,00.html)  
 [BRONCOS / NFL](https://web.archive.org/Stories/0,1413,36%257E86%257E,00.html)  
 [COLLEGES](https://web.archive.org/Stories/0,1413,36%257E87%257E,00.html)  
 [COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E101%257E,00.html)  
+[CRUSH / AFL](https://web.archive.org/Stories/0,1413,36%257E25796%257E,00.html)  
 [NUGGETS / NBA](https://web.archive.org/Stories/0,1413,36%257E90%257E,00.html)  
+[OLYMPICS](https://web.archive.org/Stories/0,1413,36%257E118%257E,00.html)  
 [PREPS](https://web.archive.org/Stories/0,1413,36%257E92%257E,00.html)  
+[RAPIDS / MLS](https://web.archive.org/Stories/0,1413,36%257E94%257E,00.html)  
 [ROCKIES / MLB](https://web.archive.org/Stories/0,1413,36%257E96%257E,00.html)  
 [SCORES](http://www.sportsnetwork.com/default.asp?c=denverpost&page=regional/scores/live/denverpost.htm)  
 [OTHER SPORTS](https://web.archive.org/Stories/0,1413,36%257E93%257E,00.html)  
@@ -56,10 +62,13 @@
 [MARKETPLACE](http://www.post-newsmarketplace.com/)  
 [MEMORIALS](http://www.legacy.com/denver)  
 [NEWSPAPER ADS](http://www.post-newsadsearch.com/)  
-[WEDDINGS](http://www.post-newsweddings.com/)  
+[PNN WEBSITES](http://www.pnn.com/)  
+[WEDDINGS](http://www.post-newscelebrations.com/)  
 [YELLOW PAGES](http://www.postnewsyellowpages.com/)  
     
 [HOME](https://web.archive.org/Stories/0,1413,36%257E11%257E,00.html)  
+[ETHICS POLICY](https://web.archive.org/Stories/0,1413,36%257E31313%257E,00.html)  
+  
   |   | 
 
 Privacy Policy
@@ -80,9 +89,9 @@ How is my information used?
 
 **
 
-Our primary goal in collecting personal information is to provide you with a customized experience. DenverPost.com uses information collected from server log files, such as IP addresses, to help diagnose problems with our services, to administer our Web site, and to report and gather aggregate information about site usage and user demographics. DenverPost.com also uses code included on every page on our site to track the traffic on pages and compile information about users, such as paths through the site, browsers used, time spent on site, frequency of return visits, etc. This system does not garner any person information about our readers, such as names. DenverPost.com may share aggregated data with advertisers or business partners.
+Our primary goal in collecting personal information is to provide you with a customized experience. DenverPost.com uses information collected from server log files, such as IP addresses, to help diagnose problems with our services, to administer our Web site, and to report and gather aggregate information about site usage and user demographics. DenverPost.com also uses code included on every page on our site to track the traffic on pages and compile information about users, such as paths through the site, browsers used, time spent on site, frequency of return visits, etc. This system does not garner any personal information about our readers, such as names. DenverPost.com may share aggregated data with advertisers or business partners.
 
-DenverPost.com also uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer's hard drive. DenverPost.com uses cookies to deliver targeted advertising based on your behavior or demographics and to track your number of entries in some of our promotions and contests. You can set your browser to refuse to accept cookies, but if you do we will not be able to customize the DenverPost.com Web site's features according to your preferences. Advertising networks that serve ads into our site, such as Real Media or DoubleClick, may also use their own cookies. For more information about Real Media's use of cookies, visit _http://www.realmedia.com/privacy.html._ For more information about DoubleClick's use of cookies, visit _http://www. privacychoices.org_.
+DenverPost.com also uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer's hard drive. DenverPost.com uses cookies to deliver targeted advertising based on your behavior or demographics and to track your number of entries in some of our promotions and contests. You can set your browser to refuse to accept cookies, but if you do, we will not be able to customize the DenverPost.com Web site's features according to your preferences. Advertising networks that serve ads into our site, such as Real Media or DoubleClick, may also use their own cookies. For more information about Real Media's use of cookies, visit _http://www.realmedia.com/privacy.html._ For more information about DoubleClick's use of cookies, visit _http://www. privacychoices.org_.
 
 **
 
@@ -98,11 +107,11 @@ DenverPost.com makes chat rooms, forums, message boards, and/or news groups avai
 
 Aggregate information compiled by DenverPost.com may be shared with advertisers and business partners as well as used by The Denver Post Corp. and its related companies. 
 
-**
+We will disclose information we maintain when required to do so by law or pursuant to a legal proceeding, including without limitation, in response to a court order or a subpoena. We may also disclose such information in response to a law enforcement agency's request. ****
 
-Linked Sites
+**Linked Sites**
 
-**
+ ****
 
 Please be aware that DenverPost.com's promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through DenverPost.com may have their own privacy and data collection policies and practices. DenverPost.com is not responsible for any actions or policies of such third parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-sponsored, affiliated or linked sites.
 
@@ -120,7 +129,7 @@ Policy Changes and Questions
 
 **
 
-DenverPost.com reserves the right to change this policy at any time. Please check this page periodically for changes. (The most recent change was made on Aug. 20, 2001.)
+DenverPost.com reserves the right to change this policy at any time. Please check this page periodically for changes. (The most recent change was made on January 28, 2004.)
 
 **For terms of use, please click[here](http://www.denverpost.com/terms.htm).**
 
@@ -134,7 +143,7 @@ Denver, Colorado 80202
 
 (303) 820-1557
 
-E-Mail: [tengdahl@denverpost.com](mailto:tengdahl@denverpost.com)
+E-Mail: [rrisch@denverpost.com](mailto:rrisch@denverpost.com)
 
 **Go to Section**   
 |   |   |  |   |   | 
