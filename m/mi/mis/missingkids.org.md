@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missingkids.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610160713id_/http%3A//www.missingkids.org/missingkids/servlet/PageServlet%3FLanguageCountry%3Den_US%26PageId%3D1360) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missingkids.org privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010072659id_/http%3A//www.missingkids.org/missingkids/servlet/PageServlet%3FLanguageCountry%3Den_US%26PageId%3D1360) for the most accurate reproduction.*
 
 # Privacy Policy
 
