@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadalyst.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606194705id_/http%3A//www.cadalyst.com/cadalyst/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadalyst.com privacy policy that was archived on 2004-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041122013332id_/http%3A//www.cadalyst.com/cadalyst/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Cadalyst - Privacy Policy
 
