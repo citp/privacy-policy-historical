@@ -1,141 +1,429 @@
-<!--The following is the downloaded HTML source of the safeco.com privacy policy that was archived on 2004-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041210124953id_/http%3A//www.safeco.com/safeco/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the safeco.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403160147id_/http%3A//www.safeco.com/legal/default.asp) for the most accurate reproduction.-->
 
-<html><head>
-		<title>Safeco - Consumer Privacy Statement</title> 
-		
+<html><head><script language="JavaScript">
+
+//opens child window - used for external sites
+// parameters:
+// page = page to open
+// target = window name to open page in
+// parms = any of the default parameters that need to be overwritten
+
+// function should be called as follows:
+// <a href="javascript: openCW(pagename[,targetname,parameters]);">
+//
+// enclose each parameter in single quotes.
+// ex 1:  openCW('/safeco/mypage.asp');	  --only passes the required page parameter and accepts the defaults
+// ex 2:  openCW('/safeco/mypage.asp','myWindow');    --only passes the req page parm and target window name
+// ex 3:  openCW('/safeco/mypage.asp','','resizable=no,height=700');    --passes the req page parm and overrides 2 default params
+
+// Updates: 
+//  02/04/05 - Copied over code from Safeco Now to use in Safeco Com
+           
+
+function openCW(page,target,params)
+{   
+    var strHost = location.hostname;
+    var strProtocol = location.protocol;   
+    var strServer = strProtocol+"//"+ strHost;    
+    
+	var now;
+	var timeStamp;	
+	var windowID
+	
+	now  = new Date();  
+    timeStamp = now.getHours() + "";
+    timeStamp += now.getMinutes() + "";
+    timeStamp += now.getSeconds()  
+    
+    windowID = timeStamp; 
+	
+	if(target==null || target=='') target = windowID;
+	var defaults = 'status=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,resizable=yes,width=770,height=410,top=20,left=20,';
+	var overrides = params;
+	var win = window.open(page,target,defaults + overrides); 
+}
+
+
+</script><!-- browser.inc -->
+
+
+
+
+
+<title>Safeco – Consumer Privacy Policy</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <!-- style.inc -->
 
+<style type="text/css">  
+  <!--
 
-	</head>
-	<body bgcolor="#FFFFFF" topmargin="0" marginheight="0" marginwidth="0">
-		<a name="top"></a>
-		<div align="center">
-			<!-- Top Bar Table -->
-			<!-- topbar.inc -->
+/* Please Note: This style sheet services PC/IE 4.x, 5.x and PC/Netscape 5.x */
 
 
+/* Link-level information declared here */
 
-<map name="global">
-     <area shape="rect" coords="63,-4,132,13" href="/safeco/default.asp" alt=" Home Page" title=" Home Page">
-     <area shape="rect" coords="135,-3,209,14" href="/safeco/agentsearch" alt=" Find an Agent " title=" Find an Agent ">
-     <area shape="rect" coords="222,-2,290,19" href="/safeco/quote" alt=" Get a Quote " title=" Get a Quote ">
-     <area shape="rect" coords="299,-5,396,16" href="/safeco/accountservices" alt=" Account Services " title=" Account Services ">
-    <area shape="rect" coords="405,-5,447,12" href="/safeco/claims" alt=" Claims " title=" Claims ">
-    <area shape="rect" coords="528,-5,638,19" href="/safeco/help" alt=" Site Help &amp; Search " title=" Site Help &amp; Search ">
-    <area shape="rect" coords="456,-7,519,16" href="/safeco/contact" alt=" Contact Us " title=" Contact Us ">
-</map> 
+a  {
+	color: black;
+	font-size:12px;
+	font-family : Arial, Helvetica, sans-serif; 
+  }
 
-
-<map name="SAFECO"> 
-  <area shape="rect" coords="2,0,122,13" href="/safeco/about/" alt="About Safeco" title="About Safeco">
-  <area shape="rect" coords="126,0,224,15" href="/safeco/about/employment/" alt="Employment" title="Employment"> 
-  <area shape="rect" coords="232,0,334,12" href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=safc&amp;script=2230" alt="Governance" title="Governance">
-  <area shape="rect" coords="345,1,489,12" href="/safeco/investor/" alt="Investor Relations" title="Investor Relations">
-  <area shape="rect" coords="499,1,603,12" href="/safeco/news/" alt="Safeco News" title="Safeco News">
-  <area shape="rect" coords="609,0,720,12" href="/safeco/safecofield/" alt="Safeco Field" title="Safeco Field"> 
-</map> 
+  a.content  {
+	color: black;
+	font-size:12px;
+	font-family : Arial, Helvetica, sans-serif; 
+  }
   
-   
-   
-   
-<table width="780" border="0" cellspacing="0" cellpadding="0">       	      
-    <tbody><tr> 
-        <td class="content"> 
-	  <a href="/safeco/"><img src="/safeco/images/logo_corp.gif" alt=" Safeco Home Page " width="161" height="40" border="0"></a></td>
-	  
-	<td align="right">
-		  <a href="/safeco/help/security_patch.asp" class="submenu" style="font-size: 9pt;">Important information regarding Microsoft's<br>
-recent security updates for Windows XP</a></td>
-    </tr>
-	</tbody></table>
-	
-	
-   <table width="780" border="0" cellspacing="0" cellpadding="0">  		 
-    <tbody><tr>  
-      <td bgcolor="#000000"><!-- Change image with Theme -->
-	  <img src="/safeco/images/topbar_Legal.jpg" width="150" height="40" alt=""></td>
-      <td bgcolor="#000000" colspan="2">&nbsp;</td>
-      <td bgcolor="#000000" colspan="2" align="center"> &nbsp;</td>
-      <td bgcolor="#996633">&nbsp;</td>
-    </tr>
-    <tr> 
-		<td colspan="5" class="content" align="right" bgcolor="#ffffff">
-	    	  
-			<img src="/safeco/images/globaldrill.gif" width="624" height="10" usemap="#global" border="0" alt="Global Navigation">  
-			  
-		</td>
-		<td>&nbsp;</td>
-    </tr>
+  /* left nav */
+  
+ .navBold {
+	color: black;
+	font-size: 11px;
+	font-weight:bold;
+	font-family : Arial, Helvetica, sans-serif;	
+	padding-top:0px;
+	padding-bottom:4px;
+}
+  
+  a.nav {
+	color: black;
+	font-size: 11px;
+	font-family : Arial, Helvetica, sans-serif;
+  }
 
+    a.nav:hover {
+	color: black;
+	font-size: 11px;
+	font-family : Arial, Helvetica, sans-serif; 		
+  }
+  
+  a.sub {
+	color: black;
+	font-size: 11px;
+	font-family : Arial, Helvetica, sans-serif; 	
+	line-height:14px;	 
+  }
+
+    a.sub:hover {
+	color: black;
+	font-size: 11px;
+	font-family : Arial, Helvetica, sans-serif; 		  
+  }
+  
+  
+  .subMenu{
+	color: black;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size: 11px;	
+	font-weight: bold;	 	
+  }
+  
+  .leftNavShim {
+  padding-bottom:4px;   
+  padding-top:0px;   
+  }
+  
+  /* left nav */
+  
+  
+   .breadcrumb  {
+	color: black;
+	font-size: 11px;
+	font-family : Arial, Helvetica, sans-serif; 			
+  }
+   a.breadcrumb  {
+	color: black;
+	font-size:11px;
+	font-family : Arial, Helvetica, sans-serif; 	
+	text-decoration : underline;
+	vertical-align : top; 	
+  }
+
+     .lock{
+  font-family : Arial, Helvetica, sans-serif;
+  	font-size : 11px;
+	color: gray;  
+  }
+
+/* Font-level information declared here */
+
+      
+  .content  {
+  	font-family : Arial, Helvetica, sans-serif;
+  	font-size : 13px;
+  }
+
+   a.top  {
+  	font-family : Arial, Helvetica, sans-serif;
+  	font-size : 11px;
+  }
+
+  .smalltext  {
+  	font-family : Arial, Helvetica, sans-serif;
+  	font-size : 9px;
+  }
+
+
+  .dropdown  {
+  	font-family : Verdana, Tahoma, sans-serif;
+  	font-size : 9px;
+  }
+
+    
+  #breadcrumb  {
+  	font-family : Arial, Helvetica, sans-serif;
+  	font-size : 12px;
+	vertical-align : top; 	
+  }
+
+ 
+   #leftNavTop{
+	border-left : 1px solid #9D9FA2;
+	border-right : 1px solid #9D9FA2;
+	border-top : 1px solid #9D9FA2; ;	
+	vertical-align : top; 	
+	 }	 
+	 	 
+	#leftNavSides{	
+	border-right : 1px solid #9D9FA2; 
+	border-Left : 1px solid #9D9FA2;    
+	border-bottom: 1px solid #9D9FA2; ;	
+	background-image : url(/safeco/images/nav_gray.gif);
+	background-repeat : no-repeat;
+	background-position : bottom;
+	height: 350px;
+	padding-top:4px;
+	padding-left:8px;	
+	padding-right:4px;	 	
+	vertical-align : top; 
+	 }
+	 
+	#footerTdBg {
+	background-color:#CA382B;
+	height:6px;
+	border: 1px solid #545252;	 
+	background-repeat : no-repeat;
+	font-size:6px;	
+	}
+	
+	a.footer{
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 10px;
+	color : #9D9FA2;
+	}
+	
+	#footer{
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 10px;
+	color : #9D9FA2;
+	padding-bottom:9px;
+	padding-top:9px;
+	margin-top:9px;
+	margin-bottom:9px;
+	text-align : center;
+	}
+	
+	 #legalfooter{
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 10px;
+	color : #9D9FA2;
+	padding-bottom:9px;	
+	margin-top:9px;
+	margin-bottom:9px;
+	text-align : center;
+	}
+
+	#footerShim{
+	padding-top:10px;
+	margin-top:10px;
+	font-size:1pt;
+	} 
+	
+	#lnav ul {
+	 list-style-image: url(/safeco/images/dot.gif); 	 	 
+	margin:   0px 0px 0px 10px;	
+	padding:  0px 0px 5px 10px;	 
+	color: black;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size: 11px;		 
+}
+  
+/*Non-native file notation*/
+.non{font-size:10px;}
+  
+  
+/* safeco logo styles */
+
+.tableLogo {border : 1px solid  #9D9FA2;}
+A.blackBackground {FONT-SIZE: 10px;COLOR: white;background-color : Black;}
+A.whiteBackground {FONT-SIZE: 10px;COLOR:  black;background-color : White;}
+A.greyBackground {FONT-SIZE: 10px;COLOR: black;background-color : #B2B2B2;}
+
+.logoheader{
+FONT-WEIGHT: bold;
+FONT-SIZE: 10px;
+COLOR: #000000; 
+FONT-FAMILY: Arial,Helvetica,Sans-Serif;
+BACKGROUND-COLOR: white;
+}
+
+
+ /*header styles*/
+table {font-family:arial,verdana,helvetica,sans-serif;}
+#logo_table{width:775px;border:0px solid #545252;margin-bottom:0px;margin-top:0px;padding-top:11px;padding-bottom:8px;}
+#logo_td{width:200;}
+#search_td{text-align:right;font-size:10px;}
+#searchstring{font-family:arial;font-size:12px;height:19px;width:100px;}
+
+#tab_table{width:775px;border:0px solid #545252;border-collapse:collapse;margin-bottom:0px;margin-top:0px;}
+
+td.tabs{width:95px;text-align:center;padding-top:2px;padding-bottom:2px;border:1px solid #545252;
+		line-height:11px;cursor:hand;cursor:pointer;}/* intLH, intPadT, intPadB set in browser.inc */
+td.activetab{width:95px;text-align:center;border-top:1px solid #545252;padding-top:2px;padding-bottom:2px;line-height:11px;
+		border-left:1px solid #545252;border-right:1px solid #545252;border-bottom:0px;background-color:#CA382B;cursor:hand;cursor:pointer;
+		color:white;}
+
+#redrow {background-color:#CA382B;height:6px;border-bottom:1px solid #545252;border-left:1px solid #545252;border-right:0px;border-top:0px;}
+#redrow2 {background-color:#CA382B;height:6px;border-bottom:1px solid #545252;border-left:0px;border-right:1px solid #545252;border-top:1px solid #545252;}
+   
+a.graylink:link{color:#666666;font-size:10px;}
+a.graylink:active{color:#666666;font-size:10px;}
+a.graylink:visited{color:#666666;font-size:10px;}
+a.graylink:hover{color:#666666;font-size:10px;}  
+
+a.tablink:link{color:black;text-decoration:none;font-size:11px;font-weight:bold;}
+a.tablink:active{color:black;text-decoration:none;font-size:11px;font-weight:bold;}
+a.tablink:visited{color:black;text-decoration:none;font-size:11px;font-weight:bold;}
+a.tablink:hover{color:black;text-decoration:none;font-size:11px;font-weight:bold;} 
+
+a.activetablink:link{color:white;text-decoration:none;font-size:11px;font-weight:bold;}
+a.activetablink:active{color:white;text-decoration:none;font-size:11px;font-weight:bold;}
+a.activetablink:visited{color:white;text-decoration:none;font-size:11px;font-weight:bold;}
+a.activetablink:hover{color:white;text-decoration:none;font-size:11px;font-weight:bold;}   
+
+
+ body {overflow:-moz-scrollbars-vertical;}
+
+/* Use div tags with IDs to lay out two column content.*/
+#rightColumn {width: 290px;float: right;}
+#leftColumn {width: 290px; float: left;}
+
+-->
+</style>
+ 
+
+
+<!--
+Updated: 2/3/05 jengro
+safeco.com is using one style sheet for all browsers. Where there are differences between IE and Netscape, ASP variables
+are used. These are set at the bottom of browser.inc.
+
+Most App areas and vendors (Thompson) require 2 style sheets (one for IE and one for Netscape) because they are not
+using our ASP variables. These are the CSS files located in the style folder.
+-->
+
+
+
+
+
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
+<a name="top"></a>
+
+<div align="center">
+
+<!-- Top Bar Table -->
+
+
+<table id="logo_table" align="center" valign="bottom" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td id="logo_td"><a href="/safeco/default.asp"><img src="/safeco/images/logo_small_new.gif" alt="Safeco Insurance" title="Safeco Insurance" width="109" height="24" border="0"></a></td>
+		<td id="search_td">
+			<form id="searchform" action="/safeco/search/safeco_query.idq" method="get" style="margin:0px;padding:0px;">
+			<a class="graylink" href="/safeco/default.asp">Home</a>&nbsp;&nbsp;
+			<a class="graylink" href="/safeco/contact/default.asp">Contact</a>&nbsp;&nbsp;
+			<a class="graylink" href="/safeco/site_help/sitemap.asp">Site Map</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input id="searchstring" name="SearchString" type="text" value="Search" onmousedown="this.value='';">
+			<input type="image" name="imageSubmit" src="/safeco/images/go_button.gif" height="21" width="21" alt="Search" align="top" title="Search">	
+			<input type="hidden" name="HTMLQueryForm" value="/safeco/default.asp"> <!--this is for the Search Again link on results page - delete?-->
+			</form>
+		</td>
+	</tr>
+</tbody></table>
+	
+<table id="tab_table" align="center" cellpadding="0" cellspacing="0"> 
+	<tbody><tr>  
+    	<td onclick="window.location='/safeco/for_you_or_your_family/default.asp'" onmouseout="window.status=''" onmouseover="window.status='http://' + location.hostname + '/safeco/for_you_or_your_family/default.asp'" class="tabs">
+			<a class="tablink" href="/safeco/for_you_or_your_family/default.asp">For You or<br>Your Family</a>
+		</td>
+		<td onclick="window.location='/safeco/for_your_business/default.asp'" onmouseout="window.status=''" onmouseover="window.status='http://' + location.hostname + '/safeco/for_your_business/default.asp'" class="tabs">
+			<a class="tablink" href="/safeco/for_your_business/default.asp">For Your<br>Business</a>
+		</td>		
+		<td onclick="window.location='https://customer.safeco.com/login.asp'" onmouseout="window.status=''" onmouseover="window.status='https://customer.safeco.com/login.asp'" class="tabs">
+			<a class="tablink" href="https://customer.safeco.com/login.asp">Account<br>Services</a>
+		</td>		
+		<td onclick="window.location='/safeco/get_a_quote/default.asp'" onmouseout="window.status=''" onmouseover="window.status='http://' + location.hostname + '/safeco/get_a_quote/default.asp'" class="tabs">
+			<a class="tablink" href="/safeco/get_a_quote/default.asp">Get a<br>Quote</a>
+		</td>
+		<td onclick="window.location='/safeco/find_an_agent/default.asp'" onmouseout="window.status=''" onmouseover="window.status='http://' + location.hostname + '/safeco/find_an_agent/default.asp'" class="tabs">
+			<a class="tablink" href="/safeco/find_an_agent/default.asp">Find an<br>Agent</a>
+		</td>
+		<td align="right" width="300"><img src="/safeco/images/uncomplicate.gif" height="23" width="121" alt="Uncomplicate" title="Uncomplicate"></td>
+    </tr>
+	<tr>
+		<td id="redrow" colspan="5"></td>
+		<td id="redrow2"></td>
+	</tr>
 </tbody></table>
 
-			<!-- Main Body Table -->
-			<table width="780" border="0" cellspacing="0" cellpadding="0">
-				<!-- Establish Column Widths -->
-				<tbody><tr>
-					<td width="10"><img src="/safeco/images/spacer.gif" width="10" height="12" alt=""></td>
-					<td width="143"><img src="/safeco/images/spacer.gif" width="143" height="12" alt=""></td>
-					<td width="17"><img src="/safeco/images/spacer.gif" width="17" height="12" alt=""></td>
-					<td width="600"><img src="/safeco/images/spacer.gif" width="600" height="12" alt=""></td>
-					<td width="10"><img src="/safeco/images/spacer.gif" width="10" height="12" alt=""></td>
-				</tr>
-				<tr>
-					<td colspan="2" align="right" valign="top"><!-- content_img.inc -->
 
-<img src="/safeco/images/title_Legal.gif" width="132" height="15" alt="Legal">
- </td>
-					<td>&nbsp;</td>
-					<td valign="top" class="breadcrumb"><!-- breadcrumb.inc -->
+<!-- Main Body Table --> 
+<table width="775" border="0" cellspacing="0" cellpadding="0">
 
-<a href="/safeco/default.asp" class="breadcrumb">Home Page</a> / <a href="/safeco/Legal/" class="breadcrumb">Legal</a></td>
-					<td>&nbsp;</td>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-					<td valign="top">
-						<!-- Changes with Content -->
-						<!-- Left Navigation Goes Here -->
-						<!-- leftnav.inc -->
-
-<!-- leftnav_legal.inc -->
-
-
-<table border="0" cellspacing="0" cellpadding="3" width="100%">
-
-
-	<tbody><tr> 
-		<td align="right" class="submenu">
-<b>Consumer Privacy Statement</b>
-		</td>
-	</tr>
-
-
-	<tr> 
-		<td align="right" class="submenu">
-<a href="licensing.asp" class="submenu">Licensing Information</a>
-		</td>
-	</tr>
-
+<!-- Establish Column Widths -->	
+	 <tbody><tr>       
+	      <td width="152" height="12"></td>
+	      <td width="13"><img src="/safeco/images/spacer.gif" width="13" height="12" alt=""></td>
+	      <td width="600"></td>
+	      <td width="10"></td>
+    </tr>	
 	
-        </tbody></table>
+	<tr> 
+      <td id="leftNavTop"><img src="/safeco/images/nav_gray.gif" alt=""></td>
+      <td>&nbsp;</td>
+      <td valign="top" class="breadcrumb"><!-- breadcrumb.inc -->
 
-						<!-- Spotlight Goes Here -->
-						<!-- no spotlight items on legal pages -->
-					</td>
-					<td>&nbsp;</td>
-			
-					<td valign="top" width="100%" class="content"><!-- Content Area Begins Here -->
-						<h3>Consumer Privacy Statement</h3>
-						<p class="body">Effective Date: 07/01/2004</p>
+<a class="breadcrumb" href="/safeco/"></a>   <a class="breadcrumb" href="/safeco/">Home Page</a> /  <a class="breadcrumb" href="/safeco/legal/default.asp">Legal</a></td>
+      <td>&nbsp;</td>
+    </tr>
+	
+	
+   
+    <tr> 		
+      <td id="leftNavSides"><!-- leftnav.inc -->
+ 
+<div class="leftNavShim"><a class="nav" href="/safeco/legal/default.asp">Consumer Privacy Policy</a></div>
+<div class="leftNavShim"><a class="nav" href="/safeco/legal/licensing.asp">Insurer Licensing Information</a></div>
+<div class="leftNavShim"><a class="nav" href="/safeco/legal/copyright.asp">Legal Information</a></div>
+</td>
+        <td>&nbsp;</td>
+        <td valign="top" class="content">
+		<!-- Content Area Begins Here -->
+		
+              <h3>Consumer Privacy Policy</h3>
+
+<p class="body">Effective Date: 07/01/2004</p>
 						<p class="body">Safeco and its affiliated companies appreciate the trust you place 
 							in us when you ask us to help protect and accumulate your assets. You trust us 
 							with your private, personal information when you invest with us or purchase 
 							insurance from us. We are committed to protecting your private information. 
 							Safeco does not sell information about you to others.</p>
+							
 						<p class="body">To learn more about how Safeco collects and uses your personal 
 							information, please read the following notice.</p>
 						<h4>Safeco's sources of information about you</h4>
@@ -151,7 +439,7 @@ recent security updates for Windows XP</a></td>
 								The information we receive from a consumer reporting agency (such as your 
 								credit history)</li>
 							<li>
-								Your insurance agent or financial advisor (such as updated information 
+								Your insurance agent  (such as updated information 
 								pertaining to your account)</li>
 						</ul>
 						<h4>Safeco's use of your personal information</h4>
@@ -159,8 +447,8 @@ recent security updates for Windows XP</a></td>
 							privacy. We do not disclose any nonpublic personal information about our 
 							customers or former customers to anyone, except as permitted by law.</p>
 						<p class="body">For example, we may share any or all of your information with our 
-							affiliated companies and independent Safeco representatives C Independent 
-							Insurance Agents and Financial Advisors authorized to sell Safeco products. We 
+							affiliated companies and independent Safeco representatives and Independent 
+							Insurance Agents authorized to sell Safeco products. We 
 							may also disclose any or all information we have collected about you to 
 							companies that perform services on our behalf and to other financial 
 							institutions with whom we have joint marketing agreements.</p>
@@ -168,13 +456,17 @@ recent security updates for Windows XP</a></td>
 							Safeco account or policy, or to inform you about Safeco products and services. 
 							Before disclosing your information, we require these companies to promise to 
 							keep it confidential and use it only for the transaction we request.</p>
+							<p>We may also disclose any or all information we have collected about you to companies that perform services on our behalf and to other financial institutions 
+							with whom we have joint marketing agreements.</p>
+                           <div align="right"><a href="#top" class="top">Top of Page</a></div>   
+
 						<h4>Independent Safeco Representatives</h4>
-						<p class="body">The Independent Insurance Agents and Financial Advisors authorized 
-							to sell Safeco products and services are not Safeco employees and not subject 
-							to Safeco`s Privacy Policy. Because they have a unique business relationship 
+						<p class="body">The Independent Insurance Agents  authorized 
+							to sell Safeco products are not Safeco employees and not subject 
+							to Safeco's Privacy Policy. Because they have a unique business relationship 
 							with you, they may have additional personal information about you that Safeco 
 							does not have. They may use this information differently than Safeco. Contact 
-							your Safeco agent or advisor to learn more about their privacy practices.</p>
+							your Safeco agent  to learn more about their privacy practices.</p>
 						<h4>Information about Safeco web sites</h4>
 						<blockquote>
 							<p class="body"><b>Information collected</b><br>
@@ -188,7 +480,7 @@ recent security updates for Windows XP</a></td>
 								of your visit.</p>
 							<p class="body">When you make changes to your account or request more information 
 								about our products we may forward information you supply to us to your Safeco 
-								Independent Insurance Agent or Financial Advisor. We do this so they can 
+								Independent Insurance Agent. We do this so they can 
 								service your account or contact you with additional information about our 
 								products.</p>
 							<p class="body"><b>Cookies</b><br>
@@ -213,6 +505,7 @@ recent security updates for Windows XP</a></td>
 								Safeco does not. We are not responsible for the privacy practices or the 
 								content of linked web sites.</p>
 						</blockquote>
+						   <div align="right"><a href="#top" class="top">Top of Page</a></div>   
 						<h4>Protecting your personal information from unauthorized access</h4>
 						<p class="body">We limit employee access to customer information to those employees 
 							with a legitimate business reason for such access. We maintain physical, 
@@ -235,64 +528,72 @@ recent security updates for Windows XP</a></td>
 							companies:</h4>
 						<blockquote> <b>American Economy Insurance Company<br>
 								American States Insurance Company<br>
-								American States Insurance Company of Texas<br>
-								American States Life Insurance Company<br>
+								American States Insurance Company of Texas<br>								
 								American States Lloyds Insurance Company<br>
 								American States Preferred Insurance Company<br>
-								First National Insurance Company of America<br>
-								First Safeco National Life Insurance Company of New York<br>
+								First National Insurance Company of America<br>								
 								General Insurance Company of America<br>
 								Insurance Company of Illinois<br>
 								Safeco Insurance Company of America<br>
 								Safeco Insurance Company of Illinois<br>
 								Safeco Insurance Company of Indiana<br>
-								Safeco Insurance Company of Oregon<br>
-								Safeco Investment Services, Inc.<br>
-								Safeco Life Insurance Company<br>
-								Safeco Lloyds Insurance Company<br>
-								Safeco National Insurance Company<br>
-								Safeco National Life Insurance Company<br>
+								Safeco Insurance Company of Oregon<br>				
+								Safeco Lloyds Insurance Company<br>		
+								Safeco National Insurance Company <br>						
 								Safeco Surplus Lines Insurance Company</b>
-							<div align="right"><a href="#top" class="content"><font size="-1">Top of Page</font></a></div>
-					</blockquote></td>
-					<td>&nbsp;</td>
-				</tr>
-			</tbody></table>
-			<!-- Footer Table -->
-			<!-- footer.inc -->
-
-<table width="780" border="0" cellspacing="0" cellpadding="0">
- <tbody><tr>
-  <td>&nbsp;</td>
- </tr>
-
- <tr>
-  <td align="center" bgcolor="black"><img src="/Safeco/images/abSafeco.gif" width="721" height="12" usemap="#Safeco" border="0" alt="Safeco Navigation"></td>
- </tr>
-
- <tr> 
-  <td><img src="/Safeco/images/spacer.gif" width="780" height="2" alt=""></td>
- </tr>
- <tr> 
-  <td align="center" class="copyright">
+							  </blockquote>
+		  
+		 
+		 <!-- uncomment for pages where height is greater than 600px -->
+        <div align="right"><a href="#top" class="top">Top of Page</a></div>   
+							
+   
+		  
+		 
+		 <!-- uncomment for pages where height is greater than 600px -->
+       <!--  <div align="right"><a href="#top" class="top">Top of Page</a></div>    -->
+	   <!-- ----------------------------------------------------------------------- -->
+      </td>	  
 	  
-   <a href="/Safeco/legal/privacy.asp" alt="Privacy Policy" title="Privacy Policy" style="font-size:8pt;text-decoration:none;">PRIVACY POLICY</a><a class="Copyright" style="font-size:8pt;cursor:default;"> AND </a> 
-   <a href="/Safeco/legal/licensing.asp" title="Licensing Information" style="font-size:8pt;text-decoration:none;">LICENSING INFORMATION</a><br>
-   <a href="/Safeco/legal/copyright.asp" alt="Copyright" title="Copyright" class="copyright">Copyright</a>&nbsp;© 2000 – 2004 Safeco Corporation. All Rights Reserved.
-  
-
-
-  </td>
- </tr>
-</tbody></table>
-<map name="nav_footer">
- <area shape="rect" coords="181,1,311,17" href="/Safeco/quote/" alt=" Obtener una Cotización " title=" Obtener una Cotización ">
- <area shape="rect" coords="316,0,444,13" href="http://www.Safeco.com/Safeco/accountservices/" alt="  Servicios de Cuentas " title="   Servicios de Cuentas ">
- <area shape="rect" coords="450,0,555,18" href="/Safeco/news/" alt="   Noticias de Safeco " title="   Noticias de Safeco ">
- <area shape="rect" coords="557,1,637,22" href="/Safeco/planning/" alt=" Planificación " title=" Planificación ">
- <area shape="rect" coords="642,1,682,14" href="/Safeco/about/employment/" alt=" Empleo " title=" Empleo ">
-</map>
-		</div>
+      <td>&nbsp;</td>
+    </tr>	 
 	
+</tbody></table>
+
+<!-- Footer Table -->
+<!-- footer.inc --> 
+
+
+<table width="775" border="0" cellspacing="0" cellpadding="0">
+   <tbody><tr>
+       <td id="footerShim">&nbsp;</td>
+ </tr> 
+ 
+<tr>
+<td id="footerTdBg">&nbsp;</td>  
+</tr>
+
+<tr>
+<td id="footer">
+<a href="/safeco/about_safeco/default.asp" class="footer">About Us</a>&nbsp;|&nbsp;<a href="/safeco/in_the_community/default.asp" class="footer">In the Community</a>&nbsp;|&nbsp;<a href="/safeco/claims/default.asp" class="footer">Claims</a>&nbsp;|&nbsp;<a href="/safeco/for_agents/default.asp" class="footer">For Agents</a>&nbsp;|&nbsp;<a href="/safeco/legal/default.asp" class="footer">Privacy Policy</a>&nbsp;|&nbsp;  
+<a href="/safeco/legal/licensing.asp" class="footer">Insurer Licensing Information</a><br>
+<a href="/safeco/legal/copyright.asp" class="footer">Copyright</a>  © 2000–2005  Safeco Insurance Companies.  All Rights Reserved. 
+<a href="/safeco/site_help/default.asp" class="footer">Site Help</a><br>Safeco, the Safeco logo, and Uncomplicate are registered trademarks of Safeco Corporation
+ </td>
+</tr>
+
+
+
+
+
+</tbody></table>
+
+ 
+ 
+
+
+</div>
+
+
 
 </body></html>
