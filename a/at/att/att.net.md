@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the att.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202025909id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the att.net privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210091134id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
 
-# AT&T Privacy Policy
+# AT&T: Privacy Policy
 
   * AT&T's Online Privacy Policy
   * AT&T's Online Privacy Policy: Informed Choice
   * How AT&T Protects Your Privacy Online
   * Additional Privacy Protections for Children Using the Internet
+  * Customer Proprietary Network Information (CPNI)
 
 
+
+## AT&T's Online Privacy Policy
 
 Protecting privacy is not a new endeavor for AT&T. AT&T has a long-standing tradition of recognizing and protecting the privacy of customers who use its telecommunications networks. The company maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions. 
 
@@ -21,7 +24,15 @@ It is common practice and often a necessity for companies, governments, or other
 
 Some activities on the Internet follow very familiar patterns. Consumers signing up for an Internet access service, for example, are usually asked to provide name, address, telephone number and credit card and other information that is typical when the consumer orders a product or service. Similarly, business Web sites may ask visitors to supply information about themselves, particularly when information, services or merchandise are requested, but often simply to be able to better target the company's services to the customer's interests and requirements. 
 
+Back to Top
+
+## AT&T's Online Privacy Policy: Informed Choice
+
 AT&T has put in place the following Online Privacy Policy. This policy covers AT&T and its subsidiaries, except AT&T Wireless Services (www.attws.com), now a separate company, and Advanced American Telephones (www.telephones.att.com) which licenses the AT&T Brand to sell telephone equipment. AT&T will continue to protect customer information derived from its local, long distance, cable and wireless services consistent with federal laws and with federal regulations issued by the Federal Communications Commission. 
+
+Back to Top
+
+## How AT&T Protects Your Privacy Online
 
 **Collection and Use:** AT&T will collect and use customer identifiable information for billing purposes, to provide and change service, to anticipate and resolve problems with your service, or to create and inform you of products and services that better meet your needs. This means that AT&T may use your customer identifiable information, in conjunction with information available from other sources, to market new services to you that we think will be of interest to you, but we will not disclose your customer identifiable information to third parties who want to market products to you. 
 
@@ -31,7 +42,7 @@ AT&T and its advertisers may use various kinds of software devices to collect in
 
 In addition, on some Web sites, AT&T and its advertisers may use small bits of code called "one-pixel gifs," or "clear gifs" embedded in some Web pages, to make cookies more effective. AT&T will not associate the information these software devices collect with your name or email address. 
 
-AT&T uses advertising companies to deliver ads on some AT&T Web sites. The advertising companies may also receive some anonymous information about ad viewing by Internet users on AT&T Web sites and other Internet sites. This information may be associated with a customer's Web browser, but cannot be associated with a name or e-mail address without the customer's permission. (This means that advertising companies may know where your computer goes on the Internet, but they don't know who you are unless you tell them.) AT&T does not supply customer identifiable information to advertising companies or to individual advertisers or other third parties. If you go to another Web site, including an advertiser's Web site (for example by clicking on an ad), and request information or enter a contest, be aware that you may be authorizing another company, including an advertising company, to use information you supply. [Find out more](https://web.archive.org/web/20031202025909id_/http://www.att.com/privacy/advertising.html) about the advertising companies that deliver ads on AT&T Web sites, read their privacy policies, and choose whether to let them collect information about what you do on the Internet. 
+AT&T uses advertising companies to deliver ads on some AT&T Web sites. The advertising companies may also receive some anonymous information about ad viewing by Internet users on AT&T Web sites and other Internet sites. This information may be associated with a customer's Web browser, but cannot be associated with a name or e-mail address without the customer's permission. (This means that advertising companies may know where your computer goes on the Internet, but they don't know who you are unless you tell them.) AT&T does not supply customer identifiable information to advertising companies or to individual advertisers or other third parties. If you go to another Web site, including an advertiser's Web site (for example by clicking on an ad), and request information or enter a contest, be aware that you may be authorizing another company, including an advertising company, to use information you supply. [Find out more](https://web.archive.org/web/20041210091134id_/http://www.att.com/privacy/advertising.html) about the advertising companies that deliver ads on AT&T Web sites, read their privacy policies, and choose whether to let them collect information about what you do on the Internet. 
 
 **Disclosure:** AT&T will not sell, trade, or disclose to third parties any customer identifiable information derived from the registration for or use of an AT&T online service -- including customer names and addresses -- without the consent of the customer (except as required by subpoena, search warrant, or other legal process or in the case of imminent physical harm to the customer or others). When AT&T uses other agents, contractors or companies to perform services on its behalf, AT&T will ensure that the company protects your customer identifiable information consistent with this Policy. If AT&T includes your name and any other customer identifiable information in a directory that AT&T creates from information we receive as an online service provider, the company will give you the opportunity to have your information excluded from that directory. Business directories that AT&T creates may, however, contain information obtained from other sources. 
 
@@ -39,9 +50,10 @@ AT&T uses advertising companies to deliver ads on some AT&T Web sites. The adver
 
 **Learn more about how to make this choice:**
 
-[Information for AT&T consumers](https://web.archive.org/privacy/consumer/). 
+  * [Information for AT&T consumers](https://web.archive.org/privacy/consumer/)
+  * [Information for AT&T business customers](https://web.archive.org/privacy/business/)
 
-[Information for AT&T business customers](https://web.archive.org/privacy/business/). 
+
 
 Customer-identifiable information which a visitor volunteers at one of the AT&T Web Sites to order AT&T services other than online services will be protected just as if the information had been provided under more traditional ways of ordering that service. 
 
@@ -53,11 +65,15 @@ Customer-identifiable information which a visitor volunteers at one of the AT&T 
 
 **Account Information:** AT&T honors requests from customers to review all customer identifiable information maintained in reasonably retrievable form, which currently consists of your name, address, e-mail address, telephone number and/or billing information, and will correct any such information which may be inaccurate. Customers may verify that appropriate corrections have been made. 
 
-**Customer Concerns:** If you are a consumer with concerns about the AT&T online privacy policy or its implementation you may contact us at 1-888-9-ATT-WEB. If you are a business customer, please call 1-877-744-4531. 
+**Customer Concerns:** If you are a consumer with concerns about the AT&T online privacy policy or its implementation you may contact us at +1 (888) 9-ATT-WEB. 
 
-AT&T also participates in the BBB _OnLine_ Ž Privacy Program. Further information about this program is available at [www.bbbonline.org](http://www.bbbonline.org/). 
+AT&T also participates in the BBB _OnLine_ ® Privacy Program. Further information about this program is available at [www.bbbonline.org](http://www.bbbonline.org/). 
 
 **Changes in Practices:** AT&T will keep this Policy current. The company will inform you of any changes that we make. 
+
+Back to Top
+
+## Additional Privacy Protections for Children Using the Internet
 
 AT&T joins the industry in recognizing that children, including young teens, may not be able to make informed choices about personal information requested online. 
 
@@ -67,9 +83,18 @@ In addition, on all of its online services and AT&T Web sites, AT&T will encoura
 
 AT&T encourages parents to take an active role to protect the privacy and security of their children and to prevent the inappropriate use of information about their children. AT&T supports the development of technologies that help parents to control the collection and use of personal information from children who use online services in their households. 
 
-Finally, AT&T complies with all Federal laws and regulations, including the Children's Online Privacy Protection Act, which requires the consent of a parent or guardian for the collection of personally identifiable information from children under 13 without the consent of a parent or guardian. 
+Finally, AT&T complies with all Federal laws and regulations, including the [Children's Online Privacy Protection Act](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) (COPPA), which requires the consent of a parent or guardian for the collection of personally identifiable information from children under 13 without the consent of a parent or guardian. 
 
-**[Learn more about COPPA.](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html)**
+Back to Top
 
-  
+## Customer Proprietary Network Information (CPNI)
 
+Under federal law you have a right, and AT&T has a duty, to protect the confidentiality of CPNI. AT&T is currently permitted to use CPNI, without further action by you or by AT&T, to offer additional services of the type you already purchase from AT&T. We would like to use your CPNI to offer you new and different communications-related products and services. Before we can do that, AT&T is required to provide this notice and an opportunity for you to deny AT&T's use of your CPNI. Except as required by law, AT&T will not sell, trade or share your CPNI with anyone outside of AT&T other than its duly authorized agents and affiliates. 
+
+CPNI is information that relates to the telecommunications services you buy from AT&T, including the types of services, how much you use them, how they are provided and related calling and billing records. CPNI does not include your telephone number, name, and address. 
+
+We will not use your CPNI until 33 days after a notice is sent to you. If at any time you would prefer that AT&T not use your CPNI to offer you other communications-related products and services, you only need to call AT&T at +1 (800) 645-6309 from your home phone. If you receive separate bills for additional telephone numbers, you will need to call from each such billed telephone number should you prefer that AT&T not use your CPNI for that telephone number. Any approval or denial of approval, for the use of your CPNI is valid until you affirmatively revoke such approval or denial. Denial of approval will not affect the services that AT&T provides you or the manner in which the services are provided. 
+
+[Frequently Asked Questions regarding CPNI](https://web.archive.org/web/20041210091134id_/http://www.att.com/privacy/cpni_faq.html)
+
+Back to Top
