@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204916id_/http%3A//www.directionsmag.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607020609id_/http%3A//www.directionsmag.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Directions Magazine Web Site Privacy Statement - Directions Magazine
 
-Directions Magazine Web Site Privacy Statement|   
----|---  
 Directions Magazine respects the privacy of every individual who visits our Web sites. This Privacy Statement outlines the information we collect via our various Web sites and how we use that information. 
 
 #### Personally Identifiable Information
@@ -39,5 +37,3 @@ If you do not wish to receive E-mail notifications about Directions Magazine, pl
 Directions Magazine does not intentionally collect personally identifiable information such as name, address, telephone number, or E-mail address from children. However, users of any age can download our free software, participate in surveys or wish lists which require a name and E-mail address.
 
 If a child has provided us with personally identifiable information and the parent or guardian of that child would like that information deleted from our records, the parent or guardian should contact us at [website@directionsmag.com](mailto:website@directionsmag.com). We will use reasonable efforts to delete the child's information from our existing files.
-
-                                                                                                                  
