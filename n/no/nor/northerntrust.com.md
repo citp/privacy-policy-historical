@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the northerntrust.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209095702id_/http%3A//www.northerntrust.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntrust.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621172725id_/http%3A//northerntrust.com/privacy.html) for the most accurate reproduction.*
 
 # Consumer Privacy Principles
 
-|  Consumer Privacy Notice
+Consumer Privacy Notice
 
 Privacy at Northern Trust - Keeping Your Finances a Private Matter
 
@@ -101,6 +101,4 @@ Also, you can have your name taken off pre-approved credit solicitations by writ
 > 
 > Trans Union LLC’s Name Removal Option  
 >  P.O. Box 97328  
->  Jackson, MS 39288-7328   
-  
----|---
+>  Jackson, MS 39288-7328 
