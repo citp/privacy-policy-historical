@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaginet.co.za privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604182201id_/http%3A//www.imaginet.co.za/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginet.co.za privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202065733id_/http%3A//www.imaginet.co.za/privacy.asp) for the most accurate reproduction.*
 
 # .: i m a g i n e t * Privacy Statement
 
