@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206101132id_/http%3A//cooksrecipes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605105658id_/http%3A//www.cooksrecipes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for CooksRecipes.com
 
@@ -16,10 +16,12 @@ If you supply CooksRecipes.com with your postal address on-line you will only re
 
 Persons who supply CooksRecipes.com with their telephone numbers on-line will only receive telephone contact from us regarding the information for which you provided us your telephone number.
 
-Third Party Advertising  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [NetworkAdvertising.org](http://www.networkadvertising.org/optout_nonppii.asp).
+**Third Party Advertising**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here
 
-Third Party Cookies  
+[http://www.maxonline.com/privacy_policy/index.php](http://www.maxonline.com/privacy_policy/index.php)
+
+T **hird Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 For further information, please consult the privacy policies of:
@@ -27,7 +29,6 @@ For further information, please consult the privacy policies of:
     **[AAA Fruit Baskets](http://www.qksrv.net/click-500065-52476)**
     **[Adagio Tea](http://www.qksrv.net/click-500065-241010)**
     **[CatalogCity.com](http://www.qksrv.net/click-500065-1035054)**
-    **[chapters.indigo.ca](http://www.qksrv.net/click-500065-1192669)**
     [**Commission Junction**](http://www.cj.com/)
     **[eHarlequin.com](http://www.qksrv.net/click-500065-534091)**
     **[Fastclick.com](http://www.fastclick.com/re.f?7609) **
@@ -39,6 +40,7 @@ For further information, please consult the privacy policies of:
     [**KitchenEtc.com**](http://www.kitchenetc.com/)
     [**MaxOnline.com**](http://www.maxonline.com/)
     [**Nestlé USA Meals.com**](http://www.meals.com/)
+    [****](http://www.meals.com/)**[Pfaltzgraff](http://www.qksrv.net/click-500065-10297223)**
     **[WALTER DRAKE®](http://www.qksrv.net/click-500065-4177592)**
     **[zChocolat.com](http://www.qksrv.net/click-500065-10020803)**
 
@@ -50,4 +52,4 @@ Regarding Outside Links: This website contains links to other websites. Please b
 
 If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-[Contact CooksRecipes.com](https://web.archive.org/web/20031206101132id_/http%3A//cooksrecipes.com/contact.htm)
+[Contact CooksRecipes.com](https://web.archive.org/web/20040605105658id_/http%3A//www.cooksrecipes.com/contact.htm)
