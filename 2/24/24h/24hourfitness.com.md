@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004040100id_/http%3A//24hourfitness.com/html/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602160237id_/http%3A//24hourfitness.com/html/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-** Privacy Policy**   
-[About Us](https://web.archive.org/html/company/) Welcome to 24HourFitness.com! We want 24HourFitness.com to be your source for health and fitness information, products, services and tools. We know that your privacy is important to you, so your privacy as you use our site is very important to us. This privacy policy describes what information we gather from you, how we use that information and what we do to protect it. We hope that this privacy policy is straightforward and clear, but if you have any questions about it, please e-mail [Chief Privacy Officer](mailto:cpo@24hourfit.com). 
+Welcome to 24HourFitness.com! We want 24HourFitness.com to be your source for health and fitness information, products, services and tools. We know that your privacy is important to you, so your privacy as you use our site is very important to us. This privacy policy describes what information we gather from you, how we use that information and what we do to protect it. We hope that this privacy policy is straightforward and clear, but if you have any questions about it, please e-mail [Chief Privacy Officer](mailto:cpo@24hourfit.com). 
 
 **Information We Gather**
 
@@ -57,7 +56,7 @@ We may reveal user information if we believe that user is harming or interfering
 
 **Accessing and Changing Your Information**
 
-24HourFitness.com is committed to ensuring that you have control over your Registration and Fitness Tracking Information. You can change your password and other Registration Information using the [eClub Member Home](http://www.24hourfitness.com/db/content.registered_home) page. Your Fitness Tracking profile and other Fitness Tracking Information can be changed from the [Fitness Tracking Menu](http://www.24hourfitness.com/db/fitness_utility.main_menu) page.
+24HourFitness.com is committed to ensuring that you have control over your Registration and Fitness Tracking Information. You can change your password and other Registration Information using the [eClub Member Home](https://web.archive.org/db/content.registered_home) page. Your Fitness Tracking profile and other Fitness Tracking Information can be changed from the [Fitness Tracking Menu](https://web.archive.org/db/fitness_utility.main_menu) page.
 
 **Data Security**
 
@@ -74,5 +73,3 @@ If we change this privacy policy in any substantial way, we will notify you at l
 **Questions About This Policy**
 
 If you have any questions about this privacy policy or other privacy questions about us, please email our [Chief Privacy Officer](mailto:cpo@24hourfit.com). 
-
-|  | 
