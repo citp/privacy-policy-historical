@@ -1,0 +1,736 @@
+<!--The following is the downloaded HTML source of the vizrt.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605042645id_/http%3A//vizrt.com/db/70/document211.ehtml) for the most accurate reproduction.-->
+
+<html><head>
+  <meta name="description" content="vizrt is a publicly traded company under the symbol VIZ (Neuer Market - Frankfurt). A leading provider of fully integrated broadcast graphics solutions, vizrt intends to lead the industry in the development and delivery of new real time visualization systems to traditional and emerging digital convergence markets.">
+  <meta name="keywords" content="viz|artist, viz|engine, viz|content pilot, viz|media sequencer, viz|maps, viz, vizrt">
+  <meta name="copyright" content="Copyright © 2002 vizrt">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <title>vizrt</title>
+  <link rel="stylesheet" href="http://www.vizrt.com/files/HTML/viz.css">
+  <style type="text/css">  
+    #divContainer{position:relative; width:148px; height:172px; overflow:hidden; top:0; left:0; clip:rect(0,148,172,0); visibility:hidden; }
+    #divContent{position:relative; top:0; left:0} 
+  </style>
+  <script language="JavaScript" type="text/javascript">
+		function verifyCompatibleBrowser(){ 
+			this.ver=navigator.appVersion 
+    	this.dom=document.getElementById?1:0 
+    	this.ie5=(this.ver.indexOf("MSIE 5")>-1 && this.dom)?1:0; 
+    	this.ie4=(document.all && !this.dom)?1:0; 
+    	this.ns5=(this.dom && parseInt(this.ver) >= 5) ?1:0; 
+ 
+    	this.ns4=(document.layers && !this.dom)?1:0; 
+    	this.bw=(this.ie5 || this.ie4 || this.ns4 || this.ns5) 
+    	return this 
+		} 
+
+		bw=new verifyCompatibleBrowser() 
+		var speed=50 
+		var loop, timer 
+ 
+		function ConstructObject(obj,nest){ 
+    	nest=(!nest) ? '':'document.'+nest+'.' 
+    	this.el=bw.dom?document.getElementById(obj):bw.ie4?document.all[obj]:bw.ns4?eval(nest+'document.'+obj):0; 
+    	this.css=bw.dom?document.getElementById(obj).style:bw.ie4?document.all[obj].style:bw.ns4?eval(nest+'document.'+obj):0; 
+    	this.scrollHeight=bw.ns4?this.css.document.height:this.el.offsetHeight 
+    	this.clipHeight=bw.ns4?this.css.clip.height:this.el.offsetHeight 
+    	this.up=MoveAreaUp;this.down=MoveAreaDown; 
+    	this.MoveArea=MoveArea; this.x; this.y; 
+    	this.obj = obj + "Object" 
+    	eval(this.obj + "=this");
+    	return this 
+		} 
+		function MoveArea(x,y){ 
+    	this.x=x;this.y=y 
+    	this.css.left=this.x 
+    	this.css.top=this.y 
+		} 
+ 
+		function MoveAreaDown(move){ 
+			if(this.y>-this.scrollHeight+objContainer.clipHeight){ 
+    		this.MoveArea(0,this.y-move) 
+    		if(loop) setTimeout(this.obj+".down("+move+")",speed) 
+			} 
+		} 
+
+		function MoveAreaUp(move){ 
+			if(this.y<0){ 
+    		this.MoveArea(0,this.y-move) 
+    		if(loop) setTimeout(this.obj+".up("+move+")",speed) 
+			} 
+		} 
+ 
+		function PerformScroll(speed) { 
+			if(initialised) {
+				loop=true; 
+				if(speed>0) objScroller.down(speed) 
+				else objScroller.up(speed) 
+			} 
+		} 
+ 
+		function CeaseScroll() { 
+    	loop=false 
+    	if(timer) clearTimeout(timer) 
+		} 
+
+		var initialised; 
+		function InitialiseScrollableArea(){ 
+    	objContainer=new ConstructObject('divContainer') 
+    	objScroller=new ConstructObject('divContent','divContainer') 
+    	objScroller.MoveArea(0,0) 
+    	objContainer.css.visibility='visible' 
+    	initialised=true; 
+		} 
+		function WrapperFixPositions() {
+			if (typeof (fixPositions) != 'undefined') fixPositions();
+			if (typeof (ArticleFixPositions) != 'undefined') ArticleFixPositions();
+		}
+  </script>
+</head>
+<body background="/files/HTML/bakgrunn_tile.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#f4f4f4" onload="InitialiseScrollableArea();WrapperFixPositions();" onresize="WrapperFixPositions();">
+<script language="JavaScript" type="text/javascript">
+	menunum=0; menus=new Array(); _d=document;
+
+	function addmenu() {
+		menunum++;
+		menus[menunum]=menu;
+	}
+
+	function dumpmenus() {
+		mt="<script language=javascript>";
+		for(a=1;a<menus.length;a++) {
+			mt+=" menu"+a+"=menus["+a+"];"
+		}
+		mt+="<\/script>";
+		_d.write(mt)
+	}
+
+	effect = ""; timegap=500; followspeed=5; followrate=40; suboffset_top=0; suboffset_left=2;
+
+	style1=["FFFFFF", "76736a", "FFFFFF", "615F5B", "", 10, "normal", "normal", "Verdana, Arial", 0, "",, "", "", "", "", "", "FFFFFF", "FF6100",];
+
+
+	addmenu(menu=[
+	"mainmenu", 101, "offset=+82", , 0, "center", style1, 1, "left", , , 1, 0, , , , 1, "hidemeDiv", , , ,
+
+
+	
+
+	
+
+	
+	
+		,"<img src='/files/HTML_Bilder/products.png' width=66 height=19 border=0>","show-menu=menu1","Vizrt","",0 
+	
+	
+
+	
+	
+		,"<img src='/files/HTML_Bilder/solutions.png' width=71 height=19 border=0>","show-menu=menu2","Vizrt","",0 
+	
+	
+
+	
+	
+		,"<img src='/files/HTML_Bilder/pressroom.png' width=79 height=19 border=0>","show-menu=menu4","Vizrt","",0 
+	
+	
+
+	
+	
+		,"<img src='/files/HTML_Bilder/investor.png' width=119 height=19 border=0>","show-menu=menu53","Vizrt","",0 
+	
+	
+
+	
+	
+		,"<img src='/files/HTML_Bilder/aboutus.png' width=64 height=19 border=0>","show-menu=menu3","Vizrt","",0 
+	
+	
+
+	
+	
+		,"<img src='/files/HTML_Bilder/contacts.png' width=64 height=19 border=0>","show-menu=menu5","Vizrt","",0 
+	
+	
+
+	
+	
+		
+			]);
+			addmenu(menu=["menu1",,,127,0,"",style1,,"left",,,,,,,,,,,,,
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Basic tools</DIV>","# type=header",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>viz|artist</DIV>","/db/1/47/document33.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>viz|engine</DIV>","/db/1/46/document7.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>viz|content pilot</DIV>","/db/1/49/document34.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>viz|media sequencer</DIV>","/db/1/48/document43.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>viz|maps</DIV>","/db/1/50/document9.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Expansions</DIV>","# type=header",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>modules</DIV>","/db/1/51/index-l-14.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>plugins</DIV>","/db/1/52/index-l-15.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			]);
+			addmenu(menu=["menu2",,,127,0,"",style1,,"left",,,,,,,,,,,,,
+			,"<DIV style='padding: 2px 3px 2px 3px;'>News</DIV>","/db/2/8/document35.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Sports</DIV>","/db/2/9/document28.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Business</DIV>","/db/2/10/document37.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Weather</DIV>","/db/2/11/document36.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Elections</DIV>","/db/2/12/document38.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Promos</DIV>","/db/2/13/document39.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Misc</DIV>","/db/2/75/document221.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Film</DIV>","http://www.viz-fx.com  target=_new",,,0		
+		
+	
+	
+
+	
+
+	
+	
+		
+			]);
+			addmenu(menu=["menu3",,,127,0,"",style1,,"left",,,,,,,,,,,,,
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Overview</DIV>","/db/3/69/document208.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Vision</DIV>","/db/3/24/document44.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Strategic Partnership</DIV>","/db/3/25/index-l-8.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Partner with us</DIV>","/gade?formid=30.1&submit_add=1 ",,,0		
+		
+	
+	
+
+	
+	
+		
+			]);
+			addmenu(menu=["menu4",,,127,0,"",style1,,"left",,,,,,,,,,,,,
+			,"<DIV style='padding: 2px 3px 2px 3px;'>News archive</DIV>","/gade?formid=20.1&submit_list=1&Year=2002 ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Events</DIV>","/db/4/27/index-l-10.ehtml ",,,0		
+		
+	
+	
+
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Awards</DIV>","/db/4/30/index-l-6.ehtml ",,,0		
+		
+	
+	
+
+	
+
+	
+	
+		
+			]);
+			addmenu(menu=["menu5",,,127,0,"",style1,,"left",,,,,,,,,,,,,
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Service and Support</DIV>","/gade?formid=31.1&submit_add=1 ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>HQ and viz centers</DIV>","/db/5/66/index-l-16.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Sales & Dealers</DIV>","show-menu=menu67",,,0		
+		
+	
+	
+
+	
+	
+		
+			]);
+			addmenu(menu=["menu53",,,127,0,"",style1,,"left",,,,,,,,,,,,,
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Company overview</DIV>","/db/53/54/document30.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>IR News</DIV>","/db/53/62/index-l.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Financials</DIV>","show-menu=menu55",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Stock quote</DIV>","http://kurse.exchange.de/exchange/en/detailanzeige_aktien.html?sym=VIZ.ETR&p  target=_new",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Management</DIV>","/db/53/60/index-l-9.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Get updates</DIV>","/gade?formid=32&submit_add=1 ",,,0		
+		
+	
+	
+
+	
+	
+		
+			]);
+			addmenu(menu=["menu55",,,127,0,"",style1,,"left",,,,,,,,,,,,,
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Quarterly reports</DIV>","/db/53/55/57/index-l-1.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Annual reports</DIV>","/db/53/55/56/index-l-5.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Sale prospectus</DIV>","/db/53/55/58/document217.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			]);
+			addmenu(menu=["menu67",,,127,0,"",style1,,"left",,,,,,,,,,,,,
+			,"<DIV style='padding: 2px 3px 2px 3px;'>The Americas</DIV>","/db/5/67/71/index-l-11.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Europa</DIV>","/db/5/67/73/index-l-12.ehtml ",,,0		
+		
+	
+	
+
+	
+	
+		
+			,"<DIV style='padding: 2px 3px 2px 3px;'>Asia, Pacific & Middle East</DIV>","/db/5/67/74/index-l-13.ehtml ",,,0		
+		
+	
+	
+
+	]);
+dumpmenus()
+</script><script language="javascript"> menu1=menus[1]; menu2=menus[2]; menu3=menus[3]; menu4=menus[4]; menu5=menus[5]; menu6=menus[6]; menu7=menus[7]; menu8=menus[8]; menu9=menus[9];</script>
+<script language="JavaScript" src="/common/javascript/mmenu.js" type="text/javascript"></script><div id="menu1" style="z-index: 42; visibility: visible; border: 0px solid; position: absolute; top: 101px; left: 533px; width: 463px; height: 19px;"><div id="hel0" style="position: absolute; top: 0px; left: 0px; width: 66px; height: 19px;"><a href="javascript:ShM=1;popi('show-menu=menu1','menu1',0);" style="text-decoration:none;"><div valign="top" align="left" id="el0" style=";padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';; popi('show-menu=menu1','menu1',0);;;return stch('');" onmouseout="rep_img(); popdn(this,0, 'menu1', 'show-menu=menu1', '#76736A', '#FFFFFF');;; return stch('');"><img onclick="gmobj('el0').click()" id="im0" src="/files/HTML_Bilder/products.png" width="66" height="19" border="0"></div></a></div><div id="hel1" style="position: absolute; top: 0px; width: 71px; height: 19px; left: 66px;"><a href="javascript:ShM=1;popi('show-menu=menu2','menu1',1);" style="text-decoration:none;"><div valign="top" align="left" id="el1" style=";padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';; popi('show-menu=menu2','menu1',1);;;return stch('');" onmouseout="rep_img(); popdn(this,1, 'menu1', 'show-menu=menu2', '#76736A', '#FFFFFF');;; return stch('');"><img onclick="gmobj('el1').click()" id="im1" src="/files/HTML_Bilder/solutions.png" width="71" height="19" border="0"></div></a></div><div id="hel2" style="position: absolute; top: 0px; width: 79px; height: 19px; left: 137px;"><a href="javascript:ShM=1;popi('show-menu=menu4','menu1',2);" style="text-decoration:none;"><div valign="top" align="left" id="el2" style=";padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';; popi('show-menu=menu4','menu1',2);;;return stch('');" onmouseout="rep_img(); popdn(this,2, 'menu1', 'show-menu=menu4', '#76736A', '#FFFFFF');;; return stch('');"><img onclick="gmobj('el2').click()" id="im2" src="/files/HTML_Bilder/pressroom.png" width="79" height="19" border="0"></div></a></div><div id="hel3" style="position: absolute; top: 0px; width: 119px; height: 19px; left: 216px;"><a href="javascript:ShM=1;popi('show-menu=menu53','menu1',3);" style="text-decoration:none;"><div valign="top" align="left" id="el3" style=";padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';; popi('show-menu=menu53','menu1',3);;;return stch('');" onmouseout="rep_img(); popdn(this,3, 'menu1', 'show-menu=menu53', '#76736A', '#FFFFFF');;; return stch('');"><img onclick="gmobj('el3').click()" id="im3" src="/files/HTML_Bilder/investor.png" width="119" height="19" border="0"></div></a></div><div id="hel4" style="position: absolute; top: 0px; width: 64px; height: 19px; left: 335px;"><a href="javascript:ShM=1;popi('show-menu=menu3','menu1',4);" style="text-decoration:none;"><div valign="top" align="left" id="el4" style=";padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';; popi('show-menu=menu3','menu1',4);;;return stch('');" onmouseout="rep_img(); popdn(this,4, 'menu1', 'show-menu=menu3', '#76736A', '#FFFFFF');;; return stch('');"><img onclick="gmobj('el4').click()" id="im4" src="/files/HTML_Bilder/aboutus.png" width="64" height="19" border="0"></div></a></div><div id="hel5" style="position: absolute; top: 0px; width: 64px; height: 19px; left: 399px;"><a href="javascript:ShM=1;popi('show-menu=menu5','menu1',5);" style="text-decoration:none;"><div valign="top" align="left" id="el5" style=";padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';; popi('show-menu=menu5','menu1',5);;;return stch('');" onmouseout="rep_img(); popdn(this,5, 'menu1', 'show-menu=menu5', '#76736A', '#FFFFFF');;; return stch('');"><img onclick="gmobj('el5').click()" id="im5" src="/files/HTML_Bilder/contacts.png" width="64" height="19" border="0"></div></a></div></div>
+<div id="menu2" style=";z-index:40;visibility:hidden;border:solid 0px; border-left-color:;border-top-color:;border-bottom-color:;border-right-color:;position:absolute;background-Color:;width:127px;left:undefinedpx;top:undefinedpx;"> <div valign="top" align="left" id="el6" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#FF6100;" onmouseover="this.style.backgroundColor='#FF6100';style.color='#FFFFFF';this.style.cursor='default';ShM=1;; popi('# type=header','menu2',6);;;;return stch('#');" onmouseout="rep_img(); popdn(this,6, 'menu2', '# type=header', '#FF6100', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Basic tools</div></div><a href="/db/1/47/document33.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el7" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/1/47/document33.ehtml ','menu2',7);;;;return stch('/db/1/47/document33.ehtml');" onmouseout="rep_img(); popdn(this,7, 'menu2', '/db/1/47/document33.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">viz|artist</div></div></a><a href="/db/1/46/document7.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el8" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/1/46/document7.ehtml ','menu2',8);;;;return stch('/db/1/46/document7.ehtml');" onmouseout="rep_img(); popdn(this,8, 'menu2', '/db/1/46/document7.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">viz|engine</div></div></a><a href="/db/1/49/document34.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el9" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/1/49/document34.ehtml ','menu2',9);;;;return stch('/db/1/49/document34.ehtml');" onmouseout="rep_img(); popdn(this,9, 'menu2', '/db/1/49/document34.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">viz|content pilot</div></div></a><a href="/db/1/48/document43.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el10" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/1/48/document43.ehtml ','menu2',10);;;;return stch('/db/1/48/document43.ehtml');" onmouseout="rep_img(); popdn(this,10, 'menu2', '/db/1/48/document43.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">viz|media sequencer</div></div></a><a href="/db/1/50/document9.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el11" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/1/50/document9.ehtml ','menu2',11);;;;return stch('/db/1/50/document9.ehtml');" onmouseout="rep_img(); popdn(this,11, 'menu2', '/db/1/50/document9.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">viz|maps</div></div></a> <div valign="top" align="left" id="el12" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#FF6100;" onmouseover="this.style.backgroundColor='#FF6100';style.color='#FFFFFF';this.style.cursor='default';ShM=1;; popi('# type=header','menu2',12);;;;return stch('#');" onmouseout="rep_img(); popdn(this,12, 'menu2', '# type=header', '#FF6100', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Expansions</div></div><a href="/db/1/51/index-l-14.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el13" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/1/51/index-l-14.ehtml ','menu2',13);;;;return stch('/db/1/51/index-l-14.ehtml');" onmouseout="rep_img(); popdn(this,13, 'menu2', '/db/1/51/index-l-14.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">modules</div></div></a><a href="/db/1/52/index-l-15.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el14" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/1/52/index-l-15.ehtml ','menu2',14);;;;return stch('/db/1/52/index-l-15.ehtml');" onmouseout="rep_img(); popdn(this,14, 'menu2', '/db/1/52/index-l-15.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">plugins</div></div></a></div>
+<div id="menu3" style=";z-index:40;visibility:hidden;border:solid 0px; border-left-color:;border-top-color:;border-bottom-color:;border-right-color:;position:absolute;background-Color:;width:127px;left:undefinedpx;top:undefinedpx;"><a href="/db/2/8/document35.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el15" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/2/8/document35.ehtml ','menu3',15);;;;return stch('/db/2/8/document35.ehtml');" onmouseout="rep_img(); popdn(this,15, 'menu3', '/db/2/8/document35.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">News</div></div></a><a href="/db/2/9/document28.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el16" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/2/9/document28.ehtml ','menu3',16);;;;return stch('/db/2/9/document28.ehtml');" onmouseout="rep_img(); popdn(this,16, 'menu3', '/db/2/9/document28.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Sports</div></div></a><a href="/db/2/10/document37.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el17" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/2/10/document37.ehtml ','menu3',17);;;;return stch('/db/2/10/document37.ehtml');" onmouseout="rep_img(); popdn(this,17, 'menu3', '/db/2/10/document37.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Business</div></div></a><a href="/db/2/11/document36.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el18" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/2/11/document36.ehtml ','menu3',18);;;;return stch('/db/2/11/document36.ehtml');" onmouseout="rep_img(); popdn(this,18, 'menu3', '/db/2/11/document36.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Weather</div></div></a><a href="/db/2/12/document38.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el19" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/2/12/document38.ehtml ','menu3',19);;;;return stch('/db/2/12/document38.ehtml');" onmouseout="rep_img(); popdn(this,19, 'menu3', '/db/2/12/document38.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Elections</div></div></a><a href="/db/2/13/document39.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el20" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/2/13/document39.ehtml ','menu3',20);;;;return stch('/db/2/13/document39.ehtml');" onmouseout="rep_img(); popdn(this,20, 'menu3', '/db/2/13/document39.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Promos</div></div></a><a href="/db/2/75/document221.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el21" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/2/75/document221.ehtml ','menu3',21);;;;return stch('/db/2/75/document221.ehtml');" onmouseout="rep_img(); popdn(this,21, 'menu3', '/db/2/75/document221.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Misc</div></div></a><a href="http://www.viz-fx.com" target="_new" style="text-decoration:none;"><div valign="top" align="left" id="el22" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('http://www.viz-fx.com  target=_new','menu3',22);;;;return stch('http://www.viz-fx.com');" onmouseout="rep_img(); popdn(this,22, 'menu3', 'http://www.viz-fx.com  target=_new', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Film</div></div></a></div>
+<div id="menu4" style=";z-index:40;visibility:hidden;border:solid 0px; border-left-color:;border-top-color:;border-bottom-color:;border-right-color:;position:absolute;background-Color:;width:127px;left:undefinedpx;top:undefinedpx;"><a href="/db/3/69/document208.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el23" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/3/69/document208.ehtml ','menu4',23);;;;return stch('/db/3/69/document208.ehtml');" onmouseout="rep_img(); popdn(this,23, 'menu4', '/db/3/69/document208.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Overview</div></div></a><a href="/db/3/24/document44.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el24" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/3/24/document44.ehtml ','menu4',24);;;;return stch('/db/3/24/document44.ehtml');" onmouseout="rep_img(); popdn(this,24, 'menu4', '/db/3/24/document44.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Vision</div></div></a><a href="/db/3/25/index-l-8.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el25" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/3/25/index-l-8.ehtml ','menu4',25);;;;return stch('/db/3/25/index-l-8.ehtml');" onmouseout="rep_img(); popdn(this,25, 'menu4', '/db/3/25/index-l-8.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Strategic Partnership</div></div></a><a href="/gade?formid=30.1&amp;submit_add=1" style="text-decoration:none;"><div valign="top" align="left" id="el26" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/gade?formid=30.1&amp;submit_add=1 ','menu4',26);;;;return stch('/gade?formid=30.1&amp;submit_add=1');" onmouseout="rep_img(); popdn(this,26, 'menu4', '/gade?formid=30.1&amp;submit_add=1 ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Partner with us</div></div></a></div>
+<div id="menu5" style=";z-index:40;visibility:hidden;border:solid 0px; border-left-color:;border-top-color:;border-bottom-color:;border-right-color:;position:absolute;background-Color:;width:127px;left:undefinedpx;top:undefinedpx;"><a href="/gade?formid=20.1&amp;submit_list=1&amp;Year=2002" style="text-decoration:none;"><div valign="top" align="left" id="el27" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/gade?formid=20.1&amp;submit_list=1&amp;Year=2002 ','menu5',27);;;;return stch('/gade?formid=20.1&amp;submit_list=1&amp;Year=2002');" onmouseout="rep_img(); popdn(this,27, 'menu5', '/gade?formid=20.1&amp;submit_list=1&amp;Year=2002 ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">News archive</div></div></a><a href="/db/4/27/index-l-10.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el28" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/4/27/index-l-10.ehtml ','menu5',28);;;;return stch('/db/4/27/index-l-10.ehtml');" onmouseout="rep_img(); popdn(this,28, 'menu5', '/db/4/27/index-l-10.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Events</div></div></a><a href="/db/4/30/index-l-6.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el29" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/4/30/index-l-6.ehtml ','menu5',29);;;;return stch('/db/4/30/index-l-6.ehtml');" onmouseout="rep_img(); popdn(this,29, 'menu5', '/db/4/30/index-l-6.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Awards</div></div></a></div>
+<div id="menu6" style=";z-index:40;visibility:hidden;border:solid 0px; border-left-color:;border-top-color:;border-bottom-color:;border-right-color:;position:absolute;background-Color:;width:127px;left:undefinedpx;top:undefinedpx;"><a href="/gade?formid=31.1&amp;submit_add=1" style="text-decoration:none;"><div valign="top" align="left" id="el30" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/gade?formid=31.1&amp;submit_add=1 ','menu6',30);;;;return stch('/gade?formid=31.1&amp;submit_add=1');" onmouseout="rep_img(); popdn(this,30, 'menu6', '/gade?formid=31.1&amp;submit_add=1 ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Service and Support</div></div></a><a href="/db/5/66/index-l-16.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el31" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/5/66/index-l-16.ehtml ','menu6',31);;;;return stch('/db/5/66/index-l-16.ehtml');" onmouseout="rep_img(); popdn(this,31, 'menu6', '/db/5/66/index-l-16.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">HQ and viz centers</div></div></a> <div valign="top" align="left" id="el32" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='default';ShM=1;; popi('show-menu=menu67','menu6',32);;;return stch('#');" onmouseout="rep_img(); popdn(this,32, 'menu6', 'show-menu=menu67', '#76736A', '#FFFFFF');;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Sales &amp; Dealers</div></div></div>
+<div id="menu7" style=";z-index:40;visibility:hidden;border:solid 0px; border-left-color:;border-top-color:;border-bottom-color:;border-right-color:;position:absolute;background-Color:;width:127px;left:undefinedpx;top:undefinedpx;"><a href="/db/53/54/document30.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el33" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/53/54/document30.ehtml ','menu7',33);;;;return stch('/db/53/54/document30.ehtml');" onmouseout="rep_img(); popdn(this,33, 'menu7', '/db/53/54/document30.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Company overview</div></div></a><a href="/db/53/62/index-l.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el34" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/53/62/index-l.ehtml ','menu7',34);;;;return stch('/db/53/62/index-l.ehtml');" onmouseout="rep_img(); popdn(this,34, 'menu7', '/db/53/62/index-l.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">IR News</div></div></a> <div valign="top" align="left" id="el35" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='default';ShM=1;; popi('show-menu=menu55','menu7',35);;;return stch('#');" onmouseout="rep_img(); popdn(this,35, 'menu7', 'show-menu=menu55', '#76736A', '#FFFFFF');;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Financials</div></div><a href="http://kurse.exchange.de/exchange/en/detailanzeige_aktien.html?sym=VIZ.ETR&amp;p" target="_new" style="text-decoration:none;"><div valign="top" align="left" id="el36" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('http://kurse.exchange.de/exchange/en/detailanzeige_aktien.html?sym=VIZ.ETR&amp;p  target=_new','menu7',36);;;;return stch('http://kurse.exchange.de/exchange/en/detailanzeige_aktien.html?sym=VIZ.ETR&amp;p');" onmouseout="rep_img(); popdn(this,36, 'menu7', 'http://kurse.exchange.de/exchange/en/detailanzeige_aktien.html?sym=VIZ.ETR&amp;p  target=_new', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Stock quote</div></div></a><a href="/db/53/60/index-l-9.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el37" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/53/60/index-l-9.ehtml ','menu7',37);;;;return stch('/db/53/60/index-l-9.ehtml');" onmouseout="rep_img(); popdn(this,37, 'menu7', '/db/53/60/index-l-9.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Management</div></div></a><a href="/gade?formid=32&amp;submit_add=1" style="text-decoration:none;"><div valign="top" align="left" id="el38" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/gade?formid=32&amp;submit_add=1 ','menu7',38);;;;return stch('/gade?formid=32&amp;submit_add=1');" onmouseout="rep_img(); popdn(this,38, 'menu7', '/gade?formid=32&amp;submit_add=1 ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Get updates</div></div></a></div>
+<div id="menu8" style=";z-index:40;visibility:hidden;border:solid 0px; border-left-color:;border-top-color:;border-bottom-color:;border-right-color:;position:absolute;background-Color:;width:127px;left:undefinedpx;top:undefinedpx;"><a href="/db/53/55/57/index-l-1.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el39" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/53/55/57/index-l-1.ehtml ','menu8',39);;;;return stch('/db/53/55/57/index-l-1.ehtml');" onmouseout="rep_img(); popdn(this,39, 'menu8', '/db/53/55/57/index-l-1.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Quarterly reports</div></div></a><a href="/db/53/55/56/index-l-5.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el40" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/53/55/56/index-l-5.ehtml ','menu8',40);;;;return stch('/db/53/55/56/index-l-5.ehtml');" onmouseout="rep_img(); popdn(this,40, 'menu8', '/db/53/55/56/index-l-5.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Annual reports</div></div></a><a href="/db/53/55/58/document217.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el41" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/53/55/58/document217.ehtml ','menu8',41);;;;return stch('/db/53/55/58/document217.ehtml');" onmouseout="rep_img(); popdn(this,41, 'menu8', '/db/53/55/58/document217.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Sale prospectus</div></div></a></div>
+<div id="menu9" style=";z-index:40;visibility:hidden;border:solid 0px; border-left-color:;border-top-color:;border-bottom-color:;border-right-color:;position:absolute;background-Color:;width:127px;left:undefinedpx;top:undefinedpx;"><a href="/db/5/67/71/index-l-11.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el42" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/5/67/71/index-l-11.ehtml ','menu9',42);;;;return stch('/db/5/67/71/index-l-11.ehtml');" onmouseout="rep_img(); popdn(this,42, 'menu9', '/db/5/67/71/index-l-11.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">The Americas</div></div></a><a href="/db/5/67/73/index-l-12.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el43" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/5/67/73/index-l-12.ehtml ','menu9',43);;;;return stch('/db/5/67/73/index-l-12.ehtml');" onmouseout="rep_img(); popdn(this,43, 'menu9', '/db/5/67/73/index-l-12.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Europa</div></div></a><a href="/db/5/67/74/index-l-13.ehtml" style="text-decoration:none;"><div valign="top" align="left" id="el44" style="width:127px;padding:0px 0px 0px 0px ;font-weight:normal;font-style:normal;font-family:Verdana, Arial;font-size:10px;color:#FFFFFF;background-color:#76736A;" onmouseover="this.style.backgroundColor='#615F5B';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('/db/5/67/74/index-l-13.ehtml ','menu9',44);;;;return stch('/db/5/67/74/index-l-13.ehtml');" onmouseout="rep_img(); popdn(this,44, 'menu9', '/db/5/67/74/index-l-13.ehtml ', '#76736A', '#FFFFFF');;;; return stch('');"><div style="padding: 2px 3px 2px 3px;">Asia, Pacific &amp; Middle East</div></div></a></div>
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tbody><tr>
+    <td bgcolor="#C2C0C0"><img alt="" src="/files/HTML/pix.gif" height="100%"></td>
+    <td>
+			<table cellspacing="0" border="0" cellpadding="0">
+				<tbody><tr>
+					<td colspan="3" bgcolor="#ffffff"><img src="/files/HTML/pix.gif" width="670" height="10" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td bgcolor="#ffffff"><img src="/files/HTML/pix.gif" width="10" height="1" alt="" border="0">
+					</td>
+					<td>
+						<table cellspacing="0" border="0" cellpadding="0" width="660">
+							<tbody><tr>
+								<td>
+			<!-- header start-->
+									<table cellspacing="0" border="0" cellpadding="0" width="660">
+										<tbody><tr>
+											<td bgcolor="#FF8200"><map name="headermap"><area alt="" href="http://www.vizrt.com/" shape="rect" coords="0,0,120,89"></map><img src="/files/HTML/header.jpg" width="660" height="89" alt="" border="0" usemap="#headermap"></td>
+										</tr><tr>
+											<td bgcolor="#6C6962"><img src="/files/HTML/menu_background.gif" width="660" height="21" alt="" border="0"></td>
+										</tr>
+									</tbody></table>
+			<!-- header slutt-->
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<table cellspacing="0" border="0" cellpadding="0" width="650">
+										<tbody><tr>
+											<td bgcolor="#ffffff">
+												<table cellspacing="0" border="0" cellpadding="0">
+													<tbody><tr valign="top">
+														<td bgcolor="#ffffff">
+															<table border="0" cellpadding="0" cellspacing="0" width="162">
+															  <tbody><tr>
+															    <td bgcolor="#ffffff"><img src="/files/HTML/pix.gif" width="162" height="20" alt="" border="0"></td>
+															  </tr><tr>
+															    <td bgcolor="#ffffff">
+																		
+<map name="wheelmap">
+  <area alt="" onmouseover="wheel.src='/files/HTML/viz_artist.gif'" onmouseout="wheel.src='/files/HTML/blank.gif'" shape="poly" coords="40,4,31,10,22,18,15,25,10,35,8,39,11,42,32,36,38,26,46,21,53,18,58,18,58,14,55,10,43,14" href="/db/1/47/document33.ehtml">
+  <area alt="" onmouseover="wheel.src='/files/HTML/viz_maps.gif'" onmouseout="wheel.src='/files/HTML/blank.gif'" shape="poly" coords="83,3,76,0,55,0,41,6,43,12,55,10,60,15,69,18,85,7" href="/db/1/50/document9.ehtml">
+  <area alt="" onmouseover="wheel.src='/files/HTML/viz_content_pilot.gif'" onmouseout="wheel.src='/files/HTML/blank.gif'" shape="poly" coords="68,40,70,43,84,48,86,51,90,47,95,36,97,25,92,12,85,5,69,18,59,15,56,18,62,19,66,22,66,28,66,33,70,42,72,43" href="/db/1/49/document34.ehtml">
+  <area alt="" onmouseover="wheel.src='/files/HTML/viz_media_sequencer.gif'" onmouseout="wheel.src='/files/HTML/blank.gif'" shape="poly" coords="67,37,64,42,60,45,54,49,46,51,42,51,37,48,34,50,39,52,42,56,35,73,38,78,47,78,62,75,74,68,83,60,88,54,85,48,70,41" href="/db/1/48/document43.ehtml">
+  <area alt="" onmouseover="wheel.src='/files/HTML/viz_engine.gif'" onmouseout="wheel.src='/files/HTML/blank.gif'" shape="poly" coords="11,41,10,50,12,60,17,66,24,72,35,74,42,56,38,51,34,50,37,48,40,50,46,50,52,49,58,46,62,43,65,40,67,36,65,29,66,23,62,18,56,17,50,18,42,22,37,26,35,30,33,35" href="/db/1/46/document7.ehtml">
+</map>
+<img name="wheel" src="/files/HTML/blank.gif" width="162" height="96" alt="" border="0" usemap="#wheelmap">
+	
+															    </td>
+															  </tr><tr>
+															    <td bgcolor="#ffffff"><img src="/files/HTML/pix.gif" width="162" height="10" alt="" border="0"></td>
+															  </tr><tr>
+															    <td bgcolor="#ffffff">
+																		
+<table border="0" cellpadding="0" cellspacing="0" width="162">
+  <tbody><tr>
+    <td width="153" colspan="3"><img src="/files/HTML/news_ticker_top.gif" width="153" height="17" alt=""></td>
+    <td rowspan="3" valign="top">
+      <table border="0" cellpadding="0" cellspacing="0" width="9">
+        <tbody><tr>
+          <td><img src="/files/HTML/pix.gif" width="9" height="16" alt=""></td>
+        </tr><tr>
+          <td><a href="javascript:;" onmousedown="PerformScroll(-7)" onmouseup="CeaseScroll()"><img src="/files/HTML/scroll_up.gif" width="9" height="8" border="0" alt=""></a></td>
+        </tr><tr>
+          <td><img src="/files/HTML/scroll_back.gif" width="9" height="158" alt=""></td>
+        </tr><tr>
+          <td><a href="javascript:;" onmousedown="PerformScroll(7)" onmouseup="CeaseScroll()"><img src="/files/HTML/scroll_down.gif" width="9" height="8" border="0" alt=""></a></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr><tr>
+    <td width="1" rowspan="2" valign="top"><img src="/files/HTML/news_ticker_left.gif" width="1" height="173" alt=""></td>
+    <td width="148" height="172">
+      <div id="divContainer" style="visibility: visible;"> 
+        <div id="divContent" style="left: 0px; top: 0px;">
+          <table border="0" cellpadding="0" cellspacing="0">
+	
+            <tbody><tr>
+              <td class="latestnewshead">05.27.02</td>
+            </tr><tr>
+              <td class="latestnews">
+                <b><a href="/db/4/28/document256.ehtml">VIZRT COOPERATES WITH NOROFF INSTITUTE</a></b><br>
+                vizrt and Noroff Institute have reached a cooperation agreement where vizrt will supply the Noroff Institute with software for use amongst the students.
+              </td>
+            </tr>
+		
+            <tr>
+              <td class="latestnewshead">05.22.02</td>
+            </tr><tr>
+              <td class="latestnews">
+                <b><a href="/db/4/28/document254.ehtml">vizrt Reports First Quarter 2002 Results</a></b><br>
+                Strong improvement in Gross Margin and Bottom Line
+              </td>
+            </tr>
+		
+            <tr>
+              <td class="latestnewshead">05.20.02</td>
+            </tr><tr>
+              <td class="latestnews">
+                <b><a href="/db/4/28/document249.ehtml">vizrt fine tune Eurovision results</a></b><br>
+                When votes from 24 countries are to be counted in the Eurovision Song Contest 2002 I Tallin, Estonia on May 25,  it will happen on vizrt technology.
+              </td>
+            </tr>
+		
+            <tr>
+              <td class="latestnewshead">04.08.02</td>
+            </tr><tr>
+              <td class="latestnews">
+                <b><a href="/db/4/28/document235.ehtml">NTV in Japan picks vizrt to sharpen up graphics for HDTV</a></b><br>
+                Selected by NTV vizrt will provide the very latest in real-time 3-d graphics software.
+              </td>
+            </tr>
+		
+            <tr>
+              <td class="latestnewshead">03.25.02</td>
+            </tr><tr>
+              <td class="latestnews">
+                <b><a href="/db/4/28/document222.ehtml">vizrt renames its software</a></b><br>
+                Changes product structure
+              </td>
+            </tr>
+		
+          </tbody></table>
+        </div>
+      </div>
+    </td>
+    <td width="4" rowspan="2" valign="top"><img src="/files/HTML/news_ticker_right.gif" width="4" height="173" alt=""></td>
+  </tr><tr>
+    <td width="148" height="1"><img src="/files/HTML/news_ticker_bottom.gif" width="148" height="1" alt=""></td>
+  </tr>
+</tbody></table>
+	
+															    </td>
+															  </tr><tr>
+															    <td bgcolor="#ffffff"><img src="/files/HTML/pix.gif" width="162" height="10" alt="" border="0"></td>
+															  </tr><tr>
+																	<td>
+																		<table border="0" cellspacing="0" cellpadding="0" width="150" height="60">
+																			<tbody><tr>
+																				<td background="/files/HTML/contact_us.gif" width="150" valign="middle" class="brodtekst" style="padding-top: 10px; padding-left: 10px;">
+																					+1 212-560-0708<br>
+																					<a href="mailto:info@vizrt.com">info@vizrt.com</a>
+																				</td>
+																			</tr>
+																		</tbody></table>
+																	</td>
+																</tr>
+															</tbody></table>
+														</td>
+														<td bgcolor="#ffffff"><img src="/files/HTML/pix.gif" width="18" height="1" alt="" border="0"></td>
+														<td>
+
+															<!-- hovedinnholdfelt start -->
+												<table colspacing="0" cellspacing="0" border="0" cellpadding="0" width="480">
+													<tbody><tr>
+														<!-- Overskrift og ingress start -->
+														<td bgcolor="#F6F1ED" colspan="3">
+															<table colspacing="0" cellspacing="0" border="0" cellpadding="10" width="480">
+																<tbody><tr>
+																	<td>
+																		<table colspacing="0" cellspacing="0" border="0" cellpadding="0">
+																			<tbody><tr>
+																				<td></td>
+																				<td colspan="1" class="head" valign="bottom">Privacy Statement</td>
+																			</tr>
+
+																		</tbody></table>
+																	</td>
+																</tr>
+																<tr>
+																	<td colspan="2" bgcolor="#ffffff"><img src="/files/HTML/pix.gif" width="1" height="1" alt="" border="0"></td>
+																</tr>
+															<!-- Overskrift og ingress slutt -->
+															</tbody></table>
+														</td>
+													</tr>
+													<tr>
+														<td colspan="3"><img src="/files/HTML/pix.gif" width="1" height="4" alt="" border="0"></td>
+													</tr>
+													<tr>
+														<td>
+															<table colspacing="0" cellspacing="0" border="0" cellpadding="0">
+																<tbody><tr>
+																	<td width="10"><img src="/files/HTML/pix.gif" width="1" height="1" alt="" border="0"></td>
+																	<td class="brodtekst"><p><strong>Privacy Statement</strong></p>
+<p>Your right to privacy is extremely important to us. As a user, you may visit our site while remaining anonymous and without the need to reveal any personal information. However, in certain portions of the site you may be asked to provide personal information, such as your name, address, and e-mail. <strong>vizrt</strong> will use this data to contact you with information that is relevant to the reasons for which it was submitted.</p>
+<p>Any information you provide to <strong>vizrt</strong> over this website will be maintained and accessible only by <strong>vizrt</strong>. <strong>vizrt</strong> will not disclose information about any individual user to any entity except to comply with applicable laws or valid legal processes. If such a disclosure should inadvertently occur, <strong>vizrt</strong> will use reasonable efforts to limit and remedy the disclosure, but will accept no liability for the disclosure.</p>
+<p>Some portions of the site may allow you to upload information that will identify you. If you decide to use those portions of the site and post information, the information you post will be made public. <strong>vizrt</strong> intends to cooperate with any order or request from law enforcement officials or a court of competent jurisdiction for information as to the identity of individuals submitting or posting information to <strong>vizrt</strong> or to its website.</p>
+<p>It is important to us that your experience of the <strong>vizrt</strong> website be positive. Toward this end, we promise to do everything to respect your rights.</p></td>
+																	<td width"10"=""><img src="/files/HTML/pix.gif" width="10" height="1" alt="" border="0"></td>
+																</tr>
+															</tbody></table>
+														</td>
+													</tr>
+													<tr>
+														<td><img src="/files/HTML/pix.gif" width="1" height="10" alt="" border="0"></td>
+													</tr>
+												<!-- hovedinnholdfelt slutt-->
+												</tbody></table>
+
+
+														</td>
+													</tr>
+												</tbody></table>
+											</td>
+										</tr>
+										<tr>
+											<td bgcolor="#ffffff"><img src="/files/HTML/pix.gif" width="660" height="10" alt="" border="0"></td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td bgcolor="#ffffff"><img src="/files/HTML/pix.gif" width="10" height="1" alt="" border="0">
+					</td>
+				</tr>
+			</tbody></table>
+    </td>
+    <td bgcolor="#C2C0C0"><img src="/files/HTML/pix.gif" height="100%" alt=""></td>
+  </tr><tr>
+    <td colspan="3" bgcolor="#C2C0C0"><img src="/files/HTML/pix.gif" width="670" height="1" alt=""></td>
+  </tr><tr>
+    <td colspan="3" align="right" class="footer">Copyright © 2002 <b>vizrt</b>. All Rights Reserved. <a href="/db/70/document212.ehtml">Legal Notice</a> &amp; <a href="/db/70/document211.ehtml">Privacy Statement</a>. <a href="mailto:webmaster@vizrt.com">webmaster@vizrt.com</a></td>
+  </tr><tr>
+    <td colspan="3"><img src="/files/HTML/pix.gif" height="15" alt=""></td>
+  </tr>
+</tbody></table>
+
+</body></html>
