@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sextracker.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405185842id_/http%3A//www.sextracker.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextracker.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201130925id_/http%3A//www.sextracker.com/about/privacy.html) for the most accurate reproduction.*
 
 # SexTracker Privacy Policy
 
