@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastclick.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206234300id_/http%3A//www.fastclick.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastclick.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603004910id_/http%3A//www.fastclick.com/help/privacy.html) for the most accurate reproduction.*
 
 # fastclick | Privacy Policy
 
@@ -20,7 +20,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 #### Information Collection and Use
 
-Fastclick.com Inc. (Fastclick) is the sole owner of the information collected on this site. Information collected is in two distinct categories: Member information and aggregated Web User information. This portion of Fastclick's privacy statement applies only to Members of Fastclick. For web user privacy issues regarding the serving of advertisements and the use of cookies, please see the [Web User Privacy Statement](https://web.archive.org/web/20001206234300id_/http%3A//www.fastclick.com/help/privacy2.html).
+Fastclick.com Inc. (Fastclick) is the sole owner of the information collected on this site. Information collected is in two distinct categories: Member information and aggregated Web User information. This portion of Fastclick's privacy statement applies only to Members of Fastclick. For web user privacy issues regarding the serving of advertisements and the use of cookies, please see the [Web User Privacy Statement](https://web.archive.org/web/20010603004910id_/http%3A//www.fastclick.com/help/privacy2.html).
 
 Members of the Fastclick network include publishers and advertisers involved in advertising campaign transactions. Member information collected includes personally identifiable information that is necessary to conduct business, such as name, phone number, and email address. Payments made to and from Fastclick require the collection of personally identifiable information that may include credit card numbers and bank account information. Phone numbers may be used to contact Members for sales or inventory acquisition purposes. All Member information is collected, modified and stored in a password protected environment. This information is used for service, media delivery, contact, billing and accounts payable purposes. We will not sell, share, or rent this information to others. All Member information collection is explicit, voluntary, manually entered by the Member, and can be opted-out. Fastclick will never share information about you without your permission. 
 
