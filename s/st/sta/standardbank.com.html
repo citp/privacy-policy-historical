@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the standardbank.com privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603005849id_/http%3A//www.standardbank.com/AboutUs/privacysecurity.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the standardbank.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204184758id_/http%3A//www.standardbank.com/AboutUs/privacysecurity.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=unicode">
+
+
 
 <script id="clientEventHandlersJS" language="javascript">
 <!--
@@ -17,8 +19,18 @@ function MouseOut(obj)
 	obj = document.getElementById(obj);
 	obj.style.backgroundColor = 'white';
 }
+
+function GetLink() {
+var sURL
+ sURL = "http://www.standardbank.com/scripts/fraudster.asp";
+  window.open(sURL,null,"height=400,width=600,scrollbars=yes,status=no,toolbar=no,menubar=no,location=no");
+ }
+
 //-->
 </script>
+
+
+
 
 </head><body>
 
@@ -60,9 +72,16 @@ Swaps, Bullion">
 	<!-- LOGON END -->
   
 	<!-- Banner START -->
+
 	<div id="banner">
-	<a href="/AboutUs/Reportandaccounts.asp" target="_blank">
-	<img align="left" border="0" height="44" src="/images/BannerRepAccAni.gif"></a>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="343" height="44" id="Banner" align="top">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="/images/Banner.swf">
+<param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">
+<embed src="Banner.swf" quality="high" bgcolor="#ffffff" width="343" height="44" name="Banner" align="top" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+
 	</div>
 	<!-- Banner END -->
 
@@ -134,28 +153,9 @@ Swaps, Bullion">
 <td class="menubanner">
 	<!--end of menu-->
 	<!-- URL's used in the movie-->
-<a href="Scripts/Fraudster.asp"></a> <!-- text used in the movie-->
-<!--IMPORTANT NOTICE FRAUD WARNING Recently consumers have been  reporting the receipt of emails  that purport to be from the  Private Client Services  Department of Standard Bank  London but which are sent, in  fact, by imposters. If you receive, or if you have  received, such an email,  you should simply disregard  it. For your own protection,  do not enter into any  correspondence with the  sender.  --><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" height="160" width="150" viewastext="" id="ShockwaveFlash1">
-	<param name="_cx" value="10583">
-	<param name="_cy" value="6350">
-	<param name="Movie" value="images/Fraud.swf">
-	<param name="Src" value="images/Fraud.swf">
-	<param name="WMode" value="Transparent">
-	<param name="Play" value="-1">
-	<param name="Loop" value="1">
-	<param name="Quality" value="High">
-	<param name="SAlign" value="TR">
-	<param name="Menu" value="-1">
-	<param name="Base" value="scripts/Fraudster.asp">
-	<param name="Scale" value="NoBorder">
-	<param name="DeviceFont" value="0">
-	<param name="EmbedMovie" value="0">
-	<param name="BGColor" value="FFFFFF">
-	<param name="SWRemote" value="">
-	<param name="Stacking" value="below">
-	
+<div class="Click" onclick="GetLink()"><img border="0" src="/images/fraudster.gif"></div>
 																																																						
-<embed src="images/Fraud.swf" quality="high" bgcolor="#FFFFFF" width="150" height="160" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
+
 </td>
 </tr>
 </tbody></table>
