@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchsystems.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603012326id_/http%3A//www.searchsystems.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsystems.net privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209091929id_/http%3A//www.searchsystems.net/privacy.php) for the most accurate reproduction.*
 
 # Search Systems - Free Public Records Directory - Privacy Policy
 
