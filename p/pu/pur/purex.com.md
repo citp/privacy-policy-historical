@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purex.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604203423id_/http%3A//www.purex.com/index.cfm%3Fpage_id%3D236) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purex.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204151847id_/http%3A//www.purex.com/index.cfm%3Fpage_id%3D236) for the most accurate reproduction.*
 
 # Dial Corporation - Privacy Statement
 
@@ -22,7 +22,7 @@ dialcorp.com may contain "links" to other sites, and we make every effort to lin
 
 Use of Cookies 
 
-Cookies are files or pieces of information that may be stored in your computer's hard drive when you visit a Web site We use cookies to better tailor our site and our products to your interests and needs. Cookies may also be used to help speed up your future activities or to improve your user experience by remembering the information that you have already provided to us. We do not use cookies to retrieve information from your computer that was not voluntarily provided by you (i.e., during membership registration or a contest). The use of cookies is an industry standard and you will find them at most Web sites. Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence.
+Cookies are files or pieces of information that may be stored in your computer's hard drive when you visit a Web site. We use cookies to better tailor our site and our products to your interests and needs. Cookies may also be used to help speed up your future activities or to improve your user experience by remembering the information that you have already provided to us. Cookies may be added to learn which advertisers bring users to our website. The information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number or email address. The use of cookies is an industry standard and you will find them at most Web sites. Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence.
 
 Promotions 
 
