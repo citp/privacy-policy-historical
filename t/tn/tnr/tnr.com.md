@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603172511id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031459id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.*
 
 # The New Republic Online: Privacy Policy
 
@@ -23,8 +23,6 @@ TheNewRepublic.com is not responsible for the information practices of third par
 TheNewRepublic.com collects information in various ways that is volunteered by visitors to our site. Certain identifying information, such as name, street address, city, state, zip code and email address, is gathered at certain interactive areas on the site, such as when you subscribe to our print publication while online. 
 
 Wherever possible and practical, TheNewRepublic.com gives users options about submitting information. Such choices include: 
-
-Not being required to register simply to access our web site. 
 
 Opting not to receive our electronic newsletters. 
 
@@ -64,7 +62,7 @@ TheNewRepublic.com uses any information you voluntarily give to enhance your exp
 
 TheNewRepublic.com uses information you voluntarily submit to send out electronic newsletters and to enable users to move seamlessly through our web site. We send out newsletters to subscribers on a regular schedule (weekly) and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. With respect to advertisements, an advertiser will inform us which type of audience it seeks to reach, and TheNewRepublic.com, through DoubleClick®, will place the advertisement in the body of the email newsletter of those individuals fitting the advertiser's criteria. Pop-up advertisements are displayed to a targeted audience based on the same criteria. The advertisers are not able to access your account or any of your personally identifiable information. 
 
-We also use tracking information to determine which areas of our site users like and do not like based on traffic to those areas. TheNewRepublic.com does not track what individual users read, but rather how well each page performs overall. 
+We also use tracking information to determine which areas of our site users like and do not like based on traffic to those areas. 
 
 TheNewRepublic.com creates aggregate reports on user demographics and traffic patterns for advertisers. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their interests. Because TheNewRepublic.com does not track the usage patterns of individual users, an advertiser will never know that a specific user clicked on a particular ad. 
 
@@ -100,4 +98,4 @@ If, for any reason, you believe that TheNewRepublic.com has not adhered to its P
 
 By using this web site, you signify your assent to this policy statement regarding online privacy. If you do not agree to this Privacy Policy, please do not use our web site. Moreover, your continued use of this web site after we post changes to the Privacy Policy will mean that you accept those changes. If you have any questions about this Privacy Policy, the practices of this web site, or your interaction with TheNewRepublic.com, you may contact us at the email address posted above. 
 
-This Privacy Policy was last updated effective October 5, 2000. 
+This Privacy Policy was last updated effective July 18, 2002. 
