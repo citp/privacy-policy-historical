@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralpacificbank.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605074126id_/http%3A//www.cpbi.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralpacificbank.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203013716id_/http%3A//www.cpbi.com/privacy.asp) for the most accurate reproduction.*
 
 # CPBI.com >> Privacy Policy
 
@@ -87,5 +87,5 @@ Other information about our web site
 
 
 This privacy policy may change from time to time.  
-You may obtain the most current copy at [CPB branches](https://web.archive.org/web/20020605074126id_/http%3A//www.cpbi.com/cpb_news/aboutus/Branches/) or visit CPB’s web site at www.cpbi.com   
+You may obtain the most current copy at [CPB branches](https://web.archive.org/web/20021203013716id_/http%3A//www.cpbi.com/cpb_news/aboutus/Branches/) or visit CPB’s web site at www.cpbi.com   
 
