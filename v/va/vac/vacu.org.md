@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacu.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205003252id_/http%3A//vacu.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacu.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607054058id_/http%3A//www.vacu.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Virginia Credit Union
 
