@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunset.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009043524id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/sunset%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunset.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193540id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/sunset%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Sunset Privacy Policy
 
