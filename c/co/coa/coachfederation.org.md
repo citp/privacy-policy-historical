@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606131513id_/http%3A//www.coachfederation.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010123202id_/http%3A//www.coachfederation.org/privacy.htm) for the most accurate reproduction.*
 
 # ICF Request for Ethics Facilitators
 
