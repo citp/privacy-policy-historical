@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605065132id_/http%3A//www.redcross.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2004-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041218125820id_/http%3A//www.redcross.org/privacy) for the most accurate reproduction.*
 
 # American Red Cross
 
@@ -19,7 +19,11 @@ or e-mail us at [info@usa.redcross.org](mailto:info@usa.redcross.org)
 We are available to answer your questions or hear your concerns. 
 
 **Our Policy**  
-The American Red Cross may share _financial donor_ mailing lists with other non-profits for a one-time use by the other non-profit. If you are a financial donor to the American Red Cross, you may request that we withhold your mailing information from any list exchanges with other non-profits. Please e-mail us at [info@usa.redcross.org](mailto:info@usa.redcross.org). In the subject field, type "Mailing List Opt Out" and provide us your name, e-mail or postal address depending on how you made your contribution to our organization. American Red Cross lists are never sold to third parties. 
+The American Red Cross uses its best efforts to respect and protect the privacy of our online visitors and donors. We will not share your e-mail address with third parties.  
+
+
+The American Red Cross may share _financial donor_ postal mailing lists with other non-profits for a one-time use by the other non-profit. If you are a financial donor to the American Red Cross, you may request that we withhold your mailing information from any list exchanges with other non-profits. Please e-mail us at [findev@usa.redcross.org](mailto:findev@usa.redcross.org). In the subject field, type "Mailing List Opt Out" and provide us your name, e-mail or postal address depending on how you made your contribution to our organization. American Red Cross lists are never sold to third parties.  
+
 
 **Is Credit Card Information Secure?**  
 We care about the safety and security of your transaction. We use high grade encryption and the https security protocol to communicate with your browser software. This method is the industry standard security protocol, which makes it extremely difficult for anyone else to intercept the credit card information you send to us. Companies we work with to process credit card transactions also use high grade encryption and security protocols. Contributions may also be made by calling 1-800-HELP NOW or directly to your [local chapter](https://web.archive.org/where/where.html). 
@@ -40,4 +44,4 @@ The American Red Cross welcomes children to learn more about our organization an
 
 Thank you for visiting our site. Please [contact us](mailto:info@usa.redcross.org) should you have any questions about the operation of the site. 
 
-Revised January 4, 2004 
+Revised September 7, 2004 
