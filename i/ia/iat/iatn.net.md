@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214101229id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601122042id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
 
 # iATN - Privacy Policy
 
