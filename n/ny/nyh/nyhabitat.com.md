@@ -1,31 +1,19 @@
-> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401092418id_/http%3A//nyhabitat.com/us/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209072241id_/http%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
 
-# New York Habitat - Privacy statement
+# Privacy statement
 
-|  |  |  |  |  |  |   
----|---|---|---|---|---|---|---  
-[](https://web.archive.org/) |   
-  
-* * *
+**  OUR COMMITMENT TO PRIVACY & RELIABILITY : **  
 
-|   
-| 
 
-**_Privacy Statement_**  
-  
-**OUR COMMITMENT TO PRIVACY & RELIABILITY :**  
-  
-| 
+**Your privacy is important to us**. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-**Your privacy is important to us**. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+**The Information We Collect**. This notice applies to all information collected or submitted on the **New York Habitat** website. On some pages you can make requests, and register to receive materials. The types of personal information collected on these pages are: 
 
-**The Information We Collect.** This notice applies to all information collected or submitted on the **New York Habitat** website. On some pages you can make requests, and register to receive materials. The types of personal information collected on these pages are: 
-
-Name   
-Occupation  
-Email address   
-Phone and Fax number
-
+>   
+> Name   
+> Occupation   
+> Email address   
+> Phone and Fax number 
 
 | 
 
@@ -35,44 +23,44 @@ New York Habitat is a member of the Better Business Bureau in good standing. Dis
 
 | [](http://www.bbbonline.org/cks.asp?id=10010131129112469)  
 ---|---  
-| 
-
-We use the information you provide about yourself when placing a request only to complete that request. **We do not share this information with outside parties except to the extent necessary to complete that order**.
-
-We use return email addresses to answer the emails we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
-
-You can register with our website if you would like to receive specific information as well as general updates on company news and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals.
-
-Finally, **we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described**.
-
-|   
-| 
-
-**OUR COMMITMENT TO SECURITY:**  
   
-| 
+Cookies are small pieces of information that some web sites ask to store on (and later retrieve from) your computer. When you visit New York Habitat website, a single cookie is stored into your browser, provided your browser accepts it. The information stored on this cookie contains a randomly generated string but no personal information. This cookie will allow you to retrieve previously selected preferences (if any) each time you come back visiting our website.   
+Cookies on our website are sent by our server only and expire after 100 days. 
+
+We use the information you provide about yourself when placing a request only to complete that request **. We do not share this information with outside parties except to the extent necessary to complete that order**. 
+
+We use return email addresses to answer the emails we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+
+You can register with our website if you would like to receive specific information as well as general updates on company news and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals. 
+
+Finally, **we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described**. 
+
+**  OUR COMMITMENT TO SECURITY : **  
+
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-|   
-  
-**OUR COMMITMENT TO CHILDREN PRIVACY:**
+**  OUR COMMITMENT TO CHILDREN PRIVACY : **  
 
-|   
-| 
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information on our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If and when it is discovered that a registration form or any other information has been submitted by an individual under the age of 13, New York Habitat deletes it immediately.
-
-|   
-|   
-| 
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information on our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If and when it is discovered that a registration form or any other information has been submitted by an individual under the age of 13, New York Habitat deletes it immediately. 
 
 Should you have other questions or concerns about these privacy policies, please call us at **212.255.8018** or send us an email to [**privacy@nyhabitat.com**](mailto:privacy@nyhabitat.com). 
 
-|   
   
-* * *  
+
+
+* * *
+
   
-[info@nyhabitat.com](mailto:info@nyhabitat.com) | [Feedback](http://www.nyhabitat.com/feedback.php3?hl=) | [webmaster@nyhabitat.com](mailto:webmaster@nyhabitat.com) | Phone: **(212) 255-8018** Fax: (212) 627-1416  Copyright ©2004 New York Habitat, 307 Seventh Avenue, Suite 306, New York, NY 10001. USA.
+
+
+[HOME](https://web.archive.org/index.html)         [About us](https://web.archive.org/about-us.html)         [Media reports](https://web.archive.org/media-press.html)
+
+* * *
+
+All information regarding properties on this website is from sources deemed reliable. It is submitted subject to errors, omissions, change of price, commission or conditions, or withdrawal without notice. Photographs, descriptions and information about the properties reflect conditions at the time the photographs were taken or the descriptions or information obtained.
+
+* * *
