@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the efax.com privacy policy that was archived on 2000-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000510165454id_/http%3A//www.efax.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the efax.com privacy policy that was archived on 2000-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001203044000id_/http%3A//www.efax.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <!--@@TITLE@@-->
@@ -26,7 +26,13 @@ section = 1;
 </script>
 <!--@@@@SCRIPTINCLUDE-->
 
-<script> var relative = ""; var ads = "_noad";</script>
+<script> 
+var relative = "https://a248.e.akamai.net/7/248/528/2000061201/efax.com"; 
+var ads = "_noad";
+var usetop = 1
+var useside = 1
+var nav_hp = 0
+</script>
 <script language="JavaScript">
 <!--
 
@@ -65,21 +71,23 @@ var names = new Array("signup", "home", "products", "account", "help", "download
 // begin explicit initialization of links arrays
 
 // signup
-var sec_signup = new Array( 2 );
-var sec_signup_icon = new Array( 2 );
-var sec_signup_alts = new Array( 2 );
+var sec_signup = new Array( 3 );
+var sec_signup_icon = new Array( 3 );
+var sec_signup_alts = new Array( 3 );
 sec_signup[0] = "/signup/free_signup.html";
 sec_signup_icon[0] = 1;
 sec_signup_alts[0] = "Free";
 sec_signup[1] = "/signup/pl_signup.html";
 sec_signup_icon[1] = 2;
 sec_signup_alts[1] = "Plus";
-
+sec_signup[2] = "/products/corporate/corp_reg.html";
+sec_signup_icon[2] = 5;
+sec_signup_alts[2] = "Corporate";
 
 // products
-var sec_products = new Array( 6 );
-var sec_products_icon = new Array( 6 );
-var sec_products_alts = new Array( 6 );
+var sec_products = new Array( 7 );
+var sec_products_icon = new Array( 7 );
+var sec_products_alts = new Array( 7 );
 sec_products[0] = "/products";
 sec_products_icon[0] = 1;
 sec_products_alts[0] = "Overview";
@@ -89,16 +97,32 @@ sec_products_alts[1] = "Free";
 sec_products[2] = "/products/plus";
 sec_products_icon[2] = 3;
 sec_products_alts[2] = "Plus";
-sec_products[3] = "/products/voice";
-sec_products_icon[3] = 6;
-sec_products_alts[3] = "Voice";
-sec_products[4] = "/products/wireless";
-sec_products_icon[4] = 10;
-sec_products_alts[4] = "Wireless";
-sec_products[5] = "/need";
-sec_products_icon[5] = 7;
-sec_products_alts[5] = "Software";
+sec_products[3] = "/products/corporate";
+sec_products_icon[3] = 8;
+sec_products_alts[3] = "Corporate";
+sec_products[4] = "/products/voice";
+sec_products_icon[4] = 6;
+sec_products_alts[4] = "Voice";
+sec_products[5] = "/products/wireless";
+sec_products_icon[5] = 10;
+sec_products_alts[5] = "Wireless";
+sec_products[6] = "/products/broadcast";
+sec_products_icon[6] = 12;
+sec_products_alts[6] = "Broadcast";
 
+// download
+var sec_download = new Array( 3 );
+var sec_download_icon = new Array( 3 );
+var sec_download_alts = new Array( 3 );
+sec_download[0] = "/need";
+sec_download_icon[0] = 1;
+sec_download_alts[0] = "eFax Messenger/Messenger Plus";
+sec_download[1] = "/need/palmpqa.html";
+sec_download_icon[1] = 2;
+sec_download_alts[1] = "eFax Wireless PQA";
+sec_download[2] = "/products/corporate/corp_downloads.html";
+sec_download_icon[2] = 3;
+sec_download_alts[2] = "Corporate Downloads";
 
 // about us
 var sec_about = new Array(6);
@@ -130,7 +154,7 @@ var sec_contact_alts = new Array( 5 );
 sec_contact[0] = "/contactus";
 sec_contact_icon[0] = 1;
 sec_contact_alts[0] = "eFax Services";
-sec_contact[1] = "/contactus/corporate.html";
+sec_contact[1] = "/contactus/contactinfo.html";
 sec_contact_icon[1] = 5;
 sec_contact_alts[1] = "Corporate";
 sec_contact[2] = "/contactus/pr.html";
@@ -152,14 +176,13 @@ sec_partner_icon[0] = 1;
 sec_partner_alts[0] = "Premiere Partners";
 sec_partner[1] = "/toolkit";
 sec_partner_icon[1] = 6;
-sec_partner_alts[1] = "eFax Toolkit";
+sec_partner_alts[1] = "Web Toolkit Program";
 sec_partner[2] = "/affiliate";
 sec_partner_icon[2] = 2;
-sec_partner_alts[2] = "Affiliate";
+sec_partner_alts[2] = "Affiliate Program";
 //sec_partner[2] = "/aboutus/mediakit";
 //sec_partner_icon[2] = 5;
 //sec_partner_alts[2] = "Media Kit";
-
 // SED UsrTrack
 var usrTrackCUSTID = 0;
 var usrTrackDID = 0;
@@ -175,6 +198,7 @@ function repo(yourstring, oldchar, newchar)
     }
   return newstring;
 }
+
 
 function GC(sName, sKey)
 {
@@ -214,81 +238,84 @@ function msieversion()
        return 0          // is other browser
 }
 
-
-
-// the accounts array is passed in to the script
-
 // end links arrays initialization
 
 function init() {
+	<!--@@SCRIPTINCLUDE@@-->
+		
+	// look for good verson of ie
+	var msie = msieversion()
+	if ( msie < 4 && msie > 0 )
+		return;
 
-    // look for good verson of ie
-    var msie = msieversion()
-    if ( msie < 4 && msie > 0 )
-        return;
-
-    if ( home != 1 )
-        names[1] = "home2";
+	if ( home != 1 )
+		names[1] = "home2";
 
    	prev_num = section;
 	prev_ref = names[prev_num];
 
-    var tmpsection = prev_num;
-    if ( tmpsection > 5 )
-        tmpsection = 1;      // set the section to home if we doing one of the global navs
+	var tmpsection = prev_num;
+	if ( tmpsection > 5 )
+	        tmpsection = 1;      // set the section to home if we doing one of the global navs
 
 	if (ok) {
-		// preload images
-		for (var i=0; i<7; i++) {
+		if ((useside == 1) || (nav_hp == 1)) {
+			// preload images
+			for (var i=0; i<7; i++) {
 
-            // side nav buttons
-			sideNavOff[i] = new Image();
-			sideNavOff[i].src = relative + "/images/nav/sidenav_" + names[i] + "_off.gif";
-			sideNavOn[i] = new Image();
-			sideNavOn[i].src = relative + "/images/nav/sidenav_" + names[i] + "_on.gif";
+				// side nav buttons
+				sideNavOff[i] = new Image();
+				sideNavOff[i].src = relative + "/images/nav/sidenav_" + names[i] + "_off.gif";
+				sideNavOn[i] = new Image();
+				sideNavOn[i].src = relative + "/images/nav/sidenav_" + names[i] + "_on.gif";
 
-            // nav lines
-			navLines[i] = new Image();
-            if ( tmpsection == 1 && home == 1 )     // load all for home page
-    			navLines[i].src = relative + "/images/nav/navline_" + names[i] + ".gif";
-            else if ( tmpsection == i )     // or just the section we need
-    			navLines[i].src = relative + "/images/nav/navline_" + names[i] + "_level2" + ads + ".gif";
+				// nav lines
+				navLines[i] = new Image();
+				if ( tmpsection == 1 && home == 1 )     // load all for home page
+		    			navLines[i].src = relative + "/images/nav/navline_" + names[i] + ".gif";
+				else if ( tmpsection == i )     // or just the section we need
+		    			navLines[i].src = relative + "/images/nav/navline_" + names[i] + "_level2" + ads + ".gif";
 
-            // secondary nav icon, only load all of them for the home page otherwise just the one we need
-            if ( home == 1 || tmpsection == i ) {
-			    secNavIcons[i] = new Image();
-			    secNavIcons[i].src = relative + "/images/nav/secnav_" + names[i] + "_icon.gif";
-            }
-
-
+				// secondary nav icon, only load all of them for the home page otherwise just the one we need
+				if ( home == 1 || tmpsection == i ) {
+					secNavIcons[i] = new Image();
+					secNavIcons[i].src = relative + "/images/nav/secnav_" + names[i] + "_icon.gif";
+				}
+			}
 		}
-		topLinks[0] = new Image();
-		topLinks[1] = new Image();
-		topLinks[0].src = relative + "/images/nav/top_bar_right_off.gif";
-		topLinks[1].src = relative + "/images/nav/top_bar_right_on.gif";
+		if (usetop == 1) {
+			topLinks[0] = new Image();
+			topLinks[1] = new Image();
+			topLinks[0].src = relative + "/images/nav/top_bar_right_off.gif";
+			topLinks[1].src = relative + "/images/nav/top_bar_right_on.gif";
+		}
 	}
+	if (useside == 1) {
+    		document.images.navline.src = navLines[tmpsection].src;
+		document.images.secnav_icon.src = secNavIcons[tmpsection].src;
+    	}
+    	if ((useside == 1) || (nav_hp == 1)) {
+    		eval("document.images.sidenav_" + names[tmpsection] + ".src = sideNavOn[tmpsection].src");
+    	}
+    	
 
-    document.images.navline.src = navLines[tmpsection].src;
-	document.images.secnav_icon.src = secNavIcons[tmpsection].src;
-    eval("document.images.sidenav_" + names[tmpsection] + ".src = sideNavOn[tmpsection].src");
-
-
-    ready = true;
+	ready = true;
 }
 
 function navOn(ref, num) {
 	if(ok && ready) {
-		if (prev_num != section)
-			eval("document.images.sidenav_" + prev_ref + ".src = sideNavOff[prev_num].src");
-		eval("document.images.sidenav_" + ref + ".src = sideNavOn[num].src");
+		if (useside == 1) {
+			if (prev_num != section)
+				eval("document.images.sidenav_" + prev_ref + ".src = sideNavOff[prev_num].src");
+			eval("document.images.sidenav_" + ref + ".src = sideNavOn[num].src");
 
-        // only do for the home page
-        if ( home == 1 ) {
-    		document.images.navline.src = navLines[num].src
-	    	document.images.secnav_icon.src = secNavIcons[num].src
-		    document.images.secnav_links.src = secNavLinks[num].src
-        }
-
+        		// only do for the home page
+        		if ( home == 1 ) {
+    				document.images.navline.src = navLines[num].src
+			    	document.images.secnav_icon.src = secNavIcons[num].src
+				document.images.secnav_links.src = secNavLinks[num].src
+        		}
+        	}
 		prev_num = num;
 		prev_ref = ref;
 	}
@@ -327,7 +354,7 @@ function swapTop(nameRef, state) {
 				<td><img src="/images/nav/sidenav_top_level2.gif" width="114" height="42" alt="" border="0"></td>
 			</tr>
 			<tr>
-				<td><a href="http://www.efax.com/" onmouseover="navOn('home2',1)"><img src="https://web.archive.org/images/nav/sidenav_home2_on.gif" width="114" height="44" alt="eFax.com Home" border="0" name="sidenav_home2"></a></td>
+				<td><a href="http://www.efax.com/" onmouseover="navOn('home2',1)"><img src="https://a248.e.akamai.net/7/248/528/2000061201/efax.com/images/nav/sidenav_home2_on.gif" width="114" height="44" alt="eFax.com Home" border="0" name="sidenav_home2"></a></td>
 			</tr>
 			<tr>
 				<td><a href="http://www.efax.com/signup/free_signup.html" onmouseover="navOn('signup',0)"><img src="/images/nav/sidenav_signup_off.gif" width="114" height="44" alt="Sign Up" border="0" name="sidenav_signup"></a></td>
@@ -357,14 +384,14 @@ function swapTop(nameRef, state) {
 	</td>
 	<!-- end <td> for side nav and login -->
 	<!-- this <td> contains the rollover lines -->
-	<td valign="top" width="12"><img src="https://web.archive.org/images/nav/navline_home2_level2_noad.gif" width="12" height="352" alt="" border="0" name="navline">
+	<td valign="top" width="12"><img src="https://a248.e.akamai.net/7/248/528/2000061201/efax.com/images/nav/navline_home2_level2_noad.gif" width="12" height="352" alt="" border="0" name="navline">
 	</td>
 	<td valign="top" width="523">
 	<!-- secondary nav -->
 		<table border="0" cellpadding="0" cellspacing="0" width="523">	
 			<tbody><tr>
-				<td align="left" width="44"><img src="https://web.archive.org/images/nav/secnav_home2_icon.gif" width="44" height="42" alt="" border="0" name="secnav_icon"></td>
-				<td width="479"><script language="JavaScript">
+				<td align="left" width="44"><img src="https://a248.e.akamai.net/7/248/528/2000061201/efax.com/images/nav/secnav_home2_icon.gif" width="44" height="42" alt="" border="0" name="secnav_icon"></td>
+				<td width="523"><script language="JavaScript">
 <!--
 
 if ( typeof( section ) != "undefined" && section != null && section != 4 ) {
@@ -400,10 +427,35 @@ if ( typeof( section ) != "undefined" && section != null && section != 4 ) {
 
 <!--begin content-->
 <!--@@BODY@@-->
+<script language="JavaScript">
+<!-- Begin
+function showRemote() {
+self.name = "main"; // names current window as "main"
+
+var windowprops = "toolbar=0,location=0,directories=0,status=0, " +
+"menubar=0,scrollbars=0,resizable=0,width=450,height=500";
+
+OpenWindow = window.open("3rdparty_privacy.html", "remote", windowprops); // opens remote control
+}
+//  End -->
+</script>
 <font face="Arial,Helvetica">
 <font size="-1">
-<b>Privacy Policy</b>
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+     <td width="40">&nbsp;</td>
+        <td>
+            <font face="arial,helvetica" size="-1">
+			 <font color="#666666" size="3">•</font> eFax Free and Plus Privacy Policy<br>
+             <font color="#666666" size="3">•</font> <a href="/privacy_corp.html">eFax Corporate Privacy Policy</a><br>
+            </font>
+        </td>
+</tr>
+</tbody></table>
 <p>
+<b><font size="4">eFax Free and Plus Privacy Policy</font></b>
+</p><p>
 Your privacy is very important to us. However, we collect and, in some cases, disclose
 information about you as part of the normal operation of our site. This Privacy Policy
 describes the information we collect about you and what may happen to that information.
@@ -496,7 +548,8 @@ In some instances we use third party providers of service who may collect inform
 order to fulfill a service. In those instances, the use of your information is for service fulfillment
 only. However, the information provided may be used by the third party in aggregate.
 Since we do not control the privacy policies of third parties, we encourage you to ask
-questions before you disclose your personal information to others.
+questions before you disclose your personal information to others. 
+<a href="javascript:void()" onclick="showRemote();">View 3rd Party Privacy Statements</a>.
 </p><p>
 <b>Nondisclosure Can't Be Guaranteed</b>
 Unfortunately (and notwithstanding anything to the contrary in this policy), due to the
@@ -579,7 +632,7 @@ faxes from the same source.
 	}
 	document.write("<img src=/cgi-bin/usrtrack.cgi?visited_path=" + window.location.pathname + "&cid=" + usrTrackCUSTID + "&did=" + usrTrackDID + "&bref=" + bref +" height=1 width=1 border=0>");
 // -->
-</script><img src="/cgi-bin/usrtrack.cgi?visited_path=/web/20000510165454id_/http%3A//www.efax.com/privacy.html&amp;cid=0&amp;did=0&amp;bref=" height="1" width="1" border="0">
+</script><img src="/cgi-bin/usrtrack.cgi?visited_path=/web/20001203044000id_/http%3A//www.efax.com/privacy.html&amp;cid=0&amp;did=0&amp;bref=" height="1" width="1" border="0">
 
 <map name="topNav">
 <area shape="rect" coords="0,0,67,11" href="#" onmouseover="swapTop(1)" onmouseout="swapTop(0)"><!-- contact us -->
