@@ -1,625 +1,547 @@
-<!--The following is the downloaded HTML source of the foxsports.com privacy policy that was archived on 2000-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001207012500id_/http%3A//www.foxsports.com/privacy.sml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxsports.com privacy policy that was archived on 2001-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010813034853id_/http%3A//foxsports.com/home_news.cfm%3Fcont_id%3D47335%26show_headline%3Dfalse%26show_headline_date%3Dfalse%26inset_include%3D) for the most accurate reproduction.-->
 
 <html><head>
-<title>FOXSports.com - Privacy Policy</title>
-<script language="javascript" type="text/javascript" src="/media/plugin_tester.js"></script>
-
-<script>
-<!--
-var sec = 0;
-ns4 = (document.layers)? true:false;
-ie4 = (document.all)? true:false;
-
-if (navigator.appVersion.indexOf("AOL") != -1) {var aol = true;}
-//########################## MICHALEK ##########################
-//if (navigator.appName == "Netscape" && navigator.appVersion.substring(0,1) == 4) {var nstr = true;}
-var nstr = false;
-//########################## MICHALEK ##########################
-if ((navigator.appName == "Microsoft Internet Explorer" && navigator.appVersion.indexOf("5") != -1)) {var iebug = false;}
+<script language="Javascript">
+//Link to different style sheet for Netscape 4
+if (document.layers) {
+	document.write('<LINK rel="StyleSheet" href="/utility/master_ns4.css" type="text/css">');
+}
 else {
-	if((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.indexOf("4.01") == -1)) {var iebug = true;}
+	document.write('<LINK rel="StyleSheet" href="/utility/master.css" type="text/css">');
 }
-
-function MSIE() { return true; }
-
-function getCookieVal(offset) {
-    var endstr = document.cookie.indexOf (";", offset);
-    if (endstr == -1) endstr = document.cookie.length;
-    return unescape (document.cookie.substring(offset, endstr));
-}
-
-function GetCookie(name) {
-    var arg = name+"=";
-
-    cPos = document.cookie.lastIndexOf(arg);
-    if (cPos != -1) return getCookieVal(cPos + 8);
-
-    return null;
-}
-
-function optiononly() {
-
-	host = location.host;
-	oo = "/media/options-only_wmid.sml";
-
-	oow = window.open('http://'+host+oo,'optiononly','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=360,height=400');
-    if((navigator.appName == "Netscape") && (navigator.appVersion.substring(0,1) >= "3")) {oow.focus();}
-    if((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.substring(0,1) >= "4")) {oow.focus();}
-    if (oow.opener == null) {oow.opener = self;}
-
-}
-
-function pbw(holdtemp,neth,netm,netl,realh,realm,reall,quickh,quickl) {
-    this.holdtemp = holdtemp;
-    this.neth = neth;
-    this.netl = netl;
-    this.realh = realh;
-    this.reall = reall;
-    this.quickh = quickh;
-    this.quickl = quickl;
-    host = location.host;
-        
-    fileme = "/media/options-only_wmid.sml";
-    if (sec == "1") {fileme = "/media/nons.sml";}
-    if (sec == "2") {fileme = "/media/norv.sml";}
-    if (sec == "3") {fileme = "/media/noqt.sml";}
-        
-    playbar = window.open('http://'+host+fileme,'playbar','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=360,height=400');
-    if((navigator.appName == "Netscape") && (navigator.appVersion.substring(0,1) >= "3")) {playbar.focus();}
-    if((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.substring(0,1) >= "4")) {playbar.focus();}
-    if (playbar.opener == null) {playbar.opener = self;}
-        
-    sec = 0;
-}
-
-function showvid(pt,s,speed,origPath) {
-    src = 'player='+pt+'&video_src='+s+'&speed='+speed;
-    src2= '&datafile='+origPath.substr(26, 8)+origPath.substr(40)+'.txt&vidfile='+origPath;
-    h = '/media/cgi-bin/vm_in_js_tabs.pl?';
-    t = '/media/cgi-bin/vm_in_js_tabsdata.pl?';
-    tye = 'Fox Sports';
+</script><link rel="StyleSheet" href="/utility/master.css" type="text/css"> 
+<script language="JavaScript" src="/lib/uds/v2.1/js/poll.js"></script>
+<script language="JavaScript" src="/javascript/poll.js"></script>
+<script language="JavaScript" src="/lib/jslib/v1.0/windows/windows.js"></script>
+<!-- FASTCLICK.COM NETWORK POP-UNDER v2.11 for FoxSports -->
+	<script language="javascript"><!-- 
+	/* -----------------------------------------------------------------*/	
+	/* Script Copyright © 2001 Fastclick.com, Inc. All Rights Reserved. */
+	/* -----------------------------------------------------------------*/	
 	
-    if (pt == 'rm' && !(WM_easyDetect('realaudio'))) {
-	alertWin = window.open('http://www.foxsports.com/media/getreal.sml','alertWin', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=360,height=150');;
-	if((navigator.appName == "Netscape") && (navigator.appVersion.substring(0,1) >= "3")) {alertWin.focus();}
-    if((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.substring(0,1) >= "4")) {alertWin.focus();}
-    if (alertWin.opener == null) {alertWin.opener = self;}    
-    return;
-}
-
-    if (pt == 'asf' && !(WM_pluginDetect("", "", "application/x-mplayer2", "MediaPlayer.MediaPlayer.1"))) {
-	alertWin = window.open('http://www.foxsports.com/media/getmp.sml','alertWin', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=360,height=150');;
-	if((navigator.appName == "Netscape") && (navigator.appVersion.substring(0,1) >= "3")) {alertWin.focus();}
-    if((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.substring(0,1) >= "4")) {alertWin.focus();}
-    if (alertWin.opener == null) {alertWin.opener = self;}    
-    return;
-}
-
-
-    if (speed == "asfhi" || speed == "rmhi" || speed == "asfmid" || speed == "rmmid") {
-	playme = window.open('','','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=650,height=545,left=0,top=0');
-    var writeme = "";
-    writeme += "<html><head><title>"+tye+"</title></head>"
-    writeme += "<frameset frameborder=0 border=0 framespacing=0 rows=453,*>"
-    writeme += "<frameset frameborder=0 border=0 framespacing=0 cols=400,*>"
-    writeme += "<frame name='video' src="+h+src+" marginwidth=0 marginheight=0 scrolling=no name=video noresize>"
-    writeme += "<frame name='tabs' src="+t+src2+" marginwidth=0 marginheight=0 scrolling=no name=video noresize>"
-    writeme += "</frameset>"
-    writeme += "<frame src=/media/ad_tabs.sml marginwidth=0 marginheight=0 scrolling=no name=ad noresize>"
-    writeme += "</frameset>"
-    writeme += "</html>"
-    } else {
-	playme = window.open('','','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=290,height=450');
-    var writeme = "";
-    writeme += "<html><head><title>"+tye+"</title></head>"
-    writeme += "<frameset frameborder=no border=0 framespacing=0 rows=350,*>"
-    writeme += "<frame src="+h+src+" marginwidth=0 marginheight=0 scrolling=no name=video noresize>"
-    writeme += "<frame src=/media/ad.sml marginwidth=0 marginheight=0 scrolling=no name=ad noresize>"
-    writeme += "</frameset>"
-    writeme += "</html>"
-    }
-
-    playme.document.write(writeme);
-    playme.document.close();
-
-
-
-    if((navigator.appName == "Netscape") && (navigator.appVersion.substring(0,1) >= "3")) {playme.focus();}
-    if((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.substring(0,1) >= "4")) {playme.focus();}
-    if (playme.opener == null) {playme.opener = self;}
-}
-
-function bar(msg) {window.status = msg;return true;}
-
-function play(vid,neth,netm,netl,realh,realm,reall,quickh,quickl) {
-    var cm=GetCookie("playbar");
-    if (cm != null) {
-    	if (cm=="nh" && neth=="t") {cm="hi.asx";if(aol||nstr||iebug){window.location=vid+cm;}else{showvid('asf',vid+cm, 'asfhi', vid);}}
-        else {if (cm=="nh" && neth!="t") {this.sec=1;pbw(vid,neth,netm,netl,realh,realm,reall,quickh,quickl);}}
-    	if (cm=="nm" && netm=="t") {cm="mid.asx";if(aol||nstr||iebug){window.location=vid+cm;}else{showvid('asf',vid+cm, 'asfmid', vid);}}
-        else {if (cm=="nm" && netm!="t") {this.sec=1;pbw(vid,neth,netm,netl,realh,realm,reall,quickh,quickl);}}       
-	if (cm=="nl" && netl=="t") {cm="lo.asx";if(aol||nstr||iebug){window.location=vid+cm;}else{showvid('asf',vid+cm, 'asflo', vid);}}
-        else {if (cm=="nl" && netl!="t") {this.sec=1;pbw(vid,neth,netm,netl,realh,realm,reall,quickh,quickl);}}
-        if (cm=="rh" && realh=="t") {cm="hi.rmm";if(aol||iebug){window.location=vid+cm;}else{showvid('rm',vid+cm, 'rmhi', vid);}}
-        else {if (cm=="rh" && realh!="t") {this.sec=2;pbw(vid,neth,netm,netl,realh,realm,reall,quickh,quickl);}}
-        if (cm=="rm" && realm=="t") {cm="mid.rmm";if(aol||iebug){window.location=vid+cm;}else{showvid('rm',vid+cm, 'rmmid', vid);}}
-        else {if (cm=="rm" && realm!="t") {this.sec=2;pbw(vid,neth,netm,netl,realh,realm,reall,quickh,quickl);}}
-        if (cm=="rl" && reall=="t") {cm="lo.rmm";if(aol||iebug){window.location=vid+cm;}else{showvid('rm',vid+cm, 'rmlo', vid);}}
-        else {if (cm=="rl" && reall!="t") {this.sec=2;pbw(vid,neth,netm,netl,realh,realm,reall,quickh,quickl);}}
-        if (cm=="qh" && quickh=="t") {cm=".mov";if(aol||iebug){window.location=vid+cm;}else{showvid('mov',vid+cm, 'mov', vid);}}
-        else {if (cm=="qh" && quickh!="t") {this.sec=3;pbw(vid,neth,netm,netl,realh,realm,reall,quickh,quickl);}}
-        if (cm=="ql" && quickl=="t") {cm=".mov";if(aol||iebug){window.location=vid+cm;}else{showvid('mov',vid+cm, 'mov', vid);}}
-        else {if (cm=="ql" && quickl!="t") {this.sec=3;pbw(vid,neth,netm,netl,realh,realm,reall,quickh,quickl);}}
-
-    } else {
-    pbw(vid,neth,netm,netl,realh,realm,reall,quickh,quickl);
-    }
-}
-
-window.onerror = MSIE;
-// -->
-</script>
-<script language="JavaScript">
- 
- function submitselect( sForm, sSelect ) {
-  location.href = document.forms[sForm].elements[sSelect].options[document.forms[sForm].elements[sSelect].selectedIndex].value;
- }
- 
-
-</script>
-
-<script language="JavaScript">
-
-
-<!-- Begin
-function formHandler(form) {
-
-var URL = form.site.options[form.site.selectedIndex].value;
-popup = window.open(URL,"MenuPopup");
-}
-// End -->
-</script>
-<script language="JavaScript">
-<!--
-
-var na=navigator.appName;
-var nv=navigator.appVersion;
-var ie="Microsoft Internet Explorer";
-var ns="Netscape";
-
-function error() { return true; }
-
-function openme(f,url,w,h) {
-        f = window.open(url,f,'width='+w+',height='+h+',toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no');
-        if ((na == ns) && (nv.substring(0,1) >= "3")) {f.focus();}
-}
-
-if ((na == ie) && (nv.substring(0,1) >= "4")) { window.onerror = error; }
-if ((na == ns) && (nv.substring(0,1) >= "4")) { window.onerror = null; }
-
-
-
-// Gametracker Launch Script
-
-var na=navigator.appName;
-var nv=navigator.appVersion;
-var ie="Microsoft Internet Explorer";
-var ns="Netscape";
-
-function error() { return true; }
-
-function opengt(e) {
-     f = window.open('/baseball/gt/gtframe.htm?'+e,'GT','width=580,height=420,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no');        
-}
-
-function launchGT(e,f) {
-
-        if (e == 'l') {
-                opengt(e);
-        } else {
-                opengt(e+'-'+f);
-        }       
-}
-
-//-->
-</script>
-
-<script>
-//<!--
-var browser = 'other';
-var e;
-var dely=0;
-function gt( param ) {
-        host = location.host;
-        var fileme = 'getbrowser.sml';
-        if (navigator.appVersion.substring(0,1) == "4" && navigator.appName == "Microsoft Internet Explorer") { 
-                fileme = 'gamet-ie';
-                browser = 'ie';
-        } else if (navigator.appVersion.substring(0,1) == "4" && navigator.appName == "Netscape") {
-                fileme = 'gamet-ns';
-                browser = 'ns';
-                dely = dely + 1;
-                if (dely==1) {
-                        bar('L O A D I N G   G A M E T R A C K E R ...........');
-                        setTimeout('gt()', 3000);
-                }
-        }
-        if (browser=='ie') {
-                gametracker = window.open('http://'+host+'/football/gametracker/'+fileme+'.htm?'+e+'',e,'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=600,height=400');
-        } else if (browser=='other') {
-                gametracker = window.open('http://'+host+'/football/gametracker/getbrowser.sml?'+e+'',e,'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=600,height=400');
-        } else if (browser=="ns") {
-                if (dely==2) {
-                        gametracker = window.open('http://'+host+'/football/gametracker/'+fileme+'.htm?'+e+'',e,'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=600,height=400');
-                        dely=0;
-                }
-        }
-}
-function makeLink( linkName ) {
-        e = linkName;
-        bar('L O A D I N G   G A M E T R A C K E R ...........');
-        gt();
-}
-        
-function bar(msg) {window.status = msg;return true;}
-
-//-->
-</script>
- <link rel="stylesheet" type="text/css" href="/buttons/style_all.css"> 
-
-
-
+	 // start options block
+	 var myURL='http://media.fastclick.net/w/click.here?gid=74&v=2.11';
+	 var myDomain=''; // domain of site ex. "mydomain.com" [optional]
+	 var myWidth='720';
+	 var myHeight='300';
+	 var myDelay='0'; // pop-under delay in seconds
+	 var myMinTimeOut='1440'; // pop-under frequency cap specified in minutes
+	 var myForcePage='2'; // seconds to force the parent page to foreground
+	 // end options block
+	
+	 var dc=document;  var dt=new Date(); 
+	 var buster=dt.getSeconds()+dt.getMinutes()*100+dc.location.href.length;
+	 if(dc.domain.indexOf(myDomain)==-1){myDomain='';} dc.cookie='h2=o; path=/;';
+	 if(myDomain.length>0){myDomain='domain=.'+myDomain+'; ';}
+	 var ck=dc.cookie; var id=ck.indexOf('yum_yum');  myURL+='&buster='+buster;
+	 if(id<=0 && ck.indexOf('2=o')>0){
+	  setTimeout('fastClickpopWindow()',myDelay*1000);
+	 }
+	 function fastClickpopWindow(){
+	  dt.setTime(dt.getTime()+(myMinTimeOut*60*1000));
+	  dc.cookie='oatmeal_ck=yum_yum; path=/; '+myDomain+'expires='+ dt.toGMTString();
+	  var pop='width='+myWidth+',height='+myHeight+',titlebar=1,toolbar=1,location=1,';
+	  pop+='menubar=1,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1';
+	  if(parseFloat(navigator.appVersion)>=4 && navigator.userAgent.indexOf('AOL')==-1){
+	   var myTI=screen.height/2-myHeight/2;  var myLI=screen.width/2-myWidth/2;
+	   myURL=myURL+'&top='+myTI+'&left='+myLI+'&pop=slider'; pop+=',top=3000,left=3000';
+	  }
+	  var xw=window.open(myURL,'cool'+buster, pop, true);
+	  for (var i=1; i<20*myForcePage+2; i++){setTimeout('self.focus();',i*50);}
+	 }
+	// -->
+	</script>
+	<!-- FASTCLICK.COM NETWORK POP-UNDER v2.11 for FoxSports -->
 
 </head>
-<body bgcolor="#FFFFFF" link="#000066" vlink="#003366" alink="#000099">
-<!--BEGIN AD TABLE-->
-<table cellpadding="3"><tbody><tr>
-<td align="left"><a href="http://ads.newsdigital.net/event.ng/Type=click&amp;RunID=13189&amp;ProfileID=1392&amp;AdID=7272&amp;GroupID=82&amp;FamilyID=0&amp;TagValues=551.1060.1085&amp;Redirect=http:%2F%2Fwww.sportsplates.com%2F" target="New"><img src="http://ads.newsdigital.net/ads/images/sportsplates/Fox_Ad_Banner_20.jpg" border="0" height="60" width="468" alt=""></a></td>
-<td width="30"><a href="http://www.newsdigital.com/" target-"_top"=""><img src="/redesign/images/ad_info.gif" width="30" height="60" border="0"></a></td>
-<td align="left"><a href="http://ads.newsdigital.net/event.ng/Type=click&amp;RunID=9500&amp;ProfileID=1393&amp;AdID=6486&amp;GroupID=85&amp;FamilyID=661&amp;TagValues=551.1085.1174&amp;Redirect=http:%2F%2Ffoxsports.com%2Froad%2Findex.sml" target="New"><img src="http://ads.newsdigital.net/ads/images/foxsports/s913mobile234.gif" border="0" height="60" width="234" alt=""></a></td></tr></tbody></table>
-<!--END AD TABLE-->
-<!--BEGIN MAIN HOLDING TABLE-->
-<table border="0" cellspacing="0" cellpadding="0" width="759">
+<body>
+
+<table width="759" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<!--BEGIN LEFT COLUMN-->
-<td rowspan="2" valign="top" bgcolor="#666666" width="130">
-<!--BEGIN LEFT NAV-->
-<!--Begin Left Nav Top-->
-<table border="0" cellspacing="0" cellpadding="0" width="130">
-<tbody><tr><td rowspan="3" valign="top" bgcolor="#666666" width="130">
-<a href="http://foxsports.com"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/redesign/images/logo_onmetal.gif" width="130" height="86" border="0" alt="FOXSports.com" vspace="0"></a>
-<table border="0" cellspacing="1" cellpadding="0" width="130">
-<tbody><tr><td bgcolor="#00000" class="wstat2"><b>&nbsp;&nbsp;&nbsp;&nbsp;KEYWORD SEARCH</b></td></tr>
-<tr>
-<td bgcolor="#003399">
-<table border="0" width="128" cellspacing="0" cellpadding="0">
-<form name="search" method="get" action="http://www.foxsports.com/search/cgi-bin/keyword.cgi"></form>
-<tbody><tr><td class="wstat2">
-<img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><input type="text" name="q" size="10" class="stat">
-<input border="0" type="image" name="submit" src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/redesign/images/go_key.gif" alt="Search"><br>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<!--End Left Nav Top-->
+<td>
+<table width="759" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td colspan="2">
 
-<!--Begin Sports-->
-<table border="0" cellspacing="1" cellpadding="0" width="130">
-<tbody><tr><td bgcolor="#00000" class="wstat2"><b>&nbsp;&nbsp;&nbsp;&nbsp;SPORTS</b></td></tr>
-<tr>
-<td bgcolor="#003399" class="stat" nobr=""><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/nfl/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" size="2" color="#ffffff"><b>NFL</b></font></a><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="60" height="5" border="0" hspace="0"><a href="/nfl/scores/2000/" class="navscores">scores</a></td>
-</tr>
-<tr>
-<td bgcolor="#003399" class="stat" nobr=""><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/collegefootball/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" size="2" color="#ffffff"><b>Col. Football</b></font></a><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="13" height="5" border="0" hspace="0"><a href="/collegefootball/scores/2000/" class="navscores">scores</a></td>
-</tr>
-<tr>
-<td bgcolor="#003399" class="stat" nobr=""><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/nba/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" size="2" color="#ffffff"><b>NBA</b></font></a><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="57" height="5" border="0" hspace="0"><a href="/nba/scores/2001/" class="navscores">scores</a></td>
-</tr>
-<tr>
-<td bgcolor="#003399" class="stat" nobr=""><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/collegebasketball/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" size="2" color="#ffffff"><b>Col. Hoops</b></font></a><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="21" height="5" border="0" hspace="0"><a href="/collegebasketball/scores/2001/" class="navscores">scores</a></td>
-</tr>
-<tr>
-<td bgcolor="#003399" class="stat" nobr=""><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/nhl/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" size="2" color="#ffffff"><b>NHL</b></font></a><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="58" height="5" border="0" hspace="0"><a href="/nhl/scores/2001/" class="navscores">scores</a></td>
-</tr>
-<tr>
-<td bgcolor="#003399" class="stat" nobr=""><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/maximumgolf/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" size="2" color="#ffffff"><b>Golf</b></font></a><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="59" height="5" border="0" hspace="0"><a href="/maximumgolf/live/" class="navscores">leaders</a></td>
-</tr>
-<tr>
-<td bgcolor="#003399" class="stat" nobr=""><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/baseball/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" size="2" color="#ffffff"><b>Baseball</b></font></a><!---<img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="32" height="5" border=0 hspace=0><a href="/baseball/scores/2000/" class="navscores">scores</a>---></td>
-</tr>
-<tr>
-<td bgcolor="#003399" class="stat" nobr=""><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/auto/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" size="2" color="#ffffff"><b>Auto Racing</b></font></a></td>
-</tr>
-<tr>
-<td class="regstat" bgcolor="#003399">
-<table cellpadding="0" cellspacing="0" border="0">
-<form></form>
+
+<table width="759" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td class="regstat">
-<select class="regstat" name="moresports" onchange="window.location.href=this.options[this.selectedIndex].value;">
-<option selected="">More Sports</option>
-<option value="http://foxsports.com/horseracing/index.sml">Horses</option>
-<option value="http://foxsports.com/soccer/index.sml">Soccer</option>
-<option value="http://foxsports.com/action/index.sml">Action</option>
-<option value="http://foxsports.com/womensbasketball/index.sml">W Hoops</option>
-<option value="http://www.foxsports.com/wires/sptteno.sml">Tennis</option>
-</select>
-</td>
-</tr>
+<td width="759">
 
-</tbody></table>
+
+
+        
+        
+
+
+
+	<table width="759" cellspacing="4" cellpadding="0" border="0">
+	<tbody><tr>
+		<td valign="top"><a href="http://fantasy.foxsports.com/games/trivia/intro.asp" target="_blank"><img src="/photos/great_feat_468.gif" border="0" width="468" height="60"></a></td>
+		<td width="39" align="center" valign="top"><a href="http://www.newsdigital.com"><img src="/images/ad_info1.gif" width="30" height="60" border="0"></a></td>
+
+		<td valign="top"><a href="http://www.magicjohnson.org/mnm" target="_blank"><img src="/photos/magic234.gif" border="0" width="234" height="60"></a></td>
+		</tr>
+	</tbody></table>
+ 
+
+
+
+
+
+
 </td>
 </tr>
-<!--End Sports-->
-<!--Begin Special-->
 <tr>
-<td bgcolor="#000000" class="wstat2">&nbsp;&nbsp;&nbsp;&nbsp;<b>SPECIAL</b></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/highschool/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">High School</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/fantasy/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Fantasy Sports</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/business/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Sports Business</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/allmadden/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">All-Madden</font></a></td>
-</tr>
-<!--End Special-->
-<!--Begin Local-->
-<tr><td bgcolor="#00000" class="wstat2"><b>&nbsp;&nbsp;&nbsp;&nbsp;REGIONAL</b></td></tr>
-<tr>
-<td class="regstat" bgcolor="#003399">
-<table cellpadding="0" cellspacing="0" border="0">
-<form></form>
+<td width="759">
+<!-- Start Top Tabs -->
+<table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td class="regstat">
-<select class="regstat" name="SportsNet" onchange="window.location.href=this.options[this.selectedIndex].value;">
-<option selected="">Select</option>
-<option value="http://foxsports.com/arizona/index.sml">Arizona
-</option><option value="http://foxsports.com/bayarea/index.sml">Bay Area
-</option><option value="http://foxsports.com/chicago/index.sml">Chicago
-</option><option value="http://foxsports.com/detroit/index.sml">Detroit
-</option><option value="http://foxsports.com/sunshine/index.sml">Florida
-</option><option value="http://foxsports.com/hts/index.sml">Mid-Atlantic
-</option><option value="http://foxsports.com/midwest/index.sml">Midwest
-</option><option value="http://foxsports.com/msc/index.sml">Minnesota
-</option><option value="http://foxsports.com/newengland/index.sml">New Eng.
-</option><option value="http://foxsports.com/newyork/index.sml">New York
-</option><option value="http://foxsports.com/northwest/index.sml">Northwest
-</option><option value="http://foxsports.com/ohio/index.sml">Ohio
-</option><option value="http://foxsports.com/philadelphia/index.sml">Philadelphia
-</option><option value="http://foxsports.com/pittsburgh/index.sml">Pittsburgh
-</option><option value="http://foxsports.com/rockymtn/index.sml">Rocky Mtn
-</option><option value="http://foxsports.com/south/index.sml">South
-</option><option value="http://foxsports.com/southwest/index.sml">Southwest
-</option><option value="http://foxsports.com/west/index.sml">West
-</option><option value="http://foxsports.com/west/index.sml">West2
-</option><option value="http://foxsports.com/msc/index.sml">Wisconsin
-</option><option value="http://foxsports.com/fsn/index.sml">FSN home
-</option></select>
-</td>
-</tr>
+<td valign="bottom"><img src="/images/topnav_left.gif" width="35" height="18"></td>
 
+<td class="navtabon"><a href="/" class="navtabon">&nbsp;Home&nbsp;</a></td>
+<td>&nbsp;</td>
+
+		<td class="navtaboff"><a href="/nfl/home/index.cfm?subnav_key=nfl&amp;include=/nfl/includes/nfl_main.cfm" class="navtaboff">&nbsp;NFL&nbsp;</a></td>
+		
+		<td>&nbsp;</td>
+		
+		<td class="navtaboff"><a href="/cfb/home/index.cfm?subnav_key=cfb&amp;include=/cfb/includes/cfb_main.cfm" class="navtaboff">&nbsp;Col. Football&nbsp;</a></td>
+		
+		<td>&nbsp;</td>
+		
+		<td class="navtaboff"><a href="/nba/home/index.cfm?subnav_key=nba&amp;include=/nba/includes/nba_main.cfm" class="navtaboff">&nbsp;NBA&nbsp;</a></td>
+		
+		<td>&nbsp;</td>
+		
+		<td class="navtaboff"><a href="/chm/home/index.cfm?subnav_key=chm&amp;include=/chm/includes/chm_main.cfm" class="navtaboff">&nbsp;Col. Hoops&nbsp;</a></td>
+		
+		<td>&nbsp;</td>
+		
+		<td class="navtaboff"><a href="/nhl/home/index.cfm?subnav_key=nhl&amp;include=/nhl/includes/nhl_main.cfm" class="navtaboff">&nbsp;NHL&nbsp;</a></td>
+		
+		<td>&nbsp;</td>
+		
+		<td class="navtaboff"><a href="/golf/home/index.cfm?subnav_key=golf&amp;include=/golf/includes/golf_main.cfm" class="navtaboff">&nbsp;Golf&nbsp;</a></td>
+		
+		<td>&nbsp;</td>
+		
+		<td class="navtaboff"><a href="/mlb/home/index.cfm?subnav_key=mlb&amp;include=/mlb/includes/mlb_main.cfm" class="navtaboff">&nbsp;MLB&nbsp;</a></td>
+		
+		<td>&nbsp;</td>
+		
+		<td class="navtaboff"><a href="/auto/home/index.cfm?subnav_key=auto&amp;include=/auto/includes/auto_main.cfm" class="navtaboff">&nbsp;NASCAR&nbsp;</a></td>
+		
+		<td>&nbsp;</td>
+		
+		<td class="navtaboff"><a href="/more/home/index.cfm?subnav_key=more&amp;cont_type_id=1924" class="navtaboff">&nbsp;More Sports&nbsp;</a></td>
+		
+		<td valign="bottom"><img src="/images/topnav_right.gif" width="7" height="18"></td>
+		
+	</tr>
 </tbody></table>
+<!-- End Top Tabs -->
+ </td>
+ </tr>
+ <tr>
+ <td width="759">
+ <!-- Start Header Module -->
+	<table width="759" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+	
+	<td width="759" height="86"><a href="http://www.foxsports.com"><img src="/images/banner_main_left.jpg" width="317" height="86" border="0"></a><a href="http://www2.foxsports.com/fsn/welcome.sml"><img src="/images/banner_main_right.jpg" width="442" height="86" border="0"></a></td>
+	
+	</tr>
+	</tbody></table>
+<!-- End Header Module -->
 </td>
 </tr>
-<!--End Local-->
-
-<!--Begin Instant Info-->
-<tr><td bgcolor="#00000" class="wstat2"><b>&nbsp;&nbsp;&nbsp;&nbsp;INSTANT INFO</b></td></tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/scores/"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Scores</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/myscores/"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">My Scores</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/wires/spta__o.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Wires</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/road/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Mobile Editions</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/business/resources/transactions/"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Transactions</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/latestlines/"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Latest Lines</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="http://foxsports.delphi.com/dir-html/partner/foxsports/jump_page/"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Message Boards</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/schedules/2000/"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Calendar</font></a></td>
-</tr>
-<!--End Instant Info-->
-
-<!--Begin A/V-->
-<tr><td bgcolor="#00000" class="wstat2"><b>&nbsp;&nbsp;&nbsp;&nbsp;AUDIO/VIDEO</b></td></tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/media/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Today's Video</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/radio/"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">FOX Sports Radio</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="http://broadband.foxsports.com/"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Broadband</font></a></td>
-</tr>
-<!--End A/V-->
-
-<!--Begin Clubhouse-->
-<tr>
-<td bgcolor="#00000" class="wstat2"><b>&nbsp;&nbsp;&nbsp;&nbsp;FOX CLUBHOUSE</b></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/fantasy/arcade/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Arcade Games</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="http://foxsports.com/allaccess/"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">FOX All-Access</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="http://www.rivals.com" target="_new"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Rivals.com</font></a></td>
-</tr>
-<!--End Clubhouse-->
-
-<!--Begin Marketplace-->
-<tr>
-<td bgcolor="#00000" class="wstat2"><b>&nbsp;&nbsp;&nbsp;&nbsp;SHOP</b></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="http://store.foxsports.com"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">FOXSports.com Store</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="http://www.cmgstore.com/whnjsp/fox/foxsports/index.jsp" target="_blank"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">FOX Merchandise</font></a></td>
-</tr>
-<!--End Marketplace-->
-
-<!--Begin On Air-->
-<tr>
-<td bgcolor="#00000" class="wstat2"><b>&nbsp;&nbsp;&nbsp;&nbsp;ON AIR</b></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/fsn/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">FOX Sports Net</font></a></td>
-</tr>
-
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/tv/onair/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">FOX On Air</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/direct/index.sml"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">FSN On Satellite</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="http://www.foxnews.com"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">FOX News.com</font></a></td>
-</tr>
-<!--End On Air-->
-<!--Begin Tools-->
-<tr><td bgcolor="#00000" class="wstat2"><b>&nbsp;&nbsp;&nbsp;&nbsp;TOOLS</b></td></tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="/sitemap/"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Site Map</font></a></td>
-</tr>
-<tr>
-<td bgcolor="#003399"><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/buttons/images/clear.gif" width="5" height="5" border="0" hspace="0"><a href="http://sportssearch.foxsports.com"><font class="wstat2" face="Arial, Helvetica, Verdana" color="#ffffff">Sports Search</font></a></td>
-</tr>
-<tr>
-<td><img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/redesign/images/metal_navbottom.gif" width="128" height="16" border="0"></td>
-</tr>
-<!--End Tools-->
 </tbody></table>
-<br><br>
-</td></tr></tbody></table>
-<!--End Left Nav-->
 
-<!--END LEFT NAVIGATION-->
-</td>
-<!--END LEFT COLUMN-->
-<!--BEGIN TOP BANNER-->
-<td valign="top">
-<img src="http://a428.g.akamai.net/f/428/340/1d/www.foxsports.com/frontincludes/images/banner_main.gif" width="499" height="64" border="0"><br>
-<!--END TOP BANNER-->
-<!--BEGIN MAIN CONTENT-->
-<table cellpadding="8"><tbody><tr><td>
-						
-<!--HEADLINE--><font class="newtophed2"><b>Privacy Statement </b><br></font>
-<!--SUBHED--><font class="regstorysub">News Digital Media Privacy Policy <br></font>
-<br>
-<!--DATE--><font face="times" font="" size="-2" color="#666666" class="byline"><b>Feb 15, 2000 </b><br></font>
-<!--BYLINE--><font face="times" font="" size="-1" color="#666666" class="byline"><b></b><br></font>
+</td></tr>
+<tr><td valign="top" align="left" bgcolor="#666666">
 
 
-<font class="regstorytext"><br>
+<!--LEFT NAV-->
 
-<!--STORY-->
-<b><u><p>News Digital Media Privacy Policy</p>
-</u></b><p> </p>
-<p>By using this site, you agree to the Privacy Policy of News Digital Media, Inc.  If you do not agree to the Policy, please do not use this site.  News Digital Media reviews its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time.  This page should be reviewed periodically so that you are updated on any changes.  If you want to communicate with us about our policy,  please write to us at News Digital Media, 620 Avenue of the Americas, New York, New York 10011, USA, or e-mail us at <a href="mailto:privacy@newsdigital.com">privacy@newsdigital.com</a> . </p>
+<table cellspacing="1" cellpadding="0" border="0" width="130" bgcolor="#666666" align="left">
 
-<p>News Digital Media, which operates the Internet site located at www.foxsports.com, recognizes the importance of protecting the privacy of personally identifiable information collected about visitors to our sites.  As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our sites.  Personally identifiable information about visitors to our sites is collected only when knowingly and voluntarily submitted.  We may collect certain non-personal information to optimize our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider).  We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. </p>
 
-<p>In those instances when we do collect personally identifiable information, the following policies apply: </p>
 
-<u><p>Notice </p>
-</u>
-<p>News Digital Media will notify you when we are collecting personally identifiable information about you and how we intend to use it.  For example, we may need to collect such information to provide you with information or a product you requested, in connection with contest entry forms or for billing purposes, or in connection with community postings such as chat and bulletin boards. </p>
 
-<p>Sometimes News Digital Media engages in activities with business partners and sponsors with whom personal information is jointly collected or shared.  We will try to make it clear at the time of collection who is asking for and/or sharing your information.  In situations where your information will be shared, it is recommended that you also review the privacy policy of our business partner or sponsor.</p>
 
-<u><p>Use and Security </p>
-</u>
-<p>Personally identifiable information that visitors submit to our sites is used only for the purpose for which it is submitted unless we disclose other uses in this Privacy Policy or<b> </b>at the time of collection.  Such other uses may include sending you information or materials we think you will find interesting, or sharing the information with News Digital Media's advertisers and reputable business partners.  However, at the time of collection, you will have the option of instructing us not to send you additional information or share your personal information with third parties. News Digital Media is not responsible for the privacy policies or practices of our business partners. </p>
+<tbody><tr><td class="navhed">&nbsp;FEATURES</td></tr>
+<tr><td class="nav">&nbsp;<a class="nav" href="/scores.cfm">Scores</a></td></tr>
+<tr><td class="nav">&nbsp;<a class="nav" href="http://www.allwaltrip.com" target="_blank">All-Waltrip</a></td></tr>
+<tr><td class="nav">&nbsp;<a class="nav" href="http://www.allmadden.com" target="_blank">All-Madden</a></td></tr>
+<tr><td class="nav">&nbsp;<a class="nav" href="/transactions.cfm">Transactions</a></td></tr>
 
-<p>News Digital Media may use reputable third parties to manage activities available on our sites including, but not limited to,<b> </b>sweepstakes, contests, statistical analysis, or chats.  These parties may have access to personally identifiable information submitted by visitors who participate in those activities. Similarly, we may contract with third parties to handle the fulfillment of subscriptions or requests for information you submit to our sites, such as sending you a newsletter. In most instances, News Digital Media instructs these third parties to use personally identifiable information only for the specific purpose for which it is collected, and not to sell, market or transfer such information to other entities.  If News Digital Media obtains personal information that has been collected from you by a third party, including our business partners, this Privacy Policy nonetheless governs News Digital Media’s use of that information.</p>
+<tr><td class="nav">&nbsp;<a class="nav" href="http://www2.foxsports.com/fantasy/" target="_blank">Fantasy Sports</a></td></tr>
 
-<p>Please remember that any information posted on bulletin boards and/or communicated in chat areas becomes public information.  You should use caution when sharing information as any of it can be collected and used by people you may not know.  Users under the age of 18 should be particularly careful not to divulge any personal information.  While News Digital Media strives to protect and respect your privacy, we can not guarantee the security of any information you disclose in a chat room or bulletin board and you do so at your own risk. </p>
 
-<p>News Digital Media may use personally identifiable information in aggregate form to make our sites better and more responsive to the needs of our visitors.  This statistical compilation and analysis of information may also be used by News Digital Media or provided to others, in aggregate, for marketing, advertising or research purposes. </p>
+<tr><td class="navhed">&nbsp;SHOP</td></tr>
+<tr><td class="nav">&nbsp;<a class="nav" href="http://store.foxsports.com/" target="_blank">FOXSports Store</a></td></tr>
+<tr><td class="nav">&nbsp;<a class="nav" href="http://www.cmgstore.com/whnjsp/fox/foxsports/index.jsp" target="_blank">FOX Merchandise</a></td></tr>
+<tr><td class="navhed">&nbsp;ON AIR</td></tr>
+<tr><td class="nav">&nbsp;<a class="nav" href="http://www2.foxsports.com/fsn/">FOX Sports Net</a></td></tr>
 
-<p>If at any time after submitting your personal information to our sites you would no longer like to receive information from us, simply follow the "unsubscribe" directions at the end of any email communication you receive. </p>
+<tr><td class="nav">&nbsp;<a class="nav" href="/radio/index.cfm">FOX Sports Radio</a></td></tr>
+<tr><td align="center" width="128"><img src="/images/nav_bottom.gif" width="128" height="40"></td></tr>
+<tr><td height="5" align="center" width="128"><img src="/images/transpixel.gif" width="128" height="5" align="bottom"></td></tr>
 
-<p>&nbsp;</p>
-<p>News Digital Media does not knowingly collect personally identifiable information from children under the age of 13.</p>
+<tr><td height="100%" align="center" width="128"><img src="/images/transpixel.gif" width="128" height="1" align="bottom"></td></tr><tr><td><p>
 
-<p>Personal information may be disclosed in special situations where News Digital Media has reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with News Digital Media’s rights, property, users, or anyone else who could be harmed by such activities.  Also, News Digital Media may reveal information when we believe in good faith that the law requires it.  </p>
 
-<p>News Digital Media maintains appropriate safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our sites, and periodically reviews and updates its security measures in light of current technologies.  Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.  Although News Digital Media strives to protect your personal information, we can not ensure or warranty the security of any information you may transmit to us or from our online products and services.  This is done so at your own risk.  Once we do receive your transmission, however, we make our best effort to ensure its security on our systems.  When credit card information is transmitted, industry standard encryption is used.</p>
 
-<u><p>Cookies </p>
-</u>
-<p>Cookies are data that a Web site transfers to an individual's hard-drive for record-keeping purposes.  Cookies, which are an industry standard used by most Web sites, including those operated by News Digital Media, can facilitate a user's ongoing access to and use of a site.  They allow us to track usage patterns and to compile data that can help us improve our content and target advertising.   News Digital Media does not save passwords or credit card information within Cookies, nor are our Cookies programs that can cause damage to a user’s systems or files.   If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature.  But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services. </p>
+        
+        
 
-<u><p>Links to Third Party and Co-Branded Sites </p>
-</u>
-<p>News Digital Media has established relationships with reputable business partners that allow visitors to our Internet sites to link directly to sites operated by these partners.  Some of these sites, such as <a href="http://www.foxmarketwire.com/">www.foxmarketwire.com</a> or sites dedicated to online shopping, may be "co-branded" with a News Digital Media logo (i.e., Fox, Fox Sports or Fox News); however, these sites are not operated or maintained by News Digital Media.  These sites may collect personal information from you that may be shared with News Digital Media.  As noted above, this Privacy Policy will apply to any personal information we obtain in this manner.</p>
-
-<p>News Digital Media chooses its advertisers and business partners carefully.  However, News Digital Media is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites.  These links are meant for the user's convenience only.  Links to third party sites do not constitute sponsorship, endorsement or approval by News Digital Media of the content, policies or practices of such third party sites.  Once you have left a News Digital Media site via such a link, you should check the applicable privacy policy of the third party site. </p>
-
-<p>News Digital Media sites may also be linked to Web sites operated by companies affiliated with News Digital Media.  Visitors to those sites should refer to their separate privacy policies and practices. </p>
-
-<p>&nbsp;</p>
-<p>February 15<sup>th</sup>,  2000 </p>
-<p> </p>
-<p><a href="mailto:comments@newsdigital.com">comments@newsdigital.com</a> </p>
-<p>© 2000, News Digital Media, Inc. d/b/a Fox Sports Online.</p>
-<p>All rights reserved. Fox Sports is a registered trademark of Twentieth Century Fox Film Corporation. </p>
-
-<br><br>
-</font></td></tr></tbody></table>
-<!--END MAIN CONTENT-->
-</td>
-<!--BEGIN PROMO COLUMN-->
-<td rowspan="2" valign="top" bgcolor="#cccccc" class="regstat" width="130">
-<img src="/nfl/images/steel_cap.gif" width="130" height="64" border="0">
-<!--BEGIN CONSOLE TABLE-->
-<table cellspacing="0" cellpadding="4" border="0" width="130">
-<tbody><tr bgcolor="#cccccc">
-<td class="regstat">
-</td>
-</tr></tbody></table>
-<!--END CONSOLE TABLE-->
-</td>
-<!--END PROMO COLUMN-->
-</tr>
-<tr>
-<td align="center">
-<br><br>
-<!--BEGIN BOILERPLATE-->
-<!--Start Boilerplate-->
-<table border="0" cellpadding="5" cellspacing="0" valign="top">
-<tbody><tr><!--<td width=5>&nbsp;</td>-->
-<td width="480"><center><font face="arial, helvetica" size="1" class="regstat">
-Copyright 2000, News Digital Media, d/b/a FOXSports.com. All rights reserved.<br>
-
-<a href="/sitemap/" class="reglink">&nbsp;<u>Site Map</u></a> |<a href="/privacy.sml" class="reglink">&nbsp;<u>Privacy Policy</u></a> |<a href="/termsofuse.sml" class="reglink">&nbsp;<u>Terms of Use</u></a> |<a href="/feedback.sml" class="reglink">&nbsp;<u>Feedback</u></a> |<a href="http://www.newsdigital.com/" target="_top" class="reglink">&nbsp;<u>Advertising</u></a> |<a href="http://www.newscorp.com/" class="reglink">&nbsp;<u>News Corp</u></a>
-
-</font></center></td>
-<!--<td width=5>&nbsp;</td>-->
-</tr></tbody></table>
-<!--End Boilerplate--></td>
-</tr>
-<!--END BOILERPLATE-->
-</tbody></table>
-<!--END MAIN HOLDING TABLE-->
 
  
 
+
+
+
+
+	</p></td></tr><tr><td align="center"><a href="http://store.foxsports.com/family/index.jsp?categoryId=444319" target="_blank"><img src="/photos/store120.gif" border="0" width="120" height="60"></a></td></tr>
+	<tr><td align="center"><img src="/images/transpixel.gif" height="3" width="60" border="0"></td></tr>
+	
+		<tr><td align="center"><a href="http://fantasy.foxsports.com/games/trivia/intro.asp" target="_blank"><img src="/photos/great125x60.gif" border="0" width="125" height="60"></a></td></tr>
+
+
+
+
+</tbody></table>
+
+<!--END LEFT NAV-->
+
+</td>
+<td height="100%" align="right" valign="top" bgcolor="FFFFFF">
+	
+	<table width="629" valign="top" cellspacing="0" cellpadding="0" border="0" height="500">
+	<tbody><tr><td width="8" bgcolor="FFFFFF"><img src="/images/transpixel.gif" height="1" width="8"></td>
+	<td width="621" height="100" bgcolor="FFFFFF" valign="top">
+	<img src="/images/transpixel.gif" height="5" width="1"><br>
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		 
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		 
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		<p class="headline1">FOX SPORTS ONLINE GROUP PRIVACY POLICY</p>
+<p class="body"><b>FOX SPORTS ONLINE GROUP ("FOX")</b> is part of the News America Group, which has adopted a set of Privacy Principles applicable to all its U.S.-based companies.  FOX has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
+<br><br>
+From time to time FOX may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives.  Therefore, you should review it periodically so that you are up to date on our most current policies and practices.
+<br><br>
+<b>COLLECTION:  COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY FOX</b> 
+<br>
+<b>General</b>.  FOX collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address or telephone number) only in order to create or enhance our relationship with you.  When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, content or suggestions you submit to us, chats or bulletin boards, or because you want us to furnish you with products, services or information.  On those occasions when we obtain PII from a third party, we use only reputable sources of such information.
+<br><br>
+<b>Cookies</b>.   Cookies are small bits of information that the Internet sites operated by FOX place on the hard drive of your computer.  Cookies remember information about your activities on our site(s) and enable FOX to make your visits to our site(s) more enjoyable.  For example, cookies can store your password for easy logon to a site you have previously visited, can save your preferences for a personalized home page or can track the items you have placed in your "shopping cart" during a visit to our online store.  The cookie itself does not contain PII.
+<br><br>
+Third party advertisements displayed on Internet site(s) operated by FOX may also contain cookies.  FOX does not control these advertiser cookies and visitors to our web site(s) should check the privacy policy of the advertiser to see whether and how it uses cookies.
+<br><br>
+On occasion, FOX may use cookies to relate your use of our web site(s) to personally identifiable information you have submitted to us.  For example, if you’ve asked us to send you information about our upcoming products or promotions, cookie information may allow us to limit the materials we send you to items we know you will find interesting, based on your prior online activities and preferences.  However, if FOX wishes to coordinate personal and cookie information in this manner, we will obtain your express prior consent (i.e., "opt in").
+<br><br>
+You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely.  However, without cookies you will not have access to certain features on FOX  ’s web site(s), such as the FOX Networks Backlot.
+<br><br>
+<b>NOTICE: FOX WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES</b>
+<br>
+When FOX collects PII from you, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses FOX  will make of the information.
+<br><br>
+This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your personal information (See "Use" below).  However, at the time your PII is collected, FOX will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies (See "Choice" below).
+<br><br>
+Sometimes we collect personally identifiable information from consumers in manual format, such as a post card or subscription form.  Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.
+<br><br>
+FOX’s web site(s) may be linked to Internet sites operated by other companies.  Some of these third party sites may be co-branded with an FOX logo, even though they are not operated or maintained by FOX  (for example, the NASCAR Family Chat Super Site).  FOX’s web site(s) also carry advertisements from other companies as well as advertisements placed by national Internet ad agencies.  Although we choose our business partners and advertisers carefully, FOX is not responsible for the privacy practices of web sites operated by third parties that are linked to our site(s) or for the privacy practices of third party or so-called national advertisers.  Once you’ve left a FOX site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
+<br><br>
+FOX’s web site(s) may also be linked to sites operated by companies affiliated with FOX .  Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
+<br><br>
+<b>CHOICE:   FOX WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII</b>
+<br>
+FOX will provide you with the opportunity to choose whether your PII may be used for purposes different from the purpose for which it was submitted.  You will also be able to choose whether your information is shared with companies that are not affiliated with FOX  (i.e., not part of the News America Group).
+<br><br>
+<b>USE:  FOX ’S USE OF PII</b>
+<br>
+FOX will use your PII in a manner that is consistent with this Policy and only for the purpose for which it is submitted, unless other uses are disclosed at the time of collection and you allow us to use your information in these other ways.  
+<br><br>
+FOX may share your PII with companies that are affiliated with us, that is part of the News America Group of companies.  FOX may also share your PII with companies that are not affiliated with FOX, but would like to send you information about their products and services.  For example, some of the companies who supply prizes for FOX’s contests may have special offers or promotions that might be of interest to FOX Networks viewers.  However, you will always have the opportunity to instruct us not to share your information with third parties.
+<br><br>
+FOX employees, agents and contractors must have a legitimate business reason to obtain access to your PII.  Outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses) may only use PII to provide FOX with a specific service and not for any other purpose.
+<br><br>
+If FOX obtains PII from a third party, such as a business partner, our use of this information is governed by this Policy.
+<br><br>
+FOX may be required to disclose PII to comply with legal requirements, such as a court order, and to protect the safety and security of visitors to our web sites.
+<br><br>
+<b>SECURITY: FOX PROTECTS THE SECURITY OF PII</b>
+<br>
+FOX uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification.  In addition, FOX uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete.
+<br><br>
+<b>ACCESS:  HOW TO ACCESS, CORRECT OR DELETE YOUR PII</b>
+<br>
+In most cases, FOX will retain PII for ninety (90) days or less.  In the event PII is retained for longer, FOX has implemented a procedure for you to access, correct or delete your PII.
+<br><br>
+To access your PII, send an e-mail with the word "Privacy" in the subject line to <a class="link" href="mailto:Feedback@foxsports.com?subject=Privacy">Feedback@foxsports.com</a>, or a write to the FOX Internet Privacy Officer at FOX SPORTS ONLINE GROUP, 1925 South Bundy Drive, Los Angeles, California  90025, requesting a listing of the PII that is on file for you.  FOX will respond no later than fifteen (15) business days from receipt of your request with a list of the PII on file.  There may be certain instances when FOX may not be able to provide the PII, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the PII has been lawfully obtained from third party sources.
+<br><br>
+In the event the PII on file is incorrect, you may correct the PII by sending a written request for correction to the FOX Internet Privacy Officer at FOX SPORTS ONLINE GROUP, 1925 South Bundy Drive, Los Angeles, California  90025, that includes (1) all of the incorrect PII that you wish to change, (2) the corrected PII and (3) your signature authorizing such changes.  FOX will then correct the PII in its database and send a written confirmation to you within fifteen (15) business days.
+<br><br>
+If for any reason you wish to stop all future communications from FOX, you may send an e-mail with the word "Privacy" in the subject line to <a class="link" href="mailto:Feedback@foxsports.com?subject=Privacy">Feedback@foxsports.com</a>, or a write to the FOX  Internet Privacy Officer at  FOX SPORTS ONLINE GROUP, 1925 South Bundy Drive, Los Angeles, California  90025, requesting that your PII be permanently  removed form any FOX  database.  FOX will send a written confirmation of such removal to you within fifteen (15) business days of receipt of your request.
+<br><br>
+<b>REMEDIES AND COMPLIANCE:  HOW TO CONTACT FOX  ABOUT PRIVACY CONCERNS</b>
+<br>
+If you have concerns regarding this Privacy Policy, your use of the FOX web site(s), or the collection and use of PII, you may contact the following FOX representative:
+<br><br>
+Privacy Policy Representative<br>
+FOX SPORTS ONLINE GROUP<br>
+1925 South Bundy Drive<br>
+Los Angeles, California 90025<br>
+Telephone:	(310) 998-4000
+Telecopier:	(310) 998-4004
+e-mail: <a class="link" href="mailto:Feedback@foxsports.com">Feedback@foxsports.com</a>
+<br><br>
+You may also request a written response to your concerns, which will be made no later than thirty (30) days after you contact FOX.</p>
+		
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+ 
+
+	
+	
+	<br>
+	</td>
+	<td bgcolor="FFFFFF" width="11"><img src="/images/transpixel.gif" height="1" width="11"></td>
+	
+	
+	</tr>
+	</tbody></table>
+</td>
+</tr><tr><td colspan="2" width="759">
+<table width="759" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td bgcolor="#666666"><img src="/images/transpixel.gif" height="30" width="10" border="0"></td>
+<td colspan="2"><img src="/images/transpixel.gif" height="30" width="10" border="0"></td>
+</tr>
+<tr>
+<td width="130" valign="top" align="left" bgcolor="#666666"><img src="/images/transpixel.gif" width="130" height="1" align="bottom" border="0"></td>
+<td bgcolor="FFFFFF" width="11"><img src="/images/transpixel.gif" width="8" height="1" align="bottom" border="0"></td>
+<td width="621" align="center" valign="bottom"><font size="1" color="#000000" face="Arial, Helvetica, san-serif"><span class="boilerplate">Copyright 2001, FOX Interactive Television, LLC. All rights reserved.<br>
+<a href="/home_news.cfm?cont_id=47851&amp;show_headline=false&amp;show_headline_date=false&amp;inset_include=">Site Map</a> | <a href="/home_news.cfm?cont_id=47335&amp;show_headline=false&amp;show_headline_date=false&amp;inset_include=">Privacy Policy</a> | <a href="/home_news.cfm?cont_id=47338&amp;show_headline=false&amp;show_headline_date=false&amp;inset_include=">Terms of Use</a> | <a href="mailto:feedback@foxsports.com">Feedback</a> | <a href="http://www.newsdigital.com/">Advertising</a> | <a href="http://www.newscorp.com/">News Corp</a></span></font></td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</td>
+
+
+</tr>
+</tbody></table>
+<!-- this_instance_is_good -->
+<title>FOXSports.com</title>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		
+		 
+		
+			
+			
+			
+			
+			 
+		
+			
+			
+			
+			  
+			
+			
+ 
+
+	
+		
+					
+						
+							
+						
+					
+					
+					
+			
+	
+   
+
+
+						
+
+
+							
+						
 </body></html>
