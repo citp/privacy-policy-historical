@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionsniper.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014041323id_/http%3A//www.auctionsniper.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionsniper.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603212612id_/http%3A//www.auctionsniper.com/privacy.aspx) for the most accurate reproduction.*
 
 # AuctionSniper Help
 
@@ -19,4 +19,4 @@ This site gives users the following options for changing and modifying informati
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, contact:
 
-[http:/support.auctionsniper.com](http://www.support.auctionsniper.com/)
+[http://support.auctionsniper.com](http://support.auctionsniper.com/)
