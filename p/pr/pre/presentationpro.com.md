@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the presentationpro.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621122508id_/http%3A//www.presentationpro.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentationpro.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053803id_/http%3A//www.presentationpro.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # PresentationPro - The PowerPoint Experts
+
+Privacy Statement 
 
 PresentationPro, Inc. has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on our website (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. PresentationPro reserves the right to change the terms and conditions of this Agreement or its policies relating to the Service at any time and shall notify you by posting an updated version of this Agreement on the Site and/or by sending you an email message. 
 
@@ -17,11 +19,4 @@ This privacy statement applies solely to information collected by the Site. The 
 PresentationPro uses industry-standard technologies when transferring and receiving consumer data exchanged with our site to help ensure its security. Refer to the PresentationPro Security statement for additional information.
 
 Questions regarding this Statement or the practices of this Site should be directed to PresentationPro's Privacy Administrator by e-mailing such questions to support@presentationpro.com  
-  
-  
----  
-Copyright 2003 PresentationPro, Inc. All rights reserved.  
-PowerPoint is a registered trademark of Microsoft. Flash is a registered trademark of Macromedia.  
-All other trademarks and registered trademarks are properties of their respective owners.  
-  
 
