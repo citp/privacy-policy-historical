@@ -1,23 +1,24 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/AboutSite/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2003-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/AboutSite/Privacy.htm) for the most accurate reproduction.*
 
 # About Us | Privacy Policy
 
 |  | In this section:  
 ---|---  
-| [Introduction](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/overview.htm)  
-| [Who We Are](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/WhoWeAre/overview.htm)  
-  |  [What We Do](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/WhatWeDo/overview.htm)  
-  | [Financial Information](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/FinancialInfo/overview.htm)  
-  | [Position Statements ](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/PositionStatements/overview.htm)  
-  | [Employment Opportunities ](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/EmploymentOpp.asp)  
-  | [About This Site](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/AboutSite/overview.htm)  
+| [Introduction](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/overview.htm)  
+| [Who We Are](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/WhoWeAre/overview.htm)  
+  |  [What We Do](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/WhatWeDo/overview.htm)  
+  | [Financial Information](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/FinancialInfo/overview.htm)  
+  | [Position Statements ](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/PositionStatements/overview.htm)  
+  | [Employment Opportunities ](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/EmploymentOpp.asp)  
+  | [Corporate Sponsors ](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/CorpSpon.htm)  
+  | [About This Site](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/AboutSite/overview.htm)  
   | 
 
-[What's New on This Site](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/AboutSite/New.htm)  
+[What's New on This Site](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/AboutSite/New.htm)  
   
   | 
 
-[Copyright and Linking](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/AboutSite/Copyright.htm)  
+[Copyright and Linking](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/AboutSite/Copyright.htm)  
   
   | 
 
@@ -25,7 +26,7 @@ Privacy Policy
   
   | 
 
-[Disclaimer](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/AboutSite/Disclaimer.htm)  
+[Disclaimer](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/AboutSite/Disclaimer.htm)  
   
 ##  Privacy Policy
 
@@ -46,10 +47,8 @@ Through this site we collect information about the domain name of a visitor’s 
 
 By using the Alzheimer’s Association Web site, you consent to the collection and use of the information described above. Any changes to this policy will be posted prior to their implementation.
 
-Reviewed: 10/01/02
-
 * * *
 
-[Privacy Policy](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/AboutSite/Privacy.htm)     |     [Disclaimer](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/AboutUs/AboutSite/Disclaimer.htm)     |     [Site Map](https://web.archive.org/web/20021209161350id_/http%3A//www.alz.org/sitemap.htm)
+[Privacy Policy](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/AboutSite/Privacy.htm)     |     [Disclaimer](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/AboutUs/AboutSite/Disclaimer.htm)     |     [Site Map](https://web.archive.org/web/20030423170135id_/http%3A//www.alz.org/sitemap.htm)
 
-© 2002 Alzheimer’s Disease and Related Disorders Association, Inc. All rights reserved.
+© 2003 Alzheimer’s Disease and Related Disorders Association, Inc. All rights reserved.
