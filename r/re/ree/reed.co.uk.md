@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207214719id_/http%3A//www.reed.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618164930id_/http%3A//www.reed.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # reed.co.uk : Privacy Policy
 
@@ -48,7 +48,7 @@ Under the Employment Agencies Act, reed.co.uk is obliged to hold your data for 1
 
 **Privacy policy** \- this is a statement by Reed which explains the ways that we try to protect our users' privacy. 
 
-**Recruitment process** \- the process of gaining employment and advertising for and recruiting new staff and the ongoing administrative process involved once a user has gained employment or recruited new staff. 
+**Recruitment process** \- the process of gaining employment and recruiting new staff and the ongoing administrative process involved once a user has gained employment or recruited new staff. 
 
 **Reed** \- Reed Executive plc and its subsidiary/associated companies. 
 
@@ -56,8 +56,10 @@ Under the Employment Agencies Act, reed.co.uk is obliged to hold your data for 1
 
 **Third Parties** \- these are companies and people other than Reed and the group of companies of which it is part. 
 
-**Users** \- people who use our website and register their details with us for the purposes of recruitment, either to gain employment or for the purposes of advertising and recruiting new staff.   
+**Users** \- people who use our website and register their details with us for the purposes of recruitment, either to gain employment or for the purposes of recruiting new staff.   
 back to top
 
   
 If you have any queries about our privacy policy, please use the form below to get in touch with us. 
+
+back to top 
