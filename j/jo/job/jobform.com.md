@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobform.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604013855id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobform.com privacy policy that was archived on 2004-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041227005557id_/http%3A//www.jobform.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
 # PlanetRecruit: IT, Engineering and Management jobs from the UK's top recruitment agencies - Employment, careers, work
 
