@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204094000id_/http%3A//www.northerntool.com/infocenter/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603045322id_/http%3A//www.northerntool.com/custhelp/privacypolicy) for the most accurate reproduction.*
 
-# Northern Tool and Equipment - Information Center - Privacy Policy
+# Northern Tool and Equipment - Customer Help - Privacy Policy
 
 **NorthernTool.com Privacy Policy**
 
@@ -18,7 +18,7 @@ Northern Tool & Equipment uses personal information to enhance the overall shopp
 
 **4) Personalized, Knowledgeable Customer Service** \- Our customer service team will be able to assist you promptly and accurately by identifying you and your preferences. 
 
-NorthernTool.com uses a third-party service provider (Coremetrics) to collect and analyze information about our customers to better meet their needs. Coremetrics may store data or use cookies on our part, however, we do not share information that would enable them to identify you individually. Their purpose is to provide NorthernTool.com with information that may better help us tailor the products and services we offer on our site. We do provide you with the opportunity to choose not to participate in the analysis of your browsing and purchasing behavior through the third-party service. For more information about our third-party service provider and how to [opt out](http://www.northerntool.com/aboutus/privacypolicy.htm#optout) of this service, refer to the section below. 
+NorthernTool.com uses a third-party service provider (Coremetrics) to collect and analyze information about our customers to better meet their needs. Coremetrics may store data or use cookies on our part, however, we do not share information that would enable them to identify you individually. Their purpose is to provide NorthernTool.com with information that may better help us tailor the products and services we offer on our site. We do provide you with the opportunity to choose not to participate in the analysis of your browsing and purchasing behavior through the third-party service. For more information about our third-party service provider and how to [opt out](http://www.northerntool.com/custhelp/privacypolicy.htm#optout) of this service, refer to the section below. 
 
 **Opting Out**
 
@@ -34,7 +34,7 @@ Burnsville, MN 55337-0219
 
 **Opting Out of Third-party Services**
 
-To learn more about Coremetrics, their privacy policies or how to opt-out of their services please go to: [www.coremetrics.com/privacy.html](http://www.coremetrics.com/privacy.html)
+To learn more about Coremetrics, their privacy policies or how to opt-out of their services please go to: [www.coremetrics.com/privacy.html](http://www.coremetrics.com/consumer_opt_out/opt_main.html)
 
 **Will Northern Tool & Equipment sell my email address?**
 
