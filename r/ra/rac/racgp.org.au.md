@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210120106id_/http%3A//www.racgp.org.au/document.asp%3Fid%3D2016) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621091744id_/http%3A//racgp.org.au/document.asp%3Fid%3D2016) for the most accurate reproduction.*
 
 # RACGP - Privacy Statement for the RACGP Website
 
@@ -36,7 +36,7 @@ The College will not use or disclose any information about you without your cons
 
 In order to provide some services to members, the College may be required to provide Members' contact details to third party suppliers of services. The College provides the opportunity to opt-out of such third party arrangements.
 
-If any Member does not want their contact details passed on to third parties for the purposes of member benefits, please contact our Membership Office on (03) 9214 1414.
+If any Member does not want their contact details passed on to third parties for the purposes of member benefits, please contact our Membership Office on (03) 8699 0414.
 
 **"Spam" (Promotional Mail)**
 
@@ -50,11 +50,11 @@ In addition, our employees and the contractors who provide services related to o
 
 **You can access the information we keep about you**
 
-If you wish to know what information we hold about you, please contact the Membership Office on (03) 9214 1414. We will respond to your request within 30 days. 
+If you wish to know what information we hold about you, please contact the Membership Office on (03) 8699 0414. We will respond to your request within 30 days. 
 
 **What to do if you have a problem or question**
 
-If the College becomes aware of any ongoing concerns or problems with sites on our Network, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please contact us on (03) 9214 1414.
+If the College becomes aware of any ongoing concerns or problems with sites on our Network, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please contact us on (03) 8699 0414.
 
 **Future changes**
 
