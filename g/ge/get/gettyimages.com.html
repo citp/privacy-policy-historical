@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gettyimages.com privacy policy that was archived on 2003-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031216191447id_/http%3A//gettyimages.com/source/home/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gettyimages.com privacy policy that was archived on 2004-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040610085709id_/http%3A//gettyimages.com/source/home/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -14,23 +14,23 @@
 <script language="JavaScript" type="text/javascript">
 // mainMenuData items are: itemURL, itemImage, left, width, height, altTag
 var mainMenuData = new Array(
-	"http://creative.gettyimages.com/source/media_images/", "/en-us/images/nav/gnav_01_reg.gif", "0", "139", "14", "images", 168,
-	"http://creative.gettyimages.com/source/film/", "/en-us/images/nav/gnav_02_reg.gif", "146",  "139", "14", "film", 168,
+	"http://creative.gettyimages.com/source/frontdoor/default_mediaimages.aspx", "/en-us/images/nav/gnav_01_reg.gif", "0", "139", "14", "images", 168,
+	"http://creative.gettyimages.com/source/film/default.aspx", "/en-us/images/nav/gnav_02_reg.gif", "146",  "139", "14", "film", 168,
 	"http://creative.gettyimages.com/source/services/services.asp", "/en-us/images/nav/gnav_03_reg.gif", "292", "139", "14", "services", 168,
 	"http://creative.gettyimages.com/source/account/account.asp", "/en-us/images/nav/gnav_04_reg.gif", "438", "139", "14", "my account", 168,
 	"http://creative.gettyimages.com/source/home/Javascript:return null;", "/en-us/images/nav/gnav_05_reg.gif", "584", "175", "14", "deutschland", "175");
 
 // menuData items are:  itemText, itemURL
 var menuData0 = new Array(
-	"image collections", "http://creative.gettyimages.com/source/media_images/",
+	"image collections", "http://creative.gettyimages.com/source/frontdoor/default_mediaimages.aspx",
 	"advanced image search", "http://creative.gettyimages.com/source/search/search.asp",
 	"CDs","http://creative.gettyimages.com/source/products/cdsearch.aspx?productType=2",
 	"catalogs","http://creative.gettyimages.com/source/products/catalogmain.asp",
-	"image spotlight","http://creative.gettyimages.com/source/spotlight/",
+	"image spotlight","http://creative.gettyimages.com/source/frontdoor/default_spotlight.aspx",
 	"my lightboxes","http://creative.gettyimages.com/source/search/lightbox.asp");
 	
 var menuData1 = new Array(
-	"film home page", "http://creative.gettyimages.com/source/film/",
+	"film home page", "http://creative.gettyimages.com/source/film/default.aspx",
 	"advanced film search", "http://creative.gettyimages.com/source/film/advsearch.aspx",
 	"film CDs", "http://creative.gettyimages.com/source/products/cdsearch.aspx?productType=1",
 	"my clipbins","http://creative.gettyimages.com/source/film/clipbin.aspx");
@@ -40,12 +40,10 @@ var menuData2 = new Array(
 	"service offerings","http://creative.gettyimages.com/source/services/services.asp",
 	"research services","http://creative.gettyimages.com/source/services/research.asp",
 	"photo assignments","http://creative.gettyimages.com/source/ListingService/SearchAS.aspx",
-	"professional directory","http://creative.gettyimages.com/source/ListingService/SearchDL.aspx",
 	"rights & clearance","http://creative.gettyimages.com/source/services/rights.asp",
 	"media management services","http://creative.gettyimages.com/source/services/media_management.asp",
 	"film resources","http://creative.gettyimages.com/source/services/motion_resources.asp",
-	"contact us","Javascript:openHelpWindow(&quot;http://creative.gettyimages.com/source/help/helpcontact.asp&quot;,&quot;helpWin&quot;)",
-	"my directory listing","http://creative.gettyimages.com/source/ListingService/ListingManagement.aspx?source=1");
+	"contact us","Javascript:openHelpWindow(&quot;http://creative.gettyimages.com/source/help/helpcontact.aspx&quot;,&quot;helpWin&quot;)");
 
 
 var menuData3 = new Array(
@@ -56,28 +54,29 @@ var menuData3 = new Array(
 	"previous purchases","http://creative.gettyimages.com/source/account/purchase.asp",	
 	"my lightboxes","http://creative.gettyimages.com/source/search/lightbox.asp",
 	"my clipbins","http://creative.gettyimages.com/source/film/clipbin.aspx",
-	"my virtual CDs","https://creative.gettyimages.com/source/products/virtualcd.aspx",	
+	"my virtual CDs","http://creative.gettyimages.com/source/products/virtualcd.aspx",	
 	"saved licenses","https://creative.gettyimages.com/source/account/savedlicenses.aspx");
 
 var menuData4 = new Array("deutschland", "JavaScript:SetCountry(\'deu\');", "españa", "JavaScript:SetCountry(\'esp\');", "france", "JavaScript:SetCountry(\'fra\');", "united kingdom", "JavaScript:SetCountry(\'gbr\');", "united states", "JavaScript:SetCountry(\'usa\');");
 
 function SetCountry(country){
 	var url = top.document.location.href.toLowerCase();
-	var home = "http://creative.gettyimages.com/";
-	var frontDoor = home + "source";
+	var frontDoor  = "";
 	var bFrontDoor = false;
 	
 	for (var i = 0; i < g_arrFrontDoors.length; i++)
 		if (url.indexOf(g_arrFrontDoors[i].toLowerCase()) != -1){
-			frontDoor += g_arrFrontDoors[i] + "default.asp";
+			frontDoor  = g_arrFrontDoorsUrl[i];
 			bFrontDoor = true;
 			break;
 		}
 	
+	var params = "?country=" + country;
+	var home = "http://creative.gettyimages.com/";
 	if (bFrontDoor)
-		doJump(frontDoor + "?country=" + country);
+		doJump(home + "source" + frontDoor + params);
 	else
-		doJump(home + "source/home/homeCreative.asp" + "?country=" + country);
+		doJump(home + "source/home/homeCreative.asp" + params);
 }
 </script>
 <script src="/source/include/menudata.js" type="text/javascript"></script>
@@ -556,7 +555,7 @@ function RemoveNonNumericCharacters(el){
 
 
 <!-- end clienterror  -->
-<title>Getty Images - Privacy Policy - G1WEB10</title>
+<title>Getty Images - Privacy Policy - G1WEB08</title>
 
 
 </head>
@@ -588,7 +587,7 @@ var gActiveSubNav;
 			</tr>
 			<tr>
 				<td class="SmStan" align="right">
-					<img src="/source/images/clear.gif" height="1" width="1"><br><a href="https://creative.gettyimages.com/source/account/register.aspx?mode=0&amp;nexturl=/source/home/Privacy.asp" onmouseout="StatusOff();" onmouseover="return onText('Register')" target="_top">Register</a> now. Already a member? <a href="https://creative.gettyimages.com/source/account/signin.asp?/source/home/Privacy.asp" onmouseout="StatusOff();" onmouseover="return onText('Sign in')" target="_top">Sign In</a>
+					<img src="/source/images/clear.gif" height="1" width="1"><br><a href="https://creative.gettyimages.com/source/account/register.aspx?mode=0&amp;nexturl=/source/home/privacy.asp" onmouseout="StatusOff();" onmouseover="return onText('Register')" target="_top">Register</a> now. Already a member? <a href="https://creative.gettyimages.com/source/account/signin.asp?/source/home/privacy.asp" onmouseout="StatusOff();" onmouseover="return onText('Sign in')" target="_top">Sign In</a>
 				</td>
 			</tr>
 		</tbody></table>
@@ -621,7 +620,7 @@ var gActiveSubNav;
 	<tbody><tr><td width="790"><img src="/source/images/clear.gif" width="790" height="1"></td></tr>
 </tbody></table>
 <form name="frmDestURL" method="get" id="Form1"> 
-<input type="hidden" name="hdnBackLink" value="/source/home/Privacy.asp" id="Hidden1">
+<input type="hidden" name="hdnBackLink" value="/source/home/privacy.asp" id="Hidden1">
 </form>
 <!-- END TOPNAV  -->
 
@@ -646,7 +645,7 @@ var gActiveSubNav;
 	</p><p><b>Questions or Concerns</b><br>If at any time you believe that Getty Images has not followed the above policy, please let us know by sending an email to <a href="mailto:sales@gettyimages.com" onmouseover="return onText(&quot;sales@gettyimages.com&quot;);" onmouseout="StatusOff()">sales@gettyimages.com</a>. We will make reasonable efforts to identify and correct any problem. 
 	</p><p><b>Changes to This Online Privacy Policy</b><br>We reserve the right to change the terms of this privacy policy at any time, but will not do so without posting the revised policy on this website. We encourage you to review this privacy policy whenever you visit our website to make sure you understand how we use the information we collect.
 	</p><p>
-		© Copyright 1999-2003 Getty Images, Inc. All rights reserved. Privacy Policy.
+		© Copyright 1999-2004 Getty Images, Inc. All rights reserved. Privacy Policy.
 	</p></div></td><td class="SmStan"><div style="background-color:#FFFFFF;"><img src="/source/images/clear.gif" width="100" height="1" alt=""></div></td></tr><tr><td colspan="2"><img src="/source/images/clear.gif" alt="" width="1" height="30"></td></tr>
 </tbody></table>
 <br>
@@ -679,7 +678,7 @@ var gActiveSubNav;
 	</tr>
 	
 	<tr>
-		<td width="743" class="SmStan">For local customer support, <a href='javascript:void openHelpWindow("http://creative.gettyimages.com/source/help/helpcontactww.asp", "helpWin");' onmouseout="StatusOff();" onmouseover="return onText('Customer Support')">click here</a>.<br><span class="SmSelectedLink">All contents © copyright 1999-2003 Getty Images, Inc. All rights reserved.</span></td>
+		<td width="743" class="SmStan">For local customer support, <a href='javascript:void openHelpWindow("http://creative.gettyimages.com/source/help/helpcontactww.asp", "helpWin");' onmouseout="StatusOff();" onmouseover="return onText('Customer Support')">click here</a>.<br><span class="SmSelectedLink">All contents © copyright 1999-2004 Getty Images, Inc. All rights reserved.</span></td>
 		<td width="16"><img src="/source/images/clear.gif" width="16" height="30" border="0" alt=""></td>
 	</tr>
 </tbody></table>
