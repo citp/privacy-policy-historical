@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wibw.com privacy policy that was archived on 2001-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010417225708id_/http%3A//www.wibw.com/benedek/HomePage/SubTopic/index.html%3Fbody_file%3Dprivacy.html%26topicintid%3D12%26subtopicintid%3D271) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wibw.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607224812id_/http%3A//www.wibw.com/benedek/HomePage/SubTopic/index.html%3Fbody_file%3Dprivacy.html%26topicintid%3D12%26subtopicintid%3D271) for the most accurate reproduction.*
 
 # Welcome to WIBW
 
