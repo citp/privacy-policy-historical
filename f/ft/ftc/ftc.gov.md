@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftc.gov privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205022018id_/http%3A//www.ftc.gov/ftc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftc.gov privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630192150id_/http%3A//www2.ftc.gov/ftc/privacy.htm) for the most accurate reproduction.*
 
 # Federal Trade Commission Privacy Policy
 
@@ -54,16 +54,25 @@ If you choose to provide personally identifying information to us, we will use a
 
 **Here's how to contact us about:**
 
-  * **[ordering publications](http://www.ftc.gov/bcp/conline/pubs/bulkordr.htm)**
-  * **[consumer fraud, misleading advertising, credit cards, or other consumer protection matters](http://www.ftc.gov/ftc/bcppriv.htm)**
-  * [**identity theft**](http://www.consumer.gov/idtheft/index.html)
-  * **[antitrust or competition matters](http://www.ftc.gov/ftc/bcmail.htm)**
-  * If you have technical problems with the operation of our Web sites, please report them to our **[Webmaster](http://www.ftc.gov/ftc/webmast.htm)**. 
+  * **[Ordering Publications](http://www.ftc.gov/bcp/conline/pubs/bulkordr.htm)**
+  * **[Consumer Fraud, Misleading Advertising, Credit Cards, or other consumer protection matters](http://www.ftc.gov/ftc/bcppriv.htm)**
+  * [**Identity Theft**](http://www.consumer.gov/idtheft/index.html)
+  * **[Antitrust or Competition Matters](http://www.ftc.gov/ftc/bcmail.htm)**
+  * If you have technical problems with the operation of our Web sites, please report them to our **[Webmaster](http://www.ftc.gov/ftc/webmast.htm)**.
+  * If you have questions or complaints regarding our privacy policy or use of your information, please contact us at [**privacysteeringcommittee@ftc.gov**](mailto:privacysteeringcommittee@ftc.gov), or by mail at 
+
+> Privacy Steering Committee  
+>  Federal Trade Commission  
+>  600 Pennsylvania Avenue, N.W.  
+>  Washington, DC 20580  
+>  Attn: Deputy Director, Office of the Executive Director
+
+  * **[Federal Trade Commission Privacy Impact Assessments](https://web.archive.org/ftc/privacyimpactassessment.htm)**
   * Our Web sites link to documents located on sites maintained by other agencies and organizations. Once you access another site, you are subject to the privacy policy of that site.
 
 
 
-**Last Updated** : Wednesday, October 15, 2003
+**Last Updated** : Thursday, April 22, 2004
 
 * * *
 
