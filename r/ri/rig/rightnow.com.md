@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rightnow.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611014633id_/http%3A//www.rightnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightnow.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229101745id_/http%3A//www.rightnow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | RightNow Technologies
 
 ## Privacy Statement
 
-Last revised 9/18/2003
+Last revised 11/11/2004
 
 RightNow Technologies, Inc. is committed to your right to privacy. As a visitor to our website or user of our product, you deserve the ability to control the uses of your personal information. This privacy statement discloses our privacy practices.
 
@@ -86,7 +86,7 @@ We send all new Inner Circle members a welcoming email to verify password and us
 
 ### Updating Personal Information and Opting Out:
 
-We encourage our users to update our record of any personal information which changes (such as your zip code). Information can be corrected/updated on any registration form. Users can also opt out of our services by emailing a request to [info@rightnow.com](https://web.archive.org/web/20040611014633id_/http://www.rightnow.com/privacy/info@rightnow.com). Inner Circle information may be updated online at <http://www.rightnow.com/customers/inner.html>.
+We encourage our users to update our record of any personal information which changes (such as your zip code). Information can be corrected/updated on any registration form. Users can also opt out of our services by emailing a request to [info@rightnow.com](mailto:info@rightnow.com). Inner Circle information may be updated online at <http://www.rightnow.com/customers/inner.html>.
 
 ### Changes to Privacy Policy
 
@@ -96,4 +96,4 @@ RightNow will update this policy from time to time. A "last revised" date will a
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us on [cpo@rightnow.com](mailto:cpo@rightnow.com).
 
-Last revised 9/18/2003
+Last revised 11/11/2004
