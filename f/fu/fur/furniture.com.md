@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211025514id_/http%3A//www.furniture.com/Common/CustomerService/policies/default.asp%238) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401211027id_/http%3A//www.furniture.com/Common/CustomerService/policies/default.asp%238) for the most accurate reproduction.*
 
 # Furniture.com
 
@@ -89,12 +89,12 @@ No parties other than Furniture.com collect information on our site. We do not s
 
 It is true that the information you provide is subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. Other than these fairly extreme cases, your personal information will be shared with no one.
 
-Use the links on our Help page to contact us. In addition, you can write to us at privacy@furniture.com with comments or to ask for information about this privacy policy. Any e-mail you send us is kept confidential and will not be posted on our site without your written permission.  
+Use the links on our Help page to contact us. In addition, you can write to us at customerservice@furniture.com with comments or to ask for information about this privacy policy. Any e-mail you send us is kept confidential and will not be posted on our site without your written permission.  
   
 **6\. Can I tell Furniture.com not to gather or keep track of information I’ve provided? How?**  
 Yes. You can set your browser not to accept cookies, but remember that cookies make your purchases easy. They enable your computer to keep a list of items you’re considering or to place them directly in your Shopping Cart (so you don’t have to re-enter them manually).   
 **7\. How do I correct or update information about me and my order(s)?**  
-To change, correct, or update information about you or your order prior to shipment, please access the “My Account” area of our website. Alternatively, contact us at privacy@furniture.com.   
+To change, correct, or update information about you or your order prior to shipment, please access the “My Account” area of our website. Alternatively, contact us at customerservice@furniture.com.   
 **8\. Can I have my name removed from Furniture.com’s active records? How?**  
 If you would like your name removed from our active records, please send e-mail to privacy@furniture.com   
   
