@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602140650id_/http%3A//cms.hhs.gov/siteinfo/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207220140id_/http%3A//cms.hhs.gov/siteinfo/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,5 +39,3 @@ CMS web sites, we will not share any cookie information with any third parties.
 
 
 We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information. 
-
-NOTE: Additional [Privacy Act Information](http://www.hcfa.gov/privact/) is available. 
