@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotmatch.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208005730id_/http%3A//hotmatch.com/go/page/privacy.html%3Fdomain_cobrand%3Dhotmatch) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmatch.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205212030id_/http%3A//hotmatch.com/go/page/privacy.html%3Fdcb%3Dhotmatch) for the most accurate reproduction.*
 
 # HotMatch PRIVACY POLICY
 
