@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetary.org privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806153042id_/http%3A//www.planetary.org/html/society/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetary.org privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307051639id_/http%3A//www.planetary.org/html/society/privacy-statement.html) for the most accurate reproduction.*
 
 # The Planetary Society: Privacy Policy
 
@@ -23,7 +23,7 @@ Email addresses will only be used once, to notify you of the contest winner. Per
 
 #### E-mail List Server
 
-The Planetary Society offers an [e-mail list service](http://planetary.org/newsletter.html) to its members and others. This list will not be shared with any other organizations. If you do not want to receive e-mail from us in the future, please let us know.
+The Planetary Society offers an [e-mail list service](https://web.archive.org/newsletter.html) to its members and others. This list will not be shared with any other organizations. If you do not want to receive e-mail from us in the future, please let us know.
 
 #### Postal Mailing List
 
@@ -55,6 +55,6 @@ We can be reached via e-mail at [tps@planetary.org](mailto:tps@planetary.org)
 or you can reach us by telephone at 626-793-5100  
 or you can fax us at 626-793-5528.
 
-**[Site Map](https://web.archive.org/web/20040806153042id_/http%3A//www.planetary.org/html/sitemap.html)**  
+**[Site Map](https://web.archive.org/web/20050307051639id_/http%3A//www.planetary.org/html/sitemap.html)**  
 Copyright (c) 1993-2003 The Planetary Society. All rights reserved.  
 Last Updated March 12, 2003
