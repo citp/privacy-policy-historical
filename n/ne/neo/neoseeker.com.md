@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neoseeker.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601152924id_/http%3A//neoseeker.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoseeker.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202181157id_/http%3A//neoseeker.com/info/privacy.html) for the most accurate reproduction.*
 
 # Neoseeker Privacy Policy
 
@@ -29,9 +29,9 @@ Though Neoseeker will take reasonable measures to ensure that users under the ag
 **Privacy Contact Info:**
 
 **Neo Era Media, Inc.**  
-620 - 999 W. Broadway  
-Vancouver, BC, Canada, V5Z 1K5  
-Fax: (604)736-8318  
+105 - 3031 Viking Way  
+Richmond, BC, Canada, V6V 1W1  
+Fax: Available on written request  
 
 
 **Rydium Privacy Policy**
