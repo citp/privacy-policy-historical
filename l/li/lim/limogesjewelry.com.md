@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2002-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021225152246id_/http%3A//www.limogesjewelry.com/Privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618053037id_/http%3A//www.limogesjewelry.com/Privacypolicy.asp) for the most accurate reproduction.*
 
-# Limogés Jewelry
+# Quality Personalized and Name Jewelry at Discount Prices
 
 We recognize that our online customers are concerned about their personal information and how it will be used. So we have done our very best to make ordering from Limogés Jewelry a safe and hassle-free experience!  
 
