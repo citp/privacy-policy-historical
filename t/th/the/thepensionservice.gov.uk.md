@@ -1,0 +1,29 @@
+> *The following text is extracted and transformed from the thepensionservice.gov.uk privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602002410id_/http%3A//www.thepensionservice.gov.uk/privacy_policy.asp) for the most accurate reproduction.*
+
+# The Pension Service - Combined pension forecasts -
+
+## Your data
+
+The information we collect about you depends on the nature of your business with us. We will use the information you supply us with to progress any departmental business. We may check the information: 
+
+\- you provide us with or  
+\- information third parties provide us with 
+
+to see how it compares with information already held by us. 
+
+We can also get information about you from certain third parties, or give information to them to check accuracy of information. This is done to: 
+
+\- prevent or detect crime  
+\- protect public funds in other ways as permitted by the law. 
+
+We will not disclose information about you to anyone outside the Department for Work and Pensions unless the law permits us or unless you have given us your explicit consent. 
+
+Our website does not enable our visitors to communicate with other visitors or for them to post information to be accessed by others. The Department for Work and Pensions is the Data Controller for the purpose of the Data Protection Act. If you want to know more about the information we have about you, or the way we use it, you can ask at your social security office. 
+
+to top
+
+* * *
+
+The Pension Service is part of the Department for Work and Pensions. The Department was formed on 8 June 2001 from parts of the former Department of Social Security, and parts of the former Department for Education and Employment. 
+
+to top
