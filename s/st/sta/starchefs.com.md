@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the starchefs.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602044605id_/http%3A//www.starchefs.com/about_us/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starchefs.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203033306id_/http%3A//www.starchefs.com/about_us/html/privacy.shtml) for the most accurate reproduction.*
 
 # Star Chefs : Jobs at StarChefs
 
 **  
-PRIVACY STATEMENT for STARCHEFS.COM**   
-
-
-* * *
-
-  
-
+PRIVACY STATEMENT for STARCHEFS.COM**
 
 StarChefs.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following is a StarChefs disclosure of our information gathering and dissemination practices. 
 
@@ -25,30 +19,27 @@ We run contests on occasion within our site where we may ask visitors for contac
 
 Our site does contain links to other sites. We are not responsible for other sites' content. 
 
-**SECURITY**
-
 * * *
+
+**  
+SECURITY**
 
 Our site has security measures to protect users from loss, misuse and alteration of information. Specifically, the passwords and credit card information you use on our site are encrypted. Our server which is maintained by Sage Networks is continually monitored for breaches and backed up daily. Our server is also protected by a firewall. 
 
-**CHOICE/OPT-OUT AND CONTACTING STARCHEFS.COM**
-
 * * *
+
+  
+**CHOICE/OPT-OUT AND CONTACTING STARCHEFS.COM**
 
 StarChefs gives users the option to change and/or modify their information on the site by using their password and/or contacting StarChefs. Please see the section titled "CONTACTING STARCHEFS.COM." 
 
-**CONTACTING STARCHEFS.COM**
-
 * * *
+
+  
+**CONTACTING STARCHEFS.COM**
 
 StarChefs may be contacted by email, phone and/or mail. Our email address is liz@starchefs.com, our phone is 212-966-3775 and our mailing address is StarChefs.com, 9 E 19th Street, 9th Floor, New York, NY 10003. 
 
 If you have any questions about this privacy statement, the practices of our site, or your dealings with this Website, please do not hesitate to contact us. 
 
 **ENJOY!**
-
-| 
-
-  
-If your company is interested in becoming a StarChefs sponsor you can contact us by [clicking here](https://web.archive.org/salesform.php) 9 East 19th Street, 9th Floor, New York, NY 10003, Tel (212) 966-3775, Fax (212) 477-6644  
-
