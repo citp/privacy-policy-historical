@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edison.edu privacy policy that was archived on 2001-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011222142612id_/http%3A//edison.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edison.edu privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605055932id_/http%3A//www.edison.edu/privacy.htm) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
