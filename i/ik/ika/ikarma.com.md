@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ikarma.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207053248id_/http%3A//dotice.com/static.php%3Fsrc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikarma.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620160359id_/http%3A//www.dotice.com/static.php%3Fsrc%3Dprivacy) for the most accurate reproduction.*
 
-# DotIce domain brokers
+# DotICE - Domain names for sale
 
 Dotice is committed to preserving your privacy online.  
 When you visit our site, we collect two types of information from you:  
