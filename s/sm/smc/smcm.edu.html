@@ -1,598 +1,199 @@
-<!--The following is the downloaded HTML source of the smcm.edu privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203122502id_/http%3A//www.smcm.edu/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smcm.edu privacy policy that was archived on 2004-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607230028id_/http%3A//www.smcm.edu/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><head>
-<meta http-equiv="Content-Language" content="en-us">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta name="Author" content="Web Admin">
-<title>St. Mary's College of Maryland at Historic St. Mary's City</title>
-<link style="text/css" rel="stylesheet" href="http://www.smcm.edu/css/smcm.css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>St. Mary's College of Maryland | Privacy Statemenent</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/style/smcm.css" rel="stylesheet" type="text/css">
 
-<script language="JavaScript">
-<!-- Hide JavaScript from JavaScript-Impaired Browsers
-function checkVersion() {
-  if (navigator.appVersion.charAt(0)>=3)
-return true;
-  else return false;
-}
-function hilite(imgsrc, imgname) {
-  if (checkVersion()) {
-    document.images[imgname].src = imgsrc;
-  }
-  return true;
-}
-//--- Stop Hiding-->
+<script language="JavaScript"> 
+var isNN = ( navigator.appName.indexOf( "Netscape" ) != -1 ); 
+ 
+function autoTab( input,len, e ) { 
+	var keyCode	= ( isNN ) ? e.which : e.keyCode; 
+	var filter	= ( isNN ) ? [0,8,9] : [0,8,9,16,17,18,37,38,39,40,46]; 
+	if( input.value.length >= len && !containsElement( filter, keyCode )) { 
+	input.value = input.value.slice( 0, len ); 
+	input.form[( getIndex( input ) + 1 ) % input.form.length].focus(); 
+	} 
+	return true; 
+} 
+ 
+function containsElement( arr, ele ) { 
+	var found = false, index = 0; 
+	while( !found && index < arr.length ) 
+	if( arr[index] == ele ) { 
+		found = true; 
+	} else { 
+		index++; 
+	} 
+	return found; 
+} 
+ 
+function getIndex( input ) { 
+	var index = -1, i = 0, found = false; 
+	while ( i < input.form.length && index == -1 ) 
+	if ( input.form[i] == input ) { 
+		index = i; 
+	} else { 
+		i++; 
+	} 
+	return index; 
+} 
+ 
 </script>
 
 
 
-
 <script language="JavaScript">
-
 <!-- Begin
 // Set up the image files to be used.
-var theImages = new Array() // do not change this
-// To add more image files, continue with the
-// pattern below, adding to the array.
+var MottoImg = new Array() // do not change this
+var Motto = new Array()
+var Byline = new Array()
 
-theImages[0] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt2.jpg'
-theImages[1] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt3.jpg'
-theImages[2] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt4.jpg'
-theImages[3] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt5.jpg'
-theImages[4] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt6.jpg'
-theImages[5] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt7.jpg'
-theImages[6] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt8.jpg'
-theImages[7] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt9.jpg'
-theImages[8] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt10.jpg'
-theImages[9] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt11.jpg'
-theImages[10] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt12.jpg'
-theImages[11] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt13.jpg'
-theImages[12] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt14.jpg'
-theImages[13] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt15.jpg'
-theImages[14] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt16.jpg'
-theImages[15] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt17.jpg'
-theImages[16] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt18.jpg'
-theImages[17] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt19.jpg'
-theImages[18] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt20.jpg'
-theImages[19] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt21.jpg'
-theImages[20] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt22.jpg'
-theImages[21] = 'http://www.smcm.edu/images/bannerpics/Scene1Pt23.jpg'
 
-// do not edit anything below this line
+MottoImg[0] = 'http://www.smcm.edu/admissions/pics/toppic1.jpg'
+Motto[0] = 'http://www.smcm.edu/admissions/pics/motto1.gif'
+Byline[0] = 'http://www.smcm.edu/admissions/pics/byline1.gif'
+
+MottoImg[1] = 'http://www.smcm.edu/admissions/pics/toppic2.jpg'
+Motto[1] = 'http://www.smcm.edu/admissions/pics/motto2.gif'
+Byline[1] = 'http://www.smcm.edu/admissions/pics/byline2.gif'
+
+MottoImg[2] = 'http://www.smcm.edu/admissions/pics/toppic3.jpg'
+Motto[2] = 'http://www.smcm.edu/admissions/pics/motto3.gif'
+Byline[2] = 'http://www.smcm.edu/admissions/pics/byline3.gif'
+
+MottoImg[3] = 'http://www.smcm.edu/admissions/pics/toppic5.jpg'
+Motto[3] = 'http://www.smcm.edu/admissions/pics/motto5.gif'
+Byline[3] = 'http://www.smcm.edu/admissions/pics/byline5.gif'
+
 
 var j = 0
-var p = theImages.length;
+var p = Motto.length;
 var preBuffer = new Array()
 for (i = 0; i < p; i++){
    preBuffer[i] = new Image()
-   preBuffer[i].src = theImages[i]
-}
-var whichImage = Math.round(Math.random()*(p-1));
-function showImage(){
-document.write('<img src="'+theImages[whichImage]+'">');
+   preBuffer[i].src = MottoImg[i]
 }
 
-//  End -->
+var whichMotto = Math.round(Math.random()*(p-1));
+
+// End -->
+
 </script>
-
-
-
-
-
-
-
-<script language="JavaScript" src="http://www.smcm.edu/js/preload_topnav.js" type="text/javascript"></script><script language="JavaScript">
-
-var makeMenu = " "
-
-if ((navigator.appName == "Netscape") && (navigator.vendorSub != "6.2")){
-
-document.write('<SCRIPT LANGUAGE="JavaScript" src="http://www.smcm.edu/js/menu2_ns.js"><\/SCRIPT>');
-
-makeMenu += "<LAYER NAME='sO2' VISIBILITY='hide' bgcolor='#000000' LEFT=0 TOP=19 WIDTH=145px Z-INDEX=2 onmouseover='window.document.home.src=corenav_home_over.src' onmouseout='window.document.home.src=corenav_home_off.src'>"
-makeMenu += "<LAYER NAME='topO2' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=145px></layer>"
-
-makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell2' bgcolor='#999999'  WIDTH=145  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell2' WIDTH=145><a href='http://www.smcm.edu/admissions/index.cfm' class='linktext2' onmouseout='doIMouseOut(2,2)' onmouseover='doTMouseOver(-1,1,2,2);'><div id='nsmenu'>&nbsp;&nbsp;Prospective Students</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell3' bgcolor='#999999' WIDTH=145  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell3' WIDTH=145><a href='http://www.smcm.edu/students/' class='linktext2' onmouseout='doIMouseOut(3,2)' onmouseover='doTMouseOver(-1,1,3,2)'><div id='nsmenu'>&nbsp;&nbsp;Current Students</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='cell4' bgcolor='#999999' WIDTH=145  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='tell4' WIDTH=145><a href='http://www.smcm.edu/alumni/index.cfm' class='linktext2' onmouseout='doIMouseOut(4,2)' onmouseover='doTMouseOver(-1,1,4,2)'><div id='nsmenu'>&nbsp;&nbsp;Alumni</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='cell5' bgcolor='#999999' WIDTH=145  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='tell5' WIDTH=145><a href='http://www.smcm.edu/parents/index.cfm' class='linktext2' onmouseout='doIMouseOut(5,2)' onmouseover='doTMouseOver(-1,1,5,2)'><div id='nsmenu'>&nbsp;&nbsp;Parents & Families</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell6' bgcolor='#999999' WIDTH=145  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell6' WIDTH=145><a href='http://www.smcm.edu/visitors/' class='linktext2' onmouseout='doIMouseOut(6,2)' onmouseover='doTMouseOver(-1,1,6,2)'><div id='nsmenu'>&nbsp;&nbsp;Visitors & Community</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='cell206' bgcolor='#999999' WIDTH=145  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='tell206' WIDTH=145><a href='http://www.smcm.edu/facstaff/' class='linktext2' onmouseout='doIMouseOut(206,2)' onmouseover='doTMouseOver(-1,1,206,2)'><div id='nsmenu'>&nbsp;&nbsp;Faculty & Staff</div></a></LAYER>"
-
-makeMenu += "<LAYER NAME='ltsdO2' HEIGHT=86px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=3px></layer>"
-makeMenu += "<LAYER NAME='btmO2' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=86 WIDTH=148px></layer>"
-makeMenu += "<LAYER NAME='rtsdO2' HEIGHT=86px bgcolor='#000066' LEFT=145 TOP=0 WIDTH=3px></layer>"
-
-makeMenu += "</LAYER>"
-
-makeMenu += "<LAYER NAME='sO3' VISIBILITY='hide' bgcolor='#000000' LEFT=48 TOP=19 WIDTH=175px Z-INDEX=2 onmouseover='window.document.about.src=corenav_about_over.src' onmouseout='window.document.about.src=corenav_about_off.src'>"
-makeMenu += "<LAYER NAME='topO3' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=175px></layer>"
-
-makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell11' bgcolor='#999999' WIDTH=175  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell11' WIDTH=175><a href='http://www.smcm.edu/president/' class='linktext2' onmouseout='doIMouseOut(11,3)' onmouseover='doTMouseOver(-1,1,11,3);'><div id='nsmenu'>&nbsp;&nbsp;President's Welcome</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell12' bgcolor='#999999' WIDTH=175  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell12' WIDTH=175><a href='http://www.smcm.edu/about/template-aboutsmcm.cfm?doc_id=561' class='linktext2' onmouseout='doIMouseOut(12,3)' onmouseover='doTMouseOver(-1,1,12,3)'><div id='nsmenu'>&nbsp;&nbsp;College History and Progress</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='cell13' bgcolor='#999999' WIDTH=175  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='tell13' WIDTH=175><a href='http://www.smcm.edu/instresearch/index.cfm' class='linktext2' onmouseout='doIMouseOut(13,3)' onmouseover='doTMouseOver(-1,1,13,3)'><div id='nsmenu'>&nbsp;&nbsp;Factbook</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='cell14' bgcolor='#999999' WIDTH=175  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='tell14' WIDTH=175><a href='http://www.smcm.edu/trustees/' class='linktext2' onmouseout='doIMouseOut(14,3)' onmouseover='doTMouseOver(-1,1,14,3)'><div id='nsmenu'>&nbsp;&nbsp;Board of Trustees</div></a></LAYER>"
-<!-- makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell15' bgcolor='#999999' WIDTH=175  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell15' WIDTH=175><a href='about/alumni_notable.htm' class='linktext2' onmouseout='doIMouseOut(15,3)' onmouseover='doTMouseOver(-1,1,15,3)'><div id='nsmenu'>&nbsp;&nbsp;Notable Alumni</div></a></LAYER>" -->
-makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell16' bgcolor='#999999' WIDTH=175  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell16' WIDTH=175><a href='http://www.smcm.edu/development/index.cfm' class='linktext2' onmouseout='doIMouseOut(16,3)' onmouseover='doTMouseOver(-1,1,16,3)'><div id='nsmenu'>&nbsp;&nbsp;Fund Raising</div></a></LAYER>"
-<!-- makeMenu += "<LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='cell17' bgcolor='#999999' WIDTH=175  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='tell17' WIDTH=175><a href='about/community_partners.htm' class='linktext2' onmouseout='doIMouseOut(17,3)' onmouseover='doTMouseOver(-1,1,17,3)'><div id='nsmenu'>&nbsp;&nbsp;Community Partnerships</div></a></LAYER>" -->
-
-makeMenu += "<LAYER NAME='ltsdO3' HEIGHT=74px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=3px></layer>"
-makeMenu += "<LAYER NAME='btmO3' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=74 WIDTH=178px></layer>"
-makeMenu += "<LAYER NAME='rtsdO3' HEIGHT=74px bgcolor='#000066' LEFT=175 TOP=0 WIDTH=3px></layer>"
-
-makeMenu += "</LAYER>"
-
-makeMenu += "<LAYER NAME='sO4' VISIBILITY='hide' bgcolor='#000000' LEFT=161 TOP=19 WIDTH=166px Z-INDEX=2 onmouseover='window.document.academics.src=corenav_academics_over.src' onmouseout='window.document.academics.src=corenav_academics_off.src'>"
-makeMenu += "<LAYER NAME='topO4' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=166px></layer>"
-
-<!-- makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell20' bgcolor='#999999' WIDTH=166  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell20' WIDTH=166><a href='http://www.smcm.edu/academics/' class='linktext2' onmouseout='doIMouseOut(20,4)' onmouseover='doTMouseOver(-1,1,20,4);'><div id='nsmenu'>&nbsp;&nbsp;Departments and Majors</div></a></LAYER>" -->
-makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell21' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell21' WIDTH=166><a href='http://calendar.smcm.edu/cgi-bin/listEvents.pl?eventType=Academic+Calendar&show=month' class='linktext2' onmouseout='doIMouseOut(21,4)' onmouseover='doTMouseOver(-1,1,21,4)'><div id='nsmenu'>&nbsp;&nbsp;Academic Calendar</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell22' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell22' WIDTH=166><a href='http://www.smcm.edu/webcat/' class='linktext2' onmouseout='doIMouseOut(22,4)' onmouseover='doTMouseOver(-1,1,22,4)'><div id='nsmenu'>&nbsp;&nbsp;Academic Catalogs</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='cell222' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='tell222' WIDTH=166><a href='http://www.smcm.edu/academics/' class='linktext2' onmouseout='doIMouseOut(222,4)' onmouseover='doTMouseOver(-1,1,222,4)'><div id='nsmenu'>&nbsp;&nbsp;Academic Divisions</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='cell23' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='tell23' WIDTH=166><a href='http://www.smcm.edu/provost/index.cfm' class='linktext2' onmouseout='doIMouseOut(23,4)' onmouseover='doTMouseOver(-1,1,23,4)'><div id='nsmenu'>&nbsp;&nbsp;Provost</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell24' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell24' WIDTH=166><a href='http://www.smcm.edu/academicserv/' class='linktext2' onmouseout='doIMouseOut(24,4)' onmouseover='doTMouseOver(-1,1,24,4)'><div id='nsmenu'>&nbsp;&nbsp;Academic Services</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='cell25' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='tell25' WIDTH=166><a href='http://www.smcm.edu/registrar/' class='linktext2' onmouseout='doIMouseOut(25,4)' onmouseover='doTMouseOver(-1,1,25,4)'><div id='nsmenu'>&nbsp;&nbsp;Registrar</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='cell26' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='tell26' WIDTH=166><a href='http://www.smcm.edu/continuinged/' class='linktext2' onmouseout='doIMouseOut(26,4)' onmouseover='doTMouseOver(-1,1,26,4)'><div id='nsmenu'>&nbsp;&nbsp;Continuing Education</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=100 LEFT=1 NAME='cell27' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=100 LEFT=1 NAME='tell27' WIDTH=166><a href='http://www.smcm.edu/Academics/Scholars/index.cfm' class='linktext2' onmouseout='doIMouseOut(27,4)' onmouseover='doTMouseOver(-1,1,27,4)'><div id='nsmenu'>&nbsp;&nbsp;Scholars Program</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=114 LEFT=1 NAME='cell28' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=114 LEFT=1 NAME='tell28' WIDTH=166><a href='http://www.smcm.edu/academics/smp/index.cfm' class='linktext2' onmouseout='doIMouseOut(28,4)' onmouseover='doTMouseOver(-1,1,28,4)'><div id='nsmenu'>&nbsp;&nbsp;St. Mary's Project</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=128 LEFT=1 NAME='cell29' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=128 LEFT=1 NAME='tell29' WIDTH=166><a href='http://www.smcm.edu/academics/internationaled/' class='linktext2' onmouseout='doIMouseOut(29,4)' onmouseover='doTMouseOver(-1,1,29,4)'><div id='nsmenu'>&nbsp;&nbsp;International Studies</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=142 LEFT=1 NAME='cell30' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=142 LEFT=1 NAME='tell30' WIDTH=166><a href='http://www.smcm.edu/academics/internationaled/' class='linktext2' onmouseout='doIMouseOut(30,4)' onmouseover='doTMouseOver(-1,1,30,4)'><div id='nsmenu'>&nbsp;&nbsp;Student Exchange Programs</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=156 LEFT=1 NAME='cell31' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=156 LEFT=1 NAME='tell31' WIDTH=166><a href='http://www.smcm.edu/commservice/' class='linktext2' onmouseout='doIMouseOut(31,4)' onmouseover='doTMouseOver(-1,1,31,4)'><div id='nsmenu'>&nbsp;&nbsp;Community Service</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=170 LEFT=1 NAME='cell32' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=170 LEFT=1 NAME='tell32' WIDTH=166><a href='http://www.smcm.edu/facstaff/' class='linktext2' onmouseout='doIMouseOut(32,4)' onmouseover='doTMouseOver(-1,1,32,4)'><div id='nsmenu'>&nbsp;&nbsp;Faculty & Staff</div></a></LAYER>"
-
-makeMenu += "<LAYER NAME='ltsdO4' HEIGHT=184px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=3px></layer>"
-makeMenu += "<LAYER NAME='btmO4' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=184 WIDTH=169px></layer>"
-makeMenu += "<LAYER NAME='rtsdO4' HEIGHT=184px bgcolor='#000066' LEFT=166 TOP=0 WIDTH=3px></layer>"
-
-makeMenu += "</LAYER>"
-
-makeMenu += "<LAYER NAME='sO5' VISIBILITY='hide' bgcolor='#000000' LEFT=237 TOP=19 WIDTH=300px Z-INDEX=2 onmouseover='window.document.administration.src=corenav_administration_over.src' onmouseout='window.document.administration.src=corenav_administration_off.src'>"
-makeMenu += "<LAYER NAME='topO5' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=300px></layer>"
-
-<!-- makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell7' bgcolor='#999999' WIDTH=200  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell7' WIDTH=200><a href='http://www.smcm.edu/admin/' class='linktext2' onmouseout='doIMouseOut(7,5)' onmouseover='doTMouseOver(-1,1,7,5);'><div id='nsmenu'>&nbsp;&nbsp;Administration</div></a></LAYER>" -->
-makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell8' bgcolor='#999999' WIDTH=300 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell8' WIDTH=300><a href='http://www.smcm.edu/president/' class='linktext2' onmouseout='doIMouseOut(8,5)' onmouseover='doTMouseOver(-1,1,8,5)'><div id='nsmenu'>&nbsp;&nbsp;President</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell9' bgcolor='#999999' WIDTH=300 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell9' WIDTH=300><a href='http://www.smcm.edu/provost/index.cfm' class='linktext2' onmouseout='doIMouseOut(9,5)' onmouseover='doTMouseOver(-1,1,9,5)'><div id='nsmenu'>&nbsp;&nbsp;Provost</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='cell33' bgcolor='#999999' WIDTH=300  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='tell33' WIDTH=300><a href='http://www.smcm.edu/studentaffairs/' class='linktext2' onmouseout='doIMouseOut(33,5)' onmouseover='doTMouseOver(-1,1,33,5);'><div id='nsmenu'>&nbsp;&nbsp;Vice President & Dean of the College</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='cell34' bgcolor='#999999' WIDTH=300 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='tell34' WIDTH=300><a href='http://www.smcm.edu/busandfinance/' class='linktext2' onmouseout='doIMouseOut(34,5)' onmouseover='doTMouseOver(-1,1,34,5)'><div id='nsmenu'>&nbsp;&nbsp;Vice President for Business and Finance</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell35' bgcolor='#999999' WIDTH=300 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell35' WIDTH=300><a href='http://www.smcm.edu/development/index.cfm' class='linktext2' onmouseout='doIMouseOut(35,5)' onmouseover='doTMouseOver(-1,1,35,5)'><div id='nsmenu'>&nbsp;&nbsp;Vice President for Development</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='cell96' bgcolor='#999999' WIDTH=300 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='tell96' WIDTH=300><a href='http://www.smcm.edu/communications/' class='linktext2' onmouseout='doIMouseOut(96,5)' onmouseover='doTMouseOver(-1,1,96,5)'><div id='nsmenu'>&nbsp;&nbsp;Vice President for Communications & New Initiatives</div></a></LAYER>"
-
-makeMenu += "<LAYER NAME='ltsdO5' HEIGHT=86px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=3px></layer>"
-makeMenu += "<LAYER NAME='btmO5' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=86 WIDTH=303px></layer>"
-makeMenu += "<LAYER NAME='rtsdO5' HEIGHT=86px bgcolor='#000066' LEFT=300 TOP=0 WIDTH=3px></layer>"
-
-makeMenu += "</LAYER>"
-
-makeMenu += "<LAYER NAME='sO6' VISIBILITY='hide' bgcolor='#000000' LEFT=335 TOP=19 WIDTH=181px Z-INDEX=2 onmouseover='window.document.admissions.src=corenav_admissions_over.src' onmouseout='window.document.admissions.src=corenav_admissions_off.src'>"
-makeMenu += "<LAYER NAME='topO6' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=181px></layer>"
-
-makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell36' bgcolor='#999999' WIDTH=181  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell36' WIDTH=181><a href='http://www.smcm.edu/admissions/template-admissions.cfm?doc_id=97' class='linktext2' onmouseout='doIMouseOut(36,6)' onmouseover='doTMouseOver(-1,1,36,6);'><div id='nsmenu'>&nbsp;&nbsp;The SMCM Experience!</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell37' bgcolor='#999999' WIDTH=181 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell37' WIDTH=181><a href='http://www.smcm.edu/admissions/index.cfm' class='linktext2' onmouseout='doIMouseOut(37,6)' onmouseover='doTMouseOver(-1,1,37,6)'><div id='nsmenu'>&nbsp;&nbsp;Arrange a Visit</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='cell38' bgcolor='#999999' WIDTH=181 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='tell38' WIDTH=181><a href='http://hp1.smcm.edu:9045/cgi-bin/public/apply2.cgi' class='linktext2' onmouseout='doIMouseOut(38,6)' onmouseover='doTMouseOver(-1,1,38,6)'><div id='nsmenu'>&nbsp;&nbsp;Apply!</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='cell39' bgcolor='#999999' WIDTH=181 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='tell39' WIDTH=181><a href='http://www.smcm.edu/admissions/template-admissions.cfm?doc_id=103' class='linktext2' onmouseout='doIMouseOut(39,6)' onmouseover='doTMouseOver(-1,1,39,6)'><div id='nsmenu'>&nbsp;&nbsp;Frequently Asked Questions</div></a></LAYER>"
-<!-- makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell40' bgcolor='#999999' WIDTH=181 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell40' WIDTH=181><a href='admissions/student_profiles.htm' class='linktext2' onmouseout='doIMouseOut(40,6)' onmouseover='doTMouseOver(-1,1,40,6)'><div id='nsmenu'>&nbsp;&nbsp;Student Profiles</div></a></LAYER>" -->
-makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell41' bgcolor='#999999' WIDTH=181 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell41' WIDTH=181><a href='http://www.smcm.edu/residencelife/' class='linktext2' onmouseout='doIMouseOut(41,6)' onmouseover='doTMouseOver(-1,1,41,6)'><div id='nsmenu'>&nbsp;&nbsp;Campus Housing</div></a></LAYER>"
-<!-- makeMenu += "<LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='cell42' bgcolor='#999999' WIDTH=181 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='tell42' WIDTH=181><a href='admissions/area_information.htm' class='linktext2' onmouseout='doIMouseOut(42,6)' onmouseover='doTMouseOver(-1,1,42,6)'><div id='nsmenu'>&nbsp;&nbsp;Area Information</div></a></LAYER>" -->
-makeMenu += "<LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='cell43' bgcolor='#999999' WIDTH=181 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='tell43' WIDTH=181><a href='http://www.smcm.edu/businessoffice/template-business.cfm?doc_id=296' class='linktext2' onmouseout='doIMouseOut(43,6)' onmouseover='doTMouseOver(-1,1,43,6)'><div id='nsmenu'>&nbsp;&nbsp;Tuition and Fees</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='cell44' bgcolor='#999999' WIDTH=181 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='tell44' WIDTH=181><a href='http://www.smcm.edu/financialaid/' class='linktext2' onmouseout='doIMouseOut(44,6)' onmouseover='doTMouseOver(-1,1,44,6)'><div id='nsmenu'>&nbsp;&nbsp;Financial Aid & Scholarships</div></a></LAYER>"
-
-makeMenu += "<LAYER NAME='ltsdO6' HEIGHT=100px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=3px></layer>"
-makeMenu += "<LAYER NAME='btmO6' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=100 WIDTH=184px></layer>"
-makeMenu += "<LAYER NAME='rtsdO6' HEIGHT=100px bgcolor='#000066' LEFT=181 TOP=0 WIDTH=3px></layer>"
-
-makeMenu += "</LAYER>"
-
-makeMenu += "<LAYER NAME='sO7' VISIBILITY='hide' bgcolor='#000000' LEFT=413 TOP=19 WIDTH=200px Z-INDEX=2 onmouseover='window.document.athletics.src=corenav_athletics_over.src' onmouseout='window.document.athletics.src=corenav_athletics_off.src'>"
-makeMenu += "<LAYER NAME='topO7' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=200px></layer>"
-
-makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell45' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell45' WIDTH=200><a href='http://www.smcm.edu/athletics/headlines/' class='linktext2' onmouseout='doIMouseOut(45,7)' onmouseover='doTMouseOver(-1,1,45,7)'><div id='nsmenu'>&nbsp;&nbsp;Sports Headlines</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell46' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell46' WIDTH=200><a href='http://www.smcm.edu/athletics/seahawks_association/index.htm' class='linktext2' onmouseout='doIMouseOut(46,7)' onmouseover='doTMouseOver(-1,1,46,7)'><div id='nsmenu'>&nbsp;&nbsp;Seahawks Association</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='cell47' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='tell47' WIDTH=200><a href='http://www.smcm.edu/athletics/varsity_sports/index.htm' class='linktext2' onmouseout='doIMouseOut(47,7)' onmouseover='doTMouseOver(-1,1,47,7)'><div id='nsmenu'>&nbsp;&nbsp;Schedule</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='cell48' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='tell48' WIDTH=200><a href='http://www.smcm.edu/athletics/varsity_sports/index.htm' class='linktext2' onmouseout='doIMouseOut(48,7)' onmouseover='doTMouseOver(-1,1,48,7)'><div id='nsmenu'>&nbsp;&nbsp;Varsity Sports</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell50' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell50' WIDTH=200><a href='http://www.smcm.edu/athletics/scoreboard/index.htm' class='linktext2' onmouseout='doIMouseOut(50,7)' onmouseover='doTMouseOver(-1,1,50,7)'><div id='nsmenu'>&nbsp;&nbsp;Scoreboard</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='cell51' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='tell51' WIDTH=200><a href='http://www.smcm.edu/athletics/facilities/index.htm' class='linktext2' onmouseout='doIMouseOut(51,7)' onmouseover='doTMouseOver(-1,1,51,7)'><div id='nsmenu'>&nbsp;&nbsp;Facilities & Hours</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='cell52' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='tell52' WIDTH=200><a href='http://www.smcm.edu/athletics/staff_directory/index.htm' class='linktext2' onmouseout='doIMouseOut(52,7)' onmouseover='doTMouseOver(-1,1,52,7);'><div id='nsmenu'>&nbsp;&nbsp;Athletics Staff</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=100 LEFT=1 NAME='cell53' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=100 LEFT=1 NAME='tell53' WIDTH=200><a href='http://www.smcm.edu/athletics/saab/index.htm' class='linktext2' onmouseout='doIMouseOut(53,7)' onmouseover='doTMouseOver(-1,1,53,7)'><div id='nsmenu'>&nbsp;&nbsp;Student Athlete Advisory Board</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=114 LEFT=1 NAME='cell54' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=114 LEFT=1 NAME='tell54' WIDTH=200><a href='http://www.smcm.edu/athletics/campus_recreation/index.htm' class='linktext2' onmouseout='doIMouseOut(54,7)' onmouseover='doTMouseOver(-1,1,54,7)'><div id='nsmenu'>&nbsp;&nbsp;Recreational & Club Sports</div></a></LAYER>"
-<!-- makeMenu += "<LAYER HEIGHT=14px TOP=128 LEFT=1 NAME='cell55' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=128 LEFT=1 NAME='tell55' WIDTH=200><a href='http://www.smcm.edu/stulife/cheerleading/' class='linktext2' onmouseout='doIMouseOut(55,7)' onmouseover='doTMouseOver(-1,1,55,7)'><div id='nsmenu'>&nbsp;&nbsp;Cheerleading Club</div></a></LAYER>" -->
-makeMenu += "<LAYER HEIGHT=14px TOP=128 LEFT=1 NAME='cell56' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=128 LEFT=1 NAME='tell56' WIDTH=200><a href='http://www.smcm.edu/athletics/sports_medicine/index.htm' class='linktext2' onmouseout='doIMouseOut(56,7)' onmouseover='doTMouseOver(-1,1,56,7)'><div id='nsmenu'>&nbsp;&nbsp;Sports Medicine</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=142 LEFT=1 NAME='cell57' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=142 LEFT=1 NAME='tell57' WIDTH=200><a href='http://www.ycp.edu/cac/' class='linktext2' onmouseout='doIMouseOut(57,7)' onmouseover='doTMouseOver(-1,1,57,7)'><div id='nsmenu'>&nbsp;&nbsp;Capital Athletics Conference</div></a></LAYER>"
-
-makeMenu += "<LAYER NAME='ltsdO7' HEIGHT=156px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=3px></layer>"
-makeMenu += "<LAYER NAME='btmO7' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=156 WIDTH=203px></layer>"
-makeMenu += "<LAYER NAME='rtsdO7' HEIGHT=156px bgcolor='#000066' LEFT=200 TOP=0 WIDTH=3px></layer>"
-
-makeMenu += "</LAYER>"
-
-makeMenu += "<LAYER NAME='sO8' VISIBILITY='hide' bgcolor='#000000' LEFT=478 TOP=19 WIDTH=200px Z-INDEX=2 onmouseover='window.document.campus.src=corenav_campus_over.src' onmouseout='window.document.campus.src=corenav_campus_off.src'>"
-makeMenu += "<LAYER NAME='topO8' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=200px></layer>"
-
-makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell58' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell58' WIDTH=200><a href='http://www.smcm.edu/directions/' class='linktext2' onmouseout='doIMouseOut(58,8)' onmouseover='doTMouseOver(-1,1,58,8)'><div id='nsmenu'>&nbsp;&nbsp;Directions to St. Mary's</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell59' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell59' WIDTH=200><a href='http://www.smcm.edu/map/index.cfm' class='linktext2' onmouseout='doIMouseOut(59,8)' onmouseover='doTMouseOver(-1,1,59,8)'><div id='nsmenu'>&nbsp;&nbsp;Campus Maps</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='cell60' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='tell60' WIDTH=200><a href='http://www.smcm.edu/vtour/' class='linktext2' onmouseout='doIMouseOut(60,8)' onmouseover='doTMouseOver(-1,1,60,8)'><div id='nsmenu'>&nbsp;&nbsp;Virtual Tour</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='cell61' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='tell61' WIDTH=200><a href='http://www.smcm.edu/facilities/template-facilities.cfm?doc_id=363' class='linktext2' onmouseout='doIMouseOut(61,8)' onmouseover='doTMouseOver(-1,1,61,8)'><div id='nsmenu'>&nbsp;&nbsp;Campus Planning</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell62' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell62' WIDTH=200><a href='http://www.smcm.edu/cc/index.cfm' class='linktext2' onmouseout='doIMouseOut(62,8)' onmouseover='doTMouseOver(-1,1,62,8)'><div id='nsmenu'>&nbsp;&nbsp;Campus Center</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='cell241' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='tell241' WIDTH=200><a href='http://www.smcm.edu/residencelife/' class='linktext2' onmouseout='doIMouseOut(241,8)' onmouseover='doTMouseOver(-1,1,241,8)'><div id='nsmenu'>&nbsp;&nbsp;Residence Life</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='cell63' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='tell63' WIDTH=200><a href='http://www.smcm.edu/campusstore/' class='linktext2' onmouseout='doIMouseOut(63,8)' onmouseover='doTMouseOver(-1,1,63,8)'><div id='nsmenu'>&nbsp;&nbsp;Campus Store</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=100 LEFT=1 NAME='cell64' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=100 LEFT=1 NAME='tell64' WIDTH=200><a href='http://www.smcm.edu/foodservice/index.cfm' class='linktext2' onmouseout='doIMouseOut(64,8)' onmouseover='doTMouseOver(-1,1,64,8)'><div id='nsmenu'>&nbsp;&nbsp;Dining</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=114 LEFT=1 NAME='cell65' bgcolor='#999999' WIDTH=200 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=114 LEFT=1 NAME='tell65' WIDTH=200><a href='http://www.smcm.edu/publicsafety/' class='linktext2' onmouseout='doIMouseOut(65,8)' onmouseover='doTMouseOver(-1,1,65,8)'><div id='nsmenu'>&nbsp;&nbsp;Public Safety</div></a></LAYER>"
-
-makeMenu += "<LAYER NAME='ltsdO8' HEIGHT=128px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=3px></layer>"
-makeMenu += "<LAYER NAME='btmO8' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=128 WIDTH=203px></layer>"
-makeMenu += "<LAYER NAME='rtsdO8' HEIGHT=128px bgcolor='#000066' LEFT=200 TOP=0 WIDTH=3px></layer>"
-
-makeMenu += "</LAYER>"
-
-makeMenu += "<LAYER NAME='sO9' VISIBILITY='hide' bgcolor='#000000' LEFT=534 TOP=19 WIDTH=166px Z-INDEX=2 onmouseover='window.document.library.src=corenav_library_over.src' onmouseout='window.document.library.src=corenav_library_off.src'>"
-makeMenu += "<LAYER NAME='topO9' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=166px></layer>"
-
-makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell66' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell66' WIDTH=166><a href='http://www.smcm.edu/library/template-library.cfm?doc_id=704' class='linktext2' onmouseout='doIMouseOut(66,9)' onmouseover='doTMouseOver(-1,1,66,9)'><div id='nsmenu'>&nbsp;&nbsp;Library Hours</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell67' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell67' WIDTH=166><a href='http://www.smcm.edu/library/template-library.cfm?doc_id=705' class='linktext2' onmouseout='doIMouseOut(67,9)' onmouseover='doTMouseOver(-1,1,67,9)'><div id='nsmenu'>&nbsp;&nbsp;Library Staff</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='cell68' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='tell68' WIDTH=166><a href='http://www.smcm.edu/library/template-library.cfm?doc_id=815' class='linktext2' onmouseout='doIMouseOut(68,9)' onmouseover='doTMouseOver(-1,1,68,9)'><div id='nsmenu'>&nbsp;&nbsp;Course Reserves</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='cell69' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='tell69' WIDTH=166><a href='http://www.smcm.edu/library/template-library.cfm?doc_id=707' class='linktext2' onmouseout='doIMouseOut(69,9)' onmouseover='doTMouseOver(-1,1,69,9)'><div id='nsmenu'>&nbsp;&nbsp;Interlibrary Loan</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell70' bgcolor='#999999' WIDTH=166  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell70' WIDTH=166><a href='http://www.smcm.edu/library/template-library.cfm?doc_id=708' class='linktext2' onmouseout='doIMouseOut(70,9)' onmouseover='doTMouseOver(-1,1,70,9);'><div id='nsmenu'>&nbsp;&nbsp;Research Databases</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='cell71' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='tell71' WIDTH=166><a href='http://www.smcm.edu/library/template-library.cfm?doc_id=709' class='linktext2' onmouseout='doIMouseOut(71,9)' onmouseover='doTMouseOver(-1,1,71,9)'><div id='nsmenu'>&nbsp;&nbsp;Academic Div Resources</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='cell72' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='tell72' WIDTH=166><a href='http://www.smcm.edu/library/template-libquick.cfm?doc_id=803' class='linktext2' onmouseout='doIMouseOut(72,9)' onmouseover='doTMouseOver(-1,1,72,9)'><div id='nsmenu'>&nbsp;&nbsp;New Materials</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=100 LEFT=1 NAME='cell73' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=100 LEFT=1 NAME='tell73' WIDTH=166><a href='http://www.smcm.edu/library/template-library.cfm?doc_id=711' class='linktext2' onmouseout='doIMouseOut(73,9)' onmouseover='doTMouseOver(-1,1,73,9)'><div id='nsmenu'>&nbsp;&nbsp;Internet Resources</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=114 LEFT=1 NAME='cell74' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=114 LEFT=1 NAME='tell74' WIDTH=166><a href='http://victorweb.lib.umd.edu' class='linktext2' onmouseout='doIMouseOut(74,9)' onmouseover='doTMouseOver(-1,1,74,9)'><div id='nsmenu'>&nbsp;&nbsp;VICTOR</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=128 LEFT=1 NAME='cell75' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=128 LEFT=1 NAME='tell75' WIDTH=166><a href='http://www.smcm.edu/library/template-library.cfm?doc_id=712' class='linktext2' onmouseout='doIMouseOut(75,9)' onmouseover='doTMouseOver(-1,1,75,9)'><div id='nsmenu'>&nbsp;&nbsp;Other Libraries</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=142 LEFT=1 NAME='cell76' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=142 LEFT=1 NAME='tell76' WIDTH=166><a href='http://www.smcm.edu/library/template-library.cfm?doc_id=713' class='linktext2' onmouseout='doIMouseOut(76,9)' onmouseover='doTMouseOver(-1,1,76,9)'><div id='nsmenu'>&nbsp;&nbsp;Maryland Digital Library</div></a></LAYER>"
-<!-- makeMenu += "<LAYER HEIGHT=14px TOP=156 LEFT=1 NAME='cell77' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=156 LEFT=1 NAME='tell77' WIDTH=166><a href='library/new_materials.htm' class='linktext2' onmouseout='doIMouseOut(77,9)' onmouseover='doTMouseOver(-1,1,77,9)'><div id='nsmenu'>&nbsp;&nbsp;New Materials</div></a></LAYER>" -->
-
-makeMenu += "<LAYER NAME='ltsdO9' HEIGHT=156px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=3px></layer>"
-makeMenu += "<LAYER NAME='btmO9' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=156 WIDTH=169px></layer>"
-makeMenu += "<LAYER NAME='rtsdO9' HEIGHT=156px bgcolor='#000066' LEFT=166 TOP=0 WIDTH=3px></layer>"
-
-makeMenu += "</LAYER>"
-
-makeMenu += "<LAYER NAME='sO10' VISIBILITY='hide' bgcolor='#000000' LEFT=589 TOP=19 WIDTH=166px Z-INDEX=2 onmouseover='window.document.newsevents.src=corenav_newsevents_over.src' onmouseout='window.document.newsevents.src=corenav_newsevents_off.src'>"
-makeMenu += "<LAYER NAME='topO10' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=166px></layer>"
-
-makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell78' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell78' WIDTH=166><a href='http://www.smcm.edu/newsevents/template-newsevents.cfm?doc_id=664' class='linktext2' onmouseout='doIMouseOut(78,10)' onmouseover='doTMouseOver(-1,1,78,10)'><div id='nsmenu'>&nbsp;&nbsp;SMCM in the News</div></a></LAYER>"
-<!-- makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell79' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell79' WIDTH=166><a href='newsevents/ratings.htm' class='linktext2' onmouseout='doIMouseOut(79,10)' onmouseover='doTMouseOver(-1,1,79,10)'><div id='nsmenu'>&nbsp;&nbsp;Ratings & Reviews</div></a></LAYER>" -->
-<!-- makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell80' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell80' WIDTH=166><a href='http://www.smcm.edu/newsevents/template-newsevents.cfm?doc_id=665' class='linktext2' onmouseout='doIMouseOut(80,10)' onmouseover='doTMouseOver(-1,1,80,10)'><div id='nsmenu'>&nbsp;&nbsp;Press Releases</div></a></LAYER>" -->
-makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell81' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell81' WIDTH=166><a href='http://calendar.smcm.edu' href='/student/triangle/index.html' class='linktext2' onmouseout='doIMouseOut(81,10)' onmouseover='doTMouseOver(-1,1,81,10)'><div id='nsmenu'>&nbsp;&nbsp;Events Calendar</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='cell82' bgcolor='#999999' WIDTH=166  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='tell82' WIDTH=166><a href='http://www.smcm.edu/bulletin/' class='linktext2' onmouseout='doIMouseOut(82,10)' onmouseover='doTMouseOver(-1,1,82,10);'><div id='nsmenu'>&nbsp;&nbsp;Bulletin</div></a></LAYER>"
-<!-- makeMenu += "<LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='cell83' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='tell83' WIDTH=166><a href='newsevents/summer_programs.htm' class='linktext2' onmouseout='doIMouseOut(83,10)' onmouseover='doTMouseOver(-1,1,83,10)'><div id='nsmenu'>&nbsp;&nbsp;Summer Programs</div></a></LAYER>" -->
-makeMenu += "<LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='cell84' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='tell84' WIDTH=166><a href='http://www.smcm.edu/rcs/index.cfm' class='linktext2' onmouseout='doIMouseOut(84,10)' onmouseover='doTMouseOver(-1,1,84,10)'><div id='nsmenu'>&nbsp;&nbsp;River Concerts</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell85' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell85' WIDTH=166><a href='http://www.smcm.edu/rivergazette/' class='linktext2' onmouseout='doIMouseOut(85,10)' onmouseover='doTMouseOver(-1,1,85,10)'><div id='nsmenu'>&nbsp;&nbsp;River Gazette</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='cell86' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='tell86' WIDTH=166><a href='http://www.smcm.edu/artsalliance/' class='linktext2' onmouseout='doIMouseOut(86,10)' onmouseover='doTMouseOver(-1,1,86,10)'><div id='nsmenu'>&nbsp;&nbsp;Arts Alliance</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='cell87' bgcolor='#999999' WIDTH=166 VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='tell87' WIDTH=166><a href='http://www.smcm.edu/pointnews/' class='linktext2' onmouseout='doIMouseOut(87,10)' onmouseover='doTMouseOver(-1,1,87,10)'><div id='nsmenu'>&nbsp;&nbsp;The Point News</div></a></LAYER>"
-
-makeMenu += "<LAYER NAME='ltsdO10' HEIGHT=100px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=3px></layer>"
-makeMenu += "<LAYER NAME='btmO10' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=100 WIDTH=169px></layer>"
-makeMenu += "<LAYER NAME='rtsdO10' HEIGHT=100px bgcolor='#000066' LEFT=166 TOP=0 WIDTH=3px></layer>"
-
-makeMenu += "</LAYER>"
-
-makeMenu += "<LAYER NAME='sO11' VISIBILITY='hide' bgcolor='#000000' LEFT=605 TOP=19 WIDTH=160px Z-INDEX=2 onmouseover='window.document.services.src=corenav_services_over.src' onmouseout='window.document.services.src=corenav_services_off.src'>"
-makeMenu += "<LAYER NAME='topO11' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=160px></layer>"
-
-makeMenu += "<LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='cell88' bgcolor='#999999' WIDTH=160  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=2 LEFT=1 NAME='tell88' WIDTH=160><a href='http://www.smcm.edu/ltr/index.cfm' class='linktext2' onmouseout='doIMouseOut(88,11)' onmouseover='doTMouseOver(-1,1,88,11);'><div id='nsmenu'>&nbsp;&nbsp;Technology Services</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='cell89' bgcolor='#999999' WIDTH=160  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=16 LEFT=1 NAME='tell89' WIDTH=160><a href='http://www.smcm.edu/helpdesk/' class='linktext2' onmouseout='doIMouseOut(89,11)' onmouseover='doTMouseOver(-1,1,89,11)'><div id='nsmenu'>&nbsp;&nbsp;Help Desk</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='cell90' bgcolor='#999999' WIDTH=160  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=30 LEFT=1 NAME='tell90' WIDTH=160><a href='http://www.smcm.edu/mediaservices/' class='linktext2' onmouseout='doIMouseOut(90,11)' onmouseover='doTMouseOver(-1,1,90,11)'><div id='nsmenu'>&nbsp;&nbsp;Media Services</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='cell91' bgcolor='#999999' WIDTH=160  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=44 LEFT=1 NAME='tell91' WIDTH=160><a href='http://www.smcm.edu/health/' class='linktext2' onmouseout='doIMouseOut(91,11)' onmouseover='doTMouseOver(-1,1,91,11);'><div id='nsmenu'>&nbsp;&nbsp;Health Services</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='cell192' bgcolor='#999999' WIDTH=160  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=58 LEFT=1 NAME='tell192' WIDTH=160><a href='http://www.smcm.edu/counseling/index.cfm' class='linktext2' onmouseout='doIMouseOut(192,11)' onmouseover='doTMouseOver(-1,1,192,11)'><div id='nsmenu'>&nbsp;&nbsp;Counseling Services</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='cell92' bgcolor='#999999' WIDTH=160  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=72 LEFT=1 NAME='tell92' WIDTH=160><a href='http://www.smcm.edu/publicsafety/' class='linktext2' onmouseout='doIMouseOut(92,11)' onmouseover='doTMouseOver(-1,1,92,11)'><div id='nsmenu'>&nbsp;&nbsp;Public Safety</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='cell93' bgcolor='#999999' WIDTH=160  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=86 LEFT=1 NAME='tell93' WIDTH=160><a href='http://www.smcm.edu/careercenter/' class='linktext2' onmouseout='doIMouseOut(93,11)' onmouseover='doTMouseOver(-1,1,93,11)'><div id='nsmenu'>&nbsp;&nbsp;Career Services</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=100 LEFT=1 NAME='cell94' bgcolor='#999999' WIDTH=160  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=100 LEFT=1 NAME='tell94' WIDTH=160><a href='http://www.smcm.edu/foodservice/index.cfm' class='linktext2' onmouseout='doIMouseOut(94,11)' onmouseover='doTMouseOver(-1,1,94,11)'><div id='nsmenu'>&nbsp;&nbsp;Dining Services</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=114 LEFT=1 NAME='cell95' bgcolor='#999999' WIDTH=160  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=114 LEFT=1 NAME='tell95' WIDTH=160><a href='http://www.smcm.edu/financialaid/' class='linktext2' onmouseout='doIMouseOut(95,11)' onmouseover='doTMouseOver(-1,1,95,11)'><div id='nsmenu'>&nbsp;&nbsp;Financial Aid</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=128 LEFT=1 NAME='cell295' bgcolor='#999999' WIDTH=160  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=128 LEFT=1 NAME='tell295' WIDTH=160><a href='http://www.smcm.edu/personnel/index.cfm' class='linktext2' onmouseout='doIMouseOut(295,11)' onmouseover='doTMouseOver(-1,1,295,11)'><div id='nsmenu'>&nbsp;&nbsp;Personnel Services</div></a></LAYER>"
-makeMenu += "<LAYER HEIGHT=14px TOP=142 LEFT=1 NAME='cell296' bgcolor='#999999' WIDTH=160  VISIBILITY='hide'></layer><LAYER HEIGHT=14px TOP=142 LEFT=1 NAME='tell296' WIDTH=160><a href='http://www.smcm.edu/academicserv/' class='linktext2' onmouseout='doIMouseOut(296,11)' onmouseover='doTMouseOver(-1,1,296,11)'><div id='nsmenu'>&nbsp;&nbsp;Academic Services</div></a></LAYER>"
-
-makeMenu += "<LAYER NAME='ltsdO11' HEIGHT=156px bgcolor='#000066' LEFT=0 TOP=0 WIDTH=3px></layer>"
-makeMenu += "<LAYER NAME='btmO11' HEIGHT=3px bgcolor='#000066' LEFT=0 TOP=156 WIDTH=163px></layer>"
-makeMenu += "<LAYER NAME='rtsdO11' HEIGHT=156px bgcolor='#000066' LEFT=160 TOP=0 WIDTH=3px></layer>"
-
-makeMenu += "</LAYER>"
-
-}
-else {
-
-document.write('<SCRIPT LANGUAGE="JavaScript" src="http://www.smcm.edu/js/menu2_ie.js"><\/SCRIPT>');
-
-makeMenu += "<div id='sO2' CLASS='menu1' onmouseover='document.home.src=corenav_home_over.src'  onmouseout='document.home.src=corenav_home_off.src'>"
-makeMenu += "<div id='cell1' STYLE='TOP: 2px' onmouseout='doIMouseOut(1)' onmouseover='doTMouseOver(1,1,2)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/admissions/index.cfm'>Prospective Students</a></span></div>"
-makeMenu += "<div id='cell2' STYLE='TOP: 18px' onmouseout='doIMouseOut(2)' onmouseover='doTMouseOver(1,2,2)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/students/'>Current Students</a></span></div>"
-makeMenu += "<div id='cell3' STYLE='TOP: 33px' onmouseout='doIMouseOut(3)' onmouseover='doTMouseOver(1,3,2)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/alumni/index.cfm'>Alumni</a></span></div>"
-makeMenu += "<div id='cell4' STYLE='TOP: 50px' onmouseout='doIMouseOut(4)' onmouseover='doTMouseOver(1,4,2)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/parents/index.cfm'>Parents & Families</a></span></div>"
-makeMenu += "<div id='cell5' STYLE='TOP: 66px' onmouseout='doIMouseOut(5)' onmouseover='doTMouseOver(1,5,2)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/visitors/'>Visitors & Community</a></span></div>"
-makeMenu += "<div id='cell205' STYLE='TOP: 66px' onmouseout='doIMouseOut(205)' onmouseover='doTMouseOver(1,205,2)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/facstaff/'>Faculty & Staff</a></span></div>"
-makeMenu += "</div>"
-
-makeMenu += "<div id='sO3' CLASS='menu2' onmouseover='document.about.src=corenav_about_over.src' onmouseout='document.about.src=corenav_about_off.src'>"
-makeMenu += "<div id='cell6' STYLE='TOP: 2px' onmouseout='doIMouseOut(6)' onmouseover='doTMouseOver(1,6,3)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/president/'>President's Welcome</a></span></div>"
-makeMenu += "<div id='cell7' STYLE='TOP: 18px' onmouseout='doIMouseOut(7)' onmouseover='doTMouseOver(1,7,3)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/about/template-aboutsmcm.cfm?doc_id=561'>College History and Progress</a></span></div>"
-makeMenu += "<div id='cell8' STYLE='TOP: 34px' onmouseout='doIMouseOut(8)' onmouseover='doTMouseOver(1,8,3)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/instresearch/index.cfm'>Factbook</a></span></div>"
-makeMenu += "<div id='cell9' STYLE='TOP: 50px' onmouseout='doIMouseOut(9)' onmouseover='doTMouseOver(1,9,3)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/trustees/'>Board of Trustees</a></span></div>"
-<!-- makeMenu += "<div id='cell10' STYLE='TOP: 66px' onmouseout='doIMouseOut(10)' onmouseover='doTMouseOver(1,10,3)'><span class='linktext'>&nbsp;<a class='linktext' href='about/alumni_notable.htm'>Notable Alumni</a></span></div>" -->
-makeMenu += "<div id='cell11' STYLE='TOP: 82px' onmouseout='doIMouseOut(11)' onmouseover='doTMouseOver(1,11,3)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/development/index.cfm'>Fund Raising</a></span></div>"
-<!-- makeMenu += "<div id='cell12' STYLE='TOP: 146px' onmouseout='doIMouseOut(12)' onmouseover='doTMouseOver(1,12,3)'><span class='linktext'>&nbsp;<a class='linktext' href='about/community_partners.htm'>Community Partnerships</a></span></div>" -->
-makeMenu += "</div>"
-
-makeMenu += "<div id='sO4' CLASS='menu3' onmouseover='document.academics.src=corenav_academics_over.src' onmouseout='document.academics.src=corenav_academics_off.src'>"
-<!-- makeMenu += "<div id='cell13' STYLE='TOP: 2px' onmouseout='doIMouseOut(13)' onmouseover='doTMouseOver(1,13,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/academics/'>Departments and Majors</a></span></div>" -->
-makeMenu += "<div id='cell14' STYLE='TOP: 18px' onmouseout='doIMouseOut(14)' onmouseover='doTMouseOver(1,14,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://calendar.smcm.edu/cgi-bin/listEvents.pl?eventType=Academic+Calendar&show=month'>Academic Calendar</a></span></div>"
-makeMenu += "<div id='cell15' STYLE='TOP: 34px' onmouseout='doIMouseOut(15)' onmouseover='doTMouseOver(1,15,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/webcat/'>Academic Catalogs</a></span></div>"
-makeMenu += "<div id='cell215' STYLE='TOP: 34px' onmouseout='doIMouseOut(215)' onmouseover='doTMouseOver(1,215,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/academics/'>Academic Divisions</a></span></div>"
-makeMenu += "<div id='cell16' STYLE='TOP: 50px' onmouseout='doIMouseOut(16)' onmouseover='doTMouseOver(1,16,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/provost/index.cfm'>Provost</a></span></div>"
-makeMenu += "<div id='cell17' STYLE='TOP: 66px' onmouseout='doIMouseOut(17)' onmouseover='doTMouseOver(1,17,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/academicserv/'>Academic Services</a></span></div>"
-makeMenu += "<div id='cell18' STYLE='TOP: 82px' onmouseout='doIMouseOut(18)' onmouseover='doTMouseOver(1,18,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/registrar/'>Registrar</a></span></div>"
-makeMenu += "<div id='cell19' STYLE='TOP: 98px' onmouseout='doIMouseOut(19)' onmouseover='doTMouseOver(1,19,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/continuinged/'>Continuing Education</a></span></div>"
-makeMenu += "<div id='cell20' STYLE='TOP: 114px' onmouseout='doIMouseOut(20)' onmouseover='doTMouseOver(1,20,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/Academics/Scholars/index.cfm'>Scholars Program</a></span></div>"
-makeMenu += "<div id='cell21' STYLE='TOP: 130px' onmouseout='doIMouseOut(21)' onmouseover='doTMouseOver(1,21,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/academics/smp/index.cfm'>St. Mary's Project</a></span></div>"
-makeMenu += "<div id='cell22' STYLE='TOP: 146px' onmouseout='doIMouseOut(22)' onmouseover='doTMouseOver(1,22,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/academics/internationaled/'>International Studies</a></span></div>"
-makeMenu += "<div id='cell23' STYLE='TOP: 162px' onmouseout='doIMouseOut(23)' onmouseover='doTMouseOver(1,23,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/academics/internationaled/'>Student Exchange Programs</a></span></div>"
-makeMenu += "<div id='cell24' STYLE='TOP: 178px' onmouseout='doIMouseOut(24)' onmouseover='doTMouseOver(1,24,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/commservice/'>Community Service</a></span></div>"
-makeMenu += "<div id='cell25' STYLE='TOP: 178px' onmouseout='doIMouseOut(25)' onmouseover='doTMouseOver(1,25,4)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/facstaff/'>Faculty & Staff</a></span></div>"
-makeMenu += "</div>"
-
-makeMenu += "<div id='sO5' CLASS='menu4' onmouseover='document.administration.src=corenav_administration_over.src' onmouseout='document.administration.src=corenav_administration_off.src'>"
-<!-- makeMenu += "<div id='cell26' STYLE='TOP: 2px' onmouseout='doIMouseOut(26)' onmouseover='doTMouseOver(1,26,5)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/admin/'>Administration</a></span></div>" -->
-makeMenu += "<div id='cell27' STYLE='TOP: 18px' onmouseout='doIMouseOut(27)' onmouseover='doTMouseOver(1,27,5)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/president/'>President</a></span></div>"
-makeMenu += "<div id='cell28' STYLE='TOP: 2px' onmouseout='doIMouseOut(28)' onmouseover='doTMouseOver(1,28,5)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/provost/index.cfm'>Provost</a></span></div>"
-makeMenu += "<div id='cell29' STYLE='TOP: 18px' onmouseout='doIMouseOut(29)' onmouseover='doTMouseOver(1,29,5)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/studentaffairs/'>Vice President & Dean of the College</a></span></div>"
-makeMenu += "<div id='cell30' STYLE='TOP: 34px' onmouseout='doIMouseOut(30)' onmouseover='doTMouseOver(1,30,5)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/busandfinance/'>Vice President for Business and Finance</a></span></div>"
-makeMenu += "<div id='cell31' STYLE='TOP: 34px' onmouseout='doIMouseOut(31)' onmouseover='doTMouseOver(1,31,5)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/development/index.cfm'>Vice President for Development</a></span></div>"
-makeMenu += "<div id='cell93' STYLE='TOP: 34px' onmouseout='doIMouseOut(93)' onmouseover='doTMouseOver(1,93,5)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/communications/'>Vice President for Communications & New Initiatives</a></span></div>"
-makeMenu += "</div>"
-
-
-makeMenu += "<div id='sO6' CLASS='menu5' onmouseover='document.admissions.src=corenav_admissions_over.src' onmouseout='document.admissions.src=corenav_admissions_off.src'>"
-makeMenu += "<div id='cell32' STYLE='TOP: 114px' onmouseout='doIMouseOut(32)' onmouseover='doTMouseOver(1,32,6)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/admissions/template-admissions.cfm?doc_id=97'>The SMCM Experience!</a></span></div>"
-makeMenu += "<div id='cell33' STYLE='TOP: 130px' onmouseout='doIMouseOut(33)' onmouseover='doTMouseOver(1,33,6)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/admissions/index.cfm'>Arrange a Visit</a></span></div>"
-makeMenu += "<div id='cell34' STYLE='TOP: 146px' onmouseout='doIMouseOut(34)' onmouseover='doTMouseOver(1,34,6)'><span class='linktext'>&nbsp;<a class='linktext' href='http://hp1.smcm.edu:9045/cgi-bin/public/apply2.cgi'>Apply!          </a></span></div>"
-makeMenu += "<div id='cell35' STYLE='TOP: 162px' onmouseout='doIMouseOut(35)' onmouseover='doTMouseOver(1,35,6)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/admissions/template-admissions.cfm?doc_id=103'>Frequently Asked Questions</a></span></div>"
-<!-- makeMenu += "<div id='cell36' STYLE='TOP: 178px' onmouseout='doIMouseOut(36)' onmouseover='doTMouseOver(1,36,6)'><span class='linktext'>&nbsp;<a class='linktext' href='admissions/student_profiles.htm'>Student Profiles</a></span></div>" -->
-makeMenu += "<div id='cell37' STYLE='TOP: 194px' onmouseout='doIMouseOut(37)' onmouseover='doTMouseOver(1,37,6)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/residencelife/'>Campus Housing</a></span></div>"
-<!-- makeMenu += "<div id='cell38' STYLE='TOP: 210px' onmouseout='doIMouseOut(38)' onmouseover='doTMouseOver(1,38,6)'><span class='linktext'>&nbsp;<a class='linktext' href='admissions/area_information.htm'>Area Information</a></span></div>" -->
-makeMenu += "<div id='cell39' STYLE='TOP: 226px' onmouseout='doIMouseOut(39)' onmouseover='doTMouseOver(1,39,6)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/businessoffice/template-business.cfm?doc_id=296'>Tuition and Fees</a></span></div>"
-makeMenu += "<div id='cell40' STYLE='TOP: 242px' onmouseout='doIMouseOut(40)' onmouseover='doTMouseOver(1,40,6)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/financialaid/'>Financial Aid & Scholarships</a></span></div>"
-makeMenu += "</div>"
-
-makeMenu += "<div id='sO7' CLASS='menu6' onmouseover='document.athletics.src=corenav_athletics_over.src' onmouseout='document.athletics.src=corenav_athletics_off.src'>"
-makeMenu += "<div id='cell41' STYLE='TOP: 2px' onmouseout='doIMouseOut(41)' onmouseover='doTMouseOver(1,41,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/athletics/headlines/'>Sports Headlines</a></span></div>"
-makeMenu += "<div id='cell42' STYLE='TOP: 18px' onmouseout='doIMouseOut(42)' onmouseover='doTMouseOver(1,42,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/athletics/seahawks_association/index.htm'>Seahawks Association</a></span></div>"
-makeMenu += "<div id='cell43' STYLE='TOP: 34px' onmouseout='doIMouseOut(43)' onmouseover='doTMouseOver(1,43,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/athletics/varsity_sports/index.htm'>Schedule</a></span></div>"
-makeMenu += "<div id='cell44' STYLE='TOP: 50px' onmouseout='doIMouseOut(44)' onmouseover='doTMouseOver(1,44,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/athletics/varsity_sports/index.htm'>Varsity Sports</a></span></div>"
-makeMenu += "<div id='cell46' STYLE='TOP: 82px' onmouseout='doIMouseOut(46)' onmouseover='doTMouseOver(1,46,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/athletics/scoreboard/index.htm'>Scoreboard</a></span></div>"
-makeMenu += "<div id='cell47' STYLE='TOP: 98px' onmouseout='doIMouseOut(47)' onmouseover='doTMouseOver(1,47,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/athletics/facilities/index.htm'>Facilities & Hours</a></span></div>"
-makeMenu += "<div id='cell48' STYLE='TOP: 114px' onmouseout='doIMouseOut(48)' onmouseover='doTMouseOver(1,48,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/athletics/staff_directory/index.htm'>Athletics Staff</a></span></div>"
-makeMenu += "<div id='cell49' STYLE='TOP: 130px' onmouseout='doIMouseOut(49)' onmouseover='doTMouseOver(1,49,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/athletics/saab/index.htm'>Student Athlete Advisory Board</a></span></div>"
-makeMenu += "<div id='cell50' STYLE='TOP: 146px' onmouseout='doIMouseOut(50)' onmouseover='doTMouseOver(1,50,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/athletics/campus_recreation/index.htm'>Recreational & Club Sports</a></span></div>"
-<!-- makeMenu += "<div id='cell51' STYLE='TOP: 162px' onmouseout='doIMouseOut(51)' onmouseover='doTMouseOver(1,51,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/stulife/cheerleading/'>Cheerleading Club</a></span></div>" -->
-makeMenu += "<div id='cell52' STYLE='TOP: 162px' onmouseout='doIMouseOut(52)' onmouseover='doTMouseOver(1,52,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/athletics/sports_medicine/index.htm'>Sports Medicine</a></span></div>"
-makeMenu += "<div id='cell53' STYLE='TOP: 178px' onmouseout='doIMouseOut(53)' onmouseover='doTMouseOver(1,53,7)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.ycp.edu/cac/'>Capital Athletics Conference</a></span></div>"
-makeMenu += "</div>"
-
-makeMenu += "<div id='sO8' CLASS='menu7' onmouseover='document.campus.src=corenav_campus_over.src' onmouseout='document.campus.src=corenav_campus_off.src'>"
-makeMenu += "<div id='cell55' STYLE='TOP: 2px' onmouseout='doIMouseOut(55)' onmouseover='doTMouseOver(1,55,8)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/directions/'>Directions to St. Mary's</a></span></div>"
-makeMenu += "<div id='cell56' STYLE='TOP: 18px' onmouseout='doIMouseOut(56)' onmouseover='doTMouseOver(1,56,8)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/map/index.cfm'>Campus Maps</a></span></div>"
-makeMenu += "<div id='cell57' STYLE='TOP: 2px' onmouseout='doIMouseOut(57)' onmouseover='doTMouseOver(1,57,8)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/vtour/'>Virtual Tour</a></span></div>"
-makeMenu += "<div id='cell58' STYLE='TOP: 18px' onmouseout='doIMouseOut(58)' onmouseover='doTMouseOver(1,58,8)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/facilities/template-facilities.cfm?doc_id=363'>Campus Planning</a></span></div>"
-makeMenu += "<div id='cell59' STYLE='TOP: 34px' onmouseout='doIMouseOut(59)' onmouseover='doTMouseOver(1,59,8)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/cc/index.cfm'>Campus Center</a></span></div>"
-makeMenu += "<div id='cell237' STYLE='TOP: 194px' onmouseout='doIMouseOut(237)' onmouseover='doTMouseOver(1,237,6)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/residencelife/'>Residence Life</a></span></div>"
-makeMenu += "<div id='cell60' STYLE='TOP: 50px' onmouseout='doIMouseOut(60)' onmouseover='doTMouseOver(1,60,8)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/campusstore/'>Campus Store</a></span></div>"
-makeMenu += "<div id='cell61' STYLE='TOP: 66px' onmouseout='doIMouseOut(61)' onmouseover='doTMouseOver(1,61,8)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/foodservice/index.cfm'>Dining</a></span></div>"
-makeMenu += "<div id='cell62' STYLE='TOP: 82px' onmouseout='doIMouseOut(62)' onmouseover='doTMouseOver(1,62,8)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/publicsafety/'>Public Safety</a></span></div>"
-makeMenu += "</div>"
-
-makeMenu += "<div id='sO9' CLASS='menu8' onmouseover='document.library.src=corenav_library_over.src' onmouseout='document.library.src=corenav_library_off.src'>"
-makeMenu += "<div id='cell63' STYLE='TOP: 2px' onmouseout='doIMouseOut(63)' onmouseover='doTMouseOver(1,63,9)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/library/template-library.cfm?doc_id=704'>Library Hours</a></span></div>"
-makeMenu += "<div id='cell64' STYLE='TOP: 34px' onmouseout='doIMouseOut(64)' onmouseover='doTMouseOver(1,64,9)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/library/template-library.cfm?doc_id=705'>Library Staff</a></span></div>"
-makeMenu += "<div id='cell65' STYLE='TOP: 50px' onmouseout='doIMouseOut(65)' onmouseover='doTMouseOver(1,65,9)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/library/template-library.cfm?doc_id=815'>Catalog & Course Reserves</a></span></div>"
-makeMenu += "<div id='cell66' STYLE='TOP: 66px' onmouseout='doIMouseOut(66)' onmouseover='doTMouseOver(1,66,9)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/library/template-library.cfm?doc_id=707'>Interlibrary Loan</a></span></div>"
-makeMenu += "<div id='cell67' STYLE='TOP: 82px' onmouseout='doIMouseOut(67)' onmouseover='doTMouseOver(1,67,9)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/library/template-library.cfm?doc_id=708'>Research Databases</a></span></div>"
-makeMenu += "<div id='cell68' STYLE='TOP: 98px' onmouseout='doIMouseOut(68)' onmouseover='doTMouseOver(1,68,9)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/library/template-library.cfm?doc_id=709'>Academic Division Resources</a></span></div>"
-makeMenu += "<div id='cell69' STYLE='TOP: 114px' onmouseout='doIMouseOut(69)' onmouseover='doTMouseOver(1,69,9)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/library/template-libquick.cfm?doc_id=803'>New Materials</a></span></div>"
-makeMenu += "<div id='cell70' STYLE='TOP: 130px' onmouseout='doIMouseOut(70)' onmouseover='doTMouseOver(1,70,9)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/library/template-library.cfm?doc_id=711'>Internet Resources</a></span></div>"
-makeMenu += "<div id='cell71' STYLE='TOP: 146px' onmouseout='doIMouseOut(71)' onmouseover='doTMouseOver(1,71,9)'><span class='linktext'>&nbsp;<a class='linktext' href='http://victorweb.lib.umd.edu/'>VICTOR</a></span></div>"
-makeMenu += "<div id='cell72' STYLE='TOP: 162px' onmouseout='doIMouseOut(72)' onmouseover='doTMouseOver(1,72,9)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/library/template-library.cfm?doc_id=712'>Other Libraries</a></span></div>"
-makeMenu += "<div id='cell73' STYLE='TOP: 178px' onmouseout='doIMouseOut(73)' onmouseover='doTMouseOver(1,73,9)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/library/template-library.cfm?doc_id=713'>Maryland Digital Library</a></span></div>"
-<!-- makeMenu += "<div id='cell74' STYLE='TOP: 178px' onmouseout='doIMouseOut(74)' onmouseover='doTMouseOver(1,74,9)'><span class='linktext'>&nbsp;<a class='linktext' href='library/new_materials.htm'>New Materials</a></span></div>" -->
-makeMenu += "</div>"
-
-makeMenu += "<div id='sO10' CLASS='menu9' onmouseover='document.newsevents.src=corenav_newsevents_over.src' onmouseout='document.newsevents.src=corenav_newsevents_off.src'>"
-makeMenu += "<div id='cell75' STYLE='TOP: 18px' onmouseout='doIMouseOut(75)' onmouseover='doTMouseOver(1,75,10)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/newsevents/template-newsevents.cfm?doc_id=664'>SMCM in the News</a></span></div>"
-<!-- makeMenu += "<div id='cell76' STYLE='TOP: 2px' onmouseout='doIMouseOut(76)' onmouseover='doTMouseOver(1,76,10)'><span class='linktext'>&nbsp;<a class='linktext' href='newsevents/ratings.htm'>Ratings & Reviews</a></span></div>" -->
-<!-- makeMenu += "<div id='cell77' STYLE='TOP: 18px' onmouseout='doIMouseOut(77)' onmouseover='doTMouseOver(1,77,10)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/newsevents/template-newsevents.cfm?doc_id=665'>Press Releases</a></span></div>" -->
-makeMenu += "<div id='cell78' STYLE='TOP: 34px' onmouseout='doIMouseOut(78)' onmouseover='doTMouseOver(1,78,10)'><span class='linktext'>&nbsp;<a class='linktext' href='http://calendar.smcm.edu'>Events Calendar</a></span></div>"
-makeMenu += "<div id='cell79' STYLE='TOP: 50px' onmouseout='doIMouseOut(79)' onmouseover='doTMouseOver(1,79,10)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/bulletin/'>Bulletin</a></span></div>"
-<!-- makeMenu += "<div id='cell80' STYLE='TOP: 66px' onmouseout='doIMouseOut(80)' onmouseover='doTMouseOver(1,80,10)'><span class='linktext'>&nbsp;<a class='linktext' href='newsevents/summer_programs.htm'>Summer Programs</a></span></div>" -->
-makeMenu += "<div id='cell81' STYLE='TOP: 82px' onmouseout='doIMouseOut(81)' onmouseover='doTMouseOver(1,81,10)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/rcs/index.cfm'>River Concerts</a></span></div>"
-makeMenu += "<div id='cell82' STYLE='TOP: 98px' onmouseout='doIMouseOut(82)' onmouseover='doTMouseOver(1,82,10)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/rivergazette/'>River Gazette</a></span></div>"
-makeMenu += "<div id='cell83' STYLE='TOP: 98px' onmouseout='doIMouseOut(83)' onmouseover='doTMouseOver(1,83,10)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/artsalliance/'>Arts Alliance</a></span></div>"
-makeMenu += "<div id='cell84' STYLE='TOP: 98px' onmouseout='doIMouseOut(84)' onmouseover='doTMouseOver(1,84,10)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/pointnews/'>The Point News</a></span></div>"
-makeMenu += "</div>"
-
-makeMenu += "<div id='sO11' CLASS='menu10' onmouseover='document.services.src=corenav_services_over.src' onmouseout='document.services.src=corenav_services_off.src'>"
-makeMenu += "<div id='cell85' STYLE='TOP: 18px' onmouseout='doIMouseOut(85)' onmouseover='doTMouseOver(1,85,11)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/ltr/index.cfm'>Technology Services</a></span></div>"
-makeMenu += "<div id='cell86' STYLE='TOP: 2px' onmouseout='doIMouseOut(86)' onmouseover='doTMouseOver(1,86,11)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/helpdesk/'>Help Desk</a></span></div>"
-makeMenu += "<div id='cell87' STYLE='TOP: 18px' onmouseout='doIMouseOut(87)' onmouseover='doTMouseOver(1,87,11)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/mediaservices/'>Media Services</a></span></div>"
-makeMenu += "<div id='cell88' STYLE='TOP: 34px' onmouseout='doIMouseOut(88)' onmouseover='doTMouseOver(1,88,11)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/health/'>Health Services</a></span></div>"
-makeMenu += "<div id='cell189' STYLE='TOP: 50px' onmouseout='doIMouseOut(189)' onmouseover='doTMouseOver(1,189,11)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/counseling/index.cfm'>Counseling Services</a></span></div>"
-makeMenu += "<div id='cell89' STYLE='TOP: 50px' onmouseout='doIMouseOut(89)' onmouseover='doTMouseOver(1,89,11)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/publicsafety/'>Public Safety</a></span></div>"
-makeMenu += "<div id='cell90' STYLE='TOP: 66px' onmouseout='doIMouseOut(90)' onmouseover='doTMouseOver(1,90,11)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/careercenter/'>Career Services</a></span></div>"
-makeMenu += "<div id='cell91' STYLE='TOP: 82px' onmouseout='doIMouseOut(91)' onmouseover='doTMouseOver(1,91,11)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/foodservice/index.cfm'>Dining Services</a></span></div>"
-makeMenu += "<div id='cell92' STYLE='TOP: 82px' onmouseout='doIMouseOut(92)' onmouseover='doTMouseOver(1,92,11)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/financialaid/'>Financial Aid</a></span></div>"
-makeMenu += "<div id='cell292' STYLE='TOP: 82px' onmouseout='doIMouseOut(292)' onmouseover='doTMouseOver(1,292,11)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/personnel/index.cfm'>Personnel Services</a></span></div>"
-makeMenu += "<div id='cell293' STYLE='TOP: 82px' onmouseout='doIMouseOut(293)' onmouseover='doTMouseOver(1,293,11)'><span class='linktext'>&nbsp;<a class='linktext' href='http://www.smcm.edu/academicserv/'>Academic Services</a></span></div>"
-makeMenu += "</div>"
-}
-
-document.write(makeMenu)
-</script><script language="JavaScript" src="http://www.smcm.edu/js/menu2_ns.js"></script></head>
-
-
-
-
-
-
-
-
-
-<!-- ================== Begin include for header navigation ================== -->	
-	
-				
-
-
- <body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><layer name="sO2" visibility="hide" bgcolor="#000000" left="0" top="19" width="145px" z-index="2" onmouseover="window.document.home.src=corenav_home_over.src" onmouseout="window.document.home.src=corenav_home_off.src"><layer name="topO2" height="3px" bgcolor="#000066" left="0" top="0" width="145px"></layer><layer height="14px" top="2" left="1" name="cell2" bgcolor="#999999" width="145" visibility="hide"></layer><layer height="14px" top="2" left="1" name="tell2" width="145"><a href="http://www.smcm.edu/admissions/index.cfm" class="linktext2" onmouseout="doIMouseOut(2,2)" onmouseover="doTMouseOver(-1,1,2,2);"><div id="nsmenu">&nbsp;&nbsp;Prospective Students</div></a></layer><layer height="14px" top="16" left="1" name="cell3" bgcolor="#999999" width="145" visibility="hide"></layer><layer height="14px" top="16" left="1" name="tell3" width="145"><a href="http://www.smcm.edu/students/" class="linktext2" onmouseout="doIMouseOut(3,2)" onmouseover="doTMouseOver(-1,1,3,2)"><div id="nsmenu">&nbsp;&nbsp;Current Students</div></a></layer><layer height="14px" top="30" left="1" name="cell4" bgcolor="#999999" width="145" visibility="hide"></layer><layer height="14px" top="30" left="1" name="tell4" width="145"><a href="http://www.smcm.edu/alumni/index.cfm" class="linktext2" onmouseout="doIMouseOut(4,2)" onmouseover="doTMouseOver(-1,1,4,2)"><div id="nsmenu">&nbsp;&nbsp;Alumni</div></a></layer><layer height="14px" top="44" left="1" name="cell5" bgcolor="#999999" width="145" visibility="hide"></layer><layer height="14px" top="44" left="1" name="tell5" width="145"><a href="http://www.smcm.edu/parents/index.cfm" class="linktext2" onmouseout="doIMouseOut(5,2)" onmouseover="doTMouseOver(-1,1,5,2)"><div id="nsmenu">&nbsp;&nbsp;Parents &amp; Families</div></a></layer><layer height="14px" top="58" left="1" name="cell6" bgcolor="#999999" width="145" visibility="hide"></layer><layer height="14px" top="58" left="1" name="tell6" width="145"><a href="http://www.smcm.edu/visitors/" class="linktext2" onmouseout="doIMouseOut(6,2)" onmouseover="doTMouseOver(-1,1,6,2)"><div id="nsmenu">&nbsp;&nbsp;Visitors &amp; Community</div></a></layer><layer height="14px" top="72" left="1" name="cell206" bgcolor="#999999" width="145" visibility="hide"></layer><layer height="14px" top="72" left="1" name="tell206" width="145"><a href="http://www.smcm.edu/facstaff/" class="linktext2" onmouseout="doIMouseOut(206,2)" onmouseover="doTMouseOver(-1,1,206,2)"><div id="nsmenu">&nbsp;&nbsp;Faculty &amp; Staff</div></a></layer><layer name="ltsdO2" height="86px" bgcolor="#000066" left="0" top="0" width="3px"></layer><layer name="btmO2" height="3px" bgcolor="#000066" left="0" top="86" width="148px"></layer><layer name="rtsdO2" height="86px" bgcolor="#000066" left="145" top="0" width="3px"></layer></layer><layer name="sO3" visibility="hide" bgcolor="#000000" left="48" top="19" width="175px" z-index="2" onmouseover="window.document.about.src=corenav_about_over.src" onmouseout="window.document.about.src=corenav_about_off.src"><layer name="topO3" height="3px" bgcolor="#000066" left="0" top="0" width="175px"></layer><layer height="14px" top="2" left="1" name="cell11" bgcolor="#999999" width="175" visibility="hide"></layer><layer height="14px" top="2" left="1" name="tell11" width="175"><a href="http://www.smcm.edu/president/" class="linktext2" onmouseout="doIMouseOut(11,3)" onmouseover="doTMouseOver(-1,1,11,3);"><div id="nsmenu">&nbsp;&nbsp;President's Welcome</div></a></layer><layer height="14px" top="16" left="1" name="cell12" bgcolor="#999999" width="175" visibility="hide"></layer><layer height="14px" top="16" left="1" name="tell12" width="175"><a href="http://www.smcm.edu/about/template-aboutsmcm.cfm?doc_id=561" class="linktext2" onmouseout="doIMouseOut(12,3)" onmouseover="doTMouseOver(-1,1,12,3)"><div id="nsmenu">&nbsp;&nbsp;College History and Progress</div></a></layer><layer height="14px" top="30" left="1" name="cell13" bgcolor="#999999" width="175" visibility="hide"></layer><layer height="14px" top="30" left="1" name="tell13" width="175"><a href="http://www.smcm.edu/instresearch/index.cfm" class="linktext2" onmouseout="doIMouseOut(13,3)" onmouseover="doTMouseOver(-1,1,13,3)"><div id="nsmenu">&nbsp;&nbsp;Factbook</div></a></layer><layer height="14px" top="44" left="1" name="cell14" bgcolor="#999999" width="175" visibility="hide"></layer><layer height="14px" top="44" left="1" name="tell14" width="175"><a href="http://www.smcm.edu/trustees/" class="linktext2" onmouseout="doIMouseOut(14,3)" onmouseover="doTMouseOver(-1,1,14,3)"><div id="nsmenu">&nbsp;&nbsp;Board of Trustees</div></a></layer><layer height="14px" top="58" left="1" name="cell16" bgcolor="#999999" width="175" visibility="hide"></layer><layer height="14px" top="58" left="1" name="tell16" width="175"><a href="http://www.smcm.edu/development/index.cfm" class="linktext2" onmouseout="doIMouseOut(16,3)" onmouseover="doTMouseOver(-1,1,16,3)"><div id="nsmenu">&nbsp;&nbsp;Fund Raising</div></a></layer><layer name="ltsdO3" height="74px" bgcolor="#000066" left="0" top="0" width="3px"></layer><layer name="btmO3" height="3px" bgcolor="#000066" left="0" top="74" width="178px"></layer><layer name="rtsdO3" height="74px" bgcolor="#000066" left="175" top="0" width="3px"></layer></layer><layer name="sO4" visibility="hide" bgcolor="#000000" left="161" top="19" width="166px" z-index="2" onmouseover="window.document.academics.src=corenav_academics_over.src" onmouseout="window.document.academics.src=corenav_academics_off.src"><layer name="topO4" height="3px" bgcolor="#000066" left="0" top="0" width="166px"></layer><layer height="14px" top="2" left="1" name="cell21" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="2" left="1" name="tell21" width="166"><a href="http://calendar.smcm.edu/cgi-bin/listEvents.pl?eventType=Academic+Calendar&amp;show=month" class="linktext2" onmouseout="doIMouseOut(21,4)" onmouseover="doTMouseOver(-1,1,21,4)"><div id="nsmenu">&nbsp;&nbsp;Academic Calendar</div></a></layer><layer height="14px" top="16" left="1" name="cell22" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="16" left="1" name="tell22" width="166"><a href="http://www.smcm.edu/webcat/" class="linktext2" onmouseout="doIMouseOut(22,4)" onmouseover="doTMouseOver(-1,1,22,4)"><div id="nsmenu">&nbsp;&nbsp;Academic Catalogs</div></a></layer><layer height="14px" top="30" left="1" name="cell222" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="30" left="1" name="tell222" width="166"><a href="http://www.smcm.edu/academics/" class="linktext2" onmouseout="doIMouseOut(222,4)" onmouseover="doTMouseOver(-1,1,222,4)"><div id="nsmenu">&nbsp;&nbsp;Academic Divisions</div></a></layer><layer height="14px" top="44" left="1" name="cell23" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="44" left="1" name="tell23" width="166"><a href="http://www.smcm.edu/provost/index.cfm" class="linktext2" onmouseout="doIMouseOut(23,4)" onmouseover="doTMouseOver(-1,1,23,4)"><div id="nsmenu">&nbsp;&nbsp;Provost</div></a></layer><layer height="14px" top="58" left="1" name="cell24" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="58" left="1" name="tell24" width="166"><a href="http://www.smcm.edu/academicserv/" class="linktext2" onmouseout="doIMouseOut(24,4)" onmouseover="doTMouseOver(-1,1,24,4)"><div id="nsmenu">&nbsp;&nbsp;Academic Services</div></a></layer><layer height="14px" top="72" left="1" name="cell25" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="72" left="1" name="tell25" width="166"><a href="http://www.smcm.edu/registrar/" class="linktext2" onmouseout="doIMouseOut(25,4)" onmouseover="doTMouseOver(-1,1,25,4)"><div id="nsmenu">&nbsp;&nbsp;Registrar</div></a></layer><layer height="14px" top="86" left="1" name="cell26" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="86" left="1" name="tell26" width="166"><a href="http://www.smcm.edu/continuinged/" class="linktext2" onmouseout="doIMouseOut(26,4)" onmouseover="doTMouseOver(-1,1,26,4)"><div id="nsmenu">&nbsp;&nbsp;Continuing Education</div></a></layer><layer height="14px" top="100" left="1" name="cell27" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="100" left="1" name="tell27" width="166"><a href="http://www.smcm.edu/Academics/Scholars/index.cfm" class="linktext2" onmouseout="doIMouseOut(27,4)" onmouseover="doTMouseOver(-1,1,27,4)"><div id="nsmenu">&nbsp;&nbsp;Scholars Program</div></a></layer><layer height="14px" top="114" left="1" name="cell28" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="114" left="1" name="tell28" width="166"><a href="http://www.smcm.edu/academics/smp/index.cfm" class="linktext2" onmouseout="doIMouseOut(28,4)" onmouseover="doTMouseOver(-1,1,28,4)"><div id="nsmenu">&nbsp;&nbsp;St. Mary's Project</div></a></layer><layer height="14px" top="128" left="1" name="cell29" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="128" left="1" name="tell29" width="166"><a href="http://www.smcm.edu/academics/internationaled/" class="linktext2" onmouseout="doIMouseOut(29,4)" onmouseover="doTMouseOver(-1,1,29,4)"><div id="nsmenu">&nbsp;&nbsp;International Studies</div></a></layer><layer height="14px" top="142" left="1" name="cell30" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="142" left="1" name="tell30" width="166"><a href="http://www.smcm.edu/academics/internationaled/" class="linktext2" onmouseout="doIMouseOut(30,4)" onmouseover="doTMouseOver(-1,1,30,4)"><div id="nsmenu">&nbsp;&nbsp;Student Exchange Programs</div></a></layer><layer height="14px" top="156" left="1" name="cell31" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="156" left="1" name="tell31" width="166"><a href="http://www.smcm.edu/commservice/" class="linktext2" onmouseout="doIMouseOut(31,4)" onmouseover="doTMouseOver(-1,1,31,4)"><div id="nsmenu">&nbsp;&nbsp;Community Service</div></a></layer><layer height="14px" top="170" left="1" name="cell32" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="170" left="1" name="tell32" width="166"><a href="http://www.smcm.edu/facstaff/" class="linktext2" onmouseout="doIMouseOut(32,4)" onmouseover="doTMouseOver(-1,1,32,4)"><div id="nsmenu">&nbsp;&nbsp;Faculty &amp; Staff</div></a></layer><layer name="ltsdO4" height="184px" bgcolor="#000066" left="0" top="0" width="3px"></layer><layer name="btmO4" height="3px" bgcolor="#000066" left="0" top="184" width="169px"></layer><layer name="rtsdO4" height="184px" bgcolor="#000066" left="166" top="0" width="3px"></layer></layer><layer name="sO5" visibility="hide" bgcolor="#000000" left="237" top="19" width="300px" z-index="2" onmouseover="window.document.administration.src=corenav_administration_over.src" onmouseout="window.document.administration.src=corenav_administration_off.src"><layer name="topO5" height="3px" bgcolor="#000066" left="0" top="0" width="300px"></layer><layer height="14px" top="2" left="1" name="cell8" bgcolor="#999999" width="300" visibility="hide"></layer><layer height="14px" top="2" left="1" name="tell8" width="300"><a href="http://www.smcm.edu/president/" class="linktext2" onmouseout="doIMouseOut(8,5)" onmouseover="doTMouseOver(-1,1,8,5)"><div id="nsmenu">&nbsp;&nbsp;President</div></a></layer><layer height="14px" top="16" left="1" name="cell9" bgcolor="#999999" width="300" visibility="hide"></layer><layer height="14px" top="16" left="1" name="tell9" width="300"><a href="http://www.smcm.edu/provost/index.cfm" class="linktext2" onmouseout="doIMouseOut(9,5)" onmouseover="doTMouseOver(-1,1,9,5)"><div id="nsmenu">&nbsp;&nbsp;Provost</div></a></layer><layer height="14px" top="30" left="1" name="cell33" bgcolor="#999999" width="300" visibility="hide"></layer><layer height="14px" top="30" left="1" name="tell33" width="300"><a href="http://www.smcm.edu/studentaffairs/" class="linktext2" onmouseout="doIMouseOut(33,5)" onmouseover="doTMouseOver(-1,1,33,5);"><div id="nsmenu">&nbsp;&nbsp;Vice President &amp; Dean of the College</div></a></layer><layer height="14px" top="44" left="1" name="cell34" bgcolor="#999999" width="300" visibility="hide"></layer><layer height="14px" top="44" left="1" name="tell34" width="300"><a href="http://www.smcm.edu/busandfinance/" class="linktext2" onmouseout="doIMouseOut(34,5)" onmouseover="doTMouseOver(-1,1,34,5)"><div id="nsmenu">&nbsp;&nbsp;Vice President for Business and Finance</div></a></layer><layer height="14px" top="58" left="1" name="cell35" bgcolor="#999999" width="300" visibility="hide"></layer><layer height="14px" top="58" left="1" name="tell35" width="300"><a href="http://www.smcm.edu/development/index.cfm" class="linktext2" onmouseout="doIMouseOut(35,5)" onmouseover="doTMouseOver(-1,1,35,5)"><div id="nsmenu">&nbsp;&nbsp;Vice President for Development</div></a></layer><layer height="14px" top="72" left="1" name="cell96" bgcolor="#999999" width="300" visibility="hide"></layer><layer height="14px" top="72" left="1" name="tell96" width="300"><a href="http://www.smcm.edu/communications/" class="linktext2" onmouseout="doIMouseOut(96,5)" onmouseover="doTMouseOver(-1,1,96,5)"><div id="nsmenu">&nbsp;&nbsp;Vice President for Communications &amp; New Initiatives</div></a></layer><layer name="ltsdO5" height="86px" bgcolor="#000066" left="0" top="0" width="3px"></layer><layer name="btmO5" height="3px" bgcolor="#000066" left="0" top="86" width="303px"></layer><layer name="rtsdO5" height="86px" bgcolor="#000066" left="300" top="0" width="3px"></layer></layer><layer name="sO6" visibility="hide" bgcolor="#000000" left="335" top="19" width="181px" z-index="2" onmouseover="window.document.admissions.src=corenav_admissions_over.src" onmouseout="window.document.admissions.src=corenav_admissions_off.src"><layer name="topO6" height="3px" bgcolor="#000066" left="0" top="0" width="181px"></layer><layer height="14px" top="2" left="1" name="cell36" bgcolor="#999999" width="181" visibility="hide"></layer><layer height="14px" top="2" left="1" name="tell36" width="181"><a href="http://www.smcm.edu/admissions/template-admissions.cfm?doc_id=97" class="linktext2" onmouseout="doIMouseOut(36,6)" onmouseover="doTMouseOver(-1,1,36,6);"><div id="nsmenu">&nbsp;&nbsp;The SMCM Experience!</div></a></layer><layer height="14px" top="16" left="1" name="cell37" bgcolor="#999999" width="181" visibility="hide"></layer><layer height="14px" top="16" left="1" name="tell37" width="181"><a href="http://www.smcm.edu/admissions/index.cfm" class="linktext2" onmouseout="doIMouseOut(37,6)" onmouseover="doTMouseOver(-1,1,37,6)"><div id="nsmenu">&nbsp;&nbsp;Arrange a Visit</div></a></layer><layer height="14px" top="30" left="1" name="cell38" bgcolor="#999999" width="181" visibility="hide"></layer><layer height="14px" top="30" left="1" name="tell38" width="181"><a href="http://hp1.smcm.edu:9045/cgi-bin/public/apply2.cgi" class="linktext2" onmouseout="doIMouseOut(38,6)" onmouseover="doTMouseOver(-1,1,38,6)"><div id="nsmenu">&nbsp;&nbsp;Apply!</div></a></layer><layer height="14px" top="44" left="1" name="cell39" bgcolor="#999999" width="181" visibility="hide"></layer><layer height="14px" top="44" left="1" name="tell39" width="181"><a href="http://www.smcm.edu/admissions/template-admissions.cfm?doc_id=103" class="linktext2" onmouseout="doIMouseOut(39,6)" onmouseover="doTMouseOver(-1,1,39,6)"><div id="nsmenu">&nbsp;&nbsp;Frequently Asked Questions</div></a></layer><layer height="14px" top="58" left="1" name="cell41" bgcolor="#999999" width="181" visibility="hide"></layer><layer height="14px" top="58" left="1" name="tell41" width="181"><a href="http://www.smcm.edu/residencelife/" class="linktext2" onmouseout="doIMouseOut(41,6)" onmouseover="doTMouseOver(-1,1,41,6)"><div id="nsmenu">&nbsp;&nbsp;Campus Housing</div></a></layer><layer height="14px" top="72" left="1" name="cell43" bgcolor="#999999" width="181" visibility="hide"></layer><layer height="14px" top="72" left="1" name="tell43" width="181"><a href="http://www.smcm.edu/businessoffice/template-business.cfm?doc_id=296" class="linktext2" onmouseout="doIMouseOut(43,6)" onmouseover="doTMouseOver(-1,1,43,6)"><div id="nsmenu">&nbsp;&nbsp;Tuition and Fees</div></a></layer><layer height="14px" top="86" left="1" name="cell44" bgcolor="#999999" width="181" visibility="hide"></layer><layer height="14px" top="86" left="1" name="tell44" width="181"><a href="http://www.smcm.edu/financialaid/" class="linktext2" onmouseout="doIMouseOut(44,6)" onmouseover="doTMouseOver(-1,1,44,6)"><div id="nsmenu">&nbsp;&nbsp;Financial Aid &amp; Scholarships</div></a></layer><layer name="ltsdO6" height="100px" bgcolor="#000066" left="0" top="0" width="3px"></layer><layer name="btmO6" height="3px" bgcolor="#000066" left="0" top="100" width="184px"></layer><layer name="rtsdO6" height="100px" bgcolor="#000066" left="181" top="0" width="3px"></layer></layer><layer name="sO7" visibility="hide" bgcolor="#000000" left="413" top="19" width="200px" z-index="2" onmouseover="window.document.athletics.src=corenav_athletics_over.src" onmouseout="window.document.athletics.src=corenav_athletics_off.src"><layer name="topO7" height="3px" bgcolor="#000066" left="0" top="0" width="200px"></layer><layer height="14px" top="2" left="1" name="cell45" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="2" left="1" name="tell45" width="200"><a href="http://www.smcm.edu/athletics/headlines/" class="linktext2" onmouseout="doIMouseOut(45,7)" onmouseover="doTMouseOver(-1,1,45,7)"><div id="nsmenu">&nbsp;&nbsp;Sports Headlines</div></a></layer><layer height="14px" top="16" left="1" name="cell46" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="16" left="1" name="tell46" width="200"><a href="http://www.smcm.edu/athletics/seahawks_association/index.htm" class="linktext2" onmouseout="doIMouseOut(46,7)" onmouseover="doTMouseOver(-1,1,46,7)"><div id="nsmenu">&nbsp;&nbsp;Seahawks Association</div></a></layer><layer height="14px" top="30" left="1" name="cell47" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="30" left="1" name="tell47" width="200"><a href="http://www.smcm.edu/athletics/varsity_sports/index.htm" class="linktext2" onmouseout="doIMouseOut(47,7)" onmouseover="doTMouseOver(-1,1,47,7)"><div id="nsmenu">&nbsp;&nbsp;Schedule</div></a></layer><layer height="14px" top="44" left="1" name="cell48" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="44" left="1" name="tell48" width="200"><a href="http://www.smcm.edu/athletics/varsity_sports/index.htm" class="linktext2" onmouseout="doIMouseOut(48,7)" onmouseover="doTMouseOver(-1,1,48,7)"><div id="nsmenu">&nbsp;&nbsp;Varsity Sports</div></a></layer><layer height="14px" top="58" left="1" name="cell50" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="58" left="1" name="tell50" width="200"><a href="http://www.smcm.edu/athletics/scoreboard/index.htm" class="linktext2" onmouseout="doIMouseOut(50,7)" onmouseover="doTMouseOver(-1,1,50,7)"><div id="nsmenu">&nbsp;&nbsp;Scoreboard</div></a></layer><layer height="14px" top="72" left="1" name="cell51" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="72" left="1" name="tell51" width="200"><a href="http://www.smcm.edu/athletics/facilities/index.htm" class="linktext2" onmouseout="doIMouseOut(51,7)" onmouseover="doTMouseOver(-1,1,51,7)"><div id="nsmenu">&nbsp;&nbsp;Facilities &amp; Hours</div></a></layer><layer height="14px" top="86" left="1" name="cell52" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="86" left="1" name="tell52" width="200"><a href="http://www.smcm.edu/athletics/staff_directory/index.htm" class="linktext2" onmouseout="doIMouseOut(52,7)" onmouseover="doTMouseOver(-1,1,52,7);"><div id="nsmenu">&nbsp;&nbsp;Athletics Staff</div></a></layer><layer height="14px" top="100" left="1" name="cell53" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="100" left="1" name="tell53" width="200"><a href="http://www.smcm.edu/athletics/saab/index.htm" class="linktext2" onmouseout="doIMouseOut(53,7)" onmouseover="doTMouseOver(-1,1,53,7)"><div id="nsmenu">&nbsp;&nbsp;Student Athlete Advisory Board</div></a></layer><layer height="14px" top="114" left="1" name="cell54" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="114" left="1" name="tell54" width="200"><a href="http://www.smcm.edu/athletics/campus_recreation/index.htm" class="linktext2" onmouseout="doIMouseOut(54,7)" onmouseover="doTMouseOver(-1,1,54,7)"><div id="nsmenu">&nbsp;&nbsp;Recreational &amp; Club Sports</div></a></layer><layer height="14px" top="128" left="1" name="cell56" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="128" left="1" name="tell56" width="200"><a href="http://www.smcm.edu/athletics/sports_medicine/index.htm" class="linktext2" onmouseout="doIMouseOut(56,7)" onmouseover="doTMouseOver(-1,1,56,7)"><div id="nsmenu">&nbsp;&nbsp;Sports Medicine</div></a></layer><layer height="14px" top="142" left="1" name="cell57" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="142" left="1" name="tell57" width="200"><a href="http://www.ycp.edu/cac/" class="linktext2" onmouseout="doIMouseOut(57,7)" onmouseover="doTMouseOver(-1,1,57,7)"><div id="nsmenu">&nbsp;&nbsp;Capital Athletics Conference</div></a></layer><layer name="ltsdO7" height="156px" bgcolor="#000066" left="0" top="0" width="3px"></layer><layer name="btmO7" height="3px" bgcolor="#000066" left="0" top="156" width="203px"></layer><layer name="rtsdO7" height="156px" bgcolor="#000066" left="200" top="0" width="3px"></layer></layer><layer name="sO8" visibility="hide" bgcolor="#000000" left="478" top="19" width="200px" z-index="2" onmouseover="window.document.campus.src=corenav_campus_over.src" onmouseout="window.document.campus.src=corenav_campus_off.src"><layer name="topO8" height="3px" bgcolor="#000066" left="0" top="0" width="200px"></layer><layer height="14px" top="2" left="1" name="cell58" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="2" left="1" name="tell58" width="200"><a href="http://www.smcm.edu/directions/" class="linktext2" onmouseout="doIMouseOut(58,8)" onmouseover="doTMouseOver(-1,1,58,8)"><div id="nsmenu">&nbsp;&nbsp;Directions to St. Mary's</div></a></layer><layer height="14px" top="16" left="1" name="cell59" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="16" left="1" name="tell59" width="200"><a href="http://www.smcm.edu/map/index.cfm" class="linktext2" onmouseout="doIMouseOut(59,8)" onmouseover="doTMouseOver(-1,1,59,8)"><div id="nsmenu">&nbsp;&nbsp;Campus Maps</div></a></layer><layer height="14px" top="30" left="1" name="cell60" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="30" left="1" name="tell60" width="200"><a href="http://www.smcm.edu/vtour/" class="linktext2" onmouseout="doIMouseOut(60,8)" onmouseover="doTMouseOver(-1,1,60,8)"><div id="nsmenu">&nbsp;&nbsp;Virtual Tour</div></a></layer><layer height="14px" top="44" left="1" name="cell61" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="44" left="1" name="tell61" width="200"><a href="http://www.smcm.edu/facilities/template-facilities.cfm?doc_id=363" class="linktext2" onmouseout="doIMouseOut(61,8)" onmouseover="doTMouseOver(-1,1,61,8)"><div id="nsmenu">&nbsp;&nbsp;Campus Planning</div></a></layer><layer height="14px" top="58" left="1" name="cell62" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="58" left="1" name="tell62" width="200"><a href="http://www.smcm.edu/cc/index.cfm" class="linktext2" onmouseout="doIMouseOut(62,8)" onmouseover="doTMouseOver(-1,1,62,8)"><div id="nsmenu">&nbsp;&nbsp;Campus Center</div></a></layer><layer height="14px" top="72" left="1" name="cell241" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="72" left="1" name="tell241" width="200"><a href="http://www.smcm.edu/residencelife/" class="linktext2" onmouseout="doIMouseOut(241,8)" onmouseover="doTMouseOver(-1,1,241,8)"><div id="nsmenu">&nbsp;&nbsp;Residence Life</div></a></layer><layer height="14px" top="86" left="1" name="cell63" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="86" left="1" name="tell63" width="200"><a href="http://www.smcm.edu/campusstore/" class="linktext2" onmouseout="doIMouseOut(63,8)" onmouseover="doTMouseOver(-1,1,63,8)"><div id="nsmenu">&nbsp;&nbsp;Campus Store</div></a></layer><layer height="14px" top="100" left="1" name="cell64" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="100" left="1" name="tell64" width="200"><a href="http://www.smcm.edu/foodservice/index.cfm" class="linktext2" onmouseout="doIMouseOut(64,8)" onmouseover="doTMouseOver(-1,1,64,8)"><div id="nsmenu">&nbsp;&nbsp;Dining</div></a></layer><layer height="14px" top="114" left="1" name="cell65" bgcolor="#999999" width="200" visibility="hide"></layer><layer height="14px" top="114" left="1" name="tell65" width="200"><a href="http://www.smcm.edu/publicsafety/" class="linktext2" onmouseout="doIMouseOut(65,8)" onmouseover="doTMouseOver(-1,1,65,8)"><div id="nsmenu">&nbsp;&nbsp;Public Safety</div></a></layer><layer name="ltsdO8" height="128px" bgcolor="#000066" left="0" top="0" width="3px"></layer><layer name="btmO8" height="3px" bgcolor="#000066" left="0" top="128" width="203px"></layer><layer name="rtsdO8" height="128px" bgcolor="#000066" left="200" top="0" width="3px"></layer></layer><layer name="sO9" visibility="hide" bgcolor="#000000" left="534" top="19" width="166px" z-index="2" onmouseover="window.document.library.src=corenav_library_over.src" onmouseout="window.document.library.src=corenav_library_off.src"><layer name="topO9" height="3px" bgcolor="#000066" left="0" top="0" width="166px"></layer><layer height="14px" top="2" left="1" name="cell66" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="2" left="1" name="tell66" width="166"><a href="http://www.smcm.edu/library/template-library.cfm?doc_id=704" class="linktext2" onmouseout="doIMouseOut(66,9)" onmouseover="doTMouseOver(-1,1,66,9)"><div id="nsmenu">&nbsp;&nbsp;Library Hours</div></a></layer><layer height="14px" top="16" left="1" name="cell67" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="16" left="1" name="tell67" width="166"><a href="http://www.smcm.edu/library/template-library.cfm?doc_id=705" class="linktext2" onmouseout="doIMouseOut(67,9)" onmouseover="doTMouseOver(-1,1,67,9)"><div id="nsmenu">&nbsp;&nbsp;Library Staff</div></a></layer><layer height="14px" top="30" left="1" name="cell68" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="30" left="1" name="tell68" width="166"><a href="http://www.smcm.edu/library/template-library.cfm?doc_id=815" class="linktext2" onmouseout="doIMouseOut(68,9)" onmouseover="doTMouseOver(-1,1,68,9)"><div id="nsmenu">&nbsp;&nbsp;Course Reserves</div></a></layer><layer height="14px" top="44" left="1" name="cell69" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="44" left="1" name="tell69" width="166"><a href="http://www.smcm.edu/library/template-library.cfm?doc_id=707" class="linktext2" onmouseout="doIMouseOut(69,9)" onmouseover="doTMouseOver(-1,1,69,9)"><div id="nsmenu">&nbsp;&nbsp;Interlibrary Loan</div></a></layer><layer height="14px" top="58" left="1" name="cell70" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="58" left="1" name="tell70" width="166"><a href="http://www.smcm.edu/library/template-library.cfm?doc_id=708" class="linktext2" onmouseout="doIMouseOut(70,9)" onmouseover="doTMouseOver(-1,1,70,9);"><div id="nsmenu">&nbsp;&nbsp;Research Databases</div></a></layer><layer height="14px" top="72" left="1" name="cell71" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="72" left="1" name="tell71" width="166"><a href="http://www.smcm.edu/library/template-library.cfm?doc_id=709" class="linktext2" onmouseout="doIMouseOut(71,9)" onmouseover="doTMouseOver(-1,1,71,9)"><div id="nsmenu">&nbsp;&nbsp;Academic Div Resources</div></a></layer><layer height="14px" top="86" left="1" name="cell72" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="86" left="1" name="tell72" width="166"><a href="http://www.smcm.edu/library/template-libquick.cfm?doc_id=803" class="linktext2" onmouseout="doIMouseOut(72,9)" onmouseover="doTMouseOver(-1,1,72,9)"><div id="nsmenu">&nbsp;&nbsp;New Materials</div></a></layer><layer height="14px" top="100" left="1" name="cell73" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="100" left="1" name="tell73" width="166"><a href="http://www.smcm.edu/library/template-library.cfm?doc_id=711" class="linktext2" onmouseout="doIMouseOut(73,9)" onmouseover="doTMouseOver(-1,1,73,9)"><div id="nsmenu">&nbsp;&nbsp;Internet Resources</div></a></layer><layer height="14px" top="114" left="1" name="cell74" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="114" left="1" name="tell74" width="166"><a href="http://victorweb.lib.umd.edu" class="linktext2" onmouseout="doIMouseOut(74,9)" onmouseover="doTMouseOver(-1,1,74,9)"><div id="nsmenu">&nbsp;&nbsp;VICTOR</div></a></layer><layer height="14px" top="128" left="1" name="cell75" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="128" left="1" name="tell75" width="166"><a href="http://www.smcm.edu/library/template-library.cfm?doc_id=712" class="linktext2" onmouseout="doIMouseOut(75,9)" onmouseover="doTMouseOver(-1,1,75,9)"><div id="nsmenu">&nbsp;&nbsp;Other Libraries</div></a></layer><layer height="14px" top="142" left="1" name="cell76" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="142" left="1" name="tell76" width="166"><a href="http://www.smcm.edu/library/template-library.cfm?doc_id=713" class="linktext2" onmouseout="doIMouseOut(76,9)" onmouseover="doTMouseOver(-1,1,76,9)"><div id="nsmenu">&nbsp;&nbsp;Maryland Digital Library</div></a></layer><layer name="ltsdO9" height="156px" bgcolor="#000066" left="0" top="0" width="3px"></layer><layer name="btmO9" height="3px" bgcolor="#000066" left="0" top="156" width="169px"></layer><layer name="rtsdO9" height="156px" bgcolor="#000066" left="166" top="0" width="3px"></layer></layer><layer name="sO10" visibility="hide" bgcolor="#000000" left="589" top="19" width="166px" z-index="2" onmouseover="window.document.newsevents.src=corenav_newsevents_over.src" onmouseout="window.document.newsevents.src=corenav_newsevents_off.src"><layer name="topO10" height="3px" bgcolor="#000066" left="0" top="0" width="166px"></layer><layer height="14px" top="2" left="1" name="cell78" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="2" left="1" name="tell78" width="166"><a href="http://www.smcm.edu/newsevents/template-newsevents.cfm?doc_id=664" class="linktext2" onmouseout="doIMouseOut(78,10)" onmouseover="doTMouseOver(-1,1,78,10)"><div id="nsmenu">&nbsp;&nbsp;SMCM in the News</div></a></layer><layer height="14px" top="16" left="1" name="cell81" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="16" left="1" name="tell81" width="166"><a href="http://calendar.smcm.edu" class="linktext2" onmouseout="doIMouseOut(81,10)" onmouseover="doTMouseOver(-1,1,81,10)"><div id="nsmenu">&nbsp;&nbsp;Events Calendar</div></a></layer><layer height="14px" top="30" left="1" name="cell82" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="30" left="1" name="tell82" width="166"><a href="http://www.smcm.edu/bulletin/" class="linktext2" onmouseout="doIMouseOut(82,10)" onmouseover="doTMouseOver(-1,1,82,10);"><div id="nsmenu">&nbsp;&nbsp;Bulletin</div></a></layer><layer height="14px" top="44" left="1" name="cell84" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="44" left="1" name="tell84" width="166"><a href="http://www.smcm.edu/rcs/index.cfm" class="linktext2" onmouseout="doIMouseOut(84,10)" onmouseover="doTMouseOver(-1,1,84,10)"><div id="nsmenu">&nbsp;&nbsp;River Concerts</div></a></layer><layer height="14px" top="58" left="1" name="cell85" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="58" left="1" name="tell85" width="166"><a href="http://www.smcm.edu/rivergazette/" class="linktext2" onmouseout="doIMouseOut(85,10)" onmouseover="doTMouseOver(-1,1,85,10)"><div id="nsmenu">&nbsp;&nbsp;River Gazette</div></a></layer><layer height="14px" top="72" left="1" name="cell86" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="72" left="1" name="tell86" width="166"><a href="http://www.smcm.edu/artsalliance/" class="linktext2" onmouseout="doIMouseOut(86,10)" onmouseover="doTMouseOver(-1,1,86,10)"><div id="nsmenu">&nbsp;&nbsp;Arts Alliance</div></a></layer><layer height="14px" top="86" left="1" name="cell87" bgcolor="#999999" width="166" visibility="hide"></layer><layer height="14px" top="86" left="1" name="tell87" width="166"><a href="http://www.smcm.edu/pointnews/" class="linktext2" onmouseout="doIMouseOut(87,10)" onmouseover="doTMouseOver(-1,1,87,10)"><div id="nsmenu">&nbsp;&nbsp;The Point News</div></a></layer><layer name="ltsdO10" height="100px" bgcolor="#000066" left="0" top="0" width="3px"></layer><layer name="btmO10" height="3px" bgcolor="#000066" left="0" top="100" width="169px"></layer><layer name="rtsdO10" height="100px" bgcolor="#000066" left="166" top="0" width="3px"></layer></layer><layer name="sO11" visibility="hide" bgcolor="#000000" left="605" top="19" width="160px" z-index="2" onmouseover="window.document.services.src=corenav_services_over.src" onmouseout="window.document.services.src=corenav_services_off.src"><layer name="topO11" height="3px" bgcolor="#000066" left="0" top="0" width="160px"></layer><layer height="14px" top="2" left="1" name="cell88" bgcolor="#999999" width="160" visibility="hide"></layer><layer height="14px" top="2" left="1" name="tell88" width="160"><a href="http://www.smcm.edu/ltr/index.cfm" class="linktext2" onmouseout="doIMouseOut(88,11)" onmouseover="doTMouseOver(-1,1,88,11);"><div id="nsmenu">&nbsp;&nbsp;Technology Services</div></a></layer><layer height="14px" top="16" left="1" name="cell89" bgcolor="#999999" width="160" visibility="hide"></layer><layer height="14px" top="16" left="1" name="tell89" width="160"><a href="http://www.smcm.edu/helpdesk/" class="linktext2" onmouseout="doIMouseOut(89,11)" onmouseover="doTMouseOver(-1,1,89,11)"><div id="nsmenu">&nbsp;&nbsp;Help Desk</div></a></layer><layer height="14px" top="30" left="1" name="cell90" bgcolor="#999999" width="160" visibility="hide"></layer><layer height="14px" top="30" left="1" name="tell90" width="160"><a href="http://www.smcm.edu/mediaservices/" class="linktext2" onmouseout="doIMouseOut(90,11)" onmouseover="doTMouseOver(-1,1,90,11)"><div id="nsmenu">&nbsp;&nbsp;Media Services</div></a></layer><layer height="14px" top="44" left="1" name="cell91" bgcolor="#999999" width="160" visibility="hide"></layer><layer height="14px" top="44" left="1" name="tell91" width="160"><a href="http://www.smcm.edu/health/" class="linktext2" onmouseout="doIMouseOut(91,11)" onmouseover="doTMouseOver(-1,1,91,11);"><div id="nsmenu">&nbsp;&nbsp;Health Services</div></a></layer><layer height="14px" top="58" left="1" name="cell192" bgcolor="#999999" width="160" visibility="hide"></layer><layer height="14px" top="58" left="1" name="tell192" width="160"><a href="http://www.smcm.edu/counseling/index.cfm" class="linktext2" onmouseout="doIMouseOut(192,11)" onmouseover="doTMouseOver(-1,1,192,11)"><div id="nsmenu">&nbsp;&nbsp;Counseling Services</div></a></layer><layer height="14px" top="72" left="1" name="cell92" bgcolor="#999999" width="160" visibility="hide"></layer><layer height="14px" top="72" left="1" name="tell92" width="160"><a href="http://www.smcm.edu/publicsafety/" class="linktext2" onmouseout="doIMouseOut(92,11)" onmouseover="doTMouseOver(-1,1,92,11)"><div id="nsmenu">&nbsp;&nbsp;Public Safety</div></a></layer><layer height="14px" top="86" left="1" name="cell93" bgcolor="#999999" width="160" visibility="hide"></layer><layer height="14px" top="86" left="1" name="tell93" width="160"><a href="http://www.smcm.edu/careercenter/" class="linktext2" onmouseout="doIMouseOut(93,11)" onmouseover="doTMouseOver(-1,1,93,11)"><div id="nsmenu">&nbsp;&nbsp;Career Services</div></a></layer><layer height="14px" top="100" left="1" name="cell94" bgcolor="#999999" width="160" visibility="hide"></layer><layer height="14px" top="100" left="1" name="tell94" width="160"><a href="http://www.smcm.edu/foodservice/index.cfm" class="linktext2" onmouseout="doIMouseOut(94,11)" onmouseover="doTMouseOver(-1,1,94,11)"><div id="nsmenu">&nbsp;&nbsp;Dining Services</div></a></layer><layer height="14px" top="114" left="1" name="cell95" bgcolor="#999999" width="160" visibility="hide"></layer><layer height="14px" top="114" left="1" name="tell95" width="160"><a href="http://www.smcm.edu/financialaid/" class="linktext2" onmouseout="doIMouseOut(95,11)" onmouseover="doTMouseOver(-1,1,95,11)"><div id="nsmenu">&nbsp;&nbsp;Financial Aid</div></a></layer><layer height="14px" top="128" left="1" name="cell295" bgcolor="#999999" width="160" visibility="hide"></layer><layer height="14px" top="128" left="1" name="tell295" width="160"><a href="http://www.smcm.edu/personnel/index.cfm" class="linktext2" onmouseout="doIMouseOut(295,11)" onmouseover="doTMouseOver(-1,1,295,11)"><div id="nsmenu">&nbsp;&nbsp;Personnel Services</div></a></layer><layer height="14px" top="142" left="1" name="cell296" bgcolor="#999999" width="160" visibility="hide"></layer><layer height="14px" top="142" left="1" name="tell296" width="160"><a href="http://www.smcm.edu/academicserv/" class="linktext2" onmouseout="doIMouseOut(296,11)" onmouseover="doTMouseOver(-1,1,296,11)"><div id="nsmenu">&nbsp;&nbsp;Academic Services</div></a></layer><layer name="ltsdO11" height="156px" bgcolor="#000066" left="0" top="0" width="3px"></layer><layer name="btmO11" height="3px" bgcolor="#000066" left="0" top="156" width="163px"></layer><layer name="rtsdO11" height="156px" bgcolor="#000066" left="160" top="0" width="3px"></layer></layer>
-
-
-
-<!-- ================== End include for header navigation ================== -->
-
-
-
-<!-- ================== Begin include for header navigation ================== -->	
-
-
-
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#284490">
-<tbody><tr>
-    <td valign="top" width="48"><a href="http://www.smcm.edu" onmouseover="document.home.src=corenav_home_over.src; doIMouseOver(2,0,-1);" onmouseout="document.home.src=corenav_home_off.src; setClearTime();"><img src="http://www.smcm.edu/images/global/bnvbt1-home.gif" width="48" height="19" border="0" name="home" alt="SMCM Home"></a></td>
-    <td valign="top" width="113"><a href="http://www.smcm.edu/about/" onmouseover="document.about.src=corenav_about_over.src; doIMouseOver(3,0,-1);" onmouseout="document.about.src=corenav_about_off.src; setClearTime();"><img src="http://www.smcm.edu/images/global/bnvbt2-about.gif" width="113" height="19" border="0" name="about" alt="About"></a></td>
-    <td valign="top" width="76"><a href="http://www.smcm.edu/academics/" onmouseover="document.academics.src=corenav_academics_over.src; doIMouseOver(4,0,-1);" onmouseout="document.academics.src=corenav_academics_off.src; setClearTime();"><img src="http://www.smcm.edu/images/global/bnvbt3-academ.gif" width="76" height="19" border="0" name="academics" alt="Academics"></a></td>
-    <td valign="top" width="98"><a href="http://www.smcm.edu/admin/" onmouseover="document.administration.src=corenav_administration_over.src; doIMouseOver(5,0,-1);" onmouseout="document.administration.src=corenav_administration_off.src; setClearTime();"><img src="http://www.smcm.edu/images/global/bnvbt4-admin.gif" width="98" height="19" border="0" name="administration" alt="Administration"></a></td>
-    <td valign="top" width="77"><a href="http://www.smcm.edu/admissions/index.cfm" onmouseover="document.admissions.src=corenav_admissions_over.src; doIMouseOver(6,0,-1);" onmouseout="document.admissions.src=corenav_admissions_off.src; setClearTime();"><img src="http://www.smcm.edu/images/global/bnvbt5-admit.gif" width="77" height="19" border="0" name="admissions" alt="Admissions"></a></td>
-    <td valign="top" width="65"><a href="http://www.smcm.edu/athletics/" onmouseover="document.athletics.src=corenav_athletics_over.src; doIMouseOver(7,0,-1);" onmouseout="document.athletics.src=corenav_athletics_off.src; setClearTime();"><img src="http://www.smcm.edu/images/global/bnvbt6-athlet.gif" width="65" height="19" border="0" name="athletics" alt="Athletics"></a></td>
-    <td valign="top" width="56"><a href="http://www.smcm.edu/campus/" onmouseover="document.campus.src=corenav_campus_over.src; doIMouseOver(8,0,-1);" onmouseout="document.campus.src=corenav_campus_off.src; setClearTime();"><img src="http://www.smcm.edu/images/global/bnvbt7-campus.gif" width="56" height="19" border="0" name="campus" alt="Campus"></a></td>
-    <td valign="top" width="55"><a href="http://www.smcm.edu/library/index.cfm" onmouseover="document.library.src=corenav_library_over.src; doIMouseOver(9,0,-1);" onmouseout="document.library.src=corenav_library_off.src; setClearTime();"><img src="http://www.smcm.edu/images/global/bnvbt8-library.gif" width="55" height="19" border="0" name="library" alt="Library"></a></td>
-    <td valign="top" width="99"><a href="http://www.smcm.edu/newsevents/" onmouseover="document.newsevents.src=corenav_newsevents_over.src; doIMouseOver(10,0,-1);" onmouseout="document.newsevents.src=corenav_newsevents_off.src; setClearTime();"><img src="http://www.smcm.edu/images/global/bnvbt9-news.gif" width="99" height="19" border="0" name="newsevents" alt="News&amp;Events"></a></td>
-    <td valign="top" width="79"><a href="http://www.smcm.edu/services/" onmouseover="document.services.src=corenav_services_over.src; doIMouseOver(11,0,-1);" onmouseout="document.services.src=corenav_services_off.src"><img src="http://www.smcm.edu/images/global/bnvbt10-serv.gif" width="79" height="19" border="0" name="services" alt="Services"></a></td>
-<td valign="top" width="100%" bgcolor="#FFFFFF"></td>
-</tr>
-</tbody></table>			
-		
-
-<!-- End include for header navigation -->
-
-
-
-
-
-<div align="left">
-  <table border="0" cellpadding="0" cellspacing="0" width="921">
-    <tbody><tr>
-      <td width="15" bgcolor="#284490"><img border="0" src="http://www.smcm.edu/images/tspacer.gif" width="15" height="1"></td>
-      <td width="399" bgcolor="#284490" height="36">
-      <img border="0" src="http://www.smcm.edu/images/Honors.gif" width="399" height="36"></td>
-      <td width="352" bgcolor="#284490" height="36"><img border="0" src="http://www.smcm.edu/images/tspacer.gif" width="350" height="1"></td>
-      <td width="155" bgcolor="#FFFFFF">&nbsp;</td>
-    </tr>
-    <tr>
-      <td width="15" bgcolor="#FFFFFF">&nbsp;</td>
-      <td width="399" valign="top" align="left" height="24"><map name="FPMap0">
-      <area target="_blank" href="http://www.stmaryscity.org" shape="rect" coords="217, 38, 381, 59">
-      </map>
-      <img border="0" src="http://www.smcm.edu/images/Wordmark.gif" width="399" height="61" usemap="#FPMap0"></td>
-      <td width="352" valign="top" align="left" height="24">
-      
-<script language="JavaScript">
-<!-- Begin
-showImage();
-//  End -->
-      </script><img src="http://www.smcm.edu/images/bannerpics/Scene1Pt5.jpg"></td>
-
-      <td width="155" valign="top" align="left" bgcolor="#FFFFFF"></td>
-    </tr>
-    <tr>
-      <td width="15" bgcolor="#D6DBE7">&nbsp;</td>
-      <td width="399" valign="top" align="left" bgcolor="#D6DBE7" height="19"><img border="0" src="http://www.smcm.edu/images/tspacer.gif" width="300" height="1"></td>
-      <td width="352" valign="top" align="left" bgcolor="#D6DBE7" height="19">&nbsp;</td>
-      <td width="155" valign="top" align="left" bgcolor="#FFFFFF">&nbsp;</td>
-    </tr>
-    <tr>
-      <td width="15" bgcolor="#FFFFFF">&nbsp;</td>
-      <td width="665" valign="middle" align="left" bgcolor="#FFFFFF" colspan="2">
-        <p><b><font face="Verdana" color="#29458C" size="4">
-        Privacy Statement</font></b></p></td>
-      <td width="155" valign="top" align="right" bgcolor="#FFFFFF">&nbsp;</td>
-    </tr>
-    <tr>
-      <td width="15" bgcolor="#FFFFFF">&nbsp;</td>
-      <td width="751" valign="middle" align="left" bgcolor="#FFFFFF" colspan="2">
-        
-
-
-
-
-	
-		
-			
-				
-			
-			
-				
-			
-			  
-			<st1:state><st1:place><span>Maryland</span></st1:place></st1:state> <span>law mandates that State agencies shall not create personal records unless the need for the information is clearly established that personal records are relevant to the purposes for which they are collected, be accurate and current, and will not be obtained by fraudulent means.</span> 
-
-<p><span>State officials who request personal data from citizens must notify the citizens regarding the purposes for which the information is collected, the consequences to the citizen for refusing to provide the personal information, the citizen's right to inspect and correct personal records, whether the information is generally available for public inspection, and whether the information is made available to other entities.</span></p>
-
-<p><span>Please refer to the <a target="_blank" href="http://www.techmd.state.md.us"><span>eMaryland technology Web site</span></a> (<a target="_blank" href="http://techmd.state.md.us/"><span>http://techmd.state.md.us/</span></a>) for additional information on information technology policies in</span> <st1:state><st1:place><span>Maryland</span></st1:place></st1:state><span>. The State of</span> <st1:state><st1:place><span>Maryland</span></st1:place></st1:state> <span>is committed to providing you with Web sites over which you may securely and confidently transact business with the State.</span></p> 
-			
-		
-	
-
-
-
-
+<script language="javascript">
+function startWindow(URL, winsize)
+ {
+  newWindow= window.open(URL, "displayWindow", winsize, "resizable=no,scrollbars=no, status=no,toolbar=no,menubar=no");
+}</script>
+
+
+</head>
+
+<body topmargin="0" leftmargin="0">
+<table width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" height="469">
+  <tbody><tr align="left" valign="top" bgcolor="#333399"> 
+    <td height="24" colspan="3"><img src="/template_files/publichonors.gif" width="250" height="20"></td>
+  </tr>
+    <tr align="left" valign="top"> 
+    <td height="69" colspan="2"><img src="/template_files/wordmark.gif" width="364" height="64"></td>
+    <td height="69" align="right" valign="center">
+    
+    </td>
+  </tr>
+  <tr align="left" valign="top"> 
+    <td height="24" colspan="3" bgcolor="#333399">
+<table width="800" border="0" cellpadding="2">
+<tbody><tr align="center" valign="middle"> 
+          <td width="97"><a class="nav" href="http://www.smcm.edu/about">About 
+            SMCM</a></td>
+          <td width="86"><a class="nav" href="http://www.smcm.edu/academics">Academics</a></td>
+          <td width="90"><a class="nav" href="http://www.smcm.edu/admissions">Admissions</a></td>
+          <td width="57"><a class="nav" href="http://www.smcm.edu/alum">Alumni</a></td>
+          <td width="78"><a class="nav" href="http://www.smcm.edu/athletics">Athletics</a></td>
+          <td width="120"><a class="nav" href="http://www.smcm.edu/admin">Administration</a></td>
+          <td width="96"><a class="nav" href="http://www.smcm.edu/campus">Campus 
+            Life</a></td>
+          <td width="74"><a class="nav" href="http://www.smcm.edu/services">Services</a></td>
+          <td width="46"><a class="nav" href="http://www.smcm.edu/newsevents">News</a></td></tr>
+</tbody></table>        
+</td>
+  </tr>
+  <tr> 
+    <td width="182" colspan="3" height="3"><img src="/template_files/spacer.gif" width="800" height="1"></td>
+  </tr>
+  <tr align="left" valign="top"> 
+    <td width="182" height="154"> <img src="/template_files/blueside.gif" width="180" height="46"> 
+       </td>
+    <td width="708" height="154"> <table width="440" border="0" cellpadding="0" cellspacing="0" height="116">
+        <tbody><tr align="left" valign="top"> 
+          <td width="440" height="23" colspan="2" bgcolor="#333399"> <script><!--
+          document.write('<img src="'+Motto[whichMotto]+'" width="440" height="20">');
+          --></script><img src="http://www.smcm.edu/admissions/pics/motto2.gif" width="440" height="20"> </td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td width="200" height="96" rowspan="2"> <script><!--
+		  document.write('<img src="'+MottoImg[whichMotto]+'" width="200" height="96">');
+		  --></script><img src="http://www.smcm.edu/admissions/pics/toppic2.jpg" width="200" height="96"> </td>
+          <td width="240" height="23"> <script><!--
+          document.write('<img src="'+Byline[whichMotto]+'" width="240" height="23">');
+          -->
+          </script><img src="http://www.smcm.edu/admissions/pics/byline2.gif" width="240" height="23"> </td>
+        </tr>
+        <tr> 
+          <td width="240" height="76"> <h2 class="main">Privacy Statement </h2>
+             
+              <p class="date">June 07, 2004</p>
+            
+          </td>
+        </tr>
+      </tbody></table>
+      <p>&nbsp;</p></td>
+<td width="182" align="right" height="154"> <img src="/template_files/blueside.gif" width="180" height="46"></td></tr>
+<tr><td colspan="3" height="1">
+<table cellpadding="3"><tbody><tr><td><h2>St. Mary's College of Maryland Privacy Statement</h2>
+<p>Maryland law mandates that State agencies shall not create personal records 
+unless the need for the information is clearly established that personal records 
+are relevant to the purposes for which they are collected, be accurate and 
+current, and will not be obtained by fraudulent means. </p>
+<p>State officials who request personal data from citizens must notify the citizens 
+regarding the purposes for which the information is collected, the consequences 
+to the citizen for refusing to provide the personal information, the citizen's 
+right to inspect and correct personal records, whether the information is 
+generally available for public inspection, and whether the information is made 
+available to other entities.</p>
+Please refer to the eMaryland technology Web site (<a target="_blank" href="http://techmd.state.md.us/">http://techmd.state.md.us/</a>) 
+for additional information on information technology policies in Maryland. The 
+State of Maryland is committed to providing you with Web sites over which you 
+may securely and confidently transact business with the State.<p></p>
+</td></tr></tbody></table></td></tr>
+<tr align="left" valign="top"> 
+    <td height="195" colspan="3">
+<table width="100%" height="20" border="0" cellpadding="5" cellspacing="0" bgcolor="#333399">
+        <tbody><tr> 
+          <td height="43" colspan="3"><table width="100%" cellpadding="5" height="20" border="0" cellspacing="0" bgcolor="#333399">
+        <tbody><tr> 
+          <td align="center" valign="bottom"> <form action="http://www.google.com/u/SMCM" method="GET">
+              <p class="bottomnav" align="center">
+              <a class="bottomnav" href="/smartnet">SMARTNet</a> | <a href="http://courses.smcm.edu" class="bottomnav">Blackboard</a> | 
+              <a href="/webmail" class="bottomnav">E-mail</a> 
+                | <a href="http://calendar.smcm.edu" class="bottomnav">Events Calendar</a>
+		| <a href="/library" class="bottomnav">Library</a> |
+              <a href="/directories" class="bottomnav">Directories</a> | 
+              <a href="/sitemap" class="bottomnav">Site Map</a> | Search: 
+                <input maxlength="25" size="15" name="q"> 
+                <input type="hidden" name="sa" value="Google Search">
+                <input type="image" alt="Search" src="/empower/images/submitbutton.gif" align="top" border="0" name="SubmitButton" width="53" height="22">
+            </p></form></td>
+        </tr>
+	</tbody></table></td></tr>
+	<tr>
+		<td colspan="3" bgcolor="#FFFFFF"><p align="center" class="side">St. Mary's College of Maryland, 18952 E. Fisher Rd, St. Mary's City, MD 20686-3001, 240-895-2000 <br>© 2004, St. Mary's College of Maryland | <a href="http://www.smcm.edu/privacy.cfm">Privacy</a> |&nbsp;<a href="http://www.smcm.edu/dmcn.cfm">Copyright Notice</a></p></td>
+	</tr>
+</tbody></table>
 
 </td>
-      <td width="155" valign="top" align="right" bgcolor="#FFFFFF">&nbsp;</td>
-    </tr>
-    <tr>
-      <td width="15" bgcolor="#FFFFFF">&nbsp;</td>
-      <td width="399" valign="top" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td width="352" valign="top" align="left"></td>
-      <td width="155" valign="top" align="left"></td>
-    </tr>
-  </tbody></table>
-</div>
-
-
-
-	
-		
-			
-				
-			
-			
-				
-			
-			  
-			<table cellspacing="0" cellpadding="0" width="760" bgcolor="#ffffff" border="0">
-<tbody>
-<tr>
-<td valign="top" align="left" width="758" bgcolor="#d6dbe7" colspan="3" height="20">
-<p><br>
-</p>
-
-<form action="http://www.google.com/u/SMCM" method="get">&nbsp; <b><a href="http://www.smcm.edu/smartnet/"><font face="Verdana" color="#284490" size="1">SMARTNet</font></a><font face="Verdana" color="#c0c0c0" size="1">&nbsp; |</font> &nbsp;<a href="http://www.smcm.edu/blackboard/"><font face="Verdana" color="#284490" size="1">Blackboard</font></a><font face="Verdana" color="#284490" size="1">&nbsp;</font> <font face="Verdana" color="#c0c0c0" size="1">|</font>&nbsp; <a href="http://www.smcm.edu/webmail/index.cfm"><font face="Verdana" color="#284490" size="1">Email</font></a><font face="Verdana" color="#c0c0c0" size="1">&nbsp;&nbsp; |</font> &nbsp;<a href="http://calendar.smcm.edu/" target="_blank"><font face="Verdana" color="#284490" size="1">Events Calendar</font></a><font face="Verdana" color="#c0c0c0" size="1">&nbsp;&nbsp;|</font> &nbsp;<a href="http://www.smcm.edu/directories/"><font face="Verdana" color="#284490" size="1">Directories</font></a><font face="Verdana" color="#c0c0c0" size="1">&nbsp;&nbsp;|</font> &nbsp;<a href="http://www.smcm.edu/sitemap/"><font face="Verdana" color="#284490" size="1">Site Map</font></a> <font face="Verdana" color="#c0c0c0" size="1">&nbsp;|</font> <font face="Verdana" color="#284490" size="1">Search:</font></b> <font color="#284490">&nbsp;</font> <input type="hidden" value="Google Search" name="sa"><input maxlength="25" size="15" name="q">&nbsp; <input type="image" height="22" alt="Search" width="53" src="http://www.smcm.edu/empower/images/submitbutton.gif" align="top" border="0" name="SubmitButton">&nbsp;<br>
-<br>
-</form>
-</td>
-</tr>
-
-<tr>
-<td valign="top" align="left" width="759" bgcolor="#ffffff" colspan="3" height="50">
-<p align="center"><font face="Verdana" color="#284490" size="1"><br>
-St. Mary's College of Maryland, 18952 E. Fisher Rd, St. Mary's City, MD 20686-3001, 240-895-2000<br>
-© 2001, St. Mary's College of Maryland | Disclaimer | <a href="http://www.smcm.edu/privacy.cfm">Privacy</a> |&nbsp;<a onclick="PopUpWindow('http://www.smcm.edu/empower/login.cfm?action=li', 'Login', 250, 145, 0, 0);" href="#">Web Mgt</a> |&nbsp;<a href="http://www.smcm.edu/dmcn.cfm">Copyright Notice</a></font></p>
-
-<p align="center"><img height="1" src="http://www.smcm.edu/images/tspacer.gif" width="1" border="0"></p>
-</td>
-</tr>
-</tbody>
-</table> 
-			
-		
-	
-
-
-
-<p align="left">&nbsp;</p>
-
-</body></html>
+  </tr>
+</tbody></table></body></html>
