@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeyfights.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207115131id_/http%3A//www.hockeyfights.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeyfights.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306032549id_/http%3A//www.hockeyfights.com/privacy_policy) for the most accurate reproduction.*
 
 # hockeyfights.com - privacy policy
 
@@ -38,4 +38,4 @@ We use BURST! Media, FastClick, Gorilla Nation Media, Max WorldWide and other th
 
 In the course of serving advertisements to this site, our third-party ad server, BURST! Media, FastClick, Gorilla Nation, Double Click or their affiliates, or individual advertisers may place or recognize a unique “cookie” on your browser.
 
-If you have any questions about this privacy policy, please feel free to [contact](https://web.archive.org/web/20031207115131id_/http%3A//www.hockeyfights.com/contact.htm) us.
+If you have any questions about this privacy policy, please feel free to [contact](https://web.archive.org/contact/) us.
