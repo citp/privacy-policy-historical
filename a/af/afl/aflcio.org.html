@@ -1,97 +1,1022 @@
-<!--The following is the downloaded HTML source of the aflcio.org privacy policy that was archived on 2002-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601140134id_/http%3A//www.aflcio.org/home_privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aflcio.org privacy policy that was archived on 2003-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622111752id_/http%3A//aflcio.org/siteguides/privacypolicy.cfm) for the most accurate reproduction.-->
 
-<html><!-- #BeginTemplate "/Templates/gen.dwt" --><head>
-<!-- #BeginEditable "doctitle" -->
-<title>Privacy Notice for the AFL-CIO Website</title>
-<!-- #EndEditable --> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<title>Privacy Policy</title>
+<meta name="Description" content="Privacy Policy">
+<meta name="Keywords" content=""><meta name="Generator" content="CommonSpot Content Server Version 3.2 SP2">
+<link rel="stylesheet" href="/style/resources.css" type="text/css"><link rel="stylesheet" href="/style/default.css" type="text/css">
+<script language="JavaScript"> <!--
+var gMenuControlID=0;
+var menus_included = 0;
+var jsPageAuthorMode = 0;
+var jsSessionPreviewON = 1;
+var jsDlgLoader = '/siteguides/loader.cfm';
+var jsSiteID = 1;
+var jsSubSiteID = 96;
+var kurrentPageID = 8323;
+// -->
+</script><script language="JavaScript" src="/commonspot/nw-lame.js"></script>
 </head>
+<body lang="en" class="CS_Document" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" alink="#CC0000" bgcolor="#FFFFFF" link="#CC0000" vlink="#CC0000"><a name="__topdoc__"></a><script language="JavaScript"><!--
+// always-include-ie.js  Copyright 1998-2003 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if ((bName == "Netscape" && bVer >= 3) ||
+(bName == "Microsoft Internet Explorer" && bVer >= 4))
+bCanRollover=1;
+function ImageSet(imgID,newTarget)
+{
+if (bCanRollover)
+document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+window.status = "";
+}
+function setStatbar(statbar)
+{
+var strStatbar=unescape(statbar);
+window.status=strStatbar;
+}
+function onLoadComplete()
+{
+if( menus_included == 1 )
+document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link)
+{
+// links are in one of the following formats:
+// 		cpe_60_0,CP___PAGEID=100
+// 		CPNEWWIN:WindowName^params@CP___
+// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+if( jsPageAuthorMode == 0 )
+{
+windowname = "";
+windowparams = "";
+// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL;
+pos = link.indexOf("CPNEWWIN:");
+if (pos != -1)
+{
+pos1 = link.indexOf ("^");
+windowname = link.substring (pos+9, pos1);
+pos2 = link.indexOf ("@");
+windowparams = link.substring (pos1 + 1, pos2);
+link = link.substring (pos2 + 1, link.length);
+}
+if (link.indexOf ("CP___") != -1)
+{
+if (windowname == "")
+window.location = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+else
+{
+urltoopen = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+windowparams = FormatWindowParams(windowparams);
+window.open (urltoopen, windowname, windowparams);
+}
+}
+else
+{
+if (windowname == "")
+window.location = link;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (link, windowname, windowparams);
+}
+}
+}
+else if( jsSessionPreviewON == 1 )
+{
+previewLink(link);
+}
+else
+{
+if( document.all[parentID] )
+document.all[parentID].click();
+}
+}
+function doWindowOpen(href,name,params)
+{
+window.open (href, name, params);
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 ||
+windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+{
+windowparams = substringReplace(windowparams,':left=',',left=');
+windowparams = substringReplace(windowparams,'left=','left=');
+windowparams = substringReplace(windowparams,':ww=',',width=');
+windowparams = substringReplace(windowparams,'ww=','width=');
+windowparams = substringReplace(windowparams,':hh=',',height=');
+windowparams = substringReplace(windowparams,'hh=','height=');
+windowparams = substringReplace(windowparams,':loc=',',location=');
+windowparams = substringReplace(windowparams,'loc=','location=');
+windowparams = substringReplace(windowparams,':dir=',',directories=');
+windowparams = substringReplace(windowparams,'dir=','directories=');
+windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+windowparams = substringReplace(windowparams,'tb=','toolbar=');
+windowparams = substringReplace(windowparams,':stat=',',status=');
+windowparams = substringReplace(windowparams,':mb=',',menubar=');
+windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+windowparams = substringReplace(windowparams,':rs=',',resizable=');
+}
+return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+var pos = 0;
+var target="";
+while ((pos = source.indexOf(pattern)) != (-1))
+{
+target = target + source.substring(0,pos) + replacement;
+source = source.substring(pos+pattern.length);
+pos = source.indexOf(pattern);
+}
+return (target + source);
+}
+// handle scheduled element links
+function show_sched_element(eid)
+{
+evalCol = String(self.element_collection);
+dispFlag = false;
+ua = navigator.userAgent.toLowerCase();
+if (bName == "Netscape" || ua.indexOf('aol') >= 0)
+{
+// cloned from always-include-ns.js
+tmp = "";
+if  (evalCol != 'undefined')
+{
+str = self.location.search;
+for(i=0;i<self.element_collection.length;i++)
+{
+sp = 'sched_elements_' + self.element_collection[i].id;
+if  (self.element_collection[i].id == eid)
+{
+dispFlag = true;
+if  (str == '')
+{
+tmp = "?forceElement=" + eid;
+self.location.search = tmp;
+}
+else
+{
+qArray = str.split("&");
+forceExists = false;
+for(i=0; i < qArray.length; i++)
+{
+el = qArray[i];
+qel = el.split('=');
+if  (qel.length == 1)
+qel[1] = '';
+if  (qel[0] == 'forceElement' || qel[0] == '?forceElement')
+{
+forceExists = true;
+qel[1] = eid;
+}
+qArray[i] = qel;
+}
+// reassemble
+searchStr = '';
+for (i=0; i < qArray.length; i++)
+{
+if  (i == 0)
+searchStr = qArray[i][0] + '=' + qArray[i][1];
+else
+searchStr = searchStr + '&' + qArray[i][0] + '=' + qArray[i][1];
+}
+if  (!forceExists)
+searchStr = searchStr + '&forceElement=' + eid;
+tmp = searchStr;
+self.location.search = searchStr;
+break;
+}
+}
+}
+}
+if  (!dispFlag)
+alert("You do not have access to the requested element.")
+}
+else
+{
+if ( evalCol != 'undefined' )
+{
+for(i=0;i<self.element_collection.length;i++)
+{
+sp = 'sched_elements_' + self.element_collection[i].id;
+obj = document.all.item(sp);
+//alert(sp);
+if ( self.element_collection[i].id == eid && obj != null)
+{
+dispFlag = true;
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'block';
+}
+}
+else
+document.all(sp).style.display = 'block';
+}
+else if ( obj != null )
+{
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'none';
+}
+}
+else
+document.all(sp).style.display = 'none';
+}
+}
+}
+if ( !dispFlag )
+alert("You do not have access to the requested element.")
+}
+}
+// --></script>
+<script language="JavaScript"> <!--
+function glblLinkHandler(lobj, attr, val)
+{
+return;
+}
+function onLoadFinished()
+{
+onLoadComplete();
+}
+var js_gvPageID = 8323;
+// -->
+</script><script language="JavaScript"><!--
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
 
-<body bgcolor="#ffffff" link="#CC3333" vlink="#CC3333" alink="#CC3333">
-<table cellpadding="0" cellspacing="0" border="0" width="570" height="100">
-  <tbody><tr>  
-    <td valign="TOP" width="406" height="99"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td valign="TOP" width="408" height="100"><a href="/home.htm" target="_top"><img src="/articles/images/ban_l.gif" alt="Go to AFL-CIO main page" width="408" height="100" border="0" hspace="0" vspace="0" align="BOTTOM"></a></td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td valign="TOP" width="195" height="99"><!-- #BeginEditable "banner" --><img src="/images/ban_left.gif" width="192" height="100"><!-- #EndEditable --></td>
-  </tr>
+var bCanRollover=0
+if ((bName == "Netscape" && bVer >= 3) ||
+	 (bName == "Microsoft Internet Explorer" && bVer >= 4))
+	bCanRollover=1;
+
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+		document[imgID].src=newTarget;
+}
+// -->
+</script><!-- -->
+<script language="JavaScript" src="/scripts/browsercheck.js"></script>
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )));
+// Set up button positions
+var menuWidth = 130;
+var topPosition = 78;
+// Constants used in menu placement == 84
+BUTTON_SPACING = 0;
+BUTTON_SPACING_SOL = 0;
+BUTTON_START = 0;
+var currentPosition = BUTTON_START;
+//-->
+</script>
+<script language="JavaScript1.2">
+browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )));
+if (browser) {
+window.onerror=null;
+unions_off = new Image;
+unions_off.src = '/images/b_unions.gif';
+unions_on = new Image;
+unions_on.src = '/images/b_unions_h.gif';
+Issues_off = new Image;
+Issues_off.src = '/images/b_issues.gif';
+Issues_on = new Image;
+Issues_on.src = '/images/b_issues_h.gif';
+Job_off = new Image;
+Job_off.src = '/images/b_job.gif';
+Job_on = new Image;
+Job_on.src = '/images/b_job_h.gif';
+Corporations_off = new Image;
+Corporations_off.src = '/images/b_corporations.gif';
+Corporations_on = new Image;
+Corporations_on.src = '/images/b_corporations_h.gif';
+Resources_off = new Image;
+Resources_off.src = '/images/b_resources.gif';
+Resources_on = new Image;
+Resources_on.src = '/images/b_resources_h.gif';
+Community_off = new Image;
+Community_off.src = '/images/b_community.gif';
+Community_on = new Image;
+Community_on.src = '/images/b_community_h.gif';
+About_off = new Image;
+About_off.src = '/images/b_about.gif';
+About_on = new Image;
+About_on.src = '/images/b_about_h.gif';
+Media_off = new Image;
+Media_off.src = '/images/b_media.gif';
+Media_on = new Image;
+Media_on.src = '/images/b_media_h.gif';
+}
+//All About Unions
+currentPosition = currentPosition + 1;
+HM_Array1 = [
+[,currentPosition,topPosition],
+["Form Your Union","/aboutunions/howto/",1,0,0],
+["How &amp; Why People Join Unions","/aboutunions/joinunions/",1,0,0],
+["Workers' Voices","/aboutunions/voices/",1,0,0],
+["Unions of the AFL-CIO","/aboutunions/unions/",1,0,0],
+["Union Summer","/aboutunions/unionsummer/",1,0,0],
+["Become an Organizer","/aboutunions/oi/",1,0,0],
+["Local Union Movements","/aboutunions/unioncities/",1,0,0],
+["Global Unions","/aboutunions/globalunions/",1,0,0],
+["Allied Organizations","/aboutunions/allies/",1,0,0],
+["Support Our Troops","/aboutunions/troops/",1,0,0],
+["September 11","/aboutunions/sept11/",1,0,0]
+]
+//Issues & Politics
+currentPosition = currentPosition + 88;
+HM_Array2 = [
+[,currentPosition,topPosition],
+["Manufacturing","/issuespolitics/manufacturing/",1,0,0],
+["Civil Rights","/issuespolitics/civilrights/",1,0,0],
+["Education","/issuespolitics/education/",1,0,0],
+["Global Economy","/issuespolitics/globaleconomy/",1,0,0],
+["Health Care","/issuespolitics/healthpolicy/",1,0,0],
+["Immigrant Workers","/issuespolitics/immigration",1,0,0],
+["Pensions &amp; Savings","/issuespolitics/pensionsavings/",1,0,0],
+["Social Security &amp; Medicare","/issuespolitics/socialsecurity/",1,0,0],
+["Work &amp; Family","/issuespolitics/worknfamily/",1,0,0],
+["State Legislative Issues","/issuespolitics/stateissues/",1,0,0],
+["Congressional Voting Record","/issuespolitics/votes/",1,0,0],
+["Working Families Toolkit","/issuespolitics/toolkit/",1,0,0],
+["BushWatch","/issuespolitics/bushwatch/",1,0,0],
+["People-Powered Politics","/issuespolitics/politics/",1,0,0]
+]
+//Your Job & the Economy
+currentPosition = currentPosition + 85;
+HM_Array3 = [
+[,currentPosition,topPosition],
+["Jobs","/yourjobeconomy/jobs/",1,0,0],
+["Overtime Pay","/yourjobeconomy/overtimepay/",1,0,0],
+["Living Wage","/yourjobeconomy/livingwage/",1,0,0],
+["Minimum Wage","/yourjobeconomy/minimumwage/",1,0,0],
+["Working Women","/yourjobeconomy/women/",1,0,0],
+["Unemployment Help","/yourjobeconomy/help/",1,0,0],
+["Workers&#146; Rights","/yourjobeconomy/rights/",1,0,0],
+["Safety &amp; Health at Work","/yourjobeconomy/safety/",1,0,0],
+["Today's Economy","/yourjobeconomy/todayseconomy/",1,0,0]
+]
+//Eye on Corporate America
+currentPosition = currentPosition + 111;
+HM_Array4 = [
+[,currentPosition,topPosition],
+["Executive PayWatch","/corporateamerica/paywatch/",1,0,0],
+["The Enron Story","/corporateamerica/enron/",1,0,0],
+["Research Resources","/corporateamerica/research/",1,0,0],
+["Stop Sweatshops","/corporateamerica/stop/",1,0,0],
+["Capital Stewardship","/corporateamerica/capital/",1,0,0]
+]
+//Family Fun & Resources
+currentPosition = currentPosition + 120;
+HM_Array5 = [
+[,currentPosition,topPosition],
+["The Union Shop Online","http://unionshop.aflcio.org",1,0,0],
+["Health Care","/familyfunresources/healthcarehelp",1,0,0],
+["Retirement","/familyfunresources/retirement/",1,0,0],
+["Homework Helpers","/familyfunresources/homework/",1,0,0],
+["Consumer Protection","/familyfunresources/consumers/",1,0,0],
+["College Cost Help","/familyfunresources/collegecosts/",1,0,0],
+["Elder Care","/familyfunresources/elders/",1,0,0],
+["Child Care","/familyfunresources/childcare/",1,0,0],
+["Resources for Coping","/familyfunresources/crisis/",1,0,0],
+["Arcade&#151;Games","/familyfunresources/games/",1,0,0]
+]
+//Community Partners
+currentPosition = currentPosition + 98;
+HM_Array6 = [
+[,currentPosition,topPosition],
+["Faith &amp; Worker Justice","/communitypartners/faith/",1,0,0],
+["Alliance for Retired Americans","/communitypartners/ara/",1,0,0],
+["Union Community Fund","/communitypartners/ucf/",1,0,0],
+["Constituency Groups","/communitypartners/constituencies/",1,0,0],
+["Community Service Network","/communitypartners/peoplehelp/",1,0,0]
+]
+//About the AFL-CIO
+currentPosition = currentPosition - 17;
+HM_Array7 = [
+[,currentPosition,topPosition],
+["About Us","/aboutaflcio/about/",1,0,0],
+["Leadership","/aboutaflcio/leaders/",1,0,0],
+["Executive Council","/aboutaflcio/ecouncil/",1,0,0],
+["Culture &amp; History","/aboutaflcio/history/",1,0,0],
+["America@work","/aboutaflcio/magazine/",1,0,0],
+["Work in Progress","/aboutaflcio/wip/",1,0,0]
+]
+//Media Center
+currentPosition = currentPosition + 82;
+HM_Array8 = [
+[,currentPosition,topPosition],
+["Press Releases, Speeches &amp; Testimony","/mediacenter/prsptm/",1,0,0],
+["Media Resources","/mediacenter/resources/",1,0,0]
+]
+</script>
+<script language="JavaScript1.2" src="/scripts/HM_Loader.js" type="TEXT/JAVASCRIPT"></script><script language="JavaScript1.2" src="/scripts/hierMenus.js" type="text/javascript"></script><div id="HM_Menu1" style="position: absolute; visibility: hidden; width: 198px; border-width: 1px; border-color: rgb(153, 153, 153); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: bold 9pt Arial, Helvetica, sans-serif; height: 208px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 0px;">Form Your Union</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 19px;">How &amp; Why People Join Unions</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 38px;">Workers' Voices</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 57px;">Unions of the AFL-CIO</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 76px;">Union Summer</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 95px;">Become an Organizer</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 114px;">Local Union Movements</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 133px;">Global Unions</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 152px;">Allied Organizations</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 171px;">Support Our Troops</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; width: 194px; left: 0px; top: 190px;">September 11</div></div><div id="HM_Menu2" style="position: absolute; visibility: hidden; width: 198px; border-width: 1px; border-color: rgb(153, 153, 153); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: bold 9pt Arial, Helvetica, sans-serif; height: 265px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 0px;">Manufacturing</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 19px;">Civil Rights</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 38px;">Education</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 57px;">Global Economy</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 76px;">Health Care</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 95px;">Immigrant Workers</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 114px;">Pensions &amp; Savings</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 133px;">Social Security &amp; Medicare</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 152px;">Work &amp; Family</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 171px;">State Legislative Issues</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 190px;">Congressional Voting Record</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 209px;">Working Families Toolkit</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 228px;">BushWatch</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; width: 194px; left: 0px; top: 247px;">People-Powered Politics</div></div><div id="HM_Menu3" style="position: absolute; visibility: hidden; width: 198px; border-width: 1px; border-color: rgb(153, 153, 153); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: bold 9pt Arial, Helvetica, sans-serif; height: 170px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 0px;">Jobs</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 19px;">Overtime Pay</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 38px;">Living Wage</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 57px;">Minimum Wage</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 76px;">Working Women</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 95px;">Unemployment Help</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 114px;">Workers’ Rights</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 133px;">Safety &amp; Health at Work</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; width: 194px; left: 0px; top: 152px;">Today's Economy</div></div><div id="HM_Menu4" style="position: absolute; visibility: hidden; width: 198px; border-width: 1px; border-color: rgb(153, 153, 153); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: bold 9pt Arial, Helvetica, sans-serif; height: 94px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 0px;">Executive PayWatch</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 19px;">The Enron Story</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 38px;">Research Resources</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 57px;">Stop Sweatshops</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; width: 194px; left: 0px; top: 76px;">Capital Stewardship</div></div><div id="HM_Menu5" style="position: absolute; visibility: hidden; width: 198px; border-width: 1px; border-color: rgb(153, 153, 153); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: bold 9pt Arial, Helvetica, sans-serif; height: 189px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 0px;">The Union Shop Online</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 19px;">Health Care</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 38px;">Retirement</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 57px;">Homework Helpers</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 76px;">Consumer Protection</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 95px;">College Cost Help</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 114px;">Elder Care</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 133px;">Child Care</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 152px;">Resources for Coping</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; width: 194px; left: 0px; top: 171px;">Arcade—Games</div></div><div id="HM_Menu6" style="position: absolute; visibility: hidden; width: 198px; border-width: 1px; border-color: rgb(153, 153, 153); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: bold 9pt Arial, Helvetica, sans-serif; height: 94px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 0px;">Faith &amp; Worker Justice</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 19px;">Alliance for Retired Americans</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 38px;">Union Community Fund</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 57px;">Constituency Groups</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; width: 194px; left: 0px; top: 76px;">Community Service Network</div></div><div id="HM_Menu7" style="position: absolute; visibility: hidden; width: 198px; border-width: 1px; border-color: rgb(153, 153, 153); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: bold 9pt Arial, Helvetica, sans-serif; height: 113px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 0px;">About Us</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 19px;">Leadership</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 38px;">Executive Council</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 57px;">Culture &amp; History</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 76px;">America@work</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; width: 194px; left: 0px; top: 95px;">Work in Progress</div></div><div id="HM_Menu8" style="position: absolute; visibility: hidden; width: 198px; border-width: 1px; border-color: rgb(153, 153, 153); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: bold 9pt Arial, Helvetica, sans-serif; height: 51px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; border-bottom: 1px solid rgb(255, 255, 255); width: 194px; left: 0px; top: 0px;">Press Releases, Speeches &amp; Testimony</div><div style="position: absolute; visibility: inherit; background-color: rgb(204, 204, 204); color: rgb(0, 51, 102); padding: 2px; width: 194px; left: 0px; top: 33px;">Media Resources</div></div>
+<table cellpadding="0" cellspacing="0" border="0" width="768">
+<tbody><tr>
+<td valign="top">
+<!--TOPNAV-->
+<table cellpadding="0" cellspacing="0" border="0" width="768">
+<tbody><tr>
+<td valign="top">
+<table width="768" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="31" bgcolor="#A7D2FD">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<script language="JavaScript">
+<!--
+function submit_search() {
+if(isFieldBlank(document.search.srchString))
+{
+alert("Please Enter Your Keywords.");
+document.search.srchString.focus();
+return false;
+}
+return true;
+}
+function isFieldBlank(theField) {
+if((theField.value == "") || (theField.value == " ") || (theField.value == "  ") || (theField.value == "Site Search"))
+return true;
+else
+return false;
+}
+// -->
+</script>
+<tbody><tr>
+<td width="15%" align="left" valign="baseline">
+<table border="0" cellpadding="0" cellspacing="0" width="100" align="left">
+<form onsubmit="return submit_search(this.form)" action="/siteguides/sitesearch.cfm" method="post" name="search"></form>
+<tbody><tr>
+<td>&nbsp;
+<script language="JavaScript" type="text/javascript">
+isMac = (navigator.appVersion.indexOf("Mac") != -1);
+is = new BrowserCheck();
+if (isMac)	{
+if (is.ns6)  {
+document.write('\<input style="font-weight:normal;font-size:10px;" type="text" name="srchString" value="Site Search" maxlength="50" size="10" onFocus="document.search.srchString.value=\'\'\;" class="S5">');
+}
+else {
+document.write('\<input style="font-weight:normal;font-size:10px;" type="text" name="srchString" value="Site Search" maxlength="50" size="10" onFocus="document.search.srchString.value=\'\'\;" class="S5">');
+}
+}
+else {
+if (is.ns4) {
+document.write('\<input style="font-weight:normal;font-size:10px;" type="text" name="srchString" value="Site Search" maxlength="50"  size="10" onFocus="document.search.srchString.value=\'\'\;" class="S5">');
+}
+else {
+document.write('\<input style="font-weight:normal;font-size:10px;" type="text" name="srchString" value="Site Search" maxlength="50"  size="10" onFocus="document.search.srchString.value=\'\'\;" class="S5">');
+}
+}
+</script><input style="font-weight:normal;font-size:10px;" type="text" name="srchString" value="Site Search" maxlength="50" size="10" onfocus="document.search.srchString.value='';" class="S5">
+<input type="hidden" name="searchType" value="text">
+<input type="hidden" name="incl_subsites" value="1">
+<input type="hidden" name="showSummaryCheckBox" value="0">
+<input type="hidden" name="UserSelectedSubSites" value="123,148,149,150,151,128,156,13,139,159,157,158,1,143,160,56,67,147,3,140,115,141,153,164,162,165,68,152,154,127,4,5,7,8,66,86,88,89,90,61,82,83,53,73,74,77,79,47,69,70,72,41,63,64,36,55,57,59,29,48,49,50,52,60,38,62,76,91,92,93,81,96,97,98,100,87,101,105,106,108,109,110,111,99,113,114,119,121,107,122,125,126,129,112,131,132,138,118,142,144,145,146,9,14,16,17,2,18,19,23,26,6,27,28,30,31,34,15,35,37,39,40,21,42,44,45,46,95,166,94,161,25,163">
+<input type="hidden" value="1" name="startpage">
+<input type="hidden" value="1" name="curpage">
+</td>
+</tr>
+
 </tbody></table>
-<table cellpadding="0" cellspacing="0" border="0" width="570">
-  <tbody><tr> 
-    <td valign="TOP" rowspan="9" width="65"> <img src="/articles/images/ban_bot.gif" width="65" height="69" border="0" hspace="0" vspace="0" align="BOTTOM"></td>
-    <td colspan="2" align="RIGHT" width="505"><!-- #BeginEditable "title" --> 
-      <div align="left">
-        <p><font color="#993300"><b>Privacy Notice for the AFL-CIO Website (www.aflcio.org)</b></font></p>
-      </div>
-      <!-- #EndEditable -->
-  </td></tr><tr> 
-    <td valign="TOP" width="1515" height="27" rowspan="3" colspan="2"><!-- #BeginEditable "body" -->
-      The AFL-CIO has created this privacy notice to explain how we use information that you may provide while visiting our website and to demonstrate our firm commitment to Internet privacy. The AFL-CIO may modify this policy from time to time so we encourage you to check this page when revisiting this website. 
-      <p>The following discloses our information gathering and dissemination practices for this website. The type and amount of information received depends on how you use the site. </p>
-      <p><b>Website Usage/Information Collection</b></p>
-      <p>When you visit the AFL-CIO website, we automatically obtain information from you about the name of your Internet service provider, the browser and type of computer you are using, the website that referred you to us, the pages you request and the date and time of those requests. We use this information on an aggregate basis to generate statistics and measure site activity to improve the usefulness of the site to our visitors. For example, we use this information to track which pages are most popular among visitors as a whole. We do not track the pages you or any individual visitor may look at during a visit to our site and we do not collect any other information without your knowledge and permission. We do not collect or store personally identifiable information, such as your name, mailing address, e-mail address or phone number, unless you provide that information. </p>
-      <p><b>Collection of Personally Identifiable Information</b></p>
-      <p>The AFL-CIO provides web forms so you may provide your contact information to engage in AFL-CIO activities such as online activism (i.e., contact Congress), to place orders for products or services, to correspond with the AFL-CIO or to submit a testimonial (i.e., share your story). Any information we collect, such as your name, mailing address, e-mail address, type of request you are making and any additional information you provide, is collected and stored by the AFL-CIO. The information is used to fulfill your request and track aggregate information about usage of these features. The AFL-CIO makes every effort to ensure the secure collection and transmission of your sensitive information using industry accepted data collection and encryption methodologies, such as SSL (Secure Sockets Layer). </p>
-      <p><b>SPECIAL NOTICE FOR PARENTS: </b></p>
-      <p>We want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their personal information while using the Internet. The AFL-CIO does not collect, use or distribute children's personally identifiable information to any third parties. If you have any reservations, questions or concerns about your child's access to this site or how information that your child provides is used by us, please contact us. </p>
-      <p><b>AFL-CIO's Sharing of Personally Identifiable Information</b><br>
-        The AFL-CIO may exchange limited personally identifiable information (such as name and e-mail address) with partner organizations when people join as dues-paying members of an affiliate union of the AFL-CIO or the Alliance for Retired Americans and become part of that organization's regular membership list. </p>
-      <p>The AFL-CIO website will not post your personal contact information, including e-mail address, street address and phone numbers, without your consent. Without such consent, website staff will withhold posting personal contact information for that individual.</p>
-      <p><b>Financial Information and Payments </b><br>
-        We use a secure server for processing payments and financial information. AFL-CIO staff log in to the secure site, retrieve the information and process it using our in-house credit card processing equipment. The AFL-CIO does not retain, share, store or use personally identifiable information for any secondary purposes. </p>
-      <p><b>Cookies</b><br>
-        A cookie is a piece of data stored on the user's hard drive containing information about the user. The AFL-CIO website uses a cookie for measuring aggregate web statistics, including number of monthly visitors, number of repeat visitors, most popular webpages and other information. AFL-CIO will also use cookies to facilitate your online visit by maintaining data that you provide for online activism activities so that you will not need to resubmit certain information. The AFL-CIO does not use cookies to track what specific pages an individual site visitor views. </p>
-      <p><b>Opting Out of E-mail Lists</b><br>
-        People who subscribe to e-mail lists via the website will receive periodic updates from the AFL-CIO by regular mail, fax or e-mail. You may opt out of receiving future information via e-mail by using the unsubscribe procedure specified on the e-mail message or by sending an e-mail message with the name of the list you are a member of to: feedback@aflcio.org.</p>
-      <p><b>Outside Links</b><br>
-        This site contains hypertext links to other sites. The AFL-CIO is not responsible for the privacy practices or the content of such websites. We encourage our users to be aware when they leave our site, and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.</p>
-      <p><b>Security</b><br>
-        This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Socket Layer (SSL) encryption to protect the transmission of information you submit to us when you use our secure online forms. You are on a secure page when the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer become locked, as opposed to un-locked, or open, when you are just "surfing." All the information you provide us through these forms is stored securely off-line. </p>
-      <p>We use SSL encryption to protect sensitive information online, we also protect user information off-line. All user information is restricted in our offices. Only employees who need information to perform a specific job (e.g., our billing clerk or a customer service representative) are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Finally, the servers that store sensitive information are kept in a secure environment.</p>
-      <p>If you send us an e-mail, you should know that e-mail is not necessarily secure against interception. So, if your communication includes sensitive information like your bank account, charge card, or social security number, and you prefer not to use one of our secure online complaint forms, contact us by mail or by telephone rather than by e-mail.</p>
-      <p><b>Corrections/Updating Personal Information:</b><br>
-        If your personal information changes (such as your ZIP code), or if you wish to have your information removed from our database, contact us and we will endeavor to provide a way to correct, update or remove that personal data provided to us.</p>
-      <p><b>Contact Us</b><br>
-        If you experience technical problems with the operation of this web site, <a href="http://www.aflcio.org/front/contact.htm">contact us</a> by e-mailing: feedback@aflcio.org.</p>
-      <p>www.aflcio.org<br>
-        AFL-CIO web editor<br>
-        815 16th St, NW<br>
-        Washington, DC 20006<br>
-        (202) 637-5000</p>
-      <p>You also may contact us by mail or telephone.  If you do so, we may use the information you provide in the ways we have described in this privacy policy.</p>
-      <p>September 4, 2001</p>
-      <!-- #EndEditable --></td>
-  </tr>
-  <tr> </tr>
-  <tr> </tr>
+</td>
+<td>&nbsp;</td>
+<td width="20%" valign="baseline" align="left">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="left">
+<script language="JavaScript">
+<!-- hide from old browsers
+function loadPage(pageURL){
+location.href = pageURL.options[pageURL.selectedIndex].value
+}
+//-->
+</script>
+<form method="post" name="dropgo"></form>
+<tbody><tr>
+<td valign="baseline" align="left">
+<select name="selectMenu3" onchange="loadPage(this)" class="E1">
+<option value="" selected="">Site Quick Find:</option>
+<option value="">___________________________</option>
+<option value="/aboutaflcio/">About the AFL-CIO</option>
+<option value="/communitypartners/ara/">Alliance for Retired Americans</option>
+<option value="/aboutunions/allies/">Allied Organizations</option>
+<option value="/aboutaflcio/magazine/">America@work Magazine</option>
+<option value="familyfunresources/games/">Arcade</option>
+<option value="">___________________________</option>
+<option value="/issuespolitics/bushwatch/">BushWatch</option>
+<option value="">___________________________</option>
+<option value="/aboutunions/unioncities/">Central Labor Councils</option>
+<option value="/familyfunresources/childcare/">Child Care</option>
+<option value="/issuespolitics/civilrights/">Civil Rights</option>
+<option value="/communitypartners/peoplehelp/">Community Services</option>
+<option value="/communitypartners/constituencies/">Constituency Groups</option>
+<option value="/aboutaflcio/about/constitution/">Constitution</option>
+<option value="/familyfunresources/consumers/">Consumer Protection</option>
+<option value="/aboutaflcio/about/convention/">Convention</option>
+<option value="/corporateamerica/">Corporate Accountability</option>
+<option value="/corporateamerica/research/">Corporate Research</option>
+<option value="">___________________________</option>
+<option value="/issuespolitics/education/">Education</option>
+<option value="/familyfunresources/elders/">Elder Care</option>
+<option value="/issuespolitics/reform/">Election Reform</option>
+<option value="/corporateamerica/enron/">Enron</option>
+<option value="/yourjobeconomy/women/equalpay/">Equal Pay</option>
+<option value="/yourjobeconomy/safety/ergo/">Ergonomics</option>
+<option value="/aboutaflcio/ecouncil/">Executive Council Actions</option>
+<option value="/corporateamerica/paywatch/">Executive PayWatch</option>
+<option value="">___________________________</option>
+<option value="/communitypartners/faith/">Faith and Worker Justice</option>
+<option value="/issuespolitics/toolkit/">Fliers</option>
+<option value="/aboutunions/howto/">Form a Union</option>
+<option value="">___________________________</option>
+<option value="/familyfunresources/games/">Games</option>
+<option value="/issuespolitics/globaleconomy/">Global Economy</option>
+<option value="/aboutunions/globalunions/">Global Unions</option>
+<option value="">___________________________</option>
+<option value="/issuespolitics/healthpolicy/">Health Care Policy</option>
+<option value="/yourjobeconomy/safety/ ">Health &amp; Safety</option>
+<option value="/aboutaflcio/history/history/">History</option>
+<option value="/familyfunresources/homework/">Homework Helpers</option>
+<option value="/aboutaflcio/about/howworks/">How the AFL-CIO Works</option>
+<option value="/aboutunions/joinunions/">How People Join Unions</option>
+<option value="">___________________________</option>
+<option value="/yourjobeconomy/rights/iloposter/">ILO Workers’ Rights Poster</option>
+<option value="/issuespolitics/immigration/">Immigrant Workers</option>
+<option value="">___________________________</option>
+<option value="/aboutaflcio/leaders/">John Sweeney</option>
+<option value="/aboutunions/howto/">Join a Union</option>
+<option value="">___________________________</option>
+<option value="/communitypartners/faith/lip.cfm">Labor in the Pulpits</option>
+<option value="/aboutaflcio/leaders/" ,leadership<="" option="">
+</option><option value="/aboutaflcio/leaders/">Linda Chavez-Thompson</option>
+<option value="/aboutunions/unioncities/">Local Union Movements</option>
+<option value="">___________________________</option>
+<option value="/aboutaflcio/magazine/">Magazine</option>
+<option value="/issuespolitics/manufacturing/">Manufacturing</option>
+<option value="/aboutaflcio/history/history/mlk_index.cfm">Martin Luther King, Jr.</option>
+<option value="/mediacenter/">Media</option>
+<option value="/issuespolitics/socialsecurity/">Medicare</option>
+<option value="/issuespolitics/minimumwage/">Minimum Wage</option>
+<option value="/aboutaflcio/about/mission/">Mission</option>
+<option value="">___________________________</option>
+<option value="/siteguides/newsindex.cfm">News</option>
+<option value="/mediacenter/prsptm/">News Releases</option>
+<option value="">___________________________</option>
+<option value="/aboutunions/">Organizing</option>
+<option value="/aboutunions/oi/">Organizing Institute</option>
+<option value="">___________________________</option>
+<option value="/mediacenter/prsptm/">Press Statements</option>
+<option value="/issuespolitics/politics/">Politics</option>
+<option value="">___________________________</option>
+<option value="/issuespolitics/politics/">Register to Vote</option>
+<option value="/aboutaflcio/about/convention/2001/resolutions/">Resolutions</option>
+<option value="/aboutaflcio/leaders/">Richard Trumka</option>
+<option value="/yourjobeconomy/rights/rightsatwork/">Rights@work</option>
+<option value="">___________________________</option>
+<option value="/yourjobeconomy/safety/">Safety &amp; Health</option>
+<option value="/familyfunresources/collegecosts/">Scholarships</option>
+<option value="/aboutunions/sept11/">Sept. 11</option>
+<option value="/issuespolitics/socialsecurity/">Social Security</option>
+<option value="/mediacenter/prsptm/">Speeches</option>
+<option value="/aboutunions/unioncities/">State Federations</option>
+<option value="/corporateamerica/stop/">Sweatshops</option>
+<option value="">___________________________</option>
+<option value="/mediacenter/prsptm/">Testimony</option>
+<option value="/issuespolitics/globaleconomy/">Trade</option>
+<option value="">___________________________</option>
+<option value="/yourjobeconomy/help/">Unemployment Help</option>
+<option value="/aboutunions/joinunions/whyjoin/uniondifference/">Union Advantage</option>
+<option value="/aboutunions/unioncities/">Union Cities</option>
+<option value="/communitypartners/ucf.cfm">Union Community Fund</option>
+<option value="/aboutunions/joinunions/whyjoin/uniondifference/">Union Difference</option>
+<option value="/aboutunions/unionsummer/">Union Summer</option>
+<option value="/aboutunions/unions/">Unions of the AFL-CIO</option>
+<option value="">___________________________</option>
+<option value="/issuespolitics/votes/">Voting Record</option>
+<option value="">___________________________</option>
+<option value="/siteguides/map.cfm">Website Map</option>
+<option value="/yourjobeconomy/help/">When the Paycheck Stops</option>
+<option value="/aboutunions/joinunions/whyjoin/">Why People Join Unions</option>
+<option value="/yourjobeconomy/safety/wc/">Workers' Comp</option>
+<option value="/yourjobeconomy/safety/memorial/">Workers' Memorial Day</option>
+<option value="/aboutunions/voices/">Workers' Voices</option>
+<option value="/yourjobeconomy/rights/">Workers’ Rights</option>
+<option value="/yourjobeconomy/women/">Working Women</option>
+</select>
+</td>
+</tr>
+
 </tbody></table>
-<blockquote>
-  <p>
-  <table cellpadding="0" cellspacing="0" border="0" width="548">
-    <tbody><tr>
-      <td> <a href="#top"><img src="/articles/images/b_line.gif" alt="Go to the top of this page" width="548" height="27" border="0" hspace="0" vspace="0" align="BOTTOM"></a><br>
-        <img src="/articles/images/aflcio.gif" align="RIGHT" alt="AFL-CIO © copyright" width="95" height="10" border="0" hspace="0" vspace="0"></td>
-    </tr>
-  </tbody></table>
-  <!-- #BeginEditable "navigation" -->
-  <table cellpadding="0" cellspacing="0" border="0" width="601">
-    <tbody><tr> 
-      <td valign="TOP"> <b><font color="#000000" size="-1" face="Times New Roman">[</font></b><font color="#000000" size="-1" face="Times New Roman"> 
-        </font><font size="-1" face="Times New Roman"><a href="/home.htm" target="_top">AFL-CIO 
-        Home</a></font><font color="#ff9900" size="-1" face="Times New Roman"> 
-        </font><b><font color="#000000" size="-1" face="Times New Roman">]</font></b></td>
-    </tr>
-    <tr> 
-      <td valign="TOP"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/arrow.gif" width="10" height="10"> 
-        <b><font color="#000000" size="-1" face="Times New Roman">[ </font><font size="2"> Privacy Notice for the AFL-CIO Website </font></b><font color="#000000" size="-1" face="Times New Roman"><b>]</b></font></td>
-    </tr>
-  </tbody></table>
-  <!-- #EndEditable --></p></blockquote>
+</td>
+<td width="65%"><img src="/siteguides/images/aflcio_siteguides.gif" width="211" height="48" align="right">
+</td>
+</tr>
+</tbody></table>
+<!--NAV LINKS-->
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" height="25" width="768">
+<tbody><tr>
+<td height="30" width="88" bgcolor="#FFFFFF"><a href="/aboutunions/" onmouseover="HM_f_PopUp('HM_Menu1','unions','unions_on',event)" onmouseout="HM_f_PopDown('HM_Menu1','unions','unions_off', event);"><img src="/images/b_unions&#10;.gif" width="88" height="30" border="0" name="unions"></a></td>
+<td height="30" width="85" bgcolor="#FFFFFF"><a href="/issuespolitics/" onmouseover="HM_f_PopUp('HM_Menu2','Issues','Issues_on',event)" onmouseout="HM_f_PopDown('HM_Menu2','Issues','Issues_off',event)"><img src="/images/b_issues&#10;.gif" border="0" name="Issues" width="85" height="30"></a></td>
+<td height="30" width="111" bgcolor="#FFFFFF"><a href="/yourjobeconomy/" onmouseover="HM_f_PopUp('HM_Menu3','Job','Job_on',event)" onmouseout="HM_f_PopDown('HM_Menu3','Job','Job_off',event)"><img src="/images/b_job&#10;.gif" width="111" height="30" border="0" name="Job"></a></td>
+<td height="30" width="120" bgcolor="#FFFFFF"><a href="/corporateamerica/" onmouseover="HM_f_PopUp('HM_Menu4','Corporations','Corporations_on',event)" onmouseout="HM_f_PopDown('HM_Menu4','Corporations','Corporations_off',event)"><img src="/images/b_corporations&#10;.gif" width="120" height="30" border="0" name="Corporations"></a></td>
+<td height="30" width="98" bgcolor="#FFFFFF"><a href="/familyfunresources/" onmouseover="HM_f_PopUp('HM_Menu5','Resources','Resources_on',event)" onmouseout="HM_f_PopDown('HM_Menu5','Resources','Resources_off',event)"><img src="/images/b_resources&#10;.gif" width="98" height="30" border="0" name="Resources"></a></td>
+<td height="30" width="90" bgcolor="#FFFFFF"><a href="/communitypartners/" onmouseover="HM_f_PopUp('HM_Menu6','Community','Community_on',event)" onmouseout="HM_f_PopDown('HM_Menu6','Community','Community_off',event)"><img src="/images/b_community&#10;.gif" width="90" height="30" name="Community" border="0"></a></td>
+<td height="30" width="94" bgcolor="#FFFFFF"><a href="/aboutaflcio/" onmouseover="HM_f_PopUp('HM_Menu7','About','About_on',event)" onmouseout="HM_f_PopDown('HM_Menu7','About','About_off',event)"><img src="/images/b_about&#10;.gif" width="94" height="30" border="0" name="About"></a></td>
+<td height="30" width="82" bgcolor="#FFFFFF"><a href="/mediacenter/" onmouseover="HM_f_PopUp('HM_Menu8','Media','Media_on',event)" onmouseout="HM_f_PopDown('HM_Menu8','Media','Media_off',event)"><img src="/images/b_media&#10;.gif" width="82" height="30" border="0" name="Media"></a></td>
+</tr>
+</tbody></table>
+<table width="768" border="0" cellspacing="0" cellpadding="2" background="/siteguides/images/ban_bot_siteguides.jpg" height="45">
+<tbody><tr>
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td background="/images/misc_transparent.gif" height="10" valign="top">
+<span class="CS_Element_LinkBar"><div class="breadcrumb"> <span class="CS_LinkBar_Item"><span class="breadcrumblink"><a href="/" onmouseover=" setStatbar('/');  return true;" onmouseout=" setStatbar('');  return true;" class="breadcrumblink">Home</a></span></span><span class="CS_LinkBar_Separator">&nbsp;&gt;&gt;&nbsp;</span><span class="CS_LinkBar_Item"><span class="breadcrumblink"><a href="/siteguides/" onmouseover=" setStatbar('/siteguides/');  return true;" onmouseout=" setStatbar('');  return true;" class="breadcrumblink">Site Guides &amp; Resources</a></span></span></div></span>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<!--END NAV LINKS-->
+</td>
+</tr>
+</tbody></table>
+<!--END TOPNAV-->
+<!--BODY-->
+</td>
+</tr>
+</tbody></table>
+<table width="768" border="0" cellspacing="0" cellpadding="0" height="87">
+<tbody><tr>
+<td width="153" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="right">
+<tbody><tr>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_sm_rotated_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top" colspan="2">
+<a href="/siteguides/" class="submenuitemstrong">
+Site Guides &amp; Resources
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="14" valign="middle"></td>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_round_sm_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top">
+<a href="/siteguides/aboutsite.cfm" class="subsubmenuitemlight">
+About This Website
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="14" valign="middle"></td>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_round_sm_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top">
+<a href="/siteguides/unionmembers.cfm" class="subsubmenuitemlight">
+Union Members
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="14" valign="middle"></td>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_round_sm_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top">
+<a href="/siteguides/students.cfm" class="subsubmenuitemlight">
+Students
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="14" valign="middle"></td>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_round_sm_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top">
+<a href="/siteguides/peopleoffaith.cfm" class="subsubmenuitemlight">
+People of Faith
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="14" valign="middle"></td>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_round_sm_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top">
+<a href="/siteguides/jointhe.cfm" class="subsubmenuitemlight">
+Join the Union Movement
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="14" valign="middle"></td>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_round_sm_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top">
+<a href="/siteguides/link.cfm" class="subsubmenuitemlight">
+Link Request
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="14" valign="middle"></td>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_round_sm_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top">
+<a href="/siteguides/contactus.cfm" class="subsubmenuitemlight">
+Contact Us
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="14" valign="middle"></td>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_round_sm_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top">
+<a href="/siteguides/privacypolicy.cfm" class="subsubmenuitemlightunderline">
+Privacy Policy
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="14" valign="middle"></td>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_round_sm_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top">
+<a href="/siteguides/map.cfm" class="subsubmenuitemlight">
+Site Index
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="14" valign="middle"></td>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_round_sm_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top">
+<a href="/siteguides/activists.cfm" class="subsubmenuitemlight">
+Activists
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="14" valign="middle"></td>
+<td width="10" height="14" valign="top"><div align="center"><img src="/images/misc_lbar_bullet_round_sm_grey.gif" width="5" height="9"></div></td>
+<td height="14" valign="top">
+<a href="/siteguides/retirees.cfm" class="subsubmenuitemlight">
+Retirees
+</a>
+</td>
+</tr>
+</tbody></table>
+</td>
+<td width="610" valign="top">
+<table width="612" border="0" cellspacing="0" cellpadding="0" align="right">
+<tbody><tr>
+<td width="4" background="/images/misc_mastervertline.gif" valign="top"><img src="/images/misc_masterside.gif" width="4" height="108">
+</td>
+<td width="610" valign="top" class="more">
+<table width="159" border="0" cellspacing="0" cellpadding="0" align="right">
+<tbody><tr>
+<td>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="11" bgcolor="#A7D2FD"><img src="/images/misc_masterline.gif" width="180" height="20"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td background="/siteguides/images/background_siteguides.gif">
+<table width="180" border="0" cellspacing="0" cellpadding="0" background="/images/misc_transparent.gif" height="188">
+<tbody><tr valign="top">
+<td colspan="2"><img src="/siteguides/images/misc_rbar_siteguides.gif" width="10" height="11" align="baseline"><img src="/images/misc_rbar_top_box.gif" width="170" height="11"></td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<span class="CS_Element_Layout"><table id="idLayout467" cellpadding="3" cellspacing="0" class="CS_Layout_Table" border="0" width="100%" summary=""><tbody><tr class="CS_Layout_TR"><td id="idCell467x1x1" class="CS_Layout_TD"><span class="CS_Element_CustomCF"><div id="8323-8729">
+					<table width="100%">
+                    <tbody><tr>
+                      
+                      <td colspan="2">
+                        
+                        <table width="100%" border="0" cellspacing="0" cellpadding="3">
+                          
+                          <tbody><tr>
+                            
+                            <td class="T1">Take Action</td>
+                          </tr>
+                        
+                        </tbody></table>
+                      </td>
+                    </tr>
+                    
+                    <tr>
+                      
+                      <td width="62">&nbsp;</td>
+                      <td width="505">
+                  <span class="N1">Make your voice heard in the action center.</span><br>
+                        
+                        <table border="0" cellpadding="3" cellspacing="0" width="100%">
+                          
+                          	<tbody><tr valign="top"> 
+                            	<td width="9%" align="left" valign="top" class="bullet1" height="47"> &nbsp;• 
+                            </td>
+                            	<td align="left" width="91%" class="L6" height="47"> <a href="http://www.unionvoice.org/campaign/overtime4dol" class="L6">Don't let President Bush take away overtime pay!</a></td>
+                            </tr>
+                          
+                          	<tr valign="top"> 
+                            	<td width="9%" align="left" valign="top" class="bullet1" height="47"> &nbsp;• 
+                            </td>
+                            	<td align="left" width="91%" class="L6" height="47"> <a href="http://www.unionvoice.org/campaign/rxdrugs2" class="L6">Tell senators: Don't let 4 million retirees lose Rx drug coverage.</a></td>
+                            </tr>
+                          
+                        </tbody></table>
+                      </td>
+                    </tr>
+					</tbody></table>
+	</div></span><!-- --><span class="CS_Element_CustomCF"><div id="8323-5434">
 
-<!-- #EndTemplate -->
+<script language="javascript">
+function submit_WFEANCallOut() {
+	if(isWFEANFieldBlank(document.WFEANform.email)) 
+	{
+        alert("Please Enter Your E-mail Address.");
+		document.WFEANform.email.focus();
+        return false;
+	}
 
+	else 
+	{
+	   	var EmailValue = document.WFEANform.email.value;
+		if((EmailValue.indexOf('@', 0) == -1) || (EmailValue.indexOf('.', 0) == -1)) 
+		{
+      		alert("Please Enter a Valid E-mail Address.");
+			document.WFEANform.email.focus();
+			document.WFEANform.email.select();
+			return false;
+		}
+	}
+return true;
+}
+
+function isWFEANFieldBlank(theField) {
+	if((theField.value == "") || (theField.value == " ") || (theField.value == "  ") || (theField.value == "Your E-mail"))
+		return true;
+	else 
+		return false;
+}
+</script>
+				 <table width="100%">
+				 <tbody><tr>               
+                      <td colspan="2">                      
+                        <table width="100%" border="0" cellspacing="0" cellpadding="3">                          
+                          <tbody><tr>                           
+                            <td class="T1">E-mail Alerts</td>
+                          </tr>                        
+                        </tbody></table>
+                      </td>
+                    </tr>                   
+                    <tr>                     
+                      <td width="29">&nbsp;</td>
+                      <td width="232" class="maintext">
+					  		
+					  		
+								Join the Working Families e-Activist Network for action alerts.
+							
+					  </td>
+                    </tr>                 
+                    <tr>                      
+                      <td width="29">&nbsp;</td>
+                      <td width="232">                      
+                        <form name="WFEANform" method="post" onsubmit="return submit_WFEANCallOut(this.form)" action="/siteguides/wfean_signup.cfm">                        
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">                            
+                            <tbody><tr>                              
+                              <td>                               
+                                <input style="font-weight:normal;font-size:10px;" type="text" name="email" value="Your E-mail" size="15" maxlength="40" onfocus="document.WFEANform.email.value='';">                                
+                                <input type="image" name="goButton2" src="/images/but_go.gif" width="24" height="15" border="0" alt="Go"></td></tr></tbody></table></form></td></tr></tbody></table></div></span><!-- --><span class="CS_Element_Textblock"><div id="8323-4523"> <span class="CS_Element_Textblock"> <span class="CS_Generic_Text"><div class="CS_Textblock_Text"><table width="100%" border="0">
+<tbody>
+<tr>
+<td colspan="2">
+<table cellspacing="0" cellpadding="3" width="100%" border="0">
+<tbody>
+<tr>
+<td class="T1"><a href="/siteguides/jointhe.cfm">Join the Union Movement</a></td></tr></tbody></table></td></tr>
+<tr>
+<td colspan="2">
+<table cellspacing="0" cellpadding="3" width="100%" border="0">
+<tbody>
+<tr>
+<td class="T1"><a href="/aboutunions/unions">Find Your Union</a></td></tr></tbody></table></td></tr></tbody></table></div></span></span></div></span></td></tr>
+</tbody></table>	</span>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="bottom"><img src="/images/misc_rbar_bot.gif" width="180" height="30"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table width="428" border="0" cellspacing="0" cellpadding="0" background="/siteguides/images/misc_masterback_siteguides.gif">
+<tbody><tr>
+<td height="109">
+<img src="/siteguides/images/siteguides.jpg" width="426" height="108">
+</td>
+</tr>
+</tbody></table>
+<span class="Page_Title">Privacy Policy</span><br><br>
+<script language="JavaScript">
+function emailpop() {
+Pop=window.open("/siteguides/emailthis.cfm?id=8323","popone","scrollbars=0,width=450,height=420");
+}
+</script>
+<table width="134" border="0" cellspacing="0" cellpadding="0" align="right">
+<tbody><tr>
+<td height="46" width="12">&nbsp;</td>
+<td height="46" width="122">
+<table border="0" cellspacing="0" cellpadding="1" width="85%">
+<tbody><tr>
+<td bgcolor="#333366">
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%">
+<tbody><tr>
+<td width="32" height="27">
+<div align="center"><img src="/images/icon_print.gif" width="26" height="26"></div>
+</td>
+<td width="65" height="27">
+<div align="left"><nobr><a class="L1" href="/siteguides/privacypolicy.cfm?RenderForPrint=1">Print this</a></nobr></div>
+</td>
+</tr>
+<tr>
+<td width="32" height="9">
+<div align="center"><img src="/images/icon_email.gif" width="23" height="23"></div>
+</td>
+<td width="65" height="9">
+<div align="left"><nobr><a class="L1" href="javascript:emailpop()">E-mail this</a></nobr></div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<span class="CS_Element_Textblock"><div id="8323-681"> <span class="CS_Element_Textblock"> <span class="CS_Generic_Text"><div class="CS_Textblock_Text"><p align="left">The AFL-CIO has created this privacy notice to explain how we use information that you may provide while visiting our website and to demonstrate our firm commitment to Internet privacy. The AFL-CIO may modify this policy from time to time so we encourage you to check this page when revisiting this website. </p>
+<p>The following discloses our information gathering and dissemination practices for this website. The type and amount of information received depends on how you use the site. </p>
+<p><b>Website Usage/Information Collection<br></b>When you visit the AFL-CIO website, we automatically obtain information from you about the name of your Internet service provider, the browser and type of computer you are using, the website that referred you to us, the pages you request and the date and time of those requests. We use this information on an aggregate basis to generate statistics and measure site activity to improve the usefulness of the site to our visitors. For example, we use this information to track which pages are most popular among visitors as a whole. We do not track the pages you or any individual visitor may look at during a visit to our site and we do not collect any other information without your knowledge and permission. We do not collect or store personally identifiable information, such as your name, mailing address, e-mail address or phone number, unless you provide that information. </p>
+<p><b>Collection of Personally Identifiable Information<br></b>The AFL-CIO provides Web forms so you may provide your contact information to engage in AFL-CIO activities such as online activism (i.e., contact Congress), to place orders for products or services, to correspond with the AFL-CIO or to submit a testimonial (i.e., share your story). Any information we collect, such as your name, mailing address, e-mail address, type of request you are making and any additional information you provide, is collected and stored by the AFL-CIO. The information is used to fulfill your request and track aggregate information about usage of these features. The AFL-CIO makes every effort to ensure the secure collection and transmission of your sensitive information using industry accepted data collection and encryption methodologies, such as SSL (Secure Sockets Layer). </p>
+<p><b>SPECIAL NOTICE FOR PARENTS: <br></b>We want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their personal information while using the Internet. The AFL-CIO does not collect, use or distribute children's personally identifiable information to any third parties. If you have any reservations, questions or concerns about your child's access to this site or how information that your child provides is used by us, please contact us. </p>
+<p><b>AFL-CIO's Sharing of Personally Identifiable Information<br></b>The AFL-CIO may exchange limited personally identifiable information (such as name and e-mail address) with partner organizations when people join as dues-paying members of an affiliate union of the AFL-CIO or the Alliance for Retired Americans and become part of that organization's regular membership list. </p>
+<p>The AFL-CIO website will not post your personal contact information, including e-mail address, street address and phone numbers, without your consent. Without such consent, website staff will withhold posting personal contact information for that individual.</p>
+<p><b>Financial Information and Payments <br></b>We use a secure server for processing payments and financial information. AFL-CIO staff log in to the secure site, retrieve the information and process it using our in-house credit card processing equipment. The AFL-CIO does not retain, share, store or use personally identifiable information for any secondary purposes. </p>
+<p><b>Cookies<br></b>A cookie is a piece of data stored on the user's hard drive containing information about the user. The AFL-CIO website uses a cookie for measuring aggregate web statistics, including number of monthly visitors, number of repeat visitors, most popular webpages and other information. AFL-CIO will also use cookies to facilitate your online visit by maintaining data that you provide for online activism activities so that you will not need to resubmit certain information. The AFL-CIO does not use cookies to track what specific pages an individual site visitor views. </p>
+<p><b>Opting Out of E-mail Lists<br></b>People who subscribe to e-mail lists via the website will receive periodic updates from the AFL-CIO by regular mail, fax or e-mail. You may opt out of receiving future information via e-mail by using the unsubscribe procedure specified on the e-mail message or by sending an e-mail message with the name of the list you are a member of to: feedback@aflcio.org.</p>
+<p><b>Outside Links<br></b>This site contains hypertext links to other sites. The AFL-CIO is not responsible for the privacy practices or the content of such websites. We encourage our users to be aware when they leave our site, and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.</p>
+<p><b>Security<br></b><br>This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Socket Layer (SSL) encryption to protect the transmission of information you submit to us when you use our secure online forms. You are on a secure page when the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer become locked, as opposed to un-locked, or open, when you are just "surfing." All the information you provide us through these forms is stored securely off-line. </p>
+<p>We use SSL encryption to protect sensitive information online, we also protect user information off-line. All user information is restricted in our offices. Only employees who need information to perform a specific job (e.g., our billing clerk or a customer service representative) are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Finally, the servers that store sensitive information are kept in a secure environment.</p>
+<p>If you send us an e-mail, you should know that e-mail is not necessarily secure against interception. So, if your communication includes sensitive information like your bank account, charge card, or social security number, and you prefer not to use one of our secure online complaint forms, contact us by mail or by telephone rather than by e-mail.</p>
+<p><b>Corrections/Updating Personal Information:</b><br>If your personal information changes (such as your ZIP code), or if you wish to have your information removed from our database, contact us and we will endeavor to provide a way to correct, update or remove that personal data provided to us.</p>
+<p><b>Contact Us</b><br>If you experience technical problems with the operation of this website, <a id="CP___PAGEID=6226,contactus.cfm,96|" href="/siteguides/contactus.cfm">contact us</a> by e-mailing: feedback@aflcio.org.</p>
+<p>www.aflcio.org<br>AFL-CIO Web Editor<br>815 16th St., N.W.<br>Washington, DC 20006<br>202-637-5000</p>
+<p>You also may contact us by mail or telephone. If you do so, we may use the information you provide in the ways we have described in this privacy policy.</p>
+<p>September 4, 2001<!-- #EndEditable --></p></div></span></span></div></span>
+</td>
+</tr>
+<tr>
+<td width="4" background="/images/misc_mastervertline.gif" valign="bottom"><img src="/images/misc_masterlineend.gif" width="4" height="72"></td>
+<td width="610">&nbsp;</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#CCCCCC">
+<tbody><tr>
+<td width="100%" height="21">
+<div align="right">
+<span class="S2">Site Guides:</span> <a href="/siteguides/unionmembers.cfm" class="L3">Union Members</a>  <b><font color="#FFFFFF" class="L3">|</font></b> <a href="/siteguides/retirees.cfm" class="L3">Retirees</a> <b><font color="#FFFFFF" class="L3">|</font></b> <a href="/siteguides/students.cfm" class="L3">Students</a> <b><font color="#FFFFFF" class="L3">|</font></b> <a href="/siteguides/activists.cfm" class="L3">Activists</a>
+<b><font color="#FFFFFF" class="L3">|</font></b> <a href="/siteguides/peopleoffaith.cfm" class="L3">People of Faith</a>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="2" align="left" bgcolor="#003366">
+<tbody><tr>
+<td width="100%" height="21">
+<div align="right">
+<a href="/siteguides/contactus.cfm" class="L4">Contact Us</a>  <b><font color="#FFFFFF" class="L4">|</font></b> <a href="/siteguides/privacypolicy.cfm" class="L4">Privacy Policy</a> <b><font color="#FFFFFF" class="L4">|</font></b> <a href="/siteguides/aboutsite.cfm" class="L4">About this website</a> <b><font color="#FFFFFF" class="L4">|</font></b> <a href="/siteguides/map.cfm" class="L4">Site Index</a>
+</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<!--END FOOTER TABLES-->
+<span class="E1">&nbsp;Copyright © 2003 AFL-CIO<br>
+&nbsp;American Federation of Labor - Congress of Industrial Organizations</span>
 </body></html>
