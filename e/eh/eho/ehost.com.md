@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618013821id_/http%3A//www.ehost.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205201340id_/http%3A//www.ehost.com/about/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,7 +33,7 @@ Choice/Opt-Out
 
 
   
-If one has initially opted-in, our site provides users with the opportunity to opt out of receiving communications from eHost and our partners that are not directly related to the services we provide. Please note: eHost does reserve the right to send account-related e-mail communications to all active customers. To unsubscribe from eHost newsletters and promotional mailings, please update your preferences with our [subscription settings tool](https://web.archive.org/utils/Subscribe.bml) or e-mail us at [eHost Support](https://web.archive.org/support/supportForm.bml). If you would like to cancel a eHost plan completely, please contact eHost Support through our online [support form](https://web.archive.org/support/supportForm.bml).   
+During the registration process, you are provided with the opportunity to opt out of receiving marketing and promotional communications from eHost and our partners that are not directly related to the services we provide. eHost, its affiliates or partners may use the information associated with your account to contact you with these special offers. To unsubscribe from eHost newsletters and promotional mailings, please update your preferences with our [subscription settings tool](https://web.archive.org/utils/Subscribe.bml) or e-mail us at [eHost Support](https://web.archive.org/support/supportForm.bml). If you would like to cancel a eHost plan completely, please contact eHost Support through our online [support form](https://web.archive.org/support/supportForm.bml). Please note: eHost reserves the right to send e-mail communications relating directly to their accounts to all active members.   
 
 
 Correct/Update  
@@ -54,6 +54,6 @@ If you have any questions about this privacy statement, the practices of this si
 >  Burlington, MA 01803  
 > 
 
-Updated September 10, 2002
+Updated June 23, 2004
 
 |  |   
