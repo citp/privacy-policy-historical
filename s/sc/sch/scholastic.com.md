@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604051445id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202151609id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
 This Privacy Policy applies to our online practices only.
 
-The following policy applies to the SCHOLASTIC.COM site.
+The following policy applies to the SCHOLASTIC.COM site and its subsidiary's site at GROLIER.com (the sites and entities collectively referred to herein as "Scholastic.com" and "Scholastic" respectively).
 
 Scholastic is committed to protecting the privacy and security of its online visitors. This policy statement provides our visitors (e.g., parents, teachers, and children) with an overview of the measures we have taken to provide a safe environment for everyone.
 
@@ -26,7 +26,7 @@ For those activities that require personally identifiable information, such as c
 
 Parents can request to review or have deleted their child's personally identifiable information from Scholastic's records, and refuse to permit further use of a child's information by printing, completing, and returning [this letter](https://web.archive.org/inforequest/index.htm) by fax or regular mail to the specified address.
 
-In some areas of our site, we collect personally identifiable information from parents. We use the personally identifiable information that parents provide to us to customize the content on Scholastic.com to parents' current and future needs. We also use this personally identifiable information to provide parents, via e-mail or other means, with information about materials, activities, or other things that may be of interest to parents or their children, including products or services of third parties. For these reasons, we may share such information with third parties who provide services to our site. However, parents always have the opportunity to unsubscribe from any communication via e-mail if they choose to do so.
+In some areas of our site, we collect personally identifiable information from parents. We use the personally identifiable information that parents provide to us to customize the content on Scholastic.com to parents' current and future needs. In addition, parents' personally identifiable information may be used to provide parents, via e-mail or other means, information about materials and activities that may be of interest to parents, including products or services of third parties. For these reasons, we may share such information with third parties. If you do not wish to receive such information or if you prefer not to have your personally indentifiable information shared with third parties, please let us know. Either indicate the media notification you no longer wish to receive or that you do not want to have your personally indentifiable information shared with third parties, along with your name, address, e-mail and phone number and send it to Opt-Out Request – P, Scholastic Inc, 557 Broadway — Room 4010, New York, NY 10012.
 
 **FOR TEACHERS**
 
@@ -36,7 +36,8 @@ A teacher may revoke the consent she has provided on behalf of her students' par
 
 When teachers register with our site, we use their sign-in information, which contains personally identifiable information, to ensure that only the teacher who has signed in has access to his or her personal areas of the site. For example, only registered teachers are permitted to administer Class Homepages. Access to administer a teacher's Class Homepage is controlled via that teacher's personal username and password, which was established during the registration process.
 
-We also use the personally identifiable information that teachers provide to us to customize the content on Scholastic.com to teachers' current and future needs. In addition, we use teachers' personally identifiable information to provide teachers, via e-mail or other means, information about materials, activities or other things that may be of interest to teachers, including products or services of third parties. For these reasons, we may share such information with third parties who provide services to our site. However, teachers always have the opportunity to unsubscribe from any communication via e-mail if they choose to do so.
+We also use the personally identifiable information that teachers provide to us to customize the content on Scholastic.com to teachers' current and future needs. In addition, teachers' personally identifiable information may be used to provide teachers, via e-mail or other means, information about materials and activities that may be of interest to teachers, including products or services of third parties. For these reasons, we may share such information with third parties. If you do not wish to receive such information or if you prefer not to have your personally indentifiable information shared with third parties, please let us know. Either indicate the media notification you no longer wish to receive or that you do not want to have your personally indentifiable information shared with third parties, along with your name, address, e-mail and phone number and send it to Opt-Out   
+Request – T , Scholastic Inc, 557 Broadway — Room 4010, New York, NY 10012.
 
 **FOR KIDS**
 
@@ -54,16 +55,12 @@ We collect IP addresses to obtain aggregate information on the use of Scholastic
 
 **THIRD PARTY ADVERTISING SERVERS**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregate information (not including your name, address, e-mail address, telephone number, or any other personally identifiable information) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.privacychoices.org/).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may (via cookies, gifs or otherwise) use aggregate information (not including your name, address, e-mail address, telephone number, or any other personally identifiable information) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.privacychoices.org/).
 
 **SECURITY**
 
-Scholastic ensures that all personally and non-personally identifiable information that it receives via the Internet is secure against unauthorized access. This information is kept in a safe and secure system isolated from direct connection to the Internet. This means that no eyes but ours will ever see the information that our visitors send to us, unless we indicate otherwise.
-
-**SCHOLASTIC SHOPPING GUARANTEE**
-
-The Scholastic Shopping Guarantee protects you while you shop at Scholastic.com, so that you never have to worry about credit card safety. You pay nothing if unauthorized charges are made to your card as a result of shopping at Scholastic's online stores. 
-
+Scholastic ensures that all personally and non-personally identifiable information that it receives via the Internet is secure against unauthorized access. This information is kept in a safe and secure system isolated from direct connection to the Internet. This means that no eyes but ours will ever see the information that our visitors send to us, unless we indicate otherwise.  
+  
 **Why are we so safe?**  
 Scholastic uses secure server software over a Secure Socket Layer (SSL) line to protect your credit card information. It encrypts all of your personal and credit card information so that this information cannot be read as it travels to our ordering system, and once it is received, it is stored in a location not accessible via the Internet. 
 
