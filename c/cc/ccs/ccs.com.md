@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccs.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601113812id_/http%3A//www.ccs.com/home/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccs.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014230859id_/http%3A//www.ccs.com/home/privacystatement) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT - CCS
 
@@ -36,7 +36,9 @@ We use cookies to provide a convenience feature to save you time; to understand 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-**Special Note for Parents.** If you have concerns about CCS.COM or its services, wish to find out if your child is a member of one our services or wish to cancel your child's membership, please contact us at [service@ccs.com.](mailto:service.ccs.com) CCS.COM is intended for use by those who are at least 13 years old. Our site will not knowingly accept personal information from anyone under 13. If you believe that your child under 13 has gained access to CCS.COM, and without permission, you may contact us at [service@ccs.com.](mailto:service.ccs.com)
+**Special Note for Parents.** If you have concerns about CCS.COM or its services, wish to find out if your child is a member of one our services or wish to cancel your child's membership, please contact us at [service@ccs.com.](mailto:service.ccs.com)
+
+Our site will not knowingly accept personal information from anyone under 13 in violation of U.S. Laws. If you believe that your child under 13 has gained access to CCS.COM, and without permission, you may contact us at [service@ccs.com.](mailto:service.ccs.com)
 
 **Transfer of Business Assets.** In the event that CCS or substantially all of its assets are acquired by a third party, personally identifiable information will be among the transferred assets. 
 
