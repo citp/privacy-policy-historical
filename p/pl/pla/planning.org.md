@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planning.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207215831id_/http%3A//www.planning.org/aboutapa/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planning.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622061427id_/http%3A//www.planning.org/aboutapa/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -12,7 +12,8 @@ Here is what visitors to our website can expect in terms of privacy.
 Our web server will automatically recognize a visitor's domain name, but not the visitor's e-mail address.
 
 **E-mail addresses**  
-We collect the e-mail addresses of those who subscribe to our listserves, those who communicate with us via e-mail, and those who register for our online products and services.
+We collect the e-mail addresses of those who subscribe to our listserves, those who communicate with us via e-mail, and those who register for our online products and services. APA will not sell or share e-mail addresses with any groups other than its own affiliated chapters and divisions.  
+
 
 **Other collected information**  
 We collect aggregate information on what pages our visitors access or visit. We also collect information volunteered by visitors, such as information provided in onsite conference registrations, job service postings, book service purchases, and other online transactions.
