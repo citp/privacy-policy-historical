@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhomesource.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202234236id_/http%3A//www.dreamhomesource.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhomesource.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619004749id_/http%3A//www.dreamhomesource.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Dream Home Source - Over 15,000 House Plans
 
@@ -14,7 +14,7 @@ Here's how we collect and use information from you in our efforts to provide the
 
  **Registration -** We use customer contact information from registration forms to send you information related to our products and services if you consent to receiving such mailings. We may also use your information to contact you when necessary for the administration of your account. We use your email address as a unique identifier in our record system to verify communications from you, and to send you newsletters and promotion offerings that you ask to receive or to tell you about changes to the Dream Home Source, Inc. web site.
 
- **Your Security -** Dream Home Source, Inc., and its affiliates have taken the following important measures to protect against loss, misuse or alteration of your personal information. First, we store no financial information or social security information on our sites. Second, we encrypt all personal information transmitted to or from our site using Secure Sockets Layer technology.
+ **Your Security -** Dream Home Source, Inc., and its affiliates have taken important measures to protect against loss, misuse or alteration of your personal information. We encrypt all personal information transmitted to or from our site using Secure Sockets Layer technology.
 
  **Outside Links -** While on the Dream Home Source, Inc. site, you may be led to other web sites. Be aware that other sites may collect data and personal information and operate according to their own privacy practices. Please remember that, once outside of our family of sites, any information you submit is outside of our control.
 
