@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lubbockonline.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207050511id_/http%3A//lubbockonline.com/housekeeping/about_us.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubbockonline.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607205536id_/http%3A//www.lubbockonline.com/housekeeping/about_us.shtml) for the most accurate reproduction.*
 
 # LubbockOnline.com
 
