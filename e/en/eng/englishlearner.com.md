@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishlearner.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214045500id_/http%3A//englishlearner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishlearner.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604082754id_/http%3A//www.englishlearner.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for EnglishLearner.Com
 
