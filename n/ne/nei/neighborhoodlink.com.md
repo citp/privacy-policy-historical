@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neighborhoodlink.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604153334id_/http%3A//www.neighborhoodlink.com/manager/neighbor/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighborhoodlink.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210023159id_/http%3A//www.neighborhoodlink.com/manager/neighbor/privacy.html) for the most accurate reproduction.*
 
 # Neighborhood Link - Your Neighborhood's Privacy Practices
 
@@ -50,7 +50,7 @@ The Neighborhood Link Web site contains links to other Web sites. Neighborhood L
 There is a technology called "cookies" which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. Some Neighborhood Link pages use cookies so that we can better serve you when you visit and then return to our site. We use cookies to deliver information specific to your interests and to save your password so you don't have to re-enter it each time you visit certain areas of our Web site. 
 
 **Choice/Opt-out**  
-The Neighborhood Link Web site provides visitors with the opportunity to opt-out of receiving communications from us. If you would not like to receive any communication from Neighborhood Link, please email [info@neighborhoodlink.com](mailto:info@neighborhoodlink.com), or visit your [profile page](http://www.neighborhoodlink.com/manager/usersystem/userManage.html). 
+The Neighborhood Link Web site provides visitors, with the exception of Neighborhood Coordinators, the opportunity to opt-out of receiving communications from us. Neighborhood Coordinators agree to receive communication from Neighborhood Link for as long as they are coordinators. Visitors who would like not to receive any communication from Neighborhood Link, please email [info@neighborhoodlink.com](mailto:info@neighborhoodlink.com), or visit your [profile page](http://www.neighborhoodlink.com/manager/usersystem/userManage.html). 
 
 **Modify Your Information**  
 The Neighborhood Link Web site provides visitors with the opportunity to change or modify information previously provided. If you would like to change or modify your information, please email [info@neighborhoodlink.com](mailto:info@neighborhoodlink.com), or visit your [profile page](http://www.neighborhoodlink.com/manager/usersystem/userManage.html). 
