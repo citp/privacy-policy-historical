@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2004-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040410062600id_/http%3A//dimensiondata.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2004-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041222213053id_/http%3A//dimensiondata.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Spreadsheet Software for Budgeting, Forecasting and Management Reporting: A3 Solutions
 
-Your privacy is important to A3 Solutions. This statement describes and explains our policies and procedures. This privacy statement covers the www.a3si.com site, not third party sites that are linked off of www.a3si.com. If users have questions or concerns regarding this statement, they should send an email, with the subject heading "Privacy Question" to [webmaster@a3si.com ](mailto:webmaster@a3si.com)
+Your privacy is important to A3 Solutions. This statement describes and explains our policies and procedures. This privacy statement covers the www.a3si.com site, not third party sites that are linked off of www.a3si.com. If users have questions or concerns regarding this statement, they should send an email, with the subject heading "Privacy Question" to [webmaster@a3si.com](mailto:webmaster@a3si.com). 
 
 On the www.a3si.com website we collect the following information: personal information (when volunteered by you) and log files, and cookies if you accept them. All is described below. 
 
@@ -10,7 +10,7 @@ On the www.a3si.com website we collect the following information: personal infor
 
 You can access a3si.com without providing us with any personal information. However, A3 Solutions does collect information from our users at different points on our web site, in which you volunteer your personal information in response to registrations. During registration a user is required to give contact information (such as name, email, address, etc.). We use this information to contact the user about services on our site for which he/she has expressed interest. 
 
-## Cookies 
+## Cookies
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. A cookie is a small text file stored on the user's hard drive for an extended period of time. Cookies can be removed by following Internet browser help file directions. By setting a cookie on our site, users will not have to register more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will have to complete a registration page more than once. 
 
@@ -46,6 +46,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 ## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: [webmaster@a3si.com ](mailto:webmaster@a3si.com)
-
- 
+If users have any questions or suggestions regarding our privacy policy, please contact us at: [webmaster@a3si.com](mailto:webmaster@a3si.com)
