@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205074602id_/http%3A//www.sonicfoundry.com/corporate/default.asp%3Fpageid%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802142835id_/http%3A//www.sonicfoundry.com/corporate/default.asp%3Fpageid%3D17) for the most accurate reproduction.*
 
 # Sonic Foundry Privacy Statement
 
@@ -91,11 +91,15 @@ The foregoing policies are effective as of November 14, 2001. Sonic Foundry rese
   
 | 
 
+[Annual Report](https://web.archive.org/corporate/annual.asp)  
+  
+| 
+
 [Strategic Partners](https://web.archive.org/corporate/partners.asp)  
   
 | 
 
-[Annual Report](https://web.archive.org/corporate/annual.asp)  
+[Artwork and Logos](https://web.archive.org/partners/artwork/default.asp)  
   
 | 
 
