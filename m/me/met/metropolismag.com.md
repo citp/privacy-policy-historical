@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603221729id_/http%3A//www.metropolismag.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2003-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030702150613id_/http%3A//metropolismag.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Metropolis Magazine
 
@@ -38,7 +38,7 @@ If a user elects to use our referral service for informing a friend about our si
 Our email registration form is strictly optional. During registration, users are asked to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide unique identifiers, but encouraged so we can provide a more personalized experience on our site.
 
 **Security**  
-This website takes industry standard precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
+This web site takes industry standard precautions to protect our users' information. When users submit sensitive information via the web site, your information is protected both online and off-line. 
 
 While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'
 
