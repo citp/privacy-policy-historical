@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223170427id_/http%3A//www.igigi.com/page/100/CTGY/_priv_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2005-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050324032502id_/http%3A//www.igigi.com/page/100/CTGY/_priv_policy) for the most accurate reproduction.*
 
 # Privacy Policy: Sexy Plus Size Clothing by IGIGI
 
