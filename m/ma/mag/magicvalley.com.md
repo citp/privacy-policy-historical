@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicvalley.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002100413id_/http%3A//www.magicvalley.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicvalley.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610130934id_/http%3A//www.magicvalley.com/home/privacy) for the most accurate reproduction.*
 
 # The Times-News Online -- Twin Falls, Idaho
 
