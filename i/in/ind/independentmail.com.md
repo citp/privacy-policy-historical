@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603180638id_/http%3A//www.andersonsc.com/privacy_policy/privacy_policy_default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212142955id_/http%3A//www.andersonsc.com/privacy_policy/privacy_policy_default.asp) for the most accurate reproduction.*
 
-# ANDERSON ONLINE, service of The Anderson Independent-Mail
+# Privacy Policy - Anderson Online
 
-|  |  June 3, 2001
+|  |  December 12, 2001
 
 Anderson Online is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Anderson Online we intend to give you as much control as possible over your personal information. 
 
@@ -50,7 +50,7 @@ At any time while assessing our sites, any user while online may "opt-out" of fu
 
 **Use of Materials**
 
-The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [gouchjk@andersonsc.com](mailto:gouchjk@andersonsc.com). For more complete information regarding the use our sites, please link to [User Agreement](https://web.archive.org/web/20010603180638id_/http%3A//www.andersonsc.com/user_agreement/user_agreement_default.asp).
+The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [gouchjk@andersonsc.com](mailto:gouchjk@andersonsc.com). For more complete information regarding the use our sites, please link to [User Agreement](https://web.archive.org/web/20011212142955id_/http%3A//www.andersonsc.com/user_agreement/user_agreement_default.asp).
 
 |  |  |  |    
 
