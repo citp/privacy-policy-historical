@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206033712id_/http%3A//www.seattlechildrens.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602201840id_/http%3A//seattlechildrens.org/privacy.asp) for the most accurate reproduction.*
 
 # Children's
 
@@ -20,7 +20,16 @@ Our site uses an order form for customers to request information, products, and 
 
 The customer's contact information is also used to get in touch with the visitor when necessary. For example, we might have a question about the processing of an order. If a user so requests, we may use the contact information to send the user additional information about Children's. Users may opt-out of receiving future mailings (see the choice/opt-out section below). Our online surveys ask visitors for contact information (like their e-mail address). The customer's contact information is used to contact the visitor when necessary. Again, users may opt-out of receiving future mailings (see the choice/opt-out section below).
 
-The personally identifiable information we collect is not used for any purposes other than order fulfillment, processing of donations, and dissemination of information. It is not disclosed to anyone other than Children's and its partners, contractors and agents, unless we must do so to comply with a court order or other legal process, or we must do so to protect our rights or property.
+When you register for access to the secured content area for Medical Staff and Healthcare Professionals we ask for information such as your name, title, practice name and address, email address, phone number and role. This information is used to confirm your identity, the appropriateness of your request to access sensitive healthcare information and to improve your experience by presenting you with appropriate content. **Once you register and sign in, you are not anonymous to us**. In the event of abuse, this information may be used to revoke your existing access to this and other Children’s systems. 
+
+You may request to have your account for accessing the secured section of the Healthcare Professionals area removed by sending an email including your name, practice and userid to [ehealth@seattlechildrens.org.](mailto:ehealth@seattlechildrens.org)
+
+The personally identifiable information we collect is not used for any purposes other than order fulfillment, processing of donations, dissemination of information and authentication to the secured content on this web site. It is not disclosed to anyone other than Children's and its partners, contractors and agents, unless we must do so to comply with a court order or other legal process, or we must do so to protect our rights or property.
+
+Please note that Children’s Hospital and Regional Medical Center will not intentionally share the contents of any email or form submitted through this site with any third party. However, due to the nature of electronic communications, we cannot and do not provide assurances that the contents will not become known or accessible to third parties.
+
+WE URGE YOU NOT TO PROVIDE ANY CONFIDENTIAL INFORMATION ABOUT YOU, YOUR HEALTH, OR YOUR PATIENTS TO US VIA ELECTRONIC COMMUNICATION UNLESS WE INDICATE THE FORM HAS BEEN SECURED.  
+
 
 **Public Forums**
 
@@ -48,7 +57,7 @@ If you have any questions about this privacy statement, the practices of this si
 >  Children's Hospital and Regional Medical Center  
 >  PO Box 5371 S-217  
 >  Seattle, WA 98105  
->  [info@seattlechildrens.org](mailto:info@seattlechildrens.org)
+>  [ehealth@seattlechildrens.org](mailto:ehealth@seattlechildrens.org)
 
 **Updates and Changes to Privacy Policy**
 
