@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearlevision.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207151742id_/http%3A//www.pearlevision.com/html/ps_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlevision.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402015017id_/http%3A//www.pearlevision.com/html/ps_privacy.htm) for the most accurate reproduction.*
 
 # Pearle Vision - Privacy Statement
 
