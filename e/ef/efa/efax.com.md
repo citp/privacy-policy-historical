@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efax.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203044000id_/http%3A//www.efax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efax.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604050608id_/http%3A//www.efax.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ If you send us correspondence, such as emails or letters, or if other users or t
 
 **The Content of Your Transmissions** eFax.com acts as a passive conduit for the distribution and receipt of your fax transmissions and therefore will not monitor, edit, or disclose the contents of a Member's private communications unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on eFax.com; (2) protect and defend the rights or property of eFax.com; or (3) act under exigent circumstances to protect the personal safety of its members or the public. Member should also be aware (and hereby agrees) that certain technical processing of and access to fax and email messages and their content, eFax.com may be required to: (a) route the messages; (b) conform to connecting networks' technical requirements; (c) conform to the limitations of the Service; or (d) conform to other similar requirements. 
 
-eFax.com will store your personal transmissions on its servers for a limited time and will endeavor to purge old transmissions from its servers when the expiration period has run (one to three days for standard service, and up to thirty days for premium services). We use industry-standard efforts to safeguard the confidentiality of your transmissions (as well as your personally identifiable information), such as firewalls and SSL technology. These are the same technologies that most websites use to safeguard credit card information and other personal information. However, that said, "perfect security" does not exist on the Internet (or anywhere, for that matter.) 
+We use industry-standard efforts to safeguard the confidentiality of your transmissions (as well as your personally identifiable information), such as firewalls and SSL technology. These are the same technologies that most websites use to safeguard credit card information and other personal information. However, that said, "perfect security" does not exist on the Internet (or anywhere, for that matter.) 
 
 **Your Email Address** As part of our service, we will send to you your incoming fax transmissions, but in addition we may send to you periodic emails containing information about us, updates on new service features, service usage tips, information about third party services that are likely to be of interest to our members, and member satisfaction questions. For now, we think we will send about 3-4 such email(s) per month. If you do not want to receive these emails, at any time you can cancel your service notifying us via our eFax.com support form that you wish to cancel your account. In addition to the periodic emails, we may use your email address to send you administrative notices about your account (such as notices about pending activities). 
 
@@ -26,4 +26,6 @@ eFax.com will store your personal transmissions on its servers for a limited tim
 
 **Junk Faxes** Finally, it is our intention to use legally available means to prevent distribution and receipt of unsolicited commercial faxes ("junk faxes") through the service, and we specifically restrict members from taking any actions which impose an unreasonable or disproportionately large load on eFax.com resources. We would like to ask that any member that is annoyed by receipt of such junk faxes, please report such activity to eFax.com via our eFax.com support form so that we can attempt to prevent further junk faxes from the same source. 
 
-**© 2000 eFax.com, all rights reserved.**
+**© 2000 eFax.com, all rights reserved.**   
+**eFax is a registered trademark of eFax.com.**  
+
