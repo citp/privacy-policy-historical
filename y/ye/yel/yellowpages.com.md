@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605052822id_/http%3A//info.yellowpages.com/asp/static/corpinfo/p3p.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202092014id_/http%3A//info.yellowpages.com/asp/static/corpinfo/p3p.asp) for the most accurate reproduction.*
 
 # YellowPages.Com ...Means Business
 
