@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2000-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000407115106id_/http%3A//www.adcouncil.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815073320id_/http%3A//www.adcouncil.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
+
+**The Advertising Council’s Privacy Statement**
 
 Your privacy while visiting our site is important to us. Because we gather certain types of information about the users of our site, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
 
@@ -37,3 +39,7 @@ _****_
 _**Contact Information**_
 
 For more information, requests, questions or comments, please contact:
+
+[info@adcouncil.org](mailto:info@adcouncil.org)
+
+212.922.1500
