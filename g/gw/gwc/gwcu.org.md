@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gwcu.org privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629175408id_/http%3A//www.gwcu.org/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwcu.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204025230id_/http%3A//www.gwcu.org/privacy.phtml) for the most accurate reproduction.*
 
 # Terms and Conditions
 
