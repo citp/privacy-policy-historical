@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prince.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203191227id_/http%3A//www.prince.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prince.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610103145id_/http%3A//www.prince.org/privacy_policy.html) for the most accurate reproduction.*
 
-# prince.org: privacy policy
+# privacy policy
 
 ## What this Privacy Policy Covers
 
