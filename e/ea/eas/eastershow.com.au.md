@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209031759id_/http%3A//www.greataustralianmuster.com/legal_2.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193427id_/http%3A//www.greataustralianmuster.com/legal_2.htm) for the most accurate reproduction.*
 
 # Royal Agricultural Society of NSW
 
-ROYAL AGRICULTURAL SOCIETY OF NSW (“RAS”)  
-PRIVACY ACT POLICY
+**ROYAL AGRICULTURAL SOCIETY OF NSW (“RAS”)  
+PRIVACY ACT POLICY**
 
 **What is the RAS Privacy Policy?**  
-The RAS is committed to ensuring adherence to the National Privacy Act Principles and providing the highest levels of service. We understand that privacy in all our dealings with our members, volunteers, licensees, exhibitors, competitors and all third parties is paramount. Our Privacy Act Policy details how we handle personal information supplied to the RAS.
+The RAS is committed to ensuring adherence to the National Privacy Act Principles and providing the highest levels of service. We understand that privacy in all our dealings with our members, volunteers, licensees, exhibitors, competitors and all third parties is paramount. Our Privacy Act Policy details how we handle personal information supplied to the RAS. 
 
 **The RAS**  
 The RAS is a not for profit entity with the principal aim of promoting, fostering and encouraging the development of agricultural pursuits. The RAS pursues this aim through the holding of the annual Royal Easter Show, conducting a number of other agricultural activities, and acts as a venue for the holding of exhibitions, entertainment activities and functions. As a result it has access to the personal information of its exhibitors, licensees, competitors and other third parties.
@@ -18,30 +18,40 @@ When you register with the RAS using our website registration form or if you sen
 Any personal information received by the RAS is stored electronically in our database or recorded manually. Any such information may be printed and stored in our filing system. 
 
 **How does the RAS use your personal information?**  
-Your personal information may be used in order to:  
-· provide the services and information you require;  
-· conduct the agricultural competitions at the Royal Easter Show;  
-· administer and manage those services, including charging billing and collecting debts;  
-· inform you of RAS activities, events, facilities and services;   
-· conduct appropriate checks for credit worthiness and for fraud;  
-· research, develop and expand our facilities and services;  
-· gain an understanding of our members’, exhibitors’ and patrons’ needs to provide a better service in all its areas of activities; and  
-· maintain and develop our internal systems and infrastructure including upgrading of these systems.  
-· The personal information may also be collected to promote and market other services that we consider important or beneficial to our objects or not for profit status.
+Your personal information may be used in order to:
+
+  * provide the services and information you require;
+  * conduct and record the agricultural competitions at the Royal Easter Show;
+  * promote and advertise the agricultural competitions and associated activities at the Royal Easter Show using media services;
+  * administer and manage those services, including charging billing and collecting debts;
+  * inform you of RAS activities, events, facilities and services; 
+  * conduct appropriate checks for credit worthiness and for fraud;
+  * research, develop and expand our facilities and services;
+  * gain an understanding of our members’, exhibitors’ and patrons’ needs to provide a better service in all its areas of activities;
+  * maintain and develop our internal systems and infrastructure including upgrading of these systems;
+  * The personal information may also be collected to promote and market other services that we consider important or beneficial to our objects or not for profit status; and
+  * Archival and museum purposes.
+
+
 
   
 **When does the RAS disclose your personal information?**  
-We do not disclose your personal information unless you have consented to such disclosure. However, in some circumstances we may indirectly disclose your personal information to organisations outside the RAS to assist the RAS in performing its functions and these include:  
-· Outsourced service providers who may manage services we provide:  
+We do not disclose your personal information unless you have consented to such disclosure. However, in some circumstances we may indirectly disclose your personal information to organisations outside the RAS to assist the RAS in performing its functions and these include:
+
+  * Outsourced service providers who may manage services we provide:  
 \- Mailing systems;  
 \- Billing and debt recovery functions;  
 \- Information technology services;  
 \- Marketing, telemarketing; and  
 \- Market Research  
-· Credit reporting agencies;  
-· Credit providers for credit related purposes such as credit worthiness, credit rating, credit provision;  
-· RAS professional Advisors including accountants, auditors and lawyers;  
-· Government and regulatory authorities and other organisations as required or authorised by law;
+
+  * Credit reporting agencies;
+  * Credit providers for credit related purposes such as credit worthiness, credit rating, credit provision;
+  * RAS professional Advisors including accountants, auditors and lawyers;
+  * Government and regulatory authorities and other organisations as required or authorised by law; and
+  * Achieving its agricultural objects.
+
+
 
 **Does the RAS send personal information outside Australia?**  
 In the event any competition entered attracts an international judge or the particular competition or exhibition is deemed to be an international competition, catalogues containing personal information may be sent to any such international judge or international competitors.
@@ -54,10 +64,9 @@ If you would like to update your personal information or if you seek to know wha
 
 **Currency**  
 Changes may be made to our Privacy Policy as required.  
-Privacy Policy last updated August 2002.
+Privacy Policy last updated February 2003.
 
 ROGER B PERKINS  
-Chief Executive 
+**Chief Executive**
 
-August 2002  
-
+February 2003
