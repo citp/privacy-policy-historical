@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the celebrity-link.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622230551id_/http%3A//www.celebrity-link.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-link.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206155600id_/http%3A//www.celebrity-link.com/privacy.html) for the most accurate reproduction.*
 
 # Celebrity Link: Privacy Policy
 
   
-  
-[](http://www.getpaid4.com/?netv)
-
 |  **Privacy Policy**   
 Celebrity Link is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
 
@@ -21,5 +18,5 @@ If you have any additional questions about Celebrity Link's dedication to consum
 
 CELEBRITY LINK WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE. TO FIND OUT MORE ABOUT HOW FLYCAST MANAGES THE PRIVACY OF INFORMATION IN CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO <http://www.flycast.com/about_us/about-privacy.html>. 
 
-  
-Copyright © 2000 [NetVision](http://www.net-v.com/). All Rights Reserved. [Privacy Statement](https://web.archive.org/web/20000622230551id_/http%3A//www.celebrity-link.com/privacy.html)
+[](http://kansas.valueclick.com/redirect?host=hs0141175&b=indexpage&v=0)   
+Copyright © 2000 [NetVision](http://www.net-v.com/). All Rights Reserved. [Privacy Statement](https://web.archive.org/web/20001206155600id_/http%3A//www.celebrity-link.com/privacy.html)
