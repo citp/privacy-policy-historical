@@ -1,80 +1,106 @@
-> *The following text is extracted and transformed from the blink.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215208id_/http%3A//blink.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blink.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621081300id_/http%3A//www.blink.com/Dispatch%3Fpage%3DAbout%26args%3D1%26arg0%3Dprivacy) for the most accurate reproduction.*
 
 # Blink and Your Privacy
 
 **Blink Privacy Policy**
 
-Maintaining your privacy--online and off--is of utmost importance to Blink. This policy will tell you exactly what we will and won't do with the private, personal information you provide us. Please feel free to read it in full, but here is a summary:
+Effective as of June 5, 2003
 
-• Blink will **never** share your personal information or your bookmarks with anyone without your permission.
+Blink.com ("Blink.com") makes this Web site (the "Site") available to registered members of the Site ("Members"), subject to this privacy policy (the "Policy") and the Blink.com Terms of Service ("Member Agreement"). This Policy explains what information Blink.com collects about Members on the Site, how Blink.com uses this information, and how such information is maintained. By registering and using this Site, you signify your acceptance of this Policy. If you do not agree to the terms of this Policy, in whole or part, you should not use this Site, or if you are a Member, you must immediately terminate your account. 
 
-• **Only you** can choose to share your bookmarks or your personal information with someone else.
+Note that this Policy applies only with respect to the information collected by Blink.com and not any information collected or obtained through other methods or sources. 
 
-If you ever have any questions about your privacy, please email us immediately at [privacy@blink.com](mailto:privacy@blink.com).
+**Personally Identifiable Information**
 
-**Personal Information Collection**
+**Collection of PII**
 
-Two kinds of personal information are requested during registration: personally identifiable information and demographic information. Personally identifiable information is required for registration, but other demographic information is optional and may be given at your discretion. During registration, Blink asks for your first name, middle initial, last name, an e-mail address, and a home page, if you have one. In addition, we ask you to provide a password. Personally identifiable information is not shared with anyone, nor is it sold to anyone. The demographic information gathered includes gender, approximate age, country, language, zip code, time zone, occupation and industry. The more information you provide us with, and the more accurate it is, the easier it is for us to customize your use of Blink, as well as provide information to you that you will find useful. For example, your personal profile might help us connect you with other members who share similar interests to yours. 
+Blink.com collects Member personally identifiable information ("PII") that is volunteered by Members during the registration process or in response to specific information requests explicitly presented to Members. Blink.com also collects PII that is provided by third parties to Blink.com in accordance with their respective privacy policies. Examples of PII that may be requested and/or collected include: first and last name, address, e-mail address, and telephone number. In order to allow Blink.com to comply with applicable legal reporting requirements, Members who win certain prizes on the Site may be requested to provide their social security number. However, Blink.com will otherwise never share this social security information other than as required by law for tax and reporting purposes. From time to time, Blink.com may also present opportunities for Members to voluntarily provide a limited amount of general demographic information about themselves, which may include their gender, birth date, marital status, education, occupation, and household income. 
 
-In addition to registration we may ask you for personal information at other times, such as when you report a problem with one of our sites or services. Blink may also occasionally ask members to complete surveys that we use for internal research. Blink also tracks information about web site visitation, on an aggregated basis. Blink calculates the total number of Blink members who have bookmarked a site. Blink calculates the aggregate number of visits to a site by all Blink members together. When you are viewing a link in a public folder, Blink also tells you the last time that link was visited by any member of Blink. This aggregate information is posted on the web site, and available to our registered members to view.
+**Use and Sharing of PII**
 
-**Personal Information Utilization**
+Blink.com reserves the right to use Member PII: (1) for the specific purpose for which such information was provided; (2) as disclosed at the time such information is provided; and/or (3) as disclosed in this Policy. However, please note that Blink.com may change this Policy at any time (See "Changes to this Policy," below), and that therefore Blink.com may in the future use Member PII for additional purposes not currently included in this Policy. 
 
-Your personal information is used only for demographic statistics and to display appropriately targeted advertisements. For example, Blink does internal research on our members' demographics, interests, and behavior based on what you tell us when you register, what links you keep on your Blink account, and from our server log files. In general, Blink automatically gathers certain usage information like the numbers and frequency of visits to Blink. This research is compiled and analyzed on an aggregated basis, meaning your personal demographic information is never directly accessed. The collective data helps us determine how often Blink members use parts of the site, primarily so that we can improve our site to keep it as interesting and appealing as possible. Blink may disclose aggregated user statistics (for example, 20% of our users are between 33-40) so that we may describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. By providing this information, you acknowledge that Blink may use members' profile information to improve or customize the Blink service or to provide demographic profiling to obtain advertising. Any use of profile information will be conducted in line with the guidelines set forth in this Privacy Statement.
+When you register to become a Member of this Site, you are automatically registered to become a Member of all the other online properties in the Vendare Network (collectively, the "Network Sites"). Accordingly, Blink.com may share Member PII with the Network Sites. For a list of the Network Sites, [click here](http://www.jackpot.com/features/network.asp). 
 
-Blink's main goal in collecting personal information is to provide you with the best customized experience on our site. This includes communities of users, interactive communications, and many other types of services, all of which are completely free to you. For us to provide these services free of charge, we display advertisements, which cover the cost of operating this site. Our primary services are customized services - including link management, allowing access to your links from any location and any computer, as well as the ability for you to send lists of links to anyone at any time. In addition, we offer community services, such as allowing you to share any folder you want to with other members or groups of members.
+Also, Blink.com may share Member PII (except for credit card information and social security number) with its partners, sponsors, advertisers, service providers and marketers, lookup and reference services, and any other entities that Blink.com believes are able to provide Members with special offers and opportunities. Note that although Blink.com advises everyone who receives Member PII from Blink.com to support this Policy, Blink.com has no control over such party's information handling practices and is not responsible for any failure of such party to adhere to this Policy. 
 
-In addition, we can provide you with the most relevant advertisements and therefore better service by using the demographic information you provide and the links you choose to keep. Advertisers provide Blink with advertisements and tell us the type of audience they are hoping for, and in turn, Blink displays these ads to users matching the demographics and behaviors the advertisers are looking for. Therefore, advertisers never access any personal information. This kind of advertisement targeting is done with targeted banner ads, and targeted emails, but only if you agree to receive such email announcements.
+As provided in the Member Agreement, Members are required to provide their PII to Blink.com as a condition of Membership, and to understand and agree that Blink.com may share their PII with the Network Sites and unaffiliated third parties. If you do not provide the required PII or do not agree that Blink.com may share your PII with such entities, you may not register as a Member, and if you are already a Member, you must immediately terminate your account, by following the instructions in the "Terminate Account" section below. 
 
-Note that Blink will not send you any unsolicited information, including email, unless you have indicated your willingness to receive such information by clicking the box on the member profile page. Upon registration, new members will receive a Blink welcome letter explaining the features provided by our service.
+Additionally, Blink.com may share Member PII in aggregate, non-personal form, with select companies that wish to reach a particular Member target audience (e.g., registered female Members between the ages of 25-35, who have an average household income of over $50,000.00). This information will allow these entities to provide relevant offers to specific Members. 
 
-When on the site, we provide an opportunity for you to tell a friend about Blink. If you provide the email address of a friend, then a brief note, sent from you, describes our services to your friend. Blink does not collect the email addresses of people whom you contact, and never sends solicitations of any kind to these addresses.
+Finally, Blink.com may disclose Member PII in order to: (1) comply with applicable laws; (2) respond to governmental inquiries; (3) comply with valid legal process; and (4) protect the rights or property of Blink.com, the Network Sites or other Members and users of the Site. 
 
-**How Does Blink Use Cookies?**
+**Non-Personally Identifiable Information**
 
-Blink uses "Cookies" to identify a member's session on Blink and thereby offer continuity as the member moves around the site. Cookies allow web sites to maintain user information across connections. They are small strings of characters used by many web sites (including Blink) to deliver data to your computer, and in certain circumstances, return the information to the web site. This is how we can "remember" information about members such as your password (if you choose to auto-login). Cookies contain only information that members volunteer, and they do not have the capability of infiltrating a user's hard drive and stealing personal information. The simple function of a cookie is that of helping the user navigate a website with as little obstruction as possible. Note that advertisers on Blink may also use their own cookies. If you set your browser to not accept cookies, then you will be unable to log on to Blink.
+Blink.com also collects certain non-personally identifiable information, including the non-personally identifiable information more fully described below. 
 
-**Blink Profiles**
+_Cookies._ Blink.com uses "cookies" on the Site. Cookies are small pieces of information that Blink.com's server places on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Site and Blink.com e-mails. For example, Blink.com will place a cookie on a Member's computer when he/she initially registers with the Site. The next time that Member visits the Site, Blink.com's server will recognize the cookie (and the Member) and allow the Member to play the game immediately without signing in. 
 
-During the Blink registration process you have the opportunity to choose whether you want your profile information to be made available to other members. This profile information includes your name, email address, and the address of your homepage, if applicable. You can change your profile at any time by clicking on the appropriate area on the site.
+While some Web browsers allow a Member to automatically reject all cookies or be notified when a cookie is about to be placed on the Member's computer, disabling this feature may compromise the efficiency and added services that cookies provide. 
+
+_IP Address._ Blink.com collects your IP (Internet Protocol) address to help diagnose problems with Blink.com's server, and to administer this Site. An IP address is a number that is assigned to your computer when you use the Internet. Your IP address is also used to help identify you during a particular session and to gather broad demographic data. 
+
+_Clear GIFs._ Blink.com uses a common technology known as a "Clear GIF" or "1-by-1 Pixel" on the Site and in e-mail communications with Members. A Clear GIF, or "graphic interface format" is a small graphic (in fact, truly a 1x1 pixel) that Blink.com (or a partner of Blink.com) places on the Site or in an e-mail. GIFs, which do not contain any PII, provide Blink.com with important information about how Membersuse the Site and respond to e-mail messages. With this information, Blink.com is better able to track the performance of certain promotions and understand the effectiveness of particular creative e-mail presentations. Blink.com may also allow its advertisers and promotional partners the ability to use GIFs on the Site solely to track Members who link from their respective sites to this Site, but this ability to track such activity does not allow these entities access to Member PII. 
+
+Although the information collected through the foregoing methods does not itself contain any PII, Blink.com may analyze and match such information with other information that you provide (including PII) as well as information that Blink.com may obtain elsewhere, and Blink.com may share all or some of such information with partners, prospective partners, and other affiliated or unaffiliated third parties. 
+
+Blink.com may also discloseany of the non-personally identifiable informationdescribed above in order to (1) comply with applicable laws, (2) respond to governmental inquiries, (3) comply with valid legal process, or (4) protect the rights or property of Blink.com or its Members and users of the Site. 
+
+**Linking of Information**
+
+Blink.com may combine information provided by a Member with information obtained from other sources. Enhancing Member files with this other information will allow Blink.com to provide Members with more relevant services email promotional offers, and direct mail pieces. For example, a Member's user profile will automatically be updated with any information that user enters on any of the Network Sites. Likewise, any information provided to Blink.com will be used to update the Member's profile on all of the Network Sites. 
+
+**Opt-Out of Blink.com E-mails**
+
+When you become a Member, you will automatically be registered to receive promotional offers and updates, via email from Blink.com, from the Network Sites and other associated email brands. 
+
+Additionally, when you register to become a Member on the Site, you will be provided with the opportunity to receive promotional offers via e-mail, from partners of Blink.com. While some of these opportunities will only be sent to you if you expressly request them, others may be sent to you unless you elect not to receive them. Accordingly, when you register, please review these offers carefully. 
+
+Members may, at any time, choose not to receive promotional e-mails from Blink.com, the Network Sites or partners of Blink.com by following the "unsubscribe" instructions in any e-mail, or (2) terminating their Blink.com account. Notwithstanding the foregoing, Blink.com may at any time contact Members for the purpose of communicating important information about Blink.com to Members. 
+
+_Note that unsubscribing from one e-mail list does not automatically unsubscribe you from any other e-mail list that you may be on. Please read the e-mail carefully to find out which list you are unsubscribing from. If you would like to unsubscribe from all e-mail lists, you must terminate your account. In addition, if we have shared your information with one of our partners, unsubscribing from our list will not prevent these third parties from emailing you._
+
+**Access to Information**
+
+If you want to review, correct or change your Member account information, please go to the [Update Info](https://web.archive.org/go?page=MyAccount&args=1&arg0=general) section of the Site, and follow the appropriate instructions (you may have to log-in first). 
+
+**Third Party Services**
+
+Certain activities, information and services available to Members are provided by entities not affiliated with Blink.com. For example, if you choose to purchase a product or service or play a game from the site, the information you provide in connection with such purchase or game play may be made available to a third party to satisfy that purpose. Although Blink.com advises all of its partners to support this Policy, Blink.com has no control over their information handling practices and is not responsible for any failure of such partners to adhere to this Policy. 
+
+**Third Party Cookies**
+
+In the course of serving advertisements to this Site, third-party advertisers or ad servers may place or recognize a unique cookie on your browser. The use of cookies by such third party advertisers or ad servers is not subject to this Policy, but is subject to their own respective privacy policies. 
+
+**Links from the Site**
+
+Blink.com provides links to many of Blink.com's advertiser and partner Web sites. If you link to any of these third party Web sites, this Policy will not apply to your use of, and activities on, those sites. We encourage you to read the legal notices posted on these sites, including their privacy policies. Blink.com shall have no responsibility or liability for your visitation to, and the data collection and use practices of, these sites. 
+
+**Note Concerning Users Under 18 Years of Age**
+
+Unless otherwise noted, the Site, the Blink.com e-mails and the content available in connection therewith, are neither intended for, nor directed to, persons under the age of 18. Except as otherwise noted, if Blink.com learns that a person who registers on the Site is under the age of 18, Blink.com will promptly terminate that individual's membership. 
 
 **Security**
 
-Personal information collected by Blink is stored and maintained in secure operating environments that are not available to the public. Blink does not sell or rent member information to anyone, although as discussed under the section on "Personal Information Utilization," certain demographic information is made available to other sites or advertisers on an aggregated basis. When we ask you for personal information, you are sharing that information with Blink alone, unless it is specifically stated otherwise. We do not share personal information with any third parties unless we have belief that such action is necessary to: either conform to legal requirements, protect the rights of Blink, or enforce the Blink Terms of Service. Please be aware that Blink advertisers or web sites that have links on our site may collect personally identifiable information about you when you access their site or use their services. In order to participate in BlinkRewards(SM), members may have to share additional information with Third Parties in the fulfillment of BlinkRewards(SM). If you choose to not provide this information, which may be subject to their Privacy Policy, then you cannot participate in BlinkRewards(SM). You should also be aware that Blink uses frames to display awards that are part of the BlinkRewards(SM) Incentive Program. As stated below, the information practices of third party web sites are not covered by this privacy statement.
+While Blink.com takes reasonable precautions to safeguard information transmitted between Blink.com and Members and/or users of the Site, Blink.com may be unable to prevent unauthorized access to such information by third parties or inadvertent disclosure of such information. Members and users acknowledge this risk when communicating with Blink.com. 
 
-Please be aware that you might also provide personal information through discussion sessions, email exchanges or shared link folders. Certain information that you choose to post is publicly available. For example, information posted in shared folders is accessible to all members, or groups of members that you designate. By designating a folder shared, and clicking on the add links button, you are giving consent to other members to add links to your folders. Private folders are accessible only to you. All shared link folders, chat sessions and bulletin board use is considered public and you are responsible for your actions in these areas. The Blink "Privacy Statement" cannot protect your personal information if it is transferred in this manner. We recommend that you be careful when distributing any personal information this way.
+**Consent to Processing**
 
-Your Blink information is password-protected so that only you have access to this personal information. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Blink employees do not have access to your data, however certain technical staff need access to the data and are given password protected access. This security policy is defined in the employee handbook, and employees are regularly reminded of our privacy policy by circulating handouts and email reminders. Our web security is reviewed by running daily security scripts on the Web servers that report any abnormal behavior. Remember to logout and close your browser window when you have finished your work to ensure that others cannot access your personal information. 
+By providing PII and other information to Blink.com, Members and users of the Site fully understand and unambiguously consent to the collection and processing of such information in, and the transfer of such information to, the United States and other countries or territories, in accordance with the terms of this Policy. 
 
-**Third Party Web Sites**
+**Transfer in Certain Circumstances**
 
-Blink contains folders composed of links to third-party web sites. These numerous linked sites are not under the control of Blink and are not affiliated with Blink. Blink cannot be responsible for the contents of any linked site or the contents of any link contained in a linked site. Blink provides these links only as an information service to our members, or our members have voluntarily listed their favorite sites for information purposes in folders maintained by Blink. Therefore, a web site contained in a member's link list folder, or group folders, on Blink does not indicate endorsement of the linked site or its contents by Blink. Please refer to the [Terms of Service](https://web.archive.org/about/terms) for additional details.
+In its sole discretion, Blink.com may transfer, sell or assign information collected on or about Members and/or users of the Site, including without limitation, PII and other Member provided information, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of Blink.com. 
 
-In addition, Blink.com works with a third party (DoubleClick, Inc.) to serve ads on our site. These ads may contain cookies. This policy only covers the use of cookies by Blink.com and does not cover the use of cookies by any advertisers. Blink.com does not have control, nor access to the information contained in its advertisers' cookies. To find out more about how DoubleClick manages the privacy of information in conjunction with serving ads on this site go to <http://www.doubleclick.com/us/corporate/privacy/>. 
+**Terminate Account** Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Blink.com. Accounts may be terminated by [CLICKING HERE](https://web.archive.org/go?page=MyAccount&args=1&arg0=disable&doneurl=%2Fgo%3Fpage%3DMyAccount%26args%3D1%26arg0%3Ddisable) and following the applicable instructions, or by emailing Blink.com customer service at [support@blink.com](mailto:support@blink.com). All inquiries concerning the use of Member PII by a third party must be communicated to that third party, and not to Blink.com. 
 
-**Blink Privacy Policy Changes**
+**Changes to this Policy**
 
-If Blink changes its privacy policy, these changes will be posted here so that you will always know what information Blink gathers, how Blink might use that information, and whether Blink will disclose it to anyone. If Blink makes any material change concerning how your personally identifiable information is used, then, in addition to including such revision in this privacy statement, Blink will post a notice on the Blink site that a change to the privacy policy has taken place. You are expected to review this Agreement periodically to ensure familiarity with the most current version Please also review Blink(SM)'s [Terms of Service](https://web.archive.org/about/terms).
+Blink.com may, from time to time, amend this Policy, in whole or part, in its sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy on the Site. Depending on the nature of the change, Blink.com may announce the change (1) on the home page of the Site, or (2) provide such notice via e-mail to Members. By continuing to use the Site following any changes or by remaining a Member, you will be deemed to have agreed to such changes. 
 
-**Questions**
-
-Questions regarding this statement should be directed to the Blink site coordinator ([privacy@Blink.com](mailto:privacy@Blink.com)).
-
-If you are interested in exploring privacy issues on the Internet further please see: 
-
-  * [Electronic Frontier Foundation](http://www.eff.org/) \- a civil liberties organization. 
-  * [Electronic Privacy Information Center](http://epic.org/) \- focuses attention on emerging civil liberties issues. 
-  * [Federal Trade Commission](http://www.ftc.gov/privacy/index.html) \- website on privacy protection. 
-
-
-
-The Blink and BlinkPro websites are owned and operated by:
-
+Presented by:  
 Blink.com, Inc.  
-64 Fulton Street, 5th Floor  
-New York, N.Y. 10038  
-Tel.: (212) 619-6200  
-Fax: (212) 619-0080  
+15260 Ventura Blvd., Suite 2000  
+Sherman Oaks, CA 91403  
+[support@blink.com](mailto:support@blink.com)  
 
-
-Updated 10-2001
