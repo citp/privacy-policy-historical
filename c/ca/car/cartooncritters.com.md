@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartooncritters.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405090332id_/http%3A//www.cartooncritters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartooncritters.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214111525id_/http%3A//cartooncritters.com/privacy.htm) for the most accurate reproduction.*
 
-# Cartoon Critters - Coloring Book Online, Cartoons to Print and Color, Learn to Draw, Crafts, Games
+# Cartoon Critters - coloring pages,learn to draw,online games
 
 This is the web site of **Cartoon Critters**. 
 
@@ -13,9 +13,9 @@ The information we collect is used for internal review and is then discarded, an
 
 With respect to cookies: We do not set any cookies. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address.
 
-We do not collect the e-mail addresses of those who access our site. 
+We **do not** collect the e-mail addresses of those who access our site. 
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
