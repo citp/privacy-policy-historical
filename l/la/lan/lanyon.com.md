@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanyon.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212201257id_/http%3A//www.lanyon.com/Inside/Legal/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanyon.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628145337id_/http%3A//lanyon.com/Inside/Legal/Privacy.htm) for the most accurate reproduction.*
 
 # Lanyon, Inside - Legal Privacy Statement
 
