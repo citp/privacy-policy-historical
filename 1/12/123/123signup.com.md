@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123signup.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217173103id_/http%3A//123signup.com/corp/library/company.asp%3Furl%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123signup.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611064444id_/http%3A//www.123signup.com/corp/library/company.asp%3Furl%3Dpolicy) for the most accurate reproduction.*
 
 # 123Signup - Online Membership Management & Event Registration
 
