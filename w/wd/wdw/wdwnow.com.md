@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdwnow.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210202527id_/http%3A//www.wdwnow.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwnow.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417011843id_/http%3A//www.wdwnow.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
