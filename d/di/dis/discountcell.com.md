@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605082939id_/http%3A//discountcell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208075244id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-**_Discountcell is committed to protecting your privacy!   We do not sale or disclose the information (including address, phone number or email address) you provide us to third parties without your express permission nor do we send unsolicited emails._**
+**_Discountcell is committed to protecting your privacy!   We do not sell or disclose the information (including address, phone number or email address) you provide us to third parties without your express permission nor do we send unsolicited emails._**
 
 **_Our Commitment To Privacy  
 _**Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
@@ -27,7 +27,7 @@ We use return email addresses to answer the email we receive, notify customers o
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we do not disclose anything that could be used to identify those individuals. 
 
-**If you choose to receive your tracking number via email when the package is shipped, UPS will be provided with your email address to forward this information to you.   UPS has assured us they do not sale or disclose this information.**
+**If you choose to receive your tracking number via email when the package is shipped, UPS will be provided with your email address to forward this information to you.   UPS has assured us they do not sell or disclose this information.**
 
 **_Our Commitment To Data Security  
 _**To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
