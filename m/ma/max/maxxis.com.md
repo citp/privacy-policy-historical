@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxxis.com privacy policy that was archived on 2004-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040925034324id_/http%3A//www.maxxis.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxxis.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401094452id_/http%3A//www.maxxis.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Maxxis.com - Privacy Policy
 
