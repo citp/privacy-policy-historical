@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommercetemplates.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207064204id_/http%3A//www.ecommercetemplates.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommercetemplates.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622114414id_/http%3A//ecommercetemplates.com/privacy.asp) for the most accurate reproduction.*
 
 # Ecommercetemplates.com - ecommerce Web templates for Dreamweaver, Frontpage and GoLive
 
@@ -14,4 +14,4 @@ Our servers (as most) track IP addresses and referring pages to help with site m
 With the exception of credit card info, we store the information from your order form to allow us to track consulting issues or refer to a previous order to help provide some customer service. You may elect to have your information completely removed from this system by e-mailing us at [info@ecommercetemplates.com](mailto:info@ecommercetemplates.com) with your request. 
 
 **Information Correction or Removal**  
-If you wish to correct, update or remove any information about you that may be in our records, please send us e-mail at [info@ecommercetemplates.com](mailto:info@ecommercetemplates.com) with the details of your request. If you wish to contact us further, please find complete contact information on our [contact](https://web.archive.org/web/20021207064204id_/http%3A//www.ecommercetemplates.com/contact.asp) page. 
+If you wish to correct, update or remove any information about you that may be in our records, please send us e-mail at [info@ecommercetemplates.com](mailto:info@ecommercetemplates.com) with the details of your request. If you wish to contact us further, please find complete contact information on our [contact](https://web.archive.org/web/20030622114414id_/http%3A//ecommercetemplates.com/contact.asp) page. 
