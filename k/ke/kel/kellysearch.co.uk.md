@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203014009id_/http%3A//www.kellysearch.com/infozone/resources/privpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602232656id_/http%3A//www.kellysearch.com/infozone/resources/privpolicy.asp) for the most accurate reproduction.*
 
 # Kellysearch - Privacy policy
 
@@ -12,6 +12,8 @@ Contact details provided by you (such as your name, job title, telephone and fax
 
 **'Cookies'**  
 Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access our services or websites. We may use cookies to provide you with a convenient means of access, without needing your password. Also to protect the integrity of registered user names and passwords and to limit access to 'paid for' services. We will not disclose information obtained by the use of cookies to third parties.
+
+In addition, the third party companies who sell and provide advertisements to the site and host our contacts database make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of website, please visit the websites of our third party supplier [Adtech](http://www.adtech.info/privacy_en.php). 
 
 **Data Protection Policy**   
 E-mails sent to companies via this RBI Website will be monitored by RBI for statistical purposes and these statistics may be passed onto to advertisers on the website.
