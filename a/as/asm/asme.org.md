@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408023626id_/http%3A//www.asme.org/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202021455id_/http%3A//www.asme.org/terms/privacy.html) for the most accurate reproduction.*
 
 # ASME Terms of Use
 
 **ASME.ORG Privacy and Security Statement**
 
-[Terms of Use](https://web.archive.org/web/20030408023626id_/http%3A//www.asme.org/terms/index.html)
+[Terms of Use](https://web.archive.org/web/20031202021455id_/http%3A//www.asme.org/terms/index.html)
 
-Last Revised: September 17, 2002
+Last Revised: July 16, 2003
 
 **General Information  
 **The ASME.ORG web site ("ASME.ORG") is intended for public information, communication and the consumption of goods and services provided by The American Society of Mechanical Engineers (ASME International). This privacy policy ("Privacy Policy") describes the way that ASME International collects and handles information from visitors and members to ASME.ORG.
@@ -87,7 +87,7 @@ ASME Members may review and update the personally identifiable information that 
 ASME.ORG may display the email addresses of volunteers who serve as officers on ASME International committees and other units. These volunteers are leaders of ASME International and may have chosen to place their contact information online so as to be more accessible to the public. If you are a volunteer or member who has been listed on ASME.ORG and you no longer wish to have your email address posted, please send an e-mail to [webmaster@asme.org](mailto:webmaster@asme.org?subject=Remove%20Email%20Address%20from%20ASME.ORG) with a subject line of: Remove Email Address from ASME.ORG and the page address where your email is listed.
 
 **Email Alias Service**  
-ASME International offers its members an email alias. The alias is a simple "store and forward" mechanism that accepts email sent to the alias name and forwards it to the member's actual email address. Once an email alias is issued to a member, ASME International makes no guarantees on the future privacy of the alias. There is no protective or "anti-spam" software on the email alias server; members must take sole responsibility for protecting against publication or misuse of their email aliases. Therefore, members use the email alias service at their own risk. 
+ASME International offers its members an email alias. The alias is a simple "store and forward" mechanism that accepts email sent to the alias name and forwards it to the member's actual email address. Once an email alias is issued to a member, ASME International makes no guarantees on the future privacy of the alias. ASME has taken measures to protect members from SPAM in the form of adding third party SPAM-blocking services; However, because the software cannot guarantee complete SPAM blocking, members must take sole responsibility for protecting against publication or misuse of their email aliases. Therefore, members use the email alias service at their own risk. 
 
 Under no circumstances, including, but not limited to, negligence, will ASME International or its directors, officers, employees, or agents be liable for direct, indirect, incidental, special or consequential damages that result from your use of (or inability to use) the email alias service.
 
