@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crainsdetroit.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204065947id_/http%3A//www.crainsdetroit.com/cgi-bin/page.pl%3FpageId%3D123) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainsdetroit.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206202850id_/http%3A//www.crainsdetroit.com/cgi-bin/page.pl%3FpageId%3D123) for the most accurate reproduction.*
 
 # Crain's Detroit Business
 
