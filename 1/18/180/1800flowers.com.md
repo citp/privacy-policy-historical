@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800flowers.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623073201id_/http%3A//www.1800flowers.com/security/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800flowers.com privacy policy that was archived on 2004-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041030014207id_/http%3A//www.1800flowers.com/security/index.asp) for the most accurate reproduction.*
 
 # 1-800-FLOWERS.COM
 
