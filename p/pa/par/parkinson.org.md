@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004152541id_/http%3A//www.parkinson.org/disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621104415id_/http%3A//www.parkinson.org/disclaimer.htm) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
@@ -51,4 +51,4 @@ All information transmitted to this NPF Web site is secure to the extent possibl
 **Changes**  
 Any changes to this privacy policy will be communicated promptly at this location. Please check our privacy page periodically to review any changes that may have been made. 
 
-**Thank you for visiting the NPF Web site. WE value your interest and ideas. If you have any comments or concerns regarding the use of information provided by NPF via an Internet site please[contact us](https://web.archive.org/web/20021004152541id_/http%3A//www.parkinson.org/contact.htm).**
+**Thank you for visiting the NPF Web site. WE value your interest and ideas. If you have any comments or concerns regarding the use of information provided by NPF via an Internet site please[contact us](https://web.archive.org/web/20030621104415id_/http%3A//www.parkinson.org/contact.htm).**
