@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810095639id_/http%3A//www.summitatsnoqualmie.com/winter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606032238id_/http%3A//www.summitatsnoqualmie.com/winter/privacy.html) for the most accurate reproduction.*
 
 # Summit at Snoqualmie - Privacy Policy
 
