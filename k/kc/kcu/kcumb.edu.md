@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcumb.edu privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617050721id_/http%3A//www.kcumb.edu/help/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcumb.edu privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009160241id_/http%3A//www.kcumb.edu/help/security.asp) for the most accurate reproduction.*
 
 # the University of Health Sciences
 
