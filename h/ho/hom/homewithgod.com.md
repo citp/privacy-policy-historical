@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homewithgod.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603091348id_/http%3A//www.homewithgod.com/links/pages/privacystmt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homewithgod.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603145948id_/http%3A//www.homewithgod.com/links/pages/privacystmt) for the most accurate reproduction.*
 
 # HomewithGod Christian Search - Privacy Statement
 
