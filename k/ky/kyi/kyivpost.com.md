@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyivpost.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001182415id_/http%3A//kyivpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyivpost.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611131450id_/http%3A//kyivpost.com/privacy) for the most accurate reproduction.*
 
 # KYIV POST - Privacy policy
 
