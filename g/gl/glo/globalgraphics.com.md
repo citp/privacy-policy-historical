@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgraphics.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610043718id_/http%3A//www.globalgraphics.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgraphics.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208040036id_/http%3A//www.globalgraphics.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ The type of information we will collect about you includes:
 
 To ensure that your data is secure during transmission we will use Secure Sockets Layer (SSL) when you provide us with password or order information.
 
-The information we gather may be transferred across national boundaries and may be stored and processed in any of the countries in which Global Graphics Hardware and Global Graphics Software (hereinafter collectively referred to as "Global Graphics") have offices.
+The information we gather may be transferred across national boundaries and may be stored and processed in any of the countries in which Global Graphics Software Ltd. (hereinafter referred to as "Global Graphics") have offices.
 
 The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing [jane.stoner@globalgraphics.com](mailto:jane.stoner@globalgraphics.com). If you find any inaccuracies we will delete or correct the information promptly.
 
@@ -34,8 +34,6 @@ We will never collect sensitive information about you without your explicit cons
 We do not use single-pixel gifs (also known as 'Web Bugs') to obtain information about visitors to the web site.
 
 Global Graphics is not responsible for the content or privacy practices of non-Global Graphics sites to which this website might link.
-
-The Jaws PDF Creator store is managed by Transaction One. Transaction One is responsible for the security of the store. Details of the Transaction One security policy can be found within the Jaws PDF Creator store.
 
 If our privacy statement is changed at any time we will post these changes on this page. 
 
