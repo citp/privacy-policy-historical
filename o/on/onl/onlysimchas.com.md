@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlysimchas.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213638id_/http%3A//www.onlysimchas.com/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlysimchas.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207022901id_/http%3A//onlysimchas.com/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # OnlySimchas.com (sm) :: Membership ::
 
@@ -24,7 +24,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [support@msidg.com](mailto:support@msidg.com)
+  1. You can send email to [Support](http://www.onlysimchas.com/index.cfm?fuseaction=email&to=support)
 
 
 
@@ -32,10 +32,10 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [support@msidg.com](mailto:support@msidg.com)
+  1. email [Support](http://www.onlysimchas.com/index.cfm?fuseaction=email&to=support)
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact OnlySimchas.com, Inc. 411 Hackensack Ave Fourth Floor Hackensack, NJ 07601 support@msidg.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact OnlySimchas.com, Inc. 411 Hackensack Ave Fourth Floor Hackensack, NJ 07601 [Technical Support](http://www.onlysimchas.com/index.cfm?fuseaction=email&to=support)
