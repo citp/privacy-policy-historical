@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startech.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202210729id_/http%3A//startech.com/allproducts/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startech.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605222842id_/http%3A//startech.com/allproducts/privacystatement.cfm) for the most accurate reproduction.*
 
 # StarTech.com - The Professionals' Source for Hard-to-Find Computer Parts
 
