@@ -1,0 +1,318 @@
+<!--The following is the downloaded HTML source of the firstrepublic.com privacy policy that was archived on 2000-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205234700id_/http%3A//firstrepublic.com/privacy/index.html) for the most accurate reproduction.-->
+
+<html><!-- #BeginTemplate "/Templates/main.dwt" --><head>
+<!-- #BeginEditable "doctitle" --> 
+<title>First Republic Bank - Privacy Policy</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_showHideLayers() { //v3.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function MM_timelineGoto(tmLnName, fNew, numGotos) { //v2.0
+  //Copyright 1997 Macromedia, Inc. All rights reserved.
+  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,lastKeyFr,propNum,theObj;
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  tmLn = document.MM_Time[tmLnName];
+  if (numGotos != null)
+    if (tmLn.gotoCount == null) tmLn.gotoCount = 1;
+    else if (tmLn.gotoCount++ >= numGotos) {tmLn.gotoCount=0; return}
+  jmpFwd = (fNew > tmLn.curFrame);
+  for (i = 0; i < tmLn.length; i++) {
+    sprite = (jmpFwd)? tmLn[i] : tmLn[(tmLn.length-1)-i]; //count bkwds if jumping back
+    if (sprite.charAt(0) == "s") {
+      numKeyFr = sprite.keyFrames.length;
+      firstKeyFr = sprite.keyFrames[0];
+      lastKeyFr = sprite.keyFrames[numKeyFr - 1];
+      if ((jmpFwd && fNew<firstKeyFr) || (!jmpFwd && lastKeyFr<fNew)) continue; //skip if untouchd
+      for (keyFrm=1; keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]; keyFrm++);
+      for (j=0; j<sprite.values.length; j++) {
+        props = sprite.values[j];
+        if (numKeyFr == props.length) propNum = keyFrm-1 //keyframes only
+        else propNum = Math.min(Math.max(0,fNew-firstKeyFr),props.length-1); //or keep in legal range
+        if (sprite.obj != null) {
+          if (props.prop2 == null) sprite.obj[props.prop] = props[propNum];
+          else        sprite.obj[props.prop2][props.prop] = props[propNum];
+      } }
+    } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
+  }
+  tmLn.curFrame = fNew;
+  if (tmLn.ID == 0) eval('MM_timelinePlay(tmLnName)');
+}
+
+function MM_timelinePlay(tmLnName, myID) { //v1.2
+  //Copyright 1997 Macromedia, Inc. All rights reserved.
+  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,propNum,theObj,firstTime=false;
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  tmLn = document.MM_Time[tmLnName];
+  if (myID == null) { myID = ++tmLn.ID; firstTime=true;}//if new call, incr ID
+  if (myID == tmLn.ID) { //if Im newest
+    setTimeout('MM_timelinePlay("'+tmLnName+'",'+myID+')',tmLn.delay);
+    fNew = ++tmLn.curFrame;
+    for (i=0; i<tmLn.length; i++) {
+      sprite = tmLn[i];
+      if (sprite.charAt(0) == 's') {
+        if (sprite.obj) {
+          numKeyFr = sprite.keyFrames.length; firstKeyFr = sprite.keyFrames[0];
+          if (fNew >= firstKeyFr && fNew <= sprite.keyFrames[numKeyFr-1]) {//in range
+            keyFrm=1;
+            for (j=0; j<sprite.values.length; j++) {
+              props = sprite.values[j]; 
+              if (numKeyFr != props.length) {
+                if (props.prop2 == null) sprite.obj[props.prop] = props[fNew-firstKeyFr];
+                else        sprite.obj[props.prop2][props.prop] = props[fNew-firstKeyFr];
+              } else {
+                while (keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]) keyFrm++;
+                if (firstTime || fNew==sprite.keyFrames[keyFrm-1]) {
+                  if (props.prop2 == null) sprite.obj[props.prop] = props[keyFrm-1];
+                  else        sprite.obj[props.prop2][props.prop] = props[keyFrm-1];
+        } } } } }
+      } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
+      if (fNew > tmLn.lastFrame) tmLn.ID = 0;
+  } }
+}
+
+function MM_timelineStop(tmLnName) { //v1.2
+  //Copyright 1997 Macromedia, Inc. All rights reserved.
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  if (tmLnName == null)  //stop all
+    for (var i=0; i<document.MM_Time.length; i++) document.MM_Time[i].ID = null;
+  else document.MM_Time[tmLnName].ID = null; //stop one
+}
+
+function MM_initTimelines() {
+    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
+    var ns = navigator.appName == "Netscape";
+    document.MM_Time = new Array(1);
+    document.MM_Time[0] = new Array(1);
+    document.MM_Time["Timeline1"] = document.MM_Time[0];
+    document.MM_Time[0].MM_Name = "Timeline1";
+    document.MM_Time[0].fps = 15;
+    document.MM_Time[0][0] = new String("behavior");
+    document.MM_Time[0][0].frame = 6;
+    document.MM_Time[0][0].value = "MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','hide','otrust','','hide')";
+    document.MM_Time[0].lastFrame = 6;
+    for (i=0; i<document.MM_Time.length; i++) {
+        document.MM_Time[i].ID = null;
+        document.MM_Time[i].curFrame = 0;
+        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
+    }
+}
+//-->
+</script>
+</head>
+<body bgcolor="#CCCC99" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" text="#000000" link="336633" vlink="336633" alink="336633" onload="">
+<div id="droplayer" style="position:absolute; z-index:1; left: 229px; top: 13px; visibility: hidden; width: 106px"> 
+  <table border="0" cellspacing="0" cellpadding="0" width="107" name="droptable">
+    <tbody><tr> 
+      <td><a href="https://www.firstrepubliconline.com/online/default.asp" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','show','obrokerage','','hide','otrust','','hide')"><img src="/images/nav_topdrop_online_lo.gif" width="106" height="13" border="0" name="m1i1"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="https://firstrepublic.automatedfinancial.com/" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop('Timeline1');MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','show','otrust','','hide')"><img src="/images/nav_topdrop_brokerage_lo.gif" width="106" height="12" border="0" name="brokerage"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="http://www.tpars.com/prod/login.asp?FI=0825A" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','hide','otrust','','show')"><img src="/images/nav_topdrop_interim_trust_lo.gif" width="106" height="14" name="m1i2" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="obanking" style="position:absolute; z-index:12; left: 229px; top: 13px; visibility: hidden; width: 106px"> 
+  <table border="0" cellspacing="0" cellpadding="0" width="107" name="droptable">
+    <tbody><tr> 
+      <td><a href="https://www.firstrepubliconline.com/online/default.asp" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','show','obrokerage','','hide','otrust','','hide')"><img src="/images/nav_topdrop_online_hi.gif" width="106" height="13" border="0" name="m1i11"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="https://firstrepublic.automatedfinancial.com/" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop('Timeline1');MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','show','otrust','','hide')"><img src="/images/nav_topdrop_brokerage_lo.gif" width="106" height="12" border="0" name="brokerage1"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="http://www.tpars.com/prod/login.asp?FI=0825A" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','hide','otrust','','show')"><img src="/images/nav_topdrop_interim_trust_lo.gif" width="106" height="14" name="m1i21" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="obrokerage" style="position:absolute; z-index:13; left: 229px; top: 13px; visibility: hidden; width: 106px"> 
+  <table border="0" cellspacing="0" cellpadding="0" width="107" name="droptable">
+    <tbody><tr> 
+      <td><a href="https://www.firstrepubliconline.com/online/default.asp" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','show','obrokerage','','hide','otrust','','hide')"><img src="/images/nav_topdrop_online_lo.gif" width="106" height="13" border="0" name="m1i12"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="https://firstrepublic.automatedfinancial.com/" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop('Timeline1');MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','show','otrust','','hide')"><img src="/images/nav_topdrop_brokerage_hi.gif" width="106" height="12" border="0" name="brokerage2"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="http://www.tpars.com/prod/login.asp?FI=0825A" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','hide','otrust','','show')"><img src="/images/nav_topdrop_interim_trust_lo.gif" width="106" height="14" name="m1i22" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="otrust" style="position:absolute; z-index:14; left: 229px; top: 13px; visibility: hidden; width: 106px"> 
+  <table border="0" cellspacing="0" cellpadding="0" width="107" name="droptable">
+    <tbody><tr> 
+      <td><a href="https://www.firstrepubliconline.com/online/default.asp" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','show','obrokerage','','hide','otrust','','hide')"><img src="/images/nav_topdrop_online_lo.gif" width="106" height="13" border="0" name="m1i13"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="https://firstrepublic.automatedfinancial.com/" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop('Timeline1');MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','show','otrust','','hide')"><img src="/images/nav_topdrop_brokerage_lo.gif" width="106" height="12" border="0" name="brokerage3"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="http://www.tpars.com/prod/login.asp?FI=0825A" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','hide','otrust','','show')"><img src="/images/nav_topdrop_interim_trust_hi.gif" width="106" height="14" name="m1i23" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="/images/top_back.gif">
+  <tbody><tr background="/images/top_back.gif" align="left" valign="top"> 
+    <td> 
+      <table width="640" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td rowspan="2" width="209" height="58" align="left" valign="top"><a href="/index.html"><img src="/images/frb_logo.gif" width="209" height="58" border="0"></a></td>
+          <td valign="top" align="right" height="13" width="431"><a href="#" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_showHideLayers('droplayer','','show');MM_timelineStop()"><img src="/images/nav_top_login.gif" width="64" height="13" name="Image1" border="0"></a><a href="/locate/index.html"><img src="/images/nav_top_locate.gif" width="66" height="13" border="0"></a><a href="/inv/finmkts/index.html"><img src="/images/nav_top_markets.gif" width="104" height="13" border="0"></a><a href="/aboutus/index.html"><img src="/images/nav_top_about.gif" width="61" height="13" border="0"></a><a href="/employ/index.asp"><img src="/images/nav_top_employ.gif" width="79" height="13" border="0"></a><a href="/index.html"><img src="/images/nav_top_home.gif" width="51" height="13" border="0"></a></td>
+        </tr>
+        <tr> 
+          <td width="431" height="45" align="right" valign="top"> 
+            <table border="0" cellspacing="0" cellpadding="0" width="215">
+              <tbody><tr> 
+                <td valign="top" align="left"><br>
+                </td>
+                <td valign="top" align="right" width="231"><img src="/images/spacer.gif" width="231" height="1"> 
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr valign="top" align="right"> 
+          <td colspan="2" width="640"><img src="/images/spacer_mainnav.gif" width="138" height="25"><!-- #BeginEditable "tabnav" --><a href="../dep/index.html"><img src="../images/nav_main_dep.gif" width="101" height="25" border="0"></a><a href="../lend/index.html"><img src="../images/nav_main_lend.gif" width="100" height="25" border="0"></a><a href="../inv/index.html"><img src="../images/nav_main_invest.gif" width="100" height="25" border="0"></a><a href="../trustcom/index.html"><img src="../images/nav_main_trust.gif" width="100" height="25" border="0"></a><a href="../busbank/index.html"><img src="../images/nav_main_busbank.gif" width="101" height="25" border="0"></a><!-- #EndEditable --></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr bgcolor="336633"> 
+    <td> 
+      <table width="640" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr align="right" valign="top"> 
+          <td><!-- #BeginEditable "midnav" --><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFCC"> 
+            </font><!-- #EndEditable --></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="/images/nav_topbar_bottom.gif">
+  <tbody><tr align="left" valign="top" background="/images/nav_topbar_bottom.gif"> 
+    <td> 
+      <table width="640" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td><!-- #BeginEditable "topbar_bottom" --><img src="../images/nav_topbar_bottom.gif" width="640" height="4"><!-- #EndEditable --></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<!-- #BeginEditable "content" --><br>
+<table width="640" border="0" cellspacing="15">
+  <tbody><tr> 
+    <td> 
+      <p><img src="/images/t_privacy.gif" width="325" height="22"></p>
+      <p><font size="2" face="Times New Roman, Times, serif">Every precaution 
+        is taken to provide you with the same level of privacy within our virtual 
+        branch that you receive through more traditional bank delivery channels. 
+        </font></p>
+      <p><img src="/images/t_small_frbprivacy.gif" width="350" height="16"><br>
+        <font size="2" face="Times New Roman, Times, serif">First Republic Bank 
+        is committed to providing the highest level of security and privacy regarding 
+        the collection and use of our online banking customers' personal information, 
+        as well as that of all visitors to our web site. Personal information 
+        may be collected through the submission of account applications, online 
+        banking transactions, or through the use of online financial tools such 
+        as interactive calculators. A detailed description of First Republic Bank's 
+        Online Banking Privacy Policy is provided below. If you have additional 
+        questions regarding the privacy of your personal information, contact 
+        us. </font></p>
+      <p><img src="/images/t_small_collectionanduse.gif" width="325" height="16"><br>
+        <font size="2" face="Times New Roman, Times, serif">The collection of 
+        personal information online is designed to protect access to your personal 
+        accounts and to assist the bank in providing you with the products and 
+        services you want and need. All personal information collected and stored 
+        by the bank is used for specific business purposes, to protect and administer 
+        your personal accounts and transactions, to comply with state and federal 
+        banking regulations, and to help the bank better understand your financial 
+        needs in order to design or improve our products and services.</font></p>
+      <p><font size="2" face="Times New Roman, Times, serif">Employing stringent 
+        security measures in the collection of your personal information, all 
+        First Republic Bank online account applications are submitted to the bank's 
+        secure administration site through an encrypted direct line to the bank. 
+        Once received by the bank, only approved personnel may open and process 
+        the application. Furthermore, auditing mechanisms have been put into place 
+        to further protect your information by identifying which employee(s) has 
+        accessed and in any way modified, updated or added to-your personal information.</font> 
+      </p>
+      <p><img src="/images/t_small_maintenance.gif" width="325" height="16"><br>
+        <font size="2" face="Times New Roman, Times, serif">It is in the best 
+        interest of both you and the bank to maintain accurate records concerning 
+        your personal information. For this reason, First Republic Bank allows 
+        you to update your personal information online, at anytime, through the 
+        submission of encrypted email requests sent to the bank's secure administration 
+        site. Authorized bank personnel are immediately notified to alert them 
+        to the receipt of your request. This procedure allows your personal information 
+        to be updated in a timely manner by First Republic Bank. </font></p>
+      <p><img src="/images/t_small_limitedemployee.gif" width="350" height="16"><br>
+        <font size="2" face="Times New Roman, Times, serif">First Republic Bank 
+        limits employee access to your personal information to only those bank 
+        administrators with a business reason for knowing such information. First 
+        Republic Bank also educates all employees about the importance of confidentiality 
+        and customer privacy. In addition, individual user names and passwords 
+        are used by approved bank personnel to access your personal information 
+        online, providing audit trails to further safeguard the privacy of your 
+        personal information.</font> </p>
+      <p><img src="/images/t_small_thirdparty.gif" width="350" height="16"><br>
+        <font size="2" face="Times New Roman, Times, serif">First Republic Bank 
+        follows strict privacy procedures in regard to protecting your personal 
+        information. In addition, the bank requires all third parties with a business 
+        need to access this information to adhere to similar and equally stringent 
+        privacy policies. Personal information may be supplied to a third party 
+        in order to process a customer transaction; if the customer requests it; 
+        if the disclosure is required or allowed by law (i.e. exchange of information 
+        with reputable reporting agencies, subpoena, or the investigation of fraudulent 
+        activity, etc.); or for marketing purposes of which the customer has been 
+        previously informed and has been given the opportunity to decline. </font></p>
+    </td>
+  </tr>
+</tbody></table>
+<br>
+<!-- #EndEditable --><br>
+<table width="640" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr align="center" valign="top"> 
+    <td><font size="1" face="Times New Roman, Times, serif"><a href="/dep/index.html">Deposits</a> 
+      | <a href="/lend/index.html">Lending</a> | <a href="/inv/index.html">Investments</a> 
+      | <a href="/trustcom">Trust Company</a> | <a href="/busbank/index.html">Business 
+      Banking</a> | <a href="/locate/index.html">Locations</a> | <a href="/inv/finmkts/index.html">Financial 
+      Markets</a> | <a href="/aboutus/index.html">About Us</a> | <a href="/employ/index.asp">Employment</a> 
+      | <a href="/">Home</a><br>
+      <a href="/privacy/index.html">First Republic Bank Privacy Policy</a> | <a href="/term_con/index.html">Terms 
+      and Conditions</a> | <a href="/sitemap/index.html">Site Map</a><br>
+      <br>
+      </font><img src="/images/footer_icons.gif" width="161" height="28"></td>
+  </tr>
+</tbody></table>
+
+<!-- #EndTemplate -->
+
+</body></html>
