@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612172700id_/http%3A//www.aihw.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204203021id_/http%3A//www.aihw.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (AIHW)
 
-##### [Home](https://web.archive.org/web/20040612172700id_/http%3A//www.aihw.gov.au/index.html)
+##### [Home](https://web.archive.org/web/20041204203021id_/http%3A//www.aihw.gov.au/index.html)
 
 When you visit this web site, we may make a record of your visit and log some or all of the following information for statistical purposes:
 
