@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naag.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216213111id_/http%3A//www.naag.org/NAAG/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naag.org privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611062903id_/http%3A//www.naag.org/naag/privacy.cfm) for the most accurate reproduction.*
 
-# Welcome to the Homepage of State Attorneys General!
+# www.naag.org
 
-**Privacy Policy**
+## Privacy Policy
 
 Because we gather information about where you go on the National Association of Attorneys General's (NAAG) network of websites and services, we want you to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. 
 
@@ -10,13 +10,20 @@ NAAG collects two types of information about users: data that users provide thro
 
 This privacy policy includes a description of the following: 
 
-> •the information NAAG gathers about you;  
->  •what NAAG does with the information it gathers about you;  
->  •with whom NAAG shares the information it gathers;  
->  •NAAG's opt-in policy;  
->  •NAAG's policy on correcting and updating personally identifiable information; and  
->  •NAAG's policy on deleting or deactivating your name from the site's database.  
+>   * the information NAAG gathers about you;  
 > 
+>   * what NAAG does with the information it gathers about you;  
+> 
+>   * with whom NAAG shares the information it gathers;  
+> 
+>   * NAAG's opt-in policy;  
+> 
+>   * NAAG's policy on correcting and updating personally identifiable information; and  
+> 
+>   * NAAG's policy on deleting or deactivating your name from the site's database.  
+> 
+> 
+
 
 Questions regarding this statement should be directed to NAAG at [privacy@naag.org](mailto:privacy@naag.org). 
 
@@ -84,9 +91,11 @@ NAAG uses the above-described information to tailor our content to suit your nee
 
 NAAG will follow an "opt-in" policy. In other words, you will need to sign up to receive newsletters and other information from the NAAG website. Some examples of this policy include: 
 
-> • Opting to receive our electronic newsletters when registering for a site;  
->  • Opting to provide certain personal information when registering for a site or when participating in an educational activity (see above); and  
->  • Opting to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users   
+> * Opting to receive our electronic newsletters when registering for a site;  
+> 
+> * Opting to provide certain personal information when registering for a site or when participating in an educational activity (see above); and  
+> 
+> * Opting to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users   
 > 
 
 **5\. Correct/update policy**
