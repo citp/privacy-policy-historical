@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202220336id_/http%3A//www.stltoday.com/stltoday/help.nsf/Privacy%2BPolicy/%24first%3Fopendocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606082950id_/http%3A//www.stltoday.com/privacypolicy) for the most accurate reproduction.*
 
 # STLtoday - Help - Privacy Policy
-
-|  |  |   
----  
-| 
 
   
   
@@ -47,7 +43,7 @@ At the time of registration, you are given a choice whether you want to receive 
 In accordance with the Children's Online Privacy Protection Act (COPPA), STLtoday.com will not accept personally identifiable information from a child under the age of 13 without a parent's or guardian's prior consent. STLtoday.com will also allow the parent or guardian of a registered user under the age of 13 to review, update, change, delete or refuse to permit further collection of any and all information collected by STLtoday.com. A child's personally identifiable information will be treated with the same care and respect as an adult's information. To change, update, review, delete or refuse to permit further collection of your child's information, please send an e-mail to [sitehelp@STLtoday.com](mailto:%73%69%74%65%68%65%6C%70%40%53%54%4C%74%6F%64%61%79%2E%63%6F%6D), call STLtoday.com's Customer Support at (314) 657-3300, or send a letter via postal mail to:STLtoday.com  
 c/o Customer Support  
 900 N. Tucker Blvd.  
-St. Louis, MO 63101To register a child under the age of 13, please fill out the following form, fax the form to STLtoday.com at (314) 657-3300 or mail it to:STLtoday.com  
+St. Louis, MO 63101To register a child under the age of 13, please fill out the following form, fax the form to STLtoday.com at (314) 657-3301 or mail it to:STLtoday.com  
 c/o Customer Support   
 900 N. Tucker Blvd.  
 St. Louis, MO 63101
@@ -67,15 +63,5 @@ We are very concerned with the security of your personally identifiable informat
 **CHANGES IN THESE TERMS**
 
 We may change this Privacy Policy from time to time and will post notices on this site at the time of any material changes to this Privacy Policy. Your continued use of the STLtoday.com site following the posting of changes to these terms will mean you accept those changes.  If you have questions or concerns regarding STLtoday.com's Privacy Policy, please e-mail STLtoday.com at [sitehelp@STLtoday.com](mailto:%73%69%74%65%68%65%6C%70%40%53%54%4C%74%6F%64%61%79%2E%63%6F%6D).   
-
-
-|  Top of page  
----  
-[](https://web.archive.org/stltoday/emaf.nsf/Emaf?OpenForm&db=stltoday%5Chelp.nsf&docid=9B993D078D89395786256A0A00734A27) |  [E-mail this story to a friend](https://web.archive.org/stltoday/emaf.nsf/Emaf?OpenForm&db=stltoday%5Chelp.nsf&docid=9B993D078D89395786256A0A00734A27)  
-[](https://web.archive.org/stltoday/emaf.nsf/Popup?ReadForm&db=stltoday%5Chelp.nsf&docid=9B993D078D89395786256A0A00734A27) |  [Printer friendly](https://web.archive.org/stltoday/emaf.nsf/Popup?ReadForm&db=stltoday%5Chelp.nsf&docid=9B993D078D89395786256A0A00734A27)  
-[](https://web.archive.org/help/privacy-policy) |  [Find more stories like this.](https://web.archive.org/help/privacy-policy)  
-[](http://newsletters.stltoday.com/) |  [3 O'Clock Stir e-mail alerts. Details here.](http://newsletters.stltoday.com/)  
-[](http://promos.stltoday.com/pd_pop/form.html) |  [Get the news delivered to your home for just 50 cents a day. Click here to subscribe to the St. Louis Post-Dispatch.](http://promos.stltoday.com/pd_pop/form.html)  
   
-|  |  |  |   
----
+
