@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216204412id_/http%3A//www.csmonitor.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605034808id_/http%3A//csmonitor.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # About Us/Help | csmonitor.com
 
