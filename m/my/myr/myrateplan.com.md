@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myrateplan.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331022339id_/http%3A//myrateplan.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrateplan.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216234640id_/http%3A//myrateplan.com/privacy.shtml) for the most accurate reproduction.*
 
 # MyRatePlan.com - Privacy Policy. security,children's guidelines,cookies,IP address,MyRatePlan.com, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy
 
-MyRatePlan.com, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.myrateplan.com.
+MyRatePlan.com, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.myrateplan.com](http://www.myrateplan.com/).
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
 
@@ -20,7 +20,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **Children's Guidelines**
 
-This Web site meets the guidelines of TRUSTe's Children's program. MyRatePlan.com does:  
+MyRatePlan.com does:  
 1\. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
 
 2\. NOT collect personally identifiable offline contact information without prior parental consent
@@ -31,17 +31,16 @@ This Web site meets the guidelines of TRUSTe's Children's program. MyRatePlan.co
 
 5\. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
 
-**Choice/Opt-Out** Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+**Choice/Opt-Out**
 
-1\. You can send email to feedback@myrateplan.com
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-**Correct/Update**
+1\. Unsubscribe online at <http://www.myrateplan.com/newsletter/unsubscribe.php>
 
-This site gives users the following options for changing and modifying information previously provided.
+**Contacting the Web Site**
 
-1\. visit ( _COMING SOON!_ )
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 Webmaster  
 MyRatePlan.com, LLC  
 [privacy@myrateplan.com](mailto:privacy@myrateplan.com)
