@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202005700id_/http%3A//davidsbridal.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408232105id_/http%3A//davidsbridal.com/privacy.cfm) for the most accurate reproduction.*
 
 # David's Bridal - Privacy Policy non-bridal dresses
 
@@ -29,7 +29,7 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 In short, if you provide personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is ultimately your responsibility to maintain the secrecy of your personal information to the extent you feel comfortable. We encourage you to be careful and to ask questions before you disclose your personal information to others.
 
 **Your consent**  
-By using our Web site, you consent to the collection and use of this information by David’s Bridal. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list, please click [here](https://web.archive.org/web/20001202005700id_/http%3A//davidsbridal.com/remove.cfm) and enter your email address.
+By using our Web site, you consent to the collection and use of this information by David’s Bridal. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list, please click [here](https://web.archive.org/web/20010408232105id_/http%3A//davidsbridal.com/remove.cfm) and enter your email address.
 
 **How to contact us**  
 If you have other questions or concerns about these privacy policies, please send us an e-mail at [privacy@kingswood.com](mailto:privacy@kingswood.com). 
