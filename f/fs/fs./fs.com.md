@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622110640id_/http%3A//fs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206064648id_/http%3A//fs.com/privacy.cfm) for the most accurate reproduction.*
 
-# Fourth Shift Site Privacy Statement
+# Fourth Shift - Fourth Shift Privacy Statement
+
+|  Fourth Shift Privacy Statement
 
 In Brief:
 
@@ -64,3 +66,15 @@ We may from time to time amend this Privacy Policy, without notice, to assure th
 Please address any questions or comments on this Privacy Policy or related matters to [webmaster@fs.com](mailto:webmaster@fs.com). 
 
 We'd like our Privacy Policy to serve as a model for the industry. For information on the free re-use of this policy, send an e-mail to our Webmaster. 
+
+|  |  |   
+---  
+| 
+
+"Fourth Shift helps us identify issues before they can escalate to problems, and allows our users to pull the reports they need without the help of IT. Our employees have become very comfortable with Fourth Shift." 
+
+VisiBar acts as a data conduit between Fourth Shift and Apothecary's Oracle-based White Carousel software, and ensures that up to 500 orders a day are picked and filled accurately and efficiently. View the Apothecary case study to find out how.   
+_\- David Kramer Vice President of Operations, Apothecary Products, Inc_
+
+|   
+[](https://web.archive.org/successes/caseStudies.cfm)
