@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2001-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011219153921id_/http%3A//www.acop.com/English/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610201027id_/http%3A//www.acop.com/english/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # American Consumer Opinion - Privacy Policy
 
-American Consumer Opinion™ and [www.acop.com](http://www.acop.com/) are owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20011219153921id_/http%3A//www.acop.com/English/http;/www.decisionanalyst.com)., a leading international marketing research and marketing consulting company in the United States, located in the Dallas-Fort Worth area.
+American Consumer Opinion™ and [www.acop.com](http://www.acop.com/) are owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20020610201027id_/http%3A//www.acop.com/english/http;/www.decisionanalyst.com)., a leading international marketing research and marketing consulting company in the United States, located in the Dallas-Fort Worth area.
 
 At American Consumer Opinion™, we believe that consumers have an inalienable right to privacy. We protect the privacy and anonymity of our panel members and survey participants by adhering to the [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm) as developed by the U.S. Department of Commerce, in consultation with the European Commission and to the [Children's Online Privacy Protection Rule](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/) issued by the Federal Trade Commission.
 
@@ -49,7 +49,7 @@ You may "opt-out" of giving personal information at several points:
 
 Your personal information is totally safe and you have complete control over your membership information at all times. 
 
-Once you have registered, you may safely [delete or modify](https://web.archive.org/web/20011219153921id_/http%3A//www.acop.com/English/Registration/Update/default.asp) your membership (and all of your personal data) online at any time.
+Once you have registered, you may safely [delete or modify](https://web.archive.org/web/20020610201027id_/http%3A//www.acop.com/english/Registration/Update/default.asp) your membership (and all of your personal data) online at any time.
 
 **Privacy for children 12 and under**
 
@@ -66,8 +66,6 @@ We take precautions to protect your personal information from loss, misuse or un
   * Our site is registered as a VeriSign Authentic Site. VeriSign is an independent third-party agency that authenticates, issues, and manages digital certifications on the Internet. Please click on the image below for more information about our site security.
 
 
-
-[](https://digitalid.verisign.com/as2/7ddd629bfd059c7a005eedea97579f48)
 
 **Use Of Internet Technology And "Cookies"**
 
