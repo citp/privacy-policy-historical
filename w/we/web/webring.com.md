@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webring.com privacy policy that was archived on 2000-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000302164510id_/http%3A//www.webring.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webring.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206113500id_/http%3A//www.webring.com/privacy.html) for the most accurate reproduction.*
 
 # WebRing Privacy Notice
 
@@ -77,4 +77,4 @@ Please be aware that WebRing does not control the acts of its Members or Visitor
 
 If you have any questions regarding this Privacy Notice please contact us at: [privacy@webring.org](mailto:privacy@webring.org)
 
-Thank you for your interest in [WebRing](https://web.archive.org/web/20000302164510id_/http%3A//www.webring.com/index.html)!
+Thank you for your interest in [WebRing](https://web.archive.org/web/20001206113500id_/http%3A//www.webring.com/index.html)!
