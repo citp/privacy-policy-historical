@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamstation.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209173551id_/http%3A//info.dreamstation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamstation.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604072131id_/http%3A//info.dreamstation.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
