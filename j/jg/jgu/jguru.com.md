@@ -1,20 +1,8 @@
-> *The following text is extracted and transformed from the jguru.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202160200id_/http%3A//www.jguru.com/jguru/misc/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jguru.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607081603id_/http%3A//jguru.com/misc/privacy.jsp) for the most accurate reproduction.*
 
 # jGuru: Privacy Policy
 
-[](https://web.archive.org/portal/index.jsp?tab=8) **[Register](https://web.archive.org/portal/register.jsp)  
-[Edit Account](https://web.archive.org/portal/login.jsp)  
-[Member Page](https://web.archive.org/portal/login.jsp)** **[ ](https://web.archive.org/jguru/channel/feed.button.jsp) **[Tell A Friend](https://web.archive.org/jguru/misc/emailfriend.jsp?returnURL=/jguru/misc/privacy.jsp)  
-[Wish List](https://web.archive.org/jguru/feedback/view.wish.jsp)  
-[Features](https://web.archive.org/jguru/misc/features.jsp)  
-[Contact](https://web.archive.org/jguru/misc/contact.jsp)  
-[About](https://web.archive.org/jguru/misc/about.jsp)  
-[Site Credits](https://web.archive.org/jguru/misc/credits.jsp)  
-[Privacy Policy](https://web.archive.org/jguru/misc/privacy.jsp)  
-[Copyright  
-Legal Notices](https://web.archive.org/jguru/misc/copyright.jsp)** **Headlines from  
-** [](http://www.moreover.com/)  
-** |  |  **Privacy Policy** This statement discloses our privacy practices and is incorporated into, and subject to the terms of, our [**Terms of Service**](https://web.archive.org/web/20001202160200id_/http%3A//www.jguru.com/jguru/misc/user-agree.jsp). All capitalized terms not otherwise defined shall have the same meaning as in the Terms of Service. If you have any concerns about this policy, please contact **[producer@jguru.com](mailto:producer@jguru.com)**.
+This statement discloses our privacy practices and is incorporated into, and subject to the terms of, our [**Terms of Service**](https://web.archive.org/web/20010607081603id_/http%3A//jguru.com/misc/user-agree.jsp). All capitalized terms not otherwise defined shall have the same meaning as in the Terms of Service. If you have any concerns about this policy, please contact **[producer@jguru.com](mailto:producer@jguru.com)**.
 
 **How We Collect Information**  
 In almost all cases, we do not obtain any personally identifiable information about you unless you choose to reveal it. You voluntarily submit such information when, for example, you fill out a registration page, enter sweepstakes or contests, send us email, respond to emails from us, or post messages or upload other Material to the Site. Thus, you are not required to disclose any personally identifiable information to us, although many parts of our site may not be available to you unless you do so. We may also receive personally identifiable information about you from other users or third parties who may communicate with us about you (such as in the case of complaints).
@@ -33,10 +21,10 @@ In some situations, we provide your personally identifiable information to third
 In some cases we use your personally identifiable information to provide information to you, such as to send newsletters and email that you request or to personalize the site in accordance with your requests. We will provide you with directions in all emails and newsletters on how to be taken off our newsletter list.
 
 **Controlling or Changing Your Information**  
-You can access and update your contact information and preferences by going to **[www.jguru.com/portal/edit_account.jsp](http://www.jguru.com/portal/edit_account.jsp)** and following the instructions on that page. However, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will immediately reach the other databases.
+You can access and update your contact information and preferences by going to **[http://www.jguru.com/guru/edit_account.jsp](https://web.archive.org/guru/edit_account.jsp)** and following the instructions on that page. However, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will immediately reach the other databases.
 
 **Children**  
-We do not permit minors to become members without prior verifiable parental (or guardian) consent. In order to comply with the Children's Online Privacy Protection Act of 1998 (COPPA), children under 13 who wish to register are asked to have a parent or legal guardian do so for them. The parent must provide a credit card number for verification that he/she is an adult. This information needs to be faxed to the [business address](https://web.archive.org/jguru/misc/contact.jsp) of jGuru. Minors should not provide us with any personal information without the consent of their parent or guardian. We do not distribute to third parties any personally identifiable information collected from children under 13.
+We do not permit minors to become members without prior verifiable parental (or guardian) consent. In order to comply with the Children's Online Privacy Protection Act of 1998 (COPPA), children under 13 who wish to register are asked to have a parent or legal guardian do so for them. The parent must provide a credit card number for verification that he/she is an adult. This information needs to be faxed to the [business address](https://web.archive.org/misc/contact.jsp) of jGuru. Minors should not provide us with any personal information without the consent of their parent or guardian. We do not distribute to third parties any personally identifiable information collected from children under 13.
 
 **Cookies and Other Tracking Methods**  
 Cookies are small pieces of information stored on your hard drive, not on our site. We use cookies on our site for a number of reasons. First, cookies can help us provide information that is targeted to your interests. Second, cookies allow us to better understand how users use our site, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do so.
@@ -46,12 +34,8 @@ In addition to using cookies, in some circumstances we may track or collect info
 **Other Sites**  
 Please note that different rules may apply to the collection, use or disclosure of your information by third party service providers or vendors or any other sites you encounter on the Internet (even if these sites are branded with our branding or framed by our site). We encourage you to investigate and ask questions before disclosing information to third parties.
 
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to **[http://www.engage.com/privacy](http://www.engage.com/privacy/)**.
-
 **Limits on Our Abilities**  
 Although your privacy is very important to us, due to the existing legal and technical environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Additionally, we can (and you authorize us to) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate to investigate or resolve possible problems or inquiries.
 
 **Security**  
 We use industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers where appropriate. However, "perfect security" does not exist on the Internet. 
-
-[Copyright](https://web.archive.org/jguru/misc/copyright.jsp) 1999-2000 jGuru.com 
