@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210042850id_/http%3A//www.springwise.com/privacyandsecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602190044id_/http%3A//www.springwise.com/privacyandsecurity.html) for the most accurate reproduction.*
 
 # Springwise: Instant inspiration from the world's best new business ideas
 
@@ -46,7 +46,6 @@ Fax: +31 (0)20 575 4281
 
 Springwise and the logo are trademarks of Springwise.
 
-The Springwise web site and newsletter are copyright © 2002 Springwise. All  
-rights reserved.
+The Springwise web site and newsletter are copyright © 2002-2003 Springwise. All rights reserved.
 
 Other brands or products are trademarks, service marks, registered trademarks or registered service marks of their respective holders.
