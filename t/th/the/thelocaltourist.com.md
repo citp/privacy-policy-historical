@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocaltourist.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008131524id_/http%3A//www.thelocaltourist.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocaltourist.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619060651id_/http%3A//www.thelocaltourist.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
