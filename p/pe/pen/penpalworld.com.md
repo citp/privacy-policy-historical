@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penpalworld.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602045335id_/http%3A//penpalworld.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penpalworld.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201173603id_/http%3A//penpalworld.com/policy.html) for the most accurate reproduction.*
 
 # PenPal!World Policy
 
@@ -32,4 +32,4 @@ This site gives users the following options for changing and modifying informati
   2. You can visit the following URL to erase your information:[ http://www.penpalworld.com/erase.html](http://www.penpalworld.com/erase.html) .
 
 **_Contacting the Web Site_**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ webmaster@penpalworld.com](https://web.archive.org/web/20010602045335id_/http%3A//penpalworld.com/feedback.asp) . 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ webmaster@penpalworld.com](https://web.archive.org/web/20011201173603id_/http%3A//penpalworld.com/feedback.asp) . 
