@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nola.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206083000id_/http%3A//nola.com/user/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nola.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613130228id_/http%3A//www.nola.com/user/privacy.html) for the most accurate reproduction.*
 
 # NOLA Live New Orleans Forums
 
