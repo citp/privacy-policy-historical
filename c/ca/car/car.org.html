@@ -1,241 +1,681 @@
-<!--The following is the downloaded HTML source of the car.org privacy policy that was archived on 2001-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011205083833id_/http%3A//www.car.org/contactus/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the car.org privacy policy that was archived on 2002-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604052921id_/http%3A//car.org/index.php%3Fid%3DMTY1) for the most accurate reproduction.-->
 
-<html><head><title>C.A.R.: Privacy Policy</title>
-	<meta name="description" content="C.A.R. has created this Privacy Policy to demonstrate our firm commitment to privacy and so that you, as a visitor to CAR Online, will be aware of the uses made of information that may be generated as a result of you using our Web site.">
-	<script language="JavaScript">
-	<!-- //comment out this script for older browsers
-	
-	// Detect browser and platform for alignment with background
-	
-	function isWin() {
-		if ((navigator.appVersion.indexOf("95") != -1) || 
-		(navigator.appVersion.indexOf("16") != -1)) return true;
-		else return false;
-		}
+<html><head>
+		<title>Privacy Policies</title>
+		
+		<!-- choose which stylesheet to use for different browsers -->
+		<script language="JavaScript1.2">
+
+			// Dhtml Menu  
+			if(window.event + "" == "undefined") event = null;
+			function HM_f_PopUp(){return false};
+			function HM_f_PopDown(){return false};
+			popUp = HM_f_PopUp;
+			popDown = HM_f_PopDown;
+			// End Dhtml Menu  
+		
+			var win = navigator.appVersion.indexOf("Win");
+			var NS = navigator.appName.indexOf("Netscape");		
+			var IE = navigator.appName.indexOf("Explorer");
+		
+			//use this css if _it's windows_ and _it's not netscape_
+			if(win != "-1" && IE != "-1"){
+				document.write("<link rel=stylesheet href='stylesheet/windows_ie.css' type='text/css'>");
+			}
+			//use this one if _it's windows_ and it _is netscape_
+			else if(win != "-1" && NS != "-1"){
+				document.write("<link rel=stylesheet href=stylesheet/windows_ns.css type=text/css>");
+			}
+			//use this one if it's _not windows_ (mac/linux) and it _is netscape_ 
+			else if(win == "-1" && NS != "-1"){
+				document.write("<link rel=stylesheet href=stylesheet/macunix_ns.css type=text/css>");
+			}
+			//otherwise use this css (it's _not windows_ and it's _not netscape_ 
+			else {
+				document.write("<link rel=stylesheet href=stylesheet/macunix_ie.css type=text/css>");
+			}
+
+			// HM Menu Settings
+			HM_PG_MenuWidth = 250;
+			HM_PG_FontFamily = "Arial,sans-serif";
+			HM_PG_FontSize = 9;
+			HM_PG_FontBold = 0;
+			HM_PG_FontItalic = 0;
+			HM_PG_FontColor = "black";
+			HM_PG_FontColorOver = "black";
+			HM_PG_BGColor = "#DDDDDD";
+			HM_PG_BGColorOver = "#FFFFFF";
+			HM_PG_ItemPadding = 2;
 
 
-	// Array function
-	
-	function makeArray() {
-		var args = makeArray.arguments;
-			for (var i = 0; i < args.length; i++) {
-			this [i] = args[i]; }
-		this.length = args.length;
-		}
-		
-	// This array holds the descriptions and names of the pages.
-	
-	var pages = new makeArray("Navigate...", "Home Page", "Contact Us",
-		"----------------", "About Us", "----------------", "Member Center",
-		"Property Listings", "Products", "----------------", "Consumer Info", "Legal",
-		"Professional Development", "Economics", "Legislation",
-		"Real Estate Newsstand", "Meetings/Industry Events");
-		
-	// This array holds the URLs of the pages.
-	
-	var urls = new makeArray("", "../index.html", "../contactus/index.html", "",
-		"../aboutus/index.html", "", "../membercenter/index.html", "http://ca.realtor.com",
-		"http://www.car.org/mall/mall.htm", "", "../consumerinfo/index.html", "../legal/index.html", "../prodevelop/index.html",
-		"../economics/index.html", "../legislation/index.html", "../newsstand/index.html",
-		"../industryevents/index.html");
-		
-	// Determine which page is selected and go there
-	
-	function goPage(form) {
-		i = form.menu.selectedIndex;
-		if (i != 0) {
-			parent.location.href = urls[i];
+			HM_PG_RightBoxColor = "#FFFFFF";
+			HM_PG_RightBoxOverColor = "#333366";
+			HM_PG_StretchColor = "#999966";
+
+			HM_PG_BorderWidth = 1;
+			HM_PG_BorderColor = "#333366";
+			HM_PG_BorderStyle = "solid";
+			HM_PG_SeparatorSize = 0;
+			HM_PG_SeparatorColor = "#d0ff00";
+			
+			HM_PG_ImageSrc = "images/menuarrow1.gif";
+			HM_PG_ImageSrcLeft = "images/menuarrow2.gif";
+			HM_PG_ImageSrcOver = "images/menuarrow2.gif";
+			HM_PG_ImageSrcLeftOver = "images/menuarrow1.gif";
+			
+			HM_PG_ImageSize = 16;
+			HM_PG_ImageHorizSpace =5;
+			HM_PG_ImageVertSpace = 2;
+			
+			HM_PG_KeepHilite = true; 
+			HM_PG_ClickStart = 0;
+			HM_PG_ClickKill = false;
+			HM_PG_ChildOverlap = -5;
+			HM_PG_ChildOffset = 0;
+			HM_PG_ChildPerCentOver = null;
+			HM_PG_TopSecondsVisible = .5;
+			HM_PG_StatusDisplayBuild =0;
+			HM_PG_StatusDisplayLink = 0;
+			HM_PG_UponDisplay = null;
+			HM_PG_UponHide = null;
+			HM_PG_RightToLeft = false;
+			
+			HM_PG_CreateTopOnly = 1;
+			HM_PG_ShowLinkCursor = 1;
+			HM_PG_NSFontOver = true;
+
+			// write out dhtml menu settings below
+			
+				HM_Array1 = [
+
+						[230,      // menu width
+					202,       // left_position
+					121,       // top_position
+					"black",   // font_color
+					"#CC9966",   // mouseover_font_color
+					"white",   // background_color
+					"white",   // mouseover_background_color
+					"#CC9966",   // border_color
+					"gray",    // separator_color
+					0,         // top_is_permanent
+					0,         // top_is_horizontal
+					0,         // tree_is_horizontal
+					1,         // position_under
+					1,         // top_more_images_visible
+					1,         // tree_more_images_visible
+					"null",    // evaluate_upon_tree_show
+					"null",    // evaluate_upon_tree_hide
+					,          // right-to-left
+					],     // display_on_clic
+]
+
+			
+				HM_Array2 = [
+
+						[230,      // menu width
+					202,       // left_position
+					140,       // top_position
+					"black",   // font_color
+					"#CC9966",   // mouseover_font_color
+					"white",   // background_color
+					"white",   // mouseover_background_color
+					"#CC9966",   // border_color
+					"gray",    // separator_color
+					0,         // top_is_permanent
+					0,         // top_is_horizontal
+					0,         // tree_is_horizontal
+					1,         // position_under
+					1,         // top_more_images_visible
+					1,         // tree_more_images_visible
+					"null",    // evaluate_upon_tree_show
+					"null",    // evaluate_upon_tree_hide
+					,          // right-to-left
+					],     // display_on_click
+["C.A.R. At A Glance","/index.php?id=MTE5",1,0,0],
+["Online Marketplace","/index.php?id=MzAwNzA=",1,0,1],
+["Join the REALTOR® Organization","/index.php?id=OTUw",1,0,0],
+["Member Value Plus Program","/index.php?id=MjA2Nw==",1,0,0]
+]
+HM_Array2_2 = [
+
+						[230,      // menu width
+					202,       // left_position
+					140,       // top_position
+					"black",   // font_color
+					"#CC9966",   // mouseover_font_color
+					"white",   // background_color
+					"white",   // mouseover_background_color
+					"#CC9966",   // border_color
+					"gray",    // separator_color
+					0,         // top_is_permanent
+					0,         // top_is_horizontal
+					0,         // tree_is_horizontal
+					1,         // position_under
+					1,         // top_more_images_visible
+					1,         // tree_more_images_visible
+					"null",    // evaluate_upon_tree_show
+					"null",    // evaluate_upon_tree_hide
+					,          // right-to-left
+					],     // display_on_click
+["Closing Gifts","/index.php?id=MzAwNzQ=",1,0,0],
+["Financial Sercives","/index.php?id=MzAxMTM=",1,0,0],
+["Technology","/index.php?id=MzAxMTE=",1,0,0],
+["Insurance","/index.php?id=MzAxMTI=",1,0,0],
+["Office Solutions","/index.php?id=MzAxMTQ=",1,0,0],
+["Communications","/index.php?id=MzAyMjk=",1,0,0],
+["Automotive/Travel","/index.php?id=MzAyMTM=",1,0,0],
+["Property Profiles","/index.php?id=MzA0MTI=",1,0,0],
+["Home Warranties","/index.php?id=MzA2NDc=",1,0,0]
+]
+
+			
+				HM_Array3 = [
+
+						[230,      // menu width
+					202,       // left_position
+					159,       // top_position
+					"black",   // font_color
+					"#CC9966",   // mouseover_font_color
+					"white",   // background_color
+					"white",   // mouseover_background_color
+					"#CC9966",   // border_color
+					"gray",    // separator_color
+					0,         // top_is_permanent
+					0,         // top_is_horizontal
+					0,         // tree_is_horizontal
+					1,         // position_under
+					1,         // top_more_images_visible
+					1,         // tree_more_images_visible
+					"null",    // evaluate_upon_tree_show
+					"null",    // evaluate_upon_tree_hide
+					,          // right-to-left
+					],     // display_on_clic
+]
+
+			
+				HM_Array4 = [
+
+						[230,      // menu width
+					202,       // left_position
+					178,       // top_position
+					"black",   // font_color
+					"#CC9966",   // mouseover_font_color
+					"white",   // background_color
+					"white",   // mouseover_background_color
+					"#CC9966",   // border_color
+					"gray",    // separator_color
+					0,         // top_is_permanent
+					0,         // top_is_horizontal
+					0,         // tree_is_horizontal
+					1,         // position_under
+					1,         // top_more_images_visible
+					1,         // tree_more_images_visible
+					"null",    // evaluate_upon_tree_show
+					"null",    // evaluate_upon_tree_hide
+					,          // right-to-left
+					],     // display_on_clic
+]
+
+			
+				HM_Array5 = [
+
+						[230,      // menu width
+					202,       // left_position
+					197,       // top_position
+					"black",   // font_color
+					"#CC9966",   // mouseover_font_color
+					"white",   // background_color
+					"white",   // mouseover_background_color
+					"#CC9966",   // border_color
+					"gray",    // separator_color
+					0,         // top_is_permanent
+					0,         // top_is_horizontal
+					0,         // tree_is_horizontal
+					1,         // position_under
+					1,         // top_more_images_visible
+					1,         // tree_more_images_visible
+					"null",    // evaluate_upon_tree_show
+					"null",    // evaluate_upon_tree_hide
+					,          // right-to-left
+					],     // display_on_clic
+]
+
+			
+				HM_Array6 = [
+
+						[230,      // menu width
+					202,       // left_position
+					216,       // top_position
+					"black",   // font_color
+					"#CC9966",   // mouseover_font_color
+					"white",   // background_color
+					"white",   // mouseover_background_color
+					"#CC9966",   // border_color
+					"gray",    // separator_color
+					0,         // top_is_permanent
+					0,         // top_is_horizontal
+					0,         // tree_is_horizontal
+					1,         // position_under
+					1,         // top_more_images_visible
+					1,         // tree_more_images_visible
+					"null",    // evaluate_upon_tree_show
+					"null",    // evaluate_upon_tree_hide
+					,          // right-to-left
+					],     // display_on_clic
+]
+
+			
+				HM_Array7 = [
+
+						[230,      // menu width
+					202,       // left_position
+					235,       // top_position
+					"black",   // font_color
+					"#CC9966",   // mouseover_font_color
+					"white",   // background_color
+					"white",   // mouseover_background_color
+					"#CC9966",   // border_color
+					"gray",    // separator_color
+					0,         // top_is_permanent
+					0,         // top_is_horizontal
+					0,         // tree_is_horizontal
+					1,         // position_under
+					1,         // top_more_images_visible
+					1,         // tree_more_images_visible
+					"null",    // evaluate_upon_tree_show
+					"null",    // evaluate_upon_tree_hide
+					,          // right-to-left
+					],     // display_on_click
+["Membership Information","/index.php?id=MzMyOQ==",1,0,0],
+["Member Outreach","/index.php?id=MzM0Mw==",1,0,0],
+["Pac Balances","http://sucasa.net/board_login/",1,0,0],
+["Assn. Execs. Committee","/index.php?id=MzMyOA==",1,0,0],
+["Rosters &amp; Directories","/index.php?id=MzM0Nw==",1,0,1],
+["Policies &amp; Bylaws","/index.php?id=MzMzOQ==",1,0,0],
+["Ethics/Professional Standards","http://www.car.org/index.php?id=OTM3",1,0,0],
+["CAEU Archives","/index.php?id=MzQ2MA==",1,0,0]
+]
+HM_Array7_5 = [
+
+						[230,      // menu width
+					202,       // left_position
+					235,       // top_position
+					"black",   // font_color
+					"#CC9966",   // mouseover_font_color
+					"white",   // background_color
+					"white",   // mouseover_background_color
+					"#CC9966",   // border_color
+					"gray",    // separator_color
+					0,         // top_is_permanent
+					0,         // top_is_horizontal
+					0,         // tree_is_horizontal
+					1,         // position_under
+					1,         // top_more_images_visible
+					1,         // tree_more_images_visible
+					"null",    // evaluate_upon_tree_show
+					"null",    // evaluate_upon_tree_hide
+					,          // right-to-left
+					],     // display_on_click
+["Local Association Roster","/index.php?id=OTg5",1,0,0],
+["Local Associations by City","/index.php?id=MjA2Ng==",1,0,0],
+["Association Executives","/index.php?id=OTI=",1,0,0]
+]
+
+			
+			// end write out dhtml menu settings
+			
+		</script><link rel="stylesheet" href="stylesheet/macunix_ns.css" type="text/css">
+	<script language="JavaScript1.2">
+	function toggle(index, state) {
+		// determine if the item is on_state or off_state
+		var on_state = ""
+		//alert(document.images["right"+index].src.indexOf("on_state"))
+		if(document.images["right"+index].src.indexOf("on_state") != -1){
+			on_state = "on_state";
+			//alert("it is an on_state image")
+		};
+		if(state=='off') {
+			document.images["left"+index].src = "images/navcorner-tier2"+on_state+"-2.gif";
+			// if its on, turn it under, else leave it alone
+			if(document.images["right"+index].src.indexOf("images/navarrow-tier2"+on_state+"-on.gif") != -1){
+				document.images["right"+index].src = "images/navarrow-tier2"+on_state+"-under.gif";
+			}
+		} else {
+			document.images["left"+index].src = "images/navcorner-tier2"+on_state+"-on.gif";
+			// if its under, turn it on, else leave it alone
+			if(document.images["right"+index].src.indexOf("images/navarrow-tier2"+on_state+"-under.gif") != -1){
+				document.images["right"+index].src = "images/navarrow-tier2"+on_state+"-on.gif";
 			}
 		}
+	}
+	</script>
+	</head>
+	<body leftmargin="0" topmargin="0" width="780" marginheight="0" marginwidth="0" bgcolor="#000000">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td width="15" bgcolor="#000000"><img src="images/clearpixel.gif" width="15" height="15"></td> <!-- black spacer 15px -->
+				<td width="183" bgcolor="#000000"><img src="images/clearpixel.gif" width="184" height="15"></td> <!-- left navigation -->
+				<td width="582" bgcolor="#000000"><img src="images/clearpixel.gif" width="582" height="15"></td> <!-- content -->
+			</tr>
+			<tr>
+				<td width="15" bgcolor="#000000"><img src="images/clearpixel.gif" width="15"></td>
+				<td width="183" bgcolor="#000000" valign="top"><a href="/"><img src="images/car-logo-tier2.jpg" alt="" border="0"></a></td>
+				<td bgcolor="#FFFFFF" width="582" valign="top" height="67">
+					<!-- top header -->
+					<table border="0" cellpadding="0" cellspacing="0" width="582" height="67">
+						<tbody><tr>
+							<td width="175" bgcolor="#FFFFFF"><img src="images/clearpixel.gif" width="110" height="1" border="0"></td>
+							<td bgcolor="#FFFFFF" valign="top" width="48"><a href="/"><img src="images/home-tier2.gif" width="48" height="26" alt="" border="0"></a></td>
+							<td bgcolor="#FFFFFF" valign="top" width="57"><a href="http://www.car.org/index.php?id=MjA1MQ=="><img src="/images/signin-tier2.gif" width="58" height="26&quot;" border="0"></a></td>
+							<td bgcolor="#FFFFFF" valign="top" width="78"><a href="index.php?id=MTEx"><img src="images/contactus-tier2.gif" width="78" height="26" alt="" border="0"></a></td>
+							<td bgcolor="#FFFFFF" valign="top" width="59"><a href="index.php?id=MjMw"><img src="images/search-tier2.gif" width="59" height="26" alt="" border="0"></a></td>
+							<td bgcolor="#FFFFFF" valign="middle" width="165">
+								<form method="post" action="index.php?id=MjMw">
+									<table border="0" cellpadding="0" cellspacing="0">
+										<tbody><tr><td colspan="2"><img src="images/clearpixel.gif" height="4" width="1"></td></tr>
+										<tr>
+											<td><input type="text" size="10" name="search" class="searchField1"></td><td><input type="image" src="images/go-homepage.gif" onclick="document.forms[0].submit()" border="0"></td>
+										</tr>
+									</tbody></table>
+							</form></td>
+						</tr>
+						<tr><td colspan="6" width="582"><img src="images/clearpixel.gif" width="582" height="1"></td></tr>
+						<tr>
+								<td colspan="5"><img src="images/clearpixel.gif" height="19" width="1"></td>
+								<td class="TopDate">June 3, 2002</td>
+						</tr>
+						<tr><td colspan="6" width="582" valign="bottom"><img src="images/topline-tier2.gif" width="582" height="2" alt="" border="0"></td></tr>
+					</tbody></table>
+					<!-- end top header -->
+				</td>
+			</tr>
+			<tr>
+				<td width="15" bgcolor="#000000"><img src="images/clearpixel.gif" width="15" height="15"></td>
+				<td width="765" bgcolor="#FFFFFF" colspan="2" valign="top">
+					<!-- Section title and pull down list -->
+					<table border="0" cellpadding="0" cellspacing="0" width="765">
+						<tbody><tr>
+							<td bgcolor="#999966" width="584" height="24"><a href="index.php?id=NQ=="><img src="images/aboutcar-tier2.jpg" height="24" alt="" border="0"></a></td>
+							<td bgcolor="#999966" height="22" align="right"><img src="images/visit-tier2.jpg" width="46" height="22" alt="" border="0"></td>
+							<td height="22" width="145" bgcolor="#999966" align="right">
+						<form method="post" action="#Sections#">
+								<select name="jumpbox" class="sections" onchange=" window.location = document.forms[1].jumpbox.options[document.forms[1].jumpbox.selectedIndex].value;">
+									<option value="#">Other C.A.R. Sections...</option><option value="/index.php">Home</option>
+<option value="/index.php?id=MjA0OQ">My C.A.R.</option>
+<option value="/index.php?id=NQ==">About C.A.R.</option>
+<option value="/index.php?id=MzA2NjY=">Business Meetings</option>
+<option value="/index.php?id=Mw==">Economics</option>
+<option value="/index.php?id=MTA=">Education</option>
+<option value="/index.php?id=MjgyOA==">Find A REALTOR®</option>
+<option value="/index.php?id=MTM2Mg==">For Consumers</option>
+<option value="/index.php?id=Ng==">Legal</option>
+<option value="/index.php?id=OA==">Legislation</option>
+<option value="/index.php?id=OQ==">Meetings/Events</option>
+<option value="/index.php?id=NA==">Member Center</option>
+<option value="/index.php?id=MTE=">Newsstand</option>
+<option value="/index.php?id=MTM2MA==">Product Mall</option>
+<option value="/index.php?id=Mzc4Mw==">Transaction Tools</option>
 
-	// end the commenting -->
-	
-	</script>			
-	
-</head>
-
-<body bgcolor="#ffffff" background="../images/bg_thin.gif" text="#000066" link="#cc0000" alink="#cc0000" vlink="#cc0000" marginwidth="8" marginheight="8" leftmargin="8" topmargin="8">
-
-<!-- Header Table -->
-<table border="0" cellpadding="0" cellspacing="0" width="583">
-
-<!-- Control Row -->
-	<tbody><tr><td align="left" width="42"><script>
-			<!-- 
-			// if browser is Windows Netscape 2 or 3, add a single pixel spacer for alignment
-			if (isWin()) {
-				if (navigator.appName == "Netscape" && parseInt (navigator.appVersion) <= 3) {
-					document.write('<img src="../images/spacer.gif" width="88" height="1" border="0">');
-					}
-				}
+								</select>    
+							</form></td>
+							<td width="14" bgcolor="#EBEBCC" align="right"><img src="images/clearpixel.gif" width="14" height="24"></td>
+						</tr>
+					</tbody></table>
+					<!-- end Section title and pull down list -->
+					
+				</td>
+			</tr>	
+			<tr>
+				<td width="15" bgcolor="#000000"><img src="images/clearpixel.gif" width="15" height="427"></td> <!-- black spacer 15px -->
+				<!-- left hand menu -->
+				<td width="183" valign="top" background="images/leftmenubg-tier2.gif">
+					<table border="0" cellpadding="0" cellspacing="0">
+						<!-- colored spacer -->
+						<tbody><tr>
+							<td width="12" bgcolor="#000000" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="1"></td>
+							<td width="12" bgcolor="#003366" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="1"></td>
+							<td colspan="2" width="159" bgcolor="#003366" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="159" height="15"></td>
+						</tr>
+						
+						
+						<tr>
+							<td colspan="2" width="24" bgcolor="#999966" background="images/navcorner-tier2-bg.gif"><a href="http://www.car.org/index.php?id=MzM0Nw" onmouseover="HM_f_PopUp('HM_Menu1',event); toggle(1,'on')" onmouseout="popDown('HM_Menu1'); toggle(1,'off')" class="menuLink"><img name="left1" src="images/navcorner-tier2-2.gif" width="24" height="17" alt="" border="0"></a></td>
+							<td width="140" bgcolor="#999966" background="images/clearpixel.gif" class="MenuNavigationText" onmouseover="HM_f_PopUp('HM_Menu1',event); toggle(1, 'on')" onmouseout="popDown('HM_Menu1'); toggle(1,'off')"><a href="http://www.car.org/index.php?id=MzM0Nw" onmouseover="HM_f_PopUp('HM_Menu1',event); toggle(1,'on')" onmouseout="popDown('HM_Menu1'); toggle(1,'off')" class="menuLink">Rosters &amp; Directories</a></td>
+							<td width="19" bgcolor="#999966" background="images/clearpixel.gif"><a href="http://www.car.org/index.php?id=MzM0Nw" onmouseover="HM_f_PopUp('HM_Menu1',event); toggle(1,'on')" onmouseout="popDown('HM_Menu1'); toggle(1,'off')" class="menuLink"><img name="right1" src="images/navarrow-tier2-off.gif" width="19" height="17" alt="" border="0"></a></td>
+						</tr>
+						
+						
+							<!-- small spacer -->
+						<tr>
+							<td width="12" bgcolor="#000000" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td width="12" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td colspan="2" width="159" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="159" height="2"></td>
+						</tr>
+						
+						
+						<tr>
+							<td colspan="2" width="24" bgcolor="#999966" background="images/navcorner-tier2-bg.gif"><a href="?id=ODI=" onmouseover="HM_f_PopUp('HM_Menu2',event); toggle(2,'on')" onmouseout="popDown('HM_Menu2'); toggle(2,'off')" class="menuLink"><img name="left2" src="images/navcorner-tier2-2.gif" width="24" height="17" alt="" border="0"></a></td>
+							<td width="140" bgcolor="#999966" background="images/clearpixel.gif" class="MenuNavigationText" onmouseover="HM_f_PopUp('HM_Menu2',event); toggle(2, 'on')" onmouseout="popDown('HM_Menu2'); toggle(2,'off')"><a href="?id=ODI=" onmouseover="HM_f_PopUp('HM_Menu2',event); toggle(2,'on')" onmouseout="popDown('HM_Menu2'); toggle(2,'off')" class="menuLink">Member Benefits</a></td>
+							<td width="19" bgcolor="#999966" background="images/clearpixel.gif"><a href="?id=ODI=" onmouseover="HM_f_PopUp('HM_Menu2',event); toggle(2,'on')" onmouseout="popDown('HM_Menu2'); toggle(2,'off')" class="menuLink"><img name="right2" src="images/navarrow-tier2-under.gif" width="19" height="17" alt="" border="0"></a></td>
+						</tr>
+						
+						
+							<!-- small spacer -->
+						<tr>
+							<td width="12" bgcolor="#000000" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td width="12" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td colspan="2" width="159" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="159" height="2"></td>
+						</tr>
+						
+						
+						<tr>
+							<td colspan="2" width="24" bgcolor="#999966" background="images/navcorner-tier2-bg.gif"><a href="?id=ODM=" onmouseover="HM_f_PopUp('HM_Menu3',event); toggle(3,'on')" onmouseout="popDown('HM_Menu3'); toggle(3,'off')" class="menuLink"><img name="left3" src="images/navcorner-tier2-2.gif" width="24" height="17" alt="" border="0"></a></td>
+							<td width="140" bgcolor="#999966" background="images/clearpixel.gif" class="MenuNavigationText" onmouseover="HM_f_PopUp('HM_Menu3',event); toggle(3, 'on')" onmouseout="popDown('HM_Menu3'); toggle(3,'off')"><a href="?id=ODM=" onmouseover="HM_f_PopUp('HM_Menu3',event); toggle(3,'on')" onmouseout="popDown('HM_Menu3'); toggle(3,'off')" class="menuLink">C.A.R. Leadership</a></td>
+							<td width="19" bgcolor="#999966" background="images/clearpixel.gif"><a href="?id=ODM=" onmouseover="HM_f_PopUp('HM_Menu3',event); toggle(3,'on')" onmouseout="popDown('HM_Menu3'); toggle(3,'off')" class="menuLink"><img name="right3" src="images/navarrow-tier2-off.gif" width="19" height="17" alt="" border="0"></a></td>
+						</tr>
+						
+						
+							<!-- small spacer -->
+						<tr>
+							<td width="12" bgcolor="#000000" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td width="12" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td colspan="2" width="159" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="159" height="2"></td>
+						</tr>
+						
+						
+						<tr>
+							<td colspan="2" width="24" bgcolor="#999966" background="images/navcorner-tier2-bg.gif"><a href="?id=ODQ=" onmouseover="HM_f_PopUp('HM_Menu4',event); toggle(4,'on')" onmouseout="popDown('HM_Menu4'); toggle(4,'off')" class="menuLink"><img name="left4" src="images/navcorner-tier2-2.gif" width="24" height="17" alt="" border="0"></a></td>
+							<td width="140" bgcolor="#999966" background="images/clearpixel.gif" class="MenuNavigationText" onmouseover="HM_f_PopUp('HM_Menu4',event); toggle(4, 'on')" onmouseout="popDown('HM_Menu4'); toggle(4,'off')"><a href="?id=ODQ=" onmouseover="HM_f_PopUp('HM_Menu4',event); toggle(4,'on')" onmouseout="popDown('HM_Menu4'); toggle(4,'off')" class="menuLink">Annual Highlights</a></td>
+							<td width="19" bgcolor="#999966" background="images/clearpixel.gif"><a href="?id=ODQ=" onmouseover="HM_f_PopUp('HM_Menu4',event); toggle(4,'on')" onmouseout="popDown('HM_Menu4'); toggle(4,'off')" class="menuLink"><img name="right4" src="images/navarrow-tier2-off.gif" width="19" height="17" alt="" border="0"></a></td>
+						</tr>
+						
+						
+							<!-- small spacer -->
+						<tr>
+							<td width="12" bgcolor="#000000" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td width="12" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td colspan="2" width="159" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="159" height="2"></td>
+						</tr>
+						
+						
+						<tr>
+							<td colspan="2" width="24" bgcolor="#999966" background="images/navcorner-tier2-bg.gif"><a href="?id=ODU=" onmouseover="HM_f_PopUp('HM_Menu5',event); toggle(5,'on')" onmouseout="popDown('HM_Menu5'); toggle(5,'off')" class="menuLink"><img name="left5" src="images/navcorner-tier2-2.gif" width="24" height="17" alt="" border="0"></a></td>
+							<td width="140" bgcolor="#999966" background="images/clearpixel.gif" class="MenuNavigationText" onmouseover="HM_f_PopUp('HM_Menu5',event); toggle(5, 'on')" onmouseout="popDown('HM_Menu5'); toggle(5,'off')"><a href="?id=ODU=" onmouseover="HM_f_PopUp('HM_Menu5',event); toggle(5,'on')" onmouseout="popDown('HM_Menu5'); toggle(5,'off')" class="menuLink">C.A.R. Scholarships</a></td>
+							<td width="19" bgcolor="#999966" background="images/clearpixel.gif"><a href="?id=ODU=" onmouseover="HM_f_PopUp('HM_Menu5',event); toggle(5,'on')" onmouseout="popDown('HM_Menu5'); toggle(5,'off')" class="menuLink"><img name="right5" src="images/navarrow-tier2-off.gif" width="19" height="17" alt="" border="0"></a></td>
+						</tr>
+						
+						
+							<!-- small spacer -->
+						<tr>
+							<td width="12" bgcolor="#000000" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td width="12" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td colspan="2" width="159" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="159" height="2"></td>
+						</tr>
+						
+						
+						<tr>
+							<td colspan="2" width="24" bgcolor="#999966" background="images/navcorner-tier2-bg.gif"><a href="?id=ODY=" onmouseover="HM_f_PopUp('HM_Menu6',event); toggle(6,'on')" onmouseout="popDown('HM_Menu6'); toggle(6,'off')" class="menuLink"><img name="left6" src="images/navcorner-tier2-2.gif" width="24" height="17" alt="" border="0"></a></td>
+							<td width="140" bgcolor="#999966" background="images/clearpixel.gif" class="MenuNavigationText" onmouseover="HM_f_PopUp('HM_Menu6',event); toggle(6, 'on')" onmouseout="popDown('HM_Menu6'); toggle(6,'off')"><a href="?id=ODY=" onmouseover="HM_f_PopUp('HM_Menu6',event); toggle(6,'on')" onmouseout="popDown('HM_Menu6'); toggle(6,'off')" class="menuLink">Online Advertising</a></td>
+							<td width="19" bgcolor="#999966" background="images/clearpixel.gif"><a href="?id=ODY=" onmouseover="HM_f_PopUp('HM_Menu6',event); toggle(6,'on')" onmouseout="popDown('HM_Menu6'); toggle(6,'off')" class="menuLink"><img name="right6" src="images/navarrow-tier2-off.gif" width="19" height="17" alt="" border="0"></a></td>
+						</tr>
+						
+						
+							<!-- small spacer -->
+						<tr>
+							<td width="12" bgcolor="#000000" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td width="12" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="2"></td>
+							<td colspan="2" width="159" bgcolor="#EBEBCC" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="159" height="2"></td>
+						</tr>
+						
+						
+						<tr>
+							<td colspan="2" width="24" bgcolor="#999966" background="images/navcorner-tier2-bg.gif"><a href="?id=MzMxMg==" onmouseover="HM_f_PopUp('HM_Menu7',event); toggle(7,'on')" onmouseout="popDown('HM_Menu7'); toggle(7,'off')" class="menuLink"><img name="left7" src="images/navcorner-tier2-2.gif" width="24" height="17" alt="" border="0"></a></td>
+							<td width="140" bgcolor="#999966" background="images/clearpixel.gif" class="MenuNavigationText" onmouseover="HM_f_PopUp('HM_Menu7',event); toggle(7, 'on')" onmouseout="popDown('HM_Menu7'); toggle(7,'off')"><a href="?id=MzMxMg==" onmouseover="HM_f_PopUp('HM_Menu7',event); toggle(7,'on')" onmouseout="popDown('HM_Menu7'); toggle(7,'off')" class="menuLink">Local Associations</a></td>
+							<td width="19" bgcolor="#999966" background="images/clearpixel.gif"><a href="?id=MzMxMg==" onmouseover="HM_f_PopUp('HM_Menu7',event); toggle(7,'on')" onmouseout="popDown('HM_Menu7'); toggle(7,'off')" class="menuLink"><img name="right7" src="images/navarrow-tier2-under.gif" width="19" height="17" alt="" border="0"></a></td>
+						</tr>
+						
+						
+						
+						<!-- colored spacer -->
+						<tr>
+							<td width="12" bgcolor="#000000" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="1"></td>
+							<td width="12" bgcolor="#003366" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="12" height="1"></td>
+							<td colspan="2" width="159" bgcolor="#003366" background="images/clearpixel.gif"><img src="images/clearpixel.gif" width="159" height="15"></td>
+						</tr>
+					
+						<tr>
+							<td colspan="4"><img src="images/somebox-tier2.gif" width="183" height="74" alt="" border="0"></td>
+						</tr>
+					</tbody></table>
+				</td>
+				<!-- end left hand menu -->
 				
-			//-->
-			</script>
-<a name="top"><img src="../images/spacer.gif" width="42" height="1" border="0"></a></td>
-<td align="left" width="329"><img src="../images/spacer.gif" width="329" height="1" border="0"></td>
-<td align="left" width="212"><img src="../images/spacer.gif" width="212" height="1" border="0"></td></tr>
-
-<!-- Header Graphic & Home Page / Contact Us Buttons -->
-<tr><td align="left" valign="top" width="371" colspan="2" rowspan="2"><a href="../index.html"><img src="../images/masthead2.gif" alt="California Association of Realtors® Online" width="371" height="61" border="0"></a></td>
-<td align="right" valign="top" width="212" height="42"><img src="../images/spacer.gif" width="4" height="13" border="0"><br><a href="../index.html"><img src="../images/nav_homepage_0.gif" alt="Home Page" width="82" height="15" border="0"></a><a href="index.html"><img src="../images/nav_contactus_0.gif" alt="Contact Us" width="78" height="15" border="0"></a></td></tr> 
-
-<!-- Sub Nav Header Graphics -->
-<tr><td align="left" valign="top" width="212" height="19"><img src="images/snh_blank.gif" width="212" height="19" border="0"></td></tr><tr>
-	<td align="left" valign="bottom" width="42"><a href="../index.html"><img src="../images/arrows_back.gif" alt=" " width="21" height="9" border="0"></a></td>
-	<td align="left" valign="top" width="541" colspan="2"><br>&nbsp;</td></tr>
-<tr><td width="42">&nbsp;</td>
-	
-<!-- Main Content Cell-->
-<td width="541" colspan="2">
-
-<b><p></p><h3>Privacy Policy for CAR Online (<a href="http://www.car.org">www.car.org</a>)</h3><p></p>
-</b>
-<p>The California Association of REALTORS® ("C.A.R.") has created this Privacy Policy to demonstrate our firm commitment to privacy and so that you, as a visitor to CAR Online ("Web site"), will be aware of the uses made of information that may be generated as a result of you using our Web site. </p>
-
-<b><p></p><h3>What information is generated when you visit CAR Online?</h3><p></p>
-</b>
-<p>Depending how you use our Web site, certain types of personal and nonpersonal information may be generated and collected.  For example, you may give us your name or email address when you complete a registration screen, respond to a questionnaire or submit an e-mail to us.  Unless we receive your approval to do otherwise, any personal information that you provide to us will only be used by us to fulfill the stated objective for which the information was requested or collected (e.g. if information is provided as a result of you e-mailing us, we will only use the information provided, such as e-mail address, to respond to you). </p>
-
-<p>Other types of information that may be generated and collected when you use our Web site is information that we consider nonpersonal in nature.  For example, we may collect the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account); the date and time you access our site or and the Internet address of the web site from which you linked directly to our site.  We use this information solely to measure the number of visitors to the different sections of our Web site and to help us make our Web site more useful to visitors.</p>
-
-<b><p></p><h3>Use of Cookies</h3><p></p>
-</b>
-<p>What is a cookie?  A cookie is a data file that is created and stored on your computer’s hard drive when you visit a web site.  The typical purposes of a cookie is to make your use of the web site easier and more convenient and to assist the web site in tracking your use of the site.  For example, a cookie may save the registration information, passwords, purchases or preferences that you create when using a web site so you don’t have to reenter this information.  Cookies may also tell the web site which areas of the site are popular and which aren’t.  Cookie technology is used by most major web sites and is considered an industry standard for the Internet.</p>
-<p>Our Web site uses cookie technology to verify user information.  (Please see the section titled "Advertisements" for more information concerning advertisers.).  Also, most Internet browsers are initially set to accept cookies.  If you prefer, you may set your browser so that it refuses cookies or alerts you when cookies are being created on your hard drive.  You should be aware though that by not accepting cookies, you may impair your ability to use certain shopping or password protected areas of web sites. </p>
-
-<b><p></p><h3>REALTOR® Directory</h3><p></p>
-</b>
-<p>C.A.R. is a private trade association consisting of real estate professionals.  As one of the many benefits of membership with C.A.R., we make available on our Web site a searchable database of our members called the "REALTOR® Directory."  The directory can be used by the public to locate and contact our members by such characteristics as name, company or city location.  </p>
-
-<u><p>The member information made available through the REALTOR® Directory is intended to contain only the business information of our members.  Under no circumstances will we intentionally display or make available on our Web site the personal home addresses or phone numbers of our members.  </p>
-</u>
-<p>If you are a member of CAR and would like to be removed from the REALTOR® Directory, please see the section called "Choice/Opt Out."  If you have corrections or updates to the Directory, please see the section called "Corrections/Updates."</p>
-
- 
- 
-<b><p></p><h3>Directors and Committee Members</h3><p></p>
-
-</b><p>For use by the members of C.A.R., we make available on the Web site the names of members who are serving as directors or committee members of C.A.R.</p>
-
-<b><p></p><h3>"Contact Us" Feature</h3><p></p>
-</b>
-<p>Like most sites on the Internet, our Web site contains a feature that allows you to contact us with your comments or questions.  Not surprisingly, we call this feature "Contact Us."  To use this feature, there is an icon at the top of each page on our Web site which you can click onto.  When you do click this icon, a screen will prompt you to provide us with certain information, such as your first and last name, email address, phone and fax number and your address, including your city and state.  </p>
-
-<p>The information collected through the "Contact Us" feature is used to solely to investigate and respond to your inquiries.  If you are a member, we may also use the information you provide to update our membership records. </p>
-
-<b><p></p><h3>C.A.R. Online Product Mall</h3><p></p>
-</b>
-<p>The C.A.R. Online Product Mall is an area on our Web site where you can purchase various real estate related products.  In order to process and complete and your orders though the Mall, we will need to ask you for certain information, such as your name, company name, address, state and zip code.  We also need to ask you for your credit card number and expiration date.  </p>
-
-<p>The information collected through the CAR Online Product Mall is used to process your order and may also be used to keep track of the amount and types of purchases being made through the C.A.R. Online Product Mall.  We may also use your email address or mailing address to send you information regarding updates to the products you purchased or new products which may be of interest to you.  </p>
-
-<p>With respect to your credit card information, this information is sent encrypted to a secure server.  The information is then used solely to complete your purchase order.  Please see the section called "Security" for more information about the security of our Web site.</p>
-
-<b><p></p><h3>Links to Other Sites</h3><p></p>
-</b>
-<p>In many areas of our Web site, we have included links to other Internet sites which we feel add to or improve the quality of our Web site.  While we hope you find these links helpful, we cannot assume responsibility for the privacy practices or the content of any linked site.  Therefore, we encourage you to investigate and determine the privacy policy and practices of any linked site prior to providing information to the linked site.  </p>
-
-<b><p></p><h3>Consumer Newsletter Service</h3><p></p>
-</b>
-<p>We currently offer as a free service to our members a "Consumer Newsletter Service."  Through this service, our members can send a customized electronic newsletter to clients and customers, which includes pertinent real estate related information as well as a photo of the member and his or her business contact information.  To provide this service, we have retained Inman News Features to provide the content and technical support.</p>
-
-<p>To sign up for the Customer Newsletter Service, we ask you to provide certain information, such as your name, phone number, business postal and email addresses and your web site address (if you have one).  In addition, you can submit the names and email address of your clients and customers which you want to be subscribers of the service.  </p>
-
-<u></u><p><u>Under no circumstances will the information provided you when signing up for the Customer Newsletter Service, including the names and email address of clients and customers, be used for any purpose other than to perform the Customer Newsletter Service</u>.  </p>
-
-<b><p></p><h3>Surveys</h3><p></p>
-</b>
-<p>We may from time to time create and use surveys on our Web site.  Most surveys are simple "click box" surveys where you click a box on the screen to indicate your response.  However, we may from time to time ask you for your name, email address or demographic information.  If a survey does ask you this information, we will not use it for any purpose other than to complete the survey, compile statistics and update member records.</p>
-
-<b><p></p><h3>"Great Idea Search" Feature </h3><p></p>
-</b>
-<p>One feature we have created for our members on the Web site is the "Great Idea Search."  This is a feature that allows you to share with other members a business idea that you feel has been successful.  In order to participate in this feature, we ask you for name, company, email address and several narrative questions.  If we decide your idea is appropriate for publication, we will reproduce the idea on the Web site and use your picture and contact information as credit for the idea.  </p>
-
-<p>Any information submitted by you for the Great Idea Search feature will be used solely for the purpose of evaluating the idea and republishing it on our Web site. </p>
-
-<b><p></p><h3>Contests</h3><p></p>
-
-</b><p>We may from time to time run contests on our Web site.  If our contests require you to provide personal or demographic information, we will not use this information for any purpose other than to complete the contest and update member records.</p>
-
-<b><p></p><h3>Advertisements</h3><p></p>
-</b>
-<p>Like many other sites on the Internet, we sell advertising space on our Web site to other companies.  The advertising space we sell is usually in the form of an electronic "advertisement banner."  An advertisement banner is essentially a graphic link to the actual Internet site of the advertiser.</p>
-
-<p>While we hope you find our advertiser’s products helpful, we cannot assume any responsibility for the privacy practices of our advertisers.  Therefore, like any other Internet site you may visit, we encourage you to become knowledgeable of the privacy policies and practices of our advertisers prior to providing information on their sites.  </p>
-
-<b><p></p><h3>Public Chat Rooms or Forums</h3><p></p>
-</b>
-<p>We from time to time may provide chat rooms, forums, message boards, and/or news groups on our Web site.  While we feel these features will be helpful to the users of our Web site, we will not monitor them regularly nor will we be we responsible for what is said on or done as result of them.  Please remember that any information you disclose on these types of features will be accessible to the public and you should exercise caution prior to disclosing any personal information on these features. </p>
-
-<b><p></p><h3>Security</h3><p></p>
-</b>
-<p>We have adopted what we consider to be reasonable security measures to protect against the loss, theft, misuse and alteration of information collected through our Web site.  However, if you are concerned about the security of the Internet or our Web site, we suggest that you not provide this information.</p>
-
- 
- 
-<b><p></p><h3>Children's Guidelines</h3><p></p>
-
-</b><p>Our Web site does not currently attempt to collect or solicit information from persons who are under the age of eighteen.  However, given the anonymous nature of the Internet, it is possible that someone under the age of eighteen may access our Web site and provide us with personal information.  If this situation occurs and it is brought to our attention, we will not use the information in any way without prior parental consent and we will take all reasonable steps to prevent it from occurring again. </p>
-
-<b><p></p><h3>Choice/Opt-Out</h3><p></p>
-</b>
-<p>Our Web site provides you the opportunity to opt-out of receiving communications from us.  Also, if you are a member of C.A.R., you can choose to opt out of having your name included in the REALTOR® Directory.  To exercise your opt-out privilege, please feel free to email us at: <a href="mailto:contactus@car.org">contactus@car.org</a> or write us at: 525 South Virgil Avenue, Los Angeles, CA  90020, Attn: C.A.R. Online Web Developer.  Please be advised that if you are a member and choose to opt-out of receiving communications from the Web site, this may affect your ability to receive other email communications that are sent to members of C.A.R.</p>
-<b>
-<p>Corrections/Updates</p>
-</b>
-<p>If you are a member and there is information about you on our Web site which needs to be corrected or updated, please feel free to email us at: <a href="mailto:contactus@car.org">contactus@car.org</a> or write us at: 525 South Virgil Avenue, Los Angeles, CA  90020, Attn: C.A.R. Online Web Developer.  However, in order for the correction or update to be permanent, you will need to contact your local association and make sure that the correction or update is made in their records as well.  </p>
-
-<b><p></p><h3>Contacting our Web Site</h3><p></p>
-</b><i>
-</i><p>If you have any questions about this Privacy Policy, the practices of our Web site, or your dealings with our Web site, please feel free to email us at: <a href="mailto:contactus@car.org">contactus@car.org</a> or write us at: 525 South Virgil Avenue, Los Angeles, CA  90020, Attn: C.A.R. Online Web Developer.</p>
-
-<b><p></p><h3>Changes to Privacy Policy Statement</h3><p></p>
-
-</b><p>With the ever-changing environment of the Internet and to maintain our ability to improve the quality and safety of our Web site, we reserve the right to change this Privacy Policy at any time.  As you use our Web site, we encourage you to periodically check back with this statement for changes that we may make.  Your continued use of our Web site will constitute your agreement to any changes we make and if you do not agree with a change, please refrain from using our Web site.  Thank you!</p>
-
-
-
-</td></tr></tbody></table>&nbsp;<br>&nbsp;
-
-<!-- Footer Navigation Table -->
-<table border="0" cellpadding="0" cellspacing="0" width="583">
-
-<!-- Grey Horizontal Rule -->
-<tbody><tr><td width="42" rowspan="2">&nbsp;</td>
-<td width="541" align="left" valign="top" colspan="2"><img src="../images/rule_grey_h.gif" alt="......" width="541" height="14" border="0"></td></tr>
-	
-<!-- Navigation Pull-Down Menu -->	
-<tr>	<td width="505" align="center" valign="top">
-			<form><select name="menu" onchange="goPage(this.form)">
-					<option>Navigate...
-					</option><option>Home Page
-					</option><option>Contact Us
-					</option><option>----------------
-					</option><option>About Us
-					</option><option>----------------
-					</option><option>Member Center
-					</option><option>Property Listings
-					</option><option>Products
-					</option><option>----------------
-					</option><option>Consumer Info
-					</option><option>Legal
-					</option><option>Professional Development
-					</option><option>Economics
-					</option><option>Legislation
-					</option><option>Real Estate Newsstand
-					</option><option>Meetings/Industry Events
-				</option></select><input type="submit" value="Go"></form><br>&nbsp;<br>
+				<!-- content -->
+				<td bgcolor="#F8F8E6" valign="top">		
+					<table border="0" cellpadding="0" cellspacing="0" height="100%">
+						<tbody><tr>
+							<td width="566"><img src="images/clearpixel.gif" width="566" height="1"></td>
+							<td width="15"><img src="images/clearpixel.gif" width="15" height="1"></td>
+						</tr>
+						<tr>
+							<td width="566" valign="top">
+								<table border="0" cellpadding="0" cellspacing="0">
+										<tbody><tr><td>
+											<img src="images/clearpixel.gif" width="15" height="21">
+										</td>
+										<td class="bodycopy">
+											<img src="images/clearpixel.gif" width="536" height="21">
+										</td>
+										<td>
+											<img src="images/clearpixel.gif" width="15" height="21">
+										</td>
+									</tr><tr>
+										<td>
+											<img src="images/clearpixel.gif" width="15" height="21">
+										</td>
+										<td class="bodycopy">
+											<span class="ArticleName">Privacy Policies</span><br>&nbsp;<br><!-- Main Content Nested Table -->
+<table cellspacing="0" cellpadding="0" width="530" border="0">
+<tbody>
+<tr>
+<td><b><span class="BodyCopy">
+<p><a href="http://www.car.org">Privacy Policy for C.A.R. Online (www.car.org)</a><br><a href="http://www.car.org/index.php?id=MTY1#mpp">California Association of REALTORS® Member Information Privacy Policy</a></p>
+<p align="center"><strong><a name="pp"></a>Privacy Policy for C.A.R. Online (www.car.org)</strong></p>
+<p>The California Association of REALTORS® ("C.A.R.") has created this Privacy Policy to demonstrate our firm commitment to privacy and so that you, as a visitor to C.A.R. Online ("Web site"), will be aware of the uses made of information that may be generated as a result of you using our Web site. </p>
+<p><strong>What information is generated when you visit C.A.R. Online? </strong>Depending how you use our Web site, certain types of personal and nonpersonal information may be generated and collected. For example, you may give us your name or email address when you complete a registration screen, respond to a questionnaire or submit an e-mail to us. Unless we receive your approval to do otherwise, any personal information that you provide to us will only be used by us to fulfill the stated objective for which the information was requested or collected (e.g. if information is provided as a result of you e-mailing us, we will only use the information provided, such as e-mail address, to respond to you). 
+</p><p>Other types of information that may be generated and collected when you use our Web site is information that we consider nonpersonal in nature. For example, we may collect the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account); the date and time you access our site or and the Internet address of the web site from which you linked directly to our site. We use this information solely to measure the number of visitors to the different sections of our Web site and to help us make our Web site more useful to visitors.</p>
+<p><strong>Use of Cookies. </strong>What is a cookie? A cookie is a data file that is created and stored on your computer’s hard drive when you visit a web site. The typical purposes of a cookie is to make your use of the web site easier and more convenient and to assist the web site in tracking your use of the site. For example, a cookie may save the registration information, passwords, purchases or preferences that you create when using a web site so you don’t have to reenter this information. Cookies may also tell the web site which areas of the site are popular and which aren’t. Cookie technology is used by most major web sites and is considered an industry standard for the Internet. 
+</p><p>Our Web site uses cookie technology to verify user information. (Please see the section titled "Advertisements" for more information concerning advertisers.). Also, most Internet browsers are initially set to accept cookies. If you prefer, you may set your browser so that it refuses cookies or alerts you when cookies are being created on your hard drive. You should be aware though that by not accepting cookies, you may impair your ability to use certain shopping or password protected areas of web sites. </p>
+<p><strong>REALTOR® Directory. </strong>C.A.R. is a private trade association consisting of real estate professionals. As one of the many benefits of membership with C.A.R., we make available on our Web site a searchable database of our members called the "REALTOR® Directory." The directory can be used by the public to locate and contact our members by such characteristics as name, company or city location. 
+</p><p>The member information made available through the REALTOR® Directory is intended to contain only the business information of our members. Under no circumstances will we intentionally display or make available on our Web site the personal home addresses or phone numbers of our members. </p>
+<p>If you are a member of C.A.R. and would like to be removed from the REALTOR® Directory, please see the section called "Choice/Opt Out." If you have corrections or updates to the Directory, please see the section called "Corrections/Updates."</p>
+<p><strong>Directors and Committee Members. </strong>For use by the members of C.A.R., we make available on the Web site the names of members who are serving as directors or committee members of C.A.R. 
+</p><p><strong>"Contact Us" Feature. </strong>Like most sites on the Internet, our Web site contains a feature that allows you to contact us with your comments or questions. Not surprisingly, we call this feature "Contact Us." To use this feature, there is an icon at the top of each page on our Web site which you can click onto. When you do click this icon, a screen will prompt you to provide us with certain information, such as your first and last name, email address, phone and fax number and your address, including your city and state. 
+</p><p>The information collected through the "Contact Us" feature is used to solely to investigate and respond to your inquiries. If you are a member, we may also use the information you provide to update our membership records. </p>
+<p><strong>C.A.R. Online Product Mall. </strong>The C.A.R. Online Product Mall is an area on our Web site where you can purchase various real estate related products. In order to process and complete and your orders though the Mall, we will need to ask you for certain information, such as your name, company name, address, state and zip code. We also need to ask you for your credit card number and expiration date. 
+</p><p>The information collected through the C.A.R. Online Product Mall is used to process your order and may also be used to keep track of the amount and types of purchases being made through the C.A.R. Online Product Mall. We may also use your email address or mailing address to send you information regarding updates to the products you purchased or new products which may be of interest to you. </p>
+<p>With respect to your credit card information, this information is sent encrypted to a secure server. The information is then used solely to complete your purchase order. Please see the section called "Security" for more information about the security of our Web site.</p>
+<p><strong>Links to Other Sites. </strong>In many areas of our Web site, we have included links to other Internet sites which we feel add to or improve the quality of our Web site. While we hope you find these links helpful, we cannot assume responsibility for the privacy practices or the content of any linked site. Therefore, we encourage you to investigate and determine the privacy policy and practices of any linked site prior to providing information to the linked site. 
+</p><p><strong>Consumer Newsletter Service. </strong>We currently offer as a free service to our members a "Consumer Newsletter Service." Through this service, our members can send a customized electronic newsletter to clients and customers, which includes pertinent real estate related information as well as a photo of the member and his or her business contact information. To provide this service, we have retained Inman News Features to provide the content and technical support. 
+</p><p>To sign up for the Customer Newsletter Service, we ask you to provide certain information, such as your name, phone number, business postal and email addresses and your web site address (if you have one). In addition, you can submit the names and email address of your clients and customers which you want to be subscribers of the service. </p>
+<p>Under no circumstances will the information provided you when signing up for the Customer Newsletter Service, including the names and email address of clients and customers, be used for any purpose other than to perform the Customer Newsletter Service. </p>
+<p><strong>Surveys. </strong>We may from time to time create and use surveys on our Web site. Most surveys are simple "click box" surveys where you click a box on the screen to indicate your response. However, we may from time to time ask you for your name, email address or demographic information. If a survey does ask you this information, we will not use it for any purpose other than to complete the survey, compile statistics and update member records. 
+</p><p><strong>"Great Idea Search" Feature. </strong>One feature we have created for our members on the Web site is the "Great Idea Search." This is a feature that allows you to share with other members a business idea that you feel has been successful. In order to participate in this feature, we ask you for name, company, email address and several narrative questions. If we decide your idea is appropriate for publication, we will reproduce the idea on the Web site and use your picture and contact information as credit for the idea. 
+</p><p>Any information submitted by you for the Great Idea Search feature will be used solely for the purpose of evaluating the idea and republishing it on our Web site. </p>
+<p><strong>Contests. </strong>We may from time to time run contests on our Web site. If our contests require you to provide personal or demographic information, we will not use this information for any purpose other than to complete the contest and update member records. 
+</p><p><strong>Advertisements. </strong>Like many other sites on the Internet, we sell advertising space on our Web site to other companies. The advertising space we sell is usually in the form of an electronic "advertisement banner." An advertisement banner is essentially a graphic link to the actual Internet site of the advertiser. 
+</p><p>While we hope you find our advertiser’s products helpful, we cannot assume any responsibility for the privacy practices of our advertisers. Therefore, like any other Internet site you may visit, we encourage you to become knowledgeable of the privacy policies and practices of our advertisers prior to providing information on their sites. </p>
+<p><strong>Public Chat Rooms or Forums. </strong>We from time to time may provide chat rooms, forums, message boards, and/or news groups on our Web site. While we feel these features will be helpful to the users of our Web site, we will not monitor them regularly nor will we be we responsible for what is said on or done as result of them. Please remember that any information you disclose on these types of features will be accessible to the public and you should exercise caution prior to disclosing any personal information on these features. 
+</p><p><strong>Security. </strong>We have adopted what we consider to be reasonable security measures to protect against the loss, theft, misuse and alteration of information collected through our Web site. However, if you are concerned about the security of the Internet or our Web site, we suggest that you not provide this information. 
+</p><p><strong>Children's Guidelines. </strong>Our Web site does not currently attempt to collect or solicit information from persons who are under the age of eighteen. However, given the anonymous nature of the Internet, it is possible that someone under the age of eighteen may access our Web site and provide us with personal information. If this situation occurs and it is brought to our attention, we will not use the information in any way without prior parental consent and we will take all reasonable steps to prevent it from occurring again. 
+</p><p><strong>Choice/Opt-Out. </strong>Our Web site provides you the opportunity to opt-out of receiving communications from us. Also, if you are a member of C.A.R., you can choose to opt out of having your name included in the REALTOR® Directory. To exercise your opt-out privilege, please feel free to email us at: <a href="mailto:contactus@car.org">contactus@car.org</a> or write us at: 525 South Virgil Avenue, Los Angeles, CA 90020, Attn: C.A.R. Online Web Developer. Please be advised that if you are a member and choose to opt-out of receiving communications from the Web site, this may affect your ability to receive other email communications that are sent to members of C.A.R. 
+</p><p><strong>Corrections/Updates. </strong>If you are a member and there is information about you on our Web site which needs to be corrected or updated, please feel free to email us at: <a href="mailto:contactus@car.org">contactus@car.org</a> or write us at: 525 South Virgil Avenue, Los Angeles, CA 90020, Attn: C.A.R. Online Web Developer. However, in order for the correction or update to be permanent, you will need to contact your local association and make sure that the correction or update is made in their records as well. 
+</p><p><strong>Contacting our Web Site. </strong>If you have any questions about this Privacy Policy, the practices of our Web site, or your dealings with our Web site, please feel free to email us at: <a href="mailto:contactus@car.org">contactus@car.org</a> or write us at: 525 South Virgil Avenue, Los Angeles, CA 90020, Attn: C.A.R. Online Web Developer. 
+</p><p><strong>Changes to Privacy Policy Statement. </strong>With the ever-changing environment of the Internet and to maintain our ability to improve the quality and safety of our Web site, we reserve the right to change this Privacy Policy at any time. As you use our Web site, we encourage you to periodically check back with this statement for changes that we may make. Your continued use of our Web site will constitute your agreement to any changes we make and if you do not agree with a change, please refrain from using our Web site. Thank you!</p></span>
+<p align="center"><span class="BodyCopy"><strong><a name="mpp"></a>California Association of REALTORS®<br></strong></span><span class="BodyCopy"><strong>Member Information Privacy Policy</strong></span></p></b>
+<p><span class="BodyCopy">The California Association of REALTORS® ("C.A.R.") has created this Member Information Privacy Policy to demonstrate its firm commitment to the privacy of member information and so that you, as a member of C.A.R., will be aware of the uses made of your member information by C.A.R.</span></p><b>
+</b><p><b><span class="BodyCopy"><strong>1.</strong> <strong>Confidential</strong>.</span></b> <span class="BodyCopy">In general, all member information provided to C.A.R. by its members is treated as confidential and C.A.R. uses its best efforts to keep such information confidential and prevent unauthorized use. <br><br></span><b><span class="BodyCopy"><strong>2. C.A.R. Member Communications</strong>. </span></b><span class="BodyCopy">From time to time, C.A.R. will use your preferred contact information to send you regular and special membership communications and publications. For example, members of C.A.R. receive a monthly membership magazine and we will need to access and use your preferred mailing address to send you this publication. "Preferred contact information" as used in this section and the remainder of this privacy policy is the information pertaining to your name, email address, mailing address, telephone and facsimile numbers which you indicated to your local association of REALTORS® as the preferred contact information to receive communications. For example, you may have indicated your business address as your preferred mailing address and your home telephone number as your preferred telephone number.</span></p>
+<h4></h4>
+<p><b><span class="BodyCopy"><strong>3.</strong> <strong>Member Requests</strong>. </span></b><span class="BodyCopy">From time to time, you may contact C.A.R. and make requests. In order to respond to your request, we may need to access and use your member information. For example, we may need to access your preferred mailing address to send you the information you requested.</span></p>
+<p><span class="BodyCopy"></span><b><span class="BodyCopy"><strong>4.</strong> <strong>REALTOR® Directory</strong>. </span></b><span class="BodyCopy">As one of the many benefits of membership with C.A.R., we make available on our web site <span class="BodyCopy"><span class="BodyCopy">(<span class="BodyCopy"><span class="BodyCopy"><span class="BodyCopy"><a href="http://www.car.org/">www.car.org</a></span></span></span></span><span class="BodyCopy">)</span></span></span><span class="BodyCopy"> a searchable database of our members called the "REALTOR® Directory." The purpose of this directory is to assist the public in locating and contacting our members. The Directory contains searchable characteristics about our members, such as the member’s name, company or city location. The member information made available through the REALTOR® Directory is intended to contain only the business information of our members. Under no circumstances will we intentionally display or make available your personal home addresses or telephone number in the REALTOR® Directory unless you indicated these to your local association of REALTORS® as your preferred contact information. If you would like to be removed from the REALTOR® Directory, please see the section of this privacy policy called "Choice/Opt Out." If you have corrections or updates to the directory, please see the section called "Corrections/Updates." </span><b></b></p>
+<p><b><span class="BodyCopy"><strong>5.</strong> <strong>Names of Directors and Committee Members; Use of Preferred Contact Information</strong>. </span></b><span class="BodyCopy">For use by C.A.R. members and for purposes of conducting C.A.R. Board of Directors meetings, we make available on our web site (www.car.org) and in other print and electronic formats the names of those C.A.R. members serving as directors or committee members of C.A.R. In addition, in order to provide meeting related information and to send official Board of Directors notices, we access and use the preferred contact information of C.A.R. directors and committee members, including email and mailing addresses.</span></p>
+<p><span class="BodyCopy"></span><b><span class="BodyCopy"><strong>6.</strong> <strong>Third Parties</strong>. </span></b><span class="BodyCopy">From time to time, C.A.R. makes your preferred contact information available to Member Value Plus (MVP) affinity partners and approved strategic business partners to enable them to notify you about products and services that C.A.R. feels you may be interested in. Under no circumstances will we intentionally make available your personal home addresses or telephone number to third parties unless you indicated these as your preferred contact information. If you do not want your preferred contact information to be provided to third parties, please see the section of this privacy policy called "Choice/Opt Out."</span></p><b>
+</b><p><b><span class="BodyCopy"><strong>7.</strong> <strong>Request from the Public</strong>. </span></b><span class="BodyCopy">If the public contacts C.A.R. and requests information regarding one of its members, we may check our member database and verify to the public whether the person(s) is in fact a member of C.A.R. We may also provide the public with the name and telephone number of the firm that the member is affiliated with and the local association through which the member holds membership. However, in no event will we provide personal information to the public, such as your home address and telephone number, unless required by a subpoena, search warrant or other legal process or in the case of imminent physical harm to the public or other members.</span> 
+</p><p><strong></strong></p><b><span class="BodyCopy"><strong>8.</strong> <strong>"Listservs."</strong></span></b> <span class="BodyCopy">From time to time, C.A.R. may create and maintain a "listserv" for a particular topic or subject of interest to its members. A listserv is a program that sends emails to the addresses on the listserv’s list. If you provided your email address to C.A.R., your email address may be used on a listserv. In other situations, the listserv may only be available if you affirmatively sign up to participate. In any event, if you decide you do not want to participate in a particular listserv, the first email you receive from the listserv should provide you instructions on how to opt out of the service.</span> 
+<p></p><b>
+</b><p><b><span class="BodyCopy"><strong>9.</strong> <strong>Orders; Credit Card Information</strong>. </span></b><span class="BodyCopy">C.A.R. sells various real estate related products and services to its members. In order to process and complete orders, we may need to access your member information, such as your name, company name, address, state and zip code. This information will only be used to process your order (i.e. ship and mail your order) and to send you information regarding updates to the products or services you purchased. If you pay for your order by credit card, we will need to ask you for your credit card number and expiration date, which will be used solely to complete your order and otherwise kept confidential.</span></p><b>
+</b><p><b><span class="BodyCopy"><strong>10.</strong> <strong>Choice/Opt Out</strong>. </span></b><span class="BodyCopy">C.A.R. recognizes the importance of your privacy. If you do not want your member information displayed or used in one or more of the manners described above, please read the following instructions:</span></p>
+<p><span class="BodyCopy">To opt out of having your name and business contact information included in the REALTOR® Directory, please email us at: <span class="BodyCopy"><a href="mailto:contactus@car.org">contactus@car.org</a> </span></span><span class="BodyCopy">or write us at: 525 South Virgil Avenue, Los Angeles, CA 90020, Attn: C.A.R. Online Web Developer. Please be sure to specify in your email or writing that you want to be removed from the REALTOR® Directory on C.A.R. Online. To insure your request is processed timely and accurately, please provide the following information with your request: first name, last name, office name, office telephone number, DRE license number, and NRDS or C.A.R. member number. C.A.R. will process your request as quickly as possible; however, your name may continue to be reproduced in the REALTOR® Directory until the request is ultimately processed. C.A.R. apologizes in advance for any inconveniences this may cause. </span></p>
+<p><span class="BodyCopy">To opt out of having your preferred contact information provided to third parties, please email us at: <span class="BodyCopy"><span class="BodyCopy"><a href="mailto:contactus@car.org">contactus@car.org</a></span></span></span> <span class="BodyCopy">or write us at: 525 South Virgil Avenue, Los Angeles, CA 90020, Attn: Third Party Opt Out Request. To insure your request is processed timely and accurately, please provide the following information with your request: first name, last name, office name, office telephone number, DRE license number, and NRDS or C.A.R. member number. C.A.R. will process your request as quickly as possible; however, you may continue to receive third party communications until the request is ultimately processed. C.A.R. apologizes in advance for any inconveniences this may cause. </span></p>
+<p><span class="BodyCopy">Please note, if you are a director or committee member of C.A.R., you cannot opt out of having your name reproduced and your preferred contact information used in the manner described in Sections 4 and 5 above.</span></p>
+<p><strong><span class="BodyCopy"><strong>12.</strong> <strong>Corrections/Updates</strong>. </span></strong><span class="BodyCopy">If there is member information about you which needs to be corrected or updated, please email us at: <span class="BodyCopy"><a href="mailto:contactus@car.org">contactus@car.org</a> </span></span><span class="BodyCopy">or write us at: 525 South Virgil Avenue, Los Angeles, CA 90020, Attn: Membership Records. However, in order for the correction or update to be permanent, you will need to contact your local association and make sure that the correction or update is made in its records as well. </span></p><b>
+</b><p><b><span class="BodyCopy"><strong>13.</strong> <strong>Contacting C.A.R.</strong> </span></b><span class="BodyCopy">If you have any questions about this Privacy Policy, please feel free to email us at: <span class="BodyCopy"><a href="mailto:contactus@car.org">contactus@car.org</a></span></span> <span class="BodyCopy">or write us at: 525 South Virgil Avenue, Los Angeles, CA 90020, Attn: C.A.R. Privacy Policy.</span></p><b>
+</b><p><b><span class="BodyCopy"><strong>13.</strong> <strong>Changes in This Policy</strong>. </span></b><span class="BodyCopy">From time to time, C.A.R. may need to change this privacy policy to better meet the needs of its members. As such, we reserve the right to change this privacy policy at any time. Such changes may be made without prior notice so we encourage you to periodically check this privacy policy statement for changes that we may make. Changes to this policy will be effective when posted on C.A.R.’s web site unless determined otherwise by the C.A.R. Board of Directors.</span></p></td></tr></tbody></table>
+										</td>
+										<td>
+											<img src="images/clearpixel.gif" width="15" height="1">
+										</td>
+									</tr>
+								</tbody></table>
+								
+								<!--- start Page Toolbar ---><table border="0" cellpadding="0" cellspacing="0">	<tbody><tr>		<td height="36"><img src="images/clearpixel.gif" width="15" height="36"></td>		<td height="36"><img src="images/clearpixel.gif" width="95" height="36"></td>		<td height="36"><img src="images/clearpixel.gif" width="1" height="36"></td>		<td height="36"><img src="images/clearpixel.gif" width="95" height="36"></td>		<td height="36"><img src="images/clearpixel.gif" width="1" height="36"></td>		<td height="36"><img src="images/clearpixel.gif" width="95" height="36"></td>	</tr>	<tr>		<td height="16"><img src="images/clearpixel.gif" width="15" height="16"></td>		<td height="16"><a href="index.php?id=MjA2MQ==&amp;add_page=MTY1"><img src="images/savepage.gif" width="95" height="16" border="0" alt=""></a></td>		<td height="16"><img src="images/CCCC99pixel.gif" width="1" height="16"></td>		<td height="16"><a href="#" onclick="window.open('index.php?id=MzY3OA==&amp;page_id=165','send_page','width=504,height=634,scrollbars=yes')"><img src="images/sendpage.gif" width="95" height="16" border="0" alt=""></a></td>		<td height="16"><img src="images/CCCC99pixel.gif" width="1" height="16"></td>		<td height="16"><a href="#" onclick="window.open('index.php?id=MTY1&amp;print_page=true','print_page','width=654,height=634,scrollbars=yes')"><img src="images/printpage-new.gif" border="0" alt=""></a></td>	</tr>	<tr>		<td height="1"><img src="images/clearpixel.gif" width="15" height="1"></td>		<td colspan="5" height="1"><img src="images/CCCC99pixel.gif" width="287" height="1" border="0" alt=""></td>	</tr></tbody></table><br><br><!--- end Page Toolbar --->
+							</td>
+							<td width="15" background="images/rightlinebg-tier2.gif"><img src="images/clearpixel.gif" width="15" height="427"></td>
+						</tr>
+					</tbody></table>
+				</td>
+				<!-- end content -->
+				
+			</tr>
 			
-<!-- Copyright Line -->			
-<font face="Helvetica,Arial" size="-2" color="#999999">Copyright <font size="-1">©</font>2000 California Association of REALTORS<font size="-1">®</font></font></td>
-<td align="left" valign="top" width="36"><a href="#top"><img src="../images/bu_top.gif" width="24" height="18" border="0"></a></td></tr>
+			<!-- begin footer -->
+			<tr>
+				<td width="15" bgcolor="#000000"><img src="images/clearpixel.gif" width="15" height="1"></td>
+				<td colspan="3" width="766" bgcolor="#F8F8E6">
+					<table border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td width="44"><img src="images/peice1-tier2.gif" width="44" height="25" alt="" border="0"></td>
+							<td width="701"><a href="index.php?id=MQ==" class="aLink" style="font-weight: bold;"><b> Home</b></a> &gt; <a href="index.php?id=NQ==" class="currentBreadCrumb2" style="font-weight: bold;">About C.A.R.</a> &gt; <a href="index.php?id=MTY1" class="currentBreadCrumb"><b>Privacy Policies</b></a> </td>
+							<td width="21" bgcolor="#F8F8E6"><img src="images/peice2-tier2.gif" width="20" height="25" alt="" border="0"></td>
+						</tr>
+						<tr><td colspan="3"><img src="images/bottomline-tier2.gif" width="765" height="11" alt="" border="0"></td></tr>
+						<tr>
+							<td width="44"><img src="images/peice3-tier3.gif" width="44" height="32" alt="" border="0"></td>
+							<td width="701" bgcolor="#F8F8E6">
+								<span class="TermsAndConditions"><a href="index.php?id=Mjg2" class="aLink">Terms and Conditions of Use</a> | <a href="index.php?id=MTY1" class="aLink">Privacy Policy</a> | <a href="index.php?id=MzIzMQ==" class="aLink">Permission to Reprint Content</a> | <a href="index.php?id=Mjc5Mw==" class="aLink">Site Map</a></span><br>
+								<span class="Copyright">Copyright © 2001 California Association of  REALTORS®
+							</span></td>
+							<td width="21" bgcolor="#F8F8E6"><img src="images/peice4-tier2.gif" width="20" height="32" alt="" border="0"></td>
+						</tr>
+						
+					</tbody></table>
+				</td>
+			</tr>
+			<!-- end footer -->
+		</tbody></table>
 	
-<!-- Control Row -->
-<tr><td width="42"><img src="../images/spacer.gif" width="42" height="1" border="0"></td>
-<td width="505"><img src="../images/spacer.gif" width="505" height="1" border="0"></td>
-<td width="36"><img src="../images/spacer.gif" width="36" height="1" border="0"></td></tr></tbody></table>
-			
-
+	<!-- load the DHTML menus -->
+	<script language="JavaScript1.2" src="jscript/HM_Loader.js" type="text/javascript"></script><script language="JavaScript1.2" src="jscript/HM_ScriptMOZ.js" type="text/javascript"></script>
 
 </body></html>
