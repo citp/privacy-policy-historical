@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203000758id_/http%3A//www1.cypress.com/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621170631id_/http%3A//www.cypress.com/aboutus/privacy.cfm) for the most accurate reproduction.*
 
-# Cypress - About Us
+# Cypress Semiconductor Corporation
 
   
 [About Us:](https://web.archive.org/aboutus/) Privacy
@@ -28,7 +28,7 @@ In addition, we respond to subpoenas, warrants, or other court orders regarding 
 Cypress does not knowingly collect personally identifiable information from children. If we discover that a child has provided us with any personally identifiable information, we will delete that information from our systems. 
 
   
-You can help Cypress maintain the accuracy of your information by notifying us of any changes to your address, title, phone number or e-mail address. If you need assistance in updating your information, please contact customer support at litful@cypress.com. You may update your personal registration information [here](https://web.archive.org/support/login.cfm). This information you provide to our customer support will also be covered by this policy. 
+You can help Cypress maintain the accuracy of your information by notifying us of any changes to your address, title, phone number or e-mail address. If you need assistance in updating your information, please contact customer support at litful@cypress.com. You may update your personal registration information [here](https://web.archive.org/support/mysupport.cfm). This information you provide to our customer support will also be covered by this policy. 
 
   
 We provide links to third party sites. Since we do not control those web sites we are not responsible for the information you might find on them or submit to them. We encourage you to review the privacy policies posted on these third party sites. Please keep in mind that information posted to a Cypress newsgroup / forum / message board is public. 
