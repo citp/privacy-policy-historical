@@ -1,19 +1,41 @@
-> *The following text is extracted and transformed from the hamleys.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004231311id_/http%3A//www.hamleys.com/AboutHamleys/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamleys.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611041218id_/http%3A//www.hamleys.com/web/crumb/privacy.php) for the most accurate reproduction.*
 
-# Hamleys
+# 
 
-**About us:**
+## Use of Information
 
-The information you provide Hamleys Direct will be held by us on our dedicated server installed within our premises and not by any third parties. 
+Hamleys collects data from customers when they register and make a purchase online. We also gather data about our customers from their use of the website.
 
-**Use of your information:**
+We use this data to corroborate our customers' identity, process payments, manage orders including delivery, communicate with customers about orders, products, services and promotions, manage customer accounts, display personalised content such as wish lists and recommend merchandise and services that might be of interest. We also use this data to further develop this website to be of use to customers and to manage security.
 
-The information you provide on this site may be held and used by us for any of the following purposes: order processing, administration of customers’ orders and/or accounts, dealing with enquiries or complaints, crime and fraud prevention, marketing our products and services generally or (subject to any objection or preference you may indicate when submitting your personal details to us via this Web site) for sending information to you about our products and services from time to time. In addition, we may use information about you provided by credit reference agencies to help us make credit decisions and to prevent fraud. 
+When you view this website by linking from another web page Hamleys may store the name of that web page for the purposes of internal administration and analysis.
 
-**Disclosures of your information:**
+In order to process your registration and enable management of this website, your personal information may be passed to third party service providers who may process your information on our behalf and under our control.
 
-We will not disclose your information to any other companies other than those belonging to the same group of companies. We may disclose your information to credit agencies and to other people in relation to enquiries concerning the prevention and detection of fraud or crime or the apprehension or prosecution of offenders or as may be required by law or legal proceedings. 
+We may share non-personal, anonymous, aggregate statistics (group) data about visitors to this website, use and other traffic patterns with connected, or third parties. 
 
-**Data protection Act:**
+By using this website you agree that any successor operator of the Hamleys business may use your personal information on the same basis as we do. 
 
-From time to time we make portions of our mailing list available to carefully selected organisations whose products may be of interest to you. If you would prefer not to receive such mailings please indicate by checking the box at the time of ordering. 
+We will not disclose your personal information to third parties except as outlined above or in the unlikely event that we are required to do so by court order or other legal requirement.
+
+## "Cookies"
+
+Hamleys.com uses cookies to store information essential for your user experience while browsing the Hamleys website. Hamleys does not use persistent cookies.
+
+## Links to other Websites
+
+We may from time to time refer to or establish relations with companies, organisations and public bodies that will enable you to access their websites directly from our website. Each company, organisation or public body operates its own policy regarding privacy the sale of personal data and the use of cookies. If you have a particular interest in, or concern regarding the way your data will be used then you are advised to read the Privacy Statement on the relevant website.
+
+We will try to provide you with links to high quality, reputable websites which we believe will be of interest and relevant to you, but please note that such third party websites are not under our control and we do not contribute to the content of such websites. When you click through to any of these websites you leave the area controlled by Hamleys. We cannot accept responsibility for any issues arising in connection with the third party's use of your data, the website content or the services offered to you by these websites.
+
+You may provide a link (but not a framed link) to the home page of this site but not (save with our prior written agreement) in any way which gives the impression that we are associated with or have approved such other site. Apart from this you may not link from another internet site or equivalent entity to materials or information on this website or reproduce or store any part of this site on any other website without our prior written consent.
+
+## Your Rights
+
+In addition to these policies your personal data is protected in the UK by the Data Protection Act 1998. Under this Act we will only process any data we hold about you in a lawful and fair manner. We will keep your data securely to prevent unauthorised access by third parties.
+
+Your personal data may have to be disclosed if we are required to disclose it by law, or as a result of a lawful request by a governmental or law enforcement authority.
+
+## Policy Changes
+
+Any changes to this Privacy Policy made by Hamleys will be posted here and will take effect immediately. This policy was last updated on 7th August 2003.
