@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hallmarkchannel.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604190301id_/http%3A//www.hallmarkchannel.com/us_framework.jsp%3FBODY%3DgeneralText.jsp%26CONTENT%3DDAM_GTEXT_1050856) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallmarkchannel.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209163421id_/http%3A//www.hallmarkchannel.com/us_framework.jsp%3FBODY%3DgeneralText.jsp%26CONTENT%3DDAM_GTEXT_1050856) for the most accurate reproduction.*
 
 # United States
 
