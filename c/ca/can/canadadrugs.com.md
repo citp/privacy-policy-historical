@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606062207id_/http%3A//canadadrugs.com/policies/Privacy/82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208060545id_/http%3A//www.canadadrugs.com/policies/Privacy/82) for the most accurate reproduction.*
 
 # CanadaDrugs.com
 
@@ -8,7 +8,7 @@
 
 **Introduction**
 
-At Canadadrugs.com Ltd. (carrying on business as “CanadaDrugs.com” and “CanadaDrugs.com”, safeguarding your confidentiality and protecting your personal information is a primary concern. We are committed to meeting or exceeding the privacy standards established by Canada’s Personal Information Protection and Electronic Documents Act. As part of this commitment, we have followed the Ten Privacy Principles described in the Personal Information Protection and Electronic Documents Act to govern our actions as they relate to the use of personal information. The Ten Privacy Principles are as follows:
+At Canadadrugs.com Ltd. (carrying on business as “CanadaDrugs.com”), safeguarding your confidentiality and protecting your personal information is a primary concern. We are committed to meeting or exceeding the privacy standards established by Canada’s Personal Information Protection and Electronic Documents Act. As part of this commitment, we have followed the Ten Privacy Principles described in the Personal Information Protection and Electronic Documents Act to govern our actions as they relate to the use of personal information. The Ten Privacy Principles are as follows:
 
 **Principle 1 – Accountability.** We are responsible for maintaining and protecting any personal information under our control. In fulfilling this mandate, we have designated an individual who is accountable for CanadaDrug.com's compliance with the Ten Privacy Principles.
 
@@ -91,4 +91,4 @@ E-Mail: Troy.Harwood-Jones@canadadrugs.com
 Any changes to our privacy policy and information handling practices shall be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this policy when we feel it is appropriate to do so. You may determine when this policy was last updated by referring to the modification date found at the bottom of each CanadaDrug.com privacy policy web page.  
 last updated: January 16, 2004
 
-[Return to Our Policies Listing](http://canadadrugs.com/patient_services/index.php?category=22)
+[Return to Our Policies Listing](http://www.canadadrugs.com/patient_services/index.php?category=22)
