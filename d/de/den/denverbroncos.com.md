@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008193136id_/http%3A//www.denverbroncos.com/page.php%3Fid%3D101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607022316id_/http%3A//www.denverbroncos.com/page.php%3Fid%3D101) for the most accurate reproduction.*
 
 # DenverBroncos.com -- Official Web Site of the Denver Broncos
 
@@ -102,4 +102,4 @@ Denver Broncos Football Club
 INVESCO Field at Mile High  
 1701 Bryant Street  
 Suite 900  
-Denver, CO 80204 
+Denver, CO 80204
