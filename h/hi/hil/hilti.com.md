@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hilti.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611170724id_/http%3A//www2.hilti.com/holcom/base/base_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hilti.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231081507id_/http%3A//www.hilti.com/holcom/base/base_privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - hilti.com
 
