@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masters-of-photography.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614113351id_/http%3A//www.masters-of-photography.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masters-of-photography.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204160456id_/http%3A//www.masters-of-photography.com/privacy.html) for the most accurate reproduction.*
 
 # Masters of Photography: Privacy Policy
 
@@ -8,8 +8,6 @@
 
 We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to 
 
-  * <http://www.sonar.com/content/privacy.htm>
+  * <http://www.burstmedia.com/release/privacy.asp>
 
 
-
-[ ](http://www.webgalleries.com/)
