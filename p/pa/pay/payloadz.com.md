@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411153737id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216100041id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
 
 # PayLoadz - Sell Digital Goods with PayPal
 
   
-| "I am very pleased with PayLoadz service. I wrote my first eBook recently and was trying to find the best way to offer it for sale, I started looking at PayPal and that led me to PayLoadz. I honestly wasn't sure about PayLoadz to start with, but then I watched the video of the Digital Goods Presentation found on your homepage and that convinced me to give it a try. When someone places an order I don't have to do a thing. I get my notice of funds deposited into my PayPal account, an email is sent to my customer with their download link and everything is taken care of automatically. I definitely intend on using PayLoadz for future projects. 
-
-Thank you for providing a much needed service!"  
+| "As a new website called, tripstip.com, just getting started was difficult, however with PayLoadz we could sell our money saving tips for travel fast and efficiently with superb service from PayLoadz.com."  
   
 ---  
-From: [**Robyn Wright**](http://sweepbook.netfirms.com/)  
+From: [**Jill Rasnake  
+tripstip.com**](http://www.tripstip.com/)  
   
   
 
