@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the dolby.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205070312id_/http%3A//dolby.com/copy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolby.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407235339id_/http%3A//dolby.com/copy.html) for the most accurate reproduction.*
 
 # Dolby Laboratories, Inc. website copyright and privacy guidelines
 
   
 |  | **Information**  
 ---|---  
-|   | [What's New](https://web.archive.org/new/)  
+|   | [Dolby Knowledgebase](http://dolby.custhelp.com/)  
+[What's New](https://web.archive.org/new/)  
 [Statistics](https://web.archive.org/stats/)  
 [Press Releases](https://web.archive.org/press/)  
 [Newsletters](https://web.archive.org/news/)  
@@ -17,22 +18,20 @@
 |   | [General Information](https://web.archive.org/trademark/)  
 [Trademark / Logo Use](https://web.archive.org/trademark/#trademark_logo_use)  
   |    
-| **Developers**  
-|   | [Game Developers](https://web.archive.org/disk/)  
-  |    
-| **Consumer**  
-|   | [Movies & Cinema](https://web.archive.org/movies/)  
+| **For Consumers**  
+|   | [Movies & Cinema](https://web.archive.org/cinema/)  
 [Home Theater](https://web.archive.org/ht/)  
-[Multimedia](https://web.archive.org/multi/)  
 [DVD](https://web.archive.org/dvd/)  
 [Cassettes](https://web.archive.org/cassette/)  
 [Merchandise](https://web.archive.org/dstore/)  
   |    
-| **Products**  
-|   | [Cinema](https://web.archive.org/cinema/)  
-[Professional](https://web.archive.org/pro/)  
-[TV Audio for](https://web.archive.org/tvaudio/)  
-[Professionals](https://web.archive.org/tvaudio/)  
+| **For Professionals**  
+|   | [Motion Picture](https://web.archive.org/cinema/)  
+[Professional Audio](https://web.archive.org/pro/)  
+[TV Audio](https://web.archive.org/tvaudio/)  
+  |    
+| **For Developers**  
+|   | [Game Developers](https://web.archive.org/disk/)  
   |    
 | **Company**  
 |   | [About Dolby](https://web.archive.org/company/)  
@@ -41,9 +40,9 @@
 [Dolby Store](https://web.archive.org/dstore/)  
   |    
 |   | [](https://web.archive.org/jp/)  
-[Français](https://web.archive.org/foreign/indexfr.html)  
-[Deutsch](https://web.archive.org/foreign/indexger.html)  
-[Español](https://web.archive.org/foreign/indexspa.html)  
+[Français](https://web.archive.org/international/francais/)  
+[Deutsch](https://web.archive.org/international/deutsch/)  
+[Español](https://web.archive.org/international/espanol/)  
   
 
 
