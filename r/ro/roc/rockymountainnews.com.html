@@ -1,262 +1,563 @@
-<!--The following is the downloaded HTML source of the rockymountainnews.com privacy policy that was archived on 2000-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001203093900id_/http%3A//www.rockymountainnews.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockymountainnews.com privacy policy that was archived on 2001-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604093444id_/http%3A//www.rockymountainnews.com/drmn/home/article/1%2C1299%2CDRMN_1_3162%2C00.html) for the most accurate reproduction.-->
 
 <html><head>
+		<title>Rocky Mountain News</title>
 
-<title>Privacy policy</title>
+		<meta http-equiv="Refresh" content="1800">
+		<meta http-equiv="Expire" content="now">
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-</head>
+		<link rel="stylesheet" href="/drmn/cda/styles/mainCSS">
+		<script language="JavaScript">
+
+function popup(url,w,h,menu) {
+	x = Math.floor((screen.width - w) / 2);
+	y = Math.floor((screen.height - h) / 2);        
+	now = new Date();
+	features = "screenx="+x+",screeny="+y+",left="+x+",top="+y+",width="+w+",height="+h+",location=no,resizable=no"+",directories=no,status=no";
+
+	if (menu != null) {
+		features += ",menubar=yes,toolbar=yes,scrollbars=yes";
+	} else {
+		features += ",menubar=no,toolbar=no,scrollbars=no"; 
+	}
+	window.open(url,"newwin",features);
+}
+
+
+function MM_reloadPage(init) {  
+  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {
+    if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+     document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; 
+    }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
+    location.reload();
+}
+
+// for Netscape thisdomain = www.scripps.com
+// for other browser thisdomain = scripps.com
+
+thisdomain = document.location + "";
+thisdomain = thisdomain.substring(thisdomain.indexOf('//')+2,thisdomain.length);
+thisdomain = thisdomain.substring(0,thisdomain.indexOf('/'));
+thisdomain = (navigator.appName != "Netscape")? thisdomain.substring(thisdomain.indexOf('.')+1,thisdomain.length): thisdomain;
 
 
 
-<body background="/art/backgrounds/background.gif" link="#000066" vlink="#000066" alink="#ffffff">
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf(';',offset);
+	if (endstr == -1) {
+		endstr = document.cookie.length;
+	}
+	return unescape(document.cookie.substring(offset,endstr))
+}
 
-<table cellpadding="0" cellspacing="0" width="594" border="0">
+
+function SetCookie (name, value, expires, path, domain, secure) {
+	document.cookie = name + "=" + escape (value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+} 
+
+
+function GetCookie (name) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+
+	while (i < clen) {
+		var j = i + alen;
+		if (document.cookie.substring(i,j) == arg) {
+			return getCookieVal(j);
+		}
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i==0) break;
+	}
+	return null;  
+}
+
+
+function DeleteCookie (name, path, domain) {
+   if (GetCookie(name)) {
+    document.cookie = name + "=" + ((path) ? "; path=" + path : "") +  ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+   }
+}
+
+
+function FixCookieDate (date) { 
+	var base = new Date(0); 
+	var skew = base.getTime();
+	if(skew > 0)
+		date.setTime (date.getTime() - skew);     
+}
+
+
+function vod (url,streamtitle,customfeatures) {
+	windowFeatures = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=210,height=480';
+
+	//Browser Detection
+	var browser = "";
+	var browsername = navigator.appName;
+	var browserversion = parseInt(navigator.appVersion);
+	var browserplatform = navigator.userAgent;
+	if (browsername == "Netscape") {
+		browser = "ns" + browserversion;
+	} else {
+		if (browsername == "Microsoft Internet Explorer") {
+			if (browserversion >= 4) {
+				browser = "ie" + browserversion;
+			} else {
+				browser = "ie3";
+			}
+		}
+	}
+
+	if ((customfeatures) && customfeatures != '') {
+		windowFeatures = customfeatures;
+	}
+
+	if (url.indexOf(".rm",(url.length-10)) != -1) {
+		if (browser != 'ie3') {
+			hasplugin = 'false';
+			// Mac Browser (Not Netscape)
+			if ( (browserplatform.indexOf('Mac') !=-1) && ( browsername != "Netscape")) {
+				numPlugins = 0;
+				// Real Strange never goes into the followinf loop
+				// because numPlugins is 0
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.embeds[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			} else {
+				numPlugins = navigator.plugins.length;
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.plugins[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			}
+			if (browser.substring(0,2) == 'ie') {
+				hasplugin = 'true';
+			}
+			if (hasplugin == 'true') {
+				videoWin = window.open (url , 'video', windowFeatures);
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+				videoWin.document.close();              
+			} else {
+				stream = url.substring(0,(url.length-5));
+				location.href=stream + '.ram';
+			}
+		} else {
+			videoWin = window.open (url , 'video', windowFeatures);
+			if (document.images) {
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+			}
+			videoWin.document.close();                      
+		}               
+	} else {
+		videoWin = window.open (url , 'video', windowFeatures);
+		if (document.images) {
+			if (streamtitle != '') {
+				videoWin.streamtitle=streamtitle;
+			}
+		}
+		videoWin.document.close();
+	}
+}
+</script>
+
+
+		<script type="text/javascript">
+		<!--
+		// Prevent others from including this site
+		var preview = 'no'
+		if (preview != 'yes') {
+			if (top != self) {
+				top.location = location;
+			}
+		}
+
+		MM_reloadPage(true);
+
+		if (GetCookie('cookieChk') == null) { 
+			var expdate = new Date ();
+
+			// Correct for Mac date bug - call only once for given Date object!
+			FixCookieDate (expdate); 
+
+			// expires 30 days from now
+			expdate.setTime (expdate.getTime() + (30 * 24 * 60 * 60 * 1000)); 
+			SetCookie ('cookieChk', 'OK', expdate, '/', thisdomain, null);
+		}
+		// -->
+		</script>
+		</head><body bgcolor="#FFFFFF" link="#666699" vlink="#666699" alink="#666699">
+<table width="760" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td colspan="5" width="594">
+<td width="610" valign="top">
+	
+		
+		 
+	 	
+		<!-- Vignette V/5 Fri May 11 09:34:56 2001 -->
 
-
-
-<table cellpadding="0" cellspacing="0" border="0" width="594">
-
-                <tbody><tr>
-
-                        <td align="left"><a href="/"><img border="0" height="84" src="/art/top/top5.gif" width="440"></a></td>
-
-                        <td align="right"><form action="http://cfapps.insidedenver.com/keyword.cfm" method="post"><font face="ms sans serif, arial, helvetica" size="1"><b>Keyword Navigation:</b><br>
-
-			<input name="Word" size="10"><input type="submit" value="Go!"><br>
-
-			<a href="http://cfapps.insidedenver.com/keywordlist.cfm">Click</a> for a list of keywords</font></form>
-
+ <!--DelfFrmt(HEADER) Header(::com.scripps::drmn::cda::header::getHeaderHTML DRMN 485 HEADER no 1)-->
+  
+		<!---------------------BEGIN TABLE FOR VERTICAL TABS------------------ --> 
+		<table width="600" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td bgcolor="#666699" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.post-newsclassified.com" class="navbartext">Classifieds</a></td><td bgcolor="#666699" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="20" height="15" border="0"></td><td bgcolor="#666699" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.cars.com/carsapp/denver/?szc=80202&amp;srv=adlocator&amp;act=populate&amp;ft=1&amp;tf=quick_usedforsale-default.tmpl&amp;page=used&amp;rn=7&amp;zc=80202&amp;rd=30" class="navbartext">Autos</a></td><td bgcolor="#666699" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="20" height="15" border="0"></td><td bgcolor="#666699" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.employmentwizard.com/default.cfm?pid=46" class="navbartext">Careers</a></td><td bgcolor="#666699" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="20" height="15" border="0"></td><td bgcolor="#666699" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://homes.rockymountainnews.com/" class="navbartext">Homes</a><!-- MaxSize (4) --></td>
+			<td bgcolor="#666699" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider_end.gif" width="16" height="15" border="0"></td>
+			<td width="299" height="14" bgcolor="#FFFFFF"><img src="/drmn/images/spacers/spacer.gif" width="1" height="1"></td>
+		</tr>
+		<tr>
+			<td width="299" height="1" bgcolor="#666699"><img src="/drmn/images/spacers/spacer.gif" width="1" height="1"></td>
+		</tr>
+		</tbody></table>
+		<!-- ------------------END TABLE FOR VERTICAL TABS------------------ -->
+		<!-- ------------------ BEGIN TABLE FOR HEADER GRAPHIC AND SEARCH AREA ------------------ -->
+		<table width="600" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td bgcolor="#000033" width="470" rowspan="3"><img src="/drmn/images/headers/masthead_main.gif" border="0" alt="ART"></td>
+			<td bgcolor="#666699" width=""><img src="/drmn/images/headers/search_topper.gif" width="125" height="16" border="0"></td>
+		    <td bgcolor="#000033" width="5" rowspan="3"><img src="/drmn/images/spacers/spacer.gif" width="1" height="1"></td>
+		</tr>
+		<tr>
+			<td bgcolor="#666699" width="" height="56" valign="bottom">
+				<!-- -------------SITE SEARCH TABLE GOES HERE---------------- -->
+				
+			<table border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<form method="post" name="CDASearchForm" action="/drmn/search/1,1338,DRMN_1,00.html"></form>
+					<td class="navbartext">
+						Search site for:	
+							<input type="text" size="11" name="SearchString" value="">
+							<input type="hidden" name="Site" value="DRMN">
+							<input type="image" alt="Go!" align="absmiddle" src="/drmn/images/nav/go_search.gif" border="0" name="GoSearch"></td>
+					
+				</tr>
+			</tbody></table>
+				<!-- -------------END SITE SEARCH TABLE ---------------- -->
 			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#666699" width=""><img src="/drmn/images/headers/search_bottom.gif" width="125" height="20"></td>
+		</tr>
+		</tbody></table>
+		<!-- ------------------ END TABLE FOR HEADER GRAPHIC AND SEARCH AREA ------------------ -->
+		<!-- ------------------ BEGIN TABLE FOR HORIZONTAL SITE NAV ------------------ -->
+		<table width="600" border="0" cellspacing="0" cellpadding="0" height="18">
+		<tbody><tr bgcolor="#000033">
+			<td><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/home/0,1299,DRMN_1,00.html" class="navbartext">Home</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/news/0,1299,DRMN_3,00.html" class="navbartext">News</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/sports/0,1299,DRMN_2,00.html" class="navbartext">Sports</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/business/0,1299,DRMN_4,00.html" class="navbartext">Business</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/entertainment/0,1299,DRMN_6,00.html" class="navbartext">Entertainment</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/recreation/0,1299,DRMN_7,00.html" class="navbartext">Recreation</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/living/0,1299,DRMN_5,00.html" class="navbartext">Living</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/community/0,1299,DRMN_8,00.html" class="navbartext">Community</a><!-- MaxSize (8) --></td>
+		</tr>
+		</tbody></table>
+		<!-- ------------------ END TABLE FOR HORIZONTAL SITE NAV ------------------ --><!-- MaxSize (3) -->   <!-----------------------BEGIN TABLE FOR MAIN CONTENT AREA--------------------->
+    <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td width="5" bgcolor="#000033">&nbsp;</td>
+					
+        <!-- BEGIN CELL FOR LEFT SIDE CONTENT-->
+    				
+        <td width="145" valign="top" bgcolor="#E6E6E6"> 
+            <center>
+    		<img src="/drmn/images/spacers/spacer.gif" width="1" height="10"><br> <!-- Vignette V/5 Mon Jun 04 04:09:02 2001 -->
 
-                </tr>
-
-        </tbody></table>
-
-</td>
-
-</tr>
-
-
-
-<tr>
-<td width="126" valign="top" rowspan="4" align="left">
-<font face="ms sans serif" size="1"><b>
-<a href="/news"><img alt="News" border="0" height="27" src="/art/navigation/off-01.gif" width="91"></a><br>
-<a href="/business"><img alt="Business" border="0" height="27" src="/art/navigation/off-02.gif" width="91"></a><br>
-<a href="/sports"><img alt="Sports" border="0" height="27" src="/art/navigation/off-03.gif" width="91"></a><br>
-<a href="/recreation/"><img alt="Recreation" border="0" height="27" src="/art/navigation/off-04.gif" width="91"></a><br>
-<a href="http://cfapps.insidedenver.com/goingout"><img alt="Entertainment" border="0" height="27" src="/art/navigation/off-05.gif" width="91"></a><br>
-<a href="/living/"><img alt="Living" border="0" height="27" src="/art/navigation/off-06.gif" width="91"></a><br>
-<a href="/autos"><img alt="Autos" border="0" height="27" src="/art/navigation/off-08.gif" width="91"></a><br>
-<a href="/careers"><img alt="Careers" border="0" height="27" src="/art/navigation/off-09.gif" width="91"></a><br>
-<a href="/homes"><img alt="Homes" border="0" height="27" src="/art/navigation/off-10.gif" width="91"></a><br>
-<a href="/classified"><img alt="Classified" border="0" height="27" src="/art/navigation/off-07.gif" width="91"></a><br>
-      <img alt="" height="1" src="/art/column.gif" width="106">
-      </b></font>
-
-
-
-<iframe width="120" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" bordercolor="ffffff" src="http://adcenter.scripps.com/html.ng/site=DEN&amp;size=120x90&amp;sitesection=front&amp;pagepos=2">
-
-	     <SCRIPT LANGUAGE="JavaScript1.1" SRC="http://adcenter.scripps.com/js.ng/Params.richmedia=yes&site=DEN&size=120x90&sitesection=front&pagepos=2"> 
-
-	     </SCRIPT> 
-
-	     <NOSCRIPT> 
-
-<A HREF="http://adcenter.scripps.com/click.ng/Params.richmedia=yes&site=DEN&size=120x90&sitesection=front&pagepos=2"><IMG SRC="http://adcenter.scripps.com/image.ng/Params.richmedia=yes&site=DEN&size=120x90&sitesection=front&pagepos=2" border="0" width=120 height=90></A> 
-
-	     </NOSCRIPT> 
-
-</iframe><br>
-<img src="/art/column.gif" width="10" height="8" alt=""><br>
-
-<!-- /AdSpace -->
-
-<!-- RealCitiesAdSpace --> 
-<a href="http://ads.realcities.com/click.ng/site=denver&amp;size=120x60&amp;cat=home&amp;vendor=rockymtn&amp;pos=posa">
-<img src="http://ads.realcities.com/image.ng/site=denver&amp;size=120x60&amp;cat=home&amp;vendor=rockymtn&amp;pos=posa" width="120" height="60" border="0"></a><br>
-<img src="/art/column.gif" width="10" height="8" alt=""><br>
-
-<!-- /RealCitiesAdSpace --> 
-
-<!-- AdSpace --> 
-
-<iframe width="120" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" bordercolor="ffffff" src="http://adcenter.scripps.com/html.ng/site=DEN&amp;size=120x90&amp;sitesection=front&amp;pagepos=3">
-
-	     <SCRIPT LANGUAGE="JavaScript1.1" SRC="http://adcenter.scripps.com/js.ng/Params.richmedia=yes&site=DEN&size=120x90&sitesection=front&pagepos=3"> 
-
-	     </SCRIPT> 
-
-	     <NOSCRIPT> 
-
-<A HREF="http://adcenter.scripps.com/click.ng/Params.richmedia=yes&site=DEN&size=120x90&sitesection=front&pagepos=3"><IMG SRC="http://adcenter.scripps.com/image.ng/Params.richmedia=yes&site=DEN&size=120x90&sitesection=front&pagepos=3" border="0" width=120 height=90></A> 
-
-	     </NOSCRIPT> 
-
-</iframe>
+  <table width="130" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td>
+			<table width="130" border="0" cellspacing="2" cellpadding="0" align="center">
+			<tbody><tr>
+				<td class="sectionheader"><a href="/drmn/news/0,1299,DRMN_3,00.html" class="sectionheader">NEWS</a><br></td>
+			</tr>
+			</tbody></table>
+			<!--DelvFrmt (LNB_SUBSECTIONS)-->
+			<table width="130" border="0" cellspacing="0" cellpadding="0" align="center">
+		
+			<tbody><tr>
+				<td width="5" valign="top"><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="125"><a href="/drmn/local/0,1299,DRMN_15,00.html" class="subnavtext">Local</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="125"><a href="/drmn/state/0,1299,DRMN_21,00.html" class="subnavtext">State</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="125"><a href="/drmn/nation/0,1299,DRMN_16,00.html" class="subnavtext">Nation</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="125"><a href="/drmn/world/0,1299,DRMN_32,00.html" class="subnavtext">World</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="125"><a href="/drmn/politics/0,1299,DRMN_35,00.html" class="subnavtext">Politics</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="125"><a href="/drmn/opinion/0,1299,DRMN_38,00.html" class="subnavtext">Opinion</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="125"><a href="/drmn/news_columnists/0,1299,DRMN_86,00.html" class="subnavtext">Columnists</a></td>
+			</tr>
+			</tbody></table><hr size="1" width="130" noshade="" align="center">
+			<table width="130" border="0" cellspacing="0" cellpadding="3" align="center">
+			<tbody><tr>
+				<td valign="top">
+					<span class="bodytext"><b>Previous News</b></span><br>
+					<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/drmn/archive/0,1299,DRMN_3_06-01-2001,00.html" class="lnbarchive">Friday, Jun 1</a><br><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/drmn/archive/0,1299,DRMN_3_05-31-2001,00.html" class="lnbarchive">Thursday, May 31</a><br><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/drmn/archive/0,1299,DRMN_3_05-30-2001,00.html" class="lnbarchive">Wednesday, May 30</a><br><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/drmn/archive/0,1299,DRMN_3_05-29-2001,00.html" class="lnbarchive">Tuesday, May 29</a><br><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/drmn/archive/0,1299,DRMN_3_05-28-2001,00.html" class="lnbarchive">Monday, May 28</a><br>
+				</td>
+			</tr>
+			</tbody></table><hr size="1" width="130" noshade="" align="center"><table width="130" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td>
+            <table border="0" cellspacing="0" cellpadding="2"><tbody><tr><td class="smalltext"><center><a href="http://www.rockymountainnews.com/drmn/talkback/">
+<img src="http://denver.rockymountainnews.com/art/opinion/talkback.gif" border="0" hspace="4" vspace="2" width="125" height="48"></a></center>Sooner or later, everyone has something to say about the news media. Share your thoughts in <b><a style="text-decoration:none" href="http://www.rockymountainnews.com/drmn/talkback/"><b>Talk Back</b></a>.
+</b></td></tr></tbody></table><br>
+		   
+            <table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td bgcolor="#e6e6e6" class="smalltext">
+<font face="verdana,arial,helvetica" size="2"><b>Denver Square</b><br> </font>
+<img src="http://denver.rockymountainnews.com/art/dsthm.gif" height="37" width="35" hspace="4" vspace="2" align="right">
+See Colorado life through the pen of <i>News</i> editorial cartoonist Ed Stein.
+<br>
+<a href="http://denver.rockymountainnews.com/comics/ds.shtml" style="text-decoration: none"><b>Click here</b></a>.
 <p>
 
-<!-- /AdSpace -->
 
+<font face="verdana,arial,helvetica" size="2">
+<!--a href='http://rockymountainnews.com/drmn/news/article/1,1299,DRMN_3_5661,00.html' style='text-decoration: none'--><b>Special reports</b><!--/a--><br> </font>
 
+Extensive coverage of the news lets you dig deeper into the issues that affect you.
+<br>
 
+<a href="http://rockymountainnews.com/drmn/news/article/1,1299,DRMN_3_5661,00.html" style="text-decoration: none"><b>Click here</b></a>.
+</p><p>
 
-<!-- AdSpace 
+<font face="verdana,arial,helvetica" size="2">
+<!--a href='http://denver.rockymountainnews.com/multimedia/' style='text-decoration: none'--><b>Multimedia</b><!--/a--><br> </font>
 
-<IFRAME width="120" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" bordercolor="ffffff" src="http://adcenter.scripps.com/html.ng/site=DEN&amp;size=120x90&amp;sitesection=front&amp;pagepos=4">
+Don't just read the News. Watch, listen and immerse yourself in the action. 
+<br>
 
-	     <SCRIPT LANGUAGE="JavaScript1.1" SRC="http://adcenter.scripps.com/js.ng/Params.richmedia=yes&site=DEN&size=120x90&sitesection=front&pagepos=4"> 
+<a href="http://denver.rockymountainnews.com/multimedia/" style="text-decoration: none"><b>Click here</b></a>. 
+</p><p>
+<font face="verdana,arial,helvetica" size="2">
+<b>E-newsletters</b> </font><br>
 
-	     </SCRIPT> 
+<a class="deeplinks" href="http://www.rockymountainnews.com/cr/cda/subscribe_eNews?Site=DRMN" target="window" onclick=" window.open('','window','width=450,height=650,scrollbars=auto,resizable=auto');"><img src="http://denver.rockymountainnews.com/art/icons/enews.gif" width="50" height="28" alt="" border="0" align="right" hspace="2"></a>
 
-	     <NOSCRIPT> 
+Sign up for daily e-News updates and receive the latest local news. <br>
+<a class="deeplinks" href="http://www.rockymountainnews.com/cr/cda/subscribe_eNews?Site=DRMN" target="window" onclick=" window.open('','window','width=450,height=650,scrollbars=auto,resizable=auto');"><b>Click here</b></a>.
 
-<A HREF="http://adcenter.scripps.com/click.ng/Params.richmedia=yes&site=DEN&size=120x90&sitesection=front&pagepos=4"><IMG SRC="http://adcenter.scripps.com/image.ng/Params.richmedia=yes&site=DEN&size=120x90&sitesection=front&pagepos=4" border="0" width=120 height=90></A> 
+</p></td></tr></tbody></table><br>
 
-	     </NOSCRIPT> 
-
-</IFRAME>
-
-<P>
---> 
-<img border="0" src="/art/navigation/quickfacts2.gif" usemap="#proservicemap"> 
-<map name="proservicemap">
-<area shape="RECT" coords="coords=&quot;0,95,119,115&quot;" href="/quickfacts/financial.shtml" alt="Financial Services">
-<area shape="RECT" coords="0,60,119,95" href="/quickfacts/homeimprovement.shtml" alt="Home Improvement">
-<area shape="RECT" coords="0,40,119,60" href="/quickfacts/legal.shtml" alt="Legal Services">
-<area shape="RECT" coords="0,20,119,40" href="/quickfacts/health.shtml" alt="Health Services">
-</map></p></td>
-
-	<td width="6" rowspan="2"><img alt="" height="1" src="/art/column.gif" width="6"><p></p></td>
-
-		<td valign="top" align="center" width="468" colspan="4">
-
-		<img src="/art/column.gif" width="468" height="10" alt=""><br clear="all">
-
-
-
-<!-- AdSpace --> 
-
-<iframe width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" bordercolor="ffffff" src="http://adcenter.scripps.com/html.ng/site=DEN&amp;size=468x60&amp;sitesection=front&amp;pagepos=1">
-
-<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://adcenter.scripps.com/js.ng/Params.richmedia=yes&site=DEN&size=468x60&sitesection=front&pagepos=1"> 
-
-	     </SCRIPT> 
-
-	     <NOSCRIPT> 
-
-<A HREF="http://adcenter.scripps.com/click.ng/Params.richmedia=yes&site=DEN&size=468x60&sitesection=front&pagepos=1"><IMG SRC="http://adcenter.scripps.com/image.ng/Params.richmedia=yes&site=DEN&size=468x60&sitesection=front&pagepos=1" border="0" width=468 height=60></A> 
-
-	     </NOSCRIPT> 
-
-</iframe><br clear="all">
-
-<!-- AdSpace -->
-
-
-
-
-			<img alt="" height="6" src="/art/column.gif" width="468"><br clear="all"></td></tr>
-
-
-
-<tr>
-
-      
-
-
-
-<td colspan="3" bgcolor="ffffff">
-
-
-
-<!-- BEGIN CONTENT -->
-
-<font size="3"><b><p align="CENTER"><b>RockyMountainNews.com</b> Privacy Policy</p></b><p>&nbsp;</p><p><b>RockyMountainNews.com</b> is committed to protecting consumer privacy online.  We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities.  At <b>RockyMountainNews.com</b> we intend to give you as much control as possible over your personal information.</p><p>	The purpose of our policy is to inform you about the types of information we gather about you when you visit our sites, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.</p><p>	Our sites may contain links to other web sites, including web sites directed to children.  We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites.  You should check the applicable privacy policy of the web site sponsor when linking to other web sites.</p><p align="CENTER"><b>I.	Information Which We Collect</b></p><p>	We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games.  If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information.</p><p>	Like many other commercial sites, our sites may utilize a standard technology called a "cookie" to collect information about how our site is used.  Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site.  <b>A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address.</b>  Our web sites may use cookies to enhance your visit.  Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart."  Our cookies may collect your domain name and track your selections through our web pages.  We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.</p><p>	We also use cookies in connection with our chat rooms in order to record your preferences.  These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms.  No additional identifying information is stored on these cookies.  You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site.</p><p>	We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site.  For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features.  We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. </p><p>	In addition, users may complete a subscription form online in order to subscribe to the <b>Rocky Mountain News</b>.  To subscribe, users must submit personal information in order for us to send the newspaper to you.  </p><p align="CENTER"><b>II.	Use of User Information</b></p><p>	We may perform statistical analyses of aggregate user behavior.  This allows us to measure relative consumer interest in the various areas of our web sites for product development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our sites, to customize the content and/or layout of our pages, and to provide the services required by an individual user.  We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested.  We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail.  There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent</p><p align="CENTER"><b>III.	Disclosure to Third Parties</b></p><p>	We do not share personal identifying information with any third party without your permission.  We disclose <i>only in aggregate form</i> our statistical analyses or demographics of users to third parties, such as advertisers or other business partners.  In some instances, we operate shared web sites with businesses affiliated with us.  Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.</p><p align="CENTER"><b>IV.	Accuracy of User Information</b></p><p>	In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time.  Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to <b>talktous@RockyMountainNews.com</b>, or you can reach us by telephone at <b>1-303-892-2451</b>.  You can also write us at:</p><font size="+1"><b>RockyMountainNews.com<br>400 West Colfax<br>Denver, CO 80204<br></b></font><p>	These privacy policies are effective as of August 5, 1998.  We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.</p><p align="CENTER"><b>V.	Security of Information</b></p><p>	We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it.</p><p align="CENTER"><b>VI.	Opting-out</b></p><p>	At any time while assessing our site(s), any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our sites).  For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above. </p><p align="CENTER"><b>VII.	Use of Materials</b></p><p>The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited.  Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at <b>talktous@RockyMountainNews.com</b>.  To link to the full Terms of Use Agreement pertaining to use of our <b>site(s)</b>, please <a href="user.shtml"><b>click here</b></a>.</p></font><p><font size="3"></font>
-
-<!-- BOTTOM TEMPLATE -->
-
-
-
-
-        <!-- END COPY -->
-
-        </p></td>
-
-</tr>
-
-<tr>
-	<td colspan="4" align="centerWIDTH=468">
-		<img src="http://InsideDenver.com/art/column.gif" width="468" height="6" alt=""><br clear="all">
-		<nobr><!-- AdSpace --> 
-		<!-- AdSpace --></nobr><br clear="all">
-		<img src="http://InsideDenver.com/art/column.gif" width="468" height="8" alt=""><br clear="all">
-</td>
-</tr>
-
-
-
-<tr>
-        <td width="20">&nbsp;</td>
-	<td align="left" width="448" colspan="3">
-		<table border="0" width="448" cellpadding="0" cellspacing="0">
-                        <tbody><tr>
-                                <td width="448" colspan="7"><img src="http://www.rockymountainnews.com/art/options.gif" width="167" height="19" alt="More options..."></td>
-                        </tr>
-                        <tr>
-                                <td valign="top" align="left" width="55"><img src="http://www.rockymountainnews.com/art/column.gif" width="55" height="4" alt=""><br><font face="ms sans serif,arial,helvetica" size="1"><a href="http://www.rockymountainnews.com/news/"><b>News</b></a><br><a href="http://www.rockymountainnews.com/weather/">Weather</a><br><a href="http://cfapps.insidedenver.com/opinion/">Opinion</a><br><a href="http://www.rockymountainnews.com/nation/">Nation</a><br><a href="http://www.rockymountainnews.com/world/">World</a><br><a href="http://www.rockymountainnews.com/science/">Sci/Tech</a><br><a href="http://www.rockymountainnews.com/obituaries/">Deaths</a><br></font></td>
-                                <td valign="top" align="left" width="64"><img src="http://www.rockymountainnews.com/art/column.gif" width="64" height="4" alt=""><br><font face="ms sans serif,arial,helvetica" size="1"><a href="http://www.rockymountainnews.com/business/"><b>Business</b></a><br><a href="http://www.cnetinvestor.com/denver/">Stocks</a><br>
-<a href="http://www.banx.com/denver/">Bank Rates</a><br></font></td>
-                                <td valign="top" align="left" width="64"><img src="http://www.rockymountainnews.com/art/column.gif" width="64" height="4" alt=""><br><font face="ms sans serif,arial,helvetica" size="1"><a href="http://www.rockymountainnews.com/sports/"><b>Sports</b></a><br><a href="http://www.rockymountainnews.com/broncos/">Broncos</a><br><a href="http://www.rockymountainnews.com/avalanche/">Avalanche</a><br><a href="http://www.rockymountainnews.com/nuggets/">Nuggets</a><br><a href="http://www.rockymountainnews.com/rockies/">Rockies</a><br><a href="http://www.rockymountainnews.com/college/">College</a><br><a href="http://www.rockymountainnews.com/rockypreps/">RockyPreps</a><br></font></td>
-                                <td valign="top" align="left" width="68"><img src="http://www.rockymountainnews.com/art/column.gif" width="68" height="4" alt=""><br><font face="ms sans serif,arial,helvetica" size="1"><a href="http://www.rockymountainnews.com/recreation/"><b>Recreation</b></a><br><a href="http://cfapp.rockymountainnews.com/highcountry/conditions.cfm">Snow Rept.</a><br><a href="http://cfapps.insidedenver.com/backcountry/">Hiking</a><br><a href="http://www.rockymountainnews.com/biking/">Biking</a><br><a href="http://cfapps.insidedenver.com/fishing/">Fishing</a><br><a href="http://www.rockymountainnews.com/golf/">Golf</a><br><a href="http://www.rockymountainnews.com/events/">Calendar</a><br><a href="http://www.rockymountainnews.com/dentry/">Dentry</a><br></font></td>
-                                <td valign="top" align="left" width="84"><img src="http://www.rockymountainnews.com/art/column.gif" width="84" height="4" alt=""><br><font face="ms sans serif,arial,helvetica" size="1"><a href="http://cfapps.insidedenver.com/goingout/"><b>Entertainment</b></a><br><a href="http://cfapps.insidedenver.com/goingout/movies.cfm">Movies</a><br><a href="http://cfapps.insidedenver.com/goingout/dining.cfm">Dining</a><br><a href="http://cfapps.insidedenver.com/goingout/music.cfm">Music</a><br><a href="http://cfapps.insidedenver.com/goingout/onstage.cfm">On Stage</a><br><a href="http://cfapps.insidedenver.com/books/">Books</a><br><a href="http://tvlistings.zap2it.com/partners/index.asp?partner_id=rmn">TV</a><br></font></td>
-                        	
-
-<td valign="top" align="left" width="54"><img src="http://www.rockymountainnews.com/art/column.gif" width="54" height="4" alt=""><br><font face="ms sans serif,arial,helvetica" size="1"><a href="http://www.rockymountainnews.com/living/"><b>Living</b></a><br>
-<a href="http://www.rockymountainnews.com/comics/">Comics</a><br>
-<a href="http://www.rockymountainnews.com/health/">Health</a><br>
-<a href="http://www.rockymountainnews.com/food/">Food</a><br>
-<a href="http://www.rockymountainnews.com/garden/">Home &amp; Garden</a><br>
-<a href="http://www.rockymountainnews.com/family/">Family</a><br>
-<a href="http://www.rockymountainnews.com/travel/">Travel</a><br>
-<a href="http://cfapps.insidedenver.com/cookbook/">Cookbook</a><br>
-<a href="http://www.babyannounce.com">Births</a><br>
-<a href="http://www.weddingannounce.com">Weddings</a><br>
-<a href="http://www.rockymountainnews.com/games/">Crossword</a><br></font></td>
-
-
-                                <td valign="top" align="left" width="64"><img src="http://www.rockymountainnews.com/art/column.gif" width="64" height="4" alt=""><br><font face="ms sans serif,arial,helvetica" size="1"><a href="http://www.rockymountainnews.com/classified/"><b>Classified</b></a><br><a href="http://www.rockymountainnews.com/classified/ad.shtml">Place an ad</a><br><a href="http://autos.rockymountainnews.com/">Auto</a><br><a href="http://careers.rockymountainnews.com">Careers</a><br><a href="http://homes.rockymountainnews.com">Homes</a><br></font></td>
-                        </tr><tr>
-                                <td colspan="7"><hr></td>
-                        </tr>
-                        <tr>
-                                <td align="left" colspan="3"><a href="http://www.scripps.com"><img src="http://www.rockymountainnews.com/art/scripps.gif" width="26" height="25" alt="The E.W. Scripps Co." border="0"></a><br>
-<font face="ms sans serif, arial" size="1"><a href="http://www.rockymountainnews.com/user.shtml">User Agreement</a> / <a href="http://www.rockymountainnews.com/privacy.shtml">Privacy Statement</a><br></font> </td>
-                                <td align="right" colspan="4"><font face="ms sans serif, arial" size="1">© Copyright, Denver Publishing Co.<br><a href="http://www.rockymountainnews.com/aboutus/subscribe.cfm">Subscribe</a> to the <b>News</b><br>Questions? Comments? <a href="http://www.rockymountainnews.com/aboutus/contactus.shtml">Talk to Us</a><br></font></td>
-                        </tr>
-                </tbody></table>
+		   <!-- MaxSize (2) --></td></tr></tbody></table><!-- MaxSize (3) --></td></tr></tbody></table>  </center>
         </td>
-</tr>
+    	 <!-- ------------------------ END OF CELL FOR LEFT SIDE CONTENT------------------------------ -->
 
-<tr>
-<td width="126"><img src="http://www.rockymountainnews.com/art/column.gif" width="126" height="1" alt=""></td>
-<td width="20"><img src="http://www.rockymountainnews.com/art/column.gif" width="20" height="1" alt=""></td>
-<td width="313"><img src="http://www.rockymountainnews.com/art/column.gif" width="313" height="1" alt=""></td>
-<td width="20"><img src="http://www.rockymountainnews.com/art/column.gif" width="20" height="1" alt=""></td>
-<td width="115"><img src="http://www.rockymountainnews.com/art/column.gif" width="115" height="1" alt=""></td>
-</tr>
-
-
-</tbody></table>
-
-
-
-
+			
+        <td width="5" bgcolor="#000033" valign="top">&nbsp;</td>
+			
         
+        <td width="440" valign="top" bgcolor="#FFFFF9"> 
+            <table width="440" border="0" cellspacing="0" cellpadding="10">
+            <tbody><tr valign="top"> 
+                <td class="bodytext">
+                						    
+                    <!-- Vignette V/5 Wed Apr 04 09:29:12 2001 -->
+
+	<table width="420" border="0" cellspacing="0" cellpadding="0" align="center">
+				         <tbody><tr valign="top"> 
+					      <td class="bodytext">
+				<table width="165" border="0" cellspacing="5" cellpadding="0" align="right">
+					<tbody><tr>
+						<td bgcolor="#000033" width="1"> <img src="/drmn/images/spacer/spacer.gif" width="1" height="1"></td>
+						<td width="20"> <img src="/drmn/images/spacer/spacer.gif" width="1" height="1"></td>
+						<td valign="top" width="140"> 
+							</td>
+						</tr>
+					</tbody></table>
+			<table border="0" cellspacing="0" cellpadding="3">
+				<tbody><tr>
+					<td class="deeplinks"><a href='javascript:popup("/cr/cda/article_print/1,1250,DRMN_1_3162,00.html",700,500,1)' class="deeplinks" onmouseover="self.status=&quot;Print this story&quot;;return true" onmouseout="self.status=&quot;&quot;;return true">PRINT 
+						THIS STORY</a> | <a href='javascript:popup("/cr/cda/email/article/1,1249,DRMN_1_3162,00.html",400,350)' class="deeplinks" onmouseover="self.status=&quot;E-mail this story&quot;;return true" onmouseout="self.status=&quot;&quot;;return true">E-MAIL 
+						THIS STORY</a>
+					</td>
+				</tr>
+			</tbody></table><p class="headline1">RockyMountainNews.com privacy policy</p><span class="bodytext"><b>RockyMountainNews.com</b> is committed to protecting consumer privacy online.  We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities.  At <b>RockyMountainNews.com</b> we intend to give you as much control as possible over your personal information.
+<p>	The purpose of our policy is to inform you about the types of information we gather about you when you visit our sites, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.
+</p><p>	Our sites may contain links to other web sites, including web sites directed to children.  We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites.  You should check the applicable privacy policy of the web site sponsor when linking to other web sites.
+</p><p></p><p align="CENTER"><b>I.	Information Which We Collect</b>
+</p><p>	We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games.  If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information.
+</p><p>	Like many other commercial sites, our sites may utilize a standard technology called a "cookie" to collect information about how our site is used.  Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site.  <b>A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address.</b>  Our web sites may use cookies to enhance your visit.  Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart."  Our cookies may collect your domain name and track your selections through our web pages.  We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.
+</p><p>	We also use cookies in connection with our chat rooms in order to record your preferences.  These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms.  No additional identifying information is stored on these cookies.  You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site.
+</p><p>	We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site.  For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features.  We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. 
+</p><p>	In addition, users may complete a subscription form online in order to subscribe to the <b>Rocky Mountain News</b>.  To subscribe, users must submit personal information in order for us to send the newspaper to you.  
+</p><p></p><p align="CENTER"><b>II.	Use of User Information</b>
+</p><p>	We may perform statistical analyses of aggregate user behavior.  This allows us to measure relative consumer interest in the various areas of our web sites for product development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our sites, to customize the content and/or layout of our pages, and to provide the services required by an individual user.  We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested.  We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail.  There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent
+</p><p></p><p align="CENTER"><b>III.	Disclosure to Third Parties</b>
+</p><p>	We do not share personal identifying information with any third party without your permission.  We disclose <i>only in aggregate form</i> our statistical analyses or demographics of users to third parties, such as advertisers or other business partners.  In some instances, we operate shared web sites with businesses affiliated with us.  Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
+</p><p></p><p align="CENTER"><b>IV.	Accuracy of User Information</b>
+</p><p>	In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time.  Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to <b>talktous@RockyMountainNews.com</b>, or you can reach us by telephone at <b>1-303-892-2451</b>.  You can also write us at:
+</p><p><font size="+1"><b>RockyMountainNews.com<br>400 West Colfax<br>Denver, CO 80204<br></b></font>
+</p><p>	These privacy policies are effective as of August 5, 1998.  We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.
+</p><p></p><p align="CENTER"><b>V.	Security of Information</b>
+</p><p>	We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it.
+</p><p></p><p align="CENTER"><b>VI.	Opting-out</b>
+</p><p>	At any time while assessing our site(s), any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our sites).  For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above. 
+</p><p></p><p align="CENTER"><b>VII.	Use of Materials</b>
+</p><p>
+</p><p>The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited.  Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at <b>talktous@RockyMountainNews.com</b>.  To link to the full Terms of Use Agreement pertaining to use of our <b>site(s)</b>, please <a href="/home/article/1,1299,DRMN_1_3088,00.html"><b>click here</b></a>.
+</p><p></p><p><b>January 10, 2001</b></p></span></td></tr></tbody></table>   </td>
+            </tr>
+            </tbody></table>
+        </td>
+         <td width="5" bgcolor="#000033" valign="top">&nbsp;</td>
+    </tr>
+    </tbody></table>
+    <!-- ----------------------------------END OF TABLE FOR CONTENT AREA------------------------------------ -->
+			     
+    	
+    <!-- ----------------------BEGIN SITE FOOTER LIBRARY ----------------------- -->	 
+        <!-- Vignette V/5 Thu Mar 29 13:16:19 2001 -->
+
+  
+			
+			<!-- ------------------BEGIN SEPARATOR TABLE------------------------- --> 
+			<table width="600" border="0" cellspacing="0" cellpadding="0" height="">
+				<tbody><tr bgcolor="#000033">
+					<td><img src="/drmn/images/spacers/spacer.gif" width="1" height="1" border="0" alt=""></td>
+				</tr>
+			</tbody></table>
+			<!-- ------------------END SEPARATOR TABLE------------------------- -->
+			
+			<table width="600" border="0" cellspacing="0" cellpadding="4" bgcolor="#000033" height="60">
+			<tbody><tr><td valign="top">
+			<!-- AdSpace vgncontent=HOME adsize=115x60 pos.2 -->
+			<iframe width="115" height="60" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=DRMN&amp;vgncontent=HOME&amp;pagetype=article-detail&amp;adsize=115x60&amp;PagePos=2&amp;transactionID=$gmt$">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=DRMN&vgncontent=HOME&pagetype=article-detail&adsize=115x60&PagePos=2&transactionID=$gmt$'>
+			</script>
+			<noscript>
+			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=DRMN&vgncontent=HOME&pagetype=article-detail&adsize=115x60&PagePos=2&transactionID=$gmt$'>
+			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=DRMN&vgncontent=HOME&pagetype=article-detail&adsize=115x60&PagePos=2&transactionID=$gmt$' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace -->
+		</td><td valign="top">
+			<!-- AdSpace vgncontent=HOME adsize=468x60 pos.2 -->
+			<iframe width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=DRMN&amp;vgncontent=HOME&amp;pagetype=article-detail&amp;adsize=468x60&amp;PagePos=2&amp;transactionID=$gmt$">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=DRMN&vgncontent=HOME&pagetype=article-detail&adsize=468x60&PagePos=2&transactionID=$gmt$'>
+			</script>
+			<noscript>
+			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=DRMN&vgncontent=HOME&pagetype=article-detail&adsize=468x60&PagePos=2&transactionID=$gmt$'>
+			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=DRMN&vgncontent=HOME&pagetype=article-detail&adsize=468x60&PagePos=2&transactionID=$gmt$' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace -->
+		</td>
+			</tr>
+			</tbody></table>
+			<!-- ------------------BEGIN SEPARATOR TABLE------------------------- --> 
+			<table width="600" border="0" cellspacing="0" cellpadding="0" height="">
+				<tbody><tr bgcolor="#000033">
+					<td><img src="/drmn/images/spacers/spacer.gif" width="1" height="1" border="0" alt=""></td>
+				</tr>
+			</tbody></table>
+			<!-- ------------------END SEPARATOR TABLE------------------------- -->
+            <!-- ----------------------BEGIN SITE FOOTER COPYRIGHT COMPONENT----------------------- --><table width="600" border="0" cellspacing="0" cellpadding="5"><tbody><tr><td width="545" bgcolor="#000033" align="right" valign="bottom" class="railtext">2001 © The E.W. Scripps Co.<br><b><a href="http://www.rockymountainnews.com/drmn/home/article/1,1299,DRMN_1_3162,00.html" class="navbartext">Privacy Policy</a></b> and<b> <a href="http://www.rockymountainnews.com/drmn/home/article/1,1299,DRMN_1_3088,00.html" class="navbartext">User Agreement</a></b><br>Questions? Comments? <b><a href="http://denver.rockymountainnews.com/aboutus/contactus.shtml" class="navbartext">Talk to Us</a></b>.</td><td width="45" bgcolor="#000033"><a href="http://www.scripps.com/"><img src="/drmn/images/logos/lighthouse.gif" width="40" height="40" align="right" hspace="3" border="0" alt="E.W. Scripps Co."></a></td></tr></tbody></table><!-- ----------------------END SITE FOOTER COPYRIGHT COMPONENT ----------------------- -->
+		   <!-- MaxSize (2) --><!-- LoopCount (2) -->  <!-- ----------------------END SITE FOOTER LIBRARY ----------------------- -->
+    </td>
+
+<!-- ----------------------BEGIN CELL THAT HOLDS RIGHT GUTTER INFO ----------------------- -->
+
+<td width="150" valign="top" class="bodytext">
+    	
+        <img src="/drmn/images/spacers/spacer.gif" width="150" height="99" border="0">
+     <!-- --------------------BEGIN ADVERTISER INDEX--------------- -->					   
+    <!-- Vignette V/5 Mon Jun 04 04:08:02 2001 -->
+
+   
+		<!-- DRMN,3,1705,GUTTER_AD,no,NEWS -->
+		<!-- --------------------BEGIN ADVERTISER INDEX--------------- --> 
+		<table width="150" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/drmn/images/sidebar/extras_header.gif" border="0" alt="Site Extras"></td>
+		</tr>
+		</tbody></table>
+		
+		<table width="150" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="5" bgcolor="#000033">&nbsp;</td>
+			<td width="140" bgcolor="#666699" valign="top">
+				<!-- TABLE FOR ADS AND CATEGORIES -->
+				<table width="120" border="0" cellspacing="4" cellpadding="0" align="center">
+				<!-- Begin Dynamic ads -->
+
+				
+					<tbody><tr>
+						<td vspace="6">
+						
+			<!-- AdSpace vgncontent=NEWS adsize=120x90 pos.1  pagetype=ARTICLE_DETAIL -->
+			<iframe width="120" height="90" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=DRMN&amp;vgncontent=NEWS&amp;pagetype=ARTICLE_DETAIL&amp;adsize=120x90&amp;PagePos=1&amp;transactionID=$gmt$">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=1&transactionID=$gmt$'>
+			</script>
+			<noscript>
+			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=1&transactionID=$gmt$'>
+			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=1&transactionID=$gmt$' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace -->
+		
+						</td>
+					</tr>
+					<tr>
+						<td vspace="6">
+						
+			<!-- AdSpace vgncontent=NEWS adsize=120x90 pos.2  pagetype=ARTICLE_DETAIL -->
+			<iframe width="120" height="90" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=DRMN&amp;vgncontent=NEWS&amp;pagetype=ARTICLE_DETAIL&amp;adsize=120x90&amp;PagePos=2&amp;transactionID=$gmt$">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=2&transactionID=$gmt$'>
+			</script>
+			<noscript>
+			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=2&transactionID=$gmt$'>
+			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=2&transactionID=$gmt$' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace -->
+		
+						</td>
+					</tr>
+
+				<!-- End Dynamic ads -->
+				</tbody></table>
+				<!-- END TABLE FOR ADS AND CATEGORIES -->
+			</td>
+			<td width="5" bgcolor="#000033">&nbsp;</td>
+		</tr>
+		</tbody></table>
+		
+		<table width="150" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/drmn/images/sidebar/extras_footer.gif"></td>
+		</tr>
+		</tbody></table><!-- MaxSize (1) -->  <!-- --------------------END ADVERTISER INDEX--------------- -->
+</td>
+<!-- ---------------------- END CELL THAT HOLDS RIGHT GUTTER INFO ----------------------- -->
+</tr>
+</tbody></table>
+<!-- ------------------END 800 PX TABLE TO HOLD CONTENT AND RIGHT RAIL ITEMS------------------ -->
+
 
 
 </body></html>
