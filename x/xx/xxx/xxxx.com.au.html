@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xxxx.com.au privacy policy that was archived on 2003-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622023017id_/http%3A//www.xxxx.com.au/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xxxx.com.au privacy policy that was archived on 2003-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204082353id_/http%3A//www.xxxx.com.au/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>XXXX</title>
@@ -521,12 +521,14 @@ function OpenConfirmWindow(strURL)
 
 function ContactformSubmit()
 {
+	/*
 	if (frminput.contactType.value == '')
 	{
 		alert("Please select an enquiry type");
 		frminput.contactType.focus();
 		return false;
 	}
+	*/
 	if (frminput.firstname.value == '')
 	{
 		alert("Please enter your first name");
@@ -557,6 +559,7 @@ function ContactformSubmit()
 		frminput.email.focus();
 		return false;
 	}
+	/*
 	if (check_email(frminput.email) == false)
 	{
 		return false;
@@ -574,7 +577,7 @@ function ContactformSubmit()
 		frminput.email_confirm.focus();
 		return false;
 	}
-	
+	*/
 	if (frminput.postcode.value == '')
 	{
 		alert("Please tell us your postcode so we can understand our market better.");
@@ -609,6 +612,7 @@ function ContactformSubmit()
 	OpenConfirmWindow('confirm.asp');
 	return true;
 }
+
 
 function ReferralentryformCheck()
 {
@@ -673,6 +677,12 @@ function Tipping_formSubmit(){
 }
 
 function LaunchOzTips(){
+	//var reminder;
+	//if (document.frminput.reminder.checked == true)
+	//	reminder = 1
+	//else
+	//	reminder = 0;
+		
 	if (!ozWin || !ozWin.open || ozWin.closed)
 		ozWin = window.open('','','width=540,height=390,toolbar=no,scrollbars=yes,resizable=no,menubar=no,status=no,directories=no,location=no')
 	else{
@@ -952,14 +962,10 @@ function LaunchOzTips(){
 				<tbody><tr>
 					<td><img src="/images/menu_lft.gif" alt="" border="0"></td>
 					<td valign="top" align="left"><a href="http://www.xxxx.com.au/home.asp" onmouseover="document.home.src='/images/genBtn_home_over.gif'; showSubnav('Waxoff')" onmouseout="document.home.src='/images/genBtn_home_up.gif'"><img name="home" src="/images/genBtn_home_up.gif" border="0" alt="HOME"></a></td>					
-					<!--<td valign="top" align="left"><a href="http://www.xxxx.com.au/XXXXGold/home.asp" onMouseOver="document.gold.src='/images/xxxx_gold_f2.gif'; showSubnav('Waxoff')" onMouseOut="document.gold.src='/images/xxxx_gold.gif'"><img name="gold" src="/images/xxxx_gold.gif" border="0" alt="XXXX GOLD"></a></td>//-->
-					<!--<td valign="top" align="left"><a href="http://www.xxxx.com.au/Footy/default.asp?CompetitionID=6" onMouseOver="document.rugby.src='/images/genBtn_rugby_over.gif'; showSubnav('rugby')" onMouseOut="document.rugby.src='/images/genBtn_rugby_up.gif'"><img name="rugby" src="/images/genBtn_rugby_up.gif" border="0" alt="RUGBY"></a></td>//-->
-					<td valign="top" align="left"><a href="http://www.xxxx.com.au/Footy/default.asp?CompetitionID=7" onmouseover="document.league.src='/images/genBtn_league_over.gif'; showSubnav('league')" onmouseout="document.league.src='/images/genBtn_league_up.gif'"><img name="league" src="/images/genBtn_league_up.gif" border="0" alt="LEAGUE"></a></td>
-					<td valign="top" align="left"><a href="http://www.xxxx.com.au/SOO/default.asp" onmouseover="document.SOOhome.src='/images/genBtn_soo_over.gif'; showSubnav('SOO')" onmouseout="document.SOOhome.src='/images/genBtn_soo_up.gif'"><img name="SOOhome" src="/images/genBtn_soo_up.gif" border="0" alt="State of Origin HOME"></a></td>
-					<!--<td valign="top" align="left"><a href="http://www.xxxx.com.au/XXXXBitter/home.asp" onMouseOver="document.bitter.src='/images/genBtn_xbitter_over.gif'; showSubnav('Waxoff')" onMouseOut="document.bitter.src='/images/genBtn_xbitter_up.gif'"><img name="bitter" src="/images/genBtn_xbitter_up.gif" border="0" alt="XXXX BITTER"></a></td>//-->
+					
 					<td valign="top" align="left"><a href="http://www.xxxx.com.au/Alehouse/" onmouseover="document.alehouse.src='/images/genBtn_alehouse_over.gif'; showSubnav('Waxoff')" onmouseout="document.alehouse.src='/images/genBtn_alehouse_up.gif'"><img name="alehouse" src="/images/genBtn_alehouse_up.gif" border="0" alt="XXXX ALEHOUSE"></a></td>
 					<td valign="top" align="left"><a href="http://www.xxxx.com.au/profile.asp" onmouseover="document.myprofile.src='/images/genBtn_myprofile_over.gif'; showSubnav('Waxoff')" onmouseout="document.myprofile.src='/images/genBtn_myprofile_up.gif'"><img name="myprofile" src="/images/genBtn_myprofile_up.gif" border="0" alt="MY PROFILE"></a></td>
-					<td valign="top" align="left"><a href="http://www.xxxx.com.au/ContactUs/" onmouseover="document.contactus.src='/images/genBtn_contact_over.gif'; showSubnav('Waxoff')" onmouseout="document.contactus.src='/images/genBtn_contact_up.gif'"><img name="contactus" src="/images/genBtn_contact_up.gif" border="0" alt="CONTACT US"></a></td>
+					
 				</tr>
 			</tbody></table>
 		</td>
@@ -1120,8 +1126,7 @@ function LaunchOzTips(){
 							<td align="center"><!--<FONT FACE="Verdana" size="2" color="#ffffff"> <a href="http://www.xxxx.com.au/home.asp">HOME .</a> 
 								<a href="http://www.xxxx.com.au/XXXXGold/home.asp">XXXX GOLD .</a> <a href="http://www.xxxx.com.au/XXXXBitter/home.asp">XXXX BITTER .</a>
 								<a href="http://www.xxxx.com.au/Footy/default.asp?CompetitionID=7">LEAGUE .</a> <a href="http://www.xxxx.com.au/Footy/default.asp?CompetitionID=6">RUGBY .</a> <a href="http://www.xxxx.com.au/profile.asp">MY PROFILE .</a>
-								<a href="http://www.xxxx.com.au/PrivacyPolicy/">PRIVACY POLICY .</a> <a href="http://www.xxxx.com.au/ContactUs/">CONTACT US </a> </FONT>//-->
-								<font face="Verdana" size="2" color="#ffffff"><a href="http://www.xxxx.com.au/PrivacyPolicy/">PRIVACY POLICY</a></font>
+								<a href="http://www.xxxx.com.au/PrivacyPolicy/">PRIVACY POLICY .</a>--> <font face="Verdana" size="2" color="#ffffff"> <a href="http://www.xxxx.com.au/ContactUs/">CONTACT US </a>&nbsp;&nbsp;:&nbsp;&nbsp;<a href="http://www.xxxx.com.au/PrivacyPolicy/">PRIVACY POLICY</a>&nbsp;&nbsp;:&nbsp;&nbsp;<a href="http://www.xxxx.com.au/termsconditions/">TERMS &amp; CONDITIONS</a></font>
 							</td>
 						</tr>
 					</tbody></table>
