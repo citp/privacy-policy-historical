@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603184955id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204220128id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
 
 # mtvU.com
 
@@ -10,13 +10,13 @@
 Privacy Policy   
 
 
-Updated April 6, 2004 
+Updated August 4, 2004 
 
 If you’ve been receiving mtvU.com newsletters and wish to unsubscribe, [**click here**](https://web.archive.org/uconnect/newsletter/unsubscribe.jhtml). 
 
 We are committed to protecting our users' privacy. Keeping the information you share with us on the Site secure and ensuring your understanding of how we collect, use and maintain your information is important to us at mtvU. We maintain physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your information. We continually assess new technology for protecting information and, when appropriate, we upgrade our information security systems. 
 
-Because of its importance and to make it easier for you to find and review it, we have made this Privacy Statement into a separate document on the Site. However, bear in mind it is a part of our agreement with you and the terms and conditions contained in our [**Terms of Use**](https://web.archive.org/about/terms_of_use/index.jhtml) describe how and when we may make changes to these statements and terms, and how they become binding upon you. We again remind you to check back here and to our [**Terms of Use**](https://web.archive.org/about/terms_of_use/index.jhtml) often to be sure you remain mindful of the terms and conditions that apply to you when you use the Site. 
+Because of its importance and to make it easier for you to find and review it, we have made this Privacy Statement into a separate document on the Site. However, bear in mind it is a part of our agreement with you and the terms and conditions contained in our [**Terms of Use**](https://web.archive.org/about/terms_of_use/index.jhtml) describe how and when we may make changes to these statements and terms, and how they become binding upon you. mtvU reserves the right to modify this policy. Any changes to the policy will be posted on this page. Users are encouraged to check the page regularly as they will be bound by the changes once posted on the site. 
 
 Disclosure (General): Although your privacy is very important to us, in this legal and technical environment, we cannot fully ensure that your personally identifiable information will not be disclosed to third parties. Please see "Disclosure to Third Parties", below, for more information. 
 
