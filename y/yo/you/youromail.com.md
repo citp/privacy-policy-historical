@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youromail.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603210112id_/http%3A//www.youromail.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youromail.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209005947id_/http%3A//www.youromail.com/pages/privacy.php) for the most accurate reproduction.*
 
 # YouRoMail.com - Get Paid To Read Emails!
 
@@ -24,9 +24,9 @@ We do not collect online contact information without prior parental consent or p
 
   
 **Choice/Opt-Out:  
-** YouRoMail.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. YouRoMail.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also [Contact Us](https://web.archive.org/pages/contact.php?PHPSESSID=43f8be3c8ad4e09daf76ef232562b6fczcjztim5o5rvtwayvgpawy7txk210111) and request your membership to be canceled at anytime.   
+** YouRoMail.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. YouRoMail.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also [Contact Us](https://web.archive.org/pages/contact.php?PHPSESSID=05c0de87e453f030052034c673652f30dpvdrulxxesanevnwirmcqbcpe005939) and request your membership to be canceled at anytime.   
   
 **Correct/Update:  
 **
 
-YouRoMail.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with YouRoMail.com, you can [Contact Us](https://web.archive.org/pages/contact.php?PHPSESSID=43f8be3c8ad4e09daf76ef232562b6fczcjztim5o5rvtwayvgpawy7txk210111). 
+YouRoMail.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with YouRoMail.com, you can [Contact Us](https://web.archive.org/pages/contact.php?PHPSESSID=05c0de87e453f030052034c673652f30dpvdrulxxesanevnwirmcqbcpe005939). 
