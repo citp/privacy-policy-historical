@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyguide.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604045309id_/http%3A//www.energyguide.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyguide.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204194148id_/http%3A//www.energyguide.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policies: ENERGYguide.com - Lower Your Energy Bills
 
@@ -6,7 +6,7 @@
 
 [](https://www.truste.org/validate/2965)
 
-ENERGYguide.com is a licensee of the [TRUSTe](http://www.truste.org/users/users_watchdog.html) Privacy Program. This statement discloses the privacy practices for ENERGYguide.com. When you visit a Web site displaying the TRUSTe trust mark, you can expect to be notified of: 
+ENERGYguide.com is a licensee of the [TRUSTe](http://www.truste.org/) Privacy Program. This statement discloses the privacy practices for ENERGYguide.com. When you visit a Web site displaying the [TRUSTe](http://www.truste.org/) trust mark, you can expect to be notified of: 
 
   * What personally identifiable information is collected 
   * Which organization is collecting the information 
@@ -18,7 +18,7 @@ ENERGYguide.com is a licensee of the [TRUSTe](http://www.truste.org/users/users_
 
 
 
-Questions regarding this statement should be directed to [privacy@energyguide.com](mailto:privacy@energyguide.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact [privacy@energyguide.com](mailto:privacy@energyguide.com) or by calling 781/283-9160 or via US Mail at 16 Laurel Avenue, Suite 100, Wellesley, MA 02481. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact  [TRUSTe](http://www.truste.org/). [TRUSTe](http://www.truste.org/) will then serve as a liaison with the Web site to resolve your concerns. 
 
 #### Our Commitment to Privacy
 
