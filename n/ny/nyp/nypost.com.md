@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206174900id_/http%3A//www.nypost.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603035857id_/http%3A//www.nypost.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # NYPOST.COM Privacy Policy
 
@@ -12,7 +12,7 @@ New York, New York 10036
 Attn: Marie T. Musacchio 
 
 Or e-mail us at:   
-privacy@nypost.com 
+[privacy@nypost.com](mailto:privacy@nypost.com)
 
                                          * * * * *
 
@@ -44,7 +44,7 @@ The Post collects e-mail addresses and other personally identifying information 
 
 **Links to Other Sites** The Post may establish relationships with reputable business partners that allow visitors to the Post site to link directly to sites operated by these partners. In some cases, the linked site may be branded or "co-branded" with the Post's logo; however, it is not operated or maintained by the Post or its affiliated companies. For example, the link labeled "MARKET WATCH" takes the user to a web site operated by Thomson Investors Network, which hosts and manages this financial service for the Post. Similarly, the link labeled "SHOPPING" takes the user to a "mall" operated for the Post by Internet Tradeline, Inc. and then to individual online merchants' sites who fulfill the user's purchase. 
 
-Some of the advertisements that appear on the Post site are delivered to you by DoubleClick. The site also uses the services of Engage to deliver ads, promotions and other marketing messages. DoubleClick and Engage utilize certain technologies to deliver these advertisements and marketing messages. Privacy issues surrounding their respective technologies are discussed in their own privacy policies, which can be viewed at www.doubleclick.net/privacy_policy  and www.engage.com/privacy  . 
+Some of the advertisements that appear on the Post site are delivered to you by advertising companies such as DoubleClick and 24/7 Media. The site also uses the services of Engage to deliver ads, promotions and other marketing messages. These companies utilize certain technologies to deliver advertisements and marketing messages. Privacy issues surrounding their respective technologies are discussed in their own privacy policies, which can be viewed at [www.doubleclick.net/privacy_policy](http://www.doubleclick.net/privacy_policy), [www.247media.com/privacy](http://www.247media.com/privacy) and [www.engage.com/privacy](http://www.engage.com/privacy). 
 
 The Post chooses its advertisers and business partners carefully. However, the Post is not responsible for the content or privacy practices of third party web sites that may be linked to this site. These links are meant for the user's convenience only, and do not constitute sponsorship, endorsement or approval by the Post of the content, policies or practices of such sites. Once you have left the Post's site via such a link, you should check the applicable privacy policy of the third party site. 
 
