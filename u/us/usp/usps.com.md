@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usps.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603070914id_/http%3A//www.usps.com/common/docs/privpol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usps.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203034319id_/http%3A//www.usps.com/common/docs/privpol.htm) for the most accurate reproduction.*
 
 # USPS - PRIVACY POLICY
 
@@ -6,6 +6,7 @@
 ---  
     [ **Mailing**](https://web.archive.org/common/category/mailing.htm)  
     [ **Shipping**](https://web.archive.org/shipping/)  
+    [ **Mail Delivery**](https://web.archive.org/deliveryservices/welcome.htm)  
     [ **Buy Stamps & More**](https://web.archive.org/common/category/buystamps.htm)  
     [ **Postage Rates & Fees**](https://web.archive.org/common/category/postage.htm)  
     ****  
@@ -85,7 +86,7 @@ You have the right to review any of your personal information the Postal Service
 
 ##### Inquiries
 
-We would like to hear from you if you have any questions or complaints regarding our privacy policy or use of your data. Please contact us at privacyoffice@email.usps.gov, or mail us at:
+We would like to hear from you if you have any questions or complaints regarding our privacy policy or use of your data. Please contact us at privacy@email.usps.gov, or mail us at:
 
 United States Postal Service  
 Attn: Privacy Office  
