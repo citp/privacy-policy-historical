@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescore.tv privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201230547id_/http%3A//www.livescore.tv/default.dll%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescore.tv privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207230039id_/http%3A//livescore.tv/default.dll%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
 # Live Score service (powered by LiveScore.com)
 
