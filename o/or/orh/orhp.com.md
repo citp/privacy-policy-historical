@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orhp.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602201203id_/http%3A//www.orhp.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orhp.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723095800id_/http%3A//orhp.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
