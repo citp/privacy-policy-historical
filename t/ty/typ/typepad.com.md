@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typepad.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000921id_/http%3A//www.typepad.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typepad.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605204217id_/http%3A//www.typepad.com/site/privacy.html) for the most accurate reproduction.*
 
 # TypePad: Privacy Policy
 
@@ -88,4 +88,4 @@ Confidentiality and Security
 
 
 
-Copyright © 2003 Six Apart Inc. All rights reserved. 
+Copyright © 2003-2004 Six Apart Inc. All rights reserved. 
