@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031110102id_/http%3A//ssh.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405223816id_/http%3A//www.ssh.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # SSH - Company Info
 
@@ -47,9 +47,10 @@ COPYRIGHT NOTICE
 
 Copyright © 2000 SSH Communications Security Ltd. All rights reserved. 
 
-[Home](https://web.archive.org/) _:_ [Products](https://web.archive.org/products/) _:_ [FAQ's](https://web.archive.org/faq/) _:_ [Partners](https://web.archive.org/partners/) _:_ [Tech](https://web.archive.org/tech/) _:_ [Support](https://web.archive.org/support/) _:_ [Company](https://web.archive.org/about/)  
-[Download](https://web.archive.org/download/) _:_ [Sales](https://web.archive.org/sales/) _:_ [Contact info](https://web.archive.org/about/contactinfo.cfm) _:_ [Feedback](https://web.archive.org/about/feedback.cfm) _:_ [Terms and Conditions of Use](https://web.archive.org/about/terms.cfm) _:_ [Privacy Policy](https://web.archive.org/about/privacy.cfm)
+[Home](https://web.archive.org/) _:_ [Products](https://web.archive.org/products/) _:_ [FAQ's](https://web.archive.org/faq/) _:_ [Partners](https://web.archive.org/partners/) _:_ [Tech](https://web.archive.org/tech/) _:_ [Support](https://web.archive.org/support/)  
+[Company](https://web.archive.org/about/company/) _:_ [Download](https://web.archive.org/download/) _:_ [Sales](https://web.archive.org/sales/) _:_ [Contact info](https://web.archive.org/about/contactinfo.cfm) _:_ [Feedback](https://web.archive.org/about/feedback.cfm)  
+[Terms and Conditions of Use](https://web.archive.org/about/terms.cfm) _:_ [Privacy Policy](https://web.archive.org/about/privacy.cfm)
 
-Copyright © 2001 SSH Communications Security - All Rights Reserved
+Copyright © 2002 SSH Communications Security - All Rights Reserved
 
  
