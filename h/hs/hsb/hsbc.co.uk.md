@@ -1,43 +1,35 @@
-> *The following text is extracted and transformed from the hsbc.co.uk privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217204233id_/http%3A//www.banking.hsbc.co.uk/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.co.uk privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604061308id_/http%3A//www.banking.hsbc.co.uk/privacy/privacy.htm) for the most accurate reproduction.*
 
 # HSBC : Important Notes
 
-****
-
-**Privacy**
-
+PRIVACY  
 We know that you are concerned with how your personal and financial information is dealt with. This privacy statement sets out our current policies and demonstrates our commitment to your financial privacy. We may change the content or services found on our Site at any time without notice, and consequently our privacy policy may change at any time in the future. You agree to revisit this page regularly and your continued access to or use of the Site will mean that you agree to the changes. 
 
-**Public areas**
-
+PUBLIC AREAS  
 When using the public portion of the Site you are not required to provide us with any personal information and we do not monitor or collect any personally identifiable information from you on your use of the public portions of the Site. We may track the number of users who visit areas of the Site, but this tracking will not identify you. We may also record the location of your computer on the Internet for systems administration and trouble shooting purposes and to report aggregate information. 
 
-**Personal information**
+PERSONAL INFORMATION  
+If you register to use the password protected portions of the Site, we will ask you to provide us with certain up to date data about yourself which we will handle in accordance with the United Kingdom's Data Protection legislation. We maintain strict security standards and procedures with a view to preventing unauthorised access to your data by anyone, including our staff. We use leading technologies such as (but not limited to) data encryption, fire walls and server authentication to protect the security of your data. All Group companies, all our staff and whenever we hire third parties to provide support services, we will require them to observe our privacy standards and to allow us to audit them for compliance.
 
-If you register to use the password protected portions of the Site, we will ask you to provide us with certain data about yourself which we will handle in accordance with the United Kingdom's Data Protection legislation. We maintain strict security standard\s and procedures with a view to preventing unauthorised access to your data. We use leading technologies such as (but not limited to) data encryption, fire walls and server authentication to protect the security of your data. Whenever we hire other organisations to provide support services, we will require them to conform to our privacy standards and to allow us to audit them for compliance. 
-
-**Cookies**
-
+COOKIES  
 Cookies are pieces of information that a website transfers to your computer's hard disc for record keeping purposes. Cookies can make the web more useful by storing information about your preferences on particular sites, thus enabling website owners to provide more useful features for their users. Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to refuse cookies. However, given that we may sometimes use cookies you may not be able to take full advantage of our website if you do so.
 
-**Third party cookies, web beacons and Spotlight tags**
+THIRD PARTY COOKIES, WEB BEACONS AND SPOTLIGHT TAGS  
+HSBC works with third parties including Yahoo! and DoubleClick to research certain usage and activities on our web site on our behalf. Yahoo! uses web beacons to conduct this research and DoubeClick uses Spotlight tags.
 
-HSBC works with third parties including Yahoo! and DoubleClick to research certain usage and activities on our web site on our behalf. Yahoo! uses web beacons to conduct this research and DoubleClick uses Spotlight tags. 
+In the course of conducting this research, these third parties may place or recognise a unique "cookie" on your browser.
 
-In the course of conducting this research, these third parties may place or recognise a unique "cookie" on your browser. 
+HSBC web pages may contain electronic images known as web beacons or Spotlight tags. These enable HSBC to count users who have visited certain pages on our web site. Web beacons or Spotlight tags are not used by us to access your personal information, they are simply a tool we use to analyse which web pages customers view in an aggregated manner.
 
-HSBC web pages may contain electronic images known as web beacons or Spotlight tags. These enable HSBC to count users who have visited certain pages on our website. Web beacons or Spotlight tags are not used by us to access your personal information, they are simply a tool we use to analyse which web pages customers view in an aggregated manner. 
+To do this, we use clear GIFs, or pixel tags, on this site, which allow Yahoo! and DoubleClick to recognise a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable.
 
-To do this, we use clear GIFs, or pixel tags, on this site, which allow Yahoo! and DoubleClick to recognise a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable. 
+We may allow third parties, selected by us, to hold this information in order to provide our services to you. For example, we may allow a third party to record how customers navigate through our website in order to improve the service we offer customers. Any third party will only store and process your information in accordance with this Privacy Policy.
 
-We may allow third parties, selected by us, to hold this information in order to provide our services to you. For example, we may allow a third party to record how customers navigate through our website in order to improve the service we offer customers. Any third party will only store and process your information in accordance with this Privacy Policy. 
+No personally identifiable information about you is shared by Yahoo! or DoubleClick with HSBC as a result of this research.
 
-No personally identifiable information about you is shared by Yahoo! or DoubleClick with HSBC as a result of this research. 
+If you prefer that Yahoo! not record information by means of such web beacons on the HSBC web site, please visit Yahoo! in order to opt out.
 
-If you prefer that Yahoo! not record information by means of such web beacons on the HSBC web site, please visit Yahoo! in order to opt out. 
+If you prefer that DoubleClick not record information by means of such Spotlight tags on the HSBC web site, please visit DoubleClick in order to opt out.
 
-If you prefer that DoubleClick not record information by means of such Spotlight tags on the HSBC web site, please visit DoubleClick in order to opt out. 
-
-**Your queries**
-
-If you have any questions regarding privacy issues, then e-mail us or visit any of our branches for more information. To ensure the accuracy of our conversation and to help us to continually improve our service and in the interests of security we may monitor and/or record your telephone calls with us. Please see our Important Notes for more details on the use of our Site 
+Your Queries  
+If you have any queries regarding privacy issues, then e-mail us or visit any of our branches for more information. To ensure the accuracy of our conversation and to help us to continually improve our service and in the interests of security we may monitor and/or record your telephone calls with us. Please see our Important Notes for more details on the use of our Site.
