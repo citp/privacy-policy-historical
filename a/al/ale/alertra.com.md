@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215072840id_/http%3A//www.alertra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602081835id_/http%3A//alertra.com/privacy) for the most accurate reproduction.*
 
 # Alertra Web Site Monitoring Service
 
@@ -9,18 +9,15 @@ PRIVACY STATEMENT
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site. 
 
 **Registration Forms**  
-Our site's registration form requires users to give us their e-mail address, and optionally credit card billing information. 
+Our site's registration form requires users to give us their e-mail address, other contact information, and optionally credit card billing information. 
 
 Your account e-mail address will be used in the following ways: 
 
-Your e-mail address will never be shared with a third party. 
+Your e-mail address and other contact information will never be shared with a third party. 
 
 You may enter other e-mail addresses as notification contacts. Those e-mail addresses will never be used for purposes other than notification of change in device status. 
 
-Your credit card billing information will be used only for authorization and settlement of charges you incur by using our services or buying our products. Your name and address will not be used for any other purpose.
-
-**Choice/Opt-Out**  
-Our site provides premium account holders the opportunity to opt-out of receiving promotional/marketing information from us and our partners. You can do this by un-checking the appropriate boxes on your account information form. 
+Your credit card billing information will be used only for authorization and settlement of charges you incur by using our services or buying our products.
 
 **Security**  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Because our service is subscription-based, it may be necessary to keep your credit card billing information in our database depending on the services you select. When you create or update your account, including credit card information, your session will be encrypted by our secure server (SSL). Once your credit card information has been entered it will be stored in an encrypted format on our server. After that, we will only display the last four digits of your credit card number on your account information form, just in case an unauthorized person should obtain access to your account.
@@ -36,6 +33,3 @@ When you log in to your account we send your browser one cookie containing a ses
 
 **External Links**  
 This site contains links to other sites. Alertra, Inc. is not responsible for the privacy practices or the content of such web sites. 
-
-  
-
