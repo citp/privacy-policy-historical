@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623055307id_/http%3A//www.fox.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208092933id_/http%3A//www.fox.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
 
 # FOX Broadcasting Company: Privacy Policy
 
@@ -10,7 +10,7 @@ From time to time FBC may revise this Privacy Policy to reflect industry initiat
 
 _**COLLECTION:** COLLECTION OF PII BY FBC_
 
-_General_. FBC collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, in connection with content or suggestions you submit to us, chats or bulletin boards; or because you want us to furnish you with products, services or information. On those occasions when we obtain PII from a third party, we use only reputable sources of such information.
+_General_. FBC collects personally identifiable information ("PII" \-- that is, information such as your full name, email address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, in connection with content or suggestions you submit to us, chats or bulletin boards; or because you want us to furnish you with products, services or information. On those occasions when we obtain PII from a third party, we use only reputable sources of such information.
 
 _Cookies_. Cookies are small bits of information that the Internet sites operated by FBC place on the hard drive of your computer. FBC uses cookies to identify your Internet browser and to determine whether you have installed the enabling software needed to access certain material on our web site(s). However, FBC does not use cookies or similar tools to collect or otherwise record any type of PII provided by or about any FBC web site visitor. 
 
@@ -24,13 +24,15 @@ _**NOTICE:** FBC WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES
 
 When FBC collects PII from you, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses FBC will make of the information. 
 
-This Policy describes the types of other companies that may want to send you information about their products and services and therefore may want to share your personal information (See "Use" below). However, FBC will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies, typically at the time of collection (See "Choice" below). 
+This Policy describes the types of other companies that may want to send you information about their products and services and therefore may want to share your personal information (See "Use" below). However, FBC will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies, at the time of collection (See "Choice" below). 
 
 Sometimes we collect personally identifiable information from consumers in manual format, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.
 
 FBC's web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with an FBC logo, even though they are not operated or maintained by FBC. FBC's web site(s) also carry advertisements from other companies as well as advertisements placed by national Internet ad agencies. Although we choose our business partners and advertisers carefully, FBC is not responsible for the privacy practices of web sites operated by third parties that are linked to our site(s) or for the privacy practices of third party or so-called national Internet advertising companies. Once you've left an FBC site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
 
 FBC's web site(s) may also be linked to sites operated by our business partners or by other companies that are part of the News America Group. Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
+
+Some of the advertisements that appear on the FBC website(s) are delivered to you by national Internet advertising companies such as DoubleClick. This company utilizes certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to the FBC website(s), including information about the banner ads they display, their cookie and your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they sue or their own privacy policies, please visit their website at: [http//www.doubleclick.net/privacy_policy](https://web.archive.org/web/20041208092933id_/http%3A//www.fox.com/corporate/http//www.doubleclick.net/privacy_policy).
 
 _**CHOICE:** FBC WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII_
 
@@ -90,5 +92,5 @@ Fax:
   
 Please note that participation in certain activities on our web sites(s) may be limited if PII is not submitted by the visitor. 
 
-July 29, 2002  
+December 7, 2004  
 
