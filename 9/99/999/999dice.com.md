@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 999dice.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626023019id_/http%3A//www.999network.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 999dice.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204003229id_/http%3A//www.999network.com/privacy) for the most accurate reproduction.*
 
-# 999 Network : Privacy policy
+# 999 Network :
 
 **1\. General**
 
@@ -54,4 +54,4 @@
 
 6.1 Any changes to the privacy policy made by us will be posted here and will take effect immediately. The policy was last updated on 25th October 2002.
 
-6.2 If you have any additional queries about privacy, please send an email to webmaster@999network.com and we will endeavour to help.
+6.2 If you have any additional queries about privacy, please send an email to [privacy@999network.com](mailto:privacy@999network.com?subject=Privacy%20policy "Privacy email address") and we will endeavour to help. 
