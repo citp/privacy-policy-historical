@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604064314id_/http%3A//www.aande.com/feedback/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207204331id_/http%3A//www.aande.com/feedback/privacy.html) for the most accurate reproduction.*
 
 # AandE.com Contact Us
 
@@ -6,7 +6,7 @@
 
 **A &E Privacy Policy**
 
-Last updated on October 26, 2001
+Last updated on August 29, 2002
 
 **A &E Television Networks ("AETN")**
 
@@ -75,9 +75,9 @@ On all other public forums on our Websites, information that you provide as part
 Our Websites are general audience sites. We do not direct any of our content specifically at children under thirteen (13) years of age. We run classroom sites as educational tools for teachers, where contests encouraging submissions of children's essays are occasionally announced. We announce and post personal information (such as name and home town) of contest winners after receiving consent from the children's parents. We will not knowingly collect information from children under the age of 13 without first gaining consent from a parent or guardian. We will not use this information to contact the child for other purposes, distribute this information to third parties, or give the child the ability to post publicly or otherwise distribute personally identifiable information without a parent's or guardian's consent.
 
 **Third-Party Ad Serving**  
-We currently contract with DoubleClick to sell and manage the advertisements that you see on the Websites. The use of advertising cookies sent by third-party servers is standard in the Internet industry, and DoubleClick or our advertisers may assign their own cookies to your browser. Through cookie and other technology, DoubleClick and/or other advertisers may collect certain non-personally identifiable information about you from your visits to our Websites and to other sites where ads are served by DoubleClick or such other advertisers. This information may be used to deliver tailored ads to you. We do not control this process, and these cookies are subject to DoubleClick's and/or other advertisers' policies. However, DoubleClick does not obtain, through use of cookies or otherwise, any personally identifiable information from us or from any of our Websites. [Click here](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp?asp_object_1=&) to opt out of DoubleClick's cookies.
+We currently contract with Maxworldwide to sell and manage the advertisements that you see on the Websites. The use of advertising cookies sent by third-party servers is standard in the Internet industry, and Maxworldwide or our advertisers may assign their own cookies to your browser. Through cookie and other technology, Maxworldwide and/or other advertisers may collect certain non-personally identifiable information about you from your visits to our Websites and to other sites where ads are served by Maxworldwide or such other advertisers. This information may be used to deliver tailored ads to you. We do not control this process, and these cookies are subject to Maxworldwide's and/or other advertisers' policies. However, Maxworldwide does not obtain, through use of cookies or otherwise, any personally identifiable information from us or from any of our Websites. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-DoubleClick makes available both its policies and information practices at [DoubleClick](http://www.doubleclick.net/), and DoubleClick has informed us that it has voluntarily opened its practices and systems for third party auditing. [Click here](http://www.doubleclick.net/nf/general/onpriset.htm) to read DoubleClick's privacy statement or email DoubleClick at [info@doubleclick.net](mailto:info@doubleclick.net) if you have any additional questions.
+Maxworldwide makes available both its policies and information practices at [Maxworldwide](http://www.maxworldwide.com/). [Click here](http://maxworldwide.com/privacy_policy/index.php) to read Maxworldwide's privacy statement or email Maxworldwide at [customerservice@MaxWorldwide.com](mailto:customerservice@MaxWorldwide.com) if you have any additional questions.
 
 **Security**  
 We have security measures in place to protect against the loss, misuse, and alteration of the information under our control. Any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use industry-standard, SSL (secure socket layer) encryption. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure its security on our systems.
@@ -93,7 +93,7 @@ You may inform us if you wish to remove your personal information from our datab
 
 We give you the following options for removing your personal information from our database in order to stop receiving future communications from our Websites.
 
-  1. You can send email to: [feedback@AandE.com](https://web.archive.org/web/20020604064314id_/http%3A//www.aande.com/feedback/feedback@AandE.com)  
+  1. You can send email to: [feedback@AandE.com](https://web.archive.org/web/20021207204331id_/http%3A//www.aande.com/feedback/feedback@AandE.com)  
  
   2. You can send mail to the following postal address:  
 A&E Television Networks  
