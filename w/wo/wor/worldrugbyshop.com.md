@@ -1,9 +1,26 @@
-> *The following text is extracted and transformed from the worldrugbyshop.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024814id_/http%3A//worldrugbyshop.com/more_info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldrugbyshop.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603005714id_/http%3A//www.worldrugbyshop.com/more_info/privacy.asp) for the most accurate reproduction.*
 
 # WorldRugbyShop
 
-**Privacy Policy** **  
-**   
+**Privacy Policy**
+
+Introduction  
+---  
+Your acceptance of these Privacy Statement terms  
+What data do we collect and how do we use it?  
+Log files/IP addresses  
+Non personal information  
+Use of Cookies  
+With whom is the information shared?  
+Information about products and services  
+Security  
+Where is the information stored?  
+Specific Services  
+Tarot Service on Future365  
+Comments  
+  
+* * *
+
 **Introduction**  
 365 (which means 365 Corporation plc, 365 plc and their associated companies) is committed to protecting your privacy when you use our on-line, telephone or other services ("Services"). In this policy we explain how and why we collect your information, what we do with it and what controls you have over our use of it.
 
@@ -11,10 +28,18 @@ From time to time, we add or change functions, features or products to our Web S
 
 Any questions regarding our Privacy Policy should be directed to 365's Privacy Policy Manager at [Privacy@365.com](mailto:Privacy@365.com) , or alternatively see the section "Comments" below.
 
-back to top **Your acceptance of these Privacy Statement terms**  
+Back to top
+
+* * *
+
+**Your acceptance of these Privacy Statement terms**  
 By using any of the sites within our web site network ("Web Sites") or our Services, you unconditionally agree to be bound by this Privacy Policy.
 
-back to top **What data do we collect and how do we use it?**  
+Back to top
+
+* * *
+
+**What data do we collect and how do we use it?**  
 365 collects and processes information about you in order to:
 
 (i) identify you each time you visit a Web Site or wish to have a Service provided;   
@@ -28,15 +53,25 @@ You may be asked, either when you register with us, or at other times, for infor
 
 You are under no obligation to provide this information, but if you don't then we may not be able to provide you with certain services or personalise your experience and tailor our Services for you (for example, tell you about special offers on things you're interested in). 
 
-back to top  
-  
-**_Log files/IP addresses_  
+Back to top
+
+* * *
+
+**Log files/IP addresses  
 **When you visit our Web Sites, we automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. We use IP addresses to help us administer our Web Sites and to collect broad demographic information for aggregate use. We do not link IP addresses to personally identifiable information.
 
-back to top ** _Non personal information_**  
+Back to top
+
+* * *
+
+**Non personal information**  
 We may automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our Web Sites. You cannot be identified from this information and it is only used to assist us in providing an effective service on our Web Sites. We may from time to time supply the owners or operators of third party sites from which it is possible to link to our Web Sites with information relating to the number of users linking to our Web Sites from their sites. You cannot be identified from this information.
 
-back to top ** _Use of Cookies_**  
+Back to top
+
+* * *
+
+**Use of Cookies**  
 Cookies are pieces of information that a Web Site transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. However, you may not be able to take full advantage of a Web Site if you do so. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web. Although they do identify a user's computer, cookies do not personally identify customers or passwords. Credit card information is not stored in cookies.
 
 We use cookies for the following reasons:
@@ -48,7 +83,11 @@ We use cookies for the following reasons:
 (v) To track preferences and to improve and update our Web Site; and  
 (vi) To track the progress and number of entries in some of our promotions and contests. 
 
-back to top **With whom is the information shared?**  
+Back to top
+
+* * *
+
+**With whom is the information shared?**  
 365 will not share, sell or rent your personal information to third parties. However, we may disclose your personal information to third party suppliers who provide services on our behalf.
 
 365 may disclose aggregate statistics about our sales, our Web Site visitors and customers of our telephone services in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will not include personally identifying information.
@@ -59,31 +98,63 @@ Our Web Site contains links to the sites of third parties. When you visit these 
 
 We will only sell or rent your personal information to a third party either as part of a sale of the assets of a 365 company or having ensured that steps have been taken to ensure that your privacy rights continue to be protected.
 
-back to top **Information about products and services**  
+Back to top
+
+* * *
+
+**Information about products and services**  
 It is very important to us that we provide you with the highest level of service. In order to help us do this, from time to time 365 companies may send you details of our products and services which we think may be of interest to you. If at any time you do not wish to receive these details, please click here.
 
-back to top **Security**  
+Back to top
+
+* * *
+
+**Security**  
 365 places a great importance on the security of all information associated with our customers. We have security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to user information. With regard to our Web Sites, we use secure server software (SSL) to encrypt financial information you input before it is sent to us. While we cannot ensure or guarantee that loss, misuse or alteration of data will not occur, we use our best efforts to prevent this.
 
-back to top **Where is the information stored?**  
+Back to top
+
+* * *
+
+**Where is the information stored?**  
 Information which you submit via our Web Sites or our telephone services is stored on a computer located in the European Economic Area. This is necessary in order to process the information and to send you any information you have requested. Information submitted by you may be transferred by us to our other offices and to reputable third party suppliers, which may be situated outside the European Economic Area. Not all countries outside the EEA have data protection or privacy laws. In addition, if you use our Services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those Services.
 
-back to top **SPECIFIC SERVICES** **Sensitive personal information**  
+Back to top
+
+* * *
+
+**Specific Services**
+
+**Sensitive personal information**  
 Certain of our Web Sites ask you for sensitive personal information. For example, Personals365 and Gay365 ask you questions about your preferences about a prospective partner and so on. By completing and submitting that particular information, you are consenting to 365 processing it in accordance with this Privacy Policy.
 
-back to top **Public forums on 365's Web Sites**  
+Back to top
+
+**Public forums on 365's Web Sites**  
 Some of our Web Sites make chat rooms, forums, message boards, and/or news groups available to their users. Any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-back to top **Audiotext Services**  
+Back to top
+
+**Audiotext Services**  
 As these services necessarily entail chat rooms, they are public forums. You should not disclose your address or telephone number when recording your initial message. Any information you do disclose while using this service (apart from information given to us for the purpose of opening an account) becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-back to top **Opening an Account**  
+Back to top
+
+**Opening an Account**  
 If you wish to open an account with 365, you will be asked to submit information such as your name, address and credit card details. This information will be held by us in accordance with our Privacy Policy.
 
-back to top **Tarot Service on Future365**  
+Back to top
+
+* * *
+
+**Tarot Service on Future365**  
 365 does not automatically process any personal information relating to the customers of its Tarot service. Customers will however be asked if they wish to receive information from us about existing and new products and services. If customers do wish to receive such information, they will be asked to submit their name, postal address and/or email address and maybe their interests and hobbies also. This information will be held by us in accordance with our Privacy Policy. It will not be disclosed to third parties.
 
-back to top **Comments  **  
+Back to top
+
+* * *
+
+**Comments **  
 Please e-mail any questions, concerns or comments you have about our Privacy Policy to [Privacy@365.com](mailto:Privacy@365.com) or write to us at:
 
 Privacy  
@@ -92,4 +163,4 @@ Rivals digital Media
 London  
 W10 6TH
 
-back to top
+Back to top
