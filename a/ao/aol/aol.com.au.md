@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aol.com.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604052200id_/http%3A//aol.com.au/cgi-bin/redirector.pl%3FI%3Dprivacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208171813id_/http%3A//www.aol.com.au/cgi-bin/redirector.pl%3FI%3Dprivacynotice) for the most accurate reproduction.*
 
-# AOL Privacy Notice
+# Primus-AOL Privacy Notice
 
 Primus-AOL Privacy Policies
 
@@ -27,8 +27,8 @@ Primus-AOL collects personal information for the following purposes:
   * to send promotional material about Primus-AOL and our services to prospective members;
   * to prepare and conduct interviews for staff placements;
   * for analysis and research purposes (so that we can determine whether there is a market for our services, how we promote those services and how we can improve our services);
-  * to conduct surveys, competitions and trade promotions on our Primus-AOL Network(including [www.aol7.com.au](http://www.aol7.com.au/) (excluding the members-only areas); [www.aol.com.au](http://www.aol.com.au/); [www.seven.com.au](http://www.seven.com.au/),and associated Seven Network sites); 
-  * in order to provide goods and/or services requested by you on our Primus-AOL Network (including [www.aol7.com.au](http://www.aol7.com.au/) (excluding the members-only areas); [www.aol.com.au](http://www.aol.com.au/); [www.seven.com.au](http://www.seven.com.au/),and associated Seven Network sites);
+  * to conduct surveys, competitions and trade promotions on our Primus-AOL Network(including [www.primusonline.com.au](http://www.primusonline.com.au/) (excluding the members-only areas); [www.aol.com.au](http://www.aol.com.au/); [www.seven.com.au](http://www.seven.com.au/),and associated Seven Network sites); 
+  * in order to provide goods and/or services requested by you on our Primus-AOL Network (including [www.primusonline.com.au](http://www.primusonline.com.au/) (excluding the members-only areas); [www.aol.com.au](http://www.aol.com.au/); [www.seven.com.au](http://www.seven.com.au/),and associated Seven Network sites);
   * to undertake analysis of sole traders who wish to become our contractors, agents or partners;
   * to conduct credit checks of prospective members.
 
@@ -92,7 +92,7 @@ How to contact us
 
 If you wish to gain access to your personal information or make a complaint about a breach of your privacy or if you have a query on how your personal information is collected or used, or any other query relating to Primus-AOL's General Privacy Policy and Disclosure Statement, please contact our Privacy Officer:
 
-By email:  | legalandprivacy@aol.com  
+By email:  | help@primusonline.com.au  
 ---|---  
 By mail: | Locked Bag 7500, Chatswood DC, NSW, 2067  
 By phone: | 1800 265 265  
@@ -107,14 +107,14 @@ Primus Online Pty Limited ACN 29 092 063 691
 Level 12, North Tower, 1-5 Railway Street, Chatswood, NSW, 2067.  
 Locked Bag 7500, Chatswood DC, NSW 2065
 
-Email address:  | aufeedback@aol.com  
+Email address:  | help@primusonline.com.au  
 ---|---  
 By phone: | 1800 265 265  
 By facsimile: | (02) 9410 5055  
   
 2\.  USER PRIVACY POLICY
 
-Primus Online Pty Limited ACN 29 092 063 691 ( **Primus-AOL** , **we** , **us** , **our** ) regard protecting our users' privacy as one of our most important values. We want you to know how we protect user information and what choices you have about its use. We believe Primus-AOL's User Privacy Policy should give you confidence whenever you use AOL, Primus-AOL Broadband (including the members-only areas of aol7.com.au) or any other online services provided by us or an Associated Company, ( **a Primus-AOL Service** )-- 24 hours a day, seven days a week, 365 days of the year. This User Privacy Policy applies to any personal information we collect, use or disclose in connection with a Primus-AOL Service. This User Privacy Policy also sets out how we deal with the confidentiality of protected information.
+Primus Online Pty Limited ACN 29 092 063 691 ( **Primus-AOL** , **we** , **us** , **our** ) regard protecting our users' privacy as one of our most important values. We want you to know how we protect user information and what choices you have about its use. We believe Primus-AOL's User Privacy Policy should give you confidence whenever you use AOL, Primus-AOL Broadband (including the members-only areas of www.primusonline.com.au) or any other online services provided by us or an Associated Company, ( **a Primus-AOL Service** )-- 24 hours a day, seven days a week, 365 days of the year. This User Privacy Policy applies to any personal information we collect, use or disclose in connection with a Primus-AOL Service. This User Privacy Policy also sets out how we deal with the confidentiality of protected information.
 
 In this User Privacy Policy:
 
@@ -174,7 +174,7 @@ We will release specific information about your account only to comply with legi
 
 PRINCIPLE 3 - WE DO NOT GIVE OUT YOUR PERSONAL INFORMATION OR PROTECTED INFORMATION UNLESS YOU AUTHORISE US TO DO SO. AND WE GIVE YOU THE OPPORTUNITY TO CORRECT YOUR PERSONAL INFORMATION HELD BY US.
 
-When you join Primus-AOL, we ask you for your name, address, telephone number, and billing information - (including the credit card used to pay for your account) and other details in relation to your account. We may also collect this information from our Associated Companies, from people who provide contact lists and through our Primus-AOL Network (including [www.aol7.com.au](http://www.aol7.com.au/); [www.aol.com.au](http://www.aol.com.au/); [www.seven.com.au](http://www.seven.com.au/), and associated Seven Network sites). If you do not provide this information to us, we will not be able to provide you with access to the Primus-AOL Services. We will not give out your personal information or protected information except where needed to deliver a product or service you ordered. 
+When you join Primus-AOL, we ask you for your name, address, telephone number, and billing information - (including the credit card used to pay for your account) and other details in relation to your account. We may also collect this information from our Associated Companies, from people who provide contact lists and through our Primus-AOL Network (including [www.primusonline.com.au](http://www.primusonline.com.au/); [www.aol.com.au](http://www.aol.com.au/); [www.seven.com.au](http://www.seven.com.au/), and associated Seven Network sites). If you do not provide this information to us, we will not be able to provide you with access to the Primus-AOL Services. We will not give out your personal information or protected information except where needed to deliver a product or service you ordered. 
 
 We make lists of users' names and addresses available to our Associated Companies. The Associated Companies are prohibited, however, from using your information except for the specific purpose for which we supply it to them such as for specific direct mail, email and outbound calling product and service offers we think may be of interest to you. We also sometimes combine these lists with publicly available information or segment them based on other information, such as when a user joined Primus-AOL or a user's computer system type. These lists are never based on a user's online activities. 
 
@@ -242,11 +242,11 @@ We strongly encourage our content, commerce and advertising partners to post cle
 
 PRINCIPLE 8 - WE WILL KEEP YOU INFORMED, CLEARLY AND PROMINENTLY, ABOUT WHAT WE DO WITH YOUR PERSONAL INFORMATION AND PROTECTED INFORMATION . 
 
-A key part of Primus-AOL's commitment to protecting your privacy is explaining to you how we may use your personal information. This User Privacy Policy serves that purpose, and it is accessible through several means within the Primus-AOL Services. On Primus-AOL Broadband it is accessible on the Terms and Conditions section of our homepage (aol7.com.au/termsandconditions/) and on AOL it is accessible via AOL Keyword:Privacy. By using a Primus-AOL Service, you are agreeing to the content of this User Privacy Policy and you consent to us using your personal information and protected information as set out in this User Privacy Policy. 
+A key part of Primus-AOL's commitment to protecting your privacy is explaining to you how we may use your personal information. This User Privacy Policy serves that purpose, and it is accessible through several means within the Primus-AOL Services. On Primus-AOL Broadband it is accessible on the Terms and Conditions section of our homepage (www.primusonline.com.au) and on AOL it is accessible via AOL Keyword:Privacy. By using a Primus-AOL Service, you are agreeing to the content of this User Privacy Policy and you consent to us using your personal information and protected information as set out in this User Privacy Policy. 
 
 If you'd like to comment on or have questions about our User Privacy Policy, or if you have a concern or policy violation you wish to report, please contact our Privacy Officer.
 
-By email:  | legalandprivacy@aol.com  
+By email:  | help@primusonline.com.au  
 ---|---  
 By mail:  | Locked Bag 7500, Chatswood DC, NSW, 2067  
 By phone: | 1800 265 265  
@@ -261,17 +261,15 @@ Primus Online Pty Limited ACN 29 092 063 691
 Level 12, North Tower, 1-5 Railway Street, Chatswood, NSW, 2067.  
 Locked Bag 7500, Chatswood DC, NSW 2065
 
-Email address:  | aufeedback@aol.com  
+Email address:  | help@primusonline.com.au  
 ---|---  
 By phone: | 1800 265 265  
 By facsimile: | (02) 9410 5055  
   
 Primus-AOL | Broadband |    
 ---|---|---  
-  | Billing:  | [aol7.com.au/myaccount](http://aol7.com.au/myaccount)  
-  | Marketing Preferences:  | [aol7.com.au/myaccount](http://aol7.com.au/myaccount)  
-  | Terms and Conditions:  | [aol7.com.au/termsandconditions/](http://aol7.com.au/termsandconditions/)  
-AOL |   |    
+  | Terms and Conditions:  | <http://www.primusonline.com.au/broadband.php>  
+Primus-AOL | Dial-up with AOL Software |    
   | Billing:  | AOL Keyword: Billing  
   | Marketing Preferences:  | AOL Keyword: Marketing Prefs  
   | Terms of Service:  | AOL Keyword: TOS  
@@ -279,4 +277,4 @@ AOL |   |  
   
 Copyright © 2004 Primus Online Pty Limited ACN 29 092 063 691
 
-Version 1.1 Published 29 March 2004
+Version 1.2 Published 27 August 2004
