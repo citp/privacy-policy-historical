@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smarthome.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204012807id_/http%3A//www.smarthome.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smarthome.com privacy policy that was archived on 2005-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050402015910id_/http%3A//www.smarthome.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title> Privacy &amp; Information Use Policy</title>
@@ -29,7 +29,7 @@ SMARTHOME.COM, INC. All rights reserved.">
 </script><script language="JavaScript1.2" src="javascripts/toolbar.js" type="text/javascript"></script>
 
 </head>
-<!-- 2004/12/03 17:28:13 5.2 --><body marginwidth="0" leftmargin="0" marginheight="0" topmargin="0" bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#FF0000" alink="#000000">
+<!-- 2005/04/01 17:58:40 5.2 --><body marginwidth="0" leftmargin="0" marginheight="0" topmargin="0" bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#FF0000" alink="#000000">
 
 <script language="JAVASCRIPT" type="text/javascript">
 
@@ -81,7 +81,6 @@ window.open('catreqpopup.asp','','toolbar=no,scrollbars=yes,width=520,height=700
 <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#FFFFFF">
 
 
-<script language="JAVASCRIPT">preloadImages();</script>
 <tbody><tr>
 
 <td colspan="3" valign="absbottom" align="center" bgcolor="#FFFFFF">
@@ -129,7 +128,7 @@ window.open('catreqpopup.asp','','toolbar=no,scrollbars=yes,width=520,height=700
 <td width="100%" valign="baseline" align="left" bgcolor="#336699">
 <table height="15" border="0" cellpadding="0" cellspacing="0" width="840" bgcolor="#336699" align="left">
 <tbody><tr> <td width="150" align="center"><font size="1" color="white" class="white"><a href="newest.html" class="white">New Products</a></font></td>
- <td bgcolor="#FFFFFF" width="1" align="center"><img border="0" src="http://cache.smarthome.com/images/1x1.gif" alt="pic" width="1" height="1"></td> <td width="148" align="center"><font size="1" color="white" class="white"><a href="hotdeals.asp" class="white">Hot Deals</a></font></td>
+ <td bgcolor="#FFFFFF" width="1" align="center"><img border="0" src="http://cache.smarthome.com/images/1x1.gif" alt="pic" width="1" height="1"></td>  <td width="148" align="center"><font size="1" color="white" class="white"><a href="hotdeals.asp" class="white">Hot Deals</a></font></td>
 <td bgcolor="#FFFFFF" width="1" align="center"><img border="0" src="http://cache.smarthome.com/images/1x1.gif" alt="pic" width="1" height="1"></td>
 <td width="107" align="center"><font size="1" color="white" class="white"><a href="http://auction.smarthome.com" class="white">Auction</a></font></td>
 <td bgcolor="#FFFFFF" width="1" align="center"><img border="0" src="http://cache.smarthome.com/images/1x1.gif" alt="pic" width="1" height="1"></td>
@@ -200,21 +199,103 @@ function SetCookie(cookieName,cookieValue,nDays) {
 </script>
 <table border="0" cellpadding="0" cellspacing="0" width="165">
 
+<script language="javascript">
+
+function isEmailAddr(email)
+{
+  var result = false
+  var theStr = new String(email)
+  var index = theStr.indexOf("@");
+  if (index > 0)
+  {
+    var pindex = theStr.indexOf(".",index);
+    if ((pindex > index+1) && (theStr.length > pindex+1))
+	result = true;
+  }
+  return result;
+}
+
+function FormValid(theForm)
+{
+
+	if (theForm.txtejoin.value == "Enter Your Email Address") 
+	{
+	  alert("Please enter a value for the \"email\" field.");
+	  theForm.txtejoin.value =='';
+	  theForm.txtejoin.focus();
+	  return (false);
+	}
+	if (theForm.txtejoin.value == "")
+	{
+	  alert("Please enter a value for the \"email\" field.");
+	  theForm.txtejoin.focus();
+	  return (false);
+	}
+  
+  if (!isEmailAddr(theForm.txtejoin.value))
+  {
+    alert("Please enter a complete email address in the form: yourname@yourdomain.com");
+    theForm.txtejoin.focus();
+    return (false);
+  }
+ 
+  if (theForm.txtejoin.value.length < 3)
+  {
+    alert("Please enter at least 3 characters in the \"email\" field.");
+    theForm.txtejoin.focus();
+    return (false);
+  }
+  
+  
+  return (true);
+}
 
 
+function validateAddr(theForm)//(theForm)
+
+//validate the form fields
+{
+ 
+  if (!FormValid(theForm))
+  {
+	return (false);
+  }
+
+}
+
+</script>
 <tbody><tr>
-<td align="center">
-<a onmouseover="window.status='Email SignUp' ; return true" onmouseout="window.status='' ; return true" href="javascript:SH_PopOpen('joininfolist.asp','JoinList','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=320,height=320')" class="white"><img border="0" src="http://cache.smarthome.com/images/emailjoin_2.gif" alt="Click here to join our Discount Club" vspace="4"></a>
+<td>
+<table style="WIDTH: 180px; HEIGHT: 36px" cellspacing="1" cellpadding="1" width="195" border="0">
+<form name="ejoin" action="/joinlist.asp" method="post" onsubmit="return validateAddr(this)"></form>
+<tbody><tr>
+<td>
+<img src="http://cache.smarthome.com/images/pt.gif" alt="pic" width="9" height="9" name="oneImg">
+<a class="white"><b>Exclusive Email Offers</b></a> </td>
+</tr>
+<tr>
+<td colspan="2">
+<input id="text1" style="FONT-SIZE: xx-small; WIDTH: 126px; FONT-FAMILY: sans-serif; HEIGHT: 19px" size="14" name="txtejoin" height="0" value="Enter Your Email Address" onfocus="this.value='';">
+<input type="IMAGE" value="SUBMIT" name="SLI" src="http://cache.smarthome.com/images/join_off.gif" border="0" style="VERTICAL-ALIGN: middle"> </td>
+</tr>
+
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table>
+	<tbody><tr>
+<td align="center">&nbsp;
+<a href="catrequest.asp" class="sred">
+<img border="0" src="http://cache.smarthome.com/images/cat73_request.gif" alt="Click here to Request a Catalog" vspace="2">
+</a>
 </td>
 </tr>
 <tr>
-<td align="center">
-<a href="catrequest.asp" class="sred"><img border="0" src="http://cache.smarthome.com/images/catalog_request.gif" alt="Click here to Request a Catalog" vspace="2"></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a onmouseover="window.status='Smarthome Design Store' ; return true" onmouseout="window.status='' ; return true" href="/smarthomedesignstore.html"><img src="http://cache.smarthome.com/images/smarthomedesignbutton.gif" alt="Smarthome Design Store" border="0" vspace="2"></a>
+<td align="center">&nbsp;
+<a onmouseover="window.status='Smarthome Design Store' ; return true" onmouseout="window.status='' ; return true" href="/smarthomedesignstore.html">
+<img src="http://cache.smarthome.com/images/smarthomedesignbutton.gif" alt="Smarthome Design Store" border="0" vspace="2">
+</a>
 </td>
 </tr>
 </tbody></table>
@@ -226,10 +307,11 @@ function SetCookie(cookieName,cookieValue,nDays) {
 <tbody><tr>
 <td valign="middle" align="center" bgcolor="#336699">
 <table border="0" cellpadding="2" cellspacing="0" bgcolor="#336699" width="148">
-<tbody><tr><td valign="top" align="left">
+<tbody><tr>
+<td valign="top" align="left">
 <div id="container">
 <div id="one" style="display: block" class="header">
-<img src="http://cache.smarthome.com/images/pt.gif" alt="pic" width="9" height="9" name="oneImg">
+	<img src="http://cache.smarthome.com/images/pt.gif" alt="pic" width="9" height="9" name="oneImg">
 <a class="white" href="starters.html">
 <b>Getting Started</b>
 </a>
@@ -318,15 +400,10 @@ function SetCookie(cookieName,cookieValue,nDays) {
 </div>
 </td>
 </tr>
+
 <tr>
 <td align="center">
-<a href="holiday2002.html" class="sred">
-<img border="0" src="http://cache.smarthome.com/images/holidayproducts.jpg" alt="Holiday Store" vspace="2">
-</a>
-</td>
-</tr>	<tr>
-<td align="center">
-	<a href="/asp/projref.asp" class="sred">
+<a href="/asp/projref.asp" class="sred">
 <img border="0" src="http://cache.smarthome.com/images/find-a-local-installer.gif" alt="Click here to Find a Local Installer" vspace="2">
 </a>
 </td>
@@ -342,26 +419,18 @@ function SetCookie(cookieName,cookieValue,nDays) {
 </div>	<br>
 <p></p>
 </div>
-
-
 </td>
 </tr>
-
-
-
-
-
 <tr>
 <td align="center">
 </td>
 </tr>
 <tr>
 <td align="left">
-
 <div id="fourteen" style="display: block" class="header">
 <img src="http://cache.smarthome.com/images/pt.gif" alt="pic" width="9" height="9" name="threeImg">
-<a class="white" href="holiday00.html">
-<b>Winter Products</b>
+<a class="white" href="spring1.html">
+<b>Spring Products</b>
 </a>
 </div>
 <div id="three" style="display: block" class="header">
@@ -400,7 +469,12 @@ function SetCookie(cookieName,cookieValue,nDays) {
 <b><nobr>Suggest a Product</nobr></b>
 </a>
 </div>
-</td>
+<div id="suggprod" style="display: block" class="header">
+<nobr><img src="http://cache.smarthome.com/images/pt.gif" alt="pic" width="9" height="9" name="nineImg">
+<a class="white" href="/employment.html">
+<b>Job Opportunities</b></a></nobr><a class="white" href="/employment.html">
+</a>
+</div>	</td>
 </tr>
 <tr>
 <td>
@@ -430,13 +504,17 @@ function SetCookie(cookieName,cookieValue,nDays) {
 </a>
 </td>
 </tr>
+<tr><td>
+<img src="http://cache.smarthome.com/images/pt.gif" alt="pic" width="9" height="9" name="nineImg">&nbsp;
+<a class="white" href="spanish-aboutsmarthome.html">
+<b>Como hacer un orden de SmartHome</b>
+</a>
+</td></tr>
 <tr>
 <td>
 &nbsp;
 </td>
 </tr>
-
-
 </tbody></table>
 </td>
 </tr>
@@ -457,7 +535,7 @@ function SetCookie(cookieName,cookieValue,nDays) {
 <td valign="top" align="left" bgcolor="#FFFFFF" width="100%">
 <p class="copy2"><font size="2" color="#000000" class="text2">
 <br><br><font size="4" face="Verdana, Geneva, Arial"></font></font></p><center><font size="2" color="#000000" class="text2"><font size="4" face="Verdana, Geneva, Arial"><font color="#336699"><b>PRIVACY AND SECURITY</b></font></font></font></center><font size="2" color="#000000" class="text2"><font size="4" face="Verdana, Geneva, Arial">
-<table border="0" width="100%" cellspacing="5" cellpadding="5"><tbody><tr height="1"><td><img src="http://cache.smarthome.com/images/1x1.gif" width="250" height="1"></td></tr><tr><td bgcolor="#FF9966" align="center"><font size="2" face="Verdana, Geneva, Arial"><font color="#FFFFFF"><b>Your Information</b></font></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial">At SMARTHOME™, we are committed to providing you with a high quality shopping experience with respect for your security and privacy. In order to process your order efficiently, or to send you the correspondence you request , we will need to collect certain information from you. The information may include your name, address, phone number, e-mail address, or credit card number and expiration date.</font></p><p><font size="2" face="Verdana, Geneva, Arial">SMARTHOME™ does not share any of the financial information on your account with outside parties except as required to transact your orders. When, in the future, we identify reputable third parties whose products or services we believe would benefit our customers, we may choose to share this information with those companies. If you do not want to receive offers from any third parties <a href="mailto:custsvc@smarthome.com" class="prodlnk">click here</a> (please use the subject no-third-parties and include your name and address in the body of the email). SMARTHOME™ does reserve the right to disclose personally identifiable information we've collected in order to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on SMARTHOME™ , or (2) protect and defend the property or rights of SMARTHOME™ or the users of the SMARTHOME™ Website.</font></p><p><font size="2" face="Verdana, Geneva, Arial">To further safeguard your privacy, we offer the use of a secure server using software that encrypts all the information in the transaction once you place the order. Additionally, all of the customer data we collect from the transaction is protected on our servers which are protected against unauthorized access. To learn more about these safeguards, <a href="securinfo.html" class="prodlnk">click here</a>.</font></p><p></p></td></tr><tr><td bgcolor="#FF9966" align="center"><font size="2" face="Verdana, Geneva, Arial" font="" color="#FFFFFF"><b>Use of "Cookies"</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial">The SMARTHOME™ website uses a technology called "cookies" which are small files stored by your browser to help identify you for our shopping basket and to store the contents of your shopping basket between visits. We do not currently share any of the information we collect from cookies with outside parties. Most web browsers automatically accept cookies, but if you wish, you can usually change your browser settings to prevent cookies. If you disable cookies on your browser, our shopping basket will not be able to log you in, so please either use our <a href="orderform.html" class="prodlnk">manual order form </a>or phone your order in at 1-800-SMARTHOME (800-786-7846).</font></p><p></p></td></tr><tr><td bgcolor="#FF9966" align="center"><font size="2" face="Verdana, Geneva, Arial" font="" color="#FFFFFF"><b>Making Changes</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial"></font></p><font size="2" face="Verdana, Geneva, Arial">You may update or change information related to your SMARTHOME™ account by e-mailing us at <a href="mailto:custsvc@smarthome.com" class="prodlnk">custsvc@smarthome.com</a> with any changes you need to make (e.g., changing your mailing address when you move).<p></p><p></p></font></td></tr><tr><td bgcolor="#FF9966" align="center"><font size="2" face="Verdana, Geneva, Arial" font="" color="#FFFFFF"><b>Policy Changes</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial">SMARTHOME™ may periodically make changes to this Privacy Policy, so we encourage you to visit this page again. It is our commitment to keep you aware of any changes to our Policy by posting those changes on this page.</font></p><p></p></td></tr><tr><td bgcolor="#FF9966" align="center"><font size="2" face="Verdana, Geneva, Arial" font="" color="#FFFFFF"><b>Questions?</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial">If you have additional questions about our Privacy/Information Use Policy, please contact us at <a href="mailto:custsvc@smarthome.com" class="prodlnk">custsvc@smarthome.com</a>.</font></p><p></p></td></tr><tr><td bgcolor="#FF9966" align="center"><font size="2" face="Verdana, Geneva, Arial" font="" color="#FFFFFF"><b>Important Note</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial">This SMARTHOME™ Privacy &amp; Information Use Policy does not cover information that is inherent to the operation of the Internet, and therefore beyond the control of SMARTHOME™, and is not to be applied in any manner contrary to applicable law or governmental regulation. This policy is subject to change at any time.</font></p></td></tr></tbody></table><table border="0" width="100%" cellspacing="5" cellpadding="5"><tbody><tr height="1"><td><img src="http://cache.smarthome.com/images/1x1.gif" width="250" height="1"></td></tr></tbody></table><table border="0" width="100%" cellspacing="5" cellpadding="5"><tbody><tr height="1"><td><img src="http://cache.smarthome.com/images/1x1.gif" width="250" height="1"></td></tr><tr><td bgcolor="#FF9966" align="center"><font size="2" face="Verdana, Geneva, Arial"><font color="#FFFFFF"><b>Secure Ordering</b></font></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr>
+<table border="0" width="100%" cellspacing="5" cellpadding="5"><tbody><tr height="1"><td><img src="http://cache.smarthome.com/images/1x1.gif" width="250" height="1"></td></tr><tr><td bgcolor="#DDDDDD" align="center"><font size="2" face="Verdana, Geneva, Arial"><font color="#000000"><b>Your Information</b></font></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial">At SMARTHOME™, we are committed to providing you with a high quality shopping experience with respect for your security and privacy. In order to process your order efficiently, or to send you the correspondence you request , we will need to collect certain information from you. The information may include your name, address, phone number, e-mail address, or credit card number and expiration date.</font></p><p><font size="2" face="Verdana, Geneva, Arial">SMARTHOME™ does not share any of the financial information on your account with outside parties except as required to transact your orders. When, in the future, we identify reputable third parties whose products or services we believe would benefit our customers, we may choose to share this information with those companies. If you do not want to receive offers from any third parties <a href="mailto:custsvc@smarthome.com" class="prodlnk">click here</a> (please use the subject no-third-parties and include your name and address in the body of the email). SMARTHOME™ does reserve the right to disclose personally identifiable information we've collected in order to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on SMARTHOME™ , or (2) protect and defend the property or rights of SMARTHOME™ or the users of the SMARTHOME™ Website.</font></p><p><font size="2" face="Verdana, Geneva, Arial">To further safeguard your privacy, we offer the use of a secure server using software that encrypts all the information in the transaction once you place the order. Additionally, all of the customer data we collect from the transaction is protected on our servers which are protected against unauthorized access. To learn more about these safeguards, <a href="securinfo.html" class="prodlnk">click here</a>.</font></p><p></p></td></tr><tr><td bgcolor="#DDDDDD" align="center"><font size="2" face="Verdana, Geneva, Arial" font="" color="#000000"><b>Use of "Cookies"</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial">The SMARTHOME™ website uses a technology called "cookies" which are small files stored by your browser to help identify you for our shopping basket and to store the contents of your shopping basket between visits. We do not currently share any of the information we collect from cookies with outside parties. Most web browsers automatically accept cookies, but if you wish, you can usually change your browser settings to prevent cookies. If you disable cookies on your browser, our shopping basket will not be able to log you in, so please either use our <a href="orderform.html" class="prodlnk">manual order form </a>or phone your order in at 1-800-SMARTHOME (800-786-7846).</font></p><p></p></td></tr><tr><td bgcolor="#DDDDDD" align="center"><font size="2" face="Verdana, Geneva, Arial" font="" color="#000000"><b>Making Changes</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial"></font></p><font size="2" face="Verdana, Geneva, Arial">You may update or change information related to your SMARTHOME™ account by e-mailing us at <a href="mailto:custsvc@smarthome.com" class="prodlnk">custsvc@smarthome.com</a> with any changes you need to make (e.g., changing your mailing address when you move).<p></p><p></p></font></td></tr><tr><td bgcolor="DDDDDD" align="center"><font size="2" face="Verdana, Geneva, Arial" font="" color="#000000"><b>Policy Changes</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial">SMARTHOME™ may periodically make changes to this Privacy Policy, so we encourage you to visit this page again. It is our commitment to keep you aware of any changes to our Policy by posting those changes on this page.</font></p><p></p></td></tr><tr><td bgcolor="#DDDDDD" align="center"><font size="2" face="Verdana, Geneva, Arial" font="" color="#000000"><b>Questions?</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial">If you have additional questions about our Privacy/Information Use Policy, please contact us at <a href="mailto:custsvc@smarthome.com" class="prodlnk">custsvc@smarthome.com</a>.</font></p><p></p></td></tr><tr><td bgcolor="#DDDDDD" align="center"><font size="2" face="Verdana, Geneva, Arial" font="" color="#000000"><b>Important Note</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial">This SMARTHOME™ Privacy &amp; Information Use Policy does not cover information that is inherent to the operation of the Internet, and therefore beyond the control of SMARTHOME™, and is not to be applied in any manner contrary to applicable law or governmental regulation. This policy is subject to change at any time.</font></p></td></tr></tbody></table><table border="0" width="100%" cellspacing="5" cellpadding="5"><tbody><tr height="1"><td><img src="http://cache.smarthome.com/images/1x1.gif" width="250" height="1"></td></tr></tbody></table><table border="0" width="100%" cellspacing="5" cellpadding="5"><tbody><tr height="1"><td><img src="http://cache.smarthome.com/images/1x1.gif" width="250" height="1"></td></tr><tr><td bgcolor="#DDDDDD" align="center"><font size="2" face="Verdana, Geneva, Arial"><font color="#000000"><b>Secure Ordering</b></font></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr>
 <tr><td colspan="2" face="Verdana, Geneva, Arial">
 <p><font size="2" face="Verdana, Geneva, Arial">Orders placed at Smarthome.com are secure.</font></p><font size="2" face="Verdana, Geneva, Arial">
 <p>Typical communications across the Internet using web browsers are not normally encrypted. In theory this means that someone with the technical knowledge and hardware to capture data could potentially read communications that you send or receive. The Smarthome web servers are equipped with industry standard Secure Sockets Layer (SSL) <a href="http://www.rsasecurity.com/rsalabs/faq/5-1-2.html" target="_blank" class="prodlnk">data encryption technology</a> that enables anyone using an SSL-compatible browser (such as Internet Explorer, America On-Line or Netscape Navigator or Communicator) to send and receive data from our server in encrypted form.</p>
@@ -465,10 +543,10 @@ function SetCookie(cookieName,cookieValue,nDays) {
 <p>When you click on "check out" our server will automatically transfer you into secure mode if it is supported by your browser. Most browsers give an indication that you have a secure connection by showing a closed lock in the status bar at the bottom of the browser window. In all cases, the displayed URL will show https instead of http.</p>
 <p>If you get an error when you try to enter secure mode, it may be that you have an incompatible browser, or you are behind a firewall that does not support encrypted transmissions. (You may need to contact your ISP or system administrator to resolve these problems.) Please feel free to place your order via our toll-free order line (open 24 hours) at 800-SMARTHOME (800-762-7846).</p><p></p>
 </font></td></tr>
-<tr><td bgcolor="#FF9966" align="center"><font size="2" font="" color="#FFFFFF" face="Verdana, Geneva, Arial"><b>Verisign Authenticated</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr>
+<tr><td bgcolor="#DDDDDD" align="center"><font size="2" font="" color="#000000" face="Verdana, Geneva, Arial"><b>Verisign Authenticated</b></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr>
 <tr><td colspan="2">
 <p><font size="2" face="Verdana, Geneva, Arial">Verisign is an independent, 3rd party company engaged in the development of digital trust. Verisign provides authentication of internet services, digital identity and intellectual property. By clicking on the Verisign logo below, the Verisign website will serve up a web page which confirms that SMARTHOME™ is "Verisign Authenticated".</font></p></td></tr>
-<tr><td valign="top" align="center" colspan="2"><a href="javascript:SH_PopOpen('https://digitalid.verisign.com/as2/275db5190be5609a2bcf2efab274f700','Verisign','toolbar=0,location=0,directories=0,status=1,menub  ar=1,scrollbars=1,resizable=1,width=500,height=450')"><img src="http://cache.smarthome.com/images/verisign.gif" border="0" align="top" width="66" height="72"></a></td></tr></tbody></table><br><br><table border="0" width="100%" cellspacing="5" cellpadding="5"><tbody><tr height="1"><td><img src="http://cache.smarthome.com/images/1x1.gif" width="250" height="1"></td><td><img src="http://cache.smarthome.com/images/1x1.gif" width="1" height="1"></td></tr><tr><td bgcolor="#FF9966" align="center"><font size="2" face="Verdana, Geneva, Arial"><font color="#FFFFFF"><b>Customer Comment</b></font></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial"><i>Robert,<br><br>Thank you very much for your quick attention to this! I really appreciate good customer service, and in this case I believe you've done extremely well. The replacement arrived today, in good shape. Thank you again for taking care of this so quickly. I'll definitely be keeping SmartHome on my list of preferred sources on the internet.<br><br> Jonathan K. - Cypress, CA<br></i></font></p></td></tr><tr><td colspan="2"><font size="2">To see more customer comments <a class="prodlnk" href="testimonials.html">click here</a>.</font></td></tr></tbody></table>
+<tr><td valign="top" align="center" colspan="2"><a href="javascript:SH_PopOpen('https://digitalid.verisign.com/as2/275db5190be5609a2bcf2efab274f700','Verisign','toolbar=0,location=0,directories=0,status=1,menub  ar=1,scrollbars=1,resizable=1,width=500,height=450')"><img src="http://cache.smarthome.com/images/verisign.gif" border="0" align="top" width="66" height="72"></a></td></tr></tbody></table><br><br><table border="0" width="100%" cellspacing="5" cellpadding="5"><tbody><tr height="1"><td><img src="http://cache.smarthome.com/images/1x1.gif" width="250" height="1"></td><td><img src="http://cache.smarthome.com/images/1x1.gif" width="1" height="1"></td></tr><tr><td bgcolor="#DDDDDD" align="center"><font size="2" face="Verdana, Geneva, Arial"><font color="#000000"><b>Customer Comment</b></font></font></td><td bgcolor="#FFFFFF" width="100%"></td></tr><tr><td colspan="2"><p><font size="2" face="Verdana, Geneva, Arial"><i>Robert,<br><br>Thank you very much for your quick attention to this! I really appreciate good customer service, and in this case I believe you've done extremely well. The replacement arrived today, in good shape. Thank you again for taking care of this so quickly. I'll definitely be keeping SmartHome on my list of preferred sources on the internet.<br><br> Jonathan K. - Cypress, CA<br></i></font></p></td></tr><tr><td colspan="2"><font size="2">To see more customer comments <a class="prodlnk" href="testimonials.html">click here</a>.</font></td></tr></tbody></table>
 <br></font><p></p><br>
 <br>
 <img border="0" src="http://cache.smarthome.com/images/1x1.gif" width="630" height="1"></font></td>
@@ -505,7 +583,7 @@ function SetCookie(cookieName,cookieValue,nDays) {
 </tr>
 
 <tr>
-<td colspan="2" valign="middle" align="center" width="100%" bgcolor="#FFFFFF"><font size="1" class="stext">Copyright © 1995-2004 SMARTHOME™
+<td colspan="2" valign="middle" align="center" width="100%" bgcolor="#FFFFFF"><font size="1" class="stext">Copyright © 1995-2005 SMARTHOME™
 </font></td>	</tr>
 <tr>
 
