@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219051043id_/http%3A//www.anz.com.au/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616032908id_/http%3A//www.anz.com.au/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
 
 # ANZ Web Site Privacy and Security Statement
 
@@ -74,6 +74,7 @@ and to track the performance of their marketing efforts. When you access the ANZ
 In addition, ANZ also uses the following companies to collect information on how you utilise the ANZ Website: 
 
   * RedSheriff Limited 
+  * Memetrics Pty Ltd 
 
 
 
@@ -92,6 +93,7 @@ You can access the Privacy Statements from the Companies here:
   * [Traffion](http://www.traffion.com/privacy/privacy.asp); 
   * [Advertising.com;](http://www.advertising.com/privacy_policy.htm)
   * [RedSheriff](http://www.redsheriff.com/au/content/privacy_1.html)
+  * Memetrics 
 
 
 
