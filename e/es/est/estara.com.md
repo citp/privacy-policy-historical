@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205184550id_/http%3A//www.estara.com/aboutus/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403113015id_/http%3A//www.estara.com/aboutus/privacy.php) for the most accurate reproduction.*
 
 # eStara, Inc. Privacy Policy
 
@@ -6,18 +6,18 @@
 
 Quote
 
-25% of eStara callers who made apurchase said without Push to Talk, they would have quit the transaction.
+"96% of 'high-spenders' (>$500/six months) use online voice-based services for customer contact."
 
-\--eStara Online Survey
+\--Jupiter Research
 
   
   
 |  | 
 
 **eStara Privacy Statement**   
-eStara Inc. ("eStara") is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for the eStara website located at [http://www.estara.com](http://www.estara.com/) ("the Site"). 
+eStara Inc. ("eStara") is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for the eStara website located at <http://www.estara.com/> ("the Site"). 
 
-[](https://www.truste.org/ivalidate.php?url=www.estara.com) TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because eStara wants to demonstrate its commitment to your privacy, it has agreed to disclose its information gathering practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, eStara has agreed to notify you of: 
+[](http://www.truste.org/ivalidate.php?url=www.estara.com&sealid=101) TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because eStara wants to demonstrate its commitment to your privacy, it has agreed to disclose its information gathering practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, eStara has agreed to notify you of: 
 
   1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Site 
   2. The organization collecting the information; 
@@ -32,6 +32,14 @@ eStara Inc. ("eStara") is a licensee of the TRUSTe Privacy Program. This privacy
 eStara has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this Site. 
 
 eStara is committed to the highest degree of privacy of visitors to our Site. We will keep any and all information collected at this Site strictly confidential and will not sell, trade or otherwise convey the identity, address or any other information, including personally identifiable information, regarding its users or viewers to outside parties. The information we collect is used to disseminate information directly to users who have requested such information and to improve the content of our Site and our web voice service. It is not shared with other organizations for commercial purposes. 
+
+**Security**
+
+The security of your personal information is important to us.  When you enter sensitive information (such as credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL).  To learn more about SSL, click [here](http://www.nwfusion.com/details/473.html).
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can email us at [marketing@estara.com](mailto:marketing@estara.com).
 
 **Special Cases**   
 It is eStara policy not to use or share the personal information about users of our services in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, eStara may disclose personal information about users, or information regarding your use of our services, for any reason if, in our sole discretion, the information is required to prevent the abuse of our services, to comply with governmental or legal requests for such information or to identify, contact, or bring legal action against someone who may be using eStara services in an attempt to harass a third party or otherwise violate acceptable use of our services. 
@@ -86,6 +94,10 @@ If we decide to change our privacy policy, we will post those changes on our Sit
 **Disclaimer**   
 Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
-If you have any questions or concerns regarding this statement, you should first contact eStara by emailing at [marketing@estara.com](mailto:marketing@estara.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the Site to resolve your concerns. However, please understand the TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site. 
+If you have any questions or concerns regarding this statement, you should first contact eStara by emailing at [marketing@estara.com](mailto:marketing@estara.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the Site to resolve your concerns. However, please understand the TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site.
+
+**Effective Date:**   Through December 31, 2005
+
+**Physical Address** : eStara Inc., 1821 Michael Faraday Drive, Suite 100, Reston, VA  20190
 
 | 
