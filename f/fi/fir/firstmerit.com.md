@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstmerit.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216160600id_/http%3A//www.firstmerit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstmerit.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331125954id_/http%3A//firstmerit.com/privacy.html) for the most accurate reproduction.*
 
 # FirstMerit Privacy and Security Principles
 
