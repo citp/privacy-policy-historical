@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803133001id_/http%3A//www.armchairempire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610202843id_/http%3A//www.armchairempire.com/Miscellaneous/privacy_statement.htm) for the most accurate reproduction.*
 
 # The Armchair Empire - Privacy Statement
 
@@ -24,9 +24,7 @@ Parents of our younger users may at any time, revoke their consent, and may requ
 
 Though The Armchair Empire will take reasonable measures to ensure that users under the age of 13 do not disclose their private information without first obtaining parental consent, the site cannot guarantee the protection of young users who choose not to disclose their age and who do not follow the requirements set forth by COPA.
 
-> The Armchair Empire  
->  485 Glenbrook Drive  
->  New Westminster, BC V3L 5K2
-> 
-> Canada  
+> RR9  740 Creekside Crescent  
+>  Gibsons, BC  
+>  Canada  V0N 1V9  
 > 
