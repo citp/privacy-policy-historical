@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620221221id_/http%3A//www.haygroup.com/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204010659id_/http%3A//haygroup.com/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Hay Group - Privacy Policy
+
+[Home](https://web.archive.org/) : 
 
 Hay Group values the privacy of its Web site (the "Site") users. This Privacy Policy demonstrates our commitment to your privacy, and explains what information we collect from the Site and how we use that information. This Site is not intended for persons under 13 years old. We do not knowingly request or collect personal information from or about children. We may make changes to this Privacy Policy at any time. 
 
