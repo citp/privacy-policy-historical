@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204150047id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204051213id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
 
-# I DRIVE SAFELY
+# Defensive Driving Online Traffic School
 
 I DRIVE SAFELY is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site **www.idrivesafely.com**. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
 
@@ -55,5 +55,11 @@ Our customers are given the opportunity to "demo" our site prior to payment.
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email or by posting a notice on our website for 30 days. 
+
+**Corporate Office**
+
+674 Via de la Valle, Suite 300  
+Solana Beach, CA 92075  
+858.724.0040
 
 "Privacy Policy effective July 7, 2004" 
