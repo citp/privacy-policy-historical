@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eveningnews24.co.uk privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205022324id_/http%3A//www.eveningnews24.co.uk/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveningnews24.co.uk privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206164915id_/http%3A//www.eveningnews24.co.uk/Privacy.asp) for the most accurate reproduction.*
 
-# EveningNews24
+# Norwich Evening News 24
 
 Privacy statement for Archant Regional websites
 
