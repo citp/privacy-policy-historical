@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox23.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208003807id_/http%3A//www.fox23.com/copyright/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox23.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626022514id_/http%3A//fox23.com/copyright/privacypolicy.aspx) for the most accurate reproduction.*
 
 # KOKI FOX23 -- TULSA
 
