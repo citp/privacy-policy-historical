@@ -1,45 +1,43 @@
-> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605041943id_/http%3A//dictionary.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416001447id_/http%3A//reference.com/help/privacy.html) for the most accurate reproduction.*
 
-# Dictionary.com/Privacy Statement
+# Reference.com/Privacy Policy
 
-## Privacy Statement
+## Privacy Policy
 
-Lexico, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Dictionary.com.
+The following discloses our privacy policy for this web site: Reference.com. We take your privacy concerns seriously and we strive to earn and keep your trust. Please do not hesitate to contact us with your questions and concerns (contact information is provided below).
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
+We do not share your personal information, including your e-mail address, with other parties. We hate spam as much as you, so we won't give your information to anyone.
 
-This site contains links to other sites. **Dictionary.com** is not responsible for the privacy practices or the content of such Web sites.
+We do not send unsolicited e-mail. If you are receiving e-mail from us, it is because at some point you, or someone with access to your e-mail account, requested it. You can always opt out of any e-mail we send you simply by following the instructions that appear at the bottom of the e-mail message in question. If you are receiving e-mail from us in response to an inquiry you made, you can rest assured that we will use your e-mail address for no purpose other than to respond to your inquiry.
 
-**Dictionary.com** only shares aggregate information with its affiliates, advertisers and business partners. **Dictionary.com** does not share any information about specific visitors.
+We use your [IP address](https://web.archive.org/go/http://dictionary.reference.com/search?q=IP%20address) to help diagnose problems with our server, and to administer our Web site. Your IP address may also be used to gather broad demographic information.
 
-Our online surveys ask visitors for contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.
+This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
 
-We run contests on our site in which we ask visitors for contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to check the users' qualifications for registration. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
+Reference.com shares only aggregate information with its affiliates, advertisers and business partners. We do not share any information about specific visitors. For example, we may give potential advertisers information that applies to all users of Reference.com generally, but we would never tell them anything about _you personally_.
 
-We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site.
+We use [cookies](https://web.archive.org/go/http://dictionary.reference.com/search?q=cookie) for various purposes, including: 
 
-To find out more about how L90 manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.l90.com/external_site/privacy_policy.html>.
+  * to control ad delivery (for example, to limit the number of pop-up ads you see)
+  * to indicate your subscription status (to check whether or not you are signed in as a subscriber)
+  * to customize and enhance your experience
 
-To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
 
-## Public Forums
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+### Public Forums
 
-## Security
+This site makes chat rooms, forums, message boards, and news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+### Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-## Supplementation Information
+### Children's Guidelines
 
-This site supplements the information that you provide with information that is received from third parties.
+This Web site meets the guidelines of [TRUSTe's](https://web.archive.org/go/http://www.truste.org/) Children's program.  
+ **Reference.com DOES NOT** :
 
-## Children's Guidelines
-
-This Web site meets the guidelines of TRUSTe's Children's program.  
- **Dictionary.com DOES NOT**:
-
-  * collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
+  * collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes
   * collect personally identifiable offline contact information without prior parental consent
   * distribute to third parties any personally identifiable information with out prior parental consent
   * give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
@@ -47,30 +45,48 @@ This Web site meets the guidelines of TRUSTe's Children's program.
 
 
 
-## Choice/Opt-Out
+### Third-Party Advertisers
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners **at the point where we request information about the visitor**.
+We use outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Here is a list of advertising networks with whom we have relationships: 
 
-This site gives users the following option for removing their information from our database to not receive future communications or to no longer receive our service: 
-
-  * You can send email to [webmaster@dictionary.com](http://www.dictionary.com/help/forms/webmaster.html?Choice/Opt-Out)
-
-
-
-## Correct/Update
-
-This site gives users the following option for changing and modifying information previously provided:
-
-  * email [webmaster@dictionary.com](http://www.dictionary.com/help/forms/webmaster.html?Correct/Update)
+  * [Advertising.com](https://web.archive.org/go/http://www.advertising.com/)
+  * [Be Free](https://web.archive.org/go/http://www.befree.com/)
+  * [ClickAgents](https://web.archive.org/go/http://clickagents.com/)
+  * [Commission Junction](https://web.archive.org/go/http://www.commissionjunction.com/)
+  * [Fastclick](https://web.archive.org/go/http://www.fastclick.com/)
+  * [LinkShare](https://web.archive.org/go/http://www.linkshare.com/)
+  * [QuinStreet](https://web.archive.org/go/http://www.quinstreet.com/)
+  * [Tribal Fusion](https://web.archive.org/go/http://www.tribalfusion.com/)
 
 
 
-## Contacting the Web Site
+### Choice/Opt-Out
+
+If you are receiving e-mail from us and wish to stop, simply follow the instructions at the bottom of the e-mail message in question.
+
+### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-> Customer Service  
->  Lexico, LLC  
->  13428 Maxella Avenue, Suite 236  
+> Lexico Publishing Group, LLC  
+>  Attn: Customer Service  
+>  13428 Maxella Avenue #236  
 >  Marina del Rey, CA 90292  
->  [webmaster@dictionary.com](http://www.dictionary.com/help/forms/webmaster.html?Privacy%20Policy)
+>  [E-mail](https://web.archive.org/help/contact.html)
+
+|  | [**93% Satisfaction**](https://web.archive.org/go/http://achieve.phoenix.edu/banners.asp?revkey=3587)  
+See why thousands of professionals in your field advance their careers with University of Phoenix.  
+---  
+Sponsored Link  
+  
+[**Free College Money**](https://web.archive.org/go/http://www.fastweb.com/ib/dictionary-2f)  
+Use FastWeb's free scholarship search to find information on more than 600,000 scholarships!  
+---  
+Sponsored Link  
+  
+[**Unlimited Nationwide Calling**](https://web.archive.org/go/https://www.simpleservice.biz/register/simpleservice/wotdw3)  
+Flat Fee $49.95/mo. - No Contracts - Call Anyone, Anytime - No Hidden Fees - Activated In Minutes!  
+---  
+Sponsored Link  
+  
+
