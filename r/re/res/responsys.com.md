@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209221553id_/http%3A//www.responsys.com/corporate/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401112151id_/http%3A//www.responsys.com/corporate/policies/privacy.asp) for the most accurate reproduction.*
 
 # Responsys - Privacy Policy
 
