@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202014557id_/http%3A//rollcall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606080255id_/http%3A//www.rollcall.com/privacy) for the most accurate reproduction.*
 
 # Roll Call Newspaper Online || Privacy Policy
 
