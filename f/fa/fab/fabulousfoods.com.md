@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2002-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021103005834id_/http%3A//www.fabulousfoods.com/community/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401095321id_/http%3A//www.fabulousfoods.com/community/privacypol.html) for the most accurate reproduction.*
 
 # FABULOUS FOODS
 
@@ -36,15 +36,9 @@ P.O. Box 5041
 Playa del Rey, CA 90296  
 cheri@fabulousfoods.com 
 
-|  [](http://www.fabulousfoods.com/cards/index.php)
-
-[](https://web.archive.org/cgi-bin/quiz/quirex.cgi)
-
 Sign up today for one of our **FREE** informative and fun **Newsletters**.   
 
 
-Shop Here for  
-TopSelling products  
-at Amazon.com  
-  
+[](http://www.fabulousfoods.com/cards/index.php)
 
+[](https://web.archive.org/cgi-bin/quiz/quirex.cgi)
