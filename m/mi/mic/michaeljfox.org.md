@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802111351id_/http%3A//www.michaeljfox.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602115123id_/http%3A//www.michaeljfox.org/privacy.php) for the most accurate reproduction.*
 
 # Michael J. Fox Foundation - Privacy Policy
 
-Privacy Policy  
+  
+| 
 
+PRIVACY POLICY
 
-The Michael J. Fox Foundation for Parkinson's Research is committed to safeguarding your privacy. This statement explains our online information practices and the choices you can make about the way the information you provide us is collected and used. For easy and direct access, we provide a link to this statement from our home page and all other pages of the site.
+The Michael J. Fox Foundation for Parkinson's Research is committed to safeguarding your privacy. This statement explains our online information practices and the choices you can make about the way the information you provide us is collected and used. For easy and direct access, we provide a link to this statement from our home page and all other pages of the site. 
 
-The Foundation is the sole owner of and the only organization that uses the information collected on this site. We will not sell, share, or rent this information to others under any circumstances.
+The Foundation is the sole owner of and the only organization that uses the information collected on this site. We will not sell, share, or rent this information to others under any circumstances. 
 
 "Cookies"
 
@@ -15,13 +17,13 @@ Other than the specific instances outlined in this policy, the Foundation does n
 
 Online Donations
 
-The Foundation collects the following information through our secure online financial-transaction pages: name, address, e-mail address, phone number, and credit card information. This personally identifiable information is used to acknowledge receipt of your donation for tax purposes and to include you on the Foundation's mailing list if you choose to join it.
+The Foundation collects the following information through our secure online financial-transaction pages: name, address, e-mail address, phone number, and credit card information. This personally identifiable information is used to acknowledge receipt of your donation for tax purposes and to include you on the Foundation's mailing list if you choose to join it. 
 
 When you send a donation in honor or in memory of someone and request that an acknowledgement be sent to another individual or a family, we will use the name and address of that individual or family for acknowledgement purposes only.
 
 Mailing List
 
-The Foundation provides a separate online form to join our mailing list. The information we collect includes: name, address, e-mail address, and phone number. This information is securely stored internally and accessed only when we correspond with our mailing list periodically during the year, either via e-mail or regular mail.
+The Foundation provides a separate online form to join our mailing list. The information we collect includes: name, address, e-mail address, and phone number. This information is securely stored internally and accessed only when we correspond with our mailing list periodically during the year, either via e-mail or regular mail. 
 
 Please contact us directly by regular mail if at any time you wish to be removed from the mailing list or if you would like to correct or change the personal information you have previously provided. To protect your privacy and security, we will take certain steps to verify your identity before granting access to your information or making corrections. Callers will be asked specific questions, including full name, address, phone number, and, if applicable, credit card numbers and/or expiration date, in order to verify their identity and protect the privacy of the Foundation's donors and members of its mailing list.
 
@@ -41,7 +43,9 @@ Contact Us
 
 If you have specific questions or concerns about the Foundation's privacy policy, please contact us at the following address:
 
-The Michael J. Fox Foundation for Parkinson's Research  
+**The Michael J. Fox Foundation for Parkinson's Research  
 Grand Central Station  
 P.O. Box 4777  
-New York, NY 10163 
+New York, NY 10163 **
+
+|  
