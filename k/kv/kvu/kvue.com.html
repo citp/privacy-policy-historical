@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kvue.com privacy policy that was archived on 2002-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603164213id_/http%3A//www.kvue.com/registration/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kvue.com privacy policy that was archived on 2002-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021211115708id_/http%3A//www.kvue.com/registration/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <!-- change the page title below for each new section --> 
@@ -39,25 +39,98 @@ if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.ind
   OAS_version = 10;
 if (OAS_version >= 11)
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
-</script><script language="JavaScript1.1" src="http://ads.belointeractive.com/RealMedia/ads/adstream_mjx.ads/www.kvue.com/registration/1036763045@Frame1,Frame2,Top,Top1,Top2,Top3,Position1,Position2,Position3,Position4,Right1,Right2,Left,Left1,Left2,Left3,Middle1,Middle2,Bottom1,Bottom2?"></script>
+</script><script language="JavaScript1.1" src="http://ads.belointeractive.com/RealMedia/ads/adstream_mjx.ads/www.kvue.com/registration/1499838687@Frame1,Frame2,Top,Top1,Top2,Top3,Position1,Position2,Position3,Position4,Right1,Right2,Left,Left1,Left2,Left3,Middle1,Middle2,Bottom1,Bottom2?"></script>
 <script language="JavaScript">
 <!--
 document.write('');
 function OAS_AD(pos) {
-if (((doAll==false) && (NS6==false)) && ((pos=="Frame1") || (pos=="Frame2")))  {
+if (((doAll==true) || (doAll!=true) || (navigator.userAgent.indexOf("Mac") != -1)) && ((pos=="Frame1") || (pos=="Frame2")))  {
+
 } else {
 //	alert("Passed else");
+
   if (OAS_version >= 11)
     OAS_RICH(pos);
   else
     OAS_NORMAL(pos);
+
 }
 
 }
 //-->
 </script>
+<script language="JAVASCRIPT">
+<!--
+function openWin(html,winname,ht,wd,mb,lb,tb,sb)
+{
+ // convert all characters to lowercase to simplify testing
+    var agt=navigator.userAgent.toLowerCase();
+
+    // *** BROWSER VERSION ***
+    // Note: On IE5, these return 4, so use is_ie5up to detect IE5.
+    var is_major = parseInt(navigator.appVersion);
+    var is_minor = parseFloat(navigator.appVersion);
+
+    // Note: Opera and WebTV spoof Navigator.  We do strict client detection.
+    // If you want to allow spoofing, take out the tests for opera and webtv.
+    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+                && (agt.indexOf('webtv')==-1));
+    var is_nav3 = (is_nav && (is_major == 3));
+    var is_nav4up = (is_nav && (is_major >= 4));
+    var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) ||
+                          (agt.indexOf("; nav") != -1)) );
+
+    var is_ie   = (agt.indexOf("msie") != -1);
+    var is_ie3  = (is_ie && (is_major < 4));
+    var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) );
+    var is_ie4up  = (is_ie  && (is_major >= 4));
+    var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
+    var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4);
+
+    // KNOWN BUG: On AOL4, returns false if IE3 is embedded browser
+    // or if this is the first browser window opened.  Thus the
+    // variables is_aol, is_aol3, and is_aol4 aren't 100% reliable.
+    var is_aol   = (agt.indexOf("aol") != -1);
+    var is_aol3  = (is_aol && is_ie3);
+    var is_aol4  = (is_aol && is_ie4);
+
+var attr = "scrollbars,resizable,height=" + ht + ",width=" + wd + ",menubar=" + mb + ",locationbar=" + lb + ",toolbar=" + tb + ",statusbar=" + sb 
+
+      if (is_nav3 || is_nav4up)
+           {
+            win1 = window.open(html,winname,attr)
+                win1.focus()
+      }
+      else if (is_ie4up)
+                {
+            win1 = window.open(html,winname,attr)
+                win1.focus()
+      }
+      else{
+                        window.open(html,winname,attr);
+     }
+
+}
+function MM_displayStatusMsg(msgStr) { //v2.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+
+
+function OpenPopup(url) {
+openpopup = window.open(url,"poll","width=520,height=450,left=0,top=50,scrollbars,resizable");
+         openpopup.opener.name = "opener";
+         }
+function MM_displayStatusMsg(msgStr) { //v2.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+//-->
+</script>
+
 <!------ end ad serving setup info - OAS SETUP end ------>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 <link rel="stylesheet" type="text/css" href="/css/bi.css">
 	<script language="JavaScript1.2" src="/scripts/coremenu.js"></script> 
 	<script language="JavaScript1.2" src="/scripts/core.js"></script>
@@ -72,12 +145,12 @@ MM_reloadPage(true);
 // -->
 	</script>
 </head>
-<body onload="PlaceMenus(); setLeftNav();" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" bgcolor="#ffffff" background="http://a940.g.akamai.net/f/940/442/5m/www.kvue.com/images/gbl_backgrnd.gif">
+<body class="ie" onload="PlaceMenus(); setLeftNav();" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" bgcolor="#ffffff" background="http://www.kvue.com/images/gbl_backgrnd.gif">
 <!-- ********** BEGIN LOGO AND AD BANNER AREA ********** -->
     <table border="0" cellspacing="0" cellpadding="0" width="761" height="76">
       <tbody><tr> 
         
-    <td colspan="2" align="left" valign="top" width="240"><a href="/index.html"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_logo.gif" width="240" height="60" border="0" alt="Click to return to the home page"></a></td>
+    <td colspan="2" align="left" valign="top" width="240"><a href="/index.html"><img src="http://www.kvue.com/images/gbl_logo.gif" width="240" height="60" border="0" alt="Click to return to the home page"></a></td>
 		<td rowspan="2" width="16">
 <!-- AD Top3 for accounting purposes--> 
 <script language="JavaScript">
@@ -94,12 +167,12 @@ OAS_AD('Top');
 //-->
 </script>
       <!-- end Ad Top --> </td>
-    <td width="37" rowspan="2" align="left" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="37" height="76" border="0"></td>
+    <td width="37" rowspan="2" align="left" valign="top"><img src="http://www.kvue.com/images/pixel.gif" width="37" height="76" border="0"></td>
   </tr>
   <tr> 
-        <td width="120" align="left" valign="middle" class="date" height="16"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="3" height="16" border="0" align="left">Austin</td>
+        <td width="120" align="left" valign="middle" class="date" height="16"><img src="http://www.kvue.com/images/pixel.gif" width="3" height="16" border="0" align="left">Austin</td>
         <td align="right" valign="middle" class="date" width="120" height="16"> 
-          <img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="1" height="16" border="0" align="left">
+          <img src="http://www.kvue.com/images/pixel.gif" width="1" height="16" border="0" align="left">
 <script language="JavaScript1.2" type="text/javascript">
 							document.write(lmonth + " ");
 							document.write(date + ", " + year);
@@ -112,9 +185,10 @@ OAS_AD('Top');
 <!-- start first column -->
     <td valign="top" class="leftnavbg" width="125">
 		<table border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr><td align="left" valign="top" width="125"><a href="/index.html" id="a0" onmouseover="menuOver(0);" onmouseout="menuOut(0);" idx="SiteMenu"><img name="I0" src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_cor_homemenu0_off.gif" alt="Home Menu Navigation" width="125" height="17" border="0" class="over"></a></td></tr>
+			<tbody><tr><td align="left" valign="top" width="125"><a href="/index.html" id="a0" onmouseover="menuOver(0);" onmouseout="menuOut(0);" idx="SiteMenu"><img name="I0" src="http://www.kvue.com/images/gbl_cor_homemenu0_off.gif" alt="Home Menu Navigation" width="125" height="17" border="0" class="over"></a></td></tr>
 			<tr>
-          <td align="left" valign="top" width="125" class="leftnavbg"> 
+          <td align="left" valign="top" width="125" class="leftnavbg">
+ 
             <!-- * CHANGE MENU INCLUDE IF NEEDED * --> <!-- * BEGIN LEFT NAV AREA * -->
 
 <div id="dvLN"><!-- This DIV is necessary for NS6 to create a collection of anchors within it. -->
@@ -125,7 +199,7 @@ OAS_AD('Top');
 
 				
     <tbody><tr> 
-      <td height="15" width="125" background="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_pattern_bb3.gif"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="125" height="15" alt="" border="0"></td>
+      <td height="15" width="125" background="http://www.kvue.com/images/gbl_pattern_bb3.gif"><img src="http://www.kvue.com/images/pixel.gif" width="125" height="15" alt="" border="0"></td>
 
 				</tr>
 
@@ -143,7 +217,23 @@ OAS_AD('Top');
 
 				<tr>
 
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+
+				</tr>
+
+<!-- * END COPY * -->
+
+<!-- * START COPY * -->
+
+				<tr>
+
+	 <td align="left" valign="middle"><a href="/entertainment/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Movies &amp; More</a></td>
+
+				</tr>
+
+				<tr>
+
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 
 				</tr>
 
@@ -159,28 +249,12 @@ OAS_AD('Top');
 
 				<tr>
 
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 
 				</tr>
 
 <!-- * END COPY * -->
 
-
-<!-- * START COPY * -->
-
-				<tr>
-
-	 <td align="left" valign="middle"><a href="/entertainment/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Entertainment</a></td>
-
-				</tr>
-
-				<tr>
-
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
-
-				</tr>
-
-<!-- * END COPY * -->
 
 <!-- * START COPY * -->
 
@@ -192,26 +266,24 @@ OAS_AD('Top');
 
 				<tr>
 
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 
 				</tr>
 
 <!-- * END COPY * -->
 
 <!-- * START COPY * -->
-
 				<tr>
 
-	 <td align="left" valign="middle"><a href="/trafficvue/cams/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Live WebCams</a></td>
+	 <td align="left" valign="middle"><a href="/community/events/index.jsp" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Event Calendar</a></td>
 
 				</tr>
 
 				<tr>
 
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 
 				</tr>
-
 <!-- * END COPY * -->
 
 <!-- * START COPY * -->
@@ -224,7 +296,7 @@ OAS_AD('Top');
 
 				<tr>
 
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 
 				</tr>
 
@@ -234,13 +306,13 @@ OAS_AD('Top');
 
 				<tr>
 
-	 <td align="left" valign="middle"><a href="/pets/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Pets of the Week</a></td>
+	 <td align="left" valign="middle"><a href="/family/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Family &amp; Kids</a></td>
 
 				</tr>
 
 				<tr>
 
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 
 				</tr>
 
@@ -250,13 +322,73 @@ OAS_AD('Top');
 
 				<tr>
 
-	 <td align="left" valign="middle"><a href="/music/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Music</a></td>
+	 <td align="left" valign="middle"><a href="/cams/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Live WebCams</a></td>
 
 				</tr>
 
 				<tr>
 
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+
+				</tr>
+
+<!-- * END COPY * -->
+<!-- * START COPY * -->
+
+				<tr>
+
+	 <td align="left" valign="middle"><a href="/family/pet/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;PetVUE</a></td>
+
+				</tr>
+
+				<tr>
+
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+
+				</tr>
+
+<!-- * END COPY * -->
+<!-- * START COPY * -->
+
+				<tr>
+
+	 <td align="left" valign="middle"><a href="http://www.kvue.com/cgi-bin/postcards/xpostcards.pl" class="menuitem" style="z-index:0;">&nbsp;&nbsp;Free Postcards</a></td>
+
+				</tr>
+
+				<tr>
+
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+
+				</tr>
+
+<!-- * END COPY * -->
+<!-- * START COPY * -->
+
+				<tr>
+
+	 <td align="left" valign="middle"><a href="/recipes/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Food/Recipes</a></td>
+
+				</tr>
+
+				<tr>
+
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+
+				</tr>
+
+<!-- * END COPY * -->
+<!-- * START COPY * -->
+
+				<tr>
+
+	 <td align="left" valign="middle"><a href="/sharedcontent/features/punchbutton/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Punchbutton</a></td>
+
+				</tr>
+
+				<tr>
+
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 
 				</tr>
 
@@ -271,7 +403,7 @@ OAS_AD('Top');
 
 				<tr>
 
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 
 				</tr>
 
@@ -280,43 +412,13 @@ OAS_AD('Top');
 
 				<tr>
 
-	 <td align="left" valign="middle"><a href="/recipes/vitindex.html" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Food/Recipes</a></td>
+	 <td align="left" valign="middle"><a href="/news/doesitwork/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Does it Work?</a></td>
 
 				</tr>
 
 				<tr>
 
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
-
-				</tr>
-
-<!-- * END COPY * -->
-<!-- * START COPY * -->
-
-				<tr>
-
-	 <td align="left" valign="middle"><a href="/entertainment/contestevents/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Contest/Events</a></td>
-
-				</tr>
-
-				<tr>
-
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
-
-				</tr>
-
-<!-- * END COPY * -->
-<!-- * START COPY * -->
-
-				<tr>
-
-	 <td align="left" valign="middle"><a href="/entertainment/lottery/" class="menuitem" style="z-index:0;" id="LeftA">&nbsp;&nbsp;Texas Lottery</a></td>
-
-				</tr>
-
-				<tr>
-
-					<td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+					<td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 
 				</tr>
 
@@ -337,36 +439,39 @@ OAS_AD('Top');
 <!-- * END LEFT NAV AREA * -->  <!-- * BEGIN MARKETPLACE AREA * -->
 <table border="0" cellpadding="0" cellspacing="0" width="125">
   <tbody><tr> 
-    <td style="padding-top: 15px;"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_marketplace.gif" alt="" width="125" height="15" border="0"></td>
+    <td style="padding-top: 15px;"><img src="http://www.kvue.com/images/gbl_marketplace.gif" alt="" width="125" height="15" border="0"></td>
   </tr>
   <tr> 
-    <td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+    <td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
   </tr>
   <tr> 
     <td class="backgroundB2">
-      <div align="center"><a href="http://cars.com/kvue"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/carscom-marketplacemenu.gif" width="81" height="37" border="0" alt="Find cars for sale and more!"></a></div>
+      <div align="center"><a href="http://www.careersite.kvue.com"><img src="http://www.kvue.com/images/jobcentermarketplacelogo.gif" width="95" height="36" border="0" vspace="4" alt="Click to search for jobs!"></a></div>
     </td>
   </tr>
   <tr> 
-    <td class="backgroundB2"><a href="http://cars.com/kvue" class="registry">Auto 
-      Classifieds </a></td>
+    <td class="backgroundB2"><a href="http://www.careersite.kvue.com" class="menuitem">• Find a job</a></td>
   </tr>
+  <tr> 
+    <td class="backgroundB2">
+      <div align="center"><a href="http://cars.com/kvue"><img src="http://www.kvue.com/images/carscom-marketplacemenu.gif" width="81" height="37" border="0" alt="Click to search Cars.com"></a></div>
+    </td>
+  </tr>      
   <tr><td class="backgroundB2"><!-- START CARS.COM SEARCH -->
 <!-- The script below pulls in our model table. Cars.com hosts the script to ensure its accuracy -->
 <script language="javascript" src="/sharedcontent/marketplace/carscom/makemodels-used.js"></script>
 <table border="0" cellspacing="0" cellpadding="0">
 <form name="QuickForm"></form>
-<input type="hidden" name="zc" value="78701"><!-- populate this field if you wnat your ZIP code in the pop pre-populated -->
+<input type="hidden" name="zc" value=""><!-- populate this field if you wnat your ZIP code in the pop pre-populated -->
 <tbody><tr>
-                        <td align="left" valign="top" colspan="3"><a href="http://cars.com/kvue" target="_top" class="registry">Find 
-                          Used Cars</a></td>
+                        <td align="left" valign="top" colspan="3"><a href="http://cars.com/kvue" target="_top" class="menuitem">• Find Used Cars</a></td>
 </tr>
 <tr>
 <td align="left" valign="top" colspan="3"> 
 <select name="mknm" onfocus="nMakePrevSelected=mknm.selectedIndex;" onchange="PopulateClient(this,nMakePrevSelected);doModels();" style="font-family: verdana;font-size: 10px;height=20;">
 <option value="">Select Make</option><option value="Acura">Acura</option><option value="Alfa Romeo">Alfa Romeo</option><option value="Aston Martin">Aston Martin</option><option value="Audi">Audi</option><option value="BMW">BMW</option><option value="Bentley">Bentley</option><option value="Buick">Buick</option><option value="Cadillac">Cadillac</option><option value="Chevrolet">Chevrolet</option><option value="Chrysler">Chrysler</option><option value="Daihatsu">Daihatsu</option><option value="Dodge">Dodge</option><option value="Eagle">Eagle</option><option value="Ford">Ford</option><option value="GMC">GMC</option><option value="General Motors">General Motors</option><option value="Geo">Geo</option><option value="Honda">Honda</option><option value="Hyundai">Hyundai</option><option value="Infiniti">Infiniti</option><option value="Isuzu">Isuzu</option><option value="Jaguar">Jaguar</option><option value="Jeep">Jeep</option><option value="Kia">Kia</option><option value="Lamborghini">Lamborghini</option><option value="Land Rover">Land Rover</option><option value="Lexus">Lexus</option><option value="Lincoln">Lincoln</option><option value="Lotus">Lotus</option><option value="Mazda">Mazda</option><option value="Mercedes-Benz">Mercedes-Benz</option><option value="Mercury">Mercury</option><option value="Mitsubishi">Mitsubishi</option><option value="Nissan">Nissan</option><option value="Oldsmobile">Oldsmobile</option><option value="Plymouth">Plymouth</option><option value="Pontiac">Pontiac</option><option value="Porsche">Porsche</option><option value="Saab">Saab</option><option value="Saturn">Saturn</option><option value="Subaru">Subaru</option><option value="Suzuki">Suzuki</option><option value="Toyota">Toyota</option><option value="Volkswagen">Volkswagen</option><option value="Volvo">Volvo</option><option value="Renault">Renault</option><option value="Ferrari">Ferrari</option><option value="Rolls-Royce">Rolls-Royce</option><option value="Triumph">Triumph</option><option value="Sterling">Sterling</option><option value="Yugo">Yugo</option><option value="Fiat">Fiat</option><option value="Peugeot">Peugeot</option><option value="MG">MG</option><option value="Merkur">Merkur</option><option value="American Motors">American Motors</option><option value="Am General">Am General</option><option value="Daewoo">Daewoo</option><option value="Maserati">Maserati</option><option value="Panoz">Panoz</option><option value="DeTomaso">DeTomaso</option><option value="Qvale">Qvale</option><option value="Mini">Mini</option><option value="Hummer">Hummer</option><option value="">=======</option></select></td></tr>
 <tr>
-                        <td align="right"><a href="#" onclick="doModels();"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/marketplace/advertiserimages/carscom/carscom-go-button.gif" width="27" height="12" border="0"></a><!--<input type="button" value="Go" onClick="doModels();" name="button">--> 
+                        <td align="right"><a href="#" onclick="doModels();"><img src="http://www.kvue.com/marketplace/advertiserimages/carscom/carscom-go-button.gif" width="27" height="12" border="0"></a><!--<input type="button" value="Go" onClick="doModels();" name="button">--> 
                         </td>
                       </tr>
 </tbody></table>
@@ -532,31 +637,34 @@ window.name="opWin"+rand.toString();
 <!-- END CARS.COM SEARCH --></td></tr>
  <tr>
     <td class="backgroundB2">
-<a href="http://www.kvue.com/adv/wedding/index.html" class="registry">Bridal Resource </a>
+<a href="http://www.kvue.com/adv/wedding/index.html" class="menuitem">• Bridal Resource</a>
 </td>
   </tr> 
   <tr> 
-    <td class="backgroundB2"><a href="http://www.kvue.com/adv/lonestar/index.html" class="registry">LoneStar Traveler</a></td>
-  </tr>
-  <tr> 
-    <td class="backgroundB2"><a href="http://home.my-netlink.com/cgi-bin/indexhandler.cgi?isp_code=536" class="registry">My-NetLink</a></td>
+    <td class="backgroundB2"><a href="http://home.my-netlink.com/cgi-bin/indexhandler.cgi?isp_code=536" class="menuitem">• My-NetLink</a></td>
   </tr>
 
   <tr> 
-    <td class="backgroundB2"><a href="http://www.kvue.com/myspecialsdirect/" class="registry">My Specials Direct</a></td>
+    <td class="backgroundB2"><a href="http://www.kvue.com/myspecialsdirect/" class="menuitem">• MySpecialsDirect</a></td>
   </tr>
   <tr> 
-    <td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+    <td class="backgroundB2"><a href="/marketplace/datingcenter/" class="menuitem">• DatingCenter</a></td>
+  </tr>    
+  <tr> 
+    <td class="backgroundB2"><a href="http://marketplace.kvue.com" class="menuitem">• Market Guide</a></td>
+  </tr>   
+  <tr> 
+    <td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
   </tr>
 </tbody></table>
 <!-- * END MARKETPLACE AREA * -->
 <!-- * BEGIN REGISTRY MENU * -->
 <table border="0" cellpadding="0" cellspacing="0" width="125">
   <tbody><tr> 
-    <td style="padding-top: 15px;"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_mysite.gif" alt="" width="125" height="15" border="0"></td>
+    <td style="padding-top: 15px;"><img src="http://www.kvue.com/images/gbl_mysite.gif" alt="" width="125" height="15" border="0"></td>
   </tr>
   <tr> 
-    <td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+    <td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
   </tr>
   <tr> 
     <td class="backgroundB2"><a href="/myhomepage/" class="registry">My Home Page</a></td>
@@ -571,7 +679,7 @@ window.name="opWin"+rand.toString();
     <td class="backgroundB2"><a href="http://signin.kvue.com" class="registry">Account Info</a></td>
   </tr>
   <tr> 
-    <td align="left" height="1" valign="top"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+    <td align="left" height="1" valign="top"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
   </tr>
   <tr>
      <td>
@@ -634,10 +742,10 @@ OAS_AD('Left3');
     <!-- start second column --> 
     <td class="bordercolor" width="1"><img src="/images/pixel.gif" width="1" height="1"></td>
     <!-- start third column --> 
-    <td valign="top" width="498"> <table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="124"><a href="/news/" id="a1" onmouseover="menuOver(1);" onmouseout="menuOut(1);" idx="menu1image"><img name="I1" src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_cor_menu1_off.gif" alt="" width="124" height="17" border="0" class="over"></a></td>
-			<td width="125"><a href="/weather/" id="a2" onmouseover="menuOver(2);" onmouseout="menuOut(2);" idx="menu2image"><img name="I2" src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_cor_menu2_off.gif" alt="" width="125" height="17" border="0" class="over"></a></td>
-			<td width="125"><a href="/trafficvue/" id="a3" onmouseover="menuOver(3);" onmouseout="menuOut(3);" idx="menu3image"><img name="I3" src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_cor_menu3_off.gif" alt="" width="125" height="17" border="0" class="over"></a></td>
-			<td width="124"><a href="/sports/" id="a4" onmouseover="menuOver(4);" onmouseout="menuOut(4);" idx="menu4image"><img name="I4" src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_cor_menu4_off.gif" alt="" width="124" height="17" border="0" class="over"></a></td>
+    <td valign="top" width="498"> <table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="124"><a href="/news/" id="a1" onmouseover="menuOver(1);" onmouseout="menuOut(1);" idx="menu1image"><img name="I1" src="http://www.kvue.com/images/gbl_cor_menu1_off.gif" alt="" width="124" height="17" border="0" class="over"></a></td>
+			<td width="125"><a href="/weather/" id="a2" onmouseover="menuOver(2);" onmouseout="menuOut(2);" idx="menu2image"><img name="I2" src="http://www.kvue.com/images/gbl_cor_menu2_off.gif" alt="" width="125" height="17" border="0" class="over"></a></td>
+			<td width="125"><a href="/sports/" id="a3" onmouseover="menuOver(3);" onmouseout="menuOut(3);" idx="menu3image"><img name="I3" src="http://www.kvue.com/images/gbl_cor_menu3_off.gif" alt="" width="125" height="17" border="0" class="over"></a></td>
+			<td width="124"><a href="/classifieds/" id="a4" onmouseover="menuOver(4);" onmouseout="menuOut(4);" idx="menu4image"><img name="I4" src="http://www.kvue.com/images/gbl_cor_menu4_off.gif" alt="" width="124" height="17" border="0" class="over"></a></td>
         </tr>
 			</tbody></table> 
       <table border="0" cellspacing="0" cellpadding="0" width="498">
@@ -659,10 +767,10 @@ OAS_AD('Left3');
               </tr>
               <!-- * INCLUDE TERTNAV IF NEEDED * -->
    <tr> 
-    <td align="left" valign="top" class="bordercolor"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="1" height="1" border="0"></td>
+    <td align="left" valign="top" class="bordercolor"><img src="http://www.kvue.com/images/pixel.gif" width="1" height="1" border="0"></td>
   </tr>
   <tr> 
-          <td align="left" valign="middle" height="15" class="tertnavline"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="9" height="10" border="0" align="left">
+          <td align="left" valign="middle" height="15" class="tertnavline"><img src="http://www.kvue.com/images/pixel.gif" width="9" height="10" border="0" align="left">
     <div id="dvTN"><a href="http://signin.kvue.com" class="tertnav" id="tertnav">Registration</a><span class="tertnavline"> 
       | </span><a href="/registration/whyreg.html" class="tertnav" id="tertnav">Why Register?</a><span class="tertnavline"> 
       | </span> <a href="/registration/privacy.html" class="tertnav" id="tertnav">Privacy Policy</a><span class="tertnavline"> 
@@ -685,297 +793,224 @@ OAS_AD('Left3');
                 <td width="475" valign="top"> <!-- * START CONTENT BODY * --> 
                   <table width="100%" border="0" cellspacing="0" cellpadding="10" height="1">
                     <tbody><tr valign="top" align="left"> 
-                      <td width="617"> 
+                      <td class="pagebody"> 
                         
                           <h1>Privacy Policy</h1>
-                          This 
-                            Privacy Policy discloses the general privacy practices 
-                            for the Belo Interactive web sites, including kvue.com. Belo Interactive, Inc. is a subsidiary 
-                            of Belo Corp. ("Belo Interactive").<br>
-                            <br>
-                            Belo Interactive is committed to respecting your privacy 
-                            rights when visiting any Belo Interactive web site, 
-                            such as this one. To protect your Personal Information, 
-                            Belo Interactive has created the guidelines outlined 
-                            below. Understanding that Internet technologies are 
-                            rapidly evolving, any changes to this policy will 
-                            be promptly posted on this page, with an updated "effective 
-                            date" posted at the end of this policy.<br>
-                            <br>
-                            <b>Information 
-                            Collected<br>
-                            </b>While visiting any of the Belo Interactive web 
-                            sites (collectively, the "Site"), we may 
-                            ask you to register and/or provide information that 
-                            personally identifies you ("Personal Information") 
-                            for purposes of interacting with the Site. Such Personal 
-                            Information may include, but is not limited to, your 
-                            name, phone number, street address and e-mail address. 
-                            On any page that collects Personal Information, we 
-                            will specifically describe what information is required 
-                            in order to provide you with the product or service 
-                            or enter you in the promotion you have requested, 
-                            as well as respond to your inquiry or comment.<br>
-                            <br>
-                            <b>What are Cookies?</b> 
-                            A cookie is an element of data that a web site can 
-                            send to your browser, which may then be stored on 
-                            your system. This element of data is a piece of text, 
-                            not a program. The Site can only access the information 
-                            from a cookie sent by the Site. We cannot access other 
-                            cookies sent by other web sites or the information 
-                            contained therein. Additionally, we cannot learn your 
-                            e-mail address or any other information about you 
-                            through the use of a cookie. The only way we would 
-                            learn such information is if you specifically and 
-                            voluntarily submit that information to us, for example, 
-                            through a registration system, by entering a sweepstakes 
-                            or promotion, etc.<br>
-                            <br>
-                            <b>Why does the 
-                            Site use cookies?</b> Belo Interactive uses cookies 
-                            to track usage of the Site and further personalize 
-                            your experience when you are visiting the Site. By 
-                            tracking usage, we can best determine what features 
-                            of the Site best serve the users.<br>
-                            <br>
-                            <b>What benefits 
-                            do I receive from cookies?</b> Overall, the use of 
-                            cookies helps to give you a more personalized experience 
-                            at the Site. The information is used to keep our Site 
-                            fresh and relevant to you the user. Cookies also allow 
-                            you to avoid retyping your e-mail address and password 
-                            each time you access the Site.<br>
-                            <br>
-                            <b>May I decline 
-                            to accept a cookie?</b> You may decline to accept 
-                            cookies sent by the Site by selecting an option on 
-                            your browser to reject cookies. However, some portions 
-                            of the Site may require registration in order to access 
-                            those areas. In such cases, we ask that you register 
-                            and provide us with basic information on our registration 
-                            page, or sign in if previously registered. Cookies 
-                            enable our server to know that you are a registered 
-                            user; and will eliminate the need for you to log in 
-                            each time you access our Site. In addition, our registration 
-                            system may require that you accept the cookies from 
-                            the Site in order to access that portion of the Site.<br>
-                            <br>
-                            We use an advertising server developed by a third 
-                            party to display ads on the Site. Some of these ads 
-                            may contain cookies that are set by third parties 
-                            (i.e. advertising agencies or advertising clients). 
-                            We do not have access to these cookies or any information 
-                            that they may contain; please contact the advertiser 
-                            for more information on these cookies. Other sites 
-                            linked to the Site may also send cookies; however 
-                            we do not control such activities.<br>
-                            <br>
-                            <b>What happens 
-                            with the information collected in a cookie?</b> The 
-                            information stored in a cookie is used to identify 
-                            you to our server, to allow us to personalize your 
-                            experience on the Site, and to serve content and communications 
-                            that may be of interest to you.<br>
-                            <br>
-                            <b>IP Addresses: 
-                            </b>Belo Interactive does log IP addresses, or the 
-                            location of your computer on the Internet, for systems 
-                            administration and troubleshooting purposes and to 
-                            determine site usage.<br>
-                            <b><br>
-                            Use of Personal Information</b><br>
-                            We believe in protecting your privacy, and will not 
-                            share Personal Information with third parties outside 
-                            of Belo Corp. except as described in this Privacy 
-                            Policy. We believe that we can enhance your experience 
-                            on our Site with the information you share with us. 
-                            We use Personal Information about you to improve our 
-                            advertising and marketing efforts, to statistically 
-                            analyze Site usage, to improve our content and product 
-                            offerings and to personalize the Site's content, layout, 
-                            and services. We may also use your Personal Information, 
-                            such as your e-mail address or mailing address, to 
-                            contact you regarding products and/or services that 
-                            may be of interest to you, to respond to an inquiry 
-                            from you regarding the information that we have collected 
-                            or respond to your comments and suggestions.<br>
-                            <br>
-                            Belo Interactive may match specific and/or aggregated 
-                            Personal Information with third party data to provide 
-                            you with product and content offerings that interest 
-                            you and improve our advertising and marketing efforts. 
-                            Belo Interactive also may disclose aggregated user 
-                            statistics in order to describe our services to potential 
-                            advertisers, partners, other third parties, our affiliate 
-                            companies, and for other lawful purposes. For example, 
-                            we provide our advertisers with aggregate information 
-                            about our users, such as "2,000 people viewed 
-                            your ad today."<br>
-                            <br>
-                            As part of your experience on our Site, you may receive 
-                            communications from us related to products and services 
-                            that might interest you. While we believe these services 
-                            will enhance your experience at our Site, you will 
-                            at all times be able to opt out from receiving these 
-                            communications, either by specifically opting out 
-                            of these services or by deleting your profile from 
-                            our database.<br>
-                            <br>
-                            We have today, and will in the future have, arrangements 
-                            with third party service providers, such as credit 
-                            card processors, shipping companies and fulfillment 
-                            services. When you sign up for a service we offer 
-                            on the Site, we may be required to share Personal 
-                            Information with that service provider in order to 
-                            provide the service. These third party providers are 
-                            not permitted to retain or use Personal Information 
-                            for any purpose unrelated to providing the service.<br>
-                            <br>
-                            Belo Interactive may also offer other services as 
-                            a part of our Site (e.g., car buying service, personalized 
-                            finance and weather information alerts, contests, 
-                            sweepstakes and other promotions with unaffiliated 
-                            third parties). If you choose to use these optional 
-                            services or opportunities, we may provide some of 
-                            your Personal Information to third parties, such as 
-                            service providers and other parties assisting us in 
-                            providing the service. We will not do so without telling 
-                            you how we will use that information, and you can 
-                            avoid having us make such disclosures by choosing 
-                            not to use these services or features of the Site.<br>
-                            <br>
-                            We reserve the right to disclose Personal Information 
-                            when needed to comply with the law or a legal process, 
-                            cooperate with investigations of purported unlawful 
-                            activities, to identify persons violating the law, 
-                            or in connection with the sale of part or all of Belo 
-                            Interactive's or its affiliate's stock or assets. 
-                            <br>
-                            <br>
-                            <b>Party Collecting 
-                            the Information</b><br>
-                            This Privacy Policy only addresses the use and dissemination 
-                            of information that we collect from you. To the extent 
-                            that you disclose any information to other parties, 
-                            whether through, for example, on-line auctions, chat 
-                            rooms, personal ads, or the like, through third party 
-                            services or promotions offered on or through the Site 
-                            or through other web sites throughout the Internet, 
-                            different policies may apply and Belo Interactive 
-                            shall not be responsible for the use or dissemination 
-                            of such information.<br>
-                            <br>
-                            Our Sites may operate as part of a larger group of 
-                            sites, and may carry co-branded pages. In addition, 
-                            other sites may use the Site's or Belo Interactive's 
-                            name. Since Belo Interactive does not control the 
-                            privacy policies of third parties, you are subject 
-                            to the privacy customs and policies, if any, of such 
-                            third parties, and Belo Interactive shall not be responsible 
-                            for the use or dissemination of your private information 
-                            by such parties. Therefore, we encourage you to ask 
-                            questions and review those parties' privacy policies 
-                            before you disclose your Personal Information to others.<br>
-                            <br>
-                            <b>Links to Other 
-                            Materials</b><br>
-                            Third party sites linked to and from the Site are 
-                            not necessarily under the control of Belo Interactive. 
-                            Belo Interactive shall have no responsibilities or 
-                            liabilities whatsoever for the content or privacy 
-                            practices of any such linked site or any link or linking 
-                            program at any time. Belo Interactive does not necessarily 
-                            endorse companies (or related products or services) 
-                            to or from which the Site is linked. If you decide 
-                            to access any of the third party sites linked to the 
-                            Site, you do so entirely at your own risk. Belo Interactive 
-                            hereby disclaims any rights to trademarks, service 
-                            marks, trade names, logos, copyrights, patents, domain 
-                            names or other intellectual property interests of 
-                            third parties.<br>
-                            <br>
-                            <b><i>Children's Privacy</i></b><i><br>
-                            Belo Interactive cares about the safety of children 
-                            and their use of the Internet. Therefore, in accordance 
-                            with the Children's Online Privacy Protection Act 
-                            of 1998, we will never knowingly request or solicit 
-                            personally identifiable information from anyone under 
-                            the age of 13 without verifiable parental consent. 
-                            In the event that we receive actual knowledge that 
-                            we have collected such personal information without 
-                            the requisite and verifiable parental consent, we 
-                            will delete that information from our database as 
-                            quickly as is practical.<br>
-                            </i><br>
-                            <b>Opting-Out</b><br>
-                            We respect your privacy and ability to choose whether 
-                            to share information with us and any third party. 
-                            You may choose to "opt-out" of sharing Personal 
-                            Information in several ways. When choosing to use 
-                            certain features or services on the Site, you can 
-                            choose whether to share optional Personal Information 
-                            in connection with the feature or service. If you 
-                            receive communications from us that you prefer not 
-                            to receive, you may opt out from receiving these communications, 
-                            either by specifically indicating this preference 
-                            in a communication to us or by deleting your registration 
-                            profile from our database.<br>
-                            <br>
-                            You may also "opt-out" altogether from providing 
-                            Personal Information to us by not registering on the 
-                            Site and thereby not providing Personal Information. 
-                            You may also choose at a later date to have your name 
-                            removed from our database. To do so, please follow 
-                            the process described below.<br>
-                            <br>
-                            Certain portions of the Site and certain services 
-                            provided on the Site, however, do require registration 
-                            in order to access or use these areas and services. 
-                            If you choose not to register or provide certain information, 
-                            these areas will not be accessible to you.<br>
-                            <br>
-                            <b>Reviewing, 
-                            Changing and Deleting Your Personal Information</b><br>
-                            You may access all of the Personal Information that 
-                            we collect from you online and maintain by using the 
-                            procedure that follows. We use this procedure to better 
-                            safeguard your Personal Information. To protect your 
-                            privacy and security, we will also take reasonable 
-                            steps to verify your identity before granting access 
-                            or making corrections.<br>
-                            <br>
-                            You may also at any time choose to change or delete 
-                            your profile from our database using this procedure. 
-                            You should know that as a result of deregistration, 
-                            certain areas of our Site may no longer be accessible 
-                            to you.<br>
-                            <br>
-                            1. Enter (or click) http://signin.kvue.com in your browser.<br>
-                            <br>
-                            2. Sign in by entering your e-mail address and password. 
-                            Your account information will then be displayed.<br>
-                            <br>
-                            3. Modify your information and submit the form.<br>
-                            <br>
-                            <b>Security</b><br>
-                            Belo Interactive maintains industry standard safeguards 
-                            to ensure the security, integrity and privacy of the 
-                            Personal Information that you provide to Belo Interactive.<br>
-                            <br>
-                            <b>Contacting 
-                            Us</b><br>
-                            If you have any questions or comments about our Privacy 
-                            Policy, please e-mail us at helpcenter@belointeractive.com.<br>
-                            <br>
-                            <b>Effective Date 
-                            and Changes</b><br>
-                        This Privacy Policy is effective as of May 21, 2001. Belo 
-                        Interactive reserves the right to modify the terms of 
-                        this policy at any time and in our sole discretion, by 
-                        posting a change notice to this page. Your continued use 
-                        of the Site following our posting of a change notice will 
-                        constitute binding acceptance of those changes. </td>
+<b>Updated as of June 28, 2002</b><p></p>
+<p>This Privacy Policy discloses the general privacy practices for the Belo Interactive 
+  web sites, including <b>kvue.com</b>. Belo Interactive, Inc. (“Belo 
+  Interactive”) is a subsidiary of Belo Corp. </p>
+<p>Belo Interactive is committed to respecting your privacy rights when visiting 
+  any Belo Interactive web site, such as this one.&nbsp; To protect your Personal Information, 
+  Belo Interactive has created the guidelines outlined below. Understanding that 
+  Internet technologies are rapidly evolving, any changes to this policy will 
+  be promptly posted on this page, with an updated “effective date” posted at 
+  the end of this policy.&nbsp; </p>
+<p><br>
+  <b>Information Collected:</b></p>
+<p>While visiting any of the Belo Interactive web sites (collectively, 
+  the “Site”), we may ask you to register and/or provide information that personally 
+  identifies you (“Personal Information”) for purposes of interacting with the 
+  Site.&nbsp; Such Personal Information may include, but is not limited to, your name, 
+  phone number, street address, and e-mail address.&nbsp; On any page that collects 
+  Personal Information, we will specifically describe what information is required 
+  in order to provide you with the product or service, enter you in the promotion 
+  you have requested, or respond to your inquiry or comment.</p>
+<p><b>What are Cookies?</b><span>&nbsp; </span>A cookie is&nbsp; a small data text file 
+  that a web site sends to your browser, which&nbsp; is stored on your system.&nbsp;&nbsp;&nbsp; The 
+  Site can only access the information from a cookie sent by the Site.&nbsp; We cannot 
+  access cookies sent by other web sites or the information contained therein.&nbsp; 
+  Additionally, we cannot learn your e-mail address or any other information about 
+  you through the use of a cookie.&nbsp; The only way we would learn such information 
+  is if you specifically and voluntarily submit that information to us, for example, 
+  through a registration system, or by entering a sweepstakes or promotion.&nbsp; </p>
+<p>We use an advertising server developed by a third party to display ads on 
+  the Site.&nbsp; Some of these ads may contain cookies that are sent by third parties 
+  (e.g. advertising agencies or advertising clients). We do not have access to 
+  these cookies or any information that they contain. We encourage you to contact 
+  the advertiser or its privacy policy for more information on these cookies.&nbsp; 
+  Links from other Web sites that appear on the Site may also send cookies; but 
+  we do not control such activities.&nbsp; </p>
+<p><b>Why does the Site use cookies?</b><span>&nbsp; </span>Belo Interactive uses 
+  cookies to track usage of the Site and further personalize your experience when 
+  you are visiting the Site.&nbsp; By tracking usage, we can best determine what features 
+  of the Site best serve the users.&nbsp; </p>
+<p><b>What benefits do I receive from cookies?</b>&nbsp; Overall, the use of cookies 
+  helps to give you a more personalized experience at the Site.&nbsp; The information 
+  is used to keep our Site fresh and relevant to you the user.&nbsp; Cookies also identify 
+  you to our server, allowing you to avoid retyping your e-mail address and password 
+  each time you access the Site.</p>
+<p><b>May I decline to accept a cookie?</b><span>&nbsp; </span>You may decline to 
+  accept cookies sent by the Site by selecting an option on your browser to reject 
+  cookies.&nbsp; However, portions of the Site which require registration will not 
+  be accessible to you.&nbsp; In such cases, we ask that you register and provide us 
+  with basic information on our registration page, or sign in if previously registered.&nbsp; 
+  Cookies enable our server to know that you are a registered user, and will eliminate 
+  the need for you to log in each time you access our Site.&nbsp; </p>
+<p><b>IP Addresses</b>: Belo Interactive logs IP addresses, or the location of 
+  your computer on the Internet, for systems administration and troubleshooting 
+  purposes and to determine site usage.&nbsp; Your IP address does not contain personal 
+  information about you.</p>
+<p><br>
+  <b>Use of Personal Information</b> </p>
+<p>We believe in protecting your privacy, and will not share Personal Information 
+  with third parties outside of Belo Corp. except as described in this Privacy 
+  Policy.&nbsp; We believe we can enhance your experience on our Site with the information 
+  you share with us.&nbsp; We use Personal Information about you to improve our advertising 
+  and marketing efforts, to statistically analyze Site usage, to improve our content 
+  and product offerings and to personalize the Site’s content, layout, and services.&nbsp; 
+  We may also use your Personal Information, such as your e-mail address or mailing 
+  address, to contact you regarding products and/or services that may be of interest 
+  to you, to respond to an inquiry from you regarding the information that we 
+  have collected, or respond to your comments and suggestions.&nbsp; </p>
+<p>Belo Interactive may match specific and/or aggregated Personal Information 
+  with third party data to provide you with product and content offerings that 
+  interest you and improve our advertising and marketing efforts.&nbsp; Belo Interactive 
+  also may disclose aggregated user statistics in order to describe our services 
+  to potential advertisers, partners, other third parties, our affiliate companies, 
+  and for other lawful purposes.&nbsp; </p>
+<p>As part of your experience on our Site, you may receive communications from 
+  us related to products and services that might interest you.&nbsp; While we believe 
+  these services will enhance your experience at our Site, you will at all times 
+  be able to opt out from receiving these communications, either by specifically 
+  opting out of these services or by deleting your profile from our database.&nbsp; 
+  Please refer to “Opting-Out” for further reference.</p>
+<p>We have today, and will in the future have, arrangements with third party service 
+  providers, such as credit card processors, shipping companies and fulfillment 
+  services.&nbsp; When you sign up for a service we offer on the Site, we may be required 
+  to share Personal Information with that service provider in order to provide 
+  the service.&nbsp; These third party providers are required to comply with this policy 
+  and protect your information in the same way we do.&nbsp; They are not permitted 
+  to retain or use Personal Information for any purpose unrelated to providing 
+  the service.&nbsp; </p>
+<p>Belo Interactive may also offer other services as a part of our Site (e.g., 
+  car buying service, personalized finance and weather information alerts, contests, 
+  sweepstakes and other promotions with unaffiliated third parties). If you choose 
+  to use these optional services or opportunities, we may provide some of your 
+  Personal Information to these parties.&nbsp; We will not do so without telling you 
+  in advance, and you can avoid having us make such disclosures by choosing not 
+  to use these services or features of the Site.&nbsp; Some of these third parties 
+  may also collect their own Personal Information in connection with providing 
+  the service.&nbsp; We encourage you to check the applicable privacy policy for that 
+  portion of the Site prior to disclosing Personal Information.&nbsp; Please refer 
+  to “Party Collecting the Information” for further reference.</p>
+<p>We may provide Personal Information to our affiliated companies in order to 
+  improve our marketing and advertising efforts and your experience with our Site.&nbsp; 
+  Although this Privacy Policy generally applies only to Belo Interactive, and 
+  not to activities or information collected by our offline partners, in the event 
+  we share Personal Information you provide us on the Site, we will require that 
+  our affiliated companies comply with this policy with respect to that information 
+  and protect your information in the same way we do.</p>
+<p>We reserve the right to disclose Personal Information when needed to comply 
+  with the law or a legal process, cooperate with investigations of purported 
+  unlawful activities, to identify persons violating the law, or in connection 
+  with the sale of part or all of Belo Interactive’s or its affiliate’s stock 
+  or assets.</p>
+<h3>Party Collecting the Information</h3>
+<p>This Privacy Policy only addresses the use and dissemination of information 
+  that we collect from you.&nbsp; To the extent that you disclose any information to 
+  other parties, whether through, for example, on-line auctions, chat rooms, personal 
+  ads, or the like, through third party services or promotions offered on or through 
+  the Site or through other web sites throughout the Internet, different policies 
+  may apply and Belo Interactive shall not be responsible for the use or dissemination 
+  of such information.&nbsp; </p>
+<p>The Site may offer forums, message boards, or chat rooms as one of the services 
+  on the Site.&nbsp; If you disclose personal information in one of these forums, this 
+  information can be viewed, collected, and used by others.&nbsp; Belo Interactive 
+  is not responsible for the use of information you disclose in these forums.&nbsp; 
+  We encourage you to consult the Forum Rules regarding the policies and procedures 
+  that apply to that portion of the Site.</p>
+<p>Our Sites may operate as part of a larger group of sites, and may carry co-branded 
+  pages.&nbsp; In addition, other sites may use the Site’s or Belo Interactive’s name.&nbsp; 
+  Since Belo Interactive does not control the privacy policies of third parties, 
+  you are subject to the privacy customs and policies, if any, of such third parties, 
+  and Belo Interactive shall not be responsible for the use or dissemination of 
+  your private information by such parties.&nbsp; Therefore, we encourage you to ask 
+  questions and review those parties’ privacy policies before you disclose your 
+  Personal Information to others.&nbsp; </p>
+<br clear="all">
+<h3>Links to Other Materials</h3>
+<p>Third party sites linked to and from the Site are not necessarily 
+  under the control of Belo Interactive.&nbsp; Belo Interactive shall have no responsibilities 
+  or liabilities whatsoever for the content or privacy practices of any such linked 
+  site or any link or linking program at any time.&nbsp; Belo Interactive does not 
+  necessarily endorse companies (or related products or services) to or from which 
+  the Site is linked.&nbsp; If you decide to access any of the third party sites linked 
+  to the Site, you do so entirely at your own risk.&nbsp; </p>
+<h3><br>
+  <i><span style="font-family:&quot;Times New Roman&quot;">Children’s Privacy</span></i></h3>
+<p>Belo Interactive cares about the safety of children and 
+  their use of the Internet.&nbsp; Therefore, in accordance with the Children's Online 
+  Privacy Protection Act of 1998, we will never knowingly request or solicit personally 
+  identifiable information from anyone under the age of 13 without verifiable 
+  parental consent.&nbsp; In the event that we receive actual knowledge that we have 
+  collected such personal information without the requisite and verifiable parental 
+  consent, we will delete that information from our database as quickly as is 
+  practicable.</p>
+<p><br>
+  <b>Opting-Out</b><span style="font-size:14.0pt;"></span></p>
+<p>We respect your privacy and ability to choose whether to share information 
+  with us and any third party.&nbsp; You may choose to “opt-out” of sharing Personal 
+  Information in several ways.&nbsp; When choosing to use certain features or services 
+  on the Site, you can choose whether to share optional Personal Information in 
+  connection with the feature or service.&nbsp; If you receive communications from 
+  us that you prefer not to receive, you may opt out from receiving these communications,&nbsp; 
+  by modifying the contact options in your registration profile.</p>
+<p>There are four contact preference options available: (1) “opt-in” includes 
+  you in our special offer, discount and other programs with respect to our advertisers 
+  and partners via our My Specials Direct e-mail program or a similar program; 
+  (2) “site” includes you in our special offer, discount and other programs that 
+  relate to this Site from <b>kvue.com</b>; (3) “phone” allows you 
+  to be contacted by telephone with respect to any of these programs, and (4) 
+  “mail” allows you to be contacted by mail with respect to any of these programs.&nbsp; 
+  You may choose to be contacted by any or all of these methods, or “opt-out” 
+  by not selecting any contact options.&nbsp; You may change your contact options at 
+  any time by following the process described in “Reviewing, Changing, and Deleting 
+  Your Personal Information.”</p>
+<p>You may “opt-out” altogether from providing Personal Information to us by not 
+  registering on the Site and thereby not providing Personal Information.&nbsp; You 
+  may also choose at a later date to have your name removed from our database 
+  by deleting your registration profile.&nbsp; To do so, please follow the process 
+  described&nbsp; in “Reviewing, Changing, and Deleting Your Personal Information.”</p>
+<p>Certain portions of the Site and certain services provided on the Site, however, 
+  do require registration in order to access or use these areas and services.&nbsp; 
+  If you choose not to register or provide certain information, these areas will 
+  not be accessible to you.&nbsp; </p>
+<h3>Reviewing, Changing and Deleting Your Personal Information</h3>
+<p>You may access all of the Personal Information that we collect from you online 
+  and maintain by using the procedure that follows.&nbsp; We use this procedure to 
+  better safeguard your Personal Information.&nbsp; To protect your privacy and security, 
+  we will also take reasonable steps to verify your identity before granting access 
+  or making corrections.</p>
+<p>You may also at any time choose to change or delete your profile from our database 
+  using this procedure.&nbsp; You should know that if you choose to delete your profile, 
+  certain areas of our Site may no longer be accessible to you.</p>
+<p>1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span>Enter (or click) <a href="http://signin.kvue.com" target="_blank">http://signin.<b>kvue</b>.com</a> in your 
+  browser.</p>
+<p>2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span>Sign in by entering your e-mail address and password.&nbsp; Your account information 
+  will then be displayed.</p>
+<p>3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span>To change your contact options select “Contact Options,” make your selections, 
+  and submit the form.</p>
+<p>4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  </span>To remove your registration profile from our database, select “Delete 
+  My Account,” make your selections, and submit the form.</p>
+<p><b>Security</b><span>&nbsp; </span></p>
+<p>Belo Interactive maintains industry standard safeguards to ensure the security, 
+  integrity, and privacy of the Personal Information that you provide to Belo 
+  Interactive. </p>
+<p><b>Contacting Us</b><span>&nbsp; </span></p>
+<p>If you have any questions or comments about our Privacy Policy, please e-mail 
+  us at helpcenter@belointeractive.com.</p>
+<h3>Effective Date and Changes</h3>
+<p>This Privacy Policy is effective as of June 28<b>, </b>2002.&nbsp; Belo Interactive 
+  reserves the right to modify the terms of this policy at any time and in our 
+  sole discretion, by posting a change notice to this page.&nbsp; Your continued use 
+  of the Site following our posting of a change notice will constitute binding 
+  acceptance of those changes.&nbsp; </p>
+</td>
                     </tr>
 
                   </tbody></table>
@@ -1007,8 +1042,8 @@ OAS_AD('Left3');
 OAS_AD('Top1'); 
 //--></script>
               <!-- end AD Top1--></div>
-            <!-- * START SEARCH BOX --><table width="130" border="0" cellspacing="0" cellpadding="0"><form action="/cgi-bin/gsSearch/testSearch.cgi"></form>        <input type="hidden" name="AnyAll" value="OR">        <input type="hidden" name="expanded" value="YES">
-        <input type="hidden" name="SearchCount" value="50"><tbody><tr><td class="bordercolor" width="130" colspan="4"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="1" width="1"></td>    </tr>    <tr>       <td class="bordercolor" width="1"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="1" width="1"></td>      <td background="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_mod_head_aa1.gif" width="128" height="15" valign="middle" align="center" class="moduleheader" colspan="2">Search         kvue.com</td>      <td class="bordercolor" width="1"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="1" width="1"></td>    </tr>    <tr> <td class="bordercolor" width="1" rowspan="2"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="1" width="1"></td>       <td class="bordercolor" height="1" colspan="2"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="128" height="1" border="0"></td> <td class="bordercolor" width="1" rowspan="2"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="1" width="1"></td>    </tr>    <tr>       <td class="backgroundBlue" valign="top" align="right"><!-- begin CONTENT TABLE area --><input type="text" name="Search" size="11"></td>      <td class="backgroundBlue" valign="top" align="left"><input type="image" border="0" name="point" src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/go.gif" width="26" height="25"><!-- end CONTENT TABLE area --></td>   </tr>    <tr>      <td class="bordercolor" width="130" colspan="4" height="1"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="1" width="1"></td>    </tr>  </tbody></table><!-- * END SEARCH BOX --> </td>
+            <!-- * START SEARCH BOX --><table width="130" border="0" cellspacing="0" cellpadding="0"><form action="/cgi-bin/gsSearch/search.cgi"></form>        <input type="hidden" name="AnyAll" value="OR">        <input type="hidden" name="expanded" value="YES">
+        <input type="hidden" name="SearchCount" value="50"><tbody><tr><td class="bordercolor" width="130" colspan="4"><img src="http://www.kvue.com/images/pixel.gif" height="1" width="1"></td>    </tr>    <tr>       <td class="bordercolor" width="1"><img src="http://www.kvue.com/images/pixel.gif" height="1" width="1"></td>      <td background="http://www.kvue.com/images/gbl_mod_head_aa1.gif" width="128" height="15" valign="middle" align="center" class="moduleheader" colspan="2">Search         kvue.com</td>      <td class="bordercolor" width="1"><img src="http://www.kvue.com/images/pixel.gif" height="1" width="1"></td>    </tr>    <tr> <td class="bordercolor" width="1" rowspan="2"><img src="http://www.kvue.com/images/pixel.gif" height="1" width="1"></td>       <td class="bordercolor" height="1" colspan="2"><img src="http://www.kvue.com/images/pixel.gif" width="128" height="1" border="0"></td> <td class="bordercolor" width="1" rowspan="2"><img src="http://www.kvue.com/images/pixel.gif" height="1" width="1"></td>    </tr>    <tr>       <td class="backgroundBlue" valign="top" align="right"><!-- begin CONTENT TABLE area --><input type="text" name="Search" size="11"></td>      <td class="backgroundBlue" valign="top" align="left"><input type="image" border="0" name="point" src="http://www.kvue.com/images/go.gif" width="26" height="25"><!-- end CONTENT TABLE area --></td>   </tr>    <tr>      <td class="bordercolor" width="130" colspan="4" height="1"><img src="http://www.kvue.com/images/pixel.gif" height="1" width="1"></td>    </tr>  </tbody></table><!-- * END SEARCH BOX --> </td>
           <td align="left" width="8"><img src="/images/pixel.gif" width="8" height="1" border="0"> 
         </td></tr>
         <tr> 
@@ -1091,65 +1126,65 @@ OAS_AD('Right2');
 
 <tbody><tr> 
 
-    <td class="bordercolor" height="1" width="125"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="125" height="1"></td>
+    <td class="bordercolor" height="1" width="125"><img src="http://www.kvue.com/images/pixel.gif" width="125" height="1"></td>
 
-    <td class="bordercolor" height="1" rowspan="2"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="1" height="1"></td>
+    <td class="bordercolor" height="1" rowspan="2"><img src="http://www.kvue.com/images/pixel.gif" width="1" height="1"></td>
 
-    <td height="1" class="bordercolor" width="86"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="86" height="1"></td>
+    <td height="1" class="bordercolor" width="86"><img src="http://www.kvue.com/images/pixel.gif" width="86" height="1"></td>
 
-    <td class="bordercolor" height="1" rowspan="2"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="1" height="1"></td>
+    <td class="bordercolor" height="1" rowspan="2"><img src="http://www.kvue.com/images/pixel.gif" width="1" height="1"></td>
 
-    <td height="1" class="bordercolor" width="62"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="62" height="1"></td>
+    <td height="1" class="bordercolor" width="62"><img src="http://www.kvue.com/images/pixel.gif" width="62" height="1"></td>
 
-    <td class="bordercolor" height="1" rowspan="2"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="1" height="1"></td>
+    <td class="bordercolor" height="1" rowspan="2"><img src="http://www.kvue.com/images/pixel.gif" width="1" height="1"></td>
 
-    <td height="1" class="bordercolor" width="73"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="73" height="1"></td>
+    <td height="1" class="bordercolor" width="73"><img src="http://www.kvue.com/images/pixel.gif" width="73" height="1"></td>
 
-    <td class="bordercolor" height="1" rowspan="2"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="1" height="1"></td>
+    <td class="bordercolor" height="1" rowspan="2"><img src="http://www.kvue.com/images/pixel.gif" width="1" height="1"></td>
 
-    <td height="1" class="bordercolor" width="100"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="100" height="1"></td>
+    <td height="1" class="bordercolor" width="100"><img src="http://www.kvue.com/images/pixel.gif" width="100" height="1"></td>
 
-    <td class="bordercolor" height="1" rowspan="2"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="1" height="1"></td>
+    <td class="bordercolor" height="1" rowspan="2"><img src="http://www.kvue.com/images/pixel.gif" width="1" height="1"></td>
 
-    <td height="1" class="bordercolor" width="77"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="77" height="1"></td>
+    <td height="1" class="bordercolor" width="77"><img src="http://www.kvue.com/images/pixel.gif" width="77" height="1"></td>
 
-    <td class="bordercolor" height="1" rowspan="2"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="1" height="1"></td>
+    <td class="bordercolor" height="1" rowspan="2"><img src="http://www.kvue.com/images/pixel.gif" width="1" height="1"></td>
 
-    <td height="1" class="bordercolor" width="95"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="95" height="1"></td>
+    <td height="1" class="bordercolor" width="95"><img src="http://www.kvue.com/images/pixel.gif" width="95" height="1"></td>
 
-    <td class="bordercolor" height="1" rowspan="2"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="1" height="1"></td>
+    <td class="bordercolor" height="1" rowspan="2"><img src="http://www.kvue.com/images/pixel.gif" width="1" height="1"></td>
 
-    <td class="bordercolor" height="1" width="136"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="136" height="1"></td>
+    <td class="bordercolor" height="1" width="136"><img src="http://www.kvue.com/images/pixel.gif" width="136" height="1"></td>
 
 </tr>
 
   <tr> 
 
-    <td background="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_mod_head_aa2.gif"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="125" height="15"></td>
+    <td background="http://www.kvue.com/images/gbl_mod_head_aa2.gif"><img src="http://www.kvue.com/images/pixel.gif" width="125" height="15"></td>
 
-    <td background="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_mod_head_aa1.gif" align="center"><a href="/news/contact/" class="footer">Contact 
-
-      Us</a></td>
-
-    <td background="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_mod_head_aa1.gif" align="center"><a href="/registration/terms/" class="footer">Terms</a></td>
-
-    <td background="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_mod_head_aa1.gif" align="center"><a href="/registration/privacy.html" class="footer">Privacy</a></td>
-
-    <td background="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_mod_head_aa1.gif" align="center"><a href="/advertising/" class="footer">Advertising</a></td>
-
-    <td background="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_mod_head_aa1.gif" align="center"><a href="/sitemap/" class="footer">Site Map</a></td>
-
-    <td background="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_mod_head_aa1.gif" align="center" width="95"><a href="/news/about/" class="footer">About 
+    <td background="http://www.kvue.com/images/gbl_mod_head_aa1.gif" align="center" valign="top"><a href="/news/contact/" class="footer">Contact 
 
       Us</a></td>
 
-    <td background="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_mod_head_aa2.gif"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="135" height="15"></td>
+    <td background="http://www.kvue.com/images/gbl_mod_head_aa1.gif" align="center" valign="top"><a href="/registration/terms/" class="footer">Terms</a></td>
+
+    <td background="http://www.kvue.com/images/gbl_mod_head_aa1.gif" align="center" valign="top"><a href="/registration/privacy.html" class="footer">Privacy</a></td>
+
+    <td background="http://www.kvue.com/images/gbl_mod_head_aa1.gif" align="center" valign="top"><a href="/advertising/" class="footer">Advertising</a></td>
+
+    <td background="http://www.kvue.com/images/gbl_mod_head_aa1.gif" align="center" valign="top"><a href="/sitemap/" class="footer">Site Map</a></td>
+
+    <td background="http://www.kvue.com/images/gbl_mod_head_aa1.gif" align="center" width="95" valign="top"><a href="/news/about/" class="footer">About 
+
+      Us</a></td>
+
+    <td background="http://www.kvue.com/images/gbl_mod_head_aa2.gif"><img src="http://www.kvue.com/images/pixel.gif" width="135" height="15"></td>
 
 </tr>
 
 <tr> 
 
-    <td class="bordercolor" height="1" width="761" colspan="15"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="761" height="1"></td>
+    <td class="bordercolor" height="1" width="761" colspan="15"><img src="http://www.kvue.com/images/pixel.gif" width="761" height="1"></td>
 
 </tr>
 
@@ -1203,34 +1238,34 @@ OAS_AD('Bottom2');
 </script> 
 	<table border="0" cellpadding="0" cellspacing="0" width="125">
 		<tbody><tr height="17">
-			<td colspan="2"><a href="/index.html"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="125" border="0"></a></td>
+			<td colspan="2"><a href="/index.html"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="125" border="0"></a></td>
 		</tr>
 		<tr>
-      <td height="15" width="125" background="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/gbl_pattern_bb3.gif"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" width="125" height="15" alt="" border="0"></td>
+      <td height="15" width="125" background="http://www.kvue.com/images/gbl_pattern_bb3.gif"><img src="http://www.kvue.com/images/pixel.gif" width="125" height="15" alt="" border="0"></td>
 		</tr>
 <!-- *Start Home Menu Item* -->
 		<tr>
 			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/allergy/" class="menuitem" style="z-index:0;">&nbsp;Allergy Updates</a></td>
 		</tr>
 		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 		</tr>
 <!-- *END Menu Item* -->
 <!-- *Place duplicated row beneath this comment * -->
 <!-- *Start Home Menu Item* -->
 		<tr>
-			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/autos/" class="menuitem" style="z-index:0;">&nbsp;Automotive</a></td>
+			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/entertainment/" class="menuitem" style="z-index:0;">&nbsp;Movies &amp; More</a></td>
 		</tr>
 		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 		</tr>
 <!-- *END Menu Item* -->
 <!-- *Start Home Menu Item* -->
 		<tr>
-			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/entertainment/" class="menuitem" style="z-index:0;">&nbsp;Entertainment</a></td>
+			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/autos/" class="menuitem" style="z-index:0;">&nbsp;Automotive</a></td>
 		</tr>
 		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 		</tr>
 <!-- *END Menu Item* -->
 <!-- *Start Home Menu Item* -->
@@ -1238,15 +1273,15 @@ OAS_AD('Bottom2');
 			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/program/" class="menuitem" style="z-index:0;">&nbsp;What's on KVUE</a></td>
 		</tr>
 		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 		</tr>
 <!-- *END Menu Item* -->
 <!-- *Start Home Menu Item* -->
 		<tr>
-			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/trafficvue/cams/" class="menuitem" style="z-index:0;">&nbsp;Live WebCams</a></td>
+			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/community/events/index.jsp" class="menuitem" style="z-index:0;">&nbsp;Event Calendar</a></td>
 		</tr>
 		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 		</tr>
 <!-- *END Menu Item* -->
 <!-- *Start Home Menu Item* -->
@@ -1254,23 +1289,55 @@ OAS_AD('Bottom2');
 			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/homegarden/" class="menuitem" style="z-index:0;">&nbsp;Home &amp; Garden</a></td>
 		</tr>
 		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 		</tr>
 <!-- *END Menu Item* -->
 <!-- *Start Home Menu Item* -->
 		<tr>
-			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/pets/" class="menuitem" style="z-index:0;">&nbsp;Pets of the Week</a></td>
+			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/family/" class="menuitem" style="z-index:0;">&nbsp;Family &amp; Kids</a></td>
 		</tr>
 		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 		</tr>
 <!-- *END Menu Item* -->
 <!-- *Start Home Menu Item* -->
 		<tr>
-			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/music/" class="menuitem" style="z-index:0;">&nbsp;Music</a></td>
+			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/cams/" class="menuitem" style="z-index:0;">&nbsp;Live WebCams</a></td>
 		</tr>
 		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+		</tr>
+<!-- *END Menu Item* -->
+<!-- *Start Home Menu Item* -->
+		<tr>
+			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/family/pet/" class="menuitem" style="z-index:0;">&nbsp;PetVUE</a></td>
+		</tr>
+		<tr>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+		</tr>
+<!-- *END Menu Item* -->
+<!-- *Start Home Menu Item* -->
+		<tr>
+			<td width="125" align="left" valign="middle" class="corenavhome"><a href="http://www.kvue.com/cgi-bin/postcards/xpostcards.pl" class="menuitem" style="z-index:0;">&nbsp;Free Postcards</a></td>
+		</tr>
+		<tr>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+		</tr>
+<!-- *END Menu Item* -->
+<!-- *Start Home Menu Item* -->
+		<tr>
+			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/recipes/" class="menuitem" style="z-index:0;">&nbsp;Food/Recipes</a></td>
+		</tr>
+		<tr>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+		</tr>
+<!-- *END Menu Item* -->
+<!-- *Start Home Menu Item* -->
+		<tr>
+			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/sharedcontent/features/punchbutton/" class="menuitem" style="z-index:0;">&nbsp;Punchbutton</a></td>
+		</tr>
+		<tr>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 		</tr>
 <!-- *END Menu Item* -->
 <!-- *Start Home Menu Item* -->
@@ -1278,31 +1345,15 @@ OAS_AD('Bottom2');
 			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/news/health" class="menuitem" style="z-index:0;">&nbsp;HealthVue</a></td>
 		</tr>
 		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 		</tr>
 <!-- *END Menu Item* -->
 <!-- *Start Home Menu Item* -->
 		<tr>
-			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/recipes/vitindex.html" class="menuitem" style="z-index:0;">&nbsp;Food/Recipes</a></td>
+			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/news/doesitwork" class="menuitem" style="z-index:0;">&nbsp;Does it Work?</a></td>
 		</tr>
 		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
-		</tr>
-<!-- *END Menu Item* -->
-<!-- *Start Home Menu Item* -->
-		<tr>
-			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/entertainment/lottery/" class="menuitem" style="z-index:0;">&nbsp;Texas Lottery</a></td>
-		</tr>
-		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
-		</tr>
-<!-- *END Menu Item* -->
-<!-- *Start Home Menu Item* -->
-		<tr>
-			<td width="125" align="left" valign="middle" class="corenavhome"><a href="/entertainment/contestevents/" class="menuitem" style="z-index:0;">&nbsp;Contest/Events</a></td>
-		</tr>
-		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 		</tr>
 <!-- *END Menu Item* -->
 <!-- *Start Home Menu Item* -->
@@ -1310,7 +1361,7 @@ OAS_AD('Bottom2');
 			<td width="125" align="left" valign="middle" class="corenavhome"><a href="http://www.kvue.com/news/aboutKvue.html/" class="menuitem" style="z-index:0;">&nbsp;About KVUE</a></td>
 		</tr>
 		<tr>
-			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
+			<td align="left" height="1" valign="top" class="corenavhome"><img src="http://www.kvue.com/images/leftnav_rule.gif" width="125" height="1" border="0"></td>
 		</tr>
 <!-- *END Menu Item* -->
 	</tbody></table>
@@ -1333,61 +1384,65 @@ OAS_AD('Bottom2');
 	<table border="0" cellpadding="0" cellspacing="0" width="126">
 		<tbody><tr>
 <!-- * MENU1 SECTION LINK * -->
-			<td colspan="3"><a href="/news/"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="125" border="0"></a></td>
+			<td colspan="3"><a href="/news/"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="125" border="0"></a></td>
 		</tr>
 <!-- * Each menu item is separated by a BR and the corenav_dotted_blue gif * -->
 		<tr>
-			<td class="bordercolor" width="1"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="1"></td>
+			<td class="bordercolor" width="1"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="1"></td>
 			<td width="123" align="left" valign="top" class="corenav">
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/news/" class="corenav">Local News Home</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/news/state/" class="corenav">State News</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/news/nation/" class="corenav">U.S./World News</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/news/nation/" class="corenav">U.S. News</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="/news/world/" class="corenav">World News</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/business/" class="corenav">Business</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="/news/election/" class="corenav">Politics/Election</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/espanol/" class="corenav">En Español</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/business/click/" class="corenav">Tech. News</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/ptech/" class="corenav">Tech. News</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/video/" class="corenav">Video</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/sharedcontent/dallas/offbeat/vitindex.html" class="corenav">Offbeat News</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="http://ptech.belointeractive.com/ptech_gold.jsp?siteid=kvue_gold&amp;page=kvue.jsp" class="corenav">Personal Tech</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/video/" class="corenav">Online Video</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/news/cwk/" class="corenav">Family First</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="http://www.kvue.com/cgi-bin/bi/polls/polls.pl?location=goldkvue&amp;esite=kvue" class="corenav">Daily Polls</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/news/doesitwork/index.html" class="corenav">Does it Work?</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
-<!-- end menu item -->
-<!-- start menu item -->
-				&nbsp;&nbsp;<a href="/news/polls/" class="corenav">Poll Results</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/entertainment/lottery/" class="corenav">Texas Lottery</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start last menu item -->
 				&nbsp;&nbsp;<a href="http://www.ci.austin.tx.us/newairport/airlines.htm" class="corenav">ABIA Flight Info</a><br>
 <!-- end last menu item -->
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_rule.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"></td>
-			<td class="bordercolor" width="1"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="1"></td>
+				<img src="http://www.kvue.com/images/corenav_rule.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"></td>
+			<td class="bordercolor" width="1"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="1"></td>
 		</tr>
 	</tbody></table>
 </layer>
@@ -1408,57 +1463,61 @@ OAS_AD('Bottom2');
 	<table border="0" cellpadding="0" cellspacing="0" width="126">
 		<tbody><tr>
 <!-- * MENU2 SECTION LINK * -->
-			<td colspan="3"><a href="/weather/"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="125" border="0"></a></td>
+			<td colspan="3"><a href="/weather/"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="125" border="0"></a></td>
 		</tr>
 <!-- * Each menu item is separated by a BR and the corenav_dotted_blue gif * -->
 		<tr>
-			<td class="bordercolor" width="1"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="1"></td>
+			<td class="bordercolor" width="1"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="1"></td>
 			<td width="123" align="left" valign="top" class="corenav">
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/weather/" class="corenav">Weather Home</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/sevenday/" class="corenav">7 Day Forecast</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/doppler/" class="corenav">KVUE Doppler</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/doppler/index3.html" class="corenav">Motion Doppler</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/doppler/regdop.html" class="corenav">Regional Doppler</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/wcs/" class="corenav">Live Weather Net</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/doppler/satellite/" class="corenav">Satellite Images</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/weather/meteorologists/" class="corenav">Meteorologists</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/weather/weatherwarn/" class="corenav">WeatherWarn</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/allergy/" class="corenav">Allergy Updates</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
 				&nbsp;&nbsp;<a href="/weather/safety/" class="corenav">Weather Safety</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="/weather/commentary/vitindex.html" class="corenav">Weather FAQ</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start last menu item -->
 				&nbsp;&nbsp;<a href="/weather/snapshot/" class="corenav">Photo Contest</a><br>
 <!-- end last menu item -->
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_rule.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"></td>
-			<td class="bordercolor" width="1"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="1"></td>
+				<img src="http://www.kvue.com/images/corenav_rule.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"></td>
+			<td class="bordercolor" width="1"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="1"></td>
 		</tr>
 	</tbody></table>
 </layer>
@@ -1479,37 +1538,73 @@ OAS_AD('Bottom2');
 	<table border="0" cellpadding="0" cellspacing="0" width="126">
 		<tbody><tr>
 <!-- * MENU3 SECTION LINK * -->
-			<td colspan="3"><a href="/trafficvue/"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="125" border="0"></a></td>
+			<td colspan="3"><a href="/sports/"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="125" border="0"></a></td>
 		</tr>
 <!-- * Each menu item is separated by a BR and the corenav_dotted_blue gif * -->
 		<tr>
-			<td class="bordercolor" width="1"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="1" border="0" alt=""></td>
+			<td class="bordercolor" width="1"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="1" border="0" alt=""></td>
 			<td width="123" align="left" valign="top" class="corenav">
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/trafficvue/" class="corenav">TrafficVue Home</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/sports/" class="corenav">Sports News</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/trafficvue/us183/" class="corenav">US 183 Cameras</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/sports/fever/index.htm" class="corenav">H.S. Football</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/trafficvue/mopac/" class="corenav">Mopac Cameras</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/sports/ut/" class="corenav">UT Sports</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/trafficvue/i35/" class="corenav">I-35 Cameras</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/sports/bigtwelve/" class="corenav">Big 12 Sports</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/trafficvue/benwhite/" class="corenav">Ben White Cams</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/sports/cowboys/" class="corenav">Dallas Cowboys</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="/sports/texans/" class="corenav">Houston Texans</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="/sports/baseball/" class="corenav">Baseball</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="/sharedcontent/APStories/sports/NBA/cmbindex.html" class="corenav">Basketball</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="/sharedcontent/APStories/sports/autoracing/cmbindex.html" class="corenav">Auto Racing</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="/sharedcontent/APStories/sports/golf/cmbindex.html" class="corenav">Golf</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="http://www.kvue.com/sharedcontent/sports/tigerwoods/" class="corenav">Tiger Woods</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="/sharedcontent/APStories/sports/soccer/cmbindex.html" class="corenav">Soccer</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="/sharedcontent/APStories/sports/tennis/cmbindex.html" class="corenav">Tennis</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+<!-- end menu item -->
+<!-- start menu item -->
+				&nbsp;&nbsp;<a href="/sharedcontent/APStories/sports/NHL/cmbindex.html" class="corenav">Hockey</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start last menu item -->
-				&nbsp;&nbsp;<a href="/trafficvue/faq/" class="corenav">TrafficVue FAQ</a><br>
+				&nbsp;&nbsp;<a href="http://newsletters.belointeractive.com/" class="corenav">Newsletters</a><br>
 <!-- end last menu item -->
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_rule.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"></td>
-			<td class="bordercolor" width="1"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="1"></td>
+				<img src="http://www.kvue.com/images/corenav_rule.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"></td>
+			<td class="bordercolor" width="1"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="1"></td>
 		</tr>
 	</tbody></table>
 </layer>
@@ -1530,41 +1625,33 @@ OAS_AD('Bottom2');
 	<table border="0" cellpadding="0" cellspacing="0" width="125">
 		<tbody><tr>
 <!-- * MENU4 SECTION LINK * -->
-			<td colspan="3"><a href="/sports/"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="125" border="0"></a></td>
+			<td colspan="3"><a href="/classifieds/"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="125" border="0"></a></td>
 		</tr>
 <!-- * Each menu item is separated by a BR and the corenav_dotted_blue gif * -->
 		<tr>
-			<td class="bordercolor" width="1"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="1"></td>
+			<td class="bordercolor" width="1"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="1"></td>
 			<td width="123" align="left" valign="top" class="corenav">
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/sports/" class="corenav">Sports News</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/classifieds/" class="corenav">Classifieds Home</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/sports/ut/" class="corenav">UT Sports</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="http://cars.com/kvue" class="corenav">Cars.com</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/sports/bigtwelve/" class="corenav">Big 12 Sports</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="http://www.careersite.kvue.com/" class="corenav">JobCenter</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start menu item -->
-				&nbsp;&nbsp;<a href="/sports/cowboys/" class="corenav">Dallas Cowboys</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
-<!-- end menu item -->
-<!-- start menu item -->
-				&nbsp;&nbsp;<a href="/sports/texans/" class="corenav">Houston Texans</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
-<!-- end menu item -->
-<!-- start menu item -->
-				&nbsp;&nbsp;<a href="/sports/baseball/" class="corenav">Baseball</a><br>
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
+				&nbsp;&nbsp;<a href="/marketplace/datingcenter/" class="corenav">DatingCenter</a><br>
+				<img src="http://www.kvue.com/images/corenav_dotted.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"><br>
 <!-- end menu item -->
 <!-- start last menu item -->
-				&nbsp;&nbsp;<a href="http://newsletters.belointeractive.com/" class="corenav">Newsletters</a><br>
+				&nbsp;&nbsp;<a href="http://marketplace.kvue.com/" class="corenav">Marketplace</a><br>
 <!-- end last menu item -->
-				<img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/corenav_rule.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"></td>
-			<td class="bordercolor" width="1"><img src="http://a940.g.akamai.net/f/940/442/1d/www.kvue.com/images/pixel.gif" height="17" width="1"></td>
+				<img src="http://www.kvue.com/images/corenav_rule.gif" alt="" width="123" height="1" border="0" vspace="0" hspace="0"></td>
+			<td class="bordercolor" width="1"><img src="http://www.kvue.com/images/pixel.gif" height="17" width="1"></td>
 		</tr>
 	</tbody></table>
 </layer>
