@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2020software.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604010206id_/http%3A//www.2020software.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2020software.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211827id_/http%3A//www.2020software.com/privacy.htm) for the most accurate reproduction.*
 
 # 2020software.com Privacy Statement
 
