@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119052325id_/http%3A//www.chieftain.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606153902id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
 
-# Privacy Statement
+# The Pueblo Chieftain Online - Pueblo, Colorado U.S.A
 
-**Privacy Statement**
+| 
+
+ADVERTISEMENT
+
+[ ](http://click.chieftain.org/adclick.php?n=afa71173)
+
+ADVERTISEMENT
 
 **Contact information**  
 To contact The Pueblo Chieftain Online regarding this privacy policy, please use one of the following methods:  
@@ -39,12 +45,57 @@ The Pueblo Chieftain Internet Services reserves the right to restrict access to 
 
 *The Pueblo Chieftain Internet Services reserves all publishing rights and approval for publishing.
 
-[ ](http://www.chieftain.com/)  
-Please send us your [comments](http://www.chieftain.com/contact.php)and suggestions  
-or e-mail our [Webmaster](http://www.chieftain.com/contact.php).  
-[View our Privacy Statement/Terms of Use](http://www.chieftain.com/privacy_statement.htm)  
+| 
+
+Weather
+
+  
+71°  
+Fair
+
+Poll:
+
+What is your vision for a new police building?  
+[Cast your Vote!](https://web.archive.org/poll/index.php?id=71)
+
+Promotions
+
+[](http://click.chieftain.org/adclick.php?n=a93f1605)
+
+Ads
+
+[ ](http://click.chieftain.org/adclick.php?n=aea6ff8a)
+
+[ ](http://click.chieftain.org/adclick.php?n=ae0dd567)
+
+[ ](http://click.chieftain.org/adclick.php?n=aaedadb7)
+
+[ ](http://click.chieftain.org/adclick.php?n=a41dee2f)
+
+Stock Quotes:
+
+| [Dow](http://finance.yahoo.com/q?d=t&s=^DJI)| 10,242.82  
+---|---  
++46.91| (+0.46%)  
+[Nasdaq](http://finance.yahoo.com/q?d=t&s=^IXIC)| 1,978.62  
++18.36| (+0.94%)  
+[S&P 500](http://finance.yahoo.com/q?d=t&s=^GSPC)| 1,122.50  
++5.86| (+0.52%)  
+  
+Last Update: 09:45:01 am
+
+Subscribe  
+[Click here](https://web.archive.org/subscribe) to get your Southern Colorado news!
+
+Advertising  
+[Begin here](https://web.archive.org/advertising) to get the word out about your business!
+
+Classifieds  
+[Start here](https://web.archive.org/classifieds/placead/) to place an ad whatever your needs are!
+
+The View  
+[One click](http://www.pueblowestview.com/) to read The Pueblo West View Online!  
 
 
-©1996-2003 [Chieftain.com](http://www.chieftain.com/)  
-The Star-Journal Publishing Corp.  
-Pueblo, Colorado U.S.A.
+  
+
