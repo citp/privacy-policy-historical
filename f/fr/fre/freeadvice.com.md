@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605083809id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229130550id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreeAdvice.com's Privacy Policy
 
@@ -78,3 +78,5 @@ FreeAdvice.com / Advice Company
 PO Box 1739   
 Mill Valley, CA 94942-1739   
 [admin@adviceco.com ](mailto:admin@adviceco.com)_
+
+ 
