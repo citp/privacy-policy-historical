@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the betanews.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205150954id_/http%3A//www.betanews.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betanews.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602170851id_/http%3A//www.betanews.com/privacy.php3) for the most accurate reproduction.*
 
 # BetaNews Privacy Policy
 
 **Privacy Statement for BetaNews.com**
 
-BetaNews has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: **BetaNews.com** and network sites. The BetaNews.com, and network Web sites ("sites") are operated by BetaNews, located in Costa Mesa, California. You can reach us with questions regarding this statement via e-mail at [privacy@betanews.com](mailto:privacy@betanews.com). 
+BetaNews has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: **BetaNews.com** and network sites. The BetaNews.com, and network Web sites ("sites") are operated by BetaNews, located in Reston, Virginia. You can reach us with questions regarding this statement via e-mail at [privacy@betanews.com](mailto:privacy@betanews.com). 
 
 Your IP address is used only when you become a member as a backup identification tool for polls and other member services. 
 
