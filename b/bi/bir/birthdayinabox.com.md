@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2003-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030216121244id_/http%3A//www.birthdayinabox.com/lobby.asp%3FupperRight%3D%252FUpperRightImages%252Fbubble%255Fkids%252Ejpg%26page%3Dprivacy) for the most accurate reproduction.*
+
+# Children's Birthday Party Supplies & Theme Party Favors
+
+With many children of our own, we understand the significance of privacy where children are concerned. Birthday in a Box is committed to protecting your privacy and that of your children. You may be asked to provide your name, address, eMail address, telephone and credit card information, as well as your child's name and birth date. The information we request from you is stored on our secure servers, and is used to process your orders and to provide you with personalized, timely service. 
+
+We may also use this information to tell you about changes in our services, to provide you with a list of current themes before your child's next birthday or to send you emails about special offers we think you'll find valuable. You may elect not to receive such offers. If you have elected to receive these offers and wish to stop, please contact our customer service departement at 800-989-5506. 
+
+We will not sell, share or lease your personal information for any purpose. Rest assured that your personal information is kept strictly confidential. Should we change this policy in the future, we will make a best effort to contact our customers directly, and to notify them via our website. To contact us directly regarding this policy, please click [ here](http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fbubble%5Fkids%2Ejpg&page=contact) for more information. 
