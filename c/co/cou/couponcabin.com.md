@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponcabin.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620002855id_/http%3A//couponcabin.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcabin.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206060230id_/http%3A//www.couponcabin.com/privacy.htm) for the most accurate reproduction.*
 
 # CouponCabin Privacy Policy
 
@@ -51,7 +51,9 @@ We may disclose anonymous information about user habits, characteristics and use
 
 **Sharing Information with the Government or As Otherwise Required by Law**
 
-We may be required by law or government agency to disclose both Active and Passive Information you have provided to us. **How Do We Secure Active Information and Passive Information?**
+We may be required by law or government agency to disclose both Active and Passive Information you have provided to us.
+
+**How Do We Secure Active Information and Passive Information?**
 
 We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information. Communications you may have with us via email or U.S. Mail may not be secure unless we advise you that security measures are in place prior to your sending information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means.
 
