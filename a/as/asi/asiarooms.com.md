@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asiarooms.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202025459id_/http%3A//www.asiarooms.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiarooms.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611053511id_/http%3A//www.asiarooms.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Discount hotels in - asiarooms.com provides lowest rates on accommodation
 
-asiarooms.com has created this privacy statement because we believe you have a right to a safe, secure online booking experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please let us know. You can reach us at this Email: [frontoffice@asiarooms.com](mailto:frontoffice@asiarooms.com)
+asiarooms.com has created this privacy statement because we believe you have a right to a safe, secure online booking experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please let us know.
 
 **When I visit asiarooms.com, what information is gathered about me and why?**
 
