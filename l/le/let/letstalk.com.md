@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622125207id_/http%3A//letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205005537id_/http%3A//www3.letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
 Privacy Policy  
 LetsTalk.com is committed to protecting your privacy and providing a secure shopping environment. We use the personal information you supply to process your order and make your shopping experience more enjoyable. By using the latest in secure transaction technologies and practicing a strict privacy policy, LetsTalk.com strives to protect your personal information. Read on for details. 
+
+LetsTalk is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [www.letstalk.com](http://www.letstalk.com/). Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
+
+If users have questions or concerns regarding this statement, you should first contact [feedback@letstalk.com](mailto:feedback@letstalk.com) by e-mail. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process [www.truste.org/watchdog.html](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
   * What kind of information do we collect?  
 We collect information at several stages during your interaction with LetsTalk.com. When you first enter out site, we note your IP address in connection to your shopping cart and to help with administrating the site. As you browse the site, we record your preferences via a cookie so we can serve more targeted information on your next visit. (Learn more about cookies) 
@@ -13,16 +17,20 @@ When you buy a product, you give us contact and shipping information (like your 
   * What if I am reluctant to provide information online?  
 Not a problem, you may contact [customer service](https://web.archive.org/about/contact1.htm) and give them your information through email or via the telephone. If you elect not to provide the information necessary for a service contract, you may choose to acquire a pre-paid service agreement.
   * What do you do with the information?   
-Your contact and shipping information is given only to the service provider, the manufacturer making the product you purchase, and Federal Express. Your personal credit information is forwarded only to a third-party credit card approval service to verify your credit card account balance and for your wireless service provider to authorize service credit according to their terms. 
+Your contact and shipping information is given only to the service provider, the manufacturer making the product you purchase, and Federal Express or UPS. Your personal credit information is forwarded only to a third-party credit card approval service to verify your credit card account balance and for your wireless service provider to authorize service credit according to their terms.
+
+Because all we do is provide your information to the service provider, we do not store your information for extended periods of time, so to update your information please contact the service provider directly 
 
 LetsTalk.com uses your information to follow-up on your order and to send you updated information on our company, products and services. Your service provider and manufacturer may also send you similar information.
 
-At checkout, you can opt-out of our mailing list to avoid receiving newsletters on new wireless products and promotions. Our site also provides the opportunity to opt-in to receive mailings without purchasing from LetsTalk.com. All promotional newsletters have instructions on how to be removed from our mailing list. Subscribers may also contact [help@letstalk.com](mailto:help@letstalk.com) to opt-out. We do not collect email addresses of recipients of newsletters forwarded by LetsTalk.com subscribers. 
+Our site provides the opportunity to opt-in to receive mailings without purchasing from LetsTalk.com. All promotional newsletters have instructions on how to be removed from our mailing list. Subscribers may also contact [help@letstalk.com](mailto:help@letstalk.com) to opt-out. We do not collect email addresses of recipients of newsletters forwarded by LetsTalk.com subscribers. 
 
 If you prefer not to receive correspondence from LetsTalk.com, you may contact [customer service](https://web.archive.org/about/contact1.htm) with your request. If you elect not to receive information from the manufacturer of the product you bought or the service provider you selected, please note that in your correspondence. If you prefer NOT to provide personal information over the internet, please place your order directly through Customer Service. 
 
 
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site, or as required by law. 
 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days. 
 
 Security  
 Why shopping with LetsTalk.com is safe.  
