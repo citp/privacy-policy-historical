@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206180427id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403155636id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
 
 # City of Seattle's Official Web Site
 
-#### City On-Line Privacy and Security Policy
+#### City Online Privacy and Security Policy
 
 Department of Information Technology  
-September 15, 2004
+ _Originally posted on September 15, 2004; updated on December 16, 2004_
 
 Section A. Introduction
 
@@ -20,8 +20,9 @@ This notice covers the following topics:
   * Section F. The City's use of cookies
   * Section G. Security
   * Section H. Electronic Commerce
-  * Section I. Disclaimer
-  * Section J. Contact Information
+  * Section I. Avoiding Internet Fraud
+  * Section J. Disclaimer
+  * Section K. Contact Information
 
 
 
@@ -45,20 +46,20 @@ For site security purposes and to ensure that this service remains available to 
 
 **What we collect if you volunteer information.**
 
-If during your visit to our web site you participate in a survey, send an e-mail, participate in a City hosted mailing list or web-based discussion, or perform some other transaction on-line, the following additional information will be collected: 
+If during your visit to our web site you participate in a survey, send an e-mail, participate in a City hosted mailing list or web-based discussion, or perform some other transaction online, the following additional information will be collected: 
 
   1. The e-mail address, and contents of the e-mail, for those who communicate with us via e-mail or who participate in a City hosted mailing list or web-based discussion. 
   2. Information volunteered in response to a survey. 
-  3. Information volunteered through an on-line form for any other purpose. 
+  3. Information volunteered through an online form for any other purpose. 
   4. Information volunteered by participating in an online transaction with the City. 
 
 
 
 The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.
 
-We use your email address to respond to you. Survey information is used for the purpose identified by the survey. Information from other on-line forms is used only for conducting City business related to the online form.
+We use your email address to respond to you. Survey information is used for the purpose identified by the survey. Information from other online forms is used only for conducting City business related to the online form.
 
-We use your e-mail address to respond to you. It is the City's Policy to not use your e-mail address to send you unsolicited e-mail unless you specifically elect to receive it. Online discussion lists or "threads" are maintained and controlled in accordance with the City's [Electronic Conferencing and List Services Policy](http://www.seattle.gov/pan/ListServicesPolicies.htm). Survey information is used for the purpose identified by the survey. Information from other on-line forms is used only for conducting City business related to the online form.
+We use your e-mail address to respond to you. It is the City's Policy to not use your e-mail address to send you unsolicited e-mail unless you specifically elect to receive it. Online discussion lists or "threads" are maintained and controlled in accordance with the City's [Electronic Conferencing and List Services Policy](http://www.seattle.gov/pan/ListServicesPolicies.htm). Survey information is used for the purpose identified by the survey. Information from other online forms is used only for conducting City business related to the online form.
 
 Information provided for a transaction is used only for the purpose of completing and recording the transaction. Information requested will be no more specific than if a visitor were engaging in the transaction by other means, including by telephone or in-person while visiting a City facility. In all cases, the City strives to collect the minimum information necessary to comply with applicable law or provide the service requested.
 
@@ -66,17 +67,17 @@ The City does not sell, rent or otherwise distribute visitor's information, incl
 
 Section C. Personal Information and Choice
 
-You may choose whether to provide personal information on-line.
+You may choose whether to provide personal information online.
 
 "Personal information" is information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as an individual's name, address, and phone number. A domain name or Internet Protocol address is not considered personal information.
 
-We collect no personal information about you unless you voluntarily provide it to us by sending us e-mail, participating in a survey, completing an on-line form, or engaging in an online transaction. You may choose not to contact us by e-mail, participate in a survey, provide personal information using an online form, or engage in an electronic transaction. However, some information available through this site is specific to individual users. Visitors interested in viewing this user specific information are requested to sign up for a password-protected account. Your choice to not participate in these activities will not impair your ability to browse, read, or download general information provided on the site. Information protected on this site by a password, which is subject to disclosure, may be obtained by contacting the City directly.
+We collect no personal information about you unless you voluntarily provide it to us by sending us e-mail, participating in a survey, completing an online form, or engaging in an online transaction. You may choose not to contact us by e-mail, participate in a survey, provide personal information using an online form, or engage in an electronic transaction. However, some information available through this site is specific to individual users. Visitors interested in viewing this user specific information are requested to sign up for a password-protected account. Your choice to not participate in these activities will not impair your ability to browse, read, or download general information provided on the site. Information protected on this site by a password, which is subject to disclosure, may be obtained by contacting the City directly.
 
 If personal information is requested on the web site or volunteered by the user, state law and the federal Privacy Act of 1974 may protect it. However, this information is treated like any other information provided to the city, and may be subject to public inspection and copying if not protected by federal or state law.
 
 If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact the person identified in the Contact Information Section of this statement.
 
-Users are cautioned that the collection of personal information requested from or volunteered by children on-line or by e-mail will be treated the same as information given by an adult, and may be subject to public access.
+Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult, and may be subject to public access.
 
 Section D. Public Access to Information
 
@@ -110,13 +111,21 @@ Increasingly, you have the option to do business with the City over the Web incl
 
 The provision of this information shall not be construed in any way as giving business, legal, or other advice, or warranting as fail-proof, the security of information provided via the City's web site.
 
-Section I. Disclaimer
+Section I. Avoiding Internet Fraud
+
+Fraudulent scams called "phishing" have been increasing in frequency. "Phishing" involves a victim receiving an e-mail appearing to be from a legitimate business. The "from" line is often forged and the e-mail usually contains authentic looking graphics making it appear to be legitimate. The e-mail may also contain what appears to be a legitimate link to that organization, e.g., [http://www.seattle.gov](http://www.seattle.gov/). When the victim clicks on this link, they are then taken to what appears to be a legitimate looking website. Criminals can even make your browser's address bar contain the address of the legitimate organization despite the fact that the website is a forgery. Victims are then encouraged to enter personal information including credit card numbers and expiration dates.
+
+It is the City's policy never to request confidential personal or financial information from our customers via an unsolicited e-mail. The City will also never send you an unsolicited e-mail containing a link to a City website where confidential personal or financial information is requested. If you receive such an e-mail, purportedly from the City, you are encouraged to immediately contact the City's Citizen Service Bureau at: (206) 684-CITY.
+
+For more general information about "phishing" [visit the Federal Trade Commission web site](http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm). For specific information about a suspected phishing attempt you may have received contact the organization represented in the suspect e-mail. 
+
+Section J. Disclaimer
 
 The City's web site has many links to other web sites. These include links to web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the City's web site and this Privacy Notice will not apply. When you link to another web site, you are subject to the privacy policy of that new site. Visitors linking to another site are encouraged to examine the privacy policy of that site.
 
 Neither the City, or any department, officer, or employee of the City warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk.
 
-Section J. Contact Information
+Section K. Contact Information
 
 The City government is made up of several departments. Each department is responsible for the applications it develops including applications that may gather personally identifying information that you volunteer.
 
