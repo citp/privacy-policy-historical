@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202170800id_/http%3A//folica.com/service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604012116id_/http%3A//www.folica.com/service/privacy.html) for the most accurate reproduction.*
 
 # Folica Privacy Policy
 
@@ -18,7 +18,7 @@ Folica is committed to the highest levels of privacy for our customers' informat
 
   * To use your personal information to provide you with information or materials **_only if you requested_** ;
 
-  * To provide you, the customer, with the opportunity to [**_remove_**](https://web.archive.org/web/20001202170800id_/http%3A//folica.com/service/removal.html) your information from our database, at your request.
+  * To provide you, the customer, with the opportunity to [**_remove_**](https://web.archive.org/web/20010604012116id_/http%3A//www.folica.com/service/removal.html) your information from our database, at your request.
 
 
 
@@ -45,6 +45,6 @@ We contact you via email only for the following purposes:
 
 
 
-If you have any question or concern about Folica's privacy policy, please [click here](https://web.archive.org/web/20001202170800id_/http%3A//folica.com/service/removal.html) to let us help you  
+If you have any question or concern about Folica's privacy policy, please [click here](https://web.archive.org/web/20010604012116id_/http%3A//www.folica.com/service/removal.html) to let us help you  
   
 ---|---|---
