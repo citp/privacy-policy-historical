@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215230601id_/http%3A//www.ehealthinsurance.com/ehealthinsurance/PrivacyPolicy/DirectPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622150156id_/http%3A//www.ehealthinsurance.com/ehealthinsurance/PrivacyPolicy/DirectPrivacyPolicy.html) for the most accurate reproduction.*
 
-# eHealthInsurance.com
+# Privacy Policy
 
 |   | 
 
@@ -53,7 +53,7 @@ Throughout the policy, we refer to information that can identify you as a specif
     * Please note that you will still receive communications from us regarding your insurance quote, application or policy even if you opt out of receiving our surveys and/or notices of additional products and services. 
   9. **We are available to answer any questions you may have about our privacy policy or our information privacy practices.**
     * If you have any questions, please email us at [privacy@ehealthinsurance.com](mailto:privacy@ehealthinsurance.com).
-    * If we have not responded to your inquiry, or if your inquiry has not been addressed to your satisfaction, please contact TRUSTe at <http://www.truste.org/users/users_watchdog_intro.html>.
+    * If we have not responded to your inquiry, or if your inquiry has not been addressed to your satisfaction, please contact TRUSTe at <http://www.truste.org/watchdog.html>.
   10. **This privacy policy applies to this eHealthInsurance website, and may not apply to other websites that are owned and/or operated by eHealthInsurance.**
     * The information privacy practices described in this privacy policy apply only to applications initiated on this website. Accordingly, all of the personal information you submit to us after initiating an application on this website shall be governed by this privacy policy. Additionally, all of the anonymous information collected from this website shall be governed by this privacy policy.
     * If you are returning to complete an application that you initiated on another website that is owned or operated by eHealthInsurance (e.g., a partner co-branded website), this privacy policy may not apply. Please review the privacy policy of the website on which you initiated your application to learn about the information privacy practices that apply to the personal information you submit to us.
