@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402052022id_/http%3A//www.autoanything.com/help/help.asp%3Ftopic%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204062926id_/http%3A//www.autoanything.com/help/help.aspx%3Ftopic%3Dprivacypolicy) for the most accurate reproduction.*
 
-# AutoAnything Help and Frequently Asked Questions
+# AutoAnything :: Help Center
+
+[Home](http://www.autoanything.com/car_truck_accessories.aspx) > [Help](http://www.autoanything.com/help/help.aspx) > Privacy Policy
+
+Information collected by AutoAnything   
+How information is used   
+Use of cookies
 
 AutoAnything is sensitive to your concerns about privacy and committed to protecting your online shopping experience. We want to assure you that we respect your privacy and handle your personal information with the highest standards of safety, security and confidentiality. If you have questions regarding our Privacy Policy, you may direct them to [privacypolicy@autoanything.com](mailto:privacypolicy@autoanything.com). 
 
@@ -10,7 +16,7 @@ We guarantee your transaction to be 100% safe and secure.
 
 Information collected by AutoAnything
 
-When you shop on AutoAnything we collect two types of information: Personal information such as your name, e-mail address, product selection and payment information. We may also collect additional information such as the URL you came from, IP address, domain types and the country you came from, traffic patterns, how many users logged onto AutoAnything on any given day, etc. 
+When you shop at AutoAnything, we collect two types of information: Personal information such as your name, e-mail address, product selection and payment information. We may also collect additional information such as the URL you came from, IP address, domain types and the country you came from, traffic patterns, how many users logged onto AutoAnything on any given day, etc. 
 
 How information is used
 
@@ -18,4 +24,4 @@ We do not sell or rent your personal information to others companies. We use cus
 
 Use of cookies
 
-We use cookies to aid in identifying you when you visit our web site and to customize your experience. The cookies make your use of the site easier, allowing us to store information and make the site run more smoothly. We do not disclose your personal account information or any information about your purchases to other companies.
+We use cookies to aid in identifying you when you visit our web site and to customize your experience. The cookies contain a user identification number to help us maintain your shopping cart. The cookies make your use of the site easier, allowing us to store information and make the site run more smoothly. We do not disclose your personal account information or any information about your purchases to other companies.
