@@ -1,10 +1,47 @@
-> *The following text is extracted and transformed from the bannernow.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204122029id_/http%3A//www.bannernow.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannernow.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/privacy-policy.php) for the most accurate reproduction.*
 
-# NetTraction™
+# NetTraction.com™ :: Privacy Policy
 
+  
+
+
+Useful Resources
+
+  
+[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Affiliate%20Recruitment%20Mini%20Course)  
+  
+[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Affiliate%20Management%20Mini%20Course)  
+  
+[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Affiliate%20Management%20Tips%20and%20Tricks)  
+  
+[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Affiliate%20Management%20Resources)  
+  
+[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Industry%20Events%20Newsletter)
+
+As Seen in
+
+  
+[](http://hits.affiliatetraction.com/cgi-bin/redir?pd_link=i1-a2790-o1577-c1690)
+
+Get your subscription to  
+Revenue Magazine, the  
+performance marketing  
+standard, [Click Here](http://hits.affiliatetraction.com/cgi-bin/redir?pd_link=i1-a2790-o1577-c1690)
+
+Special Offer
+
+  
+[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Tracking%20Software%20Prize) |  |    
+[Home](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/) |    
+[Top Programs](http://www.gotrevenue.com/) |    
+[About Us](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/about-us.php) |    
+[Affiliates](http://nettraction.affiliatetraction.com/) |    
+[Contact Us](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/contact.php)  
+---|---|---|---|---  
+  
 ### Privacy Policy
 
-NetTraction™ takes your privacy seriously. Our privacy policy covers our treatment of personally identifiable information given or collected when you are on the site i.e. email address, name etc. We will not sell or rent your personally identifiable information to anyone. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage.
+NetTraction.com™ takes your privacy seriously. Our privacy policy covers our treatment of personally identifiable information given or collected when you are on the site i.e. email address, name etc. We will not sell or rent your personally identifiable information to anyone. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage.
 
 Because we wish to keep the privilege of contacting you, our privacy policy guarantees that we will not sell or give your email address to anyone; your contact information is kept confidential.
 
@@ -27,4 +64,9 @@ Our services have been designed to enable us to provide information to those cus
   
 **What choices are available to you regarding collection, and use of the information?**  
 We do offer you the ability to control the email communications we make to you. It is our intention to give you as much control over our relationship as possible. You may cancel email communications at any time. As stated above, we wish to keep the privilege of contacting you. Our privacy policy guarantees that we will not sell or give your email address to anyone; your contact information is kept confidential.  
+
+
+  
+|    
+|    
 
