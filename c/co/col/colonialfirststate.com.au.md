@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810184725id_/http%3A//colonialfirststate.com.au/misc/privacy.asp%3FsPageHeading%3DPri) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605101051id_/http%3A//colonialfirststate.com.au/misc/privacy.asp%3FsPageHeading%3DPri) for the most accurate reproduction.*
 
 # Colonial First State
 
@@ -23,7 +23,7 @@ If you want to see our more detailed privacy policy document [click here](https:
 
 If you have any questions or would like further information on our privacy and information handling practices, you can: 
 
-  * call our Service Centre on 13 13 36, or 
+  * call Investor Services on 13 13 36, or 
   * complete a [feedback form](https://web.archive.org/tools/contactus/default.asp?sPageHeading=Cus&Index=6)
 
 
