@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netimperative.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622133428id_/http%3A//www.netimperative.com/cmn/corp/index.jsp%3Fsub%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netimperative.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207140637id_/http%3A//www.netimperative.com/cmn/corp/index.jsp%3Fsub%3Dprivacy_policy) for the most accurate reproduction.*
 
 # netimperative : Privacy policy
 
@@ -21,9 +21,9 @@ When you become a member of netimperative, we need to know a little more about y
 
 We also gather this information in order to ensure adequate levels of service. The relevant information is then used by us, our agents and our sub-contractors to provide you with statements of your account if you require them as well as helping us with communication regarding any matter relating to the conduct of site members and the provision of the service in general. 
 
-Pathgrade Ltd and our group and subsidiary companies may also wish to provide you with information about special features of our site, as well as any additional special services or products we think may be of use or of interest to you. If you would rather not receive this type of information, please send a blank email to noprom@netimperative.com
+Netimperative and our group and subsidiary companies may also wish to provide you with information about special features of our site, as well as any additional special services or products we think may be of use or of interest to you. If you would rather not receive this type of information, please send a blank email to noprom@netimperative.com
 
-Neither Pathgrade Ltd, nor any group companies, will issue your personal data to third parties without your prior permission, except in the instance of the sale of the company as part of the transfer of assets to the new owner.
+Neither Netimperative, nor any group companies, will issue your personal data to third parties without your prior permission, except in the instance of the sale of the company as part of the transfer of assets to the new owner.
 
 Our use of cookies    
 
