@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205015000id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604170113id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
 
 # SuperKids Privacy Policy.
 
@@ -50,5 +50,6 @@ back to top of page
 * * *
 
   
-[](https://web.archive.org/aweb/pages/aboutsks.html) Questions or comments regarding this site? [webmaster@superkids.com](mailto:webmaster@superkids.com)   
-Copyright © 1998-2000 [Knowledge Share LLC.](https://web.archive.org/aweb/pages/copyrit.html) All rights reserved. [Privacy Policy](https://web.archive.org/aweb/pages/privacy.shtml)
+[](https://web.archive.org/aweb/pages/aboutsks.html)   
+Questions or comments regarding this site? [webmaster@superkids.com](mailto:webmaster@superkids.com)   
+Copyright © 1998-2001 [Knowledge Share LLC.](https://web.archive.org/aweb/pages/copyrit.html) All rights reserved. [Privacy Policy](https://web.archive.org/aweb/pages/privacy.shtml)
