@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owenscorning.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603160359id_/http%3A//www.owenscorning.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owenscorning.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207035914id_/http%3A//www.owenscorning.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Owens Corning's Internet Privacy Policy
 
