@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storknet.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212090916id_/http%3A//www.storknet.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storknet.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171355id_/http%3A//www.storknet.com/privacy.htm) for the most accurate reproduction.*
 
 # StorkNet - The Pregnancy and Parenting Online Community
 
@@ -61,4 +61,4 @@ If a user elects to use our referral service for informing a friend about our si
 
 If you have any questions about this privacy statement or the practices of this site, you may contact:  
 Maribeth Doerr  
-**[sninfo@storknet.com](https://web.archive.org/web/20041212090916id_/http%3A//www.storknet.com/contactus.htm)**
+**[sninfo@storknet.com](https://web.archive.org/web/20050403171355id_/http%3A//www.storknet.com/contactus.htm)**
