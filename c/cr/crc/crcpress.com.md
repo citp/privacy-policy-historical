@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crcpress.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603061314id_/http%3A//www.crcpress.com/us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crcpress.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019234137id_/http%3A//www.crcpress.com/us/privacy.asp) for the most accurate reproduction.*
 
 # CRC Press Privacy Statement
 
@@ -15,14 +15,14 @@ Browse all by discipline:
 [ **View Shopping Basket**](https://www.crcpress.com/us/shopper_lookup.asp?target=https%3A%2F%2Fwww%2Ecrcpress%2Ecom%2Fus%2Fbasket%2Easp)  
 [**My Account**](http://www.crcpress.com/us/shopper_lookup.asp?mscssid=&target=shopper_update.asp)  
 [**Ordering Methods**](http://www.crcpress.com/us/HowtoOrder/orderingmethods.asp?mscssid=)  
-[**Textbook evaluation**](http://www.crcpress.com/us/HowtoOrder/eva.asp?mscssid=)  
+[**Textbook Evaluation**](http://www.crcpress.com/us/HowtoOrder/eva.asp?mscssid=)  
 [**Ordering FAQs**](http://www.crcpress.com/us/HowtoOrder/faqs.asp?mscssid=)  
   
 **Sales and Services**  
 [**Add me to your mailing list**](http://www.crcpress.com/us/custmailing.asp?mscssid=)  
 [**Contact us**](http://www.crcpress.com/us/custserv/customerservice.asp?mscssid=)  
 [**Sales Services and Info.**](http://www.crcpress.com/us/sales/salesserv.asp?mscssid=)  
-[**Feedback**](http://www.crcpress.com/us/feedback.asp?mscssid=)  
+[**Feedback**](http://www.crcpress.com/us//feedback.asp?mscssid=)  
   
 **Electronic**  
 [ **Download and Update Page**](http://www.crcpress.com/us/ElectronicProducts/downandup.asp?mscssid=) [**Technical support**  
@@ -35,9 +35,7 @@ Browse all by discipline:
 [**Proposal Guidelines**](http://www.crcpress.com/us/Publish/guide.asp?mscssid=)  
 [**Rights & Permissions**](http://www.crcpress.com/us/Publish/rights.asp?mscssid=)  
   
-**Conventions**  
-[**US Conventions**](http://www.crcpress.com/us/Conventions/conventions.asp?mscssid=)  
-[**International Conventions**](http://www.crcpress.com/us/Conventions/Conventionsintl.asp?mscssid=)  
+[**Conventions**](http://www.crcpress.com/us/Conventions/conventions.asp?mscssid=)  
   
 **Corporate Information**  
 [**Career Opportunities**](http://www.crcpress.com/us/corpinfo/careerop.asp?mscssid=)  
