@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208200805id_/http%3A//www.midwayusa.com/midwayusa/applications/static.exe/getstaticpage%3Fpage%3Dprivacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405145006id_/http%3A//www.midwayusa.com/static.exe/getstaticpage%3Fpage%3Dprivacy_policy.htm) for the most accurate reproduction.*
 
 # MidwayUSA - Privacy Policy
 
-Items in Cart: **0**  
-Subtotal: **$0.00**
+Items in Cart:  ** 0 **   
+Subtotal:  ** $0.00 **
 
-**** |   |  Be the first to know about the newest products and biggest sale prices!  
+**** |   |  Be the First to Know About the Newest Products and Biggest Sale Prices!  
 ---|---  
   
 |   |   
@@ -41,7 +41,7 @@ We also may request personally identifiable information from you in order to han
 ---|---  
   |  The information we collect is used to process orders and information requests, to improve the content of our website, to notify consumers about product and website updates or problems with requests or orders. All information is collected by MidwayUSA.
 
-We occasionally exchange our customer postal address list with other reputable companies, however, you may opt-out or otherwise prohibit such uses by checking the "Do not share my information" box on the [Your Account](https://www.midwayusa.com/midwayusa/applications/account.exe/pleasesignin) page (don't forget to save the change) or by calling Customer Service at 1-800-243-3220. You may also send a note, requesting that your postal address not be shared, along with your name and address. For contact information, please view the [Contact Us](http://www.midwayusa.com/midwayusa/applications/static.exe/getstaticpage?page=contact_us.htm) page.  
+We occasionally exchange our customer postal address list with other reputable companies, however, you may opt-out or otherwise prohibit such uses by checking the "Do not share my information" box on the [Your Account](https://www.midwayusa.com/eaccount.exe/pleasesignin) page (don't forget to save the change) or by calling Customer Service at 1-800-243-3220. You may also send a note, requesting that your postal address not be shared, along with your name and address. For contact information, please view the [Contact Us](http://www.midwayusa.com/static.exe/getstaticpage?page=contact_us.htm) page.  
   
   
   |   
