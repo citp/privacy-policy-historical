@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blockbuster.ca privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217035900id_/http%3A//www.blockbuster.ca/corp/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuster.ca privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614034348id_/http%3A//www.blockbuster.ca/corp/privacy.shtml) for the most accurate reproduction.*
 
 # BLOCKBUSTER VIDEO, Canada's Family Entertainment Store
 
-Blockbuster Canada Co. (Blockbuster Canada) is committed to protecting our users' privacy. To that end, we offer this statement to inform our users of how we define, gather and utilize personally identifiable information. Blockbuster Canada will take reasonable steps to protect member privacy consistent with the guidelines set forth in this policy and applicable law. 
+Blockbuster Canada Co. (Blockbuster Canada) is committed to protecting our users' on-lineprivacy. To that end, we offer this statement to inform our users of how we define, gather and utilize personally identifiable information. Blockbuster Canada will take reasonable steps to protect member privacy consistent with the guidelines set forth in this policy and applicable law. 
 
 Blockbuster Canada defines personally identifiable information as information about an identifiable individual that includes any combination of the following: a person's full name, address, telephone number, date of birth and/or email address. 
 
@@ -19,15 +19,7 @@ Blockbuster Canada utilizes cookie technology to process and identify order data
 
 Blockbuster Canada may use personally identifiable information collected online to develop and improve the products, benefits and services we or select business partners offer to our members or web site users. Blockbuster Canada may also use email addresses or other personally identifiable information to contact users who directly communicate with Blockbuster Canada. For example, Blockbuster Canada may contact users to notify them that they have won a contest or sweepstakes or to provide a requested email newsletter. 
 
-Blockbuster Canada provides users with the chance to opt-out of opportunities to receive promotional materials, products, or other communications from Blockbuster Canada, its affiliates, or their business partners. With the exception of users exercising the opt-out opportunity, Blockbuster Canada may, on occasion, disclose to their business partners certain personally identifiable information for use in marketing goods and services directly to blockbuster.ca users and BLOCKBUSTER members.
-
-To exercise your opt-out rights:
-
-If you're not registered with blockbuster.ca, please register now. Check "No" in the Opt-Out area at the bottom of the Registration page. 
-
-If you're registered with blockbuster.ca, but haven't logged in, please log in now .Then go to Update Profile and Check "No" in the Opt-Out area at the bottom of the page.
-
-If you're logged in to, and registered with, blockbuster.ca, go directly to Update Profile and Check "No" in the Opt-Out area at the bottom of the page. 
+If you wish to opt-out of opportunities to receive promotional materials, products, or other communications from Blockbuster Canada, its affiliates, or their business partners, please write to: Privacy Relationship Manager, Blockbuster Canada Co. 191 The West Mall, Suite 800, Toronto, ON M9C 5K8. With the exception of users exercising the opt-out opportunity, Blockbuster Canada may, on occasion, disclose to their business partners certain personally identifiable information for use in marketing goods and services directly to blockbuster.ca users and BLOCKBUSTER members.
 
 Blockbuster Canada may share and use user and member information in the ordinary course of its businesses, including account maintenance and debt collection.
 
@@ -35,6 +27,6 @@ Blockbuster Canada supports the requirements and intent of the Model Code for th
 
 Blockbuster Canada reserves the right to modify, alter or otherwise update this policy from time to time.
 
-[Contact Us](https://web.archive.org/web/20001217035900id_/http%3A//www.blockbuster.ca/corp/index.shtml)  
+[Contact Us](https://web.archive.org/web/20010614034348id_/http%3A//www.blockbuster.ca/corp/index.shtml)  
 BLOCKBUSTER name, design and related marks are trademarks of Blockbuster Inc.  
-© 2000 Blockbuster Inc. All Rights Reserved.
+© 2001 Blockbuster Inc. All Rights Reserved.
