@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the demon.net privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810050706id_/http%3A//www.demon.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demon.net privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622083022id_/http%3A//www.demon.net/privacypolicy) for the most accurate reproduction.*
 
 # Demon Internet: Privacy Policy
 
 * * *
 
-## Privacy Policy for Thus Web Sites
+## Privacy Policy for THUS Websites
 
-[THUS plc](https://web.archive.org/thusservices/) is committed to protecting the privacy of all visitors to our web sites.
+[THUS plc](https://web.archive.org/thusservices/) is committed to protecting the privacy of all visitors to our websites.
 
-This document outlines our privacy policy relating to usage of THUS websites. This policy applies to all web sites operated by THUS (but not to customer web sites hosted by THUS) except when they explicitly state otherwise.
+This document outlines our privacy policy relating to usage of THUS websites. This policy applies to all websites operated by THUS (but not to customer websites hosted by THUS) except when they explicitly state otherwise.
 
 Even where allowed by this policy, THUS will not use your personal data in such a way as to breach the Data Protection Act or any other relevant UK legislation.
 
-This policy may change from time to time, without notice. Please see [www.demon.net/privacypolicy](https://web.archive.org/web/20030810050706id_/http://www.demon.net/privacypolicy/index.shtml) for the latest version.
+This policy may change from time to time, without notice. Please see [www.demon.net/privacypolicy](https://web.archive.org/web/20040622083022id_/http://www.demon.net/privacypolicy/index.shtml) for the latest version.
 
-### What information does THUS collect from me when I visit a THUS web site?
+### What information does THUS collect from me when I visit a THUS website?
 
-THUS collects very little information about visitors to our web sites.
+THUS collects very little information about visitors to our websites.
 
-However, every time you view a THUS web page, we may store web server logs which show your IP address (the Internet number which your machine uses when it is connected to the Internet) or the IP address of the web proxy you use. In addition we may store other information your web browser passes to us including what you looked at, what you previously looked at, whether the page request was successful or not, and which browser you used to view the pages.
+However, every time you view a THUS Web page, we may store Web server logs which show your IP address (the Internet number which your machine uses when it is connected to the Internet) or the IP address of the Web proxy you use. In addition we may store other information your Web browser passes to us including what you looked at, what you previously looked at, whether the page request was successful or not, and which browser you used to view the pages.
 
-### What do THUS do with this web log information?
+### What do THUS do with this Web log information?
 
 This data is used strictly for statistical purposes only. This helps us understand which areas of the site are of particular interest and also which pages are being requested that no longer exist. It also tells us how many hits and page requests we get.
 
@@ -30,41 +30,41 @@ We process the logs into statistical form on a daily basis. The original logs ar
 
 We may correlate your accesses on different dates within this two-month period to gain further information (e.g. which pages people visit regularly), which will only be used in statistical form.
 
-### Are there any other ways that you may track which web pages I look at?
+### Are there any other ways that you may track which Web pages I look at?
 
-From time to time we may make use of "tracking tags". These are small images on a web page. When you look at a web page containing one of these tags a web log is updated showing this.
+From time to time we may make use of "tracking tags". These are small images on a Web page. When you look at a Web page containing one of these tags a Web log is updated showing this.
 
 These log entries are handled in the manner described above, just like all other entries.
 
-We use these to track the take up of specific promotions available from the web site.
+We use these to track the take up of specific promotions available from the website.
 
-### Who does THUS share the web access log information with?
+### Who does THUS share the Web access log information with?
 
 We will not share any of the information collected from your accesses to our site with anyone outside THUS.
 
 However, it is possible that we may supply aggregate statistical information to third parties for statistical analysis purposes.
 
-Also, from time to time we contract out work relating to tracking of trends and which web pages are visited regularly to third parties. In all cases when this happens we will only use a reputable company and will have a contract in place with them that only allows the processing of your access data for our statistical analysis. This contract will also require that all this data be deleted when the analysis is completed.
+Also, from time to time we contract out work relating to tracking of trends and which Web pages are visited regularly to third parties. In all cases when this happens we will only use a reputable company and will have a contract in place with them that only allows the processing of your access data for our statistical analysis. This contract will also require that all this data be deleted when the analysis is completed.
 
 Except as provided for in the preceding paragraph, we will never release information about the activities of an individually identifiable person or IP address except in response to a court order or if we are required to do so by law.
 
 ### What about cookies?
 
-A cookie is a small amount of data, which is sent to your browser by the web server, stored on your computer, and then sent back when you subsequently look at pages on that server. They are usually used to help remember who you are and what interests you.
+A cookie is a small amount of data, which is sent to your browser by the Web server, stored on your computer, and then sent back when you subsequently look at pages on that server. They are usually used to help remember who you are and what interests you.
 
 Generally THUS uses cookies (or similar mechanisms) to track your use of the site and to maintain a record of your visit to enhance the experience of using the site.
 
-It is also possible that third parties we use to monitor usage of our web sites may make use of cookies to collect more information about the visit, such as the date and time, which pages users visited etc. This information gathered helps us to continually develop our web sites to ensure users can easily access the information they require.
+It is also possible that third parties we use to monitor usage of our websites may make use of cookies to collect more information about the visit, such as the date and time, which pages users visited etc. This information gathered helps us to continually develop our websites to ensure users can easily access the information they require.
 
 A new European Directive (2002/58/EC) will come into force in the UK during 2003. This imposes new rules on the use of cookies and similar mechanisms. We are reviewing our policies to bring them into line with this Directive, and will update this privacy policy accordingly.
 
 ### What if I click on a banner link?
 
-All banners on our web site relate to Demon products or services. We do not provide any banners that link to third party sites.
+All banners on our website relate to Demon products or services. We do not provide any banners that link to third party sites.
 
 ### What happens if I enter a competition or apply for a special offer?
 
-From time to time THUS or our associates may run competitions or special offers from a THUS web site.
+From time to time THUS or our associates may run competitions or special offers from a THUS Web site.
 
 Entry into the competitions and application for the special offers usually requires you to enter personal data such as your name, address, email address and telephone numbers. We may also ask you for some general information about your Internet activity for statistical research.
 
@@ -72,7 +72,7 @@ At all times there will be a notice that forms part of the entry rules which sta
 
 ### What about security of any personal data that I do submit?
 
-All data that is collected from the site, be that web site access logs, competition entry information, or special offer information is stored in a secure environment which is protected from unauthorised access, improper use, alteration, unlawful, or accidental loss or destruction.
+All data that is collected from the site, be that website access logs, competition entry information, or special offer information is stored in a secure environment which is protected from unauthorised access, improper use, alteration, unlawful, or accidental loss or destruction.
 
 ### How long is any personal data kept?
 
@@ -84,11 +84,11 @@ We will ask for the minimum amount of data that is required for us to set up the
 
 Also, as part of the sign up process, any credit or debit card details will be passed to an automated credit checking service.
 
-### What if I use a web-based service?
+### What if I use a Web-based service?
 
-If you use a web-based service such as Web mail or the password changing service any account information (including passwords) will not be stored.
+If you use a Web-based service such as Web mail or the password changing service any account information (including passwords) will not be stored.
 
-We will, as with our other web pages, store web logs showing access to these web pages.
+We will, as with our other Web pages, store Web logs showing access to these Web pages.
 
 ### What if I have not given consent, how do you know?
 
