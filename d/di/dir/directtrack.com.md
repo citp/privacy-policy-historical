@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directtrack.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607030827id_/http%3A//www.directtrack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directtrack.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207012552id_/http%3A//www.directtrack.com/privacy.html) for the most accurate reproduction.*
 
 # AFFILIATE TRACKING SOFTWARE| Affiliate Program Software|Affiliate Software| DirectTrack
 
@@ -18,5 +18,8 @@ We gather your information in order to evaluate whether the potential customer i
 **With Whom will information be shared:**  
 Direct Response Technologies, Inc., holds all data gathered in strict confidence. Under no circumstances will your e-mail address, mailing address, phone number, be sold to, supplied to, or otherwise made available to any third party. 
 
-|  |   
+|  | 
+
+**[](https://web.archive.org/web/20041207012552id_/http%3A//www.directtrack.com/comreplace.html?PHPSESSID=1f4096eea9e80831e63c89fd0c3e8410)**  
+  
 ---|---|---
