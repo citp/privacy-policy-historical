@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the vinfoindia.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603210927id_/http%3A//vinfoindia.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinfoindia.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
 |   
 ---  
    
-|  **Dazzle Infosys** is committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customers.
+|  **VinfoIndia** is committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customers.
 
 For visitors, we've structured our web sites so that, in general, you can visit us on the web without identifying yourself or revealing any personal information.
 
@@ -53,8 +53,40 @@ We will not otherwise disclose customer personal and account information unless 
 
 VinfoIndia disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Dazzle Infosys will, however, review, delete, or block access to communications that may harm VinfoIndia, its customers or third parties. The grounds on which VinfoIndia may take such action include, but are not limited to, actual or potential violations of VinfoIndia's Terms of Use.
 
-Customers may opt out of receiving newsletters and/or notices of new or upgraded products from VinfoIndia by sending a request to info@dazzleinfosys.com. In this request, customers must identify their domain name and contact information.
+Customers may opt out of receiving newsletters and/or notices of new or upgraded products from VinfoIndia by sending a request to info@vinfoindia.com. In this request, customers must identify their domain name and contact information.
 
 Please note, however, that VinfoIndia reserves the right to send bulletins and other important information regarding our services at our discretion.  
   
-Web hosting services India get Linux, Windows 2000 web hosting India cheaper domain registration India, Delhi, _Mumbai,_ Bangalore, Jaipur, Chennai, ** Chandigarh Cochin Calcutta Trivandrum Dehradun Kerala Pune Kanpur Ludhiana Ahmedabad Goa and all across India on powerful Linux & windows 2000 servers.**. Everything you need to know about hosting Services. Your web space provider. We are 3yrs old Jaipur based web company.
+|  [About VinfoIndia](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/company)  
+---  
+[Basic Shared Hosting](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/hosting)  
+  |  [Linux / Unix Shared](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/valuelinux.htm)  
+  |  [Windows](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/valuewindows.htm)  
+  |  [Cold Fusion](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/hosting/shared/cold_fusion_hosting.htm)  
+[Advance Shared Hosting](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/hosting)  
+  |  [Linux / Unix](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/silverlinux.htm)  
+  |  [Windows](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/silverwindows.htm)  
+  |  [Cold Fusion](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/hosting/shared/cold_fusion_hosting.htm)  
+[Managed Dedicated Hosting](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/dedicated)  
+[Domain Name Registration](https://web.archive.org/web/20031203081816id_/http%3A//vinfoindia.com/domain)  
+   
+For more information please   
+call **91-94142-41407, 91-141-2358331**  
+e-mail [info@vinfoindia.com](mailto:info@vinfoindia.com)  
+   
+  
+** VinfoIndia.COM Shared Web Hosting plans include:**
+
+  * 24x7x365 Support
+  * Uptime Guarantee 
+  * Unlimited E-mail Boxes and FTP Access 
+  * Access to E-mail via mail client or Web E-mail 
+  * Unlimited E-mail forwarding/aliases 
+  * Log Files 
+  * LiveStats Server Statistics 
+  * Upgrade to any plan any time 
+  * Immediate setup/access to your new account (After Payment Receive, Tack Minimum 6 hrs.)
+
+  
+   
+ 
