@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208102758id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630125639id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # 
 
-|   
----  
-[](https://web.archive.org/community/click_and_earn.asp) | 
+  
+|  | 
 
 |       
 ---  
@@ -33,10 +32,7 @@ A cookie is a piece of data stored on the hard drive of your computer, containin
     |  **Log Files**  
 We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.   
     |  **Sharing**  
-We may partner with other parties from time to time to provide specific services. The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. [To learn more about our marketing partners click here.](http://plazadirect.com/ad_light.asp?ArticleID=2)
-
-If you prefer we do not share your name and address with marketing partners, please see the Choice and Opt-Out section below. If you agreed to receive email from our marketing partners, we will share with them your email address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your e-mail address if you have opted in by checking the box on the registration page. Additionally, each email our partners send you will include a description of the simple opt out process to enable you to stop receiving future e-mail.  
-  
+The personal information you have provided us and information about your order will never be shared with third parties. This information may, however, be combined with other information (such as demographic information and past purchase information) and used to make our future marketing efforts more efficient.  
     |  **Links**  
 From time to time, FamousFootwear.com may contain links to other websites. Please be aware that we cannot be responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this site.   
     |  **Surveys and Contests**  
@@ -59,4 +55,5 @@ If your personally identifiable information changes (such as your zip code), or 
     |  **Choice and Opt-out**  
 Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our Preferred Customer Account information form has an 'opt-out' mechanism so users who register with us, but don't want any marketing material or those of our marketing partners, can keep their email address off of our lists. If you no longer wish to receive our promotional materials you may opt-out of receiving these communications by either visiting our [Preferred Customer Account](https://www.famousfootwear.com/services/customer/editemailpassword.asp) information page or by sending us an email at [service@famousfootwear.com](mailto:service@famousfootwear.com). When you send us email to opt-out, please specify whether you are opting-out for FamousFootwear.com exclusive offers, or for our marketing partner's promotional materials. If you do not specify, we will assume you are opting out only for our marketing partner's promotional materials. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. To learn more about our marketing partner's privacy policy, [click here](http://plazadirect.com/ad_light.asp?ArticleID=2).  
     |  **Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email. You will have a choice as to whether or not we may use your information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email. You will have a choice as to whether or not we may use your information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.   
+| 
