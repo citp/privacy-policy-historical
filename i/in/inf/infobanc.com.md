@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604144229id_/http%3A//infobanc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207175258id_/http%3A//www.infobanc.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of The Great Indian Bazaar
 
@@ -22,7 +22,9 @@ This site contains links to many other sites. www.infobanc.com is not responsibl
 
 **Choice/Opt-Out** Our site provides users the opportunity to opt-out of receiving communications from us. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
 
-\- Opt-out via email (You can send email to remove@infobanc.com) 
+\- On-line removal - Every e-zine that we send has a link for immediate and on-line 'Unsubscribe'. Subscribers may remove themselves from any of our mailking lists just by clicking at 'Unsubscribe' link. Every e-zine has clear instructions on how to 'Unsubscribe' 
+
+\- Opt-out via email - Additionally. one may send e-mail at remove@infobanc.com for unsubscription/opt-out 
 
 **Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
@@ -32,5 +34,5 @@ Information for Business and Commerce
 (Opp. Qutab Hotel)   
 New Delhi - 110 016   
 India   
-Tel: 91-11-6961886   
-E-Mail: admin@infobanc.com 
+Tel: 91-11-26961886   
+E-Mail: editor@infobanc.com 
