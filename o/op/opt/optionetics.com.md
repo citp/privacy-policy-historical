@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004065836id_/http%3A//www.optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622042107id_/http%3A//www.optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
 
 # Optionetics
 
 Options involve risk. Prior to buying or selling an option, an investor must receive a copy of [Characteristics and Risks of Standardized Options](http://www.cboe.com/Resources/Intro.asp). Investors need a broker to trade options, and must meet suitability requirements. Past results are not necessarily indicative of future performance.
 
-This Web Site is not designed or intended for United Kingdom based investors. 
+All examples are exclusive of commissions, interest and dividends. You should consult your tax consultant and read the Options Disclosure Document (ODD) prior to investing in options. You can obtain a copy of the ODD from Optionetics, or from the Options Clearing Corporation (1888-options), One North Wacker Drive, Suite 500, Chicago IL 60606.
+
+This Web Site is not designed or intended for United Kingdom, Australian or New Zealand based investors. 
 
 The information and data contained in this website (Optionetics.com) was obtained from sources believed to be reliable, but accuracy is not guaranteed. Neither the information, nor any opinion expressed, constitutes a recommendation to purchase or sell a security, or to provide investment advice.
 
@@ -17,6 +19,12 @@ Global makes no representations or warranties about the accuracy or completeness
 Global is the copyright owner of all text and graphics contained on this website, except as otherwise indicated. Other parties' trademarks and service marks that may be referred to herein are the property of their respective owners. You may print a copy of the information contained herein for your personal use only, but you may not reproduce or distribute the text or graphics to others or substantially copy the information on your own server, or link to this website, without prior written permission of Global. Permission to use and reproduce documents and related graphics available from this website is granted, provided that: 1. the below copyright notice appears in all copies and that both the copyright and this permission notice appear; 2. use and reproduction of documents and related graphics available from this website is limited to personal, non-commercial use; 3. no documents or related graphics, including logos, available from this website are modified in any way; and 4. no graphics, including logos, available from this website are used separate from accompanying text. Use or reproduction for any other purpose is expressly prohibited by law, and may result in civil and criminal penalties.
 
 Violators will be prosecuted to the maximum extent possible.
+
+Terms & Conditions of Online Sales
+
+Optionetics makes every effort to ensure the accuracy of the information published on our Web site. However, the documents and graphics published on this site may contain technical inaccuracies or typographical errors. Optionetics makes no representations about the suitability of the information and graphics presented on this site. All such documents and graphics are provided "as is" without warranty of any kind. 
+
+If an error is made and a product is listed at an incorrect price, Optionetics shall maintain the right to refuse or cancel any orders placed at the incorrect price. If the order has been confirmed and charged to your credit card, Optionetics shall immediately issue a credit in the amount of the incorrect price. 
 
 **PRIVACY POLICY**
 
@@ -58,9 +66,9 @@ Please be aware that Optionetics.com sponsors, advertisers or Web sites that hav
 
 Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
 
-United Kingdom
+United Kingdom, Australia and New Zealand Users
 
-This website and its contents are not directed at residents or citizens of the United Kingdom. As such, the contents of this Website have not been issued or approved by any person authorized to undertake regulated activities in the United Kingdom under the Financial Services and Markets Act 2000. Notwithstanding the above, any views expressed in this website are not to be taken as advice or a recommendation to buy or sell any investment. 
+This website and its contents are directed to US residents and citizens. They are not directed at residents or citizens of the United Kingdom, Australia or New Zealand. As such, the contents of this Website have not been issued or approved by either the regulatory authorities of or any person authorized to undertake regulated activities in the United Kingdom, Australia or New Zealand under, respectively, the Financial Services and Markets Act 2000, the Corporations Act 2001 or the Companies Act 1993. Notwithstanding the above, any views expressed in this website are not to be taken as advice or a recommendation to buy or sell any investment and users must make their own decisions based on their own investigations and consultation with their financial adviser or other professional expert. 
 
 **How to Contact Us**
 
