@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602085537id_/http%3A//kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019040359id_/http%3A//www.kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # KinderArt - Privacy Policy
 
@@ -45,7 +45,3 @@ KinderArt places prominent notices wherever personally identifiable information 
 
 **COPPA**  
 Because KinderArt cares about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). If you have any questions regarding this policy or the safety of kids at KinderArt, please contact us at: [learn@kinderart.com](mailto:learn@kinderart.com)
-
-### About Advertising
-
-KinderArt uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
