@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listingbook.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208162027id_/http%3A//www.listingbook.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingbook.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401135652id_/http%3A//www.listingbook.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Listingbook Services
 
