@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the jokedollars.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401115546id_/http%3A//www.jokaroo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokedollars.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024054id_/http%3A//www.jokaroo.com/privacy.htm) for the most accurate reproduction.*
 
 # Jokaroo.com - Privacy Policy
 
   
-**Jokaroo.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Jokaroo.com](http://www.jokaroo.com/). 
+**PRIVACY POLICY FOR JOKAROO INC.**  
+
+
+**Jokaroo.com ** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Jokaroo.com](http://www.jokaroo.com/). 
 
 ####  Information Automatically Logged 
 
@@ -14,7 +17,9 @@ We use your IP address to help diagnose problems with our server and to administ
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:   
 http://www.fastclick.com/about/privacy.html  
 http://www.shareasale.com/corporate.cfm  
-http://www.directleads.com/privacy.html   
+http://www.directleads.com/privacy.html  
+http://www.gorillanation.com/privacy.htm  
+http://www.tafmaster.com/privacy/  
 
 
 ####  Information Collected 
