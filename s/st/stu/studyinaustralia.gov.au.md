@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyinaustralia.gov.au privacy policy that was archived on 2001-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010308175637id_/http%3A//www.detya.gov.au/directory/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyinaustralia.gov.au privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201154705id_/http%3A//www.detya.gov.au/directory/privacy.htm) for the most accurate reproduction.*
 
 # DETYA Web Site Privacy Statement
 
