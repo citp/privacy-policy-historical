@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the wistv.com privacy policy that was archived on 2002-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021021045429id_/http%3A//www.wistv.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wistv.com privacy policy that was archived on 2003-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030917131701id_/http%3A//www.wistv.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html">
-<title>This Station’s Privacy Policy</title></head><body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0" link="#000084" alink="#000084" vlink="#000084" bgcolor="#FFFFFF" onload="refreshAds();"><wn version="Container_A" base="IIS17"></wn><script type="text/javascript" language="JavaScript1.1" src="/global/include/VideoFunctions.js"></script><script language="JavaScript1.1"><!-- 
+<title>This Station’s Privacy Policy</title></head><body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0" link="#0000CC" alink="#000084" vlink="#CC0000" bgcolor="#FFFFFF"><wn version="Container_B" base="IIS34"></wn><script type="text/javascript" language="JavaScript1.1" src="/global/include/VideoFunctions.js"></script><script language="JavaScript1.1"><!-- 
 
 			// HTML Nav Rollover functions
 			var bsr = navigator.appName;
@@ -42,21 +42,43 @@
 				}
 				
 				else {
-				
-					var newsrc
-					var i;
-					for (i=1; i <= 3; i++) {
+						
+						if (ns6) {
+						
+						var ns6src1 = src + ":" + 1;
+						var ns6src2 = src + ":" + 2; 
+						var ns6src3 = src + ":" + 3;
+						
+						var ns6navbtn1 = document.getElementById(ns6src1);				
+						ns6navbtn1.style.backgroundColor = clrOver; 
+						
+						var ns6navbtn2 = document.getElementById(ns6src2);				
+						ns6navbtn2.style.backgroundColor = clrOver; 
+						var ns6navbtn2txt = ns6navbtn2.getElementsByTagName("A");
+						ns6navbtn2txt[0].style.color = aclrOver;
+						ns6navbtn2txt[0].style.textDecoration = 'underline';
+												
+						var ns6navbtn3 = document.getElementById(ns6src3);				
+						ns6navbtn3.style.backgroundColor = clrOver; 
 
-						newsrc = src + ":" + i;
+						}
+						else {
+						
+						var newsrc
+						var i;
+						for (i=1; i <= 3; i++) {
 
-						document.all[newsrc].style.cursor = 'hand';
+							newsrc = src + ":" + i;
+						
+							document.all[newsrc].style.cursor = 'hand';
+						
+							document.all[newsrc].style.backgroundColor = clrOver;
 
-						document.all[newsrc].style.backgroundColor = clrOver;
 
-
-						if (document.all[newsrc].children.tags('A').length != 0) {
-							document.all[newsrc].children.tags('A')[0].style.color = aclrOver;
-							document.all[newsrc].children.tags('A')[0].style.textDecoration = 'underline';
+							if (document.all[newsrc].children.tags('A').length != 0) {
+								document.all[newsrc].children.tags('A')[0].style.color = aclrOver;
+								document.all[newsrc].children.tags('A')[0].style.textDecoration = 'underline';
+							}
 						}
 					
 					}
@@ -83,10 +105,31 @@
 				}
 								
 				else {
-			
+
+					if (ns6) {
+					
+					var ns6src1 = src + ":" + 1;
+					var ns6src2 = src + ":" + 2; 
+					var ns6src3 = src + ":" + 3;
+					
+					var ns6navbtn1 = document.getElementById(ns6src1);				
+					ns6navbtn1.style.backgroundColor = clrIn; 
+					
+					var ns6navbtn2 = document.getElementById(ns6src2);				
+					ns6navbtn2.style.backgroundColor = clrIn; 
+					var ns6navbtn2txt = ns6navbtn2.getElementsByTagName("A");
+					ns6navbtn2txt[0].style.color = aclrIn;
+					ns6navbtn2txt[0].style.textDecoration = 'none';
+											
+					var ns6navbtn3 = document.getElementById(ns6src3);				
+					ns6navbtn3.style.backgroundColor = clrIn; 
+
+					}
+					else {
+		
 					var newsrc
 					var i;
-					for (i=1; i <= 3; i++) {
+						for (i=1; i <= 3; i++) {
 						
 						newsrc = src + ":" + i;
 	
@@ -94,11 +137,11 @@
 
 						document.all[newsrc].style.backgroundColor = clrIn;
 
-						if (document.all[newsrc].children.tags('A').length != 0) {
-							document.all[newsrc].children.tags('A')[0].style.color = aclrIn;
-							document.all[newsrc].children.tags('A')[0].style.textDecoration = 'none';
+							if (document.all[newsrc].children.tags('A').length != 0) {
+								document.all[newsrc].children.tags('A')[0].style.color = aclrIn;
+								document.all[newsrc].children.tags('A')[0].style.textDecoration = 'none';
+							}
 						}
-
 					}
 					
 				}
@@ -121,6 +164,13 @@
 		self.location = url;
 	}
 
+	  
+	var g_ContID="18990";
+	var g_AdTag="News";
+	var g_AffName = "WISTV";
+	var g_ContType = "S";
+	var g_BaseURL = "www.wistv.com";
+	var g_SDCURL = "http://wtnj.worldnow.com/dcs.gif";
 	window.name = "CONTENT";
 	window.focus();
 
@@ -186,7 +236,7 @@
 
   
 function refreshAds() {
-		
+
 
 	if ((bsr != "Netscape") || (ns6)) {
 
@@ -198,6 +248,7 @@ function refreshAds() {
 		var refIframe = document.all.iframeads.src;
 		}
 
+
 		var adIframe = window.frames["iframeads"]; 			
 
 		for (i=1; i <=18; i++) {
@@ -206,22 +257,28 @@ function refreshAds() {
 
 		var adformname = "adform" + i;
 
-		if (window.frames[iframename]) {
-		window.frames[iframename].document.write(adIframe.document.forms[adformname].elements[0].value);
-		window.frames[iframename].document.close();
-		}
+
+			if (window.frames[iframename]) {
+			
+				if (ns6) {
+
+				window.frames[iframename].document.write(adIframe.document.forms[adformname].elements[0].value);
+
+				window.frames[iframename].document.close();
+
+				}
+
+				else {
+
+				window.frames[iframename].document.body.innerHTML = adIframe.document.forms[adformname].elements[0].value;
+
+				}
+			}
 
 		}
 
   
 
-
-	}
-
-	if (ns6) {
-		newns6Iframe = document.getElementById("iframeads");
-		newns6Iframe.src = "#";
-		newns6Iframe.src = refIframe;
 	}
 
 
@@ -231,10 +288,20 @@ function checkad(p_adID) {
 
  	if (bsr == "Netscape" && parseInt(ver) >= 5) {
   			var bd = new String(window.frames[p_adID].document.getElementById("AdHolder").innerHTML);
+
   			var brsrc = bd.search(/WN\snoad\S\SYes/gi); 
+
+  			var adiframe = document.getElementById(p_adID);
+
   			if (brsrc != -1) {
-   				var adiframe = document.getElementById(p_adID);
-   				adiframe.style.display = "none";
+   				
+   				//adiframe.style.display = "none";
+   				adiframe.height = 0;
+				adiframe.width = 0;
+  			}
+  			else {
+
+  				adiframe.style.visibility = "visible";
   			}
  	}
    else if (bsr == "Netscape" && parseInt(ver) < 5 ) { } //Sniff out Netscape 4.x browser and not return anything
@@ -248,10 +315,11 @@ function checkad(p_adID) {
 			document.all[p_adID].style.display = "none";
    		
   		}
+  		else {
+  			document.all[p_adID].style.visibility = "visible";
+  		}
 	}
 }
-
-
 
 
 function wxSwap (id1, id2)	{
@@ -272,7 +340,6 @@ function wxSwap (id1, id2)	{
 					ns6wximg.src = '/images/static/gfx/wx_btn_off.gif';
 				}		
 			}
-			if (bsr == "Netscape" && ver < 5) { }
 			else {
 	
 	
@@ -289,6 +356,7 @@ function wxSwap (id1, id2)	{
 					
 					}
 				}	   
+				
 			}	
 	} 
 	else {
@@ -299,7 +367,6 @@ function wxSwap (id1, id2)	{
 				ns6id2 = document.getElementById(id2);
 				ns6id2.style.display = '';
 			}
-			if (bsr == "Netscape" && ver < 5) { }
 			else {
 				document.all[id1].style.display = 'none';	
 				document.all[id2].style.display = '';
@@ -307,6 +374,8 @@ function wxSwap (id1, id2)	{
 	}
 
 }
+
+
 
 
 //--></script><style>
@@ -321,23 +390,23 @@ FONT.a {
 
 FONT.sectiontitle {
 	
-	font-size:10px;
-	color:#222222;
+	font-size:9px;
+	color:#000000;
 }
 
 TD.l1off{
 	padding-left:2px;
-	background-color:#FFFFFF;
+	background-color:#02035F;
 }
 
 TD.l1on{
 	padding-left:2px;
-	background-color:#FFCC66;
+	background-color:#B50101;
 }
 
 A.l1off{
 	padding-left:2px;
-	color:#000067;
+	color:#FFFFFF;
 	font-family:Verdana,Arial;
 	font-weight:700;
 	font-size:11px;
@@ -346,7 +415,7 @@ A.l1off{
 
 A.l1on{
 	padding-left:2px;
-	color:#000067;
+	color:#FFFFFF;
 	font-family:Verdana,Arial;
 	font-weight:700;
 	font-size:11px;
@@ -360,7 +429,7 @@ TD.l2{
 
 A.l2{
 	padding-left:3px;
-	color:#000067;
+	color:#0A17BE;
 	font-family:Verdana,Arial;
 	font-weight:400;
 	font-size:10px;
@@ -374,7 +443,7 @@ TD.l3a{
 
 FONT.l3a{
 	padding-left:4px;
-	color:#000067;
+	color:#0A17BE;
 	font-family:Verdana,Arial;
 	font-weight:400;
 	font-size:10px;
@@ -388,7 +457,7 @@ TD.l3b{
 
 A.l3b{
 	padding-left:2px;
-	color:#000067;
+	color:#0A17BE;
 	font-family:Verdana,Arial;
 	font-weight:400;
 	font-size:10px;
@@ -396,21 +465,21 @@ A.l3b{
 }
 
 FONT.bn{
-	color:#000084;
+	color:#000000;
 	font-family:Verdana,Arial;
 	font-size:10px;
 	text-decoration:underline;
 }
 
 FONT.bnl{
-	color:#000084;
+	color:#000000;
 	font-family:Verdana,Arial;
 	font-size:10px;
 	text-decoration:none;
 }
 
 TABLE.ctdbr {
-	background-color:#000063;
+	background-color:#02035F;
 	
 }
 
@@ -418,7 +487,7 @@ TABLE.ctdbr {
 
 
 TD.ctdcrn {
-	background-color:#000063;
+	background-color:#02035F;
 	padding-left:0px;
 	padding-right:0px;
 }
@@ -426,13 +495,13 @@ TD.ctdcrn {
 
 
 TD.ctdbtn {
-	background-color:#FFCF63;
+	background-color:#0204B2;
 	
 }
 
 
 A.ctdoff {
-	color:#000000;
+	color:#FFFFFF;
 	font-family:Arial;
 	font-size:11px;
 	font-weight:700;
@@ -450,59 +519,53 @@ IMG.video {
 
 }
 
+
 </style>
 
 
-<div style="position: absolute; top: 0px; left: 0px;"><iframe id="iframeads" name="iframeads" style="VISIBILITY: hidden" src="/global/ad.asp?type=core&amp;adtargwindow=Ad.TargetFrame.NewWin&amp;rnd=89966378211974&amp;sz1=banner&amp;tg1=News&amp;src1=wn&amp;frm1=frm1&amp;sz2=Bu120x60A&amp;tg2=News&amp;src2=aff&amp;frm2=frm2&amp;sz3=Bu120x60B&amp;tg3=News&amp;src3=aff&amp;frm3=frm3&amp;sz4=Bu120x60C&amp;tg4=News&amp;src4=aff&amp;frm4=frm4&amp;sz5=We120x15&amp;tg5=News&amp;src5=aff&amp;frm5=frm5&amp;sz6=SpH490x25&amp;tg6=News&amp;src6=aff&amp;frm6=frm6&amp;sz7=120x600&amp;tg7=News&amp;src7=wn&amp;frm7=frm7&amp;sz8=180x150&amp;tg8=News&amp;src8=aff&amp;frm8=frm8&amp;sz9=VB120x240A&amp;tg9=News&amp;src9=aff&amp;frm9=frm9&amp;sz10=VB120x240B&amp;tg10=News&amp;src10=wn&amp;frm10=frm10&amp;sz11=Poll88x31&amp;tg11=News&amp;src11=aff&amp;frm11=frm11&amp;sz12=RichMedia&amp;tg12=News&amp;src12=wn&amp;frm12=frm12&amp;sz13=Popup&amp;tg13=News&amp;src13=aff&amp;frm13=frm13&amp;sz14=Popunder&amp;tg14=News&amp;src14=wn&amp;frm14=frm14" width="0" height="0"></iframe></div>
-<table border="0" bordercolor="#FF0000" width="760" height="80" cellspacing="0" cellpadding="0" bgcolor="#010066">
-<tbody><tr valign="MIDDLE">
-<td width="100%" align="RIGHT" background="http://WISTV.static.worldnow.com/images/static/hdr/hdr_branding.jpg">
-<table cellpadding="3" cellspacing="0" border="0" width="120" background="/images/static/gfx/pxl_trans.gif">
-<tbody><tr><td><iframe id="frm3" name="frm3" width="120" height="60" allowtransparency="true" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=38029519319534&type=single&tg=News&src=aff&sz=Bu120x60B&callType=script'></SCRIPT></iframe></td></tr>
-</tbody></table>
-</td></tr>
-</tbody></table>
 <table border="0" bordercolor="#FF0000" cellspacing="0" cellpadding="0" height="100%" width="760">
 <tbody><tr valign="TOP"><!--LEFT COLUMN -->
-<td rowspan="3" width="130" bgcolor="#EBEBF5">
-<table border="0" width="100%" cellpadding="0" cellspacing="0" background="http://WISTV.static.worldnow.com/images/static/gfx/pxl_trans.gif">
-<tbody><tr>
-<td><img width="130" src="http://WISTV.static.worldnow.com/images/static/gfx/nav_top.gif"></td>
+<td rowspan="3" width="130" id="col1" bgcolor="#0204B2">
+<table border="0" width="100%" cellpadding="0" cellspacing="0" background="/images/static/gfx/pxl_trans.gif">
+<tbody><tr><td><img width="130" border="0" src="/images/static/hdr/hdr_branding_130x170.jpg"></td></tr>
+<tr>
+<td><img width="130" src="/images/static/gfx/nav_top.gif"></td>
 </tr>
 <tr>
-<td valign="TOP" bgcolor="#EBEBF5"><!-- NAVIGATION MENU -->
+<td valign="TOP" bgcolor="#2F4FFE"><!-- NAVIGATION MENU -->
 <table border="0" width="100%" cellpadding="0" cellspacing="1">
-<tbody><tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=1682&amp;nav=0RaM">Home</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=1683&amp;nav=0RaN">Weather</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=2462&amp;nav=0RaO">WIS Listens</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=1684&amp;nav=0RaP">News</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=1685&amp;nav=0RaQ">Sports</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=2464&amp;nav=0RaS">WIS Health</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=24988&amp;nav=7k8m">Your Next Car</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=9215&amp;nav=4MpC">AskTheExpert</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=8278&amp;nav=1zcE">Job Link</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=2467&amp;nav=1zcG">Contact WIS</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=2466&amp;nav=4MIz">WIS Team</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=3052&amp;nav=1zcH">Links</a></td></tr>
-<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#FFCC66','#000067');" onmouseout="mOut(this,'#FFFFFF','#000067');"><a class="l1off" onmouseover="mOvrN(this,'#000067');" onmouseout="mOutN(this,'#000067');" href="/Global/category.asp?C=2475&amp;nav=81BA">Programming</a></td></tr>
+<tbody><tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=1682&amp;nav=0RaM">Home</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=1683&amp;nav=0RaN">Weather</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=1684&amp;nav=0RaP">News</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=1685&amp;nav=0RaQ">Sports</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=2464&amp;nav=0RaS">WIS Health</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/link.asp?L=77139&amp;nav=E8Zh">Real Estate</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=24988&amp;nav=7k8m">Your Next Car</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=9215&amp;nav=4MpC">AskTheExpert</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=8278&amp;nav=1zcE">Job Link</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=2462&amp;nav=0RaO">Community</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=2467&amp;nav=1zcG">Contact WIS</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=2466&amp;nav=4MIz">WIS Team</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=2475&amp;nav=81BA">Programming</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#B50101','#FFFFFF');" onmouseout="mOut(this,'#02035F','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=3052&amp;nav=1zcH">Links</a></td></tr>
 </tbody></table>
 </td>
 </tr>
 <tr>
-<td><img width="130" src="http://WISTV.static.worldnow.com/images/static/gfx/nav_bot.gif"></td>
+<td><img width="130" src="/images/static/gfx/nav_bot.gif"></td>
 </tr>
 </tbody></table><!--SEARCH-->
-<table border="0" cellspacing="1" cellpadding="0" width="125" align="CENTER" background="http://WISTV.static.worldnow.com/images/static/gfx/pxl_trans.gif">
+<table border="0" cellspacing="1" cellpadding="0" width="125" align="CENTER" background="/images/static/gfx/pxl_trans.gif">
 <tbody><tr><td></td></tr>
 <tr>
-<td bgcolor="#010066">
+<td bgcolor="#2F4FFE">
 <table border="0" cellspacing="1" cellpadding="0" width="100%">
 <tbody><tr>
 <td valign="TOP" width="100%">
-<table border="0" cellspacing="0" cellpadding="3" width="100%" bgcolor="#EBEBF5">
+<table border="0" cellspacing="0" cellpadding="3" width="100%" bgcolor="#010066">
 <tbody><tr><form action="/Global/SearchResults.asp" method="GET" name="SimpleSearchForm"></form>
-<td><img width="80" height="15" border="0" align="MIDDLE" src="http://WISTV.static.worldnow.com/images/static/gfx/search2.gif"><br><table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr><td><input type="Text" name="qu" size="12" maxlength="30" style="font-size:10px;"></td><td><input type="IMAGE" width="26" height="20" border="0" src="http://WISTV.static.worldnow.com/images/static/btn/btn_go2.gif"></td></tr></tbody></table></td>
+<td><img width="80" height="15" border="0" align="MIDDLE" src="/images/static/gfx/search2.gif"><br><table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr><td><input type="Text" name="qu" size="12" maxlength="30" style="font-size:10px;"></td><td><input type="IMAGE" width="26" height="20" border="0" src="/images/static/btn/btn_go2.gif"></td></tr></tbody></table></td>
 </tr>
 </tbody></table>
 </td>
@@ -511,19 +574,22 @@ IMG.video {
 </td>
 </tr>
 <tr><td></td></tr>
-</tbody></table><!--AD VB120x240A--><!--ADS 120x240A Local-->
-<center><iframe id="frm9" name="frm9" width="120" height="240" allowtransparency="true" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=34799746274947&type=single&tg=News&src=aff&sz=VB120x240A&callType=script'></SCRIPT></iframe></center><!-- COL 1A POLL --><!-- Subsection Navigation --><!--ADS 120x60--><br><div align="CENTER"><iframe id="frm2" name="frm2" width="120" height="60" allowtransparency="true" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=58456490039824&type=single&tg=News&src=aff&sz=Bu120x60A&callType=script'></SCRIPT></iframe></div><br><div align="CENTER"><iframe id="frm4" name="frm4" width="120" height="60" allowtransparency="true" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=12463507652282&type=single&tg=News&src=aff&sz=Bu120x60C&callType=script'></SCRIPT></iframe></div>
+</tbody></table><!--AD 120x240A --><!--ADS 120x240A Local-->
+<center><iframe id="frm9" name="frm9" width="120" height="240" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=89319757223128&type=single&tg=News&src=aff&sz=VB120x240A&callType=script'></SCRIPT></iframe></center><!-- COL 1A POLL --><!-- Subsection Navigation --><!--ADS 120x60--><br><div align="CENTER"><iframe id="frm2" name="frm2" width="120" height="60" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=88213870525359&type=single&tg=News&src=aff&sz=Bu120x60A&callType=script'></SCRIPT></iframe></div><br><div align="CENTER"><iframe id="frm4" name="frm4" width="120" height="60" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=90777978897093&type=single&tg=News&src=aff&sz=Bu120x60C&callType=script'></SCRIPT></iframe></div>
 </td><!-- END OF LEFT COLUMN --><!-- CENTER COLUMN -->
-<td valign="TOP" width="630">
+<td valign="TOP" id="col2/3" width="630">
 <table border="0" bordercolor="#ff0000" width="100%" cellpadding="0" cellspacing="0" height="100%">
-<tbody><tr><!-- NATIONAL CHANNELS -->
-<td bgcolor="#000063">
+<tbody><tr>
+<td bgcolor="#FFFFFF" colspan="2"><img src="/images/static/hdr/category_hdr.jpg"></td>
+</tr>
+<tr><!-- NATIONAL CHANNELS -->
+<td colspan="2" bgcolor="#02035F">
 <table cellpadding="0" cellspacing="1" border="0" bordercolor="#CC0000" width="630">
 <tbody><tr>
-<td width="100%" bgcolor="#000063">
+<td width="100%" bgcolor="#02035F">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
-<td width="100%" align="left"><nobr><font style="FONT-SIZE:10px;COLOR:#FFFFFF;">&nbsp;October 21, 2002</font></nobr></td>
+<td width="100%" align="left"><nobr><font style=" FONT-SIZE:10px; COLOR:#FFFFFF;">&nbsp;September 17, 2003</font></nobr></td>
 <td width="90%"></td>
 <td>
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
@@ -531,63 +597,81 @@ IMG.video {
 <td class="ctdoff">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
-<td valign="TOP" class="ctdbtn" id="ctd1:1" onmouseover="mOvr('ctd1','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd1','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_left_corner.gif"></td>
-<td class="ctdbtn" id="ctd1:2" onmouseover="mOvr('ctd1','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd1','#FFCF63','#000000');"><a class="ctdoff" href="/global/category.asp?c=28500">House&nbsp;&amp;&nbsp;Home<!-- - ->&nbsp;&gt;<!- - --></a></td>
-<td valign="TOP" class="ctdbtn" id="ctd1:3" onmouseover="mOvr('ctd1','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd1','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_right_corner.gif"></td>
+<td valign="TOP" class="ctdbtn" id="ctd1:1" onmouseover="mOvr('ctd1','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd1','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="/images/static/gfx/channel_left_corner.gif"></td>
+<td class="ctdbtn" id="ctd1:2" onmouseover="mOvr('ctd1','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd1','#0204B2','#FFFFFF');"><a class="ctdoff" href="/global/category.asp?c=40980">Summer<!-- - ->&nbsp;&gt;<!- - --></a></td>
+<td valign="TOP" class="ctdbtn" id="ctd1:3" onmouseover="mOvr('ctd1','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd1','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" src="/images/static/gfx/channel_right_corner.gif"></td>
 </tr>
 </tbody></table>
 </td>
 <td class="ctdoff">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
-<td valign="TOP" class="ctdbtn" id="ctd2:1" onmouseover="mOvr('ctd2','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd2','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_left_corner.gif"></td>
-<td class="ctdbtn" id="ctd2:2" onmouseover="mOvr('ctd2','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd2','#FFCF63','#000000');"><a class="ctdoff" href="/global/category.asp?c=17222">Jobs<!-- - ->&nbsp;&gt;<!- - --></a></td>
-<td valign="TOP" class="ctdbtn" id="ctd2:3" onmouseover="mOvr('ctd2','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd2','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_right_corner.gif"></td>
+<td valign="TOP" class="ctdbtn" id="ctd2:1" onmouseover="mOvr('ctd2','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd2','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="/images/static/gfx/channel_left_corner.gif"></td>
+<td class="ctdbtn" id="ctd2:2" onmouseover="mOvr('ctd2','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd2','#0204B2','#FFFFFF');"><a class="ctdoff" href="/Global/category.asp?C=24988&amp;nav=7k8m">Auto<!-- - ->&nbsp;&gt;<!- - --></a></td>
+<td valign="TOP" class="ctdbtn" id="ctd2:3" onmouseover="mOvr('ctd2','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd2','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" src="/images/static/gfx/channel_right_corner.gif"></td>
 </tr>
 </tbody></table>
 </td>
 <td class="ctdoff">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
-<td valign="TOP" class="ctdbtn" id="ctd3:1" onmouseover="mOvr('ctd3','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd3','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_left_corner.gif"></td>
-<td class="ctdbtn" id="ctd3:2" onmouseover="mOvr('ctd3','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd3','#FFCF63','#000000');"><a class="ctdoff" href="/global/category.asp?c=17221">Law<!-- - ->&nbsp;&gt;<!- - --></a></td>
-<td valign="TOP" class="ctdbtn" id="ctd3:3" onmouseover="mOvr('ctd3','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd3','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_right_corner.gif"></td>
+<td valign="TOP" class="ctdbtn" id="ctd3:1" onmouseover="mOvr('ctd3','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd3','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="/images/static/gfx/channel_left_corner.gif"></td>
+<td class="ctdbtn" id="ctd3:2" onmouseover="mOvr('ctd3','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd3','#0204B2','#FFFFFF');"><a class="ctdoff" href="/global/category.asp?c=28006">House&nbsp;&amp;&nbsp;Home<!-- - ->&nbsp;&gt;<!- - --></a></td>
+<td valign="TOP" class="ctdbtn" id="ctd3:3" onmouseover="mOvr('ctd3','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd3','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" src="/images/static/gfx/channel_right_corner.gif"></td>
 </tr>
 </tbody></table>
 </td>
 <td class="ctdoff">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
-<td valign="TOP" class="ctdbtn" id="ctd4:1" onmouseover="mOvr('ctd4','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd4','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_left_corner.gif"></td>
-<td class="ctdbtn" id="ctd4:2" onmouseover="mOvr('ctd4','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd4','#FFCF63','#000000');"><a class="ctdoff" href="/global/category.asp?c=2463">Money<!-- - ->&nbsp;&gt;<!- - --></a></td>
-<td valign="TOP" class="ctdbtn" id="ctd4:3" onmouseover="mOvr('ctd4','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd4','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_right_corner.gif"></td>
+<td valign="TOP" class="ctdbtn" id="ctd4:1" onmouseover="mOvr('ctd4','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd4','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="/images/static/gfx/channel_left_corner.gif"></td>
+<td class="ctdbtn" id="ctd4:2" onmouseover="mOvr('ctd4','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd4','#0204B2','#FFFFFF');"><a class="ctdoff" href="/global/category.asp?c=32775">Jobs<!-- - ->&nbsp;&gt;<!- - --></a></td>
+<td valign="TOP" class="ctdbtn" id="ctd4:3" onmouseover="mOvr('ctd4','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd4','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" src="/images/static/gfx/channel_right_corner.gif"></td>
 </tr>
 </tbody></table>
 </td>
 <td class="ctdoff">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
-<td valign="TOP" class="ctdbtn" id="ctd5:1" onmouseover="mOvr('ctd5','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd5','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_left_corner.gif"></td>
-<td class="ctdbtn" id="ctd5:2" onmouseover="mOvr('ctd5','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd5','#FFCF63','#000000');"><a class="ctdoff" href="/global/category.asp?c=25169">Travel<!-- - ->&nbsp;&gt;<!- - --></a></td>
-<td valign="TOP" class="ctdbtn" id="ctd5:3" onmouseover="mOvr('ctd5','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd5','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_right_corner.gif"></td>
+<td valign="TOP" class="ctdbtn" id="ctd5:1" onmouseover="mOvr('ctd5','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd5','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="/images/static/gfx/channel_left_corner.gif"></td>
+<td class="ctdbtn" id="ctd5:2" onmouseover="mOvr('ctd5','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd5','#0204B2','#FFFFFF');"><a class="ctdoff" href="/global/category.asp?c=29878">Pets<!-- - ->&nbsp;&gt;<!- - --></a></td>
+<td valign="TOP" class="ctdbtn" id="ctd5:3" onmouseover="mOvr('ctd5','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd5','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" src="/images/static/gfx/channel_right_corner.gif"></td>
 </tr>
 </tbody></table>
 </td>
 <td class="ctdoff">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
-<td valign="TOP" class="ctdbtn" id="ctd6:1" onmouseover="mOvr('ctd6','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd6','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_left_corner.gif"></td>
-<td class="ctdbtn" id="ctd6:2" onmouseover="mOvr('ctd6','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd6','#FFCF63','#000000');"><a class="ctdoff" href="/global/category.asp?c=23379">Yellow&nbsp;Pages<!-- - ->&nbsp;&gt;<!- - --></a></td>
-<td valign="TOP" class="ctdbtn" id="ctd6:3" onmouseover="mOvr('ctd6','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd6','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_right_corner.gif"></td>
+<td valign="TOP" class="ctdbtn" id="ctd6:1" onmouseover="mOvr('ctd6','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd6','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="/images/static/gfx/channel_left_corner.gif"></td>
+<td class="ctdbtn" id="ctd6:2" onmouseover="mOvr('ctd6','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd6','#0204B2','#FFFFFF');"><a class="ctdoff" href="/global/category.asp?c=15965">Money<!-- - ->&nbsp;&gt;<!- - --></a></td>
+<td valign="TOP" class="ctdbtn" id="ctd6:3" onmouseover="mOvr('ctd6','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd6','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" src="/images/static/gfx/channel_right_corner.gif"></td>
 </tr>
 </tbody></table>
 </td>
 <td class="ctdoff">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
-<td valign="TOP" class="ctdbtn" id="ctd7:1" onmouseover="mOvr('ctd7','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd7','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_left_corner.gif"></td>
-<td class="ctdbtn" id="ctd7:2" onmouseover="mOvr('ctd7','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd7','#FFCF63','#000000');"><a class="ctdoff" href="/global/category.asp?c=30222">Pets<!-- - ->&nbsp;&gt;<!- - --></a></td>
-<td valign="TOP" class="ctdbtn" id="ctd7:3" onmouseover="mOvr('ctd7','#4A59C6','#FFFFFF');" onmouseout="mOut('ctd7','#FFCF63','#000000');"><img vspace="0" hspace="0" width="4" border="0" src="http://WISTV.static.worldnow.com/images/static/gfx/channel_right_corner.gif"></td>
+<td valign="TOP" class="ctdbtn" id="ctd7:1" onmouseover="mOvr('ctd7','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd7','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="/images/static/gfx/channel_left_corner.gif"></td>
+<td class="ctdbtn" id="ctd7:2" onmouseover="mOvr('ctd7','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd7','#0204B2','#FFFFFF');"><a class="ctdoff" href="/global/category.asp?c=23748">Travel<!-- - ->&nbsp;&gt;<!- - --></a></td>
+<td valign="TOP" class="ctdbtn" id="ctd7:3" onmouseover="mOvr('ctd7','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd7','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" src="/images/static/gfx/channel_right_corner.gif"></td>
+</tr>
+</tbody></table>
+</td>
+<td class="ctdoff">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td valign="TOP" class="ctdbtn" id="ctd8:1" onmouseover="mOvr('ctd8','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd8','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="/images/static/gfx/channel_left_corner.gif"></td>
+<td class="ctdbtn" id="ctd8:2" onmouseover="mOvr('ctd8','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd8','#0204B2','#FFFFFF');"><a class="ctdoff" href="javascript:OpenWin('http://yp.bellsouth.com/?from=WN1&amp;mkt=COSC');">Yellow&nbsp;Pages<!-- - ->&nbsp;&gt;<!- - --></a></td>
+<td valign="TOP" class="ctdbtn" id="ctd8:3" onmouseover="mOvr('ctd8','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd8','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" src="/images/static/gfx/channel_right_corner.gif"></td>
+</tr>
+</tbody></table>
+</td>
+<td class="ctdoff">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td valign="TOP" class="ctdbtn" id="ctd9:1" onmouseover="mOvr('ctd9','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd9','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" height="18" src="/images/static/gfx/channel_left_corner.gif"></td>
+<td class="ctdbtn" id="ctd9:2" onmouseover="mOvr('ctd9','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd9','#0204B2','#FFFFFF');"><a class="ctdoff" href="/global/category.asp?c=35501">Relationships<!-- - ->&nbsp;&gt;<!- - --></a></td>
+<td valign="TOP" class="ctdbtn" id="ctd9:3" onmouseover="mOvr('ctd9','#2F4FFE','#FFFFFF');" onmouseout="mOut('ctd9','#0204B2','#FFFFFF');"><img vspace="0" hspace="0" width="4" border="0" src="/images/static/gfx/channel_right_corner.gif"></td>
 </tr>
 </tbody></table>
 </td>
@@ -602,34 +686,18 @@ IMG.video {
 </td>
 </tr>
 <tr><!-- PAGE CONTENT -->
-<td valign="TOP" height="100%" width="630" bgcolor="#FFFFFF">
+<td valign="TOP" height="100%" width="500" bgcolor="#FFFFFF">
 <table cellpadding="1" cellspacing="0" border="0" width="100%">
 <tbody><tr><td width="1"> </td>
 <td>
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr><td colspan="2" align="CENTER" bgcolor="#FFFFFF">
 <table cellpadding="0" cellspacing="1" border="0" width="100%">
-<tbody><tr><td align="CENTER"><iframe id="frm1" name="frm1" width="468" height="60" allowtransparency="true" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=48247841596603&type=single&tg=News&src=wn&sz=banner&callType=script'></SCRIPT></iframe></td>
+<tbody><tr><td align="CENTER"><iframe id="frm1" name="frm1" width="468" height="60" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=71393493413924&type=single&tg=News&src=wn&sz=banner&callType=script'></SCRIPT></iframe></td>
 </tr>
 </tbody></table>
 </td></tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="1" border="0" width="100%">
-<tbody><tr>
-<td width="100%" bgcolor="#FFFFFF">
-<table cellpadding="0" cellspacing="1" border="0">
-<tbody><tr>
-<td valign="MIDDLE" align="LEFT">
-<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr>
-<td> <b><font style="FONT-SIZE:11px;COLOR:#000084;"> </font></b></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table><!--AD SpH490x25--><iframe id="frm6" name="frm6" width="490" height="25" allowtransparency="true" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=106363580226897&type=single&tg=News&src=aff&sz=SpH490x25&callType=script'></SCRIPT></iframe><table cellpadding="0" cellspacing="1" border="0" width="100%">
+</tbody></table><!--AD SpH490x25--><iframe id="frm6" name="frm6" width="490" height="25" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=105676243305205&type=single&tg=News&src=aff&sz=SpH490x25&callType=script'></SCRIPT></iframe><table cellpadding="0" cellspacing="1" border="0" width="100%">
 <tbody><tr><td><!-- COL 2A WEATHER/POLL-->
 </td></tr>
 </tbody></table><!-- DISPLAY STORY-->
@@ -642,23 +710,23 @@ IMG.video {
 <table border="0" cellspacing="0" cellpadding="5" width="100%" bgcolor="#FFFFFF">
 <tbody><tr>
 <td valign="TOP">
-<font style="FONT-FAMILY:Verdana,Arial;FONT-SIZE:11px;COLOR:#000084;"><b>This Station’s Privacy Policy</b></font><br clear="ALL"><table cellpadding="0" cellspacing="3" border="0" width="180" bgcolor="#FFFFFF" name="D20" align="LEFT">
+<font style="FONT-FAMILY:Verdana,Arial; FONT-SIZE:11px; COLOR:#0A17BE;"><b>This Station’s Privacy Policy</b></font><br clear="ALL"><table cellpadding="0" cellspacing="3" border="0" width="180" bgcolor="#FFFFFF" name="D20" align="LEFT">
+<tbody><tr><td bgcolor="#FFFFFF">
+<table cellpadding="1" cellspacing="1" border="0" width="100%">
 <tbody><tr bgcolor="#FFFFFF">
 <td>
-<table cellpadding="1" cellspacing="1" border="0" width="100%" bgcolor="#010066">
-<tbody><tr><td>
 <table cellspacing="0" cellpadding="3" border="0" width="100%">
-<tbody><tr><td align="CENTER" bgcolor="#FFFFFF"><a href="javascript: var headline = escape(&quot;This Station%E2%80%99s Privacy Policy&quot;); OpenWin( '/Global/Create_Email_Story.asp?s=18990&amp;Headline=' + headline +  '||width=635,height=400,toolbar=no,scrollbars=no')"><img width="18" height="17" border="0" align="baseline" src="http://WISTV.static.worldnow.com/global/images/icon_email.gif"></a></td><td bgcolor="#FFFFFF"><nobr><a href="javascript: var headline = escape(&quot;This Station%E2%80%99s Privacy Policy&quot;); OpenWin( '/Global/Create_Email_Story.asp?s=18990&amp;Headline=' + headline +  '||width=635,height=400,toolbar=no,scrollbars=no')"><font class="a" style="FONT-SIZE:10px;COLOR:#000000;">
+<tbody><tr><td align="CENTER" bgcolor="#FFFFFF"><a href="javascript: var headline = escape(&quot;This Station%E2%80%99s Privacy Policy&quot;); OpenWin( '/Global/Create_Email_Story.asp?s=18990&amp;Headline=' + headline +  '||width=635,height=400,toolbar=no,scrollbars=no')"><img width="18" height="17" border="0" align="baseline" src="/global/images/icon_email.gif"></a></td><td bgcolor="#FFFFFF"><nobr><a href="javascript: var headline = escape(&quot;This Station%E2%80%99s Privacy Policy&quot;); OpenWin( '/Global/Create_Email_Story.asp?s=18990&amp;Headline=' + headline +  '||width=635,height=400,toolbar=no,scrollbars=no')"><font class="a" style=" FONT-SIZE:10px; COLOR:#000000;">
 														Email to a Friend
 														</font></a></nobr></td></tr>
-<tr><td align="CENTER" bgcolor="#FFFFFF"><a href="/global/story.asp?s=18990&amp;ClientType=Print"><img width="18" height="17" border="0" align="baseline" src="http://WISTV.static.worldnow.com/global/images/icon_printer.gif"></a></td><td bgcolor="#FFFFFF"><nobr><a href="/global/story.asp?s=18990&amp;ClientType=Printable"><font class="a" style="FONT-SIZE:10px;COLOR:#000000;">
+<tr><td align="CENTER" bgcolor="#FFFFFF"><a href="/global/story.asp?s=18990&amp;ClientType=Print"><img width="18" height="17" border="0" align="baseline" src="/global/images/icon_printer.gif"></a></td><td bgcolor="#FFFFFF"><nobr><a href="/global/story.asp?s=18990&amp;ClientType=Printable"><font class="a" style=" FONT-SIZE:10px; COLOR:#000000;">
 														Printer Friendly Version
 														</font></a></nobr></td></tr>
 </tbody></table>
 </td></tr>
 </tbody></table>
 </td></tr><!--AD 180x150 LOCAL-->
-<tr><td align="CENTER"><iframe id="frm8" name="frm8" width="180" height="150" allowtransparency="true" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=71996459960936&type=single&tg=News&src=aff&sz=180x150&callType=script'></SCRIPT></iframe></td>
+<tr><td align="CENTER"><iframe id="frm8" name="frm8" width="180" height="150" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=16152224540710&type=single&tg=News&src=aff&sz=180x150&callType=script'></SCRIPT></iframe></td>
 </tr>
 </tbody></table>
 <font size="2" color="#000000"><span style="COLOR: black">This station provides a variety of online   services, from interactive entertainment to electronic commerce via its   relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow").   WorldNow is the host of this station's site (the "Web site"). Because the   success of this station is dependent on building and maintaining goodwill with   our customers, this station and WorldNow (hereinafter collectively referred to   as "we" or “us” or "our") are committed to implementing measures designed to   protect the privacy of those using our services. Moreover, we see it as our   responsibility to set examples and help establish the standards for privacy on   the Internet.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></span>  <p><span style="COLOR: black">Although we respect the privacy of all those who   visit the Web site and use our online services, we do collect information from   our Web site's members and visitors. This Privacy Policy governs your   interaction with the Web site, and your registration for and use of this   station's online services. Except as set forth within this Privacy Policy and   this Web Site's Terms of Service and/or other published guidelines, we do not   release personally identifiable information about this Web site's members and   visitors without their permission.<o:p></o:p></span></p>  <p><span style="COLOR: black">Please note that we review these privacy practices   from time to time, and that these practices are therefore subject to change. We   ask that you periodically review this page to ensure continuing familiarity with   the most current version of this Web site's Privacy Policy. To contact us about   privacy issues, to report a violation of this Web site's Privacy Policy, or to   raise any other issue regarding the Web site, please e-mail us at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">.<o:p></o:p></span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">The   information we gather<o:p></o:p></span></b></p>  <p><span style="COLOR: black">We gather two types of information about this Web   site's users:<o:p></o:p></span></p>  <p><span style="COLOR: black">(1) <b style="mso-bidi-font-weight: normal">Non-personally identifiable   information:</b> When visitors come to the Web site, we collect and aggregate   information indicating, among other things, which pages were visited, the order   in which they were visited, and which hyperlinks were "clicked." Collecting such   information involves the logging of IP addresses, operating system and browser   software used by each visitor to the Web site. Although such information is not   personally identifiable, we can determine from the IP address a visitor's   Internet Service Provider and the geographic location of his or her point of   connectivity.<o:p></o:p></span></p>  <p><span style="COLOR: black">The non-personally identifiable information we   collect helps us diagnose problems with our server, administer the Web site,   identify the most popular areas of the Web site, and determine the effectiveness   of our promotional activities. In addition, we may disclose some of this   information to advertisers to inform them of the number of people who have seen   and/or clicked through their advertisements.<o:p></o:p></span></p>  <p><span style="COLOR: black">For the same purposes, we use "cookies"---that is,   small text files placed on your computer's hard drive---to help us determine the   type of content and sites to which you link, the length of time you spend at any   particular area of the Web site, and your usage of our services offered via the   Web site. Cookies also tell us which advertising you have seen on the Web   site.<span style="mso-spacerun: yes">&nbsp; </span>We use an outside advertising   company to display advertisements on the Web site that may contain cookies   ("banner ads"). These banner ads collect information stored by the advertising   company and we do not have access to this information.<o:p></o:p></span></p>  <p><span style="COLOR: black">Essentially, cookies are your identification cards   for our computers, or servers, that placed them there. Cookies are only read by   the server that placed them, and are unable to execute any code or virus.   Cookies allow us to serve you better and more efficiently, and to personalize   your experience at the Web site. Nevertheless, you should be able to control how   and whether cookies will be accepted by your web browser. For more information   on how to do so, please refer to the documentation accompanying your   browser.<o:p></o:p></span></p>  <p><span style="COLOR: black">(2) <b style="mso-bidi-font-weight: normal">Personally identifiable information:</b> In   certain areas of the Web site, such as online surveys and contests, the Web site   may require---that you provide this station with personally identifiable   information (including, for example, zip code, age, income, and e-mail address,   and when applicable, credit card information). WorldNow, as host of the Web   site, has access to this information. In addition, when registering to set up an   account to use certain services of the Web site such as e-mail, chat rooms, and   forums, or to receive certain newsletters or specifically targeted information   ("Services"), we do require that you provide both your name and your current,   valid e-mail address.<o:p></o:p></span></p>  <p><span style="COLOR: black">We do not knowingly collect personally   identifiable information from children (defined herein as minors younger than 13   years of age) without obtaining parental consent. Before registering for an   account to use the Services of the Web site, we ask that all minors have their   parents read our Privacy Policy. Before and during the registration process, we   encourage all minors to include a parent or guardian in the   process.<o:p></o:p></span></p>  <p><span style="COLOR: black">We do not control the acts of this Web site's   members or visitors. All members and visitors should be aware that, when they   disclose personally identifiable information in a bulletin board, chat room,   guestbook, or other forum, the information may be collected and used by others   to send that person unsolicited e-mail from other parties outside this station   or WorldNow. In the event that you encounter any user on this Web site who is   improperly collecting or using information about you or other users, please   contact </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">.<o:p></o:p></span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">How we use   (and do not use) the information we gather<o:p></o:p></span></b></p>  <p><span style="COLOR: black">Please take some time to familiarize yourself with   the different ways we use the information that we gather. Keep in mind that,   while we encourage all third parties involved---including its affiliates and   advertisers---to adhere to our policies regarding the privacy of this Web site's   visitors and members and to otherwise handle personal information in a   responsible manner, we cannot and do not assume any responsibility for any   actions or omissions of third parties, including the manner in which they use   information received either from us or independently. Nevertheless, in the event   you encounter any third party associated with, or who claims association with us   who you feel is improperly collecting or using information about you, please   contact </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">; we will be happy to forward your message to the third   party.<o:p></o:p></span></p>  <p><span style="COLOR: black">(1) <b style="mso-bidi-font-weight: normal">How we   use (and do not use) non-personally identifiable information:</b> We use   non-personally identifiable information in aggregate form to build higher   quality, more useful online services by performing statistical analyses of the   collective characteristics and behavior of the Web site's members and visitors,   and by measuring demographics and interests regarding specific areas of the Web   site. We provide statistical information based on this data to advertisers,   affiliates, and other current and potential business partners. We also use the   aggregate data to inform these third parties as to the number of people who have   seen and clicked on links to their web sites.<o:p></o:p></span></p>  <p><span style="COLOR: black">The Web site may contain links to other Internet   web sites, including co-branded or other affiliated sites that may or may not be   owned or operated by us. Unless otherwise explicitly stated, we are not   responsible for the privacy practices or the content of such web sites,   including such sites' use of any information (such as IP number, browser type,   or operating system) collected when visitors to the web site click through links   to those sites. Even though such information might not identify you personally,   we strongly encourage you to become familiar with the privacy practices of those   sites.<o:p></o:p></span></p>  <p><span style="COLOR: black">(2) <b style="mso-bidi-font-weight: normal">How we   use (and do not use) personally identifiable information:</b> We provide notice   to potential registrants of this Web site whose personally identifiable   information will be collected during the registration process. Such notice is   provided simultaneously with your registration with this website; moreover, this   Privacy Policy itself serves as notice that such information is collected under   those circumstances. Although you may not "opt out" of the registration process   if you wish to have access to Services, you may choose to "opt out" of receiving   promotional materials from us and/or its affiliates, advertisers, or other   business partners. If you do not "opt out" of receiving such promotional   materials, we reserve the right to release any personally identifiable   registration information regarding you to third parties who provide goods or   services that we believe may be of interest to you. We will not release your   credit card information to third parties unless necessary to complete a   transaction between you and such a third party. If you decide that you would   like to discontinue receiving promotional information from such third parties,   please contact those third parties directly, or contact us at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">.<o:p></o:p></span></p>  <p><span style="COLOR: black">We limit our own e-mail contact and solicitations   to those customers who have not "opted out" of receiving such communications.   The solicitations are limited in that they, among other things, will clearly   indicate the originator of the e-mail and provide the customer with a method of   "opting out" of receiving future communications of a similar   nature.<o:p></o:p></span></p>  <p><span style="COLOR: black">In addition, we sometimes use individual data to   "target" advertising to decide which advertisements and sponsor messages to show   to which members. As an example, if Sponsor XYZ wishes to display their   advertising only to female members of this Web site, we use member registration   data to ensure that Sponsor XYZ's ads are displayed only to female   members.<o:p></o:p></span></p>  <p><span style="COLOR: black">Finally, we may use individual members' data to   "pre-populate" forms which are displayed for the purpose of collecting   individual data by us and/or our sponsors. In no case does pre-populating a form   transfer any data to any advertiser or third party. Only if the member   voluntarily requests that such data be transferred will any transfer take   place---for example, if/when a member clicks a "submit form" button or other   button.<o:p></o:p></span></p>  <p><span style="COLOR: black">We reserve the right to release any and all   information contained within our access logs concerning any visitor or member   when that visitor or member is in violation of our Terms of Service or other   published guidelines, or partakes (or is reasonably suspected of partaking) in   any illegal activity, even without a subpoena, warrant, or other court order,   and to release such information in response to discovery requests, or in   response to any circumstance which we, in our sole discretion, deem an   emergency. We cooperate with law enforcement agencies in identifying those who   may be using our servers or services for illegal activities. We also reserve the   right to report any suspected illegal activity to law enforcement for   investigation or prosecution.<o:p></o:p></span></p>  <p><span style="COLOR: black">If and when we sponsor promotions or sweepstakes,   or third parties sponsor promotions or sweepstakes in conjunction with us,   either we or the third party will post relevant privacy information in the   official rules and/or registration area for the promotion or sweepstakes. That   privacy information, to the extent it conflicts with this Privacy Policy, will   govern that particular promotion or sweepstakes.<o:p></o:p></span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">Security<o:p></o:p></span></b></p>  <p><span style="COLOR: black">All information gathered on the Web site is stored   within a WorldNow controlled database accessible only to us to protect the loss,   misuse, or alteration of the information under our control. However, as   effective as any security measure implemented by us may be, no security system   is impenetrable. We cannot guarantee the security of our database, nor can we   guarantee that information you supply will not be intercepted while being   transmitted to us over the Internet. Questions regarding this Privacy Policy   should be directed to us at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">.<o:p></o:p></span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">Changing/deleting personal   information<o:p></o:p></span></b></p>  <p><span style="COLOR: black">If you would like to have your personally   identifiable information changed or removed from our database, please contact us   at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">, and we will use reasonable efforts to comply with your   request. Keep in mind, however, that there will be residual information that   will remain within our databases, access logs, and other records, which may or   may not contain such personally identifiable information. The residual   information will not be used for commercial purposes; however we reserve the   right, from time to time, to recontact former customers or users of this Web   site.<o:p></o:p></span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">Third-Party Ad Serving<o:p></o:p></span></b></p>  <p><span style="COLOR: black">We use third-party advertising companies to serve   ads when you visit our web site.<span style="mso-spacerun: yes">&nbsp;   </span>These companies may use information (not including your name, address or   telephone number) about your visits to this and other web sites in order to   provide advertisements about goods and services of interest to you.<span style="mso-spacerun: yes">&nbsp; </span>If you would like more information about   this practice and to know you choices about not having this information used by   these companies, please contact us at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">.</span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">Questions?<o:p></o:p></span></b></p>  <p><span style="COLOR: black">Questions regarding this Privacy Policy should be   directed to us at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">.</span></p></font>
@@ -680,7 +748,59 @@ IMG.video {
 <td width="1"> </td>
 </tr>
 </tbody></table>
+</td><!--COl 4-->
+<td width="130" valign="TOP" height="100%" id="col4" bgcolor="#0204B2">
+<table cellpadding="0" cellspacing="1" border="0" width="100%" height="100%" bgcolor="#2F4FFE"><!-- DISPLAY EMPLOYMENT CLASSIFIEDS SPONSORS -->
+<tbody><tr>
+<td valign="TOP" bgcolor="#0204B2" height="95%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td bgcolor="#0204B2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="#0204B2">
+<tbody><tr>
+<td><!--AD 120x600 National-->
+<center><iframe id="frm7" name="frm7" width="120" height="600" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language='JavaScript1.1' SRC='/Global/ad.asp?rnd=16585103273391&type=single&tg=News&src=wn&sz=120x600&callType=script'></SCRIPT></iframe></center>
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tbody><tr>
+<td valign="top" width="100%"><a href="/Global/link.asp?L=91112"><font class="a" style=" FONT-SIZE:10px; COLOR:#9CBCFC;"><b>Heart Disease</b></font></a><br><table cellpadding="0" cellspacing="3" border="0" align="LEFT" width="30">
+<tbody><tr><td><a href="/Global/link.asp?L=91112"><img hspace="0" vspace="0" border="0" src="http://static.worldnow.com/Cmedia/images/70808_G.jpg" width="30"></a></td></tr>
+</tbody></table>
+<font size="1" color="#FFFFFF">Recognize symptoms and reduce risk. </font><br></td>
+</tr>
+<tr>
+<td valign="top" width="100%"><a href="/Global/category.asp?C=39008"><font class="a" style=" FONT-SIZE:10px; COLOR:#9CBCFC;"><b>Test Your Health IQ</b></font></a><br><table cellpadding="0" cellspacing="3" border="0" align="LEFT" width="30">
+<tbody><tr><td><a href="/Global/category.asp?C=39008"><img hspace="0" vspace="0" border="0" src="http://static.worldnow.com/Cmedia/images/65154_G.gif" width="30"></a></td></tr>
+</tbody></table>
+<font size="1" color="#FFFFFF">Ideal body weight, cholesterol check, etc.</font><br></td>
+</tr>
+<tr>
+<td valign="top" width="100%"><a href="/Global/story.asp?S=722513"><font class="a" style=" FONT-SIZE:10px; COLOR:#9CBCFC;"><b>Home Repair Rip-offs</b></font></a><br><table cellpadding="0" cellspacing="3" border="0" align="LEFT" width="30">
+<tbody><tr><td><a href="/Global/story.asp?S=722513"><img hspace="0" vspace="0" border="0" src="http://static.worldnow.com/Revenue/images/72280_G.jpg" width="30"></a></td></tr>
+</tbody></table>
+<font size="1" color="#FFFFFF">Beware of common tactics.</font><br></td>
+</tr>
+<tr>
+<td valign="top" width="100%"><a href="/Global/story.asp?S=1102391"><font class="a" style=" FONT-SIZE:10px; COLOR:#9CBCFC;"><b>Interviewing Tips</b></font></a><br><table cellpadding="0" cellspacing="3" border="0" align="LEFT" width="30">
+<tbody><tr><td><a href="/Global/story.asp?S=1102391"><img hspace="0" vspace="0" border="0" src="http://static.worldnow.com/Revenue/images/64874_G.gif" width="30"></a></td></tr>
+</tbody></table>
+<font size="1" color="#FFFFFF">The art of small talk.</font><br></td>
+</tr>
+<tr>
+<td valign="top" width="100%"><a href="/Global/category.asp?C=38588"><font class="a" style=" FONT-SIZE:10px; COLOR:#9CBCFC;"><b>Sick of your job?</b></font></a><br><table cellpadding="0" cellspacing="3" border="0" align="LEFT" width="30">
+<tbody><tr><td><a href="/Global/category.asp?C=38588"><img hspace="0" vspace="0" border="0" src="http://static.worldnow.com/Revenue/images/68873_G.gif" width="30"></a></td></tr>
+</tbody></table>
+<font size="1" color="#FFFFFF">Find a new one now!</font><br></td>
+</tr>
+</tbody></table>
 </td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table><img width="130" height="1" border="0" src="/images/static/gfx/pxl_trans.gif"></td>
 </tr>
 </tbody></table>
 </td>
@@ -688,13 +808,13 @@ IMG.video {
 </tbody></table>
 <table cellpadding="0" cellspacing="0" border="0" width="760">
 <tbody><tr>
-<td bgcolor="#FFFFFF">
+<td bgcolor="#2F4FFE">
 <table cellpadding="1" cellspacing="1" border="0" bordercolor="#CC0000" width="100%">
 <tbody><tr>
 <td align="CENTER" valign="BOTTOM" bgcolor="#FFFFFF">
 <table border="0" align="CENTER" bordercolor="#FF0000" cellspacing="5" cellpadding="0">
-<tbody><tr><td><a href="http://www.worldnow.com" target="_blank"><img width="99" height="34" border="0" src="http://WISTV.static.worldnow.com/images/static/gfx/wn_powerby.gif"></a></td>
-<td><font style="FONT-SIZE:10px;COLOR:#000000;">All content © Copyright 2000 - 2002 WorldNow and WISTV. All Rights Reserved.<br>For more information on this site, please read our <a href="/global/story.asp?s=18990">Privacy Policy</a> and <a href="/global/story.asp?s=18991">Terms of Service</a>.</font></td>
+<tbody><tr><td><a href="http://www.worldnow.com" target="_blank"><img border="0" src="/images/static/gfx/wn_powerby.gif"></a></td>
+<td><font style=" FONT-SIZE:10px; COLOR:#000000;">All content © Copyright 2000 - 2003 WorldNow and WISTV. All Rights Reserved.<br>For more information on this site, please read our <a href="/global/story.asp?s=18990">Privacy Policy</a> and <a href="/global/story.asp?s=18991">Terms of Service</a>.</font></td>
 </tr>
 </tbody></table>
 </td>
@@ -703,9 +823,10 @@ IMG.video {
 </td>
 </tr>
 </tbody></table>
-<div style="position: absolute; left: 0; top: 0;"><iframe id="frm13" name="frm13" width="1" height="1" allowtransparency="true" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
-<div style="position: absolute; left: 0; top: 0;"><iframe id="frm14" name="frm14" width="1" height="1" allowtransparency="true" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
-<div style="position: absolute; left: 0; top: 0;"><iframe id="frm12" name="frm12" width="1" height="1" allowtransparency="true" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+<div style="position: absolute; left: 0; top: 0;"><iframe id="frm13" name="frm13" width="1" height="1" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+<div style="position: absolute; left: 0; top: 0;"><iframe id="frm12" name="frm12" width="1" height="1" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+<div style="position: absolute; top: 0px; left: 0px;"><iframe id="iframeads" name="iframeads" style="VISIBILITY: hidden" src="/global/ad.asp?type=core&amp;adtargwindow=Ad.TargetFrame.NewWin&amp;rnd=21954402923583&amp;sz1=banner&amp;tg1=News&amp;src1=wn&amp;frm1=frm1&amp;sz2=Bu120x60A&amp;tg2=News&amp;src2=aff&amp;frm2=frm2&amp;sz3=Bu120x60B&amp;tg3=News&amp;src3=aff&amp;frm3=frm3&amp;sz4=Bu120x60C&amp;tg4=News&amp;src4=aff&amp;frm4=frm4&amp;sz5=We120x15&amp;tg5=News&amp;src5=aff&amp;frm5=frm5&amp;sz6=SpH490x25&amp;tg6=News&amp;src6=aff&amp;frm6=frm6&amp;sz7=120x600&amp;tg7=News&amp;src7=wn&amp;frm7=frm7&amp;sz8=180x150&amp;tg8=News&amp;src8=aff&amp;frm8=frm8&amp;sz9=VB120x240A&amp;tg9=News&amp;src9=aff&amp;frm9=frm9&amp;sz10=VB120x240B&amp;tg10=News&amp;src10=wn&amp;frm10=frm10&amp;sz11=Poll88x31&amp;tg11=News&amp;src11=aff&amp;frm11=frm11&amp;sz12=RichMedia&amp;tg12=News&amp;src12=wn&amp;frm12=frm12&amp;sz13=Popup&amp;tg13=News&amp;src13=aff&amp;frm13=frm13" width="0" height="0"></iframe></div><script language="JavaScript" src="/global/tools/wn-sdc/wnsdc_tag.js"></script><noscript><IMG BORDER='0' NAME='DCSIMG' HEIGHT='1' WIDTH='1' SRC='http://wtnj.worldnow.com/njs.gif?dcsuri=/nojavascript&WT.js=No&S=18990&WT.sp=WISTV&dcssip=www.wistv.com&WT.cg_n=News&WT.ti=ThisStation’sPrivacyPolicy'></noscript>
 
 
+<!-- (GUhQ_G\GYH^}GRPEP@K@`K[B_K\CI;~/B1A.;5/7E3F8;4/?X~~@`K[B_K\CI~bA]C_CO@U_wut::URPLRTBI~~NLIT}GUTPaGa}GPPKP@)u%0)g!v(,nq|::PPKP@KJZEPJjCSB]@@1?~~JZEPJjCSB]@K-^GaTPTM::UhQ_G\GYH^} -->
 </body></html>
