@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundcircuit.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208164343id_/http%3A//www.soundcircuit.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcircuit.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605214423id_/http%3A//soundcircuit.com/about/privacy.php) for the most accurate reproduction.*
 
 # SoundCircuit.com: About Us: Privacy Statement
 
@@ -22,10 +22,10 @@ SoundCircuit.com values your privacy. To keep you informed, we've created this p
 * We use your IP address to help diagnose problems with our server and to administer our forum. Your computer's IP address will not be visible to the regular users of the site.   
 **Cookies**  
 * Cookies are pieces of information that a site transfers to your hard disk for record-keeping. Cookies can make the Web more useful by storing information about your preferences on a particular site. 
-* Certain activities on the Circuit Board involve the use of "cookies" to facilitate your experience. This includes retention of your username and password for, and showing a default Topic View. You have the option to turn these cookies off at any time by updating your user profile preferences. If your browser doesn’t support cookies, or if you have cookies turned off, these preferences will not be set.   
+* Certain activities on the Circuit Board involve the use of "cookies" to facilitate your experience. This includes retention of your username and password for, and showing a default Topic View. You have the option to turn these cookies off at any time by updating your user profile preferences. If your browser doesn�t support cookies, or if you have cookies turned off, these preferences will not be set.   
 **Disclosure of Personal Information**  
 * SoundCircuit.com does not disclose your personally identifying information to any third parties for any purpose. All reasonable care is taken to ensure its security both offline and online. It is our policy to destroy server access to personal information provided. 
-* **Important:** It’s also important to be aware that when you voluntarily provide personal information (e.g., last name, address, phone number, or picture) in a post on the forum, or privately to a member of the forum, that information is publicly available and may be used by someone in a manner unintended by you. For that reason, we discourage the offering of any personally identifying information within the message board itself, and to members via chat, instant message, e-mails, etc.   
+* **Important:** It�s also important to be aware that when you voluntarily provide personal information (e.g., last name, address, phone number, or picture) in a post on the forum, or privately to a member of the forum, that information is publicly available and may be used by someone in a manner unintended by you. For that reason, we discourage the offering of any personally identifying information within the message board itself, and to members via chat, instant message, e-mails, etc.   
 **Changing or Updating Personal Information**  
 * If you would like to update your profile on SoundCircuit.com, just click [**Edit Profile**](https://web.archive.org/cboard/usercp.php) at any time, and modify your information.   
 **Advertisers**  
