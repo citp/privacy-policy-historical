@@ -1,10 +1,40 @@
-<!--The following is the downloaded HTML source of the bioware.com privacy policy that was archived on 2003-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621111710id_/http%3A//www.bioware.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bioware.com privacy policy that was archived on 2003-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207052107id_/http%3A//www.bioware.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <!-- start meta-tag include --><!-- end meta-tag include -->
 <!-- start head include --><title>BioWare: Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script language="JavaScript">
+
+//-----------------------------------------------------------------------------
+// Login form focus
+//-----------------------------------------------------------------------------
+
+//set the cursor to focus on the community login form
+// NOTE: focusOnLoad must be declared and set in header.inc, 
+//           or else this function does nothing
+
+//set focusOnLoad globally to avoid errors if it isn't defined in the page
+if ( typeof(focusOnLoad) == "undefined" ) {
+  var focusOnLoad = "";
+} 
+
+function setCommLoginFocus() 
+{
+    if ( focusOnLoad == "password" ) 
+    {
+      document.community_login.password.focus();    
+    }
+    else if ( focusOnLoad == "username" ) 
+    {
+      document.community_login.username.focus();        
+    }
+
+}
+
+  window.onload = setCommLoginFocus;
+</script>
 <script language="JavaScript" type="text/javascript">
 <!--
 
@@ -126,7 +156,7 @@ popDown = HM_f_PopDown;
 		    <td><a href="/bioware_info/"><img border="0" src="/_global/images/sidenav/header_bioware_info.gif" width="152" height="96" alt="BioWare Info"></a></td>
 		  </tr>
 		  <tr>
-		    <td><img border="0" src="/_global/images/sidenav/sideimage_22.jpg" width="152" height="190" alt=""></td>
+		    <td><img border="0" src="/_global/images/sidenav/sideimage_16.jpg" width="152" height="190" alt=""></td>
 		  </tr>
 		</tbody></table>	<!-- end left content cell -->	
 <!-- start body3 include -->	</td>
@@ -244,15 +274,25 @@ information, please email us at <a href="mailto:privacy@bioware.com">privacy@bio
     <td valign="top"><!-- end body4 include --> 	
 	<!-- start right content cell -->	
 	<table cellspacing="0" cellpadding="0" border="0" width="85">
-	
 	<tbody><tr>
-	    <td><a href="http://www.fast500.com/" target="_blank"><img src="/_global/images/content/rightsidebar/award_2002fast500.jpg" width="85" height="148" alt="2002 Deloitte &amp; Touche Fast 500 Winner" border="0"></a></td>
+	    <td><a href="http://go.bioware.com/?linkgo=1&amp;linkID=719" onmouseover="window.status='http://www.bioware.com/games/knights_old_republic/'; return true;" onmouseout="window.status=''; return true;"><img src="http://go.bioware.com/badges/kotorpc_count/kotorpcgold_small_onwww.jpg" width="85" height="122" alt="Star Wars: Knights of the Old Republic PC in stores now!" border="0" style="margin-top:5px"></a></td>
 	</tr>
+	<tr>
+		<td class="framecell"><img border="0" src="/_global/images/spacers/transparent_1x1.gif" width="4" height="1" alt=""></td>
+	</tr>  
+	<tr>
+	    <td>
+      <a href="http://go.bioware.com/?linkgo=1&amp;linkID=806" onmouseover="window.status='http://nwn.bioware.com/underdark/'; return true;" onmouseout="window.status=''; return true;"><img src="http://go.bioware.com/badges/hotu_count/hotucount_small_onwww.jpg" width="85" height="122" alt="Hordes of the Underdark In Stores Dec 2!" border="0"></a>
+      </td>
+	</tr> 
 	<tr>
 		<td class="framecell"><img border="0" src="/_global/images/spacers/transparent_1x1.gif" width="4" height="1" alt=""></td>
 	</tr>
 	<tr>
-	    <td><a href="/bioware_info/news/2002_01_03_venture/"><img src="/_global/images/content/rightsidebar/award_albertaventure.jpg" width="85" height="148" alt="BioWare Corp is Alberta’s #1 Fastest Growing Company!" border="0"></a></td>
+	    <td><a href="/bioware_info/jobs/"><img src="/_global/images/content/rightsidebar/jobs3.jpg" width="85" height="123" alt="Jobs at BioWare!" border="0"></a></td>
+	</tr>
+	<tr>
+		<td class="framecell"><img border="0" src="/_global/images/spacers/transparent_1x1.gif" width="4" height="1" alt=""></td>
 	</tr>
 </tbody></table>		
 	<!-- end right content cell -->		
@@ -270,6 +310,7 @@ information, please email us at <a href="mailto:privacy@bioware.com">privacy@bio
   <tbody><tr>
     <td align="center" class="gamefootercell">
 	<p class="legaltext">
+  <a href="/bioware_info/jobs/">Jobs</a> | 
 	<a href="/legal/copyright.html">Copyright and Trademark Information</a> |
 	<a href="/legal/use.html">Website Terms of Use Agreement</a> |
 	<a href="/legal/privacy.html">Privacy Policy</a></p></td>
