@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamlandjewelry.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611031152id_/http%3A//www.dreamlandjewelry.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamlandjewelry.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214131108id_/http%3A//www.dreamlandjewelry.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
