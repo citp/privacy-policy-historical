@@ -1,82 +1,91 @@
-> *The following text is extracted and transformed from the mlb.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214203500id_/http%3A//www.mlb.com/u/baseball/mlbcom/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlb.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215123939id_/http%3A//www.mlb.com/NASApp/mlb/mlb/help/mlb_help_about_privacy.jsp) for the most accurate reproduction.*
 
-# Website Privacy Statement - The Official Site of Major League Baseball
+# MLB.com Help
 
-**Website Privacy Statement**
+  
+Privacy Statement
 
-1\. What information is tracked and gathered on the Website?  
-2\. How is the collected information used?  
-3\. What kind of security is in place?  
-4\. How do I change or remove my account?
+MLB Advanced Media, L.P. is the organization that produces the Official Website of Major League Baseball (the "Website"). We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website. 
 
-This privacy statement (the "Statement") discloses the privacy practices of the Official Site of Major League Baseball (the "Website"), which is owned by Major League Baseball Enterprises, Inc. ("MLBE") and operated in association with SportsLine.com, Inc. ("SPLN"). 
+General
 
-SportsLine.com is responsible for all information collected and transactions performed on the Website. Please review the [SportsLine.com Privacy Statement.](https://web.archive.org/u/userservices/privacy.htm)
+You can visit and enjoy our Website without disclosing any personal information about yourself. However, we offer some special services, and for these services to work properly we will need you to share with us certain personal information about yourself. If you submit any personal information to us, you can be assured that we will not sell, lease, or share your personal information to anyone else, except as follows: (1) to our third party service providers, and only so that they may help us provide the services you've requested; (2) to one or more Major League Baseball Clubs, to the extent that you've submitted information that relates specifically to them (e.g., you've asked to receive the newsletter of one of more Clubs via email; or you've purchased Club-specific merchandise from the store), so that they may learn more about fans like you, and provide better services to you; and (3) on occasion, we may offer a special promotion (such as a sweepstakes, contest, fantasy baseball or a free subscription to goods and services) on the Website in conjunction with a sponsor or promotional partner, and share your information with that sponsor or promotional partner so that it can send you other special promotions it offers, but only if you give us permission to do so. 
 
-The Statement answers the following questions below:
+_Special Offers and Promotions_. With your permission, we may also send you e-mails with special offers and promotions. If you don't want to receive these, you may change your [preferences.](https://web.archive.org/nasapp/mlb/mlb/account/mlb_account_preference.jsp)
 
-1\. What information is tracked and gathered on the Website?  
-2\. How is the information used?  
-3\. What kind of security is in place?  
-4\. How do I change or remove my account?
+_Cookies_. To help us serve you better, we collect information that does not identify you personally, but rather identifies your computer or browser. This is done by using little files called "cookies" and by tracking IP addresses. A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a Website's computers and stored on your computer's hard drive. Cookies operate in the background, and you can turn them off if you wish, but doing so may impair your ability to use some of the features on our Website. We may use cookies to make our Website work better by, for example, keeping track of your login name, password and, if you want to buy things while on our Website, your "shopping cart." 
 
- **1\. What information is tracked and gathered on the Website?**
+We may also allow other companies that are presenting advertisements or providing services on our pages to set and access cookies on your computer. Those companies' use of cookies will be covered by their own privacy policies, not ours. 
 
- **Interactive Activities**
+Specifically, we use a third-party advertising company to serve ads when you visit our Website. This company may use aggregated information (not including your name, address, email address or telephone number) about your visits to our Website in order to provide advertisements about goods and services of interest to you. If you would like more information about the information collection practices of this third-party advertising company, [click here](http://www.doubleclick.net/us/corporate/privacy). 
 
-Website users who participate in interactive activities (e.g., votes, contest entries, fantasy baseball, store purchases, etc.) on the Website may be asked to submit certain personal information, which may include the user's name, address, e-mail address, telephone number and/or credit card information. This information may be used as follows: for internal purposes; to contact users for customer service reasons; by merchants to bill users for products and services and fulfill orders; to contact users when necessary for contest winner notification and prize delivery confirmation; and to send users information about the Website and promotional materials from MLBE, SPLN and/or their respective partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers, such as ID and passwords, may be collected to verify a user's identity and for use as account numbers in the Website record system. 
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to accept or reject cookies. If you set your browser not to accept cookies, you may not be able to take advantage of certain services on our Website. 
 
-**Children Under The Age Of 13**
+We may also use IP addresses to analyze trends, help us administer the Website, track the movement of visitors, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
-We do not currently collect any personally identifiable information from children under the age of thirteen. Under certain circumstances, visitors may be asked to submit a screen name as a means of identifying communications to the Website. Children of any age should always ask aparent for permission before sending personal information to anyone online. If, in the future, the Website collects personally identifiable information from children under the age of thirteen, it will be done incompliance with the Children's Online Privacy Protection Act of 1998 (15U.S.C. § 6501 et seq.)
+_Aggregated Demographic Information_. We may share aggregated demographic information with third parties, but this information is not linked to any personal information that can identify you or another individual person. Therefore, no personal information is disclosed in this manner. 
 
- **IP Address**
+_Business Transfers_. As time passes, MLB Advanced Media, L.P. may be sold along with its assets, or other transactions may occur in which customer information is one of the business assets transferred. In such a case, the customer information which we have gathered may be one of the business assets we transfer. 
 
-SPLN uses your IP address to help diagnose problems with its servers, and to administer the Website. Your IP address is also used to help identify you and your shopping cart within the Official Store of Major League Baseball. 
+_Disclosure for Legal Purposes_. The law requires that we may be required to share your personal information and non-personal information (see "Cookies" section above for examples of non-personal information) pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use and disclose share your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Website's Terms of Use, or as otherwise required by law.
 
-**Cookies**
+Our Security Practices 
 
-A cookie is a small data file that certain websites, including this Website, write to your hard drive when you visit them. A cookie file can contain information such as a user ID that a website uses to track the pages you have visited. The only personal information a cookie can contain is information you supply yourself. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning website. A cookie cannot read data off your hard disk or read cookie files created by other websites. SPLN uses cookies in connection with the Website for the following purposes: to keep track of "how many" times customers are doing specific things - like visiting the Website each month - without really knowing who those customers are; to keep track of your shopping cart; to make sure you do not see the same ad repeatedly; to deliver content specific to your interests; and to save your ID and password so you do not have to re-enter it repeatedly during a session. Users should be aware that neither MLBE nor SPLN can control the use of cookies or the resulting information by advertisers or third parties hosting data on the Website. 
+Your [preferences](https://web.archive.org/nasapp/mlb/mlb/account/mlb_account_preference.jsp) are password protected for your privacy and security. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
 
-If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available on the Website.
+How You Can Review Your Personal Information
 
-**Contests**
+If you want to review your personal information, you can revise your preferences. Your preferences include your shipping, payment, credit card and account information, as well as whether you want to receive communications from us. 
 
-The majority of contests offered on the Website are also hosted from it; however, there may be cases in which a third party sponsor will host a contest and collect user information. In those cases, MLBE and SPLN will have no responsibility or liability for such contests or their corresponding collection of user information, and users should review the privacy statement of the governing third party website. 
+If you want to close your account with us and have us delete the personal information in it, you should contact our Privacy Administrator.
 
-**2\. How is the collected information used?**
+Choice
 
-All information collected, both what you disclose and what is collected through the use of cookies, is "aggregated" -- meaning that the information from many users is grouped together in a way that does not disclose the personal information of any particular user. MLBE, SPLN and/or their respective partners may use this aggregated information to evaluate the success of various products and in order to evaluate which new services should be made available on the Website. Only anonymous click stream data will be utilized to help advertisers deliver better targeted advertisements. In addition, information collected may be used as follows: for internal purposes; to contact users for customer service reasons; by merchants to bill users for products and services and fulfill orders; to contact users when necessary for contest winner notification and prize delivery confirmation; and to send users information about the Website and promotional materials from MLBE, SPLN and/or their respective partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Our registration and order forms contain a box for you to indicate whether or not you consent to receive special offers and promotions from us. Unless you give us your consent to use your personal information for these purposes, we and our partners will only use it to complete the transaction or provide the service or product you have requested. If you check a box indicating that you consent to receive communications or solicitations, but you later change your mind, you can revise your [preferences](https://web.archive.org/nasapp/mlb/mlb/account/mlb_account_preference.jsp).
 
- **3\. What kind of security is in place?**
+Links
 
-The Website contains links to partners, advertisers and third party Internet websites and services which may collect data in connection with contests, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of MLBE and SPLN. Therefore, MLBE and SPLN have no responsibility or liability for these independent policies or actions and are not responsible for the privacy practices or the content of such websites. 
+Our Website contains links to other sites produced by MLB Advanced Media, L.P. and websites operated by unrelated third parties. Please note that we are not responsible for the privacy practices of third party websites. We encourage you to be aware of this when your leave our Website and to read the privacy policies of every website that collects personally identifiable information from you. The Privacy Policy applies only to this Website. 
 
-Please keep in mind that whenever you voluntarily and publicly disclose personal information on any online service or website - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Furthermore, while MLBE and SPLN strive to protect your personal information, neither MLBE nor SPLN can ensure or warrant the security of any information you transmit in connection with the Website, and you do so at your own risk. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
+Special Rules For Children
 
-**Security**
+Because of federal law, we cannot collect any personal information from a child under the age of thirteen without the consent of that child's parent. The statements in our Privacy Policy generally about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen, with the added protection of the special rules that follow. 
 
-SPLN utilizes a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind a "firewall" and is only accessible by a limited number of employees who have special access rights to production systems. Passwords and credit card numbers are encrypted in SPLN's secure database which is also located behind a firewall. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in SPLN's databases as stated above. Because password and credit card information has been encrypted, it is completely invisible to any employee who accesses it, including our customer service team. If a Website user wishes to change his or her password, a customer service representative will reset to a new one after the member has properly identified him/herself. SPLN's technology department conducts frequent site security audits and employs a third party audit company to perform additional site security audits. Every SPLN employee is required to sign a policy which clearly outlines the company's policy with respect to security and defines the action the company will take with any employee who breaches the policy. 
+> Parental Consent 
+> 
+> If a child under the age of thirteen attempts to complete any registration form on our Website a screen will appear that says "Get Your Mom or Dad." We will then instruct the child to have a parent complete the registration form, either in person or by e-mail. We will provide the parent with a notice describing our Privacy Policy and will ask for the parent's consent to our collection and use of personal information from or about their child. The parent will also be asked to submit a credit card number (the card will not be charged) for verification purposes only. 
+> 
+> If the registration form is not completed with a credit card number to verify parental consent, the child will not be able to access those of our activities requiring registration and we will not collect any personal information from that child. Failure to complete the registration form will also prevent the child from entering chat rooms or otherwise making personal information available to the public on our Website. A child's parent has the option to consent to the collection and use of their child's personal information without consenting to the disclosure of that information to third parties, but if such disclosure is necessary to make available a service which has been requested, then the child will not have access to such service. 
+> 
+> Information Collected 
+> 
+> Depending on the special service requested, personal information collected may include a name, email address, address or age of a child. We will not condition a child's participation in any activity on our Website, such as fantasy baseball, on the child's disclosing more information than is reasonably necessary to participate in that activity. 
+> 
+> A parent can review his or her child's personal information by accessing the child's preferences. A parent can instruct us to delete the child's personal information or to stop collecting or using the child's personal information by contacting our Privacy Administrator. 
+> 
+> Information Use 
+> 
+> We may use the personal information to provide the child with the special services for which he or she has registered, as well as for fulfilling a requested transaction, record keeping, marketing back to the child or making it publicly available through a chat room. (Please note that when anyone, including a child, uses a message board or chat room on our Website, the communications are publicly available to the other participants.) 
+> 
+> Information Disclosure 
+> 
+> After obtaining the consent of the child's parent, we, our service providers, and one or more Clubs (to the extent that any information disclosed is specific to them), will maintain the confidentiality, security, and integrity of the personal information collected about the child. A child's information will only be disclosed to our third party service providers and the applicable Club(s) as described in this Privacy Policy. The following are third party service providers of our services which may collect or maintain personal information from children under 13 on our behalf: Synacor, Inc. (vanity e-mail); Prospero, Inc. (message boards); and Allstar Stats, Inc. (fantasy baseball). They can't use your child's personal information without your consent for any purpose other than the service you've requested on behalf of your child. 
 
-**4\. How do I change or remove my account?**
+Contact Us
 
-Website users have the following options for removing their information from the Website database, to not receive future communications and/or to no longer receive its services:
+If you have questions or concerns about this Privacy Policy, you can contact us at: 
 
-* You can send email to mlbprivacy@sportsline.com
-* You can call the following telephone number 1-800-694-9444 
+> MLB Advanced Media, L.P.  
+>  Privacy Administrator  
+>  75 Ninth Avenue  
+>  New York, New York 10011  
+>  Phone: (212) 485-3788  
+>  Fax: (212) 485-8111
 
-**Change/Modify**
+Or send an e-mail to [privacy@website.mlb.com](mailto:privacy@website.mlb.com). 
 
-Website users may change or modify information previously provided as follows: 
+If we decide to make an important change to our Privacy Policy, we will post a notification and link on our homepage so that you can review the updated policy. 
 
-* Call the following telephone number: 1-800-771-4616
+If at any point we wish to use your personal information in a manner different from that stated at the time it was collected, we will notify you by means of an e-mail and give you the opportunity to indicate whether you consent to the proposed use.
 
- **Contacting the Website**
-
-If you have any questions about this Website, please send them to [feedback@majorleaguebaseball.com](mailto:feedback@majorleaguebaseball.com). If you have questions about this Statement, the practices of SPLN, or your dealings with this Web site, you send email to [mlbprivacy@sportsline.com](mailto:mlbprivacy@sportsline.com) or write to: 
-
-Customer Service  
-SportsLine.com, Inc.  
-Attn: Majorleaguebaseball.com Privacy Statement  
-PO Box 101027  
-Fort Lauderdale, FL 33310
+LAST UPDATED: September 5, 2002
