@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205144id_/http%3A//igindex.co.uk/content/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205085018id_/http%3A//www.igindex.co.uk/content/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Index - Privacy Notice
 
-**Your privacy is important to  us  
-**Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others. It applies to all organisations in the IG group of companies.
+**Your privacy is important to us  
+** Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others. It applies to all organisations in the IG group of companies.
 
 It is our policy to respect the confidentiality of information and the privacy of individuals. We are bound by the Data Protection Principles contained in the Data Protection Act 1998.
 
@@ -38,7 +38,7 @@ Depending on the product or service concerned and particular restrictions on sen
 Generally, we require that organisations outside our group of companies who handle or obtain personal information as service providers acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with the Data Protection Principles and this policy.
 
  **Management of personal information  
-** We train our employees who handle personal information to respect the confidentiality of customer information and the privacy of individuals. We regard breaches of your privacy very seriously and will impose appropriate penalties, including dismissal.
+** We train our employees who handle personal information to respect the confidentiality of customer information and the privacy of individuals. We regard breaches of your privacy very seriously and will impose appropriate penalties, including dismissal.
 
 We have an appointed Privacy Officer to ensure that our management of personal information is in accordance with this statement and the Privacy Act.
 
@@ -48,10 +48,9 @@ We have an appointed Privacy Officer to ensure that our management of personal i
 We may need to maintain records for a significant period of time. However, when we consider information is no longer needed, we will remove any details that will identify you or we will securely destroy the records.
 
  **How do we keep personal information accurate and up-to-date?**  
-We endeavour to ensure that the personal information we hold is accurate and up-to-date. We realise that this information changes frequently with changes of address and other personal circumstances. We can generally update your customer information over the telephone.
+We endeavour to ensure that the personal information we hold is accurate and up-to-date. We realise that this information changes frequently with changes of address and other personal circumstances. We can generally update your customer information over the telephone.
 
-#### You have the right to check what personal information about you is held by us
-
+ **You have the right to check what personal information about you is held by us**  
 Under the Data Protection Act, you have the right to obtain a copy of any personal information which we hold about you and to advise us of any perceived inaccuracy. The Act does set out some exceptions to this.
 
 To make a request, please write to us, verifying your identity and specifying what information you require.
@@ -83,12 +82,12 @@ We may collect personal information you enter when using our website.
  **What is a cookie and how do we use cookies?  
 ** Cookies are small pieces of text stored on your computer to help us determine the type of browser and settings you are using, where you have been on the website, when you return to the website, where you came from, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience on this website, including presenting web pages according to your needs or preferences.
 
-We may also use independent external service providers to track the traffic and usage on the website.
+We may also use independent external service providers to track the traffic and usage on the website.
 
-Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of this site if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
+Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of this site if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
 
- **Technology improvements    
-**We are constantly striving to improve functionality on this site through technology changes. This may mean a change to the way in which personal information is collected or used. The impact of any technology changes which may affect your privacy, will be notified in this Supplement at the time of the change.
+ **Technology improvements  
+** We are constantly striving to improve functionality on this site through technology changes. This may mean a change to the way in which personal information is collected or used. The impact of any technology changes which may affect your privacy, will be notified in this Supplement at the time of the change.
 
  **Links to third party websites**  
 This website may have links to external third party websites that may benefit the user. Please note, however, that third party websites are not covered by our privacy policy and these sites are not subject to our privacy standards and procedures. 
