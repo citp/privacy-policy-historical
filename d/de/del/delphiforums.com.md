@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620094814id_/http%3A//www.delphi.com/dir-html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217033100id_/http%3A//www.delphi.com/dir-html/privacy.html) for the most accurate reproduction.*
 
-# Delphi.com - Privacy Policy
+# Delphi.com: Privacy Policy
 
 **Registration**  
 Some basic personal information is required in order to register with Delphi.com: 
@@ -25,7 +25,7 @@ The above describes information that is provided "actively" - meaning, you choos
 A cookie is a small text file that many Web sites write through your browser when you visit them. A cookie can only be read by the site that places it, so Delphi.com can't "see where you've been" based on any other cookies in your browser. Netscape Navigator uses a single file called "cookies.txt" to record all cookies, and you can open this file in any text editor to see what it looks like. On a Macintosh computer, the Netscape cookie file is called "MagicCookie". Internet Explorer uses a separate file for each cookie, which typically reside in "C:\Windows\Profiles\User\Cookies." Much controversy and myth has been spread about cookies, specifically that cookies "read or write information on your computer's hard drive, and are therefore evil", or "cookies can find out where I live and what my email address is." To learn the truth about cookies, and to help to dispel this misinformation, please visit: 
 
 Netscape: [Client Side State - HTTP Cookies](http://home.netscape.com/newsref/std/cookie_spec.html)  
-Delphi.com: [Interactive Glossary of Internet Terms](http://www.delphi.com/navnet/glossary/c.html#cookie)
+Delphi.com: [Interactive Glossary of Internet Terms](http://www0.delphi.com/navnet/glossary/c.html#cookie)
 
 Cookies are generally supported in version 3.0 and newer of Internet Explorer, 2.02 and newer of Netscape, and 3.0 and newer of AOL. Most browsers also allow the option of displaying a warning before accepting a cookie, or refusing all cookies. Declining cookies while participating in forums may result in some of features not working properly.   
   
