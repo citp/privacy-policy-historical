@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204093308id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404034654id_/http%3A//tbotech.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -19,3 +19,5 @@ With respect to security: We always use industry-standard encryption technologie
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
 If you feel that this site is not following its stated privacy policy, you may contact us at the above address or phone number. 
+
+Be assured that your shopping experience is completely safe. The order site is secured using a Thawte SSL Web Server Certificate which encrypts all data to and from the site. However, if you prefer to mail or fax in your order, select the off-line option when checking out.
