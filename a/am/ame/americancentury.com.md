@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the americancentury.com privacy policy that was archived on 2004-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040203234824id_/http%3A//www.americancentury.com/welcome/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americancentury.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205124251id_/http%3A//www.americancentury.com/welcome/privacy.jsp) for the most accurate reproduction.*
 
 # American Century | Privacy & Security
 
 Privacy & Security   
 It's a Matter of Privacy — Yours   
-Trust is the foundation of any important relationship. At American Century, trust takes on even greater importance. After all, when you entrust your money to our care, you also entrust us with your goals, plans and perhaps even your dreams for your financial future. We take that responsibility seriously. We work hard to do the right thing – by striving to provide solid value, excellent investment management and the best service possible. We apply that same integrity to protecting your privacy. 
+Trust is the foundation of any relationship. At American Century, trust takes on even greater importance. After all, when you entrust your money to our care, you also entrust us with your goals, plans and perhaps even your dreams for your financial future. We take that responsibility seriously. We work hard to do the right thing – by striving to provide solid value, excellent investment management and the best service possible. We apply that same integrity to protecting your privacy. 
 
   * We do not sell your personal information to anyone.
-  * Because we limit our use of your personal information, there is no opportunity to opt out of third party sharing.
-  * The service providers with whom we do share personal information are not authorized to use it for any purpose other than to assist American Century.
+  * Because we limit our use of your personal information, there is no opportunity for you to opt out of third party sharing.
+  * The service providers with whom we share personal information are not authorized to use it for any purpose other than to assist American Century.
 
   
   
@@ -21,6 +21,7 @@ Our Privacy and Security Policy is divided into the following sections:
   * Our Use of Cookies and Clear Gifs 
   * Secure Online Account Access
   * Web Browser Requirements
+  * Contacting American Century
   * Notification of Changes
 
   
@@ -28,9 +29,9 @@ What Types of Information Do We Collect? | back to top
    
 The information we collect about you generally falls into one of the following categories. 
 
-  * Information, such as your name, address, Social Security number, phone number, bank information, income, net worth and investment profile, which you provide in account applications and other forms and requests you submit to us. 
+  * Information, such as your address, Social Security number, phone number, bank information, income, net worth and investment profile, which you may provide in account applications and other forms you submit to us. 
   * Account information, such as your fund choices, account balances and transaction history. 
-  * Information about you, such as age, gender and marital status, that consumer reporting agencies and other organizations may provide to us. 
+  * Personal information about you, such as age, gender and marital status, that consumer reporting agencies and other organizations may provide to us. 
   * Information relating to your use of our Web site, such as your User Name, Password, failed attempts to log in and the last time you logged in.
 
 
@@ -39,18 +40,9 @@ Also, when you conduct business with American Century online, you may notice our
   
 How Do We Use the Information We Collect? | back to top  
    
-We use the information we collect primarily to: 
+We use the information we collect primarily to maintain your accounts and process your transactions. In doing so, we may share this information with other financial service companies in the American Century corporate family, such as the funds' transfer agent, distributor and investment advisor. We also may share this information with outside companies that we hire to perform administrative services on our behalf. 
 
-  * Process your transactions and maintain your accounts 
-  * Provide products and services you request
-  * Develop new products which meet additional needs you may have
-  * Reply by email to your emailed questions
-  * Improve customer service
-  * Comply with legal and regulatory requirements
-
-
-
-In doing so, we may share this information with other financial service companies in the American Century corporate family, such as the funds' transfer agent and investment adviser. We also may share this information with companies outside American Century that we hire to perform administrative services on our behalf. Examples include transaction processing and servicing organizations that administer transactions you request or authorize, and print and mail service providers that assist us in distributing investor materials, such as transaction confirmations, annual reports, prospectuses and tax forms. We also may share this information with others under certain limited circumstances permitted by law, such as to resolve a dispute or prevent fraud. When required by law, we may need to disclose personal information where such action is deemed necessary to comply with a current judicial proceeding, court order or legal process served on americancentury.com.  
+Examples include transaction processing and servicing organizations, including our clearing broker, that administer transactions you request or authorize, and print and mail service providers that assist us in distributing materials such as transaction confirmations, annual reports, prospectuses and tax forms. We also may share this information with others under certain limited circumstances permitted by law, such as to resolve a dispute or prevent fraud. When required by law, we may need to disclose personal information where such action is deemed necessary to comply with a current judicial proceeding, court order or legal process served on americancentury.com.   
   
 Do We Use This Information for Marketing? | back to top  
    
@@ -72,16 +64,16 @@ or Saturday, 9 a.m. to 2 p.m. Central time
   
 How Do We Protect Your Information? | back to top  
    
-We treat all personal information we collect as confidential information offered to us solely and exclusively so that we may provide investment management products and services for your benefit. 
+We treat all personal information we collect as confidential information offered to us solely and exclusively so that we may provide financial products and services for your benefit. 
 
-We do not sell the personal information we collect. The non-American Century service providers with whom we do share personal information are not authorized to use or share for any purpose other than to assist American Century.
+We do not sell the personal information we collect. The non-American Century service providers with whom we do share personal information are not authorized to use or share it for any purpose other than to assist American Century.
 
-Our policies only allow certain individuals to have access to your personal information — those who must have it to service your account. We maintain physical, electronic and procedural safeguards to protect this information. We treat information about our former customers with the same care we take with our current customers' information.  
+Our policies allow certain individuals to have access to your personal information — those who must have it to service your account. We maintain physical, electronic and procedural safeguards to protect this information. We treat information about our former investors with the same care we take with our current investor's information.  
   
    
    
   
-Americancentury.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site of [www.americancentury.com](http://www.americancentury.com/). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Americancentury.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site of [www.americancentury.com](https://web.archive.org/index.jsp). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If users have questions or concerns regarding this statement they should first contact an Investor Relations Representative through our various [Contact Us](https://web.archive.org/contact/index.jsp) options. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Resolution Process. TRUSTe will serve as a liaison with the Web site to resolve user concerns.   
   
@@ -95,8 +87,8 @@ A cookie is a small piece of alphanumeric information placed on your computer by
 What types of cookies do Web sites put on my computer?   
 
 
-  * Temporary - Cookies that are stored on your computer only during your browsing session, and are automatically deleted from your computer when you close your browser. No information is collected from your computer. 
-  * Persistent - Cookies that are stored on your computer and are not deleted when you close your browser. Permanent cookies retain your preferences for a particular Web site, allowing those preferences to remain for future browsing sessions. No information is collected from your computer.
+  * Temporary – Cookies that are stored on your computer only during your browsing session, and are automatically deleted from your computer when you close your browser. No information is collected from your computer. 
+  * Persistent – Cookies that are stored on your computer and are not deleted when you close your browser. Permanent cookies retain your preferences for a particular Web site, allowing those preferences to remain for future browsing sessions. No information is collected from your computer.
 
 
 
@@ -106,13 +98,15 @@ We use cookies to facilitate your use of our Web site. These cookies do not coll
    
 |   
 ---  
-|  | Where a Cookie is Used |  |  |  | Cookie Type |  |  |  | Description |  |   
-|  | All Secure Pages |  |  |  | Temporary |  |  |  | American Century and Pershing, our clearing agent for brokerage customers, use temporary cookies on all secure pages. These cookies store a session ID that is not personally identifiable to you, allowing you to move from page to page without having to log in repeatedly. |  |   
-|  | All Pages |  |  |  | Persistent |  |  |  | This cookie analyzes online behavior within our Web site and provides information to help build a better site for our customers. It also provides information about areas of the site where customers are having difficulty completing a function, thus allowing us to improve the site. |  |   
-|  | All Secure Pages within Rollover Advisor |  |  |  | Temporary |  |  |  | Financial Engines Advisors, L.L.C., engaged by American Century to provide investment services, uses a cookie to provide a secure session while using their online tool. This cookie stores a session ID on your PC that is not personally identifiable to you. |  |   
-|  | [Investment Professionals](https://web.archive.org/ipro/index.jsp) |  |  |  | Persistent |  |  |  | This cookie allows investment professionals the ability to subsequently log in to this part of our site without using a User Name and Password. |  |   
-|  | [Brokerage Model Portfolio](https://web.archive.org/workshop/model_portfolio.jsp) |  |  |  | Persistent |  |  |  | This cookie is set by Pershing to collect browser information for use with their Model Portfolio service. It allows you to access your Model Portfolio during subsequent visits. |  |   
-|  | [Home Page](https://web.archive.org/index.jsp) |  |  |  | Persistent |  |  |  | This cookie is set by American Century and allows customers to bypass the corporate homepage when they indicate a preference for a section of the site they would like to view on future visits. |  |   
+| Where a Cookie is Used | Cookie Type | Description  
+---|---|---  
+All Secure Pages | Temporary | American Century and Pershing, our clearing agent for brokerage customers, use temporary cookies on all secure pages. These cookies store a session ID that is not personally identifiable to you, allowing you to move from page to page without having to log in repeatedly.  
+All Pages | Persistent | This cookie analyzes online behavior within our Web site and provides information to help build a better site for our customers. It also provides information about areas of the site where customers are having difficulty completing a function, thus allowing us to improve the site.  
+All Secure Pages within Rollover Advisor | Temporary | Financial Engines Advisors, L.L.C., engaged by American Century to provide investment services, uses a cookie to provide a secure session while using their online tool. This cookie stores a session ID on your PC that is not personally identifiable to you.  
+[Investment Professionals](https://web.archive.org/ipro/index.jsp) | Persistent | This cookie allows investment professionals the ability to subsequently log in to this part of our site without using a User Name and Password.  
+[Brokerage Model Portfolio](https://web.archive.org/workshop/model_portfolio.jsp) | Persistent | This cookie is set by Pershing to collect browser information for use with their Model Portfolio service. It allows you to access your Model Portfolio during subsequent visits.  
+[Investment Professionals](https://web.archive.org/ipro/index.jsp) | Persistent | This cookie allows investment professionals the ability to subsequently log in to this part of our site without using a User Name and Password.  
+[Home Page](https://web.archive.org/index.jsp) | Persistent | This cookie is set by American Century and allows customers to bypass the corporate homepage when they indicate a preference for a section of the site they would like to view on future visits.  
   
 What is a Clear Gif and How Are They Used?  
 A clear gif, also known as a Web Beacon, is similar in function to cookies. It is a tiny graphic with a unique identifier that is invisible on the page and much smaller, about the size of the period at the end of this sentence. Clear gifs track online web movements of our users and inform us what content is effective. Clear gifs are not tied to users' personal information.
@@ -154,27 +148,26 @@ Our Representatives can be reached Monday through Friday, 7 a.m. to 7 p.m. or Sa
   
 Web Browser Requirements | back to top  
    
-We require users to access their accounts online with [Netscape](http://www.netscape.com/computing/download/index.html?cp=hom07x4) (version 4.07 or later), [Microsoft Internet Explorer](http://www.microsoft.com/windows/ie/default.asp) (version 4.0 or later) or AOL (for Windows 3.0 or later). These browsers use Secure Sockets Layer (SSL) technology with RSA Public Key encryption. This technology helps enable the security of your online sessions. 
+We require users to access their accounts online with [Netscape](http://www.netscape.com/computing/download/index.html?cp=hom07x4) (version 6.0 or later), [Microsoft Internet Explorer](http://www.microsoft.com/windows/ie/default.asp) (version 4.0 or later), [Mozilla](http://www.mozilla.org/) (version 1.7 or later) or AOL (for Windows 7.0 or later). These browsers use Secure Sockets Layer (SSL) technology with RSA Public Key encryption. This technology helps enable the security of your online sessions. 
 
 If for any reason your session is no longer secure, you will be disconnected from online account access.
 
-If a session is secure, it means that it is encrypted. Every secure page on American Century's Web site has been secured with a digital certificate by RSA Data Security, Inc. We use SSL, RSA Public Key encryption and proprietary encryption algorithms to secure your connection when you are accessing your account online. American Century supports 128-bit encryption to provide you with secure access to your account information. However, your browser may only support 40-bit encryption. If your browser does not support 128-bit encryption, we recommend that you upgrade your browser to a newer version. Please access the [ Netscape](http://www.netscape.com/computing/download/index.html?cp=hom07x4) or [Microsoft Internet Explorer](http://www.microsoft.com/windows/ie/default.asp) Web sites to upgrade your browser to the current version with 128-bit encryption. 
+If a session is secure, it means that it is encrypted. Every secure page on American Century's Web site has been secured with a digital certificate by RSA Data Security, Inc. We use SSL, RSA Public Key encryption and proprietary encryption algorithms to secure your connection when you are accessing your account online. American Century supports 128-bit encryption to provide you with secure access to your account information. If your browser does not support 128-bit encryption, we recommend that you upgrade your browser to a newer version. Please access the [ Netscape](http://www.netscape.com/computing/download/index.html?cp=hom07x4), [Microsoft Internet Explorer](http://www.microsoft.com/windows/ie/default.asp) or [Mozilla](http://www.mozilla.org/) Web sites to upgrade your browser to the current version with 128-bit encryption. 
 
 Use the information in the chart below to help you determine the security features within your browser.  
   
    
-|   
----  
-|  | Browser |  |  |  | Secure Connection |  |  |  | Non–Secure Connection |  |   
-|  | Netscape Navigator 4.07 |  |  |  |  |  |  |  |  |  |   
-|  | Netscape Communicator |  |  |  |  |  |  |  |  |  |   
-|  | Microsoft Internet Explorer 4.0+ |  |  |  |  |  |  |  | No lock |  |   
-|  | America Online (AOL) for Windows 3.0 or higher |  |  |  | A pop-up screen will be displayed indicating access to a page with encrypted data. |  |   
    
 To view the encryption certificate, click on the image of the closed lock or the solid key on the bottom bar of your browser window. A small frame displaying site security information will appear. If you use Internet Explorer, click on the word “Subject” to verify the Web site. If you use Netscape, click on the “View Certificate” button to see information on the subject and issuer. 
 
 This site may contain links to other sites. American Century is not responsible for the privacy practices or the content of such Web sites.  
   
+Contacting American Century | back to top  
+   
+American Century believes that your privacy should be respected. We appreciate and take seriously your trust in us and your ablitiy to safeqguard your personal information. For more information about our privacy commitment please contact an Investor Relations Representative at 1-800-345-2021 or visit our [Contact Us](https://web.archive.org/welcome/contact.jsp) page.  
 Notification of Changes | back to top  
    
 We will post any changes to this privacy statement so users are always aware of what information we collect, how we use it, and under what circumstances, if any we disclose it. If, however, we are going to use personal information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days prior to implementing the change.
+
+ **Effective Date of this Policy**  
+September 21, 2004
