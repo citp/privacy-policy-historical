@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the clearancejobs.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605101429id_/http%3A//www.clearancejobs.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearancejobs.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208185815id_/http%3A//www.clearancejobs.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# ClearanceJobs.com - Search jobs requiring an active security clearance
+# Security Clearance Jobs - ClearanceJobs.com
 
 **Information Security:** ClearanceJobs.com employs a number of security measures to keep both job seeker information and employer information safe and private. Your private information will never be sold or distributed to any other party, and is used strictly on the ClearanceJobs.com website. For a detailed list of our extensive security features, please view our About Us page. 
 
 **Customer Information:** Information is collected at the time of registration in order to complete transactions related to the use of this Web site. Customer lists are not not sold or distributed to third parties. This Web site does not use customer lists to send solicitations. Please see the [User Agreement](http://www.clearancejobs.com/index.php?action=legal) for detailed information regarding registration information.  | 
 
-**Secure Server Licence:** This site uses a SSL provided by Verisign, Inc. Registration and all credit card activities are done via a secure connection. You can verify the secure connection by observing the  icon on your browser and on the navigation header of this site. Furthermore, all credit card and password information is encrypted before being stored in our database.  
+**Secure Server Licence:** This site uses a SSL provided by Verisign, Inc. Registration and all credit card activities are done via a secure connection. You can verify the secure connection by observing the $sec_img icon on your browser and on the navigation header of this site. Furthermore, all credit card and password information is encrypted before being stored in our database.   
   
 ---|---  
   
-**Credit Card Transactions:** Credit card transactions are processed by Authorize.Net. A professional payment authorization service was chosen for added security and reliability. Only the purchase price and the credit card information provided by the customer is supplied to Authorize.net. Information collected during transactions is maintained in their database for accounting and billing purposes. Information from these transactions is not released to third parties.
+**Credit Card Transactions:** Credit card transactions are processed by Authorize.Net. A professional payment authorization service was chosen for added security and reliability. Only the purchase price and the credit card information provided by the customer is supplied to Authorize.net. Information collected during transactions is maintained in their database for accounting and billing purposes. Information from these transactions is not released to third parties. 
 
 **Web Site Log Files:** Like most Web sites log files are generated that show the IP Address of the visitor, date, time, and pages visited. Aggregate reports for Web site visitors are generated that do not contain personally identifiable information. Advertising reports are generated that show the IP addresses of visitors who clicked on ads. This information may be sent to the advertiser to confirm the advertising fee charged. The advertiser already has this information as a result of the user clicking on the ad. No additional information about the visitor is supplied to the advertiser. The log files are eventually deleted. 
 
