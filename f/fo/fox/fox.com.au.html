@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the fox.com.au privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202221147id_/http%3A//www.fox.com.au/admin/privacy_policy/index.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fox.com.au privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606200240id_/http%3A//www.fox.com.au/admin/privacy_policy/index.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>FOX FM</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="Expires" content="Mon, 06 Jan 1990 00:00:01 GMT">
-<link href="http://www.fox.com.au/css/2.css" rel="stylesheet" type="text/css">
+<link href="http://www.fox.com.au/css/7.css" rel="stylesheet" type="text/css">
 <script language="javascript">
 if (screen.width==800||screen.height==600){
 	document.write ("<style> #boxthing { position:absolute; top:40px; left:135px; width:535px; height:390px; border:1px #000000 solid; background-color:#FFFFFF; padding:0.5em; } </style>");
@@ -95,6 +95,37 @@ function closefoxy(){
 hideLayer("boxthing");
 }
 
+
+
+//"Accept terms" form submission- By Dynamic Drive
+//For full source code and more DHTML scripts, visit 
+http://www.dynamicdrive.com
+//This credit MUST stay intact for use
+
+var checkobj
+
+function agreesubmit(el){
+checkobj=el
+if (document.all||document.getElementById){
+for (i=0;i<checkobj.form.length;i++){  //hunt down submit button
+var tempobj=checkobj.form.elements[i]
+if(tempobj.type.toLowerCase()=="submit")
+tempobj.disabled=!checkobj.checked
+}
+}
+}
+
+function defaultagree(el){
+if (!document.all&&!document.getElementById){
+if (window.checkobj&&checkobj.checked)
+return true
+else{
+alert("Please read and accept terms to submit this form")
+return false
+}
+}
+}
+
 </script>
 </head>
 <body bgcolor="#FFFFFF" text="#333333" link="#0066FF" vlink="#0066FF" alink="#0066FF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
@@ -161,17 +192,17 @@ hideLayer("boxthing");
 			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
             14px;" onmouseout="javascript:MouseOutMenu('mnu_ID222')"><a href="/music/figjam/index.php" class="mitem2">FIGJAM</a></td>
               </tr>
-			  <tr> 
-                <td id="mnu_ID2" onmouseover="javascript:MouseOverMenu('mnu_ID2')" style="border-right-color: transparent;
+			  <!--<tr> 
+                <td id="mnu_ID2" onMouseOver="javascript:MouseOverMenu('mnu_ID2')" style="border-right-color: transparent;
 			border-left-color: transparent; border-top-color: transparent;
 			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
-            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID2')"><a href="/music/request/index.php?type=net4" class="mitem2">Net 4@4</a></td>
-              </tr>
-			  <tr> 
+            14px;" onMouseOut="javascript:MouseOutMenu('mnu_ID2')"><a href="/music/request/index.php?type=net4" class="mitem2">Net 4@4</a></td>
+              </tr>-->
+			 <tr> 
                 <td id="mnu_ID3" onmouseover="javascript:MouseOverMenu('mnu_ID3')" style="border-right-color: transparent;
 			border-left-color: transparent; border-top-color: transparent;
 			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
-            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID3')"><a href="/shows/atoz/index.php" class="mitem2">90's @ Noon</a></td>
+            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID3')"><a href="/shows/atoz/index.php" class="mitem2">TOP 5 @ 9</a></td>
               </tr>
 			  <tr>
                 <td id="mnu_ID1" onmouseover="javascript:MouseOverMenu('mnu_ID1')" style="border-right-color: transparent;
@@ -200,31 +231,36 @@ hideLayer("boxthing");
 			border-left-color: transparent; border-top-color: transparent;
 			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
             14px;" onmouseout="javascript:MouseOutMenu('mnu_ID10')"><a href="/shows/mattjobenno/index.php" class="mitem2">Matt, Jo &amp; Benno</a></td>
-              </tr>
-			  <tr> 
-                <td id="mnu_ID11" onmouseover="javascript:MouseOverMenu('mnu_ID11')" style="border-right-color: transparent;
-			border-left-color: transparent; border-top-color: transparent;
-			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
-            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID11')"><a href="/shows/jay/index.php" class="mitem2">Jay</a></td>
-              </tr>
+              </tr>			  
 			  <tr> 
                 <td id="mnu_ID12" onmouseover="javascript:MouseOverMenu('mnu_ID12')" style="border-right-color: transparent;
 			border-left-color: transparent; border-top-color: transparent;
 			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
             14px;" onmouseout="javascript:MouseOutMenu('mnu_ID12')"><a href="/shows/brownie/index.php" class="mitem2">Brownie</a></td>
               </tr>
-			  <!--
 			  <tr> 
-                <td id="mnu_ID13" onMouseOver="javascript:MouseOverMenu('mnu_ID13')" style="border-right-color: transparent;
+                <td id="mnu_ID13" onmouseover="javascript:MouseOverMenu('mnu_ID13')" style="border-right-color: transparent;
 			border-left-color: transparent; border-top-color: transparent;
 			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
-            14px;" onMouseOut="javascript:MouseOutMenu('mnu_ID13')"><a href="/shows/index.php" class="mitem2">Dangerous Dave</a></td>
-              </tr> -->
+            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID13')"><a href="/shows/andy/index.php" class="mitem2">Andy Park</a></td>
+              </tr>
+			  <tr> 
+                <td id="mnu_ID11" onmouseover="javascript:MouseOverMenu('mnu_ID11')" style="border-right-color: transparent;
+			border-left-color: transparent; border-top-color: transparent;
+			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
+            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID11')"><a href="http://www.kyleandjackieo.com" target="_blank" class="mitem2">Kyle &amp; Jackie O</a></td>
+              </tr>
 			  <tr> 
                 <td id="mnu_ID15" onmouseover="javascript:MouseOverMenu('mnu_ID15')" style="border-right-color: transparent;
 			border-left-color: transparent; border-top-color: transparent;
 			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
             14px;" onmouseout="javascript:MouseOutMenu('mnu_ID15')"><a href="http://www.hot30.com" class="mitem2" target="_blank">HOT30</a></td>
+              </tr>
+			  <tr> 
+                <td id="mnu_ID1409" onmouseover="javascript:MouseOverMenu('mnu_ID1409')" style="border-right-color: transparent;
+			border-left-color: transparent; border-top-color: transparent;
+			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
+            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID1409')"><a href="http://www.rove.com.au" target="_blank" class="mitem2">Rove Live Radio</a></td>
               </tr>
 			  <tr> 
                 <td id="mnu_ID14" onmouseover="javascript:MouseOverMenu('mnu_ID14')" style="border-right-color: transparent;
@@ -252,7 +288,7 @@ hideLayer("boxthing");
                 <td id="mnu_ID22" onmouseover="javascript:MouseOverMenu('mnu_ID22')" style="border-right-color: transparent;
 			border-left-color: transparent; border-top-color: transparent;
 			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
-            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID22')"><a href="/prizes/index.php" class="mitem2">Prizes &amp; Offers</a></td>
+            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID22')"><a href="/prizes/index.php" class="mitem2">Online Contests</a></td>
               </tr>
 			  <tr> 
                 <td id="mnu_ID21" onmouseover="javascript:MouseOverMenu('mnu_ID21')" style="border-right-color: transparent;
@@ -300,6 +336,12 @@ hideLayer("boxthing");
 			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
             14px;" onmouseout="javascript:MouseOutMenu('mnu_ID240')"><a href="/onstreet/instores/index.php" class="mitem2">Instores</a></td>
               </tr>
+			  <tr> 
+                <td id="mnu_ID241" onmouseover="javascript:MouseOverMenu('mnu_ID241')" style="border-right-color: transparent;
+			border-left-color: transparent; border-top-color: transparent;
+			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
+            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID241')"><a href="/onstreet/suburbs/index.php" class="mitem2">Suburb Parties</a></td>
+              </tr>
             </tbody></table>
           </td>
         </tr>
@@ -326,7 +368,7 @@ hideLayer("boxthing");
                 <td id="mnu_ID26" onmouseover="javascript:MouseOverMenu('mnu_ID26')" style="border-right-color: transparent;
 			border-left-color: transparent; border-top-color: transparent;
 			COLOR: #666666; border-bottom-color: transparent; HEIGHT: 
-            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID26')"><a href="/music/rooftops/index.php" class="mitem2">On The Rooftop</a></td>
+            14px;" onmouseout="javascript:MouseOutMenu('mnu_ID26')"><a href="/music/rooftops/index_jm.php" class="mitem2">On The Rooftop</a></td>
               </tr>			  
             </tbody></table>
           </td>
@@ -345,21 +387,23 @@ hideLayer("boxthing");
 </tr>
 </tbody></table>		<br>
     </td>
-    <td height="80" colspan="2" align="center"><img src="../../images/spacer.gif" width="8" height="1"><script language="JavaScript" src="http://www.fox.com.au/phpAdsNew/adjs.php?clientID=187&amp;withText=0"></script>    </td>
+    <td height="80" colspan="2" align="center"><img src="../../images/spacer.gif" width="8" height="1"><script language="JavaScript" src="http://www.mmmelb.com.au/phpAdsNew/adjs.php?clientID=169&amp;withText=0"></script>    </td>
     <td colspan="3" rowspan="2" align="center" valign="top" class="rt">
       <p><br>
         <table width="120" cellpadding="0" cellspacing="0" border="1" class="tier3" style="border-collapse:collapse; border-style:dashed;">
 		<tbody><tr><td bgcolor="#DBE9F7"><center><font class="titles">CD OF THE WEEK</font>
 		<table bgcolor="#FFFFFF" width="100%" cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr>
-		<td align="center"><a href="/prizes/cds/index.php"><img src="/live-feed/updates/cdweek/img/cover_thumb.jpg" width="100" height="100" border="0" alt=""></a></td>
+		<td align="center"><a href="/prizes/cds/index.php"><img src="/prizes/cds/images/mint4_thumb.gif" width="100" height="100" border="0" alt=""></a></td>
 		</tr>
 		<tr>
-		<td align="center" bgcolor="#DBE9F7"><h6><a href="/prizes/cds/index.php" class="Link2">KYLIE</a></h6></td>
+		<td align="center" bgcolor="#DBE9F7"><h6><a href="/prizes/cds/index.php" class="Link2">MINT 4</a></h6></td>
 		</tr>		
 		</tbody></table>		
 		</center></td></tr></tbody></table>
 </p><p>
+</p>
+<p>
 <table width="120" cellpadding="0" cellspacing="0" border="1" bordercolor="#777777" style="border-collapse:collapse; border-style:dashed;">
   <tbody><tr>
     <td><center><font class="titles">MUSIC NEWS</font>
@@ -844,6 +888,7 @@ This Privacy Policy applies to the collection of Personal Information
 	</td>
   </tr>
 </tbody></table>
+<div align="center" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #666666">&nbsp;© Austereo Pty Ltd</div>
 
 
 </body></html>
