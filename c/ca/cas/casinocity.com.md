@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinocity.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209045457id_/http%3A//casinocitypress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinocity.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405112448id_/http%3A//casinocitypress.com/privacy) for the most accurate reproduction.*
 
 # None
 
