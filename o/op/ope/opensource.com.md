@@ -1,87 +1,160 @@
-> *The following text is extracted and transformed from the opensource.com privacy policy that was archived on 2001-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010205004500id_/http%3A//www.opensource.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensource.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217065615id_/http%3A//www.opensource.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
-# redhat.com | Privacy Statement
+# redhat.com |
 
-| 
+## Privacy Statement Table of Contents
 
-We think our customers understand better than anyone else how Red Hat can most effectively serve their needs. Because of this, Red Hat makes every effort to allow our customers to define the relationship they will have with us. We ask our customers how they would like Red Hat to communicate with them, if at all. We disclose how we will be using our customers' information through documents like this one, or by answering individual questions customers may ask. Also, we never sell our customers' information or provide it to others without making it clear that we intend to do so at the time the information is collected.
-
-Below you will find a detailed account of Red Hat's privacy practices. If you have any questions about any of these practices, please feel free to contact us at [feedback@redhat.com](mailto:feedback@redhat.com).
-
-   
-**Collected Information**
-
-**User Registration Information**  
-We think our customers understand better than anyone else how Red Hat can most effectively serve their needs. Because of this, Red Hat makes every effort to allow our customers to define the relationship they will have with us. We ask our customers how they would like Red Hat to communicate with them, if at all. We disclose how we will be using our customers' information through documents like this one, or by answering individual questions customers may ask. Also, we never sell our customers' information or provide it to others without making it clear that we intend to do so at the time the information is collected.
-
-**Red Hat Network Information**  
-Our website's registration system requires you to give us some contact information (like a user name or email address) and unique identifiers (like a password). Unique identifiers are collected to verify your identity and are used as account numbers in our record system.
-
-During the registration process you will be given a choice as to whether you would like Red Hat or our business partners to contact you in the future. This is an "opt-in" process. If you opt-in, we rely on your consent to send you information, special offers, and promotional materials. You may choose whether you would like to be contacted via mail, email, phone, or not at all. We will only contact you via the methods you choose. The only exception is the rare case that we find a significant issue with a product or service you have registered that requires your immediate attention. We may contact you via phone or email as the situation warrants. This is for your protection.
-
-Customers may register their products and services with Red Hat at <http://www.redhat.com/now>.
-
-Users may join redhat.com by going to <http://www.redhat.com/join>.
-
-**Online Ordering Information**  
-While you are shopping in our Web store, our site uses cookies to track your shopping cart. Our site uses an order form for customers to purchase products and services. We collect contact information (like your email address), unique identifiers (like your password), and financial information (like your account or credit card numbers). Contact information from the order form is used to send orders.
-
-During the ordering process you will be given a choice as to whether you would like Red Hat or our business partners to contact you in the future. This is an "opt-in" process. If you opt-in, we rely on your consent to send you information, special offers, and promotional materials. You may choose whether you would like to be contacted via mail, email, phone, or not at all. We will contact you only via the methods you choose. The only exception is in the rare case that we have trouble placing or fulfilling your order; we may contact you via phone or email as the situation warrants.
-
-**Online Survey Information**  
-Our online surveys ask you for contact information (like your email address) and demographic information (like your occupation). We may use data from our surveys to contact you or to allow appropriate business partners to contact you. Demographic information may also be used to tailor your experience at our site by showing content in which we think you may be interested, and displaying content according to your preferences.
-
-**Trade Shows and Contests Information**  
-We run contests on our site and at trade shows in which we ask you for contact information (like your email address), unique identifiers (like your password), and demographic information (like your occupation). We may use data from these contests and trade shows to contact you or to allow appropriate business partners to contact you.
-
-   
-**Cookies and Other Browser Information** Our site automatically captures IP addresses. We use IP addresses to help diagnose problems with our server, to administer our website, and to help ensure the security of your interaction with the website. Your IP address is used to help identify you and your shopping cart.
-
-As part of offering and providing customizable and personalized services, Red Hat uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All sections of redhat.com where you are prompted to log in or that are customizable require your web browser to accept cookies.
-
-Generally, we use cookies to:
-
-  1. Remind us of who you are and to access your account information (stored on our computers) in order to provide a better and more personalized service. This cookie is set when you register or "sign in" and is modified when you "sign out" of our services.
-  2. Estimate audience size. Each browser accessing Red Hat is given a unique cookie that is used to determine the extent of repeat usage and usage by a registered user versus by an unregistered user.
-  3. Assist the redhat.com store and merchants in the redhat.com Marketplace to track visits and to process the items in your shopping baskets.
-  4. Track your progress and number of entries in some of our promotions, sweepstakes, and contests. When a Red Hat hosted promotion uses cookies, the information written to the cookie indicates the person's progress through the promotion, and may be used to track entries, submissions, and status in prize drawings.
-  5. Measure certain traffic patterns, which areas of Red Hat's network of websites you have visited, and your visiting patterns in the aggregate. We use this research to understand how our user's habits are similar or different from one another so that we can make each new experience on redhat.com a better one. We may use this information to better personalize the content, banners, and promotions you and other users will see on our sites.
+  * Scope of This Notice
+  * Our Commitment to Privacy
+  * The Information We Collect
+  * Using Your Personal Information
+  * Sharing Your Personal Information
+  * Your Choices About Receiving E-Mail
+  * Cookies and Other Browser Information
+  * Our Commitment to Data Security
+  * Public Forums Reminder
+  * Our Commitment to Children's Privacy
+  * How to Access, Modify or Update Your Information
+  * How to Contact Us
+  * Changes to this Privacy Statement
 
 
 
-   
-**Other Data Uses**
+### Scope of This Notice
 
-**Uses of Third Party Data and Agregated Data**  
-Under confidentiality agreements, Red Hat may match user information with third-party data. Also, Red Hat discloses aggregated user statistics in order to describe our services to current and prospective partners, advertisers, and other third parties.
+This Privacy Statement is intended to describe Red Hat's privacy practices and provide information about the choices you have regarding the ways in which information collected by Red Hat is used and disclosed.
 
-**About Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our site, our ad company collects cookies received with banner ads, and we do not have access to this information or control over how it is used.
+Please note that our co-branded websites (websites where Red Hat has presented content together with one or more of our business partners) may be governed by additional or different privacy provisions.
 
-Companies that place advertising on our site may collect information about you if you view or click on their content or advertising. Red Hat does not control these partner companies. If you have questions about the data collection practices of advertisers, please contact the companies directly.
+### Our Commitment to Privacy
 
-**About Links to Other Sites**  
-This site contains links to other sites. Red Hat does not control the information collection of sites that can be reached through links from redhat.com. If you have questions about the data collection practices of linked sites, please contact those companies directly.
+At Red Hat, your privacy is important to us. To better protect your privacy, we have provided this Statement explaining our information practices and the choices you can make about the way your personal information is collected, used and disclosed. To make this Statement easy to find, we have made it available on our homepage and at every location where personally-identifiable information may be requested.
 
-   
-**Public Forums Reminder** This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information. Exercise caution when deciding to disclose your personal information. 
+Red Hat has self-certified its adherence to the European Union "Safe Harbor" Principles with the United States Department of Commerce, and has chosen to cooperate with the European Union Data Protection Authorities for unresolved privacy complaints.
 
-   
-**Questions and Answers**
+### The Information We Collect
 
-**How Can I Opt Out?**  
-This site gives you the ability to opt out of receiving communications from Red Hat if you choose. When you register or order a product, simply choose "I do not wish to be contacted" underneath the Contact Method section. If you decide that you would like to opt out of communications at a later date, you may do so by clicking on "My Account" at the bottom of the redhat.com homepage or by going to: 
+This Privacy Statement applies to all information collected by or submitted to Red Hat, including personal information. "Personal information" is data that reasonably can be used to identify or describe an individual.
 
-> <http://www.redhat.com/apps/user/login.html>
+Red Hat collects personal information when:
 
-and entering the user name and password of the account that you created during the order or registration process. 
+  * you create a user account to become a member of redhat.com or Red Hat Network;
+  * you make online purchases;
+  * you register products online;
+  * you request support for a Red Hat product;
+  * you register for webcasts;
+  * you request information or materials (e.g., whitepapers);
+  * you participate in surveys and evaluations;
+  * you participate in promotions, contests or giveaways;
+  * you submit questions or comments to us.
 
-**How Can I Modify or Update My Information?**  
-This site gives you the ability to opt out of receiving communications from Red Hat if you choose. When you register or order a product, simply choose "I do not wish to be contacted" underneath the Contact Method section. If you decide that you would like to opt out of communications at a later date, you may do so by clicking on "My Account" at the bottom of the redhat.com homepage or by going to: 
 
-> <http://www.redhat.com/apps/user/login.html>
 
-and entering the user name and password of the account that you created during the order or registration process. If you need assistance, you may send email to [feedback@redhat.com](mailto:feedback@redhat.com) . 
+Red Hat also collects personal information from individuals (with their consent) at conventions, trade shows and expositions.
 
-  
-| 
+The types of personal information collected may include (but are not limited to):
+
+  * your first and last name;
+  * your title and your company's name;
+  * your home, billing, or other physical address (including street name, name of a city or town, state/province);
+  * your e-mail address;
+  * your telephone number;
+  * any other identifier that permits Red Hat to make physical or online contact with you;
+  * any information that Red Hat collects online from you and maintains in association with your account, such as: 
+  * your Red Hat username,
+  * your Red Hat password,
+  * your credit card account information.
+
+
+
+### Using Your Personal Information
+
+Red Hat uses the personal information you provide to:
+
+  * create and maintain your accounts;
+  * process, fulfill, and follow-up on your orders;
+  * register your products;
+  * answer your questions;
+  * register you in programs (per your request);
+  * send you information;
+  * send you surveys.
+
+
+
+We also use this personal information to provide you with information related to your account and the products or services you purchased from us, to better understand your needs and interests, to improve our service, and to personalize communications.
+
+### Sharing Your Personal Information
+
+Unless you assent, Red Hat will never share the personal information you provide to us except as described below.
+
+Red Hat may disclose your personal information to third parties under any of the following circumstances:
+
+  * As may be required to fulfill orders, to conduct billing/credit card processing, to provide service, and for e-mail housing (as a consequence of uses already described in this Privacy Statement).
+  * As required by law (such as responding to a valid subpoena, warrant, audit, or agency action, or to prevent fraud). For research activities, including the production of statistical reports (such aggregated information is used to describe our services to current and prospective partners and other third parties, and is not used to contact the subjects of the report).
+  * In the context of a business transaction, such as a merger, acquisition, consolidation, or divestiture (pursuant to a pledge of confidentiality under which the recipient agrees to use the information for no purpose other than carrying out the transaction).
+
+
+
+### Your Choices About Receiving E-Mail
+
+Red Hat makes every effort to provide you with the ability to opt-in and opt-out of receiving communications from Red Hat and/or its partners.
+
+Red Hat may send you e-mail about your account, about the products you have purchased, to remind you about a webcast for which you have registered or a service you have purchased, or in response to your questions. Red Hat may also send you e-mail with information and/or special offers about products and services that may be of interest to you, unless you indicate that you do not want to receive them. In addition, with your assent, our business partners may send you such information.
+
+You may let us know whether or not you would like to receive information, special offers, and promotional materials from Red Hat or our business partners when you create a redhat.com account, when you register for a service, when you provide us with your personal information, or when we send you e-mail. Please note that if you choose not to accept promotional e-mails, you may not receive special offers that may be of value to you.
+
+Red Hat will provide you with the opportunity to opt-out of any of our direct marketing communications at any time. All promotional e-mail sent from Red Hat will contain a provision allowing you the option to decline receiving future promotional e-mail. You may unsubscribe to an e-mail communication by contacting Red Hat at either of the addresses provided below and requesting that you be unsubscribed from that specific communication:
+
+  * Web: [Feedback form](http://www.redhat.com/apps/response/feedback.html)
+  * Regular mail: Newsletters @ Red Hat, 1801 Varsity Drive, Raleigh, NC 27606
+
+
+
+For your protection, Red Hat may contact you in the event that we find an issue with a product or service you have purchased that requires your immediate attention.
+
+### Cookies and Other Browser Information
+
+Our website automatically captures IP addresses. We use IP addresses to help diagnose problems with our server, to administer our website, and to help ensure the security of your interaction with the website. Your IP address is used to help identify you and your shopping cart.
+
+As part of offering and providing customizable and personalized services, Red Hat uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All sections of redhat.com where you are prompted to log in or that are customizable require your browser to accept cookies. [Find out more](https://web.archive.org/legal/cookies.html) about precisely how we use cookies.
+
+If you do not want your personal information to be stored by cookies, you can configure your browser so that it always rejects these cookies or asks you each time if you accept them or not. However, you must understand that the use of cookies may be necessary to provide certain products or services, and choosing to reject cookies will reduce the performance and functionality of the site. Your browser documentation includes precise instructions explaining how to define the acceptance of cookies.
+
+### Our Commitment to Data Security
+
+Red Hat trains its employees on our privacy policy guidelines and makes our privacy policy available to our business partners. Our website uses Secure Socket Layer (SSL) technology, which encrypts your personal information when you send your personal information on our website. In addition, Red Hat and its business partners enter into confidentiality agreements which require that care and precautions be taken to prevent loss, misuse, or disclosure of your personal information.
+
+### Public Forums Reminder
+
+This site often makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information. Exercise caution when deciding to disclose your personal information. Although we value individual ideas and encourage free expression, Red Hat reserves the right to take necessary action to preserve the forum's integrity, such as removing any posting that is vulgar or inappropriate.
+
+### Our Commitment to Children's Online Privacy
+
+Out of special concern for children's privacy, Red Hat does not knowingly accept online personal information from children under the age of 13. Red Hat does not knowingly allow children under the age of 13 to become registered members of our sites, or buy products and services on our sites. Red Hat does not knowingly collect or solicit personal information about children under 13.
+
+In the event that Red Hat ever decides to expand its intended site audience to include children under the age of 13, those specific web pages will, in accordance with the requirements of the Children's Online Privacy Protection Act (COPPA), be clearly identified and provide an explicit privacy notice addressed to children under 13. In addition, Red Hat will provide an appropriate mechanism to obtain parental approval, allow parents to subsequently make changes to or request removal of their children's personal information, and provide access to any other information as required by law.
+
+### About Links to Other Sites
+
+This site contains links to other sites. Red Hat does not control the information collection of sites that can be reached through links from redhat.com. If you have questions about the data collection procedures of linked sites, please contact those companies directly.
+
+### How to Access, Modify or Update Your Information
+
+Red Hat gives you the ability to access, modify or update your information at any time. You may [log in](https://web.archive.org/apps/user/login.html) and make changes to your login information (change your password), your contact information, your general preferences and your personalization settings. If necessary, you may also [contact us](http://www.redhat.com/apps/response/feedback.html) and describe the changes you want made to the information you have previously provided.
+
+### How to Contact Us
+
+If you have any questions about any of these practices or Red Hat's use of your personal information, please feel free to contact us [by web](http://www.redhat.com/apps/response/feedback.html), or by mail at:
+
+Red Hat, Inc.  
+Legal Affairs  
+1801 Varsity Drive  
+Raleigh, NC 27606
+
+Red Hat will work with you to resolve any concerns you may have about this Statement.
+
+### Changes to this Privacy Statement
+
+Red Hat reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Statement will be posted on this site.
+
+This Privacy Statement was last amended on August 4, 2004.
