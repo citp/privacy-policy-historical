@@ -1,72 +1,96 @@
-> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2004-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040204194327id_/http%3A//www.medhunters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204103345id_/http%3A//www.medhunters.com/privacyPolicy.html) for the most accurate reproduction.*
 
-# MedHunters.com: Privacy Policy
+# MedHunters: Privacy Policy - MedHunters
 
-**_MedHunters' Privacy Policy_**
+Last updated June 30, 2004 
 
-**Your privacy is guaranteed!**
+* * *
 
-> When you add your resume to MedHunters.com, your contact information is kept confidential if you request it. Afterward, it will be confidential until you give MedHunters permission to release it to an employer. Only direct healthcare employers who purchase a subscription to post jobs on MedHunters have access to our resume database. Employers that search our resume database only see your resume profile and NOT your contact information or the names of your current and previous employer and educational institution if you have asked for your resume to be confidential.
+## Overview
 
-**Protecting Your Privacy is Important to Us**
+MedHunters.com Inc. ("MedHunters") is committed to providing you with a safe, secure environment from which you can confidently register, apply for jobs and receive our job matching services. To demonstrate our firm commitment to assuring your privacy, MedHunters has created this privacy statement to explain the information gathering, storage and dissemination practices we use on our Site. Our promise to you is that we will use our best efforts to ensure that the information you submit to us remains private, and will only be used for the purposes described herein.
 
-> MedHunters is committed to providing you with a safe, secure environment from which you can confidently register and receive our job matching services. To demonstrate our firm commitment to assuring your privacy, MedHunters has created this privacy statement to explain the information gathering and dissemination practices we use on our website. Our promise to you is that we will use our best efforts to ensure that the information you submit to us remains private, and will only be used for the purposes described herein.
+By accessing, using and/or registering on this Site, you consent to the policies and practices described in this statement.
 
-**Domain names and/or IP addresses are logged _ONLY_ for system administration purposes.**
+Note that this Site is also governed by the [Terms and Conditions of Use](https://web.archive.org/termsOfUse.html). Please review these policies before using this Site.
 
-> We use your IP address to help diagnose problems with our server, and to administer our Web site. Be assured that we do not link IP addresses to anything that can personally identify you. 
-> 
-> On our site, in certain areas, such as Jobseeker registration, or Employer account areas, we ask for information that offers you the option of providing us with your name, address, phone number, fax number, email address, demographic, preference and other personal information, and various other kinds of details. We gather this personal information with your knowledge, and active permission and participation. This personal information is not shared with a third party except for the purpose of processing your order or matching you with job opportunities, and then, only with your written or expressed consent. 
-> 
-> In addition, our site does not use cookies. We do not track any information based on your visits, other than the information you provide on your own. 
+## Collection of Information
 
-**Specific Information We Collect About Our Visitors**
+### Anonymous browsing
 
-> **Our Job Seekers**
-> 
-> In order for MedHunters help you find the job you want - where you want it - we ask that you complete our online, password-protected registration/resume builder profile. This allows you to provide us with all of your personal and professional information so that we can offer you job opportunities that best meet your interests and abilities. When you register, we realize that we ask for very confidential information from you, and we want you to know that we treat this with the highest degree of privacy possible. No information is released to anyone without your permission - permission is granted in three ways. First, when you register, there is a checkbox which allows you to set your information visible, or confidentional. Second and third, whether visible or confidential, is when you verbally agree to have your information sent to an employer (i.e. when you are talking to one of our staff) or when you apply for a job online on our site or through e-mail.
-> 
-> **Our Registered Employers**
-> 
-> Registered employers have password-protected access to their Profile Page where they can add jobs or change their information. 
-> 
-> **Email Links**
-> 
-> Throughout our site, you'll find links for sending us an email message. We use your email address for no other purpose than to send you a reply or to update your file and to send you jobs. Your message and email address remains confidential unless you specifically give us permission otherwise.
-> 
-> **External Links**
-> 
-> We provide links to other sites that we think you may find useful. However, these sites are outside the control of MedHunters, and may have different privacy policies than MedHunters.
-> 
-> **Sharing of Information and Unsolicited Communications**
-> 
-> MedHunters will not share your personally identifiable information with any other entities than with those for whom you give us express permission. 
-> 
-> **Choice Opt in/Opt out**
-> 
-> To opt in to our services, you register and we will match you with jobs in areas where you are qualified and where you have expressed a geographic interest. Also you can apply for jobs in all categories directly. If at any point in time you wish to terminate your membership, please let us know by email, phone or fax. You can permanently delete your file. Alternatively you can de-activate your file for a set period of time, if you think you will want to use it again in the future.
-> 
-> **Membership**
-> 
-> There are several ways in which you can change, modify or delete any information in your online resume profile:
-> 
->   * log into your My MedHunters account and make the changes you desire. 
->   * contact us by email at [jobs@medhunters.com](mailto:jobs@medhunters.com). 
->   * mail us at: 2403-180 Dundas St. W., Toronto ON M5G 1Z8 
->   * phone us at: 1-800-664-0278 
-> 
+You can use our Site without revealing any information about yourself. In this case, we gather or may gather certain information about your use of our Site, such as what areas you visit and what services you access. Our web server may collect the following information about your computer hardware and software: IP address, domain name, browser type and version, operating system type and version, the referring web site, the web site you visit next, and access times. 
 
-> 
-> **Contacting the Web Site**
-> 
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please feel free to contact:
->
->> Danielle Keir, Director of Client Services  
->  MedHunters, Inc.  
->  I80 Dundas St. W., Suite 2403  
->  Toronto ON, M5G 1ZB, CANADA
->> 
->> e-mail: [info@medhunters.com](mailto:info@medhunters.com)  
->  phone: 1-800-664-0278 (within North America);   
->              416-977-5777 (outside North America)  
->  fax: 416-977-2869
+This information is used to evaluate different aspects of the MedHunters Site, including monitoring Site performance for systems administration purposes, improving the functionality of the Site, and reporting aggregate information to our clients and prospective customers (e.g. how much traffic we get to the Site). Statistics about traffic patterns and Site usage are reported on an aggregate basis only and do not include any personal information that identifies individuals.
+
+### Collection, Retention, Disclosure and Use of Information
+
+When you register on MedHunters, we require the following information from you: name, address, telephone number, email address, work history, educational history, location preferences, desired work status, licensure, and employment eligibility. You will also be asked to provide a copy of your résumé for our database. This information is used to create an online, searchable profile that can be accessed by the employers who advertise on our Site or who have database access to our Site.
+
+We use this information to: 1) provide advertisers with aggregate information about our job seeker database, 2) provide Site developers with information that will enable them to develop appropriate content, features and services, and 3) inform you of job opportunities that may interest you. You have two options with respect to privacy when you register on MedHunters:
+
+  1. You can store your résumé in our database but indicate that you would like all of your contact information kept confidential. This means that employers will not be able to see any information by which you could be identified, including your contact information, names of current and past employers and educational institution(s) attended. Employers will only be able to see a profile that contains the job title(s) you have held, years of work experience, the degrees you hold (but not educational institution). Employers will also be able to see your dates of registration and last contact with MedHunters as well as your location of preference. You can use your confidential online résumé to apply for jobs, in which case such application constitutes a release of all your personal information. 
+  2. You can store your résumé in our database and allow it to be searchable by employers. In this case, employers will have access to all of the information you provided to register on MedHunters, including but not limited to your contact information, work history and educational history. 
+
+
+
+You can change your privacy preferences at any time by logging into your MedHunters account or by contacting our Job Seeker Services team at 800-664-0278 or [jobseekers@medhunters.com](mailto:jobseekers@medhunters.com). 
+
+Should you choose to keep all of your information confidential, employers can send you emails through your MyMedHunters account. Your information will only be released when you either send us an email indicating that you would like your information released to a specific employer, or apply directly online to an employer. Online application constitutes a release of your personal information.
+
+Access to our résumé database is restricted only to subscribing employers, law enforcement and national security agencies. MedHunters cannot guarantee that other parties will not gain access to this database. You may remove your résumé from our database at any time or change your privacy preferences. However, employers who currently have access to that database or who have had access to the database in the past, as well as parties who have otherwise gained access to the database, may have retained a copy of your résumé in their own files or databases. We are not responsible for the retention, use or privacy of résumés in these instances.
+
+We may also use, disclose and communicate your personal information if required to do so by the law including by an order of the court.
+
+Your job application history is retained on our system. You are able to see your job application history for six months, to enable you to see which jobs you have recently applied for. Only you personally and MedHunters employees are able to see your job application history. Should you choose to remove your résumé from our database or close your MyMedHunters account, we will remove your résumé, and MyMedHunters profile information from our externally visible system. Please note that a copy of any information that you have provided may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases and is not visible to yourself or to subscribing employers.
+
+Some job postings on the MedHunters Site link directly to the employer¢s web site and require you to enter your information into their system in order to apply. In such cases, you will be providing your résumé directly to the employer and your résumé will be subject to their privacy policy. MedHunters is not responsible for the privacy practices of such employer. 
+
+We may also use your contact information to send you emails about updates to the MedHunters Site or new features or services offered by MedHunters or our business partners or to contact you about your opinion of current products and services or potential future products and services. At the time of registering, you have the option to decline to receive such information from MedHunters. 
+
+We reserve the right to send you certain communications relating to MedHunters, such as service announcements, administrative messages, information about specific job opportunities, and the MedHunters weekly newsletter that are considered part of your MedHunters account, without offering you the opportunity to opt out of them.
+
+Should you choose to submit feedback to MedHunters, such feedback becomes our property and we can use such feedback (such as job seeker testimonials) for marketing purposes or to contact you for further information.
+
+## Links to Other Web Sites
+
+The MedHunters Site contains links to other web sites, including employers, vendors and business partners, over which we have no control. While we try to link only to sites that have high standards and respect for privacy, we are not responsible for the privacy policies nor the content of other sites.
+
+## Discussion Groups
+
+The privacy provisions described in this document apply to the résumé registration and job seeking portion of the MedHunters Site only. When users voluntarily and publicly disclose personal information as part of their participation in a discussion group, the provisions contained in this Privacy Policy do not apply. 
+
+## Cookies
+
+A cookie is a text file that is placed on your hard drive by a Web page server. They are not used to run programs or deliver viruses to your computer. Cookies permit MedHunters to recognize you when you access this Site, thus enabling us to deliver a more personalized Site experience.
+
+Cookies are used to help us measure the number of visits, average time spent, page views, and other statistics relating to your use of this Site. If you are searching, a cookie is used to carry the search request data from the request page to the results page. This cookie, by itself, doesn't tell us your email address or who you are. If you register with MedHunters, cookies assist us in recognize you on subsequent visits and recall your specific information (e.g. user name or password). 
+
+You can adjust the settings on your web browser to decline all cookies, if you prefer. You may also be able to modify your browser settings so that you are notified each time a cookie is tendered and decide to accept or decline it. Declining cookies may hinder the performance of the MedHunters Site.
+
+## Updating your Information
+
+Your personal information is stored on a server located in Toronto, Ontario, Canada. You can access, update, edit or delete your registration information, résumé or cover letter at any time by logging in to your MedHunters account. If you have forgotten your password or user id, if you require assistance using the Site, or if you decide that you no longer wish to receive any updates from MedHunters please contact our Job Seeker Services team at 1-800-664-0278 or send an email to [info@medhunters.com](mailto:info@medhunters.com). If you are unsure whether you have registered with us, please email us at and include all email addresses that you may have used to register.
+
+If you opted to receive newsletters or other communications from MedHunters at the time you registered, but subsequently change your mind, you may opt-out by editing your account profile as described above or by contacting our Job Seeker Services team. If you previously opted not to receive such communications, you may later opt-in by editing your account profile. 
+
+MedHunters reserves the right to inactivate or delete a job seeker file at our discretion.
+
+## Security
+
+MedHunters has implemented reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
+
+We instruct our employees with access to your personal information that it is to be used only in adherence with the principles set forth in this Privacy Policy. Employees who misuse customer personal information may be subject to disciplinary action.
+
+## Children
+
+MedHunters is not intended for use by children. We do not knowingly collect personal information from children.
+
+## Changes to Privacy Policy
+
+Any changes to the Privacy Policy for MedHunters will be posted here. The date at the top of the Privacy Policy indicates the most recent date that the Policy was amended. Please check this date and ensure that you are familiar with the most recent update. We will seek your consent if we want to use your personal information for purposes other than those you have agreed to previously.
+
+Should you have any questions or concerns about MedHunters Privacy Policy, please call us at (416-977-5777 outside of North America) or email us at [info@medhunters.com](mailto:info@medhunters.com).
+
+## Feedback
+
+If you have any questions or comments about this privacy statement, the practices of this Site, or your dealings with this Site, please contact our Privacy Officer, Frank Di Lello at[fdilello@medhunters.com](mailto:fdilello@medhunters.com) or at 1-800-664-0278 (416-977-5777 outside of North America). We will use commercially reasonable efforts to promptly determine and remedy the problem.
