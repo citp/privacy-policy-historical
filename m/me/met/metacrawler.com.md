@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204222017id_/http%3A//www.metacrawler.com/info.metac/search/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610175801id_/http%3A//www.metacrawler.com/info.metac/search/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - MetaCrawler
 
