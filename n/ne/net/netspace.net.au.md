@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netspace.net.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605222011id_/http%3A//sfoa.netspace.net.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netspace.net.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208225425id_/http%3A//sfoa.netspace.net.au/privacy) for the most accurate reproduction.*
 
 # Netspace Online Systems » SFoA » Privacy Policy
 
