@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206175138id_/http%3A//www.hitz.fm/03/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611224900id_/http%3A//www.hitz.fm/03/privacy.asp) for the most accurate reproduction.*
 
 # www.hitz.fm :: Today's Hit Music
 
