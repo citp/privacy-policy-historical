@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the whatifsports.com privacy policy that was archived on 2001-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010805220100id_/http%3A//www.whatifsports.com/locker/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatifsports.com privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409050718id_/http%3A//whatifsports.com/locker/privacy.shtm) for the most accurate reproduction.*
 
 # WhatIfSports.com: Privacy Statement
 
-**
-
-## WhatIfSports.com Statement of Privacy
-
-**
+WhatIfSports Statement of Privacy
 
 The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world--even people you might never have met. It's important to WhatIfSports.com to help its customers retain their privacy when they take advantage of all the Internet has to offer.
 
