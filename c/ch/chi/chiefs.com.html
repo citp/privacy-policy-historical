@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chiefs.com privacy policy that was archived on 2003-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205044210id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chiefs.com privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606070016id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -59,6 +59,7 @@ A.optsel2 {font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#0000
 A.optselwhite {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFFFFF;}
 .optselwhite {font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:none;}
 .pt {text-transform:uppercase; font-size:17px; font-family:Verdana, Geneva, Arial, Helvetica, sans-serif; color:#cc0000; font-weight:bold;}
+.pt2nd {font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: bold;}
 .SLTables TD, .SLTables TH {font-size:16px; font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;}
 .SLTables TD, .SLTables TH {font-size:16px; font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;}
 .SLTables2 TD, .SLTables2 TH {font-size:13px; font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;}
@@ -67,7 +68,7 @@ A.optselwhite {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#
 .SLTables1 a:link, .SLTables2 a:link , .SLTables a:link {color:#000099}
 */
 .bg0 {background-color:#000a78; font-weight:bold; color:#FFFFFF;}
-.bg1 {background-color: #b9b9b9;}
+.bg1 {background-color: #b9b9b9; font-weight:bold;}
 .bg2 {background-color: #ededed;}
 .bg3 {background-color: #ffffff;}
 .bg4 {background-color: #cccccc;}
@@ -75,7 +76,7 @@ A.optselwhite {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#
 .bgF {background-color:#D1EFE3;}
 .bgP {background-color:#FBFBE3;}
 .bgH {background-color:#E9DDC3;}
-.bg0font, .bg0font A, A.bg0font {color:#ffffff;}
+.bg0font, .bg0font A, A.bg0font {color:#ffffff; font-weight:bold;}
 .rrail {background-color:#e5e5e5;}
 /* team page html form pulldoen class */
 .dd {font-size:10px; font-family:verdana, arial, helvetica, sans-serif;}
@@ -140,7 +141,11 @@ form {display:inline;}
 .ffbg {background-color:#dddddd;}
 .cmLff, .cmLff A, .cmLff A:link, .cmLff A:visited {font-size: 10px; font-family: verdana, arial, helvetica, sans-serif; font-weight: bold; color: #234A6C; text-decoration: none; background-color: #E7E7E7;}   
 .cmLff A:hover {color: #a50000;}   
-.cmFAN  {display: inline; position : absolute; visibility : hidden; width : 120; padding : 0; layer-background-color : #234A6C; background-color : #234A6C; z-Index : 2000; }   
+.cmFAN  {visibility : hidden; padding : 0; layer-background-color : #FFFFFF; background-color : #FFFFFF; z-Index : 2000; font-family: Arial, Helvetica, sans-serif; border: 0;}
+.cmFAN DIV {border: 1px solid #000000;}
+.cmFAN DIV A {color: #A50000;}
+.cmFAN DIV A:hover {color: #A50000;}
+.cmFAN DIV A:link {color: #000175;}
 .lnbg0 {background-color: #dddddd;}
 .lnhdg {font-size: 10px; font-family: verdana, arial, helvetica, sans-serif;color: #A50000;font-weight: bold;text-decoration: none;}
 .lntxt {font-size: 13px; font-family: arial, helvetica, sans-serif; color: #000000;}
@@ -159,6 +164,12 @@ form {display:inline;}
 .PUPlayer {font-family:arial,verdana,sans-serif;font-size:12px;color:#000175;text-decoration:underline;cursor:pointer;cursor:hand;}
 .PUNews {font-family:arial,verdana,sans-serif;font-size:12px;color:black;padding:0px 15px 10px 10px}
 
+A:link.commish {color: #cc0000 !important;}
+A:visited.commish {color: #cc0000 !important;}
+A.optselcommish {color: #cc0000; font-weight:bold; text-decoration:none}
+A.optcommish {color: #cc0000}
+option.commish {color: #cc0000;}
+select.commish {color: #cc0000; font-size: 10px; font-family: arial, helvetica, sans-serif; }
 /* end classes for Fantasy */ 
 </style>
 
@@ -180,39 +191,17 @@ function RedirectOldPages() {
 	result = _CUR_URL.match(/\/players\/(\d+)\.htm/);
 	if (result != null) {
 		new_url = "http://www.nfl.com/players/playerpage/" + result[1];
-		location.replace(new_url);		
-	}
+		location.replace(new_url);
+        }
 	
 	// redirect the team pages
 	result = _CUR_URL.match(/\/teams\/([A-Z]{2,3})\.html/);
 	if (result != null) {
 		new_url = "http://www.nfl.com/teams/news/" + result[1];
 		location.replace(new_url);		
-	}	
-
-	// redirect the gamecenters
-	result = _CUR_URL.match(/\/scores\/2002\/preseason\/week([0-3])\/gamecenter\/NFL([A-Z0-9_@]+).htm/);
-	if (result != null) {
-		new_url = "http://www.nfl.com/gamecenter/live/NFL" + result[2];
-		location.replace(new_url);		
-	}	
-
-	// redirect the playbyplay
-	result = _CUR_URL.match(/\/scores\/2002\/preseason\/week([0-3])\/playbyplay\/([A-Z0-9_@]+).htm/);
-	if (result != null) {
-		new_url = "http://www.nfl.com/gamecenter/playbyplay/" + result[2];
-		location.replace(new_url);		
-	}	
-
-	// redirect the scoreboards
-	result = _CUR_URL.match(/\/scores\/2002\/preseason\/([a-z0-3]+)\/index.html/);
-	if (result != null) {
-		new_url = "http://www.nfl.com/scores/2002/preseason/" + result[1];
-		location.replace(new_url);		
-	}	
-
+        }	
 	return;
-}
+    }
 RedirectOldPages();
 
 if(!window.saveInnerWidth) {
@@ -223,20 +212,15 @@ if(!window.saveInnerWidth) {
 
 function resize() {
     if (saveInnerWidth < window.innerWidth || saveInnerWidth > window.innerWidth || saveInnerHeight > window.innerHeight || saveInnerHeight < window.innerHeight ) {
-	        window.history.go(0);
+        window.history.go(0);
     	}
-}
+    }
 		
-function closeWindow() {
-	window.close();
-}
-
+function closeWindow() {window.close();}
 function donothing() {}
-
 function gotosite(site) {
-        if (site != "") {
-                self.location=site; }
-}
+    if (site != "") {self.location=site; }
+    }
 				
 // used for newsletter form on team pages
 function replaceString(oldstr,newstr,fullstr) {
@@ -364,7 +348,7 @@ function isRealOne() {
 			var nPlayerInstalled=2;
 			var i=0;
 			while (navigator.plugins[i]){
-				if ((navigator.plugins[i].name) == 'RealOne Player Version Plugin'){
+                if ((navigator.plugins[i].name=='RealOne Player Version Plugin')||(navigator.plugins[i].name=='RealPlayer Version Plugin')){
 					nPlayerInstalled=1;
 					szPlayerVersion=navigator.plugins[i].description;
 					break;
@@ -460,8 +444,141 @@ function getEl(el) {
         return document.all ? document.all[el] : document.getElementById(el);
 }
 
-//-->
-</script></head><body bgcolor="#FFFFFF" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" text="#000000" link="#000a78"><object id="IERPCtl" width="0" height="0" classid="CLSID:FDC7A535-4070-4B92-A0EA-D9994BCC0DC5"></object> 
+function psuedoGetElementById(elm,d){ 
+    var p,i,x; if(!d) d=document; if((p=elm.indexOf("?"))>0&&parent.frames.length) {
+        d=parent.frames[n.substring(p+1)].document; elm=elm.substring(0,p);
+        }
+    if(!(x=d[elm])&&d.all) x=d.all[elm]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][elm];
+    for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=document.getElementById(elm,d.layers[i].document);
+    return x;
+	}
+	
+function getCoordinates(obj) {
+    var point = { x: 0, y: 0 };
+    while(obj) {
+        point.x += obj.offsetLeft;
+        point.y += obj.offsetTop;
+        obj = obj.offsetParent;
+        }
+    return point;
+    }
+
+function whereami(anchorid) {
+    var locarr = new Array();
+    if(NS4) {
+        if (document.anchors[anchorid]){
+            locarr[0] = document.anchors[anchorid].x;
+            locarr[1] = document.anchors[anchorid].y;
+            }
+        }
+    else if(DOM) {
+        var myanchor = document.getElementById(anchorid);
+        var coordinates = getCoordinates(myanchor)
+        if (myanchor){
+            locarr[0] = coordinates.x;
+            locarr[1] = coordinates.y;
+            }
+        }
+    else {
+	var myanchor = psuedoGetElementById(anchorid);
+    var coordinates = getCoordinates(myanchor)
+    if(myanchor.offsetLeft&&myanchor.offsetTop){
+        locarr[0] = coordinates.x;
+        locarr[1] = coordinates.y;
+        }
+    }
+	return locarr;
+	}
+
+var ddTimer = null;
+var dd_ns4 = (document.layers) ? 1 : 0;
+var dd_ie4 = (document.all) ? 1 : 0;
+var dd_dom = ((document.getElementById) && (!dd_ie4)) ? 1 : 0; // ns6
+
+function ShowLayerFF(showEl,event) {
+    if (showEl == "gnddhome") return;
+    clearTimeout(ddTimer);
+    HideAllLayers();
+
+    if(NS4){var whichEl = document.layers[showEl]}
+    else if(DOM){var whichEl = document.getElementById(showEl);}
+    else {var whichEl = psuedoGetElementById(anchorid);}
+
+    whichAnchor = showEl + "A";
+
+    var coor= new Array();
+    corr = whereami(whichAnchor);
+    cmLeft = corr[0];
+    cmTop = corr[1];
+
+	if (whichEl.style) {
+		if(MAC && IE){
+		cmLeft = whichEl.offsetLeft;
+		cmTop = 4;
+		}
+		if (showEl != 'gnddmore' && showEl != 'gnddfantasy') {
+			if((cmLeft+whichEl.clientWidth)>770){
+			cmLeft=(770-whichEl.clientWidth);
+			}
+		}
+		whichEl.style.left = cmLeft;	
+		whichEl.style.top = cmTop + 18;
+		whichEl.style.visibility = "visible";
+	}
+	else {	
+		whichEl.visibility = "visible";
+		whichEl.top = cmTop + 18;
+                if (showEl != 'gnddmore' && showEl != 'gnddfantasy') {
+			    if((cmLeft+whichEl.width)>770){
+				cmLeft=(770-whichEl.width);
+				}
+                }
+		whichEl.left = cmLeft;
+	} 	
+	cmTop = 0; cmLeft = 0;
+}
+
+
+function HideAllLayers() {
+	if (dd_dom) {
+		var divTemp = document.getElementsByTagName('div');
+		for (i = 0; i < divTemp.length; i++) { 
+			var divString = new String(divTemp[i].id);
+			if (divString.indexOf('gndd') != -1) divTemp[i].style.visibility = "hidden";
+		}
+	}	
+	if (dd_ie4) {
+		var divTemp = document.all.tags("div");
+		for (i = 0; i < divTemp.length; i++) { 
+			var divString = new String(divTemp[i].id);
+			if (divString.indexOf('gndd') != -1) divTemp[i].style.visibility = "hidden";
+		}
+	}
+	if (dd_ns4) {
+		for (i = 0; i < document.layers.length; i++) { 
+			var divString = new String(document.layers[i].name);
+			if (divString.indexOf('gndd') != -1) document.layers[i].visibility = "hidden";
+		}
+	}
+}
+
+function OverLayer() { clearTimeout(ddTimer); isOver = true; }
+
+
+function OutLayer() { 
+	clearTimeout(ddTimer);
+	isOver = false; 
+	ddTimer = setTimeout("HideAllLayers()",300);
+    }
+
+
+// -->
+</script></head><body bgcolor="#FFFFFF" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" text="#000000" link="#000a78"><object id="IERPCtl" width="0" height="0" classid="CLSID:FDC7A535-4070-4B92-A0EA-D9994BCC0DC5"></object>
+
+
+
+
+
 
 
 <link rel="SHORTCUT ICON" href="http://images.nfl.com/favicon.ico">
@@ -470,15 +587,17 @@ function getEl(el) {
 
 	<script language="JavaScript"><!--
 	/*  */
-	var vTag = "helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;myspl=no;fteam=NFL-none;fteam=NBA-none;fteam=MLB-none;fteam=NHL-none;fteam=NCAAF-none;fteam=NCAAB-none;vip=no";
+	var vTag = "helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous";
+        var vTarget = "cust=no;vip=no";
         var pTag = "pop=off";
+        var adExclude = "none";
         var uID = "u=";
 	if (!_mlc) {var _mlc="/nflcom;/other/helpcenter";}
 	if (!_aff) {var _aff="1,59";}else{_aff +=",1,59";}
 	var _acct="DM51072221AE95EN3;DM5108274LMR95EN3";
 	var s_pageName="/help/privacy";
 	var s_server="www.nfl.com";
-	if (!s_pageType) {var s_pageType="";}
+	var s_pageType="";
         var s_hier1="NFL.com:Other:Help Center:/help/privacy";
 	var s_prop1="NFL.com";
 	var s_prop2="Other";
@@ -496,7 +615,7 @@ function getEl(el) {
 	var s_prop14="Unknown";
         var s_prop15="Unknown";
 	var s_prop16="Unknown";
-	var s_prop17="";
+	var s_prop17="Anonymous";
         var s_prop18="";
         var s_prop19="";
         var s_prop20="";
@@ -794,7 +913,7 @@ unn];if(trk&&s_vs(un,sed))code+=s_mr(un,sess,q+(qs?qs:s_rq(un)),ta)
 s_sq(un,trk?'':qs)}return code}function s_dc(un){un=un.toLowerCase()
 s_wds(un);s_ca(un);return s_gs(un)}
 s_code=s_dc(s_account);if(s_code)document.write(s_code)
-//--></script><img name="s_i_cbsnfl" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/cbsnfl/1/G.5-Pd-F/s68798726284303?[AQB]&amp;ndh=1&amp;t=31/0/2020%200%3A3%3A26%205%200&amp;pageName=/help/privacy&amp;server=www.nfl.com&amp;c1=NFL.com&amp;h1=NFL.com%3AOther%3AHelp%20Center%3A/help/privacy&amp;c2=Other&amp;c3=Help%20Center&amp;c8=NFL.com%3AOther%3AHelp%20Center%3A/help/privacy&amp;c9=Other&amp;c10=Anonymous&amp;c11=Unknown&amp;c12=Unknown&amp;c13=Unknown&amp;c14=Unknown&amp;c15=Unknown&amp;c16=Unknown&amp;g=https%3A//web.archive.org/web/20031205044210id_/http%253A//www.nfl.com/help/privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
+//--></script><img name="s_i_cbsnfl" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/cbsnfl/1/G.5-Pd-F/s64943492895297?[AQB]&amp;ndh=1&amp;t=31/0/2020%200%3A3%3A27%205%200&amp;pageName=/help/privacy&amp;server=www.nfl.com&amp;c1=NFL.com&amp;h1=NFL.com%3AOther%3AHelp%20Center%3A/help/privacy&amp;c2=Other&amp;c3=Help%20Center&amp;c8=NFL.com%3AOther%3AHelp%20Center%3A/help/privacy&amp;c9=Other&amp;c10=Anonymous&amp;c11=Unknown&amp;c12=Unknown&amp;c13=Unknown&amp;c14=Unknown&amp;c15=Unknown&amp;c16=Unknown&amp;c17=Anonymous&amp;g=https%3A//web.archive.org/web/20040606070016id_/http%253A//www.nfl.com/help/privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img src="http://cbsnfl.112.2O7.net/b/ss/cbsnfl/1/G.3--NS/0?c1%3DNFL.com%26c2%3DOther%26c3%3DHelp%20Center%26server%3Dwww.nfl.com%26pageName%3D%2Fhelp%2Fprivacy%26c8%3DNFL.com%3AOther%3AHelp%20Center%3A%2Fhelp%2Fprivacy%26c9%3DOther%26c10%3DAnonymous%26c11%3DUnknown%26c12%3DUnknown%26c13%3DUnknown%26c14%3DUnknown%26c15%3DUnknown%26c16%3DUnknown" height="1" width="1" border="0" alt=""></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: G.3. --></td></tr></tbody></table></div>
@@ -805,11 +924,11 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 
 
 
-<!-- _nfl_banner_ad --><table width="772" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff"><tbody><tr><td width="772" height="15" align="right" valign="bottom"><font face="verdana,arial,helvetica" size="1"><b><a href="http://www.sportsline.com/links/3/5/nflcbs.cgi" target="_blank" class="breadc">CBS</a> - <a href="http://www.sportsline.com/links/3/5/nflspln.cgi" target="_blank" class="breadc">CBS SportsLine</a> - <a href="http://www.sportsline.com/links/3/5/nflaol.cgi" target="_blank" class="breadc">AOL</a></b></font></td></tr><tr><td height="5"><spacer type="block" width="15" height="10"></spacer></td></tr><tr><td valign="top" align="center"><script language="JavaScript">
+<!-- _nfl_banner_ad --><table width="772" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff"><tbody><tr><td width="772" height="15" align="right" valign="bottom"><font face="verdana,arial,helvetica" size="1"><b><a href="http://www.cbs.com" target="_blank" class="breadc">CBS</a> - <a href="http://www.sportsline.com" target="_blank" class="breadc">CBS SportsLine</a> - <a href="http://www.aol.com" target="_blank" class="breadc">AOL</a></b></font></td></tr><tr><td height="5"><spacer type="block" width="15" height="10"></spacer></td></tr><tr><td valign="top" align="center"><script language="JavaScript">
 <!--//
 document.write('<script src="http://ad.doubleclick.net/adj/banners.nfl.com/'+vTag+';'+vTarget+';'+pTag+';'+uID+';sz=728x90;tile=1;ord='+random+'?"><\/script>');
 // -->
-</script><script src="http://ad.doubleclick.net/adj/banners.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;myspl=no;fteam=NFL-none;fteam=NBA-none;fteam=MLB-none;fteam=NHL-none;fteam=NCAAF-none;fteam=NCAAB-none;vip=no;seg=nonaol;vt=null;pop=off;u=;sz=728x90;tile=1;ord=5570274717482997?"></script>
+</script><script src="http://ad.doubleclick.net/adj/banners.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;seg=nonaol;cust=no;vip=no;pop=off;u=;sz=728x90;tile=1;ord=8222101561235504?"></script>
 </td></tr><tr><td height="5"><spacer type="block" width="15" height="10"></spacer></td></tr></tbody></table>
              <!-- _nfl_header --><table width="772" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="bottom" align="right"><a href="http://www.sportsline.com/" target="_blank"><img src="http://images.nfl.com/images/powerby_spln.gif" width="275" height="25" alt="Powered by SportsLine.com" border="0"></a></td></tr></tbody></table>
              <table width="772" cellpadding="0" cellspacing="0" border="0">
@@ -835,8 +954,12 @@ document.write('<script src="http://ad.doubleclick.net/adj/banners.nfl.com/'+vTa
     <tbody><tr><td height="0" bgcolor="#FFFFFF"><a href="http://www.nfl.com/"><img src="http://images.nfl.com/images/nflcom_bot.gif" width="130" height="116" alt="NFL.com" border="0"></a></td></tr>
     </tbody></table>
     <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#5961A6">
-<tbody><tr><td height="1" bgcolor="#000000"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln2"><li class="dot"><a href="http://fantasy.nfl.com">FANTASY</a></li></td></tr>
+<tbody><tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
+<tr><td height="18" class="ln2"><li class="dot"><a href="/draft">NFL DRAFT</a></li></td></tr>
+<tr><td height="1" bgcolor="#000000"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="http://www.nfl.com/nfleurope">NFL EUROPE</a></li></td></tr>
+<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="http://www.jointheteam.com">JOIN THE TEAM</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/fieldpass">FIELD PASS</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
@@ -856,6 +979,8 @@ document.write('<script src="http://ad.doubleclick.net/adj/banners.nfl.com/'+vTa
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="http://www.nflshop.com/home/default.cfm?SID=7193">NFL SHOP</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="http://www.nfl.com/probowl/features">PRO BOWL</a></li></td></tr>
+<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 </tbody></table>
 
     <div class="spacer5">&nbsp;</div>
@@ -871,19 +996,15 @@ document.write('<script src="http://ad.doubleclick.net/adj/banners.nfl.com/'+vTa
 <tbody><tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="http://www.playfootball.com">KIDS</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="http://www.profootballhof.com/">HALL OF FAME</a></li></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="http://www.profootballhof.com">HALL OF FAME</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="http://www.nflplayers.com/">NFLPLAYERS.COM</a></li></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="http://www.nflplayers.com">NFLPLAYERS.COM</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="http://www.superbowl.com/">SUPERBOWL.COM</a></li></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="http://www.nfl.com/fantasy">FANTASY</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="http://www.probowl.com/">PRO BOWL</a></li></td></tr>
-<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="http://www.nfleurope.com">NFL Europe</a></li></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="http://www.superbowl.com">SUPERBOWL.COM</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="http://www.nflalumni.org/">NFL ALUMNI</a></li></td></tr>
-<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="http://www.jointheteam.com/">IN THE COMMUNITY</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 </tbody></table>
 <!-- More from NFL.com -->
@@ -892,15 +1013,13 @@ document.write('<script src="http://ad.doubleclick.net/adj/banners.nfl.com/'+vTa
 </tbody></table>
 <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#5961A6">
 <tbody><tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="/rookies">ROOKIES</a></li></td></tr>
-<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="http://www.nfl.com/redir?url=2689">CONTESTS</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="http://www.nflplayerdevelopment.com">PLAYER</a></li></td></tr>
 <tr><td height="18" class="ln"><li class="not"><a href="http://www.nflplayerdevelopment.com">PROGRAMS</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<!-- <tr><td height="18" class="ln"><LI class="dot"><a href="/history">HISTORY</a></td></tr>
-<tr><td height="1"><SPACER TYPE=BLOCK WIDTH=1 height=1></td></tr> -->
+<tr><td height="18" class="ln"><li class="dot"><a href="/history">HISTORY</a></li></td></tr>
+<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/international">INTERNATIONAL</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/ticket">NFL SUNDAY TICKET</a></li></td></tr>
@@ -942,7 +1061,7 @@ document.write('<script src="http://ad.doubleclick.net/adj/banners.nfl.com/'+vTa
 
 
 <a href="http://www.playfootball.com/site/privacy.html">Play football Privacy Policy</a> <b>·</b> 
-<a href="http://www.nflshop.com/Templates/Cm/cssecurity.tem#privacystatements">NFL Shop Privacy Policy</a>
+<a href="http://www.nflshop.com/content/help_privacy.cfm">NFL Shop Privacy Policy</a>
 <p></p>
 
 <font class="lead">
@@ -1083,6 +1202,7 @@ Ft. Lauderdale, Florida 33309
 </font><br>&nbsp;
 
 
+
 <br>&nbsp;
 </p></td>
 <td width="10">&nbsp;</td>
@@ -1092,7 +1212,7 @@ Ft. Lauderdale, Florida 33309
 <!--//
 document.write('<script src="http://ad.doubleclick.net/adj/skyscrapers.nfl.com/'+vTag+';'+vTarget+';'+uID+';sz=160x600;tile=7;ord='+random+'?"><\/script>');
 // -->
-</script><script src="http://ad.doubleclick.net/adj/skyscrapers.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;myspl=no;fteam=NFL-none;fteam=NBA-none;fteam=MLB-none;fteam=NHL-none;fteam=NCAAF-none;fteam=NCAAB-none;vip=no;seg=nonaol;vt=null;u=;sz=160x600;tile=7;ord=5570274717482997?"></script>
+</script><script src="http://ad.doubleclick.net/adj/skyscrapers.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;seg=nonaol;cust=no;vip=no;u=;sz=160x600;tile=7;ord=8222101561235504?"></script>
 
 </td>	
 </tr>
@@ -1104,11 +1224,12 @@ document.write('<script src="http://ad.doubleclick.net/adj/skyscrapers.nfl.com/'
 </tr>
 <tr bgcolor="#000000">
 <td width="5" height="1"><spacer type="block" width="5" height="1"></spacer></td>
-<td valign="top" class="foot">© 2003, NFL Enterprises, L.P. NFL and the NFL shield design are registered trademarks of the National Football League. The team names, logos and uniform designs are registered trademarks of the teams indicated. NFL footage © NFL Productions LLC. <br>&nbsp;<br>&nbsp;</td>
+<td valign="top" class="foot">© 2004, NFL Enterprises, L.P. NFL and the NFL shield design are registered trademarks of the National Football League. The team names, logos and uniform designs are registered trademarks of the teams indicated. NFL footage © NFL Productions LLC. <br>&nbsp;<br>&nbsp;</td>
 
 
 </tr>
 </tbody></table>
+    
     
     
 
