@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202231122id_/http%3A//www.ncspearson.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609052633id_/http%3A//www.ncspearson.com/legal/privacy.htm) for the most accurate reproduction.*
 
-# Pearson Education - NCS Pearson: Privacy Policy
+# Pearson Education - NCS Pearson Privacy Policy
+
+| 
+
+[](http://www.pearsoned.com/)
+
+[NCS Pearson](http://www.ncspearson.com/) is now part of the [Pearson Education](http://www.pearsoned.com/) family. 
+
+|  | 
 
 NCS Pearson, a Pearson Education business, has adopted the following privacy policy statement applicable to the website, www.ncspearson.com, a website designed to supply information about NCS Pearson and its products and services. If you have any questions or concerns about this Privacy Policy, please contact us at [webmaster@ncs.com](mailto:webmaster@ncs.com). 
 
