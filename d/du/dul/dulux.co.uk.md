@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017114926id_/http%3A//www.dulux.co.uk/dFinity/ukretail2/1QJiclojbdh7jimedcanhlcj6djbElng.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603165455id_/http%3A//www.dulux.co.uk/dFinity/ukretail2/1QJiclojbdh7jimedcanhlcj6djbElng.html) for the most accurate reproduction.*
 
-# Dulux UK - interior design and home decorating
+# Interior design, decorating ideas and DIY help from Dulux UK
 
 **Choice and consent.** To respect the purpose for which our site visitors gave us information. We give users choice and consent over how their personal information is used, and remove names immediately upon request.
 
