@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214091059id_/http%3A//www.sickbay.com/healthline/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606123637id_/http%3A//www.sickbay.com/healthline/privacy.html) for the most accurate reproduction.*
 
 # Healthline.com: Health - Fitness - Lifestyle
 
