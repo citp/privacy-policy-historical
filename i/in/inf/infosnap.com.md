@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infosnap.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206030924id_/http%3A//www.infosnap.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosnap.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305013933id_/http%3A//www.infosnap.com/content/privacy.asp) for the most accurate reproduction.*
 
 # infosnap - School Data in a snap
 
