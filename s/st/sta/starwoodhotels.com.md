@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwoodhotels.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211043621id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwoodhotels.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207182652id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
@@ -131,7 +131,7 @@ Data collected by Starwood is an asset. It is possible that Starwood, its subsid
 Questions or comments about Starwood or about our privacy policy should be directed as follows: 
 
 Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](https://web.archive.org/web/20021211043621id_/http%3A//www.starwoodhotels.com/corporate/starwood.preferred.guest@starwoodhotels.com)   
+by e-mail: [starwood.preferred.guest@starwoodhotels.com](https://web.archive.org/web/20030207182652id_/http%3A//www.starwoodhotels.com/corporate/starwood.preferred.guest@starwoodhotels.com)   
 by phone: 1-888-625-4988  
 by fax: 1-512-836-4002  
 by writing to us at:  
@@ -158,7 +158,7 @@ Email communication is sent only to people who have consented to receive email f
 Visitors may receive periodic offers and information from Starwood about our products and services, as well as offers and information from Starwood's carefully selected marketing partners. Visitors may also receive offers and information directly from these selected third parties. Visitors who do not want to receive marketing information from Starwood and/or these third parties in the future, have the option to contact us in order to decline such communication. 
 
 Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](https://web.archive.org/web/20021211043621id_/http%3A//www.starwoodhotels.com/corporate/starwood.preferred.guest@starwoodhotels.com)   
+by e-mail: [starwood.preferred.guest@starwoodhotels.com](https://web.archive.org/web/20030207182652id_/http%3A//www.starwoodhotels.com/corporate/starwood.preferred.guest@starwoodhotels.com)   
 by phone: 1-888-625-4988  
 by fax: 1-512-836-4002  
 by writing to us at:  
