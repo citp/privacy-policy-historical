@@ -1,23 +1,43 @@
-> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604031922id_/http%3A//www.corporateinformation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601133217id_/http%3A//www.corporateinformation.com/privacy.htm) for the most accurate reproduction.*
 
-# Corporate Information -- Statement of Privacy
+# CorporateInformation Privacy Policy
 
-|  [Main Menu](http://www.corporateinformation.com/) · [US Private Cos.](http://www.corporateinformation.com/uspriv.html) · [US Regional Sites](http://www.corporateinformation.com/us/index.html) · [US Sector Sites](http://www.corporateinformation.com/ussector.html) · [Canada](http://www.corporateinformation.com/cacorp.html) · [Mexico](http://www.corporateinformation.com/mxcorp.html) **Privacy Policy**  
+**
 
+**PRIVACY POLICY**  
 
-* * *
+**
 
-|   |  If you browse through CorporateInformation.com, you do so anonymously. We do not make any effort to collect your email address or any other personal information. We do log your IP address (the Internet address of your computer) to give us an idea of which parts of our website you visit and how long you spend there. The only other information we collect is the type of browser you are using, as your browser supplies us with this information automatically. 
+CorporateInformation.com respects the privacy of visitors to this site.  This Privacy Policy applies only to your use of this site.  We have no control over the privacy practices of other sites to which you may link from here. 
 
-Like many other commercial websites, CorporateInformation.com may use a "cookie" to collect information about how you use the site. However, you may instruct your browser not to allow any cookies to be set, and this will not impair your ability to use the site. However, if you choose to use the message boards (which are hosted at a different site and are not directly controlled by CorporateInformation.com), your username will not be automatically recognized and you will be required to manually log in before posting messages. Our advertising agencies may set cookies, but these cookies are not controlled by CorporateInformation.com and your use of the website will not be impaired if you instruct your browser to turn off cookies. 
+**Information We Collect**
 
-The names and contact information of persons who request information about CorporateInformation, its products and/or its services are added to our data base so that they may be contacted in the future regarding our products, services or future opportunities. **Opting Out:** If you have provided us with such contact information, and wish not to be included in our database, please send an email to [support@corporateinformation.com](mailto:support@corporateinformation.com).
+CorporateInformation.com collects only the personal information that you voluntarily and knowingly provide to us.  In order to use our services, we only require your email address and a password.  Any other personal information you choose to provide is purely voluntary and will not affect your use of this site.
 
-We do not sell or rent any information about our visitors, nor do we have any plans to do so in the future. 
+            **How We Use Personal Information**
 
-Some of our advertisements are served through the Sonar Network, which has its own [privacy policy](http://www.sonar.com/content/privacy.htm). 
+            CorporateInformation.com and its affiliates may store and use your personal information for any of the following purposes:
 
-|    
----|---|---  
-  
-Copyright © 2000 by the Winthrop Corporation. All Rights Reserved. Except for quotations by established news media, no pages on this site may be reproduced, stored in a retrieval system, or transmitted for commercial purposes, in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise without prior written permission. Information is believed reliable, but accuracy, completeness and opinions are not guaranteed. 
+            -            To protect against unauthorized access to our site;
+
+            -            To respond to your questions;
+
+-            To inform you of other products and services of our affiliates;
+
+            -            To send you occasional information related to the economy or stock markets;
+
+            \-             To administer the web site.
+
+**_CORPORATEINFORMATION.COM WILL NOT SELL OR LEASE YOUR PERSONAL INFORMATION TO ANY THIRD PARTY.   _**
+
+**Cookies and Statistical Information**
+
+            Like many other web sites, CorporateInformation.com uses “cookies” to facilitate automated activity, to determine how visitors use our web site and to determine which features to add to our web site. If you instruct your browser to disable cookies, you will not be able to access CorporateInformation.com’s extensive database. The data we collect through cookies provides us with important nonpersonal information about how our site is used.  This information may be shared with our advertisers, but only in aggregate form without revealing any personal information about you or any of our visitors.
+
+            **Links**
+
+            CorporateInformation.com contains thousands of links to other web sites.  Since we have no control over such sites, we are not responsible for information you may provide to them, knowingly or otherwise.  Be sure to check the privacy policy of any site asking you for personal information.
+
+            **Changes and Opting Out**
+
+            From time to time, CorporateInformation.com may change this privacy policy.  To keep up-to-date on any changes, please check this site periodically.  If at any time you have a question about this privacy policy or you wish to opt out of access to CorporateInformation.com’s services, please email us at [ci@wisi.com.](mailto:ci@wisi.com)
