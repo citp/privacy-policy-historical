@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altn.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210022403id_/http%3A//www.altn.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altn.com privacy policy that was archived on 2003-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030415145715id_/http%3A//www.altn.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ The individually identifiable information that you provide will be used extensiv
 
 **Opt-Out**
 
-Although many of our feedback forms allow you to opt-out (elect not to participate in certain communications from Alt-N or its partners), there are still some forms which are currently in the process to have the opt-out capability added. However, we will honor your request to be removed from our mailing database at anytime. Simply send an [ email](mailto:webmaster@altn.com) to our webmaster, along with a copy of the communication you received to help facilitate a timely and accurate removal. It is very important to us that you have a positive experience with using altn.com. Please [email](mailto:webmaster@altn.com) our webmaster with any questions or suggestions; we welcome your ideas to help us better serve you. 
+Although many of our feedback forms allow you to opt-out (elect not to participate in certain communications from Alt-N or its partners), there are still some forms which are currently in the process to have the opt-out capability added. However, we will honor your request to be removed from our mailing database at anytime. Simply send an [ email](mailto:webmaster@helpdesk.altn.com) to our webmaster, along with a copy of the communication you received to help facilitate a timely and accurate removal. It is very important to us that you have a positive experience with using altn.com. Please [email](mailto:webmaster@helpdesk.altn.com) our webmaster with any questions or suggestions; we welcome your ideas to help us better serve you. 
 
   
 Current Version: 1.0   
