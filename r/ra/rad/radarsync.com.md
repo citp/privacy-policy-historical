@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radarsync.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206100244id_/http%3A//www.radarsync.com/legal/RadarSyncPrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radarsync.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412193547id_/http%3A//www.radarsync.com/legal/RadarSyncPrivacyStatement.htm) for the most accurate reproduction.*
 
 # RadarSync Privacy Statement
 
