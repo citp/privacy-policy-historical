@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lexar.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204015120id_/http%3A//www.lexar.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexar.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404053557id_/http%3A//www.lexar.com/about/privacy.html) for the most accurate reproduction.*
 
 # Lexar - Privacy Policy
 
-Thank you for visiting Lexar at [www.lexar.com](https://web.archive.org/web/20041204015120id_/http%3A//www.lexar.com/about/index.html). Lexar has adopted this Privacy Statement to explain what personal information we need, why we need it, and how we protect it. The information we collect about you is used to process your order efficiently and to provide you with a personalized and enjoyable online experience. Details about our privacy policy are described below. This policy may change from time to time so please check back periodically. 
+Thank you for visiting Lexar at [www.lexar.com](https://web.archive.org/web/20050404053557id_/http%3A//www.lexar.com/about/index.html). Lexar has adopted this Privacy Statement to explain what personal information we need, why we need it, and how we protect it. The information we collect about you is used to process your order efficiently and to provide you with a personalized and enjoyable online experience. Details about our privacy policy are described below. This policy may change from time to time so please check back periodically. 
 
 **Security:** Lexar utilizes technology, security features, and strict policy guidelines to safeguard the privacy of our customer information. When you place orders or access your account information, we offer the use of a secure server and secure server software (SSL)-based encryption of all information you input. In addition, all customer data we collect is protected against unauthorized access. 
 
