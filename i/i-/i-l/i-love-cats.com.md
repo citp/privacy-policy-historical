@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606040301id_/http%3A//www.i-love-cats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204194535id_/http%3A//www.i-love-cats.com/privacy.html) for the most accurate reproduction.*
 
 # I-Love-Cats.com - Privacy
 
@@ -10,7 +10,7 @@ Our Web site uses a reputable third party to serve the advertisements that you s
 
 We run contests on our site in which we ask visitors for contact information (like email address).
 
-Contact information from the contests is used to get in touch with the visitor when necessary.
+Contact information from the contests is used to get in touch with the visitor when necessary. 
 
 #### External Links
 
