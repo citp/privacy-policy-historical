@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacrossetribune.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605042751id_/http%3A//lacrossetribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrossetribune.com privacy policy that was archived on 2003-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030730063232id_/http%3A//www.lacrossetribune.com/privacy) for the most accurate reproduction.*
 
 # La Crosse Tribune - privacy policy
 
