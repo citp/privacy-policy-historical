@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avoxi.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208140236id_/http%3A//avoxi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avoxi.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611063635id_/http%3A//avoxi.com/privacy.html) for the most accurate reproduction.*
 
 # Avoxi discount international telephony service provider and low cost toll free for businesses anywhere in the world
 
