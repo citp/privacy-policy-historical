@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sentara.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202032033id_/http%3A//www.sentara.com/_private/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sentara.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605114911id_/http%3A//www.sentara.com/_private/privacy.htm) for the most accurate reproduction.*
 
 # Sentara Healthcare - Privacy Statement
 
   
 **Website Privacy Statement**
 
-[To Review Sentara's Integrated Notice of Privacy Practices, [click here](https://web.archive.org/web/20031202032033id_/http%3A//www.sentara.com/_private/notice_privacy_practices.htm).]
+[To Review Sentara's Integrated Notice of Privacy Practices, [click here](https://web.archive.org/web/20040605114911id_/http%3A//www.sentara.com/_private/notice_privacy_practices.htm).]
 
 Sentara Healthcare is dedicated to protecting the privacy of website users. As a user of our website, you will have access to comprehensive information that will help you to understand certain illnesses, find accurate, in-depth details about local services and providers, and take charge of your personal health.
 
@@ -24,7 +24,7 @@ Generally, personal information is not requested or collected. However, some fea
 
 The first time you register, you will be asked to choose a user name and password and provide basic information. Record your password and protect it for future use. If you forget your password, you can reset or change your password online. You have access to your information collected during the registration process, and may choose to update or change your information at anytime with the I.D. and password that you created.
 
-Sentara also collects information that you volunteer through electronic forms such as "[Contact Us](https://web.archive.org/web/20031202032033id_/http%3A//www.sentara.com/contactus/Default.cfm)" and "[Care Options](https://web.archive.org/web/20031202032033id_/http%3A//www.sentara.com/forms/senior_care_options.asp)". For some "transactions" on Sentara.com, certain information is required to process your request. When information is requested from you, Sentara attempts to clearly indicate which information is required and which information is optional. Information collected to process specific transactions is only used for the specific service that you have chosen. However, throughout Sentara's website you are offered opportunities to receive related or general information in the future from Sentara. In cases like these, Sentara will ask for your "permission" to contact you (see next section for more).
+Sentara also collects information that you volunteer through electronic forms such as "[Contact Us](https://web.archive.org/web/20040605114911id_/http%3A//www.sentara.com/contactus/Default.cfm)" and "[Care Options](https://web.archive.org/web/20040605114911id_/http%3A//www.sentara.com/forms/senior_care_options.asp)". For some "transactions" on Sentara.com, certain information is required to process your request. When information is requested from you, Sentara attempts to clearly indicate which information is required and which information is optional. Information collected to process specific transactions is only used for the specific service that you have chosen. However, throughout Sentara's website you are offered opportunities to receive related or general information in the future from Sentara. In cases like these, Sentara will ask for your "permission" to contact you (see next section for more).
 
 Overall, your information is used to maintain accuracy in Sentara's customer files, improve the content of Sentara.com, and enhance Sentara products and services.
 
@@ -80,9 +80,9 @@ To protect your privacy, please do not use email to communicate confidential inf
 ****
 
 **Feedback**  
-If you have comments or suggestions, please [contact us](https://web.archive.org/web/20031202032033id_/http%3A//www.sentara.com/contactus/Default.cfm) by selecting "About this website" from the available options. 
+If you have comments or suggestions, please [contact us](https://web.archive.org/web/20040605114911id_/http%3A//www.sentara.com/contactus/Default.cfm) by selecting "About this website" from the available options. 
 
-Please read our Website [User Agreement](https://web.archive.org/web/20031202032033id_/http%3A//www.sentara.com/_private/disclaimer.html).
+Please read our Website [User Agreement](https://web.archive.org/web/20040605114911id_/http%3A//www.sentara.com/_private/disclaimer.html).
 
 [Last updated March, 2003]
 
