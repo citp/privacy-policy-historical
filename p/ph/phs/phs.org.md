@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the phs.org privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203123000id_/http%3A//www.phs.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phs.org privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/privacy.htm) for the most accurate reproduction.*
 
 # Presbyterian Healthcare Services - Privacy Policy
 
-**      
-Presbyterian Healthcare Services Privacy Policy**
+[](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/index.htm) |   
+---|---  
+  
+**Presbyterian Healthcare Services Privacy Policy**
 
 ****
 
 **What information do we collect and how do we use it?**
 
-We collect two kinds of information from visitors to our website:
+We collect two kinds of information from visitors to our website: 
 
   1. We monitor our website **traffic statistics** , including: 
     * where visitor traffic comes from
@@ -42,12 +44,6 @@ The PHS Babynet site maintains temporary information about infants born at Presb
 
 ****
 
-**Newsletters**
-
-If you sign up to receive a [PHS/drkoop.com newsletter](http://phs.drkoop.com/registration/meta/newslettercode.asp?frompage=homepage) by e-mail, you will receive a newsletter every other week, as well as infrequent other announcements from PHS. You can [change or cancel your subscription](http://phs.drkoop.com/unsubscribe.asp?) at any time.
-
-****
-
 **Other disclosure of personal information**
 
 PHS will not use or disclose your personal information without your consent except as required by law, court order or as requested by other government or law enforcement authorities. 
@@ -75,10 +71,10 @@ Presbyterian Healthcare Services maintains the PHS website. If you have question
 P.O. Box 26666  
 Albuquerque, NM 87125-6666  
 E-mail: [info@phs.org](mailto:info@phs.org)  
-Telephone: 1-505-923-8612
+Telephone: (505) 923-8612
 
 * * *
 
-[Home](https://web.archive.org/web/20010203123000id_/http%3A//www.phs.org/index.htm) | [About PHS](https://web.archive.org/web/20010203123000id_/http%3A//www.phs.org/aboutpres/apabout.htm) | [Health Info](https://web.archive.org/web/20010203123000id_/http%3A//www.phs.org/healthinfo/hihealthinfo.htm) | [Health Plans](https://web.archive.org/web/20010203123000id_/http%3A//www.phs.org/healthplan/hphealthplan.htm) | [Employment](https://web.archive.org/web/20010203123000id_/http%3A//www.phs.org/employment/eoemployment.htm) | [Facilities](https://web.archive.org/web/20010203123000id_/http%3A//www.phs.org/facilities/facfacilities.htm) | [Providers](https://web.archive.org/web/20010203123000id_/http%3A//www.phs.org/providers/prproviders.htm) | [News](https://web.archive.org/web/20010203123000id_/http%3A//www.phs.org/news/nenews.htm) | [Disclaimer](https://web.archive.org/web/20010203123000id_/http%3A//www.phs.org/disclaimer.htm) |  [Sitemap](https://web.archive.org/web/20010203123000id_/http%3A//www.phs.org/sitemap.htm) | [E-mail](https://web1.phs.org/healthplan/hprequest.htm) | [Search](http://www.phs.org:8765/)
+[Home](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/index.htm) | [About PHS](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/aboutpres/apabout.htm) | [Health Info](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/healthinfo/hihealthinfo.htm) | [Health Plans](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/healthplan/hphealthplan.htm) | [Employment](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/employment/eoemployment.htm) | [Facilities](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/facilities/facfacilities.htm) | [Providers](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/providers/prproviders.htm) | [News](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/news/nenews.htm) | [Disclaimer](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/disclaimer.htm) | [Sitemap](https://web.archive.org/web/20011221020747id_/http%3A//phs.org/sitemap.htm) | [E-mail](https://web1.phs.org/healthplan/hprequest.htm) | [Search](http://www.phs.org:8765/)
 
-All content on this site is copyrighted by Presbyterian Healthcare Services. No images or content may be reproduced for commercial use or distribution without the written authorization of PHS. 020101
+All content on this site is copyrighted by Presbyterian Healthcare Services. No images or content may be reproduced for commercial use or distribution without the written authorization of PHS. 121701
