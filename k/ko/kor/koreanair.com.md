@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koreanair.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609144148id_/http%3A//www.koreanair.com/Miscellaneous/btmn_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreanair.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206094007id_/http%3A//www.koreanair.com/Miscellaneous/btmn_privacy.html) for the most accurate reproduction.*
 
 # btmn_privacy
 
@@ -32,6 +32,6 @@ By using KoreanAir.com, we assume that you consent to the collection and use of 
 
 **If your credit card is used without your consent as in the condition described above, you must notify your credit card company according to its reporting procedures and rules.
 
-[](https://web.archive.org/web/20020609144148id_/http%3A//www.koreanair.com/Miscellaneous/btmn_privacy.html#top)
+[](https://web.archive.org/web/20021206094007id_/http%3A//www.koreanair.com/Miscellaneous/btmn_privacy.html#top)
 
-[ ](https://web.archive.org/web/20020609144148id_/http%3A//www.koreanair.com/Miscellaneous/btmn_privacy.html#top)
+[ ](https://web.archive.org/web/20021206094007id_/http%3A//www.koreanair.com/Miscellaneous/btmn_privacy.html#top)
