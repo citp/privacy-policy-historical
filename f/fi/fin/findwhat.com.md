@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findwhat.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614225621id_/http%3A//findwhat.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findwhat.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012033659id_/http%3A//findwhat.com/content/privacy.asp) for the most accurate reproduction.*
 
 # FindWhat.com - Privacy Statement
 
