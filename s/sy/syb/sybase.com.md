@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218111244id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201231756id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
 
 # Sybase Inc. Privacy Policy
 
 **Sybase Privacy Policy**
 
-This statement discloses the privacy practices for [www.sybase.com](http://www.sybase.com/) owned and operated by Sybase, Inc.   Sybase, Inc. abides by the principles within the Safe Harbor Program framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+This statement discloses the privacy practices that apply to the online collection of data obtained on [www.sybase.com](http://www.sybase.com/), owned and operated by Sybase, Inc.   Sybase, Inc. abides by the principles within the Safe Harbor Program framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 Sybase is a member of the TRUSTe program and is strongly committed to protecting your privacy online. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent.
 
@@ -14,11 +14,11 @@ Please read the following privacy policy to understand how your personal informa
 
 The purpose of this Sybase privacy policy is to inform you, as a welcome visitor, what kinds of information we may gather from you when you visit [www.sybase.com](http://www.sybase.com/). We also want to tell you how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
-Finally, please note that this policy applies only to [www.sybase.com](http://www.sybase.com/) and not to other companies' or organizations' Web sites to which we link. This Web site does contain links to other sites. Please note that when you click on one of these links, you are clicking to another Web site. Sybase is not responsible for the privacy practices or content of such Web sites. 
+Finally, please note that this policy applies only to the online collection of data obtained on [www.sybase.com](http://www.sybase.com/) and not to other companies' or organizations' Web sites to which we link. This Web site does contain links to other sites. Please note that when you click on one of these links, you are clicking to another Web site. Sybase is not responsible for the privacy practices or content of such Web sites. 
 
 We encourage you to read the privacy statements of these sites as their privacy statement may differ from ours. Please keep in mind that some of the products or services mentioned specifically in this policy might not be available on all of our international Sybase sites at this time. 
 
-By creating an account with MySybase, or by registering for events, promotions, training classes, product evaluations etc., you thereby grant your consent to the processing of your personal data in accordance with this policy.
+By creating an account with MySybase, or by registering for events, promotions, training classes, product evaluations etc. or by using the Sybase.com/MySybase Web site, you thereby grant your consent to the processing of your personal data in accordance with this policy.
 
 [ ](https://www.truste.org/validate/2334)
 
@@ -30,12 +30,13 @@ By creating an account with MySybase, or by registering for events, promotions, 
 4\. How Sybase uses the personally identifiable information that has been collected;   
 5\. Which 'opt out' options you have as a www.sybase.com user;   
 6\. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information;   
-7\. To whom should questions regarding this disclosure statement be directed   
-8\. How you can access, delete or deactivate MySybase account information and personal profile
+7\. How your credit card information is secured;   
+8\. To whom should questions regarding this disclosure statement be directed;   
+9\. How you can access, delete or deactivate MySybase account information and personal profile
 
 **** 1\. What personally identifiable information does Sybase collect from you? ****
 
-Certain activities on our Web site require the collection of personally identifiable information. Typically, we will collect only your name, company name, email address and other contact information such as phone and fax numbers. When you make a purchase, we will also collect your credit card and shipping information. 
+Certain activities on our Web site require the collection of personally identifiable information. Typically, we will collect only your name, company name, email address and other contact information such as phone and fax numbers. When you make a purchase, we will also collect your credit card, billing and shipping information. 
 
 We may also ask you for your interests and preferences to customize your future visits to our Web site. Sybase collects information in several ways from different parts of the Sybase.com Web site. These include: 
 
@@ -75,7 +76,7 @@ From time to time, a Sybase business partner may wish to offer promotions. Sybas
 We may also share your information with intermediaries such as credit card companies or banks. Intermediaries serve solely as links in the distribution chain, and do not store, retain, or use the information other than to process a transaction. 
 
 ** Legal Obligations**   
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site. 
+We may disclose your personal information to another party, such as law enforcement officials, in order to comply with legal requirements, court orders, government or law enforcement agency requests, to protect or defend Sybase, or where we perceive an immediate danger of death or serious physical injury to someone as a result of activity on our Web sites. Our disclosures may occur under circumstances where we may not be authorized to advise you of such action. 
 
 4\. How does Sybase use the personally identifiable information that has been collected?
 
@@ -83,15 +84,15 @@ Sybase uses personally identifiable information in a limited number of ways. We 
 
 We may, from time to time, send you communications regarding our products and services. You may at any time opt-out from receiving electronic communications as explained below. We do not sell user information to anyone. 
 
-**** 5\. Which 'opt out' options do you have as a **** [ www.sybase.com](http://www.sybase.com/) **** user?
+**** 5\. Which 'opt out' options do you have as a www.sybase.com user?
 
 From the MySybase portion of the site, we provide Web site visitors with the opportunity to opt-out of receiving electronic notifications from www.sybase.com at the point where we request information about you. 
 
-**During registration for a MySybase or eShop account, you can opt out from the following:**
+**During registration for a MySybase account or creation of an e-Shop billing address or order, you can opt out from the following:**
 
   * receiving our electronic newsletters or email notifications
 
-  * receiving order confirmation when purchasing from eShop 
+  * receiving order or shipment confirmations when purchasing from eShop 
 
 
 
@@ -116,24 +117,30 @@ If you have subscribed to one of our electronic newsletters ( i.news), you can c
 
   * technical support cases you logged online 
 
+  * e-Shop automated order cancellation notices 
 
 
 
 **** 6\. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
 
-Your account and personal information are password-protected so that you and only you have access to this information. You may edit your personal information by using your ID and password. Although we cannot ensure or warrant the security of any information you transmit to us or collected from our online products or services, Sybase has taken strong measures to protect the security of this information and to ensure that your choices for its intended use are honored. We continue to make every effort to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Data quality and the security of customer information is communicated throughout the organization as part of HR & IT policy. Access to customer data is limited to individuals within the Sybase Customer Service and Data Quality teams. Credit Card information is only kept in e-shop and our internal customer order entry system. In the internal data entry system, the data field is encrypted. Sybase secures data in e-shop by not letting individuals besides the order administrators have access to the information. Our Web security is monitored by our security team continuously.
+Your account and personal information are password-protected so that you and only you have access to this information. You may edit your personal information by using your ID and password. Although we cannot ensure or warrant the security of any information you transmit to us or collected from our online products or services, Sybase has taken strong measures to protect the security of this information and to ensure that your choices for its intended use are honored. We continue to make every effort to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Data quality and the security of customer information is communicated throughout the organization as part of HR & IT policy. Access to customer data is limited to individuals within the Sybase Customer Service and Data Quality teams. 
 
-**** 7\. To whom should questions regarding this privacy statement be directed 
+**** 7\. How your credit card information is secured 
+
+When purchasing on e-Shop your transaction and credit card information are secured using Secure Socket Layer (SSL) technology and Verisign's Digital ID Certificates. Credit Card information is only kept in e-Shop and our internal customer order entry system. In the internal data entry system, the data field is encrypted. Sybase secures data in e-Shop by not letting individuals besides the order administrators have access to the information. Our Web security is monitored by our security team continuously.
+
+**** 8\. To whom should questions regarding this privacy statement be directed 
 
 Questions regarding this policy should be directed to [privacy@sybase.com](mailto:privacy@sybase.com). We will strive to respond to your requests within 3 business days. 
 
 Or you can mail or fax to:   
 C/O Web Marketing   
-6475 Christie Ave.   
-Emeryville, CA 94608, United States of America   
-Fax No.: 001 510 922 0391 
+5000 Hacienda Drive  
+Dublin, CA 94568 - United States of America  
+Fax No.: 001 925 236 6156  
 
-8\. How can you access, delete or deactivate MySybase account information and personal profile?
+
+9\. How can you access, delete or deactivate MySybase account information and personal profile?
 
 At any time, Sybase provides you with an opportunity to correct or change the information collected during registration for MySybase. This can be done in the edit profile areas of MySybase. Users may change this information at any time and as often as necessary.
 
