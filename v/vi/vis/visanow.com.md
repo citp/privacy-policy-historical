@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204223600id_/http%3A//www.visanow.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604125130id_/http%3A//www.visanow.com/privacy.asp) for the most accurate reproduction.*
 
 # VisaNow.com - Application processing assistance for U.S. Citizenship
 
