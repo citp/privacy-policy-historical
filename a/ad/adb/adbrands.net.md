@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adbrands.net privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204225439id_/http%3A//www.adbrands.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbrands.net privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621202701id_/http%3A//www.adbrands.net/policy.htm) for the most accurate reproduction.*
 
 # Adbrands.net: Privacy Policy
 
@@ -28,4 +28,4 @@ Adbrands.net also manages a separate free mailing list and discussion forum, hos
 
 * * *
 
-_Adbrands.net. All rights reserved © Mind Advertising Ltd 1998-2002_
+_Adbrands.net. All rights reserved © Mind Advertising Ltd 1998-2003_
