@@ -1,52 +1,50 @@
-> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610010020id_/http%3A//netsuite.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009050302id_/http%3A//www.netledger.com/portal/privacy_policy.jsp) for the most accurate reproduction.*
 
-# About Visionael - Online Privacy Statement
+# NetSuite | Privacy Policy
 
-  
-  
-  
-  
-  
-  
-  
-|  [ ](https://web.archive.org/about/index.html)  
-[ ](https://web.archive.org/about/profile.html)  
-[ ](https://web.archive.org/about/execs.html)  
-[ ](https://web.archive.org/contact/world_map.html)  
-[ ](https://web.archive.org/about/careers.html)  
-[ ](https://web.archive.org/about/openings.html)  
-[ ](https://web.archive.org/about/apply.html) |  | 
+NetSuite Privacy Policy  
+NetSuite respects the privacy of anyone who uses a NetSuite Web site (www.netsuite.com, www.netcrm.com, or www.oraclesmallbusiness.com) and a NetSuite online applications (NetSuite, NetCRM, NetSuite, or the Oracle Small Business Suite). 
 
-Visionael is committed to respecting your privacy. We've structured our website so that, in general, you can visit Visionael online without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with Visionael. This statement regarding the privacy of the personally identifiable information you provide online covers five main areas: Awareness, Choice, Third Party Sites, Security, and Oversight. 
+NetSuite gathers important information from our visitors and customers. We publish this Privacy Policy to communicate how we gather and use information about you, how we protect it, and how you can participate in its protection.
 
-**Awareness**  
-Visionael provides this Online Privacy Statement to make you aware of our privacy policy and practices as well as the choices you may make about the way your personal information is collected and used. To make this notice easy to find, we make it available on our homepage and also at the bottom of every Visionael.com web page. This policy may change from time to time so please check back periodically. 
+NetSuite provides its service to you subject to the NetSuite Terms of Service and this Privacy Policy, which shall be deemed part of the Terms of Service. We reserve the right to change this Privacy Policy. If we change it, we will provide notification of the change at least thirty (30) business days before the change takes effect and include directions for how you can respond to the change.
 
-**What we collect**  
-On some Visionael web pages, you may make requests, register to receive materials or take part in various product promotions. The types of personal information collected on these pages are name and contact information. In order to tailor our subsequent communications to you, and continuously improve our products and services, we may also ask you to voluntarily provide us with information regarding your personal or professional interests, demographics, experience with our products and contact preferences. 
+**Collected Information**  
+We require people who register to use a NetSuite online applications (the "Services") to give us contact information. Depending on the services chosen, we ask for contact and account information, such as name, company name, address, phone number, e-mail address, password and the number of users in the organization who will be using the Services, in addition to financial and billing information, such as billing name, address and credit card number. When you express interest in additional information, when you register for the Services, or after you become a user, we may ask for additional personal information, such as title, department name, fax number or additional company information, such as annual revenues, number of employees or industry. You can opt out of providing additional information by not entering it when asked.
 
-Visionael, like many other commercial web sites, uses a standard technology called a "cookie" to collect information about how you use the site. A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Cookies were originally designed to help a web site distinguish a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. You can set your browser to notify you when you receive a cookie, giving you a chance to decide whether to accept it. 
+NetSuite does not distribute or share customer e-mail addresses, except as noted in its Terms of Service, or as may be required by law.
 
-**How we use this information**  
-This information helps us to better understand your needs and provide you with better service. Specifically, we use your information to help you complete a request, to communicate back to you and to update you on service and benefits. From time to time, we may also use your information to contact you for market research or to provide you with marketing information that we believe would be of particular interest. At a minimum, we will always give you the opportunity to opt out of receiving such direct marketing or market research contact. We will also follow local requirements, such as allowing you to opt in before receiving unsolicited contact, where applicable. Data collected online may also be combined with information you provide when you register your ownership of Visionael products. 
+NetSuite uses the information we collect to set up the Services for individuals and their organizations. We may also use the information to contact customers and prospects to further discuss their interest in our company, the Services we provide and ways we can improve them, and to send information such as announcements of promotions and events regarding our company or partners. We may also e-mail a customer newsletter and updates about the Services or the company. You can opt out of receiving these communications by replying to them at the time they are distributed or at any time by e-mailing [support@netsuite.com](mailto:support@netsuite.com).
 
-**Who we share it with**  
-Visionael will not sell, rent or lease your personally identifiable information to others. Unless we have your permission or are required by law, we will only share the personal data you provide online with other Visionael entities and/or business partners who are acting on our behalf for the uses described above. Such Visionael entities and/or business partners, including those in the United States, Europe and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements. 
+All financial and billing information that we collect through a NetSuite Web site and the Services is used solely to bill for the Services. NetSuite does not use this billing information for marketing or promotional purposes. Except as we explicitly state at the time we request information, or as provided for in the NetSuite Terms of Service, we do not disclose to any third party the information provided.
 
-**Choice**  
-Visionael will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us and we will do everything we can to honor such requests. Local country laws and policies are applied where they differ from those in the U.S. 
+NetSuite has referral relationships with third-party companies and individuals ("Referral Partners") who refer their customers to NetSuite. Customers who become paying users of a NetSuite online application through a Referral Partner are considered customers of both NetSuite and the Referral Partner. NetSuite and a Referral Partner may share customer contact as well as account, financial and billing information with respect to their joint business relationship with the customer. The sharing of this information allows NetSuite and the Referral Partner to establish the identity of the shared customer and determine referral fees owed. This sharing also allows Referral Partners to provide consolidated billing services to the shared customer. Shared contact and account, financial and billing information is governed by the NetSuite Terms of Service. NetSuite does not share your business data with Referral Partners.
+
+NetSuite has integration relationships with third-party companies and individuals ("Integration Partners"). These relationships extend the functionality of the Services and the Integration Partner application or service ("Integrated Service") by allowing the Services and the Integrated Service to exchange customer data and to establish linked business processes between the two. Customers who pay NetSuite for use of the Services and use this Integrated Service are considered customers of both NetSuite and the Integration Partner. NetSuite and an Integration Partner may share customer contact, account, financial and billing information, and business data with respect to their integrated business relationship with the customer. The sharing of this information allows NetSuite and the Integration Partner to establish the identity of the shared customer and determine referral fees owed. This sharing also allows the Integration Partner to provide consolidated billing services to the shared customer and allows for the enhanced functionality of the integrated service. Shared contact, account, financial and billing information, and business data is governed by the NetSuite Terms of Service.
+
+NetSuite uses a third-party intermediary to manage credit card processing. This intermediary is solely a link in the distribution chain and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing.
+
+Other third parties, such as content providers, may provide information on a NetSuite Web site, but they are not permitted to collect any information, nor does NetSuite share any personally identifiable user information with these parties.
+
+NetSuite customers use NetSuite online applications to host data and information. NetSuite will not review, share, distribute, print, or reference any such data except as provided in the NetSuite Terms of Service, or as may be required by law. We will view or access individual records only with your permission (for example, to resolve a problem or support issue). Of course, users of the Services are responsible for maintaining the confidentiality and security of their user registration and passwords.
+
+NetSuite may also collect certain information from visitors to a NetSuite Web site and customers of the Services, such as Internet addresses. This information is logged to help diagnose technical problems and to administer the NetSuite Web site and Services in order to constantly improve quality. We may also track and analyze non-identifying and aggregate usage and volume statistical information from visitors and customers and provide such information to third parties.  
+
+
+**Cookies**  
+Cookies are files Web browsers place on a computer's hard drive. They are used to help us authenticate clients and provide timesaving shortcuts and preferences. NetSuite uses a persistent encrypted cookie, if the client requests, to save and retrieve individual authentication information as well as other per-client device preferences. When a visitor follows a link to the NetSuite Web site from an affiliate or promotion, NetSuite stores information about that affiliate or promotion in a session cookie. Acceptance of these cookies is optional. NetSuite issues a mandatory session cookie to each user of the Services only to record encrypted authentication information for the duration of a specific session. If you reject this cookie, access to and usage of the Services will be denied. 
 
 **Third Party Sites**  
-Links to third party web sites on the site are provided solely as a convenience to you. If you use these links, you will leave this site. Visionael has not reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content or their Privacy Policy. Thus, Visionael does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do this entirely at your own risk. 
+The NetSuite Web site and online applications contain links to other Web sites. NetSuite is not responsible for the privacy practices or the content of these other Web sites. Customers and visitors must check the policy statement of these others Web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is your responsibility to keep such information private and confidential. 
 
 **Security**  
-Visionael is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+NetSuite has security measures in place for the Services to help protect against the loss, misuse and alteration of the data under NetSuite's control. When the Services are accessed using Netscape Navigator, or Microsoft Internet Explorer versions 4.0 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure data is safe, secure and available only to you. NetSuite also implements an advanced security method based on dynamic data and encoded session identifications and hosts the Services in a secure server environment using a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, NetSuite requires unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy and ensure the appropriate use of data. 
 
-**Oversight**  
-If you have comments or questions about our privacy policy, please email us at [info@visionael.com](mailto:info@visionael.com).    
+**Opt-Out Policy**  
+NetSuite offers you a means to choose how we may use information you provided. If, at any time after registering for information or ordering the Services, you change your mind about receiving information from us or about sharing information with third parties, send us a request specifying your new choice. Send your request to [support@netsuite.com](mailto:support@netsuite.com). 
 
+**Correcting and Updating Your Information**  
+To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a NetSuite Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [support@netsuite](mailto:support@netsuite.com).com or by calling 877-639-0235. 
 
-* * *
-
-© 2002 Visionael Corporation. All rights reserved.  
-[Home](https://web.archive.org/index.html)  |  [Search](https://web.archive.org/search/search.html)  |  [Feedback](mailto:webmaster@visionael.com)  |  [Privacy Statement](https://web.archive.org/about/privacy.html) |  |    
+**Additional Information**  
+Questions regarding this Privacy Policy or the security practices of the Services should be directed to NetSuite's Security Administrator by e-mailing [security@netsuite.com](mailto:security@netsuite.com). 
