@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204233251id_/http%3A//www.lovehoney.co.uk/includes/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603032105id_/http%3A//www.lovehoney.co.uk/includes/privacy.cfm) for the most accurate reproduction.*
 
 # Sex Toys UK - LoveHoney sexy and secure adult shopping
 
