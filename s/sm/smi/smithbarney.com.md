@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithbarney.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210112326id_/http%3A//www.smithbarney.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithbarney.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202022515id_/http%3A//www.smithbarney.com/privacy.html) for the most accurate reproduction.*
 
 # Internet Privacy Statement
 
