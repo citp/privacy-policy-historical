@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216094317id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2003-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030516150248id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Elite Fitness
 
-[an error occurred while processing this directive] Privacy Statement for Elite Fitness [](https://web.archive.org/ubb/Archives) Elite Fitness has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; Elite Fitness. 
+[](https://web.archive.org/) |  |    
+---|---|---  
+Privacy Statement for Elite Fitness [](https://web.archive.org/ubb/Archives) Elite Fitness has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; Elite Fitness. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
