@@ -1,242 +1,415 @@
-<!--The following is the downloaded HTML source of the amstat.org privacy policy that was archived on 2001-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010815124932id_/http%3A//amstat.org/site/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amstat.org privacy policy that was archived on 2002-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020623041224id_/http%3A//amstat.org/PUBLICATIONS/amstat_online/policy/privacy.html) for the most accurate reproduction.-->
 
-<html><!-- #BeginTemplate "/Templates/level3Template.dwt" --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- #BeginTemplate "/Templates/level3Template.dwt" --><head>
 <!-- #BeginEditable "doctitle" --> 
 <title>Privacy Statement for www.amstat.org</title>
-<meta name="author" content="ASA">
-<meta name="expires" content="Never">
-<meta name="Description" content="Privacy Policy of the American Statistical Association web site">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="American Statistical Association (ASA), Amstat Online. Events, resources, information for 
+statisticians, educators, students.">
+<meta name="keywords" content="statistic, data, statistician, society, education, jobs, careers, JSM, probability, analysis, statistitian,  risk analysis, survey research, stats, amstat online, asa">
+<!-- #EndEditable --> <!-- #BeginEditable "meta-tags" -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="American Statistical Association (ASA), Amstat Online. Events, resources, information for 
+statisticians, educators, students.">
+<meta name="keywords" content="statistic, data, statistician, society, education, jobs, careers, JSM, probability, analysis, statistitian,  risk analysis, survey research, stats, amstat online, asa"><!-- #EndEditable --> 
+<link rel="stylesheet" type="text/css" href="/AmstatOnline.css">
+<script language="javascript" type="text/javascript"><!--//
+function checkOS() {
 
-<!-- #EndEditable --> 
-<link rel="stylesheet" href="/AmstatOnline.css">
+  if(navigator.userAgent.indexOf('Linux') != -1){
+     var OpSys = "Linux";
+  }
+  else{
+     if((navigator.userAgent.indexOf('Win') != -1) &&
+          (navigator.userAgent.indexOf('95') != -1)){
+        var OpSys = "Win";
+     }
+     else{
+        if((navigator.userAgent.indexOf('Win') != -1) &&
+          (navigator.userAgent.indexOf('98') != -1)){
+        var OpSys = "Win";
+        }
+        else{
+           if(navigator.userAgent.indexOf('Win') != -1){
+              var OpSys = "Win";
+           }
+           else{
+              if(navigator.userAgent.indexOf('Mac') != -1){
+                 var OpSys = "Macintosh";
+              }
+              else{
+                 var OpSys = "Other";
+              } 
+           } 
+        } 
+     } 
+  } 
+  return OpSys;
+}
+
+var OpSys = checkOS();
+
+var agt = navigator.userAgent.toLowerCase();
+var is_major = parseInt(navigator.appVersion);
+var is_minor = parseFloat(navigator.appVersion);
+var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+            && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+            && (agt.indexOf('webtv')==-1));
+var is_nav2 = (is_nav && (is_major == 2));
+var is_nav3 = (is_nav && (is_major == 3));
+var is_nav4 = (is_nav && (is_major == 4));
+var is_nav4up = (is_nav && (is_major >= 4));
+var is_navonly = (is_nav && ((agt.indexOf(";nav") != -1) ||
+                      (agt.indexOf("; nav") != -1)) );
+var is_nav5 = (is_nav && (is_major == 5));
+var is_nav5up = (is_nav && (is_major >= 5));
+
+// Note: On IE5, these return 4, so use is_ie5up to detect IE5.
+var is_ie   = (agt.indexOf("msie") != -1);
+var is_ie3  = (is_ie && (is_major < 4));
+var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) );
+var is_ie4up  = (is_ie  && (is_major >= 4));
+var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
+var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4);
+var isIE4, isIE4PC, isNav4PC, isNav4, isNav3;
+
+if(is_ie4 || is_ie4up || is_nav5 || is_nav5up) {
+   isIE4 = true;
+   if(OpSys == "Win" || OpSys == "Macintosh") {
+      isIE4PC = true;
+   }
+}
+else{
+
+   if(is_nav4) {
+      isNav4 = true;
+      if (OpSys == "Win" || OpSys == "Macintosh") {
+         isNav4PC = true;
+      }
+   } 
+   else{
+      if (is_nav) {
+         isNav3 = true;
+      }
+   }
+}
+
+if(OpSys == "Linux"){
+
+   document.write('<link rel="stylesheet" type="text/css" href="/linux.css">');
+}
+else{
+   if(isIE4PC || isNav4PC){
+   document.write('<link rel="stylesheet" type="text/css" href="/win.css">');
+  }
+}
+//-->
+</script><link rel="stylesheet" type="text/css" href="/linux.css">
 </head>
-<body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-<div align="center"> 
-  <table width="602">
-    <tbody><tr> 
-      <td align="center" valign="top"> <img src="/images/topnavbar_2.gif" border="0" alt="Top Navigation Bar" width="602" height="64" usemap="#Map"><map name="Map"><area shape="rect" coords="429,36,474,54" href="/"><area shape="rect" coords="480,37,531,55" href="/search/search.html"><area shape="rect" coords="540,38,593,56" href="/site/feedback.html"></map></td>
-    </tr>
-  </tbody></table>
-  <table width="580">
-    <tbody><tr> 
-      <td><!-- #BeginEditable "Put%20Text%20Here" --> <a name="top"> 
-        <h2 align="center">Privacy Statement for www.amstat.org</h2>
-        </a> 
-        <p align="center">Below: <a href="#optout">Choice/Opt Out</a> | <a href="#contact">Contacting 
-          the Web Site</a>&nbsp;| <a href="#cookies">Cookie Information</a>&nbsp;&nbsp;<a href="#change"><br>
-          Correct/Update User Profile</a> | <a href="#security">Security</a> and 
-          more!<a href="#user"></a></p>
-        
-        <p>The American Statistical Association (ASA) has a strong commitment 
-          to privacy, balanced by a recognition that we are a public association. 
-          This statement discloses policies and procedures concerning information 
-          gathering and dissemination practices for this Web site: <a href="http://www.amstat.org">www.amstat.org</a>.&nbsp; 
-        </p><ul>
-          <li> <a href="#user">User Information</a>&nbsp;</li>
-          <li> <a href="#security">Security</a></li>
-          <li> <a href="#change"> Correct/Update User Profile</a></li>
-          <li> <a href="#optout">Choice/Opt Out</a></li>
-          <li> <a href="#contact">Contacting the Web Site</a></li>
-          <li><a href="#revise">Right to Change Privacy Statement&nbsp;</a></li>
-          <li><a href="#links">Links to Other Sites</a></li>
-          <li><a href="#cookies">Cookie Information</a></li>
-          <li><a href="#future">Possible Future Privacy Policies</a></li>
-        </ul>
-        <hr>
-        <a name="user"> 
-        <h3>User Information</h3>
-        </a> 
-        <p>Users of this Web site may differ in their access or needs. We recommend 
-          that you read this policy in its entirety to understand your and our 
-          responsibilities. We use your IP address to help diagnose problems with 
-          our server and to administer our Web site.&nbsp;</p>
-        <p>The information nn this statement is summarized into two broad headings 
-          -- customer information and member information. Members who place orders 
-          should also read the customer information section. Our site uses cookies 
-          when we need to keep track from one screen to another, such as when 
-          you log in to <a href="/membersonly/">Members Only</a> using a password 
-          or when you use a shopping cart. See below for more <a href="#cookies">information 
-          on cookies</a>.&nbsp; 
-        </p><h4>Customer Information</h4>
-        <p>Our site uses an order form for customers to request information, products, 
-          and services. We collect visitors' contact information (such as name 
-          and email address) and financial information (such as account or credit 
-          card numbers). Financial information that is collected is used to bill 
-          the user for products and services. Contact information from the order 
-          form is used to send orders, information about our association, and 
-          promotional material from some of our partners to our customers. This 
-          contact information is also used to get in touch with the customer when 
-          necessary. Users may opt out of receiving future mailings; see the <a href="#optout">choice/opt 
-          out section</a> below.</p>
-        <h4>Member Information</h4>
-        <p>Members' contact information is made available through the Member Directory. 
-          Members' contact information is shared with other organizations that 
-          promote statistics or professional development of statisticians. Members 
-          may opt out of receiving future mailings or listing in the Member Directory; 
-          see the <a href="#optout">choice/opt out section</a> below.&nbsp;</p>
-        <h3><a name="security"></a>Security</h3>
-        <p>This site has security measures in place to protect against the loss, 
-          misuse, and alteration of the information under our control. Member 
-          personal information is behind a firewall, modifiable by each member 
-          only by password access through secure forms pages. Member Directory 
-          information is not accessible by search engines that hunt for HTML pages.</p>
-        <p>Secured Server Certificate from VeriSign, Inc. is utilized to identify 
-          your secured connection to our Web site. Personal information ("Basic 
-          Contact Information") collected through our site are entered and transmitted 
-          over Secure Socket Layer (SSL) with a maximum encryption strength of 
-          128-bit, which creates an encrypted session between the user browser 
-          and the Web server.</p>
-        <h3><a name="change"></a>Correct/Update</h3>
-        <p>Members can change their address and related information at <a href="/membersonly/default.asp"> 
-          www.amstat.org/membersonly/default.asp</a></p>
-        <p>Members and other customers can send corrections to ASA by email (<a href="mailto:asainfo@amstat.org">asainfo@amstat.org</a>) 
-          or by regular mail (<a href="#contact">address below</a>).</p>
-        <a name="optout"> 
-        <h3>Choice/Opt Out</h3>
-        </a> 
-        <p>Our site provides users the opportunity to opt out of (e.g. stop or 
-          discontinue) receiving communications from us and our partners at the 
-          point where we request information about the visitor. This site gives 
-          users the following options for removing their information from our 
-          database so as to not receive future communications or to no longer 
-          receive our service.</p>
-        <ol>
-          <li>Members can visit the following URL: <a href="/membersonly/">https://www.amstat.org/MembersOnly</a></li>
-          <li>Members and customers can send mail to the following postal address:&nbsp;</li>
-          <address>WebMaster, American Statistical Association, 1429 Duke St., 
-          Alexandria, VA 22314-3402, USA</address>
-        </ol>
-        <a name="contact"> 
-        <h3>Contacting the Web Site</h3>
-        </a> 
-        <p>If you have any questions about this privacy statement, the practices 
-          of this site, or your dealings with this Web site, you can contact&nbsp;</p>
-        <p>WebMaster <br>
-          American Statistical Association <br>
-          1429 Duke St. <br>
-          Alexandria, VA 22314-3402, USA</p>
-        <address> Telephone 888-231-3473&nbsp;or 703-684-1221</address>
-        <address> <a href="mailto:webmaster@amstat.org">webmaster@amstat.org</a></address>
-        <p>Also you can contact Customer Service with any questions about ASA: 
-          <a href="mailto:asainfo@amstat.org">asainfo@amstat.org</a>. Street address 
-          and phone number are the same as above.</p>
-        <h3><a name="revise"></a>Right to Change Privacy Statement</h3>
-        <p>This policy may be revised over time as new features are added to the 
-          Web site. We will post those changes prominently so that you will always 
-          know what information we gather, how we might use that information, 
-          and whether we will disclose it to anyone. Please check this site for 
-          information about revisions to our privacy policy.</p>
-        <h3><a name="links"></a><b>Links to Other Sites</b></h3>
-        <p>This site contains links to other sites. The American Statistical Association 
-          is not responsible for the privacy practices or the content of such 
-          other Web sites. We encourage you to read the privacy statements of 
-          each and every Web site that collects your personally identifiable information.</p>
-        <a name="cookies"> 
-        <hr>
-        <h3>Cookie Information</h3>
-        </a> 
-        <p>The American Statistical Association uses cookies on this Web site, 
-          <a href="/index.html">www.amstat.org</a>, when we need to keep track 
-          from one screen to another, such as when you log in to <a href="https://www.amstat.org/membersonly/">Members 
-          Only</a> using a password or when you use a shopping cart. A "magic 
-          cookie" is a datum sent by our Web server to your Web browser, 
-          stored in RAM while your browser is in use, or in a file called something 
-          like "cookies" on your machine. Cookies helps keep track of 
-          your Web session with <a href="/index.html">www.amstat.org</a>.&nbsp; 
-        </p><p>Cookies store information that the Web site uses. Some of this information 
-          (e.g., last visited Web site, your IP address, the browser and version 
-          you use) are available to ANY Web site you visit, regardless of your 
-          security settings. This information is built into the Internet and its 
-          communication methods and protocols. Generally, you cannot stop this 
-          information from going out. Other information is gathered by user input, 
-          typically by forms. In other words, a cookie will not know your home 
-          phone number unless you give that information to a form or other input 
-          device on a Web site.</p>
-        <p>Some sites are now using cookies to differentiate between repeat users 
-          and new users rather than going by general "hit" statistics, 
-          which are not very specific. In this way, a Web site administrator can 
-          form a clearer picture of how the site is used. Cookies cannot access 
-          any other file on your computer. Cookies created by one site will only 
-          work with that specific site. Site A, for example, cannot read cookies 
-          generated by Site B and then use that information for purposes for which 
-          it was not originally intended.</p>
-        <p>It is the express policy of <a href="/index.html">www.amstat.org</a> 
-          that data generated by cookies and related databases will be used only 
-          in aggregate form for the purpose of improving the site and site-related 
-          services for users. Information from individual cookies will only be 
-          accessible to Web site administrators within the ASA office. The aggregated 
-          data compiled via cookies and related databases are considered confidential 
-          and will not be provided to entities outside of the organization under 
-          any circumstances. Our cookies crumble after 24 hours.&nbsp;</p>
-        <p>You can manage cookies if you edit your browser Preferences/Internet 
-          Options (check the Advanced features). You can also periodically remove 
-          the cookies file on your machine. However, if you disallow cookies, 
-          you may disable access to advanced functionality on our Web site (<a href="#memcookie">members: 
-          see next paragraph</a>). For more information on cookies, consult the 
-          Help button of your browser or visit other information sources such 
-          as the <a href="http://www.epic.org/privacy/internet/cookies/">EPIC 
-          Cookies Page</a> or <a href="http://www.cookiecentral.com/">Cookie Central</a>. 
-          See also the <a href="http://www.tltc.ttu.edu/Library/cookies.htm">list 
-          of cookies pages at Texas Tech University</a>. 
-        </p><p><a name="memcookie"></a><b>ASA members</b>: Cookies are NOT used to 
-          verify your authority to access the <a href="https://www.amstat.org/membersonly/">Members 
-          Only</a> area of our website. However, they ARE used once the authorization 
-          has been verified to allow you access to each of page in <a href="https://www.amstat.org/membersonly/">Members 
-          Only</a>, and access to secure committee or other official pages where 
-          you serve as an officer. In other words, your password is not contained 
-          in a cookie, but your authority level is. Your authority to view each 
-          page in the member's area is verified at the time you access that page. 
-          While you can access the <a href="https://www.amstat.org/membersonly/">Members Only</a> area 
-          of our website without cookies, the quality of your session may be reduced 
-          if they are prohibited.<br>
-        </p>
-        <hr>
-        <h3>Possible Future Privacy Policies</h3>
-        <p>The policies below are in development, pending use of this web site 
-          for other activities that might affect privacy. If you have any comments, 
-          please feel free to share them with <a href="mailto:webmaster@amstat.org">webmaster@amstat.org</a>.</p>
-        <h4>Surveys</h4>
-        <p>Our online surveys may ask visitors for contact information (such as 
-          email address) and demographic information (like their zip code, age, 
-          or income level). Responses are kept confidential and are not provided 
-          to any third party. If the survey is at the request of a third party 
-          who will receive the information, the survey will prominently identify 
-          the name and link to their privacy policy. We may use contact date from 
-          our surveys to send the user information about our association. Users 
-          may opt out of receiving future mailings; see the <a href="#optout">choice/opt 
-          out section</a>. Demographic and profile data may be collected at our 
-          site. This information is shared with advertisers on an aggregate basis.</p>
-        <h4>Public Forums</h4>
-        <p>This site may make chat rooms, list servers, forums, message boards, 
-          and/or news groups available to its members. Please remember that any 
-          information that is disclosed in these areas becomes public information 
-          and you should exercise caution when deciding to disclose your personal 
-          information.</p>
-        <p><a href="#top">Top of page</a></p>
-        <p>&nbsp;</p><!-- #EndEditable --></td>
-    </tr>
-  </tbody></table>
-  <table width="600">
-    <tbody><tr> 
-      <td> 
-        <p align="center">[<a href="/profession/index.html">Statistics and the 
-          Statistics Profession</a>] [<a href="/about/index.html">About ASA</a>] 
-          [<a href="/profession/feedback.html">Contact ASA </a>]<br>
-          [<a href="/directories.html">ASA Directories</a>] [<a href="/meetings/index.html">Meetings</a>] 
-          [<a href="/publications/index.html">Publications</a>] [<a href="/opportunities/index.html">Statistics 
-          Job Site</a>] <br>
-          [<a href="/education/profdev.html">Professional Development</a>] [<a href="/education/index.html">Center 
-          for Statistics Education</a>]<br>
-          [<a href="/related/index.html">Links &amp; Resources</a>] [<a href="/search/search.html">Search 
-          this Site</a>] </p>
-        <p align="center" class="copyright"><a href="/site/copyright.html"><font size="2">Copyright</font></a> 
-          <font size="2">©2000 American Statistical Association </font> 
-      </p></td>
-    </tr>
-  </tbody></table>
-</div>
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" link="#999999" vlink="#999999" alink="#999999" text="#000000">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td bgcolor="#990033"> 
+      <div align="center"><a name="top"></a><img src="../../../images/head.gif" width="600" height="43" alt="American Statistical Association"> 
+      </div>
+    </td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000"> 
+      <table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tbody><tr> 
+          <td width="150"> 
+            <div align="center"><a class="offwhite" href="/chapters/"><b>Chapters</b></a> 
+            </div>
+          </td>
+          <td width="150"> 
+            <div align="center"><b><a class="offwhite" href="/comm/">Committees</a></b> 
+            </div>
+          </td>
+          <td width="150"> 
+            <div align="center"><b><a class="offwhite" href="/sections/index.html">Sections</a></b> 
+            </div>
+          </td>
+          <td width="150"> 
+            <div align="center"><b><a class="offwhite" href="/index.html">Home</a></b> 
+            </div>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr> 
+    <td valign="top" colspan="3"> <div align="left"><br>
+      </div>
+      <!-- #BeginEditable "Enter%20text%20here" --> 
+<h2 align="center">Privacy Statement for www.amstat.org</h2><p align="center">Below: 
+<a href="#optout">Choice/Opt Out</a> | <a href="#contact">Contacting the Web Site</a>&nbsp;| <a href="#cookies">Cookie Information</a>&nbsp;&nbsp;<a href="#change"> <br> Correct/Update 
+User Profile</a> | <a href="#security">Security</a> and more!<a href="#user"></a></p><p>This 
+Web site wants to demonstrate its commitment to your privacy. We disclose information 
+practices below concerning:</p><ol> <li>What personally identifiable information 
+of yours or third party personal identification is collected from you through 
+the web site</li><li>The organization collecting the information </li><li>How 
+the information is used </li><li>With whom the information may be shared </li><li>What 
+choices are available to you regarding collection, use and distribution of the 
+information </li><li>The kind of security procedures that are in place to protect 
+the loss, misuse or alteration of information under ASA control </li><li>How you 
+can correct any inaccuracies in the information. </li></ol><p>If you have questions 
+or concerns regarding this statement, please contact the ASA webmaster by email 
+at <a href="mailto:webmaster@amstat.org">webmaster@amstat.org</a> or by phone, 
+(703) 684-1221.</p><hr align="center" width="60%"> <p>The American Statistical 
+Association (ASA) has a strong commitment to privacy, balanced by a recognition 
+that we are a public association. This statement discloses policies and procedures 
+concerning information gathering and dissemination practices for this Web site: 
+<a href="http://www.amstat.org">www.amstat.org</a>.&nbsp; </p><ul> <li> <a href="#user">User 
+Information</a>&nbsp;</li><li> <a href="#security">Security</a></li><li> <a href="#change"> 
+Correct/Update User Profile</a></li><li> <a href="#optout">Choice/Opt Out</a></li><li> 
+<a href="#contact">Contacting the Web Site</a></li><li><a href="#revise">Right 
+to Change Privacy Statement&nbsp;</a></li><li><a href="#links">Links to Other 
+Sites</a></li><li><a href="#cookies">Cookie Information</a></li><li><a href="#future">Possible 
+Future Privacy Policies</a></li></ul><hr> <a name="user"> <h3>User Information</h3></a> 
+<p>Users of this Web site may differ in their access or needs. We recommend that 
+you read this policy in its entirety to understand your and our responsibilities. 
+We use your IP address to help diagnose problems with our server and to administer 
+our Web site.&nbsp;</p><p>The information nn this statement is summarized into 
+two broad headings -- customer information and member information. Members who 
+place orders should also read the customer information section. Our site uses 
+cookies when we need to keep track from one screen to another, such as when you 
+log in to <a href="https://www.amstat.org/membersonly/">Members Only</a> using 
+a password or when you use a shopping cart. See below for more <a href="#cookies">information 
+on cookies</a>.&nbsp; </p><h4>Customer Information</h4><p>Our site uses an order form 
+for customers to request information, products, and services. We collect visitors' 
+contact information (such as name and email address) and financial information 
+(such as account or credit card numbers). Financial information that is collected 
+is used to bill the user for products and services. Contact information from the 
+order form is used to send orders, information about our association, and promotional 
+material from some of our partners to our customers. This contact information 
+is also used to get in touch with the customer when necessary. Users may opt out 
+of receiving future mailings; see the <a href="#optout">choice/opt out section</a> 
+below.</p><h4>Member Information</h4><p>Members' contact information is made available 
+through the Member Directory. Members' contact information is shared with other 
+organizations that promote statistics or professional development of statisticians. 
+Members may opt out of receiving future mailings or listing in the Member Directory; 
+see the <a href="#optout">choice/opt out section</a> below.&nbsp;</p><h3><a name="security"></a>Security</h3><p>This 
+site has security measures in place to protect against the loss, misuse, and alteration 
+of the information under our control. Member personal information is behind a 
+firewall, modifiable by each member only by password access through secure forms 
+pages. Member Directory information is not accessible by search engines that hunt 
+for HTML pages.</p><p>Secured Server Certificate from VeriSign, Inc. is utilized 
+to identify your secured connection to our Web site. Personal information ("Basic 
+Contact Information") collected through our site are entered and transmitted over 
+Secure Socket Layer (SSL) with a maximum encryption strength of 128-bit, which 
+creates an encrypted session between the user browser and the Web server.</p><h3><a name="change"></a>Correct/Update</h3><p>Members 
+can change their address and related information at <a href="https://www.amstat.org/membersonly/"> 
+www.amstat.org/membersonly/</a></p><p>Members and other customers can send corrections 
+to ASA by email (<a href="mailto:asainfo@amstat.org">asainfo@amstat.org</a>) or 
+by regular mail (<a href="#contact">address below</a>).</p><a name="optout"> <h3>Choice/Opt 
+Out</h3></a> <p>Our site provides users the opportunity to opt out of (e.g. stop 
+or discontinue) receiving communications from us and our partners at the point 
+where we request information about the visitor. This site gives users the following 
+options for removing their information from our database so as to not receive 
+future communications or to no longer receive our service.</p><ol> <li>Members 
+can visit the following URL: <a href="https://www.amstat.org/membersonly">https://www.amstat.org/MembersOnly</a></li><li>Members 
+and customers can send mail to the following postal address:&nbsp;</li>
+        <address>Webmaster, American Statistical Association, 1429 Duke St., Alexandria, 
+        VA 22314-3402, USA</address>
+      </ol><a name="contact"> 
+<h3>Contacting the Web Site</h3></a> <p>If you have any questions about this privacy 
+statement, the practices of this site, or your dealings with this Web site, you 
+can contact&nbsp;</p>
+      <p>Webmaster <br>
+         American Statistical Association <br> 1429 
+Duke St. <br> Alexandria, VA 22314-3402, USA</p><address> Telephone 888-231-3473&nbsp;or 
+703-684-1221</address><address> <a href="mailto:webmaster@amstat.org">webmaster@amstat.org</a></address><p>Also 
+you can contact Customer Service with any questions about ASA: <a href="mailto:asainfo@amstat.org">asainfo@amstat.org</a>. 
+Street address and phone number are the same as above.</p><h3><a name="revise"></a>Right 
+to Change Privacy Statement</h3><p>This policy may be revised over time as new 
+features are added to the Web site. We will post those changes prominently so 
+that you will always know what information we gather, how we might use that information, 
+and whether we will disclose it to anyone. Please check this site for information 
+about revisions to our privacy policy.</p><h3><a name="links"></a><b>Links to 
+Other Sites</b></h3><p>This site contains links to other sites. The American Statistical 
+Association is not responsible for the privacy practices or the content of such 
+other Web sites. We encourage you to read the privacy statements of each and every 
+Web site that collects your personally identifiable information.</p><a name="cookies"> 
+<hr> <h3>Cookie Information</h3></a> <p>The American Statistical Association uses 
+cookies on this Web site, <a href="/index.html">www.amstat.org</a>, when we need 
+to keep track from one screen to another, such as when you log in to <a href="https://www.amstat.org/membersonly/">Members 
+Only</a> using a password or when you use a shopping cart. A "magic cookie" 
+is a datum sent by our Web server to your Web browser, stored in RAM while your 
+browser is in use, or in a file called something like "cookies" on your 
+machine. Cookies helps keep track of your Web session with <a href="/index.html">www.amstat.org</a>.&nbsp; 
+</p><p>Cookies store information that the Web site uses. Some of this information 
+(e.g., last visited Web site, your IP address, the browser and version you use) 
+are available to ANY Web site you visit, regardless of your security settings. 
+This information is built into the Internet and its communication methods and 
+protocols. Generally, you cannot stop this information from going out. Other information 
+is gathered by user input, typically by forms. In other words, a cookie will not 
+know your home phone number unless you give that information to a form or other 
+input device on a Web site.</p><p>Some sites are now using cookies to differentiate 
+between repeat users and new users rather than going by general "hit" 
+statistics, which are not very specific. In this way, a Web site administrator 
+can form a clearer picture of how the site is used. Cookies cannot access any 
+other file on your computer. Cookies created by one site will only work with that 
+specific site. Site A, for example, cannot read cookies generated by Site B and 
+then use that information for purposes for which it was not originally intended.</p><p>It 
+is the express policy of <a href="/index.html">www.amstat.org</a> that data generated 
+by cookies and related databases will be used only in aggregate form for the purpose 
+of improving the site and site-related services for users. Information from individual 
+cookies will only be accessible to Web site administrators within the ASA office. 
+The aggregated data compiled via cookies and related databases are considered 
+confidential and will not be provided to entities outside of the organization 
+under any circumstances. Our cookies crumble after 24 hours.&nbsp;</p><p>You can 
+manage cookies if you edit your browser Preferences/Internet Options (check the 
+Advanced features). You can also periodically remove the cookies file on your 
+machine. However, if you disallow cookies, you may disable access to advanced 
+functionality on our Web site (<a href="#memcookie">members: see next paragraph</a>). 
+For more information on cookies, consult the Help button of your browser or visit 
+other information sources such as the <a href="http://www.epic.org/privacy/internet/cookies/">EPIC 
+Cookies Page</a> or <a href="http://www.cookiecentral.com/">Cookie Central</a>. 
+See also the <a href="http://www.tltc.ttu.edu/Library/cookies.htm">list of cookies 
+pages at Texas Tech University</a>. </p><p><a name="memcookie"></a><b>ASA members</b>: 
+Cookies are NOT used to verify your authority to access the <a href="https://www.amstat.org/membersonly/">Members 
+Only</a> area of our website. However, they ARE used once the authorization has 
+been verified to allow you access to each of page in <a href="https://www.amstat.org/membersonly/">Members 
+Only</a>, and access to secure committee or other official pages where you serve 
+as an officer. In other words, your password is not contained in a cookie, but 
+your authority level is. Your authority to view each page in the member's area 
+is verified at the time you access that page. While you can access the <a href="https://www.amstat.org/membersonly/">Members 
+Only</a> area of our website without cookies, the quality of your session may 
+be reduced if they are prohibited.<br> </p><hr> <h3>Possible Future Privacy Policies</h3><p>The 
+policies below are in development, pending use of this web site for other activities 
+that might affect privacy. If you have any comments, please feel free to share 
+them with <a href="mailto:webmaster@amstat.org">webmaster@amstat.org</a>.</p><h4>Surveys</h4><p>Our 
+online surveys may ask visitors for contact information (such as email address) 
+and demographic information (like their zip code, age, or income level). Responses 
+are kept confidential and are not provided to any third party. If the survey is 
+at the request of a third party who will receive the information, the survey will 
+prominently identify the name and link to their privacy policy. We may use contact 
+date from our surveys to send the user information about our association. Users 
+may opt out of receiving future mailings; see the <a href="#optout">choice/opt 
+out section</a>. Demographic and profile data may be collected at our site. This 
+information is shared with advertisers on an aggregate basis.</p><h4>Public Forums</h4><p>This 
+site may make chat rooms, list servers, forums, message boards, and/or news groups 
+available to its members. Please remember that any information that is disclosed 
+in these areas becomes public information and you should exercise caution when 
+deciding to disclose your personal information.</p><p> This page was constructed 
+with assistance from <a href="http://www.truste.org/">TRUSTe</a>. However, the American Statistical Association 
+(ASA) no longer is a licensee of the TRUSTe Privacy Program. <!-- #EndEditable --> 
+      </p><hr> <div align="right"><a href="#top">Back to top</a> </div>
+      <form method="post" action="http://www.amstat.org/cgi-bin/fastnav.pl">
+        <p><b><font color="#990033">Jump to:</font> </b> 
+          <select name="url">
+            <option value="http://www.amstat.org/" selected="">Amstat Home</option>
+            <option value="http://www.amstat.org/comm/index.cfm?fuseaction=commdetails&amp;txtComm=BBNGV06">Board 
+            of Directors</option>
+            <option value="http://www.amstat.org/about/OrgRoster/index.cfm?fuseaction=chapters">Chapters</option>
+            <option value="http://www.amstat.org/about/orgroster/index.cfm?fuseaction=comm">Committees</option>
+            <option value="http://www.amstat.org/about/corporate-supporters.cfm">Corporate 
+            Supporters</option>
+            <option value="http://www.amstat.org/about/institutional-members.cfm">2-yr 
+            &amp; 4-year Colleges</option>
+            <option value="http://www.amstat.org/about/school-members.cfm">K-12 
+            School Members</option>
+            <option value="http://www.amstat.org/membersearch/default.asp">Membership 
+            Directory</option>
+            <option value="http://www.amstat.org/related/otherdir.html">COPSS</option>
+            <option value="http://www.amstat.org/about/OrgRoster/index.cfm">Organizational 
+            Roster</option>
+            <option value="http://www.amstat.org/about/orgroster/index.cfm?fuseaction=sections">Sections</option>
+            <option></option>
+            <option style="background-color:#cccccc" value="http://www.amstat.org/about/index.html">About 
+            ASA</option>
+            <option value="http://www.amstat.org/about/index.html#vision">-&nbsp;ASA's 
+            Vision Statement</option>
+            <option value="http://www.amstat.org/about/index.html#membership">-&nbsp;ASA 
+            Membership</option>
+            <option value="http://www.amstat.org/about/index.html#activities">-&nbsp;ASA 
+            Activities &amp; Organizations</option>
+            <option value="http://www.amstat.org/membersearch/index.cfm">-&nbsp;Membership 
+            Directory</option>
+            <option></option>
+            <option style="background-color:#cccccc" value="http://www.amstat.org/pressroom/index.html">Press 
+            Room</option>
+            <option value="http://www.amstat.org/pressroom/pressreleases.html">-&nbsp;Press 
+            Releases</option>
+            <option value="http://www.amstat.org/pressroom/publications.html">-&nbsp;Publications 
+            of Interest</option>
+            <option></option>
+            <option style="background-color:#cccccc" value="http://www.amstat.org/careers/index.html">Career 
+            Center</option>
+            <option value="http://www.amstat.org/advertising/eejss.html">-&nbsp;ASA 
+            JobWeb</option>
+            <option value="http://www.amstat.org/careers/index.html#about">-&nbsp;About 
+            Careers</option>
+            <option value="http://www.amstat.org/careers/index.html#brochures">-&nbsp;Brochures</option>
+            <option value="http://www.amstat.org/careers/index2.html">-&nbsp;Career 
+            Articles</option>
+            <option></option>
+            <option style="background-color:#cccccc" value="http://www.amstat.org/profession/">Professional 
+            Needs</option>
+            <option value="http://www.amstat.org/profession/ethicalstatistics.html">-&nbsp;Ethical 
+            Guidelines</option>
+            <option value="http://www.amstat.org/profession/index.html#opps">-&nbsp;Opportunities</option>
+            <option value="http://www.amstat.org/profession/index.html#salary">-&nbsp;Salary 
+            Info</option>
+            <option></option>
+            <option style="background-color:#cccccc" value="http://www.amstat.org/education/index.html">Education</option>
+            <option value="http://www.amstat.org/education/index.html">-&nbsp;What's 
+            New?</option>
+            <option value="http://www.amstat.org/education/index.html#K12">-&nbsp;K-12</option>
+            <option value="http://www.amstat.org/education/index.html#Undergraduate">-&nbsp;Undergraduate</option>
+            <option value="http://www.amstat.org/education/index.html#Graduate">-&nbsp;Postgraduate</option>
+            <option></option>
+            <option style="background-color:#cccccc" value="http://www.amstat.org/government/index.htm">Government</option>
+            <option></option>
+            <option style="background-color:#cccccc" value="http://www.amstat.org/meetings/index.html">Meetings</option>
+            <option value="http://www.amstat.org/meetings/index.html#jsm">-&nbsp;Joint 
+            Statistical Meetings</option>
+            <option value="http://www.amstat.org/meetings/index.html#other">-&nbsp;Other 
+            Meetings</option>
+            <option></option>
+            <option style="background-color:#cccccc" value="http://www.amstat.org/publications/index.html">Publications</option>
+            <option value="http://www.catchword.com/asa/titles.htm">-&nbsp;Electronic 
+            Access</option>
+            <option value="http://www.amstat.org/publications/asajournals.html">-&nbsp;Journals</option>
+            <option value="http://www.amstat.org/publications/index.html#books">-&nbsp;Books</option>
+            <option value="http://www.amstat.org/advertising/">-&nbsp;Advertise</option>
+            <option></option>
+            <option style="background-color:#cccccc" value="http://www.amstat.org/asa_store/">ASA 
+            Marketplace</option>
+            <option value="http://www.amstat.org/membership/join.html">-&nbsp;Join 
+            the ASA</option>
+            <option value="http://www.amstat.org/asa_store/index.cfm?fuseaction=login">-&nbsp;Renew 
+            your Membership</option>
+            <option value="http://www.amstat.org/publications/">-&nbsp;Order Publications</option>
+            <option value="http://www.amstat.org/membership/souvenirs.pdf">-&nbsp;Order 
+            Souvenirs &amp; Gifts</option>
+            <option></option>
+            <option value="http://www.amstat.org/dateline/">Calendar of Events</option>
+            <option value="http://www.amstat.org/related/index.html">Related Links</option>
+            <option value="http://www.amstat.org/site/contacts.html">Contacts</option>
+            <option value="http://www.amstat.org/site/sitemap.html">Site Map</option>
+            <option value="http://www.amstat.org/faq/index.cfm">FAQ</option>
+            <option value="http://www.amstat.org/publications/amstat_online/policy/privacy.html">Privacy 
+            Policy</option>
+            <option value="http://www.amstat.org/publications/amstat_online/policy/disclaimer.html">Disclaimer</option>
+            <option value="https://www.amstat.org/membersonly">Members Only</option>
+          </select>
+          <input type="submit" value="Go">
+          <a href="http://www.amstat.org/">Home</a> | <a href="/site/sitemap.html">Site 
+          Map</a> | <a href="/faq/index.cfm">FAQ</a></p>
+      </form>
+      <p> <a class="normal" href="/site/copyright.html">Copyright</a> | <a class="normal" href="/publications/amstat_online/policy/privacy.html">Privacy 
+        Statement</a> | <a class="normal" href="/publications/amstat_online/policy/disclaimer.html">Disclaimer</a><font size="1" face="Verdana, Helvetica, Arial"><br>
+        © 2002 American Statistical Association. All Rights Reserved.<br>
+        Upgrading to the latest version of browser software <a href="http://www.microsoft.com/windows/ie/">Microsoft</a>, 
+        <a href="http://www.netscape.com/download/">Netscape</a>, or <a href="http://www.opera.com/download">Opera</a> 
+        may enhance your online experience.</font></p></td>
+  </tr>
+</tbody></table>
 
 <!-- #EndTemplate -->
-
 </body></html>
