@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603223826id_/http%3A//www.access.gpo.gov/su_docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217220441id_/http%3A//www.access.gpo.gov/su_docs/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
@@ -12,12 +12,15 @@
 |  | ****
 
 ****[Home](http://www.access.gpo.gov/su_docs/index.html) | **Privacy** | [Site Search](http://www.access.gpo.gov/su_docs/search.html) | [Help](http://www.access.gpo.gov/su_docs/help.html) | [Comments](http://www.access.gpo.gov/su_docs/amail001.shtml?/privacy.html)  
-[Site Contents](http://www.access.gpo.gov/su_docs/alphabet.html) | [What's New](http://www.access.gpo.gov/su_docs/newnote.html) | [Online Bookstore](http://bookstore.gpo.gov/) | [Finding Aids](http://www.access.gpo.gov/su_docs/tools.html) | [Library Services](http://www.access.gpo.gov/su_docs/fdlp/libpro.html)
+[Site Contents](http://www.access.gpo.gov/su_docs/alphabet.html) | [What's New](http://www.access.gpo.gov/su_docs/newnote.html) | [Online Bookstore](http://bookstore.gpo.gov/index.html) | [Finding Aids](http://www.access.gpo.gov/su_docs/tools.html) | [Library Services](http://www.access.gpo.gov/su_docs/fdlp/libpro.html)
 
 This World Wide Web (WWW) site is provided as a public service by the U.S Government Printing Office (GPO). We believe that a significant part of this service is the assurance of user privacy and security. To protect user privacy, we adhere to the following:
 
-  * For statistical purposes, GPO collects the following data: the IP address from which users access our Web site, the date and time of their visits, the URLs of the pages that they view as well as WAIS searches and retrievals [_(See example)_](http://www.access.gpo.gov/su_docs/privexample.html). We use the aggregate statistics to make improvements to _GPO Access_ , not to identify individual users or their searches. We do not enable cookies¹ to monitor usage or to gather users’ personal information.
+  * For statistical purposes, GPO collects the following data: the IP address from which users access our Web site, the date and time of their visits, the URLs of the pages that they view as well as WAIS searches and retrievals [_(See example)_](http://www.access.gpo.gov/su_docs/privexample.html). We use the aggregate statistics to make improvements to _GPO Access_ , not to identify individual users or their searches.
 
+
+
+  * GPO does not enable cookies¹ to monitor usage or to gather users’ personal information; however, "session cookies" are used to aid in the selection of items on the U.S. Government Online Bookstore. To take full advantage of the shopping cart features on the U.S. Government Online Bookstore, users must have session cookies enabled on their browser. Session cookies disappear from the user's computer when an Internet session ends.
 
 
   * Personal information submitted by a user in a comment or question via phone, fax, or e-mail is not distributed to parties outside of GPO.
@@ -43,5 +46,5 @@ This World Wide Web (WWW) site is provided as a public service by the U.S Govern
 
 * * *
 
-A service of the Superintendent of Documents, [U.S. Government Printing Office](http://www.gpo.gov/).  
+A service of the Superintendent of Documents, [U.S. Government Printing Office](http://www.gpo.gov/index.html).  
 Questions or comments: [gpoaccess@gpo.gov](http://www.access.gpo.gov/su_docs/amail001.shtml?privacy.html).
