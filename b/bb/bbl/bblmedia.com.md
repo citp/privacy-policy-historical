@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bblmedia.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202044448id_/http%3A//bblmedia.com/disclaimer_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bblmedia.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612054052id_/http%3A//bblmedia.com/disclaimer_privacy_policy.html) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy - www.bblmedia.com - About The Webmaster2003
 
@@ -18,16 +18,20 @@ I HAVE ALSO CREATED MANY DIFFERENT "NICHE MARKET" SITES WITHIN THE BBLMEDIA.COM 
 
 [**NETSPORTS PRO INTERACTIVE SPORTS CENTER**](http://bblmedia.com/sports/)
 
+[**CYBERMARKETERS BLOGGER**](http://www.bblmedia.com/blogger.html)   My First Blogger which I share with the Spepper Boys!
+
 * * *
 
-[****WWW.DENVERBROWN.COM****](http://www.denverbrown.com/) **   This is my friend George Kieffer's site which he publishes for the benefit of his fellow workers at UPS. I am one of them by the way, and George is my Union Steward. The site is updated monthly, and has been in publication since June, 2003. All past issues are archived online. DenverBrown.Com is steadily getting more and more attention and visitors, and that is due to it's excellent content. If you have ever wondered what it is like to be a UPS Driver, definately have a look at this site. I was proud to be of assistance to George when he initially set the domain up. It's one site I read clear through every month! 
+[****WWW.DENVERBROWN.COM****](http://www.denverbrown.com/) **   This is my friend George Kieffer's site which he publishes for the benefit of his fellow workers at UPS. I am one of them by the way, and George is my Union Steward. The site is updated monthly, and has been in publication since June, 2003. All past issues are archived online. DenverBrown.Com is steadily getting more and more attention and visitors, and that is due to it's excellent content. If you have ever wondered what it is like to be a UPS Driver, definately have a look at this site. George and I have been UPS Drivers for over 25 years. UPS is the blessing, and the malediction in one BIG PACKAGE!
+
+* * *
+
+* * *
+
+[**Donald Rumsfeld For President?**](http://www.omegaexecutive.com/donald_rumsfeld_for_president.html) Check out one of my Son's pages with an idea of who might make a good President for our great country. I love the quote on the top of the page! Do you remember when he said that? 
 
 * * *
 
 [**CLICK HERE TO CONTACT ME BY EMAIL**](mailto:webmaster@bblmedia.com?subject=Website%20Feedback%20-%20Attention%20Franklin)    (FEEDBACK IS ALWAYS WELCOME) 
-
-****
-
-[](http://click.linksynergy.com/fs-bin/click?id=XkibDBozQMM&offerid=20594.10000108&type=4&subid=0)     [](http://bblmedia.com/bike_e.html)     [](http://www.originalspepper.com/testimonials.html)     [](http://www.bblmedia.com/)
 
 **
