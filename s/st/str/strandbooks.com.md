@@ -1,27 +1,80 @@
-> *The following text is extracted and transformed from the strandbooks.com privacy policy that was archived on 2004-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040823104429id_/http%3A//www.strandbooks.com/help/%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strandbooks.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308152927id_/http%3A//www.strandbooks.com/help/%3Fs%3Dprivacy) for the most accurate reproduction.*
 
-# Strand Book Store- Used, New, Rare and Out of Print
+# Strand Bookstore: 18 miles of Books
 
-Privacy
+  |  | strandbrowse  
+---  
+[All Subjects](https://web.archive.org/browse/)
 
-Strand Book Store respects your privacy. We collect information to improve your shopping experience, and we want you to know that we maintain and use this information responsibly. Here are the details about the information that we collect about you. 
+[Americana](https://web.archive.org/browse/?subject_id=1)  
+[Art/Architecture](https://web.archive.org/browse/?subject_id=2)  
+[Audio Books](https://web.archive.org/browse/?subject_id=22)  
+[Business/Econ.](https://web.archive.org/browse/?subject_id=3)  
+[Childrens](https://web.archive.org/browse/?subject_id=4)  
+[Food/Wine](https://web.archive.org/browse/?subject_id=5)  
+[Fiction](https://web.archive.org/browse/?subject_id=6)  
+[Film/Drama](https://web.archive.org/browse/?subject_id=7)  
+[History](https://web.archive.org/browse/?subject_id=8)  
+[Literature](https://web.archive.org/browse/?subject_id=9)  
+[Medical/Health](https://web.archive.org/browse/?subject_id=10)  
+[Military](https://web.archive.org/browse/?subject_id=11)  
+[Music/Dance](https://web.archive.org/browse/?subject_id=12)  
+[New York](https://web.archive.org/browse/?subject_id=13)  
+[Philosophy](https://web.archive.org/browse/?subject_id=14)  
+[Photography](https://web.archive.org/browse/?subject_id=15)  
+[Poetry](https://web.archive.org/browse/?subject_id=16)  
+[Sports](https://web.archive.org/browse/?subject_id=80)  
+[Reference](https://web.archive.org/browse/?subject_id=23)  
+[Religion](https://web.archive.org/browse/?subject_id=18)  
+[Science/Math](https://web.archive.org/browse/?subject_id=19)  
+[Social Science](https://web.archive.org/browse/?subject_id=60)  
+[Transportation](https://web.archive.org/browse/?subject_id=20)  
+  
+strandfeatures  
+[Best Sellers](https://web.archive.org/booklist/?listid=bestseller&page=0)  
+[Just Arrived](https://web.archive.org/newbooks/)  
+[Fine & Rare Editions](https://web.archive.org/rare/)  
+[StrandWear](https://web.archive.org/nonbooks/)  
+[Gift Cards](https://web.archive.org/gift/)  
+  
+strandpicks  
+[Half-Price New Books](https://web.archive.org/booklist/?listid=Half-Price_New_Releases&page=0)  
+[Chess Specials](https://web.archive.org/booklist/?listid=chess&page=0)  
+[Short Story Essentials](https://web.archive.org/booklist/?listid=shortstory&page=0)  
+[Masters of Photography](https://web.archive.org/booklist/?listid=photo_list&page=0)  
+[NY Times Best of 2004](https://web.archive.org/booklist/?listid=nytyear&page=0)  
+  
+strandservices  
+[Books by the Foot](https://web.archive.org/bbtfoot/)  
+[Library Services](https://web.archive.org/libserv/)  
+[Join Our Mailing List](https://web.archive.org/maillist/)  
+  
+strandinfo  
+Locations  
+[Contact Us](https://web.archive.org/contact/)  
+[About Us](https://web.archive.org/aboutus/)  
+[Web Services](https://web.archive.org/developer/)  
+  
+[](http://www.abaa.org/)  
+  | 
 
-Registration
+privacy notice
 
-You are not required to register with Strand Book Store. If you decide to place and order and make a purchase, we will request billing and shipping address information, so that we may deliver your order to the requested address. We will ask for payment information. In the event that you use a credit card, we will need the Card Type, Cardholder Name, Card Number and Expiration Date for payment processing. We will not share this information with anyone. 
+  * **Privacy**
 
-Express Checkout Account
+Strand Book Store respects your privacy. We collect information to improve your shopping experience, and we want you to know that we maintain and use this information responsibly. Here are the details about the information that we collect about you.
 
-To expedite future purchases and to take advantage of special features on the Strandbooks.com site, you may create an [Express Checkout](https://web.archive.org/help/#express) account by providing an e-mail address and a password. By doing so, your order history and payment information will be available to you at any time. We will not share your order history or payment details with any third party or outside company. You can edit or delete your personal information at any time by providing your password at the "My Account" page. If you forget your password, you can request that it be emailed to your email address. We will not give passwords out over the telephone, nor will we email them to a different email address than the one you used to register. If you request to have your password emailed to you, your credit card information will be deleted from your profile. 
+  * **Registration**
 
-E-mail Promotions
+You are not required to register with Strand Book Store. If you decide to place and order and make a purchase, we will request billing and shipping address information, so that we may deliver your order to the requested address. We will ask for payment information. In the event that you use a credit card, we will need the Card Type, Cardholder Name, Card Number and Expiration Date for payment processing. We will not share this information with anyone.
 
-If you give us your e-mail address, we will only use that e-mail address to keep you informed of order/shipment details. If you wish to receive promotional e-mail from Strand Book Store, you must check the promotional e-mail box on the "My Account" page. We will not share your e-mail address with anyone. To remove yourself from our e-mail list please send us an e-mail to [delete@strandbooks.com](mailto:delete@strandbooks.com?subject=Delete%20e-Mail) from the e-mail address that you would like us to remove. 
+  * **E-mail Promotions**
 
-Catalogs
+If you give us your e-mail address, we will only use that e-mail address to keep you informed of order/shipment details. If you wish to receive promotional e-mail from Strand Book Store, you must subscribe to our mailing list at [Join Our Mailing List](https://web.archive.org/maillist/). We will not share your e-mail address with anyone. You can also remove yourself from our mailing list on the same page.
 
-When you request a free catalog you will receive the latest Strand Book Store catalog by mail. We periodically make our postal list available for single-use by a few carefully screened firms. At your request we will not share your postal address with anyone. If you decide to give us your telephone number in the ordering process, we will use that number only if we need to contact you regarding the specifics of that order. We will not use your telephone number for any promotion. We will not share your telephone number with anyone. 
-
-To change your postal address with us
+  * **To change your postal address with us**
 
 please send an e-mail to [change@strandbooks.com](mailto:change@strandbooks.com?subject=Change%20Address)
+
+
+|  
