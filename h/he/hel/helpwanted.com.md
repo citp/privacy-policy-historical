@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpwanted.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611171731id_/http%3A//helpwanted.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpwanted.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204163958id_/http%3A//www.helpwanted.com/Privacy.asp) for the most accurate reproduction.*
 
 # Helpwanted.com - Privacy Statement
 
