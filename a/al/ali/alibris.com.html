@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alibris.com privacy policy that was archived on 2001-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010331105535id_/http%3A//www2.alibris.com/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alibris.com privacy policy that was archived on 2001-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217214939id_/http%3A//www.alibris.com/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso8859-1">
@@ -26,14 +26,55 @@
 				.newclass { letter-spacing: 1px }
 				a:hover { arial: text-decoration : none }-->
 			</style>
-			</head>
+			
+
+<script language="JavaScript">
+<!--
+//for deactivating nav email submission where field is empty
+function navcheckEmail(navForm) {
+	var newstring = navForm.email.value.replace(/\s/g, "");
+	if (newstring.length) return true;
+	else return false;
+}
+
+var isNetscape = false;
+var isIE = false;
+var isWhoKnows = false;
+
+//This determines which browser the user is using
+if (parseInt(navigator.appVersion) >= 4) {
+  if(navigator.appName == "Netscape") {
+    isNetscape = true;
+  }else if (navigator.appName == "Microsoft Internet Explorer"){
+    isIE = true;
+  }else {
+    isWhoKnows = true;
+  }
+}
+
+//This stuff captures the events of the user
+if(isNetscape) {
+	document.captureEvents(Event.KEYUP);
+}
+
+//for enabling ENTER button to submit quick search in Netscape
+function entsub(event,ourform) {
+	if(isNetscape) {
+		if (event && event.which == 13)
+			ourform.submit();
+		else
+			return true;
+	}
+}
+//-->
+</script>
+	</head>
 
 <body bgcolor="white" topmargin="0" rightmargin="0" leftmargin="0" marginheight="0" marginwidth="0" link="#336699" alink="#6699CC" vlink="#003366">
 
 
 <font color="#000000">
 <!--Top Nav Starts-->
-
 
 		<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tbody><tr>
@@ -47,14 +88,7 @@
 							<tr>
 								
 								<td>
-									
-										<iframe src="http://ad.doubleclick.net/adi/alibrisstd.aj.com/default;cat=edu_;cat=trvl;cat=shop;sz=468x60;ord=0004A667-B7AD-1AC5-BEB080C418CEFD2B?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-											<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/alibrisstd.aj.com/default;abr=!ie;sz=468x60;ord=27393766160366428?"></SCRIPT>
-											<NOSCRIPT>
-												<A HREF="http://ad.doubleclick.net/jump/alibrisstd.aj.com/default;abr=!ie;cat=edu_;cat=trvl;cat=shop;sz=468x60;ord=0004A667-B7AD-1AC5-BEB080C418CEFD2B?"><IMG SRC="http://ad.doubleclick.net/ad/alibrisstd.aj.com/default;abr=!ie;cat=edu_;cat=trvl;cat=shop;sz=468x60;ord=0004A667-B7AD-1AC5-BEB080C418CEFD2B?" border=0 height="60" width="468"></A>
-											</NOSCRIPT>
-										</iframe>
-									
+									<a href="/share/tellafriend.cfm"><img src="/images/promos/Friend_2B.gif" height="60" width="468" alt="Tell a friend about Alibris!" border="0"></a> 
 								</td>
 							</tr>
 							<tr>
@@ -80,7 +114,7 @@
 		<map name="home_nav">
 			<area alt="Alibris Home" coords="36,22,165,44" href="http://www.alibris.com/home.cfm" shape="RECT">
 			<area alt="for Collectors" coords="165,14,296,44" href="http://www.alibris.com/collectors/collectors-home.cfm" shape="RECT">
-			<area alt="for Librarians" coords="295,19,429,44" href="http://www.alibris.com/librarians/librarians-home.cfm" shape="RECT">
+			<area alt="for Libraries" coords="295,19,429,44" href="http://www.alibris.com/librarians/librarians-home.cfm" shape="RECT">
 		</map>
 		<map name="home_nav_bottom">
 			<area alt="Message boards" coords="0,0,105,17" href="http://www.alibris.com/boards/boards-home.cfm?S=R">
@@ -89,7 +123,7 @@
 		</map>
 		<map name="shoppingcart">
 			<area alt="Shopping Cart" shape="rect" coords="1,9,135,33" href="http://www.alibris.com/search/cart.cfm?S=R">
-			<area alt="Help" shape="rect" coords="1,35,135,56" href="http://alibris.custhelp.com">
+			<area alt="Help" shape="rect" coords="1,35,135,56" href="http://www.alibris.com/help/help-home.cfm?S=R">
 			<area alt="Your Account" shape="rect" coords="1,58,135,82" href="https://www.alibris.com/account/login.cfm?S=R">
 		</map>
 
@@ -111,53 +145,74 @@
 			<tr>
 				<td width="8"></td>
 				<td width="179" valign="top">
+					
 					<table border="0" cellpadding="0" cellspacing="0" width="179">
 						<tbody><tr>
-							<td colspan="5"><img height="31" width="179" src="/images/nav/alibris_home/search_blue.gif"></td>
+							<td colspan="8"><img height="54" width="179" src="/images/nav/alibris_home/search_blue2.gif"></td>
 						</tr>
 						<tr>
-							<td width="8"><img height="10" width="8" src="/images/elements/spacer.gif"></td>
-							<td width="1" bgcolor="#dbdbb2"><img height="1" width="1" src="/images/elements/spacer.gif"></td>
-							<td width="15"><img height="10" width="15" src="/images/elements/spacer.gif"></td>
-							<td width="154"><font color="#006600" size="1">
-								<table border="0" cellpadding="0" cellspacing="0" width="103">
+							<td width="12"><img height="10" width="12" src="/images/elements/spacer.gif"></td>
+							<td width="2" bgcolor="#999966"><img height="1" width="2" src="/images/elements/spacer.gif"></td>
+							<td width="2" bgcolor="white"><img height="1" width="1" src="/images/elements/spacer.gif"></td>
+							<td width="11" bgcolor="#ededdb"><img height="10" width="12" src="/images/elements/spacer.gif"></td>
+							<td bgcolor="#ededdb">
+								
+								
+								<form action="http://www.alibris.com/search/search.cfm" method="post" name="navsearch">
+								<input type="hidden" name="S" value="R">
+								<input type="hidden" name="quicksearch" value="yes">
+								
+								<table border="0" cellpadding="0" cellspacing="0">
 									<tbody><tr>
-										<td><img height="8" width="15" src="/images/elements/spacer.gif"></td>
-										<td><img height="8" width="15" src="/images/elements/spacer.gif"></td>
+										<td colspan="2"><img height="8" width="15" src="/images/elements/spacer.gif"></td>
 									</tr>
-									
-									<form action="http://www.alibris.com/search/search.cfm" method="post"></form>
-									<input type="hidden" name="S" value="R">
-									<input type="hidden" name="quicksearch" value="yes">
 									<tr>
-										<td><span class="blue-header"><input type="text" name="searchquery" size="13"></span></td>
-										<td><input type="image" name="Go" height="19" width="32" src="/images/buttons/button_go.gif" border="0" alt="Go!"></td>
+										<td><input type="text" name="qtit" size="11" onkeypress="return entsub(event,this.form);"><br>
+										<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1">by title</font></td>
+										<td valign="top" align="right"><input type="image" name="Go" height="18" width="32" src="/images/buttons/button_go2.gif" border="0" alt="Go!"></td>
 									</tr>
 									<tr height="6">
-										<td height="6"><img height="6" width="10" src="/images/elements/spacer.gif"></td>
-										<td height="6"><img height="6" width="10" src="/images/elements/spacer.gif"></td>
+										<td height="6" colspan="2"><img height="6" width="10" src="/images/elements/spacer.gif"></td>
 									</tr>
+									
 									<tr>
-										<td colspan="2"><input type="radio" value="Title" name="searchtype" checked=""><font color="black" face="Arial,Helvetica,Geneva" size="1">by title</font></td>
-									</tr>
-									<tr>
-										<td colspan="2"><input type="radio" value="Author" name="searchtype"><font color="black" face="Arial,Helvetica,Geneva" size="1">by author</font></td>
+										<td colspan="2"><input type="text" name="qauth" size="11" onkeypress="return entsub(event,this.form);"><br>
+										<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1">by author</font></td>
 									</tr>
 									<tr>
 										<td colspan="2"><img height="6" width="10" src="/images/elements/spacer.gif"></td>
 									</tr>
+									<tr>
+										<td colspan="2"><input type="text" name="qtopic" size="11" onkeypress="return entsub(event,this.form);"><br>
+										<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1">by subject</font></td>
+									</tr>
 									
+									<tr>
+										<td colspan="2" align="left" height="10">
+											<font color="#003300" face="Arial,Helvetica,Geneva" size="1"><a href="http://www.alibris.com/search/search.cfm?S=R">more search options</a></font>
+											<img height="10" width="1" src="/images/elements/spacer.gif"></td>
+									</tr>
 								</tbody></table>
-								<font color="#003300" face="Arial,Helvetica,Geneva" size="1"><a href="http://www.alibris.com/search/search.cfm?S=R">more search options</a></font><br>
-								<br>
-								<img height="1" width="154" src="/images/elements/spacer.gif"></font></td>
-							<td width="1" bgcolor="#dbdbb2"><img height="1" width="1" src="/images/elements/spacer.gif"></td>
+							</form></td>
+							<td width="2" bgcolor="#ededdb"><img height="10" width="9" src="/images/elements/spacer.gif"></td>
+							<td width="2" bgcolor="white"><img height="10" width="2" src="/images/elements/spacer.gif"></td>
+							<td width="2" bgcolor="#999966"><img height="10" width="2" src="/images/elements/spacer.gif"></td>
 						</tr>
-						<tr height="1">
-							<td width="8" height="1"><img height="1" width="8" src="/images/elements/spacer.gif"></td>
-							<td colspan="4" width="171" height="1" bgcolor="#dbdbb2"><img height="1" width="171" src="/images/elements/spacer.gif"></td>
+						
+					
+						<tr height="10">
+							<td valign="top" colspan="4" rowspan="3" align="right"><img src="/images/nav/alibris_home/search_corner_left.gif" width="27" height="14" border="0"></td>
+							<td height="10" bgcolor="#ededdb"><img height="1" width="139" src="/images/elements/spacer.gif"></td>
+							<td valign="top" align="left" rowspan="3" colspan="3"><img src="/images/nav/alibris_home/search_corner_right.gif" width="13" height="14" border="0"></td>
+						</tr>
+						<tr height="2">
+							<td height="2" bgcolor="white"><img height="1" width="1" src="/images/elements/spacer.gif"></td>
+						</tr>
+						<tr height="2">
+							<td height="2" bgcolor="#999966"><img height="1" width="1" src="/images/elements/spacer.gif"></td>
 						</tr>
 					</tbody></table>
+				
 					<p>
 					<table border="0" cellpadding="0" cellspacing="0" width="179">
 						<tbody><tr>
@@ -221,7 +276,7 @@
 						</tr>
 						<tr>
 							<td width="8"><img height="8" width="9" src="/images/elements/spacer.gif"></td>
-							<td width="171"><img height="10" width="15" src="/images/elements/spacer.gif"><font color="#003300" face="Arial,Helvetica,Geneva" size="2"><a href="http://alibris.custhelp.com"><span class="nav4"><b>customer service</b></span></a></font><br></td>
+							<td width="171"><img height="10" width="15" src="/images/elements/spacer.gif"><font color="#003300" face="Arial,Helvetica,Geneva" size="2"><a href="http://www.alibris.com/help/help-home.cfm?S=R"><span class="nav4"><b>customer service</b></span></a></font><br></td>
 						</tr>
 						<tr>
 							<td width="8"><img height="8" width="9" src="/images/elements/spacer.gif"></td>
@@ -256,7 +311,62 @@
 					</tbody></table>
 					</p>
 					
-					
+					<p>
+					<table border="0" cellpadding="0" cellspacing="0" width="179">
+						<tbody><tr height="1">
+							<td width="8" height="1"><img height="1" width="8" src="/images/elements/spacer.gif"></td>
+							<td colspan="4" width="171" bgcolor="#dbdbb2"><img height="1" width="171" src="/images/elements/spacer.gif"></td>
+						</tr>
+						<tr>
+							<td width="8"><img height="10" width="8" src="/images/elements/spacer.gif"></td>
+							<td width="1" bgcolor="#dbdbb2"><img height="1" width="1" src="/images/elements/spacer.gif"></td>
+							<td width="15"><img height="10" width="15" src="/images/elements/spacer.gif"></td>
+							<td width="154">
+								<table border="0" cellpadding="0" cellspacing="0" width="103">
+									<tbody><tr>
+										<td><img height="8" width="15" src="/images/elements/spacer.gif"></td>
+										<td><img height="8" width="15" src="/images/elements/spacer.gif"></td>
+									</tr>
+									
+									<form action="http://www.alibris.com/newsletter_add.cfm?S=R" method="post" onsubmit="return(navcheckEmail(this));"></form>
+									<input type="hidden" name="S" value="R">
+									<input type="hidden" name="email_type" value="0">
+									<tr>
+										<td colspan="2"><p class="nav3"><b>alibris news</b></p></td>
+									</tr>
+									<tr>
+										<td colspan="2"><p class="nav3">keep up with special offers, news, and promotions!
+																			</p></td>
+									</tr>
+									<tr>
+										<td colspan="2"><img height="6" width="10" src="/images/elements/spacer.gif"></td>
+									</tr>
+									<tr>
+										<td colspan="2"><p class="nav3">my e-mail address:</p></td>
+									</tr>
+									<tr>
+										<td colspan="2"><img height="6" width="10" src="/images/elements/spacer.gif"></td>
+									</tr>
+									<tr>
+										<td><span class="blue-header"><input type="text" name="email" maxlength="50" size="13"></span></td>
+										<td><input type="image" name="send" height="24" width="41" src="/images/buttons/send.gif" border="0" alt="Send!"></td>
+									</tr>
+									<tr>
+										<td align="center"><font size="1" color="#003300" face="Arial,Helvetica,Geneva"><a href="http://www.alibris.com/unsubscribe.cfm?S=R">unsubscribe here</a></font></td>
+										<td>&nbsp;</td>
+									</tr>
+									
+								</tbody></table>
+								<img height="1" width="154" src="/images/elements/spacer.gif">
+							</td>
+							<td width="1" bgcolor="#dbdbb2"><img height="1" width="1" src="/images/elements/spacer.gif"></td>
+						</tr>
+						<tr height="1">
+							<td width="8" height="1"><img height="1" width="8" src="/images/elements/spacer.gif"></td>
+							<td colspan="4" width="171" height="1" bgcolor="#dbdbb2"><img height="1" width="171" src="/images/elements/spacer.gif"></td>
+						</tr>
+					</tbody></table>
+					</p>
 				</td>
 				<td valign="top"><img height="10" width="30" src="/images/elements/spacer.gif"></td>
 			</tr>
@@ -270,12 +380,17 @@
 		<!--Content Starts-->
 
 
-	
+
+<!-- CONTEST POP-UP GOES BYE-BYE !
+
+--->
 
 
 <table border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td width="100%"><br>
+
+
 
 
 	
@@ -434,17 +549,17 @@
 <span class="nav4">
 <a href="http://www.alibris.com/home.cfm" class="nav4">Alibris Home</a> | 
 <a href="http://www.alibris.com/collectors/collectors-home.cfm" class="nav4">For Collectors</a> | 
-<a href="http://www.alibris.com/librarians/librarians-home.cfm" class="nav4">For Librarians</a> | 
+<a href="http://www.alibris.com/librarians/librarians-home.cfm" class="nav4">For Libraries</a> | 
 <a href="http://www.alibris.com/search/search.cfm?S=R" class="nav4">Search</a> | 
 <a href="http://www.alibris.com/subjects/subjects-home.cfm?S=R" class="nav4">Browse</a>
 <br>
 <a href="http://www.alibris.com/help/shipping.cfm?S=R" class="nav4">Shipping Info</a> | 
 <a href="https://www.alibris.com/account/login.cfm?S=R" class="nav4">Order Status</a> | 
-<a href="http://www.alibris.com/policies/returns.cfm?S=R" class="nav4">Our Guarantee</a> | 
+<a href="http://www.alibris.com/policies/returns.cfm?S=R" class="nav4">Satisfaction Guarantee</a> | 
 <a href="http://www.alibris.com/policies/privacy.cfm?S=R" class="nav4">Privacy Policy</a> | 
 <a href="http://www.alibris.com/policies/terms.cfm?S=R" class="nav4">Terms of Use</a>
 <br>
-<a href="http://alibris.custhelp.com" class="nav4">Help</a> |
+<a href="http://www.alibris.com/help/help-home.cfm?S=R" class="nav4">Help</a> |
 <a href="http://www.alibris.com/contact/contact-home.cfm?S=R" class="nav4">Contact Us</a> | 
 <a href="http://www.alibris.com/about/about-home.cfm?S=R" class="nav4">About Us</a> |
 <a href="http://www.alibris.com/associates/associates-home.cfm?S=R" class="nav4">Associates</a>
@@ -456,7 +571,6 @@
 
 <!--Bottom html Links End-->
 
-	
 
 
 		</td>
