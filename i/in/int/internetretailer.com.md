@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604184151id_/http%3A//internetretailer.com/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091341id_/http%3A//www.internetretailer.com/privacyPolicy.asp) for the most accurate reproduction.*
 
 # InternetRetailer.com - Press Releases
 
 | 
 
-[](http://216.34.186.142/cgi-bin/parse-ir.pl?viewonly=yes)
+[](http://www.internetretailer.com/signupIR.asp)
 
 [](http://www.bugfree.com/)
 
