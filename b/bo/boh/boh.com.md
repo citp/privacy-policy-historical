@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616091117id_/http%3A//www.boh.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204065017id_/http%3A//www.boh.com/privacy.asp) for the most accurate reproduction.*
 
 # Bank of Hawaii
 
@@ -43,7 +43,7 @@ Consumer Privacy Statement
 **View and Download**  
 
 
-Bank of Hawaii values its customers and is committed to protecting customer privacy. If you would like to view our Consumer Privacy Statement, [click here for a printable version](https://web.archive.org/web/20040616091117id_/http%3A//www.boh.com/privacy.pdf) (PDF format).
+Bank of Hawaii values its customers and is committed to protecting customer privacy. If you would like to view our Consumer Privacy Statement, [click here for a printable version](https://web.archive.org/web/20041204065017id_/http%3A//www.boh.com/privacy.pdf) (PDF format).
 
 Use the free Adobe Acrobat Reader to view and print the Consumer Privacy Statement. 
 
