@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fox5dc.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205011726id_/http%3A//www.fox5dc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox5dc.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605182528id_/http%3A//www.fox5dc.com/privacy.shtml) for the most accurate reproduction.*
 
-# privacy
+# fox5dc.COM | FOX5 - WTTG
 
 FOX 5, a unit of Fox Television Stations, Inc. ("Fox"), is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. FOX 5 has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
 
