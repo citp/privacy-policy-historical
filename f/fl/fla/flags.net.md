@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flags.net privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211010156id_/http%3A//www.flags.net/contact.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flags.net privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621151948id_/http%3A//www.flags.net/contact.htm%23privacy) for the most accurate reproduction.*
 
 # World Flag Database: Contact Us
 
@@ -8,7 +8,7 @@ Contact Us
 
 **COPYRIGHT NOTICE**
 
-  Please note that all the images used on this website are protected by copyright. All rights are reserved. You may use the images for non-commercial research use and you may use up to four of the images in your own web site. If you wish to use more of the images please contact the [World Flag Database](mailto:graham@flags.net) at the above address. You can purchase the original EPS files from which these images were generated from [Flag Institute Enterprises Ltd.](https://web.archive.org/web/20021211010156id_/http%3A//www.flags.net/flaginst.htm). FIE also sells Flag Specification Sheets that give precise details on colour and design for flag manufacturers.
+  Please note that all the images used on this website are protected by copyright. All rights are reserved. You may use the images for non-commercial research use and you may use up to four of the images in your own web site. If you wish to use more of the images please contact the [World Flag Database](mailto:graham@flags.net) at the above address. You can purchase the original EPS files from which these images were generated from [Flag Institute Enterprises Ltd.](https://web.archive.org/web/20030621151948id_/http%3A//www.flags.net/flaginst.htm). FIE also sells Flag Specification Sheets that give precise details on colour and design for flag manufacturers.
 
   
 
