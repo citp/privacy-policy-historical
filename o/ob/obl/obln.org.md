@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obln.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204210658id_/http%3A//www.obln.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obln.org privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206201959id_/http%3A//www.obln.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - OBLN
 
