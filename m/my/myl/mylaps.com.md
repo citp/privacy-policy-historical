@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylaps.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627023934id_/http%3A//www.mylaps.com/general/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylaps.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305232018id_/http%3A//www.mylaps.com/general/policy.jsp) for the most accurate reproduction.*
 
 # MyLaps.com || powered by AMB transponders
 
@@ -9,11 +9,11 @@ Mylaps.com believes strongly in protecting the privacy of the personally identif
 
 Sharing your personally identifiable information enables us to offer you a number of benefits. This will make it easier and more convenient for you to: 
 
-**View a Lapchart of a race.**  
-Get an overview of the events and sessions you entered.  
-View your personal laps for a session.  
-Receive personalized messages and special offers that are relevant to your interests.  
-Save time by storing your preferences.
+  * View a Lapchart of a race
+  * Get an overview of the events and sessions you entered
+  * View your personal laps for a session
+  * Receive personalized messages and special offers that are relevant to your interests
+  * Save time by storing your preferences
 
 It will also allow us to conduct market research to help us develop better products, to provide more responsive customer service and to improve our web sites. 
 
@@ -43,8 +43,8 @@ E-mail: info@Mylaps.com
 
 If you have a problem with our use of your information, please let us know and we will make all reasonable efforts to correct it. Other sources of information about privacy you may find helpful There are a number of excellent sources of information about online privacy and related issues. They include: 
 
-European Union europa.eu.int/comm/internal_market/en/media/dataprot/index.htm   
+European Union: http://europa.eu.int/comm/internal_market/en/media/dataprot/index.htm   
 The Better Business Bureau www.bbb.org   
 Trust-e www.etrust.com 
 
-**© Mylaps.com 2002**
+**© Mylaps.com 2003**
