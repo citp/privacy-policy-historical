@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the witchvox.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207125850id_/http%3A//www.witchvox.com/wotw/wotw_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witchvox.com privacy policy that was archived on 2003-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030505224508id_/http%3A//www.witchvox.com/wotw/wotw_privacy.html) for the most accurate reproduction.*
 
 # WOTW - The Witches' Voice Privacy & Security Policies
 
