@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the restaurant.com privacy policy that was archived on 2001-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011212140422id_/http%3A//restaurant.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the restaurant.com privacy policy that was archived on 2002-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603161333id_/http%3A//restaurant.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>Restaurant.com Where to Eat</title>
 <meta name="keywords" content="restaurant.com, meals, food, cuisine, restaurant, menu, dining, reservations, recipes, catering, vegetarian, barbecue, american, spanish, chinese, german, thai, japanese, indian, italian, french, greek, mexican, chef, bars, pubs, breakfast, brunch, lunch, dinner, bakery, buffet, deli, pizza, hamburger, bagels, catering, banquet">
@@ -79,6 +79,22 @@ function foodRotate(){
 function checkForMMA(form)
 {
     if (form.MMA.selectedIndex == 0)
+    {
+      alert("Please select a Major Metropolitan Area.");
+      return false;
+    }
+    if (bMmaSearch == true)
+    {
+      bMmaSearch = false;
+      return false;
+	}
+
+    return true;
+} 
+
+function checkforebaymma(form)
+{
+    if (form.ebayMMA.selectedIndex == 0)
     {
       alert("Please select a Major Metropolitan Area.");
       return false;
@@ -757,7 +773,7 @@ function validateReg(form, flag)
 			<td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="22" border="0"></td>
 			<td align="left" valign="middle" bgcolor="#FFFFFF">
 			<center><font size="-2" face="verdana,geneva,arial" color="#999966">
-			<b>December&nbsp;12, 2001</b>
+			<b>June&nbsp;3, 2002</b>
 			</font></center>
 			</td>
 			<td bgcolor="#FFFFFF"><img src="/images/trans.gif" width="1" height="22" border="0"></td>	
@@ -791,297 +807,140 @@ function PopGift(rname, rid)
   <!-- Start Logo / Quick Search Table -->
 		<table width="589" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
-			<td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1" border="0"></td>
-			<td align="left" valign="top" bgcolor="#FFFFFF">
-			<a href="http://restaurant.com/index.asp" onfocus="this.blur()" onmouseover="home_over('logotype')" onmouseout="home_out('logotype')"><img src="/images/top_left_logos/logo_3.gif" width="142" name="logo" height="71" border="0"><br>
-			<img src="/images/logotype_off.gif" width="142" height="63" alt="Restaurant.com" name="logotype" border="0"></a></td>
-			<td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1" border="0"></td>
-			<td align="left" valign="top" bgcolor="#FFFFFF">
-			<!-- <form action="http://restaurant.com/mma_result.asp?SearchType=0&xst=0" method="post" name="quick" onSubmit="return checkForMMA(this)"> -->
-			<form action="http://restaurant.com/mmarouter.asp?SearchType=0&amp;xst=0" method="post" name="quick" onsubmit="return checkForMMA(this)">
-			    <input type="hidden" name="MMASEARCH" value="0">
-				<!-- Start Table -->
-				<table border="0" cellspacing="2" cellpadding="0" width="301">
-				<tbody><tr>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-					<td colspan="6"><img src="/images/trans.gif" width="4" height="4" border="0"></td>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-				</tr>
-				<tr>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-					<td align="center" colspan="6"><img src="/images/find_restaurant.gif" width="169" height="18" border="0" alt="Find a Restaurant"></td>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-				</tr>
-				<tr>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-					<td colspan="6"><font face="verdana,geneva,arial" size="-2"><b>Search by metro area:</b></font></td>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-				</tr>
-				<tr>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-					<td colspan="6">
-					<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<td>
-							<select name="MMA" size="1">
-					    	<option value=""> Choose Your Area </option>
-							
-									 <option value="1"> Atlanta </option>
-								
-									 <option value="2"> Austin </option>
-								
-									 <option value="3"> Baltimore </option>
-								
-									 <option value="4"> Boston </option>
-								
-									 <option value="5"> Charlotte </option>
-								
-									 <option value="6"> Chicago </option>
-								
-									 <option value="7"> Cincinnati </option>
-								
-									 <option value="8"> Cleveland </option>
-								
-									 <option value="9"> Columbus </option>
-								
-									 <option value="10"> Dallas/Fort Worth </option>
-								
-									 <option value="11"> Denver </option>
-								
-									 <option value="12"> Detroit </option>
-								
-									 <option value="13"> Houston </option>
-								
-									 <option value="15"> Las Vegas </option>
-								
-									 <option value="14"> Los Angeles </option>
-								
-									 <option value="16"> Miami </option>
-								
-									 <option value="17"> Minneapolis/St. Paul </option>
-								
-									 <option value="18"> Nashville </option>
-								
-									 <option value="19"> New Orleans </option>
-								
-									 <option value="20"> New York </option>
-								
-									 <option value="21"> Orlando </option>
-								
-									 <option value="22"> Philadelphia </option>
-								
-									 <option value="23"> Phoenix </option>
-								
-									 <option value="24"> Pittsburgh </option>
-								
-									 <option value="25"> Portland </option>
-								
-									 <option value="26"> Raleigh-Durham </option>
-								
-									 <option value="27"> Richmond </option>
-								
-									 <option value="28"> Sacramento </option>
-								
-									 <option value="29"> Salt Lake City </option>
-								
-									 <option value="30"> San Antonio </option>
-								
-									 <option value="31"> San Diego </option>
-								
-									 <option value="32"> San Francisco Bay Area </option>
-								
-									 <option value="33"> San Jose </option>
-								
-									 <option value="34"> Seattle </option>
-								
-									 <option value="35"> St. Louis </option>
-								
-									 <option value="36"> Tampa Bay </option>
-								
-									 <option value="37"> Washington D.C. </option>
-								
-							</select>
-						</td>
-						<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-						<td><input type="image" name="GO_MMA" value="GO" src="/images/blue_go_btn.gif" width="24" height="20" border="0" alt="Go"></td>
-					</tr>
-					</tbody></table>
-					</td><td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-				</tr>
-				
-				
-				<form action="http://restaurant.com/SearchResults.asp?SearchType=0&amp;xst=0" method="post" name="quick" onsubmit="return checkForReqFields(this)"></form>
-				<tr>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-					<td colspan="6"><img src="/images/trans.gif" width="4" height="10" border="0"></td>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-				</tr>
-				<tr>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-					<td colspan="6"><font face="verdana,geneva,arial" size="-2">OR Search by any U.S. city:</font></td>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-				</tr>
-				<tr>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-					<td><font face="verdana,geneva,arial" size="-2"><b>City</b></font></td>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-					<td><font face="verdana,geneva,arial" size="-2"><b>State</b></font></td>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-					<td><font face="verdana,geneva,arial" size="-2"><b>Zip</b></font></td>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-				</tr>
-				<tr>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-					<td>
-						
-							  <input type="text" value="" name="City" size="11" maxlength="35">
-							
-					</td>
-					<td><font face="verdana,geneva,arial" size="-2"><b>and</b></font></td>
-					<td>
-						<select name="State">
-							<option value="">State
-								
-										</option><option value="AK"> AK </option>
-									
-										<option value="AL"> AL </option>
-									
-										<option value="AR"> AR </option>
-									
-										<option value="AZ"> AZ </option>
-									
-										<option value="CA"> CA </option>
-									
-										<option value="CO"> CO </option>
-									
-										<option value="CT"> CT </option>
-									
-										<option value="DC"> DC </option>
-									
-										<option value="DE"> DE </option>
-									
-										<option value="FL"> FL </option>
-									
-										<option value="GA"> GA </option>
-									
-										<option value="HI"> HI </option>
-									
-										<option value="IA"> IA </option>
-									
-										<option value="ID"> ID </option>
-									
-										<option value="IL"> IL </option>
-									
-										<option value="IN"> IN </option>
-									
-										<option value="KS"> KS </option>
-									
-										<option value="KY"> KY </option>
-									
-										<option value="LA"> LA </option>
-									
-										<option value="MA"> MA </option>
-									
-										<option value="MD"> MD </option>
-									
-										<option value="ME"> ME </option>
-									
-										<option value="MI"> MI </option>
-									
-										<option value="MN"> MN </option>
-									
-										<option value="MO"> MO </option>
-									
-										<option value="MS"> MS </option>
-									
-										<option value="MT"> MT </option>
-									
-										<option value="NC"> NC </option>
-									
-										<option value="ND"> ND </option>
-									
-										<option value="NE"> NE </option>
-									
-										<option value="NH"> NH </option>
-									
-										<option value="NJ"> NJ </option>
-									
-										<option value="NM"> NM </option>
-									
-										<option value="NV"> NV </option>
-									
-										<option value="NY"> NY </option>
-									
-										<option value="OH"> OH </option>
-									
-										<option value="OK"> OK </option>
-									
-										<option value="OR"> OR </option>
-									
-										<option value="PA"> PA </option>
-									
-										<option value="RI"> RI </option>
-									
-										<option value="SC"> SC </option>
-									
-										<option value="SD"> SD </option>
-									
-										<option value="TN"> TN </option>
-									
-										<option value="TX"> TX </option>
-									
-										<option value="UT"> UT </option>
-									
-										<option value="VA"> VA </option>
-									
-										<option value="VT"> VT </option>
-									
-										<option value="WA"> WA </option>
-									
-										<option value="WI"> WI </option>
-									
-										<option value="WV"> WV </option>
-									
-										<option value="WY"> WY </option>
-									
-							</select>
-					</td>
-					<td><font face="verdana,geneva,arial" size="-2"><b>or</b></font></td>
-					<td>
-						 
-							      <input type="text" value="" name="ZipCode" size="5" maxlength="5">
-							
-					</td>
-					<td><input type="image" name="GO_ZIP" value="GO" src="/images/blue_go_btn.gif" width="24" height="20" border="0" alt="Go"></td>
-					<td><img src="/images/trans.gif" width="4" height="1" border="0"></td>
-				</tr>
-				
-				</tbody></table>
-			</form></td>
-			<td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1" border="0"></td>
-			<td align="left" valign="top" bgcolor="#FFFFFF"><img name="food" src="/images/home_food/food_pm_122.jpg" width="142" height="134" border="0"></td>
-			<td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1" border="0" alt=""></td>
+	       <td bgcolor="#999966" width="1"><img src="/images/trans.gif" width="1" height="1" border="0"></td>
+		   <td align="left" valign="top" bgcolor="#FFFFFF" width="142">
+              <a href="http://restaurant.com/index.asp" onfocus="this.blur()" onmouseover="home_over('logotype')" onmouseout="home_out('logotype')">
+              <img src="/images/top_left_logos/logo_1.gif" width="142" name="logo" height="71" border="0"><br>
+              <img src="/images/logotype_off.gif" width="142" height="63" alt="Restaurant.com" name="logotype" border="0"></a></td>
+		   <td bgcolor="#999966" width="1"><img src="/images/trans.gif" width="1" height="1" border="0"></td>
+           
+    <td align="center" valign="middle" bgcolor="#FFFFFF" width="301"> 
+
+      <form action="/routetoebay.asp" method="post" name="frmRoute" onsubmit="return checkforebaymma(this)">
+        <img src="../images/trans.gif" width="301" height="1"><br>
+        <img src="../images/quicksearch-head.gif" width="289" height="66"><br>
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr> 
+                        <td colspan="2"><img src="../images/trans.gif" width="150" height="5"></td>
+                      </tr>
+                      <tr> 
+                        <td nowrap=""><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><img src="../images/trans.gif" width="5" height="5">Start 
+                          your search here:</font></td>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <select name="ebayMMA" size="1">
+                            <option value=""> Choose Your Area </option>
+                             
+									<option value="Alabama"> Alabama </option>
+                             
+									<option value="Arizona"> Arizona </option>
+                             
+									<option value="California"> California </option>
+                             
+									<option value="California - Los Angeles"> California - Los Angeles </option>
+                             
+									<option value="California - San Diego"> California - San Diego </option>
+                             
+									<option value="California - San Francisco"> California - San Francisco </option>
+                             
+									<option value="Colorado"> Colorado </option>
+                             
+									<option value="Connecticut"> Connecticut </option>
+                             
+									<option value="Delaware"> Delaware </option>
+                             
+									<option value="Florida"> Florida </option>
+                             
+									<option value="Georgia"> Georgia </option>
+                             
+									<option value="Illinois"> Illinois </option>
+                             
+									<option value="Indiana"> Indiana </option>
+                             
+									<option value="Kentucky"> Kentucky </option>
+                             
+									<option value="Louisiana"> Louisiana </option>
+                             
+									<option value="Maryland"> Maryland </option>
+                             
+									<option value="Massachusetts"> Massachusetts </option>
+                             
+									<option value="Michigan"> Michigan </option>
+                             
+									<option value="Minnesota"> Minnesota </option>
+                             
+									<option value="Missouri"> Missouri </option>
+                             
+									<option value="New Hampshire"> New Hampshire </option>
+                             
+									<option value="New Jersey"> New Jersey </option>
+                             
+									<option value="New Mexico"> New Mexico </option>
+                             
+									<option value="New York City"> New York City </option>
+                             
+									<option value="New York State"> New York State </option>
+                             
+									<option value="North Carolina"> North Carolina </option>
+                             
+									<option value="Ohio"> Ohio </option>
+                             
+									<option value="Oregon"> Oregon </option>
+                             
+									<option value="Pennsylvania"> Pennsylvania </option>
+                             
+									<option value="Rhode Island"> Rhode Island </option>
+                             
+									<option value="South Carolina"> South Carolina </option>
+                             
+									<option value="Tennessee"> Tennessee </option>
+                             
+									<option value="Texas"> Texas </option>
+                             
+									<option value="Texas - Austin"> Texas - Austin </option>
+                             
+									<option value="Texas - Dallas/Ft.Worth"> Texas - Dallas/Ft.Worth </option>
+                             
+									<option value="Texas - Houston"> Texas - Houston </option>
+                             
+									<option value="Utah"> Utah </option>
+                             
+									<option value="Vermont"> Vermont </option>
+                             
+									<option value="Virginia"> Virginia </option>
+                             
+									<option value="Washington D.C."> Washington D.C. </option>
+                             
+									<option value="Washington State"> Washington State </option>
+                             
+									<option value="West Virginia"> West Virginia </option>
+                             
+									<option value="Wisconsin"> Wisconsin </option>
+                             
+                          </select>
+                        </td>
+                        <td nowrap=""> <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><img src="../images/trans.gif" width="5" height="5" align="middle"></font> 
+                          <input type="image" name="GO_ZIP" value="GO" src="/images/blue_go_btn.gif" width="24" height="20" border="0" alt="Go" align="middle">
+                        </td>
+                      </tr>
+                    </tbody></table>
+      </form>
+
+    </td>
+		   <td bgcolor="#999966" width="1"><img src="/images/trans.gif" width="1" height="1" border="0"></td>	
+           <td align="left" valign="top" bgcolor="#FFFFFF" width="142"><img name="food" src="/images/home_food/food_pm_98.jpg" width="142" height="134" border="0"></td>
+		   <td bgcolor="#999966" width="1"><img src="/images/trans.gif" width="1" height="1" border="0" alt=""></td>
 		</tr>
 		<tr>
 			<td colspan="7" align="left" valign="top" bgcolor="#999966"><img src="/images/trans.gif" width="589" height="1" border="0"></td>
 		</tr>
 		</tbody></table>
 		<!-- End Logo / Quick Search Table -->
- 
-	
-		<!-- Start Tabs Table -->
-		<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1" border="0"></td>
-			<td align="center" valign="middle"><a href="http://restaurant.com/owners/" onmouseover="home_over('my')" onmouseout="home_out('my')"><img src="http://restaurant.com/images/my_off.gif" width="142" height="29" border="0" alt="My Restaurant.com" name="my"></a></td>
-			<td align="center" valign="middle"><a href="http://restaurant.com/corp/index.asp?cl=cater" onmouseover="home_over('corp')" onmouseout="home_out('corp')"><img src="/images/corp_off.gif" width="151" height="29" border="0" alt="Catering" name="corp"></a></td>
-			<td align="center" valign="middle"><a href="http://www.qksrv.net/click-933844-5463217?loc=http://members.ebay.com/aboutme/restaurant.com/" onmouseover="home_over('gift')" onmouseout="home_out('gift')"><img src="/images/gift_off.gif" width="151" height="29" border="0" alt="Gift Center" name="gift"></a></td>
-			<td align="center" valign="middle"><a href="http://restaurant.com/dirona.asp" onmouseover="home_over('menu')" onmouseout="home_out('menu')"><img src="/images/menu_off.gif" width="143" height="29" border="0" alt="Best of the Best" name="menu"></a></td>
-			<td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1" border="0"></td>
-		</tr>
-		</tbody></table>
-		<!-- End Tabs Table -->
+		
+		
+
 		<!-- Start Main Body Table -->
                 <table width="589" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
