@@ -1,6 +1,50 @@
-> *The following text is extracted and transformed from the chatelaine.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607043213id_/http%3A//www.chatelaine.com/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatelaine.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020234447id_/http%3A//www.chatelaine.com/faq/%3Ffp%3Dprivacy%26page%3Dfaq) for the most accurate reproduction.*
 
 # Chatelaine.com: Privacy policy
+
+[](https://web.archive.org/thismonth/read/index.jsp)  
+[](http://www.chatelaine.com/)  
+  
+[](https://web.archive.org/typ/TakeYourPick.jsp?page=beautyfashion)  
+[](https://web.archive.org/bookclub/TakeYourPick.jsp)  
+[](https://web.archive.org/computers/TakeYourPick.jsp)  
+[](http://forum.chatelaine.com/advansis-html/forums/CraftsHobbies)  
+[](https://web.archive.org/entertainment/TakeYourPick.jsp)  
+[](https://web.archive.org/family/TakeYourPick.jsp)  
+[](https://web.archive.org/foodrecipes/TakeYourPick.jsp)  
+[](https://web.archive.org/health/TakeYourPick.jsp)  
+[](https://web.archive.org/homegarden/TakeYourPick.jsp)  
+[](http://forum.chatelaine.com/advansis-html/forums/Humour)  
+[](https://web.archive.org/money/TakeYourPick.jsp)  
+[](https://web.archive.org/newsviews/TakeYourPick.jsp)  
+[](https://web.archive.org/passions/TakeYourPick.jsp)  
+[](http://forum.chatelaine.com/advansis-html/forums/Pets)  
+[](http://forum.chatelaine.com/advansis-html/forums/SpecialGuest)  
+[](https://web.archive.org/travel/TakeYourPick.jsp)  
+[](http://forum.chatelaine.com/advansis-html/forums/VirtualFitness)  
+[](http://forum.chatelaine.com/advansis-html/forums/Wheels)  
+[](https://web.archive.org/work/TakeYourPick.jsp)  
+  
+|  |  |  [ Subscribe to us  ](https://commerce.cdsfulfillment.com/C16/subscriptions.cgi?IN_Code=W101LS3W0)  
+---|---|---  
+|  |  [ Gift subscriptions  ](https://gifts.cdsfulfillment.com/gifts/CHE/giftform.shtml?in_code=WY10DEF)  
+|  |  [ Subscriber care  ](https://commerce.cdsfulfillment.com/CHE/custserv.cgi)  
+|  |  [ Contest news!  ](http://contests.chatelaine.com/)  
+|  |  [ Recipe file  ](http://recipes.chatelaine.com/)  
+|  |  [ Back issues & articles  ](https://web.archive.org/Read/read.jsp?page=backissues)  
+|  |  [ Buyers' guides  ](https://web.archive.org/Read/read.jsp?page=buyers)  
+|  |  [ Ask an expert  ](https://web.archive.org/Expert/index.jsp?page=thismonth)  
+|  |  [ About this site  ](https://web.archive.org/DontMiss/index.jsp?page=dontmiss&section=aboutsite)  
+|  |  [ Internet 101  ](https://web.archive.org/DontMiss/index.jsp?page=dontmiss&section=internet101)  
+|  |  [ User survey  ](https://web.archive.org/forms/index.jsp?form=survey)  
+|  |  [ Advertiser spotlight  ](https://web.archive.org/DontMiss/index.jsp?page=dontmiss&section=adspotlight)  
+|  |  [ Buy our books  ](https://web.archive.org/faq/?fp=availablenow&page=faq)  
+  
+
+
+|  October 20, 2001    
+  
+[](https://web.archive.org/Read/index.jsp?page=read)[](https://web.archive.org/Talk/index.jsp?page=talk)[](https://web.archive.org/Surf/index.jsp?page=surf)
 
 ** Chatelaine.com Privacy Statement  
 **  
@@ -62,4 +106,15 @@ DoubleClick makes available all of our information practices at www.doubleclick.
 
 ### Honesty
 
-DoubleClick has voluntarily opened its practices and systems for third party auditing. We are committed to shaping privacy policies and standards with industry organizations and are active members of the Internet Advertising Bureau, Online Privacy Alliance, New York New Media Association, and the American Advertising Federation. DoubleClick's policy on privacy is also in accordance with the Direct Marketing Association's Marketing Online Privacy Principles, which were agreed upon by the Interactive Services Association.
+DoubleClick has voluntarily opened its practices and systems for third party auditing. We are committed to shaping privacy policies and standards with industry organizations and are active members of the Internet Advertising Bureau, Online Privacy Alliance, New York New Media Association, and the American Advertising Federation. DoubleClick's policy on privacy is also in accordance with the Direct Marketing Association's Marketing Online Privacy Principles, which were agreed upon by the Interactive Services Association. |  | 
+
+  
+  
+
+
+|   
+---  
+|  |    
+[Subscribe online](https://commerce.cdsfulfillment.com/CHE/subscriptions.cgi?IN_Code=W101RS4W0)  
+[Gift Subscriptions](https://gifts.cdsfulfillment.com/gifts/CHE/giftform.shtml?in_code=WY10DEF)  
+[Subscriber Care](https://commerce.cdsfulfillment.com/CHE/custserv.cgi) |  | 
