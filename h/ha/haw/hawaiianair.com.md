@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawaiianair.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218045251id_/http%3A//hawaiianair.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawaiianair.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602143938id_/http%3A//hawaiianair.com/about/privacy.asp) for the most accurate reproduction.*
 
 # About Hawaiian Airlines, Wings of the Islands
 
