@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaesu.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330183842id_/http%3A//www.yaesu.com/Library/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaesu.com privacy policy that was archived on 2001-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010801191047id_/http%3A//www.yaesu.com/Library/privacy.html) for the most accurate reproduction.*
 
 # Yaesu - Privacy Policy
 
