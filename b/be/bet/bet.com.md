@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bet.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601183246id_/http%3A//www.bet.com/articles/1%2C%2Cc15-954%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bet.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206184849id_/http%3A//www.bet.com/articles/1%2C%2Cc15-954%2C00.html) for the most accurate reproduction.*
 
 # BET.com - BET.com Privacy Policy
 
@@ -56,7 +56,7 @@ BET.com is a general audience site. We do not direct any of our content specific
 
 BET.com gives you (or your parent(s) if you are under 18 years of age) the following options for removing your information from our database in order to stop receiving future communications from BET.com. (Please note: BET.com is not responsible for removing information from third-party lists or entities with which you have previously authorized us to share your information.)
 
- **1.** You can send e-mail to: [contactus@bet.com](https://web.archive.org/web/20020601183246id_/http%3A//www.bet.com/articles/%22mailto:contactus@bet.com%22)
+ **1.** You can send e-mail to: [contactus@bet.com](https://web.archive.org/web/20021206184849id_/http%3A//www.bet.com/articles/%22mailto:contactus@bet.com%22)
 
   
  **2.**  You can send mail to the following postal address:
@@ -72,7 +72,7 @@ Washington, D.C. 20036**_
 
 BET.com gives you the following options for informing us of changes to information you have previously provided:
 
- **1.  **E-mail [contactus@bet.com](https://web.archive.org/web/20020601183246id_/http%3A//www.bet.com/articles/%22mailto:contactus@bet.com%22)
+ **1.  **E-mail [contactus@bet.com](https://web.archive.org/web/20021206184849id_/http%3A//www.bet.com/articles/%22mailto:contactus@bet.com%22)
 
  **2.**  Send mail to the following postal address:
 
