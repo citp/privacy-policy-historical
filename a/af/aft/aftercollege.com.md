@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aftercollege.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152605id_/http%3A//www.aftercollege.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aftercollege.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008043945id_/http%3A//aftercollege.com/privacy.asp) for the most accurate reproduction.*
 
-# AfterCollege: Privacy Statement
+# AfterCollege - Redefining College Recruiting
+
+| 
 
 One of our top goals is to make sure that your personal information is kept confidential when you use AfterCollege. We will use our best efforts to ensure that the information you submit to us remains private, and that it's used specifically for purposes that are in line with AfterCollege's mission of helping you improve your career. 
 
