@@ -1,0 +1,492 @@
+<!--The following is the downloaded HTML source of the cheathappens.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204170543id_/http%3A//www.cheathappens.com/privpol.asp) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+
+// Browser Detection
+isMac = (navigator.appVersion.indexOf("Mac")!=-1) ? true : false;
+NS4 = (document.layers) ? true : false;
+IEmac = ((document.all)&&(isMac)) ? true : false;
+IE4plus = (document.all) ? true : false;
+IE4 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 4.")!=-1)) ? true : false;
+IE5 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 5.")!=-1)) ? true : false;
+
+IE6 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 6.")!=-1)) ? true : false;
+ver4 = (NS4 || IE4plus) ? true : false;
+NS6 = (!document.layers) && (navigator.userAgent.indexOf('Netscape')!=-1)?true:false;
+
+IE5plus = IE5 || IE6;
+IEMajor = 0;
+
+if (IE4plus)
+{
+	var start = navigator.appVersion.indexOf("MSIE");
+	var end = navigator.appVersion.indexOf(".",start);
+	IEMajor = parseInt(navigator.appVersion.substring(start+5,end));
+	IE5plus = (IEMajor>=5) ? true : false;
+}
+
+// Body onload utility (supports multiple onload functions)
+var gSafeOnload = new Array();
+function SafeAddOnload(f)
+{
+	if (IEmac && IE4)  // IE 4.5 blows out on testing window.onload
+	{
+		window.onload = SafeOnload;
+		gSafeOnload[gSafeOnload.length] = f;
+	}
+	else if  (window.onload)
+	{
+		if (window.onload != SafeOnload)
+		{
+			gSafeOnload[0] = window.onload;
+			window.onload = SafeOnload;
+		}		
+		gSafeOnload[gSafeOnload.length] = f;
+	}
+	else
+		window.onload = f;
+}
+function SafeOnload()
+{
+	for (var i=0;i<gSafeOnload.length;i++)
+		gSafeOnload[i]();
+}
+
+function isInt(numIn)
+{
+	var checknum = parseInt(numIn);
+	return !isNaN(checknum);
+}
+
+function PUW_Init()
+{
+	if (gPopupWindow.CheckFrequency())
+	{
+		setTimeout("gPopupWindow.Show()",gPopupWindow.showDelay);
+	}
+}
+
+function PUW_Show()
+{
+	var settings = "width="+this.width+",height="+this.height+",top="+this.top+",left="+this.left+",";
+	settings += "scrollbars=" + ((this.scrollbars) ? "yes," : "no,");
+	settings += "toolbar=" + ((this.toolbar) ? "yes," : "no,");
+	settings += "location=" + ((this.locationbar) ? "yes," : "no,");
+	settings += "menubar=" + ((this.menubar) ? "yes," : "no,");
+	settings += "status=" + ((this.statusbar) ? "yes," : "no,");
+	settings += "resizable=" + ((this.resizable) ? "yes" : "no");
+	
+	var newWin = window.open(this.url,this.name,settings);
+	
+	if (! this.ontop)
+		window.focus();
+}
+
+function PUW_CheckFrequency()
+{
+	var shouldShow = this.frequency != 0;
+	if (this.frequency > 0)
+	{
+		var allCookies = document.cookie;
+		var start = allCookies.indexOf("PUWCount=");
+		if (start >= 0)
+		{
+			var end = allCookies.indexOf(";",start);
+			if (end < 0)
+				end = allCookies.length;
+			var freqStr = allCookies.substring(start+9,end);
+			if (isInt(freqStr))
+				this.frequency = parseInt(freqStr);
+		}
+
+		if (this.frequency>0)
+			this.frequency--;
+		else
+			shouldShow = false;
+			
+		var exp = new Date();
+		exp.setTime(exp.getTime()+this.renew*60*60000);
+		document.cookie = "PUWCount="+this.frequency+ "; expires=" + exp.toGMTString();
+	}
+	
+	return shouldShow;
+}
+
+
+function PopupWindow(url,width,height)
+{
+	this.width = width;
+	this.height = height;
+	this.top = screen.availHeight/2 - height/2; // center
+	this.left = screen.availWidth/2 - width/2; // center
+	this.name = "mypopupwin";
+	this.url = url;
+	this.showDelay = 2000;
+	this.frequency = 1; // how many times show per renewal time period
+	this.renew = 6; // renew showing every x hours
+	this.scrollbars= false;
+	this.toolbar= false;
+	this.statusbar= false;
+	this.resizable = false;
+	this.locationbar = false;
+	this.menubar = false;
+	this.ontop = true;
+	
+
+	
+	this.Init = PUW_Init;
+	this.Show = PUW_Show;
+	this.CheckFrequency = PUW_CheckFrequency;
+}
+
+function PUWStart()
+{
+	gPopupWindow.Init();
+}
+
+SafeAddOnload(PUWStart);
+
+gPopupWindow = new PopupWindow("screensaver.htm", 700, 377);
+gPopupWindow.toolbar = true;
+gPopupWindow.statusbar = true;
+gPopupWindow.resizable = false;
+gPopupWindow.ontop = true;
+
+</script>
+
+
+
+
+
+<title>Cheat Happens - Cheat Codes for the Masses</title>
+<link href="ext/main.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="The #1 site for PC cheats, PC cheat codes, PS2 cheats, PS2 cheat codes, XBox cheats, XBox cheat codes, Gamecube cheats, Gamecube cheat codes, GBA cheats, GBA cheat codes, wallpapers, FAQs, easter eggs, walkthroughs and trainers and more.">
+<meta name="keywords" content="cheats codes cheat">
+<meta name="title" content="CHEAT HAPPENS.com Cheat Codes, Hints and Easter Eggs for DVDs, Movies and Games">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id="divDescription" class="clDescriptionCont">
+  <!--Empty div-->
+</div>
+
+<table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="65" class="back-1strowleft">&nbsp;</td>
+    <td height="65" align="right" valign="top" class="back-1strowcenter"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="389"> <a href="http://www.cheathappens.com"><img src="http://img.cheathappens.com/sitelogo.gif" width="254" height="36" border="0"></a></td>
+          <td width="156" align="right"><img src="http://img.cheathappens.com/toppics/knights_01.jpg" width="148" height="65"></td>
+        </tr>
+      </tbody></table></td>
+    <td height="65" class="back-1strowright"><img src="http://img.cheathappens.com/toppics/knights_02.jpg" width="220" height="65"></td>
+  </tr>
+  <tr>
+    <td width="14" height="20" class="back-2ndrowleft">&nbsp;</td>
+    <td width="546" class="back-2ndrowcenter"><table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr>
+    <td class="popular"><font color="#000000">&nbsp;<b>POPULAR</b>:</font> 
+	<a href="show_mc.asp?titleID=9130">Half-Life 2 Cheats</a>&nbsp;&nbsp;.&nbsp;
+	<a href="show_mc.asp?titleID=9264">Need for Speed: Underground 2 Cheats</a>&nbsp;&nbsp;.&nbsp;
+	<a href="show_cht.asp?ID=17427">GoldenEye: Rogue Agent Cheats</a>
+	</td>
+  </tr>
+</tbody></table>
+</td>
+    <td width="220" class="back-2ndrowright"><img src="http://img.cheathappens.com/toppics/knights_04.jpg" width="220" height="20"></td>
+  </tr>
+  <tr>
+    <td colspan="3" class="back-4throw"><table width="778" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr>
+    <td width="14">&nbsp;</td>
+    <td width="764" class="menu"> <a href="default.asp" onmouseover="window.status='Home'; return true" ;="" onmouseout="window.status=' '; return true"><img src="http://img.cheathappens.com/arrow_mainmenu.jpg" width="9" height="8" align="bottom" border="0">HOME</a>
+      &nbsp;&nbsp;<a href="boards.asp" onmouseover="window.status='Message Boards'; return true" ;="" onmouseout="window.status=' '; return true"><img src="http://img.cheathappens.com/arrow_mainmenu.jpg" width="9" height="8" align="bottom" border="0">BOARDS</a>
+      &nbsp;&nbsp;<a href="featuredguides.asp" onmouseover="window.status='Featured Guides'; return true" ;="" onmouseout="window.status=' '; return true"><img src="http://img.cheathappens.com/arrow_mainmenu.jpg" width="9" height="8" align="bottom" border="0">FEATURED GUIDES</a>
+	  &nbsp;&nbsp;<a href="show_az_wall_main.asp" onmouseover="window.status='Wallpapers'; return true" ;="" onmouseout="window.status=' '; return true"><img src="http://img.cheathappens.com/arrow_mainmenu.jpg" width="9" height="8" align="bottom" border="0">WALLPAPERS</a>
+	  &nbsp;&nbsp;<a href="authors.asp" onmouseover="window.status='Author Community'; return true" ;="" onmouseout="window.status=' '; return true"><img src="http://img.cheathappens.com/arrow_mainmenu.jpg" width="9" height="8" align="bottom" border="0">AUTHORS</a>
+      &nbsp;&nbsp;<a href="essentials.asp" onmouseover="window.status='Cheat Terms &amp; Tutorials'; return true" ;="" onmouseout="window.status=' '; return true"><img src="http://img.cheathappens.com/arrow_mainmenu.jpg" width="9" height="8" align="bottom" border="0">CHEAT TERMS &amp; TUTORIALS</a>
+	  &nbsp;&nbsp;<a href="submit.asp" onmouseover="window.status='Submit Cheats'; return true" ;="" onmouseout="window.status=' '; return true"><img src="http://img.cheathappens.com/arrow_mainmenu.jpg" width="9" height="8" align="bottom" border="0">SUBMIT</a>
+      &nbsp;&nbsp;<a href="aboutus.asp" onmouseover="window.status='About Us'; return true" ;="" onmouseout="window.status=' '; return true"><img src="http://img.cheathappens.com/arrow_mainmenu.jpg" width="9" height="8" align="bottom" border="0">ABOUT</a>
+	  </td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td height="50" colspan="3" class="back-3rdrow"><table width="773" border="0" cellspacing="0" cellpadding="3">
+  <tbody><tr>
+    <td class="menu2"><img src="http://img.cheathappens.com/spacer.gif" width="13"> <a href="show_az_main.asp?type=1" onmouseover="window.status='DVD Video'; return true" ;="" onmouseout="window.status=' '; return true">DVD VIDEO</a>
+      <img src="http://img.cheathappens.com/streck_big.jpg" width="9" height="9"> <a href="show_az_main.asp?type=2" onmouseover="window.status='Movies'; return true" ;="" onmouseout="window.status=' '; return true">MOVIES</a>
+      <img src="http://img.cheathappens.com/streck_big.jpg"> <a href="show_az_main.asp?type=3" onmouseover="window.status='PC Games'; return true" ;="" onmouseout="window.status=' '; return true">PC
+      GAMES</a> <img src="http://img.cheathappens.com/streck_big.jpg"> <a href="show_az_main.asp?type=5" onmouseover="window.status='Sony Playstation 2'; return true" ;="" onmouseout="window.status=' '; return true">PLAYSTATION
+      2</a> <img src="http://img.cheathappens.com/streck_big.jpg"> <a href="show_az_main.asp?type=6" onmouseover="window.status='Microsoft X-Box'; return true" ;="" onmouseout="window.status=' '; return true">X-BOX</a>
+      <img src="http://img.cheathappens.com/streck_big.jpg"> <a href="show_az_main.asp?type=7" onmouseover="window.status='Nintendo Gamecube'; return true" ;="" onmouseout="window.status=' '; return true">GAMECUBE</a>
+      <img src="http://img.cheathappens.com/streck_big.jpg"> <a href="show_az_main.asp?type=17" onmouseover="window.status='Nintendo DS'; return true" ;="" onmouseout="window.status=' '; return true">DS</a>
+      <img src="http://img.cheathappens.com/streck_big.jpg"> <a href="show_az_main.asp?type=18" onmouseover="window.status='Sony PSP'; return true" ;="" onmouseout="window.status=' '; return true">PSP</a>
+      <img src="http://img.cheathappens.com/streck_big.jpg"> <a href="show_az_main.asp?type=9" onmouseover="window.status='Nintendo Game Boy Advance / SP'; return true" ;="" onmouseout="window.status=' '; return true">GBA</a></td>
+    <td width="195" rowspan="2" align="right"><table width="191" border="0" cellspacing="0" cellpadding="0">
+
+        <form name="searchform" method="post" action="search.asp"></form>
+		<input name="type" type="hidden" value="allTypes">
+		<input name="platform" type="hidden" value="666">
+        <tbody><tr>
+          <td width="17" class="search2">&nbsp;</td>
+          <td width="174" class="search2">
+            <input name="search" type="searchword" class="search" value="CHEATS SEARCH" size="22" onfocus="this.value=''">
+            <input type="submit" name="Submit" value="&nbsp;go&nbsp;" class="login">
+            <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="advsearch.asp"><u>advanced
+            search</u></a></td>
+        </tr>
+        
+
+      </tbody></table></td>
+  </tr>
+  <tr>
+    <td class="menu3"><img src="http://img.cheathappens.com/spacer.gif" width="13">
+	<a href="show_az_main.asp?type=4" onmouseover="window.status='Sony Playstation'; return true" ;="" onmouseout="window.status=' '; return true">PLAYSTATION</a> <img src="http://img.cheathappens.com/streck_small.jpg">
+	<a href="show_az_main.asp?type=12" onmouseover="window.status='Nintendo Game Boy'; return true" ;="" onmouseout="window.status=' '; return true">GAME BOY</a> <img src="http://img.cheathappens.com/streck_small.jpg">
+	<a href="show_az_main.asp?type=8" onmouseover="window.status='Nintendo Game Boy Color'; return true" ;="" onmouseout="window.status=' '; return true">GB COLOR</a> <img src="http://img.cheathappens.com/streck_small.jpg">
+	<a href="show_az_main.asp?type=10" onmouseover="window.status='Nintendo 64'; return true" ;="" onmouseout="window.status=' '; return true">NINTENDO 64</a> <img src="http://img.cheathappens.com/streck_small.jpg">
+	<a href="show_az_main.asp?type=11" onmouseover="window.status='Sega Dreamcast'; return true" ;="" onmouseout="window.status=' '; return true">DREAMCAST</a> <img src="http://img.cheathappens.com/streck_small.jpg">
+	<a href="show_az_main.asp?type=13" onmouseover="window.status='Nintendo NES'; return true" ;="" onmouseout="window.status=' '; return true">NES</a> <img src="http://img.cheathappens.com/streck_small.jpg">
+	<a href="show_az_main.asp?type=14" onmouseover="window.status='Super Nintendo'; return true" ;="" onmouseout="window.status=' '; return true">SUPER NINTENDO</a> <img src="http://img.cheathappens.com/streck_small.jpg">
+	<a href="show_az_main.asp?type=15" onmouseover="window.status='Sega Genesis'; return true" ;="" onmouseout="window.status=' '; return true">GENESIS</a> <img src="http://img.cheathappens.com/streck_small.jpg">
+	<a href="show_az_main.asp?type=16" onmouseover="window.status='Sega Saturn'; return true" ;="" onmouseout="window.status=' '; return true">SATURN</a></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td colspan="3" align="right"><table width="780" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="14" class="back-2ndrowleft">&nbsp;</td>
+          <td width="566" valign="top" class="centerwhite"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="8">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td width="8">&nbsp;</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td class="blacktext15">PRIVACY POLICY</td>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td><p>This privacy policy discloses the privacy practices for
+                    Cheat Happens (http://www.cheathappens.com). If you have any
+                    question regarding this privacy policy, please contact Chris
+                    O'Rorke. </p>
+                  <p><b>Information Collection and Use</b><br>
+                    Cheat Happens is the sole owner of the information collected
+                    on this site. We will not sell, share, or rent this information
+                    to others in ways different from what is disclosed in this
+                    statement. Cheat Happens collects information from our users
+                    at several different points on our website. </p>
+                  <p><b>Cookies</b> <br>
+                    A cookie is a piece of data stored on the user’s hard
+                    drive containing information about the user. Cheat Happens
+                    uses cookies to enhance the user's experience, often allowing
+                    a user to browse the site more quickly. The storage of such
+                    cookie is optional, and the user will still be able to use
+                    the website, with the exception of our member's area which
+                    requires a cookie to determine a member's login status. Some
+                    of our business partners use cookies on our site (for example,
+                    advertisers). However, we have no access to or control over
+                    these cookies. </p>
+                  <p><b>Log Files and IPs</b><br>
+                    IPs are logged in the server's log file which is used for
+                    administering the site. Log files contain no personally identifiable
+                    information.Under very rare circumstances, log files may be
+                    furnished to 3rd party advertisers for proof of traffic information.
+                    IPs are also stored within our message board area and are
+                    used to ban those users that do not comply with our message
+                    board rules.</p>
+                  <p><b>Sharing</b> <br>
+                    We will share traffic information (visitor counts) with partners
+                    and advertisers. None of this information contains personal
+                    information. </p>
+                  <p><b>Links</b><br>
+                    This web site contains links to other sites. Please be aware
+                    that Cheat Happens is not responsible for the privacy practices
+                    of such other sites. We encourage our users to be aware when
+                    they leave our site and to read the privacy statements of
+                    each and every web site that collects personally identifiable
+                    information. This privacy policy applies solely to information
+                    collected by this Web site. </p>
+                  <p><b>Notification of Changes</b><br>
+                    If we decide to change our privacy policy, we will post those
+                    changes on our homepage so our users are always aware of what
+                    information we collect, how we use it, and under what circumstances,
+                    if any, we disclose it. If at any point we decide to use personally
+                    identifiable information in a manner different from that stated
+                    at the time it was collected, we will notify users on our
+                    Homepage. Users will have a choice as to whether or not we
+                    use their information in this different manner. We will use
+                    information in accordance with the privacy policy under which
+                    the information was collected. </p>
+            </td>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody></table></td>
+          <td width="199" align="right" valign="top" class="rightbar">
+            
+<table width="199" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td><table width="199" border="0" cellspacing="0" cellpadding="2">
+        <tbody><tr>
+          <td height="26" colspan="2" align="center"><img src="http://img.cheathappens.com/chu_header.jpg" width="187" height="22"></td>
+        </tr>
+        <form name="form1" method="post" action="user_signin.asp"></form>
+          <tr>
+            <td width="65" align="right" valign="top" class="blacktext11"><b>username&nbsp;
+              </b></td>
+            <td width="127"><input name="alias" type="text" class="blacktext11" size="18">
+            </td>
+          </tr>
+          <tr>
+            <td align="right" valign="top" class="blacktext11"><b>password&nbsp;
+              </b></td>
+            <td><input name="password" type="password" class="blacktext11" size="11">
+              <input name="Submit" type="submit" class="login" value="login"></td>
+          </tr>
+        
+        <tr>
+          <td height="30" colspan="2" align="right" valign="top" class="blacktext11">[
+            <a href="signup.asp"><u><span class="blacktext11">SIGN UP</span></u></a> ] [ <a href="chu_loginhelp.asp"><u><span class="blacktext11">HELP</span></u></a>
+            ]&nbsp;&nbsp; </td>
+        </tr>
+		<!--
+        <tr valign="bottom">
+          <td height="7" colspan="2" align="center" class="blacktext11"><img src="../graphics/line.jpg" width="150" height="1"></td>
+        </tr>
+        <tr align="center" valign="middle">
+          <td height="45" colspan="2" class="blacktext11"> Our newest
+            member: <a href="show_user.asp?userid="><b></b></a></td>
+        </tr>
+		-->
+      </tbody></table></td>
+              </tr>
+            </tbody></table>
+<table width="199" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td height="22">
+			<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td class="rightheadpic"><img src="http://img.cheathappens.com/rightside_ads.jpg" width="199" height="22"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td class="rightgreybanner"><a href="http://www.cheathappens.com/aspbanner/banner_redirect.asp?Banner_ID=307" target="_blank"><img border="0" src="http://banners.cheathappens.com/images/banners/freeds_silver.jpg" alt="Get a FREE Nintendo DS!"></a></td>
+	</tr>
+</tbody></table>
+
+            <table width="199" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td class="rightheadpic"><img src="http://img.cheathappens.com/rightside_affiliates.jpg" width="199" height="22" border="0"></td>
+              </tr>
+              <tr>
+                <td class="blacktext11">
+                  <link href="main.css" rel="stylesheet" type="text/css"> <table width="199" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr> 
+    <td width="6" align="center" class="blacktext11" height="157">&nbsp;</td>
+    <td width="185" valign="bottom" class="blacktext11"><strong>Shaiya: Light &amp; Darkness</strong><br><a href="show_az_wall_main.asp">
+      <img src="http://img.cheathappens.com/walls/shaiyald_4_x.jpg" width="174" height="131" border="0" class="button"></a></td>
+  </tr>
+  <tr> 
+    <td height="58" align="center" class="rightbar2">&nbsp;</td>
+    <td class="rightbar2"><a href="show_az_wall_main.asp"><u>Click here</u></a> to see what's new in our wallpaper 
+      collection which features resolutions up to 1920x1200!</td>
+  </tr>
+</tbody></table>
+ 
+ <table width="199" border="0" cellspacing="0" cellpadding="2">
+     <tbody><tr>
+    	<td align="left">
+    	<br>
+	&nbsp;&nbsp;<b><span class="blacktext11">FEATURED MONTHLY IN:</span></b><br>
+	
+	&nbsp;&nbsp;<a href="http://www.pcgamer.co.uk"><img src="http://img.cheathappens.com/pics/pcgamer.jpg" border="0" target="_blank"></a>
+
+	</td>
+    </tr>
+         <tr>
+        	<td align="left">
+        	<br>
+    	&nbsp;&nbsp;<b><span class="blacktext10">MORE CHEATS AT:</span></b><br>
+    	
+    	&nbsp;
+<a href="http://www.cheathappens.com/aspbanner/banner_redirect.asp?Banner_ID=68" target="_blank"><img class="button" border="0" src="http://banners.cheathappens.com/images/banners/csbutsm.gif" alt="Find more cheat codes at CheatServer.com!"></a>
+
+    
+    	</td>
+        </tr>
+
+    </tbody></table>
+
+                </td>
+              </tr>
+              <tr>
+                <td>&nbsp;<br>&nbsp;&nbsp;&nbsp;277 users online.<br>&nbsp;&nbsp;&nbsp;<b>8&nbsp;members</b> /&nbsp;<b>269&nbsp;guests</b>.<p><br></p></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan="3" class="back-3rdrow"><link href="main.css" rel="stylesheet" type="text/css">
+<table width="778" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td colspan="3" class="copyright"><table width="773" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td width="104" height="30" align="right" valign="middle" class="copyright"><a href="affiliates.asp"><span class="copyright"><font color="#FFFFFF">CHEAT
+            HAPPENS</font></span></a>&nbsp;&nbsp;<br>
+            <a href="affiliates.asp"><span class="copyright"><font color="#FFFFFF">AFFILIATES:</font></span>&nbsp;&nbsp;</a></td>
+          <td width="19" align="right" valign="top" class="copyright">&nbsp;</td>
+          <td width="612" align="center" valign="middle" class="copyright"> <a href="http://www.spieletipps.de" target="_blank"><span class="copyright">CHEATS
+            AND TRICKS</span></a> &nbsp;&nbsp;.&nbsp;&nbsp;<a href="http://www.abby-cheat.com" target="_blank"><span class="copyright">ABBY-CHEAT</span></a>
+            &nbsp;&nbsp;.&nbsp;&nbsp;<a href="http://www.cheatscodesguides.com/" target="_blank"><span class="copyright">CCG CHEAT
+            CODES</span></a> &nbsp;&nbsp;.&nbsp;&nbsp;<a href="http://www.cheatcodesclub.com" target="_blank"><span class="copyright">CHEAT
+            CODES CLUB</span></a> &nbsp;&nbsp;.&nbsp;&nbsp;<a href="http://www.cheatcodesgalore.com" target="_blank"><span class="copyright">CHEAT
+            CODES GALORE</span></a> &nbsp;&nbsp;.&nbsp;&nbsp;<a href="http://www.panstudio.com/cheatstop/" target="_blank"><span class="copyright">CHEATSTOP</span></a><br>
+
+            <a href="http://www.cheats.ee/" target="_blank"><span class="copyright">CHEATS.EE</span></a>
+            &nbsp;&nbsp;.&nbsp;&nbsp;<a href="http://www.cheats.it" target="_blank"><span class="copyright">CHEATS.IT</span></a>
+            &nbsp;&nbsp;.&nbsp;&nbsp;<a href="http://www.lnkworld.com" target="_blank"><span class="copyright">LINKWORLD</span></a>
+            &nbsp;&nbsp;.&nbsp;&nbsp;<a href="http://www.mudmagic.com" target="_blank"><span class="copyright">MUD
+            MAGIC</span></a> &nbsp;&nbsp;.&nbsp;&nbsp;<a href="http://www.onlycheaters.com" target="_blank"><span class="copyright">ONLY
+            CHEATERS</span></a> &nbsp;&nbsp;.&nbsp;&nbsp;<a href="http://www.onrpg.com" target="_blank"><span class="copyright">FREE GAMES</span></a>
+            &nbsp;&nbsp;.&nbsp;&nbsp;<a href="http://www.wogaming.com/" target="_blank"><span class="copyright">WORLD
+            OF GAMING</span></a> </td>
+          <td width="38" align="right" class="copyright">&nbsp;</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr>
+    <td width="17" class="copybottom">&nbsp;</td>
+    <td width="562" valign="bottom" class="copybottom2">Copyright © 2001 - 2004
+      CHEAT HAPPENS, All Rights Reseved - <a href="disclaimer.asp">DISCLAIMER</a>
+      - <a href="privpol.asp">PRIVACY POLICY</a> - <a href="tos.asp">TERMS OF
+      SERVICE</a> - <a href="sitefaq.asp">FAQ</a></td>
+    <td width="199" align="right" valign="bottom" class="rightbarbottom">design by <a href="http://www.dingowebworks.com" target="_blank"><img src="http://img.cheathappens.com/dingo.jpg" width="49" height="13" border="0" align="absmiddle"></a>&nbsp;webworks&nbsp;</td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+
+
+</body></html>
