@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merriam-webster.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208171207id_/http%3A//www.merriam-webster.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merriam-webster.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606220816id_/http%3A//www.merriam-webster.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Merriam-Webster Online
 
