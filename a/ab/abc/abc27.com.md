@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the abc27.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208024316id_/http%3A//abc27.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc27.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617125925id_/http%3A//www2.abc27.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # abc27 - Privacy Statement
 
 **Privacy Policy**
 
-**1\. PRIVACY PRACTICES.** This statement discloses the privacy practices for the abc27 website (the "Website") a service provided by abc27, LLC. Questions regarding this statement should be directed to abc27 at [abc27.com](mailto:cwilson@abc27.com) or abc27 Privacy Policy, PO Box 5860, Harrisburg, PA 17110. This privacy policy does not apply to data collected offline including, but not limited to, data collected via the mail, telephone or at live events.
+**1\. PRIVACY PRACTICES.** This statement discloses the privacy practices for the abc27 website (the "Website") a service provided by Harrisburg Television Inc.. Questions regarding this statement should be directed to abc27 at [abc27.com](mailto:cwilson@abc27.com) or abc27 Privacy Policy, PO Box 5860, Harrisburg, PA 17110. This privacy policy does not apply to data collected offline including, but not limited to, data collected via the mail, telephone or at live events.
 
  **2\. CATEGORIES OF INFORMATION.** The information gathered by abc27 falls into two categories: (1) information voluntarily supplied by users to the Website through optional registration and (2) tracking information gathered as users navigate through the Website. 
 
