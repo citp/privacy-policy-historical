@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603155009id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024023833id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # About Swirve.com
 
 | 
 
-**Swirve.com... Tastes like chicken.**
+**Swirve.com... The way the web ought to be.**
 
-|   
----  
-  
+[](http://www.myaffiliateprogram.com/u/emgames/b.asp?id=1359)
+
+| 
+
 **Our Privacy Policy**  
 
 
@@ -57,17 +58,22 @@ To find out more about how some of our partners use your information, please vis
 |   
 ---  
   
-Amanda - The past two months have been the best time of my life. I can't wait to be with you this summer!   
-_Love, Mark_
+  
+---  
+| 
 
-Jessica, I love you. You have always been there for me, and I just want to be with you. You're the special girl in my heart.   
-_Love, Chris V_
+Jocelyn, you're the one I love the most. I can't live without you -- you are the soul of my life. Let our love become forever and ever!   
+_Love, Jeffrey_
 
-Mary - It's been many years, but I've never forgotten you & wish we'd met under different circumstances. I hope life finds you well as it does me and will never forget you.   
-_Bill_
+To the sailors deployed -- we are behind you 100%. We will remember you in our hearts and our prayers. Remember, we are with you in spirit. Stand tall and proud!   
+_Love,  
+Nick, PA_
+
+To all my friends - I want to bring you all the stars, salve all your wounds, create happy magical moments for all - because I am a Protector. Forgive me when I am irritating or bossy!   
+_Lucia_
 
 Want to say something? [Tell Us!](javascript:Users\(\);)  
   
-  
+---  
   
 
