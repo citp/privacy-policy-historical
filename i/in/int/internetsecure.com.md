@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202090256id_/http%3A//internetsecure.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610074558id_/http%3A//www2.internetsecure.com/privacy.html) for the most accurate reproduction.*
 
 # InternetSecure Privacy Policy
 
 **Privacy Policy** This document explains InternetSecure Inc.’s (“InternetSecure”) policies for the collection, use and disclosure of personal information. 
 
-This policy forms part of, and should be read in conjunction with, our Terms of Use. 
+This policy forms part of, and should be read in conjunction with, our 
+
+[_**Terms of Use**_](https://web.archive.org/web/20020610074558id_/http%3A//www2.internetsecure.com/termsofuse.html). 
 
 InternetSecure believes that privacy is crucial for the ongoing success of Internet commerce. Our status as an Internet merchant account provider and certified payment gateway requires us to have a stringent policy regarding all of the information that we collect. 
 
@@ -56,11 +58,10 @@ This site gives Merchants the following options for removing their information f
 
 If you have questions about this privacy statement, the practices of this site or your dealings with this web site, you may contact: 
 
-Charles P. Abraham, Chief Financial Officer  
 InternetSecure Inc.  
 2201 Speers Road  
 Oakville ON  
 L6L 2X9  
-Phone: (905) 469-6522 ext. 250  
+Phone: (800) 297-9482  
 Fax: (905) 469-6560  
-Email: [cpa@internetsecure.com](mailto:cpa@internetsecure.com)
+Email: [service@internetsecure.com](mailto:service@internetsecure.com)
