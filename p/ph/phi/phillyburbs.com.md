@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phillyburbs.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603233413id_/http%3A//www.phillyburbs.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillyburbs.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206094231id_/http%3A//www.phillyburbs.com/privacy.shtml) for the most accurate reproduction.*
 
 # phillyBurbs.com | Privacy Statement
 
