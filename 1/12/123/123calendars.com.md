@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the 123calendars.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402150858id_/http%3A//123calendars.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123calendars.com privacy policy that was archived on 2004-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041022123145id_/http%3A//123calendars.com/privacy.htm) for the most accurate reproduction.*
 
 # 123 Posters Privacy Policy
 
 > **PRIVACY POLICY**
+> 
+> [](http://www.bbbonline.org/r2.cfm?id=1156000424)
 > 
 > Your privacy is guaranteed at 123Posters.com. We have provided this page explaining our information management procedures so that you know you can enjoy our website without worrying about your privacy.
 > 
