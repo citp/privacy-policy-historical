@@ -1,0 +1,837 @@
+<!--The following is the downloaded HTML source of the shoesforcrews.com privacy policy that was archived on 2004-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040909234248id_/http%3A//www.shoesforcrews.com/sfc3/index.cfm%3FchangeWebsite%3DUS_En%26route%3Dinserts.Customer_Service/InternetPrivacy) for the most accurate reproduction.-->
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta name="keywords" content="shoes for crews, safety shoes, safety boots, kitchen shoes, kitchen clogs, slip-resistant shoes, shoesforcrews, slips, falls, work shoes, work boots, slip resistant footwear, workers compensation, chef shoes, chef clogs, clogs, steel toe safety shoes and boots, shoe crew, clog, accident prevention, men's safety shoes, women's safety shoes, risk management">
+<meta name="description" content="Shoes For Crews, ranked number 1 for slip-resistance are available at factory direct prices. Safety shoes and boots manufactured by Shoes For Crews, specializing in slip-resistance. Patented slip-resistant soles and anti-fatigue insoles.">
+
+<title>Shoes For Crews</title>
+
+<link href="stylesheet.css" rel="stylesheet" type="text/css">
+
+<script language="Javascript" type="text/JavaScript">
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];
+   }
+}
+var whichimg = 0;
+
+function changemap(name) {
+   //alert(name);
+   document.rolloverHell.imagemapdef.useMap = "#"+name;
+   whichimg=name;
+   if (name == 'womenmap'){
+   document.rolloverHell.men.src="/sfc3/images/US/En/tab_men.gif";
+   document.rolloverHell.shoesaccess.src="/sfc3/images/US/En/tab_shoeaccess.gif";
+   document.rolloverHell.mats.src="/sfc3/images/US/En/tab_mats.gif"
+   }
+   else if (name == 'mfimagemap'){
+   document.rolloverHell.women2.src="/sfc3/images/US/En/tab_women.gif";
+   document.rolloverHell.shoesaccess.src="/sfc3/images/US/En/tab_shoeaccess.gif";
+   document.rolloverHell.mats.src="/sfc3/images/US/En/tab_mats.gif"
+   }
+   else if (name == 'shoesimagemap'){
+   document.rolloverHell.women2.src="/sfc3/images/US/En/tab_women.gif";
+   document.rolloverHell.men.src="/sfc3/images/US/En/tab_men.gif";
+   document.rolloverHell.mats.src="/sfc3/images/US/En/tab_mats.gif"
+   }
+   else if (name == 'matsmapMap'){
+   document.rolloverHell.women2.src="/sfc3/images/US/En/tab_women.gif";
+   document.rolloverHell.men.src="/sfc3/images/US/En/tab_men.gif";
+   document.rolloverHell.shoesaccess.src="/sfc3/images/US/En/tab_shoeaccess.gif"
+   }
+}
+
+function changeimg(){
+   //alert(whichimg);
+   if (whichimg == 'mfimagemap')
+   document.rolloverHell.men.src ="/sfc3/images/US/En/tab_men.gif"
+   else if (whichimg == 'womenmap')
+   document.rolloverHell.women2.src ="/sfc3/images/US/En/tab_women.gif"
+}
+
+var submitcount=0;
+var no_errors = true;
+function LoginSubmit() {
+	if (no_errors) {
+			if ((document.loginform.username.value == "") || (document.loginform.username.value == "USERNAME")){
+				no_errors = false;
+				alert("Please enter the field username");
+				document.loginform.username.focus();					
+			}
+	}			
+	if (no_errors) {
+			if ((document.loginform.password.value == "") || (document.loginform.password.value == "PASSWORD")){
+				no_errors = false;
+				alert("Please enter the field password");
+				document.loginform.password.focus();					
+			}
+	}			
+	if (no_errors)
+		{
+		if (submitcount == 0)
+ 					  {
+	    	  submitcount++;
+					//document.loginform.loginproc.value="1";
+					//alert(document.loginform.loginproc.value);
+					//alert('Please Note: If you are logging in as a PDP customer, \nany item that you previously added to your basket will be removed!');
+					document.loginform.submit();
+		      //return true;			
+		      }		
+		else 
+		      {
+	    	  //alert("!");
+		      return false;
+      		  }
+		} 
+	else {
+		no_errors = true;
+	  return false;					
+	}
+}
+function goToShowDetl(Select){				
+	if (Select.value !=''){					
+		document.location.href = '/sfc3/index.cfm?changeWebsite=US_En&route=c_store.viewDetailsOfProduct&partnumber=' + Select.value;
+	}
+	else
+		alert('Please Select A Style')
+	return false
+}
+
+</script>
+
+</head>
+
+<body bgcolor="FFFFFF" background="/sfc3/images/US/En/back_dark.gif" onload="MM_preloadImages('/sfc3/images/US/En/tab_shoeaccess_over.gif',
+'/sfc3/images/US/En/tab_mats_over.gif',
+'/sfc3/images/US/En/btn_arrowforward.gif',
+'/sfc3/images/US/En/tab_men_over.gif',
+'/sfc3/images/US/En/nav_group_mf2.gif',
+'/sfc3/images/US/En/blankspacer.gif',
+'/sfc3/images/US/En/tab_women_over.gif')" text="000000" link="0000FF" alink="FF0000" vlink="551A8B" leftmargin="0" rightmargin="0"><table align="center" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td>
+			
+
+
+<table border="0" width="755" align="center" cellpadding="1" cellspacing="1" bgcolor="white">
+  <tbody><tr>
+    <td width="755"> 
+      <map name="mfimagemap">
+		<area shape="rect" coords="14,1,170,21" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg6" alt="workshoes,boots,clogs">
+		<area shape="rect" coords="178,1,230,19" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg5" alt="athletic">
+		<area shape="rect" coords="239,-1,330,20" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg7" alt="casualdress">
+		<area shape="rect" coords="339,-2,400,21" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg8" alt="steel toe">
+		<area shape="rect" coords="406,4,471,20" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg9" alt="Clearance">
+		</map><map name="womenmap">
+		  <area shape="rect" coords="14,1,170,21" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg11" alt="workshoes,boots,clogs">
+		  <area shape="rect" coords="178,1,230,19" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg10" alt="athletic">
+		  <area shape="rect" coords="239,-1,330,20" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg12" alt="casualdress">
+		  <area shape="rect" coords="339,-2,400,21" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg13" alt="steel toe">
+		  <area shape="rect" coords="406,4,471,20" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg14" alt="Clearance">
+		</map><map name="shoesimagemap" id="accessories">
+			<area shape="rect" coords="120,2,200,19" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg3" alt="over shoes">
+			<area shape="rect" coords="265,2,320,19" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg1" alt="insoles">
+			<area shape="rect" coords="210,2,260,19" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg2" alt="socks">
+			<area shape="rect" coords="325,2,380,19" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg16" alt="aprons">
+			<area shape="rect" coords="385,2,450,19" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg15" alt="gloves">
+		</map><map name="matsmapMap">
+			<area shape="rect" coords="300,1,550,23" href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByProductGroup&amp;productGroupId=pg4" alt="Mighty Mats">
+		</map><table cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr> 
+    		<td width="195" rowspan="4" align="center" class="smalltext-blk">
+			<a href="http://www.shoesforcrews.com/sfc3/index.cfm">
+			<img src="/sfc3/images/US/En/logo_shoesforcrews.gif" alt="Shoes For Crews, manufacturers of top rated slip resistant footwear for the workplace!" width="192" height="114" border="0" align="absmiddle"></a>
+			<br>
+			<img src="/sfc3/images/US/En/art_flag.gif" alt="US" width="40" height="20" border="0" align="absmiddle">
+		</td>
+          <td width="138" height="15" valign="middle">&nbsp;</td>
+          
+        <td width="277" height="15" class="smalltext-blk"> 
+          
+          <strong>Region:</strong> <a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=CA_en&amp;SFCGlobal=1">Canada</a> | <a href="http://www.sfceurope.com">Europe</a>
+        </td>
+		
+          <td width="19" height="15">
+		  	 
+				&nbsp;
+			
+		</td>
+          <td width="136" height="15" class="smalltext-blk">
+			   
+				&nbsp;
+			  
+		  </td>
+        </tr>
+        <tr> 
+          <td height="51" colspan="4" align="left"> 
+			  <table width="94%" height="51" border="0" align="left" cellpadding="0" cellspacing="0">
+	              
+
+					<tbody><tr>
+              <td align="center" bgcolor="FFFF00"> <div align="center" style="font-face='Verdana':background-color='yellow'"> 
+                  <font color="red" size="2" face="Arial, Helvetica, sans-serif"><b>Due 
+                  to Hurricane Frances, we are presently experiencing a delay 
+                  of approximately 3 - 5 business days in the shipment of orders. 
+                  We apologize for any inconvenience.</b></font></div>
+					</td></tr>
+
+	                
+	            </tbody></table>
+			</td>
+        </tr>
+        <tr> 
+          <td colspan="4"> 
+			  <table width="98%" height="29" border="0" align="center" cellpadding="0" cellspacing="0">
+	              <tbody><tr> 
+	                <td height="1" colspan="4">
+						<img src="/sfc3/images/US/En/art_horzbar_grey.gif" width="566" height="1">
+					</td>
+	              </tr>
+	              <tr> 
+	                <td width="1" height="1">&nbsp;</td>
+	                <td width="564" align="center"> 
+						<table width="100%" height="20" border="0" align="center" cellpadding="0" cellspacing="0">
+		                    <tbody><tr align="center"> 
+		                      <td width="3%"> 
+								  <div align="center">
+								  <a href="https://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_myaccount.displayMyAccountHome">
+								  <img src="/sfc3/images/US/En/btn_briefcase.gif" width="13" height="11" hspace="2" align="absmiddle" border="0"></a></div>
+							  </td>
+		                         <td width="16%" class="smalltext-blk"> 
+								  <a href="https://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_myaccount.displayMyAccountHome">
+								  <img src="/sfc3/images/US/En/btn_myaccount_header.gif" alt="My Account" border="0" align="absmiddle"></a>
+							  </td>
+		                      <td width="6%"> 
+								  <div align="right">
+								  <a href="https://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.viewShoppingCartContents">
+								  <img src="/sfc3/images/US/En/btn_cart.gif" width="15" height="14" hspace="2" align="absmiddle" border="0"></a></div>
+							  </td>
+		                      <td align="left"> 
+								  <a href="https://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.viewShoppingCartContents">
+								  <img src="/sfc3/images/US/En/btn_cart_header.gif" alt="View Cart / Checkout" hspace="2" border="0" align="absmiddle"></a>
+							  </td>
+		                      <td class="smalltext-blk">
+								  <div align="center">
+								  total items:0
+								  </div>
+							  </td>
+		                      <td width="20%" class="smalltext-blk"> 
+								  <div align="center">
+								  SubTotal&nbsp;$0.00</div>
+							  </td>
+		                      <td width="4%"> 
+								  <div align="center">
+								  <a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.Customer_Service/help_content">
+								  <img src="/sfc3/images/US/En/btn_question.gif" hspace="2" align="absmiddle" border="0">
+								  </a></div>
+							  </td>
+		                      <td width="8%" class="smalltext-blk"> 
+								  <div align="center">
+								  <a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.Customer_Service/help_content">
+								  HELP</a></div>
+							  </td>
+		                    </tr>
+		                </tbody></table>
+					</td>
+	                <td width="1">&nbsp;</td>
+	            </tr>
+	              <tr> 
+	                <td height="4" colspan="4">
+						<img src="/sfc3/images/US/En/art_vertbar_purple.gif" width="566" height="4">
+					</td>
+	              </tr>
+	            </tbody></table>
+			</td>
+        </tr>
+
+		<form name="rolloverHell"></form>
+				<tr> 
+				  <td height="50" colspan="4" align="center" valign="top"> 
+					<table width="564" border="0" align="center" cellpadding="0" cellspacing="0">
+					  <tbody><tr> 
+						<td width="15%" onmouseover="MM_swapImage('mfmap2','','/sfc3/images/US/En/blankspacer.gif',1);
+						MM_swapImage('men','',
+						'/sfc3/images/US/En/tab_men_over.gif','spacerblank',
+						'','/sfc3/images/US/En/nav_group_mf2.gif',1)">
+						<a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByCategory&amp;CategoryId=c3">
+						<img src="/sfc3/images/US/En/tab_men.gif" name="men" border="0" id="men" onmouseover="changemap('mfimagemap');"></a>
+						</td>
+						<td width="15%" onmouseover="MM_swapImage('mfmap2','','/sfc3/images/US/En/blankspacer.gif',1);
+						MM_swapImage('women2','',
+						'/sfc3/images/US/En/tab_women_over.gif','spacerblank',
+						'','/sfc3/images/US/En/nav_group_mf2.gif',1)">
+						<a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByCategory&amp;CategoryId=c4">
+						<img src="/sfc3/images/US/En/tab_women.gif" name="women2" border="0" id="women2" onmouseover="changemap('womenmap');"></a>
+						</td>
+						<td width="21%" onmouseover="MM_swapImage('shoesaccess','',
+						'/sfc3/images/US/En/tab_shoeaccess_over.gif','spacerblank',
+						'','/sfc3/images/US/En/nav_group_shoes2.gif',1)">
+						<a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByCategory&amp;CategoryId=c1">
+						<img src="/sfc3/images/US/En/tab_shoeaccess.gif" name="shoesaccess" border="0" id="shoesaccess" onmouseover="changemap('shoesimagemap');"></a>
+						</td>
+						<td width="15%" onmouseover="MM_swapImage('mats','',
+						'/sfc3/images/US/En/tab_mats_over.gif','spacerblank',
+						'','/sfc3/images/US/En/nav_group_mats.gif',1)">
+						<a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsByCategory&amp;CategoryId=c2">
+						<img src="/sfc3/images/US/En/tab_mats.gif" name="mats" border="0" id="mats" onmouseover="changemap('matsmapMap');"></a>
+						</td>
+						<td width="34%" colspan="2"></td>
+					  </tr>
+					  <tr>
+						<td height="18" colspan="6">
+						<img src="/sfc3/images/US/En/&#10;&#9;&#9;&#9;&#9;&#9;&#9;blankspacer.gif" id="spacerblank" usemap="#mfimagemap" border="0" name="imagemapdef">
+						</td>
+					  </tr>
+					</tbody></table>
+				 </td>
+				</tr>
+				<tr align="center"> 
+				  <td height="1" colspan="5" class="smalltext-blk">
+				  <img src="/sfc3/images/US/En/art_horzbar_long.gif" width="760" height="1" vspace="5"></td>
+				  
+				</tr>
+		
+		
+		
+		
+		
+		
+		
+	
+</tbody></table>
+
+		</td>
+	</tr>	
+	
+	<tr>
+		<td width="90%">
+			<table border="0" width="96%" cellpadding="0" cellspacing="0">
+       			 <tbody><tr>
+					<td valign="top" width="150" align="center">
+						<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="FFFFFF">
+  <tbody><tr>
+				
+				<form name="searchForm" method="post" action="/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseProductsBySearchResults"></form>
+				
+		<td valign="top">
+			<div align="center">
+					<font class="smalltext-blk">
+					<img src="/sfc3/images/US/En/art_magnifier.gif" width="17" height="16" hspace="2" align="absmiddle">PRODUCT SEARCH<br>
+					</font>
+					<input name="searchstring" type="text" id="search" size="10" class="formfield">
+					<input name="Image" type="Image" src="/sfc3/images/US/En/btn_go.gif" align="absmiddle" hspace="2">
+			</div>
+		</td>
+				
+	</tr>
+	<tr>
+		<td align="center" class="smalltext-blk">
+			
+			<nobr><a href="http://www.shoesforcrews.com/sfc3/index.cfm?route=inserts.QA/searchtips_content.cfm">Search Tips</a></nobr>
+			
+		</td>
+	</tr>
+</tbody></table> 	<table width="100%" border="0" align="center" cellpadding="0">
+  <form name="GoToShowDetl" onsubmit="return goToShowDetl(GoToShowDetl.Product_Id)"></form>
+	   	<tbody><tr>
+	   		<td align="center">	   		   
+	   		   <nobr><font class="smalltext-blk"><img src="/sfc3/images/US/En/art_magnifier.gif" width="17" height="16" hspace="2" align="absmiddle">SEARCH BY STYLE NUMBER</font></nobr><br>
+	   			<select display="PartNumber" name="partnumber" onchange="goToShowDetl(this)" class="dropdown-gry">
+	   				<option value="">Select Style</option>
+					
+	   					<option value="20">20</option>
+						
+	   					<option value="35">35</option>
+						
+	   					<option value="50">50</option>
+						
+	   					<option value="1004">1004</option>
+						
+	   					<option value="1006">1006</option>
+						
+	   					<option value="1025">1025</option>
+						
+	   					<option value="1030">1030</option>
+						
+	   					<option value="1034">1034</option>
+						
+	   					<option value="1036">1036</option>
+						
+	   					<option value="1038">1038</option>
+						
+	   					<option value="1111">1111</option>
+						
+	   					<option value="1112">1112</option>
+						
+	   					<option value="1113">1113</option>
+						
+	   					<option value="1114">1114</option>
+						
+	   					<option value="1130">1130</option>
+						
+	   					<option value="1138">1138</option>
+						
+	   					<option value="1140">1140</option>
+						
+	   					<option value="1141">1141</option>
+						
+	   					<option value="1142">1142</option>
+						
+	   					<option value="1143">1143</option>
+						
+	   					<option value="2050">2050</option>
+						
+	   					<option value="2051">2051</option>
+						
+	   					<option value="2081">2081</option>
+						
+	   					<option value="2092">2092</option>
+						
+	   					<option value="3197">3197</option>
+						
+	   					<option value="3198">3198</option>
+						
+	   					<option value="3580">3580</option>
+						
+	   					<option value="3581">3581</option>
+						
+	   					<option value="3582">3582</option>
+						
+	   					<option value="3587">3587</option>
+						
+	   					<option value="3591">3591</option>
+						
+	   					<option value="3595">3595</option>
+						
+	   					<option value="3597">3597</option>
+						
+	   					<option value="3598">3598</option>
+						
+	   					<option value="3691">3691</option>
+						
+	   					<option value="6001">6001</option>
+						
+	   					<option value="6002">6002</option>
+						
+	   					<option value="6004">6004</option>
+						
+	   					<option value="6006">6006</option>
+						
+	   					<option value="6007">6007</option>
+						
+	   					<option value="6008">6008</option>
+						
+	   					<option value="6009">6009</option>
+						
+	   					<option value="6107">6107</option>
+						
+	   					<option value="06159">06159</option>
+						
+	   					<option value="7001">7001</option>
+						
+	   					<option value="7002">7002</option>
+						
+	   					<option value="7004">7004</option>
+						
+	   					<option value="7006">7006</option>
+						
+	   					<option value="7007">7007</option>
+						
+	   					<option value="7008">7008</option>
+						
+	   					<option value="7009">7009</option>
+						
+	   					<option value="7090">7090</option>
+						
+	   					<option value="7107">7107</option>
+						
+	   					<option value="8020">8020</option>
+						
+	   					<option value="8021">8021</option>
+						
+	   					<option value="8022">8022</option>
+						
+	   					<option value="8023">8023</option>
+						
+	   					<option value="8024">8024</option>
+						
+	   					<option value="8025">8025</option>
+						
+	   					<option value="8037">8037</option>
+						
+	   					<option value="8055">8055</option>
+						
+	   					<option value="8080">8080</option>
+						
+	   					<option value="8081">8081</option>
+						
+	   					<option value="8082">8082</option>
+						
+	   					<option value="8083">8083</option>
+						
+	   					<option value="8086">8086</option>
+						
+	   					<option value="8088">8088</option>
+						
+	   					<option value="8090">8090</option>
+						
+	   					<option value="8091">8091</option>
+						
+	   					<option value="8095">8095</option>
+						
+	   					<option value="8098">8098</option>
+						
+	   					<option value="9016">9016</option>
+						
+	   					<option value="9020">9020</option>
+						
+	   					<option value="9022">9022</option>
+						
+	   					<option value="9023">9023</option>
+						
+	   					<option value="9024">9024</option>
+						
+	   					<option value="9025">9025</option>
+						
+	   					<option value="9030">9030</option>
+						
+	   					<option value="9035">9035</option>
+						
+	   					<option value="9036">9036</option>
+						
+	   					<option value="9037">9037</option>
+						
+	   					<option value="9051">9051</option>
+						
+	   					<option value="9055">9055</option>
+						
+	   					<option value="9065">9065</option>
+						
+	   					<option value="9082">9082</option>
+						
+	   					<option value="9083">9083</option>
+						
+	   					<option value="9086">9086</option>
+						
+	   					<option value="9091">9091</option>
+						
+	   					<option value="50360">50360</option>
+						
+	   					<option value="86159">86159</option>
+						
+	   					<option value="87185">87185</option>
+						
+	   					<option value="94411">94411</option>
+						
+	   					<option value="97189">97189</option>
+						
+	   			</select>
+	   		   <input type="image" name="button" src="/sfc3/images/US/En/btn_go.gif" align="absmiddle" hspace="2">
+			   </td>
+		</tr>
+		
+	</tbody></table>
+			<br>
+			
+<table border="0" align="center" cellpadding="0" cellspacing="0" width="200">
+	<tbody><tr>
+		<td width="13%" rowspan="6" align="center" valign="middle">
+			<img src="/sfc3/images/US/En/art_lock.gif" width="11" height="17" align="absmiddle">
+		</td>
+		
+      <td colspan="3" class="smalltext-blk" align="left"> <img src="/sfc3/images/US/En/art_dottedline.gif" width="193" height="1"> 
+        <span class="medtext-blk-bld"><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_customer.selectAccountTypeToSetUpForm">REGISTER 
+        TO ORDER HERE!</a></span><br>
+        <br>
+        PREVIOUS CUSTOMER LOG-IN
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3" class="smalltext-blk">
+		</td>
+	</tr>
+	<form name="loginform" method="post" action="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.Customer_Service/InternetPrivacy"></form>			
+		<tr>
+			<td width="28%" height="30" class="smalltext-blk">
+				<div align="right">	USERNAME:</div>
+			</td>
+			<td width="45%" align="center" class="smalltext-blk">					
+				<input type="text" name="username" size="10" maxlength="25" value="" class="formfield">
+			</td>
+			<td width="14%">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="smalltext-blk">
+				<div align="right">PASSWORD:</div>
+			</td>
+			<td align="center" class="smalltext-blk">					
+				<input type="password" name="password" size="10" maxlength="25" value="" class="formfield">
+			</td>
+			<td width="14%">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center" valign="bottom" height="30">					
+				<input name="SubmitLoginInfo" type="submit" value="LOGIN">
+			</td>
+			<td width="14%">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td height="23" colspan="3" class="smalltext-blk">
+				<div align="center"><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_customer.requestLocatePasswordForm">Forgot username or password?<br> click here</a>
+				</div>
+			</td>
+		</tr>
+	
+</tbody></table>
+
+	<table width="194" height="188" border="0" cellspacing="0" cellpadding="0">
+ 		<tbody><tr>
+			<td>
+				<img src="/sfc3/images/US/En/spacer1.gif" name="blank12" width="14" height="20" id="blank12" vspace="0">
+				&nbsp; &nbsp; &nbsp;
+				<a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.viewWhatsNewPage" onmouseover="MM_swapImage('blank12','','/sfc3/images/US/En/btn_arrowforward.gif',1)" onmouseout="MM_swapImgRestore()" style="text-decoration: None; color: Black;" class="smalltext-gry">news &amp; updates</a>
+			</td>
+		</tr>
+	 	<tr> 
+			<td><img src="/sfc3/images/US/En/spacer1.gif" name="blank9" width="14" height="20" id="blank20" vspace="0">
+			&nbsp; &nbsp; &nbsp;
+			<a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_store.browseFamilies" onmouseover="MM_swapImage('blank20','','/sfc3/images/US/En/btn_arrowforward.gif',1)" onmouseout="MM_swapImgRestore()" style="text-decoration: None; color: Black;" class="smalltext-gry">browse shoe families</a>
+			</td>
+		</tr>
+		<tr>
+			<td><img src="/sfc3/images/US/En/spacer1.gif" name="blank9" width="14" height="20" id="blank9" vspace="0">
+			&nbsp; &nbsp; &nbsp;
+			<a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.clearance/default.CFM" onmouseover="MM_swapImage('blank9','','/sfc3/images/US/En/btn_arrowforward.gif',1)" onmouseout="MM_swapImgRestore()" style="text-decoration: None; color: Black;" class="smalltext-gry">clearance items</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<img src="/sfc3/images/US/En/spacer1.gif" name="blank2" width="14" height="20" id="blank2" vspace="0">
+			&nbsp; &nbsp; &nbsp;
+			<a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.QA/faq_content.CFM" onmouseover="MM_swapImage('blank2','','/sfc3/images/US/En/btn_arrowforward.gif',1)" onmouseout="MM_swapImgRestore()" style="text-decoration: None; color: Black;" class="smalltext-gry">questions &amp; answers</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<img src="/sfc3/images/US/En/spacer1.gif" name="blank3" width="14" height="20" id="blank3">
+			&nbsp; &nbsp; &nbsp;
+			<a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.deduction/paydeduct_content.CFM" onmouseover="MM_swapImage('blank3','','/sfc3/images/US/En/btn_arrowforward.gif',1)" onmouseout="MM_swapImgRestore()" style="text-decoration: None; color: Black;" class="smalltext-gry">payroll deduction plan</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<img src="/sfc3/images/US/En/spacer1.gif" name="blank4" width="14" height="20" id="blank4">
+			&nbsp; &nbsp; &nbsp;
+			<a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.testimon/testimonials.htm" onmouseover="MM_swapImage('blank4','','/sfc3/images/US/En/btn_arrowforward.gif',1)" onmouseout="MM_swapImgRestore()" style="text-decoration: None; color: Black;" class="smalltext-gry">testimonials</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<img src="/sfc3/images/US/En/spacer1.gif" name="blank5" width="14" height="20" id="blank5">
+			&nbsp; &nbsp; &nbsp; <a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.QA/result_content.htm" onmouseover="MM_swapImage('blank5','','/sfc3/images/US/En/btn_arrowforward.gif',1)" onmouseout="MM_swapImgRestore()" style="text-decoration: None; color: Black;" class="smalltext-gry">slip test results</a> </td>
+		</tr>
+		<tr>
+			<td>
+			<img src="/sfc3/images/US/En/spacer1.gif" name="blank6" width="14" height="20" id="blank6">
+			&nbsp; &nbsp; &nbsp; <a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.aboutus/about_us.htm" onmouseover="MM_swapImage('blank6','','/sfc3/images/US/En/btn_arrowforward.gif',1)" onmouseout="MM_swapImgRestore()" style="text-decoration: None; color: Black;" class="smalltext-gry">about us</a> </td>
+		</tr>
+		<tr>
+			<td>
+			<img src="/sfc3/images/US/En/spacer1.gif" name="blank7" width="14" height="20" id="blank7">
+			&nbsp; &nbsp; &nbsp; <a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.whatsnew/enewsletter_archive_content" onmouseover="MM_swapImage('blank7','','/sfc3/images/US/En/btn_arrowforward.gif',1)" onmouseout="MM_swapImgRestore()" style="text-decoration: None; color: Black;" class="smalltext-gry">eNewsletter</a> </td>
+		</tr>
+		<tr>
+			<td>
+			<img src="/sfc3/images/US/En/spacer1.gif" name="blank8" width="14" height="20" id="blank8">
+			&nbsp; &nbsp; &nbsp;
+			<a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_customerservice.contactUs" onmouseover="MM_swapImage('blank8','','/sfc3/images/US/En/btn_arrowforward.gif',1)" onmouseout="MM_swapImgRestore()" style="text-decoration: None; color: Black;" class="smalltext-gry">contact us</a>
+			</td>
+		</tr>
+		<tr>
+			<td>	&nbsp;<br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" class="smalltext-blk"><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_myaccount.TrackOrders">Track Your Orders Here<br><img src="/sfc3/images/US/En/bar_code.gif" width="117" height="20" hspace="2" align="absmiddle" border="0"></a><br>&nbsp; &nbsp; &nbsp;<a href="http://www.shoesforcrews.com/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.Customer_Service/Returns_content.cfm"><img src="/sfc3/images/US/En/art_60day.gif" alt="60 Day Wear &amp; Compare Satisfaction Guarantee on all Footwear!" width="192" height="96" border="0"></a>
+			</td>
+		</tr>
+	</tbody></table> 
+					</td> 
+					<td align="center" valign="top">
+						 
+  <table>
+    <tbody><tr>
+      <td width="450" class="medtext-blk-reg"><span class="largepurple-textbld">Shoes For Crews<font size="1">®</font> Internet Privacy Policy</span> 
+        <p>Thank you for visiting Shoes For Crews, LLC's Web site. 
+          Your privacy is very important to us. We collect no personal information 
+          about you when you visit our Web site unless you choose to make such 
+          information available to us.</p>
+        <p>When you visit our Web site, our server automatically 
+          recognizes only the Internet domain and IP address from which you accessed 
+          our site. This information does not result in the identification of 
+          your personal e-mail address or other personal information.</p>
+        <p>In addition, we monitor the volume and timing of access 
+          to our site by collecting information on the date, time and pages accessed 
+          by visitors. We do this so that we can improve the content of our Web 
+          site, and this information is not shared with other organizations. Again, 
+          only aggregate information is collected, and individual visitors' personal 
+          information is not identified.</p>
+        <p>If you choose to share personal information with us 
+          by sending us a message or filling out an electronic form with personal 
+          information, we will use the information only for the purposes you authorized. 
+          Some of the information may be saved for a designated period to comply 
+          with Florida's archiving policies, but we will not disclose the information 
+          to third parties or other government agencies, unless required to do 
+          so by state or federal law.</p>
+        <p>We will periodically send special offers and updates 
+          via email to all registered users of this site. If you do not wish to 
+          receive any email offers or updates via email, please <a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_customer.unsubscribe">click 
+          here to opt-out</a>.</p>
+        <p>While shopping our site, please be assured that all 
+          of your transactions are protected by SSL encryption software, and every 
+          purchase you make at ShoesForCrews.com is <a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.Customer_Service/SecureShopping">safe 
+          and secure</a>!</p>
+        <p>If you have any other questions about our privacy procedures, 
+          or have ideas about improving our procedures, please feel free to e-mail 
+          us at <a href="mailto:SFConline@shoesforcrews.com?subject=Privacy%20Policy">SFConline@shoesforcrews.com</a>.</p>
+         </td>
+    </tr>
+    <tr>
+      <td><img src="/sfc3/images/US/En/shadow-divider.jpg" width="500" height="26"></td>
+    </tr>
+  </tbody></table>
+
+		 
+						 
+						 
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	 
+	<tr align="center" valign="top"> 
+		 
+<td colspan="5">
+	<table width="760" align="center" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			</td>
+		</tr>
+			
+			<tr><td height="16" colspan="2" align="center">
+				<table width="86%" height="16" border="0" align="center" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td width="3%" align="center" class="smalltext-gry">
+							<nobr><a href="http://www.shoesforcrews.com/sfc3/index.cfm" style="text-decoration: None; color:Gray;">
+								<strong>HOME</strong>&nbsp;
+							</a></nobr><a href="http://www.shoesforcrews.com/sfc3/index.cfm" style="text-decoration: None; color:Gray;">
+						</a></td>
+						<td width="3%" align="center" class="smalltext-gry">
+							|
+						</td>
+			
+			
+		
+						
+              <td width="11%" align="center" class="smalltext-gry"> <nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.aboutus/about_us" style="text-decoration: None; color:Gray;"> 
+                &nbsp;<strong>ABOUT US</strong>&nbsp; </a></nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.aboutus/about_us" style="text-decoration: None; color:Gray;"> </a></td>
+						<td width="11%" align="center" class="smalltext-gry">
+							|
+						</td>
+		
+						<td width="10%" align="center" class="smalltext-gry">
+							<nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.QA/faq_content" style="text-decoration: None; color:Gray;">
+							&nbsp;<strong>QUESTIONS AND ANSWERS</strong>&nbsp;
+							</a></nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.QA/faq_content" style="text-decoration: None; color:Gray;">
+						</a></td>
+						<td width="10%" align="center" class="smalltext-gry">
+							|
+						</td>
+		
+
+						<td width="6%" align="center" class="smalltext-gry">
+							<nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.testimon/testimonials" style="text-decoration: None; color:Gray;">
+							&nbsp;<strong>TESTIMONIALS</strong>&nbsp;
+							</a></nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.testimon/testimonials" style="text-decoration: None; color:Gray;">
+						</a></td>
+
+						<td width="6%" align="center" class="smalltext-gry">
+							|
+						</td>
+								
+						<td width="8%" align="center" class="smalltext-gry">
+							<nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.Customer_Service/help_content" style="text-decoration: None; color:Gray;">
+							&nbsp;<strong>CUSTOMER SERVICE</strong>&nbsp;
+							</a></nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.Customer_Service/help_content" style="text-decoration: None; color:Gray;">
+						</a></td>
+						<td width="8%" align="center" class="smalltext-gry">
+							 | 
+						</td>
+						<td class="smalltext-gry">
+							<nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_customerservice.contactUs" style="text-decoration: None; color:Gray;">
+							&nbsp;<strong>CONTACT US</strong>
+							</a></nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=c_customerservice.contactUs" style="text-decoration: None; color:Gray;">
+						</a></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td width="17%" height="45">
+				<a href="https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&amp;form_file=../fdf/authCertByIssuer.fdf&amp;issuerSerial=36c4ac47c065afcaac0f4c87eabcbd6b">
+				<img src="/sfc3/images/US/En/art_verisign.gif" width="52" height="65" border="0"></a>
+				<img src="/sfc3/images/US/En/spacer.gif" width="5" height="1">
+				<a href="http://www.bbbonline.org/cks.asp?id=103070113232033365" target="new">
+				<img src="/sfc3/images/US/En/ReliabilitySeal2.gif" alt="BBBOnLine Reliability Seal" width="50" height="76" border="0">
+				</a>
+			
+				
+			</td>
+			<td width="70%" class="smalltext-blk" valign="top"><br><br>
+          Copyright © 2004 SHOES FOR CREWS, LLC. All rights reserved.&nbsp; 
+          <nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.Customer_Service/InternetPrivacy"> 
+          Privacy Policy</a> </nobr>&nbsp; <nobr><a href="/sfc3/index.cfm?changeWebsite=US_En&amp;route=inserts.Customer_Service/SecureShopping"> 
+          Secure Shopping</a> </nobr> </td>
+		</tr>
+		<tr>
+			<td height="4" colspan="3" align="center" background="/sfc3/images/US/En/art_horzbar_pagebkg.gif">
+			<img src="/sfc3/images/US/En/art_horzbar_btmpage.gif" width="760" height="4">
+			</td>
+		</tr>
+	</tbody></table>
+</td>
+
+	</tr>
+	
+</tbody></table>
+
+
+</td></tr></tbody></table></body></html>
