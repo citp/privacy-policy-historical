@@ -1,7 +1,12 @@
-> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402154140id_/http%3A//www.unfcu.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203165305id_/http%3A//www.unfcu.org/PAGES/Privacy.asp) for the most accurate reproduction.*
 
 # UNFCU Privacy Policy
 
+|   
+---  
+   
+   
+  
 **We Care about Your Privacy**
 
 At UNFCU, we are committed to safeguarding your financial information and maintaining your privacy. To help you understand how UNFCU collects, uses and protects your personal information, we have established policies and procedures, which are detailed here in the UNFCU Privacy Policy.   
@@ -114,4 +119,7 @@ We want you to understand our commitment to privacy issues and our use of confid
 >  ATTN: Member Directed Services 
 
 These privacy principles apply to all UNFCU members, all former members and all nonmember consumers.   
+
+
+  
 
