@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2001-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010303024615id_/http%3A//thermo.com/eThermo/CDA/Footer/Privacy_Statement/0%2C12497%2C1-8%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813143343id_/http%3A//thermo.com/eThermo/CDA/Footer/Privacy_Statement/0%2C12497%2C1-8%2C00.html) for the most accurate reproduction.*
 
 # Privacy Statement - Thermo
 
