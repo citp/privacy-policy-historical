@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portillos.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214144125id_/http%3A//portillos.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portillos.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609121959id_/http%3A//www.portillos.com/privacy.jsp) for the most accurate reproduction.*
 
 # The Portillo Restaurant Group: Locations
 
@@ -61,4 +61,4 @@ This page was last updated April 2001.
 
 [Barnelli's](http://www.portillos.com/barnellis/) | [Barney's](http://www.portillos.com/barneys/) | [Key Wester](http://www.portillos.com/keywester/) | [Hemingway's](http://www.portillos.com/hemingways/) | [Luigi's](http://www.portillos.com/luigis/) | [Portillo's](http://www.portillos.com/portillos/) | [Home Kitchen Catering](http://www.portillos.com/catering/) | [Shipping](http://www.portillos.com/store/)
 
-[History](http://www.portillos.com/history/) | [Join Our Team](http://www.portillos.com/join/) | [Locations](http://www.portillos.com/locations.asp) | [Contact Us](http://www.portillos.com/contact.asp)
+[History](http://www.portillos.com/history/) | [Join Our Team](http://www.portillos.com/join/) | [Locations](http://www.portillos.com/locations.jsp) | [Contact Us](http://www.portillos.com/contact.jsp)
