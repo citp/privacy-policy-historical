@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the northerntool.com privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603045322id_/http%3A//www.northerntool.com/custhelp/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the northerntool.com privacy policy that was archived on 2001-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011201154607id_/http%3A//www.northerntool.com/custhelp/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><html><head>
  <title>Northern Tool and Equipment - Customer Help - Privacy Policy</title>
@@ -10,10 +10,70 @@
 <script language="JavaScript">
 <!--
 
+// javascript for dash in search box: Ron
+function DashSearch(searchword)
+{
+var singleq = searchword.value.indexOf("'");
+var doubleq = searchword.value.indexOf('\"');
+if ((doubleq != -1) || (singleq != -1))
+{
+  alert("Please unquote your keyword.");
+  return false;
+}
+
+ if ((document.searchprod.STYPE_key.checked == false) && (document.searchprod.STYPE_item.checked == false))
+ {
+  alert("Please select either the item# or keyword checkbox depending on how you want to search");
+  return false;
+ }
+
+ if (searchword.value == "") 
+ {
+  alert("Please enter a value in the text field.");
+  return false;
+ }
+
+ if (document.searchprod.STYPE_key.checked == true)  
+ {
+  var sindex = searchword.value.indexOf("-");
+  if (sindex == -1)
+   return true;
+  else {
+   alert("Do not include any dashes in your keyword. Try replacing the dash with a space.");
+   return false;
+  }
+ }
+
+ if (document.searchprod.STYPE_item.checked == true)  
+ {
+  var sindex = searchword.value.indexOf("-");
+  if (sindex == -1)
+   return true;
+  else {
+   alert("Only include the digits before the dash.");
+   return false;
+  }
+ }
+}
+
+// Only allow check in one checkbox
+function ItemCheck(){
+if (document.searchprod.STYPE_key.checked == true)
+  document.searchprod.STYPE_key.checked = false;
+}
+function KeywordCheck(){
+if (document.searchprod.STYPE_item.checked == true)
+  document.searchprod.STYPE_item.checked = false;
+}
+function BrandCheck(){
+  window.location.href="http://www.northerntool.com/brand/a_e.htm";
+}
+
 // Category select box redirection for exceptions: Ron
 function CatCheck()
 {
  if (document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value != "pw" &&
+     document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value != "eng" &&
      document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value != "wp" &&
      document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value != "gen" &&
      document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value != "air" &&
@@ -23,6 +83,7 @@ function CatCheck()
      document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value != "all" &&
      document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value != "67" &&
      document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value != "157" &&
+     document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value != "509049" &&
      document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value != "333848")
  {
   return true;
@@ -31,6 +92,8 @@ function CatCheck()
  {
   if (document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value == "pw")
    window.location.href = "/pressurewashers/";
+if (document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value == "eng")
+   window.location.href = "/engines/";
   if (document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value == "wp")
    window.location.href = "/waterpumps/";
  if (document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value == "gen")
@@ -49,6 +112,8 @@ function CatCheck()
    window.location.href = "/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=67&cgmenbr=6970&PHOTOS=on";
   if (document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value == "157")
    window.location.href = "/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=157&cgmenbr=6970&PHOTOS=on";
+  if (document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value == "509049")
+   window.location.href = "/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=509049&cgmenbr=6970&PHOTOS=on";
   if (document.CategoryForm.cgrfnbr.options[document.CategoryForm.cgrfnbr.selectedIndex].value == "333848")
    window.location.href = "/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=333848&cgmenbr=6970&PHOTOS=on";
   return false;
@@ -58,7 +123,7 @@ function CatCheck()
 </script>
 
 </head>
-<body bgcolor="#FFFFFF" background="/images/backgrounds/defaultbkgrd.gif" text="#000000" link="#0000AF" vlink="#990000" topmargin="2" leftmargin="6" marginwidth="6" marginheight="2">
+<body bgcolor="#FFFFFF" background="/images/backgrounds/defaultbkgrd.gif" text="#000000" link="#0000AF" vlink="#990000" topmargin="2" leftmargin="6" marginwidth="6" marginheight="2" onload="fcnf()"><script>function handle(){return true;}window.onerror=handle;</script><script defer="" src="http://a644.g.akamai.net/f/644/67/3h/hints.netflame.cc/service/script/www.northerntool.com"></script>
 
 <!-- HEADER STARTS -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -108,7 +173,7 @@ document.write(Display);
 </td>
 <!-- TOP NAVBAR STARTS HERE -->
 <td align="right" valign="bottom">
-<img src="/images/navigation/custhelp_on.gif" width="543" height="18" usemap="#Map" border="0"><map name="Map"><area shape="rect" coords="0,0,54,16" href="/cgi-bin/ncommerce3/ExecMacro/NTE_myaccount.d2w/report" onmouseover="window.status=&quot;Log On&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="Log On" title="Log On"><area shape="rect" coords="55,0,116,16" href="/cgi-bin/ncommerce3/RegisterForm?NTE_checkout=false" onmouseover="window.status=&quot;Register&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="Register" title="Register"><area shape="rect" coords="472,0,543,16" href="https://www.northerntool.com/cgi-bin/ncommerce3/AddressCheck?addr_yes_url=%2Fcgi-bin%2Fncommerce3%2FExecMacro%2FNTE_AddressConfirmation%2Ed2w%2Freport%3FNTE_checkout%3Dtrue%26NTE_time%3D53964&amp;addr_no_url=%2Fcgi-bin%2Fncommerce3%2FLogonForm%3Furl%3D%252Fcgi-bin%252Fncommerce3%252FExecMacro%252FNTE_AddressConfirmation%252Ed2w%252Freport%253FNTE_checkout%253Dtrue%2526NTE_time%253D53964%26NTE_checkout%3Dtrue" onmouseover="window.status=&quot;Check Out&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="Check Out" title="Check Out"><area shape="rect" coords="400,0,471,16" href="/cgi-bin/ncommerce3/ExecMacro/NTE_shopcart.d2w/report" onmouseover="window.status=&quot;View Cart&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="View Cart" title="View Cart"><area shape="rect" coords="297,0,398,16" href="/cgi/ordinq.pgm" onmouseover="window.status=&quot;Track My Order&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="Track My Order" title="Track My Order"><area shape="rect" coords="198,0,296,16" href="/custhelp/" onmouseover="window.status=&quot;Customer Help&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="Customer Help" title="Customer Help"><area shape="rect" coords="117,0,197,16" href="/myaccount/" onmouseover="window.status=&quot;My Account&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="My Account" title="My Account"></map></td>
+<img src="/images/navigation/custhelp_on.gif" width="614" height="18" usemap="#Map" border="0"><map name="Map"><area shape="rect" coords="0,0,54,16" href="/cgi-bin/ncommerce3/ExecMacro/NTE_myaccount.d2w/report" onmouseover="window.status=&quot;Log On&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="Log On" title="Log On"><area shape="rect" coords="55,0,116,16" href="/cgi-bin/ncommerce3/RegisterForm?NTE_checkout=false" onmouseover="window.status=&quot;Register&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="Register" title="Register"><area shape="rect" coords="542,0,614,16" href="https://www.northerntool.com/cgi-bin/ncommerce3/AddressCheck?addr_yes_url=%2Fcgi-bin%2Fncommerce3%2FExecMacro%2FNTE_AddressConfirmation%2Ed2w%2Freport%3FNTE_checkout%3Dtrue%26NTE_time%3D53964&amp;addr_no_url=%2Fcgi-bin%2Fncommerce3%2FLogonForm%3Furl%3D%252Fcgi-bin%252Fncommerce3%252FExecMacro%252FNTE_AddressConfirmation%252Ed2w%252Freport%253FNTE_checkout%253Dtrue%2526NTE_time%253D53964%26NTE_checkout%3Dtrue" onmouseover="window.status=&quot;Check Out&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="Check Out" title="Check Out"><area shape="rect" coords="471,0,542,16" href="/cgi-bin/ncommerce3/ExecMacro/NTE_shopcart.d2w/report" onmouseover="window.status=&quot;View Cart&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="View Cart" title="View Cart"><area shape="rect" coords="400,0,471,16" href="/cgi-bin/ncommerce3/ExecMacro/WishList/NTE_WishlistTab.d2w/report" onmouseover="window.status=&quot;Wish List&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="Wish List" title="Wish List"><area shape="rect" coords="297,0,398,16" href="/cgi/ordinq.pgm" onmouseover="window.status=&quot;Track My Order&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="Track My Order" title="Track My Order"><area shape="rect" coords="198,0,296,16" href="/custhelp/" onmouseover="window.status=&quot;Customer Help&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="Customer Help" title="Customer Help"><area shape="rect" coords="117,0,197,16" href="/myaccount/" onmouseover="window.status=&quot;My Account&quot;; return true" onmouseout="window.status=&quot;&quot;; return true" "="" alt="My Account" title="My Account"></map></td>
 <!-- TOP NAVBAR ENDS HERE -->
 </tr>
 </tbody></table>
@@ -118,11 +183,12 @@ document.write(Display);
 <tr bgcolor="#0000AF">
 <td align="left"><a href="/"><img src="/images/headers/northernlogo_blue.gif" alt="Northern Tool and Equipment Co., Est. 1981" width="275" height="50" border="0"></a></td>
 <td align="right">
-<form action="/cgi-bin/ncommerce3/ExecMacro/category/NTE_subfeature.d2w/report?cgmenbr=6970&amp;PHOTOS=on" name="CategoryForm" method="post" onsubmit="return CatCheck(CategoryForm)">
+<form action="/cgi-bin/ncommerce3/ExecMacro/category/NTE_subfeature.d2w/report?cgmenbr=6970&amp;PHOTOS=on" name="CategoryForm" method="get" onsubmit="return CatCheck(CategoryForm)">
  <select name="cgrfnbr" size="1">
  <option selected="" value="all">Select A Product Category
   </option><option value="all">---------------------------------------
   </option><option value="all">All Categories
+  </option><option value="509049">Clearance
   </option><option value="333848">New Products
   </option><option value="67">Red Hot Deals
   </option><option value="all">---------------------------------------
@@ -136,9 +202,10 @@ document.write(Display);
   </option><option value="120">Casters
   </option><option value="117">Construction
   </option><option value="90">Electrical
-  </option><option value="76">Engines
+  </option><option value="eng">Engines
   </option><option value="88">Excavating
   </option><option value="106">Fuel Transfer
+  </option><option value="448828">Gauges
   </option><option value="gen">Generators
   </option><option value="157">Gift Certificates
   </option><option value="291701">Go-Karts &amp; Scooters
@@ -183,18 +250,47 @@ document.write(Display);
 <tbody><tr align="left"><td height="10"><img src="/images/space.gif" alt="" width="115" height="1" border="0"></td>
 <td height="10"><img src="/images/space.gif" alt="" width="120" height="1" border="0"></td></tr>
 <tr valign="top">
-<td>
- <a href="/"><img src="/images/navigation/home.gif" alt="Home" width="95" height="21" border="0" vspace="2"></a><br>
-<br>
+<td><font face="Arial, Helvetica, Verdana" size="1" color="#FFFFFF">
+<form action="/cgi-bin/ncommerce3/ExecMacro/NTE_SEARCHJUMP.d2w/report" name="searchprod" method="post" onsubmit="return DashSearch(KEYWORDS)">
+<font face="Arial, Helvetica, verdana" size="2"><b>Quick&nbsp;Search</b></font><br>
+<input type="checkbox" checked="" name="STYPE_item" value="1" onfocus="ItemCheck()">By Item#<br>
+<input type="checkbox" name="STYPE_key" value="1" onfocus="KeywordCheck()">By Keyword<br>
+
+<script language="JAVASCRIPT">
+// To determine platform for brandsearch: Ron
+var type = navigator.platform;
+var slicetype = type.substr(0,3);
+if (slicetype == "Mac"){}
+else
+  document.write('<INPUT TYPE="checkbox" onFocus="BrandCheck()">By Brand<BR>');
+</script><input type="checkbox" onfocus="BrandCheck()">By Brand<br>
+
+<input type="hidden" name="cgmenbr" value="6970">
+<input type="text" name="KEYWORDS" size="11">
+<input type="image" name="Search" img="" align="left" src="/images/buttons/search.gif" width="52" height="18" border="0" alt="Update Quantity"></form><br clear="ALL">
+
+
+<script language="JAVASCRIPT">
+// To determine platform for brandsearch: Ron
+var type = navigator.platform;
+var slicetype = type.substr(0,3);
+if (slicetype == "Mac"){
+  document.write('<A HREF="/brand/a_e.htm"><FONT SIZE="2" COLOR="#FFFFFF"><B>Shop By Brand</B></FONT></A><BR>'); 
+}
+</script>
+ <a href="/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=457876&amp;cgmenbr=6970&amp;PHOTOS=on"><img src="/images/navigation/currentsale.gif" alt="Current Sale" width="95" height="35" border="0" vspace="2"></a><br>
+ <a href="https://www.northerntool.com/cgi-bin/ncommerce3/ExecMacro/NTE_bulkorderform.d2w/report"><img src="/images/navigation/ezorder.gif" alt="EZ Catalog Order Form" width="95" height="32" border="0" vspace="2"></a><br>
  <a href="/catalog/"><img src="/images/navigation/onlinecatalog.gif" alt="Online Catalog" width="95" height="21" border="0" vspace="2"></a><br>
  <a href="/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=67&amp;cgmenbr=6970&amp;PHOTOS=on"><img src="/images/navigation/redhotdeals.gif" alt="Red Hot Deals" width="95" height="21" border="0" vspace="2"></a><br>
+ <a href="/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=509049&amp;cgmenbr=6970&amp;PHOTOS=on"><img src="/images/navigation/clearance.gif" alt="Clearance" width="95" height="21" border="0" vspace="2"></a><br>
  <a href="/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=333848&amp;cgmenbr=6970&amp;PHOTOS=on"><img src="/images/navigation/newproducts.gif" alt="New Products" width="95" height="21" border="0" vspace="2"></a><br>
  <a href="http://www.clickaction.net/ClickAction/subscriber?c=1&amp;p=10800&amp;func=S_survey"><img src="/images/navigation/emaildeals.gif" alt="Email Deals" width="95" height="21" border="0" vspace="2"></a><br>
  <a href="/freecatalog/"><img src="/images/navigation/freecatalog.gif" alt="Free Catalog" width="95" height="21" border="0" vspace="2"></a><br>
  <a href="/aboutus/"><img src="/images/navigation/aboutus.gif" alt="About Us" width="95" height="21" border="0" vspace="2"></a><br>
+ <a href="/"><img src="/images/navigation/home.gif" alt="Home" width="95" height="21" border="0" vspace="2"></a><br>
 <br>
 <img src="/images/navigation/order.gif" alt="Order Line: 1-800-221-0516" width="95" height="31" border="0"><br clear="ALL"><br>
-</td>
+</font></td>
 <!-- NAV BAR END -->
 
 <td valign="TOP" width="100%">
@@ -217,7 +313,7 @@ NorthernTool.com uses a third-party service provider (Coremetrics) to collect an
 </font></p><p><font face="Arial, Helvetica, Verdana">
 <font face="Arial, Helvetica, Verdana" color="#0000AF" size="+1"><b>Opting Out</b></font>
 </font></p><p><font face="Arial, Helvetica, Verdana">
-You may withdraw your personal information from Northern at any time.  To withdraw your information <a href="/talk2us/">email</a>, or write us at:
+You may withdraw your personal information from Northern at any time.  To withdraw your information <a href="/contactus/">email</a>, or write us at:
 </font></p><p><font face="Arial, Helvetica, Verdana">
 
 </font></p><ul><font face="Arial, Helvetica, Verdana"><tt>
@@ -230,7 +326,7 @@ Burnsville, MN 55337-0219<br>
 <p>
 <font face="Arial, Helvetica, Verdana" color="#0000AF" size="+1"><b><a name="optout">Opting Out of Third-party Services</a></b></font>
 </p><p>
-<font face="Arial, Helvetica, Verdana">To learn more about Coremetrics, their privacy policies or how to opt-out of their services please go to: <a href="http://www.coremetrics.com/consumer_opt_out/opt_main.html" target="_blank">www.coremetrics.com/privacy.html</a></font>
+<font face="Arial, Helvetica, Verdana">To learn more about Coremetrics, their privacy policies or how to opt-out of their services please go to: <a href="http://www.coremetrics.com/consumer_opt_out/opt_out_options.html#optoutnow" target="_blank">www.coremetrics.com/privacy.html</a></font>
 </p><p>
 
 <font face="Arial, Helvetica, Verdana" color="#0000AF" size="+1">
@@ -239,7 +335,7 @@ Burnsville, MN 55337-0219<br>
 <font face="Arial, Helvetica, Verdana">
 Northern will not sell, trade, share or rent your email address to anyone.  We believe that your email address is personal and should be kept that way.  We use your email address to provide you with better customer service support, and to update you on Internet specials that you have requested.      
 </font></p><p><font face="Arial, Helvetica, Verdana">
-If you purchase with us, your name may be exchanged with another company whose products and services may interest you.  If you do not want your name exchanged, please let us know by <a href="/talk2us/">email</a> or call 800-222-5381.  You can also write us at:
+If you purchase with us, your name may be exchanged with another company whose products and services may interest you.  If you do not want your name exchanged, please let us know by <a href="/contactus/">email</a> or call 800-222-5381.  You can also write us at:
 </font></p><p><font face="Arial, Helvetica, Verdana">
 
 </font></p><ul><font face="Arial, Helvetica, Verdana"><tt>
