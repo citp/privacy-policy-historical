@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidays.net privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605164201id_/http%3A//holidays.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidays.net privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210152906id_/http%3A//www.holidays.net/policy.htm) for the most accurate reproduction.*
 
 # Holidays on the Net - Privacy Statement
 
