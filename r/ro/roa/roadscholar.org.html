@@ -1,0 +1,383 @@
+<!--The following is the downloaded HTML source of the roadscholar.org privacy policy that was archived on 2002-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021216005013id_/http%3A//www.elderhostel.org/about/privacy.asp) for the most accurate reproduction.-->
+
+<html><head><link rel="stylesheet" type="text/css" media="screen" href="/styles/universal.css">
+<link rel="stylesheet" type="text/css" media="print" href="/styles/print.css">
+
+<script language="JavaScript">
+
+function checkEnter(event)
+{
+	var code = 0;
+
+
+	if (browser=="nn")
+		code = event.which;
+	else
+		code = event.keyCode;
+
+	if (code==13) {
+		document.forms[0].submit();
+
+		if (browser=="nn")
+			event.which=0;
+		else
+			event.keyCode=0;
+
+        return true;
+    }
+    else 
+        return true;
+
+}
+
+//--------> determine user operating system
+getOS = navigator.platform;
+isMacOS = (getOS.indexOf('Mac') > -1);
+isWinOS = (getOS.indexOf('Win') > -1);
+
+if (isMacOS) {os = "mac"}
+else if (isWinOS) {os = "win"}
+else {os = "other"}
+
+
+//--------> determine user browser type
+getBrowser = navigator.appName;
+isIE = (getBrowser.indexOf('Microsoft Internet Explorer') > -1);
+isNN = (getBrowser.indexOf('Netscape') > -1);
+isAOL = (getBrowser.indexOf('America Online') > -1);
+isWebTV = (getBrowser.indexOf('TV') > -1);
+
+if (isIE) {browser = "ie"}
+else if (isNN) {browser = "nn"}
+else if (isAOL) {browser = "aol"}
+else if (isWebTV) {browser = "tv"}
+else {browser = "other"}
+
+
+//--------> determine browser version number
+version = parseInt(navigator.appVersion);
+
+//--------> test if checks are working
+//alert("OS is "+os+" and Browser is "+browser+" "+version)
+
+//--------> create critical user profiles
+if (os == "win" && browser == "ie" && (version == 4)) {profile = "WinIE4"}   		// Windows: IE 4
+else if (os == "win" && browser == "ie" && (version > 4)) {profile = "WinIE5up"} 	// Windows: IE 5+
+else if (os == "win" && browser == "nn" && (version == 4)) {profile = "WinNN4"}   	// Windows: NN 4
+else if (os == "win" && browser == "nn" && (version > 4)) {profile = "WinNN5up"} 	// Windows: NN 5+
+else if (os == "mac" && browser == "ie" && (version == 4)) {profile = "MacIE4"}	 	// Mac: IE 4
+else if (os == "mac" && browser == "ie" && (version > 4)) {profile = "MacIE5up"} 	// Mac: IE 5+
+else if (os == "mac" && browser == "nn" && (version == 4)) {profile = "MacNN4"}		// Mac: NN 4
+else if (os == "win" && browser == "ie" && (version > 3)) {profile = "MacNN5up"}	// Mac: NN 5+
+else if (browser == "aol" && (version > 4)) {profile = "AOL5up"}					// AOL 5+
+else if (browser == "tv"){profile = "WebTV"}										// WebTV
+else {profile = "other"}
+
+//--------> choose style based on os/browser/version
+switch(profile){
+
+case "WinIE4" : document.write('<link rel="stylesheet" type="text/css" media="screen" href="/styles/inputs.css">')
+break;
+
+case "WinIE5up" : document.write('<link rel="stylesheet" type="text/css" media="screen" href="/styles/inputs.css">')
+break;
+
+case "WinNN4" : document.write(' ')
+break;
+
+case "WinNN5up" : document.write(' ')
+break;
+
+case "MacIE4" : document.write(' ')
+break;
+
+case "MacIE5up" : document.write('<link rel="stylesheet" type="text/css" media="screen" href="/styles/inputs.css">')
+break;
+
+case "MacNN4" : document.write(' ')
+break;
+
+case "MacNN5up" : document.write('<link rel="stylesheet" type="text/css" media="screen" href="/styles/inputs.css">')
+break;
+
+case "AOL5up" : document.write(' ')
+break;
+
+default : document.write(' ')
+}
+
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function popUp(URL) {
+window.levelwindow = window.open(URL,'','toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=500,top=200,left=200');
+//window.levelwindow.opener = self;
+}
+
+function popUpNew(URL) {
+window.levelwindow = window.open(URL,'','toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=650,height=600,top=200,left=200');
+//window.levelwindow.opener = self;
+}
+
+function popUpSize(URL, width, height) {
+window.levelwindow = window.open(URL,'','toolbar=1,scrollbars=1,location=0,statusbar=0,menubar=1,resizable=1,width=width,height=height,top=100,left=100');
+//window.levelwindow.opener = self;
+}
+
+function popUpToolbar(URL) {
+window.levelwindow = window.open(URL,'','toolbar=1,scrollbars=1,location=0,statusbar=0,menubar=1,resizable=0,width=500,height=460,top=200,left=200');
+//window.levelwindow.opener = self;
+}
+
+function OpenWindow(url,name)
+{
+
+var popupWin;
+
+popupWin = window.open(url,name,'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=535,height=550,top=200,left=200');
+
+//test
+//popupWin = window.open(url,name,'');
+
+}
+
+
+// -->
+</script> 
+<style type="text/css">
+<!--
+.unused {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; color: #333333}
+-->
+</style>
+
+
+
+<title>Elderhostel : Privacy Web Statement</title>
+<!-- meta tag -->
+</head>
+<body bgcolor="#FFFFF3" onload="MM_preloadImages('../i/mel_ac_red.GIF','../i/mel_pro_red.GIF','../i/mel_ac_red.gif','../i/mel_ab_red.gif','../i/mel_pro_red.gif','../i/mel_con_red.gif','../i/mel_su_red.gif')" text="#333333" link="#ac272a" vlink="#ac272a" alink="#ff0033">
+<form name="thisForm" method="Post">
+  
+
+<div align="left"></div>
+<table width="388" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr align="left"> 
+<td colspan="2"><img src="/i/clearspacer.gif" width="621" height="2"></td>
+</tr>
+<tr align="left"> 
+    <td rowspan="2" width="300" valign="top"><a href="http://www.elderhostel.org/"><img src="/i/main_header.gif" width="300" height="50" border="0" alt="Elderhostel : Home"></a></td>
+<td width="323" height="2" align="right"><img src="/i/clearspacer.gif" width="20" height="20"></td>
+</tr>
+<tr align="left"> 
+<td width="323" height="2" valign="top"><img src="/i/tagline-top.gif" width="321" height="20"></td>
+</tr>
+</tbody></table>
+  
+<table width="10%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td><img src="/i/clearspacer.gif" width="621" height="6"></td>
+</tr>
+</tbody></table>
+<table width="40%" border="0" cellspacing="0" cellpadding="0" bgcolor="C0B7B2">
+<tbody><tr bgcolor="fffff4"> 
+<td align="left" colspan="6" height="2"> <img src="/i/clearspacer.gif" width="88" height="24" border="0" name="Image1"></td>
+<td width="88%" height="2" align="right"> 
+<table width="458" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+
+<td width="533"><img src="../i/lastnew_c.gif" width="16" height="24"></td>
+          <td width="533"><a href="http://www.elderhostel.org/account/myaccount.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('accounttab','','../i/mel_ab_up_left_on.gif',1)"><img src="../i/mel_ab_up_left.gif" width="116" height="24" name="accounttab" border="0" valign="top"></a></td>
+          <td width="533"><a href="http://www.elderhostel.org/about/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('abouttab','','../i/mel_ab_up.gif',1)"><img src="../i/mel_ab_up.gif" width="109" height="24" name="abouttab" border="0" valign="top"></a></td>
+          <td width="533"><a href="http://www.elderhostel.org/programs/programhome.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('programtab','','../i/mel_ab_up_right_on.gif',1)"><img src="../i/mel_ab_up_right.gif" width="106" height="24" name="programtab" border="0" valign="top"></a></td>
+          <td width="533"><a href="http://www.elderhostel.org/contact/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contacttab','','../i/mel_con_on.gif',1)"><img src="../i/mel_con_off.gif" width="88" height="24" name="contacttab" border="0" valign="top"></a></td>
+          <td width="533"><a href="http://www.elderhostel.org/support/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('supporttab','','../i/mel_give_on.gif',1)"><img src="../i/mel_give_off.gif" width="98" height="24" name="supporttab" border="0" valign="top"></a></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<table width="621" border="0" cellspacing="0" cellpadding="0" bgcolor="#C0B7B2">
+  <tbody><tr> 
+    <td width="10" height="2" align="left" valign="top"><a href="../Account/myaccount.asp"><img src="/i/greyblock-inactive.gif" width="30" height="28" alt="You are not currently logged in. Click here to log in to your account!" border="0"></a></td>
+    <td width="611" height="2" align="right">
+      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+        <tbody><tr> 
+          <td align="left" width="27%"><b><span class="smaintext">&nbsp;<a href="https://www.elderhostel.org/account/ac_login.asp">Log in here!</a></span></b></td>
+          <td align="right" colspan="5" width="73%"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="2">
+              <tbody><tr> 
+                <td align="right" width="63%"><span class="smaintext">Search</span></td>
+                <td width="12%" align="right"> 
+                  <select name="selQSearch">
+                    <option value="Domestic">U.S. &amp; Canada (enter a keyword 
+                    or program number)</option>
+                    <option value="International">International (enter a keyword 
+                    or program number)</option>
+                    <option value="Both" selected="">all programs (enter a keyword 
+                    or program number)</option>
+                  </select>
+                </td>
+                <td colspan="2" valign="middle" align="right"> 
+                  <input type="text" name="txtqsearch" size="16" class="textbox1" maxlength="64" onkeypress="checkEnter(event)" tabindex="1">
+                </td>
+                <td width="5%" align="right"><a href="javascript:document.forms[0].submit()" tabindex="2"><img src="/i/go-ktan.gif" width="22" height="22" border="0"></a></td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+ <!-- BEGIN -- Put your HTML here -->
+<table width="621" border="0" cellspacing="0" cellpadding="1" bgcolor="#C0B7B2">
+  <tbody><tr valign="top">
+    <td height="38">
+      <table width="100%" border="0" cellspacing="0" cellpadding="4" bgcolor="#DED9D4">
+        <tbody><tr valign="top">
+          <td height="45">
+            <table width="100%" border="0" cellspacing="1" cellpadding="4" bgcolor="C0B7B2">
+              <tbody><tr bgcolor="#FFFFFF">
+                <td>
+                  <table width="100%" border="0" cellspacing="1" cellpadding="4" bgcolor="#003333">
+                    <tbody><tr bgcolor="#67707F">
+                        <td><a href="http://www.elderhostel.org/about/" class="headwhite"><b>About
+                          Us</b></a><span class="BmaintextFF"> <b> &gt; Elderhostel
+                          Web Privacy Statement</b></span></td>
+                    </tr>
+                  </tbody></table>
+                  &nbsp;<br>
+                    <img src="i/privacy_header.gif" width="555" height="46"><br>
+                  &nbsp;<br>
+                  <table width="100%" border="0" cellspacing="1" bgcolor="#999999" cellpadding="4">
+                    <tbody><tr bgcolor="f8f8f8" valign="top">
+                        <td height="210"><span class="maintext">This is the website
+                          of Elderhostel, Inc. It is our goal to provide the best
+                          online experience possible for our visitors. At the
+                          same time we are very sensitive to the privacy concerns
+                          of our visitors and participants alike. </span>
+                          <p><span class="maintext">We save email addresses of
+                            those who send them to us but will only contact individuals
+                            directly with their permission. We also collect volunteered
+                            information (such as survey information and/or registration
+                            applications). We believe that collecting this information
+                            allows us to improve the content of our website. </span></p>
+                          <p><span class="maintext">We use cookies to help with
+                            our program registration process, storing information
+                            from screen to screen. When you are conducting an
+                            account transaction or registering to receive the
+                            Elderhostel ENews Bulletin or paper catalogs, we always
+                            use industry-standard encryption technologies to protect
+                            your privacy. </span></p>
+                          <p><span class="maintext">Elderhostel does not use any
+                            information collected from visitors for anything other
+                            than Elderhostel business and Elderhostel does not
+                            give, sell or trade any information we collect on
+                            our site with any non-Elderhostel entity. If you feel
+                            that this site is not following its stated information
+                            policy, you may contact us at the following addresses
+                            or phone number.<br>
+                            <br>
+                            We can be reached via email at <font color="#0000ff"><u><a href="mailto:website@elderhostel.org">website@elderhostel.org</a></u></font>,
+                            by mail at: <br>
+                            11 Avenue de Lafayette <br>
+                            Boston, MA 02111-1746, <br>
+                            or by phone, toll-free, at 1-877-426-8056, Monday
+                            to Friday, 9 a.m. to 9 p.m. Eastern Time.</span></p>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+            <img src="../i/clearspacer.gif" width="611" height="2"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<!-- END -- No changes below this line -->
+  
+
+
+<table width="621" border="0" cellspacing="0" cellpadding="0" bgcolor="254E8B">
+    <tbody><tr> 
+      <td width="30" height="2" bgcolor="C0B7B2" align="left" valign="bottom"><img src="/i/ktanblock.gif" width="30" height="28"></td>
+      <td colspan="2" bgcolor="C0B7B2" valign="middle" align="right" height="2"><span class="smaintext">Create 
+        &amp; Send Elderhostel Online Postcards! (enter a friend's name to start) 
+        &nbsp;</span></td>
+      <td width="104" align="left" valign="middle" bgcolor="C0B7B2" height="2"> 
+        <input type="text" name="pcStartName" size="15" maxlength="25" onkeypress="checkEnter(event)">
+      </td>
+      <td width="28" align="center" valign="middle" bgcolor="C0B7B2" height="2"><a href="javascript:document.forms[0].submit()"><img src="/i/go-ktan28.gif" width="28" height="22" border="0"></a></td>
+    </tr>
+  </tbody></table>
+  
+    
+<table width="621" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr align="right"> 
+    <td colspan="3" bgcolor="fffff4" valign="top"><img src="/i/clearspacer.gif" width="26" height="8"><span class="smaintext"><a href="https://www.elderhostel.org/welcome/home.asp">home</a> | <a href="javascript:OpenWindow('/help/default.asp','Help')">help</a> 
+      | <a href="http://www.elderhostel.org/about/questions_default.asp">questions &amp; answers</a> 
+      | <a href="http://www.elderhostel.org/about/privacy.asp">privacy policy</a> | <a href="http://www.elderhostel.org/about/copyright.asp">© 
+      Elderhostel, Inc. 2002</a> | <a href="http://www.elderhostel.org/contact/default.asp">Call 
+      toll-free: 1-877-426-8056</a></span></td>
+  </tr>
+</tbody></table>
+
+
+<!-- SuperStats code version c4.3.
+Copyright 1997-2002 MyComputer.com, Inc. More info available at
+http://enterprise.superstats.com --><script language="JavaScript">
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+var pageName="Privacy Web Statement"
+var server=""
+var channel="About Us"
+var pageType=""
+var prop1=""
+var prop2=""
+var prop3=""
+var prop4=""
+var prop5=""
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+/********** DO NOT ALTER ANYTHING ELSE BELOW THIS LINE! *************/
+var s_code=' '</script>
+<script src="/utility/superstats_unsec.js"></script>
+<script language="JavaScript">if(s_code!=' '){s_it('elderhostel')
+s_code=s_dc('elderhostel');if(s_code)document.write(s_code)}else
+document.write('<im'+'g src="http://elderhostel.112.2O7.net/b/ss/elderhostel/1'
++'?[AQB]pageName='+escape(pageName)+'&server='+escape(server)+'&ch='
++escape(channel)+'[AQE]'+'" height=1 width=1>')</script><img src="http://elderhostel.112.2O7.net/b/ss/elderhostel/1?[AQB]pageName=Privacy%20Web%20Statement&amp;server=&amp;ch=About%20Us[AQE]" height="1" width="1">
+<script language="JavaScript">document.write("<\!--")</script><!--
+<noscript><img
+src="http://elderhostel.112.2O7.net/b/ss/elderhostel/1/c4.3"
+height=1 width=1></noscript><!--/DO NOT REMOVE/-->
+<!-- End SuperStats code version c4.3. -->
+
+</form>
+
+
+
+</body></html>
