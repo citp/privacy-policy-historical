@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geek.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206183800id_/http%3A//www.geek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geek.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607070359id_/http%3A//www.geek.com/privacy.htm) for the most accurate reproduction.*
 
 # Geek.com - Contact Us
 
@@ -10,10 +10,12 @@ Geek.com has created this privacy policy to assure our visitors that their priva
 **Information Automatically Logged  
 **We log our users IP addresses to determine how many unique visitors we have. We also log general demographic information such as browser type and operating system of users.
 
-**Advertisers  
-**At any given time, we also have several advertisers who may be running rich-media ads. These ads send cookies to your browser. While we do not use cookies on the rest of our Web site, cookies received with banner ads may be collected by our advertisers. We do not have specific access to the information placed in and gathered by these cookies.
+**Advertisers and opting-out  
+**At any given time, we have several advertisers who may be running ads through Engage, Doubleclick, Avenue A or other ad agencies or networks. These ads may send cookies or serve 1x1 blank pixel gifs to your browser to collect information that may include: date/time of banner shown, the banner shown, their cookie, and the IP address. 
 
-Geek.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+While we currently do not use cookies on the rest of our Web site, cookies received with banner ads may be placed and collected by our advertisers. We do not have specific access to the information placed in and gathered by these cookies. If you wish to opt out of these advertising programs, please go to the [Network Advertising Organization's opt-out page](https://web.archive.org/web/20010607070359id_/http%3A//www.geek.com/www.networkadvertising.org/optout_nonppii.asp%20).
+
+**Engage-specific statement:** Geek.com uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
 
 **Sale of T-shirts and other apparel  
 **We link to [Copyleft.net](http://www.copyleft.net/) to sell Geek.com T-shirts. Copyleft collects contact information (email address, shipping address, phone numbers) and financial information (credit card numbers) in order to process orders. Geek.com does not have access to customer information.
