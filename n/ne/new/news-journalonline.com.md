@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606205532id_/http%3A//www.news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018113116id_/http%3A//www.news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
 
 # News-Journal Online - Our history
 
-|   Privacy statement  
----  
-  
-Your privacy on the Internet is important to us. Because we gather certain types of information about users to this site, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.   
-  Information that News-Journal Online gathers  
-  
 News-Journal Online gathers two types of information about users: 
 
 1) Personal data, provided through voluntary registration on our forums.  
@@ -17,13 +11,10 @@ Personal data may be requested when you register for forums, contests, sweepstak
 
 Aggregated data, which tracks News-Journal Online activity as a whole rather than on an individual basis, is gathered through several methods. This tracking data follows Web site traffic in general, and is not used to identify you personally. 
 
-Aggregated tracking information: Among the information we collect is the Internet provider of visitors; the computer operating systems of visitors; the browser used by visitors. Some national advertisers and content partners on our Web site may also collect this same data independently of News-Journal Online. This information helps us to determine which areas of our site users like and how to tailor our site to the equipment and software used by visitors. We may disclose such aggregated information to third parties such as our advertisers and content partners.   
-  
-  Child Online Privacy Protection Act  
-  
-News-Journal Online will not knowingly allow any person under the age of 13 to provide personal information, or allow persons under 13 to access those features that require registration. If information is collected, parents can review and have deleted the child's personal information and refuse to permit further collection or use of the child's information. [Click here to make a request](http://www.news-journalonline.com/online/request.htm). For more information, contact the Webmaster at the address listed below.   
-  How the News-Journal Online uses information  
-  
+Aggregated tracking information: Among the information we collect is the Internet provider of visitors; the computer operating systems of visitors; the browser used by visitors. Some national advertisers and content partners on our Web site may also collect this same data independently of News-Journal Online. This information helps us to determine which areas of our site users like and how to tailor our site to the equipment and software used by visitors. We may disclose such aggregated information to third parties such as our advertisers and content partners. 
+
+| 
+
 News-Journal Online uses any personal information voluntarily given by you to enhance your experience, whether to provide interactive or personalized elements on the site or to better prepare future content based on the interests of our users. 
 
 This Web site will not disclose any information that personally identifies you to parties without your consent. There are exceptions: 
@@ -39,7 +30,4 @@ If you have any questions about our Privacy Policy, what we do with information 
 
 For more information on Internet privacy, click here: 
 
-Federal Trade Commission (Privacy): <http://www.ftc.gov/privacy/index.html>  
-  
-  
-
+Federal Trade Commission (Privacy): <http://www.ftc.gov/privacy/index.html>
