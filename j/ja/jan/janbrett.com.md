@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janbrett.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014120549id_/http%3A//www.janbrett.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janbrett.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605103721id_/http%3A//janbrett.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,6 +6,8 @@
 
 
      Jan Brett has created this privacy statement in order to demonstrate a firm commitment to privacy. The following discloses information gathering and dissemination practices for this website: **www.janbrett.com**.
+
+     No information or email or postal addresses are shared with any other person, Internet site, or organization. 
 
      This site contains links to other sites. **www.janbrett.com** is not responsible for the privacy practices or the content of such Web sites.  No information gathered on **www.janbrett.com** is shared with any of these sites.
 
@@ -15,7 +17,7 @@
 
    Our site provides parents the following option for removing their children's information from our database to not receive future communications. 
 
-     You can send email to [janbrett@janbrett.com](mailto:janbrett@janbrett.com).
+     You can send email to [janbrett@janbrett.com](http://www.janbrett.com/email.html)
 
 ## Children's Guidelines
 
@@ -26,24 +28,20 @@
 
 
 
-## Public Forums
-
-     This site has a  message board  available to its users. Please remember that any information that is disclosed in this area becomes public information and you should exercise caution when deciding to disclose your personal information.  The message board is monitored on a daily basis.
-
 ## Choice/Opt-Out
 
     Our site provides users the opportunity to opt-out of receiving communications from us .   This site gives users the following option for removing their information from our database to not receive future communications.
 
-    You can send email to [janbrett@janbrett.com](mailto:janbrett@janbrett.com)
+    You can send email to [janbrett@janbrett.com](http://www.janbrett.com/email.html)
 
 ## Correct/Update
 
      This site gives users the following option for changing and modifying information previously provided.
 
-    Email [janbrett@janbrett.com](mailto:janbrett@janbrett.com)
+    Email [janbrett@janbrett.com ](http://www.janbrett.com/email.html)
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   Jan Brett Post Office Box 366 Norwell, Ma. 02061   janbrett@janbrett.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   Jan Brett 781-659-7748 Post Office Box 366 Norwell, Ma. 02061   janbrett@janbrett.com
 
-[Home Page](https://web.archive.org/web/20021014120549id_/http%3A//www.janbrett.com/index.html)
+[Home Page](https://web.archive.org/web/20030605103721id_/http%3A//janbrett.com/index.html)
