@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wondershare.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606002353id_/http%3A//wondershare.com/company/wondershare-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wondershare.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204062131id_/http%3A//www.wondershare.com/company/wondershare-privacy.html) for the most accurate reproduction.*
 
 # Wondershare Software:photo to video, photo to VCD, photo to DVD, photo to TV, picture to TV, photo on DVD ,slide show, transition effects, Photo Archive,DVD slide shows, VCD slideshows,Menu Designer,Video Clips,Ken Burns, still pictures, photo video
 
