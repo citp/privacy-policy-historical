@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplymaya.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204233202id_/http%3A//simplymaya.com/privacy_policy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplymaya.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606203542id_/http%3A//simplymaya.com/privacy_policy.mhtml) for the most accurate reproduction.*
 
-# Simplymaya dot com
+# Simply Maya - Video training for Maya 3D.
 
 **Visitor Information**  
 Our server software gathers information about the IP address of each user and his domain name. We do this in an effort to maintain and improve the visitor’s site navigation, this information is used in no other way. 
