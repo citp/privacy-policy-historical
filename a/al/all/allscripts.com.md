@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allscripts.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607152228id_/http%3A//www.allscripts.com/_htm/content/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allscripts.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204224747id_/http%3A//www.allscripts.com/_htm/content/Privacy.asp) for the most accurate reproduction.*
 
 # AHS
 
