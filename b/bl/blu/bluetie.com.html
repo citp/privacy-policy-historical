@@ -1,354 +1,492 @@
-<!--The following is the downloaded HTML source of the bluetie.com privacy policy that was archived on 2000-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205051600id_/http%3A//www.bluetie.com/corp/privacy.asp%3Fid%3D%26res%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluetie.com privacy policy that was archived on 2001-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603111442id_/http%3A//www.bluetie.com/about/privacy.asp%3Fid%3D%26res%3D) for the most accurate reproduction.-->
 
-<html><head>
-<script language="JavaScript">
-<!--
-function openWindow(theURL,winName,features) {
-	//'resizable=yes,width=480,height=460')
-    siteTourWin = window.open(theURL,winName,features);
-    siteTourWin.focus();
+<html><head><script language="JavaScript">
+//purpose:		function trim trims left and right spaces in a string
+//parameters:	string str
+//returns:		trimmed string
+function trim(str)
+{
+	var str_beg=0;
+	var str_end=str.length-1;
+	while (str.charAt(str_beg)==" " && (str_beg != str_end))	{
+		str_beg++;
+	}
+	while (str.charAt(str_end)==" " && (str_beg != str_end))	{
+		str_end--;
+	}
+	if (str_beg == str_end && str.charAt(str_beg)==" ") {
+	   return ""
+   }
+   else {
+	   return str.substring(str_beg, str_end+1);
+	}
+} 
+</script><script language="JavaScript">
+//function:		checkForNonWord
+//purpose:		check if there are any non-word characters in a string
+//parameters:	string
+//returns:		boolean
+//					true - if there is an invalid character in the string
+//					false - if there are no invalid characters in the string
+
+function checkForNonWord(el)
+{
+	str1 = el.value
+	for (var i = 0; i < str1.length; i++)
+	{	 
+		c = str1.charCodeAt(i)
+		s = str1.charAt(i)
+		if (!((c >= 48 && c <= 57 ) || (c >= 97 && c<= 122) || (c >= 65 && c<= 89) || ( s == '_') || ( s == '-'))) 
+		{
+			alert(el.name + " cannot contain non word characters ")
+			el.value=""
+			el.focus()
+		return true
+		}
+	}
+	return false
 }
--->
 </script>
 
-<title>Welcome to BlueTie</title>
-<style type="text/css">
-TD {font-family:Verdana;font-size:8pt;}
-P {font-family:Verdana;font-size:10pt;}
-B.title {font-family:Verdana;font-size:16pt;}
-TD.white {color:white;}
-A.white {color:white;}
-A {color:black;}
-A.med {color:#006699;}
-A.med:hover {color:cyan;}
-A.med:active {color:red;}
-</style>
 
+
+
+<title>BlueTie, Inc. - Welcome!</title>
+<!--------------------------CSS INCLUDE-------------------------------->
+  <link rel="stylesheet" href="/inc/info_pages.css" type="text/css">
+<!--------------------------SCRIPTS--------------------------------->
+<script language="JavaScript">
+if (self != parent) parent.window.location.href = self.window.location.href
+</script>
+<script language="javascript" src="/ioffice/javascripts/trim.js"></script>
+<script language="javascript" src="/ioffice/javascripts/checkForNonWord.js"></script>
+<script language="JavaScript">
+
+function setFocus() {
+//Name:     setFocus
+//Purpose:  set focus to field
+//Returns:  does not return anything
+   if (document.login.elements["unm"].value != "" ) {
+      document.login.elements["password"].focus();
+   }
+   else {
+      document.login.elements["unm"].focus();
+   }
+}
+</script>
+
+<!--------------------------META TAGS------------------------------->
+<meta http-equiv="description" content="Outsource your IT. BlueTie is the first integrated provider of web-based applications that enable you to communicate, collaborate, share and manage your information with your customers, suppliers, vendors, partners, professional service firms, attorneys, accountants, employees, and co-workers. BlueTie saves companies time and makes them more efficient. BlueTie reduces IT costs. BlueTie Enterprise helps companies to simplify their back-office operations. BlueTie Research Center gives small businesses the research capabilities of a large corporation. Whether you are an attorney, accountant, salesperson, CEO, small business or large company, BlueTie provides you with a suite of applications that will eliminate your IT problems. Leave the IT to us.">
+<meta http-equiv="keywords" content="bluetie.com, BlueTie, Connected Officing, ASP, application service provider, travel, prospects, road warrior, weather, travel, maps, driving directions, business directory, sales force automation, sales force, sales prospects, sales training, sales leads, sales prospects, sales management, account management, customer relationship management, CRM, opportunity management, calendar, contact manager, contact management, task list, task manager, appointment scheduling, personal information manager, e-mail, email, sales professionals, PIM, sales portal, sales tips, selling tips, PDA, personal digital assistant, blueCards, blue cards, digital business cards, vcards, collaboration, communication, information management, secure document transfer, SecureSend, secure e-mail, voip, telephony, Internet telephony, free telephone calls, free long-distance, instant messaging, messenger, pager, productivity software, time management, personal productivity, collaboration, communication, information management, information sharing, salespeople, sales force, accountants, attorneys, outsource, ASP, application service provider, lawyers, education, higher education, colleges, universities">
+<meta name="description" content="Outsource your IT. BlueTie is the first integrated provider of web-based applications that enable you to communicate, collaborate, share and manage your information with your customers, suppliers, vendors, partners, professional service firms, attorneys, accountants, employees, and co-workers. BlueTie saves companies time and makes them more efficient. BlueTie reduces IT costs. BlueTie Enterprise helps companies to simplify their back-office operations. BlueTie Research Center gives small businesses the research capabilities of a large corporation. Whether you are an attorney, accountant, salesperson, CEO, small business or large company, BlueTie provides you with a suite of applications that will eliminate your IT problems. Leave the IT to us.">
+<meta name="keywords" content="bluetie.com, BlueTie, Connected Officing, ASP, application service provider, travel, prospects, road warrior, weather, travel, maps, driving directions, business directory, sales force automation, sales force, sales prospects, sales training, sales leads, sales prospects, sales management, account management, customer relationship management, CRM, opportunity management, calendar, contact manager, contact management, task list, task manager, appointment scheduling, personal information manager, e-mail, email, sales professionals, PIM, sales portal, sales tips, selling tips, PDA, personal digital assistant, blueCards, blue cards, digital business cards, vcards, collaboration, communication, information management, secure document transfer, SecureSend, secure e-mail, voip, telephony, Internet telephony, free telephone calls, free long-distance, instant messaging, messenger, pager, productivity software, time management, personal productivity, collaboration, communication, information management, information sharing, salespeople, sales force, accountants, attorneys, outsource, ASP, application service provider, lawyers, education, higher education, colleges, universities">
 </head>
-<body bgcolor="#FFFFFF">
-<map name="nav1"><area shape="rect" coords="161,2,204,19" href="http://www.bluetie.com/front.asp?id=&amp;res="><area shape="rect" coords="208,2,273,19" href="http://www.bluetie.com/about/products.asp?id=&amp;res=" alt="Products" title="Products"><area shape="rect" coords="345,2,414,19" href="http://www.bluetie.com/about/reliability.asp?id=&amp;res=" alt="Reliability" title="Reliability"><area shape="rect" coords="420,2,481,19" href="http://www.bluetie.com/about/benefits.asp?id=&amp;res=" alt="Benefits" title="Benefits"><area shape="rect" coords="278,2,340,19" href="http://www.bluetie.com/about/security.asp?id=&amp;res=" alt="Security" title="Security"></map>
-<map name="nav2"><area shape="rect" coords="232,7,298,17" href="http://www.bluetie.com/about/contact_us.asp?id=&amp;res="><area shape="rect" coords="315,7,355,19" href="http://www.bluetie.com/about/pricing.asp?id=&amp;res="><area shape="rect" coords="373,7,479,17" href="http://www.bluetie.com/about/customer_service.asp?id=&amp;res="></map>
-<map name="nav3"><area shape="rect" coords="50,50,91,65" href="http://www.bluetie.com/about/email.asp?id=&amp;res="><area shape="rect" coords="124,51,181,64" href="http://www.bluetie.com/about/calendar.asp?id=&amp;res="><area shape="rect" coords="124,67,247,80" href="http://www.bluetie.com/about/securesend.asp?id=&amp;res="><area shape="rect" coords="16,68,90,81" href="http://www.bluetie.com/about/file_cabinet.asp?id=&amp;res="><area shape="rect" coords="266,48,488,72" href="javascript:openWindow('/SiteTour/tour.htm','mailer','resizable=yes,width=680,height=430')"><area shape="rect" coords="266,74,490,98" href="https://www.bluetie.com/secured/signup.asp?id=&amp;res="></map>
-<center>
-  <form action="https://www.bluetie.com/secured/process_login.asp?id=&amp;res=" method="post" name="login">
-    <table width="600" border="0" cellspacing="0" cellpadding="1" bgcolor="#333333">
-      <tbody><tr bgcolor="#333333"> 
-        <td> 
-          <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-            <tbody><tr> 
-              <td colspan="2">
-                <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr> 
-                    <td rowspan="3" valign="top"><a href="http://www.bluetie.com/front.asp?id=&amp;res="><img src="/images/v11_logo.gif" width="110" height="163" border="0"></a></td>
-                    <td><img src="/images/v11_menu_main_00.gif" width="489" height="21" usemap="#nav1" border="0"></td></tr>
-                  <tr><td><img src="/images/v11_menu_contact.gif" width="489" height="23" usemap="#nav2" border="0"></td></tr>
-                  <tr><td><img src="/images/v11_elev_pitch.gif" width="489" height="119" usemap="#nav3" border="0"><br></td></tr>
-                </tbody></table>
-                
-              </td>
-            </tr>
-          </tbody></table>
-          <table width="100%" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
-            <tbody><tr>
-              <td width="109" valign="top"><img src="/images/v11_dotted_line.gif" width="1" height="412" align="right"><br>
-                <a href="http://www.bluetie.com/front.asp?id=&amp;res="><img src="/images/already_member.gif" width="98" height="52" border="0"></a></td>
-              <td width="472" valign="top"> 
-      <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">LAST 
-   UPDATED: 9/1/00</font> <br>
-   <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br>
-   <b>PRIVACY POLICY</b><br>
-   BlueTie.com, Inc. ("BlueTie.com")<b><br>
-   <a class="med" href="http://www.bluetie.com">www.bluetie.com</a></b></font></p>
-      <font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-      <ol>
-         <li><a class="med" href="#1"><b>General</b></a>
-         </li><li><a class="med" href="#2"><b>Your Acceptance Of These Terms</b></a>
-         </li><li><a class="med" href="#3"><b>Personally-Indentifiable Information</b></a>
-         </li><li><a class="med" href="#4"><b>Financial Information</b></a>
-         </li><li><a class="med" href="#5"><b>Non-Personally-Identifiable Information</b></a>
-         </li><li><a class="med" href="#6"><b>Other Special Circumstances</b></a>
-         </li><li><a class="med" href="#7"><b>Modification of Information and Opt-Out</b></a>
-         </li><li><a class="med" href="#8"><b>Information Collected Automatically</b></a> 
-         </li><li><a class="med" href="#9"><b>Information Placed Automatically On your Computer's Hard Drive</b></a>
-         </li><li><a class="med" href="#10"><b>Uploaded Information</b></a> 
-
-        </li><li><a class="med" href="#11"><b>Changing or Deleting Your Personal 
-        Information</b></a>
-         </li><li><a class="med" href="#12"><b>Children</b></a>
-         </li><li><a class="med" href="#13"><b>Links to Other Web Sites</b></a>
-         </li><li><a class="med" href="#14"><b>Security</b></a>
-         </li><li><a class="med" href="#15"><strong>Privacy Policy Changes</strong></a>
-         </li><li><a class="med" href="#16"><strong>Whom to Contact</strong></a></li>
-      </ol></font>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="1"></a>
-      <b>General</b></font></p>
-      
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BlueTie.com respects 
-   the privacy of every individual who visits www.bluetie.com (the "Web Site" 
-   or “Site”). Your privacy is very important to us. This Privacy Policy outlines 
-   the information we will collect and how we will use and share that information. 
-   This Policy will also tell you what to do if you do not want your personal 
-   information collected or shared. If you have any questions about our policy, 
-   please email us at <a class="med" href="mailto:privacy@bluetie.net">privacy@bluetie.net</a>.</font></p>
-
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table>
+<body bgcolor="#ffffff" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">
+<form action="https://www.bluetie.com/secured/process_login.asp?id=&amp;res=" method="post" name="login">
+<input type="hidden" name="ccid" value="49671111"><table width="100%" border="0" cellspacing="0" cellpadding="0" background="/bg_front_header2.gif" bgcolor="#00599C">
+<tbody><tr valign="top"> 
+<td class="topbg" align="center" background="/images/bg_front_header2.gif"><img height="30" src="/images/bullet_front_header2.gif" width="10"><img width="5" height="30" src="/images/spacer.gif"></td>
+<td class="topbg" align="right" background="/images/bg_front_header2.gif"><img height="5" src="/images/spacer.gif"><br><a class="lgt" href="http://www.bluetie.com/front.asp?id=&amp;res="><font class="lgt"><b>BlueTie.com</b></font></a></td>
+<td class="topbg" align="left" background="/images/bg_front_header2.gif"><img width="5" height="30" src="/images/spacer.gif"><img height="30" src="/images/div_front_header2.gif" width="10"><img width="5" height="30" src="/images/spacer.gif"></td>
+<td class="topbg" width="100" background="/images/bg_front_header2.gif"><img height="5" src="/images/spacer.gif"><br><a class="lgt" href="http://www.bluetie.com/corp/index.asp?id=&amp;res="><font class="lgt"><b>About&nbsp;Us</b></font></a></td>
+<td class="topbg" background="/images/bg_front_header2.gif"><img width="250" height="1" src="/images/spacer.gif"></td>
+<td class="topbg" align="right" background="/images/bg_front_header2.gif"><img height="5" src="/images/spacer.gif"><br><a class="lgt" href="http://www.bluetie.com/resellers/index.asp?id=&amp;res="><font class="lgt"><b>Resellers</b></font></a></td>
+<td class="topbg" background="/images/bg_front_header2.gif"><img width="5" height="30" src="/images/spacer.gif"><img height="30" src="/images/div_front_header2.gif" width="10"><img width="5" height="30" src="/images/spacer.gif"></td>
+<td class="topbg" align="center" background="/images/bg_front_header2.gif"><img height="5" src="/images/spacer.gif"><br><a class="lgt" href="http://www.bluetie.com/about/contact_us.asp?id=&amp;res="><font class="lgt"><b>Contact</b></font></a></td>
+<td class="topbg" background="/images/bg_front_header2.gif"><img width="5" height="30" src="/images/spacer.gif"><img height="30" src="/images/div_front_header2.gif" width="10"><img width="5" height="30" src="/images/spacer.gif"></td>
+<td class="topbg" align="center" background="/images/bg_front_header2.gif"><img height="5" src="/images/spacer.gif"><br><a class="lgt" href="http://www.bluetie.com/about/support.asp?id=&amp;res="><font class="lgt"><b>Support</b></font></a></td>
+<td class="topbg" background="/images/bg_front_header2.gif"><img width="5" height="30" src="/images/spacer.gif"><img height="30" src="/images/div_front_header2.gif" width="10"><img width="5" height="30" src="/images/spacer.gif"></td>
+<td class="topbg" width="180" align="center" background="/images/bg_front_header2.gif"><img height="5" src="/images/spacer.gif"><br><font color="#ffcc00"><b>1-800-BLUE-TIE</b></font></td>
+</tr></tbody></table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td align="middle"><a href="http://www.bluetie.com/front.asp?id=&amp;res="><img height="102" src="/images/logo_front.gif" width="69" border="0"></a> 
+        <img height="1" src="/images/spacer.gif" width="50"> </td>
+      <td bgcolor="#ebb549"><img height="147" src="/images/collage_front_apps2.jpg" width="535"></td>
+    </tr>
+    <tr bgcolor="#006699"> 
+      <td align="middle" valign="top" colspan="2"><img height="1" src="/images/spacer.gif" width="1"></td>
+    </tr>
+    <tr> 
+      <td valign="top" width="180" bgcolor="#ffffff"> <img height="36" src="/images/img_member_login.gif" width="215"><br>
+        <table width="170" border="0" cellspacing="0" cellpadding="2">
+          <tbody><tr>
+            <td width="15">&nbsp;</td>
+            <td><font class="txt_default"> username <br>
+              <input name="unm" size="12" value="">
+              </font></td>
+          </tr>
+          <tr valign="bottom">
+            <td width="15">&nbsp;</td>
+            <td><font class="txt_default"> password<br>
+              <input type="password" name="password" size="12">
+              <br>
+              <br>
+              <input type="image" border="0" name="imageField" src="/images/button_login2.gif" width="72" height="17">
+              </font></td>
+          </tr>
+          <tr>
+            <td width="15">&nbsp;</td>
+            <td><font class="txt_fine"> 
+              <input name="save_unm" type="checkbox" value="1" unchecked=""> Remember my username</font></td>
+          </tr>
+          <tr>
+            <td width="15">&nbsp;</td>
+            <td><a class="med" href="https://www.bluetie.com/secured/ask_username.asp?id=&amp;res="><font color="#3366cc">Forgot 
+              your password?</font></a></td>
+          </tr>
+        </tbody></table>
         <br>
         <br>
-      
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="2"></a></font> 
-   <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Your Acceptance 
-   Of These Terms</b></font></p>
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> By using the Web Site, you signify your assent 
-      to our <a class="med" href="privacy.asp">Privacy Policy</a>. If you do not agree to 
-   this Policy, please do not use the Site. Your continued use of the Web Site 
-   following the posting of changes to its terms means you accept those changes.</font></p>
+      </td>
+      <td valign="top" bgcolor="#ffffff"> 
+        
+   <table border="0" cellspacing="5" cellpadding="5">
+   <tbody><tr bgcolor="#ffffff"> 
+   <td valign="top">
+            <p><font class="txt_headline">Privacy Statement</font><b><br>
+   </b></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">LAST UPDATED: 9/1/00</font> <br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><br><b><a href="https://www.truste.org/validate/7004" target="_blank"><img align="right" alt="TRUSTe: Click to Verify" border="0" height="73" hspace="50" src="/images/truste_seal.gif" width="91"></a>PRIVACY 
+            POLICY</b><br>BlueTie.com, Inc. ("BlueTie.com")<b><br><a class="med" href="http://www.bluetie.com">www.bluetie.com</a></b></font></p>
+            <ol>
+              <li><a class="med" href="#1"><b>General</b></a> 
+              </li><li><a class="med" href="#2"><b>Your Acceptance Of These 
+              Terms</b></a> 
+              </li><li><a class="med" href="#3"><b>Personally-Indentifiable 
+              Information</b></a> 
+              </li><li><a class="med" href="#4"><b>Financial Information</b></a> 
+              </li><li><a class="med" href="#5"><b>Non-Personally-Identifiable 
+              Information</b></a> 
+              </li><li><a class="med" href="#6"><b>Other Special Circumstances</b></a> 
+              </li><li><a class="med" href="#7"><b>Modification of Information and 
+              Opt-Out</b></a> 
+              </li><li><a class="med" href="#8"><b>Information Collected 
+              Automatically</b></a> 
+              </li><li><a class="med" href="#9"><b>Information Placed Automatically On 
+              your Computer's Hard Drive</b></a> 
+              </li><li><a class="med" href="#10"><b>Uploaded Information</b></a> 
+              </li><li><a class="med" href="#11"><b>Changing or Deleting Your Personal 
+              Information</b></a> 
+              </li><li><a class="med" href="#12"><b>Children</b></a> 
+              </li><li><a class="med" href="#13"><b>Links to Other Web Sites</b></a> 
+              </li><li><a class="med" href="#14"><b>Security</b></a> 
+              </li><li><a class="med" href="#15"><b>Privacy Policy 
+              Changes</b></a> 
+              </li><li><a class="med" href="#16"><b>Whom to Contact</b></a> 
+              </li></ol>
+            <p>&nbsp;</p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="1"></a><b>General</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BlueTie.com respects the privacy of every individual who 
+            visits www.bluetie.com (the "Web Site" or “Site”). Your privacy is 
+            very important to us. This Privacy Policy outlines the information 
+            we will collect and how we will use and share that information. This 
+            Policy will also tell you what to do if you do not want your 
+            personal information collected or shared. If you have any questions 
+            about our policy, please email us at <a class="med" href="mailto:privacy@bluetie.net">privacy@bluetie.net</a>.</font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table><br><br>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="2"></a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Your Acceptance Of These Terms</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">By 
+            using the Web Site, you signify your assent to our <a class="med" href="privacy.asp?id=&amp;res=">Privacy Policy</a>. If you do not agree to this 
+            Policy, please do not use the Site. Your continued use of the Web 
+            Site following the posting of changes to its terms means you accept 
+            those changes.</font></p>
+            <p><br>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table>
+            </p><p><br><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="3"></a><b>Personally-Indentifiable 
+            Information<br><br></b>There are cases where we may ask you for 
+            personally-identifiable information such as your name, mailing 
+            address, email address and telephone number. We request 
+            personally-identifiable information when you register as a member of 
+            the Web Site, for online transactions, feedback forms, surveys and 
+            for other services that require registration or subscription. We 
+            will not collect any personally-identifiable information about you 
+            unless you provide it to us voluntarily. Please note that although 
+            certain registrations within BlueTie.com require certain user 
+            information, registration itself is entirely optional. We will also 
+            collect other users' comments about you in our feedback area. 
+            </font></p>
+            <p><font class="txt_default">When 
+            you provide us with personally-identifiable information, BlueTie.com 
+            may:<br></font></p>
+            <p>&nbsp;</p>
+            <ul>
+              <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">store and process that information to better understand 
+              your needs, customize your experience, and to improve our products 
+              and services; </font>
+              </li><li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">use 
+              that information to contact you periodically via email and postal 
+              mail for informational, marketing and promotional purposes (i.e. 
+              site updates, blueCards, etc.); </font>
+              </li><li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">disclose that information to third parties who need such 
+              information to provide products and services that you have 
+              requested; </font>
+              </li><li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">disclose that information to third parties when we have 
+              reason to<br>believe that disclosing this information is necessary 
+              to identify, contact or bring legal action against someone who may 
+              be causing injury to or interference with (either intentionally or 
+              unintentionally) BlueTie.com's rights or property, other members 
+              or users of the Web Site, or anyone else who could be harmed by 
+              such activities; and </font>
+              </li><li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">disclose that information to third parties when we believe 
+              in good faith that the law requires it. </font></li></ul>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Except 
+            as stated in this Privacy Policy, or as otherwise stated at the time 
+            personally-identifiable information is gathered, we will not provide 
+            personally-identifiable information to third parties.</font> 
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table><br><br>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="4"></a><b>Financial Information</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BlueTie.com may ask you for your credit card number and 
+            expiration date when you register as a member of the Web Site or 
+            order goods or services from the Web Site. We may use this 
+            information for processing your registration and order and may share 
+            this information with credit card processing companies, the 
+            merchants from whom you have ordered, and any other third party that 
+            may need the information to process your order. These organizations 
+            have their own privacy and data collection practices, and we have no 
+            responsibility for these independent policies.</font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table><br><br>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="5"></a><b>Non-Personally-Identifiable Information</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BlueTie.com may also collect information about you that is 
+            not personally-identifiable. This type of information includes your 
+            age, gender, zip code, area code, interests and preferences. We will 
+            not collect any such information about you unless you provide it to 
+            us voluntarily. We may share this information in the aggregate with 
+            advertisers, business partners, sponsors, and other third parties. 
+            For example, we may inform a sponsor that the membership of the Web 
+            Site is x&nbsp;percent females and y percent males. These data are 
+            used to customize our Site's content and advertising. We will also 
+            use that and other data and information to make visits to the Site 
+            easier, quicker, and better for you and our other members and users. 
+            We also may track certain information about your visit to the Web 
+            Site, including (without limitation) pages viewed, clickstreams, and 
+            searches. Such information is gathered in the aggregate and is not 
+            identified by any specific users.</font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table><br><br>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="6"></a><b>Other Special Circumstances</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Contests, sweepstakes, or other promotions on the Site will 
+            have separate privacy practices with regard to the information 
+            collected in connection with entering or participating in any such 
+            event. You will have a choice of whether or not you would like to 
+            allow certain information shared with third parties who may have a 
+            product or service of interest to you. You will also have the choice 
+            of whether a company that is co-sponsoring a promotion or contest 
+            may contact or send information to you.</font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table><br><br>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="7"></a><b>Modification of Information and Opt-Out</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">If you 
+            indicated on registration that you are interested in receiving 
+            offers or information from BlueTie.com and our partners, we may 
+            occasionally send you e-mail about products and services we believe 
+            may be of interest to you. If you do not want to receive such 
+            mailings, simply tell us when you give us your personal information. 
+            Or, if you have been receiving the mailings and if you would like to 
+            remove or change that option or some other information you have 
+            submitted, you may do so by visiting <a class="med" href="/myaccount.asp?id=&amp;res=">My Account</a>. (Remember, however, that 
+            removing some or all of your information may limit your ability to 
+            access some or all of the features and services of the Web 
+            Site.)"<br><br>In addition, to keep you in control of your 
+            personally-identifiable information and the communications directed 
+            to you, we allow you to opt-out of receiving marketing and 
+            promotional communications from BlueTie.com. You may opt-out of this 
+            service by following the instructions included in the communications 
+            or by visiting <a class="med" href="/myaccount.asp?id=&amp;res=">My 
+            Account</a>.</font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table><br><br>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="8"></a><b>Information Collected Automatically</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BlueTie.com may also automatically collect 
+            non-personally-identifiable information about your use of the Web 
+            Site, such as the domain from which you access the Internet (for 
+            example, aol.com, if you are connecting from an America Online 
+            account), the date and time you access the Site, and the Internet 
+            address of the website from which you linked directly to our Site. 
+            This information will not be linked to personally-identifiable 
+            information. We may use this information to analyze and enhance our 
+            Web Site and for security purposes, and we may aggregate this 
+            information and share the aggregated information with business 
+            partners, sponsors, and other third parties.</font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table><br><br>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="9"></a><b>Information Placed Automatically On your Computer's 
+            Hard Drive</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Not all 
+            cookies are edible. A “cookie” is information stored on your 
+            computer when you view a website. Our cookies help us in many ways. 
+            For example, cookies allow us to track your shopping cart and to 
+            make sure you don't see the same ad repeatedly. Cookies also allow 
+            us to tailor the Web Site to better match your interests and 
+            preferences. If you visit another website from our Site, you may 
+            also receive a cookie or similar file from that site. With most 
+            Internet browsers, you can erase cookies from your computer hard 
+            drive, block all cookies, or receive a warning before a cookie is 
+            stored. Please refer to your browser instructions or help screen to 
+            learn more about these functions. Remember, however, that blocking 
+            or deleting cookies may limit your ability to access some or all of 
+            the features and services of the Web Site.</font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table><br><br>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="10"></a><b>Uploaded Information</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">We will 
+            not disclose to third parties any information, data and other 
+            materials that you upload to any non-public areas of the service 
+            offered on the Web Site (e.g., your calendar, your file folders, 
+            etc.) except as directed by you or when we believe in good faith 
+            that the law requires it.</font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="11"></a><b>Changing or Deleting Your Personal 
+            Information</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BlueTie 
+            allows you to modify or delete your personal information or 
+            preferences, by clicking on the "Edit My Info" link&nbsp;in the top 
+            right corner of the navigation. You may also call BlueTie at 
+            1-800-BLUE-TIE to request account cancellations or information 
+            changes.</font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="12"></a><b>Children</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The Web 
+            Site is not directed at individuals under thirteen years of age, and 
+            BlueTie.com does not intend to collect any personally-identifiable 
+            information from such individuals.</font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="13"></a><b>Links to Other Web Sites</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The Web 
+            Site allows links to various other web sites. We assume no 
+            responsibility for the information practices of sites you are able 
+            to access through the Web Site. Furthermore, a link to another does 
+            not imply an affiliation or an endorsement of that linked 
+            site.</font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="14"></a><b>Security</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Please 
+            keep in mind that whenever you give out personal information online 
+            --- for example, via instant messaging or online meetings--- that 
+            information can be collected and used by people you don't know. 
+            While BlueTie.com strives to protect your information and privacy, 
+            we cannot guarantee the security of any information you disclose 
+            online, and you do so at your own risk. <br><br>The importance of 
+            security for all personally-identifiable information associated with 
+            our users and members is of utmost concern to us. Unfortunately, no 
+            data transmission over the Internet can be guaranteed to be secure. 
+            As a result, while we strive to protect your personally-identifiable 
+            information, we can't ensure or warrant the security of any 
+            information you transmit to us or from our online products or 
+            services, and you do so at your own risk. However, once we receive 
+            your personally-identifiable information, we will take reasonable 
+            efforts to ensure its security on our systems.</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> </font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">In 
+            certain areas BlueTie uses SSL-encryption to protect data 
+            transmissions. <br><br>Your account on the Web Site is password 
+            protected so that only you can access it and view the member 
+            information relevant to the account. We recommend that you do not 
+            divulge your password to anyone. BlueTie.com will never ask you for 
+            your password in an unsolicited phone call or email. Ultimately, you 
+            are responsible for maintaining the secrecy of your passwords and 
+            any account information. Remember to sign out of your account on the 
+            Web Site and close your browser window when you have finished your 
+            work. This will ensure that others cannot access your personal 
+            information and correspondence if your computer is accessible to 
+            others, if you share a computer with someone else, or if you use a 
+            computer in a public place like a library or Internet 
+            café.</font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="15"></a><b>Privacy Policy Changes</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">If we 
+            plan to make significant changes to our privacy policy or practices 
+            with respect to how we use personally identifiable information, we 
+            will post the changes to the privacy statement 30 days before they 
+            take effect, so that you will always know what information we 
+            gather, how we might use that information and if we disclose 
+            it.</font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="16"></a><b>Whom to Contact</b></font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">If you 
+            have any questions about this privacy statement, the practices of 
+            this site, or your dealings with this Web site, you can contact 
+            BlueTie at:</font></p>
+            <blockquote>
+              <blockquote>
+                <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Privacy Policy<br>BlueTie.com<br>110 Allens Creek 
+                Road<br>Rochester NY 14618</font></p></blockquote></blockquote>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Or 
+            email us at: <a class="med" href="mailto:privacy@BlueTie.net">privacy@BlueTie.net</a> </font>
+            </p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><br></font></p>
+            <p>
+            <table align="right" border="0" cellpadding="3" cellspacing="0" width="17%">
+              <tbody><tr valign="bottom">
+                <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> <font face="Arial, Helvetica, sans-serif" size="1"><a class="med" href="#top">back to 
+            top</a></font></td></tr></tbody></table>
+            </p><p>&nbsp;</p> </td>
+   </tr>
+   </tbody></table>
+      </td>
+    </tr>
+    <tr> 
+      <td align="middle" valign="top" width="180" bgcolor="#ffffff">&nbsp;</td>
+      <td valign="top" bgcolor="#ffffff"> <br>
+        <br>
+        <br>
+        <br><table bgcolor="#333333" width="500" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="/images/spacer.gif" width="1" height="1"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="2">
+<tbody><tr><td><a class="med" href="http://www.bluetie.com/about/privacy.asp?id=&amp;res="><font class="txt_fine">Privacy</font></a></td>
+    <td><a class="med" href="http://www.bluetie.com/corp/careers_index.asp?id=&amp;res="><font class="txt_fine">Careers @BlueTie</font></a></td>
+    <!--<td><A class=med href="http://www.bluetie.com/affiliate/index.asp?id=&res="><font class="txt_fine">Affiliate Program</font></a></td>-->
+    <td><a class="med" href="http://www.bluetie.com/about/terms_of_use.asp?id=&amp;res="><font class="txt_fine">Terms of Use</font></a></td>
+    <td><a class="med" href="https://www.bluetie.com/secured/signup_eu.asp?id=&amp;res="><font class="txt_fine">Join an Enterprise</font></a></td>
+</tr>
+<tr align="center"> 
+    <td colspan="3" align="center"><font class="txt_fine"><br>Copyright ©1999-2001 BlueTie Inc. All rights reserved </font></td>
+</tr>
+</tbody></table>
+   </td>
+   </tr>
+</tbody></table>
 <br>
-<table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table>
-      <p>
-        <br>
-        <br>
-<font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <a name="3"></a><b>Personally-Indentifiable 
-Information<br>
-<br>
-</b>There are cases where we 
-      may ask you for personally-identifiable information such as your name, 
-      mailing address, email address and telephone number. We request 
-      personally-identifiable information when you register as a member of the 
-      Web Site, for online transactions, feedback forms, surveys and for other 
-      services that require registration or subscription. We will not collect 
-      any personally-identifiable information about you unless you provide it to 
-      us voluntarily. Please note that although certain registrations within 
-      BlueTie.com require certain user information, registration itself is 
-      entirely optional. We will also collect other users' comments about you in 
-      our feedback area.
-</font></p>
-      <p>
-<font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-When you provide us with personally-identifiable information, BlueTie.com may:<br></font></p> 
-<ul>
-   <li><font size="2" face="Verdana, Arial, Helvetica, sans-serif">store and process 
-      that information to better understand your needs, customize your experience, 
-      and to improve our products and services; </font> 
-   </li><li><font size="2" face="Verdana, Arial, Helvetica, sans-serif">use that information to contact you periodically via email 
-      and postal mail for informational, marketing and promotional purposes (i.e. site updates, 
-      blueCards, etc.); </font>
-   </li><li><font size="2" face="Verdana, Arial, Helvetica, sans-serif">disclose that 
-      information to third parties who need such information to provide products 
-      and services that you have requested; </font>
-   </li><li><font size="2" face="Verdana, Arial, Helvetica, sans-serif">disclose that information to third parties when we 
-        have reason to<br>  
-              believe that disclosing this 
-      information is necessary to identify, contact or bring legal action against 
-      someone who may be causing injury to or interference with (either intentionally 
-      or unintentionally) BlueTie.com's rights or property, other members or users 
-      of the Web Site, or anyone else who could be harmed by such activities; 
-      and </font>
-   </li><li><font size="2" face="Verdana, Arial, Helvetica, sans-serif">disclose that 
-      information to third parties when we believe in good faith that the law 
-      requires it. </font></li>
-</ul>
-<font size="2" face="Verdana, Arial, Helvetica, sans-serif">Except as stated in 
-this Privacy Policy, or as otherwise stated at the time personally-identifiable 
-information is gathered, we will not provide personally-identifiable information 
-to third parties.</font> 
-<table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table>
-        <br>
-        <br>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-      <a name="4"></a><b>Financial Information</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BlueTie.com may ask you for your credit card number and expiration date when you register as a member of the Web Site or order goods or services from the Web Site.  We may use this information for processing your registration and order and may share this information with credit card processing companies, the merchants from whom you have ordered, and any other third party that may need the information to process your order.  These organizations have their own privacy and data collection practices, and we have no responsibility for these independent policies.</font></p>
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table>
-        <br>
-        <br>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="5"></a>
-      <b>Non-Personally-Identifiable Information</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BlueTie.com may also collect information about you that is not personally-identifiable.  This type of information includes your age, gender, zip code, area code, interests and preferences.  We will not collect any such information about you unless you provide it to us voluntarily.  We may share this information in the aggregate with advertisers, business partners, sponsors, and other third parties.  For example, we may inform a sponsor that the membership of the Web Site is x&nbsp;percent females and y percent males. These data are used to customize our Site's content and advertising.  We will also use that and other data and information to make visits to the Site easier, quicker, and better for you and our other members and users.  We also may track certain information about your visit to the Web Site, including (without limitation) pages viewed, clickstreams, and searches.  Such information is gathered in the aggregate and is not identified by any specific users.</font></p>
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table>
-        <br>
-        <br>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="6"></a>
-      <b>Other Special Circumstances</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Contests, sweepstakes, or other promotions on the Site will have separate privacy practices with regard to the information collected in connection with entering or participating in any such event.  You will have a choice of whether or not you would like to allow certain information shared with third parties who may have a product or service of interest to you.  You will also have the choice of whether a company that is co-sponsoring a promotion or contest may contact or send information to you.</font></p>
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table>
-        <br>
-        <br>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="7"></a>
-      <b>Modification of Information and Opt-Out</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">If you indicated on registration that you are interested in receiving offers or information from BlueTie.com and our partners, we may occasionally send you e-mail about products and services we believe may be of interest to you.  If you do not want to receive such mailings, simply tell us when you give us your personal information.  Or, if you have been receiving the mailings and if you would like to remove or change that option or some other information you have submitted, you may do so by visiting <a class="med" href="/myaccount.asp">My Account</a>. (Remember, however, that 
-      removing some or all of your information may limit your ability to access 
-      some or all of the features and services of the Web Site.)"<br><br>In addition, to keep you in control of your personally-identifiable information and the communications directed to you, we allow you to opt-out of receiving marketing and promotional communications from BlueTie.com.  You may opt-out of this service by following the instructions included in the communications or by visiting <a class="med" href="/myaccount.asp">My Account</a>.</font></p>
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table>
-        <br>
-        <br>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="8"></a>
-      <b>Information Collected Automatically</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BlueTie.com may also automatically collect non-personally-identifiable information about your use of the Web Site, such as the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account), the date and time you access the Site, and the Internet address of the website from which you linked directly to our Site.  This information will not be linked to personally-identifiable information.  We may use this information to analyze and enhance our Web Site and for security purposes, and we may aggregate this information and share the aggregated information with business partners, sponsors, and other third parties.</font></p>
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table>
-        <br>
-        <br>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="9"></a>
-      <b>Information Placed Automatically On your Computer's Hard Drive</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Not all cookies are edible.  A “cookie” is information stored on your computer when you view a website.  Our cookies help us in many ways.  For example, cookies allow us to track your shopping cart and to make sure you don't see the same ad repeatedly.  Cookies also allow us to tailor the Web Site to better match your interests and preferences.  If you visit another website from our Site, you may also receive a cookie or similar file from that site.  With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored.  Please refer to your browser instructions or help screen to learn more about these functions.  Remember, however, that blocking or deleting cookies may limit your ability to access some or all of the features and services of the Web Site.</font></p>
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table>
-        <br>
-        <br>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="10"></a>
-      <b>Uploaded Information</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">We will not disclose to third parties any information, data and other materials that you upload to any non-public areas of the service offered on the Web Site (e.g., your calendar, your file folders, etc.) except as directed by you or when we believe in good faith that the law requires it.</font></p>
-      
-      
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="11"></a>
-      <b>Changing or Deleting Your Personal 
-      Information</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BlueTie allows you to modify or delete your 
-      personal information or preferences, by clicking on the "Edit My Info" link&nbsp;in the top right corner of the navigation. You may also call BlueTie at 1-800-BLUE-TIE to request account cancellations or information changes.</font></p>
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table>
-      
-      
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="12"></a>
-      <b>Children</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The Web Site is not directed at individuals under thirteen years of age, and BlueTie.com does not intend to collect any personally-identifiable information from such individuals.</font></p>
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table>      
-      
-     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="13"></a>
-     <b>Links to Other Web Sites</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The Web Site allows links to various other web sites.  We assume no responsibility for the information practices of sites you are able to access through the Web Site.  Furthermore, a link to another does not imply an affiliation or an endorsement of that linked site.</font></p>
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table> 
-      
-     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="14"></a>
-     <b>Security</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Please keep in mind that whenever you give out personal information online --- for example, via instant messaging or online meetings--- that information can be collected and used by people you don't know. While BlueTie.com strives to protect your information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk.
-<br><br>
-                                        The importance of security for all personally-identifiable information associated with our users and members is of utmost concern to us. Unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, while we strive to protect your personally-identifiable information, we can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. However, once we receive your personally-identifiable information, we will take reasonable efforts to ensure its security on our systems.</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-                                                                                                                                   </font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-                                                                                  In certain areas BlueTie uses SSL-encryption to protect data transmissions.
-<br><br>
-Your account on the Web Site is password protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone.  BlueTie.com will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Remember to sign out of your account on the Web Site and close your browser window when you have finished your work. This will ensure that others cannot access your personal information and correspondence if your computer is accessible to others, if you share a computer with someone else, or if you use a computer in a public place like a library or Internet café.</font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="15"></a><b>Privacy Policy Changes</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">If we plan to make significant changes to our privacy policy or practices with respect to how we use personally identifiable information, we will post the changes to the privacy statement 30 days before they take effect, so that you will always know what information we gather, how we might use that information and if we disclose it.</font></p>
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back 
-            to top</a></font></td>
-        </tr>
-      </tbody></table> 
-   
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="16"></a>
-      <b>Whom to Contact</b></font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">If you have 
-        any questions about this privacy statement, the practices of this site, 
-        or your dealings with this Web site, you can contact BlueTie at:</font></p>
-      <a href="https://www.truste.org/validate/7004" target="_blank"><img src="/images/truste_seal.gif" height="73" width="91" border="0" alt="TRUSTe: Click to Verify" align="right" hspace="50"></a>
-      <blockquote> 
-        <blockquote> 
-          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Privacy 
-            Policy<br>
-            BlueTie.com<br>
-            110 Allens Creek Road<br>
-            Rochester NY 14618</font></p>
-        </blockquote>
-      </blockquote>
-                <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Or 
-                  email us at: <a class="med" href="mailto:privacy@BlueTie.net">privacy@BlueTie.net</a> 
-                  </font> 
-                </p><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br>
-        </font></p>
-      <table width="17%" border="0" cellpadding="3" cellspacing="0" align="right">
-        <tbody><tr valign="bottom"> 
-          <td><img align="absBottom" height="7" src="images/backtop.gif" width="9"> 
-            <font face="Arial, Helvetica, sans-serif" size="1"><a href="#top" class="med">back to top</a></font></td>
-        </tr>
-      </tbody></table><br><br>
-     </td></tr></tbody></table>
-            
-<table width="100%" border="0" cellspacing="0" cellpadding="10" bgcolor="#000000">
-  <tbody><tr><td> 
-    <div align="center"><font face="Arial, Helvetica, sans-serif" size="2" color="#ffffff"><a href="http://www.bluetie.com/corp/index.asp?id=&amp;res="><font color="#ffffff" face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>About 
-      BlueTie</b></font></a><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp; 
-      |&nbsp;&nbsp; <a href="http://www.bluetie.com/corp/privacy.asp?id=&amp;res="><font color="#ffffff">Privacy</font></a>&nbsp;&nbsp; 
-      |&nbsp;&nbsp; <a href="http://www.bluetie.com/corp/employment.asp?id=&amp;res="><font color="#ffffff">Jobs 
-      at BlueTie</font></a>&nbsp;&nbsp; |&nbsp;&nbsp; <a href="http://www.bluetie.com/corp/termsofuse.asp?id=&amp;res="><font color="#ffffff">Terms 
-      of use</font></a><br>
-      ©2000 BlueTie Inc. All rights reserved</font></b></font> </div>
-	</td></tr></tbody></table>
-</td></tr></tbody></table>
-  </form>
-</center>
-
+</form>
 
 </body></html>
