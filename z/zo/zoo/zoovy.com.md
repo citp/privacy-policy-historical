@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210113953id_/http%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628102142id_/http%3A//zoovy.com/legal/privacy) for the most accurate reproduction.*
 
 # Zoovy, Inc. - Privacy Policy
 
@@ -38,7 +38,16 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. This site uses a combination of firewalls, packet filters, security patches, monitoring software, and advanced cryptographic software in conjunction with secure sockets layer to ensure you personal data is secure from unauthorized access. Unless you explicitly request that we do not use advanced security, by default advanced security will always be on. Only certain employees have access to the information you provide us. For example, we impose strict rules on our employees who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we try to prevent such unfortunate occurrences. 
 
-10\. CHOICE OPT-OUT
+10\. DATA SHARING PRACTICES
+
+As part of the service we provide we routinely collect and store information from customers who buy from a user of our service. Any data which is collected and stored on our servers along with sales data, product information, is property of the user - with the following exceptions: 
+
+* We routinely inspect the data to verify integrity of the information. 
+* We share information about customers with an ISP provided the ISP has demonstrated they have a pre-existing relationship. 
+* We share information about customers with a marketplace provided the marketplace has demonstrated they already have a pre-existing relationship with the customer. 
+* We routinely compile aggregate sales statistics information 
+
+11\. CHOICE OPT-OUT
 
 Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
@@ -52,15 +61,15 @@ Encinitas, CA 92024
 877-ZOOVY4U (toll free)
   4. You may send us a facsimile at 425-699-7859
 
-11\. COPYRIGHT POLICY
+12\. COPYRIGHT POLICY
 
 Copyright. Without limiting any other remedies, Zoovy may suspend or terminate your account if you are found to be infringing upon the copyright, trademark or other rights of third parties. Copyright, or Trademark owners can report infringing items, and have such items removed. Once the identity of a copyright or trademark owner is established, the owners may have limited access to some of your personally identifiable information as described in the Zoovy Privacy Policy. 
 
-12\. UPDATE POLICY
+13\. UPDATE POLICY
 
-This site gives users the following options for changing and modifying information previously provided. By visiting http://www.zoovy.com/ and supplying a system assigned username and password. 
+This site gives users the following options for changing and modifying information previously provided. Customers of a user may do this by going to the users respective website. Zoovy users may do this by visiting http://www.zoovy.com/ and supplying a system assigned username and password. 
 
-13\. CONTACTING ZOOVY
+14\. CONTACTING ZOOVY
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 
