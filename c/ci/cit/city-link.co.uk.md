@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the city-link.co.uk privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618153044id_/http%3A//www.city-link.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-link.co.uk privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209073940id_/http%3A//www.city-link.co.uk/privacy.htm) for the most accurate reproduction.*
 
-# Untitled Document
+# Initial City Link Privacy Policy
 
 We believe it is important to clearly state Initial City Link's Privacy Policy. For this reason we have used plain english (with a minimum of "jargon"- IT or legal). If you require clarification of any of these points then please email [webmaster@city-link.co.uk](mailto:webmaster@city-link.co.uk) . 
 
@@ -63,7 +63,7 @@ Your computer has to encrypt all data before sending it. The server then decrypt
 
 By giving you the choice at logon time to use SSL or the unencrypted site we are allowing you to choose the option which best meets your needs and security policy of your business.
 
-Whichever option you choose your password is always encrypted before it is sent. 
+Whichever option you choose your password is always encrypted before it is sent.
 
 Privacy Policy V2.1  
 30 March 2003
