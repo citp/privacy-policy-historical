@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201192400id_/http%3A//www.thejournal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2001-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010419105313id_/http%3A//www.thejournal.com/privacy.htm) for the most accurate reproduction.*
 
 # T.H.E. Journal Online: Privacy Statement
 
@@ -35,7 +35,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 
 
-150 El Camino Real #112 Tustin, CA 92780
+17501 E. 17th Street, Suite 230, Tustin, CA 92780.
 
 **Correct/Update**
 
@@ -52,7 +52,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Webmaster  
 T.H.E. Journal  
-150 El Camino Real #112  
+17501 E. 17th Street, Suite 230  
 Tustin, CA 92780  
 [web@thejournal.com](mailto:web@thejournal.com)  
 
