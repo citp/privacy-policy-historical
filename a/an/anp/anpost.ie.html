@@ -1,0 +1,642 @@
+<!--The following is the downloaded HTML source of the anpost.ie privacy policy that was archived on 2003-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207124730id_/http%3A//www.anpost.ie/common/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><!-- InstanceBegin template="/Templates/common.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>An Post - General Services</title>
+<!----------------- FILE VERSION INFORMATION ---------------------
+Copyright: Copyright 2003, PCI Ltd., All rights reserved 
+$Workfile: privacy.html $
+$Revision: 20 $	
+$Author: Donnellyn $  (of last update)
+$Date: 10/03/03 2:43p $ (of last change) 
+----------------- END FILE VERSION INFORMATION ------------------>
+<!-- InstanceEndEditable -->
+<script language="JavaScript">
+
+<!-- Function to bring dropdown items to their linked pages in a new page
+
+function formHandlerNewpage(Dropdown){
+
+var formname;
+var tInteger; //option value passed is an intereger
+formname=document.Dropdown
+//alert(formname.PowerbarDropdown.selectedIndex)
+
+tInteger=formname.PowerbarDropdown.selectedIndex
+//Get value of page passed from the dropdown
+var page_val = formname.PowerbarDropdown.options[tInteger].value;
+//If page is cyril open in existing browser
+if(page_val == "http://www.anpost.ie/Saving_with_Cyril/cyril_home.html")
+{
+window.location.href=page_val
+return false;
+}
+
+if(page_val == "#")
+{
+}
+//Else open it in new window
+else 
+window.open(formname.PowerbarDropdown.options[tInteger].value);
+}
+
+<!-- Function to bring dropdown items to their linked pages
+function formHandler(form){
+if(form.options[form.selectedIndex].value != "")
+window.location.href=form.options[form.selectedIndex].value;
+ }
+
+// -->
+
+</script>
+
+<!-- Function to open a popup for Track a Package height = 300-->
+<script language="JavaScript">
+function openWindownoresize(url) {
+	popUpWin = window.open(url,"Standard","toolbar=no,screenx=0,screeny=0,top=0,left=0,location=no,directories=0,status=no,menubar=no,scrollbars=yes,resizable=no,width=540,height=300");
+        popUpWin.focus();
+        window.popUpWin.resizeTo(540,300)
+		window.popUpWin.moveTo(0,0)
+	if (navigator.appName == 'Netscape') {
+	popUpWin.focus();
+	}
+}
+
+<!-- Function to open a popup for Send a URL to a friend height = 450-->
+function openWindowSendUrl(url) {
+	url=url + '?referrer=' + document.URL   //Add Referrer here as javascript does not pass referrer automatically
+	popUpWin = window.open(url,"Standard","toolbar=no,screenx=0,screeny=0,top=0,left=0,location=no,directories=0,status=no,menubar=no,scrollbars=yes,resizable=no,width=540,height=450");
+        popUpWin.focus();
+        window.popUpWin.resizeTo(540,540)
+		window.popUpWin.moveTo(0,0)
+	if (navigator.appName == 'Netscape') {
+	popUpWin.focus();
+	}
+}
+
+<!-- Function to open a popup for Post Office Locator height = 530-->
+function openWindowLocator(url) {
+	popUpWin = window.open(url,"Standard","toolbar=no,screenx=0,screeny=0,top=0,left=0,location=no,directories=0,status=no,menubar=no,scrollbars=yes,resizable=no,width=550,height=540");
+        popUpWin.focus();
+        window.popUpWin.resizeTo(550,540)
+		window.popUpWin.moveTo(0,0)
+	if (navigator.appName == 'Netscape') {
+	popUpWin.focus();
+	}
+}
+</script>
+<!-- check if Netscape is being used, if so use style sheet designed for netscape otherwise use other style sheet -->
+<script language="JavaScript">
+<!--
+if(navigator.appName == "Netscape")
+	{
+ 	document.write('<link rel="stylesheet" type="text/css" href="../includes/apg_Nets.css">'); 
+	}
+else
+	{
+ 	document.write('<link rel="stylesheet" type="text/css" href="../includes/apg.css">'); 
+	}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script><link rel="stylesheet" type="text/css" href="../includes/apg_Nets.css">
+
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="Background" onload="MM_preloadImages('../images/general/mast_powerbar_hi.gif')">
+
+<!----------------------------------POWERBAR-------------------------------------->
+
+<a name="top"></a>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td bgcolor="#666666" rowspan="2"><a href="../APG.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image60','','../images/general/mast_powerbar_hi.gif',1)"><img src="../images/general/mast_powerbar.gif" name="Image60" width="97" height="24" border="0" alt="" title="An Post Homepage"></a></td>
+    <td bgcolor="#666666" width="100%">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr>
+          <td height="24">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><img src="../images/general/mast_sitemap_lo.gif" width="20" height="12" border="0" alt=""></td>
+                <td class="BodySml"><a href="../sitemap.html" alt="" title="Sitemap"><span class="Powerbar">Sitemap</span></a>&nbsp;&nbsp;&nbsp;</td>
+                <td><img src="../images/general/spacer.gif" width="1" height="1" border="0" alt=""></td>
+                <td><img src="../images/general/mast_subsidiary_lo.gif" width="21" height="12" border="0" alt=""></td>
+                <td class="BodySml"><a href="subsidiary_support.html" alt="" title="Subsidiary &amp; Support Services"><span class="Powerbar">Subsidiary &amp; Support
+                      Services</span></a>&nbsp;&nbsp;&nbsp;</td>
+                <td><img src="../images/general/spacer.gif" width="1" height="1" border="0" alt=""></td>
+                <td><img src="../images/general/mast_terms_lo.gif" width="15" height="12" border="0"></td>
+                <td class="BodySml"><a href="terms_and_conditions.html" alt="" title="Terms &amp; Conditions"><span class="Powerbar">Terms &amp; Conditions</span></a>&nbsp;&nbsp;&nbsp;</td>
+              </tr>
+            </tbody></table>
+          </td>
+          <td align="right">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <form name="Dropdown" onsubmit="return false"></form>
+                  <td class="Body" id="Grey" alt="" title="Group Site Portal">Group
+                    Site Portal :&nbsp;</td>
+                  <td class="BodySml"><select name="PowerbarDropdown" size="1" class="BodySml">
+                      <option value="#" class="BodySml">Take me to....</option>
+                      <option value="http://www.airbusonline.com/" class="BodySml"> Air
+                      Business</option>
+                      <option value="http://www.billpay.ie" class="BodySml"> BillPay.ie</option>
+                      <option value="http://www.anpost.ie/Saving_with_Cyril/cyril_home.html" class="BodySml"> Cyril
+                      the Squirrel</option>
+                      <option value="http://www.dmworks.ie" class="BodySml"> dm.works</option>
+                      <option value="http://www.geodirectory.ie" class="BodySml"> Geodirectory</option>
+                      <option value="http://www.giftvouchershop.ie/" class="BodySml"> Gift
+                      Voucher Shop</option>
+                      <option value="http://www.irishstamps.ie" class="BodySml"> Irish
+                      Stamps</option>
+                      <option value="http://www.jmcvantrans.ie/" class="BodySml"> JMC
+                      Vans Trans</option>
+                      <option value="http://www.kompass.ie/" class="BodySml"> Kompass</option>
+                      <option value="http://www.letterpost.ie" class="BodySml"> Letterpost</option>
+                      <option value="http://www.lotto.ie" class="BodySml"> National
+                      Lottery</option>
+					  <option value="http://www.onedirect.ie" class="BodySml"> One
+                      Direct</option>
+                      <option value="http://www.pci.ie" class="BodySml"> PCI
+                      eCommerce Solutions</option>
+                      <option value="http://www.pmi.ie/" class="BodySml"> PMI</option>
+                      <option value="http://www.post.trust.ie" class="BodySml"> Post.Trust</option>
+                      <option value="http://www.postts.ie" class="BodySml"> PostTS</option>
+                      <option value="http://www.printpost.ie" class="BodySml"> PrintPost</option>
+                      <option value="http://www.prizebonds.ie" class="BodySml"> Prizebonds</option>
+                      <option value="http://www.sds.ie" class="BodySml"> SDS</option>
+                      <option value="http://www.wheelscouriers.ie/" class="BodySml"> Wheels
+                      Couriers</option>
+                      <option value="http://www.wizard.ie" class="BodySml"> Wizard
+                      Direct</option>
+                    </select>
+                  </td>
+                  <td><input name="image2" type="image" title="Go" onclick="formHandlerNewpage(Dropdown)" src="../images/general/mast_go.gif" alt="" align="middle" width="32" height="16" border="0">
+                  </td>
+                  <td><img src="../images/general/spacer.gif" width="6" height="1" border="0" alt=""></td>
+                
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#666666"><img src="../images/general/spacer.gif" width="680" height="1" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td bgcolor="#333333" colspan="2"><img src="../images/general/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td bgcolor="white" colspan="2"><img src="../images/general/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+</tbody></table>
+<!----------------------------------END POWERBAR-------------------------------------->
+<!----------------------------------GLOBLALMAST-------------------------------------->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td bgcolor="#EFEFEF">
+      <table border="0" cellpadding="0" cellspacing="0" width="760" align="center">
+        <tbody><tr>
+          <td width="504">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td colspan="4"><a href="../apg.asp"><img src="../images/general/glblmast_an_post_group.gif" width="379" height="39" border="0" alt="" title="An Post  Online Services Portal"></a></td>
+              </tr>
+              <tr>
+                <td colspan="4"><img src="../images/general/spacer.gif" width="1" height="17" border="0" alt=""></td>
+              </tr>
+              <tr>
+                <td><a href="../personal_homepage.asp"><img src="../images/general/glblmast_personal.gif" width="93" height="19" border="0" alt="" title="Personal"></a></td>
+                <td><a href="../business_homepage.asp"><img src="../images/general/glblmast_business.gif" width="94" height="19" border="0" alt="" title="Business"></a></td>
+                <td><a href="../corporate_homepage.asp"><img src="../images/general/glblmast_corporate.gif" width="94" height="19" border="0" alt="" title="Corporate"></a></td>
+                <td><a href="../apg.asp"><img src="../images/general/glblmast_home.gif" width="98" height="19" border="0" alt="" title="Home"></a></td>
+              </tr>
+            </tbody></table>
+          </td>
+          <td width="256">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td colspan="3" align="right">
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                      <td class="BodySml">• <a href="javascript:openWindownoresize('../common/track_package.html')" alt="" title="Track a Package"><span class="Mastlinks">Track
+                            a Package</span></a><br>
+• <a href="javascript:openWindowSendUrl('../common/send_url_to_friend.asp')" alt="" title="Send URL to a friend"><span class="Mastlinks">Send
+URL to a friend</span></a><br>
+• <a href="feedback_form.asp" alt="" title="Site Feedback"><span class="Mastlinks">Site
+Feedback</span></a></td>
+                      <td><img src="../images/general/spacer.gif" width="16" height="50" border="0" alt=""></td>
+                      <td class="BodySml">• <a href="javascript:openWindowLocator('../common/post_office_locator.html')" alt="" title="Post Office Locator"><span class="Mastlinks">Post
+                            Office Locator</span></a><br>
+• <a href="jobs/index.asp" alt="" title="Job Applications"><span class="Mastlinks">Job
+Applications</span></a><br>
+• <a href="ecards/ecards_home.asp" alt="" title="An Post E-Cards"><span class="Mastlinks">An
+Post E-Cards</span></a><br>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+              <tr>
+                <td rowspan="3" align="right"><img src="../images/general/glblmast_search_lft.gif" width="4" height="25" border="0" alt=""></td>
+                <td bgcolor="#CCCCCC"><img src="../images/general/spacer.gif" width="246" height="1" border="0" alt=""></td>
+                <td rowspan="3"><img src="../images/general/glblmast_search_rght.gif" width="6" height="25" border="0" alt=""></td>
+              </tr>
+              <tr>
+                <td bgcolor="#999999"><img src="../images/general/spacer.gif" width="246" height="1" border="0" alt=""></td>
+              </tr>
+              <tr>
+                <td align="right">
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                      <td class="Body" id="H2Green" alt="" title="Search">SEARCH&nbsp;</td>
+                      <form name="seek" method="GET" action="http://www.anpostsearch.ie:8765/query.html"></form>
+                        <td><input type="TEXT" name="qt" length="25" maxlength="2047" class="Body">
+                        </td>
+                      
+                      <td class="Body"><input type="image" name="image" src="../images/general/go.gif" onclick="seek.submit()" alt="" title="Go"></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#999999" colspan="2"><img src="../images/general/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+</tbody></table>
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="760">
+	<tbody><tr>
+		
+      <td><img src="../images/general/spacer.gif" width="1" height="3" border="0" alt=""></td>
+	</tr>
+	<tr>
+		<td class="BodySml" width="50%" id="AdBlockWhite">&nbsp;<script language="JavaScript" src="../includes/Date.js">
+</script>Wednesday -  19 February - 2020</td>
+		
+      <td class="BodySml" width="50%" align="right" id="AdBlockWhite"><img src="../images/general/icon_extrenal_link.gif" width="18" height="12" hspace="2" border="0" alt="" align="absbottom">All 
+        external sites will open in a new browser window</td>
+	</tr>
+	<tr>
+		
+      <td><img src="../images/general/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+</center>
+<!----------------------------------END GLOBLALMAST-------------------------------------->
+
+<!-----------------------------------PERSONAL MAST--------------------------------------->
+
+
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="760">
+  <tbody><tr>
+    <td><img src="../images/general/general.jpg" width="151" height="78" border="0" alt="" vspace="1"></td>
+    <td width="100%" align="right" valign="bottom">
+      <table border="0" cellpadding="2" cellspacing="0" bgcolor="white" width="80%">
+        <tbody><tr>
+          <td class="BodySml" align="right"><img src="../images/general/arr_main_nav.gif" width="9" height="7" border="0" alt=""><a href="ecards/ecards_home.asp">For
+              a Quick, Easy Way to Stay in Touch Try Our Fun Free E-Cards</a></td>
+        </tr>
+        <tr>
+          <td><img src="../images/general/spacer.gif" width="1" height="20" border="0" alt=""></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<center>
+    <table border="0" cellpadding="0" cellspacing="0" width="760">
+      <tbody><tr>
+        <td><a href="../apg.asp"><img src="../images/general/general_button.gif" width="121" height="27" border="0" alt="" title="General"></a></td>
+        <td><img src="../images/general/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        <td width="100%" id="Service">
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+              <td class="BodyLrg" id="Service">&nbsp;<!-- InstanceBeginEditable name="Service" -->Privacy
+              Statement<!-- InstanceEndEditable --></td>
+            </tr>
+          </tbody></table>
+        </td>
+        <td valign="top" align="right" id="Service"><img src="../images/general/common_corner.gif" width="6" height="6" border="0" alt=""></td>
+      </tr>
+      <tr>
+        <td colspan="3"><img src="../images/general/spacer.gif" width="1" height="20" border="0" alt=""></td>
+      </tr>
+    </tbody></table>
+</center>
+<!-----------------------------------END PERSONAL MAST--------------------------------------->
+
+<!-----------------------------------PERSONAL MAIN--------------------------------------->
+<center>
+  <table border="0" cellpadding="0" cellspacing="0" width="760">
+    <tbody><tr>
+      <td width="564"><img src="../images/general/spacer.gif" width="1" height="1" border="0" alt=""></td>
+      <td width="6" rowspan="3"></td>
+      <td width="1" rowspan="3" bgcolor="#1B9531"><img src="../images/general/spacer.gif" width="1" height="1" border="0" alt=""></td>
+      <td width="4" rowspan="3"><img src="../images/general/spacer.gif" width="4" height="1" border="0" alt=""></td>
+      <td width="184" rowspan="3" valign="top">
+        <table border="0" cellpadding="1" cellspacing="0" width="100%">
+          <tbody><tr>
+            <td bgcolor="#1B9531">
+              <table border="0" cellpadding="4" cellspacing="0" width="100%" bgcolor="white">
+                <tbody><tr>
+                  <td class="BodySml2"><span id="H2Green">See also...</span></td>
+                </tr>
+                <tr>
+                  <td>
+                    <table border="0" cellpadding="0" cellspacing="0">
+                      
+                      <tbody><tr>
+                        <td><img src="../images/general/common_square_bullet.gif" width="17" height="7" border="0" alt=""></td>
+                        <td class="BodySml"><a href="subsidiary_support.html">Subsidiary &amp; Support
+                            Services</a></td>
+                      </tr>
+                      <tr>
+                        <td><img src="../images/general/common_square_bullet.gif" width="17" height="7" border="0" alt=""></td>
+                        <td class="BodySml"><a href="feedback_form.asp">Site Feedback Form</a></td>
+                      </tr>
+                      <tr>
+                        <td><img src="../images/general/common_square_bullet.gif" width="17" height="7" border="0" alt=""></td>
+                        <td class="BodySml"><a href="advertise.html">How to Advertise</a></td>
+                      </tr>
+                     
+                    </tbody></table>
+                </td></tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+        </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <table border="0" cellpadding="0" cellspacing="0" width="564">
+          <tbody><tr>
+            <td>
+              <!-------------------------------------CUSTOM TITLE TABLE----------------------------->
+              <table border="0" cellpadding="0" cellspacing="0" width="564">
+                <tbody><tr>
+                  <td class="BodyLrg" id="H2Green"><!-- InstanceBeginEditable name="heading" -->We
+                    respect your privacy<!-- InstanceEndEditable --></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#1B9531"><img src="../images/general/spacer.gif" width="1" height="4" border="0" alt=""></td>
+                </tr>
+                <tr>
+                  <td><img src="../images/general/spacer.gif" width="1" height="6" border="0" alt=""></td>
+                </tr>
+              </tbody></table>
+              <!-------------------------------------END CUSTOM TITLE TABLE----------------------------->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <!-------------------------------------START CUSTOM CONTENT----------------------------->
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td width="564" valign="top"><!-- InstanceBeginEditable name="content" -->
+            <table border="0" cellpadding="0" cellspacing="0">
+							
+                        <tbody><tr> 
+                          <td class="Body" width="564" valign="top"><p>At An Post 
+                              we respect the rights of all users and do not collect 
+                              personal information of any kind. Where a user voluntarily 
+                              provides personal information, ie: through a contact 
+                              form and/ or career application, the data will be 
+                              used in accordance with its respective purpose or 
+                              for internal research or analysis purposes.</p>
+                            <p>For general web browsing no personal information 
+                              is revealed to us, although statistical information 
+                              is available to us via our Internet service provider. 
+                              This information includes: 
+                            </p><ul>
+                              <li>The logical address of the server you are using. 
+                              </li><li>The top level domain name from which you access 
+                                the Internet e.g. .ie, .com, etc.). 
+                              </li><li>The type of browser, screen resolution and colour 
+                                (bit) depth you are using. 
+                              </li><li>The date and time you access our site. 
+                              </li><li>The Internet address used to link to our site.
+                            </li></ul>
+                            Some of the above information is used to create summary 
+                            statistics which allow us to assess the number of 
+                            visitors to our site, identify what pages are accessed 
+                            most frequently and generally, help us to increase 
+                            the usability and accessibility of our site. 
+                            <p>Any personal information which you volunteer to 
+                              the An Post site will be treated with the highest 
+                              standards of security and confidentiality, strictly 
+                              in accordance with the <a href="http://www.dataprivacy.ie/6ai.htm" target="_blank">Data 
+                              Protection Act, 1988.</a> Any information which 
+                              you provide in this way will not be made available 
+                              to any third parties.<br>
+                              <br>
+                              <strong>Privacy statement: Website of An Post</strong><br>
+                              <br>
+                              This statement relates to our privacy practices 
+                              in connection with this website. We are not responsible 
+                              for the content or privacy practices of other websites. 
+                              Any external links to other websites are clearly 
+                              identifiable as such. Some technical terms used 
+                              in this statement are explained at the end of this 
+                              page.<br>
+                              <br>
+                              <strong>General statement</strong><br>
+                              <br>
+                              An Post fully respects your right to privacy, and 
+                              will not collect any personal information about 
+                              you on this website without your clear permission. 
+                              Any personal information which you volunteer to 
+                              An Post will be treated with the highest standards 
+                              of security and confidentiality, strictly in accordance 
+                              with the <a href="http://www.dataprivacy.ie/6ai.htm">Data 
+                              Protection Act, 1988</a>.<br>
+                              <br>
+                              <strong>Collection and use of personal information</strong><br>
+                              <br>
+                              An Post does not collect any personal data about 
+                              you on this website, apart from information which 
+                              you volunteer (for example by e-mailing us or by 
+                              using our online feedback form). Any information 
+                              which you provide in this way is not made available 
+                              to any third parties, and is used by An Post 
+                              only in line with the purpose for which you provided 
+                              it.<br>
+                              <br>
+                              <strong>Collection and use of technical information</strong><br>
+                              <br>
+                              Technical details in connection with visits to this 
+                              website are logged by our internet service provider 
+                              for our statistical purposes. No information is 
+                              collected that could be used by us to identify website 
+                              visitors. The technical details logged are confined 
+                              to the following items:</p>
+                            <ul>
+                              <li>the IP address of the visitor’s web server</li>
+                              <li> the top-level domain name used (for example 
+                                .ie, .com, .org, .net)</li>
+                              <li> the previous website address from which the 
+                                visitor reached us, including any search terms 
+                                used</li>
+                              <li> clickstream data which shows the traffic of 
+                                visitors around this web site (for example pages 
+                                accessed and documents downloaded)</li>
+                              <li> the type of web browser used by the website 
+                                visitor.</li>
+								</ul><p></p>
+                            An Post will make no attempt to identify individual 
+                            visitors, or to associate the technical details listed 
+                            above with any individual. It is the policy of An 
+                            Post never to disclose such technical information 
+                            in respect of individual website visitors to any third 
+                            party (apart from our internet service provider, which 
+                            records such data on our behalf and which is bound 
+                            by confidentiality provisions in this regard), unless 
+                            obliged to disclose such information by a rule of 
+                            law. The technical information will be used only by 
+                            An Post, and only for statistical and other administrative 
+                            purposes. You should note that technical details, 
+                            which we cannot associate with any identifiable individual, 
+                            do not constitute "personal data" for the 
+                            purposes of the <a href="http://www.dataprivacy.ie/6ai.htm">Data 
+                            Protection Act, 1988</a>.<br>
+                            <br>
+                            <strong>Glossary of technical terms used</strong><br>
+                            <br>
+                            web browser<br>
+                                The piece of software you use to read web pages. 
+                                Examples are Microsoft Internet Explorer, Netscape 
+                                Navigator and Opera.<br>
+                            <br>
+                            IP address<br>
+                                The identifying details for your computer (or 
+                                your internet company’s computer), expressed 
+                                in "internet protocol" code (for example 
+                                192.168.72.34). Every computer connected to the 
+                                web has a unique IP address, although the address 
+                                may not be the same every time a connection is 
+                                made.<br>
+                          </td>
+								
+							</tr>
+						</tbody></table>
+                  <!-- InstanceEndEditable --></td>
+                </tr>
+              </tbody></table>
+              <!-------------------------------------END CUSTOM CONTENT----------------------------->
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+</center>
+    
+    <table width="564" border="0" cellspacing="0" cellpadding="1">
+      <tbody><tr> 
+        <td> <table width="564" border="0" cellspacing="0" cellpadding="1">
+            <tbody><tr> 
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+          </tbody></table></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </tbody></table>
+     
+      <table width="100%" border="0" cellpadding="0">
+          <tbody><tr> 
+            <td valign="top"></td>
+          </tr>
+        </tbody></table>
+    
+     
+      
+    
+  
+
+  <!-----------------------------------END PERSONAL MAIN--------------------------------------->
+  <!----------------------------------FOOTER-------------------------------------->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		
+      <td><img src="../images/general/spacer.gif" width="1" height="20" border="0" alt=""></td>
+	</tr>
+	<tr>
+		
+      <td bgcolor="#CDD3DA"><img src="../images/general/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+	
+	<tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="5" width="760" align="center">
+				<tbody><tr>
+                  <td class="BodySml" id="AdBlockWhite"><img src="../images/general/icon_homepage.gif" width="13" height="12" border="0" alt="" hspace="4" vspace="1" align="absbottom"><a href="javascript:openWindowLocator('../common/make_this_my_homepage.htm')" alt="" title="make this my homepage">Make
+                      An Post Portal My Homepage</a></td>
+                  <td class="BodySml" align="right" id="AdBlockWhite">Best viewed
+                    using IE 5+ or Netscape 7+ at a resolution of 1024x768 or
+                    800x600 </td>
+			  </tr>
+			</tbody></table></td>
+	</tr>
+	<tr>
+		
+      <td bgcolor="#CDD3DA"><img src="../images/general/spacer.gif" width="1" height="3" border="0" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="5" width="760" align="center">
+				<tbody><tr>
+				  <td class="BodySml" width="50%" id="AdBlockWhite">© 2003 An Post. All Rights Reserved. <a href="advertise.html">How to advertise</a><br>
+              Read our<a href="privacy.html"> privacy statement</a> - <a href="disclaimer.html">copyright
+              notice &amp; legal disclaimer</a><br>
+              <a href="http://www.pci.ie" target="_blank">Design &amp; Implementation
+              by PCI eCommerce Solutions</a></td>
+					
+                  <td class="BodySml" width="50%" align="right" valign="top"><a href="../personal_homepage.asp">PERSONAL</a> 
+              | <a href="../business_homepage.asp">BUSINESS</a> | <a href="../corporate_homepage.asp">CORPORATE</a> 
+              | <a href="../apg.asp">HOME</a></td>
+					
+				</tr>
+			</tbody></table></td>
+	</tr>
+	
+
+</tbody></table>
+
+
+<!----------------------------------END FOOTER-------------------------------------->
+
+</center>
+<!-- InstanceEnd -->
+</body></html>
