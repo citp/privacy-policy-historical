@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet-source-code.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605213918id_/http%3A//planet-source-code.com/xq/ASP/lngWId.-1/qx/vb/scripts/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-source-code.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205061432id_/http%3A//planet-source-code.com/xq/ASP/lngWId.-1/qx/vb/scripts/privacy.htm) for the most accurate reproduction.*
 
 # visual basic, vb, active server pages (ASP),java, javscript,c, c++, c__ , vbscript,active server pages, ASP, vbscript,SQL, database, informix, oracle, SQL Server,Perl, CGI,Delphi, PHP,Free source code for the taking. Over a million lines of programs.
 
@@ -16,7 +16,7 @@ Planet Source Code uses cookies to improve your Web browsing experience. When yo
 
 _**Email addresses and Demographic Information given to Planet Source Code**_
 
-Users who sign up for and use advanced features of Planet Source Code, such as code submission, voting, Code of the Day, and submitting feedback will be asked for additional information including email address and possibly demographic information. BECAUSE WE PROTECT OUR USERS FROM SPAMMERS, Planet Source Code DOES NOT SELL THIS INFORMATION TO EXTERNAL COMPANIES. Email addresses are used purely to verify the user's true identity and prevent fraud, while demographic information is used purely for the purpose of targeting ads and measuring their effectiveness on behalf of Planet Source Code clients and customers. 
+Users who sign up for and use advanced features of Planet Source Code, such as code submission, voting, Code of the Day, and submitting feedback will be asked for additional information including email address and possibly demographic information. We will not market this information to other companies unless you give us permission to do so. Email addresses are used to verify the user's true identity and prevent fraud, while demographic information is used for the purpose of targeting ads and measuring their effectiveness on behalf of Planet Source Code clients and customers. 
 
 _**3rd Party Measurement Services **_   
 Planet Source Code works with several third parties that serve ads to this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.
