@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411080229id_/http%3A//www.topcoder.com/%3F%26t%3D%26c%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806180741id_/http%3A//www.topcoder.com/%3F%26t%3Dabout_tc%26c%3Dprivacy) for the most accurate reproduction.*
 
-# TopCoder :: Privacy Policy
+# Privacy Policy of TopCoder
 
-[Register](https://web.archive.org/reg/index.jsp)
+Because we value privacy as much as we value programmers, TopCoder is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use reasonable commercial efforts to ensure that the information you submit to us remains private. Your personal information is immediately transferred from our web server to behind our firewall, where it remains isolated from a direct connection to the Internet.
 
-Because we value privacy as much as we value programmers, TopCoder is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use reasonable commercial efforts to ensure that the information you submit to us remains private. Your personal information is immediately transferred from our web server to behind our firewall, where it remains isolated from a direct connection to the Internet. 
+Our security and Privacy Commitment are periodically reviewed and enhanced as necessary. However, you should understand that "perfect security" does not exist on the Internet. The information that you submit to us is used only for the purposes as set forth herein, as required by law, or when we believe in good faith that disclosure is legally required to protect our rights. We will not use your personal information for any other purpose other than as set out here without first obtaining your permission. The following reflects our commitment to you.
 
-Our security and Privacy Commitment are periodically reviewed and enhanced as necessary. However, you should understand that "perfect security" does not exist on the Internet. The information that you submit to us is used only for the purposes as set forth herein, as required by law, or when we believe in good faith that disclosure is legally required to protect our rights. We will not use your personal information for any other purpose other than as set out here without first obtaining your permission. The following reflects our commitment to you. 
-
-**Information About All TopCoder Visitors**  
+ **Information About All TopCoder Visitors**  
 We gather information about all of our users collectively, including (a) what area users visit most frequently, (b) their Internet domain and their computer's IP address, (c) the type of browser and operating system they use and (d) if the user linked to our Web site from another Web site, the address of that other Web site. This information does not in any way personally identify a user; we only use this data anonymously and in the aggregate. We use this information to analyze trends and statistics to help us improve our services, plan site enhancements and measure overall site effectiveness. From time to time we may reveal general, anonymous, aggregated statistical information about our site, services and users, such as the number of visits and users and what site features they use. 
 
 **Information About You Specifically**  
