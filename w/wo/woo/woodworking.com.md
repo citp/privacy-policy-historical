@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodworking.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204123526id_/http%3A//www.woodworking.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworking.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203022407id_/http%3A//www.woodworking.com/privacy.cfm) for the most accurate reproduction.*
 
 # Woodworking.com - Privacy Policy
 
