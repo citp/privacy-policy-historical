@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2003-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030815194442id_/http%3A//www.clickxchange.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623052338id_/http%3A//clickxchange.com/privacy.phtml) for the most accurate reproduction.*
 
 # Create or join an affiliate program with clickXchange.com
 
@@ -44,7 +44,7 @@ SHOPPING CART ONLY- Contact Name, Address, Email, Website Information and Credit
 
 ADVERTISER and SHOPPING CART- Contact Name, Address, Email, Website Information, Credit Card Information. The customer's contact information is used to contact the clickXchange member when necessary. 
 
-Financial information that is collected is used to bill the user for services. Unique identifiers (such as social security numbers) are collected to verify the user's identity for tax purposes. All credit card information and Affiliate Social Security or EIN numbers are collected online via a secure and encrypted browser. 
+Financial information that is collected is used to bill the user for services. Unique identifiers (such as social security numbers) are collected to verify the user's identity for tax purposes. All credit card information and Affiliate Social Security or EIN numbers are collected online via a secure and encrypted browser. Paypal is utilized to process deposits and withdraws. Email address and contact name is collected and shared for this purpose, yet the company does not retain share, store or use the information for any secondary purposes. 
 
 This site contains links to other sites. clickXchange.com is not responsible for the privacy practices or the content of such Web sites.   
   
@@ -56,9 +56,9 @@ This site has security measures in place to protect the loss, misuse and alterat
   
 Choice/Opt-Out
 
-Due to the monetary nature of our site, clickXchange.com reserves the right to contact users as needed. Any contact from clickXchange.com to it's members is strictly business related as we do not solicit our members. At any future date we should initiate a company newsletter, we will provide members an Opt-Out option and announce the new service via the clickXchange.com member area. 
+Due to the monetary nature of our site, clickXchange.com reserves the right to contact users as needed. Any contact from clickXchange.com to it's members is strictly business related as we do not solicit our members. At any future date should we initiate a company newsletter, we will provide members an Opt-Out option via newsletter and announce the new service via the clickXchange.com member area. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+This site gives users the following options for removing their information from our database to not receive future newsletter communications or to no longer receive our service. 
 
   1. You can send email to [admin@clickXchange.com](mailto:admin@clickxchange.com)
 
@@ -77,7 +77,7 @@ The above link brings the member to the member log in form. Each member is requi
   
 Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes on our home page so that you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.   
+If we decide to make a material change to our privacy policy, we will post a notice on our home page so that you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.   
   
   
 Contacting the Web Site
