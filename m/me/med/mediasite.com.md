@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609010640id_/http%3A//www.mediasite.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206015333id_/http%3A//www.mediasite.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Sonic Foundry, Inc. Privacy Statement
 
