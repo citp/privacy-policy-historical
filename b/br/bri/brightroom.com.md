@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightroom.com privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210132200id_/http%3A//www.brightroom.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightroom.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405071541id_/http%3A//www.brightroom.com/privacy.asp) for the most accurate reproduction.*
 
 # brightroom - professional event photography
 
