@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the iabuk.net privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207121436id_/http%3A//www.iabuk.net/index.php3%3Fview%3D78) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iabuk.net privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206003836id_/http%3A//www.iabuk.net/index.php%3Fview%3D78) for the most accurate reproduction.*
 
-# IAB Internet Advertising Bureau / UK and Ireland
+# IAB Interactive Advertising Bureau UK
 
-OC Blank HStyle **
+powered by  
+[](http://worthmedia.net/)
+
+© 1997-2003 Interactive Advertising Bureau UK Ltd. All Rights Reserved.
+
+| 
+
+Privacy Policy of the Interactive Advertising Bureau (UK and Ireland) Ltd
+
+OC Blank HStyle
+
+**
 
 Privacy protection
 
@@ -139,3 +150,5 @@ IAB
 PO Box 26726  
 London SW2 4AN  
 Email: [angela.mills@europe-analytica.com](mailto:angela.mills@europe-analytica.com)
+
+| 
