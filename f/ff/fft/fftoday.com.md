@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fftoday.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212041100id_/http%3A//fftoday.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fftoday.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411153903id_/http%3A//fftoday.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy - FF Today
 
@@ -9,7 +9,9 @@ FF Today makes use of a technology called "cookies" which stores small pieces of
 
 Registration at the [FF Today Forums](http://www.fftodayforums.com/) requires a valid e-mail address. This address is used only to send you your password, and to subscribe to our 100% opt-in mailing list, if you enable that option. Cookies are used in the forum solely for the purpose of letting viewers know about new posts since their last visit, and storing their forum password if they enable that option.
 
-Our Web site uses a reputable third party to serve the advertisements that you see on the pages of our Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please go to <http://www.sonarnetwork.com/content/privacy.htm>.
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here ([www.sonar.com/naiprivacy](http://www.sonar.com/naiprivacy)).
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
 Our servers log URLs and times of access to each page of our site, the referring URL and the IP address or hostname of the computer making the request. We use this information only to monitor the volume of traffic to the site, except in cases where we suspect a user is abusing the site's resources. In such cases, we will attempt to identify the ISP of the user and let the provider know about the abuse.
 
