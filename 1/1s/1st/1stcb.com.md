@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stcb.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622125306id_/http%3A//www.1stcb.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stcb.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812034744id_/http%3A//1stcb.com/general/privacy.php) for the most accurate reproduction.*
 
 # First Convenience Bank
 
