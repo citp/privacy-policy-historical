@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dictionary.com privacy policy that was archived on 2001-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217223616id_/http%3A//dictionary.com/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dictionary.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605041943id_/http%3A//dictionary.com/help/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -11,8 +11,8 @@
 <script language="JavaScript">
 <!--
 function jump2form() {
-	document.dict_form.term.select();
-	document.dict_form.term.focus();
+	document.dict_form.q.select();
+	document.dict_form.q.focus();
 }
 
 function isblank(s)
@@ -26,7 +26,7 @@ function isblank(s)
 
 function formcheck() {
 	var d = document.dict_form.db[1].checked;
-	var e = document.dict_form.term.value;
+	var e = document.dict_form.q.value;
 	if ((e == null) || (e == "") || isblank(e)) {
 		alert("Please enter a word to look up.");
 		jump2form();
@@ -35,7 +35,7 @@ function formcheck() {
 		location.href = ("http://www.thesaurus.com/cgi-bin/search?config=roget&words=" + escape(e));
 	}
 	else {
-		location.href= ("http://www.dictionary.com/cgi-bin/dict.pl?term=" + escape(e));
+		location.href= ("http://www.dictionary.com/search?q=" + escape(e));
 	}
 	return false;
 }
@@ -44,17 +44,62 @@ function formcheck() {
 </script>
 
 
-<link rel="stylesheet" type="text/css" href="/dict-main.css">
+<style type="text/css">
+
+	A:link	{color: #0033FF;}
+	A:visited	{color: #000099;}
+	A:hover	{color: #3366FF;}
+	BODY	{color: black; margin-top: 5px; margin-left: 5px; margin-right: 5px; margin-bottom: 5px;}
+	TD	{color: black; margin-top: 0px; margin-left: 0px; margin-right: 0px;}
+	H1, H2, H3, H4, H5, H6	{font-family: arial, helvetica, sans-serif;}
+	H1 {font-size: 160%;}
+	H2 {font-size: 140%;}
+	H3 {font-size: 120%;}
+	H4 {font-size: 100%;}
+	H5 {font-size: 90%;}
+	H6 {font-size: 80%;}
+	ul {margin-top: 0em; list-style-type: square;}
+	ol {margin-top: 0em;}
+	.dictform {font-weight:bold; font-size:11pt; font-family: arial, helvetica, sans-serif;}
+	
+/* Begin link classes */
+
+	/* navbar elements */
+a.nav:link	{color: #0033FF;
+			font-family: arial, helvetica, sans-serif;
+			font-weight: 900;}
+a.nav:visited	{color: #000099;
+			font-family: arial, helvetica, sans-serif;
+			font-weight: 900;}
+a.nav:hover	{text-decoration: underline;
+			color: #3366FF;
+			font-family: arial, helvetica, sans-serif;
+			font-weight: 900;}
+			
+	/* head elements*/			
+a.head:link {font-family: arial, helvetica, sans-serif;
+			color:#0033FF;
+			font-weight: 700;}
+a.head:visited	{color: #000099;
+			font-family: arial, helvetica, sans-serif;
+			font-weight: 700;}
+a.head:hover	{color: #3366FF;
+			font-family: arial, helvetica, sans-serif;
+			font-weight: 700;}
+			
+/* End link classes */
+			
+</style> 
 
 </head>
 <body bgcolor="#FFFFFF" text="#000000" link="#0033FF" vlink="#000066" alink="#3366FF">
 
 <!-- Header -->
-<form name="dict_form" method="GET" action="/cgi-bin/dict.pl" onsubmit="return formcheck();">
+<form name="dict_form" method="GET" action="/search" onsubmit="return formcheck();">
 <table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="#0033ff">
 <tbody><tr><td align="LEFT" valign="MIDDLE" rowspan="2"><a href="/"><img src="http://cache.dictionary.com/dictionary/graphics/logo145x42.gif" alt="Dictionary.com" border="0" width="145" height="42"></a></td>
 <td align="LEFT" valign="TOP">&nbsp;<font color="#ffffff" face="Arial,Helvetica,sans-serif"><strong>Look up:</strong></font>&nbsp;
-<input type="text" name="term" size="17" maxlength="48" value="" style="font-size:11pt;">&nbsp;
+<input type="text" name="q" size="17" maxlength="48" value="" style="font-size:11pt;">&nbsp;
 <input type="submit" value="OK" style="font-weight:bold; font-size:11pt; font-family: arial, helvetica, sans-serif;">
 &nbsp;</td>
 </tr>
@@ -69,13 +114,27 @@ function formcheck() {
 <!-- Advert -->
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tbody><tr><td align="CENTER" valign="MIDDLE">
-<iframe src="http://ad.doubleclick.net/adi/lexico.l90/;sz=468x60;ord=100862858739438300?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/lexico.l90/;abr=!ie;sz=468x60;ord=100862858739438300?">
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://ad.doubleclick.net/jump/lexico.l90/;abr=!ie;sz=468x60;ord=100862858739438300?"><IMG SRC="http://ad.doubleclick.net/ad/lexico.l90/;abr=!ie;sz=468x60;ord=100862858739438300?" border=0 height="60" width="468"></A>
-</NOSCRIPT>
+<script language="Javascript"><!-- 
+var a=b=c=d=e=h=i=j=l=n=p=s=t=u=v=w=x=y=z=dc='';
+var id=o=k=f=0;  var jar=new Date(); var f=jar.getSeconds() * jar.getMinutes();
+dc=document;  n=navigator;  v=parseFloat(n.appVersion);  e=escape(dc.referrer);
+dc.cookie='mc=y'; j=(n.javaEnabled()? 'Y':'N'); c=(dc.cookie.length>0?'Y':'N');
+if(v>=4){x=screen; } if(n.appName.indexOf('Mic')>=0) {o=1; } if(v>=4){ id=4366;
+if(o==1){s=x.colorDepth}w=x.width;h=x.height;}x='|';p=w+x+h+x+s+'||||'+j+x+c+x;
+u='ht'+'tp://media.fastclick.net/w'; c=' alt="Click"></a>'; x='/get.media?t=s';
+l=' width=468 height=60 border=0 ';t=l+'marginheight=0 marginwidth=';b='&sid=';
+i=u+x+b+id+'&m=1&f=a&v=1.2&c='+f+'&j='+p+'&r='+e;d='ameborder=0 scrolling=no>';
+u = '<a  hr'+'ef="'+u+'/cli'+'ck.here?sid='+id+'&m=1&c='+f+'"  target="_top">';
+dc.writeln('<ifr'+'ame src="'+i+'&d=f"'+t+'0 hspace=0 vspace=0 fr'+d);if(o!=1){
+dc.writeln(u+'<i'+'mg sr'+'c="'+i+'&d=n"'+l+c);}dc.writeln('</iframe>'); // -->
+</script><iframe src="http://media.fastclick.net/w/get.media?t=s&amp;sid=4366&amp;m=1&amp;f=a&amp;v=1.2&amp;c=1260&amp;j=800|600|||||N|Y|&amp;r=&amp;d=f" width="468" height="60" border="0" marginheight="0" marginwidth="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
+<a  href="http://media.fastclick.net/w/click.here?sid=4366&m=1&c=1260"  target="_top"><img src="http://media.fastclick.net/w/get.media?t=s&sid=4366&m=1&f=a&v=1.2&c=1260&j=800|600|||||N|Y|&r=&d=n" width=468 height=60 border=0  alt="Click"></a>
 </iframe>
+<noscript><a 
+href="http://media.fastclick.net/w/click.here?sid=4366&m=1&c=1"  target="_top">
+<img src="http://media.fastclick.net/w/get.media?sid=4366&m=1&d=s&c=1&f=a&v=1.2
+" width=468 height=60 border=1></a>
+</noscript>
 <br><font color="#666666" size="-2">ADVERTISEMENT</font>
 </td></tr></tbody></table>
 <br>
@@ -163,15 +222,18 @@ Marina del Rey, CA 90292<br>
 <!-- Footer -->
 <table border="0" cellspacing="0" cellpadding="2" bgcolor="#ffffcc" width="100%">
 <tbody><tr><td valign="TOP">
-<font face="Arial,Helvetica,sans-serif" size="-2">Copyright © 2001, <a href="http://www.lexico.com/">Lexico LLC</a>.
+<font face="Arial,Helvetica,sans-serif" size="-2">Copyright © 2002, <a href="http://www.lexico.com/">Lexico LLC</a>.
 All rights reserved.<br>
 <a href="http://www.lexico.com/contact/index.html">Contacts</a> | 
 <a href="/help/privacy.html">Privacy Statement</a> | 
 <a href="/help/terms.html">Terms of Use</a> | 
 <a href="/help/">Help</a></font>
 </td></tr></tbody></table>
+
 <script language="JavaScript" src="http://ads.x10.com/720x300/Z2xleGljb1BVMS5kYXQ/1/LEX-ROS">
 </script>
+
+
 
 
 
