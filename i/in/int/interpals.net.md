@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpals.net privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408102105id_/http%3A//interpals.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpals.net privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210061102id_/http%3A//interpals.net/privacy.php) for the most accurate reproduction.*
 
 # Interpals Penpal Net - Privacy Policy
 
