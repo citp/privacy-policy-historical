@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the websitewizard.com privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015032909id_/http%3A//www.websitewizard.com/x.pro/ModStatic/DisplayStatic/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitewizard.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406023924id_/http%3A//www.websitewizard.com/privacypolicy.html) for the most accurate reproduction.*
 
-# ► Online Website Builder : WebsiteWizard : Privacy Policy
+# Online Website Builder - Privacy Policy
 
-Privacy Policy 
+##  Privacy Policy 
 
 Implix realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This notice describes our Privacy Policy. By visiting our website you are accepting and consenting to the practices described in this Privacy Policy. 
 
@@ -18,9 +18,9 @@ Implix guarantees to use and process your private information within the scope a
 
 Implix uses commercially reasonable precautions to keep all disclosed personal information secure. Information collected through tracking and registration will not be shared or sold to third parties for any purpose without your express consent, except as provided in this Privacy Policy, or in a contract between Implix and individual customers. 
 
-When you visit our website, we receive may collect two types of information: (1) Site Use Information and Cookies, and (2) personal information you knowingly choose to disclose which is collected on individual bases. 
+When you visit our website, we receive may collect two types of information: (1) Site Use Information and Cookies, and (2) personal information you knowingly choose to disclose which is collected on individual basic. 
 
-Site Use Information 
+###  Site Use Information 
 
 Our servers automatically collect site use information, each time you visit our site. 
 
@@ -34,21 +34,21 @@ In the case of an agreement, personal information includes data that identifies 
 
 Information will be used solely for proceeding payments for services that you ordered. 
 
-Mailing Policy 
+###  Mailing Policy 
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply for any future correspondence. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use. 
 
 When you request information or other services from us, we use your email address and any other information you give us to provide you with the information or other services you requested, until you ask us to stop (using the 'unsubscribe' instructions provided with each email, and/or on the site where you signed up, and/or as we otherwise provide), or until the information or service is no longer available. We will not use your address or other information to provide you with any unsolicited messages or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use. 
 
-Your Customer's Private Information Policy 
+###  Your Customer's Private Information Policy 
 
 Implix recognizes the importance of respecting the privacy of those who decided to entrust their sensitive information with you. We assure to make every effort to safeguard their security. Implix will never use the information about the customers you collect within our services to send any unsolicited messages or information, nor will we share it with or sell it to anyone else for such use. 
 
-Cookies 
+###  Cookies 
 
 Similar to other commercial websites, the technology called "cookies" may be used to provide you with tailored information. A cookie is a small piece of data that a website can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may be able to set your browser to notify you when you receive a cookie. Our cookies collect general information that enhances our ability to serve you and measure the utility of our website. 
 
-Information Security 
+###  Information Security 
 
 We believe that keeping personal information secure is one of our most significant responsibilities. We restrict access to Personal Information about you to those employees and others who need to know that information to assist us in our business, or to provide products or services to you. We safeguard personal information, according to established security standards and procedures, by maintaining physical, electronic, and procedural safeguards for the information. 
 
