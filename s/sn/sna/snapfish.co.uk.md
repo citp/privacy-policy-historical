@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the snapfish.co.uk privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206014118id_/http%3A//www.snapfish.co.uk/privacy/t_%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.co.uk privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405221803id_/http%3A//www.snapfish.co.uk/privacy/t_%3D0) for the most accurate reproduction.*
 
 # Snapfish: Privacy Policy
 
 Snapfish takes your privacy very seriously. This Privacy Policy describes exactly how Snapfish uses identifiable information regarding our customers, such as name, address, email address or credit card number ( **"Customer Information"** ). Primarily, we collect such information for the purpose of providing you with an outstanding experience on the Snapfish Service. Except as specifically described in this Privacy Policy, Snapfish does not sell, rent or share such Customer Information with third parties. 
-
-Snapfish is a member of TRUSTe. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting TRUSTe's principles of fair information practices. TRUSTe's certification covers the website's gathering and dissemination of information -- not any software, services or products. Because our company is completely committed to respecting and protecting your privacy, we have agreed to disclose our customer information practices and to have our privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact our Customer Service department at [service@snapfish.co.uk](mailto:service@snapfish.co.uk?subject=R03:%20My%20questions). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, contact TRUSTe at <http://www.truste.org/watchdog.html> TRUSTe will then serve as a liaison with Snapfish to resolve your concerns. 
 
 By using our Service, you consent to the collection and use of information in the manner described below. If we decide to change our privacy practice, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Changes to our policy will be prospective only. Please check this page from time to time for changes to make sure you are aware of our latest privacy practices. 
 
@@ -46,8 +42,6 @@ Note that one reason we are able to offer you relevant promotions is that we res
 
 **With whom does Snapfish share Customer Information?**  
 Snapfish shares Customer Information with third party intermediaries (for example, credit card authorization companies, photo processing labs, merchandise distributors, vendors processing our outbound email communication, etc.) who help us run the Snapfish Service and Site. Your Customer Information is provided to these third parties solely for the purpose of providing you the services you request at the time that you request them. Third party intermediaries do not store, retain, access or otherwise use your Customer Information other than as necessary to provide you with the Snapfish service. 
-
-As described when you signed up, Customer Information will also be supplied to Snapfish UK, the co-branded provider of this service. Such information is limited to your name, email address and, if provided, mailing address and telephone number. It does not include credit card information, even if provided by you, at the time of registration or otherwise. [Click here](https://web.archive.org/web/20041206014118id_/http%3A//www.snapfish.co.uk/privacy/null) for more information on the privacy policies of Snapfish UK. 
 
 **Other than as described in the previous paragraphs, Snapfish will not sell, rent or otherwise share Customer Information with a third party without your knowledge and consent.** If you do not want your Customer Information shared at that time you will always have the option of telling us not to share it. For those purposes, "Snapfish" means SAC LLC and any successors to the assets or business of SAC LLC. 
 
@@ -107,6 +101,6 @@ _Contacting Snapfish:_ If you have any questions about our Privacy Policy, the p
 Helen Vaid  
 Managing Director  
 Snapfish UK  
-07980 715417  
+020 7101 9170  
 [service@snapfish.co.uk](mailto:service@snapfish.co.uk)  
 
