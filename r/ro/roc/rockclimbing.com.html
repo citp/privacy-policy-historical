@@ -1,27 +1,70 @@
-<!--The following is the downloaded HTML source of the rockclimbing.com privacy policy that was archived on 2004-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604235513id_/http%3A//www.rockclimbing.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockclimbing.com privacy policy that was archived on 2004-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041216090719id_/http%3A//www.rockclimbing.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
+<!-- RSS feeds for Mozilla and the like -->
+<link rel="alternate" type="application/rss+xml" title="Photos" href="http://www.rockclimbing.com/rss/photos/index.rss">
+<link rel="alternate" type="application/rss+xml" title="Access Alerts" href="http://www.rockclimbing.com/rss/access/index.rss">
+<link rel="alternate" type="application/rss+xml" title="World News" href="http://www.rockclimbing.com/rss/world/index.rss">
+<link rel="alternate" type="application/rss+xml" title="Forum Posts" href="http://www.rockclimbing.com/rss/messages/index.rss">
+<!-- <link rel="alternate" type="application/rss+xml" title="Gear Reviews" href="http://www.rockclimbing.com/rss/gear/index.php" /> -->
+<!-- <link rel="alternate" type="application/rss+xml" title="Feature Articles" href="http://www.rockclimbing.com/rss/articles/index.php" /> -->
+<!-- end of RSS feed assortment -->
+
+<!-- drag in assorted JavaScript -->
+<script language="JavaScript" type="text/javascript" src="/js/formtool.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/submitonce.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/rollover.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/toggle.js"></script><style type="text/css">.toggle{display:none;}</style>
+
   <title>Rock Climbing.com  Privacy Policy</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  
+
+  <!-- stylesheets (yes we have more than one) -->
   <link rel="stylesheet" type="text/css" href="/templates/rc_classic/style.css">
   <link rel="stylesheet" href="/forums/templates/subSilver/subSilver.css" type="text/css">
-
-  
   <script language="Javascript" type="text/javascript">
 <!--
 
+  // pm popup javascript -- depends on Smarty variable, so no literal tag used
 	if ( false ) {
 		window.open('', '_phpbbprivmsg', 'HEIGHT=225,resizable=yes,WIDTH=400');;
 	}
+
+
+
+  function getElementbyClass(classname){
+    elts=new Array()
+    var inc=0
+    var alltags=document.all? document.all : document.getElementsByTagName("*")
+    for (i=0; i<alltags.length; i++){
+      if (alltags[i].className==classname)
+        elts[inc++]=alltags[i]
+    }
+  }
+
+  function do_onload(){
+    if (top.location != location) {
+      top.location.href = document.location.href
+    }
+    getElementbyClass("toggle")
+  }
+
+  if (window.addEventListener)
+    window.addEventListener("load", do_onload, false)
+  else if (window.attachEvent)
+    window.attachEvent("onload", do_onload)
+  else if (document.getElementById)
+    window.onload=do_onload
+
+
 //-->
 </script>
-
 </head>
 <!-- do not get framed -->
-<body link="#1155CC" alink="#669966" vlink="#1155CC" onload="if (top.location != location) top.location.href = document.location.href ;">
-
+<body link="#1155CC" alink="#669966" vlink="#1155CC">
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 		<tbody><tr class="top_bar guest">
@@ -33,7 +76,7 @@
 	</td>
 	<td align="right">
 		<span class="Login">
-		<a href="/forums/profile.php?mode=register">Become a member</a>
+		<a href="/users/register.php">Become a member</a>
 		&nbsp; | &nbsp; 
 		<a href="/forums/login.php">Log in</a>
 		</span> &nbsp;
@@ -42,12 +85,84 @@
 		</tr>
 </tbody></table>
 
-	<table border="0" width="100%" cellpadding="0" cellspacing="0">
-	<tbody><tr bgcolor="#000" height="20">
-		<td class="top_links">
-			<a href="/gear/">Gear</a> | <a href="/forums/">Forums</a> | <a href="/photos.php">Photos</a> | <a href="/routes/">Routes</a> | <a href="/articles/">Articles</a> | <a href="/users/">Users</a> | <a href="/site/">About</a> | <a href="/helpdesk/">Help</a>
-		</td>
-	</tr>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tbody><tr bgcolor="#000" height="15">
+    <td align="right">
+      <table border="0" cellpadding="0" cellspacing="0">
+    	  <tbody><tr bgcolor="#000">
+      		<td class="top_links" align="right" valign="middle">
+      			<a href="/gear/">Gear</a> | <a href="/forums/">Forums</a> | <a href="/photos.php">Photos</a> | <a href="/routes/">Routes</a> | <a href="/articles/">Articles</a> | <a href="/users/">Users</a> | <a href="/site/">About</a> | <a href="/site/faq/">Help</a> | 
+          </td>
+    		  <td class="top_links" align="left" valign="middle">
+            
+<!-- search widget -->
+<script type="text/javascript" language="JavaScript">
+function submitSearchWidget(widget) { 
+
+  var search_urls = new Array();
+  search_urls[0] = "/search/";
+  search_urls[1] = "/forums/newsearch.php";
+  search_urls[2] = "/routes/search.php?show=geodb";
+  search_urls[3] = "/routes/search.php?show=areas";
+  search_urls[4] = "/routes/search.php?show=routes";
+  search_urls[5] = "/articles/?action=search";
+  search_urls[6] = "/events/?action=search";
+  search_urls[7] = "/photos.php?SortBy=Rank&Direction=DESC&Period=ALL&Status=ANY&Criteria=73d22a3a5ce959c7c64366a63c56203d&TotalResults=0&UsePeriod=0";
+  search_urls[8] = "/gear/index.php?c=0";
+  search_urls[9] = "/forums/pmsearch/";
+  search_urls[10] = "/users/list.php";
+  widget.action = search_urls[widget.target.value];
+
+  var str = widget.q.value;
+  var re = /.+/;
+  if ( !str.match(re) ) {
+
+    // null query
+    return false;
+
+  } else {
+
+    // disable submit button while they're waiting
+    if (document.all || document.getElementById) {
+      for (i = 0; i < widget.length; i++) {
+        var tmp = widget.elements[i];
+        if (tmp.name.toLowerCase() == "search") {
+          tmp.disabled = true;
+          tmp.value = 'Wait ...';
+        }
+      }
+    }
+    return true;
+
+  }
+}
+</script>
+
+<!-- search widget form -->
+<form name="search_widget" onsubmit="return submitSearchWidget(this)" action="/site/privacy/index.php" method="POST">
+
+Search 
+  <small>
+    <select name="target">
+      <option label="forum threads" value="1">forum threads</option>
+<option label="submitted articles" value="5">submitted articles</option>
+<option label="submitted photos" value="7">submitted photos</option>
+<option label="gear reviews" value="8">gear reviews</option>
+
+    </select>
+  </small>
+for 
+  <small>
+  <input name="q" value="" size="20" type="text">
+  <input class="search" name="Search" type="submit" value="Search">
+  </small>
+</form>
+
+<!-- end of widget -->      		</td>
+      	</tr>
+      </tbody></table>
+    </td>
+  </tr>
 </tbody></table>
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -55,20 +170,8 @@
 <td width="250" valign="top"><a href="/"><img src="/images/logo.gif" width="225" height="91" border="0" alt="Rockclimbing.com Logo"></a></td>
 <td width="500" align="center" valign="middle">
 		  <!-- Banner Ad -->
-	<script type="text/javascript"><!--
-google_ad_client = "pub-9515599316733042";
-google_ad_width = 728;
-google_ad_height = 90;
-google_ad_format = "728x90_as";
-google_color_border = "6699CC";
-google_color_bg = "003366";
-google_color_link = "FFFFFF";
-google_color_url = "AECCEB";
-google_color_text = "AECCEB";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><div id="beacon_205" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.rockclimbing.com/adlog.php?bannerid=205&amp;clientid=127&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=e65b49e3bbf227746a12ac84aff4f6ec" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br> 
-	</td>
+    	<a href="http://ads.rockclimbing.com/adclick.php?bannerid=242&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.rockclimbing.com%2Fgear%2F" target="_blank"><img src="http://photos.rockclimbing.com/ads//crowbar-animate.gif" width="468" height="60" alt="" title="" border="0"></a><div id="beacon_242" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.rockclimbing.com/adlog.php?bannerid=242&amp;clientid=147&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=ba42a75f159cd00a18ad3326f7297439" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br> 
+	    </td>
 </tr>
 </tbody></table>
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
@@ -120,21 +223,6 @@ google_color_text = "AECCEB";
   </td></tr>
   <tr>
 	 <td colspan="2"><br></td></tr>
-  <tr class="heading left_bar"> 
-	 <td><img src="/images/leftcurve.gif" width="15" height="25"></td>
-	 <td><a href="/site/search.php">Search</a>
-	 </td>
-  </tr>
-  <tr>    
-	 <td><spacer type="block" width="15" height="25"></spacer></td>
-	 <td class="LeftBarLink">
-	   <a href="/forums/search.php">Forums Search</a><br>
-	   <a href="/articles/search.php">Articles Search</a><br>
-	   <a href="/routes/searchroutes.php">Routes Search</a><br>
-	   <a href="/photos.php#advanced">Photos Search</a><br>
-	   <a href="/site/search.php">Site Search</a><br></td></tr>
-  <tr>
-	 <td colspan="2"><br></td></tr>
 
   <tr class="heading left_bar"> 
 	 <td><img src="/images/leftcurve.gif" width="15" height="25"></td>
@@ -183,20 +271,8 @@ google_color_text = "AECCEB";
     <td colspan="2" bgcolor="#FFFFFF">
 
 		
-	<script type="text/javascript"><!--
-google_ad_client = "pub-9515599316733042";
-google_ad_width = 120;
-google_ad_height = 600;
-google_ad_format = "120x600_as";
-google_color_border = "000000";
-google_color_bg = "F0F0F0";
-google_color_link = "0000FF";
-google_color_url = "008000";
-google_color_text = "000000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>120<div id="beacon_206" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.rockclimbing.com/adlog.php?bannerid=206&amp;clientid=127&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=8f6163d6b7ffcef363530616b99b5208" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
-
+    	<a href="http://ads.rockclimbing.com/adclick.php?bannerid=255&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.clarkcolor.com%2Fb036_2_0504" target="_blank"><img src="http://photos.rockclimbing.com/ads//120x600_rock.gif" width="120" height="600" alt="" title="" border="0"></a><div id="beacon_255" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.rockclimbing.com/adlog.php?bannerid=255&amp;clientid=162&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=6fe63b73dff2d454af4e7eae53d67fa0" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
+  
     </td>
   </tr>
   
@@ -236,10 +312,10 @@ google_color_text = "000000";
 <div class="medium_text">
 	<form action="/site/privacy/index.php" method="GET">
 	
-	<span style="font-size: x-small;">Viewed 267 times. Last Updated on Mon Mar 01, 2004 11:11 pm 
+	<span style="font-size: x-small;">Viewed 1573 times. Last Updated on Mon Mar 01, 2004 11:11 pm 
 	
 		
-	 by <a href="/forums/profile.php?mode=viewprofile&amp;name=trevor">trevor</a> 	</span>
+	 by <a href="/users/list.php?UserID=trevor">trevor</a> 	</span>
 	
 		
 	
@@ -318,7 +394,7 @@ We do not read your private messages between users. Although, the table is acces
                 | <a href="/site/">ABOUT</a>
                 | <a href="/site/tos/">TERMS</a>
                 | <a href="/site/privacy/">PRIVACY</a>
-                | <a href="/helpdesk/">PROBLEMS</a>
+                | <a href="http://helpdesk.rockclimbing.com/helpdesk/">PROBLEMS</a>
 
 <br>
 This website and all of its content and design are Copyrighted 1995-2004 under US copyright laws.
@@ -326,10 +402,19 @@ This website and all of its content and design are Copyrighted 1995-2004 under U
 You cannot reproduce or distribute this material in ANY way without the written consent of the owners.
 </font>
 <br>
-<a href="mailto:bitbucket@rockclimbing.com"><font color="white">bitbucket@rockclimbing.com</font></a><font color="white">(spam trap, do not use)</font>
+<a href="mailto:bitbucket@rockclimbing.com"><font color="white">bitbucket@rockclimbing.com</font></a><font color="white">(spam trap, do not use for correspondence)</font>
 </p>
 
 
+
+
+<!-- keep this around until December... I fucking hate IE bugs... -t -->
+<div align="center">
+ <a href="http://getfirefox.com/" title="Get Firefox - Take Back the Web"><img src="http://www.mozilla.org/products/firefox/buttons/takebacktheweb_small.png" width="125" height="50" border="0" alt="Get Firefox"></a>
+</div>
+                                                                                
+<!-- old-style tooltips (to be replaced w/overLib in newer Smarty pages) -->
+<script language="JavaScript" type="text/javascript" src="/js/tooltip.js"></script>
 
 
 
