@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202143622id_/http%3A//vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dbusiness%26hd%3Dbusabout_vodafone%26st%3Dbuslegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605082143id_/http%3A//vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dbusiness%26hd%3Dbusabout_vodafone%26st%3Dbuslegal) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,5 +63,4 @@ If you have any queries or concerns, please contact Customer Care by phoning con
 | PXT World™  
 | Mobile & PDA Set-up  
 | [DataCHOICE™](https://web.archive.org/business/bussol/datachoice/datachoice.jsp?gs=business&hd=bussol&ss=datachoice)  
-| [Mobile Phone Glossary](https://web.archive.org/rep/about/reference.jsp?gs=business&hd=busabout_vodafone&st=busmobileGlossary)  
-[](https://web.archive.org/business/services/msg_soln/GroupTXT.jsp?gs=business&hd=business_services&st=msg_soln&ss=grouptxt)
+| [Mobile Phone Glossary](https://web.archive.org/rep/about/reference.jsp?gs=business&hd=busabout_vodafone&st=busmobileGlossary)
