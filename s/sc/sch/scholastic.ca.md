@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602085043id_/http%3A//www.scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207224923id_/http%3A//www.scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
 
 # Scholastic Canada: Privacy Policy
 
@@ -26,7 +26,7 @@ For those activities that require personally identifiable information, such as c
 
 Parents can request to review, amend, update or have deleted their child's personally identifiable information from Scholastic Canada Ltd.'s records, and refuse to permit further use of a child's information by printing, completing and returning 
 
-[_this letter_](https://web.archive.org/web/20020602085043id_/http%3A//www.scholastic.ca/privacy-terms/letter.html) by fax or regular mail to the specified address. 
+[_this letter_](https://web.archive.org/web/20021207224923id_/http%3A//www.scholastic.ca/privacy-terms/letter.html) by fax or regular mail to the specified address. 
 
 **FOR TEACHERS**
 
@@ -69,3 +69,15 @@ Scholastic.ca is owned and operated by Scholastic Canada Ltd., 175 Hillmount Roa
 GetNetWise is an online resource that provides information and tools that parents and teachers can use to guide children to a safe online experience. You can access this content by clicking on the GetNetWise logo below. This initiative is part of an industry effort to create an online environment where adults feel empowered with tools, information and resources to safeguard children online. 
 
 [](http://www.getnetwise.org/)
+
+  
+**ICRA**
+
+The Internet Content Rating Association is an international, independent organization that empowers the public, especially parents, to make informed decisions about electronic media by means of the open and objective labelling of content. ICRA's dual aims are to: 
+
+  * protect children from potentially harmful material; and, 
+  * to protect free speech on the internet. 
+
+
+
+[](http://www.icra.org/labelv02.html)
