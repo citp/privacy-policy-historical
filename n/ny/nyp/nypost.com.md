@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200218id_/http%3A//nypost.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203044532id_/http%3A//www.nypost.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # New York Post Online Edition: legal
 
 PRIVACY POLICY
+
+_Effective May 31, 2003_
 
 **N.Y.P. Holdings, Inc.** , _which includes New York Post, NYPOST.COM, NYPOSTSTORE.COM, and STORE.NYPOST.COM_ , is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. N.Y.P. Holdings, Inc. has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
 
