@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604132050id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205073339id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Bplans.com
 
- [Home](https://web.archive.org/index.cfm) > Privacy Policy   
-[](https://www.truste.org/validate/3759)  
-This confirms that Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [paloalto.com](http://www.paloalto.com/), [bplans.com](http://www.bplans.com/), [mplans.com](http://www.mplans.com/), [secureplan.com](http://www.secureplan.com/), and all other web sites owned and opperated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:  
+| 
 
+[](https://www.truste.org/validate/3759)  
+This confirms that Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [paloalto.com](http://www.paloalto.com/?affiliate=pas), [bplans.com](http://www.bplans.com/), [mplans.com](http://www.mplans.com/), [secureplan.com](http://www.secureplan.com/), and all other web sites owned and opperated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:
 
 1\. What personally identifiable information of yours or a third party is collected through the website.  
 2\. The organization collecting the information.   
@@ -52,3 +52,7 @@ If you would like to modify, update or delete information that is collected thro
 Legal Disclaimer: We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site. 
 
 If you have questions, we can be reached by e-mail at [customerservice@paloalto.com](mailto:customerservice@paloalto.com?subject=Privacy) or direct them to the Palo Alto Software, Inc. site coordinator at [pat@paloalto.com](mailto:pat@paloalto.com?subject=Privacy) . 
+
+|  | 
+
+A D V E R T I S I N G
