@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412180927id_/http%3A//www.ubs.com/e/index/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202231018id_/http%3A//www.ubs.com/e/privacy_policy.html) for the most accurate reproduction.*
 
-# UBS - PRIVACY POLICY
+# UBS - Privacy Policy
 
 UBS AG ("UBS", "we" or "us"), which includes UBS AG's subsidiaries and branches, is aware that you may wish to be informed about how any personal data and financial information ("Data") that you may send via the Internet to the UBS website ("Website") is treated. Accordingly we have developed this Privacy Policy ("Policy") to explain all our reasonable precautions to keep your Data secure. 
 
