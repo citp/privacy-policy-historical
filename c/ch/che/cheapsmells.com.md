@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheapsmells.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113648id_/http%3A//www.cheapsmells.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapsmells.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405222549id_/http%3A//www.cheapsmells.com/privacy.asp) for the most accurate reproduction.*
 
-# Cheap Smells - Fragrances By Post
+# Perfumes fragrances aftershaves and cologne by post at discount prices - Cheap Smells.
 
-|  | [](https://web.archive.org/web/20041204113648id_/http%3A//www.cheapsmells.com/index.asp)  
+|  |   
 ---  
 |   |   
 CheapSmells.com respects your privacy and only collects the information necessary to facilitate the delivery of our products to our customers. All information is kept confidential and secured. We may periodically send emails to our customers informing them of updates to our services. We do not share any information (including email addresses) with any third parties. Security  
@@ -11,6 +11,4 @@ We collect Contact and Delivery information (e.g. name, billing address, deliver
 A cookie is a piece of data stored on the user's hard drive containing information about the user. CheapSmells.com utilises cookies to enable our systems to recognise your browser and to provide personalised features. Changes to this Privacy Policy  
 CheapSmells.com may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.   
   
----|---  
-|   
----
+---|---
