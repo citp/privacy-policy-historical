@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401202306id_/http%3A//www.learning.com/Privacy_Policy/1%2C2829%2C28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202143325id_/http%3A//www.learning.com/Privacy_Policy/0%2C1117%2C28%2C00.html) for the most accurate reproduction.*
 
 # Learning.com :: Privacy Policy
-
-[**Return to Home Page**](https://web.archive.org/Home/1,2827,,FF.html) | 
 
 PLEASE REVIEW CAREFULLY LEARNING.COM'S USER AGREEMENT AND THIS PRIVACY POLICY, AND THE CHILD PRIVACY POLICY BELOW (IF APPLICABLE), BEFORE USING THIS WEBSITE. 
 
@@ -64,6 +62,4 @@ At this time, Learning.com is not collecting any personally identifiable informa
 As with all our Users, we will collect and share aggregate, anonymous information as explained above. 
 
 **3\. Parents' Right to Review or Delete Information**  
-A parent may review the information a child has submitted to us by sending us a written request addressed to Consumer Relations, Attn: Children's Online Privacy Act - Information Request, 1440 NW Overton Street, 2nd Floor, Portland, Oregon 97209. The request must include the name and address of the child, the child's password and any other information that will allow us to verify that writer is the parent of the child whose information is being requested. In addition, a parent can instruct us to delete a child's information at any time and can also instruct us not to collect any more personal information from the child by sending us a written request addressed to Consumer Relations, Attn: Children's Online Privacy Act - Delete Request, 1440 NW Overton Street, 2nd Floor, Portland, Oregon 97209. However, if such a request is made, such request may unfortunately preclude the child's participation in certain activities.   
-  
----|---
+A parent may review the information a child has submitted to us by sending us a written request addressed to Consumer Relations, Attn: Children's Online Privacy Act - Information Request, 1440 NW Overton Street, 2nd Floor, Portland, Oregon 97209. The request must include the name and address of the child, the child's password and any other information that will allow us to verify that writer is the parent of the child whose information is being requested. In addition, a parent can instruct us to delete a child's information at any time and can also instruct us not to collect any more personal information from the child by sending us a written request addressed to Consumer Relations, Attn: Children's Online Privacy Act - Delete Request, 1440 NW Overton Street, 2nd Floor, Portland, Oregon 97209. However, if such a request is made, such request may unfortunately preclude the child's participation in certain activities. 
