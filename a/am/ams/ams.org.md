@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602135531id_/http%3A//www.ams.org/ams/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209221209id_/http%3A//www.ams.org/ams/privacy.html) for the most accurate reproduction.*
 
 # AMS Privacy Statement
 
@@ -41,9 +41,9 @@ The AMS Bookstore provides an order form for customers. We collect contact infor
 
 ####  **Use of Cookies**
 
-A cookie is a tiny amount of code that is stored by your browser on your computer's hard drive. The AMS uses cookies for two purposes: to keep track of your shopping cart and to maintain user session identity while using specific services.
+A cookie is a piece of data that is stored by your browser. The AMS uses cookies for two purposes: to keep track of your shopping cart and to maintain user session identity. 
 
-The cookie function on your browser may be disabled or the contents erased. Consult your browser help for instructions. Certain functions of the AMS website may depend upon cookies being accepted by your browser. 
+The cookie function on your browser may be disabled or the contents erased. Consult your browser help for instructions. Certain functions of the AMS website that require user identification depend on cookies being accepted by your browser. 
 
 ####  **Use of IP Addresses**
 
@@ -90,12 +90,3 @@ By fax: 401-331-3842
 **Contact:** AMS Webmaster, American Mathematical Society, 201 Charles Street, Providence, RI 2904, USA. Telephone 800-321-4267 (U.S. and Canada) or 401-455-4000 (worldwide); Fax: 401-331-3842; Email: [webmaster@ams.org](mailto:webmaster@ams.org)
 
 The AMS Privacy Statement is subject to change. Any changes will be made to this page. (March 9, 2001).
-
-| 
-
-* * *  
-  
----  
-[](https://web.archive.org/) Comments: [webmaster@ams.org](mailto:webmaster@ams.org?subject=AMSGovernance)  
-[© Copyright 2001, American Mathematical Society   
-](https://web.archive.org/ams/copyright.html) [Privacy Statement](https://web.archive.org/ams/privacy.html)
