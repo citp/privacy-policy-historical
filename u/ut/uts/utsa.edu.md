@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the utsa.edu privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216201800id_/http%3A//www.utsa.edu/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsa.edu privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603163440id_/http%3A//www.utsa.edu/policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy for The University of Texas at San Antonio
 
 ## The University of Texas at San Antonio Internet Privacy Statement
 
-The University of Texas at San Antonio maintains the UTSA website, www.utsa.edu, as a service to its students, employees and external constituencies.  UTSA has created this privacy statement in order to demonstrate our firm commitment to privacy and to address concerns about the types of information gathered and how it is used for all pages on the official UTSA site. The following discloses our information gathering and dissemination practices for this website: [www.utsa.edu](http://www.utsa.edu/).
+The University of Texas at San Antonio(UTSA) maintains the UTSA website, www.utsa.edu, as a service to its students, employees and external constituencies.  UTSA has created this privacy statement in order to demonstrate our firm commitment to privacy and to address concerns about the types of information gathered and how it is used for all pages on the official UTSA site. The following discloses our information gathering and dissemination practices for this website: [www.utsa.edu](http://www.utsa.edu/).
 
 #### 1\. Email and Form Information
 
 If a member of the general public sends an email message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to directly respond to the requestor.  The information will additionally be used in analyzing internet trends within the UTSA domain for future navigation enhancement.  The request for information may be redirected to another part of the University, institution, government agency or person that may be in a better position to respond to the request.
+
+In addition, you are entitled to be informed about the information UTSA. collects about you. Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review this information. Under Section 559.004 of the Texas Government Code, you are entitled to have UTSA. correct information about you that is held by us and that is incorrect, in accordance with the procedures set forth in the University of Texas System Business Procedures Memorandum 32. The information that UTSA. collects will be retained and maintained as required by Texas records retention laws (Section 441.180 et seq. of the Texas Government Code) and rules. Different types of information are kept for different periods of time. 
 
 It should be noted that electronic mail and other Internet communications channels are not necessarily secure against interception.  While we take precautions, such as encrypting communications where appropriate, if your communication is very sensitive, or it includes information such as academic history or grades, you might want to send it by postal mail instead. 
 
@@ -61,5 +63,3 @@ University Communications
 6900 N. Loop 1604 West  
 San Antonio, TX 78249  
 [webteam@utsa.edu](mailto:webteam@utsa.edu)
-
-[UTSA Today](https://web.archive.org/web/20001216201800id_/http%3A//www.utsa.edu/aviso/utsatoday.htm) | [Home](https://web.archive.org/web/20001216201800id_/http%3A//www.utsa.edu/index.html)
