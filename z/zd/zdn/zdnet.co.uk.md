@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnet.co.uk privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204101116id_/http%3A//www.zdnet.co.uk/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.co.uk privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628145948id_/http%3A//www.zdnet.co.uk/misc/privacy) for the most accurate reproduction.*
 
 # ZDNet UK Privacy Statement
 
