@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sterlingleather.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607024857id_/http%3A//www.sterlingleather.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sterlingleather.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132931id_/http%3A//www.sterlingleather.com/privacy.htm) for the most accurate reproduction.*
 
 # Sterling Leather Privacy Policy
 
