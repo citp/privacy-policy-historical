@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2004-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041024082943id_/http%3A//www.iceland.co.uk/iceland/customercare.nsf/%28websearch%29/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308151924id_/http%3A//www.iceland.co.uk/iceland/customercare.nsf/%28websearch%29/privacy) for the most accurate reproduction.*
 
 # Iceland Foods
 
@@ -9,7 +9,7 @@ We have developed a data protection policy, an information security policy and o
 
 The principles require data to be: fairly and lawfully processed; accurate and kept up to date; adequate; relevant and not excessive; kept no longer than necessary; processed in accordance with the rights of data subjects; held securely; and not transferred to countries without adequate protection.
 
-Iceland Foods plc is committed to ensuring the privacy of your information. We understand that the privacy of your information is very important to you. We are careful about the information we ask you to provide and only use your information to process orders and to provide you with the best shopping experience possible.
+Iceland Foods LTD is committed to ensuring the privacy of your information. We understand that the privacy of your information is very important to you. We are careful about the information we ask you to provide and only use your information to process orders and to provide you with the best shopping experience possible.
 
 We have set out below details of the information we will collect about you, how we ensure the security of your information and how we will use your information.
 
@@ -62,7 +62,7 @@ On the shopping site, you are able to change the details you gave us when regist
 **Disclosing information**  
 We will not pass your information to any third parties if you have told us not to. We may pass on some general statistical information about our customers, sales figures, traffic patterns and related matters to reputable third parties, but these details will not include any personally identifying information. 
 
-If you have any queries or concerns about the privacy of your information, or how we use your information, please contact our Legal Department at Iceland Foods plc, Second Avenue, Deeside Industrial Park, Deeside, Flintshire, CH5 2NW (or by telephone on 01244 843610).[](javascript:history.back\(\))   
+If you have any queries or concerns about the privacy of your information, or how we use your information, please contact our Legal Department at Iceland Foods LTD, Second Avenue, Deeside Industrial Park, Deeside, Flintshire, CH5 2NW (or by telephone on 01244 843610).[](javascript:history.back\(\))   
 
 
 |   
