@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203050616id_/http%3A//www.coherent.com/index.cfm%3Ffuseaction%3Dinterfaces.page%26PageID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602211234id_/http%3A//www.coherent.com/index.cfm%3Ffuseaction%3Dinterfaces.page%26PageID%3D4) for the most accurate reproduction.*
 
 # Coherent Inc.
 
