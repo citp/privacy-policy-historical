@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apmmusic.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602105816id_/http%3A//www.apmmusic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmmusic.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205020119id_/http%3A//www.apmmusic.com/privacy.html) for the most accurate reproduction.*
 
 # APM Privacy Policy
 
-The site may only be used or otherwise accessed by persons 18 years of age or older. See [Terms and Conditions](https://web.archive.org/web/20030602105816id_/http%3A//www.apmmusic.com/terms.html). If we reasonably believe that someone under 18 years of age has provided us with personal information, we will make reasonable efforts to remove such personal information from our database. 
+The site may only be used or otherwise accessed by persons 18 years of age or older. See [Terms and Conditions](https://web.archive.org/web/20031205020119id_/http%3A//www.apmmusic.com/terms.html). If we reasonably believe that someone under 18 years of age has provided us with personal information, we will make reasonable efforts to remove such personal information from our database. 
 
 What Information We Collect
 
