@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015012156id_/http%3A//www.bankwest.com.au/newsroom/aboutus/legal/disclaimer_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608145712id_/http%3A//www.bankwest.com.au/newsroom/aboutus/legal/disclaimer_privacy_policy.asp) for the most accurate reproduction.*
 
-# BankWest - Bank of Western Australia Ltd.
+# BankWest - Bank of Western Australia Ltd. - NEWSROOM
 
 ## Legal Notices
 
@@ -17,9 +17,6 @@ We may, in connection with particular services we offer or provide to you, make 
 ### Personal Information collected before 21 December 2001
 
 The National Privacy Principles came into force on 21 December 2001 but some of the Principles have application to personal information collected prior to as well as after that date. This means that for personal information we hold, which was collected prior to 21 December 2001, we will, in accordance with those particular Principles:
-
-  
-
 
   * take reasonable steps to ensure that such information, if used, is accurate, complete and up-to-date;
 
@@ -54,9 +51,6 @@ As a general rule the collection of your personal information will be necessary 
 
 Additionally, the purposes for which we will generally collect and use your personal information will include:
 
-  
-
-
   * complying with legislative and regulatory requirements;
 
   * considering any application you make to us;
@@ -89,9 +83,6 @@ BankWest will not use or disclose information collected about you other than for
 You authorise BankWest to disclose necessary information to related companies and to any agents or contractors who provide services to us in connection with the provision of products or services you have sought from us. These parties are prohibited from using your personal information except for the specific purpose for which we supply it to them.
 
 Subject to what is permitted by law, the types of third parties we may disclose your personal information to include:
-
-  
-
 
   * credit reporting agencies;
 
@@ -139,9 +130,6 @@ In some cases, we may need to transfer your personal information outside Austral
 If at any time you wish to know what personal information we are holding about you, you are welcome to apply for your details by telephoning our Customer Help Centre on 13 17 18.
 
 Under certain circumstances, BankWest may not be able to tell you what personal information we hold about you. This includes where:
-
-  
-
 
   * it would have an unreasonable impact on the privacy of other individuals;
 
@@ -195,9 +183,6 @@ We encourage you to periodically review our Privacy Policy for any changes.
 ### BankWest's Internet Website
 
 This Privacy Policy applies to any website operated by BankWest under the domain name www.bankwest.com.au, and to the following domain names:
-
-  
-
 
   * nsafinancialclub.bankwest.com.au;
 
