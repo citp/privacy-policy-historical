@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the urduword.com privacy policy that was archived on 2001-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010814070453id_/http%3A//urduword.com/About/Privacy_Statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urduword.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601122852id_/http%3A//urduword.com/About/Privacy_Statement.shtml) for the most accurate reproduction.*
 
 # UrduWord.com - About - Privacy Statement
 
 | 
 
 Please visit our sponsors. Advertisements open in new window  
-[](http://service.bfast.com/bfast/click?bfmid=253985&bfsiteid=37703885&bfpage=searchbox8)
+[ ](http://www.qksrv.net/click-649972-52496)
 
 This privacy statement discloses the privacy practices for _UrduWord.com_ website.
 
