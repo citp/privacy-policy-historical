@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the editme.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608090714id_/http%3A//www.editme.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editme.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209204356id_/http%3A//www.editme.com/Privacy) for the most accurate reproduction.*
 
 # EditMe - The web site solution for wikis, blogs, content and collaboration sites. - EditMe Privacy Statement
 
