@@ -1,39 +1,28 @@
-> *The following text is extracted and transformed from the ecmweb.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206110000id_/http%3A//www.intertec.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecmweb.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202074637id_/http%3A//www.ecmweb.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Intertec Privacy Policy
+# PRIMEDIA Business - Online Business Information and News for Industry Communities
 
-**Intertec Publishing Customer Privacy Policy**
+Primedia Business Privacy Policy – Revised January 2002
 
-**How We Use Your Contact Information**
+Since your privacy is a priority to us, we have provided this detailed policy statement about the privacy and information dissemination practices related to our Primedia Business Magazines and Media products. Of course, our site visitors may enjoy many of our features and activities without providing any personal information. 
 
-Intertec Publishing must collect certain information from you in order to serve you as a customer. This may include your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers, plus survey information on your business and job responsibilities. We may require this information to determine if you qualify for a free subscription to one of our magazines or to receive information on our web sites.
+Information Collection & Use:
+* When you register for one of our products (subscription forms, site memberships, trade show attendance, newsletter subscriptions, etc.), our forms may ask for contact and demographic information. This information is used to send news about our products or promotional material from other carefully screened businesses. In addition, demographic information may be used to customize the display of our sites to you by showing content that we think might be of interest or related to your past visits. You will be able to opt-out of any mailings. 
+* Your browser offers so-called "cookies" which -- if you allow their use -- store small amounts of data on your computer about your visit to any of our sites. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. Cookies tell us nothing about you personally unless you specifically give us additional information. Our sites are viewable even if you disable the cookie function within your Web browser. However, some advanced features use cookies to assist in keeping track of your location within the site in order to provide navigational trails and similar navigational features. These cookies are not used to personally identify your surfing patterns, and are merely used to provide navigation links. Disabling your cookies simply means that some of these features will not have custom navigation available to you. 
+* Some of the banner ads displayed in our sites are provided by outside companies. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies associated with banner ads are collected by our advertisers. We do not have access to this information. Cookies in and of themselves do not contain any personally identifiable information about you. 
+Information Sharing & Disclosure:
 
-We use the contact information you provide us-including your phone, fax, and e-mail addresses-primarily to deliver the service you have requested. We will also use this information to contact you when it is time to renew a subscription or update your order, and to inform you of other Intertec products and services that may be of interest to you.
+Certain information—such as your password and credit card number—is never disclosed in any form whatsoever to any outside party. Other information: While we will primarily use your email address to contact you when your subscription is up for renewal, there are a few other types of messages we may want to send you, either by email or other means. These might include (but aren’t limited to) announcements regarding other Primedia Business products or services, and special offers from carefully selected, relevant third-party businesses and organizations. You will be able to opt-out of any such mailings. In addition, we do share non-personal, aggregate statistics about our customers, sales, demographics, traffic patterns, and related site information with advertisers and reputable third party vendors for marketing and promotional purposes. However, none of the information we disclose in this aggregate form can be used to personally identify you. 
 
-We do rent certain lists on a one-time use basis to carefully screened companies offering products and services directly related to the industries we cover. These lists may include your name, physical mailing address, and/or telephone number, and are selected on the basis of the information you have provided about your business and job. As explained below, we honor requests from customers who do not want to be included in list exchanges.
+Terms of Use:
 
-We do **not** release e-mail addresses or fax numbers to any third party, but we will send e-mail or fax messages to our customers on behalf of selected advertisers. We screen messages carefully to be sure they are directly related to your business interests. All e-mail or fax messages are clearly identified as coming from the I-Lists Service of Intertec Publishing, and include instructions on how to remove your name from future messaging.
+By using our Web sites, you consent to the collection and use of your information by Primedia Business Magazines & Media within the policies stated above. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. As with all areas of our sites, Primedia Business Magazines & Media welcomes your questions and comments. If you have any questions or concerns about our stated privacy policies, please contact us at [privacypolicy@primediabusiness.com](mailto:privacypolicy@primediabusiness.com).
 
-**Sensitive Personal Information and Information on Children**
+Privacy Policy for subscribers of print magazines:
 
-Certain sensitive personal information you may provide to us is **never** shared with other parties. Sensitive information includes a Social Security number, mother's maiden name, credit card numbers, personal financial data, medical or family information.
+Because we are concerned about honoring your privacy, we want to let you know how we may use the e-mail address that you provide on your magazine subscription/renewal forms. While we will primarily use your email address to contact you when your subscription is up for renewal, there are a few other types of e-mail messages we may want to send you: 
 
-We collect this information only if there is a compelling business reason-for example, if you want to charge a subscription payment to your credit card. Such information will be used only for the stated purpose.
+* Announcements regarding other Primedia Business products or services. 
+* Email messages with special offers from carefully selected, relevant businesses and organizations. 
 
-As a business-to-business communications company, Intertec does not collect information from children. On-line registration for our subscriptions and web site usage is restricted to adults who are professionally engaged in the businesses we serve.
-
-**We Honor Opt-Out Requests**
-
-Intertec is committed to honoring all requests from customers who do not wish to receive mailings, telephone calls, e-mails, or faxes from our advertisers or any other third parties.
-
-If you are a subscriber to an Intertec magazine and wish to restrict your mailing address and/or telephone number from our third party list rentals, call our Subscriber Customer Service Department at 800-441-0294 (913-967-1707 outside US). Be sure to identify all Intertec magazines you receive, as each magazine maintains a separate mailing list.
-
-If you are a subscriber or registered web site user and have provided us with your e-mail address and/or fax number, we will notify you and offer you an opt-out opportunity before we send you any third party messages through our I-Lists Service. You will also receive a further opt-out notice on every e-mail or fax message we send you.
-
-**Questions and Comments?**
-
-Intertec Publishing has developed this Customer Privacy Policy out of respect for the preferences of our customers and prospects. By using our web site, or registering for one of our other services, you consent to the collection and use of your information within the guidelines stated above.
-
-We will post any changes or extensions to this policy on this page, so you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
-
-If you have questions or comments on our stated privacy policy, please [contact us](mailto:privacy@intertec.com). 
+If you have any other questions about our subscription privacy policy, please contact our subscription department at [subs@primediabusiness.com](mailto:subs@primediabusiness.com) or by calling 1-800-441-0294.
