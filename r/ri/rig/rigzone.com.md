@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rigzone.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208054100id_/http%3A//www.rigzone.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rigzone.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603011349id_/http%3A//rigzone.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # RIGZONE -
 
@@ -6,12 +6,12 @@
 ---  
 |   
 ---  
-|  [](https://web.archive.org/adserve/thru.asp?id=1961869&url=http://www.rigzone.com/market/surplus_category.asp?cat_id=2&page=/privacypolicy.asp) |   
+|  [](https://web.archive.org/adserve/thru.asp?id=5482884&url=http://www.rigzone.com/data/&page=/privacypolicy.asp) |   
 | 
 
 | 
 
-At Rigzone.com, your right to privacy is a primary concern. This Privacy Policy describes the guidelines we use to protect the information we collect about you during a visit to our Internet site. If you have any questions about our Privacy Policy, please [contact us](https://web.archive.org/web/20001208054100id_/http%3A//www.rigzone.com/contactform.asp).   
+At Rigzone.com, your right to privacy is a primary concern. This Privacy Policy describes the guidelines we use to protect the information we collect about you during a visit to our Internet site. If you have any questions about our Privacy Policy, please [contact us](https://web.archive.org/web/20010603011349id_/http%3A//rigzone.com/contactform.asp).   
   
 ---  
 **  
@@ -31,4 +31,4 @@ By using our Web site, you consent to the collection and use of this information
   
 **  
 Give us your feedback.**  
-Rigzone.Com welcomes your questions and comments about privacy. [Click here](https://web.archive.org/web/20001208054100id_/http%3A//www.rigzone.com/contactform.asp) to contact us.
+Rigzone.Com welcomes your questions and comments about privacy. [Click here](https://web.archive.org/web/20010603011349id_/http%3A//rigzone.com/contactform.asp) to contact us.
