@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universitytickets.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214140100id_/http%3A//universitytickets.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universitytickets.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408153158id_/http%3A//www.universitytickets.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # UniversityTickets.com: Privacy Statement
 
