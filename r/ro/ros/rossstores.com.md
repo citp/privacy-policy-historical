@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rossstores.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607070635id_/http%3A//www.rossstores.com/rm_pp.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rossstores.com privacy policy that was archived on 2001-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010802024642id_/http%3A//www.rossstores.com/rm_pp.jsp) for the most accurate reproduction.*
 
 # Ross - Ross Mail - Privacy Policy
 
@@ -16,7 +16,7 @@ As part of our commitment to ensuring the privacy of our customers, we do not se
 
 We encourage parents and guardians to spend time with their children in a "kid-friendly" environment. While we offer products for children, our site is designed to make an easier shopping experience for adults. Our registration process is intended solely for use by adults. We do not currently collect personally identifiable information from children. If in the future, we choose to distribute information to children, we will do so in strict compliance with applicable laws and industry standards for the protection of children's privacy. 
 
-If a child has provided rossstores.com with personally identifiable information, we ask that a [parent or guardian click here](https://web.archive.org/web/20010607070635id_/http%3A//www.rossstores.com/rm_cp.jsp) and we will do our best to remove the information from our files. 
+If a child has provided rossstores.com with personally identifiable information, we ask that a [parent or guardian click here](https://web.archive.org/web/20010802024642id_/http%3A//www.rossstores.com/rm_cp.jsp) and we will do our best to remove the information from our files. 
 
 Cookies are pieces of information that are stored on your computer and are used for record keeping purposes. We use cookies to make visiting and using our website easier. Cookies can help us see which parts of our website are the most or least popular and provide us direction to improve our customer's online experience. We do not and will not use cookies to retrieve personal information about you from your computer unless you have affirmatively provided such information to us. 
 
