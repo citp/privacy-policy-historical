@@ -1,0 +1,39 @@
+> *The following text is extracted and transformed from the texasheartinstitute.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205215158id_/http%3A//www.texasheartinstitute.org/privacy.html) for the most accurate reproduction.*
+
+# Web Site Terms of Use and Privacy Policy - Texas Heart Institute
+
+**Texas Heart Institute Web Site Terms of Use and Privacy Policy**
+
+**Mission Statement**
+
+The Texas Heart Institute is a nonprofit organization dedicated to reducing the devastating toll of cardiovascular disease through innovative and progressive programs in research, education, and patient care.
+
+The Texas Heart Institute's Heart Information Center is a community outreach program wherein the Institute's staff members provide patient-education information related to the prevention, diagnosis, and treatment of cardiovascular diseases.
+
+**Terms of Use**
+
+The Texas Heart Institute Web site does **not** provide specific medical advice; rather, the site provides users with information to better understand their health and their diagnosed disorders. The Texas Heart Institute urges you to visit a qualified doctor for diagnosis and for specific medical advice.
+
+The information provided in this Web site is **as is** , without warranty as to completeness or accuracy, errors or omissions. Web site users agree to indemnify and hold harmless the Texas Heart Institute and its affiliates from any legal claims related to the use of information contained on this Web site.
+
+Although the Texas Heart Institute has made every effort to provide links that have as little commercial sponsorship as possible, some of the links provided may connect the user to for-profit organizations or to those that link to sites of commercial entities. The Texas Heart Institute does not take any responsibility for the accuracy, completeness, or reliability of these sites or for any characteristics of their sponsor(s). The Texas Heart Institute Web site does **not** endorse any specific commercial products or devices contained within the site itself or within links to other organizations or commercial entities.
+
+**Privacy Policy**
+
+The Texas Heart Institute honors the legal requirements of the medical/health information privacy policies that apply in Houston, Texas, USA, where the Web site originates.
+
+The Texas Heart Institute and its Web site respect the confidentiality of data relating to individual visitors to the site, including their identity. Individual visitor information is not collected, shared, or distributed. Please note that aggregate data are collected and analyzed strictly for the purposes of identifying statistical information concerning site traffic, visitor demographics, and pages of greatest interest. In areas of the site where users must provide personal information for registration purposes or for purchasing certain services, this personal information may be forwarded to third parties in order to fulfill these requests. Please note also that e-mail to the Web master or to members of the Heart Information Center is not secure.
+
+**Source of Funding**
+
+The Texas Heart Institute Web site is not supported by advertising or commercial sponsorship, nor does it partner or have special relationships with any advertising companies. Funding is based solely on educational and research-oriented grants and the contributions of philanthropic persons and organizations.
+
+**Copyright Information**
+
+All text, graphic, and multimedia content on this Web site © Copyright 1996-2002 Texas Heart Institute. All rights reserved. Portions of this Web site may be printed or stored locally for personal use only. Texas Heart Institute, Texas Heart Institute Journal, THI, Heart Owner's, and Leading With the Heart  
+are members of the family of trademarks of the Texas Heart Institute.
+
+**Contact Information**
+
+You may contact the Texas Heart Institute with any questions or comments concerning this Web site by sending e-mail to [khoge@heart.thi.tmc.edu](mailto:khoge@heart.thi.tmc.edu).  
+ 
