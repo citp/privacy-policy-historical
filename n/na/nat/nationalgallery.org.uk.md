@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgallery.org.uk privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607203135id_/http%3A//www.nationalgallery.org.uk/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgallery.org.uk privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203013843id_/http%3A//www.nationalgallery.org.uk/home/privacy.htm) for the most accurate reproduction.*
 
 # NG London/Privacy Statement
 
@@ -20,7 +20,7 @@ This privacy policy only covers the National Gallery's Website at http://www.nat
 **Notification of Changes**  
 Notification of Changes: If we need to change our privacy policy, we will post those changes in this document so that users are always aware of which information we collect, how we use it and under which circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by email. Users will have a chance to inform us not to use their information in a different manner. We will use information in accordance with the privacy policy in place when the information was collected.
 
-[ _Click here_](https://web.archive.org/web/20020607203135id_/http%3A//www.nationalgallery.org.uk/home/glossary.htm)
+[ _Click here_](https://web.archive.org/web/20021203013843id_/http%3A//www.nationalgallery.org.uk/home/glossary.htm)
 
 to see a list of glossary terms
 
