@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605201109id_/http%3A//vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207050704id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
 
 # VitaDigest - The Vitamins Supplement & Sports Nutrition SuperStore Privacy Policy
 
@@ -176,6 +176,10 @@ Attn: Privacy Compliance Officer
 VITADIGEST.COM, Inc.   
 1820 S. Third Street   
 Alhambra CA 91803
-You may also contact us by e-mail at [privacy@vitadigest.com](mailto:privacy@vitadigest.com)Back to Top
+You may also contact us by e-mail at [privacy@vitadigest.com](mailto:privacy@vitadigest.com)
+
+Last Updated: 06/24/2004
+
+Back to Top
 
  _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
