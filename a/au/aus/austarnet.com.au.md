@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the austarnet.com.au privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604014837id_/http%3A//www1.austarnet.com.au/portal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austarnet.com.au privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207062430id_/http%3A//www.austarnet.com.au/portal/privacy.asp) for the most accurate reproduction.*
 
-# austarnet: privacy
+# AUSTARnet: privacy
 
 AUSTAR cares about your privacy 
 
