@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618144117id_/http%3A//www.mohela.com/Misc/Info/Info_PrivacyAct.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202152311id_/http%3A//www.mohela.com/Misc/Info/Info_PrivacyAct.asp) for the most accurate reproduction.*
 
 # MOHELA Privacy Policy
 
