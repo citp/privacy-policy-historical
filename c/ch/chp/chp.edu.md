@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chp.edu privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211185956id_/http%3A//www.chp.edu/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chp.edu privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603172241id_/http%3A//www.chp.edu/about/privacy.php) for the most accurate reproduction.*
 
 # Children·s Hospital of Pittsburgh - Hospital Privacy Statement
 
@@ -8,7 +8,7 @@ Children’s Hospital of Pittsburgh (CHP)
 Children’s Community Pediatrics (CCP)  
 Notice of Privacy Practices – Summary
 
-[Click here for the full text.](https://web.archive.org/web/20031211185956id_/http%3A//www.chp.edu/about/privacy_notice.php)
+[Click here for the full text.](https://web.archive.org/web/20040603172241id_/http%3A//www.chp.edu/about/privacy_notice.php)
 
 CHP/CCP’s “Notice of Privacy Practices” explains how CHP and CCP use and share your (your child’s) health information and other private information. The Notice also explains what rights you (your child) may have about this information. This Summary tells you in brief what the Notice says \- IT IS NOT A COMPLETE LIST OF HOW WE USE AND SHARE YOUR HEALTH INFORMATION. CHP/CCP has the right to change this Summary and the Notice without first notifying you.
 
@@ -58,10 +58,10 @@ Your Legal Rights About Your Health Information
 Please note: In many of the above cases, we are not required to agree to your requests in whole or in part.
 
 Violation of Privacy Rights  
-If you believe your privacy rights have been violated, you have a right to file a complaint. Please read the [full text of the notice](https://web.archive.org/web/20031211185956id_/http%3A//www.chp.edu/about/privacy_notice.php) for more details. Questions? Please call 412-692-7842.  
+If you believe your privacy rights have been violated, you have a right to file a complaint. Please read the [full text of the notice](https://web.archive.org/web/20040603172241id_/http%3A//www.chp.edu/about/privacy_notice.php) for more details. Questions? Please call 412-692-7842.  
 
 
-[CHP Health Information Privacy Complaint Form](https://web.archive.org/web/20031211185956id_/http%3A//www.chp.edu/about/privacycomplaint.pdf)
+[CHP Health Information Privacy Complaint Form](https://web.archive.org/web/20040603172241id_/http%3A//www.chp.edu/about/privacycomplaint.pdf)
 
 [](http://www.adobe.com/products/acrobat/readstep2.html) |   | 
 
