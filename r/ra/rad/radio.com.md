@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radio.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206061000id_/http%3A//cnet.com/aboutcnet/0-13611-7-811039.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio.com privacy policy that was archived on 2001-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010625114933id_/http%3A//www.cnet.com/aboutcnet/0-13611-7-811039.html) for the most accurate reproduction.*
 
-# CNET.com - About CNET - Privacy Policy
+# Privacy Policy - CNET.com
 
 |  **CNET Networks, Inc.  
 Overall Privacy Statement**  
@@ -115,8 +115,6 @@ CNET uses any information voluntarily given by our users to enhance their experi
 **3\. Sharing of the Information**  
 CNET uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We do not share information about individual users with any third party, except in the case of some contests and sweepstakes\--and then, _only with a user's express consent._ CNET may make registration records and log files available on a confidential basis to third-party auditors and to select measurement and analysis firms. 
 
-CNET has entered into an agreement to acquire Ziff-Davis, Inc., the operator of ZDNet.com, in a merger expected to close in October 2000. To prepare for the integration of the merger, CNET may share non-personally-identifiable information with Ziff-Davis. 
-
 CNET does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly. (CNET will divulge information only as necessary to comply with state and federal laws.) 
 
 PostMasterDirect, CNET's partner in providing opt-in email announcement newsletters, has access to the information described in (2) above with respect to users who elect to receive opt-in email announcement newsletters. Neither CNET nor PostMasterDirect will share any of this information with third parties, including the companies that send announcements through PostMasterDirect. PostMasterDirect may use aggregated data regarding users' responses to the opt-in email announcement newsletters program to improve its services and to provide information to the companies sending the opt-in announcements. 
@@ -138,23 +136,25 @@ Users may unsubscribe to any of our electronic newsletters at any time by follow
 
 Currently, CNET does not offer users a means by which to completely delete personal information established at the time of registration for any site except CNET Auctions. 
 
-**Click now!** Online offers from our sponsors
-
-| | |  |  | • | [**Company Profile**](https://web.archive.org/aboutcnet/0-13612-7-309130.html?nav)  
+| **Hot products!** Check out the latest and greatest tech gear  
+---  
+  
+|    
+  
+  
+| |  |  | • | [**Company Profile**](https://web.archive.org/aboutcnet/0-13612-7-309130.html)  
 ---|---  
-• | [**Editorial and Disclosure Policy**](https://web.archive.org/aboutcnet/0-13611-7-920000.html?nav)  
-• | [**Press Releases**](https://web.archive.org/aboutcnet/0-13613.html?nav)  
-• | [**Investor Relations**](https://web.archive.org/aboutcnet/0-13614.html?nav)  
-• | [**Company Contacts**](https://web.archive.org/aboutcnet/0-13615.html?nav)  
-• | [**Job Openings**](https://web.archive.org/aboutcnet/0-13616.html?nav)  
-• | [**Permissions**](https://web.archive.org/aboutcnet/0-13617.html?nav)  
-• | [**How to Advertise**](https://web.archive.org/aboutcnet/0-13618.html?nav)  
-• | [**International**](https://web.archive.org/aboutcnet/0-13611-7-1461219.html?nav)  
-• | [**Conferences**](http://www.builder.com/Conference00/?nav)  
-• | [**Community Involvement**](https://web.archive.org/aboutcnet/0-13620.html?nav)  
-• | [**Affiliate Program**](https://web.archive.org/webbuilding/0-2633572.html?nav)  
-• | [**TV and Radio Ads**](https://web.archive.org/aboutcnet/0-16094.html?nav)  
-• | [**CNET Media Productions**](https://web.archive.org/aboutcnet/0-1422296.html?nav)  
+• | [**Editorial and Disclosure Policy**](https://web.archive.org/aboutcnet/0-13611-7-920000.html)  
+• | [**Press Releases**](https://web.archive.org/aboutcnet/0-13613.html)  
+• | [**Investor Relations**](https://web.archive.org/aboutcnet/0-13614.html)  
+• | [**Company Contacts**](https://web.archive.org/aboutcnet/0-13615.html)  
+• | [**Job Openings**](https://web.archive.org/aboutcnet/0-13616.html)  
+• | [**Permissions**](https://web.archive.org/aboutcnet/0-13617.html)  
+• | [**How to Advertise**](https://web.archive.org/aboutcnet/0-13618.html)  
+• | [**Community Involvement**](https://web.archive.org/aboutcnet/0-13620.html)  
+• | [**Affiliate Program**](https://web.archive.org/webbuilding/0-2633572.html)  
+• | [**CNET Media Productions**](https://web.archive.org/aboutcnet/0-1422296.html)  
+  
   
   
 
