@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aao.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207214955id_/http%3A//www.aao.org/aao/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aao.org privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601101453id_/http%3A//www.aao.org/aao/privacy.cfm) for the most accurate reproduction.*
 
 # AAO.org Privacy Policy
 
@@ -20,7 +20,7 @@ The American Academy of Ophthalmology provides on-line information and services 
 
 ## Trademarks
 
-The following are all trademarks or registered trademarks of the American Academy of Ophthalmology: EyeNet, American Academy of Ophthalmology, AAO, The Foundation of the American Academy of Ophthalmology, Advocacy Update, Clinical Pearls, LEO (Lifelong Education for the Ophthalmologist), Eyecon: Diabetic Retinopathy Pilot, Ophthalmology, Vision for Your Future, Get an Eyeful, Celebrate Sight: Do You Know Your Glaucoma Risk?sm , National Eye Care Project (NECP), National Children's Eye Care Program (NCECP), Academy Services, Inc. (ASI), Academy Insurance Management Services, Inc. (AIMS), Diabetes 2000, Discover Your Eye Q, Test Your Eye-Q, ICODE, NEON, Preferred Practice Pattern, Under Pressure, VISION, OEC: On-Line Education Center, Professional Choices. 
+The following are all trademarks or registered trademarks of the American Academy of Ophthalmology: EyeNet, American Academy of Ophthalmology, AAO, EyeCare America, Advocacy Update, Clinical Pearls, LEO (Lifelong Education for the Ophthalmologist), Eyecon: Diabetic Retinopathy Pilot, Ophthalmology, Vision for Your Future, Get an Eyeful, Celebrate Sight: Do You Know Your Glaucoma Risk?sm , National Eye Care Project (NECP), National Children's Eye Care Program (NCECP), Academy Services, Inc. (ASI), Academy Insurance Management Services, Inc. (AIMS), Diabetes 2000, Discover Your Eye Q, Test Your Eye-Q, ICODE, NEON, Preferred Practice Pattern, Under Pressure, VISION, OEC: On-Line Education Center, Professional Choices. 
 
 Other product and company names mentioned here might be the trademarks of their respective owners. 
 
