@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldrugbyshop.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605183710id_/http%3A//www.worldrugbyshop.com/more_info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldrugbyshop.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209161411id_/http%3A//www.worldrugbyshop.com/more_info/privacy.asp) for the most accurate reproduction.*
 
 # WorldRugbyShop
 
@@ -9,7 +9,7 @@
 
 From time to time, we add or change functions, features or products to our Web Sites or add or change Services. This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
 
-Any questions regarding our Privacy Policy should be directed to 365's Privacy Policy Manager at [Privacy@rugbyrugby.com](mailto:Privacy@rugbyrugby.com) , or alternatively see the section "Comments" below.
+Any questions regarding our Privacy Policy should be directed to 365's Privacy Policy Manager at [Privacy@365.com](mailto:Privacy@365.com) , or alternatively see the section "Comments" below.
 
 back to top **Your acceptance of these Privacy Statement terms**  
 By using any of the sites within our web site network ("Web Sites") or our Services, you unconditionally agree to be bound by this Privacy Policy.
@@ -80,11 +80,16 @@ As these services necessarily entail chat rooms, they are public forums. You sho
 back to top **Opening an Account**  
 If you wish to open an account with 365, you will be asked to submit information such as your name, address and credit card details. This information will be held by us in accordance with our Privacy Policy.
 
+back to top **Tarot Service on Future365**  
+365 does not automatically process any personal information relating to the customers of its Tarot service. Customers will however be asked if they wish to receive information from us about existing and new products and services. If customers do wish to receive such information, they will be asked to submit their name, postal address and/or email address and maybe their interests and hobbies also. This information will be held by us in accordance with our Privacy Policy. It will not be disclosed to third parties.
+
 back to top **Comments  **  
-Please e-mail any questions, concerns or comments you have about our Privacy Policy to [Privacy@rugbyrugby.com](mailto:Privacy@rugbyrugby.com) or write to us at:
+Please e-mail any questions, concerns or comments you have about our Privacy Policy to [Privacy@365.com](mailto:Privacy@365.com) or write to us at:
 
 Privacy  
-365 Inc  
-3029 6th Avenue South, Birmingham, Alabama 35233 
+Rivals digital Media  
+151 Freston Road  
+London  
+W10 6TH
 
 back to top
