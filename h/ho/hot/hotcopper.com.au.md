@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407093002id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207184750id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
 
 # HotCopper
 
