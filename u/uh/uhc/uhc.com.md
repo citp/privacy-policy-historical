@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhc.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203145200id_/http%3A//www.uhc.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhc.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602064657id_/http%3A//www.uhc.com/legal/privacy.html) for the most accurate reproduction.*
 
 # UnitedHealthcare Website Privacy Policy
 
@@ -12,7 +12,7 @@ In general, you can visit our site without revealing any personal information ab
 
 Please know that if you send us an e-mail communication using any of the e-mail links on our site, it may be shared with a Customer Service representative, contractor, employee or agent that is most able to address your inquiry. Once we have responded to your communication, it may be discarded or archived, depending on the nature of the inquiry. 
 
-You should also know that unless otherwise noted, the e-mail functionality on our site does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed by another Internet user while in transit to us. If you wish to keep your information private, you should not use our e-mail. Instead, you should contact us at 612-936-1300, or if you are a health plan member, contact Member Services at the telephone number listed on your benefits ID card. 
+You should also know that unless otherwise noted, the e-mail functionality on our site does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed by another Internet user while in transit to us. If you wish to keep your information private, you should not use our e-mail. Instead, you should contact us at 952-936-1300, or if you are a health plan member, contact Member Services at the telephone number listed on your benefits ID card. 
 
 **Other Information**
 
