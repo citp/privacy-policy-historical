@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desu.edu privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620014024id_/http%3A//www.desu.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desu.edu privacy policy that was archived on 2005-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050304235800id_/http%3A//www.desu.edu/privacy.htm) for the most accurate reproduction.*
 
 # Delaware State University Privacy Statement
 
