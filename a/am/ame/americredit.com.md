@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205010100id_/http%3A//americredit.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2001-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010501040613id_/http%3A//americredit.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
