@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203043955id_/http%3A//www2.caringbridge.org/ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193751id_/http%3A//www2.caringbridge.org/ppolicy.htm) for the most accurate reproduction.*
 
 # CaringBridge - Privacy Policy
 
@@ -10,7 +10,11 @@ CaringBridge was founded as a free online service to keep families and friends i
 This Privacy Statement describes the information we collect when you use this web site; for example, to create or visit a CaringBridge Page. It also describes how we use the personal information you share with us and some of the steps we take to protect your privacy.  
 
 
-Please take a few minutes to review our Privacy Statement. By using this web site, you are consenting to the collection, use and disclosure of your personal information as set forth in this Privacy Statement.
+Your Consent
+
+Please take a few minutes to review our Privacy Statement. By using this web site, you are consenting to the collection, use and disclosure of your personal information as set forth in this Privacy Statement. 
+
+This Privacy Statement May Change
 
 This Privacy Statement describes CaringBridge's current policies and practices with regard to the personal information we collect through the CaringBridge.org web site. 
 
@@ -20,11 +24,15 @@ For your convenience, whenever this Privacy Statement is changed, we will alert 
 
 You may access the current version of this Privacy Statement by clicking on the button marked "Privacy Statement" at the bottom of each page of this web site. 
 
-This Privacy Statement was last revised on November 11, 2003 
+This Privacy Statement was last revised on May 6, 2004. 
+
+Definitions 
 
 **"Personal information"** means information about an identified or identifiable individual. Your personal information may include your name, your address, and your e-mail address. 
 
 **"Registration information"** means the personal information provided to CaringBridge by the author of a CaringBridge Page as part of the process of creating or updating a CaringBridge Page. For example, when you create a CaringBridge Page we ask for your name, contact information, and the name of your sponsor (if any). We also ask you to select the type of page you wish to create, an address for your page, security levels, a user name and password, and so on. Registration information may include both your personal information and information about others. For example, if a parent creates a CaringBridge Page for his or her child, the parent may provide information about the child. 
+
+What Personal Information Is Collected Through This Web Site?
 
 Personal information enters our database in two ways: First, individuals provide us with personal information in connection with their use of our service. Second, individuals share personal information with other members of a caring community when they create or visit a CaringBridge Page. Although both types of information are stored on our server, we handle each type differently. 
 
@@ -32,17 +40,31 @@ Personal information enters our database in two ways: First, individuals provide
 
 **Journal Entries, Guestbook Entries, and Photographs.** CaringBridge Pages contain a great deal of personal information about the author of the CaringBridge Page, visitors to the CaringBridge Page, and other individuals. CaringBridge stores journal entries, guestbook entries, and photographs on its server as a service to the author and his or her family and friends. Please read further to learn how we use this type of personal information. 
 
+How Does CaringBridge Use Contact Information?
+
 CaringBridge uses your contact information to communicate with you. For example, we use your contact information to respond to your questions or, if you are a CaringBridge Page "author," to communicate with you about your account. From time to time, we may send you service related announcements. For example, if our service is temporarily suspended for maintenance, we may send all users an email. These communications relate directly to your use of our service. You may not "opt-out" of receiving these communications, but you may deactivate your account or cease using our service at any time. 
 
 In addition, from time to time, we may send you news and information about CaringBridge, our sponsors and partners, or our services. We may also send you information about our fund-raising activities or requesting a donation. If you do not wish to receive these updates or requests, you may "opt out" at any time by following the directions printed at the bottom of the email. 
 
-CaringBridge uses the personal information you provide when you create or update a CaringBridge Page to create your CaringBridge Page and personalize our web site for you and your visitors. We also use this information you provide to compile statistics about our users and their use of our site. These statistics do not identify you personally. These statistics help us understand the needs and preferences of the groups we serve and improve the content and functionality of our web site. From time to time, we may post a survey on our web site or, if we have your contact information, we may send you a questionnaire or survey. Your participation in any survey is always voluntary. We compile statistical information from the responses to our surveys. These statistics do not identify you personally. These statistics help us understand the needs and preferences of the groups we serve and improve the content and functionality of our web site. 
+How Does CaringBridge Use Registration Information?
 
-We welcome your feedback about this web site. We use your feedback to improve our web site. For this reason, we ask that you not send us any comments, feedback, ideas, questions, designs, artwork, software or any other information or materials relating to the design, functionality, or operation of this web site or service (collectively, "Feedback") that you consider to be confidential or proprietary or that you do not wish to assign to us. By submitting Feedback to us, you assign to CaringBridge free of charge, all worldwide rights, title and interest in all copyrights and other intellectual property rights in the information and/or materials you submit. CaringBridge will be entitled to use any Feedback you submit through this web site, and any ideas, concepts, know-how or techniques contained in any such Feedback, to improve this web site, our service or for any other purpose whatsoever. However, CaringBridge will not use any Feedback you submit through this web site in a way that violates applicable privacy laws.
+CaringBridge uses the personal information you provide when you create or update a CaringBridge Page to create your CaringBridge Page and personalize our web site for you and your visitors. We also use this information you provide to compile statistics about our users and their use of our site. These statistics do not identify you personally. These statistics help us understand the needs and preferences of the groups we serve and improve the content and functionality of our web site. 
+
+How Does CaringBridge Use Survey Information?
+
+From time to time, we may post a survey on our web site or, if we have your contact information, we may send you a questionnaire or survey. Your participation in any survey is always voluntary. We compile statistical information from the responses to our surveys. These statistics do not identify you personally. These statistics help us understand the needs and preferences of the groups we serve and improve the content and functionality of our web site. 
+
+How Does CaringBridge Use Feedback?
+
+We welcome your feedback about this web site. We use your feedback to improve our web site. For this reason, we ask that you not send us any comments, feedback, ideas, questions, designs, artwork, software or any other information or materials relating to the design, functionality, or operation of this web site or service (collectively, "Feedback") that you consider to be confidential or proprietary or that you do not wish to assign to us. By submitting Feedback to us, you assign to CaringBridge free of charge, all worldwide rights, title and interest in all copyrights and other intellectual property rights in the information and/or materials you submit. CaringBridge will be entitled to use any Feedback you submit through this web site, and any ideas, concepts, know-how or techniques contained in any such Feedback, to improve this web site, our service or for any other purpose whatsoever. However, CaringBridge will not use any Feedback you submit through this web site in a way that violates applicable privacy laws. 
+
+How Does CaringBridge Use Journal Entries, Guestbook Entries and Photographs?
 
 CaringBridge Pages contain a great deal of personal information about the author of the CaringBridge Page, visitors to the CaringBridge Page, and other individuals. CaringBridge Pages, including journal entries, guestbook entries, and photographs, may be viewed by anyone who has access to the CaringBridge Page. For this reason, we offer password protection and let the author of the CaringBridge Page control the level of security that will apply to his or her CaringBridge Page. 
 
 In general, CaringBridge does not use the personal information contained in journal entries, guest book entries, or photographs, except to provide this online service to you, your friends and your family. We do, however, reserve the right to review the content of any CaringBridge Page, for example, if we receive a complaint about misuse of our web site. We reserve the right to delete any journal entry, guestbook entry or photograph and to take legal action against anyone who violates our Terms of Service. We reserve the right to disclose the content of any CaringBridge Page in response to a subpoena or as required by applicable law. Finally we reserve the right to disclose journal and guest book entries, photographs, and other information posted on this web site with law enforcement authorities if, in our sole judgment, the content of any posting violates any applicable law. 
+
+Does CaringBridge Share Personal Information With Others?
 
 CaringBridge shares personal information collected through this web site with third party vendors who act for or on behalf of CaringBridge. For example, when you make an online donation to CaringBridge, a third party processes your donation on our behalf. These third party vendors may need information about you in order to perform their functions. These companies are not authorized to use your personal information for any other purpose. 
 
@@ -52,7 +74,13 @@ CaringBridge sponsors include organizations, such as hospitals and other treatme
 
 There may be some other, limited circumstances in which we may share or transfer the information in our databases or the content of a CaringBridge Page to an unrelated third party, for example, to comply with a legal requirement, to enforce our Terms of Service, in response to a subpoena, to protect the security of our web site and the integrity of our databases, if we transfer the ownership or operation of our web site to another organization, if we merge with another organization, or in some similar event. Where appropriate, before disclosing personal information to a third party, CaringBridge will contractually require the third party to take adequate precautions to protect that information against unauthorized use or disclosure. 
 
-When you access this web site, we use standard web server technology to collect technical information, such as the name of your Internet service provider, its IP address, the name of your operating system (such as Windows® or MacIntosh®), your browser type (such as Netscape® or Internet Explorer®), the length of time you spend on our site during a visit, the pages you visit, and so on. This information does not identify you personally, and we do not attempt to tie this technical information to any of the personal information you provide. We use this information to improve our web site and make it more compatible with the technology used by our visitors. The author of a CaringBridge Page has a unique password that permits the author to update his or her CaringBridge Page and set the level of security for visitors to that CaringBridge Page. The author can select one of two levels of security for the visitors: 
+Technical Information Collected Through CaringBridge.org
+
+When you access this web site, we use standard web server technology to collect technical information, such as the name of your Internet service provider, its IP address, the name of your operating system (such as Windows® or MacIntosh®), your browser type (such as Netscape® or Internet Explorer®), the length of time you spend on our site during a visit, the pages you visit, and so on. This information does not identify you personally, and we do not attempt to tie this technical information to any of the personal information you provide. We use this information to improve our web site and make it more compatible with the technology used by our visitors. 
+
+Security
+
+The author of a CaringBridge Page has a unique password that permits the author to update his or her CaringBridge Page and set the level of security for visitors to that CaringBridge Page. The author can select one of two levels of security for the visitors: 
 
 **Level I** permits anyone who knows the web address (the "URL") of the CaringBridge Page to access the CaringBridge Page 
 
@@ -66,17 +94,21 @@ Every member of a caring community is responsible for maintaining the confidenti
 
 Although CaringBridge Pages are protected by Level I or Level II security, individuals using this web site must understand that the Internet is inherently insecure and no web site operator can guarantee that a web site is completely secure. CaringBridge does not warrant that this web site or any CaringBridge Page is secure or "hackerproof"; you use this web site solely at your own risk. 
 
+Links to Other Web Sites. 
+
 This Privacy Statement applies only to CaringBridge.org. CaringBridge.org contains links to web sites that are not operated by CaringBridge. The authors of CaringBridge Pages frequently post links to third party sites on their CaringBridge Pages. These links are provided as a service and do not imply any endorsement of the activities of these third-party web sites nor any association with their operators. CaringBridge does not control these web sites and is not responsible for their data practices. We urge you to review the Privacy Statement posted on any web site you visit before using the web site or providing any personal information about yourself. 
 
-If you have any questions about this Privacy Statement or concerns about the way CaringBridge processes your personal information, please contact us by writing:
+Questions About Our Privacy Statement. 
 
-CaringBridge   
+If you have any questions about this Privacy Statement or concerns about the way CaringBridge processes your personal information, please contact us by writing: CaringBridge   
 Attn: Privacy Concerns   
-4607 Beacon Hill, Suite 200   
-St. Paul, MN 55122 
+3440 Federal Dr, Suite 100   
+Eagan, MN 55122 
+
+Terms of Service
 
 Please see our Terms of Service agreement for the terms and conditions governing your use of the CaringBridge.org web site. 
 
-Updated November 11, 2003  
+Updated May 6, 2004   
   
 ---|---
