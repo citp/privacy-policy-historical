@@ -1,12 +1,29 @@
-> *The following text is extracted and transformed from the web2mail.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101003521id_/http%3A//web2mail.com/privacy.php%3Fuser_id%3D%26username%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2mail.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606233521id_/http%3A//web2mail.com/privacy.php%3Fuser_id%3D%26username%3D) for the most accurate reproduction.*
 
 # Web2Mail.com - Privacy policy
 
-* * *
+  
 
+
+[Advertise](https://web.archive.org/web/20020606233521id_/http%3A//web2mail.com/advertise.php?) your  
+business here  
+with Web2Mail  
+
+
+|    |  [](http://www.sitestats.com/) |    |    
+
+
+[Advertise](https://web.archive.org/web/20020606233521id_/http%3A//web2mail.com/advertise.php?) your  
+business here  
+with Web2Mail  
+
+
+|   
+---|---|---|---|---|---  
+  
 [<< Return to previous page](javascript:history.go\(-1\))
 
-## Web2Mail privacy policy
+### Web2Mail privacy policy
 
 This site is operated by Web2Mail Ltd (company number 3857685 whose registered office is at Roman House, 296 Golders Green Road, London, NW11 9PT UK). All correspondence should be sent to [info@web2mail.com](mailto:info@web2mail.com) or Web2Mail Ltd. 
 
@@ -18,7 +35,7 @@ We also use your email address to send to you from time to time a news letter wi
 
 We use your information to create information about you which we use to identify your preferences. This enables us to personalise offers, advertisements and services to suit your individual preferences. 
 
-We use cookies to recognise your user name when you sign in. The use of cookies means that you do not have to enter your user name more than once, thereby saving time while you enter our site. We only use cookies for your convenience whilst you are on our site. We do not use cookies in emails. The cookies simply make your use of our site easier, but if you prefer to use the site without utilising cookies, your browser can be set not to accept them at all. Information stored in cookies cannot be accessed by other web sites. 
+We use cookies to recognise your user name when you sign in. The use of cookies means that you do not have to enter your user name more than once, thereby saving time while you enter our site. We only use cookies for your convenience whilst you are on our site. The cookies simply make your use of our site easier, but if you prefer to use the site without utilising cookies, your browser can be set not to accept them at all. Information stored in cookies cannot be accessed by other web sites. 
 
 We promise: 
 
@@ -36,4 +53,4 @@ If you have any questions or comments about our privacy policy or the data which
 
 * * *
 
-© 2001 Web2Mail Ltd. All rights reserved. Use of this site is subject to the [site terms](https://web.archive.org/web/20011101003521id_/http%3A//web2mail.com/terms.php?user_id=&username=) and [privacy policy](https://web.archive.org/web/20011101003521id_/http%3A//web2mail.com/privacy.php?user_id=&username=).
+© 2002 Web2Mail Ltd. All rights reserved. Use of this site is subject to the [site terms](https://web.archive.org/web/20020606233521id_/http%3A//web2mail.com/terms.php?user_id=&username=) and [privacy policy](https://web.archive.org/web/20020606233521id_/http%3A//web2mail.com/privacy.php?user_id=&username=).
