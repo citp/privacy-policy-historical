@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journal.com.ph privacy policy that was archived on 2002-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020816061019id_/http%3A//www.journal.com.ph/index.cfm%3Fhandler%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journal.com.ph privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618130013id_/http%3A//www.journal.com.ph/index.cfm%3Fhandler%3Dpolicy) for the most accurate reproduction.*
 
 # Journal Online
 
