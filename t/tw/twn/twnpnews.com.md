@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twnpnews.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204103545id_/http%3A//www.twnpnews.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twnpnews.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308111247id_/http%3A//www.twnpnews.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
