@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nv.gov privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607161641id_/http%3A//psp.state.nv.us/IEM_POL_5.7.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nv.gov privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204232511id_/http%3A//psp.state.nv.us/IEM_POL_5.7.htm) for the most accurate reproduction.*
 
 # Department of Information Technology
 
