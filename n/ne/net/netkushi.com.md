@@ -1,51 +1,50 @@
-> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2002-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021001160523id_/http%3A//www.valuead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402054948id_/http%3A//netkushi.com/privacy.htm) for the most accurate reproduction.*
 
-# ValueAd.com - Online Marketing Experts
+# Privacy Policy Statement
 
-| 
+This is the web site of **Netkushi.com**. 
 
-ValueAd.com we believe that you the consumer should own and control your personal information. If you decide to share it anonymously with advertisers, then you should be fairly compensated for it. In general, we will not share your information with third parties without your permission and consent.
+Our postal address is   
+**surya nivas,goutham nagar,naiduthota  
+vizag,ap,530029**
 
-Member Profile. We create a Member Profile that is based upon: 
+We can be reached via e-mail at [contact@netkushi.com](mailto:contact@atozonweb.com)  
+or you can reach us by telephone at 0091-0891-520593 
 
-  * personal information given at registration and 
-  * where you surf on the web (URL addresses). 
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
+We collect only the domain name, but not the e-mail address of visitors to our Web page, the domain name and e-mail address (where possible) of visitors to our Web page.
 
+The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes.
 
-We use this Member Profile to match advertisements and offers to your interests. If at anytime you do not want us to collect data on your surfing habits during an online session, simply close the page. IP Address. We also collect the IP address of all visitors to the site. 
+With respect to cookies: We use cookies to store visitors preferences, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-  * Registration and Surveys. We collect information when you register for any of our services or participate in any surveys, contests, or other offers. If you are signing up through a co-branded ISP, website or service ("Participating Service"), some of your information may be pre-filled based upon your previous registration with the Participating Service. You may later modify your account information. 
-  * Ad Serving Technology. Our proprietary technology, tracks information on your web surfing and sends it to us for use in your Member Profile. The banner space then uses your information to display advertisements and offers that may be relevant to you. The banner space only transmits information directly to ValueAd.com, even if your membership is through a Participating Service. 
-  * Website collection of IP address. We record the IP address of every visit to our site. An IP address is a unique number assigned to a computer. It does not contain any personally identifying information and will not be linked to your Membership Profile. 
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
+From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
-  * We use the banner space to send you advertisements and offers from advertisers, merchants, vendors ("Advertisers") and the like based on your interests. For example, if your information indicates that you enjoy traveling, the banner space may display a message regarding discount airfares. We may aggregate anonymous Member Profiles into summaries of information based on specific criteria that we then use to solicit banner space advertisements and offers to forward to you. At no time do we share information that would identify you individually unless you sign up through a Participating Service (please see below). 
-  * If you choose to participate in a co-branded service such as internet access with a participating ISP, or another service or website, that Participating Service may have access to your Member Profile for account management purposes and to offer you better and more personalized content and services. These businesses have agreed not to share your information voluntarily with any outside parties. Please keep in mind that our co-branded Participating Services are separate from us, so we recommend you review their privacy policies, which may differ from ours concerning their collection and use of information. 
-  * We use your personal information to manage your account for the services you have selected. Our employees and other parties acting on our behalf may have access to your information on a need-to-know basis. We may also use aggregate data of our members for promotional, business development, market research, and other general business purposes. We use your IP Address for systems administration and business reporting purposes to create aggregate information on all visits to our website. 
-  * Our B-network service allows you to license information, including demographic and behavioral (surfing information) to Advertisers for a negotiated price. In addition, you can also elect to receive e-mail offers from an Advertiser for an agreed to price. Because e-mails are sent through ValueAd.com, your e-mail address remains private. Consumers are empowered with the ability to choose whether or not they want to exchange information and to determine the price. When you participate in B-network, your information remains anonymous to the party making the offer and is not personally identifiable. 
-  * We may share your information with third parties where we are required to do so by law or where necessary to protect our interests. We may share your information without prior notice to you where required by law. 
+If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
+calling us at the number provided above. 
 
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-Because we cannot control the practices of other websites, we are not responsible for the actions of any third parties linked by way of our services such as the banner space or B-network. For example, if you click on a banner ad, link, or logo appearing on the banner space or accept some other offer served through us, you may leave our website and interact directly with the website of that party. That party may collect and use information based upon a privacy policy different from this Privacy Statement. We assume no responsibility or liability for the actions, practices or policies of third parties, including any Participating Service, that is linked from our website, services, or banner space. When you click on ads and links via the banner space or participate in B-network, please carefully review the privacy policies and the terms of the specific offers you may receive from these parties if you want to know more about what information they collect and how it will be used.
+Persons who supply us with their telephone numbers on-line sending us e-mail at the above address.
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/privacy_policy/). 
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
 
-It is your responsibility to make sure that the information you provide us is correct, and to notify us of any changes. If at any time you want to view or correct your account information, you can do so by going to your account page, or by E-mailing us at [Support@ValueAd.com](mailto:Support@ValueAd.com)
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
-You may cancel your membership with us by emailing [Webmastrer@ValueAd.com](mailto:Webmastrer@ValueAd.com) at our customer service page. We will send an email to you to confirm your request. Your information may remain in our archives and records, but we will not use your information for a commercial purpose. We also reserve the right to maintain information on registered users who have violated our Membership Agreement or who have had their access to our website blocked in order to detect repeat offenders.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
-Security is one of the most important features of our website and banner space. Our website employs extensive encryption technologies to help secure your online communications with us. We also use passwords to protect access to your account. To protect your account information, you should not share your password with anyone. Although we make it a high priority to safeguard the security of your personal information, transmissions made by means of the Internet cannot be made absolutely secure. We assume no liability for disclosure of data due to errors in transmission or the unauthorized acts of third parties.
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above. 
 
-Children Under 13. We feel strongly about protecting the privacy of children. We will not collect or use any personal information from children we know to be under the age of thirteen, and will remove from our system any personal information from members we find out to be children under the age of thirteen.
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
 
-Children Between 13-18. If you are between the ages of 13-18, we do require parental/guardian consent. Please contact us for further details.
+Consumers can access this information by e-mail us at the above address. 
 
-If you have any questions regarding our privacy statement. Please contact us at [Support@ValueAd.com](https://web.archive.org/web/20021001160523id_/http%3A//www.valuead.com/Support@ValueAd.com)
+With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
 
-By becoming a member, or using our site or services, you signify your acceptance of this Privacy Statement. We reserve the right to add to, delete from, update, modify or otherwise change this Privacy Statement at any time, and will notify you of such modifications or will post the modified version on our website. Your continued use of any portion of our services following such notification or posting will constitute your acceptance of those modifications.   
-ALL PUBLISHERS SHELL LINK TO VALUEAD.COM PRIVACY POLICY 
-
-| 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
