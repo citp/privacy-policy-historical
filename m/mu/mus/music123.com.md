@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the music123.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204005832id_/http%3A//www.music123.com/customerservice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music123.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610154340id_/http%3A//www.music123.com/customerservice/privacy.aspx) for the most accurate reproduction.*
 
 # Music123 : Customer Service
 
