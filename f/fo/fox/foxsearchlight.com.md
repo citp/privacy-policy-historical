@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsearchlight.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602174000id_/http%3A//www.foxsearchlight.com/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsearchlight.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054817id_/http%3A//www.foxsearchlight.com/terms.htm) for the most accurate reproduction.*
 
 # Terms of Use | Privacy Policy
 
@@ -56,7 +56,7 @@ Fox FE uses reasonable administrative, technical, personnel and physical measure
 
 Visitors may review or delete personal information from our records. If you would like your personal information deleted, please contact us at feedbackus@fox.com. We will immediately delete your information from our database. However, there may be residual information that will remain within our databases that may or may not contain PII. This residual information will not be given to any other third party or used for any commercial purpose.
 
-If you would like to review your personal information in our records, or change any PII previously submitted, please go to [Member Center](http://foxus.rsc03.net/servlet/website/ResponseForm?MQNlEyLjNLlmf9epgr.40hkt).
+If you would like to review your personal information in our records, or change any PII previously submitted, please go to [Member Center](http://foxsearchlight.rsc03.net/servlet/website/ResponseForm?MrlsEf9epgryLjNLlm).
 
 7\. REMEDIES AND COMPLIANCE - HOW TO CONTACT FOX FE ABOUT PRIVACY CONCERNS:
 
@@ -69,7 +69,7 @@ If you have any issues or complaints regarding this Privacy Policy, please conta
 >  feedbackus@fox.com  
 > 
 
-CHILDREN'S PRIVACY POLICY[](https://web.archive.org/web/20030602174000id_/http%3A//www.foxsearchlight.com/child)
+CHILDREN'S PRIVACY POLICY[](https://web.archive.org/web/20031206054817id_/http%3A//www.foxsearchlight.com/child)
 
 1\. KIDS AND INTERNET SAFETY:
 
@@ -101,21 +101,21 @@ This Site may link directly to sites operated by Fox FE's advertisers, business 
 
 4\. REVIEWING AND MAKING CHANGES TO PII COLLECTED FROM CHILDREN UNDER 13:
 
-Parents of children under age 13 may review or delete personal information about their children from our records at any time. If you would like your child's personal information deleted, please contact us at [feedbackus@fox.com](mailto:feedbackus@fox.com). We will immediately delete your child's information from our database and refrain from collecting any other PII from your child, if you so request.
+Parents of children under age 13 may review or delete personal information about their children from our records at any time. If you would like your child's personal information deleted, please contact us at [weekendread@foxsearchlight.com](mailto:weekendread@foxsearchlight.com). We will immediately delete your child's information from our database and refrain from collecting any other PII from your child, if you so request.
 
-If you would like to review the personal information in our records submitted by your child, or change any PII previously submitted by your child, please go to [Member Center](http://foxus.rsc03.net/servlet/website/ResponseForm?MQNlEyLjNLlmf9epgr.40hkt) and follow the instructions.
+If you would like to review the personal information in our records submitted by your child, or change any PII previously submitted by your child, please go to [Member Center](http://foxsearchlight.rsc03.net/servlet/website/ResponseForm?MrlsEf9epgryLjNLlm) and follow the instructions.
 
 TERMS & CONDITIONS:
 
 Please read these terms of use carefully before using this site. If you do not agree with any of the below Terms of Use, please do not use this site. This site is governed by a Privacy Policy which can be found herein. Some sections of the site may have additional privacy practices which are described in detail at those specific locations. Fox reviews its Privacy Policies periodically and reserves the right to make revisions at any time. Fox encourages parents and children to review the Privacy Policies often for changes. Participant's continued use of the site after a change has been to the policies of the site implies Participant's assent to those changes.
 
-COPYRIGHTS, TRADEMARKS, & RESTRICTIONS TM and © 2002 TWENTIETH CENTURY FOX CORP., AND RELATED ENTITIES ("FOX"). ALL RIGHTS RESERVED. ALL MATERIALS CONTAINED IN THIS SITE, INCLUDING, BUT NOT LIMITED TO, IMAGES, ILLUSTRATIONS, AUDIO CLIPS, AND VIDEO CLIPS INCLUDING BUT NOT LIMITED TO TRAILERS, TV SPOTS AND ANY AND ALL AUDIO VISUAL MATERIALS (COLLECTIVELY łTHE MATERIAL˛) ARE PROTECTED BY COPYRIGHT AND TRADEMARK AND SHALL NOT BE USED FOR ANY PURPOSE WHATSOEVER OTHER THAN PRIVATE, NON-COMMERCIAL VIEWING PURPOSES. REPRODUCTION, DUPLICATION, DISTRIBUTION, DERIVATIVE WORKS, POSTING, AND OTHER UNAUTHORIZED COPYING OR USE OF THE MATERIAL CONTAINED HEREIN IS EXPRESSLY PROHIBITED.
+COPYRIGHTS, TRADEMARKS, & RESTRICTIONS TM and © 2002 TWENTIETH CENTURY FOX CORP., AND RELATED ENTITIES ("FOX"). ALL RIGHTS RESERVED. ALL MATERIALS CONTAINED IN THIS SITE, INCLUDING, BUT NOT LIMITED TO, IMAGES, ILLUSTRATIONS, AUDIO CLIPS, AND VIDEO CLIPS INCLUDING BUT NOT LIMITED TO TRAILERS, TV SPOTS AND ANY AND ALL AUDIO VISUAL MATERIALS (COLLECTIVELY „THE MATERIAL¾) ARE PROTECTED BY COPYRIGHT AND TRADEMARK AND SHALL NOT BE USED FOR ANY PURPOSE WHATSOEVER OTHER THAN PRIVATE, NON-COMMERCIAL VIEWING PURPOSES. REPRODUCTION, DUPLICATION, DISTRIBUTION, DERIVATIVE WORKS, POSTING, AND OTHER UNAUTHORIZED COPYING OR USE OF THE MATERIAL CONTAINED HEREIN IS EXPRESSLY PROHIBITED.
 
-Fox grants Participant a non-exclusive, non-assignable, and non-transferable license to use and display, for personal and noncommercial use only, one copy of any material that Participant may download from this site, including, but not limited to, any files, codes, audio, or images incorporated in or generated by the software (collectively łDownloaded Material˛) provided, however, that Participant maintains all copyright and other notices contained in such Downloaded Material. Participant acknowledges and agrees not to sublicense, assign, or otherwise transfer this license or the Downloaded Material. Participant also agrees not to alter, disassemble, decompile, reverse engineer, or otherwise modify the Downloaded Material. If Participant wishes to license any Fox Material, including but not limited to, Material contained in this site, please contact the Fox Clip Licensing Department at (310) 369-3605.
+Fox grants Participant a non-exclusive, non-assignable, and non-transferable license to use and display, for personal and noncommercial use only, one copy of any material that Participant may download from this site, including, but not limited to, any files, codes, audio, or images incorporated in or generated by the software (collectively „Downloaded Material¾) provided, however, that Participant maintains all copyright and other notices contained in such Downloaded Material. Participant acknowledges and agrees not to sublicense, assign, or otherwise transfer this license or the Downloaded Material. Participant also agrees not to alter, disassemble, decompile, reverse engineer, or otherwise modify the Downloaded Material. If Participant wishes to license any Fox Material, including but not limited to, Material contained in this site, please contact the Fox Clip Licensing Department at (310) 369-3605.
 
 USER'S AGREEMENT AND RULES OF CONDUCT FOR FOX SITE:
 
-Use and participation in Fox's Internet site is contingent upon Participantąs acceptance of the following terms and rules. By using this web site, Participant accepts these terms. For purposes of this agreement, "Participant" refers to you. "Fox" refers to Twentieth Century Fox, its parent, subsidiary and affiliated companies.
+Use and participation in Fox's Internet site is contingent upon Participant¼s acceptance of the following terms and rules. By using this web site, Participant accepts these terms. For purposes of this agreement, "Participant" refers to you. "Fox" refers to Twentieth Century Fox, its parent, subsidiary and affiliated companies.
 
 1\. RULES OF CONDUCT:
 
@@ -125,7 +125,7 @@ Use and participation in Fox's Internet site is contingent upon Participantąs a
 
 2\. SUBMISSIONS POLICY:
 
-Notwithstanding the above, Participant hereby waives any and all rights to any stories, ideas, drawings, opinions, and any other creative łmaterials˛ posted to the Fox site. Participant authorizes Fox to utilize, in any manner it sees fit and for eternity, the materials posted on the site, which shall become the property of Fox. Participant releases Fox from any and all claims or liability (now known or hereafter arising) in connection therewith, and agrees to indemnify Fox in connection therewith pursuant to the terms of Paragraph 3 below. Participant agrees and acknowledges that participation in the Fox site shall not give rise to any confidential, fiduciary, implied-in-fact, implied-in-law, contractual, or other special relationship between Fox and Participant (other than the contractual relationship between Fox and Participant entered into by virtue of Participantąs agreement to these Rules of Conduct.)
+Notwithstanding the above, Participant hereby waives any and all rights to any stories, ideas, drawings, opinions, and any other creative „materials¾ posted to the Fox site. Participant authorizes Fox to utilize, in any manner it sees fit and for eternity, the materials posted on the site, which shall become the property of Fox. Participant releases Fox from any and all claims or liability (now known or hereafter arising) in connection therewith, and agrees to indemnify Fox in connection therewith pursuant to the terms of Paragraph 3 below. Participant agrees and acknowledges that participation in the Fox site shall not give rise to any confidential, fiduciary, implied-in-fact, implied-in-law, contractual, or other special relationship between Fox and Participant (other than the contractual relationship between Fox and Participant entered into by virtue of Participant¼s agreement to these Rules of Conduct.)
 
 3\. RIGHTS OF FOX / DISCLAIMER OF LIABILITY:
 
@@ -135,7 +135,7 @@ The opinions expressed in the chat rooms and bulletin boards are not necessarily
 
 (b) Fox makes no warranties, express or implied, as to the content in the Fox site or the accuracy or reliability of any information or statements contained therein. All statements, advice and opinions made by Participants in Fox Chat Rooms and Bulletin Boards are those of such Participants only, and Fox neither endorses nor shall be held responsible for the reliability or accuracy of same. 
 
-(c) Fox is not responsible for the content or practices of third party Web sites that may be linked to a Fox site. This site may also be linked to Web sites operated by companies affiliated with Fox. Visitors to those sites should refer to each siteąs separate privacy policies and practices.
+(c) Fox is not responsible for the content or practices of third party Web sites that may be linked to a Fox site. This site may also be linked to Web sites operated by companies affiliated with Fox. Visitors to those sites should refer to each site¼s separate privacy policies and practices.
 
 4\. PARTICIPANT'S INDEMNIFICATION / OBLIGATIONS:
 
@@ -153,4 +153,4 @@ The Fox site contains neither expressed no implied warranties for use. Fox does 
 
 This site is operated by Fox from its headquarters in Los Angeles, California. Participants attempting to access this site from other locations do so of their own volition and shall comply with any applicable local laws governing interactive sites.
 
-© 2002 Twentieth Century Fox FE. All Rights Reserved. 
+© 2003 Twentieth Century Fox FE. All Rights Reserved. 
