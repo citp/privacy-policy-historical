@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217213937id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604181614id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.*
 
 # iHigh.com -- The High School Internet Network
 
 | | |  **Privacy Statement for iHigh.com**  
 ****
 
-**»[iHigh Corporate Sponsors](https://web.archive.org/0,1773,2_12_0_38153,00.html)   » [About Us](https://web.archive.org/0,1773,2_12_0_36677,00.html)   » [iHigh.com Staff Bios](https://web.archive.org/0,1773,2_12_0_36680,00.html)   » [Career Opportunities](https://web.archive.org/0,1773,2_12_0_36681,00.html)   » [Privacy Statement for iHigh.com](https://web.archive.org/0,1773,2_12_0_39558,00.html)   » [Join/Contribute](https://web.archive.org/0,1773,2_12_0_39557,00.html)   » [iHigh.com Partners](https://web.archive.org/0,1773,2_12_0_36682,00.html)   » [Linkback](https://web.archive.org/0,1773,2_12_0_36684,00.html)   » [In The News](https://web.archive.org/0,1773,2_12_0_36683,00.html)   » [iHigh Top 300 Schools](http://www.ihigh.com/hs_ranking.html)   » [Press Releases](https://web.archive.org/0,1773,1_13_0,00.html)   » [Contact](https://web.archive.org/national/static/contact/1,1947,,00.html)   **
+**»[About Us](https://web.archive.org/0,1773,2_12_0_36677,00.html)   » [Advertising and Marketing Programs](https://web.archive.org/0,1773,2_12_0_53573,00.html)   » [Privacy Statement for iHigh.com](https://web.archive.org/0,1773,2_12_0_39558,00.html)   » [iHigh Corporate Sponsors](https://web.archive.org/0,1773,2_12_0_38153,00.html)   » [iHigh.com Staff Bios](https://web.archive.org/0,1773,2_12_0_36680,00.html)   » [Career Opportunities](https://web.archive.org/0,1773,2_12_0_36681,00.html)   » [Join/Contribute](https://web.archive.org/0,1773,2_12_0_39557,00.html)   » [iHigh.com Partners](https://web.archive.org/0,1773,2_12_0_36682,00.html)   » [Linkback](https://web.archive.org/0,1773,2_12_0_36684,00.html)   » [In The News](https://web.archive.org/0,1773,2_12_0_36683,00.html)   » [iHigh Top 300 Schools](http://www.ihigh.com/hs_ranking.html)   » [Press Releases](https://web.archive.org/0,1773,1_13_0,00.html)   » [Contact](https://web.archive.org/national/static/contact/1,1947,,00.html)   **
 
-**Jan 01, 2001** \- [](https://www.truste.org/validate/7584) This confirms that iHigh.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for[ http://www.ihigh.com](http://www.ihigh.com/). If you have questions or concerns regarding this statement, you should first contact Tim Letcher by email at [tim.letcher@ihigh.com](mailto:tim.letcher@ihigh.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+**Jan 08, 2002** \- [](https://www.truste.org/validate/7584) This confirms that iHigh.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for[ http://www.ihigh.com](http://www.ihigh.com/). If you have questions or concerns regarding this statement, you should first contact Tim Letcher by email at [tim.letcher@ihigh.com](mailto:tim.letcher@ihigh.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 iHigh.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.ihigh.com](http://www.ihigh.com/). 
 
@@ -19,15 +19,19 @@ Our site uses cookies to make sure you don't see the same ad repeatedly. We use 
 
 This site contains links to other web sites that may set cookies. iHigh.com is not responsible for the privacy practices or the content of such Web sites. We recommend that you view the privacy policies of other web sites that link to and from our site. 
 
+## Order Forms
+
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications and bill the user for products and services. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+
 ## Registration
 
-Our site's registration forms require users to give us contact information (like their name, email, address, and phone number), and demographic information (like their title, high school name, and student body size). Places where personal information is collected include our "Contact Us" form (where we ask for name, company, email, address, and fax and phone number), and our "Be an iHigh SID" form (where we ask for name, school, email, address, and phone number). This information is used to contact the visitor in order to respond to specific requests for information, or to send information to the visitor on how they can become an iHigh School Information Director (SID). This information is not shared with advertisers or any affiliate company. 
+Our site's registration forms require users to give us contact information (like their name, email, address, and phone number), and demographic information (like their title, age, high school name, and student body size). Places where personal information is collected include our "Contact Us" form (where we ask for name, company, email, address, and fax and phone number), and our "Be an iHigh SID" form (where we ask for name, school, email, address, and phone number). This information is used to contact the visitor in order to respond to specific requests for information, or to send information to the visitor on how they can become an iHigh School Information Director (SID). This information is not shared with advertisers or any affiliate company. 
 
 We also ask for personal information in our "Join iHigh.com" form (where we ask for name, title, email, phone number, address, high school name, mascot name, and student body size). We use this information to send the user a confirmation letter and information about our company via email. The customer's contact information is also used to contact the visitor regarding weekly updates and suggestions on how to improve their site, as well as to provide technical support. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 ## Contests
 
-We run contests on our site in which we ask visitors for contact information (like their name, email, address, and phone number), and demographic information (like their school name, gender, grade, and age). This information is collected by our marketing department and we use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. The customer's contact information is used to contact the visitor only when winners are chosen. 
+We run contests on our site in which we ask visitors for contact information (like their name, email, address, and phone number), and demographic information (like their school name, gender, grade, and age). This information is collected by our marketing department and we use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings. 
 
 If there is any change in the way iHigh intends to use this personal information, we will notify users at least 30 days in advance of our intention and, if applicable, provide users with an opportunity to opt out of these changes. 
 
@@ -55,13 +59,13 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. You may change your contact information (such as email, address, or phone number), or demographic information (such as school name, title, or student body size). 
 
-  1. Log on to [go.ihigh.com](https://web.archive.org/web/20011217213937id_/http%3A//www.ihigh.com/go.ihigh.com) and click on "Help." 
+  1. Log on to [go.ihigh.com](https://web.archive.org/web/20020604181614id_/http%3A//www.ihigh.com/go.ihigh.com) and click on "Help." 
 
 
 
 ## Partners
 
-In order to present content representing a wide range of interests and specialization, our site partners with other web sites and servers. Our audio/video streams are powered by Activate.net, and our ad servers by Real Media. Certain other content is obtained through co-branded pages with other web sites, including but not limited to Standard Deviants, MapQuest, and The Princeton Review. These co-branded pages are used solely for the purpose of presenting content we think is relevant to our audience. No contact information is shared with them.
+In order to present content representing a wide range of interests and specialization, our site partners with other web sites and servers. Our audio/video streams are powered by Alinq. Certain other content is obtained through co-branded pages with other web sites, including but not limited to Standard Deviants, MapQuest, and The Princeton Review. These co-branded pages are used solely for the purpose of presenting content we think is relevant to our audience. No contact information is shared with them.
 
 ## Contacting the Web Site
 
