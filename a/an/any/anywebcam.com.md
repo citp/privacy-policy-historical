@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anywebcam.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023206id_/http%3A//www.anywebcam.com/awc/html/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anywebcam.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213120id_/http%3A//anywebcam.com/awc/html/legal/privacy.html) for the most accurate reproduction.*
 
 # ANYwebcam.com :: Privacy Policy Statement
 
