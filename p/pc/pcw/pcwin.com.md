@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcwin.com privacy policy that was archived on 1999-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991013093530id_/http%3A//pcwin.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcwin.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215161700id_/http%3A//pcwin.com/privacy_statement.html) for the most accurate reproduction.*
 
 # PCWin Resource Center - Privacy Statement
 
@@ -44,7 +44,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [webmaster@pcwin.com](mailto:webmaster@pcwin.com)
+  1. You can send email to [webmaster@pcwin.com](mailto:webmaster@pcwin.com?Subject=Privacy%20Statement)
 
 
 
@@ -52,15 +52,15 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [webmaster@pcwin.com](mailto:webmaster@pcwin.com)
+  1. email [webmaster@pcwin.com](mailto:webmaster@pcwin.com?Subject=Privacy%20Statement)
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contactRandy Burgess Internet Information Solutions, Inc. PO Box 338 Travelers Rest, SC 29690 randy@pcwin.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contactRandy Burgess Internet Information Solutions, Inc. PO Box 338 Travelers Rest, SC 29690 [randy@pcwin.com](mailto:randy@pcwin.com)
 
 * * *
 
   
-[Home](https://web.archive.org/index.html) | [Software](https://web.archive.org/software) | [Freeware](https://web.archive.org/freeware) | [Add Software](https://web.archive.org/submit.software1.html) | [Problem Report](https://web.archive.org/problem.report.html) | [Advertising](https://web.archive.org/sponsor.html) | [Latest Report](https://web.archive.org/subscribe1.html) | [Search](https://web.archive.org/query.html) This website dedicated to Ann H. Burgess, 1936-1998.
+This website dedicated to Ann H. Burgess
