@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richdad.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604062446id_/http%3A//www7.richdad.com/privacyPolicy.m) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdad.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205114114id_/http%3A//www7.richdad.com/privacyPolicy.m) for the most accurate reproduction.*
 
 # RichDad.com | Privacy Policy
 
@@ -30,5 +30,5 @@ We are here to help you learn how to make investment and personal finance decisi
 
 If you have further questions, e-mail: [privacy@richdad.com](mailto:privacy@richdad.com)
 
-[](https://web.archive.org/web/20020604062446id_/http%3A//www7.richdad.com/emailPage.m)   
+[](https://web.archive.org/web/20021205114114id_/http%3A//www7.richdad.com/emailPage.m)   
 
