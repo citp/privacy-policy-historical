@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advanstarhealthcare.com privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219053337id_/http%3A//www.advanstarhealthcare.com/hcg/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanstarhealthcare.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618011620id_/http%3A//www.advanstarhealthcare.com/hcg/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Healthcare Group - Privacy Policy
 
