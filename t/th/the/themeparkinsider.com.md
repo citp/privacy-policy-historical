@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402200815id_/http%3A//www.themeparkinsider.com/parks/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401134322id_/http%3A//www.themeparkinsider.com/parks/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy policy
 
-  
 **[Theme Park Insider](https://web.archive.org/) > Privacy policy**
 
 ThemeParkInsider.com accepts and collects information from its visitors. Users are required to register with the site - providing their name, hometown and e-mail address - in order to vote or comment on theme park locations. Registered users may also participate on our News and Commentary board, although registration is not required to use that feature.
@@ -19,7 +18,9 @@ Individuals under age 18 should make their parents aware of this privacy policy 
 
 ThemeParkInsider.com runs advertising on selected pages of the site, including links to Amazon.com and Lodging.com (as part of those online retailers' associates programs). When a user follows a link from ThemeParkInsider.com to Amazon.com, Lodging.com or another advertiser's site, he or she leaves the ThemeParkInsider.com web site, and the terms of this privacy policy no longer apply.
 
-These pages are in no way affiliated with nor endorsed by Blackpool Pleasure Beach, Busch Entertainment, Cedar Fair, Dollywood Company, Legoland, Oriental Land Company, Paramount Parks, Tivoli Entertainment, Tussaud's Group, Six Flags, Universal Studios or the Walt Disney Company. Images on these pages, except where noted, are © the author, but may depict marks held by the above companies. Those images, and any text trademarks, are included here solely for the purpose of eliciting [fair use](http://cyber.law.harvard.edu/metaschool/Fisher/integrity/Links/Cases/newkids.html) comment and criticism from the public. For more on intellectual property, visit [Chilling Effects](http://www.chillingeffects.org/).  
+Have a correction or addition to something on this page? Please [e-mail the editor](https://web.archive.org/parks/email.cfm).
+
+These pages are in no way affiliated with nor endorsed by Busch Entertainment, Cedar Fair, Legoland, Paramount Parks, Tussaud's Group, Six Flags, Universal Studios, the Walt Disney Company or any other theme park company. Images on these pages, except where noted, are © the author, but may depict marks held by the above companies. Those images, and any text trademarks, are included here solely for the purpose of eliciting [fair use](http://cyber.law.harvard.edu/metaschool/Fisher/integrity/Links/Cases/newkids.html) comment and criticism from the public. For more on intellectual property, visit [Chilling Effects](http://www.chillingeffects.org/).  
 
 
   
