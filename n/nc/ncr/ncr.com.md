@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603012739id_/http%3A//www.ncr.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405132449id_/http%3A//www.ncr.com/privacy.htm) for the most accurate reproduction.*
 
 # NCR - Privacy Policy and Data Protection Principles
-
-[](https://www.truste.org/validate/3534)
 
 **NCR's Position on Privacy and Data Protection**
 
@@ -14,7 +12,7 @@ NCR believes that individuals have the right to be informed about the informatio
 
 **Our Web Site**
 
-When you visit us at [www.ncr.com](https://web.archive.org/index.htm) we want you to feel secure that NCR is respecting your privacy. In fact, the only private information we have about you is the information you choose to give us by filling out a form or providing feedback. We do not give that information to third parties without notifying you on the form and getting your consent. 
+When you visit us at [www.ncr.com](https://web.archive.org/index1.htm) we want you to feel secure that NCR is respecting your privacy. In fact, the only private information we have about you is the information you choose to give us by filling out a form or providing feedback. We do not give that information to third parties without notifying you on the form and getting your consent. 
 
 We may use "cookies" on some pages of our site, simply to help us serve you better each time you return. A cookie is a small element of data that a Web site can send to your browser, which may then store it on your system. 
 
