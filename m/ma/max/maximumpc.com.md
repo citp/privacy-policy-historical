@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximumpc.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204100459id_/http%3A//www.maximumpc.com/others/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximumpc.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193420id_/http%3A//maximumpc.com/others/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -47,6 +47,4 @@ Also, you may receive mailings from other reputable companies. You may, however,
 Persons who supply us with their telephone numbers online may receive telephone contact from us regarding orders they have placed online. You also may receive telephone contact from other reputable companies. You may, however, have your name put on our do-not-share list by contacting us through the email address or telephone number listed below. When doing so, please provide us with your correct phone number. We will remove your name from the phone list we share with other organizations
 
 |   
-|  [](http://www.plextorshop.com/)   
-[](http://www.monarchcomputer.com/)   
-
+| 
