@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.com.au privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202040241id_/http%3A//careerone.com.au/privacy/0%2C8521%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.com.au privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207045037id_/http%3A//careerone.com.au/privacy/0%2C8521%2C%2C00.html) for the most accurate reproduction.*
 
 # CareerOne - Privacy Policy
 
@@ -66,7 +66,6 @@ For further information
 
 Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
 
-Brook Milbank   
 Privacy Officer   
 News Interactive   
 [privacy@news.com.au](mailto:privacy@news.com.au)   
