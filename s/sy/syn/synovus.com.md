@@ -1,26 +1,10 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409153804id_/http%3A//www.synovus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218151057id_/http%3A//www.synovus.com/synovus/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Information
+# Our Privacy Covenant
 
-[](https://web.archive.org/web/20010409153804id_/http%3A//www.synovus.com/infocntr/)  
-  
-[](https://web.archive.org/web/20010409153804id_/http%3A//www.synovus.com/snv/)  
-  
-[](https://web.archive.org/web/20010409153804id_/http%3A//www.synovus.com/banking/)  
-  
-[](https://web.archive.org/web/20010409153804id_/http%3A//www.synovus.com/ssi/)  
-  
-[](https://web.archive.org/web/20010409153804id_/http%3A//www.synovus.com/stc/)  
-  
-[](https://web.archive.org/web/20010409153804id_/http%3A//www.synovus.com/slc/)  
-  
-[](https://web.archive.org/web/20010409153804id_/http%3A//www.synovus.com/careers/)  
-|   | 
+| 
 
-  
-**Our privacy covenant**
-
- **With the customers of the following affiliates of Synovus Financial Corp.:**
+With the customers of the following affiliates of Synovus Financial Corp.:
 
 Athena Service Corporation (Athens, GA)  
 Athens First Bank & Trust Co.  
@@ -186,7 +170,4 @@ Our commitment to you is to handle your financial matters with discretion, treat
 
 Please note: Third parties may have access to information related to our customers that has been obtained independently from us (for example: through credit rating agencies or public real estate records). Mailings or solicitations based on this information are not within our control.
 
-March 2001. This covenant supercedes any previous privacy statement issued.   
- 
-
-|  
+March 2001. This covenant supersedes any previous privacy statement issued.
