@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2003-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031226050641id_/http%3A//www.whitehouse.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630142220id_/http%3A//www.whitehouse.gov/privacy.html) for the most accurate reproduction.*
 
 # White House Website Privacy and Security Policy
 
