@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvell.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203193300id_/http%3A//www.marvell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvell.com privacy policy that was archived on 2001-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010210105905id_/http%3A//www.marvell.com/privacy.htm) for the most accurate reproduction.*
 
 # MARVELL - moving forward F A S T E R
 
