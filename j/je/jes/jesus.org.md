@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2003-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030629043424id_/http%3A//www.jesus.org/audiohelp/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2003-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031020214022id_/http%3A//www.jesus.org/audiohelp/privacypolicy.asp) for the most accurate reproduction.*
 
 # Crosswalk.com
 
