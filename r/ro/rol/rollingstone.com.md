@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607183715id_/http%3A//www.rollingstone.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201101812id_/http%3A//www.rollingstone.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # RollingStone.com
 
-**Privacy Policy**
-
-RollingStone.com has created this privacy statement in order to demonstrate our commitment to privacy. You **MUST** read the following **Privacy Policy**. Agreement with these policies is a condition of use of the site, whether as a registered user or a guest. Be sure to understand what information is gathered and for what purpose before entering the site.  
-
+RollingStone.com has created this privacy statement in order to demonstrate our commitment to privacy. You **MUST** read the following **Privacy Policy**. Agreement with these policies is a condition of use of the site, whether as a registered user or a guest. Be sure to understand what information is gathered and for what purpose before entering the site. 
 
 **Before you register with RollingStone.com**  
 
