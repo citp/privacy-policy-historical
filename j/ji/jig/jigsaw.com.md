@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsaw.com privacy policy that was archived on 2003-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031017151549id_/http%3A//www.spilsbury.com/webapp/wcs/stores/servlet/ContactView%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D30001%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsaw.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605193926id_/http%3A//www.spilsbury.com/webapp/wcs/stores/servlet/ContactView%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D30001%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Spilsbury - We Deliver Fun!
 
