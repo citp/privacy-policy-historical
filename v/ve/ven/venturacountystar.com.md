@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venturacountystar.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217213944id_/http%3A//web.insidevc.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venturacountystar.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604000513id_/http%3A//web.insidevc.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # InsideVC.com
 
@@ -26,8 +26,6 @@ II. Use of User Information
 
 We may perform statistical analyses of aggregate user behavior. This allows us to measure relative consumer interest in the various areas of our web sites for product development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our site(s), to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent
 
-InsideVC.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <<http://www.flycast.com/about_us/about-privacy.html>>. Please let me know when you have this set up. 
-
 III. Disclosure to Third Parties
 
 We do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
@@ -53,5 +51,5 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 VII. Use of Materials
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [e-mail address]. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20011217213944id_/http%3A//web.insidevc.com/info/user.shtml).  
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [e-mail address]. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20020604000513id_/http%3A//web.insidevc.com/info/user.shtml).  
 
