@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diplomatie.be privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003011542id_/http%3A//www.diplomatie.be/en/Privacy/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diplomatie.be privacy policy that was archived on 2004-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040414064740id_/http%3A//www.diplomatie.be/en/Privacy/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy
 
