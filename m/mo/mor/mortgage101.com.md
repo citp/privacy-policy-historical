@@ -1,40 +1,16 @@
-> *The following text is extracted and transformed from the mortgage101.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101025817id_/http%3A//www.mortgage101.com/partner-scripts/privacy.asp%3Fp%3Dmtg101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgage101.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607192017id_/http%3A//www.mortgage101.com/partner-scripts/privacy.asp%3Fp%3Dmtg101) for the most accurate reproduction.*
 
 # Mortgage 101 Privacy Policy
-
-[](http://www.mortgage101.com/partner-scripts/stateLoansLive.asp?p=mtg101)| [](http://nt.mortgage101.com/partner-scripts/default.asp?p=mtg101)  
----  
-[](http://nt.mortgage101.com/partner-scripts/application.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/appraisals.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/bankruptcy.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/calculators.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/commercial.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/credit.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/downpayment.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/fhaloans.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/insurance.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/interestrates.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/loanprograms.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/refinance.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/relocation.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/secondmortgage.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/valoans.asp?p=mtg101)  
-[](http://nt.mortgage101.com/partner-scripts/directory.asp?p=mtg101)  
-Newsletter  
-  
- __  
-  
-### Mortgage 101 Privacy Policy
 
 [Mortgage 101](http://www.mortgage101.com/), produced by [LionInc.com](http://www.lionchoice.com/), gives consumers current interest rate and various mortgage vehicles to assist in home financing. As an Mortgage 101 participant in our home financing service, each selected broker agrees with and is committed to Mortgage 101’s policies for consumer privacy. 
 
 To process customer home financing requests and keep customers informed, customers must provide their names, e-mail and street addresses, telephone numbers, income and other financial data. All of this information is stored in a secure manner and is not accessible through the Internet. 
 
-#### Who We Are
+Who We Are
 
 Mortgage 101 is a Internet service that allows its customers to research interest rates and mortgage vehicles for home financing. Mortgage 101 presents the customer with various mortgage options from respective mortgage companies. Mortgage 101 allows its visitors the opportunity to save money through a process often preferred over the traditional retail purchasing channels. 
 
-#### Privacy Statement
+Privacy Statement
 
   * We respect your privacy and value your trust in us. We will do everything in our power to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family.
   * We do not collect the names or addresses of visitors to the Mortgage 101 web site.
