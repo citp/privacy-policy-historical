@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lelong.com.my privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101172523id_/http%3A//lelong.com.my/Auc/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lelong.com.my privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604134023id_/http%3A//auc.buysell.com.my/Auc/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
 
-# Lelong Internet Auction and Trading Community
+# Malaysia Auction & Online Shopping
 
 **_Interbase Resources Privacy Policy Statement_**
 
-This is the website of lelong.com.my, a personal auction service provided by Interbase Resources Sdn.Bhd. (IRSB). Our postal and office address is 
+This is the website of buysell.com.my, a personal auction service provided by Interbase Resources Sdn.Bhd. (IRSB). Our postal and office address is 
 
 > > 1-2, 1st Floor, Jalan SS23/15, Taman SEA   
 > 47400 Petaling Jaya  
@@ -12,7 +12,7 @@ This is the website of lelong.com.my, a personal auction service provided by Int
 >> 
 >> Tel : 603-7880 2823 Fax : 603-7880 1823
 >> 
->> E-mail : [support@lelong.com.my](mailto:support@lelong.com.my)
+>> E-mail : [feedback@buysell.com.my](mailto:feedback@buysell.com.my)
 
 As a fully internet based company providing web services to the public, Interbase Resources Sdn.Bhd is committed to safeguarding your privacy online. Please read the following regarding the use of personal Information. 
 
@@ -32,7 +32,7 @@ In addition, we use cookies on certain pages of our site, for example in "My Lel
 
 If you choose to bid, buy or sell on our site, we collect information about your bidding, buying and selling behavior. We also collect other users’ comments about you in our feedback area. 
 
-If you choose to establish a credit account with us, we collect some additional information, including billing address, and your credit cards details. If you choose to post messages in our dicussion rooms or other message areas or leave feedback for other users, we will collect such information about you as you choose to disclose. 
+If you choose to establish a credit account with us, we collect some additional information, including billing address, and your credit cards details. If you choose to post messages in our discussion rooms or other message areas or leave feedback for other users, we will collect such information about you as you choose to disclose. 
 
 _**What We Do With Information Collected**_
 
@@ -59,4 +59,4 @@ IRSB assures all members of the following : - Copies and details of the IC / dri
 
 IRSB reserve the right to release the information or IC in print, shall there be any report on potential fraud or trade dispute arise from members. User IC will then be make available for relevant party involve in the investigation or in resolving the fraud or dispute. 
 
-**This Privacy Policy is incorporated into and subject to the terms of the lelong.com.my User Agreement.**
+**This Privacy Policy is incorporated into and subject to the terms of the buysell.com.my User Agreement.**
