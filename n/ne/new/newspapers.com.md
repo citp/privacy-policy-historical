@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newspapers.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613051309id_/http%3A//www.newspapers.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspapers.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215011846id_/http%3A//www.newspapers.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[](http://www.webtraffic.com/bclick.php?12269791)
+[ ](http://www.revenize.net/freephone/Offer.php?CID=3709)
 
 **  **
 
@@ -16,4 +16,4 @@ We use an outside ad company to display ads on our site. Ads may contain cookies
 
 We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please _click here_.    _<http://www.sonar.com/content/privacy.htm>_
 
-[](http://www.webtraffic.com/bclick.php?12269791)
+[](http://www.revenize.net/freephone/Offer.php?CID=3709)
