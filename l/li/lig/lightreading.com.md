@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightreading.com privacy policy that was archived on 2001-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010811193834id_/http%3A//www.lightreading.com/document.asp%3Fdoc_id%3D4503) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightreading.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406040017id_/http%3A//www.lightreading.com/document.asp%3Fdoc_id%3D4503) for the most accurate reproduction.*
 
 # Light Reading - The Global Site For Optical Networking
 
@@ -35,9 +35,9 @@ Because Light Reading cannot predict, control or be responsible for information 
 Light Reading uses good faith efforts to limit our employees’ access to your personally identifiable information to the amount reasonably required to provide prompt, high quality service.
 
 **Update Your Profile**  
-Please help us to provide you with the highest quality and most efficient service by ensuring that your registration profile is current and complete. To edit your profile, visit our [User Preferences](https://web.archive.org/web/20010811193834id_/http%3A//www.lightreading.com/register/user_lists.asp) page.
+Please help us to provide you with the highest quality and most efficient service by ensuring that your registration profile is current and complete. To edit your profile, visit our [User Preferences](https://web.archive.org/web/20020406040017id_/http%3A//www.lightreading.com/register/user_lists.asp) page.
 
-Due to the Internet’s rapidly evolving nature, Light Reading may need to update this Privacy Policy from time to time. If so, Light Reading will post its updated policy at [www.lightreading.com](https://web.archive.org/web/20010811193834id_/http%3A//www.lightreading.com/document.asp?doc_id=4503). Light Reading encourages you to review this Privacy Policy regularly for any changes.
+Due to the Internet’s rapidly evolving nature, Light Reading may need to update this Privacy Policy from time to time. If so, Light Reading will post its updated policy at [www.lightreading.com](https://web.archive.org/web/20020406040017id_/http%3A//www.lightreading.com/document.asp?doc_id=4503). Light Reading encourages you to review this Privacy Policy regularly for any changes.
 
 **Questions?**  
 If you have any questions or suggestions about our privacy or security policies, please feel free to contact us at [support@lightreading.com](mailto:support@lightreading.com).
@@ -46,10 +46,7 @@ If you have any questions or suggestions about our privacy or security policies,
 
 |   |  |  |   
   
-[](https://web.archive.org/ad_redirect.asp?ad_version=2&ad_id=283&ad_url=http%3A%2F%2Fwww%2Ezumanetworks%2Ecom%2FLR003%2Ehtml)   
+[](https://web.archive.org/ad_redirect.asp?ad_version=2&ad_id=380&ad_url=http%3A%2F%2Fwww%2Eadvaoptical%2Ecom)   
   
-[](https://web.archive.org/ad_redirect.asp?ad_version=2&ad_id=296&ad_url=http%3A%2F%2Fwww%2Elightreading%2Ecom%2Fregister%2Fregister%5Fnew%2Easp)   
-  
-[](https://web.archive.org/employment/)   
-[](http://www.opticon2001.com/)   
-[](http://www.lightspeedeurope.com/)
+[](https://web.archive.org/ad_redirect.asp?ad_version=2&ad_id=296&ad_url=http%3A%2F%2Fwww%2Elightreading%2Ecom%2Fregister%2Fregister%5Fnew%2Easp) [](https://web.archive.org/employment/)   
+
