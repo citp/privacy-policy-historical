@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencemadesimple.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207082221id_/http%3A//www.sciencemadesimple.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencemadesimple.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409073554id_/http%3A//www.sciencemadesimple.com/privacy.html) for the most accurate reproduction.*
 
 # Science Made Simple Privacy Policy
 
@@ -46,7 +46,7 @@ When customers supply us with their telephone numbers on order forms, they will 
 
 4) **ADVERTISEMENTS**
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: amazon.com, linkshare.com, cj.com and verio.com. 
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Amazon.com, Commission Junction (cj.com), Valueclick (valueclick.com) and Verio (verio.com). 
 
 5) **NEW USES OF INFORMATION**
 
