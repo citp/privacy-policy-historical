@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redherring.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206015900id_/http%3A//www.redherring.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redherring.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603084450id_/http%3A//www.redherring.com/index.asp%3Flayout%3Dprivacy_statment) for the most accurate reproduction.*
 
-# Redherring.com | Red Herring Communications
+# RedHerring.com | The Business of Innovation
 
    
 **RED HERRING  
@@ -71,15 +71,15 @@ Suite 450
 San Francisco, CA 94103  
 [Privacy@redherring.com](mailto:privacy@redherring.com)
 
-|    |   
-|  | [Red Herring Press Releases](https://web.archive.org/about/press.html)  
+|  |    
+|  |  Red Herring Press Releases  
 ---|---  
 | [Media Kit](http://www.redherringmedia.com/)  
-| [Red Herring Team](https://web.archive.org/about/team.html)  
-| [Redherring.com](https://web.archive.org/about/online.html)  
-| [Red Herring Magazine](https://web.archive.org/about/magazine.html)  
-| [Red Herring Events](https://web.archive.org/about/events.html)  
-| [Redherring.com Partnerships](https://web.archive.org/about/online_partners.html)  
-| [Permissions](https://web.archive.org/about/permissions.html)  
-| [Jobs at Red Herring](https://web.archive.org/about/jobs.html)  
-| [Contact Us](https://web.archive.org/about/contact.html)
+| [Red Herring Team](https://web.archive.org/web/20010603084450id_/http%3A//www.redherring.com/index.asp?layout=red_team)  
+| [Redherring.com](https://web.archive.org/web/20010603084450id_/http%3A//www.redherring.com/index.asp?layout=red_com)  
+| [Red Herring Magazine](https://web.archive.org/web/20010603084450id_/http%3A//www.redherring.com/index.asp?layout=red_magazine)  
+| [Red Herring Events](https://web.archive.org/web/20010603084450id_/http%3A//www.redherring.com/index.asp?layout=red_events)  
+| [RedHerring.com Partnerships](https://web.archive.org/web/20010603084450id_/http%3A//www.redherring.com/index.asp?layout=red_partnerships)  
+| [Permissions](https://web.archive.org/web/20010603084450id_/http%3A//www.redherring.com/index.asp?layout=permissions)  
+| [Jobs at Red Herring](https://web.archive.org/web/20010603084450id_/http%3A//www.redherring.com/index.asp?layout=employment)  
+| [Contact Us](https://web.archive.org/web/20010603084450id_/http%3A//www.redherring.com/index.asp?layout=contact_us)
