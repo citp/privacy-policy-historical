@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upstate.edu privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203034551id_/http%3A//www.upstate.edu/homepage/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upstate.edu privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609192641id_/http%3A//www.upstate.edu/homepage/privacy.shtml) for the most accurate reproduction.*
 
 # SUNY Upstate Medical University: About Syracuse and Central New York
 
