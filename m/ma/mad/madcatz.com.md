@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the madcatz.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209190612id_/http%3A//www.madcatz.com/MadCatz/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madcatz.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604090235id_/http%3A//www.madcatz.com/MadCatz/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Mad Catz, Inc. - Privacy Policy
 
-Mad Catz, Inc. respects the privacy rights of its online audience and customers, and is committed to protecting the information collected about you. We have created a Privacy Policy that provides a map of how we collect, store and use the information that is collected via online forms, contests and sweepstakes.
+Mad Catz, Inc. respects the privacy rights of its online audience and customers, and is committed to protecting the information collected about you. We have created a Privacy Policy that provides a map of how we collect, store, and use the information that is collected via online forms, contests, and sweepstakes.
 
-Please note that this Privacy Policy applies to the Mad Catz, Inc. web site (www.madcatz.com) only and not of its affiliates or third-party links outside of the www.madcatz.com domain name. In addition, Mad Catz, Inc. owns several other domain names that point to the www.madcatz.com domain name.
+Please note that this Privacy Policy applies to the Mad Catz, Inc. website (www.madcatz.com) and the GameShark.com website only, and not to any of its affiliates or third-party links outside of the www.madcatz.com and www.gameshark.com domain names. In addition, Mad Catz, Inc. owns several other domain names that point to the www.madcatz.com domain name.
 
 If you have any questions, complaints, or feedback regarding our Privacy Policy, please feel free to contact the site operator at:
 
-Jacob Robinson  
-[webcat@madcatz.com](mailto:webcat@madcatz.com)  
+Randy Lee   
+[webmaster@madcatz.com](mailto:webcat@madcatz.com)  
 Phone: 1 (619) 683-9830  
 Fax: 1 (619) 683-9839
 
@@ -19,7 +19,7 @@ Mad Catz, Inc.
 Suite 101  
 San Diego, California 92108
 
-The site operator maintains the collection of all information obtained through the web site that is submitted via online forms, contests and sweepstakes, and the uses of collected information.
+The site operator maintains the collection of all information obtained through the website that is submitted via online forms, contests, and sweepstakes, and the uses of collected information.
 
 **Information Collected via the Mad Catz, Inc. Web Site**
 
