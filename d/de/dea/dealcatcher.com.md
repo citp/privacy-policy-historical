@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the dealcatcher.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413102100id_/http%3A//dealcatcher.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealcatcher.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217220559id_/http%3A//dealcatcher.com/privacy.asp) for the most accurate reproduction.*
 
-# DealCatcher.com - Privacy Statement
+# DealCatcher.com - Free Coupons & Deals for Books, DVD, Music, Toys & More!
+
+****  
+
 
 * * *
-
-## Privacy Statement for Dealcatcher.com
 
 eCatcher, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Dealcatcher.com. 
 
@@ -16,13 +17,11 @@ This site contains links to other sites. **Dealcatcher.com** is not responsible 
 
 We run contests on our site in which we ask visitors for contact information (like their email address). We use contact data from our contests to send users information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-DealCatcher.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.flycast.com/about_us/about-privacy.html.](http://www.flycast.com/about_us/about-privacy.html)
-
-## Security
+### Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-## Choice/Opt-Out
+### Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
@@ -32,7 +31,7 @@ This site gives users the following options for removing their information from 
 
 
 
-## Correct/Update
+### Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
 
@@ -40,9 +39,7 @@ This site gives users the following options for changing and modifying informati
 
 
 
-## Contacting the Web Site
+### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: Daniel J. Baxter - President  eCatcher, Inc.  Wilmington, DE  dbaxter@dealcatcher.com  
  
-
-* * *
