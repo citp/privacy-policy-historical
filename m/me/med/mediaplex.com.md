@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaplex.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004092832id_/http%3A//www.mediaplex.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaplex.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416014742id_/http%3A//mediaplex.com/privacy.shtml) for the most accurate reproduction.*
 
 # Online Marketing & Internet Advertising - Mediaplex Media Services
 
@@ -70,11 +70,11 @@ Mediaplex is commited to providing options to Web users who prefer not to have d
 
 If you click on the "I wish to opt-out" link below, we will set a generic value cookie that would not be unique to your browser. After you receive the initial opt-out cookie, you will not be cookied for any of our client’ future campaigns. Your opt-out will be effective for the life of your browser’s hard drive, or until you delete the cookie files on your hard drive.
 
-**     [I wish to opt-out](https://web.archive.org/web-cgi/optout.cgi?optOut=1)**
+**     [I wish to opt-out](http://www.valueclick.net/perl/optout/do/set)**
 
 If you subsequently decide that you wish to receive more relevant advertising (that is not based on personally identifiable information), you may opt back in at any time.
 
-**     [I wish to opt-in](https://web.archive.org/web-cgi/optout.cgi?optIn=1)**
+**     [I wish to opt-in](http://www.valueclick.net/perl/optout/do/unset)**
 
 Mediaplex MOJO Mail Privacy Policy  
 **MOJO Mail is Mediaplex's Opt-In email Program**  
