@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017041619id_/http%3A//www.idotz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603195322id_/http%3A//idotz.net/privacy.html) for the most accurate reproduction.*
 
 # iDotz.Net - Domain Name Registrar
 
