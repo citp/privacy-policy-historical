@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the calculator.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204213044id_/http%3A//www.calculator.com/pantaserv/get%3F_lt%3Dbody%26dbname%3Dcalcsite%26header%3Dhead%26page%3Dprivacy%26footer%3Dfoot%26num%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calculator.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603234345id_/http%3A//www.calculator.com/pantaserv/get%3F_lt%3Dbody%26dbname%3Dcalcsite%26header%3Dhead%26page%3Dprivacy%26footer%3Dfoot%26num%3D1) for the most accurate reproduction.*
 
 # Privacy Statement calculator.com - Online mortgage math loan finance scientific health & sports calculators
 
-|  |   |  |  | **[Top](https://web.archive.org/) |  Privacy Statement **  
+|  [](https://web.archive.org/web/20030603234345id_/http%3A//www.calculator.com/pantaserv/javascript) [](https://web.archive.org/web/20030603234345id_/http%3A//#dir) [](https://web.archive.org/web/20030603234345id_/http%3A//www.calculator.com/pantaserv/javascript)
+
+[ ](http://www.icra.org/labelv02.html)
+
+|   |  |  | **[Top](https://web.archive.org/) |  Privacy Statement **  
 ---|---  
   
 |  calculator.com is not a licensee of the TRUSTe Privacy Program. Though we obide by the rules and policies 100% we can not afford to pay them the requiered licensing fees. 
