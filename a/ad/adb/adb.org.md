@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adb.org privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205063900id_/http%3A//www.adb.org/Help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adb.org privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607035741id_/http%3A//www.adb.org/Help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - ADB.org
 
