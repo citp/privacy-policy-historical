@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezinefinder.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217071553id_/http%3A//ezinefinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinefinder.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408124418id_/http%3A//ezinefinder.com/privacy.html) for the most accurate reproduction.*
 
 # DayTips.com
 
