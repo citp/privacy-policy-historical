@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qca.org.uk privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206183949id_/http%3A//www.qca.org.uk/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qca.org.uk privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605100343id_/http%3A//qca.org.uk/help/privacy.asp) for the most accurate reproduction.*
 
 # QCA - Help - Privacy
 
@@ -10,7 +10,7 @@
 
 [Resource Links](https://web.archive.org/help/links/res/ "Resource Links")
 
-[How to find us](https://web.archive.org/annual_report/qca_location.asp "How to find us")
+[How to find us](https://web.archive.org/about/qca_location.asp "How to find us")
 
 [Customer services  
 and enquiries](https://web.archive.org/help/customer_services/ "Customer services and enquiries")
@@ -59,6 +59,6 @@ Linked sites are not under the control of QCA, nor are we responsible for the co
   
   
 http://www.qca.org.uk/help/privacy.asp  
-Last Updated: 22 July 2002 13:23:20  
+Last Updated: 22 July 2002 14:23:20  
 [ Email this page](https://web.archive.org/email.asp?u=/help/privacy.asp? "Email this page") | [ Print this page](https://web.archive.org/printable.php?p=/help/content/privacy.htm "Print This Page")  
 | 
