@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203013806id_/http%3A//lookingyourbest.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401225242id_/http%3A//www.lookingyourbest.com/privacystatement.php) for the most accurate reproduction.*
 
-# Looking Your Best by Inamed Aesthetics
+# Looking Your Best Privacy Statement
 
 | Privacy Policy  
 Privacy Statement
 
-Please read this privacy statement carefully. (Click [**here**](https://web.archive.org/web/20021203013806id_/http%3A//lookingyourbest.com/termsandconditions.php) to read Terms and Conditions ralated to using this website.) Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this LOOKINGYOURBEST.COM web site. By using this web site, you agree to the terms of the most recent version of this Privacy Statement. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
+Please read this privacy statement carefully. (Click [**here**](https://web.archive.org/web/20030401225242id_/http%3A//www.lookingyourbest.com/termsandconditions.php) to read Terms and Conditions ralated to using this website.) Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this LOOKINGYOURBEST.COM web site. By using this web site, you agree to the terms of the most recent version of this Privacy Statement. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
 
 Introduction
 
