@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestpricedfurniture.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209051544id_/http%3A//bestpricedfurniture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestpricedfurniture.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303211201id_/http%3A//bestpricedfurniture.com/privacy) for the most accurate reproduction.*
 
 # BestPricedFurniture.com
 
