@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604075123id_/http%3A//www2.checkpoint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217204229id_/http%3A//www.checkpoint.com/privacy.html) for the most accurate reproduction.*
 
-# Check Point Privacy Policy Statement
+# Check Point Partners
 
 **General**  
 ---  
@@ -15,4 +15,8 @@ The information you provide when registering to download products at OPSEC.com w
 The email address you provide when you sign up for Check Point's electronic newsletter will **not** be shared with any other organization. It will be used only by Check Point to send you important news about our company and our products. The frequency of newsletters is generally about once a month. To remove yourself from this distribution list at any time, please [click here](http://www.checkpoint.com/newsletter/remove.html).  
 **SVN Solution Pack for Startups**  
 The information you provide for qualification purposes is used to determine your  
-eligibility to participate in this special program and some portion of the information is used to provide to a Check Point partner to fulfill your order and is not used for any other purpose internally or externally.
+eligibility to participate in this special program and some portion of the information is used to provide to a Check Point partner to fulfill your order and is not used for any other purpose internally or externally.  
+**Check Point Investor Relations Email Alerts**  
+The email address that you provide when you sign up for Check Point Software's email alerts will not be shared with any other organization. It will be used only by Check Point to send you important financial news about our company.  
+**Check Point Investor Package Submission**  
+The information that you input in the investor package request form will not be shared with any other organization. It will be used only by Check Point to send you a hard copy of our investor package. Your name and contact information will not be placed on a mailing list for future materials.
