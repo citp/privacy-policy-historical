@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dosomething.org privacy policy that was archived on 2003-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204232432id_/http%3A//www.dosomething.org/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dosomething.org privacy policy that was archived on 2004-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040605174112id_/http%3A//www.dosomething.org/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>DoSomething.org - Privacy Statement for DoSomething.org</title>
@@ -97,10 +97,10 @@
   </tr>
     <tr>
     <td background="gif/brick_tile.gif" width="70"><img src="gif/spacer.gif" width="70" height="1"></td>
-    <td><img src="gif/spacer.gif" width="20"></td>
-    <td>
-      <br><br>
-      <span class="articleBody">
+      <td><img src="gif/spacer.gif" width="20"></td>
+      <td>
+        <br><br>
+        <span class="articleBody">
     
 
 
@@ -158,14 +158,20 @@ If you have any questions about this privacy statement, the practices of this si
   </tr>
   <tr>
     <td colspan="3" style="font-family:arial; font-size:12px;" align="right">
-      <table border="0" cellspacing="0" cellpadding="0" width="536">
+      <table border="0" cellspacing="0" cellpadding="0" width="763">
   <tbody><tr>
-    <td valign="center" class="footer" width="60"><a class="footer" href="http://www.dosomething.org">Home</a>&nbsp;</td>
-    <td valign="center" class="footer" width="60"><a class="footer" href="http://www.dosomething.org/support-us.htm">Support</a>&nbsp;&nbsp;</td>
-    <td valign="center" class="footer" width="60"><a class="footer" href="http://www.dosomething.org/privacy.htm">Privacy</a>&nbsp;</td>
-    <td valign="center" class="footer" width="60"><a class="footer" href="http://www.dosomething.org/contact.htm">Contact</a>&nbsp;</td>
-    <td valign="center" class="footer" width="60"><a class="footer" href="http://www.dosomething.org/faq.htm">Help</a>&nbsp;</td>
-    <td align="right" valign="top" bgcolor="#880000"><a href="get-involved.htm"><img src="gif/bottom_tagline.gif" border="0" width="226" height="17"></a><img src="gif/spacer.gif" height="1" width="10" border="0"></td>
+    <td valign="top" class="footer" width="593"><a class="footer" href="http://www.howstuffworks.com"><img src="gif/article-hsw-footerlogo.jpg" border="0" width="125" height="35" <="" a=""><img src="gif/spacer.gif" width="40" border="0"></a></td>
+    <td valign="top" align="right"><table border="0" cellspacing="0" cellpadding="0" width="593">
+      <tbody><tr>
+    <td valign="center" height="35" class="footer" width="60"><a class="footer" href="http://www.dosomething.org">Home</a>&nbsp;</td>
+    <td valign="center" height="35" class="footer" width="60"><a class="footer" href="http://www.dosomething.org/support-us.htm">Support Us</a>&nbsp;&nbsp;</td>
+    <td valign="center" height="35" align="center" class="footer" width="60"><a class="footer" href="http://www.dosomething.org/privacy.htm">Privacy</a>&nbsp;</td>
+    <td valign="center" height="35" class="footer" width="60"><a class="footer" href="http://www.dosomething.org/contact.htm">Contact</a>&nbsp;</td>
+    <td valign="center" height="35" class="footer" width="60"><a class="footer" href="http://www.dosomething.org/faq.htm">FAQ</a>&nbsp;</td>
+    <td align="right" height="35" valign="center" bgcolor="#880000"><a href="get-involved.htm"><img src="gif/bottom_tagline.gif" border="0" width="226" height="17"></a><img src="gif/spacer.gif" width="10" border="0"></td>
+      </tr>
+      </tbody></table>
+    </td>
   </tr>
 </tbody></table>
     </td>
@@ -175,11 +181,34 @@ If you have any questions about this privacy statement, the practices of this si
   var url = document.URL;
   var pos = url.lastIndexOf('/');
   url = url.substr(pos + 1);
+  first_time = false;
+  if (browserAcceptsCookies()) {
+     if (document.cookie.indexOf('DSft=') == -1) {
+        Today = new Date();
+        nextMonth = Today.getMonth() + 1;
+        nextYear = Today.getFullYear();
+        if (nextMonth == 12) {
+           nextMonth = 0;
+           nextYear = curYear + 1;
+           }
+        var expireTime = new Date(nextYear,nextMonth,1);
+        document.cookie='DSft=1; path=/; expires='+ expireTime.toGMTString();
+        first_time = true;
+	}
+     }
+  if (first_time) {
+     var tmpurl = 'first-time.htm?referer=' + url;
+     if (window.setTimeout) {
+        setTimeout("OpenWindow(tmpurl);",3000);
+        }
+     else OpenWindow(tmpurl);
+     }
+
   recordStats(url,document.referrer);
   //-->
 </script>
 <noscript>
-  <img src="begin.php?referer=/NS&cid=3fcfc2301969c&webpage=privacy.htm" height="1" width="1" border="0">
+  <img src="begin.php?referer=/NS&cid=40c205b891cf9&webpage=privacy.htm" height="1" width="1" border="0">
 </noscript>
 
 
