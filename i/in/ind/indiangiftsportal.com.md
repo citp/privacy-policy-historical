@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiangiftsportal.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605060227id_/http%3A//www.indiangiftsportal.com/help-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiangiftsportal.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209031202id_/http%3A//www.indiangiftsportal.com/help-privacy-policy.php) for the most accurate reproduction.*
 
 # Indian Gifts Portal
 
