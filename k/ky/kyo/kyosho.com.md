@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyosho.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402140736id_/http%3A//www.hobbico.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyosho.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002143905id_/http%3A//www.hobbico.com/privacy.html) for the most accurate reproduction.*
 
 # Hobbico Privacy Statement
 
@@ -12,7 +12,7 @@ Domain names and IP addresses may be logged for statistical and administrative p
 
 No financial or other sensitive information is collected anywhere on our site. 
 
-We do not collect the personal information for children under the age of 13. We are prohibited from conditioning a child's participation in an activity on the child disclosing more personal information than is reasonably necessary. In cases where we have inadvertently collected personal information of a child, the parent can always review this information, chose to have this information deleted from our records and refuse to permit further collection or use of this information. 
+We do not collect the personal information for children under the age of 13. We are prohibited from conditioning a child's participation in an activity on the child disclosing more personal information than is reasonably necessary. In cases where we have inadvertently collected personal information of a child, the parent can always review this information, choose to have this information deleted from our records and refuse to permit further collection or use of this information. 
 
 We respect your privacy and work diligently to protect it. 
 
