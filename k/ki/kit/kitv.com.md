@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitv.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409183757id_/http%3A//kitv.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitv.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202025517id_/http%3A//www.thehawaiichannel.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
 
 # TheHawaiiChannel.com - Privacy Policy
 
@@ -46,3 +46,6 @@ Mendota Heights, MN 55120
 
 **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We may also decide to notify our users by e-mail of significant changes.
+
+  
+
