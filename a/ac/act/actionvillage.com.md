@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the actionvillage.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004235809id_/http%3A//www.actionvillage.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionvillage.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604111325id_/http%3A//www.actionvillage.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [  
-](https://web.archive.org/web/20031004235809id_/http%3A//www.actionvillage.com/serviceguide.html) | | 
+](https://web.archive.org/web/20040604111325id_/http%3A//www.actionvillage.com/serviceguide.html) | | 
 
 Action Village, Inc. automatically collects anonymous information about usage of our websites. On certain pages such as the "AddMe" page, you may voluntarily provide us with names, addresses, phone numbers, e-mail addresses, and other demographic information. Action Village appreciates your trust and will not share this information with companies not affiliated with ours. PaintballGear.com will only share the information collected with its subsidiaries and affiliates, for the sole purpose of announcing products, sales, and events that we feel may interest you based on the information you have provided.
 
@@ -14,10 +14,11 @@ If you accessed this store through Yahoo! Shopping, Yahoo! also automatically co
 From time to time, we may modify our Privacy Policy. Such modifications will be effective on the date that we post the modified Policy on our website.
 
 |   
-[](https://web.archive.org/web/20031004235809id_/http%3A//www.actionvillage.com/addme.html)  
+[](https://web.archive.org/web/20040604111325id_/http%3A//www.actionvillage.com/addme.html)  
+  
 ---|---  
   
-[](http://st32.yahoo.com/cgi-bin/clink?actionvillage+LtzTpc+apparel-mens-apparel-shoes-dc-shoes.html) **
+[](http://st32.yahoo.com/cgi-bin/clink?actionvillage+LtzTpc+paintball-airsoft-and-blow-guns-airsoft-guns.html) **
 
 **
 
@@ -30,34 +31,21 @@ Add Items To Your Shopping Cart To Check Stock Status!
 
 **For fastest service we recommend  
 shipping to the same address where you receive your credit card bill.  
-To learn more about our policies [click here](https://web.archive.org/web/20031004235809id_/http%3A//www.actionvillage.com/serviceguide.html).  
+To learn more about our policies [click here](https://web.archive.org/web/20040604111325id_/http%3A//www.actionvillage.com/serviceguide.html).  
 **
 
-****
-
-* * *
-
-| 
-
-**Action Village is now shipping from a new facility!**  
-  
----  
-| Action Village moved into a new building on June 13, 2003. Although our customer service office was closed on this day we were able to relocate our entire inventory and will begin shipping orders on Monday, June 16. We appreciate your patience and continued support in making this expansion possible. 
-
-Thank you.  
-  
 * * *
 
   
 **** ******
 
-** **Contact and Site Info:**  
+** | **Contact and Site Info:**  
 ---  
-**Contact Us:** |  [Customer Service / Questions](http://www.actionv.com/support/csrequest.asp) | [Place an Order](https://web.archive.org/web/20031004235809id_/http%3A//www.actionvillage.com/howtoorder.html)  
+**Contact Us:** |  [Customer Service / Questions](http://www.actionv.com/support/csrequest.asp) | [Place an Order](https://web.archive.org/web/20040604111325id_/http%3A//www.actionvillage.com/howtoorder.html)  
 **Site Info:** |  [Privacy Policy](http://www.actionvillage.com/privacypolicy.html) | [Service Guide](http://www.actionvillage.com/serviceguide.html)  
 **Affiliates:** | Join Our Affiliates: [Earn Money](http://www.actionvillage.com/affiliate.html) \- Visit Our Affiliates: [Spend Money](http://www.actionvillage.com/links.html)  
   
-© 1998 \- 2003 Action Village, Inc.  
+© 1998 \- 2004 Action Village, Inc.  
 All photography and text contained on this site is the original work of Action Village, Inc.   
 Contents may not be used for any commercial or non-commercial purpose without prior written consent.
 
