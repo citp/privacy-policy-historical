@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206035040id_/http%3A//www.bikereg.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417181804id_/http%3A//www.bikereg.com/Privacy.asp) for the most accurate reproduction.*
 
 # BikeReg.com - online event registration
 
@@ -48,8 +48,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 Customer Service  
 BikeReg.com  
-2 Linden Street  
+51 Summer Street  
 Northampton, MA 01060  
 info@BikeReg.com  
-(413) 674-0004 
+(413) 585-1685 
 
