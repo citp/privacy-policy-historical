@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windermere.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207033132id_/http%3A//windermere.com/index.cfm%3Ffuseaction%3Dabout.legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windermere.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405164516id_/http%3A//www.windermere.com/index.cfm%3Ffuseaction%3Dabout.legal%23privacy) for the most accurate reproduction.*
 
-# Windermere Real Estate
+# Windermere.com Privacy Policy
 
 Windermere Real Estate (WRE) promises to protect the personal information given to us by visitors to our website and information included on our electronic mail lists. Any information that you give to WRE will be held with the utmost care, and will not be used in any way to which you have not already consented. A more detailed explanation follows.
 
