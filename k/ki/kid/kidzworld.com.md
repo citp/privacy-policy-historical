@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622072450id_/http%3A//www.kidzworld.com/kidzworld/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801174452id_/http%3A//kidzworld.com/kidzworld/privacy.html) for the most accurate reproduction.*
 
 # Kidzworld Media | Privacy Policy | COPPA | Security & Guidelines
 
