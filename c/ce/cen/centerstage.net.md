@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerstage.net privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020113920id_/http%3A//centerstage.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerstage.net privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603174201id_/http%3A//www.centerstage.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Centerstage Chicago : Privacy Policy for Centerstage Media, LLC
 
@@ -22,6 +22,6 @@ Centerstage Media reserves the right to place private web browser "Cookies" on y
 If we require your name, address, phone number, credit card number, or any other information at any point on our site, we will not share it with any companies outside Centerstage Media, its subsidiaries, affiliates or necessary payment processors. Note that partners who provide services which necessitate this sort of personal information (for example, but not limited to, travel services, book and movie purchases) will have their own policy regarding these matters, and neither entity will be constrained by any agreements which may exist between you and the other party.
 
 **Having a Problem?**  
-If at any time you believe that Centerstage Media has not followed the above policy, or if you would like your information to be revised on or removed from our system, please describe the necessary change in detail, and email to [changes@centerstage.net](https://web.archive.org/web/20011020113920id_/http%3A//centerstage.net/changes@centerstage.net).
+If at any time you believe that Centerstage Media has not followed the above policy, or if you would like your information to be revised on or removed from our system, please describe the necessary change in detail, and email to [changes@centerstage.net](mailto:changes@centerstage.net).
 
 [Back to... Centerstage Chicago](https://web.archive.org/index.html)
