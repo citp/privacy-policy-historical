@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603231319id_/http%3A//www.eduplace.com/forums/html/terms.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201050924id_/http%3A//www.eduplace.com/forums/html/terms.html%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions of Use
 
@@ -10,7 +10,7 @@ _Use of personal information:_ We use the information we collect from children o
 
 _Involvement of parents:_ In accordance with the provisions of the Children's Online Privacy Act, we will notify parents when collecting personal information from children, and will seek parental consent before collecting, using and/or disclosing certain personal information from children. A parent may review and have deleted their child's personal information, and may refuse to permit further collection or use of their child's information by contacting the Houghton Mifflin representatives listed below. Parents may consent to our collection and use of their child's personal information without consenting to the disclosure of that information to others. 
 
-_How to get in touch with Houghton Mifflin:_ The following list has the names, addresses, and phone numbers of the individuals operating Web sites for the various divisions and subsidiaries of Houghton Mifflin Company. If you would like to ask who to talk to for a particular question, please contact Carla Tishler, Director, Emerging Technologies. 
+_How to get in touch with Houghton Mifflin:_ The following list has the names, addresses, and phone numbers of the individuals operating Web sites for the various divisions and subsidiaries of Houghton Mifflin Company. If you would like to ask who to talk to for a particular question, please contact Chris Hogg, Internet and Web Development. 
 
 **Division:** Corporate IT  
 **Name:** Chris Hogg  
