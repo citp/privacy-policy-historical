@@ -1,0 +1,78 @@
+> *The following text is extracted and transformed from the starware.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003152816id_/http%3A//www.starware.com/policyprivacy.shtml) for the most accurate reproduction.*
+
+# Starware Privacy Policy
+
+**Starware Privacy Policy**
+
+Please read this Privacy Policy carefully. It's short and you don't need to be a lawyer or a software engineer to make sense of it. If there are any technical terms that you don't understand, we encourage you to visit [www.webopedia.com](http://www.webopedia.com/). This resource will give you friendly definitions. 
+
+If you have any additional questions, please email or call Adam Solomon, our Chief Privacy Officer. His email is [asolomon@cometsystems.com](mailto:asolomon@cometsystems.com?subject=Starware%20Privacy%20Policy) and his phone number is (212) 231-2000 ext.112. 
+
+* * *
+
+The Starware AdZapper is part of the Starware line of software products from Comet Systems, Inc. 
+
+We want you to feel comfortable downloading and using our products. We understand that your trust in us depends on us respecting your privacy and being careful about safeguarding any information that you provide us. 
+
+Comet has put in place strict guidelines—detailed below—to demonstrate that we are acting in ways that we (as longtime citizens of the Internet ourselves) expect to be treated when we download software or buy products on the Internet. 
+
+* * *
+
+**Does Comet track the websites I visit or what I do on them?**  
+No. 
+
+**Will Comet ever send me unsolicited commercial email ("spam")?**  
+No. 
+
+**What does Comet do to protect my security with its Starware products?**  
+During the download and installation of Starware products, Comet uses Microsoft's high-security technology to make sure that the software you are installing has not been tampered with or modified by anyone outside of Comet. The technology (called Authenticode) verifies that a given software file has not been modified from the time it was "signed" (i.e., shipped) by its publisher. Like the seal on a bottle of Tylenol, this technology reveals if the software has been tampered with before it reaches your computer. If this tamper-test fails, the software will be rejected and prevented from running on your computer. These protections help ensure that our software remains 100% virus-free. 
+
+**Does Comet collect usage statistics on Starware products, and if so, what does it do with such information?**  
+Yes, but only anonymously. Comet collects anonymous usage statistics on its Starware products. We use these statistics to improve our software products. These statistics are limited to direct usage of our products only, such as how many people installed a free trial of a Starware product this month, or how many ads were zapped by the AdZapper in a given day. We _never_ collect information on where people go on the Web, what they do on the Web, or any other information that is not directly linked to usage or promotion of Starware products. 
+
+**Does Comet create individual user profiles with the usage statistics it collects?**  
+No. 
+
+**What personally identifiable information is collected about users of Starware software products?**  
+"Personally identifiable information" is non-anonymous information such as your name, phone number, credit card information, address or email address—anything that could identify you personally. 
+
+Users who download a free trial of a Starware product are not asked for personally identifiable information. 
+
+Users who buy the full version of Starware products are asked for their email address and the name and number on their credit card in order to process the transaction. This information is used to validate your purchase request and to maintain a record of your purchase. Your email address also serves as your username for logging into the Starware.com online store, where you can get "free refills" of products you've already purchased. No other personally identifiable information is collected about users who purchase Starware products. 
+
+**How does Comet protect personally identifiable information?**  
+Comet employs controls to protect the security of personally identifiable information you provide us, including the credit card information we collect during the purchase process. These controls include (1) the use of secure connections using SSL (Secure Socket Layer) to safeguard information when transmitted from your Web browser to Comet Systems, and (2) the use of strong encryption to safeguard personally identifiable information within our databases. 
+
+In addition, Comet only gives access to databases containing personally identifiable information to employees on a need-to-know basis. Internal passwords are regularly changed pursuant to security protocols, and our security procedures are reviewed on a regular basis. 
+
+**Does Comet share personally identifiable information with other companies or with advertisers?**  
+No. 
+
+**Will I get email from other companies because I buy a Starware product?**  
+Users who download the free trial of Starware products _will never_ receive any email from Comet or any other companies as a result of trying a Starware product—note that you are not asked to provide an email address when trying a Starware product. If you have purchased a Starware product (such as the Starware AdZapper), you may receive periodic emails from Starware (part of Comet Systems) informing you of product upgrades, new products, and special offers. If you do not wish to receive such emails, you may unsubscribe at any time and prevent further emails from Comet. In any event, we do not share or rent our email lists so you will never receive email directly from companies other than Comet. 
+
+**Do Starware products have unique serial numbers?**  
+After you download our software, our servers generate and assign your computer an anonymous download number. We use this number to count how many people have downloaded our software. 
+
+Users who purchase full versions of Starware products also receive unique "license keys". License keys are numbers that validate your purchases and serve to "unlock" your software to make sure that you have use of the full versions. 
+
+**Has Comet linked its download number, license keys, or any other unique product serial numbers with personally identifiable information?**  
+Comet creates an association between license keys and your account information (email address, credit card information) in order to maintain a record of which users have paid licenses for our products in order to issue "free refills". In the event that you delete a Starware product, or your software becomes damaged for some reason, our customer service representatives will be able to confirm that you had previously purchased the product and can assist you in reinstalling the product. Beyond that, Comet does not create any linkages between personally identifiable information and unique serial numbers. 
+
+**What can I do to remove Starware products from my computer?**  
+All Starware products are straightforward to remove using the standard Windows method for uninstalling programs. For specific directions on removing a particular Starware product from your computer, click on any HELP link found within your Starware product. 
+
+* * *
+
+We encourage you to periodically check back here (there are links to this privacy policy from all Starware products and from the Starware.com Website). If we ever make changes to our privacy policy, we will post them here seven days before they go into effect. 
+
+**Where can I learn more about protecting my privacy online?**  
+
+
+If you would like to learn more about how to protect your privacy online, please check out the following online resources: 
+  * [Center for Democracy and Technology](http://www.cdt.org/)
+  * [Electronic Privacy Information Center ](http://www.epic.org/)
+  * [Electronic Frontier Foundation ](http://www.eff.org/)
+  * [TRUSTe ](http://www.truste.com/)
+
+[ ](http://www.truste.com/)
