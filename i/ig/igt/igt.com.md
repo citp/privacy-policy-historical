@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igt.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206143936id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igt.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603063528id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.*
 
 # IGT
 
