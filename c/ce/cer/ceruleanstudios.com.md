@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ceruleanstudios.com privacy policy that was archived on 2003-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030614085226id_/http%3A//www.ceruleanstudios.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceruleanstudios.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008195634id_/http%3A//www.ceruleanstudios.com/misc/privacy.php) for the most accurate reproduction.*
 
-# Cerulean Studios > Privacy Policy
+# Cerulean Studios -> Privacy Policy
 
-This is the web site of **Cerulean Studios**.  
-We can be reached via e-mail at [comments@ceruleanstudios.com](mailto:comments@ceruleanstudios.com)
+This is the web site of Cerulean Studios.  
+We can be reached via e-mail at [the Contact page.](https://web.archive.org/contact/)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -21,12 +21,12 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
 
-Consumers can have this information corrected by sending us e-mail at the above address. 
+Consumers can have this information corrected by sending us e-mail at the above address.
 
 Information received from the initial install questionnaire is used for internal purposes only and will not be sold. If the 'skip' option is chosen, no information is sent to the server. If the 'send' option is chosen, no other information besides the information within that form is sent to the server. If you are under the age of 13, please do not fill out this information. 
 
 If you choose to subscribe to our announcements e-mail list, your e-mail address will be used only for the purpose of sending you company-related email. Your address will not be sold or given away to any other entity.
 
-If you are under the age of 13, please do not use the discussion boards
+If you are under the age of 13, please do not use the discussion boards.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+If you feel that this site is not following its stated information policy, you may contact us at the above email address. 
