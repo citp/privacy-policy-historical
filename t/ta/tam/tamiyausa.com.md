@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204040721id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204051903id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com Privacy Statement
 
@@ -14,9 +14,9 @@
   
 ---|---  
 ---  
-| 11/30 [December '04 HobbyShop Highlight](https://web.archive.org/articles/feature.php?article-id=62) |   
-| 11/25 [US TCS Team travels to Japan](https://web.archive.org/articles/feature.php?article-id=63) |   
-| 11/12 [The 10th Annual TamiyaCon](https://web.archive.org/articles/feature.php?article-id=61) |   
+| 1/31 [February '05 HobbyShop Highlight](https://web.archive.org/articles/feature.php?article-id=77) |   
+| 1/27 [10th Anniversary TCS Qualifier @ TrackSide Hobbies](http://www.tamiyausa.com/articles/feature.php?article-id=74) |   
+| 1/6 [TCS 2005 Rules Updated!](http://www.tamiyausa.com/tcs_races/rules.php) |   
 [More News...](https://web.archive.org/news/index.php) |   
 |  |   
 ---|---  
