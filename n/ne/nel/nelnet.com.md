@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nelnet.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606225546id_/http%3A//www.nelnet.net/Shared_Includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelnet.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206222842id_/http%3A//www.nelnet.net/Shared_Includes/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -44,9 +44,9 @@ Why we collect information | What we collect | How we use information | Security
 **Summary of our policy  
 **Nelnet knows how important privacy is to you, and we are committed to providing you with extraordinary customer service. That commitment includes protecting personal information you entrust to us by adhering to strict guidelines. 
 
-This policy explains the collection and use practices of the Nelnet Companies  regarding consumer information, including how and what we share with our related companies.  Nelnet does not share your personal information outside the Nelnet Companies except in the limited situations described below and we will not sell or provide your personal information to third parties for their own use unless you give us your permission to do so by [directing us](https://web.archive.org/web/20040606225546id_/http%3A//www.nelnet.net/Shared_Includes/privacy.pdf).  This policy is our standard regarding collection, use, retention, and security of nonpublic personal information. Even if you pay off your loan(s), we will continue to adhere to the privacy policies and practices described in this notice. 
+This policy explains the collection and use practices of the Nelnet Companies  regarding consumer information, including how and what we share with our related companies.  Nelnet does not share your personal information outside the Nelnet Companies except in the limited situations described below and we will never sell or provide your personal information to third parties for their own use. This policy is our standard regarding collection, use, retention, and security of nonpublic personal information. Even if you pay off your loan(s), we will continue to adhere to the privacy policies and practices described in this notice. 
 
-You can [direct us](https://web.archive.org/web/20040606225546id_/http%3A//www.nelnet.net/Shared_Includes/privacy.pdf) not to share “non-transactional” information (for example, your employment history or credit history) with our affiliated Nelnet Companies.  This policy applies to you if you have received a financial product or service from one of the Nelnet Companies. The typical example of this is if a Nelnet company made, or purchased and now owns, your student loan. This policy also applies to our former customers. **Please note that if Nelnet services, but does not own, your student loan, your lender’s privacy policy applies instead**. In those cases, Nelnet complies with the privacy policies of our lender clients. The information in this policy applies to individuals only, and we may change the policies from time to time. The effective date of this policy is January 1, 2004. 
+You can [direct us](https://web.archive.org/web/20041206222842id_/http%3A//www.nelnet.net/Shared_Includes/privacy.pdf) not to share “non-transactional” information with our affiliated Nelnet Companies.  This policy applies to you if you have received a financial product or service from one of the Nelnet Companies. The typical example of this is if a Nelnet company made, or purchased and now owns, your student loan. This policy also applies to our former customers. **Please note that if Nelnet services, but does not own, your student loan, your lender’s privacy policy applies instead**. In those cases, Nelnet complies with the privacy policies of our lender clients. The information in this policy applies to individuals only, and we may change the policies from time to time. The effective date of this policy is July 1, 2004. 
 
 You can take additional steps to protect your privacy by keeping passwords and PIN’s confidential, never disclosing personal information to unknown callers, and ensuring your Internet use is secured and protected from unauthorized access or use.
 
@@ -56,7 +56,7 @@ You can take additional steps to protect your privacy by keeping passwords and P
 **What information we collect  
 **“Nonpublic personal information” is information about you that is not publicly available, but that we get in connection with providing a financial product or service to you, and that we need in order to serve you effectively and efficiently. We may collect nonpublic personal information about you in the following ways:
 
-·      Information we receive from you on applications or other loan and account forms, which may include your name, address, e-mail address, birth date, and phone number, so we can identify you as a customer, get in touch with you about your account when necessary, and generally maintain your account. Other information may include your Social Security number or other identifying information which helps us prevent unauthorized access to or use of your account, and/or and personal financial information that helps us process your application and identify products and services that may be of interest to you.
+·      Information we receive from you on applications or other loan and account forms, which may include your name, address, e-mail address, birth date, and phone number, so we can identify you as a customer, get in touch with you about your account when necessary, and generally maintain your account. Other information may include your Social Security number or other identifying information which helps us prevent unauthorized access to or use of your account, and/or personal financial information that helps us process your application and identify products and services that may be of interest to you.
 
 ·      Information about your transactions with us, with our affiliates, or others, for example, account balances, your payment history, and how you use your account. We use this information to respond to your requests, service your accounts, and again, make recommendations or offers to you. 
 
@@ -82,19 +82,19 @@ This could also include non-transactional information about you, such as informa
 
 In either case, Nelnet will only use the information for reasons necessary to these functions. 
 
-Except to the extent required to provide a service you have requested, you can [direct us](https://web.archive.org/web/20040606225546id_/http%3A//www.nelnet.net/Shared_Includes/privacy.pdf) not to share the “non-transactional” type information, even within the Nelnet Companies.
+Except to the extent required to provide a service you have requested, you can [direct us](https://web.archive.org/web/20041206222842id_/http%3A//www.nelnet.net/Shared_Includes/privacy.pdf) not to share the “non-transactional” type information, even within the Nelnet Companies.
 
 _Outside the Nelnet Companies_
 
 ·          In limited situations, we may need to share your information with companies outside our organization in order to do business with you. For example:
 
-o        Service providers. This includes companies that originate loans or process loan transactions for us, vendors that print, prepare or mail statements for us, correspondent lenders, computer system programmers, and related vendors that help us deliver our products and services as efficiently and effective as possible; and 
+o        Service providers and business partners. This includes companies that originate loans or process loan transactions for us, vendors that print, prepare or mail statements for us, other lenders, computer system programmers, and related vendors that help us deliver our products and services as efficiently and effective as possible; and 
 
-o        Marketing service providers. These companies may be used to help us communicate information about Nelnet products, services and special offers to you. 
+o        Marketing service providers. These companies may be used to help us communicate information about products, services and special offers to you. 
 
 ·          We screen our potential outside business partners very carefully.  These providers only receive limited information about you as necessary to perform their functions. They are always required to maintain confidentiality of the information and we restrict their use to the purpose we authorize, and they are not allowed to pass the information on to others for their own benefit. 
 
-In addition, from time to time, Nelnet may also partner with reputable third parties offering products and services that we believe will be of interest to our customers. **However, Nelnet will not share your personal information with those parties unless you[authorize us](https://web.archive.org/web/20040606225546id_/http%3A//www.nelnet.net/Shared_Includes/privacy.pdf) to do so.**
+In addition, from time to time, Nelnet may also send you information about products or services offered by reputable third parties that we believe will be of interest to our customers. **However, we will not share your personal information with these parties at any time.**
 
 _Other situations_
 
@@ -137,6 +137,8 @@ EFS Finance Co.
 MELMAC, Inc.  
   
 Nelnet Mentor LLC  
+  
+SLAAA Acquisition Corporation  
   
 **Other helpful information**
 
