@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the testcraft.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207102353id_/http%3A//www.testcraft.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testcraft.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402112459id_/http%3A//www.testcraft.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Testcraft - Privacy Statement
 
-  
 Our Commitment To Privacy   
 Your privacy is important to us.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
