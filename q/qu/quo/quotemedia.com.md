@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012002201id_/http%3A//www.quotemedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403073828id_/http%3A//www.quotemedia.com/privacy.php) for the most accurate reproduction.*
 
 # QuoteMedia
 
   
 |  | 
 
-[Home](https://web.archive.org/web/20041012002201id_/http%3A//www.quotemedia.com/index.php) > Privacy Policy
+[Home](https://web.archive.org/web/20050403073828id_/http%3A//www.quotemedia.com/index.php) > Privacy Policy
 
 Privacy Policy
 
@@ -54,7 +54,7 @@ By using the QuoteMedia site you signify your acceptance of our Privacy Policy a
 
 Last revision date: Jan 15, 2003 
 
-If you would like to unsubscribe from out IR Mailing List... [Click Here](https://web.archive.org/web/20041012002201id_/http%3A//www.quotemedia.com/unsubscribe.php). 
+If you would like to unsubscribe from our IR Mailing List... [Click Here](https://web.archive.org/web/20050403073828id_/http%3A//www.quotemedia.com/unsubscribe.php). 
 
   
 
