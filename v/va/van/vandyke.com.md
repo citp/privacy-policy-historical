@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203191817id_/http%3A//vandyke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402070329id_/http%3A//www1.vandyke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-VanDyke Software™ is committed to protecting your privacy. The following discloses our information collection and use practices. We collect industry-standard information to help us provide you with better software and services as described below. VanDyke Software does not sell, trade, or give out customer information gathered from its web site.
+VanDyke Software® is committed to protecting your privacy. The following discloses our information collection and use practices. We collect industry-standard information to help us provide you with better software and services as described below. VanDyke Software does not sell, trade, or give out customer information gathered from its web site.
 
 When you place an order, download an evaluation, or join a discussion list, we ask for your contact/billing information. This information is used for internal operations, possibly to send surveys, and to provide you with updated information on our products on an "opt-in" basis.
 
