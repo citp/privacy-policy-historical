@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4anything.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405001854id_/http%3A//www2.4anything.com/corporate/privacy-policy/0%2C1138%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4anything.com privacy policy that was archived on 2002-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021125051449id_/http%3A//www.4anything.com/corporate/privacy-policy/0%2C1138%2C%2C00.html) for the most accurate reproduction.*
 
 # 4anything.com: Privacy Policy
 
@@ -82,7 +82,13 @@ In addition to the initial registration process, 4anything.com occasionally asks
 
 Although most web browsers are initially set up to accept cookies, if you prefer, a User may decline the placement of a cookie on his or her hard drive by using the appropriate feature(s) of one's web browser software (if available) to delete the cookie. Users should understand, however, that certain areas within the 4anything.com Network may not function properly if the web browser will not accept cookies.
 
-In addition, advertisers that serve ads onto the 4anything.com network may also use their own cookies.
+**Third Party Advertising**
+
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+
+**Third Party Cookies**
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 **Does 4anything.com disclose personal information to third parties?** 4anything.com discloses publicly available or volunteered technical or reference information of Users in aggregate form only, and not specific individual data, to advertisers and certain other third parties. For example, 4anything.com might tell an advertiser how many males between 20 and 30 years in age visited the 4anything.com Network during a particular period of time. 
 
