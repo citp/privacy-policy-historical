@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the southeasttexas.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409193713id_/http%3A//www.southeasttexas.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southeasttexas.com privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015101648id_/http%3A//southeasttexas.com/privacy.cfm) for the most accurate reproduction.*
 
 # SoutheastTexas.com - Disclaimer
 
-  
-  
 **Privacy Policy**
 
 SoutheastTexas.com is committed to protecting your privacy.
@@ -69,6 +67,8 @@ When SoutheastTexas.com conducts research about the use of its site, it may hire
 Once again, please be aware that advertisers and vendors hosted on our site, or who link to our site, may collect information about you through their own cookies if you click on their ads or if you make a purchase from them. This includes the purchase of classified or personal advertisements. Information collected by vendors or advertisers on our site, or who link to our site, is not covered under this privacy policy.
 
 Various web sites collect user information and create lists and/or databases of this user information. These lists or databases are sometimes sold to third parties under contractual agreements that place limits on how the purchasing parties can reuse the information. Currently, SoutheastTexas.com does not sell information about its users to third parties for any reason. If SoutheastTexas.com chooses to do so in the future, it will notify users of SoutheastTexas.com of its intentions and give users the option to exclude their information from any such lists or databases sold to third parties.
+
+Southeasttexas.com is a strong advocate of email and personal information privacy. As such, all email addresses and personal information posted on Southeasttexas.com will be protected. Any unauthorized use of email or personal information by any parties not affiliated with Southeasttexas.com will be prosecuted to the full extent of the law. This includes, but is not limited to, the unauthorized solicitation via email or phone with personal information obtained from any of the free ads placed on Southeasttexas.com. Any party or parties involved in such abuse will also be billed $100 (one hundred dollars) per email or phone number per usage or attempted usage.
 
 **Contacting SoutheastTexas.com**
 
