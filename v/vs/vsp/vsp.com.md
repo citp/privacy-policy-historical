@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2003-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030920040351id_/http%3A//vsp.com/home/html/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607152817id_/http%3A//vsp.com/home/html/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,8 +62,8 @@ Information ** | Information relating to a VSP patient’s past, present or futu
 
   
 **Treatment** | The provision, coordination or management of vision care and related services by one or more vision care providers.  
->  
- **PRIVACY PRACTICES
+  
+**PRIVACY PRACTICES
 
 * * *
 
@@ -125,7 +125,7 @@ _Important:_ If you feel your Protected Health Information is incorrect, you hav
 Your Protected  
 Health Information** | You can request restrictions on the use and disclosure of your Protected Health Information. VSP is not required to agree to a requested restriction.
 
-_Example:_ If a restriction request prevents us from providing service to you or from performing paymentrelated functions, we will not be able to agree to the request.  
+_Example:_ If a restriction request prevents us from providing service to you or from performing payment related functions, we will not be able to agree to the request.  
   
 **Confidential  
 Communication** | When necessary, VSP mails your Protected Health Information to your home. If you feel receiving a copy of your Protected Health Information at your home could compromise your safety, you may request in writing, an alternate communication method and/or location.
