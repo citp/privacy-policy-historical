@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208090405id_/http%3A//www.sikids.com/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403203243id_/http%3A//www.sikids.com/admin/privacy.html) for the most accurate reproduction.*
 
 # SIKIDS | Write to us
 
@@ -52,7 +52,7 @@ III. _Collection of Information by Third-Party Sites and Sponsors_
 
 Our site contains links to other sites whose information practices may be different from ours. Visitors should consult the other sites' privacy notices as the sites are not covered by our privacy policy. 
 
-This Time Warner site sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that children voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Warner does not control the third-party sponsors' use of this information. [Click here](https://web.archive.org/web/20041208090405id_/http%3A//www.sikids.com/admin/thirdparty.html) for a list of names and contact information of outside third parties that may collect and maintain personally identifiable information as a result of their participation in these activities. 
+This Time Warner site sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that children voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Warner does not control the third-party sponsors' use of this information. [Click here](https://web.archive.org/web/20050403203243id_/http%3A//www.sikids.com/admin/thirdparty.html) for a list of names and contact information of outside third parties that may collect and maintain personally identifiable information as a result of their participation in these activities. 
 
 **
 
@@ -101,12 +101,10 @@ Sports Illustrated Building
 135 West 50th St., 4th Fl.   
 New York, NY 10020-1393 
 
-212-522-9949
+**NOTE: For subscription-related issues, please[click here](https://web.archive.org/web/20050403203243id_/http%3A//www.sikids.com/admin/subscribe/customerservice.html). ** ****
 
-**
+**VIII. _A Final Note to Parents_ **
 
-VIII. _A Final Note to Parents_
-
-**
+****
 
 The Internet offers a world of opportunity for children. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to the visit The Direct Marketing Association’s web site (www.the-dma.org) [http://www.the-dma.org](http://www.the-dma.org/) and explore the Get CyberSavvy! Program. Get CyberSavvy! helps families learn how information flows online so they can use the Internet in ways that protect their privacy and well-being. It also contains a number of valuable resources to help parents and children be aware of and express their preferences about information that is collected online and how it is used. Your efforts to instill responsible information practices will help steer your children to age-appropriate sites, and will go a long way toward ensuring that your children have enriching experiences online. 
