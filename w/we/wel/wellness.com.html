@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wellness.com privacy policy that was archived on 2003-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031229125107id_/http%3A//www.wellness.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wellness.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603022246id_/http%3A//wellness.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Welcome to Wellness.com for premium wellness related resources FAST!</title>
@@ -16,7 +16,7 @@
 <base target="_top"></head>
 
 
-<body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" bgcolor="WHITE" vlink="#0000ff" alink="#000066" link="#0000ff">
+<body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" bgcolor="WHITE" vlink="#0000ff" alink="#000066" link="#0000ff" onload="body_onLoad();">
 
 <script language="JavaScript">
 <!--
@@ -141,33 +141,59 @@ function lite2dark(sImgName) {
 //-->
 </script>
 
-<!--
+<script language="JavaScript">
+	<!--
+	var m_dteCurDate
+	
+	function body_onLoad() {
+		/*--------------------------------------------------------------
+		 * Purpose:
+		 *	event that fires when the page finishes loading
+		 *--------------------------------------------------------------*/
+	
+		// set focus to username box
+		var frmLogin = document.frmLogin;
+		
+		if (frmLogin.Username.value.length > 0) frmLogin.Password.focus();
+		else frmLogin.Username.focus();
+		
+	}
+	
+	
+	function frmLogin_onSubmit(frmLogin) {
+		/*--------------------------------------------------------------
+		 * Purpose:
+		 *	event that fires when the form is submitted
+		 *--------------------------------------------------------------*/
+		
+		// validate user input
+		if (frmLogin.Username.value.length < 1) {
+			alert('Enter your Username.');
+			frmLogin.Username.focus();
+			return false;
+		}
+		
+		if (frmLogin.Password.value.length < 1) {
+			alert('Enter your Password.');
+			frmLogin.Password.focus();
+			return false;
+		}
+		
+		//set the action of the form
+		frmLogin.action = 'https://www.secure-session.com/login.asp';
 
-<TABLE BORDER=0 WIDTH=140 CELLPADDING=0 CELLSPACING=0>
-<TR>
-	<TD>
-	<TABLE BORDER=0 WIDTH=139 CELLPADDING=0 CELLSPACING=0>
-	<TR>
-		<TD><IMG SRC="pics/spacer.gif" WIDTH="1" HEIGHT="5" ALT="" BORDER="0"></TD>
-	</TR>
-	<TR>
-		<TD ALIGN="center" BGCOLOR="#ffffff"><A HREF="/signup.asp" TARGET="_top"><IMG SRC="pics/sign_up_2.gif" WIDTH=123 HEIGHT=76 BORDER="0" HSPACE="6"></A></TD>
-	</TR>
-	<TR>
-		<TD HEIGHT="5" ALIGN="center"><A HREF="/signup.asp" TARGET="_top"><FONT FACE=ARIAL SIZE=1 COLOR="blue">Get your own personalized email address TODAY!</FONT></A></TD>
-	</TR>
-	<TR>
-		<TD HEIGHT="10"><IMG SRC="pics/spacer.gif" WIDTH="1" HEIGHT="10" ALT="" BORDER="0"></TD>
-	</TR>
-	</TABLE>
-	</TD>
-	<TD WIDTH="1" BGCOLOR="#CCCCFF"><IMG SRC="pics/spacer.gif" WIDTH="1" HEIGHT="1" ALT="" BORDER="0"></TD>
-</TR>
-</TABLE>
-//-->
+		// submit form
+		return true;
+	}
+
+	//-->
+</script>
 
 <table border="0" width="140" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-<form name="ESMLoginForm" method="post" target="_top" action="/include/process_esmlogin.asp"></form>
+
+<form id="frmLogin" name="frmLogin" method="post" action="https://www.secure-session.com/login.asp" onsubmit="return frmLogin_onSubmit(this);"></form>
+<input type="hidden" name="CommunityID" value="1">
+<input type="hidden" name="ReturnUrl" value="">
 <tbody><tr>
 	<td colspan="2" bgcolor="#0000ff"><span class="bodywhite"><b>&nbsp;Subscriber Login</b></span></td>	</tr>
 
@@ -179,14 +205,14 @@ function lite2dark(sImgName) {
 	</tr>
 	<tr>
 		<td align="right" class="small">Username:</td>
-		<td align="right"><input type="TEXT" size="9" name="username" value="">&nbsp;</td>
+		<td align="right"><input type="text" name="Username" value="" size="9">&nbsp;</td>
 	</tr>
 	<tr>
 		<td align="right" class="small">Password:</td>
-		<td align="right"><input type="PASSWORD" size="9" name="password" onkeydown="checkKey(event, this.form)">&nbsp;</td>
+		<td align="right"><input type="password" name="Password" size="9" onkeydown="checkKey(event, this.form)">&nbsp;</td>
 	</tr>
 	<tr>
-		<td align="right" colspan="2"><input type="image" src="/pics/q_search_go_on.gif" alt="" border="0" value="login"></td>
+		<td align="right" colspan="2"><input type="image" src="/pics/q_search_go_on.gif" alt="" border="0"></td>
 	</tr>
 	</tbody></table>
 	</td><td width="1" bgcolor="#CCCCFF"><img src="pics/spacer.gif" width="1" height="1" alt="" border="0"></td>
@@ -197,8 +223,10 @@ function lite2dark(sImgName) {
 <!--
 var bSubmitted = false;
 
-if (document.ESMLoginForm.username.value == '')	document.ESMLoginForm.username.focus();
-else document.ESMLoginForm.password.focus();
+document.frmLogin.Username.value = '';
+
+if (document.frmLogin.Username.value == '')	document.frmLogin.Username.focus();
+else document.frmLogin.Password.focus();
 
 function checkKey(evt, frm) {
 	if (evt.which == 13 || evt.keyCode == 13) {
@@ -208,15 +236,20 @@ function checkKey(evt, frm) {
 
 //-->	
 </script>
+
+
 </tbody></table>
 <!-- End From Earnware Homepage -->
 
 <table border="0" cellpadding="0" cellspacing="0" bgcolor="#ccccff">
 <tbody><tr>
-	<td colspan="2" bgcolor="#0000ff"><span class="bodywhite"><b>&nbsp;Featured Product!</b></span></td>
+	<td bgcolor="white" colspan="2" align="center"><a href="https://www.secure-session.com/enroll/Wellness/getStarted" target="_new"><img src="pics/banner-email.gif" alt="" border="0"></a></td>
 </tr>
 <tr>
-	<td bgcolor="white" colspan="2" align="center"><a href="http://www.nvessentials.com" target="_new"><!--<A HREF="#" onClick="window.open('https://www.secure-session.com/enroll/wellness/try-enp.asp','popUp','alwaysRaised=yes,width=600,height=500,scrollbars=yes,resizable=yes,status=1');return false;">--><img src="pics/enp-banner.gif" alt="" border="0"></a></td>
+	<td colspan="2" bgcolor="#0000ff"><span class="bodywhite"><b>&nbsp;Featured Products!</b></span></td>
+</tr>
+<tr>
+	<td bgcolor="white" colspan="2" align="center"><a href="https://secure.unlimitedmarketing.com/orders/newvision/06" target="_new"><img src="pics/enp-banner.gif" alt="" border="0"></a></td>
 </tr>
 <tr>
 	<td colspan="2" bgcolor="#0000ff"><span class="bodywhite">&nbsp;<b>Community</b></span></td>
@@ -456,7 +489,7 @@ function checkKey(evt, frm) {
 	<a href="/forum1.asp" style="text-decoration:none; color:'#000000;" target="_parent">Discussion</a>  |	
 	<a href="/news.asp" style="text-decoration:none; color:'#000000;'" target="_parent">News</a>  |
 	<a href="/about_us.asp" style="text-decoration:none; color:'#000000;'" target="_parent">About Us</a>  |
-	<a href="/products.asp" style="text-decoration:none; color:'#000000;'" target="_parent">Products</a>  |
+	<a href="/enp.asp" style="text-decoration:none; color:'#000000;'" target="_parent">Products</a>  |
 	<a href="/radio.asp" style="text-decoration:none; color:'#000000;'" target="_parent">Wellneses Radio</a>
 <!--
 
