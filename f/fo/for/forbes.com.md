@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608001149id_/http%3A//forbes.com/fdc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203013722id_/http%3A//www.forbes.com/fdc/privacy.shtml) for the most accurate reproduction.*
 
 # Forbes.com
 
@@ -30,9 +30,11 @@ Use of Information
 
 Our primary goal in collecting user information is to enhance your experience on our Web site. We achieve this goal by, among other things, providing interactive communications such as our electronic newsletters to the e-mail address that you provide to us, and developing future editorial content based on your interests. To develop content targeted to your interests, we use aggregated user information to determine which areas of our Web site users prefer based upon traffic to those areas. We do not track what individual users read, but instead how well each page or content area performs overall. 
 
-Forbes.com is a free Web site and we derive revenues from advertising. In order to attract and retain advertisers we use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. This is essential to keeping our service free of charge to our users. We do not disclose personally identifying information about our users to these parties. 
+Forbes.com derives the majority of its revenue from advertising. In order to attract and retain advertisers we use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. We do not disclose personally identifying information about our users to these parties. 
 
 Forbes.com may also disclose information about our users when we believe, in good faith, that the disclosure is required by law. 
+
+Forbes.com charges a nominal fee to access Forbes magazine content that is aged three months or older. Formatted versions of Forbes lists and subscriptions to investment newsletters also require payments. This privacy policy covers all these transactions as well. 
 
 When you are on an area of Forbes.com and are asked for personal information, you are sharing that information with Forbes.com as well as business partners and vendors providing hosting and other services for Forbes.com. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service. These parties, as well as advertisers who contract directly with a third-party service to serve their advertisements, may set their own cookies. 
 
