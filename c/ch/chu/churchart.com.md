@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchart.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603161002id_/http%3A//www.churchart.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchart.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210115501id_/http%3A//www.churchart.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # ChurchArtOnline Privacy Policy
 
@@ -15,7 +15,7 @@ Our postal address is:
 >  4150 Belden Village St., 4th Floor  
 >  Canton, OH 44718
 
-We can be reached via e-mail at [feedback@Churchart.com](https://web.archive.org/web/20020603161002id_/http%3A//www.churchart.com/Subscriber/TalktoUs.asp)  
+We can be reached via e-mail at [service@Churchart.com](https://web.archive.org/web/20021210115501id_/http%3A//www.churchart.com/support/default.asp?EmailUs=yes)  
 Or you can reach us by telephone at 1-800-992-2144
 
 For each visitor to our Web page, our Web server does not automatically recognize any information regarding the domain or e-mail address.
