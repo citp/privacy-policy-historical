@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the press-release-writing.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607204320id_/http%3A//www.press-release-writing.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the press-release-writing.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210144649id_/http%3A//www.press-release-writing.com/privacy.htm) for the most accurate reproduction.*
 
 # Press-Release-Writing.com Privacy Statement
 
@@ -31,5 +31,5 @@ Send email to [newsletter@press-release-writing.com](mailto:newsletter@press-rel
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact PRW 315 Fruitwood Lane  
-Knoxville, TN 37922 865.671.8436 info@press-release-writing.com  
+Knoxville, TN 37922 865.675.4869 info@press-release-writing.com  
 
