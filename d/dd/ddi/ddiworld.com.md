@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205022027id_/http%3A//ddiworld.com/utilities/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607164731id_/http%3A//ddiworld.com/utilities/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Development Dimensions International is committed to keeping any personal information that you provide on [www.ddiworld.com](http://www.ddiworld.com/) confidential. Our goal, as always, is to provide the best customer service possible, which includes maintaining our visitors' privacy.
+Development Dimensions International is committed to keeping any personal information that you provide on [www.ddiworld.com](http://www.ddiworld.com/) confidential. Our goal, as always, is to provide the best customer service possible, which includes maintaining our visitors' privacy. 
 
 This web site does not automatically collect or log personal information from its visitors. Visitors provide all personal information on a voluntary basis through visible means of data entry or collection. An individual will supply such information by: 
 
@@ -19,3 +19,16 @@ DDI may also use such information to provide advance notice of events and new pr
 The entire content (including images, text and tonal attributes) of www.ddiworld.com is © 2000-2002 Development Dimensions International and any commercial use requires the written permission of DDI. All rights reserved. DDI actively and aggressively enforces its intellectual property rights to the fullest extent of the law. 
 
 DDI and the DDI logo are federally registered service marks of Development Dimensions International. The use or misuse of these service marks is expressly prohibited and may violate federal and state trademark law. All other registered service marks are the property of their respective owners. 
+
+  
+|   
+| [Printer friendly](https://web.archive.org/web/20040607164731id_/http%3A//ddiworld.com/utilities/privacy.asp?format=print)  
+  
+| Add My DDI Favorite  
+  
+|   
+|   
+  
+---|---|---|---|---  
+  
+
