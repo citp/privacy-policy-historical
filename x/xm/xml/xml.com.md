@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603232939id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217232623id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
 
 # XML.com: O'Reilly & Associates, Inc. Privacy Policy [Feb. 06, 2001]
 
@@ -6,15 +6,24 @@
   
 ---  
 [Business](https://web.archive.org/business/)  
+[Databases](https://web.archive.org/databases/)  
 [Graphics](https://web.archive.org/graphics/)  
 [Metadata](https://web.archive.org/metadata)  
 [Mobile](https://web.archive.org/mobile/)  
 [Programming](https://web.archive.org/programming/)  
-[Protocols](https://web.archive.org/protocols)  
 [Schemas](https://web.archive.org/schemas)  
 [Style](https://web.archive.org/style)  
 [Web](https://web.archive.org/web/)  
-  
+[Web Services](https://web.archive.org/webservices)  
+    
+[Annotated XML](https://web.archive.org/pub/a/axml/axmlintro.html)  
+[What is XML?](https://web.archive.org/pub/a/98/10/guide0.html)  
+[What is XSLT?](https://web.archive.org/pub/a/2000/08/holman/index.html)  
+[What is XLink?](https://web.archive.org/pub/a/2000/09/xlink/index.html)  
+[What is XML Schema?](https://web.archive.org/pub/a/2000/11/29/schemas/part1.html)  
+[What is RDF?](https://web.archive.org/pub/a/2001/01/24/rdf.html)  
+[What are Web Services?](https://web.archive.org/pub/a/2001/04/04/webservices/index.html)
+
 [Manage Your Account](http://www.xml.com/cs/user/login)  
 [Forgot Your Password?](http://www.xml.com/cs/user/lostpw)
 
@@ -25,21 +34,14 @@
 [Style Matters](https://web.archive.org/pub/q/stylematters)  
 [XML Q&A](https://web.archive.org/pub/q/xmlqanda)  
 [Transforming XML](https://web.archive.org/pub/q/transformingxml)  
-[Perl and XML](https://web.archive.org/pub/q/perlxml)
-
-  
-   
+[Perl and XML](https://web.archive.org/pub/q/perlxml)  
+[XML Endpoints](https://web.archive.org/pub/q/endpoints)   
+[<taglines>](https://web.archive.org/pub/q/taglines)    
 [XML Resources](https://web.archive.org/resourceguide/)  
 [Buyer's Guide](https://web.archive.org/buyersguide/)  
-[Events Calendar](https://web.archive.org/pub/q/Events)  
+[Events Calendar](https://web.archive.org/events)  
 [Standards List](https://web.archive.org/pub/q/stdlist)  
-[Submissions List](https://web.archive.org/pub/q/submlist)    
-  
-[Syntax Checker](https://web.archive.org/pub/a/tools/ruwf/check.html)  
-[XML Testbed](https://web.archive.org/pub/a/tools/xmlt/index.html) [](http://www.seyboldreport.com/)
-
-[](http://www.oreillynet.com/)  
-
+[Submissions List](https://web.archive.org/pub/q/submlist)
 
   
 | 
@@ -51,9 +53,7 @@ February 06, 2001
 
 ### Purpose and Scope
 
-This policy discloses what information we gather about you when you visit any of our Web sites (all oreilly.com and O'Reilly Network sites) or buy product directly from us. It describes how we use that information and how you can control it. Our privacy policy addresses: 
-
-Information O'Reilly gathers and tracks  
+This policy discloses what information we gather about you when you visit any of our Web sites (all oreilly.com and O'Reilly Network sites) or buy product directly from us. It describes how we use that information and how you can control it. Our privacy policy addresses:  Information O'Reilly gathers and tracks  
 Personal information  
 Aggregated tracking information  
 Cookies  
@@ -108,4 +108,5 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 
   
 |  |    
-
+[](http://ad.doubleclick.net/clk;3598490;6477537;c?http://www.macromedia.com/software/jrun/download/)   
+[](http://www.oreilly.com/catalog/p2presearch/)
