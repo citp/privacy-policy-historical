@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microminimus.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223115005id_/http%3A//wickedweasel.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microminimus.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303174611id_/http%3A//wickedweasel.com/info/privacy) for the most accurate reproduction.*
 
 # Wicked Weasel Bikinis
 
@@ -62,4 +62,4 @@ Wicked Weasel will only collect, use or disclose Personal Information in complia
 
 ## Contact Wicked Weasel
 
-If you have any queries regarding the Privacy Policy or would like to examine, amend or delete any of the Personal Information, please [contact](https://web.archive.org/web/20041223115005id_/http://www.wickedweasel.com/contact) Wicked Weasel by email.
+If you have any queries regarding the Privacy Policy or would like to examine, amend or delete any of the Personal Information, please [contact](https://web.archive.org/web/20050303174611id_/http://wickedweasel.com/contact) Wicked Weasel by email.
