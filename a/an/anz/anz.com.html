@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the anz.com privacy policy that was archived on 2004-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040405043823id_/http%3A//www.anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anz.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208131143id_/http%3A//anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>ANZ Web Site Privacy and Security Statement</title>
@@ -9,85 +9,8 @@
 </head>
 <body bgcolor="#ffffff" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
 	
-
-<script language="JavaScript" type="text/javascript">
-<!--
-
-function setSearch(strAction) {
-	if (strAction == 'libraryButton')
-	{
-		document.library_form.action = "/australia/support/LibraryMedia/library_search.asp"
-		document.library_form.submit();
-	}
-}
-
-function OpenToolWindow(s) {
-  var URL = s	
-  if (s.search(".htm") != -1)
-  {
-	URL = "/common/rightbar/Popup.asp?filename=" + s
-  }
-  newWin = window.open(URL,"ANZToolWin","toolbar=0,location=0,directories=0,status=yes,menubar=no,scrollbars=1,resizable=yes,width=600,height=550");
-}
-
-function OpenNewWindow(s, width, height) {
-  if ((width <= 0) && (height <= 0))
-  {
-      width = 800;
-      height = 450;
-  }
-  newWin = window.open(s, "ANZWIN2", "toolbar=yes,status=yes,location=yes,menubar=yes,directories=yes,scrollbars=yes,resizable=yes,screenX=0,screenY=0,left=0,top=0,width=" + width + ",height=" + height);
-}
-
-function OpenWindowSecure(s) {
-  var width = 675;
-  var height = 360;
-  
-  s = "https://www.anz.com/INETBANK/" + s;
-  newWin = window.open(s, "ANZWIN2", "toolbar=0,status=1,location=no,menubar=no,directories=no,scrollbars=yes,resizable=yes,screenX=0,screenY=0,left=180,top=185,width=" + width + ",height=" + height);
-}
-
-function OpenWindow(s) {
-  if ((screen.Height >= 0) && (screen.Width >= 0))
-  {
-      var height = screen.Height - 75;
-      var width = screen.Width - 10;
-  }
-  else if ((screen.availHeight >= 0) && (screen.availWidth >= 0)) {
-     
-      var height = screen.availHeight - 45;
-      var width = screen.availWidth - 10;
-  }
-     newWin = window.open(s, "ANZWIN2", "toolbar=0,status=1,location=no,menubar=no,directories=no,scrollbars=yes,resizable=yes,screenX=0,screen=0,left=0,top=0,width=" + width + ",height=" + height);
-}
-
-function OpenFAQWindow(s) {
-  newWin = window.open(s,"ANZFAQWin","toolbar=0,location=0,directories=0,status=yes,menubar=no,scrollbars=1,resizable=no,width=380,height=302");
-}
-
-function setLogin(s) {
-	for (var i = 0; i < document.login_form.selectlogin.length; i++) {
-		if (document.login_form.selectlogin[i].checked) {
-			var str = document.login_form.selectlogin[i].value;
-			break;
-		}
-	}
-	var arrayOfURL = str.split(",");
-	var URL1 = arrayOfURL[0];
-	var URL2 = arrayOfURL[1];
-	if (s == 1)
-	{
-		if (URL1 != "") window.location.href = URL1;
-	}
-	else
-	{
-		if (URL2 != "") window.location.href = URL2;
-	}
-}
-
-//-->
-</script>
-
+<script language="JavaScript" type="text/javascript" src="/common/code/js/Utils.js"></script>
+<script language="JavaScript" type="text/javascript" src="/common/code/js/OpenWindow.js"></script>
 
 <script language="javascript" type="text/javascript">
 
@@ -215,58 +138,56 @@ function tpconfirm(windowURL, windowName, options, windowPopup)
 </script>
 <table width="780" border="0" cellspacing="0" cellpadding="2" height="51" bgcolor="#0066cc">
 <tbody><tr> 
-	<td width="110"><a href="/"><img src="/common/img/logos/logoANZ.gif" width="110" height="51" alt="ANZ home" border="0"></a></td>
+	<td width="110"><a href="/default.asp"><img src="/common/img/logos/logoANZ.gif" width="110" height="51" alt="ANZ home" border="0"></a></td>
 	<form action="/HelpCentre/Search/results.asp" method="get" id="search1" name="search1"></form>
 	<td align="right" class="textfooter2" nowrap="">
-		<a href="/australia/aboutanz/contactus/" class="textfooter2">contact us</a> 
-		<font color="#99CCFF">l</font>
-		<a href="javascript:openPopupWindow('/australia/aboutanz/anzservices/anzlocator/','locator',600,500,false)" class="textfooter2">locate us</a> 
-		<font color="#99CCFF">l</font>
-		<a href="javascript:openPopupWindow('/helpcentre/helphome.asp','helpcenter',700,600,false)" class="textfooter2">help centre</a>
-		<font color="#99CCFF">l</font>
-		<a href="/australia/aboutanz/" class="textfooter2">about ANZ</a>  
-		<font color="#99CCFF">l</font>
-		<a href="/australia/aboutanz/investorcentre/" class="textfooter2">shareholders</a> 
-        <font color="#99CCFF">l</font>
-        <a href="/aus/careers/" class="textfooter2">careers</a> 
-        <font color="#99CCFF">l</font>
-    </td>
-    <td align="right" width="100">
-		<input type="text" name="qu" size="16" maxlength="40" value="Search ANZ...">
-	</td>
-	<td align="left">
-		<input src="/common/img/buttons/ButtonGo.gif" width="25" height="25" align="absbottom" border="0" type="image" name="Search" alt="Search">
-	</td>
+<a href="/aus/contact/default.asp" class="textfooter2">contact us</a>
+<font color="#99CCFF">|</font>
+<a href="javascript:openPopupWindow('/australia/aboutanz/anzservices/anzlocator/default.asp','locator',600,500,false)" class="textfooter2">locate us</a>
+<font color="#99CCFF">|</font>
+<a href="javascript:openPopupWindow('/helpcentre/helphome.asp','helpcenter',700,600,false)" class="textfooter2">help centre</a>
+<font color="#99CCFF">|</font>
+<a href="/australia/aboutanz/default.asp" class="textfooter2">about ANZ</a>
+<font color="#99CCFF">|</font>
+<a href="/australia/aboutanz/investorcentre/default.asp" class="textfooter2">shareholders</a>
+<font color="#99CCFF">|</font>
+<a href="/aus/careers/default.asp" class="textfooter2">careers</a>
+<font color="#99CCFF">|</font></td>
+    <td align="right" width="100"><input type="text" style="width:130px" name="qu" size="8" maxlength="40" value="Search ANZ..."></td>
+	<td align="left"><input src="/common/img/buttons/ButtonGo.gif" width="25" height="25" align="absbottom" border="0" type="image" name="Search" alt="Search"></td>
 		
 </tr>
 </tbody></table>
 <table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#0066cc">
 <tbody><tr> 
 	<td width="130"><img src="/common/img/misc/trans_dot.gif" width="130" height="11" alt=""></td>
-	<td width="130"><img src="/common/img/misc/TabTop01.gif" width="130" height="11" alt="Individuals"></td>
-	<td width="130"><img src="/common/img/misc/TabTop02.gif" width="130" height="11" alt="Financial Advice"></td>
-	<td width="130"><img src="/common/img/misc/TabTop03.gif" width="130" height="11" alt="Business"></td>
-	<td width="130"><img src="/common/img/misc/TabTop04.gif" width="130" height="11" alt="Corporate"></td>
-	<td width="130"><img src="/common/img/misc/TabTop05.gif" width="130" height="11" alt="Rural"></td>
+	<td width="130"><img src="/common/img/misc/TabTop01.gif" width="130" height="11" alt=""></td>
+	<td width="130"><img src="/common/img/misc/TabTop02.gif" width="130" height="11" alt=""></td>
+	<td width="130"><img src="/common/img/misc/TabTop03.gif" width="130" height="11" alt=""></td>
+	<td width="130"><img src="/common/img/misc/TabTop04.gif" width="130" height="11" alt=""></td>
+	<td width="130"><img src="/common/img/misc/TabTop05.gif" width="130" height="11" alt=""></td>
 </tr>
 <tr>
-	<td><div id="tabhome" onmouseover="Home.src='/common/img/buttons/TabOnHome.gif'" onmouseout="Home.src='/common/img/buttons/TabHome.gif'"> <a href="/default.asp"><img src="/common/img/buttons/TabHome.gif" id="Home" width="130" height="27" alt="Home" border="0"></a></div></td>
+	<td><div id="tabhome" onmouseover="Home.src='/common/img/buttons/TabOnHome.gif'" onmouseout="Home.src='/common/img/buttons/TabHome.gif'"> <a href="/default.asp"><img src="/common/img/buttons/TabHome.gif" id="Home" width="130" height="27" alt="ANZ homepage" border="0"></a></div></td>
+	
 	<td><div id="tab01" onmouseover="Indi.src='/common/img/buttons/TabOn01.gif'" onmouseout="Indi.src='/common/img/buttons/Tab01.gif'"><a href="/aus/personal/"><img src="/common/img/buttons/Tab01.gif" id="Indi" width="130" height="27" alt="Individuals" border="0"></a></div></td>
-	<td><div id="tab02" onmouseover="Financial.src='/common/img/buttons/TabOn02.gif'" onmouseout="Financial.src='/common/img/buttons/Tab02.gif'"><a href="/wealth/default.asp"><img src="/common/img/buttons/Tab02.gif" id="Financial" width="130" height="27" alt="Financial Advice" border="0"></a></div></td>
+	
+	<td><div id="tab02" onmouseover="Financial.src='/common/img/buttons/TabOn02.gif'" onmouseout="Financial.src='/common/img/buttons/Tab02.gif'"><a href="/aus/fin/default.asp"><img src="/common/img/buttons/Tab02.gif" id="Financial" width="130" height="27" alt="Investing" border="0"></a></div></td>
+	
 	<td><div id="tab03" onmouseover="Business.src='/common/img/buttons/TabOn03.gif'" onmouseout="Business.src='/common/img/buttons/Tab03.gif'"><a href="/australia/business/"><img src="/common/img/buttons/Tab03.gif" id="Business" width="130" height="27" alt="Business" border="0"></a></div></td>
+	
 	<td><div id="tab04" onmouseover="Corporate.src='/common/img/buttons/TabOn04.gif'" onmouseout="Corporate.src='/common/img/buttons/Tab04.gif'"><a href="http://www.online.anz.com/corporate/"><img src="/common/img/buttons/Tab04.gif" id="Corporate" width="130" height="27" alt="Corporate" border="0"></a></div></td>
+	
 	<td><div id="tab05" onmouseover="Rur.src='/common/img/buttons/TabOn05.gif'" onmouseout="Rur.src='/common/img/buttons/Tab05.gif'"><a href="/australia/rural/ANZ_rural.asp"><img src="/common/img/buttons/Tab05.gif" id="Rur" width="130" height="27" alt="Rural" border="0"></a></div></td>
 </tr>
 </tbody></table>
 <table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#0066cc">
 <tbody><tr> 
-		
-		<td><img src="/common/img/misc/ANZBlueBar.gif" width="100%" height="11" alt=""></td>
-	
+				<td><img src="/common/img/misc/ANZBlueBar.gif" width="100%" height="11" alt=""></td>
 </tr>
 </tbody></table>
 
-
+	
 	<table cellpadding="0" cellspacing="0" border="0" width="780">
 	<tbody><tr>
 	<td valign="top" width="180" bgcolor="#0066cc">
@@ -284,7 +205,7 @@ function tpconfirm(windowURL, windowName, options, windowPopup)
 	<td width="12"></td>
 	<td width="140"></td>
 </tr>
-<tr><td width="16" align="center"><img src="/common/img/arrows/arrow_12s.gif" width="10" height="10" align="center"></td><td colspan="3" width="164" align="left"><a href="/australia/aboutanz/default.asp" class="subheader2"><font color="#0066cc" face="verdana" size="-4" class="subheader2">About ANZ</font></a></td></tr><tr><td colspan="4" height="4"><img src="/common/img/misc/trans_dot.gif" height="4" width="180"></td></tr><tr><td width="16" align="center"><img src="/common/img/arrows/arrow_12e.gif" width="10" height="10"></td><td align="left" colspan="3" width="164"><a href="/australia/support/general/anzwebsite.asp" class="subheader2"><font color="#0066cc" face="verdana" size="-4" class="subheader2">ANZ's Web Site</font></a></td></tr><tr><td colspan="4"><img src="/common/img/misc/trans_dot.gif" height="3" width="180"></td></tr><tr><td width="16" align="center"><img src="/common/img/misc/trans_dot.gif" width="12" height="8"></td><td width="12" align="center"><img src="/common/img/misc/trans_dot.gif" width="12" height="8"></td><td align="left" colspan="2" width="152"><a href="/australia/support/general/disclaimer.asp" class="subtext2"><font color="#0066cc" face="verdana" size="-4" class="subtext2">Web Site Terms of Use</font></a></td></tr><tr><td colspan="4"><img src="/common/img/misc/trans_dot.gif" height="3" width="180"></td></tr><tr><td width="16" align="center"><img src="/common/img/misc/trans_dot.gif" width="12" height="8"></td><td width="12" align="center"><img src="/common/img/misc/trans_dot.gif" width="12" height="8"></td><td align="left" colspan="2" width="152"><a href="/australia/support/general/AboutSite.asp" class="subtext2"><font color="#0066cc" face="verdana" size="-4" class="subtext2">About this site</font></a></td></tr><tr><td colspan="4"><img src="/common/img/misc/trans_dot.gif" height="3" width="180"></td></tr><tr><td width="16" align="center"><img src="/common/img/misc/trans_dot.gif" width="12" height="8"></td><td width="12" align="center"><img src="/common/img/arrows/arrow_12e.gif" width="10" height="10" align="center"></td><td align="left" colspan="2" width="152"><font color="#CCFF33" face="verdana" size="-4" class="subheader4" style="color:#CCFF33">ANZ Web Site Security and Privacy Statement</font></td></tr><tr><td colspan="4"><img src="/common/img/misc/trans_dot.gif" height="8" width="180"></td></tr><tr><td colspan="4"><img src="/common/img/misc/trans_dot.gif" width="180" height="6"></td></tr>
+<tr><td width="16" align="center"><img src="/common/img/arrows/arrow_12s.gif" width="10" height="10" align="center"></td><td colspan="3" width="164" align="left"><a href="/australia/support/general/anzwebsite.asp" class="subheader2"><font color="#0066cc" face="verdana" size="-4" class="subheader2">ANZ's Web Site</font></a></td></tr><tr><td colspan="4" height="4"><img src="/common/img/misc/trans_dot.gif" height="4" width="180"></td></tr><tr><td width="16" align="center"><img src="/common/img/arrows/arrow_12e.gif" width="10" height="10" align="center"></td><td align="left" colspan="3" width="164"><font color="#CCFF33" face="verdana" size="-4" class="subheader4" style="color:#CCFF33">ANZ Web Site Security and Privacy Statement</font></td></tr><tr><td colspan="4"><img src="/common/img/misc/trans_dot.gif" width="180" height="6"></td></tr>
 </tbody></table></td></tr>
 	<tr> 
 		<td width="180" height="100%"><img src="/common/img/misc/trans_dot.gif" width="180" height="5"></td> 
@@ -406,7 +327,7 @@ function openFullWindow(url, name, width, height, returnWindow)
 <tbody><tr>
 <td>
 
-	<p class="pageheader1">ANZ Web Site Privacy and Security Statement</p><p>
+	<p class="pageheader1">ANZ Website Security and Privacy Statement</p><p>
     </p><ul class="arrowlist1">
 		<a href="#About"></a><li><a href="#About">About This Security and Privacy Statement</a>
 		<a href="#SecurityOfInformation"></a></li><li><a href="#SecurityOfInformation">Security of Information</a>
@@ -422,13 +343,13 @@ function openFullWindow(url, name, width, height, returnWindow)
 	
 	</p><div align="center"><img alt="" height="1" src="/common/img/misc/dot_000000.gif" width="100%"><br></div>
 	<span class="header3"><a name="About">About This Security and Privacy Statement</a></span>
-	<p>This Security and Privacy Statement applies to this Web Site which is operated by Australia and New Zealand Banking Group Limited (ABN 11 005 357 522) ("ANZ") under the domain name "www.anz.com" ("ANZ Web Site"). The ANZ Web Site is operated on behalf of ANZ and its related bodies corporate (together called the "ANZ Group"). The information described in this Security and Privacy Statement may be shared between members of the ANZ Group.</p>
-	<p>This Security and Privacy Statement may also apply to services offered by ANZ on Web Sites hosted by third parties. If so, express reference to this Security and Privacy Statement will be made on those Web Sites. 
-	</p><p>ANZ understands and appreciates that you, as an ANZ Web Site visitor, are concerned about your privacy and about the confidentiality and security of information we may gain about you online. ANZ is committed to protecting your privacy. This ANZ Security and Privacy Statement explains how your personal information will be treated as you access and interact with the ANZ Web Site. 
-	</p><p>As the ANZ Web Site develops and as technology evolves, ANZ will continue to strive to provide you with better and more customised services and with a more effective Web Site. ANZ encourages you to review the Security and Privacy Statement periodically because the Security and Privacy Statement may change from time to time. 
-	</p><p>ANZ has an ANZ Privacy Policy, which explains how ANZ generally protects your privacy and confidentiality. The principles set out in this ANZ Privacy Policy also apply to ANZ Web Sites. To read the ANZ Privacy Policy, <a href="/australia/aboutanz/PrivacyPolicy/">click here</a>.
-	</p><p>In addition to the provisions of this Security and Privacy Statement, there may also be specific and additional privacy provisions which apply to certain sections of the ANZ Web Site. Because those specific and additional provisions also relate to your privacy protection, you should review them 
-	   wherever they are accessible by you on the ANZ Web Site. In the event of any inconsistency between the provisions of this Security and Privacy Statement and those other specific and additional provisions, the specific and additional provisions will prevail. 
+	<p>This Security and Privacy Statement applies to this website which is operated by Australia and New Zealand Banking Group Limited (ABN 11 005 357 522) ("ANZ") under the domain name "www.anz.com" ("ANZ website"). The ANZ website is operated on behalf of ANZ and its related bodies corporate (together called the "ANZ Group"). The information described in this Security and Privacy Statement may be shared between members of the ANZ Group.</p>
+	<p>This Security and Privacy Statement may also apply to services offered by ANZ on websites hosted by third parties. If so, express reference to this Security and Privacy Statement will be made on those websites. 
+	</p><p>ANZ understands and appreciates that you, as an ANZ website visitor, are concerned about your privacy and about the confidentiality and security of information we may gain about you online. ANZ is committed to protecting your privacy. This ANZ Security and Privacy Statement explains how your personal information will be treated as you access and interact with the ANZ website. 
+	</p><p>As the ANZ website develops and as technology evolves, ANZ will continue to strive to provide you with better and more customised services and with a more effective website. ANZ encourages you to review the Security and Privacy Statement periodically because the Security and Privacy Statement may change from time to time. 
+	</p><p>ANZ has an <a href="/australia/aboutanz/PrivacyPolicy/">ANZ Privacy Policy</a>, which explains how ANZ generally protects your privacy and confidentiality. The principles set out in this ANZ Privacy Policy also apply to ANZ websites.
+	</p><p>In addition to the provisions of this Security and Privacy Statement, there may also be specific and additional privacy provisions which apply to certain sections of the ANZ website. Because those specific and additional provisions also relate to your privacy protection, you should review them 
+	   wherever they are accessible by you on the ANZ website. In the event of any inconsistency between the provisions of this Security and Privacy Statement and those other specific and additional provisions, the specific and additional provisions will prevail. 
 
 	</p><p>&nbsp;
 	</p><div align="center">
@@ -437,7 +358,7 @@ function openFullWindow(url, name, width, height, returnWindow)
 		<tr><td class="header3"><a name="SecurityOfInformation">Security of Information</a><br></td><td align="right"><a class="header1" href="#top"><img alt="" border="0" height="9" src="/common/img/arrows/arrow_1n.gif" width="12">top</a></td></tr>
 	</tbody></table>
 	</div>
-	<p>ANZ takes reasonable steps to preserve the security of cookie and personal information in accordance with the ANZ Web Site Terms of Use and this Security and Privacy Statement. If your browser is suitably configured, it will advise you whether the information you are sending us will be secure (encrypted) or not secure (unencrypted). If secure transmission is indicated, ANZ currently uses 128 bit SSL encryption. 
+	<p>ANZ takes reasonable steps to preserve the security of cookie and personal information in accordance with the ANZ website Terms of Use and this Security and Privacy Statement. If your browser is suitably configured, it will advise you whether the information you are sending us will be secure (encrypted) or not secure (unencrypted). If secure transmission is indicated, ANZ currently uses 128 bit SSL encryption. 
 	</p><p>ANZ regularly reviews developments in security and encryption technologies. Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although ANZ strives to protect such information, ANZ cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems. 
 	</p><p>&nbsp;
 
@@ -448,14 +369,14 @@ function openFullWindow(url, name, width, height, returnWindow)
 		<tr><td class="header3"><a name="InformationCollected">Information Collected</a><br></td><td align="right"><a class="header1" href="#top"><img alt="" border="0" height="9" src="/common/img/arrows/arrow_1n.gif" width="12">top</a></td></tr>
 	</tbody></table>
 	</div>
-	<p>The information that we will collect about you will depend on how you use the facilities offered by the ANZ Web Site. 
-	</p><p>If you visit an unsecure area of the ANZ Web Site (that is, an area where you are not required to log on) to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our systems will not record any personally identifiable information. 
-	</p><p>The ANZ Web Site offers a number of interactive facilities including tools such as budget planners and home loan calculators, as well as online application forms. 
+	<p>The information that we will collect about you will depend on how you use the facilities offered by the ANZ website. 
+	</p><p>If you visit an unsecure area of the ANZ website (that is, an area where you are not required to log on) to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our systems will not record any personally identifiable information. 
+	</p><p>The ANZ website offers a number of interactive facilities including tools such as budget planners and home loan calculators, as well as online application forms. 
 	</p><p>If you use any of the tools such as the budget planner or home loan calculator we generally do not capture any personal information that you may enter when using these tools. An exception is where a tool such as a budget planner allows you to suspend or save your plan and retrieve the details at a later time. In that case the information is stored on our systems so that you may recover the information when you resume your plan. Any information stored in a suspended or saved budget planner or other similar tool will not be viewed by ANZ. 
 	</p><p>If you decide to complete an online application form, the information that you enter into the online form will only be collected by us if you submit your online application. If at any stage you cancel your application or log out prior to submitting your application, the information you have entered up to that point will be automatically deleted. If you suspend or save your application, for example because you wish to complete it at another time, the information that you have entered will be retained in our systems so that you may recover the information when you resume your application. You may only recover this information within 30 days. After this time, the information is deleted. Online applications that have been suspended or saved will not be viewed by us and are not processed by us. 
-	</p><p>The ANZ Web Site also contains links to the Web Sites of third party providers of goods and services ("Third Party Web Sites"). If you have accessed Third Party Web Sites through the ANZ Web Site and if those third parties collect information about you, ANZ may also collect or have access to that information as part of our arrangements with those third parties. 
-	</p><p>Where you access a Third Party Web Site from the ANZ Web Site, cookie information, information about your preferences or other information you have provided about yourself may be shared between us and the third party. You cannot usually be identified from the information that is shared; if you can be identified from this information, we will seek your consent before sharing such information.
-	</p><p>Third Party Web Sites should contain their own privacy statements and those third parties are responsible for their own privacy practices. 
+	</p><p>The ANZ website also contains links to the websites of third party providers of goods and services ("Third Party websites"). If you have accessed Third Party websites through the ANZ website and if those third parties collect information about you, ANZ may also collect or have access to that information as part of our arrangements with those third parties. 
+	</p><p>Where you access a Third Party website from the ANZ website, cookie information, information about your preferences or other information you have provided about yourself may be shared between us and the third party. You cannot usually be identified from the information that is shared; if you can be identified from this information, we will seek your consent before sharing such information.
+	</p><p>Third Party websites should contain their own privacy statements and those third parties are responsible for their own privacy practices. 
 	</p><p>&nbsp;
 	
 	
@@ -465,35 +386,27 @@ function openFullWindow(url, name, width, height, returnWindow)
 		<tr><td class="header3"><a name="Advertising">Advertising and Tracking</a><br></td><td align="right"><a class="header1" href="#top"><img alt="" border="0" height="9" src="/common/img/arrows/arrow_1n.gif" width="12">top</a></td></tr>
 	</tbody></table>
 	</div>
-	<p>ANZ uses the following companies to deliver its online advertising where ANZ banner advertisements are placed on Third Party Web Sites:
-		</p><ul>
-			<li>Doubleclick International Asia BV
-			</li><li>Traffion Technologies Pty Ltd (ABN 24 092 793 943).  
-			</li><li>Advertising.com Inc.  
-		</li></ul>
-		<br>(together, "Advertising Companies")
-	<p>When you view an ANZ advertisement on a Third Party Web Site, the Advertising Companies use "cookies" and in some cases "web beacons"  to collect information such as:
+	<p>ANZ uses Doubleclick International Asia BV to deliver its online advertising where ANZ banner advertisements are placed on Third Party websites ("Advertising Company").
+	</p><p>When you view an ANZ advertisement on a Third Party website, the Advertising Company uses "cookies" and in some cases "web beacons"  to collect information such as:
 		</p><ul>
 			<li>the server your computer is logged onto;
 			</li><li>your browser type; and
 			</li><li>the date and time of your visit,
 		</li></ul>
-	<p>and to track the performance of their marketing efforts.  When you access the ANZ Web Site after viewing an ANZ advertisement on a Third Party Web Site, the Advertising Companies collect information on how you utilise the ANZ Web Site (eg which pages you view) and whether you complete an online application.
-	</p><p>In addition, ANZ also uses the following companies to collect information on how you utilise the ANZ Website:
+	<p>and to track the performance of their marketing efforts.  When you access the ANZ website after viewing an ANZ advertisement on a Third Party website, the Advertising Company collects information on how you utilise the ANZ website (eg which pages you view) and whether you complete an online application.
+	</p><p>In addition, ANZ also uses the following companies to collect information on how you utilise the ANZ website:
 		</p><ul>
 			<li>RedSheriff Limited
 			</li><li>Memetrics Pty Ltd	
 		</li></ul>
-	<p>("Tracking Companies"). These Tracking Companies also use cookies to collect information similar to that collected by the Advertising Companies.
-	</p><p>The Advertising Companies and Tracking Companies ("Companies") use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ Web Site. As a general rule, no personal information is collected by the Companies in this process. If, however, any personal information is incorporated in information that the Companies automatically collect, these Companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information.
+	<p>("Tracking Companies"). These Tracking Companies also use cookies to collect information similar to that collected by the Advertising Company.
+	</p><p>The Advertising Company and Tracking Companies ("Companies") use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ website. As a general rule, no personal information is collected by the Companies in this process. If, however, any personal information is incorporated in information that the Companies automatically collect, these Companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information.
 	</p><p>We may disclose the information collected by a Company, in an aggregate form only, to third parties including advertisers or potential advertisers. 
-	</p><p>You can opt-out of DoubleClick cookies by <a href="http://www.doubleclick.net/us/corporate/privacy/opt-out.asp?asp_object_1=&amp;"> following the instructions</a> here. This opt-out is applicable to DoubleClick tracking your current browser throughout DoubleClick’s network of websites, including the ANZ Web Site.  
-	</p><p>You can find out further information in relation to RedSheriff, the RedSheriff auditing system, and RedSheriff’s privacy policy by clicking <a href="http://www.redsheriff.com/au/content/home.html">here</a>.
+	</p><p>You can <a href="javascript:tpconfirm('http://www.doubleclick.net/us/corporate/privacy/opt-out.asp?asp_object_1=&amp;','OptOut','',true)">opt-out of DoubleClick cookies</a>. This opt-out is applicable to DoubleClick tracking your current browser throughout DoubleClick’s network of websites, including the ANZ website.  
+	</p><p>You can find out further information in relation to RedSheriff, the RedSheriff auditing system, and RedSheriff’s privacy policy by visiting the <a href="javascript:tpconfirm('http://www.redsheriff.com/au/content/home.html','RedSheriff','',true)">RedSheriff website</a>.
 	</p><p>You can access the Privacy Statements from the Companies here:
 	</p><ul>
-		<li><a href="http://www.traffion.com/privacy/privacy.asp">Traffion</a>;
-		</li><li><a href="http://www.advertising.com/privacy_policy.htm">Advertising.com;</a>
-		</li><li><a href="http://www.redsheriff.com/au/content/privacy_1.html">RedSheriff</a>
+		<li><a href="javascript:tpconfirm('http://www.redsheriff.com/au/content/privacy_1.html','RedSheriff','',true)">RedSheriff</a>
 		</li><li><a href="javascript:openPopupWindow('Memetrics_privacy.htm','MemetricsPrivacy','650','500', false)">Memetrics</a>
 	</li></ul>
 	
@@ -505,18 +418,18 @@ function openFullWindow(url, name, width, height, returnWindow)
 		<tr><td class="header3"><a name="Cookies">Cookies</a><br></td><td align="right"><a class="header1" href="#top"><img alt="" border="0" height="9" src="/common/img/arrows/arrow_1n.gif" width="12">top</a></td></tr>
 	</tbody></table>
 	</div>
-	<p>We use "cookies" as a fundamental part of our interaction with your Internet browser. The purpose is to provide you with better and more customised service and with a more effective Web Site. 
-	</p><p>A "cookie" is a small text file placed on your computer by our web page server. A cookie can later be retrieved by our webpage servers. Cookies are frequently used on Web Sites and you can choose if and how a cookie will be accepted by configuring your preferences and options in your browser. 
-	</p><p>ANZ uses cookies for two different purposes. We allocate a cookie to each Internet browser that visits the ANZ Web Site. This cookie does not allow us to collect personally identifiable information about you. We use this cookie: 
+	<p>We use "cookies" as a fundamental part of our interaction with your Internet browser. The purpose is to provide you with better and more customised service and with a more effective website. 
+	</p><p>A "cookie" is a small text file placed on your computer by our web page server. A cookie can later be retrieved by our webpage servers. Cookies are frequently used on websites and you can choose if and how a cookie will be accepted by configuring your preferences and options in your browser. 
+	</p><p>ANZ uses cookies for two different purposes. We allocate a cookie to each Internet browser that visits the ANZ website. This cookie does not allow us to collect personally identifiable information about you. We use this cookie: 
 		</p><ul>
 			<li>to allocate an ANZ identification number to your Internet browser (but we cannot identify you from this number); 
-			</li><li>to determine if you have previously visited the ANZ Web Site; 
-			</li><li>to identify pages you have accessed and Third Party Web Sites you have accessed; and 
+			</li><li>to determine if you have previously visited the ANZ website; 
+			</li><li>to identify pages you have accessed and Third Party websites you have accessed; and 
 			</li><li>for security purposes. 
 		</li></ul>
- 	<p>Most of the ANZ Web Site operates by using this type of cookie. 
- 	</p><p>Accordingly, if you wish to make full use of the ANZ Web Site, it is required that you accept cookies. 
- 	</p><p>ANZ also uses cookies for secure services (that is, an area where you are required to log on) on the ANZ Web Site. These cookies are used for a variety of purposes, including for security and personalisation reasons. If your browser is configured to reject all cookies you will be unable to use secure services on the ANZ Web Site that require cookies in order to participate. Those services include (but are not limited to): 
+ 	<p>Most of the ANZ website operates by using this type of cookie. 
+ 	</p><p>Accordingly, if you wish to make full use of the ANZ website, it is required that you accept cookies. 
+ 	</p><p>ANZ also uses cookies for secure services (that is, an area where you are required to log on) on the ANZ website. These cookies are used for a variety of purposes, including for security and personalisation reasons. If your browser is configured to reject all cookies you will be unable to use secure services on the ANZ website that require cookies in order to participate. Those services include (but are not limited to): 
 		</p><ul>
 			<li>ANZ Internet Banking;
 			</li><li><em>runningmybusiness</em>;
@@ -542,7 +455,7 @@ function openFullWindow(url, name, width, height, returnWindow)
 		<tr><td class="header3"><a name="UseAndDisclosure">Use and Disclosure of Information</a><br></td><td align="right"><a class="header1" href="#top"><img alt="" border="0" height="9" src="/common/img/arrows/arrow_1n.gif" width="12">top</a></td></tr>
 	</tbody></table>
 	</div>
-	<p>We will only use or disclose personal information or information generated by cookies in accordance with the ANZ Privacy Policy, specific and additional provisions relating to privacy which apply to certain areas of the ANZ Web Site and as otherwise set out in this Security and Privacy Statement. 
+	<p>We will only use or disclose personal information or information generated by cookies in accordance with the ANZ Privacy Policy, specific and additional provisions relating to privacy which apply to certain areas of the ANZ website and as otherwise set out in this Security and Privacy Statement. 
 	</p><p>&nbsp;
 
 
@@ -552,11 +465,11 @@ function openFullWindow(url, name, width, height, returnWindow)
 		<tr><td class="header3"><a name="AcceptanceAndChanges">Acceptance and Changes to Security and Privacy Statement</a><br></td><td align="right"><a class="header1" href="#top"><img alt="" border="0" height="9" src="/common/img/arrows/arrow_1n.gif" width="12">top</a></td></tr>
 	</tbody></table>
 	</div>
-	<p>You acknowledge and accept that your use of the ANZ Web Site indicates your acceptance of the ANZ Web Site Terms of Use and the Security and Privacy Statement. 
-	</p><p>This is the current Security and Privacy Statement. It replaces any other Security and Privacy Statement for the ANZ Web Site published on the ANZ Web Site to date. ANZ may at any time vary the Security and Privacy Statement by publishing the varied Security and Privacy Statement on the ANZ Web Site. You accept that by doing this, ANZ has provided you with sufficient notice of the variation. 
+	<p>You acknowledge and accept that your use of the ANZ website indicates your acceptance of the ANZ website Terms of Use and the Security and Privacy Statement. 
+	</p><p>This is the current Security and Privacy Statement. It replaces any other Security and Privacy Statement for the ANZ website published on the ANZ website to date. ANZ may at any time vary the Security and Privacy Statement by publishing the varied Security and Privacy Statement on the ANZ website. You accept that by doing this, ANZ has provided you with sufficient notice of the variation. 
 
 		
-	</p><p class="subtext1">Date of Publication - 10 April 2002 - Version 7
+	</p><p class="subtext1">Date of Publication - 8 November 2004 - Version 7
 	<br class="subtext1">Adobe and Acrobat Reader are trademarks of Adobe Systems Incorporated</p>    
     <p>&nbsp;
 </p></td>
@@ -586,6 +499,7 @@ function openFullWindow(url, name, width, height, returnWindow)
 <a href="/australia/support/general/Privacystatement.asp" target="_blank">ANZ Web Site Security and Privacy Statement</a></p>
 </td>
 </tr>
+
 </tbody></table>
 <br>
 
