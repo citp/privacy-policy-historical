@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the page3.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207120200id_/http%3A//page3.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page3.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330205623id_/http%3A//www.page3.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Page3.com - PRIVACY POLICY
 
-|  | 
-
-PRIVACY POLICY - NEWS GROUP NEWSPAPERS LTD. 
+|  |  |  PRIVACY POLICY - NEWS GROUP NEWSPAPERS LTD. 
 
 **News Group Newspapers Limited** takes the privacy of all its users and customers very seriously, and takes great care with user and customer information. This Privacy Statement outlines how your personal information is treated and forms part of the [Terms and Conditions](https://web.archive.org/termsandconds.html) of this site. We may occasionally modify our Privacy Statement, and when this happens, we will notify you via our homepage. 
 
@@ -104,7 +102,6 @@ Email us at [unsubscribe@newsint.co.uk](mailto:unsubscribe@newsint.co.uk), or Te
 Please allow forty days for the unsubscribe process to be completed. 
 
 
-
-
-|   
----|---|---
+  
+---  
+« BACK
