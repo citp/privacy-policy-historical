@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the indiainfoline.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204193534id_/http%3A//www.indiainfoline.com/home/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiainfoline.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602015332id_/http%3A//www.indiainfoline.com/home/priv.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| [Format for print ](https://web.archive.org/cgi-bin/print.pl)  
+| [Sector](https://web.archive.org/sect/)  
 ---  
-   
-[Sector](https://web.archive.org/sect/)  
    
 [Company](https://web.archive.org/comp/)  
    
@@ -31,7 +29,7 @@
    
 [Market Talk](https://web.archive.org/nevi/opli/)  
    
-[Biz-End line](https://web.archive.org/week/)  
+[Biz-End line](https://web.archive.org/week/june2001/)  
    
 [About us](https://web.archive.org/home/inli.html)  
    
@@ -55,9 +53,9 @@ Indiainfoline.com reserves the right to change this policy at any time by notify
   
    
   
-[Message Boards](https://web.archive.org/cgi-bin/wwwthreads/wwwthreads.pl)  
+[Message Boards](https://web.archive.org/message/main.asp)  
   
-[Post a message](https://web.archive.org/cgi-bin/wwwthreads/wwwthreads.pl)   
+[Post a message](https://web.archive.org/message/main.asp)   
     
    
   
@@ -66,28 +64,13 @@ Quick Search
 **Enter IIL company code**  
   
   
-[Look up code](https://web.archive.org/cgi-bin/prog/symb.pl?all=1)  
+[Look up code](https://web.archive.org/comp/symb.asp?all=1)  
   
    
   
 Subscribe to IIL Newsletters   
   
    
-  
-[Index Futures](https://web.archive.org/igame/)  
-  
-Real time simulated   
-Index Futures Game  
-\- Attractive prizes to be won   
-   
-   
-[
-
-Portfolio Tracker 
-
-](https://web.archive.org/cgi-bin/port/crea.pl)  
-Create, manage and monitor your personal portfolio. Also receive emails,news...   
-    
    
   
 [Drop us a line](https://web.archive.org/drli.html)  
@@ -96,11 +79,6 @@ Drop us your queries & suggestions
    [](https://web.archive.org/drli.html)  
   
    
-  
-Bookmark this page  
-[Mail to a friend ](https://web.archive.org/mafr.html)  
-[Format for print](https://web.archive.org/cgi-bin/print.pl)  
-  
    
   
 [](http://www.5paisa.com/)  
