@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001203114id_/http%3A//overdrive.com/contact/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630191642id_/http%3A//overdrive.com/contact/privacy.asp) for the most accurate reproduction.*
 
 # OverDrive, Inc. -- Privacy Statement
 
@@ -38,7 +38,7 @@ We have provided links to other sites, outside the control of OverDrive, that we
 
 ## Newsletter Subscription
 
-We make available an email newsletter and should you decide to subscribe we will send you newsletter announcements from time to time. We will use this information only to send you announcements in regards to OverDrive products and services as well as related issues concerning OverDrive. You may unsubscribe at any time by sending an email to [remove@overdrive.com](mailto:remove@overdrive.com) and requesting to be removed. 
+We make available an email newsletter and should you decide to subscribe we will send you newsletter announcements from time to time. We will use this information only to send you announcements in regards to OverDrive products and services as well as related issues concerning OverDrive. You may unsubscribe at any time by sending an email to [info@overdrive.com](mailto:info@overdrive.com) and requesting to be removed. 
 
 ## Sharing of Information and Unsolicited Communications
 
