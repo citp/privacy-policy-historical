@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405044852id_/http%3A//www.bbbsa.org/site/pp.asp%3Fc%3DiuJ3JgO2F%26b%3D14614) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204125238id_/http%3A//www.bbbsa.org/site/pp.asp%3Fc%3DiuJ3JgO2F%26b%3D14614) for the most accurate reproduction.*
 
 # privacy notice - Big Brothers Big Sisters
 
@@ -50,7 +50,7 @@ The BBBS website may contain links to other websites that operate independently 
 
 **How can I update my contact information?**
 
-[Click here](http://www.bbbsa.org/site/lookup.asp?c=iuJ3JgO2F&b=14848) to update the contact information you have given us.
+Click here to update the contact information you have given us.
 
 **Will I receive email from BBBS?**
 
@@ -58,13 +58,13 @@ We will send you email only if you have provided us with your email address and 
 
 **What if I prefer not to receive communications from BBBS?**
 
-If you prefer not to receive information from us, please update your preference by [clicking here](http://www.bbbsa.org/site/lookup.asp?c=iuJ3JgO2F&b=14848).
+If you prefer not to receive information from us, please update your preference by clicking here.
 
 **How can I contact BBBS?**
 
-If you have any questions about BBBS’s privacy practices, [click here](http://www.bbbsa.org/site/lookup.asp?c=iuJ3JgO2F&b=14604).
+If you have any questions about BBBS’s privacy practices, click here.
 
 **Hunton and Williams  
 Center for Information Policy Leadership  
 New York, NY  
-**[http://www.hunton.com/info_policy/privacy.htm](http://www.hunton.com/info_policy/privacy.htm)
+**http://www.hunton.com/info_policy/privacy.htm
