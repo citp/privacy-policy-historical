@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ni.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620093222id_/http%3A//www.ni.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ni.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205024500id_/http%3A//www.ni.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # National Instruments Online Privacy Statement
 
