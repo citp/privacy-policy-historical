@@ -1,41 +1,19 @@
-> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 1999-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991105062714id_/http%3A//www.gateway.com/footer/privacy/Index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621101704id_/http%3A//www.gateway.com/about/spotnews/privacy.shtml) for the most accurate reproduction.*
 
 # Gateway.com: Privacy
 
-Gateway respects our clients' right to privacy online. We hold detailed client information in confidence.
+Gateway wants to be your trusted guide in this digital age. The foundation of that role is building life-long relationships with our clients based on mutual trust and respect.
 
-**Asking for your information**
+As part of this relationship, we want to assure you that we will always respect your privacy. From time to time on our Web site or in phone or face to face conversations, we'll ask you for information. Beyond your name and address, we may ask for your e-mail address, telephone number, occupation, the size of your family, your hobbies - things that will help us offer products and services that can help you get the most of technology.
 
-We will sometimes ask clients for personal information such as you name, address, e-mail address, occupation, hobbies and other details. Providing us your information will simply help us offer products and services that we think you'd like to hear about. When you choose to give personal information to us over the Internet that we or our business partners may request, we will endeavor to inform you how we will use the information.
+You can be certain that Gateway will never sell, rent, or disclose in any manner, personal information you give us to any other company for their use in selling their products and services. When we do contract with another company to market or advertise products or services for us, we will require those companies to protect your information consistent with our stringent practices.
 
-When we ask for personal information for any reason, we will provide a link to this policy statement to make our intentions clear.
+Whenever we ask for this information, we'll be clear about why we want it and will include links to this note and the [Online Privacy Statement](https://web.archive.org/web/20000621101704id_/http%3A//www.gateway.com/about/spotnews/online_privacy.shtml) posted on this site. We use strong, online industry standard encryption to assure your order information remains safe. But beyond that, we always encourage Gateway employees to treat your information as they would like to have similar information about themselves treated.
 
-**Personal Information Privacy**
+We welcome your comments on this policy. Thank you for visiting our site and we look forward to building a long-term relationship with you.
 
-Gateway will take all appropriate steps to keep your personal information confidential. Those steps include limiting access to client information databases, communicating this policy statement to all Gateway employees and establishing and enforcing penalties for violating this statement.
+**Ted Waitt  
+Chairman of the Board  
+Gateway**
 
-Gateway will not sell, rent, or give away our clients' personal information to other companies for them to use in selling others' products or services. When we do contract with another company to market or advertise products or services for us, we will insist on binding agreements from those companies protecting our client information. We will vigorously enforce all privacy agreements we have with other companies.
-
-We gather personal information from our clients so we can better develop our relationship with those clients. Occasionally, we seek client comments on our products and services. These comments allow us to determine which products and services our clients should be made aware of based on their specific needs.
-
-We will communicate with clients via e-mail or other online delivery devices only if the client agrees to receive those communications. Clients, who believe they are receiving our communications in error or no longer desire to receive them, should inform us and we will remove those clients' names from our mailing lists. Gateway will be judicious in the use of e-mail and paper mail to communicate with clients. We will, at all times, put ourselves in the place of the recipients of our mail and treat our clients as we ourselves would like to be treated.
-
-Gateway has teamed with others to provide our clients with enhanced Internet services. In providing such services, our business partners also may request personal information from our clients. We prohibit these business partners from selling or giving away our client information and we require them to have a posted Privacy Policy, so that our clients may review it before providing personal information to our business partners.
-
-**Order Information Privacy**
-
-We currently use the Secure Sockets Layer (SSL) protocol to safeguard your information, including your credit card number, during online transactions. None of the tens of thousands of people, who have made purchases through Gateway's Web site using SSL, have reported fraudulent use of their credit card as a result of their online order. We believe SSL to be a very safe encryption method, but we are always looking for even more secure encryption methods to safeguard information sent online. If you're not comfortable sending your credit card information online, please click the option in our online order form to have a sales representative call you and complete the transaction, or call 800-846-4208 and speak to a sales representative.
-
-For your protection, never put your credit card number or other sensitive information in unencrypted e-mail. In the extremely unlikely event that we ever do suspect a client's credit card number has been intercepted, we will immediately notify the client.
-
-**Cookies**
-
-Gateway currently uses a "cookie" on our site. For a detailed explanation of what a cookie is and what we use them for, [please click here.](https://web.archive.org/footer/privacy/cookies.shtml)
-
-Our cookies tag each visitor's browser with a random, unique number. The cookie simply assigns a number and does not disclose any personal information about the person using the browser. By noting where these uniquely numbered browsers go on our site, we can study traffic patterns and improve our site.
-
-**Contact Us**
-
-If you have any comments on this policy, please contact [Webmaster](https://web.archive.org/contactus/webmaster.asp) mail. We'll investigate and take any appropriate actions to ensure this policy is followed.
-
-[Ted's Note on Privacy](https://web.archive.org/footer/privacy/note.shtml)
+[Gateway's Online Privacy Statement](https://web.archive.org/web/20000621101704id_/http%3A//www.gateway.com/about/spotnews/online_privacy.shtml)
