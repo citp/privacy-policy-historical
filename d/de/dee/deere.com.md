@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deere.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621160454id_/http%3A//www.deere.com/deerecom/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deere.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409171748id_/http%3A//www.deere.com/deerecom/Privacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Deere & Company: deerecom
 
