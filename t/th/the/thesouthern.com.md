@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesouthern.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604182600id_/http%3A//www.thesouthern.com/special/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesouthern.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211220711id_/http%3A//www.thesouthern.com/special/privacy.html) for the most accurate reproduction.*
 
 # The Southern Illinoisan
 
@@ -48,4 +48,4 @@ The Web is an evolving medium. If we need to change our privacy policy at some p
 
 * * *
 
-We welcome your comments by e-mail: [chris.edmonds@southernillinoisan.com](mailto:chris.edmonds@southernillinoisan.com)
+We welcome your comments by e-mail: [Chris.Edmonds@TheSouthern.com](mailto:Chris.Edmonds@TheSouthern.com)
