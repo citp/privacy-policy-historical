@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330200438id_/http%3A//www.servicechannel.com/sc/login/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023035258id_/http%3A//servicechannel.com/sc/login/privacypolicy.asp) for the most accurate reproduction.*
 
 # www.servicechannel.com
 
