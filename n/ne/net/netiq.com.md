@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205083745id_/http%3A//www.netiq.com/About_NetIQ/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2003-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030422122622id_/http%3A//www.netiq.com/About_NetIQ/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # NetIQ: Privacy Policy
 
@@ -101,12 +101,6 @@ By using our web site, you consent to the collection and use of this information
 
   
 |  |   
-
-
-[](https://web.archive.org/netconnect/register.asp)  
-
-
-[](https://web.archive.org/invwebcast/)  
 
 
 [](https://web.archive.org/careers/default.asp)  
