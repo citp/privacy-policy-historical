@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intrapromote.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201104646id_/http%3A//intrapromote.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intrapromote.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610042220id_/http%3A//www.intrapromote.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
