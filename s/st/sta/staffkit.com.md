@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staffkit.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602172756id_/http%3A//www.staffkit.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staffkit.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202214236id_/http%3A//staffkit.com/privacy.htm) for the most accurate reproduction.*
 
 # StaffKit Privacy Statement
 
