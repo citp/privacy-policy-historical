@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203093202id_/http%3A//www.siddhayoga.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204174228id_/http%3A//www.siddhayoga.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Siddha Yoga Meditation Website
 
