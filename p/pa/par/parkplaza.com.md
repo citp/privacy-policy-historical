@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205025452id_/http%3A//parkplaza.com/PII/Footer/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803062238id_/http%3A//www.parkplaza.com/PII/Footer/Privacy.jsp) for the most accurate reproduction.*
 
 # Park Inn/Park Plaza - Privacy Policy
 
