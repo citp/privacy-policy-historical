@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208085300id_/http%3A//www.pbreview.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413020628id_/http%3A//www.pbreview.com/privacy.php3) for the most accurate reproduction.*
 
 # pbreview.com - Paintball Reviews, by players for players!
 
-[pbreview.com](https://web.archive.org/web/20001208085300id_/http%3A//www.pbreview.com/index.php3) / Privacy Policy  
+[pbreview.com](https://web.archive.org/web/20010413020628id_/http%3A//www.pbreview.com/index.php3) / Privacy Policy  
  **Privacy Policy**  
 [pbreview.com](http://www.pbreview.com/) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [pbreview.com](http://www.pbreview.com/)
 
