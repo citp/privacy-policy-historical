@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwise.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207051711id_/http%3A//www.hitwise.co.uk/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwise.co.uk privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325033520id_/http%3A//www.hitwise.co.uk/info/privacy.html) for the most accurate reproduction.*
 
 # Purchase Competitive Intelligence - Hitwise
 
@@ -6,21 +6,21 @@ Hitwise is strongly committed to your privacy rights. Hitwise's Privacy Statemen
 
 The Statement is broken down into several key areas for your benefit:
 
-[**What personally identifiable information is collected?**](https://web.archive.org/web/20041207051711id_/http%3A//www.hitwise.co.uk/info/privacy.html#1)   
-[**Are Cookies and Log files used?**](https://web.archive.org/web/20041207051711id_/http%3A//www.hitwise.co.uk/info/privacy.html#3)   
-[**Does Hitwise disclose information to Third Parties?**](https://web.archive.org/web/20041207051711id_/http%3A//www.hitwise.co.uk/info/privacy.html#4)   
-[**Links to Third Party Sites**](https://web.archive.org/web/20041207051711id_/http%3A//www.hitwise.co.uk/info/privacy.html#5)   
-[**Can I change or delete information secured?**](https://web.archive.org/web/20041207051711id_/http%3A//www.hitwise.co.uk/info/privacy.html#6)   
-[**Choices available for Collection and Use**](https://web.archive.org/web/20041207051711id_/http%3A//www.hitwise.co.uk/info/privacy.html#7)   
-[**Children's Online Privacy Protection**](https://web.archive.org/web/20041207051711id_/http%3A//www.hitwise.co.uk/info/privacy.html#8)   
-[**Legal nature of this Privacy Statement**](https://web.archive.org/web/20041207051711id_/http%3A//www.hitwise.co.uk/info/privacy.html#9)   
-[**Contact our Privacy Office**](https://web.archive.org/web/20041207051711id_/http%3A//www.hitwise.co.uk/info/privacy.html#10)
+[**What personally identifiable information is collected?**](https://web.archive.org/web/20050325033520id_/http%3A//www.hitwise.co.uk/info/privacy.html#1)   
+[**Are Cookies and Log files used?**](https://web.archive.org/web/20050325033520id_/http%3A//www.hitwise.co.uk/info/privacy.html#3)   
+[**Does Hitwise disclose information to Third Parties?**](https://web.archive.org/web/20050325033520id_/http%3A//www.hitwise.co.uk/info/privacy.html#4)   
+[**Links to Third Party Sites**](https://web.archive.org/web/20050325033520id_/http%3A//www.hitwise.co.uk/info/privacy.html#5)   
+[**Can I change or delete information secured?**](https://web.archive.org/web/20050325033520id_/http%3A//www.hitwise.co.uk/info/privacy.html#6)   
+[**Choices available for Collection and Use**](https://web.archive.org/web/20050325033520id_/http%3A//www.hitwise.co.uk/info/privacy.html#7)   
+[**Children's Online Privacy Protection**](https://web.archive.org/web/20050325033520id_/http%3A//www.hitwise.co.uk/info/privacy.html#8)   
+[**Legal nature of this Privacy Statement**](https://web.archive.org/web/20050325033520id_/http%3A//www.hitwise.co.uk/info/privacy.html#9)   
+[**Contact our Privacy Office**](https://web.archive.org/web/20050325033520id_/http%3A//www.hitwise.co.uk/info/privacy.html#10)
 
  **What personally identifiable information is collected?**   
 Hitwise collects information in a fair and lawful manner for the purposes of identification and billing. Hitwise may collect details from newsletter subscribers and customers of our service that include name, address, e-mail address, fax and telephone numbers. Other demographic information may be collected for the purpose of in-house direct marketing campaigns, in accordance with relevant Legislation. A newsletter subscriber (or a customer) may however, choose to opt out of such campaigns through contacting the Privacy Manager at [privacy@hitwise.com](mailto:privacy@hitwise.com). 
 
 **Are Cookies and Log files used?**   
-In some circumstances, Hitwise uses cookies to enhance the functionality of the service we offer our customers. A cookie is a piece of text that can be entered into the memory of a computer, and is used to identify a customer and to store registration details so that the customer is no longer required to re-enter these details on subsequent visits. In addition, Hitwise uses cookies to indicate the number of computers used by each customer to log-in to the Hitwise service, to prevent abuse of the system and logins ([See Conditions of Use](https://web.archive.org/web/20041207051711id_/http%3A//www.hitwise.co.uk/info/conditions.html)). Hitwise also collects information on IP addresses and web browsers used by customers when they access the service for the same reasons mentioned above. 
+In some circumstances, Hitwise uses cookies to enhance the functionality of the service we offer our customers. A cookie is a piece of text that can be entered into the memory of a computer, and is used to identify a customer and to store registration details so that the customer is no longer required to re-enter these details on subsequent visits. In addition, Hitwise uses cookies to indicate the number of computers used by each customer to log-in to the Hitwise service, to prevent abuse of the system and logins ([See Conditions of Use](https://web.archive.org/web/20050325033520id_/http%3A//www.hitwise.co.uk/info/conditions.html)). Hitwise also collects information on IP addresses and web browsers used by customers when they access the service for the same reasons mentioned above. 
 
 **Does Hitwise disclose information to Third Parties?**   
 Hitwise does not share information with any Third Parties, and takes every care to ensure the security of information held. Details of Hitwise customers may be divulged to appropriate parties only if a requirement under law, statute or regulation. 
