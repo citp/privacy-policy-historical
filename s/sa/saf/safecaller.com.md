@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safecaller.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603140239id_/http%3A//www.safecaller.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecaller.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206134239id_/http%3A//safecaller.com/privacy.htm) for the most accurate reproduction.*
 
 # Safe Caller - National FTC Do Not Call Registry Software
 
