@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exchangerate.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607005726id_/http%3A//exchangerate.com/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangerate.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217074838id_/http%3A//exchangerate.com/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
