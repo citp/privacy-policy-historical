@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002030456id_/http%3A//www.tophosts.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622140116id_/http%3A//www.tophosts.com/pages/privacy.html) for the most accurate reproduction.*
 
-# TopHosts.Com - The Complete Web Hosting Resource
+# Web Hosting Resource and Directory - Tophosts.com
 
 | 
 
@@ -77,25 +77,27 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 |  |  |   
 ---  
 [ ](https://web.archive.org/pages/top25/)  
-[](https://web.archive.org/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/91069078/Right/inetu-sky-th390207J2/160x600a.gif/64316564656561663366376239356430)  
   
-[**iPowerWeb**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/419588011/Middle1/ipowerweb-sponsor-th/ipowerweb-sponsor-th.html/64316564656561663366376239356430)  
-•$7.95/mo. Web Hosting! Powerful, Affordable Solution Free Setup & Free Domain
-
-[**ANhosts**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/957882268/Middle2/anhosts-sponsorlink-th/anhosts-sponsorlink-th.html/64316564656561663366376239356430)  
-•Hosting from $6.95/mth with 500 MB storage, 35 GB transfer and more
-
-[ **Sagonet**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1976098617/Middle3/sagonet-sponsorlink-th/sagonet-sponsorlink-th.html/64316564656561663366376239356430)  
-•Sago Firebox Linux and FreeBSD starterserver - $99/mo, 700GB, 1.8GHz Intel Celeron
-
-[ **Interland**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/937052946/Frame1/interland-sponsor-th/spons.txt/64316564656561663366376239356430)  
-•Reliable, secure, affordable hosting from Interland!  
+[ ](http://www.tophosts.com/apps/advertiser_info/thehosting_standard_subscribe.php)  
   
-TopHosts Poll | What is your primary initiative for increasing customer retention?  
+[](https://web.archive.org/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1989612585/Right/broadspire-skyscraper-th/broadspire-160x600_reseller.gif/64316564656562353430643833626130)  
+  
+[**Atlantic.Net**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1164440898/Middle1/atlantic-sponsorlink-th/atlantic-sponsorlink-th.html/64316564656562353430643833626130)  
+•99.9% Uptime Guarantee - Call Now 1.877.GO.ATLANTIC
+
+[ **Intermedia**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1799580391/Middle2/intermedia-sponsorlink-th/intermedia-sponsorlink-th.html/64316564656562353430643833626130)  
+•Limited time offer 20% OFF - 1-800-379-7729
+
+[ **eHost**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1244317736/Middle3/ehost-sponsorlink-th/ehost-sponsorlink-th.html/64316564656562353430643833626130)  
+•Get 2 months free with eHost annual plans!
+
+[ **Start Logic**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1381845717/Frame1/startlogic-sponsorlink-th/startlogic-sponsorlink-textlink-160304.html/64316564656562353430643833626130)  
+•StartLogic Web Site Hosting for 7.50/mo  
+FREE DOMAIN & FREE SETUP - Learn More!  
+  
+TopHosts Poll | Will you delay your hosting purchase over the summer holidays?  
 ---  
-Hosting client seminars  
-Implementing CRM software  
-Increasing customer service  
-Initiating loyalty programs  
-No measures are being taken  
-Offering long term discounts
+Maybe - Unless I see a really great hosting offer.  
+No - My business can't wait!  
+Yes - My website isn't critical - I'm off all summer.  
+[Click here to view previous polls](http://www.tophosts.com/pages/pastpolls.html)
