@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623224911id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2004-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041111092246id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
-[](https://web.archive.org/web/20040623224911id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20040623224911id_/http%3A//www.w3schools.com/about/default.asp)
+[](https://web.archive.org/web/20041111092246id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20041111092246id_/http%3A//www.w3schools.com/about/default.asp)
 
 * * *
 
@@ -58,7 +58,7 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-[](https://web.archive.org/web/20040623224911id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20040623224911id_/http%3A//www.w3schools.com/about/default.asp)   
+[](https://web.archive.org/web/20041111092246id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20041111092246id_/http%3A//www.w3schools.com/about/default.asp)   
 
 
 * * *
@@ -67,17 +67,7 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-## Want To Be A Web Master?
-
-If you want to be a Web Master, you will have to host your web site with an ISP (Internet Service Provider).
-
-Founded in 1996 in North Carolina, AIT Inc. provides web hosting and ecommerce services to more than 190,000 domains in 107 countries. Shared, dedicated, and colocated hosting plans for both Linux and Windows users are available along with the industry's most lucrative reseller program. AIT has won acclaim as one of the fastest growing technology companies in North America by Inc. Magazine and by Deloitte & Touche.
-
-AIT Dedicated hosting starts as low as $49.99 per month with No Setup Fee!
-
-All plans include: Unlimited Domains, 1000 Gb Data transfer, FREE 800 24/7 Support, with your choice of operating system, Linux or Windows.
-
-[Visit AIT](https://web.archive.org/spotlights_dir.asp?site=ait)
+## Hosting Spotlight
 
 * * *
 
@@ -97,42 +87,27 @@ The [ASP Certificate](https://web.archive.org/cert/default.asp) is for developer
 
 * * *
 
-## HTML Utopia: Designing Without Tables Using CSS
+## Create Cool Flash Effects and Practical ActionScripts
 
-| 
+|    | 
 
-Dan Shafer's book is the definitive guide to learning and applying the principles of CSS to your Website.
+The Flash Anthology will show you how to create and customize dozens of different effects including text, navigation animation, video, and audio.
 
-  * Write faster loading, dramatically smaller pages
-  * Speed up site maintenance by separating the content from the layout
-  * Write Device-independent pages that will work on everything from a PC to an Internet-enabled refrigerator
-  * Write search-engine friendly pages that can actually be understood by search-engine spiders
-  * Write accessible code, which is now a legal requirement in some countries
-
+Plus, learn to create and validate Flash works, work with external data and XML, debug your code, use CSS in Flash, create Flash charts and get indexed in the search engines.  
   
----|---  
+---|---|---  
   
-[ Dowload a Free Sample Now!](http://www.sitepoint.com/launch/3a9053/3/3)
+  * Create over 60 cool and practical ActionScript effects.
+  * Customize each effect in dozens of different ways.
+  * Learn to use Flash for navigation, animation, video and audio.
+  * Discover best-practice ActionScript coding techniques.
+  * Get FREE download access to all the code (45 MB) used in the book.
+
+
+
+[ Click Here to Download the First Three Chapters, Free!](http://www.sitepoint.com/launch/3a9053/2/10)
 
 * * *
-
-## Direct FTP - Drag and Drop FTP
-
-[](http://www.coffeecup.com/track.php?id=23) | 
-
-Webmasters love Direct FTP because it is so easy to make changes to a website.
-
-Just drag a file to the Edit window to make the changes, and click save when you are done. Direct FTP saves the changes directly to the website!
-
-Another superb feature is the ability to make a backup ZIP file of a complete website with just one click.
-
-No other FTP client gives you these powerful features and ease of use.
-
-[Read More](http://www.coffeecup.com/track.php?id=23) or [Download for Free](http://www.coffeecup.com/track.php?id=23)  
-  
----|---  
-  
-
 
 * * *
 
@@ -150,10 +125,6 @@ No other FTP client gives you these powerful features and ease of use.
 * * *
 
 Jump to: **Top of Page** or [**HOME**](https://web.archive.org/default.asp) or [ **Printer friendly page**](https://web.archive.org/about/about_privacy.asp?output=print)
-
-* * *
-
-## Search W3Schools:
 
 * * *
 
