@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hw.net privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210071059id_/http%3A//www.hanleywood.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hw.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305235853id_/http%3A//www.hanleywood.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Hanley Wood - Ideas to build on.™
 
