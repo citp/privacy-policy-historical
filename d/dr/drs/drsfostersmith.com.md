@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2004-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040810185454id_/http%3A//www.drsfostersmith.com/general.cfm%3Fgid%3D320%26ref%3D3232%26subref%3DAE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2005-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050322083028id_/http%3A//www.drsfostersmith.com/general.cfm%3Fgid%3D320%26ref%3D3232%26subref%3DAE) for the most accurate reproduction.*
 
-# "Customer Service: Privacy & Security"
+# Customer Service: Privacy & Security
 
 _Drs. Foster & Smith is very sensitive to the issues of online privacy and electronic security. As we establish and maintain an online relationship with you, we want you to know we will always do whatever possible to ensure a secure and private environment to maintain your unquestioned trust._
 
@@ -22,10 +22,10 @@ You are free to change your shopping convenience preference at any time by click
 
 [ back to top ]
 
-E-mail  
-We believe that your e-mail address is private information and you have our assurance that we do not rent or sell your e-mail address to anyone. We use your email address to send you order-related emails, like shipping confirmations, as well as informational/sale newsletters. 
+Email  
+We believe that your email address is private information and you have our assurance that we do not rent or sell your email address to anyone. We use your email address to send you order-related emails, like shipping confirmations, as well as informational/sale newsletters. 
 
-_We will always try to contact you by phone if we have a question about an order you placed. If we are unable to reach you by phone, we may also try to contact you by e-mail._
+_We will always try to contact you by phone if we have a question about an order you placed. If we are unable to reach you by phone, we may also try to contact you by email._
 
 There are basically three ways to get on Drs. Foster & Smith's email subscription list: 
 
