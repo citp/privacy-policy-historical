@@ -1,32 +1,68 @@
-<!--The following is the downloaded HTML source of the beliefnet.com privacy policy that was archived on 2000-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001202052600id_/http%3A//www.beliefnet.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beliefnet.com privacy policy that was archived on 2001-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603052821id_/http%3A//www.beliefnet.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-		<link rel="stylesheet" type="text/css" href="/includes/bn_global2-2.css">
-
 		<title>Beliefnet; The source for Spirituality, Religion and Morality</title>
-
 		<script language="JavaScript">
 <!--
+function submitPoll (pollID,randpollID,voteType)
+{
+	var f = 'poll' + pollID + "_" + randpollID;
+	var url = "/polls/poll_vote.asp";
+	var qstr = "?pollID=" + document.forms[f].pollID.value + "&voteType=" + voteType;
+	var numberOfPollResponses = document.forms[f].numberOfPollResponses.value;
+	for (i = 0; i < numberOfPollResponses; i++)
+            {if (document.forms[f].responseID[i].checked == "1")
+               {qstr += "&responseID=" + document.forms[f].responseID[i].value;
+		break;
+	       }
+	    }
+	openNewWin( url + qstr, 'pollResults', 350, 400, true);
+}
+
+
 
 function openNewWin(page, win_name, width, height, scrollbars) {
+var remote;
 if (win_name == "login_popup") {
 	startIndex = page.indexOf("?");
 	parent.document.location.href = "/login.asp\?" + page.substring(startIndex+1,page.length);}
 else{
+	var xMax = screen.width;
+    //else if (document.layers) var xMax = window.outerWidth;
+	xMax=xMax-(width+15);
+	
+
 	if(scrollbars) {
-		var remote = window.open(page,win_name,"width=" + width + ",height=" + height + ",scrollbars");
+	remote=window.open(page,win_name,"width=" + width + ",height=" + height + ",scrollbars,dependent=yes,left=" + xMax + ",screenX=" + xMax + ",top=0,screenY=0");
 	} else {
-		var remote = window.open(page,win_name,"width=" + width + ",height=" + height + ",scrollbars=auto,resize=no");
+	remote=window.open(page,win_name,"width=" + width + ",height=" + height + ",scrollbars=auto,resize=no,dependent=yes,left=" +xMax+ ",screenX=" +xMax+ ",top=0,screenY=0");
 	}
+  remote.focus();
 }
+
 }
 
 
+function closedown() {		
+	if(remote && remote.open)remote.closeThis();
+	}
+	
+function closeThis(){
+	//setTimeout("",3000);
+	var MotherWin=this.window.opener;
+	if(MotherWin.closed==1){
+	window.close();
+	}
+}	
 // open a location and break out of frameset
 function breakFrame(url) {
-	opener.parent.location = url;
-	window.close();
+	if(!window.opener.closed)opener.parent.location = url;
+	else{
+	var newParent=window.open(url);
+	window.opener=newParent;
+	}
+	window.focus();
 	}
 
 
@@ -40,6 +76,9 @@ function drawSearch(namename,defval)
 		document.write('<input type="text" name="'+namename+'" value="'+defval+'" size='+sizeval+' style="font-size:11.5px;">')
 }
 // -->
+
+//window.onbeforeunload=closedown;TESTING SONALI
+
 </script>
 
 		<script>
@@ -53,17 +92,16 @@ function drawSearch(namename,defval)
 					}
 				}
 		</script>
-
 		<!--script src="/survey/bn_surveyID1.asp"></script-->
 		<!--script src="/survey/bn_surveyID1.js"></script-->
 		<style>
 		body {background-image:URL(/images/bkg.gif); background-repeat:repeat-y};
 		</style>
-
 	<script language="javascript">
 var axel = Math.random() + '';
 var ord = axel.substring(2, axel.length);
-</script></head>
+</script><link rel="stylesheet" type="text/css" href="/includes/bn_global2-2.css"></head>
+
 
 
 	<body topmargin="0" marginwidth="0" leftmargin="0" marginheight="0" background="/images/bkg.gif">
@@ -73,7 +111,7 @@ var ord = axel.substring(2, axel.length);
 			<td valign="middle"><a href="/" target="_top"><img src="/images/nav/beliefnet_smlogo.gif" border="0"></a></td>
 			<td><img src="/images/1px.gif" width="5" height="1"></td>
 			<td><!--adbanner--><script>
-document.writeln("<iframe src='http://ad.doubleclick.net/adi/beliefnet.home/;pos=top;sz=468x60;tile=1;ord=" + ord + "?' name='frame1' width='468' height='60' frameborder='no' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'>");</script><iframe src="http://ad.doubleclick.net/adi/beliefnet.home/;pos=top;sz=468x60;tile=1;ord=2674009488699207?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+document.writeln("<iframe src='http://ad.doubleclick.net/adi/beliefnet.home/;pos=top;sz=468x60;tile=1;ord=" + ord + "?' name='frame1' width='468' height='60' frameborder='no' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'>");</script><iframe src="http://ad.doubleclick.net/adi/beliefnet.home/;pos=top;sz=468x60;tile=1;ord=3092325480819311?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
 
 <script>
 document.writeln("<script language='JavaScript1.1' SRC='http://ad.doubleclick.net/adj/beliefnet.home/;abr=!ie;pos=top;sz=468x60;tile=1;ord=" + ord + "?'><\/script>");
@@ -88,9 +126,8 @@ document.writeln("<script language='JavaScript1.1' SRC='http://ad.doubleclick.ne
 		</tr>
 	</tbody></table>
 	<table border="0" cellspacing="0" cellpadding="0" bgcolor="#003366" width="627">
-		<tbody><tr bgcolor="#99ccff">
-			<td><form name="explore"></form></td>
-			<td width="1" bgcolor="#003366"><!-- explorer --><script>
+	<tbody><tr bgcolor="#99ccff">
+<td width="1" bgcolor="#003366"><form name="explore"></form></td><td width="1" bgcolor="#003366"><!-- explorer --><script>
 	var jumpURL;
 		function setJump(idx)
 		{
@@ -151,7 +188,7 @@ document.writeln("<script language='JavaScript1.1' SRC='http://ad.doubleclick.ne
 	</option><option value="/index/index_507.html">Sexuality
 	</option><option value="/index/index_31000.html">Shopping
 	</option><option value="/index/index_608.html">Teens
-	</option><option value="/index/index_206.html">Travel
+	</option><option value="/index/index_31010.html">Travel
 	</option><option value="/index/index_502.html">TV &amp; Videos
 	</option><option value="/index/index_2002.html">Volunteering
 	</option><option value="/index/index_605.html">Weddings
@@ -159,9 +196,10 @@ document.writeln("<script language='JavaScript1.1' SRC='http://ad.doubleclick.ne
 </option></select>
 </td>
 			<td bgcolor="#003366" width="1"><img src="/images/1px.gif" width="1" height="1"></td>
-			<script src="/includes/nav/userbanner_v2-2.asp"></script><td bgcolor="#003366" width="1" valign="top" align="right"><a href="javascript:goJump();"><img src="/images/nav/navtop_go.gif" border="0"></a></td><td width="1"><a href="/indexpage.asp?pageloc=206" target="_top"><img src="/images/nav/navtop_newmember.gif" border="0" name="Register" alt="Register"></a></td><td><form method="post" action="/user/login2.asp" target="_top" name="ULogin" id="ULogin">&nbsp;</form></td><td align="right" class="usertext">Member&nbsp;<br>Name&nbsp;</td><td><input type="text" name="userName" maxlength="62" size="8"></td><td>&nbsp;&nbsp;</td><td align="right"><span class="usertext">Member&nbsp;<br>Password&nbsp;</span></td><td><input type="password" name="password" maxlength="20" size="8"></td><td align="center"><input type="image" src="/images/buttons/navtop_signin.gif" name="Sign in" alt="Sign in" border="0" hspace="6"></td><td width="100"><input type="hidden" name="redirectPage" value="https://web.archive.org/web/20001202052600id_/http%3A//www.beliefnet.com/about/privacy.asp"><input type="hidden" name="posting_to_self" value="yes">&nbsp;</td>
+			<td bgcolor="#003366" width="1">&nbsp;</td><script src="/includes/nav/userbanner_v2-2.asp"></script><td bgcolor="#003366" width="1" valign="top" align="right"><a href="javascript:goJump();"><img src="/images/nav/navtop_go.gif" border="0"></a></td><td width="1"><a href="/indexpage.asp?pageloc=206" target="_top"><img src="/images/nav/navtop_newmember.gif" border="0" name="Register" alt="Register"></a></td><td><form method="post" action="/user/login2.asp" target="_top" name="ULogin" id="ULogin">&nbsp;</form></td><td align="right" class="usertext">Member&nbsp;<br>Name&nbsp;</td><td><input type="text" name="userName" maxlength="62" size="8"></td><td>&nbsp;&nbsp;</td><td align="right"><span class="usertext">Member&nbsp;<br>Password&nbsp;</span></td><td><input type="password" name="password" maxlength="20" size="8"></td><td align="center"><input type="image" src="/images/buttons/navtop_signin.gif" name="Sign in" alt="Sign in" border="0" hspace="6"></td><td width="100"><input type="hidden" name="redirectPage" value="https://web.archive.org/web/20010603052821id_/http%3A//www.beliefnet.com/about/privacy.asp"><input type="hidden" name="posting_to_self" value="yes">&nbsp;</td>
 		</tr>
 	</tbody></table>
+	
 <!-- END HORIZ NAV -->
 	<table border="0" cellspacing="0" cellpadding="0" width="627">
 		<tbody><tr>
@@ -227,12 +265,12 @@ document.writeln("<script language='JavaScript1.1' SRC='http://ad.doubleclick.ne
 			<tbody><tr>
 				<td><img src="/images/1px.gif" width="6" height="1"></td>
 				<td valign="top" class="usertexta">
-				<script src="/includes/nav/newsletter.js"></script><br><table border="0" cellspacing="1" cellpadding="0"><tbody><tr><td><img src="/imgs/1pixel.gif" width="10" height="1"></td><td class="searchmodtitle">FREE Newsletter</td><td></td></tr><tr><td><img src="/imgs/1pixel.gif" width="10" height="1"></td><td colspan="2"><form name="newsletterform" method="post" action="/user/subscribe.asp"><input type="hidden" name="redirectPage" value="/web/20001202052600id_/http%3A//www.beliefnet.com/about/privacy.asp"><br></form></td></tr><tr><td><img src="/imgs/1pixel.gif" width="10" height="1"></td><td><a href="javascript:checkReqs()"><img src="/imgs/nav_sub.gif" border="0"></a></td></tr></tbody></table>
+				<script src="/includes/nav/newsletter.js"></script><br><table border="0" cellspacing="1" cellpadding="0"><tbody><tr><td><img src="/imgs/1pixel.gif" width="10" height="1"></td><td class="searchmodtitle">FREE Newsletter</td><td></td></tr><tr><td><img src="/imgs/1pixel.gif" width="10" height="1"></td><td colspan="2"><form name="newsletterform" method="post" action="/user/subscribe.asp"><input type="hidden" name="redirectPage" value="/web/20010603052821id_/http%3A//www.beliefnet.com/about/privacy.asp"><br></form></td></tr><tr><td><img src="/imgs/1pixel.gif" width="10" height="1"></td><td><a href="javascript:checkReqs()"><img src="/imgs/nav_sub.gif" border="0"></a></td></tr></tbody></table>
 <!--LINKS-->	<table border="0" cellspacing="1" cellpadding="0">
 	<tbody><tr>
 		<td><a href="/about/index.asp" class="navbartools" target="_top">•&nbsp;About Beliefnet</a>
-			<br>
-			<a href="/affiliates/pitchpage.html" class="navbartools" target="_top">•&nbsp;Affiliates</a>
+			<!--Affiliates<br>
+			<a href="/affiliates/pitchpage.html" class="navbartools" target="_top">&#149;&nbsp;Affiliates</a>-->
 			<br>
 			<a href="/about/contact.asp" class="navbartools" target="_top">•&nbsp;Feedback</a>
 			<br>
@@ -252,15 +290,15 @@ document.writeln("<script language='JavaScript1.1' SRC='http://ad.doubleclick.ne
 					<!--navads-->
 					<script language="javascript">
 document.writeln("<a HREF='http://ad.doubleclick.net/jump/beliefnet.home/;pos=navleft1;sz=120x60;tile=2;ord=" + ord + "?' target='_top'>"); document.writeln("<img src=\'http://ad.doubleclick.net/ad/beliefnet.home/;pos=navleft1;sz=120x60;tile=2;ord=" + ord + "?\' width='120' height='60' border='0' border='0' vspace=3 alt=\'Click Here\'>"); document.writeln("</a>\n");
-</script><a href="http://ad.doubleclick.net/jump/beliefnet.home/;pos=navleft1;sz=120x60;tile=2;ord=2674009488699207?" target="_top">
-<img src="http://ad.doubleclick.net/ad/beliefnet.home/;pos=navleft1;sz=120x60;tile=2;ord=2674009488699207?" width="120" height="60" border="0" vspace="3" alt="Click Here">
+</script><a href="http://ad.doubleclick.net/jump/beliefnet.home/;pos=navleft1;sz=120x60;tile=2;ord=3092325480819311?" target="_top">
+<img src="http://ad.doubleclick.net/ad/beliefnet.home/;pos=navleft1;sz=120x60;tile=2;ord=3092325480819311?" width="120" height="60" border="0" vspace="3" alt="Click Here">
 </a>
 
 <br>
 					<script language="javascript">
 document.writeln("<a HREF='http://ad.doubleclick.net/jump/beliefnet.home/;pos=navleft2;sz=120x60;tile=3;ord=" + ord + "?' target='_top'>"); document.writeln("<img src=\'http://ad.doubleclick.net/ad/beliefnet.home/;pos=navleft2;sz=120x60;tile=3;ord=" + ord + "?\' width='120' height='60' border='0' border='0' vspace=3 alt=\'Click Here\'>"); document.writeln("</a>\n");
-</script><a href="http://ad.doubleclick.net/jump/beliefnet.home/;pos=navleft2;sz=120x60;tile=3;ord=2674009488699207?" target="_top">
-<img src="http://ad.doubleclick.net/ad/beliefnet.home/;pos=navleft2;sz=120x60;tile=3;ord=2674009488699207?" width="120" height="60" border="0" vspace="3" alt="Click Here">
+</script><a href="http://ad.doubleclick.net/jump/beliefnet.home/;pos=navleft2;sz=120x60;tile=3;ord=3092325480819311?" target="_top">
+<img src="http://ad.doubleclick.net/ad/beliefnet.home/;pos=navleft2;sz=120x60;tile=3;ord=3092325480819311?" width="120" height="60" border="0" vspace="3" alt="Click Here">
 </a>
 
 
@@ -346,7 +384,7 @@ document.writeln("<a HREF='http://ad.doubleclick.net/jump/beliefnet.home/;pos=na
 			<p>
 			<br>
 			<br>
-			Last Revised: August 29, 2000
+			Last Revised: May 30, 2001
 			<br>
 			<br>
 			<b>An Overview</b>
@@ -396,15 +434,15 @@ document.writeln("<a HREF='http://ad.doubleclick.net/jump/beliefnet.home/;pos=na
 			<br>
 			If you elect to use the "Tell-A-Friend" referral service on the optional survey for informing your friend(s) about the Site, we ask for your friend's name(s) and e-mail address(es).  Beliefnet will automatically send a one-time e-mail inviting your friend(s) to visit the Site.  We will store this information for the sole purpose of sending this one-time e-mail.
 			<br>
+			<a name="shopping"></a>
 			<hr>
 			<br>
-			<b>Beliefnet Shopping</b>
+			<b>Beliefnet Shopping and Beliefnet Classifieds</b>
 			<br>
-			When you make a purchase in either the Beliefnet Store or the Magazine Stand, we request information from you such as name and shipping address, as well as financial information including a credit card number and an expiration date.  This information is used for billing purposes and to fill your order.  If we have trouble processing your order, we will use this information to contact you.
+			When you make a purchase in either Beliefnet Shopping or Beliefnet Classifieds, we request information from you such as name and shipping address, as well as financial information including a credit card number and an expiration date.  This information is used for billing purposes and to fill your order.  If we have trouble processing your order, we will use this information to contact you.
 			<br>
 			<br>
-			In regards to the Beliefnet Store, the sale and fulfillment of items is handled by a third party, VCommerce.com ("VCommerce").  In regards to the Magazine Stand, the sale and fulfillment of magazine subscriptions is provided for by another third party, Electronic Newsstand, Inc. ("enews.com" or "enews").  Please note that when you provide information to the Site in connection with the purchase of anything from the Site you are also providing such information to VCommerce or enews.  Beliefnet is not responsible for the information collection or privacy practices of VCommerce or enews.  If you have any questions regarding either third party's information gathering or collection practices, we strongly encourage you to visit their respective privacy policies.  We recommend that you visit both <a href="http://www.vstore.com/privacy.html">VCommerce's privacy policy</a> and <a href="http://www.enews.com/userId:www-329208746/7.0/privacy/0,3520,pageType=privacy|siteID=43997,00.html">enews' privacy policy</a>..
-
+			In regards to both Beliefnet Shopping and Beliefnet Classifieds, the sale and fulfillment of items is handled by various third party merchants.  However, with regard to the Beliefnet CD entitled Belief: A Collection of World Sacred Music ("Belief CD"), the sale of the item will be handled by a third party, Yahoo! Store and the fulfillment of the item will be handled by Beliefnet.  Please note that when you provide information to the Site in connection with the purchase of anything from the Site, you are also providing such information to the respective third party merchant. Beliefnet is not responsible for the information collection or privacy practices of each third party merchant. If you have any questions regarding any of the respective third party merchants’ information gathering or collection practices, we strongly encourage you to visit their respective privacy policies.  If you have any questions regarding the fulfillment of the Belief CD, please e-mail <a href="mailto:shopping@staff.belienet.com">shopping@staff.belienet.com</a>.
 			<br>
 			<hr>
 			<br>
@@ -480,7 +518,7 @@ document.writeln("<a HREF='http://ad.doubleclick.net/jump/beliefnet.home/;pos=na
 			<br>
 			<br>
 			You may also opt out of receiving promotional information from Beliefnet and/or from third parties affiliated with Beliefnet at any time by contacting us at
-			<a href="mailto:feedback@beliefnet.com">feedback@beliefnet.com</a>.  You may also contact the third parties directly.
+			<a href="mailto:feedback@staff.beliefnet.com">feedback@staff.beliefnet.com</a>.  You may also contact the third parties directly.
 			<br>
 			<br>
 			If you no longer wish to receive our newsletter, you may opt-out of receiving it by sending a blank e-mail to <a href="mailto:unsubscribe@staff.beliefnet.com">unsubscribe@staff.beliefnet.com</a>.
@@ -489,7 +527,7 @@ document.writeln("<a HREF='http://ad.doubleclick.net/jump/beliefnet.home/;pos=na
 			<br>
 			<b>How To Contact Us</b>
 			<br>
-			Should you have any questions or concerns about the Policy, please send an e-mail to <a href="mailto:feedback@beliefnet.com">feedback@beliefnet.com
+			Should you have any questions or concerns about the Policy, please send an e-mail to <a href="mailto:feedback@staff.beliefnet.com">feedback@staff.beliefnet.com
 			</a>.
 			<p></p>
 			</span>
@@ -500,10 +538,10 @@ document.writeln("<a HREF='http://ad.doubleclick.net/jump/beliefnet.home/;pos=na
 
 			</td>
 		</tr>
-	<tr>	
+	<tr>
 		<td colspan="2"></td>
 		<td align="center"><br><br><!--adbanner--><script>
-document.writeln("<iframe src='http://ad.doubleclick.net/adi/beliefnet.home/;pos=bottom;sz=468x60;tile=4;ord=" + ord + "?' name='frame1' width='468' height='60' frameborder='no' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'>");</script><iframe src="http://ad.doubleclick.net/adi/beliefnet.home/;pos=bottom;sz=468x60;tile=4;ord=2674009488699207?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+document.writeln("<iframe src='http://ad.doubleclick.net/adi/beliefnet.home/;pos=bottom;sz=468x60;tile=4;ord=" + ord + "?' name='frame1' width='468' height='60' frameborder='no' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'>");</script><iframe src="http://ad.doubleclick.net/adi/beliefnet.home/;pos=bottom;sz=468x60;tile=4;ord=3092325480819311?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
 
 <script>
 document.writeln("<script language='JavaScript1.1' SRC='http://ad.doubleclick.net/adj/beliefnet.home/;abr=!ie;pos=bottom;sz=468x60;tile=4;ord=" + ord + "?'><\/script>");
@@ -511,8 +549,8 @@ document.writeln("<script language='JavaScript1.1' SRC='http://ad.doubleclick.ne
 <NOSCRIPT>
 <a HREF='http://ad.doubleclick.net/jump/beliefnet.home/;abr=!ie;pos=bottom;sz=468x60;tile=4;ord=2895625?'><IMG SRC='http://ad.doubleclick.net/ad/beliefnet.home/;abr=!ie;pos=bottom;sz=468x60;tile=4;ord=2895625?' border=0 height='60' width='468'></a>
 </NOSCRIPT>
-</iframe>
-	</td></tr>
+</iframe></td>
+	</tr>
 	<tr>
 		<td colspan="2"></td>
 		<td align="center"><br><!--disclaimer--><!--disclaimer-->
