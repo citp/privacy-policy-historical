@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605080424id_/http%3A//gohawaii.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206104455id_/http%3A//www.gohawaii.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,9 +64,7 @@ If at any time you believe HVCB has not adhered to the principles set forth in t
 **X. Amendments to HVCB's Privacy Policy**  
 From time to time, it may be necessary for HVCB to amend this Privacy Policy. You are responsible for regularly reviewing this Privacy Policy so that you will be aware of any changes. However, if we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our website. **Please note that your continued use of this website means that you accept the amendments to this Privacy Policy.**
 
-Š2001 Hawaii Visitors & Convention Bureau 
++2001 Hawaii Visitors & Convention Bureau 
 
   
-  
-|   
----|---
+
