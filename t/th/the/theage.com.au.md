@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theage.com.au privacy policy that was archived on 2001-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010611121012id_/http%3A//www.members.f2.com.au/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theage.com.au privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204214606id_/http%3A//www.members.f2.com.au/help/privacy_policy.html) for the most accurate reproduction.*
 
 # The f2 Network Privacy Policy
 
@@ -80,5 +80,5 @@ By using our sites, you consent to the collection and use of this information by
 
 The f2 Network welcomes your questions and comments about privacy. Please send e-mail to [feedback@f2.com.au](mailto:%20feedback@f2.com.au)
 
-[ **Return to The Registration Page**](https://web.archive.org/mail/register.html)  
+[ **Return to The Registration Page**](https://f2members.f2.com.au/f2Reg/register?site=f2generic)  
  
