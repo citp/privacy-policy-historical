@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408050243id_/http%3A//www.simtel.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210022211id_/http%3A//www2.simtel.net/privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
 
-# Simtel.Net - A worldwide distribution network for Shareware, Freeware, and Public Domain software.
+# Free downloads of the best computer software freeware and shareware
+
+Hot Spots
+
+Highlights
+
+ADVERTISEMENT
+
+[](http://mobile.simtel.com/)
+
+TRANSLATE INTO
+
+| 
+
+[home](https://web.archive.org/?PHPSESSID=6826628809ce3c866e397f85fe801d91) › Free downloads of the best computer software freeware and shareware 
 
 Digital River, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. Simtel.Net holds the privacy of each individual as a high priority. The following discloses our information gathering and dissemination practices for this Web site: http://www.simtel.net 
 
@@ -18,10 +32,14 @@ We DO NOT collect online contact information without prior parental consent or p
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@simtel.net](mailto:webmaster@simtel.net) . You can also mail us at: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@simtel.net](mailto:webmaster@simtel.net). 
+
+You can also mail us at: 
 
 Simtel.Net  
 Digital River Inc.  
 9625 West 76th Street, Suite 150  
 Eden Prairie, MN 55344 **Simtel** is a registered trademark of [Digital River, Inc.](http://www.digitalriver.com/)   
-**Simtel.Net** is a service mark of [Digital River, Inc.](http://www.digitalriver.com/)
+**Simtel.Net** is a service mark of [Digital River, Inc.](http://www.digitalriver.com/)   
+[](http://leader.linkexchange.com/X1690765/clicklogo)  
+
