@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204013001id_/http%3A//www.hvcc.edu/admin/compserv/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2004-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040408234446id_/http%3A//www.hvcc.edu/admin/compserv/docs/privacy.html) for the most accurate reproduction.*
 
 # Hudson Valley Community College - Privacy Policy
 
-| [](https://web.archive.org/web/20031204013001id_/http%3A//www.hvcc.edu/index.php3) |   | 
+| [](https://web.archive.org/web/20040408234446id_/http%3A//www.hvcc.edu/index.php3) |   | 
 
 ## Hudson Valley Community College's Privacy Policy  
 (Policy Date - 07/18/2002)  
@@ -99,8 +99,8 @@
 > 
 > _User_ : shall have the same meaning as set forth in the Internet Security and Privacy Act, State Technology Law, Section 202(8) as follows: Any natural person who uses the Internet to access a state agency Web site.
 
-Hudson Valley Community College's [mission](https://web.archive.org/web/20031204013001id_/http%3A//www.hvcc.edu/about_college/missiongoalsobj.html) is to provide dynamic, student-centered, comprehensive, and accessible educational opportunities that address the diverse needs of the community.   
-[PRIVACY POLICY](https://web.archive.org/web/20031204013001id_/http%3A//www.hvcc.edu/admin/compserv/docs/privacy.html)  
+Hudson Valley Community College's [mission](https://web.archive.org/web/20040408234446id_/http%3A//www.hvcc.edu/about_college/missiongoalsobj.html) is to provide dynamic, student-centered, comprehensive, and accessible educational opportunities that address the diverse needs of the community.   
+[PRIVACY POLICY](https://web.archive.org/web/20040408234446id_/http%3A//www.hvcc.edu/admin/compserv/docs/privacy.html)  
 Hudson Valley Community College, 80 Vandenburgh Ave., Troy, NY 12180  
 (518) 629-HVCC     Toll-free: (877) 325-HVCC
 
