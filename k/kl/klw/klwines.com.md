@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klwines.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411160646id_/http%3A//www.klwines.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klwines.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018124302id_/http%3A//klwines.com/privacy.asp) for the most accurate reproduction.*
 
 # K and L Wine Merchants - Privacy Policy
 
@@ -47,7 +47,7 @@ We collect all or some of this information on the pages when you register with u
 
 **With whom do we share information?**
 
-Nobody. Ever. We refuse to sell or rent any portion of our customer database to third parties.
+Nobody. Ever. We refuse to sell, rent, or share any portion of our customer database to third parties.
 
 **Credit Card Processing and Security**
 
@@ -55,7 +55,7 @@ Shopping with klwines.com is absolutely safe -- you never have to worry about cr
 
 We use the latest encryption technology to keep your personal information safe. All your ordering information -- including your name, address, and credit card number -- is encrypted using a secure server for maximum security. Your credit card and billing information cannot be read as it travels to our ordering system. To ensure that your information is even more secure, once we receive your credit card information, we store it on a server that isn't accessible from the Internet. 
 
-Credit card transactions are handled by a third-party financial institution, which receives the credit card number and other personal identifying information only to verify the credit card numbers and process transactions. If you feel more comfortable doing so, you are welcome to call in your credit card information and complete your purchase by phone. (For details, see the [Payment Options](https://web.archive.org/web/20010411160646id_/http%3A//www.klwines.com/payment_options.asp) section of our Help Center.) 
+Credit card transactions are handled by a third-party financial institution, which receives the credit card number and other personal identifying information only to verify the credit card numbers and process transactions. If you feel more comfortable doing so, you are welcome to call in your credit card information and complete your purchase by phone. (For details, see the [Payment Options](https://web.archive.org/web/20011018124302id_/http%3A//klwines.com/payment_options.asp) section of our Help Center.) 
 
 How do I change, update, or correct personally identifiable information about myself? 
 
@@ -77,6 +77,6 @@ K&L Wine Merchants wants you to be aware that when you click on links and/or ad 
 
 K&L Wine Merchants may update this policy from time to time; please check this page periodically for changes. By using this site, you signify your agreement to the klwines.com Privacy Policy. 
 
-If you have previously registered with klwines.com, you may review and update your preferences concerning whether we may contact you with information (we never sell or lease your information to other companies). To review and update your settings, [click here](https://www.klwines.com/secshopper/lookup.asp?target=%2Fsecshopper%2Faboutme%2Easp&v=Y).
+If you have previously registered with klwines.com, you may review and update your preferences concerning whether we may contact you with information (we never sell or lease your information to other companies). To review and update your settings, [click here](https://www.klwines.com/secshopper/lookup.asp?target=https://www.klwines.com/secshopper/aboutme.asp).
 
 We welcome comments and questions. Please contact [privacy@klwines.com](mailto:privacy@klwines.com). 
