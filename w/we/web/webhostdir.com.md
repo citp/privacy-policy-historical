@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609182742id_/http%3A//www.webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204104636id_/http%3A//webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Web Host Directory: The best free source of web hosting services in a searchable web host directory. Powerful web host search engines, reviewed web hosts, awards, news and much more!
 
-**What is the purpose of this Privacy Policy?**
+|  |  |  |   
+---  
+|  **What is the purpose of this Privacy Policy?**
 
 Web Host Directory has created this privacy policy in order to demonstrate our firm commitment to our users. The following discloses our information gathering and dissemination practices for this website: [www.webhostdir.com.](http://www.webhostdir.com/) Please continue reading for complete details on the Web Host Directory privacy policy. If you have any questions about the policy, you can request more information by filling in the [contact us](https://web.archive.org/contact/general.asp) form. 
 
@@ -45,3 +47,69 @@ Web Host Directory reserves the right to update this privacy policy from time to
 **How to contact us?**
 
 If you have any questions about this privacy policy or the practices of this website, you may request more information by submitting the [contact us](https://web.archive.org/contact/general.asp) form. 
+
+|   
+  
+
+
+|  |   
+---|---  
+  
+| 
+
+[ValueWeb:](http://www.webhostdir.com/banners/banman.asp?ZoneID=12&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Award Winning Hosting! FREE Setup + FREE Web Design software & tools for small to mid-size businesses. Call 1-800-WE-HOST-U. 
+
+[eDataRack.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=25&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $3.95/mo. Host 2 Domains! 1000MB, 40GB BW, FREE Setup! FREE Shopping Cart! FREE Software! MONEY BACK GUARANTEE! 
+
+[SuperbHosting.Net:](http://www.webhostdir.com/banners/banman.asp?ZoneID=26&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Free Set-up, Free Domain, 50GB/m traffic, 1GB web space, 10 Domains, 250 Email accounts & 5 mySQL. Awarding-winning 24x7 service. 
+
+[Interland Managed Hosting:](http://www.webhostdir.com/banners/banman.asp?ZoneID=55&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Premium-Class Managed Hosting at Middle-Class Rates. 100% Uptime SLA, Managed Security and more. Click for more Details! 
+
+[$5 Web Hosting:](http://www.webhostdir.com/banners/banman.asp?ZoneID=56&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 750mb Webspace - Free Domain Name, Free Set up, 24/7 Support, 50GB transfer, 99.9% Uptime. Call us at 1-866-301-5699 
+
+[Lunarpages:](http://www.webhostdir.com/banners/banman.asp?ZoneID=57&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 1,000MB Storage. 40GB Bandwidth. 99.9% uptime. Customer service focused web hosting company with money back guarantee. 
+
+[Order from Omnis.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=58&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $6.95- Free Domain, Free Setup, 1 Gigabyte Storage, 500 email accts, 100 GB Transfer, 800 support-120,000+ accounts since 1999 
+
+[Hostway Web Hosting:](http://www.webhostdir.com/banners/banman.asp?ZoneID=17&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Web hosting made simple. All the features you need to build & support your site. Plans start as low as $8.95/month. 
+
+[IPower.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=18&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 240,000 sites hosted. The world’s web hosting leader. Multiple packages; Unix, windows, dedicated & virtual + domains for only $5.50 
+
+[NTT/Verio:](http://www.webhostdir.com/banners/banman.asp?ZoneID=19&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Domain Name Registration made easy. Only $9.95 per year per domain name. Hurry, secure your domain name before it’s gone. 
+
+[iPowerWeb:](http://www.webhostdir.com/banners/banman.asp?ZoneID=20&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 1000mb webspace, 500 email accounts, Free Domain Name, FREE SETUP, 30 GB data transfer. Already hosting 200,000+ websites online. 
+
+[WebIntellects:](http://www.webhostdir.com/banners/banman.asp?ZoneID=21&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Tired of bait and switch hosting? Low cost gimmicks? So are we. See why we are the provider of choice in over 80 countries world-wide! 
+
+[Ace-Host.net:](http://www.webhostdir.com/banners/banman.asp?ZoneID=22&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $3.95 Web Hosting Special, 2000 MB Space, 60 GB Bandwidth, Free Templates, Unlimited Email & 100's of Features! 
+
+[Hostdeal.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=23&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Free instant setup at $4.95/mo. 2,000 MB space, 50 Gb transfer, unlimited email accounts. 24x7 support, 99.9% Uptime, Free Website Builder. 
+
+[I X Web Hosting.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=24&Task=Click&Mode=HTML&SiteID=1&PageID=4527) As low as $1.99/mo per hosted domain name! FREE Domain Registration, 500mb to UNLIMITED Web Space & Website Builder! 
+
+|   
+---|---|---  
+    
+  
+  
+---  
+  
+| 
+
+[MediaCatch LLC](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=3840)  
+Choose the company trusted by thousands - MediaCatch LLC. More space and features. 24x7 quality support. Less Money. Custom plans _[...more](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=3840)_
+
+|  | 
+
+[OnlyWebHosting.com - 50% OFF](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=88)  
+From only $3.98!!!, FREE Setup, 250mb Webspace, Microsoft FrontPage Support, FREE 24/7 Tech Support & 100% Network uptime. Easy _[...more](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=88)_
+
+|  | 
+
+[registerfly.com](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=1563)  
+Special Promotion - Get 3 Months of web hosting for only $1.00. Also $4.99 domains, $6.99 transfers, 25 MB free Web site, free _[...more](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=1563)_  
+  
+---|---|---|---|---  
+  
+  
+  | 
