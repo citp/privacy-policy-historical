@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonedog.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402043349id_/http%3A//phonedog.com/us/en/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonedog.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723120903id_/http%3A//www.phonedog.com/us/en/content/privacy.aspx) for the most accurate reproduction.*
 
 # PhoneDog.com privacy policy - your telecommunications resource
 
@@ -18,7 +18,7 @@ However, if you decide to switch your long distance service to one of the plans 
  We use information gathered about you from our site statistics (for example, your IP address) to help diagnose problems with our server and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information. Our site uses cookies to keep track of your site visit. We use cookies to track the amount of traffic we receive and troubleshoot any browser issues. This site may also contain links to other sites. Unfortunately, [www.phonedog.com](http://www.phonedog.com/) is not responsible for the privacy practices or the content of such Web sites.
 
 **Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. 
 
 **Sending E-mails**  
 We use e-mails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide e-mail links, as on our "Ask A Question" page, to allow you to contact us directly. We strive to reply promptly to your messages. 
