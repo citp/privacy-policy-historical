@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the spglobal.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602085620id_/http%3A//www.mcgraw-hill.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spglobal.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The McGraw-Hill Companies
 
 _Date revised and posted: 12/12/2000_  
  **THE McGRAW-HILL COMPANIES CUSTOMER PRIVACY POLICY STATEMENT**
 
-[Español](https://web.archive.org/web/20020602085620id_/http%3A//www.mcgraw-hill.com/privacy_spanish.html) | [Français](https://web.archive.org/web/20020602085620id_/http%3A//www.mcgraw-hill.com/privacy_french.html) | [Deutsch](https://web.archive.org/web/20020602085620id_/http%3A//www.mcgraw-hill.com/privacy_german.html)
+[Español](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/privacy_spanish.html) | [Français](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/privacy_french.html) | [Deutsch](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/privacy_german.html) | [Italiano](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/privacy_italian.html) | [Nederlands](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/privacy_dutch.html)
 
 The McGraw-Hill Companies' Customer Privacy Policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our customers. The Policy guides how we collect, store and use information about customers and prospects, and it will be periodically assessed against new technologies, business practices and our customers' changing needs. 
 
@@ -40,9 +40,9 @@ The McGraw-Hill Companies is committed to using all reasonable efforts to abide 
 
 The Corporation also has established a standing Privacy Steering Committee consisting of senior corporate executives and managers from our major business segments. This Committee will continue to oversee implementation of and compliance with our Policy and will adapt the Policy to reflect changes in technology and customer expectations. The co-chairs of the Committee are also charged with handling unresolved customer concerns. You can reach them by sending an e-mail message to [washaff@mcgraw-hill.com](mailto:washaff@mcgraw-hill.com). 
 
-To ensure that we follow our stated Policy, we also are conducting periodic and random reviews of our Web sites and other products and services. The results of our review are shared with senior management and our Board of Directors. A [report](https://web.archive.org/web/20020602085620id_/http%3A//www.mcgraw-hill.com/utility/privacy/report_2001.html) of our experience will be available annually. 
+To ensure that we follow our stated Policy, we also are conducting periodic and random reviews of our Web sites and other products and services. The results of our review are shared with senior management and our Board of Directors. A [report](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/utility/privacy/report_2001.html) of our experience will be available annually. 
 
-[Español](https://web.archive.org/web/20020602085620id_/http%3A//www.mcgraw-hill.com/privacy_spanish.html) | [Français](https://web.archive.org/web/20020602085620id_/http%3A//www.mcgraw-hill.com/privacy_french.html) | [Deutsch](https://web.archive.org/web/20020602085620id_/http%3A//www.mcgraw-hill.com/privacy_german.html)
+[Español](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/privacy_spanish.html) | [Français](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/privacy_french.html) | [Deutsch](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/privacy_german.html) | [Italiano](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/privacy_italian.html) | [Nederlands](https://web.archive.org/web/20021202080433id_/http%3A//www.mcgraw-hill.com/privacy_dutch.html)
 
 **< BACK**
 
