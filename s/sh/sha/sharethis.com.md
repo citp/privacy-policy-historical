@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharethis.com privacy policy that was archived on 2002-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020117152813id_/http%3A//www.sharethis.com/home/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharethis.com privacy policy that was archived on 2003-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030109055733id_/http%3A//www.sharethis.com/home/privacy_policy.php) for the most accurate reproduction.*
 
 # ShareThis - Home - Privacy Policy
 
