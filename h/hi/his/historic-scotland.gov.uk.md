@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historic-scotland.gov.uk privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402213235id_/http%3A//www.historic-scotland.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historic-scotland.gov.uk privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202204350id_/http%3A//www.historic-scotland.gov.uk/privacy) for the most accurate reproduction.*
 
 # Historic Scotland - Privacy Policy
 
