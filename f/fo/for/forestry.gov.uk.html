@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the forestry.gov.uk privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603101711id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forestry.gov.uk privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208123807id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Forestry Commission - Privacy Policy</title><link rel="stylesheet" type="text/css" href="/website/FCWide.nsf/standard.css?OpenPage"><meta name="description" content="privacy policy"><meta name="keywords" content="forestry, forest, tree, wood, timber, conifers, woodlands, broadleaves, Forestry Commission"><meta http-equiv="Expires" content="Thu, 3 June 2004 11:9:47 GMT"><script language="JavaScript"></script>
+<title>Forestry Commission - Privacy Policy</title><link rel="stylesheet" type="text/css" href="/website/FCWide.nsf/standard.css?OpenPage"><meta name="description" content="privacy policy"><meta name="keywords" content="forestry, forest, tree, wood, timber, conifers, woodlands, broadleaves, Forestry Commission"><meta name="DC.Date.Created" scheme="ISO8601" content="2001-09-27"><meta name="DC.Date.Modified" scheme="ISO8601" content="2004-11-03"><meta name="DC.Date.Issued" scheme="ISO8601" content="2003-12-23"><meta name="DC.Description" lang="eng" content="privacy policy"><meta name="e-GMS.disposal.review" content="2005-06-14"><meta name="DC.Format" lang="eng" scheme="IMT" content="html/text"><meta name="DC.identifier" lang="eng" content="http://www.forestry.gov.uk/website/oldsite.nsf/byunique/infd-52ybs4"><meta name="DC.Language" scheme="ISO 639-2/B" content="en"><meta name="DC.Publisher" lang="eng" content="Forestry Commission, 231 Corstorphine Road, Edinburgh EH12 7AT, Tel: 0131 334 0303"><meta name="DC.Rights.Copyright" lang="eng" content="Crown Copyright"><meta name="eGMS.subject.keyword" lang="eng" content="forestry, forest, tree, forestry commission, forrestry, comission, wood, timber, places to go, GB, things to do, grants, licences, publications, research, leaf, broadleaves, conifers, arbortum, pinetum, Forestry Commission"><meta name="DC.Title" lang="eng" content="Forestry Commission - Privacy Policy"><meta http-equiv="Expires" content="Wed, 8 December 2004 12:36:0 GMT"><script language="JavaScript"></script>
 <script language="JavaScript" type="text/javascript">
 <!-- 
 document._domino_target = "_self";
@@ -22,6 +22,9 @@ function _doClick(v, o, t) {
 
 <script language="JavaScript" type="text/javascript">
 <!-- 
+var t=0;
+var idClose="";
+
 function showOrig(id, parentid)
 {
   if (parentid!='none')
@@ -40,6 +43,12 @@ function show(id, parentid,alignid)
    var iWidthWin=0;
    var iAlnHt;
    var elAlign=document.getElementById(alignid);
+
+  if (t!=0)
+  {
+    clearTimeout(t);
+    t=0;
+  }
 
   if (parentid!='none')
   {
@@ -94,29 +103,25 @@ function show(id, parentid,alignid)
   	  document.getElementById(id).style.top = iPos-document.getElementById(id).offsetHeight+iAlnHt;
   	}
   }  
-
+  
+  idClose=id;
   document.getElementById(id).style.visibility = 'visible';
 }
+
 function hide(id)
 {
   document.getElementById(id).style.visibility = 'hidden';
+//  t = setTimeout("timerClose('"+id+"')", 400)
 }
 
-// -->
-</script>
-
-<script language="JavaScript" type="text/javascript">
-<!-- 
-function opensearch()
-{  
-  var sCountry=document.forms[0].item("CountryJS").value;
-  var sCntQual="";
-  if (sCountry!="" & sCountry!="gb")
-    sCntQual="+and+(field+country+contains+"+sCountry+")";
-  window.open("/website/searchall.nsf/SearchTemplate"+document.forms[0].item("SubsiteUse").value+
-  "?OpenForm&c="+sCountry+"&Areas="+
-  document.forms[0].item("Areas").value+";query="+
-  document.forms[0].item("SearchInput").value+sCntQual+";","_self")
+function timerClose(id)
+{
+  document.getElementById(id).style.visibility = 'hidden';
+  if (t!=0)
+  {
+    clearTimeout(t);
+    t=0;
+  }
 }
 
 // -->
@@ -138,13 +143,17 @@ function opensearch()
 <tbody><tr bgcolor="#336633">
 <!-- cell1, link back to GB homepage -->
 <td><a href="http://www.forestry.gov.uk"><img src="/images/universaltopleft.gif/$file/universaltopleft.gif" width="240" height="29" alt="to Forestry Commission homepage" border="0"></a></td>
+<!-- cell1bis, image for the vertical divider -->
+<td><img src="/images/universalverticalrule.gif/$file/universalverticalrule.gif" width="9" height="22" border="0" alt="" hspace="4"></td>
+<!-- cell1ter text link back to homepage -->
+<td><a href="http://www.forestry.gov.uk" class="whitetext9">Home</a></td>
 <!-- cell2, image for the vertical divider -->
 <td><img src="/images/universalverticalrule.gif/$file/universalverticalrule.gif" width="9" height="22" border="0" alt="" hspace="4"></td>
 <!-- cell3, Quick links  -->
 <td onmouseover="show('QL','none','aql')" onfocus="show('QL','none','aql')" onmouseout="hide('QL')" onblur="hide('QL')" onmouseleave="hide('QL')" id="QLTD">
 <a href="http://www.forestry.gov.uk/forestry/quicklinks" class="whitetext9" id="aql">Quick&nbsp;links</a><br>
 <!--layer for quick links drop down menu-->
-<div onmouseover="show('QL','none','aql')" onfocus="show('QL','none','aql')" onmouseout="hide('QL')" onblur="hide('QL')" onmouseleave="hide('QL')" id="QL" style="visibility:hidden; position: absolute; border: 1px #336633 solid; background-color: #E9F3E9; padding: 3px">
+<div onmouseover="show('QL','none','aql')" onfocus="show('QL','none','aql')" onmouseout="hide('QL')" onblur="hide('QL')" onmouseleave="hide('QL')" id="QL" style="visibility:hidden; position: absolute; border: 1px #336633 solid; background-color: #E9F3E9; padding: 3px; z-index: 10">
 <!-- first level drop down menu and sub menus embedded-->
 <table cellpadding="0" cellspacing="0" border="0" summary="layout">
 <!-- row1, england-->
@@ -162,7 +171,10 @@ function opensearch()
 <td><a href="http://www.forestry.gov.uk/forestry/hcou-4ucf3z" class="universalgreentext9">Communities in England</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestry.gov.uk/forestry/infd-5sehy4" class="universalgreentext9">WGS</a></td>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5z9fx3" class="universalgreentext9">Grants and licences in England</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5z9hev" class="universalgreentext9">Current grants in England</a></td>
 </tr>
 <tr>
 <td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4hzp" class="universalgreentext9">Increasing access</a></td>
@@ -172,12 +184,6 @@ function opensearch()
 </tr>
 <tr>
 <td><a href="http://www.forestry.gov.uk/forestry/infd-5ller8" class="universalgreentext9">Regions</a></td>
-</tr>
-<tr>
-<td><a href="http://www.forestry.gov.uk/forestry/infd-59yhgx" class="universalgreentext9">Review of woodland creation</a></td>
-</tr>
-<tr>
-<td><a href="http://www.forestry.gov.uk/forestry/hcou-4z6k5n" class="universalgreentext9">Sustaining England's woodlands</a></td>
 </tr>
 <!-- end table for england sub menu-->
 </tbody></table>
@@ -202,7 +208,7 @@ function opensearch()
 <td><a href="http://www.forestry.gov.uk/forestry/hcou-4ucg4q" class="universalgreentext9">Environment and wildlife</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestry.gov.uk/forestry/hcou-4ucg7z" class="universalgreentext9">Grants&nbsp;&amp;&nbsp;licences</a></td>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5zacxv" class="universalgreentext9">Grants&nbsp;and&nbsp;licences in Scotland</a></td>
 </tr>
 <tr>
 <td><a href="http://www.forestry.gov.uk/forestry/hcou-4ucge8" class="universalgreentext9">Recreation in Scotland</a></td>
@@ -235,7 +241,10 @@ function opensearch()
 <td><a href="http://www.forestry.gov.uk/forestry/hcou-4uchmz" class="universalgreentext9">Forest industries</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestry.gov.uk/forestry/infd-4zvlm5" class="universalgreentext9">Woodland management</a></td>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5z8jcr" class="universalgreentext9">Grants and licences in Wales</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5z8jqk" class="universalgreentext9">Better woodlands for Wales</a></td>
 </tr>
 <tr>
 <td><a href="http://www.forestry.gov.uk/forestry/infd-4zvkn9" class="universalgreentext9">Woodland environment</a></td>
@@ -261,7 +270,7 @@ function opensearch()
 <td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4j97" class="universalgreentext9">Case studies</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestry.gov.uk/publicregister" class="universalgreentext9">Public register</a></td>
+<td><a href="http://www.forestry.gov.uk/publicregisters" class="universalgreentext9">Public registers</a></td>
 </tr>
 <!-- end table for communities sub menu-->
 </tbody></table>
@@ -276,10 +285,10 @@ function opensearch()
 <!--table for consultations sub menu-->
 <table summary="layout">
 <tbody><tr>
-<td><a href="http://www.forestry.gov.uk/forestry/infd-5w9cl6" class="universalgreentext9">Hafod</a></td>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-62fln6" class="universalgreentext9">Newborough</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestry.gov.uk/publicregister" class="universalgreentext9">Public register</a></td>
+<td><a href="http://www.forestry.gov.uk/publicregisters" class="universalgreentext9">Public registers</a></td>
 </tr>
 <tr>
 <td><a href="http://www.forestry.gov.uk/forestry/infd-5sehy4" class="universalgreentext9">English woodland grant scheme</a></td>
@@ -370,7 +379,7 @@ function opensearch()
 <!--table for research sub menu-->
 <table summary="layout">
 <tbody><tr>
-<td><a href="http://www.forestry.gov.uk/forestresearch" class="universalgreentext9">Forest Research</a></td>
+<td><a href="http://www.forestresearch.gov.uk" class="universalgreentext9">Forest Research</a></td>
 </tr>
 <tr>
 <td><a href="http://www.forestry.gov.uk/planthealth" class="universalgreentext9">Plant health</a></td>
@@ -465,34 +474,40 @@ function opensearch()
 <!-- row-->
 <tr class="onepxhigh"><td colspan="2" class="hrsim">&nbsp;</td></tr>
 <!-- row, forest research-->
-<tr><!--<tr onMouseOver="show('FR','QL','afr')" onFocus="show('FR','QL','afr')" onMouseOut="hide('FR')" onBlur="hide('FR')" onMouseLeave="hide('FR')">--><td>
-<a href="http://www.forestry.gov.uk/forestresearch" class="universalgreentext9" id="afr">Forest Research</a>
-<!--layer for forest research sub menu
-<div onMouseOver="show('FR','QL','afr')" onFocus="show('FR','QL','afr')" onMouseOut="hide('FR')" onBlur="hide('FR')" onMouseLeave="hide('FR')" id="FR" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
-table for forest research sub menu
+<tr></tr><tr onmouseover="show('FR','QL','afr')" onfocus="show('FR','QL','afr')" onmouseout="hide('FR')" onblur="hide('FR')" onmouseleave="hide('FR')"><td>
+<a href="http://www.forestresearch.gov.uk" class="universalgreentext9" id="afr">Forest Research</a>
+<!--layer for forest research sub menu-->
+<div onmouseover="show('FR','QL','afr')" onfocus="show('FR','QL','afr')" onmouseout="hide('FR')" onblur="hide('FR')" onmouseleave="hide('FR')" id="FR" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for forest research sub menu-->
 <table summary="layout">
-<tr>
-<td><a href="http://www.forestresearch.gov.uk/fr/infd-5txhaj"  class="universalgreentext9">About Forest Research</a></td>
+<tbody><tr>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5txhaj" class="universalgreentext9">About Forest Research</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestresearch.gov.uk/fr/infd-5txhba"  class="universalgreentext9">Contact Forest Research</a></td>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5txhba" class="universalgreentext9">Contact&nbsp;Forest&nbsp;Research</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestresearch.gov.uk/fr/infd-5qnjg8"  class="universalgreentext9">Research - themes</a></td>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5qnjg8" class="universalgreentext9">Research - themes</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestresearch.gov.uk/fr/infd-5stbnu"  class="universalgreentext9">Research - expertise</a></td>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5stbnu" class="universalgreentext9">Research - expertise</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestresearch.gov.uk/fr/infd-5stbpk"  class="universalgreentext9">Products/services</a></td>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5stbpk" class="universalgreentext9">Products/services</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestresearch.gov.uk/fr/infd-5txhbs"  class="universalgreentext9">Resources</a></td>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5vtkru" class="universalgreentext9">FR News</a></td>
 </tr>
- end table for forest research sub menu
-</table>
- end layer for forest research sub menu
-</div>--></td><td><!--<img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border=0 alt="" width="9" height="14" hspace="3">--></td></tr>
+<tr>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5zm9un" class="universalgreentext9">FR Events</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5txhbs" class="universalgreentext9">Resources</a></td>
+</tr>
+ <!--end table for forest research sub menu-->
+</tbody></table>
+<!--end layer for forest research sub menu-->
+</div></td><td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
 <!-- row, forest holidays-->
 <tr><td colspan="2">
 <a href="http://www.forestholidays.co.uk" class="universalgreentext9">Forest Holidays</a></td></tr>
@@ -518,6 +533,9 @@ table for forest research sub menu
 <td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4j3x" class="universalgreentext9">Industry</a></td>
 </tr>
 <tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u8nbk" class="universalgreentext9">Market info</a></td>
+</tr>
+<tr>
 <td><a href="http://www.forestry.gov.uk/planthealth" class="universalgreentext9">Plant health</a></td>
 </tr>
 <tr>
@@ -535,25 +553,31 @@ table for forest research sub menu
 <!--table for GL sub menu-->
 <table summary="layout">
 <tbody><tr>
-<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4j2m" class="universalgreentext9">Woodland grants</a></td>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5ygfbu" class="universalgreentext9">Grants and licences in GB</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestry.gov.uk/publicregister" class="universalgreentext9">Public register</a></td>
+<td><a href="http://www.forestry.gov.uk/publicregisters" class="universalgreentext9">Public registers</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestry.gov.uk/frm" class="universalgreentext9">Forest reproductive material</a></td>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5ygfel" class="universalgreentext9">Land information search</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u5fsy" class="universalgreentext9">GL Guidance</a></td>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5ygfgz" class="universalgreentext9">Citizen's charter</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestry.gov.uk/planthealth" class="universalgreentext9">Plant health</a></td>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5ygfhr" class="universalgreentext9">Grants and Licences FAQs</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u5gdn" class="universalgreentext9">Regulations</a></td>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5z5kuk" class="universalgreentext9">Grants and Licences complaints and appeal</a></td>
 </tr>
 <tr>
-<td><a href="http://www.forestry.gov.uk/forestry/wcas-4u5n3e" class="universalgreentext9">Reviews</a></td>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5z9fx3" class="universalgreentext9">Grants and licences in England</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5zacxv" class="universalgreentext9">Grants and licences in Scotland</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5z8jcr" class="universalgreentext9">Grants and licences in Wales</a></td>
 </tr>
 <!-- end table for GL sub menu-->
 </tbody></table>
@@ -625,7 +649,7 @@ table for forest research sub menu
 <td onmouseover="show('Library','none','alibrary')" onfocus="show('Library','none','alibrary')" onmouseout="hide('Library')" onblur="hide('Library')" onmouseleave="hide('Library')">
 <a href="http://www.forestry.gov.uk/forestry/library" class="whitetext9" id="alibrary">Library</a><br>
 <!-- layer for library drop down menu-->
-<div onmouseover="show('Library','none','alibrary')" onfocus="show('Library','none','alibrary')" onmouseout="hide('Library')" onblur="hide('Library')" onmouseleave="hide('Library')" id="Library" style="visibility:hidden; position: absolute; border: 1px  #336633 solid; background-color: #E9F3E9; padding: 3px">
+<div onmouseover="show('Library','none','alibrary')" onfocus="show('Library','none','alibrary')" onmouseout="hide('Library')" onblur="hide('Library')" onmouseleave="hide('Library')" id="Library" style="visibility:hidden; position: absolute; border: 1px  #336633 solid; background-color: #E9F3E9; padding: 3px; z-index:10">
 <!-- table for drop down menu-->
 <table summary="layout">
 <tbody><tr>
@@ -675,25 +699,39 @@ table for forest research sub menu
 <td width="100%" bgcolor="#336633"><img src="/images/clearpx.gif/$file/clearpx.gif" alt="" width="1" height="1" border="0"></td>
 </tr>
 <!-- main table, end-->
-</tbody></table>
-
-<script>
+</tbody></table><script>
 var nav4 = window.Event ? true : false;
 function showKey(e) {
   if (nav4) // Navigator 4.0x
+  {
     var whichCode = e.which
+  }
   else // Internet Explorer 4.0x
+  {
     if (e.type == "keypress") // the user entered a character
       var whichCode = e.keyCode
     else
       var whichCode = e.button;
-    if (whichCode==13)
-    {
-      opensearch();
-      return false;
-    }
+  }
+  if (whichCode==13)
+  {
+    opensearch("");
+    return false;
+  }
     return true;
-}</script>
+}
+function opensearch(sSubsite)
+{  
+  var sCountry="gb";
+  var sAreas="General Information:News Releases:Recreation and Wild Woods:Publications:Public Register of planting and felling applications:Learning";
+  var sCntQual="";
+  if (sCountry!="" & sCountry!="gb")
+    sCntQual="+and+(field+country+contains+"+sCountry+")";
+window.open("/website/searchall.nsf/SearchTemplate"+sSubsite+"?OpenForm&Country="+sCountry+";Areas="+sAreas+";query="+document.getElementById("SearchInput").value+sCntQual+";","_self");
+//  window.open("/website/searchall.nsf/SearchTemplate"+sSubsite+"?OpenForm&c="+sCountry+"&Areas="+
+//  sAreas+";query="+ document.forms[0].item("SearchInput").value+sCntQual+";","_self")
+}
+</script>
 <input type="hidden" name="CountryJS" value="gb"><input type="hidden" name="return" value="/website/searchall.nsf/SearchTemplate?OpenForm&amp;Country=gb;Areas=General+Information:News+Releases:Recreation+and+Wild+Woods:Publications:Public+Register+of+planting+and+felling+applications:Learning"><input type="hidden" name="Areas" value="General Information:News Releases:Recreation and Wild Woods:Publications:Public Register of planting and felling applications:Learning"><input type="hidden" name="SubsiteUse" value="">
 <table cellpadding="0" cellspacing="0" border="0" summary="layout" width="100%">
 <tbody><tr>
@@ -712,7 +750,7 @@ function showKey(e) {
 </td><td>&nbsp;</td><td>
 <input type="text" value=" " class="SearchInput" name="SearchInput" id="SearchInput" onkeypress="return showKey(event)">
 </td>
-<td><a href="javascript:opensearch()"><img src="/images/gbgobutton.gif/$file/gbgobutton.gif" width="21" height="21" hspace="5" border="0" alt="go"></a></td>
+<td><a href='javascript:opensearch("")'><img src="/images/gbgobutton.gif/$file/gbgobutton.gif" width="21" height="21" hspace="5" border="0" alt="go"></a></td>
 
 <td><img src="/images/gbverticalrule.gif/$file/gbverticalrule.gif" width="9" height="31" border="0" alt="" hspace="4"></td>
 <td width="100%" bgcolor="#669933"><img src="/images/clearpx.gif/$file/clearpx.gif" alt="" width="1" height="1" border="0"></td>
@@ -720,21 +758,24 @@ function showKey(e) {
 </tbody></table><br>
 
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="layout table">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="layout table" class="maintableborders">
   <tbody><tr valign="top" align="left">
     <td class="ColumnColour">
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top" class="dotlineH"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="124" height="1" alt="" border="0"></td></tr><tr><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" href="/forestry/hcou-4ubelu">downloads</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3" class="dotlineH"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="124" height="1" alt=""></td></tr> <tr><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" href="/forestry/hcou-4ubesc">technical help</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3" class="dotlineH"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="124" height="1" alt=""></td></tr> <tr><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" href="/forestry/hcou-4ubehr">accessibility</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3" class="dotlineH"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="124" height="1" alt=""></td></tr> <tr><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" href="/forestry/cmon-53egkh">linking to this site</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3" class="dotlineH"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="124" height="1" alt=""></td></tr> <tr><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" href="/forestry/hcou-4ubejz">copyright</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3" class="dotlineH"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="124" height="1" alt=""></td></tr> <tr><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" href="/forestry/hcou-4ubekm">disclaimers</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3" class="dotlineH"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="124" height="1" alt=""></td></tr> <tr><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><p class="MENUCURPAGE">privacy policy</p></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3" class="dotlineH"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="124" height="1" alt=""></td></tr></tbody></table>
+<p>&nbsp;<br><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td align="left" width="101"><a class="MENU" href="/forestry/HCOU-4U4J3S">back to help home</a></td><td width="15"><img src="/images/trianglelight.gif/$FILE/trianglelight.gif" width="15" height="15" border="0" alt="" name="clearrollover"></td></tr><tr><td colspan="3" valign="top" class="dotlineH"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="124" height="1" alt="" border="0"></td></tr></tbody></table>
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="150" height="1" alt="" border="0"></td></tr><tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[34].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[34].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubelu">downloads</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[37].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[37].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubesc">technical help</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[40].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[40].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubehr">accessibility</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[43].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[43].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/cmon-53egkh">linking to this site</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[46].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[46].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubejz">copyright</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[49].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[49].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubekm">disclaimers</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><p class="MENUCURPAGE">privacy policy</p></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr></tbody></table>
-<p>&nbsp;<br><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td align="left" width="101"><a class="MENU" onmouseover="clearrollover.src='/images/triangle.gif/$FILE/triangle.gif';" onmouseout="clearrollover.src='/images/trianglelight.gif/$FILE/trianglelight.gif';" href="/forestry/HCOU-4U4J3S">back to help home</a></td><td width="15"><img src="/images/trianglelight.gif/$FILE/trianglelight.gif" width="15" height="15" border="0" alt="" name="clearrollover"></td></tr><tr><td colspan="3" valign="top"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt="" border="0"></td></tr></tbody></table>
 
-      </p></td> 
-<td valign="bottom"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="10" heigth="10" alt=""></td>
-    <td width="100%">
-  <h2>privacy policy<br><img src="/images/titlegreenrule.gif/$FILE/titlegreenrule.gif" width="320" height="11" alt="" border="0"></h2>
+
+
+</p></td><td valign="bottom" class="dotlineV"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="10" heigth="10" alt=""></td><td width="100%" style="padding-left=4px">  <h2>Privacy policy<br><img src="/images/titlegreenrule.gif/$FILE/titlegreenrule.gif" width="320" height="11" alt="" border="0"></h2>
    
     <p>This page explains how the Forestry Commission, uses any information you give to us through our website, and the ways in which we protect your privacy. </p>
 <p><b>The Data Protection Act</b></p>
-<p>The Forestry Commission is a data controller under the Data Protection Act. Under the Act, we have a legal duty to protect any information we collect from you. We safeguard your data, and keep strict security standards to prevent any unauthorised access to it. We do not pass on your details to any third party or other government department unless you give us permission to do so.</p>
+<p>The Forestry Commission is a data controller under the Data Protection Act. Under the Act, we have a legal duty to protect any information we collect from you. We safeguard your data, and keep strict security standards to prevent any unauthorised access to it. We do not pass on your details to any third party or other government department unless you give us permission to do so.</p><!--<P><IMG height=27 alt="information padlock" hspace=3 
+src="/images/infolock.gif/$file/infolock.gif" width=17 align=left> This new 
+symbol is used to alert you to the fact that information is collected. You will 
+find below what information we collect and what we do with the information 
+collected.</P>-->
 <p><b>What information do we collect?</b></p>
 <p>We collect different kinds of information from visitors to our website:</p>
 <ul>
@@ -771,34 +812,52 @@ function showKey(e) {
 <p>Post:</p>
 <blockquote>The Webmaster<br>Communications Branch<br>Forestry Commission<br>231 Corstorphine Road<br>Edinburgh<br>EH12 7AT<br>United Kingdom</blockquote>
 <p>&nbsp;If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.</p>
-<p>September 2001</p>
-
-<br>
-<br clear="all"><center class="RHS"><a href="/website/oldsite.nsf/LUPrintDocsByKey/INFD-52YBS4">print friendly version</a> | <a href="/forestry/infd-52ybs4">privacy policy</a> | <a href="/forestry/HCOU-4UBEJZ">© Crown Copyright 2004</a></center><p><br>
-</p></td>
-<td valign="bottom"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="10" height="10" alt=""></td>
-    <td width="150" class="RHSC">
+<p>September 2001</p>&nbsp; &nbsp; 
 
 
 
-<p>
- 
+ </td>
+<td id="rhscoldot" valign="bottom" class=""><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="10" height="10" alt=""></td>
+    <td id="rhscol" width="150" class="RHSC" style="padding-left=3px"> 
 
 
-  <br>
 
 
-</p></td>
+
+
+
+  
+
+
+  </td>
 <td valign="bottom"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="10" heigth="10" alt=""></td>
   </tr>
-</tbody></table>
+<tr><td colspan="6" class="dotlineH"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="1" height="7" alt=""></td></tr>
+</tbody></table> 
 
 
-
-
-
-
-</form>
+  <table border="0" cellpadding="0" cellspacing="0" summary="layout" width="100%"><tbody><tr valign="top" align="right"><td align="left"><a href="http://www.direct.gov.uk"><img src="/images/directgovlogowhite.gif/$file/directgovlogowhite.gif" width="100" height="37" alt="to DirectGov" border="0"></a></td><td width="100%" class="blackfooter"></td><td><a href="/website/feedback.nsf/feedback?openform" class="footer">Feedback</a>&nbsp;|&nbsp;<a class="footer" href="/website/oldsite.nsf/byunique/infd-52ybs4?Open&amp;PrintFriendly=y">Print&nbsp;friendly&nbsp;version</a>&nbsp;|&nbsp;<a href="/forestry/infd-52ybs4" class="footer">Privacy&nbsp;policy</a>&nbsp;|&nbsp;<a href="/forestry/HCOU-4UBEJZ" class="footer">©&nbsp;Crown&nbsp;Copyright&nbsp;2004</a>&nbsp;&nbsp;&nbsp;</td></tr></tbody></table>
+<script>
+try
+{
+  el=document.getElementById("rhscol");
+  elDot=document.getElementById("rhscoldot");
+  if (el!=null & elDot!=null)
+  {
+    if (el.offsetWidth<=10)
+    {
+      elDot.className="";
+    }
+    else
+    {
+      elDot.className="dotlineV";
+    }
+  }
+}
+catch (err)
+{
+}
+</script></form>
 
 
 </body></html>
