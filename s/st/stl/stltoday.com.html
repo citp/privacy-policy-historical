@@ -1,30 +1,69 @@
-<!--The following is the downloaded HTML source of the stltoday.com privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606082950id_/http%3A//www.stltoday.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stltoday.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204135807id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.-->
 
-<html><head>
-<title>STLtoday - Help - Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>STLtoday - Help Center - Privacy Policy</title>
 
 <link rel="STYLESHEET" type="text/css" href="http://images.stltoday.com/stltoday/text/styles.css" title="STLtodayStyles">
 <script language="javascript" src="http://images.stltoday.com/stltoday/js/browsersniffer.js"></script>
 <script language="javascript" src="http://images.stltoday.com/stltoday/js/commondyn.js"></script>
 
 
-<script language="javascript" src="http://images.stltoday.com/stltoday/js/browsersniffer.js"></script>
 <script src="http://tower.travidia.com/tower.aspx?t=yes&amp;c=stltoday&amp;w=120&amp;h=10&amp;s=ads&amp;l=...more+on+Ad+Zone&amp;n=on&amp;d=6"></script>
 <script language="javascript" src="http://images.stltoday.com/stltoday/js/stltodayadzonetower.js"></script>
-<script language="JavaScript"> <!--
- _displayaztower=1;
-//--> </script>
 <link rel="stylesheet" type="text/css" href="http://images.stltoday.com/stltoday/text/tower.css">
 
-<script language="JavaScript">
+<script language="JavaScript" type="text/javascript">
 <!-- 
-function openWindow(URL, name, options) {
-    window.open(URL,name,options)
+var _displayaztower=0;
+
+function loadPreAdText() {
+var isMac=navigator.platform.toLowerCase().indexOf('mac')!=-1?true:false
+var isOpera=navigator.userAgent.toLowerCase().indexOf('opera')!=-1?true:false
+var isCompuserv=navigator.userAgent.indexOf(' CS ')!=-1?true:false
+	if (document.getElementById) {
+      
+		var adObj1=document.getElementById("storyad1");
+		var adObj2=document.getElementById("storyad2");
+		var adObj3=document.getElementById("storyad3");
+		var txtObj1=document.getElementById("storyadtext1");
+		var txtObj2=document.getElementById("storyadtext2");
+		var mastertblObj=document.getElementById("mastertable");
+//		var azObj=document.getElementById("adzone");
+//		var azdispObj=document.getElementById("adzonedisp");
+//		var azinnerHTML=azObj.innerHTML;
+//		azObj.innerHTML="";
+		var margintop="2px"
+        if(isMac) {margintop=navigator.appName.toLowerCase().indexOf('internet explorer')!=-1?"14px":"2px"}
+		
+		if (adObj1!=null && inlineads && !isMac && !isCompuserv) {
+		adObj1.style.cssText="width:300px;height:250px;float:left;clear:left;margin-top:4px;margin-bottom:4px"
+		     txtObj1.style.cssText="float:left;clear:left;width:300;text-align:right;margin-top:14px;margin-bottom:5px;visibility:visible";						
+			txtObj1.innerHTML="<a href='#belowad' name='belowad' CLASS='relatedHeader'>Story continues below ad</a><IMG SRC='http://images.stltoday.com/stltoday/pixels/336699.gif' width=300 height=1 border=0 alt=''>";
+			txtObj2.innerHTML="<IMG SRC='http://images.stltoday.com/stltoday/pixels/336699.gif' width=300 height=1 border=0 alt=''>";
+			txtObj2.style.cssText="float:left;clear:left;width:300px;height:1px;text-align:center;margin-top:2px;margin-bottom:2px";
+		} else if(adObj2 !=null && inlineads) {
+		     adObj2.style.cssText="width:160px;height:600px;float:left;clear:left;margin-top:"+margintop +";margin-bottom:2px;margin-right:4px"
+		     txtObj1.style.cssText="float:left;clear:left;width:" + adObj2.style.width + "px;text-align:right;margin-top:14px;margin-bottom:5px;margin-right:4px;visibility:visible";						
+			txtObj1.innerHTML="<font class='relatedHeader'>Advertisement</font><BR><IMG SRC='http://images.stltoday.com/stltoday/pixels/336699.gif' width="+ adObj2.style.width +" height=1 border=0 alt=''>";
+			txtObj2.innerHTML="<IMG SRC='http://images.stltoday.com/stltoday/pixels/336699.gif' width="+ adObj2.style.width +" height=1 border=0 alt=''>";
+			txtObj2.style.cssText="float:left;clear:left;width:" + adObj2.style.width + "px;height:1px;text-align:center;margin-top:2px;margin-bottom:2px";
+		} else if(adObj3 !=null && inlineads) {
+			adObj3.style.cssText="width:180px;height:150px;float:left;clear:left;margin-top:"+margintop+";margin-bottom:2px;margin-right:4px"
+			txtObj1.style.cssText="float:left;clear:left;width:" + adObj3.style.width + "px;text-align:right;margin-top:14px;margin-bottom:5px;margin-right:4px;visibility:visible";						
+			txtObj1.innerHTML="<font class='relatedHeader'>Advertisement</font><BR><IMG SRC='http://images.stltoday.com/stltoday/pixels/336699.gif' width="+ adObj3.style.width +" height=1 border=0 alt=''>";
+			txtObj2.innerHTML="<IMG SRC='http://images.stltoday.com/stltoday/pixels/336699.gif' width="+ adObj3.style.width +" height=1 border=0 alt=''>";
+			txtObj2.style.cssText="float:left;clear:left;width:" + adObj3.style.width + "px;height:1px;text-align:center;margin-top:2px;margin-bottom:2px";
+		} else if(adObj2==null && adObj3==null && !isMac && !isOpera && !isCompuserv && inlineads) {
+//     		azdispObj.style.cssText="float:left;clear:left;width:128px;margin-top:14px;margin-right:4px;margin-bottom:4px"
+//	     	azdispObj.innerHTML=azinnerHTML;
+		 }
+	}	
 }
 
-function openWin2(URL, name) {
-  popupWin = window.open(URL, name, 'dependent,scrollbars=yes,toolbar=no,resizable=yes,menubar=no,width=600,height=400' );
+
+function openWindow(URL, name, options) {
+    window.open(URL,name,options)
 }
 
 var showDateShort = 1;
@@ -48,9 +87,32 @@ function ShowDateTime(dateStyle)  {
 }
 // -->
 </script>
-</head>
-<body text="000000" bgcolor="FFFFFF" class="body">
 
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var url="/stltoday/help/stories.nsf/0/84236c32fb886b7486256ec4004c5f70?OpenDocument&amp%3BHeadline=Privacy%20Policy&Click=" + v;
+  if (o.href != null)
+    o.href = url;
+  else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" class="body" onload="loadPreAdText()">
+
+<form action=""></form>
+<script language="javascript">
+<!-- // inline ads variable
+var inlineads=false;
+// -->
+</script>
 <a name="OURTOP"></a>
 <!-- Ad JavaScript -->
 <script language="JavaScript"> <!--
@@ -65,7 +127,7 @@ _version=10;}
 <script language="JavaScript"> <!--
 
 var OAS='http://OAS-Central.RealMedia.com/RealMedia/ads/';
-var sitepage='';
+var sitepage='www.stltoday.com/help';
 var RN = new String (Math.random());
 var RNS = RN.substring(2,11);
 
@@ -86,7 +148,7 @@ document.write('<'+'/SCRIPT>');
 // -->
 </script>
 <!-- Beginning of Master Table -->
-<table width="770" border="0" cellpadding="0" cellspacing="0" align="center">
+<table id="masterTable" style="position:relative" width="770" border="0" cellpadding="0" cellspacing="0" align="center">
 <!-- Table for Top of Masthead contains two tables-->
 <tbody><tr>
 <td width="770" height="56" align="left" valign="top">
@@ -142,7 +204,14 @@ document.write('<'+'/SCRIPT>');
 <td width="770" align="left" valign="top">
 <table width="770" align="left" cellpadding="7" cellspacing="0" border="0" bgcolor="#FFFFFF">
 <tbody><tr>
-<td width="770" height="14" align="center" valign="middle" background="http://images.stltoday.com/stltoday/images/topnav/ad_bkgrnd.jpg"></td></tr>
+<td width="770" height="14" align="center" valign="middle" background="http://images.stltoday.com/stltoday/images/topnav/ad_bkgrnd.jpg"><table border="0" width="728" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="728" align="center" valign="top">
+<script language="JavaScript">
+<!-- 
+DisplayAds("Top","","");
+//-->
+</script><script language="JavaScript1.1" src="http://OAS-Central.RealMedia.com/RealMedia/ads/adstream_jx.ads/www.stltoday.com/help/1256113933@Top"></script></td></tr></tbody></table></td></tr>
 </tbody></table>
 </td></tr>
 <!-- End of Table for Ad -->
@@ -201,17 +270,17 @@ document.write('<'+'/SCRIPT>');
 <td width="100%" height="15" align="left" valign="middle">
 <!-- is there a search bar -->
 <form action="http://www.stltoday.com/stltoday/searchresults.nsf/searchredirect?createdocument" method="post" name="topform">
-<table width="100%" height="15" align="left" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" background="http://images.stltoday.com/stltoday/images/topnav/middle_ad_bkgrnd.gif">
+<table width="100%" align="left" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="background-image:url(http://images.stltoday.com/stltoday/images/topnav/middle_ad_bkgrnd.gif)">
 <tbody><tr>
-<td width="14" height="15" align="left" valign="middle" background="http://images.stltoday.com/stltoday/images/topnav/left_ad_bkgrnd.gif"><img src="http://images.stltoday.com/stltoday/images/topnav/left_ad_bkgrnd.gif" width="14" height="1" alt=""></td>
+<td width="14" height="15" align="left" valign="middle" style="background-image:url(http://images.stltoday.com/stltoday/images/topnav/left_ad_bkgrnd.gif)"><img src="http://images.stltoday.com/stltoday/images/topnav/left_ad_bkgrnd.gif" width="14" height="1" alt=""></td>
 <td width="150" height="15" align="left" valign="middle"><img src="http://images.stltoday.com/stltoday/images/topnav/no_1_st_louis_website.gif" width="137" height="12" alt="number one St. Louis website" border="0"></td>
 <td width="100%" height="15" align="center" valign="middle">
 <input name="Searchnum" type="hidden" value="1">
-<input name="Channel" type="hidden" value="Help">
+<input name="Channel" type="hidden" value="Help Center">
 <input name="SubChannel" type="hidden" value="Privacy Policy">
-<font class="searchHead">SITE&nbsp;SEARCH&nbsp;&gt;&gt;&nbsp;</font><font class="search"><input size="15" type="text" name="query" class="search">&nbsp;<input type="submit" name="Submit" value="Go!" class="search"></font>&nbsp;&nbsp;&nbsp;<a href="http://www.stltoday.com/stltoday/search.nsf/SS/Story+Finder?OpenDocument" class="searchLink">STORY FINDER</a></td>
+<font class="searchHead">SITE&nbsp;SEARCH&nbsp;&gt;&gt;&nbsp;</font><font class="search"><input size="15" type="text" name="query" class="search">&nbsp;<input type="submit" name="Submit" value="Go!" class="search"></font>&nbsp;&nbsp;&nbsp;<a href="http://www.stltoday.com/search" class="searchLink">STORY FINDER</a></td>
 <td width="82" height="15" align="right" valign="middle"><a href="http://www.stltoday.com/rd/adzone/home_page_bug"><img src="http://images.stltoday.com/stltoday/images/ad_zone_top_sm.gif" width="82" height="17" alt="ad zone" border="0"></a></td>
-<td width="14" height="15" align="left" valign="middle" background="http://images.stltoday.com/stltoday/images/topnav/right_ad_bkgrnd.gif"><img src="http://images.stltoday.com/stltoday/images/topnav/right_ad_bkgrnd.gif" width="14" height="1" alt=""></td>
+<td width="14" height="15" align="left" valign="middle" style="background-image:url(http://images.stltoday.com/stltoday/images/topnav/right_ad_bkgrnd.gif)"><img src="http://images.stltoday.com/stltoday/images/topnav/right_ad_bkgrnd.gif" width="14" height="1" alt=""></td>
 </tr>
 </tbody></table></form>
 
@@ -246,7 +315,7 @@ document.write('<'+'/SCRIPT>');
 <tbody><tr><td class="gutContent">
 <table cellpadding="0" cellspacing="0" class="gutTable">
 <tbody><tr><td class="gutContent">
-<a href="http://www.stltoday.com/weather"><img src="http://images.stltoday.com/stltoday/images/weather/topleft_static_weather.gif" width="135" height="89" alt="Weather" border="0"></a></td></tr></tbody></table></td></tr>
+<a href="/help"><img src="http://images.stltoday.com/stltoday/images/top_left_helpcenter.gif" width="135" height="89" alt="Help Center" border="0"></a></td></tr></tbody></table></td></tr>
 <!-- End LC Component0 -->
 <tr><td class="gutSpacer">
 <div></div></td></tr>
@@ -254,7 +323,7 @@ document.write('<'+'/SCRIPT>');
 <tr><td class="gutContent">
 <table class="navMainTbl" cellpadding="0" cellspacing="0">
 <tbody><tr><td class="navHead"><div></div></td></tr>
-<tr><td class="navHeadContent">HELP SUBSECTIONS</td></tr>
+<tr><td class="navHeadContent">HELP CENTER SUBSECTIONS</td></tr>
 <tr><td class="navHead"><div></div></td></tr>
 
 <tr>
@@ -289,7 +358,7 @@ document.write('<'+'/SCRIPT>');
 <tbody><tr>
 <td width="1"><div></div></td>
 <td class="navBtnContentL">
-<a href="/stltoday/help.nsf/Contact+Us/$First?OpenDocument" class="wnav">CONTACT US</a></td></tr></tbody></table>
+<a href="/help/contact-us" class="wnav">CONTACT US</a></td></tr></tbody></table>
 </td></tr>
 <tr><td class="navBtnBtm"><div></div></td></tr>
 
@@ -301,19 +370,7 @@ document.write('<'+'/SCRIPT>');
 <tbody><tr>
 <td width="1"><div></div></td>
 <td class="navBtnContentL">
-<a href="/faqs" class="wnav">FAQS</a></td></tr></tbody></table>
-</td></tr>
-<tr><td class="navBtnBtm"><div></div></td></tr>
-
-<tr>
-<td class="navBtnTop"><div></div></td></tr>
-<tr>
-<td width="135">
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="1"><div></div></td>
-<td class="navBtnContentL">
-<a href="http://forums.stltoday.com/faq.php" class="wnav">FORUM &amp; REGISTRATION FAQS</a></td></tr></tbody></table>
+<a href="/help/faqs" class="wnav">FAQ INDEX</a></td></tr></tbody></table>
 </td></tr>
 <tr><td class="navBtnBtm"><div></div></td></tr>
 
@@ -337,7 +394,7 @@ document.write('<'+'/SCRIPT>');
 <tbody><tr>
 <td width="1"><div></div></td>
 <td class="navBtnContentL">
-<a href="/help/user-agreement" class="wnav">USER AGREEMENT</a></td></tr></tbody></table>
+<a href="/help/user-agreement" class="wnav">TERMS OF USE</a></td></tr></tbody></table>
 </td></tr>
 <tr><td class="navBtnBtm"><div></div></td></tr>
 
@@ -349,7 +406,19 @@ document.write('<'+'/SCRIPT>');
 <tbody><tr>
 <td width="1"><div></div></td>
 <td class="navBtnContentL">
-<a href="/stltoday/help.nsf/Copyright/$First?OpenDocument" class="wnav">COPYRIGHT</a></td></tr></tbody></table>
+<a href="/help/copyright" class="wnav">COPYRIGHT</a></td></tr></tbody></table>
+</td></tr>
+<tr><td class="navBtnBtm"><div></div></td></tr>
+
+<tr>
+<td class="navBtnTop"><div></div></td></tr>
+<tr>
+<td width="135">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td width="1"><div></div></td>
+<td class="navBtnContentL">
+<a href="/help/permissions" class="wnav">RIGHTS &amp; PERMISSIONS</a></td></tr></tbody></table>
 </td></tr>
 <tr><td class="navBtnBtm"><div></div></td></tr>
 
@@ -420,26 +489,9 @@ document.write('<'+'/SCRIPT>');
 <!-- END OF LEFT GUTTER TABLE -->
 </td>
 <td width="100%" align="left" valign="top">
-<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
-<tbody><tr>
-<td width="100%" height="5" align="left" valign="top" background="http://images.stltoday.com/stltoday/images/realestate/top_bev.gif">
-<img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="1" height="5" border="0" alt=""></td></tr>
-<tr>
-<td width="100%" align="left" valign="top">
-<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
-<tbody><tr>
-<td width="7" align="left" valign="top">
-<img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="7" height="1" border="0" alt=""></td>
-<td width="100%" align="left" valign="top">
-<a href="/help" class="topNav">Help</a><font class="storyTitle">&nbsp;&gt;&nbsp;</font><font class="storyTitle">Privacy Policy</font></td>
-<td width="7" align="left" valign="top">
-<img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="7" height="1" border="0" alt=""></td>
-</tr></tbody></table>
-</td></tr>
-<tr>
-<td width="100%" height="4" align="left" valign="top" background="http://images.stltoday.com/stltoday/images/realestate/bottom_bev.gif">
-<img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="1" height="4" border="0" alt=""></td></tr>
-</tbody></table>
+<div style="width:100%;height:5px;background:url('http://images.stltoday.com/stltoday/images/realestate/top_bev.gif')"><img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="1" height="4" border="0" alt=""></div>
+<div style="padding-left:7px;padding-right:7px"><a href="/help" class="topNav">Help Center</a><font class="storyTitle">&nbsp;&gt;&nbsp;</font><font class="storyTitle">Privacy Policy</font></div>
+<div style="width:100%;height:4px;background:url('http://images.stltoday.com/stltoday/images/realestate/bottom_bev.gif')"><img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="1" height="4" border="0" alt=""></div>
 <!-- CENTER TABLE -->
 <table width="484" height="600" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
@@ -452,109 +504,109 @@ document.write('<'+'/SCRIPT>');
 <table width="300" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
 <td align="left" valign="top">
-<font class="head2"></font><br>
-<font align="left" class="byLine"></font><br>
-<font align="left" class="story">
+<div class="head2">Privacy Policy</div><div align="left" class="byLine"></div><br>
+<div align="left" class="story">
+<div style="margin-top:0px;width:1;height:125px;float:left"></div>
+<div id="storyadtext1" style="visibility:hidden;width:1px;height:1px;clear:left;float:left"></div>
+<!-- inline ad -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href="/help/user-agreement" class="storyTitle">User Agreement </a><br><br>
+<!-- end inline ad -->
+<div id="storyadtext2" style="width:1px;height:1px;clear:left;float:left"></div>
+ <div id="adzonedisp" style="width:0px;float:left;clear:left"></div>
+<br>
+	STLtoday.com believes in keeping your confidential information just that...confidential. Subject to the terms below, we will not sell to or share with anyone your personally identifiable information. We will share with potential<font color="#FF0000"> </font>advertisers only aggregate visitor information. <br>
+<br>
+<b>WHAT INFORMATION IS COLLECTED</b><br>
+<br>
+	We collect a limited amount of personal information from you in certain areas of STLtoday.com for various reasons.<font color="#FF0000"> </font>The following is a description of what information is collected.<font color="#FF0000"> </font><br>
+<br>
+<b>Registration Information </b><br>
+<br>
+	Registration is necessary to participate in the Forums and to enter contests and promotions.  When you register at STLtoday.com, we ask you for a few items of personal information. We require that you provide a user name, your first name, your last name, your zip code, your e-mail address, your birth date, and your gender. You are also given the option to provide information on your interests.  All of this optional information is used to deliver a more personal and pertinent experience for users of STLtoday.com.<br>
+<br>
+	Other features of the site, such as TV listings are third party services and require a separate registration. You should review the applicable privacy policies of these affiliated third party sites before providing personally identifiable information. STLtoday.com is not responsible for any actions or policies of such third parties.<br>
+ <br>
+<b>IP Addresses</b><br>
+<br>
+	An IP address is a number assigned to your computer when you connect to the Internet. As part of the protocol of the Internet, web servers can identify your computer by its IP address. In addition, web servers may be able to identify the type of browser you are using or even the type of computer. <br>
+<br>
+	STLtoday.com<font color="#FF0000"> </font>collects IP addresses and related information for the purposes of system administration, to assess the traffic to our site, to report aggregate information to our advertisers, and to maintain and improve our site.  We do not link IP addresses to your personally identifiable information.  We can and will use IP addresses, however, to identify a user when we feel it is necessary to enforce compliance with our terms of service or to protect our service, site, customers or others.<br>
+<br>
+<b>Use Of Cookies</b><br>
+<br>
+	Cookies are small bits of information that some Web sites (including STLtoday.com) transfer to an individual's hard drive for research purposes.  STLtoday.com uses cookies to analyze the traffic, such as total visitors and pages viewed on our site, and make improvements based on the data we collect. STLtoday.com never saves passwords or credit card information in cookies. The use of cookies has become a standard in the industry, especially at Web sites that provide any kind of personalized service.<br>
+<br>
+	Most browsers are initially set up to accept cookies. You can usually set your browser to refuse cookies or indicate when a cookie is being sent. If you refuse cookies, you may not be able to use some of the functionality of STLtoday.com.  Cookies may also be used by STLtoday.com’s advertisers and partners from third party sites to which STLtoday.com links. We do not control these cookies. The use of cookies by advertisers is standard in the Internet industry.<br>
+<br>
+<b>WHO IS COLLECTING THIS INFORMATION</b><br>
+<br>
+	STLtoday.com collects this information via our web site. In the case of co-branded sites, various third parties may collect such information. You should review the applicable privacy policies of these third parties before providing personally identifiable information. STLtoday.com is not responsible for any actions or policies of such third parties. <br>
+<br>
+While you are using STLtoday.com, you may be linked or directed to other third party sites outside STLtoday.com that are beyond STLtoday.com’s control. For example, you might click on a link or banner ad that will take you off STLtoday.com’s site. Each of these third parties may have a privacy policy different from that of STLtoday.com. These other sites may send their own cookies to users, collect data or solicit personal information. You should review the applicable privacy policies of these third party sites before providing personally identifiable information. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. Please review the privacy policies of these sites. STLtoday.com is not responsible for any actions or policies of such third parties.<font color="#FF0000"> </font><br>
+<br>
+<br>
+<b>HOW COLLECTED INFORMATION IS USED</b><br>
+<br>
+	STLtoday.com uses registration information to learn more about how visitors use the site and to measure areas of interest. This allows STLtoday.com to build features and functionality that will enhance your STLtoday.com experience. We also use the registration process to filter out those who post to STLtoday.com’s Forums but do not comply with our User Agreement. Information collected for classified ad placement and auctions is used for business purposes to assist in the placement of ads and to ensure the integrity of the auction process. If you so choose when you register, registration information might also be used to send you e-mails about new features and services on STLtoday.com, or to send you e-mails from selected third party product or service providers. We might also use this information to respond to e-mails, provide customer support, enforce our User Agreement or other similar matters. <br>
+<br>
+	Aggregate information is also used to help us run and maintain our site, study traffic patterns and generally learn about the usage of our site. Some of this aggregate information may be used to help us set advertising rates, determine advertising fees, and attract advertisers and co-branding partners.<br>
+<br>
+<b>WITH WHOM THE INFORMATION MAY BE SHARED</b><br>
+<br>
+	Except for the following exceptions, we will not knowingly authorize the disclosure of your personal identifiable information (other than aggregate statistical information) to third parties without your consent. First, we may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may have breached our User Agreement or who may be causing injury to or interference with (either intentionally or unintentionally) STLtoday.com’s rights or property, other STLtoday.com users, or anyone else who could be harmed by such activities.  Second, we may disclose user information when we believe in good faith that the law requires it.<br>
+<br>
+	It is important to know that you may inadvertently provide personally identifiable information to third parties through your postings to a forum or participation in a chat session. For example, while we do not make your real name available in forums, your user name is visible and may reveal information about yourself. We encourage you to give some thought to the privacy implications of your choice of a user name. <br>
+<br>
+<b>CHOICES YOU CAN MAKE ABOUT COLLECTION, USE AND DISTRIBUTION OF INFORMATION</b><br>
+<br>
+	At the time of registration, you are given a choice whether you want to receive information from STLtoday.com or from third parties. Your first choice is whether you want to receive e-mails about new features, events and special coverage on the site. Your second choice is whether you want to receive e-mails about special offers from STLtoday.com advertisers. When you register, you must click in a box if you want to receive either type of e-mail. Unless you affirmatively choose to receive these e-mails, you will not receive information of this kind.<br>
+<br>
+	Forum Postings: Because you can place as much or as little personal information as you want in a forum posting, we want to remind you that STLtoday.com users may read postings in forums and we have no way to limit their use of personally identifiable information you may provide. Please keep in mind that whenever you give out personal information online (for example, in forums, message boards or chat sessions) that information can be collected and used by people you don't know. While we strive to protect our user's personal information and privacy, we cannot guarantee the security of any information you voluntarily disclose online and you do so at your own risk.<br>
+<br>
+	If you want to change, correct or update your registration information and preferences to which you have previously opted-in, please login on any forum page and select "Profile" from the list on the right-hand side of the page.  Make the desired revisions in your profile and save.  To eliminate your registration from the STLtoday.com database e-mail your request to sitehelp@stltoday.com. This provision applies only to registration information collected via our web site.<br>
+<br>
+<b>CHILDREN UNDER THE AGE OF 13 YEARS</b><br>
+<br>
+	In accordance with the Children’s Online Privacy Protection Act (COPPA), STLtoday.com will not accept personally identifiable information from a child under the age of 13 without a parent’s or guardian’s prior consent.  STLtoday.com will also allow the parent or guardian of a registered user under the age of 13 to review, update, change, delete or refuse to permit further collection of any and all information collected by STLtoday.com.  A child’s personally identifiable information will be treated with the same care and respect as an adult’s information.  To change, update, review, delete or refuse to permit further collection of your child's information, please send an e-mail to sitehelp@STLtoday.com, call STLtoday.com's Customer Support at (314) 552-1403, or send a letter via postal mail to:<br>
+<br>
+STLtoday.com<br>
+c/o Customer Support<br>
+400 South Fourth Street<br>
+St. Louis, MO 63102<br>
+<br>
+To register a child under the age of 13, please fill out the following form, fax the form to STLtoday.com at (314) 552-1403 or mail it to:<br>
+<br>
+STLtoday.com<br>
+c/o Customer Support <br>
+400 South Fourth Street<br>
+St. Louis, MO 63102<br>
+<br>
+<br>
+<b>LINKS TO OTHER SITES</b><br>
+<br>
+	While you are using STLtoday.com, you may be linked or directed to other third party sites outside STLtoday.com that are beyond our control. Each of these third parties may have a privacy policy different from that of STLtoday.com. For example, you might click on a link or banner ad that will take you off our site. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. Please review the privacy policies of these sites. STLtoday.com is not responsible for any actions or policies of such third parties.<font color="#FF0000">  </font>These other sites may send their own cookies to users, collect data or solicit personal information. You should review the applicable private policies of these third party sites before providing personally identifiable information. STLtoday.com is not responsible for any actions or policies of such third parties.<br>
+<br>
+<b>HOW YOU MAY CHANGE OR CORRECT YOUR INFORMATION </b><br>
+<br>
+	f you want to change, correct or update your registration information and preferences to which you have previously opted-in, please login on any forum page and select "Profile" from the list on the right-hand side of the page.  Make the desired revisions in your profile and save.  To eliminate your registration from the STLtoday.com database e-mail your request to sitehelp@stltoday.com, call STLtoday.com’s Customer Support at (314) 552-1403 or send your request to STLtoday.com, c/o Customer Support, 400 South Fourth Street, Suite 1200, St. Louis, MO 63102 and the necessary revision(s) will be made. This provision applies only to registration information collected via our web site.<br>
+<br>
+<b>SECURITY PROCEDURES WE USE</b><br>
+<br>
+	We are very concerned with the security of your personally identifiable information and take great care in providing secure transmission of your information from your PC to our servers.  Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us. <br>
+<br>
+	Once we receive your information, we take appropriate steps that we believe are reasonable to protect the security of your data on our system, both internally and from outsiders, and to ensure the integrity of the data we collect. We use a combination of technological and policy methods to protect this data. <br>
+<br>
+	Your registered account is protected with a password. You must take care not to divulge your password to anyone. STLtoday.com will never ask you for your password in an unsolicited phone call or e-mail.  You are responsible for maintaining the secrecy of your passwords and any account information.<br>
+<br>
+<b>CHANGES IN THESE TERMS</b><br>
+<br>
+	We may change this Privacy Policy from time to time and will post notices on this site at the time of any material changes to this Privacy Policy. Your continued use of the STLtoday.com site following the posting of changes to these terms will mean you accept those changes. <br>
+<br>
+	If you have questions or concerns regarding STLtoday.com’s Privacy Policy, please e-mail STLtoday.com at sitehelp@STLtoday.com. <br>
 
-</font><p><font align="left" class="story"><b><font face="Arial">Privacy Policy</font></b><br>
+</div>
 <br>
-<font face="Arial">	STLtoday.com believes in keeping your confidential information just that...confidential. Subject to the terms below, we will not sell to or share with anyone your personally identifiable information. We will share with potential</font><font color="FF0000" face="Arial"> </font><font face="Arial">advertisers only aggregate visitor information. </font><br>
-<br>
-<b><font face="Arial">WHAT INFORMATION IS COLLECTED</font></b><br>
-<br>
-<font face="Arial">	We collect a limited amount of personal information from you in certain areas of STLtoday.com for various reasons.</font><font color="FF0000" face="Arial"> </font><font face="Arial">The following is a description of what information is collected.</font><font color="FF0000" face="Arial"> </font><br>
-<br>
-<b><font face="Arial">Registration Information </font></b><br>
-<br>
-<font face="Arial">	Registration is necessary to participate in the Forums and to enter contests and promotions.  When you register at STLtoday.com, we ask you for a few items of personal information. We require that you provide a user name, your first name, your last name, your zip code, your e-mail address, your birth date, and your gender. </font><font face="Arial">You are also given the option to provide information on your interests.  All of this optional information is used to deliver a more personal and pertinent experience for users of STLtoday.com.</font><br>
-<br>
-<font face="Arial">	Other features of the site, such as TV listings are third party services and require a separate registration. You should review the applicable privacy policies of these affiliated third party sites before providing personally identifiable information. STLtoday.com is not responsible for any actions or policies of such third parties.</font><br>
-<font face="Arial"> </font><br>
-<b><font face="Arial">IP Addresses</font></b><br>
-<br>
-<font face="Arial">	An IP address is a number assigned to your computer when you connect to the Internet. As part of the protocol of the Internet, web servers can identify your computer by its IP address. In addition, web servers may be able to identify the type of browser you are using or even the type of computer. </font><br>
-<br>
-<font face="Arial">	STLtoday.com</font><font color="FF0000" face="Arial"> </font><font face="Arial">collects IP addresses and related information for the purposes of system administration, to assess the traffic to our site, to report aggregate information to our advertisers, and to maintain and improve our site.  We do not link IP addresses to your personally identifiable information.  We can and will use IP addresses, however, to identify a user when we feel it is necessary to enforce compliance with our terms of service or to protect our service, site, customers or others.</font><br>
-<br>
-<b><font face="Arial">Use Of Cookies</font></b><br>
-<br>
-<font face="Arial">	Cookies are small bits of information that some Web sites (including STLtoday.com) transfer to an individual's hard drive for research purposes.  STLtoday.com uses cookies to analyze the traffic, such as total visitors and pages viewed on our site, and make improvements based on the data we collect. STLtoday.com never saves passwords or credit card information in cookies. The use of cookies has become a standard in the industry, especially at Web sites that provide any kind of personalized service.</font><br>
-<br>
-<font face="Arial">	Most browsers are initially set up to accept cookies. You can usually set your browser to refuse cookies or indicate when a cookie is being sent. If you refuse cookies, you may not be able to use some of the functionality of STLtoday.com.  Cookies may also be used by STLtoday.com's advertisers and partners from third party sites to which STLtoday.com links. We do not control these cookies. The use of cookies by advertisers is standard in the Internet industry.</font><br>
-<br>
-<b><font face="Arial">WHO IS COLLECTING THIS INFORMATION</font></b><br>
-<br>
-<font face="Arial">	STLtoday.com collects this information via our web site. In the case of co-branded sites, various third parties may collect such information. You should review the applicable privacy policies of these third parties before providing personally identifiable information. STLtoday.com is not responsible for any actions or policies of such third parties. </font><br>
-<br>
-<font face="Arial">While you are using STLtoday.com, you may be linked or directed to other third party sites outside STLtoday.com that are beyond STLtoday.com's control. For example, you might click on a link or banner ad that will take you off STLtoday.com's site. Each of these third parties may have a privacy policy different from that of STLtoday.com. These other sites may send their own cookies to users, collect data or solicit personal information. You should review the applicable privacy policies of these third party sites before providing personally identifiable information. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. Please review the privacy policies of these sites. STLtoday.com is not responsible for any actions or policies of such third parties.</font><font color="FF0000" face="Arial"> </font><br>
-<br>
-<br>
-<b><font face="Arial">HOW COLLECTED INFORMATION IS USED</font></b><br>
-<br>
-<font face="Arial">	STLtoday.com uses registration information to learn more about how visitors use the site and to measure areas of interest. This allows STLtoday.com to build features and functionality that will enhance your STLtoday.com experience. We also use the registration process to filter out those who post to STLtoday.com's Forums but do not comply with our User Agreement. Information collected for classified ad placement and auctions is used for business purposes to assist in the placement of ads and to ensure the integrity of the auction process. If you so choose when you register, registration information might also be used to send you e-mails about new features and services on STLtoday.com, or to send you e-mails from selected third party product or service providers. We might also use this information to respond to e-mails, provide customer support, enforce our User Agreement or other similar matters. </font><br>
-<br>
-<font face="Arial">	Aggregate information is also used to help us run and maintain our site, study traffic patterns and generally learn about the usage of our site. Some of this aggregate information may be used to help us set advertising rates, determine advertising fees, and attract advertisers and co-branding partners.</font><br>
-<br>
-<b><font face="Arial">WITH WHOM THE INFORMATION MAY BE SHARED</font></b><br>
-<br>
-<font face="Arial">	Except for the following exceptions, we will not knowingly authorize the disclosure of your personal identifiable information (other than aggregate statistical information) to third parties without your consent. First, we may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may have breached our User Agreement or who may be causing injury to or interference with (either intentionally or unintentionally) STLtoday.com's rights or property, other STLtoday.com users, or anyone else who could be harmed by such activities.  Second, we may disclose user information when we believe in good faith that the law requires it.</font><br>
-<br>
-<font face="Arial">	It is important to know that you may inadvertently provide personally identifiable information to third parties through your postings to a forum or participation in a chat session. For example, while we do not make your real name available in forums, your user name is visible and may reveal information about yourself. We encourage you to give some thought to the privacy implications of your choice of a user name. </font><br>
-<br>
-<b><font face="Arial">CHOICES YOU CAN MAKE ABOUT COLLECTION, USE AND DISTRIBUTION OF INFORMATION</font></b><br>
-<br>
-<font face="Arial">	At the time of registration, you are given a choice whether you want to receive information from STLtoday.com or from third parties. Your first choice is whether you want to receive e-mails about new features, events and special coverage on the site. Your second choice is whether you want to receive e-mails about special offers from STLtoday.com advertisers. </font><font face="Arial">When you register, you must click in a box if you want to receive either type of e-mail. Unless you affirmatively choose to receive these e-mails, you will not receive information of this kind.</font><br>
-<br>
-<font face="Arial">	Forum Postings: Because you can place as much or as little personal information as you want in a forum posting, we want to remind you that STLtoday.com users may read postings in forums and we have no way to limit their use of personally identifiable information you may provide. Please keep in mind that whenever you give out personal information online (for example, in forums, message boards or chat sessions) that information can be collected and used by people you don't know. While we strive to protect our user's personal information and privacy, we cannot guarantee the security of any information you voluntarily disclose online and you do so at your own risk.</font><br>
-<br>
-<font face="Arial">	If you want to change, correct or update your registration information and preferences to which you have previously opted-in, please </font><font face="Arial">login on any forum page and select "Profile" from the list on the right-hand side of the page.  Make the desired revisions in your profile and save.  To eliminate your registration from the STLtoday.com database e-mail your request to </font><a href="mailto:%73%69%74%65%68%65%6C%70%40%53%54%4C%74%6F%64%61%79%2E%63%6F%6D" class="storyTitle">sitehelp@STLtoday.com</a><font face="Arial">. This provision applies only to registration information collected via our web site.</font><br>
-<br>
-<b><font face="Arial">CHILDREN UNDER THE AGE OF 13 YEARS</font></b><br>
-<br>
-<font face="Arial">	In accordance with the Children's Online Privacy Protection Act (COPPA), STLtoday.com will not accept personally identifiable information from a child under the age of 13 without a parent's or guardian's prior consent.  STLtoday.com will also allow the parent or guardian of a registered user under the age of 13 to review, update, change, delete or refuse to permit further collection of any and all information collected by STLtoday.com.  A child's personally identifiable information will be treated with the same care and respect as an adult's information.  To change, update, review, delete or refuse to permit further collection of your child's information, please send an e-mail to </font><a href="mailto:%73%69%74%65%68%65%6C%70%40%53%54%4C%74%6F%64%61%79%2E%63%6F%6D" class="storyTitle">sitehelp@STLtoday.com</a><font face="Arial">, call STLtoday.com's Customer Support at </font><font face="Arial">(314) 657-3300</font><font face="Arial">, or send a letter via postal mail to:</font><br>
-<br>
-<font face="Arial">STLtoday.com</font><br>
-<font face="Arial">c/o Customer Support</font><br>
-<font face="Arial">900 N. Tucker Blvd.</font><br>
-<font face="Arial">St. Louis, MO 63101</font><br>
-<br>
-<font face="Arial">To register a child under the age of 13, please fill out the following form, fax the form to STLtoday.com at </font><font face="Arial">(314) 657-3301</font><font face="Arial"> or mail it to:</font><br>
-<br>
-<font face="Arial">STLtoday.com</font><br>
-<font face="Arial">c/o Customer Support </font><br>
-<font face="Arial">900 N. Tucker Blvd.</font><br>
-<font face="Arial">St. Louis, MO 63101</font><br>
-<br>
-<br>
-<br>
-<b><font face="Arial">LINKS TO OTHER SITES</font></b><br>
-<br>
-<font face="Arial">	While you are using STLtoday.com, you may be linked or directed to other third party sites outside STLtoday.com that are beyond our control. Each of these third parties may have a privacy policy different from that of STLtoday.com. For example, you might click on a link or banner ad that will take you off our site. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. Please review the privacy policies of these sites. STLtoday.com is not responsible for any actions or policies of such third parties.</font><font color="FF0000" face="Arial">  </font><font face="Arial">These other sites may send their own cookies to users, collect data or solicit personal information. You should review the applicable private policies of these third party sites before providing personally identifiable information. STLtoday.com is not responsible for any actions or policies of such third parties.</font><br>
-<br>
-<b><font face="Arial">HOW YOU MAY CHANGE OR CORRECT YOUR INFORMATION </font></b><br>
-<br>
-<font face="Arial">	</font><font face="Arial">f you want to change, correct or update your registration information and preferences to which you have previously opted-in, please login on any forum page and select "Profile" from the list on the right-hand side of the page.  Make the desired revisions in your profile and save.  To eliminate your registration from the STLtoday.com database e-mail your request to </font><a href="mailto:%73%69%74%65%68%65%6C%70%40%53%54%4C%74%6F%64%61%79%2E%63%6F%6D" class="storyTitle">sitehelp@STLtoday.com</a><font face="Arial">, call STLtoday.com's Customer Support at (314) 657-3300 or send your request to STLtoday.com, c/o Customer Support, 900 N. Tucker Blvd., St. Louis, MO 63101 and the necessary revision(s) will be made. This provision applies only to registration information collected via our web site.</font><br>
-<br>
-<b><font face="Arial">SECURITY PROCEDURES WE USE</font></b><br>
-<br>
-<font face="Arial">	We are very concerned with the security of your personally identifiable information and take great care in providing secure transmission of your information from your PC to our servers.  Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us. </font><br>
-<br>
-<font face="Arial">	Once we receive your information, we take appropriate steps that we believe are reasonable to protect the security of your data on our system, both internally and from outsiders, and to ensure the integrity of the data we collect. We use a combination of technological and policy methods to protect this data. </font><br>
-<br>
-<font face="Arial">	Your registered account is protected with a password. You must take care not to divulge your password to anyone. STLtoday.com will never ask you for your password in an unsolicited phone call or e-mail.  You are responsible for maintaining the secrecy of your passwords and any account information.</font><br>
-<br>
-<b><font face="Arial">CHANGES IN THESE TERMS</font></b><br>
-<br>
-<font face="Arial">	We may change this Privacy Policy from time to time and will post notices on this site at the time of any material changes to this Privacy Policy. Your continued use of the STLtoday.com site following the posting of changes to these terms will mean you accept those changes. </font><br>
-<br>
-<font face="Arial">	If you have questions or concerns regarding STLtoday.com's Privacy Policy, please e-mail STLtoday.com at </font><a href="mailto:%73%69%74%65%68%65%6C%70%40%53%54%4C%74%6F%64%61%79%2E%63%6F%6D" class="storyTitle">sitehelp@STLtoday.com</a><font face="Arial">. </font><br>
-
-</font>
-<br>
-
-</p></td></tr>
+</td></tr>
 <tr><td height="10">
 <img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="1" height="10" border="0" alt="spacer"></td></tr>
 <tr>
@@ -576,24 +628,22 @@ google_safe = 'high';
 <tr><td height="10">
 <img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="1" height="10" border="0" alt="spacer"></td></tr>
 <tr><td>
-
 <table align="left" cellpadding="0" cellspacing="0" border="0">
-
 <tbody><tr>
 <td align="left" colspan="2">
 <a href="#top" class="storyTitle">Top of page</a></td></tr>
 
 <tr>
 <td width="20" align="left">
-<a href="/stltoday/emaf.nsf/Emaf?OpenForm&amp;db=stltoday%5Chelp.nsf&amp;docid=9B993D078D89395786256A0A00734A27" target="emaf"><img src="http://images.stltoday.com/stltoday/images/emaf.gif" width="15" height="12" alt="E-mail this story" border="0"></a></td>
+<a href="javascript:openWindow('/stltoday/emaf.nsf/Emaf?OpenForm&amp;db=stltoday\\help\\stories.nsf&amp;docid=84236C32FB886B7486256EC4004C5F70','_popupwin','toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=350,height=475')"><img src="http://images.stltoday.com/stltoday/images/emaf.gif" width="15" height="12" alt="E-mail this story" border="0"></a></td>
 <td align="left">
-<a href="/stltoday/emaf.nsf/Emaf?OpenForm&amp;db=stltoday%5Chelp.nsf&amp;docid=9B993D078D89395786256A0A00734A27" class="storyTitle" target="emaf">E-mail this story to a friend</a></td></tr>
+<a href="javascript:openWindow('/stltoday/emaf.nsf/Emaf?OpenForm&amp;db=stltoday\\help\\stories.nsf&amp;docid=84236C32FB886B7486256EC4004C5F70','_popupwin','toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=350,height=475')" class="storyTitle">E-mail this story to a friend</a></td></tr>
 
 <tr>
 <td width="20" align="left">
-<a href="/stltoday/emaf.nsf/Popup?ReadForm&amp;db=stltoday%5Chelp.nsf&amp;docid=9B993D078D89395786256A0A00734A27" target="pf"><img src="http://images.stltoday.com/stltoday/images/printerfriendly.gif" width="16" height="14" alt="Printer friendly" border="0"></a></td>
+<a href="/stltoday/emaf.nsf/Popup?ReadForm&amp;db=stltoday%5Chelp%5Cstories.nsf&amp;docid=84236C32FB886B7486256EC4004C5F70" target="pf"><img src="http://images.stltoday.com/stltoday/images/printerfriendly.gif" width="16" height="14" alt="Printer friendly" border="0"></a></td>
 <td align="left">
-<a href="/stltoday/emaf.nsf/Popup?ReadForm&amp;db=stltoday%5Chelp.nsf&amp;docid=9B993D078D89395786256A0A00734A27" target="pf" class="storyTitle">Printer friendly</a></td></tr>
+<a href="/stltoday/emaf.nsf/Popup?ReadForm&amp;db=stltoday%5Chelp%5Cstories.nsf&amp;docid=84236C32FB886B7486256EC4004C5F70" target="pf" class="storyTitle">Printer friendly</a></td></tr>
 
 <tr>
 <td width="20" height="12" align="left">
@@ -628,80 +678,46 @@ google_safe = 'high';
 <td width="160" align="left" valign="top">
 <!-- Right Column -->
 
-
-
-
-
-
-
-
-
-
-
 <table width="160" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
 <td align="center" valign="top">
 <table border="0" cellpadding="0" cellspacing="0" width="160">
 <tbody><tr>
-<td width="150" align="middle" valign="top" bgcolor="#336699" style="padding-left:5px;padding-right:5px">
-<font class="leftNav">YESTERDAY'S MOST<br>E-MAILED STORIES</font></td></tr>
+<td width="5" align="left" valign="top" bgcolor="#336699">
+<img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="5" height="1" border="0" alt="spacer"></td>
+<td width="150" align="left" valign="top" bgcolor="#336699">
+<font class="leftNav">RELATED LINKS</font></td>
+<td width="5" align="left" valign="top" bgcolor="#336699">
+<img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="5" height="1" border="0" alt="spacer"></td></tr>
 <tr>
-<td style="padding-top:2px;padding-bottom:2px">
+<td colspan="3" height="5">
+<img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="1" height="5" border="0" alt="spacer"></td></tr>
+<tr>
+<td colspan="3">
 <table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td class="bulBullet">•</td>
-<td class="bulHeadline">
-<a href="/stltoday/news/stories.nsf/News/Editorial+%2F+Commentary/C4A735466713D60886256E9F0037C247?OpenDocument&amp;Headline=HEALTH%3A+Want+to+really+lose+weight%3F+Eat+like+a+preschooler&amp;tetl=1" class="related">HEALTH: Want to really lose weight? Eat like a preschooler</a></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td class="bulBullet">•</td>
-<td class="bulHeadline">
-<a href="/stltoday/business/stories.nsf/Business/652C5ED4D2008B9286256EA30037683E?OpenDocument&amp;Headline=321+Studios+spins+toward+zero&amp;tetl=1" class="related">321 Studios spins toward zero</a></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td class="bulBullet">•</td>
-<td class="bulHeadline">
-<a href="/stltoday/lifestyle/stories.nsf/Life+%26+Style/Health+%26+Fitness/50EA33BB3D1456C686256EA30049BC61?OpenDocument&amp;Headline=Noisy+music+classes+may+threaten+teachers'+hearing&amp;tetl=1" class="related">Noisy music classes may threaten teachers' hearing</a></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td class="bulBullet">•</td>
-<td class="bulHeadline">
-<a href="/stltoday/sports/stories.nsf/Sports/Rams/2963066E784B501786256EA6005A7A09?OpenDocument&amp;Headline=Rams+cut+Warner&amp;tetl=1" class="related">Rams cut Warner</a></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td class="bulBullet">•</td>
-<td class="bulHeadline">
-<a href="/stltoday/news/stories.nsf/News/St.+Louis+City+%2F+County/F331E69DD49003C286256EA600194299?OpenDocument&amp;Headline=Adoption+tax+credits+bill+will+please+many+but+won't+resolve&amp;tetl=1" class="related">Adoption tax credits bill will please many but won't resolve all concerns</a></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td class="bulBullet">•</td>
-<td class="bulHeadline">
-<a href="/stltoday/business/stories.nsf/Business/Workplace/01B6590E84D2E67B86256EA400377AAF?OpenDocument&amp;Headline=The+MBA+has+regained+a+little+of+its+magic&amp;tetl=1" class="related">The MBA has regained a little of its magic</a></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td class="bulBullet">•</td>
-<td class="bulHeadline">
-<a href="/stltoday/business/stories.nsf/Business/302C2B93A1F75E9A86256EA6001772F7?OpenDocument&amp;Headline=Two+restaurant+chains+square+off+in+flip,+er,+flap+over+%22Ste&amp;tetl=1" class="related">Two restaurant chains square off in flip, er, flap over "Steakburger"</a></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td class="bulBullet">•</td>
-<td class="bulHeadline">
-<a href="/stltoday/news/stories.nsf/News/St.+Louis+City+%2F+County/1B787436ABEB126886256EA6001944D1?OpenDocument&amp;Headline=Little+Bosnia%3A+Recognition+sought+in+Bevo+Mill&amp;tetl=1" class="related">Little Bosnia: Recognition sought in Bevo Mill</a></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td class="bulBullet">•</td>
-<td class="bulHeadline">
-<a href="/stltoday/news/stories.nsf/News/St.+Louis+City+%2F+County/2EF53CC49667BBB886256EA3006A8553?OpenDocument&amp;Headline=Asbestos+removal+for+airport+project+draws+fire&amp;tetl=1" class="related">Asbestos removal for airport project draws fire</a></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td class="bulBullet">•</td>
-<td class="bulHeadline">
-<a href="/stltoday/sports/columnists.nsf/Bryan+Burwell/75559F9048C7C21586256EA6001BED30?OpenDocument&amp;Headline=Second+chance+nears+for+Warner,+or+is+it+his+last%3F&amp;tetl=1" class="related">Second chance nears for Warner, or is it his last?</a></td></tr></tbody></table>
+<td align="left" valign="top">
+<font class="related">•</font></td>
+<td align="left" valign="top" width="5"><img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="5" height="1" border="0" alt="spacer"></td>
+<td align="left" valign="top">
+<a href="/help/user-agreement" class="related">User Agreement</a></td></tr></tbody></table>
 </td></tr></tbody></table>
 </td></tr>
 <tr>
 <td align="left" valign="top" height="5">
 <img src="http://images.stltoday.com/stltoday/images/spacer.gif" width="1" height="5" border="0" alt="spacer"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -729,9 +745,7 @@ google_safe = 'high';
 <table cellpadding="0" cellspacing="0" class="gutTable">
 <!-- RC Component 0 -->
 <tbody><tr><td class="gutContent">
-<table cellpadding="0" cellspacing="0" class="gutTable">
-<tbody><tr><td class="gutContent">
-<a href="http://adzone.stltoday.com/"><img src="http://images.stltoday.com/stltoday/images/toprt_adzone.gif" width="135" height="83" alt="ad zone" border="0"></a></td></tr></tbody></table></td></tr>
+</td></tr>
 <!-- End RC Component0 -->
 <tr><td class="gutSpacer">
 <div></div></td></tr>
@@ -803,14 +817,13 @@ google_safe = 'high';
 </tbody></table></td>
 </tr>
 <tr>
-<td width="100%" height="15" align="left">
+<td width="100%" align="left">
 <table width="100%" align="left" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="background-image:url(http://images.stltoday.com/stltoday/images/topnav/middle_ad_bkgrnd.gif)">
 <tbody><tr>
-<td width="14" height="15" align="left" style="background-image:url(http://images.stltoday.com/stltoday/images/topnav/left_ad_bkgrnd.gif)"><img src="http://images.stltoday.com/stltoday/images/topnav/left_ad_bkgrnd.gif" width="14" height="1" alt=""></td>
-<td width="150" height="15" align="left"></td>
-<td width="100%" height="15" align="center"><a href="http://www.stltoday.com/about" class="footer">[ABOUT US]</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.stltoday.com/advertise" class="footer">[ADVERTISE WITH US]</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.stltoday.com/contact" class="footer">[CONTACT US]</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.stltoday.com/help" class="footer">[HELP]</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.stltoday.com/privacypolicy" class="footer">[PRIVACY POLICY]</a></td>
-<td width="82" height="15" align="right"></td>
-<td width="14" height="15" align="left" style="background-image:url(http://images.stltoday.com/stltoday/images/topnav/right_ad_bkgrnd.gif)"><img src="http://images.stltoday.com/stltoday/images/topnav/right_ad_bkgrnd.gif" width="14" height="1" alt=""></td>
+<td width="14" align="left" style="background-image:url(http://images.stltoday.com/stltoday/images/topnav/left_ad_bkgrnd.gif)"><img src="http://images.stltoday.com/stltoday/images/topnav/left_ad_bkgrnd.gif" width="14" height="1" alt=""></td>
+<td width="150" align="left"></td>
+<td width="100%" align="center"><a href="http://www.stltoday.com/help/about-us" class="footer">ABOUT US</a><font class="storyTitle" style="padding-left:15px;padding-right:15px">|</font><a href="http://www.stltoday.com/help/advertise-with-us" class="footer">ADVERTISE</a><font class="storyTitle" style="padding-left:15px;padding-right:15px">|</font><a href="http://www.stltoday.com/help/contact-us" class="footer">CONTACT US</a><font class="storyTitle" style="padding-left:15px;padding-right:15px">|</font><a href="http://www.stltoday.com/help" class="footer">HELP</a><font class="storyTitle" style="padding-left:15px;padding-right:15px">|</font><a href="http://www.stltoday.com/help/privacy-policy" class="footer">PRIVACY POLICY</a><font class="storyTitle" style="padding-left:15px;padding-right:15px">|</font><a href="http://www.stltoday.com/help/copyright" class="footer">COPYRIGHT</a></td>
+<td width="14" align="left" style="background-image:url(http://images.stltoday.com/stltoday/images/topnav/right_ad_bkgrnd.gif)"><img src="http://images.stltoday.com/stltoday/images/topnav/right_ad_bkgrnd.gif" width="14" height="1" alt=""></td>
 </tr>
 </tbody></table></td>
 </tr>
@@ -831,5 +844,22 @@ google_safe = 'high';
 <!-- Admin HTML End -->
 
 <!-- End Admin HTML End -->
+
+<!-- THIS PART HIDDEN FROM WEB -->
+<div id="adzone" style="visibility:hidden;z-index:-1;position:absolute;top:200;left:200">
+<div style="float:left;clear:left;padding:4px;border-right:1px solid black;border-top:1px solid black;border-bottom:1px solid black;margin-top:14px;margin-right:4px;margin-bottom:4px;width:120px;left:200px;top:200px;">
+<div style="width:120px;height:22"><img src="http://images.stltoday.com/stltoday/images/adzone_categories_02.gif" width="120" height="22"></div>
+<div style="width:118px;border-right:1px solid black;border-left:1px solid black">
+<script language="javascript">
+<!-- //
+adxpTowerRender(); 
+// -->
+</script>
+</div>
+<div style="width:120px;height:61px"><img src="http://images.stltoday.com/stltoday/images/adzone_categories_07.gif" width="120" height="61"></div>
+</div>
+</div>
+<!-- END THIS PART HIDDEN FROM WEB -->
+
 
 </body></html>
