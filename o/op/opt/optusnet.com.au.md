@@ -1,106 +1,104 @@
-> *The following text is extracted and transformed from the optusnet.com.au privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207170700id_/http%3A//www1.optusnet.com.au/footer/f_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optusnet.com.au privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330200436id_/http%3A//www.optusnet.excite.com.au/info/privacy_policy) for the most accurate reproduction.*
 
-# OptusNet
+# Optus Excite Channels - Excite Australia Privacy Policy
 
-## OptusNet Privacy Statement
+* **Our Commitments to your family**   
 
-OptusNet understands that your privacy is important to you. OptusNet wants to make your online experience as safe and as satisfying as possible. OptusNet complies with the requirements of the Telecommunications Act 1997, the Privacy Act 1988 and Industry Codes of Practice. Our Privacy Policy describes what information we collect, how we use that information and what if any disclosures of that information we make. The policy is organised into the following sections: 
+* **What personally identifiable information of yours is collected?**   
 
-1\. Why do I need to supply personal information?  
-2\. What other personal information is collected?  
-3\. Navigation information  
-4\. What happens with my personal information?  
-5\. Will my personal information be given to anyone else?  
-6\. Changes to your account information  
-7\. Are my personal details safe when being transmitted to you?  
-8\. Links to other sites  
-9\. Contacting Cable & Wireless Optus  
+* **How is the information used?**   
 
+* **Information Distribution**   
 
-By signing up as a customer with OptusNet you consent to the use and disclosure of your personal information as described in this privacy statement. 
+* **What choices are available to you regarding collection, use and distribution of the information?**   
 
-1\. Why do I Need to Supply Personal Information?
+* **What kind of security procedures are in place to protect the loss, misuse or alteration of information under the**      **company's control?**
 
-The types of personal information that we record from you will depend on how you use our site. To become an OptusNet customer we require you to provide us with your name, address and telephone details, email address if applicable, company name and billing address if applicable and your credit card details so that we can set up an account in your name. We also ask you questions about your user requirements. Once this account is set up you will be provided with a user name and password which will let you access your account. We require this information to process your accounts and to improve the services we provide to you. 
+**Our Commitments to You**
 
-2\. What Other Personal Information is Collected?
+Excite Australia (Excite) wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide to us and to control how we use whatever information you tell us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.
 
-During the registration process you may also choose to provide us with other voluntary information such as your details about yourself and your Internet usage so that we are able to better tailor our Internet services to your needs and to provide you with information you might be interested in. We may also conduct voluntary surveys from time to time which are aimed at ensuring that your service is personalised as far as possible. These surveys provide us with important information that allows us to improve the types and quality of the services that we offer and the manner in which we offer those services. We therefore encourage customers to participate in our voluntary surveys. You also have the opportunity to customise the service we offer you by providing information about your interests. 
+Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like. On other occasions when we provide items for purchase online, we may request your credit card number to conclude the transaction or your mailing address to ensure proper delivery. We request this information to provide our strongest value to you - a personalised online experience. Customer's who personalise our service come back more often - and it's the customers that visit us often who make us successful - so we do everything we can to make Excite your service with your name all over it and give you just the content you need.
 
-3\. Navigation Information
+Information collected online is often defined as being either anonymous or personally identifiable:
 
-Each time you visit our web site certain anonymous navigation information is collected by our servers. This information includes: 
+**Anonymous Information** : Refers to information that cannot be tied back to a specific individual. For instance, we may know that ten thousand people visit this Privacy Policy today, but we do not necessarily know their names, where they live or their date of birth - they are "anonymous" to us, much like how your local bus service knows how many people take a given route - but don't necessarily know who those people are. Many of the individuals who access our services use none of the personalisation features which are available to them and are therefore anonymous to us.
 
-  * the type of browser and operating system you are using;
-  * the address of the referring site (ie the previous site you had visited) and the website you leave our site to visit; 
-  * the date and time of your visit;
-  * your server's IP address (a number which is unique to the machine);
-  * the address of the pages you accessed.
+**Personally Identifiable Information** : Refers to information that lets us know the specifics of who you are such as your name, email address, or postal address. With this information, Excite can provide a variety of personalised and enhanced services that are not available to anonymous users. Examples would be the "My Excite Start Page," which uses your mailing address to customize TV schedules, weather reports and sports scores. We hope that, like many of our customers, you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you.
 
-This information tells us how our website is used and navigated, including the number of hits, the frequency of visits and the duration of visits to each web page on our site. It does not identify individual users. 
+The choice of how much of your personally identifiable information that you choose to disclose to Excite is left completely up to you. The only way we know something about you personally is if you register for a personalised service or enter one of our sweepstakes at one of our sites.
 
-In addition, our website uses cookies. A cookie is a piece of information that our website sends to your browser, which is stored on your hard disk. A cookie helps to identify your browser to us when you return to visit our site and helps identify the previous requests your browser has made. This allows us to help personalise the site to you on your return visits. Many websites incorporate cookies. Cookies themselves cannot identify you personally. You may opt out of the cookies, however doing so may prevent you from accessing some of the features of the site, such as customisation. 
+**Our Commitments to Your Family**
 
-OptusNet displays advertising and links on its websites. These advertisers may use cookies technology. OptusNet does not have access to or control the use of cookies by our advertisers or sites to which we may provide a link. 
+Like yourself, we at the Excite Network have children of our own and are concerned about their safety when they use the Internet. We want you and your family to be safe while visiting our Internet sites. That is why we have established the following guidelines for the way we interact with children when they access our services. 
 
-If you send us emails or other correspondence we may also retain these on your customer account file. We will not disclose your email address without your express consent. 
+If a customer registers with us and their birth date indicates that they are less than 18 years old, we will:
 
-4\. What happens with my Personal Information.
+  1. Never voluntarily share their customer information with any third-party, regardless of their stated preference given at registration
 
-The personal information that we collect from you when you register as an OptusNet customer is or may be used: 
-
-  * for billing purposes
-  * to ensure that you can access member's only areas
-  * to enforce our use policy contained in our terms and conditions (where necessary)
-  * to examine system accounting logs, user mailboxes and other company records to resolve e-mails and other system errors or problems
-  * to customise the information you receive from our site, if you have provided additional information in a voluntary survey
-  * to notify you about new services or promotions from time to time
-  * in order to provide you with your start up kit
-  * to provide you with adequate customer service
-  * These last two functions may be outsourced to external agencies who will only use your information for these purposes.
+  2. Never list them in any Member Directory in a manner in which their age can be easily identified
 
 
 
-We will notify you by email or by post about new OptusNet services and other special deals or services that may be of interest to you. If at any time you no longer wish to receive email of notices from us you can simply reply to the email with "unsubscribe" in the email subject line. Similarly if you no longer wish to receive postal communications from Optus then you can call Optus Customer Service on 1300 300 937. 
 
-5\. Will my personal information be given to anyone else?
+In summary, for those who register on our site who are under 18, we'll do everything we can to make sure that their information won't leave our company and someone using our site won't be easily able to look up their age. These protections are a start, but there are some actions that we cannot control and in these areas we need help from the child's parent or guardian as well. For instance, we can't stop a minor from giving their age in our unmoderated online chat sessions - but you can counsel them against taking actions like this. 
 
-OptusNet only discloses your personal information to third parties in accordance with the provisions set out in the [terms and conditions](https://web.archive.org/footer/f_terms.html) of the service. As described above we may disclose your information to a third party in order to enable certain functions to be performed such as to provide you with your start up kit or customer service. In some circumstances we may be required to provide personal information to government authorities such as law enforcement agencies or to other third parties where required or authorised by law, or in emergency situations. Your credit information is dealt with on the basis set out in our terms and conditions. 
+**What personally identifiable information of yours is collected?**
 
-Individual survey responses submitted to OptusNet will be combined with or aggregated with other customer responses to provide OptusNet with broader generic responses to the survey questions such as for example the demographic characteristics and peak usage times of customers. OptusNet can then use this aggregated information to develop new and/or more appropriate services and products to offer to customers. 
+So that we can provide personalisation and opportunities for prizes and services, we may at times ask you to submit information such as your name, email address, or to share with us your interests and hobbies. You never have to answer these questions and you can decline this exchange of information on any site at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of such information such as a personalised stock portfolio, a sweepstakes entry, or the purchase and shipment of products and prizes to people who visit our network.
 
-In addition anonymous navigation information may be used and disclosed for statistical analysis of the site for marketing and to tailor the content of our site to the needs of our customer. This is particularly so where we offer links to other sites to ensure that the links we are offering are the ones which most suit our customer's needs. 
+To enable many of the features available within the Excite, we will assign to your Internet browser (such as Netscape Navigator™ or Microsoft Internet Explorer™) a unique identification number stored in a file on your computer called a "cookie." Cookies by themselves cannot be used to find out the identity of any user. This unique identification number automatically identifies your browser - but not you - to our computers whenever you interact on one of our Internet domains. When you visit our site, a cookie in effect says to our server computers "Hello, I'm browser #782. What do you do just for me?" Only when you agree to provide information to our services directly, such as through registration, will we be able to know anything about you other than the random number that our server computers assign to your browser in the first place.
 
-6\. Changes to Your Account Information
+There is much confusion about cookies, how they are used, and what they can do. Cookies are very small text files written by an Internet server to a customer's browser when information is exchanged. Cookies only contain information that the server computer assigned or "knew" in the first place and can only be read by the serving domain that placed them. For instance, Yahoo!™ utilizes cookies but Excite's servers can't read their contents nor can Yahoo!'s servers read ours. Cookies are an essential part of how the Internet works today and allow server computers to recognize your computer's browser when you return. If you have ever gone to a web page that automatically provides personalised content to you without you having to "log in," such as your own stock portfolio, this is almost certainly being accomplished with a cookie. As cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information or transmit it to anyone. 
 
-Once you have registered as a OptusNet customer you may access your account details and correct your personal information by calling OptusNet Customer Support on 1300 301 325 or email them at optussupport@optusnet.com.au. 
+Cookies are implemented as part of the technology implemented by your web browser. For more information about cookies, please visit: <http://home.netscape.com/security/basics/privacy.html>.
 
-7\. Are my personal details safe when being transmitted to you?
+**How is the information used?**
 
-OptusNet strives to protect your personal information during its transmission. Customer account information and credit card details provided during the sign up server process are held in a secure server environment behind Optus firewalls. Access to this information is restricted to the holder of your OptusNet Username and Password. 
+Our network has been designed to enable personalised services for those people who choose to use them. Many of those services that are provided for free through the Excite Network are the result of advertising revenues. Our ability to provide enhanced services and content is dependent on our ability to provide targeted advertising for our partners and clients. Below is a description of how our visitors and advertisers benefit from our use of subscriber information: 
 
-Our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your personal information, including your credit card number, your name and address, so that it cannot be read as the information travels over the Internet. However, while Optus maintains high standards in protecting your security, no transmision over the Internet can be guaranteed to be absolutely secure. 
+  1. We provide personalised content in the form of news, horoscopes, advertisements, weather reports, stock portfolios, movies, and television listings to our members.
 
-You should also remember to always keep your Username and Password secret to further ensure that your OptusNet experience is a secure one. 
+  2. We monitor the actions of the users of our site to determine what our customers want and do not want. 
 
-We take reasonable steps to ensure the security of the personal information we hold from such risks as loss or unauthorised access, destruction, use, modification or disclosure of data. We also will take reasonable steps within the limitations of our technical and accounting system to destroy personal information if it is no longer needed for any purpose. We are however required to retain personal information in order to fulfil legal and accounting responsibilities and in order to resolve any disputes that may arise. 
+  3. We provide advertisements that support our customers' specific requests for information through key-word searches and editorial content. Do a search on "cars," for instance, and you'll usually see a banner advertisement from an automobile company.
 
-8\. Links to other sites
+  4. We develop summary - but not individual - reports for our advertisers. An example of a summary report might be "12,000 people clicked on Advertisement 'X' today and of those people, 35% had previously indicated they had an interest in sports." The people that make it possible for you to use Excite for free - our advertisers - need this information to determine how effective their advertising investments are. We never tell our advertisers who it was that saw or clicked on their advertisements unless you have specifically told us this is acceptable. 
 
-OptusNet provides links on its website to other sites. These sites may have different privacy policies than those of OptusNet and you are advised to check the privacy policies on those sites. 
-
-9\. Contacting Cable & Wireless Optus
-
-Cable & Wireless Optus is concerned to ensure that your Internet experience is a safe and enjoyable one. If you have any questions or comments about our privacy policy you can contact us at:
-
-Customer Service Manager  
-OptusNet  
-101 Miller St  
-North Sydney NSW 2060  
-
-
-  * Changes to this Privacy Policy.
+  5. It is our policy to never send e-mail messages to members who have asked us not to do so, either at initial registration or later through an unsubscribe process. In every email from any company or Web Site of the Excite, we will remind you of your option to change your preferences regarding receipt of email communications. Additional information is provided in the What choices are available to you regarding collection, use and distribution of the information section below.
 
 
 
-Our privacy policy may change from time to time particularly as new industry codes are introduced. Any changes to OptusNet's privacy policy will be highlighted in this area. 
+
+**Information Distribution**
+
+If you are providing personally identifiable information within a registration page, it will only be used within the Excite Internet domains unless you choose to allow third party data sharing. Anytime we collect personalised information, we present our members with a series of choices as to how we can use this information. Should you choose to provide your information to third parties, Excite will share aspects of your information with our valued partners. These partners help contribute towards many of the free services available on the Excite Network.
+
+Although unlikely, Excite may be required by law enforcement or judicial authorities to provide personally identifiable information to the appropriate governmental authorities. If requested, we will provide this information upon receipt of the appropriate documentation. 
+
+Other companies which place advertising on our site may collect information about you when you view or click on their advertising or content through the use of cookies (using the same techniques as described above [#personalinfo]). Due to the way the Internet technically operates, we cannot control this collection of information. You should contact these advertisers or content providers directly if you have any questions about their use of the information they collect. 
+
+Information that you provide while using products such as Message Boards and Excite Chat is available for all to see - discretion should be used in entering personally identifiable information within such forums as it may be collected by third-parties leading - this is a leading source of unwanted email, for instance. The Excite does not associate with customer records any information entered by its customers in our Excite Mail, Message Boards, or Excite Chat products.
+
+And finally, the Excite does not control the information collection and distribution policies on Internet domains other than those Internet domains that are part of the Excite itself. We do, however, encourage our co-branding partners to adopt privacy policies similar to this one.
+
+**What choices are available to you regarding collection, use and distribution of the information?**
+
+The Excite does offer you the ability to control our email contacts to you. It is our intention to give you as much control over the relationship as possible. At each registration page we ask you for the following information: 
+
+  1. You can tell us if you want to be listed in our Member Directory. If you indicate that this is acceptable, the following information from your registration form is added to the Member Directory: Your user name, email address, city, state and gender. For your safety, your actual name and street address is never included as part of a Member Directory listing.
+
+  2. You can tell us if you want to receive communication from the Excite - these include email newsletters announcing new features, explaining valuable new content, or announcing fun contests.
+
+  3. You can tell us if you want to receive communication from third-party companies who offer a product or service that we think would be of value to you. 
+
+
+
+
+At times, the Excite may enter into cobranding arrangements with other companies and if so, an opt-in question may be present for contact from these firms as well. Their opt-out features are specific to each organization but you should never receive email from these organizations unless you have indicated that it is acceptable. All email from the Excite Network or from cobrand partners who gain permission from you to send commercial email to you will include an opportunity to opt-out of future communications.
+
+The Excite does reserve the right to send infrequent service alert messages to its customers to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status. An example would be notification of the impending closing of an account that is believed to be abandoned. This right does not allow us to contact you to suggest you try a new service if you have asked us not to do so and issuance of a service alert is extremely rare. 
+
+**What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control?**
+
+The Excite Network operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. Any particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is encrypted prior to transmission. 
