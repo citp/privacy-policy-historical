@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmssociety.org privacy policy that was archived on 2002-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020613003228id_/http%3A//www.nationalmssociety.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmssociety.org privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201174920id_/http%3A//www.nationalmssociety.org/privacy.asp) for the most accurate reproduction.*
 
 # National Multiple Sclerosis Society - Privacy
 
@@ -46,12 +46,6 @@ If you do not want us to share your postal address with other organizations, ple
 
 | 
 
-We subscribe to the HONcode principles of the Health On the Net Foundation (website: <http://www.hon.ch/>).  
-  
----|---  
-  
-| 
-
 The National Multiple Sclerosis Society is in compliance with the Privacy Policy to American Consumers of The Direct Marketing Association (DMA; website:  
 <http://www.the-dma.org/dmalogotext.html>).  
   
@@ -61,4 +55,4 @@ The National Multiple Sclerosis Society is in compliance with the Privacy Policy
 
 All information on this site is the property of the National MS Society. Copyright © 1995-2002, the National Multiple Sclerosis Society. All rights reserved.
 
-Current as of June 2002
+Current as of October 2002
