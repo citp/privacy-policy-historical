@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2001-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010125063600id_/http%3A//insurancejournal.com/html/ijweb/main/privacy-po.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216204352id_/http%3A//www.insurancejournal.com/html/ijweb/main/privacy-po.htm) for the most accurate reproduction.*
 
-# InsuranceJournal.com - Privacy Policy
+# InsuranceJournal.com
 
 **InsuranceJournal.com Privacy Policy Statement**
 
