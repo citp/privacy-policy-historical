@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1vbcode.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409154907id_/http%3A//a1vbcode.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1vbcode.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801160812id_/http%3A//www.a1vbcode.com/privacy.asp) for the most accurate reproduction.*
 
 # A1VBCode - The VB Source Code Site
 
