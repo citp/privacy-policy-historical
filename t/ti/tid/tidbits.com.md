@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405211204id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205074107id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
 
 # TidBITS Privacy Statement
 
@@ -20,7 +20,7 @@ If you asked us to remind you to renew in a year, we will send you an email remi
 
 Contribution processing is handled for TidBITS by Kagi. To process your payment, Kagi collects information including your name, postal address, email address, and credit card number. Use of that information is governed by their [privacy policy](http://www.kagi.com/privacy.html). Kagi offers both [secure](https://order.kagi.com/?2WL) and [insecure](http://order.kagi.com/?2WL) Web payment forms, and you can also download a [Kagi Register application](http://www.tidbits.com/about/support/tidbits-register.hqx) that enables you to send in a payment via fax or postal mail if you're uncomfortable giving your credit card number via the Web.
 
-**Purchases of TidBITS Tchotchkes** \-- Orders for TidBITS merchandise are handled for us by CafePress.com. To process your order, CafePress.com collects information including your name, postal address, and credit card number. Use of that information is governed by their privacy statement, linked at the bottom of their [home page](http://www.cafepress.com/).
+**Purchases of TidBITS Tchotchkes** \-- Orders for TidBITS merchandise are handled for us by CafePress.com. To process your order, CafePress.com collects information including your name, postal address, and credit card number. Use of that information is governed by their [privacy statement](http://www.cafepress.com/cp/info/help/privacy.aspx).
 
 We can query CafePress.com's Web site and see information about orders, including your name, the date you placed the order, and the specific products you ordered. We hold this information in the strictest confidence. The information can be accessed by only a few members of the TidBITS staff, although we have no control over the security precautions on the CafePress.com site. 
 
@@ -50,6 +50,6 @@ Some TidBITS translations are available via both email and the Web. In the cases
 
 Special thanks to [digital.forest](http://www.forest.net/), our Web and mailing list host.
 
-Copyright 2000 TidBITS.   
+Copyright 2001 TidBITS.   
 Send comments to [our webmaster](http://www.tidbits.com/about/webmaster.html).   
-Last updated on Friday, November 17, 2000
+Last updated on Tuesday, June 12, 2001
