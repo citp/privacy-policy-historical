@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010084448id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403122821id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CFNC - Privacy of Information
 
