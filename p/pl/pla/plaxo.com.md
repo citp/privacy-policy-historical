@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plaxo.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603202701id_/http%3A//plaxo.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaxo.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217155633id_/http%3A//plaxo.com/support/privacy) for the most accurate reproduction.*
 
 # Plaxo Privacy Policy
 
 **This document sets forth the privacy policy (the "Privacy Policy") of Plaxo, Inc. ("Plaxo") for the Plaxo Contact Networks™ (together with other services provided by Plaxo, the "Services"), Plaxo Contacts™ (the "Software") and the Web site, www.plaxo.com (the "Site"). The Privacy Policy forms part of the[Terms of Service](https://web.archive.org/support/tos).**
 
-**Please be aware that Plaxo's Services, Software and Site are not intended for and may not be used by children under the age of 13. If you have objections to the Privacy Policy, you should not access or use the Site nor should you sign up for the Services offered by Plaxo.**
+**Please be aware that Plaxo's Services, Software and Site are not intended for and may not be used by children under the age of 13, nor may they be used to solicit or collect any information from children under the age of 13. If you have objections to the Privacy Policy, you should not access or use the Site nor should you sign up for the Services offered by Plaxo.**
 
 **Any capitalized terms used and not defined in the Privacy Policy are defined in the Terms of Service.**
 
@@ -12,7 +12,7 @@
 
 [](https://www.truste.org/ivalidate.php?url=www.plaxo.com) **TRUSTe License:** Plaxo, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.plaxo.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If users have questions or concerns regarding this statement, they should first contact the Plaxo Privacy Advocate by privacy@plaxo.com. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If users have questions or concerns regarding this statement, they should first contact the Plaxo Privacy Advocate by [privacy-issues@plaxo.com](mailto:privacy-issues@plaxo.com). If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
@@ -103,6 +103,14 @@ The Site contains, and the Software may present, links to other sites. Please be
 
 When you submit Your Information via the Software or the Site, Your Information is protected in several ways. The Services use Secure Socket Layer ("SSL") for all client-server communication using Your Information. Your Web-based access to Your Information is protected by an encrypted password. We recommend that you do not disclose the password to anyone. Additionally, Your Information resides on a firewall-protected server that only selected Plaxo personnel have access to via password. Plaxo strives to prevent unauthorized parties from viewing Your Information.
 
+## • Children's Privacy.
+
+Plaxo is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. Plaxo's Services, Software and Site are not intended for and may not be used by children under the age of 13. Plaxo does not knowingly collect information from children under the age of 13 and Plaxo does not target its Services, Software and Site to children under 13.
+
+## • Personal Information of Others.
+
+Your Information may include contact and other personal information in Your Contact List for individuals who have not joined Plaxo Contact Networks™ or who are otherwise not Plaxo users. Plaxo is committed to protecting the privacy rights of these individuals. We will not sell, exchange or give information in Your Contact List regarding such individuals to any third-parties. We may receive requests from such individuals to remove their personal information from Your Contact List. In such event, we may encourage them to contact you directly or we may relay such request to you on behalf of such individuals. We will not alter or remove any information regarding such individuals from Your Contact List without your consent.
+
 ## • Correcting/Updating/Deleting Information.
 
 You have the right to access and correct, update, and/or delete Your Information at any time. You can do so by using the Software on your desktop or by signing into your account on the Site.
@@ -122,7 +130,7 @@ In addition, if we make any material changes to our privacy practices that do no
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
 Plaxo Privacy Advocate   
-[privacy@plaxo.com](mailto:privacy@plaxo.com)
+[privacy-issues@plaxo.com](mailto:privacy-issues@plaxo.com)
 
 1975 Landings Drive  
 Mountain View, CA  
