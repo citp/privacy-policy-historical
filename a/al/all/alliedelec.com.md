@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliedelec.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603204153id_/http%3A//www.alliedelec.com/confidentiality.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedelec.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020134632id_/http%3A//alliedelec.com/confidentiality.asp) for the most accurate reproduction.*
 
 # Allied Electronics - On Line Privacy Practices
 
