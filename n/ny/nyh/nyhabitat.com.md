@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101044950id_/http%3A//nyhabitat.com/us/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608204301id_/http%3A//nyhabitat.com/us/privacy/privacy.htm) for the most accurate reproduction.*
 
 # New York Habitat - Privacy statement
 
@@ -75,4 +75,4 @@ Should you have other questions or concerns about these privacy policies, please
   
 * * *  
   
-[info@nyhabitat.com](mailto:info@nyhabitat.com) | [Feedback](http://www.nyhabitat.com/feedback.php3) | [webmaster@nyhabitat.com](mailto:webmaster@nyhabitat.com) | Phone: **(212) 255-8018** Fax: (212) 627-1416  Copyright ©2001 New York Habitat, 307 Seventh Avenue, Suite 306, New York, NY 10001. USA.
+[info@nyhabitat.com](mailto:info@nyhabitat.com) | [Feedback](http://www.nyhabitat.com/feedback.php3) | [webmaster@nyhabitat.com](mailto:webmaster@nyhabitat.com) | Phone: **(212) 255-8018** Fax: (212) 627-1416  Copyright ©2002 New York Habitat, 307 Seventh Avenue, Suite 306, New York, NY 10001. USA.
