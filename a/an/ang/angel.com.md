@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605192523id_/http%3A//www.angel.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204165412id_/http%3A//www.angel.com/privacy.jsp) for the most accurate reproduction.*
 
 # Angel.com - Privacy Policy
 
