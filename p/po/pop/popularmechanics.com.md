@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popularmechanics.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619203747id_/http%3A//popularmechanics.com/PRIVACY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularmechanics.com privacy policy that was archived on 2000-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001002192127id_/http%3A//popularmechanics.com/PRIVACY.html) for the most accurate reproduction.*
 
 # POPULAR MECHANICS Privacy Policy Statement
 
@@ -11,7 +11,7 @@ New York City, NY USA 10019**
 We can be reached via e-mail at [pmwebmaster@hearst.com](mailto:pmwebmaster@hearst.com?subject=privacy%20concerns)  
 Or you can reach us by telephone at 212 649 2000
 
-#### Editoral Privacy Policy
+#### Editorial Privacy Policy
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
