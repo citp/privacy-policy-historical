@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208180444id_/http%3A//www.pitch.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618060050id_/http%3A//pitch.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# The Pitch | pitch.com | About
+# The Pitch | pitch.com | About The Alternative Kansas City connection for events, event listings, music reviews, CD reviews, and all of the latest alternative news from the Kansas City area.
 
 ****
 
