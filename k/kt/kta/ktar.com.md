@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205031634id_/http%3A//www.ktar.com/global/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606040124id_/http%3A//ktar.com/global/privacy_policy.aspx) for the most accurate reproduction.*
 
 # :: 620ktar.com ::
 
