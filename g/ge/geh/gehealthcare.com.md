@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gehealthcare.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610034419id_/http%3A//www.gehealthcare.com/util/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gehealthcare.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017094426id_/http%3A//www.gecapitalhealthcare.com/util/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# GE Capital Healthcare Financial Services -- Equity Investment
 
 At GE Healthcare, protecting your privacy is very important to us. Our goal is to treat the personal information you give us with the utmost respect, and in accordance with this Privacy Policy. This Privacy Policy is currently applicable only to our United States customers and visitors when they interact with our Web site.
 
@@ -19,7 +19,9 @@ There are times when we may ask you for information about yourself to assist us 
   * Improving our services 
   * Developing and/or informing you of additional products or services that may be of interest 
 
-In these cases, your browsing will no longer be anonymous to us. To provide these services, we may need to ask you directly to provide, among other things, your name, physical address, zip code, e-mail address, and phone number. Also, you may elect to solicit information about one of our products or services, which may require us to gather additional information to determine your eligibility. 
+
+
+In these cases, your browsing will no longer be anonymous to us. To provide these services, we may need to ask you directly to provide, among other things, your name, physical address, zip code, e-mail address, and phone number. Also, you may elect to solicit information about one of our products or services, which may require us to gather additional information to determine your eligibility.
 
 Please note that we do not knowingly solicit information from children and we do not knowingly market our products or services to children.
 
