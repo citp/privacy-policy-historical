@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408165014id_/http%3A//www.flashcardexchange.com/info_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216014653id_/http%3A//www.flashcardexchange.com/info_privacy.jsp) for the most accurate reproduction.*
 
 # Flashcards - The Flashcard Exchange: Privacy Policy
 
 |  |  |  |  |   
-| [](https://web.archive.org/web/20020408165014id_/http%3A//www.flashcardexchange.com/index.jsp) |  |  |  |   
-|  |  [](http://ads.track-star.com/adspace.ts?ts=1;2;302;1_1&SourceId=CBBTSBID&rand=5625386372171961) |  |   
+| [](https://web.archive.org/web/20021216014653id_/http%3A//www.flashcardexchange.com/index.jsp) |  |  |  |   
+|  |  |  |   
 |  | **Printable Flashcards** |  |   
 |  |  |  |  |   
 |  |  |  |   
