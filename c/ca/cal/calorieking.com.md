@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calorieking.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607061306id_/http%3A//www.calorieking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calorieking.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610024935id_/http%3A//www.calorieking.com/privacy) for the most accurate reproduction.*
 
 # CalorieKing.com - Privacy
 
@@ -89,3 +89,5 @@ CalorieKing.com reserves the right to add to, remove and alter any of the featur
 Some sites on the Network may be operated in conjunction with other individuals or entities. They may have special Terms and Conditions and Privacy Policies which differ from those of CalorieKing.com. Where they differ the more specific terms will apply.
 
 You should familiarize yourself with the relevant Web site's Terms and Conditions and Privacy Policy before using their site or disclosing any of your personal information to them.
+
+[Back to home page](https://web.archive.org/)
