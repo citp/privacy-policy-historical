@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604144614id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208000828id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
 
 # GLOBAL SURVEY GROUP: Make Your Opinions Count and Be Rewarded For It! ()()
+
+Effective Date January 1, 2004 
 
 This statement discloses the privacy practices for the GlobalSurveyGroup.com website. By visiting GlobalSurveyGroup.com, you are accepting the practices described herein. Because Global Survey Group wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and notify you of the following: 
 
