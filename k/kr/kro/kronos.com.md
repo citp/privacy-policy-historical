@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kronos.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408054555id_/http%3A//www.kronos.com/footer_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kronos.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204164158id_/http%3A//kronos.com/footer_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement > Kronos
 
@@ -24,4 +24,4 @@ If you have submitted personal information to Kronos Incorporated electronically
 **Right to Modify**  
 Kronos Incorporated reserves the right to modify this privacy policy at any time. Kronos Incorporated will promptly reflect any such modifications in these Web pages.
 
-If you have any questions or concerns regarding this statement, you should e-mail [Deby Baker](mailto:dbaker@kronos.com) in the marketing department at Kronos.
+If you have any questions or concerns regarding this statement, you should e-mail [Deby Baker](mailto:dbaker@kronos.com) in the marketing department at Kronos. 
