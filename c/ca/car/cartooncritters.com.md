@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cartooncritters.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214111525id_/http%3A//cartooncritters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartooncritters.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034944id_/http%3A//cartooncritters.com/privacy.htm) for the most accurate reproduction.*
 
 # Cartoon Critters - coloring pages,learn to draw,online games
 
 This is the web site of **Cartoon Critters**. 
 
-We can be reached via e-mail at [crittermail@cartooncritters.com](mailto:href=%22mailto:crittermail@cartooncritters.com%22)  
+We can be reached via e-mail at [webmaster@cartooncritters.com](mailto:href=%22mailto:crittermail@cartooncritters.com%22)  
 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's IP address, but not the e-mail address.
@@ -21,8 +21,14 @@ If you supply us with your postal address on-line you will only receive the info
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding for which you provided us your telephone numbers.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of:  
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
+
+Ads on this site are served by Advertising.com [ click here to see their privacy policy](http://www.advertising.com/privacy/privacy.html).
+
+Affiliates of cartooncritters.com:  
 [ www.amazon.com](http://www.amazon.com/)                                                                                        [www.prizegames.com](http://www.prizegames.com/)                                                                                                                                    [www.clever Island.com](http://www.cleverisland.com/)
+
+visit their site  to consult their privacy policies. 
 
 We do not collect customer information.  If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically.
 
