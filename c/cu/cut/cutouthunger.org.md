@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cutouthunger.org privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010094022id_/http%3A//www.cutouthunger.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutouthunger.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404141505id_/http%3A//www.cutouthunger.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # Cut your grocery bill in half and feed the hungry with cutouthunger.org. Money saving coupons from Smartsource, Coolsavings, and money saving offers from local grocery stores, Upromise and Babymint.
 
-**[](https://web.archive.org/web/20041010094022id_/http%3A//www.cutouthunger.org/index.html)  
+**[](https://web.archive.org/web/20050404141505id_/http%3A//www.cutouthunger.org/index.html)  
 ** Cut Out Hunger, Inc. Privacy Policy 
 
 **Our Commitment to Privacy**  
