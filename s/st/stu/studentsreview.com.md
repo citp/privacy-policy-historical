@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601192342id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209130909id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
 
-# College Reviews : StudentsReview : Over 8800 Student Reviews!!!
+# College Reviews : StudentsReview : Over 13100 Student Reviews!!!
 
-  |   |  |  [](http://www.studentsreview.com/)  
+|  \- Resources -   
 ---  
-\- Resources -   
 [ ](http://www.studentsreview.com/surveys.shtml)
-* [**Critique  your College** ](http://www.studentsreview.com/surveys.shtml)  
-[ ](http://www.studentsreview.com/rank_em.php3)
-* [SR Rankings](http://www.studentsreview.com/rank_em.php3)  
+* [**Submit a Review** ](http://www.studentsreview.com/surveys.shtml)  
+[ ](http://www.studentsreview.com/college_rankings.html)
+* [The SR College Rankings](http://www.studentsreview.com/college_rankings.html)  
 [ ](http://www.studentsreview.com/compare.php3)
 * [Compare Schools](http://www.studentsreview.com/compare.php3)  
 [ ](http://www.studentsreview.com/usnews.shtml)
@@ -22,13 +21,12 @@
 [ ](http://www.studentsreview.com/contact_center.php3)
 * [Ask Alumni _!_ ](http://www.studentsreview.com/contact_center.php3)  
 [ ](http://www.studentsreview.com/msg_board.php3)
-* [Discuss College](http://www.studentsreview.com/msg_board.php3)  
+* [College Discussion](http://www.studentsreview.com/msg_board.php3)  
 [ ](http://www.studentsreview.com/resources.shtml)
 * [Articles + Links ](http://www.studentsreview.com/resources.shtml)  
 [ ](http://www.studentsreview.com/EssayHelp/)
 * [Sample Essays & Help ](http://www.studentsreview.com/EssayHelp/)  
-    |    **Over 8800 Student Reviews! Wow!**   
-**We got mentioned!** Special thanks to the [_Washington Post_](http://www.studentsreview.com/press/washpost/A41245-2002Nov26.html)
+        |  **We got mentioned!** Thanks to the [_Washington Post_](http://www.studentsreview.com/press/washpost/A41245-2002Nov26.html) and [_College Magazine!_](http://www.collegemagazine.com/)  
 
 Students Review, Inc. Privacy Policy
 
@@ -56,8 +54,10 @@ As always, it is the individuals right and duty to remain fully aware of the inf
 Additionally, in the unlikely circumstance, where there is third party distribution of individually identifiable information, collected online from the individual, unrelated to the purpose for which it was collected, the individual will be given a clear opportunity to opt out of information submission. 
 
    
+
+
 Send Comments/Suggestions to: [sradmin@studentsreview.com](mailto:sradmin@studentsreview.com). 
 
 * * *
 
-Copyright © 2000, 2001, 2002, 2003. Students Review, Inc. All Rights Reserved.   [](http://www.ratemyprofessors.com/) |   |  
+Copyright © 2000, 2001, 2002, 2003. Students Review, Inc. All Rights Reserved.   [](http://www.ratemyprofessors.com/)
