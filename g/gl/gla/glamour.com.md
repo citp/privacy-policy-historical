@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glamour.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620141549id_/http%3A//www.glamour.com/services/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamour.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205191700id_/http%3A//glamour.com/services/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # GLAMOUR: PRIVACY POLICY
 
