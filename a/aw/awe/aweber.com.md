@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002081545id_/http%3A//www.aweber.com/privacy.htm%3Fid%3D99) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626093012id_/http%3A//www.aweber.com/privacy.htm%3Fid%3D201265) for the most accurate reproduction.*
 
 # Privacy Policy for AWeber Systems, Inc.
 
@@ -38,7 +38,7 @@ _**\-- Stephen Parnell**_
 _**Development Director**_  
 _**Mortgage Reserve Corporation**_
 
-[Click here](https://web.archive.org/web/20031002081545id_/http%3A//www.aweber.com/testimonials.htm?id=99) to read more testimonials for AWeber Systems!  
+[Click here](https://web.archive.org/web/20040626093012id_/http%3A//www.aweber.com/testimonials.htm) to read more testimonials for AWeber Systems!  
   
 
 
