@@ -1,44 +1,50 @@
-> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603193731id_/http%3A//thehuddle.com/site/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208083329id_/http%3A//www.thehuddle.com/privacy.htm) for the most accurate reproduction.*
 
-# Fantasy Football @ thehuddle.com - Fantasy Football Services
+# Fantasy Football in The Huddle
 
-**Privacy Statement**   
-Oct 11, 1999 
+TheHuddle.com respects your right to the privacy of the personal information you provide us on our web sites. Unless you designate otherwise, or we state otherwise in this policy or at the time information is collected, any personal information you provide to TheHuddle.com will not be disclosed to outside parties. The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here. 
 
-By using this site, you agree to the Privacy Policy of thehuddle.com. If you do not agree to the Policy, please do not use this site. thehuddle.com reviews its Privacy Policy periodically and reserves the right, at its discretion, to modify or remove portions of this Policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy or to change any information previously submitted, please write to us at thehuddle.com, P.O. Box 6377, Folsom, CA 95763, or e-mail us at [privacy@thehuddle.com](mailto:privacy@thehuddle.com). 
+By using TheHuddle.com web sites (hereafter "The Huddle") you agree to this privacy policy. If you do not agree to the Policy, please do not use any of these sites. This Privacy Policy is periodically reviewed and we reserves the right, at our discretion, to modify or remove portions of this Policy at any time. This page should be reviewed periodically so that you remain updated to any changes.
 
-thehuddle.com, which operates the Internet sites located at [www.thehuddle.com](http://www.thehuddle.com/), [www.thehuddlelounge.com](http://www.thehuddlelounge.com/), [www.thehuddleleagues.com](http://www.thehuddleleagues.com/) and [www.sofawebwars.com](http://www.sofawebwars.com/), recognizes the importance of protecting the privacy of personally identifiable information collected about visitors to our sites. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our sites. Personally identifiable information about visitors to our sites is collected only when knowingly and voluntarily submitted. We may collect certain non-personal information to optimize our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
+If you have questions or concerns regarding this statement, you may contact the The Huddle Customer Service Department at [custserv@thehuddle.com](mailto:custserv@thehuddle.com) or via postal mail at: 
 
-In those instances when we do collect personally identifiable information, the following policies apply: 
+TheHuddle.com  
+P.O. Box 6377  
+Folsom, CA 95763
 
-**Notice**
+**Traffic Data**  
+Each time a visitor comes to The Huddle, our servers -- like most on the Web -- collect some basic technical information. Examples of this basic information include the visitor's domain name (e.g., whether the user is logged on from aol.com or earthlink.net), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to a Huddle web site) and browser and platform type (e.g., a Netscape browser on a Macintosh platform).
 
-thehuddle.com will notify you when we are collecting personally identifiable information about you. For example, we may need to collect such information to provide you with information or a product you requested, in connection with contest entry forms or for billing purposes, or in connection with community postings such as chat and bulletin boards. 
+We also count, track and aggregate the visitor's activity into our analysis of general traffic flows at our sites. As a result we may merge information about visitors and visits into group data, which may then be used for internal research and analysis. We will not disclose your individual identity or personally identifiable data without your permission. When we do present aggregated information to outside companies, no one will be able to identify you or contact you.
 
-**Use and Security**
+**Use of Cookies**  
+A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Cookies, which are an industry standard used by most Web sites, can facilitate a user's ongoing access to and use of a site. We use cookies in a limited way to help facilitate site login, identify unique browsers and to track usage throughout our sites. Cookies are also used in our message board and online chat systems and are a vital Part of their operation.
 
-Personally identifiable information that visitors submit to our sites is used only for the purpose for which it is submitted unless we disclose other uses at the time of collection. Such other uses may include sending you information or materials we think you will find interesting, or providing or selling the information to thehuddle.com's advertisers and reputable business partners. However, at the time of collection, you will have the option of instructing us not to send you additional information or share your personal information with third parties. thehuddle.com is not responsible for the privacy policies or practices of our business partners. 
+Cookies cannot be used to identify individuals, only machines. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature. But users should note that cookies may be necessary to provide the user with special features of the web site.
 
-thehuddle.com may use personally identifiable information in aggregate form to make our site better and more responsive to the needs of our visitors. This statistical compilation of non-identifiable information may also be used by thehuddle.com or provided to others for marketing, advertising or research purposes. Visitors to our sites will be able to instruct thehuddle.com not to include their personal information in our aggregate data base by e-mail request or by modifying online registrations. 
+**Huddle Membership**  
+In order to subscribe to Huddle Membership, subscribers to our Members Only product provide The Huddle with personal information including name, address, e-mail address and credit card information. The Huddle keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way. 
 
-thehuddle.com maintains appropriate safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our sites, and periodically reviews and updates its security measures in light of current technologies. 
+At the time of registering for their subscription, Members Only subscribers are asked whether they wish to receive e-mail from The Huddle, such as notification of new Members Only benefits. The Huddle does not reuse or resell the list of users who have "opted in" to such mailings.
 
-**Cookies**
+**Huddle Community**  
+Members of The Huddle who register for our message board community provide us with a username, password and a working e-mail address. This information to set up your Huddle Community account. We do not sell or redistribute this Huddle Community list and will not send you e-mail at the address you provide, except for infrequent announcements relating to The Huddle Community or as needed to resolve issues that may arise with your Huddle Community account. The e-mail address you register with at The Huddle Community will be posted in the message boards if and when you post comments there, but you are free at any time to publically hide that e-mail address if you wish. Participants in The Huddle Community are expected to comply with the rules governing the area, but we cannot control third parties' use of information you may choose to provide in such a public forum. For more information see The Huddle Community registration page.
 
-Cookies are data that a Web site transfers to an individual's hard-drive for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, can facilitate a user's ongoing access to and use of a site. They allow the tracking of usage patterns and to compile data that can help us improve our content and target advertising. 
+**Promotions**  
+From time to time, The Huddle may sponsor sweepstakes, contests or other events which require the collection, processing and storage of individual contact and demographic information (e.g., your age and state of residence) to be used for the event. The Huddle may also co-sponsor these events along with other companies, in which case the user's individual contact and demographic information is likely to be shared with other participating sponsors, who may use this information as they wish. A registrant's personal contact and demographic information will not be released to any third-party organization other than named sponsors without the user's consent, and The Huddle will request that such named sponsors uphold the privacy of the registrants' information by not distributing or sharing such information with any other businesses or organizations.
 
-If a user does not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows the user to deny or accept the Cookie feature. But users should note that Cookies may be necessary to provide the user with such special features as customized content delivery. 
+**Surveys**  
+The Huddle will from time to time conduct voluntary surveys of visitors to the site to obtain aggregate demographic information about them. Such information will be primarily for internal use but may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals.
 
-**Links to Third Party and Co-Branded Sites**
+**Our Commitment To Children's Privacy**  
+The Huddle believes that it is particularly important to protect the privacy of children. For that reason, we do not collect or maintain information at our web sites from those we actually know are under the age of 13, and no part of our web sites are structured to attract anyone under the age of 13.
 
-thehuddle.com has established relationships with reputable business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. These sites are not operated or maintained by thehuddle.com. 
+**Other Disclosure Of Personal Information**  
+The Huddle will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any on-line bulletin board, chat room, newsgroup or other public forum within our Web sites.
 
-thehuddle.com chooses its advertisers and business partners carefully. However, thehuddle.com is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by thehuddle.com of the content, policies or practices of such third party sites. Once you have left thehuddle.com site via such a link, you should check the applicable privacy policy of the third party site.
+**Links To Other Sites**  
+The Huddle contains links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.
 
-**Children**
+If you have any further questions or concerns about The Huddle's privacy policy and use of personal information, please send them to [custserv@thehuddle.com](mailto:custserv@thehuddle.com).
 
-thehuddle.com is a general audience site. We do not direct any of our content specifically at children under thirteen (13) years of age.
-
-**Ad Serving**
-
-thehuddle.com works with a third party, Engage Media, that serves ads to this site. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please [click here](http://www.flycast.com/about_us/about-privacy.html).
+[Back to home page](https://web.archive.org/web/20021208083329id_/http%3A//www.thehuddle.com/index.html)
