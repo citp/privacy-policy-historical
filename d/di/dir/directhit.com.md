@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the directhit.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206053300id_/http%3A//directhit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directhit.com privacy policy that was archived on 2001-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010612083639id_/http%3A//www.directhit.com/privacy.html) for the most accurate reproduction.*
 
 # Direct Hit Privacy Statement
-
-|    
-
 
 Direct Hit supports protection of your right to privacy online. This Privacy Statement discloses our information gathering and dissemination practices. Direct Hit will never sell, exchange, or release any of your individual personal information to a third party without your express permission. We use anonymous user information to provide more relevant search results to you and to other users. We also use this information to provide more meaningful and relevant advertising. For more information or questions about our policy, please email us at [privacy@directhit.com](mailto:privacy@directhit.com). 
 
@@ -38,4 +35,4 @@ If you have any questions about this privacy statement or the practices of this 
 
 
 |   
----|---|---
+---|---
