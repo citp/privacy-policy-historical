@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201124048id_/http%3A//privacy.hdrinc.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618153359id_/http%3A//privacy.hdrinc.com) for the most accurate reproduction.*
 
 # Privacy Statement
 
