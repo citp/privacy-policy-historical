@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Customer_Support/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2004-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Customer_Support/privacy_policy.htm) for the most accurate reproduction.*
 
-# Psychz: Customer Support - Privacy Policy
+# Privacy Policy
 
   
-[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/webhosting.htm)  
-[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/dedicatedservers.htm)  
-[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/colocation.htm)  
-[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/shell.htm)  
-[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/gameserver.htm)  
-[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/shoutcast.htm)  
-[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/order_services.htm)  
-[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Customer_Support/index.htm)  
-[](https://www.secure.psychz.net/order/)  
+[](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Services/webhosting.htm)  
+[](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Services/dedicatedservers.htm)  
+[](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Services/colocation.htm)  
+[](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Services/shell.htm)  
+[](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Services/gameserver.htm)  
+[](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Services/shoutcast.htm)  
+[](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Services/order_services.htm)  
+[](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Customer_Support/index.htm)  
+[](https://secure.psychz.net/order/)  
 
 
-_**Budget**_ **[Web Hosting Package ](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/webhosting.htm)**
+_**Budget**_ **[Web Hosting Package ](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Services/webhosting.htm)**
 
   * ** [ Psychz Control Panel](http://demo:demo@dasher.psychz.net:2082/)**
   * 50 MB of space
@@ -32,11 +32,11 @@ _**Budget**_ **[Web Hosting Package ](https://web.archive.org/web/20031205040013
   * Server Sides Include
   * support .php, .html, .shtml, and more
   * 99.99% uptime
-  * [**T otal - $ 2.95**](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/webhosting.htm)
+  * [**T otal - $ 2.95**](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Services/webhosting.htm)
 
 
 
-_**[MORE INFO](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/webhosting.htm)**_[  ](file:///C:/Backup/Web%20Projects/Psychz%20Main/Services/webhosting.htm)
+_**[MORE INFO](https://web.archive.org/web/20040207020749id_/http%3A//psychz.net/Services/webhosting.htm)**_[  ](file:///C:/Backup/Web%20Projects/Psychz%20Main/Services/webhosting.htm)
 
 | | 
 
