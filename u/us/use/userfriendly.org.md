@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userfriendly.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604065859id_/http%3A//www.userfriendly.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userfriendly.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205062410id_/http%3A//www.userfriendly.org/privacypolicy) for the most accurate reproduction.*
 
 # UF - Privacy Policy
 
@@ -10,9 +10,9 @@
 [Geekfinder](http://www.geekfinder.com/)  
 [UF Store](http://link.userfriendly.org/linkto/http://www.computergear.com/userfriendly.html)  
 [Comments Sign-up](http://ars.userfriendly.org/users/login.cgi)  
-[Become a Member](http://ars.userfriendly.org/users/newmem.html)  
+[Become a Member](http://ars.userfriendly.org/users/choosesponsorlevel.cgi)  
 [Members Ad Free site!](http://members.userfriendly.org/)  
-[Advertise with UF](http://link.userfriendly.org/linkto/http://www.ufmedia.com/why.html)  
+[Advertise with UF](http://www.userfriendly.org/mediakit/index.html#rates)  
 | 
 
 **Privacy Policy of userfriendly.org**
