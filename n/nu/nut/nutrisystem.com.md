@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201230402id_/http%3A//www.nutrisystem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401201304id_/http%3A//www.nutrisystem.com/privacy) for the most accurate reproduction.*
 
 # Nutri/System® - Privacy Policy
 
@@ -52,7 +52,7 @@ At nutrisystem.com, we are committed to protecting your privacy. We use the info
 >
 >> By using our Web site, you consent to the collection and use of this information by nutrisystem.com. If at some point in the future, there is a change to our information usage practices that affect your Personally Identifiable Information, we will notify you by e-mail. At the time of this message, you will be able to opt-out of this information usage by sending a message to the following e-mail: [never@nutrisystem.com](mailto:never@nutrisystem.com). You should check this posted privacy statement for changes. 
 >> 
->> In the event of privacy statement changes or changes to our policy concerning user information will be posted on the nutrisystem.com home page and in the [My Account](https://web.archive.org/web/20021201230402id_/http://www.nutrisystem.com/main/myaccount/index.cfm) Section of the website. 
+>> In the event of privacy statement changes or changes to our policy concerning user information will be posted on the nutrisystem.com home page and in the [My Account](https://web.archive.org/web/20030401201304id_/http://www.nutrisystem.com/main/myaccount/index.cfm) Section of the website. 
 > 
 > Tell us what you think
 >
