@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204110431id_/http%3A//treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205194728id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Security Notices
 
@@ -71,7 +71,7 @@ Furnishing personal information is voluntary; however, without the information w
 
 ### 5\. To whom do we release your personal information?
 
-We can disclose information only as authorized under the [Privacy Act of 1974, 5 U.S.C. § 552a](https://web.archive.org/exit.htm?http://www.usdoj.gov/04foia/foiastat.htm). Public Debt's Privacy Act systems of records notices are published in the Federal Register. Eight of our systems of records notices can be found at [66 Fed. Reg. 28,222](ftp://ftp.publicdebt.treas.gov/cc66fedreg.pdf) and one can be found at [68 Fed. Reg. 34,486](ftp://ftp.publicdebt.treas.gov/cc68fedreg.pdf) (this system of records is exempted from certain provisions of the Privacy Act, [see 68 Fed. Reg. 67,943](https://web.archive.org/exit.htm?http://a257.g.akamaitech.net/7/257/2422/14mar20010800/edocket.access.gpo.gov/2003/pdf/03-30241.pdf)).
+We can disclose information only as authorized under the [Privacy Act of 1974, 5 U.S.C. § 552a](https://web.archive.org/exit.htm?http://www.usdoj.gov/04foia/foiastat.htm). Public Debt's Privacy Act systems of records notices are published in the Federal Register. Eight of our systems of records notices can be found at [66 Fed. Reg. 28,222](http://www.publicdebt.treas.gov/cc/cc66fedreg.pdf) and one can be found at [68 Fed. Reg. 34,486](http://www.publicdebt.treas.gov/cc/cc68fedreg.pdf) (this system of records is exempted from certain provisions of the Privacy Act, [see 68 Fed. Reg. 67,943](https://web.archive.org/exit.htm?http://a257.g.akamaitech.net/7/257/2422/14mar20010800/edocket.access.gpo.gov/2003/pdf/03-30241.pdf)).
 
 ### 6\. Will we send you unsolicited information?
 
