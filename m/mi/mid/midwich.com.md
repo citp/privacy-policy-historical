@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603012618id_/http%3A//www.midwich.com/editorial/aboutmidwich/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209125055id_/http%3A//www.midwich.com/editorial/aboutmidwich/privacypolicy.php) for the most accurate reproduction.*
 
 # Midwich - your focused distributor
-
-| 
 
 PRIVACY STATEMENT FOR MIDWICH LIMITED WEBSITE  
   
@@ -51,5 +49,3 @@ HOW WE USE COOKIES
 A cookie is a piece of text which asks permission to be placed on your computer’s hard drive.  Once you agree, your browser adds that text in a small file.  A cookie helps analyse web traffic or lets you know when you visit a particular site.  Cookies allow web applications to respond to you as an individual.  The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  For example, when you visit an electronic store, a cookie makes it easier to shop, by allowing you to place things into a shopping basket; the basket itself is not the cookie, the cookie is placed on your hard drive and keeps track of your basket versus others in use at the same time.  
 We use traffic log cookies to identify which pages are being used.  This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs.  We only use this information for statistical analysis purposes and then the data is removed from the system.  Denial of a traffic log cookie should not prevent you from using one of these sites.  
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not.  A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.  This practice is strictly in force.  We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile.  You may set your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely.  You can delete the files that contain cookies - those files are stored as part of your internet browser.
-
-| 
