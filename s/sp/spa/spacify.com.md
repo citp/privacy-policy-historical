@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacify.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002160535id_/http%3A//www.spacify.com/newasp/asp/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacify.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614063422id_/http%3A//www.spacify.com/newasp/asp/privacypolicy.asp) for the most accurate reproduction.*
 
 # ::[SPACIFY] [Manage your space online]
 
