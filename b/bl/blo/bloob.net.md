@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloob.net privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208180505id_/http%3A//www.bloob.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloob.net privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604211248id_/http%3A//bloob.net/privacy.asp) for the most accurate reproduction.*
 
 # Bloob E-Commerce - Privacy Policy
 
