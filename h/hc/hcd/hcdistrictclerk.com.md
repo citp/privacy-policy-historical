@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcdistrictclerk.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209133112id_/http%3A//www.hcdistrictclerk.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcdistrictclerk.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612185023id_/http%3A//www.hcdistrictclerk.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Harris County District Clerk Privacy Policy Page
 
