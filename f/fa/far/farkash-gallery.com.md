@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farkash-gallery.com privacy policy that was archived on 2003-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031026091900id_/http%3A//www.farkash-gallery.com//policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farkash-gallery.com privacy policy that was archived on 2004-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040516073914id_/http%3A//www.farkash-gallery.com//policy.asp) for the most accurate reproduction.*
 
 # Farksh
 
