@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2002-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021121184342id_/http%3A//www.alltel.com/legal/privacy_stmt.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602102718id_/http%3A//www.alltel.com/legal/privacy_stmt.html) for the most accurate reproduction.*
 
 # Welcome to ALLTEL
 
   
-[Home](http://estore.alltel.com/) |  ALLTEL.com Privacy Statement    
-ALLTEL.com Privacy Statement 
+[Home](https://web.archive.org/estore) |  **ALLTEL.com Privacy Statement** **  
+ALLTEL.com Privacy Statement  **
 
 We limit the information collected about you to what is needed for conducting business and offering products and services that might be of interest to you. You may choose to provide individually-identifiable information (such as name, address, telephone number or e-mail address) to ALLTEL in a number of ways through our web site - by ordering a service from us, sending us e-mail, registering to receive news or public information or applying for a job. 
 
