@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishlinkcentral.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604054626id_/http%3A//www.fishlinkcentral.com/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishlinkcentral.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212071216id_/http%3A//fishlinkcentral.com/misc/privacy.htm) for the most accurate reproduction.*
 
 # Fish Link Central: Privacy Policy
 
@@ -31,4 +31,4 @@ In some cases, we may automatically (i.e., not via registration) collect technic
 When you view one of our websites, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
 
 **Advertising Banners  
-**Fish Link Central works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
+**This site, Fish Link Central, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
