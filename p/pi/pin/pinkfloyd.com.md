@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkfloyd.com privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609080650id_/http%3A//www.mailworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkfloyd.com privacy policy that was archived on 2000-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001011133505id_/http%3A//www.mailworks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy/Terms of Use
 
