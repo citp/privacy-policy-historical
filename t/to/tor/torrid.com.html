@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the torrid.com privacy policy that was archived on 2003-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622123952id_/http%3A//www.torrid.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the torrid.com privacy policy that was archived on 2003-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031002235924id_/http%3A//www.torrid.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.-->
 
 <html><head><!-- Copyright © 2001 - 2003 hottopic. All Rights Reserved. -->
 <meta name="description" content="Torrid, alternative music related apparel and accessories.">
@@ -98,8 +98,9 @@ function fnSetCookie (name,value,expires,path,domain,secure) {
 
 function CookiePopup(strPageName, strCookieName, intWidth, intHeight) {
 	if (fnGetCookie(strCookieName) != "true") {
-// Commented out just for the prE-view player & Froud. Will update for auto-popup next...
-//		fnSetCookie(strCookieName,"true",null,"/",null,false);
+		if (strCookieName != "Preview") {
+			fnSetCookie(strCookieName,"true",null,"/",null,false);
+		}
 		window.open(strPageName,strCookieName,'width=' + intWidth + ',height=' + intHeight);
 	}
 }
