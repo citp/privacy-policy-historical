@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarviews.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405181506id_/http%3A//solarviews.com/eng/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarviews.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201053624id_/http%3A//solarviews.com/eng/privacy.htm) for the most accurate reproduction.*
 
 # Views of the Solar System Privacy Statement
 
@@ -18,4 +18,4 @@ The ads appearing on this Web site are delivered to you by DoubleClick's Sonar N
 **ENGAGE MEDIA NETWORK BANNERS**  
 
 
-This site, Views of the Solar System, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+This site, Views of the Solar System, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data about your visit to this and other Web sites, typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
