@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seahawks.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604064501id_/http%3A//seahawks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seahawks.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000311id_/http%3A//www.seahawks.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
