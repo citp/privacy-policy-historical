@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightspeedresearch.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612101005id_/http%3A//www.lightspeedresearch.com/company_profile/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedresearch.com privacy policy that was archived on 2004-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040904082025id_/http%3A//www.lightspeedresearch.com/company_profile/privacy_policy) for the most accurate reproduction.*
 
 # Lightspeed Research - Company Profile - Privacy Policy
 
