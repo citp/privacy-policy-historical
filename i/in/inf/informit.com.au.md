@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2004-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040601162943id_/http%3A//www.rmittraining.com/rmit_training_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2004-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041108011401id_/http%3A//www.rmittraining.com/rmit_training_privacy_policy.pdf) for the most accurate reproduction.*
 
 # RMIT TRAINING SECURITY & PRIVACY POLICY
 
