@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604063154id_/http%3A//keil.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813003024id_/http%3A//www.keil.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Keil Software Privacy Statement
 
-At Keil Software, we understand that privacy is a concern of many of our customers. For that reason, we have established the following policies for the information we collect on our web site.
+Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information. This privacy policy has been verified by BBBOnLine and is compliant with the BBOnLine Privacy standards. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
 
 ### Who Collects the Information from this Site?
 
@@ -122,9 +122,7 @@ We use outside shipping companies (like FedEx, UPS, Airborne, USPS, and courier 
 
 We accept credit card orders and, on occasion, must provide the customer name and address information to VISA, MasterCard, American Express, or Discover for verification purposes. If you do not wish us to verify your credit card, you may use an alternate form of payment. 
 
-We partner with other embedded tools companies and chip manufacturers to provide you with important or interesting information about products or services that you may find beneficial. On occasion, we provide names and other contact information that are necessary for these companies to provide such information via a one-time mailing. Information transferred is used for only one mailing. 
-
-See below to opt-out of these transfers. 
+We partner with other embedded tools companies and chip manufacturers to provide you with important or interesting information about products or services that you may find beneficial. On occasion, we provide names and other contact information that are necessary for these companies to provide such information via a one-time mailing. Information transferred is used for only one mailing. To prevent the sharing of your information with these companies, refer to the section on opting-out. 
 
 ### What Security Precautions are in Effect?
 
@@ -176,9 +174,10 @@ We do not offer a way to retrieve the information you provide us on-line. Howeve
 
 ### Opting Out
 
-We want to give you every opportunity to opt-out of receiving undesired mailings or e-mail. 
+We want to give you every opportunity to opt-out of receiving undesired mailings or e-mail from us or from our partners. 
 
   * You may [remove your e-mail address](https://web.archive.org/update/remove.asp) from our Update List Server.
+  * You may [block the sharing of your information](https://web.archive.org/product/custserv.asp) with third parties.
   * You may [remove or update your personal information](https://web.archive.org/product/custserv.asp) maintained in our customer database.
   * Contact our [customer service department](https://web.archive.org/product/custserv.htm) for any other requests you may have.
 
