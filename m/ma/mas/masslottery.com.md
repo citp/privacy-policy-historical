@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masslottery.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603181144id_/http%3A//www.masslottery.com/PrivacyPolicyMSLC.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masslottery.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204080559id_/http%3A//www.masslottery.com/PrivacyPolicyMSLC.htm) for the most accurate reproduction.*
 
 # Massachusetts State Lottery Annual Report
 
