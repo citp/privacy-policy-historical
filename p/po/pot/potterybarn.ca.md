@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potterybarn.ca privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607053150id_/http%3A//www.potterybarn.ca//privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potterybarn.ca privacy policy that was archived on 2004-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040722062745id_/http%3A//www.potterybarn.ca//privacy_policy.cfm) for the most accurate reproduction.*
 
 # Pottery Barn Canada
 
