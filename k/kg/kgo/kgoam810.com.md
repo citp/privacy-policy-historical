@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206062524id_/http%3A//www.kgoam810.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611152053id_/http%3A//www.kgoam810.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # KGO-AM 810 NewsTalk
 
@@ -71,6 +71,6 @@ By using this site, you signify your assent to the ABC Privacy Policy. If you do
   
 Back to [HOME](https://web.archive.org/default.asp) page.  
   
-© ABC. All rights reserved.  
+Š ABC. All rights reserved.  
 |   
 ---|---|---
