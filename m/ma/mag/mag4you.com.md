@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mag4you.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008071345id_/http%3A//mag4you.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mag4you.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602204942id_/http%3A//mag4you.com/privacy.asp) for the most accurate reproduction.*
 
 # Mag4you.com Privacy Policy
 
