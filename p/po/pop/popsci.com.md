@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popsci.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601161544id_/http%3A//cgi.pathfinder.com/cgi-bin/magsubs/privacy/privacy_central.pl/popsci) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popsci.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215165642id_/http%3A//cgi.pathfinder.com/cgi-bin/magsubs/privacy/privacy_central.pl/popsci) for the most accurate reproduction.*
 
 # Uniform Time Inc. Online Privacy Policy
 
@@ -9,6 +9,10 @@ _Time Inc. Online Privacy Notice_
 
 **  
 Thank you for visiting PopularScience.com, a Time Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Inc. site. [Click here](http://www.timeinc.net/legal/titles.html) for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice.
+
+**_Netscape Network Registered Users_**
+
+If you have registered with the Netscape Network, the [Netscape Network's Privacy Policy](http://about.netscape.com/networkprivacy/index.html) and [Registered User Agreement](http://about.netscape.com/networkterms/index.html) govern the information practices and terms and conditions of use that apply to you when you use the Netscape Network.
 
 **_The Information We Collect_**
 
@@ -40,9 +44,9 @@ Agents and contractors of Time Inc. who have access to personally identifiable i
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
 
-If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please send an e-mail, along with your first and last name, to [privacy@popularscience.customersvc.com](mailto:privacy@popularscience.customersvc.com?subject=Popular%20Science:%20Do%20Not%20Transfer).
+If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [privacy@popularscience.customersvc.com](mailto:privacy@popularscience.customersvc.com?subject=Popular%20Science:%20Do%20Not%20Transfer).
 
-Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, please send an e-mail, along with your first and last name, to [privacy@popularscience.customersvc.com](mailto:privacy@popularscience.customersvc.com?subject=Popular%20Science:%20Do%20Not%20Promote).
+Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [privacy@popularscience.customersvc.com](mailto:privacy@popularscience.customersvc.com?subject=Popular%20Science:%20Do%20Not%20Promote).
 
 Finally, Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -68,7 +72,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 **_How You can Access or Correct Information_**
 
-For instructions on how you can access the personally identifiable information that this Time Inc. site has collected about you online, or how to correct factual errors in such information, please send an e-mail, along with your first and last name, to [t4mprivacy@timeinc.net](mailto:t4mprivacy@timeinc.net?subject=Popular%20Science:%20Privacy%20Inquiry).
+For instructions on how you can access the personally identifiable information that this Time Inc. site has collected about you online, or how to correct factual errors in such information, [t4mprivacy@timeinc.net](mailto:t4mprivacy@timeinc.net?subject=Popular%20Science:%20Privacy%20Inquiry).
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
@@ -78,4 +82,9 @@ The site you are visiting is one of the Time Inc. general audience sites. For mo
 
 **_How to Contact Us_**
 
-If you have any questions or concerns about the Time Inc. online policy for this site or its implementation you may contact us at [t4mprivacy@timeinc.net](mailto:t4mprivacy@timeinc.net?subject=Popular%20Science:%20Privacy%20Inquiry). 
+If you have any questions or concerns about the Time Inc. online policy for this site or its implementation you may contact us at [t4mprivacy@timeinc.net](mailto:t4mprivacy@timeinc.net?subject=Popular%20Science:%20Privacy%20Inquiry) or at the following address:
+
+Time Customer Service  
+Attention: Consumer Affairs  
+3000 University Center Drive  
+Tampa, Florida 33612-6408 
