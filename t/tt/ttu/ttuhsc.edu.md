@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttuhsc.edu privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413062718id_/http%3A//www.ttuhsc.edu/Home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttuhsc.edu privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217105330id_/http%3A//www.ttuhsc.edu/Home/privacy.htm) for the most accurate reproduction.*
 
 # Texas Tech University Health Sciences | Privacy Policy
 
