@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechamplainchannel.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405155959id_/http%3A//www.thechamplainchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechamplainchannel.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012050036id_/http%3A//www.thechamplainchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheChamplainChannel.com - News
 
