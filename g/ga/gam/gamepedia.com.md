@@ -1,0 +1,27 @@
+> *The following text is extracted and transformed from the gamepedia.com privacy policy that was archived on 2001-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010622112438id_/http%3A//gamepedia.com/info/privacy) for the most accurate reproduction.*
+
+# Gameaholic dot Com Privacy and Legal Information
+
+**Legal Information**
+
+Content on this web site is Copyright © 1996-2000 Gameaholic dot ComTM, unless otherwise stated. All rights reserved. 
+
+No portion of this web site may be copied or reproduced with an explicit permission of the [owner](mailto:webmaster@gameaholic.com). 
+
+Quake is a trademark of id Software, Inc. All other trademarks are property of their respective owners. 
+
+**Privacy Information**
+
+Gameaholic dot Com currently does not collect any private information from our visitors. 
+
+Gameaholic dot Com and its staff may use your IP address to help diagnose problems with our server and to administer our Web site. Our server software automatically logs all accesses to materials located on our servers. This information remains private to persons associated with Gameaholic dot Com, and is periodically destroyed. 
+
+All information submitted in public forums located at our site remains public as submited. We do not alter any information posted in our forums, and therefore user submitting the message is fully responsible for information stored in that message. 
+
+Gameaholic dot Com staff makes the best effort to ensure that all information stored on our servers remains secure. Should in any event any information (such as access logs) be made available to a third party, we will make the best effort to track it and report the accident to proper authorities. We cannot be held accountable for any misuse of such information. 
+
+Gameaholic dot Com website, and other sites hosted and managed by us, may contain links to other web sites. The information in this document pertains only to content hosted and managed by us. Gameaholic dot Com is not responsible for the privacy practices or the content of such web sites. 
+
+This site, Gameaholic Dot Com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy. 
+
+If you have further questions regarding Gameaholic dot Com's privacy practices, please contact [privacy@gameaholic.com](mailto:privacy@gameaholic.com)
