@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksontape.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605152754id_/http%3A//www.booksontape.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksontape.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203131119id_/http%3A//www.booksontape.com/privacy.cfm) for the most accurate reproduction.*
 
 # Books on Tape® : Privacy Policy
 
