@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fototime.com privacy policy that was archived on 2000-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001208083100id_/http%3A//fototime.com/ftweb/bin/ft.dll/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fototime.com privacy policy that was archived on 2001-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010607172444id_/http%3A//fototime.com/ftweb/bin/ft.dll/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Language" content="en-us">
@@ -22,9 +22,18 @@
 <script>
    var browser = "";
    var version = "";
+   var agent = "";
 
+  if (agent == "")
+  {
+    agent = navigator.userAgent;
+  }
+  
   if (browser == '')
   {
+	if (agent.indexOf('Opera') != -1)
+	  browser = 'Opera'
+	 else
     if (navigator.appName.indexOf('Microsoft') != -1)
      browser = 'IE'
     else 
@@ -156,8 +165,16 @@
         var el = document.all[event.srcElement.name]
         if (el)
         {
-          var Url = document.all[event.srcElement.name].href;
-          location.href = Url;
+          var Url = document.all[event.srcElement.name].href; 
+		  var Target = document.all[event.srcElement.name].target;
+		  if (Target != '')
+		  {
+		    window.open(Url); 
+		  }
+		  else
+		  {
+            location.href = Url;
+		  }
         }
       } 
     }
@@ -171,8 +188,8 @@
 
   function changeImages(imgname, imgurl)
   {
-    var el = document.all[imgname];
-    el.src = imgurl;
+    //var el = document.all[imgname];
+    imgname.src = imgurl;
   }
       
 
@@ -195,11 +212,11 @@
       //-->
       </script>Thursday, January 30, 2020
     </td>
-<td height="21" class="blueheader" width="70"><a title="Return to FotoTime home page" class="blueheader" href="/"><img border="0" src="/ftweb/images/home.gif" width="21" height="10">Home</a></td>
-<td class="blueheader">|</td>    <td height="21" class="blueheader" width="70"><a title="Create your own FotoTime account" class="blueheader" href="/register">Join</a></td>
-<td class="blueheader">|</td><td height="21" class="blueheader" width="70"><a title="Show what products our store offers" class="blueheader" href="/shop">Shop</a></td>
-<td class="blueheader">|</td>    <td height="21" class="blueheader" width="70"><a title="Learn about FotoTime, Inc." class="blueheader" href="/aboutus">About Us</a></td>
-<td class="blueheader">|</td>    <td height="21" class="blueheader" width="70"><a title="Get help with FotoTime and FotoAlbum" class="blueheader" href="/help">Help</a></td>
+<td height="21" class="blueheader" width="70"><a title="Return to FotoTime home page" class="blueheader" href="http://fototime.com"><img border="0" src="/ftweb/images/home.gif" width="21" height="10">Home</a></td>
+<td class="blueheader">|</td>    <td height="21" class="blueheader" width="70"><a title="Create your own FotoTime account" class="blueheader" href="http://fototime.com/register">Join</a></td>
+<td class="blueheader">|</td><td height="21" class="blueheader" width="70"><a title="Show what products our store offers" class="blueheader" href="http://fototime.com/shop">Shop</a></td>
+<td class="blueheader">|</td>    <td height="21" class="blueheader" width="70"><a title="Learn about FotoTime, Inc." class="blueheader" href="http://fototime.com/aboutus">About Us</a></td>
+<td class="blueheader">|</td>    <td height="21" class="blueheader" width="70"><a title="Get help with FotoTime and FotoAlbum" class="blueheader" href="http://fototime.com/help">Help</a></td>
   </tr>
 </tbody></table>
 
@@ -210,7 +227,7 @@
   
     <td width="5" class="LeftFrame">&nbsp;&nbsp;</td>
   
-    <td class="LeftFrame" width="163" valign="top">
+    <td class="leftframe" width="163" valign="top">
      <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tbody><tr><td align="right" width="100%"><img border="0" src="/ftweb/images/upperright.gif" width="17" height="17"></td></tr>
 </tbody></table>
@@ -244,7 +261,11 @@
                   pictures.&nbsp; The database is used so we can keep user and
                   picture statistics.&nbsp; We use cookies to maintain context
                   information pertaining to you current login.&nbsp; The cookies
-                  are non permanent and expire in 24 hours.
+                  are non permanent and expire in 24 hours.&nbsp; We also track any
+                  serious errors that occur within FotoAlbum and send the error
+                  information and summary system information to the FotoTime 
+                  server(s) as part of the FotoAlbum Sync process.  This 
+                  information is only used to help solve problems within FotoAlbum.
                   </font></p><p><font face="helvetica, arial, verdana" size="2">Our site's registration form requires users to provide
                   contact information (like their name and email address). We use customer contact information
                   from the registration form to send information to our users
@@ -310,7 +331,7 @@
   </tr>
 </tbody></table>
 
-<p align="center">  <font face="helvetica, arial, verdana" size="1" color="#000000">    Copyright © 2000 FotoTime, Inc. All Rights Reserved.&nbsp;&nbsp;&nbsp;    <a onmousemove="javascript:SetStatusBar('Privacy%20Policy')" onmouseout="javascript:SetStatusBar('')" href="http://www.fototime.com/ftweb/bin/ft.dll/privacy">Privacy Policy</a> |     <a onmousemove="javascript:SetStatusBar('Terms%20of%20Service')" onmouseout="javascript:SetStatusBar('')" href="http://www.fototime.com/ftweb/bin/ft.dll/termsofuse">Terms of Service</a> |     <a onmousemove="javascript:SetStatusBar('Feedback')" onmouseout="javascript:SetStatusBar('')" href="http://www.fototime.com/ftweb/bin/ft.dll/supportquestion">Feedback</a><br><a href="http://www.verio.com"><font face="helvetica, arial, verdana" size="1" color="#000000">Powered by Verio</font></a>  </font></p><br>
+<p align="center">  <font face="helvetica, arial, verdana" size="1" color="#000000">    Copyright © 2001 FotoTime, Inc. All Rights Reserved.&nbsp;&nbsp;&nbsp;    <a onmousemove="javascript:SetStatusBar('Privacy%20Policy')" onmouseout="javascript:SetStatusBar('')" href="http://fototime.com/ftweb/bin/ft.dll/privacy">Privacy Policy</a> |     <a onmousemove="javascript:SetStatusBar('Terms%20of%20Service')" onmouseout="javascript:SetStatusBar('')" href="http://fototime.com/ftweb/bin/ft.dll/termsofuse">Terms of Service</a> |     <a onmousemove="javascript:SetStatusBar('Feedback')" onmouseout="javascript:SetStatusBar('')" href="http://fototime.com/ftweb/bin/ft.dll/supportquestion">Feedback</a>  </font></p><br>
 
 
 
