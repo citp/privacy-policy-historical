@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the picturetrail.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203191341id_/http%3A//www.picturetrail.com/pages/pt_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturetrail.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607213052id_/http%3A//www1.picturetrail.com/pages/pt_privacy.shtml) for the most accurate reproduction.*
 
 # Picturetrail - Highlights
 
-|    
-|  |  |    
----  
-|  | **PictureTrail Privacy Policy**  
----  
   
 PictureTrail.com has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. **IP Address:**  
 When you register for an account, we record your IP address for diagnostic purposes, to administer our web site and to gather aggregate, anonymous demographic information.
@@ -27,8 +22,4 @@ This site contains links to other sites. PictureTrail.com is not responsible for
 
 **Online Advertisements**  
 We sometimes use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.   
-  
-  
-   
-   
-[Terms and Conditions](https://web.archive.org/pages/pt_term_cond.shtml)      Copyright PictureTrail 2001, 2002, 2003  
+
