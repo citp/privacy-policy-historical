@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audioreview.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203222053id_/http%3A//www.consumerreview.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioreview.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804165313id_/http%3A//www.consumerreview.com/channels/consumerreview/data/main/privacy.html) for the most accurate reproduction.*
 
 # Consumer Product Reviews - ConsumerREVIEW.com
 
