@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codewalkers.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207193653id_/http%3A//codewalkers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codewalkers.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204164158id_/http%3A//codewalkers.com/privacy.php) for the most accurate reproduction.*
 
 # codewalkers.com - php - PHP Help
 
@@ -11,3 +11,6 @@ The information we collect is used to improve the content of our Web page, used 
 With respect to cookies: We use cookies to record past activity at a site in order to provide better service when visitors return to our site .
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+
+  
+
