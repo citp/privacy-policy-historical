@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x-rates.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615232740id_/http%3A//x-rates.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-rates.com privacy policy that was archived on 2000-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001219081500id_/http%3A//www.x-rates.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
