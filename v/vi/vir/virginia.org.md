@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210123901id_/http%3A//www.virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613204918id_/http%3A//www.virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
 
 # Virginia Is For Lovers: Statewide
 
