@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrowheadcu.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207084738id_/http%3A//www.arrowheadcu.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrowheadcu.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621080223id_/http%3A//www.arrowheadcu.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # Arrowhead Credit Union
 
@@ -22,7 +22,7 @@ Keeping your account information accurate and up to date is very important. We h
 We limit who receives information and what type of information is shared. We share information with the goal of bringing you greater convenience and more choices.
 
 **Sharing information with Arrowhead Central Credit Union Affiliates**  
-Arrowhead Central Credit Union owns a number of companies; Arrowhead Trust Incorporated, Arrowhead Financial Group Inc. and Credit Union Insurance Services. All of these companies are dedicated to working together to provide the products and services that you want. All of these companies meet the same stringent requirements to protect your privacy as the Credit Union. 
+Arrowhead Central Credit Union owns a number of companies; Arrowhead Trust Incorporated, Arrowhead Financial Group Inc. and Sawyer Cook Insurance. All of these companies are dedicated to working together to provide the products and services that you want. All of these companies meet the same stringent requirements to protect your privacy as the Credit Union. 
 
 We may also share information from your applications with external sources, such as check printing and data processing companies. These companies might, for example, assist us in offering you certain products and services or help us mail statements. These companies act on our behalf and are required to keep the information that we provide to them confidential.
 
