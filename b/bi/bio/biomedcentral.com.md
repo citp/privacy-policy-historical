@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202160004id_/http%3A//www.biomedcentral.com/info/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605174340id_/http%3A//www.biomedcentral.com/info/about/privacy) for the most accurate reproduction.*
 
 # BioMed Central | about us | Privacy policy
 
@@ -39,11 +39,22 @@ How does this privacy policy relate to authors of research articles published th
 
 Publishing a scientific manuscript is inherently a public (as opposed to anonymous) process. The name and e-mail address of all authors of a BioMed Central manuscript will be available to users of BioMed Central. These details are made available in this way purely to facilitate scientific communication. Collecting these e-mail addresses for commercial use is not permitted, nor will BioMed Central itself send unsolicited e-mail to authors, unless it directly concerns the paper they have published on BioMed Central.
 
-What are cookies and why does BioMed Central use them?
+Use of cookies 
 
-A cookie is a small piece of data stored by a web browser on the user's hard drive. Cookies do not contain any personal information which you have not explicitly provided to a website, and they are available only to the website which created them. 
+BioMed Central uses cookies to track usage. For auto login a cookie is sent from our server and is stored on your computer's hard drive. 
 
-The use of cookies is not required to use the open access areas of BioMed Central, but areas requiring security (e.g. manuscript submission) make use of cookies, as do the personalized aspects of BioMed Central.
+Session cookies are also sent from our server to your computer and used for session management. However these cookies do not remain on your hard drive on completion of your session. 
+
+Cookies are used by BioMed Central to:
+
+a) Enable us to identify you without having to ask you for username and password.  
+b) Measure usage.  
+c) Track movement within BioMed Central. 
+
+
+If you do not wish to accept any of these cookies or wish to be notified when a cookie is sent you can modify your browser preferences. If you refuse to accept the permanent cookie that is saved on your computer's hard drive then you will not be able to use the Auto login facility. If you choose not to accept session cookies then you may not be able to use all of the facilities offered on BioMed Central.
+
+[More information about cookies](http://www.allaboutcookies.org/manage-cookies/)
 
 Legal responsibilities
 
