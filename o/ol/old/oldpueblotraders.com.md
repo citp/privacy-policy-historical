@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the oldpueblotraders.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014231113id_/http%3A//www.oldpueblotraders.com/pagebuilder/Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldpueblotraders.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609190528id_/http%3A//www.oldpueblotraders.com/pagebuilder/Security) for the most accurate reproduction.*
 
 # Old Pueblo Traders: Security Policy
 
-[](https://web.archive.org/web/20021014231113id_/http%3A//www.oldpueblotraders.com/pagebuilder/HOME)
+[](https://web.archive.org/web/20030609190528id_/http%3A//www.oldpueblotraders.com/pagebuilder/HOME)
 
-|  |  |   
----|---|---  
-|  | [](https://web.archive.org/web/20021014231113id_/http%3A//www.oldpueblotraders.com/pagebuilder/QuickOrder) | [](https://web.archive.org/web/20021014231113id_/http%3A//www.oldpueblotraders.com/pagebuilder/Contact) | [](https://web.archive.org/web/20021014231113id_/http%3A//www.oldpueblotraders.com/pagebuilder/Security) | [](https://web.archive.org/web/20021014231113id_/http%3A//www.oldpueblotraders.com/pagebuilder/CatReq) | [](https://web.archive.org/web/20021014231113id_/http%3A//www.oldpueblotraders.com/pagebuilder/ShopCart) | [](https://web.archive.org/web/20021014231113id_/http%3A//www.oldpueblotraders.com/pagebuilder/ShopCart) | [](https://web.archive.org/web/20021014231113id_/http%3A//www.oldpueblotraders.com/pagebuilder/HOME) | [](http://outlet.oldpueblotraders.com/pagebuilder/)  
+| [](https://web.archive.org/web/20030609190528id_/http%3A//www.oldpueblotraders.com/pagebuilder/QuickOrder) |  |  | [](https://web.archive.org/web/20030609190528id_/http%3A//www.oldpueblotraders.com/pagebuilder/HOME) | [](https://web.archive.org/web/20030609190528id_/http%3A//www.oldpueblotraders.com/pagebuilder/CatReq) | [](https://web.archive.org/web/20030609190528id_/http%3A//www.oldpueblotraders.com/pagebuilder/OrderInquiry) | [](https://web.archive.org/web/20030609190528id_/http%3A//www.oldpueblotraders.com/pagebuilder/CreditInquiry) | [](https://web.archive.org/web/20030609190528id_/http%3A//www.oldpueblotraders.com/pagebuilder/ShopCart) | [](https://web.archive.org/web/20030609190528id_/http%3A//www.oldpueblotraders.com/pagebuilder/ShopCart) | [](http://outlet.oldpueblotraders.com/pagebuilder/) |   
+---|---|---|---|---|---|---|---|---|---|---  
 |  |  |  | 
 
 | 
@@ -29,7 +28,7 @@ What do I do if I have reservations about ordering electronically?**
 ---|---  
 A: | You can shop at our website with the same confidence you shop from our catalogs, knowing that we are fully committed to protecting your privacy. We are so serious about this issue, every Old Pueblo Traders® employee, agent and contractor is bound to follow and enforce the privacy guidelines we outline here. 
 
-In this policy statement we will explain what information we collect from you, as well as how and why we collect it, and how we may use it. If you have a question about any part of this policy, e-mail us at [privacyandsecurity@oldpueblotraders.com](mailto:privacyandsecurity@oldpueblotraders.com), telephone toll-free 1-800-362-8410; or write to Old Pueblo Traders®, Dept. ML, P.O. Box 27800, Tucson, Arizona 85726-7800. Please include your name, address, and customer number (if you have one) when you [contact us](https://web.archive.org/web/20021014231113id_/http%3A//www.oldpueblotraders.com/pagebuilder/Contact).   
+In this policy statement we will explain what information we collect from you, as well as how and why we collect it, and how we may use it. If you have a question about any part of this policy, e-mail us at [privacyandsecurity@oldpueblotraders.com](mailto:privacyandsecurity@oldpueblotraders.com), telephone toll-free 1-800-362-8410; or write to Old Pueblo Traders®, Dept. ML, P.O. Box 27800, Tucson, Arizona 85726-7800. Please include your name, address, and customer number (if you have one) when you [contact us](https://web.archive.org/web/20030609190528id_/http%3A//www.oldpueblotraders.com/pagebuilder/Contact).   
   
 **Q:** | **What information do you collect when I visit your website?**  
 A: | We gather data about your web browser and the pages you choose to visit. This information is used as a part of our ongoing efforts to improve your shopping experience. We do not collect or store any personal information during this process. 
@@ -56,7 +55,7 @@ A: | Yes, we do use encryption when your information is sent from your computer 
 **Q:** | **Do you use cookies and what are they?**  
 A: | Yes, we do use cookies. A "cookie" is a bit of data that our computer sends to your browser, to assist us as we take your order. These cookies are sent to your computer once you decide to order from us. After you have completed the ordering process and sent the order to us, we erase the cookie.  
 **Q:** | **What do I do if I have reservations about ordering electronically?**  
-A: | If you still have reservations about ordering electronically, our friendly Customer Service Representatives are standing by 24 hours a day, seven days a week, to take your order. To call us, please follow the instructions contained within our [contact us](https://web.archive.org/web/20021014231113id_/http%3A//www.oldpueblotraders.com/pagebuilder/Contact) document.  
+A: | If you still have reservations about ordering electronically, our friendly Customer Service Representatives are standing by 24 hours a day, seven days a week, to take your order. To call us, please follow the instructions contained within our [contact us](https://web.archive.org/web/20030609190528id_/http%3A//www.oldpueblotraders.com/pagebuilder/Contact) document.  
   
   
-© 2002, Arizona Mail Order Company, Inc. since 1946
+© 2003, Arizona Mail Order Company, Inc. since 1946
