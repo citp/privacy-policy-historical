@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ippmedia.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603003642id_/http%3A//ippmedia.com/ipp/content/pstatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ippmedia.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206174124id_/http%3A//ippmedia.com/ipp/content/pstatement.html) for the most accurate reproduction.*
 
 # -Ippmedia Privacy statement-
 
