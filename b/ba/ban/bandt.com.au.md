@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bandt.com.au privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801102434id_/http%3A//www.bandt.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandt.com.au privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401224849id_/http%3A//www.bandt.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
-# B&T: Privacy Policy
+# B&T : Privacy Policy
 
 Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which takes effect in December 2001.
 
