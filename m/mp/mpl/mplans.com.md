@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mplans.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601150910id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mplans.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206034851id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
 
 # Business Plan Software and Sample Business Plans
 
