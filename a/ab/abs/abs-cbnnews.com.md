@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the abs-cbnnews.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201224300id_/http%3A//www.abs-cbnnews.com/abs/faq.nsf/nfplookup/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs-cbnnews.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604181023id_/http%3A//www.abs-cbnnews.com/abs/faq.nsf/nfplookup/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # abs-cbnNEWS.com | F.A.Q. - Privacy Policy
 
-  
-[](http://www.abs-cbn.com/)   
-[](http://www.pinoycentral.com/)   
 |  |  |  |  Privacy Policy
 
 ABS-CBN requires that users supply personal information, including e-mail addresses, during the registration process for subscription to the site or services offered in this site. However, ABS-CBN does not obligate such individuals to supply other personally identifiable information.
@@ -29,7 +26,10 @@ The foregoing policies are effective as of November 23, 1998. ABS-CBN reserves t
 
 |  |  |  |    
   
-  
+
+
+[](http://uw1.pinoycentral.com/cgi-bin/pc.dll/premiumsubs/abs_subs_frontdoor.jsp)
+
   
   
 |  |  | 
