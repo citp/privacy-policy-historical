@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406042630id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209003603id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
 
 # Online-Education.net - Privacy Statement & Policy
 
@@ -27,7 +27,7 @@ In some areas of this site, you will be asked to provide information that will u
 
 Online-Education.net, San Marcos, Texas 78666, [info@online-education.net](mailto:info@online-education.net)
 
-[online education](http://www.online-education.net/ "Online Education") | [find a school](https://web.archive.org/web/20040406042630id_/http%3A//www.online-education.net/find.html "Find online Education") | [search by location](https://web.archive.org/web/20040406042630id_/http%3A//www.online-education.net/location.html "Online Education by Location") | [category search](https://web.archive.org/web/20040406042630id_/http%3A//www.online-education.net/category.html "Online Education Courses") | [contact us](https://web.archive.org/web/20040406042630id_/http%3A//www.online-education.net/contact_us.html "Contact Us") |[ suggest a school](mailto:info@online-education.net) | [site map](https://web.archive.org/web/20040406042630id_/http%3A//www.online-education.net/site_map.html "Online Education Directory") | [articles / news](https://web.archive.org/web/20040406042630id_/http%3A//www.online-education.net/links_articles.html "Online Education Article & News") | [website optimization](http://www.kinghits.com/ "Website Optimization") | [advertise](https://web.archive.org/web/20040406042630id_/http%3A//www.online-education.net/advertise.html "Online Education Advertise") | [online college accreditation](https://web.archive.org/web/20040406042630id_/http%3A//www.online-education.net/online-accreditation.html "Online College Accreditation") | [privacy statement](https://web.archive.org/web/20040406042630id_/http%3A//www.online-education.net/privacy.html "Privacy Statement")
+[online education](http://www.online-education.net/ "Online Education") | [find a school](https://web.archive.org/web/20041209003603id_/http%3A//www.online-education.net/find.html "Find online Education") | [search by location](https://web.archive.org/web/20041209003603id_/http%3A//www.online-education.net/location.html "Online Education by Location") | [category search](https://web.archive.org/web/20041209003603id_/http%3A//www.online-education.net/category.html "Online Education Courses") | [contact us](https://web.archive.org/web/20041209003603id_/http%3A//www.online-education.net/contact_us.html "Contact Us") |[ suggest a school](mailto:info@online-education.net) | [site map](https://web.archive.org/web/20041209003603id_/http%3A//www.online-education.net/site_map.html "Online Education Directory") | [articles / news](https://web.archive.org/web/20041209003603id_/http%3A//www.online-education.net/links_articles.html "Online Education Article & News") | [advertise](https://web.archive.org/web/20041209003603id_/http%3A//www.online-education.net/advertise.html "Online Education Advertise") | [online college accreditation](https://web.archive.org/web/20041209003603id_/http%3A//www.online-education.net/online-accreditation.html "Online College Accreditation") | [privacy statement](https://web.archive.org/web/20041209003603id_/http%3A//www.online-education.net/privacy.html "Privacy Statement")
 
 © Copyright 2002-03 Online-Education.net
 
@@ -35,8 +35,8 @@ Online-Education.net, San Marcos, Texas 78666, [info@online-education.net](mailt
 
 At AIU Online, you Earn your degree online at your convenience - virtually anywhere, any time of day, seven days a week. AIU has been giving students a strong quality education for over 30 years. Join the tradition!
 
-[Request Information](https://web.archive.org/web/20040406042630id_/http%3A//www.online-education.net/redirects/outbound.pl?http://www.affiliatefuel.com/c/c?b=14181&h=7467&sh=307358)
+[Request Information](https://web.archive.org/web/20041209003603id_/http%3A//www.online-education.net/redirects/outbound.pl?http://www.affiliatefuel.com/c/c?b=14181&h=7467&sh=307358)
 
 **_University of Phoenix Online_** a true innovator in distance education, allows students to earn their degrees and advance their careers - all online.
 
-[Request Information](http://ilatpa.com/clk/dieschtewagaftat)
+[Request Information](http://collegeanduniversity.net/Main/RequestInfo.cfm?AffID=108&CollegeID=239)
