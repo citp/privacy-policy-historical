@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usa.edu privacy policy that was archived on 2000-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000530042032id_/http%3A//www.usa.edu/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa.edu privacy policy that was archived on 2001-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010219102041id_/http%3A//usa.edu/privacy_policy.htm) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
