@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hp.com privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218060200id_/http%3A//hp.com/country/us/eng/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hp.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409080844id_/http%3A//www.hp.com/Redirect/gw/useng_welcome/privacy/%3D/country/us/eng/privacy.htm) for the most accurate reproduction.*
 
 # Hewlett-Packard Privacy Policy
 
-HP and its subsidiaries are committed to respecting and protecting your privacy. We've structured our web sites so that, in general, you can visit HP on the Web without identifying yourself or revealing any personal information. HP is a founding sponsor of the BBBOnLine Privacy Program, the 'gold standard' for Privacy certification. We proudly display the BBBOnLine Privacy Seal.
+HP and its subsidiaries are committed to respecting and protecting your privacy. We've structured our web sites so that, in general, you can visit HP on the Web without identifying yourself or revealing any personal information. HP is a founding sponsor of the BBBOnLine Privacy Program, the 'gold standard' for Privacy certification. We proudly display the BBBOnLine Privacy Seal. HP privacy practices are certified as Safe Harbor compliant by the U.S. Department of Commerce.
 
 Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with HP. On the ecardfile.com business card e-service, personal information you provide is considered publicly available over the Internet, unless you choose otherwise in your ecardfile.com member profile. This statement is not applicable to [ www.myapollo.com](http://www.myapollo.com/) and [ www.dazel.com](http://www.dazel.com/), which maintain their own Privacy Statements. 
 
@@ -18,7 +18,7 @@ On some HP web sites, you can order products or services, make requests, and reg
 
 In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, demographics, experience with our products, and more detailed contact preferences. Some electronic newsletters record anonymous data about articles you have expressed interest in. 
 
-Some HP.com web pages use cookies, a data analysis technique. To learn more, click here. [How HP uses cookies.](https://web.archive.org/web/20001218060200id_/http%3A//hp.com/country/us/eng/privacy.htm#cookies)
+Some HP.com web pages use cookies, a data analysis technique. To learn more, click here. [How HP uses cookies.](https://web.archive.org/web/20010413043339id_/http://www.hp.com/country/us/eng/privacy.htm#cookies)
 
 **How we use it**
 
@@ -66,4 +66,4 @@ A few HP.com web sites use temporary cookies as part of the customer web navigat
 
 Overall, cookies help us give you a better web site to use, by letting us monitor what's working and what isn't through site traffic analysis. HP wants to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data you chose to share with us. This practice is strictly enforced. We know that a lot of people have concerns about cookies, but in talking with many of our customers, we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers, so we respect these concerns. HP works to continuously improve the HP.com web experience and personal data privacy policy and practices. 
 
-You may set your web browser (MicroSoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contains cookies; those files are stored as part of your internet browser. 
+You may set your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contains cookies; those files are stored as part of your internet browser. 
