@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the up.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402093411id_/http%3A//www.up.com/uprr/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204115552id_/http%3A//www.up.com/uprr/info/privacy.shtml) for the most accurate reproduction.*
 
 # UP-Web site Privacy Policy
 
@@ -35,12 +35,12 @@ Social Security Numbers and/or Credit Card Numbers submitted to us as part of an
 top
 
 Registered User Access  
-Customers who have registered to access secured information and applications agree to abide by the confidentiality guidelines and policies of UP's [Web Site Security Policy](https://web.archive.org/web/20040405003008id_/http://www.uprr.com/info/security.shtml). 
+Customers who have registered to access secured information and applications agree to abide by the confidentiality guidelines and policies of UP's [Web Site Security Policy](https://web.archive.org/web/20041204181753id_/http://www.uprr.com/info/security.shtml). 
 
 top
 
 Links to Other Sites  
-UP provides links to its parent company, the Union Pacific Corporation, as well as its [ subsidiaries](https://web.archive.org/web/20040405003008id_/http://www.uprr.com/info/subsid.shtml). We also link to a number of third-party external sites. The inclusion of any link does not imply UP endorsement of the external site company, its Web site, or the products and services it promotes or sells. When you leave the UP site to visit one of these linked sites, the only information transferred to the third party is the fact that you came from UPRR.com (the "refer address"). 
+UP provides links to its parent company, the Union Pacific Corporation, as well as its [ subsidiaries](https://web.archive.org/web/20041204181753id_/http://www.uprr.com/info/subsid.shtml). We also link to a number of third-party external sites. The inclusion of any link does not imply UP endorsement of the external site company, its Web site, or the products and services it promotes or sells. When you leave the UP site to visit one of these linked sites, the only information transferred to the third party is the fact that you came from UPRR.com (the "refer address"). 
 
 UP is not responsible or liable for the independent privacy policies of these third party sites. You should consult the privacy policies at these sites to determine how your information may be used.
 
