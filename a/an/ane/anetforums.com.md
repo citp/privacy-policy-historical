@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anetforums.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408230747id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anetforums.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004221228id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -13,6 +13,8 @@ AskAW
 DirectX  
   
 ActiveDVD  
+  
+ActiveGaming  
   
 Forums  
   
@@ -40,6 +42,8 @@ Windows/Microsoft
   
 DVD  
   
+Gaming  
+  
 Hardware  
   
 Xbox  
@@ -61,8 +65,6 @@ Announced Titles
 Screenshots/Videos  
   
 History Of The Xbox  
-  
-Press Releases  
   
 Links  
   
@@ -210,7 +212,7 @@ Awards
   
 ** Credits**  
 ©1997/2002, Active Network. All Rights Reserved.  
-Layout, Concept & Design by [Byron Hinson](http://www.activewin.com/byron). Content written by the Active Network team. Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
+Layout, Concept & Design by [Designer Dream](http://www.designerdream.co.uk/). Content written by the Active Network team. Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
   
   |  |   | 
 
