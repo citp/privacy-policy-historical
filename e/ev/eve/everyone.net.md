@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyone.net privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217201126id_/http%3A//www.everyone.net/main/html/p_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyone.net privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408220018id_/http%3A//www.everyone.net/p_policy.html) for the most accurate reproduction.*
 
 # Email for you, your family, your group, or your business
 
@@ -40,7 +40,7 @@ We use SSL (Secure Socket Layer) encryption to secure personal identification. I
 
    **How You Can Access or Update Your Information**
 
-  **Clients** can access their personally identifiable information that Everyone.net collects online and maintains by logging in to their password-protected (SSL encrypted) Control Center account at [http://www.everyone.net](https://web.archive.org/web/20011217201126id_/http%3A//www.everyone.net/main/html/index.html) and selecting "Edit My Profile." **End-Users** can access their information by logging in to their password-protected End-User account and selecting to update their "Personal Info." End-Users and Clients can also correct factual errors in their personally identifiable information by sending us a written request that credibly documents and explains the error.
+  **Clients** can access their personally identifiable information that Everyone.net collects online and maintains by logging in to their password-protected (SSL encrypted) Control Center account at [http://www.everyone.net](https://web.archive.org/web/20020408220018id_/http%3A//www.everyone.net/index.html) and selecting "Edit My Profile." **End-Users** can access their information by logging in to their password-protected End-User account and selecting to update their "Personal Info." End-Users and Clients can also correct factual errors in their personally identifiable information by sending us a written request that credibly documents and explains the error.
 
   If you have submitted information on our site but do not currently have an account with us, you can access and correct the information that we collect and maintain by contacting us and requesting such information or correction.
 
@@ -52,12 +52,14 @@ We use SSL (Secure Socket Layer) encryption to secure personal identification. I
 
   **Email, Search, and Community Specific Terms and Conditions**
 
-  Everyone.net considers email transmitted via our service to be private correspondence between the sender and recipient. Therefore, we will not monitor, edit or disclose the contents of your private communications, except for reasons provided for in the [End-User Agreement](https://web.archive.org/web/20011217201126id_/http%3A//www.everyone.net/main/html/agreement_enduser.html).
+  Everyone.net considers email transmitted via our service to be private correspondence between the sender and recipient. Therefore, we will not monitor, edit or disclose the contents of your private communications, except for reasons provided for in the [End-User Agreement](https://web.archive.org/web/20020408220018id_/http%3A//www.everyone.net/agreement_enduser.html).
 
   Content posted to public community areas is publicly available, and Everyone.net reserves the right to remove any publicly posted content that it deems to be objectionable.
 
   **Advertising Sales Specific Terms and Conditions**
 
-  Everyone.net works with third parties that serve ads to our network of sites. These third parties may use the demographic and/or behavioral data provided by Clients to deliver relevant, targeted advertisements to the Clients' sites. This demographic and behavioral data is obtained and maintained in a manner such that no connection can be drawn between the profiles supplied to the third parties and the End-User's personally identifiable information.
+  We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel . gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
+
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
 
   For more information on how Engage Media manages the privacy of information in conjunction with serving ads on our network, please visit [http://www.engage.com/privacy](http://www.engage.com/privacy/). For more information on how DoubleClick manages the privacy of information in conjunction with serving ads on our network, please visit <http://www.doubleclick.net:8080/privacy_policy>. For more information on how Advertising.com manages the privacy of information in conjunction with serving ads on our network, please visit <http://www.advertising.com/privacy/index.html>.
