@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sylvania.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207015400id_/http%3A//www.sylvania.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sylvania.com privacy policy that was archived on 2001-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010401052550id_/http%3A//www.sylvania.com/privacy.htm) for the most accurate reproduction.*
 
 # OSRAM SYLVANIA - Privacy Statement
 
