@@ -1,33 +1,20 @@
-> *The following text is extracted and transformed from the nationmedia.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021131856id_/http%3A//www.nationmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationmedia.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210025819id_/http%3A//www.nationmedia.com/dailynation/privacy.asp) for the most accurate reproduction.*
 
-# Your Privacy
+# Nationmedia.com | Daily Nation
 
-## Your Privacy
+Nationmedia.com may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. Personal information about you as an individual subscriber will not be provided to any third party without your consent, except under the circumstances described in Compliance with Legal Process below.
 
-Your privacy is as important to us, as it is to you!  We have a simple policy -- **not to release any information regarding your account with us to anyone.  
-**   What this means  
----  
   
-When email arrives at service we don't take any action or release any account specific information without authentication first.  The same policy is followed regarding telephone requests for information.
+We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to   
+(1) comply with the law or with legal process;   
+(2) protect and defend our rights and property;   
+(3) protect against misuse or unauthorized use of Nationmedia.com; or   
+(4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
 
-If some third party contacts us and expresses a desire to contact you, we do not release any information -- but just tell them there are public sources of information available.  
+If you so select at registration to receive eNewsletters, Nationmedia.com will periodically send you various types of emails including daily headlines updates and communication regarding your particular interest. Additionally, the email address provided by you at registration may be used by Nationmedia.com to contact you regarding (1) account status (including confirmation of registration), (2) major changes to the website and or to the Subscriber Agreement and Privacy Policy, and (3) participation in user surveys, asking for feedback on the website and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our website, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.
 
-At times, we have had actual subscribers get frustrated with us because we would not respond to a service request until they had authenticated. IMPORTANT \-- if a person does authenticate we assume they have complete authority over the account.
+The E-Mail This Article feature is an easy way for Nationmedia.com users to send articles through email. The e-mail address(es) that you supply to use this service will only be used to send the requested article.
 
- Authentication  
----  
-  
-How do we authenticate ownership? If via E-mail, the message must originate at the one of the contact addresses we have for the account. These were set by you when you established the account, you can check your contact information via your site [control panel](https://web.archive.org/web/20011021131856id_/http%3A//www.nationmedia.com/control-panel.html), make sure it is accurate!
+Except as permitted by this policy, Nationmedia.com does not send unsolicited e-mail.
 
-If phone contact is made, or from some other email address -- we will request the person supply us with either the control panel password for the account, or the FTP password. 
-
-If the person does not know any of this information, we can use billing information.  We will ask the person for either the credit card number used to make payments on the account, or the last check number.
-
-If all this fails, we need a letter claiming ownership, with complete and correct address and phone information.
-
- IMPORTANT  
----  
-  
-Do NOT release authentication information to third parties. If you temporarily do have to give someone password access to your site. When they are done -- change the password info, remove their email address from your contact information.
-
-Let us know if you have any questions!
+Any information you disclose when posting a message in our Discussion Forums becomes public. Please refer to our Terms of Use for more information on expected behavior in the Forum.
