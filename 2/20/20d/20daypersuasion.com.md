@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20daypersuasion.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206203120id_/http%3A//www.20daypersuasion.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20daypersuasion.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404092602id_/http%3A//www.20daypersuasion.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ We also will not, except for reasons stated below, disclose to third parties the
 \- it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by our business and appear to pertain to the commission of a crime.   
 
 
-We disclaim any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Our business will, however, review, delete or block access to communications that may harm our business, its customers or third parties. The grounds on which we may take such action include, but are not limited to, actual or potential violations of our [Terms And Conditions](https://web.archive.org/web/20041206203120id_/http%3A//www.20daypersuasion.com/termsandconditions.html) Policy.   
+We disclaim any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Our business will, however, review, delete or block access to communications that may harm our business, its customers or third parties. The grounds on which we may take such action include, but are not limited to, actual or potential violations of our [Terms And Conditions](https://web.archive.org/web/20050404092602id_/http%3A//www.20daypersuasion.com/termsandconditions.html) Policy.   
 
 
 Purchases  
