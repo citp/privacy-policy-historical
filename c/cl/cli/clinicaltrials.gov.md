@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213432id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207140712id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
 # NLM Privacy Policy
 
@@ -26,5 +26,5 @@ The U.S. Government maintains this site. For site security purposes and to ensur
 
 **Last updated:** 06 May 2004  
 **First published:** 01 January 1993  
-Permanence level **:** Permanent: Stable Content  
+[ **Metadata**](http://www.nlm.nih.gov/cgi/viewMeta.pl?url=http://www.nlm.nih.gov/privacy.html&description=full)| [**Permanence level**](https://web.archive.org/permlevels.html) **:** Permanent: Stable Content  
 
