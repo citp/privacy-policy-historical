@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historic-uk.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206235306id_/http%3A//historic-uk.com/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historic-uk.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404084959id_/http%3A//www.historic-uk.com/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # Historic UK - the heritage of britain accommodation guide - Privacy Statement
 
@@ -33,4 +33,4 @@ Web:  [ www.historic-uk.com](http://www.historic-uk.com/)
   
 Last updated: 25th February 2004
 
-**_[Back](https://web.archive.org/web/20041206235306id_/http%3A//historic-uk.com/index.shtml)_**
+**_[Back](https://web.archive.org/web/20050404084959id_/http%3A//www.historic-uk.com/index.shtml)_**
