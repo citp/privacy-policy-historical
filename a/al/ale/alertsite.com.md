@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816165555id_/http%3A//www.alertsite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606165335id_/http%3A//www.alertsite.com/privacy.html) for the most accurate reproduction.*
 
 # AlertSite.com - The Internet Monitoring Company - Privacy Statement
 
