@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverzone.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209062800id_/http%3A//www.driverzone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverzone.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602080220id_/http%3A//www.driverzone.com/privacy.htm) for the most accurate reproduction.*
 
 # Driverzone.com Privacy Statement
 
@@ -8,11 +8,6 @@ The information you supply to use during the registration process on the message
 For those that prefer even greater privacy, the registration page (and the Personal Profile Editor) allow you to suppress your Email address from being displayed/accessible from within a post that you have made on the message board.
 
 **Driverzone.com** uses reasonable precautions to keep the personal information disclosed to us secure, we do not disclose this information to third parties. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. 
-
-**Driverzone.com** works with a third party that serves ads to this site.  To find out more about how Flycast manages the privacy of information in conjunction  
-with serving ads on this site, please go to  
-<http://www.flycast.com/about_us/about-privacy.html>  
-
 
 **Driverzone.com**   links to 1000's of other sites. We are not responsible for their privacy policies or how they treat information about their users. 
 
