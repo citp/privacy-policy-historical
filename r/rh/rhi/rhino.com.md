@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rhino.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402183128id_/http%3A//www.rhino.com/privacy/RhinoPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhino.com privacy policy that was archived on 2002-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021110132256id_/http%3A//www.rhino.com/privacy/RhinoPrivacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **"Uniform" Time Warner Online Privacy Notice**
 
-Thank you for visiting Rhino.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [**CLICK HERE**](https://web.archive.org/web/20020402183128id_/http%3A//www.rhino.com/privacy/businesses.html) for a list of the Warner Music Group businesses whose sites are governed by this Privacy Notice. 
+Thank you for visiting Rhino.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [**CLICK HERE**](https://web.archive.org/web/20021110132256id_/http%3A//www.rhino.com/privacy/businesses.html) for a list of the Warner Music Group businesses whose sites are governed by this Privacy Notice. 
 
 **The Information We Collect**
 
@@ -32,9 +32,9 @@ Agents and contractors of Time Warner who have access to personally identifiable
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data. 
 
-If a Time Warner site discloses personally identifiable information to companies not owned by Time Warner who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [**CLICK HERE**](https://web.archive.org/web/20020402183128id_/http%3A//www.rhino.com/privacy/OutsideDisclosure.html). 
+If a Time Warner site discloses personally identifiable information to companies not owned by Time Warner who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [**CLICK HERE**](https://web.archive.org/web/20021110132256id_/http%3A//www.rhino.com/privacy/OutsideDisclosure.html). 
 
-Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [**CLICK HERE**](https://web.archive.org/web/20020402183128id_/http%3A//www.rhino.com/privacy/stop.html) for instructions on how to make your request. 
+Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [**CLICK HERE**](https://web.archive.org/web/20021110132256id_/http%3A//www.rhino.com/privacy/stop.html) for instructions on how to make your request. 
 
 Finally, Time Warner sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
@@ -44,7 +44,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 Time Warner sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Warner has no control over the third-party sponsors' use of this information. The Time Warner site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information. 
 
-  [**CLICK HERE**](https://web.archive.org/web/20020402183128id_/http%3A//www.rhino.com/privacy/advertising.html) for our advertisting policy. 
+  [**CLICK HERE**](https://web.archive.org/web/20021110132256id_/http%3A//www.rhino.com/privacy/advertising.html) for our advertisting policy. 
 
 **Cookies**
 
@@ -58,7 +58,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 **How You can Access or Correct Information**
 
-For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please [**CLICK HERE**](https://web.archive.org/web/20020402183128id_/http%3A//www.rhino.com/privacy/personal_info.html). 
+For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please [**CLICK HERE**](https://web.archive.org/web/20021110132256id_/http%3A//www.rhino.com/privacy/personal_info.html). 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  
 
