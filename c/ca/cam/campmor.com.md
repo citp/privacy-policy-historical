@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campmor.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621043758id_/http%3A//campmor.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campmor.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216004500id_/http%3A//www.campmor.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # Campmor.com Privacy Policy
 
@@ -28,7 +28,7 @@ To unsubscribe send an email message to:
 
  **Campmor will never sell, rent or distribute your e-mail address to any other company or organization.**
 
-Once you have ordered from us, or have filled out our [printed catalog request form](https://web.archive.org/web/20000621043758id_/http%3A//campmor.com/html/request.shtml), you will begin to receive our mail order catalog. We mail this catalog seven times a year. We occasionally make our customer list of names and addresses available to carefully screened companies and organizations whose products and activities might be of interest to you. If you prefer not to receive such mailings, please copy your mailing label exactly and mail it to: 
+Once you have ordered from us, or have filled out our [printed catalog request form](https://web.archive.org/web/20001216004500id_/http%3A//www.campmor.com/html/request.shtml), you will begin to receive our mail order catalog. We mail this catalog seven times a year. We occasionally make our customer list of names and addresses available to carefully screened companies and organizations whose products and activities might be of interest to you. If you prefer not to receive such mailings, please copy your mailing label exactly and mail it to: 
 
 > Campmor Mail Preference Service  
 >  P.O. Box 700  
