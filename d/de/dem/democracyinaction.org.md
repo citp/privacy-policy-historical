@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the democracyinaction.org privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620101936id_/http%3A//www.democracyinaction.org/dia/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democracyinaction.org privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206212822id_/http%3A//www.democracyinaction.org/dia/privacy.jsp) for the most accurate reproduction.*
 
-# Democracy In Action
+# Democracy In Action: Technology for the Masses: Affordable Online Campaign Tools and Services
 
  | 
 
