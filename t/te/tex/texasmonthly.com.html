@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the texasmonthly.com privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603225937id_/http%3A//texasmonthly.com/admin/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the texasmonthly.com privacy policy that was archived on 2001-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011204195158id_/http%3A//texasmonthly.com/admin/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd"><html><head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="language" content="en-us">
 <meta name="description" content="Texas Monthly Magazine">
-<meta name="keywords" content="Texas Monthly Magazine Texas Monthly Biz texas table of contents Texas archive texas articles features issue Texas travel Texas business Texas music Texas story departments Texas subscription Texas food bar-b-que bbq steaks">
+<meta name="keywords" content="Texas Monthly Magazine Texas Monthly Biz texas table of contents Texas archive texas articles features issue Texas travel Texas business Texas music Texas story departments columns Texas subscription Texas food bar-b-que bbq steaks">
 <meta name="distribution" content="global">
 <meta name="resource-type" content="document">
-<meta name="language" content="en">
+<link rel="stylesheet" media="screen" href="http://www.texasmonthly.com/style/win.css" type="text/css">
 
 <script language="JavaScript" type="text/javascript">
 <!--
-// BROWSER DETECTION
+// JAVASCRIPT BROWSER DETECTION FOR FLASH
 var os = "";
 var bname = "";
 var bver = 0;
@@ -40,36 +42,14 @@ if (navigator.appName.indexOf("Internet Explorer") != -1) {
     bname = "ie";
 }
 
-// WRITE STYLESHEETS
-if (os == "mac") { // Macintosh
-    if (bver == 5 && bname == "nn") { // Netscape 6
-        document.write('<link rel="stylesheet" media="screen" href="http://www.texasmonthly.com/style/macnn6.css" type="text/css">');
-    }
-    else if (bver == 4 && bname == "ie") { // IE 5
-        document.write('<link rel="stylesheet" media="screen" href="http://www.texasmonthly.com/style/mac96.css" type="text/css">');
-    }
-    else if (bver == 4) { // other v4 browsers 
-        document.write('<link rel="stylesheet" media="screen" href="http://www.texasmonthly.com/style/mac.css" type="text/css">');    
-    }
-} else { // Windows, Unix, etc
-    if (bver == 5 && bname == "nn") { // Netscape 6
-        document.write('<link rel="stylesheet" media="screen" href="http://www.texasmonthly.com/style/winnn6.css" type="text/css">');
-    }
-    if (bver == 4 && bname == "nn") { // Netscape 4
-        document.write('<link rel="stylesheet" media="screen" href="http://www.texasmonthly.com/style/winnn.css" type="text/css">');
-    }
-    else if (bver == 4) { // other v4 browsers 
-        document.write('<link rel="stylesheet" media="screen" href="http://www.texasmonthly.com/style/win.css" type="text/css">');        
-    }
-}
-
-// FLASH DETECTION - must be at least version 4
-var flash4Installed = false;		// boolean. true if flash 4 is installed
+// FLASH DETECTION - must be at least version 5
+// var flash4Installed = false;		// boolean. true if flash 4 is installed
 var flash5Installed = false;		// boolean. true if flash 5 is installed
 var flashmode = 0;
+var minVersion = 5; // minimum version we accept
 var maxVersion = 5; // highest version available
 //-->
-</script><link rel="stylesheet" media="screen" href="http://www.texasmonthly.com/style/winnn6.css" type="text/css">
+</script>
 
 <script language="JavaScript1.1" type="text/javascript">
 <!--
@@ -77,7 +57,7 @@ var maxVersion = 5; // highest version available
 if (bname == "ie" && os == "windows") {
 	document.write('<scr' + 'ipt language=VBScript>\n');
 	document.write('on error resume next\n');
-	document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4")))\n');
+	//document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4")))\n');
 	document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5")))\n');	
 	document.write('<\/scr' + 'ipt>\n'); // break up end tag so it doesn't end our script
 }
@@ -87,7 +67,7 @@ if (bname == "ie" && os == "windows") {
 <script language="JavaScript" type="text/javascript">
 <!--
 function flashDetect() {
-    for (var i = 4; i <= maxVersion; i++) {	
+    for (var i = minVersion; i <= maxVersion; i++) {	
         if (eval("flash" + i + "Installed") == true) flashmode = 1;
     }
 
@@ -101,7 +81,7 @@ function flashDetect() {
 			    }
 			    plugin_version = words[i];
 		    }
-		    if (plugin_version >= 4) {
+		    if (plugin_version >= minVersion) {
                 var plugin = navigator.plugins["Shockwave Flash"];
 			    var numTypes = plugin.length;
 			    for (var j = 0; j < numTypes; j++) {
@@ -110,9 +90,9 @@ function flashDetect() {
 					    if (mimetype.enabledPlugin && (mimetype.suffixes.indexOf("swf") != -1)) {
 						    flashmode = 1;
 				        }
-					    // IE 3 + 4 on Mac do not have a plug-ins array.. sorry
+					    // IE 3 + 4 on Mac do not have a plug-ins array so we'll say they have it!
 					    if (navigator.mimeTypes["application/x-shockwave-flash"] == null) {
-						    flashmode = 0;
+						    flashmode = 1;
 					    }
 				    }
 			    }
@@ -128,12 +108,21 @@ function commentit() {
 }
 
 // our generic small window pop-up
+// requires href property and target ="_top" for non-javascript browsers
 function smallPop() {
     winpopup =
     window.open('','popup','toolbar=0,location=0,directories=0,status=0,scrollbars=yes,resizable=yes,copyhistory=0,width=350,height=400,top=10,left=10');
     if(winpopup.focus) {
         winpopup.focus();
     }
+}
+
+// less generic window pop-up - allows for different sizes
+// 'pure' javascript solution - need link in noscript tags for non-js browsers
+// used for Flash movies Sept 2001
+function flashPop(url,w,h) {
+var windowprops = 'width=' + w + ',height=' + h + ',toolbar=0,location=0,directories=0,status=0,scrollbars=yes,resizable=yes,copyhistory=0';
+popup = window.open(url,'remote',windowprops);
 }
 
 // bizometer popup
@@ -144,82 +133,6 @@ function bizometerPop()
     if(winpopup.focus) {
         winpopup.focus();
     }
-}
-
-// main navigation on every page
-function show_nav() {
-if (document.location.pathname) {
-	var path = document.location.pathname;
-		var mag = path.indexOf('/mag');
-		var cur = path.indexOf('/current');// needed because of http redirect
-		var pub = path.indexOf('/public');// needed because of http redirect
-		var recipes = path.indexOf('/recipes/');
-		var statefare = path.indexOf('/statefare');
-		var recipe = path.indexOf('/recipe');
-		var travel = path.indexOf('/travel');
-		var food = path.indexOf('/food/');
-		var shop = path.indexOf('/shopping/');
-		var mar = path.indexOf('/market/'); // needed because of http redirect
-		var event = path.indexOf('/events/');
-		var rs = path.indexOf('/services/');
-		var comm = path.indexOf('/community/');
-		var tt = path.indexOf('/textalk/');
-		
-		//document.write("<p>" + mag + "<\/p>");
-		//document.write("<p>" + recipes + "<\/p>");
-		
-		if (path == "/index.php" || path == "/") {
-			document.write ('<a href="http://www.texasmonthly.com/index.php" class="navwhite" onMouseOver="this.className=\'navoverwhite\'" onMouseOut="this.className=\'navwhite\'">Home<\/a>&nbsp;&nbsp;&nbsp;');
-		} else {
-			document.write ('<a href="http://www.texasmonthly.com/index.php" class="nav" onMouseOver="this.className=\'navover\'" onMouseOut="this.className=\'nav\'">Home<\/a>&nbsp;&nbsp;&nbsp;');
-		}
-		if ((mag >= 0 || cur >= 0 || pub >=0) && recipes == -1 && statefare == -1 && recipe == -1) {
-		// we are in mag dir but not in recipes or statefare so write white
-		    document.write ('<a href="http://www.texasmonthly.com/mag/issues/2001-06-01/index.php" class="navwhite" onMouseOver="this.className=\'navoverwhite\'" onMouseOut="this.className=\'navwhite\'">Magazine<\/a>&nbsp;&nbsp;&nbsp;');
-		} else {
-		    document.write ('<a href="http://www.texasmonthly.com/mag/issues/2001-06-01/index.php" class="nav" onMouseOver="this.className=\'navover\'" onMouseOut="this.className=\'nav\'">Magazine<\/a>&nbsp;&nbsp;&nbsp;');
-		}
-		if (travel == -1 || travel > 10) { // travel string can appear as article name
-		    document.write ('<a href="http://www.texasmonthly.com/travel/index.php" class="nav" onMouseOver="this.className=\'navover\'" onMouseOut="this.className=\'nav\'">Travel<\/a>&nbsp;&nbsp;&nbsp;');
-		} else {
-		    document.write ('<a href="http://www.texasmonthly.com/travel/index.php" class="navwhite" onMouseOver="this.className=\'navoverwhite\'" onMouseOut="this.className=\'navwhite\'">Travel<\/a>&nbsp;&nbsp;&nbsp;');
-		}
-		if ( (food >= 0) || (recipes >= 0) || (recipe >= 0) || (statefare >= 0) || (food > 10) ) {
-		// food string can appear as article name
-		    document.write ('<a href="http://www.texasmonthly.com/food/index.php" class="navwhite" onMouseOver="this.className=\'navoverwhite\'" onMouseOut="this.className=\'navwhite\'">Food<\/a>&nbsp;&nbsp;&nbsp;');
-		} else {
-		    document.write ('<a href="http://www.texasmonthly.com/food/index.php" class="nav" onMouseOver="this.className=\'navover\'" onMouseOut="this.className=\'nav\'">Food<\/a>&nbsp;&nbsp;&nbsp;');
-		}
-		if (shop >= 0 || mar >= 0) {
-		    document.write ('<a href="http://www.texasmonthly.com/shopping/index.php" class="navwhite" onMouseOver="this.className=\'navoverwhite\'" onMouseOut="this.className=\'navwhite\'">Shopping<\/a>&nbsp;&nbsp;&nbsp;');
-		} else {
-		    document.write ('<a href="http://www.texasmonthly.com/shopping/index.php" class="nav" onMouseOver="this.className=\'navover\'" onMouseOut="this.className=\'nav\'">Shopping<\/a>&nbsp;&nbsp;&nbsp;');
-		}
-		if (event == -1) {
-		    document.write ('<a href="http://www.texasmonthly.com/events/index.php" class="nav" onMouseOver="this.className=\'navover\'" onMouseOut="this.className=\'nav\'">Events&nbsp;&amp;&nbsp;Promotions<\/a>&nbsp;&nbsp;&nbsp;');
-		} else {
-		    document.write ('<a href="http://www.texasmonthly.com/events/index.php" class="navwhite" onMouseOver="this.className=\'navoverwhite\'" onMouseOut="this.className=\'navwhite\'">Events&nbsp;&amp;&nbsp;Promotions<\/a>&nbsp;&nbsp;&nbsp;');
-		}
-		if (rs == -1) {
-		    document.write ('<a href="http://www.texasmonthly.com/services/index.php" class="nav" onMouseOver="this.className=\'navover\'" onMouseOut="this.className=\'nav\'">Reader&nbsp;Services<\/a>&nbsp;&nbsp;&nbsp;');
-		} else {
-		    document.write ('<a href="http://www.texasmonthly.com/services/index.php" class="navwhite" onMouseOver="this.className=\'navoverwhite\'" onMouseOut="this.className=\'navwhite\'">Reader&nbsp;Services<\/a>&nbsp;&nbsp;&nbsp;');
-		}
-		if (comm >= 0 || tt >= 0) {
-		    document.write ('<a href="http://www.texasmonthly.com/textalk/index.php" class="navwhite" onMouseOver="this.className=\'navoverwhite\'" onMouseOut="this.className=\'navwhite\'">Community<\/a>&nbsp;&nbsp;&nbsp;');
-		} else {
-		    document.write ('<a href="http://www.texasmonthly.com/textalk/index.php" class="nav" onMouseOver="this.className=\'navover\'" onMouseOut="this.className=\'nav\'">Community<\/a>&nbsp;&nbsp;&nbsp;');
-		}
-	} else {
-	    document.writeln ('<a href="http://www.texasmonthly.com/index.php">Home<\/a> | ');
-	    document.writeln ('<a href="http://www.texasmonthly.com/mag/issues/2001-06-01/index.php">Magazine<\/a> | ');
-	    document.writeln ('<a href="http://www.texasmonthly.com/travel/index.php">Travel<\/a> | ');
-	    document.writeln ('<a href="http://www.texasmonthly.com/food/index.php">Food<\/a> | ');
-	    document.writeln ('<a href="http://www.texasmonthly.com/shopping/index.php">Shopping<\/a> | ');
-	    document.writeln ('<a href="http://www.texasmonthly.com/events/index.php">Events&nbsp;&amp;&nbsp;Promotions<\/a> | ');
-	    document.writeln ('<a href="http://www.texasmonthly.com/services/index.php">Reader&nbsp;Services<\/a> | ');
-	    document.writeln ('<a href="http://www.texasmonthly.com/textalk/index.php">Community<\/a>');
-	}
 }
 
 function checkData(){
@@ -239,70 +152,53 @@ function checkData(){
 }
 // -->
 </script>
+<!-- privacy.php, /admin/privacy.php -->
 <script language="javascript1.2" type="text/javascript">
 <!--
-var clickURL="http://www.texasmonthly.com/admin/privacy.php?et_sp_id=991610590";
-//-->
-</script><title>Texas Monthly: Privacy Statement</title>
+var clickURL="http://www.texasmonthly.com/admin/privacy.php?et_sp_id=1007495153";
+// -->
+</script>
 <style type="text/css" media="Screen">
 <!--
 .magsmallstyle {color:#666666;}
 -->
 </style>
-<title>Texas Monthly</title>
+<title>Texas Monthly: Privacy Statement</title>
 </head>
 <body bgcolor="#fdfffd" class="bodystyle"><a name="begin"></a><noindex>
-
-<!--this table does not use stylesheets because of problems with NN 4-->
-<!--otherwise remove all spacers and cellspacing/padding/width, set table to class="adcellfull"-->
-<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" bgcolor="#cccccc">
+<table align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#cccccc" width="100%">
 	<tbody><tr>
 		<td colspan="7"><img src="/images/spacer.gif" width="1" height="2" alt=""></td>
 	</tr>
 	<tr valign="middle" align="center">
 		<td><img src="/images/spacer.gif" width="2" height="1" alt=""></td>
-		<td width="120" align="center"><a href="http://www.texasmonthly.com/dbase/phpadsclick.php?bannerID=4"><img src="http://www.texasmonthly.com/dbase/phpadsviewbanner.php?bannerID=4" width="120" height="60" alt="Subscribe Now" border="0"></a></td>
+		<td width="120" align="center"><a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=120x60;tile=1;ord=1331915606?"><img src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=120x60;tile=1;ord=1331915606?" border="0" width="120" height="60"></a></td>
 		<td><img src="/images/spacer.gif" width="4" height="1" alt=""></td>
-		<td width="468" align="center"><a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=468x60;ptile=1;ord=50189656?"><img alt="" src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=468x60;ptile=1;ord=50189656?" border="0" height="60" width="468"></a></td>
+		<td width="468" align="center"><a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=468x60;tile=2;ord=1331915606?"><img src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=468x60;tile=2;ord=1331915606?" border="0" width="468" height="60"></a></td>
 		<td><img src="/images/spacer.gif" width="4" height="1" alt=""></td>
-		<td width="120"><a href="http://www.texasmonthly.com/dbase/phpadsclick.php?bannerID=16"><img src="http://www.texasmonthly.com/dbase/phpadsviewbanner.php?bannerID=16" width="120" height="60" alt="Get Kinky with Texas Monthly" border="0"></a></td>
+		<td width="120"><a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=120x60;tile=3;ord=1331915606?"><img src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=120x60;tile=3;ord=1331915606?" border="0" width="120" height="60"></a></td>
 		<td><img src="/images/spacer.gif" width="2" height="1" alt=""></td>
 	</tr>
 	<tr>
 		<td colspan="7"><img src="/images/spacer.gif" width="1" height="2" alt=""></td>
-	</tr>
+	</tr>	
 </tbody></table>
-
 <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
     <tbody><tr>
-	    <td colspan="5"><img src="/images/spacer.gif" width="1" height="4" alt=""></td>
+	    <td colspan="4"><img src="/images/spacer.gif" width="1" height="4" alt=""></td>
     </tr>
+    <form action="http://search.atomz.com/search/"></form>
     <tr valign="middle">
-	    <td bgcolor="#000000" width="370"><img src="/images/top_strip.jpg" width="370" height="33" border="0" usemap="#m_top_strip_2" alt=""></td>
-<form action="http://search.atomz.com/search/"></form>
+	    <td bgcolor="#000000" width="370" class="fullwidth"><img src="/images/top_strip.jpg" width="370" height="33" border="0" usemap="#m_top_strip_2" alt=""></td>
         <td bgcolor="#000000" align="right">
         <input type="hidden" name="sp-a" value="00020167-sp00000000">
         <input type="text" size="13" name="sp-q" class="magstyle"></td>
-        <td bgcolor="#000000"><input type="submit" value="Site Search" class="magstyle"></td>
-        <td bgcolor="#000000" nowrap="">&nbsp;<a href="/admin/searchtips.php" class="magstylewhite">Advanced Search</a></td>
-		<td bgcolor="#000000" class="fullwidth">&nbsp;</td>
+        <td bgcolor="#000000"><input type="submit" value="Search this site" class="magstyle"></td>
+        <td bgcolor="#000000" nowrap=""><span class="magstylewhite">&nbsp;</span><a href="/admin/searchtips.php" class="magstylewhite">Advanced Search</a><span class="magstylewhite">&nbsp;<br>&nbsp;<a href="/admin/sitemap.php" class="magstylewhite">Site Map</a></span></td>
     </tr>
-	<tr align="center">
-		<td colspan="5" bgcolor="#cc6600">
-<script type="text/javascript" language="Javascript">
-<!--
-show_nav();
-//-->
-</script><a href="http://www.texasmonthly.com/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Home</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/mag/issues/2001-06-01/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Magazine</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/travel/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Travel</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/food/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Food</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/shopping/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Shopping</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/events/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Events&nbsp;&amp;&nbsp;Promotions</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/services/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Reader&nbsp;Services</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/textalk/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Community</a>&nbsp;&nbsp;&nbsp;
-<noscript>
-<a href="http://www.texasmonthly.com/index.php">Home</a> | 
-<a href="http://www.texasmonthly.com/mag/issues/2001-06-01/index.php">Magazine</a> | 
-<a href="http://www.texasmonthly.com/travel/index.php">Travel</a> | 
-<a href="http://www.texasmonthly.com/food/index.php">Food</a> | 
-<a href="http://www.texasmonthly.com/shopping/index.php">Shopping</a> | 
-<a href="http://www.texasmonthly.com/events/index.php">Events&nbsp;&amp;&nbsp;Promotions</a> | 
-<a href="http://www.texasmonthly.com/services/index.php">Reader&nbsp;Services</a> | 
-<a href="http://www.texasmonthly.com/textalk/index.php">Community</a></noscript></td>
+	<tr>
+		<td colspan="4" bgcolor="#cc6600" align="center">
+<a href="http://www.texasmonthly.com/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Home</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/mag/issues/2001-12-01/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Magazine</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/travel/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Travel</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/food/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Food</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/shopping/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Shopping</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/events/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Events&nbsp;&amp;&nbsp;Promotions</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/services/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Reader&nbsp;Services</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/community/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Community</a>&nbsp;&nbsp;&nbsp;</td>
     </tr>
 </tbody></table><!-- end tm logo and nav table -->
 
@@ -317,7 +213,7 @@ show_nav();
 document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7/449/1776/000/button.clickability.com/989/button_1/button.js"><\/script>');
 // -->
 </script><script language="javascript1.2" src="http://a449.g.akamai.net/7/449/1776/000/button.clickability.com/989/button_1/button.js"></script></td>  
-        <td align="right" class="magsmallstyle"><img src="/images/tex_end.gif" alt="" width="10" height="10"> For <a href="/admin/login.php">subscribers only</a> | Subscribers <a href="/admin/login.php">log-in</a> | <a href="/admin/subscribe.php">Free Newsletters</a> | <a href="/admin/sitemap.php">Site Map</a>&nbsp;&nbsp;</td>
+        <td align="right" class="magsmallstyle"><img src="/images/tex_end.gif" alt="" width="10" height="10"> For <a href="/admin/login.php">subscribers only</a> | Subscribers <a href="/admin/login.php">log-in</a> | <a href="/admin/subscribe.php">Free Newsletters</a>&nbsp;&nbsp;</td>
 	</tr>
     <tr>
         <td colspan="2" height="2"><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
@@ -330,6 +226,8 @@ document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7
     </tr>
 </tbody></table>
 </noindex>
+<!--startclickprintinclude-->
+<!--clickprintexcludeimages-->
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tbody><tr valign="top">
         <td width="150"><img src="/images/spacer.gif" width="150" height="1" alt=""></td>
@@ -340,15 +238,23 @@ document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7
         
         <p class="NotesText">TEXAS MONTHLY has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site. This information may be updated or changed without notice.</p>
 <img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
-	    <td rowspan="13"><img src="/images/spacer.gif" width="6" height="1" alt=""></td>
+	<!--startclickprintexclude-->
+			  <td rowspan="13"><img src="/images/spacer.gif" width="6" height="1" alt=""></td>
+			  <td rowspan="13" class="adcell"><img src="/images/spacer.gif" width="2" height="1" alt=""></td>
+			  <td rowspan="13" class="adcell">
+			  <img src="/images/spacer.gif" width="1" height="2" alt=""><br><a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=126x600;tile=4;ord=1331915606?"><img src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=126x600;tile=4;ord=1331915606?" border="0" width="126" height="600"></a><br><img src="/images/spacer.gif" width="1" height="12" alt=""><br><a href="/shopping/txbride/index.php"><img src="http://www.texasmonthly.com/shopping/txbride/126x40.jpg" alt="" width="126" height="40" vspace="2" border="0"></a><br>
+<img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br>
+<a href="/events/ford/part_four/index.htm"><img src="http://www.texasmonthly.com/contest/fordfour/126x40.jpg" alt="" width="126" height="40" vspace="2" border="0"></a><br>
+<img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br>
+<a href="/events/forecast"><img src="http://www.texasmonthly.com/images/plugs/forecast_plug.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
+<img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br>
+<a href="/travel/travel_planner/index.php"><img src="http://www.texasmonthly.com/travel/travel_planner/travel_planner_plug.jpg" alt="" width="126" height="40" vspace="2" border="0"></a><br>
+<img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br>
+<a href="/events/newnext"><img src="http://www.texasmonthly.com/images/plugs/newnextplug.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
+<img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br>
+</td>
     <td rowspan="13" class="adcell"><img src="/images/spacer.gif" width="2" height="1" alt=""></td>
-    <td rowspan="13" class="adcell"><img src="/images/spacer.gif" width="1" height="2" alt=""><br><a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=126x600;ptile=2;ord=50189656?"><img alt="" src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=126x600;ptile=2;ord=50189656?" border="0" height="600" width="126"></a><br><img src="/images/spacer.gif" width="1" height="2" alt=""><br><a href="/events/index.php"><img src="http://www.texasmonthly.com/images/plugs/newnextplug.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
-<img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br><a href="/shopping/domain/index.php"><img src="http://www.texasmonthly.com/shopping/domain/126x40.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
-<img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br><a href="/shopping/hawaii/index.php"><img src="http://www.texasmonthly.com/contest/hawaii/126x40.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
-<img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br><a href="/shopping/learningcurve/index.php"><img src="http://www.texasmonthly.com/shopping/learningcurve/126x40.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
-<img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br><a href="/shopping/greatescapes/index.php"><img src="http://www.texasmonthly.com/shopping/greatescapes/126x40.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
-<img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br></td>
-    <td rowspan="13" class="adcell"><img src="/images/spacer.gif" width="2" height="1" alt=""></td>
+<!--endclickprintexclude-->
     </tr>
     <tr valign="top">
         <td class="lfhedred" align="right">Our Pledge</td>
@@ -374,13 +280,13 @@ document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7
 
 <tr valign="top">
 		<td align="right" class="lfhedred">Co-Branded Sites</td>
-		<td><p class="magstyle">TEXAS MONTHLY has relationships with <b><a href="http://www.hoteldiscounts.com/" target="_blank">Hotel Reservations Network</a></b> and <b><a href="http://www.smartpages.com/" target="_blank">SMARTpages</a></b> whereby these companies may maintain TEXAS MONTHLY co-branded Web sites. TEXAS MONTHLY is not responsible for the privacy practices or the content of these Web sites. Any information collected by these sites is received by our partners. This information may be shared with TEXAS MONTHLY on an aggregate basis. TEXAS MONTHLY receives commissions from these companies.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
+		<td><p class="magstyle">TEXAS MONTHLY has relationships with <!--[[b]][[a href="http://www.hoteldiscounts.com/" target="_blank"]]Hotel Reservations Network[[/a]][[/b]] and--> <b><a href="http://www.smartpages.com/" target="_blank">SMARTpages</a></b> whereby these companies may maintain TEXAS MONTHLY co-branded Web sites. TEXAS MONTHLY is not responsible for the privacy practices or the content of these Web sites. Any information collected by these sites is received by our partners. This information may be shared with TEXAS MONTHLY on an aggregate basis. TEXAS MONTHLY receives commissions from these companies.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
 </tr>
 
 
 <tr valign="top">
 		<td align="right" class="lfhedred">Affiliate Agreements</td>
-		<td><p class="magstyle">TEXAS MONTHLY has affiliate agreements with <b><a href="http://www.amazon.com/" target="_blank">Amazon.com</a></b> and <b><a href="http://www.cooking.com/" target="_blank">Cooking.com</a></b>. TEXAS MONTHLY receives commissions from these companies if you visit their site from ours by clicking on a text link, banner ad, icon, or other advertisement, and purchase a product from them.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
+		<td><p class="magstyle">TEXAS MONTHLY has affiliate agreements with <b><a href="http://www.bookpeople.com/" target="_blank">BookPeople</a></b>. TEXAS MONTHLY receives commissions from BookPeople if you visit their site from ours by clicking on a text link, banner ad, icon, or other advertisement, and purchase a product from them.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
 </tr>
 
 <tr valign="top">
@@ -416,7 +322,7 @@ document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7
 
 <tr valign="top">
 		<td align="right" class="lfhedred"><a name="choice"></a>Choice/Opt-Out</td>
-		<td><p class="magstyle">You'll never receive communications from us without your permission. If you no longer wish to recieve email from us...</p>
+		<td><p class="magstyle">You'll never receive communications from us without your permission. If you no longer wish to receive email from us...</p>
 <ul>
 <li><span class="magstyle">You can send email to <a href="/admin/mailform.php?id=New%20Media%20Department">newmedia@texasmonthly.emmis.com</a></span></li>
 <li><span class="magstyle">You can visit the following URL:<br><a href="/admin/unsubscribe.php">http://www.texasmonthly.com/admin/unsubscribe.php</a></span></li>
@@ -436,19 +342,20 @@ Austin TX<br>
 <a href="/admin/mailform.php?id=Charlie%20Llewellin">cllewellin@texasmonthly.emmis.com</a></p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0">
 </td>
 </tr></tbody></table>
+<!--endclickprintinclude-->
 <noindex>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
 	    <td><img src="/images/spacer.gif" width="1" height="14" alt=""></td>
 	</tr>
 <tr>
-<td class="magsmallstyle"><img src="/images/spacer.gif" width="130" height="1" alt=""><a href="#begin"><img src="/images/arrows/up.gif" alt="" width="13" height="13" border="0"></a>&nbsp;<a href="#begin">to top of page</a></td></tr>
+<td class="magsmallstyle"><img src="/images/spacer.gif" width="160" height="1" alt=""><a href="#begin"><img src="/images/arrows/up.gif" alt="" width="13" height="13" border="0"></a>&nbsp;<a href="#begin">to top of page</a></td></tr>
 <tr>
 <td><img src="/images/spacer.gif" width="1" height="12" alt=""></td>
 </tr>
 	<tr>
 	    <td align="center">
-	        <noscript><td>&nbsp;&nbsp;<a href="/admin/feedback.php">Comment</a></td></noscript><table cellpadding="0" cellspacing="0" border="0">
+	        <noscript><td>&nbsp;&nbsp;<a href="/admin/feedback.php">Contact Us</a></td></noscript><table cellpadding="0" cellspacing="0" border="0">
 	            <tbody><tr>
 	                <td class="magsmallstyle"><a href="/admin/privacy.php">Privacy</a>&nbsp;|&nbsp;<a href="/admin/sitemap.php">Site Map</a>&nbsp;&nbsp;</td>
 <form action="http://search.atomz.com/search/"></form>
@@ -456,7 +363,7 @@ Austin TX<br>
 <input type="hidden" name="sp-a" value="00020167-sp00000000">
 <input type="text" size="13" name="sp-q" class="magstyle"></td>
 	                <td valign="middle">
-<input type="submit" value="Site Search" class="magstyle"></td>
+<input type="submit" value="Search this site" class="magstyle"></td>
 
 <script src="http://www.texasmonthly.com/scripts/comment.js" language="JavaScript" type="text/javascript"></script>
 
@@ -473,20 +380,17 @@ document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7
 		<td><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
 	</tr>
 </tbody></table>
-	
-<!--this table does not use stylesheets because of problems with NN 4-->
-<!--otherwise remove all spacers and cellspacing/padding/width, set table to class-->
 <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" bgcolor="#cccccc">
 	<tbody><tr>
 		<td colspan="7"><img src="/images/spacer.gif" width="1" height="2" alt=""></td>
 	</tr>
 	<tr valign="middle" align="center">
 		<td><img src="/images/spacer.gif" width="2" height="1" alt=""></td>
-		<td width="120" align="center"><a href="http://www.texasmonthly.com/dbase/phpadsclick.php?bannerID=11"><img src="http://www.texasmonthly.com/dbase/phpadsviewbanner.php?bannerID=11" width="120" height="60" alt="Texas Crime Chronicles" border="0"></a></td>
+		<td width="120" align="center"><a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=120x60;tile=5;ord=1331915606?"><img src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=120x60;tile=5;ord=1331915606?" border="0" width="120" height="60"></a></td>
 		<td><img src="/images/spacer.gif" width="4" height="1" alt=""></td>
-		<td width="468" align="center"><a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=468x60;ptile=3;ord=50189656?"><img alt="" src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=468x60;ptile=3;ord=50189656?" border="0" height="60" width="468"></a></td>
+		<td width="468" align="center"><a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=468x60;tile=6;ord=1331915606?"><img src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=468x60;tile=6;ord=1331915606?" border="0" width="468" height="60"></a></td>
 		<td><img src="/images/spacer.gif" width="4" height="1" alt=""></td>
-		<td width="120"><a href="http://www.texasmonthly.com/dbase/phpadsclick.php?bannerID=16"><img src="http://www.texasmonthly.com/dbase/phpadsviewbanner.php?bannerID=16" width="120" height="60" alt="Get Kinky with Texas Monthly" border="0"></a></td>
+		<td width="120"><a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=120x60;tile=7;ord=1331915606?"><img src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=120x60;tile=7;ord=1331915606?" border="0" width="120" height="60"></a></td>
 		<td><img src="/images/spacer.gif" width="2" height="1" alt=""></td>
 	</tr>
 	<tr>
@@ -504,16 +408,12 @@ document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7
 	    <a href="/mag/index.php">Media Relations</a> | 
 	    <a href="/mag/index.php">Rights and Permissions</a> | 
 	    <a href="/admin/jobs.php">Employment</a> | 
-	    <a href="https://commerce.cdsfulfillment.com/TXM/subscriptions.cgi">Subscribe</a></td>
+	    <a href="https://commerce.cdsfulfillment.com/TXM/subscriptions.cgi">Subscribe</a> | 
+        <a href="/admin/advertising.php">Advertise</a></td>
 	</tr>
 </tbody></table>
-<script language="JavaScript1.2" type="text/javascript">
-<!--
-document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7/449/1776/000/button.clickability.com/989/layer.js"><\/script>');
-// -->
-</script><script language="javascript1.2" src="http://a449.g.akamai.net/7/449/1776/000/button.clickability.com/989/layer.js"></script>
 </noindex>
-<!--empty-->
+
 
 <map name="m_top_strip_2" id="m_top_strip_2">
 <area shape="rect" alt="" coords="-1,0,133,33" href="/index.php">
