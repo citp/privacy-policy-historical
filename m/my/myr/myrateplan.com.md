@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrateplan.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075915id_/http%3A//myrateplan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrateplan.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603224816id_/http%3A//www.myrateplan.com/privacy.php) for the most accurate reproduction.*
 
 # MyRatePlan.com - (Privacy Policy)
 
