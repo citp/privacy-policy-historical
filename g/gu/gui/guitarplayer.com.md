@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guitarplayer.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624074649id_/http%3A//www.guitarplayer.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarplayer.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205003710id_/http%3A//guitarplayer.com/privacy.htm) for the most accurate reproduction.*
 
-# Guitar Player Magazine
+# Guitar Player Magazine - Privacy Policy
 
   
 GuitarPlayer.com is a United Entertainment Media Website. 
