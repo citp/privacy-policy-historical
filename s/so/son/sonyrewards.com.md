@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sonyrewards.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603233009id_/http%3A//www.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyrewards.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205102636id_/http%3A//www.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy – SEL Draft dz08-08
+# Privacy Policy – SEL
 
 #### **__**
 
@@ -10,7 +10,7 @@
 
                                                                                                 Effective:          June 21, 2001
 
-                                                                                                Last Update:             June 3, 2002
+                                                                                                Last Update:     June  3, 2002
 
 ### **Your Privacy**
 
@@ -26,9 +26,9 @@ When you visit SEL’s Web sites or advertisements appearing thereon, or use one
 
 SEL may also itself use, or engage third parties to use, Web beacons for researching certain usage and activities on our Web site.  The information collected by SEL or requested from third parties through these Web beacons  is in an aggregate, non-individually identifiable form and is used to find out more about users including demographic information and usage patterns for more accurate reporting and to improve the effectiveness of our marketing.
 
- SEL may ask you to provide “personal information”, meaning individually identifiable information such as your email address, name, mailing address, telephone number, social security number, credit card number, or persistent identifier (such as a customer number held in a cookie) which is associated with individually identifiable information, to enable you to participate in contests, chat rooms, on bulletin boards, to fill out a registration, or to order products and services using these sites.    SEL may combine the information you provide on our Web sites with information we may collect offline from you or from third parties so that we can more effectively tailor our site, services and offerings to you.                
+ SEL may ask you to provide "personal information", meaning individually identifiable information such as your email address, name, mailing address, telephone number, social security number, credit card number, or persistent identifier (such as a customer number held in a cookie) which is associated with individually identifiable information, to enable you to participate in contests, chat rooms, on bulletin boards, to fill out a registration, or to order products and services using these sites.    SEL may combine the information you provide on our Web sites with information we may collect offline from you or from third parties so that we can more effectively tailor our site, services and offerings to you.                
 
-  ** _SEL will not share the personal information you provide on the SEL Web sites with any other parties_** , **_except_** (a) to other affiliated Sony companies (i.e., (i) Sony Corporation, (ii) any company of which more than 50% of its outstanding shares are owned by Sony Corporation, directly or indirectly, and (iii) any company with the name “SONY” as a part of its trade name) who may want to contact you about products, services or other offerings that may be of interest to you (SEL and such affiliates being collectively referred to as “Sony”), (b) with your consent (see paragraph below), (c) as may be required by law or court order, (d) to persons or companies with whom SEL engages to carry out or provide support for the operations of the site or our business, or (e) under exigent circumstances to protect the personal safety or property of our users, the public or ourselves. 
+  ** _SEL will not share the personal information you provide on the SEL Web sites with any other parties_** , **_except_** (a) to other affiliated Sony companies (i.e., (i) Sony Corporation, (ii) any company of which more than 50% of its outstanding shares are owned by Sony Corporation, directly or indirectly, and (iii) any company with the name “SONY as a part of its trade name) who may want to contact you about products, services or other offerings that may be of interest to you (SEL and such affiliates being collectively referred to as “Sony”), (b) with your consent (see paragraph below), (c) as may be required by law or court order, (d) to persons or companies with whom SEL engages to carry out or provide support for the operations of the site or our business, or (e) under exigent circumstances to protect the personal safety or property of our users, the public or ourselves. 
 
 **_Unless you instruct us otherwise_** , SEL may contact you to provide information about products, services, promotions, contests, or other activities or offerings that may be of interest to you. You can instruct us whether or not you wish to be contacted by checking or unchecking the box indicating your preference, as applicable, at the place where your information is collected, or by clicking   [here](http://www.sel.sony.com/SEL/legal/choice.html)   and providing the requested information.   In addition, with each communication you receive from SEL, you will be given the opportunity to indicate if you do not wish to receive future communications from that company.
 
