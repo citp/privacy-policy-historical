@@ -1,16 +1,26 @@
-> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604010513id_/http%3A//nowtv.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210101814id_/http%3A//www.nowtv.com/privacy.htm) for the most accurate reproduction.*
 
-# NowTV Privacy Policy
+# NowTV - Privacy Policy
 
-To return, please click the back button on your browser.
+### NowTV, Inc. Privacy Policy
 
-### NowTV Privacy Policy
+Personal Information  
+* NowTV does not disclose personal registration information (name, email address, etc.) to outside parties (We won't sell your name to marketers, for example). 
 
-NowTV never makes personal information available to any outside parties. For example, if you add your name to our email list, this is only used to update you cancerning NowTV. Your email address is never given or sold to anyone else. If you added your email address to our list and now want to remove it, just send us an email.
+Aggregate Data  
+* NowTV, Inc. may disclose aggregate information (example: 55% of users under 35 ). It is expected that this information would be collected by voluntary survey. 
 
-NowTV works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+Contact  
+* NowTV will not contact users with advertising (ours or anyone elses), unless user has asked to be contacted with such information.  
+* If user has a subscription, NowTV may contact user in regards to any problems with that subscription (technical problem, payment problem, etc.). 
+
+Cookies  
+* NowTV does not use cookies. 
+
+Advertisers  
+* Advertisers whose ads run on NowTV may have their own privacy policies. 
 
 * * *
 
-  
-[skrenek@NowTV.com](mailto:skrenek@NowTV.com)
+[Home](https://web.archive.org/web/20021210101814id_/http%3A//www.nowtv.com/index.htm)  
+[skrenek@NowTV.com](mailto:%20skrenek@NowTV.com) Copyright 2002, **NowTV, Inc.**
