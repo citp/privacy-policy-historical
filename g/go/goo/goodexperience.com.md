@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodexperience.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204194100id_/http%3A//www.goodexperience.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodexperience.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206100048id_/http%3A//www.goodexperience.com/about/privacy.html) for the most accurate reproduction.*
 
 # goodexperience.com - customer experience, user experience
 
@@ -40,4 +40,4 @@ Good Experience and goodexperience.com are owned by and exclusive trademarks of 
 
 Get e-mail updates of goodexperience.com: e-mail [update@goodexperience.com](mailto:update@goodexperience.com)
 
-Copyright 1999-2002, Good Experience, Inc. and Mark Hurst. 
+Copyright 1999-2003, Good Experience, Inc. 
