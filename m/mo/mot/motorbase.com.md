@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the motorbase.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208162853id_/http%3A//www.motorbase.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorbase.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602065521id_/http%3A//www.motorbase.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - Motorbase
 
   
 |   
 |  |   
-|  |   
-  
----|---|---  
-  
 |   
   
 ---|---  
@@ -31,7 +27,7 @@ Contribute  |
 [Suggest a club](http://www.motorbase.com/submit/club.ehtml)  
 [Suggest a supplier](http://www.motorbase.com/submit/club.ehtml)  
 [Submit a picture](http://www.motorbase.com/submit/upload.ehtml)  
-[Place a classified ad](http://classifieds.motorbase.com/placead.ehtml)  
+[Place a classified ad](http://classifieds.motorbase.com/placead.ehtml?o=1850876091)  
   
 |   
   
@@ -41,10 +37,8 @@ Site Details  |
 [About Motorbase](http://www.motorbase.com/about/index.html)  
 [Contact Details](http://www.motorbase.com/about/contact.html)  
 [History of the Site](http://www.motorbase.com/about/history.html)  
-[The Motorbase Team](http://www.motorbase.com/about/team.html)  
-[Advertising](http://www.motorbase.com/about/advertise.html)  
-[Employment](http://www.motorbase.com/about/employment.html)  
 [Privacy Policy](http://www.motorbase.com/privacy/index.html)  
+[](http://www.russellsharpe.co.uk/)  
   
 |   
 |   
