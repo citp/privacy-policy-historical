@@ -1,92 +1,39 @@
-> *The following text is extracted and transformed from the ksrevenue.org privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksrevenue.org privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410190726id_/http%3A//www.ksrevenue.org/privacy.htm) for the most accurate reproduction.*
 
-# KDOR Privacy Statement
+# Kansas Department of Revenue - Privacy Statement
 
-|  |  |  |  |  |  |  |  |  |   
----|---|---|---|---|---|---|---|---|---  
-[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/taxpage.html) |  |  |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/pilrd.html) |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/dmv/) |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/ecommerce.html) |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/faq.html) |  |  |  |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/pvd/) |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/abc/)  
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/search.html) |  |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/comment-form.html) |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/taxresource.html) |  |  |  |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[]() |  |  |  |  |   
-|  |  |  |  |  |  |  |   
-|   
-Information Collected and Uses Thereof: 
+Privacy Statement
 
-Upon visiting the Kansas Department of Revenue's web-site, the following information is collected: 
+The Department of Revenue is dedicated to protecting your privacy online. The following policy statement outlines how your information will be handled by the department while using our services. 
 
-  * The Internet Protocol Address. The Internet Protocol address is a numerical identifier assigned to either you Internet service provider or directly to your computer. 
-  * The type of browser and operating system you used. 
-  * The date and time you visited this site. 
-  * The web pages you accessed during your visit. 
-  * The web site which referred you to this site. 
-  * Any words you used to search this site. 
+Information Collected  
+We collect the following information in order to measure the number of visitors to the different sections of our site and to help make our site more accessible and useful to visitors: 
 
-This information is collected strictly for statistical purposes. It is used to create summary statistics which are used for such purposes as assessing what information is of most and least interest, times of peak usage, and missing or broken links. 
+  * The Internet Protocol Address. The Internet Protocol address is a numerical identifier assigned to either your Internet service provider or directly to your computer.
+  * The type of browser and operating system you used.
+  * The date and time you visited this site.
+  * The Web pages you accessed during your visit.
+  * The Web site which referred you to this site.
+  * Any words you used to search this site.
 
-If during your visit to the Kansas Department of Revenue's web site you send an e-mail message, the message and e-mail address may be retained by the server. This may be to respond to you, to address issues you identify, to further improve our web site, or to forward the e-mail to another agency for appropriate action.
 
-The Department of Revenue collects no personal information such as name, address, and phone number unless you voluntarily choose to supply that information using an on-line service or including it in an e-mail.
 
-[Taxes](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/taxpage.html) / [E-Commerce](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/ecommerce.html) / [Policy Library](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/pilrd.html) / [Vehicles](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/dmv/) / [What's New](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/new.html) / [FAQ's](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/faq.html) / [Search](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/search.html) /   
-[Property Valuation](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/pvd/main.html) / [Alcoholic Beverage Control](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/abc/) / [Contact Us](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/comment-form.html) / [Links](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/taxresource.html) / [Home ](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/main.html)
-|  |  |  |  |  |  |  |  |  |   
----|---|---|---|---|---|---|---|---|---  
-[](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/taxpage.html) |  |  |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/pilrd.html) |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/dmv/) |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/ecommerce.html) |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/faq.html) |  |  |  |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/pvd/) |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/abc/)  
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/search.html) |  |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/comment-form.html) |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/taxresource.html) |  |  |  |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/main.html) |  |  |  |  |   
-|  |  |  |  |  |  |  |   
-|   
-Information Collected and Uses Thereof: 
+Use of Information  
+The above information is used to determine what is of the most and least interest, times of peak usage, and missing or broken links. We will not contact you without your explicit permission. We also will not sell, give, or transfer your personally identifiable information to third parties.
 
-Upon visiting the Kansas Department of Revenue's web-site, the following information is collected: 
+Cookies  
+A cookie is a small amount of data sent from an individual browser to a Web server and stored on a computer hard drive. The Department of Revenue does not collect extended cookies from its users of our Web site. The department does however maintain session cookies that are processed during an individual interaction. These are automatically removed when the session ends. No user information is gathered through cookies except for those needed to run a specific application. Cookies are not used to track your visits to our Web site. 
 
-  * The Internet Protocol Address. The Internet Protocol address is a numerical identifier assigned to either you Internet service provider or directly to your computer. 
-  * The type of browser and operating system you used. 
-  * The date and time you visited this site. 
-  * The web pages you accessed during your visit. 
-  * The web site which referred you to this site. 
-  * Any words you used to search this site. 
+Secure Applications  
+Secure applications such as WebFile, PC File and Vehicle address change provide the opportunity to receive or create a password to access or submit personal information. You should not divulge your password to anyone. The Department of Revenue will never ask you for your password in an unsolicited telephone call or e-mail. When you have finished with any password protected application, we recommend you exit the page.
 
-This information is collected strictly for statistical purposes. It is used to create summary statistics which are used for such purposes as assessing what information is of most and least interest, times of peak usage, and missing or broken links. 
+E-mail  
+If during your visit to the Kansas Department of Revenue's Web site you send an e-mail message, the message and e-mail address may be retained by the server. This may be used to respond to you, to address issues you identify, to further improve our Web site, or to forward the e-mail to another agency for appropriate action.
 
-If during your visit to the Kansas Department of Revenue's web site you send an e-mail message, the message and e-mail address may be retained by the server. This may be to respond to you, to address issues you identify, to further improve our web site, or to forward the e-mail to another agency for appropriate action.
+The confidentiality of Internet transactions is not guaranteed. We recommend against sending any personal information in an e-mail. We will not e-mail account related or other personal information as part of our response to you unless specifically requested by you. This information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law (Kansas Open Records Act – K.S.A. 45-215 et seq.). 
 
-The Department of Revenue collects no personal information such as name, address, and phone number unless you voluntarily choose to supply that information using an online service or including it in an e-mail.
+Link Disclaimer  
+The Department of Revenue provides links to various external Web sites. The department has no responsibility for content or presentation of such external Web sites. By linking to an external Web site, we do not endorse its products, services, accuracy or security policies. Once you pass to another Web site, not maintained by the Department of Revenue, you are subject to the terms and conditions of that Web site.
 
-[Taxes](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/taxpage.html) / [E-Commerce](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/ecommerce.html) / [Policy Library](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/pilrd.html) / [Vehicles](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/dmv/) / [What's New](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/new.html) / [FAQ's](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/faq.html) / [Search](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/search.html) /   
-[Property Valuation](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/pvd/main.html) / [Alcoholic Beverage Control](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/abc/) / [Contact Us](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/comment-form.html) / [Links](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/taxresource.html) / [Home ](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/main.html)
+Information Disclaimer  
+Information provided on the Department of Revenue’s Web site is intended to allow immediate access to public information. While all attempts are made to provide accurate, current and reliable information there is a possibility of either human or mechanical error. The department expressly denies any warranty of the accuracy, reliability or timeliness of such information. 
