@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mcmelectronics.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208134127id_/http%3A//www.mcmelectronics.com/NewarkWebCommerce/mcm/en_US/support/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcmelectronics.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233546id_/http%3A//mcm.newark.com/NewarkWebCommerce/mcm/en_US/support/help/privacy.jsp) for the most accurate reproduction.*
 
 # MCM an InOne company
 
   
   
-[**Help Center Index**](https://web.archive.org/web/20041208134127id_/http%3A//www.mcmelectronics.com/NewarkWebCommerce/mcm/en_US/support/help/index.jsp)
+[**Help Center Index**](https://web.archive.org/web/20050401233546id_/http%3A//mcm.newark.com/NewarkWebCommerce/mcm/en_US/support/help/index.jsp)
 
 **Privacy Policy**
 
