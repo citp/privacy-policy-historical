@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203155500id_/http%3A//signup.domaindirect.com/cgi-bin/info.cgi%3Fref%3Dsignup%26do%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604125757id_/http%3A//signup.domaindirect.com/cgi-bin/info.cgi%3Fdo%3Dpolicy) for the most accurate reproduction.*
 
 # Register your own Domain Name!
-
-[](https://signup.domaindirect.com/cgi-bin/info.cgi?ref=signup&do=client_login)
-
-[](https://signup.domaindirect.com/cgi-bin/info.cgi?ref=signup&do=letssell)
 
 |  [](http://ads.tucows.com/click.ng/pageid=138-000-000-057)
 
@@ -23,39 +19,49 @@
 > ### Private Information Policy
 > 
 >   
->  We appreciate that many users do not feel comfortable providing their real address, due to the the high incidence of junk mail we all suffer from. Our privacy guarantee specifically states that we will **NOT** share, barter, sell, or trade your confidential information with ANYONE, under ANY circumstances (except in the case of legal proceedings). Also, by law, we MUST submit your contact information to OpenSRS (the issuer of domain names) for inclusion in a publicly-accessible database. Note that this will not include your credit card information, the contents or location of your Website, or any e-mail address other than your direct contact address. An example of the information which will be displayed is as follows: 
+>  We appreciate that many users do not feel comfortable providing their real address, due to the the high incidence of junk mail we all suffer from. Our privacy guarantee specifically states that we will **NOT** share, barter, sell, or trade your confidential information with ANYONE, under ANY circumstances (except in the case of legal proceedings). Also, by law, we MUST submit your contact information to OpenSRS (the issuer of domain names) for inclusion in a publicly-accessible database. Note that this will not include your credit card information, the contents or location of your Website, or any e-mail address other than your direct contact address. An example of the information which will be displayed is as follows: _
 > 
-> _Registrant:  
->   TUCOWS.COM Inc.  
+> Registrant:  
+>   Tucows  
 >   96 Mowat Avenue  
 >   Toronto, ON M6K 3M1  
->   CA_
-> 
->  _
+>   CA
 > 
 >  Domain Name: DOMAINDIRECT.COM
 > 
 >  Administrative Contact:  
->     Gray, Ed  ace@tucows.com  
->     416-535-0123
+>     Administration, DNS  dnsadmin@tucows.com  
+>     96 Mowat Avenue  
+>     Toronto, ON M6K 3M1  
+>     CA
+> 
+>    1-416-535-0123 
 > 
 >  Technical Contact:  
->     Admin, DNS  dnsadmin@tucows.com  
->     416-535-0123
+>     Technical, DNS  dnstech@tucows.com  
+>     96 Mowat Avenue  
+>     Toronto, ON M6K 3M1  
+>     CA
+> 
+>    416-535-0123 
 > 
 >  Billing Contact:  
->     Malcolm, Bruce  bmalcolm@tucows.com  
->     416-535-0123
+>     Billing, DNS  dnsbilling@tucows.com  
+>     96 Mowat Avenue  
+>     Toronto, ON M6K 3M1  
+>     CA
 > 
->  Record last updated on 31-Jul-2000.  
->   Record expires on 14-Oct-2002.  
->   Record created on 16-Oct-1997.
+>    1-416-535-0123 
+> 
+>  Record last updated on 16-Mar-2001.  
+>   Record expires on 14-Oct-2003.  
+>   Record Created on 16-Oct-1997.
+> 
+>  Domain servers in listed order:  
+>     NS1.DOMAINDIRECT.COM  216.40.33.21  
+>     NS2.DOMAINDIRECT.COM  216.40.33.22
 > 
 > _
-> 
-> _  Domain servers in listed order:  
->     NS1.DOMAINDIRECT.COM 207.136.100.141  
->     NS2.DOMAINDIRECT.COM 207.136.100.142_
 
   
 
