@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the epicstars.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011043735id_/http%3A//epicflags.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicstars.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402003426id_/http%3A//www.epicflags.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Epic Flags, LLC Privacy Policy
+
+## High Quality American Flags, State Flags, Military Service Flags, Indoor Flag Sets, Flag Poles & Flag Accessories
+
+| [](https://web.archive.org/web/20050402003426id_/http%3A//www.epicflags.com/index.html)| 
+
+St. Louis, Missouri USA
+
+Telephone: 1.314.367.8083 . Telefax: 1.314.367.8440  
+  
+---|---  
+|   
+---  
+[**Customer Service**](https://web.archive.org/web/20050402003426id_/http%3A//www.epicflags.com/info.html)| | [ **Contact Us**](https://web.archive.org/web/20050402003426id_/http%3A//www.epicflags.com/contact.html)| | [ **American Flag Etiquette**](https://web.archive.org/web/20050402003426id_/http%3A//www.epicflags.com/flagetiquette.html)| | [ **Product Index**](https://web.archive.org/web/20050402003426id_/http%3A//www.epicflags.com/ind.html)| | [ **View Cart/Checkout**](http://order.store.yahoo.com/cgi-bin/wg-order?epicflags)  
+|   
+  
+| | [](https://web.archive.org/web/20050402003426id_/http%3A//www.epicflags.com/index.html)
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
@@ -48,4 +64,6 @@ As you browse the site, Epic Flags's Web servers collect information about your 
 
 While we may gather this information, none of it is associated with you as an individual. We use these statistics to improve our Web site, to monitor its performance, and to make it easier for you and other visitors to use.
 
-If you have any questions about our Privacy Policy, please do not hesitate to contact us or send an email message to [info@epicflags.com](mailto:info@epicflags.com) today.
+If you have any questions about our Privacy Policy, please do not hesitate to contact us or send an email message to [info@epicflags.com](mailto:info@epicflags.com) today.  
+  
+---|---|---|---
