@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610131742id_/http%3A//www.lens.com/common/faq/privacyPolicy.asp%3Fpopup%3DN%26%26%23b) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204070151id_/http%3A//www.lens.com/common/faq/privacyPolicy.asp%3Fpopup%3DN%26%26%23b) for the most accurate reproduction.*
 
 # Privacy Policy
 
