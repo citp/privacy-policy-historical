@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opendiary.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211132410id_/http%3A//opendiary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendiary.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604061044id_/http%3A//opendiary.com/privacy.asp) for the most accurate reproduction.*
 
-# The Open Diary
+# The Open Diary - Privacy Policy
 
 The Open Diary respects your privacy. We do not sell, rent, or loan any identifiable information regarding our users to any third party. Any information you give us is held with the utmost care and security, and will not be used in ways to which you have not consented. 
 
