@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624012909id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206124224id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
 
 # GreatAupair Support - Privacy & Security Policy
 
@@ -10,7 +10,7 @@ InteliMark Enterprises and GreatAupair are committed to providing you excellent 
 |  |   
 GreatAupair is also certified by VeriSign to ensure your transactions are always safe and secure. Credit Card transactions are protected using industry-standard encryption over the Secure Sockets Layer protocol. Credit Card Information is encrypted, using highly secure cryptographic algorithms. Click the VeriSign logo to confirm our site security.  
   
-|    |   
+[](https://www.securitymetrics.com/sitecertsummary.adp?s=128%2e242%2e101%2e251&i=46760) |    |   
 InteliMark Enterprises and GreatAupair are certified as secure on a weekly basis by an outside security auditing firm, SecurityMetrics, to ensure our data and systems are always properly secured. Click the certification button to verify our secure status.  
   
 It is InteliMark Enterprises’ policy to maintain strict security and privacy practices to protect its systems and its customer data. GreatAupair maintains compliance with U.S. State and Federal laws. 
