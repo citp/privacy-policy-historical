@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdtradeinfo.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208185914id_/http%3A//bdtradeinfo.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdtradeinfo.com privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407060940id_/http%3A//www.bdtradeinfo.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Welcome to Bangladesh Trade Info
 
