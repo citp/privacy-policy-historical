@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the java-scripts.net privacy policy that was archived on 2003-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031208152427id_/http%3A//www.java-scripts.net/privacy.phtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the java-scripts.net privacy policy that was archived on 2004-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607053101id_/http%3A//www.java-scripts.net/privacy.phtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>Javascripts by Java-Scripts.net: Free javascripts, tutorials, examples, and resources.</title>
@@ -141,39 +141,30 @@ Sign up for our free, low volume email newsletter. Be notified when new free scr
 <font face="VERDANA" size="1"><b>TOP LINKS<br>
 <a href="http://www.thefreesite.com" target="_blank"><img src="http://www.thefreesite.com/free88.gif" height="31" width="88" border="0" alt="Thefreesite.com" vspace="1"></a>
 <br>
-<a href="http://www.321templates.com">321Templates</a><br>
-<a href="http://www.ez-freebies.com/index.php?in=155">EZ-Freebies</a><br>
-<a href="http://www.myzips.com" target="_blank">MyZips</a><br>
-<a href="http://www.321webmaster.com/index.php?in=56" target="_blank">321Webmaster</a><br>
+
+<a href="http://www.myzips.com" target="_blank">Software</a><br>
 <a href="http://www.docjs.com">DocJavascript</a><br>
-<a href="http://www.a1javascripts.com" target="_blank">A1 Javascripts</a><br>
-<a href="http://www.emailhound.com" target="_blank">EmailHound</a><br>
-<a href="http://www.dhtmlshock.com" target="_blank">DHTML Shock</a><br>
-<a href="http://www.freestuffcenter.com" target="_blank">FreestuffCenter</a><br>
+<a href="http://www.a1javascripts.com" target="_blank">A1Javascripts</a><br>
 <a href="http://www.graphxkingdom.com" target="_blank">Free Clipart</a><br>
-<a href="http://www.wsabstract.com" target="_blank">WS Abstract</a><br>
-<a href="http://www.dynamicdrive.com" target="_blank">DynamicDrive</a><br>
-<a href="http://www.j-scripts.com" target="_blank">J-Scripts</a><br>
 <a href="http://www.tudogs.com" target="_blank">TuDogs</a><br>
-<a href="http://www.freakyfreddies.com">FreakyFreddies</a><br>
 <a href="http://www.bravenet.com/banner/refer.php?id=119">Free Web Tools</a><br>
-<a href="http://www.aaafreegames.com" target="_blank">AAAFreeGames</a><br>
-<a href="http://www.aaascreensavers.com" target="_blank">AAAScreensavers</a><br>
-<a href="http://www.aaathemes.com" target="_blank">AAAThemes</a><br>
-<a href="http://www.aaahtml.com" target="_blank">AAAHtml</a><br>
-<a href="http://www.aaapostcards.com" target="_blank">AAAPostcards</a><br>
-<a href="http://www.aaaskins.com" target="_blank">AAASkins</a><br>
-<a href="http://www.aaacontests.com" target="_blank">AAAContests</a><br>
-<a href="http://www.domainsrush.net" target="_blank">DomainRush</a><br>
+<a href="http://www.aaafreegames.com" target="_blank">Free Online Games</a><br>
+<a href="http://www.aaascreensavers.com" target="_blank">Free Screensavers</a><br>
+<a href="http://www.aaathemes.com" target="_blank">Free Desktop Themes</a><br>
+<a href="http://www.aaahtml.com" target="_blank">HTML Tutorials</a><br>
+<a href="http://www.aaapostcards.com" target="_blank">Free Greeting Cards</a><br>
+<a href="http://www.aaaskins.com" target="_blank">Free Skins</a><br>
+<a href="http://www.aaacontests.com" target="_blank">Win Cash</a><br>
+<a href="http://www.aaafreewallpaper.com" target="_blank">Free Wallpapers</a><br>
 </b></font><b>
 </b></center><b><br>
 </b></td>
 
 <td width="9"></td>
 
-<td width="570" valign="top">
+<td width="580" valign="top">
 
-<table width="570" border="0" cellpadding="5">
+<table width="580" border="0" cellpadding="5">
 <tbody><tr>
 <td valign="top"><font face="ARIAL,VERDANA" size="2">
 
@@ -203,7 +194,47 @@ A cookie is a small data file that certain Web sites write to your hard drive wh
 
 
 
-</p><form action="http://signup.postmasterdirect.com/signup.mhtml" method="post">
+<script language="JavaScript">
+var count=0;
+//checks for a valid email address
+function validatePMDForm(form){
+ if (form.email.value.indexOf(' ')==-1 
+                    && 0<form.email.value.indexOf('@') 
+                                                && form.email.value.indexOf('@')+1 < form.email.value.length)
+                                {
+                                }
+ else {
+                                                alert ('Please enter a valid email address!');
+                                                return false;
+                                                }
+//checks if zip is entered
+  if(form.zip.value == ""){
+                 alert("Please enter your 5 digit Zip Code!");
+   return false;
+   }
+                 
+//loops through all the check boxes to validate if they are checked or not
+                 for(var x=0; x < form.listname.length; x++){
+                                if(form.listname[x].checked == true)
+                                {
+                                 count=count+1;
+                                }               
+                 }
+                 //checks the previous for loop to check if count has been increased from zero                
+                 if(count==0){
+                 alert("Please select at least one free list!");
+                 return false;
+                 }
+                 //resets the counter to zero
+                 if(count>0){
+                 count = 0;
+                 }
+                 
+}//end function
+</script>
+
+
+</p><form onsubmit="return validatePMDForm(this);" action="http://signup.postmasterdirect.com/signup.mhtml" method="post">
 <input type="hidden" name="owner" value="GraphXKingdom.com">
 <input type="hidden" name="gatherer" value="GraphXKingdomGathererBox">
 <input name="thankyouurl" value="http://www.java-scripts.net/thanksforsubscribing.phtml" type="hidden">
@@ -303,7 +334,7 @@ News &amp; Information Targeted to Your Interests</font></b>
 <center>Email Address: <input type="text" name="email" size="12">
 &nbsp;Zip Code: <input type="text" name="zip" size="10">
 <input type="hidden" name="action" value="Sign" up!=""></center>
-<center>Can you receive HTML email? <input type="radio" name="htmlemail" value="yes"> Yes &nbsp; &nbsp;<input type="radio" name="htmlemail" value="no"> No<br>Gender: <input type="radio" name="sex" value="M"> Male <input type="radio" name="sex" value="F"> Female <input type="submit" name="x" value="Join!"></center>
+<center>Gender: <input type="radio" name="sex" value="M"> Male <input type="radio" name="sex" value="F"> Female <input type="submit" name="x" value="Join!"></center>
 </font>
 </td>
 </tr>
@@ -328,12 +359,7 @@ News &amp; Information Targeted to Your Interests</font></b>
 </form>
 <center>
 <font face="VERDANA" size="1">
-© 2003 Java-scripts.net<br>Proudly Hosted by <a href="http://www.hostdepartment.com" target="_blank">HostDeparment</a>
-</font>
-</center>
-
-<center><font face="ARIAL" size="1">
-<a href="http://www.boxedart.com" target="_blank">Web Templates</a> - <a href="http://www.a1javascripts.com" target="_blank">Free JavaScripts</a> - <a href="http://www.123webmaster.com" target="_blank">Free Webmaster Resources</a> - <a href="http://www.htmlforums.com" target="_blank">Free HTML Help</a>
+© 2004 <a href="http://www.java-scripts.net">Javascripts</a> <br>Proudly Hosted by <a href="http://www.hostdepartment.com" target="_blank">HostDeparment</a>
 </font>
 </center>
 
@@ -369,8 +395,8 @@ Verdana, Helvetica, sans-serif;}
 <table width="129" border="1" cellspacing="0" cellpadding="0" bordercolor="#000000" bgcolor="#FFFFFF" align="center">
   <tbody><tr bgcolor="#CCCC99" align="center"> 
     <td><font face="ARIAL,VERDANA" size="1">
-<script language="JavaScript" src="http://reallybig.spinbox.net/?DC=netbar_top_jsn&amp;JS=Y"></script><noscript><A HREF="http://reallybig.spinbox.net/?SHT=netbar_top_jsn"><IMG SRC="http://reallybig.spinbox.net/?SIT=netbar_top_jsn" HEIGHT="125" WIDTH="125"></A></noscript>
-</font>
+<script language="JavaScript" src="http://reallybig.spinbox.net/?DC=netbar_jsn&amp;JS=Y"></script>
+<noscript><A HREF="http://reallybig.spinbox.net/?SHT=netbar_jsn"><IMG SRC="http://reallybig.spinbox.net/?SIT=netbar_jsn&SC=Y"></A></noscript></font>
     </td>
   </tr>
   <tr bgcolor="#CCCC99"> 
@@ -425,37 +451,15 @@ Verdana, Helvetica, sans-serif;}
     <td valign="top"><a href="http://www.sitecritique.net"><img src="http://www.java-scripts.net/tab_sc.gif" width="125" height="18" border="0"></a><br>
       <a href="http://www.sitecritique.net" class="navlink">Friendly community where you can get a site critique - or give one!</a></td>
   </tr>
-<tr>
-    <td valign="top"><a href="http://www.hostinghelp.com"><img src="http://www.java-scripts.net/tab_hfh.gif" width="125" height="18" border="0"></a><br>
-      <a href="http://www.hostinghelp.com" class="navlink">Web Hosting help is here. Questions and answers added daily!</a></td>
-  </tr>
   <tr bgcolor="#CCCC99" align="center"> 
     <td> 
       <p class="newrblink2"><a href="http://reallybig.com/advertis.shtml" class="newrblink2">ADVERTISE</a> 
       </p>
     </td>
   </tr>
-  <tr bgcolor="#CCCC99" align="center"> 
-    <td><font face="ARIAL,VERDANA" size="1">
-<script language="JavaScript" src="http://reallybig.spinbox.net/?DC=netbar_jsn&amp;JS=Y"></script>
-<noscript><A HREF="http://reallybig.spinbox.net/?SHT=netbar_jsn"><IMG SRC="http://reallybig.spinbox.net/?SIT=netbar_jsn&SC=Y"></A></noscript></font>
-    </td>
-  </tr>
 </tbody></table>
 
-<p>
-<!-- TF 120x600 JScript NoAD code -->
-</p><center><script language="javascript"><!--
-document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.ad?site=JavaScriptsnet&adSpace=ROS&size=120x600&noAd=1&requestID='+((new Date()).getTime() % 2147483648) + Math.random()+'"></scr'+'ipt>');
-//-->
-</script><script language="javascript" src="http://a.tribalfusion.com/j.ad?site=JavaScriptsnet&amp;adSpace=ROS&amp;size=120x600&amp;noAd=1&amp;requestID=15963173440.36006174361111043"></script>
-<noscript>
-   <a href="http://a.tribalfusion.com/i.click?site=JavaScriptsnet&adSpace=ROS&size=120x600&requestID=1127140189" target=_blank>
-   <img src="http://a.tribalfusion.com/i.ad?site=JavaScriptsnet&adSpace=ROS&size=120x600&requestID=1127140189" 
-                  width=120 height=600 border=0 alt="Click Here"></a>
-</noscript>
-</center>
-<!-- TF 120x600 JScript NoAD code -->
+
 </td>
 </tr>
 </tbody></table>
