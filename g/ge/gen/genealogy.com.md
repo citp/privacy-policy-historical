@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genealogy.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209214500id_/http%3A//www.genealogy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogy.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413061113id_/http%3A//www5.genealogy.com/privacy.html) for the most accurate reproduction.*
 
 # Genealogy.com: Privacy Statement
 
@@ -33,7 +33,7 @@ When you make a purchase or access your account information, we offer the use of
 Genealogy.com does not share any contact information with third parties except marketing companies engaged by Genealogy.com, under the control and direction of Genealogy.com, and on behalf of Genealogy.com. Genealogy.com maintains ownership and control of this information. Genealogy.com may provide group statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. Remember, if you do not want to receive electronic mailings from us, you may opt out at any time by going to <http://www.genealogy.com/unsubscribe.html>.
 
 **Correcting Information **  
-We want any information you provide to be correct so we provide you with the ability to change the information we have about you. You must identify yourself before we give out any information. Please [contact us](https://web.archive.org/web/20001209214500id_/http%3A//www.genealogy.com/contact.html) to provide us with new information, or change your information yourself by using the links at the bottom of our [Technical Support page](http://www.familytreemaker.com/supptop.html). 
+We want any information you provide to be correct so we provide you with the ability to change the information we have about you. You must identify yourself before we give out any information. Please [contact us](https://web.archive.org/web/20010413061113id_/http%3A//www5.genealogy.com/contact.html) to provide us with new information, or change your information yourself by using the links at the bottom of our [Technical Support page](http://www.familytreemaker.com/supptop.html). 
 
 We reserve the right to reject or remove any content posted on our Web site at our sole discretion. 
 
