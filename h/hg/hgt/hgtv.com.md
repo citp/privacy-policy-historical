@@ -1,8 +1,24 @@
-> *The following text is extracted and transformed from the hgtv.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217184954id_/http%3A//hgtv.com/HGTV/about/privacy/0%2C1121%2C%2CFF.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hgtv.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605041903id_/http%3A//hgtv.com/HGTV/about/privacy/0%2C1121%2C%2CFF.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |  |  | 
+| 
+
+  
+[building & remodeling](https://web.archive.org/HGTV/categoryHomepage/0,1103,BDRE,FF.html)  
+  
+[crafts & collectibles](https://web.archive.org/HGTV/categoryHomepage/0,1103,CRHO,FF.html)  
+  
+[design & decorating](https://web.archive.org/HGTV/categoryHomepage/0,1103,DEID,FF.html)  
+  
+[food & lifestyle](https://web.archive.org/HGTV/categoryHomepage/0,1103,FOLI,FF.html)  
+  
+[gardening & landscaping](https://web.archive.org/HGTV/categoryHomepage/0,1103,GALA,FF.html)  
+  
+[real estate & finance](https://web.archive.org/HGTV/categoryHomepage/0,1103,REFI,FF.html)   
+
+
+|  |  | 
 
   
 Privacy Policy  
