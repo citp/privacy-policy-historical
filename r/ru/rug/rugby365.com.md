@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the rugby365.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013165633id_/http%3A//www.rugby365.com/Home/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby365.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403121404id_/http%3A//www.rugby365.com/Home/privacy.shtml) for the most accurate reproduction.*
 
-# Rugby news,fun and features from Rugby365.com
+# Rugby news, results, fixtures and features from Rugby365.com
 
   
-**1.** **Rugby365** has a firm commitment to privacy. 
+**1.** TEAMtalk Media Group Network Privacy Policy: ukbetting plc incorporating Sporting Life UK Limited, TEAMtalk Media Group Limited, Rivals Digital Media and sites within the company's TEAMtalk Media Group Network strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.. 
 
 **2.** We may use your IP address to help diagnose problems with our server and to administer our website. Your IP address may be used to help identify you and to gather broad demographic information. We will not provide or sell user-specific demographic information to any other person or business. We will only share this information on an aggregate basis. 
 
