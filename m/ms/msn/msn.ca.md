@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msn.ca privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603182916id_/http%3A//g.msn.com/0PR_/enca%3F%3FPI%3D11654%26DI%3D210) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msn.ca privacy policy that was archived on 2003-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030813055105id_/http%3A//g.msn.com/0PR_/enca%3F%3FPI%3D11654%26DI%3D210) for the most accurate reproduction.*
 
 # MSN.com Privacy Statement
 
