@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jackrabbitclass.com privacy policy that was archived on 2004-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041212113259id_/http%3A//www.jackrabbitclass.com/privacysecurity.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jackrabbitclass.com privacy policy that was archived on 2005-02-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050204194400id_/http%3A//www.jackrabbitclass.com/privacysecurity.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Jackrabbit Class - Web-based class management and billing software</title>
@@ -30,13 +30,15 @@ function MM_reloadPage(init) {  //reloads the window if Nav4 resized
   else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
 }
 MM_reloadPage(true);
+
+
 //-->
 </script>
 
 <div id="infoguidebutton" style="position:absolute; width:94; height:49; z-index:10; left: 285; top: 16;"><!--<a href="info_guide.shtml"><img src="../images/infoguide_button_1.gif" alt="information_guide" width="94" height="49" border="0"></a>--></div>
  	
 <div class="logintitle" style="position:absolute; left: 505px; width: 235px; height: 15px; z-index:9; visibility: visible; top: 6px;">Client Login</div>
-     <form name="frmSelections" action="http://app.jackrabbitclass.com/pageactions.asp?action=signin&amp;formatoption=basic display&amp;retrievemode=menu" method="POST">
+     <form name="frmSelections" action="https://app.jackrabbitclass.com/pageactions.asp?action=signin&amp;formatoption=basic display&amp;retrievemode=menu" method="POST">
 		<input type="hidden" name="FormatOption" value="signin">
 		<input type="hidden" name="CurrURL" value="http://app.jackrabbitclass.com/display.asp?formatoption=menu&amp;retrievemode=arenamenu">
 		<input type="hidden" name="Saved" value="1">
@@ -49,9 +51,9 @@ MM_reloadPage(true);
 		
   <div id="login" class="login" style="position:absolute; top: 6px; left: 508px; width:235px; height:22px; z-index:8; visibility: visible;">
         	User ID:&nbsp; 
-    <input name="UserID" type="text" class="inputbox1" value="" size="25" maxlength="25"><br>
-		Password:&nbsp; <input name="password" type="password" class="inputbox1" value="" size="16" maxlength="16">
-      <a href="/jsError.html" class="buttonGO" onclick="document.frmSelections.submit(); return false;" title="">Login</a>
+    <input name="UserID" type="text" class="inputbox1" value="" size="25" maxlength="100"><br>
+		Password:&nbsp; <input name="password" type="password" class="inputbox1" onkeypress="if(window.event.keyCode==13) {document.frmSelections.submit();}" value="" size="16" maxlength="16">
+      <a href="#" class="buttonGO" onclick="document.frmSelections.submit();" title="">Login</a>
 		
 	      </div></form>
 	 
