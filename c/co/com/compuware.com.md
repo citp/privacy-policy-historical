@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603070233id_/http%3A//www.compuware.com/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203021828id_/http%3A//www.compuware.com/corporate/privacy.htm) for the most accurate reproduction.*
 
 # Compuware Privacy Statement
 
@@ -8,7 +8,7 @@ Compuware Corporation recognizes your right to confidentiality and is committed 
 
 You can visit Compuware online without telling us who you are or revealing any information about yourself. However, customer support areas are restricted and require an ID and password. Our web server only collects domain names, and not the email addresses of our visitors. We use this information to study traffic patterns to our site—when people visit, the number of pages viewed, average time spent, most frequently visited areas, etc. This analysis is helpful for improving the content and structure of our site. 
 
-This privacy statement applies solely to information collected by [Compuware owned web sites](https://web.archive.org/corporate/domains.htm).
+This privacy statement applies solely to information collected by Compuware owned web sites.
 
 ## The Information We Collect 
 
