@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206145239id_/http%3A//nshss.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2005-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050316040641id_/http%3A//www.nshss.org/privacy.asp) for the most accurate reproduction.*
 
-# The National Society of High School Scholars - Privacy Policy
+# The National Society of High School Scholars
+
+Privacy Policy
 
 This is the web site of **The National Society of High School Scholars**.  
 
@@ -15,7 +17,7 @@ We can be reached via e-mail at [ webmaster@nshss.org](mailto:webmaster@nshss.or
 or you can reach us by telephone at 866-343-1800  
 
 
-** We do not sell, lease, or share member information with anyone outside of the NSHSS organization.  
+**We do not sell, lease, or share member information with anyone outside of the NSHSS organization.  
 **
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. We collect only the domain name, but not the e-mail address of visitors to our Web page.  
@@ -41,5 +43,4 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place at our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site.
 
   
-If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number. **  
-**
+If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number. ****
