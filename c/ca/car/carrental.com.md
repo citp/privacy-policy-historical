@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrental.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815061421id_/http%3A//www.avis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrental.com privacy policy that was archived on 2001-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010207165326id_/http%3A//www.avis.com/privacy) for the most accurate reproduction.*
 
 # Avis Rent A Car - Privacy Policy
 
