@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lizclaiborne.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613061456id_/http%3A//www.lizclaiborne.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lizclaiborne.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212081326id_/http%3A//www.lizclaiborne.com/privacy.asp) for the most accurate reproduction.*
 
 # Liz Claiborne
 
