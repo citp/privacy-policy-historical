@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nexcess.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604065543id_/http%3A//nexcess.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexcess.net privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205031047id_/http%3A//nexcess.net/privacy.php) for the most accurate reproduction.*
 
-# NEXCESS.NET [Privacy Policy]
+# NEXCESS.NET | Privacy Policy
 
 Introduction  
 We have authored this privacy policy so you, our clients, know what information is gathered as you browse our site and when you order and why we gather such information. If you have any questions or concerns regarding this policy please e-mail [privacy@nexcess.net](mailto:privacy@nexcess.net) or call 1.866.NEXCESS.
@@ -44,4 +44,4 @@ Users of our site are always notified when their information is being collected 
 Notification of Changes  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Last Updated: 09.01.01
+Last Updated: 06.01.02
