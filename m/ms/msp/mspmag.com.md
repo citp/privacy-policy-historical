@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mspmag.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619215458id_/http%3A//www.mspmag.com/feature.asp%3Ffeatureid%3D76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspmag.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209201800id_/http%3A//www.mspmag.com/feature.asp%3Ffeatureid%3D76) for the most accurate reproduction.*
 
 # Mpls.St.Paul Magazine
 
