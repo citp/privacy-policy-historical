@@ -1,21 +1,15 @@
-> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207001634id_/http%3A//melaleuca.com/index.cfm%3FPageID%3D69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009213232id_/http%3A//www.melaleuca.com/privacy.html) for the most accurate reproduction.*
 
-# Melaleuca's Privacy Policy
+# Melaleuca: The Wellness Company: Privacy Policy
 
-| 
-
-### MELALEUCA, INC. AND MELALEUCA OF CANADA, INC. WEB SITE  
-ONLINE PRIVACY POLICY
+MELALEUCA, INC. AND MELALEUCA OF CANADA, INC. WEB SITE  
+ONLINE PRIVACY POLICY 
 
 **MELALEUCA, INC. and MELALEUCA OF CANADA, INC. ("MELALEUCA") are committed to respecting your privacy. We've structured our Web site so that, in general, you can visit MELALEUCA on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with MELALEUCA.**
 
 This statement regarding the privacy of the personally identifiable information you provide online covers four main areas: **Awareness** , **Choice** , **Accuracy & Access** and **Security**. 
 
-**
-
-#### _Awareness_
-
-**
+**_Awareness_**
 
 MELALEUCA provides this Online Privacy Statement to make you aware of our privacy policy and practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and from the bottom of every page on our Web site. 
 
@@ -53,31 +47,23 @@ Whom we share it with
 
 MELALEUCA will not sell, rent or lease your personally identifiable information to others unless we have your permission or are required by law. We will only share the personal data you provide online with other MELALEUCA entities and/or business partners who are acting on our behalf for the uses described above. Such MELALEUCA entities and/or business partners, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements.
 
-**
-
-#### _Choice_
-
-**
+**_Choice_**
 
 MELALEUCA will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us and we will do everything we can to honor such requests. 
 
 Your permission is always secured first, should we ever share your information with third parties that are not acting on our behalf and governed by our privacy policy.
 
-**
+****
 
-#### _Accuracy & Access_
-
-**
+**_Accuracy & Access_ **
 
 MELALEUCA strives to keep your personally identifiable information accurate and secure. We do not provide access to your information online. In order to update or correct your information with MELALEUCA it will be necessary for you to contact MELALEUCA directly through the methods listed below. To protect your privacy and security, upon contacting us we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections.
 
 At present, MELALEUCA does not offer links to third-party Web sites.
 
-**
+****
 
-#### _Security_
-
-**
+**_Security_ **
 
 MELALEUCA is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. We use the latest in encryption technology when collecting or transferring sensitive data, such as credit card information.
 
