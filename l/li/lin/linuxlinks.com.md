@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linuxlinks.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604101200id_/http%3A//www.linuxlinks.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxlinks.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029114246id_/http%3A//linuxlinks.com/portal/html/privacy.shtml) for the most accurate reproduction.*
 
 # Linux Links - the Linux Portal Site
 
-**LinuxLinks.com's Statement of Privacy**
+LinuxLinks.com's Statement of Privacy
 
 Our policy respects and protects the privacy of our visitors. We have a strict policy never to disclose information about our visitors to external organisations unless we have written permission to do so.
 
