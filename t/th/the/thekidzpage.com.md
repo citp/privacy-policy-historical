@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602044307id_/http%3A//www.thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604063943id_/http%3A//www.thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
 
 # Privacy at theKidzpage.com
 
   
-**[_Navigation_](https://web.archive.org/web/20010602044307id_/http%3A//www.thekidzpage.com/html/information.htm) \- ****Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20010602044307id_/http%3A//www.thekidzpage.com/html/linktous.htm)  
+**[_Navigation_](https://web.archive.org/web/20020604063943id_/http%3A//www.thekidzpage.com/html/information.htm) \- ****Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20020604063943id_/http%3A//www.thekidzpage.com/html/linktous.htm)  
 **[](http://www.cybersitter.com/)[](http://www.cybersitter.com/)[](http://www.netnanny.com/)[](http://www.safesurf.com/)
 
 Security | Removing/Changing Information | Children's Guidelines | Contacting the Site | Copyright Information
@@ -54,7 +54,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-You can send email to [webmaster@thekidzpage.com](mailto:webmaster@thekidzpage.com) (marked with "remove" in the subject line) 
+You can send email to **webmaster @thekidzpage.com** (marked with "remove" in the subject line) 
 
 back to top
 
@@ -62,7 +62,7 @@ back to top
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-email [webmaster@thekidzpage.comt](mailto:webmaster@thekidzpage.com)(marked with "update" in the subject line) 
+email [](mailto:webmaster@thekidzpage.com)**webmaster @thekidzpage.com** (marked with "update" in the subject line) 
 
 back to top
 
@@ -70,13 +70,13 @@ back to top
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact : 
 
-The Web Site Manager,  **theKidzpage™** Alberta Canada [webmaster@thekidzpage.com](mailto:webmaster@thekidzpage.com)
+The Web Site Manager,  **theKidzpage™** British Columbia Canada **webmaster** **@ thekidzpage.com**
 
 back to top
 
 ## Copyright
 
-Although we may provide certain graphics, which _may_ be copied by our users, (i.e. The Kidz Page banners), materials which are _not specifically identified as available to users _**ARE NOT** available to anyone without our permission. All of the graphical and written content on **theKidzpage™** site are original pieces of artwork and writing, developed (under copyright) by our webmaster. (c)1998-2001, **theKidzpage™** and **divaDzine**.
+Although we may provide certain graphics, which _may_ be copied by our users, (i.e. The Kidz Page banners), materials which are _not specifically identified as available to users _**ARE NOT** available to anyone without our permission. All of the graphical and written content on **theKidzpage™** site are original pieces of artwork and writing, developed (under copyright) by our webmaster. (c)1998-2002, **theKidzpage™** and **divaDzine**.
 
 We hope that our contribution to kids' Internet experiences is a valuable one, and that you and your family enjoy this site.
 
