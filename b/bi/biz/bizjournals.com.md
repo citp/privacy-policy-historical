@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizjournals.com privacy policy that was archived on 2002-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021129061508id_/http%3A//www.bizjournals.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizjournals.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603222254id_/http%3A//www.bizjournals.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - bizjournals.com
 
@@ -6,7 +6,7 @@
 
 Kids and parents click here!
 
-In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20021129061508id_/http%3A//www.bizjournals.com/user_agreement.html). Your use of Bizjournals.com constitutes agreement to its terms and conditions. 
+In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20030603222254id_/http%3A//www.bizjournals.com/user_agreement.html). Your use of Bizjournals.com constitutes agreement to its terms and conditions. 
 
 Bizjournals.com is produced by American City Business Journals. This policy does not cover information collected on sites linked to or from Bizjournals.com. 
 
@@ -56,6 +56,3 @@ Privacy Policy Coordinator
 Bizjournals.com  
 120 W. Morehead St.  
 Charlotte, NC 28202
-
-  
-
