@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostway.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201164924id_/http%3A//www.hostway.com/support/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostway.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605075457id_/http%3A//www.hostway.com/support/privacypolicy.htm) for the most accurate reproduction.*
 
 # Hostway - Support - privacy policy
 
