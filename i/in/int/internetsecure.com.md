@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630221123id_/http%3A//www.internetsecure.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223125016id_/http%3A//www.internetsecure.com/privacy.html) for the most accurate reproduction.*
 
 # InternetSecure Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This policy forms part of, and should be read in conjunction with, our 
 
-[_**Terms of Use**_](https://web.archive.org/web/20040630221123id_/http%3A//www.internetsecure.com/termsofuse.html). 
+[_**Terms of Use**_](https://web.archive.org/web/20041223125016id_/http%3A//www.internetsecure.com/termsofuse.html). 
 
 InternetSecure believes that privacy is crucial for the ongoing success of Internet commerce. Our status as an Internet merchant account provider and certified payment gateway requires us to have a stringent policy regarding all of the information that we collect. 
 
