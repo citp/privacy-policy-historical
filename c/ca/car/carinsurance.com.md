@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216024524id_/http%3A//carinsurance.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402050308id_/http%3A//carinsurance.com/privacy.asp) for the most accurate reproduction.*
 
 # Carinsurance.com - Solutions
 
