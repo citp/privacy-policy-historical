@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the csc.com privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606040004id_/http%3A//www.csc.com/privacy/index.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the csc.com privacy policy that was archived on 2004-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206182300id_/http%3A//www.csc.com/privacy/index.shtml) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -130,10 +130,10 @@ da_image.src="http://www.csc.com/csc.ico";
     <td width="557" height="30" align="right" valign="middle" bgcolor="#FFFFFF"><table border="0" cellpadding="0" cellspacing="0" width="557"> 
         <tbody><tr> 
           <td><img src="/images/public/Px_Clear.gif" alt="" width="1" height="27" border="0"></td> 
-          <form name="searchForm" method="get" action="http://www.csc.com/search97cgi/s97_cgi"></form> 
-            <td align="right" valign="middle"><input type="text" name="query" size="25" maxlength="35" value="" class="searchengine" id="Enter Search Text" title="Enter Search Text"> 
-              <input type="hidden" name="Action" value="FilterSearch"> 
-              <input type="hidden" name="Filter" value="csc_filter.hts"></td> 
+          <form name="searchForm" method="get" action="http://search.csc.com/query.html"></form> 
+            <td align="right" valign="middle"><input type="text" name="qt" size="25" maxlength="35" value="" class="searchengine" id="Enter Search Text" title="Enter Search Text"> 
+              <input type="hidden" name="col" value="csc"> 
+              <input type="hidden" name="nh" value="20"></td> 
             <td width="40" align="right" valign="middle"><input name="" type="image" src="/images/global/search.gif" alt="Search" align="middle" width="39" height="16" border="0"></td> 
            
         </tr> 
@@ -142,8 +142,8 @@ da_image.src="http://www.csc.com/csc.ico";
   <tr> 
     <!--TOP NAV START--> 
     <td width="557" height="34" align="left" valign="middle" bgcolor="#CC0000"><img src="/images/public/Px_Clear.gif" width="8" height="8" alt=""><span class="headerlinkwhite"><a href="/contactus/index.shtml" class="tNav">Contact
-          Us</a> | <a href="http://careers.csc.com" class="tNav">Careers Site</a> | <a href="/sitemap/index.shtml" class="tNav">Site
-          Map</a> | <a href="/portal" class="tNav">CSC Portal</a> | <a href="/cscstore/cscstore.htm" class="tNav">CSC Store</a></span></td> 
+          Us</a> | <a href="/careers/" class="tNav">Careers Site</a> | <a href="/sitemap/index.shtml" class="tNav">Site
+          Map</a> | <a href="http://portal.csc.com" class="tNav">CSC Portal</a> | <a href="/cscstore/cscstore.htm" class="tNav">CSC Store</a></span></td> 
     <!--TOP NAV END--> 
   </tr> 
   <tr> 
@@ -251,7 +251,6 @@ if ((navigator.appName == "Netscape")  && (parseInt(navigator.appVersion) == 4))
   MenuIndustries.addMenuItem("Aerospace&nbsp;&amp;&nbsp;Defense","location='/industries/aerospacedefense/'");
   MenuIndustries.addMenuItem("Chemical&nbsp;&amp;&nbsp;Energy","location='/industries/chemicalenergy/'");
   MenuIndustries.addMenuItem("Communications&nbsp;&amp;&nbsp;High&nbsp;Tech","location='/industries/communicationshightech/'");
-  MenuIndustries.addMenuItem("Consumer&nbsp;Products","location='/industries/consumerproducts/'");
   MenuIndustries.addMenuItem(MenuFinancialServices);
   MenuIndustries.addMenuItem("Government","location='/industries/government/'");
   MenuIndustries.addMenuItem("Health&nbsp;Services","location='/industries/healthservices/'");
@@ -271,6 +270,14 @@ if ((navigator.appName == "Netscape")  && (parseInt(navigator.appVersion) == 4))
    MenuAlliancePartners.menuLiteBgColor='#636363';
    MenuAlliancePartners.menuBorderBgColor='#767676';
    MenuAlliancePartners.bgColor='#636363';
+  window.MenuCorporateGovernance = new Menu("root",83,24,"Verdana, Arial, Helvetica, sans-serif",11,"#ffffff","#ffffff","#A9A8A7","#659AC4","left","middle",7,0,TIMEOUT,1,0,true,true,true,0,true,true);
+  MenuCorporateGovernance.addMenuItem("Main&nbsp;Page","location='/governance/'");
+   MenuCorporateGovernance.fontWeight="bold";
+   MenuCorporateGovernance.hideOnMouseOut=true;
+   MenuCorporateGovernance.menuBorder=1;
+   MenuCorporateGovernance.menuLiteBgColor='#636363';
+   MenuCorporateGovernance.menuBorderBgColor='#767676';
+   MenuCorporateGovernance.bgColor='#636363';   
   window.MenuInvestorRelations = new Menu("root",178,24,"Verdana, Arial, Helvetica, sans-serif",11,"#ffffff","#ffffff","#A9A8A7","#659AC4","left","middle",7,0,TIMEOUT,1,0,true,true,true,0,true,true);
   MenuInvestorRelations.addMenuItem("Main&nbsp;Page","location='/investorrelations/'");
   MenuInvestorRelations.addMenuItem("Financial&nbsp;Reports","location='/investorrelations/reports.shtml'");
@@ -388,34 +395,41 @@ mmLoadMenus()
    </div>
   </div>
 </div>
-<div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 210px; height: 228px;">
-  <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 226px; width: 208px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 225px; width: 207px; background-color: rgb(99, 99, 99);">
+<div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 210px; height: 203px;">
+  <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 201px; width: 208px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 200px; width: 207px; background-color: rgb(99, 99, 99);">
 <div id="menuItem26" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText26" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Main&nbsp;Page&nbsp;</div>
 <div id="menuItemHilite26" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Main&nbsp;Page&nbsp;</div></div><div id="menuItem27" style="position: absolute; left: 0px; top: 25px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText27" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Aerospace&nbsp;&amp;&nbsp;Defense&nbsp;</div>
 <div id="menuItemHilite27" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Aerospace&nbsp;&amp;&nbsp;Defense&nbsp;</div></div><div id="menuItem28" style="position: absolute; left: 0px; top: 50px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText28" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Chemical&nbsp;&amp;&nbsp;Energy&nbsp;</div>
 <div id="menuItemHilite28" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Chemical&nbsp;&amp;&nbsp;Energy&nbsp;</div></div><div id="menuItem29" style="position: absolute; left: 0px; top: 75px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText29" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Communications&nbsp;&amp;&nbsp;High&nbsp;Tech&nbsp;</div>
-<div id="menuItemHilite29" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Communications&nbsp;&amp;&nbsp;High&nbsp;Tech&nbsp;</div></div><div id="menuItem30" style="position: absolute; left: 0px; top: 100px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText30" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Consumer&nbsp;Products&nbsp;</div>
-<div id="menuItemHilite30" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Consumer&nbsp;Products&nbsp;</div></div><div id="menuItem31" style="position: absolute; left: 0px; top: 125px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText31" style="position:absolute;left:8px;top:5.5px;color:#ffffff;"> Financial&nbsp;Services&nbsp;</div>
-<div id="menuItemHilite31" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;"> Financial&nbsp;Services&nbsp;</div><div id="childMenu31" style="position: absolute; left: 195px; top: 8px;"><img src="/images/hp/arrows.gif"></div>
-</div><div id="menuItem32" style="position: absolute; left: 0px; top: 150px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText32" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Government&nbsp;</div>
-<div id="menuItemHilite32" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Government&nbsp;</div></div><div id="menuItem33" style="position: absolute; left: 0px; top: 175px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText33" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Health&nbsp;Services&nbsp;</div>
-<div id="menuItemHilite33" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Health&nbsp;Services&nbsp;</div></div><div id="menuItem34" style="position: absolute; left: 0px; top: 200px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText34" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Retail&nbsp;</div>
-<div id="menuItemHilite34" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Retail&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItemHilite29" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Communications&nbsp;&amp;&nbsp;High&nbsp;Tech&nbsp;</div></div><div id="menuItem30" style="position: absolute; left: 0px; top: 100px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText30" style="position:absolute;left:8px;top:5.5px;color:#ffffff;"> Financial&nbsp;Services&nbsp;</div>
+<div id="menuItemHilite30" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;"> Financial&nbsp;Services&nbsp;</div><div id="childMenu30" style="position: absolute; left: 195px; top: 8px;"><img src="/images/hp/arrows.gif"></div>
+</div><div id="menuItem31" style="position: absolute; left: 0px; top: 125px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText31" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Government&nbsp;</div>
+<div id="menuItemHilite31" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Government&nbsp;</div></div><div id="menuItem32" style="position: absolute; left: 0px; top: 150px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText32" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Health&nbsp;Services&nbsp;</div>
+<div id="menuItemHilite32" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Health&nbsp;Services&nbsp;</div></div><div id="menuItem33" style="position: absolute; left: 0px; top: 175px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 206px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText33" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Retail&nbsp;</div>
+<div id="menuItemHilite33" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Retail&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
 <div id="menuLayer6" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 87px; height: 28px;">
   <div id="menuLite6" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 26px; width: 85px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg6" style="position: absolute; left: 1px; top: 1px; height: 25px; width: 84px; background-color: rgb(99, 99, 99);">
-<div id="menuItem35" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 83px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText35" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Main&nbsp;Page&nbsp;</div>
-<div id="menuItemHilite35" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Main&nbsp;Page&nbsp;</div></div>	  <div id="focusItem6" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItem34" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 83px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText34" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Main&nbsp;Page&nbsp;</div>
+<div id="menuItemHilite34" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Main&nbsp;Page&nbsp;</div></div>	  <div id="focusItem6" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer7" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 182px; height: 253px;">
-  <div id="menuLite7" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 251px; width: 180px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg7" style="position: absolute; left: 1px; top: 1px; height: 250px; width: 179px; background-color: rgb(99, 99, 99);">
+<div id="menuLayer7" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 87px; height: 28px;">
+  <div id="menuLite7" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 26px; width: 85px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg7" style="position: absolute; left: 1px; top: 1px; height: 25px; width: 84px; background-color: rgb(99, 99, 99);">
+<div id="menuItem35" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 83px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText35" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Main&nbsp;Page&nbsp;</div>
+<div id="menuItemHilite35" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Main&nbsp;Page&nbsp;</div></div>	  <div id="focusItem7" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer8" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 182px; height: 253px;">
+  <div id="menuLite8" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 251px; width: 180px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg8" style="position: absolute; left: 1px; top: 1px; height: 250px; width: 179px; background-color: rgb(99, 99, 99);">
 <div id="menuItem36" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 178px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText36" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Main&nbsp;Page&nbsp;</div>
 <div id="menuItemHilite36" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Main&nbsp;Page&nbsp;</div></div><div id="menuItem37" style="position: absolute; left: 0px; top: 25px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 178px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText37" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Financial&nbsp;Reports&nbsp;</div>
 <div id="menuItemHilite37" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Financial&nbsp;Reports&nbsp;</div></div><div id="menuItem38" style="position: absolute; left: 0px; top: 50px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 178px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText38" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">SEC&nbsp;Filings&nbsp;</div>
@@ -426,37 +440,37 @@ mmLoadMenus()
 <div id="menuItemHilite42" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Financial&nbsp;Press&nbsp;Releases&nbsp;</div></div><div id="menuItem43" style="position: absolute; left: 0px; top: 175px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 178px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText43" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Events&nbsp;</div>
 <div id="menuItemHilite43" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Events&nbsp;</div></div><div id="menuItem44" style="position: absolute; left: 0px; top: 200px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 178px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText44" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">FAQs&nbsp;</div>
 <div id="menuItemHilite44" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">FAQs&nbsp;</div></div><div id="menuItem45" style="position: absolute; left: 0px; top: 225px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 178px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText45" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Contact&nbsp;Us&nbsp;</div>
-<div id="menuItemHilite45" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Contact&nbsp;Us&nbsp;</div></div>	  <div id="focusItem7" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItemHilite45" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Contact&nbsp;Us&nbsp;</div></div>	  <div id="focusItem8" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer8" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 119px; height: 128px;">
-  <div id="menuLite8" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 126px; width: 117px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg8" style="position: absolute; left: 1px; top: 1px; height: 125px; width: 116px; background-color: rgb(99, 99, 99);">
+<div id="menuLayer9" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 119px; height: 128px;">
+  <div id="menuLite9" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 126px; width: 117px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg9" style="position: absolute; left: 1px; top: 1px; height: 125px; width: 116px; background-color: rgb(99, 99, 99);">
 <div id="menuItem46" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 115px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText46" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Main&nbsp;Page&nbsp;</div>
 <div id="menuItemHilite46" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Main&nbsp;Page&nbsp;</div></div><div id="menuItem47" style="position: absolute; left: 0px; top: 25px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 115px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText47" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Press&nbsp;Releases&nbsp;</div>
 <div id="menuItemHilite47" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Press&nbsp;Releases&nbsp;</div></div><div id="menuItem48" style="position: absolute; left: 0px; top: 50px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 115px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText48" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Events&nbsp;</div>
 <div id="menuItemHilite48" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Events&nbsp;</div></div><div id="menuItem49" style="position: absolute; left: 0px; top: 75px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 115px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText49" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">CSC&nbsp;Press&nbsp;Kit&nbsp;</div>
 <div id="menuItemHilite49" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">CSC&nbsp;Press&nbsp;Kit&nbsp;</div></div><div id="menuItem50" style="position: absolute; left: 0px; top: 100px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 115px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText50" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Contacts&nbsp;</div>
-<div id="menuItemHilite50" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Contacts&nbsp;</div></div>	  <div id="focusItem8" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItemHilite50" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Contacts&nbsp;</div></div>	  <div id="focusItem9" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer9" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 127px; height: 78px;">
-  <div id="menuLite9" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 76px; width: 125px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg9" style="position: absolute; left: 1px; top: 1px; height: 75px; width: 124px; background-color: rgb(99, 99, 99);">
+<div id="menuLayer10" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 127px; height: 78px;">
+  <div id="menuLite10" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 76px; width: 125px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg10" style="position: absolute; left: 1px; top: 1px; height: 75px; width: 124px; background-color: rgb(99, 99, 99);">
 <div id="menuItem51" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 123px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText51" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Main&nbsp;Page&nbsp;</div>
 <div id="menuItemHilite51" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Main&nbsp;Page&nbsp;</div></div><div id="menuItem52" style="position: absolute; left: 0px; top: 25px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 123px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText52" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Press&nbsp;Releases&nbsp;</div>
 <div id="menuItemHilite52" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Press&nbsp;Releases&nbsp;</div></div><div id="menuItem53" style="position: absolute; left: 0px; top: 50px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 123px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText53" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Events&nbsp;</div>
-<div id="menuItemHilite53" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Events&nbsp;</div></div>	  <div id="focusItem9" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItemHilite53" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Events&nbsp;</div></div>	  <div id="focusItem10" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer10" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 87px; height: 28px;">
-  <div id="menuLite10" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 26px; width: 85px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg10" style="position: absolute; left: 1px; top: 1px; height: 25px; width: 84px; background-color: rgb(99, 99, 99);">
+<div id="menuLayer11" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(118, 118, 118); background-color: rgb(118, 118, 118); width: 87px; height: 28px;">
+  <div id="menuLite11" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 26px; width: 85px; background-color: rgb(99, 99, 99);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg11" style="position: absolute; left: 1px; top: 1px; height: 25px; width: 84px; background-color: rgb(99, 99, 99);">
 <div id="menuItem54" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 83px; height: 24px; background-color: rgb(169, 168, 167); visibility: inherit; cursor: pointer;"><div id="menuItemText54" style="position:absolute;left:8px;top:5.5px;color:#ffffff;">Main&nbsp;Page&nbsp;</div>
-<div id="menuItemHilite54" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Main&nbsp;Page&nbsp;</div></div>	  <div id="focusItem10" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItemHilite54" style="position:absolute;left:8px;top:5.5px;color:#ffffff;visibility:hidden;">Main&nbsp;Page&nbsp;</div></div>	  <div id="focusItem11" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
@@ -479,6 +493,9 @@ mmLoadMenus()
   <tr>
    <td><a href="/alliancepartners/" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showMenu(window.MenuAlliancePartners,161,0,null,'AlliancePartners');MM_swapImage('AlliancePartners','','/images/hp/alliancepartnersg.gif',1);"><img name="AlliancePartners" src="/images/hp/alliancepartners.gif" width="161" height="19" border="0" alt="Alliances"></a></td>
   </tr>
+  <tr>
+   <td><a href="/governance/" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showMenu(window.MenuCorporateGovernance,161,0,null,'CorporateGovernance');MM_swapImage('CorporateGovernance','','/images/hp/corporategovernanceg.gif',1);"><img name="CorporateGovernance" src="/images/hp/corporategovernance.gif" width="161" height="19" border="0" alt="Corporate Governance"></a></td>
+  </tr>  
   <tr>
    <td><a href="/investorrelations/" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showMenu(window.MenuInvestorRelations,161,0,null,'InvestorRelations');MM_swapImage('InvestorRelations','','/images/hp/investorrelationsg.gif',1);"><img name="InvestorRelations" src="/images/hp/investorrelations.gif" width="161" height="19" border="0" alt="Investor Relations"></a></td>
   </tr>
