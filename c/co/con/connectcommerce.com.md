@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectcommerce.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620231303id_/http%3A//www.connectcommerce.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectcommerce.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202081900id_/http%3A//www.connectcommerce.com/privacy.html) for the most accurate reproduction.*
 
 # ConnectCommerce(tm) Service Center
 
