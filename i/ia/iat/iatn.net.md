@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209003337id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602014339id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
 
 # iATN - Privacy Policy
 
@@ -189,5 +189,3 @@ This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most 
 >  Email: [support@iatn.net](mailto:support@iatn.net)
 
 * * *
-
-Copyright ©1996-2001 iATN. All rights reserved. [Terms of Use](http://www.iatn.net/disclaim.html) | [Privacy Policy](http://www.iatn.net/privacy.html)
