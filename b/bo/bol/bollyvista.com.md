@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollyvista.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613094656id_/http%3A//www.bollyvista.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyvista.com privacy policy that was archived on 2001-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011005105044id_/http%3A//www.bollyvista.com/privacy.html) for the most accurate reproduction.*
 
 # BOLLYVISTA.COM : Privacy Statement
 
