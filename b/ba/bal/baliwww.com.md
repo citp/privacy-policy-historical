@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212123153id_/http%3A//baliwww.com/ma/members/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402212432id_/http%3A//www.baliwww.com/index/policy.html) for the most accurate reproduction.*
 
-# Ayu Bali Lestari Tours and Travel Ltd. | Policy on ABL Membership
+# Bali Indonesia Travel Villa Hotel Portal - Baliwww.com
 
   
 Access Bali Online, which is sister company of ABL Tours & Travel Ltd., committed to safeguarding your privacy online. Even when you visit us as a visitor and or general user, we stay give our high commitment to make you feel safe and free. In order to contact us, for instance, we provide you with various safe ways which you can prefer and use according to your own conditions. All are in safe and fair way. Please read the following  
