@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malaysiakini.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008123935id_/http%3A//malaysiakini.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysiakini.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610192030id_/http%3A//malaysiakini.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Welcome to Malaysiakini
 
