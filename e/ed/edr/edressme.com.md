@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edressme.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608124756id_/http%3A//www.edressme.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edressme.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017061610id_/http%3A//www.edressme.com/privacypolicy.html) for the most accurate reproduction.*
 
-# eDressMe - Cocktail Dresses, Evening Dresses, Prom Dresses Privacy Policy
+# Cocktail Evening Dresses,Prom,Bridesmaid,Formal Info
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+[edressme@yahoo.com](mailto:edressme@yahoo.com)
 
 eDressme is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others.
 
@@ -36,7 +36,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected.
 
-If you have any questions about the security at our website, you can send an email to edressme@aol.com.
+If you have any questions about the security at our website, you can send an email to edressme@yahoo.com.
 
 Notification of Changes:
 
