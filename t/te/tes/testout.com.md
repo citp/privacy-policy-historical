@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testout.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202044400id_/http%3A//www.testout.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testout.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408234606id_/http%3A//www.testout.com/company/privacy.html) for the most accurate reproduction.*
 
 # TestOut! Corporation - providing the lessons only experience can teach
 
