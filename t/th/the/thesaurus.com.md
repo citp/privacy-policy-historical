@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesaurus.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416025049id_/http%3A//thesaurus.reference.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesaurus.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203201043id_/http%3A//thesaurus.reference.com/help/privacy.html) for the most accurate reproduction.*
 
 # Thesaurus.com/Privacy Policy
 
