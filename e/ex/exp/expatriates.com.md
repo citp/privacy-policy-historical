@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatriates.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008171250id_/http%3A//expatriates.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatriates.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611003100id_/http%3A//expatriates.com/html/privacy.html) for the most accurate reproduction.*
 
 # Expatriates.com - Privacy statement
 
