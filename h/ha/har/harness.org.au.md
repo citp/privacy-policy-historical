@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harness.org.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205151001id_/http%3A//www.harness.org.au/index.cfm%3Fp%3Dp%26id%3D/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harness.org.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610084234id_/http%3A//www.harness.org.au/index.cfm%3Fp%3Dp%26id%3D/privacy.cfm) for the most accurate reproduction.*
 
 # Harness Racing in Australia - Official Site
 
