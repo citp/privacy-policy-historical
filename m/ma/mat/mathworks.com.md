@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004141541id_/http%3A//www.mathworks.com/company/policies/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602213541id_/http%3A//www.mathworks.com/company/policies/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.mathworks.com
 
@@ -31,23 +31,24 @@ The MathWorks Store uses an order form to collect contact information and paymen
 Important Note: The MathWorks web site contains links to other sites such as universities and other businesses. If you link to one of those sites, please note that we do not control their privacy practices. Therefore, we urge you to learn about their privacy practices before leaving your contact information with them.  
 
 
-**IP addresses and cookies.** We use your IP address to administer our Web site and, occasionally, to help diagnose problems with our server. We also use it to gather broad demographic information and count the number of visits to the Web site. The MathWorks uses this nonpersonal information about users to track the URL that the user has come from (whether this URL is on The MathWorks Web site or not), the URL that the user goes to next (if the URL is on The MathWorks Web site), the Internet browser being used, the type of operating system used, the user's web server location, and the user's IP address. The MathWorks may use such nonpersonal information for purposes including, but not limited to, improving the content of its Web site, and for marketing and advertising research.
+**IP addresses and cookies.** We use your IP address to administer our web site and, occasionally, to help diagnose problems with our server. The MathWorks does not use IP addresses to link to personally identifiable information. We use data collected in web server log files to determine referrer information (whether this URL is on The MathWorks Web site or not), the Internet browser being used, the type of operating system used, and to identify aggregate site navigation trends.
 
-A text file, known as a cookie, is created when you login to the MATLAB®Access area of the Web site. The cookie pre-populates forms for your convenience, plus it enables you to look up your license information, get quotes, etc. You have two choices as to the type of cookie used, either a transient or a permanent cookie. Neither type of cookie saves any personal information to your hard drive. If you choose the option "Remember my login info", a permanent cookie will be saved to your hard drive. This cookie contains a simple encrypted code which is decrypted by our web server every time you enter the Access area from your computer. 
+When you visit The MathWorks Web site, one or more cookies may be placed on (or read from) your machine if your browser is set to accept cookies. A cookie is a small data file that we transfer to your computer's hard drive through your web browser. These cookies do not store any personal information on your hard drive; they only store a small code that is used solely by our web server. We use cookies to maintain current session data, to gather broad demographic information, and to help analyze web site traffic. The MathWorks may use such non-personal information for purposes including, but not limited to, market research, and improving the content of our web site. 
+
+A cookie may also be used when you enter the Access Login area of the Web site. This cookie pre-populates forms for your convenience, plus it enables you to look up your license information, get quotes, etc. This cookie contains a simple code, which is used solely by our web server every time you enter the Access Login area from your computer.   
+
 
 2\. How we protect your information 
 
 This MathWorks Store has security measures in place to protect against the loss, misuse, and alteration of the order information under our control. We use industry standard security measures called SSL encryption. Encryption helps protect your credit card number and personal information by scrambling the data in transit to The MathWorks Store. We encrypt every order. If you would prefer to give your information by telephone, you may call 508-647-7000.
 
-3\. How to remove and/or update your information
+3\. How to remove your name from mailing lists and/or update your information
 
-This site gives you the following options for removing your information from our mailing lists:
+The MathWorks sends many types of email and postal mail including printed and electronic newsletters, The MATLAB Digest, event announcements, etc. You may choose to not receive these types of correspondence.
 
-**Do not receive e-mail:** You may choose not to receive e-mail that we use to distribute new product announcements and The MathWorks electronic newsletter, The MATLAB Digest. If you choose this option, please note that you will still receive e-mail containing Personal License Passwords (passcodes) and license files which are necessary for installing our software. Submit the [mailing list removal form](https://web.archive.org/web/20021004141541id_/http%3A//www.mathworks.com/company/policies/removalform.shtml) to indicate your preferences.
+**Remove your name from e-mail or postal mail lists** : Simply submit the [mailing list removal form](https://web.archive.org/web/20030602213541id_/http%3A//www.mathworks.com/company/policies/removalform.shtml). Note: Operational correspondence for licensed customers, such as e-mails containing Personal License Passwords (passcodes) and maintenance renewal notifications are not optional.
 
-**Do not receive postal mail:** You may choose not to receive promotional mailings from The MathWorks. Submit the [mailing list removal form](https://web.archive.org/web/20021004141541id_/http%3A//www.mathworks.com/company/policies/removalform.shtml) to indicate your preferences. If we originally obtained your name from an external mailing list, we will also do our best to have your name and address removed from the originating mailing list, however we cannot guarantee removal. 
-
-**Correct/Update your contact information:** If you are an Access Member (current user) you may [ Update Your Contact Info](http://www.mathworks.com/cgi-bin/mla_profilemod.pl) to make necessary changes.
+**Correct/Update your contact information:** If you have an [Access Login](https://web.archive.org/accesslogin/) you may make the necessary changes now.
 
   
 
