@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netapp.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206070729id_/http%3A//netapp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netapp.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603031042id_/http%3A//netapp.com/privacy.html) for the most accurate reproduction.*
 
 # Network Appliance - Privacy Policy Statement
 
