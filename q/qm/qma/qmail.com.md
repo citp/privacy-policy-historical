@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qmail.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204212502id_/http%3A//www.qmail.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmail.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605121229id_/http%3A//qmail.com/html/privacy.html) for the most accurate reproduction.*
 
 # ForeverMail Privacy Policy
 
