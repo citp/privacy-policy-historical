@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609193547id_/http%3A//www.pgatour.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205114257id_/http%3A//www.pgatour.com/information/privacy.html) for the most accurate reproduction.*
 
 # GolfWeb@PGATOUR.COM
 
@@ -84,7 +84,7 @@ Fort Lauderdale, Florida 33309**
 
 |   |  |   
 ---  
-Balls, Books, Clubs, Shirts  
-Shop for golf gear at  
-PGATOURStop.com  
-[Click Here!](http://www.pgatourstop.com/hmehome.asp?aid=23)
+Find a course  
+that matches your game  
+with our Course Guide.  
+[Click Here!](http://courseguide.golfweb.com/html.cgi?page=index.html)
