@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the savannahnow.com privacy policy that was archived on 2001-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011201211929id_/http%3A//www.savannahnow.com/copyNOW.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the savannahnow.com privacy policy that was archived on 2002-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604045347id_/http%3A//www.savannahnow.com/copyNOW.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head><meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 
@@ -52,6 +52,15 @@
 		font-size:10px; 
 		font-family:Trebuchet, Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, sans-serif; 
 		text-decoration:none;}	
+		
+.digest
+		{font-family:Trebuchet, Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, sans-serif}	
+		
+.posted 
+		{color:#000000; 
+		font-size:10px; 
+		font-family:Trebuchet, Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, sans-serif; 
+		text-decoration:italics;}	
 		
 .calendar	 
 		{color:#FDF4E4; 
@@ -191,13 +200,18 @@ hr
 		line-height: 1px;
 		size: 1px;}
 
-span.mark1 
+.mark 
+		{ font-size: 11px;
+		font-family: Trebuchet, Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+		text-decoration: none }
+
+.mark1 
 		{ font-size: 11px;
 		line-height: 12px;
 		font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
 		text-decoration: none }
 
-span.mark2 
+.mark2 
 		{ color: #000000;
 		font-size: 11px;
 		line-height: 12px;
@@ -217,6 +231,9 @@ span.mark2
 <!--//end maps-->
 <script type="text/javascript" language="javascript">
 <!--
+ if (top.frames.length != 0) {
+  top.location = "http://www.savannahnow.com"
+ }
 
 // Navigation system
 function MM_findObj(n, d) { 
@@ -320,47 +337,34 @@ function preloadImages() {
 
 // End Image rollover script
 // Start CrimeMap Functions
- function crimeMap54() {
-  	window.open('http://www.savannahnow.com/features/oursafety/CrimeZoom1105c.html','CrimeMap','status=1,toolbar=no,menubar=no,location=no,scrollbars=no,resizable=no,width=417,height=379');
-}
- 
- function crimeMap55() {
-  	window.open('http://www.savannahnow.com/features/oursafety/CrimeZoom1105d.html','CrimeMap','status=1,toolbar=no,menubar=no,location=no,scrollbars=no,resizable=no,width=417,height=379');
-}
-
- function crimeMap56() {
-  	window.open('http://www.savannahnow.com/features/oursafety/CrimeZoom1119c.html','CrimeMap','status=1,toolbar=no,menubar=no,location=no,scrollbars=no,resizable=no,width=417,height=379');
-}
- 
- function crimeMap57() {
-  	window.open('http://www.savannahnow.com/features/oursafety/CrimeZoom1119d.html','CrimeMap','status=1,toolbar=no,menubar=no,location=no,scrollbars=no,resizable=no,width=417,height=379');
-}
-
- function crimeMap58() {
-  	window.open('http://www.savannahnow.com/features/oursafety/CrimeZoom1126c.html','CrimeMap','status=1,toolbar=no,menubar=no,location=no,scrollbars=no,resizable=no,width=417,height=379');
-}
- 
- function crimeMap59() {
-  	window.open('http://www.savannahnow.com/features/oursafety/CrimeZoom1126d.html','CrimeMap','status=1,toolbar=no,menubar=no,location=no,scrollbars=no,resizable=no,width=417,height=379');
-}
-
 // Start Popup Functions
+function popMulti(A, B, C) {
+window.open(A, B, C + ',status=1');
+}
+
+function popCrime(A, B, C) {
+window.open(A, B, 'WIDTH=420,HEIGHT=385,status=1');
+}
 
 var a
 function powerSearch(a, b, c)	{
-window.open("http://www.savannahnow.com/powersearch.shtml", "search", "width=150,height=350,toolbar=no,scrollbars=no,menu=no,resizable=no");
+window.open("http://www.savannahnow.com/powersearch.shtml", "search", "width=150,height=375,toolbar=no,scrollbars=no,menu=no,resizable=no");
 }
 
 var aAnchor
 function siteIndex(aAnchor)	{
-window.open('http://www.savannahnow.com/siteindex/index.shtml#' + aAnchor + '', 'siteindex', 'width=260,height=400,toolbar=no,scrollbars=yes,menu=no,resizable=yes');
+window.open('http://www.savannahnow.com/siteindex/index.shtml#' + aAnchor + '', 'siteindex', 'width=260,height=420,toolbar=no,scrollbars=yes,menu=no,resizable=yes');
 }
 function sitefeatures(a, b, c)	{
-window.open('http://www.savannahnow.com/features/', 'features', 'width=136,height=400,toolbar=no,scrollbars=yes,menu=no,resizable=yes');
+window.open('http://www.savannahnow.com/features/', 'features', 'width=136,height=420,toolbar=no,scrollbars=yes,menu=no,resizable=yes');
 }
 
 function howto(a, b, c)	{
 window.open('http://www.savannahnow.com/howto.shtml', 'howto', 'width=270,height=500,toolbar=no,scrollbars=yes,menu=no,resizable=yes');
+}
+
+function makeSearchWindow() {
+window.open('http://www.savannahnow.com/search_helpnew.html','helpwindow','width=340,height=300,status=1,scrollbars=1');
 }
 
 function loadsplite() {
@@ -372,6 +376,11 @@ function loadsplite() {
 
   var SpinnerWindow = window.open('http://www.spinner.com/plugintest/check-cookie.jhtml?version=2.0.0.spinlite.0&plugintest_url=/plugintest/welcome.jhtml&player_url=/sp-lite/spinner.jhtml','Spinner','resizable=no,status=1,left=0,top=0,width='+ playerwidth +',height=305');
   }
+  
+function newWindow(url,w,h) 
+{
+sampleWindow = window.open(url,'newWin','toolbar=yes,location=no,scrollbars=yes,status=no,resizable=yes,width='+w+',height='+h+'')
+}
 
 // window.open('testload.html','loader','WIDTH=433,HEIGHT=64,resizeable=0,scrollbars=0,menubar=0,location=0,directories=0');
 
@@ -449,6 +458,39 @@ preloadImages();
 <img src="http://www.savannahnow.com/images/newimages/spacer.gif" border="0" width="128" height="3"><br>
 
 <center>
+<!-- START OUR COAST TABLE -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2"><img src="http://www.savannahnow.com/images/newimages/table01.gif" border="0" width="3" height="2"></td>
+<td bgcolor="#000000" align="left"><img src="http://www.savannahnow.com/images/newimages/tablegray02.gif" border="0" width="116" height="2"></td>
+<td bgcolor="#000000" align="right"><img src="http://www.savannahnow.com/images/newimages/tablegray03.gif" border="0" width="7" height="2"></td>
+<td rowspan="3"><img src="http://www.savannahnow.com/images/newimages/table04.gif" border="0" width="1" height="11"></td>
+<td rowspan="3"><img src="http://www.savannahnow.com/images/newimages/table05.gif" border="0" width="1" height="11"></td></tr>
+<tr><td colspan="2"><img src="http://www.savannahnow.com/images/newimages/table06.gif" border="0" width="3" height="2"></td>
+<td bgcolor="#857864" align="left"><img src="http://www.savannahnow.com/images/newimages/table07.gif" border="0" width="116" height="2"></td>
+<td bgcolor="#857864" align="right"><img src="http://www.savannahnow.com/images/newimages/table08.gif" border="0" width="7" height="2"></td>
+</tr><tr><td colspan="2"><img src="http://www.savannahnow.com/images/newimages/table09.gif" border="0" width="3" height="7"></td>
+<td bgcolor="#F5E4CB" align="left"><img src="http://www.savannahnow.com/images/newimages/tablelt10.gif" border="0" width="116" height="7"></td>
+<td bgcolor="#F5E4CB" align="right"><img src="http://www.savannahnow.com/images/newimages/tablelt11.gif" border="0" width="7" height="7"></td></tr>
+<tr><td bgcolor="#000000"><img src="http://www.savannahnow.com/images/newimages/spacer.gif" border="0" width="1" height="3"></td>
+<td bgcolor="#857864"><img src="http://www.savannahnow.com/images/newimages/spacer.gif" border="0" width="1" height="3"></td>
+<td colspan="2" bgcolor="#F5E4CB" align="CENTER"><img src="http://www.savannahnow.com/images/newimages/spacer.gif" border="0" width="123" height="1"><br>
+<a href="http://www.ourcoast.com/" target="ourcoast"><img src="http://www.savannahnow.com/images/featurebuttons/ourcoastrotate120x90.gif" width="120" height="90" border="0">
+</a></td>
+<td bgcolor="#756958"><img src="http://www.savannahnow.com/images/newimages/spacer.gif" border="0" width="1" height="3"></td>
+<td bgcolor="#000000"><img src="http://www.savannahnow.com/images/newimages/spacer.gif" border="0" width="1" height="3"></td></tr>
+<tr><td rowspan="2"><img src="http://www.savannahnow.com/images/newimages/table17.gif" border="0" width="2" height="9"></td>
+<td rowspan="2"><img src="http://www.savannahnow.com/images/newimages/table18.gif" border="0" width="1" height="9"></td>
+<td bgcolor="#F5E4CB" align="left"><img src="http://www.savannahnow.com/images/newimages/tablelt19.gif" border="0" width="116" height="6"></td>
+<td bgcolor="#F5E4CB" align="right"><img src="http://www.savannahnow.com/images/newimages/tablelt20.gif" border="0" width="7" height="6"></td>
+<td rowspan="2"><img src="http://www.savannahnow.com/images/newimages/table21.gif" border="0" width="1" height="9"></td>
+<td rowspan="2"><img src="http://www.savannahnow.com/images/newimages/table22.gif" border="0" width="1" height="9"></td></tr>
+<tr><td bgcolor="#000000" align="LEFT"><img src="http://www.savannahnow.com/images/newimages/tablegray23.gif" border="0" width="116" height="3"></td>
+<td bgcolor="#000000" align="RIGHT"><img src="http://www.savannahnow.com/images/newimages/tablegray24.gif" border="0" width="7" height="3"></td></tr></tbody></table>
+<!-- //END OUR COAST TABLE -->
+<img src="http://www.savannahnow.com/images/newimages/spacer.gif" border="0" width="128" height="3"><br>
+
+<a href="http://yp.bellsouth.com/?from=MOR&amp;mkt=SAGA" target="new"><img src="http://www.savannahnow.com/images/newimages/yellowpages126x27.gif" width="126" height="27" border="0"></a>
+
+<img src="http://www.savannahnow.com/images/newimages/spacer.gif" border="0" width="128" height="3"><br>
 <!-- START FRONT PAGE TABLE -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2"><img src="http://www.savannahnow.com/images/newimages/table01.gif" border="0" width="3" height="2"></td>
 <td bgcolor="#000000" align="left"><img src="http://www.savannahnow.com/images/newimages/tablegray02.gif" border="0" width="116" height="2"></td>
@@ -497,10 +539,10 @@ preloadImages();
 <span class="headerblueserif">Advertisers</span><br>
 		<a href="http://ads.savannahnow.com/RealMedia/ads/click_nx.ads/www.savannahnow.com/index.html@Right1?x"><img src="http://ads.savannahnow.com/RealMedia/ads/adstream_nx.ads/www.savannahnow.com/index.html@Right1?x" border="0" width="120" height="90"></a><br><img src="http://www.savannahnow.com/images/newimages/spacer.gif" width="1" height="8" border="0"><br><a href="http://ads.savannahnow.com/RealMedia/ads/click_nx.ads/www.savannahnow.com/index.html@Right2?x"><img src="http://ads.savannahnow.com/RealMedia/ads/adstream_nx.ads/www.savannahnow.com/index.html@Right2?x" border="0" width="120" height="90"></a><br>
 					<img src="http://www.savannahnow.com/images/newimages/brownpixel.gif" width="120" height="1" border="0" vspace="5"><br>
-		<span class="HEADERBLUESERIF">FREE</span><br><span class="CONTENT">internet radio</span><br>
+		<span class="headerblueserif">FREE</span><br><span class="CONTENT">internet radio</span><br>
 		<a href="javascript:loadsplite();"><img src="http://www.savannahnow.com/images/newimages/spinner.gif" alt="Spinner Radio" width="88" height="31" hspace="0" vspace="2" border="0"></a><br>
 		<img src="http://www.savannahnow.com/images/newimages/brownpixel.gif" width="120" height="1" border="0" vspace="5"><br>
-		<span class="HEADERBLUESERIF">FREE EMAIL</span><br>
+		<span class="headerblueserif">FREE EMAIL</span><br>
 		<a href="http://webmail.savannahnow.net/cgi-bin/login.cgi"><img src="http://www.savannahnow.com/images/newimages/login.gif" alt="LOGIN" width="77" height="21" hspace="2" vspace="0" border="0"></a><br clear="all">
 <a href="http://webmail.savannahnow.net/cgi-bin/newuser.cgi">SIGN UP</a><br>
 		<img src="http://www.savannahnow.com/images/newimages/brownpixel.gif" width="120" height="1" border="0" vspace="5">
@@ -525,9 +567,9 @@ preloadImages();
 <td valign="top" bgcolor="#E8E8E8"><img src="http://www.savannahnow.com/images/newimages/spacer.gif" width="449" height="1"><br>
 <table width="449" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#E8E8E8" width="30" align="right" valign="MIDDLE">
 <!-- weather info -->
-<a href="http://www.weatherpoint.com/wpoint1?GASANE" class="weather"><img src="http://www.savannahnow.com/images/newimages/pcloudy.gif" width="30" height="14" vspace="0" border="0" alt="Partly Cloudy"></a></td>
+<a href="http://www.weatherpoint.com/wpoint1?GASANE" class="weather"><img src="http://www.savannahnow.com/images/newimages/clear.gif" width="30" height="14" vspace="0" border="0" alt="Clear"></a></td>
 <td width="3" align="right" valign="MIDDLE"><img src="http://www.savannahnow.com/images/newimages/spacer.gif" width="3" height="20" border="0"></td>
-<td width="414" align="left" valign="MIDDLE"><a href="http://www.weatherpoint.com/wpoint1?GASANE" class="weather">Partly Cloudy • 78° • Winds Calm • 5 Day Forecast Here</a><br>
+<td width="414" align="left" valign="MIDDLE"><a href="http://www.weatherpoint.com/wpoint1?GASANE" class="weather">Clear • 79° • Winds SE at 8 mph • 5 Day Forecast Here</a><br>
 
 
 <!-- /end weather info --></td></tr></tbody></table></td>
@@ -814,7 +856,7 @@ materials appearing on these sites may contact New Media Director Mark Swendra a
 
 
 
-<a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;m=12&amp;y=2001&amp;display=MONTH" class="headerblueserif">Events: December</a><br>
+<a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;m=6&amp;y=2002&amp;display=MONTH" class="headerblueserif">Events: <br>June</a><br>
 
 <!--	d : Day m : Month y : Year
 
@@ -839,12 +881,12 @@ materials appearing on these sites may contact New Media Director Mark Swendra a
   
     
 
-	
 
 
-		  <table border="0" cellpadding="1" cellspacing="0" width="114" bgcolor="#D7C1A1">
-	
-			  <tbody><tr>
+
+	  <table border="0" cellpadding="1" cellspacing="0" width="114" bgcolor="#D7C1A1">
+
+		  <tbody><tr>
 			<td bgcolor="#990000" valign="top" align="center" width="14%"><span class="smcalendar">S</span></td>
 			<td bgcolor="#990000" valign="top" align="center" width="14%"><span class="smcalendar">M</span></td>
 			<td bgcolor="#990000" valign="top" align="center" width="14%"><span class="smcalendar">T</span></td>
@@ -852,117 +894,114 @@ materials appearing on these sites may contact New Media Director Mark Swendra a
 			<td bgcolor="#990000" valign="top" align="center" width="14%"><span class="smcalendar">T</span></td>
 			<td bgcolor="#990000" valign="top" align="center" width="14%"><span class="smcalendar">F</span></td>
 			<td bgcolor="#990000" valign="top" align="center" width="14%"><span class="smcalendar">S</span></td></tr>
-	
+
 	<tr>
-					<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
-					<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
-					<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
-					<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
-					<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
-					<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
-		
-				
-										
-			 
-				<td valign="top" bgcolor="#F5E4CB" align="center"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=1&amp;display=DAY" class="smcalendar1"><b>1</b></a></td>
+			<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
+			<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
+			<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
+			<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
+			<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
+			<td width="14%" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
 
-			</tr><tr>								
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=2&amp;display=DAY" class="smcalendar">2</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=3&amp;display=DAY" class="smcalendar">3</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=4&amp;display=DAY" class="smcalendar">4</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=1&amp;display=DAY" class="smcalendar">1</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=5&amp;display=DAY" class="smcalendar">5</a></font><br clear="all"></td>
+</tr><tr>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=2&amp;display=DAY" class="smcalendar">2</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=6&amp;display=DAY" class="smcalendar">6</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=7&amp;display=DAY" class="smcalendar">7</a></font><br clear="all"></td>
+<td valign="top" bgcolor="#F5E4CB" align="center"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=3&amp;display=DAY" class="smcalendar1"><b>3</b></a></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=8&amp;display=DAY" class="smcalendar">8</a></font><br clear="all"></td>
 
-			</tr><tr>								
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=9&amp;display=DAY" class="smcalendar">9</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=4&amp;display=DAY" class="smcalendar">4</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=10&amp;display=DAY" class="smcalendar">10</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=11&amp;display=DAY" class="smcalendar">11</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=5&amp;display=DAY" class="smcalendar">5</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=12&amp;display=DAY" class="smcalendar">12</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=13&amp;display=DAY" class="smcalendar">13</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=6&amp;display=DAY" class="smcalendar">6</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=14&amp;display=DAY" class="smcalendar">14</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=15&amp;display=DAY" class="smcalendar">15</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=7&amp;display=DAY" class="smcalendar">7</a></font><br clear="all"></td>
 
-			</tr><tr>								
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=16&amp;display=DAY" class="smcalendar">16</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=17&amp;display=DAY" class="smcalendar">17</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=8&amp;display=DAY" class="smcalendar">8</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=18&amp;display=DAY" class="smcalendar">18</a></font><br clear="all"></td>
+</tr><tr>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=9&amp;display=DAY" class="smcalendar">9</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=19&amp;display=DAY" class="smcalendar">19</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=20&amp;display=DAY" class="smcalendar">20</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=10&amp;display=DAY" class="smcalendar">10</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=21&amp;display=DAY" class="smcalendar">21</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=22&amp;display=DAY" class="smcalendar">22</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=11&amp;display=DAY" class="smcalendar">11</a></font><br clear="all"></td>
 
-			</tr><tr>								
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=23&amp;display=DAY" class="smcalendar">23</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=24&amp;display=DAY" class="smcalendar">24</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=12&amp;display=DAY" class="smcalendar">12</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=25&amp;display=DAY" class="smcalendar">25</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=26&amp;display=DAY" class="smcalendar">26</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=13&amp;display=DAY" class="smcalendar">13</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=27&amp;display=DAY" class="smcalendar">27</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=28&amp;display=DAY" class="smcalendar">28</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=14&amp;display=DAY" class="smcalendar">14</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=29&amp;display=DAY" class="smcalendar">29</a></font><br clear="all"></td>
 
-			</tr><tr>								
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=30&amp;display=DAY" class="smcalendar">30</a></font><br clear="all"></td>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=15&amp;display=DAY" class="smcalendar">15</a></font><br clear="all"></td>
 
-											
-			<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2001&amp;m=12&amp;d=31&amp;display=DAY" class="smcalendar">31</a></font><br clear="all"></td>
+</tr><tr>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=16&amp;display=DAY" class="smcalendar">16</a></font><br clear="all"></td>
 
-							
-		 				  <td width="15" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
-				  <td width="15" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
-				  <td width="15" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
-				  <td width="15" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
-				  <td width="15" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
-			  </tr>
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=17&amp;display=DAY" class="smcalendar">17</a></font><br clear="all"></td>
+
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=18&amp;display=DAY" class="smcalendar">18</a></font><br clear="all"></td>
+
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=19&amp;display=DAY" class="smcalendar">19</a></font><br clear="all"></td>
+
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=20&amp;display=DAY" class="smcalendar">20</a></font><br clear="all"></td>
+
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=21&amp;display=DAY" class="smcalendar">21</a></font><br clear="all"></td>
+
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=22&amp;display=DAY" class="smcalendar">22</a></font><br clear="all"></td>
+
+</tr><tr>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=23&amp;display=DAY" class="smcalendar">23</a></font><br clear="all"></td>
+
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=24&amp;display=DAY" class="smcalendar">24</a></font><br clear="all"></td>
+
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=25&amp;display=DAY" class="smcalendar">25</a></font><br clear="all"></td>
+
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=26&amp;display=DAY" class="smcalendar">26</a></font><br clear="all"></td>
+
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=27&amp;display=DAY" class="smcalendar">27</a></font><br clear="all"></td>
+
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=28&amp;display=DAY" class="smcalendar">28</a></font><br clear="all"></td>
+
+
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=29&amp;display=DAY" class="smcalendar">29</a></font><br clear="all"></td>
+
+</tr><tr>
+<td valign="top" align="center"><font face="arial,helvetica,verdana,sans-serif" size="1" color="#000000"><a href="http://calendar.savannahnow.com/ptemp?tid=26942&amp;y=2002&amp;m=6&amp;d=30&amp;display=DAY" class="smcalendar">30</a></font><br clear="all"></td>
+
+
+ 		  <td width="15" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
+		  <td width="15" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
+		  <td width="15" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
+		  <td width="15" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
+		  <td width="15" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
+		  <td width="15" valign="top"><img src="http://www.savannahnow.com/images/spacer.gif" width="10" height="10" border="0"><br></td>
+	  </tr>
 	</tbody></table>
                                                                                                                             
                                                                               
@@ -1000,12 +1039,12 @@ materials appearing on these sites may contact New Media Director Mark Swendra a
 		<td bgcolor="#F5E4CB" class="rightnav" align="left">
 <center><span class="headerblueserif">National News</span><br></center>
 <img src="siteimages/bluedot.gif" width="111" height="1" border="0" vspace="5"><br>
-Updated 4:24 p.m. <br>
+Updated 12:24 a.m. <br>
 
-<a href="http://wire.ap.org/?PACKAGEID=busheconomy" class="rightnav">• President Pushing Economic Stimulus</a><br>
-<a href="http://wire.ap.org/?PACKAGEID=murders" class="rightnav">• Suspect Nabbed in Seattle Killings</a><br>
-<a href="http://wire.ap.org/?PACKAGEID=crime" class="rightnav">• Fugitive Real Estate Heir Durst Arrested</a><br>
-<a href="http://wire.ap.org/?PACKAGEID=BIZoil" class="rightnav">• Cheap Gas After Price Fight in Ohio</a><br>
+<a href="http://wire.ap.org/?PACKAGEID=ATTACKSpolitics&amp;SLUG=ATTACKS%2dINTELLIGENCE" class="rightnav">• Congress Set for Sept. 11 Hearings  </a><br>
+<a href="http://wire.ap.org/?FRONTID=NATIONAL&amp;SLUG=SCOTUS%2dSLEEPING%2dLAWYER" class="rightnav">• Victory for Sleeping Lawyer's Client</a><br>
+<a href="http://wire.ap.org/?FRONTID=NATIONAL&amp;SLUG=SKAKEL%2dTRIAL" class="rightnav">• Skakel Murder Trial Heads to Jury</a><br>
+<a href="http://wire.ap.org/?FRONTID=NATIONAL&amp;SLUG=WILDFIRES" class="rightnav">• Colo. Wildfire Destroys 20 Homes</a><br>
 
 
 </td>
@@ -1042,22 +1081,24 @@ Updated 4:24 p.m. <br>
 <span class="headerblueserif">Features</span><br>
 
 
+<a href="http://www.savannahnow.com/stories/010402/LOCossabawdayone.shtml"><img src="http://www.savannahnow.com/images/featurebuttons/ossabaw.gif" alt="Ossabaw" width="90" height="45" vspace="5" border="0"></a><br>
+<a href="http://www.savannahnow.com/stories/120701/LOCinfamy1.shtml"><img src="http://www.savannahnow.com/images/featurebuttons/infamybutton.gif" alt="Days of Infamy" width="90" height="54" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/features/vision2010/"><img src="http://www.savannahnow.com/images/featurebuttons/vision90x45.gif" alt="Vision 2010" width="90" height="45" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/features/census2000/"><img src="http://www.savannahnow.com/images/featurebuttons/census90x45.gif" alt="Census 2000" width="90" height="45" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/CURRENT/SAFETYindex.shtml"><img src="http://www.savannahnow.com/images/featurebuttons/safety90x45.jpg" alt="Our Safety" width="90" height="45" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/diversions/artshows/frieseke"><img src="http://www.savannahnow.com/images/featurebuttons/frieseke90x45.jpg" alt="Frieseke" width="90" height="45" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/columnists/krueger/"><img src="http://www.savannahnow.com/images/featurebuttons/backyard90x45.jpg" alt="Our Back Yard" width="90" height="45" vspace="5" border="0"></a><br>
-<a href="http://stpats.savannahnow.com"><img src="http://www.savannahnow.com/images/featurebuttons/stpats90x45.gif" alt="St. Patrick's Day" width="90" height="45" vspace="5" border="0"></a><br>
+<a href="http://stpats.savannahnow.com/"><img src="http://www.savannahnow.com/images/featurebuttons/stpats2002_90x45.gif" alt="St. Patrick's Day" width="90" height="45" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/multimedia/"><img src="http://www.savannahnow.com/images/featurebuttons/multimedia90x45.gif" alt="MultimediaNOW" width="90" height="45" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/features/voices/"><img src="http://www.savannahnow.com/images/featurebuttons/voices90x45.jpg" alt="Voices" width="90" height="45" vspace="5" border="0"></a><br>
-<a href="http://www.savannahnow.com/columnists/fishman"><img src="http://www.savannahnow.com/images/featurebuttons/janes90x45.gif" alt="Jane's Garden" width="90" height="45" vspace="5" border="0"></a><br>
-<a href="http://www.savannahnow.com/features/emmakelly"><img src="http://www.savannahnow.com/images/featurebuttons/emma90x45.jpg" alt="Emma Kelly" width="90" height="45" vspace="5" border="0"></a><br>
-<a href="http://www.savannahnow.com/features/150years"><img src="http://www.savannahnow.com/images/featurebuttons/150yrs90x45.gif" alt="150 years" width="90" height="45" vspace="5" border="0"></a><br>
+<a href="http://www.savannahnow.com/columnists/fishman/"><img src="http://www.savannahnow.com/images/featurebuttons/janes90x45.gif" alt="Jane's Garden" width="90" height="45" vspace="5" border="0"></a><br>
+<a href="http://www.savannahnow.com/features/emmakelly/"><img src="http://www.savannahnow.com/images/featurebuttons/emma90x45.jpg" alt="Emma Kelly" width="90" height="45" vspace="5" border="0"></a><br>
+<a href="http://www.savannahnow.com/features/150years/"><img src="http://www.savannahnow.com/images/featurebuttons/150yrs90x45.gif" alt="150 years" width="90" height="45" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/features/aging/"><img src="http://www.savannahnow.com/images/featurebuttons/aging90x45.jpg" width="90" alt="aging matters" height="45" vspace="5" border="0"></a><br>
-<a href="http://www.savannahnow.com/nie"><img src="http://www.savannahnow.com/images/featurebuttons/nie90x45.jpg" alt="Newspapers in Education" width="90" height="45" vspace="5" border="0"></a><br>
+<a href="http://www.savannahnow.com/nie/"><img src="http://www.savannahnow.com/images/featurebuttons/nie90x45.jpg" alt="Newspapers in Education" width="90" height="45" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/features/ourschools/"><img src="http://www.savannahnow.com/images/featurebuttons/schools90x45.gif" alt="Our Schools" width="90" height="45" vspace="5" border="0"></a><br>
-<a href="http://www.savannahnow.com/features/jazz"><img src="http://www.savannahnow.com/images/featurebuttons/jazz90x45.gif" alt="Our Jazz History" width="90" height="45" vspace="5" border="0"></a><br>
-<a href="http://www.savannahnow.com/features/20over60"><img src="http://www.savannahnow.com/images/featurebuttons/206090x45.gif" alt="20 over 60" width="90" height="45" vspace="5" border="0"></a><br>
+<a href="http://www.savannahnow.com/features/jazz/"><img src="http://www.savannahnow.com/images/featurebuttons/jazz90x45.gif" alt="Our Jazz History" width="90" height="45" vspace="5" border="0"></a><br>
+<a href="http://www.savannahnow.com/features/20over60/"><img src="http://www.savannahnow.com/images/featurebuttons/206090x45.gif" alt="20 over 60" width="90" height="45" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/columnists/mstreeter/"><img src="http://www.savannahnow.com/images/featurebuttons/mstreeter90x45.gif" alt="Mark Streeter" width="90" height="45" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/features/mib25years/"><img src="http://www.savannahnow.com/images/featurebuttons/mib90x45.gif" alt="25 years of Man in Black" width="90" height="45" vspace="5" border="0"></a><br>
 <a href="http://www.savannahnow.com/features/centuryphotos/"><img src="http://www.savannahnow.com/images/featurebuttons/photos90x45.gif" alt="Photos of the Century" width="90" height="45" vspace="5" border="0"></a><br>
@@ -1079,7 +1120,7 @@ Updated 4:24 p.m. <br>
 </td></tr></tbody></table></td></tr>
 <tr><td align="CENTER" colspan="3">
 <img src="http://www.savannahnow.com/images/newimages/bluedot.gif" width="750" height="1" hspace="0" vspace="0" border="0"><br>
-<span class="content"><a href="http://www.savannahnow.com/copyNOW.shtml">Copyright 2001 Savannah Morning News. All rights reserved. Privacy Policy.</a><br>
+<span class="content"><a href="http://www.savannahnow.com/copyNOW.shtml">Copyright 2002 Savannah Morning News. All rights reserved. Privacy Policy.</a><br>
 Optimized for 800x600 screen resolution.</span>
 </td></tr></tbody></table>
 
@@ -1100,12 +1141,11 @@ Optimized for 800x600 screen resolution.</span>
 <tbody><tr><td><table border="0" cellpadding="2" cellspacing="1" width="110">
 <tbody><tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/CURRENT/SPTindex.shtml">Local sports</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://wire.ap.org/?FRONTID=SPORTS">National/World</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.sandgnats.com/">Sand Gnats</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://savannahnow.fanaticzone.com/">SEC Fanatic</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.coastalgolfcourse.com">Golf news</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://golfnews.savannahnow.com/worldcom/">WorldCom Classic</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/sports/football">FootballNOW</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/columns/timguidera/">Tim Guidera</a></td></tr></tbody></table></td></tr></tbody></table>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/columnists/timguidera/">Tim Guidera</a></td></tr></tbody></table></td></tr></tbody></table>
 </div>
 
 <div id="opi" style="HEIGHT: 81px; LEFT: 126px;   POSITION: absolute; TOP: 194px; WIDTH: 110px; Z-INDEX: 4; visibility: hidden">
@@ -1113,6 +1153,7 @@ Optimized for 800x600 screen resolution.</span>
 <tbody><tr><td><table border="0" cellpadding="2" cellspacing="1" width="110">
 <tbody><tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/CURRENT/OPEDindex.shtml">Opinion page</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/columnists/mstreeter/">Mark Streeter</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/columnists/tombarton/">Tom Barton</a></td></tr>
 <tr><td class="nav"><a class="nav" href="mailto:letted@savannahnow.com">Letter to the Editor submission</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://savannahnow.com/cgi-bin/ubb/Ultimate.cgi?action=intro">Message boards</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://chat.savannahnow.com:90/eshare/server?action=4">Chat rooms</a></td></tr></tbody></table></td></tr></tbody></table>
@@ -1128,7 +1169,7 @@ Optimized for 800x600 screen resolution.</span>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/exchange/SOLindex.shtml">Solutions</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/exchange/DATindex.shtml">Databank</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/exchange/NETindex.shtml">Networking</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://investor2.cnet.com/savannahnow/sector.asp?symbol=^SVINX">Savannah 30 index</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://investor.cnet.com/investorpw/privatewire/savannahnow/0-7479034-1-0-1.html">Savannah 30 index</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/exchange/">Stock quotes</a></td></tr></tbody></table></td></tr></tbody></table>
 </div>
 
@@ -1136,7 +1177,6 @@ Optimized for 800x600 screen resolution.</span>
 <table bgcolor="000000" border="0" cellpadding="0" cellspacing="1" width="110">
 <tbody><tr><td><table border="0" cellpadding="2" cellspacing="1" width="110">
 <tbody><tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/diversions">Diversions</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/diversions/restguide.html">Restaurant Guide</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/comics">Comics</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://tvlistings1.zap2it.com/partners/index.asp?partner_id=A29">TV listings</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/diversions/SCRNlistings.shtml">Movie listings</a></td></tr>
@@ -1169,22 +1209,18 @@ Optimized for 800x600 screen resolution.</span>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/cityguide/wondering/wondering.shtml">Wondering?</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://stpats.savannahnow.com">St. Patricks Day</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/goodandevil">Midnight</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.bestreadguide.com/savannah">Best Read Guide</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.excursia.com">Excursia</a></td></tr></tbody></table></td></tr></tbody></table>
+<tr><td class="nav"><a class="nav" href="http://www.ourcoast.com/">Our Coast</a></td></tr></tbody></table></td></tr></tbody></table>
+
 </div>
 
 <div id="ftu" style="HEIGHT: 81px; LEFT: 126px;   POSITION: absolute; TOP: 290px; WIDTH: 110px; Z-INDEX: 9; visibility: hidden">
 <table bgcolor="000000" border="0" cellpadding="0" cellspacing="1" width="110">
 <tbody><tr><td><table border="0" cellpadding="2" cellspacing="1" width="110">
 <tbody><tr><td class="nav"><a class="nav" href="javascript:sitefeatures();">Features index</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://stpats.savannahnow.com">St. Patrick's Day</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/columnists/fishman/">Jane's Garden</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/columnists/krueger/">Our Backyard</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/features/slideshows/">Through the Lens</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/features/vision2010/">Vision 2010</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/goodandevil/">Midnight in the Garden</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/hurricane2001/">Hurricane Guide 2001</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/features/census2000/">Census 2001</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://stpats.savannahnow.com">St. Patricks Day</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/savvy">Savvy - for teens</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/features/ourschools/">Our Schools</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/features/NIE/">Newspapers in Education</a></td></tr></tbody></table></td></tr></tbody></table>
@@ -1194,16 +1230,32 @@ Optimized for 800x600 screen resolution.</span>
 <table bgcolor="000000" border="0" cellpadding="0" cellspacing="1" width="110">
 <tbody><tr><td><table border="0" cellpadding="2" cellspacing="1" width="110">
 <tbody><tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/multimedia/">Multimedia site</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.marketplacenow.com/liveviews/">Live views</a></td></tr>
-<tr><td class="nav"><a class="nav" href="javascript:loadsplite();">Spinner radio</a></td></tr></tbody></table></td></tr></tbody></table>
+<tr><td class="nav"><a class="nav" href="http://www.marketplacenow.com/liveviews/">Live views</a></td></tr></tbody></table></td></tr></tbody></table>
 </div>
 
 <div id="col" style="HEIGHT: 81px; LEFT: 126px;   POSITION: absolute; TOP: 322px; WIDTH: 110px; Z-INDEX: 11; visibility: hidden">
-Submit engagement announcement<table bgcolor="000000" bo������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ow.com="" community="" submit_engagement.shtml"="">
-<tbody><tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/community/submit_wedding.shtml">Submit wedding announcement</a></td></tr>
+<table bgcolor="000000" border="0" cellpadding="0" cellspacing="1" width="110">
+<tbody><tr><td><table border="0" cellpadding="2" cellspacing="1" width="110">
+<tbody><tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/columnists/tombarton/">Tom Barton</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/columnists/janefishman/">Jane Fishman</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/columnists/timguidera/">Tim Guidera</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/columnists/mib/">Bob Morris</a></td></tr></tbody></table></td></tr></tbody></table>
+</div>
+
+
+<div id="cmu" style="HEIGHT: 81px; LEFT: 126px;   POSITION: absolute; TOP: 338px; WIDTH: 130px; Z-INDEX: 12; visibility: hidden">
+<table bgcolor="000000" border="0" cellpadding="0" cellspacing="1" width="130">
+<tbody><tr><td><table border="0" cellpadding="2" cellspacing="1" width="130">
+<tbody><tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/community/">Community listings</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.e-thepeople.org/a-savannahnow">E-the People</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/features/ourschools/">Our Schools</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/features/aging/">Aging Matters</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/recycling/">Recycling Guide</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/community/submit_comevent.shtml">Submit community event</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/community/submit_engagement.shtml">Submit engagement announcement</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/community/submit_wedding.shtml">Submit wedding announcement</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/community/submit_ann.shtml">Submit anniversary announcement</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/community/submit_churchbulletin.shtml">Submit house of worship event</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.zip2.com/marketplacenow/">Search community groups</a></td></tr></tbody></table>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/community/submit_churchbulletin.shtml">Submit house of worship event</a></td></tr></tbody></table></td></tr></tbody></table>
 </div>
 
 <div id="wea" style="HEIGHT: 81px; LEFT: 126px;   POSITION: absolute; TOP: 354px; WIDTH: 110px; Z-INDEX: 13; visibility: hidden">
@@ -1217,16 +1269,14 @@ Submit engagement announcement<table bgcolor="000000" bo��������
 <table bgcolor="000000" border="0" cellpadding="0" cellspacing="1" width="110">
 <tbody><tr><td><table border="0" cellpadding="2" cellspacing="1" width="110">
 <tbody><tr><td class="nav"><a class="nav" href="http://webmail.savannahnow.net/cgi-bin/newuser.cgi">Free email account</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.zip2.com/marketplacenow/scripts/staticpage.dll?ep=1&amp;ck=&amp;ccity=Savannah&amp;cstate=GA&amp;adrVer=928882702&amp;ver=d3.0">Yellow Pages</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.zip2.com/marketplacenow/scripts/staticpage.dll?ep=8200&amp;ck=&amp;ccity=Savannah&amp;cstate=GA&amp;adrVer=928882645&amp;ver=d3.0">Get directions</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.zip2.com/marketplacenow/scripts/staticpage.dll?ep=9002&amp;ck=&amp;ccity=Savannah&amp;cstate=GA&amp;adrVer=928882588&amp;ver=d3.0">Get a map</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://yp.bellsouth.com/?from=MOR&amp;mkt=SAGA" target="new">Yellow Pages</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/Palmpilot/">PDA sync</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/desktopnews/">Desktop news</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/push/form.shtml">E-mail newsletter</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/pushform.shtml">E-mail newsletter</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/wwwlinks.shtml">WWW links</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/archives/indices/">Archives</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/subscribe.shtml">Home delivery</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://design.savannahnow.com/">Internet design services</a></td></tr></tbody></table></td></tr></tbody></table>
+<tr><td class="nav"><a class="nav" href="javascript:newWindow('http://design.savannahnow.com/','550','560')">Internet design services</a></td></tr></tbody></table></td></tr></tbody></table>
 </div>
 
 <div id="mkp" style="HEIGHT: 81px; LEFT: 126px;   POSITION: absolute; TOP: 386px; WIDTH: 110px; Z-INDEX: 15; visibility: hidden">
@@ -1238,7 +1288,8 @@ Submit engagement announcement<table bgcolor="000000" bo��������
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/classads/">Classifieds</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.coastalautos.com/">Auto Finder</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnowhomefinder.com/">Home Finder</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://design.savannahnow.com/">Internet design services</a></td></tr></tbody></table></td></tr></tbody></table>
+<tr><td class="nav"><a class="nav" href="http://cl2.savannahnow.com/classifieds-bin/classifieds?tid=53703&amp;property=savannah+ga&amp;classification=display">Newspaper Ads</a></td></tr>
+<tr><td class="nav"><a class="nav" href="javascript:newWindow('http://design.savannahnow.com/','550','560')">Internet design services</a></td></tr></tbody></table></td></tr></tbody></table>
 </div>
 
 <div id="sea" style="HEIGHT: 81px; LEFT: 126px;   POSITION: absolute; TOP: 404px; WIDTH: 110px; Z-INDEX: 16; visibility: hidden">
@@ -1247,7 +1298,7 @@ Submit engagement announcement<table bgcolor="000000" bo��������
 <tbody><tr><td class="nav"><a class="nav" href="javascript:powerSearch();">Power search</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/archives/indices/">News archive</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/archives/indices/">World Wide Web</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.zip2.com/marketplacenow">Yellow Pages</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://yp.bellsouth.com/?from=MOR&amp;mkt=SAGA" target="new">Yellow Pages</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/exchange#stocks">Stocks</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/classads/">Classifieds</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.marketplacenow.com/">Local businesses</a></td></tr>
@@ -1257,9 +1308,10 @@ Submit engagement announcement<table bgcolor="000000" bo��������
 <div id="ctc" style="HEIGHT: 81px; LEFT: 126px;   POSITION: absolute; TOP: 436px; WIDTH: 110px; Z-INDEX: 17; visibility: hidden">
 <table bgcolor="000000" border="0" cellpadding="0" cellspacing="1" width="110">
 <tbody><tr><td><table border="0" cellpadding="2" cellspacing="1" width="110">
-<tbody><tr><td class="nav"><a class="nav" href="http://www.marketplacenow.com/advertise.html">Advertise</a></td></tr>
+<tbody><tr><td class="nav"><a class="nav" href="javascript:newWindow('http://design.savannahnow.com/','550','560')">Advertise</a></td></tr>
 <tr><td class="nav"><a class="nav" href="mailto:webmaster@savannahnow.com">Email web staff</a></td></tr>
-<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/special/staff/savannahstaff.shtml">Contact newsroom staff</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/special/staff/savannahstaff.shtml">Newsroom staff</a></td></tr>
+<tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/research.shtml">News research</a></td></tr>
 <tr><td class="nav"><a class="nav" href="mailto:letted@savannahnow.com">Letter to the Editor</a></td></tr>
 <tr><td class="nav"><a class="nav" href="mailto:sarahr@savannahnow.com">Contribute to Vox Populi</a></td></tr>
 <tr><td class="nav"><a class="nav" href="http://www.savannahnow.com/subscribe.shtml">Home delivery</a></td></tr></tbody></table></td></tr></tbody></table>
