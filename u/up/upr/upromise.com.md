@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605120450id_/http%3A//www.upromise.com/corp/privacy.html%3Fcx%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603032630id_/http%3A//www.upromise.com/corp/privacy.html%3Fcx%3Df) for the most accurate reproduction.*
 
 # Upromise - Privacy Statement and Principles
 
@@ -10,7 +10,7 @@ Protecting your privacy is a top priority at Upromise. We want you to understand
 
 As part of providing you products or services, we may obtain personal information from the following sources: 
 
-  * **Information you provide to us** on applications and other forms, that you otherwise enter on our web site, or that you provide to us in writing or by telephone, such as when you contact our customer service staff. This information may include items such as your name, address, telephone number and social security number. In addition, please see **Use of Cookies** below for information we receive automatically when you visit our web site. 
+  * **Information you provide to us** on applications and other forms, that you otherwise enter on our web site, or that you provide to us in writing or by telephone, such as when you contact our customer service staff. This information may include items such as your name, address, telephone number and social security number. In addition, please see **Use of Cookies and other Technologies** below for information we receive automatically when you visit our web site. 
   * **Information from your transactions** with us, our affiliates or nonaffiliated third parties such as account activity and your purchase information in our Rewards service. 
   * **Information from third parties** , including public sources, such as verification services and consumer reporting agencies (to comply with regulatory requirements, ensure the accuracy of data and prevent fraud, for example), or from other sources (such as from other institutions like a bank or broker you use to transfer funds into a Upromise account, or public sources). 
 
@@ -27,13 +27,17 @@ Information about our customers is an important part of our business. We do not 
 
   * **Agents and Service Providers.** In order to provide our products and services, we may share any of the information we gather about you with agents and service providers to perform functions on our behalf, such as to send email and postal mail, analyze data, provide marketing services, process applications and credit card payments, and service accounts. These service providers have access to personal information needed to perform their functions, but may not use it for other purposes. 
   * **Protection of Upromise and Others.** We may disclose personal information about you to third parties when we believe such disclosure is appropriate to comply with a legal requirement, such as a law, regulation, court order, subpoena or search warrant, or in the course of a legal proceeding. We may also disclose personal information as we believe appropriate to enforce or apply our rights under our agreements with customers, to protect the rights, property or safety of Upromise, our customers and others, including exchanging information for fraud protection and credit risk reduction. 
-  * **Business Transfers.** If there is a change of control in Upromise's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if that business materially changes this statement or the information-handling practices as described in this statement, you will have a choice as to whether your existing information is used in a new manner. 
+  * **Business Transfers.** If there is a change of control in Upromise's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if that business materially changes this statement or the information-handling practices as described in this statement, you will be notified by email and/or through a notice posted on our web site, and you will have a choice as to whether your existing information is used in a new manner. 
 
 If we ever make the decision to share customer personal information with third parties so that they may market their products and services directly to you, we will notify you ahead of time, and we will not share your information without your consent. 
 
-**Use of Cookies**
+**Use of Cookies and other Technologies**
 
 Our web servers place and read "cookies" on our site's visitors' computers for a variety of purposes. Cookies are small data files that are stored on an Internet user's computer by a web server. One important use of cookies is to help identify you while you are logged in to the Upromise site. Consequently, if your browser does not accept session cookies, you will be unable to enroll or log in to our service using our site. You will, however, be able to browse our site as a visitor. The information Upromise collects from cookies and web server logs is used to administer the web service and customize information you receive when visiting our site. Upromise may also use and share aggregate information from cookies and web server logs to analyze and improve our web service offerings. This information does not identify individual visitors or customers. 
+
+We, certain third parties who host portions of our web site, and certain advertising affiliates or others employ small pieces of code known as "web beacons" or "clear gifs" that, on an anonymous basis, count users that have visited a page that contains these web beacons. We use web beacons to help us better manage content on our site and to determine which content is effective. In addition, third party advertising affiliates and others may use web beacons to help us track the effectiveness of our advertisements placed on third party web sites. Web beacons on our site our not used to collect personally identifiable information about our customers, and the limited information they do collect is not tied to our customers' personally identifiable information. Finally, we use web beacons in our HTML-based emails to let us know which emails have been opened by recipients so that we may gauge the effectiveness of our communications. If you would like to opt-out of these emails, please see "Choices Regarding the Receipt of Marketing Messages." 
+
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes the internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer our web site, to track users' movements around the web site and to gather demographic information about our user base as a whole. This automatically-collected data is not linked to customers' personally identifiable information. In addition, we occasionally employ third-party tracking services that use cookies and/or web beacons to track non-personally identifiable information about visitors to our site in the aggregate to analyze trends and the effectiveness of our web site. 
 
 **Choices Regarding the Receipt of Marketing Messages**
 
@@ -51,7 +55,7 @@ None of Upromise's products or services are intended for purchase by children. A
 
 **Changes to This Privacy Statement**
 
-If we materially change this statement or our information-handling practices as described in this statement, we will notify you at least 30 days prior to their implementation. You will have choices as to whether we use your existing information in a new manner. 
+If we materially change this statement or our information-handling practices as described in this statement, we will notify you by email and/or through a notice on our web site at least 30 days prior to their implementation. You will have choices as to whether we use your existing information in a new manner. 
 
 **Privacy of Upromise Rewards Service**
 
@@ -71,7 +75,9 @@ If we materially change this statement or our information-handling practices as 
 
 **Management of Your Account.** When you become a member, we use your contact and transaction data to manage your account. 
 
-**Use of Third Parties for Fulfillment Purposes.** We may use certain third parties to provide marketing and administrative services, such as keeping track of your purchases, analyzing data or delivering special college saving offers to you on our behalf or on behalf of our contributing companies. In order to obtain these services, we may need to share certain personally identifiable information about our members. However, those third parties will be bound by legal agreements to not use or disclose the information we provide them for any purpose other than to perform the requested service. 
+**Use of Third Parties for Fulfillment Purposes.** We may use certain third parties to provide marketing and administrative services, such as keeping track of your purchases, analyzing data or delivering special college saving offers to you on our behalf or on behalf of our contributing companies. Third parties may also be used to help us administer our grocery, dining and hotel rewards programs. In order to obtain these services, we may need to share certain personally identifiable information about our members. However, these third parties will be bound by legal agreements to not use or disclose the information we provide them for any purpose other than to perform the requested service. 
+
+On occasion, contests, sweepstakes or surveys on our web site may be co-sponsored by Upromise and another company, or may be sponsored by companies other than Upromise. Some or all of the data collected through these contests, sweepstakes or surveys may be shared with the sponsor(s) or companies indicated on the entry form. If such data will be shared, then there will be a notice prior to the time of data collection or transfer. 
 
 **Notification About Products and Services.** We offer you the chance to maximize your savings through new college savings opportunities made available to you on our site and, unless you opt out of receiving them, through email, mail, and telephone messages. We may use information about you to provide you offers tailored to your interests. Sometimes, we send offers to selected groups of members on behalf of our contributing companies. When we do this, we do not give the contributing company your name and address. If you do not want to receive offers from contributing companies, you may opt out of receiving them. 
 
@@ -97,4 +103,7 @@ Upromise is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, 
 If you have questions or concerns regarding this statement, you should first contact Upromise (see below). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with Upromise to resolve your concerns. 
 
 **How do I contact Upromise about this Privacy Statement?**  
-If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please [contact us](https://web.archive.org/nspage?su=8105)
+If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please [contact us](https://web.archive.org/nspage?su=8105) by email or at Upromise, Inc., Customer Care - Privacy Policy Issues, 117 Kendrick Street, Needham, MA 02494. 
+
+Last Updated: April 28, 2004  
+
