@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605135105id_/http%3A//www.theatermania.com/extras/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806193716id_/http%3A//www.theatermania.com/extras/privacy.cfm) for the most accurate reproduction.*
 
-# TheaterMania.com - Privacy Policy
+# TheaterMania - Privacy Policy
 
 |  We encourage you to review our Privacy Policy to understand how your personal information may or may not be used as you take advantage of the many Theatermania.com offerings and services. This Privacy Policy applies differently to individuals under the age of thirteen. We ask that parents and guardians take some time to review this policy as it may apply to their children, as set forth under the heading "Maintaining the Privacy of Children." By using this web site, you are agreeing to the policies set forth below and the current terms and conditions of use ("Terms and Conditions"), set forth at: http://www.theatermania.com/extras/disclaimer.cfm. Theatermania.com reserves the right to modify, amend or restate this Privacy Policy from time to time with or without prior notice. Your use of this web site after the posting of modifications to this Privacy Policy will constitute your acceptance of the Privacy Policy as modified. You may direct any questions concerning this Privacy Policy to: lb@theatermania.com. 
 
