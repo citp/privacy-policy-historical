@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wipro.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209200656id_/http%3A//wipro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wipro.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403230733id_/http%3A//wipro.com/privacy) for the most accurate reproduction.*
 
 # Wipro Technologies :: Privacy Statement
 
@@ -24,3 +24,6 @@ We sometimes collect anonymous information from visits to our sites to help us p
 
 Mailers  
 Wipro may, if you so choose, send direct mailers to you at the address given by you. You have the option to 'opt-out' of this direct mailer by way of links provided at the bottom of each mailer. We respect your privacy and in the event that you choose to not receive such mailers, we will take all steps to remove you from the list.
+
+AntiSpam policy   
+Wipro recognizes the receipt, transmission or distribution of spam emails (unsolicited bulk emails) as a major concern and has taken reasonable measures, to minimize the transmission and effect of spam emails in its computing environment. All emails received by Wipro, are subject to spam check, in coordination with “SPAMHAUS” subscription service. Any email identified as spam will be rejected with sufficient information to the Sender for taking necessary action. With this measure, along with other technical spam reduction measures, Wipro hopes to minimize the effect of spam emails. Wipro reserves the right to reject and/or report any suspicious spam emails, to the authorities concerned, for necessary action, from time to time. 
