@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the warpradio.com privacy policy that was archived on 2000-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000605025714id_/http%3A//www.warpradio.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warpradio.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204032500id_/http%3A//warpradio.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement of WarpRadio.com
+# WarpRadio.com - Privacy Statement
 
-**Privacy Statement**
-
-We take guarding the privacy of the information which you provide when using WarpRadio.com seriously. Please read this policy to understand how we will treat the personal information which you give to us. Since this policy may change over time as we modify or expand our service, we suggest that you check back from time to time in order to understand how we treat your information. WarpRadio.com will include a link from this page to a page detailing any additions or changes made to this policy over the past several months, so that you can see at a glance what, if anything, has changed. 
+|   | 
 
 **What personally identifiable information WarpRadio.com collects and how it is used**
 
@@ -51,4 +49,6 @@ WarpRadio.com is committed to the safety of our children. Children under 18 may 
 
 **Questions regarding this policy**
 
-Questions regarding this statement should be directed to [talkback@WarpRadio.com](mailto:talkback@WarpRadio.com) or send mail to the following postal address: 6535 S. Dayton Street, Suite 3000, Greenwood Village, CO 80111 
+Questions regarding this statement should be directed to [talkback@WarpRadio.com](mailto:talkback@WarpRadio.com) or send mail to the following postal address: 6535 S. Dayton Street, Suite 3000, Greenwood Village, CO 80111   
+  
+---|---
