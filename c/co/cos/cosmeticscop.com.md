@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214095216id_/http%3A//cosmeticscop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605041433id_/http%3A//www.cosmeticscop.com/privacy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
-Paula's Choice has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.cosmeticscop.com.
+Paula's Choice has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: www.cosmeticscop.com.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We do not sell or trade lists with anyone.
+We use your IP address to help diagnose problems with our server, and to administer our web site. We do not sell or trade lists with anyone.
 
 Our site uses cookies to keep track of your shopping cart and your account settings only.
 
@@ -33,10 +33,5 @@ This site gives users the following options for changing and modifying informati
 
 Send e-mail [CustServ@cosmeticscop.com](mailto:CustServ@cosmeticscop.com)  
 3\. Call the following telephone number: (800) 831-4088 **CONTACTING THE WEB SITE**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact our webmaster at: [webmaster@cosmeticscop.com](mailto:webmaster@cosmeticscop.com)  
 
-
-Robb Zerr  
-Paula's Choice Webmaster
-
-E-Mail: [webmaster@cosmeticscop.com](mailto:webmaster@cosmeticscop.com)
