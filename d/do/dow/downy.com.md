@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the downy.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629212812id_/http%3A//www.pg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downy.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230143650id_/http%3A//www.pg.com/privacy.html) for the most accurate reproduction.*
 
 # P&G Privacy Statement -- Summary
 
   | Printable Version  
-|  |  [](https://web.archive.org/web/20040629212812id_/http%3A//www.pg.com/privacy.html) |   |   
+|  |  []() |   |   
 ---|---|---  
   | 
 
@@ -31,7 +31,7 @@ Procter & Gamble will not trade, sell or share your personal information for use
 
 Your personal information will generally be stored in the Procter & Gamble databases, which are located mainly in the United States or Europe. Specific information is provided on the web site's consent or registration form, where needed. For easier processing of e-mail campaigns or other marketing purposes, however, your personal information may be sent, usually on a temporary basis, to countries outside the United States or Europe. Nonetheless, our policy is to ensure that your information is always granted the same level of protection no matter where it is stored. 
 
-Procter & Gamble adheres to U.S./EU Safe Harbor principles. If you feel that Safe Harbor privacy principles may have been violated by Procter & Gamble, you may contact P&G, the U.S. Direct Marketing Association, or the Better Business Bureau Online with your complaint. For more information [click here](https://web.archive.org/data_transfer.html;jsessionid=SWDUPGXR3RIAVQFIAJ1SZOWAVABHMLHC). 
+Procter & Gamble adheres to U.S./EU Safe Harbor principles. If you feel that Safe Harbor privacy principles may have been violated by Procter & Gamble, you may contact P&G, the U.S. Direct Marketing Association, or the Better Business Bureau Online with your complaint. For more information [click here](https://web.archive.org/data_transfer.html;jsessionid=3NYTMJIZQCB1JQFIAJ1SZOWAVABHMLHC). 
 
 |    
 |   
@@ -115,7 +115,7 @@ By clicking on links provided above, you will be taken to more information about
 |  | ** ** |    
 |  | ****YOUR ACCEPTANCE OF OUR PRIVACY PRACTICES** ** |    
 |  |   |    
-| By using this website or any other Procter & Gamble website or interactive banner ads, you signify your acceptance of our [Privacy Statement](https://web.archive.org/web/20040629212812id_/http%3A//www.pg.com/privacy_full.html;jsessionid=SWDUPGXR3RIAVQFIAJ1SZOWAVABHMLHC), and you adhere to the terms and conditions posted on the website. This clause is not enforceable in member states of the European Union. Please check back for updates to our Privacy Statement and this Executive Summary. Click here for a list of changes made to this privacy statement since July 1, 2002. |    
+| By using this website or any other Procter & Gamble website or interactive banner ads, you signify your acceptance of our [Privacy Statement](https://web.archive.org/web/20041230143650id_/http%3A//www.pg.com/privacy_full.html;jsessionid=3NYTMJIZQCB1JQFIAJ1SZOWAVABHMLHC), and you adhere to the terms and conditions posted on the website. This clause is not enforceable in member states of the European Union. Please check back for updates to our Privacy Statement and this Executive Summary. Click here for a list of changes made to this privacy statement since July 1, 2002. |    
 |   
 |   
 |  |  |   
