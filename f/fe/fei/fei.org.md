@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fei.org privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630031640id_/http%3A//www.fei.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fei.org privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212214404id_/http%3A//fei.org/privacy.cfm) for the most accurate reproduction.*
 
 # Financial Executives International: CFOs, Treasurers, Controllers
 
@@ -17,6 +17,6 @@ FEI does not share member email addresses with any third party. FEI will, howeve
 
 To opt out of such mailings, [click here](mailto:ncatanzaro@fei.org).
 
-This Web site also contains links to other web sites. FEI has no control over and is not responsible for the privacy policies or content of such sites. We recommend you read the privacy policy of each site you visit. If any visitor or member feels that their information has been handled improperly or in a manner that does not comply with this privacy policy, please contact us by e-mailing to [webmaster@fei.org](mailto:dmcdevitt@fei.org), or by calling (973) 898-4600.
+This Web site also contains links to other web sites. FEI has no control over and is not responsible for the privacy policies or content of such sites. We recommend you read the privacy policy of each site you visit. If any visitor or member feels that their information has been handled improperly or in a manner that does not comply with this privacy policy, please contact us by e-mailing to [webmaster@fei.org](mailto:webmaster@fei.org), or by calling (973) 765-1000.
 
 | 
