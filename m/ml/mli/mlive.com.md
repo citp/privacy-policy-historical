@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602021443id_/http%3A//mlive.com/index.ssf%3F/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217030231id_/http%3A//www.mlive.com/index.ssf%3F/privacy.html) for the most accurate reproduction.*
 
 # Michigan Live State Edition
 
@@ -7,15 +7,14 @@
   
   
 Sponsored by:  
+[](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.mlive.com/index.ssf//privacy.html/201065629/SponsorLeft/MICHIGANLIVE/MICHVIRT02MI12/mvu_logo.gif/64316637323836383363316436303430)   
   
-  
-  
-|  |    
+|  |  [](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.mlive.com/index.ssf//privacy.html/1646592089/BannerTop/MICHIGANLIVE/CMSENERG01MI01/consenergy_banner2.gif/64316637323836383363316436303430)  
 Michigan Live Privacy Policy Michigan Live Privacy Policy
 
 The Michigan Live Web site is maintained by MIchigan Live Inc., 339 E. Liberty St., Suite 210, Ann Arbor, MI 48104. We can be reached by e-mail at [feedback@mlive.com](mailto:feedback@mlive.com). 
 
-**HOW MICHIGAN LIVE USES INFORMATION PROVIDED BY YOU:** This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifiable information may be used by Michigan Live Inc. and its affiliates for editorial purposes. Michigan Live Inc. may also use such information for marketing and promotional purposes. Michigan Live Inc. may share your personally identifiable information with other companies with which it conducts business. For example, if you enter our contests, make a purchase, or use our e-mail services, we sometimes rely on outside companies to provide these services to you. In such cases, we need to provide your personally identifiable information to them. Or if you choose to purchase items through our commerce site, we will forward your information to third parties for credit card processing and order fulfillment. We also sometimes provide your information to our advertisers, so that they can serve ads to you that meet your needs. While Michigan Live Inc. will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it was provided, Michigan Live Inc. does not bear any responsibility for any actions or policies of any third parties. 
+**HOW MICHIGAN LIVE USES INFORMATION PROVIDED BY YOU:** This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifiable information may be used by Michigan Live Inc. and its affiliates for editorial purposes. Unless otherwise specified, we may, however, share information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. Michigan Live Inc. may also use such information for marketing and promotional purposes. Michigan Live Inc. may share your personally identifiable information with other companies with which it conducts business. For example, if you enter our contests, make a purchase, or use our e-mail services, we sometimes rely on outside companies to provide these services to you. In such cases, we need to provide your personally identifiable information to them. Or if you choose to purchase items through our commerce site, we will forward your information to third parties for credit card processing and order fulfillment. We also sometimes provide your information to our advertisers, so that they can serve ads to you that meet your needs. While Michigan Live Inc. will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it was provided, Michigan Live Inc. does not bear any responsibility for any actions or policies of any third parties. 
 
 Except for purposes outlined above, we do not provide, sell or lease your personally identifiable information to any third parties, unless otherwise stated at the time of collection. If you have any questions or concerns regarding what is done with your information on any part of Michigan Live, please e-mail us at [feedback@mlive.com](mailto:feedback@mlive.com), before submitting any information. 
 
