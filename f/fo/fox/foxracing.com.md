@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxracing.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603235551id_/http%3A//foxracing.com/pages/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxracing.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621175209id_/http%3A//www.foxracing.com/pages/privacy_statement.html) for the most accurate reproduction.*
 
 # Fox Racing :: Privacy Statement
 
@@ -9,7 +9,9 @@ Fox Racing, Inc. respects the privacy of every individual who visits our website
 _Personal Data_  
 Fox Racing, Inc. will not collect any personally-identifiable information about you (e.g., your name, address, telephone number or e-mail address ("personal data") through our websites unless you have provided it to us voluntarily. If you do not want your personal data collected, please do not submit it to us.
 
-When you do provide us with personal data, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; we (or a fulfillment house or other third party on our behalf in connection with a promotion)may use that information to contact you; and/or we may provide other third parties with aggregate \- but not individual - information about visitors to or users of our sites. We do not now and do not intend to sell, rent or market personal data about you to third parties.
+When you do provide us with personal data, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; we (or a fulfillment house or other third party on our behalf in connection with a promotion) may use that information to contact you; and/or we may provide other third parties with aggregate information about visitors to or users of our sites. In addition, your personal data and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. 
+
+If you prefer that we do not share your name and address with marketing partners, please go to [Shop Online](http://shop.foxracing.com/category.asp?catalog%5Fname=MX&category%5Fname=&Page=1) and click on "My Account" to log in. Then, select "Do not share my name" at the bottom of your account page and click "Submit" to effect this change.
 
 _Children_  
 Fox Racing, Inc. has no intention of collecting any personal data from individuals under thirteen years of age. Where appropriate, the Company will specifically instruct children not to submit such information on our websites and/or will take reasonable steps to ensure parental consent to such submission.
