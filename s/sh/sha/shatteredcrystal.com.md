@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the shatteredcrystal.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209023400id_/http%3A//www.shatteredcrystal.com/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shatteredcrystal.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602051614id_/http%3A//www.shatteredcrystal.com/pp.shtml) for the most accurate reproduction.*
 
 # SHATTERED CRYSTAL INC Privacy Statement
 
+[](http://www.ugo.com/) |    
+Shattered Crystal Gaming Network | [](http://www.shatteredcrystal.com/)  
+---|---|---  
+  
 **SHATTERED CRYSTAL INC.** **PRIVACY STATEMENT **
 
 This confirms that Shattered Crystal Inc. has a Privacy Program covering all network sites and domains.  This privacy statement discloses the privacy practices for [www.shatteredcrystal.com](http://www.shatteredcrystal.com/) . 
@@ -95,9 +99,9 @@ Users of our site are always notified when their information is being collected 
 **Notification of Changes  
 **If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-[](http://www.gamelists.net/UO/) | 
+| 
 
-[](http://rd1.hitbox.com/rd?acct=WQ5907252P6D42EN0)  
+[](http://www.beseen.com/hc-index.html)  
   
 ---|---  
   
