@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217101204id_/http%3A//www.wellness.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603180956id_/http%3A//wellness.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Welcome to Wellness.com for premium wellness related resources FAST!
 
