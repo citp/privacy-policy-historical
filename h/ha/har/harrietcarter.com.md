@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602184623id_/http%3A//www.harrietcarter.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Harriet Carter - Distinctive Gifts Since 1958
 
-|  |  | [](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/SubB.cfm?pth=25&cat=128) | [](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/SubB.cfm?pth=25&cat=133) | [](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/SubB.cfm?pth=25&cat=147) | [](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/SubB.cfm?pth=25&cat=152) | [](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/SubB.cfm?pth=25&cat=158)  
----|---|---|---|---  
-|  | 
-
+|  |   
+---  
+| Privacy Policy  
   
   
 
 
-  * [When I visit HarrietCarter, what information is gathered about me and why?](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/Privacy.cfm#q1)
-  * [What Are Cookies and Should I Worry About Them?](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/Privacy.cfm#q2)
-  * [Who Else Has Access to the Information I Provide to HarrietCarter.com?](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/Privacy.cfm#q3)
-  * [How Do I Manage How Much Information I Share or if I Share Any At All?](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/Privacy.cfm#q4)
-  * [What is HarrietCarter.com Doing to Protect My Privacy?](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/Privacy.cfm#q5)
+  * [When I visit HarrietCarter, what information is gathered about me and why?](https://web.archive.org/web/20030602184623id_/http%3A//www.harrietcarter.com/Privacy.cfm#q1)
+  * [What Are Cookies and Should I Worry About Them?](https://web.archive.org/web/20030602184623id_/http%3A//www.harrietcarter.com/Privacy.cfm#q2)
+  * [Who Else Has Access to the Information I Provide to HarrietCarter.com?](https://web.archive.org/web/20030602184623id_/http%3A//www.harrietcarter.com/Privacy.cfm#q3)
+  * [How Do I Manage How Much Information I Share or if I Share Any At All?](https://web.archive.org/web/20030602184623id_/http%3A//www.harrietcarter.com/Privacy.cfm#q4)
+  * [What is HarrietCarter.com Doing to Protect My Privacy?](https://web.archive.org/web/20030602184623id_/http%3A//www.harrietcarter.com/Privacy.cfm#q5)
 
 HarrietCarter.com has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please let us know. We'll do all we can to make you feel comfortable at HarrietCarter.com.  
   
@@ -74,11 +73,7 @@ You can also update and/or correct any information about yourself that you've pr
 This site has security measures in place to protect from the loss, misuse, and alteration of information under our control. Our servers use encrypted methods for those pages that contain personally identifiable data, including your credit card and address. We routinely and zealously monitor and upgrade our security systems to ensure that we use the best security technology available.  
   
 We at HarrietCarter.com are sincerely committed to a safe and secure web experience for our visitors.  
-  
-[](https://web.archive.org/web/20021202075812id_/http%3A//www2.harrietcarter.com/index.cfm)
 
-|   
----|---|---  
-  
-  
-© 2002, Harriet Carter Gifts, Inc, All rights reserved 
+
+  < Back   
+
