@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the softorama.com privacy policy that was archived on 2004-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041211162126id_/http%3A//www.softorama.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the softorama.com privacy policy that was archived on 2005-02-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050205174021id_/http%3A//www.softorama.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>softorama.com - Privacy Policy</title>
@@ -20,8 +20,10 @@
 
 </head><body> 
 <table width="768" bgcolor="#FFFFFF" border="0" bordercolor="#FFFFFF" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr align="center"> 
-    <td colspan="4"> 
+  <tbody><tr> 
+    <td width="1" rowspan="3" valign="top" bgcolor="#CEC2B4"><img src="Images/spacer10.gif" width="1" height="1"> 
+    </td>
+    <td colspan="5" align="center"> 
       <!-- header table -->
  
 <script language="JavaScript" type="text/JavaScript">
@@ -94,8 +96,13 @@ function MM_validateForm() { //v4.0
   {
   document.MM_returnValue = (errors == '');
   document.SearchForm.action="Search.asp";
-  document.SearchForm.submit();
+  //document.SearchForm.submit();
   }
+}
+
+function setPointer() {
+    if (document.all)
+       document.all("btnKeyword").style.cursor = 'hand';
 }
 
 //-->
@@ -104,7 +111,7 @@ function MM_validateForm() { //v4.0
 <table width="100%" bordercolor="FF00FF" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td valign="top" align="center"> 
-    <a name="top" id="top"></a><img src="http://www.softorama.com/images/softorama_bannar.jpg" border="0"></td>
+    <a name="top" id="top"></a><img src="http://softorama.com/images/softorama_bannar.jpg" border="0"></td>
 
   </tr>
   <tr> 
@@ -114,7 +121,7 @@ function MM_validateForm() { //v4.0
        <table width="100%" border="0" bordercolor="#EFEF00" cellspacing="0" cellpadding="3">
         <tbody><tr>
             <td align="center" valign="middle" colspan="6">
-            	<form method="post" name="SearchForm" id="SearchForm">
+            	<form method="post" name="SearchForm" id="SearchForm" onsubmit="MM_validateForm('Keyword','','R');return document.MM_returnValue">
             </form></td>
         </tr>
         <tr> 
@@ -124,11 +131,16 @@ function MM_validateForm() { //v4.0
 
           <select name="ProdCategoryID" class="TextBox" id="ProdCategoryID" onchange="MM_jumpMenu('parent',this,0)">
             <option value="">Select Category</option>
-<option value="3">Audio &amp; MP3</option><option value="13">Business &amp; Finance</option><option value="14">Desktop Enhancements</option><option value="6">Games</option><option value="15">Home &amp; Education</option><option value="16">Internet</option><option value="17">Multimedia &amp; Design</option><option value="18">Software Development</option><option value="19">Utilities</option><option value="7">Web Authoring</option>
+<option value="3">Audio &amp; MP3</option><option value="13">Business &amp; Finance</option><option value="14">Desktop Enhancements</option><option value="6">Games</option><option value="15">Home &amp; Education</option><option value="16">Internet</option><option value="140">Miscellaneous</option><option value="17">Multimedia &amp; Design</option><option value="18">Software Development</option><option value="19">Utilities</option><option value="7">Web Authoring</option>
           </select>
           </td>
-          <td align="right"><input name="Keyword" type="text" class="TextBox" id="Keyword" value="Keyword here" onfocus="if(this.value=='Keyword here')this.value='';"></td>
-          <td width="140" align="right"><a href="#" onclick="javasrcipt:MM_validateForm('Keyword','','R');return document.MM_returnValue" class="cnt_normal_links_sub">Search by Keyword</a></td>
+          <td align="right"><input name="Keyword" type="text" class="TextBox" id="Keyword" value="Keyword here" onfocus="if(this.value=='Keyword here')this.value='';" onchange="document.SearchForm.btnKeyword.focus();" title="After typing, Hit Enter or click 'Search By Keyword'"></td>
+          <td width="140" align="right">
+          <input name="btnKeyword" type="submit" id="btnKeyword" value="Search By Keyword" class="cnt_normal_links_sub" style="TEXT-DECORATION: underline;BACKGROUND-COLOR: white;BORDER-RIGHT: 0px; BORDER-TOP: 0px;BORDER-LEFT: 0px;BORDER-BOTTOM: 0px;" onmouseover="setPointer()" ;="">
+          <!--
+          <a href="#" ID="SubmitLink" onClick="javasrcipt:MM_validateForm('Keyword','','R');return document.MM_returnValue" class="cnt_normal_links_sub">Search by Keyword</a>
+          -->
+          </td>
           <td width="10">&nbsp;</td>
         </tr>
         <tr>
@@ -144,12 +156,16 @@ function MM_validateForm() { //v4.0
     </tbody></table>
         <!-- end header -->
     </td>
+    <td width="1" rowspan="3" bgcolor="#CEC2B4"><img src="Images/spacer10.gif" width="1" height="1"> 
+    </td>
   </tr>
   <tr> 
-    <td width="150" align="center" valign="top"> <p> 
-        <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+    <td width="150" align="center" valign="top"> 
+      
+        
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#000000">
   <tbody><tr>
-    <td width="9">&nbsp;</td>
+    <td width="9"><img src="../Images/spacer10.gif" width="9" height="1"></td>
     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
           <td height="1" bgcolor="#D6D6D6"></td>
@@ -187,12 +203,21 @@ function MM_validateForm() { //v4.0
         <tr> 
           <td height="1" bgcolor="#D6D6D6"></td>
         </tr>
-      </tbody></table></td>
+      </tbody></table>
+      <!-------------------------- Include File here for banners inclde file example.---------------------->
+      <!-- 
+      #
+      include file="Left.asp" 
+      -->
+      <!---------------------------- Leave one # only-------------------------------->
+
+      </td>
   </tr>
 </tbody></table>
-      </p></td>
-    <td width="10" align="center" valign="top">&nbsp;</td>
-    <td width="458"> <p class="text_header">Privacy Policy</p>
+    </td>
+    <td width="5" align="center" valign="bottom"><img src="images/spacer.gif" width="5" height="1"><font color="#FFFFFF">.</font></td>
+    <td width="456"> 
+      <p class="text_header">Privacy Policy</p>
       <p class="text"> softorama.com takes your privacy seriously. Because we 
         gather certain types of information about our users we want to help you 
         understand the terms and conditions surrounding the collection and use 
@@ -233,10 +258,12 @@ function MM_validateForm() { //v4.0
         here</a>. <br>
         <br>
     </p></td>
-    <td width="150">&nbsp;</td>
+   <td width="5" align="center" valign="bottom"><img src="images/spacer.gif" width="5" height="1"><font color="#FFFFFF">.</font></td>
+    
+    <td width="150" valign="top"><img src="Images/spacer150.gif" width="148" height="1"></td>
   </tr>
   <tr> 
-    <td colspan="4"> 
+    <td colspan="5"> 
       <table width="99%" border="0" bordercolor="#00FF00" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td width="9" height="3"></td>
@@ -257,7 +284,7 @@ function MM_validateForm() { //v4.0
      <td width="9">&nbsp;</td>
     <td width="140"><a href="Disclaimer.asp" class="ftr_normal_links" title="Disclaimer">Disclaimer</a></td>
     <td width="9">&nbsp;</td>
-    <td width="298"><a href="CopyRight.asp" class="ftr_normal_links" title="Copyright">Copyright © 2004 softorama.com. All Rights Reserved.</a></td>
+    <td width="298"><a href="CopyRight.asp" class="ftr_normal_links" title="Copyright">Copyright © 2004-2005 softorama.com.</a></td>
 <td width="9">&nbsp;</td>
   </tr>
 </tbody></table>
