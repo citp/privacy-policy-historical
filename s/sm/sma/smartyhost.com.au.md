@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207213308id_/http%3A//www.smartyhost.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603175355id_/http%3A//www.smartyhost.com.au/privacy.html) for the most accurate reproduction.*
 
 # SmartyHost Web Hosting Support
 
@@ -41,6 +41,6 @@ This website takes every precaution to protect our users’ information. When us
   
 * * *  
   
-**Bookmark Us** | **[Tell a Friend](https://web.archive.org/web/20021207213308id_/http%3A//www.smartyhost.com.au/tell.html)**  
+**Bookmark Us** | **[Tell a Friend](https://web.archive.org/web/20030603175355id_/http%3A//www.smartyhost.com.au/tell.html)**  
   
 * * *
