@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravenet.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204190651id_/http%3A//www.bravenet.com/members/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravenet.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206041422id_/http%3A//www.bravenet.com/members/privacy.php) for the most accurate reproduction.*
 
 # Bravenet.com Webmaster Resources Website Tools Free Guestbooks Forums Hit Counters Greeting Cards
 
