@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214134400id_/http%3A//www.cplusplus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606175105id_/http%3A//cplusplus.com/privacy.html) for the most accurate reproduction.*
 
 # cplusplus.com - Privacy statement
 
@@ -25,6 +25,5 @@ The only information required to participate in these forums, apart from the par
 **External links**
      This site contains links to other sites. The C++ Resources Network is not responsible for the privacy practices or the content of such web sites. 
 **Contacting**
-     If you have any question or comment about this privacy statement, contact [management@cplusplus.com](mailto:management@cplusplus.com)
-|   
+     If you have any question or comment about this privacy statement, contact [management@cplusplus.com](mailto:management@cplusplus.com)  
 ---
