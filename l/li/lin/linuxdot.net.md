@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxdot.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607051351id_/http%3A//linuxdot.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxdot.net privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016100648id_/http%3A//www.linuxdot.net/legal/privacy.html) for the most accurate reproduction.*
 
 # LinuxDot.Net:: Web Design and Hosting.
 
