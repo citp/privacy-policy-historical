@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204031900id_/http%3A//vm.cfsan.fda.gov/required.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604122218id_/http%3A//www.cfsan.fda.gov/required.html) for the most accurate reproduction.*
 
 # REQUIRED NOTICES
 
@@ -86,7 +86,7 @@ CFSAN is a part of the Food and Drug Administration (FDA) and of the Department 
 * * *
 
 CFSAN Privacy Policy Statement originally posted by LRD on 1998-FEB-26   
-Updated 2000-NOV-15  
+Updated 2001-JAN-25  
 
 
 * * *
