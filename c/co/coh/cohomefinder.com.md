@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cohomefinder.com privacy policy that was archived on 2004-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040807065424id_/http%3A//www.cohomefinder.com/cohomefinder/expresso/components/registration/jsp/register/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cohomefinder.com privacy policy that was archived on 2005-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050226084343id_/http%3A//www.cohomefinder.com/j/register/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ This privacy statement covers the Web site WWW.COHOMEFINDER.COM. Because this We
 4\. What types of security procedures are in place to protect the loss, misuse or alteration of information under Colorado HomeFinder control.   
 5\. How users can correct any inaccuracies in the information. 
 
-If users have questions or concerns regarding this statement, they should first contact Client Care at (303) 543-3083 or [**click here to contact us.**](https://web.archive.org/cohomefinder/HomePage.do?state=promptContactUs)
+If users have questions or concerns regarding this statement, they should first contact Client Care at (303) 543-3083 or [**click here to contact us.**](https://web.archive.org/contact-Boulder-Colorado-homefinder.htm)
 
 **Information Collection and Use**
 
@@ -61,7 +61,7 @@ On rare occasions it is necessary to send out a strictly service related announc
 In the event Colorado HomeFinder goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
 
 **Choice/Opt-out**  
-Users who no longer wish to receive Automated HomeAlert emails, our newsletter and/or general communications may opt-out of receiving these communications by [**clicking here to contact us.**](https://web.archive.org/cohomefinder/HomePage.do?state=promptContactUs) The user may also contact us by phone at (303) 543-3083 or mail at 4770 Baseline Road, Suite 200, Boulder, CO 80303 to opt-out. 
+Users who no longer wish to receive Automated HomeAlert emails, our newsletter and/or general communications may opt-out of receiving these communications by [**clicking here to contact us.**](https://web.archive.org/contact-Boulder-Colorado-homefinder.htm) The user may also contact us by phone at (303) 543-3083 or mail at 4770 Baseline Road, Suite 200, Boulder, CO 80303 to opt-out. 
 
 **Links**  
 This Web site contains links to other sites. Please be aware that we, Colorado HomeFinder is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
@@ -79,7 +79,7 @@ The information that a user provides when registering on www.COhomefinder.com is
 
 Not only do we protect user-information online, we also do everything in our power to protect user information off-line. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (for example, our customer service representatives) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment in a locked facility.   
 **  
-If users have any questions about the security at our Web site, users can call us at (303) 543-3083 or[ **click here to contact us.**](https://web.archive.org/cohomefinder/HomePage.do?state=promptContactUs)**
+If users have any questions about the security at our Web site, users can call us at (303) 543-3083 or[ **click here to contact us.**](https://web.archive.org/contact-Boulder-Colorado-homefinder.htm)**
 
 **Correcting/Updating/Deleting/Deactivating Personal Information**  
 If a user's personally identifiable information changes (such as phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at the "Update Profile" page, or by contacting Client Care at (303) 543-3083. 
@@ -96,3 +96,7 @@ Fax: (303) 499-1755
 Postal Address: 4770 Baseline Road, Suite 200 Boulder, CO 80303  
 Web site URL: www.COhomefinder.com  
 Security Officer: Anthony Francavilla, Chief Technology Officer
+
+We're a local Colorado company with 17 offices across the state and headquarters at 4770 Baseline Road, Suite 200 Boulder, CO 80303
+
+© 2005, Colorado HomeFinder, All Rights Reserved 
