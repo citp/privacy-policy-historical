@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masters.com.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610112636id_/http%3A//masters.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masters.com.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209180712id_/http%3A//www.masters.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Masters Medical Pty Ltd - Privacy Statement
 
@@ -31,11 +31,11 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. email [service@masters.com.au](mailto:service@masters.com.au)
-  2. call the following telephone number: (02) 9749 7911
+  2. call the following telephone number: (02) 9689 3655
 
 
 
 ##  Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Dr Scott Porter, Managing Director Masters Medical Pty Ltd Unit 7, 12-18 Victoria Street East Lidcombe, NSW 2141  Sydney AUSTRALIA Ph (02) 9749 7911   
-Fax (02) 9749 7855
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Dr Scott Porter, Managing Director Masters Medical Pty Ltd Suite 505, Level 5, Westfield Office Towers, Church Street, Parramatta, NSW 2150 Sydney AUSTRALIA Ph (02) 9689 3655   
+Fax (02) 9689 2866
