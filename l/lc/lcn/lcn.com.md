@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcn.com privacy policy that was archived on 2004-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040219173139id_/http%3A//www.lowcostnames.co.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcn.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207002242id_/http%3A//www.lowcostnames.co.uk/privacy_policy.asp) for the most accurate reproduction.*
 
 # LCN Privacy Policy
 
