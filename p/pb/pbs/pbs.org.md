@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208073326id_/http%3A//www.pbs.org/hplink/redir/aboutsite/aboutsite_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403141400id_/http%3A//www.pbs.org/hplink/redir/aboutsite/aboutsite_privacy.html) for the most accurate reproduction.*
 
 # PBS | About This Site . Privacy Policy
 
@@ -45,4 +45,4 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 **Terms of Use**
 
-Please also make sure to read pbs.org's [Terms of Use](https://web.archive.org/web/20041124094549id_/http://www.pbs.org/aboutsite/aboutsite_rules.html) to understand the additional terms and conditions which apply to your use of our sites.
+Please also make sure to read pbs.org's [Terms of Use](https://web.archive.org/web/20050402022246id_/http://www.pbs.org/aboutsite/aboutsite_rules.html) to understand the additional terms and conditions which apply to your use of our sites.
