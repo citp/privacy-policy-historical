@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621121201id_/http%3A//askmrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202030652id_/http%3A//askmrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Ask Mr. Rebates - Privacy Policy
 
