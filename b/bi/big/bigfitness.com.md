@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfitness.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208115419id_/http%3A//bigfitness.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfitness.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402005924id_/http%3A//www.bigfitness.com/privacy-policy.html) for the most accurate reproduction.*
 
 # BigFitness.com Privacy Policy
 
