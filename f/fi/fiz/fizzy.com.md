@@ -1,60 +1,59 @@
-> *The following text is extracted and transformed from the fizzy.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613212350id_/http%3A//www.greatdomains.com/support/prvstatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fizzy.com privacy policy that was archived on 2004-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040830104831id_/http%3A//fizzy.com/privacy.html) for the most accurate reproduction.*
 
-# GreatDomains.com - The Internet's #1 Domain Name, Website, and Internet-based business brokerage service.
+# ITM3 - Privacy Statement
 
-PRIVACY POLICY
+**Cookies and Site Use Tracking**
 
-This Policy was last revised on April 18, 2001.
+This site may use cookies for site administration purposes.  If for any reason you wish to not take advantage of cookies, you may have your browser not accept them, although this may disable or render unusable some of the features of the website. 
 
-**GreatDomains.com, Inc. (“GreatDomains.com”) is committed to safeguarding your privacy online. GreatDomains.com takes this commitment very seriously. We will not give, sell or otherwise share any of your personal information with any third party without your approval. Please read the following policy to understand how your personal information will be treated.**
+This website also may detect and use your IP address or domain name for internal traffic monitoring and capacity purposes or to otherwise administer our website.  No personal information is obtained; rather, just the patterns of usage of our various users may be tracked to provide you with improved service and content based on aggregate or statistical reviews of user site traffic patterns. 
 
-**How Your Information Is Gathered**
+**Personal Data**
 
-GreatDomains.com collects information in a variety of ways. We use your IP address to help diagnose problems with our server, and to administer our Web site. When registering for GreatDomains.com’s services, the registration form requires you to give us contact information, such as your name, address, e-mail address,unique identifiers, and demographic information. In the course of using our site, we automatically track additional information, such as the URL that you just came from, which URL you go to next, and what browser you were using. Information of this sort is typically collected automatically by many sites. 
+You may generally browse any ITM3 website anonymously, without providing any personal information.  However, there are cases in which we may ask you for personal data.  For example, we may occasionally conduct on-line surveys to better understand the needs and profile of our visitors.  In addition, we may request personal information when you register to receive additional information regarding our products and services, sign up for a newsletter, or send us a question.  Even if you choose not to give information we request, you can still visit most of the ITM3 website, but you may be unable to access certain options, offers and services. 
 
-In addition, GreatDomains.com uses cookies for certain pages of our site. The use of cookies streamlines your use of and access to our Web site. Among other reasons, cookies allow you to enter your password less frequently during a session and enable us to provide information that is targeted to your interest. A cookie is a small amount of data that is sent to your computer from our Web site and is stored on your computer’s hard drive. Many cookies are “session cookies” that are automatically deleted at the end of a session. You are always free to decline a cookie if your browser enables such a choice, however, in that case, your online session may be more cumbersome and may require you to reenter information that has already been entered.
+In case you change your mind or wish to update or delete personal information (such as your zip code), we will endeavor to correct, update or remove the personal data you give us.  You can do this by contacting us at the contact points specified below. 
 
-If you choose to place an offer or to sell a Domain Name on our Web site, we will collect information about your purchasing and selling behavior. We may also collect comments provided by other users in our feedback area.
+**Orders**
 
-If you elect to use additional services provided by GreatDomains.com, such as our escrow services, additional financial and personal information will be collected, such as your billing address and other specific financial information, collected directly or from transaction documents used in the process to establish the financial resources necessary to conclude the transaction. Additional information may be obtained from many different sources, such as personal correspondence or e-mails that you send to us or that we may receive from third parties, other communications,or activities posted to our site.
+When you place an online order, we typically need to know your name, email address, mailing address, and possibly your credit card information.  This is required so that we can process and fulfill your order, send an order or shipping confirmation, as well as notify you of your order status.  All ITM3 Internet transactions with are performed on a secure server that encrypts your name, address and credit card information to prevent it from being read by unauthorized third parties. 
 
-Finally, please note that GreatDomains.com’s Web site is linked to other Web sites by way of hotlinks and advertisement banners. GreatDomains.com is not responsible for the content, or the privacy practices of such external Web sites. For these specific practices, you should refer to the specific privacy policy administered by each such Web site.
+**Policies for Minors**
 
-**How the Information Is Used**
+ITM3 encourages parents and guardians to actively monitor and participate in their children's online activities.  This site is not intended for use by anyone under 18 years old, no information should be submitted to this site by users under 18 years of age, and users under 18 years old should not be allowed to register for newsletters, clubs or other activities.  In addition, users under 18 years of age are not allowed to make purchases or participate in contests (except for those specifically directed to minors).  When and where appropriate, ITM3 may ask you to indicate your age to verify compliance with these policies. 
 
-GreatDomains.com uses personal information for internal purposes only, to provide those services that you are requesting, to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and service offerings, to customize our site’s content and layout, and to further enhance the services that we provide. We may also use personally identifiable information about you to deliver information to you that, in some cases, is targeted to your interest, such as targeted banners and promotions.You can always remove yourself from receiving such information by notifying us by using the opt-out option in the “My Profile” page.
+ITM3 does not knowingly collect information from our guests under 18 years of age or provide any personally identifying information from such guests to any third party for any reason whatsoever.  We do not allow guests known to be under 18 years of age to receive direct marketing communications from ITM3 or from third parties. 
 
-Mailing information, such as your e-mail address, may be used in rare situations for us to contact you regarding an administrative issue. Address and billing information may be used if you elect to use our escrow services, or in the event that we are entitled to a transfer fee for a sale conducted through our Web site.
+|    
+|  **Special Cases**
 
-We may also use information in the file that we maintain regarding your current and past activities in the unlikely event that we need to resolve disputes, troubleshoot problems,or otherwise to enforce our User Agreement. At times, cross-sectional information may be used of multiple users to identify problems or resolve disputes.
+ITM3 fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities, and may in its sole discretion disclose personal information or other information to satisfy any law, regulation, subpoena, or government request.  ITM3 reserves the right to release personal information or other information about users who we believe are engaged in illegal activities or are otherwise in violation of our Terms of Use, even without a subpoena, warrant or court order, if we believe in our sole discretion that such disclosure is necessary or appropriate to protect the rights or property of ITM3, its affiliates, or any of their officers, directors, or employees, agents, third-party content providers, suppliers, sponsors, or licensors.  ITM3 also reserves the right to report to law enforcement agencies any activities we reasonably believe to be unlawful. 
 
-In order to defer some of the costs of doing business, and thus, to be able to charge the user lower fees, GreatDomains.com generates additional revenue by way of delivering targeted advertisements. When delivering such advertisements, GreatDomains.com serves as the middleman, delivering the advertisement according to certain criteria requested by the advertisers, such as particular demographics. GreatDomains.com will then display the advertisement to users who meet that this criteria. In During this process, the third-party advertiser does not have access to your individual account information.
+**Use of Personal Data**
 
-**With Whom Does GreatDomains.com Share Your Information?**
+Personal information provided may be used for marketing and promotional purposes only by ITM3 and its subsidiaries and affiliates.  ITM3 does not rent, sell or otherwise distribute to third parties, your personal information entered on this site.  We may share statistical or aggregated non-personal information about our users with advertisers, business partners, sponsors and other third parties.  This data is used to customize ITM3 website content and advertising to deliver a better experience to our users. 
 
-As a general rule, GreatDomains.com does not disclose any of your personally identifiable information, unless we have your specific permission, or under special circumstances, such as when we reasonably believe that the law requires that we do so. We do aggregate personally identifiable information and disclose such information in the aggregate as historical, statistical data for marketing, and promotional situations. However, in such situations, it is not possible to personally identify you or your personal information. Certain information, such as your password, credit card information, or bank account number would not be disclosed in such aggregate disclosures.
+While we use all reasonable efforts to safeguard the confidentiality of your information, ITM3 has no liability for disclosure of any information obtained due to errors in transmission or the unauthorized acts of third parties.  ITM3 also reserves the right to change or update this policy, or any other policy or practice, at any time, with reasonable notice to users of its website.  Any changes or updates will be effective immediately upon posting to the ITM3 website. 
 
-GreatDomains.com cooperates with all law enforcement inquiries and with third-parties who are enforcing their intellectual property or other proprietary rights. We, of course, also provide that the information which is necessary to facilitate the actual, ongoing commercial activities conducted on the GreatDomains.com Web site. For example, we will provide identifying information to the parties that have agreed upon the purchase and sale of a Domain Name, so that they may continue and conclude the transaction. All recipients of the transaction agree to the restrictions of on how they can use and disclose such information.
+**Mailings**
 
-In sum, although we use industry standard practices to protect your privacy, we do not and cannot promise, and you cannot expect, that your personally identifiable communications will always remain private.
+If you provide us with personal information, we may place you on a list to receive email regarding announcements, special offers and new products.  If you do not wish to receive email updates, please contact us at the contact points specified below. 
 
-**Your Use of Other Users’ Information.**
+**Linked Sites**
 
-As a seller, you will be sent certain private information identifying the buyer of your Internet Domain Name, and as a buyer, you will be sent identifying information of the seller. By entering into our User Agreement, you agree that any personally identifying information that you obtain through the GreatDomains.com Web site or through a GreatDomains.com-related communication or a GreatDomains.com-facilitated transaction, you are granted a limited license to use such information only for the furthering of the subject matter of the GreatDomains.com-related transaction, including GreatDomains.com-facilitated services, such as its escrow services. Upon conclusion of the transaction, you will remove and delete all copies in all forms of the personally-identifying third party information, other than one copy of only that data which is necessary for the archivaling of the transaction, unless you receive explicit, specific written approval from the Registrant of the personal information that you need not do so.
+Please be advised that our website may contain links to third-party websites.  The linked sites are not under the control of ITM3, and we are not responsible for the contents or privacy practices of any linked site or any link on a linked site. 
 
-**Updating and Correcting Personally Identifying Information**
+**Contact Information**
 
-Once you register with GreatDomains.com, you will be able and are allowed to change your personally identifying information available at GreatDomains.com, including your e-mail address, user ID, name, address, telephone number, password, and credit card information. Upon your request, we will remove any of the above personally identifying information other than your name and user ID. We will send you a confirmation of the information that you requested us to remove and the date of its removal. We will retain in our files certain information in our files that you have requested us to remove for different purposes, such as to resolve potential dispute, troubleshoot problems,and otherwise enforce our User Agreement. Furthermore, certain circumstances could prevent the complete and permanent removal of such information from our databases such as technical constraints and the periodic backing up and archiving of our systems for disaster recovery purposes.
+Questions about this privacy policy may be directed to: 
 
-**General**
+Website Privacy   
+ITM3 California   
+150 Greenway Drive   
+Walnut Creek, CA 94596   
 
-Our Privacy Policy only addresses the use and disclosure of information that we collect. To the extent that you disclose information to other parties, even if you connected to those parties through the GreatDomains.com Web site, different rules may apply, and GreatDomains.com does not manage or control such information. GreatDomains.com implements industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as fire walls and SSL encryption. However, perfect security measures do not exist and we cannot guarantee that third parties cannot exercise sufficient resources to break down the protective systems that we have established and obtain your personal information.This Privacy Policy is incorporated into and subject to the terms of the GreatDomains.com User Agreement.
+**Last Update**
 
-**Third Party Ad Serving**
-
-GreatDomains.com uses a third party to serve the advertisements on our Web site and other Web sites. In the course of serving ads, these companies may place or recognize a unique cookie on your browser, and may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to measure advertising effectiveness and provide advertisements to this and other sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, copy this link into a browser to view: _http://www.doubleclick.net/naiprivacy_
-
-Our current provider and ad server is DoubleClick.
-
+This privacy policy was last updated in January 2004.   
   
-
+---|---|---
