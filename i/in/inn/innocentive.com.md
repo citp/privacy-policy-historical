@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206235246id_/http%3A//www.innocentive.com/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405141550id_/http%3A//www.innocentive.com/privacy_notice.html) for the most accurate reproduction.*
 
 # InnoCentive Website Privacy Notice
 
@@ -12,7 +12,7 @@ In addition, this website uses a technology called "cookies". A cookie is a piec
 
 Our website has security measures in place, including the use of industry standard secure socket layer encryption (SSL), to protect the confidentiality of any of Your Information that you volunteer; however, to take advantage of this your browser must support encryption protection. These security measures also help us to honor your choices for the use of Your Information. 
 
-If for some reason you believe that this website has not adhered to these principles, or if you would like to see the information that we have maintained regarding your activities on our website, please notify us by e-mail at webmaster@InnoCentive.com, so that we may address your comments or inquiry promptly. Please allow us some time to process your request for access to Your Information. 
+If for some reason you believe that this website has not adhered to these principles, or if you would like to see the information that we have maintained regarding your activities on our website, please notify us by e-mail at webmaster@innocentive.com, so that we may address your comments or inquiry promptly. Please allow us some time to process your request for access to Your Information. 
 
 As a convenience to our visitors, this website currently contains links to a number of sites that we believe may offer useful information. The policies and procedures we described here do not apply to those sites. We suggest contacting those sites directly for information on their privacy, security, data collection and distribution policies. 
 
