@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the senderbase.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204233543id_/http%3A//www.ironport.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senderbase.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305130923id_/http%3A//www.ironport.com/privacy.html) for the most accurate reproduction.*
 
-# : : : I R O N P O R T -- MESSAGING GATEWAY APPLIANCES™
+# IronPort™ Privacy
 
 ### Privacy Practices
 
@@ -31,7 +31,7 @@ We use personally identifiable information in the following ways:
 
 ### With Whom We May Share Your Information
 
-From time to time, unless we have stated otherwise, we may provide certain information to selected business partners in order to effectively provide the product or service requested. For example, we share information about the email practices of applicants for our Bonded SenderTM Program with TRUSTe, the leading independent, non-profit entity dedicated to building trust and confidence on the Internet. In addition, registered users of our SpamCop service may file complaints about unwanted e-mail that are forwarded to Internet abuse desks. IronPort cannot control what happens to any personally identifying information contained in a complaint once the complaint is sent, but IronPort will not send complaints without your consent. 
+From time to time, unless we have stated otherwise, we may provide certain information to selected business partners in order to effectively provide the product or service requested. For example, we share information about the email practices of applicants for our Bonded SenderTM Program with TRUSTe, the leading independent, non-profit entity dedicated to building trust and confidence on the Internet. In addition, registered users of our SpamCop™ service may file complaints about unwanted e-mail that are forwarded to Internet abuse desks. IronPort cannot control what happens to any personally identifying information contained in a complaint once the complaint is sent, but IronPort will not send complaints without your consent. 
 
 In addition, IronPort may retain the services of outside contractors to provide services for us. They may be used to ship products, provide technical support, handle order processing or perform other services for us. We require that these contractors keep the personal information of customers secure and confidential. We also require that these contractors use personal information only on behalf of IronPort. 
 
