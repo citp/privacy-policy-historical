@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalenquirer.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410003249id_/http%3A//www.nationalenquirer.com/neo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalenquirer.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214222257id_/http%3A//nationalenquirer.com/neo/privacy.cfm) for the most accurate reproduction.*
 
-# AMI National Enquirer Online -- Privacy Policy
+# The National Enquirer: Privacy Policy
 
 Privacy Policy 
 
@@ -22,7 +22,7 @@ The National Enquirer does collect aggregate, anonymous information about the sw
 The National Enquirer Web may ask for and collect personally-identifiable information. The National Enquirer is committed to providing meaningful notice and choice to users before any personally-identifiable information is submitted to us. Specifically, users will be informed about how The National Enquirer may use such information, including whether it will be shared with marketing partners or combined with other information available to us. In most cases, the information provided by a user will be contributed a database to enable personally-tailored ad delivery online. Users will always be offered the choice not to provide personally-identifiable information or to have it shared with others. 
 
 **Policy for Children Under the Age of 13**  
-AMI sites are not intended for use by children. Children should not provide any personal information or use AMI's public areas, forums, and chats. AMI sites do not accept registrations or collect personally identifiable information from children due to the Children's Online Privacy Protection Act ("COPPA"). [ COPPA](http://www.ftc.gov/bcp/conline/pubs/online/kidsprivacy.htm) was enacted to prevent websites from collecting and/or distributing information from children without their parents' consent. For more information on [ COPPA](http://www.ftc.gov/bcp/conline/pubs/online/kidsprivacy.htm), please refer to the [Federal Trade Commission](https://web.archive.org/web/20010410003249id_/http%3A//www.nationalenquirer.com/neo/www.ftc.gov) Website. 
+AMI sites are not intended for use by children. Children should not provide any personal information or use AMI's public areas, forums, and chats. AMI sites do not accept registrations or collect personally identifiable information from children due to the Children's Online Privacy Protection Act ("COPPA"). [ COPPA](http://www.ftc.gov/bcp/conline/pubs/online/kidsprivacy.htm) was enacted to prevent websites from collecting and/or distributing information from children without their parents' consent. For more information on [ COPPA](http://www.ftc.gov/bcp/conline/pubs/online/kidsprivacy.htm), please refer to the [Federal Trade Commission](http://www.ftc.gov/) Website. 
 
 **Access**  
 The National Enquirer offers users who have voluntarily provided personally-identifiable information to The National Enquirer the opportunity to review the information provided and to correct any errors. 
