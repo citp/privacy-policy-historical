@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wrif.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202152730id_/http%3A//www.wrif.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrif.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607165333id_/http%3A//www.wrif.com/privacy.asp) for the most accurate reproduction.*
 
-# WRIF - Detroit - The Home of Rock and Roll
+# WRIF - Detroit - The Motor City's Rock Radio Station
 
   
 At WRIF, we recognize the importance of the privacy of our listeners and web visitors. To this end, we have the following privacy policy, which may be updated at any time:
