@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203182956id_/http%3A//www.cnbank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605041435id_/http%3A//cnbank.com/privacy.asp) for the most accurate reproduction.*
 
 # Canandaigua National Bank and Trust | Privacy Policy
 
@@ -19,9 +19,9 @@ Protecting the financial transactions of our customers is of the highest importa
 
 Security begins with your browser. To protect transactions, Canandaigua National Bank accepts Internet logins originating from a browser that supports a high level of encryption. Encryption prevents transactions from being "read" by unauthorized parties over the Internet. All logins to Canandaigua National Bank's web site are encrypted. 
 
-[Click here to check your browser](http://www.verisign.com/update-cgi/outPage.exe?good=../docs/html/good.html&nsbad=../docs/html/upgradeNSonly.html&ie2=../docs/html/upgradeIEonly.html)
+Click here to check your browser
 
-Secure Sockets Layer (SSL) protocol is used as the "pathway" to provide privacy for the data flowing between the browser and the Canandaigua National Bank Internet server. SSL provides a secure channel for data transmission over the Internet. It also allows for the transfer of digital signatures (see [http://www.verisign.com](http://www.verisign.com/)) for authentication procedures and provides message integrity, ensuring that the data can't be altered en route. Canandaigua National Bank Internet customers can be assured they are actually communicating with the Canandaigua National Bank Internet server and not a third party trying to intercept the transaction on the Internet.
+Secure Sockets Layer (SSL) protocol is used as the "pathway" to provide privacy for the data flowing between the browser and the Canandaigua National Bank Internet server. SSL provides a secure channel for data transmission over the Internet. It also allows for the transfer of digital signatures (see http://www.verisign.com) for authentication procedures and provides message integrity, ensuring that the data can't be altered en route. Canandaigua National Bank Internet customers can be assured they are actually communicating with the Canandaigua National Bank Internet server and not a third party trying to intercept the transaction on the Internet.
 
 When a login is initiated, the browser logs on to Canandaigua National Bank's web site. A secure message via SSL is then initiated with a Canandaigua National Bank Internet server. The server responds by authenticating the customer and initiating session encryption. When a session is encrypted, the browser's icon indicating a secure session becomes activated. If the icon appears broken or not highlighted, encryption is not in use and the current session is not secure. 
 
@@ -35,11 +35,11 @@ Canandaigua National Bank will continually look for new advances in security tec
 
 In addition, we encourage our customers to learn more about Internet Security and Electronic commerce at a representative sample of sites listed below: 
 
-  * [Netscape Security](http://home.netscape.com/info/security-doc.html)
-  * [Microsoft Security](http://www.microsoft.com/security/)
-  * [The SSL Protocol](http://www.netscape.com/newsref/std/SSL.html)
-  * [Using RSA Public Key Cryptography](http://www.rsa.com/rsalabs/faq/faq_misc.html)
-  * [Digital Certificates](https://digitalid.verisign.com/)  
+  * Netscape Security
+  * Microsoft Security
+  * The SSL Protocol
+  * Using RSA Public Key Cryptography
+  * Digital Certificates  
 
 
 
