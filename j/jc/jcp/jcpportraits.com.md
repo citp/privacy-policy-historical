@@ -1,37 +1,38 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/privacy.htm) for the most accurate reproduction.*
 
 # JCPenney Portrait Studios - Privacy Policy
 
-[](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/Default.htm)**  
+[](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/Default.htm)**  
 Features:  
-**\- [Shop Online](http://secure.jcpportraits.com/)  
-\- [Coupons & discounts](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/coupons.htm)  
-\- [Win free portraits](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/drawing/Default.asp)  
-\- [Portrait Studio locator](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/locator/locator.asp)  
-\- [Join our e-mail list](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/updates/)  
-\- [Your opinion matters](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/opinion/)  
+**\- [Reorder Portraits!](http://secure.jcpportraits.com/)  
+\- [Coupons & discounts](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/coupons.htm)  
+\- [Win free portraits](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/drawing/Default.asp)  
+\- [ Studio locator](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/locator/locator.asp)  
+\- [Join our e-mail list](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/updates/)  
+\- [Birthday Club](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/birthdayclub/) NEW!  
+\- [Your opinion matters](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/opinion/)  
 \- [Background selections  
-](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/backgrounds.htm)\- [Props & accessories](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/props/)  
-\- [Portrait tips](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/p_tips.htm)  
-\- [Portrait gallery](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/gallery/gallery_01.htm)  
-\- [All 4 Kids](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/all4kids/)  
-\- [Career opportunities](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/employment.htm)
+](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/backgrounds.htm)\- [Props & accessories](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/props/)  
+\- [Portrait tips](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/p_tips.htm)  
+\- [Portrait gallery](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/gallery/gallery_01.htm)   
+\- [All 4 Kids](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/all4kids/)  
+\- [Career opportunities](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/employment.htm)
 
 **Products:  
-**\- [Portrait Club](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/p_club.htm)  
-\- [Gift certificates](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/gift_cert.htm)  
-\- [Portrait sizes](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/sizes.htm)  
-\- [Greeting cards](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/cards/)  
-\- [Frames & accessories](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/frames.htm)  
+**\- [Portrait Club](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/p_club.htm)  
+\- [Gift certificates](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/gift_cert.htm)  
+\- [Portrait sizes](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/sizes.htm)  
+\- [Greeting cards](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/cards/)  
+\- [Frames & accessories](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/frames.htm)  
 \- [e-pix@jcp  
-](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/html/e-pix.htm)
+](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/html/e-pix.htm)
 
 | 
 
 ##  **PRIVACY POLICY**
 
-[Terms and Conditions](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/terms.htm#Terms) | [Security](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/terms.htm#Security) | [ Copyright Notice](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/terms2.htm#Copyright) |   
-[ Disclaimers](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/terms2.htm#DISCLAIMERS) | [ Limitation of Liability](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/terms3.htm#LIMITATION) | [Privacy](https://web.archive.org/web/20001205023000id_/http%3A//jcpportraits.com/privacy.htm)
+[Terms and Conditions](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/terms.htm#Terms) | [Security](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/terms.htm#Security) | [ Copyright Notice](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/terms2.htm#Copyright) |   
+[ Disclaimers](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/terms2.htm#DISCLAIMERS) | [ Limitation of Liability](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/terms3.htm#LIMITATION) | [Privacy](https://web.archive.org/web/20010331124018id_/http%3A//www.jcpportraits.com/privacy.htm)
 
 **What information is collected at jcpportraits.com? How is it used?**
 
