@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210143239id_/http%3A//www.batteries.com/info.asp%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405191201id_/http%3A//www.batteries.com/help/privacy_policy.asp) for the most accurate reproduction.*
 
 # Batteries.com for computer laptop, cellular phone, watch, hearing aid, camera battery savings!
 
-  
-**Privacy Policy** |  [](https://www.truste.org/validate/7426)  
+## Privacy Policy
+
+|   
 ---|---  
   
 batteries.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
@@ -80,10 +81,10 @@ If you do not wish to receive any catalog or postcard mailings in the future, yo
 **Security**  
 When you submit personal information on this Web site, we will protect your information both online and offline. When you submit sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - (Secure Socket Layer). While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. 
 
-We also use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure once we receive it. For example, we store the personal information you provide on computer systems with limited access that are located in secured facilities. batteries.com's employees are trained and kept up-to-date on our security procedures. If you have any questions about the security at our website, you can send an email to [security@batteries.com](https://web.archive.org/web/20041210143239id_/http%3A//www.batteries.com/security@batteries.com). 
+We also use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure once we receive it. For example, we store the personal information you provide on computer systems with limited access that are located in secured facilities. batteries.com's employees are trained and kept up-to-date on our security procedures. If you have any questions about the security at our website, you can send an email to [security@batteries.com](mailto:security@batteries.com). 
 
 **Correction/Updating Personal Information:**  
-If you need to correct or update your personal information (such as your email address), or you no longer desires our service you can let us know on our member information page accessible by logging into your My Power account or by emailing our customer support at [info@batteries.com](mailto:info@batteries.com%22). 
+If you need to correct or update your personal information (such as your email address), or you no longer desires our service you can let us know on our member information page accessible by logging into your My Power account or by emailing our customer support at [info@batteries.com](mailto:info@batteries.com). 
 
 **Notification of Changes**  
 If we change our privacy policy, we will post a notice of the change on our homepage, so our you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you via email or by posting a prominent notice on our Web site 30 days prior to implementing the change. You will have a choice as to whether or not we use your information in this different manner. 
