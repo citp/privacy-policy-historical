@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605041654id_/http%3A//www.surepayroll.com/ourservice/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210021351id_/http%3A//www.surepayroll.com/ourservice/privacy.htm) for the most accurate reproduction.*
 
-# SurePayroll
+# Payroll - Privacy and Security Statement - SurePayroll
 
 Privacy and Security Statement
 
