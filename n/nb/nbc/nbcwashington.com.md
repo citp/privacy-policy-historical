@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcwashington.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207164514id_/http%3A//www.nbc4.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcwashington.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403185629id_/http%3A//www.nbc4.com/news/1176131/detail.html) for the most accurate reproduction.*
 
 # nbc4.com - News - Online Privacy Statement
 
@@ -69,9 +69,3 @@ It is important to note that this site contains links to other sites, and that t
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY. 
 
 We reserve the right to change this policy at any time by posting a revised privacy policy. 
-
-  
-  
-  
-  
----
