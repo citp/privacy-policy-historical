@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securitymetrics.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201030830id_/http%3A//securitymetrics.com/privacypolicy.adp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securitymetrics.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603173528id_/http%3A//www.securitymetrics.com/privacypolicy.adp) for the most accurate reproduction.*
 
 # SecurityMetrics - Privacy Policy
 
