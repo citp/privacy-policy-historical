@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalgeographic.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407183139id_/http%3A//www.nationalgeographic.com/community/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgeographic.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202220036id_/http%3A//www.nationalgeographic.com/community/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy @ nationalgeographic.com
+# National Geographic Privacy Policy
 
 ### nationalgeographic.com Privacy Policy
 
@@ -36,5 +36,3 @@ Advertisements which appear on this Web site are delivered to you by DoubleClick
 **Disclaimer**
 
 This policy may be changed at any time at National Geographic’s discretion.
-
-[**Sign up for our free e-mail newsletters  >>**](https://web.archive.org/web/20020407183139id_/http%3A//www.nationalgeographic.com/community/register.html)
