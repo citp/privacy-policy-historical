@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bowling.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201083617id_/http%3A//www.bowling.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowling.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601185525id_/http%3A//www.bowling.com/help/privacy.asp) for the most accurate reproduction.*
 
-# bowling.com - Bowling Balls, Bowling Bags, Bowling Shoes, and Bowling Equipment from the #1 online source
+# bowling.com - Discount Bowling Balls, Bowling Bags, Bowling Shoes, and Bowling Equipment from the #1 online source
 
 Privacy Policy
 
