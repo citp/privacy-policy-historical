@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207123549id_/http%3A//www.sees.com/seeshtm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2004-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040625221646id_/http%3A//www.sees.com/seeshtm/privacy.htm) for the most accurate reproduction.*
 
 # See's Privacy Policy
 
