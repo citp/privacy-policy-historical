@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2003-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031225220416id_/http%3A//verisign.com/truste/index.html%3Fsl%3D061202) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604011402id_/http%3A//www.verisign.com/truste/index.html%3Fsl%3D071202) for the most accurate reproduction.*
 
 # Truste
 
 VeriSign, Inc.'s Privacy Statement  
-**Version 2.7 - November 15, 2002**  
+**Version 2.8 - Effective March 18, 2004**  
 [Printable Version](https://web.archive.org/truste/print.html)
 
-[](https://www.truste.org/validate/35)VeriSign is committed to providing you with excellent service for all of our products. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire VeriSign site (which covers verisign.com).
+[](https://www.truste.org/ivalidate.php?url=www.verisign.com)VeriSign is committed to providing you with excellent service for all of our products. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire VeriSign site (which covers verisign.com).
 
 VeriSign is a licensee of the TRUSTe Privacy Program and is authorized to use the TRUSTe trustmark. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. VeriSign has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe because VeriSign wants to demonstrate its commitment to your privacy. Members of the TRUSTe Privacy Program agree to adhere to TRUSTe's established privacy principles of disclosure, choice, access, and security. Members of the TRUSTe Privacy Program also agree to comply with ongoing TRUSTe oversight and its alternative dispute resolution process. In keeping with TRUSTe's Privacy Program, this Privacy Statement will inform you of:
 
@@ -108,7 +108,7 @@ If you use Express Checkout to purchase a product, the merchant from whom you ar
 
 **Disclosure by Law and Protection of VeriSign and Others**
 
-If we are required by law to disclose certain information to local, state, federal, national or international government or law enforcement authorities, we will do so (for example, we may disclose the identity of purchasers of certain software products to the U.S. Department of Commerce, Bureau of Export Administration, as required under the terms of our export licenses). In addition, VeriSign may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply VeriSign's agreements.
+If we are required by law to disclose certain information to local, state, federal, national or international government or law enforcement authorities, we will do so (for example, we may disclose the identity of purchasers of certain software products to the U.S. Department of Commerce, Bureau of Export Administration, as required under the terms of our export licenses). We will also disclose information to third parties as necessary in order to comply with applicable laws and regulations. In addition, VeriSign may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply VeriSign's agreements.
 
 **Surveys**
 
