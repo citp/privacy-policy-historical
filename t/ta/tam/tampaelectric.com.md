@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tampaelectric.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201165414id_/http%3A//www.tecoenergy.com/ENPrvcyPlcy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampaelectric.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606223825id_/http%3A//www.tecoenergy.com/ENPrvcyPlcy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
