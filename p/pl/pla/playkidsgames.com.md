@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playkidsgames.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217015444id_/http%3A//playkidsgames.com/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playkidsgames.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603145426id_/http%3A//playkidsgames.com/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
