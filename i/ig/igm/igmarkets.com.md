@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200048id_/http%3A//www.igmarkets.com/content/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202162010id_/http%3A//igmarkets.com/content/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Markets - Privacy Notice
 
@@ -81,11 +81,11 @@ This statement outlines some privacy issues specific to the igmarkets.com websit
 IG may collect personal information you enter when using our website.
 
   
-Cookies are small pieces of text stored on your computer to help us determine the type of browser and settings you are using, where you have been on the website, when you return to the website, where you came from, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience on the IG Index web site, including presenting web pages according to your needs or preferences.
+Cookies are small pieces of text stored on your computer to help us determine the type of browser and settings you are using, where you have been on the website, when you return to the website, where you came from, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience on the IG Markets website, including presenting web pages according to your needs or preferences.
 
-IG Markets may also use independent external service providers to track the traffic and usage on the web site.
+IG Markets may also use independent external service providers to track the traffic and usage on the website.
 
-Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of igindex.co.uk if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
+Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of the IG Markets site if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
 
   
 IG Markets is constantly striving to improve functionality on this site through technology changes. This may mean a change to the way in which personal information is collected or used. The impact of any technology changes which may affect your privacy, will be notified in this Supplement at the time of the change.
