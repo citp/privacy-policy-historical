@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203005226id_/http%3A//www.transport.qld.gov.au/home.nsf/qt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610012245id_/http%3A//www.transport.qld.gov.au/home.nsf/qt/privacy) for the most accurate reproduction.*
 
 # Privacy and security statement - Queensland Transport
 
@@ -37,4 +37,4 @@ The vehicle and vessel registration payment facility of this site provides for t
 
 **Contact**
 
-If you have any queries about our privacy and security practices, please contact [privacy@transport.qld.gov.au](mailto:privacy@transport.qld.gov.au?subject=Privacy%20and%20security%20statement).
+If you have any queries about our privacy and security practices, please contact [privacy@transport.qld.gov.au](mailto:privacy@transport.qld.gov.au?subject=Privacy%20and%20security%20statement). 
