@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rinkya.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621080601id_/http%3A//www.rinkya.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinkya.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008120531id_/http%3A//www.rinkya.com/privacy.php) for the most accurate reproduction.*
 
 # rinkya Yahoo Japan Search Service: Privacy Notice
 
