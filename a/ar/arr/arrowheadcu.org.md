@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrowheadcu.org privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609061949id_/http%3A//www.arrowheadcu.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrowheadcu.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207084738id_/http%3A//www.arrowheadcu.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # Arrowhead Credit Union
 
@@ -27,6 +27,16 @@ Arrowhead Central Credit Union owns a number of companies; Arrowhead Trust Incor
 We may also share information from your applications with external sources, such as check printing and data processing companies. These companies might, for example, assist us in offering you certain products and services or help us mail statements. These companies act on our behalf and are required to keep the information that we provide to them confidential.
 
 All vendors and service providers sign confidentiality agreements with Arrowhead Central Credit Union that prohibit them from using member information for any purpose other than that for which they have been contracted. We do not sell our member lists to catalogs, direct mail companies, magazines or other non-financial service providers. 
+
+**How does Arrowhead Central Credit Union use cookies?**  
+"Cookies" are elements of data that a website can send to your browser and store on your computer. Our cookies do not collect or contain personal information about you or compromise the confidentiality of your personal information.
+
+Our system automatically gathers information about the areas you visit on our sites and about the links you may select from within our site to other areas of the Internet or elsewhere online. We use such information in the aggregate to understand how our users as a group use the services and resources provided on our sites. This way we know which areas of our sites are favorites of our users, which areas need improvement, and what technologies are being used so that we may continually improve our sites. We reserve the right in the future to link such usage information to Contact Information or Personal Nonpublic Information in order to securely verify your identity, to personalize aspects of your experience on our web sites and to better understand which information or services are of greater value to our customers.
+
+We may share aggregated statistical information with our partners, suppliers and other third parties, but we will not share any individual names, personal navigational or other personal information.   
+You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. You can also erase cookies already stored on your computer. If you choose not to accept these cookies or if you erase them, your experience at our site and other web sites may be diminished and some features may not work as intended. For more information on working with cookies, you should consult the User Manual, FAQ or Help function of your specific browser and operating system software.
+
+While you are browsing our web sites, you might be directed to web sites operated by third parties. These other web sites may send their own cookies to you and collect data or solicit personal information. We do not control and are not responsible for what third parties do on their separate web sites, or how they handle information about you. 
 
 **Other**  
 Information may be exchanged with credit bureaus and similar organizations, provided when legally required or permitted, or in connection with a fraud investigation.
