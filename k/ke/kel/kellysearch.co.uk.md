@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403001808id_/http%3A//www.kellysearch.co.uk/hpp/homepage/privacy-policy.htms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802065114id_/http%3A//www.kellysearch.co.uk/hpp/homepage/privacy-policy.htms) for the most accurate reproduction.*
 
 # Kellysearch - Privacy Policy
 
