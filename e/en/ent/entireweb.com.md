@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entireweb.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209121600id_/http%3A//www.entireweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entireweb.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606202813id_/http%3A//www.entireweb.com/privacy.html) for the most accurate reproduction.*
 
 # Entireweb.com - We have the future. You use it!
 
@@ -23,5 +23,3 @@ We do not use or disclose information about your individual visits to WorldLight
 _**WorldLight Network privacy policy changes**_
 
 If we decide to change our privacy policy for WorldLight Network, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
-
-* * *
