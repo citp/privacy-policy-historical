@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starchefs.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603205759id_/http%3A//starchefs.com/SC_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starchefs.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602044605id_/http%3A//www.starchefs.com/about_us/html/privacy.shtml) for the most accurate reproduction.*
 
 # Star Chefs : Jobs at StarChefs
 
@@ -17,11 +17,11 @@ We use your IP address (computer address) to diagnose problems on our server.
 
 The StarChefs's feedback questionnaire and the StarChefs newsletter may request users to give us contact, demographic, and/or financial information such as name, locale, gender, age, income level and email address. The demographic information is used to enhance user experience so we can be more content specific. The contact information is used to notify users of new content for surveys and newsletters via email. Financial information is used for in-house statistics, advertising and marketing target material. 
 
-Our site does not use cookies. A cookie is a file on your computer that can contain any arbitrary information the server chooses. Typically, a cookie will be used to identify a registered user of a website without requiring them to sign in every time they access that site. Other common uses of cookies are to maintain a shopping basket of goods the user has selected to purchase during a session, site personalization and the tracking of a particular user's access to a site. When we begin to use them, StarChefs will make sure the cookies are used to deliver content specific to your interests and to save password and zip code information so you won't have to reenter it each time you visit our site. 
+Our site uses cookies to assist your browsing experience. A cookie is a file on your computer that can contain any arbitrary information the server chooses. Typically, a cookie will be used to identify a registered user of a website without requiring them to sign in every time they access that site. Other common uses of cookies are to maintain a shopping basket of goods the user has selected to purchase during a session, site personalization and the tracking of a particular user's access to a site. StarChefs will make sure the cookies are used to deliver content specific to your interests and to save login, password and zip code information so you won't have to reenter it each time you visit our site. 
 
 StarChefs uses advertising software to service the ads on our site. These ads may contain cookies. We are not responsible for the cookies in these ads. 
 
-We run contests on occasion within our site where we may ask visitors for contact information such as zip code, age, and/or income level. The user's contact information is only used with the visitor's consent to contact the visitor when necessary, for example, if a user wins a contest or to notify a user of upcoming events and contests. Users may opt-out of receiving such notifications by emailing us at liz@starchefs.com and/or calling us at 212- 966-3775. 
+We run contests on occasion within our site where we may ask visitors for contact information such as zip code, age, and/or income level. The user's contact information is only used with the visitor's consent to contact the visitor when necessary, for example, if a user wins a contest or to notify a user of upcoming events and contests. Users may opt-out of receiving such notifications by emailing us by [clicking here](https://web.archive.org/salesform.php) and/or calling us at 212- 966-3775. 
 
 Our site does contain links to other sites. We are not responsible for other sites' content. 
 
@@ -41,8 +41,14 @@ StarChefs gives users the option to change and/or modify their information on th
 
 * * *
 
-StarChefs may be contacted by email, phone and/or mail. Our email address is liz@starchefs.com, our phone is 212-966-3775 and our mailing address is StarChefs.com, 270 Lafayette Street, Suite 205, New York, NY 10012. 
+StarChefs may be contacted by email, phone and/or mail. Our email address is liz@starchefs.com, our phone is 212-966-3775 and our mailing address is StarChefs.com, 9 E 19th Street, 9th Floor, New York, NY 10003. 
 
 If you have any questions about this privacy statement, the practices of our site, or your dealings with this Website, please do not hesitate to contact us. 
 
 **ENJOY!**
+
+| 
+
+  
+If your company is interested in becoming a StarChefs sponsor you can contact us by [clicking here](https://web.archive.org/salesform.php) 9 East 19th Street, 9th Floor, New York, NY 10003, Tel (212) 966-3775, Fax (212) 477-6644  
+
