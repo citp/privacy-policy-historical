@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtimesheet.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602141431id_/http%3A//webtimesheet.com/aboutreplicon/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtimesheet.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003232648id_/http%3A//www.webtimesheet.com/aboutreplicon/privacystatement.asp) for the most accurate reproduction.*
 
 # Replicon - About Replicon
 
