@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203131300id_/http%3A//www.abouttmcs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405045903id_/http%3A//www.abouttmcs.com/privacy.html) for the most accurate reproduction.*
 
-# Ticketmaster Online - Citysearch, Inc.
+# Ticketmaster
 
 We at CitySearch, understand your need to maintain your privacy when using the Internet for your communication, shopping, exploration and play. These are the Policies CitySearch.com adheres to in maintaining this site for your use. Please note that each particular web site under the Ticketmaster Online - CitySearch, Inc. network (including [**www.ticketmaster.com**](http://www.ticketmaster.com/h/privacy.html), [**www.match.com**](http://www.match.com/site_entry/privacy.cfm?cfid=6872276&cftoken=8637517), [**www.livedaily.com**](http://www.livedaily.com/privacy.html) and [**www.cityauction.com**](http://www.cityauction.com/scripts/terms.asp)) may have particular privacy policies that apply only to that web site. Therefore, you should refer to those individual web sites for their unique privacy policies.
 
