@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usability.gov privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803030846id_/http%3A//usability.gov/about.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usability.gov privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609153957id_/http%3A//usability.gov/about.html%23privacy) for the most accurate reproduction.*
 
 # Usability.gov: About This Site
 
@@ -10,7 +10,8 @@
 
   * Who is this site designed for?  
 
-  * What's on this site?
+  * What's on this site?  
+
   * What other communications activities does NCI support?  
 
   * Does Usability.gov have a linking policy?  
@@ -50,7 +51,7 @@ Anyone interested in creating Web sites and other user interfaces that are respo
 
 Usability.gov provides broad information on usability and accessibility. The site comprises original content in addition to links to external Web sites, resources, and articles. Original content is created only when existing information in the field is not readily available or appropriate.
 
-Topics on this site include [Usability Basics](https://web.archive.org/web/20010803030846id_/http%3A//usability.gov/basics/index.html); [Methods for Designing Usable Web Sites](https://web.archive.org/web/20010803030846id_/http%3A//usability.gov/methods/index.html); [Lessons Learned](https://web.archive.org/web/20010803030846id_/http%3A//usability.gov/lessons/index.html); [Server Log Analysis](https://web.archive.org/web/20010803030846id_/http%3A//usability.gov/serverlog/index.html); [Statistics and Market Research](https://web.archive.org/web/20010803030846id_/http%3A//usability.gov/statistics/index.html); [Accessibility Resources](https://web.archive.org/web/20010803030846id_/http%3A//usability.gov/accessibility/index.html); [Guidelines and Checklists](https://web.archive.org/web/20010803030846id_/http%3A//usability.gov/guidelines/index.html); [Events and Meetings](https://web.archive.org/web/20010803030846id_/http%3A//usability.gov/events/index.html); [Links to Other Usability Sites](https://web.archive.org/web/20010803030846id_/http%3A//usability.gov/links/index.html); and more. 
+Topics on this site include [Usability Basics](https://web.archive.org/web/20020609153957id_/http%3A//usability.gov/basics/index.html); [Methods for Designing Usable Web Sites](https://web.archive.org/web/20020609153957id_/http%3A//usability.gov/methods/index.html); [Lessons Learned](https://web.archive.org/web/20020609153957id_/http%3A//usability.gov/lessons/index.html); [Server Log Analysis](https://web.archive.org/web/20020609153957id_/http%3A//usability.gov/serverlog/index.html); [Statistics and Market Research](https://web.archive.org/web/20020609153957id_/http%3A//usability.gov/statistics/index.html); [Accessibility Resources](https://web.archive.org/web/20020609153957id_/http%3A//usability.gov/accessibility/index.html); [Guidelines and Checklists](https://web.archive.org/web/20020609153957id_/http%3A//usability.gov/guidelines/index.html); [Events and Meetings](https://web.archive.org/web/20020609153957id_/http%3A//usability.gov/events/index.html); [Links to Other Usability Sites](https://web.archive.org/web/20020609153957id_/http%3A//usability.gov/links/index.html); and more. 
 
 ************  
   
@@ -88,7 +89,7 @@ These criteria may change to reflect new Web policies at NCI.
 
 **Submission Procedure**
 
-If you would like to nominate your Web site for a link from Usability.gov, please send e-mail to [usabilitystaff@mail.nih.gov](mailto:usabilitystaff@mail.nih.gov) with the following information:
+If you would like to nominate your Web site for a link from Usability.gov, please send e-mail to [ncictbstaff-r@mail.nih.gov](mailto:ncictbstaff-r@mail.nih.gov) with the following information:
 
   * URL;
   * Short summary of the site (fewer than 25 words); 
