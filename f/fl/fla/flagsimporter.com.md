@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flagsimporter.com privacy policy that was archived on 2003-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031123074719id_/http%3A//www.flagsimporter.com/www/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagsimporter.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605153301id_/http%3A//www.flagsimporter.com/www/policy.asp) for the most accurate reproduction.*
 
-# FlagsImporter.com-U.S. Flags,Latin American Flags,Car Flags,Sign Flags,Checkered Flags,Hand Flags
+# FlagsImporter.com-Car Flags,Message Flags,Checkered Flags,Hand Flags,Military Flags,State Flags,Country Flags,Rebel Flags,Pirate Flags,Marijuana Flags,Germas Flags,Operation Iraqi Freedom
 
 We ship merchandise via UPS regular ground after your order has been approved. Please allow UPS ground about 5 business days to ship within U.S.A. Please contact us regarding out of country or truckload shipping. All orders must be prepaid before shipping. This can be done by visa, MasterCard, money order, wire payment or check. If payment is made by check, the order will be held until the check is cleared.
 
