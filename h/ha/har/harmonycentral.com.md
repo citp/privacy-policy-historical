@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonycentral.com privacy policy that was archived on 2000-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000410111507id_/http%3A//harmonycentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonycentral.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331194816id_/http%3A//www.harmony-central.com/privacy.html) for the most accurate reproduction.*
 
 # Harmony Central® Privacy Statement
 
@@ -16,6 +16,6 @@ Upon request, Harmony Central will allow any user to "opt out" of further promot
 
 The foregoing policies are effective as of September 29, 1998. Harmony Central reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-Harmony Central also works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>
+Harmony-Central.com works with a third party that serves ads to this site. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.engage.com/privacy](http://www.engage.com/privacy/).
 
 Any comments or questions about this privacy statement can be directed to [webmaster@harmony-central.com](mailto:webmaster@harmony-central.com).
