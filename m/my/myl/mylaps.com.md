@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylaps.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014210628id_/http%3A//www.mylaps.com/general/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylaps.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627023934id_/http%3A//www.mylaps.com/general/policy.jsp) for the most accurate reproduction.*
 
 # MyLaps.com || powered by AMB transponders
 
